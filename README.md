@@ -36,7 +36,7 @@ De asemenea daca folosim cautatorul website-ului ANAF putem gasi :
 
 [informatii e-Transport](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/Ro_e_Transport.pdf)
 
-De asemenea pot oferi consultanta sau asistenta si chiar va pot oferi generarea unor documente.
+Daca aveti intrebari nu ezitati sa ma contactati via email:
 
-Pentru mai multe relatii va rog contactati-ma la ion.stefanache@yahoo.com
+ion.stefanache@yahoo.com
 
