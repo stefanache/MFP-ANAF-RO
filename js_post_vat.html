@@ -1,5 +1,5 @@
 <script>
-const url = 'https://webservicesp.anaf.ro/PlatitorTvaRest/api/v8/ws/tva';
+const url = "https://webservicesp.anaf.ro/PlatitorTvaRest/api/v8/ws/tva";
 
 let myData = {
   cui: '41433222',
@@ -16,12 +16,10 @@ let fetchData = {
     "Content-Type": "application/json; charset=UTF-8"   
   })
 }
-
-fetch(url, fetchData)
-  .then(function() {
-    // Handle response you get from the API
-      var json = JSON.parse(fetchData);
-      console.log(json);
-      alert(json);
-  });    
+async function logResponse()
+  const response = await fetch(url, fetchData);
+  const json_response= await response.json();
+  console.log(json_response);
+  alert(json_response);
+});    
 </script>
