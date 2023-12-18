@@ -8,6 +8,10 @@ https://www.anaf.ro/CompletareFactura/faces/factura/informatiigenerale.xhtml
 
 Pentru validarea unei facturi stocata in format xml(UBL2.1 sau CII 16B) puteti apela la
 
+Reguli de validare gasiti aici:
+
+https://legislatie.just.ro/Public/DetaliiDocument/261755
+
 https://www.anaf.ro/uploadxmi/
 
 Pot crea aici o aplicatie specifica oricarei persoane fizice(PF) sau juridice(PJ)
