@@ -13,7 +13,7 @@ Daca aveti o factura mai simpla o puteti genera folosind acest lik:
 
 [generator factura](https://www.anaf.ro/CompletareFactura/faces/factura/informatiigenerale.xhtml)
 
-Reguli de validare(RO-CIUS) gasiti in ORDIN nr. 4.092 din 14 noiembrie 2022:
+Reguli de validare(RO_CIUS) gasiti in ORDIN nr. 4.092 din 14 noiembrie 2022:
 
 [O4092/14.11.2022](https://legislatie.just.ro/Public/DetaliiDocument/261755)
 
