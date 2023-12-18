@@ -4,7 +4,7 @@
 
 Dar, puteti avea date de bilant al unei persoane juridice(PJ) spre exemplu si 
 
-daca folositi link-ul pentru informare:
+daca folositi link-ul pentru informare urmator:
 
 [servicii web ANAF- Bilant](https://static.anaf.ro/static/10/Anaf/Informatii_R/doc_WS_Bilant_V1.txt)
 
