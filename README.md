@@ -21,8 +21,7 @@ Pentru validarea unei facturi stocata in format xml(UBL2.1 sau CII 16B) puteti a
 [verificare factura xml](https://www.anaf.ro/uploadxmi/)
 
 Pot crea aici o aplicatie specifica oricarei persoane fizice(PF) sau juridice(PJ)
-din Romania, pentru orice aplicatie doriti legata de 
-formularele ANAF (eFactura,eTransport,SAF-T(D406),D112,...etc)
+din Romania, legata de formularele ANAF (eFactura,eTransport,SAF-T(D406),D112,...etc)
 
 De asemenea pot oferi consultanta sau asistenta si chiar va pot oferi serviciul de 
 generare documente.
