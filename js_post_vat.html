@@ -10,7 +10,12 @@ let fetchData = {
   method: 'POST',
   body: JSON.stringify(data),
   headers: new Headers({
-    'Content-Type': 'application/json; charset=UTF-8'
+    //Enabling CORS
+    'Access-Control-Allow-Origin': '*',
+    'Access-Control-Allow-Headers': 'Origin, X-Requested-With, Content-Type, Accept',
+    'Access-Control-Allow-Methods': 'GET,HEAD,OPTIONS,POST,PUT', 
+    'Content-Type': 'application/json; charset=UTF-8',
+    
   })
 }
 
