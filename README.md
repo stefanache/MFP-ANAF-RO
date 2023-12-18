@@ -7,11 +7,11 @@ Daca aveti o factura mai simpla o puteti genera folosind acest lik:
 
 https://www.anaf.ro/CompletareFactura/faces/factura/informatiigenerale.xhtml
 
-Pentru validarea unei facturi stocata in format xml(UBL2.1 sau CII 16B) puteti apela la
-
 Reguli de validare gasiti in ORDIN nr. 4.092 din 14 noiembrie 2022:
 
 https://legislatie.just.ro/Public/DetaliiDocument/261755
+
+Pentru validarea unei facturi stocata in format xml(UBL2.1 sau CII 16B) puteti apela la
 
 https://www.anaf.ro/uploadxmi/
 
