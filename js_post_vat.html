@@ -55,7 +55,8 @@
         // ✅ Works
         async function getVAT(url) {
           my_headers={
-                accept: 'application/json',
+             'Accept': 'application/json',
+             'Content-Type': 'application/json',
           };
           my_query={
               method: 'GET',
