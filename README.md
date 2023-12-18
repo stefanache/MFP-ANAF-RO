@@ -27,6 +27,10 @@ legata de formularele ANAF (eFactura,eTransport,SAF-T(D406),D112,...etc)
 
 [formulare anaf](https://www.anaf.ro/anaf/internet/ANAF/asistenta_contribuabili/declararea_obligatiilor_fiscale/toate_formularele/)
 
+Daca ne referim spre exemplu la SAF-T(D406) reprezentativ este acest link:
+
+[SAF-T(D406)](https://www.anaf.ro/anaf/internet/ANAF/despre_anaf/strategii_anaf/proiecte_digitalizare/saf_t/!ut/p/a1/04_Sj9CPykssy0xPLMnMz0vMAfGjzOI9DD3MPIwsjLws3AKdDQKDDH1cHb0NDAwszIAKIpEVGHgEGhgEmjp5Bpm6BxgYGBpQpt_EkDL9BmbE6TfAARwJuj9cPwqvEndzdAVYggivAlAY4FUA8iRYAR5fFOSG)
+
 De asemenea pot oferi consultanta sau asistenta si chiar va pot oferi generarea unor documente.
 
 Pentru mai multe relatii va rog contactati-ma la ion.stefanache@yahoo.com
