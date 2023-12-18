@@ -6,6 +6,10 @@ Daca aveti o factura mai simpla o puteti genera folosind acest lik:
 
 https://www.anaf.ro/CompletareFactura/faces/factura/informatiigenerale.xhtml
 
+Pentru validarea unei facturi stocata in format xml(UBL2.1 sau CII 16B) puteti apela la
+
+https://www.anaf.ro/uploadxmi/
+
 Pot crea aici o aplicatie specifica oricarei persoane fizice(PF) sau juridice(PJ)
 din Romania, la comanda(contra-cost) pentru orice aplicatie doriti legata de 
 formularele ANAF (eFactura,eTransport,SAF-T(D406),D112,...etc)
