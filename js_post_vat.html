@@ -27,13 +27,14 @@
             referrerPolicy: "no-referrer", // no-referrer, *no-referrer-when-downgrade, origin, origin-when-cross-origin, same-origin, strict-origin, strict-origin-when-cross-origin, unsafe-url
             body: JSON.stringify(data), // body data type must match "Content-Type" header
           };
-          const response = await fetch(url, my_query);
+          response = await fetch(url, my_query);
           return response.json(); // parses JSON response into native JavaScript objects
         }
-        
-        postData("https://webservicesp.anaf.ro/PlatitorTvaRest/api/v8/ws/tva", { cui: '41433222',  data: '2015-02-14'}).then((data) => {
-          console.log(data); // JSON data parsed by `data.json()` call
-          alert(data.json());
+        const my_url="https://webservicesp.anaf.ro/PlatitorTvaRest/api/v8/ws/tva";
+        const my_data_post={ cui: '41433222',  data: '2015-02-14'};
+        postData(my_url, my_data_post).then((data_response) => {
+          console.log(data_response); // JSON data parsed by `data.json()` call
+          alert(data_response.json());
         });
       } else {
         alert("DO not have support for 'fetch'... !");
