@@ -35,7 +35,7 @@
         const my_data_post={ cui: '41433222',  data: '2015-02-14'};
         postData(my_url, my_data_post).then((data_response) => {
           console.log(data_response); // JSON data parsed by `data.json()` call
-          alert(data_response.json());
+          alert(data_response);
         });
       } else {
         alert("DO not have support for 'fetch'... !");
