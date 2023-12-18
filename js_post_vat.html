@@ -20,21 +20,19 @@
           };
           const today = new Date().toISOString().slice(0, 10);
           const data = [{ 'cui': cui, 'data': today }];
-      
-          return fetch(url, {
+          var my_query={
               method: 'POST',
               headers: headers,
               body: JSON.stringify(data)
-          })
-              .then(response => response.text())
-              .then(data => console.log(data))
-              .catch((error) => console.error('Error:', error));
+          };
+          return fetch(url, my_query).then(response => response.text()).then(data => console.log(data)).catch((error) => console.error('Error:', error));
       }
             
       if (window.fetch) {
         // run my fetch request here
         cui= '41433222';
-        sync_vat_api(cui)
+        response=sync_vat_api(cui);
+        console.log(response);
       } else {
         alert("DO not have support for 'fetch'... !");
       }
