@@ -17,10 +17,11 @@ let fetchData = {
     },
   body: JSON.stringify(myData),     // body data type must match "Content-Type" header  
 }
-async function logResponse()
+async function logResponse(){
   var response = await fetch(url, fetchData);
   var json_response= await response.json();
   console.log(json_response);
   alert(json_response);
-});    
+}; 
+logResponse();  
 </script>
