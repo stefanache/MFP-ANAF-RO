@@ -5,13 +5,13 @@ let data = {
   cui: '41433222',
   data: '2015-02-14'
 }
-
+//Enabling CORS
 //    'Access-Control-Allow-Methods': 'GET,HEAD,OPTIONS,POST,PUT', 
 let fetchData = {
   method: 'POST',
   body: JSON.stringify(data),
   headers: new Headers({
-    //Enabling CORS
+   
     'Access-Control-Allow-Origin': '*',
     'Access-Control-Allow-Headers': 'Origin, X-Requested-With, Content-Type, Accept',
     'Content-Type': 'application/json; charset=UTF-8'   
