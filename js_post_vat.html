@@ -54,11 +54,13 @@
         
         // ✅ Works
         async function getVAT(url) {
+          my_headers={
+                accept: 'application/json',
+          };
           my_query={
               method: 'GET',
-              headers: {
-                accept: 'application/json',
-              };
+              headers: my_headers,
+          };
           try {
             const response = await fetch(url, my_query,});
         
