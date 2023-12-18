@@ -9,33 +9,32 @@
   </head>
   <body>
   	<script type="application/javascript">
+      function sync_vat_api(cui) {
+          const url = 'https://webservicesp.anaf.ro/PlatitorTvaRest/api/v8/ws/tva';
+          const headers = {
+              'Accept': 'application/json',
+              'Accept-Language': 'en-US,en;q=0.7,ro;q=0.3',
+              'Connection': 'keep-alive',
+              'Referer': 'https://mfinante.gov.ro',
+              'Content-Type': 'application/json',
+          };
+          const today = new Date().toISOString().slice(0, 10);
+          const data = [{ 'cui': cui, 'data': today }];
+      
+          return fetch(url, {
+              method: 'POST',
+              headers: headers,
+              body: JSON.stringify(data)
+          })
+              .then(response => response.text())
+              .then(data => console.log(data))
+              .catch((error) => console.error('Error:', error));
+      }
+            
       if (window.fetch) {
         // run my fetch request here
-        const my_url="https://webservicesp.anaf.ro/AsynchWebService/api/v3/ws/tva";
-        const my_data_post={ cui: '41433222',  data: '2015-02-14'};
-        async function postData(url = "", data = {}) {
-          my_headers= new Headers({
-              "Cache-Control": "no-cache",
-              "Content-Type": "application/json",
-              // 'Content-Type': 'application/x-www-form-urlencoded',
-            });
-          // Default options are marked with *
-          my_query = {
-            method: "POST", // *GET, POST, PUT, DELETE, etc.
-            mode: "cors", // no-cors, *cors, same-origin
-            cache: "no-cache", // *default, no-cache, reload, force-cache, only-if-cached
-            credentials: "omit", // include, *same-origin, omit
-            headers: my_headers,
-            redirect: "follow", // manual, *follow, error
-            referrerPolicy: "no-referrer", // no-referrer, *no-referrer-when-downgrade, origin, origin-when-cross-origin, same-origin, strict-origin, strict-origin-when-cross-origin, unsafe-url
-            body: JSON.stringify(data), // body data type must match "Content-Type" header
-          };
-          const response = await fetch(url, my_query);
-          const data_response = await response.json(); // parses JSON response into native JavaScript objects
-          console.log(data_response); // JSON data parsed by `data.json()` call
-          alert(data_response);          
-        }
-        postData(my_url, my_data_post)
+        cui= '41433222';
+        sync_vat_api(cui)
       } else {
         alert("DO not have support for 'fetch'... !");
       }
