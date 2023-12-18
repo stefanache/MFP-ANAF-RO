@@ -6,6 +6,7 @@ let data = {
   data: '2015-02-14'
 }
 
+//    'Access-Control-Allow-Methods': 'GET,HEAD,OPTIONS,POST,PUT', 
 let fetchData = {
   method: 'POST',
   body: JSON.stringify(data),
@@ -13,9 +14,7 @@ let fetchData = {
     //Enabling CORS
     'Access-Control-Allow-Origin': '*',
     'Access-Control-Allow-Headers': 'Origin, X-Requested-With, Content-Type, Accept',
-    'Access-Control-Allow-Methods': 'GET,HEAD,OPTIONS,POST,PUT', 
-    'Content-Type': 'application/json; charset=UTF-8',
-    
+    'Content-Type': 'application/json; charset=UTF-8'   
   })
 }
 
