@@ -30,7 +30,7 @@ Daca este sa ne referim spre exemplu la SAF-T(D406) reprezentativ este acest lin
 
 [SAF-T(D406)](https://www.anaf.ro/anaf/internet/ANAF/despre_anaf/strategii_anaf/proiecte_digitalizare/saf_t/!ut/p/a1/04_Sj9CPykssy0xPLMnMz0vMAfGjzOI9DD3MPIwsjLws3AKdDQKDDH1cHb0NDAwszIAKIpEVGHgEGhgEmjp5Bpm6BxgYGBpQpt_EkDL9BmbE6TfAARwJuj9cPwqvEndzdAVYggivAlAY4FUA8iRYAR5fFOSG)
 
-avand urmatoarea [schema de validare(xsd)](https://stefanache.github.io/MFP-ANAF-RO/Ro_SAFT_Schema_v248_20231121.xsd)
+avand urmatoarea [schema de validare .xsd](https://stefanache.github.io/MFP-ANAF-RO/Ro_SAFT_Schema_v248_20231121.xsd)
 
 De asemenea daca folosim cautatorul website-ului ANAF putem gasi :
 
