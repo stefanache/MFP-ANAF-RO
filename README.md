@@ -10,7 +10,7 @@ daca folositi link-ul pentru informare:
 
 Daca aveti o factura mai simpla o puteti genera folosind acest lik:
 
-https://www.anaf.ro/CompletareFactura/faces/factura/informatiigenerale.xhtml
+[generator factura](https://www.anaf.ro/CompletareFactura/faces/factura/informatiigenerale.xhtml)
 
 Reguli de validare gasiti in ORDIN nr. 4.092 din 14 noiembrie 2022:
 
