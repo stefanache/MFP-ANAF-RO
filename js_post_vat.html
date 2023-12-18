@@ -9,7 +9,7 @@
   </head>
   <body>
   	<script type="application/javascript">
-      function sync_vat_api(cui) {
+      async function async_anaf_vat_api(cui) {
           const url = 'https://webservicesp.anaf.ro/PlatitorTvaRest/api/v8/ws/tva';
           const headers = {
               'Accept': 'application/json',
@@ -21,17 +21,29 @@
           const today = new Date().toISOString().slice(0, 10);
           const data = [{ 'cui': cui, 'data': today }];
           var my_query={
-              method: 'POST',
-              headers: headers,
-              body: JSON.stringify(data)
+                  method: 'POST',
+                  headers: headers,
+                  body: JSON.stringify(data),
           };
-          return fetch(url, my_query).then(response => response.text()).then(data => console.log(data)).catch((error) => console.error('Error:', error));
+          try {
+              const response = await fetch(url, my_query);
+      
+              if (!response.ok) {
+                  throw new Error(`HTTP error! status: ${response.status}`);
+              }
+      
+              const result = await response.json();
+              console.log('TVA API Response:', JSON.stringify(result));
+              return result;
+          } catch (error) {
+              console.log('There was a problem with the fetch operation:', error);
+          }
       }
             
       if (window.fetch) {
         // run my fetch request here
         cui= '41433222';
-        sync_vat_api(cui);
+        async_anaf_vat_api(cui);
       } else {
         alert("DO not have support for 'fetch'... !");
       }
