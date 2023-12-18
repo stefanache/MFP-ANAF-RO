@@ -50,13 +50,31 @@
         //sync_anaf_vat_api(cui);
           
         var today = new Date().toISOString().slice(0, 10);
-        var url = 'https://www.verificaretva.ro/api/apiv5.aspx?key=&cui='+cui+'&data='+today+'&bilant=0&realtime=0&lang=en';
+        var my_url = 'https://www.verificaretva.ro/api/apiv5.aspx?key=&cui='+cui+'&data='+today+'&bilant=0&realtime=0&lang=en';
         
-        fetch(url)
-        .then(res => res.json())
-        .then(out =>
-          console.log('Checkout this JSON! ', out))
-        .catch(err => { throw err }); 
+        // ✅ Works
+        async function getVAT(url) {
+          my_query={
+              method: 'GET',
+              headers: {
+                accept: 'application/json',
+              };
+          try {
+            const response = await fetch(url, my_query,});
+        
+            if (!response.ok) {
+              throw new Error(`Error! status: ${response.status}`);
+            }
+        
+            const result = await response.json();
+            return result;
+          } catch (err) {
+            console.log(err);
+          }
+        }
+        
+        vat=getVAT(my_url);
+        console.log(vat.json());
         
       } else {
         alert("DO not have support for 'fetch'... !");
