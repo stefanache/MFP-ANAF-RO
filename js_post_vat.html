@@ -13,7 +13,7 @@
           const today = new Date().toISOString().slice(0, 10);
           //const url = 'https://webservicesp.anaf.ro/PlatitorTvaRest/api/v8/ws/tva';
           //const url='https://webservicesp.anaf.ro/AsynchWebService/api/v8/ws/tva';
-          var url='https://www.verificaretva.ro/api/apiv5.aspx?key=&cui='+cui+'&data='+today+'&bilant=0&realtime=0&lang=en'
+          var url='https://www.verificaretva.ro/api/apiv5.aspx?key=&cui='+cui+'&data='+today+'&bilant=0&realtime=0&lang=en';
           const headers = {
               'Accept': 'application/json',
               'Accept-Language': 'en-US,en;q=0.7,ro;q=0.3',
@@ -45,8 +45,20 @@
             
       if (window.fetch) {
         // run my fetch request here
-        cui= '41433222';
-        sync_anaf_vat_api(cui);
+        
+        const cui= '41433222';
+        let url=
+        //sync_anaf_vat_api(cui);
+          
+        const today = new Date().toISOString().slice(0, 10);
+        let url = 'https://www.verificaretva.ro/api/apiv5.aspx?key=&cui='+cui+'&data='+today+'&bilant=0&realtime=0&lang=en';
+        
+        fetch(url)
+        .then(res => res.json())
+        .then(out =>
+          console.log('Checkout this JSON! ', out))
+        .catch(err => { throw err }); 
+        
       } else {
         alert("DO not have support for 'fetch'... !");
       }
