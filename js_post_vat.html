@@ -47,11 +47,10 @@
         // run my fetch request here
         
         const cui= '41433222';
-        let url=
         //sync_anaf_vat_api(cui);
           
-        const today = new Date().toISOString().slice(0, 10);
-        let url = 'https://www.verificaretva.ro/api/apiv5.aspx?key=&cui='+cui+'&data='+today+'&bilant=0&realtime=0&lang=en';
+        var today = new Date().toISOString().slice(0, 10);
+        var url = 'https://www.verificaretva.ro/api/apiv5.aspx?key=&cui='+cui+'&data='+today+'&bilant=0&realtime=0&lang=en';
         
         fetch(url)
         .then(res => res.json())
