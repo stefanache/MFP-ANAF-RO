@@ -3,6 +3,7 @@ ANAF pune la dispozitie acesasta pagina despre serviicle sale web:
 [servicii web ANAF](https://www.anaf.ro/anaf/internet/ANAF/servicii_online/servicii_web_anaf)
 
 Dar, puteti avea date de bilant al unei persoane juridice(PJ) spre exemplu si 
+
 daca folositi link-ul pentru informare:
 
 [servicii web ANAF- Bilant](https://static.anaf.ro/static/10/Anaf/Informatii_R/doc_WS_Bilant_V1.txt)
