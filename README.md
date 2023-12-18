@@ -34,7 +34,7 @@ avand urmatoarea [schema de validare .xsd](https://stefanache.github.io/MFP-ANAF
 
 De asemenea daca folosim cautatorul website-ului ANAF putem gasi :
 
-[informatii e-Transport(https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/Ro_e_Transport.pdf)
+[informatii e-Transport](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/Ro_e_Transport.pdf)
 
 De asemenea pot oferi consultanta sau asistenta si chiar va pot oferi generarea unor documente.
 
