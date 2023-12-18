@@ -1,1 +1,1 @@
-https://stefanache.github.io/MFP-ANAF-RO/js_post_vat.html
+[https://stefanache.github.io/MFP-ANAF-RO/js_post_vat.html](https://www.verificaretva.ro/api/apiv5.aspx?key=&cui=10874881&data=2023-12-18&bilant=0&realtime=0&lang=en)https://www.verificaretva.ro/api/apiv5.aspx?key=&cui='+cui+'&data='+today+'&bilant=0&realtime=0&lang=en
