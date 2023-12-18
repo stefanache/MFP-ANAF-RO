@@ -7,5 +7,6 @@ formularele ANAF (eFactura,eTransport,SAF-T(D406),D112,...etc)
 
 De asemenea pot oferi consultanta sau asistenta si chiar va pot oferi serviciul de 
 generare documente.
+
 Pentru mai multe relatii va rog contactati-ma la ion.stefanache@yahoo.com
 
