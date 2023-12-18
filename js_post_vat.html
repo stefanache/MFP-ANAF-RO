@@ -31,8 +31,7 @@
       if (window.fetch) {
         // run my fetch request here
         cui= '41433222';
-        response=sync_vat_api(cui);
-        console.log(response);
+        sync_vat_api(cui);
       } else {
         alert("DO not have support for 'fetch'... !");
       }
