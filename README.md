@@ -4,7 +4,7 @@ Puteti avea date de bilant ale unei persoane juridice(PJ) spre exemplu folosind 
 
 Daca folositi o factura mai simpla atunci o puteti genera folosind acest [generator ANAF e-Factura](https://www.anaf.ro/CompletareFactura/faces/factura/informatiigenerale.xhtml)
 
-Regulile de validare(RO_CIUS) ale facturii, le gasiti in ORDIN nr. 4.092 din 14 noiembrie 2022: [O4092/14.11.2022](https://legislatie.just.ro/Public/DetaliiDocument/261755)
+Regulile de validare(RO_CIUS) ale facturii, le gasiti in ORDIN-ul nr. 4.092 din 14 noiembrie 2022: [O4092/14.11.2022](https://legislatie.just.ro/Public/DetaliiDocument/261755)
 
 Pentru validarea unei facturi stocata in format xml(UBL2.1 sau CII 16B) puteti apela la urmatorul link: [verificare factura xml](https://www.anaf.ro/uploadxmi/)
 
