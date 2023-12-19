@@ -2,9 +2,7 @@
 
 Dar, puteti avea date de bilant ale unei persoane juridice(PJ) spre exemplu si 
 
-daca folositi link-ul pentru informare urmator:
-
-[servicii web ANAF- Bilant](https://static.anaf.ro/static/10/Anaf/Informatii_R/doc_WS_Bilant_V1.txt)
+daca folositi link-ul pentru informare urmator: [servicii web ANAF- Bilant](https://static.anaf.ro/static/10/Anaf/Informatii_R/doc_WS_Bilant_V1.txt)
 
 Daca aveti o factura mai simpla o puteti genera folosind acest lik:
 
