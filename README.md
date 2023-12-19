@@ -18,7 +18,9 @@ Regulile de validare(RO_CIUS) ale eFacturii, le gasiti in ORDIN-ul nr. 4.092 din
 
 Pentru validarea unei facturi stocata in format xml(UBL2.1 sau CII 16B) puteti apela la urmatorul link: [verificare factura xml](https://www.anaf.ro/uploadxmi/)
 
-Ocolectie de Intrebari si Raspunsuri legate de facturare gasiti si pe site-ul [MFP(FAQ)](https://mfinante.gov.ro/documents/4398723/5002737/E-facturaFAQ.pdf)
+Dar cea mai importanta sursa de documentare ramane pagina oficiala ANAF ce cuprinde [informatii tehnice ANAF privind eFactura](https://mfinante.gov.ro/documents/4398723/5002737/E-facturaFAQ.pdf).
+
+O colectie de Intrebari si Raspunsuri legate de facturare gasiti si pe site-ul [MFP(FAQ)](https://mfinante.gov.ro/documents/4398723/5002737/E-facturaFAQ.pdf)
 
 Folosind [magazinul ASRO](https://magazin.asro.ro/ro/colectie-standarde/819) putem procura documente referitoare la standardele implicate in raportarea fiscala si nu numai.
 
