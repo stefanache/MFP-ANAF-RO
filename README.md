@@ -2,7 +2,7 @@
 
 [servicii web ANAF](https://www.anaf.ro/anaf/internet/ANAF/servicii_online/servicii_web_anaf)
 
-Dar, puteti avea date de bilant al unei persoane juridice(PJ) spre exemplu si 
+Dar, puteti avea date de bilant ale unei persoane juridice(PJ) spre exemplu si 
 
 daca folositi link-ul pentru informare urmator:
 
