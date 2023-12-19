@@ -14,7 +14,8 @@ Puteti de asemenea consulta si aceste [clarificari ANAF privind eFactura](https:
 
 Daca folositi o factura mai simpla atunci o puteti genera folosind acest [generator XML{sintaxa UBL2.1} ANAF e-Factura](https://www.anaf.ro/CompletareFactura/faces/factura/informatiigenerale.xhtml)
 
-Acest generator eFactura-XML utilizeaza un [validator DOM](https://www.anaf.ro/CompletareFactura/faces/factura/validare.js) care trebuie armonizat cu regulile(BR) ale CIUS_RO.
+Acest generator eFactura-XML utilizeaza un [pre-validator DOM](https://www.anaf.ro/CompletareFactura/faces/factura/validare.js) pentru interfatarea cu utilizatorul(GUI/ftontend), care trebuie armonizat cu regulile(BR) ale CIUS_RO.
+Desigur restul validarilor ce acopera cerintele standardului aferent eFacturii(RO_CIUS) revine partii de back-office(backend)
 
 Regulile de validare(RO_CIUS) ale eFacturii, le gasiti in ORDIN-ul nr. 4.092 din 14 noiembrie 2022: [O4092/14.11.2022](https://legislatie.just.ro/Public/DetaliiDocument/261755)
 
