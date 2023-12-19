@@ -12,9 +12,7 @@ Pentru validarea unei facturi stocata in format xml(UBL2.1 sau CII 16B) puteti a
 
 Pot crea aici o aplicatie specifica oricarei persoane fizice(PF) sau juridice(PJ) din RO,
 
-legata de formularele ANAF (eFactura,eTransport,SAF-T(D406),D112,...etc)
-
-[formulare ANAF](https://www.anaf.ro/anaf/internet/ANAF/asistenta_contribuabili/declararea_obligatiilor_fiscale/toate_formularele/)
+legata de formularele ANAF (eFactura,eTransport,SAF-T(D406),D112,...etc) [formulare ANAF](https://www.anaf.ro/anaf/internet/ANAF/asistenta_contribuabili/declararea_obligatiilor_fiscale/toate_formularele/)
 
 Daca este sa ne referim spre exemplu la SAF-T(D406) reprezentativ este acest link:
 
