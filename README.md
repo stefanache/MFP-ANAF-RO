@@ -1,4 +1,4 @@
-[ANAF](https://www.anaf.ro/) pune la dispozitie acesasta pagina despre serviicle sale web: [servicii web ANAF](https://www.anaf.ro/anaf/internet/ANAF/servicii_online/servicii_web_anaf)
+[ANAF](https://www.anaf.ro/) pune la dispozitie acesasta pagina despre serviciile sale web: [servicii web ANAF](https://www.anaf.ro/anaf/internet/ANAF/servicii_online/servicii_web_anaf)
 
 Dar, puteti avea date de bilant ale unei persoane juridice(PJ) spre exemplu si daca folositi 
 
