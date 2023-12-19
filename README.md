@@ -4,7 +4,7 @@ Dar, puteti avea date de bilant ale unei persoane juridice(PJ) spre exemplu si d
 
 link-ul pentru informare urmator: [servicii web ANAF- Bilant](https://static.anaf.ro/static/10/Anaf/Informatii_R/doc_WS_Bilant_V1.txt)
 
-Daca aveti o factura mai simpla o puteti genera folosind acest link: [generator e-Factura](https://www.anaf.ro/CompletareFactura/faces/factura/informatiigenerale.xhtml)
+Daca folositi o factura mai simpla, atunci o puteti genera folosind acest [generator ANAF e-Factura](https://www.anaf.ro/CompletareFactura/faces/factura/informatiigenerale.xhtml)
 
 Reguli de validare(RO_CIUS) gasiti in ORDIN nr. 4.092 din 14 noiembrie 2022: [O4092/14.11.2022](https://legislatie.just.ro/Public/DetaliiDocument/261755)
 
