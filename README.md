@@ -20,8 +20,9 @@ In general despre schemele de validare gasiti informatii folosind
 [cautare ANAF despre xsd-uri](https://www.anaf.ro/anaf/internet/ANAF/cautare/!ut/p/a1/jY9BDoIwEEXP4gFkBg0t2xIJhbCwGAN0Y0oCiCI1lcj1BVeaiDq7n7yf_wYkZCA7dW9q1Te6U-2UJTlwmxO-cleRK5iPIt55fmhzDBJ7BPJXALlAFI4XJk6wRUTyXx9njuGvfgryHflg8AS-TEQg61YX47upB3JDcxqzSYx1xdqtQZqyKk1prKO-9ZANw2CpTlWW0ZCP9nRWjxK4XvYZnpxzuhSLB_UDVo4!/dl5/d5/L2dBISEvZ0FBIS9nQSEh/pw/Z7_H1H6H282J8QAE0QLSBEI1H0G76/act/id=0/p=spf_ActionName=spf_ActionListener/p=spf_strutsAction=QCB2fcautare.do/564187159074/=/#Z7_H1H6H282J8QAE0QLSBEI1H0G76)
 
 De asemenea daca folosim cautatorul website-ului ANAF putem gasi : [informatii e-Transport](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/Ro_e_Transport.pdf)
+ori [informatii tehnice eTransport](https://etransport.mfinante.gov.ro/informatii-tehnice)
 
-Un link MFP va poate indruma catre [informatii despre formularele F11xx](https://mfinante.gov.ro/web/forexepublic/informatii-publice)
+Un link MFP va poate indruma catre [informatii MFP despre formularele F11xx](https://mfinante.gov.ro/web/forexepublic/informatii-publice)
 
 Daca aveti intrebari,nelamuriri sau doriti sa sustineti ori sa colaboram pentru a elabora o aplicatie, 
 
