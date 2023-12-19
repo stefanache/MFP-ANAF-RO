@@ -1,8 +1,6 @@
 [ANAF](https://www.anaf.ro/) pune la dispozitie acesasta pagina despre serviicle sale web: [servicii web ANAF](https://www.anaf.ro/anaf/internet/ANAF/servicii_online/servicii_web_anaf)
 
-Dar, puteti avea date de bilant ale unei persoane juridice(PJ) spre exemplu si 
-
-daca folositi link-ul pentru informare urmator: [servicii web ANAF- Bilant](https://static.anaf.ro/static/10/Anaf/Informatii_R/doc_WS_Bilant_V1.txt)
+Dar, puteti avea date de bilant ale unei persoane juridice(PJ) spre exemplu si daca folositi link-ul pentru informare urmator: [servicii web ANAF- Bilant](https://static.anaf.ro/static/10/Anaf/Informatii_R/doc_WS_Bilant_V1.txt)
 
 Daca aveti o factura mai simpla o puteti genera folosind acest link: [generator e-Factura](https://www.anaf.ro/CompletareFactura/faces/factura/informatiigenerale.xhtml)
 
