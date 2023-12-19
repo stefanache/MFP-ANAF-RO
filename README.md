@@ -41,7 +41,7 @@ ori pe site-ul MFP [informatii tehnice MFP eTransport](https://etransport.mfinan
 
 Un link MFP va poate indruma catre [informatii MFP despre formularele F11xx](https://mfinante.gov.ro/web/forexepublic/informatii-publice)
 
-Daca aveti intrebari/nelamuriri sau doriti sa sustineti ori sa colaboram in vederea dezvoltarii unei aplicatii specifice ANAF sau MFP, 
+Daca aveti intrebari/nelamuriri sau doriti sa sustineti ori sa colaboram in vederea dezvoltarii unei aplicatii specifice ANAF/MFP, 
 
 va rog, nu ezitati sa ma contactati via email:  ion.stefanache@yahoo.com
 
