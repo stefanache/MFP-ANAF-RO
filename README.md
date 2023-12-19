@@ -24,7 +24,7 @@ avand urmatoarea [schema de validare .xsd pt SAF-T(D406)](https://stefanache.git
 
 In general pentru informare ANAF(RO-CIUS, XSD-uri,formulare,...) puteti folosi [motorul de cautare ANAF](https://www.anaf.ro/anaf/internet/ANAF/cautare/)
 
-De asemenea daca folosim cautatorul website-ului ANAF putem gasi : [informatii ANAF e-Transport](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/Ro_e_Transport.pdf)
+Spre exemplu, daca folosim cautatorul website-ului ANAF putem gasi : [informatii ANAF e-Transport](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/Ro_e_Transport.pdf)
 
 ori pe site-ul MFP [informatii tehnice MFP eTransport](https://etransport.mfinante.gov.ro/informatii-tehnice)
 
