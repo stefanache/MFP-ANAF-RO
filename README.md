@@ -12,7 +12,7 @@ Conform acestui [comunicat de presa al MFP](https://mfinante.gov.ro/ro/despre-mi
 
 Puteti de asemenea consulta si aceste [clarificari ANAF privind eFactura](https://static.anaf.ro/static/10/Anaf/Informatii_R/ClarificareRO_eFactura.pdf)
 
-Daca folositi o factura mai simpla atunci o puteti genera folosind acest [generator XML ANAF e-Factura](https://www.anaf.ro/CompletareFactura/faces/factura/informatiigenerale.xhtml)
+Daca folositi o factura mai simpla atunci o puteti genera folosind acest [generator XML{sintaxa UBL2.1} ANAF e-Factura](https://www.anaf.ro/CompletareFactura/faces/factura/informatiigenerale.xhtml)
 
 Regulile de validare(RO_CIUS) ale eFacturii, le gasiti in ORDIN-ul nr. 4.092 din 14 noiembrie 2022: [O4092/14.11.2022](https://legislatie.just.ro/Public/DetaliiDocument/261755)
 
