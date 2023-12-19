@@ -8,7 +8,7 @@ Apoi prezinta un deo sebit interes relativ la facturarea electronica aceasta [pr
 
 [Informatii ANAF despre eFactura](https://static.anaf.ro/static/10/Anaf/Informatii_R/e_factura.htm) gasiti pe site-ul ANAF
 
-Daca doriti puteti consulta si acest [ghid eFactura editat de ANAF](https://mfinante.gov.ro/static/10/Mfp/ghidE-FACTURA.pdf)
+Conform acestui [comunicat](ghidul-e-factura.-ce-trebuie-s-c4-83-c8-99tie-contribuabilii-pentru-a-emite-c8-99i-prelua-facturi-electronice?_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_uwgr_assetEntryId=10883804&_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_uwgr_redirect=https%3A%2F%2Fmfinante.gov.ro%2Fro%2Fdespre-minister%3Fp_p_id%3Dcom_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_uwgr%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_uwgr_cur%3D0%26p_r_p_resetCur%3Dfalse%26_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_uwgr_assetEntryId%3D10883804) este util sa consultati si acest [ghid eFactura editat de ANAF](https://mfinante.gov.ro/static/10/Mfp/ghidE-FACTURA.pdf)
 
 Puteti de asemenea consulta si aceste [clarificari ANAF privind eFactura](https://static.anaf.ro/static/10/Anaf/Informatii_R/ClarificareRO_eFactura.pdf)
 
@@ -23,6 +23,7 @@ La comanda, putem sa cream in acest depozit-static, aplicatii specifice oricarei
 legate de toate formularele ANAF (eFactura,eTransport,SAF-T(D406),D112,...etc) [formulare ANAF](https://www.anaf.ro/anaf/internet/ANAF/asistenta_contribuabili/declararea_obligatiilor_fiscale/toate_formularele/)
 
 De asemenea, puteti cauta o serie de informatii provind [facturarea electronica pe site-ul ASRO](https://magazin.asro.ro/Search?q=factura+electronica)
+
 
 Daca este sa ne referim spre exemplu la SAF-T(D406) reprezentativ este acest link: [SAF-T(D406)](https://www.anaf.ro/anaf/internet/ANAF/despre_anaf/strategii_anaf/proiecte_digitalizare/saf_t/!ut/p/a1/04_Sj9CPykssy0xPLMnMz0vMAfGjzOI9DD3MPIwsjLws3AKdDQKDDH1cHb0NDAwszIAKIpEVGHgEGhgEmjp5Bpm6BxgYGBpQpt_EkDL9BmbE6TfAARwJuj9cPwqvEndzdAVYggivAlAY4FUA8iRYAR5fFOSG)
 
