@@ -39,6 +39,7 @@ De asemenea daca folosim cautatorul website-ului ANAF putem gasi :
 
 [informatii e-Transport](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/Ro_e_Transport.pdf)
 
+Un link MFP va poate indruma catre [informatii despre formulare](https://mfinante.gov.ro/web/forexepublic/informatii-publice)  
 Daca aveti intrebari nu ezitati sa ma contactati via email:
 
 ion.stefanache@yahoo.com
