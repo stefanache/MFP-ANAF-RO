@@ -24,7 +24,7 @@ Pot crea aici o aplicatie specifica oricarei persoane fizice(PF) sau juridice(PJ
 
 legata de formularele ANAF (eFactura,eTransport,SAF-T(D406),D112,...etc)
 
-[formulare anaf](https://www.anaf.ro/anaf/internet/ANAF/asistenta_contribuabili/declararea_obligatiilor_fiscale/toate_formularele/)
+[formulare ANAF](https://www.anaf.ro/anaf/internet/ANAF/asistenta_contribuabili/declararea_obligatiilor_fiscale/toate_formularele/)
 
 Daca este sa ne referim spre exemplu la SAF-T(D406) reprezentativ este acest link:
 
