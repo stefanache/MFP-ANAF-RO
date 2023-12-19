@@ -6,9 +6,7 @@ daca folositi link-ul pentru informare urmator: [servicii web ANAF- Bilant](http
 
 Daca aveti o factura mai simpla o puteti genera folosind acest link: [generator e-Factura](https://www.anaf.ro/CompletareFactura/faces/factura/informatiigenerale.xhtml)
 
-Reguli de validare(RO_CIUS) gasiti in ORDIN nr. 4.092 din 14 noiembrie 2022:
-
-[O4092/14.11.2022](https://legislatie.just.ro/Public/DetaliiDocument/261755)
+Reguli de validare(RO_CIUS) gasiti in ORDIN nr. 4.092 din 14 noiembrie 2022: [O4092/14.11.2022](https://legislatie.just.ro/Public/DetaliiDocument/261755)
 
 Pentru validarea unei facturi stocata in format xml(UBL2.1 sau CII 16B) puteti apela la
 
