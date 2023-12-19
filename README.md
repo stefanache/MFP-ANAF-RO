@@ -10,7 +10,7 @@ Reguli de validare(RO_CIUS) gasiti in ORDIN nr. 4.092 din 14 noiembrie 2022: [O4
 
 Pentru validarea unei facturi stocata in format xml(UBL2.1 sau CII 16B) puteti apela la urmatorul link: [verificare factura xml](https://www.anaf.ro/uploadxmi/)
 
-Putem sa cream in acest depozit static, aplicatii specifice oricarei persoane fizice(PF) sau juridice(PJ) din RO,
+La comanda, putem sa cream in acest depozit-static, aplicatii specifice oricarei persoane fizice(PF) sau juridice(PJ) din RO,
 
 legata de formularele ANAF (eFactura,eTransport,SAF-T(D406),D112,...etc) [formulare ANAF](https://www.anaf.ro/anaf/internet/ANAF/asistenta_contribuabili/declararea_obligatiilor_fiscale/toate_formularele/)
 
