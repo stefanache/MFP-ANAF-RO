@@ -1,4 +1,4 @@
-[ANAF](https://www.anaf.ro/) pune la dispozitie acesasta pagina despre serviciile sale web: [servicii web ANAF](https://www.anaf.ro/anaf/internet/ANAF/servicii_online/servicii_web_anaf)
+[ANAF](https://www.anaf.ro/) pune la dispozitie aceasta pagina despre serviciile sale web: [servicii web ANAF](https://www.anaf.ro/anaf/internet/ANAF/servicii_online/servicii_web_anaf)
 
 Puteti avea date de bilant ale unei persoane juridice(PJ) folosind link-ul urmator: [servicii web ANAF- Bilant](https://static.anaf.ro/static/10/Anaf/Informatii_R/doc_WS_Bilant_V1.txt)
 
