@@ -22,8 +22,7 @@ Daca este sa ne referim spre exemplu la SAF-T(D406) reprezentativ este acest lin
 
 avand urmatoarea [schema de validare .xsd pt SAF-T(D406)](https://stefanache.github.io/MFP-ANAF-RO/Ro_SAFT_Schema_v248_20231121.xsd)
 
-In general despre schemele de validare gasiti informatii folosind
-[cautare ANAF despre xsd-uri](https://www.anaf.ro/anaf/internet/ANAF/cautare/)
+In general pentru informare ANAF(RO-CIUS, XSD-uri,formulare,...) puteti folosi [motorul de cautare ANAF](https://www.anaf.ro/anaf/internet/ANAF/cautare/)
 
 De asemenea daca folosim cautatorul website-ului ANAF putem gasi : [informatii ANAF e-Transport](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/Ro_e_Transport.pdf)
 
