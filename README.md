@@ -6,6 +6,8 @@ Puteti avea date de bilant ale unei persoane juridice(PJ) folosind link-ul urmat
 
 [Informatii ANAF despre eFactura](https://static.anaf.ro/static/10/Anaf/Informatii_R/e_factura.htm) gasiti pe site-ul ANAF
 
+Daca doriti puteti consulta si acest [ghid eFactura editat de ANAF](https://mfinante.gov.ro/static/10/Mfp/ghidE-FACTURA.pdf)
+
 Puteti de asemenea consulta si aceste [clarificari ANAF privind eFactura](https://static.anaf.ro/static/10/Anaf/Informatii_R/ClarificareRO_eFactura.pdf)
 
 Daca folositi o factura mai simpla atunci o puteti genera folosind acest [generator XML ANAF e-Factura](https://www.anaf.ro/CompletareFactura/faces/factura/informatiigenerale.xhtml)
