@@ -43,7 +43,7 @@ Un document util este si acest [document de asistenta pt pregatirea D406/SAF-T](
 Despre D406/SAF-T gasim o prezentare pe site-ul [fiscalitatea.ro](https://www.fiscalitatea.ro/saf-t-in-2023-anaf-a-pus-la-dispozitia-contribuabililor-22-de-teste-pentru-a-verifica-daca-d406-este-depusa-in-mod-corect-22514/)
 precum si pe [contabilul.manager.ro](https://contabilul.manager.ro/a/26360/obligatia-de-transmitere-a-declaratiei-informative-d406-saf-t-termene-categorii-vizate-si-exceptii.html)
 
-O [schema excel a SAF-T](https://static.anaf.ro/static/10/Anaf/Informatii_R/RO_SAFT_SchemaDefCod_20230731.xlsx) vine in sprijinul declaratiei [D406](https://static.anaf.ro/static/10/Anaf/Declaratii_R/406.html) 
+O [schema excel de definire+cod a SAF-T](https://static.anaf.ro/static/10/Anaf/Informatii_R/RO_SAFT_SchemaDefCod_20230731.xlsx) vine in sprijinul declaratiei [D406](https://static.anaf.ro/static/10/Anaf/Declaratii_R/406.html) 
 
 In general pentru informare ANAF(RO-CIUS, XSD-uri,formulare,...) puteti folosi [motorul de cautare ANAF](https://www.anaf.ro/anaf/internet/ANAF/cautare/)
 
