@@ -8,7 +8,7 @@ Apoi prezinta un deosebit interes relativ la facturarea electronica aceasta [pre
 
 - [informatii gnerale eFactura ANAF](https://www.anaf.ro/anaf/internet/ANAF/despre_anaf/strategii_anaf/proiecte_digitalizare/e.factura)
   
-- [proiectul AANF eFactura](https://www.anaf.ro/anaf/internet/ANAF/despre_anaf/strategii_anaf/proiecte_digitalizare/e.factura)
+- [proiectul ANAF eFactura](https://www.anaf.ro/anaf/internet/ANAF/despre_anaf/strategii_anaf/proiecte_digitalizare/e.factura)
 
 - [aplicatii web MFP eFactura](https://mfinante.gov.ro/ro/web/efactura/aplicatii-web-ro-efactura )
 
