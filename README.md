@@ -6,6 +6,8 @@ Puteti avea date de bilant ale unei persoane juridice(PJ) folosind link-ul urmat
  
 Prezinta un deosebit interes relativ la facturarea electronica aceasta [prezentare ANAF a sistemului eFactura](https://mfinante.gov.ro/static/10/eFactura/PrezentareE-factura.pdf)
 
+dar si cateva referinte remarcabile:
+
 - [informatii gnerale eFactura ANAF](https://www.anaf.ro/anaf/internet/ANAF/despre_anaf/strategii_anaf/proiecte_digitalizare/e.factura)
   
 - [proiectul ANAF eFactura](https://www.anaf.ro/anaf/internet/ANAF/despre_anaf/strategii_anaf/proiecte_digitalizare/e.factura)
