@@ -66,6 +66,8 @@ precum si pe [contabilul.manager.ro](https://contabilul.manager.ro/a/26360/oblig
 
 O [schema excel de definire+cod a SAF-T](https://static.anaf.ro/static/10/Anaf/Informatii_R/RO_SAFT_SchemaDefCod_20230731.xlsx) vine in sprijinul declaratiei [D406](https://static.anaf.ro/static/10/Anaf/Declaratii_R/406.html) 
 
+3.[eTransport](https://mfinante.gov.ro/ro/web/etransport)
+
 In general pentru informare ANAF(RO-CIUS, XSD-uri,formulare,...) puteti folosi [motorul de cautare ANAF](https://www.anaf.ro/anaf/internet/ANAF/cautare/)
 
 Spre exemplu, daca folosim cautatorul website-ului ANAF putem gasi pe site-ul ANAF: [informatii ANAF eTransport](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/Ro_e_Transport.pdf)
