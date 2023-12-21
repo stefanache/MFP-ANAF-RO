@@ -59,10 +59,6 @@ De asemenea, puteti cauta o serie de informatii provind [facturarea electronica 
 
 Interesanta este si solutia gasita de cei de la Microsoft [MSF pentru eFactura](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW15w3H)
 
-Sunt utile si documente care provin de la diferite UAT-uri cum ar fi cele de la
-
-[Galati](https://static.anaf.ro/static/3/Galati/20220413132652_e-factura_004.2022.pdf)
-
 Proiectul romanesc eFactura este parte a proiectului uniunii europene [eInvoicing](https://ec.europa.eu/digital-building-blocks/sites/display/DIGITAL/eInvoicing+in+Romania)
 
 2. Declaratia 406 ([D406](https://noagroup.ro/fisierul-standard-de-control-fiscal-saf-t-si-testarea-voluntara-pentru-incarcarea-declaratiei-d406t/) audit/control financiar); Sistemul [SAF-T](https://www.pwc.ro/ro/pwc-romania-digital/tax-technology/saf-t.html)
