@@ -88,6 +88,8 @@ ori pe site-ul MFP [informatii tehnice MFP eTransport](https://etransport.mfinan
 
 Un fisier Excel ofera informatii despre [structura eTransport](https://mfinante.gov.ro/static/10/Mfp/structura_eTransport_25032022.xls)
 
+Sunt multe [surse de informare](https://www.euload.com/blog.view.php?id=61) dar si multe modificari legislative si in cazul platformei eTransport.
+
 4. [MFP](https://mfinante.gov.ro/domenii) - factor integrator:
 
 Un link MFP va poate indruma catre [informatii MFP despre formularele F11xx](https://mfinante.gov.ro/web/forexepublic/informatii-publice)
