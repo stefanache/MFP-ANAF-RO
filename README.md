@@ -91,7 +91,7 @@ Un fisier Excel ofera informatii despre [structura eTransport](https://mfinante.
 Un link MFP va poate indruma catre [informatii MFP despre formularele F11xx](https://mfinante.gov.ro/web/forexepublic/informatii-publice)
 
 
-5. La final cateva cuvinte in loc de ... LA revedere!
+5. La final cateva cuvinte in loc de ... La revedere!...
 
 Daca aveti intrebari/nelamuriri sau doriti sa sustineti ori sa colaboram in vederea dezvoltarii unei aplicatii specifice ANAF/MFP, 
 
