@@ -55,7 +55,7 @@ legate de toate formularele ANAF (eFactura,eTransport,SAF-T(D406),D112,...etc) [
   
 De asemenea, puteti cauta o serie de informatii provind [facturarea electronica pe site-ul ASRO](https://magazin.asro.ro/Search?q=factura+electronica)
 
-Interesanta este si [solutia gasita de cei de la Microfot pentru eFactura](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW15w3H)
+Interesanta este si solutia gasita de cei de la Microsoft [MSF pentru eFactura](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW15w3H)
 
 2. Declaratia 406 ([D406](https://noagroup.ro/fisierul-standard-de-control-fiscal-saf-t-si-testarea-voluntara-pentru-incarcarea-declaratiei-d406t/) audit/control financiar); Sistemul [SAF-T](https://www.pwc.ro/ro/pwc-romania-digital/tax-technology/saf-t.html)
 
