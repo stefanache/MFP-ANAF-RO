@@ -78,6 +78,8 @@ O [schema excel de definire+cod a SAF-T](https://static.anaf.ro/static/10/Anaf/I
 
 3. [eTransport](https://mfinante.gov.ro/ro/web/etransport)
 
+Ca si in cazul eFactura puteti desigur folosi [serviciul web al ANAF pt eTransport](https://mfinante.gov.ro/static/10/eTransport/etransport_17022023.pdf)
+
 In general pentru informare ANAF(RO-CIUS, XSD-uri,formulare,...) puteti folosi [motorul de cautare ANAF](https://www.anaf.ro/anaf/internet/ANAF/cautare/)
 
 Spre exemplu, daca folosim cautatorul website-ului ANAF putem gasi pe site-ul ANAF: [informatii ANAF eTransport](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/Ro_e_Transport.pdf)
