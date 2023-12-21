@@ -93,7 +93,7 @@ Un fisier Excel ofera informatii despre [structura eTransport](https://mfinante.
 Un link MFP va poate indruma catre [informatii MFP despre formularele F11xx](https://mfinante.gov.ro/web/forexepublic/informatii-publice)
 
 In acelasi timp este util sa urmariti si [experienta altora](https://www.softteam.ro/documente/SAFT%20-%20eFactura%20-%20eTransport%20v.2.pdf) in ce priveste relatia cu ANAF/MFP/GOV deoarece legislatia in materie este in continua schimbare
-si puteti castiga timp si know-how de bune practici.
+si puteti castiga timp si know-how de [buna practica](https://factureaza.ro/documentatie-api-v1).
 
 5. La final cateva cuvinte in loc de ... La revedere!...
 
