@@ -59,9 +59,7 @@ De asemenea, puteti cauta o serie de informatii provind [facturarea electronica 
 
 Interesanta este si solutia gasita de cei de la Microsoft [MSF pentru eFactura](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW15w3H)
 
-Facturis prezinta modul in care se modela [manual/neautomat](https://facturis-online.ro/e-factura/cum-sa-emiteti-singur-facturi-electronice-in-sistemul-anaf-ro-e-factura.html) diferite formate de factura si cum pot fi verificate si depuse facturile XML spre raportare la ANAF. 
-
-In general este de evitat a se efectua manual aceste operatii repetitive consumatoare de timp asa incat companiile prefera sa folosesca aplicatii automate si utilizatori [inregistrat[e/i]](https://static.anaf.ro/static/10/Anaf/Informatii_R/API/Oauth_procedura_inregistrare_aplicatii_portal_ANAF.pdf) in spatiul virtual al ANAF.
+Facturis prezinta modul in care se modela [manual/neautomat](https://facturis-online.ro/e-factura/cum-sa-emiteti-singur-facturi-electronice-in-sistemul-anaf-ro-e-factura.html) diferite formate de factura si cum pot fi verificate si depuse facturile XML spre raportare la ANAF. In general este de evitat a se efectua manual aceste operatii repetitive consumatoare de timp asa incat companiile prefera sa folosesca aplicatii automate si utilizatori [inregistrat[e/i]](https://static.anaf.ro/static/10/Anaf/Informatii_R/API/Oauth_procedura_inregistrare_aplicatii_portal_ANAF.pdf) in spatiul virtual al ANAF.
 
 Proiectul romanesc eFactura este parte [integranta](https://ec.europa.eu/digital-building-blocks/sites/pages/viewpage.action?pageId=668552861) a proiectului uniunii europene [eInvoicing](https://ec.europa.eu/digital-building-blocks/sites/display/DIGITAL/eInvoicing+in+Romania)
 
