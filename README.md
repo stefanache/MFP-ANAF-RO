@@ -85,6 +85,8 @@ Spre exemplu, daca folosim cautatorul website-ului ANAF putem gasi pe site-ul AN
 
 ori pe site-ul MFP [informatii tehnice MFP eTransport](https://etransport.mfinante.gov.ro/informatii-tehnice)
 
+Un fisier Excel ofera informatii despre [structura eTransport](https://mfinante.gov.ro/static/10/Mfp/structura_eTransport_25032022.xls)
+
 4. [MFP](https://mfinante.gov.ro/domenii) - factor integrator:
 
 Un link MFP va poate indruma catre [informatii MFP despre formularele F11xx](https://mfinante.gov.ro/web/forexepublic/informatii-publice)
