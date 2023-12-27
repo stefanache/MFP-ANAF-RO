@@ -78,7 +78,7 @@ O sa preluam si noi aceste cateva exemple(cu amendamentul ca acestea nu constitu
 
  In etapa de incarcare/transmitere se face apel la un web-seviciu de "upload", expus de echipa IT&C a ANAF-ului.
 
- Odata incarcata puteti verifica daca factura a fost inregistrata in [Registrul eFactura](https://www.anaf.ro/anaf/internet/ANAF/servicii_online/registre/registrul_eFactura).
+ Odata incarcata puteti verifica daca [e-Factura](https://www.anaf.ro/anaf/internet/ANAF/despre_anaf/strategii_anaf/proiecte_digitalizare/e.factura/!ut/p/a1/jZDBCoJAEIafxqv7qynWzaI0C1JB1L2Ehq2CuqKWr596Sihrb7Pzfcw_QygJCa3iZ87iLudVXIw11a6WZGmWrMu2fnB3cD3pvDdOAC7yAETvACwXcNXt0VNNB1grc3_eNlf44UP7z8eXZ-BX_oDQpRHTBovAGHECFjLYhLKCJ9M9I6NKFJ0R2qT3tEkb8dEM31nX1e1GgIC-70XGOStS8cZLAZ-UjLcdCeckqUvfD5E7ZaC3Lyu4tE0!/dl5/d5/L2dBISEvZ0FBIS9nQSEh/) a fost inregistrata in [Registrul eFactura](https://www.anaf.ro/anaf/internet/ANAF/servicii_online/registre/registrul_eFactura).
  
  In acest sens poate fi util i [aceasta prezentare a WS-eFactura ANAF](https://mfinante.gov.ro/static/10/eFactura/prezentare%20api%20efactura.pdf).
 
