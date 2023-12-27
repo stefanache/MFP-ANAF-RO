@@ -92,8 +92,7 @@ De asemenea puteti transforma acest xml intr-un format citibil si anume PDF folo
 
 Daca doriti puteti consulta si aceste  [specificatii de formatare a documentelor UBL](https://www.oasis-open.org/committees/ubl/lcsc/0p70/fs/) unde veti vedea cum se poate folosi Xsl[t] pt a obtine diverse reprezentari grafice ale facturii(gasiti aici spre ex. un [format scurt](https://www.oasis-open.org/committees/ubl/lcsc/0p70/fs/samples/OfficeInvoice.OfficeInvoiceInstance1.html) dar si multe alte [detalii privind utilizarea foilor de stil xsl](https://www.oasis-open.org/committees/ubl/lcsc/0p70/fs/OfficeInvoice.html) care va vor permite diverse reprezentari/redari grafice ale documentelor ce se supun standardului UBL).
 
-Acest pas insa este unul optional pt ca in definitiv modul cum vrem sa arate factura nu este unul standard ci poate fi personalizat cu aspecte ce tin de stilul grafic si chiar cu date
-suplimentare sau nu care sunt permite in documentarea reciproca a partilor implicate(cumparator,vanzator,transportator...)
+Avand in vedere ca standardul UBL se refera doar la datele XML, acest pas este insa unul optional pt ca in definitiv modul cum vrem sa arate/redam factura/alt document nu este unul standard ci mai degraba unul personalizat cu aspecte ce tin de stilul grafic si uneori poate fi chiar completat cu unele date suplimentare(sau nu) fata de standardul de baza solicitat de ANAF si care sunt utile in documentarea reciproca a partilor implicate(cumparator,vanzator,transportator...)
 
 Referitor la specificitatea e-Facturilor, trebuie sa amintim ca si sistemul de management al documentelor detine un rol insemnat in special in faza/etapa de creare/extragere a  documentului xml.
 
