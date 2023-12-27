@@ -78,7 +78,7 @@ O sa preluam si noi aceste exemple(cu amendamentul ca ele nu constituie generali
 
  In partea de incarcare se face apel la un web-seviciu de incarcare(upload), expus de echipa IT&C a ANAF-ului.
 
- In acest sens poate fi util i [aceasta prezentare a WS-eFactura ANAF](https://www.slideshare.net/geomexicanu1980/prezentare-api-efactura-1pdf).
+ In acest sens poate fi util i [aceasta prezentare a WS-eFactura ANAF](https://mfinante.gov.ro/static/10/eFactura/prezentare%20api%20efactura.pdf).
 
  Dupa parcurgerea pasilor de autorizare a accesului la resursele protejate ale ANAF(cf protocol OAuth2.1) urmeaza validarea XSD( a se vedea sintaxa [UBL2.1](https://github.com/Tradeshift/tradeshift-ubl-xsd/blob/master/src/test/resources/org/oasis-open/ubl/examples/UBL-Invoice-2.1-Example.xml) sau sintaxa CII ) si in final daca documentul este valid se incarca intr-unul din serverele ANAF.
  
