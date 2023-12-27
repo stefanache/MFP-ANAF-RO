@@ -84,6 +84,11 @@ O sa preluam si noi aceste exemple(cu amendamentul ca ele nu constituie generali
  
 Proiectul romanesc [eFactura](https://github.com/topics/anaf) este parte [integranta](https://ec.europa.eu/digital-building-blocks/sites/pages/viewpage.action?pageId=668552861) a proiectului [eInvoicing](https://ec.europa.eu/digital-building-blocks/sites/display/DIGITAL/eInvoicing+in+Romania) al Uniunii Europene 
 
+De asemenea puteti transforma acest xml intr-un format citibil si anume PDF folosind unul dintre serviciile ANAF.
+
+Acest pas insa este unul optional pt ca in definitiv modul cum vrem sa arate factura nu este unul standard ci poate fi personalizat cu aspecte ce tin de stilul grafic si chiar cu date
+suplimentare sau nu care sunt permite in documentarea reciproca a partilor implicate(cumparator,vanzator,transportator...)
+
 2. Declaratia 406 ([D406](https://noagroup.ro/fisierul-standard-de-control-fiscal-saf-t-si-testarea-voluntara-pentru-incarcarea-declaratiei-d406t/) audit/control financiar); Sistemul [SAF-T](https://www.pwc.ro/ro/pwc-romania-digital/tax-technology/saf-t.html)
 
 Daca este sa ne referim spre exemplu la SAF-T(D406) reprezentativ este acest link: [SAF-T(D406)](https://www.anaf.ro/anaf/internet/ANAF/despre_anaf/strategii_anaf/proiecte_digitalizare/saf_t/!ut/p/a1/04_Sj9CPykssy0xPLMnMz0vMAfGjzOI9DD3MPIwsjLws3AKdDQKDDH1cHb0NDAwszIAKIpEVGHgEGhgEmjp5Bpm6BxgYGBpQpt_EkDL9BmbE6TfAARwJuj9cPwqvEndzdAVYggivAlAY4FUA8iRYAR5fFOSG)
