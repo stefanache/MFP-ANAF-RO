@@ -86,7 +86,7 @@ O sa preluam si noi aceste cateva exemple(cu amendamentul ca acestea nu constitu
 
 Odata incarcat documentul e-Factura creat in format xml ramane in atentia ANAF, proces asincron care poate dura o anumita perioada.
 
-[Starea procesarii documentului xml transmis](https://mfinante.gov.ro/static/10/eFactura/staremesaj.html) poate fi aflata daca folosit un alt [micro-]webserviciu ANAF.
+[Starea procesarii documentului xml transmis](https://mfinante.gov.ro/static/10/eFactura/staremesaj.html) poate fi aflata daca folosit un alt [micro-](https://mfinante.gov.ro/web/efactura/informatii-tehnice)webserviciu ANAF.
 
 De asemenea puteti transforma acest xml intr-un format citibil si anume PDF folosind unul dintre serviciile ANAF.
 
