@@ -76,7 +76,7 @@ O sa preluam si noi aceste exemple(cu amendamentul ca ele nu constituie generali
  - etapa de creare a fisierului xml si apoi 
  - cea de transmitere sau de incarcare la ANAF.
 
- In partea de incarcare se face apel la un web-seviciu de upload expus de cai de la ANAF.
+ In partea de incarcare se face apel la un web-seviciu de incarcare(upload), expus de echipa IT&C a ANAF-ului.
 
  In acest sens poate fi util i [aceasta prezentare a WS-lor ANAF](https://www.slideshare.net/geomexicanu1980/prezentare-api-efactura-1pdf).
 
