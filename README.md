@@ -64,8 +64,14 @@ Facturis prezinta modul in care se modela [manual/neautomat](https://facturis-on
 
 [Facturis](https://facturis-online.ro/tag/model-factura-xml) prezinta si cateva modele de facturi xml si este important sa mentionam ca ei prezinta si fisierul xsd care include regulile de validare.
 
-O sa preluam si noi exemplele si le voi face vizibile pentru a fi mai confortabil de interpretat/vizualizat:
+O sa preluam si noi aceste exemple cu amendamentul ca ele sunt foarte particulare si le vom face vizibile pentru a fi mai confortabil de interpretat/vizualizat:
 
+- [o factura in valuta](https://facturis-online.ro/e-factura/model-xml-pentru-e-factura-in-valuta.html)
+
+- [o factura a unei agentii de turism](https://facturis-online.ro/e-factura/modele-de-facturi-in-xml-acceptate-in-sistemul-e-factura-pentru-agentiile-de-turism.html)
+
+- [o factura a unei firme neplatitoare de TVA](https://facturis-online.ro/e-factura/modele-de-facturi-in-xml-acceptate-de-sistemul-e-factura-pentru-firmele-neplatitoare-de-tva.html)
+  
 
 Proiectul romanesc [eFactura](https://github.com/topics/anaf) este parte [integranta](https://ec.europa.eu/digital-building-blocks/sites/pages/viewpage.action?pageId=668552861) a proiectului [eInvoicing](https://ec.europa.eu/digital-building-blocks/sites/display/DIGITAL/eInvoicing+in+Romania) al Uniunii Europene 
 
