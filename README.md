@@ -98,7 +98,7 @@ Referitor la specificitatea e-Facturilor, trebuie sa amintim ca si sistemul de m
 
 In acest sens am gasit un exemplu de factura generat cu ajutorului unui ERP cunoscut de pe piata IT&C si anume [ODOO](https://hamorsoft1.odoo.com/web/content/8756?unique=00c348150f44d16905a0698e40dffbcf9cedf762&download=true); 
 
-eFactura emisa in acest caz cu ajutorul lui ODOO are in/la final semnatura/certificatul [X509](https://docplayer.net/229352011-1-2-factura-vanzator-hamor-soft-srl-demonstratie-4-cumparator-international-sa-5-invoice.html) plasata de catre emitentul/autorul calificat al documentului.
+eFactura emisa in acest caz cu ajutorul lui [ODOO](https://www.odoo.com/documentation/17.0/applications/finance/accounting/customer_invoices/electronic_invoicing.html) are in/la final semnatura/certificatul [X509](https://docplayer.net/229352011-1-2-factura-vanzator-hamor-soft-srl-demonstratie-4-cumparator-international-sa-5-invoice.html) plasata de catre emitentul/autorul calificat al documentului.
 
 Trebuie sa stiti ca semnarea locala(eToken) si semnarea la distanta a documentelor este [echivalenta dpdv juridic](https://www.hotnews.ro/stiri-godigital-26782372-efactura-obligatorie-1-ianuarie-trebuie-stie-firmele-cum-pot-obtine-certificatul-digital-calificat-semnatura-electronica.htm).
 
