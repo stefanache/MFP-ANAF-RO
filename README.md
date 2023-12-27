@@ -102,7 +102,7 @@ eFactura emisa in acest caz cu ajutorul lui ODOO are in/la final semnatura/certi
 
 Trebuie sa stiti ca semnarea locala(eToken) si semnarea la distanta a documentelor este [echivalenta dpdv juridic](https://www.hotnews.ro/stiri-godigital-26782372-efactura-obligatorie-1-ianuarie-trebuie-stie-firmele-cum-pot-obtine-certificatul-digital-calificat-semnatura-electronica.htm).
 
-Acest demers al/aceasta preocupare specifica  e-Facturii [l-]am intalnit[-o] si in [Republica Modova](https://www.ctif.gov.md/sites/default/files/inline-files/Ghid%20integrare%20Complet-Automatizat.pdf).
+Acest demers al/aceasta preocupare specifica  [e-Facturii](https://servicii.fisc.md/DF_DocumentViewer.aspx?id=4e7393da-cefd-4155-add6-af13aa63c48a) [l-]am intalnit[-o] si in [Republica Modova](https://www.ctif.gov.md/sites/default/files/inline-files/Ghid%20integrare%20Complet-Automatizat.pdf).
 
 Proiectul moldovenesc vine si cu o serie de exemple de cod pentru dezvoltatorii .NET.
 
