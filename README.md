@@ -100,6 +100,8 @@ In acest sens am gasit un exemplu de factura generat cu ajutorului unui ERP cuno
 
 eFactura emisa in acest caz cu ajutorul lui ODOO are in/la final semnatura/certificatul [X509](https://docplayer.net/229352011-1-2-factura-vanzator-hamor-soft-srl-demonstratie-4-cumparator-international-sa-5-invoice.html) plasata de catre emitentul/autorul calificat al documentului.
 
+Trebuie sa stiti ca semnarea locala(eToken) si semnarea la distanta a documentelor este [echivalenta dpdv juridic](https://www.hotnews.ro/stiri-godigital-26782372-efactura-obligatorie-1-ianuarie-trebuie-stie-firmele-cum-pot-obtine-certificatul-digital-calificat-semnatura-electronica.htm).
+
 
 Proiectul romanesc [eFactura](https://github.com/topics/anaf) este parte [integranta](https://ec.europa.eu/digital-building-blocks/sites/pages/viewpage.action?pageId=668552861) a proiectului [eInvoicing](https://ec.europa.eu/digital-building-blocks/sites/display/DIGITAL/eInvoicing+in+Romania) al Uniunii Europene.
 
