@@ -90,7 +90,7 @@ Odata incarcat documentul e-Factura creat in format xml ramane in atentia ANAF, 
 
 De asemenea puteti transforma acest xml intr-un format citibil si anume PDF folosind unul dintre serviciile ANAF([xml-to-pdf sau xml2pdf](https://www.anaf.ro/uploadxml/)).
 
-Daca doriti puteti consulta si aceste  [specificatii de formatare a documentelor UBL](https://www.oasis-open.org/committees/ubl/lcsc/0p70/fs/) unde veti vedea cum se poate folosi Xsl[t] pt a obtine diverse reprezentari grafice ale facturii.
+Daca doriti puteti consulta si aceste  [specificatii de formatare a documentelor UBL](https://www.oasis-open.org/committees/ubl/lcsc/0p70/fs/) unde veti vedea cum se poate folosi Xsl[t] pt a obtine diverse reprezentari grafice ale facturii(ex. un [format scurt](https://www.oasis-open.org/committees/ubl/lcsc/0p70/fs/samples/OfficeInvoice.OfficeInvoiceInstance1.html) dar si multe alte [detalii privind foile de stil xsl](https://www.oasis-open.org/committees/ubl/lcsc/0p70/fs/OfficeInvoice.html)).
 
 Acest pas insa este unul optional pt ca in definitiv modul cum vrem sa arate factura nu este unul standard ci poate fi personalizat cu aspecte ce tin de stilul grafic si chiar cu date
 suplimentare sau nu care sunt permite in documentarea reciproca a partilor implicate(cumparator,vanzator,transportator...)
