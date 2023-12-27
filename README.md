@@ -133,7 +133,7 @@ si puteti castiga timp si know-how de [buna practica](https://factureaza.ro/docu
 
 
 
-Legat de proiectul e-Documents, trebuie sa amintim si faptul ca se doreste inclusiv [arhivarea documentelor](https://mfinante.gov.ro/documents/35673/5542684/csac676660_12012022.pdf).
+Legat de un proiect mai vechi "e-Documents", trebuie sa amintim si faptul ca [arhivarea documentelor](https://mfinante.gov.ro/documents/35673/5542684/csac676660_12012022.pdf) ar fi ultima etapa din "viata" unui document.
 
 5. La final cateva cuvinte in loc de ... La revedere!...
 
