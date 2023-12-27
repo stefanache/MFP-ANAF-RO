@@ -102,7 +102,7 @@ eFactura emisa in acest caz cu ajutorul lui [ODOO](https://www.odoo.com/document
 
 Trebuie sa stiti ca semnarea locala(eToken) si semnarea la distanta a documentelor este [echivalenta dpdv juridic](https://www.hotnews.ro/stiri-godigital-26782372-efactura-obligatorie-1-ianuarie-trebuie-stie-firmele-cum-pot-obtine-certificatul-digital-calificat-semnatura-electronica.htm).
 
-Pana acum am vorbit doar de transmiterea facturii catre ANAF(deci din perspectiva emitentuluisau daca vreti a furnizorului) dar ar trebui sa mai spunem ca si receptorul final/destinatarul e-Facturii poate descarca e-Factura care i-a fost transmisa prin ANAF.
+Pana acum am vorbit doar de transmiterea facturii catre ANAF(deci din perspectiva emitentuluisau daca vreti a furnizorului) dar ar trebui sa mai spunem ca si receptorul final/destinatarul e-Facturii poate [descarca e-Factura](https://static.anaf.ro/static/10/Galati/Vrancea/Procedura-e-factura.pdf) care i-a fost transmisa prin ANAF.
 
 Acest demers al/aceasta preocupare specifica  [e-Facturii](https://servicii.fisc.md/DF_DocumentViewer.aspx?id=4e7393da-cefd-4155-add6-af13aa63c48a) [l-]am intalnit[-o] si in [Republica Modova](https://www.ctif.gov.md/sites/default/files/inline-files/Ghid%20integrare%20Complet-Automatizat.pdf).
 
