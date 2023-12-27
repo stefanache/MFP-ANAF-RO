@@ -104,6 +104,10 @@ Trebuie sa stiti ca semnarea locala(eToken) si semnarea la distanta a documentel
 
 Pana acum am vorbit doar de transmiterea facturii catre ANAF(deci din perspectiva emitentuluisau daca vreti a furnizorului) dar ar trebui sa mai spunem ca si receptorul final/destinatarul e-Facturii poate [descarca e-Factura](https://static.anaf.ro/static/10/Galati/Vrancea/Procedura-e-factura.pdf) care i-a fost transmisa prin ANAF( detalii privind descarcarea e-Facturii pot fi gasite in [documentatia Swagger a webserviciului ANAF](https://mfinante.gov.ro/static/10/eFactura/descarcare.html) dar mai cu seama gasiti [informatii tehnice complete](https://static.anaf.ro/static/10/Iasi/material_informativ_26-07-2022.pdf) pe [pagina e-Factura ANAF](https://mfinante.gov.ro/web/efactura/informatii-tehnice))
 
+ANAF ca broker/intermediar intre furnizor(emitent) si cumparator(destinatar) are un serviciu web de notificare prin/via email/mesagerie folosit pentru a anunta faptul ca "[a sosit o factura noua dar care nu a fost descarcata inca]((https://mfinante.gov.ro/web/efactura/informatii-tehnice))".
+
+Tot pentru bunul mers al acestei activitati de "[e-Invoicing]((https://mfinante.gov.ro/web/efactura/informatii-tehnice))" atunci cand sunt facturi eronat completate ofera cadrul pentru a putea corecta factura sau facturile in cauza.
+
 Acest demers al/aceasta preocupare specifica  [e-Facturii](https://servicii.fisc.md/DF_DocumentViewer.aspx?id=4e7393da-cefd-4155-add6-af13aa63c48a) [l-]am intalnit[-o] si in [Republica Modova](https://www.ctif.gov.md/sites/default/files/inline-files/Ghid%20integrare%20Complet-Automatizat.pdf).
 
 Proiectul moldovenesc vine si cu o serie de exemple de cod pentru dezvoltatorii .NET.
