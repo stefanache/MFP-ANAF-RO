@@ -91,7 +91,9 @@ suplimentare sau nu care sunt permite in documentarea reciproca a partilor impli
 
 Referitor la specificitatea facturilor trebuie sa amintim ca si sistemul de management care sta la baza procesului de automatizare ce tine de factura are un rol insemnat.
 
-In acest sens am gasit un exemplu de factura generat cu ajutorului unui ERP cunoscut de pe piata IT&C si anume [ODOO](https://hamorsoft1.odoo.com/web/content/8756?unique=00c348150f44d16905a0698e40dffbcf9cedf762&download=true); Factura emisa in acest caz cu ajutorul lui ODOO are in final semnatura X509 plasata de emitentul/autorul documentului.
+In acest sens am gasit un exemplu de factura generat cu ajutorului unui ERP cunoscut de pe piata IT&C si anume [ODOO](https://hamorsoft1.odoo.com/web/content/8756?unique=00c348150f44d16905a0698e40dffbcf9cedf762&download=true); 
+
+Factura emisa in acest caz cu ajutorul lui ODOO are in final semnatura X509 plasata de emitentul/autorul documentului.
 
 2. Declaratia 406 ([D406](https://noagroup.ro/fisierul-standard-de-control-fiscal-saf-t-si-testarea-voluntara-pentru-incarcarea-declaratiei-d406t/) audit/control financiar); Sistemul [SAF-T](https://www.pwc.ro/ro/pwc-romania-digital/tax-technology/saf-t.html)
 
