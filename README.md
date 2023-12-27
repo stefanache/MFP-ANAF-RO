@@ -62,7 +62,7 @@ Interesanta este si solutia gasita de cei de la Microsoft [MSF pentru eFactura](
 
 [Facturis](https://facturis-online.ro/facturare/e-factura) prezinta modul in care se modela [manual/neautomat](https://facturis-online.ro/e-factura/cum-sa-emiteti-singur-facturi-electronice-in-sistemul-anaf-ro-e-factura.html) diferite formate de factura si cum pot fi verificate si depuse facturile XML spre raportare la ANAF. In general este de evitat a se efectua manual aceste operatii repetitive consumatoare de timp asa incat companiile prefera sa folosesca aplicatii automate si utilizatori [inregistrat[e/i]](https://static.anaf.ro/static/10/Anaf/Informatii_R/API/Oauth_procedura_inregistrare_aplicatii_portal_ANAF.pdf) in spatiul virtual al ANAF.
 
-[Facturis](https://facturis-online.ro/tag/model-factura-xml) prezinta si cateva modele de facturi xml si este important sa mentionam ca ei prezinta doar niste exemple particulare.
+[Facturis](https://facturis-online.ro/e-factura/biblioteca-cu-informatii-oficiale-despre-formatul-xml-pentru-e-factura.html) prezinta si cateva [modele de facturi xml](https://facturis-online.ro/tag/model-factura-xml) si este important sa mentionam ca ei prezinta doar niste exemple particulare.
 
 O sa preluam si noi aceste exemple(cu amendamentul ca ele nu constituie generalizari) si le vom face vizibile pentru a fi mai confortabil de interpretat/vizualizat:
 
