@@ -109,12 +109,9 @@ ANAF ca broker/intermediar intre furnizor(emitent) si cumparator(destinatar) are
 Tot pentru bunul mers al acestei activitati de "[e-Invoicing](https://mfinante.gov.ro/web/efactura/informatii-tehnice)" atunci cand sunt facturi eronat completate ofera cadrul pentru a putea [corecta factur{a/ile}](https://static.anaf.ro/static/10/Galati/Vrancea/Procedura-e-factura.pdf) respective.
 
 Romania ofera [suport legislativ](https://www.vatcalc.com/romania/romania-b2b-ro-e-invoicing-efactura-update/) pentru/in materie de e-Factura pentru toate segmentele de afaceri(B2G,B2B,B2C).
-
-Acest demers al/aceasta preocupare specifica  [e-Facturii](https://servicii.fisc.md/DF_DocumentViewer.aspx?id=4e7393da-cefd-4155-add6-af13aa63c48a) [l-]am intalnit[-o] si in [Republica Modova](https://www.ctif.gov.md/sites/default/files/inline-files/Ghid%20integrare%20Complet-Automatizat.pdf).
-
-Proiectul moldovenesc vine si cu o serie de exemple de cod pentru dezvoltatorii .NET.
-
 Proiectul romanesc [eFactura](https://github.com/topics/anaf) este parte [integranta](https://ec.europa.eu/digital-building-blocks/sites/pages/viewpage.action?pageId=668552861) a proiectului [eInvoicing](https://ec.europa.eu/digital-building-blocks/sites/display/DIGITAL/eInvoicing+in+Romania) al [Uniunii Europene](https://kpmg.com/ro/ro/blogs/home/posts/2023/06/sistemul-central-electronic-informatii-plati-cesop.html).
+
+Acest demers al/aceasta preocupare specifica  [e-Facturii](https://servicii.fisc.md/DF_DocumentViewer.aspx?id=4e7393da-cefd-4155-add6-af13aa63c48a) [l-]am intalnit[-o] si in [Republica Modova](https://www.ctif.gov.md/sites/default/files/inline-files/Ghid%20integrare%20Complet-Automatizat.pdf). Proiectul moldovenesc vine si cu o serie de exemple de cod pentru dezvoltatorii .NET
 
 2. Declaratia 406 ([D406](https://noagroup.ro/fisierul-standard-de-control-fiscal-saf-t-si-testarea-voluntara-pentru-incarcarea-declaratiei-d406t/) audit/control financiar); Sistemul [SAF-T](https://www.pwc.ro/ro/pwc-romania-digital/tax-technology/saf-t.html)
  
