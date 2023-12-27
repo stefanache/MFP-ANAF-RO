@@ -88,7 +88,7 @@ Odata incarcat documentul e-Factura creat in format xml ramane in atentia ANAF, 
 
 [Starea procesarii documentului xml transmis](https://mfinante.gov.ro/static/10/eFactura/staremesaj.html) poate fi aflata daca folosit un alt [micro-](https://mfinante.gov.ro/web/efactura/informatii-tehnice)webserviciu ANAF.
 
-De asemenea puteti transforma acest xml intr-un format citibil si anume PDF folosind unul dintre serviciile ANAF.
+De asemenea puteti transforma acest xml intr-un format citibil si anume PDF folosind unul dintre serviciile ANAF([xml-to-pdf sau xml2pdf](https://www.anaf.ro/uploadxml/)).
 
 Acest pas insa este unul optional pt ca in definitiv modul cum vrem sa arate factura nu este unul standard ci poate fi personalizat cu aspecte ce tin de stilul grafic si chiar cu date
 suplimentare sau nu care sunt permite in documentarea reciproca a partilor implicate(cumparator,vanzator,transportator...)
