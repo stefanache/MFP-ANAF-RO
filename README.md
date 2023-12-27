@@ -97,8 +97,6 @@ In acest sens am gasit un exemplu de factura generat cu ajutorului unui ERP cuno
 
 eFactura emisa in acest caz cu ajutorul lui ODOO are in/la final semnatura/certificatul [X509](https://docplayer.net/229352011-1-2-factura-vanzator-hamor-soft-srl-demonstratie-4-cumparator-international-sa-5-invoice.html) plasata de catre emitentul/autorul calificat al documentului.
 
-In final, legat de proiectul e-Factura, trebuie sa amintim si faptul ca se doreste inclusiv [arhivarea docuemntelor](https://mfinante.gov.ro/documents/35673/5542684/csac676660_12012022.pdf).
-
 2. Declaratia 406 ([D406](https://noagroup.ro/fisierul-standard-de-control-fiscal-saf-t-si-testarea-voluntara-pentru-incarcarea-declaratiei-d406t/) audit/control financiar); Sistemul [SAF-T](https://www.pwc.ro/ro/pwc-romania-digital/tax-technology/saf-t.html)
 
 Daca este sa ne referim spre exemplu la SAF-T(D406) reprezentativ este acest link: [SAF-T(D406)](https://www.anaf.ro/anaf/internet/ANAF/despre_anaf/strategii_anaf/proiecte_digitalizare/saf_t/!ut/p/a1/04_Sj9CPykssy0xPLMnMz0vMAfGjzOI9DD3MPIwsjLws3AKdDQKDDH1cHb0NDAwszIAKIpEVGHgEGhgEmjp5Bpm6BxgYGBpQpt_EkDL9BmbE6TfAARwJuj9cPwqvEndzdAVYggivAlAY4FUA8iRYAR5fFOSG)
@@ -132,6 +130,10 @@ Un link MFP va poate indruma catre [informatii MFP despre formularele F11xx](htt
 
 In acelasi timp este util sa urmariti si [experienta altora](https://www.softteam.ro/documente/SAFT%20-%20eFactura%20-%20eTransport%20v.2.pdf) in ce priveste relatia cu ANAF/MFP/GOV deoarece legislatia in materie este in continua schimbare
 si puteti castiga timp si know-how de [buna practica](https://factureaza.ro/documentatie-api-v1).
+
+
+
+Legat de proiectul e-Documents, trebuie sa amintim si faptul ca se doreste inclusiv [arhivarea docuemntelor](https://mfinante.gov.ro/documents/35673/5542684/csac676660_12012022.pdf).
 
 5. La final cateva cuvinte in loc de ... La revedere!...
 
