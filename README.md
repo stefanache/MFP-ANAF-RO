@@ -74,7 +74,7 @@ O sa preluam si noi aceste cateva exemple(cu amendamentul ca acestea nu constitu
  Etapele fundamentale in fluxul operational al procesului eFactura sunt urmatoarele:
  
  - etapa de creare a fisierului xml si apoi 
- - cea de transmitere sau de incarcare(upload) la ANAF.
+ - cea de transmitere sau de incarcare([upload](https://www.anaf.ro/uploadxmi/)) la ANAF.
 
  In etapa de incarcare/transmitere se face apel la un web-seviciu de "[upload/incarcare](https://mfinante.gov.ro/static/10/eFactura/prezentare%20apeluri%20API%20E-factura.pdf)", expus de echipa IT&C a ANAF-ului.
 
