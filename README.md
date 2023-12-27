@@ -76,13 +76,13 @@ O sa preluam si noi aceste cateva exemple(cu amendamentul ca acestea nu constitu
  - etapa de creare a fisierului xml si apoi 
  - cea de transmitere sau de incarcare(upload) la ANAF.
 
- In etapa de incarcare/transmitere se face apel la un web-seviciu de "[upload](https://mfinante.gov.ro/static/10/eFactura/prezentare%20apeluri%20API%20E-factura.pdf)", expus de echipa IT&C a ANAF-ului.
+ In etapa de incarcare/transmitere se face apel la un web-seviciu de "[upload/incarcare](https://mfinante.gov.ro/static/10/eFactura/prezentare%20apeluri%20API%20E-factura.pdf)", expus de echipa IT&C a ANAF-ului.
 
  Odata incarcata puteti verifica daca [e-Factura](https://www.anaf.ro/anaf/internet/ANAF/despre_anaf/strategii_anaf/proiecte_digitalizare/e.factura/!ut/p/a1/jZDBCoJAEIafxqv7qynWzaI0C1JB1L2Ehq2CuqKWr596Sihrb7Pzfcw_QygJCa3iZ87iLudVXIw11a6WZGmWrMu2fnB3cD3pvDdOAC7yAETvACwXcNXt0VNNB1grc3_eNlf44UP7z8eXZ-BX_oDQpRHTBovAGHECFjLYhLKCJ9M9I6NKFJ0R2qT3tEkb8dEM31nX1e1GgIC-70XGOStS8cZLAZ-UjLcdCeckqUvfD5E7ZaC3Lyu4tE0!/dl5/d5/L2dBISEvZ0FBIS9nQSEh/) a fost inregistrata in [Registrul eFactura](https://www.anaf.ro/anaf/internet/ANAF/servicii_online/registre/registrul_eFactura).
  
  In acest sens poate fi util i [aceasta prezentare a WS-eFactura ANAF](https://mfinante.gov.ro/static/10/eFactura/prezentare%20api%20efactura.pdf).
 
- Dupa parcurgerea pasilor de autorizare a accesului la resursele protejate ale ANAF(cf protocol OAuth2.1) urmeaza validarea XSD( a se vedea sintaxa [UBL2.1](https://github.com/Tradeshift/tradeshift-ubl-xsd/blob/master/src/test/resources/org/oasis-open/ubl/examples/UBL-Invoice-2.1-Example.xml) sau sintaxa CII ) si in final daca documentul este valid se incarca intr-unul din serverele ANAF.
+ Dupa parcurgerea pasilor de autorizare a accesului la resursele protejate ale ANAF(cf protocol OAuth2.1) urmeaza validarea XSD( a se vedea sintaxa [UBL2.1](https://github.com/Tradeshift/tradeshift-ubl-xsd/blob/master/src/test/resources/org/oasis-open/ubl/examples/UBL-Invoice-2.1-Example.xml) sau sintaxa CII ) si in final daca documentul este valid se [incarca/upload](https://etransport.mfinante.gov.ro/static/10/eFactura/upload.html) intr-unul din serverele ANAF.
  
 Proiectul romanesc [eFactura](https://github.com/topics/anaf) este parte [integranta](https://ec.europa.eu/digital-building-blocks/sites/pages/viewpage.action?pageId=668552861) a proiectului [eInvoicing](https://ec.europa.eu/digital-building-blocks/sites/display/DIGITAL/eInvoicing+in+Romania) al Uniunii Europene 
 
@@ -91,7 +91,7 @@ De asemenea puteti transforma acest xml intr-un format citibil si anume PDF folo
 Acest pas insa este unul optional pt ca in definitiv modul cum vrem sa arate factura nu este unul standard ci poate fi personalizat cu aspecte ce tin de stilul grafic si chiar cu date
 suplimentare sau nu care sunt permite in documentarea reciproca a partilor implicate(cumparator,vanzator,transportator...)
 
-Referitor la specificitatea facturilor trebuie sa amintim ca si sistemul de management care sta la baza procesului de automatizare ce tine de factura are un rol insemnat.
+Referitor la specificitatea e-Facturilor, trebuie sa amintim ca si sistemul de management al documentelor detine un rol insemnat in special in faza/etapa de creare/extragere a  documentului xml.
 
 In acest sens am gasit un exemplu de factura generat cu ajutorului unui ERP cunoscut de pe piata IT&C si anume [ODOO](https://hamorsoft1.odoo.com/web/content/8756?unique=00c348150f44d16905a0698e40dffbcf9cedf762&download=true); 
 
