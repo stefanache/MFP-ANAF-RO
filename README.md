@@ -106,7 +106,7 @@ Pana acum am vorbit doar de transmiterea facturii catre ANAF(deci din perspectiv
 
 ANAF ca broker/intermediar intre furnizor(emitent) si cumparator(destinatar) are un serviciu web de notificare prin/via email/mesagerie folosit pentru a anunta faptul ca "[a sosit o factura noua dar care nu a fost descarcata inca](https://mfinante.gov.ro/web/efactura/informatii-tehnice)".
 
-Tot pentru bunul mers al acestei activitati de "[e-Invoicing](https://mfinante.gov.ro/web/efactura/informatii-tehnice)" atunci cand sunt facturi eronat completate ofera cadrul pentru a putea [corecta factura](https://static.anaf.ro/static/10/Galati/Vrancea/Procedura-e-factura.pdf) sau facturile in cauza.
+Tot pentru bunul mers al acestei activitati de "[e-Invoicing](https://mfinante.gov.ro/web/efactura/informatii-tehnice)" atunci cand sunt facturi eronat completate ofera cadrul pentru a putea [corecta factur{a/ile}](https://static.anaf.ro/static/10/Galati/Vrancea/Procedura-e-factura.pdf) respective.
 
 Acest demers al/aceasta preocupare specifica  [e-Facturii](https://servicii.fisc.md/DF_DocumentViewer.aspx?id=4e7393da-cefd-4155-add6-af13aa63c48a) [l-]am intalnit[-o] si in [Republica Modova](https://www.ctif.gov.md/sites/default/files/inline-files/Ghid%20integrare%20Complet-Automatizat.pdf).
 
