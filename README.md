@@ -102,6 +102,7 @@ eFactura emisa in acest caz cu ajutorul lui ODOO are in/la final semnatura/certi
 
 Trebuie sa stiti ca semnarea locala(eToken) si semnarea la distanta a documentelor este [echivalenta dpdv juridic](https://www.hotnews.ro/stiri-godigital-26782372-efactura-obligatorie-1-ianuarie-trebuie-stie-firmele-cum-pot-obtine-certificatul-digital-calificat-semnatura-electronica.htm).
 
+Acest demers al eFacturii l-am intalnit si in [Republica Modova](https://www.ctif.gov.md/sites/default/files/inline-files/Ghid%20integrare%20Complet-Automatizat.pdf).
 
 Proiectul romanesc [eFactura](https://github.com/topics/anaf) este parte [integranta](https://ec.europa.eu/digital-building-blocks/sites/pages/viewpage.action?pageId=668552861) a proiectului [eInvoicing](https://ec.europa.eu/digital-building-blocks/sites/display/DIGITAL/eInvoicing+in+Romania) al Uniunii Europene.
 
