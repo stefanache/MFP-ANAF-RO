@@ -84,7 +84,7 @@ O sa preluam si noi aceste cateva exemple(cu amendamentul ca acestea nu constitu
 
  Dupa parcurgerea pasilor de autorizare a accesului la resursele protejate ale ANAF(cf protocol [OAuth2.1](https://static.anaf.ro/static/10/Anaf/Informatii_R/API/Oauth_procedura_inregistrare_aplicatii_portal_ANAF.pdf)) urmeaza [validarea XSD]((https://www.anaf.ro/uploadxmi/))( a se vedea sintaxa [UBL2.1](https://github.com/Tradeshift/tradeshift-ubl-xsd/blob/master/src/test/resources/org/oasis-open/ubl/examples/UBL-Invoice-2.1-Example.xml) sau sintaxa CII ) si in final daca documentul este valid se [incarca/upload](https://etransport.mfinante.gov.ro/static/10/eFactura/upload.html) intr-unul din serverele ANAF.
 
-Odata incarcat documentul e-Factura creat in format xml ramane in atentia ANAF, proces asincron care poate dura o anumita perioada.
+Dupa incarcarcare documentul e-Factura creat in format xml ramane in atentia ANAF, proces asincron care poate dura o anumita perioada.
 
 [Starea procesarii documentului xml transmis](https://mfinante.gov.ro/static/10/eFactura/staremesaj.html) poate fi aflata daca folosit un alt [micro-](https://mfinante.gov.ro/web/efactura/informatii-tehnice)webserviciu ANAF.
 
