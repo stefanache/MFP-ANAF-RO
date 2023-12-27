@@ -116,7 +116,7 @@ avand urmatoarea [schema de validare .xsd pt SAF-T(D406)](https://stefanache.git
 
 Un document util este si acest [document de asistenta pt pregatirea D406/SAF-T](https://www.ceccarbusinessmagazine.ro/public/store/imagini/filemanager/source/pdf/SAFT_intrebari_frecv_raspunsuri_v1_1_071021.pdf)
 
-Despre D406/SAF-T gasim o prezentare pe site-ul [fiscalitatea.ro](https://www.fiscalitatea.ro/saf-t-in-2023-anaf-a-pus-la-dispozitia-contribuabililor-22-de-teste-pentru-a-verifica-daca-d406-este-depusa-in-mod-corect-22514/)
+Despre [D406/SAF-T](https://www.homecont.ro/declaratia-d406-saf-t-fisierul-standard-de-control-fiscal.htm) gasim o prezentare pe site-ul [fiscalitatea.ro](https://www.fiscalitatea.ro/saf-t-in-2023-anaf-a-pus-la-dispozitia-contribuabililor-22-de-teste-pentru-a-verifica-daca-d406-este-depusa-in-mod-corect-22514/)
 precum si pe [contabilul.manager.ro](https://contabilul.manager.ro/a/26360/obligatia-de-transmitere-a-declaratiei-informative-d406-saf-t-termene-categorii-vizate-si-exceptii.html)
 
 O [schema excel de definire+cod a SAF-T](https://static.anaf.ro/static/10/Anaf/Informatii_R/RO_SAFT_SchemaDefCod_20230731.xlsx) vine in sprijinul declaratiei [D406](https://static.anaf.ro/static/10/Anaf/Declaratii_R/406.html) 
