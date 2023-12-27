@@ -83,7 +83,11 @@ O sa preluam si noi aceste cateva exemple(cu amendamentul ca acestea nu constitu
  In acest sens poate fi util i [aceasta prezentare a WS-eFactura ANAF](https://mfinante.gov.ro/static/10/eFactura/prezentare%20api%20efactura.pdf).
 
  Dupa parcurgerea pasilor de autorizare a accesului la resursele protejate ale ANAF(cf protocol [OAuth2.1](https://static.anaf.ro/static/10/Anaf/Informatii_R/API/Oauth_procedura_inregistrare_aplicatii_portal_ANAF.pdf)) urmeaza validarea XSD( a se vedea sintaxa [UBL2.1](https://github.com/Tradeshift/tradeshift-ubl-xsd/blob/master/src/test/resources/org/oasis-open/ubl/examples/UBL-Invoice-2.1-Example.xml) sau sintaxa CII ) si in final daca documentul este valid se [incarca/upload](https://etransport.mfinante.gov.ro/static/10/eFactura/upload.html) intr-unul din serverele ANAF.
- 
+
+Odata incarcat documentul e-Factura creat in format xml ramane in atentia ANAF, proces asincron care poate dura o anumita perioada.
+
+[Starea procesarii documentului xml transmis](https://mfinante.gov.ro/static/10/eFactura/staremesaj.html) poate fi aflata daca folosit un alt [micro-]webserviciu ANAF.
+
 De asemenea puteti transforma acest xml intr-un format citibil si anume PDF folosind unul dintre serviciile ANAF.
 
 Acest pas insa este unul optional pt ca in definitiv modul cum vrem sa arate factura nu este unul standard ci poate fi personalizat cu aspecte ce tin de stilul grafic si chiar cu date
