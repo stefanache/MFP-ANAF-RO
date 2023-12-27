@@ -16,16 +16,6 @@ dar si cateva referinte remarcabile:
 - [aplicatii web MFP eFactura](https://mfinante.gov.ro/ro/web/efactura/aplicatii-web-ro-efactura )
 
 - [factura electronica ASRO](https://magazin.asro.ro/Search?q=factura+electronica)
-
- Etapele fundamentale in fluxul operational al procesului EFactura sunt cea de creare a fisierului xml si apoi cea de transmitere sau de incarcare la ANAF.
-
- In partea de incarcare se face apel la un web-seviciu de upload expus de cai de la ANAF.
-
- In acest sens poate fi util i [aceasta prezentare a WS-lor ANAF](https://www.slideshare.net/geomexicanu1980/prezentare-api-efactura-1pdf).
-
- Dupa parcurgerea pasilor de autorizare a accesului la resursele protejate ale ANAF(cf protocol OAuth2.1) urmeaza validarea XSD si in final daca documentul este valid
-
- se incarca intr-unul din serverele ANAF.
  
 [Informatii tehnice MFP  privind eFactura](https://etransport.mfinante.gov.ro/informatii-tehnice?p_p_id=com_liferay_portal_search_web_portlet_SearchPortlet&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_com_liferay_portal_search_web_portlet_SearchPortlet_mvcPath=%2Fview_content.jsp&_com_liferay_portal_search_web_portlet_SearchPortlet_assetEntryId=7050688&_com_liferay_portal_search_web_portlet_SearchPortlet_type=content&p_l_back_url=https%3A%2F%2Fetransport.mfinante.gov.ro%2Finformatii-tehnice%3Fp_p_id%3Dcom_liferay_portal_search_web_portlet_SearchPortlet%26p_p_lifecycle%3D0%26p_p_state%3Dmaximized%26p_p_mode%3Dview%26_com_liferay_portal_search_web_portlet_SearchPortlet_cur%3D1%26_com_liferay_portal_search_web_portlet_SearchPortlet_mvcPath%3D%252Fsearch.jsp%26_com_liferay_portal_search_web_portlet_SearchPortlet_keywords%3Dfactura%26_com_liferay_portal_search_web_portlet_SearchPortlet_entryClassName%3D%26_com_liferay_portal_search_web_portlet_SearchPortlet_searchPrimaryKeys%3D%26_com_liferay_portal_search_web_portlet_SearchPortlet_formDate%3D1702972022328%26_com_liferay_portal_search_web_portlet_SearchPortlet_groupId%3D7052601%26_com_liferay_portal_search_web_portlet_SearchPortlet_format%3D%26_com_liferay_portal_search_web_portlet_SearchPortlet_modifiedfrom%3D18.12.2023%26_com_liferay_portal_search_web_portlet_SearchPortlet_userName%3D%26_com_liferay_portal_search_web_portlet_SearchPortlet_folderId%3D%26_com_liferay_portal_search_web_portlet_SearchPortlet_assetTagNames.raw%3D%26_com_liferay_portal_search_web_portlet_SearchPortlet_assetCategoryIds%3D%26_com_liferay_portal_search_web_portlet_SearchPortlet_scope%3Dthis-site%26_com_liferay_portal_search_web_portlet_SearchPortlet_modifiedselection%3D0%26_com_liferay_portal_search_web_portlet_SearchPortlet_modified%3D%26_com_liferay_portal_search_web_portlet_SearchPortlet_modifiedto%3D19.12.2023%26_com_liferay_portal_search_web_portlet_SearchPortlet_useAdvancedSearchSyntax%3Dfalse) puteti gasi pe site-ul MFP 
 
@@ -81,7 +71,19 @@ O sa preluam si noi aceste exemple(cu amendamentul ca ele nu constituie generali
 
 - [o factura a unei firme neplatitoare de TVA](https://facturis-online.ro/e-factura/modele-de-facturi-in-xml-acceptate-de-sistemul-e-factura-pentru-firmele-neplatitoare-de-tva.html)
   
+ Etapele fundamentale in fluxul operational al procesului EFactura sunt urmatoarele:
+ 
+ - etapa de creare a fisierului xml si apoi 
+ - cea de transmitere sau de incarcare la ANAF.
 
+ In partea de incarcare se face apel la un web-seviciu de upload expus de cai de la ANAF.
+
+ In acest sens poate fi util i [aceasta prezentare a WS-lor ANAF](https://www.slideshare.net/geomexicanu1980/prezentare-api-efactura-1pdf).
+
+ Dupa parcurgerea pasilor de autorizare a accesului la resursele protejate ale ANAF(cf protocol OAuth2.1) urmeaza validarea XSD si in final daca documentul este valid
+
+ se incarca intr-unul din serverele ANAF.
+ 
 Proiectul romanesc [eFactura](https://github.com/topics/anaf) este parte [integranta](https://ec.europa.eu/digital-building-blocks/sites/pages/viewpage.action?pageId=668552861) a proiectului [eInvoicing](https://ec.europa.eu/digital-building-blocks/sites/display/DIGITAL/eInvoicing+in+Romania) al Uniunii Europene 
 
 2. Declaratia 406 ([D406](https://noagroup.ro/fisierul-standard-de-control-fiscal-saf-t-si-testarea-voluntara-pentru-incarcarea-declaratiei-d406t/) audit/control financiar); Sistemul [SAF-T](https://www.pwc.ro/ro/pwc-romania-digital/tax-technology/saf-t.html)
