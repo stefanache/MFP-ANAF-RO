@@ -108,6 +108,8 @@ ANAF ca broker/intermediar intre furnizor(emitent) si cumparator(destinatar) are
 
 Tot pentru bunul mers al acestei activitati de "[e-Invoicing](https://mfinante.gov.ro/web/efactura/informatii-tehnice)" atunci cand sunt facturi eronat completate ofera cadrul pentru a putea [corecta factur{a/ile}](https://static.anaf.ro/static/10/Galati/Vrancea/Procedura-e-factura.pdf) respective.
 
+Romania a emis [legislatie](https://www.vatcalc.com/romania/romania-b2b-ro-e-invoicing-efactura-update/) pentru/in materie de e-Factura pentru toate segmentele de afaceri(B2G,B2B,B2C).
+
 Acest demers al/aceasta preocupare specifica  [e-Facturii](https://servicii.fisc.md/DF_DocumentViewer.aspx?id=4e7393da-cefd-4155-add6-af13aa63c48a) [l-]am intalnit[-o] si in [Republica Modova](https://www.ctif.gov.md/sites/default/files/inline-files/Ghid%20integrare%20Complet-Automatizat.pdf).
 
 Proiectul moldovenesc vine si cu o serie de exemple de cod pentru dezvoltatorii .NET.
