@@ -93,7 +93,7 @@ Referitor la specificitatea facturilor trebuie sa amintim ca si sistemul de mana
 
 In acest sens am gasit un exemplu de factura generat cu ajutorului unui ERP cunoscut de pe piata IT&C si anume [ODOO](https://hamorsoft1.odoo.com/web/content/8756?unique=00c348150f44d16905a0698e40dffbcf9cedf762&download=true); 
 
-Factura emisa in acest caz cu ajutorul lui ODOO are in/la final semnatura/certificatul X509 plasata de catre emitentul/autorul calificat al documentului.
+Factura emisa in acest caz cu ajutorul lui ODOO are in/la final semnatura/certificatul [X509](https://docplayer.net/229352011-1-2-factura-vanzator-hamor-soft-srl-demonstratie-4-cumparator-international-sa-5-invoice.html) plasata de catre emitentul/autorul calificat al documentului.
 
 2. Declaratia 406 ([D406](https://noagroup.ro/fisierul-standard-de-control-fiscal-saf-t-si-testarea-voluntara-pentru-incarcarea-declaratiei-d406t/) audit/control financiar); Sistemul [SAF-T](https://www.pwc.ro/ro/pwc-romania-digital/tax-technology/saf-t.html)
 
