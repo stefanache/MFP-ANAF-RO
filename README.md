@@ -63,7 +63,7 @@ Interesanta este si solutia gasita de cei de la Microsoft [MSF pentru eFactura](
 
 [Facturis](https://facturis-online.ro/e-factura/biblioteca-cu-informatii-oficiale-despre-formatul-xml-pentru-e-factura.html) prezinta si cateva [modele de facturi xml](https://facturis-online.ro/tag/model-factura-xml) si este important sa mentionam ca ei prezinta doar niste exemple particulare.
 
-O sa preluam si noi aceste exemple(cu amendamentul ca ele nu constituie generalizari) si le vom face vizibile pentru a fi mai confortabil de interpretat/vizualizat:
+O sa preluam si noi aceste cateva exemple(cu amendamentul ca acestea nu constituie exemple generalizate) pentru a fi mai confortabil de interpretat/vizualizat:
 
 - [o factura in valuta](https://facturis-online.ro/e-factura/model-xml-pentru-e-factura-in-valuta.html)
 
@@ -71,7 +71,7 @@ O sa preluam si noi aceste exemple(cu amendamentul ca ele nu constituie generali
 
 - [o factura a unei firme neplatitoare de TVA](https://facturis-online.ro/e-factura/modele-de-facturi-in-xml-acceptate-de-sistemul-e-factura-pentru-firmele-neplatitoare-de-tva.html)
   
- Etapele fundamentale in fluxul operational al procesului EFactura sunt urmatoarele:
+ Etapele fundamentale in fluxul operational al procesului eFactura sunt urmatoarele:
  
  - etapa de creare a fisierului xml si apoi 
  - cea de transmitere sau de incarcare la ANAF.
@@ -93,7 +93,7 @@ Referitor la specificitatea facturilor trebuie sa amintim ca si sistemul de mana
 
 In acest sens am gasit un exemplu de factura generat cu ajutorului unui ERP cunoscut de pe piata IT&C si anume [ODOO](https://hamorsoft1.odoo.com/web/content/8756?unique=00c348150f44d16905a0698e40dffbcf9cedf762&download=true); 
 
-Factura emisa in acest caz cu ajutorul lui ODOO are in/la final semnatura/certificatul [X509](https://docplayer.net/229352011-1-2-factura-vanzator-hamor-soft-srl-demonstratie-4-cumparator-international-sa-5-invoice.html) plasata de catre emitentul/autorul calificat al documentului.
+eFactura emisa in acest caz cu ajutorul lui ODOO are in/la final semnatura/certificatul [X509](https://docplayer.net/229352011-1-2-factura-vanzator-hamor-soft-srl-demonstratie-4-cumparator-international-sa-5-invoice.html) plasata de catre emitentul/autorul calificat al documentului.
 
 2. Declaratia 406 ([D406](https://noagroup.ro/fisierul-standard-de-control-fiscal-saf-t-si-testarea-voluntara-pentru-incarcarea-declaratiei-d406t/) audit/control financiar); Sistemul [SAF-T](https://www.pwc.ro/ro/pwc-romania-digital/tax-technology/saf-t.html)
 
