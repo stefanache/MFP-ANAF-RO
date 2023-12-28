@@ -134,7 +134,7 @@ Astfel de etichete [NC8](https://nc8.nxm.ro/), [TARIC3](http://taric3.customs.ro
 Chiar daca [declaratia Intrastat](http://www.intrastat.ro/doc/Ghid_offline_2023_v1.pdf) se depune la INS(si nu la ANAF), totusi este util sa vedem cam ce nomenclatoare se folosesc si aici
 Oricum este foarte important si util sa urmariti [comunicatele ANAF](https://static.anaf.ro/static/3/Anaf/20210810090133_comunicat%20saf%20-t%2010august2021.pdf) pentru ca apar dese modificari care trebuiesc transpuse in codul dumneavoastra.
 
-Si [buna practica a unor provideri de suport fiscal](https://www.docs.nexuserp.ro/articol/configurare-e-factura-in-nexus-erp/3498) poate fi utila in a vedea cum se lucreaza cu aceste nomenlcatoare.
+Si [buna practica a unor provideri de suport fiscal](https://www.docs.nexuserp.ro/articol/configurare-e-factura-in-nexus-erp/3498) poate fi utila in a vedea cum se lucreaza cu aceste [nomenlcatoare](http://www.imatisoftware.ro/download.htm).
 
 3. [eTransport](https://mfinante.gov.ro/ro/web/etransport)
 
