@@ -130,6 +130,7 @@ O [schema excel de definire+cod a SAF-T](https://static.anaf.ro/static/10/Anaf/I
 
 A fost emis si un ghid [D406T/SAF-T](https://media.hotnews.ro/media_server1/document-2021-08-10-24968436-0-saf-ghidul-contribuabilului-anaf.pdf)
 Pe la finalul acestui document PDF gasiti si o lista cu nomenclatoarele utilizate pt acest raport de control fiscal.
+Si [buna practica a unor provideri de suport fiscal](https://www.docs.nexuserp.ro/articol/configurare-e-factura-in-nexus-erp/3498) poate fi utila in a vedea cum se lucreaza cu aceste nomenlcatoare.
 
 3. [eTransport](https://mfinante.gov.ro/ro/web/etransport)
 
