@@ -128,7 +128,7 @@ precum si pe [contabilul.manager.ro](https://contabilul.manager.ro/a/26360/oblig
 
 O [schema excel de definire+cod a SAF-T](https://static.anaf.ro/static/10/Anaf/Informatii_R/RO_SAFT_SchemaDefCod_20230731.xlsx) vine in sprijinul declaratiei [D406](https://static.anaf.ro/static/10/Anaf/Declaratii_R/406.html) 
 
-A fost emis si un [ghid D406T/SAF-T](https://media.hotnews.ro/media_server1/document-2021-08-10-24968436-0-saf-ghidul-contribuabilului-anaf.pdf)
+A fost emis si un [ghid D406T/SAF-T vs.2](https://media.hotnews.ro/media_server1/document-2021-08-10-24968436-0-saf-ghidul-contribuabilului-anaf.pdf) (versiunea anterioara [vs1.1  a acestui ghid o gasiti aici](https://www.ceccarbusinessmagazine.ro/public/store/imagini/filemanager/source/pdf/SAFT_intrebari_frecv_raspunsuri_v1_1_071021.pdf))
 Pe la finalul acestui document PDF gasiti si o lista cu nomenclatoarele utilizate pt acest raport de control fiscal.
 Astfel de etichete [NC8](https://nc8.nxm.ro/), [TARIC3](http://taric3.customs.ro:9080/taric/web/browsetariffi2_RO?issection=n&expandelem=&importbutton=Navigare+nomenclatura-import&Country=----------&Year=2022&Month=06&Day=15&startpos=1&ctmode=C#POS), [CPV](https://cpv.nxm.ro/), [IFRS](https://www.icaew.com/technical/corporate-reporting/ifrs/ifrs-standards)... va sunt deja cunoscute
 
