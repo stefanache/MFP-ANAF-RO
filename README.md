@@ -71,7 +71,7 @@ O sa preluam si noi aceste cateva exemple(cu amendamentul ca acestea nu constitu
 
 - [o factura a unei firme neplatitoare de TVA](https://facturis-online.ro/e-factura/modele-de-facturi-in-xml-acceptate-de-sistemul-e-factura-pentru-firmele-neplatitoare-de-tva.html)
 
-  Cei de la 2Invoice ofera [modele](https://www.2invoice.ro/help/modele-documente-utile/modele-facturi-fiscale) ce au suport pentru containerele excel si word
+  Cei de la [2Invoice](https://www.2invoice.ro/efactura.html?gclid=CjwKCAiAs6-sBhBmEiwA1Nl8s-6dT0YBdbmf_U_GARdL10qHL3yPI7kuuGz43n-3YgctF2rtwmVpDRoCErIQAvD_BwE) ofera [modele](https://www.2invoice.ro/help/modele-documente-utile/modele-facturi-fiscale) ce au suport pentru containerele excel si word
 
  Etapele fundamentale in fluxul operational al procesului eFactura sunt urmatoarele:
  
