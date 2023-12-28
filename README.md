@@ -128,7 +128,7 @@ precum si pe [contabilul.manager.ro](https://contabilul.manager.ro/a/26360/oblig
 
 O [schema excel de definire+cod a SAF-T](https://static.anaf.ro/static/10/Anaf/Informatii_R/RO_SAFT_SchemaDefCod_20230731.xlsx) vine in sprijinul declaratiei [D406](https://static.anaf.ro/static/10/Anaf/Declaratii_R/406.html) 
 
-A fost emi si un ghid [D406/SAF-T](https://media.hotnews.ro/media_server1/document-2021-08-10-24968436-0-saf-ghidul-contribuabilului-anaf.pdf)
+A fost emis si un ghid [D406T/SAF-T](https://media.hotnews.ro/media_server1/document-2021-08-10-24968436-0-saf-ghidul-contribuabilului-anaf.pdf)
 
 3. [eTransport](https://mfinante.gov.ro/ro/web/etransport)
 
