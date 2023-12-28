@@ -130,6 +130,8 @@ O [schema excel de definire+cod a SAF-T](https://static.anaf.ro/static/10/Anaf/I
 
 A fost emis si un ghid [D406T/SAF-T](https://media.hotnews.ro/media_server1/document-2021-08-10-24968436-0-saf-ghidul-contribuabilului-anaf.pdf)
 Pe la finalul acestui document PDF gasiti si o lista cu nomenclatoarele utilizate pt acest raport de control fiscal.
+Astfel de etichete [NC8](https://nc8.nxm.ro/), [TARIC3](http://taric3.customs.ro:9080/taric/web/browsetariffi2_RO?issection=n&expandelem=&importbutton=Navigare+nomenclatura-import&Country=----------&Year=2022&Month=06&Day=15&startpos=1&ctmode=C#POS),[CPV](https://cpv.nxm.ro/), [IFRS](https://www.icaew.com/technical/corporate-reporting/ifrs/ifrs-standards)... va sunt deja cunoscute
+
 Si [buna practica a unor provideri de suport fiscal](https://www.docs.nexuserp.ro/articol/configurare-e-factura-in-nexus-erp/3498) poate fi utila in a vedea cum se lucreaza cu aceste nomenlcatoare.
 
 3. [eTransport](https://mfinante.gov.ro/ro/web/etransport)
