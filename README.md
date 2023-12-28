@@ -70,7 +70,9 @@ O sa preluam si noi aceste cateva exemple(cu amendamentul ca acestea nu constitu
 - [o factura a unei agentii de turism](https://facturis-online.ro/e-factura/modele-de-facturi-in-xml-acceptate-in-sistemul-e-factura-pentru-agentiile-de-turism.html)
 
 - [o factura a unei firme neplatitoare de TVA](https://facturis-online.ro/e-factura/modele-de-facturi-in-xml-acceptate-de-sistemul-e-factura-pentru-firmele-neplatitoare-de-tva.html)
-  
+
+  Cei de la 2Invoice ofera [modele](https://www.2invoice.ro/help/modele-documente-utile/modele-facturi-fiscale) ce au suport pentru containerele excel si word
+
  Etapele fundamentale in fluxul operational al procesului eFactura sunt urmatoarele:
  
  - etapa de creare a fisierului xml si apoi 
