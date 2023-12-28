@@ -5,7 +5,7 @@ ori folisind [serviciul online MFP ca ofera informatii despre persoanele juridic
 
 1. Factura electronica [eFactura](https://www.anaf.ro/anaf/internet/ANAF/despre_anaf/strategii_anaf/proiecte_digitalizare/e.factura):
  
-Prezinta un deosebit interes relativ la facturarea electronica aceasta [prezentare ANAF a sistemului eFactura](https://mfinante.gov.ro/static/10/eFactura/PrezentareE-factura.pdf)
+Prezinta un deosebit interes relativ la [facturarea electronica](https://mfinante.gov.ro/static/10/Mfp/ghidE-FACTURA.pdf) aceasta [prezentare ANAF a sistemului eFactura](https://mfinante.gov.ro/static/10/eFactura/PrezentareE-factura.pdf)
 
 dar si cateva referinte remarcabile:
 
