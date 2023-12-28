@@ -115,7 +115,7 @@ Proiectul romanesc [eFactura](https://github.com/topics/anaf) este parte [integr
 
 Acest demers al/aceasta preocupare specifica  [e-Facturii](https://servicii.fisc.md/DF_DocumentViewer.aspx?id=4e7393da-cefd-4155-add6-af13aa63c48a) [l-]am intalnit[-o] si in [Republica Modova](https://www.ctif.gov.md/sites/default/files/inline-files/Ghid%20integrare%20Complet-Automatizat.pdf). Proiectul moldovenesc vine si cu o serie de exemple de cod pentru dezvoltatorii .NET
 
-2. Declaratia 406 ([D406](https://noagroup.ro/fisierul-standard-de-control-fiscal-saf-t-si-testarea-voluntara-pentru-incarcarea-declaratiei-d406t/) audit/control financiar); Sistemul [SAF-T](https://www.pwc.ro/ro/pwc-romania-digital/tax-technology/saf-t.html)
+2. Declaratia 406 si 406T ([D406](https://noagroup.ro/fisierul-standard-de-control-fiscal-saf-t-si-testarea-voluntara-pentru-incarcarea-declaratiei-d406t/) audit/control financiar); Sistemul [SAF-T](https://www.pwc.ro/ro/pwc-romania-digital/tax-technology/saf-t.html)
  
 Daca este sa ne referim spre exemplu la [SAF-T(D406)](https://www.contzilla.ro/anaf-a-publicat-documentatia-tehnica-saf-t/) reprezentativ este acest link: [SAF-T(D406)](https://www.anaf.ro/anaf/internet/ANAF/despre_anaf/strategii_anaf/proiecte_digitalizare/saf_t/!ut/p/a1/04_Sj9CPykssy0xPLMnMz0vMAfGjzOI9DD3MPIwsjLws3AKdDQKDDH1cHb0NDAwszIAKIpEVGHgEGhgEmjp5Bpm6BxgYGBpQpt_EkDL9BmbE6TfAARwJuj9cPwqvEndzdAVYggivAlAY4FUA8iRYAR5fFOSG)
 
@@ -132,7 +132,7 @@ A fost emis si un [ghid D406T/SAF-T vs.2](https://media.hotnews.ro/media_server1
 Pe la finalul acestui document PDF gasiti si o lista cu nomenclatoarele utilizate pt acest raport de control fiscal.
 Astfel de etichete [NC8](https://nc8.nxm.ro/), [TARIC3](http://taric3.customs.ro:9080/taric/web/browsetariffi2_RO?issection=n&expandelem=&importbutton=Navigare+nomenclatura-import&Country=----------&Year=2022&Month=06&Day=15&startpos=1&ctmode=C#POS), [CPV](https://cpv.nxm.ro/), [IFRS](https://www.icaew.com/technical/corporate-reporting/ifrs/ifrs-standards)... va sunt deja cunoscute.
 Chiar daca [declaratia Intrastat](http://www.intrastat.ro/doc/Ghid_offline_2023_v1.pdf) se depune la INS(si nu la ANAF), totusi este util sa vedem cam ce nomenclatoare se folosesc si aici
-
+Oricum este foarte important si util sa urmariti [comunicatele ANAF](https://static.anaf.ro/static/3/Anaf/20210810090133_comunicat%20saf%20-t%2010august2021.pdf) pentru ca apar dese modificari care trebuiesc transpuse in codul dumneavoastra.
 
 Si [buna practica a unor provideri de suport fiscal](https://www.docs.nexuserp.ro/articol/configurare-e-factura-in-nexus-erp/3498) poate fi utila in a vedea cum se lucreaza cu aceste nomenlcatoare.
 
