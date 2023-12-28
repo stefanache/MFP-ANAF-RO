@@ -130,7 +130,9 @@ O [schema excel de definire+cod a SAF-T](https://static.anaf.ro/static/10/Anaf/I
 
 A fost emis si un [ghid D406T/SAF-T vs.2](https://media.hotnews.ro/media_server1/document-2021-08-10-24968436-0-saf-ghidul-contribuabilului-anaf.pdf) (versiunea anterioara [vs1.1  a acestui ghid o gasiti aici](https://www.ceccarbusinessmagazine.ro/public/store/imagini/filemanager/source/pdf/SAFT_intrebari_frecv_raspunsuri_v1_1_071021.pdf))
 Pe la finalul acestui document PDF gasiti si o lista cu nomenclatoarele utilizate pt acest raport de control fiscal.
-Astfel de etichete [NC8](https://nc8.nxm.ro/), [TARIC3](http://taric3.customs.ro:9080/taric/web/browsetariffi2_RO?issection=n&expandelem=&importbutton=Navigare+nomenclatura-import&Country=----------&Year=2022&Month=06&Day=15&startpos=1&ctmode=C#POS), [CPV](https://cpv.nxm.ro/), [IFRS](https://www.icaew.com/technical/corporate-reporting/ifrs/ifrs-standards)... va sunt deja cunoscute
+Astfel de etichete [NC8](https://nc8.nxm.ro/), [TARIC3](http://taric3.customs.ro:9080/taric/web/browsetariffi2_RO?issection=n&expandelem=&importbutton=Navigare+nomenclatura-import&Country=----------&Year=2022&Month=06&Day=15&startpos=1&ctmode=C#POS), [CPV](https://cpv.nxm.ro/), [IFRS](https://www.icaew.com/technical/corporate-reporting/ifrs/ifrs-standards)... va sunt deja cunoscute.
+Chiar daca [declaratia Intrastat](http://www.intrastat.ro/doc/Ghid_offline_2023_v1.pdf) se depune la INS(si nu la ANAF), totusi este util sa vedem cam ce nomenclatoare se folosesc si aici
+
 
 Si [buna practica a unor provideri de suport fiscal](https://www.docs.nexuserp.ro/articol/configurare-e-factura-in-nexus-erp/3498) poate fi utila in a vedea cum se lucreaza cu aceste nomenlcatoare.
 
