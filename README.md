@@ -129,6 +129,7 @@ precum si pe [contabilul.manager.ro](https://contabilul.manager.ro/a/26360/oblig
 O [schema excel de definire+cod a SAF-T](https://static.anaf.ro/static/10/Anaf/Informatii_R/RO_SAFT_SchemaDefCod_20230731.xlsx) vine in sprijinul declaratiei [D406](https://static.anaf.ro/static/10/Anaf/Declaratii_R/406.html) 
 
 Un bun inceput este sa va creati o viziune de ansamblu privind [structura SAF-T](https://declaratiasaft.ro/structura-saft/)
+Dar [principalul produs al ANAF](https://hamorsoft.eu/site/web/uploads/duki.pdf) ramane acest validator [DUKIntegrator](https://static.anaf.ro/static/DUKIntegrator/DUKIntegrator.htm).
 
 A fost emis si un [ghid D406T/SAF-T vs.2](https://media.hotnews.ro/media_server1/document-2021-08-10-24968436-0-saf-ghidul-contribuabilului-anaf.pdf) (versiunea anterioara [vs1.1  a acestui ghid o gasiti aici](https://www.ceccarbusinessmagazine.ro/public/store/imagini/filemanager/source/pdf/SAFT_intrebari_frecv_raspunsuri_v1_1_071021.pdf))
 Pe la finalul acestui document PDF gasiti si o lista cu nomenclatoarele utilizate pt acest raport de control fiscal.
