@@ -58,6 +58,8 @@ legate de toate formularele ANAF (eFactura,eTransport,SAF-T(D406),D112,...etc) [
 - [coduri postale](https://www.posta-romana.ro/cauta-cod-postal.html)
 - [nomenclator CAEN](https://www.onrc.ro/index.php/ro/caen) - activitati [PJ](https://caen.ro/)
 - [nomenclator COR](https://codcor.ro/) - activitati [PF](https://codcor.ro/)
+- [nomenclator PRODROM](https://www.123coduri.ro/cauta-in-baza-de-date-coduri-prodrom.php) - [produse romanesti](https://www.prodrom.nxm.ro/)
+- [
 - [coduri IBAN pt conturi de cheltuieli, utilizate doar de catre institutii publice &
   coduri IBAN pt conturi de venituri sectoare speciale judetene si ale sectoarelor din Bucuresti, utilizate de catre PF si PJ](https://www.anaf.ro/anaf/internet/ANAF/asistenta_contribuabili/plata_oblig_fiscale/coduri_iban)
 - [nomenclator conturi bancare venituri bugetare/disponibilitati](https://static.anaf.ro/static/10/Anaf/Aplicatii/OP_FV/optt2013/OPTT_conturi_venituri_01102020.pdf)
