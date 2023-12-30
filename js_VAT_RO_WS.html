@@ -1,21 +1,41 @@
-const url = 'https://webservicesp.anaf.ro/PlatitorTvaRest/api/v8/ws/tva';
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>My Website</title>
+    <link rel="stylesheet" href="./style.css">
+    <link rel="icon" href="./favicon.ico" type="image/x-icon">
+  </head>
+  <body>
+    <main>
+        <h1>Welcome to My Website</h1>  
+    </main>
+	<script>
+        const url = 'https://webservicesp.anaf.ro/PlatitorTvaRest/api/v8/ws/tva';
+        
+        const headers = {
+            'Accept': 'application/json',
+            'Accept-Language': 'en-US,en;q=0.7,ro;q=0.3',
+            'Connection': 'keep-alive',
+            'Referer': 'https://mfinante.gov.ro',
+            'Content-Type': 'application/json',
+        };
+        const today = new Date().toISOString().slice(0, 10);
+        const data = [{'cui': '19467555', 'data': today}];
+        console.log(data)
+        
+        fetch(url, {
+            method: 'POST',
+            headers: headers,
+            body: JSON.stringify(data)
+        })
+            .then(response => response.json())
+            .then(data => alert(data))
+            .catch((error) => console.error('Error:', error));
+                
+    </script>
+  </body>
 
-const headers = {
-    'Accept': 'application/json',
-    'Accept-Language': 'en-US,en;q=0.7,ro;q=0.3',
-    'Connection': 'keep-alive',
-    'Referer': 'https://mfinante.gov.ro',
-    'Content-Type': 'application/json',
-};
-const today = new Date().toISOString().slice(0, 10);
-const data = [{'cui': '19467555', 'data': today}];
-console.log(data)
-
-fetch(url, {
-    method: 'POST',
-    headers: headers,
-    body: JSON.stringify(data)
-})
-    .then(response => response.json())
-    .then(data => console.log(data))
-    .catch((error) => console.error('Error:', error));
+    
