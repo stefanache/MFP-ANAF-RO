@@ -61,6 +61,7 @@ legate de toate formularele ANAF (eFactura,eTransport,SAF-T(D406),D112,...etc) [
 - [normele anuale de venit pe anul 20NN, stabilite pentru activități independente](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/Normevenit2023/Norme_venit_2023.html)
 - [nomenclatorul obligațiilor de plată la bugetul de stat](https://www.anaf.ro/anaf/internet/ANAF/asistenta_contribuabili/plata_oblig_fiscale/nomenclatoare_obligatii/)
 - [nomenclator BNR monede/valuta](https://bnr.ro/files/d/Statistica/metodologie/ifm/ghid/Nomenclator_valute20070122.pdf)
+- [nomenclator BNR tari si organizatii internationale](https://www.bnro.ro/DocumentInformation.aspx?idDocument=27532&directLink=1)
 - [etc](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/Nomenclator_2016.htm).
   
 De asemenea, puteti cauta o serie de informatii provind [facturarea electronica pe site-ul ASRO](https://magazin.asro.ro/Search?q=factura+electronica)
