@@ -53,7 +53,7 @@ legate de toate formularele ANAF (eFactura,eTransport,SAF-T(D406),D112,...etc) [
 
 - [forme juridice si de proprietate](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/Nomenclator_forme_juridice.htm)
 - [geografice](https://mfinante.gov.ro/nomenclatoare-geografice-mfp) (incluzand relatiile de [interoperabilitate](https://www.mfinante.gov.ro/static/40/Mfp/nomenclatoare/Nom_geogr_INTERNET_script.pdf) dintre [tabelele](https://mfinante.gov.ro/static/40/Mfp/nomenclatoare/SMD_NOMEN_INTEROPERABILITATE_v2.pdf) ce gazduiesc aceste [nomenclatoare](https://data.gov.ro/dataset/nomenclatoaregeografice))
-- etc.
+- [etc](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/Nomenclator_2016.htm).
   
 De asemenea, puteti cauta o serie de informatii provind [facturarea electronica pe site-ul ASRO](https://magazin.asro.ro/Search?q=factura+electronica)
 
