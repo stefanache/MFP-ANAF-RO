@@ -56,6 +56,7 @@ legate de toate formularele ANAF (eFactura,eTransport,SAF-T(D406),D112,...etc) [
 - [registrul electronic national ANCPI al nomenclaturilor stradale si de adresa](https://renns.ancpi.ro/renns-public/)
 - [coduri SIRUTA](https://www.siruta.nxm.ro/)
 - [coduri postale](https://www.posta-romana.ro/cauta-cod-postal.html)
+- [nomenclator COR](https://www.rubinian.com/cor_alfabetic.php?litera=G)
 - [nomenclator CAEN](https://www.onrc.ro/index.php/ro/caen)
 - [coduri SIRUTA si UAT-uri pe judete](http://www.dpfbl.mdrap.ro/cod_siruta_uat-uri.html)
 - [coduri IBAN pt conturi de cheltuieli, utilizate doar de catre institutii publice &
