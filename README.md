@@ -53,6 +53,7 @@ legate de toate formularele ANAF (eFactura,eTransport,SAF-T(D406),D112,...etc) [
 
 - [forme juridice si de proprietate](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/Nomenclator_forme_juridice.htm)
 - [geografice](https://mfinante.gov.ro/nomenclatoare-geografice-mfp) (incluzand relatiile de [interoperabilitate](https://www.mfinante.gov.ro/static/40/Mfp/nomenclatoare/Nom_geogr_INTERNET_script.pdf) dintre [tabelele](https://mfinante.gov.ro/static/40/Mfp/nomenclatoare/SMD_NOMEN_INTEROPERABILITATE_v2.pdf) ce gazduiesc aceste [nomenclatoare](https://data.gov.ro/dataset/nomenclatoaregeografice)): ex [judete]( https://webnom.anaf.ro/Nomenclatoare/api/judete/)
+- [nomenclator CAEN](https://www.onrc.ro/index.php/ro/caen)
 - [coduri SIRUTA si UAT-uri pe judete](http://www.dpfbl.mdrap.ro/cod_siruta_uat-uri.html)
 - [coduri IBAN pt conturi de cheltuieli, utilizate doar de catre institutii publice &
   coduri IBAN pt conturi de venituri sectoare speciale judetene si ale sectoarelor din Bucuresti, utilizate de catre PF si PJ](https://www.anaf.ro/anaf/internet/ANAF/asistenta_contribuabili/plata_oblig_fiscale/coduri_iban)
