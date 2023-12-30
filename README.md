@@ -1,7 +1,7 @@
 [ANAF](https://www.anaf.ro/) sub egida [MFP](https://mfinante.gov.ro/domenii) pune la dispozitie aceasta pagina despre [serviciile](https://mfinante.gov.ro/static/10/eFactura/prezentare%20api%20efactura.pdf) sale web: [servicii web ANAF](https://www.anaf.ro/anaf/internet/ANAF/servicii_online/servicii_web_anaf)
 
 Puteti avea date de bilant ale unei persoane juridice(PJ) folosind link-ul urmator: [servicii web ANAF- Bilant](https://static.anaf.ro/static/10/Anaf/Informatii_R/doc_WS_Bilant_V1.txt)
-ori folisind [serviciul online MFP ca ofera informatii despre persoanele juridice PJ](https://mfinante.gov.ro/info-pj-selectie-nume-si-judet)
+ori folosind [serviciul online MFP care ofera informatii despre persoanele juridice PJ](https://mfinante.gov.ro/info-pj-selectie-nume-si-judet)
 
 1. Factura electronica [eFactura](https://www.anaf.ro/anaf/internet/ANAF/despre_anaf/strategii_anaf/proiecte_digitalizare/e.factura):
  
