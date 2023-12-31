@@ -167,7 +167,32 @@ Un fisier Excel ofera informatii despre [structura eTransport](https://mfinante.
 
 Sunt multe [surse de informare](https://www.euload.com/blog.view.php?id=61) dar si multe modificari legislative si in cazul platformei eTransport.
 
-4. [MFP](https://mfinante.gov.ro/domenii) - factor integrator:
+4.[Impozitul pe Venit](https://static.anaf.ro/static/10/Anaf/Contribuabili/scurt_ghid.htm)
+
+Acesta sectiune se refera la impozitul aferent sau provenit din activitati economice adica din:
+- Activităţi impuse pe bază de norme de venit
+- Arendă
+- Asociere fără personalitate juridică
+- Activităţi agricole
+- Chirie
+- Comerţ, meserie
+- Dividende
+- Dobânzi
+- Drepturi de proprietate intelectuală
+- Jocuri de noroc şi premii
+- Lichidarea unei firme
+- Moşteniri, donaţii, burse, alocaţii etc.
+- Profesiuni libere
+- Pensie
+- Salarii
+- Salariu din străinătate
+- Străinătate
+- Titluri de valoare, acţiuni
+- Tranzacţii cu valută
+- Vânzarea unei locuinţe
+  
+
+5. [MFP](https://mfinante.gov.ro/domenii) - factor integrator:
 
 Un link MFP va poate indruma catre [informatii MFP despre formularele F11xx](https://mfinante.gov.ro/web/forexepublic/informatii-publice)
 
@@ -178,7 +203,7 @@ Trebuie sa stiti ca acest mod de raportare specific pessoanelor fizice si juridi
 
 Legat de un proiect mai vechi "[e-Documents](https://www.avocatnet.ro/articol_65745/Arhivare-Firmele-vor-trebui-s%C4%83-se-asigure-c%C4%83-p%C4%83streaz%C4%83-XML-urile-facturilor-transmise-in-e-Factura-Inc%C4%83-sunt-probleme-cu-anexele-lor-dar-ANAF-lucreaz%C4%83-la-asta.html)", trebuie sa amintim si faptul ca [arhivarea documentelor](https://mfinante.gov.ro/documents/35673/5542684/csac676660_12012022.pdf) ar fi ultima etapa din "[viata](https://www.cabinetexpert.ro/2023-02-28/anaf-oficial-2023-termene-noi-pentru-arhivarea-unor-documente.html)" unui document.
 
-5. La final cateva cuvinte in loc de ... La revedere!...
+6. La final cateva cuvinte in loc de ... La revedere!...
 
 Daca aveti intrebari/nelamuriri sau doriti sa sustineti ori sa colaboram in vederea dezvoltarii unei aplicatii specifice ANAF/MFP, 
 
