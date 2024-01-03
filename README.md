@@ -137,7 +137,7 @@ Proiectul romanesc [eFactura](https://github.com/topics/anaf) este parte [integr
 
 Acest demers al/aceasta preocupare specifica  [e-Facturii](https://servicii.fisc.md/DF_DocumentViewer.aspx?id=4e7393da-cefd-4155-add6-af13aa63c48a) [l-]am intalnit[-o] si in [Republica Modova](https://www.ctif.gov.md/sites/default/files/inline-files/Ghid%20integrare%20Complet-Automatizat.pdf). Proiectul moldovenesc vine si cu o serie de exemple de cod pentru dezvoltatorii .NET
 
-Trebuie sa ne amintim si de reteaua pan-europeana [Peppol](https://doc-process.com/ro/peppol-access-point/) care se ocupa de transmiterea acestor e-Facturi in cadrul UE si nu  numai.
+Trebuie sa ne amintim si de reteaua pan-europeana [Peppol](https://doc-process.com/ro/peppol-access-point/) care se ocupa de transmiterea acestor e-Facturi in cadrul [UE si nu  numai](https://unece.org/trade/uncefact/e-invoice).
 
 [Pan-European Public Procurement OnLine](https://doc-process.com/wp-content/uploads/2022/07/RO-Peppol-Guide-Ebook.pdf) adica pe scurt  [PEPPOL](https://docs.peppol.eu/poacc/billing/3.0/rules/ubl-tc434/) a câștigat notorietate ca rețea pentru transmiterea facturilor în regiunea europeană și nu numai.
 
