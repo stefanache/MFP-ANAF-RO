@@ -220,7 +220,7 @@ Legat de un proiect mai vechi "[e-Documents](https://www.avocatnet.ro/articol_65
 
 Implementarea [proceselor economice de afaceri/business](/https://mfinante.gov.ro/documents/35673/5542684/csacp681063_29032022.pdf) ramane o provocare pentru [mediul de afaceri](https://www.fluentis.com/ro/software-erp/solutii-departamentale-integrate/software-facturare-electronica/) avnd in vedere ca trebuiesc integrate aceste raportari periodice dar sper ca aceste informatii sa vina in ajutorul dumneavoastra.
 
-Aceste [procese de business](https://www.fluentis.com/ro/software-erp/solutii-departamentale-integrate/software-bpm/) pot fi modelate folosind scheme precum BPMN pentru ca mai apoi sa aveti oportunitatea de a le optimiza si integra in [ERP](https://www.fluentis.com/ro/software-erp/solutii-departamentale-integrate/software-bpm/)-ul dumneavoastra
+Aceste [procese de business](https://www.fluentis.com/ro/software-erp/solutii-departamentale-integrate/software-bpm/) pot fi modelate folosind scheme precum BPMN pentru ca mai apoi sa aveti oportunitatea de a le optimiza si integra in [ERP](https://www.fluentis.com/ro/software-erp/solutii-departamentale-integrate/software-facturare-electronica/)-ul dumneavoastra
 
 Daca aveti intrebari/nelamuriri sau doriti sa sustineti ori sa colaboram in vederea dezvoltarii unei aplicatii specifice ANAF/MFP, 
 
