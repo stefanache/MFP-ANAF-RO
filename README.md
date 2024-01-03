@@ -139,7 +139,7 @@ Acest demers al/aceasta preocupare specifica  [e-Facturii](https://servicii.fisc
 
 Trebuie sa ne amintim si de reteaua pan-europeana [Peppol](https://doc-process.com/ro/peppol-access-point/) care se ocupa de transmiterea acestor e-Facturi in cadrul UE si nu  numai.
 
-[PEPPOL (Pan-European Public Procurement OnLine)](https://docs.peppol.eu/poacc/billing/3.0/rules/ubl-tc434/) a câștigat notorietate ca rețea pentru transmiterea facturilor în regiunea europeană și nu numai.
+[Pan-European Public Procurement OnLine](https://doc-process.com/wp-content/uploads/2022/07/RO-Peppol-Guide-Ebook.pdf) adica pe scurt  [PEPPOL](https://docs.peppol.eu/poacc/billing/3.0/rules/ubl-tc434/) a câștigat notorietate ca rețea pentru transmiterea facturilor în regiunea europeană și nu numai.
 
 2. Declaratia 406 si 406T ([D406](https://noagroup.ro/fisierul-standard-de-control-fiscal-saf-t-si-testarea-voluntara-pentru-incarcarea-declaratiei-d406t/) audit/control financiar); Sistemul [SAF-T](https://www.pwc.ro/ro/pwc-romania-digital/tax-technology/saf-t.html)
  
