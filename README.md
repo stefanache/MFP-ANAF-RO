@@ -218,7 +218,7 @@ Legat de un proiect mai vechi "[e-Documents](https://www.avocatnet.ro/articol_65
  
 7. La final cateva cuvinte in loc de ... La revedere!...
 
-Implementarea [proceselor de afaceri/business](/https://mfinante.gov.ro/documents/35673/5542684/csacp681063_29032022.pdf) ramane o provocare pentru mediul de afaceri dar sper ca aceste informatii sa vina in ajutorul dumneavoastra.
+Implementarea [proceselor de afaceri/business](/https://mfinante.gov.ro/documents/35673/5542684/csacp681063_29032022.pdf) ramane o provocare pentru mediul de afaceri avnd in vedere ca trebuiesc integrate aceste raportari periodice dar sper ca aceste informatii sa vina in ajutorul dumneavoastra.
 
 Daca aveti intrebari/nelamuriri sau doriti sa sustineti ori sa colaboram in vederea dezvoltarii unei aplicatii specifice ANAF/MFP, 
 
