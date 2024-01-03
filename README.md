@@ -69,7 +69,11 @@ legate de toate formularele ANAF (eFactura,eTransport,SAF-T(D406),D112,...etc) [
 - [nomenclatorul obligațiilor de plată la bugetul de stat](https://www.anaf.ro/anaf/internet/ANAF/asistenta_contribuabili/plata_oblig_fiscale/nomenclatoare_obligatii/)
 - [nomenclator BNR monede/valuta](https://bnr.ro/files/d/Statistica/metodologie/ifm/ghid/Nomenclator_valute20070122.pdf)
 - [nomenclator BNR tari si organizatii internationale](https://www.bnro.ro/DocumentInformation.aspx?idDocument=27532&directLink=1)
-- [etc](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/Nomenclator_2016.htm).
+- ...
+- (aici la nomenclatoare as adauga/aminti chiar si [RO_CIUS](https://lege5.ro/Gratuit/TrackChanges/geztanrsgmydq?type=1&by=geztcmrwgy3tm&d=20.12.2022)
+- ...
+- [etc](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/Nomenclator_2016.htm)
+  
 
 Aceste nomenclatoare se gasesc pe internet in documentatia ANAF/MFP/BNR/GOV..., in diverse tipuri/formate/containere [pdf](https://www.tatime.gov.al/shkarko.php?id=13418), [htm/html](https://lege5.ro/Gratuit/TrackChanges/geztanrsgmydq?type=1&by=geztcmrwgy3tm&d=20.12.2022), xml, [xlsx](https://ec.europa.eu/digital-building-blocks/wikis/download/attachments/467108974/EN16931%20code%20lists%20values%20used%20from%202020-11-15.xlsx?version=1&modificationDate=1639417211300&api=v2), csv, txt, [...](https://www.ditl3.ro/assets/clients/public/file/2023/contracte-facturi/Factura%20Apa%20Nova%2003.CL.2023.pdf) si, de la caz la caz, in limba romana si/sau limba engleza.
 
