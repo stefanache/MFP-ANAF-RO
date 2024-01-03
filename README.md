@@ -32,6 +32,8 @@ Desigur restul validarilor ce acopera cerintele standardului [EN-16931](https://
 
 Regulile de validare [RO_CIUS](https://static.anaf.ro/static/10/Anaf/Informatii_R/Informatii_modificare_CIUS_RO.pdf) ale eFacturii, pot suferi modificari/actualizari cum sunt cele  din ORDIN-ul nr. 4.092 din 14 noiembrie 2022 adica  [O4092/14.11.2022](https://legislatie.just.ro/Public/DetaliiDocument/261755) ce urmeaza Ordinului nr. 1366 din 08 noiembrie 2021 adica [O1366/8.11.2021](https://lege5.ro/Gratuit/he3dcobrgq2a/ordinul-nr-1366-2021-pentru-aprobarea-specificatiilor-tehnice-si-de-utilizare-a-elementelor-de-baza-ale-facturii-electronice-rocius-si-a-regulilor-operationale-specifice-aplicabile-la-nivel-national?d=2024-01-03)
 
+Ordinul O4092/14.11.2022 a fost actualizat in 27.04.2023 devenind [O4092/27.04.2023](https://legislatie.just.ro/Public/DetaliiDocument/271077)
+
 Pentru validarea unei facturi stocata in format xml( [UBL2.1](https://docs.oasis-open.org/ubl/os-UBL-2.1/xsd/maindoc/UBL-Invoice-2.1.xsd) sau CII 16B ) puteti apela la urmatorul link: [verificare factura xml](https://www.anaf.ro/uploadxmi/)
 
  [Validarea eFactura](https://infotva.manager.ro/articole/infotva/tot-ce-trebuie-sa-stii-despre-utilizarea-sistemului-ro-e-factura-in-relatia-b2b-si-b2g-21988.html) se poate face si local folosind Java si [DUKIntegrator-SAFT](https://www.anaf.ro/anaf/internet/ANAF/despre_anaf/strategii_anaf/proiecte_digitalizare/saf_t/) (utilizat pentro [validarea declaratiilor pe baza de formular ANAF tipizat](https://static.anaf.ro/static/DUKIntegrator/DUKIntegrator.htm),inclusiv D406/SAF-T) care acopera validarea facturii d.p.d.v. CIUS RO-NAT si/armonizat cu EN-16931.
