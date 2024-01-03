@@ -198,6 +198,8 @@ Acesta sectiune se refera la impozitul aferent sau provenit din activitati econo
 - Tranzacţii cu valută
 - Vânzarea unei locuinţe
   
+Pentru fiecare activitate veti avea si [formularul sau formularele pt Impozitul pe Venit](https://static.anaf.ro/static/10/Anaf/Contribuabili/scurt_ghid.htm).
+
 
 5. [MFP](https://mfinante.gov.ro/domenii) - factor integrator:
 
