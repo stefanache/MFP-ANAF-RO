@@ -68,7 +68,9 @@ legate de toate formularele ANAF (eFactura,eTransport,SAF-T(D406),D112,...etc) [
 - [nomenclator BNR monede/valuta](https://bnr.ro/files/d/Statistica/metodologie/ifm/ghid/Nomenclator_valute20070122.pdf)
 - [nomenclator BNR tari si organizatii internationale](https://www.bnro.ro/DocumentInformation.aspx?idDocument=27532&directLink=1)
 - [etc](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/Nomenclator_2016.htm).
-  
+
+Aceste nomenclatoare se gasesc pe internet in documentatia ANAF/MFP/BNR/GOV..., in diverse formate pdf, htm[l], xml, [xls](https://ec.europa.eu/digital-building-blocks/wikis/download/attachments/467108974/EN16931%20code%20lists%20values%20used%20from%202020-11-15.xlsx?version=1&modificationDate=1639417211300&api=v2), csv,txt,...
+
 De asemenea, puteti cauta o serie de informatii provind [facturarea electronica pe site-ul ASRO](https://magazin.asro.ro/Search?q=factura+electronica)
 
 Interesanta este si solutia gasita de cei de la Microsoft [MSF pentru eFactura](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW15w3H)
