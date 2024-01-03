@@ -129,6 +129,10 @@ Proiectul romanesc [eFactura](https://github.com/topics/anaf) este parte [integr
 
 Acest demers al/aceasta preocupare specifica  [e-Facturii](https://servicii.fisc.md/DF_DocumentViewer.aspx?id=4e7393da-cefd-4155-add6-af13aa63c48a) [l-]am intalnit[-o] si in [Republica Modova](https://www.ctif.gov.md/sites/default/files/inline-files/Ghid%20integrare%20Complet-Automatizat.pdf). Proiectul moldovenesc vine si cu o serie de exemple de cod pentru dezvoltatorii .NET
 
+Trebuie sa ne amintim si de reteaua pan-europeana [Peppol](https://doc-process.com/ro/peppol-access-point/) care se ocupa de transmiterea acestori facturi in cadrul UE si nu  numai.
+
+[PEPPOL (Pan-European Public Procurement OnLine)](https://docs.peppol.eu/poacc/billing/3.0/rules/ubl-tc434/) a câștigat notorietate ca rețea pentru transmiterea facturilor în regiunea europeană și nu numai.
+
 2. Declaratia 406 si 406T ([D406](https://noagroup.ro/fisierul-standard-de-control-fiscal-saf-t-si-testarea-voluntara-pentru-incarcarea-declaratiei-d406t/) audit/control financiar); Sistemul [SAF-T](https://www.pwc.ro/ro/pwc-romania-digital/tax-technology/saf-t.html)
  
 Daca este sa ne referim spre exemplu la [SAF-T(D406)](https://www.contzilla.ro/anaf-a-publicat-documentatia-tehnica-saf-t/) reprezentativ este acest link: [SAF-T(D406)](https://www.anaf.ro/anaf/internet/ANAF/despre_anaf/strategii_anaf/proiecte_digitalizare/saf_t/!ut/p/a1/04_Sj9CPykssy0xPLMnMz0vMAfGjzOI9DD3MPIwsjLws3AKdDQKDDH1cHb0NDAwszIAKIpEVGHgEGhgEmjp5Bpm6BxgYGBpQpt_EkDL9BmbE6TfAARwJuj9cPwqvEndzdAVYggivAlAY4FUA8iRYAR5fFOSG)
