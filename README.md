@@ -238,7 +238,7 @@ Puteti sa va scufundati cat mai adanc in modul in care un document ajunge in ret
 
 Desigur in reteaua peppol cel mai important lucru inainte de toate este [procesul](https://github.com/ConnectingEurope/eInvoicing-EN16931/releases/tag/validation-1.2.3) de [validare](https://ionite.nl/news-articles/2023-08-17_validating_peppol_documents/)
 
-[Schematron-ul](v) este oficial ales de catre standardul [EN16931](https://ec.europa.eu/digital-building-blocks/sites/display/DIGITAL/EN+16931+compliance) deoarece pot fi exprimate multe reguli in plus fata de alte limmbaje de validare XML(XSD,...) 
+[Schematron-ul](v) este oficial ales de catre standardul [EN16931](https://ec.europa.eu/digital-building-blocks/sites/display/DIGITAL/EN+16931+compliance) deoarece pot fi exprimate multe reguli in plus fata de alte limmbaje de validare XML(XSD,...).Trebuie stiut insa ca [validarea Schematron nu este infailibila](https://www.truugo.com/en/schematron_validation/) dar impreuna/in combinatie cu alte limbaje de validare pot fi alegeri castigatoare pentru [Schimbul electronic de date -EDI](https://www.truugo.com/en/edi_electronic_data_interchange/)
 
 Daca aveti intrebari/nelamuriri sau doriti sa sustineti ori sa colaboram in vederea dezvoltarii unei aplicatii specifice ANAF/MFP, 
 
