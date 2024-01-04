@@ -238,7 +238,7 @@ Puteti sa va scufundati cat mai adanc in modul in care un document ajunge in ret
 
 Este bine de stiut ca [Peppol](https://www.adr.gov.ro/wp-content/uploads/2022/11/Fundamentare_cazuri_utilizare_studii_evaluare_ex-ante.pdf) [nu opereaza numai/doar in UE](https://issuu.com/euassistancemoldova2020/docs/eud_newsletter_sept_oct_2021_ro) ci acopera o multime de [tari](https://www.storecove.com/ro/en/features/countries/) de pe toate continentele.
 Asadar ca documentul dvs poate fi transmis oricarui/primit de la oricare operator ce isi are rezidenta fiscala intr-una din tarile din lista respectiva.
-Sa nu mai vorbim ca Peppol face schimb de informatii si cu alt retele asadar avem un spectru larg de adresare directa [internationala](https://docs.peppol.eu/poacc/billing/3.0/national-rules/).
+Sa nu mai vorbim ca Peppol face schimb de informatii si cu alt retele asadar avem un spectru larg de [adresare directa](https://www.gsis.gr/sites/default/files/eInvoice/Instructions%20to%20B2G%20Suppliers%20and%20certified%20PEPPOL%20Providers%20for%20the%20Greek%20PEPPOL%20BIS-EN-%20v1.0.pdf) [internationala](https://docs.peppol.eu/poacc/billing/3.0/national-rules/).
 
 Desigur in reteaua [Peppol](https://doc-process.com/ro/ro-e-factura/) cel mai important lucru inainte de toate(daca vreti de gestionarea fluxului de transmitere a documentelor intre partile implicate) este [procesul](https://github.com/ConnectingEurope/eInvoicing-EN16931/releases/tag/validation-1.2.3) de [validare](https://ionite.nl/news-articles/2023-08-17_validating_peppol_documents/)
 
