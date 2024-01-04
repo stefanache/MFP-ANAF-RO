@@ -245,6 +245,8 @@ Desigur in [reteaua](https://www.slideshare.net/hippebrun/connecting-to-peppol-d
 [Schematron-ul](v) este oficial ales de catre [standardul](https://support.maventa.fi/en/support/solutions/articles/77000489495-important-information-regarding-the-standard-en16931) [EN16931](https://ec.europa.eu/digital-building-blocks/sites/display/DIGITAL/EN+16931+compliance) deoarece pot fi exprimate multe reguli in plus fata de alte limmbaje de validare XML(XSD,DTD...). 
 Trebuie stiut insa ca [validarea Schematron nu este infailibila](https://www.truugo.com/en/schematron_validation/) dar impreuna/in combinatie cu alte limbaje de validare pot fi alegeri castigatoare pentru [Schimbul electronic de date -EDI](https://www.truugo.com/en/edi_electronic_data_interchange/)
 
+Si despre EDI ar fi multe de spus dar as puncta doar faptul ca in tranzactiile EDI este implicata o intreaga [stiva de protocoale](https://justransform.com/edi-essentials/edi-standards-and-protocols/) mai mult sau mai putin specifice.
+
 Daca aveti intrebari/nelamuriri sau doriti sa sustineti ori sa colaboram in vederea dezvoltarii unei aplicatii specifice ANAF/MFP, 
 
 va rog, nu ezitati sa ma contactati via email:  ion.stefanache@yahoo.com
