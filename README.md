@@ -232,6 +232,8 @@ Aceste [procese de business](https://www.fluentis.com/ro/software-erp/solutii-de
 
 In acest context, poate fi de mare ajutor si documenttia [Peppol](https://www.fluentis.com/ro/software-erp/solutii-departamentale-integrate/software-facturare-electronica/): [Peppol Business Interoperability Specification (Peppol BIS) ](https://docs.peppol.eu/poac/pint/v1.0.1/pint/bis/#_introduction)
 
+Puteti sa va scufundati cat mai adanc in modul in care un document ajunge in reteaua [Peppol](https://www.avalara.com/blog/en/europe/2023/03/how-does-your-e-invoice-reach-your-customer-on-the-peppol-network.html?gclid=Cj0KCQiAy9msBhD0ARIsANbk0A8t34gxuFGTa04PkN8I4L8rdkFH4mXNxSg46TONOHbKPIgd568fu8UaAhBUEALw_wcB&CampaignID=7015a000001y34SAAQ&utm_source=paid_search&utm_medium=gppc&ef_id=Cj0KCQiAy9msBhD0ARIsANbk0A8t34gxuFGTa04PkN8I4L8rdkFH4mXNxSg46TONOHbKPIgd568fu8UaAhBUEALw_wcB:G:s&s_kwcid=AL!5131!3!675189240647!p!!g!!peppol&gclsrc=aw.ds&&lso=Paid+Digital&lsmr=Paid+Digital&gad_source=1) pentru a avea o idee cat mai clara de modul in care se proceseaza cererile dumneavoastra.
+
 Daca aveti intrebari/nelamuriri sau doriti sa sustineti ori sa colaboram in vederea dezvoltarii unei aplicatii specifice ANAF/MFP, 
 
 va rog, nu ezitati sa ma contactati via email:  ion.stefanache@yahoo.com
