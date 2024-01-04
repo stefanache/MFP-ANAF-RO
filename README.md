@@ -216,6 +216,8 @@ si puteti castiga timp si know-how de [buna practica](https://factureaza.ro/docu
 
 Trebuie sa stiti ca acest mod de raportare specific pessoanelor fizice si juridice se aplica si in cazul [institutiilor publice](https://www.anaf.ro/anaf/internet/ANAF/asistenta_contribuabili/programe_utile) si chiar si in cazul [IFN](https://www.bancatransilvania.ro/news/comunicate-de-presa/firmele-pot-emite-si-trimite-automat-e-factura-catre-anaf-prin-bt-go)-urilor
 
+Pentru institutiile publice exista insa o [dumentatie](https://mfinante.gov.ro/static/10/eFactura/PrezentareE-factura.pdf) separata(totusi va recomand sa o consultati chiar daca nu se aplica in cazul dumneavoastra).
+
 Legat de un proiect mai vechi "[e-Documents](https://www.avocatnet.ro/articol_65745/Arhivare-Firmele-vor-trebui-s%C4%83-se-asigure-c%C4%83-p%C4%83streaz%C4%83-XML-urile-facturilor-transmise-in-e-Factura-Inc%C4%83-sunt-probleme-cu-anexele-lor-dar-ANAF-lucreaz%C4%83-la-asta.html)", trebuie sa amintim si faptul ca [arhivarea documentelor](https://mfinante.gov.ro/documents/35673/5542684/csac676660_12012022.pdf) ar fi ultima etapa din "[viata](https://www.cabinetexpert.ro/2023-02-28/anaf-oficial-2023-termene-noi-pentru-arhivarea-unor-documente.html)" unui document.
 
 6.[Baza legala](https://static.anaf.ro/static/10/Anaf/legislatie/Cod_fiscal_norme_2023.htm)
