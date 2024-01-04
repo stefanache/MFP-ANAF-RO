@@ -236,6 +236,10 @@ In acest context, poate fi de mare ajutor si documenttia [Peppol](https://www.fl
 
 Puteti sa va scufundati cat mai adanc in modul in care un document ajunge in reteaua [Peppol](https://www.avalara.com/blog/en/europe/2023/03/how-does-your-e-invoice-reach-your-customer-on-the-peppol-network.html?gclid=Cj0KCQiAy9msBhD0ARIsANbk0A8t34gxuFGTa04PkN8I4L8rdkFH4mXNxSg46TONOHbKPIgd568fu8UaAhBUEALw_wcB&CampaignID=7015a000001y34SAAQ&utm_source=paid_search&utm_medium=gppc&ef_id=Cj0KCQiAy9msBhD0ARIsANbk0A8t34gxuFGTa04PkN8I4L8rdkFH4mXNxSg46TONOHbKPIgd568fu8UaAhBUEALw_wcB:G:s&s_kwcid=AL!5131!3!675189240647!p!!g!!peppol&gclsrc=aw.ds&&lso=Paid+Digital&lsmr=Paid+Digital&gad_source=1) pentru a avea o idee cat mai clara de modul in care se proceseaza cererile dumneavoastra.
 
+e bine de stiut ca [Peppol](https://www.adr.gov.ro/wp-content/uploads/2022/11/Fundamentare_cazuri_utilizare_studii_evaluare_ex-ante.pdf) [nu opereaza numai/doar in UE](https://issuu.com/euassistancemoldova2020/docs/eud_newsletter_sept_oct_2021_ro) ci acopera o multime de [tari](https://www.storecove.com/ro/en/features/countries/) de pe toate continentele.
+Asadar ca documentul dvs poate fi transmis oricarui/primit de la oricare operator ce isi are rezidenta fiscala intr-una din tarile din lista respectiva.
+Sa nu mai vorbim ca Peppol face schimb de informatii si cu alt retele asadar avem un spectru larg de adresare directa.
+
 Desigur in reteaua [Peppol](https://doc-process.com/ro/ro-e-factura/) cel mai important lucru inainte de toate(daca vreti de gestionarea fluxului de transmitere a documentelor intre partile implicate) este [procesul](https://github.com/ConnectingEurope/eInvoicing-EN16931/releases/tag/validation-1.2.3) de [validare](https://ionite.nl/news-articles/2023-08-17_validating_peppol_documents/)
 
 [Schematron-ul](v) este oficial ales de catre [standardul](https://support.maventa.fi/en/support/solutions/articles/77000489495-important-information-regarding-the-standard-en16931) [EN16931](https://ec.europa.eu/digital-building-blocks/sites/display/DIGITAL/EN+16931+compliance) deoarece pot fi exprimate multe reguli in plus fata de alte limmbaje de validare XML(XSD,DTD...). 
