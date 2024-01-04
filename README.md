@@ -230,6 +230,8 @@ Implementarea [proceselor economice de afaceri/business](/https://mfinante.gov.r
 
 Aceste [procese de business](https://www.fluentis.com/ro/software-erp/solutii-departamentale-integrate/software-bpm/) pot fi modelate folosind scheme precum [BPMN](https://docs.peppol.eu/poac/pint/v1.0.1/pint/bis/) pentru ca mai apoi sa aveti oportunitatea de a le optimiza si integra in [ERP](https://www.fluentis.com/ro/software-erp/solutii-departamentale-integrate/software-facturare-electronica/)-ul dumneavoastra
 
+In acest context, poate fi de mare ajutor si documenttia Peppol: [Peppol Business Interoperability Specification (Peppol BIS) ](https://docs.peppol.eu/poac/pint/v1.0.1/pint/bis/#_introduction)
+
 Daca aveti intrebari/nelamuriri sau doriti sa sustineti ori sa colaboram in vederea dezvoltarii unei aplicatii specifice ANAF/MFP, 
 
 va rog, nu ezitati sa ma contactati via email:  ion.stefanache@yahoo.com
