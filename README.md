@@ -68,7 +68,7 @@ legate de toate formularele ANAF (eFactura,eTransport,SAF-T(D406),D112,...etc) [
 - STI sistem de clasificare pentru achizitii publice in UE
 - TSP nomenclator european combinat
 - [ZZZ nomenclator constructii noi](https://www.portalcontabilitate.ro/sistemul-ro-e-factura-constructii-noi-154604.htm)
-- UNSPSC(a se vedea campul BT-158b al e-Facturii)
+- [UNSPSC](https://www.licitatie-publica.ro/blog/ce-sunt-codurile-unspsc-si-lista-completa)(a se vedea campul BT-158b al e-Facturii)
 - 
 - ...consultati si [ASRO](https://www.asro.ro/wp-content/uploads/2019/05/BS-04-2019-web.pdf) care se ocupa de standardizari,nomenclatoare,clasificari,codificari etc... si care emit diverse buletine privind manipularea acestui tip de date
 - 
