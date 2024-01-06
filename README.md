@@ -247,6 +247,8 @@ Trebuie stiut insa ca [validarea Schematron nu este infailibila](https://www.tru
 
 Si despre EDI ar fi multe de spus dar as puncta doar faptul ca in tranzactiile EDI este implicata o intreaga [stiva de protocoale](https://justransform.com/edi-essentials/edi-standards-and-protocols/) mai mult sau mai putin specifice.
 
+La ora scrierii acestui document(2023-2024) cel mai discuta subiect ramane cel al [e-Facturii B2B](https://mfinante.gov.ro/static/10/eFactura/prezentare%20apeluri%20API%20E-factura.pdf)
+
 Daca aveti intrebari/nelamuriri sau doriti sa sustineti ori sa colaboram in vederea dezvoltarii unei aplicatii specifice ANAF/MFP, 
 
 va rog, nu ezitati sa ma contactati via email:  ion.stefanache@yahoo.com
