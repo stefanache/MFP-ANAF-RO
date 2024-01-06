@@ -70,7 +70,7 @@ legate de toate formularele ANAF (eFactura,eTransport,SAF-T(D406),D112,...etc) [
 - ZZZ nomenclator constructii noi
 - UNSPSC(a se vedea campul BT-158b al e-Facturii)
 - 
-- ...consultati si [ASRO](https://www.asro.ro/wp-content/uploads/2019/05/BS-04-2019-web.pdf) care se ocupa de standardizari,nomenclatoare,clasificari,codificari etc...
+- ...consultati si [ASRO](https://www.asro.ro/wp-content/uploads/2019/05/BS-04-2019-web.pdf) care se ocupa de standardizari,nomenclatoare,clasificari,codificari etc... si care emit diverse buletine privind manipularea acestui tip de date
 - 
 - [coduri IBAN pt conturi de cheltuieli, utilizate doar de catre institutii publice &
   coduri IBAN pt conturi de venituri sectoare speciale judetene si ale sectoarelor din Bucuresti, utilizate de catre PF si PJ](https://www.anaf.ro/anaf/internet/ANAF/asistenta_contribuabili/plata_oblig_fiscale/coduri_iban)
