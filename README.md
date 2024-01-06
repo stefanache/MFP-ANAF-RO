@@ -65,7 +65,7 @@ legate de toate formularele ANAF (eFactura,eTransport,SAF-T(D406),D112,...etc) [
 - [nomenclator combinat NC](https://static.anaf.ro/static/10/Anaf/legislatie/OPANAF_12_2022.pdf)(de produse si servicii) ajuns la versiunea 8 [NC8](https://nc8.nxm.ro/)
 - [nomenclator PRODROM](https://www.123coduri.ro/cauta-in-baza-de-date-coduri-prodrom.php) - [produse romanesti](https://www.prodrom.nxm.ro/)
 - [nomenclator CPV](https://simap.ted.europa.eu/ro/web/simap/cpv)(a se vedea campul [BT-158a](https://www.anaf.ro/CompletareFactura/faces/factura/informatiigenerale.xhtml) al e-Facturii)
-- STI sistem de clasificare pentru achizitii publice in UE(OBS: abrevierea STI mai inseamana spre exemplu si [Sistemele Inteligente de Transport](https://www.mt.ro/web14/documente/acte-normative/2018/06_03/Anexa%201%20-%20Strategia%20națională%20STI.pdf))
+- STI sistem de clasificare pentru [achizitii publice in UE](https://trade.ec.europa.eu/access-to-markets/ro/content/contractele-de-achizitii-publice-ue)(OBS: abrevierea STI mai inseamana spre exemplu si [Sistemele Inteligente de Transport](https://www.mt.ro/web14/documente/acte-normative/2018/06_03/Anexa%201%20-%20Strategia%20națională%20STI.pdf))
 - TSP nomenclator european combinat
 - [ZZZ nomenclator constructii noi](https://www.portalcontabilitate.ro/sistemul-ro-e-factura-constructii-noi-154604.htm)
 - [UNSPSC](https://www.licitatie-publica.ro/blog/ce-sunt-codurile-unspsc-si-lista-completa)(a se vedea campul [BT-158b](https://www.anaf.ro/CompletareFactura/faces/factura/informatiigenerale.xhtml) al e-Facturii)
