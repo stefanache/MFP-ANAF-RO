@@ -37,8 +37,8 @@ OBS: Referitor la Ordinul O4092/14.11.2022 nu trebuie confundat cu cel din 27 ap
 Ca baza legala sunt importante si SPECIFICAȚII tehnice și de utilizare a elementelor de bază ale facturii electronice - RO_CIUS - și a regulilor operaționale specifice aplicabile la nivel național cum este si cea din [din 5 noiembrie 2021](https://legislatie.just.ro/Public/DetaliiDocumentAfis/248304), [1616](https://i0.1616.ro/media/2/2621/33243/20445047/2/anexaro-cius-converted.pdf) precum si alte [informari de modificare ale RO-CIUS](https://static.anaf.ro/static/10/Anaf/Informatii_R/Informatii_modificare_CIUS_RO.pdf). Oricum toate aceste [modificari ale RO_CIUS](https://lege5.ro/Gratuit/geztanrsgmydq/ordinul-nr-4092-2022-pentru-modificarea-specificatiilor-tehnice-si-de-utilizare-a-elementelor-de-baza-ale-facturii-electronice-rocius-si-a-regulilor-operationale-specifice-aplicabile-la-nivel-national) apar si in Monitorul Oficial [M.O](https://sintact.ro/legislatie/monitorul-oficial/actul-din-2021-specificatii-tehnice-si-de-utilizare-a-elementelor-de-17003361)
 
 Privitor la regulile CIUS trebuie stiut ca exista 2 tipuri de reguli de business(afaceri):
-- unul care se refera la regulile generale CIUS si
-- multe alte reguli specifice fiecarei tari(XX-CIUS) care se refera la regulile de afaceri ale fiecrei tari
+- unul care se refera la regulile [CIUS generale/comune sau comunitare](https://ec.europa.eu/digital-building-blocks/sites/display/DIGITAL/CIUS+and+Extension+-+What+is+allowed) si
+- multe alte reguli specifice fiecarei tari(CIUS-urile nationale [XX-CIUS](https://ec.europa.eu/digital-building-blocks/sites/display/DIGITAL/CIUS+and+Extension+-+What+is+allowed)) care se refera la regulile de afaceri ale fiecrei tar(XX=FR,DE,RO,IT,GR,...)
 
 Aceste reguli se pot schimba la [propunerea](https://blogs.opentext.com/october-2023-e-invoicing-vat-compliance-update/) diverselor autoritati fiscale sau jucatori din piata.
 
