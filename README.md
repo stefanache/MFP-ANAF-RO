@@ -36,6 +36,12 @@ OBS: Referitor la Ordinul O4092/14.11.2022 nu trebuie confundat cu cel din 27 ap
 
 Ca baza legala sunt importante si SPECIFICAȚII tehnice și de utilizare a elementelor de bază ale facturii electronice - RO_CIUS - și a regulilor operaționale specifice aplicabile la nivel național cum este si cea din [din 5 noiembrie 2021](https://legislatie.just.ro/Public/DetaliiDocumentAfis/248304), [1616](https://i0.1616.ro/media/2/2621/33243/20445047/2/anexaro-cius-converted.pdf) precum si alte [informari de modificare ale RO-CIUS](https://static.anaf.ro/static/10/Anaf/Informatii_R/Informatii_modificare_CIUS_RO.pdf). Oricum toate aceste [modificari ale RO_CIUS](https://lege5.ro/Gratuit/geztanrsgmydq/ordinul-nr-4092-2022-pentru-modificarea-specificatiilor-tehnice-si-de-utilizare-a-elementelor-de-baza-ale-facturii-electronice-rocius-si-a-regulilor-operationale-specifice-aplicabile-la-nivel-national) apar si in Monitorul Oficial [M.O](https://sintact.ro/legislatie/monitorul-oficial/actul-din-2021-specificatii-tehnice-si-de-utilizare-a-elementelor-de-17003361)
 
+Privitor la regulile CIUS trebuie stiut ca exista 2 tipuri de reguli de business(afaceri):
+- unul care se refera la regulile generale CIUS si
+- multe alte reguli specifice fiecarei tari(XX-CIUS) care se refera la regulile de afaceri ale fiecrei tari
+
+Aceste reguli se pot schimba la [propunerea](https://blogs.opentext.com/october-2023-e-invoicing-vat-compliance-update/) diverselor autoritati fiscale sau jucatori din piata.
+
 Pentru validarea unei facturi stocata in format xml( [UBL2.1](https://docs.oasis-open.org/ubl/os-UBL-2.1/xsd/maindoc/UBL-Invoice-2.1.xsd) sau [CII 16B](https://unece.org/trade/uncefact/xml-schemas-2018-2012) ) puteti apela la urmatorul link: [verificare factura xml](https://www.anaf.ro/uploadxmi/)
 
  [Validarea eFactura](https://infotva.manager.ro/articole/infotva/tot-ce-trebuie-sa-stii-despre-utilizarea-sistemului-ro-e-factura-in-relatia-b2b-si-b2g-21988.html) se poate face si local folosind Java si [DUKIntegrator-SAFT](https://www.anaf.ro/anaf/internet/ANAF/despre_anaf/strategii_anaf/proiecte_digitalizare/saf_t/) (utilizat pentro [validarea declaratiilor pe baza de formular ANAF tipizat](https://static.anaf.ro/static/DUKIntegrator/DUKIntegrator.htm),inclusiv D406/SAF-T) care acopera validarea facturii d.p.d.v. CIUS RO-NAT si/armonizat cu EN-16931.
