@@ -38,7 +38,7 @@ Ca baza legala sunt importante si SPECIFICAȚII tehnice și de utilizare a eleme
 
 Privitor la regulile CIUS trebuie stiut ca exista 2 tipuri de reguli de business(afaceri):
 - unul care se refera la regulile [CIUS generale/comune sau comunitare](https://ec.europa.eu/digital-building-blocks/sites/display/DIGITAL/CIUS+and+Extension+-+What+is+allowed) si
-- multe alte reguli specifice fiecarei tari(CIUS-urile nationale [XX-CIUS](https://ec.europa.eu/digital-building-blocks/sites/display/EINVCOMMUNITY/Registry+of+CIUS+%28Core+Invoice+Usage+Specifications%29+and+Extensions)) care se refera la regulile de afaceri ale fiecrei tar(XX=FR,DE,[RO](https://ec.europa.eu/digital-building-blocks/sites/display/DIGITAL/eInvoicing+in+Romania),IT,GR,...)
+- multe alte reguli specifice fiecarei tari(CIUS-urile nationale [XX-CIUS](https://ec.europa.eu/digital-building-blocks/sites/display/EINVCOMMUNITY/Registry+of+CIUS+%28Core+Invoice+Usage+Specifications%29+and+Extensions)) care se refera la regulile de afaceri ale fiecrei tar(XX=FR,DE,[RO](https://ec.europa.eu/digital-building-blocks/sites/display/DIGITAL/eInvoicing+in+Romania),NL,IT,GR,...)
 
 Aceste reguli se pot schimba la [propunerea](https://blogs.opentext.com/october-2023-e-invoicing-vat-compliance-update/) diverselor autoritati fiscale sau jucatori din piata.
 
