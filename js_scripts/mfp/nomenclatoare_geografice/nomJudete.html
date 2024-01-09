@@ -24,11 +24,15 @@
 	  let rootTagName='NOM_JUDETE';
           var judete=xml.getElementsByTagName(rootTagName);
 	  //console.log(judete);
+	  var rand
 	  var cod;
 	  var denumire;
 	  var auto;
 	  var ordine;
-	  
+	  for(i=0;i<judete.lenght; i++){
+		  rand=judete[i];
+		  console.log(rand);
+	  }
 	})
     </script>
   </body>
