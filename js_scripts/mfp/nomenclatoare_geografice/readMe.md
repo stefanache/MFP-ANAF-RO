@@ -4,3 +4,5 @@ Puteti descarca aceste nomenclatoare intr-un site static cum este [acesta](https
 apoi puteti scrie cod HTML+CSS+JS care sa incarce nomenclatoarele in elementele DOM ale documentului dumneavoastra(table, select, div, pre, texarea, ...):
 
 [nomenclator judete](https://stefanache.github.io/MFP-ANAF-RO/js_scripts/mfp/nomenclatoare_geografice/nomJudete.html)
+
+Periodic aceste nomenclatoare se actualizeaza si pot fi descarcate de pe site-ul MFP.
