@@ -42,7 +42,7 @@
 	  const ordineTagName='ORDINE';	
           var judete=xml.getElementsByTagName(randTagName);
 	  //console.log(judete);
-	  var rand, cod, denumire, auto, ordine;
+	  var rand, cod, denumire, auto, ordine, row;
 	  const randuri = document.querySelector("#randuri");
 	  for(i=0;i<judete.length; i++){
 		  rand=judete[i];
@@ -54,12 +54,12 @@
 		  ordine=rand.getElementsByTagName(ordineTagName)[0].childNodes[0].nodeValue;
 		  console.log(i,'] ',cod,',',denumire,',',auto,',',ordine);
 		  
-		  const row = 	`<tr>
-			  		<td align="right">${cod}</td>
-			  		<td align="left">${denumire}</td>
-			  		<td align="left">${auto}</td>
-			  		<td align="right">${ordine}</td>
-		  		</tr>`;
+		  const row = 	'<tr>
+			  		<td align="right">'+cod+'</td>
+			  		<td align="left">'+denumire+'</td>
+			  		<td align="left">'+auto+'</td>
+			  		<td align="right">'+ordine+'</td>
+		  		</tr>';
 		  
 		  randuri.insertAdjacentHTML("beforeend",row);
 	  };
