@@ -20,15 +20,15 @@
 			   <TH>nr.ordine</TH>  
 		    </THEAD>
 		    <TBODY id="randuri'>
-			    
+			  <!-- aici afisez randurile cu datele fiecarui judet -->  
 		    </TBODY>
 		    
 	    </TABLE>
     </div>
     <!-- JS goes here -->
     <script>
-	//url_nom_judete="https://mfinante.gov.ro/static/40/Mfp/nomenclatoare/nomJudete.xml"       
-	url_nom_judete="https://stefanache.github.io/MFP-ANAF-RO/data/MFP/nomenclatoare_geografice/nomJudete.xml"
+	//url_nom_judete="https://mfinante.gov.ro/static/40/Mfp/nomenclatoare/nomJudete.xml";       
+	url_nom_judete="https://stefanache.github.io/MFP-ANAF-RO/data/MFP/nomenclatoare_geografice/nomJudete.xml";
 	fetch(url_nom_judete)
 	.then(response => response.text())
 	.then(data => {
@@ -58,13 +58,15 @@
 		  console.log(i,'] ',cod,',',denumire,',',auto,',',ordine);
 		  
 		  const row = 	'<tr>
-			  		<td align="right">$cod</td>
-			  		<td align="left">$denumire</td>
-			  		<td align="left">$auto</td>
-			  		<td align="right">$ordine</td>
-		  		</tr>'
-	  }
-	})
+			  		<td align="right">${cod}</td>
+			  		<td align="left">${denumire}</td>
+			  		<td align="left">${auto}</td>
+			  		<td align="right">${ordine}</td>
+		  		</tr>';
+		  const randuri = document.querySelector('#randuri');
+		  randuri.insertAdjacentHTML('beforeend',row);
+	  };
+	});
     </script>
   </body>
 </html>
