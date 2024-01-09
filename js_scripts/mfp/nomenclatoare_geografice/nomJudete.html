@@ -5,14 +5,26 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+	  
     <!-- CSS goes here -->
-    <style>
-	.collapsetable{
-			border-collapse: collapse;
-			border: 2px solid blue;
-			margin: 3px;
-	}
-   </style>
+    <style media="screen">
+        table {
+            margin: 0 auto;
+            border-collapse: collapse;
+            border-style: hidden;
+            /*Remove all the outside
+            borders of the existing table*/
+        }
+        table td {
+            padding: 0.5rem;
+            border: 5px solid orange;
+        }
+        table th {
+            padding: 0.5rem;
+            border: 5px solid ForestGreen;
+        }
+    </style>
+
     <!-- <link></link> -->
     <title>nomJudete.xml</title>
   </head>
@@ -20,7 +32,7 @@
     <center>
 	    <h1>MFP-Nomenclatoare geografice: nomJudete.xml </h1>
 	    <div>
-		    <TABLE class="collapsetable">
+		    <TABLE>
 			    <THEAD>
 				   <TH>cod judet</TH> 
 				   <TH>judet</TH> 
