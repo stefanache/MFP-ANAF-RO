@@ -21,9 +21,14 @@
 	  const parser = new DOMParser();
 	  const xml = parser.parseFromString(data, "application/xml");
 	  //console.log(xml);
-	  let tagName='NOM_JUDETE';
-          var judete=xml.getElementsByTagName(tagName);
-	  console.log(judete);
+	  let rootTagName='NOM_JUDETE';
+          var judete=xml.getElementsByTagName(rootTagName);
+	  //console.log(judete);
+	  var cod;
+	  var denumire;
+	  var auto;
+	  var ordine;
+	  
 	})
     </script>
   </body>
