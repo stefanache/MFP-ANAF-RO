@@ -15,16 +15,15 @@
     <h1>MFP-Nomenclatoare geografice: nomJudete.xml </h1>
     <!-- JS goes here -->
     <script>
-	   
-      //url_nom_judete="https://stefanache.github.io/MFP-ANAF-RO/data/MFP/nomenclatoare_geografice/nomJudete.xml"
-      url_nom_judete="https://mfinante.gov.ro/static/40/Mfp/nomenclatoare/nomJudete.xml"    
-      fetch(url_nom_judete)
-        .then(response => response.text())
-        .then(data => {
-          const parser = new DOMParser();
-          const xml = parser.parseFromString(data, "application/xml");
-          console.log(xml);
-        })
-	</script>
+	//url_nom_judete="https://mfinante.gov.ro/static/40/Mfp/nomenclatoare/nomJudete.xml"       
+	url_nom_judete="https://stefanache.github.io/MFP-ANAF-RO/data/MFP/nomenclatoare_geografice/nomJudete.xml"
+	fetch(url_nom_judete)
+	.then(response => response.text())
+	.then(data => {
+	  const parser = new DOMParser();
+	  const xml = parser.parseFromString(data, "application/xml");
+	  console.log(xml);
+	})
+    </script>
   </body>
 </html>
