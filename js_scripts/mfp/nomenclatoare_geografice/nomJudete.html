@@ -57,14 +57,14 @@
 		  ordine=rand.getElementsByTagName(ordineTagName)[0].childNodes[0].nodeValue;
 		  console.log(i,'] ',cod,',',denumire,',',auto,',',ordine);
 		  
-		  const row = 	'<tr>
+		  const row = 	`<tr>
 			  		<td align="right">${cod}</td>
 			  		<td align="left">${denumire}</td>
 			  		<td align="left">${auto}</td>
 			  		<td align="right">${ordine}</td>
-		  		</tr>';
-		  const randuri = document.querySelector('#randuri');
-		  randuri.insertAdjacentHTML('beforeend',row);
+		  		</tr>`;
+		  const randuri = document.querySelector("#randuri");
+		  randuri.insertAdjacentHTML("beforeend",row);
 	  };
 	});
     </script>
