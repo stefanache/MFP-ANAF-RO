@@ -37,11 +37,11 @@
 		  rand=judete[i];
 		  //console.log('i=',i,'. rand=')
 		  //console.log(rand);
-		  cod=rand.getElementsByTagName(codTagName);
-		  denumire=rand.getElementsByTagName(denumireTagName);
-		  auto=rand.getElementsByTagName(autoTagName);
-		  ordine=rand.getElementsByTagName(ordineTagName);
-		  console.log(cod,',',denumire,',',auto,',',ordine);
+		  cod=rand.getElementsByTagName(codTagName).nodeValue;
+		  denumire=rand.getElementsByTagName(denumireTagName).nodeValue;
+		  auto=rand.getElementsByTagName(autoTagName).nodeValue;
+		  ordine=rand.getElementsByTagName(ordineTagName).nodeValue;
+		  console.log(i,': ',cod,',',denumire,',',auto,',',ordine);
 	  }
 	})
     </script>
