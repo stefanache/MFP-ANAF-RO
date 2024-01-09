@@ -21,8 +21,12 @@
 	  const parser = new DOMParser();
 	  const xml = parser.parseFromString(data, "application/xml");
 	  //console.log(xml);
-	  const rootTagName='rand';
-          var judete=xml.getElementsByTagName(rootTagName);
+	  const randTagName='rand';
+	  const codTagName='COD';
+	  const denumireTagName='DENUMIRE';
+	  const autoTagName='AUTO';
+	  const ordineTagName='ORDINE';	
+          var judete=xml.getElementsByTagName(randTagName);
 	  //console.log(judete);
 	  var rand
 	  var cod;
@@ -33,6 +37,11 @@
 		  rand=judete[i];
 		  //console.log('i=',i,'. rand=')
 		  //console.log(rand);
+		  cod=rand.getElementsByTagName(codTagName);
+		  denumire=rand.getElementsByTagName(denumireTagName);
+		  auto=rand.getElementsByTagName(autoTagName);
+		  ordine=rand.getElementsByTagName(ordineTagName);
+		  console.log(cod,',',denumire,',',auto,',',ordine);
 	  }
 	})
     </script>
