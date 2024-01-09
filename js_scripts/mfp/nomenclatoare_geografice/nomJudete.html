@@ -20,7 +20,9 @@
 	.then(data => {
 	  const parser = new DOMParser();
 	  const xml = parser.parseFromString(data, "application/xml");
-	  console.log(xml);
+	  //console.log(xml);
+          judete=xml.getElementsByTagName('<NOM_JUDETE>');
+	  console.log(judete);
 	})
     </script>
   </body>
