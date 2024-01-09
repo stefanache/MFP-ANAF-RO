@@ -37,10 +37,10 @@
 		  rand=judete[i];
 		  //console.log('i=',i,'. rand=')
 		  //console.log(rand);
-		  cod=rand.getElementsByTagName(codTagName)[0].nodeValue;
-		  denumire=rand.getElementsByTagName(denumireTagName)[0].nodeValue;
-		  auto=rand.getElementsByTagName(autoTagName)[0].nodeValue;
-		  ordine=rand.getElementsByTagName(ordineTagName)[0].nodeValue;
+		  cod=rand.getElementsByTagName(codTagName)[0].chidNodes[0].nodeValue;
+		  denumire=rand.getElementsByTagName(denumireTagName)[0].chidNodes[0].nodeValue;
+		  auto=rand.getElementsByTagName(autoTagName)[0].chidNodes[0].nodeValue;
+		  ordine=rand.getElementsByTagName(ordineTagName)[0].chidNodes[0].nodeValue;
 		  console.log(i,': ',cod,',',denumire,',',auto,',',ordine);
 	  }
 	})
