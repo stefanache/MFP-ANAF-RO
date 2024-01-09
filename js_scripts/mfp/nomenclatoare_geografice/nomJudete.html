@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- CSS goes here -->
+    <link></link>
+
+    <title>Hello, world!</title>
+  </head>
+  <body>
+    <h1>Hello, world!</h1>
+    <!-- JS goes here -->
+    <script>
+      url_nom_judete=""
+      fetch(url_nom_judete)
+        .then(response => response.text())
+        .then(data => {
+          const parser = new DOMParser();
+          const xml = parser.parseFromString(data, "application/xml");
+          console.log(xml);
+        })
+	</script>
+  </body>
+</html>
