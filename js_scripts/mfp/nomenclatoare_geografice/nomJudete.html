@@ -21,7 +21,7 @@
 	  const parser = new DOMParser();
 	  const xml = parser.parseFromString(data, "application/xml");
 	  //console.log(xml);
-	  let rootTagName='NOM_JUDETE';
+	  const rootTagName='NOM_JUDETE';
           var judete=xml.getElementsByTagName(rootTagName);
 	  console.log(judete);
 	  var rand
