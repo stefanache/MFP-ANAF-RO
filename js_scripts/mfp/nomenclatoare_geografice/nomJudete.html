@@ -11,6 +11,20 @@
   </head>
   <body>
     <h1>MFP-Nomenclatoare geografice: nomJudete.xml </h1>
+    <div>
+	    <TABLE>
+		    <THEAD>
+			   <TH>cod judet</TH> 
+			   <TH>judet</TH> 
+			   <TH>cod auto</TH> 
+			   <TH>nr.ordine</TH>  
+		    </THEAD>
+		    <TBODY id="randuri'>
+			    
+		    </TBODY>
+		    
+	    </TABLE>
+    </div>
     <!-- JS goes here -->
     <script>
 	//url_nom_judete="https://mfinante.gov.ro/static/40/Mfp/nomenclatoare/nomJudete.xml"       
@@ -42,6 +56,13 @@
 		  auto=rand.getElementsByTagName(autoTagName)[0].childNodes[0].nodeValue;
 		  ordine=rand.getElementsByTagName(ordineTagName)[0].childNodes[0].nodeValue;
 		  console.log(i,'] ',cod,',',denumire,',',auto,',',ordine);
+		  
+		  const row = 	'<tr>
+			  		<td align="right">$cod</td>
+			  		<td align="left">$denumire</td>
+			  		<td align="left">$auto</td>
+			  		<td align="right">$ordine</td>
+		  		</tr>'
 	  }
 	})
     </script>
