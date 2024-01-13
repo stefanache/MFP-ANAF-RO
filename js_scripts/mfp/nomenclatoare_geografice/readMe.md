@@ -1,8 +1,4 @@
-MFP pune la dispozitie urmatoarele [nomenclatoare geografice](https://mfinante.gov.ro/nomenclatoare-geografice-mfp)
-
-Nota: 
-    Puteti descarca aceste nomenclatoare intr-un site static cum este [acesta](https://github.com/stefanache/MFP-ANAF-RO/) gazduit de cei de la Github si 
-apoi puteti scrie cod HTML+CSS+JS care sa incarce nomenclatoarele in elementele DOM ale documentului dumneavoastra(table, select, div, pre, texarea, ...):
+MFP pune la dispozitie urmatoarele [nomenclatoare geografice](https://mfinante.gov.ro/nomenclatoare-geografice-mfp):
 
 [nomenclator Judete](https://stefanache.github.io/MFP-ANAF-RO/js_scripts/mfp/nomenclatoare_geografice/nomJudete.html)
 
@@ -13,6 +9,10 @@ apoi puteti scrie cod HTML+CSS+JS care sa incarce nomenclatoarele in elementele 
 [nomenclator Stari-Artere(de circulatie)](https://stefanache.github.io/MFP-ANAF-RO/js_scripts/mfp/nomenclatoare_geografice/nomStariArtere.html)
 
 [nomenclator Tari-Valute](https://stefanache.github.io/MFP-ANAF-RO/js_scripts/mfp/nomenclatoare_geografice/nomTariValute.html)
+
+Nota: 
+    Puteti descarca aceste nomenclatoare intr-un site static cum este [acesta](https://github.com/stefanache/MFP-ANAF-RO/) gazduit de cei de la Github si 
+apoi puteti scrie cod HTML+CSS+JS care sa incarce nomenclatoarele in elementele DOM ale documentului dumneavoastra(table, select, div, pre, texarea, ...):
 
 Periodic aceste nomenclatoare se pot actualiza si in acest caz, pot fi descarcate de pe site-ul [MFP](https://mfinante.gov.ro/nomenclatoare-geografice-mfp).
 
