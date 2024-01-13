@@ -1,1 +1,120 @@
-<html></html>
+<!DOCTYPE html>
+<html>
+  <head>
+    <!-- https://stefanache.github.io/MFP-ANAF-RO/js_scripts/mfp/nomenclatoare_geografice/nomTariValute.html -->
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+	  
+    <!-- CSS goes here -->
+    <style media="screen">
+        table {
+            margin: 0 auto;
+            border-collapse: collapse;
+            border-style: hidden;
+            /*Remove all the outside
+            borders of the existing table*/
+        }
+        table td {
+            padding: 0.5rem;
+            border: 5px solid orange;
+        }
+        table th {
+            padding: 0.5rem;
+            border: 5px solid ForestGreen;
+        }
+    </style>
+
+    <!-- <link></link> -->
+    <title>nomTariValute.xml</title>
+  </head>
+  <body>  
+    <center>
+	    <h1>MFP-Nomenclatoare geografice: nomTariValute.xml </h1>
+	    <div>
+		    <TABLE>
+			    <THEAD>
+				   <TH>cod</TH> 
+				   <TH>stare</TH> 
+           <TH>capitala</TH> 
+           <TH>forma-guvern</TH>
+           <TH>denumire</TH>
+           <TH>cod-tara-fiscal</TH>
+           <TH>cod-BNR</TH>
+           <TH>valuta</TH>
+           <TH>cedi</TH>
+           <TH>cod-sm</TH>
+           <TH>UE</TH> 
+			    </THEAD>
+			    <TBODY id="randuri">
+				  <!-- aici afisez randurile cu datele fiecarui cuplu (tara,valuta) -->  
+			    </TBODY>
+			    
+		    </TABLE>
+	    </div>
+    </center>
+    <!-- JS goes here -->
+    <script>
+	//url_nom_tariValute="https://mfinante.gov.ro/static/40/Mfp/nomenclatoare/nomTariValute.xml";       
+	url_nom_tariValute="https://stefanache.github.io/MFP-ANAF-RO/data/MFP/nomenclatoare_geografice/nomTariValute.xml";
+	fetch(url_nom_tariValute)
+	.then(response => response.text())
+	.then(data => {
+	  const parser = new DOMParser();
+	  const xml = parser.parseFromString(data, "application/xml");
+	  //console.log(xml);
+	  const randTagName='rand';
+	  const codTagName='COD';
+    const stareTagName='STARE';
+    const capitalaTagName='CAPITALA';
+    const frmGovTagName='FORMA_GUVERN';
+	  const denumireTagName='DENUMIRE';
+    const codTaraFiscalTagName='COD_TARA_FISCAL';
+    const codBNRTagName='COD_BNR';
+    const valutaTagName='VALUTA';
+    const cediTagName='CEDI';
+    const codSMTagName='COD_SM';
+    const ueTagName='UE';
+
+    var tari_valute=xml.getElementsByTagName(randTagName);
+	  //console.log(tari_valute);
+	  var rand, cod, stare,capitala,frmGov,denumire,cod_tara_fiscal,cod_bnr,valuta,cedi,cod_sm,ue,  row;
+	  const randuri = document.querySelector("#randuri");
+	  for(i=0;i<tari_valute.length; i++){
+		  rand=tari_valute[i];
+		  //console.log('i=',i,'. rand=')
+		  //console.log(rand);
+		  cod=rand.getElementsByTagName(codTagName)[0].childNodes[0].nodeValue;
+      stare=rand.getElementsByTagName(stareTagName)[0].childNodes[0].nodeValue;
+      capitala=rand.getElementsByTagName(capitalaTagName)[0].childNodes[0].nodeValue;
+      frmGov=rand.getElementsByTagName(frmGovTagName)[0].childNodes[0].nodeValue;
+		  denumire=rand.getElementsByTagName(denumireTagName)[0].childNodes[0].nodeValue;
+      cod_tara_fiscal=rand.getElementsByTagName(codTaraFiscalTagName)[0].childNodes[0].nodeValue;
+      cod_bnr=rand.getElementsByTagName(codBNRTagName)[0].childNodes[0].nodeValue;
+      valuta=rand.getElementsByTagName(valutaTagName)[0].childNodes[0].nodeValue;
+      cedi=rand.getElementsByTagName(cediTagName)[0].childNodes[0].nodeValue;
+      cod_sm=rand.getElementsByTagName(codSMTagName)[0].childNodes[0].nodeValue;
+      ue=rand.getElementsByTagName(ueTagName)[0].childNodes[0].nodeValue;
+		  //console.log(i,'] ',cod,',',stare,',',capitala,',',frmGov,',',denumire,',',cod_tara_fiscal,',',cod_bnr,',',valuta,',',cedi,',',cod_sm,',',ue);
+		  
+		  const row = 	`<tr>
+			  		<td align="right">${cod}</td>
+			  		<td align="left">${stare}</td>
+            <td align="left">${capitala}</td>
+            <td align="left">${frmGov}</td>
+            <td align="left">${denumire}</td>
+            <td align="left">${cod_tara_fiscal}</td>
+            <td align="left">${cod_bnr}</td>
+            <td align="left">${valuta}</td>
+            <td align="left">${cedi}</td>
+            <td align="left">${cod_sm}</td>
+            <td align="left">${ue}</td>
+            
+		  		</tr>`;
+		  
+		  randuri.insertAdjacentHTML("beforeend",row);
+	  };
+	});
+    </script>
+  </body>
+</html>
