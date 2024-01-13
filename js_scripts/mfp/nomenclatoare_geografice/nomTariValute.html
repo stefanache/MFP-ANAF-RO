@@ -90,15 +90,20 @@
       try{
       	capitala=rand.getElementsByTagName(capitalaTagName)[0].childNodes[0].nodeValue;
       }catch(err){}
+      frmGov="";
       try{
       	frmGov=rand.getElementsByTagName(frmGovTagName)[0].childNodes[0].nodeValue;
       }catch(err){}
       denumire=rand.getElementsByTagName(denumireTagName)[0].childNodes[0].nodeValue;
       cod_tara_fiscal=rand.getElementsByTagName(codTaraFiscalTagName)[0].childNodes[0].nodeValue;
+      cod_bnr="";
       try{
       	cod_bnr=rand.getElementsByTagName(codBNRTagName)[0].childNodes[0].nodeValue;
       }catch(err){}
-      valuta=rand.getElementsByTagName(valutaTagName)[0].childNodes[0].nodeValue;
+      valuta="";
+      try{
+      	valuta=rand.getElementsByTagName(valutaTagName)[0].childNodes[0].nodeValue;
+      }catch(err){}
       cedi="";
       try{
       	cedi = rand.getElementsByTagName(cediTagName)[0].childNodes[0].nodeValue;
