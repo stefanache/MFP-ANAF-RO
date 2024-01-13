@@ -1,1 +1,84 @@
+<!DOCTYPE html>
 <html>
+  <head>
+    <!-- https://stefanache.github.io/MFP-ANAF-RO/js_scripts/mfp/nomenclatoare_geografice/nomStariArtere.html -->
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+	  
+    <!-- CSS goes here -->
+    <style media="screen">
+        table {
+            margin: 0 auto;
+            border-collapse: collapse;
+            border-style: hidden;
+            /*Remove all the outside
+            borders of the existing table*/
+        }
+        table td {
+            padding: 0.5rem;
+            border: 5px solid orange;
+        }
+        table th {
+            padding: 0.5rem;
+            border: 5px solid ForestGreen;
+        }
+    </style>
+
+    <!-- <link></link> -->
+    <title>nomStariArtere.xml</title>
+  </head>
+  <body>  
+    <center>
+	    <h1>MFP-Nomenclatoare geografice: nomStariArtere.xml </h1>
+	    <div>
+		    <TABLE>
+			    <THEAD>
+				   <TH>cod</TH> 
+				   <TH>nume-stare</TH> 
+
+			    </THEAD>
+			    <TBODY id="randuri">
+				  <!-- aici afisez randurile cu datele fiecarei stari ale unei artere(de circulatie) -->  
+			    </TBODY>
+			    
+		    </TABLE>
+	    </div>
+    </center>
+    <!-- JS goes here -->
+    <script>
+	//url_nom_stariArt="https://mfinante.gov.ro/static/40/Mfp/nomenclatoare/nomStariArtere.xml";       
+	url_nom_stariArt="https://stefanache.github.io/MFP-ANAF-RO/data/MFP/nomenclatoare_geografice/nomStariArtere.xml";
+	fetch(url_nom_stariArt)
+	.then(response => response.text())
+	.then(data => {
+	  const parser = new DOMParser();
+	  const xml = parser.parseFromString(data, "application/xml");
+	  //console.log(xml);
+	  const randTagName='rand';
+	  const codTagName='COD';
+	  const denumireTagName='NUME_STARE';
+
+    var stari_artere=xml.getElementsByTagName(randTagName);
+	  //console.log(stari_artere);
+	  var rand, cod, nume_stare,  row;
+	  const randuri = document.querySelector("#randuri");
+	  for(i=0;i<stari_artere.length; i++){
+		  rand=stari_artere[i];
+		  //console.log('i=',i,'. rand=')
+		  //console.log(rand);
+		  cod=rand.getElementsByTagName(codTagName)[0].childNodes[0].nodeValue;
+		  nume_stare=rand.getElementsByTagName(denumireTagName)[0].childNodes[0].nodeValue;
+		  //console.log(i,'] ',cod,',',nume_stare);
+		  
+		  const row = 	`<tr>
+			  		<td align="right">${cod}</td>
+			  		<td align="left">${nume_stare}</td>
+		  		</tr>`;
+		  
+		  randuri.insertAdjacentHTML("beforeend",row);
+	  };
+	});
+    </script>
+  </body>
+</html>
