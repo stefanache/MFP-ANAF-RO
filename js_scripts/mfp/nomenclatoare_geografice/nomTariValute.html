@@ -95,7 +95,9 @@
       }catch(err){}
       denumire=rand.getElementsByTagName(denumireTagName)[0].childNodes[0].nodeValue;
       cod_tara_fiscal=rand.getElementsByTagName(codTaraFiscalTagName)[0].childNodes[0].nodeValue;
-      cod_bnr=rand.getElementsByTagName(codBNRTagName)[0].childNodes[0].nodeValue;
+      try{
+      	cod_bnr=rand.getElementsByTagName(codBNRTagName)[0].childNodes[0].nodeValue;
+      }catch(err){}
       valuta=rand.getElementsByTagName(valutaTagName)[0].childNodes[0].nodeValue;
       cedi="";
       try{
