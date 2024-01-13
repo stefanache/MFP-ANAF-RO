@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <!-- https://stefanache.github.io/MFP-ANAF-RO/js_scripts/mfp/nomenclatoare_geografice/nomTipLocalitati.html -->
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+	  
+    <!-- CSS goes here -->
+    <style media="screen">
+        table {
+            margin: 0 auto;
+            border-collapse: collapse;
+            border-style: hidden;
+            /*Remove all the outside
+            borders of the existing table*/
+        }
+        table td {
+            padding: 0.5rem;
+            border: 5px solid orange;
+        }
+        table th {
+            padding: 0.5rem;
+            border: 5px solid ForestGreen;
+        }
+    </style>
+
+    <!-- <link></link> -->
+    <title>nomJudete.xml</title>
+  </head>
+  <body>  
+    <center>
+	    <h1>MFP-Nomenclatoare geografice: nomTipLocalitati.xml </h1>
+	    <div>
+		    <TABLE>
+			    <THEAD>
+				   <TH>cod</TH> 
+				   <TH>denumire</TH> 
+
+			    </THEAD>
+			    <TBODY id="randuri">
+				  <!-- aici afisez randurile cu datele fiecarui tip de localitate -->  
+			    </TBODY>
+			    
+		    </TABLE>
+	    </div>
+    </center>
+    <!-- JS goes here -->
+    <script>
+	//url_nom_tiploc="https://mfinante.gov.ro/static/40/Mfp/nomenclatoare/nomTipLocalitati.xml";       
+	url_nom_tiploc="https://stefanache.github.io/MFP-ANAF-RO/data/MFP/nomenclatoare_geografice/nomTipLocalitati.xml";
+	fetch(url_nom_tiploc)
+	.then(response => response.text())
+	.then(data => {
+	  const parser = new DOMParser();
+	  const xml = parser.parseFromString(data, "application/xml");
+	  //console.log(xml);
+	  const randTagName='rand';
+	  const codTagName='COD';
+	  const denumireTagName='DENUMIRE';
+
+    var tip_localitati=xml.getElementsByTagName(randTagName);
+	  //console.log(tip_localitati);
+	  var rand, cod, denumire,  row;
+	  const randuri = document.querySelector("#randuri");
+	  for(i=0;i<tip_localitati.length; i++){
+		  rand=tip_localitati[i];
+		  //console.log('i=',i,'. rand=')
+		  //console.log(rand);
+		  cod=rand.getElementsByTagName(codTagName)[0].childNodes[0].nodeValue;
+		  denumire=rand.getElementsByTagName(denumireTagName)[0].childNodes[0].nodeValue;
+		  //console.log(i,'] ',cod,',',denumire);
+		  
+		  const row = 	`<tr>
+			  		<td align="right">${cod}</td>
+			  		<td align="left">${denumire}</td>
+		  		</tr>`;
+		  
+		  randuri.insertAdjacentHTML("beforeend",row);
+	  };
+	});
+    </script>
+  </body>
+</html>
