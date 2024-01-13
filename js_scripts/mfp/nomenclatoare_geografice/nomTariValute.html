@@ -94,7 +94,10 @@
       try{
       	frmGov=rand.getElementsByTagName(frmGovTagName)[0].childNodes[0].nodeValue;
       }catch(err){}
-      denumire=rand.getElementsByTagName(denumireTagName)[0].childNodes[0].nodeValue;
+      denumire="";
+      try{
+      	denumire=rand.getElementsByTagName(denumireTagName)[0].childNodes[0].nodeValue;
+      }catch(err){}
       cod_tara_fiscal=rand.getElementsByTagName(codTaraFiscalTagName)[0].childNodes[0].nodeValue;
       cod_bnr="";
       try{
