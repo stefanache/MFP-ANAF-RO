@@ -47,9 +47,9 @@
     </center>
     <!-- JS goes here -->
     <script>
-	//url_nom_tiploc="https://mfinante.gov.ro/static/40/Mfp/nomenclatoare/nomTipLocalitati.xml";       
-	url_nom_tiploc="https://stefanache.github.io/MFP-ANAF-RO/data/MFP/nomenclatoare_geografice/nomTipLocalitati.xml";
-	fetch(url_nom_tiploc)
+	//url_nom_tipLoc="https://mfinante.gov.ro/static/40/Mfp/nomenclatoare/nomTipLocalitati.xml";       
+	url_nom_tipLoc="https://stefanache.github.io/MFP-ANAF-RO/data/MFP/nomenclatoare_geografice/nomTipLocalitati.xml";
+	fetch(url_nom_tipLoc)
 	.then(response => response.text())
 	.then(data => {
 	  const parser = new DOMParser();
