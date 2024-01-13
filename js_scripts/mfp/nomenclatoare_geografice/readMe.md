@@ -21,7 +21,7 @@ Sunt o serie de nomenlatoare care sunt cvasi-statice(nemodificabile sau foarte p
 [judete](https://stefanache.github.io/MFP-ANAF-RO/js_scripts/mfp/nomenclatoare_geografice/nomJudete.html),
 [tipLoc](https://stefanache.github.io/MFP-ANAF-RO/js_scripts/mfp/nomenclatoare_geografice/nomTipLocalitati.html),
 [tipArt](https://stefanache.github.io/MFP-ANAF-RO/js_scripts/mfp/nomenclatoare_geografice/nomTipArtere.html),
-[stariArt)](https://stefanache.github.io/MFP-ANAF-RO/js_scripts/mfp/nomenclatoare_geografice/nomStariArtere.html),
+[stariArt](https://stefanache.github.io/MFP-ANAF-RO/js_scripts/mfp/nomenclatoare_geografice/nomStariArtere.html),
 [tari-valute](https://stefanache.github.io/MFP-ANAF-RO/js_scripts/mfp/nomenclatoare_geografice/nomTariValute.html) ) dar sunt si altele care sunt dinamice(adica au modificari destul de dese si prin urmare au probabil si inregistrari in istoric).
 
 
