@@ -108,7 +108,10 @@
       try{
       	cedi = rand.getElementsByTagName(cediTagName)[0].childNodes[0].nodeValue;
       }catch(err){}
-      cod_sm=rand.getElementsByTagName(codSMTagName)[0].childNodes[0].nodeValue;
+      cod_sm="";
+      try{
+      	cod_sm=rand.getElementsByTagName(codSMTagName)[0].childNodes[0].nodeValue;
+      }catch(err){}
       ue=rand.getElementsByTagName(ueTagName)[0].childNodes[0].nodeValue;
 		  //console.log(i,'] ',cod,',',stare,',',capitala,',',frmGov,',',denumire,',',cod_tara_fiscal,',',cod_bnr,',',valuta,',',cedi,',',cod_sm,',',ue);
 		  
