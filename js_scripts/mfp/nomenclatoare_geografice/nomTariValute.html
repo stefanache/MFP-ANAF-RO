@@ -86,13 +86,19 @@
 		  //console.log(rand);
 		  cod=rand.getElementsByTagName(codTagName)[0].childNodes[0].nodeValue;
       stare=rand.getElementsByTagName(stareTagName)[0].childNodes[0].nodeValue;
+      capitala="";
+      try{
       capitala=rand.getElementsByTagName(capitalaTagName)[0].childNodes[0].nodeValue;
+      }
       frmGov=rand.getElementsByTagName(frmGovTagName)[0].childNodes[0].nodeValue;
       denumire=rand.getElementsByTagName(denumireTagName)[0].childNodes[0].nodeValue;
       cod_tara_fiscal=rand.getElementsByTagName(codTaraFiscalTagName)[0].childNodes[0].nodeValue;
       cod_bnr=rand.getElementsByTagName(codBNRTagName)[0].childNodes[0].nodeValue;
       valuta=rand.getElementsByTagName(valutaTagName)[0].childNodes[0].nodeValue;
-      cedi="";//rand.getElementsByTagName(cediTagName)[0].childNodes[0].nodeValue;
+      cedi="";
+		  try{
+      cedi = rand.getElementsByTagName(cediTagName)[0].childNodes[0].nodeValue;
+		  }
       cod_sm=rand.getElementsByTagName(codSMTagName)[0].childNodes[0].nodeValue;
       ue=rand.getElementsByTagName(ueTagName)[0].childNodes[0].nodeValue;
 		  //console.log(i,'] ',cod,',',stare,',',capitala,',',frmGov,',',denumire,',',cod_tara_fiscal,',',cod_bnr,',',valuta,',',cedi,',',cod_sm,',',ue);
