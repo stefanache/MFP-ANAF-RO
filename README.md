@@ -82,7 +82,7 @@ legate de toate formularele ANAF (eFactura,eTransport,SAF-T(D406),D112,...etc) [
 - [NOMENCLATOR UTILAJE, ECHIPAMENTE, INSTALATII ](https://federatiaconstructorilor.ro/attachments/article/690/Nomenclator-Registru-Utilaje.pdf)
 - [UNSPSC](https://www.licitatie-publica.ro/blog/ce-sunt-codurile-unspsc-si-lista-completa)(a se vedea campul [BT-158b](https://www.anaf.ro/CompletareFactura/faces/factura/informatiigenerale.xhtml) al e-Facturii)
 - 
-- ...consultati si [ASRO](https://www.asro.ro/wp-content/uploads/2019/05/BS-04-2019-web.pdf) care se ocupa de [registre,standardizari,nomenclatoare,clasificari,codificari etc...](https://standard.open-contracting.org/latest/en/schema/codelists/) si care emit diverse buletine privind manipularea acestui tip de date
+- ...consultati si [ASRO](https://www.asro.ro/wp-content/uploads/2019/05/BS-04-2019-web.pdf) care se ocupa de [registre,standardizari,nomenclatoare,clasificari,codificari,seturi de date etc...](https://standard.open-contracting.org/latest/en/schema/codelists/) si care emit diverse buletine privind manipularea acestui tip de date
 - 
 - [coduri IBAN pt conturi de cheltuieli, utilizate doar de catre institutii publice &
   coduri IBAN pt conturi de venituri sectoare speciale judetene si ale sectoarelor din Bucuresti, utilizate de catre PF si PJ](https://www.anaf.ro/anaf/internet/ANAF/asistenta_contribuabili/plata_oblig_fiscale/coduri_iban)
@@ -100,6 +100,7 @@ legate de toate formularele ANAF (eFactura,eTransport,SAF-T(D406),D112,...etc) [
 - [nomenclator produse de uz veterinar](http://www.icbmv.ro/ro/nomenclator-produse)
 - [nomenclator DAMB de specii si rase(A.E)](http://www.damb.ro/nomenclatoare-a-e/10/03/2022/)
 - [nomenclatoare](https://www.onpcsb.ro/uploads/articole/attachments/644b9576b9f8d119925403.pdf) [ONPCB](https://www.onpcsb.ro)
+- [...](https://data.gov.ro/dataset?tags=nomenclator)
 - [etc](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/Nomenclator_2016.htm)
   
 
