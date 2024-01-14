@@ -68,6 +68,7 @@ legate de toate formularele ANAF (eFactura,eTransport,SAF-T(D406),D112,...etc) [
 - [coduri SIRUTA](https://www.siruta.nxm.ro/) ori [coduri SIRUTA si UAT-uri pe judete](http://www.dpfbl.mdrap.ro/cod_siruta_uat-uri.html)
 - [coduri postale](https://www.posta-romana.ro/cauta-cod-postal.html)
 - [nomenclator CAEN](https://www.onrc.ro/index.php/ro/caen) - activitati [PJ](https://caen.ro/)
+- [nomenclatorul PCUe al domeniilor de activitate](https://edirect.e-guvernare.ro/domeniiactivitate/default.aspx)
 - Nomenclatorul comun al unităților teritoriale de [statistică/INS](https://bucuresti.insse.ro/produse-si-servicii/nomenclatoare-statistice/) [NUTS)](https://www.europarl.europa.eu/factsheets/ro/sheet/99/nomenclatorul-comun-al-unitatilor-teritoriale-de-statistica-nuts-)
 - [nomenclator COR](https://codcor.ro/) - activitati [PF](https://codcor.ro/)
 - [nomenclatorul calificarilor](https://mmuncii.ro/j33/index.php/ro/2014-domenii/munca/nomenclatorul-calificarilor)
