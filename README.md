@@ -72,7 +72,7 @@ legate de toate formularele ANAF (eFactura,eTransport,SAF-T(D406),D112,...etc) [
 - [nomenclator COR](https://codcor.ro/) - activitati [PF](https://codcor.ro/)
 - [nomenclatorul calificarilor](https://mmuncii.ro/j33/index.php/ro/2014-domenii/munca/nomenclatorul-calificarilor)
 - [nomenclator combinat NC](https://static.anaf.ro/static/10/Anaf/legislatie/OPANAF_12_2022.pdf)(de produse si servicii) ajuns la versiunea 8 [NC8](https://nc8.nxm.ro/)
-  ( a se vedea versiunea MADR actualizata a [NC la nivelul anului 2023](https://www.madr.ro/docs/agricultura/agricultura-ecologica/2023/nomenclator-combinat-2023.xlsx) livrata in format excel)
+  ( a se vedea versiunea MADR actualizata a [NC la nivelul anului 2023](https://www.madr.ro/docs/agricultura/agricultura-ecologica/2023/nomenclator-combinat-2023.xlsx) livrata in format excel),[coduri NC8 publicate de NXM in 2024](https://nc8.nxm.ro/)
 - [nomenclator PRODROM](https://www.123coduri.ro/cauta-in-baza-de-date-coduri-prodrom.php) - [produse romanesti](https://www.prodrom.nxm.ro/)
 - [nomenclator CPV](https://simap.ted.europa.eu/ro/web/simap/cpv)(a se vedea campul [BT-158a](https://www.anaf.ro/CompletareFactura/faces/factura/informatiigenerale.xhtml) al e-Facturii)
   Detalii despre acest acronim CPV gasiti pe site-ul [NXM](https://cpv.nxm.ro/).
