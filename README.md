@@ -123,7 +123,7 @@ Interesanta este si solutia gasita de cei de la Microsoft [MSF pentru eFactura](
 
 [Facturis](https://facturis-online.ro/e-factura/biblioteca-cu-informatii-oficiale-despre-formatul-xml-pentru-e-factura.html) prezinta si cateva [modele de facturi xml](https://facturis-online.ro/tag/model-factura-xml) si este important sa mentionam ca ei prezinta doar niste exemple particulare.
 
-O sa preluam si noi aceste cateva exemple(cu amendamentul ca acestea nu constituie exemple generalizate) pentru a fi mai confortabil de interpretat/vizualizat:
+O sa preluam si noi aceste [cateva exemple](https://www.oblio.eu/integrari/e-factura)(cu amendamentul ca acestea nu constituie exemple generalizate) pentru a fi mai confortabil de interpretat/vizualizat:
 
 - [o factura in valuta](https://facturis-online.ro/e-factura/model-xml-pentru-e-factura-in-valuta.html)
 
