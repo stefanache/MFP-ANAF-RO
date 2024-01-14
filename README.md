@@ -78,6 +78,7 @@ legate de toate formularele ANAF (eFactura,eTransport,SAF-T(D406),D112,...etc) [
 - TSP nomenclator european combinat
 - nomenclatorul Național al identificatorilor [GS1 GTIN SGR](https://gs1.ro/nomenclator-gtin-sgr/)  produs de bază și ambalări colective]
 - [ZZZ nomenclator constructii noi](https://www.portalcontabilitate.ro/sistemul-ro-e-factura-constructii-noi-154604.htm)
+- [NOMENCLATOR UTILAJE, ECHIPAMENTE, INSTALATII ](https://federatiaconstructorilor.ro/attachments/article/690/Nomenclator-Registru-Utilaje.pdf)
 - [UNSPSC](https://www.licitatie-publica.ro/blog/ce-sunt-codurile-unspsc-si-lista-completa)(a se vedea campul [BT-158b](https://www.anaf.ro/CompletareFactura/faces/factura/informatiigenerale.xhtml) al e-Facturii)
 - 
 - ...consultati si [ASRO](https://www.asro.ro/wp-content/uploads/2019/05/BS-04-2019-web.pdf) care se ocupa de [registre,standardizari,nomenclatoare,clasificari,codificari etc...](https://standard.open-contracting.org/latest/en/schema/codelists/) si care emit diverse buletine privind manipularea acestui tip de date
