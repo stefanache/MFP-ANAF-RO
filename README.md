@@ -106,7 +106,7 @@ legate de toate formularele ANAF (eFactura,eTransport,SAF-T(D406),D112,...etc) [
 - [nomenclator ONPCSB entitati raportoare](https://www.onpcsb.ro/uploads/articole/attachments/649e99f8897b1500977073.pdf)
 - [nomenclatoul operatiunilor valutare](https://legislatie.just.ro/Public/DetaliiDocumentAfis/228281)
 - [...](https://data.gov.ro/dataset?tags=nomenclator)
-- [nomenclatorul documentelor Nexus-ERP](https://www.docs.nexuserp.ro/articol/nomenclator-documente/2857)
+- [nomenclatorul](https://en.wiktionary.org/wiki/nomenclator) [documentelor Nexus-ERP](https://www.docs.nexuserp.ro/articol/nomenclator-documente/2857)
 - [etc](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/Nomenclator_2016.htm)
   
 
