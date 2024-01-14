@@ -102,6 +102,7 @@ legate de toate formularele ANAF (eFactura,eTransport,SAF-T(D406),D112,...etc) [
 - [nomenclator produse de uz veterinar](http://www.icbmv.ro/ro/nomenclator-produse)
 - [nomenclator DAMB de specii si rase(A.E)](http://www.damb.ro/nomenclatoare-a-e/10/03/2022/)
 - [nomenclatoare](https://www.onpcsb.ro/uploads/articole/attachments/644b9576b9f8d119925403.pdf) [ONPCB](https://www.onpcsb.ro)
+- [nomenclator ONPCSB entitati raportoare](https://www.onpcsb.ro/uploads/articole/attachments/649e99f8897b1500977073.pdf)
 - [...](https://data.gov.ro/dataset?tags=nomenclator)
 - [etc](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/Nomenclator_2016.htm)
   
