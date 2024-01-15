@@ -293,5 +293,5 @@ Daca aveti intrebari/nelamuriri sau doriti sa sustineti ori sa colaboram in vede
 
 va rog, [nu ezitati](https://docs.peppol.eu/poacc/billing/3.0/rules/ubl-tc434/BR-CO-09/) sa ma contactati via email:  ion.stefanache@yahoo.com
 
-Succes!
+Succes si ... cat mai putine [erori-frecvente](https://static.anaf.ro/static/10/Anaf/declunica/Erori_frecventev5.pdf)!
 
