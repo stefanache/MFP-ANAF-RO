@@ -7,7 +7,7 @@ ori folosind [serviciul online MFP care ofera informatii despre persoanele jurid
  
 [Prezinta](https://media.hotnews.ro/media_server1/document-2023-12-30-26789013-0-prezentare-factura.pdf) un deosebit interes relativ la [facturarea electronica](https://mfinante.gov.ro/static/10/Mfp/ghidE-FACTURA.pdf) aceasta [prezentare ANAF a sistemului eFactura](https://mfinante.gov.ro/static/10/eFactura/PrezentareE-factura.pdf)
 
-dar si cateva referinte remarcabile:
+dar si cateva [referinte remarcabile](https://www.anaf.ro/anaf/internet/ANAF/despre_anaf/strategii_anaf/proiecte_digitalizare/e.factura):
 
 - [informatii gnerale eFactura ANAF](https://www.anaf.ro/anaf/internet/ANAF/despre_anaf/strategii_anaf/proiecte_digitalizare/e.factura)
   
