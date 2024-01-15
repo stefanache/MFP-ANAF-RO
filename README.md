@@ -42,7 +42,7 @@ Privitor la [regulile CIUS(BR-RO-xxxx)](https://www.cabinetexpert.ro/2023-01-28/
 
 Aceste reguli se pot schimba la [propunerea](https://blogs.opentext.com/october-2023-e-invoicing-vat-compliance-update/) diverselor autoritati fiscale sau jucatori din piata.
 
-Pentru validarea unei facturi stocata in format xml( [UBL2.1](https://docs.oasis-open.org/ubl/os-UBL-2.1/xsd/maindoc/UBL-Invoice-2.1.xsd) sau [CII 16B](https://unece.org/trade/uncefact/xml-schemas-2018-2012) ) puteti apela la urmatorul link: [verificare factura xml](https://www.anaf.ro/uploadxmi/)
+Pentru [validarea unei facturi](https://www.portalcodulfiscal.ro/venituri-realizate-de-nerezidenti-51/) stocata in format xml( [UBL2.1](https://docs.oasis-open.org/ubl/os-UBL-2.1/xsd/maindoc/UBL-Invoice-2.1.xsd) sau [CII 16B](https://unece.org/trade/uncefact/xml-schemas-2018-2012) ) puteti apela la urmatorul link: [verificare factura xml](https://www.anaf.ro/uploadxmi/)
 
  [Validarea eFactura](https://infotva.manager.ro/articole/infotva/tot-ce-trebuie-sa-stii-despre-utilizarea-sistemului-ro-e-factura-in-relatia-b2b-si-b2g-21988.html) se poate face si local folosind Java si [DUKIntegrator-SAFT](https://www.anaf.ro/anaf/internet/ANAF/despre_anaf/strategii_anaf/proiecte_digitalizare/saf_t/) (utilizat pentro [validarea declaratiilor pe baza de formular ANAF tipizat](https://static.anaf.ro/static/DUKIntegrator/DUKIntegrator.htm),inclusiv D406/SAF-T) care acopera validarea facturii d.p.d.v. CIUS RO-NAT si/armonizat cu EN-16931.
 
