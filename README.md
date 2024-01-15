@@ -48,7 +48,7 @@ Pentru [validarea unei facturi](https://www.portalcodulfiscal.ro/venituri-realiz
 
 Dar cel mai important punct de plecare ramane pagina oficiala MFP ce cuprinde [informatii tehnice MFP privind eFactura]( https://mfinante.gov.ro/ro/web/efactura/informatii-tehnice).
 
-O colectie de Intrebari si Raspunsuri legate de facturare gasiti si pe site-ul [MFP(FAQ)](https://mfinante.gov.ro/documents/4398723/5002737/E-facturaFAQ.pdf)
+O colectie de [Intrebari si Raspunsuri](https://lege5.ro/Gratuit/geztanrsgmydq/ordinul-nr-4092-2022-pentru-modificarea-specificatiilor-tehnice-si-de-utilizare-a-elementelor-de-baza-ale-facturii-electronice-rocius-si-a-regulilor-operationale-specifice-aplicabile-la-nivel-national) legate de facturare gasiti si pe site-ul [MFP(FAQ)](https://mfinante.gov.ro/documents/4398723/5002737/E-facturaFAQ.pdf)
 
 Folosind [magazinul ASRO](https://magazin.asro.ro/ro/colectie-standarde/819) putem procura documente referitoare la standardele implicate in raportarea fiscala si nu numai.
 
