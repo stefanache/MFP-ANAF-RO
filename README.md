@@ -25,7 +25,7 @@ Conform acestui [comunicat de presa al MFP](https://mfinante.gov.ro/ro/despre-mi
 
 Puteti de asemenea consulta si aceste [clarificari ANAF privind eFactura](https://static.anaf.ro/static/10/Anaf/Informatii_R/ClarificareRO_eFactura.pdf)
 
-Daca folositi o factura mai simpla atunci o puteti genera folosind acest [generator XML{sintaxa UBL2.1} ANAF e-Factura](https://www.anaf.ro/CompletareFactura/faces/factura/informatiigenerale.xhtml)
+Daca folositi o [factura mai simpla](https://static.anaf.ro/static/10/Anaf/Informatii_R/Comunicat_e-factura_aprilie2022_v2_050422.pdf) atunci o puteti genera folosind acest [generator XML{sintaxa UBL2.1} ANAF e-Factura](https://www.anaf.ro/CompletareFactura/faces/factura/informatiigenerale.xhtml)
 
 Acest generator eFactura-XML utilizeaza un [pre-validator DOM](https://www.anaf.ro/CompletareFactura/faces/factura/validare.js) pentru interfatarea cu utilizatorul(GUI/front-end), care trebuie armonizat cu regulile(BR) ale [CIUS_RO](https://infotva.manager.ro/articole/infotva/tot-ce-trebuie-sa-stii-despre-utilizarea-sistemului-ro-e-factura-in-relatia-b2b-si-b2g-21988.html).
 Desigur restul validarilor ce acopera cerintele standardului [EN-16931](https://github.com/ConnectingEurope/eInvoicing-EN16931) aferent eFacturii si [RO_CIUS](https://mfinante.gov.ro/documents/35673/1120722/ordin1366_MO10658112021.pdf) revine partii de backend-ului( [JavaServerFaces i.e. JSF](https://www.infoworld.com/article/3322533/what-is-jsf-introducing-javaserver-faces.html) in acest caz)
