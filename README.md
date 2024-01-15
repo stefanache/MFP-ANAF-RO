@@ -160,7 +160,7 @@ Avand in vedere ca standardul UBL se refera doar la datele XML, acest pas este d
 
 Referitor la specificitatea e-Facturilor, trebuie sa amintim ca si sistemul de management al documentelor detine un rol insemnat in special in faza/etapa de creare/extragere a  documentului xml.
 
-In acest sens am gasit un exemplu de factura generat cu ajutorului unui ERP cunoscut de pe piata IT&C si anume [ODOO](https://hamorsoft1.odoo.com/web/content/8756?unique=00c348150f44d16905a0698e40dffbcf9cedf762&download=true); 
+In acest sens am gasit un exemplu de factura generat cu ajutorului unui [ERP](http://ftp.winmentor.ro/WMEnterprise/Documentatie/MENTOR/E-Facturare/WME%20-%20E-factura%202024.pdf) cunoscut de pe piata IT&C si anume [ODOO](https://hamorsoft1.odoo.com/web/content/8756?unique=00c348150f44d16905a0698e40dffbcf9cedf762&download=true); 
 
 eFactura emisa in acest caz cu ajutorul lui [ODOO](https://www.odoo.com/documentation/17.0/applications/finance/accounting/customer_invoices/electronic_invoicing.html) are in/la final semnatura/certificatul [X509](https://docplayer.net/229352011-1-2-factura-vanzator-hamor-soft-srl-demonstratie-4-cumparator-international-sa-5-invoice.html) plasata de catre emitentul/autorul calificat al documentului.
 
