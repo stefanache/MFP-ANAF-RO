@@ -79,7 +79,7 @@ legate de toate formularele ANAF (eFactura,eTransport,SAF-T(D406),D112,...etc) [
 - [nomenclator PRODROM](https://www.123coduri.ro/cauta-in-baza-de-date-coduri-prodrom.php) - [produse romanesti](https://www.prodrom.nxm.ro/)
 - [nomenclator CPV](https://simap.ted.europa.eu/ro/web/simap/cpv)(a se vedea campul [BT-158a](https://www.anaf.ro/CompletareFactura/faces/factura/informatiigenerale.xhtml) al e-Facturii)
   Detalii despre acest acronim [CPV](https://www.nexuserp.ro/blog/intrebari-frecvente-despre-efactura) gasiti pe site-ul [NXM](https://cpv.nxm.ro/).
-- STI sistem de clasificare pentru [achizitii publice in UE](https://trade.ec.europa.eu/access-to-markets/ro/content/contractele-de-achizitii-publice-ue)(OBS: abrevierea STI mai inseamana spre exemplu si [Sistemele Inteligente de Transport](https://www.mt.ro/web14/documente/acte-normative/2018/06_03/Anexa%201%20-%20Strategia%20națională%20STI.pdf))
+- STI((codul schemei de identificare corespunzătoare CPV)) sistem de clasificare pentru [achizitii publice in UE](https://trade.ec.europa.eu/access-to-markets/ro/content/contractele-de-achizitii-publice-ue)(OBS: abrevierea STI mai inseamana spre exemplu si [Sistemele Inteligente de Transport](https://www.mt.ro/web14/documente/acte-normative/2018/06_03/Anexa%201%20-%20Strategia%20națională%20STI.pdf))
 - TSP nomenclator european combinat
 - nomenclatorul Național al identificatorilor [GS1 GTIN SGR](https://gs1.ro/nomenclator-gtin-sgr/)  produs de bază și ambalări colective]
 - [ZZZ nomenclator constructii noi](https://www.portalcontabilitate.ro/sistemul-ro-e-factura-constructii-noi-154604.htm)
