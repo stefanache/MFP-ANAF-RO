@@ -291,7 +291,7 @@ La ora scrierii acestui document(2023-2024) cel mai discutat subiect ramane cel 
 
 Daca aveti intrebari/nelamuriri sau doriti sa sustineti ori sa colaboram in vederea dezvoltarii unei aplicatii specifice ANAF/MFP, 
 
-va rog, nu ezitati sa ma contactati via email:  ion.stefanache@yahoo.com
+va rog, [nu ezitati](https://docs.peppol.eu/poacc/billing/3.0/rules/ubl-tc434/BR-CO-09/) sa ma contactati via email:  ion.stefanache@yahoo.com
 
 Succes!
 
