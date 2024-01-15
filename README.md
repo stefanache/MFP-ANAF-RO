@@ -63,7 +63,7 @@ legate de toate formularele ANAF (eFactura,eTransport,SAF-T(D406),D112,...etc) [
 
 - [forme juridice si de proprietate](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/Nomenclator_forme_juridice.htm)
 - [geografice/GIS MFP](https://mfinante.gov.ro/nomenclatoare-geografice-mfp) (incluzand relatiile de [interoperabilitate](https://www.mfinante.gov.ro/static/40/Mfp/nomenclatoare/Nom_geogr_INTERNET_script.pdf) dintre [tabelele](https://mfinante.gov.ro/static/40/Mfp/nomenclatoare/SMD_NOMEN_INTEROPERABILITATE_v2.pdf) ce gazduiesc aceste [nomenclatoare](https://data.gov.ro/dataset/nomenclatoaregeografice)): ex [judete]( https://webnom.anaf.ro/Nomenclatoare/api/judete/) ...
-- ... mai multe detalii gasiti [aici](https://github.com/stefanache/MFP-ANAF-RO/blob/main/js_scripts/mfp/nomenclatoare_geografice/readMe.md)
+- ... puteti gasi mai multe detalii despre nomenclatoarele geografice/gis publicate de MFP [aici](https://github.com/stefanache/MFP-ANAF-RO/blob/main/js_scripts/mfp/nomenclatoare_geografice/readMe.md)
 - [nomenclator pt tari/teritorii si monede](https://www.ups.com/worldshiphelp/WSA/ROM/AppHelp/mergedProjects/CORE/Codes/Country_Territory_and_Currency_Codes.htm)
 - [registrul electronic national al nomenclaturilor stradale](https://renns.ancpi.ro/renns-public/) sau
   [registrul electronic national ANCPI al nomenclaturilor stradale si de adresa](https://renns.ancpi.ro/renns-public/)
