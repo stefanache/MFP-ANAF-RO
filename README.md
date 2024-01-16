@@ -199,7 +199,7 @@ De asemenea pe site-urile europene si nu numai se gasesc informatii detaliate de
 
 Daca va descurcati cu sintaxa UBL si XML atunci puteti accesa si acest site pentru a va crea/customiza un [skeleton specific de factura](https://cranesoftwrights.github.io/resources/Crane-UBL-2.1-Skeleton/Crane-UBL-Invoice-2.1.html) conform cerintelor voastre.
 
-Unele articole sunt foarte specifice cum este acest articol al celor de la [ro-efactura.ro](https://ro-efactura.ro/in-ce-camp-din-xml-e-factura-se-trece-numarul-de-inregistrare-in-registrul-comertului-j-ul/) despre numarul de inregistrare acordat de ONRC(numarul care contine litera J).
+Unele articole sunt foarte specifice, asa cum este si acest  mic articol al celor de la [ro-efactura.ro](https://ro-efactura.ro/in-ce-camp-din-xml-e-factura-se-trece-numarul-de-inregistrare-in-registrul-comertului-j-ul/) despre modul in care se integreaza numarul de inregistrare acordat de catre ONRC(J40/nn...n/aaaa unde aaaa=este anul inregistrarii companiei la ONRC si nn...n este efectiv numarul acordat firmei) in formatul UBL/xml al e-Facturii.
 
 2. [Declaratia 406 si 406T](https://www.homecont.ro/declaratia-d406-saf-t-fisierul-standard-de-control-fiscal.htm) ([D406](https://noagroup.ro/fisierul-standard-de-control-fiscal-saf-t-si-testarea-voluntara-pentru-incarcarea-declaratiei-d406t/) audit/control financiar); Sistemul [SAF-T](https://www.pwc.ro/ro/pwc-romania-digital/tax-technology/saf-t.html)
  
