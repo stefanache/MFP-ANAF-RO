@@ -131,7 +131,7 @@ Cei de la [ro-eFactura](https://ro-efactura.ro/conturile-bancare-in-e-factura/) 
 
 O sa preluam si noi aceste [cateva exemple](https://www.oblio.eu/integrari/e-factura)(cu amendamentul ca acestea nu constituie exemple generalizate) pentru a fi mai confortabil de interpretat/vizualizat:
 
-- [o factura in valuta](https://facturis-online.ro/e-factura/model-xml-pentru-e-factura-in-valuta.html)
+- [o factura in valuta](https://facturis-online.ro/e-factura/model-xml-pentru-e-factura-in-valuta.html) (articol preluat si de cei de la [avocatnet](https://www.avocatnet.ro/articol_62722/Model-XML-pentru-e-Factura-in-valut%C4%83.html))
 
 - [o factura a unei agentii de turism](https://facturis-online.ro/e-factura/modele-de-facturi-in-xml-acceptate-in-sistemul-e-factura-pentru-agentiile-de-turism.html)
 
