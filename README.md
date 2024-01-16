@@ -1,6 +1,6 @@
 
 
-Pentru inceput sa invatam din experienta altora....
+Pentru inceput sa invatam din experienta altora....iar motoarele de cautare sunt ... cele mai bune prietene in aceasta speta :)
 
 [ANAF](https://www.anaf.ro/) sub egida [MFP](https://mfinante.gov.ro/domenii) pune la dispozitie aceasta [pagina](https://docs.peppol.eu/poacc/billing/3.0/rules/ubl-tc434/BR-CO-09/) despre [serviciile](https://mfinante.gov.ro/static/10/eFactura/prezentare%20api%20efactura.pdf) sale [web](https://lege5.ro/App/Document/geztanrsgmydq/ordinul-nr-4092-2022-pentru-modificarea-specificatiilor-tehnice-si-de-utilizare-a-elementelor-de-baza-ale-facturii-electronice-rocius-si-a-regulilor-operationale-specifice-aplicabile-la-nivel-national): [servicii web ANAF](https://www.anaf.ro/anaf/internet/ANAF/servicii_online/servicii_web_anaf)
 
