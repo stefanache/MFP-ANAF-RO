@@ -1,6 +1,6 @@
 [ANAF](https://www.anaf.ro/) sub egida [MFP](https://mfinante.gov.ro/domenii) pune la dispozitie aceasta [pagina](https://docs.peppol.eu/poacc/billing/3.0/rules/ubl-tc434/BR-CO-09/) despre [serviciile](https://mfinante.gov.ro/static/10/eFactura/prezentare%20api%20efactura.pdf) sale [web](https://lege5.ro/App/Document/geztanrsgmydq/ordinul-nr-4092-2022-pentru-modificarea-specificatiilor-tehnice-si-de-utilizare-a-elementelor-de-baza-ale-facturii-electronice-rocius-si-a-regulilor-operationale-specifice-aplicabile-la-nivel-national): [servicii web ANAF](https://www.anaf.ro/anaf/internet/ANAF/servicii_online/servicii_web_anaf)
 
-Pe [site-ul MLDPA](http://www.dpfbl.mdrap.ro/B-cont-unic.html) gasiti  datele primariei generale si a primariilor de sector(UAT-urilor) ale Bucurestiului va ofera cateva exemple de CUI/CIF(Cod Unic de Identificare Fiscala) asa incat le putti folosi pt a extrage date de bilant:
+Pe [site-ul MLDPA](http://www.dpfbl.mdrap.ro/B-cont-unic.html) gasiti  datele primariei generale si a primariilor de sector(UAT-urilor) ale Bucurestiului va ofera cateva exemple de [CUI-uri](https://cursdeguvernare.ro/diferenta-dintre-cui-si-cif-ghid-explicativ-in-6-pasi.html) adica Coduri Unice de Identificare(care sunt diferite de CIF ) asa incat le puteti folosi pt a extrage date de bilant:
 
    ex. pt. Primaria Generala Bucuresti(PMB) avem link-ul : https://webservicesp.anaf.ro/bilant?an=2021&cui=4267117
 
