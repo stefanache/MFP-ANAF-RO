@@ -118,7 +118,9 @@ legate de toate formularele ANAF (eFactura,eTransport,SAF-T(D406),D112,...etc) [
 Aceste nomenclatoare se gasesc pe internet in documentatia ANAF/MFP/BNR/GOV..., in diverse tipuri/formate/containere [pdf](https://www.tatime.gov.al/shkarko.php?id=13418), [htm/html](https://lege5.ro/Gratuit/TrackChanges/geztanrsgmydq?type=1&by=geztcmrwgy3tm&d=20.12.2022), xml, [xlsx](https://ec.europa.eu/digital-building-blocks/wikis/download/attachments/467108974/EN16931%20code%20lists%20values%20used%20from%202020-11-15.xlsx?version=1&modificationDate=1639417211300&api=v2), csv, txt, [...](https://www.ditl3.ro/assets/clients/public/file/2023/contracte-facturi/Factura%20Apa%20Nova%2003.CL.2023.pdf) si, de la caz la caz, in limba romana si/sau limba engleza.
 
 De asemenea, puteti cauta o serie de informatii provind [facturarea electronica pe site-ul ASRO](https://magazin.asro.ro/Search?q=factura+electronica)
- 
+
+Desigur gasiti [exemple pe github pentru eInvoicing](https://github.com/Tradeshift/tradeshift-ubl-xsd/tree/master?tab=readme-ov-file) dar si pe website-urile romanesti puteti gasi exemple concrete de buna practica.
+
 Interesanta este si solutia gasita de cei de la Microsoft [MSF pentru eFactura](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW15w3H)
 
 Cei de la [ro-eFactura](https://ro-efactura.ro/conturile-bancare-in-e-factura/) au expus un post pe blog-ul lor in care se discutat despre integrarea [conturilor-bancare](https://ro-efactura.ro/wp-content/uploads/2023/11/Model-factura-XML-NrReg-001.xml) intr-o [eFactura](https://ro-efactura.ro/wp-content/uploads/2023/11/FacturaPDF-NrReg.pdf) (UBL 2.1)
