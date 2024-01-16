@@ -1,5 +1,7 @@
 ## **Introducere**
-<details>  
+<details>
+
+  
 *Pentru inceput sa invatam din experienta altora... iar **motoarele de cautare**(carora le multumim!) sunt... cele mai bune prietene in aceasta speta :)*
 
   [ANAF](https://www.anaf.ro/) sub egida [MFP](https://mfinante.gov.ro/domenii) pune la dispozitie aceasta [pagina](https://docs.peppol.eu/poacc/billing/3.0/rules/ubl-tc434/BR-CO-09/) despre [serviciile](https://mfinante.gov.ro/static/10/eFactura/prezentare%20api%20efactura.pdf) sale [web](https://lege5.ro/App/Document/geztanrsgmydq/ordinul-nr-4092-2022-pentru-modificarea-specificatiilor-tehnice-si-de-utilizare-a-elementelor-de-baza-ale-facturii-electronice-rocius-si-a-regulilor-operationale-specifice-aplicabile-la-nivel-national): [servicii web ANAF](https://www.anaf.ro/anaf/internet/ANAF/servicii_online/servicii_web_anaf)
@@ -18,6 +20,7 @@ ori folosind [serviciul online MFP care ofera informatii despre persoanele jurid
 
 ## 1. **Factura electronica** [eFactura](https://www.anaf.ro/anaf/internet/ANAF/despre_anaf/strategii_anaf/proiecte_digitalizare/e.factura):
 <details>
+
   
 [Prezinta](https://media.hotnews.ro/media_server1/document-2023-12-30-26789013-0-prezentare-factura.pdf) un deosebit interes relativ la [facturarea electronica](https://mfinante.gov.ro/static/10/Mfp/ghidE-FACTURA.pdf) aceasta [prezentare ANAF a sistemului eFactura](https://mfinante.gov.ro/static/10/eFactura/PrezentareE-factura.pdf)
 
@@ -214,6 +217,7 @@ Si website-ul celor de la [factureaza.ro](https://factureaza.ro) ofera o serie i
 
  ## 2. [**Declaratia 406 si 406T(SAF-T)**](https://www.homecont.ro/declaratia-d406-saf-t-fisierul-standard-de-control-fiscal.htm) ([D406](https://noagroup.ro/fisierul-standard-de-control-fiscal-saf-t-si-testarea-voluntara-pentru-incarcarea-declaratiei-d406t/) audit/control financiar); Sistemul [SAF-T](https://www.pwc.ro/ro/pwc-romania-digital/tax-technology/saf-t.html)
 <details>
+
   
 Daca este sa ne referim spre exemplu la [SAF-T(D406)](https://www.contzilla.ro/anaf-a-publicat-documentatia-tehnica-saf-t/) reprezentativ este acest link: [SAF-T(D406)](https://www.anaf.ro/anaf/internet/ANAF/despre_anaf/strategii_anaf/proiecte_digitalizare/saf_t/!ut/p/a1/04_Sj9CPykssy0xPLMnMz0vMAfGjzOI9DD3MPIwsjLws3AKdDQKDDH1cHb0NDAwszIAKIpEVGHgEGhgEmjp5Bpm6BxgYGBpQpt_EkDL9BmbE6TfAARwJuj9cPwqvEndzdAVYggivAlAY4FUA8iRYAR5fFOSG)
 
@@ -242,6 +246,7 @@ Si [buna practica a unor provideri de suport fiscal](https://www.docs.nexuserp.r
 
  ## 3. [**eTransport**](https://mfinante.gov.ro/ro/web/etransport)
 <details>
+
   
 Ca si in cazul [eFactura](https://mfinante.gov.ro/static/10/eFactura/prezentare%20api%20efactura.pdf) puteti desigur folosi [serviciul web al ANAF pt eTransport](https://mfinante.gov.ro/static/10/eTransport/etransport_17022023.pdf) utilizand protocolul REST.
 
@@ -258,6 +263,7 @@ Sunt multe [surse de informare](https://www.euload.com/blog.view.php?id=61) dar 
 
  ## 4. [**Impozitul pe Venit**](https://static.anaf.ro/static/10/Anaf/Contribuabili/scurt_ghid.htm)
 <details>
+
   
 Acesta sectiune se refera la impozitul aferent sau provenit din activitati economice adica din:
 - Activităţi impuse pe bază de norme de venit
@@ -286,6 +292,7 @@ Pentru fiecare activitate veti avea si [formularul sau formularele pt Impozitul 
 
  ## 5. [**MFP**](https://mfinante.gov.ro/domenii) - factor integrator:
 <details>
+
   
 Un link MFP va poate indruma catre [informatii MFP despre formularele F11xx](https://mfinante.gov.ro/web/forexepublic/informatii-publice)
 
@@ -301,6 +308,7 @@ Legat de un proiect mai vechi "[e-Documents](https://www.avocatnet.ro/articol_65
 
  ## 6. [**Baza legala**](https://static.anaf.ro/static/10/Anaf/legislatie/Cod_fiscal_norme_2023.htm)
 <details>
+
   
  Baza legala este destul de stufoasa/ampla si este in continua schimbare ... asa ca trebuie urmarita incontinuu!
  In realitate ea se transpune prin normle sale de aplicare in modificarea/manipularea formularelor si eventual afecteaza softurilor A sau/si J, schemelor de validare(.XSD) si 
@@ -309,6 +317,7 @@ Legat de un proiect mai vechi "[e-Documents](https://www.avocatnet.ro/articol_65
  
  ## 7. La final cateva cuvinte in loc de ... **La revedere!**...
 <details>
+
   
 Implementarea [proceselor economice de afaceri/business](/https://mfinante.gov.ro/documents/35673/5542684/csacp681063_29032022.pdf) ramane o provocare pentru [mediul de afaceri](https://www.fluentis.com/ro/software-erp/solutii-departamentale-integrate/software-facturare-electronica/) avnd in vedere ca trebuiesc integrate aceste raportari periodice dar sper ca aceste informatii sa vina in ajutorul dumneavoastra.
 
