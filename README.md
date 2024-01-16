@@ -1,7 +1,7 @@
 
 
 ## **Introducere**
-
+<details>
 *Pentru inceput sa invatam din experienta altora... iar **motoarele de cautare**(carora le multumim!) sunt... cele mai bune prietene in aceasta speta :)*
 
 
@@ -17,6 +17,7 @@ Sunt servicii de date cum este cel [listafirme.ro](https://www.listafirme.ro/spe
 
 Puteti avea [date de bilant](https://mfinante.gov.ro/static/10/eFactura/FACT1IstoriaVersiunilor.txt) ale unei persoane juridice(PJ) folosind link-ul urmator: [servicii web ANAF- Bilant](https://static.anaf.ro/static/10/Anaf/Informatii_R/doc_WS_Bilant_V1.txt)
 ori folosind [serviciul online MFP care ofera informatii despre persoanele juridice PJ](https://mfinante.gov.ro/info-pj-selectie-nume-si-judet)
+</details>
 
 1. **Factura electronica** [eFactura](https://www.anaf.ro/anaf/internet/ANAF/despre_anaf/strategii_anaf/proiecte_digitalizare/e.factura):
  
