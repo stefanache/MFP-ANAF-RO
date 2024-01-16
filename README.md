@@ -6,7 +6,7 @@ Pe [site-ul MLDPA](http://www.dpfbl.mdrap.ro/B-cont-unic.html) gasiti  datele pr
 
    - ex.pt. o companie/firma aleasa in mod aleatoriu se foloseste aceiasi sintaxa: https://webservicesp.anaf.ro/bilant?an=2021&cui=6859662
 
-Sunt servicii gata facute cum este cel [listafirme.ro](https://www.listafirme.ro/specificatii/api-info-v1.asp) care va permit sa aflati o sumedenie de informatii despre companiile cu care aveti relatii economice.
+Sunt servicii de date cum este cel [listafirme.ro](https://www.listafirme.ro/specificatii/api-info-v1.asp) care va permit sa aflati o sumedenie de informatii despre companiile cu care aveti relatii economice.
 
 Puteti avea [date de bilant](https://mfinante.gov.ro/static/10/eFactura/FACT1IstoriaVersiunilor.txt) ale unei persoane juridice(PJ) folosind link-ul urmator: [servicii web ANAF- Bilant](https://static.anaf.ro/static/10/Anaf/Informatii_R/doc_WS_Bilant_V1.txt)
 ori folosind [serviciul online MFP care ofera informatii despre persoanele juridice PJ](https://mfinante.gov.ro/info-pj-selectie-nume-si-judet)
