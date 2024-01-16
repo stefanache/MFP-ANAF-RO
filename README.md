@@ -125,7 +125,7 @@ legate de toate formularele ANAF (eFactura,eTransport,SAF-T(D406),D112,...etc) [
 
 Aceste nomenclatoare se gasesc pe internet in documentatia ANAF/MFP/BNR/GOV..., in diverse tipuri/formate/containere [pdf](https://www.tatime.gov.al/shkarko.php?id=13418), [htm/html](https://lege5.ro/Gratuit/TrackChanges/geztanrsgmydq?type=1&by=geztcmrwgy3tm&d=20.12.2022), xml, [xlsx](https://ec.europa.eu/digital-building-blocks/wikis/download/attachments/467108974/EN16931%20code%20lists%20values%20used%20from%202020-11-15.xlsx?version=1&modificationDate=1639417211300&api=v2), csv, txt, [...](https://www.ditl3.ro/assets/clients/public/file/2023/contracte-facturi/Factura%20Apa%20Nova%2003.CL.2023.pdf) si, de la caz la caz, in limba romana si/sau limba engleza.
 
-De asemenea, puteti cauta o serie de informatii provind [facturarea electronica pe site-ul ASRO](https://magazin.asro.ro/Search?q=factura+electronica)
+De asemenea, puteti cauta o serie de informatii privind [facturarea electronica pe site-ul ASRO](https://magazin.asro.ro/Search?q=factura+electronica)
 
 Desigur gasiti [exemple pe github pentru eInvoicing](https://github.com/Tradeshift/tradeshift-ubl-xsd/tree/master?tab=readme-ov-file) dar si pe website-urile romanesti puteti gasi exemple concrete de buna practica. Puteti incepe un [exemplu minimal de eInvoice/UBL 2.1](https://github.com/Tradeshift/tradeshift-ubl-xsd/blob/master/src/test/resources/org/oasis-open/ubl/examples/UBL-Invoice-2.1-Example-Trivial.xml) ca mai apoi sa descoperiti/testati [exemple](https://github.com/Tradeshift/tradeshift-ubl-xsd/blob/master/src/test/resources/org/oasis-open/ubl/examples) mai complexe de [facturi](https://github.com/Tradeshift/tradeshift-ubl-xsd/blob/master/src/test/resources/org/oasis-open/ubl/examples), [comenzi](https://github.com/Tradeshift/tradeshift-ubl-xsd/blob/master/src/test/resources/org/oasis-open/ubl/examples/UBL-Order-2.1-Example.xml) si [note de credit](https://github.com/Tradeshift/tradeshift-ubl-xsd/blob/master/src/test/resources/org/oasis-open/ubl/examples/UBL-CreditNote-2.1-Example.xml). 
 
@@ -199,6 +199,7 @@ De asemenea pe site-urile europene si nu numai se gasesc informatii detaliate de
 
 Daca va descurcati cu sintaxa UBL si XML atunci puteti accesa si acest site pentru a va crea/customiza un [skeleton specific de factura](https://cranesoftwrights.github.io/resources/Crane-UBL-2.1-Skeleton/Crane-UBL-Invoice-2.1.html) conform cerintelor voastre.
 
+Unele articole sunt foarte specifice cum este acest articol al celor de la [ro-efactura.ro](https://ro-efactura.ro/in-ce-camp-din-xml-e-factura-se-trece-numarul-de-inregistrare-in-registrul-comertului-j-ul/) despre numarul de inregistrare acordat de ONRC(numarul care contine litera J).
 
 2. [Declaratia 406 si 406T](https://www.homecont.ro/declaratia-d406-saf-t-fisierul-standard-de-control-fiscal.htm) ([D406](https://noagroup.ro/fisierul-standard-de-control-fiscal-saf-t-si-testarea-voluntara-pentru-incarcarea-declaratiei-d406t/) audit/control financiar); Sistemul [SAF-T](https://www.pwc.ro/ro/pwc-romania-digital/tax-technology/saf-t.html)
  
