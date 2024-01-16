@@ -1,6 +1,6 @@
 
 
-### tab *Pentru inceput sa invatam din experienta altora... iar **motoarele de cautare**(carora le multumim!) sunt... cele mai bune prietene in aceasta speta :)*
+### [Tab Introducere] *Pentru inceput sa invatam din experienta altora... iar **motoarele de cautare**(carora le multumim!) sunt... cele mai bune prietene in aceasta speta :)*
 
 
 [ANAF](https://www.anaf.ro/) sub egida [MFP](https://mfinante.gov.ro/domenii) pune la dispozitie aceasta [pagina](https://docs.peppol.eu/poacc/billing/3.0/rules/ubl-tc434/BR-CO-09/) despre [serviciile](https://mfinante.gov.ro/static/10/eFactura/prezentare%20api%20efactura.pdf) sale [web](https://lege5.ro/App/Document/geztanrsgmydq/ordinul-nr-4092-2022-pentru-modificarea-specificatiilor-tehnice-si-de-utilizare-a-elementelor-de-baza-ale-facturii-electronice-rocius-si-a-regulilor-operationale-specifice-aplicabile-la-nivel-national): [servicii web ANAF](https://www.anaf.ro/anaf/internet/ANAF/servicii_online/servicii_web_anaf)
@@ -16,7 +16,7 @@ Sunt servicii de date cum este cel [listafirme.ro](https://www.listafirme.ro/spe
 Puteti avea [date de bilant](https://mfinante.gov.ro/static/10/eFactura/FACT1IstoriaVersiunilor.txt) ale unei persoane juridice(PJ) folosind link-ul urmator: [servicii web ANAF- Bilant](https://static.anaf.ro/static/10/Anaf/Informatii_R/doc_WS_Bilant_V1.txt)
 ori folosind [serviciul online MFP care ofera informatii despre persoanele juridice PJ](https://mfinante.gov.ro/info-pj-selectie-nume-si-judet)
 
-### tab 1. **Factura electronica** [eFactura](https://www.anaf.ro/anaf/internet/ANAF/despre_anaf/strategii_anaf/proiecte_digitalizare/e.factura):
+### [tab 1] 1. **Factura electronica** [eFactura](https://www.anaf.ro/anaf/internet/ANAF/despre_anaf/strategii_anaf/proiecte_digitalizare/e.factura):
  
 [Prezinta](https://media.hotnews.ro/media_server1/document-2023-12-30-26789013-0-prezentare-factura.pdf) un deosebit interes relativ la [facturarea electronica](https://mfinante.gov.ro/static/10/Mfp/ghidE-FACTURA.pdf) aceasta [prezentare ANAF a sistemului eFactura](https://mfinante.gov.ro/static/10/eFactura/PrezentareE-factura.pdf)
 
@@ -210,7 +210,7 @@ Un alt articol care tot o tinta foarte precisa este acesta propus de catre cei d
 
 Si website-ul celor de la [factureaza.ro](https://factureaza.ro) ofera o serie intreaga de informatii utile cu privire la [generarea facturii UBL/xml](https://factureaza.ro/ajutor/generarea-fisierelor-xml-pentru-efactura?gclid=CjwKCAiA75itBhA6EiwAkho9e4JMnCuiJaOTcCPQcC4MdqCzBqvE-vvhAN4xAemyG3W5ectP2XBnPRoCs-YQAvD_BwE).
 
-### tab 2. [**Declaratia 406 si 406T(SAF-T)**](https://www.homecont.ro/declaratia-d406-saf-t-fisierul-standard-de-control-fiscal.htm) ([D406](https://noagroup.ro/fisierul-standard-de-control-fiscal-saf-t-si-testarea-voluntara-pentru-incarcarea-declaratiei-d406t/) audit/control financiar); Sistemul [SAF-T](https://www.pwc.ro/ro/pwc-romania-digital/tax-technology/saf-t.html)
+### [Tab 2] 2. [**Declaratia 406 si 406T(SAF-T)**](https://www.homecont.ro/declaratia-d406-saf-t-fisierul-standard-de-control-fiscal.htm) ([D406](https://noagroup.ro/fisierul-standard-de-control-fiscal-saf-t-si-testarea-voluntara-pentru-incarcarea-declaratiei-d406t/) audit/control financiar); Sistemul [SAF-T](https://www.pwc.ro/ro/pwc-romania-digital/tax-technology/saf-t.html)
  
 Daca este sa ne referim spre exemplu la [SAF-T(D406)](https://www.contzilla.ro/anaf-a-publicat-documentatia-tehnica-saf-t/) reprezentativ este acest link: [SAF-T(D406)](https://www.anaf.ro/anaf/internet/ANAF/despre_anaf/strategii_anaf/proiecte_digitalizare/saf_t/!ut/p/a1/04_Sj9CPykssy0xPLMnMz0vMAfGjzOI9DD3MPIwsjLws3AKdDQKDDH1cHb0NDAwszIAKIpEVGHgEGhgEmjp5Bpm6BxgYGBpQpt_EkDL9BmbE6TfAARwJuj9cPwqvEndzdAVYggivAlAY4FUA8iRYAR5fFOSG)
 
@@ -236,7 +236,7 @@ Oricum este foarte important si util sa urmariti [comunicatele ANAF](https://sta
 Si [buna practica a unor provideri de suport fiscal](https://www.docs.nexuserp.ro/articol/configurare-e-factura-in-nexus-erp/3498) poate fi utila in a vedea cum se lucreaza cu aceste [nomenlcatoare](http://www.imatisoftware.ro/download.htm).
 
 
-### tab 3. [**eTransport**](https://mfinante.gov.ro/ro/web/etransport)
+### [Tab 3] 3. [**eTransport**](https://mfinante.gov.ro/ro/web/etransport)
 
 Ca si in cazul [eFactura](https://mfinante.gov.ro/static/10/eFactura/prezentare%20api%20efactura.pdf) puteti desigur folosi [serviciul web al ANAF pt eTransport](https://mfinante.gov.ro/static/10/eTransport/etransport_17022023.pdf) utilizand protocolul REST.
 
@@ -250,7 +250,7 @@ Un fisier Excel ofera informatii despre [structura eTransport](https://mfinante.
 
 Sunt multe [surse de informare](https://www.euload.com/blog.view.php?id=61) dar si multe modificari legislative si in cazul platformei eTransport.
 
-### 4. [**Impozitul pe Venit**](https://static.anaf.ro/static/10/Anaf/Contribuabili/scurt_ghid.htm)
+### [Tab 4] 4. [**Impozitul pe Venit**](https://static.anaf.ro/static/10/Anaf/Contribuabili/scurt_ghid.htm)
 
 Acesta sectiune se refera la impozitul aferent sau provenit din activitati economice adica din:
 - Activităţi impuse pe bază de norme de venit
@@ -277,7 +277,7 @@ Acesta sectiune se refera la impozitul aferent sau provenit din activitati econo
 Pentru fiecare activitate veti avea si [formularul sau formularele pt Impozitul pe Venit](https://static.anaf.ro/static/10/Anaf/Contribuabili/scurt_ghid.htm).
 
 
-### tab 5. [**MFP**](https://mfinante.gov.ro/domenii) - factor integrator:
+###[Tab 5] 5. [**MFP**](https://mfinante.gov.ro/domenii) - factor integrator:
 
 Un link MFP va poate indruma catre [informatii MFP despre formularele F11xx](https://mfinante.gov.ro/web/forexepublic/informatii-publice)
 
@@ -290,13 +290,13 @@ Pentru institutiile publice exista insa o [dumentatie](https://mfinante.gov.ro/s
 
 Legat de un proiect mai vechi "[e-Documents](https://www.avocatnet.ro/articol_65745/Arhivare-Firmele-vor-trebui-s%C4%83-se-asigure-c%C4%83-p%C4%83streaz%C4%83-XML-urile-facturilor-transmise-in-e-Factura-Inc%C4%83-sunt-probleme-cu-anexele-lor-dar-ANAF-lucreaz%C4%83-la-asta.html)", trebuie sa amintim si faptul ca [arhivarea documentelor](https://mfinante.gov.ro/documents/35673/5542684/csac676660_12012022.pdf) ar fi ultima etapa din "[viata](https://www.cabinetexpert.ro/2023-02-28/anaf-oficial-2023-termene-noi-pentru-arhivarea-unor-documente.html)" unui document.
 
-### tab 6. [**Baza legala**](https://static.anaf.ro/static/10/Anaf/legislatie/Cod_fiscal_norme_2023.htm)
+### [Tab 6] 6. [**Baza legala**](https://static.anaf.ro/static/10/Anaf/legislatie/Cod_fiscal_norme_2023.htm)
 
  Baza legala este destul de stufoasa/ampla si este in continua schimbare ... asa ca trebuie urmarita incontinuu!
  In realitate ea se transpune prin normle sale de aplicare in modificarea/manipularea formularelor si eventual afecteaza softurilor A sau/si J, schemelor de validare(.XSD) si 
  dept urmare vor fi actualizate siinstructiunile lor de utilizare.
  
-### tab 7. La final cateva cuvinte in loc de ... **La revedere!**...
+### [Tab 7] 7. La final cateva cuvinte in loc de ... **La revedere!**...
 
 Implementarea [proceselor economice de afaceri/business](/https://mfinante.gov.ro/documents/35673/5542684/csacp681063_29032022.pdf) ramane o provocare pentru [mediul de afaceri](https://www.fluentis.com/ro/software-erp/solutii-departamentale-integrate/software-facturare-electronica/) avnd in vedere ca trebuiesc integrate aceste raportari periodice dar sper ca aceste informatii sa vina in ajutorul dumneavoastra.
 
