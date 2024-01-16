@@ -121,7 +121,7 @@ De asemenea, puteti cauta o serie de informatii provind [facturarea electronica 
  
 Interesanta este si solutia gasita de cei de la Microsoft [MSF pentru eFactura](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW15w3H)
 
-Cel de la [ro-eFactura](https://ro-efactura.ro/conturile-bancare-in-e-factura/) au expus un post in care se discutat despre integrarea [conturilor-bancare](https://ro-efactura.ro/wp-content/uploads/2023/11/Model-factura-XML-NrReg-001.xml) intr-o [eFactura](https://ro-efactura.ro/wp-content/uploads/2023/11/FacturaPDF-NrReg.pdf)
+Cei de la [ro-eFactura](https://ro-efactura.ro/conturile-bancare-in-e-factura/) au expus un post pe blog-ul lor in care se discutat despre integrarea [conturilor-bancare](https://ro-efactura.ro/wp-content/uploads/2023/11/Model-factura-XML-NrReg-001.xml) intr-o [eFactura](https://ro-efactura.ro/wp-content/uploads/2023/11/FacturaPDF-NrReg.pdf)
 
 [Facturis](https://facturis-online.ro/facturare/e-factura) prezinta modul in care se modela [manual/neautomat](https://facturis-online.ro/e-factura/cum-sa-emiteti-singur-facturi-electronice-in-sistemul-anaf-ro-e-factura.html) diferite formate de factura si cum pot fi verificate si depuse facturile XML spre raportare la ANAF. In general este de evitat a se efectua manual aceste operatii repetitive consumatoare de timp asa incat companiile prefera sa folosesca aplicatii automate si utilizatori [inregistrat[e/i]](https://static.anaf.ro/static/10/Anaf/Informatii_R/API/Oauth_procedura_inregistrare_aplicatii_portal_ANAF.pdf) in spatiul virtual al ANAF.
 
