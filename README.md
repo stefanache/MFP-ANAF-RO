@@ -220,6 +220,8 @@ Oricum este foarte important si util sa urmariti [comunicatele ANAF](https://sta
 
 Si [buna practica a unor provideri de suport fiscal](https://www.docs.nexuserp.ro/articol/configurare-e-factura-in-nexus-erp/3498) poate fi utila in a vedea cum se lucreaza cu aceste [nomenlcatoare](http://www.imatisoftware.ro/download.htm).
 
+De asemenea pe site-urile europene si nu numai se gasesc informatii depre eFactura; As aminti aici ca exemplu, o publicatie deosebit de activa [VATupdate](https://www.vatupdate.com/2023/12/17/guide-on-the-use-of-the-national-electronic-invoicing-system-ro-e-invoice-english-translation/).
+
 3. [eTransport](https://mfinante.gov.ro/ro/web/etransport)
 
 Ca si in cazul [eFactura](https://mfinante.gov.ro/static/10/eFactura/prezentare%20api%20efactura.pdf) puteti desigur folosi [serviciul web al ANAF pt eTransport](https://mfinante.gov.ro/static/10/eTransport/etransport_17022023.pdf) utilizand protocolul REST.
