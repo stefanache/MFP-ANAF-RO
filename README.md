@@ -4,6 +4,8 @@ Pe [site-ul MLDPA](http://www.dpfbl.mdrap.ro/B-cont-unic.html) gasiti  datele pr
 
    ex. pt. Primaria Generala Bucuresti(PMB) avem link-ul : https://webservicesp.anaf.ro/bilant?an=2021&cui=4267117
 
+   pt. o firma oarecare se foloseste aciasi sintaxa: https://webservicesp.anaf.ro/bilant?an=2023&cui=6859662
+
 Puteti avea [date de bilant](https://mfinante.gov.ro/static/10/eFactura/FACT1IstoriaVersiunilor.txt) ale unei persoane juridice(PJ) folosind link-ul urmator: [servicii web ANAF- Bilant](https://static.anaf.ro/static/10/Anaf/Informatii_R/doc_WS_Bilant_V1.txt)
 ori folosind [serviciul online MFP care ofera informatii despre persoanele juridice PJ](https://mfinante.gov.ro/info-pj-selectie-nume-si-judet)
 
