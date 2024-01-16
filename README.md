@@ -195,6 +195,8 @@ Trebuie sa ne amintim si de reteaua pan-europeana [Peppol](https://doc-process.c
 
 [Pan-European Public Procurement OnLine](https://doc-process.com/wp-content/uploads/2022/07/RO-Peppol-Guide-Ebook.pdf) adica pe scurt  [PEPPOL](https://docs.peppol.eu/poacc/billing/3.0/rules/ubl-tc434/) a câștigat notorietate ca rețea pentru transmiterea facturilor în regiunea europeană și nu numai.
 
+De asemenea pe site-urile europene si nu numai se gasesc informatii detaliate despre eFactura; As aminti aici ca exemplu, o publicatie deosebit de activa [VATupdate](https://www.vatupdate.com/2023/12/17/guide-on-the-use-of-the-national-electronic-invoicing-system-ro-e-invoice-english-translation/).
+
 2. [Declaratia 406 si 406T](https://www.homecont.ro/declaratia-d406-saf-t-fisierul-standard-de-control-fiscal.htm) ([D406](https://noagroup.ro/fisierul-standard-de-control-fiscal-saf-t-si-testarea-voluntara-pentru-incarcarea-declaratiei-d406t/) audit/control financiar); Sistemul [SAF-T](https://www.pwc.ro/ro/pwc-romania-digital/tax-technology/saf-t.html)
  
 Daca este sa ne referim spre exemplu la [SAF-T(D406)](https://www.contzilla.ro/anaf-a-publicat-documentatia-tehnica-saf-t/) reprezentativ este acest link: [SAF-T(D406)](https://www.anaf.ro/anaf/internet/ANAF/despre_anaf/strategii_anaf/proiecte_digitalizare/saf_t/!ut/p/a1/04_Sj9CPykssy0xPLMnMz0vMAfGjzOI9DD3MPIwsjLws3AKdDQKDDH1cHb0NDAwszIAKIpEVGHgEGhgEmjp5Bpm6BxgYGBpQpt_EkDL9BmbE6TfAARwJuj9cPwqvEndzdAVYggivAlAY4FUA8iRYAR5fFOSG)
@@ -220,7 +222,6 @@ Oricum este foarte important si util sa urmariti [comunicatele ANAF](https://sta
 
 Si [buna practica a unor provideri de suport fiscal](https://www.docs.nexuserp.ro/articol/configurare-e-factura-in-nexus-erp/3498) poate fi utila in a vedea cum se lucreaza cu aceste [nomenlcatoare](http://www.imatisoftware.ro/download.htm).
 
-De asemenea pe site-urile europene si nu numai se gasesc informatii depre eFactura; As aminti aici ca exemplu, o publicatie deosebit de activa [VATupdate](https://www.vatupdate.com/2023/12/17/guide-on-the-use-of-the-national-electronic-invoicing-system-ro-e-invoice-english-translation/).
 
 3. [eTransport](https://mfinante.gov.ro/ro/web/etransport)
 
