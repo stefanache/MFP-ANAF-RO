@@ -197,6 +197,9 @@ Trebuie sa ne amintim si de reteaua pan-europeana [Peppol](https://doc-process.c
 
 De asemenea pe site-urile europene si nu numai se gasesc informatii detaliate despre eFactura; As aminti aici ca exemplu, o publicatie deosebit de activa [VATupdate](https://www.vatupdate.com/2023/12/17/guide-on-the-use-of-the-national-electronic-invoicing-system-ro-e-invoice-english-translation/).
 
+Daca va descurcati cu sintaxa UBL si XML atunci puteti accesa si acest site pentru a va crea/customiza un [skeleton specific de factura](https://cranesoftwrights.github.io/resources/Crane-UBL-2.1-Skeleton/Crane-UBL-Invoice-2.1.html) conform cerintelor voastre.
+
+
 2. [Declaratia 406 si 406T](https://www.homecont.ro/declaratia-d406-saf-t-fisierul-standard-de-control-fiscal.htm) ([D406](https://noagroup.ro/fisierul-standard-de-control-fiscal-saf-t-si-testarea-voluntara-pentru-incarcarea-declaratiei-d406t/) audit/control financiar); Sistemul [SAF-T](https://www.pwc.ro/ro/pwc-romania-digital/tax-technology/saf-t.html)
  
 Daca este sa ne referim spre exemplu la [SAF-T(D406)](https://www.contzilla.ro/anaf-a-publicat-documentatia-tehnica-saf-t/) reprezentativ este acest link: [SAF-T(D406)](https://www.anaf.ro/anaf/internet/ANAF/despre_anaf/strategii_anaf/proiecte_digitalizare/saf_t/!ut/p/a1/04_Sj9CPykssy0xPLMnMz0vMAfGjzOI9DD3MPIwsjLws3AKdDQKDDH1cHb0NDAwszIAKIpEVGHgEGhgEmjp5Bpm6BxgYGBpQpt_EkDL9BmbE6TfAARwJuj9cPwqvEndzdAVYggivAlAY4FUA8iRYAR5fFOSG)
