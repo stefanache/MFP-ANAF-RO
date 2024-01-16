@@ -2,9 +2,9 @@
 
 Pe [site-ul MLDPA](http://www.dpfbl.mdrap.ro/B-cont-unic.html) gasiti  datele primariei generale si a primariilor de sector(UAT-urilor) ale Bucurestiului va ofera cateva exemple de [CUI-uri](https://cursdeguvernare.ro/diferenta-dintre-cui-si-cif-ghid-explicativ-in-6-pasi.html) adica Coduri Unice de Identificare(care sunt diferite de CIF ) asa incat le puteti folosi pt a extrage date de bilant:
 
-   ex. pt. Primaria Generala Bucuresti(PMB) avem link-ul : https://webservicesp.anaf.ro/bilant?an=2022&cui=4267117
+  - ex. pt. Primaria Generala Bucuresti(PMB) avem link-ul : https://webservicesp.anaf.ro/bilant?an=2022&cui=4267117
 
-   pt. o firma oarecare se foloseste aciasi sintaxa: https://webservicesp.anaf.ro/bilant?an=2021&cui=6859662
+   - ex.pt. o companie/firma aleasa in mod aleatoriu se foloseste aceiasi sintaxa: https://webservicesp.anaf.ro/bilant?an=2021&cui=6859662
 
 Puteti avea [date de bilant](https://mfinante.gov.ro/static/10/eFactura/FACT1IstoriaVersiunilor.txt) ale unei persoane juridice(PJ) folosind link-ul urmator: [servicii web ANAF- Bilant](https://static.anaf.ro/static/10/Anaf/Informatii_R/doc_WS_Bilant_V1.txt)
 ori folosind [serviciul online MFP care ofera informatii despre persoanele juridice PJ](https://mfinante.gov.ro/info-pj-selectie-nume-si-judet)
