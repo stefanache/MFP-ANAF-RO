@@ -201,6 +201,8 @@ Daca va descurcati cu sintaxa UBL si XML atunci puteti accesa si acest site pent
 
 Unele articole sunt foarte specifice, asa cum este si acest  mic articol al celor de la [ro-efactura.ro](https://ro-efactura.ro/in-ce-camp-din-xml-e-factura-se-trece-numarul-de-inregistrare-in-registrul-comertului-j-ul/) despre modul in care se integreaza numarul de inregistrare acordat de catre ONRC(J40/nn...n/aaaa unde aaaa=este anul inregistrarii companiei la ONRC si nn...n este efectiv numarul acordat firmei) in formatul UBL/xml al e-Facturii.
 
+Un alt articol care tot o tinta foarte precisa este acesta propus de catre cei de la facturis despre [livrarile catre punctele de lucru ale clientului](https://facturis.ro/blog/e-factura/punctele-de-lucru-ale-clientului-si-informatiile-necesare-pe-factura-si-in-e-factura/) care desigur dorim sa apara/fie integrate in eFactura.
+
 2. [Declaratia 406 si 406T](https://www.homecont.ro/declaratia-d406-saf-t-fisierul-standard-de-control-fiscal.htm) ([D406](https://noagroup.ro/fisierul-standard-de-control-fiscal-saf-t-si-testarea-voluntara-pentru-incarcarea-declaratiei-d406t/) audit/control financiar); Sistemul [SAF-T](https://www.pwc.ro/ro/pwc-romania-digital/tax-technology/saf-t.html)
  
 Daca este sa ne referim spre exemplu la [SAF-T(D406)](https://www.contzilla.ro/anaf-a-publicat-documentatia-tehnica-saf-t/) reprezentativ este acest link: [SAF-T(D406)](https://www.anaf.ro/anaf/internet/ANAF/despre_anaf/strategii_anaf/proiecte_digitalizare/saf_t/!ut/p/a1/04_Sj9CPykssy0xPLMnMz0vMAfGjzOI9DD3MPIwsjLws3AKdDQKDDH1cHb0NDAwszIAKIpEVGHgEGhgEmjp5Bpm6BxgYGBpQpt_EkDL9BmbE6TfAARwJuj9cPwqvEndzdAVYggivAlAY4FUA8iRYAR5fFOSG)
