@@ -139,6 +139,8 @@ O sa preluam si noi aceste [cateva exemple](https://www.oblio.eu/integrari/e-fac
 
   Cei de la [2Invoice](https://www.2invoice.ro/efactura.html?gclid=CjwKCAiAs6-sBhBmEiwA1Nl8s-6dT0YBdbmf_U_GARdL10qHL3yPI7kuuGz43n-3YgctF2rtwmVpDRoCErIQAvD_BwE) ofera [modele](https://www.2invoice.ro/help/modele-documente-utile/modele-facturi-fiscale) ce au suport pentru containerele excel si word
 
+ Manuela Nistor a plasat un exemplu de Invoice in format UBL/xml pe [scribd](https://ro.scribd.com/doc/241769145/UBL-Invoice)
+ 
  Indiferent ca vorbim de faza/valul de implementare al [e-Facturii](https://ec.europa.eu/digital-building-blocks/sites/display/DIGITAL/eInvoicing+in+Romania) [B2G sau B2B](https://dddinvoices.com/learn/e-invoicing-romania/), etapele de baza/fundamentale in fluxul operational al procesului eFactura sunt urmatoarele:
  
  - etapa de creare a fisierului xml(poate include si [pre-][validarea](https://github.com/ConnectingEurope/eInvoicing-EN16931/tree/master)) si apoi 
