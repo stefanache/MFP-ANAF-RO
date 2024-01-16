@@ -1,5 +1,6 @@
 ## **Introducere**
 <details>
+  
 *Pentru inceput sa invatam din experienta altora... iar **motoarele de cautare**(carora le multumim!) sunt... cele mai bune prietene in aceasta speta :)*
 
   [ANAF](https://www.anaf.ro/) sub egida [MFP](https://mfinante.gov.ro/domenii) pune la dispozitie aceasta [pagina](https://docs.peppol.eu/poacc/billing/3.0/rules/ubl-tc434/BR-CO-09/) despre [serviciile](https://mfinante.gov.ro/static/10/eFactura/prezentare%20api%20efactura.pdf) sale [web](https://lege5.ro/App/Document/geztanrsgmydq/ordinul-nr-4092-2022-pentru-modificarea-specificatiilor-tehnice-si-de-utilizare-a-elementelor-de-baza-ale-facturii-electronice-rocius-si-a-regulilor-operationale-specifice-aplicabile-la-nivel-national): [servicii web ANAF](https://www.anaf.ro/anaf/internet/ANAF/servicii_online/servicii_web_anaf)
@@ -237,7 +238,8 @@ Oricum este foarte important si util sa urmariti [comunicatele ANAF](https://sta
 Si [buna practica a unor provideri de suport fiscal](https://www.docs.nexuserp.ro/articol/configurare-e-factura-in-nexus-erp/3498) poate fi utila in a vedea cum se lucreaza cu aceste [nomenlcatoare](http://www.imatisoftware.ro/download.htm).
 
 </details>
- 3. [**eTransport**](https://mfinante.gov.ro/ro/web/etransport)
+
+ ## 3. [**eTransport**](https://mfinante.gov.ro/ro/web/etransport)
 <details>
 Ca si in cazul [eFactura](https://mfinante.gov.ro/static/10/eFactura/prezentare%20api%20efactura.pdf) puteti desigur folosi [serviciul web al ANAF pt eTransport](https://mfinante.gov.ro/static/10/eTransport/etransport_17022023.pdf) utilizand protocolul REST.
 
@@ -252,7 +254,7 @@ Un fisier Excel ofera informatii despre [structura eTransport](https://mfinante.
 Sunt multe [surse de informare](https://www.euload.com/blog.view.php?id=61) dar si multe modificari legislative si in cazul platformei eTransport.
 </details>
 
-  4. [**Impozitul pe Venit**](https://static.anaf.ro/static/10/Anaf/Contribuabili/scurt_ghid.htm)
+ ## 4. [**Impozitul pe Venit**](https://static.anaf.ro/static/10/Anaf/Contribuabili/scurt_ghid.htm)
 <details>
 Acesta sectiune se refera la impozitul aferent sau provenit din activitati economice adica din:
 - Activităţi impuse pe bază de norme de venit
@@ -279,7 +281,7 @@ Acesta sectiune se refera la impozitul aferent sau provenit din activitati econo
 Pentru fiecare activitate veti avea si [formularul sau formularele pt Impozitul pe Venit](https://static.anaf.ro/static/10/Anaf/Contribuabili/scurt_ghid.htm).
 </details>
 
- 5. [**MFP**](https://mfinante.gov.ro/domenii) - factor integrator:
+ ## 5. [**MFP**](https://mfinante.gov.ro/domenii) - factor integrator:
 <details>
 Un link MFP va poate indruma catre [informatii MFP despre formularele F11xx](https://mfinante.gov.ro/web/forexepublic/informatii-publice)
 
@@ -293,14 +295,14 @@ Pentru institutiile publice exista insa o [dumentatie](https://mfinante.gov.ro/s
 Legat de un proiect mai vechi "[e-Documents](https://www.avocatnet.ro/articol_65745/Arhivare-Firmele-vor-trebui-s%C4%83-se-asigure-c%C4%83-p%C4%83streaz%C4%83-XML-urile-facturilor-transmise-in-e-Factura-Inc%C4%83-sunt-probleme-cu-anexele-lor-dar-ANAF-lucreaz%C4%83-la-asta.html)", trebuie sa amintim si faptul ca [arhivarea documentelor](https://mfinante.gov.ro/documents/35673/5542684/csac676660_12012022.pdf) ar fi ultima etapa din "[viata](https://www.cabinetexpert.ro/2023-02-28/anaf-oficial-2023-termene-noi-pentru-arhivarea-unor-documente.html)" unui document.
 </details>
 
- 6. [**Baza legala**](https://static.anaf.ro/static/10/Anaf/legislatie/Cod_fiscal_norme_2023.htm)
+ ## 6. [**Baza legala**](https://static.anaf.ro/static/10/Anaf/legislatie/Cod_fiscal_norme_2023.htm)
 <details>
  Baza legala este destul de stufoasa/ampla si este in continua schimbare ... asa ca trebuie urmarita incontinuu!
  In realitate ea se transpune prin normle sale de aplicare in modificarea/manipularea formularelor si eventual afecteaza softurilor A sau/si J, schemelor de validare(.XSD) si 
  dept urmare vor fi actualizate siinstructiunile lor de utilizare.
  </details>
  
- 7. La final cateva cuvinte in loc de ... **La revedere!**...
+ ## 7. La final cateva cuvinte in loc de ... **La revedere!**...
 <details>
 Implementarea [proceselor economice de afaceri/business](/https://mfinante.gov.ro/documents/35673/5542684/csacp681063_29032022.pdf) ramane o provocare pentru [mediul de afaceri](https://www.fluentis.com/ro/software-erp/solutii-departamentale-integrate/software-facturare-electronica/) avnd in vedere ca trebuiesc integrate aceste raportari periodice dar sper ca aceste informatii sa vina in ajutorul dumneavoastra.
 
