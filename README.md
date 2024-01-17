@@ -297,9 +297,10 @@ Un fisier Excel ofera informatii despre [structura eTransport](https://mfinante.
 Sunt multe [surse de informare](https://www.euload.com/blog.view.php?id=61) dar si multe modificari legislative si in cazul platformei eTransport.
 </details>
 
- ## 4. [**Impozitul pe Venit**](https://static.anaf.ro/static/10/Anaf/Contribuabili/scurt_ghid.htm)
+ ## 4. [**Declaratii; Impozitul pe Venit**](https://static.anaf.ro/static/10/Anaf/Contribuabili/scurt_ghid.htm)
 <details>
 
+Pe site-ul ANAF veti regasi o sumedenie de [alte](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/Calendar/Calendar_obligatii_fiscale_2024.htm) [declaratii](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/Calendar/Calendar_obligatii_fiscale_2023.htm) specifice fiecarei obligatii de control/raportare fiscal[a] si desigur ca si pentru acestea veti dori un [suport informatic](https://www.tdec.ro/).
   
 Acesta sectiune se refera la impozitul aferent sau provenit din activitati economice adica din:
 - Activităţi impuse pe bază de norme de venit
