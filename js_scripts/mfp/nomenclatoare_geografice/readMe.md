@@ -10,11 +10,12 @@ MFP pune la dispozitie urmatoarele [nomenclatoare geografice](https://mfinante.g
 
 [nomenclator Tari-Valute](https://stefanache.github.io/MFP-ANAF-RO/js_scripts/mfp/nomenclatoare_geografice/nomTariValute.html)
 
-*Nota*:
+**Nota**:
 
     Am descarcat si eu actualizarea din data de 12.01.2024 pentru a extrage date din fisierele xml ale MFP.
-    Puteti descarca aceste nomenclatoare intr-un site static cum este [acesta](https://github.com/stefanache/MFP-ANAF-RO/) gazduit de cei de la Github si 
-apoi puteti scrie cod HTML+CSS+JS care sa incarce nomenclatoarele in elementele DOM ale documentului dumneavoastra(table, select, div, pre, texarea, ...):
+    Puteti descarca aceste nomenclatoare intr-un site static cum este [acesta](https://github.com/stefanache/MFP-ANAF-RO/) 
+    gazduit de cei de la Github si apoi puteti scrie cod HTML+CSS+JS care sa incarce nomenclatoarele in elementele DOM 
+    ale documentului dumneavoastra(table, select, div, pre, texarea, ...):
 
 Periodic aceste nomenclatoare se pot actualiza si in acest caz, pot fi descarcate de pe site-ul [MFP](https://mfinante.gov.ro/nomenclatoare-geografice-mfp).
 
