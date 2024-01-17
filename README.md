@@ -243,7 +243,8 @@ De asemenea daca cititi subiectul "Introducere" din documentatia DDDinvoices vet
       Urmând acești trei pași, puteți să vă integrați fără probleme cu serviciul DDD Invoices și 
       să utilizați funcționalitățile acestuia pentru nevoile dvs. de gestionare a facturilor."
 
-      
+ Si web-serviciul [e-Invoices.online](https://e-invoices.online/data-to-e-invoices-transformation-api/public/3a4e2a6f-88d0-4c79-a8c2-11a8eb94a24e?inline=true) are o documentatie ceva mai concisa.
+ 
 </details>
 
  ## 2. [**Declaratia 406 si 406T(SAF-T)**](https://www.homecont.ro/declaratia-d406-saf-t-fisierul-standard-de-control-fiscal.htm) ([D406](https://noagroup.ro/fisierul-standard-de-control-fiscal-saf-t-si-testarea-voluntara-pentru-incarcarea-declaratiei-d406t/) audit/control financiar); Sistemul [SAF-T](https://www.pwc.ro/ro/pwc-romania-digital/tax-technology/saf-t.html)
