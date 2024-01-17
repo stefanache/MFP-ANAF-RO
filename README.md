@@ -297,12 +297,12 @@ Un fisier Excel ofera informatii despre [structura eTransport](https://mfinante.
 Sunt multe [surse de informare](https://www.euload.com/blog.view.php?id=61) dar si multe modificari legislative si in cazul platformei eTransport.
 </details>
 
- ## 4. [**Declaratii; Impozitul pe Venit**](https://static.anaf.ro/static/10/Anaf/Contribuabili/scurt_ghid.htm)
+ ## 4. [**Declaratii; Impozitul pe Venit ori pe Profit, TVA, Accize,...**](https://static.anaf.ro/static/10/Anaf/Contribuabili/scurt_ghid.htm)
 <details>
 
 Pe site-ul ANAF veti regasi o sumedenie de [alte](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/Calendar/Calendar_obligatii_fiscale_2024.htm) [declaratii](https://www.anaf.ro/anaf/internet/ANAF/asistenta_contribuabili/declararea_obligatiilor_fiscale/toate_formularele/) specifice fiecarei [obligatii de control/raportare fiscal(a)](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/Calendar/Calendar_obligatii_fiscale_2023.htm) in parte si desigur veti dori un [suport](https://static.anaf.ro/static/10/Anaf/Declaratii_R/112.html) [informatic](https://www.tdec.ro/) si pentru acestea.
   
-In acesta sectiune sa incepem prin a ne referi la [Impozitul pe Venit ori Profit, TVA ori Accize,...](https://static.anaf.ro/static/10/Anaf/Legislatie_R/CFN_ante_14mai14_L_69.htm) aferent sau provenit din activitati economice adica din:
+In acesta sectiune sa incepem prin a ne referi la [Impozitul pe Venit](https://static.anaf.ro/static/10/Anaf/Legislatie_R/CFN_ante_14mai14_L_69.htm) aferent sau provenit din activitati economice adica din:
 - Activităţi impuse pe bază de norme de venit
 - Arendă
 - Asociere fără personalitate juridică
