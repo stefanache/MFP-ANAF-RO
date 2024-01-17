@@ -28,7 +28,7 @@ Sunt o serie de nomenlatoare care sunt cvasi-statice(nemodificabile sau foarte p
 [stariArt](https://stefanache.github.io/MFP-ANAF-RO/js_scripts/mfp/nomenclatoare_geografice/nomStariArtere.html),
 [tari-valute](https://stefanache.github.io/MFP-ANAF-RO/js_scripts/mfp/nomenclatoare_geografice/nomTariValute.html) ) dar sunt si altele care sunt dinamice(adica au modificari destul de dese si prin urmare au probabil si inregistrari in istoric).
 
-Pentru cazul acestor date dinamice trebuie amintit si faptul ca la nivelul Romaniei, acestea poseda foarte multe inregistrari. In plus, probabil ca nu toate inregistrarile sunt relevante/interesante/importante si atunci acest tip de nomenclatoare sunt separate(sparte in mai multe bucati) pe judete.
+Pentru cazul acestor date dinamice trebuie amintit si faptul ca la nivelul Romaniei, acestea poseda foarte multe inregistrari. In plus, probabil ca nu toate inregistrarile sunt relevante/interesante/importante si atunci acest tip de nomenclatoare sunt separate(diferentiate sau daca vreti "sparte in mai multe bucati") pe judete.
 Am ales ca exemplu descarcarea nomenclatoarelor de localitati,coduri-postale si artere pentru judetul ALBA si anume doar cele emise pe data de 12.ian.2024 
 ([Nomenclatoare dinamice jud. ALBA publicate in date de 12.01.2024](https://stefanache.github.io/MFP-ANAF-RO/js_scripts/mfp/nomenclatoare_geografice/ALBA/12.01.2024/index.html))
 
