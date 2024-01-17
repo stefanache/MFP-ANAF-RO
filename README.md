@@ -219,7 +219,7 @@ Am mentionat acest serviciu deoarece are exemple de facturi extrem de interesant
 DDDinvoices este un furnizor global de solutii e-Factura(eng: Provider of global e-invoicing solutions for SaaS, ERPs, independent software vendors and enterprises)
 Daca va veti uita la subiectul [DDI_save](https://dddinvoices.com/documentation/#save-invoice) in documentatia furnizorului, veti vedea, inante de tabelul(cap-tabel: Etapa	Descriere	Pași necesari) ce prezinta etapele, că exista combinația de etape 35, 50, 70 și 85 care 
   generează factura in format UBL specific țării(ex. RO), 
-  trimite factura electronică cumpărătorului prin TAP(Tax Authority: ex ANAF) și 
+  trimite factura electronică cumpărătorului prin TAP(Tax Authority; ex. ANAF) și 
   generează un PDF cu detalii de la TAP.
 
 Iata etapele din tabelul mai sus amintit:
@@ -229,15 +229,19 @@ Etapa 50:	Generați UBL specific țării;                             Pasi neces
 Etapa 70:	Trimiteți către autoritatea fiscală (TAP);	             Pasi necesari: 35, 50
 Etapa 85:	Generare document pdf cu fiscalizare si trimitere date;  Pasi necesari: 35, (40), (50, 70), (55, 80)
 
-de asemenea daca cititi subiectul "Introducere" veti afla ca trebuiesc urmati  3 pasi(dialogul se realizeaza prin comenzi cURL):
+De asemenea daca cititi subiectul "Introducere" din documentatia DDDinvoices veti afla ca trebuiesc urmati  3 pasi(dialogul se realizeaza prin comenzi cURL):
 
       "Integrarea cu serviciul DDD Invoices se poate face în trei pași simpli.
       
-      Apelați API-ul DDDI_GetNew pentru a prelua obiectul JSON al facturii inițializate. Acest API vă va oferi un obiect de factură care este gata să fie completat cu date.
+      Apelați API-ul DDDI_GetNew pentru a prelua obiectul JSON al facturii inițializate. 
+      Acest API vă va oferi un obiect de factură care este gata să fie completat cu date.
       Completați obiectul facturii cu datele necesare din software-ul dvs.
-      Alegeți pașii care ar trebui să fie executați pe datele facturii, precum și documentele la alegere, care ar trebui să apară în răspuns.
-      Executați fluxul de lucru apelând API-ul DDDI_Save, care va crea factura electronică folosind datele de factură furnizate, precum și va efectua pașii aleși, va returna documentele dorite și va salva factura.
-      Urmând acești trei pași, puteți să vă integrați fără probleme cu serviciul DDD Invoices și să utilizați funcționalitățile acestuia pentru nevoile dvs. de gestionare a facturilor."
+      Alegeți pașii care ar trebui să fie executați pe datele facturii, precum și documentele la alegere, 
+      care ar trebui să apară în răspuns.
+      Executați fluxul de lucru apelând API-ul DDDI_Save, care va crea factura electronică folosind datele de factură furnizate, 
+      precum și va efectua pașii aleși, va returna documentele dorite și va salva factura.
+      Urmând acești trei pași, puteți să vă integrați fără probleme cu serviciul DDD Invoices și 
+      să utilizați funcționalitățile acestuia pentru nevoile dvs. de gestionare a facturilor."
 
       
 </details>
