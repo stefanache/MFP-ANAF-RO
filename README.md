@@ -226,7 +226,7 @@ Iata etapele din tabelul mai sus amintit:
 
     Etapa 35:	Factură confirmată și blocată pentru editare;            Pasi necesari: -	
     Etapa 50:	Generați UBL specific țării;                             Pasi necesari: 35
-    Etapa 70:	Trimiteți către autoritatea fiscală (TAP);	            Pasi necesari: 35, 50
+    Etapa 70:	Trimiteți către autoritatea fiscală (TAP);	         Pasi necesari: 35, 50
     Etapa 85:	Generare document pdf cu fiscalizare si trimitere date;  Pasi necesari: 35, (40), (50, 70), (55, 80)
 
 De asemenea daca cititi subiectul "Introducere" din documentatia DDDinvoices veti afla ca trebuiesc urmati  3 pasi(dialogul se realizeaza prin comenzi cURL):
