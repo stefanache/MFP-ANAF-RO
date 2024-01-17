@@ -213,6 +213,10 @@ Unele articole sunt foarte specifice, asa cum este si acest  mic articol al celo
 Un alt articol care tot o tinta foarte precisa este acesta propus de catre cei de la facturis despre [livrarile catre punctele de lucru ale clientului](https://facturis.ro/blog/e-factura/punctele-de-lucru-ale-clientului-si-informatiile-necesare-pe-factura-si-in-e-factura/) care desigur dorim sa apara/fie integrate in eFactura.
 
 Si website-ul celor de la [factureaza.ro](https://factureaza.ro) ofera o serie intreaga de informatii utile cu privire la [generarea facturii UBL/xml](https://factureaza.ro/ajutor/generarea-fisierelor-xml-pentru-efactura?gclid=CjwKCAiA75itBhA6EiwAkho9e4JMnCuiJaOTcCPQcC4MdqCzBqvE-vvhAN4xAemyG3W5ectP2XBnPRoCs-YQAvD_BwE).
+
+Interesant este si serviciul [dddInvoices](https://dddinvoices.com/documentation/#authentication) care primeste datele de intrare in format JSON(si in general intregul in dialogul cu utilizatorii se foloseste acest format).
+Am mentionat acest serviciu deoarece are exemple de facturi extrem de interesante si in plus cred ca este un exemplu de buna practica daca intentionati sa va faceti propriul API(pentru voi sau pentru comercializare).
+
 </details>
 
  ## 2. [**Declaratia 406 si 406T(SAF-T)**](https://www.homecont.ro/declaratia-d406-saf-t-fisierul-standard-de-control-fiscal.htm) ([D406](https://noagroup.ro/fisierul-standard-de-control-fiscal-saf-t-si-testarea-voluntara-pentru-incarcarea-declaratiei-d406t/) audit/control financiar); Sistemul [SAF-T](https://www.pwc.ro/ro/pwc-romania-digital/tax-technology/saf-t.html)
