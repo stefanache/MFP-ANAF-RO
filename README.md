@@ -216,6 +216,12 @@ Si website-ul celor de la [factureaza.ro](https://factureaza.ro) ofera o serie i
 
 Interesant este si serviciul [dddInvoices](https://dddinvoices.com/documentation/#authentication) care primeste datele de intrare in format JSON(si in general intregul in dialogul cu utilizatorii se foloseste acest format).
 Am mentionat acest serviciu deoarece are exemple de facturi extrem de interesante si in plus cred ca este un exemplu de buna practica daca intentionati sa va faceti propriul API(pentru voi sau pentru comercializare).
+Daca va veti uital la subiectul [DDI_save](https://dddinvoices.com/documentation/#save-invoice) veti vedea inante de tabelul(cap-tabel: Etapa	Descriere	Pași necesari) ce prezinta etapele că exista combinația de etape 35, 50, 70 și 85 generează UBL specific țării, trimite factura electronică cumpărătorului prin TAP și generează un PDF cu detalii de la TAP:
+
+Etapa 35:	Factură confirmată și blocată pentru editare;            Pasi necesari: -	
+Etapa 50:	Generați UBL specific țării;                             Pasi necesari: 35
+Etapa 70:	Trimiteți către autoritatea fiscală (TAP);	             Pasi necesari: 35, 50
+Etapa 85:	Generare document pdf cu fiscalizare si trimitere date;  Pasi necesari: 35, (40), (50, 70), (55, 80)
 
 </details>
 
