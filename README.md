@@ -330,6 +330,7 @@ Pentru fiecare activitate veti avea si [formularul sau formularele pt Impozitul 
  ## 5. [**MFP**](https://mfinante.gov.ro/domenii) - factor integrator:
 <details>
 
+Unele acte normative le gasiti pe siteul [Guvernului(GOV)](https://gov.ro/fisiere/subpagini_fisiere/NF_OUG_120-2021.docx) dar ele au un caracter general.
   
 Un link MFP va poate indruma catre [informatii MFP despre formularele F11xx](https://mfinante.gov.ro/web/forexepublic/informatii-publice)
 
@@ -341,9 +342,12 @@ Trebuie sa stiti ca acest mod de raportare specific pessoanelor fizice si juridi
 Pentru institutiile publice exista insa o [dumentatie](https://mfinante.gov.ro/static/10/eFactura/PrezentareE-factura.pdf) separata(totusi va recomand sa o consultati chiar daca nu se aplica in cazul dumneavoastra).
 
 Legat de un proiect mai vechi "[e-Documents](https://www.avocatnet.ro/articol_65745/Arhivare-Firmele-vor-trebui-s%C4%83-se-asigure-c%C4%83-p%C4%83streaz%C4%83-XML-urile-facturilor-transmise-in-e-Factura-Inc%C4%83-sunt-probleme-cu-anexele-lor-dar-ANAF-lucreaz%C4%83-la-asta.html)", trebuie sa amintim si faptul ca [arhivarea documentelor](https://mfinante.gov.ro/documents/35673/5542684/csac676660_12012022.pdf) ar fi ultima etapa din "[viata](https://www.cabinetexpert.ro/2023-02-28/anaf-oficial-2023-termene-noi-pentru-arhivarea-unor-documente.html)" unui document.
+
+Desigur cele mai multe informatii despre baza legala care sta la baza proceselor eFactura,eTransport,D406/SAF-T... o sa le regasiti la [ANAF](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/Ghid_RO_eFactura.pdf); Practic acestea va conduc catre specificatiile tehnice singurele in masura sa va ajute la dezvoltarea propriilor solutii informatice ...
+
 </details>
 
- ## 6. [**GOV;Baza legala**](https://static.anaf.ro/static/10/Anaf/legislatie/Cod_fiscal_norme_2023.htm)
+ ## 6. [**GOV; Baza legala**](https://static.anaf.ro/static/10/Anaf/legislatie/Cod_fiscal_norme_2023.htm)
 <details>
 
   
