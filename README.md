@@ -330,8 +330,6 @@ Pentru fiecare activitate veti avea si [formularul sau formularele pt Impozitul 
  ## 5. [**MFP**](https://mfinante.gov.ro/domenii) - factor integrator:
 <details>
 
-Unele acte normative le gasiti pe siteul [Guvernului(GOV)](https://gov.ro/fisiere/subpagini_fisiere/NF_OUG_120-2021.docx) dar ele au un caracter general.
-  
 Un link MFP va poate indruma catre [informatii MFP despre formularele F11xx](https://mfinante.gov.ro/web/forexepublic/informatii-publice)
 
 In acelasi timp este util sa urmariti si [experienta altora](https://www.softteam.ro/documente/SAFT%20-%20eFactura%20-%20eTransport%20v.2.pdf) in ce priveste relatia cu ANAF/MFP/GOV deoarece legislatia in materie este in continua schimbare
@@ -342,18 +340,20 @@ Trebuie sa stiti ca acest mod de raportare specific pessoanelor fizice si juridi
 Pentru institutiile publice exista insa o [dumentatie](https://mfinante.gov.ro/static/10/eFactura/PrezentareE-factura.pdf) separata(totusi va recomand sa o consultati chiar daca nu se aplica in cazul dumneavoastra).
 
 Legat de un proiect mai vechi "[e-Documents](https://www.avocatnet.ro/articol_65745/Arhivare-Firmele-vor-trebui-s%C4%83-se-asigure-c%C4%83-p%C4%83streaz%C4%83-XML-urile-facturilor-transmise-in-e-Factura-Inc%C4%83-sunt-probleme-cu-anexele-lor-dar-ANAF-lucreaz%C4%83-la-asta.html)", trebuie sa amintim si faptul ca [arhivarea documentelor](https://mfinante.gov.ro/documents/35673/5542684/csac676660_12012022.pdf) ar fi ultima etapa din "[viata](https://www.cabinetexpert.ro/2023-02-28/anaf-oficial-2023-termene-noi-pentru-arhivarea-unor-documente.html)" unui document.
-
-Desigur cele mai multe informatii despre baza legala care sta la baza proceselor eFactura,eTransport,D406/SAF-T... o sa le regasiti la [ANAF](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/Ghid_RO_eFactura.pdf); Practic acestea va conduc catre specificatiile tehnice singurele in masura sa va ajute la dezvoltarea propriilor solutii informatice ...
-
 </details>
 
  ## 6. [**GOV; Baza legala**](https://static.anaf.ro/static/10/Anaf/legislatie/Cod_fiscal_norme_2023.htm)
 <details>
+Unele acte normative le gasiti pe portalul [Guvernului(GOV)](https://gov.ro/fisiere/subpagini_fisiere/NF_OUG_120-2021.docx) dar ele au un caracter general.
 
-  
+O alta parte de informatii legate de baza legala se regases pe site-ul MFP. Dar si acestea sunt oarecum cu caracter general.
+
+ Desigur cele mai multe informatii despre baza legala care sta la baza proceselor eFactura,eTransport,D406/SAF-T... o sa le regasiti la [ANAF](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/Ghid_RO_eFactura.pdf); Practic acestea va conduc catre specificatiile tehnice singurele in masura sa va ajute la dezvoltarea propriilor solutii informatice ...
+ 
 [Baza legala](https://mfinante.gov.ro/web/efactura/legislatie) este destul de stufoasa/ampla si este in continua schimbare ... asa ca trebuie urmarita incontinuu!
  In realitate ea se transpune prin normle sale de aplicare in modificarea/manipularea formularelor si eventual afecteaza softurilor A sau/si J, schemelor de validare(.XSD) si 
  dept urmare vor fi actualizate siinstructiunile lor de utilizare.
+
  </details>
  
  ## 7. La final cateva cuvinte in loc de ... **La revedere!**...
