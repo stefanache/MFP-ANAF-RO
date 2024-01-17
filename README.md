@@ -359,12 +359,14 @@ O alta parte de informatii legate de baza legala se regases pe site-ul MFP. Dar 
  ## 7. La final cateva cuvinte in loc de ... **La revedere!**...
 <details>
 
+Inca de la inceputul acestei sectiuni as dori sa spun ca efortul depus de catre integratori pentru a pune la dispozitia clientilor sai suportul necesar e-Guvernarii este unul major.
+Deseori trebuiesc facute ajustarile necesare pentru ca solutiile lor sa se alinieze efortului comun de integrare. Astfel de rapoarte/draft-uri ca cel pe care il puteti descarca de pe portalul [Winmentor](https://portal.winmentor.ro/its/apps/export/tickets?tip=wm&export=1&start=0&ticket_id=&data=&descriere=&modul=&din_versiunea=&status=&data_finalizare=&versiune=&zQEoBnYvZ=W7CpsT4a6&mFHVuDE=7dFoIOJ&XeGQpzRWFJN=a6m093kihSG&RFdboh-QCI=QmwSP*8qzK) veti gasi cu siguranta si in cazul altor furnizori de suport informatic.
   
 Implementarea [proceselor economice de afaceri/business](/https://mfinante.gov.ro/documents/35673/5542684/csacp681063_29032022.pdf) ramane o provocare pentru [mediul de afaceri](https://www.fluentis.com/ro/software-erp/solutii-departamentale-integrate/software-facturare-electronica/) avnd in vedere ca trebuiesc integrate aceste raportari periodice dar sper ca aceste informatii sa vina in ajutorul dumneavoastra.
 
 Aceste [procese de business](https://www.fluentis.com/ro/software-erp/solutii-departamentale-integrate/software-bpm/) pot fi modelate folosind scheme precum [BPMN](https://github.com/bpmn-io) pentru ca mai apoi sa aveti oportunitatea de a le optimiza si integra in [ERP-ul](https://docs.peppol.eu/poacc/upgrade-3/profiles/36-mlr/) dumneavoastra
 
-In acest context, poate fi de mare ajutor si documenttia [Peppol](https://www.fluentis.com/ro/software-erp/solutii-departamentale-integrate/software-facturare-electronica/): [Peppol Business Interoperability Specification (Peppol BIS) ](https://docs.peppol.eu/poac/pint/v1.0.1/pint/bis/#_introduction)
+In acest context, poate fi de mare ajutor si documentia [Peppol](https://www.fluentis.com/ro/software-erp/solutii-departamentale-integrate/software-facturare-electronica/): [Peppol Business Interoperability Specification (Peppol BIS) ](https://docs.peppol.eu/poac/pint/v1.0.1/pint/bis/#_introduction)
 
 Puteti sa va scufundati cat mai adanc in modul in care un document ajunge in reteaua [Peppol](https://www.avalara.com/blog/en/europe/2023/03/how-does-your-e-invoice-reach-your-customer-on-the-peppol-network.html?gclid=Cj0KCQiAy9msBhD0ARIsANbk0A8t34gxuFGTa04PkN8I4L8rdkFH4mXNxSg46TONOHbKPIgd568fu8UaAhBUEALw_wcB&CampaignID=7015a000001y34SAAQ&utm_source=paid_search&utm_medium=gppc&ef_id=Cj0KCQiAy9msBhD0ARIsANbk0A8t34gxuFGTa04PkN8I4L8rdkFH4mXNxSg46TONOHbKPIgd568fu8UaAhBUEALw_wcB:G:s&s_kwcid=AL!5131!3!675189240647!p!!g!!peppol&gclsrc=aw.ds&&lso=Paid+Digital&lsmr=Paid+Digital&gad_source=1) pentru a avea [o idee cat mai clara](https://docs.peppol.eu/poacc/billing/3.0/national-rules/) de modul in care se proceseaza cererile dumneavoastra.
 
