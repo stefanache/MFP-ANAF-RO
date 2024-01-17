@@ -243,7 +243,7 @@ De asemenea daca cititi subiectul "Introducere" din documentatia DDDinvoices vet
       Urmând acești trei pași, puteți să vă integrați fără probleme cu serviciul DDD Invoices și 
       să utilizați funcționalitățile acestuia pentru nevoile dvs. de gestionare a facturilor."
 
- Si web-serviciul [e-Invoices.online](https://e-invoices.online/data-to-e-invoices-transformation-api/public/3a4e2a6f-88d0-4c79-a8c2-11a8eb94a24e?inline=true) are o documentatie ceva mai concisa.
+ Si web-serviciul [e-Invoices.online](https://e-invoices.online/data-to-e-invoices-transformation-api/public/3a4e2a6f-88d0-4c79-a8c2-11a8eb94a24e?inline=true) are o documentatie care este ceva mai concisa.
  
 </details>
 
