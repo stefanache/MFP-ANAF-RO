@@ -214,7 +214,7 @@ Un alt articol care tot o tinta foarte precisa este acesta propus de catre cei d
 
 Si website-ul celor de la [factureaza.ro](https://factureaza.ro) ofera o serie intreaga de informatii utile cu privire la [generarea facturii UBL/xml](https://factureaza.ro/ajutor/generarea-fisierelor-xml-pentru-efactura?gclid=CjwKCAiA75itBhA6EiwAkho9e4JMnCuiJaOTcCPQcC4MdqCzBqvE-vvhAN4xAemyG3W5ectP2XBnPRoCs-YQAvD_BwE).
 
-Interesant este si serviciul [dddInvoices](https://dddinvoices.com/documentation/#authentication) care primeste datele de intrare in format JSON(si in general intregul in dialogul cu utilizatorii se foloseste acest format).
+Interesant este si serviciul [dddInvoices](https://dddinvoices.com/documentation/#authentication) care primeste date de intrare in format JSON(si, in general, in dialogul cu utilizatorii se poate folosi JSON).
 Am mentionat acest serviciu deoarece are exemple de facturi extrem de interesante si in plus cred ca este un exemplu de buna practica daca intentionati sa va faceti propriul API(pentru voi sau pentru comercializare).
 DDDinvoices este un furnizor global de solutii e-Factura(eng: Provider of global e-invoicing solutions for SaaS, ERPs, independent software vendors and enterprises)
 Daca va veti uita la subiectul [DDI_save](https://dddinvoices.com/documentation/#save-invoice) in documentatia furnizorului, veti vedea, inante de tabelul(cap-tabel: Etapa	Descriere	Pași necesari) ce prezinta etapele, că exista combinația de etape 35, 50, 70 și 85 care 
