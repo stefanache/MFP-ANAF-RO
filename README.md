@@ -247,7 +247,8 @@ De asemenea daca cititi subiectul "Introducere" din documentatia DDDinvoices vet
 
  Ca modalitati de transmitere a facturii XML o puteti face [autoamt](https://factureaza.ro/e-factura)/direct din ERP/API daca prepararea datelor este gestionata intr-un astfel de sitem sau [manual](https://factureaza.ro/e-factura) daca aveti un sistem propriu intr-o faza incipienta de dezvoltare. 
  Uneori daca ai facturi foarte putine nu se merita sa investesti timp si bani intr-un sistem complex de gestionare si atunci poti lua decizia, de a lucra intr-un sistem de de generare a facturii mai primitiv,  urmand ca mai apoi sa incarci [manual] acest document XML in site-ul online al autoritatii fiscale(ANAF).
- 
+Ulterior poti folosi [generarea online a facturii in format PDF](https://www.anaf.ro/uploadxml/) daca acest format grafic este adecvat cerintelor afacerii pe care o derulati.
+
 </details>
 
  ## 2. [**Declaratia 406 si 406T(SAF-T)**](https://www.homecont.ro/declaratia-d406-saf-t-fisierul-standard-de-control-fiscal.htm) ([D406](https://noagroup.ro/fisierul-standard-de-control-fiscal-saf-t-si-testarea-voluntara-pentru-incarcarea-declaratiei-d406t/) audit/control financiar); Sistemul [SAF-T](https://www.pwc.ro/ro/pwc-romania-digital/tax-technology/saf-t.html)
