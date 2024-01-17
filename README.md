@@ -229,6 +229,17 @@ Etapa 50:	Generați UBL specific țării;                             Pasi neces
 Etapa 70:	Trimiteți către autoritatea fiscală (TAP);	             Pasi necesari: 35, 50
 Etapa 85:	Generare document pdf cu fiscalizare si trimitere date;  Pasi necesari: 35, (40), (50, 70), (55, 80)
 
+de asemenea daca cititi subiectul "Introducere" veti afla ca trebuiesc urmati  3 pasi(dialogul se realizeaza prin comenzi cURL):
+
+      "Integrarea cu serviciul DDD Invoices se poate face în trei pași simpli.
+      
+      Apelați API-ul DDDI_GetNew pentru a prelua obiectul JSON al facturii inițializate. Acest API vă va oferi un obiect de factură care este gata să fie completat cu date.
+      Completați obiectul facturii cu datele necesare din software-ul dvs.
+      Alegeți pașii care ar trebui să fie executați pe datele facturii, precum și documentele la alegere, care ar trebui să apară în răspuns.
+      Executați fluxul de lucru apelând API-ul DDDI_Save, care va crea factura electronică folosind datele de factură furnizate, precum și va efectua pașii aleși, va returna documentele dorite și va salva factura.
+      Urmând acești trei pași, puteți să vă integrați fără probleme cu serviciul DDD Invoices și să utilizați funcționalitățile acestuia pentru nevoile dvs. de gestionare a facturilor."
+
+      
 </details>
 
  ## 2. [**Declaratia 406 si 406T(SAF-T)**](https://www.homecont.ro/declaratia-d406-saf-t-fisierul-standard-de-control-fiscal.htm) ([D406](https://noagroup.ro/fisierul-standard-de-control-fiscal-saf-t-si-testarea-voluntara-pentru-incarcarea-declaratiei-d406t/) audit/control financiar); Sistemul [SAF-T](https://www.pwc.ro/ro/pwc-romania-digital/tax-technology/saf-t.html)
