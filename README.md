@@ -244,6 +244,9 @@ De asemenea daca cititi subiectul "Introducere" din documentatia DDDinvoices vet
       să utilizați funcționalitățile acestuia pentru nevoile dvs. de gestionare a facturilor."
 
  Si web-serviciul [e-Invoices.online](https://e-invoices.online/data-to-e-invoices-transformation-api/public/3a4e2a6f-88d0-4c79-a8c2-11a8eb94a24e?inline=true) are o documentatie care este ceva mai concisa.
+
+ Ca modalitati de transmitere a facturii XML o puteti face [autoamt](https://factureaza.ro/e-factura)/direct din ERP/API daca prepararea datelor este gestionata intr-un astfel de sitem sau [manual](https://factureaza.ro/e-factura) daca aveti un sistem propriu intr-o faza incipienta de dezvoltare. 
+ Uneori daca ai facturi foarte putine nu se merita sa investesti timp si bani intr-un sistem complex de gestionare si atunci poti lua decizia, de a lucra intr-un sistem de de generare a facturii mai primitiv,  urmand ca mai apoi sa incarci [manual] acest document XML in site-ul online al autoritatii fiscale(ANAF).
  
 </details>
 
