@@ -335,6 +335,8 @@ pe internet sau pe site-ul ANAF.
 
 Treuiesc urmarite anumite [instructiuni](https://www.anaf.ro/anaf/internet/MariContribuabili/ajutor_stat/depunere_on_line/!ut/p/a1/pZBNC4JAEIZ_jVdnVPyom4fANkGlTNtLaNgqqCu65d9PPSWYBc1thueBd16gEAOtk2fBElHwOinHnRpXR3EMR7VU4vmhhgEJiK1v9goG2gBc3gH0zjsM3IOpu_5JtY7mf76n_ebjh7Hxmx8BnSMLH6wCY8QJWMlAgLKSp1OfF7tONYsBbbN71mat_GiHcy5E020llLDve5lxzspMvvFKwiUl552AeE5CU4VhjIVfRVb3AnqMM-8!/dl5/d5/L2dBISEvZ0FBIS9nQSEh/) de [depunere online](https://static.anaf.ro/static/10/Anaf/depunere_declaratii/manuale/Instr_decl_electr_1.9.13.pdf) ale acestor [documente electronice](https://www.anaf.ro/anaf/internet/ANAF/servicii_online/declaratii_electronice/inreg_utiliz_pf) deoarece va arata clar pasii care trebuiesc urmati pentru acest demers.
 
+Foarte utile sunt si [mesajele scurte](https://static.anaf.ro/static/10/Anaf/Declaratii_R/instructiuni/etape_depunere.htm) cu privire la pasii de urmat in cazul depunerii declaratiilor fiscale chiar daca unele se refara specific la unul sau o lista scurta de documente.
+
 </details>
 
  ## 5. [**MFP**](https://mfinante.gov.ro/domenii) - factor integrator:
@@ -361,8 +363,8 @@ O alta parte de informatii legate de baza legala se regases pe site-ul MFP. Dar 
  Desigur cele mai multe informatii despre baza legala care sta la baza proceselor eFactura,eTransport,D406/SAF-T... o sa le regasiti la [ANAF](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/Ghid_RO_eFactura.pdf); Practic acestea va conduc catre specificatiile tehnice singurele in masura sa va ajute la dezvoltarea propriilor solutii informatice ...
  
 [Baza legala](https://mfinante.gov.ro/web/efactura/legislatie) este destul de stufoasa/ampla si este in continua schimbare ... asa ca trebuie urmarita incontinuu!
- In realitate ea se transpune prin normle sale de aplicare in modificarea/manipularea formularelor si eventual afecteaza softurilor A sau/si J, schemelor de validare(.XSD) si 
- dept urmare vor fi actualizate siinstructiunile lor de utilizare.
+In realitate ea se transpune prin normele sale de aplicare in modificarea/manipularea formularelor si eventual afecteaza softurilor A sau/si J, schemelor de validare(.XSD) si 
+drept urmare vor fi actualizate si instructiunile lor de utilizare.
 
  </details>
  
