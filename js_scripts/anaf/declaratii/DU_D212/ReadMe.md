@@ -49,6 +49,8 @@ Am facut si eu acest lucru si l-am [descarcat](https://static.anaf.ro/static/10/
 Mentionez ca acest fisier PDF este "read-only"(poate fi doar citit) si nu necesita setati sau permisiuni speciale.
 Acest fisier "read-only" PDF este scris/emis/editat in format traditional/clasic si nu este un "document inteligent" adica nu are nevoie de un fisier XML asociat in care sa fie validate(utilizand schema d212_20240110.xsd) si apoi preluate/stocate datele introduse de catre utilizatorul care completeaza datele in formularul acesta PDF(cum este cazul fisierului dclUnica_2024-v1.0.0_10012024.pdf)
 
+La o prima vedere se poate observa ca sunt folosite nomenclatoarele de judete si tari. Apoi vedem ca inr-un camp codurile CAEN sunt validate o o lista scurta/o selectie de coduri CAEN(nu tot/intreg nomenclatorul CAEN)
+
 *Nota*
 
 Pentru vizualizarea fisierului formularului PDF am folosit Microsoft Edge pe un ecran si pe celelat ecran am folosit Chrome pentru a vedea fisierul xsd(modificat ca mai sus pentru a putea fi "human-readable").
