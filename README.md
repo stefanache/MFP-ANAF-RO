@@ -349,7 +349,7 @@ Unele [platforme comerciale](https://www.tdec.ro/) au [extensii](https://www.sag
 
 Daca pentru depunere este nevoie de certificat calificat probabil ca va trebui sa accesati [formularul 150](https://www.anaf.ro/inregcalificat/)
 
-Unele agentii(ex. [AFM](https://online.afm.ro/)) pe partea lor de competenta vin si ele in sprijinul acestei activitati de depunere online cu suportul lor informatic specific.
+Unele agentii(ex. [AFM](https://online.afm.ro/)) pe partea lor de competenta vin si ele in sprijinul acestei activitati de [depunere online](https://static.anaf.ro/static/10/Anaf/depunere_declaratii/manuale/Instr_decl_electr_1.9.13.pdf) cu suportul lor informatic specific.
 </details>
 
  ## 5. [**MFP**](https://mfinante.gov.ro/domenii) - factor integrator:
