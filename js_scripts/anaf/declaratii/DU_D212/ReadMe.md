@@ -46,7 +46,9 @@ Desigur acest document .xsd inca este destul de complex dar daca descarcati si [
 *Nota*
 
 Pentru vizualizarea fisierului formularului PDF am folosit Microsoft Edge pe un ecran si pe celelat ecran am folosit Chrome pentru a vedea fisierul xsd(modificat cami sus pentru a putea fi "human-readable").
-De asemena puteti instala extensii de browser pentru a vizualiza direct in browser aceste fisiere dar in acest caz vedeti ce permisiuni trebuiesc setate.
+Oricum folosind  [Acrobat Reader](http://www.adobe.com/go/acrreader) cu siguranta veti reusi sa accesati fisierul PDF si desigur ar trebui sa-l si puteti edita.
+
+De asemenea puteti instala extensii de/pt browser[-ul] pentru a vizualiza direct in browser aceste fisiere(.PDF si .XSD modificat cu style-sheet oferit de xs3p) dar in acest caz vedeti ce permisiuni trebuiesc setate.
 
 
  
