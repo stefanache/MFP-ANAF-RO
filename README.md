@@ -362,6 +362,8 @@ Orice fel de [sprijin](https://ateliercontabilitate.ro/ce-trebuie-sa-stii-la-dep
 
 Desigur mai toate informatiile neoficiale sunt cu titlu [rezervat](https://www.alfasign.ro/instructiuni/3.Instructiunidepuneredeclaratiionline.pdf) si trebuiesc intotdeauna verificate din surse oficiale ANAF.
 Asa incat mai toate cautarile noastre de verificare pe internet trebuiesc sa inceapa cu cuvinte cheie ANAF, MFP, GOV... si desigur sa se refere la cele scrise in limba romana.
+Desigur cel mai utilizat motor de cautare ramane Google dar sunt si [alte motoare](https://ec89bb364605197d05e2a3cd6ff74fdc-ro.tralti.com/ws?q=depunere%20declaratii%20anaf&asid=tr_ch1262&nw=g&de=c&locale=ro_RO&ac=35573&cid=20815689547&aid=159678787601&gclid=Cj0KCQiAtaOtBhCwARIsAN_x-3I8rVX6yUI450fCcm9QYBwabpi96eD-FmBH1dX67LQecuWnITd4d0saAtV6EALw_wcB) care pot sa va ajute sa gasiti informatii utile legate de acest subiect. 
+
 Cu toate acestea trebuie sa siti ca exista si in cadrul surselor oficiale si segmente care pot fi asimilate ca fiind oficiale. Asa este cazul [directiilor teritoriale fiscale](https://www.dfmt.ro/) care functioneaza pe langa UAT-uri
 si care, la randul lor au publicatii de [specialitate](https://www.dfmt.ro/modules.php?module=epress&id=87&lg=ro)/in acest [sens](https://www.dfmt.ro/modules.php?module=epress&id=88&lg=ro).
 
