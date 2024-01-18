@@ -21,11 +21,10 @@ ori folosind [serviciul online MFP care ofera informatii despre persoanele jurid
 ## 1. **[Factura electronica](https://www.contact.info.ro/ghid-e-factura-la-anaf/)** [eFactura](https://www.anaf.ro/anaf/internet/ANAF/despre_anaf/strategii_anaf/proiecte_digitalizare/e.factura):
 <details>
 
-Pentru cei grabiti [reddit](https://www.reddit.com/r/programare/comments/18c3bg8/implementare_serviciu_efactura/) a pus la dispozitie cateva URL-uri utile legate de ANAF:
-<details>
+Pentru cei grabiti [reddit](https://www.reddit.com/r/programare/comments/18c3bg8/implementare_serviciu_efactura/) a pus la dispozitie cateva URL-uri utile legate de ANAF: <details>
   1.URL Api incarcare Factura - https://mfinante.gov.ro/static/10/eFactura/upload.html
   
-  2.URL Obtinere Id descarcare - https://mfinante.gov.ro/static/10/eFactura/staremesaj.html#/
+  2.URL Obtinere Id descarcare - https://mfinante.gov.ro/static/10/eFactura/staremesaj.html#/ 
   
   3.URL Api descarcare Factura - https://mfinante.gov.ro/static/10/eFactura/descarcare.html
   
