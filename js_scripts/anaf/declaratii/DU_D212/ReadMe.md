@@ -44,6 +44,7 @@ Iata cum am procedat:
 Desigur acest document .xsd inca este destul de complex dar daca descarcati si [formularul PDF aferent DU](https://static.anaf.ro/static/10/Anaf/Declaratii_R/AplicatiiDec/dclUnica_2024-v1.0.0_10012024.pdf) si [le comparati sau le priviti in oglinda](https://stefanache.github.io/MFP-ANAF-RO/js_scripts/anaf/declaratii/DU_D212/dclUnica_2024-v1.0.0_10012024.pdf) veti avea o imagine mult mai clara aupra datelor xml ce urmeaza sa le asociati formularului(ce trebuiesc introduse in formular)
 
 *Nota*
+
 Pentru vizualizarea fisierului formularului PDF am folosit Microsoft Edge pe un ecran si pe celelat ecran am folosit Chrome pentru a vedea fisierul xsd(modificat cami sus pentru a putea fi "human-readable").
 De asemena puteti instala extensii de browser pentru a vizualiza direct in browser aceste fisiere dar in acest caz vedeti ce permisiuni trebuiesc setate.
 
