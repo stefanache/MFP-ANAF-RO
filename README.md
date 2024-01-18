@@ -379,7 +379,9 @@ Trebuie citit cu atentie carui segment de aplicatii i se adreseaza si in general
 In cazul in care ati gresit ceva atunci cand ati completat o declaratie sau alta trebuie sa stiti ca puteti apela si la corectii. Informatiile legate de [declaratiile rectificative  ](https://www.totalaudit.ro/corectarea-declaratiilor-fiscale/) sunt mai rar intalnite dar nu lipsesc cu desavirsire.
 
 Pentru cei interesati sau care trebui sa depuna Declaratia de Avere si Interese([DAI](https://dai.integritate.eu/docs/manual_deponent.pdf)) puteti studia acest manual.
-Daca aveti nevoie de certificat digital pt semnatura electronica puteti studia acest [ghid TSP](https://www.transsped.ro/files/ghiduri/ro/token/TS_Ghid%20pentru%20utilizarea%20certificatului%20calificat%20la%20depunerea%20declaratiilor%20fiscale%20la%20ANAF.pdf)
+Daca aveti nevoie de [certificat digital](https://certdigital.ro/wp-content/uploads/2020/08/OrdinMEF858-2008.pdf) pt semnatura electronica puteti studia acest [ghid TSP](https://www.transsped.ro/files/ghiduri/ro/token/TS_Ghid%20pentru%20utilizarea%20certificatului%20calificat%20la%20depunerea%20declaratiilor%20fiscale%20la%20ANAF.pdf)
+
+Remarcabil este si faptul ca aceste declaratii au un numar desigur dar si un [cod](https://certdigital.ro/wp-content/uploads/2020/08/OrdinMEF858-2008.pdf).
 
 Va invit sa consultati si directorul "js_scripts/anaf/declaratii/DU_D212/" si sa cititi ["ReadMe.md"](https://github.com/stefanache/MFP-ANAF-RO/blob/main/js_scripts/anaf/declaratii/DU_D212/ReadMe.md) deoarece veti putea afla detalii cu privire la modul in care se pot citi fisierele XSD in mod "prietenos" pentru a va completa informatiile cu privire la completarea corecta a formularului cu date astfel sa puteti trece cu bine de validarile acestuia.
 
