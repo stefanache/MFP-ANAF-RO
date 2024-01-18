@@ -38,7 +38,13 @@ Pentru cei grabiti [reddit](https://www.reddit.com/r/programare/comments/18c3bg8
         
           7.ANAF OAUTH - https://static.anaf.ro/static/10/Anaf/Informatii_R/API/Oauth_procedura_inregistrare_aplicatii_portal_ANAF.pdf
 
+          ....si cateva link-uri bonus:
+          
           8.OASIS UBL: https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=ubl
+
+          9. exemplu catalan de factura UBL2.1: https://gist.github.com/evervasquez/28ad8389396b4cea359ca20586a5343d
+
+          10. proiectul OpenUBL: https://gist.github.com/evervasquez/28ad8389396b4cea359ca20586a5343d
           
 </details>
 
