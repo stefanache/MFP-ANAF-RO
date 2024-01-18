@@ -377,7 +377,7 @@ In cazul in care ati gresit ceva atunci cand ati completat o declaratie sau alta
 
 Va invit sa consultati si directorul "js_scripts/anaf/declaratii/DU_D212/" si sa cititi ["ReadMe.md"](https://github.com/stefanache/MFP-ANAF-RO/blob/main/js_scripts/anaf/declaratii/DU_D212/ReadMe.md) deoarece veti putea afla detalii cu privire la modul in care se pot citi fisierele XSD in mod "prietenos" pentru a va completa informatiile cu privire la completarea corecta a formularului cu date astfel sa puteti trece cu bine de validarile acestuia.
 
-In finalul acestei sectiuni as vrea sa mai spun ca si [institutiile publice](https://www.portalinstitutiipublice.ro/calendar/2023/02/) au de depus declaratii la ANAF
+In finalul acestei sectiuni as vrea sa mai spun ca si [institutiile publice](https://www.portalinstitutiipublice.ro/calendar/2023/02/) au de depus [declaratii/rapoarte](https://static.anaf.ro/static/10/Anaf/Declaratii_R/1020_2013.html) la ANAF
 
 </details>
 
