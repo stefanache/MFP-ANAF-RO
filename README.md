@@ -325,6 +325,9 @@ In acesta sectiune sa incepem prin a ne referi la [Impozitul pe Venit](https://s
 - Vânzarea unei locuinţe
   
 Pentru fiecare activitate veti avea si [formularul sau formularele pt Impozitul pe Venit](https://static.anaf.ro/static/10/Anaf/Contribuabili/scurt_ghid.htm).
+
+[Anumite declaratii](https://static.anaf.ro/static/10/Anaf/Declaratii_R/200.html) au suport software, instructiuni si documentatie.
+
 </details>
 
  ## 5. [**MFP**](https://mfinante.gov.ro/domenii) - factor integrator:
