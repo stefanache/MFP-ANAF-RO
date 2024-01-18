@@ -360,6 +360,8 @@ Orice fel de sprijin in acest sens este binevenit dar trebuie a fiti atenti si l
 Desigur mai toate informatiile neoficiale sunt cu titlu [rezervat](https://www.alfasign.ro/instructiuni/3.Instructiunidepuneredeclaratiionline.pdf) si trebuiesc intotdeauna verificate din surse oficiale ANAF.
 Asa incat mai toate cautarile noastre de verificare pe internet trebuiesc sa inceapa cu cuvinte cheie ANAF, MFP, GOV... si desigur sa se refere la cele scrise in limba romana.
 
+In tot acest peisaj al declaratiilor avem deseori ocazia sa vedem articole legate de Declaratia Unica([DU](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/Despre_DU_2023.pdf): [D212](https://static.anaf.ro/static/10/Anaf/Declaratii_R/declaratie_unica.html)). Aici lucrurile se complica si mai mult pentru ca sunt mai multe tipizate pe acest palier.
+Trebuie citit cu atentie carui segment de aplicati i se adreseaza si in general tot contextul legat de un formular sau altul care se refera la acest tip de declaratie(de altfel foarte special)
 
 </details>
 
