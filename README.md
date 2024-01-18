@@ -348,6 +348,8 @@ Oricum trebuie pornit de la [calendarul si termene de depunere] a acestor declar
 Unele [platforme comerciale](https://www.tdec.ro/) au [extensii](https://www.sagasoft.ro/declaratii-ANAF.php) ale solutiilor lor software care se ocupa de aceste declaratii ANAF
 
 Daca pentru depunere este nevoie de certificat calificat probabil ca va trebui sa accesati [formularul 150](https://www.anaf.ro/inregcalificat/)
+
+Unele agentii(ex. [AFM](https://online.afm.ro/)) pe partea lor de competenta vin si ele in sprijinul acestei activitati de depunere online cu suportul lor informatic specific.
 </details>
 
  ## 5. [**MFP**](https://mfinante.gov.ro/domenii) - factor integrator:
