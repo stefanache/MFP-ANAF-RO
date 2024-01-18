@@ -21,7 +21,7 @@ ori folosind [serviciul online MFP care ofera informatii despre persoanele jurid
 ## 1. **[Factura electronica](https://www.contact.info.ro/ghid-e-factura-la-anaf/)** [eFactura](https://www.anaf.ro/anaf/internet/ANAF/despre_anaf/strategii_anaf/proiecte_digitalizare/e.factura):
 <details>
 
-Pentru cei grabiti [reddit](https://www.reddit.com/r/programare/comments/18c3bg8/implementare_serviciu_efactura/) a pus la dispozitie cateva URL-uri utile legate de ANAF: <details>
+Pentru cei grabiti [reddit](https://www.reddit.com/r/programare/comments/18c3bg8/implementare_serviciu_efactura/) a pus la dispozitie cateva URL-uri utile legate de ANAF: <URLs>
   1.URL Api incarcare Factura - https://mfinante.gov.ro/static/10/eFactura/upload.html
   
   2.URL Obtinere Id descarcare - https://mfinante.gov.ro/static/10/eFactura/staremesaj.html#/ 
@@ -35,7 +35,7 @@ Pentru cei grabiti [reddit](https://www.reddit.com/r/programare/comments/18c3bg8
   6.URL XML to PDF - https://mfinante.gov.ro/static/10/eFactura/xmltopdf.html
 
   7.ANAF OAUTH - https://static.anaf.ro/static/10/Anaf/Informatii_R/API/Oauth_procedura_inregistrare_aplicatii_portal_ANAF.pdf
-</details>
+</URLs>
 
 [Prezinta](https://media.hotnews.ro/media_server1/document-2023-12-30-26789013-0-prezentare-factura.pdf) un deosebit [interes](https://www.youtube.com/watch?v=BkD_m5oncR8&ab_channel=MinisterulFinantelor) relativ la [facturarea electronica](https://mfinante.gov.ro/static/10/Mfp/ghidE-FACTURA.pdf) aceasta [prezentare ANAF a sistemului eFactura](https://mfinante.gov.ro/static/10/eFactura/PrezentareE-factura.pdf)
 
