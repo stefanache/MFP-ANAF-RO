@@ -46,6 +46,8 @@ Desigur acest document .xsd inca este destul de complex dar daca descarcati si [
 Dar in acest caz pentru ca aveti structura formularului(structura_declaratieUnica_2024_v1.0.0_10012024.pdf)  atunci cred ca mult mai util este sa-l consultati in oglinda(in paralel cu fisierul .xsd) si pe acesta. Structura DU/D212 o puteti descarca pentru acest caz particular de la [ANAF](https://static.anaf.ro/static/10/Anaf/Declaratii_R/AplicatiiDec/structura_declaratieUnica_2024_v1.0.0_10012024.pdf).
 
 Am facut si eu acest lucru si l-am [descarcat](https://static.anaf.ro/static/10/Anaf/Declaratii_R/AplicatiiDec/structura_declaratieUnica_2024_v1.0.0_10012024.pdf) astfel ca-l puteti [consulta](https://stefanache.github.io/MFP-ANAF-RO/js_scripts/anaf/declaratii/DU_D212/structura_declaratieUnica_2024_v1.0.0_10012024.pdf) in browser-ul dumnevoastra.
+Mentionez ca acest fisier PDF este "read-only"(poate fi doar citit) si nu necesita setati sau permisiuni speciale.
+Acest fisier "read-only" PDF este scris/emis/editat in format traditional/clasic si nu este un "document inteligent" adica nu are nevoie de un fisier XML asociat in care sa fie validate(utilizand schema d212_20240110.xsd) si apoi preluate/stocate datele introduse de catre utilizatorul care completeaza datele in formularul acesta PDF(cum este cazul fisierului dclUnica_2024-v1.0.0_10012024.pdf)
 
 *Nota*
 
