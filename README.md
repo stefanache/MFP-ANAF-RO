@@ -341,7 +341,7 @@ Descarcarea [artefactelor  privind suportul informatic](https://www.anaf.ro/anaf
 
 [Depunerea online] este in general dcocumentata de ghiduri, instructiuni,formulare...care contin meta-informatii(chiar si din sfera [bazei](https://lege5.ro/App/calendar) [legale](https://termene.ro/articole/ce-se-intampla-cu-o-firma-daca-nu-depune-declaratiile-fiscale-pasii-pentru-depunerea-online-a-declaratiilor-fiscale) de un real folos.
 
-Referiot la acest subiect, uneori gasiti pagini sau mesaje cu un continut destul de [succint](https://ateliercontabilitate.ro/ce-optiuni-avem-pentru-depunerea-declaratiilor-anaf/), alteori acestui subiect i se dedica spatii online [generoase](https://www.avocatnet.ro/articol_22144/Ghid-pentru-depunerea-online-a-declaratiilor-fiscale-Ce-pasi-trebuie-urmati.html)
+Referitor la acest subiect, uneori gasiti pagini sau[ mesaje] ce poseda un continut destul de [succint](https://ateliercontabilitate.ro/ce-optiuni-avem-pentru-depunerea-declaratiilor-anaf/), alteori acestui subiect i se dedica spatii online [generoase](https://www.avocatnet.ro/articol_22144/Ghid-pentru-depunerea-online-a-declaratiilor-fiscale-Ce-pasi-trebuie-urmati.html)
 
 Oricum trebuie pornit de la [calendarul si termene de depunere] a acestor declaratii inainte de orice demers.
 
