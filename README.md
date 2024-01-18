@@ -350,6 +350,8 @@ Unele [platforme comerciale](https://www.tdec.ro/) au [extensii](https://www.sag
 Daca pentru depunere este nevoie de certificat calificat probabil ca va trebui sa accesati [formularul 150](https://www.anaf.ro/inregcalificat/)
 
 Unele agentii(ex. [AFM](https://online.afm.ro/)) pe partea lor de competenta vin si ele in sprijinul acestei activitati de [depunere online](https://static.anaf.ro/static/10/Anaf/depunere_declaratii/manuale/Instr_decl_electr_1.9.13.pdf) cu suportul lor informatic specific.
+
+Chiar si [bancile](https://www.raiffeisenfonduri.ro/wps/wcm/connect/ramv2/199797b7-26ad-4d4d-8a1e-8d2970be354c/Ghid+depunere+Declaratie+Unica+2023.pdf?MOD=AJPERES) vin in sprijinul clientilor cu informatii importante legate/privind  de activitatea de depunere a anumitor declaratii
 </details>
 
  ## 5. [**MFP**](https://mfinante.gov.ro/domenii) - factor integrator:
