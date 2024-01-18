@@ -328,6 +328,9 @@ Pentru fiecare activitate veti avea si [formularul sau formularele pt Impozitul 
 
 [Anumite declaratii](https://static.anaf.ro/static/10/Anaf/Declaratii_R/200.html) au suport software, instructiuni si documentatie.
 
+Declaratiile se supun unei legislatii sau alta si in general gasiti instructiuni generale sau [specifice](https://static.anaf.ro/static/10/Anaf/Declaratii_R/instructiuni/instructiuni2.0.htm) privind depunerea acestora
+pe internet sau pe site-ul ANAF.
+
 </details>
 
  ## 5. [**MFP**](https://mfinante.gov.ro/domenii) - factor integrator:
