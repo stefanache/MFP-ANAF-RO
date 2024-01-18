@@ -280,6 +280,8 @@ Si [buna practica a unor provideri de suport fiscal](https://www.docs.nexuserp.r
 
 [Depunerea online] este in general dcocumentata de ghiduri, instructiuni,formulare...care contin meta-informatii de un real folos.
 
+Oricum trebuie pornit de la [calendarul si termene de depunere] a acestor declaratii inainte de orice demers.
+
 </details>
 
  ## 3. [**eTransport**](https://mfinante.gov.ro/ro/web/etransport)
