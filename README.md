@@ -353,7 +353,7 @@ Unele agentii(ex. [AFM](https://online.afm.ro/)) pe partea lor de competenta vin
 
 Chiar si [bancile](https://www.raiffeisenfonduri.ro/wps/wcm/connect/ramv2/199797b7-26ad-4d4d-8a1e-8d2970be354c/Ghid+depunere+Declaratie+Unica+2023.pdf?MOD=AJPERES) vin in sprijinul clientilor cu informatii importante legate/privind  de activitatea de depunere a anumitor declaratii.
 
-Orice fel de sprijin in acest sens este binevenit dar trebuie a fiti atenti si la [versiunea](https://static.anaf.ro/static/10/Anaf/Declaratii_R/S1001/Ghid-v2.pdf) acestor publicatii acolo unde aceasta va este la indemana sau macar sa va uitati la [data publicarii](https://www.startupcafe.ro/taxe/taxe-calendar-anaf-declaratii-fiscale-noiembrie-2023.htm) acestor articole(desigur important ramane si autorul acestora) deoarece acest context(legat de declaratii) este in continua schimbare si este posibil ca anumite informatii sa se fi depreciat.
+Orice fel de sprijin in acest sens este binevenit dar trebuie a fiti atenti si la [versiunea](https://static.anaf.ro/static/10/Anaf/Declaratii_R/S1001/Ghid-v2.pdf) acestor publicatii acolo unde aceasta va este la indemana sau macar sa va uitati la [data publicarii](https://www.startupcafe.ro/taxe/taxe-calendar-anaf-declaratii-fiscale-noiembrie-2023.htm) acestor articole(desigur important ramane si autorul acestora) deoarece acest [laborios context](https://www.dex.ro/laborios)(legat de declaratii) este in continua schimbare si este posibil ca anumite informatii sa se fi depreciat.
 
 </details>
 
