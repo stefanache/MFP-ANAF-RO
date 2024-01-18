@@ -381,6 +381,7 @@ Trebuie citit cu atentie carui segment de aplicatii i se adreseaza si in general
 In cazul in care ati gresit ceva atunci cand ati completat o declaratie sau alta trebuie sa stiti ca puteti apela si la corectii. Informatiile legate de [declaratiile rectificative  ](https://www.totalaudit.ro/corectarea-declaratiilor-fiscale/) sunt mai rar intalnite dar nu lipsesc cu desavirsire.
 
 Pentru cei interesati sau care trebui sa depuna [Declaratia de Avere si Interese](https://sgg.gov.ro/1/wp-content/uploads/2016/04/PS-privind-gestionarea-declaratiilor-de-avere-si-de-interese-00000003.pdf)([DAI](https://dai.integritate.eu/docs/manual_deponent.pdf)) puteti studia acest manual. Si cei de la [ANI](https://ani.md/ro/node/62) au pe site-ul lor informatii privind depunerea DAI.
+Si [AEP](https://www.roaep.ro/prezentare/wp-content/uploads/2020/05/Ghid_DA_DI_AEP.pdf) are un ghid sintetic despre DAI.
 
 Daca aveti nevoie de [certificat digital](https://certdigital.ro/wp-content/uploads/2020/08/OrdinMEF858-2008.pdf) pt semnatura electronica puteti studia acest [ghid TSP](https://www.transsped.ro/files/ghiduri/ro/token/TS_Ghid%20pentru%20utilizarea%20certificatului%20calificat%20la%20depunerea%20declaratiilor%20fiscale%20la%20ANAF.pdf)
 
