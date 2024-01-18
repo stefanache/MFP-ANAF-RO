@@ -302,7 +302,7 @@ Sunt multe [surse de informare](https://www.euload.com/blog.view.php?id=61) dar 
  ## 4. [**Declaratii; Impozitul pe Venit ori pe Profit, TVA, Accize,...**](https://static.anaf.ro/static/10/Anaf/Contribuabili/scurt_ghid.htm)
 <details>
 
-Cateva exemple de astfel de declaratii gasiti si pe [github](https://github.com/IncrementalCommunity/declaratii-anaf/tree/master/examples). O prima observatie ar fi ca in fisierul PDF avem formularul necompletat iar datele sunt separat stocate intr-un fisier xml asociat.
+Cateva exemple de astfel de declaratii gasiti si pe [github](https://github.com/IncrementalCommunity/declaratii-anaf/tree/master/examples). O prima observatie ar fi ca in fisierul PDF avem formularul necompletat iar datele sunt separat stocate intr-un fisier xml asociat.La final putei obtine un fisier cuompletat cu datele aferente.
 
 Pe site-ul ANAF veti regasi o sumedenie de [alte](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/Calendar/Calendar_obligatii_fiscale_2024.htm) [declaratii](https://www.anaf.ro/anaf/internet/ANAF/asistenta_contribuabili/declararea_obligatiilor_fiscale/toate_formularele/) specifice fiecarei [obligatii de control/raportare fiscal(a)](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/Calendar/Calendar_obligatii_fiscale_2023.htm) in parte si desigur veti dori un [suport](https://static.anaf.ro/static/10/Anaf/Declaratii_R/112.html) [informatic](https://www.tdec.ro/) si pentru acestea.
   
