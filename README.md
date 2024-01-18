@@ -333,7 +333,7 @@ Pentru fiecare activitate veti avea si [formularul sau formularele pt Impozitul 
 Declaratiile se supun unei legislatii sau alta si in general gasiti instructiuni generale sau [specifice](https://static.anaf.ro/static/10/Anaf/Declaratii_R/instructiuni/instructiuni2.0.htm) privind depunerea acestora
 pe internet sau pe site-ul ANAF.
 
-Treuiesc urmarite aceste instructiuni de [depunere online](https://static.anaf.ro/static/10/Anaf/depunere_declaratii/manuale/Instr_decl_electr_1.9.13.pdf) a acestor [documente electronice](https://www.anaf.ro/anaf/internet/ANAF/servicii_online/declaratii_electronice/inreg_utiliz_pf) deoarece va arata clar pasii care trebuiesc urmati pentru acest demers.
+Treuiesc urmarite anumite [instructiuni](https://www.anaf.ro/anaf/internet/MariContribuabili/ajutor_stat/depunere_on_line/!ut/p/a1/pZBNC4JAEIZ_jVdnVPyom4fANkGlTNtLaNgqqCu65d9PPSWYBc1thueBd16gEAOtk2fBElHwOinHnRpXR3EMR7VU4vmhhgEJiK1v9goG2gBc3gH0zjsM3IOpu_5JtY7mf76n_ebjh7Hxmx8BnSMLH6wCY8QJWMlAgLKSp1OfF7tONYsBbbN71mat_GiHcy5E020llLDve5lxzspMvvFKwiUl552AeE5CU4VhjIVfRVb3AnqMM-8!/dl5/d5/L2dBISEvZ0FBIS9nQSEh/) de [depunere online](https://static.anaf.ro/static/10/Anaf/depunere_declaratii/manuale/Instr_decl_electr_1.9.13.pdf) ale acestor [documente electronice](https://www.anaf.ro/anaf/internet/ANAF/servicii_online/declaratii_electronice/inreg_utiliz_pf) deoarece va arata clar pasii care trebuiesc urmati pentru acest demers.
 
 </details>
 
