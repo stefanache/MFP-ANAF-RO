@@ -11,5 +11,5 @@ Sunt insa [articole](https://stackoverflow.com/questions/237938/how-to-convert-x
 
 Unele articole va recomanda chiar produse software care va permit sa obtineti din acest fisier xsd un fisier html(xml2html),...
 
-Eu m-am oprit asupra acestui produs [xs3p](https://xml.fiforms.org/xs3p/) pe care l-am folosit pentru a documenta spre exemplul formularul D112.
+Eu m-am oprit asupra acestui produs [xs3p](https://xml.fiforms.org/xs3p/) pe care l-am folosit pentru a documenta spre exemplul formularul Ds12.
 
