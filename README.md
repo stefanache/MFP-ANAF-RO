@@ -282,7 +282,7 @@ Si [buna practica a unor provideri de suport fiscal](https://www.docs.nexuserp.r
 
 [Baza legala](https://www.fiscalitatea.ro/firmele-mijlocii-sunt-obligate-sa-depuna-d406-pentru-transmiterea-saf-t-din-anul-2023-iar-cele-mici-din-2025-21392/)  referiotare la D406/SAF-T](https://milo-trading.ro/wp-content/uploads/2018/09/Procedura-VALIDARE-si-CREARE-declaratie-A4200-DUKIntegrator.pdf) o puteti regasi pe site-ul [lege5](https://lege5.ro/App/Document/he3demzsgi3q/procedura-si-conditiile-de-transmitere-a-fisierului-standard-de-control-fiscal-saf-t-ordin-1783-2021?pid=428704960#p-428704960) (O.1783/2021).
 
-Cei de la [fiscalitate.ro](https://www.fiscalitatea.ro/) mi-au transmis si [Noutatile legislative din Codul fiscal aduse de L296/293](https://media.rs.ro/filemanagerraport/Fiscalitatea/Raport_special_NOUTATILE_din_CODUL_FISCAL_aduse_de_Legea_296.pdf)
+Cei de la [fiscalitatea.ro](https://www.fiscalitatea.ro/) mi-au transmis si [Noutatile legislative din Codul fiscal aduse de L296/293](https://media.rs.ro/filemanagerraport/Fiscalitatea/Raport_special_NOUTATILE_din_CODUL_FISCAL_aduse_de_Legea_296.pdf)
 </details>
 
  ## 3. [**eTransport**](https://mfinante.gov.ro/ro/web/etransport)
