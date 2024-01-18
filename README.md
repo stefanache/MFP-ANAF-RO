@@ -337,6 +337,8 @@ Treuiesc urmarite anumite [instructiuni](https://www.anaf.ro/anaf/internet/MariC
 
 Foarte utile sunt si [mesajele scurte](https://static.anaf.ro/static/10/Anaf/Declaratii_R/instructiuni/etape_depunere.htm) cu privire la pasii de urmat in cazul depunerii declaratiilor fiscale chiar daca unele se refara specific la unul sau o lista scurta de documente.
 
+Foarte utile sunt si paginile unor site-uri de specialitate care esplica mai in detaliu si mai specific cum se procedeaza in cazul depunerii acestor [documente electronice](https://www.erste-am.ro/ro/informatii-investitori/reglementari-legale/InstructiunidedepunereaDeclaratieiUnice)
+
 Descarcarea [artefactelor  privind suportul informatic](https://www.anaf.ro/anaf/internet/ANAF/servicii_online/decl_electronice/!ut/p/a1/jZHBboJAEIafpQeOMiMESnujjXYlGkuVFPdCwCzLJrhL1rWkPn1XT5JYdW4z-f6Zf2aAQg5Ulj-Cl0YoWbannIYFGZOQeJGXRFOcYIhRMl5mcx8xtMDmEkCSIqbB2-wr-PhEXPtD_RKzKabr1UtAnmO8r7fAQ3r8J2K85z95YICnF-8LDrQrTTMSslaQC6kZLw5GtOJYdDV8Ax02unKIm8Bp0zNwYxXrlbeqOr9lE8vKj6wpzWqmmXYP2pYbY7r9q4MO9n3vcqV4y9yt2jl4TdKovYF8SEK3y7L8OK9XsxGtfvunP4mKpHE!/dl5/d5/L2dBISEvZ0FBIS9nQSEh/) o gasiti cu usurinta pe site-ul ANAF.
 
 </details>
