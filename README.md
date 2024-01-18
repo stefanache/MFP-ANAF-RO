@@ -354,6 +354,7 @@ Unele [platforme comerciale](https://www.tdec.ro/) au [extensii](https://www.sag
 Daca pentru depunere este nevoie de [certificat calificat](https://static.anaf.ro/static/10/Anaf/Declaratii_R/Decl318/Cert_dig.htm) probabil ca va trebui sa accesati [formularul 150](https://www.anaf.ro/inregcalificat/)
 
 Unele agentii(ex. [AFM](https://online.afm.ro/)) pe partea lor de competenta vin si ele in sprijinul acestei activitati de [depunere online](https://static.anaf.ro/static/10/Anaf/depunere_declaratii/manuale/Instr_decl_electr_1.9.13.pdf) cu suportul lor informatic specific.
+Tot aici trebuie spus ca puteti gasi informatii oficiale legate de activitatea de depunere a rapoartelor fiscale si pe site-ul [SFS.md ](https://servicii.fisc.md/) dar atentie sa nu le confundati cu cele pentru Republica Moldova(care au domeniul .md).
 
 Chiar si [bancile](https://www.raiffeisenfonduri.ro/wps/wcm/connect/ramv2/199797b7-26ad-4d4d-8a1e-8d2970be354c/Ghid+depunere+Declaratie+Unica+2023.pdf?MOD=AJPERES) vin in sprijinul clientilor cu informatii importante legate/privind  de activitatea de depunere a anumitor declaratii.
 
