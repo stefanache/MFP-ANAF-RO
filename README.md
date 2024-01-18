@@ -251,6 +251,8 @@ Ulterior poteti folosi [generarea online a facturii in format PDF](https://www.a
 
 Dat fiind faptul ca avem un [context foarte volatil](https://devforum.ro/t/generare-efactura/19531) legat de aceasta activitate de raportare/control fiscal uneori vedem cum anumiti agenti/jucatori din sfera economicului dedica spatii ample transformand site-urile lor in adevarate [surse de stiri](https://www.cabinetexpert.ro/2024-01-05/declaratii-fiscale-cu-termen-limita-de-depunere-in-luna-ianuarie-2024-declaratii-obligatii-fiscale-pentru-luna-12-2023-trim-4-2023-si-anuale-2023.html)
 
+Pentru cei interesati de sistemul e-Factura din Rep. Moldova veti gasi pe site-ul [SFS](https://sfs.md/uploads/document/171/document/ghidul-utilizatorului-si-e-factura-616d032e9d05e.pdf) acest ghid.
+
 </details>
 
  ## 2. [**Declaratia 406 si 406T(SAF-T)**](https://www.homecont.ro/declaratia-d406-saf-t-fisierul-standard-de-control-fiscal.htm) ([D406](https://noagroup.ro/fisierul-standard-de-control-fiscal-saf-t-si-testarea-voluntara-pentru-incarcarea-declaratiei-d406t/) audit/control financiar); Sistemul [SAF-T](https://www.pwc.ro/ro/pwc-romania-digital/tax-technology/saf-t.html)
