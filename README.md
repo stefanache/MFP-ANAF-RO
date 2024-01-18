@@ -343,7 +343,7 @@ Descarcarea [artefactelor  privind suportul informatic](https://www.anaf.ro/anaf
 
 Referitor la acest subiect, uneori gasiti pagini sau[ mesaje] ce poseda un continut destul de [succint](https://ateliercontabilitate.ro/ce-optiuni-avem-pentru-depunerea-declaratiilor-anaf/), alteori acestui subiect i se dedica spatii online [generoase](https://www.avocatnet.ro/articol_22144/Ghid-pentru-depunerea-online-a-declaratiilor-fiscale-Ce-pasi-trebuie-urmati.html)
 
-Oricum trebuie pornit de la [calendarul si termene de depunere] a acestor declaratii inainte de orice demers.
+Oricum trebuie pornit/inceput de la/cu [calendarul si termene de depunere] a acestor [declaratii](https://infotva.manager.ro/articole/infotva/calendar-anaf-ce-declaratii-trebuie-depuse-pana-pe-9-ianuarie-2024-23177.html) inainte de orice demers.
 
 Unele [platforme comerciale](https://www.tdec.ro/) au [extensii](https://www.sagasoft.ro/declaratii-ANAF.php) ale solutiilor lor software care se ocupa de aceste declaratii ANAF
 
