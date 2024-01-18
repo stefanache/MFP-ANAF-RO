@@ -25,10 +25,20 @@ Iata cum am procedat:
 
   am adaugat/inserat linia urmatoare:
                       
-      ?xml-stylesheet type="text/xsl" href="xs3p.xsl"?>
+      <?xml-stylesheet type="text/xsl" href="https://stefanache.github.io/MFP-ANAF-RO/xs3p.xsl"?>
 
  astfel ca avem primele 2 linii astfel:
 
+       <?xml version="1.0" encoding="UTF-8"?>
+       <?xml-stylesheet type="text/xsl" href="https://stefanache.github.io/MFP-ANAF-RO/xs3p.xsl"?>
+
+       ...
+       
+
  (restul linii/randurilor ramanand neschimbate)
+
+ -apoi acest fisier poate fi deschis in orice browser obisnuit pentru a-i vedea continutul sau intr-un mod cat de cat mai prietenos.
+
+ 
 
  
