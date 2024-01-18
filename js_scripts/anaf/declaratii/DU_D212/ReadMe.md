@@ -39,7 +39,7 @@ Iata cum am procedat:
 
  -apoi acest fisier poate fi deschis in orice browser obisnuit pentru a-i vedea continutul sau intr-un mod cat de cat mai prietenos:
 
-  in cazul meu: [https://stefanache.github.io/MFP-ANAF-RO/js_scripts/anaf/declaratii/DU_D212/d212_20240110.xsd](https://stefanache.github.io/)
+  in cazul meu: [https://stefanache.github.io/MFP-ANAF-RO/js_scripts/anaf/declaratii/DU_D212/d212_20240110.xsd](https://stefanache.github.io/MFP-ANAF-RO/js_scripts/anaf/declaratii/DU_D212/d212_20240110.xsd)
  
 
  
