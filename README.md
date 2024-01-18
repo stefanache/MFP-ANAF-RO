@@ -331,7 +331,7 @@ Pentru fiecare activitate veti avea si [formularul sau formularele pt Impozitul 
 Declaratiile se supun unei legislatii sau alta si in general gasiti instructiuni generale sau [specifice](https://static.anaf.ro/static/10/Anaf/Declaratii_R/instructiuni/instructiuni2.0.htm) privind depunerea acestora
 pe internet sau pe site-ul ANAF.
 
-Treuiesc urmarite aceste instructiuni de [depunere online](https://static.anaf.ro/static/10/Anaf/depunere_declaratii/manuale/Instr_decl_electr_1.9.13.pdf) a acestor documente deoarece va arata clar pasii care trebuiesc urmati pentru acest demers.
+Treuiesc urmarite aceste instructiuni de [depunere online](https://static.anaf.ro/static/10/Anaf/depunere_declaratii/manuale/Instr_decl_electr_1.9.13.pdf) a acestor [documente electronice](https://www.anaf.ro/anaf/internet/ANAF/servicii_online/declaratii_electronice/inreg_utiliz_pf) deoarece va arata clar pasii care trebuiesc urmati pentru acest demers.
 
 </details>
 
