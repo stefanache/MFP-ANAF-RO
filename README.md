@@ -26,27 +26,27 @@ Pentru cei grabiti [reddit](https://www.reddit.com/r/programare/comments/18c3bg8
 
           ...pentru inceput cateva link-uri interne/nationale:
           
-          1.URL [Api incarcare](https://mfinante.gov.ro/static/10/eFactura/upload.html) Factura - https://mfinante.gov.ro/static/10/eFactura/upload.html
-          
-          2.URL Obtinere [Id descarcare](https://mfinante.gov.ro/static/10/eFactura/staremesaj.html#/ ) - https://mfinante.gov.ro/static/10/eFactura/staremesaj.html#/ 
-          
-          3.URL [Api descarcare](https://mfinante.gov.ro/static/10/eFactura/descarcare.html) Factura - https://mfinante.gov.ro/static/10/eFactura/descarcare.html
-          
-          4.URL Interogare [Lista Mesaje](https://mfinante.gov.ro/static/10/eFactura/listamesaje.html#/) - https://mfinante.gov.ro/static/10/eFactura/listamesaje.html#/
-          
-          5.URL [Validare](https://mfinante.gov.ro/static/10/eFactura/validare.html#/) XML - https://mfinante.gov.ro/static/10/eFactura/validare.html#/
-          
-          6.URL XML to PDF( [XML2PDF](https://mfinante.gov.ro/static/10/eFactura/xmltopdf.html) ) - https://mfinante.gov.ro/static/10/eFactura/xmltopdf.html
-        
-          7.ANAF [OAUTH](https://static.anaf.ro/static/10/Anaf/Informatii_R/API/Oauth_procedura_inregistrare_aplicatii_portal_ANAF.pdf) - https://static.anaf.ro/static/10/Anaf/Informatii_R/API/Oauth_procedura_inregistrare_aplicatii_portal_ANAF.pdf
+1.URL [Api incarcare](https://mfinante.gov.ro/static/10/eFactura/upload.html) Factura - https://mfinante.gov.ro/static/10/eFactura/upload.html
+
+2.URL Obtinere [Id descarcare](https://mfinante.gov.ro/static/10/eFactura/staremesaj.html#/ ) - https://mfinante.gov.ro/static/10/eFactura/staremesaj.html#/ 
+
+3.URL [Api descarcare](https://mfinante.gov.ro/static/10/eFactura/descarcare.html) Factura - https://mfinante.gov.ro/static/10/eFactura/descarcare.html
+
+4.URL Interogare [Lista Mesaje](https://mfinante.gov.ro/static/10/eFactura/listamesaje.html#/) - https://mfinante.gov.ro/static/10/eFactura/listamesaje.html#/
+
+5.URL [Validare](https://mfinante.gov.ro/static/10/eFactura/validare.html#/) XML - https://mfinante.gov.ro/static/10/eFactura/validare.html#/
+
+6.URL XML to PDF( [XML2PDF](https://mfinante.gov.ro/static/10/eFactura/xmltopdf.html) ) - https://mfinante.gov.ro/static/10/eFactura/xmltopdf.html
+
+7.ANAF [OAUTH](https://static.anaf.ro/static/10/Anaf/Informatii_R/API/Oauth_procedura_inregistrare_aplicatii_portal_ANAF.pdf) - https://static.anaf.ro/static/10/Anaf/Informatii_R/API/Oauth_procedura_inregistrare_aplicatii_portal_ANAF.pdf
 
           ....si bonus cateva link-uri externe:
           
-          8.OASIS [UBL](https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=ubl): https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=ubl
+8.OASIS [UBL](https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=ubl): https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=ubl
 
-          9. exemplu catalan de [factura UBL2.1](https://gist.github.com/evervasquez/28ad8389396b4cea359ca20586a5343d): https://gist.github.com/evervasquez/28ad8389396b4cea359ca20586a5343d
+9. exemplu catalan de [factura UBL2.1](https://gist.github.com/evervasquez/28ad8389396b4cea359ca20586a5343d): https://gist.github.com/evervasquez/28ad8389396b4cea359ca20586a5343d
 
-          10. proiectul [OpenUBL]( https://gist.github.com/evervasquez/28ad8389396b4cea359ca20586a5343d): https://gist.github.com/evervasquez/28ad8389396b4cea359ca20586a5343d
+10. proiectul [OpenUBL]( https://gist.github.com/evervasquez/28ad8389396b4cea359ca20586a5343d): https://gist.github.com/evervasquez/28ad8389396b4cea359ca20586a5343d
           
 </details>
 
