@@ -278,6 +278,8 @@ Oricum este foarte important si util sa urmariti [comunicatele ANAF](https://sta
 
 Si [buna practica a unor provideri de suport fiscal](https://www.docs.nexuserp.ro/articol/configurare-e-factura-in-nexus-erp/3498) poate fi utila in a vedea cum se lucreaza cu aceste [nomenlcatoare](http://www.imatisoftware.ro/download.htm).
 
+[Depunerea online] este in general dcocumentata de ghiduri, instructiuni,formulare...care contin meta-informatii de un real folos.
+
 </details>
 
  ## 3. [**eTransport**](https://mfinante.gov.ro/ro/web/etransport)
