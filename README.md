@@ -278,10 +278,6 @@ Oricum este foarte important si util sa urmariti [comunicatele ANAF](https://sta
 
 Si [buna practica a unor provideri de suport fiscal](https://www.docs.nexuserp.ro/articol/configurare-e-factura-in-nexus-erp/3498) poate fi utila in a vedea cum se lucreaza cu aceste [nomenlcatoare](http://www.imatisoftware.ro/download.htm).
 
-[Depunerea online] este in general dcocumentata de ghiduri, instructiuni,formulare...care contin meta-informatii de un real folos.
-
-Oricum trebuie pornit de la [calendarul si termene de depunere] a acestor declaratii inainte de orice demers.
-
 </details>
 
  ## 3. [**eTransport**](https://mfinante.gov.ro/ro/web/etransport)
@@ -342,6 +338,12 @@ Foarte utile sunt si [mesajele scurte](https://static.anaf.ro/static/10/Anaf/Dec
 Foarte utile sunt si paginile unor site-uri de specialitate care esplica mai in detaliu si mai [specific](https://www.avocatnet.ro/t10659/depunere-declaratii-anaf.html) cum se procedeaza in cazul depunerii acestor [documente electronice](https://www.erste-am.ro/ro/informatii-investitori/reglementari-legale/InstructiunidedepunereaDeclaratieiUnice)
 
 Descarcarea [artefactelor  privind suportul informatic](https://www.anaf.ro/anaf/internet/ANAF/servicii_online/decl_electronice/!ut/p/a1/jZHBboJAEIafpQeOMiMESnujjXYlGkuVFPdCwCzLJrhL1rWkPn1XT5JYdW4z-f6Zf2aAQg5Ulj-Cl0YoWbannIYFGZOQeJGXRFOcYIhRMl5mcx8xtMDmEkCSIqbB2-wr-PhEXPtD_RKzKabr1UtAnmO8r7fAQ3r8J2K85z95YICnF-8LDrQrTTMSslaQC6kZLw5GtOJYdDV8Ax02unKIm8Bp0zNwYxXrlbeqOr9lE8vKj6wpzWqmmXYP2pYbY7r9q4MO9n3vcqV4y9yt2jl4TdKovYF8SEK3y7L8OK9XsxGtfvunP4mKpHE!/dl5/d5/L2dBISEvZ0FBIS9nQSEh/) o gasiti cu usurinta pe site-ul ANAF.
+
+[Depunerea online] este in general dcocumentata de ghiduri, instructiuni,formulare...care contin meta-informatii de un real folos.
+
+Oricum trebuie pornit de la [calendarul si termene de depunere] a acestor declaratii inainte de orice demers.
+
+Unele platforme comerciale au [extensii](https://www.sagasoft.ro/declaratii-ANAF.php) ale solutiilor lor software care se ocupa de aceste declaratii AANAF
 
 </details>
 
