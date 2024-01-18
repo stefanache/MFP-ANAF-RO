@@ -351,14 +351,14 @@ Oricum trebuie pornit/inceput de la/cu [calendarul](https://www.portalcontabilit
 
 Unele [platforme comerciale](https://www.tdec.ro/) au [extensii](https://www.sagasoft.ro/declaratii-ANAF.php) ale solutiilor lor software care se ocupa de aceste declaratii ANAF
 
-Daca pentru depunere este nevoie de [certificat calificat](https://static.anaf.ro/static/10/Anaf/Declaratii_R/Decl318/Cert_dig.htm) probabil ca va trebui sa accesati [formularul 150](https://www.anaf.ro/inregcalificat/)
+Daca pentru [depunere](https://ajutor.smartbill.ro/article/983-certificatul-digital-si-inregistrarea-firmei-tale-in-s-p-v) este nevoie de [certificat calificat digital](https://static.anaf.ro/static/10/Anaf/Declaratii_R/Decl318/Cert_dig.htm) probabil ca va trebui sa accesati [formularul 150](https://www.anaf.ro/inregcalificat/)
 
 Unele agentii(ex. [AFM](https://online.afm.ro/)) pe partea lor de competenta vin si ele in sprijinul acestei activitati de [depunere online](https://static.anaf.ro/static/10/Anaf/depunere_declaratii/manuale/Instr_decl_electr_1.9.13.pdf) cu suportul lor informatic specific.
 Tot aici trebuie spus ca este posibil sa gasiti pe internet  informatii oficiale legate de activitatea de depunere a rapoartelor fiscale si pe site-urile Rep. Moldova [SFS.md ](https://servicii.fisc.md/) dar atentie pentru ca acestea sunt uneori valabile doar pentru Republica Moldova(cele care au domeniul .md).
 
 Chiar si [bancile](https://www.raiffeisenfonduri.ro/wps/wcm/connect/ramv2/199797b7-26ad-4d4d-8a1e-8d2970be354c/Ghid+depunere+Declaratie+Unica+2023.pdf?MOD=AJPERES) vin in sprijinul clientilor cu informatii importante legate/privind  de activitatea de depunere a anumitor declaratii.
 
-Orice fel de sprijin in acest sens este binevenit dar trebuie a fiti atenti si la [versiunea](https://static.anaf.ro/static/10/Anaf/Declaratii_R/S1001/Ghid-v2.pdf) acestor publicatii acolo unde aceasta va este la indemana sau macar sa va uitati la [data publicarii](https://www.startupcafe.ro/taxe/taxe-calendar-anaf-declaratii-fiscale-noiembrie-2023.htm) acestor articole(desigur important ramane si autorul acestora) deoarece acest [laborios context](https://www.dex.ro/laborios)(legat de declaratii) este in continua schimbare si este posibil ca anumite informatii sa se fi depreciat.
+Orice fel de [sprijin](https://ateliercontabilitate.ro/ce-trebuie-sa-stii-la-depunerea-online-a-declaratiilor/) in acest sens este binevenit dar trebuie a fiti atenti si la [versiunea](https://static.anaf.ro/static/10/Anaf/Declaratii_R/S1001/Ghid-v2.pdf) acestor publicatii acolo unde aceasta va este la indemana sau macar sa va uitati la [data publicarii](https://www.startupcafe.ro/taxe/taxe-calendar-anaf-declaratii-fiscale-noiembrie-2023.htm) acestor articole(desigur important ramane si autorul acestora) deoarece acest [laborios context](https://www.dex.ro/laborios)(legat de declaratii) este in continua schimbare si este posibil ca anumite informatii sa se fi depreciat.
 
 Desigur mai toate informatiile neoficiale sunt cu titlu [rezervat](https://www.alfasign.ro/instructiuni/3.Instructiunidepuneredeclaratiionline.pdf) si trebuiesc intotdeauna verificate din surse oficiale ANAF.
 Asa incat mai toate cautarile noastre de verificare pe internet trebuiesc sa inceapa cu cuvinte cheie ANAF, MFP, GOV... si desigur sa se refere la cele scrise in limba romana.
