@@ -355,6 +355,10 @@ Chiar si [bancile](https://www.raiffeisenfonduri.ro/wps/wcm/connect/ramv2/199797
 
 Orice fel de sprijin in acest sens este binevenit dar trebuie a fiti atenti si la [versiunea](https://static.anaf.ro/static/10/Anaf/Declaratii_R/S1001/Ghid-v2.pdf) acestor publicatii acolo unde aceasta va este la indemana sau macar sa va uitati la [data publicarii](https://www.startupcafe.ro/taxe/taxe-calendar-anaf-declaratii-fiscale-noiembrie-2023.htm) acestor articole(desigur important ramane si autorul acestora) deoarece acest [laborios context](https://www.dex.ro/laborios)(legat de declaratii) este in continua schimbare si este posibil ca anumite informatii sa se fi depreciat.
 
+Desigur mai toate informatiile neoficiale sunt cu titlu [rezervat](https://www.alfasign.ro/instructiuni/3.Instructiunidepuneredeclaratiionline.pdf) si trebuiesc intotdeauna verificate din surse oficiale ANAF.
+Asa incat mai toate cautarile noastre de verificare pe internet trebuiesc sa inceapa cu cuvinte cheie ANAF, MFP, GOV... si desigur sa se refere la cele scrise in limba romana.
+
+
 </details>
 
  ## 5. [**MFP**](https://mfinante.gov.ro/domenii) - factor integrator:
