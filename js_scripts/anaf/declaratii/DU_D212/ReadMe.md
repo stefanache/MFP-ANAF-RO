@@ -1,0 +1,2 @@
+
+[Declaratia Unica D112](https://static.anaf.ro/static/10/Anaf/Declaratii_R/declaratie_unica.html) are suport informatic pe site-ul [ANAF](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/toate_formularele_30032017.htm)
