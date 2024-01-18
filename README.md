@@ -249,6 +249,8 @@ De asemenea daca cititi subiectul "Introducere" din documentatia DDDinvoices vet
  Uneori daca ai facturi foarte putine nu se merita sa investesti timp si bani intr-un sistem complex de gestionare si atunci poti lua decizia, de a lucra intr-un sistem de de generare a facturii mai primitiv,  urmand ca mai apoi sa incarci [manual] acest document XML in site-ul online al autoritatii fiscale(ANAF).
 Ulterior poteti folosi [generarea online a facturii in format PDF](https://www.anaf.ro/uploadxml/), desigur daca acest format grafic este adecvat cerintelor afacerii pe care o derulati si nu veti dori sa aveti propriul format dat fiind fie ca nu sunt suficiente informatii in factura xml fie ca aspectul grafic nu se ridica la asteptatile dumneavoastra.
 
+Dat fiind faptul ca avem un context foarte volatil legat de aceasta activitate de raportare/control fiscal uneori vedem cum anumiti agenti/jucatori din sfera economicului dedica spatii ample transformand site-urile lor in adevarate [surse de stiri](https://www.cabinetexpert.ro/2024-01-05/declaratii-fiscale-cu-termen-limita-de-depunere-in-luna-ianuarie-2024-declaratii-obligatii-fiscale-pentru-luna-12-2023-trim-4-2023-si-anuale-2023.html)
+
 </details>
 
  ## 2. [**Declaratia 406 si 406T(SAF-T)**](https://www.homecont.ro/declaratia-d406-saf-t-fisierul-standard-de-control-fiscal.htm) ([D406](https://noagroup.ro/fisierul-standard-de-control-fiscal-saf-t-si-testarea-voluntara-pentru-incarcarea-declaratiei-d406t/) audit/control financiar); Sistemul [SAF-T](https://www.pwc.ro/ro/pwc-romania-digital/tax-technology/saf-t.html)
