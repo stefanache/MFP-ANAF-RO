@@ -9,7 +9,7 @@ Desigur puteti deschide acest fisier intr-un editor obisnuit (optiunea click dre
 
 Sunt insa [articole](https://stackoverflow.com/questions/237938/how-to-convert-xsd-to-human-readable-documentation) pe internet care va ajuta sa faceti acest fisier citibil sau documentabil.
 
-Unele articole va recomanda chiar produse software care va permit sa obtineti din acest fisier xsd un fisier html(xml2html),...
+Unele articole va recomanda chiar produse software care va permit sa obtineti din acest fisier sursa .xsd un alt fisier destinatie cum ar fi html(xml2html),...
 
 Eu m-am oprit asupra acestui produs [xs3p](https://xml.fiforms.org/xs3p/) pe care l-am folosit pentru a documenta spre exemplul formularul D212.
 
@@ -48,7 +48,7 @@ Desigur acest document .xsd inca este destul de complex dar daca descarcati si [
 Pentru vizualizarea fisierului formularului PDF am folosit Microsoft Edge pe un ecran si pe celelat ecran am folosit Chrome pentru a vedea fisierul xsd(modificat cami sus pentru a putea fi "human-readable").
 Oricum folosind  [Acrobat Reader](http://www.adobe.com/go/acrreader) cu siguranta veti reusi sa accesati fisierul PDF si desigur ar trebui sa-l si puteti edita.
 
-De asemenea puteti instala extensii de/pt browser[-ul] pentru a vizualiza direct in browser aceste fisiere(.PDF) dar in acest caz vedeti ce permisiuni trebuiesc setate.
+De asemenea puteti instala extensii de/pt browser(-ul) pentru a vizualiza direct in browser aceste fisiere(.PDF) dar in acest caz vedeti ce permisiuni trebuiesc setate.
 
 Pentru  fisierul asociat .XSD(modificat pt a avea "style-sheet"-ul oferit/conferit de xs3p.xsl) fiind vizualizabil direct in Browser nu trebuie sa intreprindeti nimic in plus deoarece broaserele in mod nativ pot deschide orice fisier xml(inclusiv acesta .xsd)
 
