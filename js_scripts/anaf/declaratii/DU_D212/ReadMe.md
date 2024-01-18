@@ -43,6 +43,10 @@ Iata cum am procedat:
  
 Desigur acest document .xsd inca este destul de complex dar daca descarcati si [formularul PDF aferent DU](https://static.anaf.ro/static/10/Anaf/Declaratii_R/AplicatiiDec/dclUnica_2024-v1.0.0_10012024.pdf) si [le comparati sau le priviti in oglinda](https://stefanache.github.io/MFP-ANAF-RO/js_scripts/anaf/declaratii/DU_D212/dclUnica_2024-v1.0.0_10012024.pdf) veti avea o imagine mult mai clara aupra datelor xml ce urmeaza sa le asociati/map-ati formularului(ce trebuiesc introduse in formular)
 
+Dar in acest caz pentru ca aveti structura formularului(structura_declaratieUnica_2024_v1.0.0_10012024.pdf)  atunci cred ca mult mai util este sa-l consultati in oglinda(in paralel cu fisierul .xsd) si pe acesta. Structura DU/D212 o puteti descarca pentru acest caz particular de la [ANAF](https://static.anaf.ro/static/10/Anaf/Declaratii_R/AplicatiiDec/structura_declaratieUnica_2024_v1.0.0_10012024.pdf).
+
+Am facut si eu acest lucru si l-am [descarcat](https://static.anaf.ro/static/10/Anaf/Declaratii_R/AplicatiiDec/structura_declaratieUnica_2024_v1.0.0_10012024.pdf) astfel ca-l puteti [consulta](https://stefanache.github.io/MFP-ANAF-RO/js_scripts/anaf/declaratii/DU_D212/structura_declaratieUnica_2024_v1.0.0_10012024.pdf) in browser-ul dumnevoastra.
+
 *Nota*
 
 Pentru vizualizarea fisierului formularului PDF am folosit Microsoft Edge pe un ecran si pe celelat ecran am folosit Chrome pentru a vedea fisierul xsd(modificat cami sus pentru a putea fi "human-readable").
