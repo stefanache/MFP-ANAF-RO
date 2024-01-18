@@ -333,7 +333,7 @@ pe internet sau pe site-ul ANAF.
 
 Treuiesc urmarite anumite [instructiuni](https://www.anaf.ro/anaf/internet/MariContribuabili/ajutor_stat/depunere_on_line/!ut/p/a1/pZBNC4JAEIZ_jVdnVPyom4fANkGlTNtLaNgqqCu65d9PPSWYBc1thueBd16gEAOtk2fBElHwOinHnRpXR3EMR7VU4vmhhgEJiK1v9goG2gBc3gH0zjsM3IOpu_5JtY7mf76n_ebjh7Hxmx8BnSMLH6wCY8QJWMlAgLKSp1OfF7tONYsBbbN71mat_GiHcy5E020llLDve5lxzspMvvFKwiUl552AeE5CU4VhjIVfRVb3AnqMM-8!/dl5/d5/L2dBISEvZ0FBIS9nQSEh/) de [depunere online](https://static.anaf.ro/static/10/Anaf/depunere_declaratii/manuale/Instr_decl_electr_1.9.13.pdf) ale acestor [documente electronice](https://www.anaf.ro/anaf/internet/ANAF/servicii_online/declaratii_electronice/inreg_utiliz_pf) deoarece va arata clar pasii care trebuiesc urmati pentru acest demers.
 
-Foarte utile sunt si [mesajele scurte](https://static.anaf.ro/static/10/Anaf/Declaratii_R/instructiuni/etape_depunere.htm) cu privire la pasii de urmat in cazul depunerii declaratiilor fiscale chiar daca unele se refara specific la unul sau o lista scurta de documente.
+Foarte utile sunt si [mesajele scurte](https://static.anaf.ro/static/10/Anaf/Declaratii_R/instructiuni/etape_depunere.htm) cu privire la pasii de urmat in cazul depunerii declaratiilor fiscale chiar daca unele se refara specific la unul sau o [lista scurta de documente electronice](https://www.wolterskluwer.com/ro-ro/expert-insights/formulare-100-710-dragos).
 
 Foarte utile sunt si paginile unor site-uri de specialitate care esplica mai in detaliu si mai [specific](https://www.avocatnet.ro/t10659/depunere-declaratii-anaf.html) cum se procedeaza in cazul depunerii acestor [documente electronice](https://www.erste-am.ro/ro/informatii-investitori/reglementari-legale/InstructiunidedepunereaDeclaratieiUnice)
 
@@ -351,7 +351,10 @@ Daca pentru depunere este nevoie de certificat calificat probabil ca va trebui s
 
 Unele agentii(ex. [AFM](https://online.afm.ro/)) pe partea lor de competenta vin si ele in sprijinul acestei activitati de [depunere online](https://static.anaf.ro/static/10/Anaf/depunere_declaratii/manuale/Instr_decl_electr_1.9.13.pdf) cu suportul lor informatic specific.
 
-Chiar si [bancile](https://www.raiffeisenfonduri.ro/wps/wcm/connect/ramv2/199797b7-26ad-4d4d-8a1e-8d2970be354c/Ghid+depunere+Declaratie+Unica+2023.pdf?MOD=AJPERES) vin in sprijinul clientilor cu informatii importante legate/privind  de activitatea de depunere a anumitor declaratii
+Chiar si [bancile](https://www.raiffeisenfonduri.ro/wps/wcm/connect/ramv2/199797b7-26ad-4d4d-8a1e-8d2970be354c/Ghid+depunere+Declaratie+Unica+2023.pdf?MOD=AJPERES) vin in sprijinul clientilor cu informatii importante legate/privind  de activitatea de depunere a anumitor declaratii.
+
+
+
 </details>
 
  ## 5. [**MFP**](https://mfinante.gov.ro/domenii) - factor integrator:
