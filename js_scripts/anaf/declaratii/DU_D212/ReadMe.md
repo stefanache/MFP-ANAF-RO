@@ -3,3 +3,13 @@
 
 Sunt multe [formulare](https://static.anaf.ro/static/10/Anaf/formulare/toate_formularele.htm)(cum este cazul si acestui tip de formular) care au suport XSD(schema de validare XML).
 Acest fisier .xsd contine schema de validare a datelor XML ce se vor incarca cu formularul asociat declaratiei(care trebuie incarcat cu date inainte de a fi depus online sau transmis catre unul din serverele ANAF).
+
+Acest meta-fisier(.xsd) contine informatii deosebit de utile care insa nu sunt uman-redabile(sunt necitibile direct de catre factorul uman).
+Desigur puteti deschide acest fisier intr-un editor obisnuit (optiunea click dreapta pe fisier si apoi selectati "open with" impreuna cu un editor cum ar fi Notepad,Wordpad,Notepad++... sau chiar folosind un Browser cu optiunea "view page source") dar veti descope un document greu de citit si destul de stufos asa incat ati pierde fie prea mult timp fie pur si simplu v-ar fi foarte greu sa-l intelegeti. 
+
+Sunt insa [articole](https://stackoverflow.com/questions/237938/how-to-convert-xsd-to-human-readable-documentation) pe internet care va ajuta sa faceti acest fisier citibil sau documentabil.
+
+Unele articole va recomanda chiar produse software care va permit sa obtineti din acest fisier xsd un fisier html(xml2html),...
+
+Eu m-am oprit asupra acestui produs [xs3p](https://xml.fiforms.org/xs3p/) pe care l-am folosit pentru a documenta spre exemplul formularul D112.
+
