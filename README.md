@@ -37,6 +37,8 @@ Pentru cei grabiti [reddit](https://www.reddit.com/r/programare/comments/18c3bg8
           6.URL XML to PDF - https://mfinante.gov.ro/static/10/eFactura/xmltopdf.html
         
           7.ANAF OAUTH - https://static.anaf.ro/static/10/Anaf/Informatii_R/API/Oauth_procedura_inregistrare_aplicatii_portal_ANAF.pdf
+
+          8.OASIS UBL: https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=ubl
           
 </details>
 
