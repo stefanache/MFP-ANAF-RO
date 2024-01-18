@@ -11,5 +11,16 @@ Sunt insa [articole](https://stackoverflow.com/questions/237938/how-to-convert-x
 
 Unele articole va recomanda chiar produse software care va permit sa obtineti din acest fisier xsd un fisier html(xml2html),...
 
-Eu m-am oprit asupra acestui produs [xs3p](https://xml.fiforms.org/xs3p/) pe care l-am folosit pentru a documenta spre exemplul formularul Ds12.
+Eu m-am oprit asupra acestui produs [xs3p](https://xml.fiforms.org/xs3p/) pe care l-am folosit pentru a documenta spre exemplul formularul D212.
+
+Iata cum am procedat:
+
+-mai intai am descarcat fisierul [d212_20240110.xsd](https://static.anaf.ro/static/10/Anaf/Declaratii_R/AplicatiiDec/d212_20240110.xsd) de pe site-ul [ANAF](https://static.anaf.ro/static/10/Anaf/Declaratii_R/declaratie_unica.html))
+
+-am deschis fisierul cu un editor obisnuit(click dreapta pe fisier si apoi open with cu editorul dorit) si apoi
+
+-in fata am adaugat liniile 
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="xs3p.xsl"?>
+
 
