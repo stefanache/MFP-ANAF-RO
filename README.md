@@ -368,8 +368,10 @@ Cu toate acestea trebuie sa siti ca exista si in cadrul surselor oficiale si seg
 si care, la randul lor au publicatii de [specialitate](https://www.dfmt.ro/modules.php?module=epress&id=87&lg=ro)/in acest [sens](https://www.dfmt.ro/modules.php?module=epress&id=88&lg=ro).
 
 In tot acest peisaj al declaratiilor avem deseori ocazia sa vedem articole legate de [Declaratia Unica](https://www.fiscalitatea.ro/brosura-anaf-tot-ce-trebuie-sa-stii-despre-depunerea-si-completarea-declaratiei-unice-in-2022-21608/)([DU](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/Despre_DU_2023.pdf): [D212](https://static.anaf.ro/static/10/Anaf/Declaratii_R/declaratie_unica.html)). Aici lucrurile se complica si mai mult pentru ca sunt mai multe tipizate pe acest palier.
-Trebuie citit cu atentie carui segment de aplicati i se adreseaza si in general tot contextul legat de un formular sau altul care se refera la acest tip de declaratie(de altfel foarte special).
+Trebuie citit cu atentie carui segment de aplicatii i se adreseaza si in general tot contextul legat de un formular sau altul care se refera la acest tip de declaratie(de altfel foarte special).
 In cazul in care ati gresit ceva atunci cand ati completat o declaratie sau alta trebuie sa stiti ca puteti apela si la corectii. Informatiile legate de [declaratiile rectificative  ](https://www.totalaudit.ro/corectarea-declaratiilor-fiscale/) sunt mai rar intalnite dar nu lipsesc cu desavirsire.
+
+Va invit sa consultati si directorul "js_scripts/anaf/declaratii/DU_D212/" si sa cititi ["ReadMe.md"](https://stefanache.github.io/MFP-ANAF-RO/js_scripts/anaf/declaratii/DU_D212/ReadMe.md) deoarece veti putea afla detalii cu privire la modul in care se pot citi fisierele XSD in mod "prietenos" pentru a va completa informatiile cu privire la completarea corecta a formularului cu date astfel sa puteti trece cu bine de validarile acestuia.
 
 In finalul acestei sectiuni as vrea sa mai spun ca si [institutiile publice](https://www.portalinstitutiipublice.ro/calendar/2023/02/) au de depus declaratii la ANAF
 
