@@ -280,7 +280,7 @@ Oricum este foarte important si util sa urmariti [comunicatele ANAF](https://sta
 
 Si [buna practica a unor provideri de suport fiscal](https://www.docs.nexuserp.ro/articol/configurare-e-factura-in-nexus-erp/3498) poate fi utila in a vedea cum se lucreaza cu aceste [nomenlcatoare](http://www.imatisoftware.ro/download.htm).
 
-[Baza legala](https://www.fiscalitatea.ro/firmele-mijlocii-sunt-obligate-sa-depuna-d406-pentru-transmiterea-saf-t-din-anul-2023-iar-cele-mici-din-2025-21392/  referiotare la de D406/SAF-T o puteti regasi pe site-ul [lege5](https://lege5.ro/App/Document/he3demzsgi3q/procedura-si-conditiile-de-transmitere-a-fisierului-standard-de-control-fiscal-saf-t-ordin-1783-2021?pid=428704960#p-428704960) (O.1783/2021).
+[Baza legala](https://www.fiscalitatea.ro/firmele-mijlocii-sunt-obligate-sa-depuna-d406-pentru-transmiterea-saf-t-din-anul-2023-iar-cele-mici-din-2025-21392/)  referiotare la de D406/SAF-T o puteti regasi pe site-ul [lege5](https://lege5.ro/App/Document/he3demzsgi3q/procedura-si-conditiile-de-transmitere-a-fisierului-standard-de-control-fiscal-saf-t-ordin-1783-2021?pid=428704960#p-428704960) (O.1783/2021).
 </details>
 
  ## 3. [**eTransport**](https://mfinante.gov.ro/ro/web/etransport)
