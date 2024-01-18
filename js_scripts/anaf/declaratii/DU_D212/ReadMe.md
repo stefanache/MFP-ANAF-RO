@@ -19,8 +19,16 @@ Iata cum am procedat:
 
 -am deschis fisierul cu un editor obisnuit(click dreapta pe fisier si apoi open with cu editorul dorit) si apoi
 
--in fata am adaugat liniile 
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="xs3p.xsl"?>
+-dupa primal linie/rand:
 
+      <?xml version="1.0" encoding="UTF-8"?>
 
+  am adaugat/inserat linia urmatoare:
+                      
+      ?xml-stylesheet type="text/xsl" href="xs3p.xsl"?>
+
+ astfel ca avem primele 2 linii astfel:
+
+ (restul linii/randurilor ramanand neschimbate)
+
+ 
