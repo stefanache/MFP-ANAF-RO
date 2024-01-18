@@ -369,6 +369,7 @@ In tot acest peisaj al declaratiilor avem deseori ocazia sa vedem articole legat
 Trebuie citit cu atentie carui segment de aplicati i se adreseaza si in general tot contextul legat de un formular sau altul care se refera la acest tip de declaratie(de altfel foarte special).
 In cazul in care ati gresit ceva atunci cand ati completat o declaratie sau alta trebuie sa stiti ca puteti apela si la corectii. Informatiile legate de [declaratiile rectificative  ](https://www.totalaudit.ro/corectarea-declaratiilor-fiscale/) sunt mai rar intalnite dar nu lipsesc cu desavirsire.
 
+In finalul acestei sectiuni as vrea sa mai spun ca si [institutiile publice](https://www.portalinstitutiipublice.ro/calendar/2023/02/) au de depus declaratii la ANAF
 
 </details>
 
