@@ -345,7 +345,7 @@ Referitor la acest subiect, uneori gasiti pagini sau[ mesaje] ce poseda un conti
 
 Oricum trebuie pornit de la [calendarul si termene de depunere] a acestor declaratii inainte de orice demers.
 
-Unele platforme comerciale au [extensii](https://www.sagasoft.ro/declaratii-ANAF.php) ale solutiilor lor software care se ocupa de aceste declaratii AANAF
+Unele [platforme comerciale](https://www.tdec.ro/) au [extensii](https://www.sagasoft.ro/declaratii-ANAF.php) ale solutiilor lor software care se ocupa de aceste declaratii ANAF
 
 </details>
 
