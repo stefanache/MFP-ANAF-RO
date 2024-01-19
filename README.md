@@ -31,7 +31,7 @@ Pentru generarea si validarea documentelor ce trebuie transmise catre autoritati
   [registrul electronic national ANCPI al nomenclaturilor stradale si de adresa](https://renns.ancpi.ro/renns-public/)
 - [coduri SIRUTA](https://www.siruta.nxm.ro/) ori [coduri SIRUTA si UAT-uri pe judete](http://www.dpfbl.mdrap.ro/cod_siruta_uat-uri.html)
 - [coduri postale](https://www.posta-romana.ro/cauta-cod-postal.html)
-- ...nomenclatoare INS(Institutul National de Statistica) publicate pe portalul de date ale Guvernului( [DATA.GOV.RO](https://data.gov.ro/organization/institutul-national-de-statistica) )
+- ...nomenclatoare INS(Institutul National de Statistica) publicate pe portalul de date ale Guvernului( [DATA.GOV.RO](https://data.gov.ro/organization/institutul-national-de-statistica) )...SIRUTA,CAEN,CPSA,TEMPO...
 - [nomenclator CAEN](https://www.onrc.ro/index.php/ro/caen) - activitati [PJ](https://caen.ro/)
 - [nomenclatorul PCUe al domeniilor de activitate](https://edirect.e-guvernare.ro/domeniiactivitate/default.aspx)
 - Nomenclatorul comun al unităților teritoriale de [statistică/INS](https://bucuresti.insse.ro/produse-si-servicii/nomenclatoare-statistice/) [NUTS)](https://www.europarl.europa.eu/factsheets/ro/sheet/99/nomenclatorul-comun-al-unitatilor-teritoriale-de-statistica-nuts-)
