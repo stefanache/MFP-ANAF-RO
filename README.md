@@ -36,7 +36,7 @@ Pentru generarea si validarea documentelor/rapoartelor fiscale pe care le veti t
 - 
   - *Nota*:
   - **[CKAN](https://github.com/ckan)** nu are ca interfata de limbaj doar Python - [CKAN-Py](https://pypi.org/project/ckan/)... iata o documentatie pt [CKAN-JS](https://docs.ckan.org/en/2.9/theming/javascript.html); aici gasit un ghid-utilizator pt [CKAN](https://readthedocs.org/projects/ckan/downloads/pdf/latest/) )
-  - **CKAN** functioneaza in paradigma client-server si nu are doar interfata de/pt programare(API: CKAN-API) ci are interfata atat pt Browser cat si pt shell/cmd(cURL,ckanapi); iata o interogare pt browser care cauta tag-ul 2023 :)
+  - **[CKAN](https://profs.info.uaic.ro/~busaco/teach/courses/wade/presentations/web07ArhitecturaAplicatiilorRDF-LinkedData.pdf)** functioneaza in paradigma client-server si nu are doar interfata de/pt programare(API: CKAN-API) ci are interfata atat pt Browser cat si pt shell/cmd(cURL,ckanapi); iata o interogare pt browser care cauta tag-ul 2023 :)
   [https://data.gov.ro/api/3/action/package_search?fq=tags:2023](https://data.gov.ro/api/3/action/package_search?fq=tags:2023)
   adica cauta ce date au fost incarcate in sistemul balansat de servere CKAN al portalului data.gov.ro;
   - **[CKAN](https://docs.ckan.org/en/latest/user-guide.html)** este folosit atat de furnizorii de date(cei care incarca datele) cat si de catre consumatori=clienti(cei care descarca ori acceseaza datele direct din server/portal);
