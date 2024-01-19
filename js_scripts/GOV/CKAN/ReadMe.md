@@ -14,4 +14,4 @@ Pentru mai multe detalii(privind AJAX si nu numai?!) consultati bine-cunoscutul 
 ** Remarca: **
 - am folosit [jquery](https://www3.ntu.edu.sg/home/ehchua/programming/webprogramming/jQuery_Basics.html) pentru a nu denatura exemplul CKAN oferit de portalul data.gov.ro dar
   poate fi folosit si cod scris pur/direct in javascript
-- pentru a descarca libraria JQuery am folosit [CDN-ul Google](https://www3.ntu.edu.sg/home/ehchua/programming/webprogramming/jQuery_Basics.html) desi sunt o multime de alte variante
+- pentru a descarca libraria [JQuery](https://www.w3schools.com/jquery/tryit.asp?filename=tryjquery_ajax_ajax) am folosit [CDN-ul Google](https://www3.ntu.edu.sg/home/ehchua/programming/webprogramming/jQuery_Basics.html) desi sunt o multime de alte variante
