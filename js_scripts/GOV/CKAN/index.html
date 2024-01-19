@@ -1,0 +1,16 @@
+<script>
+        var data = {
+          resource_id: '57abf39a-82e7-422b-b2ec-a7bfb39d67f5', // the resource id
+          limit: 5, // get 5 results
+          q: 'jones' // query for 'jones'
+        };
+        $.ajax({
+          url: 'https://data.gov.ro/ro/api/3/action/datastore_search',
+          data: data,
+          dataType: 'jsonp',
+          success: function(data) {
+            alert('Total results found: ' + data.result.total)
+          }
+        });
+Exemplu: Py
+</script>
