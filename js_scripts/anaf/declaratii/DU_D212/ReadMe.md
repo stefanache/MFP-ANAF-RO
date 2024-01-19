@@ -65,7 +65,7 @@ De asemenea puteti instala extensii de/pt browser(-ul) pentru a vizualiza direct
 
 Pentru  fisierul asociat .XSD(modificat pt a avea "style-sheet"-ul oferit/conferit de xs3p.xsl) fiind vizualizabil direct in Browser nu trebuie sa intreprindeti nimic in plus deoarece broaserele in mod nativ pot deschide orice fisier xml(inclusiv acesta .xsd)
 
-Tot ce am discutat despre XSD aici se poate aplica si in cazul oricarui XSD astfel ca  putem sa-l folosim pentru toate formularele care au xsd asociat.
+Tot ce am discutat despre XSD aici se poate aplica si in cazul oricarui XSD astfel ca  putem sa-l folosim pentru toate formularele care au fier [.xsd](https://www.w3schools.com/xml/schema_facets.asp) asociat.
 
 
  
