@@ -67,7 +67,7 @@ Pentru  fisierul asociat .XSD(modificat pt a avea "style-sheet"-ul oferit/confer
 
 Tot ce am discutat despre XSD aici se poate aplica si in cazul oricarui XSD astfel ca  putem sa-l folosim pentru toate formularele care au fier [.xsd](https://www.w3schools.com/xml/schema_facets.asp) asociat.
 
-Daca doriti sa folositi un XSD pentru a valida un fisier de date de intrare .xml sau daca doriti sa obtineti un vizualizator("render")/extractor-HTML de date din xml(xml2HTML via XSL) folosind transformatorul/transformarea XHTML, puteti apela la acest [PDF](https://www.albahari.com/nutshell/XSDandXSLT.pdf) sau puteti consulatea bine-cunoscutul [w3schools](https://www.w3schools.com/xml/xsl_transformation.asp).
+Daca doriti sa folositi un XSD pentru a valida un fisier de date de intrare .xml sau daca doriti sa obtineti un vizualizator("render")/extractor-HTML de date din xml(xml2HTML via XSL) folosind transformatorul/transformarea XHTML, puteti apela la acest PDF-11a [XSD and XSLT ](https://www.albahari.com/nutshell/XSDandXSLT.pdf) sau puteti consulatea bine-cunoscutul [w3schools](https://www.w3schools.com/xml/xsl_transformation.asp).
 
 
  
