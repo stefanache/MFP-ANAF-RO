@@ -41,6 +41,7 @@ Pentru generarea si validarea documentelor/rapoartelor fiscale pe care le veti t
   adica cauta ce date au fost incarcate in serverul-balansat CKAN al portalului data.gov.ro;
   - **[CKAN](https://docs.ckan.org/en/latest/user-guide.html)** este folosit atat de furnizorii de date(cei care incarca datele) cat si de catre consumatori(cei care descarca ori acceseaza datele direct din server/portal;
   - **[CKAN]** poate fi folosit(upload/download/search) atat in interogarile web(via Browser ori via API) cat si local/[on-prem](https://en.wikipedia.org/wiki/On-premises_software)(asta doar daca va instalati propriul [server CKAN](https://docs.ckan.org/en/2.9/maintaining/installing/install-from-package.html) si apoi il interogati din reteaua locala)
+  - **[ChatGPT despre CKAN](https://chat.openai.com/c/cc7b346d-96da-46c3-8761-62a03332d18e)** nu ezitati sa folositi ChatGPT(caruia ii multumim pentru ca exista:) pentru completarea fondului de cunostinte privind acest produs
 - 
 - [nomenclator CAEN](https://www.onrc.ro/index.php/ro/caen) - activitati [PJ](https://caen.ro/)
 - [nomenclatorul PCUe al domeniilor de activitate](https://edirect.e-guvernare.ro/domeniiactivitate/default.aspx)
