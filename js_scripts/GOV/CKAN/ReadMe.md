@@ -16,4 +16,4 @@ Pentru mai multe detalii(privind AJAX si nu numai?!) consultati bine-cunoscutul 
   poate fi folosit si cod scris pur/direct in javascript
 - pentru a descarca libraria [JQuery](https://www.w3schools.com/jquery/tryit.asp?filename=tryjquery_ajax_ajax) am folosit [CDN-ul Google](https://www3.ntu.edu.sg/home/ehchua/programming/webprogramming/jQuery_Basics.html) desi sunt o multime de alte variante
 - daca va veti uita pe portalul [DATA.GOV.RO](https://data.gov.ro/en/) veti vedea ca exista o sectiune special destinata Nomenclatoarelor;
-  Nu uitati ca aceasta sectiune poate fi o foarte buna sursa de informare pentru proiectele dumneavoastra!!!
+  Nu uitati ca aceasta sectiune poate fi o foarte buna [sursa de date](https://github.com/govro/) si de nu de informare pentru proiectele dumneavoastra!!!
