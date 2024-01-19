@@ -20,3 +20,5 @@ Pentru mai multe detalii(privind AJAX si nu numai?!) consultati bine-cunoscutul 
   Nu uitati ca aceasta sectiune poate fi o foarte buna [sursa de date](https://github.com/govro/) si de nu de [informare](https://github.com/govro/example-jsonp/tree/gh-pages) pentru proiectele dumneavoastra!!!
 
   Sistemul balansat de servere CKAN [data.gov.ro](https://gov.palcu.ro/2016/07/14/ultima-zi.html) necesita o activitate intensa de [administrare](https://gov.palcu.ro/2016/07/14/ultima-zi.html).
+
+  Subiectul [Datelor deschise](https://sites.google.com/upg-ploiesti.ro/resurse-se/alte-resurse/surse-de-date) nu este un subiect strict specific datelor de eGuvernare.; Acest este un subiect amplu/de mare anvergura.
