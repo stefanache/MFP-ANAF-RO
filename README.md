@@ -40,7 +40,7 @@ Pentru generarea si validarea documentelor/rapoartelor fiscale pe care le veti t
   [https://data.gov.ro/api/3/action/package_search?fq=tags:2023](https://data.gov.ro/api/3/action/package_search?fq=tags:2023)
   adica cauta ce date au fost incarcate in serverul-balansat CKAN al portalului data.gov.ro;
   - **[CKAN](https://docs.ckan.org/en/latest/user-guide.html)** este folosit atat de furnizorii de date(cei care incarca datele) cat si de catre consumatori(cei care descarca ori acceseaza datele direct din server/portal;
-  - **[CKAN]** poate fi folosit atat in interogarile web(via Browser ori via API) cat si local(daca va instalati propriul [server CKAN](https://docs.ckan.org/en/2.9/maintaining/installing/install-from-package.html) si apoi il interogati din reteaua locala)
+  - **[CKAN]** poate fi folosit(upload/download/search) atat in interogarile web(via Browser ori via API) cat si local(daca va instalati propriul [server CKAN](https://docs.ckan.org/en/2.9/maintaining/installing/install-from-package.html) si apoi il interogati din reteaua locala)
 - 
 - [nomenclator CAEN](https://www.onrc.ro/index.php/ro/caen) - activitati [PJ](https://caen.ro/)
 - [nomenclatorul PCUe al domeniilor de activitate](https://edirect.e-guvernare.ro/domeniiactivitate/default.aspx)
