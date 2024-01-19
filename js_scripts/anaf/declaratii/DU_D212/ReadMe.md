@@ -1,6 +1,8 @@
 <p align="center" width="100%">
-[**Declaraţie unică (212) - privind impozitul pe venit şi contribuţiile sociale datorate de persoanele fizice(PF), conform OpANAF nr. 6/2024.**]( https://stefanache.github.io/MFP-ANAF-RO/js_scripts/anaf/declaratii/DU_D212/d212_20240110.xsd)
+      Declaraţie unică (212) - privind I/V şi CS datorate de PF
 </p>
+[**Declaraţie unică (212) - privind impozitul pe venit(I/V) şi contribuţiile sociale(CS) datorate de persoanele fizice(PF), conform OpANAF nr. 6/2024.**]( https://stefanache.github.io/MFP-ANAF-RO/js_scripts/anaf/declaratii/DU_D212/d212_20240110.xsd)
+
 [DU/D212](https://static.anaf.ro/static/10/Anaf/Declaratii_R/declaratie_unica.html) - Se utilizează pentru declararea impozitului pe veniturile realizate şi a contribuţiilor sociale datorate  pe anul 2023, precum şi a impozitului estimat şi a contribuţiilor sociale datorate, pe  anul 2024. - publicat în data de 10.01.2024
 
 [Declaratia Unica D212](https://static.anaf.ro/static/10/Anaf/Declaratii_R/declaratie_unica.html) are suport informatic pe site-ul [ANAF](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/toate_formularele_30032017.htm)
