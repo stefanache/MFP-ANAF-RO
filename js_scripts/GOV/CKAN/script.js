@@ -7,7 +7,7 @@ function parseResults(datasets) {
 
 function onButtonClick(event) {
     $.ajax({
-        url: "http://data.gov.ro/api/3/action/package_list",
+        url: "https://data.gov.ro/api/3/action/package_list",
         dataType: "jsonp",
         success: function(response) {
             parseResults(response.result)
