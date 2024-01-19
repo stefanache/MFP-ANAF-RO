@@ -32,6 +32,6 @@ Pentru cazul acestor date dinamice trebuie amintit si faptul ca la nivelul Roman
 Am ales ca exemplu descarcarea nomenclatoarelor de localitati,coduri-postale si artere pentru judetul ALBA si anume doar cele emise pe data de 12.ian.2024 
 ([Nomenclatoare dinamice jud. ALBA publicate in date de 12.01.2024](https://stefanache.github.io/MFP-ANAF-RO/js_scripts/mfp/nomenclatoare_geografice/ALBA/12.01.2024/index.html))
 
-Pentru cei care sunt la inceput de drum si vor sa lucreze cu nomenclatoare intr-o gazduire cu suport pentru PhP si MySQL ar putea sa consulte [Clegerea de aplicatii web](https://evomind.org/wp-content/uploads/Culegere-aplicatii-web-2.pdf), o carta editata prin 2019 de catre Cătălina Enescu(profesor la CNI "Tudor Vianu"). 
+Pentru cei care sunt la [inceput de drum](https://www.didactic.ro/resurse-educationale/invatamant-liceal/informatica/toate-clasele/stiri?page=113) si vor sa lucreze cu nomenclatoare intr-o gazduire cu suport pentru PhP si MySQL ar putea sa consulte [Clegerea de aplicatii web](https://evomind.org/wp-content/uploads/Culegere-aplicatii-web-2.pdf), o carta editata prin 2019 de catre Cătălina Enescu(profesor la CNI "Tudor Vianu"). 
 
 
