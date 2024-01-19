@@ -20,8 +20,8 @@ Pentru mai multe detalii(privind AJAX si nu numai?!) consultati bine-cunoscutul 
 - pentru a descarca libraria [JQuery](https://www.w3schools.com/jquery/tryit.asp?filename=tryjquery_ajax_ajax) am folosit [CDN-ul Google] (https://www3.ntu.edu.sg/home/ehchua/programming/webprogramming/jQuery_Basics.html) desi sunt o multime de alte variante(ex. [CDN-ul Cloudflare](https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js)
 - [Atentie](https://stefanache.github.io/MFP-ANAF-RO/js_scripts/GOV/CKAN): Github a **blocat** cererile AJAX http pentru **exemplul 1**(cel cu butonul);
 
-  -puteti testa asta si dvs., in browser-ul pt linkul-remote-github https://govro.github.io/example-jsonp/index.html(apoi deschideti in browser developer's-menu "More tools"  si apoi Console si veti vedea mesajul de eroare); dar il puteti descarca  local pe computerul dumneavoastra, apoi dezarhiva si in final apela... dand dublu|simplu-click direct pe fisier pentru a fi deschis in browser dvs folosind protocolul file://...index.html);
-  -in schimb **exemplul 2**(cel cu interogarea punctuala) **a/va functiona[t]** mereu fara probleme.
+  - puteti testa asta si dvs., in browser-ul pt linkul-remote-github https://govro.github.io/example-jsonp/index.html(apoi deschideti in browser developer's-menu "More tools"  si apoi Console si veti vedea mesajul de eroare); dar il puteti descarca  local pe computerul dumneavoastra, apoi dezarhiva si in final apela... dand dublu|simplu-click direct pe fisier pentru a fi deschis in browser dvs folosind protocolul file://...index.html);
+  - in schimb **exemplul 2**(cel cu interogarea punctuala) **a/va functiona[t]** mereu fara probleme.
 
   **Solutia pt exemplul 1 a fost sa inlocuiesc http cu https in fisierul original script.js**;
 
