@@ -1,4 +1,4 @@
-<h1><p align="center" width="100%">Declaraţie unică (2DU/D.212 )- priv. I/V şi CS dat. de PF</p></h1>
+<h1><p align="center" width="100%"><a href="https://stefanache.github.io/MFP-ANAF-RO/js_scripts/anaf/declaratii/DU_D212/d212_20240110.xsd>Declaraţie unică (2DU/D.212 )- priv. I/V şi CS dat. de PF</a></p></h1>
 
 [**DU=D.212** - privind impozitul pe venit(I/V) şi contribuţiile sociale(CS) datorate de persoanele fizice(PF), conform **OpANAF nr. 6/2024.**]( https://stefanache.github.io/MFP-ANAF-RO/js_scripts/anaf/declaratii/DU_D212/d212_20240110.xsd)
 
