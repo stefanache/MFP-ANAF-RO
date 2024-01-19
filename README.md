@@ -16,6 +16,70 @@ Sunt servicii de date cum este cel [listafirme.ro](https://www.listafirme.ro/spe
 
 Puteti avea [date de bilant](https://mfinante.gov.ro/static/10/eFactura/FACT1IstoriaVersiunilor.txt) ale unei persoane juridice(PJ) folosind link-ul urmator: [servicii web ANAF- Bilant](https://static.anaf.ro/static/10/Anaf/Informatii_R/doc_WS_Bilant_V1.txt)
 ori folosind [serviciul online MFP care ofera informatii despre persoanele juridice PJ](https://mfinante.gov.ro/info-pj-selectie-nume-si-judet)
+
+## **Nomenclatoare**
+
+Pentru generarea si validarea documentelor ce trebuie transmise catre autoritatile fiscale veti avea nevoie de Nomenclatoare.
+
+[Guvernul](https://data.gov.ro/dataset?q=nomenclator&sort=score+desc%2C+metadata_modified+desc), [MFP](https://mfinante.gov.ro/nomenclatoare-geografice-mfp?_com_liferay_portal_search_web_portlet_SearchPortlet_formDate=1703000414729&p_p_id=com_liferay_portal_search_web_portlet_SearchPortlet&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_com_liferay_portal_search_web_portlet_SearchPortlet_mvcPath=%2Fsearch.jsp&_com_liferay_portal_search_web_portlet_SearchPortlet_redirect=https%3A%2F%2Fmfinante.gov.ro%2Fnomenclatoare-geografice-mfp%3Fp_p_id%3Dcom_liferay_portal_search_web_portlet_SearchPortlet%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview&_com_liferay_portal_search_web_portlet_SearchPortlet_keywords=nomenclat&_com_liferay_portal_search_web_portlet_SearchPortlet_scope=this-site) si [ANAF](https://www.anaf.ro/anaf/internet/ANAF/cautare/!ut/p/a1/jY_LDoIwEEW_pltm0IDEXU3UQowRjBG6McWUh8FCSpXfF1xh4mtWMzfnzswFDjFwJe5lLkxZK1ENM3dPzGYum3iTwAvpEsPNfrH0bYbryO6BZAwgCxFDZ-FHznqHiO5_fvxQFH_5j8BfkTcfPIEvJwLgeVWnz7gJVenUy4FrmUkttXXTvVwY07RzggS7rrOEEpmla4JDQ7BURmolDUG6patePYtWvFtV1K2BeLQBkj797GO8mQvN9RDjxanum8x_AFkXo2o!/dl5/d5/L2dBISEvZ0FBIS9nQSEh/pw/Z7_H1H6H282J8QAE0QLSBEI1H0G76/act/id=0/p=spf_ActionName=spf_ActionListener/p=spf_strutsAction=QCB2fcautare.do/564255798319/=/#Z7_H1H6H282J8QAE0QLSBEI1H0G76) pun la dispozitie o serie de [nomenclatoare](https://dexonline.ro/definitie/%20nomenclator) pentru :
+
+- [forme juridice si de proprietate](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/Nomenclator_forme_juridice.htm)
+- [geografice/GIS MFP](https://mfinante.gov.ro/nomenclatoare-geografice-mfp) (incluzand relatiile de [interoperabilitate](https://www.mfinante.gov.ro/static/40/Mfp/nomenclatoare/Nom_geogr_INTERNET_script.pdf) dintre [tabelele](https://mfinante.gov.ro/static/40/Mfp/nomenclatoare/SMD_NOMEN_INTEROPERABILITATE_v2.pdf) ce gazduiesc aceste [nomenclatoare](https://data.gov.ro/dataset/nomenclatoaregeografice)): ex [judete]( https://webnom.anaf.ro/Nomenclatoare/api/judete/) ...
+- ... puteti gasi mai multe detalii despre nomenclatoarele geografice/gis publicate de MFP [aici](https://github.com/stefanache/MFP-ANAF-RO/blob/main/js_scripts/mfp/nomenclatoare_geografice/readMe.md)
+- [nomenclator pt tari/teritorii si monede](https://www.ups.com/worldshiphelp/WSA/ROM/AppHelp/mergedProjects/CORE/Codes/Country_Territory_and_Currency_Codes.htm)
+- [registrul electronic national al nomenclaturilor stradale](https://renns.ancpi.ro/renns-public/) sau
+  [registrul electronic national ANCPI al nomenclaturilor stradale si de adresa](https://renns.ancpi.ro/renns-public/)
+- [coduri SIRUTA](https://www.siruta.nxm.ro/) ori [coduri SIRUTA si UAT-uri pe judete](http://www.dpfbl.mdrap.ro/cod_siruta_uat-uri.html)
+- [coduri postale](https://www.posta-romana.ro/cauta-cod-postal.html)
+- ...nomenclatoare INS(Institutul National de Statistica) publicate pe portalul de date ale Guvernului( [DATA.GOV.RO](https://data.gov.ro/organization/institutul-national-de-statistica) )
+- [nomenclator CAEN](https://www.onrc.ro/index.php/ro/caen) - activitati [PJ](https://caen.ro/)
+- [nomenclatorul PCUe al domeniilor de activitate](https://edirect.e-guvernare.ro/domeniiactivitate/default.aspx)
+- Nomenclatorul comun al unităților teritoriale de [statistică/INS](https://bucuresti.insse.ro/produse-si-servicii/nomenclatoare-statistice/) [NUTS)](https://www.europarl.europa.eu/factsheets/ro/sheet/99/nomenclatorul-comun-al-unitatilor-teritoriale-de-statistica-nuts-)
+- [nomenclator COR](https://codcor.ro/) - activitati [PF](https://codcor.ro/)
+- [nomenclatorul calificarilor](https://mmuncii.ro/j33/index.php/ro/2014-domenii/munca/nomenclatorul-calificarilor)
+- [nomenclator combinat NC](https://static.anaf.ro/static/10/Anaf/legislatie/OPANAF_12_2022.pdf)(de produse si servicii) ajuns la versiunea 8 [NC8](https://nc8.nxm.ro/)
+  ( a se vedea versiunea MADR actualizata a [NC la nivelul anului 2023](https://www.madr.ro/docs/agricultura/agricultura-ecologica/2023/nomenclator-combinat-2023.xlsx) livrata in format excel),[coduri NC8 publicate de NXM in 2024](https://nc8.nxm.ro/)
+- [nomenclator PRODROM](https://www.123coduri.ro/cauta-in-baza-de-date-coduri-prodrom.php) - [produse romanesti](https://www.prodrom.nxm.ro/)
+- [nomenclator CPV](https://simap.ted.europa.eu/ro/web/simap/cpv)(a se vedea campul [BT-158a](https://www.anaf.ro/CompletareFactura/faces/factura/informatiigenerale.xhtml) al e-Facturii)
+  Detalii despre acest acronim [CPV](https://www.nexuserp.ro/blog/intrebari-frecvente-despre-efactura) gasiti pe site-ul [NXM](https://cpv.nxm.ro/).
+- [STI](https://www.universuljuridic.ro/specificatiile-tehnice-si-de-utilizare-a-elementelor-de-baza-ale-facturii-electronice-ro_cius-omf-nr-1-366-2021/)(codul schemei de identificare corespunzătoare CPV) sistem de clasificare pentru [achizitii publice in UE](https://trade.ec.europa.eu/access-to-markets/ro/content/contractele-de-achizitii-publice-ue)(OBS: abrevierea STI mai inseamana spre exemplu si [Sistemele Inteligente de Transport](https://www.mt.ro/web14/documente/acte-normative/2018/06_03/Anexa%201%20-%20Strategia%20națională%20STI.pdf))
+- TSP nomenclator european combinat
+- nomenclatorul Național al identificatorilor [GS1 GTIN SGR](https://gs1.ro/nomenclator-gtin-sgr/)  produs de bază și ambalări colective]
+- [ZZZ nomenclator constructii noi](https://www.portalcontabilitate.ro/sistemul-ro-e-factura-constructii-noi-154604.htm)
+- [NOMENCLATOR UTILAJE, ECHIPAMENTE, INSTALATII ](https://federatiaconstructorilor.ro/attachments/article/690/Nomenclator-Registru-Utilaje.pdf)
+- [UNSPSC](https://www.licitatie-publica.ro/blog/ce-sunt-codurile-unspsc-si-lista-completa)(a se vedea campul [BT-158b](https://www.anaf.ro/CompletareFactura/faces/factura/informatiigenerale.xhtml) al e-Facturii)
+- 
+- ...consultati si [ASRO](https://www.asro.ro/wp-content/uploads/2019/05/BS-04-2019-web.pdf) care se ocupa de [registre,standardizari,nomenclatoare,clasificari,codificari,seturi de date etc...](https://standard.open-contracting.org/latest/en/schema/codelists/) si care emit diverse buletine privind manipularea acestui tip de date
+- 
+- [coduri IBAN pt conturi de cheltuieli, utilizate doar de catre institutii publice &
+  coduri IBAN pt conturi de venituri sectoare speciale judetene si ale sectoarelor din Bucuresti, utilizate de catre PF si PJ](https://www.anaf.ro/anaf/internet/ANAF/asistenta_contribuabili/plata_oblig_fiscale/coduri_iban)
+- [nomenclator conturi bancare venituri bugetare/disponibilitati](https://static.anaf.ro/static/10/Anaf/Aplicatii/OP_FV/optt2013/OPTT_conturi_venituri_01102020.pdf)
+- ...despre conturile bancare puteti gasi si pe site-ul [ro-efactura.ro](https://ro-efactura.ro/conturile-bancare-in-e-factura/) cateva informatii.
+- [normele anuale de venit pe anul 20NN, stabilite pentru activități independente](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/Normevenit2023/Norme_venit_2023.html)
+- [nomenclatorul obligațiilor de plată la bugetul de stat](https://www.anaf.ro/anaf/internet/ANAF/asistenta_contribuabili/plata_oblig_fiscale/nomenclatoare_obligatii/)
+- [nomenclator BNR monede/valuta](https://bnr.ro/files/d/Statistica/metodologie/ifm/ghid/Nomenclator_valute20070122.pdf)
+- [nomenclator BNR tari si organizatii internationale](https://www.bnro.ro/DocumentInformation.aspx?idDocument=27532&directLink=1)
+- ...(a se vedea si [generarea automata codului IBAN utilizat in Rep Moldova](https://mf.gov.md/ro/iban)
+- [...](https://github.com/ConnectingEurope/eInvoicing-EN16931/blob/master/cii/schema/D16B%20SCRDM%20(Subset)/coupled%20clm/CII/uncefact/codelist/standard/UNECE_CargoOperationalCategoryCode_D16A.xsd)
+- (aici la nomenclatoare as adauga/aminti si [EN-16931](https://www.tatime.gov.al/shkarko.php?id=13418), [RO_CIUS](https://lege5.ro/Gratuit/TrackChanges/geztanrsgmydq?type=1&by=geztcmrwgy3tm&d=20.12.2022), [UBL2.1](https://docs.oasis-open.org/ubl/UBL-2.1.html), [SCRDM – CII 16B](https://www.google.com/search?q=SCRDM+%E2%80%93++CII+16B&sca_esv=595427621&rlz=1C1JJTC_enRO1087RO1087&sxsrf=AM9HkKnCevdRQY8b6kdzIUJRp8h63xNrvQ%3A1704307866455&ei=mqyVZdKsG4aRxc8P-MCl-Ag&udm=&ved=0ahUKEwjS4d7H8cGDAxWGSPEDHXhgCY8Q4dUDCBA&uact=5&oq=SCRDM+%E2%80%93++CII+16B&gs_lp=Egxnd3Mtd2l6LXNlcnAiElNDUkRNIOKAkyAgQ0lJIDE2QkjrDFDvB1i_CnABeAGQAQCYAdYBoAHMAqoBBTAuMS4xuAEDyAEA-AEC-AEBwgIKEAAYRxjWBBiwA-IDBBgAIEGIBgGQBgg&sclient=gws-wiz-serp), precum si multe [alte standarde/clasificari/nomenclatoare/informatii/meta-date](https://ec.europa.eu/digital-building-blocks/wikis/download/attachments/467108974/EN16931%20code%20lists%20values%20used%20from%202020-11-15.xlsx?version=1&modificationDate=1639417211300&api=v2)... ) 
+- [...](https://mfinante.gov.ro/static/10/Mfp/ghidE-FACTURA.pdf)
+- [nomenclatorul institutiilor de invatamant din RO](https://www.recensamantromania.ro/wp-content/uploads/2022/02/NomEd-RPL2021_Nomenclator-institutii-de-invatamant.pdf)
+- [nomenclatorul medicamentelor](https://www.spitalnegrestioas.ro/index.php/ro/informatii-publice/nomenclator-medicamente) de uz uman (https://www.anm.ro/medicamente-de-uz-uman/nomenclatorul-medicamentelor-de-uz-uman/) (a se vedea si cel al [AMDM din Rep.Moldova](https://nomenclator.amdm.gov.md/))
+- [nomenclator medici CNAS](http://cas.cnas.ro/casvl/page/nomenclator-medici.html)
+- [ghidul gradelor de handicap](https://www.drmax.ro/articole/ghidul-gradelor-de-handicap-ce-boli-se-incadreaza-in-acestea)
+- [nomenclatoare SIUI](http://cas.cnas.ro/casmb/page/nomenclatoare-siui-casmb.html)
+- [nomenclator produse de uz veterinar](http://www.icbmv.ro/ro/nomenclator-produse)
+- [nomenclator DAMB de specii si rase(A.E)](http://www.damb.ro/nomenclatoare-a-e/10/03/2022/)
+- [nomenclatoare](https://www.onpcsb.ro/uploads/articole/attachments/644b9576b9f8d119925403.pdf) [ONPCB](https://www.onpcsb.ro)
+- [nomenclator ONPCSB entitati raportoare](https://www.onpcsb.ro/uploads/articole/attachments/649e99f8897b1500977073.pdf)
+- [nomenclatoul operatiunilor valutare](https://legislatie.just.ro/Public/DetaliiDocumentAfis/228281)
+- [...](https://data.gov.ro/dataset?tags=nomenclator)
+- [nomenclatorul](https://en.wiktionary.org/wiki/nomenclator) [documentelor Nexus-ERP](https://www.docs.nexuserp.ro/articol/nomenclator-documente/2857)
+- [etc](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/Nomenclator_2016.htm)
+  
+
+Aceste nomenclatoare se gasesc pe internet in documentatia ANAF/MFP/BNR/GOV..., in diverse tipuri/formate/containere [pdf](https://www.tatime.gov.al/shkarko.php?id=13418), [htm/html](https://lege5.ro/Gratuit/TrackChanges/geztanrsgmydq?type=1&by=geztcmrwgy3tm&d=20.12.2022), xml, [xlsx](https://ec.europa.eu/digital-building-blocks/wikis/download/attachments/467108974/EN16931%20code%20lists%20values%20used%20from%202020-11-15.xlsx?version=1&modificationDate=1639417211300&api=v2), csv, txt, [...](https://www.ditl3.ro/assets/clients/public/file/2023/contracte-facturi/Factura%20Apa%20Nova%2003.CL.2023.pdf) si, de la caz la caz, in limba romana si/sau limba engleza.
+
 </details>
 
 ## 1. **[Factura electronica](https://www.contact.info.ro/ghid-e-factura-la-anaf/)** [eFactura](https://www.anaf.ro/anaf/internet/ANAF/despre_anaf/strategii_anaf/proiecte_digitalizare/e.factura):
@@ -104,64 +168,7 @@ juridice [PJ](https://www.anaf.ro/anaf/internet/ANAF/servicii_online/declaratii_
 
 legate de toate formularele ANAF (eFactura,eTransport,SAF-T(D406),D112,...etc) [formulare ANAF](https://www.anaf.ro/anaf/internet/ANAF/asistenta_contribuabili/declararea_obligatiilor_fiscale/toate_formularele/)
 
-[Guvernul](https://data.gov.ro/dataset?q=nomenclator&sort=score+desc%2C+metadata_modified+desc), [MFP](https://mfinante.gov.ro/nomenclatoare-geografice-mfp?_com_liferay_portal_search_web_portlet_SearchPortlet_formDate=1703000414729&p_p_id=com_liferay_portal_search_web_portlet_SearchPortlet&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_com_liferay_portal_search_web_portlet_SearchPortlet_mvcPath=%2Fsearch.jsp&_com_liferay_portal_search_web_portlet_SearchPortlet_redirect=https%3A%2F%2Fmfinante.gov.ro%2Fnomenclatoare-geografice-mfp%3Fp_p_id%3Dcom_liferay_portal_search_web_portlet_SearchPortlet%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview&_com_liferay_portal_search_web_portlet_SearchPortlet_keywords=nomenclat&_com_liferay_portal_search_web_portlet_SearchPortlet_scope=this-site) si [ANAF](https://www.anaf.ro/anaf/internet/ANAF/cautare/!ut/p/a1/jY_LDoIwEEW_pltm0IDEXU3UQowRjBG6McWUh8FCSpXfF1xh4mtWMzfnzswFDjFwJe5lLkxZK1ENM3dPzGYum3iTwAvpEsPNfrH0bYbryO6BZAwgCxFDZ-FHznqHiO5_fvxQFH_5j8BfkTcfPIEvJwLgeVWnz7gJVenUy4FrmUkttXXTvVwY07RzggS7rrOEEpmla4JDQ7BURmolDUG6patePYtWvFtV1K2BeLQBkj797GO8mQvN9RDjxanum8x_AFkXo2o!/dl5/d5/L2dBISEvZ0FBIS9nQSEh/pw/Z7_H1H6H282J8QAE0QLSBEI1H0G76/act/id=0/p=spf_ActionName=spf_ActionListener/p=spf_strutsAction=QCB2fcautare.do/564255798319/=/#Z7_H1H6H282J8QAE0QLSBEI1H0G76) pun la dispozitie o serie de [nomenclatoare](https://dexonline.ro/definitie/%20nomenclator) pentru :
 
-- [forme juridice si de proprietate](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/Nomenclator_forme_juridice.htm)
-- [geografice/GIS MFP](https://mfinante.gov.ro/nomenclatoare-geografice-mfp) (incluzand relatiile de [interoperabilitate](https://www.mfinante.gov.ro/static/40/Mfp/nomenclatoare/Nom_geogr_INTERNET_script.pdf) dintre [tabelele](https://mfinante.gov.ro/static/40/Mfp/nomenclatoare/SMD_NOMEN_INTEROPERABILITATE_v2.pdf) ce gazduiesc aceste [nomenclatoare](https://data.gov.ro/dataset/nomenclatoaregeografice)): ex [judete]( https://webnom.anaf.ro/Nomenclatoare/api/judete/) ...
-- ... puteti gasi mai multe detalii despre nomenclatoarele geografice/gis publicate de MFP [aici](https://github.com/stefanache/MFP-ANAF-RO/blob/main/js_scripts/mfp/nomenclatoare_geografice/readMe.md)
-- [nomenclator pt tari/teritorii si monede](https://www.ups.com/worldshiphelp/WSA/ROM/AppHelp/mergedProjects/CORE/Codes/Country_Territory_and_Currency_Codes.htm)
-- [registrul electronic national al nomenclaturilor stradale](https://renns.ancpi.ro/renns-public/) sau
-  [registrul electronic national ANCPI al nomenclaturilor stradale si de adresa](https://renns.ancpi.ro/renns-public/)
-- [coduri SIRUTA](https://www.siruta.nxm.ro/) ori [coduri SIRUTA si UAT-uri pe judete](http://www.dpfbl.mdrap.ro/cod_siruta_uat-uri.html)
-- [coduri postale](https://www.posta-romana.ro/cauta-cod-postal.html)
-- ...nomenclatoare INS(Institutul National de Statistica) publicate pe portalul de date ale Guvernului( [DATA.GOV.RO](https://data.gov.ro/organization/institutul-national-de-statistica) )
-- [nomenclator CAEN](https://www.onrc.ro/index.php/ro/caen) - activitati [PJ](https://caen.ro/)
-- [nomenclatorul PCUe al domeniilor de activitate](https://edirect.e-guvernare.ro/domeniiactivitate/default.aspx)
-- Nomenclatorul comun al unităților teritoriale de [statistică/INS](https://bucuresti.insse.ro/produse-si-servicii/nomenclatoare-statistice/) [NUTS)](https://www.europarl.europa.eu/factsheets/ro/sheet/99/nomenclatorul-comun-al-unitatilor-teritoriale-de-statistica-nuts-)
-- [nomenclator COR](https://codcor.ro/) - activitati [PF](https://codcor.ro/)
-- [nomenclatorul calificarilor](https://mmuncii.ro/j33/index.php/ro/2014-domenii/munca/nomenclatorul-calificarilor)
-- [nomenclator combinat NC](https://static.anaf.ro/static/10/Anaf/legislatie/OPANAF_12_2022.pdf)(de produse si servicii) ajuns la versiunea 8 [NC8](https://nc8.nxm.ro/)
-  ( a se vedea versiunea MADR actualizata a [NC la nivelul anului 2023](https://www.madr.ro/docs/agricultura/agricultura-ecologica/2023/nomenclator-combinat-2023.xlsx) livrata in format excel),[coduri NC8 publicate de NXM in 2024](https://nc8.nxm.ro/)
-- [nomenclator PRODROM](https://www.123coduri.ro/cauta-in-baza-de-date-coduri-prodrom.php) - [produse romanesti](https://www.prodrom.nxm.ro/)
-- [nomenclator CPV](https://simap.ted.europa.eu/ro/web/simap/cpv)(a se vedea campul [BT-158a](https://www.anaf.ro/CompletareFactura/faces/factura/informatiigenerale.xhtml) al e-Facturii)
-  Detalii despre acest acronim [CPV](https://www.nexuserp.ro/blog/intrebari-frecvente-despre-efactura) gasiti pe site-ul [NXM](https://cpv.nxm.ro/).
-- [STI](https://www.universuljuridic.ro/specificatiile-tehnice-si-de-utilizare-a-elementelor-de-baza-ale-facturii-electronice-ro_cius-omf-nr-1-366-2021/)(codul schemei de identificare corespunzătoare CPV) sistem de clasificare pentru [achizitii publice in UE](https://trade.ec.europa.eu/access-to-markets/ro/content/contractele-de-achizitii-publice-ue)(OBS: abrevierea STI mai inseamana spre exemplu si [Sistemele Inteligente de Transport](https://www.mt.ro/web14/documente/acte-normative/2018/06_03/Anexa%201%20-%20Strategia%20națională%20STI.pdf))
-- TSP nomenclator european combinat
-- nomenclatorul Național al identificatorilor [GS1 GTIN SGR](https://gs1.ro/nomenclator-gtin-sgr/)  produs de bază și ambalări colective]
-- [ZZZ nomenclator constructii noi](https://www.portalcontabilitate.ro/sistemul-ro-e-factura-constructii-noi-154604.htm)
-- [NOMENCLATOR UTILAJE, ECHIPAMENTE, INSTALATII ](https://federatiaconstructorilor.ro/attachments/article/690/Nomenclator-Registru-Utilaje.pdf)
-- [UNSPSC](https://www.licitatie-publica.ro/blog/ce-sunt-codurile-unspsc-si-lista-completa)(a se vedea campul [BT-158b](https://www.anaf.ro/CompletareFactura/faces/factura/informatiigenerale.xhtml) al e-Facturii)
-- 
-- ...consultati si [ASRO](https://www.asro.ro/wp-content/uploads/2019/05/BS-04-2019-web.pdf) care se ocupa de [registre,standardizari,nomenclatoare,clasificari,codificari,seturi de date etc...](https://standard.open-contracting.org/latest/en/schema/codelists/) si care emit diverse buletine privind manipularea acestui tip de date
-- 
-- [coduri IBAN pt conturi de cheltuieli, utilizate doar de catre institutii publice &
-  coduri IBAN pt conturi de venituri sectoare speciale judetene si ale sectoarelor din Bucuresti, utilizate de catre PF si PJ](https://www.anaf.ro/anaf/internet/ANAF/asistenta_contribuabili/plata_oblig_fiscale/coduri_iban)
-- [nomenclator conturi bancare venituri bugetare/disponibilitati](https://static.anaf.ro/static/10/Anaf/Aplicatii/OP_FV/optt2013/OPTT_conturi_venituri_01102020.pdf)
-- ...despre conturile bancare puteti gasi si pe site-ul [ro-efactura.ro](https://ro-efactura.ro/conturile-bancare-in-e-factura/) cateva informatii.
-- [normele anuale de venit pe anul 20NN, stabilite pentru activități independente](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/Normevenit2023/Norme_venit_2023.html)
-- [nomenclatorul obligațiilor de plată la bugetul de stat](https://www.anaf.ro/anaf/internet/ANAF/asistenta_contribuabili/plata_oblig_fiscale/nomenclatoare_obligatii/)
-- [nomenclator BNR monede/valuta](https://bnr.ro/files/d/Statistica/metodologie/ifm/ghid/Nomenclator_valute20070122.pdf)
-- [nomenclator BNR tari si organizatii internationale](https://www.bnro.ro/DocumentInformation.aspx?idDocument=27532&directLink=1)
-- ...(a se vedea si [generarea automata codului IBAN utilizat in Rep Moldova](https://mf.gov.md/ro/iban)
-- [...](https://github.com/ConnectingEurope/eInvoicing-EN16931/blob/master/cii/schema/D16B%20SCRDM%20(Subset)/coupled%20clm/CII/uncefact/codelist/standard/UNECE_CargoOperationalCategoryCode_D16A.xsd)
-- (aici la nomenclatoare as adauga/aminti si [EN-16931](https://www.tatime.gov.al/shkarko.php?id=13418), [RO_CIUS](https://lege5.ro/Gratuit/TrackChanges/geztanrsgmydq?type=1&by=geztcmrwgy3tm&d=20.12.2022), [UBL2.1](https://docs.oasis-open.org/ubl/UBL-2.1.html), [SCRDM – CII 16B](https://www.google.com/search?q=SCRDM+%E2%80%93++CII+16B&sca_esv=595427621&rlz=1C1JJTC_enRO1087RO1087&sxsrf=AM9HkKnCevdRQY8b6kdzIUJRp8h63xNrvQ%3A1704307866455&ei=mqyVZdKsG4aRxc8P-MCl-Ag&udm=&ved=0ahUKEwjS4d7H8cGDAxWGSPEDHXhgCY8Q4dUDCBA&uact=5&oq=SCRDM+%E2%80%93++CII+16B&gs_lp=Egxnd3Mtd2l6LXNlcnAiElNDUkRNIOKAkyAgQ0lJIDE2QkjrDFDvB1i_CnABeAGQAQCYAdYBoAHMAqoBBTAuMS4xuAEDyAEA-AEC-AEBwgIKEAAYRxjWBBiwA-IDBBgAIEGIBgGQBgg&sclient=gws-wiz-serp), precum si multe [alte standarde/clasificari/nomenclatoare/informatii/meta-date](https://ec.europa.eu/digital-building-blocks/wikis/download/attachments/467108974/EN16931%20code%20lists%20values%20used%20from%202020-11-15.xlsx?version=1&modificationDate=1639417211300&api=v2)... ) 
-- [...](https://mfinante.gov.ro/static/10/Mfp/ghidE-FACTURA.pdf)
-- [nomenclatorul institutiilor de invatamant din RO](https://www.recensamantromania.ro/wp-content/uploads/2022/02/NomEd-RPL2021_Nomenclator-institutii-de-invatamant.pdf)
-- [nomenclatorul medicamentelor](https://www.spitalnegrestioas.ro/index.php/ro/informatii-publice/nomenclator-medicamente) de uz uman (https://www.anm.ro/medicamente-de-uz-uman/nomenclatorul-medicamentelor-de-uz-uman/) (a se vedea si cel al [AMDM din Rep.Moldova](https://nomenclator.amdm.gov.md/))
-- [nomenclator medici CNAS](http://cas.cnas.ro/casvl/page/nomenclator-medici.html)
-- [ghidul gradelor de handicap](https://www.drmax.ro/articole/ghidul-gradelor-de-handicap-ce-boli-se-incadreaza-in-acestea)
-- [nomenclatoare SIUI](http://cas.cnas.ro/casmb/page/nomenclatoare-siui-casmb.html)
-- [nomenclator produse de uz veterinar](http://www.icbmv.ro/ro/nomenclator-produse)
-- [nomenclator DAMB de specii si rase(A.E)](http://www.damb.ro/nomenclatoare-a-e/10/03/2022/)
-- [nomenclatoare](https://www.onpcsb.ro/uploads/articole/attachments/644b9576b9f8d119925403.pdf) [ONPCB](https://www.onpcsb.ro)
-- [nomenclator ONPCSB entitati raportoare](https://www.onpcsb.ro/uploads/articole/attachments/649e99f8897b1500977073.pdf)
-- [nomenclatoul operatiunilor valutare](https://legislatie.just.ro/Public/DetaliiDocumentAfis/228281)
-- [...](https://data.gov.ro/dataset?tags=nomenclator)
-- [nomenclatorul](https://en.wiktionary.org/wiki/nomenclator) [documentelor Nexus-ERP](https://www.docs.nexuserp.ro/articol/nomenclator-documente/2857)
-- [etc](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/Nomenclator_2016.htm)
-  
-
-Aceste nomenclatoare se gasesc pe internet in documentatia ANAF/MFP/BNR/GOV..., in diverse tipuri/formate/containere [pdf](https://www.tatime.gov.al/shkarko.php?id=13418), [htm/html](https://lege5.ro/Gratuit/TrackChanges/geztanrsgmydq?type=1&by=geztcmrwgy3tm&d=20.12.2022), xml, [xlsx](https://ec.europa.eu/digital-building-blocks/wikis/download/attachments/467108974/EN16931%20code%20lists%20values%20used%20from%202020-11-15.xlsx?version=1&modificationDate=1639417211300&api=v2), csv, txt, [...](https://www.ditl3.ro/assets/clients/public/file/2023/contracte-facturi/Factura%20Apa%20Nova%2003.CL.2023.pdf) si, de la caz la caz, in limba romana si/sau limba engleza.
 
 De asemenea, puteti cauta o serie de informatii privind [facturarea electronica pe site-ul ASRO](https://magazin.asro.ro/Search?q=factura+electronica)
 
