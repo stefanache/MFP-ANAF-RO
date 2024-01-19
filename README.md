@@ -38,7 +38,7 @@ Pentru generarea si validarea documentelor/rapoartelor fiscale pe care le veti t
   - **[CKAN](https://github.com/ckan)** nu are ca interfata de limbaj doar Python - [CKAN-Py](https://pypi.org/project/ckan/)... iata o documentatie pt [CKAN-JS](https://docs.ckan.org/en/2.9/theming/javascript.html); aici gasit un dhid-utilizator pt [CKAN](https://readthedocs.org/projects/ckan/downloads/pdf/latest/) )
   - **CKAN** functioneaza in paradigma client-server si nu are doar interfata de/pt programare(API: CKAN-API) ci are interfata atat pt Browser cat si pt shell/cmd(cURL,ckanapi); iata o interogare pt browser care cauta tag-ul 2023 :)
   [https://data.gov.ro/api/3/action/package_search?fq=tags:2023](https://data.gov.ro/api/3/action/package_search?fq=tags:2023)
-  adica cauta ce date au fost incarcate in serverul-balansat CKAN al portalului data.gov.ro;
+  adica cauta ce date au fost incarcate in sistemul balansat de servere CKAN al portalului data.gov.ro;
   - **[CKAN](https://docs.ckan.org/en/latest/user-guide.html)** este folosit atat de furnizorii de date(cei care incarca datele) cat si de catre consumatori(cei care descarca ori acceseaza datele direct din server/portal);
   - **[CKAN]** poate fi folosit(upload/download/search) atat in interogarile web(via Browser ori via API) cat si local/[on-prem](https://en.wikipedia.org/wiki/On-premises_software)(asta doar daca va instalati propriul [server CKAN](https://docs.ckan.org/en/2.9/maintaining/installing/install-from-package.html) si apoi il interogati din reteaua locala)
   - **[ChatGPT despre CKAN](https://chat.openai.com/c/cc7b346d-96da-46c3-8761-62a03332d18e)** nu ezitati sa folositi ChatGPT(caruia ii multumim pentru ca exista:) pentru completarea fondului de cunostinte privind acest produs software
