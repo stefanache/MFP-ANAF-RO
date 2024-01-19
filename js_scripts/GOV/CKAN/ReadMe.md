@@ -10,3 +10,8 @@ dumneavoastra.
 Puteti citi mai multe in sub-sectiunea "[Nomenclatoare](https://github.com/stefanache/MFP-ANAF-RO/tree/main?tab=readme-ov-file#nomenclatoare)" a primei sectiuni(cea cu [Introducerea](https://github.com/stefanache/MFP-ANAF-RO/tree/main#anaf-autoritate-fiscala-introducere-nomenclatoare)).
 
 Pentru mai multe detalii(privind AJAX si nu numai?!) consultati bine-cunoscutul site [w3schools](https://www.w3schools.com/js/js_ajax_examples.asp)
+
+** Remarca: **
+- am folosit [jquery](https://www3.ntu.edu.sg/home/ehchua/programming/webprogramming/jQuery_Basics.html) pentru a nu denatura exemplul CKAN oferit de portalul data.gov.ro dar
+  poate fi folosit si cod scris pur/direct in javascript
+- pentru a descarca libraria JQuery am folosit [CDN-ul Google](https://www3.ntu.edu.sg/home/ehchua/programming/webprogramming/jQuery_Basics.html) desi sunt o multime de alte variante
