@@ -25,6 +25,6 @@ Pentru mai multe detalii(privind AJAX si nu numai?!) consultati bine-cunoscutul 
   
 - sistemul balansat de servere CKAN [data.gov.ro](https://gov.palcu.ro/2016/07/14/ultima-zi.html) necesita o activitate intensa de [administrare](https://gov.palcu.ro/2016/07/14/ultima-zi.html).
   
-- o metodologie [CKAN](https://profs.info.uaic.ro/~busaco/teach/courses/wade/presentations/web07ArhitecturaAplicatiilorRDF-LinkedData.pdf) pentru [publicarea](https://data.gov.ro/pages/publish)  datelor deschise sub egida POCA o puteti gasi pe site-ul [INS](https://insse.ro/cms/files/opendata/2020-09-14-105456.958150Metodologie-date-deschisefeb2019.pdf)
+- o metodologie [CKAN](https://profs.info.uaic.ro/~busaco/teach/courses/wade/presentations/web07ArhitecturaAplicatiilorRDF-LinkedData.pdf) pentru [publicarea](https://data.gov.ro/pages/publish)  datelor deschise sub egida [POCA](https://www.poca.ro/) o puteti gasi pe site-ul [INS](https://insse.ro/cms/files/opendata/2020-09-14-105456.958150Metodologie-date-deschisefeb2019.pdf)
 - 
   Subiectul [Datelor deschise](https://sites.google.com/upg-ploiesti.ro/resurse-se/alte-resurse/surse-de-date) nu este un subiect strict specific datelor de eGuvernare.; Acest este un subiect amplu/de mare anvergura ce se refera desigur la [sursele de date](https://fme.globema.ro/2021/03/25/fme-2021-0-o-noua-versiune-disponibila/).
