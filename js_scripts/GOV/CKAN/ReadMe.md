@@ -24,6 +24,7 @@ Pentru mai multe detalii(privind AJAX si nu numai?!) consultati bine-cunoscutul 
 
   In schimb link-urile(<a href="..."/>) functioneaza desigur fara probleme si constituie pentru exemplele 1 si 2 daca vreti solutia de rezerva.
 - daca va veti uita pe portalul [DATA.GOV.RO](https://data.gov.ro/en/) veti vedea ca exista o sectiune special destinata Nomenclatoarelor;
+
   Nu uitati ca aceasta sectiune poate fi o foarte buna [sursa de date](https://github.com/govro/) si de ce nu de [informare](https://github.com/govro/example-jsonp/tree/gh-pages) pentru proiectele dumneavoastra!!!
 - puteti folosi motorul de cautare Google(cu parametrii setati corespunzator/doriti) pentru a vedea [ce s-a mai incarcat recent pe acest portal?](https://www.google.com/search?q=data.gov.ro+ckan&lr=lang_ro&sca_esv=599800748&rlz=1C1JJTC_enRO1087RO1087&tbs=lr:lang_1ro,qdr:d&sxsrf=ACQVn0_dUxkY5iAFLJVL6P_oU77sa6RPNw:1705675047182&source=lnt&sa=X&ved=2ahUKEwiJlqja1umDAxXxJhAIHQ_OBO4QpwV6BAgCEA0&biw=1850&bih=875&dpr=1)
   
