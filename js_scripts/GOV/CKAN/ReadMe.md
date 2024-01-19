@@ -1,5 +1,7 @@
 ## [**ReadMe.1st**](https://github.com/stefanache/MFP-ANAF-RO/blob/main/js_scripts/GOV/CKAN/ReadMe.md)
 
+[*Scop*](https://stefanache.github.io/MFP-ANAF-RO/js_scripts/GOV/CKAN): **extragerea programatica-AJAX de date** din portalul **data.gov.ro**
+
 [CKAN](https://data.gov.ro/en/organization)(Comprehensive Knowledge Archive Network) [conectorul](https://data.gov.ro/pages/developers) catre [datele deschise](https://data.gov.ro/ro/api/1/util/snippet/api_info.html?resource_id=57abf39a-82e7-422b-b2ec-a7bfb39d67f5) gazduite de [data.gov.ro](https://data.gov.ro/en/)
 
 
@@ -25,7 +27,7 @@ Pentru mai multe detalii(privind AJAX si nu numai?!) consultati bine-cunoscutul 
 
   **Solutia pt exemplul 1 a fost sa inlocuiesc http cu https in fisierul original script.js**;
 
-  In schimb link-urile(ancorele) functioneaza desigur fara probleme si constituie pentru exemplele 1 si 2 daca vreti solutia de rezerva.
+  In schimb, **link-urile(ancorele) functioneaza** desigur fara probleme si constituie pentru exemplele 1 si 2 daca vreti **solutia alternativa/de rezerva** in atingerea scopului nostru.
 - daca va veti uita pe portalul [DATA.GOV.RO](https://data.gov.ro/en/) veti vedea ca exista o sectiune special destinata Nomenclatoarelor;
 
   Nu uitati ca aceasta sectiune poate fi o foarte buna [sursa de date](https://github.com/govro/) si de ce nu de [informare](https://github.com/govro/example-jsonp/tree/gh-pages) pentru proiectele dumneavoastra!!!
