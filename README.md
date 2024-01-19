@@ -33,12 +33,12 @@ Pentru generarea si validarea documentelor/rapoartelor fiscale pe care le veti t
 - [coduri postale](https://www.posta-romana.ro/cauta-cod-postal.html)
 - ...nomenclatoare INS(Institutul National de Statistica) publicate pe portalul de date ale Guvernului( [DATA.GOV.RO](https://data.gov.ro/organization/institutul-national-de-statistica) )...SIRUTA,CAEN,CPSA,TEMPO...
 - ...portalul [DATA.GOV.RO](https://data.gov.ro/) pune la dispozitie si o pagina pentru programatori/dezvoltatori([developers](https://data.gov.ro/pages/developers); atentie insa la autor si mai ales data publicarii!!!
-     (*Nota*:
-              -- **[CKAN](https://github.com/ckan)** nu are ca interfata de limbaj doar Python - [CKAN-Py](https://pypi.org/project/ckan/)... iata o documentatie pt [CKAN-JS](https://docs.ckan.org/en/2.9/theming/javascript.html); aici gasit un dhid-utilizator pt [CKAN](https://readthedocs.org/projects/ckan/downloads/pdf/latest/) )
-              -- **CKAN API** functioneaza in paradigma client-server si are interfata atat pt Browser cat si pt shell/cmd(cURL,ckanapi); iata o interogare pt browser care cauta tag-ul 2023 :
+     --(*Nota*:
+              --- **[CKAN](https://github.com/ckan)** nu are ca interfata de limbaj doar Python - [CKAN-Py](https://pypi.org/project/ckan/)... iata o documentatie pt [CKAN-JS](https://docs.ckan.org/en/2.9/theming/javascript.html); aici gasit un dhid-utilizator pt [CKAN](https://readthedocs.org/projects/ckan/downloads/pdf/latest/) )
+              --- **CKAN API** functioneaza in paradigma client-server si are interfata atat pt Browser cat si pt shell/cmd(cURL,ckanapi); iata o interogare pt browser care cauta tag-ul 2023 :
               [https://data.gov.ro/api/3/action/package_search?fq=tags:2023](https://data.gov.ro/api/3/action/package_search?fq=tags:2023)
               adica cauta ce date au fost incarcate in serverul-balansat CKAN al portalului data.gov.ro;
-              -- **CKAN** este folosit atat de furnizorii de date(cei care incarca datele) cat si de consumatori(cei care descarca ori acceseaza datele direct din server/portal)
+              --- **CKAN** este folosit atat de furnizorii de date(cei care incarca datele) cat si de consumatori(cei care descarca ori acceseaza datele direct din server/portal)
 - [nomenclator CAEN](https://www.onrc.ro/index.php/ro/caen) - activitati [PJ](https://caen.ro/)
 - [nomenclatorul PCUe al domeniilor de activitate](https://edirect.e-guvernare.ro/domeniiactivitate/default.aspx)
 - Nomenclatorul comun al unităților teritoriale de [statistică/INS](https://bucuresti.insse.ro/produse-si-servicii/nomenclatoare-statistice/) [NUTS)](https://www.europarl.europa.eu/factsheets/ro/sheet/99/nomenclatorul-comun-al-unitatilor-teritoriale-de-statistica-nuts-)
