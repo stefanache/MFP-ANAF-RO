@@ -1,7 +1,8 @@
 <h1><p align="center" width="100%">Declaraţie unică (DU/D.212 )- priv. I/V şi CS dat. de PF</p></h1>
 
-[Vizualizrea/Redarea schemei de validare XSD a D212 in format HTML(XSD2HTML) folosind/transformandu-l XHTML cu fisierul XSL de stiluri xs3p.xsl](https://stefanache.github.io/MFP-ANAF-RO/js_scripts/anaf/declaratii/DU_D212/d212_20240110.xsd)
-
+Scop: Vizualizrea/Redarea schemei de validare [XSD](https://stefanache.github.io/MFP-ANAF-RO/js_scripts/anaf/declaratii/DU_D212/d212_20240110.xsd)
+ a D212 in format HTML(XSD2HTML) folosind/transformandu-l XHTML cu fisierul XSL de stiluri xs3p.xsl
+ 
 [**DU=D.212** - privind impozitul pe venit(I/V) şi contribuţiile sociale(CS) datorate de persoanele fizice(PF), conform **OpANAF nr. 6/2024.**]( https://stefanache.github.io/MFP-ANAF-RO/js_scripts/anaf/declaratii/DU_D212/d212_20240110.xsd)
 
 [DU/D212](https://static.anaf.ro/static/10/Anaf/Declaratii_R/declaratie_unica.html) - Se utilizează pentru declararea impozitului pe veniturile realizate şi a contribuţiilor sociale datorate  pe anul 2023, precum şi a impozitului estimat şi a contribuţiilor sociale datorate, pe  anul 2024. - publicat în data de 10.01.2024
