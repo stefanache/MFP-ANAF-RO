@@ -40,7 +40,7 @@ Pentru generarea si validarea documentelor/rapoartelor fiscale pe care le veti t
   [https://data.gov.ro/api/3/action/package_search?fq=tags:2023](https://data.gov.ro/api/3/action/package_search?fq=tags:2023)
   adica cauta ce date au fost incarcate in sistemul balansat de servere CKAN al portalului data.gov.ro;
   - **[CKAN](https://docs.ckan.org/en/latest/user-guide.html)** este folosit atat de furnizorii de date(cei care incarca datele) cat si de catre consumatori(cei care descarca ori acceseaza datele direct din server/portal);
-  - **[CKAN]** poate fi folosit(upload/download/search) atat in interogarile web(via Browser ori via API) cat si local/[on-prem](https://en.wikipedia.org/wiki/On-premises_software)(asta doar daca va instalati propriul [server CKAN](https://docs.ckan.org/en/2.9/maintaining/installing/install-from-package.html) si apoi il interogati din reteaua locala)
+  - **[CKAN]** poate fi folosit(upload/download/search) atat in interogarile web(via Browser ori via [API](https://data.gov.ro/ro/api/1/util/snippet/api_info.html?resource_id=57abf39a-82e7-422b-b2ec-a7bfb39d67f5)) cat si local/[on-prem](https://en.wikipedia.org/wiki/On-premises_software)(asta doar daca va instalati propriul [server CKAN](https://docs.ckan.org/en/2.9/maintaining/installing/install-from-package.html) si apoi il interogati din reteaua locala)
   - **[ChatGPT despre CKAN](https://chat.openai.com/c/cc7b346d-96da-46c3-8761-62a03332d18e)** nu ezitati sa folositi ChatGPT(caruia ii multumim pentru ca exista:) pentru completarea fondului de cunostinte privind acest produs software
 - 
 - [nomenclator CAEN](https://www.onrc.ro/index.php/ro/caen) - activitati [PJ](https://caen.ro/)
