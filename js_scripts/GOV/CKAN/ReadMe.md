@@ -1,4 +1,4 @@
-## [**ReadMe.1st**](https://stefanache.github.io/MFP-ANAF-RO/js_scripts/GOV/CKAN](https://stefanache.github.io/MFP-ANAF-RO/js_scripts/GOV/CKAN/ReadMe.md)
+## [**ReadMe.1st**](https://stefanache.github.io/MFP-ANAF-RO/js_scripts/GOV/CKAN/ReadMe.md)
 
 
 
