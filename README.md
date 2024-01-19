@@ -419,6 +419,9 @@ Va invit sa consultati si directorul "js_scripts/anaf/declaratii/DU_D212/" si sa
 
 In finalul acestei sectiuni as vrea sa mai spun ca si [institutiile publice](https://www.portalinstitutiipublice.ro/calendar/2023/02/) au de depus [declaratii/rapoarte](https://static.anaf.ro/static/10/Anaf/Declaratii_R/1020_2013.html) la ANAF
 
+Daca doriti o baza legala aparuta prin 2010 despre "Declaraţiei privind obligaţiile de plată a contribuţiilor sociale, impozitului pe venit şi evidenţa nominală a persoanelor asigurate " [H.1397/2010](https://lege5.ro/App/Document/geztsnrvgm/conditiile-ce-trebuie-respectate-de-catre-fisierul-xml-pentru-depunerea-electronica-a-declaratiilor-de-la-art-1-hotarare-1397-2010?pid=45544315#p-45544315) aparuta pe site-ul Lege5.ro
+veti avea imaginea unui document legal in care gasiti o specificatie extrem de tehnica.
+
 </details>
 
  ## 5. [**MFP**](https://mfinante.gov.ro/domenii) - factor integrator:
