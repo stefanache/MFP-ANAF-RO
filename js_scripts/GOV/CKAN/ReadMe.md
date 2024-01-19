@@ -25,7 +25,7 @@ Pentru mai multe detalii(privind AJAX si nu numai?!) consultati bine-cunoscutul 
 
   **Solutia pt exemplul 1 a fost sa inlocuiesc http cu https in fisierul original script.js**;
 
-  In schimb link-urile(<a href="..."/>) functioneaza desigur fara probleme si constituie pentru exemplele 1 si 2 daca vreti solutia de rezerva.
+  In schimb link-urile(ancorele) functioneaza desigur fara probleme si constituie pentru exemplele 1 si 2 daca vreti solutia de rezerva.
 - daca va veti uita pe portalul [DATA.GOV.RO](https://data.gov.ro/en/) veti vedea ca exista o sectiune special destinata Nomenclatoarelor;
 
   Nu uitati ca aceasta sectiune poate fi o foarte buna [sursa de date](https://github.com/govro/) si de ce nu de [informare](https://github.com/govro/example-jsonp/tree/gh-pages) pentru proiectele dumneavoastra!!!
