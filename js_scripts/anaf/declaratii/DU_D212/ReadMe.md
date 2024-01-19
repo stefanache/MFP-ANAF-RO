@@ -1,4 +1,6 @@
-<h1><p align="center" width="100%">[Declaraţie unică (2DU/D.212 )- priv. I/V şi CS dat. de PF](https://stefanache.github.io/MFP-ANAF-RO/js_scripts/anaf/declaratii/DU_D212/d212_20240110.xsd)</p></h1>
+<h1><p align="center" width="100%">Declaraţie unică (DU/D.212 )- priv. I/V şi CS dat. de PF</p></h1>
+
+[Vizualizrea/Redarea schemei de validare XSD a D212 in format HTML(XSD2HTML) folosind/transformandu-l XHTML cu fisierul XSL de stiluri xs3p.xsl](https://stefanache.github.io/MFP-ANAF-RO/js_scripts/anaf/declaratii/DU_D212/d212_20240110.xsd)
 
 [**DU=D.212** - privind impozitul pe venit(I/V) şi contribuţiile sociale(CS) datorate de persoanele fizice(PF), conform **OpANAF nr. 6/2024.**]( https://stefanache.github.io/MFP-ANAF-RO/js_scripts/anaf/declaratii/DU_D212/d212_20240110.xsd)
 
