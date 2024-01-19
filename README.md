@@ -168,7 +168,7 @@ juridice [PJ](https://www.anaf.ro/anaf/internet/ANAF/servicii_online/declaratii_
 
 legate de toate formularele ANAF (eFactura,eTransport,SAF-T(D406),D112,...etc) [formulare ANAF](https://www.anaf.ro/anaf/internet/ANAF/asistenta_contribuabili/declararea_obligatiilor_fiscale/toate_formularele/)
 
-
+Despre nomenclatoare si de pe unde le puteti culege am discutat in sectiunea precedenta la topicul [Nomenclatoare](https://github.com/stefanache/MFP-ANAF-RO/blob/main/README.md#nomenclatoare) asa incat le puteti descarca(de cele mai multe ori URL-urile nu va permit sa le luati direct de pe site asa incat descarcare este cea mai sigura metoda de culegere informatii) pentru a le folosi in procesul de depunere a facturilor-electronice in format UBL/xml(ma refer desigur la etapele de generare si de validare si nu la etapele de transmite si incarcare)
 
 De asemenea, puteti cauta o serie de informatii privind [facturarea electronica pe site-ul ASRO](https://magazin.asro.ro/Search?q=factura+electronica)
 
