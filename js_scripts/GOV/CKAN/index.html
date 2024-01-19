@@ -4,9 +4,12 @@
   <title> Ajax Example - data.gov.ro - search</title>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
   <!--<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>-->
-  <!--<script src="script.js"></script>-->  
+  <script src="script.js">
  </head> 
  <body>
+    <button onclick="onButtonClick()">Get datasets</button>
+    <ul id="list">
+    </ul>
   <a href="https://data.gov.ro/en/api/3/action/datastore_search?q=jones&resource_id=6ee318d9-2452-485c-9bb0-7a7626d7ad06">CKAN Data API</a>
   <script>
           var data = {
