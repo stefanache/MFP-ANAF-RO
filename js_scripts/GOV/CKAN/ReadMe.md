@@ -1,5 +1,8 @@
 ## [**ReadMe.1st**](https://github.com/stefanache/MFP-ANAF-RO/blob/main/js_scripts/GOV/CKAN/ReadMe.md)
 
+[CKAN](https://data.gov.ro/en/organization)(Comprehensive Knowledge Archive Network)
+
+
 a se vedea si portalul ameican [api.data.gov - Agency Manual](https://api.data.gov/docs/agency-manual/)
 
 [exemplu javascript **CKAN** pt **data.gov.ro**](https://data.gov.ro/ro/api/1/util/snippet/api_info.html?resource_id=57abf39a-82e7-422b-b2ec-a7bfb39d67f5)
