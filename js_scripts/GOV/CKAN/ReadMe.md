@@ -11,7 +11,7 @@ Puteti citi mai multe in sub-sectiunea "[Nomenclatoare](https://github.com/stefa
 
 Pentru mai multe detalii(privind AJAX si nu numai?!) consultati bine-cunoscutul site [w3schools](https://www.w3schools.com/js/js_ajax_examples.asp)
 
-** Remarca: **
+** Note: **
 - am folosit [jquery](https://www3.ntu.edu.sg/home/ehchua/programming/webprogramming/jQuery_Basics.html) pentru a nu denatura exemplul CKAN oferit de portalul data.gov.ro dar
   poate fi folosit si cod scris pur/direct in javascript
 - pentru a descarca libraria [JQuery](https://www.w3schools.com/jquery/tryit.asp?filename=tryjquery_ajax_ajax) am folosit [CDN-ul Google] (https://www3.ntu.edu.sg/home/ehchua/programming/webprogramming/jQuery_Basics.html) desi sunt o multime de alte variante(ex. [CDN-ul Cloudflare](https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js)
@@ -20,6 +20,8 @@ Pentru mai multe detalii(privind AJAX si nu numai?!) consultati bine-cunoscutul 
   Nu uitati ca aceasta sectiune poate fi o foarte buna [sursa de date](https://github.com/govro/) si de nu de [informare](https://github.com/govro/example-jsonp/tree/gh-pages) pentru proiectele dumneavoastra!!!
 - puteti folosi motorul de cautare Google(cu parametrii setati corespunzator/doriti) pentru a vedea [ce s-a mai incarcat recent pe acest portal?](https://www.google.com/search?q=data.gov.ro+ckan&lr=lang_ro&sca_esv=599800748&rlz=1C1JJTC_enRO1087RO1087&tbs=lr:lang_1ro,qdr:d&sxsrf=ACQVn0_dUxkY5iAFLJVL6P_oU77sa6RPNw:1705675047182&source=lnt&sa=X&ved=2ahUKEwiJlqja1umDAxXxJhAIHQ_OBO4QpwV6BAgCEA0&biw=1850&bih=875&dpr=1)
   
-- Sistemul balansat de servere CKAN [data.gov.ro](https://gov.palcu.ro/2016/07/14/ultima-zi.html) necesita o activitate intensa de [administrare](https://gov.palcu.ro/2016/07/14/ultima-zi.html).
-
+- sistemul balansat de servere CKAN [data.gov.ro](https://gov.palcu.ro/2016/07/14/ultima-zi.html) necesita o activitate intensa de [administrare](https://gov.palcu.ro/2016/07/14/ultima-zi.html).
+  
+- o metodologie CKAN pentru publicarea  datelor deschise sub egida POCA o puteti gasi pe site-ul [INS](https://insse.ro/cms/files/opendata/2020-09-14-105456.958150Metodologie-date-deschisefeb2019.pdf)
+- 
   Subiectul [Datelor deschise](https://sites.google.com/upg-ploiesti.ro/resurse-se/alte-resurse/surse-de-date) nu este un subiect strict specific datelor de eGuvernare.; Acest este un subiect amplu/de mare anvergura.
