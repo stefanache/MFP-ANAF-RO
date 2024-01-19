@@ -3,4 +3,4 @@
 Il puteti incerca folosind acest link: [https://stefanache.github.io/MFP-ANAF-RO/js_scripts/GOV/CKAN](https://stefanache.github.io/MFP-ANAF-RO/js_scripts/GOV/CKAN) in browser-ul 
 dumneavoastra.
 
-Puteti citi mai multe in sub-sectiunea "[Nomenclatoare](https://github.com/stefanache/MFP-ANAF-RO/#nomenclatoare)" a primei sectiuni(cea cu [Introducerea](https://github.com/stefanache/MFP-ANAF-RO/tree/main#anaf-autoritate-fiscala-introducere-nomenclatoare)).
+Puteti citi mai multe in sub-sectiunea "[Nomenclatoare](https://github.com/stefanache/MFP-ANAF-RO/tree/main?tab=readme-ov-file#nomenclatoare)" a primei sectiuni(cea cu [Introducerea](https://github.com/stefanache/MFP-ANAF-RO/tree/main#anaf-autoritate-fiscala-introducere-nomenclatoare)).
