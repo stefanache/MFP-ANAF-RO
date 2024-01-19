@@ -65,7 +65,7 @@ De asemenea puteti instala extensii de/pt browser(-ul) pentru a vizualiza direct
 
 Pentru  fisierul asociat .XSD(modificat pt a avea "style-sheet"-ul oferit/conferit de xs3p.xsl) fiind vizualizabil direct in Browser nu trebuie sa intreprindeti nimic in plus deoarece broaserele in mod nativ pot deschide orice fisier xml(inclusiv acesta .xsd)
 
-Tot ce am discutat aici despre afisarea fisierului XSD folosind XSL se poate aplica si in cazul oricarui fisier XSD(astfel ca  rezultatul acesta il putem folosi/utiliza pentru toate formularele ANAF care au fisier [.xsd](https://www.w3schools.com/xml/schema_facets.asp) asociat).
+Tot ce am discutat aici despre afisarea fisierului XSD folosind XSL se poate aplica si in cazul oricarui fisier XSD(astfel ca  rezultatul acesta il putem folosi/utiliza pentru toate formularele ANAF care au fisier de/pt validare [*.xsd](https://www.w3schools.com/xml/schema_facets.asp) asociat).
 
 Daca doriti sa folositi un XSD pentru a valida un fisier de date de intrare .xml sau daca doriti sa obtineti un vizualizator("render")/extractor-HTML de date din xml(xml2HTML via XSL) folosind transformatorul/transformarea XHTML, puteti apela la aceasta fila PDF-11a [XSD and XSLT ](https://www.albahari.com/nutshell/XSDandXSLT.pdf) de manual- pt cei ce lucreaza cu [.NET/C#](https://learn.microsoft.com/en-us/dotnet/api/system.xml.xsl.xslcompiledtransform?view=net-8.0) ori puteti pur si simplu consulata bine-cunoscutul [w3schools](https://www.w3schools.com/xml/xsl_transformation.asp) pentru cei ce vor sa foloseasca doar tehnologia XML(XML,XSD,XSL...);
 
