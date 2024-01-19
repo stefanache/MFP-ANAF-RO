@@ -8,3 +8,5 @@ Il puteti incerca folosind acest link: [https://stefanache.github.io/MFP-ANAF-RO
 dumneavoastra.
 
 Puteti citi mai multe in sub-sectiunea "[Nomenclatoare](https://github.com/stefanache/MFP-ANAF-RO/tree/main?tab=readme-ov-file#nomenclatoare)" a primei sectiuni(cea cu [Introducerea](https://github.com/stefanache/MFP-ANAF-RO/tree/main#anaf-autoritate-fiscala-introducere-nomenclatoare)).
+
+Pentru mai multe detalii privind AJAX consultati bine-cunostul site [w3schools](https://www.w3schools.com/js/js_ajax_examples.asp)
