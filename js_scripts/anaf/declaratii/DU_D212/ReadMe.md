@@ -23,11 +23,11 @@ Eu m-am oprit asupra acestui produs [xs3p](https://xml.fiforms.org/xs3p/) pe car
 
 Iata cum am procedat:
 
--mai intai am descarcat [fisierul XSD original](view-source:https://static.anaf.ro/static/10/Anaf/Declaratii_R/AplicatiiDec/d212_20240110.xsd) [d212_20240110.xsd](https://static.anaf.ro/static/10/Anaf/Declaratii_R/AplicatiiDec/d212_20240110.xsd) de pe site-ul [ANAF](https://static.anaf.ro/static/10/Anaf/Declaratii_R/declaratie_unica.html))
+- mai intai am descarcat [fisierul XSD original](view-source:https://static.anaf.ro/static/10/Anaf/Declaratii_R/AplicatiiDec/d212_20240110.xsd) [d212_20240110.xsd](https://static.anaf.ro/static/10/Anaf/Declaratii_R/AplicatiiDec/d212_20240110.xsd) de pe site-ul [ANAF](https://static.anaf.ro/static/10/Anaf/Declaratii_R/declaratie_unica.html))
 
--am deschis fisierul cu un editor obisnuit(click dreapta pe fisier si apoi open with cu editorul dorit) si apoi
+- am deschis fisierul cu un editor obisnuit(click dreapta pe fisier si apoi open with cu editorul dorit) si apoi
 
--dupa primal linie/rand:
+- dupa primal linie/rand:
 
       <?xml version="1.0" encoding="UTF-8"?>
 
@@ -45,7 +45,7 @@ Iata cum am procedat:
 
  (restul linii/randurilor ramanand neschimbate)
 
- -apoi acest fisier poate fi deschis in orice browser obisnuit pentru a-i vedea continutul sau intr-un mod cat de cat mai prietenos:
+ - apoi acest fisier poate fi deschis in orice browser obisnuit pentru a-i vedea continutul sau intr-un mod cat de cat mai prietenos:
 
   in cazul meu: [https://stefanache.github.io/MFP-ANAF-RO/js_scripts/anaf/declaratii/DU_D212/d212_20240110.xsd](https://stefanache.github.io/MFP-ANAF-RO/js_scripts/anaf/declaratii/DU_D212/d212_20240110.xsd)
  
@@ -57,7 +57,7 @@ Am facut si eu acest lucru si l-am [descarcat](https://static.anaf.ro/static/10/
 Mentionez ca acest fisier PDF este "read-only"(poate fi doar citit) si nu necesita setati sau permisiuni speciale.
 Acest fisier "read-only" PDF este scris/emis/editat in format traditional/clasic si nu este un "document inteligent" adica nu are nevoie de un fisier XML asociat in care sa fie validate(utilizand schema d212_20240110.xsd) si apoi preluate/stocate datele introduse de catre utilizatorul care completeaza datele in formularul acesta PDF(cum este cazul fisierului dclUnica_2024-v1.0.0_10012024.pdf)
 
-Laprima vedere/consultare/analiza se poate observa ca sunt folosite nomenclatoarele de judete si tari. Apoi vedem ca inr-un camp codurile CAEN sunt validate o o lista scurta/o selectie de coduri CAEN(nu tot/intreg nomenclatorul CAEN)
+La prima vedere/consultare/analiza se poate observa ca sunt folosite nomenclatoarele de judete si tari. Apoi vedem ca inr-un camp codurile CAEN sunt validate o o lista scurta/o selectie de coduri CAEN(nu tot/intreg nomenclatorul CAEN)
 
 *Nota*
 
