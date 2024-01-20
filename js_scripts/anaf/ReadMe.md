@@ -1,7 +1,7 @@
 - aici gasiti informatii in format xml despre [versiunile CI/CD ale ANAF](https://static.anaf.ro/static/10/Anaf/update5/versiuni.xml)
-- 
+
 - pe forumul DevForum puteti gasi un subiect foarte interesant: [generare PDF inteligent](https://devforum.ro/t/generare-pdf-inteligent-pentru-anaf/19005/2)
-- 
+ 
 - despre [PDF-Inteligent](https://devforum.ro/t/generare-pdf-inteligent-pentru-anaf/19005) gasiti cate ceva pe [DevForum](https://devforum.ro/t/utilizare-certificat-in-adobe-reader-cu-trans-sped/17419) sau pe... [stackoverflow](https://stackoverflow.com/questions/76736428/programatically-fill-government-pdf-xfa-dynamic) gasiti despre PDF XFA dinamic.
 
 - despre validarea si semnatura digitala folosind Acrobat puteti gasi procedura la [Adobe](https://helpx.adobe.com/ro/acrobat/using/validating-digital-signatures.html)
