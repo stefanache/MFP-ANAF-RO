@@ -33,9 +33,11 @@
           url: 'https://data.gov.ro/ro/api/3/action/datastore_search',
           data: data,
           dataType: 'jsonp',
-          success: OnSuccess
+          success: success: function(response) {
+            parseResults(response.result)
+          },
         });
-     }
+     }   
    </script>
  </body>
 <html>
