@@ -3,4 +3,4 @@ Domeniile publice pentru date deschise publicate de [data.gov.ro](https://domeni
 
 Pentru limba engleza: [data.gov.ro/en](https://data.gov.ro/en/datarequest?state=open)
 
-Siteul [e-Guvernare](https://www.e-guvernare.ro/) 
+Siteul [e-Guvernare](https://www.e-guvernare.ro/) al Autoritatii pentru Digitalizarea României
