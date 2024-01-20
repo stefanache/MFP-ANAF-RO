@@ -21,21 +21,19 @@
   
    <script>
     function onClickButton(event) {
-           //https://data.gov.ro/en/api/3/action/datastore_search?q=jones&resource_id=6ee318d9-2452-485c-9bb0-7a7626d7ad06
-           var data = {
-             resource_id: '6ee318d9-2452-485c-9bb0-7a7626d7ad06', // the resource id
-             limit: 5, // get 5 results
-             q: 'jones' // query for 'jones'
-           };
-           $.ajax({
-             url: 'https://data.gov.ro/ro/api/3/action/datastore_search',
-             data: data,
-             dataType: 'jsonp',
-             success: function(response) {
-               console.log(response.result.total)
-               //alert('Total results found: ' + response.result.total)
-             },
-           });
+        var data = {
+          resource_id: '57abf39a-82e7-422b-b2ec-a7bfb39d67f5', // the resource id
+          limit: 5, // get 5 results
+          q: 'jones' // query for 'jones'
+        };
+        $.ajax({
+          url: 'https://data.gov.ro/ro/api/3/action/datastore_search',
+          data: data,
+          dataType: 'jsonp',
+          success: function(data) {
+            alert('Total results found: ' + data.result.total)
+          }
+        });
      }
    </script>
  </body>
