@@ -11,4 +11,5 @@ Site-uri ca [infoTVA](https://infotva.manager.ro/articole/formulare-si-declarati
 au adus rand pe rand, in/la momente diferite din istoria formularului(*iata din istoria este importanta!!!*), [informatii lamuritoare](https://www.sagasoft.ro/forum/viewtopic.php?t=13941) care pot veni in sprijinul dvs.
 
 Sunt articole pe internet(cum este cel al celor de la mediaLogic) care vin sa lamureasca si aspectul [semnarii digitale D112](https://medialogic.ro/blog/2011/12/19/cum-semnezi-o-d112-daca-ai-doar-fisierul-xml/) atunci cand ai deja XML-ul  ori PDF-ul(desigur validate dar nesemnate inca).
+
 [D112](https://static.anaf.ro/static/10/Anaf/declunica/d112_pdf_utilizare_09022011.pdf) - Declaraţie privind obligaţiile de plată a contribuţiilor sociale(CS), impozitului pe venit(I/V) şi evidenţa nominală(EN) a persoanelor asigurate(PA)
