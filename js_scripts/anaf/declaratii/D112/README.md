@@ -1,4 +1,4 @@
-<h1><p align="center" width="100%">FORMULAR PDF INTELIGENT  D112</p></h1>
+<h1><p align="center" width="100%"><a href="https://stefanache.github.io/sMFP-ANAF-RO/js_scripts/anaf/declaratii/D112/d112_13122023.xsd">FORMULAR PDF INTELIGENT  D112</a>a></p></h1>
 
 [**D112** - Decl.priv.oblig.de plata ale CS,I/V si EN a PA](https://static.anaf.ro/static/10/Anaf/Declaratii_R/112.html) are mai multe variante in functie de baza legala(Ordinul comun...)
 sub incidenta caruia va aflati dumneavoastra sau/si afacerea dvs.
