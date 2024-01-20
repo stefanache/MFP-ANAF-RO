@@ -1,4 +1,4 @@
-### Decalaratii ANAF ###
+### **Decalaratii ANAF** ###
 
 Pentru a vedea calendarul obligatiilor fiscale puteti apela la aceasta pagina a celor de la [Lege5](https://lege5.ro/calendar)
 
