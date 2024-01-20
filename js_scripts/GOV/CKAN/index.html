@@ -20,6 +20,9 @@
    <button onclick="onClickButton()">Get resource</button>
   
    <script>
+    function OnSuccess(response){
+      alert('Total results found: ' + response.result.total);
+    }
     function onClickButton(event) {
         var data = {
           resource_id: '57abf39a-82e7-422b-b2ec-a7bfb39d67f5', // the resource id
@@ -30,9 +33,7 @@
           url: 'https://data.gov.ro/ro/api/3/action/datastore_search',
           data: data,
           dataType: 'jsonp',
-          success: function(data) {
-            alert('Total results found: ' + data.result.total)
-          }
+          success: OnSuccess
         });
      }
    </script>
