@@ -1,0 +1,1 @@
+[D112](INSTRUCTIUNI DE UTILIZARE FORMULAR PDF INTELIGENT  D112 ) - Declaraţie privind obligaţiile de plată a contribuţiilor sociale(CS), impozitului pe venit(I/V) şi evidenţa nominală(EN) a persoanelor asigurate(PA)
