@@ -22,5 +22,6 @@
     
   - pe github aveti detalii despre modulu [pdfjsLib](https://mozilla.github.io/pdf.js/api/draft/module-pdfjsLib.html)
   - cateva cuvinte pt pdf.js+XFA pt utilizatorii de [Linux](https://fortintam.com/blog/please-adapt-pdfjs-xfa-forms-for-linux-pdf-readers/)
+  - puteti folosi motorul [caut si gasesc](https://www.cautsigasesc.net/web?q=pdf+js+viewer+demo&gclid=Cj0KCQiA-62tBhDSARIsAO7twbZIDdBENFb_kmmLVZnuBzIh1oxzvEhfjcVZRXziihUp-ZpsXHMoDL4aAuUtEALw_wcB&qo=semQuery&an=google_s&tt=rmd&ad=semD&ag=fw81&am=broad&akid=66e0af33-5528-41f0-b758-dc2c2279a92a-0-cg_gsb) pt demo-uri ale aceastei speta
 
 - aici aveti o discutie interesanta despre utilizarea certificatului digital de la [Trans-Sped](https://devforum.ro/t/utilizare-certificat-in-adobe-reader-cu-trans-sped/17419)
