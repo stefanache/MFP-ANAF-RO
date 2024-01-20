@@ -24,5 +24,6 @@
   - cateva cuvinte pt pdf.js+XFA pt utilizatorii de [Linux](https://fortintam.com/blog/please-adapt-pdfjs-xfa-forms-for-linux-pdf-readers/)
   - puteti folosi motorul [caut si gasesc](https://www.cautsigasesc.net/web?q=pdf+js+viewer+demo&gclid=Cj0KCQiA-62tBhDSARIsAO7twbZIDdBENFb_kmmLVZnuBzIh1oxzvEhfjcVZRXziihUp-ZpsXHMoDL4aAuUtEALw_wcB&qo=semQuery&an=google_s&tt=rmd&ad=semD&ag=fw81&am=broad&akid=66e0af33-5528-41f0-b758-dc2c2279a92a-0-cg_gsb) pt demo-uri ale aceastei speta
   - [Adobe](https://helpx.adobe.com/livecycle/kb/xfa-forms-firefox-chrome.html) are un articol foarte interesant si simplu in care se arata cum se deschid in browserele FireFox si Chrome fisierele PDF bazate pe XFA
+  - bugZilla semnaleaza aici un [bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1717668) legat de acest subiect pdf.js+XFA
 
 - aici aveti o discutie interesanta despre utilizarea certificatului digital de la [Trans-Sped](https://devforum.ro/t/utilizare-certificat-in-adobe-reader-cu-trans-sped/17419)
