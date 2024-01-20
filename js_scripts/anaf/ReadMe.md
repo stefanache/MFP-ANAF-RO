@@ -10,3 +10,5 @@
   o problema legata tot de pdf.js se poate gasi pe [stackoverflow](https://stackoverflow.com/questions/76895019/how-to-use-pdf-js-lib-to-fill-xfa-pdf-forms)
 
   chiar [Adobe LiveCycle](https://experienceleaguecommunities.adobe.com/t5/adobe-livecycle-questions/pdf-js-adds-basic-xfa-support/m-p/404238) are un anunt legat de suportul XFA oferit de catre pdf.js
+
+  iata si cateva exemple de utilizare [pdf.js](https://mozilla.github.io/pdf.js/examples/)
