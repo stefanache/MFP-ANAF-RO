@@ -19,3 +19,5 @@ Alte articole se refera la [validarea D112](https://nextup.ro/faq-salarii/cum-va
 [D112](https://static.anaf.ro/static/10/Anaf/declunica/d112_pdf_utilizare_09022011.pdf) - Declaraţie privind obligaţiile de plată a contribuţiilor sociale(CS), impozitului pe venit(I/V) şi evidenţa nominală(EN) a persoanelor asigurate(PA)
 
 Si MFP au pe site postate [specificatii tehnice MFP](https://extranet.anaf.mfinante.gov.ro/anaf/extranet/Servicii/specificatii_tehnice/!ut/p/a0/04_Sj9CPykssy0xPLMnMz0vMAfGjzOLdLTwMDC2DDbws_AJcDAKdAgycPX3djQ0sTPWDU_P0C7IdFQF7JZ91/) in acest [sens](https://isjialomita.ro/EduSAL/EduSAL-pasii%20pentru%20D112.pdf)
+
+Pentru [validarea D112] cu DukIntegrator pe un sistem Windows puteti consulta aceste [instructiuni detailate](https://reisoft.ro/actualizari/ReiSal/Instalarea%20programului%20de%20validare%20a%20fisierului%20XML.pdf)
