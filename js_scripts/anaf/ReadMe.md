@@ -27,7 +27,7 @@
   - bugZilla semnaleaza aici un [bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1717668) legat de acest subiect pdf.js+XFA si multe intrebari pe [stackowerflow](https://stackoverflow.com/questions/tagged/pdf.js?sort=active)
   - cineva semnaleaza pe github ca desi pdf.js viewer, plugin-ul/extensia Adobe-Reader pt browser-ul Chrome are suport XFA nu reuseste sa afiseze corect PDF-ul(soft A) al [DU/D112](https://github.com/mozilla/pdf.js/issues/17510)
   - [aici](https://chromewebstore.google.com/detail/xfa-pdf-to-normal-pdf-xfa/glgjhoiegfmmjoojodcbilmcahhidmal?hl=ro) arata cum se trece de la XFA PDF la un PDF normal/aplatizat(XFA Form Flatten)
-    
+  - aici avem un [document/articol](https://helpx.adobe.com/ro/acrobat/kb/edit-xfa-form.html) care explica - cum se editează formularele XFA create în LiveCycle Designer  
 
 - aici aveti o discutie interesanta despre utilizarea certificatului digital de la [Trans-Sped](https://devforum.ro/t/utilizare-certificat-in-adobe-reader-cu-trans-sped/17419)
 - o [evaluare JS cu pdfHTML](https://kb.itextpdf.com/itext/evaluating-js-with-pdfhtml) in Java si C#
