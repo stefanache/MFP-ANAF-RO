@@ -28,8 +28,8 @@ ult<!DOCTYPE html>
              url: 'https://data.gov.ro/ro/api/3/action/datastore_search',
              data: data,
              dataType: 'jsonp',
-             success: function(result) {
-               alert('Total results found: ' + result.total)
+             success: function(response) {
+               alert('Total results found: ' + response.result.total)
              }
            });
    </script>
