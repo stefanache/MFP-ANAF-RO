@@ -1,1 +1,23 @@
+<script>
+  const url = 'https://webservicesp.anaf.ro/PlatitorTvaRest/api/v8/ws/tva';
 
+const headers = {
+    'Accept': 'application/json',
+    'Accept-Language': 'en-US,en;q=0.7,ro;q=0.3',
+    'Connection': 'keep-alive',
+    'Referer': 'https://mfinante.gov.ro',
+    'Content-Type': 'application/json',
+};
+const today = new Date().toISOString().slice(0, 10);
+const data = [{'cui': '19467555', 'data': today}];
+console.log(data)
+
+fetch(url, {
+    method: 'POST',
+    headers: headers,
+    body: JSON.stringify(data)
+})
+    .then(response => response.json())
+    .then(data => console.log(data))
+    .catch((error) => console.error('Error:', error));
+</script>
