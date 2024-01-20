@@ -21,5 +21,6 @@
   - wiki mozzila prezentare pdf.js( a se vedea suportul [XFA](https://wiki.mozilla.org/PDF.js?title=Template:Warning) pt crearea de formulare PDF pt achizitie date XML
     
   - pe github aveti detalii despre modulu [pdfjsLib](https://mozilla.github.io/pdf.js/api/draft/module-pdfjsLib.html)
+  - cateva cuvinte pt pdf.js+XFA pt utilizatorii de [Linux](https://fortintam.com/blog/please-adapt-pdfjs-xfa-forms-for-linux-pdf-readers/)
 
 - aici aveti o discutie interesanta despre utilizarea certificatului digital de la [Trans-Sped](https://devforum.ro/t/utilizare-certificat-in-adobe-reader-cu-trans-sped/17419)
