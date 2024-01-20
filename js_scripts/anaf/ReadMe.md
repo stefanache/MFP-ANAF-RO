@@ -27,3 +27,4 @@
   - bugZilla semnaleaza aici un [bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1717668) legat de acest subiect pdf.js+XFA si multe intrebari pe [stackowerflow](https://stackoverflow.com/questions/tagged/pdf.js?sort=active)
 
 - aici aveti o discutie interesanta despre utilizarea certificatului digital de la [Trans-Sped](https://devforum.ro/t/utilizare-certificat-in-adobe-reader-cu-trans-sped/17419)
+- o [evaluare JS cu pdfHTML](https://kb.itextpdf.com/itext/evaluating-js-with-pdfhtml) in Java si C#
