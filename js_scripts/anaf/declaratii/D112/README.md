@@ -12,6 +12,8 @@ au adus rand pe rand, in/la momente diferite din istoria formularului(*iata din 
 
 Sunt articole pe internet(cum este cel al celor de la mediaLogic) care vin sa lamureasca si aspectul [semnarii digitale D112](https://medialogic.ro/blog/2011/12/19/cum-semnezi-o-d112-daca-ai-doar-fisierul-xml/) atunci cand ai deja XML-ul  ori PDF-ul(desigur validate dar nesemnate inca).
 
+Despre structura fisieruui XML al D112 puteti studia si aceasta [anexa 8](https://www.softsystems.ro/images/stories/pdf/anexa8.pdf)
+
 Alte articole se refera la [validarea D112](https://nextup.ro/faq-salarii/cum-validezi-declaratia-112-cu-duk/) folosind [DukIntegrator-java/Soft-J](https://www.ciel.ro/wp-content/uploads/docs/JavaD112.pdf) ori utilizand XSD.
 
 [D112](https://static.anaf.ro/static/10/Anaf/declunica/d112_pdf_utilizare_09022011.pdf) - Declaraţie privind obligaţiile de plată a contribuţiilor sociale(CS), impozitului pe venit(I/V) şi evidenţa nominală(EN) a persoanelor asigurate(PA)
