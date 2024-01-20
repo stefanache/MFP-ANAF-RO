@@ -18,3 +18,5 @@ Poratalul UE pt TVA: [Vies](https://ec.europa.eu/taxation_customs/vies/#/faq)
 Daca programati in .NET/C# si doriti sa downloadati fisiere de pe data.gov.ro si apoi  sa le valorificati aveti aici proiectul [ROP](https://github.com/ignatandrei/RomaniaOpenData/blob/master/ROP/ROPCommon/DownloadData.cs)
 
 UPG Ploiesti ofera [Surse de date](https://sites.google.com/upg-ploiesti.ro/resurse-se/alte-resurse/surse-de-date) deschise
+
+O lista de proiecte si articole care folosesc [data.gov.ro](https://gov.palcu.ro/lista)
