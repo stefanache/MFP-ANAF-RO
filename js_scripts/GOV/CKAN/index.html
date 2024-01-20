@@ -16,8 +16,11 @@
 
    <h2> exemplu 2: Descarcarea unei resurse-id: 6ee318d9-2452-485c-9bb0-7a7626d7ad06 </h2>
    <p>(<small>primelor 5 randuri din resursa in format jsonP</small>)</p>
-    <a href="https://data.gov.ro/en/api/3/action/datastore_search?q=jones&resource_id=6ee318d9-2452-485c-9bb0-7a7626d7ad06">CKAN Data API</a>
+   <a href="https://data.gov.ro/en/api/3/action/datastore_search?q=jones&resource_id=6ee318d9-2452-485c-9bb0-7a7626d7ad06">CKAN Data API</a>
+   <button onclick="onClickButton()">Get resource</button>
+  
    <script>
+    function onClickButton(event) {
            //https://data.gov.ro/en/api/3/action/datastore_search?q=jones&resource_id=6ee318d9-2452-485c-9bb0-7a7626d7ad06
            var data = {
              resource_id: 'ef677b86-411d-4e1a-a0f3-5aec26b8e5a3', // the resource id
@@ -33,6 +36,7 @@
                alert('Total results found: ' + response.result.total)
              }
            });
+     }
    </script>
  </body>
 <html>
