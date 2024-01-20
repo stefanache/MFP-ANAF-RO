@@ -5,6 +5,6 @@ sub incidenta caruia va aflati dumneavoastra sau/si afacerea dvs.
 
 Toate aceste variante au soft-ul A(adica formularul inteligent PDF atasat- gol gata de completare cu date) si softul J(java).
 Puteti gasi desigur si fisiere de validare XSD pentru datele XML ce se vor incarca in formularul inteligent D112 PDF devenind un final daca vreti un cuplu (PDF,XML)
-Anexele-validari vin si ele cu lamuriri asupra validarii si completarii corecte cu date a formularului inteligent.
+Anexele-validari vin si ele cu lamuriri asupra validarii si completarii corecte cu date a formularului inteligent. Uneori aveti si alte instructiuni de utilizare/manipulare/completare a acestui formular.
 
 [D112](https://static.anaf.ro/static/10/Anaf/declunica/d112_pdf_utilizare_09022011.pdf) - Declaraţie privind obligaţiile de plată a contribuţiilor sociale(CS), impozitului pe venit(I/V) şi evidenţa nominală(EN) a persoanelor asigurate(PA)
