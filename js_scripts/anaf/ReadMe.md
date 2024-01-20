@@ -3,7 +3,7 @@
 - pe forumul DevForum puteti gasi un subiect foarte interesant: [generare PDF inteligent](https://devforum.ro/t/generare-pdf-inteligent-pentru-anaf/19005/2)
   - instalarea [XML Notepad](https://github.com/microsoft/XmlNotepad?tab=readme-ov-file) din ghithub este simpla:
     eu am optat pentru varianta "1. Programul de instalare ClickOnce® - acesta este cel mai convenabil, instalați-l direct din browserul web.";
-    am descarcat in downloads "XmlNotepad.application" si am dat un simplu dublu click si l-am instalat!!!
+    am descarcat in downloads "[XmlNotepad.application](https://lovettsoftwarestorage.blob.core.windows.net/downloads/XmlNotepad/XmlNotepad.application)" si am dat un simplu dublu click si l-am instalat!!!
  
 - despre [PDF-Inteligent](https://devforum.ro/t/generare-pdf-inteligent-pentru-anaf/19005) gasiti cate ceva pe [DevForum](https://devforum.ro/t/utilizare-certificat-in-adobe-reader-cu-trans-sped/17419) sau pe... [stackoverflow](https://stackoverflow.com/questions/76736428/programatically-fill-government-pdf-xfa-dynamic) gasiti despre PDF XFA dinamic.
 
