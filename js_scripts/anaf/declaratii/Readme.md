@@ -1,4 +1,4 @@
-### **[Decalaratii ANAF](https://www.afm.ro/taxe_declaratii.php)** ###
+### **[Declaratii ANAF](https://www.afm.ro/taxe_declaratii.php)** ###
 
 Pentru a vedea calendarul obligatiilor fiscale puteti apela la aceasta pagina a celor de la [Lege5](https://lege5.ro/calendar)
 
