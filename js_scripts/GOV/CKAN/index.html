@@ -1,4 +1,4 @@
-<!DOCTYPE html> 
+ult<!DOCTYPE html> 
 <html> 
  <head> 
   <title> Ajax Example - data.gov.ro - search</title>
@@ -28,8 +28,8 @@
              url: 'https://data.gov.ro/ro/api/3/action/datastore_search',
              data: data,
              dataType: 'jsonp',
-             success: function(data) {
-               alert('Total results found: ' + data.result.total)
+             success: function(result) {
+               alert('Total results found: ' + result.total)
              }
            });
    </script>
