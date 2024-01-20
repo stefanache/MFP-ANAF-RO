@@ -8,3 +8,5 @@
   iata si acest [Firefox viewer](https://blog.mozilla.org/attack-and-defense/2021/10/14/implementing-form-filling-and-accessibility-in-the-firefox-pdf-viewer/) - Implementarea completării formularelor și a accesibilității în vizualizatorul PDF Firefox
 
   o problema legata tot de pdf.js se poate gasi pe [stackoverflow](https://stackoverflow.com/questions/76895019/how-to-use-pdf-js-lib-to-fill-xfa-pdf-forms)
+
+  chiar [Adobe LiveCycle](https://experienceleaguecommunities.adobe.com/t5/adobe-livecycle-questions/pdf-js-adds-basic-xfa-support/m-p/404238) are un anunt legat de suportul XFA oferit de catre pdf.js
