@@ -12,3 +12,5 @@
   chiar [Adobe LiveCycle](https://experienceleaguecommunities.adobe.com/t5/adobe-livecycle-questions/pdf-js-adds-basic-xfa-support/m-p/404238) are un anunt legat de suportul XFA oferit de catre pdf.js
 
   iata si cateva exemple simple de [utilizare pdf.js](https://mozilla.github.io/pdf.js/examples/)
+
+  sunt si unele probleme la formulare mai [complexe](https://lightrun.com/answers/mozilla-pdf-js-complex-xfa-forms-fail-to-render-properly-or-at-all-with-xfa-enabled) pt combinatia pdf.js+XFA
