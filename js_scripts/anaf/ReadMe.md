@@ -26,6 +26,7 @@
   - [Adobe](https://helpx.adobe.com/livecycle/kb/xfa-forms-firefox-chrome.html) are un articol foarte interesant si simplu in care se arata cum se deschid in browserele FireFox si Chrome fisierele PDF bazate pe XFA
   - bugZilla semnaleaza aici un [bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1717668) legat de acest subiect pdf.js+XFA si multe intrebari pe [stackowerflow](https://stackoverflow.com/questions/tagged/pdf.js?sort=active)
   - cineva semnaleaza pe github ca desi pdf.js viewer, plugin-ul/extensia Adobe-Reader pt browser-ul Chrome are suport XFA nu reuseste sa afiseze corect PDF-ul(soft A) al [DU/D112](https://github.com/mozilla/pdf.js/issues/17510)
+  -   - [aici](https://chromewebstore.google.com/detail/xfa-pdf-to-normal-pdf-xfa/glgjhoiegfmmjoojodcbilmcahhidmal?hl=ro) arata cum se trece de la XFA PDF la un PDF normal/aplatizat(XFA Form Flatten)
     
 
 - aici aveti o discutie interesanta despre utilizarea certificatului digital de la [Trans-Sped](https://devforum.ro/t/utilizare-certificat-in-adobe-reader-cu-trans-sped/17419)
