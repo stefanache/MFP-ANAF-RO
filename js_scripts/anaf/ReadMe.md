@@ -18,7 +18,7 @@
 
   - sunt si unele probleme la formulare mai [complexe](https://lightrun.com/answers/mozilla-pdf-js-complex-xfa-forms-fail-to-render-properly-or-at-all-with-xfa-enabled) pt combinatia pdf.js+XFA
 
-  - wiki mozzila prezentare pdf.js( a se vedea suportul [XFA](https://wiki.mozilla.org/PDF.js?title=Template:Warning) pt crearea de formulare PDF pt achizitie date XML
+  - wiki mozilla prezentare pdf.js( a se vedea suportul [XFA](https://wiki.mozilla.org/PDF.js?title=Template:Warning) pt crearea de formulare PDF pt achizitie date XML
     
   - pe github aveti detalii despre modulu [pdfjsLib](https://mozilla.github.io/pdf.js/api/draft/module-pdfjsLib.html)
   - cateva cuvinte pt pdf.js+XFA pt utilizatorii de [Linux](https://fortintam.com/blog/please-adapt-pdfjs-xfa-forms-for-linux-pdf-readers/)
