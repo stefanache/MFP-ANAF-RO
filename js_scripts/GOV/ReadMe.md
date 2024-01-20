@@ -1,6 +1,8 @@
 
 Domeniile publice pentru date deschise publicate de [data.gov.ro](https://domenii.gov.ro/new/date-deschise/)
 
+[Resurse data.gov.ro](https://data.gov.ro/pages/resources)
+
 Pentru limba engleza: [data.gov.ro/en](https://data.gov.ro/en/datarequest?state=open)
 
 [Seturi de date data.gov.ro](https://data.gov.ro/dataset)
