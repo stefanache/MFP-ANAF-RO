@@ -19,5 +19,7 @@
   - sunt si unele probleme la formulare mai [complexe](https://lightrun.com/answers/mozilla-pdf-js-complex-xfa-forms-fail-to-render-properly-or-at-all-with-xfa-enabled) pt combinatia pdf.js+XFA
 
   - wiki mozzila prezentare pdf.js( a se vedea suportul [XFA](https://wiki.mozilla.org/PDF.js?title=Template:Warning) pt crearea de formulare PDF pt achizitie date XML
+    
+  - pe github aveti detalii despre modulu [pdfjsLib](https://mozilla.github.io/pdf.js/api/draft/module-pdfjsLib.html)
 
 - aici aveti o discutie interesanta despre utilizarea certificatului digital de la [Trans-Sped](https://devforum.ro/t/utilizare-certificat-in-adobe-reader-cu-trans-sped/17419)
