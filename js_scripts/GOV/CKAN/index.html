@@ -20,8 +20,8 @@
    <button onclick="onClickButton()">Get resource</button>
   
    <script>
-     function getData(api_key,res_id,offset,limit) {
-        url="https://api.data.gov.in/resource/" + res_id + "?api-key=" + api_key + "&format=json&offset=" + offset + "&limit=" + limit;
+     function getData(api_data_gov,api_key,res_id,offset,limit) {
+        url="https://"+api_data_gov+"/resource/" + res_id + "?api-key=" + api_key + "&format=json&offset=" + offset + "&limit=" + limit;
         console.log(url);
         fetch(url).then(response => {
              return response.json();
@@ -30,11 +30,12 @@
         });
     }    
     function onClickButton(event) {
+        api_data_gov="api.data.gov.in";
         api_key="579b464db66ec23bdd000001cdd3946e44ce4aad7209ff7b23ac571b";
         res_id="386ce542-8e39-4c4c-98e0-ddc28c2b5c56";
         // Call for a few offsets.
         let offsets = [0,1,2,3,4];      
-        offsets.forEach(offset => getData(api_key,res_id,offset, 10));
+        offsets.forEach(offset => getData(api_data_gov, api_key,res_id,offset, 10));
         var data = {
           resource_id: '6ee318d9-2452-485c-9bb0-7a7626d7ad06', // the resource id
           limit: 5, // get 5 results
