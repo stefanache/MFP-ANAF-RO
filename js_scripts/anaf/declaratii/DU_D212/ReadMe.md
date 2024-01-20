@@ -1,4 +1,4 @@
-<h1><p align="center" width="100%">Declaraţie unică (DU/D.212 )- priv. I/V şi CS dat. de PF</p></h1>
+<h1><p align="center" width="100%"><a href="https://stefanache.github.io/MFP-ANAF-RO/js_scripts/anaf/declaratii/DU_D212/d212_20240110.xsd">Declaraţie unică (DU/D.212 )- priv. I/V şi CS dat. de PF</a></p></h1>
 
 Scop: Vizualizrea/Redarea schemei de validare [XSD](https://stefanache.github.io/MFP-ANAF-RO/js_scripts/anaf/declaratii/DU_D212/d212_20240110.xsd)
  a D212 in format HTML(XSD2HTML) folosind/transformandu-l XHTML cu fisierul XSL de stiluri xs3p.xsl
