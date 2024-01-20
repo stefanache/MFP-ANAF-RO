@@ -4,3 +4,4 @@
 - despre validarea si semnatura digitala folosind Acrobat puteti gasi procedura la [Adobe](https://helpx.adobe.com/ro/acrobat/using/validating-digital-signatures.html)
 
 - mozzila are pe github pun [pdf.js](https://github.com/mozilla/pdf.js/issues/2373) ... iata aici cateva probleme legate desuportul XFA(XML Forms Architecture)
+  iata si acest [Firefox viewer](https://blog.mozilla.org/attack-and-defense/2021/10/14/implementing-form-filling-and-accessibility-in-the-firefox-pdf-viewer/) - Implementarea completării formularelor și a accesibilității în vizualizatorul PDF Firefox
