@@ -17,3 +17,5 @@ Despre structura fisieruui XML al D112 puteti studia si aceasta [anexa 8](https:
 Alte articole se refera la [validarea D112](https://nextup.ro/faq-salarii/cum-validezi-declaratia-112-cu-duk/) folosind [DukIntegrator-java/Soft-J](https://www.ciel.ro/wp-content/uploads/docs/JavaD112.pdf) ori utilizand XSD.
 
 [D112](https://static.anaf.ro/static/10/Anaf/declunica/d112_pdf_utilizare_09022011.pdf) - Declaraţie privind obligaţiile de plată a contribuţiilor sociale(CS), impozitului pe venit(I/V) şi evidenţa nominală(EN) a persoanelor asigurate(PA)
+
+Si MFP au pe site postate [specificatii tehnice MFP](https://extranet.anaf.mfinante.gov.ro/anaf/extranet/Servicii/specificatii_tehnice/!ut/p/a0/04_Sj9CPykssy0xPLMnMz0vMAfGjzOLdLTwMDC2DDbws_AJcDAKdAgycPX3djQ0sTPWDU_P0C7IdFQF7JZ91/) in acest sens
