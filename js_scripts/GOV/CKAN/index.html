@@ -21,7 +21,7 @@
   
    <script>
      function getData(api_data_gov,api_key,res_id,offset,limit) {
-        url="https://"+api_data_gov+"/resource/" + res_id + "?api-key=" + api_key + "&format=json&offset=" + offset + "&limit=" + limit;
+        url="https://"+api_data_gov+"/resource/" + res_id + "?format=json&offset=" + offset + "&limit=" + limit;
         console.log(url);
         fetch(url).then(response => {
              return response.json();
