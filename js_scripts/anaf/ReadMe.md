@@ -6,3 +6,5 @@
 - mozzila are pe github pun [pdf.js](https://github.com/mozilla/pdf.js/issues/2373) ... iata aici cateva probleme legate desuportul XFA(XML Forms Architecture)
 
   iata si acest [Firefox viewer](https://blog.mozilla.org/attack-and-defense/2021/10/14/implementing-form-filling-and-accessibility-in-the-firefox-pdf-viewer/) - Implementarea completării formularelor și a accesibilității în vizualizatorul PDF Firefox
+
+  o problema legata tot de pdf.js se poate gasi pe [stackoverflow](https://stackoverflow.com/questions/76895019/how-to-use-pdf-js-lib-to-fill-xfa-pdf-forms)
