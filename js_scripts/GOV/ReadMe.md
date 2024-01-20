@@ -6,3 +6,5 @@ Pentru limba engleza: [data.gov.ro/en](https://data.gov.ro/en/datarequest?state=
 Siteul [e-Guvernare](https://www.e-guvernare.ro/) al Autoritatii pentru Digitalizarea României
 
 Date deschise furnizate de [ONRC](https://data.gov.ro/organization/onrc) ce pot fi descarcate de pe portalul data.gov.ro
+
+Poratalul UE pt TVA: [Vies](https://ec.europa.eu/taxation_customs/vies/#/faq)
