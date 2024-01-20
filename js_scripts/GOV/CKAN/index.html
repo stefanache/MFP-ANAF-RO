@@ -1,3 +1,4 @@
+
 /<!DOCTYPE html> 
 <html> 
  <head> 
@@ -45,8 +46,17 @@
         res_id="57abf39a-82e7-422b-b2ec-a7bfb39d67f5";
         api_data_gov="data.gov.ro";
         url="https://" + api_data_gov + "/ro/api/3/action/datastore_search?q=jones&resource_id=" + res_id;
-        fetch(url).then(response => {
-             return response.json();
+        fetch(url,	{
+						method: 'GET',
+						withCredentials: false, 
+						crossorigin: true,
+						mode: 'no-cors',
+						headers: {
+										'Access-Control-Allow-Origin': '*',
+								},
+					}
+		).then(response => {
+             return response.json()
         }).then(json => {
            //console.log(`Data length from offset #${offset}: `, JSON.stringify(json).length);
            parseResults(json.result)
