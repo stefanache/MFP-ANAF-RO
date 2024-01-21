@@ -8,6 +8,8 @@
 
 [ANAF](https://www.anaf.ro/anaf/internet/ANAF/despre_anaf/strategii_anaf/proiecte_digitalizare/e.factura) [XML2PDF](https://www.anaf.ro/uploadxml/) online
 
+[MFP](https://mfinante.gov.ro/web/efactura/informatii-tehnice) - informatii tehnice despre [eFactura](https://mfinante.gov.ro/web/efactura/informatii-tehnice)
+
 Pe site-ul [eFactura-XML](https://www.e-factura-xml.ro/) am gasit o prezentare succinta a sistemului eFactura
 
 [Avocat.net](https://www.avocatnet.ro/t18715/xml-e-Factura.html) are un articol interesant privind [generarea](https://www.avocatnet.ro/t18715/xml-e-Factura.html) fisierului ce va contine datele [XML](https://www.avocatnet.ro/t18715/xml-e-Factura.html) ale [e-Facturii](https://www.avocatnet.ro/t18715/xml-e-Factura.html)
