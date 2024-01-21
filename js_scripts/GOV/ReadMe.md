@@ -1,13 +1,13 @@
 
-[Cautare dataset-uri](https://data.gov.ro/dataset?q=2023&sort=score+desc%2C+metadata_modified+desc) in [data.gov.ro](https://data.gov.ro/) in vederea [descarcarii](https://data.gov.ro/dataset?q=2024&organization=agentia-nationala-de-administrare-fiscala)
+[Cautare dataset-uri](https://data.gov.ro/dataset?q=2023&sort=score+desc%2C+metadata_modified+desc) in [data.gov.ro](https://data.gov.ro/) in vederea [descarcarii](https://data.gov.ro/dataset?q=2024&organization=agentia-nationala-de-administrare-fiscala) :
 
-Daca descarcati fisiere excel(.xlsx) indiferent de sursa atunci pentru accesare puteti sa incercati un alt repo de-al meu(ce-i drept mai/cam vechi): [SheetJS](https://stefanache.github.io/SheetJS/); Important ar fi si m-as bucura daca v-ar fi de folos!
+- daca descarcati fisiere excel(.xlsx) indiferent de sursa atunci pentru accesare puteti sa incercati un alt repo de-al meu(ce-i drept mai/cam vechi): [SheetJS](https://stefanache.github.io/SheetJS/); Important ar fi si m-as bucura daca v-ar fi de folos!
 
-Daca descarcati ceva in format XML atunci poate nu ar strica sa va uitati pe acele mici exemple(html/JS/css) pe care le-am creat la sectiunea [nomenclatoare geografice MFP](https://github.com/stefanache/MFP-ANAF-RO/blob/main/js_scripts/mfp/nomenclatoare_geografice/)
+- daca descarcati ceva in format XML atunci poate nu ar strica sa va uitati pe acele mici exemple(html/JS/css) pe care le-am creat la sectiunea [nomenclatoare geografice MFP](https://github.com/stefanache/MFP-ANAF-RO/blob/main/js_scripts/mfp/nomenclatoare_geografice/)
 
-Daca descarcati in format JSON/JSONP aveti deja [exemplul 1 din subdirectorul CKAN](https://stefanache.github.io/MFP-ANAF-RO/js_scripts/GOV/CKAN) - ***a se vedea sursa fisierului index.html din acest subdirector***
+- daca descarcati in format JSON/JSONP aveti deja [exemplul 1 din subdirectorul CKAN](https://stefanache.github.io/MFP-ANAF-RO/js_scripts/GOV/CKAN) - ***a se vedea sursa fisierului index.html din acest subdirector***
 
-Formatul csv este destul de simplu si parser-ul pe astfel de date nu cred ca ridica probleme - in general sunt campurile unui camp sunt separate prin ***,*** dar trebuie verificat deschizand fisierul intr-un editor de text simplu Notepad++ sau chiar Wordpad ori Notepad(cu optiunea click-dreapta "open with")
+- formatul csv este destul de simplu si parser-ul pe astfel de date nu cred ca ridica probleme - in general sunt campurile unui camp sunt separate prin ***,*** dar trebuie verificat deschizand fisierul intr-un editor de text simplu Notepad++ sau chiar Wordpad ori Notepad(cu optiunea click-dreapta "open with")
 
 Domeniile publice pentru date deschise publicate de [data.gov.ro](https://domenii.gov.ro/new/date-deschise/)
 
