@@ -5,7 +5,7 @@ Daca descarcati fisiere excel(.xlsx) indiferent de sursa atunci pentru accesare 
 
 Daca descarcati ceva in format XML atunci poate nu ar strica sa va uitati pe acele mici exemple(html/JS/css) pe care le-am creat la sectiunea [nomenclatoare geografice MFP](https://github.com/stefanache/MFP-ANAF-RO/blob/main/js_scripts/mfp/nomenclatoare_geografice/)
 
-Daca descarcati in format JSON/JSONP aveti deja [exemplul 1 din subdirectorul CKAN](https://stefanache.github.io/MFP-ANAF-RO/js_scripts/GOV/CKAN) - """a se vedea sursa fisierului index.html din acest subdirector"""
+Daca descarcati in format JSON/JSONP aveti deja [exemplul 1 din subdirectorul CKAN](https://stefanache.github.io/MFP-ANAF-RO/js_scripts/GOV/CKAN) - ***a se vedea sursa fisierului index.html din acest subdirector***
 
 Domeniile publice pentru date deschise publicate de [data.gov.ro](https://domenii.gov.ro/new/date-deschise/)
 
