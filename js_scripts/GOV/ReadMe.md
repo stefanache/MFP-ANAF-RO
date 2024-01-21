@@ -1,6 +1,8 @@
 
 [Cautare dataset-uri](https://data.gov.ro/dataset?q=2023&sort=score+desc%2C+metadata_modified+desc) in [data.gov.ro](https://data.gov.ro/) in vederea [descarcarii](https://data.gov.ro/dataset?q=2024&organization=agentia-nationala-de-administrare-fiscala)
 
+Daca descarcati fisiere .xslx indiferent de sursa atunci pentru accesare puteti sa incercati un alt repo de-al meu(ce-i drept mai/cam vechi): [ShhetJS](https://stefanache.github.io/SheetJS/); Important ar fi si m-as bucura daca v-ar fi de folos!
+
 Domeniile publice pentru date deschise publicate de [data.gov.ro](https://domenii.gov.ro/new/date-deschise/)
 
 [Resurse data.gov.ro](https://data.gov.ro/pages/resources)
