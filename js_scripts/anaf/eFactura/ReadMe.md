@@ -18,4 +18,6 @@ Pe site-ul [eFactura-XML](https://www.e-factura-xml.ro/) am gasit o prezentare s
 
 Si [Factureaza](https://factureaza.ro/ajutor/generarea-fisierelor-xml-pentru-efactura) are aici un articol despre generarea XML/UBL a [eFacturii](https://factureaza.ro/ajutor/generarea-fisierelor-xml-pentru-efactura)
 
+[StillCo](https://stillco.ro/efactura.html?gclid=Cj0KCQiAnrOtBhDIARIsAFsSe51QepGEG89hs2BVSAb4E1bDa-ltUUCSaW7GCuVfes35pVIQfBEMxloaAmfIEALw_wcB) va poate ajuta sa generati fisierul XML/UBL.
+
 
