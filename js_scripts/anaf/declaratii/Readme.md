@@ -12,4 +12,4 @@ Pentru a corecta o declaratie gresita transmisa anterior puteti sa apelati la ac
 
 Un link interesant este acest wiki [XFA-template](https://www.w3.org/1999/05/XFA/xfa-template.html) si aceste [specificatii XFA vs 3.3](https://pdfa.org/norm-refs/XFA-3_3.pdf)
 
-despre XFA si DU gasiti pe forumul [reddit](https://www.reddit.com/r/Romania/comments/108zhut/declara%C8%9Bia_unic%C4%83_2023_pdful_inteligent_pe_siteul/?rdt=49791&onetap_auto=true) cate informatii utile
+despre XFA si DU gasiti pe forumul [reddit](https://www.reddit.com/r/Romania/comments/108zhut/declara%C8%9Bia_unic%C4%83_2023_pdful_inteligent_pe_siteul/?rdt=49791&onetap_auto=true) cate informatii utile(daca aveti nevoie de un calculator pt. norma de venit-PFA il gasiti pe siteul celor de la [contabilitateadigitala](https://www.contabilitatedigitala.ro/calculator-pfa-norma-de-venit-2023/) )
