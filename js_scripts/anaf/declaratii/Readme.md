@@ -28,6 +28,6 @@ Este bine sa urmariti ghid-ul pus la dispozitie de furnizorul dvs. de suport(spr
 
 Iata aici pe forumul [Softpedia](https://forum.softpedia.com/topic/1226458-declaratie-unica-pfa-prin-spv/) o discutie(legata de DU) despre virusi si sursele de instalare.
 
-Iata cineva spunea in 2020 ca formularele XFA(suport software proprietar) se pot deschide [doar](https://republica.ro/declaratia-unica-2020-modelul-oficial-al-formularului) in Windows si numai cu Adobe-Reader(daca mi se permite as mai adauga AR-actualizat)
+Iata cineva spunea in 2020 ca formularele XFA(suport software proprietar) se pot deschide [doar](https://republica.ro/declaratia-unica-2020-modelul-oficial-al-formularului) in Windows si numai cu Adobe-Reader(daca mi se permite as mai adauga AR-actualizat si nu stiu exact cum stau lucrurile la device-urile mobile?...)
 
 
