@@ -32,4 +32,4 @@ Iata cineva spunea in 2020 ca formularele XFA(suport software proprietar) se pot
 
 Interesant si acest articol despre standardizare XFA de pe [Blogul lui Razvan](https://razvansandu.zando.ro/2012/10/declaratii-fiscale-fisiere-pdf-care-nu.html)
 
-Aigi gsiti un convertor online pus la dispozitie de [Aspose](https://products.aspose.app/pdf/ro/conversion/xml-to-pdf)
+Aici gsiti un convertor online pus la dispozitie de [Aspose](https://products.aspose.app/pdf/ro/conversion/xml-to-pdf)...sper sa va fie util uneori...
