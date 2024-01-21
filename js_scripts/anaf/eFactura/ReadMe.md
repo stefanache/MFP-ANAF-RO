@@ -10,4 +10,4 @@ Pe site-ul [eFactura-XML](https://www.e-factura-xml.ro/) am gasit o prezentare s
 
 [Facturis](https://facturis-online.ro/e-factura/modele-de-facturi-in-xml-acceptate-in-sistemul-e-factura-pentru-agentiile-de-turism.html) prezinta cateva modele [XML](https://facturis-online.ro/e-factura/modele-de-facturi-in-xml-acceptate-in-sistemul-e-factura-pentru-agentiile-de-turism.html) de facturi particulare acceptate. 
 
-ANAF [XML2PDF](https://www.anaf.ro/uploadxml/) online
+[ANAF](https://www.anaf.ro/anaf/internet/ANAF/despre_anaf/strategii_anaf/proiecte_digitalizare/e.factura) [XML2PDF](https://www.anaf.ro/uploadxml/) online
