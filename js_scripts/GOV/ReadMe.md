@@ -11,7 +11,7 @@ Pentru limba engleza: [data.gov.ro/en](https://data.gov.ro/en/datarequest?state=
 
 Siteul [e-Guvernare](https://www.e-guvernare.ro/) al Autoritatii pentru Digitalizarea României
 
-Date deschise furnizate de [ONRC](https://data.gov.ro/organization/onrc) ce pot fi descarcate de pe portalul data.gov.ro
+Date deschise furnizate de [ONRC](https://data.gov.ro/organization/onrc) ce pot fi descarcate de pe portalul data.gov.ro; [ONRC-WSDL](https://portal.onrc.ro/ONRCPortalWeb/wservices/QueryService/?wsdl); reddit forum despre [ONRC SOAP](v)
 
 Date furnizate de [MS](https://data.gov.ro/datarequest?organization=ms)
 
