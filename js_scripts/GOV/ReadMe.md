@@ -1,5 +1,5 @@
 
-Cautare dataset-uri in [data.gov.ro] in vederea descarcarii
+Cautare dataset-uri in [data.gov.ro](https://data.gov.ro/) in vederea descarcarii
 
 Domeniile publice pentru date deschise publicate de [data.gov.ro](https://domenii.gov.ro/new/date-deschise/)
 
