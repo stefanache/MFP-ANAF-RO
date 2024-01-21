@@ -8,4 +8,6 @@ Pe contul LinkedIn al lui [Bogdan Ionescu](https://www.google.com/search?sca_esv
 
 Studiul articolului "Despre eFactura pe intelesul tuturor" al celor de la [factureaza](https://blog.factureaza.ro/e-factura-este/) poate constitui un bun punct de plecare.
 
+Apoi cei de la [WinMnetor](https://github.com/thejhorse/SUNAT-UBL-2.1-XML-Firmador/releases) prezinta pe docplayer prezinta eFactura implemntata de catre dansii.
+
 Un articol interesant este si acesta "Cum se exporta factura in format .xml pentru importul in sistemul e-Factura?" editat de [Nicoleta Schifirnet](http://help.keyvision.eu/en/articles/6349012-cum-se-exporta-factura-in-format-xml-pentru-importul-in-sistemul-e-factura) pe site-ul [help.keyvision.eu](http://help.keyvision.eu) - solutia KeyVision este o solutie care se adreseaza avocatilor care doresc(contra-cost) sa aiba suport facil e-Factura
