@@ -9,3 +9,5 @@ Etapele pe scurt pentru depunerea declaratiilor fiscale le puteti gasi in aceast
 Detalii despre Formularul 150 puteti citi [inregistrarea certificatului calificat](https://www.anaf.ro/inregcalificat/)
 
 Pentru a corecta o declaratie gresita transmisa anterior puteti sa apelati la aceste [instructiuni](https://mfinante.gov.ro/documents/35673/254042/Ciofliceanu05.pdf)
+
+Un link interesant este acest wiki [XFA-template](https://www.w3.org/1999/05/XFA/xfa-template.html)
