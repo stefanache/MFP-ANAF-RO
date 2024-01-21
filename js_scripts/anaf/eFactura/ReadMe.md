@@ -23,3 +23,5 @@ Si [Factureaza](https://factureaza.ro/ajutor/generarea-fisierelor-xml-pentru-efa
 [UAT GL/VN](https://static.anaf.ro/static/10/Galati/Vrancea/Procedura-e-factura.pdf) prezinta succint procedura de procesare [eFactura](https://static.anaf.ro/static/10/Galati/Vrancea/Procedura-e-factura.pdf)
 
 [EvoZon](https://www.linkedin.com/pulse/e-factura-cum-automatiz%C4%83m-procesul-de-facturare-electronic%C4%83-evozon-uvidf/?originalSubdomain=ro) are un articol pe Linkedin despre automatizarea procesului eFactura.
+
+[Nexus](https://www.youtube.com/watch?v=IOTlFY-VDjc&ab_channel=NEXUSMEDIAS.R.L.) - pe YT gasiti - Cum puteti folosi o aplicatie web de facturare gratuita
