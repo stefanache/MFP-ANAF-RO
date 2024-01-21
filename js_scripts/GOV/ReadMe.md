@@ -9,6 +9,8 @@
 
 - formatul csv este destul de simplu si parser-ul JS pt astfel de date nu cred ca ridica probleme - in general,campurile unui rand sunt separate prin virgula(**,**) dar trebuie verificat ... deschizand fisierul intr-un editor de text simplu Notepad++ sau chiar Wordpad ori Notepad(cu optiunea click-dreapta "open with") pt a vedea exact structura randului(de obicei va lamuriti din primul rand cum stau lucrurile!!!)
 
+- despre celelalte formate nu cred ca/sper ca veti avea nevoie... dar daca totusi este necesar gasiti pe github tools-uri scrise in javascript pur pt web, pe parte de client(nu neaparat pe parte de server/nodeJS)
+  
 Domeniile publice pentru date deschise publicate de [data.gov.ro](https://domenii.gov.ro/new/date-deschise/)
 
 [Resurse data.gov.ro](https://data.gov.ro/pages/resources)
