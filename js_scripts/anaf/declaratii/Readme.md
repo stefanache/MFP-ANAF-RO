@@ -33,3 +33,5 @@ Iata cineva spunea in 2020 ca formularele XFA(suport software proprietar) se pot
 Interesant si acest articol despre standardizare [XFA](https://helpx.adobe.com/ro/acrobat/kb/unable-edit-pdf.html) de pe [Blogul lui Razvan](https://razvansandu.zando.ro/2012/10/declaratii-fiscale-fisiere-pdf-care-nu.html)
 
 Aici gsiti un convertor online pus la dispozitie de [Aspose](https://products.aspose.app/pdf/ro/conversion/xml-to-pdf)...sper sa va fie util uneori...
+
+Atunci cand veti avea probleme cu raportarea fiscala, nu ezitati sa cautati sa invatati din experienta ["unica" sau nu](https://www.contributors.ro/declara%C8%9Bia-unica-experien%C8%9Ba-unica/) a altora deoarece s-ar putea ca si altii sa [fi](https://dexonline.ro/articol/Ghid_de_exprimare_corect%C4%83) intampinat in aventua lor fix aceiasi problema .
