@@ -15,3 +15,5 @@ Un link interesant este acest wiki [XFA-template](https://www.w3.org/1999/05/XFA
 despre XFA si DU gasiti pe forumul [reddit](https://www.reddit.com/r/Romania/comments/108zhut/declara%C8%9Bia_unic%C4%83_2023_pdful_inteligent_pe_siteul/?rdt=49791&onetap_auto=true) cate informatii utile(daca aveti nevoie de un calculator pt. norma de venit-PFA il gasiti pe siteul celor de la [contabilitateadigitala](https://www.contabilitatedigitala.ro/calculator-pfa-norma-de-venit-2023/) )
 
 ANAF are din cand in cand sesiuni de comunicare pe [facebook](https://www.facebook.com/www.ANAF.ro/posts/2360905437562096/?paipv=0&eav=AfaF1m7iWWsSjCf2JWBfI6NAiPeLAbAM-jXVXtISvew-uFGGpzEurN_jBuL3Ff9QXco&_rdr) si nu numai.
+
+Despre erori se poate vorbi la nesfarsit ...iata o [eroare](https://www.certsign.ro/ro/suport/eroare-la-semnarea-pdf-urilor-cu-adobe-acrobat-reader-dc/) aparuta chiar la semnarea PDF-urilor...dar nu caut vinovati... ci incerc sa adun la un loc,cat mai multe informatii, cat de cat utile care sa vina in ajutorul dvs. 
