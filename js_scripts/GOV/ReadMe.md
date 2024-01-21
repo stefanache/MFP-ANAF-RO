@@ -3,7 +3,7 @@
 
 Daca descarcati fisiere excel(.xlsx) indiferent de sursa atunci pentru accesare puteti sa incercati un alt repo de-al meu(ce-i drept mai/cam vechi): [SheetJS](https://stefanache.github.io/SheetJS/); Important ar fi si m-as bucura daca v-ar fi de folos!
 
-Daca insa descarcati ceva in format XML atunci poate nu ar strica sa va uitati pe acele mici exemple(html/JS/css) pe care le-am creat la sectiunea [nomenclatoare geografice MFP](https://github.com/stefanache/MFP-ANAF-RO/blob/main/js_scripts/mfp/nomenclatoare_geografice/readMe.md)
+Daca descarcati ceva in format XML atunci poate nu ar strica sa va uitati pe acele mici exemple(html/JS/css) pe care le-am creat la sectiunea [nomenclatoare geografice MFP](https://github.com/stefanache/MFP-ANAF-RO/blob/main/js_scripts/mfp/nomenclatoare_geografice/readMe.md)
 
 Domeniile publice pentru date deschise publicate de [data.gov.ro](https://domenii.gov.ro/new/date-deschise/)
 
