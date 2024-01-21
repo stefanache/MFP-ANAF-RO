@@ -19,3 +19,5 @@ ANAF are din cand in cand sesiuni de comunicare pe [facebook](https://www.facebo
 Despre erori se poate vorbi la nesfarsit ...iata o [eroare](https://www.certsign.ro/ro/suport/eroare-la-semnarea-pdf-urilor-cu-adobe-acrobat-reader-dc/) aparuta chiar la semnarea PDF-urilor...dar nu caut vinovati... ci incerc sa adun la un loc,cat mai multe informatii, cat de cat utile care sa vina in ajutorul dvs. 
 
 Iata aici o utilizare in Adobe-Reader...de certificat [TransSped](https://devforum.ro/t/utilizare-certificat-in-adobe-reader-cu-trans-sped/17419)
+
+Incercati sa pastrati pe cat posibil un Adobe-Reader cat mai [actualizat](https://forum.sagasoft.ro/viewtopic.php?p=278847)
