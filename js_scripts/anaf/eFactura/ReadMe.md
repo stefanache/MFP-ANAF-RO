@@ -25,3 +25,7 @@ Si [Factureaza](https://factureaza.ro/ajutor/generarea-fisierelor-xml-pentru-efa
 [EvoZon](https://www.linkedin.com/pulse/e-factura-cum-automatiz%C4%83m-procesul-de-facturare-electronic%C4%83-evozon-uvidf/?originalSubdomain=ro) are un articol pe Linkedin despre automatizarea procesului eFactura.
 
 [Nexus](https://www.youtube.com/watch?v=IOTlFY-VDjc&ab_channel=NEXUSMEDIAS.R.L.) - pe YT gasiti - Cum puteti folosi o aplicatie web de facturare gratuita
+
+[ro-efactura](https://ro-efactura.ro/intrebari/) - Intrebari despre e-Factura - Program RO e-Factura gratis
+
+[2Invoice](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiHpe_Ume6DAxV1QEECHdhCDewYABAAGgJ3cw&ase=2&gclid=Cj0KCQiAnrOtBhDIARIsAFsSe53b2wzgQaSGI_NOPcWNOIQIpYqA99pJM1ViCrSq2lW1-KM1YeEVWJYaAltUEALw_wcB&ohost=www.google.com&cid=CAESVuD2-JBBBfDDGNfe7ZuBnLEFX3X5SYACoB_UvrP8PXSjoP532R5DNAloLV3SvFH1J2C1cSnCtE-ynkcVyGKGNHl0UbeYpy_gYUaqWdfs122U-IAmSvio&sig=AOD64_33O73Io0Evt331YbrUkgaz7iXaAw&q&nis=4&adurl&ved=2ahUKEwiiierUme6DAxXKcvEDHfx2AN44ChDRDHoECAEQAQ) - Program integrat e-Factura XML - Program eFactura XML
