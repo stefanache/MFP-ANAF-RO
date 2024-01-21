@@ -23,3 +23,5 @@ Iata aici o utilizare in Adobe-Reader...de certificat [TransSped](https://devfor
 Incercati sa pastrati pe cat posibil un Adobe-Reader cat mai [actualizat](https://forum.sagasoft.ro/viewtopic.php?p=278847)
 
 Uneori de erori [nu sunteti scutit](https://www.rvx.ro/manual/docs/account/declaratie300/) nici data aveti suport informatic cumparat
+
+Este bine sa urmariti ghid-ul pus la dispozitie de furnizorul dvs. de suport(spre ex ghid [Tdec](https://www.tdec.ro/ghid))
