@@ -20,4 +20,5 @@ Si [Factureaza](https://factureaza.ro/ajutor/generarea-fisierelor-xml-pentru-efa
 
 [StillCo](https://stillco.ro/efactura.html?gclid=Cj0KCQiAnrOtBhDIARIsAFsSe51QepGEG89hs2BVSAb4E1bDa-ltUUCSaW7GCuVfes35pVIQfBEMxloaAmfIEALw_wcB) va poate ajuta sa generati fisierul XML/UBL.
 
+[UAT GL](https://static.anaf.ro/static/10/Galati/Vrancea/Procedura-e-factura.pdf) prezinta succint procedura de procesare eFactura
 
