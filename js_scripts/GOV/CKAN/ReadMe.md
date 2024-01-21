@@ -1,5 +1,9 @@
 ## [**ReadMe.1st**](https://github.com/stefanache/MFP-ANAF-RO/blob/main/js_scripts/GOV/CKAN/ReadMe.md)
 
+**Nota**
+Inainte de utiliza un anumit set de date(dataset) incercati sa-l descarcati local in aplicatia dumneavoastra pe calculatorul sau hosting-ul dvs si sa nu-l utilizati accesand-ul direct din internet pt ca s-ar putea ca lucrurile sa se schimbe brusc si nu-l mai puteti accesa din varii motive(vorba proverbului: "ce-i in mana nu-i minciuna")
+Util si ideal ar fi(daca nu ar fi prea complicat) sa creati sau sa aveti un soft de monitorizare a legaturii de date catre diversele surse de date de pe internet pentru a vedea cand apar modificari in difuzarea lor(in speta cand apare o nou versiune publicata)
+
 [*Scop*](https://stefanache.github.io/MFP-ANAF-RO/js_scripts/GOV/CKAN): **extragerea programatica-AJAX de date** din portalul **data.gov.ro**
 
 [CKAN](https://data.gov.ro/en/organization)(Comprehensive Knowledge Archive Network) este [conectorul/clientul-web](https://data.gov.ro/pages/developers) utilizat catre [datele deschise](https://data.gov.ro/ro/api/1/util/snippet/api_info.html?resource_id=57abf39a-82e7-422b-b2ec-a7bfb39d67f5) gazduite de [data.gov.ro](https://data.gov.ro/en/)
