@@ -7,6 +7,8 @@ Daca descarcati ceva in format XML atunci poate nu ar strica sa va uitati pe ace
 
 Daca descarcati in format JSON/JSONP aveti deja [exemplul 1 din subdirectorul CKAN](https://stefanache.github.io/MFP-ANAF-RO/js_scripts/GOV/CKAN) - ***a se vedea sursa fisierului index.html din acest subdirector***
 
+Formatul csv ste destul de simplu si parser-ul pe astfel de date nu cred ca ridica probleme - in general sunt campurile unui camp sunt separate prin , dar trebuie verificat deschizand fisierul intr-un editor de text simplu Notepad++ sau chiar Wordpad ori Notepad(cu optiunea click-dreapta "open with")
+
 Domeniile publice pentru date deschise publicate de [data.gov.ro](https://domenii.gov.ro/new/date-deschise/)
 
 [Resurse data.gov.ro](https://data.gov.ro/pages/resources)
