@@ -22,8 +22,10 @@ Iata aici o utilizare in Adobe-Reader...de certificat [TransSped](https://devfor
 
 Incercati sa pastrati pe cat posibil un Adobe-Reader cat mai [actualizat](https://forum.sagasoft.ro/viewtopic.php?p=278847)
 
-Uneori de erori [nu sunteti scutit](https://www.rvx.ro/manual/docs/account/declaratie300/) nici data aveti suport informatic cumparat
+Uneori de erori [nu sunteti scutit](https://www.rvx.ro/manual/docs/account/declaratie300/) nici data aveti suport informatic [cumparat](https://www.rvx.ro/manual/docs/account/declaratie394/generarea-declaratiei-394/)
 
 Este bine sa urmariti ghid-ul pus la dispozitie de furnizorul dvs. de suport(spre ex ghid [Tdec](https://www.tdec.ro/ghid))
 
 Iata aici pe forumul [Softpedia](https://forum.softpedia.com/topic/1226458-declaratie-unica-pfa-prin-spv/) o discutie(legata de DU) despre virusi si sursele de instalare.
+
+
