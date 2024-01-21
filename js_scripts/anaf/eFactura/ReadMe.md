@@ -5,3 +5,5 @@
 - [verificare in R.P.Tva](https://letconex.blogspot.com/2023/10/fetch-platitortvarest-api-tva.html) [Registrul Platitorilor TVA](https://stefanache.github.io/MFP-ANAF-RO/js_scripts/anaf/eFactura/index.html)
 
 Pe site-ul [eFactura-XML](https://www.e-factura-xml.ro/) am gasit o prezentare succinta a sistemului eFactura
+
+[Avocat.net] are un articol interesant privind [generarea fisierului ce va contine tatele xml ale EFacturii(https://www.avocatnet.ro/t18715/xml-e-Factura.html)
