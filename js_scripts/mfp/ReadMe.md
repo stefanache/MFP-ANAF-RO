@@ -5,3 +5,5 @@ Cum sa obtii [programatic](https://rstforums.com/forum/topic/94371-cum-s%C4%83-o
 Facturis - biblioteca cu informatii [oficiale](https://facturis-online.ro/e-factura/biblioteca-cu-informatii-oficiale-despre-formatul-xml-pentru-e-factura.html) pt eFactura
 
 Pe contul LinkedIn al lui Bogdan Ionescu am gasit acest [post](https://www.linkedin.com/posts/bogdan-ionescu-657a785b_einvoice-efactura-anaf-activity-7126192250811789313-mjKp/?originalSubdomain=ro) in care vorbeste despe 2 module dezvoltate de colegii dumnealui de la  MICS Software SRL(poate fi util pt cei care utilizeaza Oracle SAP dar am ales sa mentionez acest articol pt a vedea ce sarcini/etape sunt de implementat pe partea de ***transmitere*** facturi eletronice, gata generate in UBL/XML)
+
+Studiul articolului "Despre eFactura pe intelesul tuturor" al celor de la [factureaza](https://blog.factureaza.ro/e-factura-este/) poate fi un bun punct de plecare.
