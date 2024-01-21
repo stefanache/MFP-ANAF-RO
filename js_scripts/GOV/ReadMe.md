@@ -5,7 +5,7 @@
 
 - daca descarcati ceva in format XML atunci poate nu ar strica sa va uitati pe acele mici exemple(html/JS/css) pe care le-am creat la sectiunea [nomenclatoare geografice MFP](https://github.com/stefanache/MFP-ANAF-RO/blob/main/js_scripts/mfp/nomenclatoare_geografice/)
 
-- daca descarcati in format JSON/JSONP aveti deja [exemplul 1 din subdirectorul CKAN](https://stefanache.github.io/MFP-ANAF-RO/js_scripts/GOV/CKAN) - ***a se vedea sursa fisierului index.html din acest subdirector***
+- daca descarcati in format JSON/JSONP aveti deja [exemplul 1 din subdirectorul CKAN](https://stefanache.github.io/MFP-ANAF-RO/js_scripts/GOV/CKAN) - ***a se vedea sursa fisierului [index.html](https://stefanache.github.io/MFP-ANAF-RO/js_scripts/GOV/CKAN/index.html) din acest subdirector***
 
 - formatul csv este destul de simplu si parser-ul pe astfel de date nu cred ca ridica probleme - in general sunt campurile unui camp sunt separate prin ***,*** dar trebuie verificat deschizand fisierul intr-un editor de text simplu Notepad++ sau chiar Wordpad ori Notepad(cu optiunea click-dreapta "open with")
 
