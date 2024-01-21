@@ -21,3 +21,5 @@ Despre erori se poate vorbi la nesfarsit ...iata o [eroare](https://www.certsign
 Iata aici o utilizare in Adobe-Reader...de certificat [TransSped](https://devforum.ro/t/utilizare-certificat-in-adobe-reader-cu-trans-sped/17419)
 
 Incercati sa pastrati pe cat posibil un Adobe-Reader cat mai [actualizat](https://forum.sagasoft.ro/viewtopic.php?p=278847)
+
+Uneori de erori [nu sunteti scutit](https://www.rvx.ro/manual/docs/account/declaratie300/) nici data aveti suport informatic cumparat
