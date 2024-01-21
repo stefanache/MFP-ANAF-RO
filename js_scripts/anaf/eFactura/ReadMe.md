@@ -6,4 +6,4 @@
 
 Pe site-ul [eFactura-XML](https://www.e-factura-xml.ro/) am gasit o prezentare succinta a sistemului eFactura
 
-[Avocat.net](https://www.avocatnet.ro/t18715/xml-e-Factura.html) are un articol interesant privind generarea fisierului ce va contine datele XML ale [e-Facturii](https://www.avocatnet.ro/t18715/xml-e-Factura.html)
+[Avocat.net](https://www.avocatnet.ro/t18715/xml-e-Factura.html) are un articol interesant privind [generarea](https://www.avocatnet.ro/t18715/xml-e-Factura.html) fisierului ce va contine datele [XML](https://www.avocatnet.ro/t18715/xml-e-Factura.html) ale [e-Facturii](https://www.avocatnet.ro/t18715/xml-e-Factura.html)
