@@ -11,7 +11,7 @@ Pentru limba engleza: [data.gov.ro/en](https://data.gov.ro/en/datarequest?state=
 
 Siteul [e-Guvernare](https://www.e-guvernare.ro/) al Autoritatii pentru Digitalizarea României
 
-Date deschise furnizate de [ONRC](https://data.gov.ro/organization/onrc) ce pot fi descarcate de pe portalul data.gov.ro; [ONRC-WSDL](https://portal.onrc.ro/ONRCPortalWeb/wservices/QueryService/?wsdl); reddit discutie forum despre [ONRC SOAP](https://www.reddit.com/r/programare/comments/153oqkj/apisoap_onrcro/);  [catalog firme](https://devforum.ro/t/lista-catalog-firme-din-romania/3636/50?page=3)
+Date deschise furnizate de [ONRC](https://data.gov.ro/organization/onrc) ce pot fi descarcate de pe portalul data.gov.ro; [ONRC-WSDL](https://portal.onrc.ro/ONRCPortalWeb/wservices/QueryService/?wsdl); reddit discutie forum despre [ONRC SOAP](https://www.reddit.com/r/programare/comments/153oqkj/apisoap_onrcro/);  [catalog firme](https://devforum.ro/t/lista-catalog-firme-din-romania/3636/50?page=3); o cautare pe [data.gov.ro](https://data.gov.ro/organization/onrc?q=2024&sort=score+desc%2C+metadata_modified+desc)  pt anul 2024 firme inregistrate la ONRC
 
 Date furnizate de [MS](https://data.gov.ro/datarequest?organization=ms)
 
