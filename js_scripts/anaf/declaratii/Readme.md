@@ -35,3 +35,5 @@ Interesant si acest articol despre standardizare [XFA](https://helpx.adobe.com/r
 Aici gsiti un convertor online pus la dispozitie de [Aspose](https://products.aspose.app/pdf/ro/conversion/xml-to-pdf)...sper sa va fie util uneori...
 
 Atunci cand veti avea probleme cu raportarea fiscala, nu ezitati sa cautati sa invatati din experienta ["unica" sau nu](https://www.contributors.ro/declara%C8%9Bia-unica-experien%C8%9Ba-unica/) a altora deoarece s-ar putea ca si altii sa [fi](https://dexonline.ro/articol/Ghid_de_exprimare_corect%C4%83) intampinat in aventua lor fix aceiasi problema .
+
+Atentie Adobe arata in acest [tutorial](https://helpx.adobe.com/ro/acrobat/kb/cant-view-pdf-web.html) cum sa folositi(de dorit cat mai des) functia de meniu "Check for Updates"
