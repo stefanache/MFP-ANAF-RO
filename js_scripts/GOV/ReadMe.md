@@ -7,7 +7,7 @@
 
 - daca descarcati in format JSON/JSONP aveti deja [exemplul 1 din subdirectorul CKAN](https://stefanache.github.io/MFP-ANAF-RO/js_scripts/GOV/CKAN) - ***a se vedea sursa fisierului [index.html](https://stefanache.github.io/MFP-ANAF-RO/js_scripts/GOV/CKAN/index.html) din acest subdirector***
 
-- formatul csv este destul de simplu si parser-ul JS pt astfel de date nu cred ca ridica probleme - in general,campurile unui rand sunt separate prin virgula(**,**) dar trebuie verificat deschizand fisierul intr-un editor de text simplu Notepad++ sau chiar Wordpad ori Notepad(cu optiunea click-dreapta "open with") pt a vedea exact structura randului(de obicei va lamuriti din primul rand cum stau lucrurile!!!)
+- formatul csv este destul de simplu si parser-ul JS pt astfel de date nu cred ca ridica probleme - in general,campurile unui rand sunt separate prin virgula(**,**) dar trebuie verificat ... deschizand fisierul intr-un editor de text simplu Notepad++ sau chiar Wordpad ori Notepad(cu optiunea click-dreapta "open with") pt a vedea exact structura randului(de obicei va lamuriti din primul rand cum stau lucrurile!!!)
 
 Domeniile publice pentru date deschise publicate de [data.gov.ro](https://domenii.gov.ro/new/date-deschise/)
 
