@@ -30,7 +30,7 @@ Iata aici pe forumul [Softpedia](https://forum.softpedia.com/topic/1226458-decla
 
 Iata cineva spunea in 2020 ca formularele XFA(suport software proprietar) se pot deschide [doar](https://republica.ro/declaratia-unica-2020-modelul-oficial-al-formularului) in Windows si numai cu Adobe-Reader(daca mi se permite as mai adauga AR-actualizat si nu stiu exact cum stau lucrurile la device-urile mobile?...)
 
-Interesant si acest articol despre standardizare [XFA](https://helpx.adobe.com/ro/acrobat/kb/unable-edit-pdf.html) de pe [Blogul lui Razvan](https://razvansandu.zando.ro/2012/10/declaratii-fiscale-fisiere-pdf-care-nu.html)
+Interesant si acest articol despre standardizare [XFA](https://helpx.adobe.com/ro/acrobat/kb/unable-edit-pdf.html) de pe [Blogul lui Razvan](https://razvansandu.zando.ro/2012/10/declaratii-fiscale-fisiere-pdf-care-nu.html); (nu trebuie uitat insa ca deocamdata XFA nu este un sistem deschis ci unul propietar!!!)
 
 Aici gsiti un convertor online pus la dispozitie de [Aspose](https://products.aspose.app/pdf/ro/conversion/xml-to-pdf)...sper sa va fie util uneori...
 
