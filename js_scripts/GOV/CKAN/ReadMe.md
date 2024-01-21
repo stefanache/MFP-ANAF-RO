@@ -2,7 +2,7 @@
 
 **Nota**
 Inainte de utiliza un anumit set de date(dataset) incercati sa-l descarcati local in aplicatia dumneavoastra pe calculatorul sau hosting-ul dvs si sa nu-l utilizati accesand-ul direct din internet pt ca s-ar putea ca lucrurile sa se schimbe brusc si nu-l mai puteti accesa din varii motive(vorba proverbului: "ce-i in mana nu-i minciuna")
-Util si ideal ar fi(daca nu ar fi prea complicat) sa creati sau sa aveti un soft de monitorizare a legaturii de date catre diversele surse de date de pe internet pentru a vedea cand apar modificari in difuzarea lor(in speta cand apare o nou versiune publicata)
+Util si ideal ar fi(daca nu ar fi prea complicat) sa creati sau sa aveti un soft de monitorizare a legaturii catre diversele surse de date de pe internet pentru a vedea cand apar modificari in difuzarea lor(in speta cand apare o nou versiune publicata)
 
 [*Scop*](https://stefanache.github.io/MFP-ANAF-RO/js_scripts/GOV/CKAN): **extragerea programatica-AJAX de date** din portalul **data.gov.ro**
 
