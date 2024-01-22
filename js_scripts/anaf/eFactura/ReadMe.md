@@ -15,7 +15,7 @@ Apoi ati putea extrage din baza voastra de date, intr-un fisier xml, datele fact
 
 Asta v-ar ajuta sa vedeti/previzualizati factura intr-un mod mai **uman** si sa faceti un control vizual cat mai rapid.
 
-Apoi trebuie sa continuati codificarea cu partea de front-end(care poate fi efectuata tot in JS) pt partea generarea propriu-zisa a facturii UBL/XML; 
+Apoi trebuie sa continuati codificarea cu partea de front-end(care poate fi efectuata tot in JS) pt partea generarea propriu-zisa a facturii UBL/XML(UBL=OASIS Universal Business Language); 
 
 Rezultatul il puteti depune automat intr-un **nou tab** construit de voi intr-un camp **<textarea/>** ca sa-l puteti valida, vizualiza si apoi prelua cu **copy-paste** pentru a-l salva in fisierul UBL/XML final;
 
