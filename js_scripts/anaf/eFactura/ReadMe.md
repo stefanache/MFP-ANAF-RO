@@ -44,7 +44,7 @@ Nu uitati... validarea trebuie sa fie conforma/filtrata cu regulile standardelor
 
    [Schematron](https://www.schematron.com/) este un limbaj XML utilizat pentru a specifica aceste reguli de afaceri(business)
 
- - tot in acest director denumit ro16931-1.0.8 gasiti un alte 2 subdirectoare denumite UBL respectiv abstract in care sunt definite modelul si sintaxa cf standardului EN-16931;
+ - tot in acest director denumit ro16931-1.0.8 gasiti alte 2 subdirectoare denumite UBL respectiv abstract in care sunt definite modelul si sintaxa cf standardului EN-16931;
 
     cele 2 fisiere sunt definite tot cu ajutorul limbajului Schematron.
 
