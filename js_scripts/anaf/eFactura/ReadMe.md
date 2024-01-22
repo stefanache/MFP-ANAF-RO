@@ -51,22 +51,24 @@ Nu uitati... validarea trebuie sa fie conforma/filtrata cu/de [**regulile**](htt
    ar tebui sa-l gasiti in [specificatiile tehnice ANAF pt eFactura](https://mfinante.gov.ro/web/efactura/informatii-tehnice)
 
    **(**a se vedea  in acest document care este ultima actualizare a RO-CIUS   spre **ex.**:
-
+ 
+     ...
+ 
+    Artefacte de validare Schematron
+ 
     ...
-
-   Artefacte de validare Schematron
-
-   ...
-
-   Ultima actualizare: [Ordin MFP nr. 1.366/2021](https://static.anaf.ro/static/10/Anaf/legislatie/OMF_1366_2021.pdf) ( a se vedea si [O.4092/14.11.2022](https://legislatie.just.ro/Public/DetaliiDocument/261755))
-
-   ...
-
-   Modificările pot fi consultate [aici](http://static.anaf.ro/static/10/Anaf/Informatii_R/Informatii_modificare_CIUS_RO.pdf)
-
-   ...
-
-   Versiunea  1.0.8/29.12.2022 ... [ro16931-ubl-1.0.8 (07.12.2022) ](https://mfinante.gov.ro/static/10/eFactura/ro16931-ubl-1.0.8.zip)
+ 
+    Ultima actualizare: [Ordin MFP nr. 1.366/2021](https://static.anaf.ro/static/10/Anaf/legislatie/OMF_1366_2021.pdf) ( a se vedea si [O.4092/14.11.2022](https://legislatie.just.ro/Public/DetaliiDocument/261755))
+ 
+    ...
+ 
+    Modificările pot fi consultate [aici](http://static.anaf.ro/static/10/Anaf/Informatii_R/Informatii_modificare_CIUS_RO.pdf)
+ 
+    ...
+ 
+    Versiunea  1.0.8/29.12.2022 ... [ro16931-ubl-1.0.8 (07.12.2022) ](https://mfinante.gov.ro/static/10/eFactura/ro16931-ubl-1.0.8.zip)
+ 
+    ...
 
    cf. acestui **exemplu** de **versiune**(O.1.366/2021) de **Ordin MFP** se observa ca pt pentru e-Factura sunt acceptate 2 sintaxe [**UBL2.1**](https://github.com/ConnectingEurope/eInvoicing-EN16931/tree/master/ubl) si [**CII 16B**](https://github.com/ConnectingEurope/eInvoicing-EN16931/tree/master/cii) / [**EN-16931:2017**](https://github.com/ConnectingEurope/eInvoicing-EN16931/tree/master) si regulile **CIUS-RO:1.0.1**; si modificari la RO-CIUS pot aparea si odata cu ele apar noi reglementari legale/ordine MFP care duc la schimbari ale continutului acestei arhive astfel ca versiunile vechi devin istorie sau ***istoric***; asadar trebuie sa stiti ca eFactura se modifica continuu sau daca vreti se integreaza si se dezvolta continuu(**CI/CD**) **)**
  
