@@ -4,7 +4,8 @@
 
 - [verificare in R.P.Tva](https://letconex.blogspot.com/2023/10/fetch-platitortvarest-api-tva.html) [Registrul Platitorilor TVA](https://stefanache.github.io/MFP-ANAF-RO/js_scripts/anaf/eFactura/index.html)
 
-[ANAF](https://www.anaf.ro/anaf/internet/ANAF/despre_anaf/strategii_anaf/proiecte_digitalizare/e.factura) [generator online factura XML](https://www.anaf.ro/CompletareFactura/faces/factura/informatiigenerale.xhtml)
+[ANAF](https://www.anaf.ro/anaf/internet/ANAF/despre_anaf/strategii_anaf/proiecte_digitalizare/e.factura) [generator online factura XML](https://www.anaf.ro/CompletareFactura/faces/factura/informatiigenerale.xhtml);
+iata cum arata prevalidarea formularului(cu tab-uri) online de completare a facturii: [https://www.anaf.ro/CompletareFactura/faces/factura/validare.js](https://www.anaf.ro/CompletareFactura/faces/factura/validare.js)
 
 [ANAF](https://www.anaf.ro/anaf/internet/ANAF/despre_anaf/strategii_anaf/proiecte_digitalizare/e.factura) [XML2PDF](https://www.anaf.ro/uploadxml/) online
 
