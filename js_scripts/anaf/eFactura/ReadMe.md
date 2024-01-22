@@ -1,6 +1,6 @@
 [***ANAF eFactura***](https://stefanache.github.io/MFP-ANAF-RO/js_scripts/anaf/eFactura/)
 
-[Prezentare servicii web](https://mfinante.gov.ro/static/10/eFactura/prezentare%20apeluri%20API%20E-factura.pdf) pentru [Sistemul National privind Factura Electronica](https://mfinante.gov.ro/web/efactura/informatii-tehnice): [RO e-Factura ](https://doc-process.com/ro-e-factura/) sau [RO eInvoice](https://ec.europa.eu/digital-building-blocks/sites/display/DIGITAL/eInvoicing+in+Romania) [Oasis UBL 2.1](https://docs.oasis-open.org/ubl/os-UBL-2.1/xsd/maindoc/UBL-Invoice-2.1.xsd) ([anterior](https://www.w3schools.com/xml/schema_howto.asp) a fost [UBL2.0](https://docs.oasis-open.org/ubl/os-UBL-2.0/xsd/maindoc/UBL-Invoice-2.0.xsd))
+[Prezentare servicii web](https://mfinante.gov.ro/static/10/eFactura/prezentare%20apeluri%20API%20E-factura.pdf) pentru [Sistemul National privind Factura Electronica](https://mfinante.gov.ro/web/efactura/informatii-tehnice): [RO e-Factura ](https://doc-process.com/ro-e-factura/) sau [RO eInvoice](https://ec.europa.eu/digital-building-blocks/sites/display/DIGITAL/eInvoicing+in+Romania) [UBL 2.1](https://docs.oasis-open.org/ubl/os-UBL-2.1/xsd/maindoc/UBL-Invoice-2.1.xsd) ([anterior](https://www.w3schools.com/xml/schema_howto.asp) a fost [UBL2.0](https://docs.oasis-open.org/ubl/os-UBL-2.0/xsd/maindoc/UBL-Invoice-2.0.xsd))
 
 - [verificare in R.P.Tva](https://letconex.blogspot.com/2023/10/fetch-platitortvarest-api-tva.html) [Registrul Platitorilor TVA](https://stefanache.github.io/MFP-ANAF-RO/js_scripts/anaf/eFactura/index.html)
 
