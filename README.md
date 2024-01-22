@@ -10,9 +10,9 @@
   
   - **[freelancer](https://www.freelancer.com/u/ionstefanache1)**
 
-    Emails:
+    ***Emails:***
     
-   - **[yahoo]((mailto:ion.stefanache@yahoo.com))**: [ion.stefanache@yahoo.com](mailto:ion.stefanache@yahoo.com) or
+   - **[yahoo](mailto:ion.stefanache@yahoo.com)**: [ion.stefanache@yahoo.com](mailto:ion.stefanache@yahoo.com) or
   
    - **[gmail](mailto:ion.stefanache0@gmailcom)**: [ion.stefanache0@gmailcom ](mailto:ion.stefanache0@gmailcom)
 
