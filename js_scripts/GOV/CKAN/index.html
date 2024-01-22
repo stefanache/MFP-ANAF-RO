@@ -78,6 +78,7 @@
           dataType: 'jsonp',
           sync: true,
           success: function(response) {
+	    consult.log(response);
             parseResults(response.result)
           },
         });
