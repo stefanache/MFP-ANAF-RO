@@ -66,7 +66,11 @@ Nu uitati... validarea trebuie sa fie conforma/filtrata cu/de [**regulile**](htt
  
     ...
  
-    Versiunea  1.0.8/29.12.2022 ... [ro16931-ubl-1.0.8 (07.12.2022) ](https://mfinante.gov.ro/static/10/eFactura/ro16931-ubl-1.0.8.zip)
+    Versiunea  1.0.8/29.12.2022
+
+   ...
+
+   [ro16931-ubl-1.0.8 (07.12.2022) ](https://mfinante.gov.ro/static/10/eFactura/ro16931-ubl-1.0.8.zip)
  
     ...
 
