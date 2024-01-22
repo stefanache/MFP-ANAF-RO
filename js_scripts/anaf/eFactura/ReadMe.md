@@ -39,9 +39,11 @@ Nu uitati... validarea trebuie sa fie conforma/filtrata cu regulile standardelor
    (a se vedea  in acest document care este ultima actualizare a RO-CIUS  spre ex: ... Artefacte de validare Schematron   ... Ultima actualizare: Ordin MFP nr. 1.366/2021...Modificările pot fi consultate [aici](http://static.anaf.ro/static/10/Anaf/Informatii_R/Informatii_modificare_CIUS_RO.pdf)...Versiunea  1.0.8/29.12.2022 ... [ro16931-ubl-1.0.8 (07.12.2022) ](https://mfinante.gov.ro/static/10/eFactura/ro16931-ubl-1.0.8.zip)
    cf acestui exemplu de ordin se observa ca sunt acceptate  pentru factura 2 sintaxe UBL2.1 si CII 16B / EN-16931:2017 si regulile CIUS-RO:1.0.1
  
- Cand dezarhivati arhiva ro16931-ubl-1.0.8.zip gasiti directorul ro16931-1.0.8 si in el gasiti un fiser EN16931-CIUS_RO-UBL-validation.sch si 5 subdirectoare:
+ Cand dezarhivati arhiva **ro16931-ubl-1.0.8.zip** gasiti directorul **ro16931-1.0.8** si in el gasiti un fiser **EN16931-CIUS_RO-UBL-validation.sch** si **5** subdirectoare:
+ 
  - fisierul **EN16931-CIUS_RO-UBL-validation.sch** practic prezinta subdirectoarele adica la ce sunt folosite le pt validarea facturii iar,
- - cele in **5** subdirectoare avem:
+   in cele in **5** subdirectoare avem:
+   
    - in subdirectorul **cius-ro** gasiti fisierul **RO16931-rules.sch**; acest fisier contine regulile CIUS cu specific national:  CIUS-RO / RO-CIUS.
 
         [Schematron](https://www.schematron.com/) este un limbaj XML utilizat pentru a specifica aceste reguli de afaceri(business)
