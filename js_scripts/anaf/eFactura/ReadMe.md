@@ -15,8 +15,8 @@ Rezultatul il puteti depune automat intr-un nou tab construit de voi intr-un cam
 Apoi urmeaza sa-l validati online/DukIntegrator pe site-ul anaf si sa-l semnati digital iar in final sa-l puteti urca(upload) pe site-ul indicat de autoritatea fiscala(GOV/MFP/ANAF)
 Nu uitati... validarea trebuie sa fie conforma/filtrata cu regulile standardelor aflate in vigoare  [**Peppol-BIS 3.0**](https://docs.peppol.eu/poacc/billing/3.0/bis/), reguli expuse in cele ce urmeaza
 
-***- I.1-6 regulile de validare aplicabile la nivelul PEPPOL-AP(Access Point):***
- - I.1 verificarea validitatii taxelor - **IAPR(Independent Authority for Public Revenue)**
+***- I.1-6 regulile de validare aplicabile la nivelul PEPPOL-AP(Punct de Acces):***
+ - I.1 verificarea validitatii taxelor - **IAPR(Autoritatea Independentă pentru Venituri Publice)**
  - I.2 XML bine format(sintaxa de baza) - verificarea regulilor XML de redactare: **XML eINV-emitere**
  - I.3 XML(schema factura UBL/CII) - verificarea regulilor XML structurale/compozitionale: **XML eINV-structura**
  - *I.4-6 regulile de verificare a respectarii(compliantei cu) standerdelor (versiunilor aflate in vigoare) - verificarea regulilor afacerii:*
@@ -24,10 +24,10 @@ Nu uitati... validarea trebuie sa fie conforma/filtrata cu regulile standardelor
    - I.5 regulile **Peppol-CIUS** - validarea regulilor generale ale afacerii
    - I.6 regulile Peppol-CIUS de specific  national: Peppol-**CIUS-RO**,...
 
-***- II.regulile de validare aplicabile la nivelul GSIS(General Secretariate of Information Systems):***
+***- II.regulile de validare aplicabile la nivelul GSIS(Secretariatul General al Sistemelor Informaţionale):***
    - II.1 validarea **KE.D**
 
-***- III. regulile de validare aplicabile la nivelul PA(Public Administration):***
+***- III. regulile de validare aplicabile la nivelul PA(Administratie Publica):***
    - III.1 validarea **P.A**
 
 [ANAF](https://www.anaf.ro/anaf/internet/ANAF/despre_anaf/strategii_anaf/proiecte_digitalizare/e.factura) [XML2PDF](https://www.anaf.ro/uploadxml/) online
