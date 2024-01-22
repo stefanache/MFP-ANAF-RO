@@ -60,6 +60,7 @@ Nu uitati... validarea trebuie sa fie conforma/filtrata cu regulile standardelor
      - si **2** fisiere pt 2 versiuni diferite avand denumirea de forma **ROeFactura-UBL-validation-Invoice_v1.0.s.sch** unde s=5 si respectiv s=8;
 
       (in aceste fisiere gasiti versiunile de schematron in care s-au scris/definit regulile de validare CIUS nationale (de forma BR-RO-...) si versiunile de/pt CIUS-RO dupa cum urmeaza:
+     
          - in fisierul **ROeFactura-UBL-validation-Invoice_v1.0.5.sch**  avem:
            - Schematron Version 1.0.3
            - CIUS-RO version 1.0.0 compatible - UBL - Invoice
