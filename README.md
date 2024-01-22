@@ -3,7 +3,7 @@
 
 ## **[Contact me](https://www.facebook.com/ion.stefanache.3)**
 <details>
-  
+  <br/>
   For more details please **contact me** on: 
 
    ***Social:***
