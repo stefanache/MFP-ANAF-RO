@@ -13,7 +13,19 @@ si astfel ati avea partea de frontend fara backend. Apoi ati putea extrage din b
 Apoi trebuie sa continuati codificarea cu partea de front-end(care poate fi efectuata tot in JS) pt partea generarea propriu-zisa a facturii UBL/XML; 
 Rezultatul il puteti depune automat intr-un nou tab construit de voi intr-un camp <textarea/> ca sa-l puteti valida, vizualiza si apoi prelua cu copy-paste pentru a-l salva in fisierul UBL/XML final;Puteti Putei urma aceasta cale pt generarea fisierului UBL/XML cu previzualizare macar pentru inceput pana reusiti sa creati un generator eFactura in JS stabil, dupa care puteti renunta la previzualizare sau pastra doar pentru depanare(deci previzualizarea ar trebui sa fie optionala oricum).
 Apoi urmeaza sa-l validati online/DukIntegrator pe site-ul anaf si sa-l semnati digital iar in final sa-l puteti urca(upload) pe site-ul indicat de autoritatea fiscala(GOV/MFP/ANAF)
-Nu uitati validarea trebuie sa fie conforma cu regulile standardelor aflate in vigoare: IAPR, XML(sintaxa si schema),EN16931(UBL,CII), [Peppol-CIUS](https://docs.peppol.eu/poacc/billing/3.0/bis/) precum si validarile KE.D si P.A.
+Nu uitati... validarea trebuie sa fie conforma/filtrata cu regulile standardelor aflate in vigoare  [Peppol-BIS 3.0 - CIUS](https://docs.peppol.eu/poacc/billing/3.0/bis/) formate din:
+- I.regulile de validare aplicabile la nivelul PEPPOL-AP(Access Point):
+ - I.1 IAPR(verificarea validitatii taxelor),
+ - I.2 XML bine format(sintaxa de baza) - verificarea regulilor XML de redactare: XML eINV-emitere
+ - I.3 XML(schema factura UBL/CII) - verificarea regulilor XML structurale/compozitionale: XML eINV-structura, 
+ - I.4-6 regulile de verificare a respectarii(compliantei cu) standerdelor (versiunilor aflate in vigoare) - verificarea regulilor afacerii:
+  - I.4 regulile generale CEN TC/434: EN16931 + reguli specifice sintaxei,
+  - I.5 regulile Peppol-CIUS - validarea regulilor generale ale afacerii
+  - I.6 regulile Peppol-CIUS de specific  national: Peppol-CIUS-RO
+- II.regulile de validare aplicabile la nivelul GSIS: 
+  - II.1 validarea KE.D
+- III. regulile de validare aplicabile la nivelul PA:
+  - II.1 validarea P.A
 
 [ANAF](https://www.anaf.ro/anaf/internet/ANAF/despre_anaf/strategii_anaf/proiecte_digitalizare/e.factura) [XML2PDF](https://www.anaf.ro/uploadxml/) online
 
