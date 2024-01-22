@@ -15,7 +15,7 @@ Rezultatul il puteti depune automat intr-un nou tab construit de voi intr-un cam
 Apoi urmeaza sa-l validati online/DukIntegrator pe site-ul anaf si sa-l semnati digital iar in final sa-l puteti urca(upload) pe site-ul indicat de [autoritatea fiscala](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/Ghid_RO_eFactura.pdf)(GOV/MFP/ANAF)
 Nu uitati... validarea trebuie sa fie conforma/filtrata cu regulile standardelor aflate in vigoare  [**Peppol-BIS 3.0**](https://docs.peppol.eu/poacc/billing/3.0/bis/), reguli expuse in cele ce urmeaza
 
-***- I.1-6 regulile de validare aplicabile la nivelul PEPPOL-AP(Punct de Acces):***
+*** - I.1-6 regulile de validare aplicabile la nivelul PEPPOL-AP(Punct de Acces):***
  - I.1 verificarea validitatii taxelor - **IAPR(Autoritatea Independentă pentru Venituri Publice)**
  - I.2 XML bine format(sintaxa de baza) - verificarea regulilor XML de redactare: **XML eINV-emitere**
  - I.3 XML(schema factura UBL/CII) - verificarea regulilor XML structurale/compozitionale: **XML eINV-structura**
@@ -24,10 +24,10 @@ Nu uitati... validarea trebuie sa fie conforma/filtrata cu regulile standardelor
    - I.5 regulile **Peppol-CIUS** - validarea regulilor generale ale afacerii
    - I.6 regulile Peppol-CIUS de specific  national: Peppol-**CIUS-RO**,...
 
-***- II.regulile de validare aplicabile la nivelul GSIS(Secretariatul General al Sistemelor Informaţionale):***
+*** - II.regulile de validare aplicabile la nivelul GSIS(Secretariatul General al Sistemelor Informaţionale):***
    - II.1 validarea **KE.D-Centrul de interoperabilitate (național)**
 
-***- III. regulile de validare aplicabile la nivelul PA(Administratie Publica):***
+*** - III. regulile de validare aplicabile la nivelul PA(Administratie Publica):***
    - III.1 validarea **P.A**
 
 [ANAF](https://www.anaf.ro/anaf/internet/ANAF/despre_anaf/strategii_anaf/proiecte_digitalizare/e.factura) [XML2PDF](https://www.anaf.ro/uploadxml/) online
