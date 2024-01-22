@@ -83,7 +83,7 @@
         });
         */
 	url="https://stefanache.github.io/MFP-ANAF-RO/js_scripts/GOV/CKAN/data_gov_ro_res_id_6ee318d9-2452-485c-9bb0-7a7626d7ad06.json"
-	fetchJsonp(url)
+	fetch(url)
 	  .then(function(response) {
 	    return response.json()
 	  }).then(function(json) {
