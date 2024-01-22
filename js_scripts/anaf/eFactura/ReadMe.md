@@ -9,8 +9,11 @@
 iata cum arata prevalidarea formularului(cu tab-uri) online de completare a facturii, in javascript: [https://www.anaf.ro/CompletareFactura/faces/factura/validare.js](https://www.anaf.ro/CompletareFactura/faces/factura/validare.js);
 
 In principiu [v-]ati putea copia partea asta de HTML pe computerul dumneavoastra impreuna cu dependentele(resursele invocate in HTML js.css,...) si asta pentru fiecare tab in parte
-si astfel ati avea partea de frontend fara backend. Apoi ati putea extrage intr-un fisier html datele facturii(macar campurile obligatorii) si apoi puteti scrie cod javascript ca la incarcarea in acest formular local sa le incarce pe fiecare in campul/locul sau(nu uitati sa folositi si aceste pre-validari). Asta v-ar ajuta sa vedeti factura intr-un mod mai uman
-Apoi trebuie sa continuati codificare cu partea de front-end(care poate fi efectuata tot in JS) pt partea generarea propriu-zisa a facturii UBL/XML; Rezultatul il puteti depune automat intr-un nou tab construit de voi intr-un camp <textarea/> ca sa-l puteti valida, vizualiza si apoi prelua cu copy-paste; Nu uitati validarea trebuie sa fie conforma cu regulile XML,UBL 2.1, RO-CIUS dar si cu regulile Peppol.
+si astfel ati avea partea de frontend fara backend. Apoi ati putea extrage din baza voastra de date, intr-un fisier xml, datele facturii(macar campurile obligatorii) si apoi puteti scrie cod javascript ca la incarcarea in acest formular local sa incarce  fiecare cam din fisierul de intrare XML in campul/locul sau(nu uitati sa folositi si aceste pre-validari) din formular(input,textarea,select). Asta v-ar ajuta sa vedeti factura intr-un mod mai uman si sa faceti un control vizual cat mai rapid.
+Apoi trebuie sa continuati codificarea cu partea de front-end(care poate fi efectuata tot in JS) pt partea generarea propriu-zisa a facturii UBL/XML; 
+Rezultatul il puteti depune automat intr-un nou tab construit de voi intr-un camp <textarea/> ca sa-l puteti valida, vizualiza si apoi prelua cu copy-paste pentru a-l salva in fisierul UBL/XML final;Puteti Putei urma aceasta cale pt generarea fisierului UBL/XML cu previzualizare macar pentru inceput pana reusiti sa creati un generator eFactura in JS stabil, dupa care puteti renunta la previzualizare sau pastra doar pentru depanare(deci previzualizarea ar trebui sa fie optionala oricum).
+Apoi urmeaza sa-l validati online/DukIntegrator pe site-ul anaf si sa-l semnati digital iar in final sa-l puteti urca(upload) pe site-ul indicat de autoritatea fiscala(GOV/MFP/ANAF)
+Nu uitati validarea trebuie sa fie conforma cu regulile XML,UBL, RO-CIUS dar si cu regulile Peppol.
 
 [ANAF](https://www.anaf.ro/anaf/internet/ANAF/despre_anaf/strategii_anaf/proiecte_digitalizare/e.factura) [XML2PDF](https://www.anaf.ro/uploadxml/) online
 
