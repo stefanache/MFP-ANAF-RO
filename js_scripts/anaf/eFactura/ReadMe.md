@@ -46,8 +46,7 @@ Nu uitati... validarea trebuie sa fie conforma/filtrata cu regulile standardelor
 
         [Schematron](https://www.schematron.com/) este un limbaj XML utilizat pentru a specifica aceste reguli de afaceri(business)
 
-   - tot in acest director denumit ro16931-1.0.8 gasiti alte **2** subdirectoare denumite **UBL** respectiv **abstract** in care sunt definite modelul si sintaxa cf standardului EN-16931; 
-    cele 2 fisiere ale fiecarui subdirector sunt definite tot cu ajutorul limbajului Schematron.
+   - tot in acest director denumit ro16931-1.0.8 gasiti alte **2** subdirectoare denumite **UBL** respectiv **abstract** in care sunt definite **modelul** si **sintaxa** cf standardului **EN-16931**; cele 2 fisiere ale fiecarui subdirector sunt definite tot cu ajutorul limbajului Schematron.
 
    - in acelasi director ro16931-1.0.8 mai gasiti si subdirectorul **codelist(CL)** care contine fisierul [EN16931-UBL-codes.sch](https://github.com/OpenPEPPOL/tc434-validation/blob/master/ubl/schematron/codelist/EN16931-UBL-codes.sch) unde veti gasi regulile licentiate EUPL de forma [BR-CL-nn](https://docs.peppol.eu/poacc/billing/3.0/rules/ubl-tc434/BR-CL-04/)
 
@@ -61,12 +60,12 @@ Nu uitati... validarea trebuie sa fie conforma/filtrata cu regulile standardelor
 
       (in aceste fisiere gasiti versiunile de schematron in care s-au scris/definit regulile de validare CIUS nationale (de forma BR-RO-...) si versiunile de/pt CIUS-RO dupa cum urmeaza:
      
-         - in fisierul **ROeFactura-UBL-validation-Invoice_v1.0.5.sch**  avem:
-           - Schematron Version 1.0.3
-           - CIUS-RO version 1.0.0 compatible - UBL - Invoice
-         - iar in fisierul **ROeFactura-UBL-validation-Invoice_v1.0.8.sch** avem:
-           - Schematron Version 1.0.0
-           - CIUS-RO version 1.0.1 compatible - UBL - Invoice;
+       - in fisierul **ROeFactura-UBL-validation-Invoice_v1.0.5.sch**  avem:
+         - Schematron Version 1.0.3
+         - CIUS-RO version 1.0.0 compatible - UBL - Invoice
+       - iar in fisierul **ROeFactura-UBL-validation-Invoice_v1.0.8.sch** avem:
+         - Schematron Version 1.0.0
+         - CIUS-RO version 1.0.1 compatible - UBL - Invoice;
      
        mesajele sunt in limba **romana fara diacritice**)
       
