@@ -14,7 +14,8 @@
   - 
   - **[linkedin](https://www.linkedin.com/in/ion-stefanache-96b64489/)**
 
-    ***Emails:***
+
+   ***Emails:***
     
    - **[yahoo](mailto:ion.stefanache@yahoo.com)**: [ion.stefanache@yahoo.com](mailto:ion.stefanache@yahoo.com),
   
