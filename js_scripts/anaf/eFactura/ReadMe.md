@@ -41,8 +41,8 @@ Nu uitati... validarea trebuie sa fie conforma/filtrata cu regulile standardelor
  
    Cand dezarhivati arhiva **ro16931-ubl-1.0.8.zip** gasiti directorul **ro16931-1.0.8** si in el gasiti un fiser **EN16931-CIUS_RO-UBL-validation.sch** si **5** subdirectoare:
  
-   - fisierul **EN16931-CIUS_RO-UBL-validation.sch** practic prezinta subdirectoarele adica la ce sunt folosite le pt validarea facturii iar,
-   - in cele in **5** subdirectoare avem:
+   - fisierul **EN16931-CIUS_RO-UBL-validation.sch** practic este un catalog explicativ/definitoriu care prezinta cele **5** subdirectoare si la ce sunt folosite acestea in procesul de  validare a facturii iar,
+   - in cele in **5** subdirectoare propriu zise, avem:
    
       - in subdirectorul **cius-ro** gasiti fisierul **RO16931-rules.sch**;
 
