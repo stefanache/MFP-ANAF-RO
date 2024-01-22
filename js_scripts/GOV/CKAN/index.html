@@ -88,8 +88,8 @@
 	url="https://stefanache.github.io/MFP-ANAF-RO/js_scripts/GOV/CKAN/data_gov_ro_res_id_6ee318d9-2452-485c-9bb0-7a7626d7ad06.json";
 	//console.log(url);	    
         fetch(url).then(response => {
-	     console.log(response.text);
-             return response.json();
+	     console.log(response.result);
+             return response.result.json();
         }).then(json => {
            console.log(`Data length from offset #${offset}: `, JSON.stringify(json).length);
         });
