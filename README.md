@@ -3,9 +3,9 @@
 
 ## **[Contact me](https://www.facebook.com/ion.stefanache.3)**
 <details>
-  <br/>
+<br/>
   For more details please **contact me** on: 
-
+<br/>
    ***Social:***
   
   - **[facebook](https://www.facebook.com/ion.stefanache.3)**,
