@@ -108,7 +108,7 @@ Nu uitati... validarea trebuie sa fie conforma/filtrata cu/de [**regulile**](htt
    (puteti sa va uitati pe acele mici exemple(html/JS/css) pe care le-am creat la sectiunea [nomenclatoare geografice MFP](https://github.com/stefanache/MFP-ANAF-)
    RO/blob/main/js_scripts/mfp/nomenclatoare_geografice/)
 
- Tot in [specificatiile tehnice ANAF]((https://mfinante.gov.ro/web/efactura/informatii-tehnice)) sunt expuse spre dezarhivare fisire-exemplu UBL2.1/XML pentru eFactura(factura si nota de credit(le gasiti si aici in directorul .
+ Tot in [specificatiile tehnice ANAF]((https://mfinante.gov.ro/web/efactura/informatii-tehnice)) sunt expuse spre dezarhivare fisire-exemplu UBL2.1/XML pentru eFactura(factura si nota de credit(le gasiti si aici in sub-directorul [exemple_Invoice_CreditNote](https://github.com/stefanache/MFP-ANAF-RO/tree/main/js_scripts/anaf/eFactura/exemple_Invoice_CreditNote) .
  
  Puteti sa le descarcati apoi sa le dezarhivati si apoi sa le vizualizati folosind [XML Notepad]((https://lovettsoftwarestorage.blob.core.windows.net/downloads/XmlNotepad/XmlNotepad.application)) pentru a vedea cu tiitlu informativ cam cum arata un astfel de fisier UBL/XML nesemnat digital.
  
