@@ -21,7 +21,8 @@ Rezultatul il puteti depune automat intr-un **nou tab** construit de voi intr-un
 
 Puteti urma aceasta cale pt generarea fisierului UBL/XML cu previzualizare macar pentru inceput pana reusiti sa creati un generator eFactura in JS stabil, dupa care puteti renunta la [previzualizare](https://www.anaf.ro/CompletareFactura/faces/factura/produse.xhtml) sau pastra doar pentru depanare(deci previzualizarea ar trebui sa fie optionala oricum).
 
-Apoi urmeaza sa-l **validati** online/DukIntegrator pe site-ul anaf si sa-l **semnati digital** iar in final sa-l puteti urca(**upload**) pe site-ul indicat de [autoritatea fiscala](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/Ghid_RO_eFactura.pdf)(GOV/MFP/ANAF)
+Apoi urmeaza sa-l **validati** online/DukIntegrator pe site-ul anaf si sa-l **semnati digital** iar in final sa-l puteti urca(**upload**) pe site-ul indicat de [autoritatea fiscala](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/Ghid_RO_eFactura.pdf)(GOV/MFP/ANAF);
+Puteti sa va scrieti si **propriul validator** tot in JS pur sau daca nu intr-un limbaj de back-end([PhP](https://github.com/thegreenter/ubl-validator/tree/master),nodeJS,java,...) insa trebuie sa aveti in vedere toata **succesiunea de validari necesare**( a se vedea discutia de mai jos despre Peppol-CIUS: **IAPR,XML,UBL2.1/EN1-6931,RO-CIUS,KE.D,P.A**);
 
 Toti acesti pasi pot fi automatizati astfel incat sa nu mai fie nevoie de o interventie/prezenta umana de lunga durata(in principiu daca aveti configurari de specificitate corespunzatoare atunci un simplu buton pt **transmitere eFactura catre ANAF** ar fi suficient in conditiile in care sunt indeplinite toate conditiile de **access securizat**).
 
