@@ -51,13 +51,13 @@ Nu uitati... validarea trebuie sa fie conforma/filtrata cu regulile standardelor
 
    - in acelasi director ro16931-1.0.8 mai gasiti si subdirectorul **codelist(CL)** care contine fisierul [EN16931-UBL-codes.sch](https://github.com/OpenPEPPOL/tc434-validation/blob/master/ubl/schematron/codelist/EN16931-UBL-codes.sch) unde veti gasi regulile licentiate EUPL de forma [BR-CL-nn](https://docs.peppol.eu/poacc/billing/3.0/rules/ubl-tc434/BR-CL-04/)
 
-   - si in sfarsit in acest director mai gasiti subdirectorul preprocessed care contine **3** fisiere schematron(*.sch) de validare:
+   - si in sfarsit in acest director mai gasiti subdirectorul **preprocessed** care contine **3** fisiere schematron(*.sch) de validare:
    
      - **EN16931-validation-preprocesed.sch**
 
       (in acest fisier gasim validarea/testarea/assert-urile pt regulile gen/de forma BR-nn, BR-B-nn, BR-CO-nn, BR-DEC-nn, BR-AE-nn, BR-E-nn, BR-G-nn, BR-IC-nn, BR_IP-nn, BR-O-nn, BR-S-nn, BR-Z-nn...  referitoare la campurile BG/BT; mesajele sunt in lb. engleza)
       
-     - si 2 fisiere pt 2 versiuni diferite avand denumirea de forma **ROeFactura-UBL-validation-Invoice_v1.0.s.sch** unde s=5 si respectiv s=8;
+     - si **2** fisiere pt 2 versiuni diferite avand denumirea de forma **ROeFactura-UBL-validation-Invoice_v1.0.s.sch** unde s=5 si respectiv s=8;
 
       (in aceste fisiere gasiti versiunile de schematron in care s-au scris/definit regulile de validare CIUS nationale (de forma BR-RO-...) si versiunile de/pt CIUS-RO dupa cum urmeaza:
         - in fisierul **ROeFactura-UBL-validation-Invoice_v1.0.5.sch**  avem:
