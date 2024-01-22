@@ -36,8 +36,25 @@ Nu uitati... validarea trebuie sa fie conforma/filtrata cu regulile standardelor
 
    ar tebui sa-l gasiti in [specificatiile tehnice](https://mfinante.gov.ro/web/efactura/informatii-tehnice)
 
-   (a se vedea  in acest document care este ultima actualizare a RO-CIUS  spre ex: ... Artefacte de validare Schematron   ... Ultima actualizare: Ordin MFP nr. 1.366/2021...Modificările pot fi consultate [aici](http://static.anaf.ro/static/10/Anaf/Informatii_R/Informatii_modificare_CIUS_RO.pdf)...Versiunea  1.0.8/29.12.2022 ... [ro16931-ubl-1.0.8 (07.12.2022) ](https://mfinante.gov.ro/static/10/eFactura/ro16931-ubl-1.0.8.zip)
-   cf acestui exemplu de ordin se observa ca sunt acceptate  pentru factura 2 sintaxe UBL2.1 si CII 16B / EN-16931:2017 si regulile CIUS-RO:1.0.1
+   **(**a se vedea  in acest document care este ultima actualizare a RO-CIUS   spre **ex.**:
+
+             ...
+         
+            Artefacte de validare Schematron
+         
+            ...
+         
+            Ultima actualizare: Ordin MFP nr. 1.366/2021
+         
+            ...
+         
+            Modificările pot fi consultate [aici](http://static.anaf.ro/static/10/Anaf/Informatii_R/Informatii_modificare_CIUS_RO.pdf)
+         
+            ...
+         
+            Versiunea  1.0.8/29.12.2022 ... [ro16931-ubl-1.0.8 (07.12.2022) ](https://mfinante.gov.ro/static/10/eFactura/ro16931-ubl-1.0.8.zip)
+
+   cf. acestui **exemplu** de **versiune**(1.366/2021) de **Ordin MFP** se observa ca pt pentru e-Factura sunt acceptate 2 sintaxe **UBL2.1** si **CII 16B** / **EN-16931:2017** si regulile **CIUS-RO:1.0.1** **)**
  
    Cand [dezarhivati](https://github.com/stefanache/MFP-ANAF-RO/tree/main/js_scripts/anaf/eFactura/ro16931-ubl-1.0.8/ro16931-ubl-1.0.8)(si am procedat si eul la fel [aici](https://github.com/stefanache/MFP-ANAF-RO/tree/main/js_scripts/anaf/eFactura/ro16931-ubl-1.0.8/ro16931-ubl-1.0.8) si apoi am vizualizat rand pe rand fisierele schematron ***.sch** cu [XML Notepad](https://lovettsoftwarestorage.blob.core.windows.net/downloads/XmlNotepad/XmlNotepad.application)) arhiva **ro16931-ubl-1.0.8.zip** gasiti directorul **ro16931-1.0.8** si in el gasiti un fiser(**EN16931-CIUS_RO-UBL-validation.sch**) si **5** subdirectoare:
  
@@ -76,7 +93,8 @@ Nu uitati... validarea trebuie sa fie conforma/filtrata cu regulile standardelor
    Testarea tuturor regulilor(eng. **rule**) se face folosind directiva schematron **assert**(testul de conformitate) care are atributele test **id**,**flag**(care arata genul/tipul de eroare ex. **fatal**, si mesajul de eroare afisat dupa caz, in lb. **romana** sau in limba **engleza**).
 
    Daca doriti sa va dezvoltati propriul validator de factura atunci trebuie sa stiti ca puteti utiliza(analiza=parse) fisierele schematron(*.sch) ca orice alt fisier XML.
-   Puteti sa va uitati pe acele mici exemple(html/JS/css) pe care le-am creat la sectiunea [nomenclatoare geografice MFP](https://github.com/stefanache/MFP-ANAF-RO/blob/main/js_scripts/mfp/nomenclatoare_geografice/)
+   (puteti sa va uitati pe acele mici exemple(html/JS/css) pe care le-am creat la sectiunea [nomenclatoare geografice MFP](https://github.com/stefanache/MFP-ANAF-)
+   RO/blob/main/js_scripts/mfp/nomenclatoare_geografice/)
 
 [ANAF](https://www.anaf.ro/anaf/internet/ANAF/despre_anaf/strategii_anaf/proiecte_digitalizare/e.factura) [XML2PDF](https://www.anaf.ro/uploadxml/) online
 
