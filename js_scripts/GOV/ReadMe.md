@@ -1,4 +1,4 @@
-In atentia [programatorilor](https://data.gov.ro/pages/developers) care vor sa extraga informatii de pe/din [data.gov.ro](https://data.gov.ro/en/)
+In atentia [programatorilor](https://data.gov.ro/pages/developers) care vor sa extraga informatii de pe/din [data.gov.ro](https://data.gov.ro/en/) ( se vedea si [publicarea](https://data.gov.ro/uploads/page_images/2020-09-14-105420.013000Metodologie-date-deschisefeb2019-2.docx) de date deschise)
 
 [Cautare dataset-uri](https://data.gov.ro/dataset?q=2023&sort=score+desc%2C+metadata_modified+desc) in [data.gov.ro](https://data.gov.ro/) in vederea [descarcarii](https://data.gov.ro/dataset?q=2024&organization=agentia-nationala-de-administrare-fiscala) :
 
