@@ -24,9 +24,9 @@ Nu uitati... validarea trebuie sa fie conforma/filtrata cu regulile standardelor
    - I.5 regulile Peppol-CIUS - validarea regulilor generale ale afacerii
    - I.6 regulile Peppol-CIUS de specific  national: Peppol-CIUS-RO
 **- II.regulile de validare aplicabile la nivelul GSIS: **
-  - II.1 validarea KE.D
+   - II.1 validarea KE.D
 **- III. regulile de validare aplicabile la nivelul PA:**
-  - III.1 validarea P.A
+   - III.1 validarea P.A
 
 [ANAF](https://www.anaf.ro/anaf/internet/ANAF/despre_anaf/strategii_anaf/proiecte_digitalizare/e.factura) [XML2PDF](https://www.anaf.ro/uploadxml/) online
 
