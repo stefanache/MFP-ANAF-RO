@@ -46,7 +46,7 @@ Nu uitati... validarea trebuie sa fie conforma/filtrata cu/de [**regulile**](htt
 
  - trebuie sa luati in calcul [ultima versiune](https://static.anaf.ro/static/10/Anaf/Informatii_R/Informatii_modificare_CIUS_RO.pdf) (adica sa cautati ultimul Ordin al MFP);
 
-   ar tebui sa-l gasiti in [specificatiile tehnice](https://mfinante.gov.ro/web/efactura/informatii-tehnice)
+   ar tebui sa-l gasiti in [specificatiile tehnice ANAF pt eFactura](https://mfinante.gov.ro/web/efactura/informatii-tehnice)
 
    **(**a se vedea  in acest document care este ultima actualizare a RO-CIUS   spre **ex.**:
 
