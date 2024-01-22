@@ -1,6 +1,6 @@
 [***ANAF eFactura***](https://stefanache.github.io/MFP-ANAF-RO/js_scripts/anaf/eFactura/)
 
-[Prezentare servicii web](https://mfinante.gov.ro/static/10/eFactura/prezentare%20apeluri%20API%20E-factura.pdf) pentru [Sistemul National privind Factura Electronica](https://mfinante.gov.ro/web/efactura/informatii-tehnice): [RO e-Factura ](https://doc-process.com/ro-e-factura/)
+[Prezentare servicii web](https://mfinante.gov.ro/static/10/eFactura/prezentare%20apeluri%20API%20E-factura.pdf) pentru [Sistemul National privind Factura Electronica](https://mfinante.gov.ro/web/efactura/informatii-tehnice): [RO e-Factura ](https://doc-process.com/ro-e-factura/) sau [RO eInvoice](https://ec.europa.eu/digital-building-blocks/sites/display/DIGITAL/eInvoicing+in+Romania)
 
 - [verificare in R.P.Tva](https://letconex.blogspot.com/2023/10/fetch-platitortvarest-api-tva.html) [Registrul Platitorilor TVA](https://stefanache.github.io/MFP-ANAF-RO/js_scripts/anaf/eFactura/index.html)
 
