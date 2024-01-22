@@ -22,7 +22,7 @@ Nu uitati... validarea trebuie sa fie conforma/filtrata cu regulile standardelor
    - *I.4-6 regulile de verificare a respectarii(compliantei cu) standerdelor (versiunilor aflate in vigoare) - verificarea regulilor afacerii:*
      - I.4 regulile generale CEN TC/434: **EN-16931** + reguli specifice sintaxei,
      - I.5 regulile **[Peppol-CIUS](https://github.com/phax/peppol-practical/blob/master/src/main/resources/viewpages/en/validation_dvs.xml)** - validarea regulilor generale ale afacerii
-     - I.6 regulile Peppol-CIUS de specific  national: Peppol-**[RO-CIUS](https://static.anaf.ro/static/10/Anaf/Informatii_R/Informatii_modificare_CIUS_RO.pdf) sau [CIUS-RO](https://mfinante.gov.ro/ro/web/efactura/informatii-tehnice)**,...
+     - I.6 regulile [Peppol-CIUS de/cu specific  national](https://www.exactsoftware.com/docs/DocView.aspx?DocumentID=%7B1e24ca3b-90d6-489d-9ffd-297e998f3af5%7D): Peppol-**[RO-CIUS](https://static.anaf.ro/static/10/Anaf/Informatii_R/Informatii_modificare_CIUS_RO.pdf) sau [CIUS-RO](https://mfinante.gov.ro/ro/web/efactura/informatii-tehnice)**,...
 
  - ***II.regulile de validare aplicabile la nivelul [GSIS](https://www.gsis.gr/sites/default/files/eInvoice/Instructions%20to%20B2G%20Suppliers%20and%20certified%20PEPPOL%20Providers%20for%20the%20Greek%20PEPPOL%20BIS-EN-%20v1.0.pdf)(Secretariatul General al Sistemelor Informaţionale):***
     - II.1 validarea **KE.D-Centrul de interoperabilitate (național)**
