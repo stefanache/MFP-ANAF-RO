@@ -54,7 +54,7 @@ Nu uitati... validarea trebuie sa fie conforma/filtrata cu regulile standardelor
    
     - EN16931-validation-preprocesed.sch
     - si 2 fisiere pt 2 versiuni diferite avand denumirea de forma ROeFactura-UBL-validation-Invoice_v1.0.s unde s=5 si respectiv s=8
-    - 
+      
  - testarea tuturor regulilor(rule) se face folosind directiva schematron assert(testul de conformitate) care are atributele test id,flag(care arata genul/tipul de eroare ex. fatal, si meajul de eroare afisat).
 
 [ANAF](https://www.anaf.ro/anaf/internet/ANAF/despre_anaf/strategii_anaf/proiecte_digitalizare/e.factura) [XML2PDF](https://www.anaf.ro/uploadxml/) online
