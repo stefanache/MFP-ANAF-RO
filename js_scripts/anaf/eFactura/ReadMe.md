@@ -58,7 +58,7 @@ Nu uitati... validarea trebuie sa fie conforma/filtrata cu/de [**regulile**](htt
          
             ...
          
-            Ultima actualizare: Ordin MFP nr. 1.366/2021
+            Ultima actualizare: [Ordin MFP nr. 1.366/2021](https://static.anaf.ro/static/10/Anaf/legislatie/OMF_1366_2021.pdf) ( a se vedea si [O.4092/14.11.2022](https://legislatie.just.ro/Public/DetaliiDocument/261755))
          
             ...
          
