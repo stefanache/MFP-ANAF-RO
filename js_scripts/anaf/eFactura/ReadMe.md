@@ -6,7 +6,11 @@
 
 [ANAF](https://www.anaf.ro/anaf/internet/ANAF/despre_anaf/strategii_anaf/proiecte_digitalizare/e.factura) [generator online factura XML](https://www.anaf.ro/CompletareFactura/faces/factura/informatiigenerale.xhtml);
 
-iata cum arata prevalidarea formularului(cu tab-uri) online de completare a facturii: [https://www.anaf.ro/CompletareFactura/faces/factura/validare.js](https://www.anaf.ro/CompletareFactura/faces/factura/validare.js)
+iata cum arata prevalidarea formularului(cu tab-uri) online de completare a facturii, in javascript: [https://www.anaf.ro/CompletareFactura/faces/factura/validare.js](https://www.anaf.ro/CompletareFactura/faces/factura/validare.js);
+
+In principiu [v-]ati putea copia partea asta de HTML pe computerul dumneavoastra impreuna cu dependentele(resursele invocate in HTML js.css,...) si asta pentru fiecare tab in parte
+si astfel ati avea partea de frontend fara backend. Apoi ati putea extrage intr-un fisier html datele facturii(macar campurile obligatorii) si apoi puteti scrie cod javascript ca la incarcarea in acest formular local sa le incarce pe fiecare in campul/locul sau(nu uitati sa folositi si aceste pre-validari). Asta v-ar ajuta sa vedeti factura intr-un mod mai uman
+Apoi trebuie sa continuati codificare cu partea de front-end(care poate fi efectuata tot in JS) pt partea generarea propriu-zisa a facturii UBL/XML; Rezultatul il puteti depune automat intr-un nou tab construit de voi intr-un camp <textarea/> ca sa-l puteti valida, vizualiza si apoi prelua cu copy-paste; Nu uitati validarea trebuie sa fie conforma cu regulile XML,UBL 2.1, RO-CIUS dar si cu regulile Peppol.
 
 [ANAF](https://www.anaf.ro/anaf/internet/ANAF/despre_anaf/strategii_anaf/proiecte_digitalizare/e.factura) [XML2PDF](https://www.anaf.ro/uploadxml/) online
 
