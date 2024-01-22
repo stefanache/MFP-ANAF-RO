@@ -4,7 +4,9 @@
 ## **[Contact me](https://www.facebook.com/ion.stefanache.3)**
 <details>
 <br/><br/>
+  
 For more details please **[contact me]((mailto:ion.stefanache@yahoo.com))** on: 
+
 <br/><br/>
    ***Social:***
   
