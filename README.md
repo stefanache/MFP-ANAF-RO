@@ -6,9 +6,9 @@
   
       For more details please contact me on 
       
-      - **[facebook](https://www.facebook.com/ion.stefanache.3)** or
-      
-      - **[freelancer](https://www.freelancer.com/u/ionstefanache1)**
+  - **[facebook](https://www.facebook.com/ion.stefanache.3)** or
+  
+  - **[freelancer](https://www.freelancer.com/u/ionstefanache1)**
 
 </details>
 
