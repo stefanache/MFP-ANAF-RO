@@ -71,6 +71,7 @@ Nu uitati... validarea trebuie sa fie conforma/filtrata cu/de [**regulile**](htt
     **Versiunea  1.0.8** va fi valabilă incepând cu 29.12.2022.
 
      *(versiunea de aici respectiv **1.0.8** se refera la tot pachetul de validare UBL din directorul **ro16931-1.0.8** expus de catre ANAF)*
+     *( a se  consulta si continutul fisierului de validare **ROeFactura-UBL-validation-Invoice_v1.0.8.sch** din subdirecorul **\ro16931-1.0.8\preprocessed**)*
 
      [ro16931-ubl-1.0.8 (07.12.2022) ](https://mfinante.gov.ro/static/10/eFactura/ro16931-ubl-1.0.8.zip)
    
@@ -101,7 +102,7 @@ Nu uitati... validarea trebuie sa fie conforma/filtrata cu/de [**regulile**](htt
 
           (in acest fisier gasim validarea/testarea/assert-urile pt regulile gen/de forma **BR-nn**, **BR-B-nn**, **BR-CO-nn**, **BR-DEC-nn**, **BR-AE-nn**, **BR-E-nn**, **BR-G-nn**, **BR-IC-nn**, **BR_IP-nn**, **BR-O-nn**, **BR-S-nn**, **BR-Z-nn**...  referitoare la campurile **BG/BT**; mesajele sunt in lb. **engleza**)
      
-        - si **2** fisiere pt 2 versiuni diferite avand denumirea de forma generala **ROeFactura-UBL-validation-Invoice_v1.0.{s}.sch** unde **s=5** si respectiv **s=8**;
+        - si alte **2** fisiere pt 2 versiuni diferite avand denumirea de forma generala **ROeFactura-UBL-validation-Invoice_v1.0.{s}.sch** unde **s=5** si respectiv **s=8**;
 
            (in aceste fisiere gasiti versiunile de limbaj(schematron) in care s-au scris/definit regulile de validare CIUS nationale (de forma **BR-RO-nn**...) si versiunile de/pt CIUS-RO dupa cum urmeaza:
      
