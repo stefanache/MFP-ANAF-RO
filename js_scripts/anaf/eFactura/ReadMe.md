@@ -104,7 +104,7 @@ Nu uitati... validarea trebuie sa fie conforma/filtrata cu/de [**regulile**](htt
       
    Testarea tuturor regulilor(eng. **rule**) se face folosind directiva schematron **assert**(testul de conformitate) care are atributele test **id**,**flag**(care arata genul/tipul de eroare ex. **fatal**, si mesajul de eroare afisat dupa caz, in lb. **romana** sau in limba **engleza**).
 
-   Daca doriti sa va dezvoltati propriul validator de factura atunci trebuie sa stiti ca puteti utiliza(analiza=parse) fisierele schematron(*.sch) ca orice alt fisier XML.
+   Daca doriti sa va dezvoltati **propriul validator** de factura(si sa **evitati** astfel folosirea DukIntegrator) pentru a creste gradul de automatizare atunci trebuie sa stiti ca puteti utiliza(analiza=parse) fisierele schematron(*.sch) ca orice alt fisier XML.
    (puteti sa va uitati pe acele mici exemple(html/JS/css) pe care le-am creat la sectiunea [nomenclatoare geografice MFP](https://github.com/stefanache/MFP-ANAF-)
    RO/blob/main/js_scripts/mfp/nomenclatoare_geografice/)
 
