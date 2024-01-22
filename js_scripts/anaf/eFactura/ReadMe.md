@@ -34,7 +34,9 @@ Nu uitati... validarea trebuie sa fie conforma/filtrata cu regulile standardelor
 
  - trebuie sa luati in calcul [ultima versiune](https://static.anaf.ro/static/10/Anaf/Informatii_R/Informatii_modificare_CIUS_RO.pdf) (adica sa cautati ultimul Ordin al MFP);
 
-   ar tebui sa-l gasiti in [specificatiile tehnice](https://mfinante.gov.ro/web/efactura/informatii-tehnice) (a se vedea  in acest document care este ultima actualizare la RO-CIUS ex: ... Artefacte de validare Schematron   ... Ultima actualizare: Ordin MFP nr. 1.366/2021...Modificările pot fi consultate [aici](http://static.anaf.ro/static/10/Anaf/Informatii_R/Informatii_modificare_CIUS_RO.pdf)...Versiunea  1.0.8/29.12.2022 ... [ro16931-ubl-1.0.8 (07.12.2022) ](https://mfinante.gov.ro/static/10/eFactura/ro16931-ubl-1.0.8.zip)
+   ar tebui sa-l gasiti in [specificatiile tehnice](https://mfinante.gov.ro/web/efactura/informatii-tehnice)
+
+   (a se vedea  in acest document care este ultima actualizare a RO-CIUS  spre ex: ... Artefacte de validare Schematron   ... Ultima actualizare: Ordin MFP nr. 1.366/2021...Modificările pot fi consultate [aici](http://static.anaf.ro/static/10/Anaf/Informatii_R/Informatii_modificare_CIUS_RO.pdf)...Versiunea  1.0.8/29.12.2022 ... [ro16931-ubl-1.0.8 (07.12.2022) ](https://mfinante.gov.ro/static/10/eFactura/ro16931-ubl-1.0.8.zip)
 
 [ANAF](https://www.anaf.ro/anaf/internet/ANAF/despre_anaf/strategii_anaf/proiecte_digitalizare/e.factura) [XML2PDF](https://www.anaf.ro/uploadxml/) online
 
