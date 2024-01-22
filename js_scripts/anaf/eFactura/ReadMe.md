@@ -25,7 +25,7 @@ Nu uitati... validarea trebuie sa fie conforma/filtrata cu regulile standardelor
    - I.6 regulile Peppol-CIUS de specific  national: Peppol-**CIUS-RO**,...
 
 ***- II.regulile de validare aplicabile la nivelul GSIS(Secretariatul General al Sistemelor Informaţionale):***
-   - II.1 validarea **KE.D**
+   - II.1 validarea **KE.D-Centrul de interoperabilitate (național)**
 
 ***- III. regulile de validare aplicabile la nivelul PA(Administratie Publica):***
    - III.1 validarea **P.A**
