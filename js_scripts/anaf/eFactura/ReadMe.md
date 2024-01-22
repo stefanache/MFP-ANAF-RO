@@ -13,7 +13,7 @@ si astfel ati avea partea de frontend fara backend. Apoi ati putea extrage din b
 Apoi trebuie sa continuati codificarea cu partea de front-end(care poate fi efectuata tot in JS) pt partea generarea propriu-zisa a facturii UBL/XML; 
 Rezultatul il puteti depune automat intr-un nou tab construit de voi intr-un camp <textarea/> ca sa-l puteti valida, vizualiza si apoi prelua cu copy-paste pentru a-l salva in fisierul UBL/XML final;Puteti Putei urma aceasta cale pt generarea fisierului UBL/XML cu previzualizare macar pentru inceput pana reusiti sa creati un generator eFactura in JS stabil, dupa care puteti renunta la previzualizare sau pastra doar pentru depanare(deci previzualizarea ar trebui sa fie optionala oricum).
 Apoi urmeaza sa-l validati online/DukIntegrator pe site-ul anaf si sa-l semnati digital iar in final sa-l puteti urca(upload) pe site-ul indicat de autoritatea fiscala(GOV/MFP/ANAF)
-Nu uitati... validarea trebuie sa fie conforma/filtrata cu regulile standardelor aflate in vigoare  [Peppol-BIS 3.0 - CIUS](https://docs.peppol.eu/poacc/billing/3.0/bis/) formate din:
+Nu uitati... validarea trebuie sa fie conforma/filtrata cu regulile standardelor aflate in vigoare  [Peppol-BIS 3.0 - CIUS](https://docs.peppol.eu/poacc/billing/3.0/bis/), reguli expuse in cele ce urmeaza
 
 **- I.regulile de validare aplicabile la nivelul PEPPOL-AP(Access Point):**
  - I.1 IAPR(verificarea validitatii taxelor),
