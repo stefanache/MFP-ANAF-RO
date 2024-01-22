@@ -1,1 +1,107 @@
-
+{
+help: "https://data.gov.ro/en/api/3/action/help_show?name=datastore_search",
+success: true,
+result: {
+include_total: true,
+resource_id: "6ee318d9-2452-485c-9bb0-7a7626d7ad06",
+fields: [
+{
+type: "int",
+id: "_id"
+},
+{
+type: "numeric",
+id: "Nr.crt."
+},
+{
+type: "text",
+id: "Nume Castigator"
+},
+{
+type: "numeric",
+id: "CUI Castigator"
+},
+{
+type: "text",
+id: "Tara Castigator"
+},
+{
+type: "text",
+id: "Localitate Castigator"
+},
+{
+type: "text",
+id: "Adresa castigator"
+},
+{
+type: "numeric",
+id: "Numar Oferte Primite"
+},
+{
+type: "text",
+id: "Nume Autoritate Contractanta"
+},
+{
+type: "text",
+id: "Autoritate Contractanta CUI"
+},
+{
+type: "text",
+id: "Cod procedura"
+},
+{
+type: "timestamp",
+id: "Data atribuire"
+},
+{
+type: "text",
+id: "Titlu contract"
+},
+{
+type: "text",
+id: "Denumire produs"
+},
+{
+type: "text",
+id: "Unitate de masura"
+},
+{
+type: "numeric",
+id: "Cantitate"
+},
+{
+type: "numeric",
+id: "Pret/UM"
+},
+{
+type: "numeric",
+id: "Valoare totala achizitie"
+},
+{
+type: "text",
+id: "Moneda"
+},
+{
+type: "numeric",
+id: "Valoare RON"
+},
+{
+type: "numeric",
+id: "Valoare EUR"
+},
+{
+type: "text",
+id: "Cod CPV"
+}
+],
+records_format: "objects",
+q: "jones",
+records: [ ],
+limit: 5,
+_links: {
+start: "/api/3/action/datastore_search?q=jones&limit=5&resource_id=6ee318d9-2452-485c-9bb0-7a7626d7ad06",
+next: "/api/3/action/datastore_search?q=jones&offset=5&limit=5&resource_id=6ee318d9-2452-485c-9bb0-7a7626d7ad06"
+},
+total: 0
+}
+}
