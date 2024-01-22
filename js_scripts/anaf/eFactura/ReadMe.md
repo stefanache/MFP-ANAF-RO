@@ -71,7 +71,7 @@ Nu uitati... validarea trebuie sa fie conforma/filtrata cu/de [**regulile**](htt
     **Versiunea  1.0.8** va fi valabilă incepând cu 29.12.2022.
 
      *(versiunea de aici respectiv **1.0.8** se refera la tot pachetul de validare UBL din directorul **ro16931-1.0.8** expus de catre ANAF)*
-     *( a se  consulta si continutul fisierului de validare **ROeFactura-UBL-validation-Invoice_v1.0.8.sch** din subdirecorul **\ro16931-1.0.8\preprocessed**)*
+     *( a se  consulta si continutul fisierului de validare **ROeFactura-UBL-validation-Invoice_v1.0.8.sch** din subdirectorul **...\ro16931-1.0.8\preprocessed**)*
 
      [ro16931-ubl-1.0.8 (07.12.2022) ](https://mfinante.gov.ro/static/10/eFactura/ro16931-ubl-1.0.8.zip)
    
