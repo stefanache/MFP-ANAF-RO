@@ -58,7 +58,9 @@ Nu uitati... validarea trebuie sa fie conforma/filtrata cu/de [**regulile**](htt
  
     ...
  
-    [Ultima actualizare](https://static.anaf.ro/static/10/Anaf/Informatii_R/Informatii_modificare_CIUS_RO.pdf): [Ordin MFP nr. 1.366/2021](https://static.anaf.ro/static/10/Anaf/legislatie/OMF_1366_2021.pdf)
+    [Ultima actualizare](https://static.anaf.ro/static/10/Anaf/Informatii_R/Informatii_modificare_CIUS_RO.pdf):
+
+   [Ordin MFP nr. 1.366/2021](https://static.anaf.ro/static/10/Anaf/legislatie/OMF_1366_2021.pdf)
 
    *( dar a se vedea mai jos si [O.4092/14.11.2022](https://legislatie.just.ro/Public/DetaliiDocument/261755))*
  
