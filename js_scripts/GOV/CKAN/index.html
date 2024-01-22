@@ -70,8 +70,8 @@
            //console.log(`Data length from offset #${offset}: `, JSON.stringify(json).length);
            parseResults(json.result)
         }); 
-       */
-	url="https://stefanache.github.io/MFP-ANAF-RO/js_scripts/GOV/CKAN/data_gov_ro_res_id_6ee318d9-2452-485c-9bb0-7a7626d7ad06.json";
+       
+	
         $.ajax({
           url: url,
           //data: data,
@@ -83,22 +83,14 @@
             parseResults(response.result)
           },
         });
-        /*
+        */
 	
-	fetch(url)
-	  .then(function(response) {
-	    return response.json()
-	  }).then(function(json) {
-	    console.log('parsed json', json)
-	  }).catch(function(ex) {
-	    console.log('parsing failed', ex);
-	});
-	fetch(url)
-	  .then((response) => response.json())
-	  .then((data) => {
-		console.log(data);
-	});
-	 */
+	url="https://stefanache.github.io/MFP-ANAF-RO/js_scripts/GOV/CKAN/data_gov_ro_res_id_6ee318d9-2452-485c-9bb0-7a7626d7ad06.json";
+        fetch(url).then(response => {
+             return response.json();
+        }).then(json => {
+           console.log(`Data length from offset #${offset}: `, JSON.stringify(json).length);
+        });
      }   
    </script>
  </body>
