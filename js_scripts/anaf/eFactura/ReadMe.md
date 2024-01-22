@@ -18,7 +18,7 @@ Nu uitati... validarea trebuie sa fie conforma/filtrata cu regulile standardelor
  - ***I.1-6 regulile de validare aplicabile la nivelul PEPPOL-AP(Punct de Acces):***
    - I.1 verificarea validitatii taxelor - **IAPR(Autoritatea Independentă pentru Venituri Publice)**
    - I.2 XML bine format(sintaxa de baza) - verificarea regulilor XML de redactare: **XML eINV-emitere**
-   - I.3 XML(schema factura UBL/CII) - verificarea regulilor XML structurale/compozitionale: **XML eINV-structura**
+   - I.3 XML(schema factura [UBL](https://www.xml.com/articles/2017/01/01/what-is-ubl/) / CII) - verificarea regulilor XML structurale/compozitionale: **XML eINV-structura**
    - *I.4-6 regulile de verificare a respectarii(compliantei cu) standerdelor (versiunilor aflate in vigoare) - verificarea regulilor afacerii:*
      - I.4 regulile generale CEN TC/434: **EN-16931** + reguli specifice sintaxei,
      - I.5 regulile **[Peppol-CIUS](https://github.com/phax/peppol-practical/blob/master/src/main/resources/viewpages/en/validation_dvs.xml)** - validarea regulilor generale ale afacerii
