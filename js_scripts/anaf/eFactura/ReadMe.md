@@ -23,6 +23,7 @@ Nu uitati... validarea trebuie sa fie conforma/filtrata cu regulile standardelor
    - I.4 regulile generale CEN TC/434: EN16931 + reguli specifice sintaxei,
    - I.5 regulile Peppol-CIUS - validarea regulilor generale ale afacerii
    - I.6 regulile Peppol-CIUS de specific  national: Peppol-CIUS-RO
+
 **- II.regulile de validare aplicabile la nivelul GSIS:**
    - II.1 validarea KE.D
 
