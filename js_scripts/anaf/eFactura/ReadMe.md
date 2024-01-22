@@ -6,7 +6,7 @@
 
 [ANAF](https://www.anaf.ro/anaf/internet/ANAF/despre_anaf/strategii_anaf/proiecte_digitalizare/e.factura) [generator online factura XML](https://www.anaf.ro/CompletareFactura/faces/factura/informatiigenerale.xhtml);
 
-iata cum arata prevalidarea formularului(cu tab-uri) online de completare a facturii, in javascript: [https://www.anaf.ro/CompletareFactura/faces/factura/validare.js](https://www.anaf.ro/CompletareFactura/faces/factura/validare.js);
+Iata cum arata prevalidarea formularului(cu tab-uri) online de completare a facturii, in javascript: [https://www.anaf.ro/CompletareFactura/faces/factura/validare.js](https://www.anaf.ro/CompletareFactura/faces/factura/validare.js);
 
 In principiu [v-]ati putea copia partea asta de HTML/JS/CSS+assets pe computerul dumneavoastra impreuna cu dependentele(resursele invocate in HTML js.css,...) si asta pentru fiecare **tab** in parte
 si astfel ati avea partea de frontend fara backend. 
