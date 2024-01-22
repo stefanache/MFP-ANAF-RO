@@ -60,15 +60,15 @@ Nu uitati... validarea trebuie sa fie conforma/filtrata cu regulile standardelor
      - si **2** fisiere pt 2 versiuni diferite avand denumirea de forma **ROeFactura-UBL-validation-Invoice_v1.0.s.sch** unde s=5 si respectiv s=8;
 
       (in aceste fisiere gasiti versiunile de schematron in care s-au scris/definit regulile de validare CIUS nationale (de forma BR-RO-...) si versiunile de/pt CIUS-RO dupa cum urmeaza:
-        - in fisierul **ROeFactura-UBL-validation-Invoice_v1.0.5.sch**  avem:
-          - Schematron Version 1.0.3
-          - CIUS-RO version 1.0.0 compatible - UBL - Invoice
-        - iar in fisierul **ROeFactura-UBL-validation-Invoice_v1.0.8.sch** avem:
-          - Schematron Version 1.0.0
-          - CIUS-RO version 1.0.1 compatible - UBL - Invoice;
+         - in fisierul **ROeFactura-UBL-validation-Invoice_v1.0.5.sch**  avem:
+           - Schematron Version 1.0.3
+           - CIUS-RO version 1.0.0 compatible - UBL - Invoice
+         - iar in fisierul **ROeFactura-UBL-validation-Invoice_v1.0.8.sch** avem:
+           - Schematron Version 1.0.0
+           - CIUS-RO version 1.0.1 compatible - UBL - Invoice;
        mesajele sunt in limba romana fara diacritice)
       
-  - testarea tuturor regulilor(rule) se face folosind directiva schematron assert(testul de conformitate) care are atributele test id,flag(care arata genul/tipul de eroare ex. fatal, si meajul de eroare afisat).
+  - testarea tuturor regulilor(eng. *rule*) se face folosind directiva schematron **assert**(testul de conformitate) care are atributele test **id**,**flag**(care arata genul/tipul de eroare ex. **fatal**, si meajul de eroare afisat dupa caz, in lb romana sau in limba engleza).
 
 [ANAF](https://www.anaf.ro/anaf/internet/ANAF/despre_anaf/strategii_anaf/proiecte_digitalizare/e.factura) [XML2PDF](https://www.anaf.ro/uploadxml/) online
 
