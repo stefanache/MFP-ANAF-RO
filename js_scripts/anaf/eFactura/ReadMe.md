@@ -23,7 +23,7 @@ Puteti urma aceasta cale pt generarea fisierului UBL/XML cu previzualizare macar
 
 Apoi urmeaza sa-l **validati** online/DukIntegrator pe site-ul anaf si sa-l **semnati digital** iar in final sa-l puteti urca(**upload**) pe site-ul indicat de [autoritatea fiscala](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/Ghid_RO_eFactura.pdf)(GOV/MFP/ANAF)
 
-Toti acesti pasi pot fi automatizati astfel incat sa nu mai fie nevoie de o interventie/prezenta umana de lunga durata(in principiu daca aveti configurari de specificitate corespunzatoare atunci un simplu buton pt transmitere eFactura catre ANAF ar fi suficient in conditiile in care sunt indeplinite toate conditiile de access securizat).
+Toti acesti pasi pot fi automatizati astfel incat sa nu mai fie nevoie de o interventie/prezenta umana de lunga durata(in principiu daca aveti configurari de specificitate corespunzatoare atunci un simplu buton pt transmitere eFactura catre ANAF ar fi suficient in conditiile in care sunt indeplinite toate conditiile de **access securizat**).
 
 Nu uitati... validarea trebuie sa fie conforma/filtrata cu/de [**regulile**](https://docs.peppol.eu/poacc/upgrade-3/profiles/36-mlr/) standardelor aflate in vigoare  [**Peppol-BIS 3.0**](https://docs.peppol.eu/poacc/billing/3.0/bis/), reguli expuse in cele ce urmeaza(eng: [BIS](https://openpeppol.github.io/documentation/PostAward/InvoiceOnly4A/20170315-PEPPOL_BIS_4A-401.pdf) - Business Interoperability Specification):
 
