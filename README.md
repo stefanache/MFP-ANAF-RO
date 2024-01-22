@@ -19,9 +19,9 @@ For more details please **[contact me](mailto:ion.stefanache@yahoo.com)** on:
 
    ***Emails:***
     
-   - **[yahoo](mailto:ion.stefanache@yahoo.com)**: [ion.stefanache@yahoo.com](mailto:ion.stefanache@yahoo.com),
+   - <a href="mailto:ion.stefanache@yahoo.com">**yahoo**</a>: <a href="mailto:ion.stefanache@yahoo.com">ion.stefanache@yahoo.com</a>,
   
-   - **[gmail](mailto:ion.stefanache0@gmailcom)**: [ion.stefanache0@gmailcom ](mailto:ion.stefanache0@gmailcom)
+   - <a href="mailto:ion.stefanache0@gmail.com">**gmail**</a>: <a href="mailto:ion.stefanache0@gmail.com">ion.stefanache0@gmail.com</a>
 
 </details>
 
