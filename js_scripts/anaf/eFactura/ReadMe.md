@@ -30,7 +30,7 @@ Nu uitati... validarea trebuie sa fie conforma/filtrata cu regulile standardelor
  - ***III. regulile de validare aplicabile la nivelul PA(Administratie Publica):***
     - III.1 validarea **P.A**
 
-***Nota importanta:*** - referitor la [ro:CIUS-RO:v.s](https://www.google.com/search?q=ro:CIUS-RO:1.0.&lr=lang_ro&sca_esv=600376160&rlz=1C1JJTC_enRO1087RO1087&tbs=lr:lang_1ro,qdr:m&sxsrf=ACQVn0_WIPdTZG_6ei8UZ80wfxcg2qVc-A:1705919117517&source=lnt&sa=X&ved=2ahUKEwiqkY_44_CDAxVuR_EDHSYzB9UQpwV6BAgBEA8&biw=1492&bih=700&dpr=1.25)  (unde, in acest moment, versiunea curenta este v=0 si subversiunea s=1 )
+***Nota importanta:*** - referitor la [**ro:CIUS-RO:{v}.{s}**](https://www.google.com/search?q=ro:CIUS-RO:1.0.&lr=lang_ro&sca_esv=600376160&rlz=1C1JJTC_enRO1087RO1087&tbs=lr:lang_1ro,qdr:m&sxsrf=ACQVn0_WIPdTZG_6ei8UZ80wfxcg2qVc-A:1705919117517&source=lnt&sa=X&ved=2ahUKEwiqkY_44_CDAxVuR_EDHSYzB9UQpwV6BAgBEA8&biw=1492&bih=700&dpr=1.25)  (unde, in acest moment, versiunea curenta este **v=0** si subversiunea **s=1** )
 
  - trebuie sa luati in calcul [ultima versiune](https://static.anaf.ro/static/10/Anaf/Informatii_R/Informatii_modificare_CIUS_RO.pdf) (adica sa cautati ultimul Ordin al MFP);
 
@@ -42,25 +42,25 @@ Nu uitati... validarea trebuie sa fie conforma/filtrata cu regulile standardelor
    Cand dezarhivati arhiva **ro16931-ubl-1.0.8.zip** gasiti directorul **ro16931-1.0.8** si in el gasiti un fiser **EN16931-CIUS_RO-UBL-validation.sch** si **5** subdirectoare:
  
    - fisierul **EN16931-CIUS_RO-UBL-validation.sch** practic este un catalog explicativ/definitoriu care prezinta cele **5** subdirectoare si la ce sunt folosite acestea in procesul de  validare a facturii iar,
-   - in cele in **5** subdirectoare propriu zise, avem:
+   - in cele in **5** subdirectoare propriu zise, ale directorului **ro16931-1.0.8** avem:
    
       - in subdirectorul **cius-ro** gasiti fisierul **RO16931-rules.sch**;
 
         acest fisier contine regulile CIUS cu specific national:  **CIUS-RO / RO-CIUS**.
 
-        [Schematron](https://www.schematron.com/) este un limbaj XML utilizat pentru a specifica aceste reguli de afaceri(business)
+        [**Schematron**](https://www.schematron.com/) este un limbaj XML utilizat pentru a specifica aceste reguli de afaceri(business)
 
-      - tot in acest director denumit ro16931-1.0.8 gasiti alte **2** subdirectoare denumite **UBL** respectiv **abstract** in care sunt definite **modelul** si **sintaxa** cf standardului **EN-16931**; cele 2 fisiere ale fiecarui subdirector sunt definite tot cu ajutorul limbajului Schematron.
+      - tot in acest director denumit **ro16931-1.0.8** gasiti alte **2** subdirectoare denumite **UBL** respectiv **abstract** in care sunt definite **modelul** si **sintaxa** cf standardului **EN-16931**; cele 2 fisiere ale fiecarui subdirector sunt definite tot cu ajutorul limbajului Schematron.
 
-      - in acelasi director ro16931-1.0.8 mai gasiti si subdirectorul **codelist(CL)** care contine fisierul [EN16931-UBL-codes.sch](https://github.com/OpenPEPPOL/tc434-validation/blob/master/ubl/schematron/codelist/EN16931-UBL-codes.sch) unde veti gasi regulile licentiate EUPL de forma [BR-CL-nn](https://docs.peppol.eu/poacc/billing/3.0/rules/ubl-tc434/BR-CL-04/)
+      - in acelasi director **ro16931-1.0.8** mai gasiti si subdirectorul **codelist(CL)** care contine fisierul [EN16931-UBL-codes.sch](https://github.com/OpenPEPPOL/tc434-validation/blob/master/ubl/schematron/codelist/EN16931-UBL-codes.sch) unde veti gasi regulile licentiate EUPL de forma [BR-CL-nn](https://docs.peppol.eu/poacc/billing/3.0/rules/ubl-tc434/BR-CL-04/)
 
-      - si in sfarsit in acest director mai gasiti subdirectorul **preprocessed** care contine **3** fisiere schematron(*.sch) de validare:
+      - si in sfarsit in acest director directorul **ro16931-1.0.8** mai gasiti subdirectorul **preprocessed** care contine **3** fisiere schematron(*.sch) de validare:
    
         - **EN16931-validation-preprocesed.sch**
 
       (in acest fisier gasim validarea/testarea/assert-urile pt regulile gen/de forma **BR-nn**, **BR-B-nn**, **BR-CO-nn**, **BR-DEC-nn**, **BR-AE-nn**, **BR-E-nn**, **BR-G-nn**, **BR-IC-nn**, **BR_IP-nn**, **BR-O-nn**, **BR-S-nn**, **BR-Z-nn**...  referitoare la campurile **BG/BT**; mesajele sunt in lb. **engleza**)
       
-        - si **2** fisiere pt 2 versiuni diferite avand denumirea de forma **ROeFactura-UBL-validation-Invoice_v1.0.s.sch** unde s=5 si respectiv s=8;
+        - si **2** fisiere pt 2 versiuni diferite avand denumirea de forma generala**ROeFactura-UBL-validation-Invoice_v1.0.{s}.sch** unde **s=5** si respectiv **s=8**;
 
        (in aceste fisiere gasiti versiunile de schematron in care s-au scris/definit regulile de validare CIUS nationale (de forma **BR-RO-nn**...) si versiunile de/pt CIUS-RO dupa cum urmeaza:
      
