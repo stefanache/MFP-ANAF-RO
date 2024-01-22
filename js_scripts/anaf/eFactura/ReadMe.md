@@ -11,11 +11,11 @@ Iata cum arata prevalidarea formularului(cu tab-uri) online de completare a fact
 In principiu [v-]ati putea copia partea asta de HTML/JS/CSS+assets pe computerul dumneavoastra impreuna cu dependentele(resursele invocate in HTML js.css,...) si asta pentru fiecare **tab** in parte
 si astfel ati avea partea de frontend fara backend. 
 
-Apoi ati putea extrage din baza voastra de date, intr-un fisier xml, datele facturii(macar campurile obligatorii) si apoi puteti scrie cod javascript ca la incarcarea in acest formular-sablon local sa incarce  fiecare cam din fisierul de intrare XML in campul/locul sau(nu uitati sa folositi si aceste pre-validari) din formular(input,textarea,select). 
+Apoi ati putea **extrage datele brute** ale facturii din baza voastra de date, intr-un fisier **xml**(macar datele pt. campurile obligatorii) si apoi puteti scrie cod javascript ca la incarcarea in acest formular-sablon local sa se **[auto]incarce**  fiecare camp din fisierul de intrare **xml** in campul/locul sau(nu uitati sa folositi si aceste pre-validari) din **formularul-ANAF(input,textarea,select) de completare a facturii**. 
 
-Asta v-ar ajuta sa vedeti/previzualizati factura intr-un mod mai **uman** si sa faceti un control vizual cat mai rapid.
+Asta v-ar ajuta sa **vedeti/previzualizati** factura intr-un mod mai **uman** si sa faceti un control vizual cat mai rapid.
 
-Apoi trebuie sa continuati codificarea cu partea de front-end(care poate fi efectuata tot in JS) pt partea generarea propriu-zisa a facturii UBL/XML(UBL=OASIS Universal Business Language); 
+Apoi trebuie sa continuati **codificarea** cu partea de **back-end**(care poate fi efectuata tot in JS pur/nu nodeJS) pt partea de **generare propriu-zisa** a eFacturii UBL/XML(UBL=OASIS Universal Business Language); 
 
 Rezultatul il puteti depune automat intr-un **nou tab** construit de voi intr-un camp **<textarea/>** ca sa-l puteti valida, vizualiza si apoi prelua cu **copy-paste** pentru a-l salva in fisierul UBL/XML final;
 
@@ -23,7 +23,7 @@ Puteti urma aceasta cale pt generarea fisierului UBL/XML cu previzualizare macar
 
 Apoi urmeaza sa-l **validati** online/DukIntegrator pe site-ul anaf si sa-l **semnati digital** iar in final sa-l puteti urca(**upload**) pe site-ul indicat de [autoritatea fiscala](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/Ghid_RO_eFactura.pdf)(GOV/MFP/ANAF)
 
-Toti acesti pasi pot fi automatizati astfel incat sa nu mai fie nevoie de o interventie/prezenta umana de lunga durata(in principiu daca aveti configurari de specificitate corespunzatoare atunci un simplu buton pt transmitere eFactura catre ANAF ar fi suficient in conditiile in care sunt indeplinite toate conditiile de **access securizat**).
+Toti acesti pasi pot fi automatizati astfel incat sa nu mai fie nevoie de o interventie/prezenta umana de lunga durata(in principiu daca aveti configurari de specificitate corespunzatoare atunci un simplu buton pt **transmitere eFactura catre ANAF** ar fi suficient in conditiile in care sunt indeplinite toate conditiile de **access securizat**).
 
 Nu uitati... validarea trebuie sa fie conforma/filtrata cu/de [**regulile**](https://docs.peppol.eu/poacc/upgrade-3/profiles/36-mlr/) standardelor aflate in vigoare  [**Peppol-BIS 3.0**](https://docs.peppol.eu/poacc/billing/3.0/bis/), reguli expuse in cele ce urmeaza(eng: [BIS](https://openpeppol.github.io/documentation/PostAward/InvoiceOnly4A/20170315-PEPPOL_BIS_4A-401.pdf) - Business Interoperability Specification):
 
