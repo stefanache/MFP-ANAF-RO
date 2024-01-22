@@ -376,7 +376,7 @@ In acesta sectiune sa incepem prin a ne referi la [Impozitul pe Venit](https://s
 - Jocuri de noroc şi premii
 - Lichidarea unei firme
 - Moşteniri, donaţii, burse, alocaţii etc.
-- Profesiuni libere
+- Profesiuni libere(exista si un [ghid al profesiilor liberale](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/Ghid_profesii_liberale_05022021.pdf))
 - Pensie
 - Salarii
 - Salariu din străinătate
