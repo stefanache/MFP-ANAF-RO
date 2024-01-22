@@ -49,7 +49,12 @@ Nu uitati... validarea trebuie sa fie conforma/filtrata cu regulile standardelor
     cele 2 fisiere sunt definite tot cu ajutorul limbajului Schematron.
 
  - in acelasi director ro16931-1.0.8 mai gasiti si subdirectorul codelist(CL) care contine fisierul [EN16931-UBL-codes.sch](https://github.com/OpenPEPPOL/tc434-validation/blob/master/ubl/schematron/codelist/EN16931-UBL-codes.sch) unde veti gasi regulile licentiate EUPL de forma [BR-CL-nn](https://docs.peppol.eu/poacc/billing/3.0/rules/ubl-tc434/BR-CL-04/)
-  
+
+ - si in sfarsit in acest director mai gasiti subdirectorul preprocessed care contine 3 fisiere schematron(*.sch) de validare:
+   
+    - EN16931-validation-preprocesed.sch
+    - si 2 fisiere pt 2 versiuni diferite avand denumirea de forma ROeFactura-UBL-validation-Invoice_v1.0.s unde s=5 si respectiv s=8
+    - 
  - testarea tuturor regulilor(rule) se face folosind directiva schematron assert(testul de conformitate) care are atributele test id,flag(care arata genul/tipul de eroare ex. fatal, si meajul de eroare afisat).
 
 [ANAF](https://www.anaf.ro/anaf/internet/ANAF/despre_anaf/strategii_anaf/proiecte_digitalizare/e.factura) [XML2PDF](https://www.anaf.ro/uploadxml/) online
