@@ -44,7 +44,9 @@ Nu uitati... validarea trebuie sa fie conforma/filtrata cu regulile standardelor
    - fisierul **EN16931-CIUS_RO-UBL-validation.sch** practic prezinta subdirectoarele adica la ce sunt folosite le pt validarea facturii iar,
    - in cele in **5** subdirectoare avem:
    
-      - in subdirectorul **cius-ro** gasiti fisierul **RO16931-rules.sch**; acest fisier contine regulile CIUS cu specific national:  **CIUS-RO / RO-CIUS**.
+      - in subdirectorul **cius-ro** gasiti fisierul **RO16931-rules.sch**;
+
+        acest fisier contine regulile CIUS cu specific national:  **CIUS-RO / RO-CIUS**.
 
         [Schematron](https://www.schematron.com/) este un limbaj XML utilizat pentru a specifica aceste reguli de afaceri(business)
 
