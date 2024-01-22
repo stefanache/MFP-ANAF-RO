@@ -11,7 +11,7 @@
   - **[facebook](https://www.facebook.com/ion.stefanache.3)**,
   
   - **[freelancer](https://www.freelancer.com/u/ionstefanache1)**,
-  - 
+  
   - **[linkedin](https://www.linkedin.com/in/ion-stefanache-96b64489/)**
 
 
