@@ -50,7 +50,7 @@ Nu uitati... validarea trebuie sa fie conforma/filtrata cu/de [**regulile**](htt
 
    ar tebui sa-l gasiti in [specificatiile tehnice ANAF pt eFactura](https://mfinante.gov.ro/web/efactura/informatii-tehnice)
 
-   **(**a se vedea  in acest [document]((https://mfinante.gov.ro/web/efactura/informatii-tehnice)) care este ultima actualizare a RO-CIUS   spre **ex.**:
+   **(**a se vedea  in acest [document](https://mfinante.gov.ro/web/efactura/informatii-tehnice) care este ultima actualizare a RO-CIUS/**CIUS-RO**   spre **ex.**:
  
      ...
  
