@@ -54,11 +54,11 @@ Nu uitati... validarea trebuie sa fie conforma/filtrata cu regulile standardelor
    
      - **EN16931-validation-preprocesed.sch**
 
-      (in acest fisier gasim validarea/testarea/assert-urile pt regulile gen/de forma BR-nn, BR-B-nn, BR-CO-nn, BR-DEC-nn, BR-AE-nn, BR-E-nn, BR-G-nn, BR-IC-nn, BR_IP-nn, BR-O-nn, BR-S-nn, BR-Z-nn...  referitoare la campurile BG/BT; mesajele sunt in lb. **engleza**)
+      (in acest fisier gasim validarea/testarea/assert-urile pt regulile gen/de forma **BR-nn**, **BR-B-nn**, **BR-CO-nn**, **BR-DEC-nn**, **BR-AE-nn**, **BR-E-nn**, **BR-G-nn**, **BR-IC-nn**, **BR_IP-nn**, **BR-O-nn**, **BR-S-nn**, **BR-Z-nn**...  referitoare la campurile **BG/BT**; mesajele sunt in lb. **engleza**)
       
      - si **2** fisiere pt 2 versiuni diferite avand denumirea de forma **ROeFactura-UBL-validation-Invoice_v1.0.s.sch** unde s=5 si respectiv s=8;
 
-      (in aceste fisiere gasiti versiunile de schematron in care s-au scris/definit regulile de validare CIUS nationale (de forma BR-RO-...) si versiunile de/pt CIUS-RO dupa cum urmeaza:
+      (in aceste fisiere gasiti versiunile de schematron in care s-au scris/definit regulile de validare CIUS nationale (de forma **BR-RO-nn**...) si versiunile de/pt CIUS-RO dupa cum urmeaza:
      
        - in fisierul **ROeFactura-UBL-validation-Invoice_v1.0.5.sch**  avem:
          - Schematron Version 1.0.3
