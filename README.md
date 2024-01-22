@@ -1,4 +1,4 @@
-**Thanks all for [stars](https://www.facebook.com/ion.stefanache.3) and [traffic](https://www.freelancer.com/u/ionstefanache1)!**
+**Thanks all 4 [stars](https://www.facebook.com/ion.stefanache.3) and [traffic](https://www.freelancer.com/u/ionstefanache1)!**
 
 For more details please contact me on [@facebook](https://www.facebook.com/ion.stefanache.3) or [@freelancer](https://www.freelancer.com/u/ionstefanache1)
 
