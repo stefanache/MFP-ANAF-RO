@@ -4,15 +4,19 @@
 ## **[Contact me](https://www.facebook.com/ion.stefanache.3)**
 <details>
   
-      For more details please contact me on: 
-      
-  - **[facebook](https://www.facebook.com/ion.stefanache.3)** or
+      For more details please **contact me** on: 
+
+   ***Social:***
   
-  - **[freelancer](https://www.freelancer.com/u/ionstefanache1)**
+  - **[facebook](https://www.facebook.com/ion.stefanache.3)**,
+  
+  - **[freelancer](https://www.freelancer.com/u/ionstefanache1)**,
+  - 
+  - **[linkedin](https://www.linkedin.com/in/ion-stefanache-96b64489/)**
 
     ***Emails:***
     
-   - **[yahoo](mailto:ion.stefanache@yahoo.com)**: [ion.stefanache@yahoo.com](mailto:ion.stefanache@yahoo.com) or
+   - **[yahoo](mailto:ion.stefanache@yahoo.com)**: [ion.stefanache@yahoo.com](mailto:ion.stefanache@yahoo.com),
   
    - **[gmail](mailto:ion.stefanache0@gmailcom)**: [ion.stefanache0@gmailcom ](mailto:ion.stefanache0@gmailcom)
 
