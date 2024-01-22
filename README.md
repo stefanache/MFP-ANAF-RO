@@ -1,13 +1,13 @@
+
 **Thanks all 4 [stars](https://www.facebook.com/ion.stefanache.3) and [traffic](https://www.freelancer.com/u/ionstefanache1)!**
 
-For more details please contact me on [@facebook](https://www.facebook.com/ion.stefanache.3) or [@freelancer](https://www.freelancer.com/u/ionstefanache1)
+## **[Contact me](https://www.facebook.com/ion.stefanache.3)**
+<details>
+  For more details please contact me on [@facebook](https://www.facebook.com/ion.stefanache.3) or [@freelancer](https://www.freelancer.com/u/ionstefanache1)
+</details>
 
 ## **[ANAF](https://www.anaf.ro/anaf/internet/ANAF/asistenta_contribuabili/legislatie/codul_fiscal/) autoritate fiscala; Introducere, Nomenclatoare...**
 <details>
-
-
-
-
   
 *Pentru inceput sa invatam din experienta altora... iar **motoarele de cautare**(carora le multumim!) sunt... cele mai bune prietene in aceasta speta :)*
 
