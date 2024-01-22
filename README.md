@@ -5,6 +5,9 @@ For more details please contact me on [@facebook](https://www.facebook.com/ion.s
 ## **[ANAF](https://www.anaf.ro/anaf/internet/ANAF/asistenta_contribuabili/legislatie/codul_fiscal/) autoritate fiscala; Introducere, Nomenclatoare...**
 <details>
 
+
+
+
   
 *Pentru inceput sa invatam din experienta altora... iar **motoarele de cautare**(carora le multumim!) sunt... cele mai bune prietene in aceasta speta :)*
 
