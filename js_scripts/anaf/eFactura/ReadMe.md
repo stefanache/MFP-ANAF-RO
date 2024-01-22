@@ -54,7 +54,7 @@ Nu uitati... validarea trebuie sa fie conforma/filtrata cu regulile standardelor
          
             Versiunea  1.0.8/29.12.2022 ... [ro16931-ubl-1.0.8 (07.12.2022) ](https://mfinante.gov.ro/static/10/eFactura/ro16931-ubl-1.0.8.zip)
 
-   cf. acestui **exemplu** de **versiune**(O.1.366/2021) de **Ordin MFP** se observa ca pt pentru e-Factura sunt acceptate 2 sintaxe **UBL2.1** si **CII 16B** / **EN-16931:2017** si regulile **CIUS-RO:1.0.1** **)**
+   cf. acestui **exemplu** de **versiune**(O.1.366/2021) de **Ordin MFP** se observa ca pt pentru e-Factura sunt acceptate 2 sintaxe **UBL2.1** si **CII 16B** / **EN-16931:2017** si regulile **CIUS-RO:1.0.1**; si modificari la RO-CIUS pot aparea si odata cu ele apar noi reglementari legale/ordine MFP care duc la schimbari ale continutului acestei arhive astfel ca versiunile vechi devin istorie sau ***istoric*** **)**
  
    Cand [dezarhivati](https://github.com/stefanache/MFP-ANAF-RO/tree/main/js_scripts/anaf/eFactura/ro16931-ubl-1.0.8/ro16931-ubl-1.0.8)(si am procedat si eul la fel [aici](https://github.com/stefanache/MFP-ANAF-RO/tree/main/js_scripts/anaf/eFactura/ro16931-ubl-1.0.8/ro16931-ubl-1.0.8) si apoi am vizualizat rand pe rand fisierele schematron ***.sch** cu [XML Notepad](https://lovettsoftwarestorage.blob.core.windows.net/downloads/XmlNotepad/XmlNotepad.application)) arhiva **ro16931-ubl-1.0.8.zip** gasiti directorul **ro16931-1.0.8** si in el gasiti un fiser(**EN16931-CIUS_RO-UBL-validation.sch**) si **5** subdirectoare:
  
