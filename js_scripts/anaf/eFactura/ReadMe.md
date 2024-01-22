@@ -21,7 +21,7 @@ Nu uitati... validarea trebuie sa fie conforma/filtrata cu regulile standardelor
    - I.3 XML(schema factura UBL/CII) - verificarea regulilor XML structurale/compozitionale: **XML eINV-structura**
    - *I.4-6 regulile de verificare a respectarii(compliantei cu) standerdelor (versiunilor aflate in vigoare) - verificarea regulilor afacerii:*
      - I.4 regulile generale CEN TC/434: **EN-16931** + reguli specifice sintaxei,
-     - I.5 regulile **Peppol-CIUS** - validarea regulilor generale ale afacerii
+     - I.5 regulile **[Peppol-CIUS](https://github.com/phax/peppol-practical/blob/master/src/main/resources/viewpages/en/validation_dvs.xml)** - validarea regulilor generale ale afacerii
      - I.6 regulile Peppol-CIUS de specific  national: Peppol-**CIUS-RO**,...
 
  - ***II.regulile de validare aplicabile la nivelul [GSIS](https://www.gsis.gr/sites/default/files/eInvoice/Instructions%20to%20B2G%20Suppliers%20and%20certified%20PEPPOL%20Providers%20for%20the%20Greek%20PEPPOL%20BIS-EN-%20v1.0.pdf)(Secretariatul General al Sistemelor Informaţionale):***
