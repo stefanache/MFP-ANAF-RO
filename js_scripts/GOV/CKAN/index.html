@@ -79,6 +79,7 @@
           //sync: true,
           success: function(response) {
 	    console.log(response);
+	    console.log(response.result);
             parseResults(response.result)
           },
         });
