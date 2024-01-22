@@ -66,7 +66,7 @@ Nu uitati... validarea trebuie sa fie conforma/filtrata cu/de [**regulile**](htt
  
     Modificările pot fi consultate [aici](http://static.anaf.ro/static/10/Anaf/Informatii_R/Informatii_modificare_CIUS_RO.pdf)
 
-    *( re refera la modificarile [O.4092/14.11.2022](https://legislatie.just.ro/Public/DetaliiDocument/261755) aduse [Ordinului MFP nr. 1.366/2021](https://static.anaf.ro/static/10/Anaf/legislatie/OMF_1366_2021.pdf) de mai sus)*
+    *( se refera la modificarile [O.4092/14.11.2022](https://legislatie.just.ro/Public/DetaliiDocument/261755) aduse [Ordinului MFP nr. 1.366/2021](https://static.anaf.ro/static/10/Anaf/legislatie/OMF_1366_2021.pdf) de mai sus)*
  
     **Versiunea  1.0.8** va fi valabilă incepând cu 29.12.2022.
 
