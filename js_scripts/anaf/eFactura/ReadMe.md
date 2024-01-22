@@ -54,11 +54,11 @@ Nu uitati... validarea trebuie sa fie conforma/filtrata cu/de [**regulile**](htt
  
      ...
  
-    Artefacte de validare Schematron
+    **Artefacte de validare Schematron**
  
     ...
  
-    Ultima actualizare: [Ordin MFP nr. 1.366/2021](https://static.anaf.ro/static/10/Anaf/legislatie/OMF_1366_2021.pdf) ( a se vedea si [O.4092/14.11.2022](https://legislatie.just.ro/Public/DetaliiDocument/261755))
+    [Ultima actualizare](https://static.anaf.ro/static/10/Anaf/Informatii_R/Informatii_modificare_CIUS_RO.pdf): [Ordin MFP nr. 1.366/2021](https://static.anaf.ro/static/10/Anaf/legislatie/OMF_1366_2021.pdf) ( a se vedea si [O.4092/14.11.2022](https://legislatie.just.ro/Public/DetaliiDocument/261755))
  
     ...
  
@@ -66,11 +66,9 @@ Nu uitati... validarea trebuie sa fie conforma/filtrata cu/de [**regulile**](htt
  
     ...
  
-    Versiunea  1.0.8/29.12.2022
+    **Versiunea  1.0.8** va fi valabilă incepând cu 29.12.2022. *(versiunea aici 1.0.8 se refera la tot pachetul de validare UBL din directorul **ro16931-1.0.8** expus de catre ANAF)*
 
-   ...
-
-   [ro16931-ubl-1.0.8 (07.12.2022) ](https://mfinante.gov.ro/static/10/eFactura/ro16931-ubl-1.0.8.zip)
+     [ro16931-ubl-1.0.8 (07.12.2022) ](https://mfinante.gov.ro/static/10/eFactura/ro16931-ubl-1.0.8.zip)
  
     ...
 
