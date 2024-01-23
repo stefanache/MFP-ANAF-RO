@@ -6240,6 +6240,7 @@ a.list-group-item-danger.active,button.list-group-item-danger.active,a.list-grou
     color: #333333;
     background-color: #f5f5f5;
     border-color: #ddd;
+    width:100%;
 }
 
 .panel-default > .panel-heading + .panel-collapse > .panel-body {
