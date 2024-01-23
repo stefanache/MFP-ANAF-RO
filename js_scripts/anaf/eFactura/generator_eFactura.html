@@ -1,1 +1,27 @@
+<!DOCTYPE html> 
+<html> 
+ <head> 
+  <title> Ajax Example - data.gov.ro - search</title>
+  <!--<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>-->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script> 
+  <!--<script src="script.js"></script>-->
+ </head> 
+ <body>
+    <h1>Cautare dataset in <a href="https://data.gov.ro/">data.gov.ro</a></h1>
+    <h2> exemplu 1: Lista pachete </h2>
+    <a href="http://data.gov.ro/api/3/action/package_list">Package-list</a>
+    <button onclick="onButtonClick()">Get datasets</button>
+    <ul id="list">
+    </ul>
 
+   <h2> exemplu 2: Descarcarea unei resurse-id: 6ee318d9-2452-485c-9bb0-7a7626d7ad06 </h2>
+   <p>(<small>primelor 5 randuri din resursa in format jsonP</small>)</p>
+   <a href="https://data.gov.ro/en/api/3/action/datastore_search?limit=5&q=jones&resource_id=6ee318d9-2452-485c-9bb0-7a7626d7ad06">CKAN Data API</a>
+   <button onclick="onClickButton()">Get resource</button>
+  
+   <script>
+ 
+   </script>
+ </body>
+<html>
+        
