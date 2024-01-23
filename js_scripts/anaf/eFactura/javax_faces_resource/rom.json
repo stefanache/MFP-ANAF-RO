@@ -1,0 +1,68 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Pagina acces interzis</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<style>
+ol {
+	 margin:0;padding:0;
+	 list-style-type:none; /* Removes the numbering */
+	 width: 400px;
+	 margin:1em;
+	 border-top: 1px solid #166CFF;
+	 border-left: 1px solid #166CFF;
+	 border-right: 1px solid #166CFF;
+	}
+    li a {
+	 display:block;
+	 color:#666666;
+	 background:#CCCCCC;
+	 border-bottom: 1px solid #166CFF;
+	 width: 100%;
+	 min-height: 2em;
+	}
+	li a:hover {
+	 background: #E2E2E2;
+	}
+.auto-style2 {
+	text-decoration: none;
+}
+.auto-style3 {
+	text-align: left;
+}
+</style>
+</head>
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<table cellspacing="0" cellpadding="0" width="100%" align="center" border="0">
+<tr colspan="2">
+<td height="92" colspan="2" align="center"><img src="https://www.anaf.ro/banner.jpg
+" /></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td><br><br>
+
+<h1 class="auto-style3"><font color="#FF0000">&nbsp; Acces interzis!</font></h1>
+<br><br>
+<b>&nbsp; V&#259; rug&#259;m s&#259; inchide&#355;i toate browser-ele, s&#259; &#351;terge&#355;i cache-ul &#351;i s&#259; v&#259; 
+autentifica&#355;i din nou in sistem.<br>&nbsp; &#350;tergere cache: CRTL+Shift+Delete<br>&nbsp; Pentru 
+mai mult&#259; siguran&#355;&#259;, pute&#355;i deschide o fereastr&#259; nou&#259;, ”new session” sau 
+“incognito window”.<br><br></b><br><br>
+<b>&nbsp; Pentru vizualizarea spa&#355;iului public, accesa&#355;i 
+<A href="https://www.anaf.ro/anaf/internet/ANAF" class="auto-style2">link-ul</A>.</b>
+<br><br><br><br><br>
+<br><br><br>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">Agen&#355;ia Na&#355;ional&#259; de Administrare Fiscal&#259; - CNIF<br />
+Con&#355;inutul acestui site este proprietatea Agen&#355;iei Na&#355;ionale de Administrare Fiscal&#259;. Modificarea neautorizat&#259; a acestui site web constituie infrac&#355;iune &#351;i se pedepse&#351;te conform Legii nr. 8/1996 &#351;i Art. 42 din Legea nr. 161/2003 Titlul 3
+</td>
+</tr>
+
+</table>
+</body>
+</html>
