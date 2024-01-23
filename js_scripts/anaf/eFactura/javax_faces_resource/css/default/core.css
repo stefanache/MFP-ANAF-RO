@@ -6233,13 +6233,12 @@ a.list-group-item-danger.active,button.list-group-item-danger.active,a.list-grou
 
 .panel-default {
     border-color: #ddd;
-    width:100%;
 }
 
 .panel-default > .panel-heading {
     color: #333333;
-    background-color: white;/*#f5f5f5;*/
-    border-color: white;/*#ddd;*/
+    background-color: #f5f5f5;
+    border-color: #ddd;
     width:100%;
 }
 
