@@ -6065,6 +6065,7 @@ a.list-group-item-danger.active,button.list-group-item-danger.active,a.list-grou
     border-bottom: 1px solid transparent;
     border-top-right-radius: 3px;
     border-top-left-radius: 3px;
+    width:950px;
 }
 
 .panel-heading > .dropdown .dropdown-toggle {
