@@ -8,6 +8,6 @@ Acest generator eFactura are urmatoarele pagini xHTML:
 - [Produse](https://www.anaf.ro/CompletareFactura/faces/factura/produse.xhtml)
 - [Detalii TVA](https://www.anaf.ro/CompletareFactura/faces/factura/detalii.xhtml)
 
--[Totaluri](https://www.anaf.ro/CompletareFactura/faces/factura/newtotal.xhtml)
+- [Totaluri](https://www.anaf.ro/CompletareFactura/faces/factura/newtotal.xhtml)
 
 
