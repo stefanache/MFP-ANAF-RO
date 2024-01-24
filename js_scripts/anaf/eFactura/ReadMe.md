@@ -195,4 +195,4 @@ Despre spatiile de nume(***xmlns***), mai precis despre **CommonAggregateCompone
 
 Pe site-ul celor de la **OASIS** puteti gasi documentatia oficiala pt ***[UBL-2.3](https://docs.oasis-open.org/ubl/UBL-2.3.html)***
 
-Un exemplu care prezinta procesul **manual(ara a utiliza un program anume** de creare/generare/editare a fisierului XML pt factura UBL folosind un editor de fisiere text(Notepad++, Wordpad,...) sau editor xml([XML Notepad](https://lovettsoftwarestorage.blob.core.windows.net/downloads/XmlNotepad/XmlNotepad.application))
+Un exemplu care prezinta procesul **[manual(fara a utiliza un program/api anume)](https://www.storecove.com/blog/en/creating-your-own-ubl-invoice/?unbounce_brid=1706110615_5246863_93042dfb0d9a38cea07eabf22838775f)** de creare/generare/editare a fisierului XML pt factura UBL folosind un editor de fisiere text(Notepad++, Wordpad,...) sau editor xml([XML Notepad](https://lovettsoftwarestorage.blob.core.windows.net/downloads/XmlNotepad/XmlNotepad.application))
