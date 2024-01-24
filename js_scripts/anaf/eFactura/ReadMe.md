@@ -161,3 +161,5 @@ Cei de la [e-factura-sap](https://e-factura-sap.ro/) au in prezentarea lor gener
 O [cautare](https://www.google.com/search?sca_esv=601029419&rlz=1C1JJTC_enRO1087RO1087&sxsrf=ACQVn0_HMYxzJ6y9xS1zdFNGePsQ1CBJdw:1706094994100&q=%23urn:efactura.mfinante.ro:CIUS-RO&tbm=isch&source=lnms&sa=X&ved=2ahUKEwiq7M2Q8_WDAxW4R_EDHcpBCJ0Q0pQJegQIDBAB&biw=1536&bih=762&dpr=1.25) pe google folosind o parte din antetul facturii xml si anume : ***#urn:efactura.mfinante.ro:CIUS-RO*** va poate duce la exemple brute de facturi-XML nesemnate sau semnate(asta fiind si varianta finala de depunere online la ANAF)
 
 Pe site-ul [snitehnology](https://snitechnology.net/wp-content/uploads/2022/10/Romania-Webinar-Presentation.pdf) gasiti lucruri interesante despre eFactura dar si despre eTransport.
+
+De asemenea pe site-ul [infokam.eu](https://infokam.eu/blog/2022/06/21/e-factura/) se prezinta instrumente ca Microfact,xFact,EcoFact,Carbon,Graphite care ar putea sa accepte eFactura(factura romaneasca).
