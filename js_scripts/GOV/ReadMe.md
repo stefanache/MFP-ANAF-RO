@@ -35,3 +35,5 @@ UPG Ploiesti ofera [Surse de date](https://sites.google.com/upg-ploiesti.ro/resu
 O lista de proiecte si articole care folosesc [data.gov.ro](https://gov.palcu.ro/lista)
 
 Acest PDF aduce in atentia dvs un [Studiu privind Exemple de bună practică în utilizarea instrumentelor de tip e-guvernare pentru furnizarea de servicii publice](https://www.adr.gov.ro/wp-content/uploads/2021/07/Studiu-privind-exemple-de-buna-practica-in-utilizarea-instrumentelor-de-tip-e-guvernare-pentru-furnizarea-de-servicii-publice-A20_12.02.2020.pdf)
+
+Un [tutorial JS pentru CKAN 2.9](https://docs.ckan.org/en/2.9/contributing/frontend/javascript-module-tutorial.html) explica cum va puteti crea scripturi GUI pe parte de client cand va adresati unui server-CKAN.
