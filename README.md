@@ -135,6 +135,8 @@ Aceste nomenclatoare se gasesc pe internet in documentatia ANAF/MFP/BNR/GOV..., 
 ## 1. **[Factura electronica](https://www.contact.info.ro/ghid-e-factura-la-anaf/)** [eFactura](https://www.anaf.ro/anaf/internet/ANAF/despre_anaf/strategii_anaf/proiecte_digitalizare/e.factura):
 <details>
 
+A se vedea analiza generatorului [e-Factura]((https://www.anaf.ro/anaf/internet/ANAF/despre_anaf/strategii_anaf/proiecte_digitalizare/e.factura)
+
 Pentru cei grabiti [reddit](https://www.reddit.com/r/programare/comments/18c3bg8/implementare_serviciu_efactura/) a pus la dispozitie cateva URL-uri utile legate de ANAF: 
 <details>
 
