@@ -54,7 +54,7 @@ Nu uitati... validarea trebuie sa fie conforma/filtrata cu/de [**regulile**](htt
  
      ...
  
-    **Artefacte de validare Schematron**
+    **Artefacte de validare [Schematron](https://github.com/octavianN/Schematron-step-by-step)**
  
     ...
  
