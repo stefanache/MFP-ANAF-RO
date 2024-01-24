@@ -30,7 +30,7 @@ Toti acesti pasi pot fi automatizati astfel incat sa nu mai fie nevoie de o inte
 Nu uitati... validarea trebuie sa fie conforma/filtrata cu/de [**regulile**](https://docs.peppol.eu/poacc/upgrade-3/profiles/36-mlr/) standardelor aflate in vigoare  [**Peppol-BIS 3.0**](https://docs.peppol.eu/poacc/billing/3.0/bis/), reguli expuse in cele ce urmeaza(eng: [BIS](https://openpeppol.github.io/documentation/PostAward/InvoiceOnly4A/20170315-PEPPOL_BIS_4A-401.pdf) - Business Interoperability Specification):
 
  - ***I.1-6 regulile de validare aplicabile la nivelul PEPPOL-AP(Punct de Acces):***
-   - I.1 verificarea validitatii taxelor - **IAPR(Autoritatea Independentă pentru Venituri Publice)**
+   - I.1 verificarea validitatii taxelor - **IAPR(Autoritatea Independentă pentru Venituri Publice)** 
    - I.2 [XML](http://anale.feaa.uaic.ro/anale/resurse/Sireteanu-XML_.pdf) bine format(sintaxa de baza) - verificarea regulilor XML de redactare: **XML eINV-emitere**
    - I.3 XML(schema factura [UBL](https://www.xml.com/articles/2017/01/01/what-is-ubl/) / CII) - verificarea regulilor XML structurale/compozitionale: **XML eINV-structura**
    - *I.4-6 regulile de verificare a respectarii(compliantei cu) standerdelor (versiunilor aflate in vigoare) - verificarea regulilor afacerii:*
@@ -179,6 +179,7 @@ O alta [cautare-google](https://facturis-online.ro/e-factura/modele-de-facturi-i
 		   	<cbc:CustomizationID>urn:cen.eu:en16931:2017#compliant#urn:efactura.mfinante.ro:CIUS-RO:1.0.0</cbc:CustomizationID>
 		   	...
 
-***Nota:*** partea nationala(specifica Romaniei) din acest antet este **urn:cen.eu:en16931:2017#compliant#urn:efactura.mfinante.ro:CIUS-RO:1.0.0**
+***Nota:*** partea nationala(specifica Romaniei) din acest antet este **urn:cen.eu:en16931:2017#compliant#urn:efactura.mfinante.ro:CIUS-RO:1.0.0** , 
+        incadrata de meta-tag-ul xml: ***<cbc:CustomizationID>*** ... ***</cbc:CustomizationID>**.
 
 Un site interesant despre [***eInvoicing***](https://docs.oasis-open.org/ubl/os-UBL-2.0/xml/UBL-Invoice-2.0-Example.xml) puteti gasi pe site-ul [medius](https://www.medius.com/glossary/what-is-e-invoicing/)
