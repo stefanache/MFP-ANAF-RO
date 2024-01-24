@@ -185,3 +185,6 @@ O alta [cautare-google](https://facturis-online.ro/e-factura/modele-de-facturi-i
 Un site interesant despre [***eInvoicing***](https://docs.oasis-open.org/ubl/os-UBL-2.0/xml/UBL-Invoice-2.0-Example.xml) puteti gasi pe site-ul [medius](https://www.medius.com/glossary/what-is-e-invoicing/)
 
 Un exemplu de factura XML [**peruana**](https://ro.wikipedia.org/wiki/Peru)(***Superintendencia Nacional de Administración Tributaria - [SUNAT](https://www.sunat.gob.pe/)***) are integrat inclusiv certificatul [X509](https://llama.pe/xml-ubl-2.1-sunat/20553510661-03-B001-1)(semnatura electronica facturii)
+
+Pe forumul [uipath](https://forum.uipath.com/t/how-to-automatically-detect-a-namespace-in-the-root-label-to-then-extract-its-value-into-a-variable-and-be-able-to-loop-through-the-elements/491751) gasit un subiect interesant:
+"Cum să detectați automat un spațiu de nume în eticheta rădăcină, pentru a extrage apoi valoarea acestuia într-o variabilă și pentru a putea trece prin elemente";
