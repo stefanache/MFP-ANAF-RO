@@ -189,4 +189,4 @@ Un exemplu de factura XML [**peruana**](https://ro.wikipedia.org/wiki/Peru)(***S
 Pe forumul [uipath](https://forum.uipath.com/t/how-to-automatically-detect-a-namespace-in-the-root-label-to-then-extract-its-value-into-a-variable-and-be-able-to-loop-through-the-elements/491751) gasit un subiect interesant:
 "Cum să detectați automat un spațiu de nume în eticheta rădăcină, pentru a extrage apoi valoarea acestuia într-o variabilă și pentru a putea trece prin elemente";
 
-Despre spatiile de nume(***xmlns***)  gasiti aici elemente de detaliu despre UBL-2.0
+Despre spatiile de nume(***xmlns***), mai precis despre **CommonAggregateComponents-2.0.xsd**, gasiti aici elemente de detaliu despre [UBL-2.0](http://xemelios.org/schemas/etat-frais/doc/doc-ef-ext/index1.html)
