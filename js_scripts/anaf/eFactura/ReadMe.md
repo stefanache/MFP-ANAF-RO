@@ -81,7 +81,7 @@ Nu uitati... validarea trebuie sa fie conforma/filtrata cu/de [**regulile**](htt
 
    cf. acestui **exemplu** de **versiune**(O.1.366/2021) de **Ordin MFP** se observa ca pt pentru e-Factura sunt acceptate 2 sintaxe [**UBL2.1**](https://github.com/ConnectingEurope/eInvoicing-EN16931/tree/master/ubl) si [**CII 16B**](https://github.com/ConnectingEurope/eInvoicing-EN16931/tree/master/cii) / [**EN-16931:2017**](https://github.com/ConnectingEurope/eInvoicing-EN16931/tree/master) si regulile **CIUS-RO:1.0.1**; si modificari la RO-CIUS pot aparea si odata cu ele apar noi reglementari legale/ordine MFP care duc la schimbari ale continutului acestei arhive astfel ca versiunile vechi devin istorie sau ***istoric***; asadar trebuie sa stiti ca eFactura se modifica continuu sau daca vreti se integreaza si se dezvolta continuu(**CI/CD**) **)**
 
- [Schematron](https://en.wikipedia.org/wiki/Schematron)(un limbaj ce implementeaza o [schema de validare](https://forum.sagasoft.ro/viewtopic.php?t=51608)) permite [verificarea](https://stackoverflow.com/questions/57355078/how-to-validate-an-xml-using-a-sch-in-java-or-javascript) 
+ [Schematron-ul](https://en.wikipedia.org/wiki/Schematron)(un limbaj ce implementeaza o [schema de validare](https://forum.sagasoft.ro/viewtopic.php?t=51608)) permite in cazul eFactura, [verificarea](https://stackoverflow.com/questions/57355078/how-to-validate-an-xml-using-a-sch-in-java-or-javascript) 
  
   - regulilor operaționale(constrângeri de integritate și condiții) și a
   - regulilor de TVA la modelul de baza al facturii (EN16931 CEN/TC 434),
