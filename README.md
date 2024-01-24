@@ -9,6 +9,7 @@
 For more details please **[contact me](mailto:ion.stefanache@yahoo.com)** on: 
 
 <br/>
+f
 
    ***Social:***
   
@@ -221,7 +222,7 @@ Despre nomenclatoare si de pe unde le puteti culege am discutat in sectiunea pre
 
 De asemenea, puteti cauta o serie de informatii privind [facturarea electronica pe site-ul ASRO](https://magazin.asro.ro/Search?q=factura+electronica)
 
-Desigur gasiti [exemple pe github pentru eInvoicing](https://github.com/Tradeshift/tradeshift-ubl-xsd/tree/master?tab=readme-ov-file) dar si pe website-urile romanesti puteti gasi exemple concrete de buna practica. Puteti incepe un [exemplu minimal de eInvoice/UBL 2.1](https://github.com/Tradeshift/tradeshift-ubl-xsd/blob/master/src/test/resources/org/oasis-open/ubl/examples/UBL-Invoice-2.1-Example-Trivial.xml) ca mai apoi sa descoperiti/testati [exemple](https://github.com/Tradeshift/tradeshift-ubl-xsd/blob/master/src/test/resources/org/oasis-open/ubl/examples) mai complexe de [facturi](https://github.com/Tradeshift/tradeshift-ubl-xsd/blob/master/src/test/resources/org/oasis-open/ubl/examples), [comenzi](https://github.com/Tradeshift/tradeshift-ubl-xsd/blob/master/src/test/resources/org/oasis-open/ubl/examples/UBL-Order-2.1-Example.xml) si [note de credit](https://github.com/Tradeshift/tradeshift-ubl-xsd/blob/master/src/test/resources/org/oasis-open/ubl/examples/UBL-CreditNote-2.1-Example.xml). 
+Desigur gasiti [exemple pe github pentru eInvoicing](https://github.com/Tradeshift/tradeshift-ubl-xsd/tree/master?tab=readme-ov-file) dar si pe website-urile romanesti puteti gasi exemple concrete de buna practica. Puteti incepe un [exemplu minimal de eInvoice/UBL 2.1](https://github.com/Tradeshift/tradeshift-ubl-xsd/blob/master/src/test/resources/org/oasis-open/ubl/examples/UBL-Invoice-2.1-Example-Trivial) ca mai apoi sa descoperiti/testati [exemple](https://github.com/Tradeshift/tradeshift-ubl-xsd/blob/master/src/test/resources/org/oasis-open/ubl/examples) mai complexe de [facturi](https://github.com/Tradeshift/tradeshift-ubl-xsd/blob/master/src/test/resources/org/oasis-open/ubl/examples), [comenzi](https://github.com/Tradeshift/tradeshift-ubl-xsd/blob/master/src/test/resources/org/oasis-open/ubl/examples/UBL-Order-2.1-Example) si [note de credit](https://github.com/Tradeshift/tradeshift-ubl-xsd/blob/master/src/test/resources/org/oasis-open/ubl/examples/UBL-CreditNote-2.1-Example). 
 
 Interesanta este si solutia gasita de cei de la Microsoft [MSF pentru eFactura](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW15w3H)
 
