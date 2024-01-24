@@ -41,7 +41,7 @@ Pe [site-ul MLDPA](http://www.dpfbl.mdrap.ro/B-cont-unic.html) gasiti  datele pr
   - ex.pt. o companie/firma aleasa in mod aleatoriu se foloseste aceiasi sintaxa: https://webservicesp.anaf.ro/bilant?an=2021&cui=6859662
 
 Un site interesant despre serviciul [Verificare-TVA] va permite sa aflati lururi interesante despre vs6 a serviciului api ANAF: [verificare TVA](https://www.verificaretva.ro/api/apiv6.aspx);
-Aveti aici descris si formatul de raspuns la interogarea serviciului.
+Aveti aici descris si formatul de raspuns la interogarea serviciului. Desigur documentatia tehnica serviciului vs 6 este cea care trebuie luata in considerare ca [document oficial ANAF](https://www.verificaretva.ro/download/DocumentatieVerificareTVAAPIv6.pdf)
 
 Sunt servicii de date cum este cel [listafirme.ro](https://www.listafirme.ro/specificatii/api-info-v1.asp) care va permit sa aflati(dupa ce va inregistrati ca firma ca sa puteti sa obtineti key = cheia api secretă pe care o găsiti în datele contului dumneavoastră dacă si dupa ce serviciul este activat) o sumedenie de informatii despre companiile cu care aveti relatii economice.
 
