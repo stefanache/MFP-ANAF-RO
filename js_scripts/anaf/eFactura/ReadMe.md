@@ -194,3 +194,5 @@ Pe forumul [uipath](https://forum.uipath.com/t/how-to-automatically-detect-a-nam
 Despre spatiile de nume(***xmlns***), mai precis despre **CommonAggregateComponents-2.0.xsd**, gasiti aici [elemente de detaliu](https://github.com/ept/oaccounts/blob/master/xsd/maindoc/UBL-Invoice-2.0.xsd) despre [UBL-2.0](http://xemelios.org/schemas/etat-frais/doc/doc-ef-ext/index1.html)
 
 Pe site-ul celor de la **OASIS** puteti gasi documentatia oficiala pt ***[UBL-2.3](https://docs.oasis-open.org/ubl/UBL-2.3.html)***
+
+Un exemplu care prezinta procesul **manual(ara a utiliza un program anume** de creare/generare/editare a fisierului XML pt factura UBL folosind un editor de fisiere text(Notepad++, Wordpad,...) sau editor xml([XML Notepad](https://lovettsoftwarestorage.blob.core.windows.net/downloads/XmlNotepad/XmlNotepad.application))
