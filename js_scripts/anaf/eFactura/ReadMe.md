@@ -179,4 +179,4 @@ O alta [cautare-google](https://facturis-online.ro/e-factura/modele-de-facturi-i
 		   	<cbc:CustomizationID>urn:cen.eu:en16931:2017#compliant#urn:efactura.mfinante.ro:CIUS-RO:1.0.0</cbc:CustomizationID>
 		   	...
 
-Un site interesant despre "eInvoicing" puteti gasi pe site-ul [medius](https://www.medius.com/glossary/what-is-e-invoicing/)
+Un site interesant despre [***eInvoicing***](https://docs.oasis-open.org/ubl/os-UBL-2.0/xml/UBL-Invoice-2.0-Example.xml) puteti gasi pe site-ul [medius](https://www.medius.com/glossary/what-is-e-invoicing/)
