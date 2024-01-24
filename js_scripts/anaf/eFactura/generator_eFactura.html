@@ -46,7 +46,6 @@
  </head> 
  <body>
     <h1>Generatorul online ANAF e-Factura</h1>
-    <br/><br/>
 	 <div width="auto">
 <pre>
 	 Generatorul dvs va trebui sa genereze o factura simpla in format UBL2.1(cf. <a href="https://facturis-online.ro/?s=modele+facturi">modelului</a> afacerii dvs) care va fi formata din 3 mari parti:
@@ -76,7 +75,8 @@
 		...			
  </textarea>
 </center>
-</pre>	 
+</pre>	
+<div>
     <br/>Acest generator de factura UBL/XML are urmatoarele TAB-uri/Pagini/Fisiere <a href="https://www.anaf.ro/CompletareFactura/faces/factura/informatiigenerale.xhtml" target="_blank">xhtml</a>: <br/><br/>
     <small><ul>
      
@@ -321,10 +321,12 @@
      </td></tr>
       
       </table>
+
     <p><b>(*)</b>&nbsp;O prima observatie ar fi ca acest formular nu acopera toate situatiile specifice oricarui proces de afaceri/business(de obicei formalizat prin tehnici BPM/BPMN); aceasta este doar un exemplu/mostra de formular</p>
     <p><b>(**)</b>O a-doua observatie ar fi ca aceste campuri pot suferi modificari atat de aspect stilistic cat si in ceea ce priveste validarea...soft-ul trebuie intretinut in regim CI/CD(continua-integre/continua dezvoltare)</p>	    
     </ul></small>
-
+</div>	
+<br/><br/>
    <script src="https://stefanache.github.io/MFP-ANAF-RO/js_scripts/anaf/eFactura/validarea_mea.js">
  </body>
 <html>	
