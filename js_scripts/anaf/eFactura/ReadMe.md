@@ -179,3 +179,4 @@ O alta cautare pe google ar fi dupa [antetul facturii](https://www.google.com/se
 		   	<cbc:CustomizationID>urn:cen.eu:en16931:2017#compliant#urn:efactura.mfinante.ro:CIUS-RO:1.0.0</cbc:CustomizationID>
 		   	...
 
+Un site interesant despre "eInvoicing" puteti gasi pe site-ul [medius](https://www.medius.com/glossary/what-is-e-invoicing/)
