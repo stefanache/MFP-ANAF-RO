@@ -38,3 +38,5 @@ Acest PDF aduce in atentia dvs un [Studiu privind Exemple de bună practică în
 
 Un [tutorial JS pentru CKAN 2.9](https://docs.ckan.org/en/2.9/contributing/frontend/javascript-module-tutorial.html) explica cum va puteti crea scripturi GUI pe parte de client cand va adresati unui server-CKAN.
 Amintesc aici doar faptul ca modulele pot folosi pentru comunicare protocolul PubSub(Publish-Subscript)
+
+O discutie legata de regulile CIUS-RO dpdv legal o gasiti pe site-ul [universuljuridic](https://www.universuljuridic.ro/specificatiile-tehnice-si-de-utilizare-a-elementelor-de-baza-ale-facturii-electronice-ro_cius-omf-nr-1-366-2021/)
