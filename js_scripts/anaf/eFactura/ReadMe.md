@@ -94,7 +94,7 @@ Nu uitati... validarea trebuie sa fie conforma/filtrata cu/de [**regulile**](htt
 
       - tot in acest director denumit **ro16931-1.0.8** gasiti alte **2** subdirectoare denumite **UBL** respectiv **abstract** in care sunt definite **modelul**(**EN16931-UBL-model.sch** respectiv **EN16931-model.sch**) si **sintaxa**(**EN16931-UBL-syntax.sch** respectiv **EN16931-syntax.sch**) cf. standardului **EN-16931**; (cele 2 fisiere ale fiecarui subdirector sunt definite tot cu ajutorul limbajului **Schematron** avand aceiasi extensie **.sch**).
 
-      - in acelasi director **ro16931-1.0.8** mai gasiti si subdirectorul **codelist(CL)** care contine fisierul [EN16931-UBL-codes.sch](https://github.com/OpenPEPPOL/tc434-validation/blob/master/ubl/schematron/codelist/EN16931-UBL-codes.sch) unde veti gasi regulile licentiate EUPL de forma [BR-CL-nn](https://docs.peppol.eu/poacc/billing/3.0/rules/ubl-tc434/BR-CL-04/)
+      - in acelasi director **ro16931-1.0.8** mai gasiti si subdirectorul **codelist(CL)** care contine fisierul [EN16931-UBL-codes.sch](https://github.com/OpenPEPPOL/tc434-validation/blob/master/ubl/schematron/codelist/EN16931-UBL-codes.sch) unde veti gasi regulile licentiate EUPL de forma [BR-CL-nn](https://docs.peppol.eu/poacc/billing/3.0/rules/ubl-tc434/BR-CL-04/) (aici se fac validarile pe [standardele/codificarile/codurile(https://docs.peppol.eu/poacc/billing/3.0/rules/ubl-tc434/BR-CL-17/) utilizate in eInvoices)
 
       - si in sfarsit in acest director directorul **ro16931-1.0.8** mai gasiti subdirectorul **preprocessed** care contine **3** fisiere schematron(*.sch) de validare:
    
