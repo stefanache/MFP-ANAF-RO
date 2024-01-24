@@ -164,29 +164,18 @@ Pe site-ul [snitehnology](https://snitechnology.net/wp-content/uploads/2022/10/R
 
 De asemenea pe site-ul [infokam.eu](https://infokam.eu/blog/2022/06/21/e-factura/) se prezinta instrumente ca Microfact,xFact,EcoFact,Carbon,Graphite care ar putea sa accepte eFactura(factura romaneasca).
 
-O alta cautare pe google ar fi dupa [antetul facturii](<?xml version="1.0"?>
-<Invoice
-	xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2"
-	xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2"
-	xmlns:qdt="urn:oasis:names:specification:ubl:schema:xsd:QualifiedDataTypes-2"
-	xmlns:udt="urn:oasis:names:specification:ubl:schema:xsd:UnqualifiedDataTypes-2"
-	xmlns:ccts="urn:un:unece:uncefact:documentation:2"
-	xmlns="urn:oasis:names:specification:ubl:schema:xsd:Invoice-2"
-	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:specification:ubl:schema:xsd:Invoice-2 http://docs.oasis-open.org/ubl/os-UBL-2.1/xsd/maindoc/UBL-Invoice-2.1.xsd">
-	<cbc:CustomizationID>urn:cen.eu:en16931:2017#compliant#urn:efactura.mfinante.ro:CIUS-RO:1.0.0</cbc:CustomizationID>
-	<):
+O alta cautare pe google ar fi dupa [antetul facturii](https://www.google.com/search?sca_esv=601069641&rlz=1C1JJTC_enRO1087RO1087&sxsrf=ACQVn0_lL6K-49Lj8uL_ejb1iQT5x8JwCg:1706101510289&q=%3C%3Fxml+version%3D%221.0%22+encoding%3D%22UTF-8%22%3F%3E+%3CInvoice+xmlns%3D%22urn:oasis:names:specification:ubl:schema:xsd:Invoice-2%22+xmlns:cac%3D%22urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2%22+xmlns:cbc%3D%22urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2%22+xmlns:ccts%3D%22urn:un:unece:uncefact:documentation:2%22+xmlns:qdt%3D%22urn:oasis:names:specification:ubl:schema:xsd:QualifiedDataTypes-2%22+xmlns:udt%3D%22urn:oasis:names:specification:ubl:schema:xsd:UnqualifiedDataTypes-2%22+xmlns:xsi%3D%22http://www.w3.org/2001/XMLSchema-instance%22+xsi:schemaLocation%3D%22urn:oasis:names:specification:ubl:schema:xsd:Invoice-2+http://docs.oasis-open.org/ubl/os-UBL-2.1/xsd/maindoc/UBL-Invoice-2.1.xsd%22%3E+%3Ccbc:CustomizationID%3Eurn:cen.eu:en16931:2017%23compliant%23urn:efactura.mfinante.ro:CIUS-RO:1.0.0%3C/cbc:CustomizationID%3E&tbm=isch&source=lnms&sa=X&ved=2ahUKEwj5peKzi_aDAxULYPEDHQf7AwwQ0pQJegQIDRAB&biw=1536&bih=762&dpr=1.25):
+		
+		 <?xml version="1.0" encoding="UTF-8"?>
+		<Invoice 
+			xmlns="urn:oasis:names:specification:ubl:schema:xsd:Invoice-2" 
+			xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2" 
+			xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2" 
+			xmlns:ccts="urn:un:unece:uncefact:documentation:2" 
+			xmlns:qdt="urn:oasis:names:specification:ubl:schema:xsd:QualifiedDataTypes-2" 
+			xmlns:udt="urn:oasis:names:specification:ubl:schema:xsd:UnqualifiedDataTypes-2" 
+			xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+			      xsi:schemaLocation="urn:oasis:names:specification:ubl:schema:xsd:Invoice-2 http://docs.oasis-open.org/ubl/os-UBL-2.1/xsd/maindoc/UBL-Invoice-2.1.xsd">
+		   	<cbc:CustomizationID>urn:cen.eu:en16931:2017#compliant#urn:efactura.mfinante.ro:CIUS-RO:1.0.0</cbc:CustomizationID>
+		   	...
 
- ***
- <?xml version="1.0" encoding="UTF-8"?>
-<Invoice 
-	xmlns="urn:oasis:names:specification:ubl:schema:xsd:Invoice-2" 
-	xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2" 
-	xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2" 
-	xmlns:ccts="urn:un:unece:uncefact:documentation:2" 
-	xmlns:qdt="urn:oasis:names:specification:ubl:schema:xsd:QualifiedDataTypes-2" 
-	xmlns:udt="urn:oasis:names:specification:ubl:schema:xsd:UnqualifiedDataTypes-2" 
-	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
-	      xsi:schemaLocation="urn:oasis:names:specification:ubl:schema:xsd:Invoice-2 http://docs.oasis-open.org/ubl/os-UBL-2.1/xsd/maindoc/UBL-Invoice-2.1.xsd">
-   	<cbc:CustomizationID>urn:cen.eu:en16931:2017#compliant#urn:efactura.mfinante.ro:CIUS-RO:1.0.0</cbc:CustomizationID>
-   	...
-   ***
