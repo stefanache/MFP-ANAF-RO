@@ -91,7 +91,7 @@ Nu uitati... validarea trebuie sa fie conforma/filtrata cu/de [**regulile**](htt
  
    Cand [dezarhivati](https://github.com/stefanache/MFP-ANAF-RO/tree/main/js_scripts/anaf/eFactura/ro16931-ubl-1.0.8/ro16931-ubl-1.0.8)(si am procedat si eu la fel [aici](https://github.com/stefanache/MFP-ANAF-RO/tree/main/js_scripts/anaf/eFactura/ro16931-ubl-1.0.8/ro16931-ubl-1.0.8) si apoi am vizualizat rand pe rand fisierele [schematron](https://dev.pageseeder.com/reference/sample_code/schematron.html) ***.sch** cu [XML Notepad](https://lovettsoftwarestorage.blob.core.windows.net/downloads/XmlNotepad/XmlNotepad.application)) arhiva **ro16931-ubl-1.0.8.zip** gasiti directorul **ro16931-1.0.8** si in el gasiti un fiser(**EN16931-CIUS_RO-UBL-validation.sch**) si **5** subdirectoare:
  
-   - fisierul **EN16931-CIUS_RO-UBL-validation.sch** practic este un catalog explicativ/definitoriu care prezinta cele **5** subdirectoare si la ce sunt folosite acestea in procesul de  validare a facturii iar,
+   - fisierul **EN16931-CIUS_RO-UBL-validation.sch** practic este un catalog/opis explicativ/definitoriu care prezinta cele **5** subdirectoare si la ce sunt folosite acestea in procesul de  validare a facturii iar,
    - in cele in **5** subdirectoare propriu zise, ale directorului **ro16931-1.0.8** avem:
    
       - in subdirectorul **cius-ro** gasiti fisierul **RO16931-rules.sch**;
@@ -102,7 +102,7 @@ Nu uitati... validarea trebuie sa fie conforma/filtrata cu/de [**regulile**](htt
 
       - tot in acest director denumit **ro16931-1.0.8** gasiti alte **2** subdirectoare denumite **UBL** respectiv **abstract** in care sunt definite **modelul**(**EN16931-UBL-model.sch** respectiv **EN16931-model.sch**) si **sintaxa**(**EN16931-UBL-syntax.sch** respectiv **EN16931-syntax.sch**) cf. standardului **EN-16931**; (cele 2 fisiere ale fiecarui subdirector sunt definite tot cu ajutorul limbajului **Schematron** avand aceiasi extensie **.sch**).
 
-      - in acelasi director **ro16931-1.0.8** mai gasiti si subdirectorul **codelist(CL)** care contine fisierul [EN16931-UBL-codes.sch](https://github.com/OpenPEPPOL/tc434-validation/blob/master/ubl/schematron/codelist/EN16931-UBL-codes.sch) unde veti gasi regulile licentiate EUPL de forma [BR-CL-nn](https://docs.peppol.eu/poacc/billing/3.0/rules/ubl-tc434/BR-CL-04/) (aici se fac validarile pe [standardele/codificarile/codurile](https://docs.peppol.eu/poacc/billing/3.0/rules/ubl-tc434/BR-CL-17/) utilizate in eInvoices; aici ati putea sa (re)vedeti [ASRO](https://www.asro.ro/wp-content/uploads/2018/12/BS-11-2018.pdf))
+      - in acelasi director **ro16931-1.0.8** mai gasiti si subdirectorul **codelist(CL)** care contine fisierul [EN16931-UBL-codes.sch](https://github.com/OpenPEPPOL/tc434-validation/blob/master/ubl/schematron/codelist/EN16931-UBL-codes.sch) unde veti gasi regulile licentiate EUPL de forma [BR-CL-nn](https://docs.peppol.eu/poacc/billing/3.0/rules/ubl-tc434/BR-CL-04/) (aici se fac validarile pe [standardele/codificarile/codurile](https://docs.peppol.eu/poacc/billing/3.0/rules/ubl-tc434/BR-CL-17/) utilizate in eInvoices; aici ati putea sa (re)vedeti [ASRO](https://www.asro.ro/wp-content/uploads/2018/12/BS-11-2018.pdf)); In **codelist(CL)** sunt definite liste de coduri(codificari/clasificari/nomenclatoare/standarde...) care sunt permise (in general) in eInvoice si deci (in particular) in eFactura;
 
       - si in sfarsit in acest director directorul **ro16931-1.0.8** mai gasiti subdirectorul **preprocessed** care contine **3** fisiere schematron(*.sch) de validare:
    
