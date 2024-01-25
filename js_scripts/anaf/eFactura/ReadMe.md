@@ -122,20 +122,18 @@ Nu uitati... validarea trebuie sa fie conforma/filtrata cu/de [**regulile**](htt
      
         mesajele sunt in limba **romana fara diacritice**)
 
+   Testarea tuturor regulilor(eng. **rule**) se face folosind directiva schematron **assert**(testul de conformitate) care are atributele test **id**,**flag**(care arata genul/tipul de eroare ex. **fatal**, si mesajul de eroare afisat dupa caz, in lb. **romana** sau in limba **engleza**).
+
+   Daca doriti sa va dezvoltati **propriul validator** de factura(si sa **evitati** astfel folosirea DukIntegrator) pentru a creste gradul de automatizare atunci trebuie sa stiti ca puteti utiliza(analiza=parse) fisierele schematron(*.sch) ca orice alt fisier XML.
+   (puteti sa va uitati pe acele mici exemple(html/JS/css) pe care le-am creat la sectiunea [nomenclatoare geografice MFP](https://github.com/stefanache/MFP-ANAF-)
+   RO/blob/main/js_scripts/mfp/nomenclatoare_geografice/)
+
 ***Nota***: 
 
  - cf website-ului **1616.ro** pt Versiunea 1.0.0/2021  a CIUS avem urmatoarea [Anexa](https://i0.1616.ro/media/2/2621/33243/20445047/2/anexaro-cius-converted.pdf)
              (Specificații tehnice și de utilizare a elementelor de bază ale facturii electronice – RO_CIUS – și reguli operaționale specifice aplicabile la nivel național);
  
  - cf. aceluiasi site a publicat in 29.10.2021 si tot intr-o [Anexa](https://i0.1616.ro/media/2/2621/33243/20447930/1/anexaraproiectordinroefactura-29102021-converted.pdf) si "Procedura de utilizare și funcționare a sistemului național privind factura electronică RO e-Factura, precum și de primire și descărcare a facturii electronice de către destinatarii facturii electronice emise în relația B2G în sistemul național privind factura electronică RO e-Factura.
- 
-
-
-   Testarea tuturor regulilor(eng. **rule**) se face folosind directiva schematron **assert**(testul de conformitate) care are atributele test **id**,**flag**(care arata genul/tipul de eroare ex. **fatal**, si mesajul de eroare afisat dupa caz, in lb. **romana** sau in limba **engleza**).
-
-   Daca doriti sa va dezvoltati **propriul validator** de factura(si sa **evitati** astfel folosirea DukIntegrator) pentru a creste gradul de automatizare atunci trebuie sa stiti ca puteti utiliza(analiza=parse) fisierele schematron(*.sch) ca orice alt fisier XML.
-   (puteti sa va uitati pe acele mici exemple(html/JS/css) pe care le-am creat la sectiunea [nomenclatoare geografice MFP](https://github.com/stefanache/MFP-ANAF-)
-   RO/blob/main/js_scripts/mfp/nomenclatoare_geografice/)
 
  Tot in [specificatiile tehnice ANAF]((https://mfinante.gov.ro/web/efactura/informatii-tehnice)) sunt expuse spre dezarhivare fisire-exemplu UBL2.1/XML pentru eFactura(factura si nota de credit(aceste 2 fisiere UBL2.1/XML le gasiti si aici in sub-directorul [**exemple_Invoice_CreditNote**](https://github.com/stefanache/MFP-ANAF-RO/tree/main/js_scripts/anaf/eFactura/exemple_Invoice_CreditNote) spre a fi vizualizate in stare bruta/**raw** in **browser-ul** dvs.) .
  
