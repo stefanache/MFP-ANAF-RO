@@ -121,7 +121,11 @@ Nu uitati... validarea trebuie sa fie conforma/filtrata cu/de [**regulile**](htt
                 - **CIUS-RO** version **1.0.1** compatible - UBL - Invoice;
      
         mesajele sunt in limba **romana fara diacritice**)
-      
+
+*Nota*:  cf website-ului **1616.ro** pt Versiunea 1.0.0/2021  a CIUS avem urmatoarea [Anexa](https://i0.1616.ro/media/2/2621/33243/20445047/2/anexaro-cius-converted.pdf);
+         (Specificații tehnice și de utilizare a elementelor de bază ale facturii electronice – RO_CIUS – și reguli operaționale specifice aplicabile la nivel național)
+
+
    Testarea tuturor regulilor(eng. **rule**) se face folosind directiva schematron **assert**(testul de conformitate) care are atributele test **id**,**flag**(care arata genul/tipul de eroare ex. **fatal**, si mesajul de eroare afisat dupa caz, in lb. **romana** sau in limba **engleza**).
 
    Daca doriti sa va dezvoltati **propriul validator** de factura(si sa **evitati** astfel folosirea DukIntegrator) pentru a creste gradul de automatizare atunci trebuie sa stiti ca puteti utiliza(analiza=parse) fisierele schematron(*.sch) ca orice alt fisier XML.
