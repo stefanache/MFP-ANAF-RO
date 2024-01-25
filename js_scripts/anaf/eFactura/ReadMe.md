@@ -135,7 +135,7 @@ Nu uitati... validarea trebuie sa fie conforma/filtrata cu/de [**regulile**](htt
  
  - cf. aceluiasi site a publicat in 29.10.2021 si tot intr-o [Anexa](https://i0.1616.ro/media/2/2621/33243/20447930/1/anexaraproiectordinroefactura-29102021-converted.pdf) si "Procedura de utilizare și funcționare a sistemului național privind factura electronică RO e-Factura, precum și de primire și descărcare a facturii electronice de către destinatarii facturii electronice emise în relația B2G în sistemul național privind factura electronică RO e-Factura.
 
- - pentru dezvoltatorii java si nu numai puteti consulta/utiliza si site-ul [jar-download](https://jar-download.com/artifacts/com.helger.phive.rules/phive-rules-cius-ro/2.1.15)   
+ - pentru dezvoltatorii java si nu numai puteti consulta/utiliza si site-ul **jar-download** sau **mvnrepository** [phive-rules-cius-ro/2.1.15](https://jar-download.com/artifacts/com.helger.phive.rules/phive-rules-cius-ro/2.1.15); a se vedea si [phive-rules-cius-r 3.0.3](https://mvnrepository.com/artifact/com.helger.phive.rules/phive-rules-cius-ro/3.0.3), [phive-rules-cius-ro 3.1.6](https://mvnrepository.com/artifact/com.helger.phive.rules/phive-rules-cius-ro/3.1.6  
 
  Tot in [specificatiile tehnice ANAF]((https://mfinante.gov.ro/web/efactura/informatii-tehnice)) sunt expuse spre dezarhivare fisire-exemplu UBL2.1/XML pentru eFactura(factura si nota de credit(aceste 2 fisiere UBL2.1/XML le gasiti si aici in sub-directorul [**exemple_Invoice_CreditNote**](https://github.com/stefanache/MFP-ANAF-RO/tree/main/js_scripts/anaf/eFactura/exemple_Invoice_CreditNote) spre a fi vizualizate in stare bruta/**raw** in **browser-ul** dvs.) .
  
