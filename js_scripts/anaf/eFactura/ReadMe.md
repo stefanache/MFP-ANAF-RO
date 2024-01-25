@@ -60,7 +60,7 @@ Nu uitati... validarea trebuie sa fie conforma/filtrata cu/de [**regulile**](htt
  
     [Ultima actualizare](https://static.anaf.ro/static/10/Anaf/Informatii_R/Informatii_modificare_CIUS_RO.pdf):
 
-    *( [este vorba despre primul act normativ Ordin MFP nr. 1.366/2021](https://static.anaf.ro/static/10/Anaf/legislatie/OMF_1366_2021.pdf); dar a se vedea mai jos si [O.4092/14.11.2022](https://legislatie.just.ro/Public/DetaliiDocument/261755) de modicare a acestui prim act normativ)*
+    *( [este vorba despre primul act normativ Ordin MFP nr. 1.366/2021](https://static.anaf.ro/static/10/Anaf/legislatie/OMF_1366_2021.pdf)(publicat in M.O.: [O.1366/2021](https://mfinante.gov.ro/static/10/eFactura/1065%20Modif.%20L_7_1996%20cadastru,%20O%201365%20mf%20RO%20e-factura.pdf)); dar a se vedea mai jos si [O.4092/14.11.2022](https://legislatie.just.ro/Public/DetaliiDocument/261755) de modicare a acestui prim act normativ)*
  
     ...
  
