@@ -122,8 +122,9 @@ Nu uitati... validarea trebuie sa fie conforma/filtrata cu/de [**regulile**](htt
      
         mesajele sunt in limba **romana fara diacritice**)
 
-*Nota*:  cf website-ului **1616.ro** pt Versiunea 1.0.0/2021  a CIUS avem urmatoarea [Anexa](https://i0.1616.ro/media/2/2621/33243/20445047/2/anexaro-cius-converted.pdf);
-         (Specificații tehnice și de utilizare a elementelor de bază ale facturii electronice – RO_CIUS – și reguli operaționale specifice aplicabile la nivel național)
+***Nota***:  cf website-ului **1616.ro** pt Versiunea 1.0.0/2021  a CIUS avem urmatoarea [Anexa](https://i0.1616.ro/media/2/2621/33243/20445047/2/anexaro-cius-converted.pdf);
+             (Specificații tehnice și de utilizare a elementelor de bază ale facturii electronice – RO_CIUS – și reguli operaționale specifice aplicabile la nivel național)
+	     acelasi site a publicat in 29.10.2021 si tot intr-o anexa si "Procedura de utilizare și funcționare a sistemului național privind factura electronică RO e-Factura, precum și de primire și descărcare a facturii electronice de către destinatarii facturii electronice emise în relația B2G în sistemul național privind factura electronică RO e-Factura. 
 
 
    Testarea tuturor regulilor(eng. **rule**) se face folosind directiva schematron **assert**(testul de conformitate) care are atributele test **id**,**flag**(care arata genul/tipul de eroare ex. **fatal**, si mesajul de eroare afisat dupa caz, in lb. **romana** sau in limba **engleza**).
