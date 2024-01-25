@@ -210,7 +210,7 @@ Pe site-ul celor de la **OASIS** puteti gasi documentatia oficiala pt ***[UBL-2.
 
 Un exemplu care prezinta procesul **[manual(fara a utiliza un program/api anume)](https://www.storecove.com/blog/en/creating-your-own-ubl-invoice/?unbounce_brid=1706110615_5246863_93042dfb0d9a38cea07eabf22838775f)** de creare/generare/editare a fisierului XML pt factura UBL folosind un editor de fisiere text(Notepad++, Wordpad,...) sau editor xml([XML Notepad](https://lovettsoftwarestorage.blob.core.windows.net/downloads/XmlNotepad/XmlNotepad.application))
 
-[Rentrop & Straton]([https://www.rs.ro/fiscalitate-22/e-factura-in-50-de-intrebari-si-raspunsuri-3126.html](https://e-factura.fisc.ro/?cs=1541215&utm_source=infolegis.contabilitateonline.ro&utm_medium=email&utm_campaign=oferta-speciala)) are un chestionar de tip Intrebare-Raspuns care poate fi consultat.
+[Rentrop & Straton](https://e-factura.fisc.ro/?cs=1541215&utm_source=infolegis.contabilitateonline.ro&utm_medium=email&utm_campaign=oferta-speciala) are un chestionar de tip Intrebare-Raspuns care poate fi consultat.
 De asemenea o serie de articolele publicate pe site-ul [contabilul.manager](https://contabilul.manager.ro/) pot veni in ajutorul dumneavoastra.
 Poate ar fi util sa cititi si aceasta documentatie [Microsoft](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW15w3H): Solutie eFactura  - Documentatie  (Developed by Evozon Systems for Dynamics 365 BC )
 
