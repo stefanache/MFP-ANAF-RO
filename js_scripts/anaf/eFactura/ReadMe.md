@@ -214,7 +214,7 @@ Un exemplu care prezinta procesul **[manual(fara a utiliza un program/api anume)
 
 [Rentrop & Straton](https://e-factura.fisc.ro/?cs=1541215&utm_source=infolegis.contabilitateonline.ro&utm_medium=email&utm_campaign=oferta-speciala) are un chestionar de tip [Intrebare-Raspuns](https://conferintafiscalitate.fisc.ro/?cs=13941424&utm_source=infoalerta.rentropstraton.com&utm_medium=email&utm_campaign=oferta-speciala) care poate fi consultat.
 De asemenea o serie de articolele publicate pe site-ul [contabilul.manager](https://contabilul.manager.ro/) pot veni in ajutorul dumneavoastra.
-Poate ar fi util sa cititi si aceasta documentatie [Microsoft](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW15w3H): Solutie eFactura  - Documentatie  (Developed by Evozon Systems for Dynamics 365 BC )
+Poate ar fi util sa cititi si aceasta documentatie [Microsoft](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW15w3H): Solutie eFactura  - Documentatie  (Developed by Evozon Systems for Dynamics 365 BC ).
 [BT](https://go.bancatransilvania.ro/storage/app/media/manual_de_utilizare_BT_Go.pdf) are un manual de utilizare destul de interesant pt [BT-Go](https://www.bancatransilvania.ro/news/comunicate-de-presa/firmele-pot-emite-si-trimite-automat-e-factura-catre-anaf-prin-bt-go) adresat clientii sai. 
 Pe forumul [HotFox](https://hotfox.ro/forum/viewtopic.php?t=94&start=10) gasiti o multime de subiecte legate de eFactura.
 
