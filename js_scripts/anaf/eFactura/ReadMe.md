@@ -28,6 +28,8 @@ Puteti sa va scrieti si **propriul validator** tot in JS pur sau daca nu intr-un
 
 Toti acesti pasi pot fi automatizati astfel incat sa nu mai fie nevoie de o interventie/prezenta umana persistenta/de lunga durata(in principiu daca aveti configurari de specificitate corespunzatoare atunci un simplu buton pt **transmitere eFactura catre ANAF** ar fi suficient in conditiile in care sunt indeplinite toate conditiile de **access securizat**).
 
+Pentru institutiile <b><a href="https://mfinante.gov.ro/static/10/eFactura/PrezentareE-factura.pdf" target="_blank">publice</a></b> acest document emis de ANAF este important.
+
 Nu uitati... validarea trebuie sa fie conforma/filtrata cu/de [**regulile**](https://docs.peppol.eu/poacc/upgrade-3/profiles/36-mlr/) standardelor aflate in vigoare  [**Peppol-BIS 3.0**](https://docs.peppol.eu/poacc/billing/3.0/bis/), reguli expuse in cele ce urmeaza(eng: [BIS](https://openpeppol.github.io/documentation/PostAward/InvoiceOnly4A/20170315-PEPPOL_BIS_4A-401.pdf) - Business Interoperability Specification):
 
  - ***I.1-6 regulile de validare aplicabile la nivelul PEPPOL-AP(Punct de Acces):***
