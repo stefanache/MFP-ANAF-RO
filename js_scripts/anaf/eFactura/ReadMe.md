@@ -215,3 +215,5 @@ De asemenea o serie de articolele publicate pe site-ul [contabilul.manager](http
 Poate ar fi util sa cititi si aceasta documentatie [Microsoft](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW15w3H): Solutie eFactura  - Documentatie  (Developed by Evozon Systems for Dynamics 365 BC )
 Pe forumul [HotFox](https://hotfox.ro/forum/viewtopic.php?t=94&start=10) gasiti o multime de subiecte legate de eFactura.
 
+Interesante sunt si <a href="https://www.google.com/search?q=CIF+vs+CUI+vs+NIF+RC+EUID&sca_esv=601682560&rlz=1C1JJTC_enRO1087RO1087&sxsrf=ACQVn081w6a5z8s5siPFgS1zSS5eEB8XGQ%3A1706261620706&ei=dHyzZbDYKqbgxc8Pn5yx4Aw&udm=&ved=0ahUKEwiw4q7u3_qDAxUmcPEDHR9ODMwQ4dUDCBA&uact=5&oq=CIF+vs+CUI+vs+NIF+RC+EUID&gs_lp=Egxnd3Mtd2l6LXNlcnAiGUNJRiB2cyBDVUkgdnMgTklGIFJDIEVVSUQyBxAhGAoYoAEyBxAhGAoYoAEyBxAhGAoYoAEyBxAhGAoYoAFI8hlQ0QZY1RVwAXgBkAEAmAHAAaABtwWqAQMwLjW4AQPIAQD4AQHCAgoQABhHGNYEGLAD4gMEGAAgQYgGAZAGCA&sclient=gws-wiz-serp" target="_blank">articolele</a> legate de comparatia codurilor sau numerelor atribuite de catre autoritati CIF,CUI,NIF,EUID,RC...
+
