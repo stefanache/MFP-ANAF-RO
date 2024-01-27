@@ -223,5 +223,5 @@ Interesante sunt si <a href="https://www.google.com/search?q=CIF+vs+CUI+vs+NIF+R
 
 
 Crearea online a scheletului unei facturi UBL o puteti gasi [aici](https://cranesoftwrights.github.io/resources/Crane-UBL-2.1-Skeleton/Crane-UBL-Invoice-2.1.html) iar campurile codate in eInvoice le puteti gasi [aici](https://docs.oasis-open.org/ubl/os-UBL-2.1/mod/summary/reports/UBL-Invoice-2.1.html#t-Invoice-4);
-Articole de informatii calificate UBL2.0 si UBL2.1 gasiti [aici](Articole de informații calificate UBL 2.0 și UBL 2.1)
+Articole de informatii calificate UBL2.0 si UBL2.1 gasiti [aici](Articole de informații calificate UBL 2.0 și UBL 2.1);Peppoll Billing BIS 3.0 gasiti [aici](Articole de informații calificate UBL 2.0 și UBL 2.1)
 
