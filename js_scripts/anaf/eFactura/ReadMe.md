@@ -221,3 +221,6 @@ Pe forumul [HotFox](https://hotfox.ro/forum/viewtopic.php?t=94&start=10) gasiti 
 
 Interesante sunt si <a href="https://www.google.com/search?q=CIF+vs+CUI+vs+NIF+RC+EUID&sca_esv=601682560&rlz=1C1JJTC_enRO1087RO1087&sxsrf=ACQVn081w6a5z8s5siPFgS1zSS5eEB8XGQ%3A1706261620706&ei=dHyzZbDYKqbgxc8Pn5yx4Aw&udm=&ved=0ahUKEwiw4q7u3_qDAxUmcPEDHR9ODMwQ4dUDCBA&uact=5&oq=CIF+vs+CUI+vs+NIF+RC+EUID&gs_lp=Egxnd3Mtd2l6LXNlcnAiGUNJRiB2cyBDVUkgdnMgTklGIFJDIEVVSUQyBxAhGAoYoAEyBxAhGAoYoAEyBxAhGAoYoAEyBxAhGAoYoAFI8hlQ0QZY1RVwAXgBkAEAmAHAAaABtwWqAQMwLjW4AQPIAQD4AQHCAgoQABhHGNYEGLAD4gMEGAAgQYgGAZAGCA&sclient=gws-wiz-serp" target="_blank">articolele</a> legate de comparatia codurilor sau numerelor atribuite de catre autoritati CIF,CUI,NIF,EUID,RC... ex. <a href="https://cursdeguvernare.ro/diferenta-dintre-cui-si-cif-ghid-explicativ-in-6-pasi.html" target="_blank">CUI vs. CIF</a>
 
+
+Crearea online a scheletului unei facturi UBL o puteti gasi [aici](https://cranesoftwrights.github.io/resources/Crane-UBL-2.1-Skeleton/Crane-UBL-Invoice-2.1.html) iar campurile codate in eInvoice le puteti gasi [aici](https://docs.oasis-open.org/ubl/os-UBL-2.1/mod/summary/reports/UBL-Invoice-2.1.html#t-Invoice-4)
+
