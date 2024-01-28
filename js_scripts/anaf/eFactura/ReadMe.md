@@ -1,6 +1,6 @@
 [***ANAF eFactura***](https://stefanache.github.io/MFP-ANAF-RO/js_scripts/anaf/eFactura/) ([RO e-Factura ](https://doc-process.com/ro-e-factura/) sau [RO eInvoice](https://ec.europa.eu/digital-building-blocks/sites/display/DIGITAL/eInvoicing+in+Romania) [UBL 2.1](https://docs.oasis-open.org/ubl/os-UBL-2.1/xsd/maindoc/UBL-Invoice-2.1.xsd) ([anterior](https://www.w3schools.com/xml/schema_howto.asp) a fost [UBL2.0](https://docs.oasis-open.org/ubl/os-UBL-2.0/xsd/maindoc/UBL-Invoice-2.0.xsd)) + [CIUS-RO 1.0.1](https://mfinante.gov.ro/web/efactura/informatii-tehnice)); 
 
-conform cu specificatiilor tehnice [MFP](https://mfinante.gov.ro/web/efactura/informatii-tehnice), [generatorului](https://www.anaf.ro/CompletareFactura/faces/factura/generare.xhtml) online ANAF si [validatorului](https://www.anaf.ro/uploadxmi/) online AMAF / [MFP.](https://mfinante.gov.ro/web/efactura/validare-xml-factura)
+( in  conformitate cu specificatiilor tehnice [MFP](https://mfinante.gov.ro/web/efactura/informatii-tehnice); a se vedea si [generatorului](https://www.anaf.ro/CompletareFactura/faces/factura/generare.xhtml) online ANAF precum si [validatorului](https://www.anaf.ro/uploadxmi/) online AMAF / [MFP.](https://mfinante.gov.ro/web/efactura/validare-xml-factura) );
 
 Un exemplu de [Model de Date](https://stefanache.github.io/MFP-ANAF-RO/js_scripts/anaf/eFactura/Model%20e-factura.pdf) mai complex pt eFactura poate fi acesta.
 
