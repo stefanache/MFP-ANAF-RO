@@ -1,6 +1,8 @@
 
 **Thanks all 4 [stars](https://www.facebook.com/ion.stefanache.3) and [traffic](https://www.freelancer.com/u/ionstefanache1)!**
 
+You can https://www.buymeacoffee.com/stefanache... Thanks
+
 ## **[Contact me](https://www.facebook.com/ion.stefanache.3)**
 <details>
   
@@ -25,6 +27,8 @@ For more details please **[contact me](mailto:ion.stefanache@yahoo.com)** on:
    - <a href="mailto:ion.stefanache@yahoo.com">**yahoo**</a>: <a href="mailto:ion.stefanache@yahoo.com">ion.stefanache@yahoo.com</a>,
   
    - <a href="mailto:ion.stefanache0@gmail.com">**gmail**</a>: <a href="mailto:ion.stefanache0@gmail.com">ion.stefanache0@gmail.com</a>
+
+   *** You can https://www.buymeacoffee.com/stefanache... Thanks ***
 
 </details>
 
