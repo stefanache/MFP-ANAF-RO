@@ -40,4 +40,4 @@
   
 - despre puncte de lucru puteti sa cititi [aici](https://facturis.ro/blog/e-factura/punctele-de-lucru-ale-clientului-si-informatiile-necesare-pe-factura-si-in-e-factura/) pe site-ul [Facturis](https://facturis-online.ro/e-factura/intrebari-despre-e-factura-in-facturis-online.html)
   
-- configurarea eFactura in SPV este descrisa [aici](https://facturis-online.ro/e-factura/configurarea-aplicatiei-de-facturare-pentru-ro-e-factura.html); despre Identificatorul schemei UBL ***STI*** si ***PSP*** puteti citi [aici](static.anaf.ro/static/10/Anaf/Informatii_R/Comunicat_e-factura_aprilie2022_v2_050422.pdf);
+- configurarea eFactura in SPV este descrisa [aici](https://facturis-online.ro/e-factura/configurarea-aplicatiei-de-facturare-pentru-ro-e-factura.html); despre Identificatorul schemei ***UBL/CII*** ***STI*** si ***PSP*** puteti citi [aici](static.anaf.ro/static/10/Anaf/Informatii_R/Comunicat_e-factura_aprilie2022_v2_050422.pdf);
