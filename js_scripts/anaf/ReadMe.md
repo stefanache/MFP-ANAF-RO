@@ -39,3 +39,5 @@
 - o [evaluare JS cu pdfHTML](https://kb.itextpdf.com/itext/evaluating-js-with-pdfhtml) in Java si C#
   
 - despre puncte de lucru puteti sa cititi [aici](https://facturis.ro/blog/e-factura/punctele-de-lucru-ale-clientului-si-informatiile-necesare-pe-factura-si-in-e-factura/) pe site-ul [Facturis](https://facturis-online.ro/e-factura/intrebari-despre-e-factura-in-facturis-online.html)
+  
+- configurarea eFactura in SPV este descrisa [aici](https://facturis-online.ro/e-factura/configurarea-aplicatiei-de-facturare-pentru-ro-e-factura.html)
