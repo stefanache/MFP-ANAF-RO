@@ -34,6 +34,8 @@
   - aici avem un [document/articol](https://helpx.adobe.com/ro/acrobat/kb/edit-xfa-form.html) care explica - cum se editează formularele XFA create în LiveCycle Designer  
 
   - conversiile pot duce la [pierderi de functionalitati](https://support.pdfarchitect.org/hc/en-us/articles/14229068450196-XFA-is-not-supported-How-do-I-open-the-PDF-file-)
-  - 
+   
 - aici aveti o discutie interesanta despre utilizarea certificatului digital de la [Trans-Sped](https://devforum.ro/t/utilizare-certificat-in-adobe-reader-cu-trans-sped/17419)
 - o [evaluare JS cu pdfHTML](https://kb.itextpdf.com/itext/evaluating-js-with-pdfhtml) in Java si C#
+  
+- despre puncte de lucru puteti sa cititi [aici](https://facturis.ro/blog/e-factura/punctele-de-lucru-ale-clientului-si-informatiile-necesare-pe-factura-si-in-e-factura/)
