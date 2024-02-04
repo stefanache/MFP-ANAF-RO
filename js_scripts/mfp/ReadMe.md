@@ -22,3 +22,6 @@ Codurile [INS](https://insse.ro/cms/files/siruta/Metodologie.doc) [SIRUTA](https
 [INS](https://data.gov.ro/dataset/siruta/resource/ed3f9ec6-8c12-4ba6-8688-74cadc69f14b) pune la toate versiunile si clasificarile pe care le utilizeza pe serverul lor [SENIN](http://80.96.186.4:81/senin/classifications.htm?selectedClassification=&action=&classificationName=SIRUTA)
 
 Pe site-ul european gasiti de asemena versiuni al [SIRUTA](https://data.europa.eu/data/datasets/9f38f6fe-66a0-4e93-ae24-4272b91c9849?locale=es)
+
+Daca doriti date spatiale atunci puteti consulta variantele expuse pe site-ul [ANCPI ](https://geo-spatial.org/vechi/download/romania-seturi-vectoriale)
+
