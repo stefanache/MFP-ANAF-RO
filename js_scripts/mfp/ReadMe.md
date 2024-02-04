@@ -17,5 +17,5 @@ Un articol interesant este si acesta "Cum se exporta factura in format .xml pent
 
 Daca sunteti interesati de "SmartCash ANAF Connector" pentru a intelege cum sunt integrate procesele eFactura si eTransport in acest ERP atunci puteti citi acest scurt [articol](https://www.magister.ro/implementarea-efactura-si-etransport-din-smartcash-rms-schimba-regulile-jocului-pentru-comercianti/).
 
-Codurile siruta ale UAT-urilor(localitatilor cu primarie) le gasiti in format excel(.xls) pe site-ul [DPFBL](http://www.dpfbl.mdrap.ro/cod_siruta_uat-uri.html)
+Codurile SIRUTA ale UAT-urilor(localitatilor cu primarie) le gasiti in format excel(.xls) pe site-ul [DPFBL](http://www.dpfbl.mdrap.ro/cod_siruta_uat-uri.html)
 
