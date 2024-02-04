@@ -32,3 +32,5 @@ Aceasta analiza "Sectorul non-profit românesc: date existente, infrastructura d
 
 Legat de SIRUTA mai gasiti si acest document(ceva mai vechi dar interesant)pe site-ul [MDLPA](https://www.mdlpa.ro/uploads/articole/attachments/64d0a28762583720581068.pdf)
 
+Trebuie stiut si faptul ca **SIRUTA** este corelat cu [**NUTS**](https://www.europarl.europa.eu/factsheets/ro/sheet/99/nomenclatorul-comun-al-unitatilor-teritoriale-de-statistica-nuts-)
+
