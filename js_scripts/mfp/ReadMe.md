@@ -25,3 +25,5 @@ Pe site-ul european gasiti de asemena versiuni al [SIRUTA](https://data.europa.e
 
 Daca doriti date spatiale atunci puteti consulta variantele expuse pe site-ul [ANCPI ](https://geo-spatial.org/vechi/download/romania-seturi-vectoriale)
 
+Aceasta analiza "Sectorul non-profit românesc: date existente, infrastructura de colectare, utilizarea datelor și posibile soluții de eficientizare " poate fi utila pentru [link-urile oferite](https://rafonline.org/wp-content/uploads/2023/01/Raport-infrastructuradate-sector-ONG_FDSC-2021-compressed.pdf).
+
