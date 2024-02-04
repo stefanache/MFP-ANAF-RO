@@ -43,3 +43,5 @@
 - configurarea eFactura in SPV este descrisa [aici](https://facturis-online.ro/e-factura/configurarea-aplicatiei-de-facturare-pentru-ro-e-factura.html); despre Identificatorul schemei ***UBL/CII*** ***STI***, ***ZZZ*** si ***PSP*** puteti citi [aici](static.anaf.ro/static/10/Anaf/Informatii_R/Comunicat_e-factura_aprilie2022_v2_050422.pdf);
 
 - despre nomenclatoarele utilizate gasiti [aici](https://happyweb.ro/articol/nomenclatoare-e-factura) cateva link-uri utile  ) pe ***happyweb***
+
+  **Nota:** Toate raportarile la ANAF incep cu [calendarul obligatiilor fiscale.](https://data.gov.ro/dataset/calendar_obligatii_fiscale_2024/resource/49be8f18-c564-4689-981e-e1b996633a5d)
