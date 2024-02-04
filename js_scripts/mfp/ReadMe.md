@@ -34,3 +34,5 @@ Legat de SIRUTA mai gasiti si acest document(ceva mai vechi dar interesant)pe si
 
 Trebuie stiut si faptul ca **SIRUTA** este corelat cu [**NUTS**](https://www.europarl.europa.eu/factsheets/ro/sheet/99/nomenclatorul-comun-al-unitatilor-teritoriale-de-statistica-nuts-)
 
+Daca vreti sa aflati CUI-ul unei firme(PJ) si nu stiti decat ca este inregistrata intr-un ***judet*** anume si desigur ii stiti ***denumirea*** atunci puteti apela la aplicatia online a [**MFP**](https://mfinante.gov.ro/info-pj-selectie-nume-si-judet)
+
