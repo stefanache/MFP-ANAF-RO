@@ -250,3 +250,5 @@ Despre ***arhivarea facturilor*** aflati cateva lucruri si pe site-ul [**efactur
 
 Pe forumul [**reddit**](https://www.reddit.com/r/programare/comments/18c3bg8/implementare_serviciu_efactura/) sunt postate o serie de documentatii **Swagger** pt un proiect eFactura.
 (**n.r.** *Discutia se invarte in jurul **OAuth** si apeluri **REST***)
+
+Pentru cei ce scriu cod in **PhP** puteti vedea si proiectul eFactura de pe github al lui [**danielgp**](https://github.com/danielgp/eFactura/tree/main?tab=readme-ov-file)
