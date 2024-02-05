@@ -238,4 +238,4 @@ Aici gasiti [reclasificarea CPV](https://anap.gov.ro/web/wp-content/uploads/2019
 
 Puteti viziona 2 scheme grafice ale proceselor de incarcare si respectiv descarcare eFacturi in/din  **SPV**-ul **ANAF** pe site-ul celor de la [**Automatik**](https://softlead.ro/noutati-it-c/atomatik-sprijina-companiile-romanesti-in-tranzitia-catre-ro-e-factura.html) 
 
-[**CECCAR** - Satu Mare](https://ceccarsatumare.ro/ro/wp-content/uploads/2022/08/RO-E-factura-.pdf) are o expunere succinta despre procesul RO eFactura intitulata **RO eFactura - Consideratii Generale si Cadrul Legal Aplicabil**
+[**CECCAR** - Satu Mare](https://ceccarsatumare.ro/ro/wp-content/uploads/2022/08/RO-E-factura-.pdf) are o expunere succinta despre procesul RO eFactura intitulata **RO eFactura - Consideratii Generale si Cadrul Legal Aplicabil**; Este interesant ca aici gasiti un ghid rapid continand ***link***-urile importante de care aveti nevoie;
