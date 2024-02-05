@@ -234,14 +234,14 @@ Crearea online a scheletului unei facturi UBL o puteti gasi [aici](https://crane
 Articole de informatii calificate UBL2.0 si UBL2.1 gasiti [aici](Articole de informații calificate UBL 2.0 și UBL 2.1);Peppoll Billing BIS 3.0 gasiti [aici](Articole de informații calificate UBL 2.0 și UBL 2.1)
 Intereresant este si [SFTI](https://sfti.se/download/18.42336a32177c8ab158d77219/1616148012158/Referencing_and_Matching_3.pdf) - Single Face To Industry.
 
-Aici gasiti [reclasificarea CPV](https://anap.gov.ro/web/wp-content/uploads/2019/02/Reclasificare-coduri-CPV.pdf);
+Aici gasiti [**reclasificarea CPV**](https://anap.gov.ro/web/wp-content/uploads/2019/02/Reclasificare-coduri-CPV.pdf);
 
 Puteti viziona 2 scheme grafice ale proceselor de incarcare si respectiv descarcare eFacturi in/din  **SPV**-ul **ANAF** pe site-ul celor de la [**Automatik**](https://softlead.ro/noutati-it-c/atomatik-sprijina-companiile-romanesti-in-tranzitia-catre-ro-e-factura.html) 
 
 [**CECCAR** - Satu Mare](https://ceccarsatumare.ro/ro/wp-content/uploads/2022/08/RO-E-factura-.pdf) are o expunere succinta despre procesul RO eFactura intitulata **RO eFactura - Consideratii Generale si Cadrul Legal Aplicabil**; Este interesant ca aici gasiti un ghid rapid continand ***link***-urile importante de care aveti nevoie;
 
 Codificarea produselor si serviciilor [**CPV(Common Procurement Vocabulary)**](https://cpv.nxm.ro/) o puteti consulta pe site-ul [**licitatiiSEAP**](https://licitatiiseap.ro/coduri_cpv/);
-Pentru a afla mia multe detalii puteti consulta si [**I&R**](https://www.nexuserp.ro/blog/intrebari-frecvente-despre-efactura) de pe site-ul ***nexuserp***; Aceiasi codificare o gasiti si pe site-ul [**IAPP**](https://developer.iapp.ro/article/82-e-Factura-Lista-codurilor-CPV); Despre codurile [**CPV** si **NC**](https://cpv.nxm.ro/cpv/33711450-6-tatuaje) si nu numai puteti consulta si site-ul [portalContabilitate](https://www.portalcontabilitate.ro/utilizare-coduri-nc-si-cpv-pentru-saf-t-si-e-factura-174849.htm);
+Pentru a afla mai multe [**detalii**](https://mfinante.gov.ro/documents/4398723/5002737/E-facturaFAQ.pdf/62a8d46b-82f5-9954-22aa-29b7ad32fe14?t=1637238487343) puteti consulta si [**I&R**](https://www.nexuserp.ro/blog/intrebari-frecvente-despre-efactura) de pe site-ul ***nexuserp***; Aceiasi codificare o gasiti si pe site-ul [**IAPP**](https://developer.iapp.ro/article/82-e-Factura-Lista-codurilor-CPV); Despre codurile [**CPV** si **NC**](https://cpv.nxm.ro/cpv/33711450-6-tatuaje) si nu numai puteti consulta si site-ul [portalContabilitate](https://www.portalcontabilitate.ro/utilizare-coduri-nc-si-cpv-pentru-saf-t-si-e-factura-174849.htm);
 
 Acest [**Comunicat ANAF/UMI**](/https://static.anaf.ro/static/10/Anaf/Informatii_R/Comunicat_e-factura_aprilie2022_v2_050422.pdf) care contine **Informații de interes referitoare la implementarea sistemului național privind factura electronică RO e-Factura**  poate aduce multe clarificari in intelegerea acestui proces.
 
