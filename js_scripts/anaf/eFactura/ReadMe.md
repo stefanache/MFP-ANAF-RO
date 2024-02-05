@@ -258,5 +258,5 @@ Pentru cei ce scriu cod in **PhP** puteti vedea si proiectul eFactura de pe gith
 
 Un model de **eFactura xml**(fie el si partial) gasiti si pe site-ul [travel-office](https://www.travel-office.ro/e-factura);
 
-pentru cei ce detin **PFA**-uri  util poate fi si acest site de **I&R** [**pfa.whd**](https://www.pfa.whd.ro/e-factura-pentru-pfa-intrebari-si-raspunsuri);
+pentru cei ce detin **PFA**-uri  util poate fi si acest site de **I&R** [**pfa.whd**](https://www.pfa.whd.ro/e-factura-pentru-pfa-intrebari-si-raspunsuri) referitor la [***eFctura***](https://media.hotnews.ro/media_server1/document-2023-12-30-26789013-0-prezentare-factura.pdf);
 
