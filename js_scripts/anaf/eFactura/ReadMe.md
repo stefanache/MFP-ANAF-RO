@@ -255,5 +255,5 @@ Pe forumul [**reddit**](https://www.reddit.com/r/programare/comments/18c3bg8/imp
 
 Pentru cei ce scriu cod in **PhP** puteti vedea si proiectul eFactura de pe github al lui [**danielgp**](https://github.com/danielgp/eFactura/tree/main?tab=readme-ov-file)
 
-Un model de **eFactura xml** gasiti si pe site-ul [travel-office](https://www.travel-office.ro/e-factura)
+Un model de **eFactura xml**(fie el si partial) gasiti si pe site-ul [travel-office](https://www.travel-office.ro/e-factura)
 
