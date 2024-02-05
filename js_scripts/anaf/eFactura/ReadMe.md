@@ -155,8 +155,8 @@ Nu uitati... validarea trebuie sa fie conforma/filtrata cu/de [**regulile**](htt
  
  Puteti sa le descarcati apoi sa le dezarhivati si apoi sa le vizualizati folosind [XML Notepad]((https://lovettsoftwarestorage.blob.core.windows.net/downloads/XmlNotepad/XmlNotepad.application)) pentru a vedea cu tiitlu informativ cam cum arata un astfel de fisier UBL/XML nesemnat digital.
  
-[ANAF](https://www.anaf.ro/anaf/internet/ANAF/despre_anaf/strategii_anaf/proiecte_digitalizare/e.factura) [XML2PDF](https://www.anaf.ro/uploadxml/) online;
-Un serviciu similar ofera si site-ul [gmaftei](https://efactura.gmaftei.ro/)
+[ANAF](https://www.anaf.ro/anaf/internet/ANAF/despre_anaf/strategii_anaf/proiecte_digitalizare/e.factura) ofera online tot gratuit un serviciu de transformare [XML2PDF](https://www.anaf.ro/uploadxml/);
+Un serviciu similar de trecere de la un format XML la o reprezentare grafica PDF este oferit si de catre site-ul [gmaftei](https://efactura.gmaftei.ro/)
 
 [MFP](https://mfinante.gov.ro/web/efactura/informatii-tehnice) - informatii tehnice despre [eFactura](https://mfinante.gov.ro/web/efactura/informatii-tehnice) ( a se vedea si [I&R](https://mfinante.gov.ro/documents/4398723/5002737/E-facturaFAQ.pdf/62a8d46b-82f5-9954-22aa-29b7ad32fe14?t=1637238487343))
 
