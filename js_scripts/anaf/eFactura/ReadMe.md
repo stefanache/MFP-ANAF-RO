@@ -241,3 +241,4 @@ Puteti viziona 2 scheme grafice ale proceselor de incarcare si respectiv descarc
 [**CECCAR** - Satu Mare](https://ceccarsatumare.ro/ro/wp-content/uploads/2022/08/RO-E-factura-.pdf) are o expunere succinta despre procesul RO eFactura intitulata **RO eFactura - Consideratii Generale si Cadrul Legal Aplicabil**; Este interesant ca aici gasiti un ghid rapid continand ***link***-urile importante de care aveti nevoie;
 
 Codificarea produselor si serviciilor [**CPV(Common Procurement Vocabulary)**](https://cpv.nxm.ro/) o puteti consulta pe site-ul [**licitatiiSEAP**](https://licitatiiseap.ro/coduri_cpv/);
+Pentru a afla mia multe detalii puteti consulta si [**I&R**](https://www.nexuserp.ro/blog/intrebari-frecvente-despre-efactura) de pe site-ul ***nexuserp***
