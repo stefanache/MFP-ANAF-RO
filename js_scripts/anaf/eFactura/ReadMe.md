@@ -260,3 +260,5 @@ Un model de **eFactura xml**(fie el si partial) gasiti si pe site-ul [travel-off
 
 pentru cei ce detin **PFA**-uri  util poate fi si acest site de **I&R** [**pfa.whd**](https://www.pfa.whd.ro/e-factura-pentru-pfa-intrebari-si-raspunsuri) referitor la [***eFctura***](https://media.hotnews.ro/media_server1/document-2023-12-30-26789013-0-prezentare-factura.pdf);
 
+UN model ***UBL/XML** de **eFactura in valuta** il puteti gasi pe site-ul [**Facturis**](https://facturis-online.ro/e-factura/model-xml-pentru-e-factura-in-valuta.html)
+
