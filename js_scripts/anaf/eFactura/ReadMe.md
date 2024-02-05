@@ -247,3 +247,5 @@ Pentru a afla mai multe [**detalii**](https://mfinante.gov.ro/documents/4398723/
 Acest [**Comunicat ANAF/UMI**](/https://static.anaf.ro/static/10/Anaf/Informatii_R/Comunicat_e-factura_aprilie2022_v2_050422.pdf) care contine **Informații de interes referitoare la implementarea sistemului național privind factura electronică RO e-Factura**  poate aduce multe clarificari in intelegerea acestui proces.
 
 Despre ***arhivarea facturilor*** aflati cateva lucruri si pe site-ul [**efacturaDownloader**](https://efacturadownloader.ro/?gad_source=1&gclid=CjwKCAiAq4KuBhA6EiwArMAw1NZ4DATCpGRJvSDKMRvlpIwjnEy7kgtTr3uEI0SuaBSNnPUzYPi3OhoC5fwQAvD_BwE)
+
+Pe forumul [**reddit**](https://www.reddit.com/r/programare/comments/18c3bg8/implementare_serviciu_efactura/) sunt postate o serie de documentatii **Swagger** pt un proiect eFactura.
