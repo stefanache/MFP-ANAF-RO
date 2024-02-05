@@ -248,7 +248,7 @@ Acest [**Comunicat ANAF/UMI**](/https://static.anaf.ro/static/10/Anaf/Informatii
 
 Despre ***arhivarea facturilor*** aflati cateva lucruri si pe site-ul [**efacturaDownloader**](https://efacturadownloader.ro/?gad_source=1&gclid=CjwKCAiAq4KuBhA6EiwArMAw1NZ4DATCpGRJvSDKMRvlpIwjnEy7kgtTr3uEI0SuaBSNnPUzYPi3OhoC5fwQAvD_BwE)
 
-Despre conturile bancare(**BT-84**) ale [**e-Factura**](https://www.slideshare.net/geomexicanu1980/prezentare-api-efactura-1pdf) puteti vizualiza acesta pagina a site-ului [**ro-efactura**](https://ro-efactura.ro/tag/xml-efactura/)
+Despre conturile bancare(**BT-84**) ale [**e-Facturii**](https://www.slideshare.net/geomexicanu1980/prezentare-api-efactura-1pdf) puteti vizualiza acesta pagina a site-ului [**ro-efactura**](https://ro-efactura.ro/tag/xml-efactura/)
 
 Pe forumul [**reddit**](https://www.reddit.com/r/programare/comments/18c3bg8/implementare_serviciu_efactura/) sunt postate o serie de documentatii **Swagger** pt un proiect eFactura.
 (**n.r.** *Discutia se invarte in jurul **OAuth** si apeluri **REST***)
