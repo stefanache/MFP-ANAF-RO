@@ -244,3 +244,5 @@ Codificarea produselor si serviciilor [**CPV(Common Procurement Vocabulary)**](h
 Pentru a afla mia multe detalii puteti consulta si [**I&R**](https://www.nexuserp.ro/blog/intrebari-frecvente-despre-efactura) de pe site-ul ***nexuserp***; Aceiasi codificare o gasiti si pe site-ul [**IAPP**](https://developer.iapp.ro/article/82-e-Factura-Lista-codurilor-CPV); Despre codurile **CPV** si **NC** si nu numai puteti consulta si site-ul [portalContabilitate](https://www.portalcontabilitate.ro/utilizare-coduri-nc-si-cpv-pentru-saf-t-si-e-factura-174849.htm);
 
 Acest [**Comunicat ANAF/UMI**](/https://static.anaf.ro/static/10/Anaf/Informatii_R/Comunicat_e-factura_aprilie2022_v2_050422.pdf) care contine **Informații de interes referitoare la implementarea sistemului național privind factura electronică RO e-Factura**  poate aduce multe clarificari in intelegerea acestui proces.
+
+Despre ***arhivarea facturilor*** aflati cateva lucruri si pe site-ul [**efacturaDownloader**](https://efacturadownloader.ro/?gad_source=1&gclid=CjwKCAiAq4KuBhA6EiwArMAw1NZ4DATCpGRJvSDKMRvlpIwjnEy7kgtTr3uEI0SuaBSNnPUzYPi3OhoC5fwQAvD_BwE)
