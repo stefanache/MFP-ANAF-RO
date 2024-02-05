@@ -253,7 +253,9 @@ Despre conturile bancare(**BT-84**) ale [**e-Facturii**](https://www.slideshare.
 Pe forumul [**reddit**](https://www.reddit.com/r/programare/comments/18c3bg8/implementare_serviciu_efactura/) sunt postate o serie de documentatii **Swagger** pt un proiect eFactura.
 (**n.r.** *Discutia se invarte in jurul **OAuth** si apeluri **REST***)
 
-Pentru cei ce scriu cod in **PhP** puteti vedea si proiectul eFactura de pe github al lui [**danielgp**](https://github.com/danielgp/eFactura/tree/main?tab=readme-ov-file)
+Pentru cei ce scriu cod in **PhP** puteti vedea si proiectul eFactura de pe github al lui [**danielgp**](https://github.com/danielgp/eFactura/tree/main?tab=readme-ov-file);
 
-Un model de **eFactura xml**(fie el si partial) gasiti si pe site-ul [travel-office](https://www.travel-office.ro/e-factura)
+Un model de **eFactura xml**(fie el si partial) gasiti si pe site-ul [travel-office](https://www.travel-office.ro/e-factura);
+
+pentru cei ce detin **PFA**-uri  util poate fi si acest site de **I&R** [**pfa.whd**](https://www.pfa.whd.ro/e-factura-pentru-pfa-intrebari-si-raspunsuri);
 
