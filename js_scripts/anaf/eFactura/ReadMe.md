@@ -235,3 +235,5 @@ Articole de informatii calificate UBL2.0 si UBL2.1 gasiti [aici](Articole de inf
 Intereresant este si [SFTI](https://sfti.se/download/18.42336a32177c8ab158d77219/1616148012158/Referencing_and_Matching_3.pdf) - Single Face To Industry.
 
 Aici gasiti [reclasificarea CPV](https://anap.gov.ro/web/wp-content/uploads/2019/02/Reclasificare-coduri-CPV.pdf);
+
+Puteti viziona 2 scheme grafice ale proceselor de incarcare si respectiv descarcare eFacturi in/din  **SPV**-ul **ANAF** pe site-ul celor de la [**Automatik**](https://softlead.ro/noutati-it-c/atomatik-sprijina-companiile-romanesti-in-tranzitia-catre-ro-e-factura.html) 
