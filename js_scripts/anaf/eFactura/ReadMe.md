@@ -242,3 +242,5 @@ Puteti viziona 2 scheme grafice ale proceselor de incarcare si respectiv descarc
 
 Codificarea produselor si serviciilor [**CPV(Common Procurement Vocabulary)**](https://cpv.nxm.ro/) o puteti consulta pe site-ul [**licitatiiSEAP**](https://licitatiiseap.ro/coduri_cpv/);
 Pentru a afla mia multe detalii puteti consulta si [**I&R**](https://www.nexuserp.ro/blog/intrebari-frecvente-despre-efactura) de pe site-ul ***nexuserp***
+
+Acest [**Comunicat ANAF/UMI**](/https://static.anaf.ro/static/10/Anaf/Informatii_R/Comunicat_e-factura_aprilie2022_v2_050422.pdf) care contine **Informații de interes referitoare la implementarea sistemului național privind factura electronică RO e-Factura**  poate aduce multe clarificari in intelegerea acestui proces.
