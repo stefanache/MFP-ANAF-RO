@@ -262,3 +262,4 @@ pentru cei ce detin **PFA**-uri  util poate fi si acest site de **I&R** [**pfa.w
 
 Un model ***UBL/XML** de [**eFactura in valuta**](/https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/Ghid_RO_eFactura.pdf) il puteti gasi pe site-ul [**Facturis**](https://facturis-online.ro/e-factura/model-xml-pentru-e-factura-in-valuta.html)(urmariti si celelalte [***subiecte propuse***](https://facturis-online.ro/manual-de-utilizare/configurare/date-firma/case-de-marcat.html) privind casele de marcat,puncte de lucru,...)
 
+Pentru cei ce vor sa verifice statusul facturii din PhP pot consulta aceasta recomandare [***IAPP***](https://iapp.ro/articol/verifica-status-incarcare-factura-api-anaf-php-oauth2);
