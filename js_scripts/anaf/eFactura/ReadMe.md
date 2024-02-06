@@ -268,7 +268,7 @@ Daca doriti sa descarcati arhiva ZIP eFactura folosind API-ul ANAF cu autorizare
 Pe github gasiti aceasta librarie ce va ajuta sa generati o factura("[**Invoice**](https://github.com/pondersource/invoice-ubl)") in format UBL;
 
 Am testat si eu acest [***cod PhP***](https://www.grepper.com/answers/465839/api+anaf) care face [verificarea unui agent economic daca este platitor de TVA](https://www.verificaretva.ro/download/DocumentatieVerificareTVAAPIv5.pdf);
-Codul meu de testare a fost plasat intr-un fisier **index.php** pe care l-am stocat intr-un subdirector denumit  ***api_anaf***  al directoului ***htdocs*** specific webserver-ului Apache care la randul sau este controlat de [**XAMPP**](https://www.apachefriends.org/); Fisierul meu ***index.php** are urmatorul continut:
+Codul meu de testare a fost plasat intr-un fisier **index.php** pe care l-am stocat intr-un subdirector denumit  ***api_anaf***  al directoului ***htdocs*** specific webserver-ului Apache care la randul sau este controlat de [**XAMPP**](https://www.apachefriends.org/); Fisierul meu ***index.php*** are urmatorul continut:
 
 			<?php
 				// Official documentation: 
@@ -314,7 +314,7 @@ Codul meu de testare a fost plasat intr-un fisier **index.php** pe care l-am sto
 				var_dump($response);
 			?>
 
-Dupa ce am startat webserverul Apache din consola XAMPP am lansat in browser-ul Chrome pagina pt a o vizualiza folosind link=ul ****http://localhost/api_anaf/***.
+Dupa ce am startat webserverul Apache din consola XAMPP am lansat in browser-ul **Chrome** pagina pt a o vizualiza folosind link=ul ****http://localhost/api_anaf/***.
 
 Rezultatul a fost urmatorul:
 
