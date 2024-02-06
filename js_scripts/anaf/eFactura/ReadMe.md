@@ -276,7 +276,8 @@ Codul meu de testare fisier **index.php** l-am plasat intr-un subdirector direct
 				// 2) https://static.anaf.ro/static/10/Anaf/Informatii_R/doc_WS_V8.txt
 				
 				$url_verif_platitor_TVA="'https://webservicesp.anaf.ro/PlatitorTvaRest/api/v8/ws/tva'";
-				$url_reg_agricultori="https://webservicesp.anaf.ro/RegAgric/api/v2/ws/agric "
+				//$url_reg_agricultori="https://webservicesp.anaf.ro/RegAgric/api/v2/ws/agric ";
+    
 				// PHP curl example
 				// set payload for single request
 				$payload = [
