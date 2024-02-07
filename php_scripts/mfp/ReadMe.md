@@ -6,3 +6,7 @@ Aici gasiti
   in baza de date ***MySQL*** **nomen**(controlata prin ***PhpMyAdmin*** din [***XAMPP***](https://www.apachefriends.org/download.html))
 
 **nomen.sql** este exportul bazei de date ***nomen*** in totalitate(**DDL+DML**; adica creaza tabelelele MySQL si le si umple cu date)
+
+Aceste scripturi sunt map putin "finisate" dar pot constitui un bun inceput in a le integra si a le utiliza intr-un **CronJob-PhP** care poate verifica ***zilnic*** site-ul nomenclatoarelor;
+Atunci cand apare o noua versiune a nomenclatoarelor, CronJob-ul PhP ar putea reincarca aceastceste noi fisiere in baza de date **nomen** din ***MySQL***, inlocuindu-le pe cele vechi.
+Cam acesta ar putea fi scopul final al acestui Cron-Jobsi anume acela de a automatiza complet aceasta activitate/task/job;
