@@ -216,7 +216,7 @@ Pentru [verificarea existentei unui agent economic](https://mfinante.gov.ro/stat
 Bineinteles ca si data de intrare, se plaseaza alte  **CUI**-uri(***identificatori de agent economici***) care inlocuiesc pe rand in cod pe cel de platitor de TVA;
 Identificatorul fiscal( **CUI/CIF** -ul ) trebuie sa fie unul al unui **entitati agricule** respectiv al unei **unitati de cult/[ONG](https://doc.pmb.ro/institutii/primaria/directii/directia_relatia_cu_ong_sindicate_si_patronate/BD_ONG_20210714.pdf)**(de ex. o Biserica).
 Mai multe detalii despre ***serviciile web*** puteti afla pe site-ul [ANAF](https://www.anaf.ro/anaf/internet/ANAF/servicii_online/servicii_web_anaf)
-Aceste date ar putea fi foarte utile pentru **generarea automata eFactura**.
+Aceste date/informatii ar putea fi foarte utile pentru **generarea automata eFactura**.
 
 Pentru cei care vor sa verifice starea/statusul facturii din PhP privind procesarea ANAF, pot consulta aceasta recomandare [***IAPP***](https://iapp.ro/articol/verifica-status-incarcare-factura-api-anaf-php-oauth2);
 Daca doriti sa descarcati arhiva ZIP eFactura folosind API-ul ANAF cu autorizare OAuth2.0 din PhP puteti de asemena consulta aceasta pagina [**IAPP**](https://iapp.ro/articol/descarca-arhiva-zip-e-factura-folosind-api-anaf-php-oauth2); Daca doriti sa obtineti/generati un Token de la ANAF folosind un certificat digital abtinut anterior tot pr=entru programtorii PhP atunci puteti consulta aceasta pagin a Oauth2 de pe site-ul [**IAPP**](https://iapp.ro/articol/generare-token-anaf-folosind-certificat-digital-din-php-oauth2);
