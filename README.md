@@ -1,7 +1,7 @@
 
       ***Atentie***: 
       
-      Acest "repository" **NU ESTE UNUL OFICIAL** dar poate constitui daca doriti un instrument care ar putea veni(sau **nu**)
+      Acest "repository" NU ESTE UNUL OFICIAL dar poate constitui daca doriti un instrument care ar putea veni(sau NU)
       in sprijinul  activitatii dumneavoastra!
 
 
