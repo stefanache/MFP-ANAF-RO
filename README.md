@@ -1,6 +1,6 @@
 ***Atentie***: 
 
-Acest repository **NU ESTE UNUL OFICIAL** si poate constitui daca doriti doar un instrument care ar putea veni(sau **nu**) in sprijinul activitatii dumneavoastra!
+Acest repository **NU ESTE UNUL OFICIAL** dar poate constitui daca doriti doar un instrument care ar putea veni(sau **nu**) in sprijinul activitatii dumneavoastra!
 
 
 
