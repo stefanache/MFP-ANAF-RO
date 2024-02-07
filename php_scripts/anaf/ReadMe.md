@@ -218,8 +218,10 @@ Identificatorul fiscal( **CUI/CIF** -ul ) trebuie sa fie unul al unui **entitati
 Mai multe detalii despre ***serviciile web*** puteti afla pe site-ul [ANAF](https://www.anaf.ro/anaf/internet/ANAF/servicii_online/servicii_web_anaf);
 Aceste date/informatii ar putea fi foarte utile pentru [**generarea automata ***eFactura*** cu sintaxa ***UBL/CII***, ***containerizata*** in format ***xml*****](https://mfinante.gov.ro/static/10/eFactura/prezentare%20apeluri%20API%20E-factura.pdf).
 
+Transmiterea unei eFacturi UBL/CII xml valida si semnata digital poate fi transmisa in SPV-ul ANAF-ului folosind un [cod de transmitere si incarcare/"upload"](https://iapp.ro/articol/incarca-factura-xml-in-spv-api-anaf-php-oauth2) bazat pe cURL.
+
 Pentru cei care vor sa verifice [starea/statusul eFacturii](https://static.anaf.ro/static/3/Galati/20231214122402_ajfpbrailaghid.pdf) din PhP privind procesarea [ANAF](https://www.anaf.ro/CompletareFactura/faces/factura/informatiigenerale.xhtml), pot consulta aceasta recomandare [***IAPP***](https://iapp.ro/articol/verifica-status-incarcare-factura-api-anaf-php-oauth2); 
-Daca doriti sa descarcati arhiva ZIP eFactura folosind API-ul ANAF cu autorizare OAuth2.0 din PhP puteti de asemena consulta aceasta pagina [**IAPP**](https://iapp.ro/articol/descarca-arhiva-zip-e-factura-folosind-api-anaf-php-oauth2); Daca doriti sa obtineti/generati un Token de la ANAF folosind un certificat digital abtinut anterior tot pr=entru programtorii PhP atunci puteti consulta aceasta pagin a Oauth2 de pe site-ul [**IAPP**](https://iapp.ro/articol/generare-token-anaf-folosind-certificat-digital-din-php-oauth2);
+Daca doriti sa descarcati arhiva ZIP eFactura folosind API-ul ANAF cu autorizare OAuth2.0 din PhP puteti de asemena consulta aceasta pagina [**IAPP**](https://iapp.ro/articol/descarca-arhiva-zip-e-factura-folosind-api-anaf-php-oauth2); Daca doriti sa obtineti/generati un Token de la ANAF folosind un certificat digital abtinut anterior tot pentru programtorii PhP atunci puteti consulta aceasta pagin a Oauth2 de pe site-ul [**IAPP**](https://iapp.ro/articol/generare-token-anaf-folosind-certificat-digital-din-php-oauth2);
 
 Pe github gasiti aceasta librarie **PhP** ce va ajuta sa generati o factura("[**Invoice**](https://github.com/pondersource/invoice-ubl)") in format UBL;
 
