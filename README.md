@@ -1,7 +1,7 @@
 ***[Atentie](https://code.visualstudio.com/docs/sourcecontrol/github)***: 
       
-      Acest "github-repository" NU ESTE UNUL OFICIAL dar poate constitui daca doriti un instrument util care 
-      ar putea veni(sau NU) in sprijinul  activitatii dumneavoastra!
+      Acest "github-repository" NU ESTE UNUL OFICIAL dar poate constitui daca doriti un instrument util 
+      care  ar putea veni(sau NU) in sprijinul  activitatii dumneavoastra!
 
       El se adreseaza tuturor factorilor implicati/angajati in acest efort comun de eGuvernare.
 
