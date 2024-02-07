@@ -215,7 +215,7 @@ Rezultatul a fost urmatorul:
 Pentru [verificarea existentei unui agent economic](https://www.anaf.ro/anaf/internet/ANAF/servicii_online/servicii_web_anaf) de tip **agricultor** sau de tip **unitate de cult(ex.ONG)** folositi cele 2 registre(cu ***URL***-urile aferente) specializate in acest scop;
 Bineinteles ca si data de intrare, se plaseaza alte  **CUI**-uri(***identificatori de agent economici***) care inlocuiesc pe rand in cod pe cel de platitor de TVA;
 Identificatorul fiscal( **CUI/CIF** -ul ) trebuie sa fie unul al unui **entitati agricule** respectiv al unei **unitati de cult/[ONG](https://doc.pmb.ro/institutii/primaria/directii/directia_relatia_cu_ong_sindicate_si_patronate/BD_ONG_20210714.pdf)**(de ex. o Biserica).
-Mai multe detalii despre ***serviciile web*** puteti afla pe site-ul [ANAF](https://www.anaf.ro/anaf/internet/ANAF/servicii_online/servicii_web_anaf)
+Mai multe detalii despre ***serviciile web*** puteti afla pe site-ul [ANAF](https://www.anaf.ro/anaf/internet/ANAF/servicii_online/servicii_web_anaf);
 Aceste date/informatii ar putea fi foarte utile pentru [**generarea automata ***eFactura*** cu sintaxa ***UBL/CII***, ***containerizata*** in format ***xml*****](https://mfinante.gov.ro/static/10/eFactura/prezentare%20apeluri%20API%20E-factura.pdf).
 
 Pentru cei care vor sa verifice starea/statusul facturii din PhP privind procesarea ANAF, pot consulta aceasta recomandare [***IAPP***](https://iapp.ro/articol/verifica-status-incarcare-factura-api-anaf-php-oauth2); 
