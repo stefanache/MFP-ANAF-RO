@@ -9,7 +9,7 @@ Aici gasiti
 
 **nomen.sql** este exportul tabelei ***nomen.nom_SIRUTA*** in totalitate(**DDL+DML**; adica creaza tabela MySQL **nom_SIRUTA** din baza de date **nomen** si o umple cu date)
 
-Acest script sunt in stare "bruta"/mai putin "finisate" dar poate constitui un bun inceput in a le integra si a le utiliza intr-un **CronJob-PhP** care poate verifica ***zilnic*** site-ul nomenclatorului;
+Acest script sunt in stare "bruta"/mai putin "finisat" dar poate constitui un bun inceput in a le integra si a le utiliza intr-un **CronJob-PhP** care poate verifica ***zilnic*** site-ul nomenclatorului;
 Atunci cand apare o noua versiune a nomenclatorului, CronJob-ul PhP ar putea reincarca acest nou fisier in tabela **nom_SIRUTA** din baza de date **nomen** din ***MySQL***, inlocuindu-l pe cel vechi.
 Cam acesta ar putea fi scopul final al acestui Cron-Jobsi si anume acela de a automatiza complet aceasta activitate/task/job;
 
