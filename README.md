@@ -494,7 +494,9 @@ In finalul acestei sectiuni as vrea sa mai spun ca si [institutiile publice](htt
 Daca doriti o baza legala aparuta prin 2010 despre "Declaraţiei privind obligaţiile de plată a contribuţiilor sociale, impozitului pe venit şi evidenţa nominală a persoanelor asigurate " [H.1397/2010](https://lege5.ro/App/Document/geztsnrvgm/conditiile-ce-trebuie-respectate-de-catre-fisierul-xml-pentru-depunerea-electronica-a-declaratiilor-de-la-art-1-hotarare-1397-2010?pid=45544315#p-45544315) aparuta pe site-ul Lege5.ro
 veti avea imaginea unui document legal in care gasiti o specificatie extrem de tehnica dar foarte bogata in informatii specifice informaticii.
 
-Un alt link interesant pe care-l puteti gasi pe portalul ANAF este si [acesta](https://static.anaf.ro/static/10/Anaf/generare_nr_evidenta/nr_evidenta_cod_iban.html) al generarii numerelor de evidenta a platii pentru 
+Un alt link interesant pe care-l puteti gasi pe portalul ANAF este si [acesta](https://static.anaf.ro/static/10/Anaf/generare_nr_evidenta/nr_evidenta_cod_iban.html) al 
+
+generarii numerelor de evidenta a platii pentru 
 
  - Decizii de impunere si
  - Documente de constatare amenda
