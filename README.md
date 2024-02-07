@@ -1,7 +1,7 @@
 ***Atentie***: 
       
-      Acest "repository" NU ESTE UNUL OFICIAL dar poate constitui daca doriti un instrument care ar putea veni(sau NU)
-      in sprijinul  activitatii dumneavoastra!
+      Acest "repository" NU ESTE UNUL OFICIAL dar poate constitui daca doriti un instrument util care 
+      ar putea veni(sau NU) in sprijinul  activitatii dumneavoastra!
 
 
 **Thanks all 4 [stars](https://www.facebook.com/ion.stefanache.3) and [traffic](https://www.freelancer.com/u/ionstefanache1)!**
