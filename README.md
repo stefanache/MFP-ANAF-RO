@@ -60,7 +60,7 @@ Aveti aici descris si formatul de raspuns la interogarea serviciului. Desigur do
 Un lucru as dori sa scot in eviddenta si aunume fatul ca sunt prezentate exemple in limbaje de back-end(Jav+Spring,PhP,NodeJS) semn ca folosirea limbajului JS(pe front-end) care expune sursa nu este sigura/de dorit(desi daca se iau masuri de [securitate a datelor](https://profs.info.uaic.ro/~busaco/teach/courses/web/presentations/web12SecuritateWeb.pdf) acest lucru ar trebui sa fie posibil!)
 Tot cei de la [VerificareTVA](https://www.verificaretva.ro/) au un articol in care se prezinta [cotele de tva](https://www.verificaretva.ro/articole/Cote-TVA-Romania.aspx); Iata aici si un site dedicat [calcularii TVA](https://calculator-tva.ro/)
 
-Si in acest caiet de sarcini pe la [pagina 16](https://mfinante.gov.ro/documents/35673/5542684/csacp681063_29032022.pdf) puteti vedea care sunt link-urile serviciilor ANAF.
+Si in acest [caiet de sarcini](https://mfinante.gov.ro/static/10/Mfp/Licitatii/csac679092_28032023.docx) pe la [pagina 16](https://mfinante.gov.ro/documents/35673/5542684/csacp681063_29032022.pdf) puteti vedea care sunt link-urile serviciilor ANAF.
 Tot acolo este si o schema bloc pe care o puteti studia pt. avea o idee de ansamblu asupra acestei spete.
 
 Sunt servicii de date cum este cel [listafirme.ro](https://www.listafirme.ro/specificatii/api-info-v1.asp) care va permit sa aflati(dupa ce va inregistrati ca firma ca sa puteti sa obtineti key = cheia api secretă pe care o găsiti în datele contului dumneavoastră dacă si dupa ce serviciul este activat) o sumedenie de informatii despre companiile cu care aveti relatii economice.
