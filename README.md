@@ -566,7 +566,7 @@ va rog, [nu ezitati](https://docs.peppol.eu/poacc/billing/3.0/rules/ubl-tc434/BR
 
 </details>
 
-[Succes](https://www.cabinetexpert.ro/2023-01-28/anaf-informatii-modificari-la-sistemul-ro-e-factura-valabile-dupa-01-01-2023-cius-ro1-0-1.html) si ... cat mai putine [erori-frecvente](https://static.anaf.ro/static/10/Anaf/declunica/Erori_frecventev5.pdf)!
+[Succes](https://www.cabinetexpert.ro/2023-01-28/anaf-informatii-modificari-la-sistemul-ro-e-factura-valabile-dupa-01-01-2023-cius-ro1-0-1.html) si ... cat mai putine [erori(-frecvente)](https://static.anaf.ro/static/10/Anaf/declunica/Erori_frecventev5.pdf)!
 
 
 PS: You can https://www.buymeacoffee.com/stefanache... Thanks
