@@ -10,3 +10,5 @@ Aici gasiti
 Aceste scripturi sunt in stare "bruta"/mai putin "finisate" dar pot constitui un bun inceput in a le integra si a le utiliza intr-un **CronJob-PhP** care poate verifica ***zilnic*** site-ul nomenclatoarelor;
 Atunci cand apare o noua versiune a nomenclatoarelor, CronJob-ul PhP ar putea reincarca aceste noi fisiere in tabelele bazei de date **nomen** din ***MySQL***, inlocuindu-le pe cele vechi.
 Cam acesta ar putea fi scopul final al acestui Cron-Jobsi anume acela de a automatiza complet aceasta activitate/task/job;
+
+Pentru descarcarea **nomenclatorului csv/xlsx SIRUTA** de pe portalul ***data.gov.ro*** am folosit [**SimpleXML**](https://www.php.net/manual/en/book.simplexml.php) pe care l-am [descarcat](https://www.php.net/manual/en/book.simplexml.php) de pe github(***greats!***)
