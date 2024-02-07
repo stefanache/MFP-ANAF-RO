@@ -223,4 +223,4 @@ Daca doriti sa descarcati arhiva ZIP eFactura folosind API-ul ANAF cu autorizare
 
 Pe github gasiti aceasta librarie **PhP** ce va ajuta sa generati o factura("[**Invoice**](https://github.com/pondersource/invoice-ubl)") in format UBL;
 
-Pentru a putea folosi [transformatorul oficial al ANAF](https://www.slideshare.net/geomexicanu1980/prezentare-api-efactura-1pdf)  **xml to pdf** puteti citi acest [cod](https://happyweb.ro/articol/eroare-la-transformare-e-factura-din-xml-in-pdf) PhP
+Pentru a putea folosi [transformatorul oficial al ANAF](https://www.slideshare.net/geomexicanu1980/prezentare-api-efactura-1pdf)  **xml to pdf** al [eFactura](https://www.anaf.ro/CompletareFactura/faces/factura/informatiigenerale.xhtml) puteti citi acest [cod](https://happyweb.ro/articol/eroare-la-transformare-e-factura-din-xml-in-pdf) PhP
