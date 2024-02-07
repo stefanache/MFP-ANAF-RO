@@ -1,0 +1,2 @@
+
+Aici vom discuta despre descarcarea nomenclatoarelor(**dataset**-urilor) de pe portalul ***data.gov.ro*** necesare [***eGuvernarii***](https://www.startupcafe.ro/taxe/video-tutoriale-ro-e-factura-cum-inscrii-sistem-cum-emiti-e-facturi-instrumente-gratuite)
