@@ -1,4 +1,7 @@
-***Atentie***: acest repository **NU ESTE UNUL OFICIAL** si poate constitui daca doriti doar un instrument care ar putea veni(sau **nu**) in sprijinul activitatii dumneavoastra!
+***Atentie***: 
+
+Acest repository **NU ESTE UNUL OFICIAL** si poate constitui daca doriti doar un instrument care ar putea veni(sau **nu**) in sprijinul activitatii dumneavoastra!
+
 
 **Thanks all 4 [stars](https://www.facebook.com/ion.stefanache.3) and [traffic](https://www.freelancer.com/u/ionstefanache1)!**
 
