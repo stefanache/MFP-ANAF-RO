@@ -267,7 +267,7 @@ Daca doriti sa descarcati arhiva ZIP eFactura folosind API-ul ANAF cu autorizare
 
 Pe github gasiti aceasta librarie **PhP** ce va ajuta sa generati o factura("[**Invoice**](https://github.com/pondersource/invoice-ubl)") in format UBL;
 
-Este interesant si acest exemplu [**OMV**](https://efacturi.omv.ro/) de facturare online;
+Este interesant si acest exemplu [**OMV**](https://efacturi.omv.ro/) / [***Petrom***](https://efacturi.petrom.ro/) de facturare online;
 
 
 
