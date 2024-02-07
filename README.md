@@ -151,7 +151,7 @@ Aceste nomenclatoare se gasesc pe internet in documentatia ANAF/MFP/BNR/GOV..., 
 
 *Nota:* A se vedea [***analiza generatorului***](https://stefanache.github.io/MFP-ANAF-RO/js_scripts/anaf/eFactura/generator_eFactura.html) [**eFactura**](https://www.anaf.ro/anaf/internet/ANAF/despre_anaf/strategii_anaf/proiecte_digitalizare/e.factura);
 
-Pentru cei grabiti [reddit](https://www.reddit.com/r/programare/comments/18c3bg8/implementare_serviciu_efactura/) a pus la dispozitie cateva URL-uri utile legate de ANAF: 
+Pentru cei grabiti [reddit](https://www.reddit.com/r/programare/comments/18c3bg8/implementare_serviciu_efactura/) a pus la dispozitie cateva URL-uri utile legate de [ANAF](https://www.startupcafe.ro/taxe/e-factura-ministru-bolos-vina-pe-greseli-fac-utilizatorii.htm): 
 <details>
 
           ...pentru inceput cateva link-uri interne/nationale:
