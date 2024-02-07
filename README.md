@@ -544,7 +544,7 @@ Deseori trebuiesc facute ajustarile necesare pentru ca solutiile lor sa se alini
   
 Implementarea [proceselor economice de afaceri/business](/https://mfinante.gov.ro/documents/35673/5542684/csacp681063_29032022.pdf) ramane o provocare pentru [mediul de afaceri](https://www.fluentis.com/ro/software-erp/solutii-departamentale-integrate/software-facturare-electronica/) avnd in vedere ca trebuiesc integrate aceste raportari periodice dar sper ca aceste informatii sa vina in ajutorul dumneavoastra.
 
-Aceste [procese de business](https://www.fluentis.com/ro/software-erp/solutii-departamentale-integrate/software-bpm/) pot fi modelate folosind [scheme](https://www.fluentis.com/ro/software-erp/solutii-departamentale-integrate/software-bpm/) precum [BPMN](https://github.com/bpmn-io) pentru ca mai apoi sa aveti oportunitatea de a le optimiza si integra in [ERP-ul](https://docs.peppol.eu/poacc/upgrade-3/profiles/36-mlr/) dumneavoastra
+Aceste [procese de business](https://www.fluentis.com/ro/software-erp/solutii-departamentale-integrate/software-bpm/) pot fi modelate folosind [scheme](https://www.fluentis.com/ro/software-erp/solutii-departamentale-integrate/software-bpm/) precum [BPMN](https://github.com/bpmn-io) / [RPA](https://softlead.ro/aplicatii-software/rpa-robotic-process-automation) pentru ca mai apoi sa aveti oportunitatea de a le optimiza si integra in [ERP-ul](https://docs.peppol.eu/poacc/upgrade-3/profiles/36-mlr/) dumneavoastra
 
 In acest context, poate fi de mare ajutor si documentia [Peppol](https://www.fluentis.com/ro/software-erp/solutii-departamentale-integrate/software-facturare-electronica/): [Peppol Business Interoperability Specification (Peppol BIS) ](https://docs.peppol.eu/poac/pint/v1.0.1/pint/bis/#_introduction)
 
