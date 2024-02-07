@@ -212,9 +212,9 @@ Rezultatul a fost urmatorul:
 			  }
 			}
 
-Pentru verificarea existentei unui agent economic de tip agricultor sau de tip unitate de cult or ONG folositi celelalte 2 registre(cu URL-urile aferente);
-Bineinteles ca si data de intrare, se plaseaza alte  CUI-uri care inlocuiesc pe rand in cod pe cel de platitor de TVA;
-CUI-ul trebuie sa fie unul al unui agrigultor respectiv al unei unitati de cult(de ex. o Biserica).
+Pentru verificarea existentei unui agent economic de tip **agricultor** sau de tip **unitate de cult(ex.ONG)** folositi cele 2 registre(cu ***URL***-urile aferente) specializate in acest scop;
+Bineinteles ca si data de intrare, se plaseaza alte  **CUI**-uri(***identificatori de agent economici***) care inlocuiesc pe rand in cod pe cel de platitor de TVA;
+**CUI**-ul trebuie sa fie unul al unui **agrigultor** respectiv al unei **unitati de cult**(de ex. o Biserica).
 Mai multe detalii despre ***serviciile web*** puteti afla pe site-ul [ANAF](https://www.anaf.ro/anaf/internet/ANAF/servicii_online/servicii_web_anaf)
 
 
