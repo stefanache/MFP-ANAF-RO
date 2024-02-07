@@ -254,15 +254,15 @@ Despre conturile bancare(**BT-84**) ale [**e-Facturii**](https://www.slideshare.
 Pe forumul [**reddit**](https://www.reddit.com/r/programare/comments/18c3bg8/implementare_serviciu_efactura/) sunt postate o serie de documentatii **Swagger** pt un proiect eFactura.
 (**n.r.** *Discutia se invarte in jurul **OAuth** si apeluri **REST***)
 
-Pentru cei ce scriu cod in **PhP** puteti vedea si proiectul eFactura de pe github al lui [**danielgp**](https://github.com/danielgp/eFactura/tree/main?tab=readme-ov-file);
+Pentru cei care scriu cod in **PhP** puteti vedea si proiectul eFactura de pe github al lui [**danielgp**](https://github.com/danielgp/eFactura/tree/main?tab=readme-ov-file);
 
 Un model de **eFactura xml**(fie el si partial) gasiti si pe site-ul [travel-office](https://www.travel-office.ro/e-factura);
 
-pentru cei ce detin **PFA**-uri  util poate fi si acest site de **I&R** [**pfa.whd**](https://www.pfa.whd.ro/e-factura-pentru-pfa-intrebari-si-raspunsuri) referitor la [***eFctura***](https://media.hotnews.ro/media_server1/document-2023-12-30-26789013-0-prezentare-factura.pdf);
+pentru cei care detin **PFA**-uri  util poate fi si acest site de **I&R** [**pfa.whd**](https://www.pfa.whd.ro/e-factura-pentru-pfa-intrebari-si-raspunsuri) referitor la [***eFctura***](https://media.hotnews.ro/media_server1/document-2023-12-30-26789013-0-prezentare-factura.pdf);
 
 Un model ***UBL/XML** de [**eFactura in valuta**](/https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/Ghid_RO_eFactura.pdf) il puteti gasi pe site-ul [**Facturis**](https://facturis-online.ro/e-factura/model-xml-pentru-e-factura-in-valuta.html)(urmariti si celelalte [***subiecte propuse***](https://facturis-online.ro/manual-de-utilizare/configurare/date-firma/case-de-marcat.html) privind casele de marcat,puncte de lucru,...)
 
-Pentru cei ce vor sa verifice starea/statusul facturii din PhP privind procesarea ANAF, pot consulta aceasta recomandare [***IAPP***](https://iapp.ro/articol/verifica-status-incarcare-factura-api-anaf-php-oauth2);
+Pentru cei care vor sa verifice starea/statusul facturii din PhP privind procesarea ANAF, pot consulta aceasta recomandare [***IAPP***](https://iapp.ro/articol/verifica-status-incarcare-factura-api-anaf-php-oauth2);
 Daca doriti sa descarcati arhiva ZIP eFactura folosind API-ul ANAF cu autorizare OAuth2.0 din PhP puteti de asemena cosnulta aceasta pagina [**IAPP**](https://iapp.ro/articol/descarca-arhiva-zip-e-factura-folosind-api-anaf-php-oauth2); Daca doriti sa obtineti/generati un Token de la ANAF folosind un certificat digital abtinut anterior tot pr=entru programtorii PhP atunci puteti consulta aceasta pagin a Oauth2 de pe site-ul [**IAPP**](https://iapp.ro/articol/generare-token-anaf-folosind-certificat-digital-din-php-oauth2);
 
 Pe github gasiti aceasta librarie **PhP** ce va ajuta sa generati o factura("[**Invoice**](https://github.com/pondersource/invoice-ubl)") in format UBL;
