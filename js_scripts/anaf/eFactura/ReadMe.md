@@ -262,6 +262,8 @@ pentru cei care detin **PFA**-uri  util poate fi si acest site de **I&R** [**pfa
 
 Un model ***UBL/XML** de [**eFactura in valuta**](/https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/Ghid_RO_eFactura.pdf) il puteti gasi pe site-ul [**Facturis**](https://facturis-online.ro/e-factura/model-xml-pentru-e-factura-in-valuta.html)(urmariti si celelalte [***subiecte propuse***](https://facturis-online.ro/manual-de-utilizare/configurare/date-firma/case-de-marcat.html) privind casele de marcat,puncte de lucru,...)
 
+Un cod de transmitere si incarcare(in SPV-ul ANAF-ului) a unei facturi valide si semnate digital poate fi gasit si pe portalul [IAPP](https://iapp.ro/articol/incarca-factura-xml-in-spv-api-anaf-php-oauth2).
+
 Pentru cei care vor sa verifice starea/statusul facturii din PhP privind procesarea ANAF, pot consulta aceasta recomandare [***IAPP***](https://iapp.ro/articol/verifica-status-incarcare-factura-api-anaf-php-oauth2);
 Daca doriti sa descarcati arhiva ZIP eFactura folosind API-ul ANAF cu autorizare OAuth2.0 din PhP puteti de asemena cosnulta aceasta pagina [**IAPP**](https://iapp.ro/articol/descarca-arhiva-zip-e-factura-folosind-api-anaf-php-oauth2); Daca doriti sa obtineti/generati un Token de la ANAF folosind un certificat digital abtinut anterior tot pentru programtorii PhP atunci puteti consulta aceasta pagin a Oauth2 de pe site-ul [**IAPP**](https://iapp.ro/articol/generare-token-anaf-folosind-certificat-digital-din-php-oauth2);
 
