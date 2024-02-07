@@ -3,6 +3,8 @@
       Acest "repository" NU ESTE UNUL OFICIAL dar poate constitui daca doriti un instrument util care 
       ar putea veni(sau NU) in sprijinul  activitatii dumneavoastra!
 
+      El se adreseaza tuturor factorilor implicati/angajati in acest efort comun de eGuvernare.
+
 
 **Thanks all 4 [stars](https://www.facebook.com/ion.stefanache.3) and [traffic](https://www.freelancer.com/u/ionstefanache1)!**
 
