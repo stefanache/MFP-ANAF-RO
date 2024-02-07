@@ -1,7 +1,7 @@
 ***[Atentie](https://code.visualstudio.com/docs/sourcecontrol/github)***: 
       
-      Acest "github-repository" NU ESTE UNUL OFICIAL dar poate constitui daca doriti un instrument util 
-      care  ar putea veni(sau NU) in sprijinul  activitatii dumneavoastra!
+      Acest "github-repository" NU ESTE UNUL OFICIAL dar poate constitui(daca doriti) un instrument util 
+      care  vine(sau NU) in sprijinul  activitatii dumneavoastra!
 
      Sper ca aceasta documentatie [semi]-tehnica sa constituie macar o sursa de inspiratie
      care se adreseaza tuturor factorilor implicati/angajati in acest efort comun de eGuvernare.
@@ -9,7 +9,7 @@
 
 **Thanks all 4 [stars](https://www.facebook.com/ion.stefanache.3) and [traffic](https://www.freelancer.com/u/ionstefanache1)!**
 
-
+v
 
 You can https://www.buymeacoffee.com/stefanache... Thanks
 
