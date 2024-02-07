@@ -11,4 +11,4 @@ Aceste scripturi sunt in stare "bruta"/mai putin "finisate" dar pot constitui un
 Atunci cand apare o noua versiune a nomenclatoarelor, CronJob-ul PhP ar putea reincarca aceste noi fisiere in tabelele bazei de date **nomen** din ***MySQL***, inlocuindu-le pe cele vechi.
 Cam acesta ar putea fi scopul final al acestui Cron-Jobsi anume acela de a automatiza complet aceasta activitate/task/job;
 
-Pentru descarcarea **nomenclatorului csv/xlsx SIRUTA** de pe portalul ***data.gov.ro*** am folosit [**SimpleXLSX**](https://github.com/shuchkin/simplexlsx) pe care l-am [descarcat](https://www.php.net/manual/en/book.simplexml.php) de pe [github](https://github.com/shuchkin/simplexlsx)(***greats!***)
+Pentru descarcarea **nomenclatorului csv/xlsx SIRUTA** de pe portalul ***data.gov.ro*** am folosit [**SimpleXLSX**](https://hotexamples.com/examples/-/SimpleXLSX/-/php-simplexlsx-class-examples.html) pe care l-am [descarcat](https://www.php.net/manual/en/book.simplexml.php) de pe [github](https://github.com/shuchkin/simplexlsx)(***greats!***)
