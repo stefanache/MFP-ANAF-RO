@@ -7,7 +7,7 @@ Aici gasiti
 
   in baza de date ***MySQL*** **nomen**(controlata prin ***PhpMyAdmin*** din [***XAMPP***](https://www.apachefriends.org/download.html))
 
-**nomen.sql** este exportul tabelei ***nomen.nom_SIRUTA*** in totalitate(**DDL+DML**; adica creaza tabela MySQL **nom_SIRUTA** din baza de date **nomen** si o umple cu date)
+**nomen.sql** este exportul tabelei ***nomen.nom_SIRUTA*** in totalitate(**DDL+DML**; adica creaza tabela MySQL **nom_SIRUTA** din baza de date **nomen** dar o si umple cu date)
 
 Acest script sunt in stare "bruta"/mai putin "finisat" dar poate constitui un bun inceput in a-l integra si a-l utiliza intr-un **CronJob-PhP** care poate verifica ***zilnic*** site-ul nomenclatorului;
 Atunci cand apare o noua versiune a nomenclatorului, CronJob-ul PhP ar putea reincarca acest nou fisier in tabela **nom_SIRUTA** din baza de date ***MySQL*** **nomen** , inlocuindu-l pe cel vechi.
