@@ -229,7 +229,7 @@ Pentru cei care vor sa verifice [starea/statusul eFacturii](https://static.anaf.
 Daca doriti sa descarcati arhiva ZIP eFactura folosind API-ul ANAF cu autorizare OAuth2.0 din PhP puteti de asemena consulta aceasta pagina [**IAPP**](https://iapp.ro/articol/descarca-arhiva-zip-e-factura-folosind-api-anaf-php-oauth2); Daca doriti sa obtineti/generati un Token de la ANAF folosind un certificat digital abtinut anterior tot pentru programtorii PhP atunci puteti consulta aceasta pagin a Oauth2 de pe site-ul [**IAPP**](https://iapp.ro/articol/generare-token-anaf-folosind-certificat-digital-din-php-oauth2);
 
 **Remarca**:
-Dupa ce ati transmis o factura incercati sa va asigurati ca a fost expediata si receptionata la ANAF inainte de a o (**retransmite**](https://economie.hotnews.ro/stiri-finante-26816163-factura-ministerul-finantelor-anunta-succesul-5-milioane-facturi-expediate-nu-clar-daca-numarat-cele-dublate-triplate-etc.htm) (***n.r.** din nou)
+Dupa ce ati transmis o factura incercati sa va asigurati ca a fost expediata si receptionata la ANAF inainte de a o [**retransmite**](https://economie.hotnews.ro/stiri-finante-26816163-factura-ministerul-finantelor-anunta-succesul-5-milioane-facturi-expediate-nu-clar-daca-numarat-cele-dublate-triplate-etc.htm) (***n.r.** din nou)
 
 Pe github gasiti aceasta librarie **PhP** ce va ajuta sa generati o factura("[**Invoice**](https://github.com/pondersource/invoice-ubl)") in format UBL;
 
