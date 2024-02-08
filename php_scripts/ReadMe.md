@@ -17,7 +17,8 @@ Intrebarea, desi pe jumatate este totusi o intrebare;
 
 XML este o forma de prrzentare a datelor deci este un standard de prezentare(pana la urma si de stocare in container/fisier) a datelor;
 De ce spun ca este pe jumatate?
-Pentru ca in cadrul acestul XML se foloseste un alt standard de sintaxa a datelor si aici ma refer la UBL sau CII...
+Pentru ca in cadrul acestul XML se foloseste un alt standard de sintaxa a datelor specifice unei eFacturi(de fapt eInvoice pt ca este pt un format/standard extins la nivel international)  
+si aici ma refer la UBL sau CII...
 Deci standardul UBL sau CII este inclus sau gazduit de acest standard general XML.
 Nu a fost o explicatie prea academica dar sper sa fie utila unora mai practicieni(***n.r.*** ca mine)...
 De ce spun ca XML este general pt ca orice se prezinta sub forma(paradigma/modelul) <tag>...continut...</tag> este un XML(daca vreti si tot HTML-ul este un XML; adica HTML-ul este un XML particular pana la urma pt ca respecta paradigma/modelul de care vorbeam)
