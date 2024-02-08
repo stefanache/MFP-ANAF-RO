@@ -20,4 +20,6 @@ De ce spun ca este pe jumatate?
 Pentru ca in cadrul acestul XML se foloseste un alt standard de sintaxa a datelor si aici ma refer la UBL sau CII...
 Deci standardul UBL sau CII este inclus sau gazduit de acest standard general XML.
 Nu a fost o explicatie prea academica dar sper sa fie utila unora mai practicieni(***n.r.*** ca mine)...
+De ce spun ca XML este general pt ca orice se prezinta sub forma(paradigma/modelul) <tag>...continut...</tag> este un XML(daca vreti si tot HTML-ul este un XML; adica HTML-ul este un XML particular pana la urma pt ca respecta paradigma/modelul de care vorbeam)
+
 
