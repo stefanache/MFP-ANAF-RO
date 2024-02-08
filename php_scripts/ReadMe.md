@@ -13,11 +13,11 @@ Pe [ICEsoft](https://icesoft.ro/forum//index.php?topic=699.0) forum s-a postat o
 
 Ce este XML eFactura?
 
-Intrebarea desi pe jumatate este totusi o intrebare;
+Intrebarea, desi pe jumatate este totusi o intrebare;
 
 XML este o forma de prrzentare a datelor deci este un standard de prezentare(pana la urma si de stocare in container/fisier) a datelor;
 De ce spun ca este pe jumatate?
 Pentru ca in cadrul acestul XML se foloseste un alt standard de sintaxa a datelor si aici ma refer la UBL sau CII...
 Deci standardul UBL sau CII este inclus sau gazduit de acest standard general XML.
-Nu a fost o explicatie prea academica dar sper sa fie utila unora mai practicieni ca mine...
+Nu a fost o explicatie prea academica dar sper sa fie utila unora mai practicieni(***n.r.*** ca mine)...
 
