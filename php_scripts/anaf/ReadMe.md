@@ -228,6 +228,9 @@ Pentru a putea insa **transmite facturi** trebuie sa va autorizati mai intai/in 
 Pentru cei care vor sa verifice [starea/statusul eFacturii](https://static.anaf.ro/static/3/Galati/20231214122402_ajfpbrailaghid.pdf) din PhP privind procesarea [ANAF](https://www.anaf.ro/CompletareFactura/faces/factura/informatiigenerale.xhtml), pot consulta aceasta recomandare [***IAPP***](https://iapp.ro/articol/verifica-status-incarcare-factura-api-anaf-php-oauth2); 
 Daca doriti sa descarcati arhiva ZIP eFactura folosind API-ul ANAF cu autorizare OAuth2.0 din PhP puteti de asemena consulta aceasta pagina [**IAPP**](https://iapp.ro/articol/descarca-arhiva-zip-e-factura-folosind-api-anaf-php-oauth2); Daca doriti sa obtineti/generati un Token de la ANAF folosind un certificat digital abtinut anterior tot pentru programtorii PhP atunci puteti consulta aceasta pagin a Oauth2 de pe site-ul [**IAPP**](https://iapp.ro/articol/generare-token-anaf-folosind-certificat-digital-din-php-oauth2);
 
+**Remarca**:
+Dupa ce ati transmis o factura incercati sa va asigurati ca a fost expediata si receptionata la ANAF inainte de a o (**retransmite**](https://economie.hotnews.ro/stiri-finante-26816163-factura-ministerul-finantelor-anunta-succesul-5-milioane-facturi-expediate-nu-clar-daca-numarat-cele-dublate-triplate-etc.htm) (***n.r.** din nou)
+
 Pe github gasiti aceasta librarie **PhP** ce va ajuta sa generati o factura("[**Invoice**](https://github.com/pondersource/invoice-ubl)") in format UBL;
 
 Pentru a putea folosi [transformatorul oficial al ANAF](https://www.slideshare.net/geomexicanu1980/prezentare-api-efactura-1pdf)  **xml to pdf** al [eFactura](https://www.anaf.ro/CompletareFactura/faces/factura/informatiigenerale.xhtml) puteti citi acest [cod](https://happyweb.ro/articol/eroare-la-transformare-e-factura-din-xml-in-pdf) PhP
