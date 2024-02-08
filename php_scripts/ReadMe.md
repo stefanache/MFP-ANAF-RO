@@ -6,3 +6,4 @@ S-ar putea ca acest [cod](https://www.curs-valutar-bnr.ro/preluare-curs-valutar-
 E posibil ca acest curs sa fi folositor pentru [**eFactura**](/https://mfinante.gov.ro/static/10/eFactura/prezentare%20apeluri%20API%20E-factura.pdf) in valuta si in special pentru contabilitate
 Ca sa aveti o ***evidenta(adica sa stocati intr-o tabela dintr-o baza de date)*** a cursului valutar al unei **valute** pentru diverse date calendaristice(la acea **data calendaristica din factura**) probabil ca mult mai bine ar fi sa va stocati acest **curs** pentru acea valuta  intr-o [***tabela MySQL***](https://www.heliosdesign.ro/resurse/php/preluare-curs-valutar.htm)
 Daca vreti sa-l afisati pe site acest [**cod PhP**](https://www.endd.ro/curs-valutar-pe-site-ul-tau/) s-ar putea sa va ajute
+Daca aveti nevoie de **cURL** ca executabil ar fi bine sa-l [***instalati manual***](https://www.digitalocean.com/community/tutorials/workflow-downloading-files-curl)
