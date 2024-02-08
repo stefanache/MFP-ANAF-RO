@@ -11,7 +11,7 @@ Recomandarea mea este sa-l instalati si sa-l faceti cunoscut(pt a fi usor regasi
 
 Pe [ICEsoft](https://icesoft.ro/forum//index.php?topic=699.0) forum s-a postat candva o intrebare legitima in legatura cu [***eFactura***:](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/Ghid_RO_eFactura.pdf) 
 
-Ce este XML eFactura?
+Ce este **XML** [***eFactura***](https://mfinante.gov.ro/web/efactura/informatii-tehnice)?
 
 Intrebarea, desi pe jumatate este totusi o intrebare;
 
