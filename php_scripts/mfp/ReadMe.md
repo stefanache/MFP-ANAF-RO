@@ -19,4 +19,4 @@ C:\xampp\htdocs\gov> **composer require shuchkin/simplexlsx**
 
 Se presupune ca in prealabil ati instalat sau aveti deja instalat **composer**
 
-Pentru cei ce doresc [***informatii***](https://etransport.mfinante.gov.ro/informatii-tehnice) tehnice legate de **eTransport** le puteti gasi pe portalul **MFP**
+Pentru cei ce doresc [***informatii tehnice***](https://etransport.mfinante.gov.ro/informatii-tehnice) legate de **eTransport** le puteti gasi pe portalul **MFP**
