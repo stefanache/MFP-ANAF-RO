@@ -22,4 +22,4 @@ C:\xampp\htdocs\gov> **composer require shuchkin/simplexlsx**
 Se presupune ca in prealabil ati instalat sau aveti deja instalat **composer**
 
 
-Daca aveti nevoie de date complete despre o firma sau alta puteti utiliza setul de date [**ONRC**](https://data.gov.ro/dataset/firme-inregistrate-la-registrul-comertului-pana-la-data-de-07-ianuarie-2024)
+Daca aveti nevoie de date complete despre o firma sau alta(radiata ori neradiata cu sau fara sediu) puteti utiliza setul de date [**ONRC**](https://data.gov.ro/dataset/firme-inregistrate-la-registrul-comertului-pana-la-data-de-07-ianuarie-2024)
