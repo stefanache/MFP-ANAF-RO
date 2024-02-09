@@ -24,4 +24,6 @@ Se presupune ca in prealabil ati instalat sau aveti deja instalat **composer**
 
 Daca aveti nevoie de **date**(Denumire firmă, CUI, cod înmatriculare, județ, localitate, stare firmă cf. nomenclatorului de stari-firma) despre o **firma** sau alta(***radiata*** ori ***neradiata***, ***cu*** sau ***fara*** **sediu**) puteti utiliza setul de date publicat de catre [**ONRC**](https://www.onrc.ro/index.php/ro/inmatriculari/persoane-juridice) postat pe portalul [**data.gov.ro**](https://data.gov.ro/dataset/firme-inregistrate-la-registrul-comertului-pana-la-data-de-07-ianuarie-2024)
 
-Pentru a descarca [CAEN Rev.2](https://data.gov.ro/dataset/caen-clase-rev2) puteti utiliza acelasi portal. CAEN Rev.2 este clasificarea activităţilor economice corespunzătoare cu NACE Rev.2 (standard UE) şi ISIC Rev.4 (standard ONU) la nivel naţional. 
+Pentru a descarca [CAEN Rev.2](https://data.gov.ro/dataset/caen-clase-rev2) puteti utiliza acelasi portal. CAEN Rev.2 este clasificarea activităţilor economice corespunzătoare cu NACE Rev.2 (standard UE) şi ISIC Rev.4 (standard ONU) la nivel naţional.
+
+Daca doriti sa descarcati formulare cu care opereaza ONRC puteti sa accesati link-ul urmator: [**https://www.onrc.ro/index.php/ro/informatii-publice/formulare-tip***](https://www.onrc.ro/index.php/ro/informatii-publice/formulare-tip)
