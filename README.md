@@ -172,6 +172,7 @@ Aceste nomenclatoare se gasesc pe internet in documentatia ANAF/MFP/BNR/GOV..., 
    
     - [**https://mfinante.gov.ro/info-pj-selectie-nume-si-judet**](https://mfinante.gov.ro/info-pj-selectie-nume-si-judet)
     - [**https://mfinante.gov.ro/apps/numeCod.html?judet=40&name=BISERICA%20ORTODOXA%20ROMANA**](https://mfinante.gov.ro/apps/numeCod.html?judet=40&name=BISERICA%20ORTODOXA%20ROMANA)
+    - [**https://mfinante.gov.ro/apps/agenticod.html?cod=13446022**](https://mfinante.gov.ro/apps/agenticod.html?cod=13446022)
     - [**https://mfinante.gov.ro/apps/infocodfiscal.html?cod=13446022**](https://mfinante.gov.ro/apps/infocodfiscal.html?cod=13446022)
     - 
   ***Nota***: Uneori insa sau la inceput de sesiune-utilizator este probabil ca sa fie necesar  sa tastati codul **captcha***(captcha-code) pentru autorizarea accesului!
