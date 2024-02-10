@@ -41,13 +41,13 @@ For more details please **[contact me](mailto:ion.stefanache@yahoo.com)** on:
 
 </details>
 
-## **[ANAF](https://www.anaf.ro/anaf/internet/ANAF/asistenta_contribuabili/legislatie/codul_fiscal/) autoritate fiscala; Introducere, Nomenclatoare...**
+## **[ANAF](https://www.anaf.ro/anaf/internet/ANAF/asistenta_contribuabili/legislatie/codul_fiscal/) autoritate fiscala; Introducere, Nomenclatoare, Registre...**
 <details>
       
 Cateva informatii despre **inregistrarea fiscala** a unei firme/companii(**PJ**) puteti gasi si [**aici**](https://mfinante.gov.ro/persoane-juridice/informatii-fiscale-si-bilanturi) pe site-ul MFP;
 Lista **marilor contributori** si a celor **mijlocii** poate fi gasita [**aici**](https://www.anaf.ro/anaf/internet/ANAF/info_publice/info_interes_public/info_agenti_economici/liste.contrib.mari.mijlocii) pe site-ul ***ANAF***;
 
-Despre **formularele fiscale** puteti consulta aceasta [**pagina**](https://www.anaf.ro/anaf/internet/ANAF/asistenta_contribuabili/declararea_obligatiilor_fiscale/toate_formularele) de pe portalul ***ANAF***;
+Despre **formularele fiscale** puteti consulta aceasta [**pagina**](https://www.anaf.ro/anaf/internet/ANAF/asistenta_contribuabili/declararea_obligatiilor_fiscale/toate_formularele) de pe portalul [***ANAF***](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/toate_formularele_30032017.htm);
       
 Dar pentru inceput sa invatam din experienta altora... iar **motoarele de cautare**(carora le multumim!) sunt... cele mai bune prietene in aceasta speta :)*
 
@@ -148,6 +148,11 @@ Pentru generarea si validarea documentelor/rapoartelor fiscale pe care le veti t
 
 Aceste nomenclatoare se gasesc pe internet in documentatia ANAF/MFP/BNR/GOV..., in diverse tipuri/formate/containere [pdf](https://www.tatime.gov.al/shkarko.php?id=13418), [htm/html](https://lege5.ro/Gratuit/TrackChanges/geztanrsgmydq?type=1&by=geztcmrwgy3tm&d=20.12.2022), xml, [xlsx](https://ec.europa.eu/digital-building-blocks/wikis/download/attachments/467108974/EN16931%20code%20lists%20values%20used%20from%202020-11-15.xlsx?version=1&modificationDate=1639417211300&api=v2), csv, txt, [...](https://www.ditl3.ro/assets/clients/public/file/2023/contracte-facturi/Factura%20Apa%20Nova%2003.CL.2023.pdf) si, de la caz la caz, in limba romana si/sau limba engleza.
 
+***REGISTRE/Liste***
+ - [**Registrul contribuabililor inactivi sau reactivați**](https://www.anaf.ro/inactivi/)
+ - [**Registru TVA**](https://www.anaf.ro/RegistruTVA/)
+ - [**Registrul entitatilor de cult(Biserici si Lacasuri de Cult, ONG-uri,...**](https://www.anaf.ro/RegistrulEntitatilorUnitatilorCult/)
+ - 
 </details>
 
 ## 1. **[Factura electronica](https://www.contact.info.ro/ghid-e-factura-la-anaf/)** [eFactura](https://www.anaf.ro/anaf/internet/ANAF/despre_anaf/strategii_anaf/proiecte_digitalizare/e.factura):
