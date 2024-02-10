@@ -162,6 +162,7 @@ Aceste nomenclatoare se gasesc pe internet in documentatia ANAF/MFP/BNR/GOV..., 
  - [**Noua procedura de elib. a certif. de sediu social**](https://www.avocatnet.ro/articol_20217/Noua-procedura-de-solicitare-si-eliberare-a-certificatului-de-sediu-social-publicata-in-Monitorul-Oficial.html)
  - [**Catalogul serviciilor ANAF**](https://static.anaf.ro/static/10/Anaf/Informatii_R/Catalogul_serviciilor_ANAF_2023.pdf)
  - ...[infrastructura cloud guvernamental](https://www.adr.gov.ro/wp-content/uploads/2023/02/Proiect_Tehnic_I1_PNRR.pdf)
+ - ...[protectia dstelor](https://www.unicredit.ro/ro/persoane-fizice/Diverse/protectia-datelor.html)
    
 </details>
 
