@@ -225,7 +225,7 @@ Pentru cei grabiti [reddit](https://www.reddit.com/r/programare/comments/18c3bg8
 
 - 10. proiectul [OpenUBL]( https://gist.github.com/evervasquez/28ad8389396b4cea359ca20586a5343d): https://gist.github.com/evervasquez/28ad8389396b4cea359ca20586a5343d
 
-Totusi procesul de automatizare completa [***RO e-Factura***](https://www.fgo.ro/e-factura/) este unul [complex](https://efactura-etransport.fisc.ro/) si cuprinde cel putin urmatoarele [***etape***](https://www.smarttax.ro/efactura?gclid=CjwKCAiA2pyuBhBKEiwApLaIO1oZtIPwZxP5AnMYUCbVzXlhUlxIRkZ0PicLlBiogwr43LAooaWdOhoCKbAQAvD_BwE):
+Totusi procesul de [***automatizare***](https://www.fiscalitatea.ro/ro-e-transport-obligatii-noutati-in-2024-si-lista-produselor-vizate-23162/) completa [***RO e-Factura***](https://www.fgo.ro/e-factura/) este unul [complex](https://efactura-etransport.fisc.ro/) si cuprinde cel putin urmatoarele [***etape***](https://www.smarttax.ro/efactura?gclid=CjwKCAiA2pyuBhBKEiwApLaIO1oZtIPwZxP5AnMYUCbVzXlhUlxIRkZ0PicLlBiogwr43LAooaWdOhoCKbAQAvD_BwE):
 
  - emitere factura de catre/in calitate de vanzator/furnizor, 
  - trimitere în SPV ANAF, 
