@@ -162,9 +162,9 @@ Aceste nomenclatoare se gasesc pe internet in documentatia ANAF/MFP/BNR/GOV..., 
 
    Puteti utiliza direct verificarea unui **cod** ***CUI/CIF*** al unei firme, direct pe site-ul **ANAF** unde veti gasi informatii pretioase despre acea companie sau mai bune spus despre acea **persoana juridica(**PJ**):
 
-   [**https://mfinante.gov.ro/apps/infocodfiscal.html?cod=4331171**](https://mfinante.gov.ro/apps/infocodfiscal.html?cod=4331171)
-   [**https://mfinante.gov.ro/apps/infocodfiscal.html?cod=6859662**](https://mfinante.gov.ro/apps/infocodfiscal.html?cod=6859662)
-   [**https://mfinante.gov.ro/apps/infocodfiscal.html?cod=4267117**](https://mfinante.gov.ro/apps/infocodfiscal.html?cod=4267117)
+    - [**https://mfinante.gov.ro/apps/infocodfiscal.html?cod=4331171**](https://mfinante.gov.ro/apps/infocodfiscal.html?cod=4331171)
+    - [**https://mfinante.gov.ro/apps/infocodfiscal.html?cod=6859662**](https://mfinante.gov.ro/apps/infocodfiscal.html?cod=6859662)
+    - [**https://mfinante.gov.ro/apps/infocodfiscal.html?cod=4267117**](https://mfinante.gov.ro/apps/infocodfiscal.html?cod=4267117)
    
    Apoi puteti selecta un **an** pentru a afla si date de **bilant**!
    
