@@ -453,7 +453,10 @@ Un fisier Excel ofera informatii despre [structura eTransport](https://mfinante.
 
 Sunt multe [surse de informare](https://www.euload.com/blog.view.php?id=61) dar si multe modificari legislative si in cazul platformei eTransport.
 
+O **sinteza** legata de **eTransport** poate fi urmarite pe acest site al [**Euload**](https://www.euload.com/blog.view.php?id=61)
+
 Gasiti informatii utile legate de **eTransport** si pe acest site al [**DGAF**](http://www.antifrauda.ro/)
+
 
 </details>
 
