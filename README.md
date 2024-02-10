@@ -224,7 +224,13 @@ Pentru cei grabiti [reddit](https://www.reddit.com/r/programare/comments/18c3bg8
 - 09. exemplu catalan de [factura UBL2.1](https://gist.github.com/evervasquez/28ad8389396b4cea359ca20586a5343d): https://gist.github.com/evervasquez/28ad8389396b4cea359ca20586a5343d
 
 - 10. proiectul [OpenUBL]( https://gist.github.com/evervasquez/28ad8389396b4cea359ca20586a5343d): https://gist.github.com/evervasquez/28ad8389396b4cea359ca20586a5343d
-          
+
+Totusi procesul de automatizare completa [***RO e-Factura***](https://www.fgo.ro/e-factura/) este unul complex si cuprinde cel putin urmatoarele etape:
+      - emitere, 
+      - trimitere în SPV ANAF, 
+      - citire status, 
+      - primire recipisă și ...
+      - preluare e-Facturi de la furnizori.
 </details>
 
 [Prezinta](https://media.hotnews.ro/media_server1/document-2023-12-30-26789013-0-prezentare-factura.pdf) un deosebit [interes](https://www.youtube.com/watch?v=BkD_m5oncR8&ab_channel=MinisterulFinantelor) relativ la [facturarea electronica](https://mfinante.gov.ro/static/10/Mfp/ghidE-FACTURA.pdf) aceasta [prezentare ANAF a sistemului eFactura](https://mfinante.gov.ro/static/10/eFactura/PrezentareE-factura.pdf)
