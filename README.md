@@ -457,6 +457,8 @@ O **sinteza** legata de **eTransport** poate fi urmarite pe acest site al [**Eul
 
 Aici puteti gasi un [***material informativ ANAF***](https://static.anaf.ro/static/10/Iasi/material_informativ-1_18-04-2022.pdf) privind **eTransport**;
 
+Si pe forumul [**HotFox**](https://hotfox.ro/forum/viewtopic.php?t=29&start=10) gasiti o discutie interesanta despre documentul ***xml eTransport***;
+
 Gasiti informatii utile legate de **eTransport** si pe acest site al [**DGAF**](http://www.antifrauda.ro/)
 
 
