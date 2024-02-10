@@ -156,6 +156,7 @@ Aceste nomenclatoare se gasesc pe internet in documentatia ANAF/MFP/BNR/GOV..., 
  - [**Registrul entitatilor de cult(Biserici si Lacasuri de Cult, ONG-uri,...**](https://www.anaf.ro/RegistrulEntitatilorUnitatilorCult/)
  - [**Info PJ**](https://mfinante.gov.ro/info-pj-selectie-nume-si-judet)
  - [**Noua procedura de elib. a certif. de sediu social**](https://www.avocatnet.ro/articol_20217/Noua-procedura-de-solicitare-si-eliberare-a-certificatului-de-sediu-social-publicata-in-Monitorul-Oficial.html)
+ - [**Catalogul serviciilor ANAF**](https://static.anaf.ro/static/10/Anaf/Informatii_R/Catalogul_serviciilor_ANAF_2023.pdf)
  - 
 </details>
 
