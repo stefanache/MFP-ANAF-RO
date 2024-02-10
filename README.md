@@ -452,6 +452,9 @@ ori pe site-ul MFP [informatii tehnice MFP eTransport](https://etransport.mfinan
 Un fisier Excel ofera informatii despre [structura eTransport](https://mfinante.gov.ro/static/10/Mfp/structura_eTransport_25032022.xls)
 
 Sunt multe [surse de informare](https://www.euload.com/blog.view.php?id=61) dar si multe modificari legislative si in cazul platformei eTransport.
+
+Gasiti informatii utile legate de **eTransport** si pe acest site al [**DGAF**](http://www.antifrauda.ro/)
+
 </details>
 
  ## 4. [**Declaratii; Impozitul pe Venit ori pe Profit, TVA, Accize,...**](https://static.anaf.ro/static/10/Anaf/Contribuabili/scurt_ghid.htm)
