@@ -168,7 +168,8 @@ Aceste nomenclatoare se gasesc pe internet in documentatia ANAF/MFP/BNR/GOV..., 
    
    Apoi puteti selecta un **an** pentru a afla si date de **bilant**!
 
-   Daca nu cunoasteti CUI/CIF-ul dar cunoasteti in schimb numele si judetul atunci puteti utiliza acest link:
+   Daca nu cunoasteti codul(CUI/CIF-ul) dar cunoasteti in schimb **numele** si **judetul** atunci puteti utiliza/incerca acest link mai intai o preselectie pentru a putea gasi **cod**-ul respectiv:
+   
     - [**https://mfinante.gov.ro/info-pj-selectie-nume-si-judet**](https://mfinante.gov.ro/info-pj-selectie-nume-si-judet)
     - [**https://mfinante.gov.ro/apps/numeCod.html?judet=40&name=BISERICA%20ORTODOXA%20ROMANA**](https://mfinante.gov.ro/apps/numeCod.html?judet=40&name=BISERICA%20ORTODOXA%20ROMANA)
     - [**https://mfinante.gov.ro/apps/infocodfiscal.html?cod=13446022**](https://mfinante.gov.ro/apps/infocodfiscal.html?cod=13446022)
