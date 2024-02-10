@@ -160,13 +160,13 @@ Aceste nomenclatoare se gasesc pe internet in documentatia ANAF/MFP/BNR/GOV..., 
  - [**Registrul agricultorilor**](https://www.anaf.ro/anaf/internet/ANAF/servicii_online/servicii_web_anaf/!ut/p/a1/lZFNT8MwDIZ_C4ccabxW_YBbJujHYGwddOtyqdIp6yKVdErTVfx72h346GADn2zref3KNqY4xVSygyiYFpVkZV9TJwtHoROanjmBheVBbI_9-_HNMwQztwPW34Awhh6IFnYwB3ixBnrLcyF2l3eBH9kjAOeCvgP-pIdfgsB__U-AC_uvMB1azAnEj1OYmdMH6zhhAJye6CzwMeHMkhNMi7LKjw9bE5lbXoGp4luuuDIa1bV3Wu_rWwQI2rY1mGRbQ1UI-gSBkJoryTUC8kR8BDVXB7ERIqtkKSRHoHghaq0-s6bMuM82ulHsJ8tdVWucfnHC-9ckSVIQ0TXN31py9Q5RJY-7/dl5/d5/L2dBISEvZ0FBIS9nQSEh/)
  - [**Info PJ**](https://mfinante.gov.ro/info-pj-selectie-nume-si-judet) - cautare regasita pe pagina [***MFP***](https://mfinante.gov.ro/apps/agenticod.html?pagina=domenii); a se vedea si [Inreg. **PJ** la ***ANAF***](https://www.anaf.ro/InregPersFizicePublic/formularjuridice.jsp)
 
-   Puteti utiliza direct verificarea unui cod ***CUI/CIF*** direct pe site-ul ANAF unde veti gasi informatii pretioase despre o firma/companie sau mai bune spus despre o **persoana juridica(**PJ**):
+   Puteti utiliza direct verificarea unui **cod** ***CUI/CIF*** al unei firme, direct pe site-ul **ANAF** unde veti gasi informatii pretioase despre acea companie sau mai bune spus despre acea **persoana juridica(**PJ**):
 
-               https://mfinante.gov.ro/apps/infocodfiscal.html?cod=4331171
-               https://mfinante.gov.ro/apps/infocodfiscal.html?cod=6859662
-               https://mfinante.gov.ro/apps/infocodfiscal.html?cod=4267117
+   [**https://mfinante.gov.ro/apps/infocodfiscal.html?cod=4331171**](https://mfinante.gov.ro/apps/infocodfiscal.html?cod=4331171)
+   [**https://mfinante.gov.ro/apps/infocodfiscal.html?cod=6859662**](https://mfinante.gov.ro/apps/infocodfiscal.html?cod=6859662)
+   [**https://mfinante.gov.ro/apps/infocodfiscal.html?cod=4267117**](https://mfinante.gov.ro/apps/infocodfiscal.html?cod=4267117)
    
-   Apoi puteti selecta un an pentru a afla si date de bilant!
+   Apoi puteti selecta un **an** pentru a afla si date de **bilant**!
    
  - [**Noua procedura de elib. a certif. de sediu social**](https://www.avocatnet.ro/articol_20217/Noua-procedura-de-solicitare-si-eliberare-a-certificatului-de-sediu-social-publicata-in-Monitorul-Oficial.html)
  - [**Catalogul serviciilor ANAF**](https://static.anaf.ro/static/10/Anaf/Informatii_R/Catalogul_serviciilor_ANAF_2023.pdf)
