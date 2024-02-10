@@ -148,10 +148,14 @@ Pentru generarea si validarea documentelor/rapoartelor fiscale pe care le veti t
 
 Aceste nomenclatoare se gasesc pe internet in documentatia ANAF/MFP/BNR/GOV..., in diverse tipuri/formate/containere [pdf](https://www.tatime.gov.al/shkarko.php?id=13418), [htm/html](https://lege5.ro/Gratuit/TrackChanges/geztanrsgmydq?type=1&by=geztcmrwgy3tm&d=20.12.2022), xml, [xlsx](https://ec.europa.eu/digital-building-blocks/wikis/download/attachments/467108974/EN16931%20code%20lists%20values%20used%20from%202020-11-15.xlsx?version=1&modificationDate=1639417211300&api=v2), csv, txt, [...](https://www.ditl3.ro/assets/clients/public/file/2023/contracte-facturi/Factura%20Apa%20Nova%2003.CL.2023.pdf) si, de la caz la caz, in limba romana si/sau limba engleza.
 
-***REGISTRE/Liste***
+***REGISTRE,Liste,Proceduri,Informatii***
+ - [**Registrul Comertului(ONRC)**](https://www.onrc.ro/index.php/ro/); [***L.priv.inreg. PJ online la ONRC***](https://contabilul.manager.ro/a/26974/legea-privind-registrul-comertului-actul-constitutiv-se-poate-intocmi-online-iar-procedura-de-inregistrare-va-fi-mai-simpla.html)
+ - ...registre gestionate de [MFP/ANAF](https://static.anaf.ro/static/10/Galati/Vrancea/buletin-informativ-2016.pdf):
  - [**Registrul contribuabililor inactivi sau reactivați**](https://www.anaf.ro/inactivi/)
  - [**Registru TVA**](https://www.anaf.ro/RegistruTVA/)
  - [**Registrul entitatilor de cult(Biserici si Lacasuri de Cult, ONG-uri,...**](https://www.anaf.ro/RegistrulEntitatilorUnitatilorCult/)
+ - [**Info PJ**](https://mfinante.gov.ro/info-pj-selectie-nume-si-judet)
+ - [**Noua procedura de elib. a certif. de sediu social**](https://www.avocatnet.ro/articol_20217/Noua-procedura-de-solicitare-si-eliberare-a-certificatului-de-sediu-social-publicata-in-Monitorul-Oficial.html)
  - 
 </details>
 
