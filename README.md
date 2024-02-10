@@ -12,8 +12,7 @@
 
 You can https://www.buymeacoffee.com/stefanache... Thanks
 
-## **[Contact me](https://www.facebook.com/ion.stefanache.3)**
-<details>
+## **[Contact me](https://www.facebook.com/ion.stefanache.3)** <details>
   
 <br/>
   
