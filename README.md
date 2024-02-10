@@ -43,9 +43,10 @@ For more details please **[contact me](mailto:ion.stefanache@yahoo.com)** on:
 
 ## **[ANAF](https://www.anaf.ro/anaf/internet/ANAF/asistenta_contribuabili/legislatie/codul_fiscal/) autoritate fiscala; Introducere, Nomenclatoare...**
 <details>
+      
 Cateva informatii despre inregistrarea fiscala a unei firme/companii(PJ) puteti gasi si [**aici**](https://mfinante.gov.ro/persoane-juridice/informatii-fiscale-si-bilanturi) pe site-ul ANAF
       
-*Dar pentru inceput sa invatam din experienta altora... iar **motoarele de cautare**(carora le multumim!) sunt... cele mai bune prietene in aceasta speta :)*
+Dar pentru inceput sa invatam din experienta altora... iar **motoarele de cautare**(carora le multumim!) sunt... cele mai bune prietene in aceasta speta :)*
 
   [ANAF](https://www.anaf.ro/) sub egida [MFP](https://mfinante.gov.ro/domenii) pune la dispozitie aceasta [pagina](https://docs.peppol.eu/poacc/billing/3.0/rules/ubl-tc434/BR-CO-09/) despre/pentru [serviciile](https://mfinante.gov.ro/static/10/eFactura/prezentare%20api%20efactura.pdf) sale [web/online](https://lege5.ro/App/Document/geztanrsgmydq/ordinul-nr-4092-2022-pentru-modificarea-specificatiilor-tehnice-si-de-utilizare-a-elementelor-de-baza-ale-facturii-electronice-rocius-si-a-regulilor-operationale-specifice-aplicabile-la-nivel-national): [servicii web ANAF](https://www.anaf.ro/anaf/internet/ANAF/servicii_online/servicii_web_anaf)
 
