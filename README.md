@@ -562,6 +562,8 @@ Si despre EDI ar fi multe de spus dar as puncta doar faptul ca in tranzactiile E
 
 La ora scrierii acestui document(2023-2024) cel mai discutat subiect ramane cel al [e-Facturii B2B](https://mfinante.gov.ro/static/10/eFactura/prezentare%20apeluri%20API%20E-factura.pdf)
 
+Este posibil ca uneori sa fiti nevoiti sa solicitati documente de la ANAF. Inainte de acest demers poate fi util sa studiati si acest [**Ghid priv. acte justif. nec. elib. div.ctg. de doc. sol.de catre contrib.-PF**](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/GHID_acte_justificative_2021_PF.pdf)
+
 Daca aveti intrebari/nelamuriri sau doriti sa sustineti ori sa colaboram in vederea dezvoltarii unei aplicatii specifice ANAF/MFP, 
 
 va rog, [nu ezitati](https://docs.peppol.eu/poacc/billing/3.0/rules/ubl-tc434/BR-CO-09/) sa ma contactati via email:  ion.stefanache@yahoo.com
