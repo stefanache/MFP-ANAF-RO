@@ -23,4 +23,6 @@ Deci standardul UBL sau CII este inclus sau gazduit de acest standard general XM
 Nu a fost o explicatie prea academica dar sper sa fie utila unora mai practicieni(***n.r.*** ca mine)...
 De ce spun ca XML este general pt ca orice se prezinta sub forma(paradigma/modelul) <tag>...continut...</tag> este un XML(daca vreti si tot HTML-ul este un XML; adica HTML-ul este un XML particular pana la urma pt ca respecta paradigma/modelul de care vorbeam)
 
+Daca aveti nevoie de informatii privind [**Sedii DGRFP**](https://www.anaf.ro/anaf/internet/ANAF/contact/adrese_unitati_fiscale), adica adresele unitatilor fiscale, puteti cauta pe site-ul ***ANAF***
+
 
