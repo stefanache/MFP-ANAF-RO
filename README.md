@@ -229,7 +229,7 @@ Totusi procesul de automatizare completa [***RO e-Factura***](https://www.fgo.ro
 
  - emitere factura de catre/in calitate de vanzator/furnizor, 
  - trimitere în SPV ANAF, 
- - citire status, 
+ - citire stare document transmis(eng. "status"),
  - primire recipisă și ...
  - in calitate cumparator, preluare e-Facturi de la terti furnizori.
  - 
