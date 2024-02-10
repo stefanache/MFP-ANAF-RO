@@ -150,7 +150,7 @@ Aceste nomenclatoare se gasesc pe internet in documentatia ANAF/MFP/BNR/GOV..., 
 
 ***REGISTRE,Liste,Proceduri,Informatii***
  - [**Registrul Comertului(ONRC)**](https://www.onrc.ro/index.php/ro/); [***L.priv.inreg. PJ online la ONRC***](https://contabilul.manager.ro/a/26974/legea-privind-registrul-comertului-actul-constitutiv-se-poate-intocmi-online-iar-procedura-de-inregistrare-va-fi-mai-simpla.html)
- - ...registre gestionate de [MFP/ANAF](https://static.anaf.ro/static/10/Galati/Vrancea/buletin-informativ-2016.pdf):
+ - ...registre gestionate de [MFP/ANAF](https://static.anaf.ro/static/10/Galati/Vrancea/buletin-informativ-2016.pdf); [Registre de evidenta fiscala](https://www.avocatnet.ro/t2066/registru-de-evidenta-fiscala.html):
  - [**Registrul contribuabililor inactivi sau reactivați**](https://www.anaf.ro/inactivi/)
  - [**Registru TVA**](https://www.anaf.ro/RegistruTVA/)
  - [**Registrul entitatilor de cult(Biserici si Lacasuri de Cult, ONG-uri,...**](https://www.anaf.ro/RegistrulEntitatilorUnitatilorCult/)
