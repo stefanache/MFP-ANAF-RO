@@ -455,6 +455,8 @@ Sunt multe [surse de informare](https://www.euload.com/blog.view.php?id=61) dar 
 
 O **sinteza** legata de **eTransport** poate fi urmarite pe acest site al [**Euload**](https://www.euload.com/blog.view.php?id=61)
 
+Aici puteti gasi un [***material informativ ANAF***](https://static.anaf.ro/static/10/Iasi/material_informativ-1_18-04-2022.pdf) privind **eTransport**;
+
 Gasiti informatii utile legate de **eTransport** si pe acest site al [**DGAF**](http://www.antifrauda.ro/)
 
 
