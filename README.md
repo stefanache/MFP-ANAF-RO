@@ -44,7 +44,9 @@ For more details please **[contact me](mailto:ion.stefanache@yahoo.com)** on:
 ## **[ANAF](https://www.anaf.ro/anaf/internet/ANAF/asistenta_contribuabili/legislatie/codul_fiscal/) autoritate fiscala; Introducere, Nomenclatoare...**
 <details>
       
-Cateva informatii despre inregistrarea fiscala a unei firme/companii(PJ) puteti gasi si [**aici**](https://mfinante.gov.ro/persoane-juridice/informatii-fiscale-si-bilanturi) pe site-ul MFP
+Cateva informatii despre **inregistrarea fiscala** a unei firme/companii(**PJ**) puteti gasi si [**aici**](https://mfinante.gov.ro/persoane-juridice/informatii-fiscale-si-bilanturi) pe site-ul MFP;
+
+Despre **formularele fiscale** puteti consulta aceasta [**pagina**](https://www.anaf.ro/anaf/internet/ANAF/asistenta_contribuabili/declararea_obligatiilor_fiscale/toate_formularele) de pe portalul ***ANAF***;
       
 Dar pentru inceput sa invatam din experienta altora... iar **motoarele de cautare**(carora le multumim!) sunt... cele mai bune prietene in aceasta speta :)*
 
