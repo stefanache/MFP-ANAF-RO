@@ -160,7 +160,7 @@ Aceste nomenclatoare se gasesc pe internet in documentatia ANAF/MFP/BNR/GOV..., 
  - [**Registrul agricultorilor**](https://www.anaf.ro/anaf/internet/ANAF/servicii_online/servicii_web_anaf/!ut/p/a1/lZFNT8MwDIZ_C4ccabxW_YBbJujHYGwddOtyqdIp6yKVdErTVfx72h346GADn2zref3KNqY4xVSygyiYFpVkZV9TJwtHoROanjmBheVBbI_9-_HNMwQztwPW34Awhh6IFnYwB3ixBnrLcyF2l3eBH9kjAOeCvgP-pIdfgsB__U-AC_uvMB1azAnEj1OYmdMH6zhhAJye6CzwMeHMkhNMi7LKjw9bE5lbXoGp4luuuDIa1bV3Wu_rWwQI2rY1mGRbQ1UI-gSBkJoryTUC8kR8BDVXB7ERIqtkKSRHoHghaq0-s6bMuM82ulHsJ8tdVWucfnHC-9ckSVIQ0TXN31py9Q5RJY-7/dl5/d5/L2dBISEvZ0FBIS9nQSEh/)
  - [**Info PJ**](https://mfinante.gov.ro/info-pj-selectie-nume-si-judet) - cautare regasita pe pagina [***MFP***](https://mfinante.gov.ro/apps/agenticod.html?pagina=domenii); a se vedea si [Inreg. **PJ** la ***ANAF***](https://www.anaf.ro/InregPersFizicePublic/formularjuridice.jsp)
 
-   Puteti utiliza direct verificarea unui **cod** ***CUI/CIF*** al unei firme, direct pe site-ul **ANAF** unde veti gasi informatii pretioase despre acea companie sau mai bune spus despre acea **persoana juridica(**PJ**):
+   Puteti utiliza direct verificarea unui **cod** ***CUI/CIF*** al unei firme, direct pe site-ul **ANAF** unde veti gasi [informatii pretioase](https://mfinante.gov.ro/apps/infocodfiscal.html) despre acea companie sau mai bune spus despre acea **persoana juridica(**PJ**):
 
     - [**https://mfinante.gov.ro/apps/infocodfiscal.html?cod=4331171**](https://mfinante.gov.ro/apps/infocodfiscal.html?cod=4331171)
     - [**https://mfinante.gov.ro/apps/infocodfiscal.html?cod=6859662**](https://mfinante.gov.ro/apps/infocodfiscal.html?cod=6859662)
@@ -168,7 +168,7 @@ Aceste nomenclatoare se gasesc pe internet in documentatia ANAF/MFP/BNR/GOV..., 
    
    Apoi puteti selecta un **an** pentru a afla si date de **bilant**!
 
-   Daca nu cunoasteti codul(CUI/CIF-ul) dar cunoasteti in schimb **numele** si **judetul** atunci puteti utiliza/incerca acest link mai intai o preselectie pentru a putea gasi **cod**-ul respectiv:
+   Daca nu cunoasteti codul(CUI/CIF-ul) dar cunoasteti in schimb **numele** si **judetul** atunci puteti utiliza/incerca acest [link](https://mfinante.gov.ro/info-pj-selectie-nume-si-judet) mai intai o preselectie pentru a putea gasi **cod**-ul respectiv:
    
     - [**https://mfinante.gov.ro/info-pj-selectie-nume-si-judet**](https://mfinante.gov.ro/info-pj-selectie-nume-si-judet)
     - [**https://mfinante.gov.ro/apps/numeCod.html?judet=40&name=BISERICA%20ORTODOXA%20ROMANA**](https://mfinante.gov.ro/apps/numeCod.html?judet=40&name=BISERICA%20ORTODOXA%20ROMANA)
