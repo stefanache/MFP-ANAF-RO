@@ -178,9 +178,11 @@ Aceste nomenclatoare se gasesc pe internet in documentatia ANAF/MFP/BNR/GOV..., 
 
    - daca doriti informatii despre un agent de ***asigurare/reasigurare*** ar trebui sa consultati site-ul [**ASF**](https://www.asfromania.ro/) 
 
-  Aceste informatii sunt deosebit de utile pentru aplicatiile ANAF [**eFactura**](https://www.anaf.ro/CompletareFactura/faces/factura/informatiigenerale.xhtml),[**eTransport**](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/Ro_e_Transport.pdf),...
+     Aceste informatii sunt deosebit de utile pentru aplicatiile ANAF [**eFactura**](https://www.anaf.ro/CompletareFactura/faces/factura/informatiigenerale.xhtml),[**eTransport**](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/Ro_e_Transport.pdf),...
   
-  ***Nota***: Uneori insa sau la inceput de sesiune-utilizator este probabil ca sa fie necesar  sa tastati codul **captcha***(captcha-code) pentru autorizarea accesului!
+     ***Nota***:
+
+     Uneori insa sau la inceput de sesiune-utilizator este probabil ca sa fie necesar  sa tastati codul **captcha***(captcha-code) pentru autorizarea accesului!
   
  - [**Noua procedura de elib. a certif. de sediu social**](https://www.avocatnet.ro/articol_20217/Noua-procedura-de-solicitare-si-eliberare-a-certificatului-de-sediu-social-publicata-in-Monitorul-Oficial.html)
  - [**Catalogul serviciilor ANAF**](https://static.anaf.ro/static/10/Anaf/Informatii_R/Catalogul_serviciilor_ANAF_2023.pdf)
