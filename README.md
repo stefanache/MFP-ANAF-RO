@@ -177,6 +177,8 @@ Aceste nomenclatoare se gasesc pe internet in documentatia ANAF/MFP/BNR/GOV..., 
     - [**https://mfinante.gov.ro/apps/pjuridice.html**](https://mfinante.gov.ro/apps/pjuridice.html)
 
    - daca doriti informatii despre un agent de ***asigurare/reasigurare*** ar trebui sa consultati site-ul [**ASF**](https://www.asfromania.ro/) 
+
+  Aceste informatii sunt deosebit de utile pentru aplicatiile ANAF [**eFactura**](https://www.anaf.ro/CompletareFactura/faces/factura/informatiigenerale.xhtml),[**eTransport**](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/Ro_e_Transport.pdf),...
   
   ***Nota***: Uneori insa sau la inceput de sesiune-utilizator este probabil ca sa fie necesar  sa tastati codul **captcha***(captcha-code) pentru autorizarea accesului!
   
