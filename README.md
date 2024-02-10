@@ -166,7 +166,7 @@ Aceste nomenclatoare se gasesc pe internet in documentatia ANAF/MFP/BNR/GOV..., 
                https://mfinante.gov.ro/apps/infocodfiscal.html?cod=6859662
                https://mfinante.gov.ro/apps/infocodfiscal.html?cod=4267117
    
-   Aceste informatii HTML pot fi preluate/utilizate in codul de backend(PhP,NodeJS,ASP,JSP,C#,Python...) si analizate("parsate") pentru a fi utilizate mai apoi sa spunem in generarea xml-ului aferent eFactura;
+   Apoi puteti selecta un an pentru a afla si date de bilant!
    
  - [**Noua procedura de elib. a certif. de sediu social**](https://www.avocatnet.ro/articol_20217/Noua-procedura-de-solicitare-si-eliberare-a-certificatului-de-sediu-social-publicata-in-Monitorul-Oficial.html)
  - [**Catalogul serviciilor ANAF**](https://static.anaf.ro/static/10/Anaf/Informatii_R/Catalogul_serviciilor_ANAF_2023.pdf)
