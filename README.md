@@ -443,7 +443,7 @@ Ca si in cazul [eFactura](https://mfinante.gov.ro/static/10/eFactura/prezentare%
 
 In general pentru informare ANAF(RO-CIUS, XSD-uri,formulare,...) puteti folosi [motorul de cautare ANAF](https://www.anaf.ro/anaf/internet/ANAF/cautare/)
 
-Spre exemplu, daca folosim cautatorul website-ului ANAF putem gasi pe site-ul ANAF: [informatii ANAF eTransport](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/Ro_e_Transport.pdf)
+Spre [exemplu](http://www.antifrauda.ro/Clarific%C4%83ri-RO-e-Transport-c-51.html), daca folosim cautatorul website-ului ANAF putem gasi pe site-ul ANAF: [informatii ANAF eTransport](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/Ro_e_Transport.pdf)
 
 ori pe site-ul MFP [informatii tehnice MFP eTransport](https://etransport.mfinante.gov.ro/informatii-tehnice)
 
