@@ -163,8 +163,10 @@ Aceste nomenclatoare se gasesc pe internet in documentatia ANAF/MFP/BNR/GOV..., 
    Puteti utiliza direct verificarea unui cod ***CUI/CIF*** direct pe site-ul ANAF unde veti gasi informatii pretioase despre o firma/companie sau mai bune spus despre o **persoana juridica(**PJ**):
 
                https://mfinante.gov.ro/apps/infocodfiscal.html?cod=4331171
+               https://mfinante.gov.ro/apps/infocodfiscal.html?cod=6859662
+               https://mfinante.gov.ro/apps/infocodfiscal.html?cod=4267117
    
-   Aceste informatii pot fi preluate in cod si analizate("parsate") pentru a fi utilizate mai apoi sa spunem in generarea xml-ului aferent eFactura;
+   Aceste informatii HTML pot fi preluate/utilizate in codul de backend(PhP,NodeJS,ASP,JSP,C#,Python...) si analizate("parsate") pentru a fi utilizate mai apoi sa spunem in generarea xml-ului aferent eFactura;
    
  - [**Noua procedura de elib. a certif. de sediu social**](https://www.avocatnet.ro/articol_20217/Noua-procedura-de-solicitare-si-eliberare-a-certificatului-de-sediu-social-publicata-in-Monitorul-Oficial.html)
  - [**Catalogul serviciilor ANAF**](https://static.anaf.ro/static/10/Anaf/Informatii_R/Catalogul_serviciilor_ANAF_2023.pdf)
