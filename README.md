@@ -400,7 +400,7 @@ Ulterior poteti folosi [generarea online a facturii in format PDF](https://www.a
 
 Dat fiind faptul ca avem un [context foarte volatil](https://devforum.ro/t/generare-efactura/19531) legat de aceasta activitate de raportare/control fiscal uneori vedem cum anumiti agenti/jucatori din sfera economicului dedica spatii ample transformand site-urile lor in adevarate [surse de stiri](https://www.cabinetexpert.ro/2024-01-05/declaratii-fiscale-cu-termen-limita-de-depunere-in-luna-ianuarie-2024-declaratii-obligatii-fiscale-pentru-luna-12-2023-trim-4-2023-si-anuale-2023.html)
 
-Pentru cei interesati de sistemul e-Factura din Rep. Moldova veti gasi pe site-ul [SFS](https://sfs.md/uploads/document/171/document/ghidul-utilizatorului-si-e-factura-616d032e9d05e.pdf) acest ghid.
+Pentru cei interesati de sistemul [***e-Factura***](https://hotfox.ro/forum/viewforum.php?f=2) din Rep. Moldova veti gasi pe site-ul [SFS](https://sfs.md/uploads/document/171/document/ghidul-utilizatorului-si-e-factura-616d032e9d05e.pdf) acest ghid.
 
 </details>
 
