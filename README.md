@@ -174,7 +174,7 @@ Aceste nomenclatoare se gasesc pe internet in documentatia ANAF/MFP/BNR/GOV..., 
     - [**https://mfinante.gov.ro/apps/numeCod.html?judet=40&name=BISERICA%20ORTODOXA%20ROMANA**](https://mfinante.gov.ro/apps/numeCod.html?judet=40&name=BISERICA%20ORTODOXA%20ROMANA)
     - [**https://mfinante.gov.ro/apps/agenticod.html?cod=13446022**](https://mfinante.gov.ro/apps/agenticod.html?cod=13446022)
     - [**https://mfinante.gov.ro/apps/infocodfiscal.html?cod=13446022**](https://mfinante.gov.ro/apps/infocodfiscal.html?cod=13446022)
-    - 
+    - [**https://mfinante.gov.ro/apps/pjuridice.html**](https://mfinante.gov.ro/apps/pjuridice.html)
   ***Nota***: Uneori insa sau la inceput de sesiune-utilizator este probabil ca sa fie necesar  sa tastati codul **captcha***(captcha-code) pentru autorizarea accesului!
   
  - [**Noua procedura de elib. a certif. de sediu social**](https://www.avocatnet.ro/articol_20217/Noua-procedura-de-solicitare-si-eliberare-a-certificatului-de-sediu-social-publicata-in-Monitorul-Oficial.html)
