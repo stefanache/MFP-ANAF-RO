@@ -161,7 +161,8 @@ Aceste nomenclatoare se gasesc pe internet in documentatia ANAF/MFP/BNR/GOV..., 
  - [**Info PJ**](https://mfinante.gov.ro/info-pj-selectie-nume-si-judet); a se vedea si [Inreg. PJ la ANAF](https://www.anaf.ro/InregPersFizicePublic/formularjuridice.jsp)
  - [**Noua procedura de elib. a certif. de sediu social**](https://www.avocatnet.ro/articol_20217/Noua-procedura-de-solicitare-si-eliberare-a-certificatului-de-sediu-social-publicata-in-Monitorul-Oficial.html)
  - [**Catalogul serviciilor ANAF**](https://static.anaf.ro/static/10/Anaf/Informatii_R/Catalogul_serviciilor_ANAF_2023.pdf)
- - 
+ - ...[infrastructura cloud guvernamental](https://www.adr.gov.ro/wp-content/uploads/2023/02/Proiect_Tehnic_I1_PNRR.pdf)
+   
 </details>
 
 ## 1. **[Factura electronica](https://www.contact.info.ro/ghid-e-factura-la-anaf/)** [eFactura](https://www.anaf.ro/anaf/internet/ANAF/despre_anaf/strategii_anaf/proiecte_digitalizare/e.factura):
