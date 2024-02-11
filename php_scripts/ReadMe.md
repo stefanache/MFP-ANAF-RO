@@ -25,4 +25,4 @@ De ce spun ca XML este general pt ca orice se prezinta sub forma(paradigma/model
 
 Daca aveti nevoie de informatii privind [**Sedii DGRFP**](https://www.anaf.ro/anaf/internet/ANAF/contact/adrese_unitati_fiscale), adica adresele unitatilor fiscale, puteti cauta pe site-ul ***ANAF***
 
-
+Pentru cei care doresc sa-si construiasca propriul generator ***xml eFactura*** programatic utilizand limbajul **PhP** probabil ca ar fi util ca in prealabil sa aruncati o privire catre depozitul [***danielgp/eFactura***](https://github.com/danielgp/eFactura/tree/main)
