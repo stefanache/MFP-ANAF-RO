@@ -13,15 +13,15 @@ Pe [ICEsoft](https://icesoft.ro/forum//index.php?topic=699.0) forum s-a postat c
 
 Ce este **XML** [***eFactura***](https://mfinante.gov.ro/web/efactura/informatii-tehnice)?
 
-Intrebarea, desi pe jumatate este totusi o intrebare;
+Intrebarea, desi pe ***jumatate*** pusa este totusi o intrebare;
 
-XML este o forma de prrzentare a datelor deci este un standard de prezentare(pana la urma si de stocare in container/fisier) a datelor;
-De ce spun ca este pe jumatate?
-Pentru ca in cadrul acestul XML se foloseste un alt standard de sintaxa a datelor specifice unei eFacturi(de fapt eInvoice pt ca este pt un format/standard extins la nivel international)  
-si aici ma refer la UBL sau CII...
-Deci standardul UBL sau CII este inclus sau gazduit de acest standard general XML.
+**XML** este o forma de prezentare a datelor deci este un standard de prezentare(pana la urma si de stocare in container/fisier) a datelor;
+De ce spun ca este pe ***jumatate*** pusa intrebarea?
+Pentru ca in cadrul acestul **XML** se foloseste un alt standard de sintaxa a datelor specifice unei ***eFacturi***(de fapt **eInvoice** pt ca este pt un format/standard extins la nivel international)  
+si aici ma refer la **UBL** ori **CII**...
+Deci standardul **UBL** sau **CII** este inclus(sau gazduit) de acest standard ***general*** **XML**.
 Nu a fost o explicatie prea academica dar sper sa fie utila unora mai practicieni(***n.r.*** ca mine)...
-De ce spun ca XML este general pt ca orice se prezinta sub forma(paradigma/modelul) <tag>...continut...</tag> este un XML(daca vreti si tot HTML-ul este un XML; adica HTML-ul este un XML particular pana la urma pt ca respecta paradigma/modelul de care vorbeam)
+De ce spun ca XML este un standard general/comun ? ... pt ca orice se prezinta sub forma(***paradigma/modelul***) **<tag>**...***continut***...**</tag>** este un format **XML**(daca vreti si continutul unui fisier  **HTML** este un **XML**...cu ata mai mult un ***XHTML***; adica **HTML**-ul este in particular, daca vreti/pana la urma, tot un **XML**...   pt. ca respecta ***paradigma/modelul/formatul*** despre care vorbeam mai sus)
 
 Daca aveti nevoie de informatii privind [**Sedii DGRFP**](https://www.anaf.ro/anaf/internet/ANAF/contact/adrese_unitati_fiscale), adica adresele unitatilor fiscale, puteti cauta pe site-ul ***ANAF***
 
