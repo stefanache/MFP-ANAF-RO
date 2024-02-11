@@ -23,6 +23,8 @@ Deci standardul **UBL** sau **CII** este inclus(sau gazduit) de acest standard *
 Nu a fost o explicatie prea academica dar sper sa fie utila unora mai practicieni(***n.r.*** ca mine)...
 De ce spun ca XML este un standard general/comun ? ... pt ca orice se prezinta sub [forma(***paradigma/modelul***)](https://stackoverflow.com/questions/52569580/php-extract-html-tag-value-into-array-from-string) **\<tag\>**...***continut-XML***...**\<\/tag\>** este un format **XML**(daca vreti si continutul unui fisier  **HTML** este un **XML**...cu ata mai mult un ***XHTML***; adica **HTML**-ul este in particular, daca vreti/pana la urma, tot un **XML**...   pt. ca respecta [***paradigma/modelul/formatul***](https://stackoverflow.com/questions/52569580/php-extract-html-tag-value-into-array-from-string) despre care vorbeam mai sus); asadar un XML ne prezinta/reflecta o imbricare(includere/incluziune) sau o containerizare profunda lucru specific structurilor de tip **arbore**... pe relatii de genul [***contine pe/este imbricat=inclus in***](https://stackoverflow.com/questions/6356115/traverse-the-dom-tree);
 
+Pentru cei care doresc sa-si construiasca programatic(in acest caz, utilizand limbajul **PhP**) propriul generator ***UBL2.1/xml eFactura*** probabil ca ar fi util ca in prealabil sa aruncati o privire catre depozitul [***danielgp/eFactura***](https://github.com/danielgp/eFactura/tree/main)
+
 Daca aveti nevoie de informatii privind [**Sedii DGRFP**](https://www.anaf.ro/anaf/internet/ANAF/contact/adrese_unitati_fiscale), adica adresele unitatilor fiscale, puteti cauta pe site-ul ***ANAF***
 
-Pentru cei care doresc sa-si construiasca programatic(in acest caz, utilizand limbajul **PhP**) propriul generator ***UBL2.1/xml eFactura*** probabil ca ar fi util ca in prealabil sa aruncati o privire catre depozitul [***danielgp/eFactura***](https://github.com/danielgp/eFactura/tree/main)
+
