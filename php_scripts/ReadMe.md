@@ -21,7 +21,7 @@ Pentru ca in cadrul acestul **XML** se foloseste un alt standard de sintaxa a da
 si aici ma refer la **UBL** ori **CII**...
 Deci standardul **UBL** sau **CII** este inclus(sau gazduit) de acest standard ***general*** **XML**.
 Nu a fost o explicatie prea academica dar sper sa fie utila unora mai practicieni(***n.r.*** ca mine)...
-De ce spun ca XML este un standard general/comun ? ... pt ca orice se prezinta sub forma(***paradigma/modelul***) **<tag>**...***continut***...**</tag>** este un format **XML**(daca vreti si continutul unui fisier  **HTML** este un **XML**...cu ata mai mult un ***XHTML***; adica **HTML**-ul este in particular, daca vreti/pana la urma, tot un **XML**...   pt. ca respecta ***paradigma/modelul/formatul*** despre care vorbeam mai sus)
+De ce spun ca XML este un standard general/comun ? ... pt ca orice se prezinta sub forma(***paradigma/modelul***) **<tag>**...***continut***...**</tag>** este un format **XML**(daca vreti si continutul unui fisier  **HTML** este un **XML**...cu ata mai mult un ***XHTML***; adica **HTML**-ul este in particular, daca vreti/pana la urma, tot un **XML**...   pt. ca respecta [***paradigma/modelul/formatul***](https://stackoverflow.com/questions/52569580/php-extract-html-tag-value-into-array-from-string) despre care vorbeam mai sus)
 
 Daca aveti nevoie de informatii privind [**Sedii DGRFP**](https://www.anaf.ro/anaf/internet/ANAF/contact/adrese_unitati_fiscale), adica adresele unitatilor fiscale, puteti cauta pe site-ul ***ANAF***
 
