@@ -15,7 +15,7 @@ Ce este **XML** [***eFactura***](https://mfinante.gov.ro/web/efactura/informatii
 
 Intrebarea, desi pe ***jumatate*** pusa este totusi o intrebare;
 
-**XML** este o forma de prezentare a datelor deci este un standard de prezentare(pana la urma si de stocare in container/fisier) a datelor;
+**XML** este o forma de prezentare ***arborescenta*** a datelor deci este un standard de prezentare(pana la urma si de stocare in container/fisier) a datelor;
 De ce spun ca este pe ***jumatate*** pusa intrebarea?
 Pentru ca in cadrul acestul **XML** se foloseste un alt standard de sintaxa a datelor specifice unei ***eFacturi***(de fapt **eInvoice** pt ca este pt un format/standard extins la nivel international)  
 si aici ma refer la **UBL** ori **CII**...
