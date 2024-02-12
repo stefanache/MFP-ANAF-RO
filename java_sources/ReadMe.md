@@ -17,7 +17,7 @@ Pe scurt cam trebuie sa faceti cunostinta(daca nu ati facut deja) cu **Java EE**
 
 Mai multe [detalii](https://www.w3schools.blog/custom-validator-jsf) despre [generarea dinamica de continut](https://www.oracle.com/technical-resources/articles/java/enterprise-html5.html) puteti [consulta](https://www.w3schools.blog/jsf-tutorial) acest [site](https://forum.primefaces.org/viewtopic.php?t=34109)
 
-Un exemplu elocvent de utilizare a [JSF](https://mkyong.com/jsf2/how-to-include-javascript-file-in-jsf/) este chiar [generatorul UBL2.1/XML eFactura](https://www.anaf.ro/CompletareFactura/faces/factura/informatiigenerale.xhtml)
+Un [exemplu](https://www.tutorialspoint.com/jsf/jsf_quick_guide.htm) elocvent de utilizare a [JSF](https://mkyong.com/jsf2/how-to-include-javascript-file-in-jsf/) este chiar [generatorul UBL2.1/XML eFactura](https://www.anaf.ro/CompletareFactura/faces/factura/informatiigenerale.xhtml)
 
 Mecanismul AJAX folosit de [JSF](https://docs.oracle.com/javaee/7/javaserver-faces-2-2/jsdocs/symbols/src/_Users_ejburns_Documents_JavaEE_workareas_mojarra-3MOJARRA_2_2X_ROLLING_jsf-demo_jsf-api_src_main_resources_jsf.js.html) este încapsulat într-un fișier JavaScript, numit [**jsf.js**. ](https://www.oreilly.com/library/view/mastering-javaserver-faces/9781782176466/ch07s11.html)
 
