@@ -1,4 +1,4 @@
-Aici gasiti 
+Aici gasiti informatii utile despre
 
 - link-ul de descarcare din ***github*** a [clientului SPV](https://github.com/MfpAnaf/ClientSPV) scris in java;
 - link catre [aplicatii](https://github.com/radubalanpro) ***java*** rezidente in **github**... pt ***tag***-ul [**UBL**](https://github.com/topics/ubl?l=java);
