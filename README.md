@@ -45,7 +45,7 @@ For more details please **[contact me](mailto:ion.stefanache@yahoo.com)** on:
 <details>
       
 Cateva informatii despre **inregistrarea fiscala** a unei firme/companii(**PJ**) puteti gasi si [**aici**](https://mfinante.gov.ro/persoane-juridice/informatii-fiscale-si-bilanturi) pe site-ul MFP;
-Lista **marilor contributori** si a celor **mijlocii** poate fi gasita [**aici**](https://www.anaf.ro/anaf/internet/ANAF/info_publice/info_interes_public/info_agenti_economici/liste.contrib.mari.mijlocii) pe site-ul ***ANAF***;
+Lista **marilor contributori** si a celor **mijlocii** poate fi gasita [**aici**](https://www.anaf.ro/anaf/internet/ANAF/info_publice/info_interes_public/info_agenti_economici/liste.contrib.mari.mijlocii) pe site-ul ***ANAF***((Agenția Națională de Administrare Fiscală);
 
 Despre **formularele fiscale** puteti consulta aceasta [**pagina**](https://www.anaf.ro/anaf/internet/ANAF/asistenta_contribuabili/declararea_obligatiilor_fiscale/toate_formularele) de pe portalul [***ANAF***](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/toate_formularele_30032017.htm);
       
