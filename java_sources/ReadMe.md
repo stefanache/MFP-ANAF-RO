@@ -14,3 +14,5 @@ Pe scurt cam trebuie sa faceti cunostinta daca nu ati facut deja cu **Java EE**:
       - să utilizați suportul Ajax în JSF, 
       - să vă asigurați aplicația web JSF, 
       - să combinați JSF cu alte cadre și multe altele.
+
+Un exemplu elocvent de utilizare a JSF este chiar [generatorul UBL2.1/XML eFactura](https://www.anaf.ro/CompletareFactura/faces/factura/informatiigenerale.xhtml)
