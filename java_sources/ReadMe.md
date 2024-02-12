@@ -15,7 +15,7 @@ Pe scurt cam trebuie sa faceti cunostinta(daca nu ati facut deja) cu **Java EE**
       - să vă asigurați aplicația web JSF, 
       - să combinați JSF cu alte cadre și multe altele.
 
-Mai multe detalii despre [generarea dinamica de continut](https://www.oracle.com/technical-resources/articles/java/enterprise-html5.html) puteti [consulta](https://www.w3schools.blog/jsf-tutorial) acest [site](https://forum.primefaces.org/viewtopic.php?t=34109)
+Mai multe [detalii](https://www.w3schools.blog/custom-validator-jsf) despre [generarea dinamica de continut](https://www.oracle.com/technical-resources/articles/java/enterprise-html5.html) puteti [consulta](https://www.w3schools.blog/jsf-tutorial) acest [site](https://forum.primefaces.org/viewtopic.php?t=34109)
 
 Un exemplu elocvent de utilizare a [JSF](https://mkyong.com/jsf2/how-to-include-javascript-file-in-jsf/) este chiar [generatorul UBL2.1/XML eFactura](https://www.anaf.ro/CompletareFactura/faces/factura/informatiigenerale.xhtml)
 
