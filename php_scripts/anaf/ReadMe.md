@@ -234,3 +234,5 @@ Dupa ce ati transmis o factura incercati sa va asigurati ca a fost expediata si 
 Pe github gasiti aceasta librarie **PhP** ce va ajuta sa generati o factura("[**Invoice**](https://github.com/pondersource/invoice-ubl)") in format UBL;
 
 Pentru a putea folosi [transformatorul oficial al ANAF](https://www.slideshare.net/geomexicanu1980/prezentare-api-efactura-1pdf)  **xml to pdf** al [eFactura](https://www.anaf.ro/CompletareFactura/faces/factura/informatiigenerale.xhtml) puteti citi acest [cod](https://happyweb.ro/articol/eroare-la-transformare-e-factura-din-xml-in-pdf) PhP
+
+Daca sunteti in cautarea procedurii pt dobandirea unui certificat calificat digital pentru eFactura atunci puteti consulta si aceasta [pagina](https://certdigital.ro/wp-content/uploads/2024/02/Prezentare-CertDigital-RO-eFactura.pdf)
