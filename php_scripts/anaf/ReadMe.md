@@ -235,4 +235,4 @@ Pe github gasiti aceasta librarie **PhP** ce va ajuta sa generati o factura("[**
 
 Pentru a putea folosi [transformatorul oficial al ANAF](https://www.slideshare.net/geomexicanu1980/prezentare-api-efactura-1pdf)  **xml to pdf** al [eFactura](https://www.anaf.ro/CompletareFactura/faces/factura/informatiigenerale.xhtml) puteti citi acest [cod](https://happyweb.ro/articol/eroare-la-transformare-e-factura-din-xml-in-pdf) PhP
 
-Daca sunteti in cautarea procedurii pt dobandirea unui certificat calificat digital pentru eFactura atunci puteti consulta si aceasta [pagina](https://certdigital.ro/wp-content/uploads/2024/02/Prezentare-CertDigital-RO-eFactura.pdf)
+Daca sunteti in cautarea procedurii pt dobandirea unui certificat calificat digital pentru [eFactura](https://facturis-online.ro/e-factura/biblioteca-cu-informatii-oficiale-despre-formatul-xml-pentru-e-factura.html) atunci puteti consulta si aceasta [pagina](https://certdigital.ro/wp-content/uploads/2024/02/Prezentare-CertDigital-RO-eFactura.pdf)
