@@ -1086,7 +1086,8 @@ Hai sa luam exemplul testat de [**Daniel-Popiniuc**](https://github.com/danielgp
 
    In acelasi mod daca doriti puteti lucra si cu sabloane/template-uri
 
-   Aceste fisiere utilizate in acest exemplu bazat pe SimpleXML pot fi  gasite in /descarcate din sub-directorul [**simpleInvoice**](https://github.com/stefanache/MFP-ANAF-RO/tree/main/php_scripts/simpleInvoice)
+   Aceste fisiere utilizate in acest exemplu bazat pe SimpleXML pot fi  gasite in /descarcate din sub-directorul [**simpleInvoice**](https://github.com/stefanache/MFP-ANAF-RO/tree/main/php_scripts/simpleInvoice),
+   gazduit de directorul curent.
    
 Daca aveti nevoie de informatii privind [**Sedii DGRFP**](https://www.anaf.ro/anaf/internet/ANAF/contact/adrese_unitati_fiscale), adica adresele unitatilor fiscale, puteti cauta pe site-ul ***ANAF***
 
