@@ -118,46 +118,46 @@ Hai sa luam exemplul testat de [**Daniel-Popiniuc**](https://github.com/danielgp
                      </cac:Party>
                     </cac:AccountingCustomerParty>
                     <cac:PaymentMeans>
-                    <cbc:PaymentMeansCode>31</cbc:PaymentMeansCode>
-                    <cac:PayeeFinancialAccount>
-                    <cbc:ID>RO80RNCB0067054355123456</cbc:ID>
-                    </cac:PayeeFinancialAccount>
+                     <cbc:PaymentMeansCode>31</cbc:PaymentMeansCode>
+                     <cac:PayeeFinancialAccount>
+                      <cbc:ID>RO80RNCB0067054355123456</cbc:ID>
+                     </cac:PayeeFinancialAccount>
                     </cac:PaymentMeans>
                     <cac:TaxTotal>
-                    <cbc:TaxAmount currencyID="RON">6598592.60</cbc:TaxAmount>
-                    <cac:TaxSubtotal>
-                    <cbc:TaxableAmount currencyID="RON">696.12</cbc:TaxableAmount>
-                    <cbc:TaxAmount currencyID="RON">34.79</cbc:TaxAmount>
-                    <cac:TaxCategory>
-                    <cbc:ID>S</cbc:ID>
-                    <cbc:Percent>5.00</cbc:Percent>
-                    <cac:TaxScheme>
-                    <cbc:ID>VAT</cbc:ID>
-                    </cac:TaxScheme>
-                    </cac:TaxCategory>
-                    </cac:TaxSubtotal>
-                    <cac:TaxSubtotal>
-                    <cbc:TaxableAmount currencyID="RON">22875.45</cbc:TaxableAmount>
-                    <cbc:TaxAmount currencyID="RON">2059.43</cbc:TaxAmount>
-                    <cac:TaxCategory>
-                    <cbc:ID>S</cbc:ID>
-                    <cbc:Percent>9.00</cbc:Percent>
-                    <cac:TaxScheme>
-                    <cbc:ID>VAT</cbc:ID>
-                    </cac:TaxScheme>
-                    </cac:TaxCategory>
-                    </cac:TaxSubtotal>
-                    <cac:TaxSubtotal>
-                    <cbc:TaxableAmount currencyID="RON">34718412.54</cbc:TaxableAmount>
-                    <cbc:TaxAmount currencyID="RON">6596498.38</cbc:TaxAmount>
-                    <cac:TaxCategory>
-                    <cbc:ID>S</cbc:ID>
-                    <cbc:Percent>19.00</cbc:Percent>
-                    <cac:TaxScheme>
-                    <cbc:ID>VAT</cbc:ID>
-                    </cac:TaxScheme>
-                    </cac:TaxCategory>
-                    </cac:TaxSubtotal>
+                     <cbc:TaxAmount currencyID="RON">6598592.60</cbc:TaxAmount>
+                     <cac:TaxSubtotal>
+                      <cbc:TaxableAmount currencyID="RON">696.12</cbc:TaxableAmount>
+                      <cbc:TaxAmount currencyID="RON">34.79</cbc:TaxAmount>
+                      <cac:TaxCategory>
+                       <cbc:ID>S</cbc:ID>
+                       <cbc:Percent>5.00</cbc:Percent>
+                       <cac:TaxScheme>
+                        <cbc:ID>VAT</cbc:ID>
+                       </cac:TaxScheme>
+                      </cac:TaxCategory>
+                     </cac:TaxSubtotal>
+                     <cac:TaxSubtotal>
+                      <cbc:TaxableAmount currencyID="RON">22875.45</cbc:TaxableAmount>
+                      <cbc:TaxAmount currencyID="RON">2059.43</cbc:TaxAmount>
+                      <cac:TaxCategory>
+                       <cbc:ID>S</cbc:ID>
+                       <cbc:Percent>9.00</cbc:Percent>
+                       <cac:TaxScheme>
+                        <cbc:ID>VAT</cbc:ID>
+                       </cac:TaxScheme>
+                      </cac:TaxCategory>
+                     </cac:TaxSubtotal>
+                     <cac:TaxSubtotal>
+                      <cbc:TaxableAmount currencyID="RON">34718412.54</cbc:TaxableAmount>
+                      <cbc:TaxAmount currencyID="RON">6596498.38</cbc:TaxAmount>
+                      <cac:TaxCategory>
+                       <cbc:ID>S</cbc:ID>
+                       <cbc:Percent>19.00</cbc:Percent>
+                       <cac:TaxScheme>
+                        <cbc:ID>VAT</cbc:ID>
+                       </cac:TaxScheme>
+                      </cac:TaxCategory>
+                     </cac:TaxSubtotal>
                     </cac:TaxTotal>
                     <cac:LegalMonetaryTotal>
                     <cbc:LineExtensionAmount currencyID="RON">34741984.11</cbc:LineExtensionAmount>
