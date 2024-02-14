@@ -93,29 +93,29 @@ Hai sa luam exemplul testat de [**Daniel-Popiniuc**](https://github.com/danielgp
                       <cac:PartyIdentification>
                        <cbc:ID>123456</cbc:ID>
                       </cac:PartyIdentification>
-                     <cac:PartyName>
-                      <cbc:Name>Buyer name</cbc:Name>
-                     </cac:PartyName>
-                     <cac:PostalAddress>
-                      <cbc:StreetName>BD DECEBAL NR 1 ET1</cbc:StreetName>
-                      <cbc:CityName>ARAD</cbc:CityName>
-                      <cbc:PostalZone>123456</cbc:PostalZone>
-                      <cbc:CountrySubentity>RO-AR</cbc:CountrySubentity>
-                      <cac:Country>
-                       <cbc:IdentificationCode>RO</cbc:IdentificationCode>
-                      </cac:Country>
-                     </cac:PostalAddress>
-                     <cac:PartyTaxScheme>
-                      <cbc:CompanyID>RO987456123</cbc:CompanyID>
-                     <cac:TaxScheme>
-                      <cbc:ID>VAT</cbc:ID>
-                     </cac:TaxScheme>
-                    </cac:PartyTaxScheme>
-                    <cac:PartyLegalEntity>
-                    <cbc:RegistrationName>Buyer SRL</cbc:RegistrationName>
-                    <cbc:CompanyID>J02/321/2010</cbc:CompanyID>
-                    </cac:PartyLegalEntity>
-                    </cac:Party>
+                      <cac:PartyName>
+                       <cbc:Name>Buyer name</cbc:Name>
+                      </cac:PartyName>
+                      <cac:PostalAddress>
+                       <cbc:StreetName>BD DECEBAL NR 1 ET1</cbc:StreetName>
+                       <cbc:CityName>ARAD</cbc:CityName>
+                       <cbc:PostalZone>123456</cbc:PostalZone>
+                       <cbc:CountrySubentity>RO-AR</cbc:CountrySubentity>
+                       <cac:Country>
+                        <cbc:IdentificationCode>RO</cbc:IdentificationCode>
+                       </cac:Country>
+                      </cac:PostalAddress>
+                      <cac:PartyTaxScheme>
+                       <cbc:CompanyID>RO987456123</cbc:CompanyID>
+                       <cac:TaxScheme>
+                        <cbc:ID>VAT</cbc:ID>
+                       </cac:TaxScheme>
+                      </cac:PartyTaxScheme>
+                      <cac:PartyLegalEntity>
+                       <cbc:RegistrationName>Buyer SRL</cbc:RegistrationName>
+                       <cbc:CompanyID>J02/321/2010</cbc:CompanyID>
+                      </cac:PartyLegalEntity>
+                     </cac:Party>
                     </cac:AccountingCustomerParty>
                     <cac:PaymentMeans>
                     <cbc:PaymentMeansCode>31</cbc:PaymentMeansCode>
