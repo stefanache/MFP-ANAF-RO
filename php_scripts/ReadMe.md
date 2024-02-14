@@ -38,6 +38,1044 @@ Pentru cei care doresc sa-si construiasca programatic(in acest caz, utilizand li
 
 Un alt generator eInvoice in format [**UBL**](https://docs.peppol.eu/poacc/billing/3.0/syntax/ubl-invoice/) poate fi gasit in depozitul github [***num-num/ubl-invoice***](https://github.com/num-num/ubl-invoice/tree/master)(a se consulta [**testele**](https://github.com/num-num/ubl-invoice/tree/master/tests) aferente pt a intelege cum functioneaza); Trebuie doar sa particularizati/nuantati continutul documentele generate pt uzul sau specificul nostru national([**CIUS-RO**](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1g7kQ)); Pentru a afla mai multe despre [**EAS**](https://www.avalara.com/blog/en/europe/2023/03/how-does-your-e-invoice-reach-your-customer-on-the-peppol-network.html?gclid=Cj0KCQiA5rGuBhCnARIsAN11vgT9rAYSPT1VELkaITKv3F2Wb-zJgsDV_VugXTt7b_tKfQzybzgJvNYaAsZuEALw_wcB&CampaignID=7015a000001y34SAAQ&utm_source=paid_search&utm_medium=gppc&ef_id=Cj0KCQiA5rGuBhCnARIsAN11vgT9rAYSPT1VELkaITKv3F2Wb-zJgsDV_VugXTt7b_tKfQzybzgJvNYaAsZuEALw_wcB:G:s&s_kwcid=AL!5131!3!675189240647!p!!g!!peppol&gclsrc=aw.ds&&lso=Paid+Digital&lsmr=Paid+Digital&gad_source=1) - ***Electronic Address Schemes*** (**România** foloseste drept  Număr unic de identificare ca si/de tara/[client-***Peppol***](https://peppol.helger.com/public/menuitem-validation-ws2), **EAS=9947**, un numar de tip **TVA**, numar folosit pentru toate companiile sale inregistrate la nivel national care formeaza [contextul de afaceri](https://www.storecove.com/blog/en/e-invoicing-romania/?unbounce_brid=1707147052_3636603_1c9d50d3b501f34d1ab2cc56ac8c241c) [**B2**{***a***}](https://edicomgroup.com/blog/romania-moves-towards-electronic-invoicing-ro-efactura-platform), unde ***a*** este aria **G**overnmental,**B**usiness si **C**liental)  puteti sa  accesati blogul-ul european [**avalara**](https://www.avalara.com/blog/en/europe/2023/03/how-does-your-e-invoice-reach-your-customer-on-the-peppol-network.html?gclid=Cj0KCQiA5rGuBhCnARIsAN11vgT9rAYSPT1VELkaITKv3F2Wb-zJgsDV_VugXTt7b_tKfQzybzgJvNYaAsZuEALw_wcB&CampaignID=7015a000001y34SAAQ&utm_source=paid_search&utm_medium=gppc&ef_id=Cj0KCQiA5rGuBhCnARIsAN11vgT9rAYSPT1VELkaITKv3F2Wb-zJgsDV_VugXTt7b_tKfQzybzgJvNYaAsZuEALw_wcB:G:s&s_kwcid=AL!5131!3!675189240647!p!!g!!peppol&gclsrc=aw.ds&&lso=Paid+Digital&lsmr=Paid+Digital&gad_source=1)(Subiectul lor ***Cum ajunge factura dvs. electronică la clientul dvs. din rețeaua Peppol?*** poate fi foarte atragator pentru cei ce vor sa scufunde mai adanc in cunoasterea [***eGuvernarii***](https://snitechnology.net/anaf-released-updated-list-of-medium-taxpayers/); Oricum si acest depozit poate fi o sursa de inspiratie pentru proiectele dumneavoastra;
 
+Totusi generarea eFacturii in **PhP** poate fi foarte mult simplificata daca stiti exact cum trebuie sa arate **modelul** de factura UBL/XML si aveti din timp pregatie **datele** care trebuiesc inglobate;
+Puteti folosi pentru generarea fisierului ***XML(.xml)*** o librarie simpla cum este  [**SimpleXML**](https://www.php.net/manual/en/simplexml.examples-basic.php);
+Hai sa luam exemplul testat de [**Daniel-Popiniuc**](https://github.com/danielgp/eFactura/blob/main/testing/UBL_examples/Romanian/eInvoice_ex.xml) si sa-l generam cu SimpleXML:
+
+      <?php
+      $xmlstr = <<<XML
+      Click entity for XPath. Double-click to collapse/expand. Enter XPath or XML string then click XPath1/Parse for results or to XML Tree-ify, respectively.
+      XPath1/Parse
+      XSL 1.0
+      <Invoice xmlns="urn:oasis:names:specification:ubl:schema:xsd:Invoice-2" xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2" xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2" xmlns:ccts="urn:un:unece:uncefact:documentation:2" xmlns:qdt="urn:oasis:names:specification:ubl:schema:xsd:QualifiedDataTypes-2" xmlns:udt="urn:oasis:names:specification:ubl:schema:xsd:UnqualifiedDataTypes-2" xmlns:xs="https://www.w3.org/2001/XMLSchema" xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance">
+      <cbc:UBLVersionID>2.1</cbc:UBLVersionID>
+      <cbc:CustomizationID>urn:cen.eu:en16931:2017#compliant#urn:efactura.mfinante.ro:CIUS-RO:1.0.1</cbc:CustomizationID>
+      <cbc:ID>6422451356</cbc:ID>
+      <cbc:IssueDate>2022-05-31</cbc:IssueDate>
+      <cbc:DueDate>2022-05-31</cbc:DueDate>
+      <cbc:InvoiceTypeCode>380</cbc:InvoiceTypeCode>
+      <cbc:Note>some text for invoice note</cbc:Note>
+      <cbc:DocumentCurrencyCode>RON</cbc:DocumentCurrencyCode>
+      <cac:InvoicePeriod>
+      <cbc:EndDate>2022-05-31</cbc:EndDate>
+      </cac:InvoicePeriod>
+      <cac:AccountingSupplierParty>
+      <cac:Party>
+      <cac:PartyName>
+      <cbc:Name>Seller SRL</cbc:Name>
+      </cac:PartyName>
+      <cac:PostalAddress>
+      <cbc:StreetName>line1</cbc:StreetName>
+      <cbc:CityName>SECTOR1</cbc:CityName>
+      <cbc:PostalZone>013329</cbc:PostalZone>
+      <cbc:CountrySubentity>RO-B</cbc:CountrySubentity>
+      <cac:Country>
+      <cbc:IdentificationCode>RO</cbc:IdentificationCode>
+      </cac:Country>
+      </cac:PostalAddress>
+      <cac:PartyTaxScheme>
+      <cbc:CompanyID>RO1234567890</cbc:CompanyID>
+      <cac:TaxScheme>
+      <cbc:ID>VAT</cbc:ID>
+      </cac:TaxScheme>
+      </cac:PartyTaxScheme>
+      <cac:PartyLegalEntity>
+      <cbc:RegistrationName>Seller SRL</cbc:RegistrationName>
+      <cbc:CompanyLegalForm>J40/12345/1998</cbc:CompanyLegalForm>
+      </cac:PartyLegalEntity>
+      <cac:Contact>
+      <cbc:ElectronicMail>mail@seller.com</cbc:ElectronicMail>
+      </cac:Contact>
+      </cac:Party>
+      </cac:AccountingSupplierParty>
+      <cac:AccountingCustomerParty>
+      <cac:Party>
+      <cac:PartyIdentification>
+      <cbc:ID>123456</cbc:ID>
+      </cac:PartyIdentification>
+      <cac:PartyName>
+      <cbc:Name>Buyer name</cbc:Name>
+      </cac:PartyName>
+      <cac:PostalAddress>
+      <cbc:StreetName>BD DECEBAL NR 1 ET1</cbc:StreetName>
+      <cbc:CityName>ARAD</cbc:CityName>
+      <cbc:PostalZone>123456</cbc:PostalZone>
+      <cbc:CountrySubentity>RO-AR</cbc:CountrySubentity>
+      <cac:Country>
+      <cbc:IdentificationCode>RO</cbc:IdentificationCode>
+      </cac:Country>
+      </cac:PostalAddress>
+      <cac:PartyTaxScheme>
+      <cbc:CompanyID>RO987456123</cbc:CompanyID>
+      <cac:TaxScheme>
+      <cbc:ID>VAT</cbc:ID>
+      </cac:TaxScheme>
+      </cac:PartyTaxScheme>
+      <cac:PartyLegalEntity>
+      <cbc:RegistrationName>Buyer SRL</cbc:RegistrationName>
+      <cbc:CompanyID>J02/321/2010</cbc:CompanyID>
+      </cac:PartyLegalEntity>
+      </cac:Party>
+      </cac:AccountingCustomerParty>
+      <cac:PaymentMeans>
+      <cbc:PaymentMeansCode>31</cbc:PaymentMeansCode>
+      <cac:PayeeFinancialAccount>
+      <cbc:ID>RO80RNCB0067054355123456</cbc:ID>
+      </cac:PayeeFinancialAccount>
+      </cac:PaymentMeans>
+      <cac:TaxTotal>
+      <cbc:TaxAmount currencyID="RON">6598592.60</cbc:TaxAmount>
+      <cac:TaxSubtotal>
+      <cbc:TaxableAmount currencyID="RON">696.12</cbc:TaxableAmount>
+      <cbc:TaxAmount currencyID="RON">34.79</cbc:TaxAmount>
+      <cac:TaxCategory>
+      <cbc:ID>S</cbc:ID>
+      <cbc:Percent>5.00</cbc:Percent>
+      <cac:TaxScheme>
+      <cbc:ID>VAT</cbc:ID>
+      </cac:TaxScheme>
+      </cac:TaxCategory>
+      </cac:TaxSubtotal>
+      <cac:TaxSubtotal>
+      <cbc:TaxableAmount currencyID="RON">22875.45</cbc:TaxableAmount>
+      <cbc:TaxAmount currencyID="RON">2059.43</cbc:TaxAmount>
+      <cac:TaxCategory>
+      <cbc:ID>S</cbc:ID>
+      <cbc:Percent>9.00</cbc:Percent>
+      <cac:TaxScheme>
+      <cbc:ID>VAT</cbc:ID>
+      </cac:TaxScheme>
+      </cac:TaxCategory>
+      </cac:TaxSubtotal>
+      <cac:TaxSubtotal>
+      <cbc:TaxableAmount currencyID="RON">34718412.54</cbc:TaxableAmount>
+      <cbc:TaxAmount currencyID="RON">6596498.38</cbc:TaxAmount>
+      <cac:TaxCategory>
+      <cbc:ID>S</cbc:ID>
+      <cbc:Percent>19.00</cbc:Percent>
+      <cac:TaxScheme>
+      <cbc:ID>VAT</cbc:ID>
+      </cac:TaxScheme>
+      </cac:TaxCategory>
+      </cac:TaxSubtotal>
+      </cac:TaxTotal>
+      <cac:LegalMonetaryTotal>
+      <cbc:LineExtensionAmount currencyID="RON">34741984.11</cbc:LineExtensionAmount>
+      <cbc:TaxExclusiveAmount currencyID="RON">34741984.11</cbc:TaxExclusiveAmount>
+      <cbc:TaxInclusiveAmount currencyID="RON">41340576.71</cbc:TaxInclusiveAmount>
+      <cbc:PayableAmount currencyID="RON">41340576.71</cbc:PayableAmount>
+      </cac:LegalMonetaryTotal>
+      <cac:InvoiceLine>
+      <cbc:ID>1</cbc:ID>
+      <cbc:InvoicedQuantity unitCode="C62">46396.67</cbc:InvoicedQuantity>
+      <cbc:LineExtensionAmount currencyID="RON">334641.38</cbc:LineExtensionAmount>
+      <cac:AllowanceCharge>
+      <cbc:ChargeIndicator>false</cbc:ChargeIndicator>
+      <cbc:AllowanceChargeReasonCode>95</cbc:AllowanceChargeReasonCode>
+      <cbc:AllowanceChargeReason>Discount</cbc:AllowanceChargeReason>
+      <cbc:Amount currencyID="RON">801.98</cbc:Amount>
+      </cac:AllowanceCharge>
+      <cac:AllowanceCharge>
+      <cbc:ChargeIndicator>true</cbc:ChargeIndicator>
+      <cbc:AllowanceChargeReasonCode>ZZZ</cbc:AllowanceChargeReasonCode>
+      <cbc:AllowanceChargeReason>Mutually defined</cbc:AllowanceChargeReason>
+      <cbc:Amount currencyID="RON">-19272.48</cbc:Amount>
+      <cbc:BaseAmount currencyID="RON">354715.84</cbc:BaseAmount>
+      </cac:AllowanceCharge>
+      <cac:Item>
+      <cbc:Name>item name</cbc:Name>
+      <cac:SellersItemIdentification>
+      <cbc:ID>0102</cbc:ID>
+      </cac:SellersItemIdentification>
+      <cac:CommodityClassification>
+      <cbc:ItemClassificationCode listID="STI">03222000-3</cbc:ItemClassificationCode>
+      </cac:CommodityClassification>
+      <cac:ClassifiedTaxCategory>
+      <cbc:ID>S</cbc:ID>
+      <cbc:Percent>19.00</cbc:Percent>
+      <cac:TaxScheme>
+      <cbc:ID>VAT</cbc:ID>
+      </cac:TaxScheme>
+      </cac:ClassifiedTaxCategory>
+      </cac:Item>
+      <cac:Price>
+      <cbc:PriceAmount currencyID="RON">7.6453</cbc:PriceAmount>
+      <cbc:BaseQuantity unitCode="C62">1</cbc:BaseQuantity>
+      </cac:Price>
+      </cac:InvoiceLine>
+      <cac:InvoiceLine>
+      <cbc:ID>2</cbc:ID>
+      <cbc:InvoicedQuantity unitCode="C62">622078.28</cbc:InvoicedQuantity>
+      <cbc:LineExtensionAmount currencyID="RON">4289031.25</cbc:LineExtensionAmount>
+      <cac:AllowanceCharge>
+      <cbc:ChargeIndicator>false</cbc:ChargeIndicator>
+      <cbc:AllowanceChargeReasonCode>95</cbc:AllowanceChargeReasonCode>
+      <cbc:AllowanceChargeReason>Discount</cbc:AllowanceChargeReason>
+      <cbc:Amount currencyID="RON">10454.98</cbc:Amount>
+      </cac:AllowanceCharge>
+      <cac:AllowanceCharge>
+      <cbc:ChargeIndicator>true</cbc:ChargeIndicator>
+      <cbc:AllowanceChargeReasonCode>ZZZ</cbc:AllowanceChargeReasonCode>
+      <cbc:AllowanceChargeReason>Mutually defined</cbc:AllowanceChargeReason>
+      <cbc:Amount currencyID="RON">-116445.65</cbc:Amount>
+      <cbc:BaseAmount currencyID="RON">4415931.88</cbc:BaseAmount>
+      </cac:AllowanceCharge>
+      <cac:Item>
+      <cbc:Name>item name</cbc:Name>
+      <cac:SellersItemIdentification>
+      <cbc:ID>0104</cbc:ID>
+      </cac:SellersItemIdentification>
+      <cac:CommodityClassification>
+      <cbc:ItemClassificationCode listID="TSP">08055010</cbc:ItemClassificationCode>
+      </cac:CommodityClassification>
+      <cac:ClassifiedTaxCategory>
+      <cbc:ID>S</cbc:ID>
+      <cbc:Percent>19.00</cbc:Percent>
+      <cac:TaxScheme>
+      <cbc:ID>VAT</cbc:ID>
+      </cac:TaxScheme>
+      </cac:ClassifiedTaxCategory>
+      </cac:Item>
+      <cac:Price>
+      <cbc:PriceAmount currencyID="RON">7.0987</cbc:PriceAmount>
+      <cbc:BaseQuantity unitCode="C62">1</cbc:BaseQuantity>
+      </cac:Price>
+      </cac:InvoiceLine>
+      <cac:InvoiceLine>
+      <cbc:ID>3</cbc:ID>
+      <cbc:InvoicedQuantity unitCode="C62">94104.55</cbc:InvoicedQuantity>
+      <cbc:LineExtensionAmount currencyID="RON">662151.44</cbc:LineExtensionAmount>
+      <cac:AllowanceCharge>
+      <cbc:ChargeIndicator>false</cbc:ChargeIndicator>
+      <cbc:AllowanceChargeReasonCode>95</cbc:AllowanceChargeReasonCode>
+      <cbc:AllowanceChargeReason>Discount</cbc:AllowanceChargeReason>
+      <cbc:Amount currencyID="RON">3589.66</cbc:Amount>
+      </cac:AllowanceCharge>
+      <cac:AllowanceCharge>
+      <cbc:ChargeIndicator>true</cbc:ChargeIndicator>
+      <cbc:AllowanceChargeReasonCode>ZZZ</cbc:AllowanceChargeReasonCode>
+      <cbc:AllowanceChargeReason>Mutually defined</cbc:AllowanceChargeReason>
+      <cbc:Amount currencyID="RON">-19458.05</cbc:Amount>
+      <cbc:BaseAmount currencyID="RON">685199.15</cbc:BaseAmount>
+      </cac:AllowanceCharge>
+      <cac:Item>
+      <cbc:Name>item name</cbc:Name>
+      <cac:SellersItemIdentification>
+      <cbc:ID>0106</cbc:ID>
+      </cac:SellersItemIdentification>
+      <cac:ClassifiedTaxCategory>
+      <cbc:ID>S</cbc:ID>
+      <cbc:Percent>19.00</cbc:Percent>
+      <cac:TaxScheme>
+      <cbc:ID>VAT</cbc:ID>
+      </cac:TaxScheme>
+      </cac:ClassifiedTaxCategory>
+      </cac:Item>
+      <cac:Price>
+      <cbc:PriceAmount currencyID="RON">7.2813</cbc:PriceAmount>
+      <cbc:BaseQuantity unitCode="C62">1</cbc:BaseQuantity>
+      </cac:Price>
+      </cac:InvoiceLine>
+      <cac:InvoiceLine>
+      <cbc:ID>4</cbc:ID>
+      <cbc:InvoicedQuantity unitCode="C62">3764335.51</cbc:InvoicedQuantity>
+      <cbc:LineExtensionAmount currencyID="RON">25444505.23</cbc:LineExtensionAmount>
+      <cac:AllowanceCharge>
+      <cbc:ChargeIndicator>false</cbc:ChargeIndicator>
+      <cbc:AllowanceChargeReasonCode>95</cbc:AllowanceChargeReasonCode>
+      <cbc:AllowanceChargeReason>Discount</cbc:AllowanceChargeReason>
+      <cbc:Amount currencyID="RON">63265.49</cbc:Amount>
+      </cac:AllowanceCharge>
+      <cac:AllowanceCharge>
+      <cbc:ChargeIndicator>true</cbc:ChargeIndicator>
+      <cbc:AllowanceChargeReasonCode>ZZZ</cbc:AllowanceChargeReasonCode>
+      <cbc:AllowanceChargeReason>Mutually defined</cbc:AllowanceChargeReason>
+      <cbc:Amount currencyID="RON">-650523.32</cbc:Amount>
+      <cbc:BaseAmount currencyID="RON">26158294.04</cbc:BaseAmount>
+      </cac:AllowanceCharge>
+      <cac:Item>
+      <cbc:Name>item name</cbc:Name>
+      <cac:SellersItemIdentification>
+      <cbc:ID>0107</cbc:ID>
+      </cac:SellersItemIdentification>
+      <cac:ClassifiedTaxCategory>
+      <cbc:ID>S</cbc:ID>
+      <cbc:Percent>19.00</cbc:Percent>
+      <cac:TaxScheme>
+      <cbc:ID>VAT</cbc:ID>
+      </cac:TaxScheme>
+      </cac:ClassifiedTaxCategory>
+      </cac:Item>
+      <cac:Price>
+      <cbc:PriceAmount currencyID="RON">6.9490</cbc:PriceAmount>
+      <cbc:BaseQuantity unitCode="C62">1</cbc:BaseQuantity>
+      </cac:Price>
+      </cac:InvoiceLine>
+      <cac:InvoiceLine>
+      <cbc:ID>5</cbc:ID>
+      <cbc:InvoicedQuantity unitCode="C62">51772.34</cbc:InvoicedQuantity>
+      <cbc:LineExtensionAmount currencyID="RON">379456.48</cbc:LineExtensionAmount>
+      <cac:AllowanceCharge>
+      <cbc:ChargeIndicator>false</cbc:ChargeIndicator>
+      <cbc:AllowanceChargeReasonCode>95</cbc:AllowanceChargeReasonCode>
+      <cbc:AllowanceChargeReason>Discount</cbc:AllowanceChargeReason>
+      <cbc:Amount currencyID="RON">2980.02</cbc:Amount>
+      </cac:AllowanceCharge>
+      <cac:AllowanceCharge>
+      <cbc:ChargeIndicator>true</cbc:ChargeIndicator>
+      <cbc:AllowanceChargeReasonCode>ZZZ</cbc:AllowanceChargeReasonCode>
+      <cbc:AllowanceChargeReason>Mutually defined</cbc:AllowanceChargeReason>
+      <cbc:Amount currencyID="RON">-654.54</cbc:Amount>
+      <cbc:BaseAmount currencyID="RON">383091.04</cbc:BaseAmount>
+      </cac:AllowanceCharge>
+      <cac:Item>
+      <cbc:Name>item name</cbc:Name>
+      <cac:SellersItemIdentification>
+      <cbc:ID>0108</cbc:ID>
+      </cac:SellersItemIdentification>
+      <cac:ClassifiedTaxCategory>
+      <cbc:ID>S</cbc:ID>
+      <cbc:Percent>19.00</cbc:Percent>
+      <cac:TaxScheme>
+      <cbc:ID>VAT</cbc:ID>
+      </cac:TaxScheme>
+      </cac:ClassifiedTaxCategory>
+      </cac:Item>
+      <cac:Price>
+      <cbc:PriceAmount currencyID="RON">7.3995</cbc:PriceAmount>
+      <cbc:BaseQuantity unitCode="C62">1</cbc:BaseQuantity>
+      </cac:Price>
+      </cac:InvoiceLine>
+      <cac:InvoiceLine>
+      <cbc:ID>6</cbc:ID>
+      <cbc:InvoicedQuantity unitCode="C62">20807.57</cbc:InvoicedQuantity>
+      <cbc:LineExtensionAmount currencyID="RON">137685.72</cbc:LineExtensionAmount>
+      <cac:AllowanceCharge>
+      <cbc:ChargeIndicator>false</cbc:ChargeIndicator>
+      <cbc:AllowanceChargeReasonCode>95</cbc:AllowanceChargeReasonCode>
+      <cbc:AllowanceChargeReason>Discount</cbc:AllowanceChargeReason>
+      <cbc:Amount currencyID="RON">757.66</cbc:Amount>
+      </cac:AllowanceCharge>
+      <cac:AllowanceCharge>
+      <cbc:ChargeIndicator>true</cbc:ChargeIndicator>
+      <cbc:AllowanceChargeReasonCode>ZZZ</cbc:AllowanceChargeReasonCode>
+      <cbc:AllowanceChargeReason>Mutually defined</cbc:AllowanceChargeReason>
+      <cbc:Amount currencyID="RON">-4664.27</cbc:Amount>
+      <cbc:BaseAmount currencyID="RON">143107.65</cbc:BaseAmount>
+      </cac:AllowanceCharge>
+      <cac:Item>
+      <cbc:Name>item name</cbc:Name>
+      <cac:SellersItemIdentification>
+      <cbc:ID>0201</cbc:ID>
+      </cac:SellersItemIdentification>
+      <cac:ClassifiedTaxCategory>
+      <cbc:ID>S</cbc:ID>
+      <cbc:Percent>19.00</cbc:Percent>
+      <cac:TaxScheme>
+      <cbc:ID>VAT</cbc:ID>
+      </cac:TaxScheme>
+      </cac:ClassifiedTaxCategory>
+      </cac:Item>
+      <cac:Price>
+      <cbc:PriceAmount currencyID="RON">6.8777</cbc:PriceAmount>
+      <cbc:BaseQuantity unitCode="C62">1</cbc:BaseQuantity>
+      </cac:Price>
+      </cac:InvoiceLine>
+      <cac:InvoiceLine>
+      <cbc:ID>7</cbc:ID>
+      <cbc:InvoicedQuantity unitCode="C62">217932.24</cbc:InvoicedQuantity>
+      <cbc:LineExtensionAmount currencyID="RON">1371322.68</cbc:LineExtensionAmount>
+      <cac:AllowanceCharge>
+      <cbc:ChargeIndicator>false</cbc:ChargeIndicator>
+      <cbc:AllowanceChargeReasonCode>95</cbc:AllowanceChargeReasonCode>
+      <cbc:AllowanceChargeReason>Discount</cbc:AllowanceChargeReason>
+      <cbc:Amount currencyID="RON">3662.64</cbc:Amount>
+      </cac:AllowanceCharge>
+      <cac:AllowanceCharge>
+      <cbc:ChargeIndicator>true</cbc:ChargeIndicator>
+      <cbc:AllowanceChargeReasonCode>ZZZ</cbc:AllowanceChargeReasonCode>
+      <cbc:AllowanceChargeReason>Mutually defined</cbc:AllowanceChargeReason>
+      <cbc:Amount currencyID="RON">-41460.64</cbc:Amount>
+      <cbc:BaseAmount currencyID="RON">1416445.96</cbc:BaseAmount>
+      </cac:AllowanceCharge>
+      <cac:Item>
+      <cbc:Name>item name</cbc:Name>
+      <cac:SellersItemIdentification>
+      <cbc:ID>0203</cbc:ID>
+      </cac:SellersItemIdentification>
+      <cac:ClassifiedTaxCategory>
+      <cbc:ID>S</cbc:ID>
+      <cbc:Percent>19.00</cbc:Percent>
+      <cac:TaxScheme>
+      <cbc:ID>VAT</cbc:ID>
+      </cac:TaxScheme>
+      </cac:ClassifiedTaxCategory>
+      </cac:Item>
+      <cac:Price>
+      <cbc:PriceAmount currencyID="RON">6.4995</cbc:PriceAmount>
+      <cbc:BaseQuantity unitCode="C62">1</cbc:BaseQuantity>
+      </cac:Price>
+      </cac:InvoiceLine>
+      <cac:InvoiceLine>
+      <cbc:ID>8</cbc:ID>
+      <cbc:InvoicedQuantity unitCode="C62">137142.39</cbc:InvoicedQuantity>
+      <cbc:LineExtensionAmount currencyID="RON">875772.03</cbc:LineExtensionAmount>
+      <cac:AllowanceCharge>
+      <cbc:ChargeIndicator>false</cbc:ChargeIndicator>
+      <cbc:AllowanceChargeReasonCode>95</cbc:AllowanceChargeReasonCode>
+      <cbc:AllowanceChargeReason>Discount</cbc:AllowanceChargeReason>
+      <cbc:Amount currencyID="RON">2305.01</cbc:Amount>
+      </cac:AllowanceCharge>
+      <cac:AllowanceCharge>
+      <cbc:ChargeIndicator>true</cbc:ChargeIndicator>
+      <cbc:AllowanceChargeReasonCode>ZZZ</cbc:AllowanceChargeReasonCode>
+      <cbc:AllowanceChargeReason>Mutually defined</cbc:AllowanceChargeReason>
+      <cbc:Amount currencyID="RON">-26705.29</cbc:Amount>
+      <cbc:BaseAmount currencyID="RON">904782.33</cbc:BaseAmount>
+      </cac:AllowanceCharge>
+      <cac:Item>
+      <cbc:Name>item name</cbc:Name>
+      <cac:SellersItemIdentification>
+      <cbc:ID>0204</cbc:ID>
+      </cac:SellersItemIdentification>
+      <cac:ClassifiedTaxCategory>
+      <cbc:ID>S</cbc:ID>
+      <cbc:Percent>19.00</cbc:Percent>
+      <cac:TaxScheme>
+      <cbc:ID>VAT</cbc:ID>
+      </cac:TaxScheme>
+      </cac:ClassifiedTaxCategory>
+      </cac:Item>
+      <cac:Price>
+      <cbc:PriceAmount currencyID="RON">6.5974</cbc:PriceAmount>
+      <cbc:BaseQuantity unitCode="C62">1</cbc:BaseQuantity>
+      </cac:Price>
+      </cac:InvoiceLine>
+      <cac:InvoiceLine>
+      <cbc:ID>9</cbc:ID>
+      <cbc:InvoicedQuantity unitCode="C62">40993.25</cbc:InvoicedQuantity>
+      <cbc:LineExtensionAmount currencyID="RON">282140.46</cbc:LineExtensionAmount>
+      <cac:AllowanceCharge>
+      <cbc:ChargeIndicator>false</cbc:ChargeIndicator>
+      <cbc:AllowanceChargeReasonCode>95</cbc:AllowanceChargeReasonCode>
+      <cbc:AllowanceChargeReason>Discount</cbc:AllowanceChargeReason>
+      <cbc:Amount currencyID="RON">1568.00</cbc:Amount>
+      </cac:AllowanceCharge>
+      <cac:AllowanceCharge>
+      <cbc:ChargeIndicator>true</cbc:ChargeIndicator>
+      <cbc:AllowanceChargeReasonCode>ZZZ</cbc:AllowanceChargeReasonCode>
+      <cbc:AllowanceChargeReason>Mutually defined</cbc:AllowanceChargeReason>
+      <cbc:Amount currencyID="RON">-8434.52</cbc:Amount>
+      <cbc:BaseAmount currencyID="RON">292142.98</cbc:BaseAmount>
+      </cac:AllowanceCharge>
+      <cac:Item>
+      <cbc:Name>item name</cbc:Name>
+      <cac:SellersItemIdentification>
+      <cbc:ID>0205</cbc:ID>
+      </cac:SellersItemIdentification>
+      <cac:ClassifiedTaxCategory>
+      <cbc:ID>S</cbc:ID>
+      <cbc:Percent>19.00</cbc:Percent>
+      <cac:TaxScheme>
+      <cbc:ID>VAT</cbc:ID>
+      </cac:TaxScheme>
+      </cac:ClassifiedTaxCategory>
+      </cac:Item>
+      <cac:Price>
+      <cbc:PriceAmount currencyID="RON">7.1266</cbc:PriceAmount>
+      <cbc:BaseQuantity unitCode="C62">1</cbc:BaseQuantity>
+      </cac:Price>
+      </cac:InvoiceLine>
+      <cac:InvoiceLine>
+      <cbc:ID>10</cbc:ID>
+      <cbc:InvoicedQuantity unitCode="C62">32676.41</cbc:InvoicedQuantity>
+      <cbc:LineExtensionAmount currencyID="RON">105566.28</cbc:LineExtensionAmount>
+      <cac:AllowanceCharge>
+      <cbc:ChargeIndicator>false</cbc:ChargeIndicator>
+      <cbc:AllowanceChargeReasonCode>95</cbc:AllowanceChargeReasonCode>
+      <cbc:AllowanceChargeReason>Discount</cbc:AllowanceChargeReason>
+      <cbc:Amount currencyID="RON">548.95</cbc:Amount>
+      </cac:AllowanceCharge>
+      <cac:AllowanceCharge>
+      <cbc:ChargeIndicator>true</cbc:ChargeIndicator>
+      <cbc:AllowanceChargeReasonCode>ZZZ</cbc:AllowanceChargeReasonCode>
+      <cbc:AllowanceChargeReason>Mutually defined</cbc:AllowanceChargeReason>
+      <cbc:Amount currencyID="RON">-6057.84</cbc:Amount>
+      <cbc:BaseAmount currencyID="RON">112173.07</cbc:BaseAmount>
+      </cac:AllowanceCharge>
+      <cac:Item>
+      <cbc:Name>item name</cbc:Name>
+      <cac:SellersItemIdentification>
+      <cbc:ID>0330</cbc:ID>
+      </cac:SellersItemIdentification>
+      <cac:ClassifiedTaxCategory>
+      <cbc:ID>S</cbc:ID>
+      <cbc:Percent>19.00</cbc:Percent>
+      <cac:TaxScheme>
+      <cbc:ID>VAT</cbc:ID>
+      </cac:TaxScheme>
+      </cac:ClassifiedTaxCategory>
+      </cac:Item>
+      <cac:Price>
+      <cbc:PriceAmount currencyID="RON">3.4328</cbc:PriceAmount>
+      <cbc:BaseQuantity unitCode="C62">1</cbc:BaseQuantity>
+      </cac:Price>
+      </cac:InvoiceLine>
+      <cac:InvoiceLine>
+      <cbc:ID>11</cbc:ID>
+      <cbc:InvoicedQuantity unitCode="C62">2730.01</cbc:InvoicedQuantity>
+      <cbc:LineExtensionAmount currencyID="RON">318422.49</cbc:LineExtensionAmount>
+      <cac:Item>
+      <cbc:Name>Vignieta</cbc:Name>
+      <cac:SellersItemIdentification>
+      <cbc:ID>0452</cbc:ID>
+      </cac:SellersItemIdentification>
+      <cac:ClassifiedTaxCategory>
+      <cbc:ID>S</cbc:ID>
+      <cbc:Percent>19.00</cbc:Percent>
+      <cac:TaxScheme>
+      <cbc:ID>VAT</cbc:ID>
+      </cac:TaxScheme>
+      </cac:ClassifiedTaxCategory>
+      </cac:Item>
+      <cac:Price>
+      <cbc:PriceAmount currencyID="RON">116.6378</cbc:PriceAmount>
+      <cbc:BaseQuantity unitCode="C62">1</cbc:BaseQuantity>
+      </cac:Price>
+      </cac:InvoiceLine>
+      <cac:InvoiceLine>
+      <cbc:ID>12</cbc:ID>
+      <cbc:InvoicedQuantity unitCode="C62">958.00</cbc:InvoicedQuantity>
+      <cbc:LineExtensionAmount currencyID="RON">115615.43</cbc:LineExtensionAmount>
+      <cac:Item>
+      <cbc:Name>item name</cbc:Name>
+      <cac:SellersItemIdentification>
+      <cbc:ID>0454</cbc:ID>
+      </cac:SellersItemIdentification>
+      <cac:ClassifiedTaxCategory>
+      <cbc:ID>S</cbc:ID>
+      <cbc:Percent>19.00</cbc:Percent>
+      <cac:TaxScheme>
+      <cbc:ID>VAT</cbc:ID>
+      </cac:TaxScheme>
+      </cac:ClassifiedTaxCategory>
+      </cac:Item>
+      <cac:Price>
+      <cbc:PriceAmount currencyID="RON">120.6842</cbc:PriceAmount>
+      <cbc:BaseQuantity unitCode="C62">1</cbc:BaseQuantity>
+      </cac:Price>
+      </cac:InvoiceLine>
+      <cac:InvoiceLine>
+      <cbc:ID>13</cbc:ID>
+      <cbc:InvoicedQuantity unitCode="C62">125.00</cbc:InvoicedQuantity>
+      <cbc:LineExtensionAmount currencyID="RON">3009.43</cbc:LineExtensionAmount>
+      <cac:Item>
+      <cbc:Name>item name</cbc:Name>
+      <cac:SellersItemIdentification>
+      <cbc:ID>0501</cbc:ID>
+      </cac:SellersItemIdentification>
+      <cac:ClassifiedTaxCategory>
+      <cbc:ID>S</cbc:ID>
+      <cbc:Percent>19.00</cbc:Percent>
+      <cac:TaxScheme>
+      <cbc:ID>VAT</cbc:ID>
+      </cac:TaxScheme>
+      </cac:ClassifiedTaxCategory>
+      </cac:Item>
+      <cac:Price>
+      <cbc:PriceAmount currencyID="RON">24.0754</cbc:PriceAmount>
+      <cbc:BaseQuantity unitCode="C62">1</cbc:BaseQuantity>
+      </cac:Price>
+      </cac:InvoiceLine>
+      <cac:InvoiceLine>
+      <cbc:ID>14</cbc:ID>
+      <cbc:InvoicedQuantity unitCode="C62">35.00</cbc:InvoicedQuantity>
+      <cbc:LineExtensionAmount currencyID="RON">13.50</cbc:LineExtensionAmount>
+      <cac:Item>
+      <cbc:Name>Taxa Ulei</cbc:Name>
+      <cac:SellersItemIdentification>
+      <cbc:ID>0520</cbc:ID>
+      </cac:SellersItemIdentification>
+      <cac:ClassifiedTaxCategory>
+      <cbc:ID>S</cbc:ID>
+      <cbc:Percent>19.00</cbc:Percent>
+      <cac:TaxScheme>
+      <cbc:ID>VAT</cbc:ID>
+      </cac:TaxScheme>
+      </cac:ClassifiedTaxCategory>
+      </cac:Item>
+      <cac:Price>
+      <cbc:PriceAmount currencyID="RON">0.3857</cbc:PriceAmount>
+      <cbc:BaseQuantity unitCode="C62">1</cbc:BaseQuantity>
+      </cac:Price>
+      </cac:InvoiceLine>
+      <cac:InvoiceLine>
+      <cbc:ID>15</cbc:ID>
+      <cbc:InvoicedQuantity unitCode="C62">8875.75</cbc:InvoicedQuantity>
+      <cbc:LineExtensionAmount currencyID="RON">52726.75</cbc:LineExtensionAmount>
+      <cac:Item>
+      <cbc:Name>item name</cbc:Name>
+      <cac:SellersItemIdentification>
+      <cbc:ID>0540</cbc:ID>
+      </cac:SellersItemIdentification>
+      <cac:ClassifiedTaxCategory>
+      <cbc:ID>S</cbc:ID>
+      <cbc:Percent>19.00</cbc:Percent>
+      <cac:TaxScheme>
+      <cbc:ID>VAT</cbc:ID>
+      </cac:TaxScheme>
+      </cac:ClassifiedTaxCategory>
+      </cac:Item>
+      <cac:Price>
+      <cbc:PriceAmount currencyID="RON">5.9405</cbc:PriceAmount>
+      <cbc:BaseQuantity unitCode="C62">1</cbc:BaseQuantity>
+      </cac:Price>
+      </cac:InvoiceLine>
+      <cac:InvoiceLine>
+      <cbc:ID>16</cbc:ID>
+      <cbc:InvoicedQuantity unitCode="C62">538.00</cbc:InvoicedQuantity>
+      <cbc:LineExtensionAmount currencyID="RON">64490.35</cbc:LineExtensionAmount>
+      <cac:Item>
+      <cbc:Name>item name</cbc:Name>
+      <cac:SellersItemIdentification>
+      <cbc:ID>0541</cbc:ID>
+      </cac:SellersItemIdentification>
+      <cac:ClassifiedTaxCategory>
+      <cbc:ID>S</cbc:ID>
+      <cbc:Percent>19.00</cbc:Percent>
+      <cac:TaxScheme>
+      <cbc:ID>VAT</cbc:ID>
+      </cac:TaxScheme>
+      </cac:ClassifiedTaxCategory>
+      </cac:Item>
+      <cac:Price>
+      <cbc:PriceAmount currencyID="RON">119.8705</cbc:PriceAmount>
+      <cbc:BaseQuantity unitCode="C62">1</cbc:BaseQuantity>
+      </cac:Price>
+      </cac:InvoiceLine>
+      <cac:InvoiceLine>
+      <cbc:ID>17</cbc:ID>
+      <cbc:InvoicedQuantity unitCode="C62">17.00</cbc:InvoicedQuantity>
+      <cbc:LineExtensionAmount currencyID="RON">281.13</cbc:LineExtensionAmount>
+      <cac:Item>
+      <cbc:Name>item name</cbc:Name>
+      <cac:SellersItemIdentification>
+      <cbc:ID>0550</cbc:ID>
+      </cac:SellersItemIdentification>
+      <cac:ClassifiedTaxCategory>
+      <cbc:ID>S</cbc:ID>
+      <cbc:Percent>19.00</cbc:Percent>
+      <cac:TaxScheme>
+      <cbc:ID>VAT</cbc:ID>
+      </cac:TaxScheme>
+      </cac:ClassifiedTaxCategory>
+      </cac:Item>
+      <cac:Price>
+      <cbc:PriceAmount currencyID="RON">16.5371</cbc:PriceAmount>
+      <cbc:BaseQuantity unitCode="C62">1</cbc:BaseQuantity>
+      </cac:Price>
+      </cac:InvoiceLine>
+      <cac:InvoiceLine>
+      <cbc:ID>18</cbc:ID>
+      <cbc:InvoicedQuantity unitCode="C62">639.00</cbc:InvoicedQuantity>
+      <cbc:LineExtensionAmount currencyID="RON">13339.83</cbc:LineExtensionAmount>
+      <cac:Item>
+      <cbc:Name>item name</cbc:Name>
+      <cac:SellersItemIdentification>
+      <cbc:ID>0552</cbc:ID>
+      </cac:SellersItemIdentification>
+      <cac:ClassifiedTaxCategory>
+      <cbc:ID>S</cbc:ID>
+      <cbc:Percent>19.00</cbc:Percent>
+      <cac:TaxScheme>
+      <cbc:ID>VAT</cbc:ID>
+      </cac:TaxScheme>
+      </cac:ClassifiedTaxCategory>
+      </cac:Item>
+      <cac:Price>
+      <cbc:PriceAmount currencyID="RON">20.8761</cbc:PriceAmount>
+      <cbc:BaseQuantity unitCode="C62">1</cbc:BaseQuantity>
+      </cac:Price>
+      </cac:InvoiceLine>
+      <cac:InvoiceLine>
+      <cbc:ID>19</cbc:ID>
+      <cbc:InvoicedQuantity unitCode="C62">1084.00</cbc:InvoicedQuantity>
+      <cbc:LineExtensionAmount currencyID="RON">11739.14</cbc:LineExtensionAmount>
+      <cac:Item>
+      <cbc:Name>item name</cbc:Name>
+      <cac:SellersItemIdentification>
+      <cbc:ID>0632</cbc:ID>
+      </cac:SellersItemIdentification>
+      <cac:ClassifiedTaxCategory>
+      <cbc:ID>S</cbc:ID>
+      <cbc:Percent>19.00</cbc:Percent>
+      <cac:TaxScheme>
+      <cbc:ID>VAT</cbc:ID>
+      </cac:TaxScheme>
+      </cac:ClassifiedTaxCategory>
+      </cac:Item>
+      <cac:Price>
+      <cbc:PriceAmount currencyID="RON">10.8295</cbc:PriceAmount>
+      <cbc:BaseQuantity unitCode="C62">1</cbc:BaseQuantity>
+      </cac:Price>
+      </cac:InvoiceLine>
+      <cac:InvoiceLine>
+      <cbc:ID>20</cbc:ID>
+      <cbc:InvoicedQuantity unitCode="C62">5.00</cbc:InvoicedQuantity>
+      <cbc:LineExtensionAmount currencyID="RON">20.96</cbc:LineExtensionAmount>
+      <cac:Item>
+      <cbc:Name>item name</cbc:Name>
+      <cac:SellersItemIdentification>
+      <cbc:ID>0640</cbc:ID>
+      </cac:SellersItemIdentification>
+      <cac:ClassifiedTaxCategory>
+      <cbc:ID>S</cbc:ID>
+      <cbc:Percent>19.00</cbc:Percent>
+      <cac:TaxScheme>
+      <cbc:ID>VAT</cbc:ID>
+      </cac:TaxScheme>
+      </cac:ClassifiedTaxCategory>
+      </cac:Item>
+      <cac:Price>
+      <cbc:PriceAmount currencyID="RON">4.1920</cbc:PriceAmount>
+      <cbc:BaseQuantity unitCode="C62">1</cbc:BaseQuantity>
+      </cac:Price>
+      </cac:InvoiceLine>
+      <cac:InvoiceLine>
+      <cbc:ID>21</cbc:ID>
+      <cbc:InvoicedQuantity unitCode="C62">9.00</cbc:InvoicedQuantity>
+      <cbc:LineExtensionAmount currencyID="RON">570.37</cbc:LineExtensionAmount>
+      <cac:Item>
+      <cbc:Name>item name</cbc:Name>
+      <cac:SellersItemIdentification>
+      <cbc:ID>0702</cbc:ID>
+      </cac:SellersItemIdentification>
+      <cac:ClassifiedTaxCategory>
+      <cbc:ID>S</cbc:ID>
+      <cbc:Percent>19.00</cbc:Percent>
+      <cac:TaxScheme>
+      <cbc:ID>VAT</cbc:ID>
+      </cac:TaxScheme>
+      </cac:ClassifiedTaxCategory>
+      </cac:Item>
+      <cac:Price>
+      <cbc:PriceAmount currencyID="RON">63.3744</cbc:PriceAmount>
+      <cbc:BaseQuantity unitCode="C62">1</cbc:BaseQuantity>
+      </cac:Price>
+      </cac:InvoiceLine>
+      <cac:InvoiceLine>
+      <cbc:ID>22</cbc:ID>
+      <cbc:InvoicedQuantity unitCode="C62">198.00</cbc:InvoicedQuantity>
+      <cbc:LineExtensionAmount currencyID="RON">2662.44</cbc:LineExtensionAmount>
+      <cac:Item>
+      <cbc:Name>item name</cbc:Name>
+      <cac:SellersItemIdentification>
+      <cbc:ID>0710</cbc:ID>
+      </cac:SellersItemIdentification>
+      <cac:ClassifiedTaxCategory>
+      <cbc:ID>S</cbc:ID>
+      <cbc:Percent>19.00</cbc:Percent>
+      <cac:TaxScheme>
+      <cbc:ID>VAT</cbc:ID>
+      </cac:TaxScheme>
+      </cac:ClassifiedTaxCategory>
+      </cac:Item>
+      <cac:Price>
+      <cbc:PriceAmount currencyID="RON">13.4467</cbc:PriceAmount>
+      <cbc:BaseQuantity unitCode="C62">1</cbc:BaseQuantity>
+      </cac:Price>
+      </cac:InvoiceLine>
+      <cac:InvoiceLine>
+      <cbc:ID>23</cbc:ID>
+      <cbc:InvoicedQuantity unitCode="C62">36.00</cbc:InvoicedQuantity>
+      <cbc:LineExtensionAmount currencyID="RON">876.06</cbc:LineExtensionAmount>
+      <cac:Item>
+      <cbc:Name>item name</cbc:Name>
+      <cac:SellersItemIdentification>
+      <cbc:ID>0724</cbc:ID>
+      </cac:SellersItemIdentification>
+      <cac:ClassifiedTaxCategory>
+      <cbc:ID>S</cbc:ID>
+      <cbc:Percent>19.00</cbc:Percent>
+      <cac:TaxScheme>
+      <cbc:ID>VAT</cbc:ID>
+      </cac:TaxScheme>
+      </cac:ClassifiedTaxCategory>
+      </cac:Item>
+      <cac:Price>
+      <cbc:PriceAmount currencyID="RON">24.3350</cbc:PriceAmount>
+      <cbc:BaseQuantity unitCode="C62">1</cbc:BaseQuantity>
+      </cac:Price>
+      </cac:InvoiceLine>
+      <cac:InvoiceLine>
+      <cbc:ID>24</cbc:ID>
+      <cbc:InvoicedQuantity unitCode="C62">382.00</cbc:InvoicedQuantity>
+      <cbc:LineExtensionAmount currencyID="RON">6304.10</cbc:LineExtensionAmount>
+      <cac:Item>
+      <cbc:Name>item name</cbc:Name>
+      <cac:SellersItemIdentification>
+      <cbc:ID>0810</cbc:ID>
+      </cac:SellersItemIdentification>
+      <cac:ClassifiedTaxCategory>
+      <cbc:ID>S</cbc:ID>
+      <cbc:Percent>19.00</cbc:Percent>
+      <cac:TaxScheme>
+      <cbc:ID>VAT</cbc:ID>
+      </cac:TaxScheme>
+      </cac:ClassifiedTaxCategory>
+      </cac:Item>
+      <cac:Price>
+      <cbc:PriceAmount currencyID="RON">16.5029</cbc:PriceAmount>
+      <cbc:BaseQuantity unitCode="C62">1</cbc:BaseQuantity>
+      </cac:Price>
+      </cac:InvoiceLine>
+      <cac:InvoiceLine>
+      <cbc:ID>25</cbc:ID>
+      <cbc:InvoicedQuantity unitCode="C62">18.00</cbc:InvoicedQuantity>
+      <cbc:LineExtensionAmount currencyID="RON">254.65</cbc:LineExtensionAmount>
+      <cac:Item>
+      <cbc:Name>item name</cbc:Name>
+      <cac:SellersItemIdentification>
+      <cbc:ID>0812</cbc:ID>
+      </cac:SellersItemIdentification>
+      <cac:ClassifiedTaxCategory>
+      <cbc:ID>S</cbc:ID>
+      <cbc:Percent>9.00</cbc:Percent>
+      <cac:TaxScheme>
+      <cbc:ID>VAT</cbc:ID>
+      </cac:TaxScheme>
+      </cac:ClassifiedTaxCategory>
+      </cac:Item>
+      <cac:Price>
+      <cbc:PriceAmount currencyID="RON">14.1472</cbc:PriceAmount>
+      <cbc:BaseQuantity unitCode="C62">1</cbc:BaseQuantity>
+      </cac:Price>
+      </cac:InvoiceLine>
+      <cac:InvoiceLine>
+      <cbc:ID>26</cbc:ID>
+      <cbc:InvoicedQuantity unitCode="C62">1.00</cbc:InvoicedQuantity>
+      <cbc:LineExtensionAmount currencyID="RON">14.61</cbc:LineExtensionAmount>
+      <cac:Item>
+      <cbc:Name>Mancare</cbc:Name>
+      <cac:SellersItemIdentification>
+      <cbc:ID>0820</cbc:ID>
+      </cac:SellersItemIdentification>
+      <cac:ClassifiedTaxCategory>
+      <cbc:ID>S</cbc:ID>
+      <cbc:Percent>19.00</cbc:Percent>
+      <cac:TaxScheme>
+      <cbc:ID>VAT</cbc:ID>
+      </cac:TaxScheme>
+      </cac:ClassifiedTaxCategory>
+      </cac:Item>
+      <cac:Price>
+      <cbc:PriceAmount currencyID="RON">14.6100</cbc:PriceAmount>
+      <cbc:BaseQuantity unitCode="C62">1</cbc:BaseQuantity>
+      </cac:Price>
+      </cac:InvoiceLine>
+      <cac:InvoiceLine>
+      <cbc:ID>27</cbc:ID>
+      <cbc:InvoicedQuantity unitCode="C62">2228.00</cbc:InvoicedQuantity>
+      <cbc:LineExtensionAmount currencyID="RON">15754.58</cbc:LineExtensionAmount>
+      <cac:Item>
+      <cbc:Name>item name</cbc:Name>
+      <cac:SellersItemIdentification>
+      <cbc:ID>0824</cbc:ID>
+      </cac:SellersItemIdentification>
+      <cac:ClassifiedTaxCategory>
+      <cbc:ID>S</cbc:ID>
+      <cbc:Percent>9.00</cbc:Percent>
+      <cac:TaxScheme>
+      <cbc:ID>VAT</cbc:ID>
+      </cac:TaxScheme>
+      </cac:ClassifiedTaxCategory>
+      </cac:Item>
+      <cac:Price>
+      <cbc:PriceAmount currencyID="RON">7.0712</cbc:PriceAmount>
+      <cbc:BaseQuantity unitCode="C62">1</cbc:BaseQuantity>
+      </cac:Price>
+      </cac:InvoiceLine>
+      <cac:InvoiceLine>
+      <cbc:ID>28</cbc:ID>
+      <cbc:InvoicedQuantity unitCode="C62">40.00</cbc:InvoicedQuantity>
+      <cbc:LineExtensionAmount currencyID="RON">606.29</cbc:LineExtensionAmount>
+      <cac:Item>
+      <cbc:Name>item name</cbc:Name>
+      <cac:SellersItemIdentification>
+      <cbc:ID>0830</cbc:ID>
+      </cac:SellersItemIdentification>
+      <cac:ClassifiedTaxCategory>
+      <cbc:ID>S</cbc:ID>
+      <cbc:Percent>19.00</cbc:Percent>
+      <cac:TaxScheme>
+      <cbc:ID>VAT</cbc:ID>
+      </cac:TaxScheme>
+      </cac:ClassifiedTaxCategory>
+      </cac:Item>
+      <cac:Price>
+      <cbc:PriceAmount currencyID="RON">15.1573</cbc:PriceAmount>
+      <cbc:BaseQuantity unitCode="C62">1</cbc:BaseQuantity>
+      </cac:Price>
+      </cac:InvoiceLine>
+      <cac:InvoiceLine>
+      <cbc:ID>29</cbc:ID>
+      <cbc:InvoicedQuantity unitCode="C62">1242.00</cbc:InvoicedQuantity>
+      <cbc:LineExtensionAmount currencyID="RON">6866.22</cbc:LineExtensionAmount>
+      <cac:Item>
+      <cbc:Name>item name</cbc:Name>
+      <cac:SellersItemIdentification>
+      <cbc:ID>0832</cbc:ID>
+      </cac:SellersItemIdentification>
+      <cac:ClassifiedTaxCategory>
+      <cbc:ID>S</cbc:ID>
+      <cbc:Percent>9.00</cbc:Percent>
+      <cac:TaxScheme>
+      <cbc:ID>VAT</cbc:ID>
+      </cac:TaxScheme>
+      </cac:ClassifiedTaxCategory>
+      </cac:Item>
+      <cac:Price>
+      <cbc:PriceAmount currencyID="RON">5.5284</cbc:PriceAmount>
+      <cbc:BaseQuantity unitCode="C62">1</cbc:BaseQuantity>
+      </cac:Price>
+      </cac:InvoiceLine>
+      <cac:InvoiceLine>
+      <cbc:ID>30</cbc:ID>
+      <cbc:InvoicedQuantity unitCode="C62">64.00</cbc:InvoicedQuantity>
+      <cbc:LineExtensionAmount currencyID="RON">448.73</cbc:LineExtensionAmount>
+      <cac:Item>
+      <cbc:Name>item name</cbc:Name>
+      <cac:SellersItemIdentification>
+      <cbc:ID>0851</cbc:ID>
+      </cac:SellersItemIdentification>
+      <cac:ClassifiedTaxCategory>
+      <cbc:ID>S</cbc:ID>
+      <cbc:Percent>5.00</cbc:Percent>
+      <cac:TaxScheme>
+      <cbc:ID>VAT</cbc:ID>
+      </cac:TaxScheme>
+      </cac:ClassifiedTaxCategory>
+      </cac:Item>
+      <cac:Price>
+      <cbc:PriceAmount currencyID="RON">7.0114</cbc:PriceAmount>
+      <cbc:BaseQuantity unitCode="C62">1</cbc:BaseQuantity>
+      </cac:Price>
+      </cac:InvoiceLine>
+      <cac:InvoiceLine>
+      <cbc:ID>31</cbc:ID>
+      <cbc:InvoicedQuantity unitCode="C62">1359.00</cbc:InvoicedQuantity>
+      <cbc:LineExtensionAmount currencyID="RON">25135.83</cbc:LineExtensionAmount>
+      <cac:Item>
+      <cbc:Name>item name</cbc:Name>
+      <cac:SellersItemIdentification>
+      <cbc:ID>0854</cbc:ID>
+      </cac:SellersItemIdentification>
+      <cac:ClassifiedTaxCategory>
+      <cbc:ID>S</cbc:ID>
+      <cbc:Percent>19.00</cbc:Percent>
+      <cac:TaxScheme>
+      <cbc:ID>VAT</cbc:ID>
+      </cac:TaxScheme>
+      </cac:ClassifiedTaxCategory>
+      </cac:Item>
+      <cac:Price>
+      <cbc:PriceAmount currencyID="RON">18.4958</cbc:PriceAmount>
+      <cbc:BaseQuantity unitCode="C62">1</cbc:BaseQuantity>
+      </cac:Price>
+      </cac:InvoiceLine>
+      <cac:InvoiceLine>
+      <cbc:ID>32</cbc:ID>
+      <cbc:InvoicedQuantity unitCode="C62">6.00</cbc:InvoicedQuantity>
+      <cbc:LineExtensionAmount currencyID="RON">247.39</cbc:LineExtensionAmount>
+      <cac:Item>
+      <cbc:Name>item name</cbc:Name>
+      <cac:SellersItemIdentification>
+      <cbc:ID>0856</cbc:ID>
+      </cac:SellersItemIdentification>
+      <cac:ClassifiedTaxCategory>
+      <cbc:ID>S</cbc:ID>
+      <cbc:Percent>5.00</cbc:Percent>
+      <cac:TaxScheme>
+      <cbc:ID>VAT</cbc:ID>
+      </cac:TaxScheme>
+      </cac:ClassifiedTaxCategory>
+      </cac:Item>
+      <cac:Price>
+      <cbc:PriceAmount currencyID="RON">41.2317</cbc:PriceAmount>
+      <cbc:BaseQuantity unitCode="C62">1</cbc:BaseQuantity>
+      </cac:Price>
+      </cac:InvoiceLine>
+      <cac:InvoiceLine>
+      <cbc:ID>33</cbc:ID>
+      <cbc:InvoicedQuantity unitCode="C62">2315.00</cbc:InvoicedQuantity>
+      <cbc:LineExtensionAmount currencyID="RON">10417.50</cbc:LineExtensionAmount>
+      <cac:Item>
+      <cbc:Name>item name</cbc:Name>
+      <cac:SellersItemIdentification>
+      <cbc:ID>9000</cbc:ID>
+      </cac:SellersItemIdentification>
+      <cac:ClassifiedTaxCategory>
+      <cbc:ID>S</cbc:ID>
+      <cbc:Percent>19.00</cbc:Percent>
+      <cac:TaxScheme>
+      <cbc:ID>VAT</cbc:ID>
+      </cac:TaxScheme>
+      </cac:ClassifiedTaxCategory>
+      </cac:Item>
+      <cac:Price>
+      <cbc:PriceAmount currencyID="RON">4.5000</cbc:PriceAmount>
+      <cbc:BaseQuantity unitCode="C62">1</cbc:BaseQuantity>
+      </cac:Price>
+      </cac:InvoiceLine>
+      <cac:InvoiceLine>
+      <cbc:ID>34</cbc:ID>
+      <cbc:InvoicedQuantity unitCode="C62">1.00</cbc:InvoicedQuantity>
+      <cbc:LineExtensionAmount currencyID="RON">1.12</cbc:LineExtensionAmount>
+      <cac:Item>
+      <cbc:Name>item name</cbc:Name>
+      <cac:SellersItemIdentification>
+      <cbc:ID>9008</cbc:ID>
+      </cac:SellersItemIdentification>
+      <cac:ClassifiedTaxCategory>
+      <cbc:ID>S</cbc:ID>
+      <cbc:Percent>19.00</cbc:Percent>
+      <cac:TaxScheme>
+      <cbc:ID>VAT</cbc:ID>
+      </cac:TaxScheme>
+      </cac:ClassifiedTaxCategory>
+      </cac:Item>
+      <cac:Price>
+      <cbc:PriceAmount currencyID="RON">1.1200</cbc:PriceAmount>
+      <cbc:BaseQuantity unitCode="C62">1</cbc:BaseQuantity>
+      </cac:Price>
+      </cac:InvoiceLine>
+      <cac:InvoiceLine>
+      <cbc:ID>35</cbc:ID>
+      <cbc:InvoicedQuantity unitCode="C62">15629.00</cbc:InvoicedQuantity>
+      <cbc:LineExtensionAmount currencyID="RON">209892.26</cbc:LineExtensionAmount>
+      <cac:Item>
+      <cbc:Name>item name</cbc:Name>
+      <cac:SellersItemIdentification>
+      <cbc:ID>9012</cbc:ID>
+      </cac:SellersItemIdentification>
+      <cac:ClassifiedTaxCategory>
+      <cbc:ID>S</cbc:ID>
+      <cbc:Percent>19.00</cbc:Percent>
+      <cac:TaxScheme>
+      <cbc:ID>VAT</cbc:ID>
+      </cac:TaxScheme>
+      </cac:ClassifiedTaxCategory>
+      </cac:Item>
+      <cac:Price>
+      <cbc:PriceAmount currencyID="RON">13.4297</cbc:PriceAmount>
+      <cbc:BaseQuantity unitCode="C62">1</cbc:BaseQuantity>
+      </cac:Price>
+      </cac:InvoiceLine>
+      </Invoice>
+      XML;
+      ?>
+
+
 Daca aveti nevoie de informatii privind [**Sedii DGRFP**](https://www.anaf.ro/anaf/internet/ANAF/contact/adrese_unitati_fiscale), adica adresele unitatilor fiscale, puteti cauta pe site-ul ***ANAF***
 
 
