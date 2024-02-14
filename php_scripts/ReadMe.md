@@ -60,56 +60,56 @@ Hai sa luam exemplul testat de [**Daniel-Popiniuc**](https://github.com/danielgp
                      <cbc:EndDate>2022-05-31</cbc:EndDate>
                     </cac:InvoicePeriod>
                     <cac:AccountingSupplierParty>
-                    <cac:Party>
-                    <cac:PartyName>
-                    <cbc:Name>Seller SRL</cbc:Name>
-                    </cac:PartyName>
-                    <cac:PostalAddress>
-                    <cbc:StreetName>line1</cbc:StreetName>
-                    <cbc:CityName>SECTOR1</cbc:CityName>
-                    <cbc:PostalZone>013329</cbc:PostalZone>
-                    <cbc:CountrySubentity>RO-B</cbc:CountrySubentity>
-                    <cac:Country>
-                    <cbc:IdentificationCode>RO</cbc:IdentificationCode>
-                    </cac:Country>
-                    </cac:PostalAddress>
-                    <cac:PartyTaxScheme>
-                    <cbc:CompanyID>RO1234567890</cbc:CompanyID>
-                    <cac:TaxScheme>
-                    <cbc:ID>VAT</cbc:ID>
-                    </cac:TaxScheme>
-                    </cac:PartyTaxScheme>
-                    <cac:PartyLegalEntity>
-                    <cbc:RegistrationName>Seller SRL</cbc:RegistrationName>
-                    <cbc:CompanyLegalForm>J40/12345/1998</cbc:CompanyLegalForm>
-                    </cac:PartyLegalEntity>
-                    <cac:Contact>
-                    <cbc:ElectronicMail>mail@seller.com</cbc:ElectronicMail>
-                    </cac:Contact>
-                    </cac:Party>
+                     <cac:Party>
+                      <cac:PartyName>
+                       <cbc:Name>Seller SRL</cbc:Name>
+                      </cac:PartyName>
+                     <cac:PostalAddress>
+                      <cbc:StreetName>line1</cbc:StreetName>
+                      <cbc:CityName>SECTOR1</cbc:CityName>
+                      <cbc:PostalZone>013329</cbc:PostalZone>
+                      <cbc:CountrySubentity>RO-B</cbc:CountrySubentity>
+                      <cac:Country>
+                       <cbc:IdentificationCode>RO</cbc:IdentificationCode>
+                      </cac:Country>
+                     </cac:PostalAddress>
+                     <cac:PartyTaxScheme>
+                      <cbc:CompanyID>RO1234567890</cbc:CompanyID>
+                      <cac:TaxScheme>
+                       <cbc:ID>VAT</cbc:ID>
+                      </cac:TaxScheme>
+                     </cac:PartyTaxScheme>
+                     <cac:PartyLegalEntity>
+                      <cbc:RegistrationName>Seller SRL</cbc:RegistrationName>
+                      <cbc:CompanyLegalForm>J40/12345/1998</cbc:CompanyLegalForm>
+                     </cac:PartyLegalEntity>
+                     <cac:Contact>
+                      <cbc:ElectronicMail>mail@seller.com</cbc:ElectronicMail>
+                     </cac:Contact>
+                     </cac:Party>
                     </cac:AccountingSupplierParty>
                     <cac:AccountingCustomerParty>
-                    <cac:Party>
-                    <cac:PartyIdentification>
-                    <cbc:ID>123456</cbc:ID>
-                    </cac:PartyIdentification>
-                    <cac:PartyName>
-                    <cbc:Name>Buyer name</cbc:Name>
-                    </cac:PartyName>
-                    <cac:PostalAddress>
-                    <cbc:StreetName>BD DECEBAL NR 1 ET1</cbc:StreetName>
-                    <cbc:CityName>ARAD</cbc:CityName>
-                    <cbc:PostalZone>123456</cbc:PostalZone>
-                    <cbc:CountrySubentity>RO-AR</cbc:CountrySubentity>
-                    <cac:Country>
-                    <cbc:IdentificationCode>RO</cbc:IdentificationCode>
-                    </cac:Country>
-                    </cac:PostalAddress>
-                    <cac:PartyTaxScheme>
-                    <cbc:CompanyID>RO987456123</cbc:CompanyID>
-                    <cac:TaxScheme>
-                    <cbc:ID>VAT</cbc:ID>
-                    </cac:TaxScheme>
+                     <cac:Party>
+                      <cac:PartyIdentification>
+                       <cbc:ID>123456</cbc:ID>
+                      </cac:PartyIdentification>
+                     <cac:PartyName>
+                      <cbc:Name>Buyer name</cbc:Name>
+                     </cac:PartyName>
+                     <cac:PostalAddress>
+                      <cbc:StreetName>BD DECEBAL NR 1 ET1</cbc:StreetName>
+                      <cbc:CityName>ARAD</cbc:CityName>
+                      <cbc:PostalZone>123456</cbc:PostalZone>
+                      <cbc:CountrySubentity>RO-AR</cbc:CountrySubentity>
+                      <cac:Country>
+                       <cbc:IdentificationCode>RO</cbc:IdentificationCode>
+                      </cac:Country>
+                     </cac:PostalAddress>
+                     <cac:PartyTaxScheme>
+                      <cbc:CompanyID>RO987456123</cbc:CompanyID>
+                     <cac:TaxScheme>
+                      <cbc:ID>VAT</cbc:ID>
+                     </cac:TaxScheme>
                     </cac:PartyTaxScheme>
                     <cac:PartyLegalEntity>
                     <cbc:RegistrationName>Buyer SRL</cbc:RegistrationName>
