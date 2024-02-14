@@ -239,7 +239,7 @@ Hai sa luam exemplul testat de [**Daniel-Popiniuc**](https://github.com/danielgp
                     <cac:Price>
                     <cbc:PriceAmount currencyID="RON">7.0987</cbc:PriceAmount>
                     <cbc:BaseQuantity unitCode="C62">1</cbc:BaseQuantity>
-                    </cac:Price>
+                     </cac:Price>
                     </cac:InvoiceLine>
                     <cac:InvoiceLine>
                     <cbc:ID>3</cbc:ID>
@@ -268,7 +268,7 @@ Hai sa luam exemplul testat de [**Daniel-Popiniuc**](https://github.com/danielgp
                     <cbc:Percent>19.00</cbc:Percent>
                     <cac:TaxScheme>
                     <cbc:ID>VAT</cbc:ID>
-                    </cac:TaxScheme>
+                     </cac:TaxScheme>
                     </cac:ClassifiedTaxCategory>
                       </cac:Item>
                     <cac:Price>
@@ -309,7 +309,7 @@ Hai sa luam exemplul testat de [**Daniel-Popiniuc**](https://github.com/danielgp
                     <cac:Price>
                     <cbc:PriceAmount currencyID="RON">6.9490</cbc:PriceAmount>
                     <cbc:BaseQuantity unitCode="C62">1</cbc:BaseQuantity>
-                    </cac:Price>
+                     </cac:Price>
                     </cac:InvoiceLine>
                     <cac:InvoiceLine>
                     <cbc:ID>5</cbc:ID>
@@ -338,7 +338,7 @@ Hai sa luam exemplul testat de [**Daniel-Popiniuc**](https://github.com/danielgp
                     <cbc:Percent>19.00</cbc:Percent>
                     <cac:TaxScheme>
                     <cbc:ID>VAT</cbc:ID>
-                    </cac:TaxScheme>
+                     </cac:TaxScheme>
                     </cac:ClassifiedTaxCategory>
                       </cac:Item>
                     <cac:Price>
@@ -379,7 +379,7 @@ Hai sa luam exemplul testat de [**Daniel-Popiniuc**](https://github.com/danielgp
                     <cac:Price>
                     <cbc:PriceAmount currencyID="RON">6.8777</cbc:PriceAmount>
                     <cbc:BaseQuantity unitCode="C62">1</cbc:BaseQuantity>
-                    </cac:Price>
+                     </cac:Price>
                     </cac:InvoiceLine>
                     <cac:InvoiceLine>
                     <cbc:ID>7</cbc:ID>
@@ -443,13 +443,13 @@ Hai sa luam exemplul testat de [**Daniel-Popiniuc**](https://github.com/danielgp
                     <cbc:Percent>19.00</cbc:Percent>
                     <cac:TaxScheme>
                     <cbc:ID>VAT</cbc:ID>
-                    </cac:TaxScheme>
+                     </cac:TaxScheme>
                     </cac:ClassifiedTaxCategory>
                       </cac:Item>
                     <cac:Price>
                     <cbc:PriceAmount currencyID="RON">6.5974</cbc:PriceAmount>
                     <cbc:BaseQuantity unitCode="C62">1</cbc:BaseQuantity>
-                    </cac:Price>
+                     </cac:Price>
                     </cac:InvoiceLine>
                     <cac:InvoiceLine>
                     <cbc:ID>9</cbc:ID>
@@ -478,7 +478,7 @@ Hai sa luam exemplul testat de [**Daniel-Popiniuc**](https://github.com/danielgp
                     <cbc:Percent>19.00</cbc:Percent>
                     <cac:TaxScheme>
                     <cbc:ID>VAT</cbc:ID>
-                    </cac:TaxScheme>
+                     </cac:TaxScheme>
                     </cac:ClassifiedTaxCategory>
                       </cac:Item>
                     <cac:Price>
@@ -513,13 +513,13 @@ Hai sa luam exemplul testat de [**Daniel-Popiniuc**](https://github.com/danielgp
                     <cbc:Percent>19.00</cbc:Percent>
                     <cac:TaxScheme>
                     <cbc:ID>VAT</cbc:ID>
-                    </cac:TaxScheme>
-                    </cac:ClassifiedTaxCategory>
+                      </cac:TaxScheme>
+                     </cac:ClassifiedTaxCategory>
                     </cac:Item>
                     <cac:Price>
                     <cbc:PriceAmount currencyID="RON">3.4328</cbc:PriceAmount>
                     <cbc:BaseQuantity unitCode="C62">1</cbc:BaseQuantity>
-                    </cac:Price>
+                     </cac:Price>
                     </cac:InvoiceLine>
                     <cac:InvoiceLine>
                     <cbc:ID>11</cbc:ID>
@@ -541,7 +541,7 @@ Hai sa luam exemplul testat de [**Daniel-Popiniuc**](https://github.com/danielgp
                     <cac:Price>
                     <cbc:PriceAmount currencyID="RON">116.6378</cbc:PriceAmount>
                     <cbc:BaseQuantity unitCode="C62">1</cbc:BaseQuantity>
-                    </cac:Price>
+                     </cac:Price>
                     </cac:InvoiceLine>
                     <cac:InvoiceLine>
                     <cbc:ID>12</cbc:ID>
@@ -563,7 +563,7 @@ Hai sa luam exemplul testat de [**Daniel-Popiniuc**](https://github.com/danielgp
                     <cac:Price>
                     <cbc:PriceAmount currencyID="RON">120.6842</cbc:PriceAmount>
                     <cbc:BaseQuantity unitCode="C62">1</cbc:BaseQuantity>
-                    </cac:Price>
+                     </cac:Price>
                     </cac:InvoiceLine>
                     <cac:InvoiceLine>
                     <cbc:ID>13</cbc:ID>
@@ -601,13 +601,13 @@ Hai sa luam exemplul testat de [**Daniel-Popiniuc**](https://github.com/danielgp
                     <cbc:Percent>19.00</cbc:Percent>
                     <cac:TaxScheme>
                     <cbc:ID>VAT</cbc:ID>
-                    </cac:TaxScheme>
-                    </cac:ClassifiedTaxCategory>
+                      </cac:TaxScheme>
+                     </cac:ClassifiedTaxCategory>
                     </cac:Item>
                     <cac:Price>
                     <cbc:PriceAmount currencyID="RON">0.3857</cbc:PriceAmount>
                     <cbc:BaseQuantity unitCode="C62">1</cbc:BaseQuantity>
-                    </cac:Price>
+                     </cac:Price>
                     </cac:InvoiceLine>
                     <cac:InvoiceLine>
                     <cbc:ID>15</cbc:ID>
@@ -623,8 +623,8 @@ Hai sa luam exemplul testat de [**Daniel-Popiniuc**](https://github.com/danielgp
                     <cbc:Percent>19.00</cbc:Percent>
                     <cac:TaxScheme>
                     <cbc:ID>VAT</cbc:ID>
-                    </cac:TaxScheme>
-                    </cac:ClassifiedTaxCategory>
+                      </cac:TaxScheme>
+                     </cac:ClassifiedTaxCategory>
                     </cac:Item>
                     <cac:Price>
                     <cbc:PriceAmount currencyID="RON">5.9405</cbc:PriceAmount>
@@ -733,13 +733,13 @@ Hai sa luam exemplul testat de [**Daniel-Popiniuc**](https://github.com/danielgp
                     <cbc:Percent>19.00</cbc:Percent>
                     <cac:TaxScheme>
                     <cbc:ID>VAT</cbc:ID>
-                     </cac:TaxScheme>
-                    </cac:ClassifiedTaxCategory>
+                        </cac:TaxScheme>
+                       </cac:ClassifiedTaxCategory>
                       </cac:Item>
                     <cac:Price>
                     <cbc:PriceAmount currencyID="RON">4.1920</cbc:PriceAmount>
                     <cbc:BaseQuantity unitCode="C62">1</cbc:BaseQuantity>
-                    </cac:Price>
+                     </cac:Price>
                     </cac:InvoiceLine>
                     <cac:InvoiceLine>
                     <cbc:ID>21</cbc:ID>
@@ -827,7 +827,7 @@ Hai sa luam exemplul testat de [**Daniel-Popiniuc**](https://github.com/danielgp
                     <cac:Price>
                     <cbc:PriceAmount currencyID="RON">16.5029</cbc:PriceAmount>
                     <cbc:BaseQuantity unitCode="C62">1</cbc:BaseQuantity>
-                    </cac:Price>
+                     </cac:Price>
                     </cac:InvoiceLine>
                     <cac:InvoiceLine>
                     <cbc:ID>25</cbc:ID>
@@ -1047,7 +1047,7 @@ Hai sa luam exemplul testat de [**Daniel-Popiniuc**](https://github.com/danielgp
                       <cac:Price>
                         <cbc:PriceAmount currencyID="RON">1.1200</cbc:PriceAmount>
                         <cbc:BaseQuantity unitCode="C62">1</cbc:BaseQuantity>
-                      </cac:Price>
+                       </cac:Price>
                       </cac:InvoiceLine>
                       <cac:InvoiceLine>
                       <cbc:ID>35</cbc:ID>
