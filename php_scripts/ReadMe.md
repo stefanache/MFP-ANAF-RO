@@ -42,12 +42,9 @@ Totusi generarea eFacturii in **PhP** poate fi foarte mult simplificata daca sti
 Puteti folosi pentru generarea fisierului ***XML(.xml)*** o librarie simpla cum este  [**SimpleXML**](https://www.php.net/manual/en/simplexml.examples-basic.php);
 Hai sa luam exemplul testat de [**Daniel-Popiniuc**](https://github.com/danielgp/eFactura/blob/main/testing/UBL_examples/Romanian/eInvoice_ex.xml) si sa-l generam cu SimpleXML:
 
- - pentru inceput plasati continutul urmator intr-un fisier pe care sal denumim **eFacturaMeaContent.inlude.php**:
+ - pentru inceput plasati continutul urmator intr-un fisier pe care sa-l denumim **eFacturaMeaContent.inlude.php**:
       <?php
       $xmlstr = <<<XML
-      Click entity for XPath. Double-click to collapse/expand. Enter XPath or XML string then click XPath1/Parse for results or to XML Tree-ify, respectively.
-      XPath1/Parse
-      XSL 1.0
       <Invoice xmlns="urn:oasis:names:specification:ubl:schema:xsd:Invoice-2" xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2" xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2" xmlns:ccts="urn:un:unece:uncefact:documentation:2" xmlns:qdt="urn:oasis:names:specification:ubl:schema:xsd:QualifiedDataTypes-2" xmlns:udt="urn:oasis:names:specification:ubl:schema:xsd:UnqualifiedDataTypes-2" xmlns:xs="https://www.w3.org/2001/XMLSchema" xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance">
       <cbc:UBLVersionID>2.1</cbc:UBLVersionID>
       <cbc:CustomizationID>urn:cen.eu:en16931:2017#compliant#urn:efactura.mfinante.ro:CIUS-RO:1.0.1</cbc:CustomizationID>
