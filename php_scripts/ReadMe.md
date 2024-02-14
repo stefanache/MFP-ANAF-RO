@@ -1078,9 +1078,10 @@ Hai sa luam exemplul testat de [**Daniel-Popiniuc**](https://github.com/danielgp
  - apoi includeti fisierul de mai sus ***eFacturaMeaContent.inlude.php*** in fisierul dumnevoastra principal sa zicem **index.php** care va avea urmatorul format:
 
                <?php
-                     include 'eFacturaMeaContent.inlude.php';
-                     $eFactura_xml_string = new SimpleXMLElement($xmlstr);
-                     
+                       include 'eFacturaMeaContent.inlude.php';
+                       $eFactura_xml_content = new SimpleXMLElement($xmlstr);
+                       header('Content-Type: text/xml');
+                       echo $eFactura_xml_content->asXML();                  
                <?
 
    In acelasi mod daca doriti puteti lucra si cu sabloane/template-uri
