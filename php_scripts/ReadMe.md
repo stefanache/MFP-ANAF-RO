@@ -1086,7 +1086,7 @@ Hai sa luam exemplul testat de [**Daniel-Popiniuc**](https://github.com/danielgp
 
    In acelasi mod daca doriti puteti lucra si cu sabloane/template-uri
 
-   Aceste fisiere utilizate in acest exemplu [**eFactura/eInvoice**](https://github.com/josemmo/einvoicing?tab=readme-ov-file) scris in **PhP** si bazat pe **SimpleXML** pot fi  gasite in /descarcate din sub-directorul [**simpleInvoice**](https://github.com/stefanache/MFP-ANAF-RO/tree/main/php_scripts/simpleInvoice), gazduit de directorul curent.
+   Aceste fisiere utilizate in acest exemplu [**eFactura/eInvoice**](https://github.com/josemmo/einvoicing?tab=readme-ov-file) scris in **PhP**, armonizat cu [**CIUS-RO**](https://github.com/josemmo/einvoicing/blob/master/src/Presets/CiusRo.php) si bazat pe **SimpleXML** pot fi  gasite in /descarcate din sub-directorul [**simpleInvoice**](https://github.com/stefanache/MFP-ANAF-RO/tree/main/php_scripts/simpleInvoice), gazduit de directorul curent.
    
 Daca aveti nevoie de informatii privind [**Sedii DGRFP**](https://www.anaf.ro/anaf/internet/ANAF/contact/adrese_unitati_fiscale), adica adresele unitatilor fiscale, puteti cauta pe site-ul ***ANAF***
 
