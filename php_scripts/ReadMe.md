@@ -44,7 +44,7 @@ Hai sa luam exemplul testat de [**Daniel-Popiniuc**](https://github.com/danielgp
 
  - pentru inceput plasati continutul urmator intr-un fisier pe care sa-l denumim **eFacturaMeaContent.inlude.php**:
 
-      <?php
+      \<?php
              $xmlstr = <<<XML
              <?xml version="1.0" encoding="UTF-8"?>
              <Invoice xmlns="urn:oasis:names:specification:ubl:schema:xsd:Invoice-2" xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2" xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2" xmlns:ccts="urn:un:unece:uncefact:documentation:2" xmlns:qdt="urn:oasis:names:specification:ubl:schema:xsd:QualifiedDataTypes-2" xmlns:udt="urn:oasis:names:specification:ubl:schema:xsd:UnqualifiedDataTypes-2" xmlns:xs="https://www.w3.org/2001/XMLSchema" xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance">
@@ -1073,7 +1073,7 @@ Hai sa luam exemplul testat de [**Daniel-Popiniuc**](https://github.com/danielgp
              </cac:InvoiceLine>
              </Invoice>
              XML;
-      ?>
+      ?\>
 
  - apoi includeti fisierul de mai sus ***eFacturaMeaContent.inlude.php*** in fisierul dumnevoastra principal sa zicem **index.php** care va avea urmatorul format:
 
