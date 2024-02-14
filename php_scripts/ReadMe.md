@@ -526,15 +526,15 @@ Hai sa luam exemplul testat de [**Daniel-Popiniuc**](https://github.com/danielgp
                     <cbc:InvoicedQuantity unitCode="C62">2730.01</cbc:InvoicedQuantity>
                     <cbc:LineExtensionAmount currencyID="RON">318422.49</cbc:LineExtensionAmount>
                     <cac:Item>
-                    <cbc:Name>Vignieta</cbc:Name>
-                    <cac:SellersItemIdentification>
-                    <cbc:ID>0452</cbc:ID>
-                    </cac:SellersItemIdentification>
-                    <cac:ClassifiedTaxCategory>
-                    <cbc:ID>S</cbc:ID>
-                    <cbc:Percent>19.00</cbc:Percent>
-                    <cac:TaxScheme>
-                    <cbc:ID>VAT</cbc:ID>
+                     <cbc:Name>Vignieta</cbc:Name>
+                     <cac:SellersItemIdentification>
+                      <cbc:ID>0452</cbc:ID>
+                     </cac:SellersItemIdentification>
+                     <cac:ClassifiedTaxCategory>
+                      <cbc:ID>S</cbc:ID>
+                      <cbc:Percent>19.00</cbc:Percent>
+                     <cac:TaxScheme>
+                     <cbc:ID>VAT</cbc:ID>
                       </cac:TaxScheme>
                      </cac:ClassifiedTaxCategory>
                     </cac:Item>
@@ -585,7 +585,7 @@ Hai sa luam exemplul testat de [**Daniel-Popiniuc**](https://github.com/danielgp
                     <cac:Price>
                     <cbc:PriceAmount currencyID="RON">24.0754</cbc:PriceAmount>
                     <cbc:BaseQuantity unitCode="C62">1</cbc:BaseQuantity>
-                    </cac:Price>
+                     </cac:Price>
                     </cac:InvoiceLine>
                     <cac:InvoiceLine>
                     <cbc:ID>14</cbc:ID>
