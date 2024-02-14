@@ -57,7 +57,7 @@ Hai sa luam exemplul testat de [**Daniel-Popiniuc**](https://github.com/danielgp
                     <cbc:Note>some text for invoice note</cbc:Note>
                     <cbc:DocumentCurrencyCode>RON</cbc:DocumentCurrencyCode>
                     <cac:InvoicePeriod>
-                    <cbc:EndDate>2022-05-31</cbc:EndDate>
+                     <cbc:EndDate>2022-05-31</cbc:EndDate>
                     </cac:InvoicePeriod>
                     <cac:AccountingSupplierParty>
                     <cac:Party>
