@@ -42,6 +42,7 @@ Totusi generarea eFacturii in **PhP** poate fi foarte mult simplificata daca sti
 Puteti folosi pentru generarea fisierului ***XML(.xml)*** o librarie simpla cum este  [**SimpleXML**](https://www.php.net/manual/en/simplexml.examples-basic.php);
 Hai sa luam exemplul testat de [**Daniel-Popiniuc**](https://github.com/danielgp/eFactura/blob/main/testing/UBL_examples/Romanian/eInvoice_ex.xml) si sa-l generam cu SimpleXML:
 
+ - pentru inceput plasati continutul urmator intr-un fisier pe care sal denumim **eFacturaMeaContent.inlude.php**:
       <?php
       $xmlstr = <<<XML
       Click entity for XPath. Double-click to collapse/expand. Enter XPath or XML string then click XPath1/Parse for results or to XML Tree-ify, respectively.
@@ -1075,7 +1076,16 @@ Hai sa luam exemplul testat de [**Daniel-Popiniuc**](https://github.com/danielgp
       XML;
       ?>
 
+ - apoi includeti fisierul de mai sus ***eFacturaMeaContent.inlude.php*** in fisierul dumnevoastra principal sa zicem **index.php** care va avea urmatorul format:
 
+               <?php
+                     include 'eFacturaMeaContent.inlude.php';
+                     $eFactura_xml_string = new SimpleXMLElement($xmlstr);
+                     
+               <?
+
+   In acelasi mod daca doriti puteti lucra si cu sabloane/template-uri
+   
 Daca aveti nevoie de informatii privind [**Sedii DGRFP**](https://www.anaf.ro/anaf/internet/ANAF/contact/adrese_unitati_fiscale), adica adresele unitatilor fiscale, puteti cauta pe site-ul ***ANAF***
 
 
