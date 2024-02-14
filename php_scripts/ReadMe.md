@@ -48,140 +48,140 @@ Hai sa luam exemplul testat de [**Daniel-Popiniuc**](https://github.com/danielgp
                     $xmlstr = <<<XML
                     <?xml version="1.0" encoding="UTF-8"?>
                     <Invoice xmlns="urn:oasis:names:specification:ubl:schema:xsd:Invoice-2" xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2" xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2" xmlns:ccts="urn:un:unece:uncefact:documentation:2" xmlns:qdt="urn:oasis:names:specification:ubl:schema:xsd:QualifiedDataTypes-2" xmlns:udt="urn:oasis:names:specification:ubl:schema:xsd:UnqualifiedDataTypes-2" xmlns:xs="https://www.w3.org/2001/XMLSchema" xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance">
-                    <cbc:UBLVersionID>2.1</cbc:UBLVersionID>
-                    <cbc:CustomizationID>urn:cen.eu:en16931:2017#compliant#urn:efactura.mfinante.ro:CIUS-RO:1.0.1</cbc:CustomizationID>
-                    <cbc:ID>6422451356</cbc:ID>
-                    <cbc:IssueDate>2022-05-31</cbc:IssueDate>
-                    <cbc:DueDate>2022-05-31</cbc:DueDate>
-                    <cbc:InvoiceTypeCode>380</cbc:InvoiceTypeCode>
-                    <cbc:Note>some text for invoice note</cbc:Note>
-                    <cbc:DocumentCurrencyCode>RON</cbc:DocumentCurrencyCode>
-                    <cac:InvoicePeriod>
-                     <cbc:EndDate>2022-05-31</cbc:EndDate>
-                    </cac:InvoicePeriod>
-                    <cac:AccountingSupplierParty>
-                     <cac:Party>
-                      <cac:PartyName>
-                       <cbc:Name>Seller SRL</cbc:Name>
-                      </cac:PartyName>
-                     <cac:PostalAddress>
-                      <cbc:StreetName>line1</cbc:StreetName>
-                      <cbc:CityName>SECTOR1</cbc:CityName>
-                      <cbc:PostalZone>013329</cbc:PostalZone>
-                      <cbc:CountrySubentity>RO-B</cbc:CountrySubentity>
-                      <cac:Country>
-                       <cbc:IdentificationCode>RO</cbc:IdentificationCode>
-                      </cac:Country>
-                     </cac:PostalAddress>
-                     <cac:PartyTaxScheme>
-                      <cbc:CompanyID>RO1234567890</cbc:CompanyID>
-                      <cac:TaxScheme>
-                       <cbc:ID>VAT</cbc:ID>
-                      </cac:TaxScheme>
-                     </cac:PartyTaxScheme>
-                     <cac:PartyLegalEntity>
-                      <cbc:RegistrationName>Seller SRL</cbc:RegistrationName>
-                      <cbc:CompanyLegalForm>J40/12345/1998</cbc:CompanyLegalForm>
-                     </cac:PartyLegalEntity>
-                     <cac:Contact>
-                      <cbc:ElectronicMail>mail@seller.com</cbc:ElectronicMail>
-                     </cac:Contact>
-                     </cac:Party>
-                    </cac:AccountingSupplierParty>
-                    <cac:AccountingCustomerParty>
-                     <cac:Party>
-                      <cac:PartyIdentification>
-                       <cbc:ID>123456</cbc:ID>
-                      </cac:PartyIdentification>
-                      <cac:PartyName>
-                       <cbc:Name>Buyer name</cbc:Name>
-                      </cac:PartyName>
-                      <cac:PostalAddress>
-                       <cbc:StreetName>BD DECEBAL NR 1 ET1</cbc:StreetName>
-                       <cbc:CityName>ARAD</cbc:CityName>
-                       <cbc:PostalZone>123456</cbc:PostalZone>
-                       <cbc:CountrySubentity>RO-AR</cbc:CountrySubentity>
-                       <cac:Country>
-                        <cbc:IdentificationCode>RO</cbc:IdentificationCode>
-                       </cac:Country>
-                      </cac:PostalAddress>
-                      <cac:PartyTaxScheme>
-                       <cbc:CompanyID>RO987456123</cbc:CompanyID>
-                       <cac:TaxScheme>
-                        <cbc:ID>VAT</cbc:ID>
-                       </cac:TaxScheme>
-                      </cac:PartyTaxScheme>
-                      <cac:PartyLegalEntity>
-                       <cbc:RegistrationName>Buyer SRL</cbc:RegistrationName>
-                       <cbc:CompanyID>J02/321/2010</cbc:CompanyID>
-                      </cac:PartyLegalEntity>
-                     </cac:Party>
-                    </cac:AccountingCustomerParty>
-                    <cac:PaymentMeans>
-                     <cbc:PaymentMeansCode>31</cbc:PaymentMeansCode>
-                     <cac:PayeeFinancialAccount>
-                      <cbc:ID>RO80RNCB0067054355123456</cbc:ID>
-                     </cac:PayeeFinancialAccount>
-                    </cac:PaymentMeans>
-                    <cac:TaxTotal>
-                     <cbc:TaxAmount currencyID="RON">6598592.60</cbc:TaxAmount>
-                     <cac:TaxSubtotal>
-                      <cbc:TaxableAmount currencyID="RON">696.12</cbc:TaxableAmount>
-                      <cbc:TaxAmount currencyID="RON">34.79</cbc:TaxAmount>
-                      <cac:TaxCategory>
-                       <cbc:ID>S</cbc:ID>
-                       <cbc:Percent>5.00</cbc:Percent>
-                       <cac:TaxScheme>
-                        <cbc:ID>VAT</cbc:ID>
-                       </cac:TaxScheme>
-                      </cac:TaxCategory>
-                     </cac:TaxSubtotal>
-                     <cac:TaxSubtotal>
-                      <cbc:TaxableAmount currencyID="RON">22875.45</cbc:TaxableAmount>
-                      <cbc:TaxAmount currencyID="RON">2059.43</cbc:TaxAmount>
-                      <cac:TaxCategory>
-                       <cbc:ID>S</cbc:ID>
-                       <cbc:Percent>9.00</cbc:Percent>
-                       <cac:TaxScheme>
-                        <cbc:ID>VAT</cbc:ID>
-                       </cac:TaxScheme>
-                      </cac:TaxCategory>
-                     </cac:TaxSubtotal>
-                     <cac:TaxSubtotal>
-                      <cbc:TaxableAmount currencyID="RON">34718412.54</cbc:TaxableAmount>
-                      <cbc:TaxAmount currencyID="RON">6596498.38</cbc:TaxAmount>
-                      <cac:TaxCategory>
-                       <cbc:ID>S</cbc:ID>
-                       <cbc:Percent>19.00</cbc:Percent>
-                       <cac:TaxScheme>
-                        <cbc:ID>VAT</cbc:ID>
-                       </cac:TaxScheme>
-                      </cac:TaxCategory>
-                     </cac:TaxSubtotal>
-                    </cac:TaxTotal>
-                    <cac:LegalMonetaryTotal>
-                    <cbc:LineExtensionAmount currencyID="RON">34741984.11</cbc:LineExtensionAmount>
-                    <cbc:TaxExclusiveAmount currencyID="RON">34741984.11</cbc:TaxExclusiveAmount>
-                    <cbc:TaxInclusiveAmount currencyID="RON">41340576.71</cbc:TaxInclusiveAmount>
-                    <cbc:PayableAmount currencyID="RON">41340576.71</cbc:PayableAmount>
-                    </cac:LegalMonetaryTotal>
-                    <cac:InvoiceLine>
-                    <cbc:ID>1</cbc:ID>
-                    <cbc:InvoicedQuantity unitCode="C62">46396.67</cbc:InvoicedQuantity>
-                    <cbc:LineExtensionAmount currencyID="RON">334641.38</cbc:LineExtensionAmount>
-                    <cac:AllowanceCharge>
-                    <cbc:ChargeIndicator>false</cbc:ChargeIndicator>
-                    <cbc:AllowanceChargeReasonCode>95</cbc:AllowanceChargeReasonCode>
-                    <cbc:AllowanceChargeReason>Discount</cbc:AllowanceChargeReason>
-                    <cbc:Amount currencyID="RON">801.98</cbc:Amount>
-                    </cac:AllowanceCharge>
-                    <cac:AllowanceCharge>
-                    <cbc:ChargeIndicator>true</cbc:ChargeIndicator>
-                    <cbc:AllowanceChargeReasonCode>ZZZ</cbc:AllowanceChargeReasonCode>
-                    <cbc:AllowanceChargeReason>Mutually defined</cbc:AllowanceChargeReason>
-                    <cbc:Amount currencyID="RON">-19272.48</cbc:Amount>
-                    <cbc:BaseAmount currencyID="RON">354715.84</cbc:BaseAmount>
-                    </cac:AllowanceCharge>
+                     <cbc:UBLVersionID>2.1</cbc:UBLVersionID>
+                     <cbc:CustomizationID>urn:cen.eu:en16931:2017#compliant#urn:efactura.mfinante.ro:CIUS-RO:1.0.1</cbc:CustomizationID>
+                     <cbc:ID>6422451356</cbc:ID>
+                     <cbc:IssueDate>2022-05-31</cbc:IssueDate>
+                     <cbc:DueDate>2022-05-31</cbc:DueDate>
+                     <cbc:InvoiceTypeCode>380</cbc:InvoiceTypeCode>
+                     <cbc:Note>some text for invoice note</cbc:Note>
+                     <cbc:DocumentCurrencyCode>RON</cbc:DocumentCurrencyCode>
+                     <cac:InvoicePeriod>
+                      <cbc:EndDate>2022-05-31</cbc:EndDate>
+                     </cac:InvoicePeriod>
+                     <cac:AccountingSupplierParty>
+                      <cac:Party>
+                       <cac:PartyName>
+                        <cbc:Name>Seller SRL</cbc:Name>
+                       </cac:PartyName>
+                       <cac:PostalAddress>
+                        <cbc:StreetName>line1</cbc:StreetName>
+                        <cbc:CityName>SECTOR1</cbc:CityName>
+                        <cbc:PostalZone>013329</cbc:PostalZone>
+                        <cbc:CountrySubentity>RO-B</cbc:CountrySubentity>
+                        <cac:Country>
+                         <cbc:IdentificationCode>RO</cbc:IdentificationCode>
+                        </cac:Country>
+                       </cac:PostalAddress>
+                       <cac:PartyTaxScheme>
+                        <cbc:CompanyID>RO1234567890</cbc:CompanyID>
+                        <cac:TaxScheme>
+                         <cbc:ID>VAT</cbc:ID>
+                        </cac:TaxScheme>
+                       </cac:PartyTaxScheme>
+                       <cac:PartyLegalEntity>
+                        <cbc:RegistrationName>Seller SRL</cbc:RegistrationName>
+                        <cbc:CompanyLegalForm>J40/12345/1998</cbc:CompanyLegalForm>
+                       </cac:PartyLegalEntity>
+                       <cac:Contact>
+                        <cbc:ElectronicMail>mail@seller.com</cbc:ElectronicMail>
+                       </cac:Contact>
+                      </cac:Party>
+                     </cac:AccountingSupplierParty>
+                     <cac:AccountingCustomerParty>
+                      <cac:Party>
+                       <cac:PartyIdentification>
+                        <cbc:ID>123456</cbc:ID>
+                       </cac:PartyIdentification>
+                       <cac:PartyName>
+                        <cbc:Name>Buyer name</cbc:Name>
+                       </cac:PartyName>
+                       <cac:PostalAddress>
+                        <cbc:StreetName>BD DECEBAL NR 1 ET1</cbc:StreetName>
+                        <cbc:CityName>ARAD</cbc:CityName>
+                        <cbc:PostalZone>123456</cbc:PostalZone>
+                        <cbc:CountrySubentity>RO-AR</cbc:CountrySubentity>
+                        <cac:Country>
+                         <cbc:IdentificationCode>RO</cbc:IdentificationCode>
+                        </cac:Country>
+                       </cac:PostalAddress>
+                       <cac:PartyTaxScheme>
+                        <cbc:CompanyID>RO987456123</cbc:CompanyID>
+                        <cac:TaxScheme>
+                         <cbc:ID>VAT</cbc:ID>
+                        </cac:TaxScheme>
+                       </cac:PartyTaxScheme>
+                       <cac:PartyLegalEntity>
+                        <cbc:RegistrationName>Buyer SRL</cbc:RegistrationName>
+                        <cbc:CompanyID>J02/321/2010</cbc:CompanyID>
+                       </cac:PartyLegalEntity>
+                      </cac:Party>
+                     </cac:AccountingCustomerParty>
+                     <cac:PaymentMeans>
+                      <cbc:PaymentMeansCode>31</cbc:PaymentMeansCode>
+                      <cac:PayeeFinancialAccount>
+                       <cbc:ID>RO80RNCB0067054355123456</cbc:ID>
+                      </cac:PayeeFinancialAccount>
+                     </cac:PaymentMeans>
+                     <cac:TaxTotal>
+                      <cbc:TaxAmount currencyID="RON">6598592.60</cbc:TaxAmount>
+                      <cac:TaxSubtotal>
+                       <cbc:TaxableAmount currencyID="RON">696.12</cbc:TaxableAmount>
+                       <cbc:TaxAmount currencyID="RON">34.79</cbc:TaxAmount>
+                       <cac:TaxCategory>
+                        <cbc:ID>S</cbc:ID>
+                        <cbc:Percent>5.00</cbc:Percent>
+                        <cac:TaxScheme>
+                         <cbc:ID>VAT</cbc:ID>
+                        </cac:TaxScheme>
+                       </cac:TaxCategory>
+                      </cac:TaxSubtotal>
+                      <cac:TaxSubtotal>
+                       <cbc:TaxableAmount currencyID="RON">22875.45</cbc:TaxableAmount>
+                       <cbc:TaxAmount currencyID="RON">2059.43</cbc:TaxAmount>
+                       <cac:TaxCategory>
+                        <cbc:ID>S</cbc:ID>
+                        <cbc:Percent>9.00</cbc:Percent>
+                        <cac:TaxScheme>
+                         <cbc:ID>VAT</cbc:ID>
+                        </cac:TaxScheme>
+                       </cac:TaxCategory>
+                      </cac:TaxSubtotal>
+                      <cac:TaxSubtotal>
+                       <cbc:TaxableAmount currencyID="RON">34718412.54</cbc:TaxableAmount>
+                       <cbc:TaxAmount currencyID="RON">6596498.38</cbc:TaxAmount>
+                       <cac:TaxCategory>
+                        <cbc:ID>S</cbc:ID>
+                        <cbc:Percent>19.00</cbc:Percent>
+                        <cac:TaxScheme>
+                         <cbc:ID>VAT</cbc:ID>
+                        </cac:TaxScheme>
+                       </cac:TaxCategory>
+                      </cac:TaxSubtotal>
+                     </cac:TaxTotal>
+                     <cac:LegalMonetaryTotal>
+                      <cbc:LineExtensionAmount currencyID="RON">34741984.11</cbc:LineExtensionAmount>
+                      <cbc:TaxExclusiveAmount currencyID="RON">34741984.11</cbc:TaxExclusiveAmount>
+                      <cbc:TaxInclusiveAmount currencyID="RON">41340576.71</cbc:TaxInclusiveAmount>
+                      <cbc:PayableAmount currencyID="RON">41340576.71</cbc:PayableAmount>
+                     </cac:LegalMonetaryTotal>
+                     <cac:InvoiceLine>
+                      <cbc:ID>1</cbc:ID>
+                      <cbc:InvoicedQuantity unitCode="C62">46396.67</cbc:InvoicedQuantity>
+                      <cbc:LineExtensionAmount currencyID="RON">334641.38</cbc:LineExtensionAmount>
+                      <cac:AllowanceCharge>
+                       <cbc:ChargeIndicator>false</cbc:ChargeIndicator>
+                       <cbc:AllowanceChargeReasonCode>95</cbc:AllowanceChargeReasonCode>
+                       <cbc:AllowanceChargeReason>Discount</cbc:AllowanceChargeReason>
+                       <cbc:Amount currencyID="RON">801.98</cbc:Amount>
+                      </cac:AllowanceCharge>
+                      <cac:AllowanceCharge>
+                       <cbc:ChargeIndicator>true</cbc:ChargeIndicator>
+                       <cbc:AllowanceChargeReasonCode>ZZZ</cbc:AllowanceChargeReasonCode>
+                       <cbc:AllowanceChargeReason>Mutually defined</cbc:AllowanceChargeReason>
+                       <cbc:Amount currencyID="RON">-19272.48</cbc:Amount>
+                       <cbc:BaseAmount currencyID="RON">354715.84</cbc:BaseAmount>
+                      </cac:AllowanceCharge>
                       <cac:Item>
                     <cbc:Name>item name</cbc:Name>
                     <cac:SellersItemIdentification>
@@ -198,11 +198,11 @@ Hai sa luam exemplul testat de [**Daniel-Popiniuc**](https://github.com/danielgp
                     </cac:TaxScheme>
                     </cac:ClassifiedTaxCategory>
                       </cac:Item>
-                    <cac:Price>
-                    <cbc:PriceAmount currencyID="RON">7.6453</cbc:PriceAmount>
-                    <cbc:BaseQuantity unitCode="C62">1</cbc:BaseQuantity>
-                    </cac:Price>
-                    </cac:InvoiceLine>
+                      <cac:Price>
+                       <cbc:PriceAmount currencyID="RON">7.6453</cbc:PriceAmount>
+                       <cbc:BaseQuantity unitCode="C62">1</cbc:BaseQuantity>
+                      </cac:Price>
+                     </cac:InvoiceLine>
                     <cac:InvoiceLine>
                     <cbc:ID>2</cbc:ID>
                     <cbc:InvoicedQuantity unitCode="C62">622078.28</cbc:InvoicedQuantity>
