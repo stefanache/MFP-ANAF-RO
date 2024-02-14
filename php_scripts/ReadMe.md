@@ -909,8 +909,8 @@ Hai sa luam exemplul testat de [**Daniel-Popiniuc**](https://github.com/danielgp
                     <cbc:Percent>19.00</cbc:Percent>
                     <cac:TaxScheme>
                     <cbc:ID>VAT</cbc:ID>
-                    </cac:TaxScheme>
-                    </cac:ClassifiedTaxCategory>
+                        </cac:TaxScheme>
+                       </cac:ClassifiedTaxCategory>
                       </cac:Item>
                      <cac:Price>
                       <cbc:PriceAmount currencyID="RON">15.1573</cbc:PriceAmount>
