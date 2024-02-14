@@ -183,20 +183,20 @@ Hai sa luam exemplul testat de [**Daniel-Popiniuc**](https://github.com/danielgp
                        <cbc:BaseAmount currencyID="RON">354715.84</cbc:BaseAmount>
                       </cac:AllowanceCharge>
                       <cac:Item>
-                    <cbc:Name>item name</cbc:Name>
-                    <cac:SellersItemIdentification>
-                    <cbc:ID>0102</cbc:ID>
-                    </cac:SellersItemIdentification>
-                    <cac:CommodityClassification>
-                    <cbc:ItemClassificationCode listID="STI">03222000-3</cbc:ItemClassificationCode>
-                    </cac:CommodityClassification>
-                    <cac:ClassifiedTaxCategory>
-                    <cbc:ID>S</cbc:ID>
-                    <cbc:Percent>19.00</cbc:Percent>
-                    <cac:TaxScheme>
-                    <cbc:ID>VAT</cbc:ID>
-                    </cac:TaxScheme>
-                    </cac:ClassifiedTaxCategory>
+                       <cbc:Name>item name</cbc:Name>
+                       <cac:SellersItemIdentification>
+                        <cbc:ID>0102</cbc:ID>
+                       </cac:SellersItemIdentification>
+                       <cac:CommodityClassification>
+                        <cbc:ItemClassificationCode listID="STI">03222000-3</cbc:ItemClassificationCode>
+                       </cac:CommodityClassification>
+                       <cac:ClassifiedTaxCategory>
+                        <cbc:ID>S</cbc:ID>
+                        <cbc:Percent>19.00</cbc:Percent>
+                        <cac:TaxScheme>
+                         <cbc:ID>VAT</cbc:ID>
+                        </cac:TaxScheme>
+                       </cac:ClassifiedTaxCategory>
                       </cac:Item>
                       <cac:Price>
                        <cbc:PriceAmount currencyID="RON">7.6453</cbc:PriceAmount>
@@ -221,20 +221,20 @@ Hai sa luam exemplul testat de [**Daniel-Popiniuc**](https://github.com/danielgp
                     <cbc:BaseAmount currencyID="RON">4415931.88</cbc:BaseAmount>
                     </cac:AllowanceCharge>
                       <cac:Item>
-                    <cbc:Name>item name</cbc:Name>
-                    <cac:SellersItemIdentification>
-                    <cbc:ID>0104</cbc:ID>
-                    </cac:SellersItemIdentification>
-                    <cac:CommodityClassification>
-                    <cbc:ItemClassificationCode listID="TSP">08055010</cbc:ItemClassificationCode>
-                    </cac:CommodityClassification>
-                    <cac:ClassifiedTaxCategory>
-                    <cbc:ID>S</cbc:ID>
-                    <cbc:Percent>19.00</cbc:Percent>
-                    <cac:TaxScheme>
-                    <cbc:ID>VAT</cbc:ID>
-                    </cac:TaxScheme>
-                    </cac:ClassifiedTaxCategory>
+                       <cbc:Name>item name</cbc:Name>
+                       <cac:SellersItemIdentification>
+                        <cbc:ID>0104</cbc:ID>
+                       </cac:SellersItemIdentification>
+                       <cac:CommodityClassification>
+                        <cbc:ItemClassificationCode listID="TSP">08055010</cbc:ItemClassificationCode>
+                       </cac:CommodityClassification>
+                       <cac:ClassifiedTaxCategory>
+                        <cbc:ID>S</cbc:ID>
+                        <cbc:Percent>19.00</cbc:Percent>
+                        <cac:TaxScheme>
+                         <cbc:ID>VAT</cbc:ID>
+                        </cac:TaxScheme>
+                       </cac:ClassifiedTaxCategory>
                       </cac:Item>
                     <cac:Price>
                     <cbc:PriceAmount currencyID="RON">7.0987</cbc:PriceAmount>
