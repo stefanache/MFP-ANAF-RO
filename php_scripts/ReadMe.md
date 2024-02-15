@@ -1123,6 +1123,7 @@ Chiar daca riscul de a gresi atunci cand [generati](https://mfinante.gov.ro/desp
  - in calitate de client, cand primim o alerta/informare ca a sosit o [eFactura](https://mfinante.gov.ro/despre-minister/-/asset_publisher/wald/content/oo) valida de la un furnizor
  - [descarcam](https://mfinante.gov.ro/static/10/Mfp/efactura/descarcare.html) [eFactura](https://mfinante.gov.ro/static/10/Mfp/efactura/listamesaj.html) primita de catre client
  - [transformam](https://www.anaf.ro/uploadxml/) xml-eFactura in fisier PDF pentru a fi usor printata si vizualizata
+ - desigur, in cele din urma, daca nu cumva s-a efectuat deja, avem ca etape/pasi procedurali, [livrarea si plata](https://melissa.com.ro/index.php/livrare-si-plata/)
  - inregistram [eFactura](https://www.solo.ro/blog/ce-este-e-factura) in sistemul nostru [ERP](https://github.com/MihaiNeagu/ProiectPHP/tree/master) de urmarire al documentelor - in calitate de destinatar/client
  - eventual comprimam si apoi arhivam(pe termen indelungat) documentul/documentele aferente atasate [eFacturii](https://www.fgo.ro/ajutor/manual-utilizare-fgo?cauta=e-factura/) - in calitate de primitor/client
    
