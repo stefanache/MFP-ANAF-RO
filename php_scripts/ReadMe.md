@@ -1099,6 +1099,7 @@ Chiar daca riscul de a gresi atunci cand [generati](https://mfinante.gov.ro/desp
  - [prelevare date](https://mfinante.gov.ro/web/efactura/informatii-tehnice) intrare [eFactura](https://www.portalpfa.ro/articole/legislatie-1/ghid-e-factura-tot-ce-trebuie-sa-stiti-pentru-a-emite-si-prelua-facturi-electronice-de-la-1-ianuarie-2024-2646.html) din [baza noastra/proprie de date](https://mfinante.gov.ro/static/10/Mfp/ghidE-FACTURA.pdf)
  - [generare/emitere](https://www.anaf.ro/CompletareFactura/faces/factura/informatiigenerale.xhtml) [eFactura](https://mfinante.gov.ro/web/efactura/aplicatii-web-ro-efactura)
  - [validare](https://mfinante.gov.ro/web/efactura/validare-xml-factura) [eFactura](https://mfinante.gov.ro/despre-minister/-/asset_publisher/uwgr/content/facturarea-electronic-c4-83-obligatorie-de-la-1-ianuarie-2024-pentru-toate-tranzac-c8-9biile-c3-aentre-firme)
+ - eventual [transformam](https://www.anaf.ro/uploadxml/) xml-eFactura in fisier PDF pentru a fi usor printata si vizualizata
 (https://mfinante.gov.ro/static/10/eFactura/prezentare%20api%20efactura.pdf)
  - [obținerea unui certificat calificat](https://www.certsign.ro/ro/semnatura-electronica-calificata-pentru-e-factura/) pentru [semnătura electronică](https://www.digisign.ro/uploads/Instructiuni-inregistrare-ANAF.pdf), în vederea [înrolării](https://www.forfuture.ro/semnatura-electronica/?gad_source=1&gclid=CjwKCAiAibeuBhAAEiwAiXBoJJNQ9LNc1fmi0Wc7h3LH4Shpy-6p99o7EX_YFVY8O8Cm1e8xwJJUqBoC2hoQAvD_BwE) în SPV/ANAF.
  - Înrolarea/accesarea SPV cu ajutorul certificatului calificat pentru [semnătura electronică](https://nextup.ro/articole/e-factura-pas-cu-pas-cum-se-emit-facturile-si-in-cat-timp-trebuie-raportate-la-anaf/).
@@ -1108,6 +1109,9 @@ Chiar daca riscul de a gresi atunci cand [generati](https://mfinante.gov.ro/desp
  - [transmiterea](https://mfinante.gov.ro/test-galerie-video-cu-asset-publisher/-/asset_publisher/cWuA9hLHu9eW/content/speciftehefactura) / [upload](https://mfinante.gov.ro/static/10/Mfp/efactura/upload_2009.html) autorizata oAuth2(de catre ANAF/MFP si o autoritate de certificare in scop de semnatura calificata) a pachetului eFactura in SPV-ul ANAF-ului
  - verificare [status](https://mfinante.gov.ro/static/10/Mfp/efactura/staremesaj.html) [eFactura](https://mfinante.gov.ro/despre-minister/-/asset_publisher/wald/content/proiectul-e-factura-intr-c4-83-c3-aen-linie-dreapt-c4-83) in bucla(pana cand vedem ca eFactura a fost procesata)
  - daca [eFactura](https://ro-efactura.ro/pasii-necesari-pentru-a-incarca-facturi-in-sistemul-ro-e-factura/) transmisa este refuzata se inlatura deficienta si se reia procesul din punctul adecvat
+ 
+ - daca am primit [confirmarea](https://ro-efactura.ro/pasii-necesari-pentru-a-incarca-facturi-in-sistemul-ro-e-factura/) ANAF ca factura a fost acceptata ca valida si procesata in SPV atunci rolul emitentului/furnizorului s-a incheiat si se declanseaza/starteaza/incepe rolul primitorului/clientului:
+   
  - cand primim o alerta/informare ca a sosit o [eFactura](https://mfinante.gov.ro/despre-minister/-/asset_publisher/wald/content/oo) valida de la un furnizor
  - [descarcam](https://mfinante.gov.ro/static/10/Mfp/efactura/descarcare.html) [eFactura](https://mfinante.gov.ro/static/10/Mfp/efactura/listamesaj.html) primita de catre client
  - [transformam](https://www.anaf.ro/uploadxml/) xml-eFactura in fisier PDF pentru a fi usor printata si vizualizata
