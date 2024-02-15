@@ -1107,7 +1107,7 @@ Chiar daca riscul de a gresi atunci cand [generati](https://mfinante.gov.ro/desp
  - [semnare/autentificare](https://static.anaf.ro/static/10/Galati/Vrancea/Procedura-e-factura.pdf) [digitala](https://www.certsign.ro/ro/semnatura-electronica-calificata-pentru-e-factura/) document [eFactura]
  - [transmiterea](https://mfinante.gov.ro/test-galerie-video-cu-asset-publisher/-/asset_publisher/cWuA9hLHu9eW/content/speciftehefactura) / [upload](https://mfinante.gov.ro/static/10/Mfp/efactura/upload_2009.html) autorizata oAuth2(de catre ANAF/MFP si o autoritate de certificare in scop de semnatura calificata) a pachetului eFactura in SPV-ul ANAF-ului
  - verificare [status](https://mfinante.gov.ro/static/10/Mfp/efactura/staremesaj.html) [eFactura](https://mfinante.gov.ro/despre-minister/-/asset_publisher/wald/content/proiectul-e-factura-intr-c4-83-c3-aen-linie-dreapt-c4-83) in bucla(pana cand vedem ca eFactura a fost procesata)
- - daca eFactura transmisa este refuzata se inlatura deficienta si se reia procesul din punctul adecvat
+ - daca [eFactura](https://ro-efactura.ro/pasii-necesari-pentru-a-incarca-facturi-in-sistemul-ro-e-factura/) transmisa este refuzata se inlatura deficienta si se reia procesul din punctul adecvat
  - cand primim o alerta/informare ca a sosit o [eFactura](https://mfinante.gov.ro/despre-minister/-/asset_publisher/wald/content/oo) valida de la un furnizor
  - [descarcam](https://mfinante.gov.ro/static/10/Mfp/efactura/descarcare.html) [eFactura](https://mfinante.gov.ro/static/10/Mfp/efactura/listamesaj.html) primita de catre client
  - [transformam](https://www.anaf.ro/uploadxml/) xml-eFactura in fisier PDF pentru a fi usor printata si vizualizata
