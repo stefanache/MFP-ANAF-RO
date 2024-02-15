@@ -1086,7 +1086,7 @@ Hai sa luam exemplul testat de [**Daniel-Popiniuc**](https://github.com/danielgp
 
    In acelasi mod daca doriti puteti lucra si cu sabloane/template-uri
 
-   Aici nu am generat factura, in sensul ca nu am combinat/impletit datele cu sintaxa UBL ca sa generam eFactura ci pur si simplu am importat-o dintr-un fisier realizat manual in prealabil(sau de ce nu automat) ca mai apoi sa expunem rezultatul.
+   Aici nu am generat factura, in sensul ca nu am combinat arborescent / impletit datele cu sintaxa UBL ca sa generam eFactura ci pur si simplu am importat-o dintr-un fisier realizat manual in prealabil(sau de ce nu automat) ca mai apoi sa expunem rezultatul.
    Cu toate acestea simpleXML permite generarea propriu-zisa si poate fi usor modificat programul pentru a include si generarea;
    De asemenea daca doriti sa aveti propriu validator desigur folosind acelasi simpleXMl puteti face si asta
    
