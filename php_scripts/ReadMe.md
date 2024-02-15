@@ -1100,7 +1100,7 @@ Chiar daca riscul de a gresi atunci cand generati e Faxctura este unul mai mic t
  - generare eFactura
  - semnare digitala document eFactura
  - validare eFactura
- - inregistrare in [registrul operatorilor](https://www.anaf.ro/anaf/internet/ANAF/asistenta_contribuabili/declararea_obligatiilor_fiscale/toate_formularele/#084n)
+ - inregistrare utilizator in [Registrul Operatorilor](https://www.anaf.ro/anaf/internet/ANAF/asistenta_contribuabili/declararea_obligatiilor_fiscale/toate_formularele/#084n)
  - completare declaratie "[Cerere privind înregistrarea în Registrul RO e-Factura](https://static.anaf.ro/static/10/Galati/Vrancea/Preciz-Registrul-RO-e-Factura-si-form-084.pdf)" folosind formularul [F084](https://infotva.manager.ro/articole/studii-de-caz/ro-e-factura-pentru-inregistrare-in-sistem-trebuie-transmis-formularul-084-pana-pe-31-decembrie-2023-23134.html)
  - transmiterea autorizata oAuth2(de catre ANAF/MFP si o autoritate de certificare in scop de semnatura calificata) a pachetului eFactura in SPV-ul ANAF-ului
  - verificare status eFactura in bucla(pana cand vedem ca eFactura a fost procesata)
