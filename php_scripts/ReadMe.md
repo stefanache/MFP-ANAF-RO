@@ -322,101 +322,101 @@ Hai sa luam exemplul testat de [**Daniel-Popiniuc**](https://github.com/danielgp
                        <cbc:Amount currencyID="RON">2980.02</cbc:Amount>
                       </cac:AllowanceCharge>
                       <cac:AllowanceCharge>
-                    <cbc:ChargeIndicator>true</cbc:ChargeIndicator>
-                    <cbc:AllowanceChargeReasonCode>ZZZ</cbc:AllowanceChargeReasonCode>
-                    <cbc:AllowanceChargeReason>Mutually defined</cbc:AllowanceChargeReason>
-                    <cbc:Amount currencyID="RON">-654.54</cbc:Amount>
-                    <cbc:BaseAmount currencyID="RON">383091.04</cbc:BaseAmount>
-                    </cac:AllowanceCharge>
+                       <cbc:ChargeIndicator>true</cbc:ChargeIndicator>
+                       <cbc:AllowanceChargeReasonCode>ZZZ</cbc:AllowanceChargeReasonCode>
+                       <cbc:AllowanceChargeReason>Mutually defined</cbc:AllowanceChargeReason>
+                       <cbc:Amount currencyID="RON">-654.54</cbc:Amount>
+                       <cbc:BaseAmount currencyID="RON">383091.04</cbc:BaseAmount>
+                      </cac:AllowanceCharge>
                       <cac:Item>
-                    <cbc:Name>item name</cbc:Name>
-                    <cac:SellersItemIdentification>
-                    <cbc:ID>0108</cbc:ID>
-                    </cac:SellersItemIdentification>
-                    <cac:ClassifiedTaxCategory>
-                    <cbc:ID>S</cbc:ID>
-                    <cbc:Percent>19.00</cbc:Percent>
-                    <cac:TaxScheme>
-                    <cbc:ID>VAT</cbc:ID>
-                     </cac:TaxScheme>
-                    </cac:ClassifiedTaxCategory>
+                       <cbc:Name>item name</cbc:Name>
+                       <cac:SellersItemIdentification>
+                        <cbc:ID>0108</cbc:ID>
+                       </cac:SellersItemIdentification>
+                       <cac:ClassifiedTaxCategory>
+                        <cbc:ID>S</cbc:ID>
+                        <cbc:Percent>19.00</cbc:Percent>
+                        <cac:TaxScheme>
+                         <cbc:ID>VAT</cbc:ID>
+                        </cac:TaxScheme>
+                       </cac:ClassifiedTaxCategory>
                       </cac:Item>
-                    <cac:Price>
-                    <cbc:PriceAmount currencyID="RON">7.3995</cbc:PriceAmount>
-                    <cbc:BaseQuantity unitCode="C62">1</cbc:BaseQuantity>
-                    </cac:Price>
-                    </cac:InvoiceLine>
-                    <cac:InvoiceLine>
-                    <cbc:ID>6</cbc:ID>
-                    <cbc:InvoicedQuantity unitCode="C62">20807.57</cbc:InvoicedQuantity>
-                    <cbc:LineExtensionAmount currencyID="RON">137685.72</cbc:LineExtensionAmount>
-                    <cac:AllowanceCharge>
-                    <cbc:ChargeIndicator>false</cbc:ChargeIndicator>
-                    <cbc:AllowanceChargeReasonCode>95</cbc:AllowanceChargeReasonCode>
-                    <cbc:AllowanceChargeReason>Discount</cbc:AllowanceChargeReason>
-                    <cbc:Amount currencyID="RON">757.66</cbc:Amount>
-                    </cac:AllowanceCharge>
-                    <cac:AllowanceCharge>
-                    <cbc:ChargeIndicator>true</cbc:ChargeIndicator>
-                    <cbc:AllowanceChargeReasonCode>ZZZ</cbc:AllowanceChargeReasonCode>
-                    <cbc:AllowanceChargeReason>Mutually defined</cbc:AllowanceChargeReason>
-                    <cbc:Amount currencyID="RON">-4664.27</cbc:Amount>
-                    <cbc:BaseAmount currencyID="RON">143107.65</cbc:BaseAmount>
-                    </cac:AllowanceCharge>
+                      <cac:Price>
+                       <cbc:PriceAmount currencyID="RON">7.3995</cbc:PriceAmount>
+                       <cbc:BaseQuantity unitCode="C62">1</cbc:BaseQuantity>
+                      </cac:Price>
+                     </cac:InvoiceLine>
+                     <cac:InvoiceLine>
+                      <cbc:ID>6</cbc:ID>
+                      <cbc:InvoicedQuantity unitCode="C62">20807.57</cbc:InvoicedQuantity>
+                      <cbc:LineExtensionAmount currencyID="RON">137685.72</cbc:LineExtensionAmount>
+                      <cac:AllowanceCharge>
+                       <cbc:ChargeIndicator>false</cbc:ChargeIndicator>
+                       <cbc:AllowanceChargeReasonCode>95</cbc:AllowanceChargeReasonCode>
+                       <cbc:AllowanceChargeReason>Discount</cbc:AllowanceChargeReason>
+                       <cbc:Amount currencyID="RON">757.66</cbc:Amount>
+                      </cac:AllowanceCharge>
+                      <cac:AllowanceCharge>
+                       <cbc:ChargeIndicator>true</cbc:ChargeIndicator>
+                       <cbc:AllowanceChargeReasonCode>ZZZ</cbc:AllowanceChargeReasonCode>
+                       <cbc:AllowanceChargeReason>Mutually defined</cbc:AllowanceChargeReason>
+                       <cbc:Amount currencyID="RON">-4664.27</cbc:Amount>
+                       <cbc:BaseAmount currencyID="RON">143107.65</cbc:BaseAmount>
+                      </cac:AllowanceCharge>
                       <cac:Item>
-                    <cbc:Name>item name</cbc:Name>
-                    <cac:SellersItemIdentification>
-                    <cbc:ID>0201</cbc:ID>
-                    </cac:SellersItemIdentification>
-                    <cac:ClassifiedTaxCategory>
-                    <cbc:ID>S</cbc:ID>
-                    <cbc:Percent>19.00</cbc:Percent>
-                    <cac:TaxScheme>
-                    <cbc:ID>VAT</cbc:ID>
-                    </cac:TaxScheme>
-                    </cac:ClassifiedTaxCategory>
+                       <cbc:Name>item name</cbc:Name>
+                       <cac:SellersItemIdentification>
+                        <cbc:ID>0201</cbc:ID>
+                       </cac:SellersItemIdentification>
+                       <cac:ClassifiedTaxCategory>
+                        <cbc:ID>S</cbc:ID>
+                        <cbc:Percent>19.00</cbc:Percent>
+                        <cac:TaxScheme>
+                         <cbc:ID>VAT</cbc:ID>
+                        </cac:TaxScheme>
+                       </cac:ClassifiedTaxCategory>
                       </cac:Item>
-                    <cac:Price>
-                    <cbc:PriceAmount currencyID="RON">6.8777</cbc:PriceAmount>
-                    <cbc:BaseQuantity unitCode="C62">1</cbc:BaseQuantity>
-                     </cac:Price>
-                    </cac:InvoiceLine>
-                    <cac:InvoiceLine>
-                    <cbc:ID>7</cbc:ID>
-                    <cbc:InvoicedQuantity unitCode="C62">217932.24</cbc:InvoicedQuantity>
-                    <cbc:LineExtensionAmount currencyID="RON">1371322.68</cbc:LineExtensionAmount>
-                    <cac:AllowanceCharge>
-                    <cbc:ChargeIndicator>false</cbc:ChargeIndicator>
-                    <cbc:AllowanceChargeReasonCode>95</cbc:AllowanceChargeReasonCode>
-                    <cbc:AllowanceChargeReason>Discount</cbc:AllowanceChargeReason>
-                    <cbc:Amount currencyID="RON">3662.64</cbc:Amount>
-                    </cac:AllowanceCharge>
-                    <cac:AllowanceCharge>
-                    <cbc:ChargeIndicator>true</cbc:ChargeIndicator>
-                    <cbc:AllowanceChargeReasonCode>ZZZ</cbc:AllowanceChargeReasonCode>
-                    <cbc:AllowanceChargeReason>Mutually defined</cbc:AllowanceChargeReason>
-                    <cbc:Amount currencyID="RON">-41460.64</cbc:Amount>
-                    <cbc:BaseAmount currencyID="RON">1416445.96</cbc:BaseAmount>
-                    </cac:AllowanceCharge>
+                      <cac:Price>
+                       <cbc:PriceAmount currencyID="RON">6.8777</cbc:PriceAmount>
+                       <cbc:BaseQuantity unitCode="C62">1</cbc:BaseQuantity>
+                      </cac:Price>
+                     </cac:InvoiceLine>
+                     <cac:InvoiceLine>
+                      <cbc:ID>7</cbc:ID>
+                      <cbc:InvoicedQuantity unitCode="C62">217932.24</cbc:InvoicedQuantity>
+                      <cbc:LineExtensionAmount currencyID="RON">1371322.68</cbc:LineExtensionAmount>
+                      <cac:AllowanceCharge>
+                       <cbc:ChargeIndicator>false</cbc:ChargeIndicator>
+                       <cbc:AllowanceChargeReasonCode>95</cbc:AllowanceChargeReasonCode>
+                       <cbc:AllowanceChargeReason>Discount</cbc:AllowanceChargeReason>
+                       <cbc:Amount currencyID="RON">3662.64</cbc:Amount>
+                      </cac:AllowanceCharge>
+                      <cac:AllowanceCharge>
+                       <cbc:ChargeIndicator>true</cbc:ChargeIndicator>
+                       <cbc:AllowanceChargeReasonCode>ZZZ</cbc:AllowanceChargeReasonCode>
+                       <cbc:AllowanceChargeReason>Mutually defined</cbc:AllowanceChargeReason>
+                       <cbc:Amount currencyID="RON">-41460.64</cbc:Amount>
+                       <cbc:BaseAmount currencyID="RON">1416445.96</cbc:BaseAmount>
+                      </cac:AllowanceCharge>
                       <cac:Item>
-                    <cbc:Name>item name</cbc:Name>
-                    <cac:SellersItemIdentification>
-                    <cbc:ID>0203</cbc:ID>
-                    </cac:SellersItemIdentification>
-                    <cac:ClassifiedTaxCategory>
-                    <cbc:ID>S</cbc:ID>
-                    <cbc:Percent>19.00</cbc:Percent>
-                    <cac:TaxScheme>
-                    <cbc:ID>VAT</cbc:ID>
-                      </cac:TaxScheme>
-                     </cac:ClassifiedTaxCategory>
-                    </cac:Item>
-                    <cac:Price>
-                    <cbc:PriceAmount currencyID="RON">6.4995</cbc:PriceAmount>
-                    <cbc:BaseQuantity unitCode="C62">1</cbc:BaseQuantity>
-                     </cac:Price>
-                    </cac:InvoiceLine>
-                    <cac:InvoiceLine>
+                       <cbc:Name>item name</cbc:Name>
+                       <cac:SellersItemIdentification>
+                        <cbc:ID>0203</cbc:ID>
+                       </cac:SellersItemIdentification>
+                       <cac:ClassifiedTaxCategory>
+                        <cbc:ID>S</cbc:ID>
+                        <cbc:Percent>19.00</cbc:Percent>
+                        <cac:TaxScheme>
+                         <cbc:ID>VAT</cbc:ID>
+                        </cac:TaxScheme>
+                       </cac:ClassifiedTaxCategory>
+                      </cac:Item>
+                      <cac:Price>
+                       <cbc:PriceAmount currencyID="RON">6.4995</cbc:PriceAmount>
+                       <cbc:BaseQuantity unitCode="C62">1</cbc:BaseQuantity>
+                      </cac:Price>
+                     </cac:InvoiceLine>
+                     <cac:InvoiceLine>
                     <cbc:ID>8</cbc:ID>
                     <cbc:InvoicedQuantity unitCode="C62">137142.39</cbc:InvoicedQuantity>
                     <cbc:LineExtensionAmount currencyID="RON">875772.03</cbc:LineExtensionAmount>
