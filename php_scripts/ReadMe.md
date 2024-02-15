@@ -1111,9 +1111,9 @@ Chiar daca riscul de a gresi atunci cand [generati](https://mfinante.gov.ro/desp
  - daca [eFactura](https://ro-efactura.ro/pasii-necesari-pentru-a-incarca-facturi-in-sistemul-ro-e-factura/) transmisa este refuzata se inlatura deficienta si se reia procesul din punctul adecvat
  - in caz contrar, daca [eFactura](https://ajutor.smartbill.ro/article/970-e-factura-descarcarea-si-trimiterea-manuala-in-s-p-v) a fost [acceptata](https://ro-efactura.ro/pasii-necesari-pentru-a-incarca-facturi-in-sistemul-ro-e-factura/),  vom primi un cod de/ca urmare a validar[e/ii]
  - in orice moment putem [verifica statusul facturilor](https://ajutor.smartbill.ro/article/970-e-factura-descarcarea-si-trimiterea-manuala-in-s-p-v) incarcate/trimise catre procesare in spatiul SPV al ANAF
-  - inregistram eFactura in sistemul nostru ERP de urmarire al documentelor - in calitate de furnizor/emitent
- - eventual comprimam si apoi arhivam(pe termen indelungat) documentul/documentele aferente atasate eFacturii - in calitate de furnizor/emitent
  - daca am primit [confirmarea](https://ro-efactura.ro/pasii-necesari-pentru-a-incarca-facturi-in-sistemul-ro-e-factura/) ANAF ca factura a fost procesata in SPV atunci rolul emitentului/furnizorului s-a incheiat si se declanseaza/starteaza/incepe rolul primitorului/clientului;
+ - inregistram eFactura in sistemul nostru ERP de urmarire al documentelor - in calitate de furnizor/emitent
+ - eventual comprimam si apoi arhivam(pe termen indelungat) documentul/documentele aferente atasate eFacturii - in calitate de furnizor/emitent
  - ...
  - in calitate de client, cand primim o alerta/informare ca a sosit o [eFactura](https://mfinante.gov.ro/despre-minister/-/asset_publisher/wald/content/oo) valida de la un furnizor
  - [descarcam](https://mfinante.gov.ro/static/10/Mfp/efactura/descarcare.html) [eFactura](https://mfinante.gov.ro/static/10/Mfp/efactura/listamesaj.html) primita de catre client
