@@ -1090,10 +1090,11 @@ Hai sa luam exemplul testat de [**Daniel-Popiniuc**](https://github.com/danielgp
 
 Chiar daca riscul de a gresi atunci cand generati e Faxctura este unul mai mic totusi este recomandat ca inainte de a [trimite](https://hotfox.ro/forum/viewtopic.php?t=7&start=80) eFactura la [ANAF](https://mfinante.gov.ro/static/10/eFactura/prezentare%20apeluri%20API%20E-factura.pdf) sa va asigurati ca UBL/XML-ul eFacturii este [valid](https://www.anaf.ro/uploadxmi/).
 
-Linia autmata de procesare(atat pt predare cat si pt primire) e-Factura prevede in ordine:
+[Linia](https://www.bitsoftware.eu/sbs-efactura/) automata de procesare(atat pt predare cat si pt primire) e-Factura prevede in ordine:
 
  - prelevare date intrare eFactura
  - generare eFactura
+ - -semnare eFactura
  - validare eFactura
  - generare declaratie
  - impachetare eFactura+declaratie(sau preparare in vederea transiterii efacturii catre ANAF)
