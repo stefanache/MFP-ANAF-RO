@@ -1126,7 +1126,9 @@ Chiar daca riscul de a gresi atunci cand [generati](https://mfinante.gov.ro/desp
  - inregistram [eFactura](https://www.solo.ro/blog/ce-este-e-factura) in sistemul nostru [ERP](https://github.com/MihaiNeagu/ProiectPHP/tree/master) de urmarire al documentelor - in calitate de destinatar/client
  - eventual comprimam si apoi arhivam(pe termen indelungat) documentul/documentele aferente atasate [eFacturii](https://www.fgo.ro/ajutor/manual-utilizare-fgo?cauta=e-factura/) - in calitate de primitor/client
    
-Apoi dupa ce [verificati](https://hotfox.ro/forum/viewtopic.php?t=7&start=80) validitatea eFacturii, transmiteti eFatura si formularul aferent si apoi verificati [starea/statusul](https://ajutor.smartbill.ro/article/984-statusurile-si-validarea-e-facturii) eFacturii transmise/incarcate(upload-ate) in SPV-ul [ANAF](https://mfinante.gov.ro/static/10/eFactura/prezentare%20apeluri%20API%20E-factura.pdf)-ului
+Asadar dupa ce [verificati](https://hotfox.ro/forum/viewtopic.php?t=7&start=80) validitatea eFacturii, transmiteti eFatura si formularul aferent si apoi verificati [starea/statusul](https://ajutor.smartbill.ro/article/984-statusurile-si-validarea-e-facturii) eFacturii transmise/incarcate(upload-ate) in SPV-ul [ANAF](https://mfinante.gov.ro/static/10/eFactura/prezentare%20apeluri%20API%20E-factura.pdf)-ului
+
+Acest flux procedural complex are si unele avantaje imediate care sunt dezvaluite in acest articol [TrasFond](https://www.facturielectronice.ro/index.php?p=pentru-emitentii-de-facturi)
 
 Daca aveti nevoie de informatii privind [**Sedii DGRFP**](https://www.anaf.ro/anaf/internet/ANAF/contact/adrese_unitati_fiscale), adica adresele unitatilor fiscale, puteti cauta pe site-ul ***ANAF***
 
