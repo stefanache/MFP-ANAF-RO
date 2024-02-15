@@ -1095,7 +1095,7 @@ Linia autmata de procesare(atat pt predare cat si pt primire) e-Factura prevede 
  - prelevare date intrare eFactura
  - generare eFactura
  - validare eFactura
- - generare aratie
+ - generare declaratie
  - impachetare eFactura+declaratie(sau preparare in vederea transiterii efacturii catre ANAF)
  - transmiterea pachetului eFactura in SPV-ul ANAF-ului
  - verificare status eFactura in bucla(pana cand vedem ca eFactura a fost procesata)
