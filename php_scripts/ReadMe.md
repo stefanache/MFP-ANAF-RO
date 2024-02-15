@@ -1094,6 +1094,8 @@ Hai sa luam exemplul testat de [**Daniel-Popiniuc**](https://github.com/danielgp
 
 Chiar daca riscul de a gresi atunci cand [generati](https://mfinante.gov.ro/despre-minister/-/asset_publisher/uwgr/content/ro-e-factura-restarteaz-c4-83-sistemul-fiscal) e Factura este unul mai mic totusi este recomandat ca inainte de a [trimite](https://hotfox.ro/forum/viewtopic.php?t=7&start=80) eFactura la [ANAF](https://mfinante.gov.ro/static/10/eFactura/prezentare%20apeluri%20API%20E-factura.pdf) sa va asigurati ca UBL/XML-ul eFacturii este [valid](https://www.anaf.ro/uploadxmi/).
 
+Daca aveti nevoie de informatii privind [**Sedii DGRFP**](https://www.anaf.ro/anaf/internet/ANAF/contact/adrese_unitati_fiscale), adica adresele unitatilor fiscale, puteti cauta pe site-ul ***ANAF***
+
 [Linia](https://www.bitsoftware.eu/sbs-efactura/) [automata](https://iforce.ro/2023/09/08/neomanager-si-b-org-pregatite-pentru-efactura/) de [procesare](https://www.ausc.ro/ro-e-factura/)(atat pt partea de predare cat si pt partea de primire) [e-Factura](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/Ghid_RO_eFactura.pdf), prevede in [ordine](https://ajutor.smartbill.ro/article/970-e-factura-descarcarea-si-trimiterea-manuala-in-s-p-v) urmatorii [pasi](https://mfinante.gov.ro/documents/4398723/5002737/E-facturaFAQ.pdf/62a8d46b-82f5-9954-22aa-29b7ad32fe14?t=1637238487343) [procedurali](https://static.anaf.ro/static/10/Galati/Vrancea/Procedura-e-factura.pdf):
 
  - [prelevare date](https://mfinante.gov.ro/web/efactura/informatii-tehnice) intrare [eFactura](https://www.portalpfa.ro/articole/legislatie-1/ghid-e-factura-tot-ce-trebuie-sa-stiti-pentru-a-emite-si-prelua-facturi-electronice-de-la-1-ianuarie-2024-2646.html) din [baza noastra/proprie de date](https://mfinante.gov.ro/static/10/Mfp/ghidE-FACTURA.pdf)
@@ -1133,6 +1135,6 @@ Asadar, nu uitati, dupa ce [verificati](https://hotfox.ro/forum/viewtopic.php?t=
 
 Acest [flux procedural complet si complex](https://static.anaf.ro/static/10/Brasov/Brasov/serv_ANAF.pdf) are si unele avantaje imediate care sunt dezvaluite in acest articol [TrasFond](https://www.facturielectronice.ro/index.php?p=pentru-emitentii-de-facturi)
 
-Daca aveti nevoie de informatii privind [**Sedii DGRFP**](https://www.anaf.ro/anaf/internet/ANAF/contact/adrese_unitati_fiscale), adica adresele unitatilor fiscale, puteti cauta pe site-ul ***ANAF***
+
 
 
