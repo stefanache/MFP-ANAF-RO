@@ -203,23 +203,23 @@ Hai sa luam exemplul testat de [**Daniel-Popiniuc**](https://github.com/danielgp
                        <cbc:BaseQuantity unitCode="C62">1</cbc:BaseQuantity>
                       </cac:Price>
                      </cac:InvoiceLine>
-                    <cac:InvoiceLine>
-                    <cbc:ID>2</cbc:ID>
-                    <cbc:InvoicedQuantity unitCode="C62">622078.28</cbc:InvoicedQuantity>
-                    <cbc:LineExtensionAmount currencyID="RON">4289031.25</cbc:LineExtensionAmount>
-                    <cac:AllowanceCharge>
-                    <cbc:ChargeIndicator>false</cbc:ChargeIndicator>
-                    <cbc:AllowanceChargeReasonCode>95</cbc:AllowanceChargeReasonCode>
-                    <cbc:AllowanceChargeReason>Discount</cbc:AllowanceChargeReason>
-                    <cbc:Amount currencyID="RON">10454.98</cbc:Amount>
-                    </cac:AllowanceCharge>
-                    <cac:AllowanceCharge>
-                    <cbc:ChargeIndicator>true</cbc:ChargeIndicator>
-                    <cbc:AllowanceChargeReasonCode>ZZZ</cbc:AllowanceChargeReasonCode>
-                    <cbc:AllowanceChargeReason>Mutually defined</cbc:AllowanceChargeReason>
-                    <cbc:Amount currencyID="RON">-116445.65</cbc:Amount>
-                    <cbc:BaseAmount currencyID="RON">4415931.88</cbc:BaseAmount>
-                    </cac:AllowanceCharge>
+                     <cac:InvoiceLine>
+                      <cbc:ID>2</cbc:ID>
+                      <cbc:InvoicedQuantity unitCode="C62">622078.28</cbc:InvoicedQuantity>
+                      <cbc:LineExtensionAmount currencyID="RON">4289031.25</cbc:LineExtensionAmount>
+                      <cac:AllowanceCharge>
+                       <cbc:ChargeIndicator>false</cbc:ChargeIndicator>
+                       <cbc:AllowanceChargeReasonCode>95</cbc:AllowanceChargeReasonCode>
+                       <cbc:AllowanceChargeReason>Discount</cbc:AllowanceChargeReason>
+                       <cbc:Amount currencyID="RON">10454.98</cbc:Amount>
+                      </cac:AllowanceCharge>
+                      <cac:AllowanceCharge>
+                       <cbc:ChargeIndicator>true</cbc:ChargeIndicator>
+                       <cbc:AllowanceChargeReasonCode>ZZZ</cbc:AllowanceChargeReasonCode>
+                       <cbc:AllowanceChargeReason>Mutually defined</cbc:AllowanceChargeReason>
+                       <cbc:Amount currencyID="RON">-116445.65</cbc:Amount>
+                       <cbc:BaseAmount currencyID="RON">4415931.88</cbc:BaseAmount>
+                      </cac:AllowanceCharge>
                       <cac:Item>
                        <cbc:Name>item name</cbc:Name>
                        <cac:SellersItemIdentification>
@@ -236,92 +236,92 @@ Hai sa luam exemplul testat de [**Daniel-Popiniuc**](https://github.com/danielgp
                         </cac:TaxScheme>
                        </cac:ClassifiedTaxCategory>
                       </cac:Item>
-                    <cac:Price>
-                    <cbc:PriceAmount currencyID="RON">7.0987</cbc:PriceAmount>
-                    <cbc:BaseQuantity unitCode="C62">1</cbc:BaseQuantity>
-                     </cac:Price>
-                    </cac:InvoiceLine>
-                    <cac:InvoiceLine>
-                    <cbc:ID>3</cbc:ID>
-                    <cbc:InvoicedQuantity unitCode="C62">94104.55</cbc:InvoicedQuantity>
-                    <cbc:LineExtensionAmount currencyID="RON">662151.44</cbc:LineExtensionAmount>
-                    <cac:AllowanceCharge>
-                    <cbc:ChargeIndicator>false</cbc:ChargeIndicator>
-                    <cbc:AllowanceChargeReasonCode>95</cbc:AllowanceChargeReasonCode>
-                    <cbc:AllowanceChargeReason>Discount</cbc:AllowanceChargeReason>
-                    <cbc:Amount currencyID="RON">3589.66</cbc:Amount>
-                    </cac:AllowanceCharge>
-                    <cac:AllowanceCharge>
-                    <cbc:ChargeIndicator>true</cbc:ChargeIndicator>
-                    <cbc:AllowanceChargeReasonCode>ZZZ</cbc:AllowanceChargeReasonCode>
-                    <cbc:AllowanceChargeReason>Mutually defined</cbc:AllowanceChargeReason>
-                    <cbc:Amount currencyID="RON">-19458.05</cbc:Amount>
-                    <cbc:BaseAmount currencyID="RON">685199.15</cbc:BaseAmount>
-                    </cac:AllowanceCharge>
+                      <cac:Price>
+                       <cbc:PriceAmount currencyID="RON">7.0987</cbc:PriceAmount>
+                       <cbc:BaseQuantity unitCode="C62">1</cbc:BaseQuantity>
+                      </cac:Price>
+                     </cac:InvoiceLine>
+                     <cac:InvoiceLine>
+                      <cbc:ID>3</cbc:ID>
+                      <cbc:InvoicedQuantity unitCode="C62">94104.55</cbc:InvoicedQuantity>
+                      <cbc:LineExtensionAmount currencyID="RON">662151.44</cbc:LineExtensionAmount>
+                      <cac:AllowanceCharge>
+                       <cbc:ChargeIndicator>false</cbc:ChargeIndicator>
+                       <cbc:AllowanceChargeReasonCode>95</cbc:AllowanceChargeReasonCode>
+                       <cbc:AllowanceChargeReason>Discount</cbc:AllowanceChargeReason>
+                       <cbc:Amount currencyID="RON">3589.66</cbc:Amount>
+                      </cac:AllowanceCharge>
+                      <cac:AllowanceCharge>
+                       <cbc:ChargeIndicator>true</cbc:ChargeIndicator>
+                       <cbc:AllowanceChargeReasonCode>ZZZ</cbc:AllowanceChargeReasonCode>
+                       <cbc:AllowanceChargeReason>Mutually defined</cbc:AllowanceChargeReason>
+                       <cbc:Amount currencyID="RON">-19458.05</cbc:Amount>
+                       <cbc:BaseAmount currencyID="RON">685199.15</cbc:BaseAmount>
+                      </cac:AllowanceCharge>
                       <cac:Item>
-                    <cbc:Name>item name</cbc:Name>
-                    <cac:SellersItemIdentification>
-                    <cbc:ID>0106</cbc:ID>
-                    </cac:SellersItemIdentification>
-                    <cac:ClassifiedTaxCategory>
-                    <cbc:ID>S</cbc:ID>
-                    <cbc:Percent>19.00</cbc:Percent>
-                    <cac:TaxScheme>
-                    <cbc:ID>VAT</cbc:ID>
-                     </cac:TaxScheme>
-                    </cac:ClassifiedTaxCategory>
+                       <cbc:Name>item name</cbc:Name>
+                       <cac:SellersItemIdentification>
+                        <cbc:ID>0106</cbc:ID>
+                       </cac:SellersItemIdentification>
+                       <cac:ClassifiedTaxCategory>
+                        <cbc:ID>S</cbc:ID>
+                        <cbc:Percent>19.00</cbc:Percent>
+                        <cac:TaxScheme>
+                         <cbc:ID>VAT</cbc:ID>
+                        </cac:TaxScheme>
+                       </cac:ClassifiedTaxCategory>
                       </cac:Item>
-                    <cac:Price>
-                    <cbc:PriceAmount currencyID="RON">7.2813</cbc:PriceAmount>
-                    <cbc:BaseQuantity unitCode="C62">1</cbc:BaseQuantity>
-                    </cac:Price>
-                    </cac:InvoiceLine>
-                    <cac:InvoiceLine>
-                    <cbc:ID>4</cbc:ID>
-                    <cbc:InvoicedQuantity unitCode="C62">3764335.51</cbc:InvoicedQuantity>
-                    <cbc:LineExtensionAmount currencyID="RON">25444505.23</cbc:LineExtensionAmount>
-                    <cac:AllowanceCharge>
-                    <cbc:ChargeIndicator>false</cbc:ChargeIndicator>
-                    <cbc:AllowanceChargeReasonCode>95</cbc:AllowanceChargeReasonCode>
-                    <cbc:AllowanceChargeReason>Discount</cbc:AllowanceChargeReason>
-                    <cbc:Amount currencyID="RON">63265.49</cbc:Amount>
-                    </cac:AllowanceCharge>
-                    <cac:AllowanceCharge>
-                    <cbc:ChargeIndicator>true</cbc:ChargeIndicator>
-                    <cbc:AllowanceChargeReasonCode>ZZZ</cbc:AllowanceChargeReasonCode>
-                    <cbc:AllowanceChargeReason>Mutually defined</cbc:AllowanceChargeReason>
-                    <cbc:Amount currencyID="RON">-650523.32</cbc:Amount>
-                    <cbc:BaseAmount currencyID="RON">26158294.04</cbc:BaseAmount>
-                    </cac:AllowanceCharge>
+                      <cac:Price>
+                       <cbc:PriceAmount currencyID="RON">7.2813</cbc:PriceAmount>
+                       <cbc:BaseQuantity unitCode="C62">1</cbc:BaseQuantity>
+                      </cac:Price>
+                     </cac:InvoiceLine>
+                     <cac:InvoiceLine>
+                      <cbc:ID>4</cbc:ID>
+                      <cbc:InvoicedQuantity unitCode="C62">3764335.51</cbc:InvoicedQuantity>
+                      <cbc:LineExtensionAmount currencyID="RON">25444505.23</cbc:LineExtensionAmount>
+                      <cac:AllowanceCharge>
+                       <cbc:ChargeIndicator>false</cbc:ChargeIndicator>
+                       <cbc:AllowanceChargeReasonCode>95</cbc:AllowanceChargeReasonCode>
+                       <cbc:AllowanceChargeReason>Discount</cbc:AllowanceChargeReason>
+                       <cbc:Amount currencyID="RON">63265.49</cbc:Amount>
+                      </cac:AllowanceCharge>
+                      <cac:AllowanceCharge>
+                       <cbc:ChargeIndicator>true</cbc:ChargeIndicator>
+                       <cbc:AllowanceChargeReasonCode>ZZZ</cbc:AllowanceChargeReasonCode>
+                       <cbc:AllowanceChargeReason>Mutually defined</cbc:AllowanceChargeReason>
+                       <cbc:Amount currencyID="RON">-650523.32</cbc:Amount>
+                       <cbc:BaseAmount currencyID="RON">26158294.04</cbc:BaseAmount>
+                      </cac:AllowanceCharge>
                       <cac:Item>
-                    <cbc:Name>item name</cbc:Name>
-                    <cac:SellersItemIdentification>
-                    <cbc:ID>0107</cbc:ID>
-                    </cac:SellersItemIdentification>
-                    <cac:ClassifiedTaxCategory>
-                    <cbc:ID>S</cbc:ID>
-                    <cbc:Percent>19.00</cbc:Percent>
-                    <cac:TaxScheme>
-                    <cbc:ID>VAT</cbc:ID>
-                    </cac:TaxScheme>
-                    </cac:ClassifiedTaxCategory>
+                       <cbc:Name>item name</cbc:Name>
+                       <cac:SellersItemIdentification>
+                        <cbc:ID>0107</cbc:ID>
+                       </cac:SellersItemIdentification>
+                       <cac:ClassifiedTaxCategory>
+                        <cbc:ID>S</cbc:ID>
+                        <cbc:Percent>19.00</cbc:Percent>
+                        <cac:TaxScheme>
+                         <cbc:ID>VAT</cbc:ID>
+                        </cac:TaxScheme>
+                       </cac:ClassifiedTaxCategory>
                       </cac:Item>
-                    <cac:Price>
-                    <cbc:PriceAmount currencyID="RON">6.9490</cbc:PriceAmount>
-                    <cbc:BaseQuantity unitCode="C62">1</cbc:BaseQuantity>
-                     </cac:Price>
-                    </cac:InvoiceLine>
-                    <cac:InvoiceLine>
-                    <cbc:ID>5</cbc:ID>
-                    <cbc:InvoicedQuantity unitCode="C62">51772.34</cbc:InvoicedQuantity>
-                    <cbc:LineExtensionAmount currencyID="RON">379456.48</cbc:LineExtensionAmount>
-                    <cac:AllowanceCharge>
-                    <cbc:ChargeIndicator>false</cbc:ChargeIndicator>
-                    <cbc:AllowanceChargeReasonCode>95</cbc:AllowanceChargeReasonCode>
-                    <cbc:AllowanceChargeReason>Discount</cbc:AllowanceChargeReason>
-                    <cbc:Amount currencyID="RON">2980.02</cbc:Amount>
-                    </cac:AllowanceCharge>
-                    <cac:AllowanceCharge>
+                      <cac:Price>
+                       <cbc:PriceAmount currencyID="RON">6.9490</cbc:PriceAmount>
+                       <cbc:BaseQuantity unitCode="C62">1</cbc:BaseQuantity>
+                      </cac:Price>
+                     </cac:InvoiceLine>
+                     <cac:InvoiceLine>
+                      <cbc:ID>5</cbc:ID>
+                      <cbc:InvoicedQuantity unitCode="C62">51772.34</cbc:InvoicedQuantity>
+                      <cbc:LineExtensionAmount currencyID="RON">379456.48</cbc:LineExtensionAmount>
+                      <cac:AllowanceCharge>
+                       <cbc:ChargeIndicator>false</cbc:ChargeIndicator>
+                       <cbc:AllowanceChargeReasonCode>95</cbc:AllowanceChargeReasonCode>
+                       <cbc:AllowanceChargeReason>Discount</cbc:AllowanceChargeReason>
+                       <cbc:Amount currencyID="RON">2980.02</cbc:Amount>
+                      </cac:AllowanceCharge>
+                      <cac:AllowanceCharge>
                     <cbc:ChargeIndicator>true</cbc:ChargeIndicator>
                     <cbc:AllowanceChargeReasonCode>ZZZ</cbc:AllowanceChargeReasonCode>
                     <cbc:AllowanceChargeReason>Mutually defined</cbc:AllowanceChargeReason>
