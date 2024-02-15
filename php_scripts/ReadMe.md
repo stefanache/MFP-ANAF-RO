@@ -1104,7 +1104,7 @@ Chiar daca riscul de a gresi atunci cand generati e Faxctura este unul mai mic t
  - cand primim o alerta/informare ca a sosit o eFactura valida de la un furnizor
  - descarcam eFactura primita
  - inregistram eFactura in sistemul nostru de urmarire
- - arhivam documentul/documentele aferente atasate eFacturii
+ - eventual comprimam si apoi arhivam(pe termen indelungat) documentul/documentele aferente atasate eFacturii
    
 Apoi dupa ce [verificati](https://hotfox.ro/forum/viewtopic.php?t=7&start=80) validitatea eFacturii, transmiteti eFatura si formularul aferent si apoi verificati [starea/statusul](https://ajutor.smartbill.ro/article/984-statusurile-si-validarea-e-facturii) eFacturii transmise/incarcate(upload-ate) in SPV-ul [ANAF](https://mfinante.gov.ro/static/10/eFactura/prezentare%20apeluri%20API%20E-factura.pdf)-ului
 
