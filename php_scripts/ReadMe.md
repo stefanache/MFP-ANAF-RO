@@ -567,73 +567,73 @@ Hai sa luam exemplul testat de [**Daniel-Popiniuc**](https://github.com/danielgp
                      </cac:InvoiceLine>
                      <cac:InvoiceLine>
                       <cbc:ID>13</cbc:ID>
-                    <cbc:InvoicedQuantity unitCode="C62">125.00</cbc:InvoicedQuantity>
-                    <cbc:LineExtensionAmount currencyID="RON">3009.43</cbc:LineExtensionAmount>
+                      <cbc:InvoicedQuantity unitCode="C62">125.00</cbc:InvoicedQuantity>
+                      <cbc:LineExtensionAmount currencyID="RON">3009.43</cbc:LineExtensionAmount>
                       <cac:Item>
-                    <cbc:Name>item name</cbc:Name>
-                    <cac:SellersItemIdentification>
-                    <cbc:ID>0501</cbc:ID>
-                    </cac:SellersItemIdentification>
-                    <cac:ClassifiedTaxCategory>
-                    <cbc:ID>S</cbc:ID>
-                    <cbc:Percent>19.00</cbc:Percent>
-                    <cac:TaxScheme>
-                    <cbc:ID>VAT</cbc:ID>
+                       <cbc:Name>item name</cbc:Name>
+                       <cac:SellersItemIdentification>
+                        <cbc:ID>0501</cbc:ID>
+                       </cac:SellersItemIdentification>
+                       <cac:ClassifiedTaxCategory>
+                        <cbc:ID>S</cbc:ID>
+                        <cbc:Percent>19.00</cbc:Percent>
+                        <cac:TaxScheme>
+                         <cbc:ID>VAT</cbc:ID>
                         </cac:TaxScheme>
                        </cac:ClassifiedTaxCategory>
                       </cac:Item>
-                    <cac:Price>
-                    <cbc:PriceAmount currencyID="RON">24.0754</cbc:PriceAmount>
-                    <cbc:BaseQuantity unitCode="C62">1</cbc:BaseQuantity>
-                     </cac:Price>
-                    </cac:InvoiceLine>
-                    <cac:InvoiceLine>
-                    <cbc:ID>14</cbc:ID>
-                    <cbc:InvoicedQuantity unitCode="C62">35.00</cbc:InvoicedQuantity>
-                    <cbc:LineExtensionAmount currencyID="RON">13.50</cbc:LineExtensionAmount>
+                      <cac:Price>
+                       <cbc:PriceAmount currencyID="RON">24.0754</cbc:PriceAmount>
+                       <cbc:BaseQuantity unitCode="C62">1</cbc:BaseQuantity>
+                      </cac:Price>
+                     </cac:InvoiceLine>
+                     <cac:InvoiceLine>
+                      <cbc:ID>14</cbc:ID>
+                      <cbc:InvoicedQuantity unitCode="C62">35.00</cbc:InvoicedQuantity>
+                      <cbc:LineExtensionAmount currencyID="RON">13.50</cbc:LineExtensionAmount>
                       <cac:Item>
-                    <cbc:Name>Taxa Ulei</cbc:Name>
-                    <cac:SellersItemIdentification>
-                    <cbc:ID>0520</cbc:ID>
-                    </cac:SellersItemIdentification>
-                    <cac:ClassifiedTaxCategory>
-                    <cbc:ID>S</cbc:ID>
-                    <cbc:Percent>19.00</cbc:Percent>
-                    <cac:TaxScheme>
-                    <cbc:ID>VAT</cbc:ID>
-                      </cac:TaxScheme>
-                     </cac:ClassifiedTaxCategory>
-                    </cac:Item>
-                    <cac:Price>
-                    <cbc:PriceAmount currencyID="RON">0.3857</cbc:PriceAmount>
-                    <cbc:BaseQuantity unitCode="C62">1</cbc:BaseQuantity>
-                     </cac:Price>
-                    </cac:InvoiceLine>
-                    <cac:InvoiceLine>
-                    <cbc:ID>15</cbc:ID>
-                    <cbc:InvoicedQuantity unitCode="C62">8875.75</cbc:InvoicedQuantity>
-                    <cbc:LineExtensionAmount currencyID="RON">52726.75</cbc:LineExtensionAmount>
-                      <cac:Item>
-                    <cbc:Name>item name</cbc:Name>
-                    <cac:SellersItemIdentification>
-                    <cbc:ID>0540</cbc:ID>
-                    </cac:SellersItemIdentification>
-                    <cac:ClassifiedTaxCategory>
-                    <cbc:ID>S</cbc:ID>
-                    <cbc:Percent>19.00</cbc:Percent>
-                    <cac:TaxScheme>
-                    <cbc:ID>VAT</cbc:ID>
-                      </cac:TaxScheme>
-                     </cac:ClassifiedTaxCategory>
+                       <cbc:Name>Taxa Ulei</cbc:Name>
+                       <cac:SellersItemIdentification>
+                        <cbc:ID>0520</cbc:ID>
+                       </cac:SellersItemIdentification>
+                       <cac:ClassifiedTaxCategory>
+                        <cbc:ID>S</cbc:ID>
+                        <cbc:Percent>19.00</cbc:Percent>
+                        <cac:TaxScheme>
+                         <cbc:ID>VAT</cbc:ID>
+                        </cac:TaxScheme>
+                       </cac:ClassifiedTaxCategory>
                       </cac:Item>
-                    <cac:Price>
-                    <cbc:PriceAmount currencyID="RON">5.9405</cbc:PriceAmount>
-                    <cbc:BaseQuantity unitCode="C62">1</cbc:BaseQuantity>
-                     </cac:Price>
-                    </cac:InvoiceLine>
-                    <cac:InvoiceLine>
-                    <cbc:ID>16</cbc:ID>
-                    <cbc:InvoicedQuantity unitCode="C62">538.00</cbc:InvoicedQuantity>
+                      <cac:Price>
+                       <cbc:PriceAmount currencyID="RON">0.3857</cbc:PriceAmount>
+                       <cbc:BaseQuantity unitCode="C62">1</cbc:BaseQuantity>
+                      </cac:Price>
+                     </cac:InvoiceLine>
+                     <cac:InvoiceLine>
+                      <cbc:ID>15</cbc:ID>
+                      <cbc:InvoicedQuantity unitCode="C62">8875.75</cbc:InvoicedQuantity>
+                      <cbc:LineExtensionAmount currencyID="RON">52726.75</cbc:LineExtensionAmount>
+                      <cac:Item>
+                       <cbc:Name>item name</cbc:Name>
+                       <cac:SellersItemIdentification>
+                        <cbc:ID>0540</cbc:ID>
+                       </cac:SellersItemIdentification>
+                       <cac:ClassifiedTaxCategory>
+                        <cbc:ID>S</cbc:ID>
+                        <cbc:Percent>19.00</cbc:Percent>
+                        <cac:TaxScheme>
+                         <cbc:ID>VAT</cbc:ID>
+                        </cac:TaxScheme>
+                       </cac:ClassifiedTaxCategory>
+                      </cac:Item>
+                      <cac:Price>
+                       <cbc:PriceAmount currencyID="RON">5.9405</cbc:PriceAmount>
+                       <cbc:BaseQuantity unitCode="C62">1</cbc:BaseQuantity>
+                      </cac:Price>
+                     </cac:InvoiceLine>
+                     <cac:InvoiceLine>
+                      <cbc:ID>16</cbc:ID>
+                      <cbc:InvoicedQuantity unitCode="C62">538.00</cbc:InvoicedQuantity>
                     <cbc:LineExtensionAmount currencyID="RON">64490.35</cbc:LineExtensionAmount>
                     <cac:Item>
                     <cbc:Name>item name</cbc:Name>
