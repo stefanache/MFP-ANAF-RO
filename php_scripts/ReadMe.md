@@ -1092,16 +1092,18 @@ Chiar daca riscul de a gresi atunci cand generati e Faxctura este unul mai mic t
 
 [Linia](https://www.bitsoftware.eu/sbs-efactura/) automata de procesare(atat pt predare cat si pt primire) e-Factura prevede in ordine:
 
- - prelevare date intrare eFactura
+ - prelevare date intrare eFactura din baza noastra de date
  - generare eFactura
- - -semnare eFactura
+ - semnare digitala document eFactura
  - validare eFactura
  - generare declaratie
  - impachetare eFactura+declaratie(sau preparare in vederea transiterii efacturii catre ANAF)
  - transmiterea pachetului eFactura in SPV-ul ANAF-ului
  - verificare status eFactura in bucla(pana cand vedem ca eFactura a fost procesata)
- - cand primim o alerta/informare ca a sosit o eFactura de la un furnizam
+ - daca eFactura transmisa este refuzata se inlatura deficienta si se reia procesul din punctul adecvat
+ - cand primim o alerta/informare ca a sosit o eFactura valida de la un furnizor
  - descarcam eFactura primita
+ - inregistram eFactura in sistemul nostru de urmarire
  - arhivam documentul/documentele aferente atasate eFacturii
    
 Apoi dupa ce [verificati](https://hotfox.ro/forum/viewtopic.php?t=7&start=80) validitatea eFacturii, transmiteti eFatura si formularul aferent si apoi verificati [starea/statusul](https://ajutor.smartbill.ro/article/984-statusurile-si-validarea-e-facturii) eFacturii transmise/incarcate(upload-ate) in SPV-ul [ANAF](https://mfinante.gov.ro/static/10/eFactura/prezentare%20apeluri%20API%20E-factura.pdf)-ului
