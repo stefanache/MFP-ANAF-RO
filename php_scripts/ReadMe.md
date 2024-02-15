@@ -1135,7 +1135,7 @@ Daca aveti nevoie de informatii privind [**Sedii DGRFP**](https://www.anaf.ro/an
    
 Asadar, nu uitati, dupa ce [verificati](https://hotfox.ro/forum/viewtopic.php?t=7&start=80) validitatea eFacturii, transmiteti eFatura si formularul aferent si apoi verificati [starea/statusul](https://ajutor.smartbill.ro/article/984-statusurile-si-validarea-e-facturii) eFacturii transmise/incarcate(upload-ate) in SPV-ul [ANAF](https://mfinante.gov.ro/static/10/eFactura/prezentare%20apeluri%20API%20E-factura.pdf)-ului
 
-Acest [flux procedural complet si complex](https://static.anaf.ro/static/10/Brasov/Brasov/serv_ANAF.pdf) are si unele avantaje imediate care sunt dezvaluite in acest articol [TrasFond](https://www.facturielectronice.ro/index.php?p=pentru-emitentii-de-facturi)
+Acest [flux procedural complet si complex](https://static.anaf.ro/static/10/Brasov/Brasov/serv_ANAF.pdf) are si unele [avantaje imediate](https://www.nexuserp.ro/blog/implementarea-e-factura-parteneriat-cu-tehnologia) care sunt dezvaluite in acest articol [TrasFond](https://www.facturielectronice.ro/index.php?p=pentru-emitentii-de-facturi)
 
 
 
