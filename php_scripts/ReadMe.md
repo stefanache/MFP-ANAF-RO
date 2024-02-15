@@ -1092,23 +1092,23 @@ Hai sa luam exemplul testat de [**Daniel-Popiniuc**](https://github.com/danielgp
    
    Aceste fisiere utilizate in acest exemplu [**eFactura/eInvoice**](https://github.com/josemmo/einvoicing?tab=readme-ov-file) scris in **PhP**, armonizat cu [**CIUS-RO**](https://mfinante.gov.ro/web/efactura/informatii-tehnice) si bazat pe [**SimpleXML**](https://github.com/josemmo/einvoicing/blob/master/src/Presets/CiusRo.php) pot fi  gasite in /descarcate din sub-directorul [**simpleInvoice**](https://github.com/stefanache/MFP-ANAF-RO/tree/main/php_scripts/simpleInvoice), gazduit de directorul curent.
 
-Chiar daca riscul de a gresi atunci cand generati e Faxctura este unul mai mic totusi este recomandat ca inainte de a [trimite](https://hotfox.ro/forum/viewtopic.php?t=7&start=80) eFactura la [ANAF](https://mfinante.gov.ro/static/10/eFactura/prezentare%20apeluri%20API%20E-factura.pdf) sa va asigurati ca UBL/XML-ul eFacturii este [valid](https://www.anaf.ro/uploadxmi/).
+Chiar daca riscul de a gresi atunci cand [generati](https://mfinante.gov.ro/despre-minister/-/asset_publisher/uwgr/content/ro-e-factura-restarteaz-c4-83-sistemul-fiscal) e Factura este unul mai mic totusi este recomandat ca inainte de a [trimite](https://hotfox.ro/forum/viewtopic.php?t=7&start=80) eFactura la [ANAF](https://mfinante.gov.ro/static/10/eFactura/prezentare%20apeluri%20API%20E-factura.pdf) sa va asigurati ca UBL/XML-ul eFacturii este [valid](https://www.anaf.ro/uploadxmi/).
 
-[Linia](https://www.bitsoftware.eu/sbs-efactura/) [automata](https://iforce.ro/2023/09/08/neomanager-si-b-org-pregatite-pentru-efactura/) de [procesare](https://www.ausc.ro/ro-e-factura/)(atat pt partea de predare cat si pt partea de primire) [e-Factura](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/Ghid_RO_eFactura.pdf), prevede in [ordine](https://ajutor.smartbill.ro/article/970-e-factura-descarcarea-si-trimiterea-manuala-in-s-p-v):
+[Linia](https://www.bitsoftware.eu/sbs-efactura/) [automata](https://iforce.ro/2023/09/08/neomanager-si-b-org-pregatite-pentru-efactura/) de [procesare](https://www.ausc.ro/ro-e-factura/)(atat pt partea de predare cat si pt partea de primire) [e-Factura](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/Ghid_RO_eFactura.pdf), prevede in [ordine](https://ajutor.smartbill.ro/article/970-e-factura-descarcarea-si-trimiterea-manuala-in-s-p-v) urmatorii [pasi](https://mfinante.gov.ro/documents/4398723/5002737/E-facturaFAQ.pdf/62a8d46b-82f5-9954-22aa-29b7ad32fe14?t=1637238487343) [procedurali](https://static.anaf.ro/static/10/Galati/Vrancea/Procedura-e-factura.pdf):
 
- - prelevare date intrare eFactura din baza noastra/proprie de date
- - [generare](https://www.anaf.ro/CompletareFactura/faces/factura/informatiigenerale.xhtml) eFactura
- - semnare digitala document eFactura
- - validare eFactura
+ - [prelevare date](https://mfinante.gov.ro/web/efactura/informatii-tehnice) intrare [eFactura](https://www.portalpfa.ro/articole/legislatie-1/ghid-e-factura-tot-ce-trebuie-sa-stiti-pentru-a-emite-si-prelua-facturi-electronice-de-la-1-ianuarie-2024-2646.html) din baza noastra/proprie de date
+ - [generare](https://www.anaf.ro/CompletareFactura/faces/factura/informatiigenerale.xhtml) [eFactura](https://mfinante.gov.ro/web/efactura/aplicatii-web-ro-efactura)
+ - [validare](https://mfinante.gov.ro/web/efactura/validare-xml-factura) [eFactura](https://mfinante.gov.ro/despre-minister/-/asset_publisher/uwgr/content/facturarea-electronic-c4-83-obligatorie-de-la-1-ianuarie-2024-pentru-toate-tranzac-c8-9biile-c3-aentre-firme)
+ - [semnare](https://static.anaf.ro/static/10/Galati/Vrancea/Procedura-e-factura.pdf) digitala document eFactura
  - inregistrare utilizator in [Registrul Operatorilor](https://static.anaf.ro/static/10/Galati/Vrancea/Preciz-Registrul-RO-e-Factura-si-form-084.pdf)
  - completare declaratie "[Cerere privind înregistrarea în Registrul RO e-Factura](https://static.anaf.ro/static/10/Galati/Vrancea/Preciz-Registrul-RO-e-Factura-si-form-084.pdf)" folosind [formularul]((https://www.anaf.ro/anaf/internet/ANAF/asistenta_contribuabili/declararea_obligatiilor_fiscale/toate_formularele/#084n)) [F084](https://infotva.manager.ro/articole/studii-de-caz/ro-e-factura-pentru-inregistrare-in-sistem-trebuie-transmis-formularul-084-pana-pe-31-decembrie-2023-23134.html)
- - transmiterea autorizata oAuth2(de catre ANAF/MFP si o autoritate de certificare in scop de semnatura calificata) a pachetului eFactura in SPV-ul ANAF-ului
- - verificare status eFactura in bucla(pana cand vedem ca eFactura a fost procesata)
+ - [transmiterea](https://mfinante.gov.ro/test-galerie-video-cu-asset-publisher/-/asset_publisher/cWuA9hLHu9eW/content/speciftehefactura) / [upload](https://mfinante.gov.ro/static/10/Mfp/efactura/upload_2009.html) autorizata oAuth2(de catre ANAF/MFP si o autoritate de certificare in scop de semnatura calificata) a pachetului eFactura in SPV-ul ANAF-ului
+ - verificare [status](https://mfinante.gov.ro/static/10/Mfp/efactura/staremesaj.html) [eFactura](https://mfinante.gov.ro/despre-minister/-/asset_publisher/wald/content/proiectul-e-factura-intr-c4-83-c3-aen-linie-dreapt-c4-83) in bucla(pana cand vedem ca eFactura a fost procesata)
  - daca eFactura transmisa este refuzata se inlatura deficienta si se reia procesul din punctul adecvat
- - cand primim o alerta/informare ca a sosit o eFactura valida de la un furnizor
- - descarcam eFactura primita
- - transformam xml-eFactura in fisier PDF pentru a fi usor printata si vizualizata
- - inregistram eFactura in sistemul nostru de urmarire
+ - cand primim o alerta/informare ca a sosit o [eFactura](https://mfinante.gov.ro/despre-minister/-/asset_publisher/wald/content/oo) valida de la un furnizor
+ - [descarcam](https://mfinante.gov.ro/static/10/Mfp/efactura/descarcare.html) [eFactura](https://mfinante.gov.ro/static/10/Mfp/efactura/listamesaj.html) primita de catre client
+ - [transformam](https://www.anaf.ro/uploadxml/) xml-eFactura in fisier PDF pentru a fi usor printata si vizualizata
+ - inregistram eFactura in sistemul nostru ERP de urmarire al documentelor
  - eventual comprimam si apoi arhivam(pe termen indelungat) documentul/documentele aferente atasate eFacturii
    
 Apoi dupa ce [verificati](https://hotfox.ro/forum/viewtopic.php?t=7&start=80) validitatea eFacturii, transmiteti eFatura si formularul aferent si apoi verificati [starea/statusul](https://ajutor.smartbill.ro/article/984-statusurile-si-validarea-e-facturii) eFacturii transmise/incarcate(upload-ate) in SPV-ul [ANAF](https://mfinante.gov.ro/static/10/eFactura/prezentare%20apeluri%20API%20E-factura.pdf)-ului
