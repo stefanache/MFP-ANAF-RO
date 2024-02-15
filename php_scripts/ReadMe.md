@@ -1110,7 +1110,7 @@ Chiar daca riscul de a gresi atunci cand [generati](https://mfinante.gov.ro/desp
     - Transmiterea facturilor în format XML se face prin logarea în Spaţiul Privat Virtual (SPV), în sistemul RO e-Factura urmând efectiv urmatorii paşi:
     - Se intră pe site-ul https://anaf.ro.
     - Se apasă pe opţiunea de Autentificare Certificat.
-    - Se selectează şi se introduce parola de la semntaura electronică (certificat digital)
+    - Se selectează şi se introduce parola de la semnatura electronică (certificat digital)
  - verificare [status](https://mfinante.gov.ro/static/10/Mfp/efactura/staremesaj.html) [eFactura](https://mfinante.gov.ro/despre-minister/-/asset_publisher/wald/content/proiectul-e-factura-intr-c4-83-c3-aen-linie-dreapt-c4-83) in bucla(pana cand vedem ca eFactura a fost procesata)
  - daca [eFactura](https://ro-efactura.ro/pasii-necesari-pentru-a-incarca-facturi-in-sistemul-ro-e-factura/) transmisa este refuzata se inlatura deficienta si se reia procesul din punctul adecvat
  - in caz contrar, daca [eFactura](https://ajutor.smartbill.ro/article/970-e-factura-descarcarea-si-trimiterea-manuala-in-s-p-v) a fost [acceptata](https://ro-efactura.ro/pasii-necesari-pentru-a-incarca-facturi-in-sistemul-ro-e-factura/),  vom primi un cod de/ca urmare a validar[e/ii]
