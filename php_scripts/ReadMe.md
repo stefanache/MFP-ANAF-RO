@@ -1098,7 +1098,7 @@ Chiar daca riscul de a gresi atunci cand generati e Faxctura este unul mai mic t
  - validare eFactura
  - generare declaratie
  - impachetare eFactura+declaratie(sau preparare in vederea transiterii efacturii catre ANAF)
- - transmiterea pachetului eFactura in SPV-ul ANAF-ului
+ - transmiterea autorizata oAuth2 a pachetului eFactura in SPV-ul ANAF-ului
  - verificare status eFactura in bucla(pana cand vedem ca eFactura a fost procesata)
  - daca eFactura transmisa este refuzata se inlatura deficienta si se reia procesul din punctul adecvat
  - cand primim o alerta/informare ca a sosit o eFactura valida de la un furnizor
