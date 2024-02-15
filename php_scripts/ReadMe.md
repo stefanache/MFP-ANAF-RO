@@ -1101,7 +1101,7 @@ Chiar daca riscul de a gresi atunci cand generati e Faxctura este unul mai mic t
  - semnare digitala document eFactura
  - validare eFactura
  - generare/completare declaratie folosind formularul [F084](https://infotva.manager.ro/articole/studii-de-caz/ro-e-factura-pentru-inregistrare-in-sistem-trebuie-transmis-formularul-084-pana-pe-31-decembrie-2023-23134.html)
- - impachetare eFactura + [declaratie](https://static.anaf.ro/static/3/Ploiesti/20220622155906_comunicat_formular_084.pdf) completata [D084](https://www.anaf.ro/anaf/internet/ANAF/asistenta_contribuabili/declararea_obligatiilor_fiscale/toate_formularele/#084n)(sau preparare in vederea transiterii efacturii catre ANAF)
+ - impachetare eFactura + [declaratie](https://static.anaf.ro/static/3/Ploiesti/20220622155906_comunicat_formular_084.pdf) [completata](https://static.anaf.ro/static/10/Galati/Vrancea/Preciz-Registrul-RO-e-Factura-si-form-084.pdf) [D084](https://www.anaf.ro/anaf/internet/ANAF/asistenta_contribuabili/declararea_obligatiilor_fiscale/toate_formularele/#084n)(sau preparare in vederea transiterii efacturii catre ANAF)
  - transmiterea autorizata oAuth2(de catre ANAF/MFP si o autoritate de certificare in scop de semnatura calificata) a pachetului eFactura in SPV-ul ANAF-ului
  - verificare status eFactura in bucla(pana cand vedem ca eFactura a fost procesata)
  - daca eFactura transmisa este refuzata se inlatura deficienta si se reia procesul din punctul adecvat
