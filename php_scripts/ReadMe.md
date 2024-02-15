@@ -1096,8 +1096,8 @@ Chiar daca riscul de a gresi atunci cand generati e Faxctura este unul mai mic t
 
 [Linia](https://www.bitsoftware.eu/sbs-efactura/) [automata](https://iforce.ro/2023/09/08/neomanager-si-b-org-pregatite-pentru-efactura/) de [procesare](https://www.ausc.ro/ro-e-factura/)(atat pt partea de predare cat si pt partea de primire) [e-Factura](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/Ghid_RO_eFactura.pdf), prevede in [ordine](https://ajutor.smartbill.ro/article/970-e-factura-descarcarea-si-trimiterea-manuala-in-s-p-v):
 
- - prelevare date intrare eFactura din baza noastra de date
- - generare eFactura
+ - prelevare date intrare eFactura din baza noastra/proprie de date
+ - [generare](https://www.anaf.ro/CompletareFactura/faces/factura/informatiigenerale.xhtml) eFactura
  - semnare digitala document eFactura
  - validare eFactura
  - inregistrare utilizator in [Registrul Operatorilor](https://static.anaf.ro/static/10/Galati/Vrancea/Preciz-Registrul-RO-e-Factura-si-form-084.pdf)
