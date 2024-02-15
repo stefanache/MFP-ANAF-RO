@@ -1108,15 +1108,18 @@ Chiar daca riscul de a gresi atunci cand [generati](https://mfinante.gov.ro/desp
  - [semnare/autentificare](https://static.anaf.ro/static/10/Galati/Vrancea/Procedura-e-factura.pdf) [digitala](https://www.certsign.ro/ro/semnatura-electronica-calificata-pentru-e-factura/) document [eFactura]
  - [transmiterea](https://mfinante.gov.ro/test-galerie-video-cu-asset-publisher/-/asset_publisher/cWuA9hLHu9eW/content/speciftehefactura) / [upload](https://mfinante.gov.ro/static/10/Mfp/efactura/upload_2009.html) autorizata oAuth2(de catre ANAF/MFP si o autoritate de certificare in scop de semnatura calificata) a pachetului eFactura in SPV-ul ANAF-ului
  - verificare [status](https://mfinante.gov.ro/static/10/Mfp/efactura/staremesaj.html) [eFactura](https://mfinante.gov.ro/despre-minister/-/asset_publisher/wald/content/proiectul-e-factura-intr-c4-83-c3-aen-linie-dreapt-c4-83) in bucla(pana cand vedem ca eFactura a fost procesata)
- - daca [eFactura](https://ro-efactura.ro/pasii-necesari-pentru-a-incarca-facturi-in-sistemul-ro-e-factura/) transmisa este refuzata se inlatura deficienta si se reia procesul din punctul adecvat,
-  in caz contrar, daca factura a fost [acceptata](https://ro-efactura.ro/pasii-necesari-pentru-a-incarca-facturi-in-sistemul-ro-e-factura/),  vom primi un cod de/ca urmare a validar[e/ii] 
- - daca am primit [confirmarea](https://ro-efactura.ro/pasii-necesari-pentru-a-incarca-facturi-in-sistemul-ro-e-factura/) ANAF ca factura a fost procesata in SPV atunci rolul emitentului/furnizorului s-a incheiat si se declanseaza/starteaza/incepe rolul primitorului/clientului:
-   
- - cand primim o alerta/informare ca a sosit o [eFactura](https://mfinante.gov.ro/despre-minister/-/asset_publisher/wald/content/oo) valida de la un furnizor
+ - daca [eFactura](https://ro-efactura.ro/pasii-necesari-pentru-a-incarca-facturi-in-sistemul-ro-e-factura/) transmisa este refuzata se inlatura deficienta si se reia procesul din punctul adecvat
+ - in caz contrar, daca [eFactura](https://ajutor.smartbill.ro/article/970-e-factura-descarcarea-si-trimiterea-manuala-in-s-p-v) a fost [acceptata](https://ro-efactura.ro/pasii-necesari-pentru-a-incarca-facturi-in-sistemul-ro-e-factura/),  vom primi un cod de/ca urmare a validar[e/ii]
+ - in orice moment putem [verifica statusul facturilor](https://ajutor.smartbill.ro/article/970-e-factura-descarcarea-si-trimiterea-manuala-in-s-p-v) incarcate/trimise catre procesare in spatiul SPV al ANAF
+  - inregistram eFactura in sistemul nostru ERP de urmarire al documentelor - in calitate de furnizor/emitent
+ - eventual comprimam si apoi arhivam(pe termen indelungat) documentul/documentele aferente atasate eFacturii - in calitate de furnizor/emitent
+ - daca am primit [confirmarea](https://ro-efactura.ro/pasii-necesari-pentru-a-incarca-facturi-in-sistemul-ro-e-factura/) ANAF ca factura a fost procesata in SPV atunci rolul emitentului/furnizorului s-a incheiat si se declanseaza/starteaza/incepe rolul primitorului/clientului;
+ - ...
+ - in calitate de client, cand primim o alerta/informare ca a sosit o [eFactura](https://mfinante.gov.ro/despre-minister/-/asset_publisher/wald/content/oo) valida de la un furnizor
  - [descarcam](https://mfinante.gov.ro/static/10/Mfp/efactura/descarcare.html) [eFactura](https://mfinante.gov.ro/static/10/Mfp/efactura/listamesaj.html) primita de catre client
  - [transformam](https://www.anaf.ro/uploadxml/) xml-eFactura in fisier PDF pentru a fi usor printata si vizualizata
- - inregistram eFactura in sistemul nostru ERP de urmarire al documentelor
- - eventual comprimam si apoi arhivam(pe termen indelungat) documentul/documentele aferente atasate eFacturii
+ - inregistram eFactura in sistemul nostru ERP de urmarire al documentelor - in calitate de destinatar/client
+ - eventual comprimam si apoi arhivam(pe termen indelungat) documentul/documentele aferente atasate eFacturii - in calitate de primitor/client
    
 Apoi dupa ce [verificati](https://hotfox.ro/forum/viewtopic.php?t=7&start=80) validitatea eFacturii, transmiteti eFatura si formularul aferent si apoi verificati [starea/statusul](https://ajutor.smartbill.ro/article/984-statusurile-si-validarea-e-facturii) eFacturii transmise/incarcate(upload-ate) in SPV-ul [ANAF](https://mfinante.gov.ro/static/10/eFactura/prezentare%20apeluri%20API%20E-factura.pdf)-ului
 
