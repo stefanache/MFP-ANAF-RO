@@ -1086,6 +1086,10 @@ Hai sa luam exemplul testat de [**Daniel-Popiniuc**](https://github.com/danielgp
 
    In acelasi mod daca doriti puteti lucra si cu sabloane/template-uri
 
+   Aici nu am generat factura, in sensul ca nu am combinat/impletit datele cu sintaxa UBL ca sa generam eFactura ci pur si simplu am importat-o dintr-un fisier realizat manual in prealabil(sau de ce nu automat) ca mai apoi sa expunem rezultatul.
+   Cu toate acestea simpleXML permite generarea propriu-zisa si poate fi usor modificat programul pentru a include si generarea;
+   De asemenea daca doriti sa aveti propriu validator desigur folosind acelasi simpleXMl puteti face si asta
+   
    Aceste fisiere utilizate in acest exemplu [**eFactura/eInvoice**](https://github.com/josemmo/einvoicing?tab=readme-ov-file) scris in **PhP**, armonizat cu [**CIUS-RO**](https://mfinante.gov.ro/web/efactura/informatii-tehnice) si bazat pe [**SimpleXML**](https://github.com/josemmo/einvoicing/blob/master/src/Presets/CiusRo.php) pot fi  gasite in /descarcate din sub-directorul [**simpleInvoice**](https://github.com/stefanache/MFP-ANAF-RO/tree/main/php_scripts/simpleInvoice), gazduit de directorul curent.
 
 Chiar daca riscul de a gresi atunci cand generati e Faxctura este unul mai mic totusi este recomandat ca inainte de a [trimite](https://hotfox.ro/forum/viewtopic.php?t=7&start=80) eFactura la [ANAF](https://mfinante.gov.ro/static/10/eFactura/prezentare%20apeluri%20API%20E-factura.pdf) sa va asigurati ca UBL/XML-ul eFacturii este [valid](https://www.anaf.ro/uploadxmi/).
