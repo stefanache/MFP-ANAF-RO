@@ -1118,8 +1118,8 @@ Chiar daca riscul de a gresi atunci cand [generati](https://mfinante.gov.ro/desp
  - in calitate de client, cand primim o alerta/informare ca a sosit o [eFactura](https://mfinante.gov.ro/despre-minister/-/asset_publisher/wald/content/oo) valida de la un furnizor
  - [descarcam](https://mfinante.gov.ro/static/10/Mfp/efactura/descarcare.html) [eFactura](https://mfinante.gov.ro/static/10/Mfp/efactura/listamesaj.html) primita de catre client
  - [transformam](https://www.anaf.ro/uploadxml/) xml-eFactura in fisier PDF pentru a fi usor printata si vizualizata
- - inregistram eFactura in sistemul nostru ERP de urmarire al documentelor - in calitate de destinatar/client
- - eventual comprimam si apoi arhivam(pe termen indelungat) documentul/documentele aferente atasate eFacturii - in calitate de primitor/client
+ - inregistram [eFactura](https://www.solo.ro/blog/ce-este-e-factura) in sistemul nostru ERP de urmarire al documentelor - in calitate de destinatar/client
+ - eventual comprimam si apoi arhivam(pe termen indelungat) documentul/documentele aferente atasate [eFacturii](https://www.fgo.ro/ajutor/manual-utilizare-fgo?cauta=e-factura/) - in calitate de primitor/client
    
 Apoi dupa ce [verificati](https://hotfox.ro/forum/viewtopic.php?t=7&start=80) validitatea eFacturii, transmiteti eFatura si formularul aferent si apoi verificati [starea/statusul](https://ajutor.smartbill.ro/article/984-statusurile-si-validarea-e-facturii) eFacturii transmise/incarcate(upload-ate) in SPV-ul [ANAF](https://mfinante.gov.ro/static/10/eFactura/prezentare%20apeluri%20API%20E-factura.pdf)-ului
 
