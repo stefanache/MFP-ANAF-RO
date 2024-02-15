@@ -1107,6 +1107,7 @@ Chiar daca riscul de a gresi atunci cand generati e Faxctura este unul mai mic t
  - daca eFactura transmisa este refuzata se inlatura deficienta si se reia procesul din punctul adecvat
  - cand primim o alerta/informare ca a sosit o eFactura valida de la un furnizor
  - descarcam eFactura primita
+ - transformam xml-eFactura in fisier PDF pentru a fi usor printata si vizualizata
  - inregistram eFactura in sistemul nostru de urmarire
  - eventual comprimam si apoi arhivam(pe termen indelungat) documentul/documentele aferente atasate eFacturii
    
