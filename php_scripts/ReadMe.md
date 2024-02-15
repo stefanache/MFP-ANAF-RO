@@ -670,7 +670,7 @@ Hai sa luam exemplul testat de [**Daniel-Popiniuc**](https://github.com/danielgp
                         </cac:TaxScheme>
                        </cac:ClassifiedTaxCategory>
                       </cac:Item>
-                    <cac:Price>
+                      <cac:Price>
                     <cbc:PriceAmount currencyID="RON">16.5371</cbc:PriceAmount>
                     <cbc:BaseQuantity unitCode="C62">1</cbc:BaseQuantity>
                      </cac:Price>
