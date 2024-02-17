@@ -13,7 +13,7 @@ Pe [ICEsoft](https://icesoft.ro/forum//index.php?topic=699.0) forum s-a postat c
 
 Ce este **XML** [***eFactura***](https://mfinante.gov.ro/web/efactura/informatii-tehnice)?
 
-(Intrebarea de mai sus, desi pe ***jumatate*** pusa este totusi o intrebare!)
+(Intrebarea de mai sus, desi pe ***jumatate*** pusa este totusi o [intrebare](https://www.sasory.ro/postari/postare.php?id=64)!)
 
 **XML** este o forma de prezentare([***arborescenta***](https://copyprogramming.com/howto/how-to-show-tree-view-in-php)) a datelor deci este un standard de prezentare(pana la urma si de stocare in container/fisier) a datelor;
 De ce spun ca este pe ***jumatate*** pusa intrebarea?
