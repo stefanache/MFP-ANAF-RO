@@ -10,7 +10,6 @@ Daca aveti nevoie de **cURL** ca executabil ar fi bine sa-l [***instalati manual
 Recomandarea mea este sa-l instalati si sa-l faceti cunoscut(pt a fi usor regasit cand il chemati intr-o comanda de terminal **cmd.exe**) in variabila de mediu(environment) **%PATH%** pentru ca este util macar pentru a testa un URL (macar atunci cand trebuie sa faceti apeluri **POST**,**PUT**,......pt ca apelurile **GET** pot fi testate direct in ***browser*** tastand **URL**-ul respectiv in campul de adresa);
 
 Pe [ICEsoft](https://icesoft.ro/forum//index.php?topic=699.0) forum s-a postat candva o [intrebare](https://digisign.ro/utile/intrebari-frecvente/) legitima in legatura cu [***eFactura***:](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/Ghid_RO_eFactura.pdf) 
-
 Ce este [**XML**](https://www.certsign.ro/ro/intrebari-despre-semnatura-electronica-calificata/) [***eFactura***](https://mfinante.gov.ro/web/efactura/informatii-tehnice)?
 
 ([Intrebarea](https://static.anaf.ro/static/10/Brasov/Brasov/inregistrare_spv.pdf) de mai sus, desi pe ***jumatate*** pusa este totusi o [intrebare](https://www.sasory.ro/postari/postare.php?id=64)!)
