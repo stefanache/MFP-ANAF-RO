@@ -1126,15 +1126,15 @@ Daca aveti nevoie de informatii privind [**Sedii DGRFP**](https://www.anaf.ro/an
  - in caz contrar, daca [eFactura](https://ajutor.smartbill.ro/article/970-e-factura-descarcarea-si-trimiterea-manuala-in-s-p-v) a fost [acceptata](https://ro-efactura.ro/pasii-necesari-pentru-a-incarca-facturi-in-sistemul-ro-e-factura/),  vom primi un cod de/ca urmare a validar[e/ii]
  - in orice moment putem [verifica statusul facturilor](https://ajutor.smartbill.ro/article/970-e-factura-descarcarea-si-trimiterea-manuala-in-s-p-v) incarcate/trimise catre procesare in spatiul SPV al ANAF
  - daca am primit [confirmarea](https://ro-efactura.ro/pasii-necesari-pentru-a-incarca-facturi-in-sistemul-ro-e-factura/) ANAF ca factura a fost procesata in SPV atunci rolul emitentului/furnizorului s-a incheiat si se declanseaza/starteaza/incepe rolul primitorului/clientului;
- - inregistram eFactura in sistemul nostru ERP de urmarire al documentelor - in calitate de furnizor/emitent
- - eventual comprimam si apoi arhivam(pe termen indelungat) documentul/documentele aferente atasate eFacturii - in calitate de furnizor/emitent
+ - inregistram eFactura in sistemul nostru ERP de urmarire al documentelor - in calitate de companie-furnizor/emitent
+ - eventual comprimam si apoi arhivam(pe termen indelungat) documentul/documentele aferente atasate eFacturii - in calitate de companie-furnizor/emitent
  - ...
- - in calitate de client, cand primim o alerta/informare ca a sosit o [eFactura](https://mfinante.gov.ro/despre-minister/-/asset_publisher/wald/content/oo) valida de la un furnizor
- - [descarcam](https://mfinante.gov.ro/static/10/Mfp/efactura/descarcare.html) [eFactura](https://mfinante.gov.ro/static/10/Mfp/efactura/listamesaj.html) primita de catre client
+ - in calitate de [companie-client](https://www.smarttax.ro/efactura?gad_source=5&gclid=EAIaIQobChMI9e2o57q1hAMV5RqiAx0SbgAeEAAYBSAAEgIHHPD_BwE), cand primim o alerta/informare ca a sosit o [eFactura](https://mfinante.gov.ro/despre-minister/-/asset_publisher/wald/content/oo) valida de la un furnizor
+ - [descarcam](https://mfinante.gov.ro/static/10/Mfp/efactura/descarcare.html) [eFactura](https://mfinante.gov.ro/static/10/Mfp/efactura/listamesaj.html) primita de catre compania-client
  - [transformam](https://www.anaf.ro/uploadxml/) xml-eFactura in fisier PDF pentru a fi usor printata si vizualizata
  - desigur, in cele din urma, daca nu cumva s-a efectuat deja, avem ca etape/pasi procedurali, [livrarea si plata](https://melissa.com.ro/index.php/livrare-si-plata/)
- - inregistram [eFactura](https://www.solo.ro/blog/ce-este-e-factura) in sistemul nostru [ERP](https://github.com/MihaiNeagu/ProiectPHP/tree/master) de urmarire al documentelor - in calitate de destinatar/client
- - eventual comprimam si apoi arhivam(pe termen indelungat) documentul/documentele aferente atasate [eFacturii](https://www.fgo.ro/ajutor/manual-utilizare-fgo?cauta=e-factura/) - in calitate de primitor/client
+ - inregistram [eFactura](https://www.solo.ro/blog/ce-este-e-factura) in sistemul nostru [ERP](https://github.com/MihaiNeagu/ProiectPHP/tree/master) de urmarire al documentelor - in calitate de companie-destinatar/client
+ - eventual comprimam si apoi arhivam(pe termen indelungat) documentul/documentele aferente atasate [eFacturii](https://www.fgo.ro/ajutor/manual-utilizare-fgo?cauta=e-factura/) - in calitate de companie-primitor/client
    
 Asadar, [***nu uitati***](https://www.taxasist.ro/e-factura-obligatorie-pentru-toti-agentii-economici-incepand-199-a.php), dupa ce [verificati](https://hotfox.ro/forum/viewtopic.php?t=7&start=80) validitatea eFacturii, transmiteti eFactura si formularul aferent si apoi verificati [starea/statusul](https://ajutor.smartbill.ro/article/984-statusurile-si-validarea-e-facturii) eFacturii transmise/incarcate(upload-ate) in SPV-ul [ANAF](https://mfinante.gov.ro/static/10/eFactura/prezentare%20apeluri%20API%20E-factura.pdf)-ului
 
