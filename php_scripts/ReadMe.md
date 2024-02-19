@@ -39,7 +39,7 @@ Un alt generator eInvoice in format [**UBL**](https://docs.peppol.eu/poacc/billi
 
 Totusi generarea eFacturii in **PhP** poate fi foarte mult simplificata daca stiti exact cum trebuie sa arate **modelul** de factura UBL/XML si aveti din timp pregatie **datele** care trebuiesc inglobate;
 Puteti folosi pentru generarea fisierului ***XML(.xml)*** o librarie simpla cum este  [**SimpleXML**](https://www.php.net/manual/en/simplexml.examples-basic.php);
-Hai sa luam exemplul testat de [**Daniel-Popiniuc**](https://github.com/danielgp/eFactura/blob/main/testing/UBL_examples/Romanian/eInvoice_ex.xml) si sa-l generam cu SimpleXML:
+Hai sa luam exemplul testat de [**Daniel-Popiniuc**](https://github.com/danielgp/eFactura/blob/main/testing/UBL_examples/Romanian/eInvoice_ex.xml) si sa-l generam cu [SimpleXML](https://stackoverflow.com/questions/21765994/php-simplexml-reading-with-ubl-different-namespaces):
 
  - pentru inceput plasati continutul urmator intr-un fisier pe care sa-l denumim **eFacturaMeaContent.inlude.php**:
 
