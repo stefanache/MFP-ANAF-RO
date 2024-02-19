@@ -1087,7 +1087,9 @@ Hai sa luam exemplul testat de [**Daniel-Popiniuc**](https://github.com/danielgp
 
    Aici practic ***nu*** am generat factura, in sensul ca nu am combinat arborescent / impletit [datele](https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/simpleInvoice/Invoice.json) (fisierul Invoice.json nefiind folosit) cu sintaxa UBL pt a se genera eFactura ci pur si simplu am importat-o dintr-un fisier realizat in prealabil, manual(eFacturaMeaContent.inlude.php) (sau de ce nu chiar automat de un alt cod PhP) ca mai apoi sa expunem rezultatul.
    Cu toate acestea [**SimpleXML**](https://www.regur.net/blog/creation-xml-file-php-/) permite generarea propriu-zisa si desigur se poate usor modifica programul PhP pentru a include si [generarea propriu-zisa](https://github.com/adempiere/adempiere/issues/2658);
-   De asemenea daca doriti sa aveti propriu validator desigur folosind acelasi  puteti face si asta
+   De asemenea daca doriti sa aveti propriu validator desigur folosind acelasi  puteti face si asta;
+
+   Interesant este si faptul ca puteti ***atasa/plasa*** certificatul **x509** in antetul eFacturii/eInvoice ca in acest [caz](https://stackoverflow.com/questions/8173816/decode-xml-with-simplexmlelement) dezbatut pe forumul ***stackoverflow***;
    
    Aceste fisiere utilizate in acest exemplu [**eFactura/eInvoice**](https://github.com/josemmo/einvoicing?tab=readme-ov-file) scris in **PhP**, armonizat cu [**CIUS-RO**](https://mfinante.gov.ro/web/efactura/informatii-tehnice) si bazat pe [**SimpleXML**](https://github.com/josemmo/einvoicing/blob/master/src/Presets/CiusRo.php) pot fi  gasite in / descarcate din sub-directorul [**simpleInvoice**](https://github.com/stefanache/MFP-ANAF-RO/tree/main/php_scripts/simpleInvoice), gazduit de directorul curent din acest depozit.
 
