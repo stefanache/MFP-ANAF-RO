@@ -16,7 +16,7 @@ Ce este [**XML**](https://www.certsign.ro/ro/intrebari-despre-semnatura-electron
 
 **XML** este o forma de prezentare([***arborescenta***](https://copyprogramming.com/howto/how-to-show-tree-view-in-php)) a datelor deci este un standard de prezentare(pana la urma si de stocare in container/fisier) a datelor;
 De ce spun ca este pe ***jumatate*** pusa intrebarea?
-Pentru ca in cadrul acestul **XML** se foloseste un alt standard de sintaxa a datelor specifice unei [***eFacturi***](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1g7kQ)(de fapt **eInvoice** pt ca este pt un format/standard extins la nivel international)  
+Pentru ca in cadrul acestul [**XML**](https://docs.oasis-open.org/ubl/UBL-2.1.html) se foloseste un alt standard de sintaxa a datelor specifice unei [***eFacturi***](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1g7kQ)(de fapt **eInvoice** pt ca este pt un format/standard extins la nivel international)  
 si aici ma refer la [**UBL**](https://github.com/bullyard/ubl-invoice) ori **CII**...
 Deci standardul [**UBL**](https://docs.oasis-open.org/ubl/os-UBL-2.0/xml/UBL-Invoice-2.0-Example.xml) sau **CII** este inclus(sau gazduit) de acest standard ***general*** **XML**.
 Nu a fost o explicatie prea academica dar sper sa fie utila unora mai practicieni(***n.r.*** ca mine)...
