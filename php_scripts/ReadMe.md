@@ -1144,6 +1144,6 @@ Asadar, [***nu uitati***](https://www.taxasist.ro/e-factura-obligatorie-pentru-t
 
 Acest [flux procedural complet si complex](https://static.anaf.ro/static/10/Brasov/Brasov/serv_ANAF.pdf) are si unele [avantaje imediate](https://www.nexuserp.ro/blog/implementarea-e-factura-parteneriat-cu-tehnologia) care sunt dezvaluite in acest articol [TrasFond](https://www.facturielectronice.ro/index.php?p=pentru-emitentii-de-facturi)
 
-Interesant este ca atunci cand primiti/generati o factura ar fi foarte util sa utilizati id-uri(semnaturi de campuri bazate pe valoare) ca si atribute pentru etichetele/tag-urile UBL astfel incat sa reusim pe baza acestui atribut sa extragem mai usor valoarea acelui camp din facturile UBL/XML. Iata aici o discutie interesanta pe acest [subiect](https://es.stackoverflow.com/questions/464526/extraer-un-valor-de-una-etiqueta-por-medio-de-un-atributo-id-en-php-de-un-archiv) (extragerea valorilor folosind un atribut id si apoi functia **simpleXMLelement**);
+Interesant este ca atunci cand primiti/generati o factura ar fi foarte util sa utilizati id-uri(semnaturi de campuri bazate pe valoare) ca si atribute pentru etichetele/tag-urile UBL astfel incat sa reusim pe baza acestui atribut sa extragem mai usor valoarea acelui camp din facturile UBL/XML. Iata aici o discutie interesanta pe acest [subiect](https://es.stackoverflow.com/questions/464526/extraer-un-valor-de-una-etiqueta-por-medio-de-un-atributo-id-en-php-de-un-archiv) (extragerea valorilor folosind un atribut id si apoi functia **simpleXMLElement**);
 
 
