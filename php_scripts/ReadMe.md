@@ -1148,6 +1148,7 @@ Interesant este ca atunci cand primiti/generati o factura ar fi foarte util sa u
 
 Daca vreti sa aflati mai multe/cateva raspunsuri la intrebarile dvs. despre semnatura electronica calificata pentru eFactura puteti consulta acest [top](https://www.juridice.ro/717770/top-intrebari-si-raspunsuri-despre-semnatura-electronica-calificata-pentru-e-factura-in-2024.html), acest [ghid](https://centerit.ro/blog/ghid-practic-implementare-tehnica-ro-e-factura) sau acest [articol](https://facturis-online.ro/e-factura/cum-sa-emiteti-singur-facturi-electronice-in-sistemul-anaf-ro-e-factura.html)(oricum pe internet o sa gasiti o multime de articole legate de acest subiect al semnaturii electronice/certificatului calificat !!!);
 
+Daca aveti PFA sau o profesie liberala atunci probabil ca acest [articol](https://contapp.ro/blog/e-factura/) legat de eFactura v-ar putea fi util;
 
 
 
