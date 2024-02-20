@@ -1146,6 +1146,6 @@ Acest [flux procedural complet si complex](https://static.anaf.ro/static/10/Bras
 
 Interesant este ca atunci cand primiti/generati o factura ar fi foarte util sa utilizati id-uri(semnaturi de campuri bazate pe valoare) ca si atribute pentru etichetele/tag-urile UBL astfel incat sa reusim pe baza acestui atribut sa extragem mai usor valoarea acelui camp din facturile UBL/XML. Iata aici o discutie interesanta pe acest [subiect](https://es.stackoverflow.com/questions/464526/extraer-un-valor-de-una-etiqueta-por-medio-de-un-atributo-id-en-php-de-un-archiv) ([extragerea valorilor](https://stackoverflow.com/questions/21765994/php-simplexml-reading-with-ubl-different-namespaces) folosind un atribut id si apoi functia **simpleXMLElement**);
 
-Daca vreti sa aflati mai multe/cateva raspunsuri la intrebarile dvs. despre semnatura electronica calificata pentru eFactura puteti consulta acest [top](https://www.juridice.ro/717770/top-intrebari-si-raspunsuri-despre-semnatura-electronica-calificata-pentru-e-factura-in-2024.html)
+Daca vreti sa aflati mai multe/cateva raspunsuri la intrebarile dvs. despre semnatura electronica calificata pentru eFactura puteti consulta acest [top](https://www.juridice.ro/717770/top-intrebari-si-raspunsuri-despre-semnatura-electronica-calificata-pentru-e-factura-in-2024.html), acest [ghid](https://centerit.ro/blog/ghid-practic-implementare-tehnica-ro-e-factura)
 
 
