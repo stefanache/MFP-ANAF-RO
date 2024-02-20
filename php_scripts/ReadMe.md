@@ -1150,7 +1150,7 @@ Daca vreti sa aflati mai multe/cateva raspunsuri la intrebarile dvs. despre semn
 
 Daca aveti PFA sau o profesie liberala atunci probabil ca acest [articol](https://contapp.ro/blog/e-factura/) legat de eFactura v-ar putea fi util;
 
-Un articol interesant legat de eFactura si erorile intampinate poate fi consultat [aici](https://newsweek.ro/economie/softul-e-factura-are-probleme-lista-cu-erorile-sistemului-obligatoriu-de-facturare-electronica)
+Un [articol](https://certdigital.ro/wp-content/uploads/2024/02/Prezentare-CertDigital-RO-eFactura.pdf) interesant legat de eFactura si erorile intampinate poate fi consultat [aici](https://newsweek.ro/economie/softul-e-factura-are-probleme-lista-cu-erorile-sistemului-obligatoriu-de-facturare-electronica)
 
 
 
