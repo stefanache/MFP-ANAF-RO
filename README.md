@@ -7,7 +7,7 @@
      (aceasta se adreseaza tuturor factorilor implicati/angajati in acest efort comun de eGuvernare)
 
 
-**Thanks all for ***10*** [stars](https://www.facebook.com/ion.stefanache.3), ***downloads*** and [traffic](https://www.freelancer.com/u/ionstefanache1)!**
+**Thanks all for ***10*** [stars](https://www.facebook.com/ion.stefanache.3) and [traffic](https://www.freelancer.com/u/ionstefanache1)(***downloads*** and ***views***)!**
 
 
 You can https://www.buymeacoffee.com/stefanache... Thanks
