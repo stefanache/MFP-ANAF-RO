@@ -1152,7 +1152,7 @@ Daca aveti **PFA** sau o **profesie liberala** atunci probabil ca acest [***arti
 
 Un [***articol***](https://certdigital.ro/wp-content/uploads/2024/02/Prezentare-CertDigital-RO-eFactura.pdf) interesant legat de **eFactura** si ***erorile*** intampinate poate fi consultat [***aici***](https://newsweek.ro/economie/softul-e-factura-are-probleme-lista-cu-erorile-sistemului-obligatoriu-de-facturare-electronica)
 
-In conditiile in care doriti sa stiti care sunt codurle-NC ale produselor considerate de catre ANAF ca avand risc ridicat atunci poate ar fi util sa consultati acest [articol](https://static.anaf.ro/static/10/Galati/Vrancea/E-Factura-prod-cu-risc-ridicat.pdf)
+In conditiile in care doriti sa stiti care sunt **codurle-NC** ale ***produselor*** considerate de catre ANAF ca avand risc ridicat atunci poate ar fi util sa consultati acest [articol](https://static.anaf.ro/static/10/Galati/Vrancea/E-Factura-prod-cu-risc-ridicat.pdf)
 
 
 
