@@ -1,3 +1,3 @@
 Utilizatorilor **Odoo** le va fi probail util acest [**articol**](https://apps.odoo.com/apps/modules/14.0/l10n_ro_account_anaf_sync/) postat pe portalul de specialitate.
 
-un alt articol **Odoo** intitulat [***Romania - eFactura Account EDI UBL***](https://apps.odoo.com/apps/modules/16.0/l10n_ro_account_edi_ubl/)
+Un alt articol **Odoo** intitulat [***Romania - eFactura Account EDI UBL***](https://apps.odoo.com/apps/modules/16.0/l10n_ro_account_edi_ubl/)
