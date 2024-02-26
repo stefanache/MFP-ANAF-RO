@@ -600,8 +600,8 @@ In realitate ea se transpune prin normele sale de aplicare in modificarea/manipu
 drept urmare vor fi actualizate si instructiunile lor de utilizare.
 
 Daca doriti sa aflati detalii despre **cloud-ul guvernamental** puteti accesa acest [***articol***](https://financialintelligence.ro/sapte-consortii-au-participat-la-licitatia-organizata-de-catre-sts-privind-cloud-ul-guvernamental/);
-Detalii privind **serverless** computing(calcul/procesare frara server) puteti citi acest [***articol***](https://www.ml4devs.com/articles/serverless-architecture-for-microservices-on-aws-vs-google-cloud-vs-azure-as-iaas-caas-paas-faas/);
-Interesant poate fi si acest [***articol***](https://noise.getoto.net/tag/developer-tools/) despre "BUNE PRACTICI PENTRU GESTIONAREA FIȘIERELOR DE STAT TERRAFORM ÎN AWS CI-CD";
+Detalii privind **serverless** computing(calcul/procesare fara-server) puteti citi acest [***articol***](https://www.ml4devs.com/articles/serverless-architecture-for-microservices-on-aws-vs-google-cloud-vs-azure-as-iaas-caas-paas-faas/);
+Interesant poate fi si acest [***articol***](https://noise.getoto.net/tag/developer-tools/) despre cele mai "BUNE PRACTICI PENTRU GESTIONAREA FIȘIERELOR DE STARE TERRAFORM ÎN LINIILE AWS CI-CD";
  </details>
  
  ## 7. La final cateva cuvinte in loc de ... **La revedere!**...
