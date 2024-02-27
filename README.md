@@ -287,7 +287,7 @@ La comanda, putem sa cream in acest depozit-static, aplicatii informatice specif
 
 juridice [PJ](https://www.anaf.ro/anaf/internet/ANAF/servicii_online/declaratii_electronice/descarcare_declaratii) din RO si din afara, urmarind [calenadarul obligatiilor de raportare fiscala ANAF](https://www.anaf.ro/anaf/internet/ANAF/asistenta_contribuabili/info_obligatii_fiscale/calendar_obligatii_fiscale/!ut/p/a1/04_Sj9CPykssy0xPLMnMz0vMAfGjzOI9DD3MPIwsjLwMPAINDAJNnTyDTN0DDAwCjIEKIvEoMDAjTr8BDuBoQEh_uH4UfiVGBBRYGhNQAPIDWAEeRxbkhkYYZHqmAwBDragw/dl5/) 
 
-legate de toate formularele ANAF (eFactura,eTransport,SAF-T(D406),D112,...etc) [formulare ANAF](https://www.anaf.ro/anaf/internet/ANAF/asistenta_contribuabili/declararea_obligatiilor_fiscale/toate_formularele/)
+legate de toate formularele ANAF (eFactura,eTransport,[SAF-T(D406)](https://github.com/topics/saf-t),D112,...etc) [formulare ANAF](https://www.anaf.ro/anaf/internet/ANAF/asistenta_contribuabili/declararea_obligatiilor_fiscale/toate_formularele/)
 
 Despre nomenclatoare si de pe unde le puteti culege am discutat in sectiunea precedenta( a se vedea subietul/"topic"-ul [Nomenclatoare](https://github.com/stefanache/MFP-ANAF-RO/blob/main/README.md#nomenclatoare)) asa incat le puteti descarca(de cele mai multe ori URL-urile nu va permit sa le luati direct de pe site asa incat descarcarea ramane/este cea mai sigura metoda de culegere de informatii) pentru a le folosi in procesul de depunere a facturilor-electronice in format UBL/xml(ma refer desigur la etapele de generare si de validare si nu la etapele de transmite si incarcare)
 
