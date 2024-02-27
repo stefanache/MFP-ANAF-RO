@@ -412,7 +412,8 @@ Pentru cei interesati de sistemul [***e-Factura***](https://hotfox.ro/forum/view
 
 De asemenea daca studiati manualul **eFactura** al **BizDepozit** veti gasi [***link-uri***](https://setrio.ro/wp-content/uploads/2024/01/e-Factura-BizDepozit.pdf) catre servciile web ale **SPV-ANAF**.
 
-Pe forumul Facebook al ProFox, am gasit un [artico](https://www.facebook.com/groups/3239944772705473/)l interesant referitor la ***lungimea*** maxima a eFactura XML
+Pe forumul Facebook al ***ProFox***, am gasit un [articol](https://www.facebook.com/groups/3239944772705473/) interesant referitor la ***lungimea*** maxima a ***eFactura XML***.
+
 </details>
 
  ## 2. [**Declaratia 406 si 406T(SAF-T)**](https://www.homecont.ro/declaratia-d406-saf-t-fisierul-standard-de-control-fiscal.htm) ([D406](https://noagroup.ro/fisierul-standard-de-control-fiscal-saf-t-si-testarea-voluntara-pentru-incarcarea-declaratiei-d406t/) audit/control financiar); Sistemul [SAF-T](https://www.pwc.ro/ro/pwc-romania-digital/tax-technology/saf-t.html)
