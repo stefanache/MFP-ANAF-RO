@@ -410,7 +410,7 @@ Dat fiind faptul ca avem un [context foarte volatil](https://devforum.ro/t/gener
 
 Pentru cei interesati de sistemul [***e-Factura***](https://hotfox.ro/forum/viewforum.php?f=2) din Rep. Moldova veti gasi pe site-ul [SFS](https://sfs.md/uploads/document/171/document/ghidul-utilizatorului-si-e-factura-616d032e9d05e.pdf) acest ghid.
 
-De asemenea daca studiati manualul eFactura al **BizDepozit** veti gasi [***link-uri***](https://setrio.ro/wp-content/uploads/2024/01/e-Factura-BizDepozit.pdf) catre servciile web ale **SPV-ANAF**.
+De asemenea daca studiati manualul **eFactura** al **BizDepozit** veti gasi [***link-uri***](https://setrio.ro/wp-content/uploads/2024/01/e-Factura-BizDepozit.pdf) catre servciile web ale **SPV-ANAF**.
 </details>
 
  ## 2. [**Declaratia 406 si 406T(SAF-T)**](https://www.homecont.ro/declaratia-d406-saf-t-fisierul-standard-de-control-fiscal.htm) ([D406](https://noagroup.ro/fisierul-standard-de-control-fiscal-saf-t-si-testarea-voluntara-pentru-incarcarea-declaratiei-d406t/) audit/control financiar); Sistemul [SAF-T](https://www.pwc.ro/ro/pwc-romania-digital/tax-technology/saf-t.html)
