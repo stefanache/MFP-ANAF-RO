@@ -1153,7 +1153,7 @@ Daca vreti sa aflati mai multe/cateva raspunsuri la intrebarile dvs. despre **se
 
 Daca aveti [**PFA**](https://github.com/ClimenteA/PFASimplu) sau o **profesie liberala** atunci probabil ca acest [***articol***](https://contapp.ro/blog/e-factura/) legat de **eFactura** v-ar putea fi util;
 
-Un [***articol***](https://certdigital.ro/wp-content/uploads/2024/02/Prezentare-CertDigital-RO-eFactura.pdf) interesant legat de **eFactura** si ***erorile*** intampinate poate fi consultat [***aici***](https://newsweek.ro/economie/softul-e-factura-are-probleme-lista-cu-erorile-sistemului-obligatoriu-de-facturare-electronica)
+Un [***articol***](https://certdigital.ro/wp-content/uploads/2024/02/Prezentare-CertDigital-RO-eFactura.pdf) interesant legat de **eFactura** si [***erorile***](https://www.sagasoftware.ro/e-factura-erori-si-probleme/) intampinate poate fi consultat [***aici***](https://newsweek.ro/economie/softul-e-factura-are-probleme-lista-cu-erorile-sistemului-obligatoriu-de-facturare-electronica)
 
 In conditiile in care doriti sa stiti care sunt **codurle-NC** ale ***produselor*** considerate de catre ANAF ca avand risc ridicat atunci poate ar fi util sa consultati acest [***articol***](https://static.anaf.ro/static/10/Galati/Vrancea/E-Factura-prod-cu-risc-ridicat.pdf)
 
