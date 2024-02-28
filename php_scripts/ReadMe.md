@@ -1145,7 +1145,7 @@ Daca doriti sa ***extrageti mesajele*** din SPV-ANAF legate de ***eFactura*** in
 [**Descarcarea arhivei zip eFactura**](https://iapp.ro/articol/descarca-arhiva-zip-e-factura-folosind-api-anaf-php-oauth2) poate fi operata de acest [***cod-php***](https://iapp.ro/public/blog/anaf-spv-php-descarcare.txt) **iapp.ro**;
 Desigur [toate](https://static.anaf.ro/static/10/Anaf/Informatii_R/API/Oauth_procedura_inregistrare_aplicatii_portal_ANAF.pdf) aceste [operatiuni](https://mfinante.gov.ro/static/10/eFactura/prezentare%20api%20efactura.pdf) bazate pe [**web-serviciile ANAF eFactura**](https://iapp.ro/blog) necesita un [**token JWT**](https://iapp.ro/articol/generare-token-anaf-folosind-certificat-digital-din-php-oauth2) pt accesul [autorizat/certificat](https://iapp.ro/articol/lista-furnizorilor-pentru-semnatura-digitala) [***OAuth 2.0***](https://stackoverflow.com/questions/74245342/post-request-via-curl-ssl-from-xampp-localhost-gets-rejected-with-error140944); Pentru mai multe detalii consultati articolele [***blog***](https://iapp.ro/blog)-ului [**iapp.ro**](https://iapp.ro/);
 
-***Nota*** Am extras cateva scripturi php de pe site-ul **iapp.ro** in subdirectorul **iapp_scripts**
+***Nota*** Am extras cateva scripturi php de pe site-ul **iapp.ro** in subdirectorul **iapp**
 
 Acest [***flux procedural complet si complex***](https://static.anaf.ro/static/10/Brasov/Brasov/serv_ANAF.pdf) are si unele [avantaje imediate](https://www.nexuserp.ro/blog/implementarea-e-factura-parteneriat-cu-tehnologia) care sunt dezvaluite in acest articol [TrasFond](https://www.facturielectronice.ro/index.php?p=pentru-emitentii-de-facturi)
 
