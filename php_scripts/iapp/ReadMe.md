@@ -8,3 +8,5 @@ Aici sunt cateva [**script**](https://github.com/stefanache/MFP-ANAF-RO/tree/mai
 
 Un alt site care va poate inspira este si [**hotfox.ro**](https://hotfox.ro/forum/viewtopic.php?t=7&start=80); Un tutorial foarte detaliat gasiti pe blogul [**LICOMP**](https://www.licomp.ro/efactura_tutor.aspx);
 Desi am tot amintiti despre platforma [**Facturis**](https://facturis-online.ro/api-program-de-facturare-gestiune-online/modificarea-produselor.html) totusi o sa va reamintesc ca periodic merita sa treceti sa vedeti ce a mai aparut nou in materie de [**eFactura**](https://facturis-online.ro/e-factura/biblioteca-cu-informatii-oficiale-despre-formatul-xml-pentru-e-factura.html) si nu numai;
+
+Oricum puteti cauta pe github dupa subietul ["anaf"](https://github.com/topics/anaf) sau dupa alte subiecte legate de [eFactura](https://github.com/topics/efactura)/[e-Factura](https://github.com/topics/e-factura);
