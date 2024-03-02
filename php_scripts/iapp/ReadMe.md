@@ -6,4 +6,4 @@ Aici sunt cateva [**script**](https://github.com/stefanache/MFP-ANAF-RO/tree/mai
 
   Tot aici gasiti si cateva [**link**](https://github.com/stefanache/MFP-ANAF-RO/tree/main/php_scripts/iapp/Link_uri_IAPP)-uri interesante reprezantand articole importante de pe portalul-ul [**Inside APP(IAPP)**](https://iapp.ro)
 
-Un site care va poate inspira este si [**hotfox.ro**](https://hotfox.ro/forum/viewtopic.php?t=7&start=80)
+Un alt site care va poate inspira este si [**hotfox.ro**](https://hotfox.ro/forum/viewtopic.php?t=7&start=80)
