@@ -7,4 +7,4 @@ Aici sunt cateva [**script**](https://github.com/stefanache/MFP-ANAF-RO/tree/mai
   Tot aici gasiti si cateva [**link**](https://github.com/stefanache/MFP-ANAF-RO/tree/main/php_scripts/iapp/Link_uri_IAPP)-uri interesante reprezantand articole importante de pe portalul-ul [**Inside APP(IAPP)**](https://iapp.ro)
 
 Un alt site care va poate inspira este si [**hotfox.ro**](https://hotfox.ro/forum/viewtopic.php?t=7&start=80); Un tutorial foarte detaliat gasiti pe blogul [**LICOMP**](https://www.licomp.ro/efactura_tutor.aspx);
-Desi am tot amintiti despre platforma [**Facturis**](https://facturis-online.ro/api-program-de-facturare-gestiune-online/modificarea-produselor.html) totusi o sa va reamintesc ca periodic merita sa treceti sa vedeti ce a mai aparut nou;
+Desi am tot amintiti despre platforma [**Facturis**](https://facturis-online.ro/api-program-de-facturare-gestiune-online/modificarea-produselor.html) totusi o sa va reamintesc ca periodic merita sa treceti sa vedeti ce a mai aparut nou in materie de [**eFactura**](https://facturis-online.ro/e-factura/biblioteca-cu-informatii-oficiale-despre-formatul-xml-pentru-e-factura.html) si nu numai;
