@@ -15,4 +15,4 @@ Oricum puteti cauta pe [github](https://static.anaf.ro/static/10/Anaf/Informatii
 
  - ***Nota***:
    
-In afara de portalul [**ANAF**](https://www.anaf.ro/), [**MFP**](https://mfinante.gov.ro/)  si degur cel al [**GOV.RO**](https://data.gov.ro/group/finante), toate celelate surse de informare privind **e-Factura** sunt surse ***neoficiale*** si prin urmare trebuie sa le re-***verificati/testati***(asadar fiti **rezervati** in privinta veridicitatii acestora!!!)
+In afara de portalul [**ANAF**](https://www.anaf.ro/), [**MFP**](https://mfinante.gov.ro/)  si degur cel al [**GOV.RO**](https://data.gov.ro/group/finante), toate celelate surse de informare privind **e-Factura** sunt surse ***neoficiale*** si prin urmare trebuie sa le re-***verificati/testati***(asadar fiti **rezervati** in privinta veridicitatii/validitatii acestora!!!)
