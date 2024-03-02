@@ -1170,5 +1170,5 @@ Un articol interesant despre ***autoFacturare*** precum si ***alte imbunatatiri 
 
 Pe grup-ul [**ProFox**](https://www.facebook.com/groups/3239944772705473/) gazduit de ***Facebook*** puteti consulta multe discutii interesante.
 
-**Google** are si el un producator/creator de facturi([Invoicer](https://chromewebstore.google.com/detail/produc%C4%83tor-de-facturi-pen/nhppolcapbkijdpakbapijalcgnfjbgb?hl=ro))
+**Google** are si el un producator/creator de facturi([Invoicer](https://chromewebstore.google.com/detail/produc%C4%83tor-de-facturi-pen/nhppolcapbkijdpakbapijalcgnfjbgb?hl=ro)); Am descoperit asta folosind motorul de cautare al [Google](https://chromewebstore.google.com/search/e-Factura?hl=ro);
 
