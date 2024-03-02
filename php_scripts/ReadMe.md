@@ -1168,4 +1168,4 @@ In conditiile in care doriti sa stiti care sunt **codurle-NC** ale ***produselor
 
 Un articol interesant despre ***autoFacturare*** precum si ***alte imbunatatiri aduse sistemului eFactura*** poate fi gasit pe portalul [**profit.ro**](https://www.profit.ro/taxe-si-consultanta/e-factura-finantele-au-introdus-autofacturarea-apare-butonul-catre-efactura-in-perioade-de-mentenanta-modificari-si-la-interogarea-listei-de-facturi-21475287)
 
-
+Pe grup-ul [**ProFox**](https://www.facebook.com/groups/3239944772705473/) gazduit de ***Facebook*** puteti consulta multe discutii interesante.
