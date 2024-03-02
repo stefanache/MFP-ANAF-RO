@@ -582,7 +582,7 @@ generarii numerelor de evidenta a platii pentru
 Un link MFP va poate indruma catre [informatii MFP despre formularele F11xx](https://mfinante.gov.ro/web/forexepublic/informatii-publice)
 
 In acelasi timp este util sa urmariti si [experienta altora](https://www.softteam.ro/documente/SAFT%20-%20eFactura%20-%20eTransport%20v.2.pdf) in ce priveste relatia cu ANAF/MFP/GOV deoarece legislatia in materie este in continua schimbare
-si puteti castiga timp si know-how de [buna practica](https://factureaza.ro/documentatie-api-v1).
+si puteti castiga timp si [know-how](https://www.profit.ro/taxe-si-consultanta/ministerul-finantelor-vine-cu-o-aplicatie-simplificata-e-factura-pentru-anumite-firme-21500079) de [buna practica](https://factureaza.ro/documentatie-api-v1).
 
 Trebuie sa stiti ca acest mod de raportare specific pessoanelor fizice si juridice se aplica si in cazul [institutiilor publice](https://www.anaf.ro/anaf/internet/ANAF/asistenta_contribuabili/programe_utile) si chiar si in cazul [IFN](https://www.bancatransilvania.ro/news/comunicate-de-presa/firmele-pot-emite-si-trimite-automat-e-factura-catre-anaf-prin-bt-go)-urilor
 
