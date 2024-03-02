@@ -18,4 +18,4 @@ Oricum puteti cauta pe [github](https://static.anaf.ro/static/10/Anaf/Informatii
 In afara de portalurile [**ANAF**](https://www.anaf.ro/), [**MFP**](https://mfinante.gov.ro/)  si degur cel al [**GOV.RO**](https://data.gov.ro/dataset?q=e-Factura), toate celelate surse de informare privind **e-Factura** sunt surse ***neoficiale*** si prin urmare trebuie sa le re-***verificati/testati***(asadar fiti **rezervati** in privinta veridicitatii/validitatii acestora!!!)
 
 
-Pentru a vedea e-Factura XML in format PDF puteti folosi online aplicatia de pe portalul [ANAF](https://www.anaf.ro/uploadxml/) sau [MFP](https://mfinante.gov.ro/web/efactura/transformare-xml-in-pdf);
+Pentru a vedea ***e-Factura XML*** in format **PDF** puteti folosi(online) o aplicatie de transformare(XML2PDF)de pe portalul [ANAF](https://www.anaf.ro/uploadxml/) sau [MFP](https://mfinante.gov.ro/web/efactura/transformare-xml-in-pdf);
