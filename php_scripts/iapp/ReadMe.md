@@ -1,3 +1,5 @@
+ - **Inside APP**: ***e-Factura***:
+   
 [**e-Factura**](https://mfinante.gov.ro/static/10/eFactura/PrezentareE-factura.pdf) - [flux](https://www.bitsoftware.eu/sbs-efactura/)-uri de [procesare](https://static.anaf.ro/static/10/Anaf/Informatii_R/API/Oauth_procedura_inregistrare_aplicatii_portal_ANAF.pdf) bazate pe [**OAuth 2.0**](https://iapp.ro/blog);despre OAuth2 puteti afla cate ceva si pe aceasta [pagina](https://stateful.com/blog/oauth-refresh-token-best-practices);
 
 [***ANAF***](https://www.anaf.ro/anaf/internet/ANAF/despre_anaf/strategii_anaf/proiecte_digitalizare/e.factura) utilizarea [sistemului național](https://mfinante.gov.ro/static/10/Mfp/Licitatii/CSacp683632_01082023.docx) privind factura electronică RO  [e-Factura](https://mfinante.gov.ro/web/efactura/informatii-tehnice); MFP - integrator eFactura - supervizeaza acest  [proces ](https://mfinante.gov.ro/ro/web/efactura/prezentare)
