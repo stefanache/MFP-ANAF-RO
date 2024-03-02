@@ -1,4 +1,4 @@
-[**e-Factura**](https://mfinante.gov.ro/static/10/eFactura/PrezentareE-factura.pdf) - [flux](https://www.bitsoftware.eu/sbs-efactura/)-uri procesare
+[**e-Factura**](https://mfinante.gov.ro/static/10/eFactura/PrezentareE-factura.pdf) - [flux](https://www.bitsoftware.eu/sbs-efactura/)-uri de [procesare](https://static.anaf.ro/static/10/Anaf/Informatii_R/API/Oauth_procedura_inregistrare_aplicatii_portal_ANAF.pdf)
 
 [***ANAF***](https://www.anaf.ro/anaf/internet/ANAF/despre_anaf/strategii_anaf/proiecte_digitalizare/e.factura) utilizarea sistemului național privind factura electronică RO  [e-Factura](https://mfinante.gov.ro/web/efactura/informatii-tehnice); MFP - integrator eFactura - supervizeaza acest  [proces ](https://mfinante.gov.ro/ro/web/efactura/prezentare)
 
