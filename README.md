@@ -82,7 +82,7 @@ Pentru generarea si validarea documentelor/rapoartelor fiscale pe care le veti t
 - [forme juridice si de proprietate](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/Nomenclator_forme_juridice.htm)
 - [geografice/GIS MFP](https://mfinante.gov.ro/nomenclatoare-geografice-mfp) (incluzand relatiile de [interoperabilitate](https://www.mfinante.gov.ro/static/40/Mfp/nomenclatoare/Nom_geogr_INTERNET_script.pdf) dintre [tabelele](https://mfinante.gov.ro/static/40/Mfp/nomenclatoare/SMD_NOMEN_INTEROPERABILITATE_v2.pdf) ce gazduiesc aceste [nomenclatoare](https://data.gov.ro/dataset/nomenclatoaregeografice)): ex [judete]( https://webnom.anaf.ro/Nomenclatoare/api/judete/) ...
 - ... puteti gasi mai multe detalii despre nomenclatoarele geografice/gis publicate de MFP [aici](https://github.com/stefanache/MFP-ANAF-RO/blob/main/js_scripts/mfp/nomenclatoare_geografice/readMe.md)
-- [nomenclator pt tari/teritorii si monede](https://www.ups.com/worldshiphelp/WSA/ROM/AppHelp/mergedProjects/CORE/Codes/Country_Territory_and_Currency_Codes.htm)
+- [nomenclator pt tari/teritorii si monede](https://www.ups.com/worldshiphelp/WSA/ROM/AppHelp/mergedProjects/CORE/Codes/Country_Territory_and_Currency_Codes.htm)...a se vedea si site-ul [geo-spatial](https://www.geo-spatial.org/vechi/tutoriale)
 - [registrul electronic national al nomenclaturilor stradale](https://renns.ancpi.ro/renns-public/) sau
   [registrul electronic national ANCPI al nomenclaturilor stradale si de adresa](https://renns.ancpi.ro/renns-public/)
 - [coduri SIRUTA](https://www.siruta.nxm.ro/),[coduri SIRUTA si UAT-uri pe judete](http://www.dpfbl.mdrap.ro/cod_siruta_uat-uri.html); a se vedea si o utilizare [Norma Urbanism 15/2024](https://legislatie.just.ro/Public/DetaliiDocument/270782)
