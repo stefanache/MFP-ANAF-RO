@@ -85,7 +85,7 @@ Pentru generarea si validarea documentelor/rapoartelor fiscale pe care le veti t
 - [nomenclator pt tari/teritorii si monede](https://www.ups.com/worldshiphelp/WSA/ROM/AppHelp/mergedProjects/CORE/Codes/Country_Territory_and_Currency_Codes.htm)
 - [registrul electronic national al nomenclaturilor stradale](https://renns.ancpi.ro/renns-public/) sau
   [registrul electronic national ANCPI al nomenclaturilor stradale si de adresa](https://renns.ancpi.ro/renns-public/)
-- [coduri SIRUTA](https://www.siruta.nxm.ro/),[coduri SIRUTA si UAT-uri pe judete](http://www.dpfbl.mdrap.ro/cod_siruta_uat-uri.html) sau [coduri siruta 2024](https://www.siruta.nxm.ro/)
+- [coduri SIRUTA](https://www.siruta.nxm.ro/),[coduri SIRUTA si UAT-uri pe judete](http://www.dpfbl.mdrap.ro/cod_siruta_uat-uri.html); a se vedea si o utilizare [Norma Urbanism 15/2024](https://legislatie.just.ro/Public/DetaliiDocument/270782)
 - [coduri postale](https://www.posta-romana.ro/cauta-cod-postal.html)
 - ...nomenclatoare INS(Institutul National de Statistica) publicate pe portalul de date ale Guvernului( [DATA.GOV.RO](https://data.gov.ro/organization/institutul-national-de-statistica) )...SIRUTA,CAEN,CPSA,TEMPO...
 - ...portalul [DATA.GOV.RO](https://data.gov.ro/) pune la dispozitie si o pagina pentru programatori/dezvoltatori([developers](https://data.gov.ro/pages/developers); atentie insa la autor si mai ales data publicarii!!!
