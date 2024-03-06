@@ -1174,5 +1174,4 @@ Pe grup-ul [**ProFox**](https://www.facebook.com/groups/3239944772705473/) gazdu
 
 O alta cautare interesanta de aceasta data in cautare de **cod/snippets** puteti folosi [**Grepper**](https://www.grepper.com/)
 
-Un Client PhP pentru API ANAF puteti gasi in acest [depozit](https://github.com/TecsiAron/ANAF-API-Client-PHP)
-
+Un Client **PHP 8+** pentru API ANAF pentru ***interogare CIF*** si ***upload RO-eFactura***, puteti gasi in acest [**depozit-Github**](https://github.com/TecsiAron/ANAF-API-Client-PHP)
