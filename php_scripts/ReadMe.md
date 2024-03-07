@@ -1176,4 +1176,4 @@ O alta cautare interesanta de aceasta data in cautare de **cod/snippets** puteti
 
 Un Client **PHP 8+** pentru ***API ANAF*** pentru ***interogare CIF*** si ***upload RO-eFactura***, puteti gasi in acest [**depozit-Github**](https://github.com/TecsiAron/ANAF-API-Client-PHP)
 
-Un alt model de factura mai bogat in informatii, poate fi si cel expus de cei de la [**NexUS Media**](https://www.nexuserp.ro/imagini/factura-online/nexus-factura-online-model4.webp); In acest exemplar puteti observa afisarea articolelor/bunurilor(produselor/servicii) insotite de principalele codificari(**NC8**,**CVP**) dar si cred/probabil, de o codificare **interna**;
+Un alt model de factura mai bogat in informatii, poate fi si cel expus de cei de la [**NexUS Media**](https://www.nexuserp.ro/imagini/factura-online/nexus-factura-online-model4.webp); In acest exemplar [***e-Factura***](https://www.nexuserp.ro/ro-e-factura-convertor-din-xml-in-pdf) puteti observa afisarea articolelor/bunurilor(produselor/servicii) insotite de principalele codificari(**NC8**,**CVP**) dar si cred/probabil, de o codificare **interna**;
