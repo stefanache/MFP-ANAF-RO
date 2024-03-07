@@ -1175,3 +1175,5 @@ Pe grup-ul [**ProFox**](https://www.facebook.com/groups/3239944772705473/) gazdu
 O alta cautare interesanta de aceasta data in cautare de **cod/snippets** puteti folosi [**Grepper**](https://www.grepper.com/)
 
 Un Client **PHP 8+** pentru ***API ANAF*** pentru ***interogare CIF*** si ***upload RO-eFactura***, puteti gasi in acest [**depozit-Github**](https://github.com/TecsiAron/ANAF-API-Client-PHP)
+
+Un alt model de factura mai bogat in informatii, poate fi si cel expus de cei de la [**NexUS Media**](https://www.nexuserp.ro/imagini/factura-online/nexus-factura-online-model4.webp);
