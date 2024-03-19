@@ -79,7 +79,9 @@ Despre eFactura si [**OAuth**](https://static.anaf.ro/static/10/Anaf/Informatii_
       Ți-am pregătit un tutorial detaliat aici:
       [Paginare mesaje din SPV API ANAF - PHP OAuth2.]
       (https://iapp.ro/articol/paginare-mesaje-din-spv-api-anaf-php-oauth2)
-   
+      
+      <hr/>
+      
       Ai nevoie de ajutor?
       Te putem ajuta să implementezi sistemul RO e-Factura în aplicația ta.
       Contactează-ne pentru a vedea cum te putem ajuta!
