@@ -38,11 +38,11 @@ Pe devforum veti gasi acest [**post **](https://devforum.ro/t/e-factura-cu-semna
 
 Despre eFactura si [**OAuth**](https://static.anaf.ro/static/10/Anaf/Informatii_R/API/Oauth_procedura_inregistrare_aplicatii_portal_ANAF.pdf) gasiti aceasta [**postare**](https://hotfox.ro/forum/viewtopic.php?t=7&start=100) pe forumul ***hotfox***;
 
-[**InsideApp.ro**](https://iapp.ro/articol/exemplu-de-integrare-api-anaf-spv-php-oauth2) are aceasta pagina extrem de compacta/concisa si extrem de productiva/competitiva care acopera intreg fluxul ***e-Factura***:
+[**InsideApp.ro**](https://iapp.ro/articol/exemplu-de-integrare-api-anaf-spv-php-oauth2) are aceasta pagina extrem de compacta/concisa si extrem de productiva/competitiva care acopera intreg fluxul de comunicare cu ANAF in ceea ce priveste ***e-Factura***, exceptand desigur zona de pre-procesare(editare XML,verificare/validare) si post-procesare(transformare XML in PDF,...):
 
 """
       
-      **Exemplu de integrare - API ANAF - PHP OAuth2**
+      ** Exemplu de integrare - API ANAF - PHP OAuth2 **
       
       Veți găsi mai mulți pași necesari în transmiterea documentelor e-Factura.
    
