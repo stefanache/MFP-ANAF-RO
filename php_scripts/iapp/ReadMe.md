@@ -30,3 +30,4 @@ Interesante pot fi si posturile/postarile forumului [***IceFact***](https://ices
 
 Iata un [**articol-facebook**](https://www.facebook.com/story.php/?story_fbid=1306978283585340&id=100028195437191&paipv=0&eav=Afbt2pXedxd03Oekd19B0yn5eCZMuQu6FhyrOPfl7jL-AQlCek1HHt1n0wSLrS-qXYA&_rdr) care vorbeste de noul rol al contabilului/contabilitatii in contextul e-Facturarii; Veti gasi aici si cateva comentarii mai putin sau mai mult "usturatoare" ca sa nu le spun ironice.
 
+**RoBill** are expusa o pagina dedicata [***e-Factura***](https://robill.ro/e-factura/?_gl=1*hitnsy*_up*MQ..&gclid=CjwKCAjw7-SvBhB6EiwAwYdCAaLbpNHgXKqR6mOqE8zFeiOGVpNaqo8zsdYay8R6t5-qsIjaHiFYnhoCoIYQAvD_BwE) care de asemenea prezinta fluxul acestei activitati.
