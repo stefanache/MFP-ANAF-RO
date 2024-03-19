@@ -50,29 +50,35 @@ Despre eFactura si [**OAuth**](https://static.anaf.ro/static/10/Anaf/Informatii_
       
       1.Ai nevoie de un Token ANAF activ.
       Pentru obținerea Token-ului ANAF ți-am pregătit un tutorial detaliat aici:
-      [Generare Token ANAF folosind certificat digital din PHP - OAuth2.](https://iapp.ro/articol/generare-token-anaf-folosind-certificat-digital-din-php-oauth2
+      [Generare Token ANAF folosind certificat digital din PHP - OAuth2.]
+      (https://iapp.ro/articol/generare-token-anaf-folosind-certificat-digital-din-php-oauth2
    
       Nu uita că Token-ul este valabil 90 de zile iar apoi trebuie generat din nou(token-refresh).
    
       2.Trimite factura XML în SPV
       Ți-am pregătit un tutorial detaliat aici:
-      [Încarcă factură XML în SPV - API ANAF - PHP OAuth2.](https://iapp.ro/articol/incarca-factura-xml-in-spv-api-anaf-php-oauth2)
+      [Încarcă factură XML în SPV - API ANAF - PHP OAuth2.]
+      (https://iapp.ro/articol/incarca-factura-xml-in-spv-api-anaf-php-oauth2)
    
       3.Verifică status încărcare
       Ți-am pregătit un tutorial detaliat aici:
-      [Verifică status încărcare factură - API ANAF - PHP OAuth2.](https://iapp.ro/articol/verifica-status-incarcare-factura-api-anaf-php-oauth2)
+      [Verifică status încărcare factură - API ANAF - PHP OAuth2.]
+      (https://iapp.ro/articol/verifica-status-incarcare-factura-api-anaf-php-oauth2)
    
       4.Descarcă factura / mesajul din SPV
       Ți-am pregătit un tutorial detaliat aici:
-      [Descarcă arhiva ZIP e-Factura folosind API ANAF - PHP OAuth2.](https://iapp.ro/articol/descarca-arhiva-zip-e-factura-folosind-api-anaf-php-oauth2)
+      [Descarcă arhiva ZIP e-Factura folosind API ANAF - PHP OAuth2.]
+      (https://iapp.ro/articol/descarca-arhiva-zip-e-factura-folosind-api-anaf-php-oauth2)
    
       5.Extrage lista de facturi de la furnizori și alte mesaje
       Ți-am pregătit un tutorial detaliat aici:
-      [Extrage lista de facturi de la furnizori din SPV - PHP OAuth2.](https://iapp.ro/articol/extrage-lista-de-facturi-de-la-furnizori-din-spv-php-oauth2)
+      [Extrage lista de facturi de la furnizori din SPV - PHP OAuth2.]
+      (https://iapp.ro/articol/extrage-lista-de-facturi-de-la-furnizori-din-spv-php-oauth2)
    
       6.Paginare mesaje din SPV API ANAF
       Ți-am pregătit un tutorial detaliat aici:
-      [Paginare mesaje din SPV API ANAF - PHP OAuth2.](https://iapp.ro/articol/paginare-mesaje-din-spv-api-anaf-php-oauth2)
+      [Paginare mesaje din SPV API ANAF - PHP OAuth2.]
+      (https://iapp.ro/articol/paginare-mesaje-din-spv-api-anaf-php-oauth2)
    
       Ai nevoie de ajutor?
       Te putem ajuta să implementezi sistemul RO e-Factura în aplicația ta.
