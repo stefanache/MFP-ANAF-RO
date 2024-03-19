@@ -41,7 +41,8 @@ Despre eFactura si [**OAuth**](https://static.anaf.ro/static/10/Anaf/Informatii_
 [**InsideApp.ro**](https://iapp.ro/articol/exemplu-de-integrare-api-anaf-spv-php-oauth2) are aceasta pagina extrem de compacta/concisa si extrem de productiva/competitiva care asigura intreg fluxul e-Factura:
 
 """
-      Exemplu de integrare - API ANAF - PHP OAuth2
+      
+      **Exemplu de integrare - API ANAF - PHP OAuth2**
       
       Veți găsi mai mulți pași necesari în transmiterea documentelor e-Factura.
    
@@ -77,6 +78,7 @@ Despre eFactura si [**OAuth**](https://static.anaf.ro/static/10/Anaf/Informatii_
       Te putem ajuta să implementezi sistemul RO e-Factura în aplicația ta.
       Contactează-ne pentru a vedea cum te putem ajuta!
       [Vezi opțiunile de contact!](https://iapp.ro/contact/php)
+      
 """
 
 
