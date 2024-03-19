@@ -25,3 +25,5 @@ Iata o alta pagina **e-Factura** interesanta pe site-ul celor de la [***numar.co
 Si cei de la **cabinetexpert.ro** au o pagina dedicata [***e-Factura***](https://www.cabinetexpert.ro/2022-08-11/intrebari-frecvente-si-raspunsuri-specifice-sistemului-ro-e-factura-material-oficial-anaf.html)
 
 **MFP** a emis de curand(a.c.2024) un [***Ghid acutalizat***](https://mfinante.gov.ro/despre-minister/-/asset_publisher/uwgr/content/ghidul-e-factura.-ce-trebuie-s-c4-83-c8-99tie-contribuabilii-pentru-a-emite-c8-99i-prelua-facturi-electronice)
+
+Interesante pot fi si posturile/postarile forumului [***IceFact***](https://icesoft.ro/forum//index.php?action=recent)
