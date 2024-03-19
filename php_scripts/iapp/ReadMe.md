@@ -20,10 +20,13 @@ In afara de portalurile [**ANAF**](https://www.anaf.ro/), [**MFP**](https://mfin
 
 Pentru a vedea ***e-Factura XML*** in format ***PDF*** puteti folosi(online) o aplicatie de transformare([**XML2PDF**](https://www.reddit.com/r/programare/comments/18q33w6/conversie_efactura_xml_in_format_pdf/))de pe portalul [ANAF](https://www.anaf.ro/uploadxml/) sau [MFP](https://mfinante.gov.ro/web/efactura/transformare-xml-in-pdf);
 
-Iata o alta pagina **e-Factura** interesanta pe site-ul celor de la [***numar.contact***](https://numar.contact/e-factura-anaf-ghid-creare-cont-spv-incarcare-facturi-amenzi/)
+Iata o alta pagina **e-Factura** interesanta pe site-ul celor de la [***numar.contact***](https://numar.contact/e-factura-anaf-ghid-creare-cont-spv-incarcare-facturi-amenzi/);
 
-Si cei de la **cabinetexpert.ro** au o pagina dedicata [***e-Factura***](https://www.cabinetexpert.ro/2022-08-11/intrebari-frecvente-si-raspunsuri-specifice-sistemului-ro-e-factura-material-oficial-anaf.html)
+Si cei de la **cabinetexpert.ro** au o pagina dedicata [***e-Factura***](https://www.cabinetexpert.ro/2022-08-11/intrebari-frecvente-si-raspunsuri-specifice-sistemului-ro-e-factura-material-oficial-anaf.html).
 
-**MFP** a emis de curand(a.c.2024) un [***Ghid acutalizat***](https://mfinante.gov.ro/despre-minister/-/asset_publisher/uwgr/content/ghidul-e-factura.-ce-trebuie-s-c4-83-c8-99tie-contribuabilii-pentru-a-emite-c8-99i-prelua-facturi-electronice)
+**MFP** a emis de curand(a.c.2024) un [***Ghid acutalizat***](https://mfinante.gov.ro/despre-minister/-/asset_publisher/uwgr/content/ghidul-e-factura.-ce-trebuie-s-c4-83-c8-99tie-contribuabilii-pentru-a-emite-c8-99i-prelua-facturi-electronice).
 
-Interesante pot fi si posturile/postarile forumului [***IceFact***](https://icesoft.ro/forum//index.php?action=recent)
+Interesante pot fi si posturile/postarile forumului [***IceFact***](https://icesoft.ro/forum//index.php?action=recent);
+
+Iata un [**articol-facebook**](https://www.facebook.com/story.php/?story_fbid=1306978283585340&id=100028195437191&paipv=0&eav=Afbt2pXedxd03Oekd19B0yn5eCZMuQu6FhyrOPfl7jL-AQlCek1HHt1n0wSLrS-qXYA&_rdr) care vorbeste de noul rol al contabilului/contabilitatii in contextul e-Facturarii;
+
