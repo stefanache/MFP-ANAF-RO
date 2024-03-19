@@ -34,4 +34,6 @@ Iata un [**articol-facebook**](https://www.facebook.com/story.php/?story_fbid=13
 
 Pe devforum veti gasi acest [**post **](https://devforum.ro/t/e-factura-cu-semnatura-electronica-linux-fara-dongle-fizic/19392) dedicat subiectului "e-factura-cu-semnatura-electronica-linux-fara-dongle-fizic";
 
-Despre eFactura si OAuth gasiti aceasta [**postare**](https://hotfox.ro/forum/viewtopic.php?t=7&start=100) pe forumul ***hotfox***;
+Despre eFactura si [**OAuth**](https://static.anaf.ro/static/10/Anaf/Informatii_R/API/Oauth_procedura_inregistrare_aplicatii_portal_ANAF.pdf) gasiti aceasta [**postare**](https://hotfox.ro/forum/viewtopic.php?t=7&start=100) pe forumul ***hotfox***;
+
+
