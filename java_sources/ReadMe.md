@@ -21,6 +21,8 @@ Un [exemplu](https://www.tutorialspoint.com/jsf/jsf_quick_guide.htm) elocvent de
 
 Mecanismul AJAX folosit de [JSF](https://docs.oracle.com/javaee/7/javaserver-faces-2-2/jsdocs/symbols/src/_Users_ejburns_Documents_JavaEE_workareas_mojarra-3MOJARRA_2_2X_ROLLING_jsf-demo_jsf-api_src_main_resources_jsf.js.html) este încapsulat într-un fișier JavaScript, numit [**jsf.js**. ](https://www.oreilly.com/library/view/mastering-javaserver-faces/9781782176466/ch07s11.html)
 
+Si acest [**client SPV**](https://github.com/MfpAnaf/ClientSPV) scris in java poate fi o solutie interesanta pentru activitatea dumneavoastra mai ales daca ati decis sa utilizati **java** ca instrument de programare(acesta, oarecum fiind sugerat si de catre staff-ul ANAF chiar daca acest lucru nu s-a spus/mentionat explicit cu subiect si predicat!!!:)
+
 Mai multe detalii despre **eFactura** gasiti pe portalul [ANAF](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/Ghid_RO_eFactura.pdf)-ului.
 
-Si acest [**client SPV**](https://github.com/MfpAnaf/ClientSPV) scris in java poate fi o solutie interesanta pentru activitatea dumneavoastra mai ales daca ati decis sa utilizati **java** ca instrument de programare(acesta, oarecum fiind sugerat si de catre staff-ul ANAF chiar daca acest lucru nu s-a spus/mentionat explicit cu subiect si predicat!!!:)
+
