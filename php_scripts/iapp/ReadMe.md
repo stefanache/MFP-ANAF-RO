@@ -22,8 +22,6 @@ Pentru a vedea ***e-Factura XML*** in format ***PDF*** puteti folosi(online) o a
 
 Iata o alta pagina **e-Factura** interesanta pe site-ul celor de la [***numar.contact***](https://numar.contact/e-factura-anaf-ghid-creare-cont-spv-incarcare-facturi-amenzi/);
 
-Despre eFactura si OAuth gasiti aceasta [**postare**](https://hotfox.ro/forum/viewtopic.php?t=7&start=100) pe forumul ***hotfox***;
-
 Si cei de la **cabinetexpert.ro** au o pagina dedicata [***e-Factura***](https://www.cabinetexpert.ro/2022-08-11/intrebari-frecvente-si-raspunsuri-specifice-sistemului-ro-e-factura-material-oficial-anaf.html).
 
 **MFP** a emis de curand(a.c.2024) un [***Ghid acutalizat***](https://mfinante.gov.ro/despre-minister/-/asset_publisher/uwgr/content/ghidul-e-factura.-ce-trebuie-s-c4-83-c8-99tie-contribuabilii-pentru-a-emite-c8-99i-prelua-facturi-electronice).
@@ -35,3 +33,5 @@ Iata un [**articol-facebook**](https://www.facebook.com/story.php/?story_fbid=13
 **RoBill** are expusa o pagina dedicata [***e-Factura***](https://robill.ro/e-factura/?_gl=1*hitnsy*_up*MQ..&gclid=CjwKCAjw7-SvBhB6EiwAwYdCAaLbpNHgXKqR6mOqE8zFeiOGVpNaqo8zsdYay8R6t5-qsIjaHiFYnhoCoIYQAvD_BwE) care de asemenea prezinta fluxul acestei activitati. Similar si [***oblio.eu***](https://www.oblio.eu/?rnid=95&gad_source=1&gclid=CjwKCAjw7-SvBhB6EiwAwYdCAdavX58FF7A-XG-aDkHk5MskcZJW7JCalum9tyvaeYIJpkQPWiXZ2BoCqREQAvD_BwE)
 
 Pe devforum veti gasi acest [**post **](https://devforum.ro/t/e-factura-cu-semnatura-electronica-linux-fara-dongle-fizic/19392) dedicat subiectului "e-factura-cu-semnatura-electronica-linux-fara-dongle-fizic";
+
+Despre eFactura si OAuth gasiti aceasta [**postare**](https://hotfox.ro/forum/viewtopic.php?t=7&start=100) pe forumul ***hotfox***;
