@@ -21,3 +21,5 @@ In afara de portalurile [**ANAF**](https://www.anaf.ro/), [**MFP**](https://mfin
 Pentru a vedea ***e-Factura XML*** in format ***PDF*** puteti folosi(online) o aplicatie de transformare([**XML2PDF**](https://www.reddit.com/r/programare/comments/18q33w6/conversie_efactura_xml_in_format_pdf/))de pe portalul [ANAF](https://www.anaf.ro/uploadxml/) sau [MFP](https://mfinante.gov.ro/web/efactura/transformare-xml-in-pdf);
 
 Iata o alta pagina **e-Factura** interesanta pe site-ul celor de la [***numar.contact***](https://numar.contact/e-factura-anaf-ghid-creare-cont-spv-incarcare-facturi-amenzi/)
+
+Si cei de la **cabinetexpert.ro** au o pagina dedicata [***e-Factura***](https://www.cabinetexpert.ro/2022-08-11/intrebari-frecvente-si-raspunsuri-specifice-sistemului-ro-e-factura-material-oficial-anaf.html)
