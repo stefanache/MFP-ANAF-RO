@@ -26,7 +26,7 @@ Si cei de la **cabinetexpert.ro** au o pagina dedicata [***e-Factura***](https:/
 
 **MFP** a emis de curand(a.c.2024) un [***Ghid acutalizat***](https://mfinante.gov.ro/despre-minister/-/asset_publisher/uwgr/content/ghidul-e-factura.-ce-trebuie-s-c4-83-c8-99tie-contribuabilii-pentru-a-emite-c8-99i-prelua-facturi-electronice).
 
-Interesante pot fi si posturile/postarile forumului [***IceFact***](https://icesoft.ro/forum//index.php?action=recent);
+Interesante pot fi si posturile/postarile forumului [***IceFact***](https://icesoft.ro/forum//index.php?action=recent); 
 
-Iata un [**articol-facebook**](https://www.facebook.com/story.php/?story_fbid=1306978283585340&id=100028195437191&paipv=0&eav=Afbt2pXedxd03Oekd19B0yn5eCZMuQu6FhyrOPfl7jL-AQlCek1HHt1n0wSLrS-qXYA&_rdr) care vorbeste de noul rol al contabilului/contabilitatii in contextul e-Facturarii;
+Iata un [**articol-facebook**](https://www.facebook.com/story.php/?story_fbid=1306978283585340&id=100028195437191&paipv=0&eav=Afbt2pXedxd03Oekd19B0yn5eCZMuQu6FhyrOPfl7jL-AQlCek1HHt1n0wSLrS-qXYA&_rdr) care vorbeste de noul rol al contabilului/contabilitatii in contextul e-Facturarii; Veti gasi aici si cateva comentarii mai putin sau mai mult "usturatoare" ca sa nu le spun ironice.
 
