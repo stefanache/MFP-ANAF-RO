@@ -41,11 +41,13 @@ Despre eFactura si [**OAuth**](https://static.anaf.ro/static/10/Anaf/Informatii_
 [**InsideApp.ro**](https://iapp.ro/articol/exemplu-de-integrare-api-anaf-spv-php-oauth2) are aceasta pagina extrem de compacta/concisa si extrem de productiva/competitiva care asigura intreg fluxul e-Factura:
 
 """
-    Exemplu de integrare - API ANAF - PHP OAuth2
-   Veți găsi mai mulți pași necesari în transmiterea documentelor e-Factura.
+      Exemplu de integrare - API ANAF - PHP OAuth2
+      
+      Veți găsi mai mulți pași necesari în transmiterea documentelor e-Factura.
    
-   07 Jan 2024
-   1Ai nevoie de un Token ANAF activ.
+      07 Jan 2024
+      
+      1.Ai nevoie de un Token ANAF activ.
    Pentru obținerea Token-ului ANAF ți-am pregătit un tutorial detaliat aici:
    Generare Token ANAF folosind certificat digital din PHP - OAuth2.
    
