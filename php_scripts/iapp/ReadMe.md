@@ -32,8 +32,12 @@ Iata un [**articol-facebook**](https://www.facebook.com/story.php/?story_fbid=13
 
 **RoBill** are expusa o pagina dedicata [***e-Factura***](https://robill.ro/e-factura/?_gl=1*hitnsy*_up*MQ..&gclid=CjwKCAjw7-SvBhB6EiwAwYdCAaLbpNHgXKqR6mOqE8zFeiOGVpNaqo8zsdYay8R6t5-qsIjaHiFYnhoCoIYQAvD_BwE) care de asemenea prezinta fluxul acestei activitati. Similar si [***oblio.eu***](https://www.oblio.eu/?rnid=95&gad_source=1&gclid=CjwKCAjw7-SvBhB6EiwAwYdCAdavX58FF7A-XG-aDkHk5MskcZJW7JCalum9tyvaeYIJpkQPWiXZ2BoCqREQAvD_BwE)
 
+[**SmartBill**](https://www.smartbill.ro/produse/facturare?campaignid=1425672889&adgroupid=56764126275&keyword=software%20factura&device=c&gad_source=1&gclid=CjwKCAjw7-SvBhB6EiwAwYdCAR3jvkvZx0aZ_IAJyipNevInPjoWRmqdwslvIsSbB0dtFj5nw_zTahoCfoAQAvD_BwE) asigura servicii eFactura chiar si pe device-uri mobile Android si iOS;
+
 Pe devforum veti gasi acest [**post **](https://devforum.ro/t/e-factura-cu-semnatura-electronica-linux-fara-dongle-fizic/19392) dedicat subiectului "e-factura-cu-semnatura-electronica-linux-fara-dongle-fizic";
 
 Despre eFactura si [**OAuth**](https://static.anaf.ro/static/10/Anaf/Informatii_R/API/Oauth_procedura_inregistrare_aplicatii_portal_ANAF.pdf) gasiti aceasta [**postare**](https://hotfox.ro/forum/viewtopic.php?t=7&start=100) pe forumul ***hotfox***;
+
+
 
 
