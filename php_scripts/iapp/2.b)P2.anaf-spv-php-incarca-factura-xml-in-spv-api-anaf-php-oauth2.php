@@ -2,6 +2,7 @@
 	//	https://iapp.ro/articol/exemplu-de-integrare-api-anaf-spv-php-oauth2
 	//	2.Trimite factura XML în SPV
 	//		https://iapp.ro/articol/incarca-factura-xml-in-spv-api-anaf-php-oauth2
+	//		https://mfinante.gov.ro/static/10/eFactura/prezentare%20apeluri%20API%20E-factura.pdf
 	//		Pasul 2 : Trimite factura in SPV
 	//		b) cu CIF
 
