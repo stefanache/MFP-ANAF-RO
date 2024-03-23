@@ -2,6 +2,7 @@
 	//	https://iapp.ro/articol/exemplu-de-integrare-api-anaf-spv-php-oauth2
 	//	1.Ai nevoie de un Token ANAF activ.
 	//		https://iapp.ro/articol/generare-token-anaf-folosind-certificat-digital-din-php-oauth2
+	//		https://static.anaf.ro/static/10/Anaf/Informatii_R/API/Oauth_procedura_inregistrare_aplicatii_portal_ANAF.pdf
 	//  	Pasul 4: Siteul tau :
 	//		b)varianta(recomandata- a se vedea Nota *) care generează token JWT. (* Nota: aceasta va fi singura activă începând cu data de 15.04.2024)
 
