@@ -3,7 +3,7 @@
 	//	1.Ai nevoie de un Token ANAF activ.
 	//		https://iapp.ro/articol/generare-token-anaf-folosind-certificat-digital-din-php-oauth2
 	//  	Pasul 4: Siteul tau :
-	//		b)varianta care generează token JWT. (aceasta va fi singura activă începând cu data de 15.04.2024)
+	//		b)varianta(recomandata) care generează token JWT. (aceasta va fi singura activă începând cu data de 15.04.2024)
 
   define('SPV_CLIENT_ID', "");
   define('SPV_CLIENT_SECRET', "");
