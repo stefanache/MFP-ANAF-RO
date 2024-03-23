@@ -1,6 +1,7 @@
 <?PHP
 	//	https://iapp.ro/articol/exemplu-de-integrare-api-anaf-spv-php-oauth2
 	//	https://iapp.ro/articol/extrage-lista-de-facturi-de-la-furnizori-din-spv-php-oauth2
+	//	https://mfinante.gov.ro/static/10/eFactura/prezentare%20api%20efactura.pdf
 	//	Pasul 2: Vizualizare mesaje / facturi disponibile în SPV
 
     $cif = "";
