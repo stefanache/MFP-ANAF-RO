@@ -1,6 +1,7 @@
 <?PHP
 	//	https://iapp.ro/articol/exemplu-de-integrare-api-anaf-spv-php-oauth2
 	//	https://iapp.ro/articol/paginare-mesaje-din-spv-api-anaf-php-oauth2
+	//	https://mfinante.gov.ro/static/10/eFactura/prezentare%20api%20efactura.pdf
 	//	Pasul2: Trimite factură în SPV
 	//	vezi si link: https://iapp.ro/public/blog/anaf-spv-php-listaMesajePaginatieFactura.txt
 	
