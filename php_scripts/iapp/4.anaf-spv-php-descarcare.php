@@ -3,6 +3,7 @@
 	//	https://iapp.ro/articol/descarca-arhiva-zip-e-factura-folosind-api-anaf-php-oauth2
 	//	Pasul 2 : Descarcă răspunsul / factura ZIP
 	//	vezi si https://iapp.ro/public/blog/anaf-spv-php-descarcare.txt
+	//	https://mfinante.gov.ro/static/10/eFactura/prezentare%20api%20efactura.pdf
 	
     $id_descarcare = "00000000000000";
     $token = "";
