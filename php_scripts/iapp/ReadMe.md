@@ -89,7 +89,9 @@ Despre eFactura si [**OAuth**](https://static.anaf.ro/static/10/Anaf/Informatii_
       
 """
 
-Despre [***e-Transport***](https://www.msg-plaut.com/ro/e-transport?gad_source=1&gclid=Cj0KCQjwwYSwBhDcARIsAOyL0fgN655gDhLJgWapwk0bSyF8WhNJLzCWnvNqGsCj0c9qbdV0untOA3EaAocxEALw_wcB) puteti gasi cate ceva pe pagina celor de la **msgPlaut** sau pe site-ul celor de la [**xpertsoft**.](https://www.xpertsoft.ro/produse/ro-e-transport/?gad_source=1&gclid=Cj0KCQjwwYSwBhDcARIsAOyL0fj8Pu8nUDNFZh0flSl_KHvbvphXdZ4NoM0qbH3Agc_pQSptPeWFk3oaAuo5EALw_wcB) 
+Despre [***e-Transport***](https://www.msg-plaut.com/ro/e-transport?gad_source=1&gclid=Cj0KCQjwwYSwBhDcARIsAOyL0fgN655gDhLJgWapwk0bSyF8WhNJLzCWnvNqGsCj0c9qbdV0untOA3EaAocxEALw_wcB) puteti gasi cate ceva pe pagina celor de la **msgPlaut** sau pe site-ul celor de la [**xpertsoft**](https://www.xpertsoft.ro/produse/ro-e-transport/?gad_source=1&gclid=Cj0KCQjwwYSwBhDcARIsAOyL0fj8Pu8nUDNFZh0flSl_KHvbvphXdZ4NoM0qbH3Agc_pQSptPeWFk3oaAuo5EALw_wcB). 
+
+Informatii referitoare la **D-395** pot fi gasite pe site-ul [***smarttax***](https://www.smarttax.ro/declaratia-395?gad_source=1&gclid=Cj0KCQjwwYSwBhDcARIsAOyL0fiV_bdo6LaZrEROcF-Nu-UldmpI558P5OelauqBqGaB_imhNd7xcfcaAu4CEALw_wcB) 
 
 
 
