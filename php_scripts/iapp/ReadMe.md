@@ -89,12 +89,6 @@ Despre eFactura si [**OAuth**](https://static.anaf.ro/static/10/Anaf/Informatii_
       
 """
 
-Despre [***e-Transport***](https://www.msg-plaut.com/ro/e-transport?gad_source=1&gclid=Cj0KCQjwwYSwBhDcARIsAOyL0fgN655gDhLJgWapwk0bSyF8WhNJLzCWnvNqGsCj0c9qbdV0untOA3EaAocxEALw_wcB) puteti gasi cateva [informatii utile](https://mfinante.gov.ro/ro/web/etransport/informatii-tehnice?fbclid=IwAR0L-wL9TWmEFyxC7F9IG3Osy5iQHvbGaxKc-f4MOeOfnh9fF8vrP-ZUBrc) pe pagina celor de la [**msgPlaut**](https://www.msg-plaut.com/ro/e-transport?gad_source=1&gclid=Cj0KCQjwwYSwBhDcARIsAOyL0fgN655gDhLJgWapwk0bSyF8WhNJLzCWnvNqGsCj0c9qbdV0untOA3EaAocxEALw_wcB) sau pe site-ul celor de la [**xpertsoft**](https://www.xpertsoft.ro/produse/ro-e-transport/?gad_source=1&gclid=Cj0KCQjwwYSwBhDcARIsAOyL0fj8Pu8nUDNFZh0flSl_KHvbvphXdZ4NoM0qbH3Agc_pQSptPeWFk3oaAuo5EALw_wcB). 
-
-Cei de la [**smarttax**](https://www.smarttax.ro/saft-declaratia-406?gad_source=1&gclid=Cj0KCQjwwYSwBhDcARIsAOyL0fhjfPfqMoR7HhE09q7Z8YBhudmAllUEg-2JFxOfYD2ULXBP1Y9Rv8waArbREALw_wcB) au informatii utile referitoare la [***SAF-T / D406***](https://www.smarttax.ro/saft-declaratia-406?gad_source=1&gclid=Cj0KCQjwwYSwBhDcARIsAOyL0fhjfPfqMoR7HhE09q7Z8YBhudmAllUEg-2JFxOfYD2ULXBP1Y9Rv8waArbREALw_wcB)
-
-
-De asemenea, cateva informatii utile referitoare la **D-395** pot fi gasite tot pe site-ul  celor de la [***smarttax***](https://www.smarttax.ro/declaratia-395?gad_source=1&gclid=Cj0KCQjwwYSwBhDcARIsAOyL0fiV_bdo6LaZrEROcF-Nu-UldmpI558P5OelauqBqGaB_imhNd7xcfcaAu4CEALw_wcB) 
 
 
 
