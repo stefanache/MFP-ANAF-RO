@@ -94,7 +94,7 @@ Despre [***e-Transport***](https://www.msg-plaut.com/ro/e-transport?gad_source=1
 Cei de la [**smarttax**](https://www.smarttax.ro/saft-declaratia-406?gad_source=1&gclid=Cj0KCQjwwYSwBhDcARIsAOyL0fhjfPfqMoR7HhE09q7Z8YBhudmAllUEg-2JFxOfYD2ULXBP1Y9Rv8waArbREALw_wcB) au informatii utile referitoare la [***SAF-T / D406***](https://www.smarttax.ro/saft-declaratia-406?gad_source=1&gclid=Cj0KCQjwwYSwBhDcARIsAOyL0fhjfPfqMoR7HhE09q7Z8YBhudmAllUEg-2JFxOfYD2ULXBP1Y9Rv8waArbREALw_wcB)
 
 
-Informatii referitoare la **D-395** pot fi gasite pe site-ul [***smarttax***](https://www.smarttax.ro/declaratia-395?gad_source=1&gclid=Cj0KCQjwwYSwBhDcARIsAOyL0fiV_bdo6LaZrEROcF-Nu-UldmpI558P5OelauqBqGaB_imhNd7xcfcaAu4CEALw_wcB) 
+Informatii utile referitoare la **D-395** pot fi gasite tot pe site-ul  celor de la [***smarttax***](https://www.smarttax.ro/declaratia-395?gad_source=1&gclid=Cj0KCQjwwYSwBhDcARIsAOyL0fiV_bdo6LaZrEROcF-Nu-UldmpI558P5OelauqBqGaB_imhNd7xcfcaAu4CEALw_wcB) 
 
 
 
