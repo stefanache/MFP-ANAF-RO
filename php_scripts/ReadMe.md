@@ -1093,7 +1093,7 @@ Hai sa luam exemplul testat de [**Daniel-Popiniuc**](https://github.com/danielgp
 
 ***[Nota](https://static.anaf.ro/static/10/Anaf/Declaratii_R/instructiuni/instructiuni2.6.htm)*** :
 
-   In general, prin termenul **certificat digital calificat** puteti sa intelegeti un **certificat digital acceptat/agreeat** de catre ANAF si partenerii sai publici/institutionali si privati(ONG,Firme/Companii...) cu care a incheaiat in prealabil intelegeri/protocoale/contracte de colaborare pe tema emiterii de certificate digitale ca documente electronice recunoscute oficial de catre autoritatile statului roman si nu numai.
+   In general, prin termenul **certificat digital calificat** puteti sa intelegeti un **certificat digital acceptat/agreat** de catre ANAF si partenerii sai publici/institutionali si privati(ONG,Firme/Companii...) cu care a incheaiat in prealabil intelegeri/protocoale/contracte de colaborare pe tema emiterii de certificate digitale ca documente electronice recunoscute oficial de catre autoritatile statului roman si nu numai.
    
    Acest **[certificat digital calificat](https://www.google.com/search?q=ANAF+certificat+digital+calificat&rlz=1C1JJTC_enRO1087RO1087&oq=ANAF+certificat+digital+calificat&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgWGB7SAQoxNTEyMGowajE1qAIIsAIB&sourceid=chrome&ie=UTF-8#ip=1)** arata ca detinatorul poate [***semna digital***](https://transsped.ro/certificate?gad_source=1&gclid=CjwKCAjw_LOwBhBFEiwAmSEQAS1ZTy_LDOfprluFv4d-pQ93zpNAohMf6RqK9QSI4lMFs1HMneZYyRoCPHwQAvD_BwE) anumite documente oficiale.
    
