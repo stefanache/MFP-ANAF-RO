@@ -90,7 +90,7 @@ Despre eFactura si [**OAuth**](https://static.anaf.ro/static/10/Anaf/Informatii_
       [Vezi opțiunile de contact!](https://iapp.ro/contact/php)
       
 """
-
+**Nota:** Legat de ANAF puteti consulta [**repos**](https://github.com/topics/anaf?l=php)-uri **github** scrise in **PhP**
 
 
 
