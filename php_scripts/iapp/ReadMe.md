@@ -90,7 +90,10 @@ Despre eFactura si [**OAuth**](https://static.anaf.ro/static/10/Anaf/Informatii_
       [Vezi opțiunile de contact!](https://iapp.ro/contact/php)
       
 """
-**Nota:** Legat de ANAF puteti consulta [**repos**](https://github.com/topics/anaf?l=php)-uri **github** scrise in **PhP**
+**Nota:** 
+
+ - Legat de ANAF puteti consulta [**repos**](https://github.com/topics/anaf?l=php)-uri **github** scrise in **PhP**
+ - In repos-ul incarcae **e-factura** in ***SPV/ANAF *** puteti gasi si un [**mini-parser UBL**](https://github.com/Rebootcodesoft/efactura_anaf/blob/main/ublparser.php)
 
 
 
