@@ -1,4 +1,4 @@
- - Pe site-ul celor de la [**Inside APP**](https://iapp.ro/) puteti [descoperi] si [analiza](https://github.com/itrack/anaf) cateva [***surse PhP***](https://mfinante.gov.ro/static/10/eFactura/prezentare%20apeluri%20API%20E-factura.pdf) / [***cURL***](https://hotfox.ro/forum/viewtopic.php?t=7&start=80) / [***REST***](https://www.suport.nexuserp.ro/index.php?id=2174) cu [accesare](https://hotfox.ro/forum/viewtopic.php?t=149&start=10) / [**API ANAF**](https://mfinante.gov.ro/static/10/eFactura/prezentare%20api%20efactura.pdf) folosind [**OAuth 2.0**](https://static.anaf.ro/static/10/Anaf/Informatii_R/API/Oauth_procedura_inregistrare_aplicatii_portal_ANAF.pdf), legate de procesul  [***e-Factura***](https://mfinante.gov.ro/static/10/eFactura/prezentare%20api%20efactura.pdf):
+ - Pe site-ul celor de la [**Inside APP**](https://iapp.ro/) puteti [descoperi] si [analiza](https://github.com/itrack/anaf) cateva [***surse PhP***](https://mfinFoauthante.gov.ro/static/10/eFactura/prezentare%20apeluri%20API%20E-factura.pdf) / [***cURL***](https://hotfox.ro/forum/viewtopic.php?t=7&start=80) / [***REST***](https://www.suport.nexuserp.ro/index.php?id=2174) cu [accesare](https://hotfox.ro/forum/viewtopic.php?t=149&start=10) / [**API ANAF**](https://mfinante.gov.ro/static/10/eFactura/prezentare%20api%20efactura.pdf) folosind [**OAuth 2.0**](https://static.anaf.ro/static/10/Anaf/Informatii_R/API/Oauth_procedura_inregistrare_aplicatii_portal_ANAF.pdf), legate de procesul  [***e-Factura***](https://mfinante.gov.ro/static/10/eFactura/prezentare%20api%20efactura.pdf):
    
 [**e-Factura**](https://mfinante.gov.ro/static/10/eFactura/PrezentareE-factura.pdf) - [flux](https://www.bitsoftware.eu/sbs-efactura/)-uri de [procesare](https://static.anaf.ro/static/10/Anaf/Informatii_R/API/Oauth_procedura_inregistrare_aplicatii_portal_ANAF.pdf) bazate pe [**OAuth 2.0**](https://iapp.ro/blog);despre OAuth2 puteti afla cate ceva si pe aceasta [pagina](https://stateful.com/blog/oauth-refresh-token-best-practices);
 
@@ -7,6 +7,8 @@
 Aici sunt cateva [**script**](https://github.com/stefanache/MFP-ANAF-RO/tree/main/php_scripts/iapp)-uri **PhP** de pe [blogul](https://iapp.ro/blog) [**iapp.ro**](https://iapp.ro/articol/exemplu-de-integrare-api-anaf-spv-php-oauth2)(...pe aceasta cale transmit **mii de multumiri** celor de la **Inside APP**!!!)
 
   Tot aici gasiti si cateva [**link**](https://github.com/stefanache/MFP-ANAF-RO/tree/main/php_scripts/iapp/Link_uri_IAPP)-uri interesante reprezantand articole importante de pe portalul-ul [**Inside APP(IAPP)**](https://iapp.ro)
+
+  ***Nota*** Un **Client Oauth2** scris in ***PhP*** pentru ANAF gasiti in acest [**repo**](https://github.com/andalisolutions/oauth2-anaf)
 
 Un alt site care va poate inspira este si [**hotfox.ro**](https://hotfox.ro/forum/viewtopic.php?t=7&start=80); Un tutorial foarte detaliat gasiti pe blogul [**LICOMP**](https://www.licomp.ro/efactura_tutor.aspx);
 Desi am tot amintiti despre platforma [**Facturis**](https://facturis-online.ro/api-program-de-facturare-gestiune-online/modificarea-produselor.html) totusi o sa va reamintesc ca periodic merita sa treceti sa vedeti ce a mai aparut nou in materie de [**eFactura**](https://facturis-online.ro/e-factura/biblioteca-cu-informatii-oficiale-despre-formatul-xml-pentru-e-factura.html) si nu numai;
@@ -88,6 +90,7 @@ Despre eFactura si [**OAuth**](https://static.anaf.ro/static/10/Anaf/Informatii_
       [Vezi opțiunile de contact!](https://iapp.ro/contact/php)
       
 """
+
 
 
 
