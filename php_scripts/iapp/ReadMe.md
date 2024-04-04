@@ -95,8 +95,8 @@ Despre eFactura si [**OAuth**](https://static.anaf.ro/static/10/Anaf/Informatii_
 **Nota:** 
 
  - Legat de [**ANAF**](https://github.com/topics/anaf?l=php)(si, daca vreti... de subiectul [***e-Factura***](https://github.com/topics/e-factura?l=php)) puteti consulta [**repos**](https://github.com/topics/anaf?l=php)-uri **github** scrise in **PhP**
- - In **repos-ul** de/pentru/privind ***incarcare[a]*** [**e-factura ANAF**](https://github.com/Rebootcodesoft/efactura_anaf/tree/main) in ***SPV/ANAF*** puteti gasi si un (mini-)[**parser UBL**](https://github.com/Rebootcodesoft/efactura_anaf/blob/main/ublparser.php), creat pe baza depozitului [***ahmeti/ubl-parser-php***](https://github.com/ahmeti/ubl-parser-php/tree/master)
- - Un alt [**client PHP de transmitere a eFacturii-xml**](https://tecsiaron.github.io/ANAF-API-Client-PHP/namespaces/edituraedu.html) pt/catre ***API-ul ANAF-ului*** privind/pentru [**interogare CIF si upload RO-eFactura**](https://github.com/TecsiAron/ANAF-API-Client-PHP) gasiti in repo-ul ***TecsiAron/ANAF-API-Client-PHP***; In acest gasiti si alte functii interesante deja rezolvate!!!.
+ - In **repos-ul** de/pentru/privind ***incarcare[a]*** [**e-factura ANAF**](https://github.com/Rebootcodesoft/efactura_anaf/tree/main) in ***SPV/ANAF*** puteti gasi si un (mini-)[**parser UBL**](https://github.com/Rebootcodesoft/efactura_anaf/blob/main/ublparser.php), creat pe baza depozitului [***ahmeti/ubl-parser-php***](https://github.com/ahmeti/ubl-parser-php/tree/master); In acest gasiti si alte functii interesante deja rezolvate!!!.
+ - Un alt [**client PHP de transmitere a eFacturii-xml**](https://tecsiaron.github.io/ANAF-API-Client-PHP/namespaces/edituraedu.html) pt/catre ***API-ul ANAF-ului*** privind/pentru [**interogare CIF si upload RO-eFactura**](https://github.com/TecsiAron/ANAF-API-Client-PHP) gasiti in repo-ul ***TecsiAron/ANAF-API-Client-PHP***; Si aici veti gasiti si alte functii interesante deja implementate!!!.
 
 
 
