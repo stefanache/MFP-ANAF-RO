@@ -1,1 +1,1 @@
-https://www.facebook.com/groups/3239944772705473/
+Iata o bibliotecă Python pentru analizarea unui extras [**SIRUTA**](https://github.com/strainu/SIRUTA) în format CSV.
