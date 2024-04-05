@@ -12,3 +12,6 @@ Desigur puteti cauta acest nomenclator **SIRUTA** si pe [data.gov.ro](https://da
 
 [INS](https://bucuresti.insse.ro/produse-si-servicii/nomenclatoare-statistice/) se mai ocupa si de alte nomenclatore cum ar fi 
 [**CAEN**, **CPSA**](https://www.anaf.ro/anaf/internet/ANAF/asistenta_contribuabili/declararea_obligatiilor_fiscale/coduri_caen)
+
+Puteti afla mai multe depre aceste 2 nomenclatoare CAEN si CPSA folosind aceasta [cautare simpla google](https://www.google.com/search?q=caen+cpsa&rlz=1C1JJTC_enRO1087RO1087&oq=CAEN&gs_lcrp=EgZjaHJvbWUqCAgAEEUYJxg7MggIABBFGCcYOzIGCAEQRRg5Mg8IAhAuGEMYsQMYgAQYigUyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgAQyBwgJEAAYgATSAQkzMTkxajBqMTWoAgiwAgE&sourceid=chrome&ie=UTF-8#ip=1)
+
