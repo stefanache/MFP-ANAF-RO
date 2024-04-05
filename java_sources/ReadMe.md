@@ -25,4 +25,6 @@ Si acest [**client SPV**](https://github.com/MfpAnaf/ClientSPV) scris in java po
 
 Mai multe detalii despre **eFactura** gasiti pe portalul [ANAF](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/Ghid_RO_eFactura.pdf)-ului.
 
+Din ***java CLI/shell*** puteti rula  [**DUKIntegrator**](https://www.facebook.com/groups/3239944772705473/) folosind ***comanda***:
 
+    java -version:1.6 -jar "C:\dist\DUKIntegrator.jar" -c C:\dist\config -v FACT1 C:/factura.xml C:/erori.txt 1
