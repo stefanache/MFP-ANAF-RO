@@ -30,6 +30,6 @@ Iata biblioteca Python pentru analizarea unui extras [**SIRUTA**](https://github
 
 Desigur puteti cauta acest nomenclator **SIRUTA** si pe [data.gov.ro](https://data.gov.ro/dataset?res_format=csv)
 
-**SIRUTA** poate fi folosit si pentru alte scopuri cum ar fi [alegeri](https://github.com/alexaac/presidentials2019Data),[ANRE](https://github.com/posfgit/standard)...
+**SIRUTA** poate fi folosit si pentru alte scopuri cum ar fi [alegeri](https://github.com/alexaac/presidentials2019Data), [ANRE](https://github.com/posfgit/standard), [GIS](https://github.com/akaleeroy/romania-uat) / [GeoSpatial](https://github.com/geospatialorg/scripturi-actualizare-vectori/tree/master)...
 
 **SIRUTA** are o ***granulatie*** sau o ***rezolutie*** pana la nivel de [***localitate***](https://github.com/andreifurrnica/localitati-romania)
