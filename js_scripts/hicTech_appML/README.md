@@ -5,7 +5,7 @@ application markup language
 an easy way to build webApp by using html5 tags
 
 
-[***In atentia dumneavoastra:***]((https://github.com/hicTech/appML))
+[***In atentia dumneavoastra:***](https://github.com/hicTech/appML)
 
 Incercati acest ***link*** [https://stefanache.github.io/MFP-ANAF-RO/js_scripts/hicTech_appML/index.html](https://stefanache.github.io/MFP-ANAF-RO/js_scripts/hicTech_appML/index.html ) pe **desktop** si pe **smartPhone**-ul dvs.
 
