@@ -59,6 +59,8 @@ Pe [site-ul MLDPA](http://www.dpfbl.mdrap.ro/B-cont-unic.html) gasiti  datele pr
 
   - ex.pt. o companie/firma aleasa in mod aleatoriu se foloseste aceiasi sintaxa: https://webservicesp.anaf.ro/bilant?an=2021&cui=6859662
 
+  - ex.pt. datele de [bilant](https://www.anaf.ro/anaf/internet/ANAF/info_publice/info_interes_public/bilanturi_contabile) ale [OMV-Petrom](https://rstforums.com/forum/topic/94371-cum-s%C4%83-ob%C8%9Bii-programatic-date-de-pe-mfinante/) vom avea https://webservicesp.anaf.ro/bilant?an=2009&cui=1590082
+
 Un site interesant despre serviciul [Verificare-TVA] va permite sa aflati lururi interesante despre vs6 a serviciului api ANAF: [verificare TVA](https://www.verificaretva.ro/api/apiv6.aspx);
 Aveti aici descris si formatul de raspuns la interogarea serviciului. Desigur documentatia tehnica serviciului vs 6 este cea care trebuie luata in considerare ca [document oficial ANAF](https://www.verificaretva.ro/download/DocumentatieVerificareTVAAPIv6.pdf)
 Un lucru as dori sa scot in eviddenta si aunume fatul ca sunt prezentate exemple in limbaje de back-end(Jav+Spring,PhP,NodeJS) semn ca folosirea limbajului JS(pe front-end) care expune sursa nu este sigura/de dorit(desi daca se iau masuri de [securitate a datelor](https://profs.info.uaic.ro/~busaco/teach/courses/web/presentations/web12SecuritateWeb.pdf) acest lucru ar trebui sa fie posibil!)
