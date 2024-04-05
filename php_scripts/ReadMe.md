@@ -1193,6 +1193,6 @@ Cei de la [**smarttax**](https://www.smarttax.ro/saft-declaratia-406?gad_source=
 
 De asemenea, cateva informatii utile referitoare la **D-395** pot fi gasite tot pe site-ul  celor de la [***smarttax***](https://www.smarttax.ro/declaratia-395?gad_source=1&gclid=Cj0KCQjwwYSwBhDcARIsAOyL0fiV_bdo6LaZrEROcF-Nu-UldmpI558P5OelauqBqGaB_imhNd7xcfcaAu4CEALw_wcB) 
 
-Nu uitati informatii oficiale despre serviciile web **ANAF** gasiti [***aici***](Prezentare servicii web pentru Sistemul national privind factura electronica RO e-Factura);
+Nu uitati informatii oficiale despre serviciile web **ANAF** gasiti in articolul intitulat [***Prezentare servicii web pentru Sistemul national privind factura electronica RO e-Factura***](https://mfinante.gov.ro/static/10/eFactura/prezentare%20apeluri%20API%20E-factura.pdf);
 
 
