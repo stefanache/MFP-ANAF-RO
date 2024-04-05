@@ -29,3 +29,5 @@ Am gasit si pe ***github*** acest nomenclator (My)SQL [**SIRUTA**](https://githu
 Iata biblioteca Python pentru analizarea unui extras [**SIRUTA**](https://github.com/strainu/SIRUTA) în format [CSV](https://github.com/mgax/workshop-odss-vis/blob/master/rawdata/siruta-judete.csv).
 
 Desigur puteti cauta acest nomenclator **SIRUTA** si pe [data.gov.ro](https://data.gov.ro/dataset?res_format=csv)
+
+**SIRUTA** poate fi folosit si pentru alte scopuri cum ar fi [alegeri](https://github.com/alexaac/presidentials2019Data),[ANRE](https://github.com/posfgit/standard)...
