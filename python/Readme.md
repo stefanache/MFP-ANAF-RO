@@ -2,4 +2,4 @@ Nomenclatorul **UAT**-urilor, cunoscut sub denumirea [**SIRUTA**](https://siruta
 
 Am gasit si pe ***github*** acest nomenclator (My)SQL [**SIRUTA**](https://github.com/bandizsolt/romanian-counties-and-locations) si chiar si o [***biblioteca***](https://github.com/strainu/SIRUTA) scrisa in python.
 
-Iata o biblioteca Python pentru analizarea unui extras [**SIRUTA**](https://github.com/strainu/SIRUTA) în format [CSV](https://github.com/mgax/workshop-odss-vis/blob/master/rawdata/siruta-judete.csv).
+Iata biblioteca Python pentru analizarea unui extras [**SIRUTA**](https://github.com/strainu/SIRUTA) în format [CSV](https://github.com/mgax/workshop-odss-vis/blob/master/rawdata/siruta-judete.csv).
