@@ -28,3 +28,5 @@ Mai multe detalii despre **eFactura** gasiti pe portalul [ANAF](https://static.a
 Din ***java CLI/shell*** puteti rula  [**DUKIntegrator**](https://www.facebook.com/groups/3239944772705473/) folosind ***comanda***:
 
     java -version:1.6 -jar "C:\dist\DUKIntegrator.jar" -c C:\dist\config -v FACT1 C:/factura.xml C:/erori.txt 1
+
+Nu uitati informatii oficiale despre serviciile web **ANAF** gasiti in articolul intitulat [***Prezentare servicii web pentru Sistemul national privind factura electronica RO e-Factura***](https://mfinante.gov.ro/static/10/eFactura/prezentare%20apeluri%20API%20E-factura.pdf);
