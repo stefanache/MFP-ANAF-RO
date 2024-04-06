@@ -127,7 +127,7 @@ Pentru generarea si validarea documentelor/rapoartelor fiscale pe care le veti t
 - ...despre conturile bancare puteti gasi si pe site-ul [ro-efactura.ro](https://ro-efactura.ro/conturile-bancare-in-e-factura/) cateva informatii.
 - [normele anuale de venit pe anul 20NN, stabilite pentru activități independente](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/Normevenit2023/Norme_venit_2023.html)
 - [nomenclatorul obligațiilor de plată la bugetul de stat](https://www.anaf.ro/anaf/internet/ANAF/asistenta_contribuabili/plata_oblig_fiscale/nomenclatoare_obligatii/)
-- [nomenclator BNR monede/valuta](https://bnr.ro/files/d/Statistica/metodologie/ifm/ghid/Nomenclator_valute20070122.pdf); [Registre si Liste BNR](https://www.bnr.ro/Registre-si-Liste-717-Mobile.aspx)
+- [nomenclator BNR monede/valuta](https://bnr.ro/files/d/Statistica/metodologie/ifm/ghid/Nomenclator_valute20070122.pdf); [Registre si Liste BNR](https://www.bnr.ro/Registre-si-Liste-717-Mobile.aspx); [Registre ASF](https://www.asfromania.ro/ro/a/1544/registre-entit%C4%83%C8%9Bi-autorizate)
 - [nomenclator BNR tari si organizatii internationale](https://www.bnro.ro/DocumentInformation.aspx?idDocument=27532&directLink=1)
 - ...(a se vedea si [generarea automata codului IBAN utilizat in Rep Moldova](https://mf.gov.md/ro/iban)
 - [...](https://github.com/ConnectingEurope/eInvoicing-EN16931/blob/master/cii/schema/D16B%20SCRDM%20(Subset)/coupled%20clm/CII/uncefact/codelist/standard/UNECE_CargoOperationalCategoryCode_D16A.xsd)
