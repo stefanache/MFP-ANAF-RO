@@ -137,8 +137,8 @@ Pentru generarea si validarea documentelor/rapoartelor fiscale pe care le veti t
 - [nomenclatorul medicamentelor](https://www.spitalnegrestioas.ro/index.php/ro/informatii-publice/nomenclator-medicamente) de uz uman (https://www.anm.ro/medicamente-de-uz-uman/nomenclatorul-medicamentelor-de-uz-uman/) (a se vedea si cel al [AMDM din Rep.Moldova](https://nomenclator.amdm.gov.md/))
 - [nomenclator medici CNAS](http://cas.cnas.ro/casvl/page/nomenclator-medici.html)
 - [ghidul gradelor de handicap](https://www.drmax.ro/articole/ghidul-gradelor-de-handicap-ce-boli-se-incadreaza-in-acestea)
-- [nomenclatoare SIUI-CASMB](http://cas.cnas.ro/casmb/page/nomenclatoare-siui-casmb.html) sau ale altor [Case de Sanatate](http://www.casan.ro/casag/page/nomenclatoare-siui.html) teriroriale( ex.[CAS TR](http://cas.cnas.ro/castr/page/nomenclatoare-siui.html) )
-- [nomenclator produse de uz veterinar](http://www.icbmv.ro/ro/nomenclator-produse); [CNAS - nomenclatoare SIUI](http://cas.cnas.ro/castr/page/nomenclatoare-siui.html)
+- [nomenclatoare SIUI-CASMB](http://cas.cnas.ro/casmb/page/nomenclatoare-siui-casmb.html) sau ale altor [Case de Sanatate](http://www.casan.ro/casag/page/nomenclatoare-siui.html) teriroriale( ex.[CAS TR](http://cas.cnas.ro/castr/page/nomenclatoare-siui.html) ); [CNAS - nomenclatoare SIUI](http://cas.cnas.ro/castr/page/nomenclatoare-siui.html), [CIM- Oncologie](https://iris.who.int/bitstream/handle/10665/42344/9241545348_rum.pdf?sequence=6&isAllowed=y)
+- [nomenclator produse de uz veterinar](http://www.icbmv.ro/ro/nomenclator-produse); 
 - [nomenclator DAMB de specii si rase(A.E)](http://www.damb.ro/nomenclatoare-a-e/10/03/2022/)
 - [nomenclatoare](https://www.onpcsb.ro/uploads/articole/attachments/644b9576b9f8d119925403.pdf) [ONPCB](https://www.onpcsb.ro)
 - [nomenclator ONPCSB entitati raportoare](https://www.onpcsb.ro/uploads/articole/attachments/649e99f8897b1500977073.pdf)
