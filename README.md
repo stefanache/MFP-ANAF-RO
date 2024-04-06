@@ -674,7 +674,7 @@ La ora scrierii acestui document(2023-2024) cel mai discutat subiect ramane cel 
 
 Este posibil ca uneori sa fiti nevoiti sa solicitati documente de la ANAF. Inainte de acest demers poate fi util sa studiati si acest [**Ghid priv. acte justif. nec. elib. div.ctg. de doc. sol.de catre contrib.-PF**](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/GHID_acte_justificative_2021_PF.pdf)
 
-Daca aveti intrebari/nelamuriri sau doriti sa sustineti ori sa colaboram in vederea dezvoltarii unei aplicatii specifice ANAF/MFP, 
+Daca aveti intrebari/nelamuriri sau doriti sa sustineti ori sa colaboram in vederea dezvoltarii unei aplicatii specifice [ANAF/MFP](https://api.store/#apis), 
 
 va rog, [nu ezitati](https://docs.peppol.eu/poacc/billing/3.0/rules/ubl-tc434/BR-CO-09/) sa ma contactati via email:  ion.stefanache@yahoo.com
 
