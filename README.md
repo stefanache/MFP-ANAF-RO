@@ -106,7 +106,7 @@ Pentru generarea si validarea documentelor/rapoartelor fiscale pe care le veti t
 - [nomenclatorul PCUe al domeniilor de activitate](https://edirect.e-guvernare.ro/domeniiactivitate/default.aspx)
 - Nomenclatorul comun al unităților teritoriale de [statistică/INS](https://bucuresti.insse.ro/produse-si-servicii/nomenclatoare-statistice/) [NUTS)](https://www.europarl.europa.eu/factsheets/ro/sheet/99/nomenclatorul-comun-al-unitatilor-teritoriale-de-statistica-nuts-)
 - [nomenclator COR](https://codcor.ro/) - activitati [PF](https://codcor.ro/)
-- [nomenclatorul calificarilor](https://mmuncii.ro/j33/index.php/ro/2014-domenii/munca/nomenclatorul-calificarilor)
+- [nomenclatorul calificarilor](https://mmuncii.ro/j33/index.php/ro/2014-domenii/munca/nomenclatorul-calificarilor); [RNCP](https://www.anc.edu.ro/rncp/)
 - [nomenclator combinat NC](https://static.anaf.ro/static/10/Anaf/legislatie/OPANAF_12_2022.pdf)(de produse si servicii) ajuns la versiunea 8 [NC8](https://nc8.nxm.ro/)
   ( a se vedea versiunea MADR actualizata a [NC la nivelul anului 2023](https://www.madr.ro/docs/agricultura/agricultura-ecologica/2023/nomenclator-combinat-2023.xlsx) livrata in format excel),[coduri NC8 publicate de NXM in 2024](https://nc8.nxm.ro/)
 - [nomenclator PRODROM](https://www.123coduri.ro/cauta-in-baza-de-date-coduri-prodrom.php) - [produse romanesti](https://www.prodrom.nxm.ro/)
