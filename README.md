@@ -97,7 +97,7 @@ Pentru generarea si validarea documentelor/rapoartelor fiscale pe care le veti t
 - ...portalul [DATA.GOV.RO](https://data.gov.ro/) pune la dispozitie si o pagina pentru programatori/dezvoltatori([developers](https://data.gov.ro/pages/developers); atentie insa la autor si mai ales data publicarii!!!
 - 
   [*Nota*](https://data.gov.ro/ro/api/3/action/datastore_search?resource_id=8f43aa12-3bf9-4c14-b13f-dc0e490a92c5&limit=5&q=jones)
-  [CKAN](https://dataportals.org/portal/data-gov-ro):
+  [CKAN](https://dataportals.org/portal/data-gov-ro) [:](https://dataportals.org/api/data.json)
   
   - **[CKAN](https://github.com/ckan)** ( [Comprehensive Knowledge Archive Network](https://www.slideshare.net/busaco/arhitectura-aplicaiilor-rdf-iniiativa-lod-linked-open-data) ) nu are ca interfata de limbaj doar Python - [CKAN-Py](https://pypi.org/project/ckan/)... iata o documentatie pt [CKAN-JS](https://docs.ckan.org/en/2.9/theming/javascript.html); aici gasiti un ghid-utilizator pt [CKAN](https://readthedocs.org/projects/ckan/downloads/pdf/latest/) ; [CKAN-ghid-developer](https://docs.ckan.org/en/latest/api/index.html#ckan-logic-action-get); [linked open data- Sabin Buraga](https://www.slideshare.net/busaco/arhitectura-aplicaiilor-rdf-iniiativa-lod-linked-open-data?from_action=download&slideshow_id=44344016); [metodologie publicare date deschise](https://data.gov.ro/uploads/page_images/2020-09-14-105420.013000Metodologie-date-deschisefeb2019-2.docx); [Suport Curs_Date-Deschise-SIPOCA36](https://insse.ro/cms/files/opendata/SuportCurs_Date-Deschise-SIPOCA36.pdf); [CKAN data api](https://data.gov.ro/en/api/1/util/snippet/api_info.html?resource_id=6ee318d9-2452-485c-9bb0-7a7626d7ad06);
   -  
