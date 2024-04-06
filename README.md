@@ -442,7 +442,7 @@ avand urmatoarea [schema de validare .xsd pt SAF-T(D406)](https://stefanache.git
 
 [Platforma inteligentă de raportare ANAF](https://www.smarttax.ro/) actuala se refera la 4-uplul format din [SAF-T](https://static.anaf.ro/static/10/Anaf/Informatii_R/220304_SAF-T_Ro_SchemaDefinitionCodes_v4_1_8_09032022.xlsx),e-Factura si r-Transport dar si [e-TVA](https://www.capital.ro/schimbari-e-factura-ro-e-transport-saf-t.html);Platforma este parte integranta a [digitalizarii raportarilor fiscale](https://www.startupcafe.ro/taxe/digitalizare-raportari-fiscale-2024-efactura-etransport-saft-etva.htm)
 
-Un [document util](https://static.anaf.ro/static/10/Anaf/Informatii_R/SAF_T_Ghidul_D406_1712021.pdf) este si acest [document de asistenta pt pregatirea D406/SAF-T](https://www.ceccarbusinessmagazine.ro/public/store/imagini/filemanager/source/pdf/SAFT_intrebari_frecv_raspunsuri_v1_1_071021.pdf)
+Un [document-2021 util](https://static.anaf.ro/static/10/Anaf/Informatii_R/SAF_T_Ghidul_D406_1712021.pdf) este si acest [document de asistenta pt pregatirea D406/SAF-T](https://www.ceccarbusinessmagazine.ro/public/store/imagini/filemanager/source/pdf/SAFT_intrebari_frecv_raspunsuri_v1_1_071021.pdf)
 
 Despre [D406/SAF-T](https://www.homecont.ro/declaratia-d406-saf-t-fisierul-standard-de-control-fiscal.htm) gasim o prezentare pe site-ul [fiscalitatea.ro](https://www.fiscalitatea.ro/saf-t-in-2023-anaf-a-pus-la-dispozitia-contribuabililor-22-de-teste-pentru-a-verifica-daca-d406-este-depusa-in-mod-corect-22514/)
 precum si pe [contabilul.manager.ro](https://contabilul.manager.ro/a/26360/obligatia-de-transmitere-a-declaratiei-informative-d406-saf-t-termene-categorii-vizate-si-exceptii.html)
