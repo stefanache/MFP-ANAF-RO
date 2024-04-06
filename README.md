@@ -155,6 +155,8 @@ Pentru generarea si validarea documentelor/rapoartelor fiscale pe care le veti t
 - [standardizari in contabilitate](https://www.conta-conta.ro/miscellaneous/887_miscellaneous_contabilitate_files%20887_.pdf)
 - [necesarul livrabil de date standardizate din adm.pub. - secretariatul guv.](https://sgg.gov.ro/1/wp-content/uploads/2010/01/Livrabilul-5.1_RO_Studiu-privind-necesarul-de-date-standardizate-privind-personalul-din-adm-pub.pdf)
 - [ghid audit SI - CCR](https://www.curteadeconturi.ro/uploads/b3578fec/2e705397/8f5ff376/123728f6/08da8783/a7cf8c9a/974875d0/4f7867de/GHID_AUDIT_IT_CCR_24102012.pdf)
+- [ghid INS editare date](https://insse.ro/cms/files/eurostat/Ghid_metodologic_editare_date.pdf)
+- 
 
 Aceste [nomenclatoare](https://happyweb.ro/articol/nomenclatoare-e-factura) se gasesc pe internet in documentatia [ANAF/MFP/BNR/GOV](https://www.anaf.ro/CompletareFactura/faces/factura/informatiigenerale.xhtml)..., in diverse tipuri/formate/containere [pdf](https://www.tatime.gov.al/shkarko.php?id=13418), [htm/html](https://lege5.ro/Gratuit/TrackChanges/geztanrsgmydq?type=1&by=geztcmrwgy3tm&d=20.12.2022), xml, [xlsx](https://ec.europa.eu/digital-building-blocks/wikis/download/attachments/467108974/EN16931%20code%20lists%20values%20used%20from%202020-11-15.xlsx?version=1&modificationDate=1639417211300&api=v2), csv, txt, [...](https://www.ditl3.ro/assets/clients/public/file/2023/contracte-facturi/Factura%20Apa%20Nova%2003.CL.2023.pdf) si, de la caz la caz, in limba romana si/sau limba engleza.
 
