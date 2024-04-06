@@ -90,7 +90,7 @@ Pentru generarea si validarea documentelor/rapoartelor fiscale pe care le veti t
 - [coduri SIRUTA](https://www.siruta.nxm.ro/),[coduri SIRUTA si UAT-uri pe judete](http://www.dpfbl.mdrap.ro/cod_siruta_uat-uri.html); a se vedea si o utilizare [Norma Urbanism 15/2024](https://legislatie.just.ro/Public/DetaliiDocument/270782)
 - [coduri postale](https://www.posta-romana.ro/cauta-cod-postal.html)
 - registul electoral [AEP](https://www.registrulelectoral.ro/)
-- 
+- registrul [REI](https://rei.gov.ro/)
 - ...nomenclatoare [INS](https://bucuresti.insse.ro/produse-si-servicii/nomenclatoare-statistice/)(Institutul National de Statistica) publicate pe portalul de date ale Guvernului( [DATA.GOV.RO](https://data.gov.ro/organization/institutul-national-de-statistica) )...[SIRUTA](https://bucuresti.insse.ro/produse-si-servicii/nomenclatoare-statistice/),[CAEN](https://www.pfa.whd.ro/codurile-cpsa-si-codurile-caen-rev-2),[CPSA](https://www.cpsa.nxm.ro/),TEMPO...
 - ...portalul [DATA.GOV.RO](https://data.gov.ro/) pune la dispozitie si o pagina pentru programatori/dezvoltatori([developers](https://data.gov.ro/pages/developers); atentie insa la autor si mai ales data publicarii!!!
 - 
