@@ -41,7 +41,7 @@ For more details please **[contact me](mailto:ion.stefanache@yahoo.com)** on:
 
 </details>
 
-## **[ANAF](https://www.anaf.ro/anaf/internet/ANAF/asistenta_contribuabili/legislatie/codul_fiscal/) autoritate fiscala; Introducere, Nomenclatoare, Registre...**
+## **[ANAF](https://www.anaf.ro/anaf/internet/ANAF/asistenta_contribuabili/legislatie/codul_fiscal/) autoritate fiscala; Introducere, Standardizari, Clasificari, Codificari, Nomenclatoare, Registre...**
 <details>
       
 Cateva informatii despre **inregistrarea fiscala** a unei firme/companii(**PJ**) puteti gasi si [**aici**](https://mfinante.gov.ro/persoane-juridice/informatii-fiscale-si-bilanturi) pe site-ul MFP;
