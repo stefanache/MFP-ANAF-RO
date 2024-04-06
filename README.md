@@ -146,7 +146,7 @@ Pentru generarea si validarea documentelor/rapoartelor fiscale pe care le veti t
 - [...](https://data.gov.ro/dataset?tags=nomenclator)
 - [nomenclatorul](https://en.wiktionary.org/wiki/nomenclator) [documentelor Nexus-ERP](https://www.docs.nexuserp.ro/articol/nomenclator-documente/2857)
 - [etc](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/Nomenclator_2016.htm)
-- nomenclatoare legte de [inspectia muncii](https://www.inspectiamuncii.ro/documents/66402/58760675/DocReGES-SolutieTehnicalv+6.0.9.pdf/ab4cf1c9-98e6-46a9-aa73-29d7d3007598)
+- nomenclatoare legte de [inspectia muncii](https://www.inspectiamuncii.ro/documents/66402/58760675/DocReGES-SolutieTehnicalv+6.0.9.pdf/ab4cf1c9-98e6-46a9-aa73-29d7d3007598); [ReGES](https://www.inspectiamuncii.ro/documents/66402/987817/DocReGES-SolutieTehnica_v2.6.pdf/e40db0ad-fc33-46da-9b66-d3aaa5c8cb0b) 2017 - Registrului General de Evidenţă a Salariaţilor
 - nomenclator [devize 2009](https://www.scribd.com/document/426054554/Nomenclator-devize-2009)
 - [registre de baza](https://lege5.ro/Gratuit/gi3dinrvgu4q/registre-de-baza-hotarare-908-2017-anexa-cadrul-national-de-interoperabilitate-3-modelul-conceptual-pentru-asigurarea-integrarii-serviciilor-publice-33-componentele-de-baza-ale-modelului-conceptual?dp=gi2tamrthe2tamq) H.908/2017
 - [GDPR](https://issuu.com/agoramedia/docs/catalog_cloud_2018_ed_9_gdpr_3_site)-catalog cloud 2018 ed.9_gdpr 3 site
