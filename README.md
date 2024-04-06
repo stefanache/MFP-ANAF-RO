@@ -149,6 +149,7 @@ Pentru generarea si validarea documentelor/rapoartelor fiscale pe care le veti t
 - nomenclatoare legte de [inspectia muncii](https://www.inspectiamuncii.ro/documents/66402/58760675/DocReGES-SolutieTehnicalv+6.0.9.pdf/ab4cf1c9-98e6-46a9-aa73-29d7d3007598)
 - nomenclator [devize 2009](https://www.scribd.com/document/426054554/Nomenclator-devize-2009)
 - [registre de baza](https://lege5.ro/Gratuit/gi3dinrvgu4q/registre-de-baza-hotarare-908-2017-anexa-cadrul-national-de-interoperabilitate-3-modelul-conceptual-pentru-asigurarea-integrarii-serviciilor-publice-33-componentele-de-baza-ale-modelului-conceptual?dp=gi2tamrthe2tamq) H.908/2017
+- [GDPR](https://issuu.com/agoramedia/docs/catalog_cloud_2018_ed_9_gdpr_3_site)-catalog cloud 2018 ed.9_gdpr 3 site
   
 
 Aceste [nomenclatoare](https://happyweb.ro/articol/nomenclatoare-e-factura) se gasesc pe internet in documentatia [ANAF/MFP/BNR/GOV](https://www.anaf.ro/CompletareFactura/faces/factura/informatiigenerale.xhtml)..., in diverse tipuri/formate/containere [pdf](https://www.tatime.gov.al/shkarko.php?id=13418), [htm/html](https://lege5.ro/Gratuit/TrackChanges/geztanrsgmydq?type=1&by=geztcmrwgy3tm&d=20.12.2022), xml, [xlsx](https://ec.europa.eu/digital-building-blocks/wikis/download/attachments/467108974/EN16931%20code%20lists%20values%20used%20from%202020-11-15.xlsx?version=1&modificationDate=1639417211300&api=v2), csv, txt, [...](https://www.ditl3.ro/assets/clients/public/file/2023/contracte-facturi/Factura%20Apa%20Nova%2003.CL.2023.pdf) si, de la caz la caz, in limba romana si/sau limba engleza.
