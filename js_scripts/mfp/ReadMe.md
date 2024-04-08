@@ -23,11 +23,11 @@ O serie de codificari/clasificari gasiti si pe site-ul[eCoduri](https://www.ecod
 [INS](https://data.gov.ro/dataset/siruta/resource/ed3f9ec6-8c12-4ba6-8688-74cadc69f14b) pune la toate versiunile si clasificarile pe care le utilizeza pe serverul lor [SENIN/IP=80.96.186.4:81](http://80.96.186.4:81/senin/classifications.htm?selectedClassification=&action=&classificationName=SIRUTA); Exista si un serviciu web oferit de [INSSE](https://webgis.insse.ro/servicii/rest/services/Operational/Localitati/MapServer/0) ce poate fi accesat folosind protocolul ArcGIS REST or SOAP;
 Pentru a putea livra un asemenea [serviciu de date spatiale](https://lege5.ro/gratuit/geztmojwg4zdc/normele-tehnice-pentru-realizarea-seturilor-de-date-spatiale-aferente-planurilor-de-amenajare-a-teritoriului-judetean-din-15052023) veti avea nevoie de un server ArcGIS; Interesant este si acest [manual INS](https://insse.ro/cms/files/site_podca/actualizari/manual_preview%208.pdf)(cautati dupa cuvantul ***SIRUTA*** pentru a descoperi legautura cu acest nomenclator); 
 
-Iata si unde ne este necesar [SIRUTA](https://smartcash.community/cum-sa-ma-pregatesc-pentru-e-factura-si-e-transport/)
+Iata si unde nu este necesar [SIRUTA](https://smartcash.community/cum-sa-ma-pregatesc-pentru-e-factura-si-e-transport/)
 
 Puteti gasi [SIRUTA](http://80.96.186.4:81/senin/classifications.htm?selectedClassification=&action=&classificationName=SIRUTA)(inclusiv CAEN si CPSA) pe server-ul [SENIN](http://80.96.186.4:81/senin/classifications.htm?selectedClassification=CPSA2008&action=structure) al [INSSE](https://bucuresti.insse.ro/produse-si-servicii/nomenclatoare-statistice/) dar si pe site-ul european puteti sa gasiti de asemena versiuni al [SIRUTA](https://data.europa.eu/data/datasets/9f38f6fe-66a0-4e93-ae24-4272b91c9849?locale=es)
 
-Daca doriti date spatiale atunci puteti consulta variantele expuse pe site-ul [ANCPI ](https://geo-spatial.org/vechi/download/romania-seturi-vectoriale)
+Daca doriti [date spatiale](https://geo-spatial.org/proiecte/alegeri2019/part5.html) atunci puteti consulta variantele expuse pe site-ul [ANCPI ](https://geo-spatial.org/vechi/download/romania-seturi-vectoriale) - a se vedea [constructia hartii electorale-AEP pas cu pas](https://geo-spatial.org/proiecte/alegeri2019/part2.html) deoarece constituie un bun exemplu pentru voi atunci cand veti dori sa folositi aceste date/limite geografice spatiale in proiectele dumneavoastra de intreprindere si nu numai.
 
 Aceasta analiza "Sectorul non-profit românesc: date existente, infrastructura de colectare, utilizarea datelor și posibile soluții de eficientizare " poate fi utila pentru [link-urile oferite](https://rafonline.org/wp-content/uploads/2023/01/Raport-infrastructuradate-sector-ONG_FDSC-2021-compressed.pdf).
 
