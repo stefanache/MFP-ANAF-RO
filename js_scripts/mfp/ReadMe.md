@@ -58,5 +58,5 @@ Trebuie stiut si faptul ca [**SIRUTA**](https://www.savastan.ro/noutati.htm) est
 
 Daca vreti sa aflati CUI-ul unei firme(PJ) si nu stiti decat ca este inregistrata intr-un ***judet*** anume si desigur ii stiti ***denumirea*** atunci puteti apela la aplicatia online a [**MFP**](https://mfinante.gov.ro/info-pj-selectie-nume-si-judet)
 
-Nomenclatorul Combinat de **bunuri**(***produse*** si ***servicii***) a ajuns in **2024** la versiunea **8**([**NC8**](https://nc8.nxm.ro/))
+[**Nomenclatorul Combinat**](https://data.europa.eu/data/datasets/?locale=ro&dataScope=countryData&country=countryData&query=NC8&page=1) de **bunuri**(***produse*** si ***servicii***) a ajuns in **2024** la versiunea **8**([**NC8**](https://nc8.nxm.ro/))
 
