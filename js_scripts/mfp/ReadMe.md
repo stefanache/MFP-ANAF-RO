@@ -27,6 +27,8 @@ Iata si unde nu este necesar [SIRUTA](https://smartcash.community/cum-sa-ma-preg
 
 Puteti gasi [SIRUTA](http://80.96.186.4:81/senin/classifications.htm?selectedClassification=&action=&classificationName=SIRUTA)(inclusiv CAEN si CPSA) pe server-ul [SENIN](http://80.96.186.4:81/senin/classifications.htm?selectedClassification=CPSA2008&action=structure) al [INSSE](https://bucuresti.insse.ro/produse-si-servicii/nomenclatoare-statistice/) dar si pe site-ul [european](https://data.europa.eu/data/datasets/?locale=ro) puteti sa gasiti de asemena versiuni al [SIRUTA](https://data.europa.eu/data/datasets/9f38f6fe-66a0-4e93-ae24-4272b91c9849?locale=es)
 
+    De pe site-ul european https://data.europa.eu/data/datasets/?locale=ro puteti descarca(cautati cea mai recenta versiune) printe altele:
+    
     CPSA 2008 este versiunea românească a clasificării la nivel european CPA 2008 (standard UE) și CPC versiunea 2 (standard ONU).
     
     CAEN Rev.2 este clasificarea activităților economice cu NACE Rev.2 (standard UE) și ISIC Rev.4 (standard ONU) la nivel național. 
