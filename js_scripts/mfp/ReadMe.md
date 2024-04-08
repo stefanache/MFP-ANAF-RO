@@ -25,7 +25,7 @@ Pentru a putea livra un asemenea [serviciu de date spatiale](https://lege5.ro/gr
 
 Iata si unde ne este necesar [SIRUTA](https://smartcash.community/cum-sa-ma-pregatesc-pentru-e-factura-si-e-transport/)
 
-Puteti gasi [SIRUTA](http://80.96.186.4:81/senin/classifications.htm?selectedClassification=&action=&classificationName=SIRUTA)(inclusiv CAEN si CPSA) de pe server-ul SENIN al acestora dar si pe site-ul european puteti sa gasiti de asemena versiuni al [SIRUTA](https://data.europa.eu/data/datasets/9f38f6fe-66a0-4e93-ae24-4272b91c9849?locale=es)
+Puteti gasi [SIRUTA](http://80.96.186.4:81/senin/classifications.htm?selectedClassification=&action=&classificationName=SIRUTA)(inclusiv CAEN si CPSA) de pe server-ul [SENIN](http://80.96.186.4:81/senin/classifications.htm?selectedClassification=CPSA2008&action=structure) al acestora dar si pe site-ul european puteti sa gasiti de asemena versiuni al [SIRUTA](https://data.europa.eu/data/datasets/9f38f6fe-66a0-4e93-ae24-4272b91c9849?locale=es)
 
 Daca doriti date spatiale atunci puteti consulta variantele expuse pe site-ul [ANCPI ](https://geo-spatial.org/vechi/download/romania-seturi-vectoriale)
 
