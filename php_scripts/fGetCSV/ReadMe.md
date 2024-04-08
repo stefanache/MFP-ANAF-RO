@@ -5,3 +5,5 @@ Am descarcat ***manual***(desi daca url-ul este facut public se poate descarca p
 apoi am scris un script bazat pe functia PhP **fgetCSV** pentru a citi fisierul anterior descarcat.
 
 Am postat aici micul script PhP **index.php** pentru a-l putea testa si voi pe un ***webserver Apache***(care desigur suporta PhP) al unui ***XAMPP*** instalat in ***Windows 10 Home/Pro***.
+
+Mai multe detalii gasiti in sectiunea [***js-scripts***](https://github.com/stefanache/MFP-ANAF-RO/tree/main/js_scripts/mfp);
