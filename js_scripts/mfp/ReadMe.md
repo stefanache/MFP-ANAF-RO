@@ -39,7 +39,10 @@ Puteti gasi [SIRUTA](http://80.96.186.4:81/senin/classifications.htm?selectedCla
         -localități.
     
     Machete cuprinzand codurile SIRUTA pentru cele 3222 de unitati administrativ-teritoriale, respectiv cele 6 subdiviziuni ale unitatilor administrativ-teritoriale (sectoarele municipiului Bucuresti). 
-    In primul sheet al fisierului Excel se regasesc codurile SIRUTA pentru toata tara, iar in sheet-urile urmatoare se regasesc codurile SIRUTA pentru UAT-urile din fiecare judet in parte, respectiv municipiul Bucuresti
+    In primul sheet al fisierului Excel se regasesc codurile SIRUTA pentru toata tara, iar 
+    in sheet-urile urmatoare se regasesc codurile SIRUTA pentru UAT-urile din 
+        fiecare judet in parte, 
+        respectiv municipiul Bucuresti
 
 
 Daca doriti [date spatiale](https://geo-spatial.org/proiecte/alegeri2019/part5.html) atunci puteti consulta variantele expuse pe site-ul [ANCPI ](https://geo-spatial.org/vechi/download/romania-seturi-vectoriale) - a se vedea [constructia hartii electorale-AEP&BEC pas cu pas](https://geo-spatial.org/proiecte/alegeri2019/part2.html) deoarece constituie un bun exemplu pentru voi atunci cand veti dori sa folositi aceste date/limite geografice spatiale in proiectele dumneavoastra de intreprindere si nu numai; In plus tot aici puteti vedea ca SIRUTA joaca un rol important atunci cand doriti sa va referiti la UAT-uri; de altfel pe site-ul [geo-spatial](https://geo-spatial.org/) puteti gasi [proiecte](https://geo-spatial.org/#despre) deosebit de interesante; unul dintre aceste proiecte este si proiectul colaborativ de colectare a [datelor de contact](https://docs.google.com/spreadsheets/d/1w-LlAOq8awziuYhuVH8d9H08FcdYNENw37rJk2Tmx3Q/edit?pli=1#gid=53477816) ale primariilor din Romania; tot [aici](https://github.com/geospatialorg) pe portalul [geo-spatial](https://geo-spatial.org/) gasiti si informatii utile despre servicile web/online [WMS si WFS](https://geo-spatial.org/vechi/download/seturi-date-geospatiale-locale) de harta; Puteti accesa si sectiunea [***php_scripts/fGetCSV***](https://github.com/stefanache/MFP-ANAF-RO/tree/main/php_scripts/fGetCSV) pentru a vedea cum puteti citi in ***PhP*** un fisier [**csv**](https://stefanache.github.io/MFP-ANAF-RO/php_scripts/fGetCSV/date_de_contact_localitati.csv)
