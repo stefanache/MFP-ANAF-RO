@@ -53,7 +53,7 @@ Aceasta analiza "Sectorul non-profit românesc: date existente, infrastructura d
 
 Legat de [SIRUTA](https://insse.ro/cms/sites/default/files/field/publicatii/tendinte_sociale_2.pdf) mai gasiti si acest document(ceva mai vechi dar interesant)pe site-ul [MDLPA](https://www.mdlpa.ro/uploads/articole/attachments/64d0a28762583720581068.pdf)
 
-Trebuie stiut si faptul ca [**SIRUTA**](https://www.savastan.ro/noutati.htm) este corelat cu [**NUTS**](https://www.europarl.europa.eu/factsheets/ro/sheet/99/nomenclatorul-comun-al-unitatilor-teritoriale-de-statistica-nuts-)
+Trebuie stiut si faptul ca [**SIRUTA**](https://www.savastan.ro/noutati.htm) este corelat cu [**NUTS**](https://www.europarl.europa.eu/factsheets/ro/sheet/99/nomenclatorul-comun-al-unitatilor-teritoriale-de-statistica-nuts-) - Nomenclatorul comun al unităților teritoriale de statistică(NUTS)
 
 Daca vreti sa aflati CUI-ul unei firme(PJ) si nu stiti decat ca este inregistrata intr-un ***judet*** anume si desigur ii stiti ***denumirea*** atunci puteti apela la aplicatia online a [**MFP**](https://mfinante.gov.ro/info-pj-selectie-nume-si-judet)
 
