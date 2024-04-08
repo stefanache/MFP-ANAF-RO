@@ -148,7 +148,7 @@ Pentru generarea si validarea documentelor/rapoartelor fiscale pe care le veti t
 - [nomenclator produse de uz veterinar](http://www.icbmv.ro/ro/nomenclator-produse); 
 - [nomenclator DAMB de specii si rase(A.E)](http://www.damb.ro/nomenclatoare-a-e/10/03/2022/)
 - [nomenclatoare](https://www.onpcsb.ro/uploads/articole/attachments/644b9576b9f8d119925403.pdf) [ONPCB](https://www.onpcsb.ro)
-- [nomenclator ONPCSB entitati raportoare](https://www.onpcsb.ro/uploads/articole/attachments/649e99f8897b1500977073.pdf);[lista entitati publice](https://data.gov.ro/dataset/lista-entitatilor-publice-actualizata-la-01-03-2024-898_/resource/758c0c66-50ae-4613-95cd-cfa28ed2d4a0);
+- [nomenclator ONPCSB entitati raportoare](https://www.onpcsb.ro/uploads/articole/attachments/649e99f8897b1500977073.pdf);[lista entitati/institutii publice](https://data.gov.ro/dataset/lista-entitatilor-publice-actualizata-la-01-03-2024-898_/resource/758c0c66-50ae-4613-95cd-cfa28ed2d4a0);
 - [nomenclatoul operatiunilor valutare](https://legislatie.just.ro/Public/DetaliiDocumentAfis/228281)
 - [...](https://data.gov.ro/dataset?tags=nomenclator)
 - [nomenclatorul](https://en.wiktionary.org/wiki/nomenclator) [documentelor Nexus-ERP](https://www.docs.nexuserp.ro/articol/nomenclator-documente/2857)
