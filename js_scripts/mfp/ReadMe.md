@@ -60,3 +60,7 @@ Daca vreti sa aflati CUI-ul unei firme(PJ) si nu stiti decat ca este inregistrat
 
 [**Nomenclatorul Combinat**](https://data.europa.eu/data/datasets/?locale=ro&dataScope=countryData&country=countryData&query=NC8&page=1) de **bunuri**(***produse*** si ***servicii***) a ajuns in **2024** la versiunea **8**([**NC8**](https://nc8.nxm.ro/))
 
+Casa de Sanate Nationala(CASAN) cea care se ocupa/administreaza de domeniul medical , a postat un set de [**Nomenclatoare**](Casa de Sanate Nationala(CASAN)) valabile pentru **SIUI**.
+
+
+
