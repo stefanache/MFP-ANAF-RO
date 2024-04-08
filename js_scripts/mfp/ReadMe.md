@@ -31,7 +31,9 @@ Puteti gasi [SIRUTA](http://80.96.186.4:81/senin/classifications.htm?selectedCla
     
     CAEN Rev.2 este clasificarea activităților economice cu NACE Rev.2 (standard UE) și ISIC Rev.4 (standard ONU) la nivel național. 
     De la bun început, clasificarea a fost construită în acord cu cea europeană și raspunzând nevoilor economiei românești.
-    Registrul unităților administrativ-teritoriale a României Registrul este organizat ierarhic pe trei nivele: 
+    
+    Registrul unităților administrativ-teritoriale a României: SIRUTA.
+    Registrul este organizat ierarhic pe trei nivele: 
         -judet, 
         -unități administrative teritoriale: UAT-uri(municipii, orase, comune) și 
         -localități.
