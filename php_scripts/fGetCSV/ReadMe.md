@@ -6,4 +6,4 @@ apoi am scris un script bazat pe functia PhP **fgetCSV** pentru a citi fisierul 
 
 Am postat aici micul script PhP **index.php** pentru a-l putea testa si voi pe un ***webserver Apache***(care desigur suporta PhP) al unui ***XAMPP*** instalat in ***Windows 10 Home/Pro***.
 
-Mai multe detalii gasiti in sectiunea [***js_scripts***](https://github.com/stefanache/MFP-ANAF-RO/tree/main/js_scripts/mfp);
+Mai multe detalii gasiti in sectiunea [***js_scripts/MFP***](https://github.com/stefanache/MFP-ANAF-RO/tree/main/js_scripts/mfp);
