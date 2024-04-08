@@ -60,6 +60,8 @@ Daca vreti sa aflati CUI-ul unei firme(PJ) si nu stiti decat ca este inregistrat
 
 [**Nomenclatorul Combinat**](https://data.europa.eu/data/datasets/?locale=ro&dataScope=countryData&country=countryData&query=NC8&page=1) de **bunuri**(***produse*** si ***servicii***) a ajuns in **2024** la versiunea **8**([**NC8**](https://nc8.nxm.ro/))
 
+**MFP** are o pagina pe site-ul **AVR** despre [**Nomenclatura Sistemului Armonizat**] ce cuprinde informatii despre [***Incadrarea Vamala Tarifara***](https://www.customs.ro/agenti-economici/incadrare-tarifara);
+
 Casa de Sanate Nationala(**CNAS**) cea care se ocupa/administreaza de domeniul medical , a postat un set de [**Nomenclatoare**](Casa de Sanate Nationala(CASAN)) valabile pentru **SIUI**.
 
 
