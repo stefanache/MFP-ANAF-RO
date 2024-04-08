@@ -46,6 +46,7 @@ Puteti gasi [SIRUTA](http://80.96.186.4:81/senin/classifications.htm?selectedCla
         fiecare judet in parte, 
         respectiv municipiul Bucuresti
 
+    NC8 este Nomenclatorul Combinat(pentru bunuri: produse si servicii) - versiunea 8
 
 Daca doriti [date spatiale](https://geo-spatial.org/proiecte/alegeri2019/part5.html) atunci puteti consulta variantele expuse pe site-ul [ANCPI ](https://geo-spatial.org/vechi/download/romania-seturi-vectoriale) - a se vedea [constructia hartii electorale-AEP&BEC pas cu pas](https://geo-spatial.org/proiecte/alegeri2019/part2.html) deoarece constituie un bun exemplu pentru voi atunci cand veti dori sa folositi aceste date/limite geografice spatiale in proiectele dumneavoastra de intreprindere si nu numai; In plus tot aici puteti vedea ca SIRUTA joaca un rol important atunci cand doriti sa va referiti la UAT-uri; de altfel pe site-ul [geo-spatial](https://geo-spatial.org/) puteti gasi [proiecte](https://geo-spatial.org/#despre) deosebit de interesante; unul dintre aceste proiecte este si proiectul colaborativ de colectare a [datelor de contact](https://docs.google.com/spreadsheets/d/1w-LlAOq8awziuYhuVH8d9H08FcdYNENw37rJk2Tmx3Q/edit?pli=1#gid=53477816) ale primariilor din Romania; tot [aici](https://github.com/geospatialorg) pe portalul [geo-spatial](https://geo-spatial.org/) gasiti si informatii utile despre servicile web/online [WMS si WFS](https://geo-spatial.org/vechi/download/seturi-date-geospatiale-locale) de harta; Puteti accesa si sectiunea [***php_scripts/fGetCSV***](https://github.com/stefanache/MFP-ANAF-RO/tree/main/php_scripts/fGetCSV) pentru a vedea cum puteti citi in ***PhP*** un fisier [**csv**](https://stefanache.github.io/MFP-ANAF-RO/php_scripts/fGetCSV/date_de_contact_localitati.csv)
 
@@ -56,4 +57,6 @@ Legat de [SIRUTA](https://insse.ro/cms/sites/default/files/field/publicatii/tend
 Trebuie stiut si faptul ca [**SIRUTA**](https://www.savastan.ro/noutati.htm) este corelat cu [**NUTS**](https://www.europarl.europa.eu/factsheets/ro/sheet/99/nomenclatorul-comun-al-unitatilor-teritoriale-de-statistica-nuts-) - Nomenclatorul comun al unităților teritoriale de statistică([NUTS](https://data.europa.eu/data/datasets/?locale=ro&query=NUTS&page=1))
 
 Daca vreti sa aflati CUI-ul unei firme(PJ) si nu stiti decat ca este inregistrata intr-un ***judet*** anume si desigur ii stiti ***denumirea*** atunci puteti apela la aplicatia online a [**MFP**](https://mfinante.gov.ro/info-pj-selectie-nume-si-judet)
+
+Nomenclatorul Combinat de **bunuri**(***produse*** si ***servicii***) a ajuns in **2024** la versiunea **8**([**NC8**](https://nc8.nxm.ro/))
 
