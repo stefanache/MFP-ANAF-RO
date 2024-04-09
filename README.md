@@ -230,7 +230,7 @@ Aceste [nomenclatoare](https://happyweb.ro/articol/nomenclatoare-e-factura) se g
 Pentru cei grabiti [reddit](https://www.reddit.com/r/programare/comments/18c3bg8/implementare_serviciu_efactura/) a pus la dispozitie cateva URL-uri utile legate de [ANAF](https://www.startupcafe.ro/taxe/e-factura-ministru-bolos-vina-pe-greseli-fac-utilizatorii.htm): 
 <details>
 
-          ...pentru inceput cateva [link](https://mfinante.gov.ro/despre-minister/-/asset_publisher/uwgr/content/ghidul-e-factura.-ce-trebuie-s-c4-83-c8-99tie-contribuabilii-pentru-a-emite-c8-99i-prelua-facturi-electronice)-uri interne/nationale:
+...pentru inceput cateva [link](https://mfinante.gov.ro/despre-minister/-/asset_publisher/uwgr/content/ghidul-e-factura.-ce-trebuie-s-c4-83-c8-99tie-contribuabilii-pentru-a-emite-c8-99i-prelua-facturi-electronice)-uri interne/nationale:
           
 - 01. URL [Api incarcare](https://mfinante.gov.ro/static/10/eFactura/upload.html) Factura - https://mfinante.gov.ro/static/10/eFactura/upload.html
 
