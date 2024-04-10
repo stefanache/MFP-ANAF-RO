@@ -39,7 +39,7 @@ Desigur puteti cauta acest nomenclator **SIRUTA** si pe [data.gov.ro](https://da
 
 Puteti afla mai multe depre aceste 2 nomenclatoare CAEN si CPSA folosind aceasta [cautare simpla google](https://www.google.com/search?q=caen+cpsa&rlz=1C1JJTC_enRO1087RO1087&oq=CAEN&gs_lcrp=EgZjaHJvbWUqCAgAEEUYJxg7MggIABBFGCcYOzIGCAEQRRg5Mg8IAhAuGEMYsQMYgAQYigUyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgAQyBwgJEAAYgATSAQkzMTkxajBqMTWoAgiwAgE&sourceid=chrome&ie=UTF-8#ip=1)
 
-Pentru cei interesati privind raportarea *INTRASTAT* (varianta ***offline***) puteti gasi aici [ghidul PDF 2021](http://www.intrastat.ro/doc/Ghid_offline_2021.pdf).
+Pentru cei interesati privind raportarea [*INTRASTAT*](http://www.intrastat.ro/) (varianta ***offline***) puteti gasi aici [ghidul PDF 2021](http://www.intrastat.ro/doc/Ghid_offline_2021.pdf).
 
 Pentru a afla ce este [*SAF-T/D406*](https://www.anaf.ro/anaf/internet/ANAF/despre_anaf/strategii_anaf/proiecte_digitalizare/saf_t/!ut/p/a1/jZBBDoIwEEVPw5Z-QEh1h0ZBdAEkROzGgKmFBCgBlOurrCRRsLvpvJf5M4SRmLAqeeQi6XJZJcW7ZtbF1VzL1anu0V2wQRBqx619AECtF3D-BOAGQGCu96Hp-MDSGPvjtrPAjA_rPx8_no25_CfCpkYMG0wC74gDMJHBI0wUMh3uebar1KCCsIbfeMMb9d68vrOuq9uVAgV936tCSlFw9SpLBd-UTLYdicckqcsoipH75Ym2Tyfc9Wo!/dl5/d5/L2dBISEvZ0FBIS9nQSEh/) puteti citi aceasta [definitie]((https://nextup.ro/integrare-saf-t-in-nextup-erp/?gad_source=1&gclid=Cj0KCQjwztOwBhD7ARIsAPDKnkARGJwteNR7o6e2rQYQYMlDEpXQnlTnJ2OTOzzKLkI8xMJtUfTJLKsaAsUVEALw_wcB)) data de cei de la **nextup**.
 
