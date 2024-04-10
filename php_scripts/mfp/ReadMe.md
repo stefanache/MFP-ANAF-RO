@@ -41,4 +41,5 @@ Puteti afla mai multe depre aceste 2 nomenclatoare CAEN si CPSA folosind aceasta
 
 Pentru cei interesati privind raportarea *INTRASTAT* (varianta ***offline***) puteti gasi aici [ghidul PDF 2021](http://www.intrastat.ro/doc/Ghid_offline_2021.pdf).
 
+Pentru a afla ce este [*SAF-T/D406*](https://nextup.ro/integrare-saf-t-in-nextup-erp/?gad_source=1&gclid=Cj0KCQjwztOwBhD7ARIsAPDKnkARGJwteNR7o6e2rQYQYMlDEpXQnlTnJ2OTOzzKLkI8xMJtUfTJLKsaAsUVEALw_wcB) puteti gasi aici o definitie data de cei de la **nextup**
 
