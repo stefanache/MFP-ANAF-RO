@@ -43,5 +43,5 @@ Pentru cei interesati privind raportarea *INTRASTAT* (varianta ***offline***) pu
 
 Pentru a afla ce este [*SAF-T/D406*](https://www.anaf.ro/anaf/internet/ANAF/despre_anaf/strategii_anaf/proiecte_digitalizare/saf_t/!ut/p/a1/jZBBDoIwEEVPw5Z-QEh1h0ZBdAEkROzGgKmFBCgBlOurrCRRsLvpvJf5M4SRmLAqeeQi6XJZJcW7ZtbF1VzL1anu0V2wQRBqx619AECtF3D-BOAGQGCu96Hp-MDSGPvjtrPAjA_rPx8_no25_CfCpkYMG0wC74gDMJHBI0wUMh3uebar1KCCsIbfeMMb9d68vrOuq9uVAgV936tCSlFw9SpLBd-UTLYdicckqcsoipH75Ym2Tyfc9Wo!/dl5/d5/L2dBISEvZ0FBIS9nQSEh/) puteti citi aceasta [definitie]((https://nextup.ro/integrare-saf-t-in-nextup-erp/?gad_source=1&gclid=Cj0KCQjwztOwBhD7ARIsAPDKnkARGJwteNR7o6e2rQYQYMlDEpXQnlTnJ2OTOzzKLkI8xMJtUfTJLKsaAsUVEALw_wcB)) data de cei de la **nextup**.
 
-Despre [eTransport](https://static.anaf.ro/static/3/Anaf/20240222161809_cp%20etransport.pdf) puteti citi o [prezentare MFP](https://mfinante.gov.ro/ro/web/etransport)
+Despre [eTransport](https://static.anaf.ro/static/3/Anaf/20240222161809_cp%20etransport.pdf) puteti citi o [prezentare MFP](https://mfinante.gov.ro/ro/web/etransport) dar si [chestionarul ANAF](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/Ro_e_Transport.pdf)
 
