@@ -39,4 +39,6 @@ Desigur puteti cauta acest nomenclator **SIRUTA** si pe [data.gov.ro](https://da
 
 Puteti afla mai multe depre aceste 2 nomenclatoare CAEN si CPSA folosind aceasta [cautare simpla google](https://www.google.com/search?q=caen+cpsa&rlz=1C1JJTC_enRO1087RO1087&oq=CAEN&gs_lcrp=EgZjaHJvbWUqCAgAEEUYJxg7MggIABBFGCcYOzIGCAEQRRg5Mg8IAhAuGEMYsQMYgAQYigUyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgAQyBwgJEAAYgATSAQkzMTkxajBqMTWoAgiwAgE&sourceid=chrome&ie=UTF-8#ip=1)
 
+Pentru cei interesati privind raportarea INTRASTAT (varianta offline) puteti gasi aici [ghidul PDF 2021](http://www.intrastat.ro/doc/Ghid_offline_2021.pdf).
+
 
