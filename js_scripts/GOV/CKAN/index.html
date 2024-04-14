@@ -20,15 +20,7 @@
    <button onclick="onClickButton()">Get resource</button>
   
    <script>
-     function getData(api_data_gov,api_key,res_id,offset,limit) {
-        url="https://" + api_data_gov + "/resource/" + res_id + "?api_key=" + api_key + "&format=json&offset=" + offset + "&limit=" + limit;
-        console.log(url);
-        fetch(url).then(response => {
-             return response.json();
-        }).then(json => {
-           console.log(`Data length from offset #${offset}: `, JSON.stringify(json).length);
-        });
-    }    
+ 
     function onClickButton(event) {
 	    const url= "https://data.gov.ro/en/api/3/action/datastore_search?limit=5&q=jones&resource_id=6ee318d9-2452-485c-9bb0-7a7626d7ad06";
 	    const headers = {
