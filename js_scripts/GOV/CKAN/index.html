@@ -22,10 +22,20 @@
    <script>
  
    async function onClickButton(event) {
+	   /*
 	        const endpoint = 'https://data.gov.ro/api/3/action/package_list';//'https://data.gov.ro/en/api/3/action/datastore_search?limit=5&q=jones&resource_id=6ee318d9-2452-485c-9bb0-7a7626d7ad06';
    		response = await fetch(endpoint,{'mode': 'no-cors'}).then(res => JSON.stringify(res));
 	   alert(response );
    		console.log( response ); 
+     	*/
+	       $.ajax({
+        //url: "https://data.gov.ro/api/3/action/package_list",
+        url: "https://data.gov.ro/en/api/3/action/datastore_search?limit=5&q=jones&resource_id=6ee318d9-2452-485c-9bb0-7a7626d7ad06",
+        dataType: "jsonp",
+        success: function(response) {
+            parseResults(response.result)
+        },
+    })
     }
    </script>
  </body>
