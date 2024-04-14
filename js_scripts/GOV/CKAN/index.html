@@ -84,26 +84,13 @@
           },
         });
         */
-	/*
+	    
 	//url="https://stefanache.github.io/MFP-ANAF-RO/js_scripts/GOV/CKAN/data_gov_ro_res_id_6ee318d9-2452-485c-9bb0-7a7626d7ad06.json";
 	url="webservicesp.anaf.ro/bilant";
 	//console.log(url);	    
 	var myRequest = new Request(url);//GET
 	console.log(myRequest)
- 	*/
-        var data = {
-          resource_id: '99815196-a6e4-4e64-b691-d281dcf54950', // the resource id
-          limit: 5, // get 5 results
-          q: 'jones' // query for 'jones'
-        };
-        $.ajax({
-          url: 'https://data.gov.ro/ro/api/3/action/datastore_search',
-          data: data,
-          dataType: 'jsonp',
-          success: function(data) {
-            alert('Total results found: ' + data.result.total)
-          }
-        });	    
+	    
      }   
    </script>
  </body>
