@@ -4,6 +4,6 @@ Am descarcat ***manual***(desi daca url-ul este facut public se poate descarca p
 
 apoi am scris un script bazat pe functia PhP **fgetCSV** pentru a citi fisierul anterior descarcat.
 
-Am postat aici micul script PhP **index.php** pentru a-l putea testa si voi pe un ***webserver Apache***(care desigur suporta PhP) al unui ***XAMPP*** instalat in ***Windows 10 Home/Pro***.
+Am postat aici micul script PhP **index.php** pentru a-l putea testa si voi pe un ***webserver Apache***(care desigur suporta PhP) al unui [***XAMPP***](https://www.docs.nexuserp.ro/articol/instalare-xampp/3684) instalat in ***Windows 10 Home/Pro***.
 
 Mai multe detalii despre [**geo-spatial.org**](https://github.com/geospatialorg) si despre [proiectul](https://geo-spatial.org/#despre) colaborativ de colectare a [**datelor de contact**](https://docs.google.com/spreadsheets/d/1w-LlAOq8awziuYhuVH8d9H08FcdYNENw37rJk2Tmx3Q/edit#gid=53477816) ale ***primariilor/UAT-urilor*** din ***localitatile de resedinta*** puteti gasi in sectiunea [***js_scripts/MFP***](https://github.com/stefanache/MFP-ANAF-RO/tree/main/js_scripts/mfp);
