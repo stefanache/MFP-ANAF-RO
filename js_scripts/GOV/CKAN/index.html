@@ -23,7 +23,7 @@
  
    async function onClickButton(event) {
 	        const endpoint = 'https://data.gov.ro/en/api/3/action/datastore_search?limit=5&q=jones&resource_id=6ee318d9-2452-485c-9bb0-7a7626d7ad06';
-   		response = await fetch(endpoint,{'mode': 'no-cors'}).then(res => res.json());
+   		response = await fetch(endpoint,{'mode': 'no-cors'}).then(res => res.jsonp());
    		console.log( response ); 
     }
    </script>
