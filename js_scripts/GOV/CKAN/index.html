@@ -30,66 +30,14 @@
         });
     }    
     function onClickButton(event) {
-	/*
-        api_data_gov="api.data.gov.in";
-        api_key="579b464db66ec23bdd000001cdd3946e44ce4aad7209ff7b23ac571b";
-        res_id="386ce542-8e39-4c4c-98e0-ddc28c2b5c56";
-        // Call for a few offsets.
-        let offsets = [0,1,2,3,4];      
-        offsets.forEach(offset => getData(api_data_gov, api_key,res_id,offset, 10));
-        var data = {
-          resource_id: '6ee318d9-2452-485c-9bb0-7a7626d7ad06', // the resource id
-          limit: 5, // get 5 results
-          q: 'jones' // query for 'jones'
-        };
-	*/
-	
-	/*
-        //url='https://data.gov.ro/en/api/3/action/datastore_search';
-        //res_id="57abf39a-82e7-422b-b2ec-a7bfb39d67f5";
-        //api_data_gov="data.gov.ro";
-        //url="https://" + api_data_gov + "/ro/api/3/action/datastore_search?q=jones&resource_id=" + res_id;
-	const headers = {
-	      'Accept': 'application/json',
-	      'Accept-Language': 'en-US,en;q=0.7,ro;q=0.3',
-	      'Connection': 'keep-alive',
-	      'Referer': 'https://data.gov.ro',
-	      'Content-Type': 'application/json',
-	};	    
-        fetch(url, {
-			method: 'GET',
-			withCredentials: false, 
-			crossorigin: true,
-			mode: 'no-cors',
-			headers: headers,
-		   }
-		).then(response => {
-		console.log(response);
-             return response.json()
-        }).then(json => {
-           //console.log(`Data length from offset #${offset}: `, JSON.stringify(json).length);
-           parseResults(json.result)
-        }); 
-       
-	
-        $.ajax({
-          url: url,
-          //data: data,
-          //dataType: 'jsonp',
-          //sync: true,
-          success: function(response) {
-	    console.log(response);
-	    console.log(response.result);
-            parseResults(response.result)
-          },
-        });
-        */
-	    
-	//url="https://stefanache.github.io/MFP-ANAF-RO/js_scripts/GOV/CKAN/data_gov_ro_res_id_6ee318d9-2452-485c-9bb0-7a7626d7ad06.json";
-	url="webservicesp.anaf.ro/bilant";
-	//console.log(url);	    
-	var myRequest = new Request(url);//GET
-	console.log(myRequest)
+	    $.ajax({
+	        //        url: "https://data.gov.ro/api/3/action/package_list",
+	        url: "https://data.gov.ro/en/api/3/action/datastore_search?limit=5&q=jones&resource_id=6ee318d9-2452-485c-9bb0-7a7626d7ad06",
+	        dataType: "jsonp",
+	        success: function(response) {
+	            parseResults(response.result)
+	        },
+	    })
 	    
      }   
    </script>
