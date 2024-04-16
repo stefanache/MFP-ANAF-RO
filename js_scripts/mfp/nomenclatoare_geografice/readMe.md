@@ -38,4 +38,4 @@ Pentru cei care sunt la [inceput de drum](https://www.didactic.ro/resurse-educat
 
 [Semnificatia campurilor](https://www.siruta.nxm.ro/) care apar in [nomenclatorul](https://ioisrl.ro/coduri-siruta-2024/) [**SIRUTA**](https://insse.ro/cms/files/siruta/Metodologie.doc) o puteti gasi bineinteles la [***INS***](https://insse.ro/cms/files/siruta/5.Descriere_SIRUTA.DOC) deoarece acest institut se ocupa de intretinerea acestui [nomenclator](https://data.gov.ro/dataset/ce2dbfdc-b2bc-4fc2-8597-1a9144f2fc1d/resource/6772b5e3-2444-4bf2-8dcb-162fce602d28/download/machetecodsirutasiuatpejudete.xls).
 
-Referitor la campul [SIRSUP](https://github.com/geospatialorg/scripturi-actualizare-vectori/tree/master)(cod SIRUTA superior/parinte) am gasit aceasta dicutie pe forumul [topograf-online](https://www.topograf-online.ro/index.php?topic=405.0)
+Referitor la campul [SIRSUP](https://github.com/geospatialorg/scripturi-actualizare-vectori/tree/master)(cod [SIRUTA](https://ro.wikipedia.org/wiki/SIRUTA) superior/parinte) am gasit aceasta dicutie pe forumul [topograf-online](https://www.topograf-online.ro/index.php?topic=405.0)
