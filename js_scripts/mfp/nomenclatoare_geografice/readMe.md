@@ -1,4 +1,4 @@
-MFP pune la dispozitie urmatoarele [nomenclatoare geografice](https://mfinante.gov.ro/nomenclatoare-geografice-mfp)(localitati si strazi actuale,istoric si relatii precum si codurile postale ale strazilor):
+MFP pune la dispozitie urmatoarele [nomenclatoare geografice](https://mfinante.gov.ro/nomenclatoare-geografice-mfp)(localitati si strazi actuale,istoric si [relatii](https://mfinante.gov.ro/static/40/Mfp/nomenclatoare/SMD_NOMEN_INTEROPERABILITATE_v2.pdf) precum si codurile postale ale numerelor stradale):
 
 [nomenclator Judete](https://stefanache.github.io/MFP-ANAF-RO/js_scripts/mfp/nomenclatoare_geografice/nomJudete.html)
 
