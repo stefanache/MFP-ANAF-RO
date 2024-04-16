@@ -36,4 +36,4 @@ Pentru cei care sunt la [inceput de drum](https://www.didactic.ro/resurse-educat
 
 ***Directia pentru Politici Fiscale si Bugetare Locale*** din **Ministerul Dezvoltării Regionale și Administrației Publice** [***DPFBL***/**MDRAP**](http://www.dpfbl.mdrap.ro/) a pus la dispozitie un fisier excel cu codurile [***SIRUTA***](http://www.dpfbl.mdrap.ro/documents/machete_cu_cod_siruta_si_uat_pe_judete.xls) defalcate pe judete(utile in cazul in care doriti sa incarcati un judet sau mai multe judete dar nu toata tara) si integral intregul nomenclator SIRUTA pentru toata tara.
 
-Semnificatia campurilor care apar in nomenclatorul [**SIRUTA**](https://insse.ro/cms/files/siruta/Metodologie.doc) o puteti gai bineinteles la [***INS***](https://insse.ro/cms/files/siruta/5.Descriere_SIRUTA.DOC)
+[Semnificatia campurilor](https://www.siruta.nxm.ro/) care apar in nomenclatorul [**SIRUTA**](https://insse.ro/cms/files/siruta/Metodologie.doc) o puteti gai bineinteles la [***INS***](https://insse.ro/cms/files/siruta/5.Descriere_SIRUTA.DOC)
