@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<script src="https://unpkg.com/mqtt/dist/mqtt.min.js"></script>
+</head>
+<body>
+<h1>HTML Geolocation</h1>
+<!--
+<p>Click the button to get your coordinates.</p>
+
+<p><button onclick="getLocation()">Try It</button></p>
+-->
+<p id="demo"></p>
+
+<script>
+	//const mqtt = require('mqtt')
+	const url = 'ws://broker.emqx.io:8083/mqtt'
+	const options = {
+	  // Clean session
+	  clean: true,
+	  connectTimeout: 4000,
+	  // Authentication
+	  clientId: 'emqx_test',
+	  username: 'emqx_test',
+	  password: 'emqx_test',
+	}
+	var client  = mqtt.connect(url, options)
+	client.on('message', function (topic, message) {
+	  // message is Buffer
+	  the_msg=message.toString() 
+	  console.log(the_msg)
+	  x.innerHTML = 'mqtt-msg:'+the_msg
+	  client.end()
+	})
+	client.on('close', function () {
+		console.log('Disconnected')
+	})
+	client.on('disconnect', function (packet) {
+	  console.log(packet)
+	})	
+	client.on('offline', function () {
+	  console.log('offline')
+	})
+	client.on('error', function (error) {
+	  console.log(error)
+	})		
+	client.on('disconnect', function (packet) {
+		console.log(packet)
+	})	
+	client.on('reconnect',  () => {
+		return new Promise((resolve, reject) => {
+			mqttClient.end(true, {}, () => {
+				mqttClient.reconnect();
+				resolve();
+			});
+		});
+	})	
+	// Receive messages	
+	client.on('connect', function () {
+	  console.log('Connected')
+	  // Subscribe to a topic
+	  client.subscribe('myGPS', function (err) {
+		if (!err) {
+		  // Publish a message to a topic
+		  //client.publish('myGPS', 'Please push button <b>Try It</b>')
+		  getLocation()
+		}
+	  })
+	})
+	
+	const x = document.getElementById("demo");
+
+
+	function getLocation() {
+	  if (navigator.geolocation) {
+		navigator.geolocation.getCurrentPosition(showPosition);
+	  } else { 
+		x.innerHTML = "Geolocation is not supported by this browser.";
+	  }
+	}
+
+	function showPosition(position) {
+	  the_msg="Latitude: " + position.coords.latitude +  "<br>Longitude: " + position.coords.longitude;
+	  x.innerHTML = the_msg;
+	  client.publish('myGPS', the_msg)
+	}
+
+</script>
+
+</body>
+</html>
