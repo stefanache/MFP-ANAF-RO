@@ -40,4 +40,4 @@ Pentru cei care sunt la [inceput de drum](https://www.didactic.ro/resurse-educat
 
 Referitor la campul [SIRSUP](https://github.com/geospatialorg/scripturi-actualizare-vectori/tree/master)(cod [SIRUTA](https://ro.wikipedia.org/wiki/SIRUTA) superior/parinte) am gasit aceasta dicutie pe forumul [topograf-online](https://www.topograf-online.ro/index.php?topic=405.0)
 
-Potrivit acestui articol de lege [***ANCPI***](https://legislatie.ancpi.xyz/odg/700-2014/articolul-51-2/) reiese ca si ***numarul cadastral al imobilului*** este strans legat de codificarea **SIRUTA**.
+Potrivit acestui articol de lege [***ANCPI***](https://legislatie.ancpi.xyz/odg/700-2014/articolul-51-2/) ceva mai vechi, reiese ca si ***numarul cadastral al imobilului*** este strans legat de codificarea **SIRUTA**.
