@@ -42,4 +42,4 @@ Referitor la campul [SIRSUP](https://github.com/geospatialorg/scripturi-actualiz
 
 Potrivit acestui articol de lege publicat de [***ANCPI***](https://legislatie.ancpi.xyz/odg/700-2014/articolul-51-2/) ceva mai vechi, reiese ca si [***numarul cadastral al imobilului***](https://devforum.ro/t/sql-pentru-siruta/4012/3) este strans legat de codificarea [**SIRUTA**.](http://www.intrastat.ro/doc/Ghid_offline_2024_v1.pdf)
 
-Tot de aici aflam ca **SIRUTA** functioneaza de fapt ca [**Registrul permanent al unităţilor administrativ-teritoriale**](https://data.gov.ro/dataset/siruta-registrul-unitatilor-administrativ-teritoriale-ale-romaniei)
+Tot de aici aflam ca [**SIRUTA**](https://www.mdlpa.ro/uploads/articole/attachments/64d0a28762583720581068.pdf) functioneaza de fapt ca [**Registrul permanent al unităţilor administrativ-teritoriale**](https://data.gov.ro/dataset/siruta-registrul-unitatilor-administrativ-teritoriale-ale-romaniei)
