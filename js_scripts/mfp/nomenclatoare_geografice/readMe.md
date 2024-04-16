@@ -38,7 +38,7 @@ Pentru cei care sunt la [inceput de drum](https://www.didactic.ro/resurse-educat
 
 [Semnificatia campurilor](https://www.siruta.nxm.ro/) care apar in [nomenclatorul](https://ioisrl.ro/coduri-siruta-2024/) [**SIRUTA**](https://insse.ro/cms/files/siruta/Metodologie.doc) o puteti gasi bineinteles la [***INS***](https://insse.ro/cms/files/siruta/5.Descriere_SIRUTA.DOC) deoarece acest institut se ocupa de intretinerea acestui [nomenclator](https://data.gov.ro/dataset/ce2dbfdc-b2bc-4fc2-8597-1a9144f2fc1d/resource/6772b5e3-2444-4bf2-8dcb-162fce602d28/download/machetecodsirutasiuatpejudete.xls).
 
-Referitor la campul [SIRSUP](https://github.com/geospatialorg/scripturi-actualizare-vectori/tree/master)(cod [SIRUTA](https://ro.wikipedia.org/wiki/SIRUTA) superior/parinte) am gasit aceasta [discutie](https://devforum.ro/t/sql-pentru-siruta/4012/3) pe forumul [topograf-online](https://www.topograf-online.ro/index.php?topic=405.0)
+Referitor la campul [SIRSUP](https://github.com/geospatialorg/scripturi-actualizare-vectori/tree/master)(cod [SIRUTA](https://ro.wikipedia.org/wiki/SIRUTA) [superior/parinte](https://cadastru-gorj.blogspot.com/2010/04/lista-codurilor-sirsup-din-jud-gorj.html)) am gasit aceasta [discutie](https://devforum.ro/t/sql-pentru-siruta/4012/3) pe forumul [topograf-online](https://www.topograf-online.ro/index.php?topic=405.0)
 
 Potrivit acestui articol de lege [***ANCPI***](https://legislatie.ancpi.xyz/odg/700-2014/articolul-51-2/) ceva mai vechi, reiese ca si [***numarul cadastral al imobilului***](https://devforum.ro/t/sql-pentru-siruta/4012/3) este strans legat de codificarea **SIRUTA**.
 
