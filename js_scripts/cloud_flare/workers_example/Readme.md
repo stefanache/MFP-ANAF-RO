@@ -31,7 +31,7 @@ Ce puteti face cu [**CloudFlare(CF)**](https://en.wikipedia.org/wiki/Cloudflare)
 
 - [**Tunelarea**](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/configure-tunnels/local-management/as-a-service/windows/)(prin utilizarea serviciului/daemonului CF [***clouflared**](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/)) este un subiect de actualitate care poate fi acoperit(chiar si in cazul [Raspberry PI](https://omar2cloud.github.io/cloudflare/cloudflared/cloudflare/));
 
-  [Tunelarea](https://www.makeuseof.com/use-cloudflare-tunnel-expose-local-servers-internet/) permite conectarea serverelor de acasa(sau de oriunde) la reteaua CloadFlare si implicit la Internet.
+  [***Tunelarea CF***](https://www.makeuseof.com/use-cloudflare-tunnel-expose-local-servers-internet/) permite conectarea serverelor de acasa(sau de oriunde) la reteaua CloadFlare si implicit la Internet.
   
 
   Si cazurile de utilitate ar putea continua...
