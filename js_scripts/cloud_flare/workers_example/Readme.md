@@ -23,7 +23,7 @@ Ce puteti face cu [**CloudFlare(CF)**](https://en.wikipedia.org/wiki/Cloudflare)
   ... nu uitati ca la final sa ***testati functionalitatea/functionarea CF-DNS-ul*** utilizand link-ul specializat: [https://1.1.1.1/help](https://one.one.one.one/help/)
 
 
-- Daca sa spunem aveti un **nume de domeniu** cumparat de la un registrar anume(gen **ROTLD**,...) si dorim sa-l [asociem](https://cloudforest.ro/dns-cloudflare/) unui **VPS** inchiriat atunci **CF** va poate oferi solutia(gratuita) salvatoare.
+- Daca sa spunem aveti un **nume de domeniu** cumparat de la un registrar anume(gen **ROTLD**,...) si dorim sa-l [asociem](https://cloudforest.ro/dns-cloudflare/)(sa-l conectam de fapt prin intermediul retelei-CDN a CF) unui **VPS** inchiriat atunci **CF** va poate oferi solutia(gratuita) salvatoare. Un alt caz de utilitte ar fi conectare prin CF pentru un blog-WP pe care il putem avea la un furnizor de shared-hosting(de pilda).
   
   
 Desigur este important sa explorati/parcurgeti mai toate [**caile de invatare**](https://developers.cloudflare.com/learning-paths/) propuse de cei de la [**CF**](https://root.md/blog/tutorial-cloudflare/) pentru a acumula experienta si incredere.
