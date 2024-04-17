@@ -33,7 +33,8 @@ Ce puteti face cu [**CloudFlare(CF)**](https://en.wikipedia.org/wiki/Cloudflare)
 
   [***Tunelarea CF***](https://www.makeuseof.com/use-cloudflare-tunnel-expose-local-servers-internet/) permite conectarea serverelor de acasa(sau de oriunde) la reteaua CloadFlare si implicit la Internet.
   
-
+  *OBS* : Tunelarea poate fi simplu de inteles daca ati utilizat in prealabil un alt produs binecunoscut - ***ngrok***.
+  
   Si cazurile de utilitate ar putea continua...
 
   Trasatura comuna a acestor cazuri de utilizare este ca reteaua **CDN** a CF se interpune(ca un broker/intermediar de conectare) intre clientul/vizitatorul(**agentul de navigare/browsing**) si [***resursa web/internet***](https://medium.com/@wiredbyteit/setting-up-your-website-on-cloudflare-step-by-step-tutorial-897816c9a281) tintita/dorita a fi accesata permitand in acest fel aplicarea/prestarea serviciilor-CF(specifice) oferite de catre acesta(providerul ***CloudFlare***).
