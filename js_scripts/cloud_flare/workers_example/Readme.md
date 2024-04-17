@@ -17,6 +17,8 @@ Ce puteti face cu [**CloudFlare(CF)**](https://en.wikipedia.org/wiki/Cloudflare)
      Atunci se pune urmatoarea intrebare: am la dispozitie un instrument **local(CLI)** destinat acestei activitati de dezvoltare/de gestiune a proiectelor workers?
      Desigur acest instrument gestiune locala CLI(*din cmd.exe sau shell*) a proiectelor bazate pe **workers** exista si se numeste [**Wrangler**](https://developers.cloudflare.com/workers/wrangler/)
 
+     Scopul final al lui **wrangler** este *implementarea(intr-un mediu CI/CD* proiectelor bazate pe workers.
+
 - Daca nu ati facut/implementat-o deja atunci ati putea folosi [**CF-DNS rezolutor**](https://developers.cloudflare.com/1.1.1.1/)( atunci cand ***navigati {pr-}in Internet*** veti scrie o adresa URL ce contine numele de domeniu dar browserului ii trebuie IP-ul ori ...
 
   ... pt a rezolva **rezolutia IP**(conversia **nume-domeniu** ***2(to) / la*** **IP**) ai nevoie de un serviciu [DNS](https://www.cloudflare.com/learning/dns/what-is-dns/) securizat/de incredere...si CF este un astfel de serviciu DNS recunoscut la nivel mondial) asadar...
