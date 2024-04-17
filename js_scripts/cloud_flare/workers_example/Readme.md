@@ -41,7 +41,7 @@ Ce puteti face cu [**CloudFlare(CF)**](https://en.wikipedia.org/wiki/Cloudflare)
    Daca ***tunelarea*** se refera la [***conectarea serverelor***](https://simplyexplained.com/uploads/2021-10-20-securely-access-home-network-with-Cloudflare-Tunnel-and-WARP/cloudflare-setup.svg) noastre software la internet in cazul **VPN** ne referim la [**conectarea de dispozitive hardware(fizice)**](https://simplyexplained.com/uploads/2021-10-20-securely-access-home-network-with-Cloudflare-Tunnel-and-WARP/cloudflare-setup.svg) si se refera la crearea unei retele particulare/proprii (virtuale).
 
 
-  **Tunelarea** si **WARP** de obicei coexista in arhitecturile/scenariile noastre de [***conectare***](https://simplyexplained.com/blog/securely-access-home-network-with-Cloudflare-Tunnel-and-WARP/).
+  **Tunelarea** si **WARP** de obicei [coexista](https://simplyexplained.com/uploads/2021-10-20-securely-access-home-network-with-Cloudflare-Tunnel-and-WARP/cloudflare-setup.svg) in arhitecturile/scenariile noastre de [***conectare***](https://simplyexplained.com/blog/securely-access-home-network-with-Cloudflare-Tunnel-and-WARP/).
   
   Si cazurile de utilitate ar putea continua...
 
