@@ -33,6 +33,6 @@ Ce puteti face cu [**CloudFlare(CF)**](https://en.wikipedia.org/wiki/Cloudflare)
   
 Desigur este important sa explorati/parcurgeti mai toate [**caile de invatare**](https://developers.cloudflare.com/learning-paths/) propuse de cei de la [**CF**](https://root.md/blog/tutorial-cloudflare/) pentru a acumula experienta si incredere.
 
-Poate ca ar fi utila si o comparatie a celor 2 mega retele distribuite geografic la nivel planetar(in intreaga lume) in scopul livrarii de continut(pagini statice,..) in conditii de calitate ridicata: [**Github** vs. **Clodflare**](https://bejamas.io/compare/cloudflare-pages-vs-github-pages/)
+Poate ca ar fi utila si o comparatie a celor 2 mega retele distribuite geografic la nivel planetar(in intreaga lume) in scopul livrarii de continut(pagini statice,.. dar si servicii specifice de cloud)  in conditii de calitate ridicata(accelerata,securizata...): [**Github** vs. **Clodflare**](https://bejamas.io/compare/cloudflare-pages-vs-github-pages/)
 
   
