@@ -36,7 +36,7 @@ Ce puteti face cu [**CloudFlare(CF)**](https://en.wikipedia.org/wiki/Cloudflare)
   *OBS* : Tunelarea poate fi simplu de inteles daca ati utilizat in prealabil un alt produs binecunoscut - ***ngrok***.
            
 
-- [**VPN**](https://developers.cloudflare.com/cloudflare-one/connections/connect-devices/warp/download-warp/) - serviciul-[CF](https://one.one.one.one/) [**WARP**](https://developers.cloudflare.com/cloudflare-one/connections/connect-devices/warp/download-warp/)
+- [**VPN**](https://developers.cloudflare.com/cloudflare-one/connections/connect-devices/warp/) - serviciul-[CF](https://one.one.one.one/) [**WARP**](https://developers.cloudflare.com/cloudflare-one/connections/connect-devices/warp/download-warp/)
 
    Daca ***tunelarea*** se refera la [***conectarea serverelor***](https://simplyexplained.com/uploads/2021-10-20-securely-access-home-network-with-Cloudflare-Tunnel-and-WARP/cloudflare-setup.svg) noastre software la internet in cazul **VPN** ne referim la [**conectarea de dispozitive hardware(fizice)**](https://simplyexplained.com/uploads/2021-10-20-securely-access-home-network-with-Cloudflare-Tunnel-and-WARP/cloudflare-setup.svg) si se refera la crearea unei retele particulare/proprii (virtuale) de comunicare/transport securizat intre dispozitivele fizice implicate.
 
