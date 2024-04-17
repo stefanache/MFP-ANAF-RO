@@ -20,6 +20,6 @@ Ce puteti face cu [**CloudFlare(CF)**](https://en.wikipedia.org/wiki/Cloudflare)
 
   ... nu uitati ca la final sa ***testati functionalitatea/functionarea CF-DNS-ul*** utilizand link-ul specializat: [https://1.1.1.1/help](https://one.one.one.one/help/)
 
-Desigur este important sa explorati mai toate [**caile de invatare**](https://developers.cloudflare.com/learning-paths/) propuse de cei de la **CF** pentru a acumula experienta si incredere.
+Desigur este important sa explorati/parcurgeti mai toate [**caile de invatare**](https://developers.cloudflare.com/learning-paths/) propuse de cei de la **CF** pentru a acumula experienta si incredere.
 
   
