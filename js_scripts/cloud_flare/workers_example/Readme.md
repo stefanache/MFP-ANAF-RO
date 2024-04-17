@@ -23,7 +23,7 @@ Ce puteti face cu [**CloudFlare(CF)**](https://en.wikipedia.org/wiki/Cloudflare)
   ... nu uitati ca la final sa ***testati functionalitatea/functionarea CF-DNS-ul*** utilizand link-ul specializat: [https://1.1.1.1/help](https://one.one.one.one/help/)
 
 
-- Daca sa spunem aveti un **nume de domeniu** cumparat de la un registrar anume(gen **ROTLD**,...) si dorim sa-l [asociem](https://cloudforest.ro/dns-cloudflare/)(sa-l conectam de fapt prin intermediul retelei-CDN a CF) unui **VPS** inchiriat atunci **CF** va poate oferi solutia(gratuita) salvatoare.(OBS: [***ICI***](https://www.rotld.ro/home/) se ocupa de serviciul **TLD** al domeniului **.ro** si este o retea balansate de servere TLD...)
+- Daca sa spunem aveti un **nume de domeniu** cumparat de la un registrar anume(gen **ROTLD**,...) si dorim sa-l [asociem](https://cloudforest.ro/dns-cloudflare/)(sa-l conectam de fapt prin intermediul retelei-CDN a CF) unui **VPS** inchiriat atunci **CF** va poate oferi solutia(gratuita) salvatoare.(OBS: [***ICI***](https://www.rotld.ro/home/) se ocupa de serviciul **TLD** al domeniului **.ro** si este o retea balansata si foarte bine securizata de servere TLD...)
 
   Un alt caz de utilitate similar de conectare via/prin **CF**(vizitator/client-web <-> internet <-> **CF** <-> hostinger <-> blog-WP) ar putea fi cazul unui [blog-WP](https://ro.blogpascher.com/WordPress-Tutorial/cum-s%C4%83-l-CDN-Cloudflare-pentru-ta-blog-WordPress-configurare) pe care il putem avea gazduit sa spunem la un [furnizor de shared-hosting](https://www.hostgator.com/help/article/cloudflare-cdn-overview)(de pilda!).
 
