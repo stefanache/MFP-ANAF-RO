@@ -1,4 +1,4 @@
 Puteti invata eficient CF-workers folosind [exemplele](https://developers.cloudflare.com/workers/examples/) expuse ce pot fi rulate in PlayGround(pt a vedea ce ruleaza fiecare) si pe care apoi le puteti implementa(instala/infiinta/distribui) pe/in CDN-ul vostru din CloudFlare
 
-- generator cod HTML: [playground] [implementation](https://workers-playground-dawn-darkness-1140.ion-stefanache.workers.dev/)
+- Returnează o pagină HTML mică: [example](https://developers.cloudflare.com/workers/examples/return-html/), [playground] [implementation](https://workers-playground-dawn-darkness-1140.ion-stefanache.workers.dev/)
 - ... a se vedea exemple de [proiecte expuse](https://workers.cloudflare.com/built-with/) bazate pe CloudFlare(CF)-workers
