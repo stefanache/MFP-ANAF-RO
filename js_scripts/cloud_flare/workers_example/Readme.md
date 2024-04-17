@@ -29,6 +29,8 @@ Ce puteti face cu [**CloudFlare(CF)**](https://en.wikipedia.org/wiki/Cloudflare)
 
   Un alt caz de utilitate similar de conectare via/prin **CF**(vizitator/client-web <-> internet <-> **CF** <-> hostinger <-> blog-WP) ar putea fi cazul unui [blog-WP](https://ro.blogpascher.com/WordPress-Tutorial/cum-s%C4%83-l-CDN-Cloudflare-pentru-ta-blog-WordPress-configurare) pe care il putem avea gazduit sa spunem la un [furnizor de shared-hosting](https://www.hostgator.com/help/article/cloudflare-cdn-overview)(de pilda!).
 
+  - [**Tunelarea**](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/configure-tunnels/local-management/as-a-service/windows/)(prin utilizarea serviciului/daemonului CF ***clouflared**) ar putea fi un subiect acoperit de CF(chiar si in cazul [Raspberry PI](https://omar2cloud.github.io/cloudflare/cloudflared/cloudflare/))
+
   Si cazurile de utilitate ar putea continua...
 
   Trasatura comuna a acestor cazuri de utilizare este ca reteaua **CDN** a CF se interpune(ca un broker/intermediar de conectare) intre clientul/vizitatorul(**agentul de navigare/browsing**) si [***resursa web/internet***](https://medium.com/@wiredbyteit/setting-up-your-website-on-cloudflare-step-by-step-tutorial-897816c9a281) tintita/dorita a fi accesata permitand in acest fel aplicarea/prestarea serviciilor-CF(specifice) oferite de catre acesta(providerul ***CloudFlare***).
