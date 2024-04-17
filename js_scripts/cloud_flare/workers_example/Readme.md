@@ -34,6 +34,9 @@ Ce puteti face cu [**CloudFlare(CF)**](https://en.wikipedia.org/wiki/Cloudflare)
   [***Tunelarea CF***](https://www.makeuseof.com/use-cloudflare-tunnel-expose-local-servers-internet/) permite conectarea serverelor de acasa(sau de oriunde) la reteaua CloadFlare si implicit la Internet.
   
   *OBS* : Tunelarea poate fi simplu de inteles daca ati utilizat in prealabil un alt produs binecunoscut - ***ngrok***.
+
+- [**VPN**](https://simplyexplained.com/blog/securely-access-home-network-with-Cloudflare-Tunnel-and-WARP/) - serviciul-[CF](https://one.one.one.one/) [**WARP**](https://developers.cloudflare.com/cloudflare-one/connections/connect-devices/warp/download-warp/)
+  
   
   Si cazurile de utilitate ar putea continua...
 
