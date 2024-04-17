@@ -27,7 +27,9 @@ Ce puteti face cu [**CloudFlare(CF)**](https://en.wikipedia.org/wiki/Cloudflare)
 
   Un alt caz de utilitate similar de conectare via/prin CF(vizitator/client-web/internet ->CF -> hostinger -> blog-WP) ar putea fi cazul unui [blog-WP](https://elementor.com/pages/wordpress/?cxd=1140_1183289&utm_source=elementor&utm_medium=affiliate&utm_campaign=1140&utm_content=cx&affid=1140) pe care il putem avea sa spunem la un furnizor de shared-hosting(de pilda).
 
-  Si cazurile de utilitate ar putea continua...Trasatura comuna a acestor cazuri este ca reteaua CDN a CF se interpune(ca un broker/intermediar de conectare) intre clientul/vizitatorul resursei web/internet si resursa web/internet tintita/dorita a fi accesata permitand in acest fel aplicarea/prestarea serviciilor-CF(specifice) oferite de catre acesta(providerul CloudFlare).
+  Si cazurile de utilitate ar putea continua...
+
+  Trasatura comuna a acestor cazuri este ca reteaua CDN a CF se interpune(ca un broker/intermediar de conectare) intre clientul/vizitatorul resursei web/internet si resursa web/internet tintita/dorita a fi accesata permitand in acest fel aplicarea/prestarea serviciilor-CF(specifice) oferite de catre acesta(providerul CloudFlare).
   
 Desigur este important sa explorati/parcurgeti mai toate [**caile de invatare**](https://developers.cloudfl are.com/learning-paths/) propuse de cei de la [**CF**](https://root.md/blog/tutorial-cloudflare/) pentru a acumula experienta si incredere.
 
