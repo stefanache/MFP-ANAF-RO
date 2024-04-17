@@ -31,12 +31,17 @@ Ce puteti face cu [**CloudFlare(CF)**](https://en.wikipedia.org/wiki/Cloudflare)
 
 - [**Tunelarea**](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/configure-tunnels/local-management/as-a-service/windows/)(prin utilizarea serviciului/daemonului CF [***clouflared**](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/)) este un subiect de actualitate care poate fi acoperit(chiar si in cazul [Raspberry PI](https://omar2cloud.github.io/cloudflare/cloudflared/cloudflare/));
 
-  [***Tunelarea CF***](https://www.makeuseof.com/use-cloudflare-tunnel-expose-local-servers-internet/) permite conectarea serverelor de acasa(sau de oriunde) la reteaua CloadFlare si implicit la Internet.
+  [***Tunelarea CF***](https://www.makeuseof.com/use-cloudflare-tunnel-expose-local-servers-internet/) permite conectarea serverelor(software) de acasa(sau de oriunde) la reteaua CloadFlare si implicit la Internet.
   
   *OBS* : Tunelarea poate fi simplu de inteles daca ati utilizat in prealabil un alt produs binecunoscut - ***ngrok***.
+           
 
-- [**VPN**](https://simplyexplained.com/blog/securely-access-home-network-with-Cloudflare-Tunnel-and-WARP/) - serviciul-[CF](https://one.one.one.one/) [**WARP**](https://developers.cloudflare.com/cloudflare-one/connections/connect-devices/warp/download-warp/)
-  
+- [**VPN**](https://developers.cloudflare.com/cloudflare-one/connections/connect-devices/warp/download-warp/) - serviciul-[CF](https://one.one.one.one/) [**WARP**](https://developers.cloudflare.com/cloudflare-one/connections/connect-devices/warp/download-warp/)
+
+   Daca ***tunelarea*** se refera la [***conectarea serverelor***](https://simplyexplained.com/uploads/2021-10-20-securely-access-home-network-with-Cloudflare-Tunnel-and-WARP/cloudflare-setup.svg) noastre software la internet in cazul **VPN** ne referim la [**conectarea de dispozitive hardware(fizice)**](https://simplyexplained.com/uploads/2021-10-20-securely-access-home-network-with-Cloudflare-Tunnel-and-WARP/cloudflare-setup.svg) si se refera la crearea unei retele particulare/proprii (virtuale).
+
+
+  **Tunelarea** si **WARP** de obicei coexista in arhitecturile/scenariile noastre de [***conectare***](https://simplyexplained.com/blog/securely-access-home-network-with-Cloudflare-Tunnel-and-WARP/).
   
   Si cazurile de utilitate ar putea continua...
 
