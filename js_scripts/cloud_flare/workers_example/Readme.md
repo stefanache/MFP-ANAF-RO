@@ -13,3 +13,5 @@ Ce puteti face cu [CloudFlare(CF)](https://en.wikipedia.org/wiki/Cloudflare) sau
   ... plasati aceste [**IP**-uri catre serverele **DNS**](https://developers.cloudflare.com/1.1.1.1/ip-addresses/) ale CF pe fiecare adaptor **Ethernet-LAN** sau **WiFi**(sau daca dorit chiar si pe cele ***virtuale*** Hyper-V) in variantele **IPv4** si/sau **IPv6** de adrese IP...
 
   ... puteti vedea cum se face acest lucru pe acest [**tutorial YT**](https://www.youtube.com/watch?v=P2Ic1dICIPM&ab_channel=TechMeSpot)
+
+  ... nu uitati ca la final sa testati ca totul functioneaza folosind link-ul specializat [1.1.1.1/help](https://one.one.one.one/help/): 
