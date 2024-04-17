@@ -25,9 +25,9 @@ Ce puteti face cu [**CloudFlare(CF)**](https://en.wikipedia.org/wiki/Cloudflare)
 
 - Daca sa spunem aveti un **nume de domeniu** cumparat de la un registrar anume(gen **ROTLD**,...) si dorim sa-l [asociem](https://cloudforest.ro/dns-cloudflare/)(sa-l conectam de fapt prin intermediul retelei-CDN a CF) unui **VPS** inchiriat atunci **CF** va poate oferi solutia(gratuita) salvatoare.
 
-  Un alt caz de utilitate similar de conectare via/prin CF ar putea fi cazul unui [blog-WP](https://elementor.com/pages/wordpress/?cxd=1140_1183289&utm_source=elementor&utm_medium=affiliate&utm_campaign=1140&utm_content=cx&affid=1140) pe care il putem avea sa spunem la un furnizor de shared-hosting(de pilda).
+  Un alt caz de utilitate similar de conectare via/prin CF(vizitator/client-web/internet ->CF -> hostinger -> blog-WP) ar putea fi cazul unui [blog-WP](https://elementor.com/pages/wordpress/?cxd=1140_1183289&utm_source=elementor&utm_medium=affiliate&utm_campaign=1140&utm_content=cx&affid=1140) pe care il putem avea sa spunem la un furnizor de shared-hosting(de pilda).
   
   
-Desigur este important sa explorati/parcurgeti mai toate [**caile de invatare**](https://developers.cloudflare.com/learning-paths/) propuse de cei de la [**CF**](https://root.md/blog/tutorial-cloudflare/) pentru a acumula experienta si incredere.
+Desigur este important sa explorati/parcurgeti mai toate [**caile de invatare**](https://developers.cloudfl are.com/learning-paths/) propuse de cei de la [**CF**](https://root.md/blog/tutorial-cloudflare/) pentru a acumula experienta si incredere.
 
   
