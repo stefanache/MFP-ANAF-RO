@@ -31,6 +31,6 @@ Ce puteti face cu [**CloudFlare(CF)**](https://en.wikipedia.org/wiki/Cloudflare)
 
   Trasatura comuna a acestor cazuri este ca reteaua CDN a CF se interpune(ca un broker/intermediar de conectare) intre clientul/vizitatorul resursei web/internet si resursa web/internet tintita/dorita a fi accesata permitand in acest fel aplicarea/prestarea serviciilor-CF(specifice) oferite de catre acesta(providerul CloudFlare).
   
-Desigur este important sa explorati/parcurgeti mai toate [**caile de invatare**](https://developers.cloudfl are.com/learning-paths/) propuse de cei de la [**CF**](https://root.md/blog/tutorial-cloudflare/) pentru a acumula experienta si incredere.
+Desigur este important sa explorati/parcurgeti mai toate [**caile de invatare**](https://developers.cloudflare.com/learning-paths/) propuse de cei de la [**CF**](https://root.md/blog/tutorial-cloudflare/) pentru a acumula experienta si incredere.
 
   
