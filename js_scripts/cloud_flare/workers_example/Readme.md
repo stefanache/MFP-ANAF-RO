@@ -1,1 +1,2 @@
-- [generator codHTML](https://workers-playground-dawn-darkness-1140.ion-stefanache.workers.dev/)
+- [generator cod HTML](https://workers-playground-dawn-darkness-1140.ion-stefanache.workers.dev/)
+- ... a se vedea exemple de [proiecte expuse](https://workers.cloudflare.com/built-with/) bazate pe CloudFlare(CF)-workers
