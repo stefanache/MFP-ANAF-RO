@@ -1,7 +1,7 @@
 
 Vom incerca sa discutam cate [ceva](https://developers.cloudflare.com/) despre produsele CloudFlare(CF) din perspectiva dezvoltatorilor.
 
-Accentul/Focusul va fi pus pe [**lucratorii-CF**](https://developers.cloudflare.com/workers/)(dar nu numai!!!).
+Accentul/Focusul va fi pus pe [**lucratorii-CF**](https://developers.cloudflare.com/workers/)(dar nu numai[!!!](https://developers.cloudflare.com/products/)).
 
 Iata un simplu cod de lucrator - care **returneaza cod HTML** in vederea afisarii in browser-ul dvs:
 
