@@ -1,5 +1,5 @@
 
-Vom incerca sa discutam cate [ceva](https://developers.cloudflare.com/) despre produsele **CloudFlare(CF)** din perspectiva dezvoltatorilor.
+Vom incerca sa discutam cate [ceva](https://developers.cloudflare.com/) despre produsele [**CloudFlare(CF)**](https://developers.cloudflare.com/learning-paths/get-started/concepts/what-is-cloudflare/) din perspectiva dezvoltatorilor.
 
 Accentul/Focusul va fi pus pe [**lucratorii-CF**](https://developers.cloudflare.com/workers/)(pentru inceput, dar nu numai[!!!](https://developers.cloudflare.com/products/)).
 
