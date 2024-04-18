@@ -50,7 +50,7 @@ Ce puteti face cu [**CloudFlare(CF)**](https://en.wikipedia.org/wiki/Cloudflare)
 
   În cadrul aceluiași **tunel**, puteți rula cât mai multe procese (***conectori***) „în cloud” cât este necesar. 
 
-  Aceste procese(**conectori**) vor stabili conexiuni la Cloudflare și vor trimite trafic la cel mai apropiat centru de date CF.
+  Aceste procese(**conectori**) vor stabili conexiuni la CF și vor trimite trafic la cel mai apropiat centru de date CF.
 
 - [**VPN**](https://developers.cloudflare.com/cloudflare-one/connections/connect-devices/warp/) - serviciul-[CF](https://one.one.one.one/) [**WARP**](https://developers.cloudflare.com/cloudflare-one/connections/connect-devices/warp/download-warp/)
 
