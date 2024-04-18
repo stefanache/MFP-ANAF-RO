@@ -72,3 +72,5 @@ De altfel, legat de acest subiect al lucratorilor si [nu numai](https://www.clou
 Despre oferta de preturi in ceea ce priveste partea asta de "**workers**" puteti citi acest [material](https://www.cloudflare.com/plans/developer-platform-pricing/); In general despre planurile **free** puteti accesa acest [**link**](https://www.cloudflare.com/plans/free/); O [comparatie](https://www.cloudflare.com/plans/developer-platform/) a planurilor de pret o puteti accesa [*aici*](https://www.cloudflare.com/plans/); Puteti constata ca este o oferta destul de generoasa pentru zona de ***gratuitate/free*** dar luati in calcul si momentul viitor(ce vine odata cu scalarea aplicatiei si cresterea traficului acesteia) cand veti avea nevoie de un plan facturat in avans(de preferat anual).  
 
 Poate fi util sa consultati si repository oficial al [**CF**](https://github.com/cloudflare) gazduit pe Ghithub
+
+Un caz interesant de utilizare este si acest tutorial [**CF DDNS**](https://adamtheautomator.com/cloudflare-dynamic-dns/)
