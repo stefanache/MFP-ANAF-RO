@@ -21,3 +21,6 @@ Iata un simplu cod de lucrator - care **returneaza cod HTML** in vederea afisari
       },
     };
 
+El este gazduit in cloud-ul CF si poate fi livrat via browser.
+
+Codul unui lucrator poate fi editat si testat in **playground **-ul CF dar si local folosind intrumentul-CLI oferit de catre CF **wrangler** iar cand sunt atinse obiectivele de dezvoltare codul/lucratorul poate fi **implementat/distribuit/salvat** in **cloud**.
