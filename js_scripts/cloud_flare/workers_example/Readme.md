@@ -40,7 +40,7 @@ Ce puteti face cu [**CloudFlare(CF)**](https://en.wikipedia.org/wiki/Cloudflare)
 
   [***Tunelarea CF***](https://www.makeuseof.com/use-cloudflare-tunnel-expose-local-servers-internet/) permite conectarea serverelor(software) de acasa(sau de oriunde) la reteaua CloadFlare si implicit la Internet.
   
-  *OBS* : Tunelarea poate fi simplu de inteles daca ati utilizat in prealabil un alt produs binecunoscut - ***ngrok***.
+  *OBS* : [Tunelarea](https://www.pubnub.com/guides/what-is-ngrok/) poate fi simplu de inteles daca ati utilizat in prealabil un alt produs binecunoscut - [***ngrok***](https://gizemcifguvercin.medium.com/ngrok-put-localhost-on-the-internet-ed31fabf27dd)(care ofera un canal/[conexiune](https://ngrok.com/docs/) pentru [protocolul](https://en.wikipedia.org/wiki/Tunneling_protocol) http sau https).
            
   CF stabilește conexiuni de ieșire ([**tunele**](https://developers.cloudflare.com/assets/handshake_hufad68abf6107ffc2ef859ebe1b42b6e2_299675_1768x1102_resize_q75_box-3f75968f.jpg)) între resursele dvs.(locale,on-prem:   sa spunem un server-web ori un server graphql/websocket ori un server [SSH](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/use-cases/ssh/) sau un server [RDP](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/use-cases/rdp/)...) și rețeaua globală CF(cu access la [internet](https://developers.cloudflare.com/reference-architecture/architectures/sase/)).
 
