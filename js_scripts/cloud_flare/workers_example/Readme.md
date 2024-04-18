@@ -42,6 +42,13 @@ Ce puteti face cu [**CloudFlare(CF)**](https://en.wikipedia.org/wiki/Cloudflare)
   
   *OBS* : Tunelarea poate fi simplu de inteles daca ati utilizat in prealabil un alt produs binecunoscut - ***ngrok***.
            
+CF stabilește conexiuni de ieșire ([**tunele**](https://developers.cloudflare.com/assets/handshake_hufad68abf6107ffc2ef859ebe1b42b6e2_299675_1768x1102_resize_q75_box-3f75968f.jpg)) între resursele dvs.(locale,on-prem: sa spunem un server-web ori un server graphql/websocket ori un server [SSH](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/use-cases/ssh/), sau un server [RDP](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/use-cases/rdp/)... și rețeaua globală CF(cu access la [internet](https://developers.cloudflare.com/reference-architecture/architectures/sase/)). 
+
+**Tunelurile** sunt ***obiecte persistente*** care direcţionează traficul către înregistrările DNS. 
+
+În cadrul aceluiași **tunel**, puteți rula cât mai multe procese (***conectori***) „în cloud” cât este necesar. 
+
+Aceste procese(**conectori**) vor stabili conexiuni la Cloudflare și vor trimite trafic la cel mai apropiat centru de date CF.
 
 - [**VPN**](https://developers.cloudflare.com/cloudflare-one/connections/connect-devices/warp/) - serviciul-[CF](https://one.one.one.one/) [**WARP**](https://developers.cloudflare.com/cloudflare-one/connections/connect-devices/warp/download-warp/)
 
