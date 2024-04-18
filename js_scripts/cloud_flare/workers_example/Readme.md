@@ -1,4 +1,4 @@
-In aceasta sectiune incercam sa spunem cate ceva despre [arhitecturile](https://developers.cloudflare.com/reference-architecture/architectures/) de [securitate](https://staff.fmi.uvt.ro/~stelian.mihalas/cri_sin/cursuri/crisin.pdf), performanță și livrare/conectivitate de continut pentru site-ul / site-urile  dvs.web(in ideea ca veti dori sa livrati [micro]servicii web legate de MFP/ANAF/GOV.)
+In aceast [articol](https://developers.cloudflare.com/) incercam sa spunem cate ceva despre [arhitecturile](https://developers.cloudflare.com/reference-architecture/architectures/) de [securitate](https://staff.fmi.uvt.ro/~stelian.mihalas/cri_sin/cursuri/crisin.pdf), performanță și livrare/conectivitate de continut pentru site-ul / site-urile  dvs.web(in ideea ca veti dori sa livrati [micro]servicii web legate de MFP/ANAF/GOV.)
 
 Ce puteti face cu [**CloudFlare(CF)**](https://en.wikipedia.org/wiki/Cloudflare) sau ce [**produse**](https://developers.cloudflare.com/products/)<sup>(*la momentul consultarii,utilizati criteriile de grupare*)</sup> sunt oferite de catre [**CF**](https://cloudforest.ro/dns-cloudflare/)?
 
