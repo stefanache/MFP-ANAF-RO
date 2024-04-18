@@ -29,6 +29,6 @@ Ca de fiecare data, documentatia pusa la discpozitie de catre orice provider(aic
 
 Pentru cei mai grabiti dintre voi de a afla lucruri noi, CF a pus la dispozitia dezvoltatorilor<sup>(poate mai experimentati)</sup> bine-cunoscuta sectiune [**QuickStarts**](https://developers.cloudflare.com/workers/get-started/quickstarts/); Sunt prezente comenzile(**npx** ***wrangle*** ...) de generare a aplicatiei/exemplului respectiv<sup>(sablonul comenzilor CLI fiind ***npx wrangler generate <NEW_PROJECT_NAME> <GITHUB_REPO_URL>.***)</sup> utilizand livrabilul-sursei dar si link-ul <sup>unde (re)gasim depozitata sursa exemplului respectiv</sup> [ghithub](https://github.com/cloudflare/workers-sdk/tree/main/templates/worker-router) aferent;
 
-De altfel, legat de acest subiect al lucratorilor si nu numai, CF a oferit catre comunitatea [dezvoltatorilor](https://developers.cloudflare.com/) o multime de [exemple](https://developers.cloudflare.com/workers/examples/) si [tutoriale](https://developers.cloudflare.com/workers/tutorials/).
+De altfel, legat de acest subiect al lucratorilor si nu numai, CF a oferit catre comunitatea [dezvoltatorilor](https://developers.cloudflare.com/), o multime de [exemple](https://developers.cloudflare.com/workers/examples/) si [tutoriale](https://developers.cloudflare.com/workers/tutorials/).
 
 Poate fi util sa consultati si repository oficial al [**CF**](https://github.com/cloudflare) gazduit pe Ghithub
