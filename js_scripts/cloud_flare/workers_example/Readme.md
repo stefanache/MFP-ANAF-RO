@@ -17,7 +17,7 @@ Ce puteti face cu [**CloudFlare(CF)**](https://en.wikipedia.org/wiki/Cloudflare)
      Atunci se pune urmatoarea intrebare: am la dispozitie un instrument **local(CLI)** destinat acestei activitati de dezvoltare/de gestiune a proiectelor workers?
      Desigur acest instrument gestiune locala CLI(*din cmd.exe sau shell*) a proiectelor bazate pe **workers** exista si se numeste [**Wrangler**](https://developers.cloudflare.com/workers/wrangler/)
 
-     Scopul final al instrumentului [**Wrangler**](https://developers.cloudflare.com/workers/wrangler/) este ***implementarea(intr-un mediu CI/CD)***(gen **github**) proiectelor bazate pe **workers**.
+     Scopul final al instrumentului [**Wrangler**](https://developers.cloudflare.com/workers/wrangler/) este ***implementarea(intr-un mediu CI/CD)***( **github**) proiectelor bazate pe **workers**.
 
 - Daca nu ati facut/implementat-o deja atunci ati putea folosi [**CF-DNS rezolutor**](https://developers.cloudflare.com/1.1.1.1/)( atunci cand ***navigati {pr-}in Internet*** veti scrie o adresa URL ce contine numele de domeniu dar browserului ii trebuie IP-ul ori ...
 
@@ -30,7 +30,7 @@ Ce puteti face cu [**CloudFlare(CF)**](https://en.wikipedia.org/wiki/Cloudflare)
   ... nu uitati ca la final sa ***testati functionalitatea/functionarea CF-DNS-ul*** utilizand link-ul specializat: [https://1.1.1.1/help](https://one.one.one.one/help/)
 
 
-- Daca sa spunem aveti un **nume de domeniu** cumparat de la un registrar anume(gen **ROTLD**,...) si dorim sa-l [**asociem**](https://cloudforest.ro/dns-cloudflare/)(sa-l conectam de fapt prin intermediul retelei-CDN a CF) unui **VPS** inchiriat atunci **CF** va poate oferi solutia(gratuita) salvatoare.
+- Daca sa spunem aveti un **nume de domeniu** cumparat de la un registrar anume(gen/ex. **ROTLD**,...) si dorim sa-l [**asociem**](https://cloudforest.ro/dns-cloudflare/)(sa-l conectam de fapt prin intermediul retelei-CDN a CF) unui **VPS** inchiriat atunci **CF** va poate oferi solutia(gratuita) salvatoare.
 
   (**OBS**->referitor la ***ROTLD***: [***ICI***](https://www.rotld.ro/home/) se ocupa de serviciul **TLD** al **.ro** si este o retea balansata si foarte bine securizata/de incredere de servere **TLD**...)
 
