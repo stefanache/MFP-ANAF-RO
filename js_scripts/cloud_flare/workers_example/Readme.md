@@ -59,7 +59,7 @@ Ce puteti face cu [**CloudFlare(CF)**](https://en.wikipedia.org/wiki/Cloudflare)
 
   [**Area/Zona 1**](https://blog.cloudflare.com/dlp-area1-to-protect-data-in-email) - este oferta Cf in materie de securizare a ***email***-urilor
   
-Si cazurile de utilitate ar putea continua...
+Si [cazurile de utilizare/utilitate](https://developers.cloudflare.com/reference-architecture/architectures/sase/) ar putea continua...
 
 Trasatura comuna a acestor cazuri de utilizare este ca reteaua **CDN** a CF se interpune(ca un broker/intermediar de conectare) intre clientul/vizitatorul(**agentul de navigare/browsing via internet**) si [***resursa web/internet***](https://medium.com/@wiredbyteit/setting-up-your-website-on-cloudflare-step-by-step-tutorial-897816c9a281) tintita/dorita a fi accesata permitand in acest fel aplicarea/prestarea serviciilor-CF(specifice) oferite de catre acesta(providerul ***CloudFlare***).
 
