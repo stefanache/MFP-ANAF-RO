@@ -38,7 +38,7 @@ Ce puteti face cu [**CloudFlare(CF)**](https://en.wikipedia.org/wiki/Cloudflare)
 
 - [**Tunelarea**](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/configure-tunnels/local-management/as-a-service/windows/)(prin utilizarea [serviciului](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/configure-tunnels/local-management/as-a-service/windows/)/daemonului CF [***clouflared**](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/)) este un subiect de actualitate care poate fi acoperit(chiar si in cazul [Raspberry PI](https://omar2cloud.github.io/cloudflare/cloudflared/cloudflare/));
 
-  [***Tunelarea CF***](https://www.makeuseof.com/use-cloudflare-tunnel-expose-local-servers-internet/) permite conectarea serverelor(software) de acasa(sau de oriunde) la reteaua CloadFlare si implicit la Internet.
+  [***Tunelarea CF***](https://www.makeuseof.com/use-cloudflare-tunnel-expose-local-servers-internet/) permite conectarea [serverelor(software)](https://developers.cloudflare.com/cloudflare-one/tutorials/mysql-network-policy/) de acasa(sau de oriunde) la reteaua CloadFlare si implicit la Internet.
   
   *OBS* : [Tunelarea](https://www.pubnub.com/guides/what-is-ngrok/) poate fi simplu de inteles daca ati utilizat in prealabil un alt produs binecunoscut - [***ngrok***](https://gizemcifguvercin.medium.com/ngrok-put-localhost-on-the-internet-ed31fabf27dd)(care ofera un canal/[conexiune](https://ngrok.com/docs/) pentru [protocolul](https://en.wikipedia.org/wiki/Tunneling_protocol) [http/https](https://ngrok.com/docs/http/), [tcp](https://ngrok.com/docs/tcp/),[TLS](https://ngrok.com/docs/tls/)).
            
