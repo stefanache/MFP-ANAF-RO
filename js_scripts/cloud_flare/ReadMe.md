@@ -3,7 +3,7 @@ Vom incerca sa discutam cate [ceva](https://developers.cloudflare.com/) despre [
 
 CF ofera o paleta larga de produse dar accentul/focusul va fi pus pe [**lucratorii-CF**](https://developers.cloudflare.com/workers/)(pentru inceput, dar nu numai[!!!](https://developers.cloudflare.com/products/)).
 
-Iata un simplu cod/scriptul **javascript**<sup>***nodeJS***</sup> de [lucrator](https://developers.cloudflare.com/workers/examples/return-html/) - care **returneaza cod HTML** in vederea afisarii in browser-ul dvs:
+Iata un simplu cod/scriptul **Javascript**<sup>***nodeJS***</sup> de [lucrator](https://developers.cloudflare.com/workers/examples/return-html/) - care **returneaza cod HTML** in vederea afisarii in browser-ul dvs:
 
     export default {
       async fetch(request) {
