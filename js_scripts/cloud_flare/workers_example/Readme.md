@@ -46,11 +46,11 @@ Ce puteti face cu [**CloudFlare(CF)**](https://en.wikipedia.org/wiki/Cloudflare)
 
   In general, o intreprindere poate ave o [arhitectura complexa](https://developers.cloudflare.com/assets/cf1-ref-arch-1-e06c22ed.svg)(conform modelului [SASE](https://developers.cloudflare.com/assets/cf1-ref-arch-1-e06c22ed.svg)), Asadar vom avea nevoie sa realizam conexiuni intre obiective geografice indepartate(.
 
-**Tunelurile** sunt ***obiecte persistente*** care direcţionează traficul către înregistrările DNS. 
+  **Tunelurile** sunt ***obiecte persistente*** care direcţionează traficul către înregistrările DNS. 
 
-În cadrul aceluiași **tunel**, puteți rula cât mai multe procese (***conectori***) „în cloud” cât este necesar. 
+  În cadrul aceluiași **tunel**, puteți rula cât mai multe procese (***conectori***) „în cloud” cât este necesar. 
 
-Aceste procese(**conectori**) vor stabili conexiuni la Cloudflare și vor trimite trafic la cel mai apropiat centru de date CF.
+  Aceste procese(**conectori**) vor stabili conexiuni la Cloudflare și vor trimite trafic la cel mai apropiat centru de date CF.
 
 - [**VPN**](https://developers.cloudflare.com/cloudflare-one/connections/connect-devices/warp/) - serviciul-[CF](https://one.one.one.one/) [**WARP**](https://developers.cloudflare.com/cloudflare-one/connections/connect-devices/warp/download-warp/)
 
