@@ -57,7 +57,7 @@ Ce puteti face cu [**CloudFlare(CF)**](https://en.wikipedia.org/wiki/Cloudflare)
 
   **Tunelarea** si **VPN(WARP)**-ul(ca servicii ***CF***-centrate de intermediere/proximitate) deseori [coexista](https://simplyexplained.com/uploads/2021-10-20-securely-access-home-network-with-Cloudflare-Tunnel-and-WARP/cloudflare-setup.svg) in arhitecturile/scenariile/solutiile noastre de [***conectare securizata***](https://simplyexplained.com/blog/securely-access-home-network-with-Cloudflare-Tunnel-and-WARP/) software si hardware prin/via/peste ***internet/web***.
 
-- [**Area/Zona 1**](https://blog.cloudflare.com/dlp-area1-to-protect-data-in-email) - este oferta CD in materie de protectie(securizare) a datelor gazduite de ***email***-urile noastre
+- [**Area/Zona 1**](https://blog.cloudflare.com/dlp-area1-to-protect-data-in-email) - este oferta CF in materie de protectie(securizare) a datelor gazduite de ***email***-urile noastre
   
 Si [cazurile de utilizare/utilitate](https://developers.cloudflare.com/reference-architecture/architectures/sase/) ar putea continua...
 
