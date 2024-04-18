@@ -48,7 +48,7 @@ Ce puteti face cu [**CloudFlare(CF)**](https://en.wikipedia.org/wiki/Cloudflare)
 
    Asadar vom avea nevoie sa realizam conexiuni intre diverse [Puncte-de-Acces](https://www.cloudflare.com/learning/access-management/what-is-sase/)(device-uri si utilizatori aflati in diverse locatii/imobile/cladiri/obiectiv) indepartate sau distribuite geografic(poate avea mai multe sedii de conectat, legaturi catre centre de date, [IaaS](https://www.bmc.com/blogs/saas-vs-paas-vs-iaas-whats-the-difference-and-how-to-choose/)-ul poate fi oferit de /externalizat catre un provider, angajatii sai pot lucra prin [VPN](https://www.hostinger.com/tutorials/what-is-vpn), in mod protejat/securizat de acasa/la distanta sau de oriunde din afara sediului ...).
 
-  **Tunelurile** sunt ***obiecte persistente*** care direcţionează traficul către înregistrările DNS, utilizand o piesa locala(daemonul/serviciul-CF **clouflared**) si o piesa aflata la distanta/in internet(**serverul de margine** alocat/repartizat/distribuit acestui tunel din reteaua WAN a  CF). 
+  **Tunelurile** sunt ***obiecte persistente*** care direcţionează traficul către înregistrările DNS, utilizand o piesa locala care ruleaza/se executa local pe masina nostra locala/privata/on-prem(daemonul/serviciul-CF **clouflared**) si o piesa aflata(si care ruleaza) la distanta/in internet(**serverul de margine** alocat/repartizat/distribuit acestui tunel din reteaua WAN a  CF). 
 
   În cadrul aceluiași **tunel**, puteți rula cât mai multe procese (***conectori***) „în cloud” cât este necesar. 
 
