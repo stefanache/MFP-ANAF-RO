@@ -44,7 +44,9 @@ Ce puteti face cu [**CloudFlare(CF)**](https://en.wikipedia.org/wiki/Cloudflare)
            
   CF stabilește conexiuni de ieșire ([**tunele**](https://developers.cloudflare.com/assets/handshake_hufad68abf6107ffc2ef859ebe1b42b6e2_299675_1768x1102_resize_q75_box-3f75968f.jpg)) între resursele dvs.(locale,on-prem:   sa spunem un server-web ori un server graphql/websocket ori un server [SSH](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/use-cases/ssh/) sau un server [RDP](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/use-cases/rdp/)...) și rețeaua globală CF(cu access la [internet](https://developers.cloudflare.com/reference-architecture/architectures/sase/)).
 
-  In general, o intreprindere poate avea o [arhitectura complexa](https://developers.cloudflare.com/assets/cf1-ref-arch-1-e06c22ed.svg)(conform modelului [SASE](https://developers.cloudflare.com/assets/cf1-ref-arch-1-e06c22ed.svg)), Asadar vom avea nevoie sa realizam conexiuni intre obiective geografice indepartate(poate avea mai multe sedii de conectat, legaturi catre centre de date,IaaS-ul poate fi oferit de /externalizat catre un provider, angajatii sai pot lucra in mod protejat/securizat de acasa/la distanta sau de oriunde din afara sediului prin VPN...).
+  In general, o intreprindere poate avea o [arhitectura complexa](https://developers.cloudflare.com/assets/cf1-ref-arch-1-e06c22ed.svg)(conform modelului [SASE](https://developers.cloudflare.com/assets/cf1-ref-arch-1-e06c22ed.svg));
+
+   Asadar vom avea nevoie sa realizam conexiuni intre obiective geografice indepartate(poate avea mai multe sedii de conectat, legaturi catre centre de date, [IaaS](https://www.bmc.com/blogs/saas-vs-paas-vs-iaas-whats-the-difference-and-how-to-choose/)-ul poate fi oferit de /externalizat catre un provider, angajatii sai pot lucra in mod protejat/securizat de acasa/la distanta sau de oriunde din afara sediului prin VPN...).
 
   **Tunelurile** sunt ***obiecte persistente*** care direcţionează traficul către înregistrările DNS. 
 
