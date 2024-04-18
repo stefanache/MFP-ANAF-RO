@@ -21,6 +21,6 @@ Iata un simplu cod de [lucrator](https://developers.cloudflare.com/workers/examp
       },
     };
 
-El este gazduit in cloud-ul CF si poate fi livrat via browser.
+El este gazduit in cloud-ul CF si poate fi livrat via [browser](https://workers-playground-dawn-darkness-1140.ion-stefanache.workers.dev/).
 
 Codul unui lucrator poate fi editat si testat in **playground**-ul CF dar si local folosind intrumentul-CLI oferit de catre CF **wrangler** iar cand sunt atinse obiectivele de dezvoltare codul/lucratorul poate fi **implementat/distribuit/salvat/livrat** in **cloud**.
