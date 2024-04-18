@@ -46,7 +46,7 @@ Ce puteti face cu [**CloudFlare(CF)**](https://en.wikipedia.org/wiki/Cloudflare)
 
   In general, o intreprindere poate avea o [arhitectura complexa](https://developers.cloudflare.com/assets/cf1-ref-arch-1-e06c22ed.svg)(conform modelului [SASE](https://developers.cloudflare.com/assets/cf1-ref-arch-1-e06c22ed.svg));
 
-   Asadar vom avea nevoie sa realizam conexiuni intre obiective geografice indepartate(poate avea mai multe sedii de conectat, legaturi catre centre de date, [IaaS](https://www.bmc.com/blogs/saas-vs-paas-vs-iaas-whats-the-difference-and-how-to-choose/)-ul poate fi oferit de /externalizat catre un provider, angajatii sai pot lucra in mod protejat/securizat de acasa/la distanta sau de oriunde din afara sediului prin VPN...).
+   Asadar vom avea nevoie sa realizam conexiuni intre obiective geografice indepartate(poate avea mai multe sedii de conectat, legaturi catre centre de date, [IaaS](https://www.bmc.com/blogs/saas-vs-paas-vs-iaas-whats-the-difference-and-how-to-choose/)-ul poate fi oferit de /externalizat catre un provider, angajatii sai pot lucra in mod protejat/securizat de acasa/la distanta sau de oriunde din afara sediului prin [VPN](https://www.hostinger.com/tutorials/what-is-vpn)...).
 
   **Tunelurile** sunt ***obiecte persistente*** care direcţionează traficul către înregistrările DNS. 
 
