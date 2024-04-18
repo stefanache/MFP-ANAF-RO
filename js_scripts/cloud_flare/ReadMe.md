@@ -73,4 +73,6 @@ Despre oferta de preturi in ceea ce priveste partea asta de "**workers**" puteti
 
 Poate fi util sa consultati si repository oficial al [**CF**](https://github.com/cloudflare) gazduit pe Ghithub
 
+<h3>Alte cazuri de utilizare:</h3>
+
 Un caz interesant de utilizare este si acest tutorial [**CF DDNS**](https://adamtheautomator.com/cloudflare-dynamic-dns/)
