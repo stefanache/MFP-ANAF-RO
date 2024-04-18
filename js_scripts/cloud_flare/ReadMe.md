@@ -76,4 +76,4 @@ Poate fi util sa consultati si repository oficial al [**CF**](https://github.com
 <h3>Alte cateva cazuri de utilizare:</h3>
 
 - Un caz interesant de utilizare este si acest tutorial [**CF DDNS**](https://adamtheautomator.com/cloudflare-dynamic-dns/)
-- Iata aici un [**CF-tunel SSH pentru un RRi4**](https://danishshakeel.me/creating-an-ssh-tunnel-using-cloudflare-argo-and-access/)
+- Iata aici un [**CF-tunel SSH*](https://omar2cloud.github.io/cloudflare/cloudflared/cloudflare/) pentru un [RRi4**](https://danishshakeel.me/creating-an-ssh-tunnel-using-cloudflare-argo-and-access/)
