@@ -66,6 +66,8 @@ In general, o intreprindere/corporatie/multinationala poate avea de [*conectat*]
 
 Asadar, in mod [traditional](https://developers.cloudflare.com/assets/cf1-ref-arch-1-e06c22ed.svg), vom avea nevoie sa realizam un mediu/context/ecosistem de [**conectivitate si securizare(zero trust)**](https://cf-assets.www.cloudflare.com/slt3lc6tev37/17RhepZZwxiD452Hs0gKFk/5324e2c81dcdef79c74efea2c60812ac/Network_Plus_Zero_Trust_Diagram_-_No_CF_Logo_smaller.png) intre diversele [Puncte-de-Acces](https://www.cloudflare.com/learning/access-management/what-is-sase/)(device-uri si utilizatori aflati in diverse locatii/imobile/cladiri/obiectiv) indepartate sau distribuite geografic(poate avea mai multe sedii de conectat, legaturi catre centre de date, [IaaS](https://www.bmc.com/blogs/saas-vs-paas-vs-iaas-whats-the-difference-and-how-to-choose/)-ul poate fi oferit de /externalizat catre un provider, angajatii sai pot lucra prin [VPN](https://www.hostinger.com/tutorials/what-is-vpn), in mod protejat/securizat de acasa/la distanta sau de oriunde din afara sediului ...).
 
+Ghidurile de implmentare [CF-1](https://developers.cloudflare.com/cloudflare-one/) pot constitui un suport important de invatare pus la dispozitie de CF.
+
   
 Desigur este important sa explorati/parcurgeti mai toate [**caile de invatare**](https://developers.cloudflare.com/learning-paths/) propuse de cei de la [**CF**](https://root.md/blog/tutorial-cloudflare/) pentru a acumula experienta si incredere.
 
