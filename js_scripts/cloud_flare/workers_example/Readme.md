@@ -50,7 +50,7 @@ Ce puteti face cu [**CloudFlare(CF)**](https://en.wikipedia.org/wiki/Cloudflare)
 
   Aceste procese(**conectori**) vor stabili conexiuni la CF și vor trimite trafic la cel mai apropiat centru de date CF.
 
-- [**VPN**](https://developers.cloudflare.com/cloudflare-one/connections/connect-devices/warp/) - serviciul-[CF](https://one.one.one.one/) [**WARP**](https://developers.cloudflare.com/cloudflare-one/connections/connect-devices/warp/download-warp/)
+- [**VPN**](https://developers.cloudflare.com/cloudflare-one/connections/connect-devices/warp/) - serviciul-[CF](https://one.one.one.one/) [**WARP**](https://developers.cloudflare.com/cloudflare-one/connections/connect-devices/warp/download-warp/) sau [**WARP VPN**](https://www.wizcase.com/reviews/warp-vpn/?gad_source=1&gclid=Cj0KCQjwiYOxBhC5ARIsAIvdH53s6dvAK60xaSiqJ7F2gjoZ4_RWrohnLssOBoDPmOVBf4uPJiMzBhwaAidhEALw_wcB) de la/oferit de catre ***CF***
 
    Daca ***tunelarea*** se refera la [***conectarea serverelor***](https://simplyexplained.com/uploads/2021-10-20-securely-access-home-network-with-Cloudflare-Tunnel-and-WARP/cloudflare-setup.svg) noastre [software](https://www.youtube.com/watch?v=YbT1BkKpeDw&ab_channel=LogicwithMJ) la internet(in scopul externalizarii accesului securizat sau nu la un serviciu local) in cazul [**VPN**](https://simple.wikipedia.org/wiki/Virtual_private_network)-ului ne referim la [**conectarea securizata de dispozitive hardware(fizice)**](https://simplyexplained.com/uploads/2021-10-20-securely-access-home-network-with-Cloudflare-Tunnel-and-WARP/cloudflare-setup.svg) adica se refera la crearea unei retele particulare/proprii (virtuale) de comunicare/transport securizat(uneori chiar si peste/via internet) [d]intre anumite dispozitive fizice implicate. 
 
