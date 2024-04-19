@@ -56,6 +56,8 @@ Legat de [SIRUTA](https://insse.ro/cms/sites/default/files/field/publicatii/tend
 
 Trebuie stiut si faptul ca [**SIRUTA**](https://www.savastan.ro/noutati.htm) este corelat cu [**NUTS**](https://www.europarl.europa.eu/factsheets/ro/sheet/99/nomenclatorul-comun-al-unitatilor-teritoriale-de-statistica-nuts-) - Nomenclatorul comun al unităților teritoriale de statistică([NUTS](https://data.europa.eu/data/datasets/?locale=ro&query=NUTS&page=1))
 
+Cele 2 nomenclatoare fiind corelate ar trebui sa existe o corespondenta intre codurile lor. Am gasit un [**curs la ASE**](https://www.academia.edu/10165877/Demografie_Curs_9) care vorbeste despre aceasta corespondenta SURUTA-NUTS.
+
 Daca vreti sa aflati CUI-ul unei firme(PJ) si nu stiti decat ca este inregistrata intr-un ***judet*** anume si desigur ii stiti ***denumirea*** atunci puteti apela la aplicatia online a [**MFP**](https://mfinante.gov.ro/info-pj-selectie-nume-si-judet)
 
 [**Nomenclatorul Combinat**](https://data.europa.eu/data/datasets/?locale=ro&dataScope=countryData&country=countryData&query=NC8&page=1) de **bunuri**(***produse*** si ***servicii***) a ajuns in **2024** la versiunea **8**([**NC8**](https://nc8.nxm.ro/))
