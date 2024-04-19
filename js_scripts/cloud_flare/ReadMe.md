@@ -85,10 +85,10 @@ Poate fi util sa consultati si repository oficial al [**CF**](https://github.com
    <sup>( dupa ce in prealabil ati urmat instructiunile de instalare a pachetului ***NodeJS*** incluzand ***npm*** si ***npx*** si apoi a ***daemon***-ului pentru versiunea sistemului de operare pe care-l detineti, oferit de catre **Cloudflared** si denumit "***cloudflared.exe***",   )</sup>; <br/> <br/>
      <h5>***Nota explicativa:***<sup>(pt cazul meu de utilizare: Windows 10 Pro(**W10Pro**)</sup></h5>
     -- dupa instalarea platformei ***NodeJS***, urmeaza instalarea daemonului **Cloudflared** se face prin comanda-CLI(din shell/***cmd.exe***) cu comanda:<br/>
-   ***C:\\USERS\\{UserName}>*** **winget install --id Cloudflare.cloudflared**;</br>
+       ***C:\\USERS\\{UserName}>*** **winget install --id Cloudflare.cloudflared**;</br>
    utlizand instalatorii **npm.exe** sau ***npx.exe***,  componente a pachetului **NodeJS**;<br/>
     -- dupa [**tunelare**(](https://www.npmjs.com/package/cloudflared-tunnel)cda: ***C:\\USERS\\{UserName}>*** **cloudflared tunnel --url http://localhost:80**) veti obtine un link de forma urmatoare:<br/>
-   ***https://autumn-broadband-mounted-track.trycloudflare.com*** <br/> pe care-l puteti utiliza pt a accesa site-urile pe carel le aveti in ***htdocs***;<br/>
+       ***https://autumn-broadband-mounted-track.trycloudflare.com*** <br/> pe care-l puteti utiliza pt a accesa site-urile pe carel le aveti in ***htdocs***;<br/>
 de pilda daca aveti in directorul ***D:\\xampp\\htdocs\\***, un site ***fGetCSV***(care detine fiserul **index.php**), dupa pornirea din ***XAMPP-Control-Panel*** a **webserver**-ului nostru **Apache**(care asculta pe portul ***http*** **80** si pe portul ***https** **443**), ati putea, in cele din urma, deschide un browser(sa spunem **Chrome**) pentru a scrie adresa urmatoare:<br/>
-    ***https://autumn-broadband-mounted-track.trycloudflare.com\fGetCSV***<br/><br/>
+        ***https://autumn-broadband-mounted-track.trycloudflare.com\fGetCSV***<br/><br/>
    - un exemplu pentru [**worker**](https://developers.cloudflare.com/workers/) si un altul pt [**worker kV**](https://developers.cloudflare.com/kv)
