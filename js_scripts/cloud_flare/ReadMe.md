@@ -101,7 +101,7 @@ de pilda, daca aveti in directorul ***D:\\xampp\\htdocs\\***, un **site** ***fGe
    - un alt exemplu este pentru [**worker**](https://developers.cloudflare.com/workers/) si un altul ar putea fi pentru [**worker kV**](https://developers.cloudflare.com/kv)
      
      [<h3>***Nota explicativa:***<sup>(pt cazul meu de utilizare: Windows 10 Pro(**W10Pro**)</sup>](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/do-more-with-tunnels/trycloudflare/)</h3>
-    -- 1.) dupa instalarea platformei ***NodeJS***, urmeaza instalarea/[actualizarea](https://developers.cloudflare.com/workers/wrangler/install-and-update/#update-wrangler)  **Wrangler**, care  se face/proceseaza prin comanda-CLI(din shell/***cmd.exe***), de forma urmatoare:<br/>
+    -- 1.) dupa instalarea platformei ***NodeJS***, urmeaza instalarea/[actualizarea](https://developers.cloudflare.com/workers/wrangler/install-and-update/#update-wrangler)  [**Wrangler**](https://developers.cloudflare.com/workers/wrangler/), care  se face/proceseaza prin comanda-CLI(din shell/***cmd.exe***), de forma urmatoare:<br/>
         - instalarea:
        <pre> C:\USERS\{UserName}> npm install wrangler --save-dev</pre>
         - actualizarea:           
