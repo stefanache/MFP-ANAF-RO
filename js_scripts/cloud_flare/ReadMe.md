@@ -91,7 +91,7 @@ Poate fi util sa consultati si repository oficial al [**CF**](https://github.com
        <pre> C:\USERS\{UserName}> cloudflared tunnel --url http://localhost:80</pre>
        veti obtine un **link**, de forma urmatoare:<br/>
        <pre> https://autumn-broadband-mounted-track.trycloudflare.com</pre>
-        **link** pe care-l puteti utiliza, mai departe, ...<br/>
+        **link** pe care-l puteti utiliza, mai departe, ...<br/><br/>
     -- 3.)...pentru a accesa **site**-ul/urile pe care il/le aveti in ***htdocs***;<br/>
 de pilda, daca aveti in directorul ***D:\\xampp\\htdocs\\***, un **site** ***fGetCSV***(care detine fiserul **index.php**), dupa pornirea din ***XAMPP-Control-Panel*** a **webserver**-ului nostru **Apache**(care asculta pe portul ***http*** **80** si pe portul ***https** **443**), ati putea, in cele din urma, deschide un browser(sa spunem **Chrome**) pentru a scrie si apoi acccesa **adresa-URL** urmatoare:<br/>
        <pre> https://autumn-broadband-mounted-track.trycloudflare.com\fGetCSV</pre><br/><br/>
