@@ -127,7 +127,7 @@ de pilda, daca aveti in directorul ***D:\\xampp\\htdocs\\***, un **site** ***fGe
        va aparea o fereastra cu 2 sectiuni:<br/>
         - ***Active Deployment***<br/>
         - ***Version History***<br/>
-       in prima sectiune sectiune(***Active Deployment***) veti vedea/regasi pe prima linie urmatoarele informatii ale deployment-ului/instalarii active/curente:<br/>
+       in prima sectiune(***Active Deployment***) veti vedea/regasi pe prima linie urmatoarele informatii ale deployment-ului/instalarii active/curente:<br/>
         -- ***Deployment ID*** - prima parte a UUID-ului pe care vi l-a afisat wrangler la momentul instalarii/publicarii(ceva de genul: **d83527ad**);<br/>
         -- ***Created*** - va va spune cu cat timp in urma a fost creata instalarea si cine este autorul ei(ceva de forma : 36 minutes ago by {your-name});<br/>
         -- ***Version Message***;<br/>
