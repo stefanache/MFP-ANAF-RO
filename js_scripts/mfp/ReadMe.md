@@ -23,7 +23,7 @@ O serie de codificari/clasificari gasiti si pe site-ul[eCoduri](https://www.ecod
 [INS](https://data.gov.ro/dataset/siruta/resource/ed3f9ec6-8c12-4ba6-8688-74cadc69f14b) pune la toate versiunile si clasificarile pe care le utilizeza pe serverul lor [SENIN/IP=80.96.186.4:81](http://80.96.186.4:81/senin/classifications.htm?selectedClassification=&action=&classificationName=SIRUTA); Exista si un serviciu web oferit de [INSSE](https://webgis.insse.ro/servicii/rest/services/Operational/Localitati/MapServer/0) ce poate fi accesat folosind protocolul ArcGIS REST or SOAP;
 Pentru a putea livra un asemenea [serviciu de date spatiale](https://lege5.ro/gratuit/geztmojwg4zdc/normele-tehnice-pentru-realizarea-seturilor-de-date-spatiale-aferente-planurilor-de-amenajare-a-teritoriului-judetean-din-15052023) veti avea nevoie de un server ArcGIS; Interesant este si acest [manual INS](https://insse.ro/cms/files/site_podca/actualizari/manual_preview%208.pdf)(cautati dupa cuvantul ***SIRUTA*** pentru a descoperi legautura cu acest nomenclator); 
 
-Iata si unde nu este necesar [SIRUTA](https://smartcash.community/cum-sa-ma-pregatesc-pentru-e-factura-si-e-transport/)
+Iata si unde nu este necesar [**SIRUTA**](https://smartcash.community/cum-sa-ma-pregatesc-pentru-e-factura-si-e-transport/)
 
 Puteti gasi [SIRUTA](http://80.96.186.4:81/senin/classifications.htm?selectedClassification=&action=&classificationName=SIRUTA)(inclusiv CAEN si CPSA) pe server-ul [SENIN](http://80.96.186.4:81/senin/classifications.htm?selectedClassification=CPSA2008&action=structure) al [INSSE](https://bucuresti.insse.ro/produse-si-servicii/nomenclatoare-statistice/) dar si pe site-ul [european](https://data.europa.eu/data/datasets/?locale=ro) puteti sa gasiti de asemena versiuni al [SIRUTA](https://data.europa.eu/data/datasets/9f38f6fe-66a0-4e93-ae24-4272b91c9849?locale=es)
 
@@ -66,7 +66,7 @@ La/In ***momentul inlocuirii** unui nomenclator actual aflat in functiune,   cu 
 
 - ***indicatia-1***: 
 
-<span style="color:blue;margins:10px;">mentineti/intretineti/gestionati/controlati in tabela de nomenclatoare/clasificari/codificari alaturi de/impreuna cu 
+<span style="color:blue;">mentineti/intretineti/gestionati/controlati in tabela de nomenclatoare/clasificari/codificari alaturi de/impreuna cu 
 campurile de tip "*date-time*" de **inceput** si **sfarsit** utilizare(adica alaturi **intervalul temporal** de utilizare), 
 un camp/coloana denumit[a] "used"/"**utilizat**" de tip "*check*" / "*boolean*", care se ***bifeaza***/***selecteaza***/***setaza: 0->1***, 
 la **prima utilizare**(adica ***atunci cand*** / ***in momentul in care***  se  **selecteaza**/**se plaseaza o referinta**  catre ***primul cod***, intr-o interactiune cu 
