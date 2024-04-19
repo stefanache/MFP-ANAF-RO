@@ -103,7 +103,7 @@ de pilda, daca aveti in directorul ***D:\\xampp\\htdocs\\***, un **site** ***fGe
      [<h3>***Nota explicativa:***<sup>(pt cazul meu de utilizare: Windows 10 Pro(**W10Pro**)</sup>](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/do-more-with-tunnels/trycloudflare/)</h3>
     -- 1.) dupa instalarea platformei ***NodeJS***, urmeaza instalarea/[actualizarea](https://developers.cloudflare.com/workers/wrangler/install-and-update/#update-wrangler)  **Wrangler**, care  se face/proceseaza prin comanda-CLI(din shell/***cmd.exe***), de forma urmatoare:<br/>
         - instalarea:
-       <pre> npm install wrangler --save-dev<pre><br/>
+       <pre> npm install wrangler --save-dev</pre>pre><br/>
         - actualizarea:           
        <pre> C:\USERS\{UserName}> npm install wrangler@latest</pre><br/>
         - pentru a verifica versiunea utilizati comanda:
