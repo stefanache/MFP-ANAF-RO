@@ -80,7 +80,7 @@ Poate fi util sa consultati si repository oficial al [**CF**](https://github.com
 - [**CF-tunelari in Python**](https://scriptnet.se/cloudflare-tunnels-in-python/)
 - [**Free4Dev**](https://free-for.dev) ofera o multime de liste de SW( (SaaS, PaaS, IaaS, etc.) și alte oferte(cu niveluri gratuite pentru dezvoltatori):
    - iata spre exemplu o referinta pt [***DNS***](https://free-for.dev/#/?id=dns) si
-   - o alta pt subiectul/tocpic-ul [***CF***](https://free-for.dev/#/?id=CloudFlare) care va arata de pilda, cum puteti foarte [**rapid**](https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/run-tunnel/trycloudflare), expune la/pe internet,<br/>
+   - o alta referinta pt subiectul/tocpic-ul [***CF***](https://free-for.dev/#/?id=CloudFlare) care va arata de pilda, cum puteti foarte [**rapid**](https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/run-tunnel/trycloudflare), expune la/pe internet,<br/>
    o resursa software(ex. un web-server Apache parte a produsului XAMPP), prin [**tunelare**](https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/run-tunnel/trycloudflare), utilizand comanda-CLI(de sub ***cmd.exe***):<br/> ***C:\\USERS\\{UserName}>*** **cloudflared tunnel --url http://localhost:80**<br/>
    <sup>( dupa ce in prealabil ati urmat instructiunile de instalare a pachetului ***NodeJS*** incluzand ***npm*** si ***npx*** si apoi a ***daemon***-ului pentru versiunea sistemului de operare pe care-l detineti, oferit de catre **Cloudflared** si denumit "***cloudflared.exe***",   )</sup>; <br/>
    <br/> - ***Nota explicativa<sup>(pt cazul meu de utilizare: Windows 10 Pro(**W10Pro**)</sup>:***<br/>
