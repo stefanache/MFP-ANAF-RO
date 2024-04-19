@@ -121,7 +121,7 @@ de pilda, daca aveti in directorul ***D:\\xampp\\htdocs\\***, un **site** ***fGe
        <pre> https://hello.{your-name}.workers.dev</pre>
     -- 4.)  pentru a vedea depozitul respectiv mergeti in [tabloul vostru de bord](https://dash.cloudflare.com/oauth2/auth?response_type=code&client_id=54d11594-84e4-41aa-b438-e81b8fa78ee7&redirect_uri=http%3A%2F%2Flocalhost%3A8976%2Foauth%2Fcallback&scope=account%3Aread%20user%3Aread%20workers%3Awrite%20workers_kv%3Awrite%20workers_routes%3Awrite%20workers_scripts%3Awrite%20workers_tail%3Aread%20d1%3Awrite%20pages%3Awrite%20zone%3Aread%20ssl_certs%3Awrite%20constellation%3Awrite%20ai%3Awrite%20queues%3Awrite%20offline_access&state=dXGqeTPuGnY5rW0ZahWDSb4nIFf.SfZK&code_challenge=fSPmYyB9p7qIhegLcxLqVxS2ET3GRWnK7cLYulRhHEs&code_challeng) din CloudFlare: ([CF-dashbord](https://dash.cloudflare.com/)),<br/>
        si apoi dupa ce introduceti email-ul si parola contului dvs CF, navigati in meniul din stanga pe traseul:
-       <pre> workers-and-pages -> Overview </pre>
+       <pre> Workers-& Pages -> Overview </pre>
        si apoi in panoul din dreapta veti regasi proiectul "**hello**" publicat de dvs cu ajutorul lui wrangler;<br/>
        dati click pe proiectul  **hello** si apoi sus in meniul-orizontal al panoului dati click pe optiunea-de-meniu **Deployments**;<br/>
        va aparea o fereastra cu 2 sectiuni:<br/>
