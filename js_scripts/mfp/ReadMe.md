@@ -66,7 +66,7 @@ La/In ***momentul inlocuirii** unui nomenclator actual aflat in functiune,   cu 
 
 - ***indicatia-1***: 
 
-mentineti/intretineti/gestionati/controlati in tabela de nomenclatoare/clasificari/codificari alaturi de/impreuna cu 
+<space/>mentineti/intretineti/gestionati/controlati in tabela de nomenclatoare/clasificari/codificari alaturi de/impreuna cu 
 campurile de tip "*date-time*" de **inceput** si **sfarsit** utilizare(adica alaturi **intervalul temporal** de utilizare), 
 un camp/coloana denumit[a] "used"/"**utilizat**" de tip "*check*" / "*boolean*", care se ***bifeaza***/***selecteaza***/***setaza: 0->1***, 
 la **prima utilizare**(adica ***atunci cand*** / ***in momentul in care***  se  **selecteaza**/**se plaseaza o referinta**  catre ***primul cod***, intr-o interactiune cu 
