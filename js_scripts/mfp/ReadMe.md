@@ -74,7 +74,7 @@ se ***bifeaza***/***selecteaza***/***setaza la 1: 0->1***, la **prima utilizare*
 (adica ***atunci cand*** / ***in momentul in care***  se  **selecteaza**/**se plaseaza o referinta**  catre ***codul*** respectiv, pentru prima data, intr-o interactiune cu utilizatorul ori in mod automat(prin program), 
 din/pt acea **clasificare/nomenclator/codificare**);</sup>
 
-Pentru a putea stii/cunoaste daca au aparut **noi** seturi de date(**DS**-uri) este util sa creati un **Cron-Job**-task(un "**crawl**" rulabil periodic, cu o anumita frecventa) care sa **baleeze* **URL-urile oficiale** de descarcare clasificari,nomenclatoare codificari...etc si sa captureze(**scrape**) **meta-date** sau informatii descriptive despre seturile de date aparute care sa va fie **raportate** pentru stii/decide daca se va lua sau nu masura de a le **descarca/download** si in consecinta de a le **inlocui**/**adauga** pe/la cele existente.
+Pentru a putea stii/cunoaste daca au aparut **noi** seturi de date(**DS**-uri) este util sa creati un **Cron-Job**-task(un "**crawl/(ro)bot**" rulabil periodic, cu o anumita frecventa) care sa **baleeze* **URL-urile oficiale** de descarcare clasificari,nomenclatoare codificari...etc si sa captureze(**scrape**) **meta-date** sau informatii descriptive despre seturile de date aparute care sa va fie **raportate** pentru stii/decide daca se va lua sau nu masura de a le **descarca/download** si in consecinta de a le **inlocui**/**adauga** pe/la cele existente.
 
 Bine ar fi fost daca autoritatile ar avea un ***serviciu*** online de informare/notificare(de "**push**") a acestor aparitii de noi versiuni ale acestor **DS**-uri sau macar ar folosi **Github** pentru a mentine un repository pentru **toate** aceste date oficiale). 
 
