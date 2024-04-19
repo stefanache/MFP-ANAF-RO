@@ -134,6 +134,6 @@ de pilda, daca aveti in directorul ***D:\\xampp\\htdocs\\***, un **site** ***fGe
         -- ***100%*** - ca a fost incarcat integral;<br/>
         -- si in cele din urma, la final de rand, veti regasi un link [***View Version***](https://hello.ion-stefanache.workers.dev/) - care daca va fi click-at/accesat,<br/>
         va lansa in browser lucratorul/worker-ul "Hello", care va afisa mesajul urmator:<br/>
-        **Hello World!**
+            **Hello World!**
   
   
