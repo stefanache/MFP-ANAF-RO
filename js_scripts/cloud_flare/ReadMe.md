@@ -128,11 +128,11 @@ de pilda, daca aveti in directorul ***D:\\xampp\\htdocs\\***, un **site** ***fGe
         - ***Active Deployment***<br/>
         - ***Version History***<br/>
        in prima sectiune sectiune(***Active Deployment***) veti vedea/regasi pe prima linie urmatoarele informatii ale deployment-ului/instalarii active/curente:<br/>
-        - ***Deployment ID*** - prima parte a UUID-ului pe care vi l-a afisat wrangler la momentul instalarii/publicarii(ceva de genul: **d83527ad**);<br/>
-        - ***Created*** - va va spune cu cat timp in urma a fost creata instalarea si cine este autorul ei(ceva de forma : 36 minutes ago by {your-name});<br/>
-        - ***Version Message***;<br/>
-        - ***100%*** - ca a fost incarcat integral;<br/>
-        - si in cele din urma, la final de rand, veti regasi un link [***View Version***](https://hello.ion-stefanache.workers.dev/) - care daca va fi click-at/accesat,<br/>
+        -- ***Deployment ID*** - prima parte a UUID-ului pe care vi l-a afisat wrangler la momentul instalarii/publicarii(ceva de genul: **d83527ad**);<br/>
+        -- ***Created*** - va va spune cu cat timp in urma a fost creata instalarea si cine este autorul ei(ceva de forma : 36 minutes ago by {your-name});<br/>
+        -- ***Version Message***;<br/>
+        -- ***100%*** - ca a fost incarcat integral;<br/>
+        -- si in cele din urma, la final de rand, veti regasi un link [***View Version***](https://hello.ion-stefanache.workers.dev/) - care daca va fi click-at/accesat,<br/>
         va lansa in browser lucratorul/worker-ul "Hello",care va afisa mesajul urmator:<br/>
         **Hello World!**
   
