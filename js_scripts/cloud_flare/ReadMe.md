@@ -108,3 +108,8 @@ de pilda, daca aveti in directorul ***D:\\xampp\\htdocs\\***, un **site** ***fGe
        <pre> C:\USERS\{UserName}> npm install wrangler@latest</pre>
         - pentru a verifica versiunea:
        <pre> C:\USERS\{UserName}> npx wrangler --version</pre>  
+    -- 2.) urmeaza crearea proiectului cu comanda:
+        - crearea:           
+       <pre> C:\USERS\{UserName}> wrangler init hello -y<pre>
+        - apoi mergem in directorul nou creat:
+       <pre> C:\USERS\{UserName}> cd hello</pre>         
