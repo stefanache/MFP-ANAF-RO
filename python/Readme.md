@@ -15,3 +15,4 @@ Desigur puteti cauta acest nomenclator **SIRUTA** si pe [data.gov.ro](https://da
 
 Puteti afla mai multe depre aceste 2 nomenclatoare CAEN si CPSA folosind aceasta [cautare simpla google](https://www.google.com/search?q=caen+cpsa&rlz=1C1JJTC_enRO1087RO1087&oq=CAEN&gs_lcrp=EgZjaHJvbWUqCAgAEEUYJxg7MggIABBFGCcYOzIGCAEQRRg5Mg8IAhAuGEMYsQMYgAQYigUyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgAQyBwgJEAAYgATSAQkzMTkxajBqMTWoAgiwAgE&sourceid=chrome&ie=UTF-8#ip=1)
 
+Pentru cei care doresc sa caute date pe data.gov.ro(ckan) pot studia mai intai aceasta [pagina](https://data.gov.ro/pages/developers) dedicata comunitatii dezvoltatorilor
