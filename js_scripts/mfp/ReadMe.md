@@ -76,7 +76,7 @@ din/pt acea **clasificare/nomenclator/codificare**);</sup>
 
 Pentru a putea stii/cunoaste daca au aparut **noi** seturi de date(**DS**-uri) este util sa creati un **Cron-Job**-task(un "**crawl/(ro)bot**" rulabil periodic, cu o anumita frecventa) care sa **baleeze* **URL-urile oficiale** de descarcare clasificari,nomenclatoare codificari...etc si sa captureze(**scrape**) **meta-date** sau informatii descriptive despre seturile de date aparute care sa va fie **raportate** pentru stii/decide daca se va lua sau nu masura de a le **descarca/download** si in consecinta de a le **inlocui**/**adauga** pe/la cele existente.
 
-Bine ar fi fost daca autoritatile ar avea un ***serviciu*** online de informare/notificare(de tip "**pusher**") a acestor aparitii de noi versiuni ale acestor **DS**-uri sau macar ar folosi **Github** pentru a mentine un depozit/repository(pentru **toate** aceste date oficiale). 
+Bine ar fi fost daca autoritatile ar avea un ***serviciu*** online de informare/notificare(de tip "**pusher**") a acestor aparitii de noi versiuni ale acestor **DS**-uri sau macar ar folosi **Github** pentru a mentine un **depozit/repository unic/unitar**(pentru **toate** aceste date oficiale). 
 
 Cum nu cred ca exista un astfel de **punct de informare** de tip "***news-letter***" nu aveti decat sa cautati voi/singurice va trebuie...bafta!!!
 
