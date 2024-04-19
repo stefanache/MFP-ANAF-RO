@@ -18,3 +18,5 @@ Puteti afla mai multe depre aceste 2 nomenclatoare CAEN si CPSA folosind aceasta
 Pentru cei care doresc sa caute date pe data.gov.ro(ckan) pot studia mai intai aceasta [pagina](https://data.gov.ro/pages/developers) dedicata comunitatii dezvoltatorilor
 
 Exista si un [downloader](https://github.com/deathy/data-gov-ro-data-download) pt data.gov.ro, script scris in python.
+
+Iata aici am gasit un depozit care [listeaza primariile](https://github.com/vimishor/dataset-primarii) din Romania.
