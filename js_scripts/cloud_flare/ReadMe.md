@@ -78,6 +78,6 @@ Poate fi util sa consultati si repository oficial al [**CF**](https://github.com
 - Un caz interesant de utilizare este si acest tutorial [**CF DDNS**](https://adamtheautomator.com/cloudflare-dynamic-dns/)
 - Iata aici un [**CF-tunel SSH**](https://danishshakeel.me/creating-an-ssh-tunnel-using-cloudflare-argo-and-access/) pentru un [**RRi4**](https://omar2cloud.github.io/cloudflare/cloudflared/cloudflare/)
 - [**CF-tunelari in Python**](https://scriptnet.se/cloudflare-tunnels-in-python/)
-- [**Free4Dev**](https://free-for.dev) ofera o multime de liste de SW:
+- [**Free4Dev**](https://free-for.dev) ofera o multime de liste de SW( (SaaS, PaaS, IaaS, etc.)):
    - iata spre exemplu o referinta pt [***DNS***](https://free-for.dev/#/?id=dns) si
-   - o alta pt subiectul/tocpic-ul [***CF***](https://free-for.dev/#/?id=CloudFlare) care va arata de pilda cum puteti foarte [rapid](https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/run-tunnel/trycloudflare) expune la internet o resursa software(server) prin [tunelare](https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/run-tunnel/trycloudflare)
+   - o alta pt subiectul/tocpic-ul [***CF***](https://free-for.dev/#/?id=CloudFlare) care va arata de pilda cum puteti foarte [**rapid**](https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/run-tunnel/trycloudflare) expune la internet o resursa software(server) prin [**tunelare**](https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/run-tunnel/trycloudflare)
