@@ -52,6 +52,10 @@ Daca doriti [date spatiale](https://geo-spatial.org/proiecte/alegeri2019/part5.h
 
 **Mentiune**: cand aveti de procesat [analize geo-spatiale](https://mindthegraph.com/blog/ro/ce-este-analiza-geospatiala/),  trebuie stiut faptul ca  organizatia [***GEO-SPATIAL***](https://www.google.com/search?q=GEO-SPATIAL&lr=lang_ro&sca_esv=e91e320a5f7b7808&rlz=1C1JJTC_enRO1087RO1087&biw=1536&bih=762&tbs=lr%3Alang_1ro%2Cqdr%3Ay&sxsrf=ACQVn0-3ygUbPCx5r1-wkCWxfyZ8xJARXg%3A1713516077418&ei=LS4iZuCBGfatxc8PrpiA-Ak&udm=&ved=0ahUKEwigzPHo8M2FAxX2VvEDHS4MAJ8Q4dUDCBA&uact=5&oq=GEO-SPATIAL&gs_lp=Egxnd3Mtd2l6LXNlcnAiC0dFTy1TUEFUSUFMMgQQIxgnMgUQABiABDIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyChAAGIAEGAoYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywFIphhQgQpY-xJwAXgAkAEAmAGCAaABjAiqAQMwLjm4AQPIAQD4AQGYAgmgAr0HwgILEAAYgAQYsAMYogTCAgsQABiwAxiiBBiJBcICCBAAGAgYDRgewgIGEAAYDRgewgIHEAAYgAQYDZgDAIgGAZAGA5IHAzEuOKAHoTE&sclient=gws-wiz-serp#ip=1) merita sa fie indeaproape urmarita pe internet!!!
 
+Iata cateva link-uri interesante de care am aflat urmarind activitatea celor de la GEO-SPATIAL:
+
+- [actinia-core](https://actinia-org.github.io/actinia-core/introduction/)
+
 Aceasta analiza "Sectorul non-profit românesc: date existente, infrastructura de colectare, utilizarea datelor și posibile soluții de eficientizare " poate fi utila pentru [link-urile oferite](https://rafonline.org/wp-content/uploads/2023/01/Raport-infrastructuradate-sector-ONG_FDSC-2021-compressed.pdf).
 
 Legat de [SIRUTA](https://insse.ro/cms/sites/default/files/field/publicatii/tendinte_sociale_2.pdf) mai gasiti si acest document(ceva mai vechi dar interesant)pe site-ul [MDLPA](https://www.mdlpa.ro/uploads/articole/attachments/64d0a28762583720581068.pdf)
