@@ -3,7 +3,7 @@ Vom incerca sa discutam cate [ceva](https://developers.cloudflare.com/) despre [
 
 CF ofera o paleta larga de produse dar accentul/focusul va fi pus pe [**lucratorii-CF**](https://developers.cloudflare.com/workers/)(pentru inceput, dar nu numai[!!!](https://developers.cloudflare.com/products/)).
 
-Iata un simplu cod/scriptul **Javascript(JS)**<sup>***nodeJS***</sup> de [lucrator](https://developers.cloudflare.com/workers/examples/return-html/)<sup>asincron</sup> - care **returneaza/genereaza/afiseaza cod HTML** in vederea afisarii in browser-ul dvs:
+Iata un simplu cod/scriptul **Javascript(index.js)**<sup>***nodeJS***</sup> de [lucrator](https://developers.cloudflare.com/workers/examples/return-html/)<sup>asincron</sup> - care **returneaza/genereaza/afiseaza cod HTML** in vederea afisarii in browser-ul dvs:
 
     export default {
       async fetch(request) {
@@ -21,7 +21,7 @@ Iata un simplu cod/scriptul **Javascript(JS)**<sup>***nodeJS***</sup> de [lucrat
       },
     };
 
-Codul/scriptul exchivalent pentru acelasi exemplu, scris in **Typescript**, arata astfel:
+Codul/scriptul exchivalent pentru acelasi exemplu, scris in **Typescript(index.ts)**, arata astfel:
 
     export default {
       async fetch(request: Request) {
@@ -39,7 +39,7 @@ Codul/scriptul exchivalent pentru acelasi exemplu, scris in **Typescript**, arat
       },
     } satisfies ExportedHandler;
 
-Iar codul/scriptul echivalent **Python(Py)**, pentru acelasi exemplu, arata astfel:
+Iar codul/scriptul echivalent **Python(index.py)**, pentru acelasi exemplu, arata astfel:
 
     from js import Response, Headers
     
