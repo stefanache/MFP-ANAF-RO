@@ -95,4 +95,4 @@ Poate fi util sa consultati si repository oficial al [**CF**](https://github.com
     -- 3.)...pentru a accesa **site**-ul/urile pe care il/le aveti in ***htdocs***;<br/>
 de pilda, daca aveti in directorul ***D:\\xampp\\htdocs\\***, un **site** ***fGetCSV***(care detine fiserul **index.php**), dupa pornirea din ***XAMPP-Control-Panel*** a **webserver**-ului nostru **Apache**(care asculta pe portul ***http*** **80** si pe portul ***https** **443**), ati putea, in cele din urma, de pe orice dispozitiv(mobil,PC-desktop,tableta,RPi,...), conectat la **internet**, deschide un browser(sa spunem **Chrome**) pentru a scrie si apoi acccesa **adresa-URL** urmatoare:<br/>
        <pre> https://autumn-broadband-mounted-track.trycloudflare.com\fGetCSV</pre>
-   - un alt exemplu este pentru [**worker**](https://developers.cloudflare.com/workers/) si un altul ar fi pentru [**worker kV**](https://developers.cloudflare.com/kv)
+   - un alt exemplu este pentru [**worker**](https://developers.cloudflare.com/workers/) si un altul ar putea fi pentru [**worker kV**](https://developers.cloudflare.com/kv)
