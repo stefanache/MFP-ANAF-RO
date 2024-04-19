@@ -85,6 +85,6 @@ Poate fi util sa consultati si repository oficial al [**CF**](https://github.com
    <sup>( dupa ce in prealabil ati urmat instructiunile de instalare ***NodeJS*** incluzand ***npm*** si ***daemonul*** oferit de catre **Cloudflared** "***cloudflared***",  pentru versiunea sistemului de operare pe care-l detineti )</sup>; <br/>
    dupa instalare veti obtine un link de forma:<br/>
    ***https://autumn-broadband-mounted-track.trycloudflare.com*** <br/> pe care-l puteti utiliza pt a accesa site-urile pe carel le aveti in ***htdocs***;<br/>
-de pilda daca aveti in directorul ***D:\\xampp\\htdocs\\***, un site ***fGetCSV*** si fiserul **index.php**, dupa pornirea din ***XAMPP-Control-Panel*** a **webserver-**ului nostru **Apache**(care asculta pe portul ***http*** **80** si pe portul ***https** **443**), ati putea deschide in cele din urma un browser(sa spunem **Chrome**) si sa scriem adresa urmatoare:<br/>
+de pilda daca aveti in directorul ***D:\\xampp\\htdocs\\***, un site ***fGetCSV***(care detine fiserul **index.php**), dupa pornirea din ***XAMPP-Control-Panel*** a **webserver-**ului nostru **Apache**(care asculta pe portul ***http*** **80** si pe portul ***https** **443**), ati putea, in cele din urma, deschide un browser(sa spunem **Chrome**) pentru a scrie adresa urmatoare:<br/>
     ***https://autumn-broadband-mounted-track.trycloudflare.com\fGetCSV***<br/>
    - un exemplu pentru [worker ](https://developers.cloudflare.com/workers/) si ul altul pt [worker kV]](https://developers.cloudflare.com/kv)
