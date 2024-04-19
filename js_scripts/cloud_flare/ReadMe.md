@@ -106,5 +106,5 @@ de pilda, daca aveti in directorul ***D:\\xampp\\htdocs\\***, un **site** ***fGe
        <pre> C:\USERS\{UserName}> npm install wrangler --save-dev</pre>
         - actualizarea:           
        <pre> C:\USERS\{UserName}> npm install wrangler@latest</pre>
-        - pentru a verifica versiunea utilizati comanda:
+        - pentru a verifica versiunea:
        <pre> C:\USERS\{UserName}> npx wrangler --version</pre>  
