@@ -87,7 +87,7 @@ Poate fi util sa consultati si repository oficial al [**CF**](https://github.com
     -- 1.) dupa instalarea platformei ***NodeJS***, urmeaza instalarea daemonului **Cloudflared**, care  se face/proceseaza prin comanda-CLI(din shell/***cmd.exe***), de forma urmatoare:<br/>
        <pre> C:\USERS\{UserName}> winget install --id Cloudflare.cloudflared</pre>
        utlizand instalatorii **npm.exe** sau ***npx.exe***,  componente a pachetului **NodeJS**;<br/>     
-    -- 2.) dupa [**tunelare**](https://www.npmjs.com/package/cloudflared-tunnel), utilizand/procesand cda-CLI de mai sus: <br/>
+    -- 2.) dupa instalarea daemonului, urmeaza [**tunelarea**](https://www.npmjs.com/package/cloudflared-tunnel) propriu-zisa, utilizand/procesand cda-CLI de mai sus: <br/>
        <pre> C:\USERS\{UserName}> cloudflared tunnel --url http://localhost:80</pre>
        veti obtine un **link**, de forma urmatoare:<br/>
        <pre> https://autumn-broadband-mounted-track.trycloudflare.com</pre>
