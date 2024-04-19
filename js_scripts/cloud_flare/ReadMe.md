@@ -85,9 +85,11 @@ Poate fi util sa consultati si repository oficial al [**CF**](https://github.com
    <sup>( dupa ce in prealabil ati urmat instructiunile de instalare a pachetului ***NodeJS*** incluzand ***npm*** si ***npx*** si apoi a ***daemon***-ului pentru versiunea sistemului de operare pe care-l detineti, oferit de catre **Cloudflared** si denumit "***cloudflared.exe***",   )</sup>; <br/> <br/>
      [<h3>***Nota explicativa:***<sup>(pt cazul meu de utilizare: Windows 10 Pro(**W10Pro**)</sup>](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/do-more-with-tunnels/trycloudflare/)</h3>
     -- 1.) dupa instalarea platformei ***NodeJS***, urmeaza instalarea daemonului **Cloudflared**, care  se face/proceseaza prin comanda-CLI(din shell/***cmd.exe***), de forma urmatoare:<br/>
-       <pre> C:\USERS\{UserName}> winget install --id Cloudflare.cloudflared</pre>utlizand instalatorii **npm.exe** sau ***npx.exe***,  componente a pachetului **NodeJS**;<br/>     
+       <pre> C:\USERS\{UserName}> winget install --id Cloudflare.cloudflared</pre>
+       utlizand instalatorii **npm.exe** sau ***npx.exe***,  componente a pachetului **NodeJS**;<br/>     
     -- 2.) dupa [**tunelare**](https://www.npmjs.com/package/cloudflared-tunnel), utilizand/procesand cda-CLI de mai sus: <br/>
-       <pre> C:\USERS\{UserName}> cloudflared tunnel --url http://localhost:80</pre>veti obtine un link, de forma urmatoare:<br/>
+       <pre> C:\USERS\{UserName}> cloudflared tunnel --url http://localhost:80</pre>
+       veti obtine un link, de forma urmatoare:<br/>
        <pre> https://autumn-broadband-mounted-track.trycloudflare.com</pre>       
     -- 3.) link pe care-l puteti utiliza, mai departe, pt a accesa site-urile pe carel le aveti in ***htdocs***;<br/>
 de pilda, daca aveti in directorul ***D:\\xampp\\htdocs\\***, un site ***fGetCSV***(care detine fiserul **index.php**), dupa pornirea din ***XAMPP-Control-Panel*** a **webserver**-ului nostru **Apache**(care asculta pe portul ***http*** **80** si pe portul ***https** **443**), ati putea, in cele din urma, deschide un browser(sa spunem **Chrome**) pentru a scrie adresa urmatoare:<br/>
