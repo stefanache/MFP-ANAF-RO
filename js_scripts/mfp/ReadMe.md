@@ -56,7 +56,7 @@ Legat de [SIRUTA](https://insse.ro/cms/sites/default/files/field/publicatii/tend
 
 Trebuie stiut si faptul ca [**SIRUTA**](https://www.savastan.ro/noutati.htm) este corelat cu [**NUTS**](https://www.europarl.europa.eu/factsheets/ro/sheet/99/nomenclatorul-comun-al-unitatilor-teritoriale-de-statistica-nuts-) - Nomenclatorul comun al unităților teritoriale de statistică([NUTS](https://data.europa.eu/data/datasets/?locale=ro&query=NUTS&page=1))
 
-Cele 2 nomenclatoare fiind corelate ar trebui sa existe o corespondenta/asociere intre codurile lor. Am gasit un [**curs la ASE**](https://www.academia.edu/10165877/Demografie_Curs_9) care vorbeste despre aceasta corespondenta **SURUTA - NUTS**.
+Cele 2 nomenclatoare([SIRUTA](https://insse.ro/cms/files/siruta/Metodologie.doc) si NUTS) fiind corelate ar trebui sa existe o corespondenta/asociere intre codurile lor. Am gasit un [**curs la ASE**](https://www.academia.edu/10165877/Demografie_Curs_9) in care se vorbeste despre aceasta corespondenta **SURUTA - NUTS**. Este posibil sa fie de fapt 2 cosepondente/legaturile de la SIRUTA catre NUTS si invers de la NUTS catre SIRUTA. Ca sa nu mai vorbim ca oricare corespondenta ar putea fi dedusa folosind o codificare intermediara cum ar fi cea a codurilor postale.
 
 Daca vreti sa aflati CUI-ul unei firme(PJ) si nu stiti decat ca este inregistrata intr-un ***judet*** anume si desigur ii stiti ***denumirea*** atunci puteti apela la aplicatia online a [**MFP**](https://mfinante.gov.ro/info-pj-selectie-nume-si-judet)
 
