@@ -87,12 +87,12 @@ Poate fi util sa consultati si repository oficial al [**CF**](https://github.com
     -- 1.) dupa instalarea platformei ***NodeJS***, urmeaza instalarea daemonului **Cloudflared**, care  se face/proceseaza prin comanda-CLI(din shell/***cmd.exe***), de forma urmatoare:<br/>
        <pre> C:\USERS\{UserName}> winget install --id Cloudflare.cloudflared</pre>
        utlizand instalatorii **npm.exe** sau ***npx.exe***,  componente a pachetului **NodeJS**;<br/>     
-    -- 2.) dupa instalarea daemonului, urmeaza [**tunelarea**](https://www.npmjs.com/package/cloudflared-tunnel) propriu-zisa, utilizand/procesand cda-CLI de mai sus: <br/>
+    -- 2.) dupa instalarea daemon-ului **cloudflared<**, urmeaza [**tunelarea**](https://www.npmjs.com/package/cloudflared-tunnel) propriu-zisa, utilizand/procesand cda-CLI de mai sus: <br/>
        <pre> C:\USERS\{UserName}> cloudflared tunnel --url http://localhost:80</pre>
        veti obtine un **link**, de forma urmatoare:<br/>
        <pre> https://autumn-broadband-mounted-track.trycloudflare.com</pre>
         **link** pe care-l puteti utiliza, mai departe, ...<br/><br/>
     -- 3.)...pentru a accesa **site**-ul/urile pe care il/le aveti in ***htdocs***;<br/>
-de pilda, daca aveti in directorul ***D:\\xampp\\htdocs\\***, un **site** ***fGetCSV***(care detine fiserul **index.php**), dupa pornirea din ***XAMPP-Control-Panel*** a **webserver**-ului nostru **Apache**(care asculta pe portul ***http*** **80** si pe portul ***https** **443**), ati putea, in cele din urma, de pe orice dispozitiv(mobil,PC-desktop,tableta,RPi,...), conectat la **internet**, deschide un browser(sa spunem **Chrome**) pentru a scrie si apoi acccesa **adresa-URL** urmatoare:<br/>
+de pilda, daca aveti in directorul ***D:\\xampp\\htdocs\\***, un **site** ***fGetCSV***(care detine fiserul **index.php**), dupa pornirea din ***XAMPP-Control-Panel*** a **webserver**-ului nostru **Apache**(care asculta pe portul ***http*** **80** si pe portul ***https** **443**), ati putea, in cele din urma, de pe orice dispozitiv(mobil,PC-desktop,tableta,RPi,...), conectat la/in [**internet**](https://noise.getoto.net/tag/connector/), deschide un browser(sa spunem **Chrome**) pentru a scrie si apoi acccesa **adresa-URL** urmatoare:<br/>
        <pre> https://autumn-broadband-mounted-track.trycloudflare.com\fGetCSV</pre>
    - un alt exemplu este pentru [**worker**](https://developers.cloudflare.com/workers/) si un altul ar putea fi pentru [**worker kV**](https://developers.cloudflare.com/kv)
