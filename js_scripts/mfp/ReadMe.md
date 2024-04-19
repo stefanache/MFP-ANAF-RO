@@ -54,7 +54,7 @@ Daca doriti [date spatiale](https://geo-spatial.org/proiecte/alegeri2019/part5.h
 
 Iata cateva link-uri interesante de care am aflat urmarind activitatea celor de la GEO-SPATIAL:
 
-- [actinia-core](https://actinia-org.github.io/actinia-core/introduction/) - oferit cu ocazia [Seminariile geo-spatial.org București 2023](https://www.youtube.com/watch?v=U41RDbsEx5o&t=1097s&ab_channel=TheGeospatial) a se vedea si lista [speaker](https://pretalx.geo-spatial.org/seminar-bucuresti-2023/speaker/)-lor
+- [actinia-core](https://actinia-org.github.io/actinia-core/introduction/) - oferit cu ocazia [Seminariile geo-spatial.org București 2023](https://www.youtube.com/watch?v=U41RDbsEx5o&t=1097s&ab_channel=TheGeospatial); a se vedea si lista [speaker](https://pretalx.geo-spatial.org/seminar-bucuresti-2023/speaker/)-lor
 
 Aceasta analiza "Sectorul non-profit românesc: date existente, infrastructura de colectare, utilizarea datelor și posibile soluții de eficientizare " poate fi utila pentru [link-urile oferite](https://rafonline.org/wp-content/uploads/2023/01/Raport-infrastructuradate-sector-ONG_FDSC-2021-compressed.pdf).
 
