@@ -82,7 +82,7 @@ Poate fi util sa consultati si repository oficial al [**CF**](https://github.com
    - iata spre exemplu o referinta pt [***DNS***](https://free-for.dev/#/?id=dns) si
    - o alta pt subiectul/tocpic-ul [***CF***](https://free-for.dev/#/?id=CloudFlare) care va arata de pilda, cum puteti foarte [**rapid**](https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/run-tunnel/trycloudflare), expune la/pe internet,<br/>
    o resursa software(ex. un web-server Apache parte a produsului XAMPP), prin [**tunelare**](https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/run-tunnel/trycloudflare), utilizand comanda-CLI(de sub ***cmd.exe***):<br/> ***C:\\USERS\\{UserName}>*** **cloudflared tunnel --url http://localhost:80**<br/>
-   <sup>( dupa ce in prealabil ati urmat instructiunile de instalare ***NodeJS*** incluzand ***npm*** si ***daemon***-ului oferit de catre **Cloudflared** "***cloudflared***",  pentru versiunea sistemului de operare pe care-l detineti )</sup>; <br/>
+   <sup>( dupa ce in prealabil ati urmat instructiunile de instalare a pachetului ***NodeJS*** incluzand ***npm*** si ***npx*** si apoi a ***daemon***-ului oferit de catre **Cloudflared** denumit "***cloudflared***",  pentru versiunea sistemului de operare pe care-l detineti )</sup>; <br/>
    <br/> - ***Nota explicativa:***<br/>
     -- dupa instalarea platformei ***NodeJS***, urmeaza instalarea daemonului **Cloudflared** se face prin comanda-CLI(din shell/***cmd.exe***) cu comanda:<br/>
    ***C:\\USERS\\{UserName}>*** **npm install wrangler --save-dev**;</br>
