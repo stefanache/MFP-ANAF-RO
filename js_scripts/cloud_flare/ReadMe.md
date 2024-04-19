@@ -84,10 +84,10 @@ Poate fi util sa consultati si repository oficial al [**CF**](https://github.com
    o resursa software(ex. un web-server Apache parte a produsului XAMPP), prin [**tunelare**](https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/run-tunnel/trycloudflare), utilizand comanda-CLI(de sub ***cmd.exe***):<br/> ***C:\\USERS\\{UserName}>*** **cloudflared tunnel --url http://localhost:80**<br/>
    <sup>( dupa ce in prealabil ati urmat instructiunile de instalare ***NodeJS*** incluzand ***npm*** si ***daemon***-ului oferit de catre **Cloudflared** "***cloudflared***",  pentru versiunea sistemului de operare pe care-l detineti )</sup>; <br/>
    <br/>***Nota explicativa:***<br/>
-   - instalarea daemonului **Cloudflared** se face prin comanda-CLI(din shell/***cmd.exe***) cu comanda:<br/>
+   - dupa instalarea platformei ***NodeJS***, urmeaza instalarea daemonului **Cloudflared** se face prin comanda-CLI(din shell/***cmd.exe***) cu comanda:<br/>
    ***C:\\USERS\\{UserName}>*** **npm install wrangler --save-dev**;</br>
    utlizand instalatorii **npm.exe** sau ***npx.exe***,  componente a pachetului **NodeJS**;<br/>
-   - dupa instalare veti obtine un link de forma urmatoare:<br/>
+   - dupa **tunelare**(cda: ***C:\\USERS\\{UserName}>*** **cloudflared tunnel --url http://localhost:80**) veti obtine un link de forma urmatoare:<br/>
    ***https://autumn-broadband-mounted-track.trycloudflare.com*** <br/> pe care-l puteti utiliza pt a accesa site-urile pe carel le aveti in ***htdocs***;<br/>
 de pilda daca aveti in directorul ***D:\\xampp\\htdocs\\***, un site ***fGetCSV***(care detine fiserul **index.php**), dupa pornirea din ***XAMPP-Control-Panel*** a **webserver**-ului nostru **Apache**(care asculta pe portul ***http*** **80** si pe portul ***https** **443**), ati putea, in cele din urma, deschide un browser(sa spunem **Chrome**) pentru a scrie adresa urmatoare:<br/>
     ***https://autumn-broadband-mounted-track.trycloudflare.com\fGetCSV***<br/><br/>
