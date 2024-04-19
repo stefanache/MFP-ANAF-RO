@@ -60,6 +60,8 @@ Cele 2 nomenclatoare([SIRUTA](https://insse.ro/cms/files/siruta/Metodologie.doc)
 
 **EUROSTAT** a publicat o versiune de [***NUTS***](https://en.wikipedia.org/wiki/Nomenclature_of_Territorial_Units_for_Statistics) in anul [***2024***](https://ec.europa.eu/eurostat/web/nuts/overview); Tot aici apare un raport [***GI/GIS***](https://ec.europa.eu/eurostat/web/main/search/-/search/estatsearchportlet_WAR_estatsearchportlet_INSTANCE_bHVzuvn1SZ8J?text=SIRUTA) din [***2001***](https://ec.europa.eu/eurostat/documents/3888793/5813309/KS-AN-01-019-EN.PDF.pdf/1af7d8e2-54a5-42c5-ba07-e7b2b323eecf?t=1414778786000) in care se vorbeste despre o ***cheie SIRUTA***(deci o legatura catre SIRUTA)
 
+NUTS este un nomenclator european si deci se refera la *multe tari* printre care si **Romania**. Am gasit pe wikipedia cate ceva despre [***partea romaneasca a NUTS***](https://ro.wikipedia.org/wiki/Nomenclatura_unit%C4%83%C8%9Bilor_teritoriale_pentru_statistic%C4%83_din_Rom%C3%A2nia)-ului
+
 Daca vreti sa aflati CUI-ul unei firme(PJ) si nu stiti decat ca este inregistrata intr-un ***judet*** anume si desigur ii stiti ***denumirea*** atunci puteti apela la aplicatia online a [**MFP**](https://mfinante.gov.ro/info-pj-selectie-nume-si-judet)
 
 [**Nomenclatorul Combinat**](https://data.europa.eu/data/datasets/?locale=ro&dataScope=countryData&country=countryData&query=NC8&page=1) de **bunuri**(***produse*** si ***servicii***) a ajuns in **2024** la versiunea **8**([**NC8**](https://nc8.nxm.ro/))
