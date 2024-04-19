@@ -79,6 +79,7 @@ Pentru a putea stii/cunoaste daca au aparut **noi** seturi de date(**DS**-uri) e
 Bine ar fi fost daca autoritatile ar avea un ***serviciu*** online de informare/notificare(de tip "**pusher**") a acestor aparitii de noi versiuni ale acestor **DS**-uri sau macar ar folosi **Github** pentru a mentine un **depozit/repository unic/unitar**(pentru **toate** aceste date oficiale). 
 
 Cum nu cred ca nu exista un astfel de **punct de informare**, de tip "***news-letter***", nu aveti decat sa cautati voi/singuri, pe internet/google tot ceea ce va trebuie...[modelul indian](https://gist.github.com/sainathadapa/72a2412f512dde220307b1f907dc62f6) de cautare  poate fi un bun inceput ...bafta!!!
+Sunt si niste incercari romanesti pe la facultati/institute/acedemii/campusuri universitare, cum ar fi spre ex. [UPG](https://sites.google.com/upg-ploiesti.ro/resurse-se/alte-resurse/surse-de-date)
 
 **EUROSTAT** a publicat o versiune de [***NUTS***](https://en.wikipedia.org/wiki/Nomenclature_of_Territorial_Units_for_Statistics) in anul [***2024***](https://ec.europa.eu/eurostat/web/nuts/overview); Tot aici apare un raport [***GI/GIS***](https://ec.europa.eu/eurostat/web/main/search/-/search/estatsearchportlet_WAR_estatsearchportlet_INSTANCE_bHVzuvn1SZ8J?text=SIRUTA) din [***2001***](https://ec.europa.eu/eurostat/documents/3888793/5813309/KS-AN-01-019-EN.PDF.pdf/1af7d8e2-54a5-42c5-ba07-e7b2b323eecf?t=1414778786000) in care se vorbeste despre o ***cheie SIRUTA***(deci o legatura catre SIRUTA)
 
