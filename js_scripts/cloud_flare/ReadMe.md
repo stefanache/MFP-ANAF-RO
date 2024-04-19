@@ -98,7 +98,8 @@ de pilda, daca aveti in directorul ***D:\\xampp\\htdocs\\***, un **site** ***fGe
        Pentru a vedea cum se proceseaza traficul respectiv, puteti accesa [referinta oficiala](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/) a tunelarii-CF.<br/>
        Tunelarea poate conlucra foarte bine impreuna/in tandem cu [rutarea](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/private-net/cloudflared/) [WARP](https://simplyexplained.com/blog/securely-access-home-network-with-Cloudflare-Tunnel-and-WARP/) a traficului catre reteaua noastra privata/de acasa.<br/>
        Mai multe funcții (tunel TCP, tunelare [QUIC](https://blog.cloudflare.com/getting-cloudflare-tunnels-to-connect-to-the-cloudflare-network-with-quic), [echilibrare/balansare a încărcăturii](https://developers.cloudflare.com/reference-architecture/architectures/load-balancing/), [VPN](https://simplyexplained.com/blog/securely-access-home-network-with-Cloudflare-Tunnel-and-WARP/)) în Planul [Zero Trust Free](https://www.cloudflare.com/products/zero-trust/).
-   - un alt exemplu este pentru [**worker**](https://developers.cloudflare.com/workers/) si un altul ar putea fi pentru [**worker kV**](https://developers.cloudflare.com/kv)
+   - un alt exemplu este pentru [**worker**](https://developers.cloudflare.com/workers/) si un altul ar putea fi pentru [**worker kV**](https://developers.cloudflare.com/kv)<br/>
+     Sa incepem cu [worker](https://developers.cloudflare.com/workers/get-started/guide/) Hello-Wold / Getting started:
      
      [<h3>***Nota explicativa:***<sup>(pt cazul meu de utilizare: Windows 10 Pro(**W10Pro**)</sup>](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/do-more-with-tunnels/trycloudflare/)</h3>
     -- 1.) dupa instalarea platformei ***NodeJS***, urmeaza instalarea/[actualizarea](https://developers.cloudflare.com/workers/wrangler/install-and-update/#update-wrangler)  [**Wrangler**](https://developers.cloudflare.com/workers/wrangler/), care  se face/proceseaza prin comanda-CLI(din shell/***cmd.exe***), de forma urmatoare:<br/>
@@ -107,9 +108,12 @@ de pilda, daca aveti in directorul ***D:\\xampp\\htdocs\\***, un **site** ***fGe
         - actualizarea:           
        <pre> C:\USERS\{UserName}> npm install wrangler@latest</pre>
         - pentru a verifica versiunea:
-       <pre> C:\USERS\{UserName}> npx wrangler --version</pre>  
+       <pre> C:\USERS\{UserName}> npx wrangler --version</pre>
+       Comenizile wrangler le puteti gasi [aici](https://developers.cloudflare.com/workers/wrangler/commands/)!
     -- 2.) urmeaza crearea proiectului cu comanda:
         - crearea:           
-       <pre> C:\USERS\{UserName}> wrangler init hello -y<pre>
+       <pre> C:\USERS\{UserName}> npx wrangler init hello -y</pre>
         - apoi mergem in directorul nou creat:
-       <pre> C:\USERS\{UserName}> cd hello</pre>         
+       <pre> C:\USERS\{UserName}> cd hello</pre>
+    -- 2.) apoi publicam/distrinuim/instalam proiectul "helloin cloud-ul CF cu comanda:       
+       <pre> C:\USERS\{UserName}> npx wrangler deploy</pre>        
