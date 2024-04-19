@@ -64,13 +64,13 @@ Oricum ar fi cand ***descarcati*** un astfel de ***dataset** al unui nomenclator
 
 La/In ***momentul inlocuirii** unui nomenclator actual aflat in functiune,   cu unul/altul nou, in evidentele **istorice** din baza voastra de date,  probabil ca ar trebui sa pastrati, din cel vechi, **numai acele coduri de clasificare care au fost folosite**<sup>(a se citi ***indicatia-1***)</sup> de-a lungul timpului in care acesta a functionat (ci nu tot/intregul continut al nomenclatorulului vechi/deja scos din uz) si desigur impreuna/etichetate cu metadate ca **versiunea** nomenclatorului(**amprenta de timp**), **publicator** precum si, **identificatorul-CKAN** al setului-de-date(data-setului),acordat de serverul **data.gov.ro**(metadate extrase de pe acelasi site/data.gov.ro la momentul descarcarii).
 
-- ***indicatia-1***: 
+- <pre style="color:blue">***indicatia-1***: 
 
-<space/>mentineti/intretineti/gestionati/controlati in tabela de nomenclatoare/clasificari/codificari alaturi de/impreuna cu 
-campurile de tip "*date-time*" de **inceput** si **sfarsit** utilizare(adica alaturi **intervalul temporal** de utilizare), 
-un camp/coloana denumit[a] "used"/"**utilizat**" de tip "*check*" / "*boolean*", care se ***bifeaza***/***selecteaza***/***setaza: 0->1***, 
-la **prima utilizare**(adica ***atunci cand*** / ***in momentul in care***  se  **selecteaza**/**se plaseaza o referinta**  catre ***primul cod***, intr-o interactiune cu 
-utilizatorul ori in mod automat(prin program), din/pt acea **clasificare/nomenclator/codificare**);
+    mentineti/intretineti/gestionati/controlati in tabela de nomenclatoare/clasificari/codificari alaturi de/impreuna cu 
+    campurile de tip "*date-time*" de **inceput** si **sfarsit** utilizare(adica alaturi **intervalul temporal** de utilizare), 
+    un camp/coloana denumit[a] "used"/"**utilizat**" de tip "*check*" / "*boolean*", care se ***bifeaza***/***selecteaza***/***setaza: 0->1***, 
+    la **prima utilizare**(adica ***atunci cand*** / ***in momentul in care***  se  **selecteaza**/**se plaseaza o referinta**  catre ***primul cod***, intr-o interactiune cu 
+    utilizatorul ori in mod automat(prin program), din/pt acea **clasificare/nomenclator/codificare**);</pre>
 
 Pentru a putea stii/cunoaste daca au aparut **noi** seturi de date(**DS**-uri) este util sa creati un **Cron-Job**-task(un "**crawl**" rulabil periodic, cu o anumita frecventa) care sa **baleeze* **URL-urile oficiale** de descarcare clasificari,nomenclatoare codificari...etc si sa captureze(**scrape**) **meta-date** sau informatii descriptive despre seturile de date aparute care sa va fie **raportate** pentru stii/decide daca se va lua sau nu masura de a le **descarca/download** si in consecinta de a le **inlocui**/**adauga** pe/la cele existente.
 
