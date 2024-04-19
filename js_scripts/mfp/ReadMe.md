@@ -66,11 +66,11 @@ La/In ***momentul inlocuirii** unui nomenclator actual aflat in functiune,   cu 
 
 - ***indicatia-1***: 
 
-<small style="color:blue;">mentineti/intretineti/gestionati/controlati in tabela de nomenclatoare/clasificari/codificari alaturi de/impreuna cu 
+<sup style="color:blue;">mentineti/intretineti/gestionati/controlati in tabela de nomenclatoare/clasificari/codificari alaturi de/impreuna cu 
 campurile de tip "*date-time*" de **inceput** si **sfarsit** utilizare(adica alaturi **intervalul temporal** de utilizare), 
 un camp/coloana denumit[a] "used"/"**utilizat**" de tip "*check*" / "*boolean*", care se ***bifeaza***/***selecteaza***/***setaza: 0->1***, 
 la **prima utilizare**(adica ***atunci cand*** / ***in momentul in care***  se  **selecteaza**/**se plaseaza o referinta**  catre ***primul cod***, intr-o interactiune cu 
-utilizatorul ori in mod automat(prin program), din/pt acea **clasificare/nomenclator/codificare**);</small>
+utilizatorul ori in mod automat(prin program), din/pt acea **clasificare/nomenclator/codificare**);</sup>
 
 Pentru a putea stii/cunoaste daca au aparut **noi** seturi de date(**DS**-uri) este util sa creati un **Cron-Job**-task(un "**crawl**" rulabil periodic, cu o anumita frecventa) care sa **baleeze* **URL-urile oficiale** de descarcare clasificari,nomenclatoare codificari...etc si sa captureze(**scrape**) **meta-date** sau informatii descriptive despre seturile de date aparute care sa va fie **raportate** pentru stii/decide daca se va lua sau nu masura de a le **descarca/download** si in consecinta de a le **inlocui**/**adauga** pe/la cele existente.
 
