@@ -125,8 +125,8 @@ de pilda, daca aveti in directorul ***D:\\xampp\\htdocs\\***, un **site** ***fGe
        si apoi in panoul din dreapta veti regasi proiectul "**hello**" publicat de dvs cu ajutorul lui wrangler;<br/>
        dati click pe proiectul  **hello** si apoi sus in meniul-orizontal al panoului dati click pe optiunea-de-meniu **Deployments**;<br/>
        va aparea o fereastra cu 2 sectiuni:<br/>
-        - ***Active Deployment***
-        - ***Version History**
+        - ***Active Deployment***<br/>
+        - ***Version History***<br/>
        in prima sectiune sectiune(***Active Deployment***) veti vedea/regasi pe prima linie urmatoarele informatii ale deployment-ului/instalarii active/curente:<br/>
         - ***Deployment ID*** - prima parte a UUID-ului pe care vi l-a afisat wrangler la momentul instalarii/publicarii(ceva de genul: **d83527ad**);<br/>
         - ***Created*** - va va spune cu cat timp in urma a fost creata instalarea si cine este autorul ei(ceva de forma : 36 minutes ago by {your-name});<br/>
