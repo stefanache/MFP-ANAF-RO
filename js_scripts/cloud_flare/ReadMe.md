@@ -115,5 +115,25 @@ de pilda, daca aveti in directorul ***D:\\xampp\\htdocs\\***, un **site** ***fGe
        <pre> C:\USERS\{UserName}> npx wrangler init hello -y</pre>
         - apoi mergem in directorul nou creat:
        <pre> C:\USERS\{UserName}> cd hello</pre>
-    -- 2.) apoi publicam/distrinuim/instalam proiectul "helloin cloud-ul CF cu comanda:       
-       <pre> C:\USERS\{UserName}> npx wrangler deploy</pre>        
+    -- 3.) apoi publicam/distrinuim/instalam proiectul "Hello-World" in cloud-ul CF cu comanda:       
+       <pre> C:\USERS\{UserName}> npx wrangler deploy</pre>
+       vi se va furniza linkul pentru a vedea worker-ul in browser, ceva de forma:
+       <pre> https://hello.{your-name}.workers.dev</pre>
+    -- 4.)  pentru a vedea depozitul respectiv mergeti in [tabloul vostru de bord](https://dash.cloudflare.com/oauth2/auth?response_type=code&client_id=54d11594-84e4-41aa-b438-e81b8fa78ee7&redirect_uri=http%3A%2F%2Flocalhost%3A8976%2Foauth%2Fcallback&scope=account%3Aread%20user%3Aread%20workers%3Awrite%20workers_kv%3Awrite%20workers_routes%3Awrite%20workers_scripts%3Awrite%20workers_tail%3Aread%20d1%3Awrite%20pages%3Awrite%20zone%3Aread%20ssl_certs%3Awrite%20constellation%3Awrite%20ai%3Awrite%20queues%3Awrite%20offline_access&state=dXGqeTPuGnY5rW0ZahWDSb4nIFf.SfZK&code_challenge=fSPmYyB9p7qIhegLcxLqVxS2ET3GRWnK7cLYulRhHEs&code_challeng) din CloudFlare: ([CF-dashbord](https://dash.cloudflare.com/)),<br/>
+       si apoi dupa ce introduceti email-ul si parola contului dvs CF, navigati in meniul din stanga pe traseul:
+       <pre> workers-and-pages -> Overview </pre>
+       si apoi in panoul din dreapta veti regasi proiectul "**hello**" publicat de dvs cu ajutorul lui wrangler;<br/>
+       dati click pe proiectul  **hello** si apoi sus in meniul-orizontal al panoului dati click pe optiunea-de-meniu **Deployments**;<br/>
+       va aparea o fereastra cu 2 sectiuni:<br/>
+        - ***Active Deployment***
+        - ***Version History**
+       in prima sectiune sectiune(***Active Deployment***) veti vedea/regasi pe prima linie urmatoarele informatii ale deployment-ului/instalarii active/curente:<br/>
+        - ***Deployment ID*** - prima parte a UUID-ului pe care vi l-a afisat wrangler la momentul instalarii/publicarii(ceva de genul: **d83527ad**);
+        - ***Created*** - va va spune cu cat timp in urma a fost creata instalarea si cine este autorul ei(ceva de forma : 36 minutes ago by {your-name});
+        - ***Version Message***
+        - ***100%*** - ca a fost incarcat integral
+        - si in cele din urma, la final de rand, veti regasi un link [***View Version***](https://hello.ion-stefanache.workers.dev/) - care daca va fi click-at/accesat,<br/>
+        va lansa in browser lucratorul/worker-ul "Hello",care va afisa mesajul urmator:<br/>
+        **Hello World!**
+  
+  
