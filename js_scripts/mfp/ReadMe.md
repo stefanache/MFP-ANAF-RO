@@ -64,7 +64,7 @@ Oricum ar fi cand ***descarcati*** un astfel de ***dataset** al unui nomenclator
 
 La/In ***momentul inlocuirii** unui nomenclator actual aflat in functiune,   cu unul/altul nou, in evidentele **istorice** din baza voastra de date,  probabil ca ar trebui sa pastrati, din cel vechi, **numai acele coduri de clasificare care au fost folosite**<sup>(a se citi ***indicatia-1***)</sup> de-a lungul timpului in care acesta a functionat (ci nu tot/intregul continut al nomenclatorulului vechi/deja scos din uz) si desigur impreuna/etichetate cu metadate ca **versiunea** nomenclatorului(**amprenta de timp**), **publicator** precum si, **identificatorul-CKAN** al setului-de-date(data-setului),acordat de serverul **data.gov.ro**(metadate extrase de pe acelasi site/data.gov.ro la momentul descarcarii).
 
-***indicatia-1***: 
+- ***indicatia-1***: 
 
 mentineti/intretineti/gestionati/controlati in tabela de nomenclatoare/clasificari/codificari alaturi de/impreuna cu 
 campurile de tip "*date-time*" de **inceput** si **sfarsit** utilizare(adica alaturi **intervalul temporal** de utilizare), 
