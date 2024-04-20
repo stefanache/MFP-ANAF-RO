@@ -142,6 +142,6 @@ de pilda, daca aveti in directorul ***D:\\xampp\\htdocs\\***, un **site** ***fGe
    - exista posibilitatea ca sa vedeti local pagina generata daca dati local comanda-CI(shell/cmd.exe) de rulare:
  <pre> C:\USERS\{UserName}>\hello npm run dev</pre>
  si apoi, fara sa inchidem serverul local, deschidem in browser-ul local de pe desktop-PC/laptop, pagina generata si aflata la adresa-URL/link-ul:
-        <pre> [http://localhost:8787/](http://localhost:8787/)</pre>
+        <pre> [http://localhost:8787/](https://hello.ion-stefanache.workers.dev/)</pre>
   
   
