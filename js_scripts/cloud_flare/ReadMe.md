@@ -139,7 +139,7 @@ de pilda, daca aveti in directorul ***D:\\xampp\\htdocs\\***, un **site** ***fGe
 
     -- *OBS*: 
    - pentru a vizualiza ***sursa typescript*** care genereaza pagina HTML: veti vedea ca in partea dreapta-sus, pe lina sus in dreptul meniului-paginii, aveti un link [**Edit sourc**e](https://dash.cloudflare.com/2d482e04c26cae6ff3ada060d87c965d/workers/services/edit/hello/production) - click-ati si veti (re)vedea/regasi codul simplu generat al [lucratorului](https://hello.ion-stefanache.workers.dev/) **Hello-World**;
-   - exista posibilitatea ca sa vedeti local pagina generata daca dati local comanda-CI(shell/cmd.exe) de rulare:
+   - exista posibilitatea ca sa vedeti/testa si local pagina generata daca dati local comanda-CI(shell/cmd.exe) de rulare:
  <pre> C:\USERS\{UserName}>\hello npm run dev</pre>
  si apoi, fara sa inchidem serverul local, deschidem in browser-ul local de pe desktop-PC/laptop, pagina generata si aflata la adresa-URL/link-ul:
         <pre> [http://localhost:8787/](https://hello.ion-stefanache.workers.dev/)</pre>
