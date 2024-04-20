@@ -102,7 +102,7 @@ Alternativa propusa de catre **CF** la/de inlocuire a ***SD-WAN***-ului traditio
 - si multe altele
 </sup>
 
--b) pentru *securitatea si performanta retelei* - protejati si accelerati infrastructura cu protectie [**L3** **DDoS**](https://www.cloudflare.com/learning/ddos/layer-3-ddos-attacks/) si **FW**, **interconexiuni** si **rutare inteligenta**:<br/><sup>
+-b) pentru *securitatea si performanta retelei* - protejati si accelerati infrastructura cu protectie [**L3**](https://blog.cloudflare.com/ddos-threat-report-for-2024-q1) [**DDoS**](https://www.cloudflare.com/learning/ddos/layer-3-ddos-attacks/) si **FW**, **interconexiuni** si **rutare inteligenta**:<br/><sup>
 - [**L3 DDoS**](https://www.cloudflare.com/learning/ddos/layer-3-ddos-attacks/) - Distributed Denial of Service[(***DDoS***)](https://www.cloudflare.com/learning/ddos/what-is-a-ddos-attack/) ***protection***
 - **FW**
 - **interconexiuni**
