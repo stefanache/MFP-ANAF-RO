@@ -68,7 +68,7 @@ In general, o intreprindere/corporatie/multinationala poate avea de [*conectat*]
 
 Alternativa propusa de catre **CF** la/de inlocuire a ***SD-WAN***-ului traditional este [**MAGIC WAN**](https://www.cloudflare.com/lp/ppc/sd-wan/?utm_source=google&utm_medium=cpc&utm_campaign=ao-fy-acq-emea_en_all-umbrella-ge-ge-prospecting-sch_g_brand_alpha_na_product&utm_content=Alpha_Brand_Networks_WAN&utm_term=cloudflare+sd+wan&campaignid=71700000112709379&adgroupid=58700008486475713&creativeid=662164911263&gad_source=1&gclid=Cj0KCQjwiYOxBhC5ARIsAIvdH53vGqn0Dkn4DpawTEEvYPjIJ7HaHUXthvjLEXwJgtk2k6w3YXQhv0kaArZZEALw_wcB&gclsrc=aw.ds)
 
-[***Prescurtari / Explicatie Termeni***](https://www.cloudflare.com/cloudflare-product-portfolio/)
+[***Prescurtari / Explicatie Termeni***](https://www.cloudflare.com/cloudflare-product-portfolio/) - [**Produse**](https://developers.cloudflare.com/products/)
 
 **I**. pentru **uzul intern** al intreprinderii/organizatiei/al [angajatilor](https://www.cloudflare.com/zero-trust/):<br/>
 
