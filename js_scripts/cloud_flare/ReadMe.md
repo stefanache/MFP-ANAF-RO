@@ -181,7 +181,49 @@ urmatorul continut: C:\Users\{user}\hello\src>type index.ts
                                return new Response('Hello World!');
                        },
                };
+iar in directorul **test** in fisierul **index.spec.ts**
 
+       C:\Users\Nelu\hello\test>dir
+        Volume in drive C has no label.
+        Volume Serial Number is 32EF-A4A7
+
+        Directory of C:\Users\Nelu\hello\test
+
+       19.04.2024  20:08    <DIR>          .
+       19.04.2024  20:08    <DIR>          ..
+       19.04.2024  15:47             1,128 index.spec.ts
+       19.04.2024  15:47               237 tsconfig.json
+                      2 File(s)          1,365 bytes
+                      2 Dir(s)  19,309,133,824 bytes free
+               
+urmatorul continut: C:\Users\Nelu\hello\test>type index.spec.ts
+
+               // test/index.spec.ts
+               import { env, createExecutionContext, waitOnExecutionContext, SELF } from 'cloudflare:test';
+               import { describe, it, expect } from 'vitest';
+               import worker from '../src/index';
+
+               // For now, you'll need to do something like this to get a correctly-typed
+               // `Request` to pass to `worker.fetch()`.
+               const IncomingRequest = Request<unknown, IncomingRequestCfProperties>;
+
+               describe('Hello World worker', () => {
+                       it('responds with Hello World! (unit style)', async () => {
+                               const request = new IncomingRequest('http://example.com');
+                               // Create an empty context to pass to `worker.fetch()`.
+                               const ctx = createExecutionContext();
+                               const response = await worker.fetch(request, env, ctx);
+                               // Wait for all `Promise`s passed to `ctx.waitUntil()` to settle before running test assertions
+                               await waitOnExecutionContext(ctx);
+                               expect(await response.text()).toMatchInlineSnapshot(`"Hello World!"`);
+                       });
+
+                       it('responds with Hello World! (integration style)', async () => {
+                               const response = await SELF.fetch('https://example.com');
+                               expect(await response.text()).toMatchInlineSnapshot(`"Hello World!"`);
+                       });
+               });
+               
    - exista posibilitatea ca sa **vedeti/testa si local** continutul HTML al proiectului Hello-World,  daca dati local comanda-CI(shell/cmd.exe), de rulare:
                 <pre> C:\USERS\{UserName}\hello> npm run dev</pre>
  si apoi, fara sa inchidem serverul local, deschidem in **browser**-ul local de pe desktop-PC/laptop, adresa-URL/link-ul :
