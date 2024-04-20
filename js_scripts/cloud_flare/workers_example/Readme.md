@@ -70,7 +70,7 @@ Alternativa propusa de catre **CF** la/de inlocuire a ***SD-WAN***-ului traditio
 
 [***Prescurtari / Explicatie Termeni***](https://www.cloudflare.com/products/)
 
-I. pentru uzul intern al intreprinderii/organizatiei/al [angajatilor](https://www.cloudflare.com/zero-trust/):<br/>
+**I**. pentru **uzul intern** al intreprinderii/organizatiei/al [angajatilor](https://www.cloudflare.com/zero-trust/):<br/>
 <sup>**Platforma CloadFlare One(CF-1) este Security Service Edge[(SSE)](https://www.cloudflare.com/learning/access-management/security-service-edge-sse/) și(+,inclusa in) Secure Access Service Edge[(SASE)](https://developers.cloudflare.com/reference-architecture/architectures/sase/?_gl=1*15fyxwm*_ga*OTUxMzcxMzIyLjE3MTMyODg4OTM.*_ga_SQCRB0TXZW*MTcxMzYwMTk5MC4yMS4xLjE3MTM2MDM1MDcuMC4wLjA.) de la CF - One control plane and interfaces**(un singur plan de control și interfețe):</sup>
 
 -a) [***SSE***](https://www.cloudflare.com/learning/access-management/security-service-edge-sse/) platform(securitate zero-incredere) =este= partea de securitate a [***SASE***](https://developers.cloudflare.com/reference-architecture/architectures/sase/?_gl=1*15fyxwm*_ga*OTUxMzcxMzIyLjE3MTMyODg4OTM.*_ga_SQCRB0TXZW*MTcxMzYwMTk5MC4yMS4xLjE3MTM2MDM1MDcuMC4wLjA.):  [**ZTNA**](https://www.cloudflare.com/learning/access-management/what-is-ztna/), [**SWG**](https://www.cloudflare.com/zero-trust/products/gateway/), [**CASB**](https://www.cloudflare.com/learning/access-management/what-is-a-casb/)...<br/>
@@ -88,7 +88,7 @@ I. pentru uzul intern al intreprinderii/organizatiei/al [angajatilor](https://ww
  - **CES** - ***Cloud Email Security***(securitate email in nor/cloud) <sup>(- protejați-vă în mod preventiv utilizatorii de phishing, compromiterea e-mailurilor de afaceri=BEC și atacurile lanțului de aprovizionare prin e-mail)</sup>
  - [**SEG**](https://www.cloudflare.com/learning/email-security/secure-email-gateway-seg/) - ***Secured Email Gateway***(poarta securizata pentru email) <sup>(-o poarta de e-mail securizat identifică și blochează e-mailurile rău intenționate înainte ca acestea să ajungă în căsuța / containerul / recipientul de e-mail)</sup>
  
-II. pentru aplicatii si infrastructura:
+**II**. pentru **aplicatii si infrastructura**:
 
 -a) pentru *securitatea si performanta aplicatiei*: protejati si accelerati aplicatiile mobile/web, API-urile si website-urile folosind: **WAF**, **DDoS**, **CDN**, **DNS** si multe altele:<br/><sup>
 - **WAF**
@@ -98,15 +98,15 @@ II. pentru aplicatii si infrastructura:
 - si multe altele
 </sup>
 
--b) pentru *securitatea si performanta retelei*: protejati si accelerati infrastructura cu protectie **L3** **DDoS** si **FW**, **interconexiuni** si **rutare inteligenta**<br/><sup>
+-b) pentru *securitatea si performanta retelei* - protejati si accelerati infrastructura cu protectie **L3** **DDoS** si **FW**, **interconexiuni** si **rutare inteligenta**:<br/><sup>
 - **DDoS**
 - **FW**
 - **interconexiuni**
 - **rutare inteligenta**
 </sup>
 
-III. pentru dezvoltatori:<br/><sup>
- - **platforma de dezvoltare pentru dezvoltatori**: creati si implementati aplicatii fara server(**serverless**) cu posibilitatea scalarii, performante, securizate si fiabile.<br/>
+**III**. pentru **dezvoltatori**:<br/><sup>
+ -a) **platforma de dezvoltare pentru dezvoltatori** - creati si implementati aplicatii fara server(**serverless**) cu posibilitatea scalarii, performante, securizate si fiabile:<br/>
 </sup>
 Asadar in cazul unei mari intreprinderi, in mod [traditional](https://developers.cloudflare.com/assets/cf1-ref-arch-1-e06c22ed.svg), vom avea nevoie sa realizam un mediu/context/ecosistem de [**conectivitate(NaaS) si securizare(zero trust)**](https://cf-assets.www.cloudflare.com/slt3lc6tev37/17RhepZZwxiD452Hs0gKFk/5324e2c81dcdef79c74efea2c60812ac/Network_Plus_Zero_Trust_Diagram_-_No_CF_Logo_smaller.png) intre diversele [Puncte-de-Acces](https://www.cloudflare.com/learning/access-management/what-is-sase/)(device-uri si utilizatori aflati in diverse locatii/imobile/cladiri/obiectiv) indepartate sau distribuite geografic(poate avea mai multe sedii de conectat, legaturi catre centre de date, [IaaS](https://www.bmc.com/blogs/saas-vs-paas-vs-iaas-whats-the-difference-and-how-to-choose/)-ul poate fi oferit de /externalizat catre un provider, angajatii sai pot lucra prin [VPN](https://www.hostinger.com/tutorials/what-is-vpn), in mod protejat/securizat de acasa/la distanta sau de oriunde din afara sediului ...).
 
