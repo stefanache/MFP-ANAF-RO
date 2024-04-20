@@ -137,5 +137,5 @@ de pilda, daca aveti in directorul ***D:\\xampp\\htdocs\\***, un **site** ***fGe
         
                 **Hello World!**
 
-    -- *OBS*: pentru a vizualiza ***sursa javascript***(nodeJS) - veti vedea ca in partea dreapta-sus, pe lina sus in dreptul meniului-paginii, aveti un link [**Edit sourc**e](https://dash.cloudflare.com/2d482e04c26cae6ff3ada060d87c965d/workers/services/edit/hello/production) - click-ati si veti vedea codul simplu al luctatorului Hello-World!!!
+    -- *OBS*: pentru a vizualiza ***sursa typescript*** - veti vedea ca in partea dreapta-sus, pe lina sus in dreptul meniului-paginii, aveti un link [**Edit sourc**e](https://dash.cloudflare.com/2d482e04c26cae6ff3ada060d87c965d/workers/services/edit/hello/production) - click-ati si veti (re)vedea/regasi codul simplu al luctatorului **Hello-World**, cel pe care il aveti si in fisierul **index.ts** din directorul  **C:\USERS\{UserName}>hello\\** !!!
   
