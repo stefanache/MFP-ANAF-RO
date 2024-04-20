@@ -151,15 +151,17 @@ de pilda, daca aveti in directorul ***D:\\xampp\\htdocs\\***, un **site** ***fGe
                };
                //# sourceMappingURL=index.js.map
 
-  trebuie sa va spun ca pe local in directorul **src** veti gasi in fisierul **index.ts** :
-  
-       Directory of C:\Users\{user}\hello\src
+**Nota:
 
-       19.04.2024  20:08    <DIR>          .
-       19.04.2024  20:08    <DIR>          ..
-       19.04.2024  15:47               649 index.ts
-               1 File(s)            649 bytes
-               2 Dir(s)  19,306,614,784 bytes free
+trebuie sa va spun ca pe local in directorul **src** veti gasi in fisierul **index.ts** :
+  
+               Directory of C:\Users\{user}\hello\src
+                      
+               19.04.2024  20:08    <DIR>          .
+               19.04.2024  20:08    <DIR>          ..
+               19.04.2024  15:47               649 index.ts
+                      1 File(s)            649 bytes
+                      2 Dir(s)  19,306,614,784 bytes free
 
 urmatorul continut: C:\Users\{user}\hello\src>type index.ts
 
