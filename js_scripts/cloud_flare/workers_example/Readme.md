@@ -71,28 +71,33 @@ Alternativa propusa de catre **CF** la/de inlocuire a ***SD-WAN***-ului traditio
 [***Prescurtari / Explicatie Termeni***](https://www.cloudflare.com/products/)
 
 I. pentru uzul intern al intreprinderii/organizatiei/al [angajatilor](https://www.cloudflare.com/zero-trust/):<br/>
-<sup>**Platforma CloadFlare One(CF-1) este Security Service Edge[(SSE)](https://www.cloudflare.com/learning/access-management/security-service-edge-sse/) și(+) Secure Access Service Edge[(SASE)](https://developers.cloudflare.com/reference-architecture/architectures/sase/?_gl=1*15fyxwm*_ga*OTUxMzcxMzIyLjE3MTMyODg4OTM.*_ga_SQCRB0TXZW*MTcxMzYwMTk5MC4yMS4xLjE3MTM2MDM1MDcuMC4wLjA.) de la CF - One control plane and interfaces**(un singur plan de control și interfețe):</sup><br/><br/>
+<sup>**Platforma CloadFlare One(CF-1) este Security Service Edge[(SSE)](https://www.cloudflare.com/learning/access-management/security-service-edge-sse/) și(+) Secure Access Service Edge[(SASE)](https://developers.cloudflare.com/reference-architecture/architectures/sase/?_gl=1*15fyxwm*_ga*OTUxMzcxMzIyLjE3MTMyODg4OTM.*_ga_SQCRB0TXZW*MTcxMzYwMTk5MC4yMS4xLjE3MTM2MDM1MDcuMC4wLjA.) de la CF - One control plane and interfaces**(un singur plan de control și interfețe):</sup>
+
 -a) [***SSE***](https://www.cloudflare.com/learning/access-management/security-service-edge-sse/) platform(securitate zero-incredere) =este= partea de securitate a [***SASE***](https://developers.cloudflare.com/reference-architecture/architectures/sase/?_gl=1*15fyxwm*_ga*OTUxMzcxMzIyLjE3MTMyODg4OTM.*_ga_SQCRB0TXZW*MTcxMzYwMTk5MC4yMS4xLjE3MTM2MDM1MDcuMC4wLjA.):  [**ZTNA**](https://www.cloudflare.com/learning/access-management/what-is-ztna/), [**SWG**](https://www.cloudflare.com/zero-trust/products/gateway/), [**CASB**](https://www.cloudflare.com/learning/access-management/what-is-a-casb/)...<br/>
  - [**ZTNA**](https://www.cloudflare.com/learning/access-management/what-is-ztna/) - Zero Trust Network ***Access***(- accces la rețea cu încredere zero/zero-trust) <sup>(- aplicați regulile de refuz implicit, Zero Trust pentru utilizatorii care accesează toate aplicațiile dvs., mai rapid și mai sigur decât un VPN)</sup>
  - [**CASB**](https://www.cloudflare.com/learning/access-management/what-is-a-casb/) - ***Cloud Access Security Broker***(broker de securitate al accesului in cloud) <sup>(- securizează cu ușurință instrumentele SaaS, controlează granular accesul utilizatorilor și protejează datele sensibile.)
- - [**SWG**](https://cf-assets.www.cloudflare.com/slt3lc6tev37/KsZKn2TJN1wboqzbUeVS0/655f2f026eea7ad7a4e3cbb77aa979ed/Secure_Web_Gateway__Cloudflare_Gateway__-_Product_Overview.pdf) - Secure Web ***Gateway***(poarta web securizat) <sup>(-securizați și inspectați traficul de internet corporativ pentru a ajuta la prevenirea phishing-ului, a ransomware-ului și a altor riscuri pe internet.)</sup><br/>
+ - [**SWG**](https://cf-assets.www.cloudflare.com/slt3lc6tev37/KsZKn2TJN1wboqzbUeVS0/655f2f026eea7ad7a4e3cbb77aa979ed/Secure_Web_Gateway__Cloudflare_Gateway__-_Product_Overview.pdf) - Secure Web ***Gateway***(poarta web securizat) <sup>(-securizați și inspectați traficul de internet corporativ pentru a ajuta la prevenirea phishing-ului, a ransomware-ului și a altor riscuri pe internet.)</sup>
+ 
 -b) .... & ***network connectivity***(conectivitate la retea) =este= partea/latura de conectivitate/retea a [(SASE)](https://developers.cloudflare.com/reference-architecture/architectures/sase/?_gl=1*15fyxwm*_ga*OTUxMzcxMzIyLjE3MTMyODg4OTM.*_ga_SQCRB0TXZW*MTcxMzYwMTk5MC4yMS4xLjE3MTM2MDM1MDcuMC4wLjA.): ***WANaaS***, [**FWaaS**](https://nordlayer.com/learn/firewall/firewall-as-a-service-fwaas/?gad_source=1&gclid=Cj0KCQjwiYOxBhC5ARIsAIvdH50xVuAmBG3aJtALAF11jQz7Xz1kY9BQG4nS1DGxiwkz-nPqaZPkRYwaAgKfEALw_wcB)...<br/>
  - [**FWaaS](https://nordlayer.com/learn/firewall/firewall-as-a-service-fwaas/?gad_source=1&gclid=Cj0KCQjwiYOxBhC5ARIsAIvdH50xVuAmBG3aJtALAF11jQz7Xz1kY9BQG4nS1DGxiwkz-nPqaZPkRYwaAgKfEALw_wcB)** - ***Magic Firewall***(paravan/zid de protectie magic) <sup>(- aplicați politici consecvente de securitate a rețelei pe întregul dvs. WAN, fără a transporta traficul sau a crea puncte de blocare)</sup>
- - **WANaaS** - [***Magic WAN***](https://www.cloudflare.com/lp/ppc/sd-wan/?utm_source=google&utm_medium=cpc&utm_campaign=ao-fy-acq-emea_en_all-umbrella-ge-ge-prospecting-sch_g_brand_alpha_na_product&utm_content=Alpha_Brand_Networks_WAN&utm_term=cloudflare+sd+wan&campaignid=71700000112709379&adgroupid=58700008486475713&creativeid=662164911263&gad_source=1&gclid=Cj0KCQjwiYOxBhC5ARIsAIvdH53vGqn0Dkn4DpawTEEvYPjIJ7HaHUXthvjLEXwJgtk2k6w3YXQhv0kaArZZEALw_wcB&gclsrc=aw.ds)(retea magica de/cu intindere globala), in locul vechiului **WAN** & [**SD-WAN**](https://blog.cloudflare.com/how-to-connect-your-offices-to-cloudflare-using-sd-wan) <sup>(- conectați-vă și asigurați-vă filialele, sediul central, centrele de date, VPC-urile din cloud și SD-WAN-urile folosind rețeaua CF)</sup><br/>
+ - **WANaaS** - [***Magic WAN***](https://www.cloudflare.com/lp/ppc/sd-wan/?utm_source=google&utm_medium=cpc&utm_campaign=ao-fy-acq-emea_en_all-umbrella-ge-ge-prospecting-sch_g_brand_alpha_na_product&utm_content=Alpha_Brand_Networks_WAN&utm_term=cloudflare+sd+wan&campaignid=71700000112709379&adgroupid=58700008486475713&creativeid=662164911263&gad_source=1&gclid=Cj0KCQjwiYOxBhC5ARIsAIvdH53vGqn0Dkn4DpawTEEvYPjIJ7HaHUXthvjLEXwJgtk2k6w3YXQhv0kaArZZEALw_wcB&gclsrc=aw.ds)(retea magica de/cu intindere globala), in locul vechiului **WAN** & [**SD-WAN**](https://blog.cloudflare.com/how-to-connect-your-offices-to-cloudflare-using-sd-wan) <sup>(- conectați-vă și asigurați-vă filialele, sediul central, centrele de date, VPC-urile din cloud și SD-WAN-urile folosind rețeaua CF)</sup>
+ 
 -c) ...***on one platform***(pe o platforma unica) cu  ***CES***, ***RBI***, **DEX**, **DDoS** si multe altele incluse in aceasta:<br/> 
  - **RBI** - Remote ***Browser Isolation***(izolare browser de la distanță) <sup>(- oferiți prevenire/amenințare pe internet și protecție a datelor prin rularea codului departe de punctele finale, fără a sacrifica performanța)</sup>
  - [**DLP**](https://blog-cloudflare-com.webpkgcache.com/doc/-/s/blog.cloudflare.com/casb-dlp) - ***Data Loss Prevention***(prevenire pierdere date) <sup>(- inspectați traficul HTTP/S pentru date sensibile, cum ar fi PII și preveniți ex-filtrarea cu politici de permitere sau blocare)</sup>
  - **CES** - ***Cloud Email Security***(securitate email in nor/cloud) <sup>(- protejați-vă în mod preventiv utilizatorii de phishing, compromiterea e-mailurilor de afaceri=BEC și atacurile lanțului de aprovizionare prin e-mail)</sup>
  - [**SEG**](https://www.cloudflare.com/learning/email-security/secure-email-gateway-seg/) - ***Secured Email Gateway***(poarta securizata pentru email) <sup>(-o poarta de e-mail securizat identifică și blochează e-mailurile rău intenționate înainte ca acestea să ajungă în căsuța / containerul / recipientul de e-mail)</sup>
  
-II. pentru aplicatii si infrastructura:<br/>
+II. pentru aplicatii si infrastructura:
+
 -a) pentru *securitatea si performanta aplicatiei*: protejati si accelerati aplicatiile mobile/web, API-urile si website-urile folosind: **WAF**, **DDoS**, **CDN**, **DNS** si multe altele:<br/><sup>
 - **WAF**
 - **DDoS**
 - **CDN**
 - **DNS**
 - si multe altele
-</sup><br/>  
+</sup>
+
 -b) pentru *securitatea si performanta retelei*: protejati si accelerati infrastructura cu protectie **L3** **DDoS** si **FW**, **interconexiuni** si **rutare inteligenta**<br/><sup>
 - **DDoS**
 - **FW**
