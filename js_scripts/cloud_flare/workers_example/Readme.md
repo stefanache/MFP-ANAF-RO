@@ -94,8 +94,8 @@ Alternativa propusa de catre **CF** la/de inlocuire a ***SD-WAN***-ului traditio
  
 **II**. pentru **aplicatii si infrastructura**:
 
--a) pentru *securitatea si performanta aplicatiei*: protejati si accelerati aplicatiile mobile/web, API-urile si website-urile folosind: **WAF**, [**DDoS**](https://www.cloudflare.com/ddos/), **CDN**, **DNS** si multe altele:<br/><sup>
-- **WAF**
+-a) pentru *securitatea si performanta aplicatiei*: protejati si accelerati aplicatiile mobile/web, API-urile si website-urile folosind: [**WAF**](https://www.cloudflare.com/lp/ppc/waf-x/?utm_source=google&utm_medium=cpc&utm_campaign=ao-fy-acq-emea_en_all-umbrella-ge-ge-prospecting-sch_g_brand_alpha_na_product&utm_content=Alpha_Brand_Applications_WAF&utm_term=cloudflare+waf&campaignid=71700000112709379&adgroupid=58700008486475722&creativeid=662164911281&gad_source=1&gclid=CjwKCAjwz42xBhB9EiwA48pT71cC-6PK7SrhGCX3FAsjk8vHUfXeqNGKMJMqO1BbGHC5DOhmHjBdKBoCntgQAvD_BwE&gclsrc=aw.ds), [**DDoS**](https://www.cloudflare.com/ddos/), **CDN**, **DNS** si multe altele:<br/><sup>
+- [**WAF**](https://www.cloudflare.com/lp/ppc/waf-x/?utm_source=google&utm_medium=cpc&utm_campaign=ao-fy-acq-emea_en_all-umbrella-ge-ge-prospecting-sch_g_brand_alpha_na_product&utm_content=Alpha_Brand_Applications_WAF&utm_term=cloudflare+waf&campaignid=71700000112709379&adgroupid=58700008486475722&creativeid=662164911281&gad_source=1&gclid=CjwKCAjwz42xBhB9EiwA48pT71cC-6PK7SrhGCX3FAsjk8vHUfXeqNGKMJMqO1BbGHC5DOhmHjBdKBoCntgQAvD_BwE&gclsrc=aw.ds) - Web Application Firewall([***WAF***](https://www.cloudflare.com/lp/ppc/waf-x/?utm_source=google&utm_medium=cpc&utm_campaign=ao-fy-acq-emea_en_all-umbrella-ge-ge-prospecting-sch_g_brand_alpha_na_product&utm_content=Alpha_Brand_Applications_WAF&utm_term=cloudflare+waf&campaignid=71700000112709379&adgroupid=58700008486475722&creativeid=662164911281&gad_source=1&gclid=CjwKCAjwz42xBhB9EiwA48pT71cC-6PK7SrhGCX3FAsjk8vHUfXeqNGKMJMqO1BbGHC5DOhmHjBdKBoCntgQAvD_BwE&gclsrc=aw.ds)
 - [**DDoS**](https://www.cloudflare.com/ddos/) - Distributed Denial of Service([***DDoS***](https://www.cloudflare.com/learning/ddos/what-is-a-ddos-attack/) ***protection***
 - **CDN**
 - **DNS**
