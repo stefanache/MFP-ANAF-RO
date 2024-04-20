@@ -71,6 +71,7 @@ Alternativa propusa de catre **CF** la/de inlocuire a ***SD-WAN***-ului traditio
 [***Prescurtari / Explicatie Termeni***](https://www.cloudflare.com/products/)
 
 **I**. pentru **uzul intern** al intreprinderii/organizatiei/al [angajatilor](https://www.cloudflare.com/zero-trust/):<br/>
+
 <sup>**Platforma CloadFlare One(CF-1) este Security Service Edge[(SSE)](https://www.cloudflare.com/learning/access-management/security-service-edge-sse/) și(+,inclusa in) Secure Access Service Edge[(SASE)](https://developers.cloudflare.com/reference-architecture/architectures/sase/?_gl=1*15fyxwm*_ga*OTUxMzcxMzIyLjE3MTMyODg4OTM.*_ga_SQCRB0TXZW*MTcxMzYwMTk5MC4yMS4xLjE3MTM2MDM1MDcuMC4wLjA.) de la CF - One control plane and interfaces**(un singur plan de control și interfețe):</sup>
 
 -a) [***SSE***](https://www.cloudflare.com/learning/access-management/security-service-edge-sse/) platform(securitate zero-incredere) =este= partea de securitate a [***SASE***](https://developers.cloudflare.com/reference-architecture/architectures/sase/?_gl=1*15fyxwm*_ga*OTUxMzcxMzIyLjE3MTMyODg4OTM.*_ga_SQCRB0TXZW*MTcxMzYwMTk5MC4yMS4xLjE3MTM2MDM1MDcuMC4wLjA.):  [**ZTNA**](https://www.cloudflare.com/learning/access-management/what-is-ztna/), [**SWG**](https://www.cloudflare.com/zero-trust/products/gateway/), [**CASB**](https://www.cloudflare.com/learning/access-management/what-is-a-casb/)...<br/>
