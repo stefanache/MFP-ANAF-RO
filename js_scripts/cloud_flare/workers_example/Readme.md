@@ -82,9 +82,24 @@ I. pentru uzul intern al intreprinderii/organizatiei/al [angajatilor](https://ww
  - **RBI** - Remote ***Browser Isolation***(izolare browser de la distanță) <sup>(- oferiți prevenire/amenințare pe internet și protecție a datelor prin rularea codului departe de punctele finale, fără a sacrifica performanța)</sup>
  - [**DLP**](https://blog-cloudflare-com.webpkgcache.com/doc/-/s/blog.cloudflare.com/casb-dlp) - ***Data Loss Prevention***(prevenire pierdere date) <sup>(- inspectați traficul HTTP/S pentru date sensibile, cum ar fi PII și preveniți ex-filtrarea cu politici de permitere sau blocare)</sup>
  - **CES** - ***Cloud Email Security***(securitate email in nor/cloud) <sup>(- protejați-vă în mod preventiv utilizatorii de phishing, compromiterea e-mailurilor de afaceri=BEC și atacurile lanțului de aprovizionare prin e-mail)</sup>
- - [**SEG**](https://www.cloudflare.com/learning/email-security/secure-email-gateway-seg/) - ***Secured Email Gateway***(poarta securizata pentru email) <sup>(-o poarta de e-mail securizat identifică și blochează e-mailurile rău intenționate înainte ca acestea să ajungă în căsuța / containerul / recipientul de e-mail)</sup>
-
-   
+ - [**SEG**](https://www.cloudflare.com/learning/email-security/secure-email-gateway-seg/) - ***Secured Email Gateway***(poarta securizata pentru email) <sup>(-o poarta de e-mail securizat identifică și blochează e-mailurile rău intenționate înainte ca acestea să ajungă în căsuța / containerul / recipientul de e-mail)</sup><br/>
+ II. pentru aplicatii si infrastructura:<br/>
+-a) pentru *securitatea si performanta aplicatiei*: protejati si accelerati aplicatiile mobile/web, API-urile si website-urile folosind: **WAF**, **DDoS**, **CDN**, **DNS** si multe altele:<br/><sup>
+- **WAF**
+- **DDoS**
+- **CDN**
+- **DNS**
+- si multe altele
+</sup><br/>  
+-b) pentru *securitatea si performanta retelei*: protejati si accelerati infrastructura cu protectie **L3** **DDoS** si **FW**, **interconexiuni** si **rutare inteligenta**<br/><sup>
+- **DDoS**
+- **FW**
+- **interconexiuni**
+- **rutare inteligenta**
+</sup><br/> 
+III. pentru dezvoltatori:<br/><sup>
+ - **platforma de dezvoltare pentru dezvoltatori**: creati si implementati aplicatii fara server(**serverless**) cu posibilitatea scalarii, performante, securizate si fiabile.<br/>
+</sup>
 Asadar in cazul unei mari intreprinderi, in mod [traditional](https://developers.cloudflare.com/assets/cf1-ref-arch-1-e06c22ed.svg), vom avea nevoie sa realizam un mediu/context/ecosistem de [**conectivitate(NaaS) si securizare(zero trust)**](https://cf-assets.www.cloudflare.com/slt3lc6tev37/17RhepZZwxiD452Hs0gKFk/5324e2c81dcdef79c74efea2c60812ac/Network_Plus_Zero_Trust_Diagram_-_No_CF_Logo_smaller.png) intre diversele [Puncte-de-Acces](https://www.cloudflare.com/learning/access-management/what-is-sase/)(device-uri si utilizatori aflati in diverse locatii/imobile/cladiri/obiectiv) indepartate sau distribuite geografic(poate avea mai multe sedii de conectat, legaturi catre centre de date, [IaaS](https://www.bmc.com/blogs/saas-vs-paas-vs-iaas-whats-the-difference-and-how-to-choose/)-ul poate fi oferit de /externalizat catre un provider, angajatii sai pot lucra prin [VPN](https://www.hostinger.com/tutorials/what-is-vpn), in mod protejat/securizat de acasa/la distanta sau de oriunde din afara sediului ...).
 
 Ghidurile de implmentare [CF-1](https://developers.cloudflare.com/cloudflare-one/) pot constitui un [suport](https://developers.cloudflare.com/cloudflare-one/implementation-guides/) important de invatare pus la dispozitie de [CF](https://developers.cloudflare.com/reference-architecture/).
