@@ -70,7 +70,7 @@ Alternativa propusa de catre **CF** la/de inlocuire a ***SD-WAN***-ului traditio
 
 [***Explicatie:***](https://www.cloudflare.com/zero-trust/)<br/> <sub> 
  - **ZTNA** - Zero Trust Network ***Access***(- accces la rețea cu încredere zero/zero-trust) <sup>(- aplicați regulile de refuz implicit, Zero Trust pentru utilizatorii care accesează toate aplicațiile dvs., mai rapid și mai sigur decât un VPN)</sup>
- - **CASB** - Cloud Access Security Broker(broker-ul de securitate al accesului in cloud) <sup>(- securizează cu ușurință instrumentele SaaS, controlează granular accesul utilizatorilor și protejează datele sensibile.)
+ - **CASB** - ***Cloud Access Security Broker***(broker-ul de securitate al accesului in cloud) <sup>(- securizează cu ușurință instrumentele SaaS, controlează granular accesul utilizatorilor și protejează datele sensibile.)
  - **SWG** - Secure Web ***Gateway***(poarta web securizat) <sup>(-securizați și inspectați traficul de internet corporativ pentru a ajuta la prevenirea phishing-ului, a ransomware-ului și a altor riscuri pe internet.)</sup>
 </sub>
    
