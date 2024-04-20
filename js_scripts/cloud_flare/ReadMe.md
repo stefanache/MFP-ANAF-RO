@@ -152,7 +152,7 @@ de pilda, daca aveti in directorul ***D:\\xampp\\htdocs\\***, un **site** ***fGe
                //# sourceMappingURL=index.js.map
 
  
-   - exista posibilitatea ca sa **vedeti/testa si local** continutul HTML al proiectului Hello-World  daca dati local comanda-CI(shell/cmd.exe) de rulare:
+   - exista posibilitatea ca sa **vedeti/testa si local** continutul HTML al proiectului Hello-World,  daca dati local comanda-CI(shell/cmd.exe), de rulare:
                 <pre> C:\USERS\{UserName}\hello> npm run dev</pre>
  si apoi, fara sa inchidem serverul local, deschidem in **browser**-ul local de pe desktop-PC/laptop, adresa-URL/link-ul :
         <pre> [http://localhost:8787/](https://hello.ion-stefanache.workers.dev/)</pre>
