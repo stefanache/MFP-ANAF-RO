@@ -83,7 +83,7 @@ I. pentru uzul intern al intreprinderii/organizatiei/al [angajatilor](https://ww
  - [**DLP**](https://blog-cloudflare-com.webpkgcache.com/doc/-/s/blog.cloudflare.com/casb-dlp) - ***Data Loss Prevention***(prevenire pierdere date) <sup>(- inspectați traficul HTTP/S pentru date sensibile, cum ar fi PII și preveniți ex-filtrarea cu politici de permitere sau blocare)</sup>
  - **CES** - ***Cloud Email Security***(securitate email in nor/cloud) <sup>(- protejați-vă în mod preventiv utilizatorii de phishing, compromiterea e-mailurilor de afaceri=BEC și atacurile lanțului de aprovizionare prin e-mail)</sup>
  - [**SEG**](https://www.cloudflare.com/learning/email-security/secure-email-gateway-seg/) - ***Secured Email Gateway***(poarta securizata pentru email) <sup>(-o poarta de e-mail securizat identifică și blochează e-mailurile rău intenționate înainte ca acestea să ajungă în căsuța / containerul / recipientul de e-mail)</sup><br/>
- II. pentru aplicatii si infrastructura:<br/>
+II. pentru aplicatii si infrastructura:<br/>
 -a) pentru *securitatea si performanta aplicatiei*: protejati si accelerati aplicatiile mobile/web, API-urile si website-urile folosind: **WAF**, **DDoS**, **CDN**, **DNS** si multe altele:<br/><sup>
 - **WAF**
 - **DDoS**
