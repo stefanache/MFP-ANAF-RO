@@ -253,3 +253,5 @@ urmatorul continut: C:\Users\Nelu\hello\test>type index.spec.ts
                 Hello World!
 
   daca veti da **view page source**(cu click dreapta din meniul contextual al browser-ului), veti vedea acelasi text(**Hello World!**),  fara nici-un cod HTML sau javascript! 
+
+   - pentru exemplul **worker KV** puteti consulta acest [tutorial publicat in ***medium***](https://medium.com/velotio-perspectives/an-introduction-to-cloudflare-workers-and-cloudflare-kv-store-ad8c8abd5677)
