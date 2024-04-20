@@ -96,7 +96,7 @@ Alternativa propusa de catre **CF** la/de inlocuire a ***SD-WAN***-ului traditio
 
 -a) pentru *securitatea si performanta aplicatiei*: protejati si accelerati aplicatiile mobile/web, API-urile si website-urile folosind: **WAF**, [**DDoS**](https://www.cloudflare.com/ddos/), **CDN**, **DNS** si multe altele:<br/><sup>
 - **WAF**
-- [**DDoS**]((https://www.cloudflare.com/ddos/) - Distributed Denial of Service([***DDoS***](https://www.cloudflare.com/learning/ddos/what-is-a-ddos-attack/) ***protection***
+- [**DDoS**](https://www.cloudflare.com/ddos/) - Distributed Denial of Service([***DDoS***](https://www.cloudflare.com/learning/ddos/what-is-a-ddos-attack/) ***protection***
 - **CDN**
 - **DNS**
 - si multe altele
