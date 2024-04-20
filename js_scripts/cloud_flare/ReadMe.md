@@ -140,7 +140,17 @@ de pilda, daca aveti in directorul ***D:\\xampp\\htdocs\\***, un **site** ***fGe
     -- *OBS*: 
    - pentru a vizualiza **codul generat** al ***sursei typescript*** care genereaza continutul HTML al proiectului: veti vedea ca in partea dreapta-sus, pe lina sus in dreptul meniului-paginii, aveti un link [**Edit sourc**e](https://dash.cloudflare.com/2d482e04c26cae6ff3ada060d87c965d/workers/services/edit/hello/production) - click-ati si veti (re)vedea/regasi codul simplu generat al [lucratorului](https://hello.ion-stefanache.workers.dev/)
            
-                **Hello World!**
+                // src/index.ts
+var src_default = {
+  async fetch(request, env, ctx) {
+    return new Response("Hello World!");
+  }
+};
+export {
+  src_default as default
+};
+//# sourceMappingURL=index.js.map
+
  
    - exista posibilitatea ca sa **vedeti/testa si local** continutul HTML al proiectului Hello-World  daca dati local comanda-CI(shell/cmd.exe) de rulare:
  <pre> C:\USERS\{UserName}>\hello npm run dev</pre>
