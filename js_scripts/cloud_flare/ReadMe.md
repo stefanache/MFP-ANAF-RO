@@ -151,9 +151,9 @@ de pilda, daca aveti in directorul ***D:\\xampp\\htdocs\\***, un **site** ***fGe
                };
                //# sourceMappingURL=index.js.map
 
-**Nota:
+**Nota:**
 
-trebuie sa va spun ca pe local in directorul **src** veti gasi in fisierul **index.ts** :
+- trebuie sa va spun ca pe local in directorul **src** veti gasi in fisierul **index.ts** :
   
                Directory of C:\Users\{user}\hello\src
                       
@@ -183,7 +183,7 @@ urmatorul continut: C:\Users\{user}\hello\src>type index.ts
                                return new Response('Hello World!');
                        },
                };
-iar in directorul **test** in fisierul **index.spec.ts**
+ - iar in directorul **test** in fisierul **index.spec.ts**
 
        C:\Users\Nelu\hello\test>dir
         Volume in drive C has no label.
@@ -226,7 +226,7 @@ urmatorul continut: C:\Users\Nelu\hello\test>type index.spec.ts
                        });
                });
                
-   - exista posibilitatea ca sa **vedeti/testa si local** continutul HTML al proiectului Hello-World,  daca dati local comanda-CI(shell/cmd.exe), de rulare:
+   - exista posibilitatea sa **vedeti/testa si local** continutul HTML al proiectului Hello-World,  daca dati local comanda-CI(shell/cmd.exe), de rulare:
                 <pre> C:\USERS\{UserName}\hello> npm run dev</pre>
  si apoi, fara sa inchidem serverul local, deschidem in **browser**-ul local de pe desktop-PC/laptop, adresa-URL/link-ul :
         <pre> [http://localhost:8787/](https://hello.ion-stefanache.workers.dev/)</pre>
