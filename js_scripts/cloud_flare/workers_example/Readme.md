@@ -68,11 +68,11 @@ In general, o intreprindere/corporatie/multinationala poate avea de [*conectat*]
 
 Alternativa propusa de catre **CF** la/de inlocuire a ***SD-WAN***-ului traditional este [**MAGIC WAN**](https://www.cloudflare.com/lp/ppc/sd-wan/?utm_source=google&utm_medium=cpc&utm_campaign=ao-fy-acq-emea_en_all-umbrella-ge-ge-prospecting-sch_g_brand_alpha_na_product&utm_content=Alpha_Brand_Networks_WAN&utm_term=cloudflare+sd+wan&campaignid=71700000112709379&adgroupid=58700008486475713&creativeid=662164911263&gad_source=1&gclid=Cj0KCQjwiYOxBhC5ARIsAIvdH53vGqn0Dkn4DpawTEEvYPjIJ7HaHUXthvjLEXwJgtk2k6w3YXQhv0kaArZZEALw_wcB&gclsrc=aw.ds)
 
-[***Explicatie:***](https://www.cloudflare.com/zero-trust/)<br/> <font size="1"> 
+[***Explicatie:***](https://www.cloudflare.com/zero-trust/)<br/> <sub> 
  - **ZTNA** - Zero Trust Network Access(***ccces*** la rețea cu încredere zero/zero-trust)<sup>(aplicați regulile de refuz implicit, Zero Trust pentru utilizatorii care accesează toate aplicațiile dvs., mai rapid și mai sigur decât un VPN)</sup>
  - **CASB** - Cloud Access Security Broker(broker-ul de securitate al accesului in cloud) -
 
-</font>
+</sub>
    
 Asadar in cazul unei mari intreprinderi, in mod [traditional](https://developers.cloudflare.com/assets/cf1-ref-arch-1-e06c22ed.svg), vom avea nevoie sa realizam un mediu/context/ecosistem de [**conectivitate(NaaS) si securizare(zero trust)**](https://cf-assets.www.cloudflare.com/slt3lc6tev37/17RhepZZwxiD452Hs0gKFk/5324e2c81dcdef79c74efea2c60812ac/Network_Plus_Zero_Trust_Diagram_-_No_CF_Logo_smaller.png) intre diversele [Puncte-de-Acces](https://www.cloudflare.com/learning/access-management/what-is-sase/)(device-uri si utilizatori aflati in diverse locatii/imobile/cladiri/obiectiv) indepartate sau distribuite geografic(poate avea mai multe sedii de conectat, legaturi catre centre de date, [IaaS](https://www.bmc.com/blogs/saas-vs-paas-vs-iaas-whats-the-difference-and-how-to-choose/)-ul poate fi oferit de /externalizat catre un provider, angajatii sai pot lucra prin [VPN](https://www.hostinger.com/tutorials/what-is-vpn), in mod protejat/securizat de acasa/la distanta sau de oriunde din afara sediului ...).
 
