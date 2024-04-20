@@ -136,6 +136,6 @@ de pilda, daca aveti in directorul ***D:\\xampp\\htdocs\\***, un **site** ***fGe
         va lansa in browser lucratorul/worker-ul "Hello", care va afisa mesajul urmator:<br/>
         
                 **Hello World!**
-  
+
         -- *OBS*: pentru a vizualiza ***sursa javascript***(nodeJS) - veti vedea ca in partea dreapta-sus, pe lina sus in dreptul meniului-paginii, aveti un link [**Edit sourc**e](https://dash.cloudflare.com/2d482e04c26cae6ff3ada060d87c965d/workers/services/edit/hello/production) - click-ati si veti vedea codul simplu al luctatorului Hello-World!!!
   
