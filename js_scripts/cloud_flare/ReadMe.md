@@ -137,7 +137,7 @@ de pilda, daca aveti in directorul ***D:\\xampp\\htdocs\\***, un **site** ***fGe
         
                 Hello World!
   
-  daca veti da **viewsource** cu click dreapta din meniul contextual, veti vedea acelasi text(Hello World!),  fara nici-un cod HTML sau javascript!
+  daca veti da **view page source**(cu click dreapta din meniul contextual al browser-ului), veti vedea acelasi text(**Hello World!**),  fara nici-un cod HTML sau javascript!
   
     -- *OBS*: 
    - pentru a vizualiza **codul generat** al ***sursei typescript*** care genereaza continutul HTML al proiectului: veti vedea ca in partea dreapta-sus, pe lina sus in dreptul meniului-paginii, aveti un link [**Edit sourc**e](https://dash.cloudflare.com/2d482e04c26cae6ff3ada060d87c965d/workers/services/edit/hello/production) - click-ati si veti (re)vedea/regasi codul simplu generat al [lucratorului](https://hello.ion-stefanache.workers.dev/):
@@ -252,4 +252,4 @@ urmatorul continut: C:\Users\Nelu\hello\test>type index.spec.ts
          
                 Hello World!
 
-  daca veti da **viewsource** cu click dreapta din meniul contextual, veti vedea acelasi text(Hello World!),  fara nici-un cod HTML sau javascript! 
+  daca veti da **view page source**(cu click dreapta din meniul contextual al browser-ului), veti vedea acelasi text(**Hello World!**),  fara nici-un cod HTML sau javascript! 
