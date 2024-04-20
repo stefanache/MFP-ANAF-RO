@@ -151,7 +151,37 @@ de pilda, daca aveti in directorul ***D:\\xampp\\htdocs\\***, un **site** ***fGe
                };
                //# sourceMappingURL=index.js.map
 
- 
+  trebuie sa va spun ca pe local in directorul **src** veti gasi in fisierul **index.ts** :
+  
+       Directory of C:\Users\{user}\hello\src
+
+       19.04.2024  20:08    <DIR>          .
+       19.04.2024  20:08    <DIR>          ..
+       19.04.2024  15:47               649 index.ts
+               1 File(s)            649 bytes
+               2 Dir(s)  19,306,614,784 bytes free
+
+urmatorul continut: C:\Users\{user}\hello\src>type index.ts
+
+               /**
+               * Welcome to Cloudflare Workers! This is your first worker.
+               *
+               * - Run `npm run dev` in your terminal to start a development server
+               * - Open a browser tab at http://localhost:8787/ to see your worker in action
+               * - Run `npm run deploy` to publish your worker
+               *
+               * Bind resources to your worker in `wrangler.toml`. After adding bindings, a type definition for the
+               * `Env` object can be regenerated with `npm run cf-typegen`.
+               *
+               * Learn more at https://developers.cloudflare.com/workers/
+               */
+
+               export default {
+                       async fetch(request: Request, env: Env, ctx: ExecutionContext): Promise<Response> {
+                               return new Response('Hello World!');
+                       },
+               };
+
    - exista posibilitatea ca sa **vedeti/testa si local** continutul HTML al proiectului Hello-World,  daca dati local comanda-CI(shell/cmd.exe), de rulare:
                 <pre> C:\USERS\{UserName}\hello> npm run dev</pre>
  si apoi, fara sa inchidem serverul local, deschidem in **browser**-ul local de pe desktop-PC/laptop, adresa-URL/link-ul :
