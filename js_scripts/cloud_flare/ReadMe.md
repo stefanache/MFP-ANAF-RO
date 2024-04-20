@@ -225,7 +225,24 @@ urmatorul continut: C:\Users\Nelu\hello\test>type index.spec.ts
                                expect(await response.text()).toMatchInlineSnapshot(`"Hello World!"`);
                        });
                });
+  iar fisierul tsconfig.json din directorul test are urmatorul continut: C:\Users\Nelu\hello\test>type ts.config.json
+  
+               The system cannot find the file specified.
+
+               C:\Users\Nelu\hello\test>type tsconfig.json
+               {
+                 "extends": "../tsconfig.json",
+                 "compilerOptions": {
+                   "types": [
+                     "@cloudflare/workers-types/experimental",
+                     "@cloudflare/vitest-pool-workers"
+                   ]
+                 },
+                 "include": ["./**/*.ts", "../src/env.d.ts"],
+                 "exclude": []
+               }
                
+
    - exista posibilitatea sa **vedeti/testa si local** continutul HTML al proiectului Hello-World,  daca dati local comanda-CI(shell/cmd.exe), de rulare:
                 <pre> C:\USERS\{UserName}\hello> npm run dev</pre>
  si apoi, fara sa inchidem serverul local, deschidem in **browser**-ul local de pe desktop-PC/laptop, adresa-URL/link-ul :
