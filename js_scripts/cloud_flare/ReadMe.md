@@ -250,4 +250,4 @@ urmatorul continut: C:\Users\Nelu\hello\test>type index.spec.ts
          
                 **Hello World!**
 
-  
+  daca veti da **viewsource** veti vedea acelasi text fara nici-un cod HTML sau javascript! 
