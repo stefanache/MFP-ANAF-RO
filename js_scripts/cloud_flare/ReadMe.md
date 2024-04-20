@@ -146,10 +146,10 @@ de pilda, daca aveti in directorul ***D:\\xampp\\htdocs\\***, un **site** ***fGe
                    return new Response("Hello World!");
                  }
                };
-export {
-  src_default as default
-};
-//# sourceMappingURL=index.js.map
+               export {
+                 src_default as default
+               };
+               //# sourceMappingURL=index.js.map
 
  
    - exista posibilitatea ca sa **vedeti/testa si local** continutul HTML al proiectului Hello-World  daca dati local comanda-CI(shell/cmd.exe) de rulare:
