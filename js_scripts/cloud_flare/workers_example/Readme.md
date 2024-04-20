@@ -83,7 +83,7 @@ Alternativa propusa de catre **CF** la/de inlocuire a ***SD-WAN***-ului traditio
  - [**FWaaS](https://nordlayer.com/learn/firewall/firewall-as-a-service-fwaas/?gad_source=1&gclid=Cj0KCQjwiYOxBhC5ARIsAIvdH50xVuAmBG3aJtALAF11jQz7Xz1kY9BQG4nS1DGxiwkz-nPqaZPkRYwaAgKfEALw_wcB)** - ***Magic Firewall***(paravan/zid de protectie magic) <sup>(- aplicați politici consecvente de securitate a rețelei pe întregul dvs. WAN, fără a transporta traficul sau a crea puncte de blocare)</sup>
  - **WANaaS** - [***Magic WAN***](https://www.cloudflare.com/lp/ppc/sd-wan/?utm_source=google&utm_medium=cpc&utm_campaign=ao-fy-acq-emea_en_all-umbrella-ge-ge-prospecting-sch_g_brand_alpha_na_product&utm_content=Alpha_Brand_Networks_WAN&utm_term=cloudflare+sd+wan&campaignid=71700000112709379&adgroupid=58700008486475713&creativeid=662164911263&gad_source=1&gclid=Cj0KCQjwiYOxBhC5ARIsAIvdH53vGqn0Dkn4DpawTEEvYPjIJ7HaHUXthvjLEXwJgtk2k6w3YXQhv0kaArZZEALw_wcB&gclsrc=aw.ds)(retea magica de/cu intindere globala), in locul vechiului **WAN** & [**SD-WAN**](https://blog.cloudflare.com/how-to-connect-your-offices-to-cloudflare-using-sd-wan) <sup>(- conectați-vă și asigurați-vă filialele, sediul central, centrele de date, VPC-urile din cloud și SD-WAN-urile folosind rețeaua CF)</sup>
  
--c) ...***on one platform***(pe o platforma unica) cu  ***CES***, ***RBI***, **DEX**, **DDoS** si multe altele incluse in aceasta:<br/> 
+-c) ...***on one platform***(pe o platforma unica) cu  ***CES***, ***RBI***, **DEX**, [**DDoS**](https://www.cloudflare.com/ddos/) si multe altele incluse in aceasta:<br/> 
  - **RBI** - Remote ***Browser Isolation***(izolare browser de la distanță) <sup>(- oferiți prevenire/amenințare pe internet și protecție a datelor prin rularea codului departe de punctele finale, fără a sacrifica performanța)</sup>
  - [**DLP**](https://blog-cloudflare-com.webpkgcache.com/doc/-/s/blog.cloudflare.com/casb-dlp) - ***Data Loss Prevention***(prevenire pierdere date) <sup>(- inspectați traficul HTTP/S pentru date sensibile, cum ar fi PII și preveniți ex-filtrarea cu politici de permitere sau blocare)</sup>
  - **CES** - ***Cloud Email Security***(securitate email in nor/cloud) <sup>(- protejați-vă în mod preventiv utilizatorii de phishing, compromiterea e-mailurilor de afaceri=BEC și atacurile lanțului de aprovizionare prin e-mail)</sup>
@@ -91,7 +91,7 @@ Alternativa propusa de catre **CF** la/de inlocuire a ***SD-WAN***-ului traditio
  
 **II**. pentru **aplicatii si infrastructura**:
 
--a) pentru *securitatea si performanta aplicatiei*: protejati si accelerati aplicatiile mobile/web, API-urile si website-urile folosind: **WAF**, **DDoS**, **CDN**, **DNS** si multe altele:<br/><sup>
+-a) pentru *securitatea si performanta aplicatiei*: protejati si accelerati aplicatiile mobile/web, API-urile si website-urile folosind: **WAF**, [**DDoS**](https://www.cloudflare.com/ddos/), **CDN**, **DNS** si multe altele:<br/><sup>
 - **WAF**
 - **DDoS**
 - **CDN**
@@ -100,7 +100,7 @@ Alternativa propusa de catre **CF** la/de inlocuire a ***SD-WAN***-ului traditio
 </sup>
 
 -b) pentru *securitatea si performanta retelei* - protejati si accelerati infrastructura cu protectie **L3** **DDoS** si **FW**, **interconexiuni** si **rutare inteligenta**:<br/><sup>
-- **DDoS**
+- [**DDoS**](https://www.cloudflare.com/ddos/)
 - **FW**
 - **interconexiuni**
 - **rutare inteligenta**
