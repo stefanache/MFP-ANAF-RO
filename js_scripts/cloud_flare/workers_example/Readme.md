@@ -76,7 +76,7 @@ Alternativa propusa de catre **CF** la/de inlocuire a ***SD-WAN***-ului traditio
  - **SWG** - Secure Web ***Gateway***(poarta web securizat) <sup>(-securizați și inspectați traficul de internet corporativ pentru a ajuta la prevenirea phishing-ului, a ransomware-ului și a altor riscuri pe internet.)</sup><br/>
 -b) .... & ***network connectivity***(conectivitate la retea) ***WANaaS***, **FWaaS**...<br/>
  - **FWaaS** - ***Magic Firewall***(paravan/zid de protectie magic) <sup>(- aplicați politici consecvente de securitate a rețelei pe întregul dvs. WAN, fără a transporta traficul sau a crea puncte de blocare)</sup>
- - **SD-WAN** - ***Magic WAN***(retea magica de/cu intindere globala) <sup>(- conectați-vă și asigurați-vă filialele, sediul central, centrele de date, VPC-urile din cloud și SD-WAN-urile folosind rețeaua CF)</sup><br/>
+ - **WANaaS** - ***Magic WAN***(retea magica de/cu intindere globala), in loc de **SD-WAN** <sup>(- conectați-vă și asigurați-vă filialele, sediul central, centrele de date, VPC-urile din cloud și SD-WAN-urile folosind rețeaua CF)</sup><br/>
 -c) ...***on one platform***(pe o platforma unica) cu  ***CES***, ***RBI***, **DEX**, **DDoS** si multe altele incluse in aceasta:<br/> 
  - **RBI** - Remote ***Browser Isolation***(izolare browser de la distanță) <sup>(- oferiți prevenire/amenințare pe internet și protecție a datelor prin rularea codului departe de punctele finale, fără a sacrifica performanța)</sup>
  - **DLP** - ***Data Loss Prevention***(prevenire pierdere date) <sup>(- inspectați traficul HTTP/S pentru date sensibile, cum ar fi PII și preveniți ex-filtrarea cu politici de permitere sau blocare)</sup>
