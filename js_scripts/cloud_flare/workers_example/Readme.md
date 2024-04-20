@@ -88,21 +88,21 @@ Alternativa propusa de catre **CF** la/de inlocuire a ***SD-WAN***-ului traditio
  - [**DLP**](https://blog-cloudflare-com.webpkgcache.com/doc/-/s/blog.cloudflare.com/casb-dlp) - ***Data Loss Prevention***(prevenire pierdere date) <sup>(- inspectați traficul HTTP/S pentru date sensibile, cum ar fi PII și preveniți ex-filtrarea cu politici de permitere sau blocare)</sup>
  - [**CES**](https://www.cloudflare.com/zero-trust/products/email-security/) - ***Cloud Email Security***(securitate email in nor/cloud) <sup>(- protejați-vă în mod preventiv utilizatorii de phishing, compromiterea e-mailurilor de afaceri=BEC și atacurile lanțului de aprovizionare prin e-mail)</sup><br/>
    a se vedea si [**ELI**](https://www.cloudflare.com/static/392e8e6ab0692fa14e1adfc486c6aec4/Email_Link_Isolation_Product_Brief__RBI___CES_.pdf) protection(**CES**, **RBI**)
-- [**DDoS**](https://www.cloudflare.com/ddos/) - Distributed Denial of Serrvice([***DDoS***](https://www.cloudflare.com/learning/ddos/what-is-a-ddos-attack/)) ***protection***   
+- [**DDoS**](https://www.cloudflare.com/ddos/) - Distributed Denial of Service([***DDoS***](https://www.cloudflare.com/learning/ddos/what-is-a-ddos-attack/)) ***protection***   
  - [**SEG**](https://www.cloudflare.com/learning/email-security/secure-email-gateway-seg/) - ***Secured Email Gateway***(poarta securizata pentru email) <sup>(-o poarta de e-mail securizat identifică și blochează e-mailurile rău intenționate înainte ca acestea să ajungă în căsuța / containerul / recipientul de e-mail)</sup>
  
 **II**. pentru **aplicatii si infrastructura**:
 
 -a) pentru *securitatea si performanta aplicatiei*: protejati si accelerati aplicatiile mobile/web, API-urile si website-urile folosind: **WAF**, [**DDoS**]https://www.cloudflare.com/ddos/), **CDN**, **DNS** si multe altele:<br/><sup>
 - **WAF**
-- [**DDoS**]((https://www.cloudflare.com/ddos/) - Distributed Denial of Serrvice([***DDoS***](https://www.cloudflare.com/learning/ddos/what-is-a-ddos-attack/) ***protection***
+- [**DDoS**]((https://www.cloudflare.com/ddos/) - Distributed Denial of Service([***DDoS***](https://www.cloudflare.com/learning/ddos/what-is-a-ddos-attack/) ***protection***
 - **CDN**
 - **DNS**
 - si multe altele
 </sup>
 
 -b) pentru *securitatea si performanta retelei* - protejati si accelerati infrastructura cu protectie **L3** **DDoS** si **FW**, **interconexiuni** si **rutare inteligenta**:<br/><sup>
-- [**DDoS**](https://www.cloudflare.com/ddos/) - Distributed Denial of Serrvice([***DDoS***](https://www.cloudflare.com/learning/ddos/what-is-a-ddos-attack/)) ***protection***
+- [**DDoS**](https://www.cloudflare.com/ddos/) - Distributed Denial of Service([***DDoS***](https://www.cloudflare.com/learning/ddos/what-is-a-ddos-attack/)) ***protection***
 - **FW**
 - **interconexiuni**
 - **rutare inteligenta**
