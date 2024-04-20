@@ -225,7 +225,7 @@ urmatorul continut: C:\Users\Nelu\hello\test>type index.spec.ts
                                expect(await response.text()).toMatchInlineSnapshot(`"Hello World!"`);
                        });
                });
-  iar fisierul tsconfig.json din directorul test are urmatorul continut: C:\Users\Nelu\hello\test>type ts.config.json
+  iar fisierul **tsconfig.json** din directorul **test** are urmatorul continut: C:\Users\Nelu\hello\test>type ts.config.json
   
                The system cannot find the file specified.
 
