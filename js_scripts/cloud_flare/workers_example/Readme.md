@@ -68,7 +68,7 @@ In general, o intreprindere/corporatie/multinationala poate avea de [*conectat*]
 
 Alternativa propusa de catre **CF** la/de inlocuire a ***SD-WAN***-ului traditional este [**MAGIC WAN**](https://www.cloudflare.com/lp/ppc/sd-wan/?utm_source=google&utm_medium=cpc&utm_campaign=ao-fy-acq-emea_en_all-umbrella-ge-ge-prospecting-sch_g_brand_alpha_na_product&utm_content=Alpha_Brand_Networks_WAN&utm_term=cloudflare+sd+wan&campaignid=71700000112709379&adgroupid=58700008486475713&creativeid=662164911263&gad_source=1&gclid=Cj0KCQjwiYOxBhC5ARIsAIvdH53vGqn0Dkn4DpawTEEvYPjIJ7HaHUXthvjLEXwJgtk2k6w3YXQhv0kaArZZEALw_wcB&gclsrc=aw.ds)
 
-[***Explicatie:***](https://www.cloudflare.com/zero-trust/)<br/> <sub> 
+[***Prescurtari:***](https://www.cloudflare.com/zero-trust/)<br/> <sub> 
  - **ZTNA** - Zero Trust Network ***Access***(- accces la rețea cu încredere zero/zero-trust) <sup>(- aplicați regulile de refuz implicit, Zero Trust pentru utilizatorii care accesează toate aplicațiile dvs., mai rapid și mai sigur decât un VPN)</sup>
  - **CASB** - ***Cloud Access Security Broker***(broker-ul de securitate al accesului in cloud) <sup>(- securizează cu ușurință instrumentele SaaS, controlează granular accesul utilizatorilor și protejează datele sensibile.)
  - **SWG** - Secure Web ***Gateway***(poarta web securizat) <sup>(-securizați și inspectați traficul de internet corporativ pentru a ajuta la prevenirea phishing-ului, a ransomware-ului și a altor riscuri pe internet.)</sup>
