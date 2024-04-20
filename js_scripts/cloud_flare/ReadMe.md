@@ -243,7 +243,7 @@ urmatorul continut: C:\Users\Nelu\hello\test>type index.spec.ts
                }
                
 
-   - exista posibilitatea sa **vedeti/testa si local** continutul HTML al proiectului Hello-World,  daca dati local comanda-CI(shell/cmd.exe), de rulare:
+   - exista posibilitatea sa **vedeti/testa si local** TEXT-ul generat, al proiectului Hello-World,  daca dati local comanda-CI(shell/cmd.exe), de rulare:
                 <pre> C:\USERS\{UserName}\hello> npm run dev</pre>
  si apoi, fara sa inchidem serverul local, deschidem in **browser**-ul local de pe desktop-PC/laptop, adresa-URL/link-ul :
         <pre> [http://localhost:8787/](https://hello.ion-stefanache.workers.dev/)</pre>
