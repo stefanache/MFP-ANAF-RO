@@ -106,7 +106,8 @@ Alternativa propusa de catre **CF** la/de inlocuire a ***SD-WAN***-ului traditio
 - **rutare inteligenta**
 </sup>
 
-**III**. pentru **dezvoltatori**:<br/><sup>
+**III**. pentru **dezvoltatori**:
+
  -a) **platforma de dezvoltare pentru dezvoltatori** - creati si implementati aplicatii fara server(**serverless**) cu posibilitatea scalarii, performante, securizate si fiabile:<br/>
 </sup>
 Asadar in cazul unei mari intreprinderi, in mod [traditional](https://developers.cloudflare.com/assets/cf1-ref-arch-1-e06c22ed.svg), vom avea nevoie sa realizam un mediu/context/ecosistem de [**conectivitate(NaaS) si securizare(zero trust)**](https://cf-assets.www.cloudflare.com/slt3lc6tev37/17RhepZZwxiD452Hs0gKFk/5324e2c81dcdef79c74efea2c60812ac/Network_Plus_Zero_Trust_Diagram_-_No_CF_Logo_smaller.png) intre diversele [Puncte-de-Acces](https://www.cloudflare.com/learning/access-management/what-is-sase/)(device-uri si utilizatori aflati in diverse locatii/imobile/cladiri/obiectiv) indepartate sau distribuite geografic(poate avea mai multe sedii de conectat, legaturi catre centre de date, [IaaS](https://www.bmc.com/blogs/saas-vs-paas-vs-iaas-whats-the-difference-and-how-to-choose/)-ul poate fi oferit de /externalizat catre un provider, angajatii sai pot lucra prin [VPN](https://www.hostinger.com/tutorials/what-is-vpn), in mod protejat/securizat de acasa/la distanta sau de oriunde din afara sediului ...).
