@@ -94,7 +94,7 @@ Poate fi util sa consultati si repository oficial al [**CF**](https://github.com
        veti obtine un <b>link</b>, de forma urmatoare:<br/>
        <pre> https://autumn-broadband-mounted-track.trycloudflare.com</pre>
         <b>link</b> pe care-l puteti utiliza, mai departe, ...<br/><br/>
-    -- 3.)...pentru a accesa <b>site</b>-ul/urile pe care il/le aveti in <b><i>htdocs</i></b>;<br/>
+    -- 3.) ...pentru a accesa <b>site</b>-ul/urile pe care il/le aveti in <b><i>htdocs</i></b>;<br/>
 de pilda, daca aveti in directorul <b><i>D:\xampp\\htdocs\</i></b>, un <b>site</b> <b><i>fGetCSV</i></b>(care detine fiserul <b>index.php</b>), dupa pornirea din <b><i>XAMPP-Control-Pane</i></b> a <b><i>webserver</i></b>-ului nostru <b><i>Apache</i></b>(care asculta pe portul <b><i>http</i></b> <b>80</b> si pe portul <b><i>https</i></b> <b>443</b>), ati putea, in cele din urma, de pe orice dispozitiv(mobil,PC-desktop,tableta,un mic computer de buzunar, cum ar fi Raspberry Pi 4 <a href="https://dev.to/omarcloud20/a-free-cloudflare-tunnel-running-on-a-raspberry-pi-1jid"><b>RPi4</b></a>,...), conectat la/in <a href="(https://noise.getoto.net/tag/connector/"><b>internet</b></a>, deschide un browser(sa spunem <b>Chrome</b>) pentru a scrie si apoi acccesa <b>adresa-URL</b> urmatoare:<br/>
        <pre> https://autumn-broadband-mounted-track.trycloudflare.com\fGetCSV</pre>
        Pentru a vedea cum se proceseaza traficul respectiv, puteti accesa <a href="https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/">referinta oficiala</a> a tunelarii-CF.<br/>
