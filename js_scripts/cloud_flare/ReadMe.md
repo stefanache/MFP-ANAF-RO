@@ -87,7 +87,7 @@ Poate fi util sa consultati si repository oficial al [**CF**](https://github.com
 <details style="background-color:cyan;">
     -- 1.) dupa instalarea platformei <b>NodeJS</b>, urmeaza instalarea daemonului <b>Cloudflared</b>, care  se face/proceseaza prin comanda-CLI(din shell/<b>cmd.exe</b>), de forma urmatoare:<br/>
        <pre> C:\USERS\{UserName}> winget install --id Cloudflare.cloudflared</pre>
-       utlizand instalatorii <b>npm.exe</b> sau <b>npx.exe</b>,  componente a pachetului <b>NodeJS</b>;<br/>     
+       utlizand instalatorii <b>npm.exe</b> sau <b>npx.exe</b>,  componente a pachetului <b>NodeJS</b>;<br/><br/>     
     -- 2.) dupa instalarea daemon-ului <b>cloudflared</b>, urmeaza <a href="https://www.npmjs.com/package/cloudflared-tunnel"><b>tunelarea</b></a> propriu-zisa, utilizand/procesand cda-CLI de mai sus: <br/>
        <pre> C:\USERS\{UserName}> cloudflared tunnel --url http://localhost:80</pre>
        veti obtine un <b>link</b>, de forma urmatoare:<br/>
@@ -114,18 +114,18 @@ de pilda, daca aveti in directorul <b><i>D:\xampp\\htdocs\</i></b>, un <b>site</
        <pre> C:\USERS\{UserName}> npm install wrangler@latest</pre>
         - pentru a verifica versiunea <b>Wrangler</b>-ului:
        <pre> C:\USERS\{UserName}> npx wrangler --version</pre>
-       Comenizile wrangler le puteti gasi <a href="https://developers.cloudflare.com/workers/wrangler/commands/">aici</a>!
+       Comenizile wrangler le puteti gasi <a href="https://developers.cloudflare.com/workers/wrangler/commands/">aici</a>!<br/><br/>
     
     -- 2.) urmeaza crearea proiectului cu comanda:
         - crearea:           
        <pre> C:\USERS\{UserName}> npx wrangler init hello -y</pre>
         - apoi mergem in directorul nou creat:
-       <pre> C:\USERS\{UserName}> cd hello</pre>
+       <pre> C:\USERS\{UserName}> cd hello</pre><br/><br/>
     
     -- 3.) apoi publicam/distrinuim/instalam proiectul "Hello-World" in cloud-ul CF cu comanda:       
        <pre> C:\USERS\{UserName}> npx wrangler deploy</pre>
        vi se va furniza linkul pentru a vedea worker-ul in browser, ceva de forma <b><i>https://hello.{your-name}.workers.dev</i></b>:
-       <pre> https://hello.ion-stefanache.workers.dev/</pre>
+       <pre> https://hello.ion-stefanache.workers.dev/</pre><br/><br/>
     
     -- 4.)  pentru a vedea depozitul respectiv(unde a fost instalat proiectul **Hello**), mergeti in [tabloul vostru de bord](https://dash.cloudflare.com/oauth2/auth?response_type=code&client_id=54d11594-84e4-41aa-b438-e81b8fa78ee7&redirect_uri=http%3A%2F%2Flocalhost%3A8976%2Foauth%2Fcallback&scope=account%3Aread%20user%3Aread%20workers%3Awrite%20workers_kv%3Awrite%20workers_routes%3Awrite%20workers_scripts%3Awrite%20workers_tail%3Aread%20d1%3Awrite%20pages%3Awrite%20zone%3Aread%20ssl_certs%3Awrite%20constellation%3Awrite%20ai%3Awrite%20queues%3Awrite%20offline_access&state=dXGqeTPuGnY5rW0ZahWDSb4nIFf.SfZK&code_challenge=fSPmYyB9p7qIhegLcxLqVxS2ET3GRWnK7cLYulRhHEs&code_challeng) din CloudFlare: ([CF-dashbord](https://dash.cloudflare.com/)),<br/>
        si apoi dupa ce introduceti email-ul si parola contului dvs CF, navigati in meniul din stanga pe traseul:
