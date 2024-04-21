@@ -296,4 +296,10 @@ iar **denumirea** sugerata/recomandata ar fi ***"Hello World - worker"***(sau cu
    - - Aici gasiti o comparatie [**CF-R2** vs. **AWS-S3**](https://blog.stackademic.com/amazon-s3-vs-cloudflare-r2-a-2023-comparison-1ed688f0a513) pentru ***stocarea de obiecte***;
      Cloudflare Storage **R2**([**CF-R2**](https://developers.cloudflare.com/r2/))  -permite dezvoltatorilor să stocheze cantități mari de ***date nestructurate*** fără taxele costisitoare de lățime de bandă de ieșire asociate cu serviciile tipice de stocare în cloud(puteti incerca acest [***exemplu R2-worker**](https://developers.cloudflare.com/r2/examples/demo-worker/).
 
-   - - Daca doriti sa creați noi [*baze de date* **SQL**](https://developers.cloudflare.com/d1/)(serverless / fără server), pentru a interoga din proiectele dvs. [***Workers***](https://developers.cloudflare.com/workers/) și [***Pages***](https://developers.cloudflare.com/pages/), puteti apela la [*CF* - **D1**](https://developers.cloudflare.com/d1/).
+   - - Daca doriti sa creați noi [*baze de date* **SQL**](https://developers.cloudflare.com/d1/)(serverless / fără server), pentru a interoga din proiectele dvs. [***CF - Workers***](https://developers.cloudflare.com/workers/) și [***CF - Pages***](https://developers.cloudflare.com/pages/), puteti apela la [*CF* - **D1**](https://developers.cloudflare.com/d1/).
+   - - Cand veti dori sa dezvoltați și implementați aplicațiile dvs. web în rețeaua globală rapidă și sigură a Cloudflare, vti putea apela la [***CF - Pages***](https://developers.cloudflare.com/pages/)
+       Veti dispune/avea parte  de:  
+       - Cinci sute de versiuni lunare, 100 de domenii personalizate,
+       - SSL integrat, locuri accesibile nelimitate,
+       - implementări nelimitate de previzualizare și
+       - capacitate full-stack prin integrarea Cloudflare Workers
