@@ -171,7 +171,9 @@ de pilda, daca aveti in directorul ***D:\\xampp\\htdocs\\***, un **site** ***fGe
                       1 File(s)            649 bytes
                       2 Dir(s)  19,306,614,784 bytes free
 
-          urmatorul continut: C:\Users\{user}\hello\src>type index.ts
+          urmatorul continut:
+               
+               C:\Users\{user}\hello\src>type index.ts
 
                C:\Users\{user}\hello\src>type index.ts
                /**
