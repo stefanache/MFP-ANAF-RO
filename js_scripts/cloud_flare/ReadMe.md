@@ -140,9 +140,7 @@ de pilda, daca aveti in directorul ***D:\\xampp\\htdocs\\***, un **site** ***fGe
   daca veti da **view page source**(cu click dreapta din meniul contextual al browser-ului), veti vedea acelasi text(**Hello World!**),  fara nici-un cod HTML si/sau javascript!<br/>
   Odata afisat in browser, puteti captura acel **link**(daca nu l-ati preluat deja, dupa publicare, cu ajutorul **wrangler**-ului, din mesajul aferent) si, poate fi pastrat, pentru o 
   vizualizare/utilizare ulterioara, daca-l salvati/plasati pe desktop, ca un **shurtcut** ; Link-ul ar putea avea o forma similara cu aceasta:<br/>
-               
-                 https://hello.ion-stefanache.workers.dev
-                 
+       <pre> https://hello.ion-stefanache.workers.dev/</pre>             
   iar denumirea sugerata/recomandata ar fi **"Hello World - worker"**(sau cum *doriti* voi!)<br/>
                 
     **--OBS--**: 
