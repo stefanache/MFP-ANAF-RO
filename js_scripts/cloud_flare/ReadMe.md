@@ -268,7 +268,7 @@ de pilda, daca aveti in directorul ***D:\\xampp\\htdocs\\***, un **site** ***fGe
           si apoi, fara sa inchidem serverul local, deschidem in **browser**-ul local de pe desktop-PC/laptop,
           adresa-URL/link-ul:
              
-                 [http://localhost:8787/](https://hello.ion-stefanache.workers.dev/)<br/>
+                 http://localhost:8787/
             
           unde vom revedea textul mesajului:
          
