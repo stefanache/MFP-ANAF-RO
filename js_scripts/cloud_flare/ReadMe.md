@@ -304,7 +304,8 @@ iar **denumirea** sugerata/recomandata ar fi ***"Hello World - worker"***(sau cu
        - implementări nelimitate de previzualizare și
        - capacitate full-stack prin integrarea Cloudflare Workers
 
-   - - Cozile([**queues**](https://developers.cloudflare.com/queues/)) de la Cloudflare, pot constitui un instrument foarte util pentru voi, atunci cand veti dori sa trimiteți și sa primiți(*bidirectional*) mesaje cu livrare garantată și fără taxe pentru lățimea de bandă de ieșire;<br/>
+   - - Cozile([**queues**](https://developers.cloudflare.com/queues/)) de la Cloudflare, pot constitui un instrument foarte util pentru voi, atunci cand veti dori sa trimiteți și sa primiți<br/>
+   (*deci, bidirectional*) mesaje(cu livrare garantată pentru lățimea de bandă de ieșire și fără taxe)<br/>
      Veti avea la dispozitie o gratuitate de [***1 milion de operațiuni*** pe ***lună***](https://developers.cloudflare.com/queues/platform/pricing/)(*generozitate nu gluma*!)<br/>
      Pentru a opera [trimiterea/transmiterea de mesaj/mesesaje](https://developers.cloudflare.com/queues/examples/send-messages-from-dash/)(desigurin coada de mesaje), direct(fara programare) din tabloul vostru de control / [***dashboard***](https://dash.cloudflare.com/2d482e04c26cae6ff3ada060d87c965d)-ul vostru, navigand pe calea **Workers & Pages** -> **Queues**;<br/>
      Daca doriti sa implementati cozi de mesaje o puteti face si din **API**(ex. [***REST*** - **API**](https://developers.cloudflare.com/api/));<br/>
