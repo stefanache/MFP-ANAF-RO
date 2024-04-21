@@ -298,7 +298,7 @@ iar **denumirea** sugerata/recomandata ar fi ***"Hello World - worker"***(sau cu
 
    - - Daca doriti sa creați noi [*baze de date* **SQL**](https://developers.cloudflare.com/d1/)(serverless / fără server), pentru a interoga din proiectele dvs. [***CF - Workers***](https://developers.cloudflare.com/workers/) și [***CF - Pages***](https://developers.cloudflare.com/pages/), puteti apela la [*CF* - **D1**](https://developers.cloudflare.com/d1/).
    - - Cand veti dori sa dezvoltați și implementați aplicațiile dvs. web în rețeaua globală rapidă și sigură a Cloudflare,<br/> veti putea apela la [***CF - Pages***](https://developers.cloudflare.com/pages/);<br/>
-       Veti dispune/avea parte, gratuit,  de urmatoarele facilitati:  
+       In acest caz, veti dispune/avea parte, gratuit,  de urmatoarele facilitati:  
        - Cinci sute de versiuni lunare, 100 de domenii personalizate,
        - SSL integrat, locuri accesibile nelimitate,
        - implementări nelimitate de previzualizare și
