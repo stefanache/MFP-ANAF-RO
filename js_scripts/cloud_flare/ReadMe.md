@@ -265,7 +265,7 @@ de pilda, daca aveti in directorul ***D:\\xampp\\htdocs\\***, un **site** ***fGe
             
                 <pre> C:\USERS\{User}\hello> npm run dev</pre>
             
-          si apoi, fara sa inchidem serverul local, deschidem in **browser**-ul local de pe desktop-PC/laptop,
+          si apoi, fara sa inchidem serverul local, deschidem in [**browser**](https://hello.ion-stefanache.workers.dev)-ul dvs. local, de pe desktop-PC/laptop,
           adresa-URL/link-ul:
              
                  http://localhost:8787/
