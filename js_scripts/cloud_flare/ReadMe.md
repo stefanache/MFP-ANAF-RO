@@ -107,6 +107,7 @@ de pilda, daca aveti in directorul <b><i>D:\xampp\\htdocs\</i></b>, un <b>site</
      
      [<h3>***Nota explicativa: lucrator/worker Hello-World***<sup>(pt cazul meu de utilizare: **W10Pro)**</sup>](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/do-more-with-tunnels/trycloudflare/)</h3>
 <details>
+    <br/><br/>
     -- 1.) dupa instalarea platformei <b>NodeJS</b>, urmeaza <a href="https://developers.cloudflare.com/workers/wrangler/install-and-update/#install-wrangler">instalarea</a> / <a href="https://developers.cloudflare.com/workers/wrangler/install-and-update/#update-wrangler">actualizarea</a>  <a href="https://developers.cloudflare.com/workers/wrangler/"><b>Wrangler</b></a>, care  se face/proceseaza prin comanda-CLI(din shell/<b><i>cmd.exe</i></b>), de forma urmatoare:<br/>
         - instalarea <b>Wrangler</b>:
        <pre> C:\USERS\{UserName}> npm install wrangler --save-dev</pre>
