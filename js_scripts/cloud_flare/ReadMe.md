@@ -101,7 +101,7 @@ de pilda, daca aveti in directorul <b><i>D:\xampp\\htdocs\</i></b>, un <b>site</
        Tunelarea poate conlucra foarte bine impreuna/in tandem cu <a href="https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/private-net/cloudflared/">rutarea</a> <a href="https://simplyexplained.com/blog/securely-access-home-network-with-Cloudflare-Tunnel-and-WARP/">WARP</a> a traficului catre reteaua noastra privata/de acasa.<br/>
        Mai multe funcții (tunel TCP, tunelare <a href="https://blog.cloudflare.com/getting-cloudflare-tunnels-to-connect-to-the-cloudflare-network-with-quic">QUIC</a>, <a href="https://developers.cloudflare.com/reference-architecture/architectures/load-balancing/">echilibrare/balansare a încărcăturii</a>, <a href="https://simplyexplained.com/blog/securely-access-home-network-with-Cloudflare-Tunnel-and-WARP/">VPN</a>) în Planul <a href="https://www.cloudflare.com/products/zero-trust/">Zero Trust Free</a>(toleranta <a href="https://www.cloudflare.com/zero-trust/">zero</a> la capitolul incredere = retea unificata securizata = **SES** & **SASE**).
 
-    <hr/>
+<hr/>
 </details>
 
    - - Un alt exemplu este pentru [**worker**](https://developers.cloudflare.com/workers/) si un altul ar putea fi pentru [**worker kV**](https://developers.cloudflare.com/kv);<br/>
@@ -109,7 +109,7 @@ de pilda, daca aveti in directorul <b><i>D:\xampp\\htdocs\</i></b>, un <b>site</
      
      [<h3>***Nota explicativa: lucrator/worker Hello-World***<sup>(pt cazul meu de utilizare: **W10Pro)**</sup>](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/do-more-with-tunnels/trycloudflare/)</h3>
 <details>
-    <br/>
+<hr/>
     -- 1.) dupa instalarea platformei <b>NodeJS</b>, urmeaza <a href="https://developers.cloudflare.com/workers/wrangler/install-and-update/#install-wrangler">instalarea</a> / <a href="https://developers.cloudflare.com/workers/wrangler/install-and-update/#update-wrangler">actualizarea</a>  <a href="https://developers.cloudflare.com/workers/wrangler/"><b>Wrangler</b></a>, care  se face/proceseaza prin comanda-CLI(din shell/<b><i>cmd.exe</i></b>), de forma urmatoare:<br/>
         - instalarea <b>Wrangler</b>:
        <pre> C:\USERS\{UserName}> npm install wrangler --save-dev</pre>
@@ -285,7 +285,7 @@ de pilda, daca aveti in directorul <b><i>D:\xampp\\htdocs\</i></b>, un <b>site</
 
           daca veti da **view page source**(cu click dreapta din meniul contextual al browser-ului),
           veti vedea acelasi text(Hello World!), fara nici-un cod HTML sau javascript! 
-
+<hr/>
 </details>
 
    - - Pentru exemplul **worker KV** puteti consulta acest [tutorial publicat in ***medium***](https://medium.com/velotio-perspectives/an-introduction-to-cloudflare-workers-and-cloudflare-kv-store-ad8c8abd5677)
