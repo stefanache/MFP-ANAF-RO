@@ -194,7 +194,7 @@ de pilda, daca aveti in directorul ***D:\\xampp\\htdocs\\***, un **site** ***fGe
                                return new Response('Hello World!');
                        },
                };
-        - iar in directorul **test** in fisierul **index.spec.ts**
+        - iar in directorul **test**,
 
                C:\Users\Nelu\hello\test>dir
                          
@@ -210,8 +210,10 @@ de pilda, daca aveti in directorul ***D:\\xampp\\htdocs\\***, un **site** ***fGe
                           2 File(s)          1,365 bytes
                           2 Dir(s)  19,309,133,824 bytes free
                
-          urmatorul continut: C:\Users\Nelu\hello\test>type index.spec.ts
-
+          in fisierul **index.spec.ts**, vom gasi urmatorul continut:
+               
+               C:\Users\Nelu\hello\test>type index.spec.ts
+               
                // test/index.spec.ts
                import { env, createExecutionContext, waitOnExecutionContext, SELF } from 'cloudflare:test';
                import { describe, it, expect } from 'vitest';
@@ -238,7 +240,7 @@ de pilda, daca aveti in directorul ***D:\\xampp\\htdocs\\***, un **site** ***fGe
                        });
                });
                       
-          iar fisierul **tsconfig.json** din directorul **test** are urmatorul continut:
+          iar fisierul **tsconfig.json**(din acelasi director **test*)* vom gasi urmatorul continut:
                
                C:\Users\Nelu\hello\test>type ts.config.json
                
