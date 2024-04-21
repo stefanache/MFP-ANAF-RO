@@ -171,8 +171,8 @@ iar **denumirea** sugerata/recomandata ar fi ***"Hello World - worker"***(sau cu
 
 <details>
 <br/><b>Nota:</b>
-<hr/><br/>
-- trebuie sa va spun ca pe local in directorul **src** veti gasi in fisierul **index.ts** :
+<hr/>
+- trebuie sa va spun ca pe local in directorul <b>src</b> veti gasi in fisierul <b>index.ts</b> :
 
        Directory of C:\Users\{user}\hello\src
               
