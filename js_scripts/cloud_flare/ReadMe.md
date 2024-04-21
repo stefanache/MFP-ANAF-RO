@@ -153,7 +153,7 @@ de pilda, daca aveti in directorul ***D:\\xampp\\htdocs\\***, un **site** ***fGe
                };
                //# sourceMappingURL=index.js.map
 
-    -- **Nota:**
+    -- **Nota--:**
 
    - trebuie sa va spun ca pe local in directorul **src** veti gasi in fisierul **index.ts** :
   
@@ -253,6 +253,7 @@ de pilda, daca aveti in directorul ***D:\\xampp\\htdocs\\***, un **site** ***fGe
                 Hello World!
 
      daca veti da **view page source**(cu click dreapta din meniul contextual al browser-ului), veti vedea acelasi text(**Hello World!**),  fara nici-un cod HTML sau javascript! 
+
 
    - pentru exemplul **worker KV** puteti consulta acest [tutorial publicat in ***medium***](https://medium.com/velotio-perspectives/an-introduction-to-cloudflare-workers-and-cloudflare-kv-store-ad8c8abd5677)
    - aici gasiti o comparatie [**CF-R2** vs. **AWS-S3**](https://blog.stackademic.com/amazon-s3-vs-cloudflare-r2-a-2023-comparison-1ed688f0a513) pentru ***stocarea de obiecte***;
