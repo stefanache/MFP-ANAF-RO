@@ -161,7 +161,7 @@ de pilda, daca aveti in directorul ***D:\\xampp\\htdocs\\***, un **site** ***fGe
 
     **Nota**:
 
-        - trebuie sa va spun ca pe local in directorul **src** veti gasi in fisierul **index.ts** :
+  - trebuie sa va spun ca pe local in directorul **src** veti gasi in fisierul **index.ts** :
   
                Directory of C:\Users\{user}\hello\src
                       
@@ -191,7 +191,7 @@ de pilda, daca aveti in directorul ***D:\\xampp\\htdocs\\***, un **site** ***fGe
                                return new Response('Hello World!');
                        },
                };
-        - iar in directorul **test** in fisierul **index.spec.ts**
+    - iar in directorul **test** in fisierul **index.spec.ts**
 
            C:\Users\Nelu\hello\test>dir
           
