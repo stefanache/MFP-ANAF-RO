@@ -102,7 +102,7 @@ de pilda, daca aveti in directorul ***D:\\xampp\\htdocs\\***, un **site** ***fGe
      sa incepem cu [worker](https://developers.cloudflare.com/learning-paths/workers/)-ul ["**Hello-World**"](https://developers.cloudflare.com/workers/get-started/) / [Getting started](https://developers.cloudflare.com/workers/get-started/guide/) / QuickStart](https://developers.cloudflare.com/workers/get-started/quickstarts/):
      
      ##[<h3>***Nota explicativa: worker***<sup>(pt cazul meu de utilizare: **W10Pro)**</sup>](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/do-more-with-tunnels/trycloudflare/)</h3>
-<details>
+     <details>
     -- 1.) dupa instalarea platformei ***NodeJS***, urmeaza [instalarea](https://developers.cloudflare.com/workers/wrangler/install-and-update/#install-wrangler) / [actualizarea](https://developers.cloudflare.com/workers/wrangler/install-and-update/#update-wrangler)  [**Wrangler**](https://developers.cloudflare.com/workers/wrangler/), care  se face/proceseaza prin comanda-CLI(din shell/***cmd.exe***), de forma urmatoare:<br/>
         - instalarea **Wrangler**:
        <pre> C:\USERS\{UserName}> npm install wrangler --save-dev</pre>
@@ -279,7 +279,7 @@ de pilda, daca aveti in directorul ***D:\\xampp\\htdocs\\***, un **site** ***fGe
           daca veti da **view page source**(cu click dreapta din meniul contextual al browser-ului),
           veti vedea acelasi text(Hello World!), fara nici-un cod HTML sau javascript! 
 
-</details>
+     </details>
 
    - Pentru exemplul **worker KV** puteti consulta acest [tutorial publicat in ***medium***](https://medium.com/velotio-perspectives/an-introduction-to-cloudflare-workers-and-cloudflare-kv-store-ad8c8abd5677)
    - Aici gasiti o comparatie [**CF-R2** vs. **AWS-S3**](https://blog.stackademic.com/amazon-s3-vs-cloudflare-r2-a-2023-comparison-1ed688f0a513) pentru ***stocarea de obiecte***;
