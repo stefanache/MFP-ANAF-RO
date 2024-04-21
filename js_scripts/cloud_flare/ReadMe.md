@@ -139,7 +139,7 @@ de pilda, daca aveti in directorul ***D:\\xampp\\htdocs\\***, un **site** ***fGe
   
   daca veti da **view page source**(cu click dreapta din meniul contextual al browser-ului), veti vedea acelasi text(**Hello World!**),  fara nici-un cod HTML sau javascript!
   
-   - **--OBS--**: 
+    **--OBS--**: 
     - pentru a vizualiza **codul generat** al ***sursei typescript*** care genereaza continutul HTML al proiectului: veti vedea ca in partea dreapta-sus, pe lina sus in dreptul meniului-paginii, aveti un link [**Edit sourc**e](https://dash.cloudflare.com/2d482e04c26cae6ff3ada060d87c965d/workers/services/edit/hello/production) - click-ati si veti (re)vedea/regasi codul simplu generat al [lucratorului](https://hello.ion-stefanache.workers.dev/):
            
                // src/index.ts
@@ -153,7 +153,7 @@ de pilda, daca aveti in directorul ***D:\\xampp\\htdocs\\***, un **site** ***fGe
                };
                //# sourceMappingURL=index.js.map
 
-   - **Nota**:
+    **Nota**:
 
         - trebuie sa va spun ca pe local in directorul **src** veti gasi in fisierul **index.ts** :
   
@@ -227,7 +227,8 @@ de pilda, daca aveti in directorul ***D:\\xampp\\htdocs\\***, un **site** ***fGe
                                expect(await response.text()).toMatchInlineSnapshot(`"Hello World!"`);
                        });
                });
-          iar fisierul **tsconfig.json** din directorul **test** are urmatorul continut: C:\Users\Nelu\hello\test>type ts.config.json
+          iar fisierul **tsconfig.json** din directorul **test** are urmatorul continut:
+               C:\Users\Nelu\hello\test>type ts.config.json
   
                The system cannot find the file specified.
 
@@ -247,12 +248,14 @@ de pilda, daca aveti in directorul ***D:\\xampp\\htdocs\\***, un **site** ***fGe
 
         - exista posibilitatea sa **vedeti/testa si local** TEXT-ul generat, al proiectului Hello-World,  daca dati local comanda-CI(shell/cmd.exe), de rulare:
                 <pre> C:\USERS\{UserName}\hello> npm run dev</pre>
-          si apoi, fara sa inchidem serverul local, deschidem in **browser**-ul local de pe desktop-PC/laptop, adresa-URL/link-ul: [http://localhost:8787/](https://hello.ion-stefanache.workers.dev/)<br/>
+          si apoi, fara sa inchidem serverul local, deschidem in **browser**-ul local de pe desktop-PC/laptop, adresa-URL/link-ul: 
+                 [http://localhost:8787/](https://hello.ion-stefanache.workers.dev/)<br/>
           unde vom revedea textul mesajului:
          
                 Hello World!
 
-          daca veti da **view page source**(cu click dreapta din meniul contextual al browser-ului), veti vedea acelasi text(**Hello World!**),  fara nici-un cod HTML sau javascript! 
+          daca veti da **view page source**(cu click dreapta din meniul contextual al browser-ului), veti vedea acelasi text(**Hello World!**),
+          fara nici-un cod HTML sau javascript! 
 
 
    - pentru exemplul **worker KV** puteti consulta acest [tutorial publicat in ***medium***](https://medium.com/velotio-perspectives/an-introduction-to-cloudflare-workers-and-cloudflare-kv-store-ad8c8abd5677)
