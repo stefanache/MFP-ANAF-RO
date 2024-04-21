@@ -85,6 +85,7 @@ Poate fi util sa consultati si repository oficial al [**CF**](https://github.com
    <sup>( dupa ce in prealabil ati urmat instructiunile de instalare a pachetului ***NodeJS*** incluzand ***npm*** si ***npx*** si apoi a ***daemon***-ului pentru versiunea sistemului de operare pe care-l detineti, oferit de catre **Cloudflared** si denumit "***cloudflared.exe***",   )</sup>; <br/>
      [<h3>***Nota explicativa tunelare:***<sup>(pt cazul meu de utilizare: Windows 10 Pro(**W10Pro**)</sup>](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/do-more-with-tunnels/trycloudflare/)</h3>
 <details>
+
     -- 1.) dupa instalarea platformei ***NodeJS***, urmeaza instalarea daemonului **Cloudflared**, care  se face/proceseaza prin comanda-CLI(din shell/***cmd.exe***), de forma urmatoare:<br/>
        <pre> C:\USERS\{UserName}> winget install --id Cloudflare.cloudflared</pre>
        utlizand instalatorii **npm.exe** sau ***npx.exe***,  componente a pachetului **NodeJS**;<br/>     
@@ -99,6 +100,7 @@ de pilda, daca aveti in directorul ***D:\\xampp\\htdocs\\***, un **site** ***fGe
        Pentru a vedea cum se proceseaza traficul respectiv, puteti accesa [referinta oficiala](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/) a tunelarii-CF.<br/>
        Tunelarea poate conlucra foarte bine impreuna/in tandem cu [rutarea](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/private-net/cloudflared/) [WARP](https://simplyexplained.com/blog/securely-access-home-network-with-Cloudflare-Tunnel-and-WARP/) a traficului catre reteaua noastra privata/de acasa.<br/>
        Mai multe funcții (tunel TCP, tunelare [QUIC](https://blog.cloudflare.com/getting-cloudflare-tunnels-to-connect-to-the-cloudflare-network-with-quic), [echilibrare/balansare a încărcăturii](https://developers.cloudflare.com/reference-architecture/architectures/load-balancing/), [VPN](https://simplyexplained.com/blog/securely-access-home-network-with-Cloudflare-Tunnel-and-WARP/)) în Planul [Zero Trust Free](https://www.cloudflare.com/products/zero-trust/)(toleranta [zero](https://www.cloudflare.com/zero-trust/) la capitolul incredere = retea unificata securizata = **SES** & **SASE**).
+       
 </details>
 
    - Un alt exemplu este pentru [**worker**](https://developers.cloudflare.com/workers/) si un altul ar putea fi pentru [**worker kV**](https://developers.cloudflare.com/kv);<br/>
@@ -106,6 +108,7 @@ de pilda, daca aveti in directorul ***D:\\xampp\\htdocs\\***, un **site** ***fGe
      
      [<h3>***Nota explicativa: worker***<sup>(pt cazul meu de utilizare: **W10Pro)**</sup>](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/do-more-with-tunnels/trycloudflare/)</h3>
 <details>
+
     -- 1.) dupa instalarea platformei ***NodeJS***, urmeaza [instalarea](https://developers.cloudflare.com/workers/wrangler/install-and-update/#install-wrangler) / [actualizarea](https://developers.cloudflare.com/workers/wrangler/install-and-update/#update-wrangler)  [**Wrangler**](https://developers.cloudflare.com/workers/wrangler/), care  se face/proceseaza prin comanda-CLI(din shell/***cmd.exe***), de forma urmatoare:<br/>
         - instalarea **Wrangler**:
        <pre> C:\USERS\{UserName}> npm install wrangler --save-dev</pre>
