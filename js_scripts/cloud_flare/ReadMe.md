@@ -168,9 +168,8 @@ iar **denumirea** sugerata/recomandata ar fi ***"Hello World - worker"***(sau cu
            };
            //# sourceMappingURL=index.js.map
 
-- **Nota**:
-<details>
-<hr/><br/>
+- **Nota**: <details>
+<br/><hr/><br/>
 - trebuie sa va spun ca pe local in directorul **src** veti gasi in fisierul **index.ts** :
 
        Directory of C:\Users\{user}\hello\src
