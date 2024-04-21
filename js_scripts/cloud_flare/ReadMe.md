@@ -173,7 +173,7 @@ de pilda, daca aveti in directorul ***D:\\xampp\\htdocs\\***, un **site** ***fGe
 
           urmatorul continut:
                
-               C:\Users\{user}\hello\src>type index.ts
+               C:\Users\{User}\hello\src>type index.ts
 
                C:\Users\{user}\hello\src>type index.ts
                /**
@@ -196,12 +196,12 @@ de pilda, daca aveti in directorul ***D:\\xampp\\htdocs\\***, un **site** ***fGe
                };
         - iar in directorul **test**,
 
-               C:\Users\Nelu\hello\test>dir
+               C:\Users\{User}\hello\test>dir
                          
                Volume in drive C has no label.
                Volume Serial Number is 32EF-A4A7
     
-               Directory of C:\Users\Nelu\hello\test
+               Directory of C:\Users{User}\hello\test
     
                19.04.2024  20:08    <DIR>          .
                19.04.2024  20:08    <DIR>          ..
@@ -212,7 +212,7 @@ de pilda, daca aveti in directorul ***D:\\xampp\\htdocs\\***, un **site** ***fGe
                
           in fisierul **index.spec.ts**, vom gasi urmatorul continut:
                
-               C:\Users\Nelu\hello\test>type index.spec.ts
+               C:\Users\{User}\hello\test>type index.spec.ts
                
                // test/index.spec.ts
                import { env, createExecutionContext, waitOnExecutionContext, SELF } from 'cloudflare:test';
@@ -242,11 +242,11 @@ de pilda, daca aveti in directorul ***D:\\xampp\\htdocs\\***, un **site** ***fGe
                       
           iar in fisierul **tsconfig.json**(din acelasi director **test**), vom gasi urmatorul continut:
                
-               C:\Users\Nelu\hello\test>type ts.config.json
+               C:\Users\{User}\hello\test>type ts.config.json
                
                The system cannot find the file specified.
 
-               C:\Users\Nelu\hello\test>type tsconfig.json
+               C:\Users\{User}\hello\test>type tsconfig.json
                {
                  "extends": "../tsconfig.json",
                  "compilerOptions": {
@@ -263,7 +263,7 @@ de pilda, daca aveti in directorul ***D:\\xampp\\htdocs\\***, un **site** ***fGe
         - exista posibilitatea sa **vedeti/testa si local** TEXT-ul generat, al proiectului Hello-World,
           daca dati local comanda-CI(shell/cmd.exe), de rulare:
             
-                <pre> C:\USERS\{UserName}\hello> npm run dev</pre>
+                <pre> C:\USERS\{User}\hello> npm run dev</pre>
             
           si apoi, fara sa inchidem serverul local, deschidem in **browser**-ul local de pe desktop-PC/laptop,
           adresa-URL/link-ul:
