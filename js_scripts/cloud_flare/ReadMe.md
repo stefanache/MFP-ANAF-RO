@@ -105,7 +105,7 @@ de pilda, daca aveti in directorul <b><i>D:\xampp\\htdocs\</i></b>, un <b>site</
    - - Un alt exemplu este pentru [**worker**](https://developers.cloudflare.com/workers/) si un altul ar putea fi pentru [**worker kV**](https://developers.cloudflare.com/kv);<br/>
      sa incepem cu [worker](https://developers.cloudflare.com/learning-paths/workers/)-ul ["**Hello-World**"](https://developers.cloudflare.com/workers/get-started/) / [Getting started](https://developers.cloudflare.com/workers/get-started/guide/) / [QuickStart](https://developers.cloudflare.com/workers/get-started/quickstarts/):
      
-     [<h3>***Nota explicativa: worker***<sup>(pt cazul meu de utilizare: **W10Pro)**</sup>](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/do-more-with-tunnels/trycloudflare/)</h3>
+     [<h3>***Nota explicativa: lucrator/worker Hello-World***<sup>(pt cazul meu de utilizare: **W10Pro)**</sup>](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/do-more-with-tunnels/trycloudflare/)</h3>
 <details>
     -- 1.) dupa instalarea platformei ***NodeJS***, urmeaza [instalarea](https://developers.cloudflare.com/workers/wrangler/install-and-update/#install-wrangler) / [actualizarea](https://developers.cloudflare.com/workers/wrangler/install-and-update/#update-wrangler)  [**Wrangler**](https://developers.cloudflare.com/workers/wrangler/), care  se face/proceseaza prin comanda-CLI(din shell/***cmd.exe***), de forma urmatoare:<br/>
         - instalarea **Wrangler**:
