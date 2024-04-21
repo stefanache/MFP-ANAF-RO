@@ -85,7 +85,7 @@ Poate fi util sa consultati si repository oficial al [**CF**](https://github.com
    <sup>( dupa ce in prealabil ati urmat instructiunile de instalare a pachetului ***NodeJS*** incluzand ***npm*** si ***npx*** si apoi a ***daemon***-ului pentru versiunea sistemului de operare pe care-l detineti, oferit de catre **Cloudflared** si denumit "***cloudflared.exe***",   )</sup>; <br/>
      [<h3>***Nota explicativa: pasi tunelare:***<sup>(pt cazul meu de utilizare: Windows 10 Pro(**W10Pro**)</sup>](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/do-more-with-tunnels/trycloudflare/)</h3>
 <details>
-    <br/>
+    <hr/>
     -- 1.) dupa instalarea platformei <b>NodeJS</b>, urmeaza instalarea daemonului <b>Cloudflared</b>, care  se face/proceseaza prin comanda-CLI(din shell/<b>cmd.exe</b>), de forma urmatoare:<br/>
        <pre> C:\USERS\{UserName}> winget install --id Cloudflare.cloudflared</pre>
        utlizand instalatorii <b>npm.exe</b> sau <b>npx.exe</b>,  componente a pachetului <b>NodeJS</b>;<br/><br/>     
@@ -100,7 +100,8 @@ de pilda, daca aveti in directorul <b><i>D:\xampp\\htdocs\</i></b>, un <b>site</
        Pentru a vedea cum se proceseaza traficul respectiv, puteti accesa <a href="https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/">referinta oficiala</a> a tunelarii-CF.<br/>
        Tunelarea poate conlucra foarte bine impreuna/in tandem cu <a href="https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/private-net/cloudflared/">rutarea</a> <a href="https://simplyexplained.com/blog/securely-access-home-network-with-Cloudflare-Tunnel-and-WARP/">WARP</a> a traficului catre reteaua noastra privata/de acasa.<br/>
        Mai multe funcții (tunel TCP, tunelare <a href="https://blog.cloudflare.com/getting-cloudflare-tunnels-to-connect-to-the-cloudflare-network-with-quic">QUIC</a>, <a href="https://developers.cloudflare.com/reference-architecture/architectures/load-balancing/">echilibrare/balansare a încărcăturii</a>, <a href="https://simplyexplained.com/blog/securely-access-home-network-with-Cloudflare-Tunnel-and-WARP/">VPN</a>) în Planul <a href="https://www.cloudflare.com/products/zero-trust/">Zero Trust Free</a>(toleranta <a href="https://www.cloudflare.com/zero-trust/">zero</a> la capitolul incredere = retea unificata securizata = **SES** & **SASE**).
-       
+
+    <hr/>
 </details>
 
    - - Un alt exemplu este pentru [**worker**](https://developers.cloudflare.com/workers/) si un altul ar putea fi pentru [**worker kV**](https://developers.cloudflare.com/kv);<br/>
