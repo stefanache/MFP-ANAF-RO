@@ -170,7 +170,7 @@ iar **denumirea** sugerata/recomandata ar fi ***"Hello World - worker"***(sau cu
 
 
 <details>
-<center><h7>Nota</h7></center>
+<b>Nota:</b>
 <br/><hr/><br/>
 - trebuie sa va spun ca pe local in directorul **src** veti gasi in fisierul **index.ts** :
 
