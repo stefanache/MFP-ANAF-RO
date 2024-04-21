@@ -161,7 +161,7 @@ de pilda, daca aveti in directorul ***D:\\xampp\\htdocs\\***, un **site** ***fGe
 
     **Nota**:
 
-    - trebuie sa va spun ca pe local in directorul **src** veti gasi in fisierul **index.ts** :
+        - trebuie sa va spun ca pe local in directorul **src** veti gasi in fisierul **index.ts** :
   
                Directory of C:\Users\{user}\hello\src
                       
@@ -191,21 +191,21 @@ de pilda, daca aveti in directorul ***D:\\xampp\\htdocs\\***, un **site** ***fGe
                                return new Response('Hello World!');
                        },
                };
-    - iar in directorul **test** in fisierul **index.spec.ts**
+        - iar in directorul **test** in fisierul **index.spec.ts**
 
-       C:\Users\Nelu\hello\test>dir
-      
-        Volume in drive C has no label.
-        Volume Serial Number is 32EF-A4A7
-
-        Directory of C:\Users\Nelu\hello\test
-
-       19.04.2024  20:08    <DIR>          .
-       19.04.2024  20:08    <DIR>          ..
-       19.04.2024  15:47             1,128 index.spec.ts
-       19.04.2024  15:47               237 tsconfig.json
-                      2 File(s)          1,365 bytes
-                      2 Dir(s)  19,309,133,824 bytes free
+           C:\Users\Nelu\hello\test>dir
+          
+            Volume in drive C has no label.
+            Volume Serial Number is 32EF-A4A7
+    
+            Directory of C:\Users\Nelu\hello\test
+    
+           19.04.2024  20:08    <DIR>          .
+           19.04.2024  20:08    <DIR>          ..
+           19.04.2024  15:47             1,128 index.spec.ts
+           19.04.2024  15:47               237 tsconfig.json
+                          2 File(s)          1,365 bytes
+                          2 Dir(s)  19,309,133,824 bytes free
                
           urmatorul continut: C:\Users\Nelu\hello\test>type index.spec.ts
 
