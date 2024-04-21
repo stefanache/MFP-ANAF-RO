@@ -138,7 +138,7 @@ de pilda, daca aveti in directorul ***D:\\xampp\\htdocs\\***, un **site** ***fGe
                 Hello World!
   
   daca veti da **view page source**(cu click dreapta din meniul contextual al browser-ului), veti vedea acelasi text(**Hello World!**),  fara nici-un cod HTML sau javascript!<br/>
-  Odata afisat in browser puteti captura acel link(daca nu ati preluat deja link-ul, dupa publicarea cu ajutorul *wrangler, din mesajul aferent) si poate fi pastrat pentru o<br/>
+  Odata afisat in browser puteti captura acel link(daca nu ati preluat deja link-ul, dupa publicarea cu ajutorul *wrangler, din mesajul aferent) si poate fi pastrat pentru o 
   vizualizare/utilizare ulterioara, daca-l salvati ca un shurtcut pe desktop; Link-ul ar putea arata ceva de forma:</br/>
                
                  https://hello.ion-stefanache.workers.dev](https://hello.ion-stefanache.workers.dev/)<br/>
