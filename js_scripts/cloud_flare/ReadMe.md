@@ -228,7 +228,8 @@ de pilda, daca aveti in directorul ***D:\\xampp\\htdocs\\***, un **site** ***fGe
                        });
                });
                       
-          iar fisierul **tsconfig.json** din directorul **test** are urmatorul continut: C:\Users\Nelu\hello\test>type ts.config.json
+          iar fisierul **tsconfig.json** din directorul **test** are urmatorul continut:
+      C:\Users\Nelu\hello\test>type ts.config.json
   
                The system cannot find the file specified.
 
