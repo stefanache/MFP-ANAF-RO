@@ -168,8 +168,9 @@ iar **denumirea** sugerata/recomandata ar fi ***"Hello World - worker"***(sau cu
            };
            //# sourceMappingURL=index.js.map
 
-- **Nota**:
-
+- ##**Nota**:
+<details>
+<hr/>
     - trebuie sa va spun ca pe local in directorul **src** veti gasi in fisierul **index.ts** :
 
            Directory of C:\Users\{user}\hello\src
@@ -284,7 +285,9 @@ iar **denumirea** sugerata/recomandata ar fi ***"Hello World - worker"***(sau cu
             Hello World!
 
       daca veti da **view page source**(cu click dreapta din meniul contextual al browser-ului),
-      veti vedea acelasi text(Hello World!), fara nici-un cod HTML sau javascript! 
+      veti vedea acelasi text(Hello World!), fara nici-un cod HTML sau javascript!
+<hr/>
+</details>
 <hr/>
 </details>
 
