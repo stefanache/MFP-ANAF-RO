@@ -85,16 +85,16 @@ Poate fi util sa consultati si repository oficial al [**CF**](https://github.com
    <sup>( dupa ce in prealabil ati urmat instructiunile de instalare a pachetului ***NodeJS*** incluzand ***npm*** si ***npx*** si apoi a ***daemon***-ului pentru versiunea sistemului de operare pe care-l detineti, oferit de catre **Cloudflared** si denumit "***cloudflared.exe***",   )</sup>; <br/>
      [<h3>***Nota explicativa tunelare:***<sup>(pt cazul meu de utilizare: Windows 10 Pro(**W10Pro**)</sup>](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/do-more-with-tunnels/trycloudflare/)</h3>
 <details>
-    -- 1.) dupa instalarea platformei <b>NodeJS</b>, urmeaza instalarea daemonului **Cloudflared**, care  se face/proceseaza prin comanda-CLI(din shell/***cmd.exe***), de forma urmatoare:<br/>
+    -- 1.) dupa instalarea platformei <b>NodeJS</b>, urmeaza instalarea daemonului <b>Cloudflared</b>b>, care  se face/proceseaza prin comanda-CLI(din shell/<b>cmd.exe</b>b>), de forma urmatoare:<br/>
        <pre> C:\USERS\{UserName}> winget install --id Cloudflare.cloudflared</pre>
-       utlizand instalatorii **npm.exe** sau ***npx.exe***,  componente a pachetului **NodeJS**;<br/>     
-    -- 2.) dupa instalarea daemon-ului **cloudflared<**, urmeaza [**tunelarea**](https://www.npmjs.com/package/cloudflared-tunnel) propriu-zisa, utilizand/procesand cda-CLI de mai sus: <br/>
+       utlizand instalatorii <b>npm.exe</b> sau <b>npx.exe</b>b>,  componente a pachetului <b>NodeJS</b>;<br/>     
+    -- 2.) dupa instalarea daemon-ului <b>cloudflared</b>, urmeaza [<b>tunelarea</b>](https://www.npmjs.com/package/cloudflared-tunnel) propriu-zisa, utilizand/procesand cda-CLI de mai sus: <br/>
        <pre> C:\USERS\{UserName}> cloudflared tunnel --url http://localhost:80</pre>
-       veti obtine un **link**, de forma urmatoare:<br/>
+       veti obtine un <b>link</b>, de forma urmatoare:<br/>
        <pre> https://autumn-broadband-mounted-track.trycloudflare.com</pre>
-        **link** pe care-l puteti utiliza, mai departe, ...<br/><br/>
-    -- 3.)...pentru a accesa **site**-ul/urile pe care il/le aveti in ***htdocs***;<br/>
-de pilda, daca aveti in directorul ***D:\\xampp\\htdocs\\***, un **site** ***fGetCSV***(care detine fiserul **index.php**), dupa pornirea din ***XAMPP-Control-Panel*** a **webserver**-ului nostru **Apache**(care asculta pe portul ***http*** **80** si pe portul ***https** **443**), ati putea, in cele din urma, de pe orice dispozitiv(mobil,PC-desktop,tableta,un mic computer de buzunar, cum ar fi Raspberry Pi 4 [**RPi4**](https://dev.to/omarcloud20/a-free-cloudflare-tunnel-running-on-a-raspberry-pi-1jid),...), conectat la/in [**internet**](https://noise.getoto.net/tag/connector/), deschide un browser(sa spunem **Chrome**) pentru a scrie si apoi acccesa **adresa-URL** urmatoare:<br/>
+        <b>link</b> pe care-l puteti utiliza, mai departe, ...<br/><br/>
+    -- 3.)...pentru a accesa <b>site</b>-ul/urile pe care il/le aveti in <b><i>htdocs</i></b>;<br/>
+de pilda, daca aveti in directorul <b><i>D:\\xampp\\htdocs\\</i></b>, un <b>site</b> <b><i>fGetCSV</i></b>(care detine fiserul **index.php**), dupa pornirea din <b><i>XAMPP-Control-Pane</i></b> a <b><i>webserver</i></b>-ului nostru <b><i>Apache</i></b>(care asculta pe portul <b><i>http</i></b> <b>80</b> si pe portul <b><i>https</i></b> <b>443</b>), ati putea, in cele din urma, de pe orice dispozitiv(mobil,PC-desktop,tableta,un mic computer de buzunar, cum ar fi Raspberry Pi 4 [**RPi4**](https://dev.to/omarcloud20/a-free-cloudflare-tunnel-running-on-a-raspberry-pi-1jid),...), conectat la/in [**internet**](https://noise.getoto.net/tag/connector/), deschide un browser(sa spunem **Chrome**) pentru a scrie si apoi acccesa **adresa-URL** urmatoare:<br/>
        <pre> https://autumn-broadband-mounted-track.trycloudflare.com\fGetCSV</pre>
        Pentru a vedea cum se proceseaza traficul respectiv, puteti accesa [referinta oficiala](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/) a tunelarii-CF.<br/>
        Tunelarea poate conlucra foarte bine impreuna/in tandem cu [rutarea](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/private-net/cloudflared/) [WARP](https://simplyexplained.com/blog/securely-access-home-network-with-Cloudflare-Tunnel-and-WARP/) a traficului catre reteaua noastra privata/de acasa.<br/>
