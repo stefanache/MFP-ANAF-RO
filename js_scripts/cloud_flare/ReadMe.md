@@ -240,7 +240,7 @@ de pilda, daca aveti in directorul ***D:\\xampp\\htdocs\\***, un **site** ***fGe
                        });
                });
                       
-          iar fisierul **tsconfig.json**(din acelasi director **test*)* vom gasi urmatorul continut:
+          iar in fisierul **tsconfig.json**(din acelasi director **test**), vom gasi urmatorul continut:
                
                C:\Users\Nelu\hello\test>type ts.config.json
                
