@@ -153,7 +153,7 @@ de pilda, daca aveti in directorul ***D:\\xampp\\htdocs\\***, un **site** ***fGe
                };
                //# sourceMappingURL=index.js.map
 
-<center>**Nota:**</center>center>
+<center>**Nota:**</center>
 
 - trebuie sa va spun ca pe local in directorul **src** veti gasi in fisierul **index.ts** :
   
