@@ -303,3 +303,5 @@ iar **denumirea** sugerata/recomandata ar fi ***"Hello World - worker"***(sau cu
        - SSL integrat, locuri accesibile nelimitate,
        - implementări nelimitate de previzualizare și
        - capacitate full-stack prin integrarea Cloudflare Workers
+
+   - - Cozile([**queues**](https://developers.cloudflare.com/queues/)) de la Cloudflare, pot fi foarte utile pentru voi, 
