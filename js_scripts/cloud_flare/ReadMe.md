@@ -155,7 +155,7 @@ de pilda, daca aveti in directorul ***D:\\xampp\\htdocs\\***, un **site** ***fGe
 
     -- **Nota:**
 
- - trebuie sa va spun ca pe local in directorul **src** veti gasi in fisierul **index.ts** :
+   - trebuie sa va spun ca pe local in directorul **src** veti gasi in fisierul **index.ts** :
   
                Directory of C:\Users\{user}\hello\src
                       
@@ -165,7 +165,7 @@ de pilda, daca aveti in directorul ***D:\\xampp\\htdocs\\***, un **site** ***fGe
                       1 File(s)            649 bytes
                       2 Dir(s)  19,306,614,784 bytes free
 
-  urmatorul continut: C:\Users\{user}\hello\src>type index.ts
+     urmatorul continut: C:\Users\{user}\hello\src>type index.ts
 
                /**
                * Welcome to Cloudflare Workers! This is your first worker.
@@ -185,7 +185,7 @@ de pilda, daca aveti in directorul ***D:\\xampp\\htdocs\\***, un **site** ***fGe
                                return new Response('Hello World!');
                        },
                };
-  - iar in directorul **test** in fisierul **index.spec.ts**
+   - iar in directorul **test** in fisierul **index.spec.ts**
 
        C:\Users\Nelu\hello\test>dir
         Volume in drive C has no label.
@@ -200,7 +200,7 @@ de pilda, daca aveti in directorul ***D:\\xampp\\htdocs\\***, un **site** ***fGe
                       2 File(s)          1,365 bytes
                       2 Dir(s)  19,309,133,824 bytes free
                
-   urmatorul continut: C:\Users\Nelu\hello\test>type index.spec.ts
+     urmatorul continut: C:\Users\Nelu\hello\test>type index.spec.ts
 
                // test/index.spec.ts
                import { env, createExecutionContext, waitOnExecutionContext, SELF } from 'cloudflare:test';
@@ -227,7 +227,7 @@ de pilda, daca aveti in directorul ***D:\\xampp\\htdocs\\***, un **site** ***fGe
                                expect(await response.text()).toMatchInlineSnapshot(`"Hello World!"`);
                        });
                });
-    iar fisierul **tsconfig.json** din directorul **test** are urmatorul continut: C:\Users\Nelu\hello\test>type ts.config.json
+     iar fisierul **tsconfig.json** din directorul **test** are urmatorul continut: C:\Users\Nelu\hello\test>type ts.config.json
   
                The system cannot find the file specified.
 
@@ -247,12 +247,12 @@ de pilda, daca aveti in directorul ***D:\\xampp\\htdocs\\***, un **site** ***fGe
 
    - exista posibilitatea sa **vedeti/testa si local** TEXT-ul generat, al proiectului Hello-World,  daca dati local comanda-CI(shell/cmd.exe), de rulare:
                 <pre> C:\USERS\{UserName}\hello> npm run dev</pre>
- si apoi, fara sa inchidem serverul local, deschidem in **browser**-ul local de pe desktop-PC/laptop, adresa-URL/link-ul: [http://localhost:8787/](https://hello.ion-stefanache.workers.dev/)<br/>
- unde vom revedea textul mesajului:
+     si apoi, fara sa inchidem serverul local, deschidem in **browser**-ul local de pe desktop-PC/laptop, adresa-URL/link-ul: [http://localhost:8787/](https://hello.ion-stefanache.workers.dev/)<br/>
+     unde vom revedea textul mesajului:
          
                 Hello World!
 
-  daca veti da **view page source**(cu click dreapta din meniul contextual al browser-ului), veti vedea acelasi text(**Hello World!**),  fara nici-un cod HTML sau javascript! 
+     daca veti da **view page source**(cu click dreapta din meniul contextual al browser-ului), veti vedea acelasi text(**Hello World!**),  fara nici-un cod HTML sau javascript! 
 
    - pentru exemplul **worker KV** puteti consulta acest [tutorial publicat in ***medium***](https://medium.com/velotio-perspectives/an-introduction-to-cloudflare-workers-and-cloudflare-kv-store-ad8c8abd5677)
    - aici gasiti o comparatie [**CF-R2** vs. **AWS-S3**](https://blog.stackademic.com/amazon-s3-vs-cloudflare-r2-a-2023-comparison-1ed688f0a513) pentru ***stocarea de obiecte***;
