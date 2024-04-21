@@ -119,172 +119,172 @@ de pilda, daca aveti in directorul <b><i>D:\xampp\\htdocs\</i></b>, un <b>site</
        <pre> C:\USERS\{UserName}> npx wrangler --version</pre>
        Comenizile wrangler le puteti gasi <a href="https://developers.cloudflare.com/workers/wrangler/commands/">aici</a>!<br/><br/>
 
-    -- 2.) urmeaza crearea proiectului cu comanda:
-        - crearea:           
-       <pre> C:\USERS\{UserName}> npx wrangler init hello -y</pre>
-        - apoi mergem in directorul nou creat:
-       <pre> C:\USERS\{UserName}> cd hello</pre><br/><br/>
+-- 2.) urmeaza crearea proiectului cu comanda:
+    - crearea:           
+   <pre> C:\USERS\{UserName}> npx wrangler init hello -y</pre>
+    - apoi mergem in directorul nou creat:
+   <pre> C:\USERS\{UserName}> cd hello</pre><br/><br/>
 
-    -- 3.) apoi publicam/distrinuim/instalam proiectul "Hello-World" in cloud-ul CF cu comanda:       
-       <pre> C:\USERS\{UserName}> npx wrangler deploy</pre>
-       vi se va furniza linkul pentru a vedea worker-ul in browser, ceva de forma <b><i>https://hello.{your-name}.workers.dev</i></b>:
-       <pre> https://hello.ion-stefanache.workers.dev/</pre><br/><br/>
+-- 3.) apoi publicam/distrinuim/instalam proiectul "Hello-World" in cloud-ul CF cu comanda:       
+   <pre> C:\USERS\{UserName}> npx wrangler deploy</pre>
+   vi se va furniza linkul pentru a vedea worker-ul in browser, ceva de forma <b><i>https://hello.{your-name}.workers.dev</i></b>:
+   <pre> https://hello.ion-stefanache.workers.dev/</pre><br/><br/>
 
-    -- 4.)  pentru a vedea depozitul respectiv(unde a fost instalat proiectul **Hello**), mergeti in [tabloul vostru de bord](https://dash.cloudflare.com/oauth2/auth?response_type=code&client_id=54d11594-84e4-41aa-b438-e81b8fa78ee7&redirect_uri=http%3A%2F%2Flocalhost%3A8976%2Foauth%2Fcallback&scope=account%3Aread%20user%3Aread%20workers%3Awrite%20workers_kv%3Awrite%20workers_routes%3Awrite%20workers_scripts%3Awrite%20workers_tail%3Aread%20d1%3Awrite%20pages%3Awrite%20zone%3Aread%20ssl_certs%3Awrite%20constellation%3Awrite%20ai%3Awrite%20queues%3Awrite%20offline_access&state=dXGqeTPuGnY5rW0ZahWDSb4nIFf.SfZK&code_challenge=fSPmYyB9p7qIhegLcxLqVxS2ET3GRWnK7cLYulRhHEs&code_challeng) din CloudFlare: ([CF-dashbord](https://dash.cloudflare.com/)),<br/>
-       si apoi dupa ce introduceti email-ul si parola contului dvs CF, navigati in meniul din stanga pe traseul:
-       <pre> Workers & Pages -> Overview </pre>
-       si apoi in panoul din dreapta veti regasi proiectul "**hello**" publicat de dvs cu ajutorul lui wrangler;<br/>
-       dati click pe proiectul  **hello** si apoi sus in meniul-orizontal al panoului dati click pe optiunea-de-meniu **Deployments**;<br/>
-       va aparea o fereastra cu 2 sectiuni:<br/>
-        - ***Active Deployment***<br/>
-        - ***Version History***<br/>
-       in prima sectiune(***Active Deployment***) veti vedea/regasi pe prima linie urmatoarele informatii ale deployment-ului/instalarii active/curente:<br/>
-        -- ***Deployment ID*** - prima parte a UUID-ului pe care vi l-a afisat wrangler la momentul instalarii/publicarii(ceva de genul: **d83527ad**);<br/>
-        -- ***Created*** - va va spune cu cat timp in urma a fost creata instalarea si autorul acesteia(ceva de forma : **36 minutes ago by {your-name}**);<br/>
-        -- ***Version Message***;<br/>
-        -- ***100%*** - ca a fost incarcat integral;<br/>
-        -- si in cele din urma, la final de rand, veti regasi un link [***View Version***](https://hello.ion-stefanache.workers.dev/) - care daca va fi click-at/accesat,<br/>
-        va lansa in browser lucratorul/worker-ul "Hello", care va afisa textul/mesajul urmator:<br/>
-        
-                Hello World!
-  
-  daca veti da **view page source**(cu click dreapta din meniul contextual al browser-ului), veti vedea acelasi text(**Hello World!**),  fara nici-un cod HTML si/sau javascript!<br/>
-  Odata afisat in browser, puteti captura acel **link**(daca nu l-ati preluat deja, dupa publicare, cu ajutorul **wrangler**-ului, din mesajul aferent) si, poate fi pastrat, pentru o 
-  vizualizare/utilizare ulterioara, daca-l salvati/plasati pe desktop, ca un **shurtcut** ; **URL**-ul link-ul ar putea avea o forma similara cu aceasta:<br/>
-       <pre> https://hello.ion-stefanache.workers.dev/</pre>             
-  iar **denumirea** sugerata/recomandata ar fi ***"Hello World - worker"***(sau cum *doriti* voi!)<br/>
-                
-    **--OBS--**: 
-        - pentru a vizualiza **codul generat** al ***sursei typescript*** care genereaza continutul HTML al proiectului: veti vedea ca in partea dreapta-sus, pe lina sus in dreptul meniului-paginii, aveti un link [**Edit sourc**e](https://dash.cloudflare.com/2d482e04c26cae6ff3ada060d87c965d/workers/services/edit/hello/production) - click-ati si veti (re)vedea/regasi codul simplu generat al [lucratorului](https://hello.ion-stefanache.workers.dev/):
+-- 4.)  pentru a vedea depozitul respectiv(unde a fost instalat proiectul **Hello**), mergeti in [tabloul vostru de bord](https://dash.cloudflare.com/oauth2/auth?response_type=code&client_id=54d11594-84e4-41aa-b438-e81b8fa78ee7&redirect_uri=http%3A%2F%2Flocalhost%3A8976%2Foauth%2Fcallback&scope=account%3Aread%20user%3Aread%20workers%3Awrite%20workers_kv%3Awrite%20workers_routes%3Awrite%20workers_scripts%3Awrite%20workers_tail%3Aread%20d1%3Awrite%20pages%3Awrite%20zone%3Aread%20ssl_certs%3Awrite%20constellation%3Awrite%20ai%3Awrite%20queues%3Awrite%20offline_access&state=dXGqeTPuGnY5rW0ZahWDSb4nIFf.SfZK&code_challenge=fSPmYyB9p7qIhegLcxLqVxS2ET3GRWnK7cLYulRhHEs&code_challeng) din CloudFlare: ([CF-dashbord](https://dash.cloudflare.com/)),<br/>
+   si apoi dupa ce introduceti email-ul si parola contului dvs CF, navigati in meniul din stanga pe traseul:
+   <pre> Workers & Pages -> Overview </pre>
+   si apoi in panoul din dreapta veti regasi proiectul "**hello**" publicat de dvs cu ajutorul lui wrangler;<br/>
+   dati click pe proiectul  **hello** si apoi sus in meniul-orizontal al panoului dati click pe optiunea-de-meniu **Deployments**;<br/>
+   va aparea o fereastra cu 2 sectiuni:<br/>
+    - ***Active Deployment***<br/>
+    - ***Version History***<br/>
+   in prima sectiune(***Active Deployment***) veti vedea/regasi pe prima linie urmatoarele informatii ale deployment-ului/instalarii active/curente:<br/>
+    -- ***Deployment ID*** - prima parte a UUID-ului pe care vi l-a afisat wrangler la momentul instalarii/publicarii(ceva de genul: **d83527ad**);<br/>
+    -- ***Created*** - va va spune cu cat timp in urma a fost creata instalarea si autorul acesteia(ceva de forma : **36 minutes ago by {your-name}**);<br/>
+    -- ***Version Message***;<br/>
+    -- ***100%*** - ca a fost incarcat integral;<br/>
+    -- si in cele din urma, la final de rand, veti regasi un link [***View Version***](https://hello.ion-stefanache.workers.dev/) - care daca va fi click-at/accesat,<br/>
+    va lansa in browser lucratorul/worker-ul "Hello", care va afisa textul/mesajul urmator:<br/>
+    
+            Hello World!
+
+daca veti da **view page source**(cu click dreapta din meniul contextual al browser-ului), veti vedea acelasi text(**Hello World!**),  fara nici-un cod HTML si/sau javascript!<br/>
+Odata afisat in browser, puteti captura acel **link**(daca nu l-ati preluat deja, dupa publicare, cu ajutorul **wrangler**-ului, din mesajul aferent) si, poate fi pastrat, pentru o 
+vizualizare/utilizare ulterioara, daca-l salvati/plasati pe desktop, ca un **shurtcut** ; **URL**-ul link-ul ar putea avea o forma similara cu aceasta:<br/>
+   <pre> https://hello.ion-stefanache.workers.dev/</pre>             
+iar **denumirea** sugerata/recomandata ar fi ***"Hello World - worker"***(sau cum *doriti* voi!)<br/>
+            
+**--OBS--**: 
+    - pentru a vizualiza **codul generat** al ***sursei typescript*** care genereaza continutul HTML al proiectului: veti vedea ca in partea dreapta-sus, pe lina sus in dreptul meniului-paginii, aveti un link [**Edit sourc**e](https://dash.cloudflare.com/2d482e04c26cae6ff3ada060d87c965d/workers/services/edit/hello/production) - click-ati si veti (re)vedea/regasi codul simplu generat al [lucratorului](https://hello.ion-stefanache.workers.dev/):
+       
+           // src/index.ts
+           var src_default = {
+             async fetch(request, env, ctx) {
+               return new Response("Hello World!");
+             }
+           };
+           export {
+             src_default as default
+           };
+           //# sourceMappingURL=index.js.map
+
+- **Nota**:
+
+    - trebuie sa va spun ca pe local in directorul **src** veti gasi in fisierul **index.ts** :
+
+           Directory of C:\Users\{user}\hello\src
+                  
+           19.04.2024  20:08    <DIR>          .
+           19.04.2024  20:08    <DIR>          ..
+           19.04.2024  15:47               649 index.ts
+                  1 File(s)            649 bytes
+                  2 Dir(s)  19,306,614,784 bytes free
+
+      urmatorul continut:
            
-               // src/index.ts
-               var src_default = {
-                 async fetch(request, env, ctx) {
-                   return new Response("Hello World!");
-                 }
-               };
-               export {
-                 src_default as default
-               };
-               //# sourceMappingURL=index.js.map
+           C:\Users\{User}\hello\src>type index.ts
 
-    - **Nota**:
+           C:\Users\{user}\hello\src>type index.ts
+           /**
+           * Welcome to Cloudflare Workers! This is your first worker.
+           *
+           * - Run `npm run dev` in your terminal to start a development server
+           * - Open a browser tab at http://localhost:8787/ to see your worker in action
+           * - Run `npm run deploy` to publish your worker
+           *
+           * Bind resources to your worker in `wrangler.toml`. After adding bindings, a type definition for the
+           * `Env` object can be regenerated with `npm run cf-typegen`.
+           *
+           * Learn more at https://developers.cloudflare.com/workers/
+           */
 
-        - trebuie sa va spun ca pe local in directorul **src** veti gasi in fisierul **index.ts** :
-  
-               Directory of C:\Users\{user}\hello\src
-                      
-               19.04.2024  20:08    <DIR>          .
-               19.04.2024  20:08    <DIR>          ..
-               19.04.2024  15:47               649 index.ts
-                      1 File(s)            649 bytes
-                      2 Dir(s)  19,306,614,784 bytes free
+           export default {
+                   async fetch(request: Request, env: Env, ctx: ExecutionContext): Promise<Response> {
+                           return new Response('Hello World!');
+                   },
+           };
+    - iar in directorul **test**,
 
-          urmatorul continut:
-               
-               C:\Users\{User}\hello\src>type index.ts
+           C:\Users\{User}\hello\test>dir
+                     
+           Volume in drive C has no label.
+           Volume Serial Number is 32EF-A4A7
 
-               C:\Users\{user}\hello\src>type index.ts
-               /**
-               * Welcome to Cloudflare Workers! This is your first worker.
-               *
-               * - Run `npm run dev` in your terminal to start a development server
-               * - Open a browser tab at http://localhost:8787/ to see your worker in action
-               * - Run `npm run deploy` to publish your worker
-               *
-               * Bind resources to your worker in `wrangler.toml`. After adding bindings, a type definition for the
-               * `Env` object can be regenerated with `npm run cf-typegen`.
-               *
-               * Learn more at https://developers.cloudflare.com/workers/
-               */
+           Directory of C:\Users{User}\hello\test
 
-               export default {
-                       async fetch(request: Request, env: Env, ctx: ExecutionContext): Promise<Response> {
-                               return new Response('Hello World!');
-                       },
-               };
-        - iar in directorul **test**,
+           19.04.2024  20:08    <DIR>          .
+           19.04.2024  20:08    <DIR>          ..
+           19.04.2024  15:47             1,128 index.spec.ts
+           19.04.2024  15:47               237 tsconfig.json
+                      2 File(s)          1,365 bytes
+                      2 Dir(s)  19,309,133,824 bytes free
+           
+      in fisierul **index.spec.ts**, vom gasi urmatorul continut:
+           
+           C:\Users\{User}\hello\test>type index.spec.ts
+           
+           // test/index.spec.ts
+           import { env, createExecutionContext, waitOnExecutionContext, SELF } from 'cloudflare:test';
+           import { describe, it, expect } from 'vitest';
+           import worker from '../src/index';
 
-               C:\Users\{User}\hello\test>dir
-                         
-               Volume in drive C has no label.
-               Volume Serial Number is 32EF-A4A7
-    
-               Directory of C:\Users{User}\hello\test
-    
-               19.04.2024  20:08    <DIR>          .
-               19.04.2024  20:08    <DIR>          ..
-               19.04.2024  15:47             1,128 index.spec.ts
-               19.04.2024  15:47               237 tsconfig.json
-                          2 File(s)          1,365 bytes
-                          2 Dir(s)  19,309,133,824 bytes free
-               
-          in fisierul **index.spec.ts**, vom gasi urmatorul continut:
-               
-               C:\Users\{User}\hello\test>type index.spec.ts
-               
-               // test/index.spec.ts
-               import { env, createExecutionContext, waitOnExecutionContext, SELF } from 'cloudflare:test';
-               import { describe, it, expect } from 'vitest';
-               import worker from '../src/index';
+           // For now, you'll need to do something like this to get a correctly-typed
+           // `Request` to pass to `worker.fetch()`.
+           const IncomingRequest = Request<unknown, IncomingRequestCfProperties>;
 
-               // For now, you'll need to do something like this to get a correctly-typed
-               // `Request` to pass to `worker.fetch()`.
-               const IncomingRequest = Request<unknown, IncomingRequestCfProperties>;
+           describe('Hello World worker', () => {
+                   it('responds with Hello World! (unit style)', async () => {
+                           const request = new IncomingRequest('http://example.com');
+                           // Create an empty context to pass to `worker.fetch()`.
+                           const ctx = createExecutionContext();
+                           const response = await worker.fetch(request, env, ctx);
+                           // Wait for all `Promise`s passed to `ctx.waitUntil()` to settle before running test assertions
+                           await waitOnExecutionContext(ctx);
+                           expect(await response.text()).toMatchInlineSnapshot(`"Hello World!"`);
+                   });
 
-               describe('Hello World worker', () => {
-                       it('responds with Hello World! (unit style)', async () => {
-                               const request = new IncomingRequest('http://example.com');
-                               // Create an empty context to pass to `worker.fetch()`.
-                               const ctx = createExecutionContext();
-                               const response = await worker.fetch(request, env, ctx);
-                               // Wait for all `Promise`s passed to `ctx.waitUntil()` to settle before running test assertions
-                               await waitOnExecutionContext(ctx);
-                               expect(await response.text()).toMatchInlineSnapshot(`"Hello World!"`);
-                       });
+                   it('responds with Hello World! (integration style)', async () => {
+                           const response = await SELF.fetch('https://example.com');
+                           expect(await response.text()).toMatchInlineSnapshot(`"Hello World!"`);
+                   });
+           });
+                  
+      iar in fisierul **tsconfig.json**(din acelasi director **test**), vom gasi urmatorul continut:
+           
+           C:\Users\{User}\hello\test>type ts.config.json
+           
+           The system cannot find the file specified.
 
-                       it('responds with Hello World! (integration style)', async () => {
-                               const response = await SELF.fetch('https://example.com');
-                               expect(await response.text()).toMatchInlineSnapshot(`"Hello World!"`);
-                       });
-               });
-                      
-          iar in fisierul **tsconfig.json**(din acelasi director **test**), vom gasi urmatorul continut:
-               
-               C:\Users\{User}\hello\test>type ts.config.json
-               
-               The system cannot find the file specified.
+           C:\Users\{User}\hello\test>type tsconfig.json
+           {
+             "extends": "../tsconfig.json",
+             "compilerOptions": {
+               "types": [
+                 "@cloudflare/workers-types/experimental",
+                 "@cloudflare/vitest-pool-workers"
+               ]
+             },
+             "include": ["./**/*.ts", "../src/env.d.ts"],
+             "exclude": []
+           }
+           
 
-               C:\Users\{User}\hello\test>type tsconfig.json
-               {
-                 "extends": "../tsconfig.json",
-                 "compilerOptions": {
-                   "types": [
-                     "@cloudflare/workers-types/experimental",
-                     "@cloudflare/vitest-pool-workers"
-                   ]
-                 },
-                 "include": ["./**/*.ts", "../src/env.d.ts"],
-                 "exclude": []
-               }
-               
-
-        - exista posibilitatea sa **vedeti/testa si local** TEXT-ul generat, al proiectului Hello-World,
-          daca dati local comanda-CI(shell/cmd.exe), de rulare:
-            
-                <pre> C:\USERS\{User}\hello> npm run dev</pre>
-            
-          si apoi, fara sa inchidem serverul local, deschidem in [**browser**](https://hello.ion-stefanache.workers.dev)-ul dvs. local, de pe desktop-PC/laptop,
-          adresa-URL/link-ul:
-             
-                 http://localhost:8787/
-            
-          unde vom revedea textul mesajului:
+    - exista posibilitatea sa **vedeti/testa si local** TEXT-ul generat, al proiectului Hello-World,
+      daca dati local comanda-CI(shell/cmd.exe), de rulare:
+        
+            <pre> C:\USERS\{User}\hello> npm run dev</pre>
+        
+      si apoi, fara sa inchidem serverul local, deschidem in [**browser**](https://hello.ion-stefanache.workers.dev)-ul dvs. local, de pe desktop-PC/laptop,
+      adresa-URL/link-ul:
          
-                Hello World!
+             http://localhost:8787/
+        
+      unde vom revedea textul mesajului:
+     
+            Hello World!
 
-          daca veti da **view page source**(cu click dreapta din meniul contextual al browser-ului),
-          veti vedea acelasi text(Hello World!), fara nici-un cod HTML sau javascript! 
+      daca veti da **view page source**(cu click dreapta din meniul contextual al browser-ului),
+      veti vedea acelasi text(Hello World!), fara nici-un cod HTML sau javascript! 
 <hr/>
 </details>
 
