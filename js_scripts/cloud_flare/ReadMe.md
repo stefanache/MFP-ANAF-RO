@@ -168,125 +168,125 @@ iar **denumirea** sugerata/recomandata ar fi ***"Hello World - worker"***(sau cu
            };
            //# sourceMappingURL=index.js.map
 
-- ##**Nota**:
+- **Nota**:
 <details>
-<hr/>
-    - trebuie sa va spun ca pe local in directorul **src** veti gasi in fisierul **index.ts** :
+<hr/><br/>
+- trebuie sa va spun ca pe local in directorul **src** veti gasi in fisierul **index.ts** :
 
-           Directory of C:\Users\{user}\hello\src
-                  
-           19.04.2024  20:08    <DIR>          .
-           19.04.2024  20:08    <DIR>          ..
-           19.04.2024  15:47               649 index.ts
-                  1 File(s)            649 bytes
-                  2 Dir(s)  19,306,614,784 bytes free
+       Directory of C:\Users\{user}\hello\src
+              
+       19.04.2024  20:08    <DIR>          .
+       19.04.2024  20:08    <DIR>          ..
+       19.04.2024  15:47               649 index.ts
+              1 File(s)            649 bytes
+              2 Dir(s)  19,306,614,784 bytes free
 
-      urmatorul continut:
-           
-           C:\Users\{User}\hello\src>type index.ts
+  urmatorul continut:
+       
+       C:\Users\{User}\hello\src>type index.ts
 
-           C:\Users\{user}\hello\src>type index.ts
-           /**
-           * Welcome to Cloudflare Workers! This is your first worker.
-           *
-           * - Run `npm run dev` in your terminal to start a development server
-           * - Open a browser tab at http://localhost:8787/ to see your worker in action
-           * - Run `npm run deploy` to publish your worker
-           *
-           * Bind resources to your worker in `wrangler.toml`. After adding bindings, a type definition for the
-           * `Env` object can be regenerated with `npm run cf-typegen`.
-           *
-           * Learn more at https://developers.cloudflare.com/workers/
-           */
+       C:\Users\{user}\hello\src>type index.ts
+       /**
+       * Welcome to Cloudflare Workers! This is your first worker.
+       *
+       * - Run `npm run dev` in your terminal to start a development server
+       * - Open a browser tab at http://localhost:8787/ to see your worker in action
+       * - Run `npm run deploy` to publish your worker
+       *
+       * Bind resources to your worker in `wrangler.toml`. After adding bindings, a type definition for the
+       * `Env` object can be regenerated with `npm run cf-typegen`.
+       *
+       * Learn more at https://developers.cloudflare.com/workers/
+       */
 
-           export default {
-                   async fetch(request: Request, env: Env, ctx: ExecutionContext): Promise<Response> {
-                           return new Response('Hello World!');
-                   },
-           };
-    - iar in directorul **test**,
+       export default {
+               async fetch(request: Request, env: Env, ctx: ExecutionContext): Promise<Response> {
+                       return new Response('Hello World!');
+               },
+       };
+- iar in directorul **test**,
 
-           C:\Users\{User}\hello\test>dir
-                     
-           Volume in drive C has no label.
-           Volume Serial Number is 32EF-A4A7
+       C:\Users\{User}\hello\test>dir
+                 
+       Volume in drive C has no label.
+       Volume Serial Number is 32EF-A4A7
 
-           Directory of C:\Users{User}\hello\test
+       Directory of C:\Users{User}\hello\test
 
-           19.04.2024  20:08    <DIR>          .
-           19.04.2024  20:08    <DIR>          ..
-           19.04.2024  15:47             1,128 index.spec.ts
-           19.04.2024  15:47               237 tsconfig.json
-                      2 File(s)          1,365 bytes
-                      2 Dir(s)  19,309,133,824 bytes free
-           
-      in fisierul **index.spec.ts**, vom gasi urmatorul continut:
-           
-           C:\Users\{User}\hello\test>type index.spec.ts
-           
-           // test/index.spec.ts
-           import { env, createExecutionContext, waitOnExecutionContext, SELF } from 'cloudflare:test';
-           import { describe, it, expect } from 'vitest';
-           import worker from '../src/index';
+       19.04.2024  20:08    <DIR>          .
+       19.04.2024  20:08    <DIR>          ..
+       19.04.2024  15:47             1,128 index.spec.ts
+       19.04.2024  15:47               237 tsconfig.json
+                  2 File(s)          1,365 bytes
+                  2 Dir(s)  19,309,133,824 bytes free
+       
+  in fisierul **index.spec.ts**, vom gasi urmatorul continut:
+       
+       C:\Users\{User}\hello\test>type index.spec.ts
+       
+       // test/index.spec.ts
+       import { env, createExecutionContext, waitOnExecutionContext, SELF } from 'cloudflare:test';
+       import { describe, it, expect } from 'vitest';
+       import worker from '../src/index';
 
-           // For now, you'll need to do something like this to get a correctly-typed
-           // `Request` to pass to `worker.fetch()`.
-           const IncomingRequest = Request<unknown, IncomingRequestCfProperties>;
+       // For now, you'll need to do something like this to get a correctly-typed
+       // `Request` to pass to `worker.fetch()`.
+       const IncomingRequest = Request<unknown, IncomingRequestCfProperties>;
 
-           describe('Hello World worker', () => {
-                   it('responds with Hello World! (unit style)', async () => {
-                           const request = new IncomingRequest('http://example.com');
-                           // Create an empty context to pass to `worker.fetch()`.
-                           const ctx = createExecutionContext();
-                           const response = await worker.fetch(request, env, ctx);
-                           // Wait for all `Promise`s passed to `ctx.waitUntil()` to settle before running test assertions
-                           await waitOnExecutionContext(ctx);
-                           expect(await response.text()).toMatchInlineSnapshot(`"Hello World!"`);
-                   });
+       describe('Hello World worker', () => {
+               it('responds with Hello World! (unit style)', async () => {
+                       const request = new IncomingRequest('http://example.com');
+                       // Create an empty context to pass to `worker.fetch()`.
+                       const ctx = createExecutionContext();
+                       const response = await worker.fetch(request, env, ctx);
+                       // Wait for all `Promise`s passed to `ctx.waitUntil()` to settle before running test assertions
+                       await waitOnExecutionContext(ctx);
+                       expect(await response.text()).toMatchInlineSnapshot(`"Hello World!"`);
+               });
 
-                   it('responds with Hello World! (integration style)', async () => {
-                           const response = await SELF.fetch('https://example.com');
-                           expect(await response.text()).toMatchInlineSnapshot(`"Hello World!"`);
-                   });
-           });
-                  
-      iar in fisierul **tsconfig.json**(din acelasi director **test**), vom gasi urmatorul continut:
-           
-           C:\Users\{User}\hello\test>type ts.config.json
-           
-           The system cannot find the file specified.
+               it('responds with Hello World! (integration style)', async () => {
+                       const response = await SELF.fetch('https://example.com');
+                       expect(await response.text()).toMatchInlineSnapshot(`"Hello World!"`);
+               });
+       });
+              
+  iar in fisierul **tsconfig.json**(din acelasi director **test**), vom gasi urmatorul continut:
+       
+       C:\Users\{User}\hello\test>type ts.config.json
+       
+       The system cannot find the file specified.
 
-           C:\Users\{User}\hello\test>type tsconfig.json
-           {
-             "extends": "../tsconfig.json",
-             "compilerOptions": {
-               "types": [
-                 "@cloudflare/workers-types/experimental",
-                 "@cloudflare/vitest-pool-workers"
-               ]
-             },
-             "include": ["./**/*.ts", "../src/env.d.ts"],
-             "exclude": []
-           }
-           
+       C:\Users\{User}\hello\test>type tsconfig.json
+       {
+         "extends": "../tsconfig.json",
+         "compilerOptions": {
+           "types": [
+             "@cloudflare/workers-types/experimental",
+             "@cloudflare/vitest-pool-workers"
+           ]
+         },
+         "include": ["./**/*.ts", "../src/env.d.ts"],
+         "exclude": []
+       }
+       
 
-    - exista posibilitatea sa **vedeti/testa si local** TEXT-ul generat, al proiectului Hello-World,
-      daca dati local comanda-CI(shell/cmd.exe), de rulare:
-        
-            <pre> C:\USERS\{User}\hello> npm run dev</pre>
-        
-      si apoi, fara sa inchidem serverul local, deschidem in [**browser**](https://hello.ion-stefanache.workers.dev)-ul dvs. local, de pe desktop-PC/laptop,
-      adresa-URL/link-ul:
-         
-             http://localhost:8787/
-        
-      unde vom revedea textul mesajului:
+- exista posibilitatea sa **vedeti/testa si local** TEXT-ul generat, al proiectului Hello-World,
+  daca dati local comanda-CI(shell/cmd.exe), de rulare:
+    
+        <pre> C:\USERS\{User}\hello> npm run dev</pre>
+    
+  si apoi, fara sa inchidem serverul local, deschidem in [**browser**](https://hello.ion-stefanache.workers.dev)-ul dvs. local, de pe desktop-PC/laptop,
+  adresa-URL/link-ul:
      
-            Hello World!
+         http://localhost:8787/
+    
+  unde vom revedea textul mesajului:
+ 
+        Hello World!
 
-      daca veti da **view page source**(cu click dreapta din meniul contextual al browser-ului),
-      veti vedea acelasi text(Hello World!), fara nici-un cod HTML sau javascript!
-<hr/>
+  daca veti da **view page source**(cu click dreapta din meniul contextual al browser-ului),
+  veti vedea acelasi text(Hello World!), fara nici-un cod HTML sau javascript!
+<br/><hr/><br/>
 </details>
 <hr/>
 </details>
