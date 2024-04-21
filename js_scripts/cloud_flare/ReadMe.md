@@ -107,7 +107,7 @@ de pilda, daca aveti in directorul <b><i>D:\xampp\\htdocs\</i></b>, un <b>site</
    - - Un alt exemplu este pentru [**worker**](https://developers.cloudflare.com/workers/) si un altul ar putea fi pentru [**worker kV**](https://developers.cloudflare.com/kv);<br/>
      sa incepem cu [worker](https://developers.cloudflare.com/learning-paths/workers/)-ul ["**Hello-World**"](https://developers.cloudflare.com/workers/get-started/) / [Getting started](https://developers.cloudflare.com/workers/get-started/guide/) / [QuickStart](https://developers.cloudflare.com/workers/get-started/quickstarts/):
      
-     [<h3>***Nota explicativa: lucrator/worker Hello-World***<sup>(pt cazul meu de utilizare: **W10Pro)**</sup>](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/do-more-with-tunnels/trycloudflare/)</h3>
+     [<h3>***Nota explicativa: pasi creare si rulare lucrator/worker Hello-World***<sup>(pt cazul meu de utilizare: **W10Pro)**</sup>](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/do-more-with-tunnels/trycloudflare/)</h3>
 <details>
 <hr/>
     -- 1.) dupa instalarea platformei <b>NodeJS</b>, urmeaza <a href="https://developers.cloudflare.com/workers/wrangler/install-and-update/#install-wrangler">instalarea</a> / <a href="https://developers.cloudflare.com/workers/wrangler/install-and-update/#update-wrangler">actualizarea</a>  <a href="https://developers.cloudflare.com/workers/wrangler/"><b>Wrangler</b></a>, care  se face/proceseaza prin comanda-CLI(din shell/<b><i>cmd.exe</i></b>), de forma urmatoare:<br/>
