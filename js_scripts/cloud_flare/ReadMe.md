@@ -102,7 +102,7 @@ de pilda, daca aveti in directorul ***D:\\xampp\\htdocs\\***, un **site** ***fGe
        
 </details>
 
-   - Un alt exemplu este pentru [**worker**](https://developers.cloudflare.com/workers/) si un altul ar putea fi pentru [**worker kV**](https://developers.cloudflare.com/kv);<br/>
+   - - Un alt exemplu este pentru [**worker**](https://developers.cloudflare.com/workers/) si un altul ar putea fi pentru [**worker kV**](https://developers.cloudflare.com/kv);<br/>
      sa incepem cu [worker](https://developers.cloudflare.com/learning-paths/workers/)-ul ["**Hello-World**"](https://developers.cloudflare.com/workers/get-started/) / [Getting started](https://developers.cloudflare.com/workers/get-started/guide/) / QuickStart](https://developers.cloudflare.com/workers/get-started/quickstarts/):
      
      [<h3>***Nota explicativa: worker***<sup>(pt cazul meu de utilizare: **W10Pro)**</sup>](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/do-more-with-tunnels/trycloudflare/)</h3>
@@ -286,5 +286,5 @@ de pilda, daca aveti in directorul ***D:\\xampp\\htdocs\\***, un **site** ***fGe
 </details>
 
    - - Pentru exemplul **worker KV** puteti consulta acest [tutorial publicat in ***medium***](https://medium.com/velotio-perspectives/an-introduction-to-cloudflare-workers-and-cloudflare-kv-store-ad8c8abd5677)
-   - Aici gasiti o comparatie [**CF-R2** vs. **AWS-S3**](https://blog.stackademic.com/amazon-s3-vs-cloudflare-r2-a-2023-comparison-1ed688f0a513) pentru ***stocarea de obiecte***;
+   - - Aici gasiti o comparatie [**CF-R2** vs. **AWS-S3**](https://blog.stackademic.com/amazon-s3-vs-cloudflare-r2-a-2023-comparison-1ed688f0a513) pentru ***stocarea de obiecte***;
      Cloudflare Storage **R2**([**CF-R2**](https://developers.cloudflare.com/r2/))  -permite dezvoltatorilor să stocheze cantități mari de ***date nestructurate*** fără taxele costisitoare de lățime de bandă de ieșire asociate cu serviciile tipice de stocare în cloud(puteti incerca acest [***exemplu R2-worker**](https://developers.cloudflare.com/r2/examples/demo-worker/).
