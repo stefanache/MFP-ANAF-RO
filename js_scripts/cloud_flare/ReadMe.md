@@ -227,8 +227,8 @@ de pilda, daca aveti in directorul ***D:\\xampp\\htdocs\\***, un **site** ***fGe
                                expect(await response.text()).toMatchInlineSnapshot(`"Hello World!"`);
                        });
                });
-          iar fisierul **tsconfig.json** din directorul **test** are urmatorul continut:
-               C:\Users\Nelu\hello\test>type ts.config.json
+                      
+          iar fisierul **tsconfig.json** din directorul **test** are urmatorul continut: C:\Users\Nelu\hello\test>type ts.config.json
   
                The system cannot find the file specified.
 
@@ -246,16 +246,22 @@ de pilda, daca aveti in directorul ***D:\\xampp\\htdocs\\***, un **site** ***fGe
                }
                
 
-        - exista posibilitatea sa **vedeti/testa si local** TEXT-ul generat, al proiectului Hello-World,  daca dati local comanda-CI(shell/cmd.exe), de rulare:
+        - exista posibilitatea sa **vedeti/testa si local** TEXT-ul generat, al proiectului Hello-World,
+          daca dati local comanda-CI(shell/cmd.exe), de rulare:
+            
                 <pre> C:\USERS\{UserName}\hello> npm run dev</pre>
-          si apoi, fara sa inchidem serverul local, deschidem in **browser**-ul local de pe desktop-PC/laptop, adresa-URL/link-ul: 
+            
+          si apoi, fara sa inchidem serverul local, deschidem in **browser**-ul local de pe desktop-PC/laptop,
+          adresa-URL/link-ul:
+             
                  [http://localhost:8787/](https://hello.ion-stefanache.workers.dev/)<br/>
+            
           unde vom revedea textul mesajului:
          
                 Hello World!
 
-          daca veti da **view page source**(cu click dreapta din meniul contextual al browser-ului), veti vedea acelasi text(**Hello World!**),
-          fara nici-un cod HTML sau javascript! 
+          daca veti da **view page source**(cu click dreapta din meniul contextual al browser-ului),
+          veti vedea acelasi text(Hello World!), fara nici-un cod HTML sau javascript! 
 
 
    - pentru exemplul **worker KV** puteti consulta acest [tutorial publicat in ***medium***](https://medium.com/velotio-perspectives/an-introduction-to-cloudflare-workers-and-cloudflare-kv-store-ad8c8abd5677)
