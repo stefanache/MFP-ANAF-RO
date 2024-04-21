@@ -153,9 +153,9 @@ de pilda, daca aveti in directorul ***D:\\xampp\\htdocs\\***, un **site** ***fGe
                };
                //# sourceMappingURL=index.js.map
 
-<center>**Nota:**</center>
+<pre> **Nota:**</pre>
 
-- trebuie sa va spun ca pe local in directorul **src** veti gasi in fisierul **index.ts** :
+ - trebuie sa va spun ca pe local in directorul **src** veti gasi in fisierul **index.ts** :
   
                Directory of C:\Users\{user}\hello\src
                       
@@ -165,7 +165,7 @@ de pilda, daca aveti in directorul ***D:\\xampp\\htdocs\\***, un **site** ***fGe
                       1 File(s)            649 bytes
                       2 Dir(s)  19,306,614,784 bytes free
 
-urmatorul continut: C:\Users\{user}\hello\src>type index.ts
+  urmatorul continut: C:\Users\{user}\hello\src>type index.ts
 
                /**
                * Welcome to Cloudflare Workers! This is your first worker.
@@ -185,7 +185,7 @@ urmatorul continut: C:\Users\{user}\hello\src>type index.ts
                                return new Response('Hello World!');
                        },
                };
- - iar in directorul **test** in fisierul **index.spec.ts**
+  - iar in directorul **test** in fisierul **index.spec.ts**
 
        C:\Users\Nelu\hello\test>dir
         Volume in drive C has no label.
@@ -200,7 +200,7 @@ urmatorul continut: C:\Users\{user}\hello\src>type index.ts
                       2 File(s)          1,365 bytes
                       2 Dir(s)  19,309,133,824 bytes free
                
-urmatorul continut: C:\Users\Nelu\hello\test>type index.spec.ts
+   urmatorul continut: C:\Users\Nelu\hello\test>type index.spec.ts
 
                // test/index.spec.ts
                import { env, createExecutionContext, waitOnExecutionContext, SELF } from 'cloudflare:test';
@@ -227,7 +227,7 @@ urmatorul continut: C:\Users\Nelu\hello\test>type index.spec.ts
                                expect(await response.text()).toMatchInlineSnapshot(`"Hello World!"`);
                        });
                });
-  iar fisierul **tsconfig.json** din directorul **test** are urmatorul continut: C:\Users\Nelu\hello\test>type ts.config.json
+    iar fisierul **tsconfig.json** din directorul **test** are urmatorul continut: C:\Users\Nelu\hello\test>type ts.config.json
   
                The system cannot find the file specified.
 
