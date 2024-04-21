@@ -84,7 +84,8 @@ Poate fi util sa consultati si repository oficial al [**CF**](https://github.com
    o resursa software(ex. un webserver ***Apache***, ca parte a pachetului **XAMPP**), prin [**tunelare**](https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/run-tunnel/trycloudflare), utilizand comanda-CLI(de sub ***cmd.exe***):<br/> <pre>    ***C:\\USERS\\{UserName}>*** **cloudflared tunnel --url http://localhost:80**</pre><br/>
    <sup>( dupa ce in prealabil ati urmat instructiunile de instalare a pachetului ***NodeJS*** incluzand ***npm*** si ***npx*** si apoi a ***daemon***-ului pentru versiunea sistemului de operare pe care-l detineti, oferit de catre **Cloudflared** si denumit "***cloudflared.exe***",   )</sup>; <br/>
      [<h3>***Nota explicativa: pasi tunelare:***<sup>(pt cazul meu de utilizare: Windows 10 Pro(**W10Pro**)</sup>](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/do-more-with-tunnels/trycloudflare/)</h3>
-<details style="background-color:cyan;">
+<details>
+    <br/>
     -- 1.) dupa instalarea platformei <b>NodeJS</b>, urmeaza instalarea daemonului <b>Cloudflared</b>, care  se face/proceseaza prin comanda-CLI(din shell/<b>cmd.exe</b>), de forma urmatoare:<br/>
        <pre> C:\USERS\{UserName}> winget install --id Cloudflare.cloudflared</pre>
        utlizand instalatorii <b>npm.exe</b> sau <b>npx.exe</b>,  componente a pachetului <b>NodeJS</b>;<br/><br/>     
@@ -107,7 +108,7 @@ de pilda, daca aveti in directorul <b><i>D:\xampp\\htdocs\</i></b>, un <b>site</
      
      [<h3>***Nota explicativa: lucrator/worker Hello-World***<sup>(pt cazul meu de utilizare: **W10Pro)**</sup>](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/do-more-with-tunnels/trycloudflare/)</h3>
 <details>
-    <br/><br/>
+    <br/>
     -- 1.) dupa instalarea platformei <b>NodeJS</b>, urmeaza <a href="https://developers.cloudflare.com/workers/wrangler/install-and-update/#install-wrangler">instalarea</a> / <a href="https://developers.cloudflare.com/workers/wrangler/install-and-update/#update-wrangler">actualizarea</a>  <a href="https://developers.cloudflare.com/workers/wrangler/"><b>Wrangler</b></a>, care  se face/proceseaza prin comanda-CLI(din shell/<b><i>cmd.exe</i></b>), de forma urmatoare:<br/>
         - instalarea <b>Wrangler</b>:
        <pre> C:\USERS\{UserName}> npm install wrangler --save-dev</pre>
