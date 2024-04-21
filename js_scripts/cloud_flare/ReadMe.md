@@ -107,14 +107,14 @@ de pilda, daca aveti in directorul <b><i>D:\xampp\\htdocs\</i></b>, un <b>site</
      
      [<h3>***Nota explicativa: lucrator/worker Hello-World***<sup>(pt cazul meu de utilizare: **W10Pro)**</sup>](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/do-more-with-tunnels/trycloudflare/)</h3>
 <details>
-    -- 1.) dupa instalarea platformei ***NodeJS***, urmeaza [instalarea](https://developers.cloudflare.com/workers/wrangler/install-and-update/#install-wrangler) / [actualizarea](https://developers.cloudflare.com/workers/wrangler/install-and-update/#update-wrangler)  [**Wrangler**](https://developers.cloudflare.com/workers/wrangler/), care  se face/proceseaza prin comanda-CLI(din shell/***cmd.exe***), de forma urmatoare:<br/>
-        - instalarea **Wrangler**:
+    -- 1.) dupa instalarea platformei <b>NodeJS</b>, urmeaza <a href="https://developers.cloudflare.com/workers/wrangler/install-and-update/#install-wrangler">instalarea</a> / <a href="https://developers.cloudflare.com/workers/wrangler/install-and-update/#update-wrangler">actualizarea</a>  <a href="https://developers.cloudflare.com/workers/wrangler/"><b>Wrangler</b></a>, care  se face/proceseaza prin comanda-CLI(din shell/<b><i>cmd.exe</i></b>), de forma urmatoare:<br/>
+        - instalarea <b>Wrangler</b>:
        <pre> C:\USERS\{UserName}> npm install wrangler --save-dev</pre>
-        - actualizarea **Wrangler**-ului:           
+        - actualizarea <b>Wrangle</b>-ului:           
        <pre> C:\USERS\{UserName}> npm install wrangler@latest</pre>
-        - pentru a verifica versiunea **Wrangler**-ului:
+        - pentru a verifica versiunea <b>Wrangler</b>-ului:
        <pre> C:\USERS\{UserName}> npx wrangler --version</pre>
-       Comenizile wrangler le puteti gasi [aici](https://developers.cloudflare.com/workers/wrangler/commands/)!
+       Comenizile wrangler le puteti gasi <a href="https://developers.cloudflare.com/workers/wrangler/commands/">aici</a>!
 
     -- 2.) urmeaza crearea proiectului cu comanda:
         - crearea:           
