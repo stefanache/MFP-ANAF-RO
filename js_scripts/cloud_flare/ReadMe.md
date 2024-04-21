@@ -94,7 +94,7 @@ Poate fi util sa consultati si repository oficial al [**CF**](https://github.com
        veti obtine un <b>link</b>, de forma urmatoare:<br/>
        <pre> https://autumn-broadband-mounted-track.trycloudflare.com</pre>
         <b>link</b> pe care-l puteti utiliza, mai departe, ...<br/><br/>
-    -- 3.) ...pentru a accesa <b>site</b>-ul/urile pe care il/le aveti in <b><i>htdocs</i></b>;<br/>
+    -- 3.) ... pentru a accesa <b>site</b>-ul/urile pe care il/le aveti in <b><i>htdocs</i></b>;<br/>
 de pilda, daca aveti in directorul <b><i>D:\xampp\\htdocs\</i></b>, un <b>site</b> <b><i>fGetCSV</i></b>(care detine fiserul <b>index.php</b>), dupa pornirea din <b><i>XAMPP-Control-Pane</i></b> a <b><i>webserver</i></b>-ului nostru <b><i>Apache</i></b>(care asculta pe portul <b><i>http</i></b> <b>80</b> si pe portul <b><i>https</i></b> <b>443</b>), ati putea, in cele din urma, de pe orice dispozitiv(mobil,PC-desktop,tableta,un mic computer de buzunar, cum ar fi Raspberry Pi 4 <a href="https://dev.to/omarcloud20/a-free-cloudflare-tunnel-running-on-a-raspberry-pi-1jid"><b>RPi4</b></a>,...), conectat la/in <a href="(https://noise.getoto.net/tag/connector/"><b>internet</b></a>, deschide un browser(sa spunem <b>Chrome</b>) pentru a scrie si apoi acccesa <b>adresa-URL</b> urmatoare:<br/>
        <pre> https://autumn-broadband-mounted-track.trycloudflare.com\fGetCSV</pre>
        Pentru a vedea cum se proceseaza traficul respectiv, puteti accesa <a href="https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/">referinta oficiala</a> a tunelarii-CF.<br/>
@@ -118,18 +118,18 @@ de pilda, daca aveti in directorul <b><i>D:\xampp\\htdocs\</i></b>, un <b>site</
         - pentru a verifica versiunea <b>Wrangler</b>-ului:
        <pre> C:\USERS\{UserName}> npx wrangler --version</pre>
        Comenizile wrangler le puteti gasi <a href="https://developers.cloudflare.com/workers/wrangler/commands/">aici</a>!<br/><br/>
-    
+
     -- 2.) urmeaza crearea proiectului cu comanda:
         - crearea:           
        <pre> C:\USERS\{UserName}> npx wrangler init hello -y</pre>
         - apoi mergem in directorul nou creat:
        <pre> C:\USERS\{UserName}> cd hello</pre><br/><br/>
-    
+
     -- 3.) apoi publicam/distrinuim/instalam proiectul "Hello-World" in cloud-ul CF cu comanda:       
        <pre> C:\USERS\{UserName}> npx wrangler deploy</pre>
        vi se va furniza linkul pentru a vedea worker-ul in browser, ceva de forma <b><i>https://hello.{your-name}.workers.dev</i></b>:
        <pre> https://hello.ion-stefanache.workers.dev/</pre><br/><br/>
-    
+
     -- 4.)  pentru a vedea depozitul respectiv(unde a fost instalat proiectul **Hello**), mergeti in [tabloul vostru de bord](https://dash.cloudflare.com/oauth2/auth?response_type=code&client_id=54d11594-84e4-41aa-b438-e81b8fa78ee7&redirect_uri=http%3A%2F%2Flocalhost%3A8976%2Foauth%2Fcallback&scope=account%3Aread%20user%3Aread%20workers%3Awrite%20workers_kv%3Awrite%20workers_routes%3Awrite%20workers_scripts%3Awrite%20workers_tail%3Aread%20d1%3Awrite%20pages%3Awrite%20zone%3Aread%20ssl_certs%3Awrite%20constellation%3Awrite%20ai%3Awrite%20queues%3Awrite%20offline_access&state=dXGqeTPuGnY5rW0ZahWDSb4nIFf.SfZK&code_challenge=fSPmYyB9p7qIhegLcxLqVxS2ET3GRWnK7cLYulRhHEs&code_challeng) din CloudFlare: ([CF-dashbord](https://dash.cloudflare.com/)),<br/>
        si apoi dupa ce introduceti email-ul si parola contului dvs CF, navigati in meniul din stanga pe traseul:
        <pre> Workers & Pages -> Overview </pre>
