@@ -79,8 +79,8 @@ Poate fi util sa consultati si repository oficial al [**CF**](https://github.com
 - Iata aici un [**CF-tunel SSH**](https://danishshakeel.me/creating-an-ssh-tunnel-using-cloudflare-argo-and-access/) pentru un [**RRi4**](https://omar2cloud.github.io/cloudflare/cloudflared/cloudflare/)
 - [**CF-tunelari in Python**](https://scriptnet.se/cloudflare-tunnels-in-python/)
 - [**Free4Dev**](https://free-for.dev) ofera o multime de liste de SW( (SaaS, PaaS, IaaS, etc.) și alte oferte(cu niveluri gratuite pentru dezvoltatori):
-   - iata spre exemplu o referinta pt [***DNS***](https://free-for.dev/#/?id=dns) si
-   - o alta referinta pt subiectul/tocpic-ul [***CF***](https://free-for.dev/#/?id=CloudFlare) care va arata de pilda, cum puteti foarte [**rapid**](https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/run-tunnel/trycloudflare), expune la/pe internet,<br/>
+   - Iata spre exemplu o referinta pt [***DNS***](https://free-for.dev/#/?id=dns) si
+   - O alta referinta pt subiectul/tocpic-ul [***CF***](https://free-for.dev/#/?id=CloudFlare) care va arata de pilda, cum puteti foarte [**rapid**](https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/run-tunnel/trycloudflare), expune la/pe internet,<br/>
    o resursa software(ex. un webserver ***Apache***, ca parte a pachetului **XAMPP**), prin [**tunelare**](https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/run-tunnel/trycloudflare), utilizand comanda-CLI(de sub ***cmd.exe***):<br/> <pre>    ***C:\\USERS\\{UserName}>*** **cloudflared tunnel --url http://localhost:80**</pre><br/>
    <sup>( dupa ce in prealabil ati urmat instructiunile de instalare a pachetului ***NodeJS*** incluzand ***npm*** si ***npx*** si apoi a ***daemon***-ului pentru versiunea sistemului de operare pe care-l detineti, oferit de catre **Cloudflared** si denumit "***cloudflared.exe***",   )</sup>; <br/> <br/>
      [<h3>***Nota explicativa:***<sup>(pt cazul meu de utilizare: Windows 10 Pro(**W10Pro**)</sup>](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/do-more-with-tunnels/trycloudflare/)</h3>
@@ -280,6 +280,6 @@ de pilda, daca aveti in directorul ***D:\\xampp\\htdocs\\***, un **site** ***fGe
           veti vedea acelasi text(Hello World!), fara nici-un cod HTML sau javascript! 
 
 
-   - pentru exemplul **worker KV** puteti consulta acest [tutorial publicat in ***medium***](https://medium.com/velotio-perspectives/an-introduction-to-cloudflare-workers-and-cloudflare-kv-store-ad8c8abd5677)
-   - aici gasiti o comparatie [**CF-R2** vs. **AWS-S3**](https://blog.stackademic.com/amazon-s3-vs-cloudflare-r2-a-2023-comparison-1ed688f0a513) pentru ***stocarea de obiecte***;
+   - Pentru exemplul **worker KV** puteti consulta acest [tutorial publicat in ***medium***](https://medium.com/velotio-perspectives/an-introduction-to-cloudflare-workers-and-cloudflare-kv-store-ad8c8abd5677)
+   - Aici gasiti o comparatie [**CF-R2** vs. **AWS-S3**](https://blog.stackademic.com/amazon-s3-vs-cloudflare-r2-a-2023-comparison-1ed688f0a513) pentru ***stocarea de obiecte***;
      Cloudflare Storage **R2**([**CF-R2**](https://developers.cloudflare.com/r2/))  -permite dezvoltatorilor să stocheze cantități mari de ***date nestructurate*** fără taxele costisitoare de lățime de bandă de ieșire asociate cu serviciile tipice de stocare în cloud(puteti incerca acest [***exemplu R2-worker**](https://developers.cloudflare.com/r2/examples/demo-worker/).
