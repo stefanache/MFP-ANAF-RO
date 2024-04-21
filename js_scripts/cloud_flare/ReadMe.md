@@ -173,6 +173,7 @@ de pilda, daca aveti in directorul ***D:\\xampp\\htdocs\\***, un **site** ***fGe
 
           urmatorul continut: C:\Users\{user}\hello\src>type index.ts
 
+               C:\Users\{user}\hello\src>type index.ts
                /**
                * Welcome to Cloudflare Workers! This is your first worker.
                *
@@ -193,17 +194,17 @@ de pilda, daca aveti in directorul ***D:\\xampp\\htdocs\\***, un **site** ***fGe
                };
         - iar in directorul **test** in fisierul **index.spec.ts**
 
-           C:\Users\Nelu\hello\test>dir
-          
-            Volume in drive C has no label.
-            Volume Serial Number is 32EF-A4A7
+               C:\Users\Nelu\hello\test>dir
+                         
+               Volume in drive C has no label.
+               Volume Serial Number is 32EF-A4A7
     
-            Directory of C:\Users\Nelu\hello\test
+               Directory of C:\Users\Nelu\hello\test
     
-           19.04.2024  20:08    <DIR>          .
-           19.04.2024  20:08    <DIR>          ..
-           19.04.2024  15:47             1,128 index.spec.ts
-           19.04.2024  15:47               237 tsconfig.json
+               19.04.2024  20:08    <DIR>          .
+               19.04.2024  20:08    <DIR>          ..
+               19.04.2024  15:47             1,128 index.spec.ts
+               19.04.2024  15:47               237 tsconfig.json
                           2 File(s)          1,365 bytes
                           2 Dir(s)  19,309,133,824 bytes free
                
