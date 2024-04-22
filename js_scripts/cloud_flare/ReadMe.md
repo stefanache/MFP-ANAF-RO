@@ -326,5 +326,3 @@ Probabil ca ar fi util ca atunci cand facti cunostinta sa urmariti la momentul i
  - Arhitectură **AI** - Retrieval Augmented Generation ([**RAG**](https://developers.cloudflare.com/reference-architecture/diagrams/ai/ai-rag/)),
  - Conducte [**ETL**](https://developers.cloudflare.com/reference-architecture/diagrams/serverless/serverless-etl/) fără server,
  - ...
- - 
- - 
