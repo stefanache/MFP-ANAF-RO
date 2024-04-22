@@ -328,6 +328,7 @@ Sa spicuim cateva dintre titulurile care va pot retine atentia atunci cand studi
  - Arhitectură **AI** - Retrieval Augmented Generation ([**RAG**](https://developers.cloudflare.com/reference-architecture/diagrams/ai/ai-rag/)),
  - Conducte [**ETL**](https://developers.cloudflare.com/reference-architecture/diagrams/serverless/serverless-etl/) fără server,
  - Ghid de proiectare - [Livrarea in siguranta a aplicatiei](https://developers.cloudflare.com/reference-architecture/design-guides/secure-application-delivery/),
+ - arhitectura [serverless](https://developers.cloudflare.com/reference-architecture/diagrams/serverless/serverless-image-content-management/) si produsele incluse in aceasta,
  - ... si [exemplele](https://developers.cloudflare.com/reference-architecture/) pot continua...
 
 [Cloud One](https://blog.cloudflare.com/cloudflare-one/) ofera o [solutie](https://www.infoq.com/news/2020/10/cloudflare-one-network-solution/) NaaS cuprinzand servicii de rețea sigure, rapide, fiabile și rentabile, integrate cu furnizorii de top în managementul identității și securitatea punctelor terminale.
