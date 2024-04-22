@@ -324,7 +324,7 @@ Probabil ca ar fi util, ca atunci cand veti dori sa aflati lucruri despre Cloudf
 De-asemenea, atunci cand vine vorba despre Content Management System[(**CMS**)](https://simplea.com/Articles/what-is-a-cms), sub toate aspectele sale(web-,digital asset-,enterprise-,component-,document-...-CMS), poare ar fi util sa luati in considerare si [oferta-CF](https://developers.cloudflare.com/support/third-party-software/content-management-system-cms/).<br/>
 Sa spicuim cateva dintre titulurile care va pot retine atentia atunci cand studiati topicul/subiectul de referinta [**Arhitectura-CF**](https://developers.cloudflare.com/reference-architecture/) :
 <details>
-<br/><b>[**Cloudflare Reference-Architecture**](https://developers.cloudflare.com/reference-architecture/) :</b>
+<br/><a href="https://developers.cloudflare.com/reference-architecture)"><b>Cloudflare Reference-Architecture</b> :
 <hr/>
 
 - [**Arhitecturi**](https://developers.cloudflare.com/reference-architecture/architectures/):
@@ -341,7 +341,7 @@ Sa spicuim cateva dintre titulurile care va pot retine atentia atunci cand studi
      - a) ***HTTP ingest***, ori <br/>
      - b) cu **Ingest de stocare a obiectelor(R2)*** ;
 
-  Pentru cei dintre voi care doreste sa exeperimenteze serverless poate urma(cel putin pentru inceput) acest [***tutorial***](https://nabendu82.medium.com/build-a-serverless-application-using-cloudflare-worker-f71017093b86) postat in medium.
+  <span style="align:right;">Pentru cei dintre voi care doreste sa exeperimenteze serverless poate urma(cel putin pentru inceput) acest [***tutorial***](https://nabendu82.medium.com/build-a-serverless-application-using-cloudflare-worker-f71017093b86) postat in medium.</span>
   - [**Stocaj-R2**](https://developers.cloudflare.com/reference-architecture/diagrams/storage/)(stocare de date sub forma de ***obiecte***, precum sistemele de fișiere tradiționale / deci NU structurate ierarhic) ***scalabil***, ***flexibil***, ***fara taxe de iesire***(indiferent de latimea de banda), compatibil cu ***S3*** - care se adreseaza unei ***cantități mari*** de date dîn diverse aplicații și medii;
 - Ghid de proiectare - [Livrarea in siguranta a aplicatiei](https://developers.cloudflare.com/reference-architecture/design-guides/secure-application-delivery/),   
 - ... si [exemplele](https://developers.cloudflare.com/reference-architecture/) pot continua...
