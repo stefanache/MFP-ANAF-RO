@@ -327,8 +327,8 @@ Sa spicuim cateva dintre titulurile care va pot retine atentia atunci cand studi
  - Evoluția spre o arhitectură ["Secure Access Service Edge"](https://developers.cloudflare.com/reference-architecture/diagrams/sase/)[(**SASE**)](https://developers.cloudflare.com/reference-architecture/architectures/sase/) cu Cloudflare,
  - Arhitectură **AI** - Retrieval Augmented Generation ([**RAG**](https://developers.cloudflare.com/reference-architecture/diagrams/ai/ai-rag/)),
  - Conducte [**ETL**](https://developers.cloudflare.com/reference-architecture/diagrams/serverless/serverless-etl/) fără server,
- - Ghid de proiectare - [Livrarea in siguranta a aplicatiei](https://developers.cloudflare.com/reference-architecture/design-guides/secure-application-delivery/),
  - arhitectura [serverless](https://developers.cloudflare.com/reference-architecture/diagrams/serverless/serverless-image-content-management/) si produsele incluse in acest tip de retea(cu subtipurile sale variationale: [ETL](https://developers.cloudflare.com/reference-architecture/diagrams/serverless/serverless-etl/) si [IC](https://developers.cloudflare.com/assets/diagram-ed37648d.svg)),
+ - Ghid de proiectare - [Livrarea in siguranta a aplicatiei](https://developers.cloudflare.com/reference-architecture/design-guides/secure-application-delivery/),   
  - ... si [exemplele](https://developers.cloudflare.com/reference-architecture/) pot continua...
 
 [Cloud One](https://blog.cloudflare.com/cloudflare-one/) ofera o [solutie](https://www.infoq.com/news/2020/10/cloudflare-one-network-solution/) NaaS cuprinzand servicii de rețea sigure, rapide, fiabile și rentabile, integrate cu furnizorii de top în managementul identității și securitatea punctelor terminale.
