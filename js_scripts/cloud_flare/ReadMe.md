@@ -307,6 +307,10 @@ iar **denumirea** sugerata/recomandata ar fi ***"Hello World - worker"***(sau cu
    - - Cozile([**queues**](https://developers.cloudflare.com/queues/)) de la Cloudflare, pot constitui un instrument foarte util pentru voi, atunci cand veti dori sa trimiteți și sa primiți<br/>
    (*deci, bidirectional*) mesaje(cu livrare garantată pentru lățimea de bandă de ieșire și fără taxe)<br/>
      Veti avea la dispozitie o gratuitate de [***1 milion de operațiuni*** pe ***lună***](https://developers.cloudflare.com/queues/platform/pricing/)(*generozitate nu gluma*!)<br/>
+<details>
+<br/><a href="https://developers.cloudflare.com/queues/"><b>Cloudflare <i>Queues</i></b>
+<hr/>
+
      Pentru a opera [trimiterea/transmiterea de mesaj/mesesaje](https://developers.cloudflare.com/queues/examples/send-messages-from-dash/)(desigur in coada de mesaje), direct(fara programare) din tabloul vostru de control / [***dashboard***](https://dash.cloudflare.com/2d482e04c26cae6ff3ada060d87c965d)-ul vostru, va trebui sa navigati din [dashboard](https://dash.cloudflare.com), pe calea **Workers & Pages** -> **Queues**;<br/>
      Daca doriti sa implementati cozi de mesaje in mod programatic, o puteti face din [**API**](https://developers.cloudflare.com/queues/reference/javascript-apis/)(spre ex. [***REST*** - **API**](https://developers.cloudflare.com/api/));<br/>
      De asemenea, [**Cloudflare Queues**](https://developers.cloudflare.com/workers/) se integrează cu [**Cloudflare Workers**](https://developers.cloudflare.com/workers/) și vă permite să construiți aplicații care pot [***garanta livrarea***](https://developers.cloudflare.com/queues/reference/delivery-guarantees/) , sau pot permite [***descărcarea de lucru (d-/pr-)-intr-o cerere/solicitare***](https://developers.cloudflare.com/queues/reference/how-queues-works/) , [***trimiterea datelor de la lucrător la lucrător***](https://developers.cloudflare.com/queues/reference/configuration/) și este posibil sa lucrati cu [***date tampon sau loturi***](https://developers.cloudflare.com/queues/reference/batching-retries/).<br/>
@@ -317,6 +321,8 @@ iar **denumirea** sugerata/recomandata ar fi ***"Hello World - worker"***(sau cu
      Spre deosebire de un API tradițional, [API-ul GraphQL](https://grafana.com/grafana/dashboards/18161-cloudflare-graphql-r2/) are un singur punct final[(endpoint)](https://api.cloudflare.com/client/v4/graphql): <br/><br/>            <pre>    ***https://api.cloudflare.com/client/v4/graphql***</pre>
      Pentru mai multe detalii legate de [**cozile de mesaje**](https://blog.cloudflare.com/messages-at-your-speed-with-concurrency-and-explicit-acknowledgement) consultati pagina de inceput / [***Get started***](https://developers.cloudflare.com/queues/get-started/) dar si [***Exemplele***](https://developers.cloudflare.com/queues/examples/) ori [***Tutorialele***](https://developers.cloudflare.com/queues/tutorials/) aferente;
      Pe parcurs sau pe masura ce reusiti sa va (a-/scu-)-fundati, tot mai mult, in acest demers al intelegerii conceptului "**cozi de mesaje Cloudflare**", dobandind desigur experienta in lucrul cu aceast produs-CF,  probabil ca veti dori, sa accesati si pagina de PoC / [***Referinta***](https://developers.cloudflare.com/queues/reference/) a acestora.
+<br/><hr/><br/>
+</details>
 
 [Cloudflare](https://developers.cloudflare.com/reference-architecture/architectures/sase/) are un [ecosistem](https://blog.cloudflare.com/technology-behind-radar2) / [arhitectura](https://developers.cloudflare.com/reference-architecture/architectures/cdn/) [vast(a)](https://noise.getoto.net/tag/zero-trust/) / [complex(a)](https://cahana.substack.com/p/cloudflare-and-the-edge-first-web).
 
@@ -324,7 +330,7 @@ Probabil ca ar fi util, ca atunci cand veti dori sa aflati lucruri despre Cloudf
 De-asemenea, atunci cand vine vorba despre Content Management System[(**CMS**)](https://simplea.com/Articles/what-is-a-cms), sub toate aspectele sale(web-,digital asset-,enterprise-,component-,document-...-CMS), poare ar fi util sa luati in considerare si [oferta-CF](https://developers.cloudflare.com/support/third-party-software/content-management-system-cms/).<br/>
 Sa spicuim cateva dintre titulurile care va pot retine atentia atunci cand studiati topicul/subiectul de referinta [**Arhitectura-CF**](https://developers.cloudflare.com/reference-architecture/) :
 <details>
-<br/><a href="https://developers.cloudflare.com/reference-architecture)"><b>Cloudflare <i>Reference-Architecture</i></b>
+<br/><a href="https://developers.cloudflare.com/reference-architecture"><b>Cloudflare <i>Reference-Architecture</i></b>
 <hr/>
 
 - [**Arhitecturi**](https://developers.cloudflare.com/reference-architecture/architectures/):
