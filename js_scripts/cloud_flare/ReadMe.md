@@ -336,7 +336,7 @@ Sa spicuim cateva dintre titulurile care va pot retine atentia atunci cand studi
             - [ICM](https://developers.cloudflare.com/assets/diagram-ed37648d.svg) - [Image Content Management](https://developers.cloudflare.com/reference-architecture/diagrams/serverless/serverless-image-content-management/);        
             - Conducte/Linii de procesare(eng.pipelines) [**ETL**](https://developers.cloudflare.com/reference-architecture/diagrams/serverless/serverless-etl/) - "**Extract**, **Transform**, **Load**" fără server([***serverless***](https://developers.cloudflare.com/reference-architecture/diagrams/serverless/)),<br/> deosebit de utile în scenariile în care datele trebuie extrase(colectate, curățate) și transformate înainte de a fi încărcate într-o destinație țintă;<br/> dupa tipul de ***ingerare***, vom deosebi 2 categorii de conducte **ETL**:
          - a) ***HTTP ingest***, ori <br/>
-         - b) cu **ingest de stocare a obiectelor(R2)*** ;
+         - b) cu **Ingest de stocare a obiectelor(R2)*** ;
       
       - [**Stocaj-R2**](https://developers.cloudflare.com/reference-architecture/diagrams/storage/)(stocare de date sub forma de ***obiecte***, precum sistemele de fișiere tradiționale / deci NU structurate ierarhic) ***scalabil***, ***flexibil***, ***fara taxe de iesire***(indiferent de latimea de banda), compatibil cu ***S3*** - care se adreseaza unei ***cantități mari*** de date dîn diverse aplicații și medii;
  - Ghid de proiectare - [Livrarea in siguranta a aplicatiei](https://developers.cloudflare.com/reference-architecture/design-guides/secure-application-delivery/),   
