@@ -55,7 +55,7 @@ Iar codul/scriptul echivalent **Python(index.py)**, pentru acelasi exemplu, arat
 
 ***OBS***: *Acest exemplu ne poate aminti de generarea de cod HTML(pentru frontend) folosind un limbaj de backend gen/in stil PhP, ASP,...*
 
-Trebuie amintit si faptul ca planurile destinate dezvoltatorilor "**workers**"<sup>***CloudFlare*** sau ***KV***(baze de date extrem de performante bazate pe stocare: cheie-valoare)</sup>,"**CF-pages***" si "**R2**" va permite sa distribuiti/publicati cod "[**serverless**](https://www.cloudflare.com/plans/developer-platform/)"(fara server=direct din cloud)
+Trebuie amintit si faptul ca planurile destinate dezvoltatorilor "**workers**"<sup>***CloudFlare*** sau ***KV***(baze de date extrem de performante bazate pe stocare: cheie-valoare)</sup>,"[**CF-pages***](https://developers.cloudflare.com/pages/tutorials/build-an-api-with-pages-functions/)" si "**R2**" va permite sa distribuiti/publicati cod "[**serverless**](https://www.cloudflare.com/plans/developer-platform/)"(fara server=direct din cloud)
 
 **Lucratorul**(de fapt codul/scriptul acestuia scris intr-unul dintre limbaje gazda: **JS**<sup>***nodeJS***</sup>, **Typescript** ori **Python**) poate fi gazduit in cloud-ul **CF** pentru a fi livrat via [***browser***](https://workers-playground-dawn-darkness-1140.ion-stefanache.workers.dev/).
 
