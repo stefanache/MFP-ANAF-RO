@@ -320,7 +320,7 @@ iar **denumirea** sugerata/recomandata ar fi ***"Hello World - worker"***(sau cu
 
 [Cloudflare](https://developers.cloudflare.com/reference-architecture/architectures/sase/) are un [ecosistem](https://blog.cloudflare.com/technology-behind-radar2) / [arhitectura](https://developers.cloudflare.com/reference-architecture/architectures/cdn/) [vast(a)](https://noise.getoto.net/tag/zero-trust/) / [complex(a)](https://cahana.substack.com/p/cloudflare-and-the-edge-first-web).
 
-Probabil ca ar fi util ca atunci cand veti dori sa aflati lucruri despre Cloudflare,la momentul invatarii(pas cu pas) conceptelor norului CF,  sa urmariti, [referinta arhitecturala](https://developers.cloudflare.com/reference-architecture/diagrams/serverless/serverless-image-content-management/) . <br/>
+Probabil ca ar fi util, ca atunci cand veti dori sa aflati lucruri despre Cloudflare,la momentul invatarii(pas cu pas) conceptelor norului CF,  sa urmariti, [referinta arhitecturala](https://developers.cloudflare.com/reference-architecture/diagrams/serverless/serverless-image-content-management/) . <br/>
 Sa spicuim cateva dintre titulurile care va pot retine atentia atunci cand studiati topicul/subiectul de referinta [**Arhitectura-CF**](https://developers.cloudflare.com/reference-architecture/) :
  - Reteaua de livrare continut([**CDN**](https://developers.cloudflare.com/reference-architecture/architectures/cdn/)),
  - Evoluția spre o arhitectură ["Secure Access Service Edge"](https://developers.cloudflare.com/reference-architecture/diagrams/sase/)[(**SASE**)](https://developers.cloudflare.com/reference-architecture/architectures/sase/) cu Cloudflare,
