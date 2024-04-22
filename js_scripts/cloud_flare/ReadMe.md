@@ -325,4 +325,5 @@ Probabil ca ar fi util ca atunci cand facti cunostinta sa urmariti la momentul i
  - Evoluția spre o arhitectură ["Secure Access Service Edge"](https://developers.cloudflare.com/reference-architecture/diagrams/sase/)[(**SASE**)](https://developers.cloudflare.com/reference-architecture/architectures/sase/) cu Cloudflare,
  - Arhitectură **AI** - Retrieval Augmented Generation ([**RAG**](https://developers.cloudflare.com/reference-architecture/diagrams/ai/ai-rag/)),
  - Conducte [**ETL**](https://developers.cloudflare.com/reference-architecture/diagrams/serverless/serverless-etl/) fără server,
- - ...
+ - Ghid de proiectare - [Livrarea in siguranta a aplicatiei](https://developers.cloudflare.com/reference-architecture/design-guides/secure-application-delivery/),
+ - ... si exemplele pot continua...
