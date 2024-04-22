@@ -308,7 +308,7 @@ iar **denumirea** sugerata/recomandata ar fi ***"Hello World - worker"***(sau cu
    (*deci, bidirectional*) mesaje(cu livrare garantată pentru lățimea de bandă de ieșire și fără taxe)<br/>
      Veti avea la dispozitie o gratuitate de [***1 milion de operațiuni*** pe ***lună***](https://developers.cloudflare.com/queues/platform/pricing/)(*generozitate nu gluma*!)<br/>
 <details>
-<br/><a href="https://developers.cloudflare.com/queues/">Cateva aspecte cu privie la subiectul <b>Cloudflare <i>Queues</i></b></a>
+<br/><a href="https://developers.cloudflare.com/queues/">Cateva aspecte cu privie la subiectul <b>Cloudflare <i>Queues</i></b></a>:
 <hr/>
 
 - Pentru a opera [trimiterea/transmiterea de mesaj/mesesaje](https://developers.cloudflare.com/queues/examples/send-messages-from-dash/)(desigur in coada de mesaje), direct(fara programare) din tabloul vostru de control / [***dashboard***](https://dash.cloudflare.com/2d482e04c26cae6ff3ada060d87c965d)-ul vostru, va trebui sa navigati din [dashboard](https://dash.cloudflare.com), pe calea **Workers & Pages** -> **Queues**;<br/>
