@@ -347,6 +347,6 @@ Sa spicuim cateva dintre titulurile care va pot retine atentia atunci cand studi
 <br><hr/><br/>
 </details>
 
-Atunci cand vine vorba de planurile platite CF sau de nu, cand vine vorba de a investi in aceasta companie CF(uneori, poate fi un pariu castigat...cine stie?), [articolul](https://seekingalpha.com/article/4523229-cloudflare-sometimes-premium-worth-paying) intitulat sugestiv ["Uneori o prima merita platita"](https://seekingalpha.com/article/4523229-cloudflare-sometimes-premium-worth-paying) poate fi un sprijin in fundamentarea decizi-(-ei/-ilor).
+Atunci cand vine vorba de planurile platite CF sau de ce nu, cand vine vorba de a investi in aceasta companie CF(uneori, poate fi un pariu castigat...cine stie?), [articolul](https://seekingalpha.com/article/4523229-cloudflare-sometimes-premium-worth-paying) intitulat sugestiv ["Uneori o prima merita platita"](https://seekingalpha.com/article/4523229-cloudflare-sometimes-premium-worth-paying) poate fi un sprijin in fundamentarea decizi-(-ei/-ilor).
 
 
