@@ -333,4 +333,4 @@ Sa spicuim cateva dintre titulurile care va pot retine atentia atunci cand studi
 
 [Cloud One](https://blog.cloudflare.com/cloudflare-one/) ofera o [solutie](https://www.infoq.com/news/2020/10/cloudflare-one-network-solution/) NaaS cuprinzand servicii de rețea sigure, rapide, fiabile și rentabile, integrate cu furnizorii de top în managementul identității și securitatea punctelor terminale.
 
-Atunci cand vine vorba despre Content Management System([**CMS**](https://simplea.com/Articles/what-is-a-cms) poare ar fi util sa consultati si [oferta-CF]https://developers.cloudflare.com/support/third-party-software/content-management-system-cms/)
+De asemena, atunci cand vine vorba despre Content Management System([**CMS**](https://simplea.com/Articles/what-is-a-cms), poare ar fi util sa luati in considerare si [oferta-CF](https://developers.cloudflare.com/support/third-party-software/content-management-system-cms/).
