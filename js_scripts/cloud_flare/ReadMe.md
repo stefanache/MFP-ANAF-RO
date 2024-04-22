@@ -292,7 +292,7 @@ iar **denumirea** sugerata/recomandata ar fi ***"Hello World - worker"***(sau cu
 <hr/>
 </details>
 
-   - - Pentru exemplul **worker+KV** puteti consulta acest [tutorial gazduit de publicatia ***medium***](https://medium.com/velotio-perspectives/an-introduction-to-cloudflare-workers-and-cloudflare-kv-store-ad8c8abd5677)
+   - - Pentru exemplul **worker+KV** puteti consulta acest [tutorial gazduit de publicatia ***Medium***](https://medium.com/velotio-perspectives/an-introduction-to-cloudflare-workers-and-cloudflare-kv-store-ad8c8abd5677)
    - - Aici gasiti o comparatie [**CF-R2** vs. **AWS-S3**](https://blog.stackademic.com/amazon-s3-vs-cloudflare-r2-a-2023-comparison-1ed688f0a513) pentru ***stocarea de obiecte***;
      Cloudflare Storage **R2**([**CF-R2**](https://developers.cloudflare.com/r2/))  - care(alaturi de KV!), permite dezvoltatorilor să stocheze cantități mari de [***date nestructurate***](https://developers.cloudflare.com/r2/api/workers/workers-api-usage/)(compatibile cu S3), fără taxele costisitoare de lățime de bandă de ieșire asociate cu serviciile tipice de stocare în cloud(puteti incerca acest [***exemplu R2-worker**](https://developers.cloudflare.com/r2/examples/demo-worker/).
 
@@ -347,7 +347,7 @@ Sa spicuim cateva dintre titulurile care va pot retine atentia atunci cand studi
      - a) ***HTTP ingest***, ori <br/>
      - b) cu **Ingest de stocare a obiectelor(R2)*** ;<br/>
      
-      Pentru aceia dintre voi care doresc sa experimenteze ***serverless***, este recomandabil sa consultati(cel putin pentru inceput), acest [***tutorial***](https://nabendu82.medium.com/build-a-serverless-application-using-cloudflare-worker-f71017093b86)("***simple worker***" este o aplicatie ***Linux***(usor adaptabila pt. windows!) ***serverless***, postata in anul ***2021*** in/de catre publicatia online **medium**, autor fiind **Nabendu Biswas**, si carora, pe aceasta cale, le ***multumim***!).
+      Pentru aceia dintre voi care doresc sa experimenteze ***serverless***, este recomandabil sa consultati(cel putin pentru inceput), acest [***tutorial***](https://nabendu82.medium.com/build-a-serverless-application-using-cloudflare-worker-f71017093b86)("***simple worker***" este o aplicatie ***Linux***(usor adaptabila pt. windows!) ***serverless***, postata in anul ***2021*** in/de catre publicatia online **Medium**, autor fiind **Nabendu Biswas**, si carora, pe aceasta cale, le ***multumim***!).
   - [**Stocaj-R2**](https://developers.cloudflare.com/reference-architecture/diagrams/storage/)(stocare de date sub forma de ***obiecte***, precum sistemele de fișiere tradiționale / deci NU structurate ierarhic) ***scalabil***, ***flexibil***, ***fara taxe de iesire***(indiferent de latimea de banda), compatibil cu ***S3*** - care se adreseaza unei ***cantități mari*** de date dîn diverse aplicații și medii;
 - Ghid de proiectare - [Livrarea in siguranta a aplicatiei](https://developers.cloudflare.com/reference-architecture/design-guides/secure-application-delivery/),   
 - ... si [exemplele](https://developers.cloudflare.com/reference-architecture/) pot continua...
