@@ -353,6 +353,7 @@ Sa spicuim cateva dintre titulurile care va pot retine atentia atunci cand studi
       Cei de la **astro-proiect** au un totorial pentru distribuirea unui site-astro in cloud-ul CF folosind [**wrangler**](https://blog.cloudflare.com/10-things-i-love-about-wrangler).<br/>
       Acest tutorial va propune "**Crearea lucrătorilor Cloudflare observabili cu OpenTelemetry**"(https://medium.com/kubeshop-i/crafting-observable-cloudflare-workers-with-opentelemetry-ab0147e281fe).
       Existra si un proiect github ["**workers-SDK**"](https://github.com/cloudflare/workers-sdk).
+      Un alt proiect propune o tema la fel de interesanta: [***Dezvoltare locală îmbunătățită cu wrangler și workers***](https://blog.cloudflare.com/wrangler3);
   - [**Stocaj-R2**](https://developers.cloudflare.com/reference-architecture/diagrams/storage/)(stocare de date sub forma de ***obiecte***, precum sistemele de fișiere tradiționale / deci NU structurate ierarhic) ***scalabil***, ***flexibil***, ***fara taxe de iesire***(indiferent de latimea de banda), compatibil cu ***S3*** - care se adreseaza unei ***cantități mari*** de date dîn diverse aplicații și medii;
 - Ghid de proiectare - [Livrarea in siguranta a aplicatiei](https://developers.cloudflare.com/reference-architecture/design-guides/secure-application-delivery/),   
 - ... si [exemplele](https://developers.cloudflare.com/reference-architecture/) pot continua...
