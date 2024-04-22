@@ -324,7 +324,7 @@ Probabil ca ar fi util, ca atunci cand veti dori sa aflati lucruri despre Cloudf
 De-asemenea, atunci cand vine vorba despre Content Management System[(**CMS**)](https://simplea.com/Articles/what-is-a-cms), sub toate aspectele sale(web-,digital asset-,enterprise-,component-,document-...-CMS), poare ar fi util sa luati in considerare si [oferta-CF](https://developers.cloudflare.com/support/third-party-software/content-management-system-cms/).<br/>
 Sa spicuim cateva dintre titulurile care va pot retine atentia atunci cand studiati topicul/subiectul de referinta [**Arhitectura-CF**](https://developers.cloudflare.com/reference-architecture/) :
 <details>
-<br/><a href="https://developers.cloudflare.com/reference-architecture)"><b>Cloudflare Reference-Architecture</b> :
+<br/><a href="https://developers.cloudflare.com/reference-architecture)"><b>Cloudflare <i>Reference-Architecture</i></b>
 <hr/>
 
 - [**Arhitecturi**](https://developers.cloudflare.com/reference-architecture/architectures/):
