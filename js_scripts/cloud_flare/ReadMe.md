@@ -324,27 +324,27 @@ Probabil ca ar fi util, ca atunci cand veti dori sa aflati lucruri despre Cloudf
 De-asemenea, atunci cand vine vorba despre Content Management System[(**CMS**)](https://simplea.com/Articles/what-is-a-cms), sub toate aspectele sale(web-,digital asset-,enterprise-,component-,document-...-CMS), poare ar fi util sa luati in considerare si [oferta-CF](https://developers.cloudflare.com/support/third-party-software/content-management-system-cms/).<br/>
 Sa spicuim cateva dintre titulurile care va pot retine atentia atunci cand studiati topicul/subiectul de referinta [**Arhitectura-CF**](https://developers.cloudflare.com/reference-architecture/) :
 <details>
-<br><hr/><br/>
- - [**Arhitecturi**](https://developers.cloudflare.com/reference-architecture/architectures/):
-      - Reteaua de livrare continut([**CDN**](https://developers.cloudflare.com/reference-architecture/architectures/cdn/));
-      - [***LB***](https://developers.cloudflare.com/reference-architecture/architectures/load-balancing/) - echilibratoare/balansoare de sarcina/incarcare(eng.load);
-      - [***Magic Transit***](https://developers.cloudflare.com/reference-architecture/architectures/magic-transit/)(**DDoS**,**BGP**);
-      - Evoluția spre o arhitectură ["Secure Access Service Edge"](https://developers.cloudflare.com/reference-architecture/diagrams/sase/)[(**SASE**)](https://developers.cloudflare.com/reference-architecture/architectures/sase/) cu Cloudflare<br/> - [***Acces la aplicații private fără a fi nevoie să implementați agenți-client***](https://developers.cloudflare.com/reference-architecture/diagrams/sase/sase-clientless-access-private-dns/);
-      - [*arhitecturi cu mai multi furnizori/vanzatori(eng.vendors)*](https://developers.cloudflare.com/reference-architecture/architectures/multi-vendor/);
- - [***Modele arhitecturale***(si... cele mai bune practici)](https://developers.cloudflare.com/reference-architecture/diagrams/):
-      - [**AI**](https://developers.cloudflare.com/reference-architecture/diagrams/ai/) - ***Retrieval Augmented Generation*** ([**RAG**](https://developers.cloudflare.com/reference-architecture/diagrams/ai/ai-rag/));
-      - Arhitectura [***Serverless***](https://developers.cloudflare.com/reference-architecture/diagrams/serverless/) si produsele acesteia, incluse in acest tip de retea(cu subtipurile variationale: [ETL](https://developers.cloudflare.com/reference-architecture/diagrams/serverless/serverless-etl/) si [IC](https://developers.cloudflare.com/reference-architecture/diagrams/serverless/serverless-image-content-management/)), <br/>poate fi un topic extrem de interesant pentru voi:<br/>
-            - [ICM](https://developers.cloudflare.com/assets/diagram-ed37648d.svg) - [Image Content Management](https://developers.cloudflare.com/reference-architecture/diagrams/serverless/serverless-image-content-management/);        
-            - Conducte/Linii de procesare(eng.pipelines) [**ETL**](https://developers.cloudflare.com/reference-architecture/diagrams/serverless/serverless-etl/) - "**Extract**, **Transform**, **Load**" fără server([***serverless***](https://developers.cloudflare.com/reference-architecture/diagrams/serverless/)),<br/> deosebit de utile în scenariile în care, datele trebuie extrase(colectate, curățate) și transformate înainte de<br/> a fi încărcate într-o destinație țintă/finală(spre exemplu un alt serviciu extern-CF);<br/> dupa tipul de ***ingerare***(mai precis, dupa partea de... ***Client request***), vom deosebi 2 categorii de conducte **ETL**:
-         - a) ***HTTP ingest***, ori <br/>
-         - b) cu **Ingest de stocare a obiectelor(R2)*** ;
-      
-      - [**Stocaj-R2**](https://developers.cloudflare.com/reference-architecture/diagrams/storage/)(stocare de date sub forma de ***obiecte***, precum sistemele de fișiere tradiționale / deci NU structurate ierarhic) ***scalabil***, ***flexibil***, ***fara taxe de iesire***(indiferent de latimea de banda), compatibil cu ***S3*** - care se adreseaza unei ***cantități mari*** de date dîn diverse aplicații și medii;
- - Ghid de proiectare - [Livrarea in siguranta a aplicatiei](https://developers.cloudflare.com/reference-architecture/design-guides/secure-application-delivery/),   
- - ... si [exemplele](https://developers.cloudflare.com/reference-architecture/) pot continua...
+<br/><hr/><br/>
+- [**Arhitecturi**](https://developers.cloudflare.com/reference-architecture/architectures/):
+  - Reteaua de livrare continut([**CDN**](https://developers.cloudflare.com/reference-architecture/architectures/cdn/));
+  - [***LB***](https://developers.cloudflare.com/reference-architecture/architectures/load-balancing/) - echilibratoare/balansoare de sarcina/incarcare(eng.load);
+  - [***Magic Transit***](https://developers.cloudflare.com/reference-architecture/architectures/magic-transit/)(**DDoS**,**BGP**);
+  - Evoluția spre o arhitectură ["Secure Access Service Edge"](https://developers.cloudflare.com/reference-architecture/diagrams/sase/)[(**SASE**)](https://developers.cloudflare.com/reference-architecture/architectures/sase/) cu Cloudflare<br/> - [***Acces la aplicații private fără a fi nevoie să implementați agenți-client***](https://developers.cloudflare.com/reference-architecture/diagrams/sase/sase-clientless-access-private-dns/);
+  - [*arhitecturi cu mai multi furnizori/vanzatori(eng.vendors)*](https://developers.cloudflare.com/reference-architecture/architectures/multi-vendor/);
+- [***Modele arhitecturale***(si... cele mai bune practici)](https://developers.cloudflare.com/reference-architecture/diagrams/):
+  - [**AI**](https://developers.cloudflare.com/reference-architecture/diagrams/ai/) - ***Retrieval Augmented Generation*** ([**RAG**](https://developers.cloudflare.com/reference-architecture/diagrams/ai/ai-rag/));
+  - Arhitectura [***Serverless***](https://developers.cloudflare.com/reference-architecture/diagrams/serverless/) si produsele acesteia, incluse in acest tip de retea(cu subtipurile variationale: [ETL](https://developers.cloudflare.com/reference-architecture/diagrams/serverless/serverless-etl/) si [IC](https://developers.cloudflare.com/reference-architecture/diagrams/serverless/serverless-image-content-management/)), <br/>poate fi un topic extrem de interesant pentru voi:<br/>
+        - [ICM](https://developers.cloudflare.com/assets/diagram-ed37648d.svg) - [Image Content Management](https://developers.cloudflare.com/reference-architecture/diagrams/serverless/serverless-image-content-management/);        
+        - Conducte/Linii de procesare(eng.pipelines) [**ETL**](https://developers.cloudflare.com/reference-architecture/diagrams/serverless/serverless-etl/) - "**Extract**, **Transform**, **Load**" fără server([***serverless***](https://developers.cloudflare.com/reference-architecture/diagrams/serverless/)),<br/> deosebit de utile în scenariile în care, datele trebuie extrase(colectate, curățate) și transformate înainte de<br/> a fi încărcate într-o destinație țintă/finală(spre exemplu un alt serviciu extern-CF);<br/> dupa tipul de ***ingerare***(mai precis, dupa partea de... ***Client request***), vom deosebi 2 categorii de conducte **ETL**:
+     - a) ***HTTP ingest***, ori <br/>
+     - b) cu **Ingest de stocare a obiectelor(R2)*** ;
+  
+  - [**Stocaj-R2**](https://developers.cloudflare.com/reference-architecture/diagrams/storage/)(stocare de date sub forma de ***obiecte***, precum sistemele de fișiere tradiționale / deci NU structurate ierarhic) ***scalabil***, ***flexibil***, ***fara taxe de iesire***(indiferent de latimea de banda), compatibil cu ***S3*** - care se adreseaza unei ***cantități mari*** de date dîn diverse aplicații și medii;
+- Ghid de proiectare - [Livrarea in siguranta a aplicatiei](https://developers.cloudflare.com/reference-architecture/design-guides/secure-application-delivery/),   
+- ... si [exemplele](https://developers.cloudflare.com/reference-architecture/) pot continua...
  
 [Cloud One](https://blog.cloudflare.com/cloudflare-one/)([SASE](https://developers.cloudflare.com/reference-architecture/diagrams/sase/) cu un singur furnizor, o singură rețea) -  ofera o [solutie](https://www.infoq.com/news/2020/10/cloudflare-one-network-solution/) NaaS cuprinzand servicii de rețea sigure, rapide, fiabile și rentabile, integrate cu furnizorii de top în managementul identității și securitatea punctelor terminale.
-<br><hr/><br/>
+<br/><hr/><br/>
 </details>
 
 Atunci cand vine vorba de planurile platite CF sau de ce nu, cand vine vorba de a investi in aceasta companie CF(uneori, poate fi un pariu castigat...cine stie?), [articolul](https://seekingalpha.com/article/4523229-cloudflare-sometimes-premium-worth-paying) intitulat sugestiv ["Uneori o prima merita platita"](https://seekingalpha.com/article/4523229-cloudflare-sometimes-premium-worth-paying) poate fi un sprijin in fundamentarea decizi-(-ei/-ilor).
