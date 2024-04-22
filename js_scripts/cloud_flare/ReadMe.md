@@ -337,7 +337,7 @@ Sa spicuim cateva dintre titulurile care va pot retine atentia atunci cand studi
  - Ghid de proiectare - [Livrarea in siguranta a aplicatiei](https://developers.cloudflare.com/reference-architecture/design-guides/secure-application-delivery/),   
  - ... si [exemplele](https://developers.cloudflare.com/reference-architecture/) pot continua...
  
-[Cloud One](https://blog.cloudflare.com/cloudflare-one/) ofera o [solutie](https://www.infoq.com/news/2020/10/cloudflare-one-network-solution/) NaaS cuprinzand servicii de rețea sigure, rapide, fiabile și rentabile, integrate cu furnizorii de top în managementul identității și securitatea punctelor terminale.
+[Cloud One](https://blog.cloudflare.com/cloudflare-one/)([SASE](https://developers.cloudflare.com/reference-architecture/diagrams/sase/) cu un singur furnizor, o singură rețea) -  ofera o [solutie](https://www.infoq.com/news/2020/10/cloudflare-one-network-solution/) NaaS cuprinzand servicii de rețea sigure, rapide, fiabile și rentabile, integrate cu furnizorii de top în managementul identității și securitatea punctelor terminale.
 
 Atunci cand vine vorba de planurile platite CF sau de nu, cand vine vorba de a investi in aceasta companie CF(uneori, poate fi un pariu castigat...cine stie?), [articolul](https://seekingalpha.com/article/4523229-cloudflare-sometimes-premium-worth-paying) intitulat sugestiv ["Uneori o prima merita platita"](https://seekingalpha.com/article/4523229-cloudflare-sometimes-premium-worth-paying) poate fi un sprijin in fundamentarea decizi-(-ei/-ilor).
 
