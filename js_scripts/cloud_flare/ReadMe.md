@@ -326,7 +326,7 @@ Sa spicuim cateva dintre titulurile care va pot retine atentia atunci cand studi
 
  - [**Arhitecturi**](https://developers.cloudflare.com/reference-architecture/architectures/):
       - Reteaua de livrare continut([**CDN**](https://developers.cloudflare.com/reference-architecture/architectures/cdn/));
-      - [***LB***](https://developers.cloudflare.com/reference-architecture/architectures/load-balancing/);
+      - [***LB***](https://developers.cloudflare.com/reference-architecture/architectures/load-balancing/) - echilibratoare/balansoare de sarcina/incarcare(eng.load);
       - [***Magic Transit***](https://developers.cloudflare.com/reference-architecture/architectures/magic-transit/)(**DDoS**,**BGP**);
       - Evoluția spre o arhitectură ["Secure Access Service Edge"](https://developers.cloudflare.com/reference-architecture/diagrams/sase/)[(**SASE**)](https://developers.cloudflare.com/reference-architecture/architectures/sase/) cu Cloudflare<br/> - [***Acces la aplicații private fără a fi nevoie să implementați agenți-client***](https://developers.cloudflare.com/reference-architecture/diagrams/sase/sase-clientless-access-private-dns/);
       - [*arhitecturi cu mai multi furnizori/vanzatori(eng.vendors)*](https://developers.cloudflare.com/reference-architecture/architectures/multi-vendor/);
