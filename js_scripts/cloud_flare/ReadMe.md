@@ -329,4 +329,4 @@ Sa spicuim cateva dintre titulurile care va pot retine atentia atunci cand studi
  - Ghid de proiectare - [Livrarea in siguranta a aplicatiei](https://developers.cloudflare.com/reference-architecture/design-guides/secure-application-delivery/),
  - ... si [exemplele](https://developers.cloudflare.com/reference-architecture/) pot continua...
 
-   Atunci cand vine vorba de planurile platite CF, veti vedea in acest [articol](https://seekingalpha.com/article/4523229-cloudflare-sometimes-premium-worth-paying) ca ["Uneori o prima merita platita"](https://seekingalpha.com/article/4523229-cloudflare-sometimes-premium-worth-paying).
+   Atunci cand vine vorba de planurile platite CF, veti vedea ca a investi in aceasta companie poate fi un pariu castigat(cine stie?)...aflati mai multe despre acest subiect in  [articolul](https://seekingalpha.com/article/4523229-cloudflare-sometimes-premium-worth-paying) intitulat sugestiv ["Uneori o prima merita platita"](https://seekingalpha.com/article/4523229-cloudflare-sometimes-premium-worth-paying).
