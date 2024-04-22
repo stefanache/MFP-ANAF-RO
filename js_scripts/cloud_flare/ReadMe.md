@@ -155,7 +155,7 @@ vizualizare/utilizare ulterioara, daca-l salvati/plasati pe desktop, ca un **shu
 iar **denumirea** sugerata/recomandata ar fi ***"Hello World - worker"***(sau cum *doriti* voi!)<br/>
             
 **--OBS--**: 
-    - pentru a vizualiza **codul generat** al ***sursei typescript*** care genereaza continutul HTML al proiectului: veti vedea ca in partea dreapta-sus, pe lina sus in dreptul meniului-paginii, aveti un link [**Edit source**](https://dash.cloudflare.com/2d482e04c26cae6ff3ada060d87c965d/workers/services/edit/hello/production) - click-ati si veti (re)vedea/regasi codul simplu generat al [lucratorului](https://hello.ion-stefanache.workers.dev/):
+    - pentru a vizualiza **codul generat** al ***sursei typescript*** care genereaza continutul HTML al proiectului: veti vedea ca in partea dreapta-sus, pe lina sus in dreptul meniului-paginii, aveti un link [**Edit source**](https://dash.cloudflare.com/)(navigand de fapt, pe ruta: workers->services->edit->hello->production) - click-ati si veti (re)vedea/regasi codul simplu generat al [lucratorului](https://hello.ion-stefanache.workers.dev/):
        
            // src/index.ts
            var src_default = {
@@ -311,7 +311,7 @@ iar **denumirea** sugerata/recomandata ar fi ***"Hello World - worker"***(sau cu
 <br/><a href="https://developers.cloudflare.com/queues/">Cateva aspecte cu privie la subiectul <b>Cloudflare <i>Queues</i></b></a>:
 <hr/>
 
-- Pentru a opera [trimiterea/transmiterea de mesaj/mesesaje](https://developers.cloudflare.com/queues/examples/send-messages-from-dash/)(desigur in coada de mesaje), direct(fara programare) din tabloul vostru de control / [***dashboard***](https://dash.cloudflare.com/2d482e04c26cae6ff3ada060d87c965d)-ul vostru, va trebui sa navigati din [dashboard](https://dash.cloudflare.com), pe calea **Workers & Pages** -> **Queues**;<br/>
+- Pentru a opera [trimiterea/transmiterea de mesaj/mesesaje](https://developers.cloudflare.com/queues/examples/send-messages-from-dash/)(desigur in coada de mesaje), direct(fara programare) din tabloul vostru de control / [***dashboard***](https://dash.cloudflare.com/)-ul vostru, va trebui sa navigati din [dashboard](https://dash.cloudflare.com), pe calea **Workers & Pages** -> **Queues**;<br/>
 - Daca doriti sa implementati cozi de mesaje in mod programatic, o puteti face din [**API**](https://developers.cloudflare.com/queues/reference/javascript-apis/)(spre ex. [***REST*** - **API**](https://developers.cloudflare.com/api/));<br/>
 - De asemenea, [**Cloudflare Queues**](https://developers.cloudflare.com/workers/) se integrează cu [**Cloudflare Workers**](https://developers.cloudflare.com/workers/) și vă permite să construiți aplicații care pot [***garanta livrarea***](https://developers.cloudflare.com/queues/reference/delivery-guarantees/) , sau pot permite [***descărcarea de lucru (d-/pr-)-intr-o cerere/solicitare***](https://developers.cloudflare.com/queues/reference/how-queues-works/) , [***trimiterea datelor de la lucrător la lucrător***](https://developers.cloudflare.com/queues/reference/configuration/) și este posibil sa lucrati cu [***date tampon sau loturi***](https://developers.cloudflare.com/queues/reference/batching-retries/).<br/>
 - Printre subiectele ce mi-au retinut atentia,in mod deosebit, si bineinteles legate de acest produs CF(al cozilor de mesaje/scrisori,) as  putea enumera/aminti cateva dintre ele: 
