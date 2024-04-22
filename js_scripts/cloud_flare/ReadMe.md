@@ -328,3 +328,5 @@ Sa spicuim cateva dintre titulurile care va pot retine atentia atunci cand studi
  - Conducte [**ETL**](https://developers.cloudflare.com/reference-architecture/diagrams/serverless/serverless-etl/) fără server,
  - Ghid de proiectare - [Livrarea in siguranta a aplicatiei](https://developers.cloudflare.com/reference-architecture/design-guides/secure-application-delivery/),
  - ... si [exemplele](https://developers.cloudflare.com/reference-architecture/) pot continua...
+
+   Atunci cand vine vorba de planurile platite CF, veti vedea in acest [articol](https://seekingalpha.com/article/4523229-cloudflare-sometimes-premium-worth-paying) ca ["Uneori o prima merita platita"](https://seekingalpha.com/article/4523229-cloudflare-sometimes-premium-worth-paying).
