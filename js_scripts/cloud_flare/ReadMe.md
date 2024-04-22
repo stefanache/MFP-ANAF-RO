@@ -292,7 +292,7 @@ iar **denumirea** sugerata/recomandata ar fi ***"Hello World - worker"***(sau cu
 <hr/>
 </details>
 
-   - - Pentru exemplul **worker+KV** puteti consulta acest [tutorial publicat in ***medium***](https://medium.com/velotio-perspectives/an-introduction-to-cloudflare-workers-and-cloudflare-kv-store-ad8c8abd5677)
+   - - Pentru exemplul **worker+KV** puteti consulta acest [tutorial gazduit de publicatia ***medium***](https://medium.com/velotio-perspectives/an-introduction-to-cloudflare-workers-and-cloudflare-kv-store-ad8c8abd5677)
    - - Aici gasiti o comparatie [**CF-R2** vs. **AWS-S3**](https://blog.stackademic.com/amazon-s3-vs-cloudflare-r2-a-2023-comparison-1ed688f0a513) pentru ***stocarea de obiecte***;
      Cloudflare Storage **R2**([**CF-R2**](https://developers.cloudflare.com/r2/))  - care(alaturi de KV!), permite dezvoltatorilor să stocheze cantități mari de [***date nestructurate***](https://developers.cloudflare.com/r2/api/workers/workers-api-usage/)(compatibile cu S3), fără taxele costisitoare de lățime de bandă de ieșire asociate cu serviciile tipice de stocare în cloud(puteti incerca acest [***exemplu R2-worker**](https://developers.cloudflare.com/r2/examples/demo-worker/).
 
