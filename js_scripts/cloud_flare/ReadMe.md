@@ -367,7 +367,7 @@ Atunci cand vine vorba de planurile platite CF sau de ce nu, cand vine vorba de 
 Este posibil ca pentru cei mai multi programatori, ecosistemul din jurul***Javascript**(***nodeJS***) sa fie suficient. <br/>Totusi, pentru aceia dintre voi, care doresc sa programeze in [***PhP***](https://www.cloudways.com/blog/connect-mysql-with-php/), puteti accesa, pentru instruire, aceste [**tutoriale**](https://blog.cloudflare.com/tag/php).<br/>
 Un alt exemplu,este combinatia **CF** +(si) **PhP** din acest [**failover**](https://a8dog.com/122md)<br/>
 Aceasta [***discutie***](https://community.cloudflare.com/t/cloudflare-load-balancing-sevices/357070) se refera la echilibrarea **LB-CF** in loc de **Nginx**<br/>
-[**Aici**](https://raspberrypibd.com/budget-friendly-self-hosting-raspberry-pi-on-your-home-network-with-cloudflare-tunnel/) aveti un tutorial despre [**Rpi**+**CF tunel**](https://raspberrypibd.com/budget-friendly-self-hosting-raspberry-pi-on-your-home-network-with-cloudflare-tunnel/)
+[**Aici**](https://raspberrypibd.com/budget-friendly-self-hosting-raspberry-pi-on-your-home-network-with-cloudflare-tunnel/) aveti un tutorial despre [**Rpi**+**CF tunel**](https://raspberrypibd.com/budget-friendly-self-hosting-raspberry-pi-on-your-home-network-with-cloudflare-tunnel/)<br/>
 Cu toate acestea ar fi bine sa tineti cont si de aceasta [nota/observatie](https://community.cloudflare.com/t/how-to-create-a-php-application-in-cloudflare-pages/252979)<br/>
 
 
