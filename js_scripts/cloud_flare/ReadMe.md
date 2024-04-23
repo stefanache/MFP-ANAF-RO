@@ -174,8 +174,7 @@ exista si puteti utiliza si alte metode - spre exemplu, utilizarea <b>curl</b>:
          src_default as default
        };
        //# sourceMappingURL=index.js.map
-
-
+<br/><hr/><br/>
 <details>
 <br/><b>Nota:</b>
 <hr/>
