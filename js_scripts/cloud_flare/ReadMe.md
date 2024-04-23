@@ -174,10 +174,10 @@ exista si puteti utiliza si alte metode - spre exemplu, utilizarea <b>curl</b>:
          src_default as default
        };
        //# sourceMappingURL=index.js.map
-<br/><hr/><br/>
+
+Referitor la posibilitatea locala de testare a functionarii worker-lui puteti deschide si citi **nota** urmatoare;<br/>
+(uneori poate ca ar fi bine sa verificati aceasta functionare, chiar inainte de publicarea worker-ului in cloud)
 <details>
-    Referitor la posibilitatea locala de testare a functionarii worker-lui puteti deschide si citi **nota** urmatoare;<br/>
-    (uneori poate ca ar fi bine sa verificati aceasta functionare, chiar inainte de publicarea worker-ului in cloud)
 <br/><b>Nota:</b>
 <hr/>
 - trebuie sa va spun ca pe local in directorul <b>src</b> veti gasi in fisierul <b>index.ts</b> :
