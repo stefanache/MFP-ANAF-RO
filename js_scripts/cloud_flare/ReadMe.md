@@ -393,4 +393,4 @@ In final, daca ne referim la PhP, probabil ca ar fi, de retinut,  urmatoarele:<b
  - referitor la [**MySQL**](https://github.com/nora-soderlund/cloudflare-mysql?tab=readme-ov-file) - puteti folosi de pilda, un worker [CF](https://www.ispmanager.com/docs/ispmanager/install-and-configure-the-cloudflare-module) care lucreaza pe o baza de date MySQL([CF worker + MySQL](https://github.com/cloudflare/worker-template-mysql?tab=readme-ov-file))(cititi si despre comparatia [worker-KV vs. MySQL](https://db-engines.com/en/system/Cloudflare+Workers+KV%3BCrateDB%3BMySQL);<br/>
    
 Cu toate acestea, referitor la programarea in ***Python*** - acest [tutorial](https://blog.cloudflare.com/python-workers) pentru un **worker** scris in **python**, poate fi totusi un exemplu elocvent, in privinta
-deschiderii **CF** si catre alte *limbaje de programare populare*(in afara de JS<sup>nodeJS</sup>)
+deschiderii **Cloudflare(CF)** si catre alte *limbaje de programare populare*(in afara de JS<sup>nodeJS</sup>)
