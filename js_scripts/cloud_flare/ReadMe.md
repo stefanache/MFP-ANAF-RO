@@ -39,7 +39,7 @@ Codul/scriptul exchivalent pentru acelasi exemplu, scris in **Typescript(index.t
       },
     } satisfies ExportedHandler;
 
-Iar codul/scriptul echivalent **Python(index.py)**, pentru acelasi exemplu, arata astfel:
+Iar codul/scriptul echivalent [**Python(index.py)**](https://blog.cloudflare.com/python-workers), pentru acelasi exemplu, arata astfel:
 
     from js import Response, Headers
     
@@ -57,7 +57,7 @@ Iar codul/scriptul echivalent **Python(index.py)**, pentru acelasi exemplu, arat
 
 Trebuie amintit si faptul ca planurile destinate dezvoltatorilor "**workers**"<sup>***CloudFlare*** sau ***KV***(baze de date extrem de performante bazate pe stocare: cheie-valoare)</sup>,"[**CF-pages***](https://developers.cloudflare.com/pages/tutorials/build-an-api-with-pages-functions/)" si "**R2**" va permite sa distribuiti/publicati cod "[**serverless**](https://www.cloudflare.com/plans/developer-platform/)"(fara server=direct din cloud)
 
-**Lucratorul**(de fapt codul/scriptul acestuia scris intr-unul dintre limbaje gazda: **JS**<sup>***nodeJS***</sup>, **Typescript** ori **Python**) poate fi gazduit in cloud-ul **CF** pentru a fi livrat via [***browser***](https://workers-playground-dawn-darkness-1140.ion-stefanache.workers.dev/).
+**Lucratorul**(de fapt codul/scriptul acestuia scris intr-unul dintre limbaje gazda: **JS**<sup>***nodeJS***</sup>, **Typescript** ori [**Python**](https://blog.cloudflare.com/python-workers)) poate fi gazduit in cloud-ul **CF** pentru a fi livrat via [***browser***](https://workers-playground-dawn-darkness-1140.ion-stefanache.workers.dev/).
 
 Codul unui lucrator poate fi editat si testat in [**playground**](https://workers.cloudflare.com/playground#LYVwNgLglgDghgJwgegGYHsHALQBM4RwDcABAEbogB2+CAngLzbPYDqApmQNJQQBimYACFKNRHQAyAEQAKAQQDMAeQDWAYTUAmAKKaAXgAY9AJQBcLFh268BWEdVqTZi1Rp36jxgLAAoNeioIdkDsKSgAZxh0cN4oANMSDCw8AmISKjhgdgYAIigadgAPADoAK3Cc0lQoMGDM7LyCkvKc339A4IhsABU6GHYEuBgYMCgAYwI4qmRSuAA3OHCxhFgIAGpgdFxwdl9fIqikElx2VDhwCBIAbx8SEkW6KjHE9ggxgAsACgR2AEcQdjhCAASmutzuJDGASBJHeEGAYBIDBIAAMADwAQikSjU3QAmjJtLD4WAAHw+ACQFLRFFwdHJVLuaPeAEZSQAJdhgMDoEisTBgXBo5CshkUpkwUndd4REjARAqEAwEgAd0WJAA5sF2AgCOxcOQ6PcSGoeSBcKgwIh2HzMCodcVhZLKdTkLT6SiiD5wXcfhAQAgqOl2CqSMZAVEqOF2J84QiADRgiEQ97sOAnBDhBI3ZPJnJQjohCB9dg5BI5IKFFBxsBED6IaMQBgAVW6fGwAA4cvGfRCAL495N94Feu4Dnx9r2+CzMKw8fiCexiejSeTKdRaXSGExtAJBEJhSLRWLxRKCFKEUgZLK5LKEfCESqJGp1G85Mg8sitPx7zo9EuDMMowTNAAQzOEAR7D4Vw5PK+QAPqbNstRlo0JzNBUfbTjOc42IuoiOKuLgbu427GMwvhAA)-ul CF dar si local folosind instrumentul-CLI(din shell/cmd.exe) oferit de catre CF [**wrangler**](https://developers.cloudflare.com/workers/wrangler/)<sup>necesita **npx**/nodeJS!</sup> iar cand sunt atinse/indeplinite obiectivele de dezvoltare codul/lucratorul poate fi [**implementat/distribuit/salvat/livrat**](https://dash.cloudflare.com/) in **cloud**-ul CF si apoi regasit in pagina dashboard(un fel de *Cpanel* specific *CF*) denumita ***Workers & pages***.
 
