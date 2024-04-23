@@ -394,3 +394,5 @@ In final, daca ne referim la PhP, probabil ca ar fi, de retinut,  urmatoarele:<b
    
 Cu toate acestea, referitor la programarea in ***Python*** - acest [tutorial](https://blog.cloudflare.com/python-workers) pentru un **worker** scris in **python**, poate fi totusi un exemplu elocvent, in privinta
 deschiderii **Cloudflare(CF)** (si) catre alte *limbaje de programare populare*(in afara de JS<sup>nodeJS</sup>)
+
+CF ofera suportul necesar pentru ca  voi la randul vostru, sa puteti oferi, clientilor vostrii, servicii la cheie **SaaS**( a se vedea [***Cloudflare for Platforms***](https://developers.cloudflare.com/cloudflare-for-platforms/) cu cele 2 componente ale sale : ***Cloudflare pentru SaaS(CFS)*** si ***Lucrători pentru Platforme(WFS)***)
