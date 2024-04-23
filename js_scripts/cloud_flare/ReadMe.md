@@ -373,6 +373,7 @@ Cu toate acestea, atunci cand intentionati sa ***gazduiti si sa rulati*** un sit
 In concluzie: CF este un ***CDN*** pentru rulare cod/pagini ***statice*** si prin urmare **PhP**-ul, cel putin deocamdata, nu poate fi decat ***acompaniat**  **nu si gazduit in vederea rularii** de catre **CF**; 
 Prin urmare ecosistemul CF, poate tine locul cu brio, aplicatiilor traditionale bazate pe PhP si MySQL; In schimb, (**doar**)in etapa de **construire**, pentru a [genera](https://developers.cloudflare.com/pages/configuration/build-configuration/#language-support-and-tools) **cod/continut static** puteti folosi instrument auxiliare<br/>
 Cu alte cuvinte, probabil ca exista/veti gasi **solutii de a interactiona** din codul PhP,Python,Java,Go....cu cloud-ul **CF** dar **rularea** acestora **nu** este nativa-**CF**, **ci** va trebui sa se desfasoare in mediul **extern** al cloud-ului;<br/> 
+
 In final, concluzia referitoare la PhP, ar fi, prin urmare urmatoarea:<br/>
  - daca aveti un "hosting" **PhP/MySQL**, cumparat,auto-gazduit sau rezident in cloud,  pe care doriti sa-l pastrati, <br/>atunci puteti utiliza **CF** pentru a imbunatati [**performanta** si **securitatea**](https://webmasters.stackexchange.com/questions/61068/how-can-cloudlfare-speed-up-php-mysql) acestuia(astfel lucrand in **tandem**, probabil veti/puteti obtine rezultatele scontate).<br/>
 
