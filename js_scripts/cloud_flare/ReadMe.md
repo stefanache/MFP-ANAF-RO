@@ -364,7 +364,7 @@ Sa spicuim cateva dintre titulurile care va pot retine atentia atunci cand studi
 
 Atunci cand vine vorba de planurile platite CF sau de ce nu, cand vine vorba de a investi in aceasta companie CF(uneori, poate fi un pariu castigat...cine stie?), [articolul](https://seekingalpha.com/article/4523229-cloudflare-sometimes-premium-worth-paying) intitulat sugestiv ["Uneori o prima merita platita"](https://seekingalpha.com/article/4523229-cloudflare-sometimes-premium-worth-paying) poate fi un sprijin in fundamentarea decizi-(-ei/-ilor).
 
-Este posibil ca pentru cei mai multi programatori, ecosistemul din jurul***Javascript**(***nodeJS***) sa fie suficient.<br/>
+Este posibil ca pentru cei mai multi dintre programatori, ecosistemul din jurul***Javascript**(***nodeJS***) sa fie suficient.<br/>
 Totusi, pentru aceia dintre voi, care doresc sa programeze in [***PhP***](https://www.cloudways.com/blog/connect-mysql-with-php/), puteti accesa, pentru instruire, aceste [**tutoriale**](https://blog.cloudflare.com/tag/php).<br/>
 Un alt exemplu,este combinatia **CF** +(si) **PhP** din acest [**failover**](https://a8dog.com/122md)<br/>
 Aceasta [***discutie***](https://community.cloudflare.com/t/cloudflare-load-balancing-sevices/357070) se refera la echilibrarea **LB-CF** in loc de **Nginx**<br/>
