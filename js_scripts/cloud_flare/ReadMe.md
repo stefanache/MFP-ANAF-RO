@@ -131,7 +131,7 @@ de pilda, daca aveti in directorul <b><i>D:\xampp\\htdocs\</i></b>, un <b>site</
    <pre> https://hello.ion-stefanache.workers.dev/</pre><br/><br/>
 
 -- 4.)  pentru a vedea depozitul respectiv(unde a fost instalat proiectul **Hello**), mergeti in [tabloul vostru de bord](https://dash.cloudflare.com/oauth2/auth?response_type=code&client_id=54d11594-84e4-41aa-b438-e81b8fa78ee7&redirect_uri=http%3A%2F%2Flocalhost%3A8976%2Foauth%2Fcallback&scope=account%3Aread%20user%3Aread%20workers%3Awrite%20workers_kv%3Awrite%20workers_routes%3Awrite%20workers_scripts%3Awrite%20workers_tail%3Aread%20d1%3Awrite%20pages%3Awrite%20zone%3Aread%20ssl_certs%3Awrite%20constellation%3Awrite%20ai%3Awrite%20queues%3Awrite%20offline_access&state=dXGqeTPuGnY5rW0ZahWDSb4nIFf.SfZK&code_challenge=fSPmYyB9p7qIhegLcxLqVxS2ET3GRWnK7cLYulRhHEs&code_challeng) din CloudFlare: ([CF-dashbord](https://dash.cloudflare.com/)),<br/>
-   si apoi dupa ce introduceti email-ul si parola contului dvs CF, navigati in meniul din stanga pe traseul:
+   si apoi dupa ce introduceti [email](https://digitalmarketingmind.com/cloudflare-email-routing-tutorial/)-ul si parola contului dvs CF, navigati in meniul din stanga pe traseul:
    <pre> Workers & Pages -> Overview </pre>
    si apoi in panoul din dreapta veti regasi proiectul "**hello**" publicat de dvs cu ajutorul lui wrangler;<br/>
    dati click pe proiectul  **hello** si apoi sus in meniul-orizontal al panoului dati click pe optiunea-de-meniu **Deployments**;<br/>
