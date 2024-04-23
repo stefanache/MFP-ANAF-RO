@@ -155,6 +155,8 @@ vizualizare/utilizare ulterioara, daca-l salvati/plasati pe desktop, ca un **shu
 iar **denumirea** sugerata/recomandata ar fi ***"Hello World - worker"***(sau cum *doriti* voi!)<br/>
             
 **--OBS--**: 
+    - mai intai de toate, trebuie mentionat si faptul ca, pentru verificarea de la distanta a functionarii codului/worker-ului, exista si puteti utiliza si alte metode(ex. **curl**: <br/>
+   <pre> C:\USERS\{UserName}> curl https://hello.{User}.workers.dev/</pre>)
     - pentru a vizualiza **codul generat** al ***sursei typescript*** care genereaza continutul HTML al proiectului: veti vedea ca in partea dreapta-sus, pe lina sus in dreptul meniului-paginii, aveti un link [**Edit source**](https://dash.cloudflare.com/)(navigand de fapt, pe ruta: workers->services->edit->hello->production) - click-ati si veti (re)vedea/regasi codul simplu generat al [lucratorului](https://hello.ion-stefanache.workers.dev/):
        
            // src/index.ts
@@ -271,7 +273,7 @@ iar **denumirea** sugerata/recomandata ar fi ***"Hello World - worker"***(sau cu
        }
        
 
-- exista posibilitatea sa **vedeti/testa si local** TEXT-ul generat, al proiectului Hello-World,
+- exista posibilitatea sa **vedeti/testa/verifica si local**( TEXT-ul generat de catre ) proiectul **Hello-World**,
   daca dati local comanda-CI(shell/cmd.exe), de rulare:
     
         <pre> C:\USERS\{User}\hello> npm run dev</pre>
