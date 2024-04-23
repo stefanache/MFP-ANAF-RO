@@ -156,7 +156,8 @@ iar **denumirea** sugerata/recomandata ar fi ***"Hello World - worker"***(sau cu
             
 **--OBS--**: 
 
-    - mai intai de toate, trebuie mentionat si faptul ca, pentru verificarea de la distanta a functionarii codului/worker-ului, exista si puteti utiliza si alte metode(ex. **curl**: <br/>
+    - mai intai de toate, trebuie mentionat si faptul ca, pentru verificarea de la distanta a functionarii codului/worker-ului, <br/>
+    exista si puteti utiliza si alte metode(ex. **curl**: <br/>
    <pre> C:\USERS\{UserName}> curl https://hello.{User}.workers.dev/</pre>)
     - pentru a vizualiza **codul generat** al ***sursei typescript*** care genereaza continutul HTML al proiectului: veti vedea ca in partea dreapta-sus, pe lina sus in dreptul meniului-paginii, aveti un link [**Edit source**](https://dash.cloudflare.com/)(navigand de fapt, pe ruta: workers->services->edit->hello->production) - click-ati si veti (re)vedea/regasi codul simplu generat al [lucratorului](https://hello.ion-stefanache.workers.dev/):
        
