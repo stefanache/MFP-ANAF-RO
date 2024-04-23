@@ -371,6 +371,6 @@ Aceasta [***discutie***](https://community.cloudflare.com/t/cloudflare-load-bala
 [**Aici**](https://raspberrypibd.com/budget-friendly-self-hosting-raspberry-pi-on-your-home-network-with-cloudflare-tunnel/) aveti un tutorial despre [**Rpi**+**CF tunel**](https://raspberrypibd.com/budget-friendly-self-hosting-raspberry-pi-on-your-home-network-with-cloudflare-tunnel/)<br/>
 Cu toate acestea, atunci cand intentionati sa ***gazduiti si sa rulati*** un site/cod **PhP** la **CF**, cred ca ar fi mai bine sa tineti cont, in primul rand/mai ales, de aceasta [**nota** / **observatie**](https://community.cloudflare.com/t/how-to-create-a-php-application-in-cloudflare-pages/252979).<br/>
 In concluzie: CF este un ***CDN*** pentru rulare cod/pagini ***statice*** si prin urmare **PhP**-ul, cel putin deocamdata, nu poate fi decat ***acompaniat**  **nu si gazduit in vederea rularii** de catre **CF**; 
-Prin urmare ecosistemul CF, poate tine locul cu brio, aplicatiilor traditionale bazate pe PhP si MySQL.<br/>
+Prin urmare ecosistemul CF, poate tine locul cu brio, aplicatiilor traditionale bazate pe PhP si MySQL; In schimb, (**doar**)in etapa de **construire**, pentru a [genera](https://developers.cloudflare.com/pages/configuration/build-configuration/#language-support-and-tools) **cod/continut static** puteti folosi un instrument auxiliar, cum este cazul **PhP**<br/>
 
 
