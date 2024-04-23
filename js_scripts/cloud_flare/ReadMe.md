@@ -368,6 +368,6 @@ Este posibil ca pentru cei mai multi programatori, ecosistemul din jurul***Javas
 Un alt exemplu,este combinatia **CF** +(si) **PhP** din acest [**failover**](https://a8dog.com/122md)<br/>
 Aceasta [***discutie***](https://community.cloudflare.com/t/cloudflare-load-balancing-sevices/357070) se refera la echilibrarea **LB-CF** in loc de **Nginx**<br/>
 [**Aici**](https://raspberrypibd.com/budget-friendly-self-hosting-raspberry-pi-on-your-home-network-with-cloudflare-tunnel/) aveti un tutorial despre [**Rpi**+**CF tunel**](https://raspberrypibd.com/budget-friendly-self-hosting-raspberry-pi-on-your-home-network-with-cloudflare-tunnel/)<br/>
-Cu toate acestea, atunci cand intentionati sa gazduiti un site/cod **PhP** la **CF**, cred ca ar fi mai bine sa tineti cont, in primul rand/mai ales, de aceasta [**nota** / **observatie**](https://community.cloudflare.com/t/how-to-create-a-php-application-in-cloudflare-pages/252979).<br/>
+Cu toate acestea, atunci cand intentionati sa ***gazduiti si sa rulati*** un site/cod **PhP** la **CF**, cred ca ar fi mai bine sa tineti cont, in primul rand/mai ales, de aceasta [**nota** / **observatie**](https://community.cloudflare.com/t/how-to-create-a-php-application-in-cloudflare-pages/252979).<br/>
 
 
