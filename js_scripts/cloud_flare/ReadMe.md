@@ -385,7 +385,7 @@ Cu toate acestea, atunci cand intentionati sa ***gazduiti si sa rulati*** un sit
 Daca doriti o apreciere mai ampla  cu privire la suportul oferit de catre **CF** pentru **limbajele de programare cunoscute/populare**, puteti deschide/citi detaliile urmatoare:
 
 <details>
-    <b>Cateva lucruri legate de suportul oferit de catre <i>CF</i> pentru <i>limbaje de programare populare</i><b>
+    <center><b>Cateva lucruri legate de suportul oferit de catre <i>CF</i> pentru <i>limbaje de programare populare</i><b></center>
 <hr/>
 
 Referitor la suportul-CF pt. PhP**: CF este un [***CDN***](https://www.geeksforgeeks.org/what-is-cloudflare/) pentru rulare cod/pagini/meta-date ***statice*** si prin urmare **PhP**-ul, cel putin deocamdata, nu poate fi decat ***acompaniat***  **nu si gazduit in vederea rularii** de catre **CF**; 
