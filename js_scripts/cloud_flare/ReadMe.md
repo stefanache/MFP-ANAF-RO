@@ -382,7 +382,7 @@ Totusi, pentru aceia dintre voi, care doresc sa programeze in [***PhP***](https:
 
 Cu toate acestea, atunci cand intentionati sa ***gazduiti si sa rulati*** un site/cod **PhP** la **CF**, cred ca ar fi mai bine sa tineti cont, in primul rand/mai ales, de aceasta [**nota** / **observatie**](https://community.cloudflare.com/t/how-to-create-a-php-application-in-cloudflare-pages/252979).<br/>
 <details>
-    ***Cateva lucruri legate de suportul oferit de catre Cf pentru limbaje de programare populare: JS, Wasm, PhP, Pyton,Java,Go,Rust...***
+    <b></b>Cateva lucruri legate de suportul oferit de catre Cf pentru limbaje de programare populare<b>
 <hr/>
 
 In concluzie: CF este un [***CDN***](https://www.geeksforgeeks.org/what-is-cloudflare/) pentru rulare cod/pagini/meta-date ***statice*** si prin urmare **PhP**-ul, cel putin deocamdata, nu poate fi decat ***acompaniat***  **nu si gazduit in vederea rularii** de catre **CF**; 
