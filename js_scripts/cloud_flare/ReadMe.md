@@ -85,6 +85,7 @@ Poate fi util sa consultati si repository oficial al [**CF**](https://github.com
    <sup>( dupa ce in prealabil ati urmat instructiunile de instalare a pachetului ***NodeJS*** incluzand [***npm*** si ***npx***](https://stackoverflow.com/questions/63676419/how-to-install-clouldflare-workers-site-cli-wrangler) si apoi a ***daemon***-ului pentru versiunea sistemului de operare pe care-l detineti, oferit de catre **Cloudflared** si denumit "***cloudflared.exe***",   )</sup>; <br/>
      [<h3>***Nota explicativa: pasi tunelare:***<sup>(pt cazul meu de utilizare: Windows 10 Pro(**W10Pro**)</sup>](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/do-more-with-tunnels/trycloudflare/)</h3>
 <details>
+    <summary><b>Pasi tunelare</b></summary>
     <hr/>
     -- 1.) dupa instalarea platformei <b>NodeJS</b>, urmeaza instalarea daemonului <b>Cloudflared</b>, care  se face/proceseaza prin comanda-CLI(din shell/<b>cmd.exe</b>), de forma urmatoare:<br/>
        <pre> C:\USERS\{UserName}> winget install --id Cloudflare.cloudflared</pre>
