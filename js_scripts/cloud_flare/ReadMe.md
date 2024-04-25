@@ -110,6 +110,7 @@ de pilda, daca aveti in directorul <b><i>D:\xampp\\htdocs\</i></b>, un <b>site</
      
      [<h3>***Nota explicativa: pasi creare si rulare lucrator/worker Hello-World***<sup>(pt cazul meu de utilizare: **W10Pro)**</sup>](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/do-more-with-tunnels/trycloudflare/)</h3>
 <details>
+    <summary><b>Pasi creare si rulare Worker</b></summary>
 <hr/>
     -- 1.) dupa instalarea platformei <b>NodeJS</b>, urmeaza <a href="https://developers.cloudflare.com/workers/wrangler/install-and-update/#install-wrangler">instalarea</a> / <a href="https://developers.cloudflare.com/workers/wrangler/install-and-update/#update-wrangler">actualizarea</a>  <a href="https://developers.cloudflare.com/workers/wrangler/"><b>Wrangler</b></a>, care  se face/proceseaza prin comanda-CLI(din shell/<b><i>cmd.exe</i></b>), de forma urmatoare:<br/>
         - instalarea <b>Wrangler</b>:
@@ -179,7 +180,7 @@ exista si puteti utiliza si alte metode - spre exemplu, utilizarea <b>curl</b>:
 Referitor la posibilitatea locala de testare a functionarii worker-lui puteti deschide si citi **nota** urmatoare;<br/>
 (uneori poate ca ar fi bine sa verificati aceasta functionare, chiar inainte de publicarea worker-ului in cloud)
 <details>
-<br/><b>Nota:</b>
+<summary><b>Nota</b></summary>
 <hr/>
 - trebuie sa va spun ca pe local in directorul <b>src</b> veti gasi in fisierul <b>index.ts</b> :
 
