@@ -380,7 +380,7 @@ Totusi, pentru aceia dintre voi, care doresc sa programeze in [***PhP***](https:
 - acest  [**set de tutoriale**](https://blog.cloudflare.com/tag/php).<br/>
 - un alt exemplu,este combinatia **CF** +(si) **PhP** din acest [**failover**](https://a8dog.com/122md)<br/>
 - aceasta [***discutie***](https://community.cloudflare.com/t/cloudflare-load-balancing-sevices/357070) se refera la echilibrarea [**LB-CF**](https://developers.cloudflare.com/load-balancing/additional-options/) (in loc de **Nginx**)<br/>
-- [**aici**](https://raspberrypibd.com/budget-friendly-self-hosting-raspberry-pi-on-your-home-network-with-cloudflare-tunnel/) aveti un tutorial despre [**Rpi**+**CF tunel**](https://raspberrypibd.com/budget-friendly-self-hosting-raspberry-pi-on-your-home-network-with-cloudflare-tunnel/); un alt tutorial [**Rpi**](https://apexlemons.com/devops/ultimate-home-lab-dynamic-ips-cloudflare-nginx-proxy-manager/)(IP-uri dinamice, CF și NPM)<br/>
+- [**aici**](https://raspberrypibd.com/budget-friendly-self-hosting-raspberry-pi-on-your-home-network-with-cloudflare-tunnel/) aveti un tutorial despre [**Rpi**+**CF tunel**](https://raspberrypibd.com/budget-friendly-self-hosting-raspberry-pi-on-your-home-network-with-cloudflare-tunnel/); un alt tutorial [**Rpi**](https://apexlemons.com/devops/ultimate-home-lab-dynamic-ips-cloudflare-nginx-proxy-manager/)(IP-uri dinamice, ***CF*** și NPM)<br/>
 
 Cu toate acestea, atunci cand intentionati sa ***gazduiti si sa rulati*** un site/cod **PhP** la **CF**, cred ca ar fi mai bine sa tineti cont, in primul rand/mai ales, de aceasta [**nota** / **observatie**](https://community.cloudflare.com/t/how-to-create-a-php-application-in-cloudflare-pages/252979).<br/>
 
