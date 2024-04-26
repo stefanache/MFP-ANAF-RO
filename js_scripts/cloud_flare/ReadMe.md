@@ -1,7 +1,7 @@
 
 Voi incerca sa relatez cate [ceva](https://developers.cloudflare.com/) despre [produsele](https://developers.cloudflare.com/products/)<sup>(eng: products)</sup> [**CloudFlare(CF)**](https://developers.cloudflare.com/learning-paths/get-started/concepts/what-is-cloudflare/)(din perspectiva [dezvoltatorilor](https://developers.cloudflare.com)!!!).
 
-CF ofera o paleta larga de produse dar accentul/focusul va fi pus pe [**lucratorii-CF**](https://developers.cloudflare.com/workers/)(pentru inceput, dar nu numai[!!!](https://developers.cloudflare.com/products/)).
+[CF](https://developers.cloudflare.com/style-guide/documentation-content-strategy/component-attributes/reference-diagram/) ofera o paleta larga de produse dar accentul/focusul va fi pus pe [**lucratorii-CF**](https://developers.cloudflare.com/workers/)(pentru inceput, dar nu numai[!!!](https://developers.cloudflare.com/products/)).
 
 Iata un simplu cod/scriptul **Javascript(index.js)**<sup>***nodeJS***</sup> de [lucrator](https://developers.cloudflare.com/workers/examples/return-html/)<sup>asincron</sup> - care **returneaza/genereaza/afiseaza cod HTML** in vederea afisarii in browser-ul dvs:
 
