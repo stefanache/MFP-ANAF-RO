@@ -118,7 +118,8 @@ de pilda, daca aveti in directorul <b><i>D:\xampp\\htdocs\</i></b>, un <b>site</
         - actualizarea <b>Wrangle</b>-ului:           
        <pre> C:\USERS\{UserName}> npm install wrangler@latest</pre>
         - pentru a verifica versiunea <b>Wrangler</b>-ului:
-       <pre> C:\USERS\{UserName}> npx wrangler --version</pre> sau/si    <pre> C:\USERS\{UserName}> npm wrangler --version</pre> (in loc de --version puteti folosi varianta scurta: <b>-v</b>)
+       <pre> C:\USERS\{UserName}> npx wrangler --version</pre> sau/si    <pre> C:\USERS\{UserName}> npm wrangler --version</pre> (in loc de <b>--version</b> puteti folosi varianta scurta: <b>-v</b>)
+    
        Comenizile wrangler le puteti gasi <a href="https://developers.cloudflare.com/workers/wrangler/commands/">aici</a>!<br/><br/>
 
 -- 2.) urmeaza crearea proiectului cu comanda:
