@@ -628,6 +628,7 @@ Legat de un proiect mai vechi "[e-Documents](https://www.avocatnet.ro/articol_65
 
  ## 6. [**GOV; Baza legala**](https://static.anaf.ro/static/10/Anaf/legislatie/Cod_fiscal_norme_2023.htm)
 <details>
+
 Unele acte normative le gasiti pe portalul [Guvernului(GOV)](https://gov.ro/fisiere/subpagini_fisiere/NF_OUG_120-2021.docx) dar mare parte din ele au un caracter general si explica mai mult strategia de [e-Guvernare](https://www.e-guvernare.ro/) .
 
 O alta parte de informatii legate de baza legala se regases pe site-ul MFP. Dar si acestea sunt oarecum cu caracter general.
