@@ -5,3 +5,5 @@ Un alt articol, de aceasta data ceva mai tehnic puteti gasi pe acest portal al c
 Informatii sespre generarea eFactura pot fi gasite pe site-ul [facturis](https://facturis-online.ro/e-factura/cum-sa-emiteti-singur-facturi-electronice-in-sistemul-anaf-ro-e-factura.html)
 
 Cate ceva despre specificatille de utilizare a facturilor [CIUS](https://github.com/CenPC434/cius-extension-xml/tree/master); Aici gasiti si ceva exemple de specificatii nationale(Austria,Germania...); Un CIUS specifica regulile specifice unei tari sau alteia in materie de conformitate a facturii electronice;
+
+Baza generarii facturilor conforme cu RO-CIUS o veti gasi desigur pe site-ul [ANAF](https://mfinante.gov.ro/web/efactura/informatii-tehnice)
