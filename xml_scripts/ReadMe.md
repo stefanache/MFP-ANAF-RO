@@ -24,7 +24,7 @@ Daca veti selecta setul de reguli <i>UBL Invoice 2.1</i> si veti incarca acest f
 
 Daca doriti sa vedeti cum lucreaza validatorul-Peppol in mod [practic](https://www.gsis.gr/sites/default/files/eInvoice/Instructions%20to%20B2G%20Suppliers%20and%20certified%20PEPPOL%20Providers%20for%20the%20Greek%20PEPPOL%20BIS-EN-%20v1.0.pdf) atunci o puteti face vizitand site-ul [urmator](https://ionite.net/news-articles/2023-08-17_validating_peppol_documents/).
 
-Un validator pentru reguli furnizate in format <b>schematron</b>(<i>dar nu numai!</i>) este si acest HTTP micro-service [<b>ion-docval</b>](https://ion-docval.ionite.net/about/introduction/)(desi nu l-am testat cred ca merita testat!!!)
+Un validator XSLT bazat pe java pentru reguli furnizate in format <b>schematron</b>(<i>dar nu numai!</i>) este si acest HTTP micro-service [<b>ion-docval</b>](https://ion-docval.ionite.net/about/introduction/)(desi nu l-am testat cred ca merita testat!!!)
 
 Pe site-ul [UE](https://www.vatupdate.com/2023/12/17/guide-on-the-use-of-the-national-electronic-invoicing-system-ro-e-invoice-english-translation/) mai gasiti cateva informatii interesante despre [eInvoicing-ul](https://ec.europa.eu/digital-building-blocks/sites/display/DIGITAL/eInvoicing+in+Romania) din Romania.
 
