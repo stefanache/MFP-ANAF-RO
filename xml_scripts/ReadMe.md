@@ -1,5 +1,6 @@
 Iata un model de [factura](https://ro-efactura.ro/wp-content/uploads/2023/11/Model-factura-XML-NrReg-001.xml) [xml](https://www.w3schools.com/xml/xml_tree.asp).
-Factura aceasta este un simplu exemplu de factura pentru care s-a utilizat formatul de prezentare UBL versiunea 2.1(il gasiti in fisieul eFactura_example.xml)
+
+Factura aceasta este un simplu exemplu de factura-xml pentru care s-a utilizat formatul de prezentare UBL versiunea 2.1(il gasiti in fisieul [eFactura_example.xml](xml_scripts/eFactura_example.xml))
 
 O scurta prezentare a sistemului eFactura o puteti gasi pe website-ul [e-factura-xml.ro](https://www.e-factura-xml.ro/);
 
