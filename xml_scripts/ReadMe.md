@@ -24,4 +24,6 @@ Daca veti selecta setul de reguli <i>UBL Invoice 2.1</i> si veti incarca acest f
 
 Pe site-ul [UE](https://www.vatupdate.com/2023/12/17/guide-on-the-use-of-the-national-electronic-invoicing-system-ro-e-invoice-english-translation/) mai gasiti cateva informatii interesante despre [eInvoicing-ul](https://ec.europa.eu/digital-building-blocks/sites/display/DIGITAL/eInvoicing+in+Romania) din Romania.
 
+[Billit](https://www.billit.eu/en-int/peppol-access-point/anaf-e-invoicing-in-romania/) prezinta de asemena cateva link-uri utile(daca nu cumva ati aflat de existenta lor deja!)
+
 
