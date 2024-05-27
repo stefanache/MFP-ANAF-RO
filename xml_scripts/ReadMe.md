@@ -8,6 +8,6 @@ Cate ceva despre specificatille de utilizare a facturilor [CIUS](https://github.
 
 Baza generarii facturilor conforme cu RO-CIUS o veti gasi desigur pe site-ul [ANAF](https://mfinante.gov.ro/web/efactura/informatii-tehnice) si pe site-ul [MFP](https://mfinante.gov.ro/web/efactura); 
 
-Pe site-ul UE mai gasiti cate ceva despre [eInvoincing](https://ec.europa.eu/digital-building-blocks/sites/display/DIGITAL/eInvoicing+in+Romania) in Romania.
+Pe site-ul UE mai gasiti cate ceva despre [eInvoicing](https://ec.europa.eu/digital-building-blocks/sites/display/DIGITAL/eInvoicing+in+Romania) in Romania.
 
 Iata un model de [factura xml](https://ro-efactura.ro/wp-content/uploads/2023/11/Model-factura-XML-NrReg-001.xml)
