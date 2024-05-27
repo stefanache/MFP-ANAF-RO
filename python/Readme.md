@@ -20,3 +20,6 @@ Pentru cei care doresc sa caute date pe data.gov.ro(ckan) pot studia mai intai a
 Exista si un [downloader](https://github.com/deathy/data-gov-ro-data-download) pt [data.gov.ro/CKAN](https://data.gov.ro/en/dataset?q=&tags=lista&res_format=xlsx&sort=metadata_modified+desc), script scris in python( si acest [repository](https://github.com/sanand0/data.gov.in) chiar daca este pentru India ci nu pt Romania, poate fi desigur un model pt voi in incercarea de a descarca datele de care aveti nevoie).
 
 Iata aici am gasit un depozit care [listeaza primariile](https://github.com/vimishor/dataset-primarii) din Romania.
+
+Puteti accesa acest [depozit](https://github.com/petre-renware/api_to_roefact) ce prezinta un sistem de facturare scris in pyton folosind excel,
+pentru a va completa informatiile cu privire la sistemul eFactura.
