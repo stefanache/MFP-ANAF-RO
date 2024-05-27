@@ -8,7 +8,7 @@ Cate ceva despre specificatille de utilizare a facturilor [CIUS](https://github.
 
 Baza generarii facturilor conforme cu [RO-CIUS](https://mfinante.gov.ro/documents/35673/1120722/ordin1366_MO10658112021.pdf) o veti gasi desigur pe site-ul [ANAF](https://mfinante.gov.ro/web/efactura/informatii-tehnice) si pe site-ul [MFP](https://mfinante.gov.ro/web/efactura); 
 
-Cei de la ANAF au ales [schematron](hat.openai.com/auth/login)(o alternativa la XSD) pentru prezentarea regulilor [CIUS_RO](https://mfinante.gov.ro/documents/35673/1120722/ordin1366_MO10658112021.pdf)
+Cei de la ANAF au ales [schematron]([hat.openai.com/auth/login](https://hotfox.ro/forum/viewtopic.php?t=94&start=10))(o alternativa la XSD) pentru prezentarea regulilor [CIUS_RO](https://mfinante.gov.ro/documents/35673/1120722/ordin1366_MO10658112021.pdf)
 
 Pe site-ul [UE](https://www.vatupdate.com/2023/12/17/guide-on-the-use-of-the-national-electronic-invoicing-system-ro-e-invoice-english-translation/) mai gasiti cate ceva despre [eInvoicing](https://ec.europa.eu/digital-building-blocks/sites/display/DIGITAL/eInvoicing+in+Romania) in Romania.
 
