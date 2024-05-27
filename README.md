@@ -489,6 +489,8 @@ Si [buna practica a unor provideri de suport fiscal](https://www.docs.nexuserp.r
 
 Cei de la [fiscalitatea.ro](https://www.fiscalitatea.ro/) mi-au transmis si [Noutatile legislative din Codul fiscal aduse de L296/293](https://media.rs.ro/filemanagerraport/Fiscalitatea/Raport_special_NOUTATILE_din_CODUL_FISCAL_aduse_de_Legea_296.pdf)
 (Ei au si un ghid complet orientat pe baza legala aferenta [eFactura](https://www.fiscalitatea.ro/e-factura-2024-ghid-complet-23143/))
+
+Acest articol al celor de la [factureaza.ro](https://factureaza.ro/e-factura) va poate constitui o bna sursa de informare.
 </details>
 
  ## 3. [**eTransport**](https://mfinante.gov.ro/ro/web/etransport)
