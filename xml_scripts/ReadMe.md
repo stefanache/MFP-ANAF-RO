@@ -22,6 +22,8 @@ Acest motor a fost initial dezvoltat de catre cei care administraza [reteaua](ht
 
 Daca veti selecta setul de reguli <i>UBL Invoice 2.1</i> si veti incarca acest fisier [eFactura_example.xml](xml_scripts/eFactura_example.xml) pe instanta web/online a acestui [validator](https://ecosio.com/en/peppol-and-xml-document-validator/) veti vedea ca exemplul este [validat cu succes](https://ademico-software.com/peppol-tools-api/#section/Authentication).
 
+Daca doriti sa vedeti cum lucreaza validatorul-Peppol in mod practic atunci o puteti face vizitand site-ul [urmator](https://factureaza.ro/documentatie-api-v1).
+
 Pe site-ul [UE](https://www.vatupdate.com/2023/12/17/guide-on-the-use-of-the-national-electronic-invoicing-system-ro-e-invoice-english-translation/) mai gasiti cateva informatii interesante despre [eInvoicing-ul](https://ec.europa.eu/digital-building-blocks/sites/display/DIGITAL/eInvoicing+in+Romania) din Romania.
 
 [Billit](https://www.billit.eu/en-int/peppol-access-point/anaf-e-invoicing-in-romania/) prezinta de asemena cateva link-uri utile(daca nu cumva ati aflat de existenta lor deja!)
