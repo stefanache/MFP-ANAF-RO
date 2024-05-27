@@ -20,7 +20,7 @@ Un astel de [motor java de validare](https://github.com/phax/phive) este si [phi
 
 Acest motor a fost initial dezvoltat de catre cei care administraza [reteaua](https://ecosio.com/en/blog/connecting-to-peppol-via-api-what-are-the-benefits/) internationala de transmitere a <b>eDocument</b><i>elor</i> <b>[Peppol](https://ecosio.com/en/peppol-and-xml-document-validator/)</b>; 
 
-Daca veti selecta setul de reguli <i>UBL Invoice 2.1</i> si veti incarca acest fisier [eFactura_example.xml](xml_scripts/eFactura_example.xml) pe instanta online a acestui [validator](https://ecosio.com/en/peppol-and-xml-document-validator/) veti vedea ca exemplul este validat cu succes.
+Daca veti selecta setul de reguli <i>UBL Invoice 2.1</i> si veti incarca acest fisier [eFactura_example.xml](xml_scripts/eFactura_example.xml) pe instanta online a acestui [validator](https://ecosio.com/en/peppol-and-xml-document-validator/) veti vedea ca exemplul este [validat cu succes](https://ademico-software.com/peppol-tools-api/#section/Authentication).
 
 Pe site-ul [UE](https://www.vatupdate.com/2023/12/17/guide-on-the-use-of-the-national-electronic-invoicing-system-ro-e-invoice-english-translation/) mai gasiti cateva informatii interesante despre [eInvoicing-ul](https://ec.europa.eu/digital-building-blocks/sites/display/DIGITAL/eInvoicing+in+Romania) din Romania.
 
