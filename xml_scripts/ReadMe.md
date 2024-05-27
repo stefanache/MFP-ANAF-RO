@@ -10,6 +10,8 @@ Baza generarii facturilor conforme cu [RO-CIUS](https://mfinante.gov.ro/document
 
 Cei de la ANAF au ales [schematron](https://hotfox.ro/forum/viewtopic.php?t=94&start=10)(o alternativa la [XSD](https://www.w3schools.com/xml/schema_intro.asp)) pentru prezentarea regulilor [CIUS_RO](https://mfinante.gov.ro/documents/35673/1120722/ordin1366_MO10658112021.pdf)
 
+Motorul [phive](https://github.com/phax/phive-rules/tree/master) utilizeaza seturile de reguli nationale printre care si CIUS-RO.
+
 Pe site-ul [UE](https://www.vatupdate.com/2023/12/17/guide-on-the-use-of-the-national-electronic-invoicing-system-ro-e-invoice-english-translation/) mai gasiti cate ceva despre [eInvoicing](https://ec.europa.eu/digital-building-blocks/sites/display/DIGITAL/eInvoicing+in+Romania) in Romania.
 
 Iata un model de [factura](https://ro-efactura.ro/wp-content/uploads/2023/11/Model-factura-XML-NrReg-001.xml) [xml](https://www.w3schools.com/xml/xml_tree.asp)
