@@ -1197,6 +1197,6 @@ De asemenea, cateva informatii utile referitoare la **D-395** pot fi gasite tot 
 
 Nu uitati informatii oficiale despre serviciile web **ANAF** gasiti in articolul intitulat [***Prezentare servicii web pentru Sistemul national privind factura electronica RO e-Factura***](https://mfinante.gov.ro/static/10/eFactura/prezentare%20apeluri%20API%20E-factura.pdf);
 
-Daca nu aveti mai mult de 5 facturi pe luna si doriti sa accesati un serviciu gratuit direct din api-ul dvs. PhP atunci puteti incerca [factureaza.ro](https://factureaza.ro/documentatie-api-v1)
-
+Daca nu aveti mai mult de 5 facturi pe luna si doriti sa accesati un serviciu gratuit direct din api-ul dvs. PhP atunci puteti incerca [factureaza.ro](https://factureaza.ro/documentatie-api-v1);
+Chiar daca nu veti folosi acest serviciu, apelurile cURL si desigur raspunsurile acestora pot constitui un model util de abordare a subiectului eFactura;
 
