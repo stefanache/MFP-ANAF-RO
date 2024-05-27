@@ -1,3 +1,5 @@
+Iata un model de [factura](https://ro-efactura.ro/wp-content/uploads/2023/11/Model-factura-XML-NrReg-001.xml) [xml](https://www.w3schools.com/xml/xml_tree.asp)
+
 O scurta prezentare a sistemului eFactura o puteti gasi pe website-ul [e-factura-xml.ro](https://www.e-factura-xml.ro/);
 
 Un alt articol, de aceasta data ceva mai tehnic puteti gasi pe acest portal al celor de la [storecove](https://www.storecove.com/blog/en/creating-your-own-ubl-invoice/?unbounce_brid=1716810954_6341546_59badda9e9ec63bce33b0a5dd7f4cad5)
@@ -15,4 +17,4 @@ Un astel de [motor java de validare](https://github.com/phax/phive) este si [phi
 
 Pe site-ul [UE](https://www.vatupdate.com/2023/12/17/guide-on-the-use-of-the-national-electronic-invoicing-system-ro-e-invoice-english-translation/) mai gasiti cate ceva despre [eInvoicing](https://ec.europa.eu/digital-building-blocks/sites/display/DIGITAL/eInvoicing+in+Romania) in Romania.
 
-Iata un model de [factura](https://ro-efactura.ro/wp-content/uploads/2023/11/Model-factura-XML-NrReg-001.xml) [xml](https://www.w3schools.com/xml/xml_tree.asp)
+
