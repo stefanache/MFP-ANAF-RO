@@ -18,7 +18,7 @@ Pe partea de validare ANAF-ul utilizeaza schematron impreuna cu limbajul Java;
 
 Un astel de [motor java de validare](https://github.com/phax/phive) este si [phive](https://github.com/phax/phive-rules/tree/master) care utilizeaza seturile de reguli nationale printre care si CIUS-RO. 
 
-Acest motor a fost initial dezvoltat de ceei ce administraza [reteaua](https://ecosio.com/en/blog/connecting-to-peppol-via-api-what-are-the-benefits/) internationala de transmitere a <b>eDocument</b><i>elor</i> <b>[Peppol](https://ecosio.com/en/peppol-and-xml-document-validator/)</b>; 
+Acest motor a fost initial dezvoltat de catre cei care administraza [reteaua](https://ecosio.com/en/blog/connecting-to-peppol-via-api-what-are-the-benefits/) internationala de transmitere a <b>eDocument</b><i>elor</i> <b>[Peppol](https://ecosio.com/en/peppol-and-xml-document-validator/)</b>; 
 
 Daca veti selecta setul de reguli <i>UBL Invoice 2.1</i> si veti incarca acest fisier [eFactura_example.xml](xml_scripts/eFactura_example.xml) pe instanta online a acestui [validator](https://ecosio.com/en/peppol-and-xml-document-validator/) veti vedea ca exemplul este validat cu succes.
 
