@@ -31,7 +31,7 @@ Acest validator se poate utiliza pentru a valida un fisier ce contine factura xm
   
   Rezultatul final este un document <b>SVRL</b>(Schematron Validation Report Language) care descrie orice probleme de validare găsite. "
 
-Tot in acest depozit veti regasi si validatorul Java [CIUS_ROValidation.java](https://github.com/phax/phive-rules/blob/master/phive-rules-cius-ro/src/main/java/com/helger/phive/ciusro/CIUS_ROValidation.java) care utilizeaza resursa <b>ROeFactura-UBL-validation-Invoice_v1.0.8.xslt</b>;
+<i><b>OBS:</b></i> Tot in acest depozit veti regasi si validatorul Java [CIUS_ROValidation.java](https://github.com/phax/phive-rules/blob/master/phive-rules-cius-ro/src/main/java/com/helger/phive/ciusro/CIUS_ROValidation.java) care utilizeaza resursa <b>ROeFactura-UBL-validation-Invoice_v1.0.8.xslt</b>;
 
 
 Daca doriti sa vedeti cum lucreaza validatorul-Peppol in mod [practic](https://www.gsis.gr/sites/default/files/eInvoice/Instructions%20to%20B2G%20Suppliers%20and%20certified%20PEPPOL%20Providers%20for%20the%20Greek%20PEPPOL%20BIS-EN-%20v1.0.pdf) atunci o puteti face vizitand site-ul [urmator](https://ionite.net/news-articles/2023-08-17_validating_peppol_documents/).
