@@ -31,6 +31,9 @@ Acest validator se poate utiliza pentru a valida un fisier ce contine factura xm
   
   Rezultatul final este un document <b>SVRL</b>(Schematron Validation Report Language) care descrie orice probleme de validare găsite. "
 
+Tot in acest depozit veti regasi si validatorul Java [CIUS_ROValidation.java](https://github.com/phax/phive-rules/blob/master/phive-rules-cius-ro/src/main/java/com/helger/phive/ciusro/CIUS_ROValidation.java) care utilizeaza resursa <b>ROeFactura-UBL-validation-Invoice_v1.0.8.xslt</b>;
+
+
 Daca doriti sa vedeti cum lucreaza validatorul-Peppol in mod [practic](https://www.gsis.gr/sites/default/files/eInvoice/Instructions%20to%20B2G%20Suppliers%20and%20certified%20PEPPOL%20Providers%20for%20the%20Greek%20PEPPOL%20BIS-EN-%20v1.0.pdf) atunci o puteti face vizitand site-ul [urmator](https://ionite.net/news-articles/2023-08-17_validating_peppol_documents/).
 
 Un validator [XSLT](https://ion-docval.ionite.net/javadoc/1.0/)(bazat pe Java dar construit si pt medii non-Java) pentru reguli furnizate in format <b>schematron</b>(<i>dar nu numai!</i>) este si acest HTTP micro-service local [<b>ion-docval</b>](https://ion-docval.ionite.net/about/introduction/)(desi nu l-am testat cred ca merita testat!!!).Software-ul functioneaza in paradigma [client-server](https://github.com/ionite/ion-docval) si inlude/admite clienti diversi: XSLT,Python,Java si CLI/shell(.bat); Exista chiar si o varianta [online](https://test.peppolautoriteit.nl/validate) pe care o puteti incerca rapid fara a fi nevoie de a instala vreo componenta;Desigur dupa instalare va fi nevoie de configurare in conformitate cu regulile comune(EN16931,UBL 2.1,...) armonizate si cu cele de specific national(RO), reglementate de catre autoritatea noastra fiscala: [MFP-ANAF](https://test.peppolautoriteit.nl/validate));
