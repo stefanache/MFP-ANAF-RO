@@ -26,7 +26,9 @@ In depozitul github <b>phive</b> urmand calea <b>phive-rules-cius-ro/src/main/re
 <b>ROeFactura-UBL-validation-Invoice_v1.0.8.xslt</b>; 
 
 Acest validator se utilizraza pentru a valida un fisier ce contine factura xml in [2 pasi](https://stackoverflow.com/questions/57355078/how-to-validate-an-xml-using-a-sch-in-java-or-javascript):
+
 " Procesul transformă schema Schematron într-un document XSL, apoi folosește acel document XSL pentru a transforma documentul pe care încercați să îl validați.
+  
   Rezultatul final este un document SVRL (Schematron Validation Report Language) care descrie orice probleme de validare găsite. "
 
 Daca doriti sa vedeti cum lucreaza validatorul-Peppol in mod [practic](https://www.gsis.gr/sites/default/files/eInvoice/Instructions%20to%20B2G%20Suppliers%20and%20certified%20PEPPOL%20Providers%20for%20the%20Greek%20PEPPOL%20BIS-EN-%20v1.0.pdf) atunci o puteti face vizitand site-ul [urmator](https://ionite.net/news-articles/2023-08-17_validating_peppol_documents/).
