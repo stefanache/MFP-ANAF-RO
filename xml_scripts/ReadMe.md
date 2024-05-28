@@ -40,6 +40,8 @@ Un validator [XSLT](https://ion-docval.ionite.net/javadoc/1.0/)(bazat pe Java da
 
 Desigur varianta oficiala MFP-ANAF pentru validarea eFacturii-xml ramane acest [validator online](https://www.anaf.ro/uploadxmi/) iar pentru restul documentelor(declaratii etc) ramane [DUKintegrator](https://static.anaf.ro/static/DUKIntegrator/DUKIntegrator.htm).
 
+Puteti de asemenea folosi [serviciile web ale ANAF](https://mfinante.gov.ro/web/efactura/informatii-tehnice) documentate cu swagger.
+
 Pe site-ul [UE](https://www.vatupdate.com/2023/12/17/guide-on-the-use-of-the-national-electronic-invoicing-system-ro-e-invoice-english-translation/) mai gasiti cateva informatii interesante despre [eInvoicing-ul](https://ec.europa.eu/digital-building-blocks/sites/display/DIGITAL/eInvoicing+in+Romania) din Romania.
 
 [Billit](https://www.billit.eu/en-int/peppol-access-point/anaf-e-invoicing-in-romania/) prezinta de asemena cateva link-uri utile(daca nu cumva ati aflat de existenta lor deja!)
