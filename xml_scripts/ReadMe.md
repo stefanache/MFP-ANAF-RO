@@ -25,7 +25,7 @@ Daca veti selecta setul de reguli <i>UBL Invoice 2.1</i> si veti incarca acest f
 In depozitul github [<b>phive</b>](https://github.com/phax/phive-rules/tree/master) urmand calea [<b>phive-rules-cius-ro/src/main/resources/external/schematron/1.0.8</b>](https://github.com/phax/phive-rules/tree/master/phive-rules-cius-ro/src/main/resources/external/schematron/1.0.8) veti gasi validatorul schematron 
 <b>ROeFactura-UBL-validation-Invoice_v1.0.8.xslt</b>; 
 
-Acest validator se utilizraza pentru a valida un fisier ce contine factura xml in [2 pasi](https://stackoverflow.com/questions/57355078/how-to-validate-an-xml-using-a-sch-in-java-or-javascript):
+Acest validator se poate utiliza pentru a valida un fisier ce contine factura xml in [2 pasi](https://stackoverflow.com/questions/57355078/how-to-validate-an-xml-using-a-sch-in-java-or-javascript):
 
 " Procesul transformă schema Schematron într-un document XSL, apoi folosește acel document XSL pentru a transforma documentul pe care încercați să îl validați.
   
