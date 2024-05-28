@@ -27,7 +27,7 @@ In depozitul github [<b>phive</b>](https://github.com/phax/phive-rules/tree/mast
 
 Acest validator se poate utiliza pentru a valida un fisier ce contine factura xml in [2 pasi](https://stackoverflow.com/questions/57355078/how-to-validate-an-xml-using-a-sch-in-java-or-javascript):
 
-" Procesul transformă schema Schematron într-un document XSL, apoi folosește acel document XSL pentru a transforma documentul pe care încercați să îl validați.
+" Procesul transformă schema Schematron într-un document <b>XSL</b>, apoi folosește acel document XSL pentru a transforma documentul pe care încercați să îl validați.
   
   Rezultatul final este un document <b>SVRL</b>(Schematron Validation Report Language) care descrie orice probleme de validare găsite. "
 
