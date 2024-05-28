@@ -22,7 +22,7 @@ Acest motor a fost initial dezvoltat de catre cei care administraza [reteaua](ht
 
 Daca veti selecta setul de reguli <i>UBL Invoice 2.1</i> si veti incarca acest fisier [eFactura_example.xml](xml_scripts/eFactura_example.xml) pe instanta web/online a acestui [validator](https://ecosio.com/en/peppol-and-xml-document-validator/) veti vedea ca exemplul este [validat cu succes](https://ademico-software.com/peppol-tools-api/#section/Authentication).(Multumim [<b>Facturis</b>](https://facturis-online.ro/tag/xml-e-factura) pentru exemplul postat!)
 
-In depozitul github [<b>phive</b>](https://github.com/phax/phive-rules/tree/master) urmand calea <b>phive-rules-cius-ro/src/main/resources/external/schematron/1.0.8</b> veti gasi validatorul schematron 
+In depozitul github [<b>phive</b>](https://github.com/phax/phive-rules/tree/master) urmand calea [<b>phive-rules-cius-ro/src/main/resources/external/schematron/1.0.8</b>](https://github.com/phax/phive-rules/tree/master/phive-rules-cius-ro/src/main/resources/external/schematron/1.0.8) veti gasi validatorul schematron 
 <b>ROeFactura-UBL-validation-Invoice_v1.0.8.xslt</b>; 
 
 Acest validator se utilizraza pentru a valida un fisier ce contine factura xml in [2 pasi](https://stackoverflow.com/questions/57355078/how-to-validate-an-xml-using-a-sch-in-java-or-javascript):
