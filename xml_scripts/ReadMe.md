@@ -46,6 +46,8 @@ Pe site-ul [UE](https://www.vatupdate.com/2023/12/17/guide-on-the-use-of-the-nat
 
 [Billit](https://www.billit.eu/en-int/peppol-access-point/anaf-e-invoicing-in-romania/) prezinta de asemena cateva link-uri utile(daca nu cumva ati aflat de existenta lor deja!)
 
-Un articol comercial interesant despre eFactura si eTransport poate fi consultat accesand acest [link](https://www.smartcash.ro/efactura-anaf-connector/)
+Un articol comercial interesant despre eFactura si eTransport poate fi consultat accesand acest [link](https://www.smartcash.ro/efactura-anaf-connector/);
+
+La fel de interesant(in special pe zona de manipulare date) este si acest ghid de configurare oferit de [MS](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1jQ8k);
 
 
