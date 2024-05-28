@@ -38,6 +38,8 @@ Daca doriti sa vedeti cum lucreaza validatorul-Peppol in mod [practic](https://w
 
 Un validator [XSLT](https://ion-docval.ionite.net/javadoc/1.0/)(bazat pe Java dar construit si pt medii non-Java) pentru reguli furnizate in format <b>schematron</b>(<i>dar nu numai!</i>) este si acest HTTP micro-service local [<b>ion-docval</b>](https://ion-docval.ionite.net/about/introduction/)(desi nu l-am testat cred ca merita testat!!!).Software-ul functioneaza in paradigma [client-server](https://github.com/ionite/ion-docval) si inlude/admite clienti diversi: XSLT,Python,Java si CLI/shell(.bat); Exista chiar si o varianta [online](https://test.peppolautoriteit.nl/validate) pe care o puteti incerca rapid fara a fi nevoie de a instala vreo componenta;Desigur dupa instalare va fi nevoie de configurare in conformitate cu regulile comune(EN16931,UBL 2.1,...) armonizate si cu cele de specific national(RO), reglementate de catre autoritatea noastra fiscala: [MFP-ANAF](https://test.peppolautoriteit.nl/validate));
 
+Desigur varianta oficiala MFP-ANAF pentru validarea Documentelor XML ramane [DUKintegrator](https://static.anaf.ro/static/DUKIntegrator/DUKIntegrator.htm).
+
 Pe site-ul [UE](https://www.vatupdate.com/2023/12/17/guide-on-the-use-of-the-national-electronic-invoicing-system-ro-e-invoice-english-translation/) mai gasiti cateva informatii interesante despre [eInvoicing-ul](https://ec.europa.eu/digital-building-blocks/sites/display/DIGITAL/eInvoicing+in+Romania) din Romania.
 
 [Billit](https://www.billit.eu/en-int/peppol-access-point/anaf-e-invoicing-in-romania/) prezinta de asemena cateva link-uri utile(daca nu cumva ati aflat de existenta lor deja!)
