@@ -14,7 +14,7 @@ Baza generarii facturilor conforme cu [RO-CIUS](https://mfinante.gov.ro/document
 
 Cei de la ANAF au ales [schematron](https://hotfox.ro/forum/viewtopic.php?t=94&start=10)(o alternativa la [XSD](https://www.w3schools.com/xml/schema_intro.asp)) pentru prezentarea regulilor [CIUS_RO](https://mfinante.gov.ro/documents/35673/1120722/ordin1366_MO10658112021.pdf)
 
-Pe partea de validare ANAF-ul utilizeaza schematron impreuna cu limbajul Java; 
+Pe partea de validare a facturilor xml, ANAF-ul utilizeaza [schematron](http://ldodds.com/papers/schematron_xsltuk.html) impreuna cu limbajul Java; 
 
 Un astel de [motor java de validare](https://github.com/phax/phive) este si [phive(5)](https://github.com/phax/phive-rules/tree/master) care utilizeaza seturile de reguli nationale printre care si [CIUS-RO](https://github.com/phax/phive-rules/tree/master/phive-rules-cius-ro). 
 
