@@ -20,7 +20,7 @@ Un astel de [motor java de validare](https://github.com/phax/phive) este si [phi
 
 Acest motor a fost initial dezvoltat de catre cei care administraza [reteaua](https://ecosio.com/en/blog/connecting-to-peppol-via-api-what-are-the-benefits/) internationala de transmitere a <b>eDocument</b><i>elor</i> <b>[Peppol](https://ecosio.com/en/peppol-and-xml-document-validator/)</b>; 
 
-Daca veti selecta setul de reguli <i>UBL Invoice 2.1</i> si veti incarca acest fisier [eFactura_example.xml](xml_scripts/eFactura_example.xml) pe instanta web/online a acestui [validator](https://ecosio.com/en/peppol-and-xml-document-validator/) veti vedea ca exemplul este [validat cu succes](https://ademico-software.com/peppol-tools-api/#section/Authentication).(Multumim <b>Facturis</b> pentru exemplul postat!)
+Daca veti selecta setul de reguli <i>UBL Invoice 2.1</i> si veti incarca acest fisier [eFactura_example.xml](xml_scripts/eFactura_example.xml) pe instanta web/online a acestui [validator](https://ecosio.com/en/peppol-and-xml-document-validator/) veti vedea ca exemplul este [validat cu succes](https://ademico-software.com/peppol-tools-api/#section/Authentication).(Multumim [<b>Facturis</b>](https://facturis-online.ro/tag/xml-e-factura) pentru exemplul postat!)
 
 Daca doriti sa vedeti cum lucreaza validatorul-Peppol in mod [practic](https://www.gsis.gr/sites/default/files/eInvoice/Instructions%20to%20B2G%20Suppliers%20and%20certified%20PEPPOL%20Providers%20for%20the%20Greek%20PEPPOL%20BIS-EN-%20v1.0.pdf) atunci o puteti face vizitand site-ul [urmator](https://ionite.net/news-articles/2023-08-17_validating_peppol_documents/).
 
