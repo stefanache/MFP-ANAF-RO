@@ -497,7 +497,7 @@ Acest articol al celor de la [factureaza.ro](https://factureaza.ro/e-factura) va
 <details>
 
   
-Ca si in cazul [eFactura](https://mfinante.gov.ro/static/10/eFactura/prezentare%20api%20efactura.pdf) puteti desigur folosi [serviciul web al ANAF pt eTransport](https://mfinante.gov.ro/static/10/eTransport/etransport_17022023.pdf) utilizand protocolul REST.
+Ca si in cazul [eFactura](https://mfinante.gov.ro/static/10/eFactura/prezentare%20api%20efactura.pdf) puteti desigur folosi [serviciul web al ANAF pt eTransport](https://mfinante.gov.ro/static/10/eTransport/etransport_17022023.pdf) utilizand protocolul [REST](https://www.anaf.ro/anaf/internet/ANAF/cautare/!ut/p/a1/jY_NDoIwEISfpld20IDEW03UYowRjRF6MdUUxGAxtcrri5408W9Pu5tvZndIUkrSqGtZKFfWRlX3WYYb4YtQdKLOJEr4EMl0ORjGvsB44bdA9gxAJEASDOJFMJ4DCP_T40Nx_NKvSb4ibz54AF9OTEgWVb19xM242XajgqTVubbaehfbrvfOnc59BoamaTxlVO7ZmuHeMJTGaWu0Y-AzPmLYqYtTVr8z29dnR-mTB2Vt_t7HgL2QTsdVikNQXad5fAO6oVuH/dl5/d5/L2dBISEvZ0FBIS9nQSEh/pw/Z7_H1H6H282J8QAE0QLSBEI1H0G76/act/id=0/p=spf_ActionName=spf_ActionListener/p=spf_strutsAction=QCB2fcautare.do/578258808985/=/#Z7_H1H6H282J8QAE0QLSBEI1H0G76).
 
 In general pentru informare ANAF(RO-CIUS, XSD-uri,formulare,...) puteti folosi [motorul de cautare ANAF](https://www.anaf.ro/anaf/internet/ANAF/cautare/)
 
