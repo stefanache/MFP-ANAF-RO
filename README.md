@@ -527,7 +527,7 @@ Aceasta [raportare](https://www.fgo.ro/etransport?gad_source=1&gclid=Cj0KCQjwpNu
  - Transporturile care sunt în tranzit pe teritoriul României
  - Orice transport care fie începe, fie se finalizează pe teritoriul României
 
-Codul [UIT](https://tirservices.ro/servicii-cod-uit/?gad_source=1&gclid=Cj0KCQjwpNuyBhCuARIsANJqL9OsoEZPtJ56hlZgT7zkhjZH7szjPCH4_JiSbfHNbYBMn-89QIPSasMaAjtHEALw_wcB) poate fi de interes pentru orice transportator care se pregaste sa plece in cursa.
+Codul [UIT](https://tirservices.ro/servicii-cod-uit/?gad_source=1&gclid=Cj0KCQjwpNuyBhCuARIsANJqL9OsoEZPtJ56hlZgT7zkhjZH7szjPCH4_JiSbfHNbYBMn-89QIPSasMaAjtHEALw_wcB) poate fi de interes pentru oricare [transportator](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/Ro_e_Transport.pdf) care se pregaste sa plece in cursa.
 
 Si acum cate ceva despre baza legala [OUG-9](https://sgg.gov.ro/1/wp-content/uploads/2022/04/OUG-9.pdf), [OUG-41 modificata de OUG-115](https://www.untrr.ro/media/wysiwyg/PDF/RO_E_TRANSPORT_20240104_3.pdf); Nedeclararea este [sanctionata](https://www.untrr.ro/ro/nedeclararea-in-sistemul-ro-e-ttransport-html.html);
 
