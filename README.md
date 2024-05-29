@@ -538,7 +538,7 @@ Daca nu v-a convins poate va [ghideaza](https://www.nexuserp.ro/caut/e-transport
 
 [Semnatura electronica](https://www.certsign.ro/ro/semnatura-electronica-pentru-ro-e-transport/) in cazul [eTransport](https://www.youtube.com/watch?v=AQtXLThabEI) constituie primul pas catre acest sistem de [raportare](https://hotfox.ro/forum/viewtopic.php?t=29&start=10) catre [ANAF](https://github.com/andalisolutions/anaf-php);
 
-Daca doriti sa aflati cam ce [nomenclatoare](https://www.elian-solutions.ro/sistemul-ro-e-transport-pentru-microsoft-dynamics-365-business-central-si-dynamics-nav-navision/) sunt specifice [eTransport](https://www.juridice.ro/737005/precizari-anaf-ref-sistemul-ro-e-transport.html) atunci acest mic articol pare sa face ceva lumina.
+Daca doriti sa aflati cam ce [nomenclatoare](https://www.elian-solutions.ro/sistemul-ro-e-transport-pentru-microsoft-dynamics-365-business-central-si-dynamics-nav-navision/) sunt specifice [eTransport](https://www.juridice.ro/737005/precizari-anaf-ref-sistemul-ro-e-transport.html) atunci acest mic [articol](https://www.transart.ro/lps/sistemul-ro-e-transport/) pare sa face ceva lumina.
 
 Pentru cei ce se grabesc sa afla informatii cat mai rapid, aceasta [sinteza](https://forum.sagasoft.ro/viewtopic.php?t=51556) poate fi [solutia](https://www.euload.com/blog.view.php?id=61)
 </details>
