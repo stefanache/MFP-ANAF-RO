@@ -529,6 +529,8 @@ Aceasta [raportare](https://www.fgo.ro/etransport?gad_source=1&gclid=Cj0KCQjwpNu
 
 Codul [UIT](https://tirservices.ro/servicii-cod-uit/?gad_source=1&gclid=Cj0KCQjwpNuyBhCuARIsANJqL9OsoEZPtJ56hlZgT7zkhjZH7szjPCH4_JiSbfHNbYBMn-89QIPSasMaAjtHEALw_wcB) poate fi de interes pentru orice transportator care se pregaste sa plece in cursa.
 
+Si acum cate ceva despre baza legala [OUG9](https://sgg.gov.ro/1/wp-content/uploads/2022/04/OUG-9.pdf)
+
 </details>
 
  ## 4. [**Declaratii; Impozitul pe Venit ori pe Profit, TVA, Accize,...**](https://static.anaf.ro/static/10/Anaf/Contribuabili/scurt_ghid.htm)
