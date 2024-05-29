@@ -540,7 +540,7 @@ Daca nu v-a convins poate va [ghideaza](https://www.nexuserp.ro/caut/e-transport
 
 Daca doriti sa aflati cam ce [nomenclatoare](https://www.elian-solutions.ro/sistemul-ro-e-transport-pentru-microsoft-dynamics-365-business-central-si-dynamics-nav-navision/) sunt specifice [eTransport](https://www.juridice.ro/737005/precizari-anaf-ref-sistemul-ro-e-transport.html) atunci acest mic articol pare sa face ceva lumina.
 
-Pentru cei ce se grabesc sa afla informatii cat mai rapid, aceasta sinteza poate fi [solutia](https://www.euload.com/blog.view.php?id=61)
+Pentru cei ce se grabesc sa afla informatii cat mai rapid, aceasta [sinteza](https://forum.sagasoft.ro/viewtopic.php?t=51556) poate fi [solutia](https://www.euload.com/blog.view.php?id=61)
 </details>
 
  ## 4. [**Declaratii; Impozitul pe Venit ori pe Profit, TVA, Accize,...**](https://static.anaf.ro/static/10/Anaf/Contribuabili/scurt_ghid.htm)
