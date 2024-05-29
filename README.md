@@ -519,7 +519,12 @@ Gasiti informatii utile legate de [**eTransport**](https://www.certsign.ro/ro/se
 
 Un [articol](https://www.crowe.com/ro/news/2024-ro-transport) interesant despre eTransport gasiti si pe [smartBill](https://www.smartbill.ro/e-transport);
 
-Daca doriti informatii cu privire la <b>cum se face raportarea eTransport</b> atunci puteti citi articolul [urmator](https://www.seniorsoftware.ro/resurse/articole-utile/e-transport-anaf-ro-e-transport-sistemul-de-monitorizare-pentru-bunurile-cu-risc-fiscal-ridicat/);
+Daca doriti informatii cu privire la <b>cum se face raportarea <b>eTransport</b> atunci puteti citi articolul [urmator](https://www.seniorsoftware.ro/resurse/articole-utile/e-transport-anaf-ro-e-transport-sistemul-de-monitorizare-pentru-bunurile-cu-risc-fiscal-ridicat/);
+
+Aceasta [raportare](https://www.fgo.ro/etransport?gad_source=1&gclid=Cj0KCQjwpNuyBhCuARIsANJqL9PCxiZdvjS1COfVvRLHIY6rPiuWvFXkoztsQVKeC1DwEygk0KhkyWUaAuN0EALw_wcB) vizeaza pana la urma:
+-Transporturile care încep și se termină pe teritoriul României
+=Transporturile care sunt în tranzit pe teritoriul României
+-Orice transport care fie începe, fie se finalizează pe teritoriul României
 
 Codul [UIT](https://tirservices.ro/servicii-cod-uit/?gad_source=1&gclid=Cj0KCQjwpNuyBhCuARIsANJqL9OsoEZPtJ56hlZgT7zkhjZH7szjPCH4_JiSbfHNbYBMn-89QIPSasMaAjtHEALw_wcB) poate fi de interes pentru orice transportator care se pregaste sa plece in cursa.
 
