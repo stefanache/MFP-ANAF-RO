@@ -515,7 +515,7 @@ Aici puteti gasi un [***material informativ ANAF***](https://static.anaf.ro/stat
 
 Si pe forumul [**HotFox**](https://hotfox.ro/forum/viewtopic.php?t=29&start=10) gasiti o discutie interesanta despre documentul ***xml eTransport***; Idem si pe forumul [**SAGA**](https://forum.sagasoft.ro/viewtopic.php?t=51556)a;
 
-Gasiti informatii utile legate de **eTransport** si pe acest site al [**DGAF**](http://www.antifrauda.ro/)
+Gasiti informatii utile legate de [**eTransport**](https://www.certsign.ro/ro/semnatura-electronica-pentru-ro-e-transport/?gad_source=1&gclid=Cj0KCQjwpNuyBhCuARIsANJqL9O5yCUWhwJHOEaNsvp8OoT_dskZeKOCkvEx7Z8xY9vNLrkBj2b2NSUaAuFNEALw_wcB) si pe acest site al [**DGAF**](http://www.antifrauda.ro/)
 
 
 </details>
