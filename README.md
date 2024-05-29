@@ -536,9 +536,9 @@ Daca nu v-a convins poate va [ghideaza](https://www.nexuserp.ro/caut/e-transport
 
 [eTransport si eFactura](https://www.oblio.eu/integrari/e-transport) merg [mana](https://efactura-etransport.fisc.ro/) in [mana](https://www.comarch.com/trade-and-services/data-management/e-invoicing/e-invoicing-and-e-transport-in-romania-ro/);
 
-
 [Semnatura electronica](https://www.certsign.ro/ro/semnatura-electronica-pentru-ro-e-transport/) in cazul [eTransport](https://www.youtube.com/watch?v=AQtXLThabEI) constituie primul pas catre acest sistem de raportare catre ANAF;
 
+Daca doriti sa aflati cam ce [nomenclatoare](https://www.elian-solutions.ro/sistemul-ro-e-transport-pentru-microsoft-dynamics-365-business-central-si-dynamics-nav-navision/) sunt specifice eTransport atunci acest mic articol pare sa face ceva lumina.
 </details>
 
  ## 4. [**Declaratii; Impozitul pe Venit ori pe Profit, TVA, Accize,...**](https://static.anaf.ro/static/10/Anaf/Contribuabili/scurt_ghid.htm)
