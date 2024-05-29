@@ -532,7 +532,7 @@ Codul [UIT](https://tirservices.ro/servicii-cod-uit/?gad_source=1&gclid=Cj0KCQjw
 Si acum cate ceva despre baza legala [OUG-9](https://sgg.gov.ro/1/wp-content/uploads/2022/04/OUG-9.pdf), [OUG-41 modificata de OUG-115](https://www.untrr.ro/media/wysiwyg/PDF/RO_E_TRANSPORT_20240104_3.pdf)
 
 O [schema](https://sintact.ro/fluxuri/e-transport-aspecte-generale-1610613632) face cat 1000 de cuvinte; 
-Daca nu v-a convins poate va ghideaza mai exact acest [articol](https://www.digi24.ro/stiri/economie/transporturi/a-fost-elaborat-ghidul-privind-sistemul-national-e-transport-ce-obligatii-au-transportatorii-2774359);
+Daca nu v-a convins poate va [ghideaza](https://www.nexuserp.ro/caut/e-transport) mai exact acest [articol](https://www.digi24.ro/stiri/economie/transporturi/a-fost-elaborat-ghidul-privind-sistemul-national-e-transport-ce-obligatii-au-transportatorii-2774359);
 
 [eTransport si eFactura](https://www.oblio.eu/integrari/e-transport) merg mana in mana;
 
