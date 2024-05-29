@@ -529,7 +529,7 @@ Aceasta [raportare](https://www.fgo.ro/etransport?gad_source=1&gclid=Cj0KCQjwpNu
 
 Codul [UIT](https://tirservices.ro/servicii-cod-uit/?gad_source=1&gclid=Cj0KCQjwpNuyBhCuARIsANJqL9OsoEZPtJ56hlZgT7zkhjZH7szjPCH4_JiSbfHNbYBMn-89QIPSasMaAjtHEALw_wcB) poate fi de interes pentru orice transportator care se pregaste sa plece in cursa.
 
-Si acum cate ceva despre baza legala [OUG-9](https://sgg.gov.ro/1/wp-content/uploads/2022/04/OUG-9.pdf), [OUG-41 modificata de OUG-115](https://www.untrr.ro/media/wysiwyg/PDF/RO_E_TRANSPORT_20240104_3.pdf)
+Si acum cate ceva despre baza legala [OUG-9](https://sgg.gov.ro/1/wp-content/uploads/2022/04/OUG-9.pdf), [OUG-41 modificata de OUG-115](https://www.untrr.ro/media/wysiwyg/PDF/RO_E_TRANSPORT_20240104_3.pdf); Nedeclararea este [sanctionata](https://www.untrr.ro/ro/nedeclararea-in-sistemul-ro-e-ttransport-html.html);
 
 O [schema](https://sintact.ro/fluxuri/e-transport-aspecte-generale-1610613632) face cat [1000 de cuvinte](https://www.digi24.ro/digieconomic/financiar/ministerul-finantelor-publica-ghidul-e-transport-ce-trebuie-sa-stie-contribuabilii-angrenati-in-logistica-17143); 
 Daca nu v-a convins poate va [ghideaza](https://www.nexuserp.ro/caut/e-transport) mai exact acest [articol](https://www.digi24.ro/stiri/economie/transporturi/a-fost-elaborat-ghidul-privind-sistemul-national-e-transport-ce-obligatii-au-transportatorii-2774359);
