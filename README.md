@@ -518,6 +518,8 @@ Si pe forumul [**HotFox**](https://hotfox.ro/forum/viewtopic.php?t=29&start=10) 
 Gasiti informatii utile legate de [**eTransport**](https://www.certsign.ro/ro/semnatura-electronica-pentru-ro-e-transport/?gad_source=1&gclid=Cj0KCQjwpNuyBhCuARIsANJqL9O5yCUWhwJHOEaNsvp8OoT_dskZeKOCkvEx7Z8xY9vNLrkBj2b2NSUaAuFNEALw_wcB) si pe acest site al [**DGAF**](http://www.antifrauda.ro/)
 
 Un [articol](https://www.crowe.com/ro/news/2024-ro-transport) interesant despre eTransport gasiti si pe [smartBill](https://www.smartbill.ro/e-transport);
+
+Daca doriti informatii cu privire la <b>cum se face raportarea eTransport</b> atunci puteti citi articolul [urmator](https://www.seniorsoftware.ro/resurse/articole-utile/e-transport-anaf-ro-e-transport-sistemul-de-monitorizare-pentru-bunurile-cu-risc-fiscal-ridicat/)
 </details>
 
  ## 4. [**Declaratii; Impozitul pe Venit ori pe Profit, TVA, Accize,...**](https://static.anaf.ro/static/10/Anaf/Contribuabili/scurt_ghid.htm)
