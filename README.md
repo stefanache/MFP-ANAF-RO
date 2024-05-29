@@ -509,7 +509,7 @@ Un fisier Excel ofera informatii despre [structura eTransport](https://mfinante.
 
 Sunt multe [surse de informare](https://www.euload.com/blog.view.php?id=61) dar si multe modificari legislative si in cazul platformei eTransport.
 
-O **sinteza** legata de [**eTransport**](https://ajutor.smartbill.ro/article/1022-ce-este-ro-e-transport) poate fi urmarite pe acest site al [**Euload**](https://www.euload.com/blog.view.php?id=61)
+O [**sinteza**](https://www.avocatnet.ro/t18175/e-Transport.html) legata de [**eTransport**](https://ajutor.smartbill.ro/article/1022-ce-este-ro-e-transport) poate fi urmarite pe acest site al [**Euload**](https://www.euload.com/blog.view.php?id=61)
 
 Aici puteti gasi un [***material informativ ANAF***](https://static.anaf.ro/static/10/Iasi/material_informativ-1_18-04-2022.pdf) privind **eTransport**;
 
