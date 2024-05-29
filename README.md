@@ -534,7 +534,7 @@ Si acum cate ceva despre baza legala [OUG-9](https://sgg.gov.ro/1/wp-content/upl
 O [schema](https://sintact.ro/fluxuri/e-transport-aspecte-generale-1610613632) face cat 1000 de cuvinte; 
 Daca nu v-a convins poate va [ghideaza](https://www.nexuserp.ro/caut/e-transport) mai exact acest [articol](https://www.digi24.ro/stiri/economie/transporturi/a-fost-elaborat-ghidul-privind-sistemul-national-e-transport-ce-obligatii-au-transportatorii-2774359);
 
-[eTransport si eFactura](https://www.oblio.eu/integrari/e-transport) merg mana in mana;
+[eTransport si eFactura](https://www.oblio.eu/integrari/e-transport) merg [mana in mana](https://www.comarch.com/trade-and-services/data-management/e-invoicing/e-invoicing-and-e-transport-in-romania-ro/);
 
 
 [Semnatura electronica](https://www.certsign.ro/ro/semnatura-electronica-pentru-ro-e-transport/) in cazul eTransport constituie primul pas catre acest sistem de raportare catre ANAF;
