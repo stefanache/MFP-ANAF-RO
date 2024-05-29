@@ -536,6 +536,9 @@ Daca nu v-a convins poate va [ghideaza](https://www.nexuserp.ro/caut/e-transport
 
 [eTransport si eFactura](https://www.oblio.eu/integrari/e-transport) merg mana in mana;
 
+
+[Semnatura electronica](https://www.certsign.ro/ro/semnatura-electronica-pentru-ro-e-transport/) in cazul eTransport constituie primul pas catre acest sistem de raportare catre ANAF;
+
 </details>
 
  ## 4. [**Declaratii; Impozitul pe Venit ori pe Profit, TVA, Accize,...**](https://static.anaf.ro/static/10/Anaf/Contribuabili/scurt_ghid.htm)
