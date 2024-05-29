@@ -507,7 +507,7 @@ ori pe site-ul MFP [informatii tehnice MFP eTransport](https://etransport.mfinan
 
 Un fisier Excel ofera informatii despre [structura eTransport](https://mfinante.gov.ro/static/10/Mfp/structura_eTransport_25032022.xls)
 
-Sunt multe [surse de informare](https://www.euload.com/blog.view.php?id=61) dar si multe modificari legislative si in cazul platformei eTransport.
+Sunt multe [surse de informare](https://www.euload.com/blog.view.php?id=61) dar si multe modificari legislative si in cazul platformei [eTransport](https://www.msg-plaut.com/ro/e-transport).
 
 O [**sinteza**](https://www.avocatnet.ro/t18175/e-Transport.html) legata de [**eTransport**](https://ajutor.smartbill.ro/article/1022-ce-este-ro-e-transport) poate fi urmarite pe acest site al [**Euload**](https://www.euload.com/blog.view.php?id=61)
 
