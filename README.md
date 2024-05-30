@@ -550,7 +550,7 @@ Pentru cei ce se grabesc sa afla [informatii](https://lege5.ro/Gratuit/geztcmzxg
 
 Daca doriti sa vedeti [structura unui document xml](https://info-expert.ro/pagina-carte/instructiuni-etransport) utilizat pt eTransport puteti incerca sa studiati si acest [portal](https://www.portalcontabilitate.ro/structura-fisierului-xml-utilizat-in-sistemul-ro-e-transport-bunuri-cu-risc-fiscal-ridicat-153008.htm) sau [aici](https://manual.sagasoft.ro/sagac/topic-81-e-transport.html)
 
-Iata cum arata o [notificare](https://mfinante.gov.ro/static/10/eTransport/notificare_1807.xml) si o [corectie xml](https://mfinante.gov.ro/static/10/eTransport/corectie_1807.xml) pt [eTransport](https://www.nexuserp.ro/noutate/generare-fisiere-xml-pentru-e-transport/78403);
+Iata cum arata o [notificare](https://mfinante.gov.ro/static/10/eTransport/notificare_1807.xml) si o [corectie xml](https://mfinante.gov.ro/static/10/eTransport/corectie_1807.xml) pt [eTransport](https://www.nexuserp.ro/noutate/generare-fisiere-xml-pentru-e-transport/78403);(si aici alta [corectie](https://mfinante.gov.ro/static/10/Mfp/corectie_2503_err.xml)!)
 
 Despre functionarea sistemului [eTransport](https://static.anaf.ro/static/10/Galati/Vrancea/Proc-RO-e-Transport.pdf) puteti afla daca cititi pe acest [site](https://termene.ro/articole/cum-va-functiona-sistemul-ro-e-transport)
 
