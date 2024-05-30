@@ -552,6 +552,8 @@ Registrul [eTransport](https://www.info-expert.ro/newsletter/registrul-etranspor
 
 Si site=ul [TDec](https://www.tdec.ro/) are o prezentare cu privire la [eTransport](https://doc-process.com/ro-e-transport/) si [eFactura](https://seniorxrp.ro/blog/ro-e-transport-ce-este-si-cum-se-face-raportarea-in-sistemul-ro-e-transport-care-sunt-tipurile-de-transporturi-vizate/).
 
+Tripleta [SAF-T,eFactura si eTransport](https://kpmg.com/ro/ro/home/events/2024/02/eveniment-kpmg-romania-saft-efactura-etransport.html) impreuna cu declaratiile fiscale alcatuiesc sistemul de  raportare MFP-ANAF.
+
 </details>
 
  ## 4. [**Declaratii; Impozitul pe Venit ori pe Profit, TVA, Accize,...**](https://static.anaf.ro/static/10/Anaf/Contribuabili/scurt_ghid.htm)
