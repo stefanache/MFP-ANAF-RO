@@ -523,7 +523,7 @@ Daca doriti informatii cu privire la <b>cum se face raportarea <b>eTransport</b>
 
 Aceasta [raportare](https://www.fgo.ro/etransport?gad_source=1&gclid=Cj0KCQjwpNuyBhCuARIsANJqL9PCxiZdvjS1COfVvRLHIY6rPiuWvFXkoztsQVKeC1DwEygk0KhkyWUaAuN0EALw_wcB) vizeaza pana la urma:
 
- - Transporturile care încep și se termină pe teritoriul [României](https://hotfox.ro/forum/viewtopic.php?t=41)
+ - [Transporturile](https://teaha.ro/ro/2023/01/05/procedura-de-utilizare-si-functionare-a-sistemului-national-ro-e-transport/) care încep și se termină pe teritoriul [României](https://hotfox.ro/forum/viewtopic.php?t=41)
  - Transporturile care sunt în tranzit pe teritoriul [României](https://www.nexuserp.ro/blog/intrebari-frecvente-despre-etransport)
  - Orice [transport](https://mfinante.gov.ro/static/10/eTransport/etransport_10032023.pdf) care fie începe, fie se finalizează pe teritoriul [României](http://ftp.winmentor.ro/WinMentor/Versiuni_Vechi/v22.091_1/documentatie%20e-transport.pdf)
 
