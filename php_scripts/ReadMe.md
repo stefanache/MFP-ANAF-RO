@@ -1200,5 +1200,5 @@ Nu uitati informatii oficiale despre serviciile web **ANAF** gasiti in articolul
 Daca nu aveti mai mult de 5 facturi pe luna si doriti sa accesati un serviciu gratuit direct din api-ul dvs. PhP atunci puteti incerca [factureaza.ro](https://factureaza.ro/documentatie-api-v1);
 Chiar daca nu veti folosi acest serviciu, apelurile REST cURL si desigur raspunsurile acestora pot constitui un model util de abordare a subiectului eFactura;
 
-Pe site-ul celor de la [lorand](https://lorand.work/category/php/) am gasit o colectie de functii legate de eFactura(dar nu [numai](https://lorand.work/category/pontaj-electronic/)!).
+Pe site-ul celor de la [lorand](https://lorand.work/category/php/) am gasit o colectie de functii legate de [autorizare jwt](https://lorand.work/autentificare-oauth-si-obtinere-token-jwt-de-la-anaf-folosind-php/) si eFactura(dar nu [numai](https://lorand.work/category/pontaj-electronic/)!).
 
