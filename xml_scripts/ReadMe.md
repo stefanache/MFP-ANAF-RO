@@ -1,3 +1,5 @@
+Ce este un[XML](https://support.microsoft.com/ro-ro/office/xml-pentru-%C3%AEncep%C4%83tori-a87d234d-4c2e-4409-9cbc-45e4eb857d44)? (O alternativa la JSON?)
+
 Iata un model de [factura](https://ro-efactura.ro/wp-content/uploads/2023/11/Model-factura-XML-NrReg-001.xml) [xml](https://www.w3schools.com/xml/xml_tree.asp) care respecta standardul sau setul de reguli valide specificate de catre cei de la ANAF(<b>CIUS-RO UBL Invoice 1.0.8</b>).
 
 Factura aceasta este un simplu exemplu de factura-xml pentru care s-a utilizat formatul de prezentare UBL versiunea 2.1(il gasiti in fisieul [eFactura_example.xml](xml_scripts/eFactura_example.xml))(celalalt format de prezentare acceptat de catre ANAF fiind CII)
