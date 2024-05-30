@@ -454,6 +454,9 @@ De asemenea daca studiati manualul **eFactura** al **BizDepozit** veti gasi [***
 Pe forumul Facebook al ***ProFox***, am gasit un [articol](https://www.facebook.com/groups/3239944772705473/) interesant referitor la ***lungimea*** maxima a ***eFactura XML***.
 
 Tot legat de ***erorile*** aparute la [incarcarea/transmiterea](https://contabilul.manager.ro/dbimg/files/prezentareapeluriAPIE-factura.pdf) **eFactura**, puteti consulta si acest subiect de pe phpBB-forumul celor de la [***hotfox***](https://hotfox.ro/forum/viewtopic.php?t=182).
+
+Un [tutorial e-Factura ANAF web API token JWT](https://www.licomp.ro/efactura_tutor.aspx) poate fi consultat dpdv tehnic.
+
 </details>
 
  ## 2. [**Declaratia 406 si 406T(SAF-T)**](https://www.homecont.ro/declaratia-d406-saf-t-fisierul-standard-de-control-fiscal.htm) ([D406](https://noagroup.ro/fisierul-standard-de-control-fiscal-saf-t-si-testarea-voluntara-pentru-incarcarea-declaratiei-d406t/) audit/control financiar); Sistemul [SAF-T](https://www.pwc.ro/ro/pwc-romania-digital/tax-technology/saf-t.html)
