@@ -264,7 +264,7 @@ Pentru cei grabiti [reddit](https://www.reddit.com/r/programare/comments/18c3bg8
 
 Totusi [procesul](https://iforce.ro/2023/09/08/neomanager-si-b-org-pregatite-pentru-efactura/) de [***automatizare***](https://www.fiscalitatea.ro/ro-e-transport-obligatii-noutati-in-2024-si-lista-produselor-vizate-23162/) completa [***RO e-Factura***](https://www.fgo.ro/e-factura/) este unul [complex](https://efactura-etransport.fisc.ro/) si cuprinde cel putin urmatoarele [***etape***](https://www.smarttax.ro/efactura?gclid=CjwKCAiA2pyuBhBKEiwApLaIO1oZtIPwZxP5AnMYUCbVzXlhUlxIRkZ0PicLlBiogwr43LAooaWdOhoCKbAQAvD_BwE):
 
- - emitere factura de catre/in calitate de vanzator/furnizor, 
+ - emitere [factura](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1h4uG) de catre/in calitate de vanzator/furnizor, 
  - trimitere în SPV ANAF, 
  - citire stare document transmis(eng. "status"),
  - primire recipisă și ...
