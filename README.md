@@ -525,13 +525,14 @@ Aceasta [raportare](https://www.fgo.ro/etransport?gad_source=1&gclid=Cj0KCQjwpNu
 
  - Transporturile care încep și se termină pe teritoriul [României](https://hotfox.ro/forum/viewtopic.php?t=41)
  - Transporturile care sunt în tranzit pe teritoriul [României](https://www.nexuserp.ro/blog/intrebari-frecvente-despre-etransport)
- - Orice transport care fie începe, fie se finalizează pe teritoriul [României](http://ftp.winmentor.ro/WinMentor/Versiuni_Vechi/v22.091_1/documentatie%20e-transport.pdf)
+ - Orice [transport](https://mfinante.gov.ro/static/10/eTransport/etransport_10032023.pdf) care fie începe, fie se finalizează pe teritoriul [României](http://ftp.winmentor.ro/WinMentor/Versiuni_Vechi/v22.091_1/documentatie%20e-transport.pdf)
 
 Codul [UIT](https://tirservices.ro/servicii-cod-uit/?gad_source=1&gclid=Cj0KCQjwpNuyBhCuARIsANJqL9OsoEZPtJ56hlZgT7zkhjZH7szjPCH4_JiSbfHNbYBMn-89QIPSasMaAjtHEALw_wcB) poate fi de interes pentru oricare [transportator](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/Ro_e_Transport.pdf) care se pregaste sa plece in cursa.
 
 Si acum cate ceva despre baza legala [OUG-9](https://sgg.gov.ro/1/wp-content/uploads/2022/04/OUG-9.pdf), [OUG-41 modificata de OUG-115](https://www.untrr.ro/media/wysiwyg/PDF/RO_E_TRANSPORT_20240104_3.pdf); Nedeclararea este [sanctionata](https://www.untrr.ro/ro/nedeclararea-in-sistemul-ro-e-ttransport-html.html);
 
 O [schema](https://sintact.ro/fluxuri/e-transport-aspecte-generale-1610613632) face cat [1000 de cuvinte](https://www.digi24.ro/digieconomic/financiar/ministerul-finantelor-publica-ghidul-e-transport-ce-trebuie-sa-stie-contribuabilii-angrenati-in-logistica-17143); 
+
 Daca nu v-a convins poate va [ghideaza](https://www.nexuserp.ro/caut/e-transport) mai exact acest [articol](https://www.digi24.ro/stiri/economie/transporturi/a-fost-elaborat-ghidul-privind-sistemul-national-e-transport-ce-obligatii-au-transportatorii-2774359);
 
 [eTransport si eFactura](https://www.oblio.eu/integrari/e-transport) merg [mana](https://efactura-etransport.fisc.ro/) in [mana](https://www.comarch.com/trade-and-services/data-management/e-invoicing/e-invoicing-and-e-transport-in-romania-ro/);
