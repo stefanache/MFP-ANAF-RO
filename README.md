@@ -510,7 +510,7 @@ Spre [exemplu](http://www.antifrauda.ro/Clarific%C4%83ri-RO-e-Transport-c-51.htm
 
 ori pe site-ul MFP [informatii tehnice MFP eTransport](https://etransport.mfinante.gov.ro/informatii-tehnice)
 
-Un fisier Excel ofera informatii despre [structura eTransport](https://mfinante.gov.ro/static/10/Mfp/structura_eTransport_25032022.xls)
+Un fisier [Excel](https://www.msg-plaut.com/ro/e-transport) ofera informatii despre [structura eTransport](https://mfinante.gov.ro/static/10/Mfp/structura_eTransport_25032022.xls)
 
 Sunt multe [surse de informare](https://www.euload.com/blog.view.php?id=61) dar si multe modificari legislative si in cazul platformei [eTransport](https://www.msg-plaut.com/ro/e-transport).
 
