@@ -525,7 +525,7 @@ Aceasta [raportare](https://www.fgo.ro/etransport?gad_source=1&gclid=Cj0KCQjwpNu
 
  - Transporturile care încep și se termină pe teritoriul [României](https://hotfox.ro/forum/viewtopic.php?t=41)
  - Transporturile care sunt în tranzit pe teritoriul [României](https://www.nexuserp.ro/blog/intrebari-frecvente-despre-etransport)
- - Orice transport care fie începe, fie se finalizează pe teritoriul României
+ - Orice transport care fie începe, fie se finalizează pe teritoriul [României](http://ftp.winmentor.ro/WinMentor/Versiuni_Vechi/v22.091_1/documentatie%20e-transport.pdf)
 
 Codul [UIT](https://tirservices.ro/servicii-cod-uit/?gad_source=1&gclid=Cj0KCQjwpNuyBhCuARIsANJqL9OsoEZPtJ56hlZgT7zkhjZH7szjPCH4_JiSbfHNbYBMn-89QIPSasMaAjtHEALw_wcB) poate fi de interes pentru oricare [transportator](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/Ro_e_Transport.pdf) care se pregaste sa plece in cursa.
 
