@@ -556,7 +556,7 @@ Despre functionarea sistemului [eTransport](https://static.anaf.ro/static/10/Gal
 
 Registrul [eTransport](https://www.info-expert.ro/newsletter/registrul-etransport) este o piesa importanta a [puzzle](https://static.anaf.ro/static/10/Iasi/material_informativ-3_04-01-2023.pdf)-ului acestui sistem de raportare [ANAF](https://www.xpertsoft.ro/en/products/ro-e-transport-en/);
 
-Si site=ul [TDec](https://www.tdec.ro/) are un [ghid](https://www.tdec.ro/ghid#!) si o prezentare cu privire la [eTransport](https://doc-process.com/ro-e-transport/) si [eFactura](https://seniorxrp.ro/blog/ro-e-transport-ce-este-si-cum-se-face-raportarea-in-sistemul-ro-e-transport-care-sunt-tipurile-de-transporturi-vizate/).
+Si site-ul [TDec](https://www.tdec.ro/) are un [ghid](https://www.tdec.ro/ghid#!) si o prezentare cu privire la [eTransport](https://doc-process.com/ro-e-transport/) si [eFactura](https://seniorxrp.ro/blog/ro-e-transport-ce-este-si-cum-se-face-raportarea-in-sistemul-ro-e-transport-care-sunt-tipurile-de-transporturi-vizate/).
 
 Tripleta [SAF-T,eFactura si eTransport](https://kpmg.com/ro/ro/home/events/2024/02/eveniment-kpmg-romania-saft-efactura-etransport.html) impreuna cu [declaratiile fiscale](https://www.softteam.ro/documente/SAFT%20-%20eFactura%20-%20eTransport%20v.2.pdf) alcatuiesc sistemul de  raportare [MFP-ANAF](https://ajutorgestiune.smartbill.ro/article/1026-emiterea-notificarii-e-transport).
 
