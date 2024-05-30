@@ -1202,3 +1202,4 @@ Chiar daca nu veti folosi acest serviciu, apelurile REST cURL si desigur raspuns
 
 Pe site-ul celor de la [lorand](https://lorand.work/category/php/) am gasit o colectie de functii legate de [autorizare jwt](https://lorand.work/autentificare-oauth-si-obtinere-token-jwt-de-la-anaf-folosind-php/) si eFactura(dar nu [numai](https://lorand.work/category/pontaj-electronic/)!).
 
+In cazul in care doriti sa va creati propriul serviciu online este util sa vedeti si api-ul celor de la [oblio](https://www.oblio.eu/api).
