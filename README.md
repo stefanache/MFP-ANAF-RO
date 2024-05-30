@@ -542,7 +542,9 @@ Daca doriti sa aflati cam ce [nomenclatoare](https://www.elian-solutions.ro/sist
 
 Pentru cei ce se grabesc sa afla informatii cat mai rapid, aceasta [sinteza](https://forum.sagasoft.ro/viewtopic.php?t=51556) poate fi [solutia](https://www.euload.com/blog.view.php?id=61);
 
-Iata cum arata o [corectie xml](https://mfinante.gov.ro/static/10/eTransport/corectie_1807.xml) pt eTransport;
+Daca doriti sa vedeti structura unui document xml utilizat pt eTransport puteti incerca sa studiati si acest [portal](https://www.portalcontabilitate.ro/structura-fisierului-xml-utilizat-in-sistemul-ro-e-transport-bunuri-cu-risc-fiscal-ridicat-153008.htm)
+
+Iata cum arata o [corectie xml](https://mfinante.gov.ro/static/10/eTransport/corectie_1807.xml) pt [eTransport](https://www.nexuserp.ro/noutate/generare-fisiere-xml-pentru-e-transport/78403);
 
 </details>
 
