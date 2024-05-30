@@ -1,0 +1,1028 @@
+In doua articole anterioare am prezentat metode de autentificare prin OAuth si obtinere a tokenului de acces JWT, precum si metode pentru comunicarea cu platforma SPV ANAF in vederea incarcarii facturilor electronice in format xml.
+
+Mai jos urmeaza metode pentru descarcarea unei facturi din SPV, factura care a fost incarcata de furnizor. Fluxul operatiunilor pentru descarcarea unei facturi este:
+
+consultarea listei de raspunsuri
+descarcarea facturii in format xml
+conversia facturii xml in format pdf
+interpretarea continutului facturii xml (optional)
+1. Consultarea listei de mesaje
+Este important de notat faptul ca lista cu raspunsuri returneaza maxim 500 de elemente (facturi, erori sau mesaje). De aceea, aceasta interogare se poate face in doua moduri: simplu sau cu paginatie. Eu am ales sa merg pe varianta cu paginatie, pentru ca acopera inclusiv situatia in care raspunsul contine mai putin de 500 de elemente (deci o singura pagina). Apelul acestui serviciu necesita autentificare.
+
+La apelul acestui serviciu sunt necesari urmatorii parametri:
+
+startTime – data de start pentru care se face interogarea, in format numeric (unixtimestamp cu milisecunde)
+endTime – data de final pentru care se face interogarea, in format numeric (unixtimestamp cu milisecunde)
+cif – codul fiscal (numeric) pentru care se face interogarea raspunsurilor
+pagina – numarul paginii interogate
+filtru (optional) – poate avea valorile urmatoare
+E = ERORI FACTURA
+T = FACTURA TRIMISA
+P = FACTURA PRIMITA
+R = MESAJ CUMPARATOR PRIMIT / MESAJ CUMPARATOR TRANSMIS
+Se pot interoga raspunsurile pentru cel mult 60 de zile in urma. Pentru a nu ne lovi de problemele care apar chiar la limita intervalului de timp (datorita sincronizarii imperfecte a timpului intre serverul nostru si cel al ANAF) am ales ca parametrul endTime sa fie intotdeauna cu 10 minute in urma fata de momentul prezent. De asemenea, in webinariile organizate de ANAF am fost asigurati ca nu vor apare raspunsuri noi la o data din trecut, ci, toate raspunsurile sunt furnizate cronologic, in ordinea emiterii lor. Asta inseamna ca daca interogam lista de raspunsuri o data pe zi, nu are rost sa interogam un interval mai mare de 1 zi (sa zicem totusi 2 zile pentru siguranta).
+
+Un aspect care merita notat este faptul ca in lista de raspunsuri mai intai sunt furnizate cele cu id impar, iar apoi cele cu id par. Chiar si asa, nu exista o ordonare utila pentru utilizator. Asta inseamna ca informatiile nu vor fi afisate utilizatorilor pentru fiecare pagina de raspunsuri interogata la ANAF, ci vor fi descarcate toate paginile, se va face ordonarea necesara si abia apoi se va face afisarea.
+
+Fiecare pagina de raspunsuri contine si parametrul numar_total_pagini, asa incat chiar de la prima pagina returnata se va cunoaste numarul total de pagini care trebuie interogate.
+
+Apelul de mai jos este facut pentru facturile primite, deci contine parametrul filtru=P.
+
+public function getListaRaspunsuri($nr_zile = 60){
+	global $db;
+	$out = [];
+	
+	//verificare existenta token valid pentru ANAF
+	if (!$this->get_last_valid_token()){
+		return ['result' => 1, 'error' => 'Nu exista token valabil.'];
+	}
+	
+	//initializari
+	$startTime = strtotime("-{$zile} days") * 1000;
+	$endTime = strtotime("-10 min") * 1000;
+	$pagina = 1;
+	$nr_pagini = 1;
+
+	//ciclu de interogari
+	while($pagina <= $nr_pagini){
+		//interogare
+		$ch = curl_init();
+		curl_setopt($ch, CURLOPT_URL, "https://api.anaf.ro/prod/FCTEL/rest/listaMesajePaginatieFactura?startTime=$startTime&endTime=$endTime&cif=COD_FISCAL&pagina=$pagina&filtru=P");
+		curl_setopt($ch, CURLOPT_POST, 0);
+		curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+		curl_setopt($ch, CURLOPT_FOLLOWLOCATION, 1);
+		curl_setopt($ch, CURLOPT_HTTP_VERSION, CURL_HTTP_VERSION_1_1);
+		curl_setopt($ch, CURLOPT_CUSTOMREQUEST, 'GET');
+		curl_setopt($ch, CURLOPT_HTTPHEADER,
+			array(
+				"Authorization: Bearer {$anaf->token_info['access_token']}",
+				"Content-Type: text/plain",
+				"Accept-Encoding: gzip, deflate, br",
+				"Connection: keep-alive"
+			)
+		);		
+
+		//verbose output
+		curl_setopt($ch, CURLOPT_VERBOSE, true);
+		$streamVerboseHandle = fopen('php://temp', 'w+');
+		curl_setopt($ch, CURLOPT_STDERR, $streamVerboseHandle);
+		
+		$resp = curl_exec($ch);
+		
+		rewind($streamVerboseHandle);
+		$verboseLog = stream_get_contents($streamVerboseHandle);
+		
+		//mesaje
+		$result = json_decode($resp, true);
+		
+		if ($result['eroare']){
+			$errors[] = $result['eroare'];
+		}
+		else{
+			//tratare alte erori
+			if (!is_array($result['mesaje']) || !isset($result['numar_total_pagini'])){
+				$errors[] = 'Eroare la interogarea ANAF';
+				$errors[] = $verboseLog;
+				return ['result' => 1, 'errors' => $errors];
+			}
+
+			foreach($result['mesaje'] AS $mesaj){
+				$out[] = $mesaj;
+			}
+			$nr_pagini = $result['numar_total_pagini'];
+			$pagina++;
+		}
+	}
+	
+	if (count($errors)){
+		return ['result' => 1, 'errors' => $errors];
+	}
+	else{
+		return ['result' => 0, 'mesaje' => $out];
+	}
+}
+
+Fiecare pozitie din lista de mesaje returnate are structura urmatoare:
+
+Array
+(
+    [data_creare] => 202403170835
+    [cif] => COD_FISCAL
+    [id_solicitare] => 1234567890
+    [detalii] => Factura cu id_incarcare=1234567890 emisa de cif_emitent=COD_FISCAL_FURNIZOR pentru cif_beneficiar=COD_FISCAL
+    [tip] => FACTURA PRIMITA
+    [id] => 3124567890
+)
+
+data_creare – reprezinta data la care furnizorul a incarcat factura in SPV
+cif – cod fiscal pentru care se face interogarea (clientul)
+id_solicitare – reprezinta index_incarcare pe care l-a primit furnizorul la incarcarea facturii
+detalii – un string cu cateva detalii din care putem extrage codul fiscal al furnizorului
+tip – tipul mesajului (mai sus la pasul 1 apare lista cu valorile posibile ale acestui parametru)
+id – id_descarcare
+2. Descarcarea unei facturi de la furnizor
+Pentru descarcarea unei facturi de la furnizor din platforma SPV se poate utiliza metoda de descarcare a unui mesaj (prezentata in articolul anterior), singura diferenta fiind aceea ca metoda nu poate fi apelata utilizand numarul facturii, ci parametrul id_descarcare. Acest parametru il obtinem din lista de mesaje de la pasul anterior. Apelul acestui serviciu necesita autentificare.
+
+public function getFacturaFurnizor($id_descarcare){
+	global $db;
+	
+	//verificare existenta token valid pentru ANAF
+	if (!$this->get_last_valid_token()){
+		return ['result' => 1, 'error' => 'Nu exista token valabil.'];
+	}
+	
+	//interogare
+	$ch = curl_init();
+	curl_setopt($ch, CURLOPT_URL, 'https://api.anaf.ro/prod/FCTEL/rest/descarcare?id=' . $id_descarcare);
+	curl_setopt($ch, CURLOPT_POST, 0);
+	curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+	curl_setopt($ch, CURLOPT_FOLLOWLOCATION, 1);
+	curl_setopt($ch, CURLOPT_HTTP_VERSION, CURL_HTTP_VERSION_1_1);
+	curl_setopt($ch, CURLOPT_CUSTOMREQUEST, 'GET');
+	curl_setopt($ch, CURLOPT_HTTPHEADER,
+		array(
+			"Authorization: Bearer {$this->token_info['access_token']}",
+			"Content-Type: text/plain",
+			"Accept-Encoding: gzip, deflate, br",
+			"Connection: keep-alive"
+		)
+	);		
+	
+	//verbose output
+	curl_setopt($ch, CURLOPT_VERBOSE, true);
+	$streamVerboseHandle = fopen('php://temp', 'w+');
+	curl_setopt($ch, CURLOPT_STDERR, $streamVerboseHandle);
+	
+	$resp = curl_exec($ch);
+	
+	//testez daca raspunsul este continut de fisier zip
+	if (substr($resp, 0, 4) == "\x50\x4b\x03\x04"){
+		//salvez fisierul zip
+		$filepath = LOCAL_PATH . "/documents/eFactura/$id_descarcare";
+		$filename = "{$id_descarcare}.zip";
+		
+		//daca nu exista folderul destinatie il creez
+		if (!is_dir($filepath)) mkdir($filepath);
+		
+		//scriere continut fisier zip
+		$f = fopen($filepath . '/' . $filename, 'w');
+		fwrite($f, $resp);
+		fclose($f);
+		chmod($filepath . '/' . $filename, 0755);
+		
+		//returnare rezultat
+		return ['result' => 0, 'filename' => $filepath . '/' . $filename];
+	}
+	else{
+		//NU este continut fisier zip
+		return ['result' => 1, 'error' => $resp];
+	}
+}
+
+3. Conversie xml in pdf
+Acesta este un serviciu web pus la dispozitie de ANAF prin care factura in format xml poate fi convertita in format pdf. Structura si formatul (macheta) documentului pdf nu este una foarte placuta, dar…e singura varianta pe care o avem la dispozitie.
+
+Apelul acestui serviciu nu necesita autentificare.
+
+Parametrii pentru request sunt:
+
+tip – tipul documentului, poate avea valorile FACT1 sau FCN
+novld – optional, se accepta doar valoarea DA, caz in care fisierul xml transmis nu va fi validat
+public function convertXML2PDF($tip, $xml_filepath, $invoice_no){
+	global $db;
+	
+	$pathinfo = pathinfo($xml_filepath);
+	$filepath = $pathinfo['dirname'];
+	$xml_filename = basename($xml_filepath);
+	$pdf_filename = $invoice_no . '.pdf';
+	
+	//preluare continut fisier xml
+	$xml_file_content = file_get_contents($filepath . '/' . $xml_filename);
+	//elimin headerul BOM (UTF-8) din continutul fisierului
+	$xml_file_content = remove_bom($xml_file_content);
+	//elimin secventa care poate genera erori
+	$xml_file_content = str_replace('xsi:schemaLocation="urn:oasis:names:specification:ubl:schema:xsd:Invoice-2 ../../UBL-2.1(1)/xsd/maindoc/UBL-Invoice-2.1.xsd"', '', $xml_file_content);
+
+	//interogare
+	$ch = curl_init();
+	curl_setopt($ch, CURLOPT_URL, "https://webservicesp.anaf.ro/prod/FCTEL/rest/transformare/$tip");
+	curl_setopt($ch, CURLOPT_POST, 1);
+	curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+	curl_setopt($ch, CURLOPT_FOLLOWLOCATION, 1);
+	curl_setopt($ch, CURLOPT_HTTP_VERSION, CURL_HTTP_VERSION_1_1);
+	curl_setopt($ch, CURLOPT_POSTFIELDS, $xml_file_content);
+	curl_setopt($ch, CURLOPT_HTTPHEADER,
+		array(
+			"Content-Type: text/plain",
+			"Accept-Encoding: gzip, deflate, br",
+			"Connection: keep-alive"
+		)
+	);		
+	
+	//verbose output
+	curl_setopt($ch, CURLOPT_VERBOSE, true);
+	$streamVerboseHandle = fopen('php://temp', 'w+');
+	curl_setopt($ch, CURLOPT_STDERR, $streamVerboseHandle);
+	
+	$resp = curl_exec($ch);
+	
+	rewind($streamVerboseHandle);
+	$verboseLog = stream_get_contents($streamVerboseHandle);
+	
+	//testez daca este continut de fisier pdf
+	if (substr($resp, 0, 4) == "\x25\x50\x44\x46"){
+		//salvez fisierul pdf
+		
+		//daca nu exista folderul destinatie il creez
+		if (!is_dir($filepath)) mkdir($filepath);
+		
+		//scriere continut fisier zip
+		$f = fopen($filepath . '/' . $pdf_filename, 'w');
+		fwrite($f, $resp);
+		fclose($f);
+		chmod($filepath . '/' . $pdf_filename, 0755);
+		
+		//returnare rezultat
+		return ['result' => 0, 'filename' => $filepath . '/' . $pdf_filename];
+	}
+	else{
+		//NU este continut fisier zip
+		return ['result' => 1, 'error' => $resp];
+	}
+}
+
+4. Interpretarea facturii xml de la furnizor (optional)
+Pentru interpretarea continutului unui document xml am utilizat clasa UBLParser pe care am obtinut-o de aici: https://github.com/ahmeti/ubl-parser-php/blob/master/UBLParser.php si pe care am adaptat-o situatiei mele. Aceasta clasa permite traversarea elementelor DOM ale fisierului xml si transformarea acestuia intr-un array. Secventa de cod de mai jos citeste continutul fisierului XML, iar apoi il interpreteaza (parseaza) in functie de tipul documentului: Factura sau Credit Note. La final, in variabila $f vom avea continutul documentului in format Array din care putem extrage mai usor informatiile necesare.
+
+Fisierul xml trebuie extras din arhiva zip descarcata din SPV. Pentru dezarhivare am folosit clasa ZipArchive din PHP.
+
+//DEZARHIVARE
+$zip = new ZipArchive();
+if ($zip->open($zip_filename)){
+	//extrag fisierul factura
+	$zip->extractTo(LOCAL_PATH . "/documents/eFactura/{$id_descarcare}", "{$id_solicitare}.xml");
+
+	//extrag fisierul semnatura
+	$zip->extractTo(LOCAL_PATH . "/documents/eFactura/{$id_descarcare}", "semnatura_{$id_solicitare}.xml");
+
+	$zip->close();
+}
+
+//citire continut fisier
+$xml = file_get_contents(LOCAL_PATH . "/documents/eFactura/{$id_descarcare}/{$id_solicitare}.xml");
+
+//eliminarea din continutul fisierului a secventei care poate genera erori de interpretare a fisierului XML
+$xml = str_replace('xmlns:schemaLocation="urn:oasis:names:specification:ubl:schema:xsd:Invoice-2 http://docs.oasis-open.org/ubl/os-UBL-2.1/xsd/maindoc/UBL-Invoice-2.1.xsd"', '', $xml);
+
+//INTERPRETARE CONTINUT XML
+$ubl = new UBLParser;
+$ubl->getDocDetails($xml);
+if ($ubl->docType == 'CreditNote'){
+	$tipDocument = 'FCN';
+	$ubl->parseCreditNote($xml);
+	$f = $ubl->getCreditNote();
+}
+else{
+	$tipDocument = 'FACT1';
+	$ubl->parseInvoice($xml);
+	$f = $ubl->getInvoice();
+}
+
+//numarul documentului
+$invoice_no = $f['ID'];
+
+This entry was posted in PHP, Programming, Web development and tagged ANAF, e-Factura, OAuth, SPV on 22.03.2024.
+Incarcare factura XML in platforma SPV ANAF folosind autentificarea OAuth in PHP
+Intr-un articol separat (Autentificare OAuth si obtinere token JWT de la ANAF folosind PHP) am descris modul de autentificare prin OAuth in platforma ANAF si obtinerea tokenului JWT care autorizeaza o aplicatie terta sa comunice cu platforma ANAF in numele unui client. Scopul acestei comunicari este transmiterea sau descarcarea facturilor electronice in SPV (Spatiul Privat Virtual) in format XML in contextul implementarii proiectului e-Factura de catre Ministerul de Finante.
+
+Resurse importante pentru crearea fisierului XML si pentru transmiterea facturilor catre SPV pot fi gasite aici:
+
+https://mfinante.gov.ro/web/efactura/informatii-tehnice
+https://www.anaf.ro/anaf/internet/ANAF/servicii_online/servicii_web_anaf/
+In contextul incarcarii facturii xml in SPV, ANAF pune la dispozitie servicii web pentru:
+
+validarea fisierului xml
+upload-ul fisierului xml
+verificarea starii unei facturi incarcate anterior
+descarcarea unui raspuns
+Mai jos vom crea metode pentru fiecare din aceste servicii web. Metodele fac parte din aceeasi clasa ANAF pe care am creat-o in primul articol (Autentificare OAuth si obtinere token JWT de la ANAF folosind PHP).
+
+1. Validarea fisierului XML
+Pentru validarea fisierului xml (serviciu care nu necesita autentificare) vom crea metoda validare_factura_xml().
+
+public function validare_factura_xml($xml_filename){
+	//VALIDARE
+	$ch = curl_init();
+	curl_setopt($ch, CURLOPT_URL, "https://webservicesp.anaf.ro/prod/FCTEL/rest/validare/FACT1");
+	curl_setopt($ch, CURLOPT_POST, 1);
+	curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+	curl_setopt($ch, CURLOPT_FOLLOWLOCATION, 1);
+	curl_setopt($ch, CURLOPT_HTTP_VERSION, CURL_HTTP_VERSION_1_1);
+	curl_setopt($ch, CURLOPT_CUSTOMREQUEST, 'POST');
+	curl_setopt($ch, CURLOPT_POSTFIELDS, file_get_contents($xml_filename));
+	curl_setopt($ch, CURLOPT_HTTPHEADER,
+		array(
+			'Content-Type: text/plain'
+		)
+	);		
+	$resp = curl_exec($ch);
+	$resp = json_decode($resp, true);
+	
+	if ($resp['stare'] == 'ok'){
+		return ['result' => 0];
+	}
+	else{
+		return ['result' => 1, 'errors' => $resp['Messages']];
+	}
+}
+
+Asa cum aminteste si documentatia, daca raspunsul returnat este de forma:
+
+The requested URL was rejected. Please consult with your administrator.
+Your support ID is: 15320385530209486105
+[Go Back]
+
+atunci, recomandarea ANAF este sa se elimine din continutul fisierului xml urmatoarea secventa:
+
+xsi:schemaLocation="urn:oasis:names:specification:ubl:schema:xsd:Invoice-2 ../../UBL-2.1(1)/xsd/maindoc/UBL
+Invoice-2.1.xsd"
+
+2. Upload fisier XML
+In continuare, daca fisierul xml a fost validat, urmeaza upload-ul acestuia in platforma SPV. Pentru aceasta vom crea metoda upload_factura_xml(). Accesarea acestui serviciu web necesita autentificare. Parametrul cif va contine partea numerica a codului fiscal al entitatii in numele careia se incarca fisierul xml.
+
+public function upload_factura_xml($xml_filename){
+	global $db;
+	
+	//verificare existenta token valid pentru ANAF
+	if (!$this->get_last_valid_token()){
+		return ['result' => 1, 'error' => 'Nu exista token valabil.'];
+	}
+	
+	//POSTARE (upload)
+	$ch = curl_init();
+	curl_setopt($ch, CURLOPT_URL, 'https://api.anaf.ro/prod/FCTEL/rest/upload?standard=UBL&cif=COD_FISCAL');
+	curl_setopt($ch, CURLOPT_POST, 1);
+	curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+	curl_setopt($ch, CURLOPT_FOLLOWLOCATION, 1);
+	curl_setopt($ch, CURLOPT_HTTP_VERSION, CURL_HTTP_VERSION_1_1);
+	curl_setopt($ch, CURLOPT_CUSTOMREQUEST, 'POST');
+	curl_setopt($ch, CURLOPT_POSTFIELDS, file_get_contents($xml_filename));
+	curl_setopt($ch, CURLOPT_HTTPHEADER,
+		array(
+			"Authorization: Bearer {$this->token_info['access_token']}",
+			"Content-Type: text/plain",
+			"Accept-Encoding: gzip, deflate, br",
+			"Connection: keep-alive"
+		)
+	);		
+	
+	$resp = curl_exec($ch);
+	
+	$dateResponse = $ExecutionStatus = $index_incarcare = null;
+	if (preg_match("/dateResponse=\"(\d*)\"/", $resp, $matches)) $dateResponse = $matches[1];
+	if (preg_match("/ExecutionStatus=\"(\d*)\"/", $resp, $matches)) $ExecutionStatus = $matches[1];
+	if (preg_match("/index_incarcare=\"(\d*)\"/", $resp, $matches)) $index_incarcare = $matches[1];
+	
+	if (!is_null($dateResponse) && !is_null($ExecutionStatus) && !is_null($index_incarcare)){
+		return ['result' => 0, 'dateResponse' => $dateResponse, 'ExecutionStatus' => $ExecutionStatus, 'index_incarcare' => $index_incarcare];
+	}
+	else{
+		return ['result' => 1, 'errors' => $resp];
+	}
+}
+
+Din raspunsul returnat de serviciul web ANAF am extras 3 parametri de care am avut nevoie si am considerat ca daca niciunul din acestia nu este null, atunci inseamna ca apelul a fost cu succes.
+
+Informatiile extrase din raspunsul ANAF le salvam intr-o tabela in care pastram relatia dintre numarul facturii si indexul de incarcare de care vom avea nevoie in continuare (pentru ca in ANAF nu se pot face cautari dupa numarul de factura):
+
+$r = $db->query("INSERT INTO anaf_spv
+				SET nr_factura = '$row[nr_factura]',
+					dateResponse = '$dateResponse',
+					ExecutionStatus = '$res[ExecutionStatus]',
+					index_incarcare = '$res[index_incarcare]';");
+
+3. Verificare stare mesaj
+La scurt timp dupa incarcarea facturii, aceasta este procesata, iar ANAF furnizeaza ca raspuns un mesaj. Urmatorul pas este verificarea starii mesajului corespunzator facturii incarcate in SPV. Functia propusa pentru aceasta interogare este verificare_stare_mesaj(). Apelul acestui serviciu necesita autentificare si se face pe baza indexului de incarcare obtinut in pasul anterior.
+
+public function verificare_stare_mesaj($nr_factura){
+	global $db;
+	
+	//verificare existenta token valid pentru ANAF
+	if (!$this->get_last_valid_token()){
+		return ['result' => 1, 'error' => 'Nu exista token valabil.'];
+	}
+	
+	//citire detalii factura incarcata anterior
+	$r = $db->query("SELECT * FROM anaf_spv WHERE nr_factura = '$nr_factura';");
+	$f = $r[0];
+	
+	//interogare
+	$ch = curl_init();
+	curl_setopt($ch, CURLOPT_URL, 'https://api.anaf.ro/prod/FCTEL/rest/stareMesaj?id_incarcare=' . $f['index_incarcare']);
+	curl_setopt($ch, CURLOPT_POST, 0);
+	curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+	curl_setopt($ch, CURLOPT_FOLLOWLOCATION, 1);
+	curl_setopt($ch, CURLOPT_HTTP_VERSION, CURL_HTTP_VERSION_1_1);
+	curl_setopt($ch, CURLOPT_CUSTOMREQUEST, 'GET');
+	curl_setopt($ch, CURLOPT_HTTPHEADER,
+		array(
+			"Authorization: Bearer {$anaf->token_info['access_token']}",
+			"Content-Type: text/plain",
+			"Accept-Encoding: gzip, deflate, br",
+			"Connection: keep-alive"
+		)
+	);		
+	
+	//verbose output
+	curl_setopt($ch, CURLOPT_VERBOSE, true);
+	$streamVerboseHandle = fopen('php://temp', 'w+');
+	curl_setopt($ch, CURLOPT_STDERR, $streamVerboseHandle);
+
+	$resp = curl_exec($ch);
+	
+	rewind($streamVerboseHandle);
+	$verboseLog = stream_get_contents($streamVerboseHandle);
+
+	//mesaje: ok (prelucrare cu succes), nok (prelucrare esuata), in prelucrare, XML cu erori nepreluat in sistem
+	$stare = $id_descarcare = null;
+	
+	//extragere a erorilor din formatul XML
+	$errors = [];
+	$xml = simplexml_load_string($resp);
+	if (isset($xml->Errors) && count($xml->Errors->attributes())){
+		foreach($xml->Errors->attributes() AS $msg){
+			$errors[] = $msg;
+		}
+	}
+	
+	if (trim($resp) == ''){
+		error_log("Interogare raspuns ANAF: $nr_factura");
+		error_log($verboseLog);
+		return ['result' => 1, 'error' => 'Raspuns vid la interogarea ANAF (verifica error_log)'];
+	}
+
+	//stare
+	if (preg_match("/header xmlns=\".*stareMesajFactura.*\" stare=\"([a-z\s\d]*)\"/", $resp, $matches)){
+		$stare = $matches[1];
+	}
+	elseif (preg_match("/Errors errorMessage=\".*stareMesajFactura.*\" stare=\"([a-z\s\d]*)\"/", $resp, $matches)){
+		$stare = $matches[1];
+	}
+
+	//id_descarcare
+	if (preg_match("/id_descarcare=\"(\d*)\"/", $resp, $matches)) $id_descarcare = $matches[1];
+	
+	if (!is_null($stare)){
+		//succes
+		return ['result' => 0, 'stare' => $stare, 'id_descarcare' => $id_descarcare, 'resp' => $resp];
+	}
+	else{
+		//eroare
+		if (count($errors))	return ['result' => 1, 'error' => implode(', ', $errors)];
+		else				return ['result' => 1, 'error' => $resp];
+	}
+}
+
+Daca raspunsul returnat este cu succes, atunci actualizam informatia legata de starea mesajului in aceeasi tabela in care am salvat indexul de incarcare:
+
+$db->query("UPDATE anaf_spv
+			SET stare = '$res[stare]',
+				id_descarcare = '$res[id_descarcare]'
+				stare_verificata_la = NOW()
+			WHERE nr_factura = '$row[nr_factura]';");
+
+4. Descarcare raspuns
+Descarcarea unui raspuns se face pe baza parametrului id_descarcare obtinut mai sus si care este asociat facturii. Apelul acestui serviciu necesita autentificare.
+
+Functia de mai jos efectueaza apelul serviciului web, apoi verifica daca informatia returnata este de tip fisier zip, iar apoi salveaza fisierul local, pe server.
+
+Raspunsul returnat de servicul web, in caz de succes, trebuie sa fie un fisier zip care contine:
+
+factura in format xml (cea care a fost uploadata initial)
+factura in format xml semnata de ANAF (practic este acelasi fisier xml ca si cel uploadat initial, in care a fost adaugata semnatura cu certificatul ANAF)
+Acest fisier zip este considerat ca fiind factura originala.
+
+public function descarcare_raspuns($nr_factura){
+	global $db;
+	
+	//verificare existenta token valid pentru ANAF
+	if (!$this->get_last_valid_token()){
+		return ['result' => 1, 'error' => 'Nu exista token valabil.'];
+	}
+	
+	//citire detalii factura incarcata anterior
+	$r = $db->query("SELECT * FROM anaf_spv WHERE nr_factura = '$nr_factura';");
+	$f = $r[0];
+	$id_descarcare = $f['id_descarcare'];
+	
+	//interogare
+	$ch = curl_init();
+	curl_setopt($ch, CURLOPT_URL, 'https://api.anaf.ro/prod/FCTEL/rest/descarcare?id=' . $id_descarcare);
+	curl_setopt($ch, CURLOPT_POST, 0);
+	curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+	curl_setopt($ch, CURLOPT_FOLLOWLOCATION, 1);
+	curl_setopt($ch, CURLOPT_HTTP_VERSION, CURL_HTTP_VERSION_1_1);
+	curl_setopt($ch, CURLOPT_CUSTOMREQUEST, 'GET');
+	curl_setopt($ch, CURLOPT_HTTPHEADER,
+		array(
+			"Authorization: Bearer {$anaf->token_info['access_token']}",
+			"Content-Type: text/plain",
+			"Accept-Encoding: gzip, deflate, br",
+			"Connection: keep-alive"
+		)
+	);		
+	
+	//verbose output
+	curl_setopt($ch, CURLOPT_VERBOSE, true);
+	$streamVerboseHandle = fopen('php://temp', 'w+');
+	curl_setopt($ch, CURLOPT_STDERR, $streamVerboseHandle);
+	
+	$resp = curl_exec($ch);
+	
+	rewind($streamVerboseHandle);
+	$verboseLog = stream_get_contents($streamVerboseHandle);
+	
+	//verific daca raspunsul returnat este fisier zip
+	if (substr($resp, 0, 4) == "\x50\x4b\x03\x04"){
+		//salvez fisierul zip
+		$filepath = LOCAL_PATH . "/documente-facturi/$nr_factura";
+		$filename = "{$id_descarcare}.zip";
+		
+		//daca nu exista folderul destinatie il creez
+		if (!is_dir($filepath)) mkdir($filepath);
+		
+		//scriere continut fisier zip
+		$f = fopen($filepath . '/' . $filename, 'w');
+		fwrite($f, $resp);
+		fclose($f);
+		chmod($filepath . '/' . $filename, 0755);
+		
+		//returnare rezultat
+		return ['result' => 0, 'filename' => $filepath . '/' . $filename];
+	}
+	else{
+		//NU este continut fisier zip
+		return ['result' => 1, 'error' => $resp . "\n" . $verboseLog];
+	}
+}
+
+This entry was posted in PHP, Programming, Web development and tagged ANAF, e-Factura, OAuth, SPV on 22.03.2024.
+Autentificare OAuth si obtinere token JWT de la ANAF folosind PHP
+Procesul de interfatare cu platforma ANAF in contextul e-Factura, pentru incarcarea sau descarcarea facturilor electronice, este destul de complex si presupune o serie de etape. ANAF pune la dispozitie o documentatie destul de slab pusa la punct, cu detalii tehnice de multe ori incomplete si impartite in mai multe documente pe care le gasim in locatii diferite.
+
+Cateva resurse utile puse la dispozitie de ANAF sunt cele de mai jos, in care se gasesc legaturi spre alte documente care ofera informatii necesare si utile:
+
+https://mfinante.gov.ro/ro/web/efactura/informatii-tehnice
+https://www.anaf.ro/anaf/internet/ANAF/servicii_online/servicii_web_anaf/
+Serviciile web puse la dispozitie de ANAF necesita autentificarea prin OAuth. Acest mod de autentificare permite unei aplicatii sa acceseze o resursa in numele unui utilizator, insa fara sa utilizeze sau sa expuna parola acestuia.
+
+In cazul ANAF, autentificarea prin OAuth si obtinerea unui token JWT va permite unei aplicatii terte sa comunice cu serviciile web ale ANAF in numele unei firme, fara sa expuna credentialele acelei firme in raport cu ANAF.
+
+1. Inrolarea ca si dezvoltator de aplicatii
+Inrolarea ca si dezvoltator de applicatii se face pe site-ul https://anaf.ro > Servicii Online > Inregistrare utilizatori > DEZVOLTATORI APLICAȚII > Inregistrare pentru API-uri
+
+Se completeaza toate informatiile solicitate in formular, apoi se confirma inregistrarea printr-un cod de siguranta primit pe email.
+
+2. Declararea aplicatiei web care va fi dezvoltata
+Declararea aplicatiei web se face pe site-ul https://anaf.ro > Autentificare utilizator
+
+Autentificarea in SPV (Spatiul Privat Virtual) este de tip 2FA (Two-Factor Authentication) si se face cu numele de utilizator si parola de la pasul anterior, la care se adauga un cod de siguranta care se primeste pe email.
+
+Dupa autentificare se navigheaza la Editare profil Oauth unde se va inrola aplicatia care va comunica cu serviciile web puse la dispozitie de ANAF.
+
+Se vor introduce:
+
+Denumire aplicatie: denumirea aplicatiei
+Callback URL: adresa URL a scriptului (in cazul nostru anaf-token.php) care va fi apelat in procesul de generare a tokenului de acces la serviciile web
+Serviciu: E-Factura si/sau E-Transport (dupa caz)
+La salvarea datelor sistemul va genera doua coduri: Client ID si Client Secret. Aceste coduri vor fi utilizate mai tarziu la obtinerea tokenului de acces.
+
+
+3. Obtinerea tokenului JWT folosind PHP
+Serviciile web puse la dispozitie de ANAF necesita autentificarea prin OAuth. Pentru obtinerea tokenului JWT vom avea nevoie de ClientID, Client Secret si Callback URL din pasul anterior.
+
+Fluxul pentru obtinerea tokenului este urmatorul:
+
+se apeleaza Authorization link
+acesta va apela inapoi Callback URL si va furniza valoare pentru parametrul code
+folosind parametrii code, Client ID, Client Secret si Callback URL se va apela URL-ul pentru obtinerea tokenului
+se returneaza si se salveaza tokenul JWT care are o valabilitate de 90 de zile
+O solutie potrivita este sa creem o clasa care sa contina toate configuratiile si functiile care tin de comunicarea cu ANAF.
+
+Class Anaf{
+	
+	public $code; //codul furnizat de ANAF pentru obtinerea tokenului
+	public $token; //tokenul obtinut
+	public $authorization_link;
+	private $anaf_resp; //raspunsul primit de la ANAF
+	private $token_info; //retine detaliile tokenului furnizate de ANAF
+	private $debug_info; //retine detaliile complete ale comunicatiei cu serverul ANAF
+	
+	public $authorize_url = "https://logincert.anaf.ro/anaf-oauth2/v1/authorize";
+	public $token_url = "https://logincert.anaf.ro/anaf-oauth2/v1/token";
+	public $revoke_url = "https://logincert.anaf.ro/anaf-oauth2/v1/revoke";
+
+	public $client_id = "CLIENT_ID"; //Client ID furnizat de ANAF la inregistrarea aplicatiei
+	public $client_secret = "CLIENT_SECRET"; //Client Secret furnizat de ANAF la inregistrarea aplicatiei
+	public $redirect_uri = "CALLBACK_URL"; //Callback URL completat la inregistrarea aplicatiei
+}
+
+Urmeaza sa creem metodele necesare. Prima metoda este cea care va crea link-ul de autorizare. Sunt importanti parametrii response_type=code si token_content_type=jwt.
+
+public function get_authorization_link(){
+	$this->authorization_link = $this->authorize_url . "?response_type=code&token_content_type=jwt&client_id=" . $this->client_id . "&redirect_uri=" . $this->redirect_uri;
+}
+
+Urmatoarea metoda este interogarea pentru obtinerea tokenului. Pentru obtinerea tokenului este obligatoriu ca interogarea sa se faca de pe un calculator la care este conectat fizic certificatul digital care a fost inregistrat la ANAF.
+
+Din punct de vedere tehnic, o idee care s-a dovedit foarte buna pentru debugging a fost aceea ca la fiecare interogare sa citesc detaliile legate de comunicarea cu serverul ANAF (stabilirea conexiunii, autentificarea, negocierea protocoalelor, etc…). Pentru asta am setat optiunea CURLOPT_VERBOSE pe valoarea true, iar informatia returnata am salvat-o in variabila debug_info, iar ulterior si in baza de date (pentru consultari ulterioare).
+
+public function get_token(){
+	$ch = curl_init();
+	curl_setopt($ch, CURLOPT_URL, $this->token_url);
+	curl_setopt($ch, CURLOPT_POST, true);
+	curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+	curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true);
+	curl_setopt($ch, CURLOPT_TIMEOUT, 30);
+	curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
+	curl_setopt($ch, CURLOPT_HTTP_VERSION, CURL_HTTP_VERSION_1_1);
+	curl_setopt($ch, CURLOPT_CUSTOMREQUEST, 'POST');
+	curl_setopt($ch, CURLOPT_POSTFIELDS, http_build_query(array(
+		'code' => $this->code,
+		'grant_type' => 'authorization_code',
+		'redirect_uri' => $this->redirect_uri,
+		'token_content_type' => 'jwt'
+	)));
+	curl_setopt($ch, CURLOPT_HTTPHEADER, array(
+			'Cache-control: no-cache',
+			"Content-type: application/x-www-form-urlencoded",
+			"Accept: */*",
+			"Accept-encoding: gzip, deflate, br",
+			"Connection:keep-alive",
+			'Authorization: Basic ' . base64_encode($this->client_id.":".$this->client_secret)
+		)
+	);
+	
+	//verbose - init
+	curl_setopt($ch, CURLOPT_VERBOSE, true);
+	$verbose = fopen('php://temp', 'w+');
+	curl_setopt($ch, CURLOPT_STDERR, $verbose);
+	
+	//executa interogarea
+	$this->anaf_resp = curl_exec($ch);
+	
+	//verbose - read
+	rewind($verbose);
+	$verboseLog = stream_get_contents($verbose);
+	$this->debug_info = $verboseLog;
+	
+	//interpretarea raspunsului returnat
+	if ($this->anaf_resp === FALSE){
+		printf("Eroare la interogarea ANAF (#%d): %s<br>\n", curl_errno($ch), htmlspecialchars(curl_error($ch)));
+		return false;
+	}
+	else{
+		$this->token_info = json_decode($this->anaf_resp, true);
+		if (isset($this->token_info['error'])){
+			//eroare
+			echo "Eroare la obtinerea tokenului.";
+			return false;
+		}
+		else{
+			//succes
+			$this->save_token();
+			return true;
+		}
+	}
+}
+
+Functia de salvare a tokenului arata cam asa:
+
+public function save_token(){
+	global $db;
+	$r = $db->query("INSERT INTO `anaf_tokens`
+					SET `access_token` = '" . $this->token_info['access_token'] . "',
+						`expires_in` = '" . $this->token_info['expires_in'] . "',
+						`token_type` = '" . $this->token_info['token_type'] . "',
+						`scope` = '" . $this->token_info['scope'] . "',
+						`refresh_token` = '" . $this->token_info['refresh_token'] . "',
+						`anaf_raw` = '" . $db->real_escape($this->anaf_resp) . "',
+						`debug_info` = '" . $db->real_escape($this->debug_info) . "',
+						`flag_status` = 'new',
+						`issued_date` = NOW();");
+}
+
+Impreuna cu tokenul de acces, care este valabil 90 de zile, a fost generat si tokenul de refresh, care are o valabilitate de 365 de zile. Tokenul de refresh va fi folosit pentru obtinerea unui nou token de acces JWT, fara a mai fi necesara autentificarea cu certificat digital, cu conditia ca acest lucru sa fie facut inainte de expirarea tokenului de acces initial.
+
+Obtinerea unui nou token de acces JWT pe baza tokenului de refresh se realizeaza prin metoda urmatoare:
+
+public function refresh_token($access_token){
+	global $db;
+	
+	//selectam detaliile tokenului actual din baza de date
+	$r = $db->query("SELECT * FROM anaf_tokens WHERE access_token = '$access_token' ORDER BY issued_date DESC LIMIT 0, 1;");
+	$this->token_info = $r[0];
+	
+	$ch = curl_init();
+	curl_setopt($ch, CURLOPT_URL, $this->token_url);
+	curl_setopt($ch, CURLOPT_POST, true);
+	curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+	curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true);
+	curl_setopt($ch, CURLOPT_TIMEOUT, 30);
+	curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
+	curl_setopt($ch, CURLOPT_HTTP_VERSION, CURL_HTTP_VERSION_1_1);
+	curl_setopt($ch, CURLOPT_CUSTOMREQUEST, 'POST');
+	curl_setopt($ch, CURLOPT_POSTFIELDS, http_build_query(array(
+		'client_id' => $this->client_id,
+		'client_secret' => $this->client_secret,
+		'refresh_token' => $this->token_info['refresh_token'],
+		'grant_type' => 'refresh_token'
+	)));
+	curl_setopt($ch, CURLOPT_HTTPHEADER, array(
+			'Authorization: Bearer ' . $this->token_info['access_token'],
+			"Content-type: application/x-www-form-urlencoded",
+		)
+	);
+	
+	//verbose - init
+	curl_setopt($ch, CURLOPT_VERBOSE, true);
+	$verbose = fopen('php://temp', 'w+');
+	curl_setopt($ch, CURLOPT_STDERR, $verbose);
+	
+	//do curl
+	$this->anaf_resp = curl_exec($ch);
+	
+	//verbose - read
+	rewind($verbose);
+	$verboseLog = stream_get_contents($verbose);
+	$this->debug_info = $verboseLog;
+	
+	if ($this->anaf_resp === FALSE){
+		printf("Eroare la interogarea ANAF (#%d): %s<br>\n", curl_errno($ch), htmlspecialchars(curl_error($ch)));
+		return false;
+	}
+	else{
+		$this->token_info = json_decode($this->anaf_resp, true);
+		if (isset($this->token_info['error'])){
+			echo "Eroare la refresh-ul tokenului.";
+			return false;
+		}
+		else{
+			$this->update_token();
+			return true;
+		}
+	}
+}
+
+Mai jos este metoda de actualizare a tokenului in baza de date. Practic este aceeasi metoda ca si cea de salvare, singura diferenta fiind faptul ca in campul flag_status se salveaza valoarea refresh in loc de new. Am ales, totusi, sa fie o functie distincta.
+
+public function update_token(){
+	global $db, $user;
+	//se va insera o noua inregistrare cu data curenta
+	$r = $db->query("INSERT INTO `anaf_tokens`
+					SET `access_token` = '" . $this->token_info['access_token'] . "',
+						`expires_in` = '" . $this->token_info['expires_in'] . "',
+						`token_type` = '" . $this->token_info['token_type'] . "',
+						`scope` = '" . $this->token_info['scope'] . "',
+						`refresh_token` = '" . $this->token_info['refresh_token'] . "',
+						`debug_info` = '" . $db->real_escape($this->debug_info) . "',
+						`flag_status` = 'refresh',
+						`issued_date` = NOW();");
+}
+
+Conform informatiilor furnizate de ANAF in documentatie si in webinariile tehnice tokenul JWT nu poate fi revocat. Prin urmare, daca va fi necesara vreodata aceasta operatiune, atunci trebuie contactat ANAF prin formularul de contact si vor dezactiva/sterge tokenul respectiv.
+
+Ar mai fi de amintit trei metode din clasa ANAF:
+
+__construct() – metoda constructor a clasei ANAF, care initializeaza client_id, client_secret, redirect_uri si authorization_link
+get_last_valid_token() – verifica in baza de date daca exista un token in perioada de valabilitate si ii returneaza toate detaliile
+set_code() – preia codul furnizat de ANAF in vederea obtinerii tokenului de acces JWT
+public function __construct(){
+	$this->client_id		= ANAF_CLIENTID;
+	$this->client_secret	= ANAF_SECRET;
+	$this->redirect_uri		= ANAF_REDIRECT_URL;
+	
+	$this->get_authorization_link();
+}
+
+public function get_last_valid_token(){
+	global $db;
+	$r = $db->query("SELECT *, DATE_ADD(issued_date, INTERVAL expires_in SECOND) AS expiration_date
+					FROM anaf_tokens
+					WHERE DATE_ADD(issued_date, INTERVAL expires_in SECOND) > NOW()
+					ORDER BY issued_date DESC
+					LIMIT 0, 1;");
+	if ($db->num_rows){
+		$this->token_info = $r[0];
+		return true;
+	}
+	return false;
+}
+
+public function set_code($code){
+	$this->code = $code;
+}
+
+Mai jos ar fi o propunere pentru continutul fisierului anaf-token.php. Acest fisier este cel care va raspunde la Callback URL pentru obtinerea codului de autorizare (code), pentru obtinerea tokenului de acces si pentru refresh-ul tokenului existent. Tot acest script poate fi utilizat si pentru afisarea informatiilor tokenului curent. Este doar o propunere, care poate fi adaptata dupa nevoia fiecaruia.
+
+//initializare
+$anaf = new ANAF();
+
+if ($_GET['action'] == 'new'){
+	
+	//redirectionare spre autorizare ANAF si obtinere code
+	header("Location: {$anaf->authorization_link}");
+	exit();
+	
+}
+elseif ($_GET['code'] != ''){
+	
+	//obtinere token
+	$anaf->set_code($_GET['code']);
+	if ($anaf->get_token()){
+		header("Location: ./anaf-token.php");
+		exit();
+	}
+	
+}
+elseif ($_GET['action'] == 'refresh'){
+	
+	//verific daca exista token valabil
+	if ($anaf->get_last_valid_token()){
+		//efectuez refresh la tokenul existent
+		if ($anaf->refresh_token($anaf->token_info['access_token'])){
+			header("Location: ./anaf-token.php");
+			exit();
+		}
+	}
+	
+}
+elseif ($_GET['error'] != ''){
+	
+	//eroare
+	$anaf->token_info['error'] = $_GET['error'];
+	
+}
+else{
+	
+	//afisarea informatiilor legate de tokenului curent
+	
+}
+
+Obtinerea efectiva a tokenului JWT de la ANAF folosind autentificarea OAuth va avea loc dupa cum urmeaza:
+
+se apeleaza scriptul anaf-token.php?action=new
+acest script va face redirectionare catre adresa $anaf->authorization_link
+ANAF va apela inapoi anaf-token.php (Callback URL) si va furniza valoare pentru parametrul code
+anaf-token.php va apela din nou serviciul ANAF prin metoda $anaf->get_token()
+ANAF va returna access_token si refresh_token.
+This entry was posted in PHP, Programming, Web development and tagged ANAF, e-Factura, OAuth, SPV on 22.03.2024.
+Instalare libssh2 si php-ssh2 pe un server CentOS
+Leave a reply
+yum install php-devel
+yum install libssh2-devel
+Descarcare pachet libssh2 de la http://libssh2.org:
+
+cd /opt
+wget https://libssh2.org/download/libssh2-1.8.0.tar.gz
+tar vxzf libssh2-1.4.2.tar.gz
+cd libssh2-1.4.2
+./configure
+make
+make install
+Descarcare pachet php-ssh2 de la http://pecl.php.net/package/ssh2:
+
+cd /opt
+wget http://pecl.php.net/get/ssh2-0.13.tgz
+tar vxzf ssh2-0.11.3
+cd ssh2-0.11.3
+phpize
+./configure --with-ssh2
+make
+make install
+La finalul instalarii fisierul ssh2.so va fi copiat la locatia /usr/lib64/php/modules.
+
+Modifica fisierul php.ini adaugand linia urmatoare in sectiunea extensions:
+
+extension=ssh2.so
+Verificare utiliand functia phpinfo().
+
+La final trebuie restartat serviciul httpd.
+
+This entry was posted in CentOS, PHP and tagged centos, libssh2, php on 10.05.2017.
+Uploadify – eroare HTTP 302 in Firefox
+Leave a reply
+In scriptul JS:
+
+$('#upload').uploadify({
+	'scriptData': { 'session': '<?php echo session_id(); ?>' }
+});
+In scriptul PHP:
+
+if (array_key_exists('session_id', $_REQUEST))
+	session_id($_REQUEST['session_id']);
+Sursa: http://www.uploadify.com/forum/#/discussion/4832/php-and-sessions-to-uploadify.php
+
+This entry was posted in PHP, Web development and tagged firefox, uploadify on 11.01.2016.
+Instalare si configurare memcached si memcache
+Leave a reply
+Memcached este un mecanism de stocare a informatiei sub forma unei perechi (cheie:valoare) in memoria RAM, reducand prin aceasta accesul la disk sau executarea unor interogari asupra unei baze de date. Memcached este distribuit gratuit si poate rula pe diverse sisteme de operare cum sunt Linux, Windows sau Mac OS.
+
+Instalarea si configurarea memcached sunt destul de simple. Pentru utilizare, intr-un scenariu obisnuit (server Linux, Apache, MySQL, Php) sunt necesare 2 pachete software:
+
+memcached (serviciul memcached)
+php-pecl-memcache (extensia php care faciliteaza comunicarea cu serviciul memcached). Continue reading →
+This entry was posted in PHP and tagged memcache, memcached on 21.08.2015.
+Instalare SAPRFC 7.20 pe un server CentOS 7
+Leave a reply
+Libraria SAPRFC este o extensie pentru php4 si php5 si permite comunicarea cu sistemele SAP R/3. Este distribuita sub licenta PHP si nu este creata de SAP AG. Pentru instalare este necesara si libraria RFCSDK, care poate fi obtinuta din Sap Service Marketplace, asa cum este descris mai jos. Pentru descarcarea din Sap Service Marketplace este necesar un ID de client SAP.
+
+In continuare sunt detaliati pasii pentru instalarea librariei SAPRFC pe un server CentOS 7. Server-ul CentOS 7 a fost instalat cu profilul Basic Web Server si include PHP Support.
+
+1. Descarcare SAPCAR
+Sap Service Marketplace > Products > Software Downloads > Support Packages and Patches > Browse Download Catalog > Additional Components
+
+Se descarca utilitarul SAPCAR pentru platforma corespunzatoare. Pentru ca SAPCAR e mai usor de utilizat in Windows, am descarcat versiunea pentru Windows si toate dezarhivarile le-am efectuat sub Windows apoi am transferat fisierele pe server-ul Linux.
+
+SAPCAR este un utilitar pentru arhivare/dezarhivare construit de SAP. Cateva detalii despre utilizarea lui pot fi gasite aici: http://www.easymarketplace.de/SAPCAR.php. Pentru dezarhivarea unui fisier de tip .sar cu utilitarul SAPCAR, indiferent de platforma, se foloseste comanda:
+
+SAPCAR_[version].exe -xvf [SAR filename].sar
+2. Descarcare SAP RFC SDK (Non-Unicode)
+Sap Service Marketplace > Products > Software Downloads > Support Packages and Patches > Browse Download Catalog > Additional Components
+
+De aici se descarca pachetul SAP RFC SDK Non-UNICODE pentru platforma corespunzatoare (in cazul meu am descarcat versiunea 7.20 pentru Linux on x86_64 64bit).  Dupa dezarhivare, folderul rfcsdk se copiaza pe serverul Linux la locatia /usr/src/rfcsdk.
+
+3. Descarcare librfc
+Sap Service Marketplace > Products > Software Downloads > Support Packages and Patches > Browse Download Catalog > Additional Components > SAP Kernel > SAP Kernel 64bit > SAP Kernel 7.20 64bit > Linux on x86_64 64bit > #Database independent
+
+De aici se descarca fisierul librfc_715-10007252.sar. Se dezarhiveaza cu utilitarul SAPCAR, apoi se copiaza fisierul librfccm.so pe serverul Linux la locatia /usr/src/rfcsdk/lib. Daca exista deja acolo un fisier cu acelasi nume trebuie suprascris.
+
+Nota 413708 – detalii despre libraria RFC curenta.
+Nota 955397 – detalii despre utilizarea RFC SDK sub Linux
+Nota 27517 – detalii despre instalarea RFC SDK (sub Windows)
+
+4. Download si instalare re2c (optional)
+wget http://pkgs.repoforge.org/re2c/re2c-0.13.5-1.el6.rf.x86_64.rpm
+rpm -Uvh re2c-0.13.5-1.el6.rf.x86_64.rpm
+Detalii: http://pkgs.repoforge.org/re2c/
+
+5. Instalare instrumente suplimentare
+yum install php-devel
+yum group install Development Tools
+6. Instalare SAPRFC
+[root@localhost tmp]# cd /tmp
+[root@localhost tmp]# wget http://nchc.dl.sourceforge.net/project/saprfc/saprfc/1.4.1/saprfc-1.4.1.tar.gz
+[root@localhost tmp]# tar -zxf saprfc-1.4.1.tar.gz
+[root@localhost tmp]# cp -R saprfc-1.4.1 /usr/src
+[root@localhost tmp]# cd /usr/src/saprfc-1.4.1
+[root@localhost saprfc-1.4.1]# export SAPRFC_DIR=/usr/src/rfcsdk/
+[root@localhost saprfc-1.4.1]# export PATH=$SAPRFC_DIR/bin:$PATH
+[root@localhost saprfc-1.4.1]# phpize
+[root@localhost saprfc-1.4.1]# ./configure
+[root@localhost saprfc-1.4.1]# make (se ignora erorile zend deprecated)
+[root@localhost saprfc-1.4.1]# make install
+Daca comanda make se finalizeaza cu eroare:
+
+compilation terminated.
+make: *** [saprfc.lo] Error 1
+atunci se editeaza fisierul saprfc.c, la linia 47, si se modifica  function_entry in zend_function_entry (detalii aici).
+
+Daca eroarea se refera la lipsa fisierului rfcsi.h, atunci acest fisier trebuie copiat in /usr/src/rfcsdk/include. Fisierul se poate obtine dintr-o librarie rfcsdk mai veche (versiunea 6.40), care poate fi descarcata dupa instructiunile de la pasul 2.
+
+La final, pentru adaugarea extensiei saprfc in php, se editeaza fisierul /etc/php.ini si se adauga linia:
+
+extension=saprfc.so
+dupa care se restarteaza serviciul httpd.
+
+Pentru a testa daca instalarea a avut succes, se copiaza fisierul /usr/src/saprfc-1.4.1/saprfc_test.php in locatia /var/www/html (sau /var/www/vhosts/default – in cazul unui server administrat cu Plesk). Se acceseaza adresa http://sever-ip/saprfc_test.php, si daca se incarca formularul de autentificare inseamna ca libraria a fost instalata cu succes.
+
+Toate fisierele utilizate pentru instalarea SAPRFC pot fi descarcate si de aici:
+SAPCAR (windows)
+SAPCAR (linux)
+SAP RFC SDK Non-UNICODE
+LIBRFC (librfc_715-10007252.sar)
+
+Detalii: http://saprfc.sourceforge.net/
+
+This entry was posted in CentOS, PHP, SAP and tagged centos, librfc, rfcsdk, saprfc on 05.03.2015.
+PHP max_input_vars
+Leave a reply
+Pentru firma unde lucrez am dezvoltat o aplicatie care permite crearea rapida si usoara a ofertelor de pret pentru clientii nostri. Aplicatia permite introducerea unuia sau a mai multor coduri de produs, apoi interogheaza baza de date SAP si returneaza date despre produse (7 campuri pentru fiecare produs): producator, denumire, pret, stoc disponibil, etc…
+
+Recent, un coleg a avut de facut o oferta care continea aprox 200 de coduri de produs. Dar in urma interogarii erau returnate informatiile doar pentru aprox 160 de produse. Am inceput sa fac tot felul de teste sa vad de unde apare limitarea. Continue reading →
+
+This entry was posted in PHP, Plesk and tagged jquery, max_input_vars, php, plesk, serialize on 08.10.2013.
+Trimitere email cu autentificare prin SMTP
+Leave a reply
+La unul din proiectele din trecut am avut nevoie de o clasa pentru trimiterea email-urilor cu autentificare prin SMTP. Cineva mi-a recomandat clasa Mail din PEAR Framework. Clasa permite destul de multe operatiuni si pana in urma cu cateva zile am fost multumit de ea.
+
+Recent, insa, am avut nevoie sa trimit email-uri catre mai multe adrese in Cc si Bcc. Aici aparea o anomalie si am gasit ca ar fi vorba de un bug inca nerezolvat (http://pear.php.net/bugs/bug.php?id=8047). Unii spun ca problema este din libraria Mail de la PEAR, altii spun ca problema ar fi la functia mail() din PHP si nu in libraria Mail. Oriunde ar fi problema, am consumat destul de mult timp incercand sa gasesc o solutie, insa fara succes. In final am renuntat la a mai utiliza aceasta librarie si am cautat solutii echivalente. Continue reading →
+
+This entry was posted in PHP and tagged mail, php, phpmailer on 25.09.2013.
+Sortare array multidimensional in PHP
+Leave a reply
+Exista situatii in care anumite informatii sunt stocate intr-un array multidimensional, cum ar fi, de exemplu, continutul unui tabel care trebuie apoi afisat intr-o pagina. Daca tabelul are un numar considerabil de linii si coloane este posibil sa apara nevoia sortarii informatiei dupa anumite coloane.
+
+In cazul in care informatia este adusa direct dintr-o tabela a unei baze de date, atunci lucrurile sunt destul de simple, pentru ca sortarea se poate face la momentul interogarii bazei de date. Insa, daca informatia de pe anumite coloane ale tabelului este calculata dupa anumite formule si nu poate fi regasita direct in baza de date interogata, atunci lucrurile se complica putin. In aceasta situatie, sortarea trebuie facuta direct pe array-ul multidimensional care contine informatia din tabelul de afisat. Continue reading →
+
+This entry was posted in PHP and tagged php on 12.06.2013.
