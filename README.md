@@ -495,7 +495,7 @@ Cei de la [fiscalitatea.ro](https://www.fiscalitatea.ro/) mi-au transmis si [Nou
 
 Acest articol al celor de la [factureaza.ro](https://factureaza.ro/e-factura) va poate constitui o bna sursa de informare.
 
-Unele informatii si despre ghidul SAF-T puteti citi in acest [articol](https://attosoft.ro/noua-era-digitala-anaf-efactura-saft-etransport/).
+Unele informatii si despre ghidul [SAF-T](https://www.rvx.ro/manual/docs/saf-t/declaratia-saf-t/) puteti citi in acest [articol](https://attosoft.ro/noua-era-digitala-anaf-efactura-saft-etransport/).
 </details>
 
  ## 3. [**eTransport**](https://mfinante.gov.ro/ro/web/etransport)
