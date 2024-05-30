@@ -550,7 +550,7 @@ Despre functionarea sistemului [eTransport](https://static.anaf.ro/static/10/Gal
 
 Registrul [eTransport](https://www.info-expert.ro/newsletter/registrul-etransport) este o piesa importanta a [puzzle](https://static.anaf.ro/static/10/Iasi/material_informativ-3_04-01-2023.pdf)-ului acestui sistem de raportare [ANAF](https://www.xpertsoft.ro/en/products/ro-e-transport-en/);
 
-Si site=ul [TDec](https://www.tdec.ro/) are o prezentare cu privire la eTransport si eFactura.
+Si site=ul [TDec](https://www.tdec.ro/) are o prezentare cu privire la [eTransport](https://doc-process.com/ro-e-transport/) si [eFactura](https://seniorxrp.ro/blog/ro-e-transport-ce-este-si-cum-se-face-raportarea-in-sistemul-ro-e-transport-care-sunt-tipurile-de-transporturi-vizate/).
 
 </details>
 
