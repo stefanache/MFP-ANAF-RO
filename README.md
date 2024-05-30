@@ -540,7 +540,7 @@ Daca nu v-a convins poate va [ghideaza](https://www.nexuserp.ro/caut/e-transport
 
 Daca doriti sa aflati cam ce [nomenclatoare](https://www.elian-solutions.ro/sistemul-ro-e-transport-pentru-microsoft-dynamics-365-business-central-si-dynamics-nav-navision/) sunt specifice [eTransport](https://www.juridice.ro/737005/precizari-anaf-ref-sistemul-ro-e-transport.html) atunci acest mic [articol](https://www.transart.ro/lps/sistemul-ro-e-transport/) pare sa face ceva lumina.
 
-Pentru cei ce se grabesc sa afla informatii cat mai rapid, aceasta [sinteza](https://forum.sagasoft.ro/viewtopic.php?t=51556) poate fi [solutia](https://www.euload.com/blog.view.php?id=61);
+Pentru cei ce se grabesc sa afla [informatii](https://lege5.ro/Gratuit/geztcmzxge3ta/transmiterea-datelor-in-sistemul-ro-e-transport-procedura?dp=guytcnzshe3dama#google_vignette) cat mai rapid, aceasta [sinteza](https://forum.sagasoft.ro/viewtopic.php?t=51556) poate fi [solutia](https://www.euload.com/blog.view.php?id=61);
 
 Daca doriti sa vedeti [structura unui document xml](https://info-expert.ro/pagina-carte/instructiuni-etransport) utilizat pt eTransport puteti incerca sa studiati si acest [portal](https://www.portalcontabilitate.ro/structura-fisierului-xml-utilizat-in-sistemul-ro-e-transport-bunuri-cu-risc-fiscal-ridicat-153008.htm) sau [aici](https://manual.sagasoft.ro/sagac/topic-81-e-transport.html)
 
