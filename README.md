@@ -546,7 +546,8 @@ Daca doriti sa vedeti structura unui document xml utilizat pt eTransport puteti 
 
 Iata cum arata o [corectie xml](https://mfinante.gov.ro/static/10/eTransport/corectie_1807.xml) pt [eTransport](https://www.nexuserp.ro/noutate/generare-fisiere-xml-pentru-e-transport/78403);
 
-Despre functionarea sistemului eTransport puteti afla daca cititi pe acest [site](https://termene.ro/articole/cum-va-functiona-sistemul-ro-e-transport)
+Despre functionarea sistemului [eTransport](https://static.anaf.ro/static/10/Galati/Vrancea/Proc-RO-e-Transport.pdf) puteti afla daca cititi pe acest [site](https://termene.ro/articole/cum-va-functiona-sistemul-ro-e-transport)
+
 </details>
 
  ## 4. [**Declaratii; Impozitul pe Venit ori pe Profit, TVA, Accize,...**](https://static.anaf.ro/static/10/Anaf/Contribuabili/scurt_ghid.htm)
