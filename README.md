@@ -667,6 +667,8 @@ generarii numerelor de evidenta a platii pentru
  - Decizii de impunere si
  - Documente de constatare amenda
 
+Daca veti dori sa verificati online starea Documentului <b>D112</b> incarcate/predate la ANAF pe internet/ la ghseu atunci veti putea utiliza acest [link](https://www.anaf.ro/StareD112/);
+
 </details>
 
  ## 5. [**MFP**](https://mfinante.gov.ro/domenii) - factor integrator:
