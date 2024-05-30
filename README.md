@@ -457,6 +457,8 @@ Tot legat de ***erorile*** aparute la [incarcarea/transmiterea](https://contabil
 
 Un [tutorial e-Factura ANAF web API token JWT](https://www.licomp.ro/efactura_tutor.aspx) poate fi consultat dpdv tehnic.
 
+Un subiect interesant este legat de erorile posibile aparute la/in raportarea [eFactura](http://download.winmentor.ro/WinMentor/Documentatie/20_e-Factura/Erori%20posibile%20si%20cauze%20E-factura.pdf).
+
 </details>
 
  ## 2. [**Declaratia 406 si 406T(SAF-T)**](https://www.homecont.ro/declaratia-d406-saf-t-fisierul-standard-de-control-fiscal.htm) ([D406](https://noagroup.ro/fisierul-standard-de-control-fiscal-saf-t-si-testarea-voluntara-pentru-incarcarea-declaratiei-d406t/) audit/control financiar); Sistemul [SAF-T](https://www.pwc.ro/ro/pwc-romania-digital/tax-technology/saf-t.html)
