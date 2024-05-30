@@ -557,7 +557,7 @@ Tripleta [SAF-T,eFactura si eTransport](https://kpmg.com/ro/ro/home/events/2024/
 
 Despre [erori](http://download.winmentor.ro/WMEnterprise/Documentatie/MENTOR/E-Transport/Erori%20frecvente-%20E-Transport.pdf) de raportare eTransport puteti citi [aici](http://download.winmentor.ro/WMEnterprise/Documentatie/MENTOR/E-Transport/Erori%20frecvente-%20E-Transport.pdf)
 
-Autoritatea vamala are un rol important in cadrul sistemului [eTransport](https://www.customs.ro/assets/pdf/AES//Instructiuni_OP._ECONOMIC_IN_LUCRU_Final_de_pus_pe_site_.pdf).
+[Autoritatea vamala](https://doc-process.com/ro/ro-e-transport/) are un rol important in cadrul sistemului [eTransport](https://www.customs.ro/assets/pdf/AES//Instructiuni_OP._ECONOMIC_IN_LUCRU_Final_de_pus_pe_site_.pdf).
 
 </details>
 
