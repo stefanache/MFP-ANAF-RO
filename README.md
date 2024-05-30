@@ -556,6 +556,9 @@ Si site=ul [TDec](https://www.tdec.ro/) are o prezentare cu privire la [eTranspo
 Tripleta [SAF-T,eFactura si eTransport](https://kpmg.com/ro/ro/home/events/2024/02/eveniment-kpmg-romania-saft-efactura-etransport.html) impreuna cu [declaratiile fiscale](https://www.softteam.ro/documente/SAFT%20-%20eFactura%20-%20eTransport%20v.2.pdf) alcatuiesc sistemul de  raportare [MFP-ANAF](https://ajutorgestiune.smartbill.ro/article/1026-emiterea-notificarii-e-transport).
 
 Despre [erori](http://download.winmentor.ro/WMEnterprise/Documentatie/MENTOR/E-Transport/Erori%20frecvente-%20E-Transport.pdf) de raportare eTransport puteti citi [aici](http://download.winmentor.ro/WMEnterprise/Documentatie/MENTOR/E-Transport/Erori%20frecvente-%20E-Transport.pdf)
+
+Autoritatea vamala are un rol important in cadrul sistemului [eTransport](https://www.customs.ro/assets/pdf/AES//Instructiuni_OP._ECONOMIC_IN_LUCRU_Final_de_pus_pe_site_.pdf).
+
 </details>
 
  ## 4. [**Declaratii; Impozitul pe Venit ori pe Profit, TVA, Accize,...**](https://static.anaf.ro/static/10/Anaf/Contribuabili/scurt_ghid.htm)
