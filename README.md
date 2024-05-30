@@ -548,7 +548,7 @@ Iata cum arata o [corectie xml](https://mfinante.gov.ro/static/10/eTransport/cor
 
 Despre functionarea sistemului [eTransport](https://static.anaf.ro/static/10/Galati/Vrancea/Proc-RO-e-Transport.pdf) puteti afla daca cititi pe acest [site](https://termene.ro/articole/cum-va-functiona-sistemul-ro-e-transport)
 
-Registrul [eTransport](https://www.info-expert.ro/newsletter/registrul-etransport) este o piesa importanta a puzzle-ului acestui sistem de raportare [ANAF](https://www.xpertsoft.ro/en/products/ro-e-transport-en/);
+Registrul [eTransport](https://www.info-expert.ro/newsletter/registrul-etransport) este o piesa importanta a [puzzle](https://static.anaf.ro/static/10/Iasi/material_informativ-3_04-01-2023.pdf)-ului acestui sistem de raportare [ANAF](https://www.xpertsoft.ro/en/products/ro-e-transport-en/);
 
 </details>
 
