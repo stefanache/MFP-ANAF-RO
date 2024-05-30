@@ -559,7 +559,7 @@ Despre [erori](http://download.winmentor.ro/WMEnterprise/Documentatie/MENTOR/E-T
 
 [Autoritatea vamala](https://doc-process.com/ro/ro-e-transport/) are un rol important in cadrul sistemului [eTransport](https://www.customs.ro/assets/pdf/AES//Instructiuni_OP._ECONOMIC_IN_LUCRU_Final_de_pus_pe_site_.pdf).
 
-[Nedeclararea](https://www.sagasoftware.ro/e-factura-e-transport-neclaritati-si-unele-clarificari/) atrage [sancitiuni](https://www.universuljuridic.ro/anaf-proiect-ordin-pentru-aprobarea-procedurii-de-utilizare-si-functionare-a-sistemului-national-privind-monitorizarea-transporturilor-de-bunuri-cu-risc-fiscal-ridicat-ro-e-transport/).
+Conform documentatiei [legale](https://www.ziuacargo.ro/stiri/proiect-anaf-procedura-de-utilizare-a-ro-e-transport-197145.html/), [nedeclararea](https://www.sagasoftware.ro/e-factura-e-transport-neclaritati-si-unele-clarificari/) atrage [sancitiuni](https://www.universuljuridic.ro/anaf-proiect-ordin-pentru-aprobarea-procedurii-de-utilizare-si-functionare-a-sistemului-national-privind-monitorizarea-transporturilor-de-bunuri-cu-risc-fiscal-ridicat-ro-e-transport/).
 
 </details>
 
