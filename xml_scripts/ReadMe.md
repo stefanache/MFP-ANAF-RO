@@ -46,13 +46,10 @@ De asemenea, ati/veti putea folosi/apela la [serviciile](https://mfinante.gov.ro
 
 Pe site-ul [UE](https://www.vatupdate.com/2023/12/17/guide-on-the-use-of-the-national-electronic-invoicing-system-ro-e-invoice-english-translation/) mai gasiti cateva informatii interesante despre [eInvoicing-ul](https://ec.europa.eu/digital-building-blocks/sites/display/DIGITAL/eInvoicing+in+Romania) din Romania.
 
-Puteti citi sespre [eTransport](https://www.portalcontabilitate.ro/structura-fisierului-xml-utilizat-in-sistemul-ro-e-transport-bunuri-cu-risc-fiscal-ridicat-153008.htm) si despre fisierele [xml](https://etransport.mfinante.gov.ro/informatii-tehnice) implicate pe site-ul de specialitate al ***ANAF***-ului; Fisierele xml furnizate ca exemplu pot fi studiate si se afla in fartea finala a ***Informatiilor tehnice eTransport***;
-
-
 [Billit](https://www.billit.eu/en-int/peppol-access-point/anaf-e-invoicing-in-romania/) prezinta de asemena cateva link-uri utile(daca nu cumva ati aflat de existenta lor deja!)
 
 Un articol comercial interesant despre eFactura si eTransport poate fi consultat accesand acest [link](https://www.smartcash.ro/efactura-anaf-connector/);
 
 La fel de interesant(in special pe zona de manipulare date) este si acest ghid de configurare oferit de [MS](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1jQ8k);
 
-
+Puteti citi sespre [eTransport](https://www.portalcontabilitate.ro/structura-fisierului-xml-utilizat-in-sistemul-ro-e-transport-bunuri-cu-risc-fiscal-ridicat-153008.htm) si despre fisierele [xml](https://etransport.mfinante.gov.ro/informatii-tehnice) implicate pe site-ul de specialitate al ***ANAF***-ului; Fisierele xml furnizate ca exemplu pot fi studiate si se afla in fartea finala a ***Informatiilor tehnice eTransport***;
