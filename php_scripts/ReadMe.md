@@ -1198,10 +1198,13 @@ De asemenea, cateva informatii utile referitoare la **D-395** pot fi gasite tot 
 Nu uitati informatii oficiale despre serviciile web **ANAF** gasiti in articolul intitulat [***Prezentare servicii web pentru Sistemul national privind factura electronica RO e-Factura***](https://mfinante.gov.ro/static/10/eFactura/prezentare%20apeluri%20API%20E-factura.pdf);
 
 Daca nu aveti mai mult de 5 facturi pe luna si doriti sa accesati un serviciu gratuit direct din api-ul dvs. PhP atunci puteti incerca [factureaza.ro](https://factureaza.ro/documentatie-api-v1);
-Chiar daca nu veti folosi acest serviciu, apelurile REST cURL si desigur raspunsurile acestora pot constitui un model util de abordare a subiectului eFactura;
+Chiar daca nu veti folosi acest serviciu, apelurile **REST cURL** si desigur raspunsurile acestora pot constitui un model util de abordare a subiectului ***eFactura***;
 
-Pe site-ul celor de la [lorand](https://lorand.work/category/php/) am gasit o colectie de functii legate de [autorizare jwt](https://lorand.work/autentificare-oauth-si-obtinere-token-jwt-de-la-anaf-folosind-php/) si eFactura(dar nu [numai](https://lorand.work/category/pontaj-electronic/)!).
+Pe site-ul celor de la [lorand](https://lorand.work/category/php/) am gasit o colectie de functii legate de **[autorizare jwt**](https://lorand.work/autentificare-oauth-si-obtinere-token-jwt-de-la-anaf-folosind-php/) si eFactura(dar nu [numai](https://lorand.work/category/pontaj-electronic/)!).
 
-In cazul in care doriti sa va creati propriul serviciu online este util sa vedeti si [API](https://www.oblio.eu/efactura)-ul celor de la [oblio](https://www.oblio.eu/api).
+In cazul in care doriti sa va creati propriul serviciu online este util sa vedeti si [**API**](https://www.oblio.eu/efactura)-ul celor de la [oblio](https://www.oblio.eu/api).
 
-Pentru transformarea xml2pdf am gasit acest [cod-PhP](https://happyweb.ro/articol/eroare-la-transformare-e-factura-din-xml-in-pdf)
+Pentru transformarea **xml2pdf** am gasit acest [***cod-PhP***](https://happyweb.ro/articol/eroare-la-transformare-e-factura-din-xml-in-pdf)
+
+Pentru partea de **semnatura digitala** a unui **xml** puteti consulta si acest [repo-github](https://github.com/marcelxyz/php-XmlDigitalSignature/tree/master).
+
