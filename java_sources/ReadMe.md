@@ -30,3 +30,6 @@ Din ***java CLI/shell*** puteti rula  [**DUKIntegrator**](https://www.facebook.c
     java -version:1.6 -jar "C:\dist\DUKIntegrator.jar" -c C:\dist\config -v FACT1 C:/factura.xml C:/erori.txt 1
 
 Nu uitati informatii oficiale despre serviciile web **ANAF** gasiti in articolul intitulat [***Prezentare servicii web pentru Sistemul national privind factura electronica RO e-Factura***](https://mfinante.gov.ro/static/10/eFactura/prezentare%20apeluri%20API%20E-factura.pdf);
+
+
+Pentru ***declaratii-ANAF*** consultati acest [depozit-ghithub](https://github.com/IncrementalCommunity/declaratii-anaf/tree/master)
