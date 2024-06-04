@@ -52,4 +52,4 @@ Un articol comercial interesant despre eFactura si eTransport poate fi consultat
 
 La fel de interesant(in special pe zona de manipulare date) este si acest ghid de configurare oferit de [MS](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1jQ8k);
 
-Puteti citi sespre [eTransport](https://www.portalcontabilitate.ro/structura-fisierului-xml-utilizat-in-sistemul-ro-e-transport-bunuri-cu-risc-fiscal-ridicat-153008.htm) si despre fisierele [xml](https://etransport.mfinante.gov.ro/informatii-tehnice) implicate pe site-ul de specialitate al ***ANAF***-ului; Fisierele xml furnizate ca exemplu pot fi studiate si se afla in fartea finala a ***Informatiilor tehnice eTransport***;
+Puteti citi despre [eTransport](https://www.portalcontabilitate.ro/structura-fisierului-xml-utilizat-in-sistemul-ro-e-transport-bunuri-cu-risc-fiscal-ridicat-153008.htm) si despre fisierele [xml](https://etransport.mfinante.gov.ro/informatii-tehnice) implicate pe site-ul de specialitate al ***ANAF***-ului; Fisierele xml furnizate ca exemplu pot fi studiate si se afla in fartea finala a ***Informatiilor tehnice eTransport***;
