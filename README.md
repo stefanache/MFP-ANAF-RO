@@ -671,7 +671,7 @@ generarii numerelor de evidenta a platii pentru
 
 Daca veti dori sa verificati online starea Documentului [<b>D112</b>](https://www.suport.nexuserp.ro/index.php?id=246&tip=cafenea) incarcate/predate la ANAF pe internet/ la ghseu atunci veti putea utiliza acest [link](https://www.anaf.ro/StareD112/);
 
-</details>
+Probabil ca ar putea fi util in anumite situatii sa studiati si acest raport cu privire la [**erorile**](https://static.anaf.ro/static/10/Anaf/declunica/Erori_frecventev5.pdf) frecvente de raportare ale ***DU=D112***; 
 
  ## 5. [**MFP**](https://mfinante.gov.ro/domenii) - factor integrator:
 <details>
