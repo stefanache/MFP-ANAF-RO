@@ -259,7 +259,7 @@ Pentru cei grabiti [reddit](https://www.reddit.com/r/programare/comments/18c3bg8
           
 - 08. [***OASIS***](https://www.xml.com/articles/2017/01/01/what-is-ubl/) [**UBL**](https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=ubl) [**2.2**](https://docs.oasis-open.org/ubl/UBL-2.2.html): https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=ubl
 
-- 09. exemplu catalan de [factura UBL2.1](https://gist.github.com/evervasquez/28ad8389396b4cea359ca20586a5343d): https://gist.github.com/evervasquez/28ad8389396b4cea359ca20586a5343d
+- 09. exemplu catalan de [factura](https://gist.github.com/evervasquez/28ad8389396b4cea359ca20586a5343d) [UBL2.1](https://docs.oasis-open.org/ubl/cos1-UBL-2.1/UBL-2.1.html): https://gist.github.com/evervasquez/28ad8389396b4cea359ca20586a5343d
 
 - 10. proiectul [OpenUBL]( https://gist.github.com/evervasquez/28ad8389396b4cea359ca20586a5343d): https://gist.github.com/evervasquez/28ad8389396b4cea359ca20586a5343d
 
