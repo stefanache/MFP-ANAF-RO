@@ -3,3 +3,5 @@
 [***chilkat***](https://www.example-code.com/) este un SW [*cross-language*](https://hotfox.ro/forum/viewtopic.php?t=132)(PhP,.NET,C,C++,C#,ASP,VB,Java,GO,Perl,Ruby,Swift,TCL,VFP,SQL-server,DELPHI,nodeJS,...)
 
 Puteti citi [aici](https://www.chilkatsoft.com/purchase) mai multe depre procesul de [***licentiere***](https://www.chilkatsoft.com/licensingExplained.asp) al produsului SW **chilkat**
+
+**chilkat** poate fi [descarcat](https://www.chilkatsoft.com/downloads.asp) alegand varianta specifica fiecarui limbaj in parte 
