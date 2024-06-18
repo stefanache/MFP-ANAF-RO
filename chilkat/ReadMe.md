@@ -4,4 +4,6 @@
 
 Puteti citi [aici](https://www.chilkatsoft.com/purchase) mai multe depre procesul de [***licentiere***](https://www.chilkatsoft.com/licensingExplained.asp) al produsului SW **chilkat**
 
-**chilkat** poate fi [descarcat](https://www.chilkatsoft.com/downloads.asp) alegand varianta specifica fiecarui limbaj in parte (ex. Pt. in cazul PhP, il puteti descarca de [aici](https://www.chilkatsoft.com/php.asp))
+**chilkat** poate fi [descarcat](https://www.chilkatsoft.com/downloads.asp) alegand varianta specifica fiecarui limbaj in parte (ex. Pt. in cazul limbajului PhP, il puteti descarca de [aici](https://www.chilkatsoft.com/php.asp))
+
+apoi **chilkat** este si *cross-pltform*(adica este si pt mai multe sisteme de operare!)
