@@ -233,7 +233,6 @@ Aceste [nomenclatoare](https://happyweb.ro/articol/nomenclatoare-e-factura) se g
 ## 0. [**e-TVA**](https://www.economica.net/guvernul-a-aprobat-procedurile-pentru-implementarea-decontului-precompletat-ro-e-tva_755827.html)
  <details>
  </details>     
-</details>
 ## 1. **[Factura electronica](https://www.contact.info.ro/ghid-e-factura-la-anaf/)** [eFactura](https://www.anaf.ro/anaf/internet/ANAF/despre_anaf/strategii_anaf/proiecte_digitalizare/e.factura):
 <details>
 
