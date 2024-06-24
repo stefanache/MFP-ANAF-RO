@@ -251,6 +251,9 @@ Registrul persoanelor care aplică [plata defalcată a TVA](https://www.anaf.ro/
 
 [TVA-ul de la A la Z](https://lege5.ro/gratuit/ge2tanzvheyde/tva-de-la-a-la-z-ghid-practic-editia-a-2-a-revizuita-si-actualizata-in-colaborare-cu-madalin-ispas) - ghid practic.
 
+
+[Ghiseul unic pt TVA](https://static.anaf.ro/static/10/Anaf/Informatii_R/oss_guidelines_ro_160721.pdf)
+
 <a href="https://hotnews.ro/e-tva-de-la-1-august-2024-dar-in-loc-de-simplificare-situatia-se-complica-in-practica-ce-arata-procedura-ministerului-finantelor-document-1523715">e-TVA devine complementara e-Factura</a>
 
 [e-TVA decont precompletat](https://www.startupcafe.ro/taxe/decont-precompletat-etva-proceduri-implementare-aprobare.htm)
