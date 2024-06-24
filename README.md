@@ -259,6 +259,8 @@ Registrul persoanelor care aplică [plata defalcată a TVA](https://www.anaf.ro/
 
 [TVA CE UE](https://trade.ec.europa.eu/access-to-markets/ro/content/taxa-pe-valoarea-adaugata-0)
 
+[TVA intracomunitar](https://wise.com/ro/blog/tva-intracomunitar)
+
 <a href="https://hotnews.ro/e-tva-de-la-1-august-2024-dar-in-loc-de-simplificare-situatia-se-complica-in-practica-ce-arata-procedura-ministerului-finantelor-document-1523715">e-TVA devine complementara e-Factura</a>
 
 [e-TVA decont precompletat](https://www.startupcafe.ro/taxe/decont-precompletat-etva-proceduri-implementare-aprobare.htm)
