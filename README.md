@@ -228,7 +228,7 @@ Aceste [nomenclatoare](https://happyweb.ro/articol/nomenclatoare-e-factura) se g
   
      O Observatie importanta este si faptul ca aceste informatii standardizate/generale/comune/tipizate pot avea uneori reprezentari distribuite/repartizate geografic ... in acest caz veti putea face apel la reprezantari geografice de tip harta.
      Pentru acesta ar trebui sa apelati la elemente de reprezentare [geografica](https://geo-spatial.org/vechi/articole/i-servicii-web-geospatiale-wms)(servere,clienti,proxi-uri...)
-
+</details>
 </details>
      
 ## 1. **[Factura electronica](https://www.contact.info.ro/ghid-e-factura-la-anaf/)** [eFactura](https://www.anaf.ro/anaf/internet/ANAF/despre_anaf/strategii_anaf/proiecte_digitalizare/e.factura):
