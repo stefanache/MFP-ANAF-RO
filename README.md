@@ -247,6 +247,8 @@ Aceste [nomenclatoare](https://happyweb.ro/articol/nomenclatoare-e-factura) se g
 
 [e-TVA decont precompletat](https://www.startupcafe.ro/taxe/decont-precompletat-etva-proceduri-implementare-aprobare.htm)
 
+[Casele de marcat vor transmite decontul **e-TVA**](https://www.avocatnet.ro/articol_66902/e-TVA-Casele-de-marcat-vor-transmite-noi-informa%C8%9Bii-c%C4%83tre-ANAF-pentru-a-fi-posibil%C4%83-precompletarea-deconturilor-de-TVA.html)
+
 ## 1. **[Factura electronica](https://www.contact.info.ro/ghid-e-factura-la-anaf/)** [eFactura](https://www.anaf.ro/anaf/internet/ANAF/despre_anaf/strategii_anaf/proiecte_digitalizare/e.factura):
 <details>
 
