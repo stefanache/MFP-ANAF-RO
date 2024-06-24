@@ -314,12 +314,14 @@ Prin noul sistem se urmărește creșterea gradului de colectare a veniturilor b
 Când va începe ANAF analiza datelor furnizate de sistemele digitale?
 
 Utilizarea şi/sau implementarea de către Ministerul Finanţelor a modulelor de analiză a datelor şi informaţiilor furnizate prin intermediul sistemului informatic de interes strategic național S.I.I.S.N. urmează următorul calendar:
-RO e-Factura – sistemul național de facturare electronică: 1 martie 2024;
-RO e-Case de marcat electronice – registrul naţional de evidenţă a aparatelor de marcat electronice fiscale instalate în judeţe şi în sectoarele municipiului Bucureşti: 1 aprilie 2024;
-RO e-Sigiliu – sigiliul electronic al mărfurilor de urmărire a deplasării pe calea rutieră a bunurilor: 1 ianuarie 2025;
-RO e-Transport – sistemul de monitorizare a transporturilor rutiere de bunuri cu risc fiscal ridicat: 1 septembrie 2024;
-RO e-TVA – sistemul de precompletare a deconturilor de TVA: 1 august 2024;
-alte module: 1 martie 2025.
+
+ - RO e-Factura – sistemul național de facturare electronică: 1 martie 2024;
+ - RO e-Case de marcat electronice – registrul naţional de evidenţă a aparatelor de marcat electronice fiscale instalate în judeţe şi în sectoarele municipiului Bucureşti: 1 aprilie 2024;
+ - RO e-Sigiliu – sigiliul electronic al mărfurilor de urmărire a deplasării pe calea rutieră a bunurilor: 1 ianuarie 2025;
+ - RO e-Transport – sistemul de monitorizare a transporturilor rutiere de bunuri cu risc fiscal ridicat: 1 septembrie 2024;
+ - RO e-TVA – sistemul de precompletare a deconturilor de TVA: 1 august 2024;
+ - alte module: 1 martie 2025.
+
 Totodată, începând cu data de 1 ianuarie 2024 se înființează, la nivelul ANAF, Evidența operativă a veniturilor din digitalizare, care are drept scop evidențierea/urmărirea/monitorizarea lunară a veniturilor suplimentare rezultate din utilizarea S.I.I.S.N. și a modulelor de valorificare pentru gestionarea veniturilor publice.
 
 </details>
