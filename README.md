@@ -234,7 +234,10 @@ Aceste [nomenclatoare](https://happyweb.ro/articol/nomenclatoare-e-factura) se g
 ## 0.  [**e-TVA**](https://www.economica.net/guvernul-a-aprobat-procedurile-pentru-implementarea-decontului-precompletat-ro-e-tva_755827.html):
 <details>
       
-      Sistemul RO e-TVA se implementează cu data de 1 august 2024 pentru operaţiunile efectuate începând cu data de 1 iulie 2024 de persoanele impozabile înregistrate în scopuri de TVA şi se transmite, pentru fiecare perioadă fiscală de raportare, prin intermediul SPV, până la data de 20 inclusiv a fiecărei luni următoare încheierii perioadei fiscale.
+      Sistemul RO e-TVA se implementează cu data de 1 august 2024 pentru <br>
+      operaţiunile efectuate începând cu data de 1 iulie 2024 de persoanele impozabile înregistrate în scopuri de TVA şi <br/>
+      se transmite, pentru fiecare perioadă fiscală de raportare, prin intermediul SPV, <br/>
+      până la data de 20 inclusiv a fiecărei luni următoare încheierii perioadei fiscale.
       
 </details>
 
