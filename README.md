@@ -241,8 +241,7 @@ Aceste [nomenclatoare](https://happyweb.ro/articol/nomenclatoare-e-factura) se g
               
 </details>
 
-***Procedura e-TVA:*** 
-<details><summary>Toggle me!</summary>
+***Procedura e-TVA:***<details><summary>Toggle me!</summary>
       
       Procedura de folosire a RO e-TVA:
       
