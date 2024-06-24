@@ -231,7 +231,7 @@ Aceste [nomenclatoare](https://happyweb.ro/articol/nomenclatoare-e-factura) se g
 </details>
 
 
-## 0.  [**e-TVA**](https://www.economica.net/guvernul-a-aprobat-procedurile-pentru-implementarea-decontului-precompletat-ro-e-tva_755827.html) - decont pre-completat, [e-Sigiliu, e-Case,](https://adevarul.ro/economie/sistemul-e-tva-intra-in-vigoare-la-1-august-2370703.html) [...](https://termene.ro/articole/sistemul-ro-e-tva-va-fi-aplicat-de-la-1-august):
+## 0.  [**e-TVA**](https://www.economica.net/guvernul-a-aprobat-procedurile-pentru-implementarea-decontului-precompletat-ro-e-tva_755827.html) - decont pre-completat, [e-Sigiliu](https://noagroup.ro/ro-e-tva-deconturi-de-tva-precompletate-de-la-1-august-2024-ro-e-vat-pre-filled-vat-returns-from-august-1st-2024/), [e-Case,](https://adevarul.ro/economie/sistemul-e-tva-intra-in-vigoare-la-1-august-2370703.html) [...](https://termene.ro/articole/sistemul-ro-e-tva-va-fi-aplicat-de-la-1-august):
 
 Wikipedia [**TVA**](https://ro.wikipedia.org/wiki/Taxa_pe_valoarea_ad%C4%83ugat%C4%83)
 
