@@ -241,6 +241,18 @@ Aceste [nomenclatoare](https://happyweb.ro/articol/nomenclatoare-e-factura) se g
               
 </details>
 
+Procedura e-TVA: 
+<details>
+      Procedura de folosire a RO e-TVA
+După primirea decontului precompletat RO e-TVA, persoanele impozabile înregistrate în scopuri de TVA verifică datele și informațiile precompletate în concordanță cu operațiunile impozabile realizate și starea de fapt fiscală. Indiferent de primirea decontului precompletat RO e-TVA, persoana impozabilă are obligația de a transmite decontul de taxă pe valoarea adăugată până la termenul prevăzut de lege.
+Pentru realizarea comparabilității, actul normativ reglementează definirea diferențelor semnificative în sensul valorilor care depășesc pragul de semnificație ce îndeplinește condițiile cumulative de minim 20% în cotă procentuală și o valoare absolută de minim 1.000 lei, rezultate din compararea valorilor înscrise în rândurile din decontul de taxă pe valoarea adăugată depus de persoana impozabilă, cu cele corespunzătoare rândurilor din decontul precompletat RO e-TVA.
+Stabilirea pragului de semnificație în cadrul actului normativ creează premisele conștientizării obiectivelor urmărite de administrația fiscală și implicit creșterea conformării voluntare a persoanelor impozabile înregistrate în scopuri de TVA.
+După identificarea diferențelor semnificative, se transmite formularul electronic de notificare „Diferențe operațiuni impozabile RO e-TVA” în Spațiul Privat Virtual, iar persoana impozabilă înregistrată în scopuri de TVA are obligația transmiterii formularului electronic denumit „Notă justificativă privind diferențe RO e-TVA” prin mijloacele electronice, ca rezultat al verificărilor realizate asupra diferențelor comunicate.
+Agenția Națională de Administrare Fiscală analizează Nota justificativă privind diferențe RO e-TVA și dispune măsurile legale în conformitate cu competențele atribuite și obiectivele actului normativ propus. Totodată, actul normativ reglementează transmiterea, în baza analizei de risc efectuate de către Agenția Națională de Administrare Fiscală, a formularului „Diferențe operațiuni impozabile RO e-TVA” și în situația în care diferențele identificate sunt sub pragul de semnificație.
+Modelele de formulare electronice, modificarea acestora, precum și actualizarea pragului de semnificație se realizează prin ordine de președinte al Agenției Naționale de Administrare Fiscală în termenele și condițiile precizate de actul normativ. De asemenea, se stabilesc sancțiunile aplicabile în cazul netransmiterii Notei justificative privind diferențe RO e-TVA sau a nerespectării termenului legal de transmitere a acesteia.
+Suplimentar, actul normativ reglementează faptul că nefurnizarea sau furnizarea parțială a informațiilor solicitate prin Nota justificativă privind diferențe RO e-TVA reprezintă indicator de risc fiscal privind nivelul de declarare al taxei pe valoare adăugată.
+În funcție de nivelul riscului fiscal al persoanei impozabile, stabilit pe baza analizei de risc, aceasta poate face obiectul inspecției fiscale sau controlului antifraudă. De asemenea, se stabilesc și alte situații în care persoana impozabilă înregistrată în scopuri de TVA prezintă risc de rambursare necuvenită a TVA, în plus față de cele deja prevăzute la art. 169 alin. (4) din Codul de procedură fiscală.
+</details>
 [Scutiri de TVA](https://www.noulcodfiscal.ro/titlu-7/capitol-9/articol-292.html)
 
 Ghid [rambursare TVA](https://wise.com/ro/blog/rambursare-tva)
