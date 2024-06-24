@@ -243,6 +243,8 @@ Aceste [nomenclatoare](https://happyweb.ro/articol/nomenclatoare-e-factura) se g
 
 [Scutiri de TVA](https://www.noulcodfiscal.ro/titlu-7/capitol-9/articol-292.html)
 
+Ghid [rambursare TVA](https://wise.com/ro/blog/rambursare-tva)
+
 Registrul de TVA poate fi consultat folosind link-ul [https://www.anaf.ro/RegistruTVA/](https://www.anaf.ro/RegistruTVA/)
 
 Registrul persoanelor impozabile care aplică sistemul [TVA la încasare](https://www.anaf.ro/anaf/internet/ANAF/servicii_online/registre/tva_incasare_registru)
