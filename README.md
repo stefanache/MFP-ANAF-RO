@@ -235,7 +235,7 @@ Aceste [nomenclatoare](https://happyweb.ro/articol/nomenclatoare-e-factura) se g
 
 Wikipedia [**TVA**](https://ro.wikipedia.org/wiki/Taxa_pe_valoarea_ad%C4%83ugat%C4%83)
 
-<details>
+<details><summary>**RO e-TVA**</summary>
       
       Sistemul RO e-TVA se implementează cu data de 1 august 2024 pentru 
       operaţiunile efectuate începând cu data de 1 iulie 2024 de persoanele impozabile înregistrate în scopuri de TVA şi 
