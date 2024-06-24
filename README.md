@@ -231,7 +231,7 @@ Aceste [nomenclatoare](https://happyweb.ro/articol/nomenclatoare-e-factura) se g
 </details>
 
 
-## 0.  [**e-TVA**](https://www.economica.net/guvernul-a-aprobat-procedurile-pentru-implementarea-decontului-precompletat-ro-e-tva_755827.html):
+## 0.  [**e-TVA**](https://www.economica.net/guvernul-a-aprobat-procedurile-pentru-implementarea-decontului-precompletat-ro-e-tva_755827.html) - decont pre-completat:
 <details>
       
       Sistemul RO e-TVA se implementează cu data de 1 august 2024 pentru 
