@@ -230,7 +230,11 @@ Aceste [nomenclatoare](https://happyweb.ro/articol/nomenclatoare-e-factura) se g
      Pentru acesta ar trebui sa apelati la elemente de reprezentare [geografica](https://geo-spatial.org/vechi/articole/i-servicii-web-geospatiale-wms)(servere,clienti,proxi-uri...)
 </details>
 </details>
-     
+
+## [**e-TVA**](https://www.economica.net/guvernul-a-aprobat-procedurile-pentru-implementarea-decontului-precompletat-ro-e-tva_755827.html):
+<details>
+      **e-TVA**
+</details>
 ## 1. **[Factura electronica](https://www.contact.info.ro/ghid-e-factura-la-anaf/)** [eFactura](https://www.anaf.ro/anaf/internet/ANAF/despre_anaf/strategii_anaf/proiecte_digitalizare/e.factura):
 <details>
 
