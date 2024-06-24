@@ -247,7 +247,7 @@ Registrul persoanelor impozabile care aplică sistemul [TVA la încasare](https:
 
 Registrul persoanelor care aplică [plata defalcată a TVA](https://www.anaf.ro/anaf/internet/ANAF/servicii_online/registre/reg_plata_defalcata_TVA).
 
-
+[Ghidul TVA](https://www.mfinante.gov.ro/static/10/Mfp/legislatie/Ghid_TVA_parteaI.htm) -[partea I](https://www.mfinante.gov.ro/static/10/Mfp/legislatie/GhidTVA_I.pdf)
 
 <a href="https://hotnews.ro/e-tva-de-la-1-august-2024-dar-in-loc-de-simplificare-situatia-se-complica-in-practica-ce-arata-procedura-ministerului-finantelor-document-1523715">e-TVA devine complementara e-Factura</a>
 
