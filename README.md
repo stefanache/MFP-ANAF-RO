@@ -244,6 +244,13 @@ Aceste [nomenclatoare](https://happyweb.ro/articol/nomenclatoare-e-factura) se g
 ## 1. **[Factura electronica](https://www.contact.info.ro/ghid-e-factura-la-anaf/)** [eFactura](https://www.anaf.ro/anaf/internet/ANAF/despre_anaf/strategii_anaf/proiecte_digitalizare/e.factura):
 <details>
 
+[e-Factura](https://www.digi24.ro/digieconomic/financiar/este-lege-de-la-1-ianuarie-e-factura-este-obligatorie-in-relatia-firma-client-22077) se extinde și devine obligatorie pentru 
+toate tranzacțiile din România - OUG
+
+Citește mai mult la: https://www.digi24.ro/digieconomic/financiar/este-lege-de-la-1-ianuarie-e-factura-este-obligatorie-in-relatia-firma-client-22077
+
+Informaţiile publicate pe site-ul Digi Economic pot fi preluate, în conformitate cu legislația aplicabilă, doar în limita a 120 de caractere.
+
 [*Nota:*](https://www.europafm.ro/marcel-bolos-e-factura-nu-are-probleme-ne-vom-intalni-cu-ceccar/) A se vedea [***analiza generatorului***](https://stefanache.github.io/MFP-ANAF-RO/js_scripts/anaf/eFactura/generator_eFactura.html) [**eFactura**](https://www.anaf.ro/anaf/internet/ANAF/despre_anaf/strategii_anaf/proiecte_digitalizare/e.factura);
 
 Pentru cei grabiti [reddit](https://www.reddit.com/r/programare/comments/18c3bg8/implementare_serviciu_efactura/) a pus la dispozitie cateva URL-uri utile legate de [ANAF](https://www.startupcafe.ro/taxe/e-factura-ministru-bolos-vina-pe-greseli-fac-utilizatorii.htm): 
