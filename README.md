@@ -238,6 +238,8 @@ Aceste [nomenclatoare](https://happyweb.ro/articol/nomenclatoare-e-factura) se g
       operaţiunile efectuate începând cu data de 1 iulie 2024 de persoanele impozabile înregistrate în scopuri de TVA şi 
       se transmite, pentru fiecare perioadă fiscală de raportare, prin intermediul SPV, 
       până la data de 20 inclusiv a fiecărei luni următoare încheierii perioadei fiscale.
+
+      Registrul de TVA poate fi consultat folosind link-ul https://www.anaf.ro/RegistruTVA/
       
 </details>
 
