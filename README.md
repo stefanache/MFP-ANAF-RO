@@ -229,7 +229,7 @@ Aceste [nomenclatoare](https://happyweb.ro/articol/nomenclatoare-e-factura) se g
      O Observatie importanta este si faptul ca aceste informatii standardizate/generale/comune/tipizate pot avea uneori reprezentari distribuite/repartizate geografic ... in acest caz veti putea face apel la reprezantari geografice de tip harta.
      Pentru acesta ar trebui sa apelati la elemente de reprezentare [geografica](https://geo-spatial.org/vechi/articole/i-servicii-web-geospatiale-wms)(servere,clienti,proxi-uri...)
 </details>
-</details>
+
 
 ## 0.  [**e-TVA**](https://www.economica.net/guvernul-a-aprobat-procedurile-pentru-implementarea-decontului-precompletat-ro-e-tva_755827.html):
 <details>
@@ -240,6 +240,9 @@ Aceste [nomenclatoare](https://happyweb.ro/articol/nomenclatoare-e-factura) se g
       până la data de 20 inclusiv a fiecărei luni următoare încheierii perioadei fiscale.
 
       Registrul de TVA poate fi consultat folosind link-ul https://www.anaf.ro/RegistruTVA/
+
+      e-TVA devine complementara e-Factura:
+      https://hotnews.ro/e-tva-de-la-1-august-2024-dar-in-loc-de-simplificare-situatia-se-complica-in-practica-ce-arata-procedura-ministerului-finantelor-document-1523715
       
 </details>
 
