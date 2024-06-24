@@ -238,11 +238,12 @@ Aceste [nomenclatoare](https://happyweb.ro/articol/nomenclatoare-e-factura) se g
       operaţiunile efectuate începând cu data de 1 iulie 2024 de persoanele impozabile înregistrate în scopuri de TVA şi 
       se transmite, pentru fiecare perioadă fiscală de raportare, prin intermediul SPV, 
       până la data de 20 inclusiv a fiecărei luni următoare încheierii perioadei fiscale.
-
-                 
+              
 </details>
 
 Registrul de TVA poate fi consultat folosind link-ul [https://www.anaf.ro/RegistruTVA/](https://www.anaf.ro/RegistruTVA/)
+
+Registrul persoanelor care aplică [plata defalcată a TVA](https://www.anaf.ro/anaf/internet/ANAF/servicii_online/registre/reg_plata_defalcata_TVA).
 
 <a href="https://hotnews.ro/e-tva-de-la-1-august-2024-dar-in-loc-de-simplificare-situatia-se-complica-in-practica-ce-arata-procedura-ministerului-finantelor-document-1523715">e-TVA devine complementara e-Factura</a>
 
