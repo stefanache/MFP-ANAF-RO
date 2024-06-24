@@ -287,7 +287,41 @@ Procedura e-TVA<details><summary>- pasi procedurali:</summary>
 - Suplimentar, actul normativ reglementează faptul că nefurnizarea sau furnizarea parțială a informațiilor solicitate prin Nota justificativă privind diferențe RO e-TVA reprezintă indicator de risc fiscal privind nivelul de declarare al taxei pe valoare adăugată.
 
 - În funcție de nivelul riscului fiscal al persoanei impozabile, stabilit pe baza analizei de risc, aceasta poate face obiectul inspecției fiscale sau controlului antifraudă. De asemenea, se stabilesc și alte situații în care persoana impozabilă înregistrată în scopuri de TVA prezintă risc de rambursare necuvenită a TVA, în plus față de cele deja prevăzute la art. 169 alin. (4) din Codul de procedură fiscală.
-  
+
+  Ordonanța de urgență nr. 116/2023 privind unele măsuri pentru gestionarea şi evidențierea veniturilor curente ale bugetului public prin implementarea unor proiecte de digitalizare a fost publicată în data de 15 decembrie 2023 în Monitorul Oficial nr. 1138.
+
+Un nou sistem de interes strategic național, sistemul informatic RO e-TVA, urmează să devină operațional de la 1 august 2024, alături de celelalte 5 sisteme informatice de interes strategic naţional în administrarea fiscală, prin care se urmărește prevenirea, reducerea şi combaterea evaziunii fiscale şi a fraudelor fiscale, în vederea creșterii veniturilor bugetare: sistemul naţional privind factura electronică RO e-Factura, sistemul naţional RO e-Transport, sistemul naţional RO e-Sigiliu, sistemul informatic naţional RO e-SAF-T, sistemul informatic naţional RO e-Case de marcat electronice.
+ 
+Deconturi de TVA precompletate de la 1 august 2024 prin sistemul RO e-TVA.
+
+Ce presupune sistemul RO e-TVA?
+
+Un nou sistem de interes strategic naţional, în administrarea fiscală, urmează să devină operațional de la 1 august 2024. Denumit sistemul național RO e-TVA, acesta va permite precompletarea informaţiilor privind operaţiunile impozabile în deconturile de TVA.
+Noul sistem va utiliza datele existente despre operaţiunile impozabile furnizate de sistemele RO e-Factura și RO e-Case de marcat electronice, precum şi de alte baze de date existente în sistemele informatice gestionate de Ministerul Finanţelor.
+Decontul de TVA se va precompleta în sistemul informatic cu datele coroborate din aceste sisteme și baze de date.
+Când și unde va fi disponibil decontul de TVA precompletat?
+
+Decontul de TVA va fi precompletat pentru fiecare perioadă de raportare, până la data de 20 inclusiv a fiecărei luni următoare încheierii perioadei fiscale.
+Decontul va fi disponibil prin intermediul Spaţiului privat virtual.
+Ce obligații au contribuabilii?
+
+Persoanele impozabile înregistrate în scopuri de TVA care utilizează Sistemul informatic naţional RO e-TVA, au următoarele obligaţii:
+– să verifice, să modifice şi să completeze informaţiile din decontul de TVA potrivit stării de fapt fiscale reale;
+
+– să semneze şi să depună decontul de TVA conform legislaţiei fiscale în vigoare.
+
+Prin noul sistem se urmărește creșterea gradului de colectare a veniturilor bugetare, iar acesta va fi implementat începând cu 1 august 2024.
+Când va începe ANAF analiza datelor furnizate de sistemele digitale?
+
+Utilizarea şi/sau implementarea de către Ministerul Finanţelor a modulelor de analiză a datelor şi informaţiilor furnizate prin intermediul sistemului informatic de interes strategic național S.I.I.S.N. urmează următorul calendar:
+RO e-Factura – sistemul național de facturare electronică: 1 martie 2024;
+RO e-Case de marcat electronice – registrul naţional de evidenţă a aparatelor de marcat electronice fiscale instalate în judeţe şi în sectoarele municipiului Bucureşti: 1 aprilie 2024;
+RO e-Sigiliu – sigiliul electronic al mărfurilor de urmărire a deplasării pe calea rutieră a bunurilor: 1 ianuarie 2025;
+RO e-Transport – sistemul de monitorizare a transporturilor rutiere de bunuri cu risc fiscal ridicat: 1 septembrie 2024;
+RO e-TVA – sistemul de precompletare a deconturilor de TVA: 1 august 2024;
+alte module: 1 martie 2025.
+Totodată, începând cu data de 1 ianuarie 2024 se înființează, la nivelul ANAF, Evidența operativă a veniturilor din digitalizare, care are drept scop evidențierea/urmărirea/monitorizarea lunară a veniturilor suplimentare rezultate din utilizarea S.I.I.S.N. și a modulelor de valorificare pentru gestionarea veniturilor publice.
+
 </details>
 
 [Scutiri de TVA](https://www.noulcodfiscal.ro/titlu-7/capitol-9/articol-292.html)
