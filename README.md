@@ -240,11 +240,10 @@ Aceste [nomenclatoare](https://happyweb.ro/articol/nomenclatoare-e-factura) se g
       până la data de 20 inclusiv a fiecărei luni următoare încheierii perioadei fiscale.
 
       Registrul de TVA poate fi consultat folosind link-ul https://www.anaf.ro/RegistruTVA/
-
-      <a href="https://hotnews.ro/e-tva-de-la-1-august-2024-dar-in-loc-de-simplificare-situatia-se-complica-in-practica-ce-arata-procedura-ministerului-finantelor-document-1523715">e-TVA devine complementara e-Factura</a>
-      
-      
+           
 </details>
+
+<a href="https://hotnews.ro/e-tva-de-la-1-august-2024-dar-in-loc-de-simplificare-situatia-se-complica-in-practica-ce-arata-procedura-ministerului-finantelor-document-1523715">e-TVA devine complementara e-Factura</a>
 
 ## 1. **[Factura electronica](https://www.contact.info.ro/ghid-e-factura-la-anaf/)** [eFactura](https://www.anaf.ro/anaf/internet/ANAF/despre_anaf/strategii_anaf/proiecte_digitalizare/e.factura):
 <details>
