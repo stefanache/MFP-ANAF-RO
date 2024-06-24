@@ -242,7 +242,7 @@ Aceste [nomenclatoare](https://happyweb.ro/articol/nomenclatoare-e-factura) se g
 </details>
 
 ***Procedura e-TVA:*** 
-<details>
+<Procedura e-TVA>
       
       Procedura de folosire a RO e-TVA:
       
@@ -285,7 +285,7 @@ Aceste [nomenclatoare](https://happyweb.ro/articol/nomenclatoare-e-factura) se g
 
 - În funcție de nivelul riscului fiscal al persoanei impozabile, stabilit pe baza analizei de risc, aceasta poate face obiectul inspecției fiscale sau controlului antifraudă. De asemenea, se stabilesc și alte situații în care persoana impozabilă înregistrată în scopuri de TVA prezintă risc de rambursare necuvenită a TVA, în plus față de cele deja prevăzute la art. 169 alin. (4) din Codul de procedură fiscală.
   
-</details>
+</Procedura e-TVA>
 
 [Scutiri de TVA](https://www.noulcodfiscal.ro/titlu-7/capitol-9/articol-292.html)
 
