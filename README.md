@@ -251,6 +251,8 @@ Registrul persoanelor impozabile care aplică sistemul [TVA la încasare](https:
 
 [TVA la incasare si exceptii](https://factureaza.ro/legislatie-emitere-facturi)
 
+Ghid pt aplicarea sistemului [TVA la incasare](https://www.suport.nexuserp.ro/index.php?id=1759)
+
 Registrul persoanelor care aplică [plata defalcată a TVA](https://www.anaf.ro/anaf/internet/ANAF/servicii_online/registre/reg_plata_defalcata_TVA).
 
 [Ghidul TVA](https://www.mfinante.gov.ro/static/10/Mfp/legislatie/Ghid_TVA_parteaI.htm) -[partea I](https://www.mfinante.gov.ro/static/10/Mfp/legislatie/GhidTVA_I.pdf)
