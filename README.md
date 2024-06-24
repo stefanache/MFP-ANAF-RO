@@ -249,6 +249,8 @@ Registrul persoanelor care aplică [plata defalcată a TVA](https://www.anaf.ro/
 
 [Ghidul TVA](https://www.mfinante.gov.ro/static/10/Mfp/legislatie/Ghid_TVA_parteaI.htm) -[partea I](https://www.mfinante.gov.ro/static/10/Mfp/legislatie/GhidTVA_I.pdf)
 
+[Mic ghid fiscal](https://assets.kpmg.com/content/dam/kpmg/md/pdf/2024/tax-card-md-ro-2024.pdf)
+
 [TVA-ul de la A la Z](https://lege5.ro/gratuit/ge2tanzvheyde/tva-de-la-a-la-z-ghid-practic-editia-a-2-a-revizuita-si-actualizata-in-colaborare-cu-madalin-ispas) - ghid practic.
 
 [Mini-ghiseul unic pt TVA](https://taxation-customs.ec.europa.eu/document/download/ca213281-027c-4ade-9a07-0c60e8929242_ro?filename=one-stop-shop-guidelines_ro.pdf)
