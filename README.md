@@ -248,7 +248,7 @@ RO e-TVA<details><summary>- prezentare system: </summary>
 </details>
 
 
-Procedura e-TVA<details><summary>- pasi procedurali:</summary>
+[Procedura e-TVA](https://ceccarbihor.ro/ro/mf-procedura-de-implementare-a-decontului-precompletat-ro-e-tva-in-consultare-publica/)<details><summary>- pasi procedurali:</summary>
       
       Procedura de folosire a RO e-TVA:
       
