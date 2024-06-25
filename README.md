@@ -238,7 +238,7 @@ Proiecte de acte normative: [MFP](https://mfinante.gov.ro/acasa/transparenta/pro
 
 Wikipedia [**TVA**](https://ro.wikipedia.org/wiki/Taxa_pe_valoarea_ad%C4%83ugat%C4%83)
 
-RO e-TVA<details><summary>- prezentare system: </summary>
+RO e-TVA:<details><summary>- prezentare system: </summary>
       
       Sistemul RO e-TVA se implementează cu data de 1 august 2024 pentru 
       operaţiunile efectuate începând cu data de 1 iulie 2024 de persoanele impozabile înregistrate în scopuri de TVA şi 
@@ -248,7 +248,7 @@ RO e-TVA<details><summary>- prezentare system: </summary>
 </details>
 
 
-[Procedura e-TVA](https://ceccarbihor.ro/ro/mf-procedura-de-implementare-a-decontului-precompletat-ro-e-tva-in-consultare-publica/)<details><summary>- pasi procedurali:</summary>
+[Procedura e-TVA:](https://ceccarbihor.ro/ro/mf-procedura-de-implementare-a-decontului-precompletat-ro-e-tva-in-consultare-publica/)<details><summary>- pasi procedurali:</summary>
       
       Procedura de folosire a RO e-TVA:
       
