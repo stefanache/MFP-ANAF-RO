@@ -357,7 +357,7 @@ Registrul persoanelor care aplică [plata defalcată a TVA](https://www.anaf.ro/
 
 [TVA CE UE](https://trade.ec.europa.eu/access-to-markets/ro/content/taxa-pe-valoarea-adaugata-0)
 
-[TVA intracomunitar](https://wise.com/ro/blog/tva-intracomunitar)
+[TVA](https://www2.deloitte.com/ro/ro/pages/tax/articles/reguli-noi-de-tva-in-ue-schimbare-drastica-de-sistem-exemple-si-potential-impact-pentru-companii.html) [intracomunitar](https://wise.com/ro/blog/tva-intracomunitar)
 
 [EU VAT](https://www.fedex.com/ro-ro/eu-vat-changes.html)
 
