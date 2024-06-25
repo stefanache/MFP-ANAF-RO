@@ -248,7 +248,7 @@ Wikipedia [**TVA**](https://ro.wikipedia.org/wiki/Taxa_pe_valoarea_ad%C4%83ugat%
 </details>
 
 
-[Procedura e-TVA:](https://ceccarbihor.ro/ro/mf-procedura-de-implementare-a-decontului-precompletat-ro-e-tva-in-consultare-publica/)<details><summary>- pasi procedurali:</summary>
+[Procedura](https://hotnews.ro/nu-muncesc-degeaba-pentru-ineptia-e-tva-1528310) [e-TVA:](https://ceccarbihor.ro/ro/mf-procedura-de-implementare-a-decontului-precompletat-ro-e-tva-in-consultare-publica/)<details><summary>- pasi procedurali:</summary>
       
       Procedura de folosire a RO e-TVA:
       
