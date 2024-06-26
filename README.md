@@ -365,7 +365,7 @@ Registrul persoanelor care aplică [plata defalcată a TVA](https://www.anaf.ro/
 
 [e-TVA decont precompletat](https://www.startupcafe.ro/taxe/decont-precompletat-etva-proceduri-implementare-aprobare.htm)
 
-[Casele de marcat vor transmite decontul **e-TVA**](https://www.avocatnet.ro/articol_66902/e-TVA-Casele-de-marcat-vor-transmite-noi-informa%C8%9Bii-c%C4%83tre-ANAF-pentru-a-fi-posibil%C4%83-precompletarea-deconturilor-de-TVA.html)
+[Casele de marcat](https://www.avocatnet.ro/t19451/e-TVA.html) vor transmite decontul [**e-TVA**](https://www.avocatnet.ro/articol_66902/e-TVA-Casele-de-marcat-vor-transmite-noi-informa%C8%9Bii-c%C4%83tre-ANAF-pentru-a-fi-posibil%C4%83-precompletarea-deconturilor-de-TVA.html)
 
 [e-TVA vs. D300](https://www.stiripesurse.ro/de-ce-e-tva-este-o-ineptie-ministerul-de-finante-a-reusit-sa-arunce-in-aer-tot-sistemul-gabriel-biris_3360927.html)
 
