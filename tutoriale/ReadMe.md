@@ -1,2 +1,2 @@
 
-ex. Tutorial Youtube - Completare [Declaratie Unica](https://www.solo.ro/blog/despre-declaratia-unica)[(**DU**)](https://www.youtube.com/watch?v=taL9NjONa2A&ab_channel=VlogdeIT) [**D212**](https://static.anaf.ro/static/10/Anaf/Declaratii_R/declaratie_unica.html)si transmitere in SPV al ANAF
+ex. Tutorial Youtube - Completare [Declaratie Unica](https://www.solo.ro/blog/despre-declaratia-unica)[(**DU**)](https://www.youtube.com/watch?v=taL9NjONa2A&ab_channel=VlogdeIT) [**D212**](https://static.anaf.ro/static/10/Anaf/Declaratii_R/declaratie_unica.html)si transmitere in SPV al [ANAF](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/Ghid_profesii_liberale_05022021.pdf)
