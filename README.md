@@ -375,7 +375,7 @@ Registrul persoanelor care aplică [plata defalcată a TVA](https://www.anaf.ro/
 [e-Factura](https://www.digi24.ro/digieconomic/financiar/este-lege-de-la-1-ianuarie-e-factura-este-obligatorie-in-relatia-firma-client-22077) se extinde și devine obligatorie pentru 
 toate tranzacțiile din România - OUG
 
-Citește mai mult la: https://www.digi24.ro/digieconomic/financiar/este-lege-de-la-1-ianuarie-e-factura-este-obligatorie-in-relatia-firma-client-22077
+Citește mai mult la: [***este lege de la 1-ianuarie-e-Factura este obligatorie in relatia Firma-Client***](https://www.digi24.ro/digieconomic/financiar/este-lege-de-la-1-ianuarie-e-factura-este-obligatorie-in-relatia-firma-client-22077)
 
 Informaţiile publicate pe site-ul Digi Economic pot fi preluate, în conformitate cu legislația aplicabilă, doar în limita a 120 de caractere.
 
