@@ -10,7 +10,7 @@ nu stiu cate persoane se pricep la toate astea....
 
 Puteti gasi aici instructiuni privind depunerea [online](https://static.anaf.ro/static/10/Anaf/Declaratii_R/instructiuni/instructiuni2.6.htm) a declaratiilor
 
-La momentul completarii declaratiilor in mod inevitabil pot aparea [erori](https://static.anaf.ro/static/10/Anaf/declunica/Erori_frecventev5.pdf).
+La momentul completarii declaratiilor inerent(in mod inevitabil) pot aparea [erori](https://static.anaf.ro/static/10/Anaf/declunica/Erori_frecventev5.pdf).
 
 [Corectarea declaratiilor](https://mfinante.gov.ro/documents/35673/254042/Ciofliceanu05.pdf) poate constitui un subiect incitant in relatia cu ANAF.
 
