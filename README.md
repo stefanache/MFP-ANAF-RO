@@ -233,7 +233,7 @@ Aceste [nomenclatoare](https://happyweb.ro/articol/nomenclatoare-e-factura) se g
 
 ## 0.  [**e-TVA**](https://www.economica.net/guvernul-a-aprobat-procedurile-pentru-implementarea-decontului-precompletat-ro-e-tva_755827.html) - decont pre-completat, [e-Sigiliu](https://noagroup.ro/ro-e-tva-deconturi-de-tva-precompletate-de-la-1-august-2024-ro-e-vat-pre-filled-vat-returns-from-august-1st-2024/), [e-Case,](https://adevarul.ro/economie/sistemul-e-tva-intra-in-vigoare-la-1-august-2370703.html) [...](https://termene.ro/articole/sistemul-ro-e-tva-va-fi-aplicat-de-la-1-august):
 
-Proiecte de acte normative: [MFP](https://mfinante.gov.ro/acasa/transparenta/proiecte-acte-normative/-/asset_publisher/Bg185RyrkUe4/content/proiect-ordonan-c8-9b-c4-83-de-urgen-c8-9b-c4-83-privind-unele-m-c4-83suri-de-implementare-c8-99i-utilizare-a-decontului-precompletat-ro-e-tva-c8-99i-valorificarea-datelor-c8-99i-informa-c8-9biilor-prin-implementarea-unui-sistem-de-guvernan-c8-9b-c4-83)
+Proiecte de [acte normative](https://www.startupcafe.ro/taxe/modificari-etva-efactura-etransport-si-salariul-minim-decis-guvernul.htm): [MFP](https://mfinante.gov.ro/acasa/transparenta/proiecte-acte-normative/-/asset_publisher/Bg185RyrkUe4/content/proiect-ordonan-c8-9b-c4-83-de-urgen-c8-9b-c4-83-privind-unele-m-c4-83suri-de-implementare-c8-99i-utilizare-a-decontului-precompletat-ro-e-tva-c8-99i-valorificarea-datelor-c8-99i-informa-c8-9biilor-prin-implementarea-unui-sistem-de-guvernan-c8-9b-c4-83)
 
 
 Wikipedia [**TVA**](https://ro.wikipedia.org/wiki/Taxa_pe_valoarea_ad%C4%83ugat%C4%83)
