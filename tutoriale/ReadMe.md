@@ -9,3 +9,5 @@ nu stiu cate persoane se pricep la toate astea....
 Puteti gasi aici instructiuni privind depunerea [online](https://static.anaf.ro/static/10/Anaf/Declaratii_R/instructiuni/instructiuni2.6.htm) a declaratiilor
 
 [Corectarea declaratiilor](https://mfinante.gov.ro/documents/35673/254042/Ciofliceanu05.pdf) poate constitui un subiect incitant in relatia cu ANAF.
+
+Trebuie sa vedem si partea plina a paharului si anume ca exista domenii(ex. [agricol](https://www.portalcodulfiscal.ro/completare-declaratie-venituri-din-activitati-agricole-61742.htm)) unde sunt o multime de programe de finantare, dar pt asta trebuie sa aveti o activitate de raportare fidela/corecta catre ANAF.
