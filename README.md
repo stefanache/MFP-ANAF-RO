@@ -181,7 +181,7 @@ Aceste [nomenclatoare](https://happyweb.ro/articol/nomenclatoare-e-factura) se g
  - ...registre gestionate de [MFP/ANAF](https://static.anaf.ro/static/10/Galati/Vrancea/buletin-informativ-2016.pdf); [Registre de evidenta fiscala](https://www.avocatnet.ro/t2066/registru-de-evidenta-fiscala.html):
  - [**Registrul RO - eFactura**](https://www.anaf.ro/anaf/internet/ANAF/servicii_online/servicii_web_anaf/!ut/p/a1/lZFNT8MwDIZ_C4ccabxW_YBbJujHYGwddOtyqdIp6yKVdErTVfx72h346GADn2zref3KNqY4xVSygyiYFpVkZV9TJwtHoROanjmBheVBbI_9-_HNMwQztwPW34Awhh6IFnYwB3ixBnrLcyF2l3eBH9kjAOeCvgP-pIdfgsB__U-AC_uvMB1azAnEj1OYmdMH6zhhAJye6CzwMeHMkhNMi7LKjw9bE5lbXoGp4luuuDIa1bV3Wu_rWwQI2rY1mGRbQ1UI-gSBkJoryTUC8kR8BDVXB7ERIqtkKSRHoHghaq0-s6bMuM82ulHsJ8tdVWucfnHC-9ckSVIQ0TXN31py9Q5RJY-7/dl5/d5/L2dBISEvZ0FBIS9nQSEh/)
 
-   Inregistrarea in registrul RO e-Factura este [optionala](https://www.smartbill.ro/ebooks/e-Factura_pe_intelesul_tuturor.pdf)(se pot trimite si primi facturi fara inregistrarea in acest registru).
+   Inregistrarea in registrul [RO e-Factura](https://www.anaf.ro/anaf/internet/ANAF/despre_anaf/strategii_anaf/proiecte_digitalizare/e.factura) este [optionala](https://www.smartbill.ro/ebooks/e-Factura_pe_intelesul_tuturor.pdf)(se pot trimite si primi facturi fara inregistrarea in acest registru).
    
    In cazul in care optati pentru inregistrare, trebuie sa depuneti formularul 084.
 
