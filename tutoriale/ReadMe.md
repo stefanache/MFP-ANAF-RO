@@ -5,4 +5,6 @@ Sunt [multe situatii](https://www.reddit.com/r/RoFiscalitate2/comments/1byx0iq/d
 
 nu stiu cate persoane se pricep la toate astea....
 
+Puteti gasi aici un ghid privind depunerea [online](https://static.anaf.ro/static/10/Anaf/Declaratii_R/instructiuni/instructiuni2.6.htm) a declaratiilor
+
 [Corectarea declaratiilor](https://mfinante.gov.ro/documents/35673/254042/Ciofliceanu05.pdf) poate constitui un subiect incitant in relatia cu ANAF.
