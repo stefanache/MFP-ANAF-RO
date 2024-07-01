@@ -7,3 +7,5 @@ Instructiuni [ANAF](https://static.anaf.ro/static/10/Anaf/transparenta/instructi
 [D710](https://www.wolterskluwer.com/ro-ro/expert-insights/formulare-100-710-dragos) „Declarație rectificativă"
 
 Formular [ANAF](https://static.anaf.ro/static/10/Anaf/Declaratii_R/100.html) [D100](https://static.anaf.ro/static/10/Anaf/formulare/D_100_OPANAF_172_2024.pdf) si [completarea](http://www.conta.ro/articol_declaratia-100-a-fost-modificata-noile-reguli-de-completare-8469.html) acestuia
+
+Si in cazul acestei declaratii D100 veti gasi [modificari](https://www.fiscalitatea.ro/anaf-modifica-d100-si-d710-utilizate-pentru-declararea-impozitelor-si-taxelor-cu-regim-de-stabilire-prin-autoimpunere-sau-retinere-la-sursa-23061/) ale cadrului legal
