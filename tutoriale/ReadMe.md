@@ -16,4 +16,4 @@ La momentul completarii declaratiilor, inerent(in mod inevitabil) pot aparea [er
 
 [Corectarea declaratiilor](https://mfinante.gov.ro/documents/35673/254042/Ciofliceanu05.pdf) poate constitui un subiect incitant in relatia cu ANAF.
 
-Trebuie sa vedem si partea plina a paharului si anume ca exista domenii(ex. [agricol](https://www.portalcodulfiscal.ro/completare-declaratie-venituri-din-activitati-agricole-61742.htm)) unde sunt o multime de programe de finantare, dar pt asta trebuie sa aveti o activitate de raportare fidela/corecta catre ANAF.
+Trebuie sa vedem si partea plina a paharului si anume ca exista domenii(ex. [agricol](https://www.portalcodulfiscal.ro/completare-declaratie-venituri-din-activitati-agricole-61742.htm)) unde sunt cateva programe de finantare, dar pt asta trebuie sa aveti o activitate de raportare fidela/corecta catre ANAF.
