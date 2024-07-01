@@ -4,5 +4,4 @@ cautare [Google](https://www.google.com/search?q=declaratie+D100+completare&lr=l
 Instructiuni [ANAF](https://static.anaf.ro/static/10/Anaf/transparenta/instructiuni_100.pdf) pt [D100](https://lege5.ro/Gratuit/hezdqmbqgm/instructiuni-de-completare-a-formularului-100-declaratie-privind-obligatiile-de-plata-la-bugetul-de-stat-cod-14130199-bs-ordin-587-2016?dp=ha4dimrzguytg)
 
 [D100](https://www.wolterskluwer.com/ro-ro/expert-insights/formulare-100-710-dragos) „Declarație privind obligațiile de plată la bugetul de stat" și 
-
 [D710](https://www.wolterskluwer.com/ro-ro/expert-insights/formulare-100-710-dragos) „Declarație rectificativă"
