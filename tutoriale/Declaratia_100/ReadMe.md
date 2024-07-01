@@ -6,4 +6,4 @@ Instructiuni [ANAF](https://static.anaf.ro/static/10/Anaf/transparenta/instructi
 [D100](https://www.wolterskluwer.com/ro-ro/expert-insights/formulare-100-710-dragos) „Declarație privind obligațiile de plată la bugetul de stat" și 
 [D710](https://www.wolterskluwer.com/ro-ro/expert-insights/formulare-100-710-dragos) „Declarație rectificativă"
 
-Formular [D100](https://static.anaf.ro/static/10/Anaf/formulare/D_100_OPANAF_172_2024.pdf)
+Formular [ANAF](https://static.anaf.ro/static/10/Anaf/Declaratii_R/100.html) [D100](https://static.anaf.ro/static/10/Anaf/formulare/D_100_OPANAF_172_2024.pdf)
