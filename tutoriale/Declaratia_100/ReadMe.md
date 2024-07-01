@@ -11,3 +11,5 @@ Formular [ANAF](https://static.anaf.ro/static/10/Anaf/Declaratii_R/100.html) [D1
 Si in cazul acestei declaratii D100 veti gasi [modificari](https://www.fiscalitatea.ro/anaf-modifica-d100-si-d710-utilizate-pentru-declararea-impozitelor-si-taxelor-cu-regim-de-stabilire-prin-autoimpunere-sau-retinere-la-sursa-23061/) ale cadrului legal, de lungul [anilor](https://infotva.manager.ro/articole/formulare-si-declaratii/formularul-100-in-2022-cum-au-fost-modificate-instructiunile-de-completare-prin-ordinul-2372022-21902.html)
 
 Declaratia D100 are [anexa 1](https://www.mariageneral.ro/formulare/decl_100_20071.pdf) necesara pt declararea "obligatiilor de plata la bugetul general consolidat".
+
+Desigur exista si un [termen de depunere](https://ceccarconstanta.ro/ro/anaf-25-iunie-termenul-de-depunere-a-declaratiilor-d-100-si-d-101/) a acestui tip de declaratie
