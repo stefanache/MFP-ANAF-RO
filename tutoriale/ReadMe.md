@@ -1,4 +1,4 @@
-[eGuvernare](https://www.e-guvernare.ro/)
+[eGuvernare](https://www.e-guvernare.ro/): [formulare fiscale](https://www.anaf.ro/anaf/internet/ANAF/asistenta_contribuabili/declararea_obligatiilor_fiscale/toate_formularele)
 
 Tutorial Youtube - Completare [Declaratie Unica](https://www.solo.ro/blog/despre-declaratia-unica)[(**DU**)](https://www.youtube.com/watch?v=taL9NjONa2A&ab_channel=VlogdeIT) [**D212**](https://static.anaf.ro/static/10/Anaf/Declaratii_R/declaratie_unica.html)si transmitere in [SPV](https://www.anaf.ro/anaf/internet/ANAF/servicii_online/inregistrare_utilizatori) al [ANAF](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/Ghid_profesii_liberale_05022021.pdf)
 
