@@ -19,4 +19,4 @@ La momentul completarii declaratiilor, inerent(in mod inevitabil) pot aparea [er
 Trebuie sa vedem si partea plina a paharului si anume ca exista domenii(ex. [agricol](https://www.portalcodulfiscal.ro/completare-declaratie-venituri-din-activitati-agricole-61742.htm)) unde sunt cateva programe de finantare, dar pt asta trebuie sa aveti o activitate de raportare fidela/corecta catre ANAF.
 
 
-Un exemplu [trivial](https://github.com/Tradeshift/tradeshift-ubl-xsd/blob/master/src/test/resources/org/oasis-open/ubl/examples/UBL-Invoice-2.1-Example-Trivial.xml)(simplu) al unei facturi [UBL 2.1](https://facturis-online.ro/tag/xml-e-factura)
+Un [exemplu](https://docs.oasis-open.org/ubl/os-UBL-2.2/xml/UBL-Invoice-2.1-Example.xml) [trivial](https://github.com/Tradeshift/tradeshift-ubl-xsd/blob/master/src/test/resources/org/oasis-open/ubl/examples/UBL-Invoice-2.1-Example-Trivial.xml)(simplu) al unei facturi [UBL 2.1](https://facturis-online.ro/tag/xml-e-factura)
