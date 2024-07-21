@@ -6,7 +6,8 @@
      Sper ca aceasta documentatie de analiza [cvasi-]tehnica  constituie macar o sursa de inspiratie;
      (aceasta se adreseaza tuturor factorilor implicati/angajati in acest efort comun de eGuvernare)
 
-Hit star ⭐ if you like this repo!!!
+Hit star ⭐ if you like this repo!!! or...
+Contact us today to setup a one-on-one discovery call and let us help you scale your next innovative project!
 
 **Thanks all for the ***18*** [stars](https://www.facebook.com/ion.stefanache.3) and great [traffic](https://www.freelancer.com/u/ionstefanache1)(many ***downloads*** and many-many ***views***)!**
 
