@@ -39,5 +39,5 @@ O IA-aplicatie intereseanta(ChatGPT-ul vostru in materie de facturi PDF) ar pute
 
 -raspunsul ar putea sa sune(TTS) gen : 12.29 RON
 
-restul tine doar de ...imaginatia creativa a voastra...(in acest demers/aventura langchain va poate fi de ajutor:)
+restul tine doar de ...imaginatia voastra creativa...(in acest demers/aventura langchain va poate fi de ajutor:)
 
