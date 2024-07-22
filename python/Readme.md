@@ -60,6 +60,7 @@ Acest cadru-integrator(framework) are un foarte bun suport pt. o multime de alte
   - docx2txt
   - python-dotenv
   - pdfplumber
+  - pt partea de ASR si TTS puteti utiliza spre ex. [pyTTSx3](https://medium.com/@meirgotroot/building-an-advanced-voice-assistant-with-langchain-421bcead2cbb)
   -  ...
 - pentru partea de redare se poate folosi [reportlab](https://pythongeeks.org/invoice-generator-with-python/)
 
