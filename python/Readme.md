@@ -65,6 +65,6 @@ Acest cadru-integrator(framework) are un foarte bun suport pt. o multime de alte
 
 Dava va temeti ca datele voastre sunt prea ["intime"](https://www.reddit.com/r/LangChain/comments/1ayipqy/without_open_ai_or_gemini_api_key/) si nu doriti sa le expuneti LLM-urilor(care oricum sunt cam scumpe) 
 si daca detineti suficienta putere de calcul,
-poate ca ar fi util sa utilizati LLM-urile care ruleaza local(nu la distanta si care nu necesita internet elee functionand offline) de tip OpenSource(si de preferat gratuite), caz in care api-key nu va mai fi necesara!
+poate ca ar fi util sa utilizati LLM-urile care ruleaza local(nu la distanta si care nu necesita internet, acestea functionand offline) de tip OpenSource(si de preferat gratuite), caz in care api-key nu va mai fi necesara!
 
 In acest ultim caz de utilizare nu uitati sa [re]vedeti  produsul [LM Studio](https://lmstudio.ai/)
