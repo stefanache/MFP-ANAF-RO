@@ -72,5 +72,5 @@ O [alternativa](https://www.datacamp.com/blog/langchain-vs-llamaindex) la [LangC
 
 Mai Trebuie spus insa si faptul ca aceste produse-SW nu sunt singurele si acestea nu se ezxlud ci mai degraba trebuiesc alese in functie de necesitatile voastre de [proiectare](https://medium.com/@glenn_53777/framework-to-design-an-ai-finance-accounting-assistant-a1f4b62dcde).
 
-Oricum AI-generative a provocat daca vreti o adevarata AI-revolutie in mai toate [domeniile](https://www.blueprism.com/resources/blog/generative-ai-equity-research-langchain/) fie ele economice sau sociale.
+Oricum AI/ML/NLP-generative a provocat daca vreti o adevarata AI-revolutie in mai toate [domeniile](https://www.blueprism.com/resources/blog/generative-ai-equity-research-langchain/) fie ele economice sau sociale.
 
