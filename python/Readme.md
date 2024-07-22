@@ -46,5 +46,19 @@ restul tine doar de ...imaginatia voastra creativa...(in acest demers/aventura l
 daca nu doriti sa va incurcati cu Intrebare-Raspuns(QA) de tip vocal/sunet atunci puteti renunta la acest mod de interactiune cu utilizatorul si puteti lucra direct pe text ca orice alt chat(conventional) dar...
 pastrand totusi  specificitatea 
  - datelor tale/proprii(cele preluate din directorul sursa ce contine fisierele PDF)  precum si ... a
- - limbajului romanesc utilizat atat la text de interogare cat si ca text de redare/valorificare/recuperare/raportare(Q&A in limba RO) 
+ - limbajului romanesc utilizat atat la text de interogare cat si ca text de redare/valorificare/recuperare/raportare(Q&A in limba RO)
+
+Langchain este o librarie integratoare de alte instrumente.
+Ea are o foarte buna integrre cu produse ca : 
+-LLM-uri tot felul (cel mai cunoscut fiind desigur cele de la OpenAI cu binecunoscutele sale modele GPT)
+docx2txt==0.8
+- ca reader de documente PDF la fel se poate lucra cu tot felul de librarii(ex. PyPDF)
+- ca si GUi puteti folosi tot asa o multime de instrumente cum ar fi streamlit,tkinter,...
+- pe parte de bd relationale puteti folosi SQLalchemy dar nu numai
+- se integreaza cu tot felul de alte instrumente cum ar fi 
+   -- docx2txt
+   -- python-dotenv==1.0.0
+   -- pdfplumber
+   -- ...
+- pentru partea de redare se poate folosi [reportlab](https://pythongeeks.org/invoice-generator-with-python/)
 
