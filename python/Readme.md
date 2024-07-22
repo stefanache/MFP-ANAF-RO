@@ -48,7 +48,7 @@ pastrand totusi  specificitatea
  - datelor tale/proprii(cele preluate din directorul sursa ce contine fisierele PDF)  precum si ... a
  - limbajului romanesc utilizat atat la text de interogare cat si ca text de redare/valorificare/recuperare/raportare(Q&A in limba RO)
 
-Langchain este o librarie integratoare de alte instrumente.
+[Langchain](https://python.langchain.com/v0.2/docs/concepts/) este o librarie integratoare de alte instrumente.
 Ea are o foarte buna integrre cu produse ca : 
 -LLM-uri tot felul (cel mai cunoscut fiind desigur cele de la OpenAI cu binecunoscutele sale modele GPT)
 docx2txt==0.8
