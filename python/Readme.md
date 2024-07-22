@@ -31,7 +31,7 @@ Cititi in prealabil documentul powerpoint [tutorial91.pptx](https://github.com/r
 Si in general puteti posta pe google [imagini] "intrebari(a.k.a interogari)" gen ["python langchain invoice generator UBL2.1"](https://www.google.com/search?q=python+langchain+invoice+generator+UBL2.1&sca_esv=2a19a3414e05e997&rlz=1C1JJTC_enRO1087RO1087&udm=2&biw=1536&bih=762&sxsrf=ADLYWIJX2J6d2m2qJ7RgnKQp92zQTSSk7w%3A1721659370891&ei=6m-eZuWCNv-L7NYPj9SamAk&ved=0ahUKEwjln-f58LqHAxX_BdsEHQ-qBpMQ4dUDCBA&uact=5&oq=python+langchain+invoice+generator+UBL2.1&gs_lp=Egxnd3Mtd2l6LXNlcnAiKXB5dGhvbiBsYW5nY2hhaW4gaW52b2ljZSBnZW5lcmF0b3IgVUJMMi4xSL0eUKcHWPUbcAF4AJABAJgBdqABygKqAQMwLjO4AQPIAQD4AQGYAgCgAgCYAwDiAwUSATEgQIgGAZIHAKAHhwE&sclient=gws-wiz-serp)
 pentru a gasi si alte oportunitati asemanatoare.
 
-O IA-aplicatie intereseanta(ChatGPT-ul vostru in materie de facturi PDF) ar putea fi una avand urmatorul scenariu:
+O alta IA-aplicatie intereseanta(ChatGPT-ul vostru in materie de facturi PDF) ar putea fi  sa zicem, una avand urmatorul scenariu:
 
 -am un director plin de facturi generate PDF si...
 
