@@ -35,9 +35,14 @@ O alta IA-aplicatie intereseanta(ChatGPT-ul vostru in materie de facturi PDF) ar
 
 -am un director plin de facturi generate PDF(obtinute chiar/poate din imaginile xml/UBL2.1)  si...
 
--as dori sa intreb(utilizand sa zicem vocea ASR) :  Ce total are factura cu numarul 999999?, iar...
+-as dori sa intreb(utilizand sa zicem vocea... necesita ASR pt voice2text) :  Ce total are factura cu numarul 999999?, iar...
 
--raspunsul ar putea sa sune(TTS) gen : 12.29 RON
+-raspunsul ar putea sa sune(necesita conversie TTS text2voice) gen : 12.29 RON
 
 restul tine doar de ...imaginatia voastra creativa...(in acest demers/aventura langchain va poate fi de ajutor:)
+
+***OBS:*** 
+
+daca nu doriti sa va incurcati cu Intrebare-raspuns(QA) de tip vocal/sunet atunci puteti renunta si lucra direct pe text ca orice chat conventional dar...
+pastrand totusi  specificitatea datelor tale/proprii  precum si ... a limbajului romanesc de intoregore si redare/raportare(Q&A in limba RO) 
 
