@@ -52,7 +52,7 @@ pastrand totusi  specificitatea
 [Langchain](https://python.langchain.com/v0.2/docs/concepts/) este o librarie integratoare de alte instrumente.
 Acest cadru-integrator(framework) are un foart bun suport pt. o multime de alte produse-software(SW) cum ar fi : 
 - LLM-uri tot felul (cel mai cunoscut fiind desigur OpenAI cu binecunoscutele sale modele GPT)
-- ca reader de documente PDF la fel se poate lucra cu tot felul de librarii(ex. PyPDF)
+- ca reader de documente PDF la fel se poate lucra cu tot felul de librarii(ex. PyPDF dar si altele asemanatoare)
 - ca si GUI puteti folosi tot asa o multime de instrumente cum ar fi streamlit, tkinter,...
 - pe parte de bd relationale puteti folosi [SQLalchemy](https://github.com/langchain-ai/langchain/discussions/22340) dar nu numai...
 - se integreaza cu tot felul de alte instrumente cum ar fi
