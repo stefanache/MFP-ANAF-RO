@@ -70,4 +70,4 @@ In acest ultim caz de utilizare nu uitati sa [re]vedeti  produsul [LM Studio](ht
 
 O [alternativa](https://www.datacamp.com/blog/langchain-vs-llamaindex) la langchain o constituie LlaMA-index. 
 
-Mi Trebuie spus insa si faptul ca aceste produse-SW nu sunt singurele si acestea nu se ezxlud ci mai degraba trebuiesc alese in functie de necesitatile voastre de proiectare.
+Mai Trebuie spus insa si faptul ca aceste produse-SW nu sunt singurele si acestea nu se ezxlud ci mai degraba trebuiesc alese in functie de necesitatile voastre de proiectare.
