@@ -70,4 +70,4 @@ In acest ultim caz de utilizare, poate fi util sa luati in considerare si produs
 
 O [alternativa](https://www.datacamp.com/blog/langchain-vs-llamaindex) la LangChain o constituie LlaMA-index. 
 
-Mai Trebuie spus insa si faptul ca aceste produse-SW nu sunt singurele si acestea nu se ezxlud ci mai degraba trebuiesc alese in functie de necesitatile voastre de proiectare.
+Mai Trebuie spus insa si faptul ca aceste produse-SW nu sunt singurele si acestea nu se ezxlud ci mai degraba trebuiesc alese in functie de necesitatile voastre de [proiectare](https://medium.com/@glenn_53777/framework-to-design-an-ai-finance-accounting-assistant-a1f4b62dcde).
