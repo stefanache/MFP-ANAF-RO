@@ -35,5 +35,5 @@ O IA-aplicatie intereseanta ar putea fi una avand urmatorul scenariu:
 -am un director plin de facturi generate PDF si
 -as dori sa intreb(utilizand sa zicem vocea ASR) :  Ce total are factura cu numarul 999999?, iar
 -raspunsul ar putea sa sune(TTS) gen : 12.29 RON
-restul tine doar de imaginatia voastra...(in acest demers langchain va poate fi de ajutor:)
+restul tine doar de ...imaginatia creativa a voastra...(in acest demers/aventura langchain va poate fi de ajutor:)
 
