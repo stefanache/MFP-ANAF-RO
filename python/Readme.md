@@ -32,8 +32,12 @@ Si in general puteti posta pe google [imagini] "intrebari(a.k.a interogari)" gen
 pentru a gasi si alte oportunitati asemanatoare.
 
 O IA-aplicatie intereseanta ar putea fi una avand urmatorul scenariu:
--am un director plin de facturi generate PDF si
--as dori sa intreb(utilizand sa zicem vocea ASR) :  Ce total are factura cu numarul 999999?, iar
+
+-am un director plin de facturi generate PDF si...
+
+-as dori sa intreb(utilizand sa zicem vocea ASR) :  Ce total are factura cu numarul 999999?, iar...
+
 -raspunsul ar putea sa sune(TTS) gen : 12.29 RON
+
 restul tine doar de ...imaginatia creativa a voastra...(in acest demers/aventura langchain va poate fi de ajutor:)
 
