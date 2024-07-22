@@ -43,6 +43,6 @@ restul tine doar de ...imaginatia voastra creativa...(in acest demers/aventura l
 
 ***OBS:*** 
 
-daca nu doriti sa va incurcati cu Intrebare-raspuns(QA) de tip vocal/sunet atunci puteti renunta si lucra direct pe text ca orice chat conventional dar...
-pastrand totusi  specificitatea datelor tale/proprii  precum si ... a limbajului romanesc de intoregore si redare/raportare(Q&A in limba RO) 
+daca nu doriti sa va incurcati cu Intrebare-Raspuns(QA) de tip vocal/sunet atunci puteti renunta si lucra direct pe text ca orice chat conventional dar...
+pastrand totusi  specificitatea datelor tale/proprii  precum si ... a limbajului romanesc de intoregore si redare/valorificare/recuperare/raportare(Q&A in limba RO) 
 
