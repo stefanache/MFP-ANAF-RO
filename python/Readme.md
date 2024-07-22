@@ -56,9 +56,9 @@ docx2txt==0.8
 - ca si GUi puteti folosi tot asa o multime de instrumente cum ar fi streamlit,tkinter,...
 - pe parte de bd relationale puteti folosi [SQLalchemy](https://github.com/langchain-ai/langchain/discussions/22340) dar nu numai...
 - se integreaza cu tot felul de alte instrumente cum ar fi 
-   -- docx2txt
-   -- python-dotenv==1.0.0
-   -- pdfplumber
-   -- ...
+  - docx2txt
+  - python-dotenv==1.0.0
+  - pdfplumber
+  -  ...
 - pentru partea de redare se poate folosi [reportlab](https://pythongeeks.org/invoice-generator-with-python/)
 
