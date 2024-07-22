@@ -55,6 +55,7 @@ Acest cadru-integrator(framework) are un foarte bun suport pt. o multime de alte
 - ca cititor(reader/ingestor) de documente PDF la fel se poate lucra cu tot felul de librarii(ex. PyPDF dar si altele asemanatoare)
 - ca si GUI puteti folosi tot asa o multime de instrumente cum ar fi [streamlit](https://docs.streamlit.io/)(local gazduit cu access prin browser http://localhost:8501), tkinter,...
 - pe parte de bd relationale puteti folosi conectori si manipulatori specifici(ex. [SQLalchemy](https://github.com/langchain-ai/langchain/discussions/22340) dar nu numai!)...
+  
     print('https://github.com/langchain-ai/langchain/discussions/22340')
     print('2.Setup your Mysql conector')
     from sqlalchemy import create_engine
