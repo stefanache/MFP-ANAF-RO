@@ -34,7 +34,7 @@ pentru a gasi si alte oportunitati asemanatoare.
 
 O alta IA/[NLP](https://github.com/bhavyabhagerathi/Invoice-Data-Extraction-Bot-using-LLAMA-2-and-Streamlit)-aplicatie intereseanta(ChatGPT-ul vostru/nostru in materie de facturi PDF) ar putea fi  sa zicem, una avand urmatorul scenariu:
 
--am un director plin de facturi generate PDF(obtinute chiar/poate din imaginile xml/UBL2.1)  si...
+-am un director plin de facturi generate [PDF](https://ijrpr.com/uploads/V5ISSUE4/IJRPR25137.pdf)(obtinute chiar/poate din imaginile xml/UBL2.1)  si...
 
 -as dori sa intreb(utilizand sa zicem vocea... necesita ASR pt voice2text) :  Ce total are factura cu numarul 999999?, iar...
 
@@ -44,7 +44,7 @@ restul tine doar de ...[imaginatia voastra creativa](https://www.analyticsvidhya
 
 ***OBS:*** 
 
-daca nu doriti sa va incurcati cu Intrebare-Raspuns(QA) de tip vocal/sunet atunci puteti renunta la acest mod de interactiune cu utilizatorul si puteti lucra direct pe text ca orice alt chat(conventional) dar...
+daca nu doriti sa va incurcati cu Intrebare-Raspuns(QA) de tip vocal/sunet atunci puteti renunta la acest mod/tip de interactiune cu utilizatorul si puteti lucra direct pe text ca orice alt chat(conventional) dar...
 pastrand totusi  specificitatea 
  - datelor tale/proprii(cele preluate din directorul sursa ce contine fisierele PDF)  precum si ... a
  - limbajului romanesc utilizat atat la text de interogare cat si ca text de redare/valorificare/recuperare/raportare(Q&A in limba RO)
@@ -64,7 +64,7 @@ Acest cadru-integrator(framework) are un foarte bun suport pt. o multime de alte
   -  ...
 - pentru partea de redare se poate folosi [reportlab](https://pythongeeks.org/invoice-generator-with-python/)
 
-Daca va temeti ca datele voastre sunt prea ["sensibile/critice/intime"](https://www.reddit.com/r/LangChain/comments/1ayipqy/without_open_ai_or_gemini_api_key/) si nu doriti sa le expuneti LLM-urilor(care oricum are un anumit [cost](https://cursdeguvernare.ro/dictionar-economic/cost)) si daca detineti suficienta putere de calcul, poate ca ar fi util sa utilizati LLM-urile care ruleaza local(nu la distanta si care nu necesita internet, acestea functionand offline) de tip OpenSource(si de preferat [gratuite](https://www.kdnuggets.com/2023/05/8-free-ai-llms-playgrounds.html), acestea avand codul expus in CDN-uri gen github), situatie in care api-key/cheia-aplicatiei nu ar mai trebui sa fie necesara!
+Daca va temeti ca datele/informatiile voastre sunt prea ["sensibile/critice/intime"](https://www.reddit.com/r/LangChain/comments/1ayipqy/without_open_ai_or_gemini_api_key/) si nu doriti sa le expuneti LLM-urilor(care oricum are un anumit [cost](https://cursdeguvernare.ro/dictionar-economic/cost)) si daca detineti suficienta putere de calcul, poate ca ar fi util sa utilizati LLM-urile care ruleaza local(nu la distanta si care nu necesita internet, acestea functionand offline) de tip OpenSource(si de preferat [gratuite](https://www.kdnuggets.com/2023/05/8-free-ai-llms-playgrounds.html), acestea avand codul expus in CDN-uri gen github), situatie in care api-key/cheia-aplicatiei nu ar mai trebui sa fie necesara!
 In acest ultim caz de utilizare, poate fi util sa luati in considerare si produsul [LM Studio](https://lmstudio.ai/)
 
 O [alternativa](https://www.datacamp.com/blog/langchain-vs-llamaindex) la LangChain o constituie LlaMA-index. 
