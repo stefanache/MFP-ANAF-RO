@@ -23,3 +23,6 @@ Iata aici am gasit un depozit care [listeaza primariile](https://github.com/vimi
 
 Puteti accesa acest [depozit](https://github.com/petre-renware/api_to_roefact) ce prezinta un sistem de facturare scris in pyton folosind excel,
 pentru a va completa informatiile cu privire la sistemul eFactura.
+
+Daca sunteti interesati sa folositi "AI generative" pt facturi puteti gasi un [exemplu](https://github.com/ronidas39/LLMtutorial/tree/main/tutorial91) bazat pe [langchain](https://www.langchain.com/)(un cadru AI-integrator extrem de popular)
+
