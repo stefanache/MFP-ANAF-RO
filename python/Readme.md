@@ -54,7 +54,7 @@ Ea are o foarte buna integrre cu produse ca :
 docx2txt==0.8
 - ca reader de documente PDF la fel se poate lucra cu tot felul de librarii(ex. PyPDF)
 - ca si GUi puteti folosi tot asa o multime de instrumente cum ar fi streamlit,tkinter,...
-- pe parte de bd relationale puteti folosi SQLalchemy dar nu numai
+- pe parte de bd relationale puteti folosi [SQLalchemy](https://github.com/langchain-ai/langchain/discussions/22340) dar nu numai...
 - se integreaza cu tot felul de alte instrumente cum ar fi 
    -- docx2txt
    -- python-dotenv==1.0.0
