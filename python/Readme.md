@@ -57,7 +57,7 @@ Acest cadru-integrator(framework) are un foart bun suport pt. o multime de alte 
 - pe parte de bd relationale puteti folosi [SQLalchemy](https://github.com/langchain-ai/langchain/discussions/22340) dar nu numai...
 - se integreaza(direct sau indirect)cu tot felul de alte instrumente cum ar fi
   - docx2txt
-  - python-dotenv==1.0.0
+  - python-dotenv
   - pdfplumber
   -  ...
 - pentru partea de redare se poate folosi [reportlab](https://pythongeeks.org/invoice-generator-with-python/)
