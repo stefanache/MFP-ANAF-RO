@@ -56,6 +56,7 @@ Acest cadru-integrator(framework) are un foarte bun suport pt. o multime de alte
 - ca si GUI puteti folosi tot asa o multime de instrumente cum ar fi [streamlit](https://docs.streamlit.io/)(local gazduit cu access prin browser http://localhost:8501), tkinter,...
 - pe parte de bd relationale puteti folosi [SQLalchemy](https://github.com/langchain-ai/langchain/discussions/22340) dar nu numai...
 - pentru intrarile de tip ***CSV*** se poate folosi spre exemplu sa zicem [pandas](https://www.analyticsvidhya.com/blog/2023/10/building-invoice-extraction-bot-using-langchain-and-llm/)
+- pt intrarile de tip xslx(excel) exista de asemenea [agenti](https://github.com/langchain-ai/langchain/discussions/9847) si conectori specifici
 - se integreaza(direct sau indirect)cu tot felul de alte instrumente cum ar fi
   - docx2txt
   - python-dotenv
