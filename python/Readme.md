@@ -55,6 +55,71 @@ Acest cadru-integrator(framework) are un foarte bun suport pt. o multime de alte
 - ca cititor(reader/ingestor) de documente PDF la fel se poate lucra cu tot felul de librarii(ex. PyPDF dar si altele asemanatoare)
 - ca si GUI puteti folosi tot asa o multime de instrumente cum ar fi [streamlit](https://docs.streamlit.io/)(local gazduit cu access prin browser http://localhost:8501), tkinter,...
 - pe parte de bd relationale puteti folosi conectori si manipulatori specifici(ex. [SQLalchemy](https://github.com/langchain-ai/langchain/discussions/22340) dar nu numai!)...
+    print('https://github.com/langchain-ai/langchain/discussions/22340')
+    print('2.Setup your Mysql conector')
+    from sqlalchemy import create_engine
+    from langchain_community.utilities import SQLDatabase
+    schema_protos="mysql+pymysql"
+    username="root"
+    password=""
+    host="localhost" #"127.0.0.1"
+    port="3306"
+    database_name="students"
+    DATABASE_URI = schema_protos+"://"+username+":"+password+"@"+host+":"+port+"/"+database_name
+    print(DATABASE_URI);
+    
+    engine = create_engine(DATABASE_URI)
+    sql_database = SQLDatabase(engine=engine)
+    #sql_database = SQLDatabase.from_uri(DATABASE_URI)
+    
+    print(sql_database)
+    print(sql_database.dialect)
+    print(sql_database.get_usable_table_names())
+    print(sql_database.run("SELECT * FROM parents LIMIT 10;"))
+    print(sql_database.run("SELECT * FROM students LIMIT 10;"))
+    
+    print('3.Initialize a table')
+    from sqlalchemy import Table, Column, Integer, String, MetaData
+    
+    metadata = MetaData()
+    message_store = Table(
+        'message_store', metadata,
+        Column('id', Integer, primary_key=True),
+        Column('page_content', String(255)),
+        Column('metadata', String(255))
+    )
+    metadata.create_all(engine)
+    
+    print('4.Save docs')
+    from langchain_core.documents import Document
+    
+    test_docs = [
+        Document(
+            page_content="Apple Granny Smith 150 0.99 1",
+            metadata={"fruit_id": 1},
+        ),
+        Document(
+            page_content="Banana Cavendish 200 0.59 0",
+            metadata={"fruit_id": 2},
+        ),
+        Document(
+            page_content="Orange Navel 80 1.29 1",
+            metadata={"fruit_id": 3},
+        ),
+    ]
+    
+    with engine.connect() as connection:
+        for doc in test_docs:
+            connection.execute(
+                message_store.insert().values(
+                    page_content=doc.page_content,
+                    metadata=str(doc.metadata)
+                )
+            )
+    
+    print(sql_database.get_usable_table_names())
+    print(sql_database.run("SELECT * FROM message_store LIMIT 10;"))
+
 - pentru intrarile de tip ***CSV*** se poate folosi spre exemplu sa zicem [pandas](https://www.analyticsvidhya.com/blog/2023/10/building-invoice-extraction-bot-using-langchain-and-llm/);
   pt intrarile de tip ***xslx/xls***(excel) exista de asemenea [agenti](https://github.com/langchain-ai/langchain/discussions/9847) specifici...
 - se integreaza(direct sau indirect)cu tot felul de alte instrumente cum ar fi
