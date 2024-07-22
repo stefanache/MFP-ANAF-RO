@@ -63,3 +63,5 @@ Acest cadru-integrator(framework) are un foarte bun suport pt. o multime de alte
   -  ...
 - pentru partea de redare se poate folosi [reportlab](https://pythongeeks.org/invoice-generator-with-python/)
 
+Dava va temeti ca datele voastre sunt prea ["intime"](https://www.reddit.com/r/LangChain/comments/1ayipqy/without_open_ai_or_gemini_api_key/) si nu doriti sa le expuneti LLM-urilor(care oricum sunt cam scumpe) si daca detineti suficienta putere de calcul
+poate ca ar fi util sa utilizati LLM-urile local(nu la distanta) de tip OpenSource(si de preferat gratuite), caz in care api-key nu va mai fi necesara!
