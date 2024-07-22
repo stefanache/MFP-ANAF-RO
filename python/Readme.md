@@ -69,6 +69,6 @@ si daca detineti suficienta putere de calcul,
 poate ca ar fi util sa utilizati LLM-urile care ruleaza local(nu la distanta si care nu necesita internet, acestea functionand offline) de tip OpenSource(si de preferat [gratuite](https://www.kdnuggets.com/2023/05/8-free-ai-llms-playgrounds.html), acestea avand codul expus in CDN-uri gen github), situatie in care api-key/cheia-aplicatiei nu ar mai trebui sa fie necesara!
 In acest ultim caz de utilizare, poate fi util sa luati in considerare si produsul [LM Studio](https://lmstudio.ai/)
 
-O [alternativa](https://www.datacamp.com/blog/langchain-vs-llamaindex) la langchain o constituie LlaMA-index. 
+O [alternativa](https://www.datacamp.com/blog/langchain-vs-llamaindex) la LangChain o constituie LlaMA-index. 
 
 Mai Trebuie spus insa si faptul ca aceste produse-SW nu sunt singurele si acestea nu se ezxlud ci mai degraba trebuiesc alese in functie de necesitatile voastre de proiectare.
