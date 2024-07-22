@@ -40,7 +40,7 @@ O alta IA/[NLP](https://github.com/bhavyabhagerathi/Invoice-Data-Extraction-Bot-
 
 -raspunsul ar putea sa sune(necesita conversie TTS text2voice) gen : 12.29 RON
 
-restul tine doar de ...[imaginatia voastra creativa](https://www.analyticsvidhya.com/blog/2023/10/building-invoice-extraction-bot-using-langchain-and-llm/)...(in acest demers/aventura [langchain](https://www.youtube.com/watch?v=hFqIa-mX4GM&ab_channel=SharathRaju) va poate fi de ajutor:)
+restul tine doar de ...[imaginatia voastra creativa](https://www.analyticsvidhya.com/blog/2023/10/building-invoice-extraction-bot-using-langchain-and-llm/)...(in acest demers/aventura [langchain](https://www.youtube.com/watch?v=hFqIa-mX4GM&ab_channel=SharathRaju) va poate fi de ajutor:); Rezumatele unor texte mari/largi sau daca vreti [rezumarea] prezinta un alt tip interesant de NLP-aplicatii generative;
 
 ***OBS:*** 
 
