@@ -67,3 +67,7 @@ Daca va temeti ca datele voastre sunt prea ["intime"](https://www.reddit.com/r/L
 si daca detineti suficienta putere de calcul,
 poate ca ar fi util sa utilizati LLM-urile care ruleaza local(nu la distanta si care nu necesita internet, acestea functionand offline) de tip OpenSource(si de preferat gratuite, acestea avand codul expus in CDN-uri gen github), situatie in care api-key nu ar trebui sa mai fie necesara!
 In acest ultim caz de utilizare nu uitati sa [re]vedeti  produsul [LM Studio](https://lmstudio.ai/)
+
+O [alternativa](https://www.datacamp.com/blog/langchain-vs-llamaindex) la langchain o constituie LlaMA-index. 
+
+Mi Trebuie spus insa si faptul ca aceste produse-SW nu sunt singurele si acestea nu se ezxlud ci mai degraba trebuiesc alese in functie de necesitatile voastre de proiectare.
