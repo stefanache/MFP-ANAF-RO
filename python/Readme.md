@@ -49,7 +49,7 @@ pastrand totusi  specificitatea
  - datelor tale/proprii(cele preluate din directorul sursa ce contine fisierele PDF)  precum si ... a
  - limbajului romanesc utilizat atat la text de interogare cat si ca text de redare/valorificare/recuperare/raportare(Q&A in limba RO)
 
-[Langchain](https://python.langchain.com/v0.2/docs/concepts/) este o librarie integratoare de alte instrumente.
+[Langchain](https://python.langchain.com/v0.2/docs/concepts/) este o librarie [integratoare](https://nanonets.com/blog/langchain/) de alte instrumente(prin inlantuire).
 Acest cadru-integrator(framework) are un foarte bun suport pt. o multime de alte produse-software(SW) cum ar fi : 
 - [LLM](https://mindsdb.com/blog/navigating-the-llm-landscape-a-comparative-analysis-of-leading-large-language-models)-uri(creierul oricarui sistem Q&A: ex. [RAG](https://python.langchain.com/v0.2/assets/images/rag_landscape-627f1d0fd46b92bc2db0af8f99ec3724.png)) de tot [felul](https://gathnex.medium.com/breaking-chains-coheres-free-llm-api-s-shakes-openai-s-foundation-b91f6156c89d) (cel mai cunoscut fiind desigur [OpenAI](https://github.com/tiksharsh/langchain-llama2-openAI-project/tree/main) cu binecunoscutele sale modele GPT)
 - ca cititor(reader/ingestor) de documente PDF la fel se poate lucra cu tot felul de librarii(ex. PyPDF dar si altele asemanatoare)
