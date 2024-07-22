@@ -55,6 +55,7 @@ Acest cadru-integrator(framework) are un foarte bun suport pt. o multime de alte
 - ca reader de documente PDF la fel se poate lucra cu tot felul de librarii(ex. PyPDF dar si altele asemanatoare)
 - ca si GUI puteti folosi tot asa o multime de instrumente cum ar fi streamlit, tkinter,...
 - pe parte de bd relationale puteti folosi [SQLalchemy](https://github.com/langchain-ai/langchain/discussions/22340) dar nu numai...
+- pentru intrarile de tip ***CSV*** se poate folosi spre exemplu sa zicem [pandas](https://www.analyticsvidhya.com/blog/2023/10/building-invoice-extraction-bot-using-langchain-and-llm/)
 - se integreaza(direct sau indirect)cu tot felul de alte instrumente cum ar fi
   - docx2txt
   - python-dotenv
