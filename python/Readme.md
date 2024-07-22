@@ -51,7 +51,7 @@ pastrand totusi  specificitatea
 
 [Langchain](https://python.langchain.com/v0.2/docs/concepts/) este o librarie integratoare de alte instrumente.
 Acest cadru-integrator(framework) are un foarte bun suport pt. o multime de alte produse-software(SW) cum ar fi : 
-- [LLM](https://mindsdb.com/blog/navigating-the-llm-landscape-a-comparative-analysis-of-leading-large-language-models)-uri(creierul oricarui sistem Q&A: ex. [RAG](https://python.langchain.com/v0.2/assets/images/rag_landscape-627f1d0fd46b92bc2db0af8f99ec3724.png)) de tot [felul](https://gathnex.medium.com/breaking-chains-coheres-free-llm-api-s-shakes-openai-s-foundation-b91f6156c89d) (cel mai cunoscut fiind desigur OpenAI cu binecunoscutele sale modele GPT)
+- [LLM](https://mindsdb.com/blog/navigating-the-llm-landscape-a-comparative-analysis-of-leading-large-language-models)-uri(creierul oricarui sistem Q&A: ex. [RAG](https://python.langchain.com/v0.2/assets/images/rag_landscape-627f1d0fd46b92bc2db0af8f99ec3724.png)) de tot [felul](https://gathnex.medium.com/breaking-chains-coheres-free-llm-api-s-shakes-openai-s-foundation-b91f6156c89d) (cel mai cunoscut fiind desigur [OpenAI](https://github.com/tiksharsh/langchain-llama2-openAI-project/tree/main) cu binecunoscutele sale modele GPT)
 - ca cititor(reader/ingestor) de documente PDF la fel se poate lucra cu tot felul de librarii(ex. PyPDF dar si altele asemanatoare)
 - ca si GUI puteti folosi tot asa o multime de instrumente cum ar fi [streamlit](https://docs.streamlit.io/)(local gazduit cu access prin browser http://localhost:8501), tkinter,...
 - pe parte de bd relationale puteti folosi [SQLalchemy](https://github.com/langchain-ai/langchain/discussions/22340) dar nu numai...
