@@ -25,14 +25,14 @@ Puteti accesa acest [depozit](https://github.com/petre-renware/api_to_roefact) c
 pentru a va completa informatiile cu privire la sistemul eFactura.
 
 
-Daca sunteti interesati sa folositi [***"AI generative"***](https://community.sap.com/t5/technology-blogs-by-members/harnessing-langchain-for-rag-enhanced-private-gpt-development-on-sap-btp/ba-p/13576303) pt **facturi**(si in general pt ingerarea oricarui [tip/fel de document](https://community.sap.com/t5/technology-blogs-by-members/creating-an-advanced-private-gpt-leveraging-rag-concepts-and-langchain-for/ba-p/13576515), indiferend de nivelul sau de [structurare](https://unstructured.io/))  puteti gasi un [exemplu](https://github.com/ronidas39/LLMtutorial/tree/main/tutorial91) bazat pe [langchain](https://www.langchain.com/)(un cadru AI-integrator extrem de popular).
+Daca sunteti interesati sa folositi [***"AI/NLP generative"***](https://community.sap.com/t5/technology-blogs-by-members/harnessing-langchain-for-rag-enhanced-private-gpt-development-on-sap-btp/ba-p/13576303) pt **facturi**(si in general pt ingerarea oricarui [tip/fel de document](https://community.sap.com/t5/technology-blogs-by-members/creating-an-advanced-private-gpt-leveraging-rag-concepts-and-langchain-for/ba-p/13576515), indiferend de nivelul sau de [structurare](https://unstructured.io/))  puteti gasi un [exemplu](https://github.com/ronidas39/LLMtutorial/tree/main/tutorial91) bazat pe [langchain](https://www.langchain.com/)(un cadru AI-integrator extrem de popular).
 
 Cititi in prealabil documentul powerpoint [tutorial91.pptx](https://github.com/ronidas39/LLMtutorial/blob/main/tutorial91/tutorial91.pptx) explicativ.
 
 Si in general puteti posta pe google[/imagini] "intrebari(a.k.a interogari)" gen ["python langchain invoice generator UBL2.1"](https://www.google.com/search?q=python+langchain+invoice+generator+UBL2.1&sca_esv=2a19a3414e05e997&rlz=1C1JJTC_enRO1087RO1087&udm=2&biw=1536&bih=762&sxsrf=ADLYWIJX2J6d2m2qJ7RgnKQp92zQTSSk7w%3A1721659370891&ei=6m-eZuWCNv-L7NYPj9SamAk&ved=0ahUKEwjln-f58LqHAxX_BdsEHQ-qBpMQ4dUDCBA&uact=5&oq=python+langchain+invoice+generator+UBL2.1&gs_lp=Egxnd3Mtd2l6LXNlcnAiKXB5dGhvbiBsYW5nY2hhaW4gaW52b2ljZSBnZW5lcmF0b3IgVUJMMi4xSL0eUKcHWPUbcAF4AJABAJgBdqABygKqAQMwLjO4AQPIAQD4AQGYAgCgAgCYAwDiAwUSATEgQIgGAZIHAKAHhwE&sclient=gws-wiz-serp)
 pentru a gasi si alte oportunitati asemanatoare.
 
-O alta IA-aplicatie intereseanta(ChatGPT-ul vostru in materie de facturi PDF) ar putea fi  sa zicem, una avand urmatorul scenariu:
+O alta IA/[NLP](https://github.com/bhavyabhagerathi/Invoice-Data-Extraction-Bot-using-LLAMA-2-and-Streamlit)-aplicatie intereseanta(ChatGPT-ul vostru/nostru in materie de facturi PDF) ar putea fi  sa zicem, una avand urmatorul scenariu:
 
 -am un director plin de facturi generate PDF(obtinute chiar/poate din imaginile xml/UBL2.1)  si...
 
