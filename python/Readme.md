@@ -137,7 +137,7 @@ Daca va temeti ca datele/informatiile voastre sunt prea ["sensibile/critice/inti
 
 In acest ultim caz de utilizare, poate fi util sa luati in considerare si produsul [LM Studio](https://lmstudio.ai/)
 
-Legat de gratuitate,  iata un [tutorial](https://www.youtube.com/watch?v=g0eaSMgvDnc&ab_channel=CodePort) care mi-a retinut [atentia ](https://github.com/Dipeshpal/langchain_tutorial)(atentie insa va trebuie resurse considerabile de computing!!!)
+Legat de gratuitate,  iata un [tutorial](https://www.youtube.com/watch?v=g0eaSMgvDnc&ab_channel=CodePort) care mi-a retinut [atentia ](https://github.com/Dipeshpal/langchain_tutorial)(atentie insa ... va trebuie resurse considerabile de computing!!!)
 
 O [alternativa](https://www.datacamp.com/blog/langchain-vs-llamaindex) la [LangChain](https://github.com/gkamradt/langchain-tutorials/tree/main) o constituie LlaMA-index. 
 
