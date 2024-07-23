@@ -137,9 +137,12 @@ Daca va temeti ca datele/informatiile voastre sunt prea ["sensibile/critice/inti
 
 In acest ultim caz de utilizare, poate fi util sa luati in considerare si produsul [LM Studio](https://lmstudio.ai/)
 
+Legat de gratuitate,  iata un [tutorial](https://www.youtube.com/watch?v=g0eaSMgvDnc&ab_channel=CodePort) care mi-a retinut [atentia ](https://github.com/Dipeshpal/langchain_tutorial)
+
 O [alternativa](https://www.datacamp.com/blog/langchain-vs-llamaindex) la [LangChain](https://github.com/gkamradt/langchain-tutorials/tree/main) o constituie LlaMA-index. 
 
 Mai Trebuie spus insa si faptul ca aceste produse-SW nu sunt singurele si acestea nu se ezxlud ci mai degraba trebuiesc alese in functie de necesitatile voastre de [proiectare](https://medium.com/@glenn_53777/framework-to-design-an-ai-finance-accounting-assistant-a1f4b62dcde).
 
 Oricum AI/ML/NLP-generative( a se vedea RAG) a provocat daca vreti o adevarata AI-revolutie in mai toate [domeniile](https://www.blueprism.com/resources/blog/generative-ai-equity-research-langchain/) fie ele economice sau sociale.
 
+<hr/>
