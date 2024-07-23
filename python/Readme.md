@@ -143,6 +143,6 @@ O [alternativa](https://www.datacamp.com/blog/langchain-vs-llamaindex) la [LangC
 
 Mai Trebuie spus insa si faptul ca aceste [produse-SW](https://github.com/gkamradt/langchain-tutorials/blob/main/LangChain%20Cookbook%20Part%201%20-%20Fundamentals.ipynb) nu sunt singurele si acestea nu se exclud ci mai degraba trebuiesc alese in functie de necesitatile voastre de [proiectare](https://medium.com/@glenn_53777/framework-to-design-an-ai-finance-accounting-assistant-a1f4b62dcde).
 
-Oricum AI/ML/NLP-generative( a se vedea RAG) a provocat daca vreti o adevarata AI-revolutie in mai toate [domeniile](https://www.blueprism.com/resources/blog/generative-ai-equity-research-langchain/) fie ele economice sau sociale.
+Oricum [AI/ML/NLP-generative](https://www.koyeb.com/tutorials/using-langserve-to-build-rest-apis-for-langchain-applications)(a se vedea RAG) a provocat daca vreti o adevarata AI-revolutie in mai toate [domeniile](https://www.blueprism.com/resources/blog/generative-ai-equity-research-langchain/) fie ele economice sau sociale.
 
 <hr/>
