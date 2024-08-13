@@ -39,6 +39,6 @@ Pentru a sterge un model avem spre exemplu in cmd.exe:
 
 Pentru ***MySQL server*** am instalat **XAMPP** si am startat/pornit webserver-ul ***Apache*** si server-ul ***MySQL***
 
-Cu ***phpMyAdmin*** am creat baza de date **rag_test** pe care am populat-o cu tabele si inregistrari, copiind 
+Apasand butonul **Admin** din dreptul **MySQL-server**(***phpMyAdmin***) am creat baza de date **rag_test** pe care am populat-o cu tabele si inregistrari, copiind 
 
 continutul fisierului ***rag_test.sql*** in fereastra **SQL** aferenta bazei de date si apoi executat cu **GO**.
