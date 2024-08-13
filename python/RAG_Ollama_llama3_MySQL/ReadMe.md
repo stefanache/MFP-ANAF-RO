@@ -41,4 +41,4 @@ Pentru ***MySQL server*** am instalat **XAMPP** si am startat/pornit webserver-u
 
 Cu ***phpMyAdmin*** am creat baza de date **rag_test** pe care am populat-o cu tabele si inregistrari, copiind 
 
-continutul fisierului ***rag_test.sql*** in fereastra **SQL** aferenta bazei de date.
+continutul fisierului ***rag_test.sql*** in fereastra **SQL** aferenta bazei de date si apoi executat cu **GO**.
