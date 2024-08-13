@@ -36,6 +36,7 @@ Pentru a sterge un model avem spre exemplu in cmd.exe:
 
  C:> **ollama rm medllama2**
 
+<hr/>
 
 Pentru ***MySQL server*** am instalat **XAMPP** si am startat/pornit webserver-ul ***Apache*** si server-ul ***MySQL***
 
