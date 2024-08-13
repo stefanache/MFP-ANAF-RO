@@ -3,6 +3,8 @@ Pentru a putea avea instalat local un server Ollama care furnizeaza modele LLM(e
 
 puteti accesa site-ul [ollama](https://ollama.com/download/windows)
 
+
+
 Pt a testa daca serverul este in functiune aveti 2 posibilitati:
  - daca aveti instalat curl atunci cda:
    C:> curl localhost:11434
@@ -10,17 +12,23 @@ Pt a testa daca serverul este in functiune aveti 2 posibilitati:
    http://localhost:11434
 
 Daca nu spune ca "Ollama is running" puteti sa porniti server-ul fara nici-un model incarcat din cmd.exe:
+   
    C:> ollama seeve
 
 ori
+
    C:> ollama run llama3
+
+
    
 Pt a instala modelul LLM=llama3 utilizat in continuare puteti folosi cda cmd.exe: 
 
-C:> ollama run llama3
+ C:> ollama run llama3
 
 Pentru a vedea ce modele(LLM-uri sunt incarcate puteti folosi in fereastra cmd.exe:
-   C:> ollama list
+
+ C:> ollama list
 
 Pentru a sterge un model avem spre exemplu in cmd.exe:
-   C:> ollama rm medllama2
+
+ C:> ollama rm medllama2
