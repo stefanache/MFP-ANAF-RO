@@ -1,0 +1,16 @@
+Chat with Webpage 🌐
+This app allows you to chat with a webpage using local Llama-3 and RAG
+
+Enter Webpage URL
+
+https://anakin.ai/blog/llama-3-rag-locally/
+Loaded https://anakin.ai/blog/llama-3-rag-locally/ successfully!
+
+Ask any question about the webpage
+
+despre ce se vorbeste pe scurt in acest tutorial?
+În această secțiune, vorbesc despre cum să creați un prompt în aplicația dvs. realizată cu Python și biblioteca Streamlit (st).
+
+Promptul este o formă de interacțiune între utilizator și aplicație, unde utilizatorul poate introduce o întrebare sau cerință. 
+În acest caz, promptul este un camp de text numit "Ask any question about the webpage" care permite utilizatorului să introducă 
+o întrebare despre pagina web încărcată.
