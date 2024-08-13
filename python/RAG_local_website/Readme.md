@@ -22,7 +22,7 @@ ori
 
    C:\> ollama run llama3
 
-
+Daca este in functiune("up") atunci ar trebuie sa-l gasiti in bara de task-uri a sistemului de operar(ex. Windows 10 Pro)
    
 Pt a instala modelul LLM=llama3 utilizat in continuare puteti folosi cda cmd.exe: 
 
