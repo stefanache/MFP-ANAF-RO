@@ -53,3 +53,5 @@ Daca aveti un calculator cu resurse generoase(nu neaparat GPU) puteti "dialoga" 
 UN [RAG](https://python.langchain.com/v0.2/docs/tutorials/rag/) poate dialoga cu tot felul de resuse multiple **structurate**(baze de date,csv,xml,...) sau **nestructurate**(pdf,docx,text) localizate in fisiere,SGBD-uri sau chiar pe website-uri(URL/URI-uri gen blog,website de prezentare)
 
 [**Langchain**](https://python.langchain.com/v0.2/docs/introduction/) este un framework deci un complex de librarii care permit integrarea LLM-urilor obtinute din diverse surse/cai.
+
+
