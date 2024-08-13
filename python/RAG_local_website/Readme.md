@@ -19,8 +19,8 @@ Pt a instala modelul LLM=llama3 utilizat in continuare puteti folosi cda cmd.exe
 
 C:> ollama run llama3
 
-Pentru a vedea ce modele(LLM-uri sunt incarcate puteti folosi cmd.exe:
+Pentru a vedea ce modele(LLM-uri sunt incarcate puteti folosi in fereastra cmd.exe:
    C:> ollama list
 
-Pentru a sterge un model avem cmd.exe:
+Pentru a sterge un model avem spre exemplu in cmd.exe:
    C:> ollama rm medllama2
