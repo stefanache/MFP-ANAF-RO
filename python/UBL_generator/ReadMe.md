@@ -1,0 +1,1 @@
+acest [tutorial](https://itheo.tech/generate-ubl-invoices-in-python-using-poetry-and-lxml) poate fi un bun inceput in generarea facturilor xml in format UBL
