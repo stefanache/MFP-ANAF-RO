@@ -1,11 +1,11 @@
 
-Pentru a putea avea instalat local un server [Ollama](https://github.com/ollama/ollama/blob/main/docs/faq.md) care furnizeaza modele [LLM](https://ollama.com/library)(ex. Llama3,phi,...medllama2,...)
+Pentru a putea avea instalat local un [server](https://medium.com/@danushidk507/ollama-ollama-in-windows-384899e054e4) [Ollama](https://github.com/ollama/ollama/blob/main/docs/faq.md) care furnizeaza modele [LLM](https://ollama.com/library)(ex. Llama3,phi,...medllama2,...)
 
 puteti accesa site-ul [ollama](https://ollama.com/download/windows)
 
 
 
-Pt a testa daca serverul [Ollama](https://abvijaykumar.medium.com/ollama-brings-runtime-to-serve-llms-everywhere-8a23b6f6a1b4)este in functiune/ruleaza/este "up" aveti 2 posibilitati:
+Pt a testa daca serverul-LLM [Ollama](https://abvijaykumar.medium.com/ollama-brings-runtime-to-serve-llms-everywhere-8a23b6f6a1b4) este in functiune/ruleaza/este "up" aveti 2 posibilitati:
  - daca aveti instalat **curl** atunci cda:
 
    C:\> **curl localhost:11434**
