@@ -40,6 +40,8 @@ Pentru a sterge un model avem spre exemplu in cmd.exe:
 
  <hr/>
 
+ Trebuie sa stiti ca [RAG](https://www.comet.com/site/blog/advanced-rag-algorithms-optimize-retrieval/) este un concept relativ nou extrem de actual!
+
 Desi nu am un laptop performant am dialogat totusi cu modelul Llama3 oferit de serverul Ollama.
 
 Iata cum a decurs discutia:
@@ -444,7 +446,7 @@ Feel free to ask if you have any further questions or need more guidance on how 
 >>> Send a message (/? for help)
 <hr/>
 
-Daca laptop-ul dvs nu are multe resurse (si nici GPU) probabil ca va trebui sa fiti foarte rabdatori pana ce editeaza raspunsul.
+Daca laptop-ul dvs nu are multe resurse (si nici GPU) probabil ca va trebui sa fiti foarte rabdatori pana ce LLM-ul editeaza raspunsul.
 
 De ce nu, poate fi un bun prilej pt o cafea!     Sper sa va inspire!
 
