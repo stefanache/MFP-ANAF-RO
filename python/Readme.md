@@ -501,3 +501,5 @@ Keep in mind that LangChain's documentation and tutorials are usually focused on
 
 Hope this helps!
 <hr/>
+
+Sper sa va inspire!
