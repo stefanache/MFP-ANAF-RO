@@ -48,7 +48,7 @@ le pastraza in baze de date vectoriale pe care mai apoi le pune la dispozitia LL
 
 conforme cu contextul vostru particular(adica are acces la datele voastre private stocate in siguranta local pt a putea formula raspunsuri mai bune!)
 
-Astfel un RAG isi "intareste" raspunsul avand acces la datele tale intime/specifice.
+Astfel un RAG isi "intareste" raspunsul avand acces la datele tale relevante/intime/specifice.
 
 Desi nu am un laptop performant am dialogat totusi cu modelul Llama3 oferit de serverul Ollama.
 
