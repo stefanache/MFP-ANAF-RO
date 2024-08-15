@@ -1,5 +1,7 @@
 
-Pentru a putea avea instalat local un [server](https://medium.com/@danushidk507/ollama-ollama-in-windows-384899e054e4) [Ollama](https://github.com/ollama/ollama/blob/main/docs/faq.md) care furnizeaza modele [LLM](https://ollama.com/library)(ex. Llama3, mistral, phi, gemma,...medllama2,...); Aceste moelele/[LLM](https://klu.ai/blog/open-source-llm-models)-uri au destinatii diferite comunicare,cod,...
+Pentru a putea avea instalat local un [server](https://medium.com/@danushidk507/ollama-ollama-in-windows-384899e054e4) [Ollama](https://github.com/ollama/ollama/blob/main/docs/faq.md) care furnizeaza modele [LLM](https://ollama.com/library)(ex. Llama3, mistral, phi, gemma,...medllama2,...); 
+
+Aceste moelele/[LLM](https://klu.ai/blog/open-source-llm-models)-uri au destinatii diferite comunicare,cod,...
 
 puteti accesa site-ul [ollama](https://ollama.com/download/windows)
 
