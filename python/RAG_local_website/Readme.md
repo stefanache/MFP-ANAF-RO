@@ -393,7 +393,7 @@ Keep in mind that LangChain's documentation and tutorials are usually focused on
 
 Hope this helps!
 
->>> ai cumva o varianta java de cod scurt(cat mai abstract) si cat mai complet pentru ultimul cod python expus anterior?
+>>> ai cumva o varianta [java](https://www.thomasvitale.com/text-classification-with-spring-ai/) de cod scurt(cat mai abstract) si cat mai complet pentru ultimul cod python expus anterior?
 I see what you're getting at!
 
 While there isn't a direct Java equivalent to the Python code I provided earlier, I can give you a brief, high-level overview of how you might approach implementing a similar RAG model in Java. This will be more abstract and won't
