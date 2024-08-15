@@ -447,3 +447,7 @@ Feel free to ask if you have any further questions or need more guidance on how 
 Daca laptop-ul dvs nu are multe resurse (si nici GPU) probabil ca va trebui sa fiti foarte rabdatori pana ce editeaza raspunsul.
 
 De ce nu, poate fi un bun prilej pt o cafea!     Sper sa va inspire!
+
+Dupa cum puteti vedea uneori raspunsul este grosier dar poate constitui un punct de plecare pentru o noua intrebare clarificatoare in care puteti obtine detalii mult mai precise.
+
+Oricum modelul ofera o buna asistenta de care puteti profita din plin!
