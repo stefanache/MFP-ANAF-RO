@@ -392,4 +392,6 @@ Keep in mind that LangChain's documentation and tutorials are usually focused on
 Hope this helps!
 <hr/>
 
-Sper sa va inspire!
+Daca laptop-ul dvs nu are multe resurse (si nici GPU) probabil ca va trebui sa fiti foarte rabdatori pana ce editeaza raspunsul.
+
+De ce nu, poate fi un bun prilej pt o cafea!     Sper sa va inspire!
