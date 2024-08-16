@@ -58,7 +58,7 @@ Iata cum a decurs discutia:
 Microsoft Windows [Version 10.0.19045.4651]
 (c) Microsoft Corporation. All rights reserved.
 
-C:\Users\Nelu>ollama run llama3
+C:\Users\Nelu>ollama run [llama3](https://ollama.com/library/llama3)
 >>> cu ce framework-uri ai se poate integra ollama?
 Ollama este un platformă de automatizare a proceselor bazată pe workflow, care oferă integrare cu mai multe
 framework-uri și servicii. Acesta este un lista parțială de framework-uri și servicii pe care Ollama le poate
