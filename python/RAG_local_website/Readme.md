@@ -52,7 +52,7 @@ Astfel un RAG isi "intareste" raspunsul avand acces la datele tale relevante/int
 
 Desi nu am un laptop performant am dialogat totusi cu modelul [Llama3](https://ollama.com/library/llama3) oferit de serverul Ollama.
 
-Iata cum a decurs discutia cu LLM-ul **llama3**:
+Iata cum a decurs discutia cu LLM-ul **llama3**(cu Ollama ca server pt LLM=llama3 si client shell/command-line interface(CLI)/fereastra cmd.exe, sistem operare=W10Pro):
 
 <hr/>
 Microsoft Windows [Version 10.0.19045.4651]
