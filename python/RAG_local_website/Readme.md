@@ -44,7 +44,7 @@ Trebuie sa stiti ca [RAG](https://www.comet.com/site/blog/advanced-rag-algorithm
 
 Pe scurt un RAG "ingera/citeste" datele voastre particulare/specifice/private structurate(in baze de date) sau nestructurate(documente locale sau de pe internet) si 
 
-le pastraza in baze de date vectoriale pe care mai apoi le pune la dispozitia LLM-ului(le "recupereaza") pentru a produce raspunsuri mai precise mai aplicate 
+le pastraza in baze de date vectoriale pe care mai apoi le pune la dispozitia LLM-ului(cand sunt necesare date legate de aun anumit context, are loc o [recuperare](https://dexonline.ro/definitie/recuperare) a datelor relevante) pentru a produce raspunsuri mai precise mai aplicate 
 
 conforme cu contextul vostru particular(adica are acces la datele voastre private stocate in siguranta local pt a putea formula raspunsuri mai bune!)
 
