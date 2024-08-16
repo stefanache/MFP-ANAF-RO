@@ -290,7 +290,7 @@ For your specific task, I recommend starting with a smaller dataset (around 1,00
 want to improve the model's performance.
 
 >>> ok. stii ce este ciudat? nu ma asteptam sa intru atat de serios in detaliile de antrenament ale LLM-ului.Oricum folosessc in RAG modelul llama3 pt conversatie dar ma asteptam ca sa pot ingloba mult mai simplu si mai abstract exemplel
-... e particulare de generare de facturi UBL2.1 pt ANAF si RAG-ul sa le inglobeze ca date relevante, sa le inglobeze mai simplu intr-o baza de date vectoriala cum este FAISS pt a fi utilizate ulterior. Adica as fi vrut un cod mult mai ab
+... e particulare de generare de facturi UBL2.1 pt ANAF si RAG-ul sa le inglobeze ca date relevante, sa le inglobeze mai simplu intr-o baza de date vectoriala cum este [FAISS](https://www.pinecone.io/lp/faiss/?utm_term=faiss&utm_campaign=Competitors+-+US&utm_source=adwords&utm_medium=ppc&hsa_acc=3111363649&hsa_cam=16388685080&hsa_grp=134997235138&hsa_ad=583930991475&hsa_src=g&hsa_tgt=kwd-309800953134&hsa_kw=faiss&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAjw8fu1BhBsEiwAwDrsjNM2Kl0o4XhPWmLV9oaGSHp-MoyskJdUvIoNbmpoQRKT4zgvXtBe6RoCvsIQAvD_BwE) pt a fi utilizate ulterior. Adica as fi vrut un cod mult mai ab
 ... stract adica sa nu ma implic eu in antrenament si alte date de culise.Ma intelegi ce vreau sa spun? Ai vreun cod python complet mult mai abstractizat in acest sens?
 I understand now that you want a more abstract and high-level approach to training the RAG model, focusing on vectorized representations of your specific use case (UBL2.1 invoice generation for ANAF) rather than diving deep into
 the training details.
