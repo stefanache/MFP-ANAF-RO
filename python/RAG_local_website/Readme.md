@@ -22,13 +22,13 @@ Daca nu spune ca "Ollama is running" puteti sa porniti server-ul fara nici-un mo
 
 ori
 
-   C:\> **ollama run llama3**
+   C:\> **ollama run [llama3](https://ollama.com/library/llama3)**
 
 Daca este in functiune("up") atunci ar trebuie sa-l gasiti in bara de task-uri a sistemului de operar(ex. Windows 10 Pro)
    
-Pt a instala modelul LLM=llama3 utilizat in continuare puteti folosi cda cmd.exe: 
+Pt a instala modelul LLM=[llama3](https://ollama.com/library/llama3) utilizat in continuare puteti folosi cda cmd.exe: 
 
- C:\> **ollama run llama3**
+ C:\> **ollama run [llama3](https://ollama.com/library/llama3)**
 
 Pentru a vedea ce modele(LLM-uri sunt incarcate puteti folosi in fereastra cmd.exe:
 
@@ -50,7 +50,7 @@ conforme cu contextul vostru particular(adica are acces la datele voastre privat
 
 Astfel un RAG isi "intareste" raspunsul avand acces la datele tale relevante/intime/specifice.
 
-Desi nu am un laptop performant am dialogat totusi cu modelul Llama3 oferit de serverul Ollama.
+Desi nu am un laptop performant am dialogat totusi cu modelul [Llama3](https://ollama.com/library/llama3) oferit de serverul Ollama.
 
 Iata cum a decurs discutia:
 
