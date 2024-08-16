@@ -3,7 +3,7 @@ Pentru a putea avea instalat local un [server](https://medium.com/@danushidk507/
 
 Aceste moelele/[LLM](https://klu.ai/blog/open-source-llm-models)-uri au [destinatii](https://github.com/underlines/awesome-ml/blob/master/llm-tools.md)/[scopuri](https://github.com/GURPREETKAURJETHRA/END-TO-END-GENERATIVE-AI-PROJECTS) diferite [comunicare/chatting](https://en.wikipedia.org/wiki/Llama_(language_model)),cod,[vision](https://medium.com/@mayankchugh.jobathk/build-a-document-based-rag-question-answering-app-with-ollama-and-use-streamlit-as-a-front-end-7d115cf080f7),... si au primit diverse scoruri/note/punctaje pe platformele pe care au fost testate(MT-bench	MMLU, BBH, MATH, GSM8K, HellaSwag, HumanEval...)
 
-puteti accesa site-ul [ollama](https://ollama.com/download/windows)
+puteti accesa [site](https://github.com/endo9000/Awesome-Ollama)-ul [ollama](https://ollama.com/download/windows)
 
 
 
