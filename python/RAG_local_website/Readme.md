@@ -1,7 +1,7 @@
 
 Pentru a putea avea instalat local un [server](https://medium.com/@danushidk507/ollama-ollama-in-windows-384899e054e4) [Ollama](https://github.com/ollama/ollama/blob/main/docs/faq.md) care furnizeaza modele [LLM](https://ollama.com/library)(ex. [llama3](https://ollama.com/library/llama3), [mistral](https://ollama.com/library/mistral), [phi](https://ollama.com/library/phi)/[phi3](https://ollama.com/library/phi3), [gemma](https://ollama.com/library/gemma)/[gemma2](https://ollama.com/library/gemma2),...[medllama2](https://ollama.com/library/medllama2),...); 
 
-Aceste moelele/[LLM](https://klu.ai/blog/open-source-llm-models)-uri au destinatii diferite [comunicare](https://en.wikipedia.org/wiki/Llama_(language_model)),cod,[vision](https://medium.com/@mayankchugh.jobathk/build-a-document-based-rag-question-answering-app-with-ollama-and-use-streamlit-as-a-front-end-7d115cf080f7),... si au primit diverse scoruri/note/punctaje pe platformele pe care au fost testate(MT-bench	MMLU,...)
+Aceste moelele/[LLM](https://klu.ai/blog/open-source-llm-models)-uri au destinatii diferite [comunicare](https://en.wikipedia.org/wiki/Llama_(language_model)),cod,[vision](https://medium.com/@mayankchugh.jobathk/build-a-document-based-rag-question-answering-app-with-ollama-and-use-streamlit-as-a-front-end-7d115cf080f7),... si au primit diverse scoruri/note/punctaje pe platformele pe care au fost testate(MT-bench	MMLU, BBH, MATH, GSM8K, HellaSwag, HumanEval...)
 
 puteti accesa site-ul [ollama](https://ollama.com/download/windows)
 
@@ -52,7 +52,7 @@ Astfel un RAG isi "intareste" raspunsul avand acces la datele tale relevante/int
 
 Desi nu am un laptop performant am dialogat totusi cu modelul [Llama3](https://ollama.com/library/llama3) oferit de serverul Ollama.
 
-Iata cum a decurs discutia:
+Iata cum a decurs discutia cu LLM-ul **llama3**:
 
 <hr/>
 Microsoft Windows [Version 10.0.19045.4651]
