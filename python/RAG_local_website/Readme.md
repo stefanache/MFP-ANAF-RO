@@ -466,7 +466,7 @@ Ca si interfete utilizator(ce tin de partea de "prompting") puteti sa va ganditi
 
 Am vazut ca se prefera [streamlit](https://www.youtube.com/watch?v=f1vJmgMDeUU) pt prompting-ul de tip "browser/web".
 
-Trebuie sa va mai spun ca deja Langchain are deja un [rival](https://myscale.com/blog/llamaindex-vs-langchain-detailed-comparison/) redutabil "[LlamaIndex](https://abvijaykumar.medium.com/retrieval-augmented-generation-rag-with-llamaindex-with-wikipedia-41ab5b5a0811)". Iata-l in actiune in acest post [RAG with Llamaindex & Ollama](https://lightning.ai/maxidiazbattan/studios/rag-streamlit-llamaindex-ollama)
+Trebuie sa va mai spun ca deja Langchain are un [rival](https://myscale.com/blog/llamaindex-vs-langchain-detailed-comparison/) redutabil "[LlamaIndex](https://abvijaykumar.medium.com/retrieval-augmented-generation-rag-with-llamaindex-with-wikipedia-41ab5b5a0811)". Iata-l in actiune in acest post [RAG with Llamaindex & Ollama](https://lightning.ai/maxidiazbattan/studios/rag-streamlit-llamaindex-ollama)
 
 Si bazele vectoriale sunt numeroase cu puncte forte sau mai putin forte.
 
