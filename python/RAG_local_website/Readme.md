@@ -467,3 +467,7 @@ Trebuie sa va mai spun ca deja Langchain are deja un rival redutabil "[LlamaInde
 Si bazele vectoriale sunt numeroase cu puncte forte sau mai putin forte.
 
 Arta de a le imbina armonios va apartine!
+
+Ca si interfete utilizator(ce tin de partea de "prompting") puteti sa va ganditi la interfete de tip CLI,Desktop,api-GUI,Browser/Web,....
+
+Am vazut ca se prefera [streamlit](https://www.youtube.com/watch?v=f1vJmgMDeUU) pt partea de browser/web
