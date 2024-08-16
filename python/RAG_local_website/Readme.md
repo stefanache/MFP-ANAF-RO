@@ -462,7 +462,7 @@ Dupa cum puteti vedea uneori raspunsul este grosier dar poate constitui un punct
 
 Oricum modelul ofera o buna asistenta de care puteti profita din plin!
 
-Trebuie sa va mai spun ca deja Langchain are deja un rival redutabil "[LlamaIndex](https://abvijaykumar.medium.com/retrieval-augmented-generation-rag-with-llamaindex-with-wikipedia-41ab5b5a0811)".
+Trebuie sa va mai spun ca deja Langchain are deja un [rival](https://myscale.com/blog/llamaindex-vs-langchain-detailed-comparison/) redutabil "[LlamaIndex](https://abvijaykumar.medium.com/retrieval-augmented-generation-rag-with-llamaindex-with-wikipedia-41ab5b5a0811)".
 
 Si bazele vectoriale sunt numeroase cu puncte forte sau mai putin forte.
 
