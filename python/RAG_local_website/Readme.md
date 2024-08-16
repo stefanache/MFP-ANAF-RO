@@ -464,7 +464,7 @@ Oricum modelul ofera o buna asistenta de care puteti profita din plin!
 
 Ca si interfete utilizator(ce tin de partea de "prompting") puteti sa va ganditi la interfete de tip CLI,Desktop,api-GUI,Browser/Web,....
 
-Am vazut ca se prefera [streamlit](https://www.youtube.com/watch?v=f1vJmgMDeUU) pt prompting-ul de tip "browser/web".
+Am vazut ca se prefera [streamlit](https://www.youtube.com/watch?v=f1vJmgMDeUU) pt [prompting](https://github.com/tonykipkemboi/ollama_streamlit_demos)-ul de tip "browser/web".
 
 Trebuie sa va mai spun ca deja Langchain are un [rival](https://myscale.com/blog/llamaindex-vs-langchain-detailed-comparison/) redutabil "[LlamaIndex](https://abvijaykumar.medium.com/retrieval-augmented-generation-rag-with-llamaindex-with-wikipedia-41ab5b5a0811)". Iata-l in actiune in acest post [RAG with Llamaindex & Ollama](https://lightning.ai/maxidiazbattan/studios/rag-streamlit-llamaindex-ollama)
 
