@@ -494,6 +494,6 @@ trebuie sa va uitati la la resursele HW+SW pe care le aveti la dispozitie in ace
 
 Astfel nu exista cel putin deocamdata o solutie care sa fie buna la toate.
 
-As putea emite o ipoteza ca in cele din urma sau probabil ca  aceste produse de tip [RAG](https://blog.jayanthk.in/types-of-rag-an-overview-0e2b3ed71b82) se vor canaliza sau vor deveni specifice fiecarui [sub]domeniu in parte(medical,economie,financiar,chatting....), dar asta ramane de vazut si numai timpul poate fi cel care confirma sau infirma aceasta ipoteza.
+As putea emite o ipoteza ca in cele din urma sau probabil ca  aceste produse de tip [RAG](https://blog.jayanthk.in/types-of-rag-an-overview-0e2b3ed71b82) se vor canaliza sau vor deveni specifice fiecarui [sub]domeniu in parte(medical,economie,financiar,ERP,CRM, contabilitate, facturare UBL2.1, ...chatting.... s.a.m.d), dar asta ramane de vazut si numai timpul poate fi cel care confirma sau infirma aceasta ipoteza.
 
 Asadar, subiectul RAG este unul generos si pare sa fie cel putin deocamdata inepuizabil sau daca vreti in plina expansiune!
