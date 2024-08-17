@@ -487,4 +487,8 @@ In cazurile acestea, in care doresti ca modelele AI-generative sa utilizeze simb
 
 E posibil sa auziti de tot felul de [RAG](https://www.linkedin.com/pulse/rag-notes-building-better-rag-part-1-akshay-chougule-ldr4e%3FtrackingId=osHGtG%252B4sfT2%252BTH30HpNcw%253D%253D/?trackingId=osHGtG%2B4sfT2%2BTH30HpNcw%3D%3D)-uri cum ar fi RAG to Riches([RoR](https://www.reddit.com/r/LocalLLaMA/comments/1e2xjtl/graphragollamaui/)),Knowledge Graphs[(KG)](https://medium.com/enterprise-rag/injecting-knowledge-graphs-in-different-rag-stages-a3cd1221f57b)-urile, [G-RAG](https://medium.com/@hellorahulk/empowering-rag-using-kg-kg-rag-g-rag-b5c776b0923b)(KG+RAG = G-RAG), [T-RAG](https://www.linkedin.com/pulse/rag-notes-building-better-rag-part-2-akshay-chougule-wopmf/), [RAPTOR](https://www.linkedin.com/pulse/rag-notes-building-better-rag-part-2-akshay-chougule-wopmf/), [CRAG](https://www.linkedin.com/pulse/rag-notes-building-better-rag-part-2-akshay-chougule-wopmf/), [Self-RAG](https://www.linkedin.com/pulse/rag-notes-building-better-rag-part-2-akshay-chougule-wopmf/), [RAG-e2e](https://www.linkedin.com/pulse/rag-notes-building-better-rag-part-2-akshay-chougule-wopmf/),[RA-DIT](https://www.linkedin.com/pulse/rag-notes-building-better-rag-part-2-akshay-chougule-wopmf/) ori [HiQA](https://www.linkedin.com/pulse/rag-notes-building-better-rag-part-2-akshay-chougule-wopmf/) care aduc tot felul de imbunatatiri intr-un domeniu sau altul.
 
-Subiectul RAG este unul generos si pare sa fie cel putin deocamdata inepuizabil sau daca vreti in plina expansiune!
+Alegerea unuia sau altuia depinde de cerintele proiectului si de functionalitatile oferite de fiecare RAG in parte. 
+
+Astfel nu exista cel putin deocamdata o solutie care sa fie buna la toate.
+
+Asadar, subiectul RAG este unul generos si pare sa fie cel putin deocamdata inepuizabil sau daca vreti in plina expansiune!
