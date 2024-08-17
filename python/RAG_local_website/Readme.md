@@ -480,3 +480,7 @@ Puteti folosi [local](https://medium.com/@honeyricky1m3/graph-rag-local-with-oll
 (o varietate de RAG pt cazul ingerarii automate de documente nestructurate): [Graph RAG](https://buttondown.com/ainews/archive/ainews-graphrag/)
 
 Acest [produs](https://buttondown.com/ainews/archive/ainews-graphrag/) [Microsoft](https://www.53ai.com/news/RAG/2024071808762.html) se integreaza cu [arhitecturile](https://www.aibase.com/tool/31763) bazate pe AI-paradigma [multi-agent](https://ai.gopubby.com/microsofts-graphrag-autogen-ollama-chainlit-fully-local-free-multi-agent-rag-superbot-61ad3759f06f)
+
+In cazurile acestea, in care doresti ca modelele AI-generative sa utilizeze simbolistica(grafice,diagrame....) in formularea raspunsului, desigur vei avea si un pret de platit: 
+
+ - un timp de inferenta/generare ceva mai mare
