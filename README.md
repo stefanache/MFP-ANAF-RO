@@ -820,6 +820,8 @@ generarii numerelor de evidenta a platii pentru
 Daca veti dori sa verificati online starea Documentului [<b>D112</b>](https://www.suport.nexuserp.ro/index.php?id=246&tip=cafenea) incarcate/predate la ANAF pe internet/ la ghseu atunci veti putea utiliza acest [link](https://www.anaf.ro/StareD112/);
 
 Probabil ca ar putea fi util in anumite situatii sa studiati si acest raport cu privire la [**erorile**](https://static.anaf.ro/static/10/Anaf/declunica/Erori_frecventev5.pdf) frecvente de raportare ale ***DU=D112***; 
+
+Mai nou se vorbeste despre tranformarea DU in [DUI](https://www.digi24.ro/stiri/economie/finante-economie/declaratia-unica-va-fi-inlocuita-cu-declaratia-inteligenta-bolos-nu-mai-depui-o-declaratie-cu-estimatul-pentru-urmatoarea-perioada-2891627)(Declaratie Unica Inteligenta)
 </details>
 
  ## 5. [**MFP**](https://mfinante.gov.ro/domenii) - factor integrator:
