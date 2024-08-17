@@ -484,3 +484,5 @@ Acest [produs](https://buttondown.com/ainews/archive/ainews-graphrag/) [Microsof
 In cazurile acestea, in care doresti ca modelele AI-generative sa utilizeze simbolistica(grafice,diagrame....) in formularea raspunsului, desigur vei avea si un pret de platit: 
 
  - un timp de inferenta/generare ceva mai mare
+
+O alta varietate de RAG-uri sunt [KG](https://r2r-docs.sciphi.ai/cookbooks/knowledge-graph)-urile.
