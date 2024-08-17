@@ -485,4 +485,4 @@ In cazurile acestea, in care doresti ca modelele AI-generative sa utilizeze simb
 
  - un timp de inferenta/generare ceva mai mare
 
-O alta varietate de RAG-uri sunt RAG to Riches([RoR](https://r2r-docs.sciphi.ai/cookbooks/knowledge-graph)),Knowledge Graphs[(KG)](https://r2r-docs.sciphi.ai/cookbooks/knowledge-graph)-urile.
+O alta varietate de RAG-uri sunt RAG to Riches([RoR](https://r2r-docs.sciphi.ai/cookbooks/knowledge-graph)),Knowledge Graphs[(KG)](https://medium.com/enterprise-rag/injecting-knowledge-graphs-in-different-rag-stages-a3cd1221f57b)-urile.
