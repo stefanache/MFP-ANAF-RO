@@ -474,4 +474,9 @@ Si bazele vectoriale sunt numeroase cu puncte forte sau mai putin forte.
 
 Arta de a le imbina armonios va apartine!
 
+<hr/>
+
+Puteti folosi local o varianta de RAG mai avansata care automatizeaza partea de contructie a conductei(pipe-line) de procesare
+
+(foarte interesanta in cazul ingerarii de documente nestructurate): [Graph RAG](https://buttondown.com/ainews/archive/ainews-graphrag/)
 
