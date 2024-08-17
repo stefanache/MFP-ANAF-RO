@@ -476,7 +476,6 @@ Arta de a le imbina armonios va apartine!
 
 <hr/>
 
-Puteti folosi [local](https://medium.com/@honeyricky1m3/graph-rag-local-with-ollama-a-powerful-tool-for-building-data-pipelines-783b62ef9533)(impreuna cu Ollama) o varianta de [RAG](https://microsoft.github.io/graphrag/posts/get_started/) mai avansata/abstractizata care automatizeaza partea de contructie a conductei(pipe-line) de procesare
-
-(foarte interesanta in cazul ingerarii de documente nestructurate): [Graph RAG](https://buttondown.com/ainews/archive/ainews-graphrag/)
+Puteti folosi [local](https://medium.com/@honeyricky1m3/graph-rag-local-with-ollama-a-powerful-tool-for-building-data-pipelines-783b62ef9533)(impreuna cu Ollama) o varianta de [RAG](https://microsoft.github.io/graphrag/posts/get_started/) mai avansata/abstractizata care automatizeaza partea de contructie a conductei(pipe-line) de procesare 
+(o varietate de RAG pt cazul ingerarii automate de documente nestructurate): [Graph RAG](https://buttondown.com/ainews/archive/ainews-graphrag/)
 
