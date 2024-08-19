@@ -491,7 +491,7 @@ Daca doriti sa generati un raspuns/inferenta de tip imagine(sa generati imagini)
 
 Asadar, alegerea uneia sau alteia dintre variantele de implementare, depinde in cele din urma de cerintele proiectului si de functionalitatile oferite de fiecare RAG in parte.
 
-Nu in ultimul rand, atunci cand faceti alegerea trebuie sa va uitati si la efortul compational solicitat de fiecare extensie RAG in parte si bineninteles 
+Nu in ultimul rand, atunci cand faceti alegerea trebuie sa va uitati si la efortul computational solicitat de fiecare extensie RAG in parte si bineninteles 
 trebuie sa va uitati la la resursele HW+SW pe care le aveti la dispozitie in acel moment sau pe care le veti avea la momentul lansarii in productie.
 
 Astfel nu exista cel putin deocamdata o solutie care sa fie buna la toate.
