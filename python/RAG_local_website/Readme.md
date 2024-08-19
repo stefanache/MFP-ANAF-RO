@@ -489,7 +489,7 @@ E posibil sa auziti de tot felul de [RAG](https://www.linkedin.com/pulse/rag-not
 
 Daca doriti sa generati un raspuns/inferenta de tip imagine(sa generati imagini) in urma intrebarilor(ASKs) dvs. atunci va trebui sa apelati la un [RAG conectat la un Stable-Diffusion(SD)](https://github.com/batoutou/Local_RAG_LLM). In acest ultim caz, folosind SD, va trebui sa va ganditi din start ca veti avea nevoie de GPU(cu cel puțin 12 GB de VRAM pt un raspuns rezonabil) deoarece SD necesita CUDA si deci veti avea un consum computational destul de insemnat.
 
-Asadar, alegerea uneia sau alteia dintre variantele de implementare, depinde in cele din urma de cerintele proiectului si de functionalitatile oferite de fiecare RAG in parte.
+Asadar, alegerea uneia sau alteia dintre variantele de implementare, depinde in cele din urma de cerintele proiectului si bineinteles de functionalitatile oferite de fiecare RAG in parte.
 
 Nu in ultimul rand, atunci cand faceti alegerea trebuie sa va uitati si la efortul computational(de calcul) solicitat de fiecare extensie RAG in parte si bineninteles 
 trebuie sa va uitati la la resursele HW+SW pe care le aveti la dispozitie in acel moment sau pe care le veti avea la momentul lansarii in productie.
