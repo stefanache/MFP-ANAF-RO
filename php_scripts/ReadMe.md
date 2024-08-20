@@ -1212,6 +1212,6 @@ Pentru partea de **semnatura digitala** a unui **xml** puteti consulta si acest 
 
 Daca doriti sa integrati **Ollama**(server local de LLM-uri) in proiectele dvs. bazate pe **PhP** atunci poate ar  fi util sa aruncati o privire si pe acest [post](https://github.com/ArdaGnsrn/ollama-php) [reddit](https://www.reddit.com/r/ollama/comments/1ethc69/introducing_the_php_package_for_ollama/?%24deep_link=true&correlation_id=0898d300-3b36-41e0-88b6-540ad2f53c67&post_fullname=t3_1ethc69&post_index=0&ref=email_digest&ref_campaign=email_digest&ref_source=email&utm_content=post_title&%243p=e_as&_branch_match_id=1331879163080256214&utm_medium=Email%20Amazon%20SES&_branch_referrer=H4sIAAAAAAAAA22QXWrDQAyET%2BO%2BOXG8jusEQimUXkMou7Itsn%2BsZdLjV27aPBUkGL5hJKFZJC%2Fn%2Fb6Qcyw7zHnnOd72Jr9VbWfyhQCXF5Wp8MQRPazFX%2BYtVZn3qv3Uut%2Fvu9%2B8TUFB0U7eY0AVigJFWVQeSGbbn1RxlJLcajlOIDNBnjNktDecCMZU4JmujG44tp0jyrBdVpkPKStVbW9TKeRROEVgp7wZToMzTVObq%2Bnr7kBNPQzXvj52Dbp2PBrbv2oup0VgXL2PGGgbZ%2BB52MPk6OhrG6ig0KiKArIHxxMt8oBgMWTkKf7vLmktlv48hasEsCmKvkLpzxph8fQN%2BJHUVoEBAAA%3D) intitulat "Introducing the PHP Package for Ollama!"
 
-Posibil sa doriti sa implementati un Php-RAG si atunci acest [post](https://github.com/rzarno/php-rag) github ar putea fi un bun punct de plecare.
+Posibil sa doriti sa implementati un **Php-RAG** si atunci acest [post](https://github.com/rzarno/php-rag) github ar putea fi un bun punct de plecare.
 
 <hr/>
