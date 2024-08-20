@@ -1186,13 +1186,6 @@ O alta cautare interesanta de aceasta data in cautare de **cod/snippets** puteti
 
 Un Client **PHP 8+** pentru ***API ANAF*** pentru ***interogare CIF*** si ***upload RO-eFactura***, puteti gasi in acest [**depozit-Github**](https://github.com/TecsiAron/ANAF-API-Client-PHP)
 
-
-<hr/>
-
-Daca doriti sa integrati **Ollama**(server local de LLM-uri) in aolicatiile bazate pe **PhP** atunci poate ar  fi util sa aruncati o privire si pe acest [post](https://github.com/ArdaGnsrn/ollama-php) [reddit](https://www.reddit.com/r/ollama/comments/1ethc69/introducing_the_php_package_for_ollama/?%24deep_link=true&correlation_id=0898d300-3b36-41e0-88b6-540ad2f53c67&post_fullname=t3_1ethc69&post_index=0&ref=email_digest&ref_campaign=email_digest&ref_source=email&utm_content=post_title&%243p=e_as&_branch_match_id=1331879163080256214&utm_medium=Email%20Amazon%20SES&_branch_referrer=H4sIAAAAAAAAA22QXWrDQAyET%2BO%2BOXG8jusEQimUXkMou7Itsn%2BsZdLjV27aPBUkGL5hJKFZJC%2Fn%2Fb6Qcyw7zHnnOd72Jr9VbWfyhQCXF5Wp8MQRPazFX%2BYtVZn3qv3Uut%2Fvu9%2B8TUFB0U7eY0AVigJFWVQeSGbbn1RxlJLcajlOIDNBnjNktDecCMZU4JmujG44tp0jyrBdVpkPKStVbW9TKeRROEVgp7wZToMzTVObq%2Bnr7kBNPQzXvj52Dbp2PBrbv2oup0VgXL2PGGgbZ%2BB52MPk6OhrG6ig0KiKArIHxxMt8oBgMWTkKf7vLmktlv48hasEsCmKvkLpzxph8fQN%2BJHUVoEBAAA%3D)
-
-</hr>
-
 Un alt model de factura mai bogat in informatii, poate fi si cel expus de cei de la [**NexUS Media**](https://www.nexuserp.ro/imagini/factura-online/nexus-factura-online-model4.webp); In acest exemplar [***e-Factura***](https://www.nexuserp.ro/ro-e-factura-convertor-din-xml-in-pdf) puteti observa afisarea articolelor/bunurilor(produselor/servicii) insotite de principalele codificari(**NC8**,**CVP**) dar si cred/probabil, de o codificare **interna**;
 
 Despre [***e-Transport***](https://www.msg-plaut.com/ro/e-transport?gad_source=1&gclid=Cj0KCQjwwYSwBhDcARIsAOyL0fgN655gDhLJgWapwk0bSyF8WhNJLzCWnvNqGsCj0c9qbdV0untOA3EaAocxEALw_wcB) puteti gasi cateva [informatii](https://mfinante.gov.ro/ro/web/etransport/informatii-tehnice?fbclid=IwAR0L-wL9TWmEFyxC7F9IG3Osy5iQHvbGaxKc-f4MOeOfnh9fF8vrP-ZUBrc) foarte [utile](https://mfinante.gov.ro/ro/web/etransport/informatii-tehnice?fbclid=IwAR0L-wL9TWmEFyxC7F9IG3Osy5iQHvbGaxKc-f4MOeOfnh9fF8vrP-ZUBrc) pe pagina celor de la [**msgPlaut**](https://www.msg-plaut.com/ro/e-transport?gad_source=1&gclid=Cj0KCQjwwYSwBhDcARIsAOyL0fgN655gDhLJgWapwk0bSyF8WhNJLzCWnvNqGsCj0c9qbdV0untOA3EaAocxEALw_wcB) sau pe site-ul celor de la [**xpertsoft**](https://www.xpertsoft.ro/produse/ro-e-transport/?gad_source=1&gclid=Cj0KCQjwwYSwBhDcARIsAOyL0fj8Pu8nUDNFZh0flSl_KHvbvphXdZ4NoM0qbH3Agc_pQSptPeWFk3oaAuo5EALw_wcB). 
@@ -1215,3 +1208,8 @@ Pentru transformarea **xml2pdf** am gasit acest [***cod-PhP***](https://happyweb
 
 Pentru partea de **semnatura digitala** a unui **xml** puteti consulta si acest [repo-github](https://github.com/marcelxyz/php-XmlDigitalSignature/tree/master).
 
+<hr/>
+
+Daca doriti sa integrati **Ollama**(server local de LLM-uri) in aolicatiile bazate pe **PhP** atunci poate ar  fi util sa aruncati o privire si pe acest [post](https://github.com/ArdaGnsrn/ollama-php) [reddit](https://www.reddit.com/r/ollama/comments/1ethc69/introducing_the_php_package_for_ollama/?%24deep_link=true&correlation_id=0898d300-3b36-41e0-88b6-540ad2f53c67&post_fullname=t3_1ethc69&post_index=0&ref=email_digest&ref_campaign=email_digest&ref_source=email&utm_content=post_title&%243p=e_as&_branch_match_id=1331879163080256214&utm_medium=Email%20Amazon%20SES&_branch_referrer=H4sIAAAAAAAAA22QXWrDQAyET%2BO%2BOXG8jusEQimUXkMou7Itsn%2BsZdLjV27aPBUkGL5hJKFZJC%2Fn%2Fb6Qcyw7zHnnOd72Jr9VbWfyhQCXF5Wp8MQRPazFX%2BYtVZn3qv3Uut%2Fvu9%2B8TUFB0U7eY0AVigJFWVQeSGbbn1RxlJLcajlOIDNBnjNktDecCMZU4JmujG44tp0jyrBdVpkPKStVbW9TKeRROEVgp7wZToMzTVObq%2Bnr7kBNPQzXvj52Dbp2PBrbv2oup0VgXL2PGGgbZ%2BB52MPk6OhrG6ig0KiKArIHxxMt8oBgMWTkKf7vLmktlv48hasEsCmKvkLpzxph8fQN%2BJHUVoEBAAA%3D)
+
+<hr/>
