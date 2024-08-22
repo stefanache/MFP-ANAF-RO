@@ -297,7 +297,7 @@ Wikipedia [**TVA**](https://ro.wikipedia.org/wiki/Taxa_pe_valoarea_ad%C4%83ugat%
 
   Ordonanța de urgență nr. 116/2023 privind unele măsuri pentru gestionarea şi evidențierea veniturilor curente ale bugetului public prin implementarea unor proiecte de digitalizare a fost publicată în data de 15 decembrie 2023 în Monitorul Oficial nr. 1138.
 
-Un nou sistem de interes strategic național, sistemul informatic RO e-TVA, urmează să devină operațional de la 1 august 2024, alături de celelalte 5 sisteme informatice de interes strategic naţional în administrarea fiscală, prin care se urmărește prevenirea, reducerea şi combaterea evaziunii fiscale şi a fraudelor fiscale, în vederea creșterii veniturilor bugetare: sistemul naţional privind factura electronică RO e-Factura, sistemul naţional RO e-Transport, sistemul naţional RO e-Sigiliu, sistemul informatic naţional RO e-SAF-T, sistemul informatic naţional RO e-Case de marcat electronice.
+Un nou sistem de interes strategic național, sistemul informatic RO e-TVA, urmează să devină operațional de la 1 august 2024, alături de celelalte 5 sisteme informatice de interes strategic naţional în administrarea fiscală, prin care se urmărește prevenirea, reducerea şi combaterea evaziunii fiscale şi a fraudelor fiscale, în vederea creșterii veniturilor bugetare: sistemul naţional privind factura electronică RO e-Factura, sistemul naţional RO e-Transport, sistemul naţional RO e-Sigiliu, sistemul informatic naţional RO e-[SAF-T](https://static.anaf.ro/static/10/Anaf/Informatii_R/Intrebari_rasp_specifice_SAF-T_v_1_2_200422.pdf), sistemul informatic naţional RO e-Case de marcat electronice.
  
 Deconturi de TVA precompletate de la 1 august 2024 prin sistemul RO e-TVA.
 
