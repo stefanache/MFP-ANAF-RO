@@ -514,7 +514,7 @@ As putea emite o ipoteza ca in cele din urma sau probabil ca  aceste produse de 
 
 Asadar, subiectul RAG este unul generos si pare sa fie cel putin deocamdata inepuizabil sau daca vreti in plina expansiune!
 
-O ***observatie: docker vs. requirements.txt***
+O ***observatie: <font color="green"> docker vs. requirements.txt </font>***
 
 In unele exemple de RAG apare **docker**-izarea ca o metoda alternativa de furnizare containerizata a pachetelor/librariilor sau altor produse utilizate(care desigur apar deja instalate); in alte exemple se foloseste in continuare binecunoscutul fisier **requirements.txt** care se instaleaza cu pip/python(***python -m pip install -r ./requirements.txt***).
 
