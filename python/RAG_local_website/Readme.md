@@ -57,7 +57,7 @@ Desi nu am un laptop performant am dialogat totusi cu modelul [Llama3](https://o
 
 Iata cum a decurs discutia cu LLM-ul **llama3**(cu Ollama ca server pt LLM=llama3 si client shell/command-line interface(CLI)/fereastra cmd.exe, sistem operare=W10Pro):
 <details>
-  <summary>Click me to see the dialog with **llama3**</summary>
+  <summary>Click me to see the dialog with <b>llama3</b></summary>
 <hr/>
 Microsoft Windows [Version 10.0.19045.4651]
 (c) Microsoft Corporation. All rights reserved.
