@@ -519,7 +519,7 @@ Asadar, subiectul [RAG](https://docs.llamaindex.ai/en/stable/getting_started/con
 O ***observatie: docker vs. requirements.txt***
 
 
-In unele exemple de RAG apare **docker**-izarea ca o metoda alternativa de furnizare containerizata a pachetelor/librariilor sau altor produse utilizate(care desigur apar deja instalate); in alte exemple se foloseste in continuare binecunoscutul fisier **requirements.txt** care se instaleaza cu pip/python(***python -m pip install -r ./requirements.txt***).
+In unele exemple de [RAG](https://docs.llamaindex.ai/en/stable/optimizing/production_rag/) apare **docker**-izarea ca o metoda alternativa de furnizare containerizata a pachetelor/librariilor sau altor produse utilizate(care desigur apar deja instalate); in alte exemple se foloseste in continuare binecunoscutul fisier **requirements.txt** care se instaleaza cu pip/python(***python -m pip install -r ./requirements.txt***).
 
 Totusi as dori sa va focusez atentia spre un interesant [subiect/articol](https://www.reddit.com/r/docker/comments/pttgs1/why_do_we_need_requirementstxt_file_in_docker/)  si anume acela ca si in anumite variante **docker**-izate s-ar putea sa intalniti(poate spre surprinderea dvs., pt ca in mod normal este inutil) acest binecunoscut fisier traditional/conventional de instalare locala(cu sau fara python/conda-env) **requirements.txt**
 
