@@ -10,7 +10,7 @@ Hit star ⭐ if you like this repo!!!    or maybe ...
 
 Contact us today to setup a one-on-one discovery call and let us help you scale your next innovative project!
 
-**Thanks all for the ***19*** [stars](https://www.facebook.com/ion.stefanache.3) and great [traffic](https://www.freelancer.com/u/ionstefanache1)(many ***downloads*** and many-many ***views***)!**
+**Thanks all for the ***20*** [stars](https://www.facebook.com/ion.stefanache.3) and great [traffic](https://www.freelancer.com/u/ionstefanache1)(many ***downloads*** and many-many ***views***)!**
 
 **Sorry, But 0 money :)!**
 
