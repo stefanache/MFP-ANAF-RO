@@ -1,4 +1,4 @@
-Trebuie inca de la inceput trebuie sa va spun ca ne vom situa in zona  [Generative AI](https://github.com/nomic-ai/gpt4all/wiki/Generative-AI-Terminology) si ne vom ocupa de RAG-uri.
+Inca de la inceput trebuie sa va spun ca ne vom situa in zona  [Generative AI](https://github.com/nomic-ai/gpt4all/wiki/Generative-AI-Terminology) si ne vom ocupa in special de RAG-uri.
 
 Pentru a putea avea instalat local un [server](https://medium.com/@danushidk507/ollama-ollama-in-windows-384899e054e4) [Ollama](https://github.com/ollama/ollama/blob/main/docs/faq.md) care furnizeaza modele [LLM](https://ollama.com/library)(ex. [llama3](https://ollama.com/library/llama3), [mistral](https://ollama.com/library/mistral), [phi](https://ollama.com/library/phi)/[phi3](https://ollama.com/library/phi3), [gemma](https://ollama.com/library/gemma)/[gemma2](https://ollama.com/library/gemma2), [codellama](codellama)...[medllama2](https://ollama.com/library/medllama2),..., [hemanth/accountant](https://ollama.com/hemanth/accountant) or [sachin2505/accountant](https://ollama.com/sachin2505/accountant) or [kurokien/accounting-functions](https://ollama.com/kurokien/accounting-functions),...); 
 
