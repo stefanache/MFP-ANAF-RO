@@ -56,7 +56,8 @@ Astfel un RAG isi "intareste" raspunsul avand acces la datele tale relevante/int
 Desi nu am un laptop performant am dialogat totusi cu modelul [Llama3](https://ollama.com/library/llama3) oferit de serverul Ollama.
 
 Iata cum a decurs discutia cu LLM-ul **llama3**(cu Ollama ca server pt LLM=llama3 si client shell/command-line interface(CLI)/fereastra cmd.exe, sistem operare=W10Pro):
-
+<details>
+  <summary>Click me to see the dialog with **llama3**</summary>
 <hr/>
 Microsoft Windows [Version 10.0.19045.4651]
 (c) Microsoft Corporation. All rights reserved.
@@ -476,7 +477,8 @@ Si bazele vectoriale(index-urile sau bazele de date proprii de cautare provenite
 Arta de a le imbina armonios va apartine!
 
 <hr/>
-
+</details>
+ 
 Puteti folosi [local](https://medium.com/@honeyricky1m3/graph-rag-local-with-ollama-a-powerful-tool-for-building-data-pipelines-783b62ef9533)(impreuna cu Ollama) o varianta de [RAG](https://microsoft.github.io/graphrag/posts/get_started/) mai avansata/abstractizata care automatizeaza(de-o maniera descriptiva) partea de contructie a conductei(pipe-line) de procesare 
 (o varietate de RAG pt cazul ingerarii automate de documente nestructurate): [Graph RAG](https://buttondown.com/ainews/archive/ainews-graphrag/)
 
