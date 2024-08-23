@@ -511,3 +511,9 @@ Astfel nu exista cel putin deocamdata o solutie care sa fie buna la toate.
 As putea emite o ipoteza ca in cele din urma sau probabil ca  aceste produse de tip [RAG](https://blog.jayanthk.in/types-of-rag-an-overview-0e2b3ed71b82) se vor canaliza/evolua catre... sau vor deveni specifice fiecarui [sub]domeniu in parte(medical, biologie, chimie, fizica ,matematica, economie, [financiar](https://blog.stackademic.com/building-a-multi-document-react-agent-for-financial-analysis-using-llamaindex-and-qdrant-72a535730ac3), ERP,CRM, contabilitate, facturare UBL2.1, ...chatting.... s.a.m.d), dar asta ramane de vazut si numai timpul poate fi cel care confirma sau infirma aceasta ipoteza. Aceasta convingere vine din faptul ca cerintele totusi sunt diferite de la un caz la altul si necesita solutii diferite de la caz la caz.
 
 Asadar, subiectul RAG este unul generos si pare sa fie cel putin deocamdata inepuizabil sau daca vreti in plina expansiune!
+
+O ***observatie***:
+
+In unele exemple de RAG apare docker-izarea ca o metoda alternativa de furnizare containerizata a pachetelor/librariilor sau altor produse utilizate care apar deja instalate; in alte exemple se foloseste in continuare binecunoscutul fisier requirements.txt care se instaleaza cu pip/python(python -m pip install -r ./requirements.txt).
+
+Totusi as dori sa va atrag atentia asupra unui [subiect/articol](https://www.reddit.com/r/docker/comments/pttgs1/why_do_we_need_requirementstxt_file_in_docker/) interesant si anume acela ca si in variantele docker-izate s-ar putea sa intalniti(poate spre surprinderea dvs.) acest binecunoscut fisier de instalare locala(cu sau fara python-env sau conda-env) requirements.txt
