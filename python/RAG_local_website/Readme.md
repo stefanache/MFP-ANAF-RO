@@ -6,7 +6,7 @@ Si la noi in Romania, exista preocupari privind modelarea specifica a limbii noa
 
 Aceste moelele/[LLM](https://klu.ai/blog/open-source-llm-models)-uri au [destinatii](https://github.com/underlines/awesome-ml/blob/master/llm-tools.md)/[scopuri](https://github.com/GURPREETKAURJETHRA/END-TO-END-GENERATIVE-AI-PROJECTS) diferite([comunicare/chatting](https://en.wikipedia.org/wiki/Llama_(language_model)), [cod](codellama), [vision](https://medium.com/@mayankchugh.jobathk/build-a-document-based-rag-question-answering-app-with-ollama-and-use-streamlit-as-a-front-end-7d115cf080f7),...) si au primit diverse scoruri/note/punctaje pe platformele/metricile pe care au fost testate(MT-bench,	MMLU, BBH, MATH, GSM8K, HellaSwag, HumanEval...)
 
-puteti accesa [site](https://github.com/endo9000/Awesome-Ollama)-ul [ollama](https://ollama.com/download/windows)
+puteti accesa [site](https://github.com/endo9000/Awesome-)-ul [](https://.com/download/windows)
 
 
 
@@ -19,7 +19,7 @@ Pt a testa daca serverul-LLM [Ollama](https://abvijaykumar.medium.com/ollama-bri
    
    **http://localhost:11434**
 
-Daca nu spune ca "Ollama is running" puteti sa porniti server-ul fara nici-un model incarcat din cmd.exe:
+Daca nu spune ca "[Ollama](https://github.com/ollama/ollama) is running" puteti sa porniti server-ul fara nici-un model incarcat din cmd.exe:
    
    C:\> **ollama serve**
 
