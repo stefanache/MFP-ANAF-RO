@@ -45,7 +45,7 @@ Pentru a sterge un model avem spre exemplu in cmd.exe:
 
 Trebuie sa stiti ca [RAG](https://www.comet.com/site/blog/advanced-rag-algorithms-optimize-retrieval/) este un concept relativ nou extrem de actual!
 
-Pe scurt un RAG "ingera/citeste" datele voastre particulare/specifice/private structurate(in baze de date) sau nestructurate(documente locale sau de pe internet) si 
+Pe scurt un [RAG](https://medium.com/@handsdani/unleashing-the-power-of-retrieval-augmented-generation-rag-with-ollama-phi3-534e19e01b08) "ingera/citeste" datele voastre particulare/specifice/private structurate(in baze de date) sau nestructurate(documente locale sau de pe internet) si 
 
 le pastraza in baze de date vectoriale pe care mai apoi le pune la dispozitia LLM-ului(cand sunt necesare date legate de un anumit context/subiect, are loc o [recuperare](https://dexonline.ro/definitie/recuperare) a datelor relevante) pentru a produce raspunsuri mai precise mai aplicate 
 
