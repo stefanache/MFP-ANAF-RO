@@ -492,6 +492,8 @@ Un [CorrectiveRAG](https://github.com/langchain-ai/langgraph/blob/2b42407f055dbb
 
 Mai multe despre [**gpt4all**](https://opensource.viitordigital.ro/open-source/14722) puteti afla pe site-ul [A șaptea dimensiune]([A șaptea dimensiune](https://asapteadimensiune.ro/ce-este-gpt4all-si-cum-functioneaza.html)
 
+O paralela intre aplicatiile PC-locale  [Ollama vs. gpt4all](https://www.alphr.com/anythingllm-vs-ollama-vs-gpt4all/) poate sa va ajute intr-o eventuala alegere ca suport furnizor de LLM-uri.
+
 Daca doriti sa generati un raspuns/inferenta de tip imagine(sa generati imagini) in urma intrebarilor(ASKs) dvs. atunci va trebui sa apelati la un [RAG conectat la un Stable-Diffusion(SD)](https://github.com/batoutou/Local_RAG_LLM). In acest ultim caz, folosind SD, va trebui sa va ganditi din start ca veti avea nevoie de GPU(cu cel puțin 12 GB de VRAM pt un raspuns rezonabil) deoarece SD necesita CUDA si deci veti avea un consum computational destul de insemnat.
 
 Asadar, alegerea uneia sau alteia dintre variantele de implementare, depinde in cele din urma de cerintele proiectului si bineinteles de functionalitatile oferite de fiecare RAG in parte.
