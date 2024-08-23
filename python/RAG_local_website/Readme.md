@@ -490,7 +490,7 @@ E posibil sa auziti de tot felul de [RAG](https://www.linkedin.com/pulse/rag-not
 
 Un [CorrectiveRAG](https://github.com/langchain-ai/langgraph/blob/2b42407f055dbb77331de46fe3a632ea24551347/examples/rag/langgraph_crag_mistral.ipynb) [CRAG](https://github.com/Nagi-ovo/CRAG-Ollama-Chat) interesant accesibil prin browser via streamilt si bazat pe [Nomic](https://www.nomic.ai/blog) [gpt4all](https://www.nomic.ai/gpt4all) si Ollama poate fi gasit pe [github/Nagi-ovo](https://github.com/Nagi-ovo/CRAG-Ollama-Chat)
 
-Mai multe despre [**gpt4all**](https://opensource.viitordigital.ro/open-source/14722) puteti afla pe site-ul [A șaptea dimensiune]([A șaptea dimensiune](https://asapteadimensiune.ro/ce-este-gpt4all-si-cum-functioneaza.html)
+Mai multe despre [**gpt4all**](https://opensource.viitordigital.ro/open-source/14722) puteti afla pe site-ul [A șaptea dimensiune](https://asapteadimensiune.ro/ce-este-gpt4all-si-cum-functioneaza.html)
 
 O paralela intre aplicatiile PC-locale  [Ollama vs. gpt4all](https://www.alphr.com/anythingllm-vs-ollama-vs-gpt4all/) poate sa va ajute intr-o eventuala alegere ca suport furnizor de LLM-uri.
 
