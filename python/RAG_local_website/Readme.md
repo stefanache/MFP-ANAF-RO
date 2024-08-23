@@ -512,7 +512,7 @@ Astfel nu exista cel putin deocamdata o solutie care sa fie buna la toate.
 
 As putea emite o ipoteza ca in cele din urma sau probabil ca  aceste produse de tip [RAG](https://blog.jayanthk.in/types-of-rag-an-overview-0e2b3ed71b82) se vor canaliza/evolua catre... sau vor deveni specifice fiecarui [sub]domeniu in parte(medical, biologie, chimie, fizica ,matematica, economie, [financiar](https://blog.stackademic.com/building-a-multi-document-react-agent-for-financial-analysis-using-llamaindex-and-qdrant-72a535730ac3), ERP,CRM, contabilitate, facturare UBL2.1, ...chatting.... s.a.m.d), dar asta ramane de vazut si numai timpul poate fi cel care confirma sau infirma aceasta ipoteza. Aceasta convingere vine din faptul ca cerintele totusi sunt diferite de la un caz la altul si necesita solutii diferite de la caz la caz.
 
-Asadar, subiectul [RAG](https://docs.llamaindex.ai/en/stable/getting_started/concepts/) este unul generos/complex si pare sa fie cel putin deocamdata inepuizabil sau daca vreti in plina expansiune!
+Asadar, subiectul [RAG](https://docs.llamaindex.ai/en/stable/getting_started/concepts/) este unul generos/[complex](https://medium.aiplanet.com/advanced-rag-implementation-on-custom-data-using-hybrid-search-embed-caching-and-mistral-ai-ce78fdae4ef6) si pare sa fie cel putin deocamdata inepuizabil sau daca vreti in plina expansiune!
 
 <hr/>
 
