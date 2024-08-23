@@ -514,7 +514,7 @@ As putea emite o ipoteza ca in cele din urma sau probabil ca  aceste produse de 
 
 Asadar, subiectul RAG este unul generos si pare sa fie cel putin deocamdata inepuizabil sau daca vreti in plina expansiune!
 
-
+<hr/>
 O ***observatie: docker vs. requirements.txt***
 
 
