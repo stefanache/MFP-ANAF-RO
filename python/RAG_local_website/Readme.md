@@ -516,7 +516,7 @@ As putea emite o ipoteza ca in cele din urma sau probabil ca  aceste produse de 
 
 Asadar, subiectul [RAG](https://docs.llamaindex.ai/en/stable/getting_started/concepts/) este unul [generos](https://python.plainenglish.io/building-large-scale-rag-applications-using-llama-2-13b-and-qdrant-e583f235154d)/[complex](https://medium.aiplanet.com/advanced-rag-implementation-on-custom-data-using-hybrid-search-embed-caching-and-mistral-ai-ce78fdae4ef6) si pare sa fie cel putin deocamdata [inepuizabil](https://www.youtube.com/watch?v=NjkAMVFv8m8) sau daca vreti in plina [expansiune](https://dev.to/nassermaronie/build-your-own-rag-app-a-step-by-step-guide-to-setup-llm-locally-using-ollama-python-and-chromadb-b12)!
 
-[Infrastructura](https://dr-arsanjani.medium.com/the-genai-reference-architecture-605929ab6b5a)/[arhitectura](https://generativeai.pub/an-enterprise-grade-reference-architecture-for-the-production-deployment-of-llms-using-the-rag-03022d9dc408) unui RAG poate fi foarte [complexa](https://cloud.google.com/architecture/rag-capable-gen-ai-app-using-vertex-ai)
+[Infrastructura](https://dr-arsanjani.medium.com/the-genai-reference-architecture-605929ab6b5a)/[arhitectura](https://generativeai.pub/an-enterprise-grade-reference-architecture-for-the-production-deployment-of-llms-using-the-rag-03022d9dc408) unui [RAG](https://blog.min.io/architects-guide-to-a-reference-architecture-for-an-ai-ml-datalake/) poate fi foarte [complexa](https://cloud.google.com/architecture/rag-capable-gen-ai-app-using-vertex-ai)
 
 <hr/>
 
