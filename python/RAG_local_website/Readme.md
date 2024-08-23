@@ -492,7 +492,7 @@ Un [CorrectiveRAG](https://github.com/langchain-ai/langgraph/blob/2b42407f055dbb
 
 Mai multe despre [**gpt4all**](https://opensource.viitordigital.ro/open-source/14722) puteti afla pe site-ul [A șaptea dimensiune](https://asapteadimensiune.ro/ce-este-gpt4all-si-cum-functioneaza.html)
 
-Ca si in cazul Ollama si gpt4all are o librarie python [specifica](https://github.com/nomic-ai/gpt4all), avand acelasi nume gpt4all,  pt a permite interactiunea cu aceast server/aplicatie PC
+Ca si in cazul Ollama si gpt4all are o librarie python [specifica](https://github.com/nomic-ai/gpt4all), avand acelasi nume gpt4all(si fiind de fapt un client python pt serverul gpt4all),  pt a permite interactiunea cu aceast tip de server/aplicatie locala PC.
 
 O paralela intre aplicatiile/serverele PC-locale  [Ollama vs. gpt4all](https://www.alphr.com/anythingllm-vs-ollama-vs-gpt4all/) poate sa va ajute intr-o eventuala alegere ca suport furnizor de LLM-uri.
 
