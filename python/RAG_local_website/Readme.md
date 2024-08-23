@@ -516,4 +516,4 @@ O ***observatie***:
 
 In unele exemple de RAG apare docker-izarea ca o metoda alternativa de furnizare containerizata a pachetelor/librariilor sau altor produse utilizate care apar deja instalate; in alte exemple se foloseste in continuare binecunoscutul fisier requirements.txt care se instaleaza cu pip/python(python -m pip install -r ./requirements.txt).
 
-Totusi as dori sa va atrag atentia asupra unui [subiect/articol](https://www.reddit.com/r/docker/comments/pttgs1/why_do_we_need_requirementstxt_file_in_docker/) interesant si anume acela ca si in variantele docker-izate s-ar putea sa intalniti(poate spre surprinderea dvs.) acest binecunoscut fisier de instalare locala(cu sau fara python-env sau conda-env) requirements.txt
+Totusi as dori sa va atrag atentia asupra unui [subiect/articol](https://www.reddit.com/r/docker/comments/pttgs1/why_do_we_need_requirementstxt_file_in_docker/) interesant si anume acela ca si in variantele docker-izate s-ar putea sa intalniti(poate spre surprinderea dvs.) acest binecunoscut fisier traditional/conventional de instalare locala(cu sau fara python-env sau conda-env) requirements.txt
