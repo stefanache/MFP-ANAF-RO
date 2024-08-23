@@ -51,7 +51,7 @@ le pastraza in baze de date vectoriale pe care mai apoi le pune la dispozitia LL
 
 conforme cu contextul vostru particular(adica are acces la datele voastre private stocate in siguranta local pt a putea formula raspunsuri mai bune!)
 
-Astfel un [RAG](https://github.com/NirDiamant/RAG_Techniques) isi ["intareste"](https://www.reddit.com/r/LangChain/comments/1esustd/an_open_source_tutorial_of_controllable_rag_agent/)/imbunatateste exactitatea raspunsului sau(avand acces la datele tale relevante/intime/specifice). Un RAG este cu atat mai bun sau daca vreti mai [controlabil](https://github.com/NirDiamant/RAG_Techniques), cu cat furnizeaza un raspuns mai bogat sau mai concid dar care evita totusi raspunsurile nedorite: ambigue sau halucinante!
+Astfel un [RAG](https://github.com/NirDiamant/RAG_Techniques) isi ["intareste"](https://www.reddit.com/r/LangChain/comments/1esustd/an_open_source_tutorial_of_controllable_rag_agent/)/imbunatateste exactitatea raspunsului sau(avand acces la datele tale relevante/intime/specifice). Un RAG este cu atat mai bun sau daca vreti mai [controlabil](https://github.com/NirDiamant/RAG_Techniques), cu cat furnizeaza un raspuns mai bogat sau mai concis(dupa dorinta) dar care evita totusi raspunsurile nedorite: ambigue sau halucinante!
 
 Desi nu am un laptop performant am dialogat totusi cu modelul [Llama3](https://ollama.com/library/llama3) oferit de serverul Ollama.
 
