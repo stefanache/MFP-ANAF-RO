@@ -496,6 +496,9 @@ Ca si in cazul Ollama si gpt4all are o librarie python [specifica](https://githu
 
 O paralela intre aplicatiile/serverele PC-locale  [Ollama vs. gpt4all](https://www.alphr.com/anythingllm-vs-ollama-vs-gpt4all/) poate sa va ajute intr-o eventuala alegere ca suport furnizor de LLM-uri.
 
+O combinatie de RAG-uri poate fi o solutie in anumite cazuri, motiv pt. care va invit sa studiati acest [G-RAG](https://github.com/langchain-ai/langgraph/blob/main/examples/rag/langgraph_rag_agent_llama3_local.ipynb)
+
+
 Daca doriti sa generati un raspuns/inferenta de tip imagine(sa generati imagini) in urma intrebarilor(ASKs) dvs. atunci va trebui sa apelati la un [RAG conectat la un Stable-Diffusion(SD)](https://github.com/batoutou/Local_RAG_LLM). In acest ultim caz, folosind SD, va trebui sa va ganditi din start ca veti avea nevoie de GPU(cu cel puțin 12 GB de VRAM pt un raspuns rezonabil) deoarece SD necesita CUDA si deci veti avea un consum computational destul de insemnat.
 
 Asadar, alegerea uneia sau alteia dintre variantele de implementare, depinde in cele din urma de cerintele proiectului si bineinteles de functionalitatile oferite de fiecare RAG in parte.
