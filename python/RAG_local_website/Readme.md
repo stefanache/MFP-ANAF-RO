@@ -55,7 +55,7 @@ Daca aveti deja incarcat local(***ollama list***) modelul llama3(***ollama pull 
   
   prompt = ChatPromptTemplate.from_template(template)
   
-  model = OllamaLLM(model="llama3.1")
+  model = OllamaLLM(model="llama3")
   
   chain = prompt | model
   
