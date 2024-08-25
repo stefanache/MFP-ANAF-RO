@@ -6,5 +6,7 @@ Trebuie sa priviti aceasta operatiune de ***conversie/transformare/codificare***
 
 Acesti **vectori** obtinuti in urma acestui proces de **inglobare/embedding**  pot si si ei la randul lor stocati de catre **RAG/Chatbot**, in baze de date, desigur denumite [**b.d.-vectoriale**](https://python.langchain.com/v0.2/docs/integrations/vectorstores/).
 
+Stocajul in **baze de date vectoriale** cumva se ***potriveste/are legatura cu*** cu stocajul deja cunoscut pt viteza sa ridicata de regasire de tip [**cheie-valoare**](https://python.langchain.com/v0.2/docs/integrations/stores/)
+
 In momentul in care sunt necesare(fie pt **formularea unui raspuns relevant**, fie pt. **cautari semantice** sau daca vreti, pt. oricare alt scop de **regasire**), aceste informatii trebuiesc extrase/prelevate/**regasite** de catre [**extractori**](https://python.langchain.com/v0.2/docs/integrations/retrievers/) specifici/specializati.
 
