@@ -31,6 +31,8 @@ In cele ce urmeaza , vom numi „**memorie**”, capacitatea de a stoca informa�
 
  - [re-apeluri](https://python.langchain.com/v0.1/docs/modules/callbacks/)/[callbacks](https://python.langchain.com/v0.2/docs/integrations/callbacks/)
 
+LangChain oferă un sistem de apeluri inverse care vă permite să vă conectați la diferitele etape ale aplicației dvs. LLM. Acest lucru este util pentru înregistrare, monitorizare, streaming și alte sarcini.
+
  - [chat-incarcatorii/loaders](https://python.langchain.com/v0.2/docs/integrations/chat_loaders/)
    
  - [adaptorii/adapters](https://python.langchain.com/v0.2/docs/integrations/adapters/)
