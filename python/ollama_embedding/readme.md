@@ -6,7 +6,7 @@ Trebuie sa priviti aceasta operatiune de ***conversie/transformare/codificare***
 
 Acesti **vectori** obtinuti in urma acestui proces de **inglobare/embedding**  pot si si ei la randul lor stocati de catre **RAG/Chatbot**, in baze de date, desigur denumite [**b.d.-vectoriale**](https://python.langchain.com/v0.2/docs/integrations/vectorstores/).
 
-Stocajul in [**baze de date vectoriale**](https://python.langchain.com/v0.2/docs/integrations/vectorstores/) cumva se ***potriveste/are legatura cu*** sau poate fi substituit de/impletit cu  o anumita alternativa de stocaj, deja cunoscuta pt viteza sa ridicata de regasire, si anume este vorba de stocajul de tip [**cheie-valoare**](https://python.langchain.com/v0.2/docs/integrations/stores/), gen [*Redis*](https://appmaster.io/blog/what-is-a-key-value-database-redis).
+Stocajul in [**baze de date vectoriale**](https://python.langchain.com/v0.2/docs/integrations/vectorstores/) cumva se ***potriveste/are legatura cu*** sau poate fi substituit de/impletit cu  o anumita alternativa de stocaj, deja cunoscuta pt viteza sa ridicata de regasire, si anume este vorba de stocajul de tip [**cheie-valoare**](https://python.langchain.com/v0.2/docs/integrations/stores/), gen [*Redis*](https://appmaster.io/blog/what-is-a-key-value-database-redis), [MongoDB](https://stackoverflow.com/questions/33973945/mongodb-best-way-to-storing-key-value-data).
 
 In momentul in care sunt necesare(fie pt **formularea unui raspuns relevant**, fie pt. **cautari semantice** sau daca vreti, pt. oricare alt scop de **regasire**), aceste informatii trebuiesc extrase/prelevate/**regasite** de catre [**extractori**](https://python.langchain.com/v0.2/docs/integrations/retrievers/) specifici/specializati.
 
