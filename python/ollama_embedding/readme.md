@@ -37,7 +37,7 @@ Acest lucru este util pentru înregistrare, monitorizare, streaming și alte sar
 
  - [chat-incarcatorii](https://python.langchain.com/v0.2/api_reference/community/chat_loaders.html) / [chat-loaders](https://python.langchain.com/v0.2/docs/integrations/chat_loaders/)
 
-   Chat-Loaders încarcă mesaje de chat de pe diverse platformele de comunicații comune, cum ar fi Facebook Messenger, Telegram și WhatsApp.
-   Mesajele de chat încărcate pot fi folosite pentru reglarea fină a modelelor.
+   **Chat-Loaders** încarcă mesaje de chat de pe diverse platformele de comunicații comune, cum ar fi *Facebook Messenger*, *Telegram* și *WhatsApp*.
+   Mesajele de chat încărcate pot fi folosite pentru **reglarea fină** a modelelor LLM.
 
  - [adaptorii/adapters](https://python.langchain.com/v0.2/docs/integrations/adapters/)
