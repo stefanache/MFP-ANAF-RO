@@ -46,20 +46,23 @@ Interesant este si acest [OllamaLLM](https://python.langchain.com/v0.2/docs/inte
 Daca aveti deja incarcat local(***ollama list***) modelul llama3(***ollama pull llama3***) atunci codul unui simplu chat se poate simplifica foarte mult:
 
 ```
-  from langchain_core.prompts import ChatPromptTemplate
-  from langchain_ollama.llms import OllamaLLM
-  
-  template = """Question: {question}
-  
-  Answer: Let's think step by step."""
-  
-  prompt = ChatPromptTemplate.from_template(template)
-  
-  model = OllamaLLM(model="llama3")
-  
-  chain = prompt | model
-  
-  chain.invoke({"question": "What is LangChain?"})
+
+from langchain_core.prompts import ChatPromptTemplate
+from langchain_ollama.llms import OllamaLLM
+
+template = """Question: {question}
+
+Answer: Let's think step by step."""
+
+prompt = ChatPromptTemplate.from_template(template)
+
+model = OllamaLLM(model="llama3")
+
+chain = prompt | model
+
+response =chain.invoke({"question": "What is LangChain?"})
+
+print(response);
 
 ```
 
