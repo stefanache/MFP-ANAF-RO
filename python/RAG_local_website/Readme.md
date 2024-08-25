@@ -43,7 +43,7 @@ Pentru a sterge un model avem spre exemplu in cmd.exe:
 
 Interesant este si acest [OllamaLLM](https://python.langchain.com/v0.2/docs/integrations/llms/ollama/)(***pip install -U langchain-ollama***); 
 Daca aveti deja incarcat local(***ollama list***) modelul llama3(***ollama pull llama3***) atunci codul se simplifica foarte mult:
- """
+
   from langchain_core.prompts import ChatPromptTemplate
   from langchain_ollama.llms import OllamaLLM
   
@@ -58,7 +58,7 @@ Daca aveti deja incarcat local(***ollama list***) modelul llama3(***ollama pull 
   chain = prompt | model
   
   chain.invoke({"question": "What is LangChain?"})
- """
+
 
  <hr/>
 
