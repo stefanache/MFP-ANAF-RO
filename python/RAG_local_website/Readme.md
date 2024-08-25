@@ -65,7 +65,7 @@ print(response);
 ```
 
 **OBS:** 
- - trebuie sa fiti foarte rabdatori daca resursele PC/laptop-ului dvs sunt modeste!!!!
+ - daca resursele PC/Laptop-ului dvs sunt modeste, la momentul rularii acestui **cod**, trebuie sa fiti ***foarte rabdatori*** !!!!
  - dupa descarcarea si instalarea serverului de LLM-uri [**Ollama**](https://ollama.com/download/windows), si dupa incarcarea modelulului LLM(***ollama pull llama3***), la cda ***ollama list*** trebuie sa aveti afisat pe ecran un mesaj de felul urmator:
    
 ```   
