@@ -31,7 +31,7 @@ In cele ce urmeaza , vom numi „**memorie**”, capacitatea de a stoca informa�
 
  - [re-apeluri](https://python.langchain.com/v0.1/docs/modules/callbacks/)/[callbacks](https://python.langchain.com/v0.2/docs/integrations/callbacks/)
 
-LangChain oferă un sistem de apeluri inverse(re-apeluri) care vă permite să vă conectați la diferitele etape ale aplicației dvs. LLM. 
+LangChain oferă un sistem de [apeluri inverse](https://medium.com/@shrinath.suresh/implementing-streaming-chatbot-with-langchain-callbacks-a-step-by-step-guide-a527a7d65b8b)(re-apeluri) care vă permite să vă conectați la diferitele etape ale aplicației dvs. LLM. 
 
 Acest lucru este util pentru înregistrare, monitorizare, streaming și alte sarcini. Aceste integrări sunt pentru încorporate pentru apeluri inverse cu instrumente terțe.
 
