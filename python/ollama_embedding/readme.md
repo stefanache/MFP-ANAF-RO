@@ -18,9 +18,9 @@ Bineinteles, de multe ori lucrurile nu stau asa cum ne dorim noi sau alteori ne 
  - alteori ne dorim ca atunci cand un LLM primeste o anumita intrebare care a mai fost pusa in trecut/anterior(deci o intrebare care se repeta) sa avem deja o scurtatura in timp si sa raspunda cat se poate de rapid daca nu imediat. Pentru aceasta ar trebui sa pastram(undeva) istoria perechilor intrebare-raspuns, in memorie sau intr-un fisier sau chiar intr-o BD, ca sa putem furniza raspunsul in cel mai scurt timp. Astfel putem vorbi de [Cache-uri de model/LLM caching/Model caches](https://python.langchain.com/v0.2/docs/integrations/llm_caching/).
  - unul dintre tipurile comune de baze de date pentru care putem construi sisteme de întrebări și răspunsuri(Q&A) sunt [bazele de date grafice/cu grafuri](https://python.langchain.com/v0.2/docs/integrations/graphs/)/[graf-urile](https://python.langchain.com/v0.1/docs/use_cases/graph/). LangChain vine cu o serie de lanțuri și agenți încorporați care sunt compatibile cu dialectele limbajului de interogare grafică precum Cypher, SparQL și altele (de  exemplu, Neo4j, MemGraph, Amazon Neptune, Kùzu, OntoText, Tigergraph). Acestea permit cazuri de utilizare precum:
  
-    - Generarea de interogări care vor fi executate pe baza întrebărilor în limbaj natural,
-    - Crearea de chatbot care pot răspunde la întrebări pe baza datelor bazei de date,
-    - Crearea de tablouri de bord personalizate bazate pe informații pe care un utilizator dorește să le analizeze, si ...
+    - Generarea de interogări(SQL) care vor fi executate pe baza întrebărilor(Q) în limbaj natural,
+    - Crearea de chatbot care pot răspunde la întrebări(Q) pe baza datelor bazei de date; ex.MySQL( adica putem "vorbi/discuta/dialoga" cu baza noastra privata de date),
+    - Crearea de tablouri de bord(dashboard) personalizate bazate pe informații pe care un utilizator dorește să le analizeze, si ...
     - ...multe altele.
 
 Construirea sistemelor de întrebări și răspunsuri(Q&A) ale bazelor de date grafice poate necesita executarea interogărilor de baze de date generate de model. Există riscuri inerente în a face acest lucru. Asigurați-vă că permisiunile de conexiune la baza de date sunt întotdeauna cât mai restrânse posibil pentru nevoile lanțului/agentului. Acest lucru va atenua, dar nu va elimina riscurile construirii unui sistem bazat pe modele. 
