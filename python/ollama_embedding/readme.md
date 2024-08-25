@@ -22,7 +22,7 @@ LangChain vine cu o serie de lanțuri și agenți încorporați care sunt compat
 
 Acestea permit cazuri de utilizare precum:
 
-   -- Generarea de interogări care vor fi executate pe baza întrebărilor în limbaj natural,
-   -- Crearea de chatbot care pot răspunde la întrebări pe baza datelor bazei de date,
-   -- Crearea de tablouri de bord personalizate bazate pe informații pe care un utilizator dorește să le analizeze, si ...
-   -- multe altele.
+  - Generarea de interogări care vor fi executate pe baza întrebărilor în limbaj natural,
+  - Crearea de chatbot care pot răspunde la întrebări pe baza datelor bazei de date,
+  - Crearea de tablouri de bord personalizate bazate pe informații pe care un utilizator dorește să le analizeze, si ...
+  - ...multe altele.
