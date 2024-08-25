@@ -4,5 +4,5 @@ Pentru a vedea in mod practic cum se produce ***incapsularea textelor***(proveni
 
 Trebuie sa priviti aceasta operatiune de ***conversie/transformare/codificare*** ca o parte necesara pt a-i spune **RAG/ML**-ului(care "conduce" masina/PC/Laptop-ul :) care sunt textele lui private/particulare/specifice de care trebuie sa tina cont/seama atunci cand i se va pune o anumita *intrebare* ce se preteaza la un *raspuns*, care necesita inglobarea si deci **regasirea** de parti de text **relevante** care sunt desigur continute in aceste containere/depozite private de informatii/texte .
 
-Acesti vectori obtinuti in urma acestui proces de **inglobare/embedding** pot si si ei la randul lor stocati in baze de date desigur denumite [**b.d.-vectoriale**](https://python.langchain.com/v0.2/docs/integrations/vectorstores/).
+Acesti **vectori** obtinuti in urma acestui proces de **inglobare/embedding**  pot si si ei la randul lor stocati de catre **RAG/Chatbot** in baze de date desigur denumite [**b.d.-vectoriale**](https://python.langchain.com/v0.2/docs/integrations/vectorstores/).
 
