@@ -63,8 +63,14 @@ Daca aveti deja incarcat local(***ollama list***) modelul llama3(***ollama pull 
 
 ```
 
-**OBS:** - trebuie sa fiti foarte rabdatori daca resursele PC/laptop-ului dvs sunt modeste!!!!
-
+**OBS:** 
+ - trebuie sa fiti foarte rabdatori daca resursele PC/laptop-ului dvs sunt modeste!!!!
+ - la cda ***ollama list** trebuie sa aveti afisat pe ecran un mesaj de felul urmator:
+   failed to get console mode for stdout: The handle is invalid.
+```   
+ NAME            ID              SIZE    MODIFIED
+ llama3:latest   365c0bd3c000    4.7 GB  2 weeks ago
+```
  <hr/>
 
 Trebuie sa stiti ca [RAG](https://www.comet.com/site/blog/advanced-rag-algorithms-optimize-retrieval/) este un concept relativ nou extrem de actual!
