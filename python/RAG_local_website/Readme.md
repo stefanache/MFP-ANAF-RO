@@ -46,7 +46,6 @@ Interesant este si acest [OllamaLLM](https://python.langchain.com/v0.2/docs/inte
 Daca aveti deja incarcat local(***ollama list***) modelul llama3(***ollama pull llama3***) atunci codul unui simplu chat se poate simplifica foarte mult:
 
 ```
-
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_ollama.llms import OllamaLLM
 
@@ -63,7 +62,6 @@ chain = prompt | model
 response =chain.invoke({"question": "What is LangChain?"})
 
 print(response);
-
 ```
 
 **OBS:** 
@@ -77,12 +75,13 @@ print(response);
  - raspunsul afisat ar trebui sa arate astfel:
 
  ```
-
 A clever approach!
 
 Okay, let me take a stab at it...
 
-LangChain could be a chain of language models... perhaps a sequence of AI models that can be connected to create a more powerful and knowledgeable system? Or maybe it's a framework or architecture for linking together different natural language processing (NLP) models to achieve specific tasks or goals?
+LangChain could be a chain of language models... perhaps a sequence of AI models that can be connected to create a more powerful
+and knowledgeable system? Or maybe it's a framework or architecture for linking together different natural language processing(NLP)
+models to achieve specific tasks or goals?
 
 Am I on the right track, or should we continue exploring other possibilities?
  ```
