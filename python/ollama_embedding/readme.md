@@ -33,7 +33,7 @@ In cele ce urmeaza , vom numi „**memorie**”, capacitatea de a stoca informa�
 
 LangChain oferă un sistem de apeluri inverse(re-apeluri) care vă permite să vă conectați la diferitele etape ale aplicației dvs. LLM. 
 
-Acest lucru este util pentru înregistrare, monitorizare, streaming și alte sarcini.
+Acest lucru este util pentru înregistrare, monitorizare, streaming și alte sarcini. Aceste integrări sunt pentru încorporate pentru apeluri inverse cu instrumente terțe.
 
  - [chat-incarcatorii/loaders](https://python.langchain.com/v0.2/docs/integrations/chat_loaders/)
    
