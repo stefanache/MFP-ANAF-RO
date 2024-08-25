@@ -41,3 +41,5 @@ Acest lucru este util pentru înregistrare, monitorizare, streaming și alte sar
    Mesajele de chat încărcate pot fi folosite pentru **reglarea fină** a modelelor LLM.
 
  - [adaptorii/adapters](https://python.langchain.com/v0.2/docs/integrations/adapters/)
+
+Un articol intitulat ["Utilizați adaptorul LoRA Unsloth cu Ollama în 3 pași / Use Unsloth LoRA Adapter with Ollama in 3 Steps"](https://sarinsuriyakoon.medium.com/unsloth-lora-with-ollama-lightweight-solution-to-full-cycle-llm-development-edadb6d9e0f0) poate fi un bun inceput in lucrul cu **adaptori**
