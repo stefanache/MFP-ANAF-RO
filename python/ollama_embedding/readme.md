@@ -11,4 +11,4 @@ Stocajul in [**baze de date vectoriale**](https://python.langchain.com/v0.2/docs
 In momentul in care sunt necesare(fie pt **formularea unui raspuns relevant**, fie pt. **cautari semantice** sau daca vreti, pt. oricare alt scop de **regasire**), aceste informatii trebuiesc extrase/prelevate/**regasite** de catre [**extractori**](https://python.langchain.com/v0.2/docs/integrations/retrievers/) specifici/specializati.
 
 Bineinteles, de multe ori lucrurile nu stau asa cum ne dorim noi:
- - uneori textele necesite in prealabil unele transformari si atunci vom apela la [Transformato-ri/are]()
+ - uneori textele din documente necesita in prealabil sau ulterior extractiei unele transformari si atunci vom apela la [Transformato-ri/are](https://python.langchain.com/v0.2/docs/integrations/document_transformers/)
