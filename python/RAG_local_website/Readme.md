@@ -101,7 +101,10 @@ powerful and knowledgeable system? Or maybe it's a framework or architecture for
 language processing (NLP) models to achieve specific tasks or goals?
 
 Am I on the right track, or should we continue exploring other possibilities?
- ``` 
+ ```
+
+Va invit de asemenea sa vizitati si subiectul ["OllamaEmbeddings"](https://github.com/stefanache/MFP-ANAF-RO/tree/main/python/ollama_embedding) pt a vedea cum se transforma/inglobeaza **textele** dvs private/specifice/particulare in **vectori** pt ca mai apoi sa se extraga din acestea, acele informatii **relevante** pt ca **RAG/Chat-ul**-ul sa formuleze un **raspuns** adecvat/relevant(bazat si pe acestea) atunci cand i se adreseaza o anumita **intrebare** de catre **utilizator**.
+
  <hr/>
 
 Trebuie sa stiti ca [RAG](https://www.comet.com/site/blog/advanced-rag-algorithms-optimize-retrieval/) este un concept relativ nou extrem de actual!
