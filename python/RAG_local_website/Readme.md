@@ -66,7 +66,7 @@ print(response);
 
 **OBS:** 
  - trebuie sa fiti foarte rabdatori daca resursele PC/laptop-ului dvs sunt modeste!!!!
- - la cda ***ollama list*** trebuie sa aveti afisat pe ecran un mesaj de felul urmator:
+ - dupa instalarra serverului de LLM-uri **Ollama**, si dupa incarcarea modelulului LLM(***ollama pull llama3***), la cda ***ollama list*** trebuie sa aveti afisat pe ecran un mesaj de felul urmator:
    
 ```   
  NAME            ID              SIZE    MODIFIED
