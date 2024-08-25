@@ -41,6 +41,25 @@ Pentru a sterge un model avem spre exemplu in cmd.exe:
 
  C:> **ollama rm medllama2**
 
+Interesant este si acest [OllamaLLM](https://python.langchain.com/v0.2/docs/integrations/llms/ollama/)(***pip install -U langchain-ollama***); 
+Daca aveti deja incarcat local(***ollama list***) modelul llama3(***ollama pull llama3***) atunci codul se simplifica foarte mult:
+"""
+ from langchain_core.prompts import ChatPromptTemplate
+ from langchain_ollama.llms import OllamaLLM
+ 
+ template = """Question: {question}
+ 
+ Answer: Let's think step by step."""
+ 
+ prompt = ChatPromptTemplate.from_template(template)
+ 
+ model = OllamaLLM(model="llama3.1")
+ 
+ chain = prompt | model
+ 
+ chain.invoke({"question": "What is LangChain?"})
+"""
+
  <hr/>
 
 Trebuie sa stiti ca [RAG](https://www.comet.com/site/blog/advanced-rag-algorithms-optimize-retrieval/) este un concept relativ nou extrem de actual!
