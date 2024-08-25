@@ -63,6 +63,8 @@ Daca aveti deja incarcat local(***ollama list***) modelul llama3(***ollama pull 
 
 ```
 
+**OBS:** - trebuie sa fiti foarte rabdatori daca resursele PC/laptop-ului dvs sunt modeste!!!!
+
  <hr/>
 
 Trebuie sa stiti ca [RAG](https://www.comet.com/site/blog/advanced-rag-algorithms-optimize-retrieval/) este un concept relativ nou extrem de actual!
