@@ -31,4 +31,6 @@ In cele ce urmeaza , vom numi „**memorie**”, capacitatea de a stoca informa�
 
  - [callbacks](https://python.langchain.com/v0.2/docs/integrations/callbacks/)
 
- - [chat-loaders](https://python.langchain.com/v0.2/docs/integrations/chat_loaders/)
+ - [chat-incarcatorii/loaders](https://python.langchain.com/v0.2/docs/integrations/chat_loaders/)
+   
+ - [adaptorii/adapters]{https://python.langchain.com/v0.2/docs/integrations/adapters/}
