@@ -41,7 +41,7 @@ Pentru a sterge un model avem spre exemplu in cmd.exe:
 
  C:> **ollama rm medllama2**
 
-Interesant este ca acest [OllamaLLM](https://python.langchain.com/v0.2/docs/integrations/llms/ollama/)(***pip install -U langchain-ollama***) va permite ca in cateva linii sa va construiti foarte rapid propriul dvs chatbot **ChatGPT**; 
+Interesant este ca acest [OllamaLLM](https://python.langchain.com/v0.2/docs/integrations/llms/ollama/)(***pip install -U langchain-ollama***) va permite ca scriind cateva linii de cod sa va construiti foarte rapid propriul dvs chatbot **ChatGPT**; 
 
 Daca aveti deja incarcat local(***ollama list***) modelul llama3(***ollama pull llama3***) atunci codul unui simplu chat se poate simplifica foarte mult:
 
