@@ -63,6 +63,21 @@ response =chain.invoke({"question": "What is LangChain?"})
 
 print(response);
 ```
+Acest *cod* ar trebui salvat intr-un fisier ***main.py*** iar intr-un altul(***_run.bat***) ati putea avea urmatoarele comenzi CLI/shell:
+```
+@echo off
+cls
+
+rem pip install -U langchain-ollama |more
+
+rem ollama pull llama3
+ollama list|more
+
+python main.py |more
+pause
+```
+
+***Remarca:**** am comentat(cu ***rem***) liniile care trebuiesc o singura data rulate!!!
 
 **OBS:** 
  - daca resursele PC/Laptop-ului dvs sunt modeste, la momentul rularii acestui **cod**, trebuie sa fiti ***foarte rabdatori*** !!!!
