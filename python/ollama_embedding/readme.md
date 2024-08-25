@@ -22,3 +22,5 @@ Bineinteles, de multe ori lucrurile nu stau asa cum ne dorim noi sau alteori ne 
     - Crearea de chatbot care pot răspunde la întrebări pe baza datelor bazei de date,
     - Crearea de tablouri de bord personalizate bazate pe informații pe care un utilizator dorește să le analizeze, si ...
     - ...multe altele.
+
+Construirea sistemelor de întrebări și răspunsuri ale bazelor de date grafice poate necesita executarea interogărilor de baze de date generate de model. Există riscuri inerente în a face acest lucru. Asigurați-vă că permisiunile de conexiune la baza de date sunt întotdeauna cât mai restrânse posibil pentru nevoile lanțului/agentului. Acest lucru va atenua, dar nu va elimina riscurile construirii unui sistem bazat pe modele. 
