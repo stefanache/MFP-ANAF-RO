@@ -28,3 +28,5 @@ Construirea sistemelor de întrebări și răspunsuri(Q&A) ale [bazelor de date 
  - un alt concept interesant este [**Memory**](https://python.langchain.com/v0.2/docs/integrations/memory/) / [**Memory in Langchain**](https://python.langchain.com/v0.1/docs/modules/memory/adding_memory/) / [**Memory management**](https://python.langchain.com/v0.1/docs/modules/memory/)
 
 In cele ce urmeaza , vom numi „**memorie**”, capacitatea de a stoca informații despre interacțiunile trecute(*menținerea/reținerea informațiilor despre entități și relațiile lor*).
+
+ - [callbacks](https://python.langchain.com/v0.2/docs/integrations/callbacks/)
