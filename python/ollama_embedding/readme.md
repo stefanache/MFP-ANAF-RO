@@ -24,3 +24,5 @@ Bineinteles, de multe ori lucrurile nu stau asa cum ne dorim noi sau alteori ne 
     - ...multe altele.
 
 Construirea sistemelor de întrebări și răspunsuri(Q&A) ale [bazelor de date grafice](https://en.wikipedia.org/wiki/Graph_database) poate necesita executarea interogărilor de baze de date generate de model. Există riscuri inerente în a face acest lucru. Asigurați-vă că permisiunile de conexiune la baza de date sunt întotdeauna cât mai restrânse posibil pentru nevoile lanțului/agentului. Acest lucru va atenua, dar nu va elimina riscurile construirii unui sistem bazat pe modele. 
+
+ - un al concept interesant este [**Memory in Langchain**](https://python.langchain.com/v0.1/docs/modules/memory/adding_memory/)
