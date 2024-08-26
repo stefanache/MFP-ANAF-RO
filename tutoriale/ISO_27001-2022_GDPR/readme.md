@@ -1,7 +1,16 @@
 
 cei de srac.ro au emis o documentatie denumita [Art_CR_Modifi_70001_oct2022](https://www.srac.ro/files/documente/Art_CR_Modificari_ISO%2027001_oct2022.pdf) 
 
-care prezinta  principalel modificari ale standardului ISO 27001:2022;
+care prezinta  principalele modificari ale standardului ISO 27001:2022;
+
+Daca analizam cu atentie necesarul de proiectare privind 
+
+ - securitatea informațiilor,
+ - protecția datelor (GDPR) și inteligența artificială (AI)
+ - 
+pentru a ajuta la implementarea procedurilor de conformitate cu AI,
+
+vom observa ca se impune un anume plan de activitate.
 
 Un proiect AI-GDPR ar implica urmatorul plan de activitati pe care dvs trebuie sa le aveti in vedere:
 
