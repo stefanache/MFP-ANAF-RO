@@ -1,0 +1,24 @@
+https://github.com/duncanodhis/Langchain_Ollama_llama3
+Starting chatbot. Type 'exit' to quit.
+Hi!
+You: Chatbot: Hello! It's nice to meet you. Is there something I can help you with, or would you like to chat?
+poti rezolva ecuatia: 1-2*x=15 ?
+You: Chatbot: A simple algebra problem!
+
+Let's solve for x:
+
+1 - 2x = 15
+
+First, add 2x to both sides to get:
+
+1 = 15 + 2x
+
+Subtract 15 from both sides to get:
+
+-14 = 2x
+
+Divide both sides by 2 to solve for x:
+
+x = -7
+
+So, the value of x is -7!
