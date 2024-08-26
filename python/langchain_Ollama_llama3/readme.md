@@ -58,4 +58,4 @@ Mie codul original nu mi-a functionat asa ca am folosit **ChatGPT** in mod repet
 
 Este totusi un proces plictisitor **:)** !!!!
 
-O mostra de dialog cu acest ***Chatbot*** este furnizat in fisierul exemplu_dialog.txt
+O mostra de dialog cu acest ***Chatbot*** este furnizat in fisierul ***exemplu_dialog.txt***.
