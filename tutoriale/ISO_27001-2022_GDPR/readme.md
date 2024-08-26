@@ -6,7 +6,8 @@ care prezinta  principalele modificari ale standardului ISO 27001:2022;
 Daca analizam cu atentie necesarul de proiectare privind 
 
  - securitatea informațiilor,
- - protecția datelor (GDPR) și inteligența artificială (AI)
+ - protecția datelor (GDPR) și
+ - inteligența artificială (AI)
 
 pentru a ajuta la implementarea procedurilor de conformitate cu AI,
 
