@@ -57,3 +57,5 @@ If you'd prefer to run the application in a Docker container, follow these steps
 Mie codul original nu mi-a functionat asa ca am folosit **ChatGPT** in mod repetat pana ce mi-a corectat codul!
 
 Este totusi un proces plictisitor **:)** !!!!
+
+O mostra de dialog cu acest ***Chatbot*** este furnizat in fisierul exemplu_dialog.txt
