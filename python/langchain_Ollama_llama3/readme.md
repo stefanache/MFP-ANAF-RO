@@ -5,6 +5,8 @@ README for LangChain-Ollama Application (`Langchain_Ollama_llama3.py`)
 
 ***LangChain with Ollama Integration***
 
+<hr/>
+
 This application integrates LangChain with the Ollama LLM to perform various operations, 
 
 such as question-answering(Q&A) and other conversational tasks.
