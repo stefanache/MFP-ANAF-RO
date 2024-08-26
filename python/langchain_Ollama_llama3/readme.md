@@ -9,17 +9,17 @@ This application integrates LangChain with the Ollama LLM to perform various ope
 
 such as question-answering(Q&A) and other conversational tasks.
 
-*Getting Started*
+ - *Getting Started*
 
 To run this application, ensure you have Python 3.10 or later installed, along with the required dependencies.
 
-*Installing Dependencies*
+ - *Installing Dependencies*
 
 To install the required Python packages, use the following command:
 
 **pip install -r requirements.txt**
 
-*Running the Application*
+ - *Running the Application*
 
 Before running, ensure that the Ollama server is up and running. 
 
