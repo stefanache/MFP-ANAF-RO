@@ -60,7 +60,7 @@ Este totusi un proces plictisitor **:)** !!!!
 
 Modelul LLM utilizat este **llama3**
 
-Asadar el trebuie incarcat o singura data in serverul Ollama cu comanda
+Asadar el trebuie incarcat o singura data in serverul [**Ollama**](https://ollama.com/download/windows) cu comanda urmatoare:
 
 **ollama pull llama3** 
 
