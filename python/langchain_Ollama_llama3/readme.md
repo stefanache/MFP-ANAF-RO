@@ -4,7 +4,7 @@ Am creat un fisier de executie/shell denumit **_Run.bat** pt a simplifica proces
 
 (liniile comentate cu **rem** se decomenteaza pt a fi rulate o singura data si apoi se recomentreaza!)
 
-Daca nu doriti sa-l utilizati urmariti aceste indicatii pas cu pas:
+Daca nu doriti sau nu puteti sa-l utilizati, urmariti aceste indicatii pas cu pas:
 
 
 README for LangChain-Ollama Application (`Langchain_Ollama_llama3.py`)
