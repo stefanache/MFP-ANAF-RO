@@ -58,4 +58,25 @@ Mie codul original nu mi-a functionat asa ca am folosit **ChatGPT** in mod repet
 
 Este totusi un proces plictisitor **:)** !!!!
 
+Modelul LLM utilizat este **llama3**
+
+Asadar el trebuie incarcat o singura data in serverul Ollama cu comanda
+
+**ollama pull llama3** 
+
+sau cu comanda
+
+**ollama run llama3**
+
+Pt a vedea daca modelul s-a incarcat sau este deja incarcat folositi comanda
+
+**ollama list**
+
+cand vreti sa porniti serverul folositi comanda :
+
+**ollama serve**
+
+Pt a stii daca serverul lucreaza deschideti un browser(ex. Chrome) si vizualizati mesajul de la adresa:
+
+
 O mostra de dialog cu acest ***Chatbot*** este furnizat in fisierul ***exemplu_dialog.txt***.
