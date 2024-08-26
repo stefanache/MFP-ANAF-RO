@@ -1,6 +1,6 @@
 Repository: [**Langchain_Ollama_llama3**](https://github.com/duncanodhis/Langchain_Ollama_llama3)
 
-Am creat un **_Run.bat** pt a simplifica procesul de instalare si rulare
+Am creat un fisier de executie/shell denumit **_Run.bat** pt a simplifica procesul de instalare si rulare
 
 (liniile comentate cu **rem** se decomenteaza pt a fi rulate o singura data si apoi se recomentreaza!)
 
