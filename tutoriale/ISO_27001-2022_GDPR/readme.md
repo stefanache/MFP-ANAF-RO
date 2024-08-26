@@ -18,7 +18,7 @@ Un proiect AI-GDPR ar implica urmatorul plan de activitati pe care dvs trebuie s
 
       Identificați și documentați procedurile ISO 27001:2022 existente care sunt afectate de utilizarea AI,
 
-      cum ar fi
+      cum ar fi:
       
       - controlul accesului,
       - vulnerabilitatea management și
