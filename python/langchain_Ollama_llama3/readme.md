@@ -29,6 +29,8 @@ To start the LangChain-Ollama application, navigate to the directory containing 
 
 **python Langchain_Ollama_llama3.py**
 
+<hr/>
+
 ***Docker Setup***
 
 If you'd prefer to run the application in a Docker container, follow these steps:
