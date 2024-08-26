@@ -74,7 +74,10 @@ Pt a vedea daca modelul s-a incarcat sau este deja incarcat folositi comanda
 
 cand vreti sa porniti serverul folositi comanda :
 
-**ollama serve**
+**ollama serve**  
+
+***OBS:*** *(nu este absolut sa precizati un model LLM pe care sa-l incarce initial...serverul il va incarca in mod automat atunci cand in codul python il invocati)*
+
 
 Pt a stii daca serverul lucreaza deschideti un browser(ex. Chrome) si vizualizati mesajul de la adresa:
 
