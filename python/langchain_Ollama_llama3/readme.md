@@ -78,6 +78,14 @@ cand vreti sa porniti serverul folositi comanda :
 
 Pt a stii daca serverul lucreaza deschideti un browser(ex. Chrome) si vizualizati mesajul de la adresa:
 
-[http://localhost:11434](http://localhost:11434)
+[**http://localhost:11434**](http://localhost:11434)
+
+
+Desigur toate aceste comenzi CLI/shell care se refera la serverul **Ollama** vor funciona doar dupa ce in prealabil ati 
+descarcat si instalat local serverul **Olama** corespunzator sistemului dvs de operare(in cazul meu **Windows 10 Pro**)
+
+Adresa de decarcare a acestui server care va furniza diversele modele LLM pe care le utilizati este urmatoarea:
+
+[**https://ollama.com/download/windows**](https://ollama.com/download/windows)
 
 O mostra de dialog cu acest ***Chatbot*** este furnizat in fisierul ***exemplu_dialog.txt***.
