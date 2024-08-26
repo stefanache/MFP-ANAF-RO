@@ -32,3 +32,16 @@ Un proiect AI-GDPR ar implica urmatorul plan de activitati pe care dvs trebuie s
       anumite categorii de utilizatori care nu ar trebui să aibă acces la AI.
 
       Dezvoltați materiale de instruire (prezentări, ghiduri) care să acopere în mod cuprinzător noile proceduri AI.
+
+
+**Calificări cheie**: 
+
+ - Experiență dovedită cu implementarea și actualizările ISO 27001:2022.
+ - Înțelegerea profundă a cerințelor GDPR, în special în ceea ce privește utilizarea AI.
+ - Familiaritate cu tehnologiile și instrumentele AI, inclusiv cu aspectele legate de managementul riscurilor și de conformitate.
+ - Experiență în dezvoltarea politicilor și procedurilor corporative legate de securitatea informațiilor și protecția datelor.
+ -
+**Rezultate scontate:** 
+
+ - Proceduri ISO 27001:2022 actualizate care reflectă integrarea AI.
+ - O procedură internă cuprinzătoare de utilizare a AI, conformă cu ISO 27001:2022 și GDPR.
