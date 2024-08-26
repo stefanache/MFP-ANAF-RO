@@ -5,9 +5,11 @@ care prezinta  principalel modificari ale standardului ISO 27001:2022;
 
 Un proiect AI-GDPR ar implica urmatorul plan de activitati pe care dvs trebuie sa le aveti in vedere:
 
- - 1. Inventarierea și actualizarea procedurilor ISO 27001:2022 afectate de AI Identificați și
+ - 1. Inventarierea și actualizarea procedurilor ISO 27001:2022 afectate de AI
 
-      documentați procedurile ISO 27001:2022 existente care sunt afectate de utilizarea AI, cum ar fi
+      Identificați și documentați procedurile ISO 27001:2022 existente care sunt afectate de utilizarea AI,
+
+      cum ar fi
       
       - controlul accesului,
       - vulnerabilitatea management și
