@@ -5,11 +5,15 @@ care prezinta  principalele modificari ale standardului ISO 27001:2022;
 
 Daca analizam cu atentie necesarul de proiectare privind 
 
+**AI Managementul Riscului Conformitatea cu ISO 27001:2022 și GDPR**
+
+vom avea in atentie urmatoarele directii de cercetare:
+
  - securitatea informațiilor,
  - protecția datelor (GDPR) și
  - inteligența artificială (AI)
 
-pentru a ajuta la implementarea procedurilor de conformitate cu AI,
+Pentru a ajuta la implementarea procedurilor de conformitate cu AI,
 
 vom observa ca se impune un anume plan de activitate.
 
