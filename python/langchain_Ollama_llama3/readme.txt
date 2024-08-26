@@ -1,3 +1,4 @@
+Repository: [Langchain_Ollama_llama3](https://github.com/duncanodhis/Langchain_Ollama_llama3)
 
 README for LangChain-Ollama Application (`Langchain_Ollama_llama3.py`)
 
