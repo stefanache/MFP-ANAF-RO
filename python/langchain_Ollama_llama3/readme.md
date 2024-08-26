@@ -78,5 +78,6 @@ cand vreti sa porniti serverul folositi comanda :
 
 Pt a stii daca serverul lucreaza deschideti un browser(ex. Chrome) si vizualizati mesajul de la adresa:
 
+[http://localhost:11434](http://localhost:11434)
 
 O mostra de dialog cu acest ***Chatbot*** este furnizat in fisierul ***exemplu_dialog.txt***.
