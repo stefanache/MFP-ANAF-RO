@@ -76,7 +76,9 @@ cand vreti sa porniti serverul folositi comanda :
 
 **ollama serve**  
 
-***OBS:*** *(nu este absolut sa precizati un model LLM pe care sa-l incarce initial...serverul il va incarca in mod automat atunci cand in codul python il invocati)*
+***OBS:*** 
+*(nu este absolut necesar ca sa precizati un model LLM pe care sa-l incarce initial...
+  serverul il va incarca in mod automat atunci cand in codul python il invocati)*
 
 
 Pt a stii daca serverul lucreaza deschideti un browser(ex. Chrome) si vizualizati mesajul de la adresa:
