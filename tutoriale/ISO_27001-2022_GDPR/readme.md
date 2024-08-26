@@ -7,7 +7,7 @@ Daca analizam cu atentie necesarul de proiectare privind
 
  - securitatea informațiilor,
  - protecția datelor (GDPR) și inteligența artificială (AI)
- - 
+
 pentru a ajuta la implementarea procedurilor de conformitate cu AI,
 
 vom observa ca se impune un anume plan de activitate.
