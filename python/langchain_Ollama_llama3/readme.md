@@ -1,5 +1,7 @@
 Repository: [**Langchain_Ollama_llama3**](https://github.com/duncanodhis/Langchain_Ollama_llama3)
 
+publicat si in [Medium](https://medium.com/@ion.stefanache0/langchain-python-client-for-ollama-local-llm-server-61a9e363e037)
+
 Am creat un fisier de executie/shell denumit **_Run.bat** pt a simplifica procesul de instalare si rulare
 
 (liniile comentate cu **rem** se decomenteaza pt a fi rulate o singura data si apoi se recomentreaza!)
