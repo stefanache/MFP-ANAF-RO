@@ -237,8 +237,8 @@ Aceste [nomenclatoare](https://happyweb.ro/articol/nomenclatoare-e-factura) se g
 
 
 ## 0.  [**e-TVA**](https://www.economica.net/guvernul-a-aprobat-procedurile-pentru-implementarea-decontului-precompletat-ro-e-tva_755827.html) - decont pre-completat, [e-Sigiliu](https://noagroup.ro/ro-e-tva-deconturi-de-tva-precompletate-de-la-1-august-2024-ro-e-vat-pre-filled-vat-returns-from-august-1st-2024/), [e-Case,](https://adevarul.ro/economie/sistemul-e-tva-intra-in-vigoare-la-1-august-2370703.html) [...](https://termene.ro/articole/sistemul-ro-e-tva-va-fi-aplicat-de-la-1-august):
-<details><summary>click pt a citi despre **e-TVA**</summary>
-
+<details><summary>click pt a citi despre <b>>e-TVA</b</summary>
+<hr/>
 Proiecte de [acte normative](https://www.startupcafe.ro/taxe/modificari-etva-efactura-etransport-si-salariul-minim-decis-guvernul.htm): [MFP](https://mfinante.gov.ro/acasa/transparenta/proiecte-acte-normative/-/asset_publisher/Bg185RyrkUe4/content/proiect-ordonan-c8-9b-c4-83-de-urgen-c8-9b-c4-83-privind-unele-m-c4-83suri-de-implementare-c8-99i-utilizare-a-decontului-precompletat-ro-e-tva-c8-99i-valorificarea-datelor-c8-99i-informa-c8-9biilor-prin-implementarea-unui-sistem-de-guvernan-c8-9b-c4-83)
 
 Wikipedia [**TVA**](https://ro.wikipedia.org/wiki/Taxa_pe_valoarea_ad%C4%83ugat%C4%83)
@@ -372,7 +372,7 @@ Registrul persoanelor care aplică [plata defalcată a TVA](https://www.anaf.ro/
 
 [e-TVA vs. D300](https://www.stiripesurse.ro/de-ce-e-tva-este-o-ineptie-ministerul-de-finante-a-reusit-sa-arunce-in-aer-tot-sistemul-gabriel-biris_3360927.html)
 
-
+<hr/>
 </details>
 
 ## 1. **[Factura electronica](https://www.contact.info.ro/ghid-e-factura-la-anaf/)** [eFactura](https://www.anaf.ro/anaf/internet/ANAF/despre_anaf/strategii_anaf/proiecte_digitalizare/e.factura):
