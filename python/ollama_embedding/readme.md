@@ -40,6 +40,8 @@ Acest lucru este util pentru înregistrare, monitorizare, streaming și alte sar
    **Chat-Loaders** încarcă mesaje de chat de pe diverse platformele de comunicații comune, cum ar fi *Facebook Messenger*, *Telegram* și *WhatsApp*.
    Mesajele de chat încărcate pot fi folosite pentru [**reglarea fină**](https://www.datacamp.com/tutorial/llama3-fine-tuning-locally) a modelelor LLM.
 
+   **Document-Loaders** încarcă datele în formatul standard LangChain Document.
+   
  - [adaptorii/adapters](https://python.langchain.com/v0.2/docs/integrations/adapters/)
 
 Chiar daca necesita [GPU](https://github.com/OpenGVLab/LLaMA-Adapter/blob/main/docs/langchain_LLaMA_AdapterV2_demo.ipynb), un articol intitulat ["Utilizați adaptorul LoRA Unsloth cu Ollama în 3 pași / Use Unsloth LoRA Adapter with Ollama in 3 Steps"](https://sarinsuriyakoon.medium.com/unsloth-lora-with-ollama-lightweight-solution-to-full-cycle-llm-development-edadb6d9e0f0) poate fi un bun inceput in lucrul cu [**adaptori**](https://www.reddit.com/r/LocalLLaMA/comments/1dyjh6m/ollama_adapters/)
