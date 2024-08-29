@@ -303,7 +303,7 @@ Wikipedia [**TVA**](https://ro.wikipedia.org/wiki/Taxa_pe_valoarea_ad%C4%83ugat%
 <hr/>
 </details>     
 
-Un nou sistem de interes strategic național, sistemul informatic RO e-TVA, urmează să devină operațional de la 1 august 2024, alături de celelalte 5 sisteme informatice de interes strategic naţional în administrarea fiscală, prin care se urmărește prevenirea, reducerea şi combaterea evaziunii fiscale şi a fraudelor fiscale, în vederea creșterii veniturilor bugetare:
+Un nou sistem de interes strategic național, sistemul informatic RO [**e-TVA**](https://static.anaf.ro/static/10/Galati/Vrancea/Decont-RO-e-TVA.pdf), urmează să devină operațional de la 1 august 2024, alături de celelalte 5 sisteme informatice de interes strategic naţional în administrarea fiscală, prin care se urmărește prevenirea, reducerea şi combaterea evaziunii fiscale şi a fraudelor fiscale, în vederea creșterii veniturilor bugetare:
 
  - sistemul naţional privind factura electronică RO [**e-Factura**](https://www.anaf.ro/anaf/internet/ANAF/despre_anaf/strategii_anaf/proiecte_digitalizare/e.factura),
  - sistemul naţional RO [**e-Transport**](https://mfinante.gov.ro/despre-minister/-/asset_publisher/uwgr/content/ghidul-e-transport.-ce-trebuie-s-c4-83-c8-99tie-contribuabilii-care-realizeaz-c4-83-transporturi-na-c8-9bionale-cu-risc-fiscal-ridicat-c8-99i-transporturi-interna-c8-9bionale),
