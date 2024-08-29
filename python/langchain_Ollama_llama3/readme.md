@@ -99,3 +99,5 @@ Adresa de decarcare a acestui server care va furniza diversele modele LLM pe car
 O mostra de dialog cu acest ***Chatbot*** este furnizat in fisierul ***exemplu_dialog.txt***.
 
 Daca vreti sa folositi serverul **Ollama** si un **LLM**(cum ar fi [**llama**](https://github.com/lawwu/awesome-llamas),...) intr-o *alta sarcina*(alta decat simplul dialog de tip *QA*), spre exemplu de [**incadrare pe categorii**](https://github.com/Sachin2495/langchain/tree/main) puteti folosi acest [repos](https://github.com/Sachin2495/langchain/tree/main), ori [**semantic-code-search** - in codebase](https://github.com/fynnfluegge/codeqai)(cda CLI/cmd.exe: **codeqai search**), sau [**financial advisor**](https://medium.com/@renjuhere/llama-3-as-your-financial-advisor-8904a2673f2c), si multe altele...
+
+**Ollama** poate rula nu numai pe PC-uri sau laptop-uri ci chair si pe mini-computere cum ar fi [**Raspberry**](https://www.kevsrobots.com/blog/ollama)
