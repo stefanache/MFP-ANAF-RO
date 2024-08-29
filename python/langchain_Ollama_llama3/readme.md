@@ -97,3 +97,5 @@ Adresa de decarcare a acestui server care va furniza diversele modele LLM pe car
 [**https://ollama.com/download/windows**](https://ollama.com/download/windows)
 
 O mostra de dialog cu acest ***Chatbot*** este furnizat in fisierul ***exemplu_dialog.txt***.
+
+Daca vreti sa folositi serverul **Ollama** si LLM-ul **llama3** in sarcinile de [**incadrare pe categorii**](https://github.com/Sachin2495/langchain/tree/main) puteti folosi acest [repos](https://github.com/Sachin2495/langchain/tree/main)
