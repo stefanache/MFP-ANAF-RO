@@ -40,7 +40,7 @@ Acest lucru este util pentru înregistrare, monitorizare, streaming și alte sar
     - [**Chat-Loaders**](https://python.langchain.com/v0.2/docs/integrations/chat_loaders/) încarcă mesaje de chat de pe diverse platformele de comunicații comune, cum ar fi *Facebook Messenger*, *Telegram* și *WhatsApp*.
    Mesajele de chat încărcate pot fi folosite pentru [**reglarea fină**](https://www.datacamp.com/tutorial/llama3-fine-tuning-locally) a modelelor LLM.
 
-    - [**Document-Loaders**](https://python.langchain.com/v0.2/docs/integrations/document_loaders/) încarcă datele în formatul standard LangChain Document.
+    - [**Document-Loaders**](https://python.langchain.com/v0.2/docs/integrations/document_loaders/) încarcă datele din diverse formate de document(.csv,.pdf,....) în formatul standard LangChain Document.
    
  - [adaptorii/adapters](https://python.langchain.com/v0.2/docs/integrations/adapters/)
 
