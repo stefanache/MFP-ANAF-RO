@@ -251,7 +251,6 @@ Wikipedia [**TVA**](https://ro.wikipedia.org/wiki/Taxa_pe_valoarea_ad%C4%83ugat%
       se transmite, pentru fiecare perioadă fiscală de raportare, prin intermediul SPV, 
       până la data de 20 inclusiv a fiecărei luni următoare încheierii perioadei fiscale.
              
-</details>
 
 
 [Procedura](https://hotnews.ro/nu-muncesc-degeaba-pentru-ineptia-e-tva-1528310) [e-TVA:](https://ceccarbihor.ro/ro/mf-procedura-de-implementare-a-decontului-precompletat-ro-e-tva-in-consultare-publica/)<details><summary>- pasi procedurali:</summary>
