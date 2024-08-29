@@ -250,7 +250,7 @@ Wikipedia [**TVA**](https://ro.wikipedia.org/wiki/Taxa_pe_valoarea_ad%C4%83ugat%
       operaţiunile efectuate începând cu data de 1 iulie 2024 de persoanele impozabile înregistrate în scopuri de TVA şi 
       se transmite, pentru fiecare perioadă fiscală de raportare, prin intermediul SPV, 
       până la data de 20 inclusiv a fiecărei luni următoare încheierii perioadei fiscale.
-              
+ </details>             
 </details>
 
 
