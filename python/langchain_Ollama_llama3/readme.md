@@ -94,7 +94,7 @@ descarcat si instalat local serverul **Olama** corespunzator sistemului dvs de o
 
 Adresa de decarcare a acestui server care va furniza diversele modele LLM pe care le utilizati este urmatoarea:
 
-[**https://ollama.com/download/windows**](https://ollama.com/download/windows)
+[**https://ollama.com/download/windows**](https://ollama.com/download/windows)(cda CLI/cmd.exe: **codeqai search**)
 
 O mostra de dialog cu acest ***Chatbot*** este furnizat in fisierul ***exemplu_dialog.txt***.
 
