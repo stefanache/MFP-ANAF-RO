@@ -343,6 +343,9 @@ Utilizarea şi/sau implementarea de către Ministerul Finanţelor a modulelor de
 
 Totodată, începând cu data de 1 ianuarie 2024 se înființează, la nivelul ANAF, Evidența operativă a veniturilor din digitalizare, care are drept scop evidențierea/urmărirea/monitorizarea lunară a veniturilor suplimentare rezultate din utilizarea S.I.I.S.N. și a modulelor de valorificare pentru gestionarea veniturilor publice.
 
+***Alte link-uri utile:***
+<details><summary>click pt a vedea alte subiecte interesante</summary>
+      
 [Scutiri de TVA](https://www.noulcodfiscal.ro/titlu-7/capitol-9/articol-292.html)
 
 Ghid [rambursare TVA](https://wise.com/ro/blog/rambursare-tva)
@@ -382,6 +385,7 @@ Registrul persoanelor care aplică [plata defalcată a TVA](https://www.anaf.ro/
 [Casele de marcat](https://www.avocatnet.ro/t19451/e-TVA.html) vor transmite decontul [**e-TVA**](https://www.avocatnet.ro/articol_66902/e-TVA-Casele-de-marcat-vor-transmite-noi-informa%C8%9Bii-c%C4%83tre-ANAF-pentru-a-fi-posibil%C4%83-precompletarea-deconturilor-de-TVA.html)
 
 [e-TVA vs. D300](https://www.stiripesurse.ro/de-ce-e-tva-este-o-ineptie-ministerul-de-finante-a-reusit-sa-arunce-in-aer-tot-sistemul-gabriel-biris_3360927.html)
+</details>
 
 <hr/>
 </details>
