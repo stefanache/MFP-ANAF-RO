@@ -375,6 +375,8 @@ Registrul persoanelor care aplică [plata defalcată a TVA](https://www.anaf.ro/
 
 [e-TVA vs. D300](https://www.stiripesurse.ro/de-ce-e-tva-este-o-ineptie-ministerul-de-finante-a-reusit-sa-arunce-in-aer-tot-sistemul-gabriel-biris_3360927.html)
 
+</details>
+
 ## 1. **[Factura electronica](https://www.contact.info.ro/ghid-e-factura-la-anaf/)** [eFactura](https://www.anaf.ro/anaf/internet/ANAF/despre_anaf/strategii_anaf/proiecte_digitalizare/e.factura):
 <details>
 
