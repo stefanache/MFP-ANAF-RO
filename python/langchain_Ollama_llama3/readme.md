@@ -94,8 +94,8 @@ descarcat si instalat local serverul **Olama** corespunzator sistemului dvs de o
 
 Adresa de decarcare a acestui server care va furniza diversele modele LLM pe care le utilizati este urmatoarea:
 
-[**https://ollama.com/download/windows**](https://ollama.com/download/windows)(cda CLI/cmd.exe: **codeqai search**)
+[**https://ollama.com/download/windows**](https://ollama.com/download/windows)
 
 O mostra de dialog cu acest ***Chatbot*** este furnizat in fisierul ***exemplu_dialog.txt***.
 
-Daca vreti sa folositi serverul **Ollama** si LLM-ul **llama3** intr-o alta sarcina(alta decat simplul dialog de tip QA), spre exemplu de [**incadrare pe categorii**](https://github.com/Sachin2495/langchain/tree/main) puteti folosi acest [repos](https://github.com/Sachin2495/langchain/tree/main), [semantic-search](https://github.com/fynnfluegge/codeqai)(cda CLI/cmd.exe: **codeqai search**)
+Daca vreti sa folositi serverul **Ollama** si LLM-ul **llama3** intr-o alta sarcina(alta decat simplul dialog de tip QA), spre exemplu de [**incadrare pe categorii**](https://github.com/Sachin2495/langchain/tree/main) puteti folosi acest [repos](https://github.com/Sachin2495/langchain/tree/main), [semantic-code-search](https://github.com/fynnfluegge/codeqai)(cda CLI/cmd.exe: **codeqai search**)
