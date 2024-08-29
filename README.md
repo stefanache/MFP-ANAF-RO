@@ -303,7 +303,13 @@ Wikipedia [**TVA**](https://ro.wikipedia.org/wiki/Taxa_pe_valoarea_ad%C4%83ugat%
 <hr/>
 </details>     
 
-Un nou sistem de interes strategic național, sistemul informatic RO e-TVA, urmează să devină operațional de la 1 august 2024, alături de celelalte 5 sisteme informatice de interes strategic naţional în administrarea fiscală, prin care se urmărește prevenirea, reducerea şi combaterea evaziunii fiscale şi a fraudelor fiscale, în vederea creșterii veniturilor bugetare: sistemul naţional privind factura electronică RO e-Factura, sistemul naţional RO e-Transport, sistemul naţional RO e-Sigiliu, sistemul informatic naţional RO e-[SAF-T](https://static.anaf.ro/static/10/Anaf/Informatii_R/Intrebari_rasp_specifice_SAF-T_v_1_2_200422.pdf), sistemul informatic naţional RO e-Case de marcat electronice.
+Un nou sistem de interes strategic național, sistemul informatic RO e-TVA, urmează să devină operațional de la 1 august 2024, alături de celelalte 5 sisteme informatice de interes strategic naţional în administrarea fiscală, prin care se urmărește prevenirea, reducerea şi combaterea evaziunii fiscale şi a fraudelor fiscale, în vederea creșterii veniturilor bugetare:
+
+ - sistemul naţional privind factura electronică RO [**e-Factura**](https://www.anaf.ro/anaf/internet/ANAF/despre_anaf/strategii_anaf/proiecte_digitalizare/e.factura),
+ - sistemul naţional RO [**e-Transport**](https://mfinante.gov.ro/despre-minister/-/asset_publisher/uwgr/content/ghidul-e-transport.-ce-trebuie-s-c4-83-c8-99tie-contribuabilii-care-realizeaz-c4-83-transporturi-na-c8-9bionale-cu-risc-fiscal-ridicat-c8-99i-transporturi-interna-c8-9bionale),
+ - sistemul naţional RO [**e-Sigiliu**](https://static.anaf.ro/static/3/Galati/20240116143125_procedura_e_sigiliu%20.pdf),
+ - sistemul informatic naţional RO [**e-SAF-T**](https://static.anaf.ro/static/10/Anaf/Informatii_R/Intrebari_rasp_specifice_SAF-T_v_1_2_200422.pdf),
+ - sistemul informatic naţional RO [**e-Case**](https://www.anaf.ro/anaf/internet/ANAF/servicii_online/reg_AMEF) - case de marcat electronice.
  
 Deconturi de TVA precompletate de la 1 august 2024 prin sistemul RO e-TVA.
 
