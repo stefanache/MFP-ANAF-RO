@@ -1,4 +1,4 @@
-[**OllamaEmbeddings**](https://python.langchain.com/v0.2/docs/integrations/text_embedding/ollama/)
+ - [**OllamaEmbeddings**](https://python.langchain.com/v0.2/docs/integrations/text_embedding/ollama/)
 
 Pentru a vedea in mod practic cum se produce ***incapsularea textelor***(provenind/[incarcate](https://python.langchain.com/v0.2/docs/integrations/document_loaders/) din orice sursa/container de informatii **nestructurate**: fisier .txt, continut de pagina web/cloud, fisier .doc[x], fisier .pdf... sau chiar si texte extrase/incarcate din baze de date **structurate** de tip ***relational***, gen *MySQL* sau baze de date ***nerelationale***, gen *NoSQL* ) in **vectori**(vectori care permit ca atunci cand se formuleaza un **raspuns**,  sa se poata efectua **regasirea**/extragerea lor/textelor sau a unor parti din acestea, in cazul in care sunt considerate **relevante**, pt o **intrebare** adresata unui **RAG/Chatbot**), am ales sa implementez micul exemplu oferit de **langchain**(un integrator AI): [**OllamaEmbeddings**](https://python.langchain.com/v0.2/docs/integrations/text_embedding/ollama/)
 
