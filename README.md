@@ -246,17 +246,17 @@ Wikipedia [**TVA**](https://ro.wikipedia.org/wiki/Taxa_pe_valoarea_ad%C4%83ugat%
 
 [RO e-TVA:](https://republica.ro/sistemul-ro-e-tva-un-sistem-ce-presupune-o-procedura-complicata-si-un-consum-semnificativ-de-resurse-probabil)
 <details>
-<summary>- prezentare system: 
+<summary>- prezentare system:</summary>summary> 
       
       Sistemul RO e-TVA se implementează cu data de 1 august 2024 pentru 
       operaţiunile efectuate începând cu data de 1 iulie 2024 de persoanele impozabile înregistrate în scopuri de TVA şi 
       se transmite, pentru fiecare perioadă fiscală de raportare, prin intermediul SPV, 
       până la data de 20 inclusiv a fiecărei luni următoare încheierii perioadei fiscale.
-</summary>             
+             
 
 
 [Procedura](https://hotnews.ro/nu-muncesc-degeaba-pentru-ineptia-e-tva-1528310) [e-TVA:](https://ceccarbihor.ro/ro/mf-procedura-de-implementare-a-decontului-precompletat-ro-e-tva-in-consultare-publica/)<details><summary>- pasi procedurali:</summary>
-      
+<details>
       Procedura de folosire a RO e-TVA:
       
 - După primirea decontului precompletat RO e-TVA, persoanele impozabile 
@@ -299,6 +299,7 @@ Wikipedia [**TVA**](https://ro.wikipedia.org/wiki/Taxa_pe_valoarea_ad%C4%83ugat%
 - În funcție de nivelul riscului fiscal al persoanei impozabile, stabilit pe baza analizei de risc, aceasta poate face obiectul inspecției fiscale sau controlului antifraudă. De asemenea, se stabilesc și alte situații în care persoana impozabilă înregistrată în scopuri de TVA prezintă risc de rambursare necuvenită a TVA, în plus față de cele deja prevăzute la art. 169 alin. (4) din Codul de procedură fiscală.
 
   Ordonanța de urgență nr. 116/2023 privind unele măsuri pentru gestionarea şi evidențierea veniturilor curente ale bugetului public prin implementarea unor proiecte de digitalizare a fost publicată în data de 15 decembrie 2023 în Monitorul Oficial nr. 1138.
+</details>     
 
 Un nou sistem de interes strategic național, sistemul informatic RO e-TVA, urmează să devină operațional de la 1 august 2024, alături de celelalte 5 sisteme informatice de interes strategic naţional în administrarea fiscală, prin care se urmărește prevenirea, reducerea şi combaterea evaziunii fiscale şi a fraudelor fiscale, în vederea creșterii veniturilor bugetare: sistemul naţional privind factura electronică RO e-Factura, sistemul naţional RO e-Transport, sistemul naţional RO e-Sigiliu, sistemul informatic naţional RO e-[SAF-T](https://static.anaf.ro/static/10/Anaf/Informatii_R/Intrebari_rasp_specifice_SAF-T_v_1_2_200422.pdf), sistemul informatic naţional RO e-Case de marcat electronice.
  
