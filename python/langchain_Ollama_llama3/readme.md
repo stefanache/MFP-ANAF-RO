@@ -55,6 +55,7 @@ If you'd prefer to run the application in a Docker container, follow these steps
 
 <hr/>
 </details>
+
 ***Observatie:***
 
 Mie codul original nu mi-a functionat asa ca am folosit **ChatGPT** in mod repetat pana ce mi-a corectat codul!
