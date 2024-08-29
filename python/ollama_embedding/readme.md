@@ -35,7 +35,7 @@ LangChain oferă un sistem de [apeluri inverse](https://medium.com/@shrinath.sur
 
 Acest lucru este util pentru înregistrare, monitorizare, streaming și alte sarcini. Aceste integrări sunt pentru încorporate pentru apeluri inverse cu instrumente terțe.
 
- - [chat-incarcatorii](https://python.langchain.com/v0.2/api_reference/community/chat_loaders.html) / [chat-loaders](https://python.langchain.com/v0.2/docs/integrations/chat_loaders/)
+ - [chat-incarcatorii](https://python.langchain.com/v0.2/api_reference/community/chat_loaders.html) / [chat-loaders](https://python.langchain.com/v0.2/docs/integrations/chat_loaders/) / [**documents-loaders**](https://python.langchain.com/v0.2/docs/integrations/document_loaders/)
 
    **Chat-Loaders** încarcă mesaje de chat de pe diverse platformele de comunicații comune, cum ar fi *Facebook Messenger*, *Telegram* și *WhatsApp*.
    Mesajele de chat încărcate pot fi folosite pentru [**reglarea fină**](https://www.datacamp.com/tutorial/llama3-fine-tuning-locally) a modelelor LLM.
