@@ -98,4 +98,4 @@ Adresa de decarcare a acestui server care va furniza diversele modele LLM pe car
 
 O mostra de dialog cu acest ***Chatbot*** este furnizat in fisierul ***exemplu_dialog.txt***.
 
-Daca vreti sa folositi serverul **Ollama** si LLM-ul **llama3** intr-o alta sarcina, spre exemplu de [**incadrare pe categorii**](https://github.com/Sachin2495/langchain/tree/main) puteti folosi acest [repos](https://github.com/Sachin2495/langchain/tree/main)
+Daca vreti sa folositi serverul **Ollama** si LLM-ul **llama3** intr-o alta sarcina(alta decat simplul dialog de tip QA), spre exemplu de [**incadrare pe categorii**](https://github.com/Sachin2495/langchain/tree/main) puteti folosi acest [repos](https://github.com/Sachin2495/langchain/tree/main)
