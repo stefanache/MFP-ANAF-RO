@@ -12,7 +12,8 @@ Daca nu doriti sau nu puteti sa-l utilizati, urmariti aceste indicatii pas cu pa
 README for LangChain-Ollama Application (`Langchain_Ollama_llama3.py`)
 
 
-***LangChain with Ollama Integration***
+<details>
+<summary><b>LangChain with Ollama Integration</b></summary>
 
 <hr/>
 
@@ -53,7 +54,7 @@ If you'd prefer to run the application in a Docker container, follow these steps
 **docker run langchain_ollama**
 
 <hr/>
-
+</details>
 ***Observatie:***
 
 Mie codul original nu mi-a functionat asa ca am folosit **ChatGPT** in mod repetat pana ce mi-a corectat codul!
