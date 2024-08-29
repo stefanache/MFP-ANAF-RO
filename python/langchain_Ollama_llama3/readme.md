@@ -13,7 +13,7 @@ README for LangChain-Ollama Application (`Langchain_Ollama_llama3.py`)
 
 
 <details>
-<summary><b>LangChain with Ollama Integration</b></summary>
+<summary><b>LangChain with Ollama Integration - instalare si rulare </b></summary>
 
 <hr/>
 
