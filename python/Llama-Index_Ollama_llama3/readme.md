@@ -3,7 +3,7 @@ Desi n-o sa intru in detalii am preluat acest [exemplu](https://docs.llamaindex.
 implementat pe baza:
 
 - serverului **Ollama**, care serveste ca
-- model [***LLM***](https://klu.ai/glossary/ollama)=**llama3**, in acest exemplu, iar ca si integrator se foloseste
+- model [***LLM***](https://klu.ai/glossary/ollama)=[**llama3**](https://www.casedone.ai/blog/ollama-beginner-guide-to-local-llm-and-api-hosting), in acest exemplu, iar ca si integrator se foloseste
 - **llama-index**
 
 ***Observatie***
