@@ -140,7 +140,7 @@ In acest ultim caz de utilizare, poate fi util sa luati in considerare si produs
 
 Legat de gratuitate,  iata un [tutorial](https://www.youtube.com/watch?v=g0eaSMgvDnc&ab_channel=CodePort) care mi-a retinut [atentia ](https://github.com/Dipeshpal/langchain_tutorial)(atentie insa ... va trebuie resurse considerabile de computing!!!)
 
-O [alternativa](https://www.datacamp.com/blog/langchain-vs-llamaindex) la [LangChain](https://github.com/gkamradt/langchain-tutorials/tree/main) o constituie LlaMA-index. 
+O [alternativa/rival](https://www.datacamp.com/blog/langchain-vs-llamaindex) la [LangChain](https://github.com/gkamradt/langchain-tutorials/tree/main) o constituie [LlaMA-index](https://docs.llamaindex.ai/en/stable/api_reference/packs/raft_dataset/). 
 
 Mai Trebuie spus insa si faptul ca aceste [produse-SW](https://github.com/gkamradt/langchain-tutorials/blob/main/LangChain%20Cookbook%20Part%201%20-%20Fundamentals.ipynb) nu sunt singurele si acestea nu se exclud ci mai degraba trebuiesc alese in functie de necesitatile voastre de [proiectare](https://medium.com/@glenn_53777/framework-to-design-an-ai-finance-accounting-assistant-a1f4b62dcde).
 
