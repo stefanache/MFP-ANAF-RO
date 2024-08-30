@@ -6,7 +6,7 @@ implementat pe baza:
 - model LLM=llama3, in acest exemplu, iar ca si integrator se foloseste
 - **llama-index**
 
-  ***Observatie***
+***Observatie***
 
    - in fisierul ***_Run.bat*** am comentat(cu rem i.e. remark) partea de instalare a bibiliotecilor **llama-index**, folosind utilitarul **pip**,
   deaorece instalarea trebuie facuta o singura data inainte de prima rulare.
