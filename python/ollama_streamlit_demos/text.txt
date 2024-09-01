@@ -1,0 +1,5 @@
+{ 					
+  "model": "llama3:latest",										
+  "prompt": "why the sky is blue?",
+  "stream": false														
+}
