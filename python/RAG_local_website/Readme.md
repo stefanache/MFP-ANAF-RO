@@ -227,7 +227,7 @@ Puteți să adaptați codul la nevoile dvs., modificând query-ul și structura 
 Nota: Acesta este un exemplu de cod simplificat și poate necesita ajustări pentru a funcționa corect în contextul dvs. De asemenea, asigurați-vă că aveți permisiunile necesare pentru a accesa bază de date și a genera fișiere XML.
 
 >>> multumesc a fost util exemplul tau doar ca eu prin [RAG](https://numericaideas.com/blog/build-your-own-chatgpt/) inteleg altceva si anume "Retrieval-Augmented Generation aka RAG"; deci eu ma gandeam sa fac un director in care sa plasez perechi de 2 fisiere unul cu datele de intrare in format xml sau
-...  json sau chiar csv si in celelalt sa-ti arat exemplul UBL2.1 generat pt ANAF Romania adica fisierul xml generat si astfel sa-ti arat cateva exemple tipice din care RAG-ul sa poata invata dupa care agentul SQL sa extraga date reale d
+...  json sau chiar csv si in celelalt sa-ti arat exemplul UBL2.1 generat pt ANAF Romania adica fisierul xml generat si astfel sa-ti arat cateva exemple tipice din care [RAG](https://ollama.com/blog/building-llm-powered-web-apps)-ul sa poata invata dupa care agentul SQL sa extraga date reale d
 ... in MySQL si sa genereze el in mod real facturile UBL2.1, bazandu-se pe cele invatate anterior.As prefera sa utilizez serverul Ollama instalat in Windows 10 Pro, ca LLM as folosi modelul llama3 si ca framework integrator as folosi Lan
 ... gchain. In lumina celor spuse cum ar arata codul python complet?
 I apologize for the misunderstanding earlier!
