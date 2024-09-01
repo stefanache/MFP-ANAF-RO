@@ -570,7 +570,7 @@ Daca doriti sa generati un raspuns/inferenta de tip imagine(sa generati imagini)
 
 Iar ca sa aveti un tablou cat mai complet, trebuie sa spun ca intrebarile si raspunsurile pot fi [vocale](https://github.com/maudoin/ollama-voice)(caz in care ne trebuie o conversie voce/sunet la text: STT) si de asemenea raspunsurile pot fi vocale/sunet(caz in care avem nevoie de conversia inversa, text la sunet/voce: TTS)
 
-Asadar, alegerea uneia sau alteia dintre variantele de implementare, depinde in cele din urma de cerintele proiectului si bineinteles de functionalitatile oferite de fiecare RAG in parte.
+Asadar, alegerea uneia sau alteia dintre variantele de implementare, depinde in cele din urma de cerintele proiectului si bineinteles de functionalitatile oferite de fiecare [RAG](https://ollama.com/blog/embedding-models) in parte.
 
 Nu in ultimul rand, atunci cand faceti alegerea trebuie sa va uitati si la efortul computational(de calcul) solicitat de fiecare extensie RAG in parte si bineninteles 
 trebuie sa va uitati la la resursele HW+SW pe care le aveti la dispozitie in acel moment sau pe care le veti avea la momentul lansarii in productie.
