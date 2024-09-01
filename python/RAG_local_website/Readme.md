@@ -542,6 +542,7 @@ Si bazele vectoriale(index-urile sau bazele de date proprii de cautare provenite
 
 Arta de a le imbina armonios va apartine!
 
+Uneori sau daca doriti sa evitati scrierea de cod si sa folositi varianta descriptiva(cu sau fara GUI) atunci [LangFlow](https://bytesupreme.online/crafting-no-code-local-rag-chatbots-with-langflow-and-ollama/) poate fi solutia dvs.
 <hr/>
 </details>
  
