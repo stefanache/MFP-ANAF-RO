@@ -15,7 +15,7 @@ Dupa instalare, pt a testa daca serverul-LLM [Ollama](https://abvijaykumar.mediu
 
    C:\> **curl localhost:11434**
    
- - sau puteti deschide direct in browser(Chrome) si tasta adresa:
+ - sau puteti deschide direct in **browser**(Chrome) si tasta adresa:
    
    **http://localhost:11434**
 
