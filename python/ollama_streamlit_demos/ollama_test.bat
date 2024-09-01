@@ -18,10 +18,14 @@ curl http://localhost:11434/api/version|more
 
 echo https://www.soinside.com/question/oDPLVCf6X6XpPaadHF62LN
 echo trebuie sa fiti rabdatoari daca resursele computerului dvs sunt modeste...
-
-curl http://localhost:11434/api/generate -d @text.txt |more
-
+echo .
 echo https://github.com/ollama/ollama/blob/main/docs/api.md?plain=1
+echo .
+
+echo -generate
+rem curl http://localhost:11434/api/generate -d @text.txt |more
+curl http://localhost:11434/api/generate -d @generate.txt |more
+
 rem echo -embeddings
 rem curl http://localhost:11434/api/embeddings -d @embeddings.txt |more
 
