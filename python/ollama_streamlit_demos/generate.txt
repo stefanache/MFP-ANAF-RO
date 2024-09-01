@@ -1,0 +1,5 @@
+{
+	"model": "llama3",
+	"prompt":"Who is Frodo Baggins?", 
+	"stream": false
+}
