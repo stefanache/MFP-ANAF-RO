@@ -16,4 +16,7 @@ echo https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web/issues/4219
 curl http://localhost:11434/api/tags |more
 curl http://localhost:11434/api/version|more
 
+echo https://www.soinside.com/question/oDPLVCf6X6XpPaadHF62LN
+curl http://localhost:11434/api/generate -d @text.txt |more
+
 pause	
