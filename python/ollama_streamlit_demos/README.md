@@ -62,3 +62,8 @@ Got questions or suggestions?
 ## Acknowledgments
 
 👏 Kudos to the [Ollama](https://ollama.com/) team for their efforts in making open-source models more accessible!
+
+
+Observatie:
+
+Serverul [**Ollama**](https://langfuse.com/docs/integrations/ollama) poate fi accesat si prin intermediul [cURL](https://4sysops.com/archives/how-to-use-curl-on-windows/)
