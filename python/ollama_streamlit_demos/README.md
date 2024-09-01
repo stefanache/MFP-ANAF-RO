@@ -66,6 +66,7 @@ Got questions or suggestions?
 
 
 <hr/>
+
 *Observatie*:
 
 Serverul [**Ollama**](https://langfuse.com/docs/integrations/ollama) poate fi accesat si prin intermediul [cURL](https://4sysops.com/archives/how-to-use-curl-on-windows/)
