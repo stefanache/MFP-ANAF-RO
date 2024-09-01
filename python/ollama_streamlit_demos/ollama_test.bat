@@ -21,6 +21,7 @@ echo trebuie sa fiti rabdatoari daca resursele computerului dvs sunt modeste...
 
 curl http://localhost:11434/api/generate -d @text.txt |more
 
+echo https://github.com/ollama/ollama/blob/main/docs/api.md?plain=1
 rem echo -embeddings
 rem curl http://localhost:11434/api/embeddings -d @embeddings.txt |more
 
