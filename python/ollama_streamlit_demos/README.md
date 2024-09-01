@@ -71,5 +71,6 @@ Got questions or suggestions?
 
  - Serverul [**Ollama**](https://langfuse.com/docs/integrations/ollama) poate fi [accesat](https://github.com/ollama/ollama/blob/main/docs/api.md?plain=1) si prin intermediul [cURL](https://4sysops.com/archives/how-to-use-curl-on-windows/)
  - Pentru a testa sub sistemul de operare *Windows*, functionalitatea serverului **Ollama**, puteti proceda in felul urmator:
-   - puteti descarca intr-un director pe desktop fisierele **ollama_test.bat** si **text.txt** si apoi
+   - puteti descarca intr-un director pe desktop fisierele **ollama_test.bat** si fisierele text(text.txt, **generate.txt**, embeddings.txt) si apoi
    - rulati *batch*-ul ***ollama_test.bat*** cu dublu-click :)
+   - acum, rularea se efectueaza doar pt **generate.txt** dar daca doriti sa utilizati si celellate exemple decomentati(stergeti **rem** din fata liniei liniile aferente
