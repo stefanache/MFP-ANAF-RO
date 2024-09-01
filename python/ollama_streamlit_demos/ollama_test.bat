@@ -12,4 +12,8 @@ echo for linux replace ^^ with \
 curl http://127.0.0.1:11434/v1/models 			^
     -H "Content-Type: application/json"
 
+echo https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web/issues/4219
+curl http://localhost:11434/api/tags |more
+curl http://localhost:11434/api/version|more
+
 pause	
