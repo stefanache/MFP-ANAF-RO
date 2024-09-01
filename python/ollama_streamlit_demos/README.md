@@ -73,4 +73,4 @@ Got questions or suggestions?
  - Pentru a testa sub sistemul de operare *Windows*, functionalitatea serverului **Ollama**, puteti proceda in felul urmator:
    - puteti descarca intr-un director pe desktop fisierele **ollama_test.bat** si fisierele text(text.txt, **generate.txt**, embeddings.txt) si apoi
    - rulati *batch*-ul ***ollama_test.bat*** cu dublu-click :)
-   - acum, rularea se efectueaza doar pt **generate.txt** dar daca doriti sa utilizati si celellate exemple decomentati(stergeti **rem** din fata liniei liniile aferente
+   - acum, rularea se efectueaza doar pt **generate.txt** dar daca doriti sa utilizati/rulati si celelalte [exemple](https://docs.deepwisdom.ai/main/en/guide/tutorials/integration_with_open_llm.html) decomentati(stergeti **rem** din fata liniei liniile aferente
