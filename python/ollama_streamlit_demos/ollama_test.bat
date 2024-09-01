@@ -18,6 +18,9 @@ curl http://localhost:11434/api/version|more
 
 echo https://www.soinside.com/question/oDPLVCf6X6XpPaadHF62LN
 echo trebuie sa fiti rabdatoari daca resursele computerului dvs sunt modeste...
+
 curl http://localhost:11434/api/generate -d @text.txt |more
+
+curl http://localhost:11434/api/generate -d @embeddings.txt |more
 
 pause	
