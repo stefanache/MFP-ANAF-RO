@@ -1,5 +1,6 @@
 {
 	"model": "llama3",
 	"prompt":"Who is Frodo Baggins?", 
-	"stream": false
+	"stream": false,
+	"max_tokens": 256
 }
