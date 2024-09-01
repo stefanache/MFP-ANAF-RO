@@ -3,3 +3,6 @@
 Ascunzand detaliile de implementare a liniei de procesare([**pipe-line**](https://bytesupreme.online/crafting-no-code-local-rag-chatbots-with-langflow-and-ollama/)), simplificand codul, **Langflow** va aduce mai multa claritate in codul dvs.
 
 Chiar daca va trebui sa mai scrieti ceva cod, totusi lungimea codului dvs. se va scurta in mod semnificativ.
+
+vreau sa va mai spun ca si [LlamaIndex](https://docs.llamaindex.ai/en/stable/module_guides/querying/pipeline/) oferă un API de interogare(query) **declarativ** care vă permite să înlănțuiți diferite module pentru a orchestra fluxuri de lucru simple până la avansate asupra datelor dvs.
+
