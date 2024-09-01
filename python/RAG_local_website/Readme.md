@@ -164,7 +164,7 @@ Integrarea dintre aceste platforme poate fi realizată prin intermediul API-uril
 
 Integrarea dintre aceste platforme poate fi realizată prin intermediul API-urilor și unor mecanisme de integrare personalizate.
 
->>> as putea proiecta un RAG pentru a genera facturi in fomat UBL2.1(xml) pornind de la datele facturii stocate in baza de date MySQL a unui XAMPP instalat in Windows 10 Pro? cum ar arata codul acestuia in python?
+>>> as putea proiecta un [RAG](https://github.com/FzS92/FS_chatbot_rag) pentru a genera facturi in fomat UBL2.1(xml) pornind de la datele facturii stocate in baza de date MySQL a unui XAMPP instalat in Windows 10 Pro? cum ar arata codul acestuia in python?
 Un RAG (Recomandare pentru Automatizarea Gestionării) bun!
 
 Pentru a genera facturi în format UBL2.1 (XML) pornind de la datele facturii stocate în baza de date MySQL, puteți utiliza Python și următoarele biblioteci:
