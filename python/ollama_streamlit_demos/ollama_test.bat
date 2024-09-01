@@ -26,6 +26,8 @@ echo -generate response
 rem curl http://localhost:11434/api/generate -d @text.txt |more
 curl http://localhost:11434/api/generate -d @generate.txt |more
 
+rem rem curl http://localhost:11434/api/chat -d @chat.txt |more
+
 rem echo -embeddings
 rem curl http://localhost:11434/api/embeddings -d @embeddings.txt |more
 
