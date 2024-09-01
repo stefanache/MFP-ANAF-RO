@@ -519,7 +519,7 @@ public class RagModel {
 ```
 Keep in mind that this is just a rough outline and won't provide the exact implementation details. You'll need to research Java-specific libraries and frameworks to create a working RAG model.
 
-Feel free to ask if you have any further questions or need more guidance on how to implement a RAG model in Java!
+Feel free to ask if you have any further questions or need more guidance on how to implement a RAG(Retrieval-Augmented Generation) model in Java!
 
 >>> Send a message (/? for help)
 <hr/>
