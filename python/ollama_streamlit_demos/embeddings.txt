@@ -1,0 +1,4 @@
+{
+  "model": "llama3:latest",
+  "prompt": "the sky is gray"
+}
