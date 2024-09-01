@@ -1,0 +1,9 @@
+{
+  "model": "llama3",
+  "messages": [
+    { 
+		"role": "user", 
+		"content": "why is the sky blue?" 
+	}
+  ]
+}
