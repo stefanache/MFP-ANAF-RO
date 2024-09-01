@@ -1,0 +1,1 @@
+[Langflow](https://www.langflow.org/) va permite ca in mod visual(GUI) sa contruiti pipe-line ul AI pt Chatbot-ul sau RAG-ul dvs construind daca vreti, intr-o maniera descriptiva conducta de procesare a aplicatiei dumnevoastra PrivateGPT(folosind sa spunem server-ul LLM Ollama) sau ChatGPT.
