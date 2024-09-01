@@ -67,6 +67,7 @@ Got questions or suggestions?
 
 <hr/>
 
-[*Observatie*:](https://github.com/ollama/ollama/blob/main/docs/api.md)
+[*Observatii*:](https://github.com/ollama/ollama/blob/main/docs/api.md)
 
-Serverul [**Ollama**](https://langfuse.com/docs/integrations/ollama) poate fi accesat si prin intermediul [cURL](https://4sysops.com/archives/how-to-use-curl-on-windows/)
+ - Serverul [**Ollama**](https://langfuse.com/docs/integrations/ollama) poate fi accesat si prin intermediul [cURL](https://4sysops.com/archives/how-to-use-curl-on-windows/)
+ - Pentru a testa functionalitatea serverului **Ollama** puteti descarca intr-un director pe desktop fisierele **ollama_test.bat** si **text.txt** si apoi rula ***ollama_test.bat*** cu dublu-click :)
