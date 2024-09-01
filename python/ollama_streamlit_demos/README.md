@@ -72,4 +72,4 @@ Got questions or suggestions?
  - Serverul [**Ollama**](https://langfuse.com/docs/integrations/ollama) poate fi accesat si prin intermediul [cURL](https://4sysops.com/archives/how-to-use-curl-on-windows/)
  - Pentru a testa functionalitatea serverului **Ollama**, puteti proceda in felul urmator:
    - puteti descarca intr-un director pe desktop fisierele **ollama_test.bat** si **text.txt** si apoi
-   - rula ***ollama_test.bat*** cu dublu-click :)
+   - rulati *batch*-ul ***ollama_test.bat*** cu dublu-click :)
