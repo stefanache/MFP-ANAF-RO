@@ -22,6 +22,6 @@ echo trebuie sa fiti rabdatoari daca resursele computerului dvs sunt modeste...
 curl http://localhost:11434/api/generate -d @text.txt |more
 
 echo -embeddings
-curl http://localhost:11434/api/generate -d @embeddings.txt |more
+curl http://localhost:11434/api/embeddings -d @embeddings.txt |more
 
 pause	
