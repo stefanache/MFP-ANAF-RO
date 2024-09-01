@@ -1,4 +1,4 @@
- @echo off
+@echo off
 cls
 where ollama
 
@@ -22,7 +22,7 @@ echo .
 echo https://github.com/ollama/ollama/blob/main/docs/api.md?plain=1
 echo .
 
-echo -generate
+echo -generate response
 rem curl http://localhost:11434/api/generate -d @text.txt |more
 curl http://localhost:11434/api/generate -d @generate.txt |more
 
