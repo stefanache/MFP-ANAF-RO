@@ -2,7 +2,9 @@
 cls
 where ollama
 
-ollama help
+ollama help |more
+
+ollama list |more
 
 curl http://127.0.0.1:11434/|more
 
