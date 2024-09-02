@@ -8,7 +8,7 @@ De fapt acest site, nu este nimic altceva decat un site de prezentare a "produse
 
 Cei de la **Netflix** pun la dispozitie aceste informatii despre filmele ce ruleaza in reteaua sa folosind un serviciu [scalat/scalabil](https://www.geeksforgeeks.org/how-netflix-scales-its-api-with-graphql/) de livrare **GraphQL)**
 
-Asa ca folosind **agentul GraphQL** din [**Langchain**](https://python.langchain.com/v0.2/docs/integrations/tools/graphql/), am creat un client-**GraphQL** catre acest serviciu pentru a extrage aceste date.
+Asa ca folosind **agentul GraphQL** din [**Langchain**](https://python.langchain.com/v0.2/docs/integrations/tools/graphql/), am creat un [client-**GraphQL**](https://pypi.org/project/sqlalchemy-graphqlapi/) catre acest serviciu pentru a extrage aceste date.
 
 Datele primite au fost livrate **chatbot-ului** bazat pe serverul **Ollama** care ne livreaza modelul LLM **llama3**(cel care ne permite de fapt chatting-ul/conversatia)
 
