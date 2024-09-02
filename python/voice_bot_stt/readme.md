@@ -22,7 +22,7 @@ Intrebarea rostita vocal ar trebui sa fie tradusa ca si ***text***(spre ex. in a
 
   <button style="color:blue;background-color:cyan;"><h5>RecordVoice</h5></button>
   
-  *Listening...*
+  <small>Listening...</small>
   
   Recognized: **who was Napoleon**
   
