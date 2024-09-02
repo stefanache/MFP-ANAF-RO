@@ -12,7 +12,7 @@ Asa ca folosind **agentul GraphQL** din [**Langchain**](https://python.langchain
 
 Datele primite au fost livrate **chatbot-ului** bazat pe serverul **Ollama** care ne livreaza modelul LLM **llama3**
 
-Astfel folosind acest cod de **Chatbot/RAG**, putem "vorbi", daca vreti, direct cu site-ul de filme **Netflix**
+Astfel folosind acest **Chatbot/RAG**, putem "vorbi", daca vreti, direct cu site-ul de filme **Netflix**
 
 Trebuie sa va mai spun ca acest protocol [**GraphQL**](https://en.wikipedia.org/wiki/GraphQL) este un inlocuitor al-/adversar al-/o alternativa a- protocolulului **REST**.
 
