@@ -3,7 +3,7 @@ Ideea acestui [**tutorial**](https://github.com/iamaziz/llm-voice-bot) mi-a sura
 asa ca am apelat la ... de acum, bine-cunoscutul [**ChatGPT**](https://chatgpt.com/c/b69c44f2-836b-43f0-b696-c83ed413f290)
 
 Asadar, in aceasta pagina este vorba despre un **VoiceBot** cu care puteti "*vorbi*"(cumva la propriu... :) si deci pune intrebarile dorite. 
-.
+
 Acest **bot** transforma vocea/sunetul in text(**stt** sau **s2t**) si apoi urmeaza cursul firesc al oricarui ***chatbot***.
 
 Pentru a rula acest **Voicebot**, va trebui sa faceti *dublu-click* pe fisierul **_RUN.bat**, care va rula ***streamlit***.
