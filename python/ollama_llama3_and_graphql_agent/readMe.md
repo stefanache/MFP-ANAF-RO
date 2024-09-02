@@ -12,3 +12,6 @@ Datele primite au fost livrate **chatbot-ului** bazat pe serverul **Ollama** car
 
 Astfel folosind acest cod de **Chatbot/RAG** putem "vorbi", daca vreti, direct cu site-ul **Netflix**
 
+Trebui sa va mai spun ca acest protocol **GraphQL** este un inlocuitor/adversar/o alternativa al protocolulului **REST**.
+
+Protocolul de comunicare **GraphQL** este utilizat, astazi, pe scara larga fiind mai ***rapid*** decat predecesorul sau.
