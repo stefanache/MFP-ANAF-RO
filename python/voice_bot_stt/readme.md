@@ -16,7 +16,7 @@ Intrebarea rostita vocal ar trebui sa fie tradusa ca si ***text***(spre ex. in a
 <hr/>
 
 
-  <h1> Voice Bot with LLaMA 3 </h1>
+  <h2><b>Voice Bot with LLaMA 3</b></h2>
   
   Select Language: **en-US**
 
