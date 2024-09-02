@@ -4,7 +4,7 @@ Inspirat de acest exemplu de integrare a [agentului **GraphQL**](https://python.
 
 am creat un cod(asistat de [**ChatGPT**](https://chatgpt.com/c/3da6507c-193f-4af5-a162-b775cb780d0a)!) pt a extrage filme de pe site-ul **Netflix**;
 
-De fapt acest site, nu este nimic altceva decat un site de prezentare a "produselor"(filmelor) sale care suporta protocolul [**GraphQL**](https://www.educative.io/collection/page/6630002/6428462352433152/6217186737127424)
+De fapt acest [graphql-endpoint](https://qlient-org.github.io/python-qlient/site/examples/), nu este nimic altceva decat un site de prezentare a "produselor"(filmelor) sale care suporta protocolul [**GraphQL**](https://www.educative.io/collection/page/6630002/6428462352433152/6217186737127424)
 
 Cei de la **Netflix** pun la dispozitie aceste informatii despre filmele ce ruleaza in reteaua sa folosind un serviciu [scalat/scalabil](https://www.geeksforgeeks.org/how-netflix-scales-its-api-with-graphql/) de livrare **GraphQL)**
 
