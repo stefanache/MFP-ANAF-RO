@@ -6,7 +6,7 @@ am creat un cod(asistat de [**ChatGPT**](https://chatgpt.com/c/3da6507c-193f-4af
 
 De fapt acest site, nu este nimic altceva decat un site de prezentare a "produselor"(filmelor) sale care suporta protocolul **GraphQL**
 
-Cei de la **Netflix** pun la dispozitie aceste informatii despre filmele ce ruleaza in reteaua sa folosind un serviciu(probabil un cluster/ferma de servere) de livrare **GraphQL)**
+Cei de la **Netflix** pun la dispozitie aceste informatii despre filmele ce ruleaza in reteaua sa folosind un serviciu [scalat/scalabil](https://www.geeksforgeeks.org/how-netflix-scales-its-api-with-graphql/) de livrare **GraphQL)**
 
 Asa ca folosind **agentul GraphQL** din **Langchain**, am creat un client-**GraphQL** catre acest serviciu pentru a extrage aceste date.
 
