@@ -28,7 +28,7 @@ Intrebarea rostita vocal ar trebui sa fie tradusa ca si ***text***(spre ex. in a
   
   Question: ***who was Napoleon***
   
-  Response: Napoleon Bonaparte (1769-1821) was a French military and political leader who rose to prominence during the late 18th century and early 19th century. He is considered one of the most influential figures in modern history, known for his military conquests, administrative reforms, and lasting impact on European politics.
+  Response: *Napoleon Bonaparte (1769-1821) was a French military and political leader who rose to prominence during the late 18th century and early 19th century. He is considered one of the most influential figures in modern history, known for his military conquests, administrative reforms, and lasting impact on European politics.
   
   Early Life and Career:
   
@@ -52,7 +52,7 @@ Intrebarea rostita vocal ar trebui sa fie tradusa ca si ***text***(spre ex. in a
   
   Napoleon was exiled to the island of Elba, Italy, where he remained for a brief period before escaping and briefly regaining power in France (Hundred Days). He was ultimately defeated and exiled again, this time to the remote island of Saint Helena, where he died in 1821.
   
-  Despite his defeat, Napoleon's legacy has endured. He is remembered as a brilliant military strategist, a skilled politician, and a visionary leader who transformed Europe and left a lasting impact on modern history.
+  Despite his defeat, Napoleon's legacy has endured. He is remembered as a brilliant military strategist, a skilled politician, and a visionary leader who transformed Europe and left a lasting impact on modern history.*
 
 
 
