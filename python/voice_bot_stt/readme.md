@@ -1,15 +1,15 @@
 
 Idea a plecat de la acest [tutorial](https://github.com/iamaziz/llm-voice-bot) dar pt mine nu a functionat din prima asa ca am apelat la [ChatGPT](https://chatgpt.com/c/b69c44f2-836b-43f0-b696-c83ed413f290)
 
-Este un VoiceBot cu care puteti "vorbi" la propriu 
+In aceasta pagina este vorba despre un **VoiceBot** cu care puteti "*vorbi*"(cumva la propriu... :) si deci pune intrebarile dorite. 
 .
-Acest bot transforma vocea/sunetul in text(stt sau s2t) si apoi urmeaza cursul firesc al oricarui chatbot.
+Acest **bot** transforma vocea/sunetul in text(**stt** sau **s2t**) si apoi urmeaza cursul firesc al oricarui ***chatbot***.
 
-Pentru a rula acest Voicebot rulati **_RUN.bat** care ruleaza ***streamlit***.
+Pentru a rula acest **Voicebot**, va trebui sa faceti *dublu-click* pe fisierul **_RUN.bat**, care va rula ***streamlit***.
 
-**Streamlit**-ul la randul sau, va face sa apara o fereastra de browser(in cazul meu browser-ul implicit este ***MS Edge***) in care trebuie sa click-ati butonul **RecordVoice**, iar dupa ce apare mesajul ***listening....*** puteti rosti o intrebare in limba pe care ati selectat-o in prealabil.
+**Streamlit**-ul la randul sau, va face sa apara o fereastra de/in browser(in cazul meu browser-ul implicit este **MS Edge**) in care trebuie sa *click*-ati butonul **RecordVoice**, iar dupa ce apare mesajul ***listening....***, puteti rosti o intrebare(in limba pe care ati selectat-o in prealabil).
 
-Intrebarea rostita vocal ar trebui sa fie tradusa ca si ***text***(spre ex. in acest caz:***who was Napoleon***)  inainte de a o transmite ***LLM***-ului(in acest caz **llama3**) deservit de catre server-ul **Ollama**.
+Intrebarea rostita vocal ar trebui sa fie tradusa ca si ***text***(spre ex. in acest caz:***who was Napoleon***),  inainte de a fi transmisa ***LLM***-ului(in acest caz **llama3**) deservit de catre server-ul **Ollama**.
 
 <details><summary>Iata dialogul:</summary>
 <hr/>
