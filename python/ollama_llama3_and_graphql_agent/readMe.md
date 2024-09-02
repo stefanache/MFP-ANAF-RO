@@ -8,10 +8,10 @@ Cei de la **Netflix** pun la dispozitie aceste informatii despre filmele ce rule
 
 Asa ca folosind **agentul GraphQL** din **Langchain**, am creat un client-**GraphQL** catre acest serviciu pentru a extrage aceste date.
 
-Datele primite au fost livrate **chatbot-ului** bazat pe serverul **Ollama** care livreaza modelul LLM **llama3**
+Datele primite au fost livrate **chatbot-ului** bazat pe serverul **Ollama** care ne livreaza modelul LLM **llama3**
 
 Astfel folosind acest cod de **Chatbot/RAG** putem "vorbi", daca vreti, direct cu site-ul **Netflix**
 
-Trebui sa va mai spun ca acest protocol **GraphQL** este un inlocuitor/adversar/o alternativa al protocolulului **REST**.
+Trebui sa va mai spun ca acest protocol [**GraphQL**](https://en.wikipedia.org/wiki/GraphQL) este un inlocuitor/adversar/o alternativa al protocolulului **REST**.
 
-Protocolul de comunicare **GraphQL** este utilizat, astazi, pe scara larga fiind mai ***rapid*** decat predecesorul sau.
+Protocolul de comunicare [**GraphQL**](https://en.wikipedia.org/wiki/GraphQL) este utilizat, astazi, pe scara larga fiind mai ***rapid*** decat predecesorul sau.
