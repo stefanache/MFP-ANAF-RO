@@ -15,7 +15,6 @@ Intrebarea rostita vocal ar trebui sa fie tradusa ca si ***text***(spre ex. in a
   
 <hr/>
 
-"""
 
   Voice Bot with LLaMA 3
   Select Language
@@ -54,7 +53,7 @@ Intrebarea rostita vocal ar trebui sa fie tradusa ca si ***text***(spre ex. in a
   
   Despite his defeat, Napoleon's legacy has endured. He is remembered as a brilliant military strategist, a skilled politician, and a visionary leader who transformed Europe and left a lasting impact on modern history.
 
-"""
+
 
 <hr/>
 
