@@ -1,5 +1,5 @@
 
-Ideea acestui [**tutorial**](https://github.com/iamaziz/llm-voice-bot) mi-a suras, insa pt mine codul original nu a functionat din prima ....
+Ideea acestui [**tutorial**](https://github.com/iamaziz/llm-voice-bot) mi-a suras, insa pt mine, codul original nu a functionat(din prima!!!) ....
 asa ca am apelat la ... de acum, bine-cunoscutul [**ChatGPT**](https://chatgpt.com/c/b69c44f2-836b-43f0-b696-c83ed413f290)
 
 Asadar, in aceasta pagina este vorba despre un **VoiceBot** cu care puteti "*vorbi*"(cumva la propriu... :) si deci pune intrebarile dorite. 
