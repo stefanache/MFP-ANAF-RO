@@ -12,7 +12,9 @@ Pentru a rula acest **Voicebot**, va trebui sa faceti *dublu-click* pe fisierul 
 Intrebarea rostita vocal ar trebui sa fie tradusa ca si ***text***(spre ex. in acest caz:***who was Napoleon***),  inainte de a fi transmisa ***LLM***-ului(in acest caz **llama3**) deservit de catre server-ul **Ollama**.
 
 <details><summary>Iata dialogul:</summary>
+  
 <hr/>
+
 """
 Voice Bot with LLaMA 3
 Select Language
@@ -52,5 +54,7 @@ Napoleon was exiled to the island of Elba, Italy, where he remained for a brief 
 Despite his defeat, Napoleon's legacy has endured. He is remembered as a brilliant military strategist, a skilled politician, and a visionary leader who transformed Europe and left a lasting impact on modern history.
 
 """
+
 <hr/>
+
 </details>
