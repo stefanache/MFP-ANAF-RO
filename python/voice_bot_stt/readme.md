@@ -21,9 +21,9 @@ Intrebarea rostita vocal ar trebui sa fie tradusa ca si ***text***(spre ex. in a
   
   en-US
   
-  Listening...
+  *Listening...*
   
-  Recognized: who was Napoleon
+  Recognized: **who was Napoleon**
   
   Question: who was Napoleon
   
