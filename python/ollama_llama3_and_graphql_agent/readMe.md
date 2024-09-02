@@ -8,7 +8,7 @@ De fapt acest [graphql-endpoint](https://qlient-org.github.io/python-qlient/site
 
 Cei de la **Netflix** pun la dispozitie aceste informatii despre filmele ce ruleaza in reteaua sa, folosind un serviciu [scalat/scalabil](https://www.geeksforgeeks.org/how-netflix-scales-its-api-with-graphql/) de livrare **GraphQL)**
 
-Asadar utilizand **agentul GraphQL** din [**Langchain**](https://python.langchain.com/v0.2/docs/integrations/tools/graphql/), am creat un [client-**GraphQL**](https://pypi.org/project/sqlalchemy-graphqlapi/) catre acest serviciu pentru a extrage aceste date.
+Asadar utilizand **agentul GraphQL** din [**Langchain**](https://python.langchain.com/v0.2/docs/integrations/tools/graphql/), am creat un [client-**GraphQL**](https://pypi.org/project/sqlalchemy-graphqlapi/) catre acest serviciu pentru a extrage/valorifica aceste date.
 
 Datele primite au fost livrate **chatbot-ului** bazat pe serverul **Ollama** care ne livreaza modelul LLM **llama3**(cel care ne permite de fapt chatting-ul/conversatia)
 
