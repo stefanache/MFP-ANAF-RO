@@ -26,7 +26,7 @@ Intrebarea rostita vocal ar trebui sa fie tradusa ca si ***text***(spre ex. in a
   
   Recognized: **who was Napoleon**
   
-  Question: who was Napoleon
+  Question: ***who was Napoleon***
   
   Response: Napoleon Bonaparte (1769-1821) was a French military and political leader who rose to prominence during the late 18th century and early 19th century. He is considered one of the most influential figures in modern history, known for his military conquests, administrative reforms, and lasting impact on European politics.
   
