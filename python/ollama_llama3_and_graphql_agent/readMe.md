@@ -14,4 +14,4 @@ Astfel folosind acest cod de **Chatbot/RAG** putem "vorbi", daca vreti, direct c
 
 Trebuie sa va mai spun ca acest protocol [**GraphQL**](https://en.wikipedia.org/wiki/GraphQL) este un inlocuitor al-/adversar al-/o alternativa a- protocolulului **REST**.
 
-Protocolul de comunicare [**GraphQL**](https://en.wikipedia.org/wiki/GraphQL) este utilizat, astazi, pe scara larga fiind mai ***rapid*** decat predecesorul sau.
+Protocolul de comunicare [**GraphQL**](https://en.wikipedia.org/wiki/GraphQL) este utilizat, astazi, pe [scara larga](https://blog.postman.com/how-to-choose-between-rest-vs-graphql-vs-grpc-vs-soap/) fiind mai ***rapid*** decat predecesorul sau.
