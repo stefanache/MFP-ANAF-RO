@@ -20,7 +20,7 @@ Intrebarea rostita vocal ar trebui sa fie tradusa ca si ***text***(spre ex. in a
   
   Select Language: **en-US**
 
-  <button><h5>RecordVoice</h5></button>
+  <button style="color:blue;background-color:cyan;"><h5>RecordVoice</h5></button>
   
   *Listening...*
   
