@@ -4,7 +4,7 @@ Inspirat de acest exemplu de integrare a [agentului **GraphQL**](https://python.
 
 am creat un cod(asistat de [**ChatGPT**](https://chatgpt.com/c/3da6507c-193f-4af5-a162-b775cb780d0a)!) pt a extrage filme de pe site-ul **Netflix**;
 
-Cei de la **Netflix** pun la dispozitie aceste informatii despre filmele ce ruleaza in reteaua sa folosind un serviciu(cluster de servere) de livrare **GraphQL)**
+Cei de la **Netflix** pun la dispozitie aceste informatii despre filmele ce ruleaza in reteaua sa folosind un serviciu(probabil un cluster/ferma de servere) de livrare **GraphQL)**
 
 Asa ca folosind **agentul GraphQL** din **Langchain**, am creat un client-**GraphQL** catre acest serviciu pentru a extrage aceste date.
 
