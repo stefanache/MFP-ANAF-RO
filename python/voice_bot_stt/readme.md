@@ -5,6 +5,12 @@ Este un VoiceBot cu care puteti "vorbi" la propriu
 .
 Acest bot transforma vocea/sunetul in text(stt sau s2t) si apoi urmeaza cursul firesc al oricarui chatbot.
 
+Pentru a rula acest Voicebot rulati **_RUN.bat** care ruleaza ***streamlit***.
+
+Streamlit-ul va face sa apara o fereastra de Browser in care trebuie sa click-ati butonul **RecordVoice***, iar dupa ce apare mesajul ****listening....*** puteti rosti o intrebare in limba pe care ati selectat-o in prealabil.
+
+Intrebarea rostita vocal ar trebui sa fie tradusa ca si ***text***(spre ex. in acest caz:***who was Napoleon ? ***)  inainte de a o transmite ***LLM***-ului(in acest caz **llama3**) deservit de catre server-ul **Ollama**.
+
 <details><summary>Iata dialogul:</summary>
 <hr/>
 """
