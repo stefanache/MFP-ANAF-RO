@@ -5,8 +5,8 @@ Este un VoiceBot cu care puteti "vorbi" la propriu
 .
 Acest bot transforma vocea/sunetul in text(stt sau s2t) si apoi urmeaza cursul firesc al oricarui chatbot.
 
-Iata dialogul:
-
+<details><summary>Iata dialogul:</summary>
+<hr/>
 """
 Voice Bot with LLaMA 3
 Select Language
@@ -46,3 +46,5 @@ Napoleon was exiled to the island of Elba, Italy, where he remained for a brief 
 Despite his defeat, Napoleon's legacy has endured. He is remembered as a brilliant military strategist, a skilled politician, and a visionary leader who transformed Europe and left a lasting impact on modern history.
 
 """
+<hr/>
+</details>
