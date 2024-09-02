@@ -8,7 +8,7 @@ Acest **bot** transforma vocea/sunetul in text(**stt** sau **s2t**) si apoi, ina
 
 Pentru a rula acest **Voicebot**, va trebui sa faceti *dublu-click* pe fisierul **_RUN.bat**, care va rula ***streamlit***.
 
-**Streamlit**-ul la randul sau, va face sa apara o fereastra de/in browser(in cazul meu browser-ul implicit este **MS Edge**) in care trebuie sa *click*-ati butonul **RecordVoice**, iar dupa ce apare mesajul ***listening....***, puteti rosti o intrebare(in limba pe care ati selectat-o in prealabil).
+**Streamlit**-ul la randul sau, va face sa apara o fereastra de/in browser(in cazul meu browser-ul implicit este **MS Edge**) in care trebuie sa *click*-ati butonul **RecordVoice**, iar dupa ce apare mesajul ***listening....***, puteti rosti vocal o intrebare(in limba pe care ati selectat-o in prealabil).
 
 Intrebarea rostita vocal ar trebui sa fie tradusa ca si ***text***(spre ex. in acest caz:***who was Napoleon***),  inainte de a fi transmisa ***LLM***-ului(in acest caz **llama3**) deservit de catre server-ul **Ollama**.
 
