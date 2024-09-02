@@ -4,7 +4,7 @@ asa ca am apelat la ... de acum, bine-cunoscutul [**ChatGPT**](https://chatgpt.c
 
 Asadar, in aceasta pagina este vorba despre un **VoiceBot** cu care puteti "*vorbi*"(cumva la propriu... :) si deci pune intrebarile dorite. 
 
-Acest **bot** transforma vocea/sunetul in text(**stt** sau **s2t**) si apoi urmeaza cursul firesc al oricarui ***chatbot***.
+Acest **bot** transforma vocea/sunetul in text(**stt** sau **s2t**) si apoi, inarmat cu textul intrebarii rostite anterior, urmeaza cursul firesc al oricarui ***chatbot***.
 
 Pentru a rula acest **Voicebot**, va trebui sa faceti *dublu-click* pe fisierul **_RUN.bat**, care va rula ***streamlit***.
 
