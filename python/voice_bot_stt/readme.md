@@ -10,7 +10,7 @@ Pentru a rula acest **Voicebot**, va trebui sa faceti *dublu-click* pe fisierul 
 
 **Streamlit**-ul la randul sau, va face sa apara o fereastra de/in browser(in cazul meu browser-ul implicit este **MS Edge**) in care trebuie sa *click*-ati butonul **RecordVoice**, iar dupa ce apare mesajul ***listening....***, puteti rosti vocal o intrebare(in limba pe care ati selectat-o in prealabil).
 
-Intrebarea rostita vocal ar trebui sa fie tradusa ca si ***text***(spre ex. in acest caz:***who was Napoleon***),  inainte de a fi transmisa ***LLM***-ului(in acest caz **llama3**) deservit de catre server-ul **Ollama**.
+Intrebarea rostita vocal ar trebui sa fie tradusa ca si ***text***(spre ex. in acest caz:***who was Napoleon***),  inainte de a fi transmisa ***LLM***-ului(in acest caz **llama3**) deservit de catre server-ul local **Ollama**.
 
 <details><summary>Iata dialogul:</summary>
   
