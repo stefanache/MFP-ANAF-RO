@@ -18,4 +18,4 @@ Clientul acceseaza un endpoint-Flask(***http://localhost:8080/llm***) folosind *
 
 **Chatbot**-ul elaboreaza raspunsul textual iar mai apoi **server**-ul il reda si pe acesta ***vocal***(efectuand aceiasi conversie ***text-to-sound/voice*** a.k.a **tts** sau **t2s**)
 
-**Server**-ul(app.py) cred ca ar trebui [**optimizat**](https://github.com/dylanhogg/awesome-python) dar acest cod poate fi un bun punct de plecare!
+**Server**-ul(***app.py***) cred ca ar trebui [**optimizat**](https://github.com/dylanhogg/awesome-python) dar acest cod poate fi un bun punct de plecare!
