@@ -568,7 +568,7 @@ O anumita combinatie de [RAG](https://github.com/langchain-ai/langgraph/tree/mai
 
 Daca doriti sa generati un raspuns/inferenta de tip imagine(sa generati imagini) in urma intrebarilor(ASKs) dvs. atunci va trebui sa apelati la un [RAG conectat la un Stable-Diffusion(SD)](https://github.com/batoutou/Local_RAG_LLM). In acest ultim caz, folosind SD, va trebui sa va ganditi din start ca veti avea nevoie de GPU(cu cel puțin 12 GB de VRAM pt un raspuns rezonabil) deoarece SD necesita CUDA si deci veti avea un consum computational destul de insemnat.
 
-Iar ca sa aveti un tablou cat mai complet, trebuie sa spun ca intrebarile si raspunsurile pot fi [vocale](https://github.com/maudoin/ollama-voice)(caz in care ne trebuie o conversie voce/sunet la text: STT) si de asemenea raspunsurile pot fi vocale/sunet(caz in care avem nevoie de conversia inversa, text la sunet/voce: TTS)
+Iar ca sa aveti un tablou cat mai complet, trebuie sa spun ca intrebarile si raspunsurile pot fi [vocale](https://github.com/maudoin/ollama-voice)(caz in care ne trebuie o conversie voce/sunet la text: **STT**/**S2T**) si de asemenea raspunsurile pot fi vocale/sunet(caz in care avem nevoie de conversia inversa, text la sunet/voce: **TTS**/**T2S**)
 
 Asadar, alegerea uneia sau alteia dintre variantele de implementare, depinde in cele din urma de cerintele proiectului si bineinteles de functionalitatile oferite de fiecare [RAG](https://ollama.com/blog/embedding-models) in parte.
 
