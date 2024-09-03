@@ -8,6 +8,6 @@ implementat pe baza:
 
 ***Observatie***
 
-   - in fisierul ***_Run.bat*** am comentat(cu **rem** i.e. remark) partea de instalare a bibiliotecilor **llama-index**, folosind utilitarul **pip**,
+   - in fisierul ***_Run.bat*** am comentat(cu **rem** i.e. remark) partea de instalare a bibiliotecilor [**llama-index**](https://docs.llamaindex.ai/en/stable/examples/multi_tenancy/multi_tenancy_rag/), folosind utilitarul **pip**,
   deaorece instalarea trebuie facuta o singura data inainte de prima rulare.
    - am comentat pt ca in lucrul curent nu mai este necesara aceasta instalare preliminara.
