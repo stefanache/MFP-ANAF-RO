@@ -18,4 +18,4 @@ Clientul acceseaza un endpoint-Flask(***http://localhost:8080/llm***) folosind *
 
 **Chatbot**-ul elaboreaza raspunsul textual iar mai apoi **server**-ul il reda si pe acesta ***vocal***(efectuand aceiasi conversie ***text-to-voice/sound*** a.k.a **tts** sau **t2s**)
 
-Desigur server-ul cred ca ar trebui optimizat dar acest cod poate fi un bun punct de plecare!
+**Server**-ul cred ca ar trebui optimizat dar acest cod poate fi un bun punct de plecare!
