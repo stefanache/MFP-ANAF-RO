@@ -10,7 +10,7 @@ Pentru a rula acest **Voicebot**, va trebui sa faceti *dublu-click* pe fisierul 
 
 **Streamlit**-ul la randul sau, va face sa apara o fereastra de/in browser(in cazul meu browser-ul implicit este **MS Edge**) **GUI**, in care trebuie sa *click*-ati butonul **RecordVoice**, iar dupa ce apare mesajul ***listening....***, puteti rosti(desigur vocal) o intrebare(in limba pe care ati selectat-o in prealabil).
 
-Intrebarea rostita(desigur **vocal**) ar trebui sa fie tradusa ca si ***text***(spre ex. in acest caz: ***who was Napoleon***),  inainte de a fi transmisa ***LLM***-ului(in acest caz **llama3**), (de)servit/oferit de catre server-ul local **Ollama**.
+Intrebarea rostita(desigur **vocal**) ar trebui sa fie tradusa ca si ***text***(spre ex. in acest caz: ***who was Napoleon***),  inainte de a fi transmisa ***LLM***-ului(in acest caz [**llama3**](https://medium.com/@manuelescobar-dev/running-llama-3-locally-with-ollama-9881706df7ac)), (de)servit/oferit de catre server-ul local [**Ollama**](https://medium.com/@manuelescobar-dev/running-llama-3-locally-with-ollama-9881706df7ac).
 
 In final, modelul **llama3**, beneficiind de/avand textul **intrebarii(Q)** si fiind pre-antrenat in arta dialogului, va elabora un **raspuns(A)** cat mai adecvat(speram noi...!); Raspunsul va fi afisat in consola-GUI a browser-ului dvs.(daca doriti, puteti adauga rostirea textului-raspuns/iesirea folosind o biblioteca de conversie ***text2sound(t2s/tts)***, gen [**pyttsx3**](https://github.com/stefanache/MFP-ANAF-RO/tree/main/python/speaker_llm_t2s)!)
 
