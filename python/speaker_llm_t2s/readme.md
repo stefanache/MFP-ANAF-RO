@@ -14,7 +14,7 @@ Daca doriti cele 2 ferestre CLI/shell(cmd.exe) ale **server**-ului si a **client
 
 Clientul acceseaza un endpoint-Flask(***http://localhost:8080/llm***) folosind **cURL**(care desigur trebuie instalat in prealabil!) si va trimite un mesaj/o intrebare catre (web)server-ul(**Flask**)
 
-**Flask**-ul(care asculta pe portul **8080**), de indata ce primeste mesajul(intrebarea), il(o) reda ***vocal***, ca mai apoi sa-l(o) transmita **chatbot**-ului(format din clientul pythonic **Ollama** si serverul **Ollama** care deserveste ca LLM=**llama3**)
+**Flask**-ul(care asculta pe portul **8080**), de indata ce primeste mesajul(intrebarea), il(o) reda ***vocal***, ca mai apoi sa-l(o) transmita **chatbot**-ului(format din clientul pythonic **Ollama** si serverul **Ollama** care deserveste ***LLM***-ul=**llama3**)
 
 **Chatbot**-ul elaboreaza raspunsul textual iar mai apoi **server**-ul il reda si pe acesta ***vocal***(efectuand aceiasi conversie ***text-to-voice/sound*** a.k.a **tts** sau **t2s**)
 
