@@ -7,7 +7,7 @@ Asa ca am apelat din nou la asistenta [ChatGPT](https://chatgpt.com/c/e5162420-9
 
 Pentru partea de conversie **text2sound** a intrarii preluate, am folosit **pyttsx3** iar ca (web)server-REST am pastrat [**Flask**](https://en.wikipedia.org/wiki/Flask_(web_framework))-ul.
 
-Cum era de asteptat, trebuie mai [intai](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/speaker_llm_t2s/_1.Run_server.bat) rulat (web)serverul-bazat pe [**Flask**](https://en.wikipedia.org/wiki/Flask_(web_framework))(fereastra server-ului nu trebuie inchisa ci doar minimizata...pt ca el trebuie sa ramana in functiune!) si [apoi](python/speaker_llm_t2s/_2.Run_client.bat) desigur, in paralel,  trebuie rulat clientul(bazat pe **cURL**).
+Cum era de asteptat, trebuie mai [intai](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/speaker_llm_t2s/_1.Run_server.bat) rulat (web)serverul-bazat pe [**Flask**](https://en.wikipedia.org/wiki/Flask_(web_framework))(fereastra server-ului nu trebuie inchisa ci doar minimizata...pt ca el trebuie sa ramana in functiune!) si [apoi](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/speaker_llm_t2s/_2.Run_client.bat) desigur, in paralel,  trebuie rulat clientul(bazat pe **cURL**).
 
 Daca doriti cele 2 ferestre CLI/shell(cmd.exe) ale **server**-ului si a **client**-ului pot fi *re-dimensionate* si afisate in *paralel* dar niciuna nu trebuie inchisa inainte de a auzi mesajul de raspuns(adica pana nu se incheie procesarea intrebarii de catre **LLM**-ul **llama3**/**Ollama**)
 
