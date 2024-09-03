@@ -75,4 +75,4 @@ Got questions or suggestions?
    - rulati *batch*-ul ***ollama_test.bat*** cu dublu-click :)
    - acum, rularea se efectueaza doar pt **generate.txt** dar daca doriti sa utilizati/rulati si celelalte [exemple](https://docs.deepwisdom.ai/main/en/guide/tutorials/integration_with_open_llm.html) decomentati(stergeti **rem** din fata liniei liniile aferente
   
-   - O alternativa la interfata de browser **streamlit** o poate constitui [**gradio**](https://voipnuggets.com/2024/04/27/run-llama3-and-phi3-locally-with-gradio-and-ollama/)
+   - O alternativa la interfata de browser **streamlit**, o poate constitui [**gradio**](https://voipnuggets.com/2024/04/27/run-llama3-and-phi3-locally-with-gradio-and-ollama/)
