@@ -16,6 +16,6 @@ Clientul acceseaza un endpoint-Flask(***http://localhost:8080/llm***) folosind *
 
 **Flask**-ul(care asculta pe portul **8080**, folosind **REST** ca protocol), de indata ce primeste mesajul(intrebarea), il(o) reda ***vocal***, ca mai apoi sa-l(o) transmita **chatbot**-ului(format din clientul [*pythonic*](https://github.com/dylanhogg/awesome-python) **Ollama** si serverul [**Ollama**](https://emmakodes.medium.com/how-to-run-llama-3-1-locally-in-python-using-ollama-langchain-331c9984a4b5), acesta din urma, (de)servind/furnizand ***LLM***-ul **llama3**)
 
-**Chatbot**-ul elaboreaza raspunsul textual iar mai apoi **server**-ul il reda si pe acesta ***vocal***(efectuand aceiasi conversie ***text-to-voice/sound*** a.k.a **tts** sau **t2s**)
+**Chatbot**-ul elaboreaza raspunsul textual iar mai apoi **server**-ul il reda si pe acesta ***vocal***(efectuand aceiasi conversie ***text-to-sound/voice*** a.k.a **tts** sau **t2s**)
 
 **Server**-ul(app.py) cred ca ar trebui [**optimizat**](https://github.com/dylanhogg/awesome-python) dar acest cod poate fi un bun punct de plecare!
