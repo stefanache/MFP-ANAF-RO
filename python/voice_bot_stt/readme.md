@@ -12,7 +12,7 @@ Pentru a rula acest **Voicebot**, va trebui sa faceti *dublu-click* pe fisierul 
 
 Intrebarea rostita(desigur **vocal**) ar trebui sa fie tradusa ca si ***text***(spre ex. in acest caz: ***who was Napoleon***),  inainte de a fi transmisa ***LLM***-ului(in acest caz **llama3**), (de)servit/oferit de catre server-ul local **Ollama**.
 
-In final, modelul **llama3**, beneficiind de/avand textul **intrebarii(Q)** si fiind pre-antrenat in arta dialogului, va elabora un **raspuns(A)** cat mai adecvat(speram noi...!); Raspunsul va fi afisat in consola-GUI a browser-ului dvs.(daca doriti, puteti adauga rostirea textului-raspuns folosind o biblioteca de conversie ***text2sound(t2s/tts)***, gen [**pyttsx3**](https://github.com/stefanache/MFP-ANAF-RO/tree/main/python/speaker_llm_t2s)!)
+In final, modelul **llama3**, beneficiind de/avand textul **intrebarii(Q)** si fiind pre-antrenat in arta dialogului, va elabora un **raspuns(A)** cat mai adecvat(speram noi...!); Raspunsul va fi afisat in consola-GUI a browser-ului dvs.(daca doriti, puteti adauga rostirea textului-raspuns/iesirea folosind o biblioteca de conversie ***text2sound(t2s/tts)***, gen [**pyttsx3**](https://github.com/stefanache/MFP-ANAF-RO/tree/main/python/speaker_llm_t2s)!)
 
 <details><summary>Iata dialogul:</summary>
   
