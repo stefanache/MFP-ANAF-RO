@@ -14,7 +14,7 @@ Daca doriti, cele 2 ferestre CLI/shell(cmd.exe) ale **server**-ului si a **clien
 
 Clientul acceseaza un endpoint-Flask(***http://localhost:8080/llm***) folosind **cURL**(care desigur trebuie instalat in prealabil!) si va trimite un mesaj/o intrebare catre (web)server-ul(**Flask**)
 
-[**Flask**](https://en.wikipedia.org/wiki/Flask_(web_framework))-ul(care asculta pe portul **8080**, folosind **REST** ca protocol), de indata ce primeste mesajul(intrebarea), il(o) reda ***vocal***, ca mai apoi sa-l(o) transmita **chatbot**-ului(format din clientul [*pythonic*](https://github.com/dylanhogg/awesome-python) **Ollama** si serverul [**Ollama**](https://emmakodes.medium.com/how-to-run-llama-3-1-locally-in-python-using-ollama-langchain-331c9984a4b5), acesta din urma, (de)servind/furnizand ***LLM***-ul **llama3**)
+[**Flask**](https://en.wikipedia.org/wiki/Flask_(web_framework))-ul(care asculta pe portul **8080**, folosind **REST** ca protocol), de indata ce primeste mesajul(intrebarea), il(o) reda ***vocal***, ca mai apoi sa-l(o) transmita **chatbot**-ului(format din clientul [*pythonic*](https://github.com/dylanhogg/awesome-python) **Ollama** si serverul [**Ollama**](https://emmakodes.medium.com/how-to-run-llama-3-1-locally-in-python-using-ollama-langchain-331c9984a4b5), acesta din urma, (de)servind/furnizand local ***LLM***-ul [**llama3**](https://medium.com/@manuelescobar-dev/running-llama-3-locally-with-ollama-9881706df7ac))
 
 **Chatbot**-ul(***app.py***) elaboreaza raspunsul-textual/iesirea iar mai apoi, **server**-ul il reda si pe acesta ***vocal/audio***(efectuand aceiasi conversie ***text-to-sound/voice*** a.k.a **tts** sau **t2s**)
 
