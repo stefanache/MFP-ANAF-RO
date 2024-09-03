@@ -9,7 +9,7 @@ Pentru partea de conversie **text2sound** a intrarii preluate, am folosit **pytt
 
 Cum era de asteptat, trebuie mai [intai](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/speaker_llm_t2s/_1.Run_server.bat) rulat (web)serverul-bazat pe [**Flask**](https://en.wikipedia.org/wiki/Flask_(web_framework))(fereastra server-ului nu trebuie inchisa ci doar minimizata...pt ca el trebuie sa ramana in functiune!) si [apoi](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/speaker_llm_t2s/_2.Run_client.bat) desigur, in paralel,  trebuie rulat clientul(bazat pe **cURL**).
 
-Daca doriti cele 2 ferestre CLI/shell(cmd.exe) ale **server**-ului si a **client**-ului pot fi *re-dimensionate* si afisate in *paralel* dar niciuna nu trebuie inchisa inainte de a auzi mesajul de raspuns(adica pana nu se incheie procesarea intrebarii de catre **LLM**-ul **llama3**/**Ollama**)
+Daca doriti, cele 2 ferestre CLI/shell(cmd.exe) ale **server**-ului si a **client**-ului pot fi *re-dimensionate* si afisate in *paralel* dar niciuna nu trebuie inchisa ... inainte de a auzi mesajul de raspuns(adica pana nu se incheie procesarea intrebarii de catre **LLM**-ul **llama3**/**Ollama**)
 
 
 Clientul acceseaza un endpoint-Flask(***http://localhost:8080/llm***) folosind **cURL**(care desigur trebuie instalat in prealabil!) si va trimite un mesaj/o intrebare catre (web)server-ul(**Flask**)
