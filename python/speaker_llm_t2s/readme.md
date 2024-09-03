@@ -5,7 +5,7 @@ Totusi studiind codul am vazut ca ar fi nevoie de o api-key... lucru care nu mi-
 
 Asa ca am apelat din nou la asistenta [ChatGPT](https://chatgpt.com/c/e5162420-9644-4178-a470-c22fffdbf952)-ului)
 
-Pentru partea de conversie **text2sound** a intrarii preluate, am folosit **pyttsx3** iar ca (web)server-REST am pastrat **Flask**-ul.
+Pentru partea de conversie **text2sound** a intrarii preluate, am folosit **pyttsx3** iar ca (web)server-REST am pastrat [**Flask**](https://en.wikipedia.org/wiki/Flask_(web_framework))-ul.
 
 Cum era de asteptat, trebuie mai intai rulat (web)serverul-bazat pe Flask(fereastra server-ului nu trebuie inchisa ci doar minimizata...pt ca el trebuie sa ramana in functiune!) si apoi desigur, in paralel,  trebuie rulat clientul(bazat pe **cURL**).
 
