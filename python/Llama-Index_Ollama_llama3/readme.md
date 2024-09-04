@@ -1,4 +1,4 @@
-Desi n-o sa intru in detalii am preluat acest [exemplu](https://docs.llamaindex.ai/en/stable/api_reference/llms/ollama/) de **Chatbot**, 
+Desi n-o sa intru in detalii am preluat acest [exemplu](https://docs.llamaindex.ai/en/stable/api_reference/llms/ollama/) de [**Chatbot**](https://www.youtube.com/watch?v=NjkAMVFv8m8), 
 
 implementat pe baza:
 
