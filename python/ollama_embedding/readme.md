@@ -6,7 +6,7 @@ Trebuie sa priviti aceasta operatiune de ***conversie/transformare/codificare***
 
  - **Vector stores**:
    
-Acesti **vectori** obtinuti, urmeaza apoi un proces de **inglobare/embedding**, adica  ei sunt stocati de catre [**RAG/Chatbot**](https://jws.news/2024/how-to-build-a-rag-system-using-python-ollama-langchain-and-chroma-db/), in baze de date, desigur denumite [**b.d.-vectoriale**](https://python.langchain.com/v0.2/docs/integrations/vectorstores/).
+Acesti **vectori** obtinuti, urmeaza apoi un proces de [**inglobare/embedding**](https://www.timescale.com/blog/a-complete-guide-to-creating-and-storing-embeddings-for-postgresql-data/), iar apoi  ei sunt stocati de catre [**RAG/Chatbot**](https://jws.news/2024/how-to-build-a-rag-system-using-python-ollama-langchain-and-chroma-db/), in baze de date, desigur denumite [**b.d.-vectoriale**](https://python.langchain.com/v0.2/docs/integrations/vectorstores/).
 
 Stocajul in [**baze de date vectoriale**](https://python.langchain.com/v0.2/docs/integrations/vectorstores/) cumva se ***potriveste/are legatura cu*** sau poate fi substituit de/impletit cu  o anumita alternativa de stocaj, deja cunoscuta pt viteza sa ridicata de regasire, si anume este vorba de stocajul de tip [**cheie-valoare**](https://python.langchain.com/v0.2/docs/integrations/stores/), gen [*Redis*](https://appmaster.io/blog/what-is-a-key-value-database-redis), [MongoDB](https://stackoverflow.com/questions/33973945/mongodb-best-way-to-storing-key-value-data), [NoSQL](https://www.influxdata.com/key-value-database/).
 
