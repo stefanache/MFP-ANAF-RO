@@ -12,7 +12,7 @@ Stocajul in [**baze de date vectoriale**](https://python.langchain.com/v0.2/docs
 
 In momentul in care sunt necesare(fie pt **formularea unui raspuns relevant**, fie pt. **cautari semantice** sau daca vreti, pt. oricare alt scop de **regasire**), aceste informatii trebuiesc extrase/prelevate/**regasite** de catre [**extractori**](https://python.langchain.com/v0.2/docs/integrations/retrievers/) specifici/specializati.
 
-As vrea sa mai reamintesc ca partea din RAG/Chatbot care este responsabila cu/de dialogul general sau comun este **Modelul LLM**.
+As vrea sa mai reamintesc si faptul ca, partea din [**RAG/Chatbot**](https://www.thediscoblog.com/extending-code-llama/) care este responsabila cu/de dialogul general sau comun este **Modelul LLM**.
 Adica **LLM**-ul este cel care primeste **intrebarea** si tot el formuleaza un **raspuns**(fie el mai general sau mai nuantat/specific).
 
 Bineinteles, de multe ori lucrurile nu stau asa cum ne dorim noi sau alteori ne dorim mai mult deci dorim optimizari/imbunatatiri, adaptari... :
