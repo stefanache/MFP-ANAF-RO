@@ -545,7 +545,7 @@ Uneori sau daca doriti sa evitati scrierea de cod si sa folositi varianta [descr
 </details>
  
 Puteti folosi [local](https://medium.com/@honeyricky1m3/graph-rag-local-with-ollama-a-powerful-tool-for-building-data-pipelines-783b62ef9533)(impreuna cu Ollama) o varianta de [RAG](https://microsoft.github.io/graphrag/posts/get_started/) mai avansata/abstractizata care automatizeaza(de-o maniera [descriptiva](https://github.com/stefanache/MFP-ANAF-RO/tree/main/python/LangFlow)) partea de contructie a conductei(pipe-line) de procesare 
-(o varietate de RAG pt cazul ingerarii automate de documente nestructurate): [Graph RAG](https://buttondown.com/ainews/archive/ainews-graphrag/)
+(o varietate de RAG pt cazul ingerarii automate de documente nestructurate): [Graph](https://medium.com/@samschifman/rag-on-fhir-with-knowledge-graphs-04d8e13ee96e) [RAG](https://buttondown.com/ainews/archive/ainews-graphrag/)
 
 Acest [produs](https://buttondown.com/ainews/archive/ainews-graphrag/) [Microsoft](https://www.53ai.com/news/RAG/2024071808762.html) [GraphRAG](https://www.unite.ai/ro/power-of-graph-rag-the-future-of-intelligent-search/) se integreaza cu [arhitecturile](https://www.aibase.com/tool/31763) bazate pe AI-paradigma [multi-agent](https://ai.gopubby.com/microsofts-graphrag-autogen-ollama-chainlit-fully-local-free-multi-agent-rag-superbot-61ad3759f06f)
 
