@@ -33,3 +33,7 @@ Nu uitati informatii oficiale despre serviciile web **ANAF** gasiti in articolul
 
 
 Pentru ***declaratii-ANAF*** consultati acest [depozit-ghithub](https://github.com/IncrementalCommunity/declaratii-anaf/tree/master)
+
+<hr/>
+
+[**Langchain**](https://github.com/langchain4j/langchain4j?tab=readme-ov-file) are si o versiune java(puteti vedea [**exemplele**](https://github.com/langchain4j/langchain4j-examples/tree/main/other-examples/src/main/java))
