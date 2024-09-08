@@ -217,5 +217,5 @@ In addition to the main mountain, there are several smaller mountains visible th
   
 Foarte interesente sunt si [**exemplele**](https://github.com/ggerganov/llama.cpp/blob/master/examples/llava/README.md) postate de catre cei de la Mozilla
 
-Din moment ce pe parte de client putem folosi Browser-ul ca si client REST, atunci pe cale de consecinta vom putea folosi si **cURL**.
-Asadar putem apela din CLI(cmd.exe) acest client **cURL** via batch [***_2.curl_cli.bat***](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/llamafile_llava/_2.curl_cli.bat), client ce utilizeaza, prin indirectare alte 2 fisiere text().
+Din moment c,e pe parte de client, putem folosi Browser-ul ca si client REST, atunci, pe cale de consecinta vom putea folosi si **cURL**.
+Asadar putem apela din CLI(cmd.exe) acest client **cURL** via batch [***_2.curl_cli.bat***](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/llamafile_llava/_2.curl_cli.bat), client ce utilizeaza, prin indirectare alte 2 fisiere text([*cli_rest_llama_cpp.txt*](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/llamafile_llava/cli_rest_llama_cpp.txt) si ).
