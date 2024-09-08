@@ -1,4 +1,4 @@
-Server-ul ***Ollama*** uneori s-a dovedit a fi prea lent. 
+Uneori server-ul ***Ollama***,  s-a dovedit a fi prea lent. 
 
 In plus, as fi dorit (**ceva**](https://github.com/Mozilla-Ocho/llamafile) specializat care sa-mi efectueze **descrierea imaginilor**. 
 
