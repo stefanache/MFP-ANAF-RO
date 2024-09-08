@@ -215,3 +215,4 @@ In addition to the main mountain, there are several smaller mountains visible th
 
 </details>
   
+Foarte interesente sunt si [**exemplele**](https://github.com/ggerganov/llama.cpp/blob/master/examples/llava/README.md) postate de catre cei de la Mozilla
