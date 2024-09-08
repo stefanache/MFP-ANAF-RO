@@ -1,0 +1,1 @@
+Aveti aici cateva URL-uri unde puteti gasi cateva comparatii pt servere dar si pt. LLM-uri.
