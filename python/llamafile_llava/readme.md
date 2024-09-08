@@ -1,8 +1,8 @@
 Server-ul ***Ollama*** uneori s-a dovedit a fi prea lent. 
 
-In plus, as fi dorit ceva specializat care sa-mi efectueze **descrierea imaginilor**. 
+In plus, as fi dorit (**ceva**](https://github.com/Mozilla-Ocho/llamafile) specializat care sa-mi efectueze **descrierea imaginilor**. 
 
-Asa ca am decis sa creez acest **workshop** cu serverul **llamafile** sub sistemul de operare ***Windows 10(Pro)***.
+Asa ca am decis sa creez acest **workshop** cu serverul [**llamafile**](https://github.com/Mozilla-Ocho/llamafile) sub sistemul de operare ***Windows 10(Pro)***.
 
 Despre [descarcarea fisierului](https://github.com/Mozilla-Ocho/llamafile): 
 
