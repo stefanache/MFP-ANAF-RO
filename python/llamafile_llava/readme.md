@@ -10,6 +10,11 @@ Despre [descarcarea fisierului](https://github.com/Mozilla-Ocho/llamafile):
 
 puteti citi [aici](https://python.langchain.com/v0.2/docs/integrations/llms/llamafile/)
 
+***Remarca:***
+
+As fi incarcat fisierul **llava-v1.5-7b-q4llamfile.exe** dar este foarte mare(cca 4GB) iar cei de la github nu permit incarcarea unui fisier mai mare de 25KB.
+
+
 Dupa descarcare/download-are, modificati/redenumiti extensia fisierului
 
  - din [**llava-v1.5-7b-q4.llamafile?download=true**](https://huggingface.co/Mozilla/llava-v1.5-7b-llamafile/resolve/main/llava-v1.5-7b-q4.llamafile?download=true) in **llava-v1.5-7b-q4llamfile.exe**
