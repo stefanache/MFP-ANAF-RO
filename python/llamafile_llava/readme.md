@@ -35,7 +35,7 @@ Asadar, pe partea de client, puteti folosi [**browser**](http://localhost:8080/)
 
 Clientul [**request_image.py**](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/llamafile_llava/request_image.py), va incarca imaginea [**vulcano.jpeg**](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/llamafile_llava/vulcano.jpeg), pe care o va descrie, conform intrebarii solicitate(de catre clientul **request_image.py**)
 
-<details><summary>Pe parte de server ar trebui sa aveti, in consola/fereastra server-ului, un dialog de forma:</summary>
+<details><summary> - pe parte de server ar trebui sa aveti, in consola/fereastra server-ului, un dialog de forma:</summary>
   
 https://github.com/Mozilla-Ocho/llamafile
 
@@ -198,7 +198,7 @@ encode_image_with_clip: image encoded in  5739.65 ms by CLIP (    9.96 ms per im
 
 </details>
 
-<details><summary>iar pe parte de client, ar trebui sa aveti, dupa ceva timp, in ferestra aferenta, un dialog de forma:</summary>
+<details><summary> - iar pe parte de client, ar trebui sa aveti, dupa ceva timp, in ferestra aferenta, un dialog de forma:</summary>
 
 https://gist.github.com/fullstackwebdev/3a34561a0c1d13db547c4c5f7a14e4b5
 the server llavafile(LLM=llava1.5, server bazat pe llama.cpp) must be in 'running' state
