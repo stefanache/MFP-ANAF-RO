@@ -16,6 +16,6 @@ Rularea server-ului se va face cu dublu-click pe fisierul [**_1.RUN_server.bat**
 
 Asteptati finalizarea incarcarii si rularii serverului ca mai apoi sa puteti folosi din Browser adresa **http://localhost:8080/** unde veti putea transmite mesaje. Apoi minimizati fereastra in bara dar nu o inchideti pt ca serverul trebuie sa ramana in functiune.
 
-Dupa ce aveti serverul llamafile in functiune puteti rula clientul dublu-clikand fisierul [**_2.RUN_client_request_image.bat**](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/llamafile_llava/_2.RUN_client_request_image.bat)
+Dupa ce aveti serverul llamafile in functiune puteti rula clientul dublu-clikand fisierul [**_2.RUN_client_request_image.bat**](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/llamafile_llava/_2.RUN_client_request_image.bat), care va rula [**request_image.py**](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/llamafile_llava/request_image.py)
 
-
+Clientul [**request_image.py**](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/llamafile_llava/request_image.py) va incarca imaginea **vulcano.jpeg**
