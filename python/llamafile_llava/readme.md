@@ -207,9 +207,10 @@ must be patient...
  The image is a beautifully drawn cartoon picture of an orange, fiery mountain with smoke billowing out from it. A river flows through the scene and appears to be on fire as well, creating a dramatic atmosphere in this artistic representation.
 
 In addition to the main mountain, there are several smaller mountains visible throughout the image, adding depth and complexity to the landscape. The cartoon-like style of the drawing gives it an animated feel, making it visually appealing for viewers.
+ 
  1. The main orange, fiery mountain with smoke billowing out from it: [0.26, 0.09, 0.58, 0.47]
-2. Smaller mountains in the background: [0.36, 0.18, 0.99, 0.47]
-3. The river flowing through the scene and appearing to be on fire as well: [0.15, 0.54, 0.92, 0.86]
+ 2. Smaller mountains in the background: [0.36, 0.18, 0.99, 0.47]
+ 3. The river flowing through the scene and appearing to be on fire as well: [0.15, 0.54, 0.92, 0.86]
 
 ...
 
