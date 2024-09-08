@@ -1,6 +1,6 @@
 Server-ul ***Ollama*** uneori s-a dovedit a fi prea lent. 
 
-In plus, as fi dorit ceva specializat in descrierea imaginilor. 
+In plus, as fi dorit ceva specializat care sa-mi efectueze **descrierea imaginilor**. 
 
 Asa ca am decis sa creez acest **workshop** cu serverul **llamafile** sub sistemul de operare ***Windows 10(Pro)***.
 
