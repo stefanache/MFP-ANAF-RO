@@ -4,6 +4,8 @@ In plus, as fi dorit (**ceva**](https://github.com/Mozilla-Ocho/llamafile) speci
 
 Asa ca am decis sa creez acest [**`workshop`**](https://github.com/Mozilla-Ocho/llamafile) cu serverul [**llamafile**](https://github.com/Mozilla-Ocho/llamafile) sub sistemul de operare ***Windows 10(Pro)***.
 
+Ca si model **LLM**, specializat in descrierea imaginilor, am optat pt. **llava versiunea 1.5**.
+
 Despre [descarcarea fisierului](https://github.com/Mozilla-Ocho/llamafile): 
 
   - [**llava-v1.5-7b-q4.llamafile?download=true**](https://huggingface.co/Mozilla/llava-v1.5-7b-llamafile/resolve/main/llava-v1.5-7b-q4.llamafile?download=true) 
