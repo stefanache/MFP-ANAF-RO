@@ -6,7 +6,7 @@ Asa ca am decis sa creez acest [**`CPU-workshop`**](https://github.com/Mozilla-O
 
 Ca si model **LLM**, specializat in descrierea imaginilor, am optat pt. **llava versiunea 1.5**.
 
-Cu alte cuvinte, pe partea de server,  **llamafile**(o combinatie de [***Llama.CPP***](https://github.com/ggerganov/llama.cpp) cu [**Cosmopolitan Libc**](https://github.com/jart/cosmopolitan)) va (de)servi ca si/drept model/LLM **llava**.
+Cu alte cuvinte, pe partea de server,  **llamafile**(o combinatie de [***LlaMa.CPP***](https://github.com/ggerganov/llama.cpp) cu [**Cosmopolitan Libc**](https://github.com/jart/cosmopolitan)) va (de)servi ca si/drept model/LLM **llava**.
 
 Despre [descarcarea fisierului](https://github.com/Mozilla-Ocho/llamafile): 
 
