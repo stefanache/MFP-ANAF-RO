@@ -35,9 +35,10 @@ Asadar, pe partea de client, puteti folosi [**browser**](http://localhost:8080/)
 
 Clientul [**request_image.py**](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/llamafile_llava/request_image.py), va incarca imaginea [**vulcano.jpeg**](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/llamafile_llava/vulcano.jpeg), pe care o va descrie, conform intrebarii solicitate(de catre clientul **request_image.py**)
 
-<details><summary>Pe parte de server ar trebui sa aveti un dialog de forma:</summary>
+<details><summary>Pe parte de server ar trebui sa aveti, in consola/fereastra server-ului, un dialog de forma:</summary>
   
 https://github.com/Mozilla-Ocho/llamafile
+
 - dupa descarcarea modelului llamafileva(interpreteaza si imagini), pe wgetindows 10(Pro), trebuie ...
 ... adaugata extensia .exe,...
 ... pt a deveni executabil!
@@ -195,4 +196,9 @@ encode_image_with_clip: image encoded in  5739.65 ms by CLIP (    9.96 ms per im
 
 ...
 
-<details>
+</details>
+
+<details><summary>iar pe parte de client, ar trebui sa aveti in ferestra aferenta, un dialog de forma:</summary>
+
+</details>
+  
