@@ -14,7 +14,7 @@ Dupa descarcare/download-are, modificati/redenumiti extensia fisierului din [**l
 
 Rularea server-ului se va face cu dublu-click pe fisierul **_1.RUN_server.bat** care va rula **app.py**
 
-Asteptati incarcarea serverului si apoi puteti folosi din Browser adresa **http://localhost:8080/** unde veti putea transmite mesaje. Apoi minimizati fereastra in bara dar nu o inchideti pt ca serverul trebuie sa ramana in functiune.
+Asteptati finalizarea incarcarii si rularii serverului ca mai apoi sa puteti folosi din Browser adresa **http://localhost:8080/** unde veti putea transmite mesaje. Apoi minimizati fereastra in bara dar nu o inchideti pt ca serverul trebuie sa ramana in functiune.
 
 Dupa ce aveti serverul llamafile in functiune puteti rula clientul dublu-clikand fisierul ****
 
