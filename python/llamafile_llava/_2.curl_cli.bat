@@ -1,6 +1,8 @@
 @echo off
 cls
 
+pip install json
+
 echo https://github.com/Mozilla-Ocho/llamafile
 
 curl http://localhost:8080/v1/chat/completions ^
