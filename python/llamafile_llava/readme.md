@@ -6,6 +6,8 @@ Asa ca am decis sa creez acest [**`workshop`**](https://github.com/Mozilla-Ocho/
 
 Ca si model **LLM**, specializat in descrierea imaginilor, am optat pt. **llava versiunea 1.5**.
 
+Cu alte cuvinte pe partea de server **llamafile** va (de)servi ca model/LLM **llava**.
+
 Despre [descarcarea fisierului](https://github.com/Mozilla-Ocho/llamafile): 
 
   - [**llava-v1.5-7b-q4.llamafile?download=true**](https://huggingface.co/Mozilla/llava-v1.5-7b-llamafile/resolve/main/llava-v1.5-7b-q4.llamafile?download=true) 
@@ -28,5 +30,7 @@ Rularea server-ului se va face cu dublu-click pe fisierul [**_1.RUN_server.bat**
 Asteptati finalizarea incarcarii si rularii serverului ca mai apoi sa puteti folosi din Browser adresa **http://localhost:8080/** unde veti putea transmite mesaje. Apoi minimizati fereastra in bara dar nu o inchideti pt ca serverul trebuie sa ramana in functiune.
 
 Dupa ce aveti serverul llamafile in functiune puteti rula clientul dublu-clikand fisierul [**_2.RUN_client_request_image.bat**](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/llamafile_llava/_2.RUN_client_request_image.bat), care va rula [**request_image.py**](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/llamafile_llava/request_image.py)
+
+Asadar, pe partea de client, puteti folosi **browser**-ul ori puteti scrie unul/de ce nu mai multi clienti, in variate limbaje(eu am ales sa raman totusi la varianta **python**)
 
 Clientul [**request_image.py**](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/llamafile_llava/request_image.py), va incarca imaginea [**vulcano.jpeg**](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/llamafile_llava/vulcano.jpeg), pe care o va descrie, conform intrebarii solicitate(de catre clientul **request_image.py**)
