@@ -12,7 +12,7 @@ puteti citi [aici](https://python.langchain.com/v0.2/docs/integrations/llms/llam
 
 ***Remarca:***
 
-As fi incarcat fisierul **llava-v1.5-7b-q4llamfile.exe** dar este foarte mare(cca 4GB) iar cei de la github nu permit incarcarea unui fisier mai mare de 25KB.
+As fi incarcat fisierul **llava-v1.5-7b-q4llamfile.exe** dar este foarte mare(cca ***4GB***) iar cei de la github nu permit incarcarea unui fisier mai mare de ***25MB***.
 
 
 Dupa descarcare/download-are, modificati/redenumiti extensia fisierului
