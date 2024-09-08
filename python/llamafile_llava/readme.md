@@ -12,7 +12,7 @@ puteti citi [aici](https://python.langchain.com/v0.2/docs/integrations/llms/llam
 
 Dupa descarcare/download-are, modificati/redenumiti extensia fisierului din [**llava-v1.5-7b-q4.llamafile?download=true**](https://huggingface.co/Mozilla/llava-v1.5-7b-llamafile/resolve/main/llava-v1.5-7b-q4.llamafile?download=true) in **llava-v1.5-7b-q4llamfile.exe** pt a deveni/a fi recunoscut ca executabil de catre sistemul windows.
 
-Rularea server-ului se va face cu dublu-click pe fisierul **_1.RUN_server.bat** care va rula **app.py**
+Rularea server-ului se va face cu dublu-click pe fisierul [**_1.RUN_server.bat**](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/llamafile_llava/_1.RUN_server.bat) care va rula **app.py**
 
 Asteptati finalizarea incarcarii si rularii serverului ca mai apoi sa puteti folosi din Browser adresa **http://localhost:8080/** unde veti putea transmite mesaje. Apoi minimizati fereastra in bara dar nu o inchideti pt ca serverul trebuie sa ramana in functiune.
 
