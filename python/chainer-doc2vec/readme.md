@@ -71,9 +71,9 @@ Aceste modele formează coloana vertebrală a aplicațiilor NLP și permit mași
 În această parte, explorăm diverse modele de încorporare, fiecare oferind metode și capabilități distincte.
 
 <b>Înglobare de cuvinte</b>
- - <b>Word2Vec</b>: Utilizează încorporarea cuvintelor, captând semnificațiile semantice ale cuvintelor într-un spațiu vectorial.
- - <b>GloVe</b> (Global Vectors for Word Representation): Învață vectorii de cuvinte prin factorizarea logaritmului matricei de
-   co-ocurență a cuvintelor.
+-<b>Word2Vec</b>: Utilizează încorporarea cuvintelor, captând semnificațiile semantice ale cuvintelor într-un spațiu vectorial.
+-<b>GloVe</b> (Global Vectors for Word Representation): Învață vectorii de cuvinte prin factorizarea logaritmului matricei de
+  co-ocurență a cuvintelor.
 
 <b>Modele lingvistice pre-instruite</b>
  - <b>BERT</b> (Bidirectional Encoder Representations from Transformers): extrage înglobări contextualizate pentru cuvinte sau propoziții.
