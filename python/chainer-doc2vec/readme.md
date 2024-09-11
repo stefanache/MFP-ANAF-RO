@@ -81,7 +81,7 @@ Aceste modele formează coloana vertebrală a aplicațiilor NLP și permit mași
  - <b>Doc2Vec</b>: Învață încorporarea la nivel de document.
  - <b>Sentence Transformers</b>: se concentrează pe încorporarea propozițiilor, utilizând modele de transformatoare pre-antrenate,
    cum ar fi <b>BERT</b> sau <b>RoBERTa</b>, pentru încorporarea propozițiilor.
-<b>biblioteca FAISS</b>
+<br/><b>biblioteca FAISS</b>
 FAISS, care înseamnă Facebook AI Similarity Search, este o bibliotecă open-source dezvoltată de Facebook AI Research. 
 Este conceput pentru a efectua eficient căutarea de similaritate și gruparea seturi de date la scară mare, în special în 
 contextul vectorilor cu dimensiuni mari.
