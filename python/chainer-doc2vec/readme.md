@@ -81,8 +81,8 @@ Aceste modele formează coloana vertebrală a aplicațiilor NLP și permit mași
 -<b>XLNet</b>: Un model bazat pe transformator care utilizează modelarea limbajului bazat pe permutare.
 
 <b>Modele de încorporare personalizate</b>
-<b>Doc2Vec</b>: Învață încorporarea la nivel de document.
-<b>Sentence Transformers</b>: se concentrează pe încorporarea propozițiilor, utilizând modele de transformatoare pre-antrenate,
+-<b>Doc2Vec</b>: Învață încorporarea la nivel de document.
+-<b>Sentence Transformers</b>: se concentrează pe încorporarea propozițiilor, utilizând modele de transformatoare pre-antrenate,
    cum ar fi <b>BERT</b> sau <b>RoBERTa</b>, pentru încorporarea propozițiilor.
 
 <b>biblioteca FAISS</b>
