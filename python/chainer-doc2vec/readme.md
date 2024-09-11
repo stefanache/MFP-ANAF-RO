@@ -67,7 +67,8 @@ Acest **trainer**(<i>antrenor/invatator</i>) ce inglobeaza documente(document em
 
 Daca rulati batch-ul [***_RUN.bat***](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/chainer-doc2vec/_RUN.bat) veti putea obtine in consola urmatoarele ...
 <details><summary>...mesaje:</summary>
- https://github.com/monthly-hack/chainer-doc2vec/tree/master
+ 
+ <br/>https://github.com/monthly-hack/chainer-doc2vec/tree/master
 must be patient...if have not more resources like GPU....
 GPU: -1
 # unit: 200
@@ -159,6 +160,7 @@ this epoch [#########.........................................] 18.01%
 20          139796
 
 Press any key to continue . . .
+<br/>
 </details>
 
 
