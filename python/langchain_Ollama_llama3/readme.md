@@ -47,7 +47,7 @@ To start the LangChain-Ollama application, navigate to the directory containing 
 
 [**python Langchain_Ollama_llama3.py**](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/langchain_Ollama_llama3/Langchain_Ollama_llama3.py)
 
-***Remark about Langchain***: please consult that [**chart**](https://medium.com/@bijit211987/llm-driven-applications-with-langchain-abstraction-4907a32bdfb0)!
+***Remarca despre Langchain***: please consult that [**chart**](https://medium.com/@bijit211987/llm-driven-applications-with-langchain-abstraction-4907a32bdfb0)!
 
 <hr/>
 
@@ -67,7 +67,7 @@ If you'd prefer to run the application in a Docker container, follow these steps
 ***Observatie:***
 
 <i>Mie codul original nu mi-a functionat asa ca am folosit **ChatGPT** in mod repetat pana ce mi-a corectat codul!
- Este totusi un proces plictisitor **:)** !!!!</i>
+ (<small>este totusi un proces plictisitor **:)** !!!!</small>)</i>
 
 Modelul LLM utilizat este [**llama3**](https://llama.meta.com/)
 
