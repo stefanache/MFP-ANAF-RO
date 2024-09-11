@@ -86,8 +86,7 @@ cand vreti sa porniti serverul folositi comanda :
 
 **ollama serve**  
 
-***OBS:*** 
-
+***OBS:***<br/>
 *(nu este absolut necesar sa precizati un model LLM pe care sa-l incarce initial...
   serverul il va incarca in mod automat atunci cand in codul python il invocati)*
 
