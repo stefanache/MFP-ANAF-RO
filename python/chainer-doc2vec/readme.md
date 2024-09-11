@@ -24,7 +24,9 @@ din bucăți de text cu lungime variabilă, cum ar fi:<br/>
 
     - propoziții, 
     - paragrafe și 
-     - documente).
+     - documente
+
+   ).
        
 <br/>Algoritmul nostru reprezintă fiecare document, printr-un vector care este antrenat să prezică 
 cuvintele din document. Construcția sa conferă algoritmului nostru
