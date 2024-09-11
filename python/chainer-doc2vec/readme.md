@@ -75,6 +75,7 @@ Există o gamă diversă de modele de încorporare care joacă un rol esențial 
 <b>Înglobare de cuvinte</b>
  - Word2Vec: Utilizează încorporarea cuvintelor, captând semnificațiile semantice ale cuvintelor într-un spațiu vectorial.
  - GloVe (Global Vectors for Word Representation): Învață vectorii de cuvinte prin factorizarea logaritmului matricei de co-ocurență a cuvintelor.
+
 Modele lingvistice pre-instruite
 BERT (Bidirectional Encoder Representations from Transformers): extrage înglobări contextualizate pentru cuvinte sau propoziții.
 GPT (Generative Pre-Trained Transformer): generează înglobări folosind învățarea nesupravegheată pe un corpus mare.
