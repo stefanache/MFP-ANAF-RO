@@ -8,7 +8,7 @@ Inainte de toate sa vorbim de protagonistii acestui ***workshop***:
    
  - [**Ollama**](https://ollama.com/) si [**llama3**](https://en.wikipedia.org/wiki/Llama_(language_model)) - **Ollama** este un server ce poate fi instalat pe mia toate sistemele de operare importante(cross-platform) si care are drept scop livrarea modelelor mari de limbaj(cum este si LLM=**llama3**)
    
-Am creat un fisier de executie/shell/batch denumit [**_Run.bat**](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/langchain_Ollama_llama3/_Run.bat) pt a simplifica procesul de instalare si rulare
+Pe acest workshop , am creat un fisier de executie/shell/batch denumit [**_Run.bat**](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/langchain_Ollama_llama3/_Run.bat) pt a simplifica procesul de instalare si rulare
 
 (liniile comentate cu **rem** se decomenteaza pt a fi rulate o singura data si apoi se recomentreaza!)
 
