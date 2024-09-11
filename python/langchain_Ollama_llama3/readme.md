@@ -93,14 +93,14 @@ Pt a stii daca serverul lucreaza deschideti un browser(ex. Chrome) si vizualizat
 [**http://localhost:11434**](http://localhost:11434)
 
 
-Desigur toate aceste comenzi CLI/shell care se refera la serverul **Ollama** vor funciona doar dupa ce in prealabil ati 
+Desigur toate aceste comenzi CLI/shell care se refera la serverul **Ollama** vor functiona doar dupa ce in prealabil ati 
 descarcat si instalat local serverul **Olama** corespunzator sistemului dvs de operare(in cazul meu **Windows 10 Pro**)
 
 Adresa de decarcare a acestui server care va furniza diversele modele LLM pe care le utilizati este urmatoarea:
 
 [**https://ollama.com/download/windows**](https://ollama.com/download/windows)
 
-O mostra de dialog cu acest ***Chatbot*** este furnizat in fisierul ***exemplu_dialog.txt***.
+O mostra de dialog cu acest [***Chatbot***](https://towardsdatascience.com/4-ways-of-question-answering-in-langchain-188c6707cc5a) este furnizat in fisierul ***exemplu_dialog.txt***.
 
 Daca vreti sa folositi serverul local **Ollama** si un **LLM**(cum ar fi [**llama**](https://github.com/lawwu/awesome-llamas),...) intr-o *alta sarcina*(alta decat simplul dialog de tip *QA*), spre exemplu de [**incadrare pe categorii**](https://github.com/Sachin2495/langchain/tree/main) puteti folosi acest [repos](https://github.com/Sachin2495/langchain/tree/main), ori [**semantic-code-search** - in codebase](https://github.com/fynnfluegge/codeqai)(cda CLI/cmd.exe: **codeqai search**), sau [**financial advisor**](https://medium.com/@renjuhere/llama-3-as-your-financial-advisor-8904a2673f2c), [**AI-audit financiar**](https://auditfinanciar.cafr.ro/wp-content/uploads/2024/07/AF-3-2024-Site.pdf) si multe altele...
 
