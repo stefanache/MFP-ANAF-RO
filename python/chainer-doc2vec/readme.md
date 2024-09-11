@@ -8,7 +8,7 @@ Acest depozit implementeaza un [**trainer-doc2vec**](https://github.com/stefanac
 
 <details><summary>Iata cateva consideratii, plasate in paragraful de debut al publicatiei, intitulat <b>Abstract</b>(<i>generalitati</b>):</summary>
 
-Mulți algoritmi de învățare automată(**ML**) necesită ca intrarea sa fie reprezentată ca o caracteristică vectoriala de lungime fixă. 
+<br/>Mulți algoritmi de învățare automată(**ML**) necesită ca intrarea sa fie reprezentată ca o caracteristică vectoriala de lungime fixă. 
 
 Când vine vorba de texte, una dintre cele mai comune caracteristici de lungime fixă sunt bag-ul(punga/sac) de cuvinte(eng.**BoW**).
 
@@ -41,7 +41,7 @@ precum și alte tehnici de reprezentare a textului <br/>În cele din urmă, se p
 
 <details><summary>De asemenea, iata cateva alte consideratii, publicate in zona rezervata <b>Discutiei</b> finale(capitolul <i>5.</i>) ale aceluiasi articol:</summary>
 
-Am vazut in PDF-ul ***arxiv*** cum învățarea nesupravegheată, <b>Paragraf-Vector</b>, algoritm care învață(reprezentări vectoriale) din
+<br/>Am vazut in PDF-ul ***arxiv*** cum învățarea nesupravegheată, <b>Paragraf-Vector</b>, algoritm care învață(reprezentări vectoriale) din
 bucăți de text de o lungime variabila, cum ar fi propoziții și documente.
 
 Reprezentările vectoriale sunt învățate pentru a prezice cuvintele(aproximativ corect) în contexte eșantionate din paragraf.
