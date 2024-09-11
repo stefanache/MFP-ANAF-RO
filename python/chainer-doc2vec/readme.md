@@ -18,19 +18,21 @@ au două slăbiciuni majore:
  - ignoră semantica cuvintelor. 
 <br/>De exemplu, "puternic", "puternic"
 și "Paris" sunt la fel de îndepărtate ca importanta(ma refer la distanta de similaritate, daca vreti...). 
-În această lucrare, se propune Paragraf-Vector, un algoritm nesupravegheat
+<br/>În această lucrare, se propune Paragraf-Vector, un algoritm nesupravegheat
 care învață o caracteristică de lungime fixă reprezentata-
-din bucăți de text cu lungime variabilă, cum ar fi
+din bucăți de text cu lungime variabilă, cum ar fi:<br/>
  - propoziții, 
  - paragrafe și 
  - documente. 
-Algoritmul nostru reprezintă fiecare document, printr-un vector care este antrenat să prezică 
+<br/>Algoritmul nostru reprezintă fiecare document, printr-un vector care este antrenat să prezică 
 cuvintele din document. Construcția sa conferă algoritmului nostru
 potențialul de a depăși punctele slabe ale modele de cuvinte. 
-Rezultatele empirice arată că Paragraf-Vectorii grafici depășesc modelele de sac de cuvinte
+<br/>Rezultatele empirice arată că Paragraf-Vectorii grafici depășesc modelele de sac de cuvinte
 precum și alte tehnici de reprezentare a textului În cele din urmă, realizăm noi re-
-rezultate pe mai multe sarcini de analiză a textului, cum ar fi clasificări și naliza sentimentelor
-.
+rezultate pe mai multe sarcini de analiză a textului, cum ar fi
+ - clasificări și
+ - analiza sentimentelor(SA).
+
 </details>
 
 <details><summary>De asemenea, iata cateva alte consideratii, publicate in zona rezervata <b>Discutiei</b> finale(capitolul <i>5.</i>) ale aceluiasi articol:</summary>
