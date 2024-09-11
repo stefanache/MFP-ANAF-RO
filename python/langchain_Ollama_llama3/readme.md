@@ -97,7 +97,7 @@ Pentru a stii daca serverul Ollama lucreaza, deschideti un browser(ex. Chrome) s
 
 
 Desigur toate aceste comenzi CLI/shell care se refera la serverul **Ollama** vor functiona doar dupa ce in prealabil ati 
-descarcat si instalat local serverul **Olama** corespunzator sistemului dvs de operare(in cazul meu **Windows 10 Pro**)
+descarcat si instalat local(*nu are nevoie de legatura la internet!*) serverul **Olama** corespunzator sistemului dvs de operare(in cazul meu **Windows 10 Pro**)
 
 Adresa de decarcare a acestui server care va furniza diversele modele LLM pe care le utilizati este urmatoarea:
 
