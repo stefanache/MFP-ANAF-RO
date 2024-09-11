@@ -1,5 +1,5 @@
 <details><summary><h3><b></b><a href="https://ridgeant-com.translate.goog/blogs/langchain-embedding/?_x_tr_sl=en&_x_tr_tl=ro&_x_tr_hl=ro&_x_tr_pto=sc">Doc2Vec</a></b>(Paragraph-Vector) - extensie a <b></b><a href="https://ridgeant-com.translate.goog/blogs/langchain-embedding/?_x_tr_sl=en&_x_tr_tl=ro&_x_tr_hl=ro&_x_tr_pto=sc">Word2Vec</a></b></h3></summary>
-<br/><hr/>
+<br/><hr/><pre>
 Încorporarea LangChain: o scufundare în proces
 ML și AI , inteligență artificială , învățare automată
 6 februarie 2024
@@ -88,7 +88,7 @@ LangChain Embeddings se mândrește cu o serie de caracteristici cheie care îmb
 Asigurând eficiența, LangChain încorporează caracteristici precum setările de timeout și gestionarea limitelor de rată, garantând o utilizare fără întreruperi a API-ului. Mai mult, platforma acordă prioritate fiabilității cu mecanisme de gestionare a erorilor încorporate, permițându-i să reîncerce automat o solicitare de până la 6 ori în cazul unei erori API, consolidându-și performanța robustă.
 
 De la analize complexe de date la chatbot-uri captivante, AI a revoluționat diverse domenii. Servind drept coloană vertebrală pentru numeroase soluții de inteligență artificială , modelele lingvistice mari (LLM) permit interacțiunile umane, cu ușurință în utilizare și intuitivitate.
-<br/><hr/>
+</pre><br/><hr/>
 </details>
 
  In acest [**workshop**](https://github.com/stefanache/MFP-ANAF-RO/tree/main/python/chainer-doc2vec) vom antrena un model **doc2vec** utilizand [chainer](https://docs.chainer.org/en/stable/).
