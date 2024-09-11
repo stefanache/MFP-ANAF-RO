@@ -147,8 +147,7 @@ potențialul de a depăși punctele slabe ale modele de cuvinte(**BoW**).
 precum și alte tehnici de reprezentare a textului <br/>În cele din urmă, se pot realiza noi rezultate, pe mai multe sarcini de analiză a textului, cum ar fi
 
    - clasificări și
-   - analiza sentimentelor(SA).
-<hr/>
+   - analiza sentimentelor(SA).<hr/>
 </details>
 
 <details><summary>De asemenea, iata cateva alte consideratii, publicate in zona rezervata <b>Discutiei</b> finale(capitolul <i>5.</i>), ale aceluiasi articol:</summary>
