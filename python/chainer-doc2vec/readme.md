@@ -79,21 +79,21 @@ Aceste modele formează coloana vertebrală a aplicațiilor NLP și permit mași
  - <b>XLNet</b>: Un model bazat pe transformator care utilizează modelarea limbajului bazat pe permutare.
 <br/><b>Modele de încorporare personalizate</b>
  - <b>Doc2Vec</b>: Învață încorporarea la nivel de document.
- - <b>Sentence Transformers</b>: se concentrează pe încorporarea propozițiilor, utilizând modele de transformatoare pre-antrenate, cum ar fi 
- <b>BERT</b> sau <b>RoBERTa</b>, pentru încorporarea propozițiilor.
+ - <b>Sentence Transformers</b>: se concentrează pe încorporarea propozițiilor, utilizând modele de transformatoare pre-antrenate,
+   cum ar fi <b>BERT</b> sau <b>RoBERTa</b>, pentru încorporarea propozițiilor.
 <b>biblioteca FAISS</b>
 FAISS, care înseamnă Facebook AI Similarity Search, este o bibliotecă open-source dezvoltată de Facebook AI Research. 
 Este conceput pentru a efectua eficient căutarea de similaritate și gruparea seturi de date la scară mare, în special în 
 contextul vectorilor cu dimensiuni mari.
 <b>LangChain Embeddings: un pilon fundamental al cadrului AI</b>
 LangChain Embeddings se mândrește cu o serie de caracteristici cheie care îmbunătățesc experiența generală a utilizatorului. 
-Versatilitatea platformei strălucește prin compatibilitatea cu diverși furnizori de modele, oferind utilizatorilor libertatea de a-l selecta pe
-cel care se aliniază cerințelor lor specifice.
+Versatilitatea platformei strălucește prin compatibilitatea cu diverși furnizori de modele, oferind utilizatorilor libertatea de a-l
+selecta pe cel care se aliniază cerințelor lor specifice.
 
-Asigurând eficiența, LangChain încorporează caracteristici precum setările de timeout și gestionarea limitelor de rată, garantând o utilizare fără 
-întreruperi a API-ului. 
-Mai mult, platforma acordă prioritate fiabilității cu mecanisme de gestionare a erorilor încorporate, permițându-i să reîncerce automat o solicitare 
-de până la 6 ori în cazul unei erori API, consolidându-și performanța robustă.
+Asigurând eficiența, LangChain încorporează caracteristici precum setările de timeout și gestionarea limitelor de rată, 
+garantând o utilizare fără întreruperi a API-ului. 
+Mai mult, platforma acordă prioritate fiabilității cu mecanisme de gestionare a erorilor încorporate, permițându-i să reîncerce automat o 
+solicitare de până la 6 ori în cazul unei erori API, consolidându-și performanța robustă.
 
 De la analize complexe de date la chatbot-uri captivante, AI a revoluționat diverse domenii. 
 Servind drept coloană vertebrală pentru numeroase soluții de inteligență artificială , modelele lingvistice mari (LLM) permit interacțiunile umane, 
