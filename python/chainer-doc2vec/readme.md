@@ -15,7 +15,8 @@ LangChain este un cadru open-source pentru dezvoltarea de aplicații bazate pe m
 LangChain, funcționând ca un cadru pentru integrarea modelelor de limbaj, împărtășește o mare parte în comun cu aplicațiile de 
 model de limbaj general. 
 Aceste aplicații includ analiza și rezumarea documentelor, <a href="https://ridgeant-com.translate.goog/blogs/llm-for-chatbot-design/?_x_tr_sl=en&_x_tr_tl=ro&_x_tr_hl=ro&_x_tr_pto=sc">dezvoltarea chatbot</a> , precum și analiza codului.
-LangChain oferă toate instrumentele și integrările pentru construirea de aplicații LLM, inclusiv încărcarea, încorporarea și stocarea documentelor. 
+LangChain oferă toate instrumentele și integrările pentru construirea de aplicații LLM, inclusiv încărcarea, încorporarea și 
+stocarea documentelor. 
 Oferă o interfață standard pentru lanțuri, o mulțime de integrări cu alte instrumente și lanțuri end-to-end pentru aplicații comune.
 
 <b>Cum eficientizează LangChain înglobările?</b>
