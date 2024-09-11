@@ -29,10 +29,11 @@ Acești furnizori oferă o gamă de modele pre-instruite care pot fi utilizate p
 De exemplu, GPT-3 de la OpenAI este un model de limbaj de ultimă generație, antrenat pe o cantitate masivă de date text. 
 Modelele de încorporare Cohere sunt concepute pentru a fi extrem de precise și eficiente, cu accent pe reducerea cantității de date 
 necesare pentru antrenament. 
-Hugging Face oferă o gamă largă de modele pre-antrenate, inclusiv BERT, RoBERTa și GPT-2, care pot fi reglate fin pentru sarcini specifice NLP.
+Hugging Face oferă o gamă largă de modele pre-antrenate, inclusiv BERT, RoBERTa și GPT-2, care pot fi reglate fin pentru sarcini 
+specifice NLP.
 În LangChain, aceste modele au capacitatea de a produce încorporare atât pentru interogări, cât și pentru documente. 
-Când o interogare este supusă încorporarii, șirul de text este convertit într-o matrice de valori numerice, fiecare valoare reprezentând o 
-dimensiune în spațiul de încorporare. 
+Când o interogare este supusă încorporarii, șirul de text este convertit într-o matrice de valori numerice, fiecare valoare reprezentând 
+o dimensiune în spațiul de încorporare. 
 Pentru documente, funcția embedDocuments acceptă o matrice de șiruri de text și returnează o matrice a înglobărilor respective.
 Să vedem cum funcționează:
 
@@ -50,7 +51,8 @@ Tokenizați textul folosind biblioteci precum NLTK sau
 Efectuați curățarea și normalizarea textului.
 
 Pasul 3: <b>Încorporarea generației</b>
-Utilizați modelul RAG pentru a genera înglobări. (Modelul RAG este un tip de model de limbaj care combină elemente atât de regăsire, cât și de generare în sarcinile de procesare a limbajului natural)
+Utilizați modelul RAG pentru a genera înglobări. 
+(Modelul RAG este un tip de model de limbaj care combină elemente atât de regăsire, cât și de generare în sarcinile de procesare a limbajului natural)
 Acest proces de regăsire ajută la identificarea și colectarea informațiilor pertinente legate de contextul dat.
 Aici, „generare” se referă la procesul de creare a unui text sau a unui conținut asemănător omului folosind modele de învățare automată. 
 Acestea includ propoziții, paragrafe sau fragmente mai lungi de text care imită limbajul uman.
@@ -88,7 +90,8 @@ Versatilitatea platformei strălucește prin compatibilitatea cu diverși furniz
 Asigurând eficiența, LangChain încorporează caracteristici precum setările de timeout și gestionarea limitelor de rată, garantând o utilizare fără întreruperi a API-ului. 
 Mai mult, platforma acordă prioritate fiabilității cu mecanisme de gestionare a erorilor încorporate, permițându-i să reîncerce automat o solicitare de până la 6 ori în cazul unei erori API, consolidându-și performanța robustă.
 
-De la analize complexe de date la chatbot-uri captivante, AI a revoluționat diverse domenii. Servind drept coloană vertebrală pentru numeroase soluții de inteligență artificială , modelele lingvistice mari (LLM) permit interacțiunile umane, cu ușurință în utilizare și intuitivitate.
+De la analize complexe de date la chatbot-uri captivante, AI a revoluționat diverse domenii. 
+Servind drept coloană vertebrală pentru numeroase soluții de inteligență artificială , modelele lingvistice mari (LLM) permit interacțiunile umane, cu ușurință în utilizare și intuitivitate.
 </pre><br/><hr/>
 </details>
 
