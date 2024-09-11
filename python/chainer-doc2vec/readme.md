@@ -24,7 +24,7 @@ de bucăți de text cu lungime variabilă, cum ar fi:<br/>
 
     - propoziții, 
     - paragrafe și 
-     - documente
+    - documente
 
    ).
        
