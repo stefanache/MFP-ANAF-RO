@@ -37,9 +37,9 @@ Before running, ensure that the Ollama server is up and running.
 
 This application interacts with Ollama to generate responses.
 
-To start the LangChain-Ollama application, navigate to the directory containing **Langchain_Ollama_llama3.py** and run:
+To start the LangChain-Ollama application, navigate to the directory containing [**Langchain_Ollama_llama3.py**](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/langchain_Ollama_llama3/Langchain_Ollama_llama3.py) and run:
 
-**python Langchain_Ollama_llama3.py**
+[**python Langchain_Ollama_llama3.py**](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/langchain_Ollama_llama3/Langchain_Ollama_llama3.py)
 
 ***Remark about Langchain***: please consult that [**chart**](https://medium.com/@bijit211987/llm-driven-applications-with-langchain-abstraction-4907a32bdfb0)!
 
