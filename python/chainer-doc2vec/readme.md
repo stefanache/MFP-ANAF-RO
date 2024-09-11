@@ -36,7 +36,6 @@ Când o interogare este supusă încorporarii, șirul de text este convertit în
 reprezentând o dimensiune în spațiul de încorporare. 
 Pentru documente, funcția embedDocuments acceptă o matrice de șiruri de text și returnează o matrice a înglobărilor respective.
 Să vedem cum funcționează:
-
 Pasul 1: <b>Preprocesarea datelor</b>
 -Pentru PDF-uri:
 Extrageți text din PDF-uri folosind PyPDF2, biblioteca PyMuPDF.
@@ -49,7 +48,6 @@ prelucrarea datelor LongChain Embedding
 Pasul 2: <b>Procesarea textului</b>
 Tokenizați textul folosind biblioteci precum NLTK sau
 Efectuați curățarea și normalizarea textului.
-
 Pasul 3: <b>Încorporarea generației</b>
 Utilizați modelul RAG pentru a genera înglobări. 
 (Modelul RAG este un tip de model de limbaj care combină elemente atât de regăsire, cât și de generare în sarcinile de procesare a limbajului natural)
