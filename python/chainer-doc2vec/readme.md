@@ -65,8 +65,8 @@ terte-date. <br/>În domeniile ***non-text***(ex. imagini ce pot contine text-gr
 
 Acest **trainer**(<i>antrenor/invatator</i>) ce inglobeaza documente(document embedding), poate fi privit ca implementand modelul **doc2vec**(**DRSD**, <small><i>Distributed Representations of Sentences and Documents</i></small>) si poate rula atat pe **CPU** cat si pe ***GPU***(caz in care obtineti viteze de rulare semnificativ imbunatatite)<br/>
 
-Daca rulati batch-ul ***_RUN.bat*** veti putea obtine in consola urmatoarele mesaje:
-<details>
+Daca rulati batch-ul ***_RUN.bat*** veti putea obtine in consola urmatoarele ...
+<details><summary>...mesaje:</summary>
  https://github.com/monthly-hack/chainer-doc2vec/tree/master
 must be patient...if have not more resources like GPU....
 GPU: -1
