@@ -19,7 +19,7 @@ au două slăbiciuni majore:
 <br/>De exemplu, "puternic", "puternic"
 și "Paris" sunt la fel de îndepărtate ca importanta(ma refer la distanta de similaritate, daca vreti...). 
 <br/>În această lucrare, se propune Paragraf-Vector, un algoritm nesupravegheat
-care învață o caracteristică de lungime fixă(reprezentata-
+care învață o caracteristică de lungime fixă<br/>(reprezentata-
 din bucăți de text cu lungime variabilă, cum ar fi:<br/>
 
     - propoziții, 
