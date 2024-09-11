@@ -146,6 +146,3 @@ Mai Trebuie spus insa si faptul ca aceste [produse-SW](https://github.com/gkamra
 
 
 Oricum [AI/ML/NLP-generative](https://www.koyeb.com/tutorials/using-langserve-to-build-rest-apis-for-langchain-applications)(a se vedea RAG) a provocat daca vreti o adevarata AI-revolutie in mai toate [domeniile](https://www.blueprism.com/resources/blog/generative-ai-equity-research-langchain/) fie ele economice sau sociale.
-
-Desigur, odata ce ati antrenat un astfel de model, il puteti salva intr-un fisier(de tip **.model**) si opi il puteti testa sau il puteti folosi ori de cate ori aveti nevoie de el in predictie(ca si model **generative-AI**).
-in predictie
