@@ -1,4 +1,95 @@
-<h3><b></b><a href="https://ridgeant-com.translate.goog/blogs/langchain-embedding/?_x_tr_sl=en&_x_tr_tl=ro&_x_tr_hl=ro&_x_tr_pto=sc">Doc2Vec</a></b>(Paragraph-Vector) - extensie a <b></b><a href="https://ridgeant-com.translate.goog/blogs/langchain-embedding/?_x_tr_sl=en&_x_tr_tl=ro&_x_tr_hl=ro&_x_tr_pto=sc">Word2Vec</a></b></h3>
+<details><summary><h3><b></b><a href="https://ridgeant-com.translate.goog/blogs/langchain-embedding/?_x_tr_sl=en&_x_tr_tl=ro&_x_tr_hl=ro&_x_tr_pto=sc">Doc2Vec</a></b>(Paragraph-Vector) - extensie a <b></b><a href="https://ridgeant-com.translate.goog/blogs/langchain-embedding/?_x_tr_sl=en&_x_tr_tl=ro&_x_tr_hl=ro&_x_tr_pto=sc">Word2Vec</a></b></h3></summary>
+<br/><hr/>
+Încorporarea LangChain: o scufundare în proces
+ML și AI , inteligență artificială , învățare automată
+6 februarie 2024
+Ridgeant
+Încorporarea LangChain
+Procesarea limbajului natural (NLP) este arta și știința de a permite mașinilor să înțeleagă și să interacționeze cu limbajul uman.
+
+În domeniul procesării limbajului natural (NLP), încorporarea textului este un proces crucial.
+
+Încorporarea textului se referă la procesul de conversie a cuvintelor sau expresiilor în vectori numerici, permițând mașinilor să înțeleagă și să proceseze limbajul într-o formă matematică.
+
+Această transformare facilitează diverse sarcini NLP, cum ar fi analiza sentimentelor , traducerea automată și gruparea documentelor, prin captarea relațiilor semantice și a contextului în datele textuale.
+
+În acest articol, vom vorbi despre procesul de încorporare LangChain și despre cum este gata să transforme viitorul NLP.
+
+Ce este mai exact LangChain?
+
+LangChain este un cadru open-source pentru dezvoltarea de aplicații bazate pe modele de limbaj.
+
+LangChain, funcționând ca un cadru pentru integrarea modelelor de limbaj, împărtășește o mare parte în comun cu aplicațiile de model de limbaj general. Aceste aplicații includ analiza și rezumarea documentelor, dezvoltarea chatbot , precum și analiza codului.
+
+LangChain oferă toate instrumentele și integrările pentru construirea de aplicații LLM, inclusiv încărcarea, încorporarea și stocarea documentelor. Oferă o interfață standard pentru lanțuri, o mulțime de integrări cu alte instrumente și lanțuri end-to-end pentru aplicații comune.
+
+Cum eficientizează LangChain înglobările?
+
+LangChain eficientizează procesul de încorporare, permițând utilizatorilor să se implice cu modele de încorporare a textului prin intermediul prompturilor. Aceste solicitări servesc ca interogări în limbaj natural, spunând acțiunile dorite pe care doriți să le efectueze modelul.
+
+Are o varietate de modele de încorporare a textului, fiecare cu avantajele și dezavantajele sale. Acestea includ OpenAI, Cohere și Hugging Face. Acești furnizori oferă o gamă de modele pre-instruite care pot fi utilizate pentru diferite sarcini NLP.
+
+De exemplu, GPT-3 de la OpenAI este un model de limbaj de ultimă generație, antrenat pe o cantitate masivă de date text. Modelele de încorporare Cohere sunt concepute pentru a fi extrem de precise și eficiente, cu accent pe reducerea cantității de date necesare pentru antrenament. Hugging Face oferă o gamă largă de modele pre-antrenate, inclusiv BERT, RoBERTa și GPT-2, care pot fi reglate fin pentru sarcini specifice NLP.
+
+În LangChain, aceste modele au capacitatea de a produce încorporare atât pentru interogări, cât și pentru documente. Când o interogare este supusă încorporarii, șirul de text este convertit într-o matrice de valori numerice, fiecare valoare reprezentând o dimensiune în spațiul de încorporare. Pentru documente, funcția embedDocuments acceptă o matrice de șiruri de text și returnează o matrice a înglobărilor respective.
+
+Să vedem cum funcționează:
+
+Pasul 1: Preprocesarea datelor
+
+Pentru PDF-uri:
+
+Extrageți text din PDF-uri folosind PyPDF2, biblioteca PyMuPDF.
+Pentru CSV-uri:
+
+Citiți fișiere CSV folosind Pandas.
+prelucrarea datelor LongChain Embedding
+
+Pasul 2: Procesarea textului
+
+Tokenizați textul folosind biblioteci precum NLTK sau
+Efectuați curățarea și normalizarea textului.
+Pasul 3: Încorporarea generației
+
+Utilizați modelul RAG pentru a genera înglobări. (Modelul RAG este un tip de model de limbaj care combină elemente atât de regăsire, cât și de generare în sarcinile de procesare a limbajului natural)
+Acest proces de regăsire ajută la identificarea și colectarea informațiilor pertinente legate de contextul dat.
+
+Aici, „generare” se referă la procesul de creare a unui text sau a unui conținut asemănător omului folosind modele de învățare automată. Acestea includ propoziții, paragrafe sau fragmente mai lungi de text care imită limbajul uman.
+
+Acum, ne vom îndrepta către abordări pentru formarea LLM:
+
+Abordări pentru formarea LLM:
+
+Există două abordări prin care putem ajusta LLM-urile cu propriile noastre date pentru o anumită sarcină (cum ar fi întrebare-răspuns, rezumare etc.). Putem folosi RAG care oferă cum să încorporați datele dvs. de afaceri cu LLM-urile în timp ce executăm interogări ale clienților asupra datelor de afaceri.
+
+Reglajul fin este o alegere excelentă atunci când avem o cantitate mare de date etichetate specifice sarcinii.
+RAG oferă clienților o modalitate de a se angaja în conversații cu aceste documente și de a obține răspunsuri la întrebările lor din documente folosind LLM.
+Acum, să discutăm despre diferite tipuri de modele de încorporare.
+
+Explorarea peisajului divers al modelelor de încorporare
+Există o gamă diversă de modele de încorporare care joacă un rol esențial în transformarea datelor textuale într-un format numeric. Aceste modele formează coloana vertebrală a aplicațiilor NLP și permit mașinilor să le înțeleagă și să le proceseze eficient. În această parte, explorăm diverse modele de încorporare, fiecare oferind metode și capabilități distincte.
+
+Înglobare de cuvinte
+Word2Vec: Utilizează încorporarea cuvintelor, captând semnificațiile semantice ale cuvintelor într-un spațiu vectorial.
+GloVe (Global Vectors for Word Representation): Învață vectorii de cuvinte prin factorizarea logaritmului matricei de co-ocurență a cuvintelor.
+Modele lingvistice pre-instruite
+BERT (Bidirectional Encoder Representations from Transformers): extrage înglobări contextualizate pentru cuvinte sau propoziții.
+GPT (Generative Pre-Trained Transformer): generează înglobări folosind învățarea nesupravegheată pe un corpus mare.
+XLNet: Un model bazat pe transformator care utilizează modelarea limbajului bazat pe permutare.
+Modele de încorporare personalizate
+Doc2Vec: Învață încorporarea la nivel de document.
+Sentence Transformers: se concentrează pe încorporarea propozițiilor, utilizând modele de transformatoare pre-antrenate, cum ar fi BERT sau RoBERTa, pentru încorporarea propozițiilor.
+biblioteca FAISS
+FAISS, care înseamnă Facebook AI Similarity Search, este o bibliotecă open-source dezvoltată de Facebook AI Research. Este conceput pentru a efectua eficient căutarea de similaritate și gruparea seturi de date la scară mare, în special în contextul vectorilor cu dimensiuni mari.
+
+LangChain Embeddings: un pilon fundamental al cadrului AI
+LangChain Embeddings se mândrește cu o serie de caracteristici cheie care îmbunătățesc experiența generală a utilizatorului. Versatilitatea platformei strălucește prin compatibilitatea cu diverși furnizori de modele, oferind utilizatorilor libertatea de a-l selecta pe cel care se aliniază cerințelor lor specifice.
+
+Asigurând eficiența, LangChain încorporează caracteristici precum setările de timeout și gestionarea limitelor de rată, garantând o utilizare fără întreruperi a API-ului. Mai mult, platforma acordă prioritate fiabilității cu mecanisme de gestionare a erorilor încorporate, permițându-i să reîncerce automat o solicitare de până la 6 ori în cazul unei erori API, consolidându-și performanța robustă.
+
+De la analize complexe de date la chatbot-uri captivante, AI a revoluționat diverse domenii. Servind drept coloană vertebrală pentru numeroase soluții de inteligență artificială , modelele lingvistice mari (LLM) permit interacțiunile umane, cu ușurință în utilizare și intuitivitate.
+<br/><hr/>
+</details>
 
  In acest [**workshop**](https://github.com/stefanache/MFP-ANAF-RO/tree/main/python/chainer-doc2vec) vom antrena un model **doc2vec** utilizand [chainer](https://docs.chainer.org/en/stable/).
 
