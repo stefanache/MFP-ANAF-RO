@@ -65,7 +65,7 @@ terte-date. <br/>În domeniile ***non-text***(ex. imagini ce pot contine text-gr
 
 Acest [**trainer**](https://github.com/monthly-hack/chainer-doc2vec)(<i>[antrenor](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/chainer-doc2vec/train_doc2vec.py)/invatator</i>) ce inglobeaza document/cuvinte[-e/-ul]([***document/paragraph/words embedding***](https://radimrehurek.com/gensim/models/doc2vec.html)), poate fi privit ca implementand modelul [**doc2vec**](https://markroxor.github.io/gensim/static/notebooks/doc2vec-wikipedia.html)([**DRSD**](https://en.wikipedia.org/wiki/Sentence_embedding), <small><i>Distributed Representations of Sentences and Documents</i></small>) si poate rula atat pe **CPU** cat si pe ***GPU***(in acest din urma caz, puteti obtine viteze de rulare semnificativ imbunatatite)<br/>
 
-Daca rulati batch-ul [***_RUN.bat***](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/chainer-doc2vec/_RUN.bat) veti putea obtine  urmatoarele ...
+Daca rulati batch-ul [***_RUN.bat***](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/chainer-doc2vec/_RUN.bat), veti putea obtine  urmatoarele ...
 <details><summary>...mesaje in consola:</summary>
  
  <br/>https://github.com/monthly-hack/chainer-doc2vec/tree/master
