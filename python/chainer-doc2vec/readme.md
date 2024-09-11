@@ -60,7 +60,7 @@ Acum, ne vom îndrepta către abordări pentru formarea LLM:
 <b>Abordări pentru formarea LLM:</b>
 Există două abordări prin care putem ajusta LLM-urile cu propriile noastre date pentru o anumită sarcină (cum ar fi 
 întrebare-răspuns, rezumare etc.). 
-Putem folosi RAG care oferă cum să încorporați datele dvs. de afaceri cu LLM-urile în timp ce executăm interogări ale clienților 
+Putem folosi <a href="https://ridgeant-com.translate.goog/blogs/retrieval-augmented-generation/?_x_tr_sl=en&_x_tr_tl=ro&_x_tr_hl=ro&_x_tr_pto=sc">RAG</a> care oferă cum să încorporați datele dvs. de afaceri cu LLM-urile în timp ce executăm interogări ale clienților 
 asupra datelor de afaceri.
 Reglajul fin este o alegere excelentă atunci când avem o cantitate mare de date etichetate specifice sarcinii.
 RAG oferă clienților o modalitate de a se angaja în conversații cu aceste documente și de a obține răspunsuri la întrebările lor din 
