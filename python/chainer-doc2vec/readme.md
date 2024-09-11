@@ -69,7 +69,7 @@ Acum, să discutăm despre diferite tipuri de modele de încorporare.<h5>Explora
 Există o gamă diversă de modele de încorporare care joacă un rol esențial în transformarea datelor textuale într-un format numeric. 
 Aceste modele formează coloana vertebrală a aplicațiilor NLP și permit mașinilor să le înțeleagă și să le proceseze eficient. 
 În această parte, explorăm diverse modele de încorporare, fiecare oferind metode și capabilități distincte.
-<b>Înglobare de cuvinte</b>
+<br/><b>Înglobare de cuvinte</b>
  - <b>Word2Vec</b>: Utilizează încorporarea cuvintelor, captând semnificațiile semantice ale cuvintelor într-un spațiu vectorial.
  - <b>GloVe</b> (Global Vectors for Word Representation): Învață vectorii de cuvinte prin factorizarea logaritmului matricei de
    co-ocurență a cuvintelor.
