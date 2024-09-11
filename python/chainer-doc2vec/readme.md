@@ -33,7 +33,7 @@ rezultate pe mai multe sarcini de analiză a textului, cum ar fi clasificări ș
 .
 </details>
 
-<details><summary>De asemena iata cateva consideratii publicate in zona de concluzii ace aceluiasi articol:</summary>
+<details><summary>De asemenea, iata cateva consideratii publicate in zona de *Discutii*(capitol 5.) ace aceluiasi articol:</summary>
 
 Am vazut in PDF-ul ***arxiv*** cum Paragraf-Vector, o învățare nesupravegheată
 algoritm care învață reprezentări vectoriale pentru variabile
