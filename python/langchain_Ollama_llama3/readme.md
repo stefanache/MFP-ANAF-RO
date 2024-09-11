@@ -87,7 +87,7 @@ cand vreti sa porniti serverul folositi comanda :
 
 ***OBS:***<br/>
 *(nu este absolut necesar sa precizati un model LLM pe care sa-l incarce initial...
-  serverul il va incarca in mod automat atunci cand in codul python il invocati, totusi trebuie instalat in prealabil ci comanda **Ollama pull/run {model_name}**)*
+  serverul il va incarca in mod automat atunci cand in codul python il invocati, totusi trebuie instalat in prealabil cu comanda **ollama pull/run {model_name}**)*
 
 
 Pentru a stii daca serverul Ollama lucreaza, deschideti un browser(ex. Chrome) si vizualizati mesajul de la adresa:
