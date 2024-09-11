@@ -8,7 +8,7 @@ Acest depozit implementeaza un [**trainer-doc2vec**](https://github.com/stefanac
 
 <details><summary>Iata cateva consideratii, plasate in paragraful de debut al publicatiei, intitulat <b>Abstract</b>(<i>generalitati</i>):</summary>
 
-<br/>Mulți algoritmi de învățare automată(**ML**) necesită ca intrarea sa fie reprezentată ca o caracteristică vectoriala de lungime fixă(preprezentare prin caracteristici ale/extrase din portiuni[-lor] de **text**). 
+<br/>Mulți algoritmi de învățare automată(**ML**) necesită ca intrarea sa fie reprezentată ca(sau daca vreti, codificata/rezumata/redusa la-) o caracteristică vectoriala de lungime fixă(reprezentare prin caracteristici ale/extrase din portiuni[-lor] de **text**). 
 
 Când vine vorba de texte, una dintre cele mai comune caracteristici de lungime fixă sunt bag-ul(punga/sac) de cuvinte(eng.**BoW**).
 
