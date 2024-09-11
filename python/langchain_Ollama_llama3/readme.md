@@ -63,8 +63,7 @@ If you'd prefer to run the application in a Docker container, follow these steps
 <hr/>
 </details>
 
-***Observatie:***
-
+***Observatie:***<br/>
 <i>Mie codul original nu mi-a functionat asa ca am folosit **ChatGPT** in mod repetat pana ce mi-a corectat codul!
  <br/>(<small>este totusi un proces plictisitor **:)** !!!!</small>)</i>
 
