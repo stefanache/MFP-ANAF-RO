@@ -34,7 +34,7 @@ specifice NLP.
 Când o interogare este supusă încorporarii, șirul de text este convertit într-o matrice de valori numerice, fiecare valoare 
 reprezentând o dimensiune în spațiul de încorporare. 
 Pentru documente, funcția embedDocuments acceptă o matrice de șiruri de text și returnează o matrice a înglobărilor respective.
-Să vedem cum funcționează:
+Să vedem cum funcționează:<br/>
 Pasul 1: <b>Preprocesarea datelor</b>
 -Pentru PDF-uri:
 Extrageți text din PDF-uri folosind PyPDF2, biblioteca PyMuPDF.
