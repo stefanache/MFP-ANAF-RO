@@ -71,7 +71,7 @@ Aceste modele formează coloana vertebrală a aplicațiilor NLP și permit mași
  - <b>BERT</b> (Bidirectional Encoder Representations from Transformers): extrage înglobări contextualizate pentru cuvinte sau propoziții.
  - <b>GPT</b> (Generative Pre-Trained Transformer): generează înglobări folosind învățarea nesupravegheată pe un corpus mare.
  - <b>XLNet</b>: Un model bazat pe transformator care utilizează modelarea limbajului bazat pe permutare.
-<b>Modele de încorporare personalizate</b>
+<br/><b>Modele de încorporare personalizate</b>
  - <b>Doc2Vec</b>: Învață încorporarea la nivel de document.
  - <b>Sentence Transformers</b>: se concentrează pe încorporarea propozițiilor, utilizând modele de transformatoare pre-antrenate, cum ar fi 
  <b>BERT</b> sau <b>RoBERTa</b>, pentru încorporarea propozițiilor.
