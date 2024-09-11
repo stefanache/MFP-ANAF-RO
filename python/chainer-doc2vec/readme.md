@@ -92,8 +92,8 @@ contextul vectorilor cu dimensiuni mari.
 
 <b>LangChain Embeddings: un pilon fundamental al cadrului AI</b>
 LangChain Embeddings se mândrește cu o serie de caracteristici cheie care îmbunătățesc experiența generală a utilizatorului. 
-Versatilitatea platformei strălucește prin compatibilitatea cu diverși furnizori de modele, oferind utilizatorilor libertatea  
-de a-l selecta pe cel care se aliniază cerințelor lor specifice.
+Versatilitatea platformei strălucește prin compatibilitatea cu diverși furnizori de modele, oferind utilizatorilor libertatea de
+a-l selecta pe cel care se aliniază cerințelor lor specifice.
 Asigurând eficiența, LangChain încorporează caracteristici precum setările de timeout și gestionarea limitelor de rată, 
 garantând o utilizare fără întreruperi a API-ului. 
 Mai mult, platforma acordă prioritate fiabilității cu mecanisme de gestionare a erorilor încorporate, permițându-i să reîncerce 
