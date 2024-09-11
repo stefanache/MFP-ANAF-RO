@@ -63,7 +63,7 @@ terte-date. <br/>În domeniile ***non-text***(ex. imagini ce pot contine text-gr
 
 </details>
 
-Acest **trainer**(<i>antrenor/invatator</i>) ce inglobeaza documente(document embedding), poate fi privit ca implementand modelul [**doc2vec**](https://markroxor.github.io/gensim/static/notebooks/doc2vec-wikipedia.html)([**DRSD**](https://en.wikipedia.org/wiki/Sentence_embedding), <small><i>Distributed Representations of Sentences and Documents</i></small>) si poate rula atat pe **CPU** cat si pe ***GPU***(caz in care obtineti viteze de rulare semnificativ imbunatatite)<br/>
+Acest **trainer**(<i>antrenor/invatator</i>) ce inglobeaza document/cuvinte[-e/-ul](***document/words embedding***), poate fi privit ca implementand modelul [**doc2vec**](https://markroxor.github.io/gensim/static/notebooks/doc2vec-wikipedia.html)([**DRSD**](https://en.wikipedia.org/wiki/Sentence_embedding), <small><i>Distributed Representations of Sentences and Documents</i></small>) si poate rula atat pe **CPU** cat si pe ***GPU***(caz in care obtineti viteze de rulare semnificativ imbunatatite)<br/>
 
 Daca rulati batch-ul [***_RUN.bat***](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/chainer-doc2vec/_RUN.bat) veti putea obtine in consola urmatoarele ...
 <details><summary>...mesaje:</summary>
