@@ -40,18 +40,14 @@ Acest proces de regăsire ajută la identificarea și colectarea informațiilor 
 Aici, „generare” se referă la procesul de creare a unui text sau a unui conținut asemănător omului folosind modele de învățare automată. Acestea includ propoziții, paragrafe sau fragmente mai lungi de text care imită limbajul uman.
 
 Acum, ne vom îndrepta către abordări pentru formarea LLM:
-
 <b>Abordări pentru formarea LLM:</b>
-
 Există două abordări prin care putem ajusta LLM-urile cu propriile noastre date pentru o anumită sarcină (cum ar fi întrebare-răspuns, rezumare etc.). Putem folosi RAG care oferă cum să încorporați datele dvs. de afaceri cu LLM-urile în timp ce executăm interogări ale clienților asupra datelor de afaceri.
-
 Reglajul fin este o alegere excelentă atunci când avem o cantitate mare de date etichetate specifice sarcinii.
 RAG oferă clienților o modalitate de a se angaja în conversații cu aceste documente și de a obține răspunsuri la întrebările lor din documente folosind LLM.
 Acum, să discutăm despre diferite tipuri de modele de încorporare.
 
 <h5>Explorarea peisajului divers al modelelor de încorporare</h5>h5>
 Există o gamă diversă de modele de încorporare care joacă un rol esențial în transformarea datelor textuale într-un format numeric. Aceste modele formează coloana vertebrală a aplicațiilor NLP și permit mașinilor să le înțeleagă și să le proceseze eficient. În această parte, explorăm diverse modele de încorporare, fiecare oferind metode și capabilități distincte.
-
 <b>Înglobare de cuvinte</b>
  - Word2Vec: Utilizează încorporarea cuvintelor, captând semnificațiile semantice ale cuvintelor într-un spațiu vectorial.
  - GloVe (Global Vectors for Word Representation): Învață vectorii de cuvinte prin factorizarea logaritmului matricei de co-ocurență a cuvintelor.
