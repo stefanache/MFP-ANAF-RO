@@ -63,6 +63,6 @@ terte-date. <br/>În domeniile ***non-text***(ex. imagini ce pot contine text-gr
 
 </details>
 
-Acest trainer/antrenor ce implementeaza modelul **doc2vec** poate rula atat pe **CPU** cat si pe ***GPU***(caz in care obtineti viteze de rulare semnificativ imbunatatite)<b/r>
+Acest trainer/antrenor ce inglobeaza documentele(document embedding), implementeaza de fapt modelul **doc2vec**(**DRSD**, *Distributed Representations of Sentences and Documents*) si poate rula atat pe **CPU** cat si pe ***GPU***(caz in care obtineti viteze de rulare semnificativ imbunatatite)<b/r>
 
 
