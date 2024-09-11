@@ -43,8 +43,9 @@ Reprezentările vectoriale sunt învățate pentru a prezice sur-
 rotunjirea cuvintelor în contexte eșantionate din paragraf.
 
 Experimentele noastre pe mai multe sarcini de clasificare a textului, cum ar fi
- - Seturi de date de analiză a sentimentelor Stanford Treebank și 
- - IMDB
+ - Seturi de date de analiză a sentimentelor
+  - Stanford Treebank și 
+  - IMDB
 
 demonstrează că metoda este competitivă cu cele mai avansate
 Metode. Performanța bună demonstrează meritele
