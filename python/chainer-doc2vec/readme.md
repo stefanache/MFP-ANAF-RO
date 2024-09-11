@@ -10,7 +10,7 @@ Acest depozit implementeaza un [**trainer-doc2vec**](https://github.com/stefanac
 
 Mulți algoritmi de învățare automată(**ML**) necesită ca intrarea sa fie reprezentată ca o caracteristică vectoriala de lungime fixă. 
 
-Când vine vorba de texte, una dintre cele mai comune caracteristici de lungime fixă sunt bag-ul(punga/sac) de cuvinte(eng.BoW).
+Când vine vorba de texte, una dintre cele mai comune caracteristici de lungime fixă sunt bag-ul(punga/sac) de cuvinte(eng.**BoW**).
 
 În ciuda popularității lor, caracteristicile sacului de cuvinte(**BoW**), au două slăbiciuni/dezavantaje majore: 
  - pierd ordinea cuvintelor, si de asemenea, 
