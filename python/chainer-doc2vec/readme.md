@@ -43,7 +43,7 @@ Reprezentările vectoriale sunt învățate pentru a prezice sur-
 rotunjirea cuvintelor în contexte eșantionate din paragraf.
 
 Experimentele noastre pe mai multe sarcini de clasificare a textului, cum ar fi
-**Seturi de date de analiză a sentimentelor**
+**Analiză a sentimentelor pe seturil de date**:
   - Stanford Treebank și 
   - IMDB
 
