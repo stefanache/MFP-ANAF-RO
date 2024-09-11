@@ -74,14 +74,18 @@ Aceste modele formează coloana vertebrală a aplicațiilor NLP și permit mași
  - <b>Word2Vec</b>: Utilizează încorporarea cuvintelor, captând semnificațiile semantice ale cuvintelor într-un spațiu vectorial.
  - <b>GloVe</b> (Global Vectors for Word Representation): Învață vectorii de cuvinte prin factorizarea logaritmului matricei de
    co-ocurență a cuvintelor.
+
 <b>Modele lingvistice pre-instruite</b>
  - <b>BERT</b> (Bidirectional Encoder Representations from Transformers): extrage înglobări contextualizate pentru cuvinte sau propoziții.
  - <b>GPT</b> (Generative Pre-Trained Transformer): generează înglobări folosind învățarea nesupravegheată pe un corpus mare.
  - <b>XLNet</b>: Un model bazat pe transformator care utilizează modelarea limbajului bazat pe permutare.
+
 <b>Modele de încorporare personalizate</b>
  - <b>Doc2Vec</b>: Învață încorporarea la nivel de document.
  - <b>Sentence Transformers</b>: se concentrează pe încorporarea propozițiilor, utilizând modele de transformatoare pre-antrenate,
-   cum ar fi <b>BERT</b> sau <b>RoBERTa</b>, pentru încorporarea propozițiilor.<br/><b>biblioteca FAISS</b>
+   cum ar fi <b>BERT</b> sau <b>RoBERTa</b>, pentru încorporarea propozițiilor.
+
+<b>biblioteca FAISS</b>
 FAISS, care înseamnă Facebook AI Similarity Search, este o bibliotecă open-source dezvoltată de Facebook AI Research. 
 Este conceput pentru a efectua eficient căutarea de similaritate și gruparea seturi de date la scară mare, în special în 
 contextul vectorilor cu dimensiuni mari.
