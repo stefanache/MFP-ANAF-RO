@@ -22,26 +22,20 @@ De exemplu, GPT-3 de la OpenAI este un model de limbaj de ultimă generație, an
 Să vedem cum funcționează:
 
 Pasul 1: <b>Preprocesarea datelor</b>
-
-Pentru PDF-uri:
+-Pentru PDF-uri:
 Extrageți text din PDF-uri folosind PyPDF2, biblioteca PyMuPDF.
-
-Pentru CSV-uri:
+-Pentru CSV-uri:
 Citiți fișiere CSV folosind Pandas.
 prelucrarea datelor LongChain Embedding
-
 <img src="https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/chainer-doc2vec/data-processing-LongChain-Embedding-768x426.png"/>
 
 Pasul 2: <b>Procesarea textului</b>
-
 Tokenizați textul folosind biblioteci precum NLTK sau
 Efectuați curățarea și normalizarea textului.
 
 Pasul 3: <b>Încorporarea generației</b>
-
 Utilizați modelul RAG pentru a genera înglobări. (Modelul RAG este un tip de model de limbaj care combină elemente atât de regăsire, cât și de generare în sarcinile de procesare a limbajului natural)
 Acest proces de regăsire ajută la identificarea și colectarea informațiilor pertinente legate de contextul dat.
-
 Aici, „generare” se referă la procesul de creare a unui text sau a unui conținut asemănător omului folosind modele de învățare automată. Acestea includ propoziții, paragrafe sau fragmente mai lungi de text care imită limbajul uman.
 
 Acum, ne vom îndrepta către abordări pentru formarea LLM:
