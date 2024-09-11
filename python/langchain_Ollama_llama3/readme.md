@@ -2,13 +2,13 @@ Repository: [**Langchain_Ollama_llama3**](https://github.com/duncanodhis/Langcha
 
 publicat in [Medium](https://medium.com/@ion.stefanache0/langchain-python-client-for-ollama-69f6c24078e2) **@ion.stefanache0**
 
-Inainte de toate sa vorbim de protagonistii acestui ***workshop***:
+Inainte de toate sa vorbim de protagonistii acestui [***workshop***](https://github.com/stefanache/MFP-ANAF-RO/tree/main/python/langchain_Ollama_llama3):
 
  - [**Langchain**](https://towardsdatascience.com/building-a-math-application-with-langchain-agents-23919d09a4d3) -
    
  - [**Ollama**](https://ollama.com/) si [**llama3**](https://en.wikipedia.org/wiki/Llama_(language_model)) - **Ollama** este un server ce poate fi instalat pe mia toate sistemele de operare importante(cross-platform) si care are drept scop livrarea modelelor mari de limbaj(cum este si LLM=**llama3**)
    
-Pe acest workshop , am creat un fisier de executie/shell/batch denumit [**_Run.bat**](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/langchain_Ollama_llama3/_Run.bat) pt a simplifica procesul de instalare si rulare
+Pentru a implementa aceasta [***lucrare***](https://github.com/stefanache/MFP-ANAF-RO/tree/main/python/langchain_Ollama_llama3) , am creat un fisier de executie/shell/batch denumit [**_Run.bat**](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/langchain_Ollama_llama3/_Run.bat) pt a simplifica procesul de instalare si rulare
 
 (liniile comentate cu **rem** se decomenteaza pt a fi rulate o singura data si apoi se recomentreaza!)
 
