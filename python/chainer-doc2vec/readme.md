@@ -1,10 +1,10 @@
-<details><summary><h3><b></b><a href="https://ridgeant-com.translate.goog/blogs/langchain-embedding/?_x_tr_sl=en&_x_tr_tl=ro&_x_tr_hl=ro&_x_tr_pto=sc">Doc2Vec</a></b>(Paragraph-Vector) - extensie a <b></b><a href="https://ridgeant-com.translate.goog/blogs/langchain-embedding/?_x_tr_sl=en&_x_tr_tl=ro&_x_tr_hl=ro&_x_tr_pto=sc">Word2Vec</a></b></h3></summary>
+s><summary><h3><b></b><a href="https://ridgeant-com.translate.goog/blogs/langchain-embedding/?_x_tr_sl=en&_x_tr_tl=ro&_x_tr_hl=ro&_x_tr_pto=sc">Doc2Vec</a></b>(Paragraph-Vector) - extensie a <b></b><a href="https://ridgeant-com.translate.goog/blogs/langchain-embedding/?_x_tr_sl=en&_x_tr_tl=ro&_x_tr_hl=ro&_x_tr_pto=sc">Word2Vec</a></b></h3></summary>
 <br/><hr/><pre>
-Încorporarea LangChain: o scufundare în proces
-ML și AI , inteligență artificială , învățare automată
-6 februarie 2024
-Ridgeant
-Încorporarea LangChain
+
+ Încorporarea LangChain: o scufundare în proces | ML și AI , inteligență artificială , învățare automată | 6 februarie 2024 | Ridgeant
+ 
+<b>Încorporarea LangChain</b>
+
 Procesarea limbajului natural (NLP) este arta și știința de a permite mașinilor să înțeleagă și să interacționeze cu limbajul uman.
 
 În domeniul procesării limbajului natural (NLP), încorporarea textului este un proces crucial.
@@ -15,7 +15,7 @@ Această transformare facilitează diverse sarcini NLP, cum ar fi analiza sentim
 
 În acest articol, vom vorbi despre procesul de încorporare LangChain și despre cum este gata să transforme viitorul NLP.
 
-Ce este mai exact LangChain?
+<b>Ce este mai exact LangChain?</b>
 
 LangChain este un cadru open-source pentru dezvoltarea de aplicații bazate pe modele de limbaj.
 
@@ -23,7 +23,7 @@ LangChain, funcționând ca un cadru pentru integrarea modelelor de limbaj, împ
 
 LangChain oferă toate instrumentele și integrările pentru construirea de aplicații LLM, inclusiv încărcarea, încorporarea și stocarea documentelor. Oferă o interfață standard pentru lanțuri, o mulțime de integrări cu alte instrumente și lanțuri end-to-end pentru aplicații comune.
 
-Cum eficientizează LangChain înglobările?
+<b>Cum eficientizează LangChain înglobările?</b>
 
 LangChain eficientizează procesul de încorporare, permițând utilizatorilor să se implice cu modele de încorporare a textului prin intermediul prompturilor. Aceste solicitări servesc ca interogări în limbaj natural, spunând acțiunile dorite pe care doriți să le efectueze modelul.
 
@@ -35,7 +35,7 @@ De exemplu, GPT-3 de la OpenAI este un model de limbaj de ultimă generație, an
 
 Să vedem cum funcționează:
 
-Pasul 1: Preprocesarea datelor
+Pasul 1: <b>Preprocesarea datelorM/b>
 
 Pentru PDF-uri:
 
@@ -47,11 +47,12 @@ prelucrarea datelor LongChain Embedding
 
 <img src="https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/chainer-doc2vec/data-processing-LongChain-Embedding-768x426.png"/>
 
-Pasul 2: Procesarea textului
+Pasul 2: <b>Procesarea textului</b>
 
 Tokenizați textul folosind biblioteci precum NLTK sau
 Efectuați curățarea și normalizarea textului.
-Pasul 3: Încorporarea generației
+
+Pasul 3: <b>Încorporarea generației</b>
 
 Utilizați modelul RAG pentru a genera înglobări. (Modelul RAG este un tip de model de limbaj care combină elemente atât de regăsire, cât și de generare în sarcinile de procesare a limbajului natural)
 Acest proces de regăsire ajută la identificarea și colectarea informațiilor pertinente legate de contextul dat.
@@ -60,7 +61,7 @@ Aici, „generare” se referă la procesul de creare a unui text sau a unui con
 
 Acum, ne vom îndrepta către abordări pentru formarea LLM:
 
-Abordări pentru formarea LLM:
+<b>Abordări pentru formarea LLM:</b>
 
 Există două abordări prin care putem ajusta LLM-urile cu propriile noastre date pentru o anumită sarcină (cum ar fi întrebare-răspuns, rezumare etc.). Putem folosi RAG care oferă cum să încorporați datele dvs. de afaceri cu LLM-urile în timp ce executăm interogări ale clienților asupra datelor de afaceri.
 
@@ -68,12 +69,12 @@ Reglajul fin este o alegere excelentă atunci când avem o cantitate mare de dat
 RAG oferă clienților o modalitate de a se angaja în conversații cu aceste documente și de a obține răspunsuri la întrebările lor din documente folosind LLM.
 Acum, să discutăm despre diferite tipuri de modele de încorporare.
 
-Explorarea peisajului divers al modelelor de încorporare
+<h5>Explorarea peisajului divers al modelelor de încorporare</h5>h5>
 Există o gamă diversă de modele de încorporare care joacă un rol esențial în transformarea datelor textuale într-un format numeric. Aceste modele formează coloana vertebrală a aplicațiilor NLP și permit mașinilor să le înțeleagă și să le proceseze eficient. În această parte, explorăm diverse modele de încorporare, fiecare oferind metode și capabilități distincte.
 
-Înglobare de cuvinte
-Word2Vec: Utilizează încorporarea cuvintelor, captând semnificațiile semantice ale cuvintelor într-un spațiu vectorial.
-GloVe (Global Vectors for Word Representation): Învață vectorii de cuvinte prin factorizarea logaritmului matricei de co-ocurență a cuvintelor.
+<b>Înglobare de cuvinte</b>
+ - Word2Vec: Utilizează încorporarea cuvintelor, captând semnificațiile semantice ale cuvintelor într-un spațiu vectorial.
+ - GloVe (Global Vectors for Word Representation): Învață vectorii de cuvinte prin factorizarea logaritmului matricei de co-ocurență a cuvintelor.
 Modele lingvistice pre-instruite
 BERT (Bidirectional Encoder Representations from Transformers): extrage înglobări contextualizate pentru cuvinte sau propoziții.
 GPT (Generative Pre-Trained Transformer): generează înglobări folosind învățarea nesupravegheată pe un corpus mare.
