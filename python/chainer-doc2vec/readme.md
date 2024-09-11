@@ -41,18 +41,16 @@ precum și alte tehnici de reprezentare a textului <br/>În cele din urmă, se p
 
 <details><summary>De asemenea, iata cateva alte consideratii, publicate in zona rezervata <b>Discutiei</b> finale(capitolul <i>5.</i>) ale aceluiasi articol:</summary>
 
-Am vazut in PDF-ul ***arxiv*** cum Paragraf-Vector, o învățare nesupravegheată
-algoritm care învață reprezentări vectoriale pentru variabile
-bucăți de text de o anumita lungime, cum ar fi propoziții și documente.
+Am vazut in PDF-ul ***arxiv*** cum învățarea nesupravegheată, <b>Paragraf-Vector</b>, algoritm care învață(reprezentări vectoriale) din
+bucăți de text de o lungime variabila, cum ar fi propoziții și documente.
 
-Reprezentările vectoriale sunt învățate pentru a prezice sur-,
-rotunjirea cuvintelor în contexte eșantionate din paragraf.
+Reprezentările vectoriale sunt învățate pentru a prezice cuvintele(aproximativ corect) în contexte eșantionate din paragraf.
 
 Experimentele noastre pe mai multe sarcini de clasificare a textului, cum ar fi
-**Analiză a sentimentelor pe seturil de date**:
+***Analiză a sentimentelor*** pe seturile de date:
 
-  - Stanford Treebank și 
-  - IMDB
+  - [**Stanford Treebank***](https://www.kaggle.com/datasets/atulanandjha/stanford-sentiment-treebank-v2-sst2) și 
+  - [***IMDB***](https://developer.imdb.com/non-commercial-datasets/)
 
 demonstrează că metoda este competitivă cu cele mai avansate metode. 
 <br/>Performanța bună demonstrează meritele
