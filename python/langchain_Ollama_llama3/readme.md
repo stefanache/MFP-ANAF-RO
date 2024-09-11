@@ -91,7 +91,7 @@ cand vreti sa porniti serverul folositi comanda :
   serverul il va incarca in mod automat atunci cand in codul python il invocati)*
 
 
-Pt a stii daca serverul lucreaza deschideti un browser(ex. Chrome) si vizualizati mesajul de la adresa:
+Pentru a stii daca serverul Ollama lucreaza, deschideti un browser(ex. Chrome) si vizualizati mesajul de la adresa:
 
 [**http://localhost:11434**](http://localhost:11434)
 
