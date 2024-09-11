@@ -65,5 +65,100 @@ terte-date. <br/>În domeniile ***non-text***(ex. imagini ce pot contine text-gr
 
 Acest **trainer**(<i>antrenor/invatator</i>) ce inglobeaza documente(document embedding), poate fi privit ca implementand modelul **doc2vec**(**DRSD**, <small><i>Distributed Representations of Sentences and Documents</i></small>) si poate rula atat pe **CPU** cat si pe ***GPU***(caz in care obtineti viteze de rulare semnificativ imbunatatite)<br/>
 
+Daca rulati batch-ul ***_RUN.bat*** veti putea obtine in consola urmatoarele mesaje:
+<details>
+ https://github.com/monthly-hack/chainer-doc2vec/tree/master
+must be patient...if have not more resources like GPU....
+GPU: -1
+# unit: 200
+Window: 10
+Minibatch-size: 1000
+# epoch: 20
+Training model: dm-dbow
+Output type: hsm
+
+n_vocab: 11088
+n_docs: 10
+data length: 72216
+epoch       main/loss
+1           144392
+     total [###...............................................]  6.87%
+this epoch [##################................................] 37.40%
+       100 iter, 1 epoch / 20 epochs
+       inf iters/sec. Estimated time to finish: 0:00:00.
+2           129403
+     total [######............................................] 13.74%
+this epoch [#####################################.............] 74.80%
+       200 iter, 2 epoch / 20 epochs
+   0.92129 iters/sec. Estimated time to finish: 0:22:42.895942.
+3           145010
+4           133155
+     total [##########........................................] 20.55%
+this epoch [#####.............................................] 11.08%
+       300 iter, 4 epoch / 20 epochs
+    0.9105 iters/sec. Estimated time to finish: 0:21:15.278315.
+5           130605
+     total [#############.....................................] 27.42%
+this epoch [########################..........................] 48.48%
+       400 iter, 5 epoch / 20 epochs
+   0.89849 iters/sec. Estimated time to finish: 0:19:38.967753.
+6           135578
+     total [#################.................................] 34.29%
+this epoch [##########################################........] 85.88%
+       500 iter, 6 epoch / 20 epochs
+   0.89046 iters/sec. Estimated time to finish: 0:17:56.276151.
+7           134106
+8           134070
+     total [####################..............................] 41.11%
+this epoch [###########.......................................] 22.16%
+       600 iter, 8 epoch / 20 epochs
+   0.89715 iters/sec. Estimated time to finish: 0:15:58.631317.
+9           128852
+     total [#######################...........................] 47.98%
+this epoch [#############################.....................] 59.56%
+       700 iter, 9 epoch / 20 epochs
+   0.89715 iters/sec. Estimated time to finish: 0:14:06.341340.
+10          127140
+     total [###########################.......................] 54.85%
+this epoch [################################################..] 96.96%
+       800 iter, 10 epoch / 20 epochs
+   0.86712 iters/sec. Estimated time to finish: 0:12:39.723066.
+11          152377
+12          137933
+     total [##############################....................] 61.66%
+this epoch [################..................................] 33.24%
+       900 iter, 12 epoch / 20 epochs
+   0.85851 iters/sec. Estimated time to finish: 0:10:52.005972.
+13          138708
+     total [##################################................] 68.53%
+this epoch [###################################...............] 70.64%
+      1000 iter, 13 epoch / 20 epochs
+   0.86378 iters/sec. Estimated time to finish: 0:08:51.726453.
+14          135309
+15          143965
+     total [#####################################.............] 75.35%
+this epoch [###...............................................]  6.93%
+      1100 iter, 15 epoch / 20 epochs
+    0.8594 iters/sec. Estimated time to finish: 0:06:58.933495.
+16          133493
+     total [#########################################.........] 82.22%
+this epoch [######################............................] 44.32%
+      1200 iter, 16 epoch / 20 epochs
+   0.86015 iters/sec. Estimated time to finish: 0:05:01.844459.
+17          138828
+     total [############################################......] 89.09%
+this epoch [########################################..........] 81.72%
+      1300 iter, 17 epoch / 20 epochs
+   0.85934 iters/sec. Estimated time to finish: 0:03:05.369836.
+18          124601
+19          125711
+     total [###############################################...] 95.90%
+this epoch [#########.........................................] 18.01%
+      1400 iter, 19 epoch / 20 epochs
+   0.86159 iters/sec. Estimated time to finish: 0:01:09.478896.
+20          139796
+
+Press any key to continue . . .
+</details>
 
 
