@@ -1,4 +1,4 @@
-<h5>Modelul <b></b>Doc2Vec</h1>b>(Paragraph-Vector) - o extensie a modelului <b></b>Word2Vec</b></h5>
+<h5>Modelul <b></b>Doc2Vec</b>(Paragraph-Vector) - o extensie a modelului <b></b>Word2Vec</b></h5>
 
  In acest [**workshop**](https://github.com/stefanache/MFP-ANAF-RO/tree/main/python/chainer-doc2vec) vom antrena un model **doc2vec** utilizand [chainer](https://docs.chainer.org/en/stable/).
 
