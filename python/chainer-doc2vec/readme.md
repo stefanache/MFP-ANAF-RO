@@ -15,11 +15,12 @@ Când vine vorba de texte, una dintre cele mai comune caracteristici de lungime 
 În ciuda popularității lor, caracteristicile sacului de cuvinte(**BoW**), au două slăbiciuni/dezavantaje majore: 
  - pierd ordinea cuvintelor, si de asemenea, 
  - ignoră semantica cuvintelor. 
+
 <br/>De exemplu, "puternic", "puternic"
 și "Paris" sunt la fel de îndepărtate ca importanta(ma refer la distanta de similaritate, daca vreti...). 
 <br/>În această lucrare, se propune <b>Paragraf-Vector</b>, un algoritm nesupravegheat
-care învață o caracteristică de lungime fixă<br/>(reprezentata-
-din bucăți de text cu lungime variabilă, cum ar fi:<br/>
+care învață o caracteristică de lungime fixă<br/>(caracteristica reprezentata-
+de bucăți de text cu lungime variabilă, cum ar fi:<br/>
 
     - propoziții, 
     - paragrafe și 
