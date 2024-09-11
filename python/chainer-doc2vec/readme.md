@@ -31,7 +31,7 @@ de, bucăți de text cu lungime variabilă, cum ar fi:<br/>
 <br/>Acest algoritm reprezintă fiecare document, printr-un vector care este antrenat să prezică 
 cuvintele din document. <br/>Construcția sa, conferă acestui algoritm,
 potențialul de a depăși punctele slabe ale modele de cuvinte(**BoW**). 
-<br/>Rezultatele empirice arată că <b>Paragraf-Vectorii</b>(grafici) depășesc ca performanta, modelele de sac de cuvinte(**BoW**)
+<br/>Rezultatele empirice arată că <b>Paragraf-Vectorii</b>(a se vedea graficele de performanta) depășesc, modelele de sac de cuvinte(**BoW**)
 precum și alte tehnici de reprezentare a textului <br/>În cele din urmă, se pot realiza noi rezultate, pe mai multe sarcini de analiză a textului, cum ar fi
 
    - clasificări și
