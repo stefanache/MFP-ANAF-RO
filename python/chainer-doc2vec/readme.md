@@ -6,7 +6,7 @@ la baza acestui [**workshop**](https://github.com/stefanache/MFP-ANAF-RO/tree/ma
 
 Acest depozit implementeaza un [**trainer-doc2vec**](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/chainer-doc2vec/train_doc2vec.py) pornind de la un articol-PDF publicat de editura [**arxiv**](https://arxiv.org/pdf/1405.4053v2)
 
-<details><summary>Iata cateva consideratii plasate in paragraful de debut al publicatiei, intitulat <b>Abstract</b>(<i>generalitati</b>):</summary>
+<details><summary>Iata cateva consideratii, plasate in paragraful de debut al publicatiei, intitulat <b>Abstract</b>(<i>generalitati</b>):</summary>
 
 Mulți algoritmi de învățare automată(**ML**) necesită ca intrarea sa fie reprezentată ca o caracteristică vectoriala de lungime fixă. 
 
