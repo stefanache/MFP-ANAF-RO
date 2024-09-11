@@ -17,7 +17,7 @@ au două slăbiciuni majore:
  - pierd ordinea cuvintelor, si de asemenea, 
  - ignoră semantica cuvintelor. 
 <br/>De exemplu, "puternic", "puternic"
-și "Paris" sunt la fel de îndepărtate ca importanta. 
+și "Paris" sunt la fel de îndepărtate ca importanta(ma refer la distanta de similaritate, daca vreti...). 
 În această lucrare, se propune Paragraf-Vector, un algoritm nesupravegheat
 care învață o caracteristică de lungime fixă reprezentata-
 din bucăți de text cu lungime variabilă, cum ar fi
