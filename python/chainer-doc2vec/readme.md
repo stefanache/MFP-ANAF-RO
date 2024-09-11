@@ -16,7 +16,7 @@ Când vine vorba de texte, una dintre cele mai comune caracteristici de lungime 
 au două slăbiciuni majore: 
  - pierd ordinea cuvintelor, si de asemenea, 
  - ignoră semantica cuvintelor. 
-De exemplu, "puternic", "puternic"
+<br/>De exemplu, "puternic", "puternic"
 și "Paris" sunt la fel de îndepărtate ca importanta. 
 În această lucrare, se propune Paragraf-Vector, un algoritm nesupravegheat
 care învață o caracteristică de lungime fixă reprezentata-
