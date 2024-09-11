@@ -45,6 +45,8 @@ Pentru CSV-uri:
 Citiți fișiere CSV folosind Pandas.
 prelucrarea datelor LongChain Embedding
 
+<img src="https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/chainer-doc2vec/data-processing-LongChain-Embedding-768x426.png"/>
+
 Pasul 2: Procesarea textului
 
 Tokenizați textul folosind biblioteci precum NLTK sau
