@@ -32,8 +32,8 @@ necesare pentru antrenament.
 Hugging Face oferă o gamă largă de modele pre-antrenate, inclusiv BERT, RoBERTa și GPT-2, care pot fi reglate fin pentru sarcini 
 specifice NLP.
 În LangChain, aceste modele au capacitatea de a produce încorporare atât pentru interogări, cât și pentru documente. 
-Când o interogare este supusă încorporarii, șirul de text este convertit într-o matrice de valori numerice, fiecare valoare reprezentând 
-o dimensiune în spațiul de încorporare. 
+Când o interogare este supusă încorporarii, șirul de text este convertit într-o matrice de valori numerice, fiecare valoare 
+reprezentând o dimensiune în spațiul de încorporare. 
 Pentru documente, funcția embedDocuments acceptă o matrice de șiruri de text și returnează o matrice a înglobărilor respective.
 Să vedem cum funcționează:
 
