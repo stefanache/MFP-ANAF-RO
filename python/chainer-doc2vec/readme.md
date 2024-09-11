@@ -26,6 +26,7 @@ Pasul 1: <b>Preprocesarea datelor</b>
 Extrageți text din PDF-uri folosind PyPDF2, biblioteca PyMuPDF.
 -Pentru CSV-uri:
 Citiți fișiere CSV folosind Pandas.
+
 prelucrarea datelor LongChain Embedding
 <img src="https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/chainer-doc2vec/data-processing-LongChain-Embedding-768x426.png"/>
 
