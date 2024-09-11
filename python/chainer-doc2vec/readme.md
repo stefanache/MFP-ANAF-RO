@@ -73,7 +73,7 @@ Aceste modele formează coloana vertebrală a aplicațiilor NLP și permit mași
  - <b>Word2Vec</b>: Utilizează încorporarea cuvintelor, captând semnificațiile semantice ale cuvintelor într-un spațiu vectorial.
  - <b>GloVe</b> (Global Vectors for Word Representation): Învață vectorii de cuvinte prin factorizarea logaritmului matricei de
    co-ocurență a cuvintelor.
-<b>Modele lingvistice pre-instruite</b>
+<br/><b>Modele lingvistice pre-instruite</b>
  - <b>BERT</b> (Bidirectional Encoder Representations from Transformers): extrage înglobări contextualizate pentru cuvinte sau propoziții.
  - <b>GPT</b> (Generative Pre-Trained Transformer): generează înglobări folosind învățarea nesupravegheată pe un corpus mare.
  - <b>XLNet</b>: Un model bazat pe transformator care utilizează modelarea limbajului bazat pe permutare.
