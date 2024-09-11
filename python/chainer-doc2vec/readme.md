@@ -65,6 +65,7 @@ asupra datelor de afaceri.
 Reglajul fin este o alegere excelentă atunci când avem o cantitate mare de date etichetate specifice sarcinii.
 RAG oferă clienților o modalitate de a se angaja în conversații cu aceste documente și de a obține răspunsuri la întrebările lor din 
 documente folosind LLM.
+
 Acum, să discutăm despre diferite tipuri de modele de încorporare.
 <h7>Explorarea peisajului divers al modelelor de încorporare</h7>
 Există o gamă diversă de modele de încorporare care joacă un rol esențial în transformarea datelor textuale într-un format numeric. 
