@@ -67,7 +67,7 @@ RAG oferă clienților o modalitate de a se angaja în conversații cu aceste do
 documente folosind LLM.
 
 Acum, să discutăm despre diferite tipuri de modele de încorporare.
-<h7>Explorarea peisajului divers al modelelor de încorporare</h7>
+<h5>Explorarea peisajului divers al modelelor de încorporare</h5>
 Există o gamă diversă de modele de încorporare care joacă un rol esențial în transformarea datelor textuale într-un format numeric. 
 Aceste modele formează coloana vertebrală a aplicațiilor NLP și permit mașinilor să le înțeleagă și să le proceseze eficient. 
 În această parte, explorăm diverse modele de încorporare, fiecare oferind metode și capabilități distincte.
