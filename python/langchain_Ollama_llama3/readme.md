@@ -67,7 +67,7 @@ If you'd prefer to run the application in a Docker container, follow these steps
 ***Observatie:***
 
 <i>Mie codul original nu mi-a functionat asa ca am folosit **ChatGPT** in mod repetat pana ce mi-a corectat codul!
- (<small>este totusi un proces plictisitor **:)** !!!!</small>)</i>
+ (<smallest>este totusi un proces plictisitor **:)** !!!!</smallest>)</i>
 
 Modelul LLM utilizat este [**llama3**](https://llama.meta.com/)
 
