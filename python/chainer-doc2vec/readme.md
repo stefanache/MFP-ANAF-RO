@@ -58,8 +58,8 @@ algoritmului **Paragraf-Vector** în captarea semanticii paragrafelor.
 <br/>De fapt, **vectorii-paragraf** au potențialul de a
 depăși multe puncte slabe ale modelelor de tip sac de cuvinte(**BoW**).
 <br/>Deși obiectivul acestei lucrări este de a reprezenta **texte**,
-poate fi aplicată si pentru a învăța reprezentări pentru
-date țiale. <br/>În domeniile ***non-text***(ex. imagini ce pot contine text si nu numai), în care capabilitatea-analizarii nu este disponibilă, este de  așteptat ca modelele **Paragraph-Vector** să fie o alternativă puternică.
+totusi ea poate fi aplicată si pentru a învăța reprezentări pentru
+terte-date. <br/>În domeniile ***non-text***(ex. imagini ce pot contine text si nu numai), în care capabilitatea-analizarii nu este disponibilă, este de  așteptat ca modelele **Paragraph-Vector** să fie o alternativă puternică.
 
 </details>
 
