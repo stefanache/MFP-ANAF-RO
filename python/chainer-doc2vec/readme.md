@@ -83,7 +83,7 @@ Minibatch-size: 1000
 
 # epoch: 20
 
-Training model: dm-dbow
+Training model: **dm-dbow**
 
 Output type: hsm
 
