@@ -12,8 +12,7 @@ Mulți algoritmi de învățare automată(**ML**) necesită ca intrarea sa fie r
 
 Când vine vorba de texte, una dintre cele mai comune caracteristici de lungime fixă sunt bag-ul(punga/sac) de cuvinte(eng.BoW).
 
-În ciuda popularității lor, caracteristicile sacului de cuvinte(**BoW**)
-au două slăbiciuni majore: 
+În ciuda popularității lor, caracteristicile sacului de cuvinte(**BoW**), au două slăbiciuni majore: 
  - pierd ordinea cuvintelor, si de asemenea, 
  - ignoră semantica cuvintelor. 
 <br/>De exemplu, "puternic", "puternic"
