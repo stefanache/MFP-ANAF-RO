@@ -4,7 +4,7 @@ In acest [**workshop**](https://github.com/stefanache/MFP-ANAF-RO/tree/main/pyth
 
 la baza acestui [**workshop**](https://github.com/stefanache/MFP-ANAF-RO/tree/main/python/chainer-doc2vec) a stat depozitul ghithub [chainer-doc2vec](https://github.com/monthly-hack/chainer-doc2vec)
 
-Acest depozit implementeaza un trainer doc2vec pornind de la un articol-PDF publicat de editura [**arxiv**](https://arxiv.org/pdf/1405.4053v2)
+Acest depozit implementeaza un trainer-doc2vec pornind de la un articol-PDF publicat de editura [**arxiv**](https://arxiv.org/pdf/1405.4053v2)
 
 <details><summary>Iata cateva consideratii publicate in paragraful Abstract:</summary>
 
