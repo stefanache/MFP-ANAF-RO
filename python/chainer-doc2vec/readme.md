@@ -97,8 +97,7 @@ automat o solicitare de până la 6 ori în cazul unei erori API, consolidându-
 
 De la analize complexe de date la chatbot-uri captivante, AI a revoluționat diverse domenii. 
 Servind drept coloană vertebrală pentru numeroase soluții de inteligență artificială , modelele lingvistice mari (LLM) permit 
-interacțiunile umane, cu ușurință în utilizare și intuitivitate.
-</pre><br/><hr/>
+interacțiunile umane, cu ușurință în utilizare și intuitivitate.</pre><br/><hr/>
 </details>
 
  In acest [**workshop**](https://github.com/stefanache/MFP-ANAF-RO/tree/main/python/chainer-doc2vec) vom antrena un model **doc2vec** utilizand [chainer](https://docs.chainer.org/en/stable/).
