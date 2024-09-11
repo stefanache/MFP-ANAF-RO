@@ -22,7 +22,7 @@ Detalii despre sursa principala python: [LangChain-Ollama Application](https://g
 
 <hr/>
 
-This application integrates [LangChain](https://python.langchain.com/v0.2/docs/concepts/) with the **Ollama** [LLM](https://www.comet.com/site/blog/decoding-the-significance-of-llm-chains-in-llmops/) to perform various operations, 
+This application integrates [**LangChain**](https://python.langchain.com/v0.2/docs/concepts/) with the **Ollama** [LLM](https://www.comet.com/site/blog/decoding-the-significance-of-llm-chains-in-llmops/) to perform various operations, 
 
 such as question-answering(**Q&A**) and other conversational tasks.
 
