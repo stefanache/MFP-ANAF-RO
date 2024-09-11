@@ -197,7 +197,7 @@ Press any key to continue . . .
 <br/>
 </details>
 
-In linia de comanda, **python train_doc2vec.py --model dm-dbow**, din acest fisier-batch(lot de lucrari) [***_RUN.bat***](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/chainer-doc2vec/_RUN.bat), puteti utiliza/substitui/suporta 3 tipuri de **model**:
+In penultima linie de comanda(**python train_doc2vec.py --model dm-dbow**), din acest fisier-batch(lot de lucrari) [***_RUN.bat***](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/chainer-doc2vec/_RUN.bat), puteti utiliza/substitui/suporta 3 tipuri de **model**:
 
  - Distributed Memory (**dm**)
  - Distributed Bag of Words (**dbow**) x
