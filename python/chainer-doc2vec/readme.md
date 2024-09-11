@@ -44,11 +44,12 @@ rotunjirea cuvintelor în contexte eșantionate din paragraf.
 
 Experimentele noastre pe mai multe sarcini de clasificare a textului, cum ar fi
 **Analiză a sentimentelor pe seturil de date**:
+
   - Stanford Treebank și 
   - IMDB
 
-demonstrează că metoda este competitivă cu cele mai avansate
-Metode. Performanța bună demonstrează meritele
+demonstrează că metoda este competitivă cu cele mai avansate metode. 
+<br/>Performanța bună demonstrează meritele
 de Paragraf Vector în captarea semanticii para-
 Grafice. De fapt, vectorii de paragraf au potențialul de a
 depășește multe puncte slabe ale modelelor de sac de cuvinte.
