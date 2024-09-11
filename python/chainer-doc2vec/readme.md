@@ -1,4 +1,4 @@
-<h1>Doc2Vec(Paragraph) model - o extensie a Word2Vec</h1>
+<h1>Modelul Doc2Vec(Paragraph) - o extensie a Word2Vec</h1>
 
  In acest [**workshop**](https://github.com/stefanache/MFP-ANAF-RO/tree/main/python/chainer-doc2vec) vom antrena un model **doc2vec** utilizand [chainer](https://docs.chainer.org/en/stable/).
 
