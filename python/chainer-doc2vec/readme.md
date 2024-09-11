@@ -6,7 +6,7 @@ la baza acestui [**workshop**](https://github.com/stefanache/MFP-ANAF-RO/tree/ma
 
 Acest depozit implementeaza un [**trainer-doc2vec**](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/chainer-doc2vec/train_doc2vec.py) pornind de la un articol-PDF publicat de editura [**arxiv**](https://arxiv.org/pdf/1405.4053v2)
 
-<details><summary>Iata cateva consideratii publicate in paragraful de debut al publicatiei intitulata***Abstract***(generalitati):</summary>
+<details><summary>Iata cateva consideratii plasate in paragraful de debut al publicatiei, intitulat <b>Abstract</b>(<i>xgeneralitati</b>):</summary>
 
 Mulți algoritmi de învățare automată(**ML**) necesită ca intrarea sa fie reprezentată ca o caracteristică vectoriala de lungime fixă. 
 
@@ -33,7 +33,7 @@ rezultate pe mai multe sarcini de analiză a textului, cum ar fi clasificări ș
 .
 </details>
 
-<details><summary>De asemenea, iata cateva consideratii publicate in zona rezervata ***Discutiei***(capitol **5.**) ace aceluiasi articol:</summary>
+<details><summary>De asemenea, iata cateva consideratii publicate in zona rezervata <b>Discutiei</b>(capitolul <i>5.</i>) ace aceluiasi articol:</summary>
 
 Am vazut in PDF-ul ***arxiv*** cum Paragraf-Vector, o învățare nesupravegheată
 algoritm care învață reprezentări vectoriale pentru variabile
