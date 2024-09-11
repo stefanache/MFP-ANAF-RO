@@ -29,7 +29,7 @@ To run this application, ensure you have Python 3.10 or later installed, along w
 
 To install the required Python packages, use the following command:
 
-**pip install -r requirements.txt**
+**pip install -r [requirements.txt](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/langchain_Ollama_llama3/requirements.txt)**
 
  - *Running the Application*
 
