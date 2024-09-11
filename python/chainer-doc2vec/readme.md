@@ -20,10 +20,15 @@ stocarea documentelor.
 Oferă o interfață standard pentru lanțuri, o mulțime de integrări cu alte instrumente și lanțuri end-to-end pentru aplicații comune.
 
 <b>Cum eficientizează LangChain înglobările?</b>
-LangChain eficientizează procesul de încorporare, permițând utilizatorilor să se implice cu modele de încorporare a textului prin intermediul prompturilor. 
+LangChain eficientizează procesul de încorporare, permițând utilizatorilor să se implice cu modele de încorporare a textului prin 
+intermediul prompturilor. 
 Aceste solicitări servesc ca interogări în limbaj natural, spunând acțiunile dorite pe care doriți să le efectueze modelul.
-Are o varietate de modele de încorporare a textului, fiecare cu avantajele și dezavantajele sale. Acestea includ OpenAI, Cohere și Hugging Face. Acești furnizori oferă o gamă de modele pre-instruite care pot fi utilizate pentru diferite sarcini NLP.
-De exemplu, GPT-3 de la OpenAI este un model de limbaj de ultimă generație, antrenat pe o cantitate masivă de date text. Modelele de încorporare Cohere sunt concepute pentru a fi extrem de precise și eficiente, cu accent pe reducerea cantității de date necesare pentru antrenament. 
+Are o varietate de modele de încorporare a textului, fiecare cu avantajele și dezavantajele sale. 
+Acestea includ OpenAI, Cohere și Hugging Face. 
+Acești furnizori oferă o gamă de modele pre-instruite care pot fi utilizate pentru diferite sarcini NLP.
+De exemplu, GPT-3 de la OpenAI este un model de limbaj de ultimă generație, antrenat pe o cantitate masivă de date text. 
+Modelele de încorporare Cohere sunt concepute pentru a fi extrem de precise și eficiente, cu accent pe reducerea cantității de date 
+necesare pentru antrenament. 
 Hugging Face oferă o gamă largă de modele pre-antrenate, inclusiv BERT, RoBERTa și GPT-2, care pot fi reglate fin pentru sarcini specifice NLP.
 În LangChain, aceste modele au capacitatea de a produce încorporare atât pentru interogări, cât și pentru documente. 
 Când o interogare este supusă încorporarii, șirul de text este convertit într-o matrice de valori numerice, fiecare valoare reprezentând o 
