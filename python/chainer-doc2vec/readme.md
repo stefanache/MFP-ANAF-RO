@@ -58,17 +58,21 @@ Acestea includ propoziții, paragrafe sau fragmente mai lungi de text care imit�
 
 Acum, ne vom îndrepta către abordări pentru formarea LLM:
 <b>Abordări pentru formarea LLM:</b>
-Există două abordări prin care putem ajusta LLM-urile cu propriile noastre date pentru o anumită sarcină (cum ar fi întrebare-răspuns, rezumare etc.). 
-Putem folosi RAG care oferă cum să încorporați datele dvs. de afaceri cu LLM-urile în timp ce executăm interogări ale clienților asupra datelor de afaceri.
+Există două abordări prin care putem ajusta LLM-urile cu propriile noastre date pentru o anumită sarcină (cum ar fi 
+întrebare-răspuns, rezumare etc.). 
+Putem folosi RAG care oferă cum să încorporați datele dvs. de afaceri cu LLM-urile în timp ce executăm interogări ale clienților 
+asupra datelor de afaceri.
 Reglajul fin este o alegere excelentă atunci când avem o cantitate mare de date etichetate specifice sarcinii.
-RAG oferă clienților o modalitate de a se angaja în conversații cu aceste documente și de a obține răspunsuri la întrebările lor din documente folosind LLM.
+RAG oferă clienților o modalitate de a se angaja în conversații cu aceste documente și de a obține răspunsuri la întrebările lor din 
+documente folosind LLM.
 Acum, să discutăm despre diferite tipuri de modele de încorporare.<h5>Explorarea peisajului divers al modelelor de încorporare</h5>
 Există o gamă diversă de modele de încorporare care joacă un rol esențial în transformarea datelor textuale într-un format numeric. 
 Aceste modele formează coloana vertebrală a aplicațiilor NLP și permit mașinilor să le înțeleagă și să le proceseze eficient. 
 În această parte, explorăm diverse modele de încorporare, fiecare oferind metode și capabilități distincte.
 <b>Înglobare de cuvinte</b>
  - <b>Word2Vec</b>: Utilizează încorporarea cuvintelor, captând semnificațiile semantice ale cuvintelor într-un spațiu vectorial.
- - <b>GloVe</b> (Global Vectors for Word Representation): Învață vectorii de cuvinte prin factorizarea logaritmului matricei de co-ocurență a cuvintelor.
+ - <b>GloVe</b> (Global Vectors for Word Representation): Învață vectorii de cuvinte prin factorizarea logaritmului matricei de
+   co-ocurență a cuvintelor.
 <b>Modele lingvistice pre-instruite</b>
  - <b>BERT</b> (Bidirectional Encoder Representations from Transformers): extrage înglobări contextualizate pentru cuvinte sau propoziții.
  - <b>GPT</b> (Generative Pre-Trained Transformer): generează înglobări folosind învățarea nesupravegheată pe un corpus mare.
@@ -83,13 +87,17 @@ Este conceput pentru a efectua eficient căutarea de similaritate și gruparea s
 contextul vectorilor cu dimensiuni mari.
 <b>LangChain Embeddings: un pilon fundamental al cadrului AI</b>
 LangChain Embeddings se mândrește cu o serie de caracteristici cheie care îmbunătățesc experiența generală a utilizatorului. 
-Versatilitatea platformei strălucește prin compatibilitatea cu diverși furnizori de modele, oferind utilizatorilor libertatea de a-l selecta pe cel care se aliniază cerințelor lor specifice.
+Versatilitatea platformei strălucește prin compatibilitatea cu diverși furnizori de modele, oferind utilizatorilor libertatea de a-l selecta pe
+cel care se aliniază cerințelor lor specifice.
 
-Asigurând eficiența, LangChain încorporează caracteristici precum setările de timeout și gestionarea limitelor de rată, garantând o utilizare fără întreruperi a API-ului. 
-Mai mult, platforma acordă prioritate fiabilității cu mecanisme de gestionare a erorilor încorporate, permițându-i să reîncerce automat o solicitare de până la 6 ori în cazul unei erori API, consolidându-și performanța robustă.
+Asigurând eficiența, LangChain încorporează caracteristici precum setările de timeout și gestionarea limitelor de rată, garantând o utilizare fără 
+întreruperi a API-ului. 
+Mai mult, platforma acordă prioritate fiabilității cu mecanisme de gestionare a erorilor încorporate, permițându-i să reîncerce automat o solicitare 
+de până la 6 ori în cazul unei erori API, consolidându-și performanța robustă.
 
 De la analize complexe de date la chatbot-uri captivante, AI a revoluționat diverse domenii. 
-Servind drept coloană vertebrală pentru numeroase soluții de inteligență artificială , modelele lingvistice mari (LLM) permit interacțiunile umane, cu ușurință în utilizare și intuitivitate.
+Servind drept coloană vertebrală pentru numeroase soluții de inteligență artificială , modelele lingvistice mari (LLM) permit interacțiunile umane, 
+cu ușurință în utilizare și intuitivitate.
 </pre><br/><hr/>
 </details>
 
