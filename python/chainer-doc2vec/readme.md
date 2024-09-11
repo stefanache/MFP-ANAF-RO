@@ -52,7 +52,8 @@ Utilizați modelul RAG pentru a genera înglobări.
 (Modelul RAG este un tip de model de limbaj care combină elemente atât de <b>regăsire</b>, cât și de <b>generare</b> în sarcinile de procesare a 
 limbajului natural)
 Acest proces de regăsire ajută la identificarea și colectarea informațiilor pertinente legate de contextul dat.
-Aici, „generare” se referă la procesul de creare a unui text sau a unui conținut asemănător omului folosind modele de învățare automată. 
+Aici, „generare” se referă la procesul de creare a unui text sau a unui conținut asemănător omului folosind modele de 
+învățare automată. 
 Acestea includ propoziții, paragrafe sau fragmente mai lungi de text care imită limbajul uman.
 
 Acum, ne vom îndrepta către abordări pentru formarea LLM:
