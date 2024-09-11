@@ -89,6 +89,7 @@ Aceste modele formează coloana vertebrală a aplicațiilor NLP și permit mași
 FAISS, care înseamnă Facebook AI Similarity Search, este o bibliotecă open-source dezvoltată de Facebook AI Research. 
 Este conceput pentru a efectua eficient căutarea de similaritate și gruparea seturi de date la scară mare, în special în 
 contextul vectorilor cu dimensiuni mari.
+
 <b>LangChain Embeddings: un pilon fundamental al cadrului AI</b>
 LangChain Embeddings se mândrește cu o serie de caracteristici cheie care îmbunătățesc experiența generală a utilizatorului. 
 Versatilitatea platformei strălucește prin compatibilitatea cu diverși furnizori de modele, oferind utilizatorilor libertatea  
