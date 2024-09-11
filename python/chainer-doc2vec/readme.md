@@ -1,8 +1,12 @@
+<h1>Doc2Vec(Paragraph) model - o extensie a Word2Vec</h1>
+
  In acest [**workshop**](https://github.com/stefanache/MFP-ANAF-RO/tree/main/python/chainer-doc2vec) vom antrena un model **doc2vec** utilizand [chainer](https://docs.chainer.org/en/stable/).
 
 [***Chainer***](https://docs.chainer.org/en/stable/) este un cadru **AI**(artificial inteligence)->**ML**(machine learning)->**DL**(deep leraning) foarte puternic.
 
 la baza acestui [**workshop**](https://github.com/stefanache/MFP-ANAF-RO/tree/main/python/chainer-doc2vec) a stat depozitul ghithub [chainer-doc2vec](https://github.com/monthly-hack/chainer-doc2vec)
+
+[**Doc2Vec**](https://medium.com/kinomoto-mag/developing-enhanced-chatbots-with-langchain-and-document-embeddings-an-extensive-manual-and-6ad4b4844dc8) este o extensie a modelulului **Word2Vec** care generează vectori pentru propoziție/paragraf/document, permițând reprezentarea unor blocuri mai mari de text.
 
 Acest depozit implementeaza un [**trainer-doc2vec**](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/chainer-doc2vec/train_doc2vec.py) pornind de la un articol-PDF publicat de editura online [**arxiv**](https://arxiv.org/pdf/1405.4053v2)
 
