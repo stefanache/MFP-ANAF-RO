@@ -53,14 +53,13 @@ Experimentele noastre pe mai multe sarcini de clasificare a textului, cum ar fi
   - [***IMDB***](https://developer.imdb.com/non-commercial-datasets/)
 
 demonstrează că metoda este competitivă cu cele mai avansate metode. 
-<br/>Performanța bună demonstrează meritele
-de Paragraf Vector în captarea semanticii para-
-Grafice. De fapt, vectorii de paragraf au potențialul de a
-depășește multe puncte slabe ale modelelor de sac de cuvinte.
-Deși obiectivul acestei lucrări este de a reprezenta texte,
-poate fi aplicată pentru a învăța reprezentări pentru
-date țiale. În domeniile non-text în care analizarea nu este disponibilă-
-capabil, ne așteptăm ca Paragraph Vector să fie o alternativă puternică
-la modelele
+<br/>Performanța bună, demonstrează meritele
+algoritmului **Paragraf-Vector** în captarea semanticii paragrafelor. 
+<br/>De fapt, **vectorii-paragraf** au potențialul de a
+depăși multe puncte slabe ale modelelor de tip sac de cuvinte(**BoW**).
+<br/>Deși obiectivul acestei lucrări este de a reprezenta texte,
+poate fi aplicată si pentru a învăța reprezentări pentru
+date țiale. <br/>În domeniile ***non-text***(ex. imagini ce pot contine text si nu numai), în care capabilitatea-analizarii nu este disponibilă, este de  așteptat ca modelele **Paragraph-Vector** să fie o alternativă puternică.
 
 </details>
+
