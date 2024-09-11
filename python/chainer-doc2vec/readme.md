@@ -6,8 +6,7 @@ s><summary><h3><b></b><a href="https://ridgeant-com.translate.goog/blogs/langcha
 Procesarea limbajului natural (NLP) este arta și știința de a permite mașinilor să înțeleagă și să interacționeze cu limbajul uman.
 În domeniul procesării limbajului natural (NLP), încorporarea textului este un proces crucial.
 Încorporarea textului se referă la procesul de conversie a cuvintelor sau expresiilor în vectori numerici, permițând mașinilor să înțeleagă și să proceseze limbajul într-o formă matematică.
-Această transformare facilitează diverse sarcini NLP, cum ar fi <br/> - <a href="https://ridgeant-com.translate.goog/our-work/abstract-based-sentiment-analysis-system-for-the-hospitality-industry/?_x_tr_sl=en&_x_tr_tl=ro&_x_tr_hl=ro&_x_tr_pto=sc">analiza sentimentelor</a> ,
- - traducerea automată și<br/> - gruparea documentelor, prin captarea relațiilor semantice și a contextului în datele textuale.
+Această transformare facilitează diverse sarcini NLP, cum ar fi <br/> - <a href="https://ridgeant-com.translate.goog/our-work/abstract-based-sentiment-analysis-system-for-the-hospitality-industry/?_x_tr_sl=en&_x_tr_tl=ro&_x_tr_hl=ro&_x_tr_pto=sc">analiza sentimentelor</a> ,<br/> - traducerea automată și<br/> - gruparea documentelor, prin captarea relațiilor semantice și a contextului în datele textuale.
 În acest articol, vom vorbi despre procesul de încorporare LangChain și despre cum este gata să transforme viitorul NLP.
 
 <b>Ce este mai exact LangChain?</b>
