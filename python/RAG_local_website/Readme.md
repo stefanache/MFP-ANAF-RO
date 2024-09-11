@@ -572,7 +572,7 @@ Iar ca sa aveti un tablou cat mai complet, trebuie sa spun ca intrebarile si ras
 
 Asadar, alegerea uneia sau alteia dintre variantele de implementare, depinde in cele din urma de cerintele proiectului si bineinteles de functionalitatile oferite de fiecare [RAG](https://ollama.com/blog/embedding-models) in parte.
 
-Nu in ultimul rand, atunci cand faceti alegerea trebuie sa va uitati si la efortul computational(de calcul) solicitat de fiecare extensie RAG in parte si bineninteles 
+Nu in ultimul rand, atunci cand efectuati alegerea trebuie sa va uitati si la efortul computational(de calcul) solicitat de fiecare extensie [RAG](https://medium.com/@aneesha161994/question-answering-in-rag-using-llama-index-92cfc0b4dae3) in parte si bineninteles 
 trebuie sa va uitati la la resursele HW+SW pe care le aveti la dispozitie in acel moment sau pe care le veti avea la momentul lansarii in productie.
 
 Astfel nu exista cel putin deocamdata o solutie care sa fie buna la toate.
