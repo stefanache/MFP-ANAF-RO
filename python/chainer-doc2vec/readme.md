@@ -197,8 +197,11 @@ Press any key to continue . . .
 <br/>
 </details>
 
-In linia de comanda **python train_doc2vec.py --model dm-dbow**, puteti utiliza/substitui/suporta 3 modele:
+In linia de comanda **python train_doc2vec.py --model dm-dbow**, puteti utiliza/substitui/suporta 3 tipuri de model:
 
+ - Distributed Memory (**dm**)
+ - Distributed Bag of Words (**dbow**) x
+ - Distributed Memory & Distributed Bag of Words (**dm-dbow**) - <i>cel utilizat de mine in acest batch ***_RUN.bat***</i>
 
 
 
