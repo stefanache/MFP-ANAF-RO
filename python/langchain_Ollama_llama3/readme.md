@@ -6,7 +6,7 @@ Inainte de toate sa vorbim de protagonistii acestui ***workshop***:
 
  - [**Langchain**](https://towardsdatascience.com/building-a-math-application-with-langchain-agents-23919d09a4d3) -
    
- - [**Ollama**](https://ollama.com/) si [**llama3**] - **Ollama** este un server ce poate fi instalat pe mia toate sistemele de operare importante(cross-platform) si care are drept scop livrarea modelelor mari de limbaj(cum este si LLM=**llama3**)
+ - [**Ollama**](https://ollama.com/) si [**llama3**](https://en.wikipedia.org/wiki/Llama_(language_model)) - **Ollama** este un server ce poate fi instalat pe mia toate sistemele de operare importante(cross-platform) si care are drept scop livrarea modelelor mari de limbaj(cum este si LLM=**llama3**)
    
 Am creat un fisier de executie/shell/batch denumit [**_Run.bat**](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/langchain_Ollama_llama3/_Run.bat) pt a simplifica procesul de instalare si rulare
 
