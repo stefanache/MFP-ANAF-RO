@@ -4,7 +4,7 @@ publicat in [Medium](https://medium.com/@ion.stefanache0/langchain-python-client
 
 Inainte de toate sa vorbim de protagonistii acestui [***workshop***](https://github.com/stefanache/MFP-ANAF-RO/tree/main/python/langchain_Ollama_llama3):
 
- - [**Langchain**](https://towardsdatascience.com/building-a-math-application-with-langchain-agents-23919d09a4d3) - [**Langchain**](https://en.wikipedia.org/wiki/LangChain) este un cadru de integrare(un instrument integrator) a modelelor lingvistice mari(**LLM**)
+ - [**Langchain**](https://towardsdatascience.com/building-a-math-application-with-langchain-agents-23919d09a4d3) - [**Langchain**](https://en.wikipedia.org/wiki/LangChain) este un cadru de integrare(un instrument integrator) a modelelor lingvistice mari(**LLM**), oferind interfete generale/comune dar si interfete mai rafinate(de obicei inlantuite), fiind de mare ajutor in munca de dezvoltare de aplicatii-AI(in analiza și rezumarea documentelor , chatbot-uri și analiza codului)
    
  - [**Ollama**](https://ollama.com/) si [**llama3**](https://en.wikipedia.org/wiki/Llama_(language_model)) - [**Ollama**]( este un server ce poate fi instalat pe mia toate sistemele de operare importante(cross-platform) si care are drept scop livrarea modelelor mari de limbaj(un exemplu de ***LLM***, ar putea fi chiar  **llama3**)
    
