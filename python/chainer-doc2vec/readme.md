@@ -17,7 +17,7 @@ Când vine vorba de texte, una dintre cele mai comune caracteristici de lungime 
  - ignoră semantica cuvintelor. 
 
 <br/>De exemplu, "puternic", "puternic"
-și "Paris" sunt la fel de îndepărtate ca importanta(ma refer la distanta de similaritate, daca vreti...). 
+și "Paris" sunt la fel de îndepărtate ca importanta(ma refer aici la ...distantele din spatiul vectorial al caracteristicilor). 
 <br/>În această lucrare, se propune <b>Paragraf-Vector</b>, un algoritm nesupravegheat
 care învață o caracteristică de lungime fixă<br/>(caracteristica, reprezentata 
 de, bucăți de text cu lungime variabilă, cum ar fi:<br/>
