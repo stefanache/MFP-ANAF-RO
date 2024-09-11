@@ -46,7 +46,7 @@ prelucrarea datelor LongChain Embedding
 
 Pasul 2: <b>Procesarea textului</b>
 Tokenizați textul folosind biblioteci precum NLTK sau
-Efectuați curățarea și normalizarea textului.
+Efectuați curățarea și normalizarea textului.<br/>
 Pasul 3: <b>Încorporarea generației</b>
 Utilizați modelul RAG pentru a genera înglobări. 
 (Modelul RAG este un tip de model de limbaj care combină elemente atât de regăsire, cât și de generare în sarcinile de procesare a limbajului natural)
