@@ -70,7 +70,7 @@ Mie codul original nu mi-a functionat asa ca am folosit **ChatGPT** in mod repet
 
 Este totusi un proces plictisitor **:)** !!!!
 
-Modelul LLM utilizat este **llama3**
+Modelul LLM utilizat este [**llama3**](https://llama.meta.com/)
 
 Asadar el trebuie incarcat o singura data in serverul [**Ollama**](https://ollama.com/download/windows) cu comanda urmatoare:
 
