@@ -9,7 +9,7 @@ la baza acestui [**workshop**](https://github.com/stefanache/MFP-ANAF-RO/tree/ma
 [**Doc2Vec**](https://medium.com/kinomoto-mag/developing-enhanced-chatbots-with-langchain-and-document-embeddings-an-extensive-manual-and-6ad4b4844dc8) este o extensie a modelulului **Word2Vec** care generează vectori pentru propoziție/paragraf/document, permițând reprezentarea unor blocuri mai mari de text.
 
 
-[**Doc2Vec** (**Paragraph Vector**)](https://medium.com/kinomoto-mag/developing-enhanced-chatbots-with-langchain-and-document-embeddings-an-extensive-manual-and-6ad4b4844dc8) - O extensie a modelului **Word2Vec** este conceput special pentru a crea înglobări pentru blocuri mai mari de text, cum ar fi propoziții, paragrafe sau documente întregi. <br/>**Doc2Vec**, introduce un vector ***„ID document”*** care este antrenat alături de ceilalti vectori de cuvinte, captând direct ***unicitatea*** contextului documentului.
+[**Doc2Vec** (**Paragraph Vector**)](https://medium.com/kinomoto-mag/developing-enhanced-chatbots-with-langchain-and-document-embeddings-an-extensive-manual-and-6ad4b4844dc8) - O extensie a modelului **Word2Vec** este conceput special pentru a crea înglobări pentru blocuri mai mari de text, cum ar fi propoziții, paragrafe sau documente întregi. <br/>**Doc2Vec**, introduce un vector ***„ID document”*** care este antrenat, alături de ceilalti vectori de cuvinte, captând direct ***unicitatea*** contextului documentului.
 
 Acest depozit implementeaza un [**trainer-doc2vec**](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/chainer-doc2vec/train_doc2vec.py) pornind de la un articol-PDF publicat de editura online [**arxiv**](https://arxiv.org/pdf/1405.4053v2)
 
