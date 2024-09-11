@@ -60,22 +60,21 @@ Există două abordări prin care putem ajusta LLM-urile cu propriile noastre da
 Putem folosi RAG care oferă cum să încorporați datele dvs. de afaceri cu LLM-urile în timp ce executăm interogări ale clienților asupra datelor de afaceri.
 Reglajul fin este o alegere excelentă atunci când avem o cantitate mare de date etichetate specifice sarcinii.
 RAG oferă clienților o modalitate de a se angaja în conversații cu aceste documente și de a obține răspunsuri la întrebările lor din documente folosind LLM.
-Acum, să discutăm despre diferite tipuri de modele de încorporare.
-<h5>Explorarea peisajului divers al modelelor de încorporare</h5>
+Acum, să discutăm despre diferite tipuri de modele de încorporare.<h5>Explorarea peisajului divers al modelelor de încorporare</h5>
 Există o gamă diversă de modele de încorporare care joacă un rol esențial în transformarea datelor textuale într-un format numeric. 
 Aceste modele formează coloana vertebrală a aplicațiilor NLP și permit mașinilor să le înțeleagă și să le proceseze eficient. 
 În această parte, explorăm diverse modele de încorporare, fiecare oferind metode și capabilități distincte.
 <b>Înglobare de cuvinte</b>
- - Word2Vec: Utilizează încorporarea cuvintelor, captând semnificațiile semantice ale cuvintelor într-un spațiu vectorial.
- - GloVe (Global Vectors for Word Representation): Învață vectorii de cuvinte prin factorizarea logaritmului matricei de co-ocurență a cuvintelor.
+ - <b>Word2Vec</b>: Utilizează încorporarea cuvintelor, captând semnificațiile semantice ale cuvintelor într-un spațiu vectorial.
+ - <b>GloVe</b> (Global Vectors for Word Representation): Învață vectorii de cuvinte prin factorizarea logaritmului matricei de co-ocurență a cuvintelor.
 <b>Modele lingvistice pre-instruite</b>
- - BERT (Bidirectional Encoder Representations from Transformers): extrage înglobări contextualizate pentru cuvinte sau propoziții.
- - GPT (Generative Pre-Trained Transformer): generează înglobări folosind învățarea nesupravegheată pe un corpus mare.
- - XLNet: Un model bazat pe transformator care utilizează modelarea limbajului bazat pe permutare.
+ - <b>BERT</b> (Bidirectional Encoder Representations from Transformers): extrage înglobări contextualizate pentru cuvinte sau propoziții.
+ - <b>GPT</b> (Generative Pre-Trained Transformer): generează înglobări folosind învățarea nesupravegheată pe un corpus mare.
+ - <b>XLNet</b>: Un model bazat pe transformator care utilizează modelarea limbajului bazat pe permutare.
 <b>Modele de încorporare personalizate</b>
- - Doc2Vec: Învață încorporarea la nivel de document.
- - Sentence Transformers: se concentrează pe încorporarea propozițiilor, utilizând modele de transformatoare pre-antrenate, cum ar fi 
- BERT sau RoBERTa, pentru încorporarea propozițiilor.
+ - <b>Doc2Vec</b>: Învață încorporarea la nivel de document.
+ - <b>Sentence Transformers</b>: se concentrează pe încorporarea propozițiilor, utilizând modele de transformatoare pre-antrenate, cum ar fi 
+ <b>BERT</b> sau <b>RoBERTa</b>, pentru încorporarea propozițiilor.
 <b>biblioteca FAISS</b>
 FAISS, care înseamnă Facebook AI Similarity Search, este o bibliotecă open-source dezvoltată de Facebook AI Research. 
 Este conceput pentru a efectua eficient căutarea de similaritate și gruparea seturi de date la scară mare, în special în 
