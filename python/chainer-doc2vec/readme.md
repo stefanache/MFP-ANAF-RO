@@ -11,11 +11,14 @@ Această transformare facilitează diverse sarcini NLP, cum ar fi <a href="https
 
 <b>Ce este mai exact LangChain?</b>
 LangChain este un cadru open-source pentru dezvoltarea de aplicații bazate pe modele de limbaj.
-LangChain, funcționând ca un cadru pentru integrarea modelelor de limbaj, împărtășește o mare parte în comun cu aplicațiile de model de limbaj general. Aceste aplicații includ analiza și rezumarea documentelor, <a href="https://ridgeant-com.translate.goog/blogs/llm-for-chatbot-design/?_x_tr_sl=en&_x_tr_tl=ro&_x_tr_hl=ro&_x_tr_pto=sc">dezvoltarea chatbot</a> , precum și analiza codului.
-LangChain oferă toate instrumentele și integrările pentru construirea de aplicații LLM, inclusiv încărcarea, încorporarea și stocarea documentelor. Oferă o interfață standard pentru lanțuri, o mulțime de integrări cu alte instrumente și lanțuri end-to-end pentru aplicații comune.
+LangChain, funcționând ca un cadru pentru integrarea modelelor de limbaj, împărtășește o mare parte în comun cu aplicațiile de model de limbaj general. 
+Aceste aplicații includ analiza și rezumarea documentelor, <a href="https://ridgeant-com.translate.goog/blogs/llm-for-chatbot-design/?_x_tr_sl=en&_x_tr_tl=ro&_x_tr_hl=ro&_x_tr_pto=sc">dezvoltarea chatbot</a> , precum și analiza codului.
+LangChain oferă toate instrumentele și integrările pentru construirea de aplicații LLM, inclusiv încărcarea, încorporarea și stocarea documentelor. 
+Oferă o interfață standard pentru lanțuri, o mulțime de integrări cu alte instrumente și lanțuri end-to-end pentru aplicații comune.
 
 <b>Cum eficientizează LangChain înglobările?</b>
-LangChain eficientizează procesul de încorporare, permițând utilizatorilor să se implice cu modele de încorporare a textului prin intermediul prompturilor. Aceste solicitări servesc ca interogări în limbaj natural, spunând acțiunile dorite pe care doriți să le efectueze modelul.
+LangChain eficientizează procesul de încorporare, permițând utilizatorilor să se implice cu modele de încorporare a textului prin intermediul prompturilor. 
+Aceste solicitări servesc ca interogări în limbaj natural, spunând acțiunile dorite pe care doriți să le efectueze modelul.
 Are o varietate de modele de încorporare a textului, fiecare cu avantajele și dezavantajele sale. Acestea includ OpenAI, Cohere și Hugging Face. Acești furnizori oferă o gamă de modele pre-instruite care pot fi utilizate pentru diferite sarcini NLP.
 De exemplu, GPT-3 de la OpenAI este un model de limbaj de ultimă generație, antrenat pe o cantitate masivă de date text. Modelele de încorporare Cohere sunt concepute pentru a fi extrem de precise și eficiente, cu accent pe reducerea cantității de date necesare pentru antrenament. Hugging Face oferă o gamă largă de modele pre-antrenate, inclusiv BERT, RoBERTa și GPT-2, care pot fi reglate fin pentru sarcini specifice NLP.
 În LangChain, aceste modele au capacitatea de a produce încorporare atât pentru interogări, cât și pentru documente. Când o interogare este supusă încorporarii, șirul de text este convertit într-o matrice de valori numerice, fiecare valoare reprezentând o dimensiune în spațiul de încorporare. Pentru documente, funcția embedDocuments acceptă o matrice de șiruri de text și returnează o matrice a înglobărilor respective.
@@ -67,9 +70,11 @@ FAISS, care înseamnă Facebook AI Similarity Search, este o bibliotecă open-so
 Este conceput pentru a efectua eficient căutarea de similaritate și gruparea seturi de date la scară mare, în special în 
 contextul vectorilor cu dimensiuni mari.
 <b>LangChain Embeddings: un pilon fundamental al cadrului AI</b>
-LangChain Embeddings se mândrește cu o serie de caracteristici cheie care îmbunătățesc experiența generală a utilizatorului. Versatilitatea platformei strălucește prin compatibilitatea cu diverși furnizori de modele, oferind utilizatorilor libertatea de a-l selecta pe cel care se aliniază cerințelor lor specifice.
+LangChain Embeddings se mândrește cu o serie de caracteristici cheie care îmbunătățesc experiența generală a utilizatorului. 
+Versatilitatea platformei strălucește prin compatibilitatea cu diverși furnizori de modele, oferind utilizatorilor libertatea de a-l selecta pe cel care se aliniază cerințelor lor specifice.
 
-Asigurând eficiența, LangChain încorporează caracteristici precum setările de timeout și gestionarea limitelor de rată, garantând o utilizare fără întreruperi a API-ului. Mai mult, platforma acordă prioritate fiabilității cu mecanisme de gestionare a erorilor încorporate, permițându-i să reîncerce automat o solicitare de până la 6 ori în cazul unei erori API, consolidându-și performanța robustă.
+Asigurând eficiența, LangChain încorporează caracteristici precum setările de timeout și gestionarea limitelor de rată, garantând o utilizare fără întreruperi a API-ului. 
+Mai mult, platforma acordă prioritate fiabilității cu mecanisme de gestionare a erorilor încorporate, permițându-i să reîncerce automat o solicitare de până la 6 ori în cazul unei erori API, consolidându-și performanța robustă.
 
 De la analize complexe de date la chatbot-uri captivante, AI a revoluționat diverse domenii. Servind drept coloană vertebrală pentru numeroase soluții de inteligență artificială , modelele lingvistice mari (LLM) permit interacțiunile umane, cu ușurință în utilizare și intuitivitate.
 </pre><br/><hr/>
