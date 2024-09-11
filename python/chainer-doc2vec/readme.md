@@ -39,7 +39,7 @@ Am vazut in PDF-ul ***arxiv*** cum Paragraf-Vector, o învățare nesupravegheat
 algoritm care învață reprezentări vectoriale pentru variabile
 bucăți de text de o anumita lungime, cum ar fi propoziții și documente.
 
-Reprezentările vectoriale sunt învățate pentru a prezice sur-
+Reprezentările vectoriale sunt învățate pentru a prezice sur-,
 rotunjirea cuvintelor în contexte eșantionate din paragraf.
 
 Experimentele noastre pe mai multe sarcini de clasificare a textului, cum ar fi
