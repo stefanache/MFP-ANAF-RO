@@ -203,7 +203,7 @@ In [penultima](https://dexonline.ro/definitie/penultima) linie de comanda(**pyth
  - **Distributed Bag of Words(BoW)** (**dbow**) x
  - **Distributed Memory** & **Distributed Bag of Words(BoW)** (**dm-dbow**) - <i>cel utilizat de mine in acest batch [***_RUN.bat***](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/chainer-doc2vec/_RUN.bat)</i>
 
-Desigur, odata ce ati antrenat un astfel de model, il puteti salva intr-un fisier(de tip **.model**) si opoi, il puteti testa sau, il puteti folosi ori de cate ori aveti nevoie de acesta, in predictie(ca si model **generative-AI**).
+Desigur, odata ce ati antrenat un astfel de model, il puteti salva local, intr-un fisier(de tip [**.model**](https://medium.com/wisio/a-gentle-introduction-to-doc2vec-db3e8c0cce5e)) si opoi, il puteti testa sau, il puteti folosi ori de cate ori aveti nevoie de acesta, in predictie(ca si model **generative-AI**).
 
 
 
