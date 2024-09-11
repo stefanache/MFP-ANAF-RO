@@ -49,7 +49,7 @@ Reprezentările vectoriale sunt învățate pentru a prezice cuvintele(aproximat
 Experimentele noastre pe mai multe sarcini de clasificare a textului, cum ar fi
 ***Analiză a sentimentelor*** pe seturile de date:
 
-  - [**Stanford Treebank***](https://www.kaggle.com/datasets/atulanandjha/stanford-sentiment-treebank-v2-sst2) și 
+  - [***Stanford Treebank***](https://www.kaggle.com/datasets/atulanandjha/stanford-sentiment-treebank-v2-sst2) și 
   - [***IMDB***](https://developer.imdb.com/non-commercial-datasets/)
 
 demonstrează că metoda este competitivă cu cele mai avansate metode. 
