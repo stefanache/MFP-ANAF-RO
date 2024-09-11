@@ -1,6 +1,6 @@
-In acest **workshop** vom antrena un model doc2vec utilizand [chainer](https://docs.chainer.org/en/stable/).
+In acest **workshop** vom antrena un model **doc2vec** utilizand [chainer](https://docs.chainer.org/en/stable/).
 
-[Chainer](https://docs.chainer.org/en/stable/) este un cadru DL foarte puternic.
+[***Chainer***](https://docs.chainer.org/en/stable/) este un cadru **AI**(artificial inteligence)-**ML**(machine learning)-**DL**(deep leraning) foarte puternic.
 
 la baza acestui **workshp** a stat depozitul ghithub [chainer-doc2vec](https://github.com/monthly-hack/chainer-doc2vec)
 
