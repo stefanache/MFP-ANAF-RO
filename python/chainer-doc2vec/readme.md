@@ -1,4 +1,14 @@
-Mulți algoritmi de învățare automată(ML) necesită ca intrarea sa fi reprezentată ca o caracteristică vectoriala de lungime fixă. 
+In acest **workshop** vom antrena un model doc2vec utilizand [chainer](https://docs.chainer.org/en/stable/).
+
+[Chainer](https://docs.chainer.org/en/stable/) este un cadru DL foarte puternic.
+
+la baza acestui **workshp** a stat depozitul ghithub [chainer-doc2vec](https://github.com/monthly-hack/chainer-doc2vec)
+
+Acest depozit implementeaza un trainer doc2vec pornind de la un articol PDF publicat de editura **arxiv**
+
+<details><summary>Iata cateva consideratii publicate in paragraful Abstract:</summary>
+
+Mulți algoritmi de învățare automată(ML) necesită ca intrarea sa fie reprezentată ca o caracteristică vectoriala de lungime fixă. 
 
 Când vine vorba de texte, una dintre cele mai comune caracteristici de lungime fixă sunt bag-ul(punga/sac) de cuvinte(eng.BoW).
 
@@ -21,6 +31,9 @@ Rezultatele empirice arată că Paragraf-Vectorii grafici depășesc modelele de
 precum și alte tehnici de reprezentare a textului În cele din urmă, realizăm noi re-
 rezultate pe mai multe sarcini de analiză a textului, cum ar fi clasificări și naliza sentimentelor
 .
+</details>
+
+<details><summary>De asemena iata cateva consideratii publicate in zona de concluzii ace aceluiasi articol:</summary>
 
 Am vazut in PDF-ul ***arxiv*** cum Paragraf-Vector, o învățare nesupravegheată
 algoritm care învață reprezentări vectoriale pentru variabile
@@ -42,4 +55,6 @@ Deși obiectivul acestei lucrări este de a reprezenta texte,
 poate fi aplicată pentru a învăța reprezentări pentru
 date țiale. În domeniile non-text în care analizarea nu este disponibilă-
 capabil, ne așteptăm ca Paragraph Vector să fie o alternativă puternică
-la modelele 
+la modelele
+
+</details>
