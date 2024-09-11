@@ -15,7 +15,7 @@ Pentru a implementa aceasta [***lucrare***](https://github.com/stefanache/MFP-AN
 Daca nu doriti sau nu puteti sa-l utilizati, urmariti aceste indicatii pas cu pas:
 
 
-README for [LangChain-Ollama Application](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/langchain_Ollama_llama3/Langchain_Ollama_llama3.py) (`Langchain_Ollama_llama3.py`)
+Detalii despre sursa principala python: [LangChain-Ollama Application](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/langchain_Ollama_llama3/Langchain_Ollama_llama3.py) (`Langchain_Ollama_llama3.py`)
 
 
 <details>
