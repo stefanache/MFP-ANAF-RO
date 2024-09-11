@@ -1,8 +1,8 @@
-In acest **workshop** vom antrena un model **doc2vec** utilizand [chainer](https://docs.chainer.org/en/stable/).
+In acest [**workshop**](https://github.com/stefanache/MFP-ANAF-RO/tree/main/python/chainer-doc2vec) vom antrena un model **doc2vec** utilizand [chainer](https://docs.chainer.org/en/stable/).
 
 [***Chainer***](https://docs.chainer.org/en/stable/) este un cadru **AI**(artificial inteligence)-**ML**(machine learning)-**DL**(deep leraning) foarte puternic.
 
-la baza acestui **workshp** a stat depozitul ghithub [chainer-doc2vec](https://github.com/monthly-hack/chainer-doc2vec)
+la baza acestui [**workshp**](https://github.com/stefanache/MFP-ANAF-RO/tree/main/python/chainer-doc2vec) a stat depozitul ghithub [chainer-doc2vec](https://github.com/monthly-hack/chainer-doc2vec)
 
 Acest depozit implementeaza un trainer doc2vec pornind de la un articol PDF publicat de editura **arxiv**
 
