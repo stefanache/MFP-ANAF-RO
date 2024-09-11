@@ -39,7 +39,7 @@ precum și alte tehnici de reprezentare a textului <br/>În cele din urmă, se p
 
 </details>
 
-<details><summary>De asemenea, iata cateva alte consideratii, publicate in zona rezervata <b>Discutiei</b> finale(capitolul <i>5.</i>) ale aceluiasi articol:</summary>
+<details><summary>De asemenea, iata cateva alte consideratii, publicate in zona rezervata <b>Discutiei</b> finale(capitolul <i>5.</i>), ale aceluiasi articol:</summary>
 
 <br/>Am vazut in PDF-ul ***arxiv*** cum învățarea nesupravegheată, <b>Paragraf-Vector</b>, algoritm care învață(reprezentări vectoriale) din
 bucăți de text de o lungime variabila, cum ar fi propoziții și documente.
