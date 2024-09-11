@@ -1,4 +1,4 @@
-<h3><b></b>Doc2Vec</b>(Paragraph-Vector) - extensie a <b></b>Word2Vec</b></h3>
+<h3><b></b>Doc2Vec</b>(Paragraph-Vector) - extensie a <b></b><a href="https://ridgeant-com.translate.goog/blogs/langchain-embedding/?_x_tr_sl=en&_x_tr_tl=ro&_x_tr_hl=ro&_x_tr_pto=sc">Word2Vec</a></b></h3>
 
  In acest [**workshop**](https://github.com/stefanache/MFP-ANAF-RO/tree/main/python/chainer-doc2vec) vom antrena un model **doc2vec** utilizand [chainer](https://docs.chainer.org/en/stable/).
 
