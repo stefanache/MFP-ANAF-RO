@@ -2,7 +2,7 @@ Repository: [**Langchain_Ollama_llama3**](https://github.com/duncanodhis/Langcha
 
 publicat in [Medium](https://medium.com/@ion.stefanache0/langchain-python-client-for-ollama-69f6c24078e2) **@ion.stefanache0**
 
-Am creat un fisier de executie/shell denumit **_Run.bat** pt a simplifica procesul de instalare si rulare
+Am creat un fisier de executie/shell/batch denumit [**_Run.bat**](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/langchain_Ollama_llama3/_Run.bat) pt a simplifica procesul de instalare si rulare
 
 (liniile comentate cu **rem** se decomenteaza pt a fi rulate o singura data si apoi se recomentreaza!)
 
