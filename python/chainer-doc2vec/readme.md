@@ -327,7 +327,7 @@ Pentru textul de intrare/intrebare("[An American in Paris](https://www.imdb.com/
     https://github.com/monthly-hack/chainer-doc2vec/tree/master
     TEST: do not must be patient...
     >> query: <a href="https://en.wikipedia.org/wiki/An_American_in_Paris_(film)">An American in Paris</a>
-    [Aristotle](https://en.wikipedia.org/wiki/Aristotle):       0.16381007432937622
+    <a href="https://en.wikipedia.org/wiki/Aristotle">Aristotle</pre>a>:       0.16381007432937622
     A:               0.10739149153232574
     Albedo:          0.10110612213611603
     Achilles:        0.08995915949344635
