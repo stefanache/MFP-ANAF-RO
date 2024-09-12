@@ -320,7 +320,7 @@ Desigur, odata ce ati antrenat un astfel de model, il puteti salva local, intr-u
 O astfel de utilizare/folosire a modelului generat/antrenat anterior de tip [**doc2vec.model**](https://medium.com/wisio/a-gentle-introduction-to-doc2vec-db3e8c0cce5e), o gasiti in fisierul [**search.py**](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/chainer-doc2vec/search.py); 
 <br/>Acest test poate fi rulat prin executia batch-ului [**_Test.bat**](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/chainer-doc2vec/_Test.bat) si face o regasire a intrarii(dupa similaritate) utilizand modelul [**doc2vec.model**](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/chainer-doc2vec/doc2vec.model).
 
-Pentru textul de intrare/intrebare("An American in Paris") stocat in fisierul [**query.txt**](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/chainer-doc2vec/input.txt) ar trebui sa obtineti urmatorul... 
+Pentru textul de intrare/intrebare("[An American in Paris](https://www.imdb.com/title/tt0043278/)") stocat in fisierul [**query.txt**](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/chainer-doc2vec/input.txt) ar trebui sa obtineti urmatorul... 
 <details><summary>...raspuns in consola</summary>
   <br/><hr/>
   <pre>
