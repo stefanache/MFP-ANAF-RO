@@ -320,9 +320,10 @@ Desigur, odata ce ati antrenat un astfel de model, il puteti salva local, intr-u
 O astfel de utilizare/folosire a modelului generat/antrenat anterior de tip [**doc2vec.model**](https://medium.com/wisio/a-gentle-introduction-to-doc2vec-db3e8c0cce5e), o gasiti in fisierul [**search.py**](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/chainer-doc2vec/search.py); 
 <br/>Acest test poate fi rulat prin executia batch-ului [**_Test.bat**](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/chainer-doc2vec/_Test.bat) si face o regasire a intrarii(dupa similaritate) utilizand modelul [**doc2vec.model**](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/chainer-doc2vec/doc2vec.model).
 
-Pentru textul de intrare("") stocat in fisierul [**input.txt**](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/chainer-doc2vec/input.txt) ar trebui sa obtineti urmatorul... 
+Pentru textul de intrare/intrebare("An American in Paris") stocat in fisierul [**input.txt**](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/chainer-doc2vec/input.txt) ar trebui sa obtineti urmatorul... 
 <details><summary>...raspuns in consola</summary>
   <br/><hr/>
+  <pre>
     https://github.com/monthly-hack/chainer-doc2vec/tree/master
     TEST: must be patient...if have not more resources like GPU....
     >> query: An American in Paris
@@ -333,6 +334,7 @@ Pentru textul de intrare("") stocat in fisierul [**input.txt**](https://github.c
     Abraham Lincoln: 0.0801846906542778
     >>
     Press any key to continue . . .
+  </pre>
   <hr/><br/>
 </details>
 O incercare similara(**train_doc2vec.py**,**train_word2vec.py** =sau=  orice alta reprezentare **"data"2vec**) poate fi descarcata/gasita [d]in acest depozit-github [@***dkaterenchuk***/**py_anything2vec**](https://github.com/dkaterenchuk/py_anything2vec), dar in acest caz este libraria-[**NLP**](https://dokumen.pub/practical-natural-language-processing-a-comprehensive-guide-to-building-real-world-nlp-systems-1492054054-9781492054054-h-1409126.html)folosita  sau instrumentul-[**NLP**](https://www.netinfo.click/books/prog/The%20Handbook%20of%20NLP%20with%20Gensim.pdf) folosit pentru crearea/antrenarea/generarea modelelor(**word2vec.model** si **doc2vec.model**) este [**gensim**](https://radimrehurek.com/gensim/)
