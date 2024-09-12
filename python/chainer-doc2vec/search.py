@@ -38,7 +38,7 @@ try:
                 continue
             if index2word[i] == q:
                 continue
-            print('{0}: {1}'.format(index2word[i], similarity[i]))
+            print('{0}: {1}'.format(index2word[i], similarity[i]),flush=True)
             count += 1
             if count == n_result:
                 break
