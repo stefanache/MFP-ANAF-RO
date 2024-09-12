@@ -315,7 +315,7 @@ In [penultima](https://dexonline.ro/definitie/penultima) linie de comanda(**pyth
  - **Distributed Bag of Words(BoW)** (**dbow**) x
  - **Distributed Memory** & **Distributed Bag of Words(BoW)** (**dm-dbow**) - <i>cel utilizat de mine in acest batch [***_RUN.bat***](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/chainer-doc2vec/_RUN.bat)</i>
 
-Desigur, odata ce ati antrenat un astfel de model, il puteti salva local, intr-un fisier(de tip [**.model**](https://medium.com/wisio/a-gentle-introduction-to-doc2vec-db3e8c0cce5e)) si opoi, il puteti testa sau, il puteti [utiliza](https://medium.com/kinomoto-mag/developing-enhanced-chatbots-with-langchain-and-document-embeddings-an-extensive-manual-and-6ad4b4844dc8) ori de cate ori veti avea nevoie de acesta, in predictie(ca si model [**generative-AI**](https://spotintelligence.com/2023/09/06/doc2vec/)).
+Desigur, odata ce ati antrenat un astfel de model, il puteti salva local, intr-un fisier(de tip [**word2vec.model sau doc2vec.model**](https://medium.com/wisio/a-gentle-introduction-to-doc2vec-db3e8c0cce5e)) si opoi, il puteti testa sau, il puteti [utiliza](https://medium.com/kinomoto-mag/developing-enhanced-chatbots-with-langchain-and-document-embeddings-an-extensive-manual-and-6ad4b4844dc8) ori de cate ori veti avea nevoie de acesta, in predictie(ca si model [**generative-AI**](https://spotintelligence.com/2023/09/06/doc2vec/)).
 
 
 
