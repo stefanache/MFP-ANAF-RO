@@ -27,11 +27,11 @@ try:
     while True:
         q = six.moves.input('>> ')
         if q not in word2index:
-            print('"{0}" is not found'.format(q))
+            print('"{0}" is not found'.format(q),flush=True)
             continue
         v = w[word2index[q]]
         similarity = w.dot(v)
-        print('query: {}'.format(q))
+        print('query: {}'.format(q),flush=True)
         count = 0
         for i in (-similarity).argsort():
             if numpy.isnan(similarity[i]):
