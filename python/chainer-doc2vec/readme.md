@@ -318,6 +318,6 @@ In [penultima](https://dexonline.ro/definitie/penultima) linie de comanda(**pyth
 Desigur, odata ce ati antrenat un astfel de model, il puteti salva local, intr-un fisier(de tip [**word2vec.model**](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/chainer-doc2vec/word2vec.model) sau [**doc2vec.model**](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/chainer-doc2vec/doc2vec.model)) si opoi, il puteti testa sau, il puteti [utiliza](https://medium.com/kinomoto-mag/developing-enhanced-chatbots-with-langchain-and-document-embeddings-an-extensive-manual-and-6ad4b4844dc8) ori de cate ori veti avea nevoie de acesta, in predictie(ca si model [**generative-AI**](https://spotintelligence.com/2023/09/06/doc2vec/)).
 
 O astfel de utilizare/folosire a modelului generat/antrenat anterior de tip [**doc2vec.model**](https://medium.com/wisio/a-gentle-introduction-to-doc2vec-db3e8c0cce5e), o gasiti in fisierul [**search.py**](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/chainer-doc2vec/search.py); 
-<br/>Aceast test face o regasire dupa similaritate.
+<br/>Acest test face o regasire dupa similaritate.
 
 O incercare similara(**train_doc2vec.py**,**train_word2vec.py** =sau=  orice alta reprezentare **"data"2vec**) poate fi descarcata/gasita [d]in acest depozit-github [***dkaterenchuk***/**py_anything2vec**] (https://github.com/dkaterenchuk/py_anything2vec), dar in acest caz este folosita libraria sau instrumentul [**gensim**](https://radimrehurek.com/gensim/)
