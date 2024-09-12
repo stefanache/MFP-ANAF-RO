@@ -4,6 +4,6 @@ echo https://github.com/monthly-hack/chainer-doc2vec/tree/master
 
 echo must be patient...if have not more resources like GPU....
 
-python search.py |more
+python search.py <input.txt |more
 
 pause
