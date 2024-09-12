@@ -325,7 +325,7 @@ Pentru textul de intrare/intrebare("An American in Paris") stocat in fisierul [*
   <br/><hr/>
   <pre>
     https://github.com/monthly-hack/chainer-doc2vec/tree/master
-    TEST: must be patient...if have not more resources like GPU....
+    TEST: do not must be patient...
     >> query: An American in Paris
     Aristotle:       0.16381007432937622
     A:               0.10739149153232574
