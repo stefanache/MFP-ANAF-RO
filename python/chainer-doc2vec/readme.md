@@ -327,10 +327,10 @@ Pentru textul de intrare/intrebare("An American in Paris") stocat in fisierul [*
     https://github.com/monthly-hack/chainer-doc2vec/tree/master
     TEST: must be patient...if have not more resources like GPU....
     >> query: An American in Paris
-    Aristotle: 0.16381007432937622
-    A: 0.10739149153232574
-    Albedo: 0.10110612213611603
-    Achilles: 0.08995915949344635
+    Aristotle:       0.16381007432937622
+    A:               0.10739149153232574
+    Albedo:          0.10110612213611603
+    Achilles:        0.08995915949344635
     Abraham Lincoln: 0.0801846906542778
     >>
     Press any key to continue . . .
