@@ -337,4 +337,7 @@ Pentru textul de intrare/intrebare("An American in Paris") stocat in fisierul [*
   </pre>
   <hr/><br/>
 </details>
+
+Raspunsul extrage 5 posibilitati fiecare/impreuna cu **probabilitea/similaritatea** aferenta si in plus/colateral mai obtineti si un fisier [***log***](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/chainer-doc2vec/result/log) care va afiseaza cateva informatii despre cum a decurs procesul cautarii
+
 O incercare similara(**train_doc2vec.py**,**train_word2vec.py** =sau=  orice alta reprezentare **"data"2vec**) poate fi descarcata/gasita [d]in acest depozit-github [@***dkaterenchuk***/**py_anything2vec**](https://github.com/dkaterenchuk/py_anything2vec), dar in acest caz este libraria-[**NLP**](https://dokumen.pub/practical-natural-language-processing-a-comprehensive-guide-to-building-real-world-nlp-systems-1492054054-9781492054054-h-1409126.html)folosita  sau instrumentul-[**NLP**](https://www.netinfo.click/books/prog/The%20Handbook%20of%20NLP%20with%20Gensim.pdf) folosit pentru crearea/antrenarea/generarea modelelor(**word2vec.model** si **doc2vec.model**) este [**gensim**](https://radimrehurek.com/gensim/)
