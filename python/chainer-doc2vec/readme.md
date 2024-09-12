@@ -320,4 +320,4 @@ Desigur, odata ce ati antrenat un astfel de model, il puteti salva local, intr-u
 O astfel de utilizare/folosire a modelului generat/antrenat anterior de tip **doc2vec.model**, o gasiti in fisierul [**search.py**](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/chainer-doc2vec/search.py); 
 <br/>Aceast test face o regasire dupa similaritate.
 
-O incercare similara(**train_doc2vec.py**,**train_word2vec.py** =sau=  orice alta reprezentare **"data"2vec**) poate fi descarcata/gasita [d]in acest depozit-github [***dkaterenchuk***/**py_anything2vec**] (https://github.com/dkaterenchuk/py_anything2vec), dar in acest caz este folosita libraria sau instrumendul **gensim**
+O incercare similara(**train_doc2vec.py**,**train_word2vec.py** =sau=  orice alta reprezentare **"data"2vec**) poate fi descarcata/gasita [d]in acest depozit-github [***dkaterenchuk***/**py_anything2vec**] (https://github.com/dkaterenchuk/py_anything2vec), dar in acest caz este folosita libraria sau instrumentul [**gensim**](https://radimrehurek.com/gensim/)
