@@ -338,7 +338,7 @@ Pentru textul de intrare/intrebare("[An American in Paris](https://www.imdb.com/
   <hr/><br/>
 </details>
 
-Raspunsul extrage 5 posibilitati, fiecare/impreuna cu **probabilitea/similaritatea** aferenta si in plus/colateral mai obtineti si un fisier [***log***](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/chainer-doc2vec/result/log) care va afiseaza cateva informatii despre cum a decurs procesul cautarii
+Raspunsul extrage 5 posibilitati, fiecare/impreuna cu **probabilitea/similaritatea**(oferita de produsul a 2 vectori/arrays[**numpy.dot**](https://numpy.org/doc/stable/reference/generated/numpy.dot.html)) aferenta si in plus/colateral mai obtineti si un fisier [***log***](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/chainer-doc2vec/result/log) care va afiseaza cateva informatii despre cum a decurs procesul cautarii
 
 Mai trebuie spus si faptul ca, aceasta cautare, bazata pe similaritate vectoriala, se efectueaza in contextul([**sample_text.txt**](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/chainer-doc2vec/sample_text.txt), [**sample_title.txt**](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/chainer-doc2vec/sample_title.txt)) in care anterior s-a procedat la antrenarea/invatarea/modelarea chatbot-ului([**doc2vec.model**](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/chainer-doc2vec/doc2vec.model))
 
