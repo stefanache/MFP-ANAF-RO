@@ -1,8 +1,8 @@
 [
     {
-        "main/loss": 142368.47158604453,
+        "main/loss": 150369.81319563356,
         "epoch": 1,
         "iteration": 73,
-        "elapsed_time": 79.78198719999637
+        "elapsed_time": 100.38723290000007
     }
 ]
