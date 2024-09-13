@@ -1,4 +1,4 @@
-<details><summary><h3><b></b><a href="https://ridgeant-com.translate.goog/blogs/langchain-embedding/?_x_tr_sl=en&_x_tr_tl=ro&_x_tr_hl=ro&_x_tr_pto=sc">Doc2Vec</a></b>(Paragraph-Vector) - extensie a <b></b><a href="https://ridgeant-com.translate.goog/blogs/langchain-embedding/?_x_tr_sl=en&_x_tr_tl=ro&_x_tr_hl=ro&_x_tr_pto=sc">Word2Vec</a></b></h3>   <small><i>(-pt a vedea mai mult click pe textul 'Paragraph-Vector'!!!</i>)</small></summary>
+<details><summary><h3><b></b><a href="https://ridgeant-com.translate.goog/blogs/langchain-embedding/?_x_tr_sl=en&_x_tr_tl=ro&_x_tr_hl=ro&_x_tr_pto=sc">Doc2Vec</a></b>(Paragraph-Vector) - extensie a <b></b><a href="https://ridgeant-com.translate.goog/blogs/langchain-embedding/?_x_tr_sl=en&_x_tr_tl=ro&_x_tr_hl=ro&_x_tr_pto=sc">Word2Vec</a></b></h3>   <small><i>(-pt a vedea mai mult click pe zona de text ...'Paragraph-Vector'...!!!</i>)</small></summary>
 <br/><hr/><pre>Încorporarea LangChain: o scufundare în proces | ML și AI , inteligență artificială , învățare automată | 6 februarie 2024 | Ridgeant
 <br/> 
 <b>Încorporarea LangChain</b>
