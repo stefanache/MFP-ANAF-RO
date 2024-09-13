@@ -120,11 +120,11 @@ Acest depozit implementeaza un [**trainer-doc2vec**](https://github.com/stefanac
 
 <details><summary>Iata cateva consideratii, plasate in paragraful de debut al publicatiei, intitulat <b>Abstract</b>(<i>generalitati</i>):</summary>
 <hr/>
-<br/>Mulți algoritmi de învățare automată(**ML**) necesită ca intrarea sa fie reprezentată ca(sau daca vreti, codificata/rezumata/eticheta/redusa la-) o caracteristică vectoriala de lungime fixă(reprezentare prin caracteristici ale/extrase din portiuni[-lor] de **text**). 
+<br/>Mulți algoritmi de învățare automată(<b>ML</b>) necesită ca intrarea sa fie reprezentată ca(sau daca vreti, codificata/rezumata/eticheta/redusa la-) o caracteristică vectoriala de lungime fixă(reprezentare prin caracteristici ale/extrase din portiuni[-lor] de <b>text</b>). 
 
-Când vine vorba de texte, una dintre cele mai comune caracteristici de lungime fixă sunt bag-ul(punga/sac) de cuvinte(eng.**BoW**).
+Când vine vorba de texte, una dintre cele mai comune caracteristici de lungime fixă sunt bag-ul(punga/sac) de cuvinte(eng.<b>BoW</b>).
 
-În ciuda popularității lor, caracteristicile sacului de cuvinte(**BoW**), au două slăbiciuni/dezavantaje majore: 
+În ciuda popularității lor, caracteristicile sacului de cuvinte(<b>BoW</b>), au două slăbiciuni/dezavantaje majore: 
  - pierd ordinea cuvintelor, si de asemenea, 
  - ignoră semantica cuvintelor. 
 
@@ -142,8 +142,8 @@ de, bucăți de text cu lungime variabilă, cum ar fi:<br/>
        
 <br/>Acest algoritm reprezintă fiecare document, printr-un vector care este antrenat să prezică 
 cuvintele din document. <br/>Construcția sa, conferă acestui algoritm,
-potențialul de a depăși punctele slabe ale modele de cuvinte(**BoW**). 
-<br/>Rezultatele empirice arată că <b>Paragraf-Vectorii</b>(a se vedea graficele de performanta) depășesc, modelele de sac de cuvinte(**BoW**)
+potențialul de a depăși punctele slabe ale modele de cuvinte(<b>BoW</b>). 
+<br/>Rezultatele empirice arată că <b>Paragraf-Vectorii</b>(a se vedea graficele de performanta) depășesc, modelele de sac de cuvinte(<b>BoW</b>)
 precum și alte tehnici de reprezentare a textului <br/>În cele din urmă, se pot realiza noi rezultate, pe mai multe sarcini de analiză a textului, cum ar fi
 
    - clasificări și
