@@ -111,7 +111,7 @@ interacțiunile umane, cu ușurință în utilizare și intuitivitate.</pre><br/
 
 la baza acestui [**workshop**](https://github.com/stefanache/MFP-ANAF-RO/tree/main/python/chainer-doc2vec) a stat depozitul ghithub [chainer-doc2vec](https://github.com/monthly-hack/chainer-doc2vec)
 
-[**Doc2Vec**](https://medium.com/kinomoto-mag/developing-enhanced-chatbots-with-langchain-and-document-embeddings-an-extensive-manual-and-6ad4b4844dc8) este o extensie a modelulului [**Word2Vec**](https://bakshiharsh55.medium.com/text-embedding-models-in-langchain-887f1873c7ac) care generează/incorporeaza/inglobeaza/reduce/codifica vectori pentru propoziție/paragraf/document, permițând reprezentarea unor blocuri mai mari de text.
+[**Doc2Vec**](https://medium.com/kinomoto-mag/developing-enhanced-chatbots-with-langchain-and-document-embeddings-an-extensive-manual-and-6ad4b4844dc8) este o extensie a modelulului [**Word2Vec**](https://bakshiharsh55.medium.com/text-embedding-models-in-langchain-887f1873c7ac) care generează/incorporeaza/inglobeaza/reduce/codifica vectori pentru propoziție/paragraf/document, permițând reprezentarea/antrenarea/invatarea unor blocuri mai mari de text.
 
 
 [**Doc2Vec** (**Paragraph Vector**)](https://medium.com/kinomoto-mag/developing-enhanced-chatbots-with-langchain-and-document-embeddings-an-extensive-manual-and-6ad4b4844dc8) - aceasta extensie a modelului [**Word2Vec**](https://en.wikipedia.org/wiki/Word2vec) este conceput special pentru a crea înglobări pentru blocuri mai mari de text, cum ar fi propoziții, paragrafe sau documente întregi. <br/>**Doc2Vec**, introduce un vector ***„ID document”*** care este antrenat, alături de ceilalti vectori de cuvinte, captând direct ***unicitatea*** contextului documentului.
