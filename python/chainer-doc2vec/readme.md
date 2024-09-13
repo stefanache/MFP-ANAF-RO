@@ -152,25 +152,25 @@ precum și alte tehnici de reprezentare a textului <br/>În cele din urmă, se p
 
 <details><summary>De asemenea, iata cateva alte consideratii, publicate in zona rezervata <b>Discutiei</b> finale(capitolul <i>5.</i>), ale aceluiasi articol:</summary>
 <hr/>
-<br/>Am vazut in PDF-ul ***arxiv*** cum învățarea nesupravegheată, <b>Paragraf-Vector</b>, algoritm care învață(reprezentări vectoriale) din
+<br/>Am vazut in PDF-ul <b><i>arxiv</i></b> cum învățarea nesupravegheată, <b>Paragraf-Vector</b>, algoritm care învață(reprezentări vectoriale) din
 bucăți de text de o lungime variabila, cum ar fi propoziții și documente.
 
 Reprezentările vectoriale sunt învățate pentru a prezice cuvintele(aproximativ corect) în contexte eșantionate din paragraf.
 
 Experimentele noastre pe mai multe sarcini de clasificare a textului, cum ar fi
-***Analiză a sentimentelor*** pe seturile de date:
+<b><i>Analiză a sentimentelor</i></b> pe seturile de date:
 
   - [***Stanford Treebank***](https://www.kaggle.com/datasets/atulanandjha/stanford-sentiment-treebank-v2-sst2) și 
   - [***IMDB***](https://developer.imdb.com/non-commercial-datasets/)
 
 demonstrează că metoda este competitivă cu cele mai avansate metode. 
 <br/>Performanța bună, demonstrează meritele
-algoritmului **Paragraf-Vector** în captarea semanticii paragrafelor. 
-<br/>De fapt, **vectorii-paragraf** au potențialul de a
-depăși multe puncte slabe ale modelelor de tip sac de cuvinte(**BoW**).
-<br/>Deși obiectivul acestei lucrări este de a reprezenta **texte**,
+algoritmului <b>Paragraf-Vector</b> în captarea semanticii paragrafelor. 
+<br/>De fapt, <b>vectorii-paragraf</b> au potențialul de a
+depăși multe puncte slabe ale modelelor de tip sac de cuvinte(<b>BoW</b>).
+<br/>Deși obiectivul acestei lucrări este de a reprezenta <b>texte</b>,
 totusi ea poate fi aplicată si pentru a învăța reprezentări pentru
-terte-date. <br/>În domeniile ***non-text***(ex. imagini ce pot contine text-grafic dar nu numai), în care capabilitatea-analizarii nu este disponibilă, este de  așteptat ca modelele **Paragraph-Vector** să fie o alternativă puternică.
+terte-date. <br/>În domeniile <b><i>non-text</i></b>(ex. imagini ce pot contine text-grafic dar nu numai), în care capabilitatea-analizarii nu este disponibilă, este de  așteptat ca modelele <b>Paragraph-Vector</b> să fie o alternativă puternică.
 <hr/>
 </details>
 
