@@ -309,7 +309,7 @@ Press any key to continue . . .
 <br/>
 </details>
 
-In [penultima](https://dexonline.ro/definitie/penultima) linie de comanda(**python train_doc2vec.py --model dm-dbow**), din acest fisier-batch(lot de lucrari) [***_RUN.bat***](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/chainer-doc2vec/_RUN.bat), puteti [utiliza](https://medium.com/kinomoto-mag/developing-enhanced-chatbots-with-langchain-and-document-embeddings-an-extensive-manual-and-6ad4b4844dc8)/substitui/suporta 3 variante de **modelare**:
+In [penultima](https://dexonline.ro/definitie/penultima) linie de comanda(**python train_doc2vec.py --model dm-dbow**), din acest fisier-batch(lot de lucrari) [***_RUN.bat***](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/chainer-doc2vec/_RUN.bat), puteti [utiliza](https://medium.com/kinomoto-mag/developing-enhanced-chatbots-with-langchain-and-document-embeddings-an-extensive-manual-and-6ad4b4844dc8)/substitui/suporta 3 variante de **model**-are:
 
  - **Distributed Memory** (**dm**)
  - **Distributed Bag of Words(BoW)** (**dbow**) 
