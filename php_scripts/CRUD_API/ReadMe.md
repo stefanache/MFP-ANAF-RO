@@ -30,6 +30,21 @@ asa ca in acest [**workshop**](https://github.com/stefanache/MFP-ANAF-RO/tree/ma
   <br/><hr/><pre>
    Descarcati(download-ati) fisierul "<b>api.php</b>" din ultima versiune: <b>https://github.com/mevdschee/php-crud-api/releases/latest</b> ,
    sau direct din : <b>xhttps://raw.githubusercontent.com/mevdschee/php-crud-api/main/api.php</b>
+
+   Aceasta este o aplicație cu un/intr-un  singur fișier("<b>api.php</b>")! Încarcă „api.php” undeva(pt XAMPP, fișierul "<b>api.php</b>" se salveaza/incarca in directorul C:\xampp\htdocs\PHP_CRUD_API\) și apoi bucură-te de rulare!
+
+   Pentru dezvoltarea locală, fara a folosi un webserver/cadru specializat(cum este XAMPP), puteți rula serverul-web/webserverul încorporat al lui PHP:
+   
+      <b>php -S localhost:8080</b>
+   
+   Testați scriptul deschizând in browserl dvs(ex. Chrome) următoarea adresă URL:
+
+      <b>http://localhost:8080/api.php/records/posts/1</b>
+      
+   Nu uitați să modificați configurația din partea de jos a fișierului.
+
+   Alternativ, puteți integra acest proiect în cadrul web ales de dvs., consultați:
+   
   </pre><hr/><br/>
   </details>  
   <details><summary><h2>Configurare</h2></summary>
