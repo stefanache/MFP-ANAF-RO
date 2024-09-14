@@ -28,7 +28,7 @@ asa ca in acest [**workshop**](https://github.com/stefanache/MFP-ANAF-RO/tree/ma
   </details>
   <details><summary><h2>Instalare</h2></summary>
   <br/><hr/><pre>
-   Download-ati fisierul "<b>api.php</b>" din ultima versiune: <b>https://github.com/mevdschee/php-crud-api/releases/latest</b> ,
+   Descarcati(download-ati) fisierul "<b>api.php</b>" din ultima versiune: <b>https://github.com/mevdschee/php-crud-api/releases/latest</b> ,
    sau direct din : <b>xhttps://raw.githubusercontent.com/mevdschee/php-crud-api/main/api.php</b>
   </pre><hr/><br/>
   </details>  
