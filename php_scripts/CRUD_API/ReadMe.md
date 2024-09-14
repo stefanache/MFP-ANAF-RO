@@ -26,5 +26,40 @@ asa ca in acest [**workshop**](https://github.com/stefanache/MFP-ANAF-RO/tree/ma
         - SQLite 3.16 sau o versiune ulterioară (funcțiile spațiale NU sunt acceptate)    
   </pre><hr/><br/>
   </details>
+  <details><summary><h2>Configurare</h2></summary>
+  <br/><hr/><pre>
+   
+  </pre><hr/><br/>
+  </details>
+  <details><summary><h2>Instalare</h2></summary>
+  <br/><hr/><pre>
+   
+  </pre><hr/><br/>
+  </details>
+  <details><summary><h2>Limitari</h2></summary>
+  <br/><hr/><pre>
+   
+  </pre><hr/><br/>
+  </details>
+  <details><summary><h2>Caracteristici</h2></summary>
+  <br/><hr/><pre>
+   
+  </pre><hr/><br/>
+  </details>
+  <details><summary><h2>Proiecte si portari conexe</h2></summary>
+  <br/><hr/><pre>
+   
+  </pre><hr/><br/>
+  </details>
+  <details><summary><h2>Compilare</h2></summary>
+  <br/><hr/><pre>
+   
+  </pre><hr/><br/>
+  </details>
+  <details><summary><h2>Dezvoltare</h2></summary>
+  <br/><hr/><pre>
+   
+  </pre><hr/><br/>
+  </details>  
 </pre><hr/><br/>
 </details>
