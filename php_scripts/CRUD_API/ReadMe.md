@@ -17,7 +17,6 @@ asa ca am rearanjat un pic acest document si am incercat o traducere/parafrazare
   iar in final sa beneficiem de acel set complet de functii CRUD-API accesibile via REST.<br/>
   
   <i>NotaBene</i>(NB): Acest proiect-php este implementarea de referinta a unui alt proiect github-php, si anume,  <a href="https://treeql.org/"><b>TreeQL</b></a>
-  
   <details><summary><h2>Cerinte</h2></summary>
   <br/><hr/><pre>
      - PHP 7.2 sau o versiune ulterioară cu drivere PDO activate pentru unul dintre aceste sisteme de baze de date(b.d.):
