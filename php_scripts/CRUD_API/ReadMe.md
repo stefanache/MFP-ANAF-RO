@@ -8,7 +8,7 @@ Am gasit un astfel de proiect, pe github, intitulat [**PHP-CRUD-API**](https://g
 Desigur trebuie inceput prin a intelege cat mai bine [ReadMe](https://github.com/codemage66/PHP-CRUD-API/blob/main/README.md)-ul [proiectului](https://github.com/codemage66/PHP-CRUD-API?tab=readme-ov-file#php-crud-api), 
 asa ca in acest [**workshop**](https://github.com/stefanache/MFP-ANAF-RO/tree/main/php_scripts/CRUD_API), am rearanjat acest document si am incercat o traducere/parafrazare cat mai precisa/succinta, care sper eu o sa permita/ajute la o mai buna intelegere.
 
-<details><summary><h1>PHP-CRUD-API</h1></summary>
+<details><summary><h1>PHP-CRUD-API - ReadMe.md</h1></summary>
 <br/><hr/><pre>
   Acest proiect poate fi lansat accesand un singur script(<b>api.php</b>).
   Acest principal-fisier, adauga un set de functii CRUD-API REST la tabelele unei b.d. <b>SQL</b>(MySQL/MariaDB,PostgreSQL,SQL-Server 
