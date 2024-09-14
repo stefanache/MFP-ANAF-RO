@@ -45,6 +45,10 @@ asa ca in acest [**workshop**](https://github.com/stefanache/MFP-ANAF-RO/tree/ma
 
    Alternativ, puteți integra acest proiect în cadrul webserver ales de dvs., consultați:
    
+   - [API-ul REST automat pentru Laravel](https://github.com/codemage66/PHP-CRUD-API?tab=readme-ov-file#php-crud-api:~:text=API%2Dul%20REST,pentru%20SlimPHP%204)
+   - API-ul REST automat pentru Symfony 4
+   - API-ul REST automat pentru SlimPHP 4
+   
   <hr/><br/>
   </details>  
   <details><summary><h2>Configurare</h2></summary>
