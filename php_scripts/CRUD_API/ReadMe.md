@@ -76,7 +76,7 @@ asa ca in acest [**workshop**](https://github.com/stefanache/MFP-ANAF-RO/tree/ma
       $config = new Config([
           'username' => 'root',
           'password' => '',
-          'database' => '',
+          'database' => 'php_crud_api_db',
       ]);
 
       
