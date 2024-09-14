@@ -12754,7 +12754,7 @@ namespace Tqdev\PhpCrudApi {
         'username' => 'root',
         'password' => '',
         'database' => 'php_crud_api_db',
-        'debug' => false
+        'debug' => true
     ]);
     $request = RequestFactory::fromGlobals();
     $api = new Api($config);

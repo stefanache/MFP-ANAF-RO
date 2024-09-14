@@ -2,6 +2,8 @@
 cls
 echo https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/ReadMe.md
 
+composer install |more
+
 echo Asteptati putin si apoi Dati Refresh daca browserul nu incarca continutul....
 start Chrome   http://localhost:8080/api.php/records/posts/1 |more
 
