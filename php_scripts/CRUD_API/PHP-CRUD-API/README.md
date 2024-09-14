@@ -8,7 +8,7 @@ NB: This is the [TreeQL](https://treeql.org) reference implementation in PHP.
 
 ## Requirements
 
-  - PHP 7.2 or higher with PDO drivers enabled for one of these database systems:
+  - PHP 7.2 or higher with PDO drivers(in **php.ini** trebuie sa aveti **extension=pdo_mysql** de/necomentat) enabled for one of these database systems:
     - MySQL 5.7 / MariaDB 10.0 or higher for spatial features in MySQL
     - PostgreSQL 9.5 or higher with PostGIS 2.2 or higher for spatial features
     - SQL Server 2017 or higher (2019 also has Linux support)
