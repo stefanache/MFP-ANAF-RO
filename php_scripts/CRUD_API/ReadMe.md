@@ -26,6 +26,11 @@ asa ca in acest [**workshop**](https://github.com/stefanache/MFP-ANAF-RO/tree/ma
         - SQLite 3.16 sau o versiune ulterioară (funcțiile spațiale NU sunt acceptate)    
   </pre><hr/><br/>
   </details>
+  <details><summary><h2>Instalare</h2></summary>
+  <br/><hr/><pre>
+   
+  </pre><hr/><br/>
+  </details>  
   <details><summary><h2>Configurare</h2></summary>
   <br/><hr/><pre>
    In partea de jos a fișierului „api.php” trebuie sa editati liniile de mai jos(si sa inlocuiti xxx cu datele dvs de conectare la b.d. MySQL:
@@ -45,11 +50,6 @@ asa ca in acest [**workshop**](https://github.com/stefanache/MFP-ANAF-RO/tree/ma
       ]);
 
       
-  </pre><hr/><br/>
-  </details>
-  <details><summary><h2>Instalare</h2></summary>
-  <br/><hr/><pre>
-   
   </pre><hr/><br/>
   </details>
   <details><summary><h2>Limitari</h2></summary>
