@@ -18,12 +18,12 @@ asa ca in acest [**workshop**](https://github.com/stefanache/MFP-ANAF-RO/tree/ma
   
   <i>NotaBene</i>(NB): Acest proiect-php este implementarea de referinta a unui alt proiect github-php, si anume,  <a href="https://treeql.org/"><b>TreeQL</b></a>
   <details><summary><h2>Cerinte</h2></summary>
-  <br/><hr/>\
-     - <b>PHP 7.2</b> sau o versiune ulterioară cu drivere <i>PDO</i> activate pentru unul dintre aceste sisteme de baze de date(b.d.):
-        - <b>MySQL 5.7</b> / <b>MariaDB 10.0</b> sau o versiune ulterioară pentru caracteristici spațiale în MySQL
-        - <b>PostgreSQL 9.5</b> sau o versiune ulterioară cu <i>PostGIS 2.2</i> sau o versiune ulterioară pentru caracteristici spațiale
-        - <b>SQL Server 2017</b> sau o versiune ulterioară (2019 are și suport pentru Linux)
-        - <b>SQLite 3.16</b> sau o versiune ulterioară (funcțiile spațiale <i>NU</i> sunt acceptate)    
+  <br/><hr/>
+     - <b>PHP 7.2</b> sau o versiune ulterioară cu drivere <i>PDO</i> activate pentru unul dintre aceste sisteme de baze de date(b.d.):<br/>
+        - <b>MySQL 5.7</b> / <b>MariaDB 10.0</b> sau o versiune ulterioară pentru caracteristici spațiale în MySQL<br/>
+        - <b>PostgreSQL 9.5</b> sau o versiune ulterioară cu <i>PostGIS 2.2</i> sau o versiune ulterioară pentru caracteristici spațiale<br/>
+        - <b>SQL Server 2017</b> sau o versiune ulterioară (2019 are și suport pentru Linux)<br/>
+        - <b>SQLite 3.16</b> sau o versiune ulterioară (funcțiile spațiale <i>NU</i> sunt acceptate)v    
   <hr/><br/>
   </details>
   <details><summary><h2>Instalare</h2></summary>
