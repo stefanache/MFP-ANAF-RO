@@ -9,7 +9,7 @@ Desigur trebuie inceput prin a intelege cat mai bine [ReadMe](https://github.com
 asa ca in acest [**workshop**](https://github.com/stefanache/MFP-ANAF-RO/tree/main/php_scripts/CRUD_API), am rearanjat acest document si am incercat o traducere/parafrazare cat mai precisa/succinta, care sper eu o sa permita/ajute la o mai buna intelegere.
 
 <details><summary><h1>PHP-CRUD-API - ReadMe.md</h1></summary>
-<br/><hr/><pre>
+<br/><hr/>
   Acest proiect poate fi lansat accesand un singur script(<b>api.php</b>).
   Acest principal-fisier, adauga un set de functii CRUD-API REST la tabelele unei b.d. <b>SQL</b>(MySQL/MariaDB,PostgreSQL,SQL-Server 
   sua chiar SQLite).
@@ -18,13 +18,13 @@ asa ca in acest [**workshop**](https://github.com/stefanache/MFP-ANAF-RO/tree/ma
   
   <i>NotaBene</i>(NB): Acest proiect-php este implementarea de referinta a unui alt proiect github-php, si anume,  <a href="https://treeql.org/"><b>TreeQL</b></a>
   <details><summary><h2>Cerinte</h2></summary>
-  <br/><hr/><pre>
+  <br/><hr/>\
      - <b>PHP 7.2</b> sau o versiune ulterioară cu drivere <i>PDO</i> activate pentru unul dintre aceste sisteme de baze de date(b.d.):
         - <b>MySQL 5.7</b> / <b>MariaDB 10.0</b> sau o versiune ulterioară pentru caracteristici spațiale în MySQL
         - <b>PostgreSQL 9.5</b> sau o versiune ulterioară cu <i>PostGIS 2.2</i> sau o versiune ulterioară pentru caracteristici spațiale
         - <b>SQL Server 2017</b> sau o versiune ulterioară (2019 are și suport pentru Linux)
         - <b>SQLite 3.16</b> sau o versiune ulterioară (funcțiile spațiale <i>NU</i> sunt acceptate)    
-  </pre><hr/><br/>
+  <hr/><br/>
   </details>
   <details><summary><h2>Instalare</h2></summary>
   <br/><hr/>
@@ -93,5 +93,5 @@ asa ca in acest [**workshop**](https://github.com/stefanache/MFP-ANAF-RO/tree/ma
    
   </pre><hr/><br/>
   </details>  
-</pre><hr/><br/>
+<hr/><br/>
 </details>
