@@ -19,17 +19,17 @@ asa ca in acest [**workshop**](https://github.com/stefanache/MFP-ANAF-RO/tree/ma
   <i>NotaBene</i>(NB): Acest proiect-php este implementarea de referinta a unui alt proiect github-php, si anume,  <a href="https://treeql.org/"><b>TreeQL</b></a>
   <details><summary><h2>Cerinte</h2></summary>
   <br/><hr/><pre>
-     - PHP 7.2 sau o versiune ulterioară cu drivere PDO activate pentru unul dintre aceste sisteme de baze de date(b.d.):
-        - MySQL 5.7 / MariaDB 10.0 sau o versiune ulterioară pentru caracteristici spațiale în MySQL
-        - PostgreSQL 9.5 sau o versiune ulterioară cu PostGIS 2.2 sau o versiune ulterioară pentru caracteristici spațiale
-        - SQL Server 2017 sau o versiune ulterioară (2019 are și suport pentru Linux)
-        - SQLite 3.16 sau o versiune ulterioară (funcțiile spațiale NU sunt acceptate)    
+     - <b>PHP 7.2</b> sau o versiune ulterioară cu drivere PDO activate pentru unul dintre aceste sisteme de baze de date(b.d.):
+        - <b>MySQL 5.7</b> / <b>MariaDB 10.0</b> sau o versiune ulterioară pentru caracteristici spațiale în MySQL
+        - <b>PostgreSQL 9.5</b> sau o versiune ulterioară cu PostGIS 2.2 sau o versiune ulterioară pentru caracteristici spațiale
+        - <b>SQL Server 2017</b> sau o versiune ulterioară (2019 are și suport pentru Linux)
+        - <b>SQLite 3.16</b> sau o versiune ulterioară (funcțiile spațiale NU sunt acceptate)    
   </pre><hr/><br/>
   </details>
   <details><summary><h2>Instalare</h2></summary>
   <br/><hr/><pre>
-   Download-ati fisierul "api.php" din ultima versiune: https://github.com/mevdschee/php-crud-api/releases/latest 
-   sau direct din : https://raw.githubusercontent.com/mevdschee/php-crud-api/main/api.php
+   Download-ati fisierul "<b>api.php</b>" din ultima versiune: <b>https://github.com/mevdschee/php-crud-api/releases/latest</b> ,
+   sau direct din : <b>xhttps://raw.githubusercontent.com/mevdschee/php-crud-api/main/api.php</b>
   </pre><hr/><br/>
   </details>  
   <details><summary><h2>Configurare</h2></summary>
