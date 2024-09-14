@@ -16,7 +16,7 @@ asa ca am rearanjat un pic acest document si am incercat o traducere/parafrazare
   Desigur, pt a fi rulat, trebuie mai intai sa fie incarcat pe webserver-ul nostru, ca mai apoi sa asiguram conectarea la b.d. SQL, 
   iar in final sa beneficiem de acel set complet de functii CRUD-API accesibile via REST.<br/>
   
-    <i>NotaBene</i>(NB): Acest poiiect-php este implementarea de referinta unui alt proiect github-php si anume  <a href="https://treeql.org/"><b>TreeQL</b></a>
+  <i>NotaBene</i>(NB): Acest poiiect-php este implementarea de referinta unui alt proiect github-php si anume  <a href="https://treeql.org/"><b>TreeQL</b></a>
     
 </pre><hr/><br/>
 </details>
