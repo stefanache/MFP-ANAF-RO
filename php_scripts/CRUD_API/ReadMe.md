@@ -10,7 +10,7 @@ asa ca am rearanjat un pic acest document si am incercat o traducere/parafrazare
 
 <details><summary><h1>PHP-CRUD-API</h1></summary>
 <br/><hr/><pre>
-  Acest proiect poate fi lansat accesand un singur script(**api.php).
+  Acest proiect poate fi lansat accesand un singur script(**api.php**).
   Acest fisier adauga un API REST la o BD SQL(MySQL/MariaDB,PostgreSQL,SQL-Server sa chiar SQLite)
   Desigur pt a fi rulat trebuie sa fie incarcat pe webserver-ul nostru,apoi trebuie asigurata conectarea la b.d. SQL, 
   iar in final vom beneficia de un set complet de functii API REST.
