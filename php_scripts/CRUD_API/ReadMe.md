@@ -35,11 +35,11 @@ asa ca in acest [**workshop**](https://github.com/stefanache/MFP-ANAF-RO/tree/ma
 
    Pentru dezvoltarea locală, fara a folosi un webserver/cadru specializat(cum este XAMPP), puteți rula serverul-web/webserverul încorporat al lui PHP:
    
-      **php -S localhost:8080**
+      php -S localhost:8080
    
    Testați scriptul deschizând in browserl dvs(ex. Chrome) următoarea adresă URL:
 
-      **http://localhost:8080/api.php/records/posts/1**
+      http://localhost:8080/api.php/records/posts/1
       
    Nu uitați să modificați configurația din partea de jos a fișierului.
 
