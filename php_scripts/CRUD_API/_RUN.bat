@@ -1,7 +1,8 @@
 @echo off
 cls
 echo https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/ReadMe.md
-php -v |More
+php -v |more
+php -m |more
 composer update |more
 composer install --ignore-platform-req=ext-mbstring|more
 start Chrome   http://localhost:8080 |more
