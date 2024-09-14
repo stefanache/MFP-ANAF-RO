@@ -28,8 +28,8 @@ asa ca in acest [**workshop**](https://github.com/stefanache/MFP-ANAF-RO/tree/ma
   </details>
   <details><summary><h2>Instalare</h2></summary>
   <br/><hr/>
-   Descarcati(download-ati) fisierul "<b>api.php</b>" din ultima versiune: <b>https://github.com/mevdschee/php-crud-api/releases/latest</b> ,
-   sau direct din : <b>xhttps://raw.githubusercontent.com/mevdschee/php-crud-api/main/api.php</b>
+   Descarcati(download-ati) fisierul "<b>api.php</b>" din ultima versiune: <b>https://github.com/mevdschee/php-crud-api/releases/latest</b> ,<br/>
+   sau direct din : <b>https://raw.githubusercontent.com/mevdschee/php-crud-api/main/api.php</b>
 
    Aceasta este o aplicație cu un/intr-un  singur fișier("<b>api.php</b>")! Încarcă „api.php” undeva(pt XAMPP, fișierul "<b>api.php</b>" se salveaza/incarca in directorul C:\xampp\htdocs\PHP_CRUD_API\) și apoi bucură-te de rulare!
 
@@ -48,7 +48,10 @@ asa ca in acest [**workshop**](https://github.com/stefanache/MFP-ANAF-RO/tree/ma
    - [API-ul REST automat pentru Laravel](https://tqdev.com/2019-automatic-rest-api-laravel)
    - [API-ul REST automat pentru Symfony 4](https://tqdev.com/2019-automatic-rest-api-symfony)
    - [API-ul REST automat pentru SlimPHP 4](https://tqdev.com/2019-automatic-api-slimphp-4)
-   
+
+  În toate aceste integrări, este folosit [Composer](https://getcomposer.org/), pentru a încărca acest proiect ca o dependența.<br/>
+  Pentru persoanele care nu folosesc Composer ca builder/instalator a fost furnizat fisierul ["api.include.php"](https://github.com/codemage66/PHP-CRUD-API/blob/main/api.include.php)
+
   <hr/><br/>
   </details>  
   <details><summary><h2>Configurare</h2></summary>
