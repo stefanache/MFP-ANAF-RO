@@ -28,7 +28,23 @@ asa ca in acest [**workshop**](https://github.com/stefanache/MFP-ANAF-RO/tree/ma
   </details>
   <details><summary><h2>Configurare</h2></summary>
   <br/><hr/><pre>
-   
+   In partea de jos a fișierului „api.php” trebuie sa editati liniile de mai jos(si sa inlocuiti xxx cu datele dvs de conectare la b.d. MySQL:
+      
+      $config = new Config([
+          'username' => 'xxx',
+          'password' => 'xxx',
+          'database' => 'xxx',
+      ]);
+
+      Dupa editare/modificare aceaste linii ar putea arata astfel:
+      
+      $config = new Config([
+          'username' => 'root',
+          'password' => '',
+          'database' => '',
+      ]);
+
+      
   </pre><hr/><br/>
   </details>
   <details><summary><h2>Instalare</h2></summary>
