@@ -15,6 +15,6 @@ asa ca am rearanjat un pic acest document si am incercat o traducere/parafrazare
   Desigur pt a fi rulat trebuie sa fie incarcat pe webserver-ul nostru,apoi trebuie asigurata conectarea la b.d. SQL, 
   iar in final vom beneficia de un set complet de functii API REST.
   
-  NotaBene(NB): Acest poiiect este implementarea de referinta a altui proiect github php([***TreeQL***](https://treeql.org/)
+    *NotaBene*(NB): Acest poiiect este implementarea de referinta a altui proiect github php([***TreeQL***](https://treeql.org/)
 </pre><hr/><br/>
 </details>
