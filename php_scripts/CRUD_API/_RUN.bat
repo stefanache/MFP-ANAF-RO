@@ -2,9 +2,11 @@
 cls
 echo https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/ReadMe.md
 php -v |more
-php -m |more
+rem php -m |more
 composer update |more
 composer install --ignore-platform-req=ext-mbstring|more
+php install.php | more
+php build.php |more
 start Chrome   http://localhost:8080 |more
 
 echo Asteptati putin si apoi Dati Refresh daca browserul nu incarca continutul....
