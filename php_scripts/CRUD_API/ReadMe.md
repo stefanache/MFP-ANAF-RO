@@ -393,7 +393,7 @@ Există, de asemenea, porturi de dovadă de concept ale acestui script care acce
    
   <hr/><br/>
   </details>
-  <details><summary><h3></h3>Tipuri de validari</h3></summary>
+  <details><summary><h3>Tipuri de validari</h3></summary>
   <br/><hr/>
    
   <hr/><br/>
