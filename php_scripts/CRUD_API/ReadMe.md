@@ -372,7 +372,96 @@ Există, de asemenea, porturi de dovadă de concept ale acestui script care acce
   <br/><hr/>
    
   <hr/><br/>
+  </details>
+  <details><summary><h3>Autorizarea SQL GRANT</h3></summary>
+  <br/><hr/>
+   
+  <hr/><br/>
+  </details> 
+  <details><summary><h3>Sanitizarea intrarii</h3></summary>
+  <br/><hr/>
+   
+  <hr/><br/>
+  </details>
+  <details><summary><h3>Tipul sanitizarii</h3></summary>
+  <br/><hr/>
+   
+  <hr/><br/>
+  </details>
+  <details><summary><h3>Validarea intrarii</h3></summary>
+  <br/><hr/>
+   
+  <hr/><br/>
+  </details>
+  <details><summary><h3Tipuri de validari</h3></summary>
+  <br/><hr/>
+   
+  <hr/><br/>
+  </details>
+  <details><summary><h3>Suport multi-chirias(multi-tenancy)</h3></summary>
+  <br/><hr/>
+  <details><summary><h4>Suport "multi-chirias"</h4></summary>
+  <br/><hr/>
+   
+  <hr/><br/>
+  </details> 
+  <details><summary><h4>Intermediar multi-chirias(multi-tenancy middleware)</h4></summary>
+  <br/><hr/>
+   
+  <hr/><br/>
+  </details>
+  <details><summary><h4>Reconectarea intermediarului</h4></summary>
+  <br/><hr/>
+   
+  <hr/><br/>
   </details>  
+  <hr/><br/>
+  </details>
+  <details><summary><h3>Prevenirea "scraping"-ului(culegerii neautorizate de date) bazei de date</h3></summary>
+  <br/><hr/>
+   
+  <hr/><br/>
+  </details> 
+  <details><summary><h3>Cautarea tuturor campurilor text</h3></summary>
+  <br/><hr/>
+   
+  <hr/><br/>
+  </details>
+  <details><summary><h3>Personalizarea manipulatorilor(customization handlers)</h3></summary>
+  <br/><hr/>
+   
+  <hr/><br/>
+  </details>
+  <details><summary><h3>Optiuni de codificare JSON(JSON encoding options)</h3></summary>
+  <br/><hr/>
+   
+  <hr/><br/>
+  </details>
+  <details><summary><h3>Intermediarul JSON(JSON middleware)</h3></summary>
+  <br/><hr/>
+   
+  <hr/><br/>
+  </details>
+  <details><summary><h3>Intermediarul XML(XML middleware)</h3></summary>
+  <br/><hr/>
+   
+  <hr/><br/>
+  </details>
+  <details><summary><h3>Incarcarile de fisier(File uploads)</h3></summary>
+  <br/><hr/>
+   
+  <hr/><br/>
+  </details>  
+  <hr/><br/>
+  </details>
+  <details><summary><h2>Specificatia OpenAPI</h2></summary>
+  <br/><hr/>
+   
+  <hr/><br/>
+  </details> 
+  <details><summary><h2>Cache</h2></summary>
+  <br/><hr/>
+   
   <hr/><br/>
   </details>   
   <hr/><br/>
