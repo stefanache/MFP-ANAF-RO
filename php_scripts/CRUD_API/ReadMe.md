@@ -87,6 +87,7 @@ Sau daca vreti, intr-un sens mai larg, sau d.p.d.v conceptual, aceste cuvinte po
           'database' => 'php_crud_api_db',
       ]); </pre> 
 Acestea sunt toate opțiunile de configurare și valoarea lor implicită între paranteze:<br/>
+    
  - „driver”: mysql, pgsql, sqlsrvsau sqlite( implicit mysql)
  - „address”: numele de gazdă (sau numele fișierului) al serverului bazei de date ( implicit localhost)
  - „port”: portul TCP al serverului de baze de date (implicit la driverul implicit)
