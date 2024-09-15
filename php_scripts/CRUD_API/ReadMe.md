@@ -258,7 +258,28 @@ Există, de asemenea, porturi de dovadă de concept ale acestui script care acce
   <br/><hr/><pre>
    
   </pre><hr/><br/>
-  </details>  
+  </details>
+  <details><summary><h3>Selectia coloanelor</h3></summary>
+  <br/><hr/><pre>
+   
+  </pre><hr/><br/>
+  </details>
+  <details><summary><h3>Sortarea</h3></summary>
+  <br/><hr/><pre>
+   
+  </pre><hr/><br/>
+  </details> 
+  <details><summary><h3>Limita parametrului "size"</h3></summary>
+  <br/><hr/><pre>
+   
+  </pre><hr/><br/>
+  </details> 
+  <details><summary><h3>Paginatia</h3></summary>
+  <br/><hr/><pre>
+   
+  </pre><hr/><br/>
+  </details> 
+  
   </pre><hr/><br/>
   </details>  
 <hr/><br/>
