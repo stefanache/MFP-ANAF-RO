@@ -310,7 +310,7 @@ Există, de asemenea, porturi de dovadă de concept ale acestui script care acce
   </details>
   <details><summary><h2>Intermediere(Middlereware)</h2></summary>
   <br/><hr/>
-  <details><summary><h3>Autentificare</h3></summary>
+  <details><summary><h3>Autentificari</h3></summary>
   <br/><hr/>
   <details><summary><h4>Autentificare</h4></summary>
   <br/><hr/>
