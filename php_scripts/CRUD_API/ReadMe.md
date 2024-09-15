@@ -88,9 +88,9 @@ Sau daca vreti, intr-un sens mai larg, sau d.p.d.v conceptual, aceste cuvinte po
           'password' => '',
           'database' => 'php_crud_api_db',
       ]);
-
-Acestea sunt toate opțiunile de configurare și valoarea lor implicită între paranteze:
-
+ </pre>
+ 
+Acestea sunt toate opțiunile de configurare și valoarea lor implicită între paranteze:<br/>
  - „driver”: mysql, pgsql, sqlsrvsau sqlite( implicit mysql)
  - „address”: numele de gazdă (sau numele fișierului) al serverului bazei de date ( implicit localhost)
  - „port”: portul TCP al serverului de baze de date (implicit la driverul implicit)
@@ -113,8 +113,7 @@ Acestea sunt toate opțiunile de configurare și valoarea lor implicită între 
  - „basePath”: calea de bază URI a API-ului (în mod implicit valoarea este determinată folosind PATH_INFO )
 
 Toate opțiunile de configurare sunt disponibile și ca variabile de mediu.<br/> 
-Scrieți opțiunea de configurare cu majuscule, un prefix „PHP_CRUD_API_” și liniuțe de subliniere pentru <br/>despărțiri de cuvinte, de exemplu:
-
+Scrieți opțiunea de configurare cu majuscule, un prefix „PHP_CRUD_API_” și liniuțe de subliniere pentru <br/>despărțiri de cuvinte, de exemplu:<pre>
 PHP_CRUD_API_DRIVER=mysql
 PHP_CRUD_API_ADDRESS=localhost
 PHP_CRUD_API_PORT=3306
@@ -122,9 +121,10 @@ PHP_CRUD_API_DATABASE=php-crud-api
 PHP_CRUD_API_USERNAME=php-crud-api
 PHP_CRUD_API_PASSWORD=php-crud-api
 PHP_CRUD_API_DEBUG=1
+
 Variabilele de mediu au prioritate față de configurația PHP.
-      
-  </pre><hr/><br/>
+</pre>     
+ <hr/><br/>
   </details>
   <details><summary><h2>Limitari</h2></summary>
   <br/><hr/><pre>
