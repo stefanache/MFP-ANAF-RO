@@ -172,9 +172,30 @@ Sunt acceptate/dispune de următoarele facilitati/caracteristici(features):
   <hr/><br/>
   </details>
   <details><summary><h2>Proiecte si portari conexe</h2></summary>
-  <br/><hr/><pre>
-   
-  </pre><hr/><br/>
+  <br/><hr/>
+Proiecte conexe:
+
+ - Pornire rapidă PHP-CRUD-API : Un fișier de scriere docker personalizabil, gata de utilizare, care include PHP-CRUD-API.
+ - Generator de filtre PHP-CRUD-API : O bibliotecă JavaScript care creează filtre PHP-CRUD-API din expresii.
+ - JS-CRUD-API : O bibliotecă client JavaScript pentru API-ul PHP-CRUD-API
+ - PHP-API-AUTH : script PHP cu un singur fișier care este un furnizor de autentificare pentru PHP-CRUD-API
+ - PHP-CRUD-UI : Script PHP cu un singur fișier care adaugă o interfață de utilizare la un proiect PHP-CRUD-API.
+ - PHP-CRUD-ADMIN : Script PHP cu un singur fișier care adaugă o interfață de administrare a bazei de date la un proiect PHP-CRUD-API.
+ - PHP-SP-API : Script PHP cu un singur fișier care adaugă un API REST la o bază de date SQL.
+ - dexie-mysql-sync : Sincronizare între IndexedDB local și baza de date MySQL.
+ - ra-data-treeql : pachet NPM care oferă un furnizor de date pentru React Admin .
+ - scriptPilot/vueuse : Vue Composables în plus față de VueUse.org (care acceptă PHP-CRUD-API).
+ - scriptPilot/add-php-backend : Adăugați MySQL, phpMyAdmin și PHP-CRUD-API în mediul dumneavoastră de dezvoltare.
+ - VUE-CRUD-UI : un singur fișier script Vue.js care adaugă o interfață de utilizare la un proiect PHP-CRUD-API.
+
+Există și porturi ale acestui script în:
+
+ - Go-CRUD-API (lucrare în curs)
+ - Java JDBC de Ivan Kolchagov (v1)
+ - Java Spring Boot + jOOQ (v2: lucru în curs)
+ - 
+Există, de asemenea, porturi de dovadă de concept ale acestui script care acceptă doar funcționalitatea REST CRUD de bază în: <br/>PHP , Java , Go , C# .net core , Node.js și Python .   
+   <hr/><br/>
   </details>
   <details><summary><h2>Compilare</h2></summary>
   <br/><hr/><pre>
