@@ -28,7 +28,7 @@ asa ca in acest [**workshop**](https://github.com/stefanache/MFP-ANAF-RO/tree/ma
   </details>
   <details><summary><h2>Instalare</h2></summary>
   <br/><hr/>
-   Descarcati(download-ati) fisierul "<b>api.php</b>" din ultima versiune: <b>https://github.com/mevdschee/php-crud-api/releases/latest</b> ,<br/>
+   Descarcati(download-ati) fisierul "<b><a href="https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/api.php">api.php</a></b>" din ultima versiune: <b>https://github.com/mevdschee/php-crud-api/releases/latest</b> ,<br/>
    sau direct din : <b>https://raw.githubusercontent.com/mevdschee/php-crud-api/main/api.php</b>
 
    Aceasta este o aplicație cu un/intr-un  singur fișier("<b>api.php</b>")! Încarcă [„api.php”](https://github.com/codemage66/PHP-CRUD-API/blob/main/api.php) undeva(pt XAMPP, fișierul "<b>api.php</b>" se salveaza/incarca in directorul C:\xampp\htdocs\PHP-CRUD-API\) și apoi bucură-te de rulare!
@@ -61,12 +61,12 @@ asa ca in acest [**workshop**](https://github.com/stefanache/MFP-ANAF-RO/tree/ma
 
 Linia de comanda **composer install** din [**_RUN.bat**](https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/_RUN.bat) va instala toate librariile/**dependentele** de care depinde acest api intr-un director denumit **vendor**
 
-Compose va citi fisierul [***composer.json***](https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/composer.json) pentru a stii ca anume **dependente(libarii,tools-uri...)** trebuiesc instalate pt acest **PHP-CRUD-API**.
+**Composer** va citi fisierul [***composer.json***](https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/composer.json) pentru a stii ca anume **dependente(libarii,tools-uri...)** trebuiesc instalate pt acest **PHP-CRUD-API**.
   <hr/><br/>
   </details>  
   <details><summary><h2>Configurare</h2></summary>
   <br/><hr/><pre>
-   In partea de jos a fișierului „api.php” trebuie sa editati liniile de mai jos(si sa inlocuiti xxx cu datele dvs de conectare la b.d. MySQL:
+   In partea de jos a fișierului [„api.php”](https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/api.php) trebuie sa editati liniile de mai jos(si sa inlocuiti xxx cu datele dvs de conectare la b.d. MySQL:
       
       $config = new Config([
           'username' => 'xxx',
