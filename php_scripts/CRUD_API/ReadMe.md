@@ -144,7 +144,7 @@ Sunt acceptate/dispune de următoarele facilitati/caracteristici(features):
  - Instalare <a href="https://en.wikipedia.org/wiki/Composer_(software)">Composer</a> sau un singur fișier PHP, ușor de implementat.
  - Cod foarte mic, ușor de adaptat și întreținut
  - Suportă variabile <a href="https://en.wikipedia.org/wiki/POST_(HTTP)">POST</a> ca intrare (x-www-form-urlencoded)
- - Acceptă un obiect JSON ca intrare
+ - Acceptă un <a href="https://wiki.rptools.info/index.php/JSON_Object">obiect JSON</a> ca intrare
  - Acceptă o matrice JSON ca intrare (inserare lot)
  - Dezinfectați și validați intrarea folosind reguli de tip și apeluri inverse
  - Sistem de permisiuni pentru baze de date, tabele, coloane si inregistrari
