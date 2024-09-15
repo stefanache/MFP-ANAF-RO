@@ -145,7 +145,7 @@ Sunt acceptate/dispune de următoarele facilitati/caracteristici(features):
  - Cod foarte mic, ușor de adaptat și întreținut
  - Suportă variabile <a href="https://en.wikipedia.org/wiki/POST_(HTTP)">POST</a> ca intrare (x-www-form-urlencoded)
  - Acceptă un <a href="https://wiki.rptools.info/index.php/JSON_Object">obiect JSON</a> ca intrare
- - Acceptă o matrice JSON ca intrare (inserare lot)
+ - Acceptă o <a href="https://wiki.rptools.info/index.php/JSON_Array">matrice JSON</a> ca intrare (inserare in/de lot[uri] de date)
  - Dezinfectați și validați intrarea folosind reguli de tip și apeluri inverse
  - Sistem de permisiuni pentru baze de date, tabele, coloane si inregistrari
  - Sunt acceptate modelele de baze de date cu mai multe locatari unice și multiple
