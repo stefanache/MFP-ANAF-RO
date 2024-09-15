@@ -89,6 +89,40 @@ Sau daca vreti, intr-un sens mai larg, sau d.p.d.v conceptual, aceste cuvinte po
           'database' => 'php_crud_api_db',
       ]);
 
+Acestea sunt toate opțiunile de configurare și valoarea lor implicită între paranteze:
+
+ - „driver”: mysql, pgsql, sqlsrvsau sqlite( mysql)
+ - „address”: numele de gazdă (sau numele fișierului) al serverului bazei de date ( localhost)
+ - „port”: portul TCP al serverului de baze de date (implicit la driverul implicit)
+ - „username”: numele de utilizator al utilizatorului care se conectează la baza de date (fără implicit)
+ - „password”: parola utilizatorului care se conectează la baza de date (fără implicită)
+ - „database”: baza de date la care se face conectarea (nu este implicit)
+ - „command”: ​​SQL suplimentar pentru a inițializa conexiunea la baza de date (niciunul)
+ - „tables”: listă separată prin virgulă de tabele de publicat (implicit la „toate”)
+ - „mapping”: listă separată prin virgulă de mapări de tabel/coloană (fără mapare)
+ - „geometrySrid”: SRID asumat la conversia din WKT în geometrie ( 4326)
+ - „middlewares”: Listă de middleware de încărcat ( cors)
+ - „controlere”: Listă de controlere de încărcat ( records,geojson,openapi,status)
+ - „customControllers”: Lista de controlere personalizate de utilizator de încărcat (fără implicit)
+ - „openApiBase”: informații despre OpenAPI ( {"info":{"title":"PHP-CRUD-API","version":"1.0.0"}})
+ - „cacheType”: TempFile, Redis, Memcache, Memcachedsau NoCache( TempFile)
+ - "cachePath": calea/adresa cache-ului (implicit în directorul temporar al sistemului)
+ - „cacheTime”: numărul de secunde în care memoria cache este validă ( 10)
+ - „jsonOptions”: Opțiuni utilizate pentru codificarea JSON ( JSON_UNESCAPED_UNICODE)
+ - „debug”: afișați erorile în anteturile „X-Exception” ( false)
+ - „basePath”: calea de bază URI a API-ului (determinată folosind PATH_INFO în mod implicit)
+
+Toate opțiunile de configurare sunt disponibile și ca variabile de mediu.<br/> 
+Scrieți opțiunea de configurare cu majuscule, un prefix „PHP_CRUD_API_” și liniuțe de subliniere pentru <br/>despărțiri de cuvinte, de exemplu:
+
+PHP_CRUD_API_DRIVER=mysql
+PHP_CRUD_API_ADDRESS=localhost
+PHP_CRUD_API_PORT=3306
+PHP_CRUD_API_DATABASE=php-crud-api
+PHP_CRUD_API_USERNAME=php-crud-api
+PHP_CRUD_API_PASSWORD=php-crud-api
+PHP_CRUD_API_DEBUG=1
+Variabilele de mediu au prioritate față de configurația PHP.
       
   </pre><hr/><br/>
   </details>
