@@ -516,9 +516,8 @@ Există, de asemenea, porturi de dovadă de concept ale acestui script care acce
  
   <hr/><br/>
   </details>
-
-   <hr/>
-   
+  <details><summary><h2>Dockerizare</h2></summary>
+  <br/><hr/>
   <details><summary><h3>Teste Docker</h3></summary>
   <br/><hr/>
    
@@ -539,7 +538,8 @@ Există, de asemenea, porturi de dovadă de concept ale acestui script care acce
    
   <hr/><br/>
   </details> 
-  
+    <hr/><br/>
+  </details>
   Bucurati-va!
 <hr/><br/>
 </details>
