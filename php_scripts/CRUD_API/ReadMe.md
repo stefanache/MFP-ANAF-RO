@@ -139,7 +139,7 @@ Variabilele de mediu(setate in shell/cmd.exe sau in .bat: set PHP_CRUD_API_ADDRE
   </details>
   <details><summary><h2>Caracteristici</h2></summary>
   <br/><hr/>
-Sunt acceptate/dispune de următoarele facilitati/caracteristici(fetures):
+Sunt acceptate/dispune de următoarele facilitati/caracteristici(features):
 
  - Instalare <a href="https://en.wikipedia.org/wiki/Composer_(software)">Composer</a> sau un singur fișier PHP, ușor de implementat.
  - Cod foarte mic, ușor de adaptat și întreținut
