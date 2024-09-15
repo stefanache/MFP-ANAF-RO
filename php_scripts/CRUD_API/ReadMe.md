@@ -119,7 +119,7 @@ PHP_CRUD_API_USERNAME=php-crud-api
 PHP_CRUD_API_PASSWORD=php-crud-api
 PHP_CRUD_API_DEBUG=1
 
-Variabilele de mediu au prioritate față de configurația PHP.
+Variabilele de mediu(setate in cmd.exe sau in .bat: set PHP_CRUD_API_ADDRESS=127.0.0.1) au prioritate față de configurarile din cadrul sursei-PHP.
 </pre>     
  <hr/><br/>
   </details>
