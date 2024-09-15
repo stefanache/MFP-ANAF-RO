@@ -65,7 +65,7 @@ Linia de comanda **composer install** din [**_RUN.bat**](https://github.com/stef
 
 In acest fisier de configurare, [***composer.json/composer.phare***](https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/composer.json), veti vedea/intalni/observa ca aveti niste **keywords** / [**cuvinte-cheie**](https://www.invata-programare.ro/index.php/article/discutii-despre-composerjson-si-composerlock);
 
-Desi acestea sunt doar niste meta-informatii(au caracter pur informal, ele-neavand un rol activ in instalare) totusi veti putea afla ce suport ofera sau daca vreti nuanteaza suportul instalarii, oferind informatii utile despre sistemele de baze de date suportate(in cazul meu **MySQL**) s.a.m.d.
+Desi acestea sunt doar niste meta-informatii(au caracter pur informal, ele-neavand un rol activ in instalare) totusi veti putea afla ce suport ofera sau daca vreti nuanteaza suportul instalarii, oferind informatii utile despre sistemele de baze de date suportate(in cazul meu **MySQL**) sau daca ofera suport pt swagger, openapi, s.a.m.d.
 
   <hr/><br/>
   </details>  
