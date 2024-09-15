@@ -63,7 +63,7 @@ Linia de comanda **composer install** din [**_RUN.bat**](https://github.com/stef
 
 [**Composer**](https://programam.ro/posts/view/ce-este-composer) va citi fisierul [***composer.json/composer.phare***](https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/composer.json) pentru a stii ca anume **dependente(librarii,tools-uri...)** trebuiesc instalate pt acest **PHP-CRUD-API**.
 
-In acest fisier de configurare, [***composer.json/composer.phare***](https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/composer.json), veti vedea ca aveti niste **keywords**, cuvinte-cheie, care nuanteaza/configureaza instalarea, in functie de sistemul de baze de date pe care doriti sa-l utilizati(in cazul meu **MySQL**).
+In acest fisier de configurare, [***composer.json/composer.phare***](https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/composer.json), veti vedea ca aveti niste **keywords** / [**cuvinte-cheie**](https://www.invata-programare.ro/index.php/article/discutii-despre-composerjson-si-composerlock), care nuanteaza/configureaza instalarea, in functie de sistemul de baze de date pe care doriti sa-l utilizati(in cazul meu **MySQL**).
 
   <hr/><br/>
   </details>  
