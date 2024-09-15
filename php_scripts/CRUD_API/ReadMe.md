@@ -91,26 +91,26 @@ Sau daca vreti, intr-un sens mai larg, sau d.p.d.v conceptual, aceste cuvinte po
 
 Acestea sunt toate opțiunile de configurare și valoarea lor implicită între paranteze:
 
- - „driver”: mysql, pgsql, sqlsrvsau sqlite( mysql)
- - „address”: numele de gazdă (sau numele fișierului) al serverului bazei de date ( localhost)
+ - „driver”: mysql, pgsql, sqlsrvsau sqlite( implicit mysql)
+ - „address”: numele de gazdă (sau numele fișierului) al serverului bazei de date ( implicit localhost)
  - „port”: portul TCP al serverului de baze de date (implicit la driverul implicit)
  - „username”: numele de utilizator al utilizatorului care se conectează la baza de date (fără implicit)
- - „password”: parola utilizatorului care se conectează la baza de date (fără implicită)
+ - „password”: parola utilizatorului care se conectează la baza de date (nu exista o valoare implicita)
  - „database”: baza de date la care se face conectarea (nu este implicit)
  - „command”: ​​SQL suplimentar pentru a inițializa conexiunea la baza de date (niciunul)
  - „tables”: listă separată prin virgulă de tabele de publicat (implicit la „toate”)
- - „mapping”: listă separată prin virgulă de mapări de tabel/coloană (fără mapare)
- - „geometrySrid”: SRID asumat la conversia din WKT în geometrie ( 4326)
- - „middlewares”: Listă de middleware de încărcat ( cors)
+ - „mapping”: listă separată prin virgulă de mapări de tabel/coloană (fără harta/asociere/mapare)
+ - „geometrySRID”: SRID asumat la conversia din WKT în geometrie ( implicit 4326)
+ - „middlewares”: Listă de middleware de încărcat ( implicit CORS)
  - „controlere”: Listă de controlere de încărcat ( records,geojson,openapi,status)
  - „customControllers”: Lista de controlere personalizate de utilizator de încărcat (fără implicit)
  - „openApiBase”: informații despre OpenAPI ( {"info":{"title":"PHP-CRUD-API","version":"1.0.0"}})
- - „cacheType”: TempFile, Redis, Memcache, Memcachedsau NoCache( TempFile)
+ - „cacheType”: TempFile, Redis, Memcache, Memcachedsau NoCache( implicit TempFile)
  - "cachePath": calea/adresa cache-ului (implicit în directorul temporar al sistemului)
- - „cacheTime”: numărul de secunde în care memoria cache este validă ( 10)
+ - „cacheTime”: numărul de secunde în care memoria cache este validă ( implicit 10)
  - „jsonOptions”: Opțiuni utilizate pentru codificarea JSON ( JSON_UNESCAPED_UNICODE)
- - „debug”: afișați erorile în anteturile „X-Exception” ( false)
- - „basePath”: calea de bază URI a API-ului (determinată folosind PATH_INFO în mod implicit)
+ - „debug”: afișați erorile în anteturile „X-Exception” ( implicit false)
+ - „basePath”: calea de bază URI a API-ului (în mod implicit valoarea este determinată folosind PATH_INFO )
 
 Toate opțiunile de configurare sunt disponibile și ca variabile de mediu.<br/> 
 Scrieți opțiunea de configurare cu majuscule, un prefix „PHP_CRUD_API_” și liniuțe de subliniere pentru <br/>despărțiri de cuvinte, de exemplu:
