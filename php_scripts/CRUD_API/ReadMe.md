@@ -342,7 +342,7 @@ Există, de asemenea, porturi de dovadă de concept ale acestui script care acce
    
   <hr/><br/>
   </details>
-  <details><summary><h4>Autentificare JWT</h4></summary>
+  <details><summary><h4>Autentificari JWT</h4></summary>
   <br/><hr/>
   <details><summary><h5>Autentificare JWT</h5></summary>
   <br/><hr/>
