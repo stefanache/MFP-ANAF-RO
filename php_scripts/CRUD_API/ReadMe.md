@@ -61,7 +61,7 @@ asa ca in acest [**workshop**](https://github.com/stefanache/MFP-ANAF-RO/tree/ma
 
 Linia de comanda **composer install** din [**_RUN.bat**](https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/_RUN.bat) va instala toate librariile/**dependentele** de care depinde acest api intr-un director denumit **vendor**
 
-Compose va citi fisierul [***composer.json***](https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/composer.json) pentru a stii ce anume dependente trebuiesc instalate pt acest **PHP-CRUD-API**.
+Compose va citi fisierul [***composer.json***](https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/composer.json) pentru a stii ca anume **dependente(libarii,tools-uri...)** trebuiesc instalate pt acest **PHP-CRUD-API**.
 
   <hr/><br/>
   </details>  
