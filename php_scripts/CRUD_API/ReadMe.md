@@ -303,6 +303,9 @@ Există, de asemenea, porturi de dovadă de concept ale acestui script care acce
   </details>    
   <hr/><br/>
   </details> 
+
+  <hr/><br/>
+  </details>
   <details><summary><h2>Maparea numelor pt sistemele mai vechi</h2></summary>
   <br/><hr/>
    
@@ -532,8 +535,7 @@ Există, de asemenea, porturi de dovadă de concept ale acestui script care acce
   </details>  
   <hr/><br/>
   </details>
-  <hr/><br/>
-  </details>
+  
   Bucurati-va!
 <hr/><br/>
 </details>
