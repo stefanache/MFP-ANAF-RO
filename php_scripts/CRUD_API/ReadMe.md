@@ -511,7 +511,7 @@ Există, de asemenea, porturi de dovadă de concept ale acestui script care acce
    
   <hr/><br/>
   </details>
-  <details><summary><h2>Exemplu de configurare Nginx</h2></summary>
+  <details><summary><h2>Exemplu de configurare webserver Nginx</h2></summary>
   <br/><hr/>
  
   <hr/><br/>
