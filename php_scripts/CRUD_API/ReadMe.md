@@ -143,7 +143,7 @@ Sunt acceptate următoarele caracteristici:
 
  - Instalare <a href="https://en.wikipedia.org/wiki/Composer_(software)">Composer</a> sau un singur fișier PHP, ușor de implementat.
  - Cod foarte mic, ușor de adaptat și întreținut
- - Suportă variabile POST ca intrare (x-www-form-urlencoded)
+ - Suportă variabile <a href="https://en.wikipedia.org/wiki/POST_(HTTP)">POST</a> ca intrare (x-www-form-urlencoded)
  - Acceptă un obiect JSON ca intrare
  - Acceptă o matrice JSON ca intrare (inserare lot)
  - Dezinfectați și validați intrarea folosind reguli de tip și apeluri inverse
