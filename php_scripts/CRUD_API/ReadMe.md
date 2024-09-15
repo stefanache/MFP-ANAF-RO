@@ -175,26 +175,27 @@ Sunt acceptate/dispune de următoarele facilitati/caracteristici(features):
   <br/><hr/>
 Proiecte conexe:
 
- - Pornire rapidă PHP-CRUD-API : Un fișier de scriere docker personalizabil, gata de utilizare, care include PHP-CRUD-API.
- - Generator de filtre PHP-CRUD-API : O bibliotecă JavaScript care creează filtre PHP-CRUD-API din expresii.
- - JS-CRUD-API : O bibliotecă client JavaScript pentru API-ul PHP-CRUD-API
- - PHP-API-AUTH : script PHP cu un singur fișier care este un furnizor de autentificare pentru PHP-CRUD-API
- - PHP-CRUD-UI : Script PHP cu un singur fișier care adaugă o interfață de utilizare la un proiect PHP-CRUD-API.
- - PHP-CRUD-ADMIN : Script PHP cu un singur fișier care adaugă o interfață de administrare a bazei de date la un proiect PHP-CRUD-API.
- - PHP-SP-API : Script PHP cu un singur fișier care adaugă un API REST la o bază de date SQL.
- - dexie-mysql-sync : Sincronizare între IndexedDB local și baza de date MySQL.
- - ra-data-treeql : pachet NPM care oferă un furnizor de date pentru React Admin .
- - scriptPilot/vueuse : Vue Composables în plus față de VueUse.org (care acceptă PHP-CRUD-API).
- - scriptPilot/add-php-backend : Adăugați MySQL, phpMyAdmin și PHP-CRUD-API în mediul dumneavoastră de dezvoltare.
- - VUE-CRUD-UI : un singur fișier script Vue.js care adaugă o interfață de utilizare la un proiect PHP-CRUD-API.
+ - <a href="https://github.com/nik2208/php-crud-api-quick-start"><b>PHP-CRUD-API Quick Start</b></a>: Un fișier de scriere docker personalizabil, gata de utilizare, care include PHP-CRUD-API.
+ - <a href="https://thipages.github.io/jca-filter/#"><b>PHP-CRUD-API filter generator</b></a>: O bibliotecă JavaScript care creează filtre PHP-CRUD-API din expresii.
+ - <a href="https://github.com/thipages/js-crud-api"><b>JS-CRUD-API</b></a> : O bibliotecă client JavaScript pentru API-ul PHP-CRUD-API
+ - <a href="https://github.com/mevdschee/php-api-auth"><b>PHP-API-AUTH</b></a> : script PHP cu un singur fișier care este un furnizor de autentificare pentru PHP-CRUD-API
+ - <a href="https://github.com/mevdschee/php-crud-ui"><b>PHP-CRUD-UI</b></a> : Script PHP cu un singur fișier care adaugă o interfață de utilizare la un proiect PHP-CRUD-API.
+ - <a href="https://github.com/mevdschee/php-crud-admin"><b>PHP-CRUD-ADMIN</b></a> : Script PHP cu un singur fișier care adaugă o interfață de administrare a bazei de date la un proiect PHP-CRUD-API.
+ - <a href="https://github.com/mevdschee/php-sp-api"><b>PHP-SP-API</b></a> : Script PHP cu un singur fișier care adaugă un API REST la o bază de date SQL.
+ - <a href="https://github.com/scriptPilot/dexie-mysql-sync"><b>dexie-mysql-sync</b></a> : Sincronizare între IndexedDB local și baza de date MySQL.
+ - <a href="https://github.com/nkappler/ra-data-treeql"<b>ra-data-treeql</b></a> : pachet NPM care oferă un <a href="https://marmelab.com/react-admin/DataProviderIntroduction.html">Data Provider</a>(furnizor de date) pentru <a href="https://marmelab.com/react-admin/">React Admin</a> .
+ - <a href="https://github.com/scriptPilot/vueuse/"><b>scriptPilot/vueuse</b></a> : Vue <a href="https://vuejs.org/guide/reusability/composables.html">Composables</a> în plus față de <a href="https://vueuse.org/">VueUse.org</a> (care acceptă PHP-CRUD-API).
+ - <a href="https://github.com/scriptPilot/add-php-backend"><b>scriptPilot/add-php-backend</b></a> : Adăugați MySQL, phpMyAdmin și PHP-CRUD-API în mediul dumneavoastră de dezvoltare.
+ - <a href="https://github.com/nlware/vue-crud-ui"><b>VUE-CRUD-UI</b></a> : un singur fișier script Vue.js care adaugă o interfață de utilizare la un proiect PHP-CRUD-API.
 
 Există și porturi ale acestui script în:
 
- - Go-CRUD-API (lucrare în curs)
- - Java JDBC de Ivan Kolchagov (v1)
- - Java Spring Boot + jOOQ (v2: lucru în curs)
- - 
-Există, de asemenea, porturi de dovadă de concept ale acestui script care acceptă doar funcționalitatea REST CRUD de bază în: <br/>PHP , Java , Go , C# .net core , Node.js și Python .   
+ - <a href="https://github.com/dranih/go-crud-api">Go-CRUD-API</a> (lucrare în curs de elaborare)
+ - <a href="https://github.com/kolchagov/java-crud-api">Java JDBC de Ivan Kolchagov</s> (v1)
+ - <a href="https://github.com/mevdschee/java-crud-api/tree/master/full">Java Spring Boot + jOOQ</a> (v2: lucru în curs)
+  
+Există, de asemenea, porturi de dovadă de concept ale acestui script care acceptă doar funcționalitatea REST CRUD de bază în: <br/>
+[PHP](https://github.com/mevdschee/php-crud-api/blob/master/extras/core.php) , [Java](https://github.com/mevdschee/java-crud-api/blob/master/core/src/main/java/com/tqdev/CrudApiHandler.java) , [Go](https://github.com/mevdschee/go-crud-api/blob/master/api.go) , [C# .net core](https://github.com/mevdschee/core-data-api/blob/master/Program.cs) , [Node.js](https://github.com/mevdschee/js-crud-api/blob/master/app.js) și [Python](https://github.com/mevdschee/py-crud-api/blob/master/api.py) .   
    <hr/><br/>
   </details>
   <details><summary><h2>Compilare</h2></summary>
