@@ -59,6 +59,8 @@ asa ca in acest [**workshop**](https://github.com/stefanache/MFP-ANAF-RO/tree/ma
   - apoi, trebuie modificat in api.php( trebuie verificate configurarea b.d...cititi cu atentie capitolul urmator intitulat [***Configurare***](https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/ReadMe.md#configurare)) si 
   - in final trebuie rulat batch-ul(creat de mine) **_RUN.bat**(consultati si/cu **phpinfo()** din ***index.php***, sa vedeti daca suportul **PDO**,din ***php.ini*** este activat?!).
 
+Linia de comanda **composer install** din **_RUN.bat** va instala toate librariile/**dependentele** de care depinde acest api intr-un director denumit **vendor**
+
   <hr/><br/>
   </details>  
   <details><summary><h2>Configurare</h2></summary>
