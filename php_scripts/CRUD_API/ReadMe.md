@@ -513,6 +513,10 @@ Există, de asemenea, porturi de dovadă de concept ale acestui script care acce
   </details>
   <details><summary><h2>exemple de configurare Nginx</h2></summary>
   <br/><hr/>
+ 
+  <hr/><br/>
+  </details>
+
   <details><summary><h3>Teste Docker</h3></summary>
   <br/><hr/>
    
@@ -532,9 +536,7 @@ Există, de asemenea, porturi de dovadă de concept ale acestui script care acce
   <br/><hr/>
    
   <hr/><br/>
-  </details>  
-  <hr/><br/>
-  </details>
+  </details> 
   
   Bucurati-va!
 <hr/><br/>
