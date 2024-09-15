@@ -417,7 +417,7 @@ Există, de asemenea, porturi de dovadă de concept ale acestui script care acce
   </details>  
   <hr/><br/>
   </details>
-  <details><summary><h3>Prevenirea "scraping"-ului(culegerii neautorizate de date) bazei de date</h3></summary>
+  <details><summary><h3>Prevenirea "scraping"-ului bazei de date(culegerii nedorite de date)</h3></summary>
   <br/><hr/>
    
   <hr/><br/>
