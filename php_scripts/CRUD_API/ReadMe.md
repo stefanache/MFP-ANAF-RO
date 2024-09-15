@@ -126,14 +126,14 @@ Variabilele de mediu(setate in shell/cmd.exe sau in .bat: set PHP_CRUD_API_ADDRE
   <details><summary><h2>Limitari</h2></summary>
   <br/><hr/>
     
-    Aceste limitări și constrângeri se aplică:
+    Aceste limitări și constrângeri se aplică astfel/pentru:
     
-     - Cheile primare ar trebui să fie fie cu incrementare automată (de la 1 la 2^53) fie UUID
+     - Cheile primare, care ar trebui să fie fie cu incrementare automată (de la 1 la 2^53) fie UUID
      - Cheile primare și străine compozite nu sunt acceptate
      - Scrierile (tranzacțiile) complexe nu sunt acceptate
      - Interogările complexe care apelează funcții (cum ar fi „concat” sau „sum”) nu sunt acceptate
      - Baza de date trebuie să susțină și să definească constrângeri de cheie străină
-     - SQLite nu poate avea chei primare de incrementare automată tastate bigint
+     - SQLite nu poate avea chei primare de incrementare automată(autoincrementare) tastate bigint
      - SQLite nu acceptă modificarea coloanelor din tabel (structurii)   
   <hr/><br/>
   </details>
