@@ -158,7 +158,7 @@ Sunt acceptate/dispune de următoarele facilitati/caracteristici(features):
  - Câmpuri binare acceptate cu codificare <a href="https://en.wikipedia.org/wiki/Base64">base64</a>
  - Câmpuri și filtre spațiale/GIS acceptate cu <a href="https://libgeos.org/specifications/wkt/">WKT</a> și <a href="https://libgeos.org/specifications/geojson/">GeoJSON</a>
  - Maparea(asocierea) numelor de tabele și coloane pentru a susține sistemele vechi
- - Generați documentație API folosind instrumente OpenAPI
+ - Generați documentație API folosind instrumente <a href="https://en.wikipedia.org/wiki/Open_API">OpenAPI</a>
  - Autentificare prin cheie API, token <a href="https://en.wikipedia.org/wiki/JSON_Web_Token">JWT</a> sau nume de utilizator/parolă
  - Parametrii conexiunii la baza de date pot depinde de autentificare
  - Suport pentru citirea structurii bazei de date în JSON
