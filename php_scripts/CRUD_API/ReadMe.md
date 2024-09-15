@@ -138,9 +138,34 @@ Variabilele de mediu(setate in shell/cmd.exe sau in .bat: set PHP_CRUD_API_ADDRE
   <hr/><br/>
   </details>
   <details><summary><h2>Caracteristici</h2></summary>
-  <br/><hr/><pre>
-   
-  </pre><hr/><br/>
+  <br/><hr/>
+Sunt acceptate următoarele caracteristici:
+
+ - Instalare Composer sau un singur fișier PHP, ușor de implementat.
+ - Cod foarte mic, ușor de adaptat și întreținut
+ - Suportă variabile POST ca intrare (x-www-form-urlencoded)
+ - Acceptă un obiect JSON ca intrare
+ - Acceptă o matrice JSON ca intrare (inserare lot)
+ - Dezinfectați și validați intrarea folosind reguli de tip și apeluri inverse
+ - Sistem de permisiuni pentru baze de date, tabele, coloane si inregistrari
+ - Sunt acceptate modelele de baze de date cu mai multe locatari unice și multiple
+ - Suport <a href="https://en.wikipedia.org/wiki/Cross-origin_resource_sharing">CORS</a> pentru mai multe domenii pentru solicitări între domenii
+ - Suport pentru citirea rezultatelor unite din mai multe tabele
+ - Căutați asistență pe mai multe criterii
+ - Paginare, sortare, lista de top N și selecție coloane
+ - Detectarea relației cu rezultate imbricate (belongsTo, hasMany și HABTM)
+ - Suport pentru increment atomic prin PATCH (pentru contoare)
+ - Câmpuri binare acceptate cu codificare base64
+ - Câmpuri și filtre spațiale/GIS acceptate cu WKT și GeoJSON
+ - Maparea(asocierea) numelor de tabele și coloane pentru a susține sistemele vechi
+ - Generați documentație API folosind instrumente OpenAPI
+ - Autentificare prin cheie API, token JWT sau nume de utilizator/parolă
+ - Parametrii conexiunii la baza de date pot depinde de autentificare
+ - Suport pentru citirea structurii bazei de date în JSON
+ - Suport pentru modificarea structurii bazei de date folosind punctul final REST
+ - Middleware-ul de îmbunătățire a securității este inclus
+ - Conform standardului: PSR-4, PSR-7, PSR-12, PSR-15 și PSR-17   
+  <hr/><br/>
   </details>
   <details><summary><h2>Proiecte si portari conexe</h2></summary>
   <br/><hr/><pre>
