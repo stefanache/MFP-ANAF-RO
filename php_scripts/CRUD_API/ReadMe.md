@@ -289,7 +289,34 @@ Există, de asemenea, porturi de dovadă de concept ale acestui script care acce
    
   </pre><hr/><br/>
   </details> 
-  
+  <details><summary><h3>Suportul datelor spatiale</h3></summary>
+  <br/><hr/><pre>
+  <details><summary><h4>Suport spatial</h4></summary>
+  <br/><hr/><pre>
+   
+  </pre><hr/><br/>
+  </details>     
+  <details><summary><h4>GeoJSON</h4></summary>
+  <br/><hr/><pre>
+   
+  </pre><hr/><br/>
+  </details>    
+  </pre><hr/><br/>
+  </details> 
+  <details><summary><h2>Maparea numelor pt sistemele mai vechi</h2></summary>
+  <br/><hr/><pre>
+   
+  </pre><hr/><br/>
+  </details>
+  <details><summary><h2>Intermediere(Middlereware)</h2></summary>
+  <br/><hr/>
+  <details><summary><h3>Autentificare</h3></summary>
+  <br/><hr/><pre>
+   
+  </pre><hr/><br/>
+  </details>    
+  <hr/><br/>
+  </details>   
   <hr/><br/>
   </details>  
 <hr/><br/>
