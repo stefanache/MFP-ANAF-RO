@@ -155,7 +155,7 @@ Sunt acceptate următoarele caracteristici:
  - Paginare, sortare, lista de top N și selecție coloane
  - Detectarea relației cu rezultate imbricate (belongsTo, hasMany și <a href="https://en.wikipedia.org/wiki/Many-to-many_(data_model)">HABTM</a>)
  - Suport pentru increment atomic prin PATCH (pentru contoare)
- - Câmpuri binare acceptate cu codificare base64
+ - Câmpuri binare acceptate cu codificare <a href="https://en.wikipedia.org/wiki/Base64">base64</a>
  - Câmpuri și filtre spațiale/GIS acceptate cu <a href="https://libgeos.org/specifications/wkt/">WKT</a> și <a href="https://libgeos.org/specifications/geojson/">GeoJSON</a>
  - Maparea(asocierea) numelor de tabele și coloane pentru a susține sistemele vechi
  - Generați documentație API folosind instrumente OpenAPI
