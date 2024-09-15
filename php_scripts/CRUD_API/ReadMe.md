@@ -219,7 +219,7 @@ Există, de asemenea, porturi de dovadă de concept ale acestui script care acce
   </details>
 
   <details><summary><h2>TreeQL, un GraphQL pragmatic</h2></summary>
-  <br/><hr/><pre>
+  <br/><hr/>
   <details><summary><h3>CRUD + List</h3></summary>
   <br/><hr/><pre>
   <details><summary><h4>Creare(Create)</h4></summary>
@@ -279,8 +279,18 @@ Există, de asemenea, porturi de dovadă de concept ale acestui script care acce
    
   </pre><hr/><br/>
   </details> 
-  
+  <details><summary><h3>Reunirile de tabele(Joins)</h3></summary>
+  <br/><hr/><pre>
+   
   </pre><hr/><br/>
+  </details>
+  <details><summary><h3>Operatiunile in lot de lucrari(Batch operations)</h3></summary>
+  <br/><hr/><pre>
+   
+  </pre><hr/><br/>
+  </details> 
+  
+  <hr/><br/>
   </details>  
 <hr/><br/>
 </details>
