@@ -141,7 +141,7 @@ Variabilele de mediu(setate in shell/cmd.exe sau in .bat: set PHP_CRUD_API_ADDRE
   <br/><hr/>
 Sunt acceptate următoarele caracteristici:
 
- - Instalare Composer sau un singur fișier PHP, ușor de implementat.
+ - Instalare <a href="https://en.wikipedia.org/wiki/Composer_(software)">Composer</a> sau un singur fișier PHP, ușor de implementat.
  - Cod foarte mic, ușor de adaptat și întreținut
  - Suportă variabile POST ca intrare (x-www-form-urlencoded)
  - Acceptă un obiect JSON ca intrare
