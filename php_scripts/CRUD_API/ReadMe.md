@@ -191,7 +191,7 @@ Proiecte conexe:
 Există și porturi ale acestui script în:
 
  - <a href="https://github.com/dranih/go-crud-api">Go-CRUD-API</a> (lucrare în curs de elaborare)
- - <a href="https://github.com/kolchagov/java-crud-api">Java JDBC de Ivan Kolchagov</s> (v1)
+ - <a href="https://github.com/kolchagov/java-crud-api">Java JDBC de Ivan Kolchagov</a> (v1)
  - <a href="https://github.com/mevdschee/java-crud-api/tree/master/full">Java Spring Boot + jOOQ</a> (v2: lucru în curs)
   
 Există, de asemenea, porturi de dovadă de concept ale acestui script care acceptă doar funcționalitatea REST CRUD de bază în: <br/>
