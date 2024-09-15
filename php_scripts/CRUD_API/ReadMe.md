@@ -153,18 +153,18 @@ Sunt acceptate următoarele caracteristici:
  - Suport pentru citirea rezultatelor unite din mai multe tabele
  - Căutați asistență pe mai multe criterii
  - Paginare, sortare, lista de top N și selecție coloane
- - Detectarea relației cu rezultate imbricate (belongsTo, hasMany și HABTM)
+ - Detectarea relației cu rezultate imbricate (belongsTo, hasMany și <a href="https://en.wikipedia.org/wiki/Many-to-many_(data_model)">HABTM</a>)
  - Suport pentru increment atomic prin PATCH (pentru contoare)
  - Câmpuri binare acceptate cu codificare base64
- - Câmpuri și filtre spațiale/GIS acceptate cu WKT și GeoJSON
+ - Câmpuri și filtre spațiale/GIS acceptate cu <a href="https://libgeos.org/specifications/wkt/">WKT</a> și <a href="https://libgeos.org/specifications/geojson/">GeoJSON</a>
  - Maparea(asocierea) numelor de tabele și coloane pentru a susține sistemele vechi
  - Generați documentație API folosind instrumente OpenAPI
- - Autentificare prin cheie API, token JWT sau nume de utilizator/parolă
+ - Autentificare prin cheie API, token <a href="https://en.wikipedia.org/wiki/JSON_Web_Token">JWT</a> sau nume de utilizator/parolă
  - Parametrii conexiunii la baza de date pot depinde de autentificare
  - Suport pentru citirea structurii bazei de date în JSON
- - Suport pentru modificarea structurii bazei de date folosind punctul final REST
+ - Suport pentru modificarea structurii bazei de date folosind punctul final <a href="https://en.wikipedia.org/wiki/REST">REST</a>
  - Middleware-ul de îmbunătățire a securității este inclus
- - Conform standardului: PSR-4, PSR-7, PSR-12, PSR-15 și PSR-17   
+ - Conform standardului <a href="https://en.wikipedia.org/wiki/PHP_Standard_Recommendation">PSRn[n]</a>: PSR-4, PSR-7, PSR-12, PSR-15 și PSR-17   
   <hr/><br/>
   </details>
   <details><summary><h2>Proiecte si portari conexe</h2></summary>
