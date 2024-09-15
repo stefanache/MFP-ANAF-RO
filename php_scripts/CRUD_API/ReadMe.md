@@ -89,8 +89,7 @@ Sau daca vreti, intr-un sens mai larg, sau d.p.d.v conceptual, aceste cuvinte po
           'password' => '',
           'database' => 'php_crud_api_db',
       ]);
- </pre>
- 
+ </pre> 
 Acestea sunt toate opțiunile de configurare și valoarea lor implicită între paranteze:<br/>
  - „driver”: mysql, pgsql, sqlsrvsau sqlite( implicit mysql)
  - „address”: numele de gazdă (sau numele fișierului) al serverului bazei de date ( implicit localhost)
@@ -113,7 +112,7 @@ Acestea sunt toate opțiunile de configurare și valoarea lor implicită între 
  - „debug”: afișați erorile în anteturile „X-Exception” ( implicit false)
  - „basePath”: calea de bază URI a API-ului (în mod implicit valoarea este determinată folosind PATH_INFO )
 
-Toate opțiunile de configurare sunt disponibile și ca variabile de mediu.<br/> 
+Toate aceste opțiuni de configurare sunt disponibile și ca variabile de mediu.<br/><br/> 
 Scrieți opțiunea de configurare cu majuscule, un prefix „PHP_CRUD_API_” și liniuțe de subliniere pentru <br/>despărțiri de cuvinte, de exemplu:<pre>
 PHP_CRUD_API_DRIVER=mysql
 PHP_CRUD_API_ADDRESS=localhost
