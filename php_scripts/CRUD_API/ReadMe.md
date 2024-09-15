@@ -312,7 +312,55 @@ Există, de asemenea, porturi de dovadă de concept ale acestui script care acce
   <br/><hr/>
   <details><summary><h3>Autentificare</h3></summary>
   <br/><hr/>
+  <details><summary><h4>Autentificare</h4></summary>
+  <br/><hr/>
    
+  <hr/><br/>
+  </details> 
+  <details><summary><h4>Autentificare cu cheie-API(API-key)</h4></summary>
+  <br/><hr/>
+   
+  <hr/><br/>
+  </details>
+  <details><summary><h4>Autentificare Baza de Date cu cheie-API(API-key)</h4></summary>
+  <br/><hr/>
+   
+  <hr/><br/>
+  </details>
+  <details><summary><h4>Autentificare Baza de Date</h4></summary>
+  <br/><hr/>
+   <b>Logare folosind o tabela-join</b>
+  <hr/><br/>
+  </details>
+  <details><summary><h4>Autentificare Wordpress</h4></summary>
+  <br/><hr/>
+   
+  <hr/><br/>
+  </details>
+  <details><summary><h4>Autentificare de baza</h4></summary>
+  <br/><hr/>
+   
+  <hr/><br/>
+  </details>
+  <details><summary><h4>Autentificare JWT</h4></summary>
+  <br/><hr/>
+  <details><summary><h5>Autentificare JWT</h5></summary>
+  <br/><hr/>
+   
+  <hr/><br/>
+  </details>
+  <details><summary><h5>Configurare si testare autentificare JWT cu Auth0</h5></summary>
+  <br/><hr/>
+   
+  <hr/><br/>
+  </details>
+  <details><summary><h5>Configurare si testare autentificare JWT cu Firebase</h5></summary>
+  <br/><hr/>
+   
+  <hr/><br/>
+  </details>   
+  <hr/><br/>
+  </details>  
   <hr/><br/>
   </details>    
   <hr/><br/>
