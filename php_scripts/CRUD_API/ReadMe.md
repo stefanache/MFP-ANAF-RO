@@ -536,7 +536,7 @@ Există, de asemenea, porturi de dovadă de concept ale acestui script care acce
     <hr/><br/>
   </details>
   
-  <details><summary><h3>Istoria Stelutelor(star hystory)</h3></summary>
+  <details><summary><h3>Istoricul stelutelor primite(star hystory)</h3></summary>
   <br/><hr/>
    
   <hr/><br/>
