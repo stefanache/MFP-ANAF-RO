@@ -248,7 +248,17 @@ Există, de asemenea, porturi de dovadă de concept ale acestui script care acce
   </pre><hr/><br/>
   </details>  
   </pre><hr/><br/>
-  </details>     
+  </details>
+  <details><summary><h3>Filtre</h3></summary>
+  <br/><hr/><pre>
+   
+  </pre><hr/><br/>
+  </details>
+  <details><summary><h3>Filtre multiple</h3></summary>
+  <br/><hr/><pre>
+   
+  </pre><hr/><br/>
+  </details>  
   </pre><hr/><br/>
   </details>  
 <hr/><br/>
