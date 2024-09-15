@@ -136,7 +136,9 @@ Variabilele de mediu(setate in shell/cmd.exe sau in .bat: set PHP_CRUD_API_ADDRE
      - SQLite nu poate avea chei primare de incrementare automată(autoincrementare) tastate bigint
      - SQLite nu acceptă modificarea coloanelor din tabel (structurii) 
 
-***OBS***: <b>UUID</b> i.e <a href="https://en.wikipedia.org/wiki/Universally_unique_identifier"><b>Universally Unique ID(entifier)</b></a>
+***OBS***:<br/>
+- <b>UUID</b> i.e <a href="https://en.wikipedia.org/wiki/Universally_unique_identifier"><b>Universally Unique ID(entifier)</b></a>
+- <a href="https://en.wikipedia.org/wiki/SQLite"><b>SQLite</b></a> - un motor de baze de date SQL, bazat pe/orientat catre  fisier
   <hr/><br/>
   </details>
   <details><summary><h2>Caracteristici</h2></summary>
