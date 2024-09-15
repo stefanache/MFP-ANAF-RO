@@ -21,7 +21,7 @@ asa ca in acest [**workshop**](https://github.com/stefanache/MFP-ANAF-RO/tree/ma
   <br/><hr/>
      - <b>PHP 7.2</b> sau o versiune ulterioară(eu am testat pe PHP 8.3.7) cu drivere <a href="https://medium.com/@pyk_ouo/php-pdo-basic-database-crud-93dced2bc3d"><i>PDO</i></a> activate(sub <b>Windows</b>, cum am si eu, in <b>php.ini</b> trebuie sa aveti <b>extension=php_pdo_mysql.dll</b>  de/necomentat) pentru unul dintre aceste sisteme de baze de date(b.d.):<br/>
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- <a href="https://dev.mysql.com/doc/relnotes/mysql/5.7/en/"><b>MySQL 5.7</b></a> / <a href="https://mariadb.org/mariadb-10-0-36-now-available/"><b>MariaDB 10.0</b></a> sau o versiune ulterioară pentru caracteristici/date spațiale în MySQL<br/>
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- <b>PostgreSQL 9.5</b> sau o versiune ulterioară cu <i>PostGIS 2.2</i> sau o versiune ulterioară pentru caracteristici spațiale<br/>
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- <a href="https://www.postgresql.org/download/windows/"><b>PostgreSQL 9.5</b></a> sau o versiune ulterioară cu <a href="https://www.postgresonline.com/journal/archives/358-PostGIS-2.2.0-windows-bundle-for-PostgreSQL-9.5beta2-32-and-64-bit.html"><i>PostGIS 2.2</i></a> sau o versiune ulterioară pentru caracteristici spațiale<br/>
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- <b>SQL-Server-2017</b> sau o versiune ulterioară (SQL-Server-2019 are și suport pentru Linux)<br/>
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- <b>SQLite 3.16</b> sau o versiune ulterioară (funcțiile spațiale <i>NU</i> sunt acceptate)<br/>   
   <hr/><br/>
