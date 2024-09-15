@@ -367,7 +367,12 @@ Există, de asemenea, porturi de dovadă de concept ale acestui script care acce
   <br/><hr/>
    
   <hr/><br/>
-  </details>   
+  </details>
+  <details><summary><h3>Autorizarea tabelelor,coloanelor si inregistrarilor/randurilor</h3></summary>
+  <br/><hr/>
+   
+  <hr/><br/>
+  </details>  
   <hr/><br/>
   </details>   
   <hr/><br/>
