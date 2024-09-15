@@ -120,7 +120,7 @@ PHP_CRUD_API_PASSWORD=php-crud-api
 PHP_CRUD_API_DEBUG=1
 
 Variabilele de mediu(setate in shell/cmd.exe sau in .bat: set PHP_CRUD_API_ADDRESS=127.0.0.1) au prioritate față de <br/>configurarile din cadrul sursei-PHP(<a href="https://github.com/codemage66/PHP-CRUD-API/blob/main/php_scripts/CRUD_API/api.php">api.php</a>).
-</pre>     
+    
  <hr/><br/>
   </details>
   <details><summary><h2>Limitari</h2></summary>
@@ -201,19 +201,19 @@ Există, de asemenea, porturi de dovadă de concept ale acestui script care acce
   <details><summary><h2>Compilare - Dezvoltare - Actualizarea dependentelor</h2></summary>
   <br/><hr/>
   <details><summary><h3>Compilare</h3></summary>
-  <br/><hr/><pre>
+  <br/><hr/>
    
-  </pre><hr/><br/>
+  <hr/><br/>
   </details>
   <details><summary><h3>Dezvoltare</h3></summary>
-  <br/><hr/><pre>
+  <br/><hr/>
    
-  </pre><hr/><br/>
+  <hr/><br/>
   </details>
   <details><summary><h3>Actualizare dependentelor</h3></summary>
-  <br/><hr/><pre>
+  <br/><hr/>
    
-  </pre><hr/><br/>
+  <hr/><br/>
   </details>   
   <hr/><br/>
   </details>
@@ -221,99 +221,99 @@ Există, de asemenea, porturi de dovadă de concept ale acestui script care acce
   <details><summary><h2>TreeQL, un GraphQL pragmatic</h2></summary>
   <br/><hr/>
   <details><summary><h3>CRUD + List</h3></summary>
-  <br/><hr/><pre>
+  <br/><hr/>
   <details><summary><h4>Creare(Create)</h4></summary>
-  <br/><hr/><pre>
+  <br/><hr/>
    
-  </pre><hr/><br/>
+  <hr/><br/>
   </details>
   <details><summary><h4>Citire(Read)</h4></summary>
-  <br/><hr/><pre>
+  <br/><hr/>
    
-  </pre><hr/><br/>
+  <hr/><br/>
   </details>
   <details><summary><h4>Actualizare/Modificare(Update)</h4></summary>
-  <br/><hr/><pre>
+  <br/><hr/>
    
-  </pre><hr/><br/>
+  <hr/><br/>
   </details> 
   <details><summary><h4>Stergere(Delete)</h4></summary>
-  <br/><hr/><pre>
+  <br/><hr/>
    
-  </pre><hr/><br/>
+  <hr/><br/>
   </details>
   <details><summary><h4>Listare(List)</h4></summary>
-  <br/><hr/><pre>
+  <br/><hr/>
    
-  </pre><hr/><br/>
+  <hr/><br/>
   </details>  
-  </pre><hr/><br/>
+  <hr/><br/>
   </details>
   <details><summary><h3>Filtre</h3></summary>
-  <br/><hr/><pre>
+  <br/><hr/>
    
   </pre><hr/><br/>
   </details>
   <details><summary><h3>Filtre multiple</h3></summary>
   <br/><hr/><pre>
    
-  </pre><hr/><br/>
+  <hr/><br/>
   </details>
   <details><summary><h3>Selectia coloanelor</h3></summary>
-  <br/><hr/><pre>
+  <br/><hr/>
    
-  </pre><hr/><br/>
+  <hr/><br/>
   </details>
   <details><summary><h3>Sortarea</h3></summary>
-  <br/><hr/><pre>
+  <br/><hr/>
    
-  </pre><hr/><br/>
+  <hr/><br/>
   </details> 
   <details><summary><h3>Limita parametrului "size"</h3></summary>
-  <br/><hr/><pre>
+  <br/><hr/>
    
-  </pre><hr/><br/>
+  <hr/><br/>
   </details> 
   <details><summary><h3>Paginatia</h3></summary>
-  <br/><hr/><pre>
+  <br/><hr/>
    
-  </pre><hr/><br/>
+  <hr/><br/>
   </details> 
   <details><summary><h3>Reunirile de tabele(Joins)</h3></summary>
-  <br/><hr/><pre>
+  <br/><hr/>
    
-  </pre><hr/><br/>
+  <hr/><br/>
   </details>
   <details><summary><h3>Operatiunile in lot de lucrari(Batch operations)</h3></summary>
-  <br/><hr/><pre>
+  <br/><hr/>
    
-  </pre><hr/><br/>
+  <hr/><br/>
   </details> 
   <details><summary><h3>Suportul datelor spatiale</h3></summary>
-  <br/><hr/><pre>
+  <br/><hr/>
   <details><summary><h4>Suport spatial</h4></summary>
-  <br/><hr/><pre>
+  <br/><hr/>
    
-  </pre><hr/><br/>
+  <hr/><br/>
   </details>     
   <details><summary><h4>GeoJSON</h4></summary>
-  <br/><hr/><pre>
+  <br/><hr/>
    
-  </pre><hr/><br/>
+  <hr/><br/>
   </details>    
-  </pre><hr/><br/>
+  <hr/><br/>
   </details> 
   <details><summary><h2>Maparea numelor pt sistemele mai vechi</h2></summary>
-  <br/><hr/><pre>
+  <br/><hr/>
    
-  </pre><hr/><br/>
+  <hr/><br/>
   </details>
   <details><summary><h2>Intermediere(Middlereware)</h2></summary>
   <br/><hr/>
   <details><summary><h3>Autentificare</h3></summary>
-  <br/><hr/><pre>
+  <br/><hr/>
    
-  </pre><hr/><br/>
+  <hr/><br/>
   </details>    
   <hr/><br/>
   </details>   
