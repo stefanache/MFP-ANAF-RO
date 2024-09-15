@@ -463,8 +463,77 @@ Există, de asemenea, porturi de dovadă de concept ale acestui script care acce
   <br/><hr/>
    
   <hr/><br/>
-  </details>   
+  </details> 
+  <details><summary><h2>Tipuri de date(Types)</h2></summary>
+  <br/><hr/>
+   
   <hr/><br/>
   </details>  
+  <details><summary><h2>Tipuri de date in JavaScript</h2></summary>
+  <br/><hr/>
+  <details><summary><h3>intregi pe 64 biti</h3></summary>
+  <br/><hr/>
+   
+  <hr/><br/>
+  </details> 
+  <details><summary><h3>reali in virgula mobila - Inf si NaN</h3></summary>
+  <br/><hr/>
+   
+  <hr/><br/>
+  </details>  
+  <hr/><br/>
+  </details>
+  <details><summary><h2>Erori</h2></summary>
+  <br/><hr/>
+   
+  <hr/><br/>
+  </details>
+  <details><summary><h2Stare(status)</h2></summary>
+  <br/><hr/>
+   
+  <hr/><br/>
+  </details>
+  <details><summary><h2>Controler personalizat(custom controller)</h2></summary>
+  <br/><hr/>
+   
+  <hr/><br/>
+  </details>
+  <details><summary><h2>Teste</h2></summary>
+  <br/><hr/>
+   
+  <hr/><br/>
+  </details>
+  <details><summary><h2>Rulare/Executie(running)</h2></summary>
+  <br/><hr/>
+   
+  <hr/><br/>
+  </details>
+  <details><summary><h2>exemple de configurare Nginx</h2></summary>
+  <br/><hr/>
+  <details><summary><h3>Teste Docker</h3></summary>
+  <br/><hr/>
+   
+  <hr/><br/>
+  </details>
+  <details><summary><h3>Imagine Docker</h3></summary>
+  <br/><hr/>
+   
+  <hr/><br/>
+  </details>
+  <details><summary><h3>Compozitorul Docker(Docker compose)</h3></summary>
+  <br/><hr/>
+   
+  <hr/><br/>
+  </details>
+  <details><summary><h3>Istoria Stelutelor(star hystory)</h3></summary>
+  <br/><hr/>
+   
+  <hr/><br/>
+  </details>  
+  <hr/><br/>
+  </details>
+  <hr/><br/>
+  </details>
+  Bucurati-va!
 <hr/><br/>
 </details>
