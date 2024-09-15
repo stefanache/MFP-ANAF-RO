@@ -565,7 +565,7 @@ Există, de asemenea, porturi de dovadă de concept ale acestui script care acce
   
   <details><summary><h3>Istoricul stelutelor primite(star hystory)</h3></summary>
   <br/><hr/>
-   
+   <center><img src="https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/68747470733a2f2f6170692e737461722d686973746f72792e636f6d2f7376673f7265706f733d6d65766473636865652f7068702d637275642d61706926747970653d44617465.svg"/></center>
   <hr/><br/>
   </details> 
   
