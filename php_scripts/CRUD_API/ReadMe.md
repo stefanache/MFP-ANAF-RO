@@ -135,8 +135,8 @@ Variabilele de mediu(setate in shell/cmd.exe sau in .bat: set PHP_CRUD_API_ADDRE
      - Baza de date trebuie să susțină și să definească constrângeri de cheie străină
      - SQLite nu poate avea chei primare de incrementare automată(autoincrementare) tastate bigint
      - SQLite nu acceptă modificarea coloanelor din tabel (structurii) 
-     
-    ***OBS***: <b>UUID</b> i.e <a href="https://en.wikipedia.org/wiki/Universally_unique_identifier"><b>Universally Unique ID(entifier)</b></a>
+
+***OBS***: <b>UUID</b> i.e <a href="https://en.wikipedia.org/wiki/Universally_unique_identifier"><b>Universally Unique ID(entifier)</b></a>
   <hr/><br/>
   </details>
   <details><summary><h2>Caracteristici</h2></summary>
