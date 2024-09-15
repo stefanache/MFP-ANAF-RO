@@ -200,19 +200,24 @@ Există, de asemenea, porturi de dovadă de concept ale acestui script care acce
   </details>
   <details><summary><h2>Compilare</h2></summary>
   <br/><hr/><pre>
-   
+    <details><summary><h2>Compilare</h2></summary>
+    <br/><hr/><pre>
+     
+    </pre><hr/><br/>
+    </details>
+    <details><summary><h2>Dezvoltare</h2></summary>
+    <br/><hr/><pre>
+     
+    </pre><hr/><br/>
+    </details>
+    <details><summary><h2>Actualizare dependentelor</h2></summary>
+    <br/><hr/><pre>
+     
+    </pre><hr/><br/>
+    </details>   
   </pre><hr/><br/>
   </details>
-  <details><summary><h2>Dezvoltare</h2></summary>
-  <br/><hr/><pre>
-   
-  </pre><hr/><br/>
-  </details>
-  <details><summary><h2>Actualizare dependentelor</h2></summary>
-  <br/><hr/><pre>
-   
-  </pre><hr/><br/>
-  </details>
+
   <details><summary><h2>TreeQL, un GraphQL pragmatic</h2></summary>
   <br/><hr/><pre>
    
