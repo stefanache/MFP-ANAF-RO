@@ -200,17 +200,17 @@ Există, de asemenea, porturi de dovadă de concept ale acestui script care acce
   </details>
   <details><summary><h2>Compilare - Dezvoltare - Actualizarea dependentelor</h2></summary>
   <br/><hr/>
-  <details><summary><h2>Compilare</h2></summary>
+  <details><summary><h3>Compilare</h3></summary>
   <br/><hr/><pre>
    
   </pre><hr/><br/>
   </details>
-  <details><summary><h2>Dezvoltare</h2></summary>
+  <details><summary><h3>Dezvoltare</h3></summary>
   <br/><hr/><pre>
    
   </pre><hr/><br/>
   </details>
-  <details><summary><h2>Actualizare dependentelor</h2></summary>
+  <details><summary><h3>Actualizare dependentelor</h3></summary>
   <br/><hr/><pre>
    
   </pre><hr/><br/>
@@ -220,7 +220,35 @@ Există, de asemenea, porturi de dovadă de concept ale acestui script care acce
 
   <details><summary><h2>TreeQL, un GraphQL pragmatic</h2></summary>
   <br/><hr/><pre>
+  <details><summary><h3>CRUD + List</h3></summary>
+  <br/><hr/><pre>
+  <details><summary><h4>Creare(Create)</h4></summary>
+  <br/><hr/><pre>
    
+  </pre><hr/><br/>
+  </details>
+  <details><summary><h4>Citire(Read)</h4></summary>
+  <br/><hr/><pre>
+   
+  </pre><hr/><br/>
+  </details>
+  <details><summary><h4>Actualizare/Modificare(Update)</h4></summary>
+  <br/><hr/><pre>
+   
+  </pre><hr/><br/>
+  </details> 
+  <details><summary><h4>Stergere(Delete)</h4></summary>
+  <br/><hr/><pre>
+   
+  </pre><hr/><br/>
+  </details>
+  <details><summary><h4>Listare(List)</h4></summary>
+  <br/><hr/><pre>
+   
+  </pre><hr/><br/>
+  </details>  
+  </pre><hr/><br/>
+  </details>     
   </pre><hr/><br/>
   </details>  
 <hr/><br/>
