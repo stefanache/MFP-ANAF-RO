@@ -361,13 +361,13 @@ Există, de asemenea, porturi de dovadă de concept ale acestui script care acce
   </details>
   <hr/><br/>
   </details>  
-  <hr/><br/>
+  <hr/><br/> 
+  </details>
   <details><summary><h3>Autorizarea operatiilor</h3></summary>
   <br/><hr/>
    
   <hr/><br/>
-  </details>  
-  </details>    
+  </details>   
   <hr/><br/>
   </details>   
   <hr/><br/>
