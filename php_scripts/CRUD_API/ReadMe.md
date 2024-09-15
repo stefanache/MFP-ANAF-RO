@@ -198,7 +198,7 @@ Există, de asemenea, porturi de dovadă de concept ale acestui script care acce
 [PHP](https://github.com/mevdschee/php-crud-api/blob/master/extras/core.php) , [Java](https://github.com/mevdschee/java-crud-api/blob/master/core/src/main/java/com/tqdev/CrudApiHandler.java) , [Go](https://github.com/mevdschee/go-crud-api/blob/master/api.go) , [C# .net core](https://github.com/mevdschee/core-data-api/blob/master/Program.cs) , [Node.js](https://github.com/mevdschee/js-crud-api/blob/master/app.js) și [Python](https://github.com/mevdschee/py-crud-api/blob/master/api.py) .   
    <hr/><br/>
   </details>
-  <details><summary><h2>Compilare</h2></summary>
+  <details><summary><h2>Compilare - Dezvoltare - Actualizarea dependentelor</h2></summary>
   <br/><hr/>
   <details><summary><h2>Compilare</h2></summary>
   <br/><hr/><pre>
