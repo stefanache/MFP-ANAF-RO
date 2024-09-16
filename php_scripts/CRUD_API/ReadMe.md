@@ -411,7 +411,7 @@ Deoarece puteți merge, de asemenea, cu un nivel mai adânc(al arborelui logic/d
 
 Atentie la simbolul <b>&</b> din cererea-REST-URL: acesta <b>nu</b> apartine filtrului-SQL(deci nu are rolul unui SI-logic), ci este plasat/are rolul de/pt a <b>inlantui</b> un sir de parametrii in/dintr-o lista-URL de astfel de parametrii-URL(cu alte cuvinte este un separator intre elementele unei liste de parametrii transmisi endpoint-ului-REST).
 
-<b>NB</b>: Puteți filtra numai pe tabelul solicitat (nu pe toate tabelele incluse/din b.d.) și filtrele sunt aplicate numai pentru apelurile pe listă/listare.   
+<b>NB</b>: Puteți filtra numai pe tabelul solicitat (nu pe toate/alte tabelele incluse/din b.d.) și filtrele sunt aplicate numai pentru apelurile pe listă/listare.   
   <hr/><br/>
   </details>
   <details><summary><h3>Selectia coloanelor</h3></summary>
