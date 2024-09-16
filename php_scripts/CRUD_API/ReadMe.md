@@ -541,7 +541,7 @@ Aici vi se permite să omiteți(sa nu faceti referire la acesta/sa nu utilizati)
 În acest exemplu, vedeți toate cele trei tipuri de relații de tabel (<b>hasMany</b>, <b>belongsTo</b> și <b>hasAndBelongsToMany</b>) în vigoare/folosite:
 
         „postarea” area mai multe „comentarii”              (relatie de tip "hasMany"            )
-    iar „comentariile” aparțin unui „utilizator”            (relatie de tip "belongsTo"          )
+    iar „comentariul” aparține unui „utilizator”            (relatie de tip "belongsTo"          )
         „postarea” are și aparține mai multor „etichete”    (relatie de tip "hasAndBelongsToMany")
 
 Acest lucru poate duce la următoarele date JSON listate:
