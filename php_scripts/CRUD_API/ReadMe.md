@@ -309,7 +309,7 @@ Trimiteți ca corp/intrare(<b>JSON-payload</b>):
         "title": "Adjusted title!"
     }
 
-Aceasta ajustează titlul postării si valoarea returnată este <b>numărul de rânduri</b> care sunt afectate/setate/actualizate:
+Aceasta ajustează/modifică/<b>actualizează</b> titlul postării si/iar valoarea returnată este <b>numărul de rânduri</b> care sunt afectate/setate/actualizate:
 
     1
    
