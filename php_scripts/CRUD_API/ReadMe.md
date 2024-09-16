@@ -262,7 +262,7 @@ Dacă doriți să <b>creați</b> o înregistrare(desigur o inregistrare nouua / 
 
     POST /records/posts
 
-Trebuie să trimiteți un corp care să conțină:
+Trebuie să trimiteți un corp/intrare(<b>JSON-payload)</b>) care să conțină:
     
     {
         "title": "Black is the new red",
@@ -282,7 +282,8 @@ Pentru a <b>citi</b> o înregistrare(existenta deja in baza de date) din acest t
 
     GET /records/posts/1
 
-Unde „1” este valoarea cheii primare a înregistrării(<b>id</b>) pe care doriți să o <b>citiți</b>.<br/> Se va întoarce:
+Unde „1” este valoarea cheii primare a înregistrării(<b>id</b>) pe care doriți să o <b>citiți</b>.<br/> 
+Se va întoarce urmatorul rezultat/iesire(<b>JSON-result</b>):
 
     {
         "id": 1
@@ -291,7 +292,7 @@ Unde „1” este valoarea cheii primare a înregistrării(<b>id</b>) pe care do
         "created": "2018-03-05T20:12:56Z"
     }
 
-La operațiunile de **citire** puteți aplica alăturari/reuniri(**joins**).   
+La operațiunile de **citire** puteți aplica/utiliza alăturari/reuniuni(**joins**).   
   <hr/><br/>
   </details>
   <details><summary><h4>Actualizare/Modificare(Update)</h4></summary>
@@ -301,7 +302,7 @@ Pentru a <b>actualiza</b> o înregistrare(existenta deja in baza de date) în ac
   PUT /records/posts/1
 
 Unde „1” este valoarea cheii primare(<b>id</b>) a înregistrării(existenta deja in baza de date) pe care doriți să o actualizați.<br/> 
-Trimiteți ca corp(<b>JSON-payload</b>):
+Trimiteți ca corp/intrare(<b>JSON-payload</b>):
 
     {
         "title": "Adjusted title!"
@@ -320,7 +321,7 @@ cererea poate fi scrisă în format URL ca:
 
     DELETE /records/posts/1
 
-Și va returna <b>numărul de rânduri</b> șterse/afectate:
+Și va returna ca iesire, <b>numărul de rânduri</b> șterse/afectate:
 
     1
 
