@@ -519,7 +519,7 @@ Deoarece paginile care nu sunt ordonate nu pot fi paginate, paginile vor fi ordo
   </details> 
   <details><summary><h3>Reunirile/Alaturarile de tabele(Joins)</h3></summary>
   <br/><hr/>
-Să presupunem că aveți un tabel de postări(<b>posts</b>) care conține comentarii (efectuate de catre utilizatori) și postările pot avea etichete.
+Să presupunem că aveți un tabel de postări(<b>posts</b>) care conțin comentarii (efectuate de catre utilizatori) iar postările pot avea etichete.
 
     posts    comments  users     post_tags  tags
     =======  ========  =======   =========  ======= 
@@ -528,7 +528,7 @@ Să presupunem că aveți un tabel de postări(<b>posts</b>) care conține comen
     content  user_id   phone     tag_id
     created  message
 
-Când doriți să enumerați postări cu utilizatorii și etichetele lor, puteți solicita sa se listeze folosind două căi de „arborescenta” relationala:
+Când doriți să enumerați/listati <b>postări cu utilizatorii și etichetele lor</b>, puteți solicita sa se listeze folosind două căi de „arborescenta” relationala:
 
     posts -> comments  -> users
     posts -> post_tags -> tags
