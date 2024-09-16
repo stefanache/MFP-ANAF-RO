@@ -409,7 +409,7 @@ După cum vedeți, am adăugat un număr la parametrul „filter” pentru a ind
 Rețineți că puteți, de asemenea, să repetați „filter1” și să creați un „ȘI” într-un „SAU”. <br/>
 Deoarece puteți merge, de asemenea, cu un nivel mai adânc prin adăugarea unei litere (a-f), puteți crea aproape orice arbore de condiții rezonabil de complex.
 
-Atentie la simbolul <b>&</b> din cererea-REST-URL: acesta <b>nu</b> apartine filtrului-SQL(deci nu este un SI logic), ci este plasat/are rolul de/pt a inlantui un <br/>sir de parametrii in/dintr-o lista-URL de astfel de parametrii-URL.
+Atentie la simbolul <b>&</b> din cererea-REST-URL: acesta <b>nu</b> apartine filtrului-SQL(deci nu are rolul unui SI-logic), ci este plasat/are rolul de/pt a <b>inlantui</b> un <br/>sir de parametrii in/dintr-o lista-URL de astfel de parametrii-URL(cu alte cuvinte este un separator intre elementele unei liste de parametrii transmisi endpoint-ului-REST).
 
 <b>NB</b>: Puteți filtra numai pe tabelul solicitat (nu pe tabelele incluse) și filtrele sunt aplicate numai pentru apelurile pe listă/listare.   
   <hr/><br/>
