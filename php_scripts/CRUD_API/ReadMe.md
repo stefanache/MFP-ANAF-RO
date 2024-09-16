@@ -537,7 +537,7 @@ Aceste căi au aceeași rădăcină(tabelul <b>posts</b>) și această solicitar
 
     GET /records/posts?join=comments,users&join=tags
 
-Aici vi se permite să omiteți(sa nu faceti referire la acesta/sa nu utilizati) tabelul intermediar(<b>post_tags</b>) care leagă postările de etichete.<br/>
+Aici vi se permite să omiteți(sa nu faceti referire la acesta/sa nu utilizati) tabelul intermediar(<b>post_tags</b>) care leagă postările(<b>postss</b>) de etichete(<b>tags</b>).<br/>
 În acest exemplu, vedeți toate cele trei tipuri de relații de tabel (<b>hasMany</b>, <b>belongsTo</b> și <b>hasAndBelongsToMany</b>) în vigoare/folosite:
 
         „postarea” are mai multe „comentarii”               (relatie de tip "hasMany"            )
