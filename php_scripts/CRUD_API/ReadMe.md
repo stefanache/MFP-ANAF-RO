@@ -701,7 +701,7 @@ Pentru suport spațial există un set suplimentar de filtre care pot fi aplicate
  - „scr”: încrucișări spațiale (geometria traversează alta)
  - "sdi": disjuns spațial (geometria este disjunsă de alta)
  - "seq": egal spațial (geometria este egală cu alta)
- - „păcat”: intersectări spațiale (geometria intersectează alta)
+ - „sin”: intersectări spațiale (geometria intersectează alta)
  - „sov”: suprapuneri spațiale (geometria se suprapune pe alta)
  - „sto”: atingeri spațiale (geometria atinge pe altul)
  - „swi”: spațial în interior (geometria este în interiorul altuia)
