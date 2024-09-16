@@ -711,12 +711,30 @@ Pentru suport spațial există un set suplimentar de filtre care pot fi aplicate
 
 Aceste filtre se bazează pe standardele OGC și la fel este și specificația WKT în care sunt reprezentate coloanele de geometrie.<br/>
 Rețineți că SRID-ul care este presupus la conversia de la WKT la geometrie este specificat de variabila de configurare geometry SRID și este implicit 4326 (WGS 84).
-
   <hr/><br/>
   </details>     
   <details><summary><h4>GeoJSON</h4></summary>
   <br/><hr/>
-   
+Suportul GeoJSON este o vizualizare numai în citire a tabelelor și înregistrărilor în format GeoJSON. Aceste cereri sunt acceptate:
+
+method path                  - operation - description
+----------------------------------------------------------------------------------------
+GET    /geojson/{table}      - list      - lists records as a GeoJSON FeatureCollection
+GET    /geojson/{table}/{id} - read      - reads a record by primary key as a GeoJSON Feature
+
+Punctul final „/geojson” folosește „/records ” punctul final  intern și moștenește toate funcționalitățile, cum ar fi îmbinările/reunirile(joins) și filtrele.<br/>
+De asemenea, acceptă un parametru „geometry” pentru a indica numele coloanei de geometrie în cazul în care tabelul are mai multe.<br/>
+Pentru vizualizările hărții acceptă parametrul „bbox” în care puteți specifica coordonatele din stânga sus și din dreapta jos (separate prin virgulă).<br/>
+Următoarele tipuri de geometrie sunt acceptate de implementarea GeoJSON:
+ 
+ - Punct
+ - MultiPoint
+ - LineString
+ - MultiLineString
+ - Poligon
+ - Multipoligon
+
+Funcționalitatea GeoJSON este activată în mod implicit, dar poate fi dezactivată folosind configurația „controllers”.   
   <hr/><br/>
   </details>    
   <hr/><br/>
