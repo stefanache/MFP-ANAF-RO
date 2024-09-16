@@ -513,7 +513,7 @@ Ieșire:
 Elementul de iesire <b>„results”</b>/rezutate deține/retine/stocheaza/specifica <b>numărul total de înregistrări/randuri</b> din tabel, care ar fi returnat dacă nu s-ar folosi nicio paginare.
 
 <b>NB</b>: <br/>
-Deoarece paginile care nu sunt ordonate nu pot fi paginate, paginile vor fi ordonate după cheia primară.
+Deoarece paginile care nu sunt ordonate nu pot fi paginate, paginile vor fi ordonate după cheia primară(in acest caz, cheia primara a tabelei <b>categories</b> estevorba despre coloana <b>id</b> care identifica in mod unic fiecare rand/integistrare).
 
   <hr/><br/>
   </details> 
