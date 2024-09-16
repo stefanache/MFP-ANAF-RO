@@ -278,11 +278,11 @@ Trebuie să trimiteți un corp care să conțină:
   </details>
   <details><summary><h4>Citire(Read)</h4></summary>
   <br/><hr/>
-Pentru a **citi** o înregistrare(existenta deja in baza de date) din acest tabel, cererea poate fi scrisă în format URL ca:
+Pentru a <b>citi</b> o înregistrare(existenta deja in baza de date) din acest tabel, cererea poate fi scrisă în format URL ca:
 
     GET /records/posts/1
 
-Unde „1” este valoarea cheii primare a înregistrării(<b>id</b>) pe care doriți să o **citiți**.<br/> Se va întoarce:
+Unde „1” este valoarea cheii primare a înregistrării(<b>id</b>) pe care doriți să o <b>citiți</b>.<br/> Se va întoarce:
 
     {
         "id": 1
@@ -296,17 +296,17 @@ La operațiunile de **citire** puteți aplica alăturari/reuniri(**joins**).
   </details>
   <details><summary><h4>Actualizare/Modificare(Update)</h4></summary>
   <br/><hr/>
-Pentru a **actualiza** o înregistrare(existenta deja in baza de date) în acest tabel(**posts**), cererea(REST-query),<br/> poate fi scrisă în format URL ca:
+Pentru a <b>actualiza</b> o înregistrare(existenta deja in baza de date) în acest tabel(<b>posts</b>), cererea(REST-query),<br/> poate fi scrisă în format URL ca:
 
   PUT /records/posts/1
 
-Unde „1” este valoarea cheii primare(**id**) a înregistrării(existenta deja in baza de date) pe care doriți să o actualizați.<br/> Trimiteți ca corp:
+Unde „1” este valoarea cheii primare(<b>id</b>) a înregistrării(existenta deja in baza de date) pe care doriți să o actualizați.<br/> Trimiteți ca corp:
 
     {
         "title": "Adjusted title!"
     }
 
-Aceasta ajustează titlul postării. Și valoarea returnată este **numărul de rânduri** care sunt afectate/setate/actualizate:
+Aceasta ajustează titlul postării. Și valoarea returnată este <b>numărul de rânduri</b> care sunt afectate/setate/actualizate:
 
     1
    
@@ -314,14 +314,15 @@ Aceasta ajustează titlul postării. Și valoarea returnată este **numărul de 
   </details> 
   <details><summary><h4>Stergere(Delete)</h4></summary>
   <br/><hr/>
-Dacă doriți să **ștergeți** o înregistrare(acum deja existenta si identificata prin **id**-ul **1**) din acest tabel,<br/> cererea poate fi scrisă în format URL ca:
+Dacă doriți să <b>ștergeți</b> o înregistrare(deja existenta si identificata prin <b>id</b>-ul <b>1</b>) din acest tabel,<br/> cererea poate fi scrisă în format URL ca:
 
     DELETE /records/posts/1
 
-Și va returna **numărul de rânduri** șterse:
+Și va returna <b>numărul de rânduri</b> șterse/afectate:
 
     1
-Dupa aceasta operatiune inregistrarea/randul cu **id**-ul ***1*** nu va mai exista in baza de date(in cazul meu **MySQL**).
+
+Dupa aceasta operatiune inregistrarea/randul cu vid**-ul <b>1</b> **nu** va mai exista in baza de date(in cazul meu **MySQL**).
   <hr/><br/>
   </details>
   <details><summary><h4>Listare(List)</h4></summary>
