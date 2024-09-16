@@ -228,9 +228,9 @@ Directorul <a href="https://github.com/stefanache/MFP-ANAF-RO/tree/main/php_scri
   <br/><hr/>
 Puteți <b>actualiza</b> toate dependențele acestui proiect, folosind <a href="https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/update.php">update.php</a>, in următoarea comandă:
 
-  php update.php
+    php update.php
 
-Acest script va instala și rula [Composer](https://getcomposer.org/) pentru a actualiza dependențele.   
+Acest script va instala și rula [Composer](https://getcomposer.org/) pentru a actualiza/rezolva dependențele.   
   <hr/><br/>
   </details>   
   <hr/><br/>
