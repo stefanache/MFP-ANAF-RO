@@ -254,7 +254,7 @@ Exemplul de tabel de postări, <b>posts</b>  are doar câteva câmpuri:
     content
     created
 
-Operațiile CRUD impreuna cu("+") operatia List de mai jos acționează asupra acestui tabel.
+Operațiile <b>CRUD</b>, impreuna cu(<b>+</b>) operatia <b>List</b>, de mai jos, acționează asupra acestui tabel( <b>posts</b>).
 
   <details><summary><h4>Creare(Create)</h4></summary>
   <br/><hr/>
