@@ -695,7 +695,23 @@ Rețineți că operațiunea batch pentru DELETE urmează același model ca PUT, 
   <br/><hr/>
   <details><summary><h4>Suport spatial</h4></summary>
   <br/><hr/>
-   
+Pentru suport spațial există un set suplimentar de filtre care pot fi aplicate pe coloanele de geometrie și care încep cu un „s”:
+
+ - „sco”: spațiul conține (geometria conține o alta)
+ - „scr”: încrucișări spațiale (geometria traversează alta)
+ - "sdi": disjuns spațial (geometria este disjunsă de alta)
+ - "seq": egal spațial (geometria este egală cu alta)
+ - „păcat”: intersectări spațiale (geometria intersectează alta)
+ - „sov”: suprapuneri spațiale (geometria se suprapune pe alta)
+ - „sto”: atingeri spațiale (geometria atinge pe altul)
+ - „swi”: spațial în interior (geometria este în interiorul altuia)
+ - "sic": spațial este închis (geometria este închisă și simplă)
+ - „sis”: spațial este simplu (geometria este simplă)
+ - "siv": spațial este valid (geometria este validă)
+
+Aceste filtre se bazează pe standardele OGC și la fel este și specificația WKT în care sunt reprezentate coloanele de geometrie.<br/>
+Rețineți că SRID-ul care este presupus la conversia de la WKT la geometrie este specificat de variabila de configurare geometry SRID și este implicit 4326 (WGS 84).
+
   <hr/><br/>
   </details>     
   <details><summary><h4>GeoJSON</h4></summary>
