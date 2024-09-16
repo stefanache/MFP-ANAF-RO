@@ -238,12 +238,23 @@ Acest script va instala și rula [Composer](https://getcomposer.org/) pentru a a
 
   <details><summary><h2>TreeQL, un GraphQL pragmatic</h2></summary>
   <br/><hr/>
-  <details><summary><h3>CRUD + List</h3></summary>
-  <br/><hr/>
 
 [TreeQL](https://treeql.org/) vă permite să creați un „arbore”/o arborescenta de obiecte JSON pe baza structurii bazei de date SQL (relații) și a interogării dvs.
 
 Se bazează vag pe standardul REST și, de asemenea, este inspirat de json:api.
+
+  <details><summary><h3>CRUD + List</h3></summary>
+  <br/><hr/>
+Exemplul de tabel de postări are doar câteva câmpuri:
+
+    posts  
+    =======
+    id     
+    title  
+    content
+    created
+
+Operațiile CRUD impreuna cu("+") operatia List de mai jos acționează asupra acestui tabel.
 
   <details><summary><h4>Creare(Create)</h4></summary>
   <br/><hr/>
