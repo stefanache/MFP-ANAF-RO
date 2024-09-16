@@ -241,7 +241,7 @@ Acest script va instala și rula [Composer](https://getcomposer.org/) pentru a a
 
 [TreeQL](https://treeql.org/) vă permite să creați un „arbore”/o arborescenta de obiecte JSON pe baza structurii bazei de date SQL (relații) și a interogării dvs.
 
-Se bazează vag pe standardul REST și, de asemenea, este inspirat de json:api.
+Se bazează vag/oarecum pe standardul ***REST*** și, de asemenea, este inspirat de ***json:api***.
 
   <details><summary><h3>CRUD + List</h3></summary>
   <br/><hr/>
