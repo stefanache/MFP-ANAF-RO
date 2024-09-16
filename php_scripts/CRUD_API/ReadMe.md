@@ -355,10 +355,10 @@ Se va întoarce ca rezultat/iesire(<b>JSON-result</b>):
   </details>
   <details><summary><h3>Filtre</h3></summary>
   <br/><hr/>
-Filtrele oferă funcționalitate de căutare, în apelurile de listă, folosind parametrul „filtru”.<br/> 
+<b>Filtrele</b> oferă funcționalitate de <b>căutare</b>, în apelurile de listă, folosind parametrul <b>„filter”</b>.<br/> 
 Trebuie să specificați numele coloanei, o virgulă, tipul de potrivire, o altă virgulă și valoarea pe care doriți să o filtrați.<br/> 
 
-Acestea sunt tipuri de potrivire/cautare acceptate:
+Acestea sunt tipurile de potrivire/cautare acceptate:
 
  - „cs”: conține șir (șirul conține valoare)
  - "sw": începe cu (șirul începe cu valoare)
@@ -372,7 +372,7 @@ Acestea sunt tipuri de potrivire/cautare acceptate:
  - „in”: în (numărul sau șirul se află într-o listă de valori separată prin virgulă)
  - „is”: este nul (câmpul conține valoarea „NULL”)
 
-Puteți anula/nega toate filtrele adăugând un caracter <b>„n”</b>, astfel încât <i>„eq”</i> să devină <b>„neq”</b>.<br/>
+Puteți anula/<b>nega</b> toate filtrele adăugând un caracter <b>„n”</b>, astfel încât <i>„eq”</i> să devină <b>„neq”</b>.<br/>
 Exemple de utilizare a filtrelor sunt:
 
     GET /records/categories?filter=name,eq,Internet
