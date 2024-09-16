@@ -356,8 +356,7 @@ Se va întoarce ca rezultat/iesire(<b>JSON-result</b>):
   <details><summary><h3>Filtre</h3></summary>
   <br/><hr/>
 <b>Filtrele</b> oferă funcționalitate de <b>căutare</b>, în apelurile de listă, folosind parametrul <b>„filter”</b>.<br/> 
-Trebuie să specificați numele coloanei/campului, o virgulă, tipul de potrivire(verbul/operatorul), o altă virgulă și valoarea campului<br/> pe care doriți să o filtrați.<br/> 
-
+Trebuie să specificați numele coloanei/campului, o virgulă, tipul de potrivire(verbul/operatorul), o altă virgulă și valoarea campului<br/> pe care doriți să o filtrați.<br/><br/> 
 Acestea sunt tipurile de potrivire/cautare acceptate:
 
  - „cs”: conține șir (șirul conține valoare)
