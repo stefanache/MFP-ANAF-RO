@@ -538,12 +538,13 @@ Aceste căi au aceeași rădăcină și această solicitare poate fi scrisă în
     GET /records/posts?join=comments,users&join=tags
 
 Aici vi se permite să omiteți tabelul intermediar care leagă postările de etichete.<br/>
-În acest exemplu, vedeți toate cele trei tipuri de relații de tabel (hasMany, belongsTo și hasAndBelongsToMany) în vigoare:
+În acest exemplu, vedeți toate cele trei tipuri de relații de tabel (<b>hasMany</b>, <b>belongsTo</b> și <b>hasAndBelongsToMany</b>) în vigoare/folosite:
 
-    „postarea” area mai multe „comentarii” iar „comentariile” aparțin unui „utilizator”
-    „postarea” are și aparține mai multor „etichete”
+        „postarea” area mai multe „comentarii”              <b>hasMany</b>
+    iar „comentariile” aparțin unui „utilizator”            <b>belongsTo</b>
+        „postarea” are și aparține mai multor „etichete”    <b>hasAndBelongsToMany
 
-Acest lucru poate duce la următoarele date JSON:
+Acest lucru poate duce la următoarele date JSON listate:
 
     {
         "records":[
@@ -596,8 +597,8 @@ Acest lucru poate duce la următoarele date JSON:
         ]
     }
 
-Vedeți că relațiile „belongsTo” sunt detectate și valoarea cheii externe este înlocuită cu obiectul referit.<br/>
-În cazul „hasMany” și „hasAndBelongsToMany” numele tabelului este folosit o nouă proprietate pe obiect.      
+Vedeți că relațiile <b>„belongsTo”</b> sunt detectate și valoarea cheii externe este înlocuită cu obiectul referit.<br/>
+În cazul relatiilor <b>„hasMany”</b> și <b>„hasAndBelongsToMany”</b>, numele tabelului este folosit o nouă proprietate pe obiect.      
   <hr/><br/>
   </details>
   <details><summary><h3>Operatiile in lot de lucrari(Batch operations)</h3></summary>
