@@ -211,7 +211,7 @@ Puteți <b>compila</b> toate fișierele într-un singur fișier  "<a href="https
     php build.php
     
 Rețineți că nu puteti sa utilizați ***compilarea*** atunci când **integrați** acest proiect într-un<br/> 
-alt proiect sau cadru (puteti sa utilizați, în schimb, <a href="https://getcomposer.org/><b>Composer</b></a>).   
+alt proiect sau cadru (puteti sa utilizați, în schimb, <a href="https://getcomposer.org/"><b>Composer</b></a>).   
   <hr/><br/>
   </details>
   <details><summary><h3>Dezvoltare</h3></summary>
@@ -226,7 +226,7 @@ Directorul <a href="https://github.com/stefanache/MFP-ANAF-RO/tree/main/php_scri
   </details>
   <details><summary><h3>Actualizare dependentelor</h3></summary>
   <br/><hr/>
-Puteți <b>actualiza</a> toate dependențele acestui proiect, folosind următoarea comandă:
+Puteți <b>actualiza</b> toate dependențele acestui proiect, folosind următoarea comandă:
 
   php update.php
 
