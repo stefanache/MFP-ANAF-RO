@@ -540,9 +540,9 @@ Aceste căi au aceeași rădăcină și această solicitare poate fi scrisă în
 Aici vi se permite să omiteți tabelul intermediar care leagă postările de etichete.<br/>
 În acest exemplu, vedeți toate cele trei tipuri de relații de tabel (<b>hasMany</b>, <b>belongsTo</b> și <b>hasAndBelongsToMany</b>) în vigoare/folosite:
 
-        „postarea” area mai multe „comentarii”              hasMany
-    iar „comentariile” aparțin unui „utilizator”            belongsTo
-        „postarea” are și aparține mai multor „etichete”    hasAndBelongsToMany
+        „postarea” area mai multe „comentarii”              (relatie de tip "hasMany"            )
+    iar „comentariile” aparțin unui „utilizator”            (relatie de tip "belongsTo"          )
+        „postarea” are și aparține mai multor „etichete”    (relatie de tip "hasAndBelongsToMany")
 
 Acest lucru poate duce la următoarele date JSON listate:
 
