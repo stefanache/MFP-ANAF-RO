@@ -491,8 +491,8 @@ Dacă doriți să aflați și numărul total de înregistrări, poate doriți s�
 Parametrul <b>„page”</b> deține/retine/specifica pagina solicitată.<br/>
 Dimensiunea/Valoarea <b>implicită</b> a paginii este <b>20</b>, dar poate fi ajustată (de exemplu, la <b></b>50</b>).
 
-  GET /records/categories?order=id&page=1
-  GET /records/categories?order=id&page=1,50
+    GET /records/categories?order=id&page=1
+    GET /records/categories?order=id&page=1,50
 
 Ieșire:
 
