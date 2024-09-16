@@ -597,7 +597,7 @@ Acest lucru poate duce la următoarele date JSON listate:
         ]
     }
 
-Vedeți că relațiile <b>„belongsTo”</b> sunt detectate și valoarea cheii externe este înlocuită cu obiectul referit.<br/>
+Vedeți că relațiile <b>„belongsTo”</b> sunt detectate și valoarea cheii externe(<b>user_id</b>) este înlocuită cu obiectul referit(cu intregul rand/record: <b>user</b>).<br/>
 În cazul relatiilor <b>„hasMany”</b> și <b>„hasAndBelongsToMany”</b>, numele tabelului este folosit o nouă proprietate pe obiect.      
   <hr/><br/>
   </details>
