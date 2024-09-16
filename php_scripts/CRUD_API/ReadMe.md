@@ -405,7 +405,7 @@ va solicita toate categoriile „unde id > 1 și id < 3”. Dacă doriți „und
 
     GET /records/categories?filter1=id,eq,2&filter2=id,eq,4
 
-După cum vedeți, am adăugat un număr la parametrul „filter” pentru a indica faptul că ar trebui aplicat „SAU” în loc de „ȘI”. <br/>
+După cum vedeți, am adăugat un număr la parametrul „filter” pentru a indica faptul că ar trebui aplicat „SAU” în loc de „ȘI”(operatorul logic implicit al filtrarilor succesive). <br/>
 Rețineți că puteți, de asemenea, să repetați „filter1” și să creați un „ȘI” într-un „SAU”. <br/>
 Deoarece puteți merge, de asemenea, cu un nivel mai adânc prin adăugarea unei litere (a-f), puteți crea aproape orice arbore de condiții rezonabil de complex.
 
