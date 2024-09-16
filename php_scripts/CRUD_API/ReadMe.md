@@ -258,7 +258,22 @@ Operațiile <b>CRUD</b>(<b>C</b>reate <b>R</b>ead <b>U</b>pdate <b>D</b>elete), 
 
   <details><summary><h4>Creare(Create)</h4></summary>
   <br/><hr/>
-   
+Dacă doriți să <b>creați</b> o înregistrare, cererea-REST poate fi scrisă în format URL ca:
+
+    POST /records/posts
+
+Trebuie să trimiteți un corp care să conțină:
+    
+    {
+        "title": "Black is the new red",
+        "content": "This is the second post.",
+        "created": "2018-03-06T21:34:01Z"
+    }
+
+Și va returna valoarea cheii primare(<b>id</b>) a înregistrării nou create:
+
+    2  
+
   <hr/><br/>
   </details>
   <details><summary><h4>Citire(Read)</h4></summary>
