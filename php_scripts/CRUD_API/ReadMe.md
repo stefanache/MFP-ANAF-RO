@@ -466,10 +466,27 @@ Nu puteți ordona pe coloane unite(joined).
   </details> 
   <details><summary><h3>Limita parametrului "size"</h3></summary>
   <br/><hr/>
-   
+Parametrul dimensiune/<b>„size”</b> limitează numărul de înregistrări returnate. <br/>
+Acesta poate fi folosit pentru primele N liste împreună cu parametrul „ordine” (utilizați ordinea descrescătoare).
+
+    GET /records/categories?order=id,desc&size=1
+
+Ieșire:
+
+      {
+          "records":[
+              {
+                  "id": 3
+                  "name": "Web development"
+              }
+          ]
+      }
+
+<b>NB</b>: 
+Dacă doriți să aflați și numărul total de înregistrări, poate doriți să utilizați parametrul „page”.   
   <hr/><br/>
   </details> 
-  <details><summary><h3>Paginatia</h3></summary>
+  <details><summary><h3>Paginatia(page)</h3></summary>
   <br/><hr/>
    
   <hr/><br/>
