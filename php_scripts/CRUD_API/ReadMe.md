@@ -254,11 +254,11 @@ Exemplul de tabel de postări, <b>posts</b>  are doar câteva câmpuri:
     content
     created
 
-Operațiile <b>CRUD</b>(<b>C</b>reate <b>R</b>ead <b>U</b>pdate <b>D</b>elete), impreuna cu(<b>+</b>) operatia <b>List</b>, de mai jos, acționează asupra acestui tabel( <b>posts</b>).
+Operațiiunile <b>CRUD</b>(<b>C</b>reate <b>R</b>ead <b>U</b>pdate <b>D</b>elete), impreuna cu(<b>+</b>) operatiunea <b>List</b>, de mai jos, acționează asupra acestui tabel( <b>posts</b>).
 
   <details><summary><h4>Creare(Create)</h4></summary>
   <br/><hr/>
-Dacă doriți să <b>creați</b> o înregistrare, cererea-REST poate fi scrisă în format URL ca:
+Dacă doriți să <b>creați</b> o înregistrare(desigur o inregistrare nouua / care nu exista in baza de date), <br/>cererea-REST poate fi scrisă în format URL ca:
 
     POST /records/posts
 
@@ -278,17 +278,50 @@ Trebuie să trimiteți un corp care să conțină:
   </details>
   <details><summary><h4>Citire(Read)</h4></summary>
   <br/><hr/>
-   
+Pentru a **citi** o înregistrare(existenta deja in baza de date) din acest tabel, cererea poate fi scrisă în format URL ca:
+
+    GET /records/posts/1
+
+Unde „1” este valoarea cheii primare a înregistrării(<b>id</b>) pe care doriți să o **citiți**.<br/> Se va întoarce:
+
+    {
+        "id": 1
+        "title": "Hello world!",
+        "content": "Welcome to the first post.",
+        "created": "2018-03-05T20:12:56Z"
+    }
+
+La operațiunile de **citire** puteți aplica alăturari/reuniri(**joins**).   
   <hr/><br/>
   </details>
   <details><summary><h4>Actualizare/Modificare(Update)</h4></summary>
   <br/><hr/>
+Pentru a **actualiza** o înregistrare(existenta deja in baza de date) în acest tabel(**posts**), cererea(REST-query),<br/> poate fi scrisă în format URL ca:
+
+  PUT /records/posts/1
+
+Unde „1” este valoarea cheii primare(**id**) a înregistrării(existenta deja in baza de date) pe care doriți să o actualizați.<br/> Trimiteți ca corp:
+
+    {
+        "title": "Adjusted title!"
+    }
+
+Aceasta ajustează titlul postării. Și valoarea returnată este **numărul de rânduri** care sunt afectate/setate/actualizate:
+
+    1
    
   <hr/><br/>
   </details> 
   <details><summary><h4>Stergere(Delete)</h4></summary>
   <br/><hr/>
-   
+Dacă doriți să **ștergeți** o înregistrare(acum deja existenta si identificata prin **id**-ul **1**) din acest tabel,<br/> cererea poate fi scrisă în format URL ca:
+
+    DELETE /records/posts/1
+
+Și va returna **numărul de rânduri** șterse:
+
+    1
+Dupa aceasta operatiune inregistrarea/randul cu **id**-ul ***1*** nu va mai exista in baza de date(in cazul meu **MySQL**).
   <hr/><br/>
   </details>
   <details><summary><h4>Listare(List)</h4></summary>
