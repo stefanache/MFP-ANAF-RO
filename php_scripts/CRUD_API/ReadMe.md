@@ -436,9 +436,32 @@ Ieșire:
 <b>NB</b>: <br/>Coloanele care sunt folosite pentru a include entități asociate sunt adăugate automat și nu pot fi lăsate în afara ieșirii.   
   <hr/><br/>
   </details>
-  <details><summary><h3>Sortarea</h3></summary>
+  <details><summary><h3>Sortarea(order by)</h3></summary>
   <br/><hr/>
-   
+Cu parametrul <b>„order”</b> puteți sorta/ordona.<br/> 
+În mod implicit, sortarea este în ordine crescătoare(<b>„asc”</b>), dar prin specificarea <b>„desc”</b> aceasta poate fi inversată:
+
+    GET /records/categories?order=name,desc
+    GET /records/categories?order=id,desc&order=name
+
+Ieșire:
+
+      {
+          "records":[
+              {
+                  "id": 3
+                  "name": "Web development"
+              },
+              {
+                  "id": 1
+                  "name": "Internet"
+              }
+          ]
+      }
+
+<b>NB</b>:<br/> 
+Puteți sorta pe mai multe câmpuri/coloane utilizând mai mulți parametri de „order”.<br/>  
+Nu puteți ordona pe coloane unite(joined).  
   <hr/><br/>
   </details> 
   <details><summary><h3>Limita parametrului "size"</h3></summary>
