@@ -597,8 +597,8 @@ Acest lucru poate duce la următoarele date JSON listate:
         ]
     }
 
-Vedeți că relațiile <b>„belongsTo”</b> sunt detectate și valoarea cheii externe(<b>user_id</b>) este înlocuită cu obiectul referit(cu intregul rand/record: <b>user</b>).<br/>
-În cazul relatiilor <b>„hasMany”</b> și <b>„hasAndBelongsToMany”</b>, numele tabelului este folosit o nouă proprietate pe obiect.      
+Vedeți că relațiile <b>„belongsTo”</b> sunt detectate și valoarea cheii externe(<b>comments.user_id</b>) este înlocuită cu obiectul referit(cu intregul rand/record <b>user</b>: <b>user</b> de forma {...rand <b>user</b>...}).<br/>
+În cazul relatiilor <b>„hasMany”</b>(<b>comments</b>) și <b>„hasAndBelongsToMany”</b>(<b>tags</b>), numele tabelului(<b>comments</b>|<b>tags</b>) este folosit o nouă proprietate pe obiect(de forma {...rand <b>comments</b>|<b>tags</b>... }.      
   <hr/><br/>
   </details>
   <details><summary><h3>Operatiile in lot de lucrari(Batch operations)</h3></summary>
