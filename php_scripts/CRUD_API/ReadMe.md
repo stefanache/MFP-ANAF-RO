@@ -326,7 +326,7 @@ cererea poate fi scrisă în format URL ca:
 
     1
 
-Dupa aceasta operatiune inregistrarea/randul cu vid**-ul <b>1</b> **nu** va mai exista in baza de date(in cazul meu **MySQL**).
+Dupa aceasta operatiune inregistrarea/randul cu **id**-ul <b>1</b> **nu** va mai exista in baza de date(in cazul meu **MySQL**).
   <hr/><br/>
   </details>
   <details><summary><h4>Listare(List)</h4></summary>
