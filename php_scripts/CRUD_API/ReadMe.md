@@ -460,7 +460,7 @@ Ieșire:
       }
 
 <b>NB</b>:<br/> 
-Puteți sorta pe mai multe câmpuri/coloane utilizând mai mulți parametri de „order”.<br/>  
+Puteți sorta pe mai multe câmpuri/coloane utilizând mai mulți parametri de „order”. 
 Nu puteți ordona pe coloane unite(joined).  
   <hr/><br/>
   </details> 
