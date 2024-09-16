@@ -537,7 +537,7 @@ Aceste căi au aceeași rădăcină și această solicitare poate fi scrisă în
 
     GET /records/posts?join=comments,users&join=tags
 
-Aici vi se permite să omiteți tabelul intermediar care leagă postările de etichete.<br/>
+Aici vi se permite să omiteți(sa nu faceti referire la acesta/sa nu utilizati) tabelul intermediar(<b>post_tags</b> care leagă postările de etichete.<br/>
 În acest exemplu, vedeți toate cele trei tipuri de relații de tabel (<b>hasMany</b>, <b>belongsTo</b> și <b>hasAndBelongsToMany</b>) în vigoare/folosite:
 
         „postarea” area mai multe „comentarii”              (relatie de tip "hasMany"            )
