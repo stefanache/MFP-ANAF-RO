@@ -245,7 +245,7 @@ Se bazează vag/oarecum pe standardul ***REST*** și, de asemenea, este inspirat
 
   <details><summary><h3>CRUD + List</h3></summary>
   <br/><hr/>
-Exemplul de tabel de postări, <b>posts</b>  are doar câteva câmpuri:
+Exemplul de tabel de postări, <b>posts</b>  are doar câteva câmpuri(coloane):
 
     posts  
     =======
@@ -356,7 +356,7 @@ Se va întoarce ca rezultat/iesire(<b>JSON-result</b>):
   <details><summary><h3>Filtre</h3></summary>
   <br/><hr/>
 <b>Filtrele</b> oferă funcționalitate de <b>căutare</b>, în apelurile de listă, folosind parametrul <b>„filter”</b>.<br/> 
-Trebuie să specificați numele coloanei, o virgulă, tipul de potrivire, o altă virgulă și valoarea pe care doriți să o filtrați.<br/> 
+Trebuie să specificați numele coloanei/campului, o virgulă, tipul de potrivire(verbul/operatorul), o altă virgulă și valoarea campului pe care doriți să o filtrați.<br/> 
 
 Acestea sunt tipurile de potrivire/cautare acceptate:
 
