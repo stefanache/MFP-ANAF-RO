@@ -513,13 +513,91 @@ Ieșire:
 Elementul de iesire <b>„results”</b>/rezutate deține/retine/stocheaza/specifica <b>numărul total de înregistrări/randuri</b> din tabel, care ar fi returnat dacă nu s-ar folosi nicio paginare.
 
 <b>NB</b>: <br/>
-Deoarece paginile care nu sunt ordonate nu pot fi paginate, paginile vor fi ordonate după cheia primară(in acest caz, cheia primara a tabelei <b>categories</b> este coloana <b>id</b> care identifica in mod unic fiecare rand/integistrare).
+Deoarece paginile care nu sunt ordonate nu pot fi paginate, paginile vor fi ordonate implicit după cheia primară(in acest caz, cheia primara a tabelei <b>categories</b> este coloana <b>id</b> care identifica in mod unic fiecare rand/inregistrare).
 
   <hr/><br/>
   </details> 
-  <details><summary><h3>Reunirile de tabele(Joins)</h3></summary>
+  <details><summary><h3>Reunirile/Alaturarile de tabele(Joins)</h3></summary>
   <br/><hr/>
-   
+Să presupunem că aveți un tabel de postări(<b>posts</b>) care conține comentarii (efectuate de catre utilizatori) și postările pot avea etichete.
+
+    posts    comments  users     post_tags  tags
+    =======  ========  =======   =========  ======= 
+    id       id        id        id         id
+    title    post_id   username  post_id    name
+    content  user_id   phone     tag_id
+    created  message
+
+Când doriți să enumerați postări cu utilizatorii și etichetele lor, puteți solicita sa se listeze folosind două căi de „arborescenta” relationala:
+
+    posts -> comments  -> users
+    posts -> post_tags -> tags
+
+Aceste căi au aceeași rădăcină și această solicitare poate fi scrisă în format URL ca:
+
+    GET /records/posts?join=comments,users&join=tags
+
+Aici vi se permite să omiteți tabelul intermediar care leagă postările de etichete.<br/>
+În acest exemplu, vedeți toate cele trei tipuri de relații de tabel (hasMany, belongsTo și hasAndBelongsToMany) în vigoare:
+
+    „postarea” area mai multe „comentarii” iar „comentariile” aparțin unui „utilizator”
+    „postarea” are și aparține mai multor „etichete”
+
+Acest lucru poate duce la următoarele date JSON:
+
+    {
+        "records":[
+            {
+                "id": 1,
+                "title": "Hello world!",
+                "content": "Welcome to the first post.",
+                "created": "2018-03-05T20:12:56Z",
+                "comments": [
+                    {
+                        id: 1,
+                        post_id: 1,
+                        user_id: {
+                            id: 1,
+                            username: "mevdschee",
+                            phone: null,
+                        },
+                        message: "Hi!"
+                    },
+                    {
+                        id: 2,
+                        post_id: 1,
+                        user_id: {
+                            id: 1,
+                            username: "mevdschee",
+                            phone: null,
+                        },
+                        message: "Hi again!"
+                    }
+                ],
+                "tags": []
+            },
+            {
+                "id": 2,
+                "title": "Black is the new red",
+                "content": "This is the second post.",
+                "created": "2018-03-06T21:34:01Z",
+                "comments": [],
+                "tags": [
+                    {
+                        id: 1,
+                        message: "Funny"
+                    },
+                    {
+                        id: 2,
+                        message: "Informational"
+                    }
+                ]
+            }
+        ]
+    }
+
+Vedeți că relațiile „belongsTo” sunt detectate și valoarea cheii externe este înlocuită cu obiectul referit.<br/>
+În cazul „hasMany” și „hasAndBelongsToMany” numele tabelului este folosit o nouă proprietate pe obiect.      
   <hr/><br/>
   </details>
   <details><summary><h3>Operatiile in lot de lucrari(Batch operations)</h3></summary>
