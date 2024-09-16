@@ -258,7 +258,8 @@ Operațiiunile <b>CRUD</b>(<b>C</b>reate <b>R</b>ead <b>U</b>pdate <b>D</b>elete
 
   <details><summary><h4>Creare(Create)</h4></summary>
   <br/><hr/>
-Dacă doriți să <b>creați</b> o înregistrare(desigur o inregistrare nouua / care nu exista in baza de date), <br/>cererea-REST poate fi scrisă în format URL ca:
+Dacă doriți să <b>creați</b> o înregistrare(desigur o inregistrare noua / care <b>nu</b> exista in baza de date), <br/>
+cererea-REST poate fi scrisă în format URL ca:
 
     POST /records/posts
 
@@ -270,7 +271,7 @@ Trebuie să trimiteți un corp/intrare(<b>JSON-payload)</b>) care să conțină:
         "created": "2018-03-06T21:34:01Z"
     }
 
-Și va returna valoarea cheii primare(<b>id</b>) a înregistrării nou create:
+Și va returna valoarea cheii primare(<b>id</b>-ul i.e identificatorul inregistrarii/randului) a înregistrării nou create:
 
     2  
 
@@ -278,7 +279,7 @@ Trebuie să trimiteți un corp/intrare(<b>JSON-payload)</b>) care să conțină:
   </details>
   <details><summary><h4>Citire(Read)</h4></summary>
   <br/><hr/>
-Pentru a <b>citi</b> o înregistrare(existenta deja in baza de date) din acest tabel, cererea poate fi scrisă în format URL ca:
+Pentru a <b>citi</b> o înregistrare(<i>xexistenta deja in baza de date</i>) din acest tabel, cererea poate fi scrisă în format URL ca:
 
     GET /records/posts/1
 
@@ -301,14 +302,14 @@ Pentru a <b>actualiza</b> o înregistrare(existenta deja in baza de date) în ac
 
   PUT /records/posts/1
 
-Unde „1” este valoarea cheii primare(<b>id</b>) a înregistrării(existenta deja in baza de date) pe care doriți să o actualizați.<br/> 
+Unde „1” este valoarea cheii primare(<b>id</b>-ul) a înregistrării(<i>existenta deja in baza de date</i>) pe care doriți să o actualizați.<br/> 
 Trimiteți ca corp/intrare(<b>JSON-payload</b>):
 
     {
         "title": "Adjusted title!"
     }
 
-Aceasta ajustează titlul postării. Și valoarea returnată este <b>numărul de rânduri</b> care sunt afectate/setate/actualizate:
+Aceasta ajustează titlul postării si valoarea returnată este <b>numărul de rânduri</b> care sunt afectate/setate/actualizate:
 
     1
    
@@ -316,7 +317,7 @@ Aceasta ajustează titlul postării. Și valoarea returnată este <b>numărul de
   </details> 
   <details><summary><h4>Stergere(Delete)</h4></summary>
   <br/><hr/>
-Dacă doriți să <b>ștergeți</b> o înregistrare(deja existenta si identificata prin <b>id</b>-ul <b>1</b>) din acest tabel,<br/> 
+Dacă doriți să <b>ștergeți</b> o înregistrare(<i>deja existenta</i> si identificata prin <b>id</b>-ul <b>1</b>) din acest tabel,<br/> 
 cererea poate fi scrisă în format URL ca:
 
     DELETE /records/posts/1
@@ -330,7 +331,7 @@ Dupa aceasta operatiune inregistrarea/randul cu vid**-ul <b>1</b> **nu** va mai 
   </details>
   <details><summary><h4>Listare(List)</h4></summary>
   <br/><hr/>
-Pentru a vedea/consulta/lista înregistrările din acest tabel(<b>posts</b>), cererea poate fi scrisă în format URL ca:
+Pentru a vedea/consulta/<b>lista</b> înregistrările din acest tabel(<b>posts</b>), cererea poate fi scrisă în format URL ca:
 
     GET /records/posts
 
@@ -347,7 +348,7 @@ Se va întoarce ca rezultat/iesire(<b>JSON-result</b>):
         ]
     }
 
-În operațiunile de listare puteți aplica filtre(<b>filters</b>: where...) și alăturari/reuniri cu alte tabele(<b>joins</b>).   
+În operațiunile de <b>listare</b> puteți aplica filtre(<b>filters</b>: where...) și alăturari/reuniri cu alte tabele(<b>joins</b>).   
   <hr/><br/>
   </details>  
   <hr/><br/>
