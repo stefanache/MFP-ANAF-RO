@@ -202,11 +202,11 @@ Există, de asemenea, portari ale acestui script, drept dovadă de concept,  car
   <br/><hr/>
   <details><summary><h3>Compilare</h3></summary>
   <br/><hr/>
-Puteți **instala** toate dependențele acestui proiect folosind următoarea comandă:
+Puteți <b>instala</b> toate dependențele acestui proiect folosind următoarea comandă:
 
     php install.php
 
-Puteți **compila** toate fișierele într-un singur fișier  "<a href="https://github.com/codemage66/PHP-CRUD-API/blob/main/api.php">api.php</a>" folosind:
+Puteți <b>compila</b> toate fișierele într-un singur fișier  "<a href="https://github.com/codemage66/PHP-CRUD-API/blob/main/api.php">api.php</a>" folosind:
 
     php build.php
     
@@ -220,8 +220,8 @@ Puteți accesa codul necompilat la adresa URL:
 
     http://localhost:8080/src/records/posts/1
 
-Codul necompilat se află în directoarele "src" și "vendor".<br/>
-Directorul „vendor” conține dependențele.
+Codul necompilat se află în directoarele <a href="https://github.com/stefanache/MFP-ANAF-RO/tree/main/php_scripts/CRUD_API/src/Tqdev/PhpCrudApi">"src"</a> și <a href="https://github.com/stefanache/MFP-ANAF-RO/tree/main/php_scripts/CRUD_API/vendor">"vendor"</a>.<br/>
+Directorul <a href="https://github.com/stefanache/MFP-ANAF-RO/tree/main/php_scripts/CRUD_API/vendor">„vendor”</a> conține dependențele.
   <hr/><br/>
   </details>
   <details><summary><h3>Actualizare dependentelor</h3></summary>
