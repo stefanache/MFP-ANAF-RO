@@ -510,7 +510,7 @@ Ieșire:
           "results": 2
       }
 
-Elementul de iesire „results”/rezutate deține/retine/stocheaza/specifica numărul total de înregistrări din tabel, care ar fi returnat dacă nu s-ar folosi nicio paginare.
+Elementul de iesire „results”/rezutate deține/retine/stocheaza/specifica <b>numărul total de înregistrări/randuri</b> din tabel, care ar fi returnat dacă nu s-ar folosi nicio paginare.
 
 <b>NB</b>: <br/>
 Deoarece paginile care nu sunt ordonate nu pot fi paginate, paginile vor fi ordonate după cheia primară.
