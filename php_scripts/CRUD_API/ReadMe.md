@@ -206,7 +206,7 @@ Puteți **instala** toate dependențele acestui proiect folosind următoarea com
 
     php install.php
 
-Puteți **compila** toate fișierele într-un singur fișier  "api.php" folosind:
+Puteți **compila** toate fișierele într-un singur fișier  "<a href="https://github.com/codemage66/PHP-CRUD-API/blob/main/api.php">api.php</a>" folosind:
 
     php build.php
     
@@ -216,12 +216,21 @@ alt proiect sau cadru (puteti sa utilizați, în schimb, **Composer**).
   </details>
   <details><summary><h3>Dezvoltare</h3></summary>
   <br/><hr/>
-   
+Puteți accesa codul necompilat la adresa URL:
+
+    http://localhost:8080/src/records/posts/1
+
+Codul necompilat se află în directoarele "src" și "vendor".<br/>
+Directorul „vendor” conține dependențele.
   <hr/><br/>
   </details>
   <details><summary><h3>Actualizare dependentelor</h3></summary>
   <br/><hr/>
-   
+Puteți actualiza toate dependențele acestui proiect, folosind următoarea comandă:
+
+  php update.php
+
+Acest script va instala și rula [Composer](https://getcomposer.org/) pentru a actualiza dependențele.   
   <hr/><br/>
   </details>   
   <hr/><br/>
