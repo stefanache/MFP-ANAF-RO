@@ -533,7 +533,7 @@ Când doriți să enumerați/listati <b>postări cu utilizatorii și etichetele 
     posts -> comments  -> users
     posts -> post_tags -> tags
 
-Aceste căi au aceeași rădăcină și această solicitare poate fi scrisă în format URL ca:
+Aceste căi au aceeași rădăcină(tabelul <b>posts</b>) și această solicitare de listare a postarilor, poate fi scrisă în format URL ca:
 
     GET /records/posts?join=comments,users&join=tags
 
