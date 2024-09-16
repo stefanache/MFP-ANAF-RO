@@ -724,7 +724,7 @@ GET    /geojson/{table}/{id} - read      - reads a record by primary key as a Ge
 
 Punctul final „/geojson” folosește „/records ” punctul final  intern și moștenește toate funcționalitățile, cum ar fi îmbinările/reunirile(joins) și filtrele.<br/>
 De asemenea, acceptă un parametru „geometry” pentru a indica numele coloanei de geometrie în cazul în care tabelul are mai multe.<br/>
-Pentru vizualizările hărții acceptă parametrul „bbox” în care puteți specifica coordonatele din stânga sus și din dreapta jos (separate prin virgulă).<br/>
+Pentru vizualizările hărții acceptă parametrul „bbox”(dreptunghiul de incadrare) în care puteți specifica coordonatele din stânga sus și din dreapta jos (separate prin virgulă).<br/>
 Următoarele tipuri de geometrie sunt acceptate de implementarea GeoJSON:
  
  - Punct
