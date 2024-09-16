@@ -216,7 +216,7 @@ alt proiect sau cadru (puteti sa utilizați, în schimb, <a href="https://getcom
   </details>
   <details><summary><h3>Dezvoltare</h3></summary>
   <br/><hr/>
-Puteți accesa codul necompilat la adresa URL:
+Puteți accesa codul necompilat la adresa-URL:
 
     http://localhost:8080/src/records/posts/1
 
@@ -240,6 +240,11 @@ Acest script va instala și rula [Composer](https://getcomposer.org/) pentru a a
   <br/><hr/>
   <details><summary><h3>CRUD + List</h3></summary>
   <br/><hr/>
+
+[TreeQL](https://treeql.org/) vă permite să creați un „arbore”/o arborescenta de obiecte JSON pe baza structurii bazei de date SQL (relații) și a interogării dvs.
+
+Se bazează vag pe standardul REST și, de asemenea, este inspirat de json:api.
+
   <details><summary><h4>Creare(Create)</h4></summary>
   <br/><hr/>
    
