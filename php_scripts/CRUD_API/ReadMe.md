@@ -406,8 +406,8 @@ va solicita toate categoriile „unde id > 1 și id < 3”. Dacă doriți „und
     GET /records/categories?filter1=id,eq,2&filter2=id,eq,4
 
 După cum vedeți, am adăugat un număr la parametrul „filter” pentru a indica faptul că ar trebui aplicat „SAU” în loc de „ȘI”(operatorul logic implicit al filtrarilor/filtrelor succesive). <br/>
-Rețineți că puteți, de asemenea, să repetați „filter1” și să creați un „ȘI” (imbricat/inclus) într-un „SAU”(filter1=id,gt,1&filter1=id,lt,3&filter2=id,eq,4). <br/>
-Deoarece puteți merge, de asemenea, cu un nivel mai adânc prin adăugarea unei litere (a-f), puteți crea aproape orice arbore de condiții rezonabil de complex.
+Rețineți că puteți, de asemenea, să repetați „filter1” și să creați un „ȘI” (imbricat/inclus) într-un „SAU” (ceva de genul ... filter1=id,gt,1&filter1=id,lt,3&filter2=id,eq,4). <br/>
+Deoarece puteți merge, de asemenea, cu un nivel mai adânc(al arborelui logic/de logica) prin adăugarea unei litere (a-f), puteți crea aproape orice arbore de condiții rezonabil de complex.
 
 Atentie la simbolul <b>&</b> din cererea-REST-URL: acesta <b>nu</b> apartine filtrului-SQL(deci nu are rolul unui SI-logic), ci este plasat/are rolul de/pt a <b>inlantui</b> un sir de parametrii in/dintr-o lista-URL de astfel de parametrii-URL(cu alte cuvinte este un separator intre elementele unei liste de parametrii transmisi endpoint-ului-REST).
 
