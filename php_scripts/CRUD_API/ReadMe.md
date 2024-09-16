@@ -204,11 +204,11 @@ Există, de asemenea, portari ale acestui script, drept dovadă de concept,  car
   <br/><hr/>
 Puteți <b>instala</b> toate dependențele acestui proiect folosind următoarea comandă:
 
-    php install.php
+    php <a href="https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_APIinstall.php">install.php</a>
 
 Puteți <b>compila</b> toate fișierele într-un singur fișier  "<a href="https://github.com/codemage66/PHP-CRUD-API/blob/main/api.php">api.php</a>" folosind:
 
-    php build.php
+    php <a href="https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/build.php">build.php</a>
     
 Rețineți că nu puteti sa utilizați ***compilarea*** atunci când **integrați** acest proiect într-un<br/> 
 alt proiect sau cadru (puteti sa utilizați, în schimb, <a href="https://getcomposer.org/"><b>Composer</b></a>).   
@@ -228,7 +228,7 @@ Directorul <a href="https://github.com/stefanache/MFP-ANAF-RO/tree/main/php_scri
   <br/><hr/>
 Puteți <b>actualiza</b> toate dependențele acestui proiect, folosind următoarea comandă:
 
-  php update.php
+  php <a href="https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/update.php">update.php</a>
 
 Acest script va instala și rula [Composer](https://getcomposer.org/) pentru a actualiza dependențele.   
   <hr/><br/>
