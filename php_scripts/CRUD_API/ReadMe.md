@@ -330,7 +330,24 @@ Dupa aceasta operatiune inregistrarea/randul cu vid**-ul <b>1</b> **nu** va mai 
   </details>
   <details><summary><h4>Listare(List)</h4></summary>
   <br/><hr/>
-   
+Pentru a vedea/consulta/lista înregistrările din acest tabel(<b>posts</b>), cererea poate fi scrisă în format URL ca:
+
+    GET /records/posts
+
+Se va întoarce ca rezultat/iesire(<b>JSON-result</b>):
+
+    {
+        "records":[
+            {
+                "id": 1,
+                "title": "Hello world!",
+                "content": "Welcome to the first post.",
+                "created": "2018-03-05T20:12:56Z"
+            }
+        ]
+    }
+
+În operațiunile de listare puteți aplica filtre(<b>filters</b>: where...) și alăturari/reuniri cu alte tabele(<b>joins</b>).   
   <hr/><br/>
   </details>  
   <hr/><br/>
