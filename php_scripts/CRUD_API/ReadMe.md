@@ -357,6 +357,7 @@ Se va întoarce ca rezultat/iesire(<b>JSON-result</b>):
   <br/><hr/>
 Filtrele oferă funcționalitate de căutare, în apelurile de listă, folosind parametrul „filtru”.<br/> 
 Trebuie să specificați numele coloanei, o virgulă, tipul de potrivire, o altă virgulă și valoarea pe care doriți să o filtrați.<br/> 
+
 Acestea sunt tipuri de potrivire acceptate:
 
  - „cs”: conține șir (șirul conține valoare)
@@ -371,7 +372,8 @@ Acestea sunt tipuri de potrivire acceptate:
  - „in”: în (numărul sau șirul se află într-o listă de valori separată prin virgulă)
  - „is”: este nul (câmpul conține valoarea „NULL”)
 
-Puteți anula toate filtrele adăugând un caracter „n”, astfel încât „eq” să devină „neq”. Exemple de utilizare a filtrelor sunt:
+Puteți anula toate filtrele adăugând un caracter „n”, astfel încât „eq” să devină „neq”.<br/>
+Exemple de utilizare a filtrelor sunt:
 
     GET /records/categories?filter=name,eq,Internet
     GET /records/categories?filter=name,sw,Inter
@@ -391,7 +393,7 @@ Ieșire:
         ]
     }
 
-În secțiunea următoare, vom aprofunda modul în care puteți aplica mai multe filtre într-un singur apel de listă.   
+În secțiunea următoare([Filtre multiple](https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/ReadMe.md#filtre-multiple)), vom aprofunda modul în care puteți aplica mai multe filtre într-un singur apel de listă.   
   </pre><hr/><br/>
   </details>
   <details><summary><h3>Filtre multiple</h3></summary>
