@@ -486,9 +486,35 @@ Ieșire:
 Dacă doriți să aflați și numărul total de înregistrări, poate doriți să utilizați parametrul „page”.   
   <hr/><br/>
   </details> 
-  <details><summary><h3>Paginatia(page)</h3></summary>
+  <details><summary><h3>Paginatia/Paginarea(page)</h3></summary>
   <br/><hr/>
-   
+Parametrul <b>„page”</b> deține/retine/specifica pagina solicitată.<br/>
+Dimensiunea/Valoarea <b>implicită</b> a paginii este <b>20</b>, dar poate fi ajustată (de exemplu, la <b></b>50</b>).
+
+  GET /records/categories?order=id&page=1
+  GET /records/categories?order=id&page=1,50
+
+Ieșire:
+
+      {
+          "records":[
+              {
+                  "id": 1
+                  "name": "Internet"
+              },
+              {
+                  "id": 3
+                  "name": "Web development"
+              }
+          ],
+          "results": 2
+      }
+
+Elementul „results” deține/retine/stocheaza/specifica numărul total de înregistrări din tabel, care ar fi returnat dacă nu s-ar folosi nicio paginare.
+
+<b>NB</b>: <br/>
+Deoarece paginile care nu sunt ordonate nu pot fi paginate, paginile vor fi ordonate după cheia primară.
+
   <hr/><br/>
   </details> 
   <details><summary><h3>Reunirile de tabele(Joins)</h3></summary>
