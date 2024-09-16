@@ -245,7 +245,7 @@ Se bazează vag pe standardul REST și, de asemenea, este inspirat de json:api.
 
   <details><summary><h3>CRUD + List</h3></summary>
   <br/><hr/>
-Exemplul de tabel de postări are doar câteva câmpuri:
+Exemplul de tabel de postări, <b>posts</b>  are doar câteva câmpuri:
 
     posts  
     =======
