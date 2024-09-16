@@ -540,11 +540,11 @@ Aceste căi au aceeași rădăcină(tabelul <b>posts</b>) și această solicitar
 Aici vi se permite să omiteți(sa nu faceti referire la acesta/sa nu utilizati) tabelul intermediar(<b>post_tags</b>) care leagă postările(<b>posts</b>) de etichete(<b>tags</b>).<br/>
 În acest exemplu, vedeți toate cele trei tipuri de relații de tabel (<b>hasMany</b>, <b>belongsTo</b> și <b>hasAndBelongsToMany</b>) în vigoare/folosite:
 
-        „postarea” are mai multe „comentarii”               (relatie de tip "hasMany"             1:M)
-    iar „comentariul” aparține unui „utilizator”            (relatie de tip "belongsTo"           1:1)
-        „postarea” are și aparține mai multor „etichete”    (relatie de tip "hasAndBelongsToMany" M:M)
+        „postarea” are                  mai multe „comentarii”    (relatie de tip "hasMany"             1:M)
+    iar „comentariul”     aparține      unui       „utilizator”   (relatie de tip "belongsTo"           1:1)
+        „postarea” are și aparține      mai multor „etichete”     (relatie de tip "hasAndBelongsToMany" M:M)
 
-Acest lucru poate duce la următoarele date JSON listate:
+Acest lucru poate duce la următoarele date-JSON listate:
 
     {
         "records":[
