@@ -300,7 +300,8 @@ Pentru a <b>actualiza</b> o înregistrare(existenta deja in baza de date) în ac
 
   PUT /records/posts/1
 
-Unde „1” este valoarea cheii primare(<b>id</b>) a înregistrării(existenta deja in baza de date) pe care doriți să o actualizați.<br/> Trimiteți ca corp:
+Unde „1” este valoarea cheii primare(<b>id</b>) a înregistrării(existenta deja in baza de date) pe care doriți să o actualizați.<br/> 
+Trimiteți ca corp(<b>JSON-payload</b>):
 
     {
         "title": "Adjusted title!"
@@ -314,7 +315,8 @@ Aceasta ajustează titlul postării. Și valoarea returnată este <b>numărul de
   </details> 
   <details><summary><h4>Stergere(Delete)</h4></summary>
   <br/><hr/>
-Dacă doriți să <b>ștergeți</b> o înregistrare(deja existenta si identificata prin <b>id</b>-ul <b>1</b>) din acest tabel,<br/> cererea poate fi scrisă în format URL ca:
+Dacă doriți să <b>ștergeți</b> o înregistrare(deja existenta si identificata prin <b>id</b>-ul <b>1</b>) din acest tabel,<br/> 
+cererea poate fi scrisă în format URL ca:
 
     DELETE /records/posts/1
 
