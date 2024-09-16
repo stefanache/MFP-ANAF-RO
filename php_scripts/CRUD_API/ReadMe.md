@@ -355,7 +355,43 @@ Se va întoarce ca rezultat/iesire(<b>JSON-result</b>):
   </details>
   <details><summary><h3>Filtre</h3></summary>
   <br/><hr/>
-   
+Filtrele oferă funcționalitate de căutare, în apelurile de listă, folosind parametrul „filtru”.<br/> 
+Trebuie să specificați numele coloanei, o virgulă, tipul de potrivire, o altă virgulă și valoarea pe care doriți să o filtrați.<br/> 
+Acestea sunt tipuri de potrivire acceptate:
+
+ - „cs”: conține șir (șirul conține valoare)
+ - "sw": începe cu (șirul începe cu valoare)
+ - "ew": termina cu (șir se termină cu valoare)
+ - „eq”: egal (șirul sau numărul se potrivește exact)
+ - "lt": mai mic decât (numărul este mai mic decât valoarea)
+ - „le”: mai mic sau egal (numărul este mai mic sau egal cu valoarea)
+ - „ge”: mai mare sau egal (numărul este mai mare sau egal cu valoarea)
+ - „gt”: mai mare decât (numărul este mai mare decât valoarea)
+ - „bt”: între (numărul este între două valori separate prin virgulă)
+ - „in”: în (numărul sau șirul se află într-o listă de valori separată prin virgulă)
+ - „is”: este nul (câmpul conține valoarea „NULL”)
+
+Puteți anula toate filtrele adăugând un caracter „n”, astfel încât „eq” să devină „neq”. Exemple de utilizare a filtrelor sunt:
+
+    GET /records/categories?filter=name,eq,Internet
+    GET /records/categories?filter=name,sw,Inter
+    GET /records/categories?filter=id,le,1
+    GET /records/categories?filter=id,ngt,1
+    GET /records/categories?filter=id,bt,0,1
+    GET /records/categories?filter=id,in,0,1
+
+Ieșire:
+
+    {
+        "records":[
+            {
+                "id": 1
+                "name": "Internet"
+            }
+        ]
+    }
+
+În secțiunea următoare, vom aprofunda modul în care puteți aplica mai multe filtre într-un singur apel de listă.   
   </pre><hr/><br/>
   </details>
   <details><summary><h3>Filtre multiple</h3></summary>
