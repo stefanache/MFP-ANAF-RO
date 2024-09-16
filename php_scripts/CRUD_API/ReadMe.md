@@ -603,77 +603,91 @@ Vedeți că relațiile <b>„belongsTo”</b>(<b>comments</b> -> <b>users</b>) s
   </details>
   <details><summary><h3>Operatiile in lot de lucrari(Batch operations)</h3></summary>
   <br/><hr/>
-Când doriți să creați, să citiți, să actualizați sau să ștergeți, puteți specifica mai multe valori ale cheii primare în adresa URL. De asemenea, trebuie să trimiteți o matrice în loc de un obiect în corpul solicitării pentru creare și actualizare.
+Când doriți să creați, să citiți, să actualizați sau să ștergeți, puteți specifica mai multe valori ale cheii primare în adresa URL.<br/>
+De asemenea, trebuie să trimiteți o matrice în loc de un obiect în corpul solicitării pentru creare și actualizare.
 
 Pentru a citi o înregistrare din acest tabel, cererea poate fi scrisă în format URL ca:
 
-GET /records/posts/1,2
+    GET /records/posts/1,2
+    
 Rezultatul poate fi:
 
-[
-        {
-            "id": 1,
-            "title": "Hello world!",
-            "content": "Welcome to the first post.",
-            "created": "2018-03-05T20:12:56Z"
-        },
-        {
-            "id": 2,
-            "title": "Black is the new red",
-            "content": "This is the second post.",
-            "created": "2018-03-06T21:34:01Z"
-        }
-]
+      [
+              {
+                  "id": 1,
+                  "title": "Hello world!",
+                  "content": "Welcome to the first post.",
+                  "created": "2018-03-05T20:12:56Z"
+              },
+              {
+                  "id": 2,
+                  "title": "Black is the new red",
+                  "content": "This is the second post.",
+                  "created": "2018-03-06T21:34:01Z"
+              }
+      ]
+
 În mod similar, atunci când doriți să faceți o actualizare în lot, solicitarea în format URL este scrisă ca:
 
-PUT /records/posts/1,2
-Unde „1” și „2” sunt valorile cheilor primare ale înregistrărilor pe care doriți să le actualizați. Corpul ar trebui să conțină același număr de obiecte ca și cheile primare în adresa URL:
+  PUT /records/posts/1,2
 
-[   
-    {
-        "title": "Adjusted title for ID 1"
-    },
-    {
-        "title": "Adjusted title for ID 2"
-    }        
-]
+Unde „1” și „2” sunt valorile cheilor primare ale înregistrărilor pe care doriți să le actualizați.<br/>
+Corpul ar trebui să conțină același număr de obiecte ca și cheile primare în adresa URL:
+
+    [   
+        {
+            "title": "Adjusted title for ID 1"
+        },
+        {
+            "title": "Adjusted title for ID 2"
+        }        
+    ]
+
 Aceasta ajustează titlurile postărilor. Și valorile returnate sunt numărul de rânduri care sunt setate:
 
 [1,1]
-Ceea ce înseamnă că au fost două operațiuni de actualizare și fiecare dintre ele avea setat câte un rând. Operațiunile în loturi folosesc tranzacții de bază de date, astfel încât fie toate reușesc, fie toate eșuează (cele care au succes sunt anulate). Dacă eșuează, corpul va conține lista documentelor de eroare. În următorul răspuns, prima operație a reușit și a doua operațiune a lotului a eșuat din cauza unei încălcări a integrității:
 
-[   
-    {
-        "code": 0,
-        "message": "Success"
-    },
-    {
-        "code": 1010,
-        "message": "Data integrity violation"
-    }
-]
+Ceea ce înseamnă că au fost două operațiuni de actualizare și fiecare dintre ele avea setat câte un rând.<br/>
+Operațiunile în loturi folosesc tranzacții de bază de date, astfel încât fie toate reușesc, fie toate eșuează (cele care au succes sunt anulate).<br/>
+Dacă eșuează, corpul va conține lista documentelor de eroare.<br/>
+În următorul răspuns, prima operație a reușit și a doua operațiune a lotului a eșuat din cauza unei încălcări a integrității:
+
+    [   
+        {
+            "code": 0,
+            "message": "Success"
+        },
+        {
+            "code": 1010,
+            "message": "Data integrity violation"
+        }
+    ]
+
 Codul de stare a răspunsului va fi întotdeauna 424 (dependență eșuată) în cazul oricărei eșecuri a uneia dintre operațiunile lot.
 
 Pentru a insera mai multe înregistrări în acest tabel, cererea poate fi scrisă în format URL ca:
 
-POST /records/posts
+    POST /records/posts
+
 Corpul ar trebui să conțină o serie de înregistrări care trebuie inserate:
 
-[
-        {
-            "title": "Hello world!",
-            "content": "Welcome to the first post.",
-            "created": "2018-03-05T20:12:56Z"
-        },
-        {
-            "title": "Black is the new red",
-            "content": "This is the second post.",
-            "created": "2018-03-06T21:34:01Z"
-        }
-]
+    [
+            {
+                "title": "Hello world!",
+                "content": "Welcome to the first post.",
+                "created": "2018-03-05T20:12:56Z"
+            },
+            {
+                "title": "Black is the new red",
+                "content": "This is the second post.",
+                "created": "2018-03-06T21:34:01Z"
+            }
+    ]
+
 Valoarea returnată este, de asemenea, o matrice care conține cheile primare ale înregistrărilor nou introduse:
 
-[1,2] 
+[1,2]
+
 Rețineți că operațiunea batch pentru DELETE urmează același model ca PUT, dar fără corp.   
   <hr/><br/>
   </details> 
