@@ -411,12 +411,27 @@ Deoarece puteți merge, de asemenea, cu un nivel mai adânc(al arborelui logic/d
 
 Atentie la simbolul <b>&</b> din cererea-REST-URL: acesta <b>nu</b> apartine filtrului-SQL(deci nu are rolul unui SI-logic), ci este plasat/are rolul de/pt a <b>inlantui</b> un sir de parametrii in/dintr-o lista-URL de astfel de parametrii-URL(cu alte cuvinte este un separator intre elementele unei liste de parametrii transmisi endpoint-ului-REST).
 
-<b>NB</b>: Puteți filtra numai pe tabelul solicitat (nu pe toate/alte tabelele incluse/din b.d.) și filtrele sunt aplicate numai pentru apelurile pe listă/listare.   
+<b>NB</b>: Puteți filtra numai pe tabelul solicitat (nu pe toate/alte tabelele incluse/din b.d.) și filtrele sunt aplicate numai pentru apelurile pe listă/listare. 
   <hr/><br/>
   </details>
   <details><summary><h3>Selectia coloanelor</h3></summary>
   <br/><hr/>
-   
+În mod implicit, toate coloanele sunt <b>selectate</b>. <br/>
+Cu parametrul „include” puteți selecta anumite coloane.<br/>Puteți folosi un punct pentru a separa numele tabelului de numele coloanei. <br/>
+Mai multe coloane trebuie separate prin virgulă. Un asterisc ("*") poate fi folosit ca wildcard pentru a indica "toate coloanele". <br/>
+Similar cu „include”, puteți utiliza parametrul „exclude” pentru a elimina anumite coloane:
+
+    GET /records/categories/1?include=name
+    GET /records/categories/1?include=categories.name
+    GET /records/categories/1?exclude=categories.id
+
+Ieșire:
+
+      {
+          "name": "Internet"
+      }
+
+<b>NB</b>: Coloanele care sunt folosite pentru a include entități asociate sunt adăugate automat și nu pot fi lăsate în afara ieșirii.   
   <hr/><br/>
   </details>
   <details><summary><h3>Sortarea</h3></summary>
