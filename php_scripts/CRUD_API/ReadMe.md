@@ -417,9 +417,11 @@ Atentie la simbolul <b>&</b> din cererea-REST-URL: acesta <b>nu</b> apartine fil
   <details><summary><h3>Selectia coloanelor</h3></summary>
   <br/><hr/>
 În mod implicit, toate coloanele sunt <b>selectate</b>. <br/>
-Cu parametrul „include” puteți selecta anumite coloane.<br/>Puteți folosi un punct pentru a separa numele tabelului de numele coloanei. <br/>
-Mai multe coloane trebuie separate prin virgulă. Un asterisc ("*") poate fi folosit ca wildcard pentru a indica "toate coloanele". <br/>
-Similar cu „include”, puteți utiliza parametrul „exclude” pentru a elimina anumite coloane:
+Cu parametrul <b>„include”</b> puteți selecta anumite coloane.<br/>
+Puteți folosi un punct(<b>.</b>) pentru a separa numele tabelului de numele coloanei. <br/>
+Mai multe coloane trebuie separate prin virgulă(<b>„,”</b>).<br/>
+Un asterisc (<b>„*"</b>) poate fi folosit ca wildcard pentru a indica "toate coloanele". <br/>
+Similar cu „include”, puteți utiliza parametrul <b>„exclude”</b> pentru a elimina anumite coloane:
 
     GET /records/categories/1?include=name
     GET /records/categories/1?include=categories.name
@@ -431,7 +433,7 @@ Ieșire:
           "name": "Internet"
       }
 
-<b>NB</b>: Coloanele care sunt folosite pentru a include entități asociate sunt adăugate automat și nu pot fi lăsate în afara ieșirii.   
+<b>NB</b>: <br/>Coloanele care sunt folosite pentru a include entități asociate sunt adăugate automat și nu pot fi lăsate în afara ieșirii.   
   <hr/><br/>
   </details>
   <details><summary><h3>Sortarea</h3></summary>
