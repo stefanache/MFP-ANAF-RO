@@ -396,7 +396,7 @@ Ieșirea(<b>JSON-result</b>) poate arata astfel:
   </pre><hr/><br/>
   </details>
   <details><summary><h3>Filtre multiple</h3></summary>
-  <br/><hr/><pre>
+  <br/><hr/>
 Filtrele pot fi aplicate prin repetarea parametrului „filter” din URL. De exemplu, următoarea adresă URL:
 
     GET /records/categories?filter=id,gt,1&filter=id,lt,3
