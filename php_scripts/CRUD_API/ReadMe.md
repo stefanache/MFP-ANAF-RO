@@ -752,7 +752,7 @@ Configurația vă permite să redenumiți/asociati tabelele și coloanele cu o l
 Acest exemplu specific va expune/echivala tabelul "<b>wp_posts</b>" la un punct-final "<b>posts</b>" (deci în loc de "<b>wp_posts</b>") și coloana "<b>ID</b>" din acelasi tabel ca o proprietate denumita "<b>id</b>" (deci cu/în litere mici: "<b>id</b>"  - în loc de -   litere mari: "<b>ID</b>").
 
 <b>NB</b>:<br/>
-Deoarece aceste două mapări/asocieri/echivalari(separate de "<b>,</b>") se <b>suprapun</b>, prima mapare(mai puțin specifică) poate fi <b>omisă</b>(asadar, prima asociere/egalitate nu aduce ceva nou/in plus fata de urmatoarea asociere/egalitate, astfel incat aceasta poate lipsi, deoarece aceasta asociere, in mod automat, se subintelege sau poate fi dedusa).   
+Deoarece aceste două mapări/asocieri/echivalări(separate de "<b>,</b>") se <b>suprapun</b>, prima mapare(mai puțin specifică) poate fi <b>omisă</b>(asadar, prima asociere/egalitate nu aduce ceva nou/in plus fată de următoarea asociere/egalitate, astfel incat aceasta poate lipsi, deoarece cu usurintă si in mod automat, această prima asociere, se subintelege sau poate fi dedusă).   
   <hr/><br/>
   </details>
   <details><summary><h2>Intermediere(Middlereware)</h2></summary>
