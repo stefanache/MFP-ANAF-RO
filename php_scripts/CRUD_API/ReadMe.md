@@ -784,7 +784,7 @@ Puteți activa următorul <b>middleware</b> folosind parametrul de configurare �
  - „<b>xml</b>”: traduce toate intrările și ieșirile din <a href="https://en.wikipedia.org/wiki/JSON">JSON</a> în <a href="https://en.wikipedia.org/wiki/XML">XML</a>
 
 Parametrul de configurare „<b>middlewares</b>” este o listă(separată prin virgulă) de/cu <b>middleware</b>-uri activate.<br/>
-Puteți regla comportamentul <b>middleware</b> folosind <b>parametrii de configurare</b> specifici <b>middleware</b>:<br/>
+Puteți regla comportamentul <b>middleware</b> folosind <b>parametrii de configurare</b> specifici <b>middleware</b>-ului aferent:<br/>
 
 „<b>firewall.reverseProxy</b>”: Setați la „adevărat” când este utilizat un proxy invers (“”)
 „<b>firewall.allowedIpAddresses</b>”: Listă de adrese IP cărora li se permite conectarea („”)<br/>
