@@ -757,32 +757,34 @@ Deoarece aceste două mapări/asocieri/echivalări(separate de "<b>,</b>") se <b
   </details>
   <details><summary><h2>Intermediere(Middlereware)</h2></summary>
   <br/><hr/><pre>
-Puteți activa următorul middleware folosind parametrul de configurare „middlewares”:
+Puteți activa următorul middleware folosind parametrul de configurare „<b>middlewares</b>”:
 
-„firewall”: Limitați accesul la anumite adrese IP
-„sslRedirect”: Forțați conexiunea prin HTTPS în loc de HTTP
-„cors”: suport pentru solicitările CORS (activat implicit)
-„xsrf”: blocați atacurile XSRF folosind metoda „Double Submit Cookie”.
-„ajaxOnly”: restricționați solicitările non-AJAX pentru a preveni atacurile XSRF
-„apiKeyAuth”: suport pentru „Autentificarea cheii API”
-„apiKeyDbAuth”: Suport pentru „Autentificarea bazei de date cheie API”
-„dbAuth”: suport pentru „Autentificarea bazei de date”
-„wpAuth”: suport pentru „Autentificare Wordpress”
-„jwtAuth”: suport pentru „Autentificare JWT”
-„basicAuth”: suport pentru „Autentificare de bază”
-"reconnect": Reconectați-vă la baza de date cu parametri diferiți
-„autorizare”: restricționează accesul la anumite tabele sau coloane
-„validare”: returnează erorile de validare a intrării pentru regulile personalizate și regulile de tip implicite
-„ipAddress”: completați un câmp protejat cu adresa IP la creare
-„sanitație”: Aplicați igienizarea de intrare la crearea și actualizarea
-„multiTenancy”: restricționează accesul chiriașilor într-un scenariu cu mai mulți chiriași
-„pageLimits”: Restricționează operațiunile de listă pentru a preveni eliminarea bazei de date
-„joinLimits”: restricționează parametrii de îmbinare pentru a preveni scrapingul bazei de date
-„textSearch”: Căutați în toate câmpurile de text cu un parametru simplu
-„personalizare”: Oferă handler pentru personalizarea cererilor și răspunsurilor
-„json”: acceptă citirea/scrierea șirurilor JSON ca obiecte/matrice JSON
-„xml”: traduce toate intrările și ieșirile din JSON în XML
-Parametrul de configurare „middlewares” este o listă separată prin virgulă de middleware-uri activate. Puteți regla comportamentul middleware folosind parametrii de configurare specifici middleware:
+„<b>firewall</b>”: Limitați accesul la anumite adrese IP
+„<b>sslRedirect</b>”: Forțați conexiunea prin HTTPS în loc de HTTP
+„<b>cors</b>”: suport pentru solicitările CORS (activat implicit)
+„<b>xsrf</b>”: blocați atacurile XSRF folosind metoda „Double Submit Cookie”.
+„<b>ajaxOnly</b>”: restricționați solicitările non-AJAX pentru a preveni atacurile XSRF
+„vapiKeyAuth</b>”: suport pentru „Autentificarea cheii API”
+„<b>apiKeyDbAuth”: Suport pentru „Autentificarea bazei de date cheie API”
+„<b>dbAuth</b>”: suport pentru „Autentificarea bazei de date”
+„<b>wpAuth</b>”: suport pentru „Autentificare Wordpress”
+„<b>jwtAuth</b>”: suport pentru „Autentificare JWT”
+„<b>basicAuth</b>”: suport pentru „Autentificare de bază”
+"<b>reconnect</b>": Reconectați-vă la baza de date cu parametri diferiți
+„<b>autorization</b>”: restricționează accesul la anumite tabele sau coloane
+„<b>validation</b>”: returnează erorile de validare a intrării pentru regulile personalizate și regulile de tip implicite
+„<b>ipAddress</b>”: completați un câmp protejat cu adresa IP la creare
+„<b>sanititaion</b>”: Aplicați igienizarea de intrare la crearea și actualizarea
+„<b>multiTenancy</b>”: restricționează accesul chiriașilor într-un scenariu cu mai mulți chiriași
+„<b>pageLimits</b>”: Restricționează operațiunile de listă pentru a preveni eliminarea bazei de date
+„<b>joinLimits</b>”: restricționează parametrii de îmbinare pentru a preveni scrapingul bazei de date
+„<b>textSearch</b>”: Căutați în toate câmpurile de text cu un parametru simplu
+„<b>customization</b>”: Oferă handler pentru personalizarea cererilor și răspunsurilor
+„<b>json</b>”: acceptă citirea/scrierea șirurilor JSON ca obiecte/matrice JSON
+„<b>xml</b>”: traduce toate intrările și ieșirile din JSON în XML
+
+Parametrul de configurare „<b>middlewares</b>” este o listă separată prin virgulă de middleware-uri activate.<br/>
+Puteți regla comportamentul middleware folosind parametrii de configurare specifici <b>middleware</b>:
 
 „firewall.reverseProxy”: Setați la „adevărat” când este utilizat un proxy invers (“”)
 „firewall.allowedIpAddresses”: Listă de adrese IP cărora li se permite conectarea („”)
