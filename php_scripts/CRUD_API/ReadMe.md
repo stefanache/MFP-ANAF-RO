@@ -712,8 +712,7 @@ Aceste <b>filtre</b> se bazează pe standardele [OGC](https://ro.wikipedia.org/w
 Rețineți că [SRID](https://www.alibabacloud.com/blog/an-overview-of-srid-and-coordinate-system_597004)-ul care este presupus la conversia de la [WKT](https://en.wikipedia.org/wiki/Well-known_text_representation_of_geometry) la <b>geometrie</b> este specificat de variabila de configurare <b>geometry</b>-[SRID](https://www.gsatsolar.com/support/glossary/srid) și este implicit [4326](https://ro.wikipedia.org/wiki/EPSG_Parametru_Seturi_de_date_Geodezice) ([WGS 84](https://en.wikipedia.org/wiki/World_Geodetic_System)).    
   <details><summary><h4>GeoJSON</h4></summary>
   <br/><hr/>
-Suportul <b>GeoJSON</b> este o vizualizare(deci pt metoda <b>GET</b>) <b>numai în citire(deci pt operatiile <b>list</b> sau </b>read</b>)</b>a tabelelor și înregistrărilor/randurilor în format <b></b>GeoJSON</b>.<br/>
-Aceste cereri sunt acceptate:
+Suportul <b>GeoJSON</b> este o vizualizare(deci pt metoda <b>GET</b>) <b>numai în citire</b>(deci pt operatiile <b>list</b> sau </b>read</b>) a tabelelor și înregistrărilor/randurilor în format <b></b>GeoJSON</b>. Aceste cereri sunt acceptate:
 
 method path                  - operation - description
 ----------------------------------------------------------------------------------------
