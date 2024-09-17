@@ -869,11 +869,11 @@ Puteți regla comportamentul <b>middleware</b> folosind <b>parametrii de configu
 „<b>json.controllers</b>”: controlere pentru procesarea șirurilor JSON pentru („records,geojson”)<br/>
 „<b>json.tables</b>”: tabele pentru procesarea șirurilor JSON pentru („toate”)
 „<b>json.columns</b>”: coloane pentru procesarea șirurilor JSON pentru („toate”)<br/>
-„<b>xml.typesv</b>”: tipuri JSON care ar trebui adăugate la atributul de tip XML („null,array”)<br/>
+„<b>xml.typesv</b>”: tipuri JSON care ar trebui adăugate la atributul de tip XML („null,array”)<br/></pre>
 
 Dacă nu specificați acești parametri în configurație, atunci se folosesc valorile <b>implicite</b> (cele dintre/între paranteze).
 
-În secțiunile de mai jos găsiți mai multe informații despre <b>middleware<br/>-ul încorporat. </pre>
+În secțiunile de mai jos găsiți mai multe informații despre <b>middleware<br/>-ul încorporat. 
 
   <details><summary><h3>Autentificari</h3></summary>
   <br/><hr/>
