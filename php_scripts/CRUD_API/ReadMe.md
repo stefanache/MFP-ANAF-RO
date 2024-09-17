@@ -759,7 +759,7 @@ Deoarece aceste două mapări/asocieri/echivalări(separate de "<b>,</b>") se <b
   <br/><hr/><pre>
 Puteți activa următorul <b>middleware</b> folosind parametrul de configurare „<b>middlewares</b>”:<br/>
 
- - „<b>firewall</b>”: Limitați accesul la anumite adrese IP
+ - „<b>firewall</b>”: Limitați accesul la anumite adrese <a href="https://en.wikipedia.org/wiki/IP_address">IP</a>
  - „<b>sslRedirect</b>”: Forțați conexiunea prin <a href="https://ro.wikipedia.org/wiki/HTTPS">HTTPS</a> în loc de <a href="https://en.wikipedia.org/wiki/HTTP">HTTP</a>
  - „<b>cors</b>”: suport pentru solicitările <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS">CORS</a> (activat implicit)
  - „<b>xsrf</b>”: blocați atacurile <a href="https://en.wikipedia.org/wiki/Cross-site_request_forgery">XSRF</a> folosind metoda „Double Submit Cookie”.
