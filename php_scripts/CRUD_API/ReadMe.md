@@ -873,7 +873,7 @@ Puteți regla comportamentul <b>middleware</b> folosind <b>parametrii de configu
 
 Dacă nu specificați acești parametri în configurație, atunci se folosesc valorile <b>implicite</b> (cele dintre/între paranteze).
 
-În secțiunile de mai jos găsiți mai multe informații despre <b>middleware<br/>-ul încorporat. 
+În secțiunile de mai jos găsiți mai multe informații despre <b>middleware</b>-ul încorporat. 
 
   <details><summary><h3>Autentificari</h3></summary>
   <br/><hr/>
