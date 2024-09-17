@@ -696,22 +696,22 @@ Rețineți că operațiunea batch pentru <b>DELETE</b> urmează același model c
   </details>
   <details><summary><h2>Suportul datelor spatiale</h2></summary>
 
-Pentru suport spațial există un set suplimentar de filtre care pot fi aplicate pe coloanele de geometrie și care încep cu un „s”:
+Pentru suport spațial există un set suplimentar de filtre care pot fi aplicate pe coloanele de geometrie și care încep cu un/litera „s”:
 
- - „sco”: spațiul conține (geometria conține o alta)
- - „scr”: încrucișări spațiale (geometria traversează alta)
- - "sdi": disjuns spațial (geometria este disjunsă de alta)
- - "seq": egal spațial (geometria este egală cu alta)
- - „sin”: intersectări spațiale (geometria intersectează alta)
- - „sov”: suprapuneri spațiale (geometria se suprapune pe alta)
- - „sto”: atingeri spațiale (geometria atinge pe altul)
- - „swi”: spațial în interior (geometria este în interiorul altuia)
- - "sic": spațial este închis (geometria este închisă și simplă)
- - „sis”: spațial este simplu (geometria este simplă)
- - "siv": spațial este valid (geometria este validă)
+ - „<b>sco</b>”: spațiul conține (geometria conține o alta)
+ - „<b>scr</b>”: încrucișări spațiale (geometria traversează alta)
+ - "<b>sdi</b>": disjuns spațial (geometria este disjunsă de alta)
+ - "<b>seq</b>": egal spațial (geometria este egală cu alta)
+ - „<b>sin</b>”: intersectări spațiale (geometria intersectează alta)
+ - „<b>sov</b>”: suprapuneri spațiale (geometria se suprapune pe alta)
+ - „<b>sto</b>”: atingeri spațiale (geometria atinge pe altul)
+ - „<b>swi</b>”: spațial în interior (geometria este în interiorul altuia)
+ - "<b>sic</b>": spațial este închis (geometria este închisă și simplă)
+ - „<b>sis</b>”: spațial este simplu (geometria este simplă)
+ - "<b>siv</b>": spațial este valid (geometria este validă)
 
-Aceste filtre se bazează pe standardele OGC și la fel este și specificația WKT în care sunt reprezentate coloanele de geometrie.<br/>
-Rețineți că SRID-ul care este presupus la conversia de la WKT la geometrie este specificat de variabila de configurare geometry SRID și este implicit 4326 (WGS 84).    
+Aceste filtre se bazează pe standardele [OGC](https://ro.wikipedia.org/wiki/Open_Geospatial_Consortium) și la fel este și specificația [WKT](https://en.wikipedia.org/wiki/Well-known_text_representation_of_geometry) în care sunt reprezentate coloanele de geometrie.<br/>
+Rețineți că [SRID](https://www.alibabacloud.com/blog/an-overview-of-srid-and-coordinate-system_597004)-ul care este presupus la conversia de la [WKT](https://en.wikipedia.org/wiki/Well-known_text_representation_of_geometry) la geometrie este specificat de variabila de configurare geometry [SRID](https://www.gsatsolar.com/support/glossary/srid) și este implicit [4326](https://ro.wikipedia.org/wiki/EPSG_Parametru_Seturi_de_date_Geodezice) ([WGS 84](https://en.wikipedia.org/wiki/World_Geodetic_System)).    
   <details><summary><h3>GeoJSON</h3></summary>
   <br/><hr/>
 Suportul GeoJSON este o vizualizare numai în citire a tabelelor și înregistrărilor în format GeoJSON. Aceste cereri sunt acceptate:
