@@ -692,9 +692,11 @@ Valoarea returnată este, de asemenea, o matrice care conține <b>cheile primare
 Rețineți că operațiunea batch pentru <b>DELETE</b> urmează același model ca <i>PUT</i>, dar <b>fără corp</b>.   
   <hr/><br/>
   </details> 
-  <details><summary><h3>Suportul datelor spatiale</h3></summary>
+  <hr/><br/>
+  </details>
+  <details><summary><h2>Suportul datelor spatiale</h2></summary>
   <br/><hr/>
-  <details><summary><h4>Suport spatial</h4></summary>
+  <details><summary><h3>Suport spatial</h3></summary>
   <br/><hr/>
 Pentru suport spațial există un set suplimentar de filtre care pot fi aplicate pe coloanele de geometrie și care încep cu un „s”:
 
@@ -714,7 +716,7 @@ Aceste filtre se bazează pe standardele OGC și la fel este și specificația W
 Rețineți că SRID-ul care este presupus la conversia de la WKT la geometrie este specificat de variabila de configurare geometry SRID și este implicit 4326 (WGS 84).
   <hr/><br/>
   </details>     
-  <details><summary><h4>GeoJSON</h4></summary>
+  <details><summary><h3>GeoJSON</h3></summary>
   <br/><hr/>
 Suportul GeoJSON este o vizualizare numai în citire a tabelelor și înregistrărilor în format GeoJSON. Aceste cereri sunt acceptate:
 
@@ -739,10 +741,7 @@ Funcționalitatea GeoJSON este activată în mod implicit, dar poate fi dezactiv
   <hr/><br/>
   </details>    
   <hr/><br/>
-  </details> 
-
-  <hr/><br/>
-  </details>
+  </details>   
   <details><summary><h2>Maparea numelor pt sistemele mai vechi</h2></summary>
   <br/><hr/>
    
