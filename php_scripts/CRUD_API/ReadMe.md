@@ -757,15 +757,15 @@ Deoarece aceste două mapări/asocieri/echivalări(separate de "<b>,</b>") se <b
   </details>
   <details><summary><h2>Intermediere(Middlereware)</h2></summary>
   <br/><hr/><pre>
-Puteți activa următorul middleware folosind parametrul de configurare „<b>middlewares</b>”:
+Puteți activa următorul middleware folosind parametrul de configurare „<b>middlewares</b>”:<br/>
 
 „<b>firewall</b>”: Limitați accesul la anumite adrese IP
 „<b>sslRedirect</b>”: Forțați conexiunea prin HTTPS în loc de HTTP
 „<b>cors</b>”: suport pentru solicitările CORS (activat implicit)
 „<b>xsrf</b>”: blocați atacurile XSRF folosind metoda „Double Submit Cookie”.
 „<b>ajaxOnly</b>”: restricționați solicitările non-AJAX pentru a preveni atacurile XSRF
-„vapiKeyAuth</b>”: suport pentru „Autentificarea cheii API”
-„<b>apiKeyDbAuth”: Suport pentru „Autentificarea bazei de date cheie API”
+„<b>apiKeyAuth</b>”: suport pentru „Autentificarea cheii API”
+„<b>apiKeyDbAuth</b>”: Suport pentru „Autentificarea bazei de date cheie API”
 „<b>dbAuth</b>”: suport pentru „Autentificarea bazei de date”
 „<b>wpAuth</b>”: suport pentru „Autentificare Wordpress”
 „<b>jwtAuth</b>”: suport pentru „Autentificare JWT”
