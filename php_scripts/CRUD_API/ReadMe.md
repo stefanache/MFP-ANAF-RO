@@ -353,7 +353,9 @@ Se va întoarce ca rezultat/iesire(<b>JSON-result</b>):
   </details>  
   <hr/><br/>
   </details>
-  <details><summary><h3>Filtre</h3></summary>
+  <details><summary><h3>Filtrarea</h3></summary>
+  <br/><hr/>
+  <details><summary><h4>Filtre</h4></summary>
   <br/><hr/>
 <b>Filtrele</b> oferă funcționalitate de <b>căutare</b>, în apelurile de listă, folosind parametrul <b>„filter”</b>.<br/> 
 Trebuie să specificați numele coloanei/campului, o virgulă, tipul de potrivire(verbul/operatorul), o altă virgulă și valoarea campului<br/> pe care doriți să o filtrați.<br/><br/> 
@@ -395,7 +397,7 @@ Ieșirea(<b>JSON-result</b>) poate arata astfel:
 În secțiunea următoare([Filtre multiple](https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/ReadMe.md#filtre-multiple)), vom aprofunda modul în care puteți aplica mai <b>multe</b> filtre într-un singur apel de listă/listare.   
   </pre><hr/><br/>
   </details>
-  <details><summary><h3>Filtre multiple</h3></summary>
+  <details><summary><h4>Filtre multiple</h4></summary>
   <br/><hr/>
 Filtrele pot fi aplicate prin repetarea parametrului „filter” din URL. De exemplu, următoarea adresă URL:
 
@@ -414,6 +416,8 @@ Atentie la simbolul <b>&</b> din cererea-REST-URL: acesta <b>nu</b> apartine fil
 <b>NB</b>: Puteți filtra numai pe tabelul solicitat (nu pe toate/alte tabelele incluse/din b.d.) și filtrele sunt aplicate numai pentru apelurile pe listă/listare. 
   <hr/><br/>
   </details>
+  <hr/><br/>
+  </details>  
   <details><summary><h3>Selectia coloanelor</h3></summary>
   <br/><hr/>
 În mod implicit, toate coloanele sunt <b>selectate</b>. <br/>
