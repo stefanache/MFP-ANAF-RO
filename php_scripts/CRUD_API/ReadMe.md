@@ -603,7 +603,7 @@ Vedeți că relațiile <b>„belongsTo”</b>(<b>comments</b> -> <b>users</b>) s
   </details>
   <details><summary><h3>Operatiile in lot de lucrari(Batch operations)</h3></summary>
   <br/><hr/>
-Când doriți să <b>creați/adaugati</b>, să <b>citiți</b>, să <b>actualizați</b> sau să </b>ștergeți</b>, puteți specifica <b>mai multe valori ale cheii primare</b> în adresa URL.<br/>
+Când doriți să <b>creați/adaugati</b>, să <b>citiți</b>, să <b>actualizați</b> sau să <b>ștergeți</b>, puteți specifica <b>mai multe valori ale cheii primare</b> în adresa URL.<br/>
 De asemenea, trebuie să trimiteți <b>o matrice</b> în loc de un obiect în corpul solicitării pentru creare și actualizare.
 
 Pentru a <b>citi</b> o înregistrare din acest tabel, cererea poate fi scrisă în format URL ca:
