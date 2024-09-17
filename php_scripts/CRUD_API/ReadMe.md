@@ -719,7 +719,7 @@ method path                  - operation - description
 <b>GET</b>    <b>/geojson/{table}</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- <b>list</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- listeaza inregistrarile/randurile, ca o colectie de caracteristici/trasaturi(<b>GeoJSON FeatureCollection</b>)<br/>      
 <b>GET</b>    <b>/geojson/{table}/{id}</b> - <b>read</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- citeste o inregistrare/rand dupa cheia-primara(<b>id</b>), ca o caracteristica/trasatura(<b>GeoJSON Feature</b>)<br/>
 
-Punctul final „<b>/geojson</b>” folosește „<b>/records</b> ”(punctul final  intern) și moștenește toate funcționalitățile, cum ar fi îmbinările/reunirile(<b>joins</b>) și filtrele.<br/>
+Punctul final „<b>/geojson</b>” folosește „<b>/records</b> ”(punctul final  intern) și moștenește(poseda/are) toate funcționalitățile, cum ar fi îmbinările/reunirile(<b>joins</b>) și <b>filtrele</b>.<br/>
 De asemenea, acceptă un parametru „<b>geometry</b>” pentru a indica denumirea <b>coloanei de geometrie</b>, în cazul în care tabelul are mai multe.<br/>
 Pentru vizualizările hărții acceptă parametrul „<b>bbox</b>”(dreptunghiul de incadrare), în care puteți specifica coordonatele coltului din stânga sus și a coltului din dreapta jos (separate prin virgulă: "<b>,</b>").<br/>
 Următoarele <b>tipuri de geometrie</b> sunt acceptate de implementarea <b>GeoJSON</b>:
