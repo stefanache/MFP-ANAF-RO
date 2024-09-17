@@ -783,7 +783,7 @@ Puteți activa următorul <b>middleware</b> folosind parametrul de configurare �
 „<b>json</b>”: acceptă citirea/scrierea șirurilor JSON ca obiecte/matrice JSON
 „<b>xml</b>”: traduce toate intrările și ieșirile din JSON în XML
 
-Parametrul de configurare „<b>middlewares</b>” este o listă separată prin virgulă de <b>middleware</b>-uri activate.<br/>
+Parametrul de configurare „<b>middlewares</b>” este o listă(separată prin virgulă) de/cu <b>middleware</b>-uri activate.<br/>
 Puteți regla comportamentul <b>middleware</b> folosind <b>parametrii de configurare</b> specifici <b>middleware</b>:<br/>
 
 „<b>firewall.reverseProxy</b>”: Setați la „adevărat” când este utilizat un proxy invers (“”)
@@ -871,7 +871,7 @@ Puteți regla comportamentul <b>middleware</b> folosind <b>parametrii de configu
 „<b>json.columns</b>”: coloane pentru procesarea șirurilor JSON pentru („toate”)<br/>
 „<b>xml.typesv</b>”: tipuri JSON care ar trebui adăugate la atributul de tip XML („null,array”)<br/>
 
-Dacă nu specificați acești parametri în configurație, atunci se folosesc valorile implicite (cele dintre/între paranteze).
+Dacă nu specificați acești parametri în configurație, atunci se folosesc valorile <b>implicite</b> (cele dintre/între paranteze).
 
 În secțiunile de mai jos găsiți mai multe informații despre <b>middleware<br/>-ul încorporat. </pre>
 
