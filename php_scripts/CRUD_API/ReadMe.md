@@ -603,10 +603,10 @@ Vedeți că relațiile <b>„belongsTo”</b>(<b>comments</b> -> <b>users</b>) s
   </details>
   <details><summary><h3>Operatiile in lot de lucrari(Batch operations)</h3></summary>
   <br/><hr/>
-Când doriți să <b>creați/adaugati</b>, să <b>citițiv, să <b>actualizați</b> sau să </b>ștergeți</b>, puteți specifica <b>mai multe valori ale cheii primare</b> în adresa URL.<br/>
+Când doriți să <b>creați/adaugati</b>, să <b>citiți</b>, să <b>actualizați</b> sau să </b>ștergeți</b>, puteți specifica <b>mai multe valori ale cheii primare</b> în adresa URL.<br/>
 De asemenea, trebuie să trimiteți <b>o matrice</b> în loc de un obiect în corpul solicitării pentru creare și actualizare.
 
-Pentru a citi o înregistrare din acest tabel, cererea poate fi scrisă în format URL ca:
+Pentru a <b>citi</b> o înregistrare din acest tabel, cererea poate fi scrisă în format URL ca:
 
     GET /records/posts/1,2
     
@@ -627,7 +627,7 @@ Rezultatul poate fi:
               }
       ]
 
-În mod similar, atunci când doriți să faceți o actualizare în lot, solicitarea în format URL este scrisă ca:
+În mod similar, atunci când doriți să faceți o <b>actualizare</b> în lot, solicitarea în format URL este scrisă ca:
 
     PUT /records/posts/1,2
 
@@ -646,7 +646,7 @@ Corpul ar trebui să conțină același număr de obiecte ca și cheile primare 
 Aceasta ajustează titlurile postărilor. <br/>
 Și valorile returnate sunt <b>numărul de rânduri</b> care sunt setate/afectate:
 
-  [1,1]
+    [1,1]
 
 Ceea ce înseamnă că au fost două operațiuni de actualizare și fiecare dintre ele avea setat câte un rând.<br/>
 Operațiunile în loturi folosesc tranzacții de bază de date, astfel încât fie <b>toate reușesc</b>, fie <b>toate eșuează</b>(cele care au succes sunt anulate).<br/>
@@ -666,7 +666,7 @@ Dacă eșuează, corpul va conține lista documentelor de eroare.<br/>
 
 Codul de stare(<bcode></b>) a răspunsului va fi întotdeauna <b>424</b> (dependență eșuată) în cazul oricărei eșecuri a uneia dintre operațiunile lot.
 
-Pentru a insera mai multe înregistrări în acest tabel, cererea poate fi scrisă în format URL ca:
+Pentru a <b>insera/adauga</b> mai multe înregistrări în acest tabel, cererea poate fi scrisă în format URL ca:
 
     POST /records/posts
 
@@ -687,7 +687,7 @@ Corpul ar trebui să conțină o serie de înregistrări care trebuie inserate:
 
 Valoarea returnată este, de asemenea, o matrice care conține <b>cheile primare</b> ale înregistrărilor nou introduse:
 
-    [1,2]
+      [1,2]
 
 Rețineți că operațiunea batch pentru <b>DELETE</b> urmează același model ca <i>PUT</i>, dar <b>fără corp</b>.   
   <hr/><br/>
