@@ -796,7 +796,7 @@ Puteți regla comportamentul <b>middleware</b> folosind <b>parametrii de configu
 „<b>cors.maxAge</b>”: timpul în care acordarea CORS este valabilă în secunde („1728000”)<br/>
 „<b>xsrf.excludeMethods</b>”: metodele care nu necesită protecție XSRF („OPTIONS,GET”)
 „<b>xsrf.cookieName</b>”: numele cookie-ului de protecție XSRF („XSRF-TOKEN”)
-„<b>xsrf.headerName</b>”: numele antetului de protecție XSRF („X-XSRF-TOKEN”)
+„<b>xsrf.headerName</b>”: numele antetului de protecție XSRF („X-XSRF-TOKEN”)<br/>
 „<b>ajaxOnly.excludeMethods</b>”: metodele care nu necesită AJAX („OPTIONS,GET”)
 "<b>ajaxOnly.headerName</b>": numele antetului necesar ("X-Requested-With")
 "<b>ajaxOnly.headerValue</b>": valoarea antetului necesar ("XMLHttpRequest")<br/>
