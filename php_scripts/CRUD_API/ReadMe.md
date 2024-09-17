@@ -632,7 +632,7 @@ Rezultatul poate fi:
     PUT /records/posts/1,2
 
 Unde „1” și „2” sunt valorile cheilor primare(<b>posts.id</b>) ale înregistrărilor pe care doriți să le actualizați.<br/>
-Corpul ar trebui să conțină același număr de obiecte ca și cheile primare în adresa URL:
+Corpul(cu date de intrare, pe care le transmiteti) ar trebui să conțină același număr de obiecte ca și cheile primare în adresa URL:
 
     [   
         {
@@ -648,7 +648,7 @@ Aceasta ajustează titlurile postărilor. <br/>
 
     [1,1]
 
-Ceea ce înseamnă că au fost două operațiuni de actualizare și fiecare dintre ele avea setat câte un rând.<br/>
+Ceea ce înseamnă că au fost două operațiuni de actualizare și fiecare dintre ele avea setat/a afectat câte un(1) rând.<br/>
 Operațiunile în loturi folosesc tranzacții de bază de date, astfel încât fie <b>toate reușesc</b>, fie <b>toate eșuează</b>(cele care au succes sunt anulate).<br/>
 Dacă eșuează, corpul va conține lista documentelor de eroare.<br/>
 În următorul răspuns, prima operație a reușit și a doua operațiune a lotului <b>a eșuatv din cauza unei <b>încălcări a integrității</b>:
@@ -670,7 +670,7 @@ Pentru a <b>insera/adauga</b> mai multe înregistrări în acest tabel, cererea 
 
     POST /records/posts
 
-Corpul ar trebui să conțină o serie de înregistrări care trebuie inserate:
+Corpul(cu datele de intrare pe care le transmiteti) ar trebui să conțină o serie de înregistrări care trebuie inserate:
 
     [
             {
@@ -685,7 +685,7 @@ Corpul ar trebui să conțină o serie de înregistrări care trebuie inserate:
             }
     ]
 
-Valoarea returnată este, de asemenea, o matrice care conține <b>cheile primare</b> ale înregistrărilor nou introduse:
+Valoarea returnată este, de asemenea, o matrice care conține <b>cheile primare</b> ale înregistrărilor <b>nou</b> introduse:
 
       [1,2]
 
