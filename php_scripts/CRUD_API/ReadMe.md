@@ -716,8 +716,8 @@ Suportul <b>GeoJSON</b> este o vizualizare(deci pt metoda <b>GET</b>) <b>numai �
 
 method path                  - operation - description
 ----------------------------------------------------------------------------------------
-<b>GET</b>    <b>/geojson/{table}</b>      - <b>list</b>      - listeaza inregistrarile/randurile ca o colectie de caracteristici/trasaturi(<b>GeoJSON FeatureCollection</b>)<br/>      
-<b>GET</b>    <b>/geojson/{table}/{id}</b> - <b>read</b>      - citeste o inregistrare/rand dupa cheia-primara ca o caracteristica/trasatura(<b>GeoJSON Feature</b>)<br/>
+<b>GET</b>    <b>/geojson/{table}</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- <b>list</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- listeaza inregistrarile/randurile ca o colectie de caracteristici/trasaturi(<b>GeoJSON FeatureCollection</b>)<br/>      
+<b>GET</b>    <b>/geojson/{table}/{id}</b> - <b>read</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- citeste o inregistrare/rand dupa cheia-primara ca o caracteristica/trasatura(<b>GeoJSON Feature</b>)<br/>
 
 Punctul final „<b>/geojson</b>” folosește „<b>/records</b> ”(punctul final  intern) și moștenește toate funcționalitățile, cum ar fi îmbinările/reunirile(<b>joins</b>) și filtrele.<br/>
 De asemenea, acceptă un parametru „<b>geometry</b>” pentru a indica denumirea <b>coloanei de geometrie</b>, în cazul în care tabelul are mai multe.<br/>
