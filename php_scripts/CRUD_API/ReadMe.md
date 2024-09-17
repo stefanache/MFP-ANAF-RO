@@ -722,7 +722,7 @@ method path                  - operation - description
 
 Punctul final „<b>/geojson</b>” folosește „<b>/records</b> ”(punctul final  intern) și moștenește toate funcționalitățile, cum ar fi îmbinările/reunirile(<b>joins</b>) și filtrele.<br/>
 De asemenea, acceptă un parametru „<b>geometry</b>” pentru a indica denumirea <b>coloanei de geometrie</b>, în cazul în care tabelul are mai multe.<br/>
-Pentru vizualizările hărții acceptă parametrul „<b>bbox</b>”(dreptunghiul de incadrare), în care puteți specifica coordonatele coltului din stânga sus și a coltului din dreapta jos (separate prin virgulă).<br/>
+Pentru vizualizările hărții acceptă parametrul „<b>bbox</b>”(dreptunghiul de incadrare), în care puteți specifica coordonatele coltului din stânga sus și a coltului din dreapta jos (separate prin virgulă: "<b>,</b>").<br/>
 Următoarele <b>tipuri de geometrie</b> sunt acceptate de implementarea <b>GeoJSON</b>:
  
  - <b>Punct</b>
