@@ -696,7 +696,7 @@ Rețineți că operațiunea batch pentru <b>DELETE</b> urmează același model c
   </details>
   <details><summary><h2>Suportul datelor spatiale</h2></summary>
 
-Pentru suport spațial există un set suplimentar de filtre care pot fi aplicate pe coloanele de geometrie și care încep cu un/litera „s”:
+Pentru suport spațial există un set suplimentar de filtre care pot fi aplicate pe coloanele de geometrie și care încep cu un/litera „<b>s</b>”:
 
  - „<b>sco</b>”: spațiul conține (geometria conține o alta)
  - „<b>scr</b>”: încrucișări spațiale (geometria traversează alta)
