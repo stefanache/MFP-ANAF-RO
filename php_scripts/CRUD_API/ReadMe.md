@@ -742,9 +742,16 @@ Funcționalitatea <b>GeoJSON</b> este <b>activată</b> în mod <i><b>implicit</b
   </details>   
   <hr/><br/>
   </details>   
-  <details><summary><h2>Maparea numelor pt sistemele mai vechi</h2></summary>
+  <details><summary><h2>Maparea/Asocierea denumirilor pt sistemele mai vechi</h2></summary>
   <br/><hr/>
-   
+Pentru a sprijini crearea unui <b>API</b>(cum este acesta) pentru (o parte a) unui sistem moștenit (deci mai vechi, cum ar fi Wordpress), poate doriți să mapați/asociati denumirile tabelelor și coloanelor, deoarece nu le puteți îmbunătăți fără a schimba software-ul, în timp ce denumirea ar putea avea nevoie de unele îmbunătățiri pentru consecvență.<br/>
+Configurația vă permite să redenumiți/asociati tabelele și coloanele cu o listă de mapări/asocieri((separate de/prin virgulă) care sunt despărțite cu un semn egal, astfel:
+
+    'mapping' => 'wp_posts=posts,wp_posts.ID=posts.id',
+
+Acest exemplu specific va expune/echivala tabelul "<b>wp_posts</b>" la un punct-final "<b>posts</b>" (deci în loc de "<b>wp_posts</b>") și coloana "<b>ID</b>" din acelasi tabel ca o proprietate denumita "<b>id</b>" (deci cu/în litere mici: "<b>id</b>"  - în loc de -   litere mari: "<b>ID</b>").
+
+NB: Deoarece aceste două mapări/asocieri se <b>suprapun</>, prima mapare(mai puțin specifică; asociere care nu aduce ceva nou fata de urmatoarea asociere) poate fi <b>omisă</b>.   
   <hr/><br/>
   </details>
   <details><summary><h2>Intermediere(Middlereware)</h2></summary>
