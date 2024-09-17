@@ -695,9 +695,7 @@ Rețineți că operațiunea batch pentru <b>DELETE</b> urmează același model c
   <hr/><br/>
   </details>
   <details><summary><h2>Suportul datelor spatiale</h2></summary>
-  <br/><hr/>
-  <details><summary><h3>Suport spatial</h3></summary>
-  <br/><hr/>
+
 Pentru suport spațial există un set suplimentar de filtre care pot fi aplicate pe coloanele de geometrie și care încep cu un „s”:
 
  - „sco”: spațiul conține (geometria conține o alta)
@@ -713,9 +711,7 @@ Pentru suport spațial există un set suplimentar de filtre care pot fi aplicate
  - "siv": spațial este valid (geometria este validă)
 
 Aceste filtre se bazează pe standardele OGC și la fel este și specificația WKT în care sunt reprezentate coloanele de geometrie.<br/>
-Rețineți că SRID-ul care este presupus la conversia de la WKT la geometrie este specificat de variabila de configurare geometry SRID și este implicit 4326 (WGS 84).
-  <hr/><br/>
-  </details>     
+Rețineți că SRID-ul care este presupus la conversia de la WKT la geometrie este specificat de variabila de configurare geometry SRID și este implicit 4326 (WGS 84).    
   <details><summary><h3>GeoJSON</h3></summary>
   <br/><hr/>
 Suportul GeoJSON este o vizualizare numai în citire a tabelelor și înregistrărilor în format GeoJSON. Aceste cereri sunt acceptate:
