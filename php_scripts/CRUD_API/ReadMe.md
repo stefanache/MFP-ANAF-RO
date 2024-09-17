@@ -694,7 +694,7 @@ Rețineți că operațiunea batch pentru <b>DELETE</b> urmează același model c
   </details>
   <details><summary><h3>Suportul datelor spatiale</h3></summary>
 
-Pentru <b>suport spațial</b> există un set suplimentar de <b>filtre</b> care pot fi aplicate pe coloanele/campurile de geometrie și care încep cu un/litera „<b>s</b>”:
+Pentru <b>suport spațial</b> există un set suplimentar de <b>filtre</b> care pot fi aplicate pe <b>coloanele/campurile de geometrie</b> și care încep cu un/litera „<b>s</b>”:
 
  - „<b>sco</b>”: spațiul conține (geometria conține o alta)
  - „<b>scr</b>”: încrucișări spațiale (geometria traversează alta)
@@ -708,11 +708,11 @@ Pentru <b>suport spațial</b> există un set suplimentar de <b>filtre</b> care p
  - „<b>sis</b>”: spațial este simplu (geometria este simplă)
  - "<b>siv</b>": spațial este valid (geometria este validă)
 
-Aceste <b>filtre</b> se bazează pe standardele [OGC](https://ro.wikipedia.org/wiki/Open_Geospatial_Consortium) și la fel este și specificația [WKT](https://en.wikipedia.org/wiki/Well-known_text_representation_of_geometry) în care sunt reprezentate coloanele/campurile de geometrie.<br/>
-Rețineți că [SRID](https://www.alibabacloud.com/blog/an-overview-of-srid-and-coordinate-system_597004)-ul care este presupus la conversia de la [WKT](https://en.wikipedia.org/wiki/Well-known_text_representation_of_geometry) la geometrie este specificat de variabila de configurare <b>geometry</b> [SRID](https://www.gsatsolar.com/support/glossary/srid) și este implicit [4326](https://ro.wikipedia.org/wiki/EPSG_Parametru_Seturi_de_date_Geodezice) ([WGS 84](https://en.wikipedia.org/wiki/World_Geodetic_System)).    
+Aceste <b>filtre</b> se bazează pe standardele [OGC](https://ro.wikipedia.org/wiki/Open_Geospatial_Consortium) și la fel este și specificația [WKT](https://en.wikipedia.org/wiki/Well-known_text_representation_of_geometry), în care sunt reprezentate <b>coloanele/campurile de geometrie</b>.<br/>
+Rețineți că [SRID](https://www.alibabacloud.com/blog/an-overview-of-srid-and-coordinate-system_597004)-ul care este presupus la conversia de la [WKT](https://en.wikipedia.org/wiki/Well-known_text_representation_of_geometry) la <b>geometrie</b> este specificat de variabila de configurare <b>geometry</b>-[SRID](https://www.gsatsolar.com/support/glossary/srid) și este implicit [4326](https://ro.wikipedia.org/wiki/EPSG_Parametru_Seturi_de_date_Geodezice) ([WGS 84](https://en.wikipedia.org/wiki/World_Geodetic_System)).    
   <details><summary><h4>GeoJSON</h4></summary>
   <br/><hr/>
-Suportul <b>GeoJSON</b> este o vizualizare numai în citire a tabelelor și înregistrărilor/randurilor în format GeoJSON.<br/>
+Suportul <b>GeoJSON</b> este o vizualizare <b>numai în citire(GET pt list sau read)</b>a tabelelor și înregistrărilor/randurilor în format <b></b>GeoJSON</b>.<br/>
 Aceste cereri sunt acceptate:
 
 method path                  - operation - description
