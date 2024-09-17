@@ -691,10 +691,8 @@ Valoarea returnată este, de asemenea, o matrice care conține <b>cheile primare
 
 Rețineți că operațiunea batch pentru <b>DELETE</b> urmează același model ca <i>PUT</i>, dar <b>fără corp</b>.   
   <hr/><br/>
-  </details> 
-  <hr/><br/>
   </details>
-  <details><summary><h2>Suportul datelor spatiale</h2></summary>
+  <details><summary><h3>Suportul datelor spatiale</h3></summary>
 
 Pentru suport spațial există un set suplimentar de filtre care pot fi aplicate pe coloanele de geometrie și care încep cu un/litera „<b>s</b>”:
 
@@ -712,7 +710,7 @@ Pentru suport spațial există un set suplimentar de filtre care pot fi aplicate
 
 Aceste filtre se bazează pe standardele [OGC](https://ro.wikipedia.org/wiki/Open_Geospatial_Consortium) și la fel este și specificația [WKT](https://en.wikipedia.org/wiki/Well-known_text_representation_of_geometry) în care sunt reprezentate coloanele de geometrie.<br/>
 Rețineți că [SRID](https://www.alibabacloud.com/blog/an-overview-of-srid-and-coordinate-system_597004)-ul care este presupus la conversia de la [WKT](https://en.wikipedia.org/wiki/Well-known_text_representation_of_geometry) la geometrie este specificat de variabila de configurare geometry [SRID](https://www.gsatsolar.com/support/glossary/srid) și este implicit [4326](https://ro.wikipedia.org/wiki/EPSG_Parametru_Seturi_de_date_Geodezice) ([WGS 84](https://en.wikipedia.org/wiki/World_Geodetic_System)).    
-  <details><summary><h3>GeoJSON</h3></summary>
+  <details><summary><h4>GeoJSON</h4></summary>
   <br/><hr/>
 Suportul <b>GeoJSON</b> este o vizualizare numai în citire a tabelelor și înregistrărilor în format GeoJSON.<br/>
 Aceste cereri sunt acceptate:
@@ -725,7 +723,7 @@ GET    /geojson/{table}/{id} - read      - citeste o inregistrare dupa cheia-pri
 Punctul final „<b>/geojson</b>” folosește „<b>/records</b> ” punctul final  intern și moștenește toate funcționalitățile, cum ar fi îmbinările/reunirile(<b>joins</b>) și filtrele.<br/>
 De asemenea, acceptă un parametru „<b>geometry</b>” pentru a indica numele coloanei de geometrie în cazul în care tabelul are mai multe.<br/>
 Pentru vizualizările hărții acceptă parametrul „<b>bbox</b>”(dreptunghiul de incadrare) în care puteți specifica coordonatele din stânga sus și din dreapta jos (separate prin virgulă).<br/>
-Următoarele tipuri de geometrie sunt acceptate de implementarea GeoJSON:
+Următoarele <b>tipuri de geometrie</b> sunt acceptate de implementarea <b>GeoJSON</b>:
  
  - <b>Punct</b>
  - <b>MultiPoint</b>
@@ -736,7 +734,9 @@ Următoarele tipuri de geometrie sunt acceptate de implementarea GeoJSON:
 
 Funcționalitatea <b>GeoJSON</b> este activată în mod implicit, dar poate fi dezactivată folosind configurația „<b>controllers</b>”.   
   <hr/><br/>
-  </details>    
+  </details>   
+  <hr/><br/>
+  </details>   
   <hr/><br/>
   </details>   
   <details><summary><h2>Maparea numelor pt sistemele mai vechi</h2></summary>
