@@ -757,6 +757,120 @@ Deoarece aceste două mapări/asocieri/echivalări(separate de "<b>,</b>") se <b
   </details>
   <details><summary><h2>Intermediere(Middlereware)</h2></summary>
   <br/><hr/>
+Puteți activa următorul middleware folosind parametrul de configurare „middlewares”:
+
+„firewall”: Limitați accesul la anumite adrese IP
+„sslRedirect”: Forțați conexiunea prin HTTPS în loc de HTTP
+„cors”: suport pentru solicitările CORS (activat implicit)
+„xsrf”: blocați atacurile XSRF folosind metoda „Double Submit Cookie”.
+„ajaxOnly”: restricționați solicitările non-AJAX pentru a preveni atacurile XSRF
+„apiKeyAuth”: suport pentru „Autentificarea cheii API”
+„apiKeyDbAuth”: Suport pentru „Autentificarea bazei de date cheie API”
+„dbAuth”: suport pentru „Autentificarea bazei de date”
+„wpAuth”: suport pentru „Autentificare Wordpress”
+„jwtAuth”: suport pentru „Autentificare JWT”
+„basicAuth”: suport pentru „Autentificare de bază”
+"reconnect": Reconectați-vă la baza de date cu parametri diferiți
+„autorizare”: restricționează accesul la anumite tabele sau coloane
+„validare”: returnează erorile de validare a intrării pentru regulile personalizate și regulile de tip implicite
+„ipAddress”: completați un câmp protejat cu adresa IP la creare
+„sanitație”: Aplicați igienizarea de intrare la crearea și actualizarea
+„multiTenancy”: restricționează accesul chiriașilor într-un scenariu cu mai mulți chiriași
+„pageLimits”: Restricționează operațiunile de listă pentru a preveni eliminarea bazei de date
+„joinLimits”: restricționează parametrii de îmbinare pentru a preveni scrapingul bazei de date
+„textSearch”: Căutați în toate câmpurile de text cu un parametru simplu
+„personalizare”: Oferă handler pentru personalizarea cererilor și răspunsurilor
+„json”: acceptă citirea/scrierea șirurilor JSON ca obiecte/matrice JSON
+„xml”: traduce toate intrările și ieșirile din JSON în XML
+Parametrul de configurare „middlewares” este o listă separată prin virgulă de middleware-uri activate. Puteți regla comportamentul middleware folosind parametrii de configurare specifici middleware:
+
+„firewall.reverseProxy”: Setați la „adevărat” când este utilizat un proxy invers (“”)
+„firewall.allowedIpAddresses”: Listă de adrese IP cărora li se permite conectarea („”)
+„cors.allowedOrigins”: originile permise în antetele CORS ("*")
+„cors.allowHeaders”: anteturile permise în cererea CORS („Content-Type, X-XSRF-TOKEN, X-Authorization”)
+„cors.allowMethods”: Metodele permise în cererea CORS („OPTIONS, GET, PUT, POST, DELETE, PATCH”)
+„cors.allowCredentials”: ​​pentru a permite acreditările în cererea CORS („adevărat”)
+„cors.exposeHeaders”: anteturile din lista albă pe care browserele au voie să le acceseze ("")
+„cors.maxAge”: timpul în care acordarea CORS este valabilă în secunde („1728000”)
+„xsrf.excludeMethods”: metodele care nu necesită protecție XSRF („OPTIONS,GET”)
+„xsrf.cookieName”: numele cookie-ului de protecție XSRF („XSRF-TOKEN”)
+„xsrf.headerName”: numele antetului de protecție XSRF („X-XSRF-TOKEN”)
+„ajaxOnly.excludeMethods”: metodele care nu necesită AJAX („OPTIONS,GET”)
+"ajaxOnly.headerName": numele antetului necesar ("X-Requested-With")
+"ajaxOnly.headerValue": valoarea antetului necesar ("XMLHttpRequest")
+„apiKeyAuth.mode”: Setați la „opțional” dacă doriți să permiteți accesul anonim („obligatoriu”)
+„apiKeyAuth.header”: numele antetului cheii API („X-API-Key”)
+„apiKeyAuth.keys”: Listă de chei API care sunt valide ("")
+„apiKeyDbAuth.mode”: Setați la „opțional” dacă doriți să permiteți accesul anonim („obligatoriu”)
+„apiKeyDbAuth.header”: numele antetului cheii API („X-API-Key”)
+„apiKeyDbAuth.usersTable”: tabelul care este folosit pentru a stoca utilizatorii în („utilizatori”)
+„apiKeyDbAuth.apiKeyColumn”: coloana tabelului utilizatorilor care deține cheia API („api_key”)
+„dbAuth.mode”: Setați la „opțional” dacă doriți să permiteți accesul anonim („obligatoriu”)
+„dbAuth.usersTable”: tabelul care este folosit pentru a stoca utilizatorii în („utilizatori”)
+„dbAuth.loginTable”: tabelul sau vizualizarea care este utilizată pentru a prelua informațiile utilizatorilor pentru autentificare („utilizatori”)
+„dbAuth.usernameColumn”: coloana tabelului utilizatori care conține nume de utilizator („nume utilizator”)
+„dbAuth.passwordColumn”: coloana tabelului utilizatori care conține parole („parolă”)
+„dbAuth.returnedColumns”: coloanele returnate la autentificare cu succes, gol înseamnă „toate” („”)
+„dbAuth.usernameFormField”: numele câmpului de formular care conține numele de utilizator („nume de utilizator”)
+„dbAuth.passwordFormField”: numele câmpului formularului care deține parola („parolă”)
+„dbAuth.newPasswordFormField”: numele câmpului de formular care conține noua parolă („newPassword”)
+„dbAuth.registerUser”: date de utilizator JSON (sau „1”) în cazul în care doriți ca punctul final /register să fie activat („”)
+„dbAuth.loginAfterRegistration”: 1 sau zero dacă utilizatorii înregistrați ar trebui să fie autentificați după înregistrare („”)
+„dbAuth.passwordLength”: lungimea minimă pe care trebuie să o aibă parola („12”)
+„dbAuth.sessionName”: numele sesiunii PHP care este pornită („”)
+„wpAuth.mode”: Setați la „opțional” dacă doriți să permiteți accesul anonim („obligatoriu”)
+"wpAuth.wpDirectory": folderul/calea unde poate fi găsită instalarea Wordpress ("".")
+„wpAuth.usernameFormField”: numele câmpului de formular care conține numele de utilizator („nume de utilizator”)
+„wpAuth.passwordFormField”: numele câmpului formularului care conține parola („parolă”)
+„jwtAuth.mode”: Setați la „opțional” dacă doriți să permiteți accesul anonim („obligatoriu”)
+„jwtAuth.header”: numele antetului care conține simbolul JWT („X-Authorization”)
+„jwtAuth.leeway”: numărul acceptabil de secunde de înclinare a ceasului („5”)
+„jwtAuth.ttl”: numărul de secunde în care simbolul este valid („30”)
+„jwtAuth.secrets”: Secretul(ele) partajat(e) folosit(e) pentru a semna simbolul JWT cu ("")
+"jwtAuth.algorithms": algoritmii care sunt permisi, gol înseamnă "toți" ("")
+„jwtAuth.audiences”: segmentele de public permise, gol înseamnă „toate” („”)
+„jwtAuth.issuers”: emitenții care sunt permisi, gol înseamnă „toți” („”)
+„jwtAuth.sessionName”: numele sesiunii PHP care este începută („”)
+„basicAuth.mode”: Setați la „opțional” dacă doriți să permiteți accesul anonim („obligatoriu”)
+„basicAuth.realm”: Text pentru a solicita când se afișează autentificare („Numele de utilizator și parola sunt necesare”)
+"basicAuth.passwordFile": fișierul de citit pentru combinațiile nume de utilizator/parolă (".htpasswd")
+„basicAuth.sessionName”: numele sesiunii PHP care este începută („”)
+"reconnect.driverHandler": Handler pentru a implementa preluarea driverului bazei de date ("")
+"reconnect.addressHandler": Handler pentru a implementa preluarea adresei bazei de date ("")
+"reconnect.portHandler": Handler pentru a implementa preluarea portului bazei de date ("")
+"reconnect.databaseHandler": Handler pentru a implementa preluarea numelui bazei de date ("")
+"reconnect.tablesHandler": Handler pentru a implementa preluarea numelor de tabel ("")
+"reconnect.mappingHandler": Handler pentru a implementa preluarea mapării numelor ("")
+"reconnect.usernameHandler": Handler pentru a implementa preluarea numelui de utilizator al bazei de date ("")
+"reconnect.passwordHandler": Handler pentru a implementa regăsirea parolei bazei de date ("")
+"authorization.tableHandler": Handler pentru a implementa regulile de autorizare a tabelelor ("")
+"authorization.columnHandler": Handler pentru a implementa regulile de autorizare a coloanei ("")
+"authorization.pathHandler": Handler pentru a implementa regulile de autorizare a căii ("")
+"authorization.recordHandler": Handler pentru a implementa regulile de filtrare a autorizației de înregistrare ("")
+"validation.handler": Handler pentru a implementa reguli de validare pentru valorile de intrare ("")
+„validation.types”: tipuri pentru care să se permită validarea tipului, gol înseamnă „niciunul” („toate”)
+„validation.tables”: tabele pentru care să se permită validarea tipului, gol înseamnă „niciunul” („toate”)
+„ipAddress.tables”: tabele pentru a căuta coloane pe care să le înlocuiți cu adresa IP ("")
+„ipAddress.columns”: coloane de protejat și de înlocuit cu adresa IP la creare („”)
+"sanitation.handler": Handler pentru a implementa regulile de salubrizare pentru valorile de intrare ("")
+„sanitation.types”: Tipuri pentru a activa tipul de salubrizare, gol înseamnă „niciunul” („toate”)
+„sanitation.tables”: tabele pentru a permite tipul de salubrizare, gol înseamnă „niciunul” („toate”)
+"multiTenancy.handler": Handler pentru a implementa reguli simple de închiriere multiplă ("")
+„pageLimits.pages”: numărul maxim de pagini pe care îl permite o operație de listă („100”)
+„pageLimits.records”: numărul maxim de înregistrări returnate de o operație de listă („1000”)
+„joinLimits.depth”: adâncimea (lungimea) maximă care este permisă într-o cale de îmbinare („3”)
+„joinLimits.tables”: numărul maxim de mese la care vi se permite să vă alăturați („10”)
+„joinLimits.records”: numărul maxim de înregistrări returnate pentru o entitate asociată („1000”)
+„textSearch.parameter”: numele parametrului folosit pentru termenul de căutare („căutare”)
+"customization.beforeHandler": Handler pentru a implementa personalizarea cererii ("")
+"customization.afterHandler": Handler pentru a implementa personalizarea răspunsului ("")
+„json.controllers”: controlere pentru procesarea șirurilor JSON pentru („records,geojson”)
+„json.tables”: tabele pentru procesarea șirurilor JSON pentru („toate”)
+„json.columns”: coloane pentru procesarea șirurilor JSON pentru („toate”)
+„xml.types”: tipuri JSON care ar trebui adăugate la atributul de tip XML („null,array”)
+Dacă nu specificați acești parametri în configurație, atunci se folosesc valorile implicite (între paranteze).
+
+În secțiunile de mai jos găsiți mai multe informații despre middleware-ul încorporat.    
   <details><summary><h3>Autentificari</h3></summary>
   <br/><hr/>
   <details><summary><h4>Autentificare</h4></summary>
