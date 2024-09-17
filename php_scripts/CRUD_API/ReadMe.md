@@ -756,7 +756,9 @@ Deoarece aceste două mapări/asocieri/echivalări(separate de "<b>,</b>") se <b
   <hr/><br/>
   </details>
   <details><summary><h2>Intermediere(Middlereware)</h2></summary>
-  <br/><hr/><pre>
+  <br/><hr/>
+  <details><summary><h3>Middlerewares</h3></summary>
+  <br/><hr/><pre>    
 Puteți activa următorul <b>middleware</b> folosind parametrul de configurare „<b>middlewares</b>”:<br/>
 
  - „<b>firewall</b>”: Limitați accesul la anumite adrese <a href="https://en.wikipedia.org/wiki/IP_address">IP</a>
@@ -781,8 +783,9 @@ Puteți activa următorul <b>middleware</b> folosind parametrul de configurare �
  - „<b>textSearch</b>”: Căutați în toate câmpurile de text cu un parametru simplu
  - „<b>customization</b>”: Oferă handler pentru personalizarea cererilor și răspunsurilor
  - „<b>json</b>”: acceptă citirea/scrierea șirurilor <a href="https://en.wikipedia.org/wiki/JSON">JSON</a> ca obiecte/matrice <a href="https://en.wikipedia.org/wiki/JSON">JSON</a>
- - „<b>xml</b>”: traduce toate intrările și ieșirile din <a href="https://en.wikipedia.org/wiki/JSON">JSON</a> în <a href="https://en.wikipedia.org/wiki/XML">XML</a>
-
+ - „<b>xml</b>”: traduce toate intrările și ieșirile din <a href="https://en.wikipedia.org/wiki/JSON">JSON</a> în <a href="https://en.wikipedia.org/wiki/XML">XML</a></pre>
+  <details><summary><h4>Parametrii de configure pt Middlerewares</h4></summary>
+  <br/><hr/><pre> 
 Parametrul de configurare „<b>middlewares</b>” este o listă(separată prin virgulă) de/cu <b>middleware</b>-uri activate.<br/>
 Puteți regla comportamentul <b>middleware</b> folosind <b>parametrii de configurare</b> specifici <b>middleware</b>-ului aferent:<br/>
 
@@ -874,7 +877,10 @@ Puteți regla comportamentul <b>middleware</b> folosind <b>parametrii de configu
 Dacă nu specificați acești parametri în configurație, atunci se folosesc valorile <b>implicite</b> (cele dintre/între paranteze).
 
 În secțiunile de mai jos găsiți mai multe informații despre <b>middleware</b>-ul încorporat. 
-
+  <hr/><br/>
+  </details> 
+  <hr/><br/>
+  </details> 
   <details><summary><h3>Autentificari</h3></summary>
   <br/><hr/>
   <details><summary><h4>Autentificare</h4></summary>
