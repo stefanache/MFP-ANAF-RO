@@ -760,15 +760,15 @@ Deoarece aceste două mapări/asocieri/echivalări(separate de "<b>,</b>") se <b
 Puteți activa următorul <b>middleware</b> folosind parametrul de configurare „<b>middlewares</b>”:<br/>
 
  - „<b>firewall</b>”: Limitați accesul la anumite adrese IP
- - „<b>sslRedirect</b>”: Forțați conexiunea prin HTTPS în loc de HTTP
- - „<b>cors</b>”: suport pentru solicitările CORS (activat implicit)
- - „<b>xsrf</b>”: blocați atacurile XSRF folosind metoda „Double Submit Cookie”.
- - „<b>ajaxOnly</b>”: restricționați solicitările non-AJAX pentru a preveni atacurile XSRF
+ - „<b>sslRedirect</b>”: Forțați conexiunea prin <a href="https://ro.wikipedia.org/wiki/HTTPS">HTTPS</a> în loc de <a href="https://en.wikipedia.org/wiki/HTTP">HTTP</a>
+ - „<b>cors</b>”: suport pentru solicitările <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS">CORS</a> (activat implicit)
+ - „<b>xsrf</b>”: blocați atacurile <a href="https://en.wikipedia.org/wiki/Cross-site_request_forgery">XSRF</a> folosind metoda „Double Submit Cookie”.
+ - „<b>ajaxOnly</b>”: restricționați solicitările non-AJAX pentru a preveni atacurile <a href="https://en.wikipedia.org/wiki/Cross-site_request_forgery">XSRF</a>
  - „<b>apiKeyAuth</b>”: suport pentru „Autentificarea cheii API”
  - „<b>apiKeyDbAuth</b>”: Suport pentru „Autentificarea bazei de date cheie API”
  - „<b>dbAuth</b>”: suport pentru „Autentificarea bazei de date”
  - „<b>wpAuth</b>”: suport pentru „Autentificare Wordpress”
- - „<b>jwtAuth</b>”: suport pentru „Autentificare JWT”
+ - „<b>jwtAuth</b>”: suport pentru „Autentificare <a href="https://en.wikipedia.org/wiki/JSON_Web_Token">JWT</a>”
  - „<b>basicAuth</b>”: suport pentru „Autentificare de bază”
  - "<b>reconnect</b>": Reconectați-vă la baza de date cu parametri diferiți
  - „<b>autorization</b>”: restricționează accesul la anumite tabele sau coloane
@@ -780,8 +780,8 @@ Puteți activa următorul <b>middleware</b> folosind parametrul de configurare �
  - „<b>joinLimits</b>”: restricționează parametrii de îmbinare pentru a preveni scrapingul bazei de date
  - „<b>textSearch</b>”: Căutați în toate câmpurile de text cu un parametru simplu
  - „<b>customization</b>”: Oferă handler pentru personalizarea cererilor și răspunsurilor
- - „<b>json</b>”: acceptă citirea/scrierea șirurilor JSON ca obiecte/matrice JSON
- - „<b>xml</b>”: traduce toate intrările și ieșirile din JSON în XML
+ - „<b>json</b>”: acceptă citirea/scrierea șirurilor <a href="https://en.wikipedia.org/wiki/JSON">JSON</a> ca obiecte/matrice <a href="https://en.wikipedia.org/wiki/JSON">JSON</a>
+ - „<b>xml</b>”: traduce toate intrările și ieșirile din <a href="https://en.wikipedia.org/wiki/JSON">JSON</a> în <a href="https://en.wikipedia.org/wiki/XML">XML</a>
 
 Parametrul de configurare „<b>middlewares</b>” este o listă(separată prin virgulă) de/cu <b>middleware</b>-uri activate.<br/>
 Puteți regla comportamentul <b>middleware</b> folosind <b>parametrii de configurare</b> specifici <b>middleware</b>:<br/>
