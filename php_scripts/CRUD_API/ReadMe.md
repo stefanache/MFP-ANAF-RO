@@ -732,7 +732,7 @@ Următoarele <b>tipuri de geometrie</b> sunt acceptate de implementarea <b>GeoJS
  - <b>Poligon</b>
  - <b>Multipoligon</b>
 
-Funcționalitatea <b>GeoJSON</b> este activată în mod implicit, dar poate fi dezactivată folosind configurația „<b>controllers</b>”.   
+Funcționalitatea <b>GeoJSON</b> este <b>activată</b> în mod <i><b>implicit</b></i>, dar poate fi <b>dezactivată</b> folosind configurația „<i><b>controllers</b></i>”.   
   <hr/><br/>
   </details>   
   <hr/><br/>
