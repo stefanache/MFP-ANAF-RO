@@ -517,7 +517,7 @@ Deoarece paginile care nu sunt ordonate nu pot fi paginate, paginile vor fi ordo
 
   <hr/><br/>
   </details> 
-  <details><summary><h3>Reunirile/Alaturarile de tabele(Joins)</h3></summary>
+  <details><summary><h3>Reunirile/Alaturarile/Imbinarile de tabele(Joins)</h3></summary>
   <br/><hr/>
 Să presupunem că aveți un tabel de postări(<b>posts</b>) care conțin comentarii (efectuate de catre utilizatori) iar postările pot avea etichete.
 
