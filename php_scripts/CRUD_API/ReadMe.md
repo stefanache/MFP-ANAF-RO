@@ -757,7 +757,7 @@ Deoarece aceste două mapări/asocieri/echivalări(separate de "<b>,</b>") se <b
   </details>
   <details><summary><h2>Intermediere(Middlereware)</h2></summary>
   <br/><hr/>
-  <details><summary><h3>Middlerewares</h3></summary>
+  <details><summary><h3>Intermediari/Mijlocitori/Brokeri/Proxy-uri pt/de suport(Middlerewares)</h3></summary>
   <br/><hr/><pre>    
 Puteți activa următorul <b>middleware</b> folosind parametrul de configurare „<b>middlewares</b>”:<br/>
 
