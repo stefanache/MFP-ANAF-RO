@@ -928,48 +928,50 @@ Dacă nu specificați acești parametri în configurație, atunci se folosesc va
   </details>  
   <hr/><br/> 
   </details>
-  <details><summary><h3>Autorizarea operatiilor</h3></summary>
+  <details><summary><h3>Autorizari</h3></summary>
+  <br/><hr/>
+  <details><summary><h4>Autorizarea operatiilor</h4></summary>
   <br/><hr/>
    
   <hr/><br/>
   </details>
-  <details><summary><h3>Autorizarea tabelelor,coloanelor si inregistrarilor/randurilor</h3></summary>
+  <details><summary><h4>Autorizarea tabelelor,coloanelor si inregistrarilor/randurilor</h4></summary>
   <br/><hr/>
    
   <hr/><br/>
   </details>
-  <details><summary><h3>Autorizarea SQL GRANT</h3></summary>
+  <details><summary><h4>Autorizarea SQL GRANT</h4></summary>
   <br/><hr/>
    
+  <hr/><br/>
+  </details> 
   <hr/><br/>
   </details> 
   <details><summary><h3>Sanitizarea intrarii</h3></summary>
   <br/><hr/>
-   
-  <hr/><br/>
-  </details>
-  <details><summary><h3>Tipul sanitizarii</h3></summary>
+    
+  <details><summary><h4>Tipul sanitizarii</h4></summary>
   <br/><hr/>
    
   <hr/><br/>
+  </details>   
+  <hr/><br/>
   </details>
+
   <details><summary><h3>Validarea intrarii</h3></summary>
   <br/><hr/>
-   
-  <hr/><br/>
-  </details>
-  <details><summary><h3>Tipuri de validari</h3></summary>
+
+  <details><summary><h4>Tipuri de validari</h4></summary>
   <br/><hr/>
    
   <hr/><br/>
+  </details>   
+  <hr/><br/>
   </details>
+
   <details><summary><h3>Suport multi-chirias(multi-tenancy)</h3></summary>
   <br/><hr/>
-  <details><summary><h4>Suport "multi-chirias"</h4></summary>
-  <br/><hr/>
-   
-  <hr/><br/>
-  </details> 
+
   <details><summary><h4>Intermediar multi-chirias(multi-tenancy middleware)</h4></summary>
   <br/><hr/>
    
