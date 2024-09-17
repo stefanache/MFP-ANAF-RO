@@ -714,26 +714,27 @@ Aceste filtre se bazează pe standardele [OGC](https://ro.wikipedia.org/wiki/Ope
 Rețineți că [SRID](https://www.alibabacloud.com/blog/an-overview-of-srid-and-coordinate-system_597004)-ul care este presupus la conversia de la [WKT](https://en.wikipedia.org/wiki/Well-known_text_representation_of_geometry) la geometrie este specificat de variabila de configurare geometry [SRID](https://www.gsatsolar.com/support/glossary/srid) și este implicit [4326](https://ro.wikipedia.org/wiki/EPSG_Parametru_Seturi_de_date_Geodezice) ([WGS 84](https://en.wikipedia.org/wiki/World_Geodetic_System)).    
   <details><summary><h3>GeoJSON</h3></summary>
   <br/><hr/>
-Suportul GeoJSON este o vizualizare numai în citire a tabelelor și înregistrărilor în format GeoJSON. Aceste cereri sunt acceptate:
+Suportul <b>GeoJSON</b> este o vizualizare numai în citire a tabelelor și înregistrărilor în format GeoJSON.<br/>
+Aceste cereri sunt acceptate:
 
 method path                  - operation - description
 ----------------------------------------------------------------------------------------
-GET    /geojson/{table}      - list      - lists records as a GeoJSON FeatureCollection
-GET    /geojson/{table}/{id} - read      - reads a record by primary key as a GeoJSON Feature
+GET    /geojson/{table}      - list      - lists records as a <b>GeoJSON FeatureCollection</b>
+GET    /geojson/{table}/{id} - read      - reads a record by primary key as a <b>GeoJSON Feature</b>
 
-Punctul final „/geojson” folosește „/records ” punctul final  intern și moștenește toate funcționalitățile, cum ar fi îmbinările/reunirile(joins) și filtrele.<br/>
-De asemenea, acceptă un parametru „geometry” pentru a indica numele coloanei de geometrie în cazul în care tabelul are mai multe.<br/>
-Pentru vizualizările hărții acceptă parametrul „bbox”(dreptunghiul de incadrare) în care puteți specifica coordonatele din stânga sus și din dreapta jos (separate prin virgulă).<br/>
+Punctul final „<b>/geojson</b>” folosește „<b>/records</b> ” punctul final  intern și moștenește toate funcționalitățile, cum ar fi îmbinările/reunirile(<b>joins</b>) și filtrele.<br/>
+De asemenea, acceptă un parametru „<b>geometry</b>” pentru a indica numele coloanei de geometrie în cazul în care tabelul are mai multe.<br/>
+Pentru vizualizările hărții acceptă parametrul „<b>bbox</b>”(dreptunghiul de incadrare) în care puteți specifica coordonatele din stânga sus și din dreapta jos (separate prin virgulă).<br/>
 Următoarele tipuri de geometrie sunt acceptate de implementarea GeoJSON:
  
- - Punct
- - MultiPoint
- - LineString
- - MultiLineString
- - Poligon
- - Multipoligon
+ - <b>Punct</b>
+ - <b>MultiPoint</b>
+ - <b>LineString</b>
+ - <b>MultiLineString</b>
+ - <b>Poligon</b>
+ - <b>Multipoligon</b>
 
-Funcționalitatea GeoJSON este activată în mod implicit, dar poate fi dezactivată folosind configurația „controllers”.   
+Funcționalitatea <b>GeoJSON este activată în mod implicit, dar poate fi dezactivată folosind configurația „<b>controllers</b>”.   
   <hr/><br/>
   </details>    
   <hr/><br/>
