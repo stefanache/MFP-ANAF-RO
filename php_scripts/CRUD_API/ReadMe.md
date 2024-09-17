@@ -719,8 +719,8 @@ Aceste cereri sunt acceptate:
 
 method path                  - operation - description
 ----------------------------------------------------------------------------------------
-GET    /geojson/{table}      - list      - lists records as a <b>GeoJSON FeatureCollection</b>
-GET    /geojson/{table}/{id} - read      - reads a record by primary key as a <b>GeoJSON Feature</b>
+GET    /geojson/{table}      - list      - listeaza inregistrarile/randurile ca o colectie GeoJSON de caracteristi/trasaturi(<b>GeoJSON FeatureCollection</b>)
+GET    /geojson/{table}/{id} - read      - citeste o inregistrare dupa cheia-primara ca o caracteristica/trasatura GeoJSON(<b>GeoJSON Feature</b>)
 
 Punctul final „<b>/geojson</b>” folosește „<b>/records</b> ” punctul final  intern și moștenește toate funcționalitățile, cum ar fi îmbinările/reunirile(<b>joins</b>) și filtrele.<br/>
 De asemenea, acceptă un parametru „<b>geometry</b>” pentru a indica numele coloanei de geometrie în cazul în care tabelul are mai multe.<br/>
@@ -734,7 +734,7 @@ Următoarele tipuri de geometrie sunt acceptate de implementarea GeoJSON:
  - <b>Poligon</b>
  - <b>Multipoligon</b>
 
-Funcționalitatea <b>GeoJSON este activată în mod implicit, dar poate fi dezactivată folosind configurația „<b>controllers</b>”.   
+Funcționalitatea <b>GeoJSON</b> este activată în mod implicit, dar poate fi dezactivată folosind configurația „<b>controllers</b>”.   
   <hr/><br/>
   </details>    
   <hr/><br/>
