@@ -809,7 +809,7 @@ Puteți regla comportamentul <b>middleware</b> folosind <b>parametrii de configu
 „<b>apiKeyDbAuth.apiKeyColumn</b>”: coloana tabelului utilizatorilor care deține cheia API („api_key”)<br/>
 „<b>dbAuth.mode</b>”: Setați la „opțional” dacă doriți să permiteți accesul anonim („obligatoriu”)
 „<b>dbAuth.usersTable</b>”: tabelul care este folosit pentru a stoca utilizatorii în („utilizatori”)
-„<b>dbAuth.loginTable</b>”: tabelul sau vizualizarea care este utilizată pentru a prelua informațiile utilizatorilor pentru autentificare („utilizatori”)
+„<b>dbAuth.loginTable</b>”: tabelul sau viz.-rea care este utilizată pt.a prelua info.-le utiliz-lor pt.autentificare („utilizatori”)
 „<b>dbAuth.usernameColumn</b>”: coloana tabelului utilizatori care conține nume de utilizator („nume utilizator”)
 „<b>dbAuth.passwordColumn</b>”: coloana tabelului utilizatori care conține parole („parolă”)
 „<b>dbAuth.returnedColumns</b>”: coloanele returnate la autentificare cu succes, gol înseamnă „toate” („”)
