@@ -756,7 +756,7 @@ Deoarece aceste două mapări/asocieri/echivalări(separate de "<b>,</b>") se <b
   <hr/><br/>
   </details>
   <details><summary><h2>Intermediere(Middlereware)</h2></summary>
-  <br/><hr/>
+  <br/><hr/><pre>
 Puteți activa următorul middleware folosind parametrul de configurare „middlewares”:
 
 „firewall”: Limitați accesul la anumite adrese IP
@@ -870,7 +870,8 @@ Parametrul de configurare „middlewares” este o listă separată prin virgul�
 „xml.types”: tipuri JSON care ar trebui adăugate la atributul de tip XML („null,array”)
 Dacă nu specificați acești parametri în configurație, atunci se folosesc valorile implicite (între paranteze).
 
-În secțiunile de mai jos găsiți mai multe informații despre middleware-ul încorporat.    
+În secțiunile de mai jos găsiți mai multe informații despre middleware-ul încorporat. </pre>
+
   <details><summary><h3>Autentificari</h3></summary>
   <br/><hr/>
   <details><summary><h4>Autentificare</h4></summary>
