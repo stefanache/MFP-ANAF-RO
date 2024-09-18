@@ -757,7 +757,7 @@ Acest exemplu specific va expune/echivala/asocia/arata tabelul "<b>wp_posts</b>"
 Deoarece aceste două mapări/asocieri/echivalări(separate de "<b>,</b>") se <b>suprapun</b>, prima mapare(mai puțin specifică) poate fi <b>omisă</b>(asadar, prima asociere/egalitate nu aduce ceva nou/in plus fată de următoarea asociere/egalitate, astfel incat aceasta poate lipsi, deoarece cu usurintă si in mod automat, această prima asociere, se subintelege sau poate fi dedusă).   
   <hr/><br/>
   </details>
-  <details><summary><h2>Intermediere(Middlereware)</h2></summary>
+  <details><summary><h2>Intermediere(Middleware)</h2></summary>
   <br/><hr/>
   <details><summary><h3>Intermediari/Mijlocitori/Brokeri/Proxy-uri pt/de suport(Middlewares)</h3></summary>
   <br/><hr/><pre>    
