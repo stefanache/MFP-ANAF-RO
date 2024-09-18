@@ -784,6 +784,7 @@ Puteți activa următorul <b>middleware</b> folosind parametrul de configurare �
  - „<b>customization</b>”: Oferă handler pentru personalizarea cererilor și răspunsurilor
  - „<b>json</b>”: acceptă citirea/scrierea șirurilor <a href="https://en.wikipedia.org/wiki/JSON">JSON</a> ca obiecte/matrice <a href="https://en.wikipedia.org/wiki/JSON">JSON</a>
  - „<b>xml</b>”: traduce toate intrările și ieșirile din <a href="https://en.wikipedia.org/wiki/JSON">JSON</a> în <a href="https://en.wikipedia.org/wiki/XML">XML</a></pre>
+ 
   <details><summary><h4>Parametrii de configure pt Middlerewares</h4></summary>
   <br/><hr/><pre> 
 Parametrul de configurare „<b>middlewares</b>” este o listă(separată prin virgulă) de/cu <b>middleware</b>-uri activate.<br/>
@@ -878,12 +879,11 @@ Dacă nu specificați acești parametri în configurație, atunci se folosesc va
 
 În secțiunile de mai jos găsiți mai multe informații despre <b>middleware</b>-ul încorporat. 
   <hr/><br/>
-  </details> 
+  </details> <!--h4--> 
   <hr/><br/> 
-  </details>
+  </details> <!--h3--> 
   <details><summary><h3>Autentificari</h3></summary>
-  <br/><hr/>
-    
+  <br/><hr/>   
   <details><summary><h4>Autentificare</h4></summary>
   <br/><hr/>
   În prezent, sunt acceptate cinci(<b>5</b>) <b>tipuri de autentificare</b>.<br/>
@@ -943,7 +943,7 @@ Dacă nu specificați acești parametri în configurație, atunci se folosesc va
     </center><br/>
     Mai jos găsiți mai multe informații despre fiecare dintre tipurile de autentificare.
   <hr/><br/>
-  </details>
+  </details> <!--h4--> 
   
   <details><summary><h4>Autentificare cu cheie-API(API-key)</h4></summary>
   <br/><hr/>
@@ -953,15 +953,15 @@ Cheile API valide trebuie configurate folosind parametrul de configurare <b>„a
 
     X-API-Key: 02c042aa-c3c2-4d11-9dae-1a6e230ea95e
 
-Cheia API autentificată va fi <u>stocată</b> în variabila <b>$_SESSION['apiKey']</b>.
+Cheia API autentificată va fi <u>stocată</u> în variabila <b>$_SESSION['apiKey']</b>.
 
 Rețineți că autentificarea cheii API <u>nu necesită</u> și <u>nu utilizează</u> module <b>cookie de sesiune</b>.   
   <hr/><br/>
-  </details>
+  </details> <!--h4--> 
   
   <details><summary><h4>Autentificare Bazei de Date cu cheie-API(API-key)</h4></summary>
   <br/><hr/>
-Autentificarea <b>bazei-de-date cu chei-API</b> funcționează prin <u>trimiterea</u> unei <b>chei API</b> într-un antet de solicitare </b>„X-API-Key”</b> (numele este configurabil).<br/>
+Autentificarea <b>bazei-de-date cu chei-API</b> funcționează prin <u>trimiterea</u> unei <b>chei API</b> într-un antet de solicitare <b>„X-API-Key”</b> (numele este configurabil).<br/>
 Cheile API valide sunt <u>citite</u> din baza de date din coloana <b>„api_key”</b> a tabelului <b>„utilizatori”</b> (ambele denumiri sunt configurabile).
 
     X-API-Key: 02c042aa-c3c2-4d11-9dae-1a6e230ea95e
@@ -970,19 +970,19 @@ Utilizatorul autentificat (cu toate proprietățile sale) va fi <u>stocat</u> î
 
 Rețineți că autentificarea bazei de date cu chei API <u>nu necesită</u> și <u>nu utilizează</u> module <b>cookie de sesiune</b>.  
   <hr/><br/>
-  </details>
+  </details> <!--h4--> 
   
   <details><summary><h4>Autentificare Baza de Date</h4></summary>
   <br/><hr/>
    <b>Logare folosind o tabela-join</b>
   <hr/><br/>
-  </details>
+  </details> <!--h4--> 
   
   <details><summary><h4>Autentificare Wordpress</h4></summary>
   <br/><hr/>
    
   <hr/><br/>
-  </details>
+  </details> <!--h4--> 
   <details><summary><h4>Autentificare de baza</h4></summary>
   <br/><hr/>
    
@@ -995,12 +995,12 @@ Rețineți că autentificarea bazei de date cu chei API <u>nu necesită</u> și 
   <br/><hr/>
    
   <hr/><br/>
-  </details>
+  </details> <!--h5--> 
   <details><summary><h5>Configurare si testare autentificare JWT cu Auth0</h5></summary>
   <br/><hr/>
    
   <hr/><br/>
-  </details>
+  </details> <!--h5--> 
   <details><summary><h5>Configurare si testare autentificare JWT cu Firebase</h5></summary>
   <br/><hr/>
    
