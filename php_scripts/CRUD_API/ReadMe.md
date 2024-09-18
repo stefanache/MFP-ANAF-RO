@@ -1094,9 +1094,32 @@ Acest exemplu trimite urmatoarele revendicările <b>semnate</b>:
 <b>NB</b>: Implementarea <b>JWT</b> acceptă doar algoritmii bazați pe <b>RSA</b> și <b>HMAC</b>.   
   <hr/><br/>
   </details> <!--h5--> 
-  <details><summary><h5>Configurare si testare autentificare JWT cu Auth0</h5></summary>
+  <details><summary><h5>Configurarea si testarea autentificarii-JWT cu Auth0</h5></summary>
   <br/><hr/>
+Mai întâi trebuie să creați un cont pe <a href="https://auth0.com/auth/login">Auth0</a>a>.<br/>
+Odată autentificat, trebuie să creați o aplicație (tipul acesteia nu contează).<br/>
+Colectați <b>Domain</b> și <b>Client ID</b> și păstrați-le pentru o utilizare ulterioară.<br/>
+Apoi, creați un API: dați-i un nume/denumire și completați câmpul <b>identifier</b> cu adresa URL a punctului-final API(API-endpoint URL).
+
+Apoi trebuie să configurați/personalizati configurația <b>jwtAuth.secrets</b> în fișierul dvs <b>api.php</b> .<br/>
+Nu o completați cu cele pe care le veți găsi in <b>secret</b>, în setările aplicației dvs. <b>Auth0</b>, ci cu un <b>certificat public</b>.<br/>
+Pentru a-l găsi(certificatul public), accesați <b>setările</b> aplicației dvs., apoi în <b>„Extra settings”</b>.<br/>
+Veți găsi acum/aici o filă/zona <b>„Certificates”</b> unde veți găsi <b>cheia publică</b> în câmpul <b>Signing Certificate</b>(Certificat de semnare).
+
+Pentru a vă testa integrarea, puteți copia fișierul <a href="https://github.com/codemage66/PHP-CRUD-API/blob/main/examples/clients/auth0/vanilla.html">auth0/vanilla.html</a>.<br/>
+Asigurați-vă că completați aceste trei variabile:
+
+ - <b>authUrl</b>  cu domeniul dvs. Auth0(Auth0 domain)
+ - <b>clientId</b> cu ID-ul dvs. de client(Client ID)
+ - <b>audience</b> cu adresa URL API pe care ați creat-o în Auth0
    
+Rețineți că, dacă nu completați parametrul de <b>audience</b>, acesta nu va funcționa deoarece nu veți obține un JWT valid.<br/>
+De asemenea, rețineți că trebuie să completați <b>jwtAuth.audiences</b>(cu valoarea <b>audience</b>) pt a vă asigura că tokenurile sunt validate(pt a fi generate pentru aplicația dvs).
+
+De asemenea, puteți modifica variabila <b>url</b> , folosită pentru a testa API-ul cu autentificare.
+
+<a href="https://auth0.com/docs/api-auth/tutorials/verify-access-token">Mai multe Informații</a>
+
   <hr/><br/>
   </details> <!--h5--> 
   <details><summary><h5>Configurare si testare autentificare JWT cu Firebase</h5></summary>
