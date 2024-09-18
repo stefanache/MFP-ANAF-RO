@@ -885,9 +885,9 @@ Dacă nu specificați acești parametri în configurație, atunci se folosesc va
   <br/><hr/>
   <details><summary><h4>Autentificare</h4></summary>
   <br/><hr/>
-  În prezent, sunt acceptate cinci(<b>5</b>) <b<tipuri de autentificare</b>.<br/>
-  Toate aceste tipuri, stochează utilizatorul autentificat în variabila super-globală <b>$_SESSION</b> .<br/>
-  Această variabilă poate fi utilizată în manipulatorii de autorizare pentru a decide dacă cineva ar trebui să aibă sau nu <br/>
+  În prezent, sunt acceptate cinci(<b>5</b>) <b>tipuri de autentificare</b>.<br/>
+  <b>Toate</b> aceste <b>tipuri</b>, stochează utilizatorul autentificat în variabila super-globală <b>$_SESSION</b> .<br/>
+  Această <b>variabilă</b> poate fi utilizată în <b>manipulatorii de autorizare</b> pentru a decide dacă cineva ar trebui să aibă sau nu <br/>
   acces de citire(<b>Read<</b> sau scriere(<b>Write</b>) la anumite <b>tabele</b>, <b>coloane</b> sau <b>înregistrări/randuri</b>.<br/>
   Următoarea prezentare generală arată <b>tipurile de middleware de autentificare</b> pe care le puteți activa.<br/>
     <center>
