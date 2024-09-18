@@ -1017,7 +1017,7 @@ O astfel de vizualizare poate returna:<br/>
 
  - un rezultat filtrat din tabelul utilizatorilor(<b>users</b>), de exemplu, <br/>
     unde activ = adevărat sau poate returna, de asemenea, 
- - un rezultat mai multe tabele printr-o unire de tabele.<br/>
+ - un rezultat mai multe tabele printr-o <b>unire/uniune de tabele</b>.<br/>
  
 Cel puțin, vizualizarea ar trebui să includă <b>numele de utilizator</b> și  <b>parola</b>, precum și un câmp numit <b>id</b>.
 
