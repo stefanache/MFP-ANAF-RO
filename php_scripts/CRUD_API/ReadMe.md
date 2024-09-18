@@ -1096,10 +1096,10 @@ Acest exemplu trimite urmatoarele revendicările <b>semnate</b>:
   </details> <!--h5--> 
   <details><summary><h5>Configurarea si testarea autentificarii-JWT cu Auth0</h5></summary>
   <br/><hr/>
-Mai întâi trebuie să creați un cont pe <a href="https://auth0.com/auth/login">Auth0</a>a>.<br/>
-Odată autentificat, trebuie să creați o aplicație (tipul acesteia nu contează).<br/>
-Colectați <b>Domain</b> și <b>Client ID</b> și păstrați-le pentru o utilizare ulterioară.<br/>
-Apoi, creați un API: dați-i un nume/denumire și completați câmpul <b>identifier</b> cu adresa URL a punctului-final API(API-endpoint URL).
+Mai întâi trebuie să <b></b>creați un cont</details>b> pe site-ul <a href="https://auth0.com/auth/login">Auth0</a>.<br/>
+Odată autentificat(logat in site-ul Auth0), trebuie să <b>creați o aplicație</b> (tipul acesteia nu contează).<br/>
+Colectați din acest site <b>Domain</b> și <b>Client ID</b> și păstrați-le pentru o utilizare ulterioară.<br/>
+Apoi, <b>creați un API</b>: dați-i un nume/denumire și completați câmpul <b>identifier</b> cu adresa URL a punctului-final API(API-endpoint URL).
 
 Apoi trebuie să configurați/personalizati configurația <b>jwtAuth.secrets</b> în fișierul dvs <b>api.php</b> .<br/>
 Nu o completați cu cele pe care le veți găsi in <b>secret</b>, în setările aplicației dvs. <b>Auth0</b>, ci cu un <b>certificat public</b>.<br/>
@@ -1107,7 +1107,7 @@ Pentru a-l găsi(certificatul public), accesați <b>setările</b> aplicației dv
 Veți găsi acum/aici o filă/zona <b>„Certificates”</b> unde veți găsi <b>cheia publică</b> în câmpul <b>Signing Certificate</b>(Certificat de semnare).
 
 Pentru a vă testa integrarea, puteți copia fișierul <a href="https://github.com/codemage66/PHP-CRUD-API/blob/main/examples/clients/auth0/vanilla.html">auth0/vanilla.html</a>.<br/>
-Asigurați-vă că completați aceste trei variabile:
+Asigurați-vă că completați aceste trei(<b>3</b>) <b>variabile</b>:
 
  - <b>authUrl</b>  cu domeniul dvs. Auth0(Auth0 domain)
  - <b>clientId</b> cu ID-ul dvs. de client(Client ID)
