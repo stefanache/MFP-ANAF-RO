@@ -1058,7 +1058,7 @@ Rețineți că variabila <b>$_SESSION</b> nu este utilizată de acest middleware
   </details> <!--h4 end 3.-->  
   <details><summary><h4>4.Autentificare de baza</h4></summary>
   <br/><hr/>
-Tipul de bază acceptă un fișier (în mod implicit <b>„.htpasswd”</b>) care deține utilizatorii și parolele lor (<b>hash</b>-uite) separate prin două puncte („<b>:</b>b>”).<br/>
+Tipul de bază acceptă un fișier (în mod implicit <b>„.htpasswd”</b>) care deține utilizatorii și parolele lor (<b>hash</b>-uite) separate prin două puncte („<b>:</b>”).<br/>
 Când <b>parolele</b> sunt introduse în text simplu, acestea vor fi automat <b>hash</b>-uite/codificate.<br/>
 <b>Numele de utilizator</b> autentificat va fi stocat în variabila <b>$_SESSION['username']</b>.<br/> 
 Trebuie să trimiteți un antet <b>„Autorization”</b> care să conțină o versiune codificată <b>URL-base64</b> a <b>numelui de utilizator</b> și a <b>parolei</b> separate prin două puncte(<b>:</b>), după cuvântul <b>„Basic”</b>.
@@ -1073,7 +1073,24 @@ Acest exemplu trimite șirul „<b>username1</b>:<b>password1</b>”.
   <br/><hr/>
   <details><summary><h5>Autentificare JWT</h5></summary>
   <br/><hr/>
-   
+Tipul <b><JWT/b> necesită un alt server (<b>SSO/Identity</b>) pentru a semna un simbol(<b>token</b>) care conține revendicări.<br/>
+Ambele servere partajează(detin in comun) un <b>secret</b>, astfel încât să poată <b>semna</b> sau să <b>verifice</b> dacă <b>semnătura</b> este validă.<br/> Revendicările sunt stocate în variabila  <b>$_SESSION['claims']</b>.<br/>
+Trebuie să trimiteți un antet <b>„X-Authorization”</b> care să conțină un <b>antet</b>, un <b>corp</b> și o <b>semnătură</b> de simbol(token) cu ​​coduri <b>URL base64</b> și separate prin puncte după cuvântul <b>„Bearer”</b> ( citiți mai multe despre <a href="https://jwt.io/">JWT</a>a> aici ).<br/>
+Standardul spune că trebuie să utilizați antetul <b>„Autorization”</b>, dar acest lucru este problematic în <b>webserverul Apache</b> și <b>limbajul PHP</b>.
+
+    X-Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiYWRtaW4iOnRydWUsImlhdCI6IjE1MzgyMDc2MDUiLCJleHAiOjE1MzgyMDc2MzV9.Z5px_GT15TRKhJCTHhDt5Z6K6LRDSFnLj8U5ok9l7gw
+
+Acest exemplu trimite urmatoarele revendicările semnate:
+
+    {
+      "sub": "1234567890",
+      "name": "John Doe",
+      "admin": true,
+      "iat": "1538207605",
+      "exp": 1538207635
+    }
+    
+<b>NB</b>: Implementarea <b>JWT</b> acceptă doar algoritmii bazați pe <b>RSA</b> și <b>HMAC</b>.   
   <hr/><br/>
   </details> <!--h5--> 
   <details><summary><h5>Configurare si testare autentificare JWT cu Auth0</h5></summary>
