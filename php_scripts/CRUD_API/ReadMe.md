@@ -973,7 +973,7 @@ Rețineți că autentificarea bazei de date cu chei API <u>nu necesită</u> și 
   
   <details><summary><h4>Autentificarea Bazei de Date</h4></summary>
   <br/><hr/>
-    Middleware-ul de autentificare a bazei de date definește cinci(<b>5</b>) <b>rute</b> noi:<br/>
+    Middleware-ul de <b>autentificare a bazei de date</details</b> definește cinci(<b>5</b>) <b>rute</b> noi:<br/>
 <pre>  
 method path       - parameters                      - description
 ---------------------------------------------------------------------------------------------------
@@ -983,12 +983,12 @@ POST   /login     - username, password              - logs a user in by username
 POST   /password  - username, password, newPassword - updates the password of the logged in user
 POST   /logout    -                                 - logs out the currently logged in user 
 </pre>  
-Un utilizator poate fi conectat trimițând numele de utilizator și parola la punctul final de conectare (în format JSON).<br/>
+Un utilizator poate fi conectat trimițând <b>>numele de utilizator</b și <b>parola</b> la punctul-final(<b>endpoint</b>-ul) de conectare (în format <b>JSON</b>).<br/>
 Utilizatorul autentificat (cu toate proprietățile sale) va fi stocat în variabila <b>$_SESSION['user']</b>.<br/>
-Utilizatorul poate fi deconectat prin trimiterea unei cereri POST cu un corp gol la punctul final de deconectare.<br/>
-Parolele sunt stocate ca hash-uri în coloana parolei din tabelul utilizatori.<br/>
+Utilizatorul poate fi deconectat prin trimiterea unei cereri <b>POST</b> cu un corp gol la punctul final de deconectare.<br/>
+Parolele sunt stocate ca <b>hash</b>-uri în coloana parolei din tabelul utilizatori(<b>users</b>**.<br/>
 Puteți înregistra un utilizator nou utilizând punctul final de înregistrare, dar această funcționalitate trebuie activată<br/>
-folosind parametrul de configurare <b>„dbAuth.registerUser”</b>.<br/>
+folosind parametrul de configurare <b>„dbAuth.registerUser”</b>.<br/><br/>
 
 Este IMPORTANT să restricționați accesul la tabelul utilizatori folosind middleware-ul de „autorizare”, altfel toți utilizatorii<br/>
 pot adăuga, modifica sau șterge liber orice cont! Configurația minimă este prezentată mai jos:
