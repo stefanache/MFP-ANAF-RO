@@ -882,11 +882,12 @@ Dacă nu specificați acești parametri în configurație, atunci se folosesc va
   <hr/><br/> 
   </details> <!--h3--> 
   <details><summary><h3>Autentificari si Autorizari</h3></summary>
-  <br/><hr/><pre> 
-  Autentificare versus autorizare
-Autentificarea confirmă că utilizatorul care se conectează este cine spune că este(verificarea <b>Identitatii</b> utilizatorului), în timp ce 
-autorizarea confirmă că acesta(utilizatorul) are <b>permisiunile</b> potrivite pentru a accesa <b>informațiile</b> pe care le dorește.
-</pre>
+  <br/><hr/> 
+  <h3><b>Autentificare</b> versus <b>Autorizare</b></h3><br/>
+Autentificarea confirmă că utilizatorul care se conectează este cine spune că este(verificarea <b>Identitatii</b> utilizatorului), <br/>
+    în timp ce 
+autorizarea confirmă că acesta(utilizatorul) are <b>permisiunile</b> potrivite pentru a accesa <b>informațiile</b> pe care le dorește.</details>br/>
+
   <details><summary><h3>Autentificari</h3></summary>
   <br/><hr/>   
   <details><summary><h4>Autentificare</h4></summary>
