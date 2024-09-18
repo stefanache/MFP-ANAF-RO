@@ -1071,7 +1071,7 @@ Acest exemplu trimite șirul „<b>username1</b>:<b>password1</b>”.
   
   <details><summary><h4>5.Autentificari JWT</h4></summary>
   <br/><hr/>
-  <details><summary><h5>Autentificare utilizand token-JWT</h5></summary>
+  <details><summary><h5>Autentificare utilizand token/jeton-JWT</h5></summary>
   <br/><hr/>
 Tipul <a href="https://en.wikipedia.org/wiki/JSON_Web_Token"><b>JWT</b></a> necesită un alt server (<b>SSO/Identity</b>)...-deci un intermediar/middleware-... pt. a <a href="https://medium.com/winkhosting/create-a-basic-php-api-with-token-authentication-96111eada51">semna</a> un simbol(<b>token</b>) care conține revendicări(cerinte).<br/>
 Ambele servere partajează(detin in comun) un <b>secret</b>, astfel încât, in dublu-sens/ pe 2-cai, să poată <b>semna(Write)</b> sau să <b>verifice(Read)</b> dacă <b>semnătura</b> este validă.<br/> 
@@ -1114,7 +1114,7 @@ Asigurați-vă că ati completat aceste trei(<b>3</b>) <b>variabile</b>:
  - <b>audience</b> cu adresa URL API pe care ați creat-o în Auth0
    
 Rețineți că, dacă nu completați parametrul de <b>audience</b>, acesta nu va funcționa deoarece nu veți obține un <b>JWT</b> valid.<br/>
-De asemenea, rețineți că trebuie să completați <b>jwtAuth.audiences</b>(cu valoarea <b>audience</b>) pt a vă asigura că tokenurile sunt validate(pentru a fi generate spre a fi utilizate in aplicația dvs).
+De asemenea, rețineți că trebuie să completați <b>jwtAuth.audiences</b>(cu valoarea <b>audience</b>) pt a vă asigura că token-urile sunt validate(pentru a fi generate spre a fi utilizate in aplicația dvs).
 
 De asemenea, puteți <b>modifica</b> variabila <b>url</b> , folosită pentru a testa API-ul cu autentificare.
 
@@ -1130,11 +1130,11 @@ Adăugați o aplicație web la acest proiect și luați fragmentul de cod pentru
 Apoi trebuie să configurați configurația <b>jwtAuth.secrets</b> în fișierul dvs <b>api.php</b>.<br/>
 Acest lucru se poate face după cum urmează:
 
-  o. Conectați-vă un utilizator la aplicația dvs. bazată pe Firebase, obțineți un simbol de autentificare pentru utilizatorul respectiv<br/>
-  b.Accesați <a href="https://jwt.io/">https://jwt.io/</a> și inserați jetonul în câmpul de decodare<br/>
-  c. Citiți informațiile antetului decodificate din simbol, acesta vă va oferi kid <br/>
-  d. Luați cheia publică prin această adresă URL , care corespunde cu kidpasul anterior <br/>
-  e. Acum, completează jwtAuth.secretscu cheia publică înapi.php
+    o. Conectați-vă un utilizator la aplicația dvs. bazată pe Firebase, obțineți un simbol de autentificare pentru utilizatorul respectiv<br/>
+    b.Accesați <a href="https://jwt.io/">https://jwt.io/</a> și inserați jetonul în câmpul de decodare<br/>
+    c. Citiți informațiile antetului decodificate din simbol, acesta vă va oferi kid <br/>
+    d. Luați cheia publică prin această adresă URL , care corespunde cu kidpasul anterior <br/>
+    e. Acum, completează jwtAuth.secretscu cheia publică înapi.php
 
 De asemenea, configurați <b>jwtAuth.audiences</b>(completați <b>ID</b>-ul proiectului Firebase: Firebase-project-ID).
 
