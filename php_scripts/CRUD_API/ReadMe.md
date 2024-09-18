@@ -1118,7 +1118,7 @@ Rețineți că autentificarea bazei de date cu chei API <u>nu necesită</u> și 
    
   <hr/><br/>
   </details>  
-  <details><summary><3>Tipuri de date in JavaScript</h3></summary>
+  <details><summary><h3>Tipuri de date in JavaScript</h3></summary>
   <br/><hr/>
   <details><summary><h4>intregi pe 64 biti</h4></summary>
   <br/><hr/>
