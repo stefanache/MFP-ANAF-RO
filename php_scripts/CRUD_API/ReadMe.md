@@ -1096,7 +1096,7 @@ Acest exemplu trimite urmatoarele revendicările <b>semnate</b>:
   </details> <!--h5--> 
   <details><summary><h5>Configurarea si testarea autentificarii-JWT cu Auth0</h5></summary>
   <br/><hr/>
-Mai întâi trebuie să <b></b>creați un cont</details>b> pe site-ul <a href="https://auth0.com/auth/login">Auth0</a>.<br/>
+Mai întâi trebuie să <b>creați un cont</b> pe site-ul <a href="https://auth0.com/auth/login">Auth0</a>.<br/>
 Odată autentificat(logat in site-ul Auth0), trebuie să <b>creați o aplicație</b> (tipul acesteia nu contează).<br/>
 Colectați din acest site <b>Domain</b> și <b>Client ID</b> și păstrați-le pentru o utilizare ulterioară.<br/>
 Apoi, <b>creați un API</b>: dați-i un nume/denumire și completați câmpul <b>identifier</b> cu adresa URL a punctului-final API(API-endpoint URL).
