@@ -970,7 +970,7 @@ Rețineți că autentificarea cheii API <u>nu necesită</u> și <u>nu utilizeaz�
   <hr/><br/>
   </details> <!--h4--> 
   
-  <details><summary><h4>2.Autentificarea Bazei de Date cu cheie-API(API-key)</h4></summary>
+  <details><summary><h4>2.Autentificarea prin intermediul Bazei de Date cu cheie-API(API-key)</h4></summary>
   <br/><hr/>
 Autentificarea <b>bazei-de-date cu chei-API</b> funcționează prin <u>trimiterea</u> unei <b>chei API</b> într-un antet de solicitare <b>„X-API-Key”</b> (numele este configurabil).<br/>
 Cheile API valide sunt <u>citite</u> din baza de date din coloana <b>„api_key”</b> a tabelului <b>„users”</b> (ambele denumiri sunt configurabile).
@@ -983,7 +983,7 @@ Rețineți că autentificarea bazei de date cu chei API <u>nu necesită</u> și 
   <hr/><br/>
   </details> <!--h4--> 
   
-  <details><summary><h4>3.Autentificarea Bazei de Date cu cont-utilizator(username si password)</h4></summary>
+  <details><summary><h4>3.Autentificarea prin intermediul Bazei de Date cu cont-utilizator(username si password)</h4></summary>
   <br/><hr/>
     Middleware-ul de <b>autentificare a bazei de date<b></b>details</b> definește cinci(<b>5</b>) <b>rute</b> noi:<br/>
 <pre>  
@@ -1029,7 +1029,7 @@ Ca o soluție, utilizați proprietatea <b>loginTable</b> pentru a seta un tabel 
 <b>UserTable</b> va fi setat în continuare la tabelul de utilizatori normal, care poate fi inserat(sau este inserabil adica se pot insera randuri/inregistrari noi).
   <hr/><br/>
   </details> <!--h4--> 
-  <details><summary><h4>Autentificare Wordpress(WP)</h4></summary>
+  <details><summary><h4>Autentificare prin intermediul Wordpress(WP)</h4></summary>
   <br/><hr/>
  Middleware-ul de <b>autentificare Wordpress(WP)</b> definește trei(<b>3</b>) <b>rute</b>:<br/>
  <pre>
@@ -1071,7 +1071,7 @@ Acest exemplu trimite șirul „<b>username1</b>:<b>password1</b>”.
   
   <details><summary><h4>5.Autentificari JWT</h4></summary>
   <br/><hr/>
-  <details><summary><h5>Autentificare JWT</h5></summary>
+  <details><summary><h5>Autentificare utilizand token-JWT</h5></summary>
   <br/><hr/>
 Tipul <a href="https://en.wikipedia.org/wiki/JSON_Web_Token"><b>JWT</b></a>a> necesită un alt server (<b>SSO/Identity</b>)...-deci un intermediar/middleware-... pt. a <a href="https://medium.com/winkhosting/create-a-basic-php-api-with-token-authentication-96111eada51">semna</a> un simbol(<b>token</b>) care conține revendicări(cerinte).<br/>
 Ambele servere partajează(detin in comun) un <b>secret</b>, astfel încât, in dublu-sens/ pe 2-cai, să poată <b>semna(Write)</b> sau să <b>verifice(Read)</b> dacă <b>semnătura</b> este validă.<br/> 
@@ -1094,7 +1094,7 @@ Acest exemplu trimite urmatoarele <a href="https://en.wikipedia.org/wiki/JSON_We
 <b>NB</b>: Implementarea <a href="https://jwt.io/introduction"><b>JWT</b></a> acceptă doar algoritmii bazați pe <b>RSA</b> și <b>HMAC</b>.   
   <hr/><br/>
   </details> <!--h5--> 
-  <details><summary><h5>Configurarea si testarea autentificarii-JWT cu Auth0</h5></summary>
+  <details><summary><h5>Configurarea si testarea autentificarii-JWT cu/prin Auth0</h5></summary>
   <br/><hr/>
 Mai întâi trebuie să <b>creați un cont</b> pe site-ul <a href="https://auth0.com/auth/login">Auth0</a>.<br/>
 Odată autentificat(logat in site-ul Auth0), trebuie să <b>creați o aplicație</b> (tipul acesteia nu contează).<br/>
@@ -1122,7 +1122,7 @@ De asemenea, puteți <b>modifica</b> variabila <b>url</b> , folosită pentru a t
 
   <hr/><br/>
   </details> <!--h5--> 
-  <details><summary><h5>Configurare si testare autentificare JWT cu Firebase</h5></summary>
+  <details><summary><h5>Configurare si testare autentificare JWT cu/prin Firebase</h5></summary>
   <br/><hr/>
 Mai întâi trebuie să creați un proiect Firebase pe <a href="https://console.firebase.google.com/">consola Firebase</a> .<br/>
 Adăugați o aplicație web la acest proiect și luați fragmentul de cod pentru o utilizare ulterioară.
