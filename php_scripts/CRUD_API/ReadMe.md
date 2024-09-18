@@ -894,7 +894,7 @@ Dacă nu specificați acești parametri în configurație, atunci se folosesc va
       <table tabindex="0">
 <thead>
 <tr>
-<th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Nume</font></font></th>
+<th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Denumire</font></font></th>
 <th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Middleware</font></font></th>
 <th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Autentificat prin</font></font></th>
 <th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Utilizatorii sunt stocați în</font></font></th>
