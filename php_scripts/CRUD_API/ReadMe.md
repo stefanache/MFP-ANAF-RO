@@ -1037,7 +1037,7 @@ POST   /login     - username, password              - logs a user in by username
 POST   /logout    -                                 - logs out the currently logged in user
 
 </pre>
-Un utilizator poate fi conectat trimițând <b>numele de <b>utilizator</b> și <b>parola</b> la punctul-final(endpoint</b>-ul) de conectare (în format <b>JSONv).<br/>
+Un utilizator poate fi conectat trimițând <b>numele de <b>utilizator</b> și <b>parola</b> la punctul-final(endpoint</b>-ul) de conectare (în format <b>JSON</b>).<br/>
 Utilizatorul poate fi deconectat prin trimiterea unei cereri <b>POST</b> cu un corp gol la punctul final de deconectare.<br/>
 Trebuie să specificați directorul de instalare Wordpress utilizând parametrul de configurare <b>„wpAuth.wpDirectory”</b>.<br/>
 Middleware-ul numește <b>„wp-load.php”</b>, ceea ce vă permite să utilizați <b>funcții Wordpress</b> în middleware-ul de autorizare, cum ar fi:
