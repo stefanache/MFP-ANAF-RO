@@ -945,12 +945,27 @@ Dacă nu specificați acești parametri în configurație, atunci se folosesc va
   </details> 
   <details><summary><h4>Autentificare cu cheie-API(API-key)</h4></summary>
   <br/><hr/>
-   
+Autentificarea cu <b>xchei API</b>b> funcționează prin <u>trimiterea</u> unei <b>chei API</details>b> într-un <b>antet de solicitare</b>.<br/>
+Denumirea antetului este implicit <b>„X-API-Key”</b> și poate fi configurat folosind parametrul de configurare <b>„apiKeyAuth.header”</b>.<br/>
+Cheile API valide trebuie configurate folosind parametrul de configurare <b>„apiKeyAuth.keys”</b> (listă separată prin virgulă).
+
+    X-API-Key: 02c042aa-c3c2-4d11-9dae-1a6e230ea95e
+
+Cheia API autentificată va fi <u>stocată</b> în variabila <b>$_SESSION['apiKey']</b>.
+
+Rețineți că autentificarea cheii API <u>nu necesită</u> și <u>nu utilizează</u> module <b>cookie de sesiune</b>.   
   <hr/><br/>
   </details>
-  <details><summary><h4>Autentificare Baza de Date cu cheie-API(API-key)</h4></summary>
+  <details><summary><h4>Autentificare Bazei de Date cu cheie-API(API-key)</h4></summary>
   <br/><hr/>
-   
+Autentificarea <b>bazei-de-date cu chei-API</b> funcționează prin <u>trimiterea</u> unei <b>chei API</b> într-un antet de solicitare </b>„X-API-Key”</b> (numele este configurabil).<br/>
+Cheile API valide sunt <u>citite</u> din baza de date din coloana <b>„api_key”</b> a tabelului <b>„utilizatori”</b> (ambele denumiri sunt configurabile).
+
+    X-API-Key: 02c042aa-c3c2-4d11-9dae-1a6e230ea95e
+
+Utilizatorul autentificat (cu toate proprietățile sale) va fi <u>stocat</u> în variabila <b>$_SESSION['apiUser']</b>.
+
+Rețineți că autentificarea bazei de date cu chei API <u>nu necesită</u> și <u>nu utilizează</u> module <b>cookie de sesiune</b>.  
   <hr/><br/>
   </details>
   <details><summary><h4>Autentificare Baza de Date</h4></summary>
