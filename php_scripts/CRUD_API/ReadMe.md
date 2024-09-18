@@ -1049,7 +1049,9 @@ Middleware-ul numește <b>„wp-load.php”</b>, ceea ce vă permite să utiliza
 
 Rețineți că variabila <b>$_SESSION</b> nu este utilizată de acest middleware.  
   <hr/><br/>
-  </details> <!--h4--> 
+  </details> <!--h4-->
+  <hr/><br/>
+  </details> <!--h4 end 3.-->  
   <details><summary><h4>4.Autentificare de baza</h4></summary>
   <br/><hr/>
    
