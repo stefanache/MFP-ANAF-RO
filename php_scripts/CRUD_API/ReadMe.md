@@ -1027,8 +1027,8 @@ Ca o soluție, utilizați proprietatea <b>loginTable</b> pentru a seta un tabel 
 
   <details><summary><h4>Autentificare Wordpress(WP)</h4></summary>
   <br/><hr/>
- Middleware-ul de <b>autentificare Wordpress(WP)</details</b> definește trei(<b>3</b>) <b>rute</b>:<br/>
- <pre></pre>
+ Middleware-ul de <b>autentificare Wordpress(WP)</b> definește trei(<b>3</b>) <b>rute</b>:<br/>
+ <pre>
 
 method path       - parameters                      - description
 ---------------------------------------------------------------------------------------------------
