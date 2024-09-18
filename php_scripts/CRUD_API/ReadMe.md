@@ -884,9 +884,12 @@ Dacă nu specificați acești parametri în configurație, atunci se folosesc va
   <details><summary><h3>Autentificari si Autorizari</h3></summary>
   <br/><hr/> 
   <h3><b>Autentificare</b> versus <b>Autorizare</b></h3><br/>
-Autentificarea confirmă că utilizatorul care se conectează este cine spune că este(verificarea <b>Identitatii</b> utilizatorului), <br/>
+<b>Autentificarea</b> confirmă că utilizatorul care se conectează este cine spune că este(verificarea <b>Identitatii</b> utilizatorului), <br/>
     în timp ce 
-autorizarea confirmă că acesta(utilizatorul) are <b>permisiunile</b> potrivite pentru a accesa <b>informațiile</b> pe care le dorește.</details>br/>
+<b>Autorizarea</b> confirmă că acesta(utilizatorul) are <b>permisiunile</b> potrivite pentru a accesa <b>informațiile</b> pe care le dorește.</br/>
+
+<b>NB</b>:<br/>
+<b>Identitatea utilizatorului</b> versus <b>Permisiunile utilizatorului asupra resurselor</b>
 
   <details><summary><h3>Autentificari</h3></summary>
   <br/><hr/>   
