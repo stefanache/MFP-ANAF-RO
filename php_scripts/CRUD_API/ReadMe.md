@@ -1155,9 +1155,9 @@ Nota:
  - Șirul trebuie să conțină avansuri de linie (<b>\n</b>)
  - <b>jwtAuth.audiences</b> ar trebui să conțină <b>ID</b>-ul de proiect Firebase
 
-Pentru a vă testa integrarea, puteți copia fișierul https://github.com/codemage66/PHP-CRUD-API/blob/main/examples/clients/firebase/vanilla.html">firebase/vanilla.html</a> și fișierul <a href="https://github.com/codemage66/PHP-CRUD-API/blob/main/examples/clients/firebase/vanilla-success.html">firebase/vanilla-success.html</a>, folosite ca pagină de <b>„succes”</b> și pentru a afișa <b>rezultatul API</b>.
+Pentru a vă testa integrarea, puteți copia fișierul <a href="https://github.com/codemage66/PHP-CRUD-API/blob/main/examples/clients/firebase/vanilla.html">firebase/vanilla.html</a> și fișierul <a href="https://github.com/codemage66/PHP-CRUD-API/blob/main/examples/clients/firebase/vanilla-success.html">firebase/vanilla-success.html</a>, folosite ca pagină de <b>„succes”</b> și pentru a afișa <b>rezultatul API</b>.
 
-Înlocuiți, în ambele fișiere, configurația Firebase (obiectul <b>firebaseConfig</a> ).
+Înlocuiți, în ambele fișiere, configurația Firebase (obiectul <b>firebaseConfig</b> ).
 
 De asemenea, puteți modifica variabila <b>url</b>, folosită pentru a <b>testa</b> API-ul cu autentificare.
 
