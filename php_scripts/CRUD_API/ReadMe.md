@@ -981,7 +981,7 @@ Rețineți că autentificarea bazei de date cu chei API <u>nu necesită</u> și 
   <hr/><br/>
   </details> <!--h4--> 
   
-  <details><summary><h4>3.Autentificarea Bazei de Date cu cont-utilizator</h4></summary>
+  <details><summary><h4>3.Autentificarea Bazei de Date cu cont-utilizator(username si password)</h4></summary>
   <br/><hr/>
     Middleware-ul de <b>autentificare a bazei de date<b></b>details</b> definește cinci(<b>5</b>) <b>rute</b> noi:<br/>
 <pre>  
