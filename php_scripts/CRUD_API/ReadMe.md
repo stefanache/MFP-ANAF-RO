@@ -1111,26 +1111,30 @@ Rețineți că autentificarea bazei de date cu chei API <u>nu necesită</u> și 
   <br/><hr/>
    
   <hr/><br/>
-  </details> 
-  <details><summary><h2>Tipuri de date(Types)</h2></summary>
-  <br/><hr/>
-   
-  <hr/><br/>
-  </details>  
-  <details><summary><h2>Tipuri de date in JavaScript</h2></summary>
-  <br/><hr/>
-  <details><summary><h3>intregi pe 64 biti</h3></summary>
-  <br/><hr/>
-   
-  <hr/><br/>
-  </details> 
-  <details><summary><h3>reali in virgula mobila - Inf si NaN</h3></summary>
-  <br/><hr/>
-   
-  <hr/><br/>
-  </details>  
-  <hr/><br/>
   </details>
+  <details><summary><h2>Tipuri de date</h2></summary>
+  <details><summary><h3>Tipuri de date(Types)</h3></summary>
+  <br/><hr/>
+   
+  <hr/><br/>
+  </details>  
+  <details><summary><32>Tipuri de date in JavaScript</h3></summary>
+  <br/><hr/>
+  <details><summary><h4>intregi pe 64 biti</h4></summary>
+  <br/><hr/>
+   
+  <hr/><br/>
+  </details> 
+  <details><summary><h4>reali in virgula mobila - Inf si NaN</h4></summary>
+  <br/><hr/>
+   
+  <hr/><br/>
+  </details>  <!--h4-->
+  <hr/><br/>
+  </details> <!--h3-->
+   <hr/><br/>
+  </details> <!--h2--> 
+  
   <details><summary><h2>Erori</h2></summary>
   <br/><hr/>
    
