@@ -1016,12 +1016,12 @@ Pentru operațiunile de conectare, este posibil să utilizați o vizualizare ca 
 O astfel de vizualizare poate returna:<br/>
 
  - un rezultat filtrat din tabelul utilizatorilor(<b>users</b>), de exemplu, <br/>
-    unde activ = adevărat sau poate returna, de asemenea, 
+    <b>where activ = true</b> sau poate returna, de asemenea, 
  - un rezultat mai multe tabele printr-o <b>unire/uniune de tabele</b>.<br/>
  
 Cel puțin, vizualizarea ar trebui să includă <b>numele de utilizator</b> și  <b>parola</b>, precum și un câmp numit <b>id</b>.
 
-Cu toate acestea, vizualizările cu tabele-unite nu sunt inserabile ( vezi <a href="https://github.com/mevdschee/php-crud-api/issues/907">problema 907</a> ).<br/>
+Cu toate acestea, <b>vizualizările</b> cu tabele-unite <b>nu sunt inserabile</b> ( vezi <a href="https://github.com/mevdschee/php-crud-api/issues/907">problema 907</a> ).<br/>
 Ca o soluție, utilizați proprietatea <b>loginTable</b> pentru a seta un tabel de referință diferit pentru conectare.<br/>
 <b>UserTable</b> va fi setat în continuare la tabelul de utilizatori normal, care poate fi inserat(sau este inserabil adica se pot insera randuri/inregistrari noi).<br/>
 
