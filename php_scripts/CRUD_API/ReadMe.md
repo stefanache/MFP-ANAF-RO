@@ -1,4 +1,6 @@
-Am cautat un [**proiect**](https://github.com/codemage66/PHP-CRUD-API?tab=readme-ov-file#php-crud-api) care sa aiba ca facilitati cateva lucruri:
+  <hr/><br/>
+  </details> <!--h4--> versus
+  Am cautat un [**proiect**](https://github.com/codemage66/PHP-CRUD-API?tab=readme-ov-file#php-crud-api) care sa aiba ca facilitati cateva lucruri:
 - sa fie un **api** de preferat pt o baza de date de tip **SQL**(si care sa permita pt tabelele sale operatii de tip [**CRUD**](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete))
 - sa fie bine securizata(cu **token JWT**,...)
 - si sa permita un access de tip modern REST(de preferat, gen **GraphQL**)
@@ -889,7 +891,7 @@ Dacă nu specificați acești parametri în configurație, atunci se folosesc va
 <b>Autorizarea</b> confirmă că acesta(utilizatorul) are <b>permisiunile</b> potrivite pentru a accesa <b>informațiile</b> pe care le dorește.</br/></br/>
 
 <b>NB</b>:<br/>
-<b>Identitatea utilizatorului</b> versus <b>Permisiunile utilizatorului asupra resurselor</b>
+<b>Identitatea utilizatorului</b> versus <b>Permisiunile de acces ale utilizatorului asupra resurselor</b>
 
   <details><summary><h3>Autentificari</h3></summary>
   <br/><hr/>   
