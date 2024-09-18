@@ -1124,7 +1124,44 @@ De asemenea, puteți <b>modifica</b> variabila <b>url</b> , folosită pentru a t
   </details> <!--h5--> 
   <details><summary><h5>Configurare si testare autentificare JWT cu Firebase</h5></summary>
   <br/><hr/>
-   
+Mai întâi trebuie să creați un proiect Firebase pe <a href="https://console.firebase.google.com/">consola Firebase</a> .<br/>
+Adăugați o aplicație web la acest proiect și luați fragmentul de cod pentru o utilizare ulterioară.
+
+Apoi trebuie să configurați configurația <b>jwtAuth.secrets</b> în fișierul dvs <b>api.php</b>.<br/>
+Acest lucru se poate face după cum urmează:
+
+  o. Conectați-vă un utilizator la aplicația dvs. bazată pe Firebase, obțineți un simbol de autentificare pentru utilizatorul respectiv<br/>
+  b.Accesați <a href="https://jwt.io/">https://jwt.io/</a> și inserați jetonul în câmpul de decodare<br/>
+  c. Citiți informațiile antetului decodificate din simbol, acesta vă va oferi kid <br/>
+  d. Luați cheia publică prin această adresă URL , care corespunde cu kidpasul anterior <br/>
+  e. Acum, completează jwtAuth.secretscu cheia publică înapi.php
+
+De asemenea, configurați <b>jwtAuth.audiences</b>(completați <b>ID</b>-ul proiectului Firebase: Firebase-project-ID).
+
+Iată un exemplu despre cum ar trebui să arate acesta, în configurație:
+
+    ...,
+    'middlewares' => 'cors, jwtAuth, authorization',
+            'jwtAuth.secrets' => "ce5ced6e40dcd1eff407048867b1ed1e706686a0:-----BEGIN CERTIFICATE-----\nMIIDHDCCAgSgAwIBAgIIExun9bJSK1wwDQYJKoZIhvcNAQEFBQAwMTEvMC0GA1UE\nAxMmc2VjdXJldG9rZW4uc3lzdGVtLmdzZXJ2aWNlYWNjb3VudC5jb20wHhcNMTkx\nMjIyMjEyMTA3WhcNMjAwMTA4MDkzNjA3WjAxMS8wLQYDVQQDEyZzZWN1cmV0b2tl\nbi5zeXN0ZW0uZ3NlcnZpY2VhY2NvdW50LmNvbTCCASIwDQYJKoZIhvcNAQEBBQAD\nggEPADCCAQoCggEBAKsvVDUwXeYQtySNvyI1/tZAk0sj7Zx4/1+YLUomwlK6vmEd\nyl2IXOYOj3VR7FBA24A9//nnrp+mV8YOYEOdaWX7PQo0PIPFPqdA0r7CqBUWHPfQ\n1WVHVRQY3G0c7upM97UfMes9xOrMqyvecMRk1e5S6eT12Zh2og7yiVs8gP83M1EB\nGqseUaltaadjyT35w5B0Ny0/7NdLYiv2G6Z0S821SxvSo1/wfmilnBBKYYluP0PA\n9NPznWFP6uXnX7gKxyJT9//cYVxTO6+b1TT13Yvrpm1a4EuCOhLrZH6ErHQTccAM\nhAx8mdNtbROsp0dlPKrSfqO82uFz45RXZYmSeP0CAwEAAaM4MDYwDAYDVR0TAQH/\nBAIwADAOBgNVHQ8BAf8EBAMCB4AwFgYDVR0lAQH/BAwwCgYIKwYBBQUHAwIwDQYJ\nKoZIhvcNAQEFBQADggEBACNsJ5m00gdTvD6j6ahURsGrNZ0VJ0YREVQ5U2Jtubr8\nn2fuhMxkB8147ISzfi6wZR+yNwPGjlr8JkAHAC0i+Nam9SqRyfZLqsm+tHdgFT8h\npa+R/FoGrrLzxJNRiv0Trip8hZjgz3PClz6KxBQzqL+rfGV2MbwTXuBoEvLU1mYA\no3/UboJT7cNGjZ8nHXeoKMsec1/H55lUdconbTm5iMU1sTDf+3StGYzTwC+H6yc2\nY3zIq3/cQUCrETkALrqzyCnLjRrLYZu36ITOaKUbtmZhwrP99i2f+H4Ab2i8jeMu\nk61HD29mROYjl95Mko2BxL+76To7+pmn73U9auT+xfA=\n-----END CERTIFICATE-----\n",
+            'jwtAuth.audiences' => 'your-project-id',
+            'cors.allowedOrigins' => '*',
+            'cors.allowHeaders' => 'X-Authorization'
+            
+Nota:
+
+ - Perechea <b>kid:key</b> este formatată ca șir
+ - Nu includeți spații înainte sau după „<b>:</b>”
+ - Utilizați ghilimele duble (<b>""</b>) în jurul textului care desemneaza șirul respectiv
+ - Șirul trebuie să conțină avansuri de linie (<b>\n</b>)
+ - <b>jwtAuth.audiences</b> ar trebui să conțină <b>ID</b>-ul de proiect Firebase
+
+Pentru a vă testa integrarea, puteți copia fișierul https://github.com/codemage66/PHP-CRUD-API/blob/main/examples/clients/firebase/vanilla.html">firebase/vanilla.html</a> și fișierul <a href="https://github.com/codemage66/PHP-CRUD-API/blob/main/examples/clients/firebase/vanilla-success.html">firebase/vanilla-success.html</a>, folosite ca pagină de <b>„succes”</b> și pentru a afișa <b>rezultatul API</b>.
+
+Înlocuiți, în ambele fișiere, configurația Firebase (obiectul <b>firebaseConfig</a> ).
+
+De asemenea, puteți modifica variabila <b>url</b>, folosită pentru a <b>testa</b> API-ul cu autentificare.
+
+<a href="https://firebase.google.com/docs/auth/admin/verify-id-tokens#verify_id_tokens_using_a_third-party_jwt_library">Mai multe Informații</a>
   <hr/><br/>
   </details> <!--h5-->
   <hr/><br/>
