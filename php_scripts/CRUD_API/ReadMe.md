@@ -973,7 +973,7 @@ Rețineți că autentificarea bazei de date cu chei API <u>nu necesită</u> și 
   
   <details><summary><h4>Autentificarea Bazei de Date</h4></summary>
   <br/><hr/>
-    Middleware-ul de <b>autentificare a bazei de date</details</b> definește cinci(<b>5</b>) <b>rute</b> noi:<br/>
+    Middleware-ul de <b>autentificare a bazei de date<b></b>details</b> definește cinci(<b>5</b>) <b>rute</b> noi:<br/>
 <pre>  
 method path       - parameters                      - description
 ---------------------------------------------------------------------------------------------------
@@ -993,10 +993,10 @@ folosind parametrul de configurare <b>„dbAuth.registerUser”</b>.<br/><br/>
 Este IMPORTANT să restricționați accesul la tabelul utilizatori folosind middleware-ul de „autorizare”, altfel toți utilizatorii<br/>
 pot adăuga, modifica sau șterge liber orice cont! Configurația minimă este prezentată mai jos:
 
-  'middlewares' => 'dbAuth,authorization',
-  'authorization.tableHandler' => function ($operation, $tableName) {
-      return $tableName != 'users';
-  },
+      'middlewares' => 'dbAuth,authorization',
+      'authorization.tableHandler' => function ($operation, $tableName) {
+          return $tableName != 'users';
+      },
 
 Rețineți că acest middleware utilizează <b>cookie</b>-uri de sesiune și stochează <b>starea</b> de autentificare pe server.<br/>
 
