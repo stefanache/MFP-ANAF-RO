@@ -1131,9 +1131,9 @@ Apoi trebuie să <b>configurați</b> zona/configurația <b>jwtAuth.secrets</b> �
 Acest lucru se poate face după cum urmează:
 
  - a. Conectați-vă un utilizator la aplicația dvs. bazată pe Firebase, obțineți un simbol(token/jeton) de autentificare pentru utilizatorul respectiv<br/>
- - b. Accesați <a href="https://jwt.io/">https://jwt.io/</a> și inserați jetonul/token-ul în câmpul de decodare<br/>
- - c. Citiți informațiile antetului decodificate din simbol(token), acesta vă va oferi <b>kid</b> <br/>
- - d. Luați cheia publică prin această adresă-URL , care corespunde cu <b>kid</b>-ului din pasul anterior <br/>
+ - b. Accesați <a href="https://jwt.io/">https://jwt.io/</a> și inserați <b>jeton/token</b>-ul în câmpul de decodare<br/>
+ - c. Citiți informațiile <b>antet</b>-ului decodificate din simbol(jeton/token), acesta vă va oferi <b>kid</b>(ex. <b>ce5ced6e40dcd1eff407048867b1ed1e706686a0</b>) <br/>
+ - d. Luați <b>cheia-publică</b>(-----BEGIN CERTIFICATE-----...\n-----END CERTIFICATE-----\n) prin această adresă-URL , care corespunde cu <b>kid</b>-ului din pasul anterior <br/>
  - e. Acum, completează <b>jwtAuth.secrets</b> cu cheia publică în <b>api.php</b>
 
 De asemenea, configurați <b>jwtAuth.audiences</b>(completați <b>ID</b>-ul proiectului Firebase: '<b>your-project-id</b>').
