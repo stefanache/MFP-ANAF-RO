@@ -1023,23 +1023,40 @@ Cel puțin, vizualizarea ar trebui să includă <b>numele de utilizator</b> și 
 
 Cu toate acestea, vizualizările cu tabele-unite nu sunt inserabile ( vezi <a href="https://github.com/mevdschee/php-crud-api/issues/907">problema 907</a> ).<br/>
 Ca o soluție, utilizați proprietatea <b>loginTable</b> pentru a seta un tabel de referință diferit pentru conectare.<br/>
-<b>UserTable</b> va fi setat în continuare la tabelul de utilizatori normal, care poate fi inserat(sau este inserabil adica se pot insera randuri/inregistrari noi).
+<b>UserTable</b> va fi setat în continuare la tabelul de utilizatori normal, care poate fi inserat(sau este inserabil adica se pot insera randuri/inregistrari noi).<br/>
 
-  <hr/><br/>
-  </details> <!--h4--> 
-  
-  <details><summary><h4>4.Autentificare Wordpress</h4></summary>
+  <details><summary><h4>Autentificare Wordpress(WP)</h4></summary>
   <br/><hr/>
-   
+ Middleware-ul de <b>autentificare Wordpress(WP)</details</b> definește trei(<b>3</b>) <b>rute</b>:<br/>
+ <pre></pre>
+
+method path       - parameters                      - description
+---------------------------------------------------------------------------------------------------
+GET    /me        -                                 - returns the user that is currently logged in
+POST   /login     - username, password              - logs a user in by username and password
+POST   /logout    -                                 - logs out the currently logged in user
+
+</pre>
+Un utilizator poate fi conectat trimițând <b>numele de <b>utilizator</b> și <b>parola</b> la punctul-final(endpoint</b>-ul) de conectare (în format <b>JSONv).<br/>
+Utilizatorul poate fi deconectat prin trimiterea unei cereri <b>POST</b> cu un corp gol la punctul final de deconectare.<br/>
+Trebuie să specificați directorul de instalare Wordpress utilizând parametrul de configurare <b>„wpAuth.wpDirectory”</b>.<br/>
+Middleware-ul numește <b>„wp-load.php”</b>, ceea ce vă permite să utilizați <b>funcții Wordpress</b> în middleware-ul de autorizare, cum ar fi:
+
+ - wp_get_current_user()
+ - is_user_logged_in()
+ - is_super_admin()
+ - user_can(wp_get_current_user(),'edit_posts');
+
+Rețineți că variabila <b>$_SESSION</b> nu este utilizată de acest middleware.  
   <hr/><br/>
   </details> <!--h4--> 
-  <details><summary><h4>5.Autentificare de baza</h4></summary>
+  <details><summary><h4>4.Autentificare de baza</h4></summary>
   <br/><hr/>
    
   <hr/><br/>
   </details>
   
-  <details><summary><h4>Autentificari JWT</h4></summary>
+  <details><summary><h4>5.Autentificari JWT</h4></summary>
   <br/><hr/>
   <details><summary><h5>Autentificare JWT</h5></summary>
   <br/><hr/>
