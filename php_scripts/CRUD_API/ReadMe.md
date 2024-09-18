@@ -1073,7 +1073,7 @@ Acest exemplu trimite șirul „<b>username1</b>:<b>password1</b>”.
   <br/><hr/>
   <details><summary><h5>Autentificare JWT</h5></summary>
   <br/><hr/>
-Tipul <b>JWT</b> necesită un alt server (<b>SSO/Identity</b>)...-deci un intermediar/middleware-... pt. a <a href="https://medium.com/winkhosting/create-a-basic-php-api-with-token-authentication-96111eada51">semna</a> un simbol(<b>token</b>) care conține revendicări(cerinte).<br/>
+Tipul <a href="https://en.wikipedia.org/wiki/JSON_Web_Token"><b>JWT</b></a>a> necesită un alt server (<b>SSO/Identity</b>)...-deci un intermediar/middleware-... pt. a <a href="https://medium.com/winkhosting/create-a-basic-php-api-with-token-authentication-96111eada51">semna</a> un simbol(<b>token</b>) care conține revendicări(cerinte).<br/>
 Ambele servere partajează(detin in comun) un <b>secret</b>, astfel încât, in dublu-sens/ pe 2-cai, să poată <b>semna(Write)</b> sau să <b>verifice(Read)</b> dacă <b>semnătura</b> este validă.<br/> 
 Revendicările sunt stocate în variabila  <b>$_SESSION['claims']</b>.<br/>
 Trebuie să trimiteți un antet <b>„X-Authorization”</b> care să conțină un <b>antet</b>, un <b>corp</b> și o <b>semnătură</b> de simbol(token) cu ​​coduri <b>URL base64</b> și separate prin puncte după cuvântul <b>„Bearer”</b> ( citiți mai multe despre <a href="https://jwt.io/">JWT</a> aici ).<br/>
@@ -1081,7 +1081,7 @@ Standardul spune că trebuie să utilizați antetul <b>„Autorization”</b>, d
 
     X-Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiYWRtaW4iOnRydWUsImlhdCI6IjE1MzgyMDc2MDUiLCJleHAiOjE1MzgyMDc2MzV9.Z5px_GT15TRKhJCTHhDt5Z6K6LRDSFnLj8U5ok9l7gw
 
-Acest exemplu trimite urmatoarele revendicările <b>semnate</b>:
+Acest exemplu trimite urmatoarele <a href="https://en.wikipedia.org/wiki/JSON_Web_Token">revendicări</a> <b>semnate</b>:
 
     {
       "sub": "1234567890",
@@ -1091,7 +1091,7 @@ Acest exemplu trimite urmatoarele revendicările <b>semnate</b>:
       "exp": 1538207635
     }
     
-<b>NB</b>: Implementarea <b>JWT</b> acceptă doar algoritmii bazați pe <b>RSA</b> și <b>HMAC</b>.   
+<b>NB</b>: Implementarea <a href="https://jwt.io/introduction"><b>JWT</b></a> acceptă doar algoritmii bazați pe <b>RSA</b> și <b>HMAC</b>.   
   <hr/><br/>
   </details> <!--h5--> 
   <details><summary><h5>Configurarea si testarea autentificarii-JWT cu Auth0</h5></summary>
