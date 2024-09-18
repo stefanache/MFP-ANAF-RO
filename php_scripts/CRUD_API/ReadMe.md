@@ -961,7 +961,7 @@ Rețineți că autentificarea cheii API <u>nu necesită</u> și <u>nu utilizeaz�
   <details><summary><h4>Autentificare Bazei de Date cu cheie-API(API-key)</h4></summary>
   <br/><hr/>
 Autentificarea <b>bazei-de-date cu chei-API</b> funcționează prin <u>trimiterea</u> unei <b>chei API</b> într-un antet de solicitare <b>„X-API-Key”</b> (numele este configurabil).<br/>
-Cheile API valide sunt <u>citite</u> din baza de date din coloana <b>„api_key”</b> a tabelului <b>„utilizatori”</b> (ambele denumiri sunt configurabile).
+Cheile API valide sunt <u>citite</u> din baza de date din coloana <b>„api_key”</b> a tabelului <b>„users”</b> (ambele denumiri sunt configurabile).
 
     X-API-Key: 02c042aa-c3c2-4d11-9dae-1a6e230ea95e
 
@@ -971,9 +971,50 @@ Rețineți că autentificarea bazei de date cu chei API <u>nu necesită</u> și 
   <hr/><br/>
   </details> <!--h4--> 
   
-  <details><summary><h4>Autentificare Baza de Date</h4></summary>
+  <details><summary><h4>Autentificarea Bazei de Date</h4></summary>
   <br/><hr/>
-   <b>Logare folosind o tabela-join</b>
+    Middleware-ul de autentificare a bazei de date definește cinci(<b>5</b>) <b>rute</b> noi:<br/>
+    
+method path       - parameters                      - description
+---------------------------------------------------------------------------------------------------
+GET    /me        -                                 - returns the user that is currently logged in
+POST   /register  - username, password              - adds a user with given username and password
+POST   /login     - username, password              - logs a user in by username and password
+POST   /password  - username, password, newPassword - updates the password of the logged in user
+POST   /logout    -                                 - logs out the currently logged in user 
+
+Un utilizator poate fi conectat trimițând numele de utilizator și parola la punctul final de conectare (în format JSON).<br/>
+Utilizatorul autentificat (cu toate proprietățile sale) va fi stocat în variabila <b>$_SESSION['user']</b>.<br/>
+Utilizatorul poate fi deconectat prin trimiterea unei cereri POST cu un corp gol la punctul final de deconectare.<br/>
+Parolele sunt stocate ca hash-uri în coloana parolei din tabelul utilizatori.<br/>
+Puteți înregistra un utilizator nou utilizând punctul final de înregistrare, dar această funcționalitate trebuie activată<br/>
+folosind parametrul de configurare <b>„dbAuth.registerUser”</b>.<br/>
+
+Este IMPORTANT să restricționați accesul la tabelul utilizatori folosind middleware-ul de „autorizare”, altfel toți utilizatorii<br/>
+pot adăuga, modifica sau șterge liber orice cont! Configurația minimă este prezentată mai jos:
+
+  'middlewares' => 'dbAuth,authorization',
+  'authorization.tableHandler' => function ($operation, $tableName) {
+      return $tableName != 'users';
+  },
+
+Rețineți că acest middleware utilizează <b>cookie</b>-uri de sesiune și stochează <b>starea</b> de autentificare pe server.<br/>
+
+<b>Conectați-vă folosind vizualizări/viziuni cu o tabela-join(o tabela de alaturare)</b>
+
+Pentru operațiunile de conectare, este posibil să utilizați o vizualizare ca tabel utilizatori(<b>users</b>).<br/>
+O astfel de vizualizare poate returna:<br/>
+
+ - un rezultat filtrat din tabelul utilizatorilor(<b>users</b>), de exemplu, <br/>
+    unde activ = adevărat sau poate returna, de asemenea, 
+ - un rezultat mai multe tabele printr-o unire de tabele.<br/>
+ 
+Cel puțin, vizualizarea ar trebui să includă <b>numele de utilizator</b> și  <b>parola</b>, precum și un câmp numit <b>id</b>.
+
+Cu toate acestea, vizualizările cu tabele-unite nu sunt inserabile ( vezi <a href="https://github.com/mevdschee/php-crud-api/issues/907">problema 907</a> ).<br/>
+Ca o soluție, utilizați proprietatea <b>loginTable</b> pentru a seta un tabel de referință diferit pentru conectare.<br/>
+<b>UserTable</b> va fi setat în continuare la tabelul de utilizatori normal, care poate fi inserat(sau este inserabil adica se pot insera randuri/inregistrari noi).
+
   <hr/><br/>
   </details> <!--h4--> 
   
