@@ -784,7 +784,6 @@ Puteți activa următorul <b>middleware</b> folosind parametrul de configurare �
  - „<b>customization</b>”: Oferă handler pentru personalizarea cererilor și răspunsurilor
  - „<b>json</b>”: acceptă citirea/scrierea șirurilor <a href="https://en.wikipedia.org/wiki/JSON">JSON</a> ca obiecte/matrice <a href="https://en.wikipedia.org/wiki/JSON">JSON</a>
  - „<b>xml</b>”: traduce toate intrările și ieșirile din <a href="https://en.wikipedia.org/wiki/JSON">JSON</a> în <a href="https://en.wikipedia.org/wiki/XML">XML</a></pre>
- 
   <details><summary><h4>Parametrii de configure pt Middlerewares</h4></summary>
   <br/><hr/><pre> 
 Parametrul de configurare „<b>middlewares</b>” este o listă(separată prin virgulă) de/cu <b>middleware</b>-uri activate.<br/>
@@ -1005,10 +1004,11 @@ Rețineți că autentificarea bazei de date cu chei API <u>nu necesită</u> și 
   <br/><hr/>
    
   <hr/><br/>
-  </details>
+  </details> <!--h5-->
   <hr/><br/>
-  </details> 
-
+  </details> <!--h4-->
+  <hr/><br/>
+  </details> <!--h3-->
   <details><summary><h3>Autorizari</h3></summary>
   <br/><hr/>
   <details><summary><h4>Autorizarea operatiilor</h4></summary>
@@ -1020,14 +1020,14 @@ Rețineți că autentificarea bazei de date cu chei API <u>nu necesită</u> și 
   <br/><hr/>
    
   <hr/><br/>
-  </details>
+  </details> <!--h4-->
   <details><summary><h4>Autorizarea SQL GRANT</h4></summary>
   <br/><hr/>
    
   <hr/><br/>
-  </details> 
+  </details> <!--h4-->
   <hr/><br/>
-  </details> 
+  </details> <!--h4-->
   <details><summary><h3>Sanitizarea intrarii</h3></summary>
   <br/><hr/>
     
@@ -1035,9 +1035,9 @@ Rețineți că autentificarea bazei de date cu chei API <u>nu necesită</u> și 
   <br/><hr/>
    
   <hr/><br/>
-  </details>   
+  </details>  <!--h4--> 
   <hr/><br/>
-  </details>
+  </details> <!--h3-->
 
   <details><summary><h3>Validarea intrarii</h3></summary>
   <br/><hr/>
@@ -1046,9 +1046,9 @@ Rețineți că autentificarea bazei de date cu chei API <u>nu necesită</u> și 
   <br/><hr/>
    
   <hr/><br/>
-  </details>   
+  </details>   <!--h4-->
   <hr/><br/>
-  </details>
+  </details>   <!--h3-->
 
   <details><summary><h3>Suport multi-chirias(multi-tenancy)</h3></summary>
   <br/><hr/>
@@ -1057,29 +1057,29 @@ Rețineți că autentificarea bazei de date cu chei API <u>nu necesită</u> și 
   <br/><hr/>
    
   <hr/><br/>
-  </details>
+  </details> <!--h4-->
   <details><summary><h4>Reconectarea intermediarului</h4></summary>
   <br/><hr/>
    
   <hr/><br/>
-  </details>  
+  </details> <!--h4-->  
   <hr/><br/>
-  </details>
+  </details><!--h3-->
   <details><summary><h3>Prevenirea "scraping"-ului bazei de date(culegerii nedorite de date)</h3></summary>
   <br/><hr/>
    
   <hr/><br/>
-  </details> 
+  </details>  <!--h3-->
   <details><summary><h3>Cautarea tuturor campurilor text</h3></summary>
   <br/><hr/>
    
   <hr/><br/>
-  </details>
+  </details> <!--h3-->
   <details><summary><h3>Personalizarea manipulatorilor(customization handlers)</h3></summary>
   <br/><hr/>
    
   <hr/><br/>
-  </details>
+  </details> <!--h3-->
   <details><summary><h3>Optiuni de codificare JSON(JSON encoding options)</h3></summary>
   <br/><hr/>
    
@@ -1094,14 +1094,14 @@ Rețineți că autentificarea bazei de date cu chei API <u>nu necesită</u> și 
   <br/><hr/>
    
   <hr/><br/>
-  </details>
+  </details> <!--h3-->
   <details><summary><h3>Incarcarile de fisier(File uploads)</h3></summary>
   <br/><hr/>
    
   <hr/><br/>
-  </details>  
+  </details>  <!--h3-->
   <hr/><br/>
-  </details>
+  </details> <!--h2-->
   <details><summary><h2>Specificatia OpenAPI</h2></summary>
   <br/><hr/>
    
