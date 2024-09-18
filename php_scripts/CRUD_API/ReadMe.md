@@ -1060,12 +1060,12 @@ Rețineți că variabila <b>$_SESSION</b> nu este utilizată de acest middleware
   <br/><hr/>
 Tipul de bază acceptă un fișier (în mod implicit <b>„.htpasswd”</b>) care deține utilizatorii și parolele lor (<b>hash</b>-uite) separate prin două puncte („<b>:</b>b>”).<br/>
 Când <b>parolele</b> sunt introduse în text simplu, acestea vor fi automat <b>hash</b>-uite/codificate.<br/>
-<b>>Numele de utilizator</b autentificat va fi stocat în variabila <b>$_SESSION['username']</b>.<br/> 
-Trebuie să trimiteți un antet <b>„Autorization”</b> care să conțină o versiune codificată <b>URL-base64</b> a <b>numelui de utilizator </b>și a <b>parolei</b> separate prin două puncte(<b>:</b>), după cuvântul <b>„Basic”</b>.
+<b>Numele de utilizator</b> autentificat va fi stocat în variabila <b>$_SESSION['username']</b>.<br/> 
+Trebuie să trimiteți un antet <b>„Autorization”</b> care să conțină o versiune codificată <b>URL-base64</b> a <b>numelui de utilizator</b> și a <b>parolei</b> separate prin două puncte(<b>:</b>), după cuvântul <b>„Basic”</b>.
 
     Authorization: Basic dXNlcm5hbWUxOnBhc3N3b3JkMQ
 
-Acest exemplu trimite șirul „<b>nume utilizator1</b>:<b>parolă1</b>”.  
+Acest exemplu trimite șirul „<b>username1</b>:<b>password1</b>”.  
   <hr/><br/>
   </details>
   
