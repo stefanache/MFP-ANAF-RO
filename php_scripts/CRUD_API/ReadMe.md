@@ -1010,7 +1010,8 @@ pot adăuga, modifica sau șterge liber orice cont! Configurația minimă este p
 
 Rețineți că acest middleware utilizează <b>cookie</b>-uri de sesiune și stochează <b>starea</b> de autentificare pe server.<br/>
 
-<b>Conectați-vă folosind vizualizări/viziuni cu o tabela-join(o tabela de alaturare)</b>
+  <details><summary><h4><b>Conectați-vă folosind vizualizări/viziuni cu o tabela-join(o tabela de alaturare)</b></h4></summary>
+  <br/><hr/>
 
 Pentru operațiunile de conectare, este posibil să utilizați o vizualizare ca tabel utilizatori(<b>users</b>).<br/>
 O astfel de vizualizare poate returna:<br/>
@@ -1023,8 +1024,9 @@ Cel puțin, vizualizarea ar trebui să includă <b>numele de utilizator</b> și 
 
 Cu toate acestea, <b>vizualizările</b> cu tabele-unite <b>nu sunt inserabile</b> ( vezi <a href="https://github.com/mevdschee/php-crud-api/issues/907">problema 907</a> ).<br/>
 Ca o soluție, utilizați proprietatea <b>loginTable</b> pentru a seta un tabel de referință diferit pentru conectare.<br/>
-<b>UserTable</b> va fi setat în continuare la tabelul de utilizatori normal, care poate fi inserat(sau este inserabil adica se pot insera randuri/inregistrari noi).<br/>
-
+<b>UserTable</b> va fi setat în continuare la tabelul de utilizatori normal, care poate fi inserat(sau este inserabil adica se pot insera randuri/inregistrari noi).
+  <hr/><br/>
+  </details> <!--h4--> 
   <details><summary><h4>Autentificare Wordpress(WP)</h4></summary>
   <br/><hr/>
  Middleware-ul de <b>autentificare Wordpress(WP)</b> definește trei(<b>3</b>) <b>rute</b>:<br/>
