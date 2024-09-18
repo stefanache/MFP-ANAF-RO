@@ -1097,7 +1097,7 @@ Acest exemplu trimite urmatoarele <a href="https://en.wikipedia.org/wiki/JSON_We
   <details><summary><h5>Configurarea si testarea autentificarii-JWT cu/prin Auth0</h5></summary>
   <br/><hr/>
 Mai întâi trebuie să <b>creați un cont</b> pe site-ul <a href="https://auth0.com/auth/login">Auth0</a>.<br/>
-Odată autentificat(logat in site-ul Auth0), trebuie să <b>creați o aplicație</b> (tipul acesteia nu contează).<br/>
+Odată autentificat(logat in site-ul Auth0/by Okta), trebuie să <b>creați o aplicație</b> (tipul acesteia nu contează).<br/>
 Colectați din acest site <b>Domain</b> și <b>Client ID</b> și păstrați-le pentru o utilizare ulterioară.<br/>
 Apoi, <b>creați un API</b>: dați-i un nume/denumire și <b>completați</b> câmpul <b>identifier</b> cu adresa URL a punctului-final API(<b>API-endpoint URL</b>).
 
@@ -1130,7 +1130,7 @@ Adăugați o <b>aplicație web</b> la acest proiect și luați <b>fragmentul de 
 Apoi trebuie să <b>configurați</b> zona/configurația <b>jwtAuth.secrets</b> în/din fișierul dvs <b>api.php</b>.<br/>
 Acest lucru se poate face după cum urmează:
 
- - <b>a</b>. Conectați-vă un utilizator la aplicația dvs. bazată pe Firebase, si apoi obțineți un simbol(<b>token</b>/jeton) de autentificare pentru utilizatorul respectiv<br/>
+ - <b>a</b>. Conectați-vă un utilizator la aplicația dvs. bazată pe Firebase/by Google, si apoi obțineți un simbol(<b>token</b>/jeton) de autentificare pentru utilizatorul respectiv<br/>
  - <b>b</b>. Accesați <a href="https://jwt.io/">https://jwt.io/</a> și inserați <b>jeton/token</b>-ul în câmpul de decodare(<b>Encoded</b>)<br/>
  - <b>c</b>. Citiți informațiile <b>antet</b>-ului decodificate din simbol(jeton/token), acesta vă va oferi <b>kid</b> <br/>
  - <b>d</b>. Luați <b>cheia-publică</b> prin această adresă-URL , care corespunde cu <b>kid</b>-ului din pasul anterior <br/>
