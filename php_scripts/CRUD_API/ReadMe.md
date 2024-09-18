@@ -759,7 +759,7 @@ Deoarece aceste două mapări/asocieri/echivalări(separate de "<b>,</b>") se <b
   </details>
   <details><summary><h2>Intermediere(Middlereware)</h2></summary>
   <br/><hr/>
-  <details><summary><h3>Intermediari/Mijlocitori/Brokeri/Proxy-uri pt/de suport(Middlerewares)</h3></summary>
+  <details><summary><h3>Intermediari/Mijlocitori/Brokeri/Proxy-uri pt/de suport(Middlewares)</h3></summary>
   <br/><hr/><pre>    
 Puteți activa următorul <b>middleware</b> folosind parametrul de configurare „<b>middlewares</b>”:<br/>
 
@@ -786,7 +786,7 @@ Puteți activa următorul <b>middleware</b> folosind parametrul de configurare �
  - „<b>customization</b>”: Oferă handler pentru personalizarea cererilor și răspunsurilor
  - „<b>json</b>”: acceptă citirea/scrierea șirurilor <a href="https://en.wikipedia.org/wiki/JSON">JSON</a> ca obiecte/matrice <a href="https://en.wikipedia.org/wiki/JSON">JSON</a>
  - „<b>xml</b>”: traduce toate intrările și ieșirile din <a href="https://en.wikipedia.org/wiki/JSON">JSON</a> în <a href="https://en.wikipedia.org/wiki/XML">XML</a></pre>
-  <details><summary><h4>Parametrii de configure pt Middlerewares</h4></summary>
+  <details><summary><h4>Parametrii de configure pt Middlewares</h4></summary>
   <br/><hr/><pre> 
 Parametrul de configurare „<b>middlewares</b>” este o listă(separată prin virgulă) de/cu <b>middleware</b>-uri activate.<br/>
 Puteți regla comportamentul <b>middleware</b> folosind <b>parametrii de configurare</b> specifici <b>middleware</b>-ului aferent:<br/>
@@ -1073,14 +1073,15 @@ Acest exemplu trimite șirul „<b>username1</b>:<b>password1</b>”.
   <br/><hr/>
   <details><summary><h5>Autentificare JWT</h5></summary>
   <br/><hr/>
-Tipul <b>JWT</b> necesită un alt server (<b>SSO/Identity</b>) pentru a semna un simbol(<b>token</b>) care conține revendicări.<br/>
-Ambele servere partajează(detin in comun) un <b>secret</b>, astfel încât să poată <b>semna</b> sau să <b>verifice</b> dacă <b>semnătura</b> este validă.<br/> Revendicările sunt stocate în variabila  <b>$_SESSION['claims']</b>.<br/>
+Tipul <b>JWT</b> necesită un alt server (<b>SSO/Identity</b>) pentru a <a href="https://medium.com/winkhosting/create-a-basic-php-api-with-token-authentication-96111eada51">semna</a> un simbol(<b>token</b>) care conține revendicări.<br/>
+Ambele servere partajează(detin in comun) un <b>secret</b>, astfel încât, in dublu-sens/ pe 2-cai, să poată <b>semna(Write)</b> sau să <b>verifice(Read)</b> dacă <b>semnătura</b> este validă.<br/> 
+Revendicările sunt stocate în variabila  <b>$_SESSION['claims']</b>.<br/>
 Trebuie să trimiteți un antet <b>„X-Authorization”</b> care să conțină un <b>antet</b>, un <b>corp</b> și o <b>semnătură</b> de simbol(token) cu ​​coduri <b>URL base64</b> și separate prin puncte după cuvântul <b>„Bearer”</b> ( citiți mai multe despre <a href="https://jwt.io/">JWT</a> aici ).<br/>
 Standardul spune că trebuie să utilizați antetul <b>„Autorization”</b>, dar acest lucru este problematic în <b>webserverul Apache</b> și <b>limbajul PHP</b>.
 
     X-Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiYWRtaW4iOnRydWUsImlhdCI6IjE1MzgyMDc2MDUiLCJleHAiOjE1MzgyMDc2MzV9.Z5px_GT15TRKhJCTHhDt5Z6K6LRDSFnLj8U5ok9l7gw
 
-Acest exemplu trimite urmatoarele revendicările semnate:
+Acest exemplu trimite urmatoarele revendicările <b>semnate</b>:
 
     {
       "sub": "1234567890",
