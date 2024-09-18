@@ -885,7 +885,62 @@ Dacă nu specificați acești parametri în configurație, atunci se folosesc va
   <br/><hr/>
   <details><summary><h4>Autentificare</h4></summary>
   <br/><hr/>
-   
+  În prezent, sunt acceptate cinci tipuri de autentificare.<br/>
+  Toate stochează utilizatorul autentificat în $_SESSIONsuper-global.<br/>
+  Această variabilă poate fi utilizată în manipulatorii de autorizare pentru a decide dacă cineva ar trebui să aibă sau nu <br/>
+  acces de citire sau scriere la anumite tabele, coloane sau înregistrări.<br/>
+  Următoarea prezentare generală arată tipurile de middleware de autentificare pe care le puteți activa.<br/>
+    <center>
+      <table tabindex="0">
+<thead>
+<tr>
+<th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Nume</font></font></th>
+<th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Middleware</font></font></th>
+<th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Autentificat prin</font></font></th>
+<th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Utilizatorii sunt stocați în</font></font></th>
+<th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Variabila de sesiune</font></font></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">cheie API</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">apiKeyAuth</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Antetul „X-API-Key”.</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">configurație</font></font></td>
+<td><code>$_SESSION['apiKey']</code></td>
+</tr>
+<tr>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">DB cheie API</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">apiKeyDbAuth</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Antetul „X-API-Key”.</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">tabelul bazei de date</font></font></td>
+<td><code>$_SESSION['apiUser']</code></td>
+</tr>
+<tr>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Baza de date</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">dbAuth</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">punctul final „/login”.</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">tabelul bazei de date</font></font></td>
+<td><code>$_SESSION['user']</code></td>
+</tr>
+<tr>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">De bază</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">basicAuth</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Antetul „Autorizare”.</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">fișierul „.htpasswd”.</font></font></td>
+<td><code>$_SESSION['username']</code></td>
+</tr>
+<tr>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">JWT</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">jwtAuth</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Antetul „Autorizare”.</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">furnizor de identitate</font></font></td>
+<td><code>$_SESSION['claims']</code></td>
+</tr>
+</tbody>
+</table>
+    </center><br/>
+    Mai jos găsiți mai multe informații despre fiecare dintre tipurile de autentificare.
   <hr/><br/>
   </details> 
   <details><summary><h4>Autentificare cu cheie-API(API-key)</h4></summary>
