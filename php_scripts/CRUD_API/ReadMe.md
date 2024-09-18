@@ -974,7 +974,7 @@ Rețineți că autentificarea bazei de date cu chei API <u>nu necesită</u> și 
   <details><summary><h4>Autentificarea Bazei de Date</h4></summary>
   <br/><hr/>
     Middleware-ul de autentificare a bazei de date definește cinci(<b>5</b>) <b>rute</b> noi:<br/>
-    
+<pre>  
 method path       - parameters                      - description
 ---------------------------------------------------------------------------------------------------
 GET    /me        -                                 - returns the user that is currently logged in
@@ -982,7 +982,7 @@ POST   /register  - username, password              - adds a user with given use
 POST   /login     - username, password              - logs a user in by username and password
 POST   /password  - username, password, newPassword - updates the password of the logged in user
 POST   /logout    -                                 - logs out the currently logged in user 
-
+</pre>  
 Un utilizator poate fi conectat trimițând numele de utilizator și parola la punctul final de conectare (în format JSON).<br/>
 Utilizatorul autentificat (cu toate proprietățile sale) va fi stocat în variabila <b>$_SESSION['user']</b>.<br/>
 Utilizatorul poate fi deconectat prin trimiterea unei cereri POST cu un corp gol la punctul final de deconectare.<br/>
