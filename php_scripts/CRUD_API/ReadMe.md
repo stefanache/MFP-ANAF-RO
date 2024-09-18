@@ -879,8 +879,7 @@ Dacă nu specificați acești parametri în configurație, atunci se folosesc va
 În secțiunile de mai jos găsiți mai multe informații despre <b>middleware</b>-ul încorporat. 
   <hr/><br/>
   </details> 
-  <hr/><br/>
-  </details> 
+
   <details><summary><h3>Autentificari</h3></summary>
   <br/><hr/>
   <details><summary><h4>Autentificare</h4></summary>
