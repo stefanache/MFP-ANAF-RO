@@ -1124,17 +1124,17 @@ De asemenea, puteți <b>modifica</b> variabila <b>url</b> , folosită pentru a t
   </details> <!--h5--> 
   <details><summary><h5>Configurare si testare autentificare JWT cu/prin Firebase</h5></summary>
   <br/><hr/>
-Mai întâi trebuie să creați un proiect Firebase pe <a href="https://console.firebase.google.com/">consola Firebase</a> .<br/>
-Adăugați o aplicație web la acest proiect și luați fragmentul de cod pentru o utilizare ulterioară.
+Mai întâi trebuie să <b>creați un proiect</b> Firebase pe <a href="https://console.firebase.google.com/">consola Firebase</a> .<br/>
+Adăugați o <b>aplicație web</b> la acest proiect și luați <b>fragmentul de cod</b> pentru o utilizare ulterioară.
 
-Apoi trebuie să configurați configurația <b>jwtAuth.secrets</b> în fișierul dvs <b>api.php</b>.<br/>
+Apoi trebuie să <b>configurați</b> zona/configurația <b>jwtAuth.secrets</b> în/din fișierul dvs <b>api.php</b>.<br/>
 Acest lucru se poate face după cum urmează:
 
-    a. Conectați-vă un utilizator la aplicația dvs. bazată pe Firebase, obțineți un simbol de autentificare pentru utilizatorul respectiv<br/>
-    b. Accesați <a href="https://jwt.io/">https://jwt.io/</a> și inserați jetonul în câmpul de decodare<br/>
-    c. Citiți informațiile antetului decodificate din simbol, acesta vă va oferi kid <br/>
-    d. Luați cheia publică prin această adresă URL , care corespunde cu kidpasul anterior <br/>
-    e. Acum, completează jwtAuth.secretscu cheia publică înapi.php
+    a. Conectați-vă un utilizator la aplicația dvs. bazată pe Firebase, obțineți un simbol(token/jeton) de autentificare pentru utilizatorul respectiv<br/>
+    b. Accesați <a href="https://jwt.io/">https://jwt.io/</a> și inserați jetonul/token-ul în câmpul de decodare<br/>
+    c. Citiți informațiile antetului decodificate din simbol(token), acesta vă va oferi <b>kid</b> <br/>
+    d. Luați cheia publică prin această adresă-URL , care corespunde cu <b>kid</b>-ului din pasul anterior <br/>
+    e. Acum, completează <b>jwtAuth.secrets</b> cu cheia publică în <b>api.php</b>
 
 De asemenea, configurați <b>jwtAuth.audiences</b>(completați <b>ID</b>-ul proiectului Firebase: Firebase-project-ID).
 
