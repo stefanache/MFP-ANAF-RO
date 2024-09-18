@@ -1130,8 +1130,8 @@ Adăugați o aplicație web la acest proiect și luați fragmentul de cod pentru
 Apoi trebuie să configurați configurația <b>jwtAuth.secrets</b> în fișierul dvs <b>api.php</b>.<br/>
 Acest lucru se poate face după cum urmează:
 
-    o. Conectați-vă un utilizator la aplicația dvs. bazată pe Firebase, obțineți un simbol de autentificare pentru utilizatorul respectiv<br/>
-    b.Accesați <a href="https://jwt.io/">https://jwt.io/</a> și inserați jetonul în câmpul de decodare<br/>
+    a. Conectați-vă un utilizator la aplicația dvs. bazată pe Firebase, obțineți un simbol de autentificare pentru utilizatorul respectiv<br/>
+    b. Accesați <a href="https://jwt.io/">https://jwt.io/</a> și inserați jetonul în câmpul de decodare<br/>
     c. Citiți informațiile antetului decodificate din simbol, acesta vă va oferi kid <br/>
     d. Luați cheia publică prin această adresă URL , care corespunde cu kidpasul anterior <br/>
     e. Acum, completează jwtAuth.secretscu cheia publică înapi.php
