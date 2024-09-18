@@ -913,35 +913,35 @@ Dacă nu specificați acești parametri în configurație, atunci se folosesc va
 </thead>
 <tbody>
 <tr>
-<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">cheie API</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1.cheie API</font></font></td>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">apiKeyAuth</font></font></td>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Antetul „X-API-Key”.</font></font></td>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">configurație</font></font></td>
 <td><code>$_SESSION['apiKey']</code></td>
 </tr>
 <tr>
-<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">DB cheie API</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2.DB cheie API</font></font></td>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">apiKeyDbAuth</font></font></td>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Antetul „X-API-Key”.</font></font></td>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">tabelul bazei de date</font></font></td>
 <td><code>$_SESSION['apiUser']</code></td>
 </tr>
 <tr>
-<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Baza de date</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">3.Baza de date(DB)</font></font></td>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">dbAuth</font></font></td>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">punctul final „/login”.</font></font></td>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">tabelul bazei de date</font></font></td>
 <td><code>$_SESSION['user']</code></td>
 </tr>
 <tr>
-<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">De bază</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">4.De bază</font></font></td>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">basicAuth</font></font></td>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Antetul „Autorizare”.</font></font></td>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">fișierul „.htpasswd”.</font></font></td>
 <td><code>$_SESSION['username']</code></td>
 </tr>
 <tr>
-<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">JWT</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5.JWT</font></font></td>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">jwtAuth</font></font></td>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Antetul „Autorizare”.</font></font></td>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">furnizor de identitate</font></font></td>
@@ -954,7 +954,7 @@ Dacă nu specificați acești parametri în configurație, atunci se folosesc va
   <hr/><br/>
   </details> <!--h4--> 
   
-  <details><summary><h4>Autentificare cu cheie-API(API-key)</h4></summary>
+  <details><summary><h4>1.Autentificare cu cheie-API(API-key)</h4></summary>
   <br/><hr/>
 Autentificarea cu <b>chei API</b> funcționează prin <u>trimiterea</u> unei <b>chei API</b> într-un <b>antet de solicitare</b>.<br/>
 Denumirea antetului este implicit <b>„X-API-Key”</b> și poate fi configurat folosind parametrul de configurare <b>„apiKeyAuth.header”</b>.<br/>
@@ -968,7 +968,7 @@ Rețineți că autentificarea cheii API <u>nu necesită</u> și <u>nu utilizeaz�
   <hr/><br/>
   </details> <!--h4--> 
   
-  <details><summary><h4>Autentificarea Bazei de Date cu cheie-API(API-key)</h4></summary>
+  <details><summary><h4>2.Autentificarea Bazei de Date cu cheie-API(API-key)</h4></summary>
   <br/><hr/>
 Autentificarea <b>bazei-de-date cu chei-API</b> funcționează prin <u>trimiterea</u> unei <b>chei API</b> într-un antet de solicitare <b>„X-API-Key”</b> (numele este configurabil).<br/>
 Cheile API valide sunt <u>citite</u> din baza de date din coloana <b>„api_key”</b> a tabelului <b>„users”</b> (ambele denumiri sunt configurabile).
@@ -981,7 +981,7 @@ Rețineți că autentificarea bazei de date cu chei API <u>nu necesită</u> și 
   <hr/><br/>
   </details> <!--h4--> 
   
-  <details><summary><h4>Autentificarea Bazei de Date</h4></summary>
+  <details><summary><h4>3.Autentificarea Bazei de Date cu cont-utilizator</h4></summary>
   <br/><hr/>
     Middleware-ul de <b>autentificare a bazei de date<b></b>details</b> definește cinci(<b>5</b>) <b>rute</b> noi:<br/>
 <pre>  
@@ -1028,12 +1028,12 @@ Ca o soluție, utilizați proprietatea <b>loginTable</b> pentru a seta un tabel 
   <hr/><br/>
   </details> <!--h4--> 
   
-  <details><summary><h4>Autentificare Wordpress</h4></summary>
+  <details><summary><h4>4.Autentificare Wordpress</h4></summary>
   <br/><hr/>
    
   <hr/><br/>
   </details> <!--h4--> 
-  <details><summary><h4>Autentificare de baza</h4></summary>
+  <details><summary><h4>5.Autentificare de baza</h4></summary>
   <br/><hr/>
    
   <hr/><br/>
