@@ -1112,7 +1112,7 @@ Rețineți că autentificarea bazei de date cu chei API <u>nu necesită</u> și 
    
   <hr/><br/>
   </details>
-  <details><summary><h2>Tipuri de date</h2></summary>
+  <details><summary><h2>Tipurile de date</h2></summary>
   <details><summary><h3>Tipuri de date(Types)</h3></summary>
   <br/><hr/>
    
