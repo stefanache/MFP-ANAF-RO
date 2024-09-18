@@ -1099,24 +1099,24 @@ Acest exemplu trimite urmatoarele revendicările <b>semnate</b>:
 Mai întâi trebuie să <b>creați un cont</b> pe site-ul <a href="https://auth0.com/auth/login">Auth0</a>.<br/>
 Odată autentificat(logat in site-ul Auth0), trebuie să <b>creați o aplicație</b> (tipul acesteia nu contează).<br/>
 Colectați din acest site <b>Domain</b> și <b>Client ID</b> și păstrați-le pentru o utilizare ulterioară.<br/>
-Apoi, <b>creați un API</b>: dați-i un nume/denumire și completați câmpul <b>identifier</b> cu adresa URL a punctului-final API(API-endpoint URL).
+Apoi, <b>creați un API</b>: dați-i un nume/denumire și <b>completați</b> câmpul <b>identifier</b> cu adresa URL a punctului-final API(<b>API-endpoint URL</b>).
 
 Apoi trebuie să configurați/personalizati configurația <b>jwtAuth.secrets</b> în fișierul dvs <b>api.php</b> .<br/>
 Nu o completați cu cele pe care le veți găsi in <b>secret</b>, în setările aplicației dvs. <b>Auth0</b>, ci cu un <b>certificat public</b>.<br/>
-Pentru a-l găsi(certificatul public), accesați <b>setările</b> aplicației dvs., apoi în <b>„Extra settings”</b>.<br/>
+Pentru a-l găsi(certificatul public), accesați <b>setările</b> aplicației dvs., apoi mergeti în <b>„Extra settings”</b>.<br/>
 Veți găsi acum/aici o filă/zona <b>„Certificates”</b> unde veți găsi <b>cheia publică</b> în câmpul <b>Signing Certificate</b>(Certificat de semnare).
 
-Pentru a vă testa integrarea, puteți copia fișierul <a href="https://github.com/codemage66/PHP-CRUD-API/blob/main/examples/clients/auth0/vanilla.html">auth0/vanilla.html</a>.<br/>
-Asigurați-vă că completați aceste trei(<b>3</b>) <b>variabile</b>:
+Pentru a vă <b>testa integrarea</b>, puteți copia fișierul <a href="https://github.com/codemage66/PHP-CRUD-API/blob/main/examples/clients/auth0/vanilla.html">auth0/vanilla.html</a>.<br/>
+Asigurați-vă că ati completat aceste trei(<b>3</b>) <b>variabile</b>:
 
  - <b>authUrl</b>  cu domeniul dvs. Auth0(Auth0 domain)
  - <b>clientId</b> cu ID-ul dvs. de client(Client ID)
  - <b>audience</b> cu adresa URL API pe care ați creat-o în Auth0
    
-Rețineți că, dacă nu completați parametrul de <b>audience</b>, acesta nu va funcționa deoarece nu veți obține un JWT valid.<br/>
-De asemenea, rețineți că trebuie să completați <b>jwtAuth.audiences</b>(cu valoarea <b>audience</b>) pt a vă asigura că tokenurile sunt validate(pt a fi generate pentru aplicația dvs).
+Rețineți că, dacă nu completați parametrul de <b>audience</b>, acesta nu va funcționa deoarece nu veți obține un <b>JWT</b> valid.<br/>
+De asemenea, rețineți că trebuie să completați <b>jwtAuth.audiences</b>(cu valoarea <b>audience</b>) pt a vă asigura că tokenurile sunt validate(pentru a fi generate spre a fi utilizate in aplicația dvs).
 
-De asemenea, puteți modifica variabila <b>url</b> , folosită pentru a testa API-ul cu autentificare.
+De asemenea, puteți <b>modifica</b> variabila <b>url</b> , folosită pentru a testa API-ul cu autentificare.
 
 <a href="https://auth0.com/docs/api-auth/tutorials/verify-access-token">Mai multe Informații</a>
 
