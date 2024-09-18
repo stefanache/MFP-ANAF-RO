@@ -1004,6 +1004,8 @@ Rețineți că autentificarea bazei de date cu chei API <u>nu necesită</u> și 
   </details>  
   <hr/><br/> 
   </details>
+    <hr/><br/> 
+  </details>
   <details><summary><h3>Autorizari</h3></summary>
   <br/><hr/>
   <details><summary><h4>Autorizarea operatiilor</h4></summary>
