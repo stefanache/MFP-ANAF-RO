@@ -958,7 +958,7 @@ Rețineți că autentificarea cheii API <u>nu necesită</u> și <u>nu utilizeaz�
   <hr/><br/>
   </details> <!--h4--> 
   
-  <details><summary><h4>Autentificare Bazei de Date cu cheie-API(API-key)</h4></summary>
+  <details><summary><h4>Autentificarea Bazei de Date cu cheie-API(API-key)</h4></summary>
   <br/><hr/>
 Autentificarea <b>bazei-de-date cu chei-API</b> funcționează prin <u>trimiterea</u> unei <b>chei API</b> într-un antet de solicitare <b>„X-API-Key”</b> (numele este configurabil).<br/>
 Cheile API valide sunt <u>citite</u> din baza de date din coloana <b>„api_key”</b> a tabelului <b>„users”</b> (ambele denumiri sunt configurabile).
