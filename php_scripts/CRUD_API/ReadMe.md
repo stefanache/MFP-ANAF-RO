@@ -1073,7 +1073,7 @@ Acest exemplu trimite șirul „<b>username1</b>:<b>password1</b>”.
   <br/><hr/>
   <details><summary><h5>Autentificare JWT</h5></summary>
   <br/><hr/>
-Tipul <b>JWT</b> necesită un alt server (<b>SSO/Identity</b>) pentru a <a href="https://medium.com/winkhosting/create-a-basic-php-api-with-token-authentication-96111eada51">semna</a> un simbol(<b>token</b>) care conține revendicări.<br/>
+Tipul <b>JWT</b> necesită un alt server (<b>SSO/Identity</b>)-deci un intermediar/middleware- pentru a <a href="https://medium.com/winkhosting/create-a-basic-php-api-with-token-authentication-96111eada51">semna</a> un simbol(<b>token</b>) care conține revendicări.<br/>
 Ambele servere partajează(detin in comun) un <b>secret</b>, astfel încât, in dublu-sens/ pe 2-cai, să poată <b>semna(Write)</b> sau să <b>verifice(Read)</b> dacă <b>semnătura</b> este validă.<br/> 
 Revendicările sunt stocate în variabila  <b>$_SESSION['claims']</b>.<br/>
 Trebuie să trimiteți un antet <b>„X-Authorization”</b> care să conțină un <b>antet</b>, un <b>corp</b> și o <b>semnătură</b> de simbol(token) cu ​​coduri <b>URL base64</b> și separate prin puncte după cuvântul <b>„Bearer”</b> ( citiți mai multe despre <a href="https://jwt.io/">JWT</a> aici ).<br/>
