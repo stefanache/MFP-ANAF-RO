@@ -947,7 +947,7 @@ Dacă nu specificați acești parametri în configurație, atunci se folosesc va
   
   <details><summary><h4>Autentificare cu cheie-API(API-key)</h4></summary>
   <br/><hr/>
-Autentificarea cu <b>xchei API</b>b> funcționează prin <u>trimiterea</u> unei <b>chei API</details>b> într-un <b>antet de solicitare</b>.<br/>
+Autentificarea cu <b>chei API</b> funcționează prin <u>trimiterea</u> unei <b>chei API</b> într-un <b>antet de solicitare</b>.<br/>
 Denumirea antetului este implicit <b>„X-API-Key”</b> și poate fi configurat folosind parametrul de configurare <b>„apiKeyAuth.header”</b>.<br/>
 Cheile API valide trebuie configurate folosind parametrul de configurare <b>„apiKeyAuth.keys”</b> (listă separată prin virgulă).
 
@@ -958,6 +958,7 @@ Cheia API autentificată va fi <u>stocată</b> în variabila <b>$_SESSION['apiKe
 Rețineți că autentificarea cheii API <u>nu necesită</u> și <u>nu utilizează</u> module <b>cookie de sesiune</b>.   
   <hr/><br/>
   </details>
+  
   <details><summary><h4>Autentificare Bazei de Date cu cheie-API(API-key)</h4></summary>
   <br/><hr/>
 Autentificarea <b>bazei-de-date cu chei-API</b> funcționează prin <u>trimiterea</u> unei <b>chei API</b> într-un antet de solicitare </b>„X-API-Key”</b> (numele este configurabil).<br/>
@@ -1007,8 +1008,7 @@ Rețineți că autentificarea bazei de date cu chei API <u>nu necesită</u> și 
   </details>
   <hr/><br/>
   </details> 
-    <hr/><br/>
-  </details> 
+
   <details><summary><h3>Autorizari</h3></summary>
   <br/><hr/>
   <details><summary><h4>Autorizarea operatiilor</h4></summary>
