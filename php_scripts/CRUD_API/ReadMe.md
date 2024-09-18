@@ -881,6 +881,12 @@ Dacă nu specificați acești parametri în configurație, atunci se folosesc va
   </details> <!--h4--> 
   <hr/><br/> 
   </details> <!--h3--> 
+  <details><summary><h3>Autentificari si Autorizari</h3></summary>
+  <br/><hr/><pre> 
+  Autentificare versus autorizare
+Autentificarea confirmă că utilizatorul care se conectează este cine spune că este(verificarea <b>Identitatii</b> utilizatorului), în timp ce 
+autorizarea confirmă că acesta(utilizatorul) are <b>permisiunile</b> potrivite pentru a accesa <b>informațiile</b> pe care le dorește.
+</pre>
   <details><summary><h3>Autentificari</h3></summary>
   <br/><hr/>   
   <details><summary><h4>Autentificare</h4></summary>
@@ -1068,7 +1074,10 @@ Ca o soluție, utilizați proprietatea <b>loginTable</b> pentru a seta un tabel 
   <hr/><br/>
   </details> <!--h4-->
   <hr/><br/>
-  </details> <!--h4-->
+  </details> <!--h3-->
+  <hr/><br/> 
+  </details> <!--h3 inchidere Autentificari si Autorizari-->  
+  
   <details><summary><h3>Sanitizarea intrarii</h3></summary>
   <br/><hr/>
     
