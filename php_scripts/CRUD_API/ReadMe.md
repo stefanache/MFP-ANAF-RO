@@ -1610,7 +1610,7 @@ Puteți activa middleware-ul <b>„json”</b> utilizând setarea de configurare
 
     GET /records/posts/1
 
-Ieșiri (când „destul de tipărit”):
+are ca Ieșire (când utilizam „pretty printed” adica tiparire draguta/placuta ochiului):
 
     {
         "id": 1,
@@ -1619,11 +1619,11 @@ Ieșiri (când „destul de tipărit”):
         "content": "blog started"
     }
     
-In timp ce  (rețineți parametrul de interogare <b>„format”</b>):
+In timp ce  (rețineți parametrul de interogare <b>„format”</b>) cererea:
 
     GET /records/posts/1?format=xml
 
-Ieșiri:
+are ca Ieșire:
 
     <root>
         <id>1</id>
