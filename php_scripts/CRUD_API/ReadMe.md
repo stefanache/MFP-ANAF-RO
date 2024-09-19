@@ -1232,7 +1232,7 @@ Trebuie să gestionați crearea de <b>înregistrări/randuri nevalide</b> cu un 
   <details><summary><h4>Autorizarea SQL GRANT</h4></summary>
   <br/><hr/>
 Puteți utiliza alternativ permisiunile bazei de date (instrucțiuni <b>SQL GRANT</b>) pentru a defini modelul de autorizare.<br/>
-În acest caz, nu ar trebui să utilizați middleware-ul de <b>„autorization”</b>, dar trebuie să utilizați middleware-ul de <b>x„reconnect”</b>.<br/>
+În acest caz, <b>nu</b> ar trebui să utilizați middleware-ul de <b>„autorization”</b>, dar trebuie să utilizați middleware-ul de <b>„reconnect”</b>.<br/>
 Managerii middleware-ului <b>„reconnect”</b> vă permit să specificați numele de utilizator(b>username</b>) și parola(<b>password</b>) corecte, astfel:
 
     'reconnect.usernameHandler' => function () {
@@ -1242,7 +1242,7 @@ Managerii middleware-ului <b>„reconnect”</b> vă permit să specificați num
         return 'secret123';
     },
 
-Acest lucru va face ca API-ul să se conecteze la baza de date specificând <b><i>„mevdschee”</i></b> ca nume de utilizator și <b><i>„secret123”</i></b> ca parolă.<br/>
+Acest lucru va face ca API-ul să se conecteze la baza de date specificând <i>„mevdschee”</i> ca nume de utilizator și <i>„secret123”</i> ca parolă.<br/>
 <b>Specificația OpenAPI</b> este mai puțin specifică pentru operațiunile permise și interzise atunci când utilizați permisiunile bazei de date, deoarece permisiunile nu sunt citite în pasul de reflecție.<br/>
 
 <b>NB</b>:<br/>
