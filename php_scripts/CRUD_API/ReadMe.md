@@ -1170,7 +1170,28 @@ De asemenea, puteți modifica variabila <b>url</b>, folosită pentru a <b>testa<
   <br/><hr/>
   <details><summary><h4>Autorizarea operatiilor</h4></summary>
   <br/><hr/>
-   
+  Modelul de Autorizare acționează asupra <b>„operations”</b>. <br/>
+  Cele mai importante <b>„operations”</b> sunt enumerate aici:
+   <pre>
+
+method path                  - operation - description
+----------------------------------------------------------------------------------------
+GET    /records/{table}      - list      - lists records
+POST   /records/{table}      - create    - creates records
+GET    /records/{table}/{id} - read      - reads a record by primary key
+PUT    /records/{table}/{id} - update    - updates columns of a record by primary key
+DELETE /records/{table}/{id} - delete    - deletes a record by primary key
+PATCH  /records/{table}/{id} - increment - increments columns of a record by primary key
+
+</pre>
+
+Punctul-final <b>„ /openapi”</b> va afișa doar ceea ce este <b>permis</b> în sesiunea dumneavoastră.<br/>
+De asemenea, are o operațiune specială <b>„document”</b> care vă permite să <b>ascundeți</b> tabelele și coloanele din documentație.<br/>
+
+Pentru punctele-finale care încep cu <b>„ /columns”</b> există operațiunile <b>„reflect”</b> și <b>„remodel”</b>.<br/>
+Aceste operațiuni pot afișa sau modifica definiția bazei de date, a tabelului sau a coloanei.<br/>
+Această funcționalitate este <b>dezactivată</b> implicit și din motive întemeiate (ai grijă!).<br/>
+Adăugați controlerul <b>„coloane”</b> în configurație pentru a activa această funcționalitate.
   <hr/><br/>
   </details>
   <details><summary><h4>Autorizarea tabelelor,coloanelor si inregistrarilor/randurilor</h4></summary>
