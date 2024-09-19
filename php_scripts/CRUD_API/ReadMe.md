@@ -1420,12 +1420,34 @@ Tipurile care sunt activate vor fi <i>verificate pentru valori nule</i> atunci c
 
   <details><summary><h4>Intermediar multi-chirias(multi-tenancy middleware)</h4></summary>
   <br/><hr/>
-   
+Puteți utiliza middleware-ul <b>„multiTenancy”</b>(Middleware/Intermediere cu mai multe locații) atunci când aveți o singură bază de date(DB) cu mai mulți locatari/chiriași(in sensul stocarii/gazduirii).<br/>
+Dacă chiriașii dvs. sunt identificați prin coloana <b>„customer_id”</b>, atunci puteți utiliza următorul <b>handler</b>(functie de manipulare/manipulator):
+
+    'multiTenancy.handler' => function ($operation, $tableName) {
+        return ['customer_id' => 12];
+    },
+
+Această construcție adaugă un <b>filtru</b> care necesită sa avem setata coloana <b>„customer_id”</b> la valoarea <b>„12”</b> la fiecare <b>operație</b> (cu <i>excepția</i> operatiei de creare/<b>„create”</b>).<br/>
+De asemenea, setează coloana <b>„customer_id”</b> in cazul operatiei <b>„create”</b> la valoarea <b>„12”</b> și <b>elimină coloana</b> din orice altă operațiune de scriere(insert,update).
+
+<b>NB</b>:<br/>
+Daca doriți, puteti să preluați ID-ul clientului(<b>„customer_id”</b>) din sesiune (variabila <b>„$_SESSION”</b>).   
   <hr/><br/>
   </details> <!--h4-->
   <details><summary><h4>Reconectarea intermediarului</h4></summary>
   <br/><hr/>
-   
+Puteți utiliza middleware-ul de <b>„reconnect”</b> atunci când aveți o bază de date(DB) separată pentru fiecare chiriaș.<br/>
+Dacă chiriașul are propria sa bază de date numită <b>x„client_12”</b>, atunci puteți utiliza următorul <b>>handlerv:
+
+    'reconnect.databaseHandler' => function () {
+        return 'customer_12';
+    },
+
+Acest lucru va face ca API-ul să se reconnecteze la baza de date specificând <b>„client_12”</b> ca nume al bazei de date.<br/>
+Dacă nu doriți să utilizați aceleași acreditări, atunci ar trebui să implementați și <b>„usernameHandler”</b> și <b>„passwordHandler”</b>.</br>
+
+<b>NB</b>:<br/>
+Daca doriți, puteti să preluați numele bazei de date din sesiune (variabila <b>„$_SESSION”</b>).   
   <hr/><br/>
   </details> <!--h4-->  
   <hr/><br/>
