@@ -1481,32 +1481,152 @@ Numărul maxim de înregistrări(in acest caz <b>25</b>) se aplică și atunci c
   </details>  <!--h3-->
   <details><summary><h3>Cautarea tuturor campurilor text</h3></summary>
   <br/><hr/>
-   
+Puteți utiliza middleware-ul „textSearch” pentru a simplifica căutările de text (caracterele metalice) atunci când enumerați înregistrările. Vă permite să specificați un parametru de „căutare” folosind:
+
+GET /records/posts?search=Hello
+Va returna toate înregistrările de la „postări” care conțin „Bună ziua” într-unul dintre câmpurile lor de text (tastate):
+
+  {
+      "records":[
+          {
+              "id": 1,
+              "title": "Hello world!",
+              "content": "Welcome to the first post.",
+              "created": "2018-03-05T20:12:56Z"
+          }
+      ]
+  }
+
+Exemplul caută în câmpurile „titlu” sau „conținut” subșirul „Bună ziua”.   
   <hr/><br/>
   </details> <!--h3-->
   <details><summary><h3>Personalizarea manipulatorilor(customization handlers)</h3></summary>
   <br/><hr/>
-   
+Puteți utiliza middleware-ul de „personalizare” pentru a modifica cererea și răspunsul și pentru a implementa orice altă funcționalitate.
+
+'customization.beforeHandler' => function ($operation, $tableName, $request, $environment) {
+    $environment->start = microtime(true);
+},
+
+'customization.afterHandler' => function ($operation, $tableName, $response, $environment) {
+    return $response->withHeader('X-Time-Taken', microtime(true) - $environment->start);
+},
+
+Exemplul de mai sus va adăuga un antet „X-Time-Taken” cu numărul de secunde pe care le-a durat apelul API.   
   <hr/><br/>
   </details> <!--h3-->
   <details><summary><h3>Optiuni de codificare JSON(JSON encoding options)</h3></summary>
   <br/><hr/>
-   
+  Puteți schimba modul în care este codificat JSON setând parametrul de configurare „jsonOptions”.
+
+'jsonOptions' => JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES,
+Exemplul de mai sus va seta opțiunile JSON la 128+256+64 = 448, conform listei de opțiuni de mai jos:
+
+JSON_HEX_TAG (1)
+    All < and > are converted to \u003C and \u003E. 
+JSON_HEX_AMP (2)
+    All & are converted to \u0026. 
+JSON_HEX_APOS (4)
+    All ' are converted to \u0027. 
+JSON_HEX_QUOT (8)
+    All " are converted to \u0022. 
+JSON_FORCE_OBJECT (16)
+    Outputs an object rather than an array when a non-associative array is used. 
+    Especially useful when the recipient of the output is expecting an object and 
+    the array is empty. 
+JSON_NUMERIC_CHECK (32)
+    Encodes numeric strings as numbers. 
+JSON_UNESCAPED_SLASHES (64)
+    Don't escape /. 
+JSON_PRETTY_PRINT (128)
+    Use whitespace in returned data to format it. 
+JSON_UNESCAPED_UNICODE (256)
+    Encode multibyte Unicode characters literally (default is to escape as \uXXXX). 
+JSON_PARTIAL_OUTPUT_ON_ERROR (512)
+    Substitute some unencodable values instead of failing. 
+JSON_PRESERVE_ZERO_FRACTION (1024)
+    Ensures that float values are always encoded as a float value. 
+JSON_UNESCAPED_LINE_TERMINATORS (2048)
+    The line terminators are kept unescaped when JSON_UNESCAPED_UNICODE is supplied. 
+    It uses the same behaviour as it was before PHP 7.1 without this constant. 
+    Available as of PHP 7.1.0. 
+Sursa: <a href="https://www.php.net/manual/en/json.constants.php">documentația PHP privind constantele JSON</a> 
   <hr/><br/>
   </details>
+  <details><summary><h3>Intermediarii JSON & XML</h3></summary>
+  <br/><hr/>
   <details><summary><h3>Intermediarul JSON(JSON middleware)</h3></summary>
   <br/><hr/>
-   
+ Puteți utiliza middleware-ul „json” pentru a citi/scrie șiruri JSON ca obiecte și matrice JSON.
+
+Șirurile JSON sunt detectate automat când middleware-ul „json” este activat.
+
+Puteți limita scanarea specificând nume specifice de tabel și/sau câmpuri:
+
+'json.tables' => 'products',
+'json.columns' => 'properties',
+Aceasta va schimba rezultatul:
+
+GET /records/products/1
+Fără middleware „json”, rezultatul va fi:
+
+{
+    "id": 1,
+    "name": "Calculator",
+    "price": "23.01",
+    "properties": "{\"depth\":false,\"model\":\"TRX-120\",\"width\":100,\"height\":null}",
+}
+Cu middleware „json” rezultatul va fi:
+
+{
+    "id": 1,
+    "name": "Calculator",
+    "price": "23.01",
+    "properties": {
+        "depth": false,
+        "model": "TRX-120",
+        "width": 100,
+        "height": null
+    },
+}
+Acest lucru se aplică și la crearea sau modificarea câmpurilor de șir JSON (și atunci când se utilizează operațiuni în lot).
+
+Rețineți că câmpurile de șir JSON nu pot fi actualizate parțial și că acest middleware este dezactivat implicit. Puteți activa middleware-ul „json” utilizând setarea de configurare „middlewares”.  
   <hr/><br/>
   </details>
   <details><summary><h3>Intermediarul XML(XML middleware)</h3></summary>
   <br/><hr/>
-   
+ Puteți utiliza middleware-ul „xml” pentru a traduce intrarea și ieșirea din JSON în XML. Această cerere:
+
+GET /records/posts/1
+Ieșiri (când „destul de tipărit”):
+
+{
+    "id": 1,
+    "user_id": 1,
+    "category_id": 1,
+    "content": "blog started"
+}
+While (rețineți parametrul de interogare „format”):
+
+GET /records/posts/1?format=xml
+Ieșiri:
+
+<root>
+    <id>1</id>
+    <user_id>1</user_id>
+    <category_id>1</category_id>
+    <content>blog started</content>
+</root>
+Această funcționalitate este dezactivată în mod implicit și trebuie să fie activată utilizând setarea de configurare „middlewares”.  
   <hr/><br/>
   </details> <!--h3-->
+   <hr/><br/>
+  </details> <!--h3 end JSON & XML middlewares--> 
+  
   <details><summary><h3>Incarcarile de fisier(File uploads)</h3></summary>
   <br/><hr/>
-   
+  Încărcările de fișiere sunt acceptate prin <a href="https://caniuse.com/#feat=filereader"API-ul FileReader</a> , consultați <a href="https://github.com/mevdschee/php-crud-api/blob/master/examples/clients/upload/vanilla.html">exemplul</a>a> . 
   <hr/><br/>
   </details>  <!--h3-->
   <hr/><br/>
