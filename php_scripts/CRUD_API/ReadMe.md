@@ -888,6 +888,9 @@ Dacă nu specificați acești parametri în configurație, atunci se folosesc va
   </details> <!--h4--> 
   <hr/><br/> 
   </details> <!--h3--> 
+
+  Sa analizam pe rand fiecare parametru de configurare „<b>middleware</b>”:
+  
   <details><summary><h3>Autentificari & Autorizari</h3></summary>
   <br/><hr/> 
   <h3><b>Autentificare</b> versus <b>Autorizare</b></h3><br/>
