@@ -1272,8 +1272,8 @@ Dacă activați middleware-ul <b>„sanitation”</b>, atunci activați (automat
 Când aceasta este <b>activată</b>, puteți :
 
  - să trimiteți spații albe(whitespace) de început(leading) și de final(trailing) într-un câmp fără caractere (non-character field, care va fi ignorat).
- - trimite un float la un câmp întreg sau bigint (va fi rotunjit/rounded).
- - să trimiteți un șir codificat base64url (va fi convertit în codificare base64 obișnuită).
+ - trimite un float la un câmp întreg(int) sau bigint (va fi rotunjit/rounded) - conversie de tip cu/prin rotunjire.
+ - să trimiteți un șir codificat base64 url (va fi convertit în codificare base64 obișnuită).
  - să trimiteți o oră/data/stamp în orice <a href="https://www.php.net/manual/en/datetime.formats.php">format acceptat strtotime</a> (va fi convertit).
 
 Puteți utiliza setările de configurare <b>„sanitation.types„</b> și <b>„sanitation.tables”</b> pentru a defini pentru ce tipuri și în ce tabele doriți să aplicați tipul de igienizare (implicit la „toate/all”). 
