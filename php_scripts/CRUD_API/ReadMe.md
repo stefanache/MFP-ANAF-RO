@@ -1321,20 +1321,21 @@ Puteți analiza această ieșire pentru a face câmpurile de formular să apară
 Dacă activați middleware-ul <b>„validation”</b>, atunci activați (in mod automat) și validarea <b>tipului</b>.<br/>
 Aceasta(validare de tip) include următoarele mesaje de eroare:<pre>
 
-mesaj de eroare	motiv	se aplică tipurilor
-nu poate fi nulă	valoare nulă neașteptată	(orice coloană care nu poate fi anulată)
-spații albe ilegale	spații albe de început/în urmă	întreg bigint zecimal float dublu boolean
-număr întreg nevalid	personaje ilegale	întreg bigint
-sfoară prea lungă	prea multe personaje	varchar varbinary
-zecimală nevalidă	personaje ilegale	zecimal
-zecimală prea mare	prea multe cifre înainte de punct	zecimal
-zecimală prea precisă	prea multe cifre după punct	zecimal
-plutitor nevalid	personaje ilegale	plutire dublu
-boolean nevalid	utilizați 1, 0, adevărat sau fals	boolean
-data nevalida	utilizați aaaa-mm-zz	data
-timp nevalid	folosește hh:mm:ss	timp
-marca temporală nevalidă	utilizați aaaa-mm-zz hh:mm:ss	marca temporală
-bază invalidă64	personaje ilegale	varbinar, blob</pre>
+mesaj de eroare	          motiv	                                  se aplică tipurilor
+---------------           -----                                   --------------------
+nu poate fi nulă	        valoare nulă neașteptată	              (orice coloană care nu poate/trebuie sa fi[e] anulată)
+spații-albe ilegale	      spații albe de început/în urmă	        înteger bigint decimal float double boolean
+număr-întreg nevalid	    caractere ilegale	                      întreg(integer) bigint
+sir prea lung    	        prea multe caractere	                  varchar varbinary(binar variabil ca lungime)
+zecimală nevalidă	        caractere ilegale	                      decimal
+zecimală prea mare	      prea multe cifre înainte de punct	      decimal(zecimal)
+zecimală prea precisă	    prea multe cifre după punct	            decimal
+float nevalid	            caractere ilegale	                      float double
+boolean nevalid	          utilizați 1, 0, adevărat sau fals	      boolean
+data invalida	            utilizați aaaa-mm-zz	                  date
+timp nevalid	            folosește hh:mm:ss	                    time
+marca-temporală nevalidă	utilizați aaaa-mm-zz hh:mm:ss	          timestamp(marca temporală)
+base64 nevalid            caractere ilegale	                      varbinary, blob</pre>
 
 Puteți utiliza setările de configurare <b>„validation.types"</b> și <b>„validation.tables”</b> pentru a defini pentru ce tipuri și în ce tabele doriți să aplicați validarea tipului (implicit la „toate/<b>all</b>”).<br/> 
 Exemplu:
