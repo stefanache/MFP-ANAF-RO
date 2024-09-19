@@ -1196,8 +1196,8 @@ Adăugați controlerul <b>„ /columns”</b> în configurație pentru a <b>acti
   </details><!--h4-->
   <details><summary><h4>Autorizarea tabelelor,coloanelor si inregistrarilor/randurilor</h4></summary>
   <br/><hr/>
-În mod <b>implicit</b>, toate tabelele(<b>tables</b>), coloanele(<b>columns</b>) și căile(<b>paths</b>) sunt <b>accesibile</b>.<br/>
-Dacă doriți să <b>restricționați accesul</b> la unele tabele, puteți adăuga middleware-ul <b></b>„autorizare”</b> și puteți defini o funcție 
+În mod <b>implicit</b>, toate tabelele(<b>tables</b>), coloanele(<b>columns</b>) și căile/rutele(<b>paths</b>) sunt <b>accesibile</b>.<br/>
+Dacă doriți să <b>restricționați accesul</b> la unele <b>tabele</b>, puteți adăuga middleware-ul <b>„autorizare”</b> și puteți defini o funcție 
 <b>„authorization.tableHandler”</b> care returnează <b>„false”</b> pentru aceste tabele.
 
     'authorization.tableHandler' => function ($operation, $tableName) {
@@ -1219,9 +1219,9 @@ Exemplul de mai sus va <b>restricționa accesul</b> la câmpul <b>„password”
 Exemplul de mai sus va <b>interzice accesul</b> la înregistrările utilizatorilor unde <b>username</b> este <b>„admin”</b>.<br/>
 Aceasta constructie adaugă un <b>filtru</b> la fiecare interogare executată.
 
-  'authorization.pathHandler' => function ($path) {
-      return $path === 'openapi' ? false : true;
-  },
+      'authorization.pathHandler' => function ($path) {
+          return $path === 'openapi' ? false : true;
+      },
 
 Exemplul de mai sus va <b>dezactiva</b> ruta <b>/openapi</b>.
 
