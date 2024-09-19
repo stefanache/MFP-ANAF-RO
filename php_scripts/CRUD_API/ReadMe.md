@@ -1462,7 +1462,7 @@ Daca doriți, puteti să preluați numele bazei de date din sesiune (variabila <
   <details><summary><h3>Prevenirea răzuirii/"scraping"-ului bazei de date(culegerii nedorite de date)</h3></summary>
   <br/><hr/>
 Puteți utiliza middleware-ul <b>„joinLimits”</b> și <b>„pageLimits”</b> pentru a preveni <b>răzuirii</b>/copierea nedorita a bazei de date.<br/> 
-Middleware-ul <b>„joinLimits”</b> limitează adâncimea tabelului, numărul de tabele și numărul de înregistrări returnate într-o operație de îmbinare/alăturare/<b>reunire</b>(<b><join/b>).<br/>
+Middleware-ul <b>„joinLimits”</b> limitează adâncimea tabelului, numărul de tabele și numărul de înregistrări returnate într-o operație de îmbinare/alăturare/<b>reunire</b>(<b>join</b>).<br/>
 Dacă doriți să permiteți <b>5</b> alăturari directe, alăturari directe cu maximum <b>25</b> de înregistrări fiecare, puteți specifica:
 
     'joinLimits.depth' => 1,
