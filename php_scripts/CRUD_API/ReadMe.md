@@ -1216,8 +1216,8 @@ Exemplul de mai sus va <b>restricționa accesul</b> la câmpul <b>„password”
         return ($tableName == 'users') ? 'filter=username,neq,admin' : '';
     },
 
-Exemplul de mai sus va <b>interzice accesul</b> la înregistrările utilizatorilor unde <b>username</b> este <b>„admin”</b>.<br/>
-Aceasta constructie adaugă un <b>filtru</b> la fiecare interogare executată.
+Exemplul de mai sus va <b>interzice accesul</b> la înregistrările/randurile utilizatorilor(<b>users</b>) unde <b>username</b> este <b>„admin”</b>.<br/>
+Aceasta constructie adaugă un <b>filtru</b> la fiecare interogare(<b>SQL-query</b>) executată.
 
       'authorization.pathHandler' => function ($path) {
           return $path === 'openapi' ? false : true;
