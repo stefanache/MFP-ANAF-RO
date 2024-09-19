@@ -105,7 +105,7 @@ Acestea sunt toate opțiunile de configurare și valoarea lor implicită între 
  - „mapping”: listă separată prin virgulă de mapări de tabel/coloană (fără harta/asociere/mapare)
  - „geometrySRID”: <a href="https://en.wikipedia.org/wiki/Spatial_reference_system">SRID</a> asumat la conversia din WKT în geometrie ( implicit 4326)
  - „middlewares”: Listă de middleware de încărcat ( implicit <a href="https://en.wikipedia.org/wiki/Cross-origin_resource_sharing">CORS</a>)
- - „controlere”: Listă de controlere de încărcat ( records,geojson,openapi,status)
+ - „controllers”: Listă de controlere de încărcat ( records,geojson,openapi,status)
  - „customControllers”: Lista de controlere personalizate de utilizator de încărcat (fără implicit)
  - „openApiBase”: informații despre <a href="https://en.wikipedia.org/wiki/Open_API">OpenAPI</a> ( {"info":{"title":"PHP-CRUD-API","version":"1.0.0"}})
  - „cacheType”: TempFile, Redis, Memcache, Memcachedsau NoCache( implicit TempFile)
