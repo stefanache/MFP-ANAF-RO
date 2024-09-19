@@ -9,7 +9,7 @@ Desigur trebuie inceput prin a intelege cat mai bine [ReadMe](https://github.com
 asa ca in acest [**workshop**](https://github.com/stefanache/MFP-ANAF-RO/tree/main/php_scripts/CRUD_API), am rearanjat acest document si am incercat o traducere/parafrazare cat mai precisa/succinta, care sper eu o sa permita/ajute la o mai buna intelegere.
 
 Ca orice document care legifereaza(avand daca vreti, titlu/scop de <b>"lege"</b>) si acest <b>ReadMe.md</b> se refera/descrie(ca de obicei, de altfel ca orice "lege") la/un set de  reguli cu titlu de  <b>obligativitate</b> ori cu titlu de <b>interzicere</b>.
-Chiar daca uneori vom vorbi de <b>optiuni</b>(unde <i>obligativitatea</i> si <i>interzicerea</i> par a nu avea/face sens) trebuie stiut faptul ca si acestea se vor supune unor reguli/legi(sintactice,morfologice si semantice).
+Chiar daca uneori vom vorbi de <b>optiuni</b>(unde <i>obligativitatea</i> si <i>interzicerea</i> par a nu avea/face sens) trebuie stiut faptul ca si acestea se vor supune unor reguli/legi contextuale(sintactice,morfologice si semantice).
 
 <details><summary><h1>PHP-CRUD-API - ReadMe.md</h1></summary>
 <br/><hr/>
