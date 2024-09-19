@@ -1246,7 +1246,7 @@ Acest lucru va face ca API-ul să se conecteze la baza de date specificând <i>�
 <b>Specificația OpenAPI</b> este mai puțin specifică pentru operațiunile permise și interzise atunci când utilizați permisiunile bazei de date, deoarece permisiunile nu sunt citite în pasul de reflecție.<br/>
 
 <b>NB</b>:<br/>
-Poate/Daca doriți să preluați numele de utilizator(<b>username</b>) și parola(<b>password</b>) din sesiune (variabila <b>„$_SESSION”</b>).   
+Poate/Daca doriți să preluați numele de utilizator(<b>username</b>) și parola(<b>password</b>) din sesiune (utilizati variabila <b>„$_SESSION”</b>.   
   <hr/><br/>
   </details> <!--h4-->
   <hr/><br/>
@@ -1256,10 +1256,31 @@ Poate/Daca doriți să preluați numele de utilizator(<b>username</b>) și parol
   
   <details><summary><h3>Sanitizarea intrarii</h3></summary>
   <br/><hr/>
-    
+În mod implicit, toate intrările sunt acceptate și trimise la baza de date.<br/>
+Dacă doriți să eliminați (anumite) etichete <b>HTML</b> înainte de stocare, puteți adăuga middleware-ul <b>„sanitation”</b> și definiți o funcție <b>„sanitation.handler”</b> care returnează valoarea ajustată.
+
+    'sanitation.handler' => function ($operation, $tableName, $column, $value) {
+        return is_string($value) ? strip_tags($value) : $value;
+    },
+
+Exemplul de mai sus va <b>elimina toate etichetele HTML</b> din șirurile de caractere din intrare.    
   <details><summary><h4>Tipul sanitizarii</h4></summary>
   <br/><hr/>
-   
+ Dacă activați middleware-ul <b>„sanitation”</b>, atunci activați (automat) și igienizarea de tip.<br/>
+Când aceasta este activată, puteți:
+
+ - trimiteți spații albe(whitespace) de început(leading) și de final(trailing) într-un câmp fără caractere (non-character field, care va fi ignorat).
+ - trimite un float la un câmp întreg sau bigint (va fi rotunjit/rounded).
+ - trimiteți un șir codificat base64url (va fi convertit în codificare base64 obișnuită).
+ - trimiteți o oră/data/stamp în orice <a href="https://www.php.net/manual/en/datetime.formats.php">format acceptat strtotime</a> (va fi convertit).
+
+Puteți utiliza setările de configurare <b>„sanitation.types„</b> și <b>„sanitation.tables”</b> pentru a defini pentru ce tipuri și în ce tabele doriți să aplicați tipul de igienizare (implicit la „toate/all”). 
+Exemplu:
+
+    'sanitation.types' => 'date,timestamp',
+    'sanitation.tables' => 'posts,comments',
+
+Aici activăm igienizarea tipului pentru câmpurile de dată(<b>date</b>) și de timp(<b>timestamp</b>) din tabelele de postări(<b>posts</b>) și comentarii(<b>comments</b>).  
   <hr/><br/>
   </details>  <!--h4--> 
   <hr/><br/>
