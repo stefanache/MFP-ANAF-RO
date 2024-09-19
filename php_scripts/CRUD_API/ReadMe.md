@@ -1515,6 +1515,8 @@ Puteți utiliza middleware-ul de „personalizare” pentru a modifica cererea �
 Exemplul de mai sus va adăuga un antet „X-Time-Taken” cu numărul de secunde pe care le-a durat apelul API.   
   <hr/><br/>
   </details> <!--h3-->
+  <details><summary><h3>Intermediarii JSON & XML</h3></summary>
+  <br/><hr/>  
   <details><summary><h3>Optiuni de codificare JSON(JSON encoding options)</h3></summary>
   <br/><hr/>
   Puteți schimba modul în care este codificat JSON setând parametrul de configurare „jsonOptions”.
@@ -1553,8 +1555,6 @@ JSON_UNESCAPED_LINE_TERMINATORS (2048)
 Sursa: <a href="https://www.php.net/manual/en/json.constants.php">documentația PHP privind constantele JSON</a> 
   <hr/><br/>
   </details>
-  <details><summary><h3>Intermediarii JSON & XML</h3></summary>
-  <br/><hr/>
   <details><summary><h3>Intermediarul JSON(JSON middleware)</h3></summary>
   <br/><hr/>
  Puteți utiliza middleware-ul „json” pentru a citi/scrie șiruri JSON ca obiecte și matrice JSON.
