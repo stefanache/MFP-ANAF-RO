@@ -1525,7 +1525,7 @@ Exemplul de mai sus va adăuga un antet <b>„X-Time-Taken”</b> cu numărul de
 
     'jsonOptions' => JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES,
 
-Exemplul de mai sus va seta opțiunile <b>JSON</b> la 128+256+64 = 448, conform listei de opțiuni de mai jos:
+Exemplul de mai sus va seta opțiunile <b>JSON</b> la 128+256+64 = <b>448</b>, conform listei de opțiuni de mai jos:
 
     JSON_HEX_TAG (1)
         All < and > are converted to \u003C and \u003E. 
@@ -1541,11 +1541,11 @@ Exemplul de mai sus va seta opțiunile <b>JSON</b> la 128+256+64 = 448, conform 
         the array is empty. 
     JSON_NUMERIC_CHECK (32)
         Encodes numeric strings as numbers. 
-    JSON_UNESCAPED_SLASHES (64)
+    JSON_UNESCAPED_SLASHES (<b>64</b>)
         Don't escape /. 
-    JSON_PRETTY_PRINT (128)
+    JSON_PRETTY_PRINT (<b>128</b>)
         Use whitespace in returned data to format it. 
-    JSON_UNESCAPED_UNICODE (256)
+    JSON_UNESCAPED_UNICODE (<b>256</b>)
         Encode multibyte Unicode characters literally (default is to escape as \uXXXX). 
     JSON_PARTIAL_OUTPUT_ON_ERROR (512)
         Substitute some unencodable values instead of failing. 
