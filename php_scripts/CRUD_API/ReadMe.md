@@ -1428,23 +1428,23 @@ Dacă chiriașii dvs. sunt identificați prin coloana <b>„customer_id”</b>, 
     },
 
 Această construcție adaugă un <b>filtru</b> care necesită sa avem setata coloana <b>„customer_id”</b> la valoarea <b>„12”</b> la fiecare <b>operație</b> (cu <i>excepția</i> operatiei de creare/<b>„create”</b>).<br/>
-De asemenea, setează coloana <b>„customer_id”</b> in cazul operatiei <b>„create”</b> la valoarea <b>„12”</b> și <b>elimină coloana</b> din orice altă operațiune de scriere(insert,update).
+De asemenea, setează coloana <b>„customer_id”</b> in cazul operatiei <b>„create”</b> la valoarea <b>„12”</b> și <b>elimină coloana</b> din orice altă operațiune de <b>scriere</b>(insert,update).
 
 <b>NB</b>:<br/>
 Daca doriți, puteti să preluați ID-ul clientului(<b>„customer_id”</b>) din sesiune (variabila <b>„$_SESSION”</b>).   
   <hr/><br/>
   </details> <!--h4-->
-  <details><summary><h4>Reconectarea intermediarului</h4></summary>
+  <details><summary><h4>Intermediarul reconectarii</h4></summary>
   <br/><hr/>
 Puteți utiliza middleware-ul de <b>„reconnect”</b> atunci când aveți o bază de date(DB) separată pentru fiecare chiriaș.<br/>
-Dacă chiriașul are propria sa bază de date numită <b>x„client_12”</b>, atunci puteți utiliza următorul <b>>handlerv:
+Dacă chiriașul are propria sa bază de date denumită <b>„customer_12”</b>, atunci puteți utiliza următorul <b>handler</b>/manipulator:
 
     'reconnect.databaseHandler' => function () {
         return 'customer_12';
     },
 
-Acest lucru va face ca API-ul să se reconnecteze la baza de date specificând <b>„client_12”</b> ca nume al bazei de date.<br/>
-Dacă nu doriți să utilizați aceleași acreditări, atunci ar trebui să implementați și <b>„usernameHandler”</b> și <b>„passwordHandler”</b>.</br>
+Acest lucru va face ca API-ul să se <b>reconnecteze la baza de date</b> specificând <b>„client_12”</b> ca nume/denumire al/a bazei de date(DB).<br/>
+Dacă <b>nu</b> doriți să utilizați aceleași <b>acreditări</b>, atunci ar trebui să implementați și <b>„usernameHandler”</b> și <b>„passwordHandler”</b>.</br>
 
 <b>NB</b>:<br/>
 Daca doriți, puteti să preluați numele bazei de date din sesiune (variabila <b>„$_SESSION”</b>).   
@@ -1452,9 +1452,24 @@ Daca doriți, puteti să preluați numele bazei de date din sesiune (variabila <
   </details> <!--h4-->  
   <hr/><br/>
   </details><!--h3-->
-  <details><summary><h3>Prevenirea "scraping"-ului bazei de date(culegerii nedorite de date)</h3></summary>
+  <details><summary><h3>Prevenirea răzuirii/"scraping"-ului bazei de date(culegerii nedorite de date)</h3></summary>
   <br/><hr/>
-   
+Puteți utiliza middleware-ul <b>„joinLimits”</b> și <b>„pageLimits”</b> pentru a preveni <b>răzuirii</b>/copierea nedorita a bazei de date.<br/> 
+Middleware-ul <b>„joinLimits”</b> limitează adâncimea tabelului, numărul de tabele și numărul de înregistrări returnate într-o operație de îmbinare/alăturare/<b>reunire</b>.<br/>
+Dacă doriți să permiteți <b>5</b> alăturari directe, alăturari directe cu maximum <b>25</b> de înregistrări fiecare, puteți specifica:
+
+    'joinLimits.depth' => 1,
+    'joinLimits.tables' => 5,
+    'joinLimits.records' => 25,
+
+Middleware-ul <b>„pageLimits”</b> limitează numărul paginii și numărul înregistrărilor returnate dintr-o operațiune de listă.<br/>
+Dacă doriți să nu permiteți mai mult de <b>10</b> pagini cu maximum <b>25</b> de înregistrări fiecare, puteți specifica:
+
+    'pageLimits.pages' => 10,
+    'pageLimits.records' => 25,
+
+<b>NB</b>:<br/>
+Numărul maxim de înregistrări(in acest caz <b>25</b>) se aplică și atunci când <b>nu</b> există un număr de pagină(atunci cand <b>'pageLimits.pages'</b> este omis/lipseste) specificat în cerere.   
   <hr/><br/>
   </details>  <!--h3-->
   <details><summary><h3>Cautarea tuturor campurilor text</h3></summary>
