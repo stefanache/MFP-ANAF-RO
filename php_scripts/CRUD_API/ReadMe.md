@@ -1317,23 +1317,84 @@ Puteți analiza această ieșire pentru a face câmpurile de formular să apară
   <details><summary><h4>Validari de tip</h4></summary>
   <br/><hr/>
 Dacă activați middleware-ul <b>„validation”</b>, atunci activați (in mod automat) și validarea <b>tipului</b>.<br/>
-Aceasta(validare de tip) include următoarele mesaje de eroare:<pre>
+Aceasta(validare de tip) include următoarele mesaje de eroare:
 
-mesaj de eroare	          motiv	                                  se aplică tipurilor
----------------           -----                                   --------------------
-nu poate fi nulă	        valoare nulă neașteptată	              (orice coloană care nu poate/trebuie sa fi[e] anulată)
-spații-albe ilegale	      spații albe de început/în urmă	        înteger bigint decimal float double boolean
-număr-întreg nevalid	    caractere ilegale	                      întreg(integer) bigint
-sir prea lung    	        prea multe caractere	                  varchar varbinary(binar variabil ca lungime)
-zecimală nevalidă	        caractere ilegale	                      decimal
-zecimală prea mare	      prea multe cifre înainte de punct	      decimal(zecimal)
-zecimală prea precisă	    prea multe cifre după punct	            decimal
-float nevalid	            caractere ilegale	                      float double
-boolean nevalid	          utilizați 1, 0, adevărat sau fals	      boolean
-data invalida	            utilizați aaaa-mm-zz	                  date
-timp nevalid	            folosește hh:mm:ss	                    time
-marca-temporală nevalidă	utilizați aaaa-mm-zz hh:mm:ss	          timestamp(marca temporală)
-base64 nevalid            caractere ilegale	                      varbinary, blob</pre>
+<table>
+<thead>
+<tr>
+<th>error message</th>
+<th>reason</th>
+<th>applies to types</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>cannot be null</td>
+<td>unexpected null value</td>
+<td>(any non-nullable column)</td>
+</tr>
+<tr>
+<td>illegal whitespace</td>
+<td>leading/trailing whitespace</td>
+<td>integer bigint decimal float double boolean</td>
+</tr>
+<tr>
+<td>invalid integer</td>
+<td>illegal characters</td>
+<td>integer bigint</td>
+</tr>
+<tr>
+<td>string too long</td>
+<td>too many characters</td>
+<td>varchar varbinary</td>
+</tr>
+<tr>
+<td>invalid decimal</td>
+<td>illegal characters</td>
+<td>decimal</td>
+</tr>
+<tr>
+<td>decimal too large</td>
+<td>too many digits before dot</td>
+<td>decimal</td>
+</tr>
+<tr>
+<td>decimal too precise</td>
+<td>too many digits after dot</td>
+<td>decimal</td>
+</tr>
+<tr>
+<td>invalid float</td>
+<td>illegal characters</td>
+<td>float double</td>
+</tr>
+<tr>
+<td>invalid boolean</td>
+<td>use 1, 0, true or false</td>
+<td>boolean</td>
+</tr>
+<tr>
+<td>invalid date</td>
+<td>use yyyy-mm-dd</td>
+<td>date</td>
+</tr>
+<tr>
+<td>invalid time</td>
+<td>use hh:mm:ss</td>
+<td>time</td>
+</tr>
+<tr>
+<td>invalid timestamp</td>
+<td>use yyyy-mm-dd hh:mm:ss</td>
+<td>timestamp</td>
+</tr>
+<tr>
+<td>invalid base64</td>
+<td>illegal characters</td>
+<td>varbinary, blob</td>
+</tr>
+</tbody>
+</table>
 
 Puteți utiliza setările de configurare <b>„validation.types"</b> și <b>„validation.tables”</b> pentru a defini pentru ce tipuri și în ce tabele doriți să aplicați validarea tipului (implicit la „toate/<b>all</b>”).<br/> 
 Exemplu:
@@ -1341,9 +1402,9 @@ Exemplu:
     'validation.types' => 'date,timestamp',
     'validation.tables' => 'posts,comments',
 
-Aici activăm validarea <b>tipului pentru câmpurile de dată(<b>date</b>) și de timp(<b>timestamp</b>) din tabelele de postari(<b>posts</b>) și comentarii(<b>comments</b>).
+Aici activăm <b>validarea tipului</b> pentru câmpurile de dată(<b>date</b>) și de timp(<b>timestamp</b>) din tabelele de postari(<b>posts</b>) și comentarii(<b>comments</b>).
 
-<b<NB</b>:<br/>
+<b>NB</b>:<br/>
 Tipurile care sunt activate vor fi <i>verificate pentru valori nule</i> atunci când <i>coloana nu poate fi nulă</i>.   
   <hr/><br/>
   </details>   <!--h4-->
