@@ -128,7 +128,7 @@ Variabilele de mediu(setate in shell/cmd.exe sau in .bat: set PHP_CRUD_API_ADDRE
   <details><summary><h2>Limitari</h2></summary>
   <br/><hr/>
     
-    Aceste limitări și constrângeri se aplică astfel/pentru:
+Aceste limitări și constrângeri se aplică astfel/pentru:
     
      - Cheile primare, care ar trebui să fie fie cu incrementare automată (de la 1 la 2^53) fie UUID
      - Cheile primare și străine compozite nu sunt acceptate
