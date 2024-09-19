@@ -75,8 +75,8 @@ Sau daca vreti, intr-un sens mai larg, sau d.p.d.v conceptual, aceste cuvinte po
   </details>  
   <details><summary><h2>Configurare</h2></summary>
   <br/><hr/>
-   In partea de jos a fișierului <a href="https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/api.php">api.php</a>a> 
-   trebuie sa editati/modificati liniile de mai jos(si sa inlocuiti <B>xxx***</B> cu datele dvs concrete, de conectare la b.d. MySQL: 
+   In partea de jos a fișierului <a href="https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/api.php">api.php</a>
+   trebuie sa editati/modificati liniile de mai jos(si sa inlocuiti <B>xxx</B> cu datele dvs concrete, de conectare la b.d. MySQL: 
     
       $config = new Config([
           'username' => 'xxx',
