@@ -1481,7 +1481,7 @@ Numărul maxim de înregistrări(in acest caz <b>25</b>) se aplică și atunci c
   </details>  <!--h3-->
   <details><summary><h3>Cautarea tuturor campurilor text</h3></summary>
   <br/><hr/>
-Puteți utiliza middleware-ul <b>„textSearch”</b>b> pentru a simplifica căutările de text (caracterele metalice) atunci când enumerați înregistrările.<br/>
+Puteți utiliza middleware-ul <b>„textSearch”</b> pentru a simplifica căutările de text (caracterele metalice) atunci când enumerați înregistrările.<br/>
 Vă permite să specificați un parametru de <b>„search”</b> folosind:
 
     GET /records/posts?search=Hello
@@ -1504,7 +1504,7 @@ Exemplul caută în câmpurile <b>„title”</b> sau <b>„content”</b> subș
   </details> <!--h3-->
   <details><summary><h3>Personalizarea manipulatorilor(customization handlers)</h3></summary>
   <br/><hr/>
-Puteți utiliza middleware-ul de „customization” pentru a modifica cererea și răspunsul și pentru a implementa orice altă funcționalitate.<br/>
+Puteți utiliza middleware-ul de <b>„customization”</b> pentru a modifica cererea și răspunsul și pentru a implementa orice altă funcționalitate.<br/>
 
     'customization.beforeHandler' => function ($operation, $tableName, $request, $environment) {
         $environment->start = microtime(true);
@@ -1563,7 +1563,7 @@ Sursa: <a href="https://www.php.net/manual/en/json.constants.php">documentația 
   <br/><hr/>
  Puteți utiliza middleware-ul <b>„json”</b> pentru a citi/scrie șiruri <b>JSON</b> ca obiecte și matrice <b>JSON</b>.
 
-Șirurile JSON sunt detectate automat când middleware-ul <b>„json”</b> este activat.
+Șirurile <b>JSON</b> sunt detectate automat când middleware-ul <b>„json”</b> este activat.
 
 Puteți limita scanarea specificând nume specifice de tabel și/sau câmpuri:
 
@@ -1605,7 +1605,7 @@ Puteți activa middleware-ul <b>„json”</b> utilizând setarea de configurare
   </details>
   <details><summary><h3>Intermediarul XML(XML middleware)</h3></summary>
   <br/><hr/>
- Puteți utiliza middleware-ul <b>„xml”</b> pentru a traduce intrarea și ieșirea din JSON în XML(<b>JSON</b>2<b>XML</b>).<br/>
+ Puteți utiliza middleware-ul <b>„xml”</b> pentru a traduce intrarea și ieșirea din <b>JSON</b> în <b>XML</b>(<b>JSON</b>2<b>XML</b>).<br/>
  Această cerere:
 
     GET /records/posts/1
