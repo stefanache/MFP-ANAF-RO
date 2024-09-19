@@ -1189,9 +1189,9 @@ Punctul-final <b>„ /openapi”</b> va afișa doar ceea ce este <b>permis</b> �
 De asemenea, are o operațiune specială <b>„document”</b> care vă permite să <b>ascundeți</b> tabelele și coloanele din documentație.<br/>
 
 Pentru punctele-finale care încep cu <b>„ /columns”</b> există operațiunile <b>„reflect”</b> și <b>„remodel”</b>.<br/>
-Aceste operațiuni pot afișa sau modifica definiția bazei de date, a tabelului sau a coloanei.<br/>
-Această funcționalitate este <b>dezactivată</b> implicit și din motive întemeiate (ai grijă!).<br/>
-Adăugați controlerul <b>„coloane”</b> în configurație pentru a activa această funcționalitate.
+Aceste operațiuni(<b>„reflect”</b> și <b>„remodel”</b>) pot <b>afișa</b> sau </b>modifica definiția</b> bazei de date, a tabelului sau a coloanei.<br/>
+Această funcționalitate(<b>„ /columns”</b>) este <b>dezactivată</b> implicit și din motive întemeiate (ai grijă!).<br/>
+Adăugați controlerul <b>„ /columns”</b> în configurație pentru a <b>activa</b> această funcționalitate.
   <hr/><br/>
   </details><!--h4-->
   <details><summary><h4>Autorizarea tabelelor,coloanelor si inregistrarilor/randurilor</h4></summary>
