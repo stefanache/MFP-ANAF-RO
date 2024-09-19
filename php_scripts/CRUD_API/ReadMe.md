@@ -1317,7 +1317,7 @@ Puteți analiza această ieșire pentru a face câmpurile de formular să apară
   <details><summary><h4>Validari de tip</h4></summary>
   <br/><hr/>
 Dacă activați middleware-ul <b>„validation”</b>, atunci activați (in mod automat) și validarea <b>tipului</b>.<br/>
-Aceasta(validare de tip) include următoarele mesaje de eroare:
+Aceasta(validare de tip) include următoarele <b>mesaje de eroare</b>b>:
 
 <table>
 <thead>
