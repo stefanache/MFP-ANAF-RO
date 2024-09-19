@@ -881,7 +881,7 @@ Dacă nu specificați acești parametri în configurație, atunci se folosesc va
   </details> <!--h4--> 
   <hr/><br/> 
   </details> <!--h3--> 
-  <details><summary><h3>Autentificari si Autorizari</h3></summary>
+  <details><summary><h3>Autentificari & Autorizari</h3></summary>
   <br/><hr/> 
   <h3><b>Autentificare</b> versus <b>Autorizare</b></h3><br/>
 <b>Autentificarea</b> confirmă că utilizatorul care se conectează este cine spune că este(verificarea <b>Identitatii</b> utilizatorului), <br/>
@@ -1410,7 +1410,7 @@ Tipurile care sunt activate vor fi <i>verificate pentru valori nule</i> atunci c
   <hr/><br/>
   </details>   <!--h4-->
   <hr/><br/>
-  </details>   <!--h4--> end Sanitation & Validation
+  </details>   <!--h4 end Sanitation & Validation--> 
   
   <hr/><br/>
   </details>   <!--h3-->
