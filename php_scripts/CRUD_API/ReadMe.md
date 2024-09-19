@@ -1190,13 +1190,43 @@ De asemenea, are o operațiune specială <b>„document”</b> care vă permite 
 
 Pentru punctele-finale care încep cu <b>„ /columns”</b> există operațiunile <b>„reflect”</b> și <b>„remodel”</b>.<br/>
 Aceste operațiuni(<b>„reflect”</b> și <b>„remodel”</b>) pot <b>afișa</b> sau </b>modifica definiția</b> bazei de date, a tabelului sau a coloanei.<br/>
-Această funcționalitate(<b>„ /columns”</b>) este <b>dezactivată</b> implicit și din motive întemeiate (ai grijă!).<br/>
+Această funcționalitate(<b>„ /columns”</b>) este <b>dezactivată implicit</b>  și din motive întemeiate (ai grijă!).<br/>
 Adăugați controlerul <b>„ /columns”</b> în configurație pentru a <b>activa</b> această funcționalitate.
   <hr/><br/>
   </details><!--h4-->
   <details><summary><h4>Autorizarea tabelelor,coloanelor si inregistrarilor/randurilor</h4></summary>
   <br/><hr/>
-   
+În mod <b>implicit</b>, toate tabelele(<b>tables</b>), coloanele(<b>columns</b>) și căile(<b>paths</b>) sunt <b>accesibile</b>.<br/>
+Dacă doriți să <b>restricționați accesul</b> la unele tabele, puteți adăuga middleware-ul <b></b>„autorizare”</b> și puteți defini o funcție 
+<b>„authorization.tableHandler”</b> care returnează <b>„false”</b> pentru aceste tabele.
+
+    'authorization.tableHandler' => function ($operation, $tableName) {
+        return $tableName != 'license_keys';
+    },
+
+Exemplul de mai sus va <b>restricționa accesul</b> la tabelul <b>„license_keys”</b> pentru <b>toate operațiunile</b>.
+
+    'authorization.columnHandler' => function ($operation, $tableName, $columnName) {
+        return !($tableName == 'users' && $columnName == 'password');
+    },
+
+Exemplul de mai sus va <b>restricționa accesul</b> la câmpul <b>„password”</b> din tabelul <b>„users”</b> pentru <b>toate operațiunile</b>.
+
+    'authorization.recordHandler' => function ($operation, $tableName) {
+        return ($tableName == 'users') ? 'filter=username,neq,admin' : '';
+    },
+
+Exemplul de mai sus va <b>interzice accesul</b> la înregistrările utilizatorilor unde <b>username</b> este <b>„admin”</b>.<br/>
+Aceasta constructie adaugă un <b>filtru</b> la fiecare interogare executată.
+
+  'authorization.pathHandler' => function ($path) {
+      return $path === 'openapi' ? false : true;
+  },
+
+Exemplul de mai sus va <b>dezactiva</b> ruta <b>/openapi</b>.
+
+<b>NB</b>:<br/>
+Trebuie să gestionați crearea de <b>înregistrări/randuri nevalide</b> cu un handler de validare (sau de <b>sanitation</b>/salubrizare/sanitizare/igienizare).   
   <hr/><br/>
   </details> <!--h4-->
   <details><summary><h4>Autorizarea SQL GRANT</h4></summary>
