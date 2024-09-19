@@ -1276,7 +1276,7 @@ Când aceasta este <b>activată</b>, puteți :
  - să trimiteți un șir codificat base64 url (va fi convertit în codificare base64 obișnuită).
  - să trimiteți o oră/data/stamp în orice <a href="https://www.php.net/manual/en/datetime.formats.php">format acceptat strtotime</a> (va fi convertit).
 
-Puteți utiliza setările de configurare <b>„sanitation.types„</b> și <b>„sanitation.tables”</b> pentru a defini pentru ce tipuri și în ce tabele doriți să aplicați tipul de igienizare (implicit la „toate/all”). 
+Puteți utiliza setările de configurare <b>„sanitation.types„</b> și <b>„sanitation.tables”</b> pentru a defini pentru ce tipuri și în ce tabele doriți să aplicați tipul de igienizare (implicit la „toate/all”).<br/> 
 Exemplu:
 
     'sanitation.types' => 'date,timestamp',
@@ -1290,10 +1290,62 @@ Aici activăm igienizarea tipului pentru câmpurile de dată(<b>date</b>) și de
 
   <details><summary><h3>Validarea intrarii</h3></summary>
   <br/><hr/>
+În mod <b>implicit</b>, toate intrările sunt <b>acceptate</b> și <b>trimise</b> la baza de date(spre stocare).<br/> 
+Dacă doriți să validați intrarea într-un mod personalizat, puteți adăuga middleware-ul <b>„validation”</b> și puteți defini o funcție <b>„validation.handler”</b> care returnează un <b>boolean</b> care indică dacă valoarea este validă sau nu.
 
-  <details><summary><h4>Tipuri de validari</h4></summary>
+    'validation.handler' => function ($operation, $tableName, $column, $value, $context) {
+        return ($column['name'] == 'post_id' && !is_numeric($value)) ? 'must be numeric' : true;
+    },
+
+Când editați un comentariu cu id 4 folosind:
+
+    PUT /records/comments/4
+
+Și trimiți ca si corp(payload):
+
+    {"post_id":"two"}
+
+Apoi serverul va returna un cod de stare HTTP <b>„422”</b> și un mesaj de <b>eroare</b> dragut:
+
+    {
+        "code": 1013,
+        "message": "Input validation failed for 'comments'",
+        "details": {
+            "post_id":"must be numeric"
+        }
+    }
+
+Puteți analiza această ieșire pentru a face câmpurile de formular să apară cu un chenar roșu și mesajul de <b>eroare</b> corespunzător.
+  <details><summary><h4>Validari de tip</h4></summary>
   <br/><hr/>
-   
+Dacă activați middleware-ul <b>„validation”</b>, atunci activați (in mod automat) și validarea <b>tipului</b>.<br/>
+Aceasta(validare de tip) include următoarele mesaje de eroare:<pre>
+
+mesaj de eroare	motiv	se aplică tipurilor
+nu poate fi nulă	valoare nulă neașteptată	(orice coloană care nu poate fi anulată)
+spații albe ilegale	spații albe de început/în urmă	întreg bigint zecimal float dublu boolean
+număr întreg nevalid	personaje ilegale	întreg bigint
+sfoară prea lungă	prea multe personaje	varchar varbinary
+zecimală nevalidă	personaje ilegale	zecimal
+zecimală prea mare	prea multe cifre înainte de punct	zecimal
+zecimală prea precisă	prea multe cifre după punct	zecimal
+plutitor nevalid	personaje ilegale	plutire dublu
+boolean nevalid	utilizați 1, 0, adevărat sau fals	boolean
+data nevalida	utilizați aaaa-mm-zz	data
+timp nevalid	folosește hh:mm:ss	timp
+marca temporală nevalidă	utilizați aaaa-mm-zz hh:mm:ss	marca temporală
+bază invalidă64	personaje ilegale	varbinar, blob</pre>
+
+Puteți utiliza setările de configurare <b>„validation.types"</b> și <b>„validation.tables”</b> pentru a defini pentru ce tipuri și în ce tabele doriți să aplicați validarea tipului (implicit la „toate/<b>all</b>”).<br/> 
+Exemplu:
+
+    'validation.types' => 'date,timestamp',
+    'validation.tables' => 'posts,comments',
+
+Aici activăm validarea <b>tipului pentru câmpurile de dată(<b>date</b>) și de timp(<b>timestamp</b>) din tabelele de postari(<b>posts</b>) și comentarii(<b>comments</b>).
+
+<b<NB</b>:<br/>
+Tipurile care sunt activate vor fi <i>verificate pentru valori nule</i> atunci când <i>coloana nu poate fi nulă</i>.   
   <hr/><br/>
   </details>   <!--h4-->
   <hr/><br/>
