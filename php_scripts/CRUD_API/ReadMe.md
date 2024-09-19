@@ -1,5 +1,5 @@
   <hr/><br/>
-  </details> <!--h4--> versus
+  </details> 
   Am cautat un [**proiect**](https://github.com/codemage66/PHP-CRUD-API?tab=readme-ov-file#php-crud-api) care sa aiba ca facilitati cateva lucruri:
 - sa fie un **api** de preferat pt o baza de date de tip **SQL**(si care sa permita pt tabelele sale operatii de tip [**CRUD**](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete))
 - sa fie bine securizata(cu **token JWT**,...)
