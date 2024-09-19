@@ -1251,7 +1251,8 @@ Poate/Daca doriți să preluați numele de utilizator(<b>username</b>) și parol
   </details> <!--h3-->
   <hr/><br/> 
   </details> <!--h3 inchidere Autentificari si Autorizari-->  
-  
+  <details><summary><h3>Sanitizarea & Validarea intrarii</h3></summary>
+  <br/><hr/>
   <details><summary><h3>Sanitizarea intrarii</h3></summary>
   <br/><hr/>
 În mod implicit, toate intrările sunt <b></b>acceptate și <b>trimise</b> la baza de date(pentru stocare).<br/>
@@ -1408,6 +1409,9 @@ Aici activăm <b>validarea tipului</b> pentru câmpurile de dată(<b>date</b>) �
 Tipurile care sunt activate vor fi <i>verificate pentru valori nule</i> atunci când <i>coloana nu poate fi nulă</i>.   
   <hr/><br/>
   </details>   <!--h4-->
+  <hr/><br/>
+  </details>   <!--h4--> end Sanitation & Validation
+  
   <hr/><br/>
   </details>   <!--h3-->
 
