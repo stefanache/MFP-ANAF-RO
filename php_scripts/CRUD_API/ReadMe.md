@@ -1172,19 +1172,17 @@ De asemenea, puteți modifica variabila <b>url</b>, folosită pentru a <b>testa<
   <br/><hr/>
   Modelul de Autorizare acționează asupra <b>„operations”</b>. <br/>
   Cele mai importante <b>„operatiuni/operatii”</b> sunt enumerate aici:
-   <pre>
 
-method path                  - operation - description
-----------------------------------------------------------------------------------------
-GET    /records/{table}      - list      - lists records
-POST   /records/{table}      - create    - creates records
-GET    /records/{table}/{id} - read      - reads a record by primary key
-PUT    /records/{table}/{id} - update    - updates columns of a record by primary key
-DELETE /records/{table}/{id} - delete    - deletes a record by primary key
-PATCH  /records/{table}/{id} - increment - increments columns of a record by primary key
 
-</pre>
-
+    method path                  - operation - description
+    ----------------------------------------------------------------------------------------
+    GET    /records/{table}      - list      - lists records
+    POST   /records/{table}      - create    - creates records
+    GET    /records/{table}/{id} - read      - reads a record by primary key
+    PUT    /records/{table}/{id} - update    - updates columns of a record by primary key
+    DELETE /records/{table}/{id} - delete    - deletes a record by primary key
+    PATCH  /records/{table}/{id} - increment - increments columns of a record by primary key
+    
 Punctul-final <b>„ /openapi”</b> va afișa doar ceea ce este <b>permis</b> în sesiunea dumneavoastră.<br/>
 De asemenea, are o operațiune specială <b>„document”</b> care vă permite să <b>ascundeți</b> tabelele și coloanele din documentație.<br/>
 
