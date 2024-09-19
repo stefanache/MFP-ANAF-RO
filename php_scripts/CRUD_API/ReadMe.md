@@ -1521,7 +1521,7 @@ Exemplul de mai sus va adăuga un antet <b>„X-Time-Taken”</b> cu numărul de
   <br/><hr/>  
   <details><summary><h3>Optiuni de codificare JSON(JSON encoding options)</h3></summary>
   <br/><hr/>
-  Puteți schimba modul în care este codificat <b>JSON</b> setând parametrul de configurare <b>„jsonOptions”</b>b>.
+  Puteți schimba modul în care este codificat <b>JSON</b> setând parametrul de configurare <b>„jsonOptions”</b>.
 
     'jsonOptions' => JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES,
 
