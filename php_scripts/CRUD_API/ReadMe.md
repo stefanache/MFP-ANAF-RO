@@ -1256,23 +1256,25 @@ Poate/Daca doriți să preluați numele de utilizator(<b>username</b>) și parol
   
   <details><summary><h3>Sanitizarea intrarii</h3></summary>
   <br/><hr/>
-În mod implicit, toate intrările sunt acceptate și trimise la baza de date.<br/>
-Dacă doriți să eliminați (anumite) etichete <b>HTML</b> înainte de stocare, puteți adăuga middleware-ul <b>„sanitation”</b> și definiți o funcție <b>„sanitation.handler”</b> care returnează valoarea ajustată.
+În mod implicit, toate intrările sunt <b></b>acceptate și <b>trimise</b> la baza de date(pentru stocare).<br/>
+Dacă doriți să <b>eliminați</b> (anumite) etichete <b>HTML</b> înainte de <i>stocare</i>, puteți adăuga middleware-ul <b>„sanitation”</b> și definiți o funcție <b>„sanitation.handler”</b> care returnează valoarea ajustată.
 
     'sanitation.handler' => function ($operation, $tableName, $column, $value) {
         return is_string($value) ? strip_tags($value) : $value;
     },
 
-Exemplul de mai sus va <b>elimina toate etichetele HTML</b> din șirurile de caractere din intrare.    
+Exemplul de mai sus va <b>elimina toate etichetele HTML</b> din șirurile de caractere din intrare.
+
   <details><summary><h4>Tipul sanitizarii</h4></summary>
   <br/><hr/>
- Dacă activați middleware-ul <b>„sanitation”</b>, atunci activați (automat) și igienizarea de tip.<br/>
-Când aceasta este activată, puteți:
 
- - trimiteți spații albe(whitespace) de început(leading) și de final(trailing) într-un câmp fără caractere (non-character field, care va fi ignorat).
+Dacă activați middleware-ul <b>„sanitation”</b>, atunci activați (automat) și igienizarea de tip(<b>sanitation.types</b>).<br/>
+Când aceasta este <b>activată</b>, puteți :
+
+ - să trimiteți spații albe(whitespace) de început(leading) și de final(trailing) într-un câmp fără caractere (non-character field, care va fi ignorat).
  - trimite un float la un câmp întreg sau bigint (va fi rotunjit/rounded).
- - trimiteți un șir codificat base64url (va fi convertit în codificare base64 obișnuită).
- - trimiteți o oră/data/stamp în orice <a href="https://www.php.net/manual/en/datetime.formats.php">format acceptat strtotime</a> (va fi convertit).
+ - să trimiteți un șir codificat base64url (va fi convertit în codificare base64 obișnuită).
+ - să trimiteți o oră/data/stamp în orice <a href="https://www.php.net/manual/en/datetime.formats.php">format acceptat strtotime</a> (va fi convertit).
 
 Puteți utiliza setările de configurare <b>„sanitation.types„</b> și <b>„sanitation.tables”</b> pentru a defini pentru ce tipuri și în ce tabele doriți să aplicați tipul de igienizare (implicit la „toate/all”). 
 Exemplu:
