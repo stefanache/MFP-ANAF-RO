@@ -1233,7 +1233,7 @@ Trebuie să gestionați crearea de <b>înregistrări/randuri nevalide</b> cu un 
   <br/><hr/>
 Puteți utiliza alternativ permisiunile bazei de date (instrucțiuni <b>SQL GRANT</b>) pentru a defini modelul de autorizare.<br/>
 În acest caz, <b>nu</b> ar trebui să utilizați middleware-ul de <b>„autorization”</b>, dar trebuie să utilizați middleware-ul de <b>„reconnect”</b>.<br/>
-Managerii middleware-ului <b>„reconnect”</b> vă permit să specificați numele de utilizator(b>username</b>) și parola(<b>password</b>) corecte, astfel:
+Managerii middleware-ului <b>„reconnect”</b> vă permit să specificați numele de utilizator(<b>username</b>) și parola(<b>password</b>) corecte, astfel:
 
     'reconnect.usernameHandler' => function () {
         return 'mevdschee';
@@ -1246,7 +1246,7 @@ Acest lucru va face ca API-ul să se conecteze la baza de date specificând <i>�
 <b>Specificația OpenAPI</b> este mai puțin specifică pentru operațiunile permise și interzise atunci când utilizați permisiunile bazei de date, deoarece permisiunile nu sunt citite în pasul de reflecție.<br/>
 
 <b>NB</b>:<br/>
-Poate/Daca doriți să preluați numele de utilizator(b>username</b>) și parol(<b>password</b>)a din sesiune (variabila <b>„$_SESSION”</b>).   
+Poate/Daca doriți să preluați numele de utilizator(<b>username</b>) și parola(<b>password</b>) din sesiune (variabila <b>„$_SESSION”</b>).   
   <hr/><br/>
   </details> <!--h4-->
   <hr/><br/>
