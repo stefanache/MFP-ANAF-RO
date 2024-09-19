@@ -94,7 +94,7 @@ Dupa editare/modificare aceaste linii ar putea arata astfel:
 
 Acestea sunt toate opțiunile de configurare și valoarea lor implicită între paranteze:<br/>
     
- - „driver”: mysql, pgsql, sqlsrvsau sqlite( implicit mysql)
+ - „driver”: mysql, pgsql, sqlsrv sau sqlite( implicit mysql)
  - „address”: numele de gazdă (sau numele fișierului) al serverului bazei de date ( implicit localhost)
  - „port”: portul TCP al serverului de baze de date (valoarea implicita a portului este cea aferenta driverului implicit: well-known ports)
  - „username”: numele de utilizator al utilizatorului care se conectează la baza de date (fără implicit)
