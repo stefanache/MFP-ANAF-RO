@@ -1541,11 +1541,11 @@ Exemplul de mai sus va seta opțiunile <b>JSON</b> la 128+256+64 = <b>448</b>, c
         the array is empty. 
     JSON_NUMERIC_CHECK (32)
         Encodes numeric strings as numbers. 
-    JSON_UNESCAPED_SLASHES (<b>64</b>)
+    JSON_UNESCAPED_SLASHES (+64)
         Don't escape /. 
-    JSON_PRETTY_PRINT (<b>128</b>)
+    JSON_PRETTY_PRINT (+128)
         Use whitespace in returned data to format it. 
-    JSON_UNESCAPED_UNICODE (<b>256</b>)
+    JSON_UNESCAPED_UNICODE (+256)
         Encode multibyte Unicode characters literally (default is to escape as \uXXXX). 
     JSON_PARTIAL_OUTPUT_ON_ERROR (512)
         Substitute some unencodable values instead of failing. 
