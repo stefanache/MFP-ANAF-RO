@@ -1556,7 +1556,7 @@ Exemplul de mai sus va seta opțiunile <b>JSON</b> la 128+256+64 = <b>448</b>, c
         It uses the same behaviour as it was before PHP 7.1 without this constant. 
         Available as of PHP 7.1.0.
         
-Sursa: <a href="https://www.php.net/manual/en/json.constants.php">documentația PHP privind constantele<b>JSON</b></a> 
+Sursa: <a href="https://www.php.net/manual/en/json.constants.php">documentația PHP privind constantele <b>JSON</b></a> 
   <hr/><br/>
   </details>
   <details><summary><h3>Intermediarul JSON(JSON middleware)</h3></summary>
