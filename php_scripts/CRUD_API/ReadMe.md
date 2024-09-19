@@ -785,7 +785,7 @@ Puteți activa următorul <b>middleware</b> folosind parametrul de configurare �
  - „<b>ipAddress</b>”: completați un câmp protejat cu adresa IP la creare
  - „<b>sanititaion</b>”: Aplicați igienizarea de intrare la crearea și actualizarea
  - „<b>multiTenancy</b>”: restricționează accesul chiriașilor într-un scenariu cu mai mulți chiriași
- - „<b>pageLimits</b>”: Restricționează operațiunile de listă pentru a preveni eliminarea bazei de date
+ - „<b>pageLimits</b>”: Restricționează operațiunile de listă pentru a preveni eliminarea/distrugerea bazei de date
  - „<b>joinLimits</b>”: restricționează parametrii de îmbinare pentru a preveni scrapingul bazei de date
  - „<b>textSearch</b>”: Căutați în toate câmpurile de text cu un parametru simplu
  - „<b>customization</b>”: Oferă handler pentru personalizarea cererilor și răspunsurilor
@@ -1464,7 +1464,7 @@ Daca doriți, puteti să preluați numele bazei de date din sesiune (variabila <
   </details><!--h3-->
   <details><summary><h3>Prevenirea răzuirii/"scraping"-ului bazei de date(culegerii nedorite de date)</h3></summary>
   <br/><hr/>
-Puteți utiliza middleware-ul <b>„joinLimits”</b> și <b>„pageLimits”</b> pentru a preveni <b>răzuirii</b>/copierea nedorita a bazei de date.<br/> 
+Puteți utiliza middleware-ul <b>„joinLimits”</b> și <b>„pageLimits”</b> pentru a preveni <b>răzuirii</b>/copierea/distrugerea nedorita a bazei de date.<br/> 
 Middleware-ul <b>„joinLimits”</b> limitează adâncimea tabelului, numărul de tabele și numărul de înregistrări returnate într-o operație de îmbinare/alăturare/<b>reunire</b>(<b>join</b>).<br/>
 Dacă doriți să permiteți <b>5</b> alăturari directe, alăturari directe cu maximum <b>25</b> de înregistrări fiecare, puteți specifica:
 
