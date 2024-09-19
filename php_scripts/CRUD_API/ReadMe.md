@@ -112,14 +112,14 @@ Acestea sunt toate opțiunile de configurare și valoarea lor implicită între 
  - „basePath”: calea de bază URI a API-ului (în mod implicit valoarea este determinată folosind PATH_INFO )
 
 Toate aceste opțiuni de configurare sunt disponibile și ca variabile de mediu.<br/><br/> 
-Scrieți opțiunea de configurare cu majuscule, un prefix „PHP_CRUD_API_” și liniuțe de subliniere pentru <br/>despărțiri de cuvinte, de exemplu:<pre>
+Scrieți opțiunea de configurare cu majuscule, un prefix „PHP_CRUD_API_” și liniuțe de subliniere pentru <br/>despărțiri de cuvinte, de exemplu:<br/><pre>
 PHP_CRUD_API_DRIVER=mysql
 PHP_CRUD_API_ADDRESS=localhost
 PHP_CRUD_API_PORT=3306
 PHP_CRUD_API_DATABASE=php-crud-api
 PHP_CRUD_API_USERNAME=php-crud-api
 PHP_CRUD_API_PASSWORD=php-crud-api
-PHP_CRUD_API_DEBUG=1
+PHP_CRUD_API_DEBUG=1</pre><br/>
 
 Variabilele de mediu(setate in shell/cmd.exe sau in .bat: set PHP_CRUD_API_ADDRESS=127.0.0.1) au prioritate față de <br/>configurarile din cadrul sursei-PHP(<a href="https://github.com/codemage66/PHP-CRUD-API/blob/main/php_scripts/CRUD_API/api.php">api.php</a>).
     
