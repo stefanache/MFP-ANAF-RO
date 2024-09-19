@@ -1171,7 +1171,7 @@ De asemenea, puteți modifica variabila <b>url</b>, folosită pentru a <b>testa<
   <details><summary><h4>Autorizarea operatiilor</h4></summary>
   <br/><hr/>
   Modelul de Autorizare acționează asupra <b>„operations”</b>. <br/>
-  Cele mai importante <b>„operations”</b> sunt enumerate aici:
+  Cele mai importante <b>„operatiuni/operatii”</b> sunt enumerate aici:
    <pre>
 
 method path                  - operation - description
@@ -1193,7 +1193,7 @@ Aceste operațiuni pot afișa sau modifica definiția bazei de date, a tabelului
 Această funcționalitate este <b>dezactivată</b> implicit și din motive întemeiate (ai grijă!).<br/>
 Adăugați controlerul <b>„coloane”</b> în configurație pentru a activa această funcționalitate.
   <hr/><br/>
-  </details>
+  </details><!--h4-->
   <details><summary><h4>Autorizarea tabelelor,coloanelor si inregistrarilor/randurilor</h4></summary>
   <br/><hr/>
    
