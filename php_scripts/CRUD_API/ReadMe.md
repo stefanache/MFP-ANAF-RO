@@ -1640,7 +1640,7 @@ Această funcționalitate este <b>dezactivată</b> în mod <b>implicit</b> și t
   
   <details><summary><h3>Incarcarile de fisier(File uploads)</h3></summary>
   <br/><hr/>
-  Încărcările de fișiere sunt acceptate prin <a href="https://caniuse.com/#feat=filereader"API-ul FileReader</a> , consultați <a href="https://github.com/mevdschee/php-crud-api/blob/master/examples/clients/upload/vanilla.html">exemplul</a>. 
+  Încărcările de fișiere sunt acceptate prin <a href="https://caniuse.com/#feat=filereader">API-ul FileReader</a> , consultați <a href="https://github.com/mevdschee/php-crud-api/blob/master/examples/clients/upload/vanilla.html">exemplul</a>. 
   <hr/><br/>
   </details>  <!--h3-->
   <hr/><br/>
