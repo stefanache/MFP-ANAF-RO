@@ -74,20 +74,24 @@ Sau daca vreti, intr-un sens mai larg, sau d.p.d.v conceptual, aceste cuvinte po
   <hr/><br/>
   </details>  
   <details><summary><h2>Configurare</h2></summary>
-  <br/><hr/><pre>
+  <br/><hr/>
    In partea de jos a fișierului [„api.php”](https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/api.php) 
-   trebuie sa editati liniile de mai jos(si sa inlocuiti ****xxx*** cu datele dvs concrete, de conectare la b.d. MySQL:  
+   trebuie sa editati liniile de mai jos(si sa inlocuiti ****xxx*** cu datele dvs concrete, de conectare la b.d. MySQL: 
+    
       $config = new Config([
           'username' => 'xxx',
           'password' => 'xxx',
           'database' => 'xxx',
       ]);
-      Dupa editare/modificare aceaste linii ar putea arata astfel:
+      
+Dupa editare/modificare aceaste linii ar putea arata astfel:
+
       $config = new Config([
           'username' => 'root',
           'password' => '',
           'database' => 'php_crud_api_db',
-      ]); </pre> 
+      ]); 
+
 Acestea sunt toate opțiunile de configurare și valoarea lor implicită între paranteze:<br/>
     
  - „driver”: mysql, pgsql, sqlsrvsau sqlite( implicit mysql)
