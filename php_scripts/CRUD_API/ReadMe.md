@@ -2063,7 +2063,15 @@ Voi încerca să acopăr cele mai relevante setări din folderul <b>„docker”
   </details>
   <details><summary><h2>Functionare/Rulare/Executie(running)</h2></summary>
   <br/><hr/>
-   
+ Pentru a rula <b>testele funcționale/de functionalitate</b> la nivel local(pe computer-ul dvs),<br/>
+ puteți rula următoarele <b>comenzi</b>:
+
+    php build.php
+    php test.php
+
+Aceasta rulează testele funcționale din directorul <b>„tests”</b>.<br/>
+Utilizează dump-urile bazei de date (<b>fixtures</b>) și configurația bazei de date (<b>config</b>) din <br/>
+subdirectoarele corespunzătoare.  
   <hr/><br/>
   </details>
   <details><summary><h2>Exemplu de configurare webserver Nginx</h2></summary>
