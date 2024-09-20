@@ -1662,6 +1662,24 @@ Pentru a afla mai multe, consultați aceste link-uri:
   </details> 
   <details><summary><h2>Tampon date reutilizate(Cache)</h2></summary>
   <br/><hr/>
+Există <b>4 motoare de cache</b> care pot fi configurate de parametrul de configurare <b>„cacheType”</b>:
+
+ - TempFile (implicit)
+ - Redis
+ - Memcache
+ - Memcached
+
+Puteți instala dependențele pentru ultimele trei motoare(Redis,Memcache,Memcached) rulând:
+
+  sudo apt install php-redis redis
+  sudo apt install php-memcache memcached
+  sudo apt install php-memcached memcached
+
+Motorul implicit nu are dependențe și va folosi fișiere temporare în calea <b>„temp”</b> a sistemului.
+
+Puteți utiliza parametrul de configurare <b>„cachePath”</b> pentru a specifica calea sistemului de fișiere pentru 
+fișierele temporare sau, în cazul în care utilizați un <b>„cacheType”</b> care nu este implicit, numele de gazdă 
+(opțional cu portul) al serverului <b>cache</b>.
 
   <hr/><br/>
   </details>
