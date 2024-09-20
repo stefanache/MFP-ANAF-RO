@@ -1829,7 +1829,148 @@ Când aceste valori sunt stocate într-o bază de date, nu le puteți citi, deoa
   
   <details><summary><h2>Erori</h2></summary>
   <br/><hr/>
-   
+    Pot fi raportate următoarele erori:<br/>
+<table>
+<thead>
+<tr>
+<th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Eroare</font></font></th>
+<th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cod de răspuns HTTP</font></font></th>
+<th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Mesaj</font></font></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1000</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">404 Nu a fost găsit</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ruta nu a fost găsită</font></font></td>
+</tr>
+<tr>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1001</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">404 Nu a fost găsit</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Tabelul nu a fost găsit</font></font></td>
+</tr>
+<tr>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1002</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">422 Entitate neprocesabilă</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Nepotrivirea numărului de argumente</font></font></td>
+</tr>
+<tr>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1003</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">404 Nu a fost găsit</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Înregistrare nu a fost găsită</font></font></td>
+</tr>
+<tr>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1004</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">403 Interzis</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Originea este interzisă</font></font></td>
+</tr>
+<tr>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1005</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">404 Nu a fost găsit</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Coloana nu a fost găsită</font></font></td>
+</tr>
+<tr>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1006</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">409 Conflict</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Tabelul există deja</font></font></td>
+</tr>
+<tr>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1007</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">409 Conflict</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Coloana există deja</font></font></td>
+</tr>
+<tr>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1008</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">422 Entitate neprocesabilă</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Nu se poate citi mesajul HTTP</font></font></td>
+</tr>
+<tr>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1009</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">409 Conflict</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Excepție cheie duplicată</font></font></td>
+</tr>
+<tr>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1010</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">409 Conflict</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Încălcarea integrității datelor</font></font></td>
+</tr>
+<tr>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1011</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">401 Neautorizat</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Este necesară autentificarea</font></font></td>
+</tr>
+<tr>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1012</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">403 Interzis</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Autentificarea eșuată</font></font></td>
+</tr>
+<tr>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1013</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">422 Entitate neprocesabilă</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Validarea intrării a eșuat</font></font></td>
+</tr>
+<tr>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1014</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">403 Interzis</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Operațiune interzisă</font></font></td>
+</tr>
+<tr>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1015</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">405 Metoda nu este permisă</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Operațiunea nu este acceptată</font></font></td>
+</tr>
+<tr>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1016</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">403 Interzis</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Blocat temporar sau definitiv</font></font></td>
+</tr>
+<tr>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1017</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">403 Interzis</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Indicativ XSRF greșit sau lipsă</font></font></td>
+</tr>
+<tr>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1018</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">403 Interzis</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Sunt permise doar cereri AJAX</font></font></td>
+</tr>
+<tr>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1019</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">403 Interzis</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Paginare interzisă</font></font></td>
+</tr>
+<tr>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1020</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">409 Conflict</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Utilizatorul există deja</font></font></td>
+</tr>
+<tr>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1021</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">422 Entitate neprocesabilă</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Parola prea scurtă</font></font></td>
+</tr>
+<tr>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1022</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">422 Entitate neprocesabilă</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Numele de utilizator este gol</font></font></td>
+</tr>
+<tr>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">9999</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">500 Eroare internă de server</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Eroare necunoscută</font></font></td>
+</tr>
+</tbody>
+</table> <br/>
+Este utilizată următoarea structură JSON:
+
+    {
+        "code":1002,
+        "message":"Argument count mismatch in '1'"
+    }
+    
+<b>NB</b>:<br/>
+Orice răspuns fără eroare va avea starea: <b>200 OK</b>
+  
   <hr/><br/>
   </details>
   <details><summary><h2>Stare(status)</h2></summary>
