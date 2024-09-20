@@ -1655,7 +1655,14 @@ Această funcționalitate este <b>dezactivată</b> în mod <b>implicit</b> și t
   </details> 
   <details><summary><h2>Tampon date reutilizate(Cache)</h2></summary>
   <br/><hr/>
-   
+Pe punctul-final <b>„/openapi”</b> este furnizată <b>specificația OpenAPI 3.0</b> (numită anterior <b>„Swagger”</b>).<br/>
+Este o documentație instantanee citibilă catre API-ul de pe masina/computerul dvs.<br/>
+Pentru a afla mai multe, consultați aceste link-uri:
+
+ - <a href="https://editor.swagger.io/"><b>Swagger Editor</b></a> poate fi folosit pentru a vizualiza și depana specificația generată.
+ - <a href="https://swagger.io/specification/"><b>Specificația OpenAPI</b></a> este un manual pentru crearea unei specificații OpenAPI.
+ - <a href="https://petstore.swagger.io/"><b>Swagger Petstore</b></a> este un exemplu de documentație care este generată folosind OpenAPI.
+
   <hr/><br/>
   </details>
   <details><summary><h2>Tipurile de date</h2></summary>
