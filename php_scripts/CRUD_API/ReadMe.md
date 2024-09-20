@@ -1809,7 +1809,8 @@ Rețineți că geometria este un tip non-jdbc și, prin urmare, are suport limit
     Mai jos sunt descrise două probleme mai grave.
   <details><summary><h4>intregi pe 64 biti</h4></summary>
   <br/><hr/>
-JavaScript nu acceptă numere întregi pe 64 de biți. Toate numerele sunt stocate ca valori în virgulă mobilă pe 64 de biți.<br/>
+JavaScript nu acceptă numere întregi pe 64 de biți. <br/>
+Toate numerele sunt stocate ca valori în virgulă mobilă pe 64 de biți.<br/>
 Mantisa unui număr în virgulă mobilă de 64 de biți este de numai 53 de biți și de aceea toate numerele întregi mai mari de <br/>
 53 de biți pot cauza probleme în JavaScript.   
   <hr/><br/>
