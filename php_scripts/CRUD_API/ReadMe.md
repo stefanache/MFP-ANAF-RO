@@ -2260,7 +2260,19 @@ Puteți introduce <b>„exit”</b> când ați terminat.
   </details>
   <details><summary><h3>Compozitorul Docker(Docker compose)</h3></summary>
   <br/><hr/>
-   
+Acest depozit de asemenea mai contine un fisier  <b>docker-compose.yml</b> fisier ce va permite sa instalati/construiti/rulati folosind:
+
+    sudo apt install docker-compose
+    docker-compose build
+    docker-compose up
+
+Acesta va seta/instala un s.g.b.d. (<b>MySQL</b>) si un webserver (<b>Apache</b>) si se ruleaza aplicatia folosind un exemplu<br/>
+de blog ca date utilizat in teste.
+
+Testati script-ul (running in the container) prin deschidere urmatorului URL:
+
+    http://localhost:8080/records/posts/1
+
   <hr/><br/>
   </details>
     <hr/><br/>
