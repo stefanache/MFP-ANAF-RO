@@ -1702,14 +1702,14 @@ fișierele temporare sau, în cazul în care utilizați un <b>„cacheType”</b
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">varchar</font></font></td>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">255</font></font></td>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">caracter</font></font></td>
-<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">şir</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">şir de caractere</font></font></td>
 <td></td>
 </tr>
 <tr>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">clob</font></font></td>
 <td></td>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">caracter</font></font></td>
-<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">şir</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">şir de caractere</font></font></td>
 <td></td>
 </tr>
 <tr>
@@ -1769,7 +1769,7 @@ fișierele temporare sau, în cazul în care utilizați un <b>„cacheType”</b
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">hh:mm:ss</font></font></td>
 </tr>
 <tr>
-<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">timestamp</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">timestamp(marca[j] temporal[a])</font></font></td>
 <td></td>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">data/ora</font></font></td>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">şir de caractere</font></font></td>
