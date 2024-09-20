@@ -2110,7 +2110,7 @@ subdirectoarele corespunzătoare.
   <br/><hr/>
   <details><summary><h3>Teste Docker</h3></summary>
   <br/><hr/>
-Instalați docker folosind următoarele comenzi, apoi deconectați-vă și conectați-vă pentru ca modificările să aibă efect:
+Instalați docker folosind următoarele <b>comenzi</b>, apoi deconectați-vă și conectați-vă pentru ca modificările să aibă efect:
 
     sudo apt install docker.io
     sudo usermod -aG docker ${USER}
