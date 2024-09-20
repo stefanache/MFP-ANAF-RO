@@ -1671,9 +1671,9 @@ Există <b>4 motoare de cache</b> care pot fi configurate de parametrul de confi
 
 Puteți instala dependențele pentru ultimele trei motoare(Redis,Memcache,Memcached) rulând:
 
-  sudo apt install php-redis redis
-  sudo apt install php-memcache memcached
-  sudo apt install php-memcached memcached
+    sudo apt install php-redis redis
+    sudo apt install php-memcache memcached
+    sudo apt install php-memcached memcached
 
 Motorul implicit nu are dependențe și va folosi fișiere temporare în calea <b>„temp”</b> a sistemului.
 
