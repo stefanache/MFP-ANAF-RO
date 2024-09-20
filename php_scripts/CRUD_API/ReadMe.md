@@ -1993,6 +1993,8 @@ Acestea pot fi folosite pentru a măsura timpul (în microsecunde) pentru conect
   <br/><hr/>
 Puteți adăuga propriile puncte-finale personalizate(customizate) API REST scriind propria <b>clasă de controler personalizat</b>.<br/>
 Clasa trebuie să furnizeze un <b>constructor</b> care acceptă cinci(5) parametri:<br/>
+
+<pre>
        Clasa             Obiect
        ------            -------
      - Router            $router, 
@@ -2000,7 +2002,8 @@ Clasa trebuie să furnizeze un <b>constructor</b> care acceptă cinci(5) paramet
      - GenericDB         $db, 
      - ReflectionService $reflection, 
      - Cache             $cache
-     
+</pre>    
+    
 Cu acești parametri vă puteți înregistra propriul punct-final(endpoint) pe routerul existent.<br/.
 Acest punct-final poate utiliza <b>baza de date($db)</b> și/sau <b>clasa de reflectare($reflection)</b> a bazei de date.
 
