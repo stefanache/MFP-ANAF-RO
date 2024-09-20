@@ -2115,7 +2115,14 @@ subdirectoarele corespunzătoare.
   </details>
   <details><summary><h3>Imagine Docker</h3></summary>
   <br/><hr/>
-   
+ Există un <b>Dockerfile</b> în depozit care este folosit pentru a construi o imagine a acestui api:
+
+  <a href="https://hub.docker.com/r/mevdschee/php-crud-api">https://hub.docker.com/r/mevdschee/php-crud-api</a>
+
+ Acesta va fi construit automat pe fiecare lansare. 
+ Eticheta <b>„latest tag”</b> indică ultima versiune(cea mai recentă versiune).
+
+ Imaginea docker acceptă parametrii variabilei de mediu din configurație.  
   <hr/><br/>
   </details>
   <details><summary><h3>Compozitorul Docker(Docker compose)</h3></summary>
