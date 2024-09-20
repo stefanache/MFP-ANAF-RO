@@ -1975,12 +1975,70 @@ Orice răspuns fără eroare va avea starea: <b>200 OK</b>
   </details>
   <details><summary><h2>Stare(status)</h2></summary>
   <br/><hr/>
-   
+Pentru a vă conecta la monitorizarea dvs. există un punct final „ping”:
+
+    GET /status/ping
+
+Și aceasta ar trebui să returneze starea 200 și ca date:
+
+    {
+        "db": 42,
+        "cache": 9
+    }
+
+Acestea pot fi folosite pentru a măsura timpul (în microsecunde) pentru conectarea și citirea datelor din baza de date și din cache.   
   <hr/><br/>
   </details>
   <details><summary><h2>Controler personalizat(custom controller)</h2></summary>
   <br/><hr/>
-   
+Puteți adăuga propriile puncte-finale personalizate(customizate) API REST scriind propria <b>clasă de controler personalizat</b>.<br/>
+Clasa trebuie să furnizeze un <b>constructor</b> care acceptă cinci(5) parametri:<br/>
+       Clasa             Obiect
+       ------            -------
+     - Router            $router, 
+     - Responder         $responder, 
+     - GenericDB         $db, 
+     - ReflectionService $reflection, 
+     - Cache             $cache
+     
+Cu acești parametri vă puteți înregistra propriul punct-final(endpoint) pe routerul existent.<br/.
+Acest punct-final poate utiliza <b>baza de date($db)</b> și/sau <b>clasa de reflectare($reflection)</b> a bazei de date.
+
+Iată un exemplu de clasă de controler personalizat:
+
+    use Psr\Http\Message\ResponseInterface;
+    use Psr\Http\Message\ServerRequestInterface;
+    use Tqdev\PhpCrudApi\Cache\Cache;
+    use Tqdev\PhpCrudApi\Column\ReflectionService;
+    use Tqdev\PhpCrudApi\Controller\Responder;
+    use Tqdev\PhpCrudApi\Database\GenericDB;
+    use Tqdev\PhpCrudApi\Middleware\Router\Router;
+    
+    class MyHelloController {
+    
+        private $responder;
+    
+        public function __construct(Router $router, Responder $responder, GenericDB $db, ReflectionService $reflection, Cache $cache)
+        {
+            $router->register('GET', '/hello', array($this, 'getHello'));
+            $this->responder = $responder;
+        }
+    
+        public function getHello(ServerRequestInterface $request): ResponseInterface
+        {
+            return $this->responder->success(['message' => "Hello World!"]);
+        }
+    }
+
+Și apoi vă puteți înregistra clasa de controler personalizat(customizat) în obiectul de configurare astfel:
+
+    $config = new Config([
+        ...
+        'customControllers' => 'MyHelloController',
+        ...
+    ]);
+
+Configurația <b>customControllers</b> acceptă o listă separată prin virgulă de clase de controlere personalizate.  
   <hr/><br/>
   </details>
   <details><summary><h2>Teste</h2></summary>
