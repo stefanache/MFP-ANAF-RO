@@ -1720,7 +1720,7 @@ fișierele temporare sau, în cazul în care utilizați un <b>„cacheType”</b
 <td></td>
 </tr>
 <tr>
-<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">întreg</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">integer</font></font></td>
 <td></td>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">întreg</font></font></td>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">număr</font></font></td>
@@ -1734,67 +1734,67 @@ fișierele temporare sau, în cazul în care utilizați un <b>„cacheType”</b
 <td></td>
 </tr>
 <tr>
-<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">plutire</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">float</font></font></td>
 <td></td>
-<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">plutire</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">virgula mobila</font></font></td>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">număr</font></font></td>
 <td></td>
 </tr>
 <tr>
-<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">dubla</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">double</font></font></td>
 <td></td>
-<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">plutire</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">virgula mobila</font></font></td>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">număr</font></font></td>
 <td></td>
 </tr>
 <tr>
-<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">zecimal</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">decimal</font></font></td>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">19,4</font></font></td>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">zecimal</font></font></td>
-<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">şir</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">şir de caractere</font></font></td>
 <td></td>
 </tr>
 <tr>
-<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">data</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">date</font></font></td>
 <td></td>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">data/ora</font></font></td>
-<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">şir</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">şir de caractere</font></font></td>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">aaaa-mm-zz</font></font></td>
 </tr>
 <tr>
-<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">timp</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">time</font></font></td>
 <td></td>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">data/ora</font></font></td>
-<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">şir</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">şir de caractere</font></font></td>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">hh:mm:ss</font></font></td>
 </tr>
 <tr>
-<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">marca temporală</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">timestamp</font></font></td>
 <td></td>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">data/ora</font></font></td>
-<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">şir</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">şir de caractere</font></font></td>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">aaaa-mm-zz hh:mm:ss</font></font></td>
 </tr>
 <tr>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">varbinar</font></font></td>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">255</font></font></td>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">binar</font></font></td>
-<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">şir</font></font></td>
-<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">codificat în bază64</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">şir de caractere</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">codificat în base64</font></font></td>
 </tr>
 <tr>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">blob</font></font></td>
 <td></td>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">binar</font></font></td>
-<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">şir</font></font></td>
-<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">codificat în bază64</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">şir de caractere</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">codificat în base64</font></font></td>
 </tr>
 <tr>
-<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">geometrie</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">geometry</font></font></td>
 <td></td>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">alte</font></font></td>
-<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">şir</font></font></td>
-<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">text cunoscut</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">şirde caractere</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">text bine-cunoscut</font></font></td>
 </tr>
 </tbody>
 </table> <br/>
