@@ -1651,7 +1651,7 @@ Această funcționalitate este <b>dezactivată</b> în mod <b>implicit</b> și t
   <details><summary><h2>Specificatia OpenAPI</h2></summary>
   <br/><hr/>
 Pe punctul-final <b>„/openapi”</b> este furnizată <b>specificația OpenAPI 3.0</b> (numită anterior <b>„Swagger”</b>).<br/>
-Este o documentație instantanee citibilă catre API-ul de pe masina/computerul dvs.<br/>
+Este o documentație instantanee citibilă de catre API-ul de pe masina/computerul dvs.<br/>
 Pentru a afla mai multe, consultați aceste link-uri:
 
  - <a href="https://editor.swagger.io/"><b>Swagger Editor</b></a> poate fi folosit pentru a vizualiza și depana specificația generată.
