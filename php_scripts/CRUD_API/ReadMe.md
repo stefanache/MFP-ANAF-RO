@@ -2110,7 +2110,139 @@ subdirectoarele corespunzătoare.
   <br/><hr/>
   <details><summary><h3>Teste Docker</h3></summary>
   <br/><hr/>
-   
+Instalați docker folosind următoarele comenzi, apoi deconectați-vă și conectați-vă pentru ca modificările să aibă efect:
+
+    sudo apt install docker.io
+    sudo usermod -aG docker ${USER}
+
+Pentru a rula testele docker, rulați <b>„build_all.sh”</b> și <b>„run_all.sh”</b> din directorul docker.<br/>
+Ieșirea ar trebui să fie:
+  
+  ================================================
+  Debian 10 (PHP 7.3)
+  ================================================
+  [1/4] Starting MariaDB 10.3 ..... done
+  [2/4] Starting PostgreSQL 11.4 .. done
+  [3/4] Starting SQLServer 2017 ... skipped
+  [4/4] Cloning PHP-CRUD-API v2 ... skipped
+  ------------------------------------------------
+  mysql: 120 tests ran in 3279 ms, 1 skipped, 0 failed
+  pgsql: 120 tests ran in 1802 ms, 1 skipped, 0 failed
+  sqlsrv: skipped, driver not loaded
+  sqlite: 120 tests ran in 1720 ms, 13 skipped, 0 failed
+  ================================================
+  Debian 11 (PHP 7.4)
+  ================================================
+  [1/4] Starting MariaDB 10.5 ..... done
+  [2/4] Starting PostgreSQL 13.4 .. done
+  [3/4] Starting SQLServer 2017 ... skipped
+  [4/4] Cloning PHP-CRUD-API v2 ... skipped
+  ------------------------------------------------
+  mysql: 120 tests ran in 2761 ms, 1 skipped, 0 failed
+  pgsql: 120 tests ran in 2263 ms, 1 skipped, 0 failed
+  sqlsrv: skipped, driver not loaded
+  sqlite: 120 tests ran in 1860 ms, 13 skipped, 0 failed
+  ================================================
+  Debian 12 (PHP 8.2)
+  ================================================
+  [1/4] Starting MariaDB 10.11 .... done
+  [2/4] Starting PostgreSQL 15.3 .. done
+  [3/4] Starting SQLServer 2019 ... skipped
+  [4/4] Cloning PHP-CRUD-API v2 ... skipped
+  ------------------------------------------------
+  mysql: 120 tests ran in 3106 ms, 1 skipped, 0 failed
+  pgsql: 120 tests ran in 1863 ms, 1 skipped, 0 failed
+  sqlsrv: skipped, driver not loaded
+  sqlite: 120 tests ran in 1649 ms, 13 skipped, 0 failed
+  ================================================
+  RockyLinux 8 (PHP 7.2)
+  ================================================
+  [1/4] Starting MariaDB 10.3 ..... done
+  [2/4] Starting PostgreSQL 11 .... skipped
+  [3/4] Starting SQLServer 2017 ... skipped
+  [4/4] Cloning PHP-CRUD-API v2 ... skipped
+  ------------------------------------------------
+  mysql: 120 tests ran in 3248 ms, 1 skipped, 0 failed
+  pgsql: skipped, driver not loaded
+  sqlsrv: skipped, driver not loaded
+  sqlite: 120 tests ran in 1745 ms, 13 skipped, 0 failed
+  ================================================
+  RockyLinux 9 (PHP 8.0)
+  ================================================
+  [1/4] Starting MariaDB 10.5 ..... done
+  [2/4] Starting PostgreSQL 12 .... skipped
+  [3/4] Starting SQLServer 2017 ... skipped
+  [4/4] Cloning PHP-CRUD-API v2 ... skipped
+  ------------------------------------------------
+  mysql: 120 tests ran in 2945 ms, 1 skipped, 0 failed
+  pgsql: skipped, driver not loaded
+  sqlsrv: skipped, driver not loaded
+  sqlite: 120 tests ran in 1657 ms, 13 skipped, 0 failed
+  ================================================
+  Ubuntu 18.04 (PHP 7.2)
+  ================================================
+  [1/4] Starting MySQL 5.7 ........ done
+  [2/4] Starting PostgreSQL 10.4 .. done
+  [3/4] Starting SQLServer 2017 ... skipped
+  [4/4] Cloning PHP-CRUD-API v2 ... skipped
+  ------------------------------------------------
+  mysql: 120 tests ran in 4151 ms, 1 skipped, 0 failed
+  pgsql: 120 tests ran in 1798 ms, 1 skipped, 0 failed
+  sqlsrv: skipped, driver not loaded
+  sqlite: 120 tests ran in 1906 ms, 13 skipped, 0 failed
+  ================================================
+  Ubuntu 20.04 (PHP 7.4)
+  ================================================
+  [1/4] Starting MySQL 8.0 ........ done
+  [2/4] Starting PostgreSQL 12.2 .. done
+  [3/4] Starting SQLServer 2019 ... done
+  [4/4] Cloning PHP-CRUD-API v2 ... skipped
+  ------------------------------------------------
+  mysql: 120 tests ran in 6480 ms, 1 skipped, 0 failed
+  pgsql: 120 tests ran in 2415 ms, 1 skipped, 0 failed
+  sqlsrv: 120 tests ran in 14517 ms, 1 skipped, 0 failed
+  sqlite: 120 tests ran in 1694 ms, 13 skipped, 0 failed
+  ================================================
+  Ubuntu 22.04 (PHP 8.1)
+  ================================================
+  [1/4] Starting MySQL 8.0 ........ done
+  [2/4] Starting PostgreSQL 14.2 .. done
+  [3/4] Starting SQLServer 2019 ... skipped
+  [4/4] Cloning PHP-CRUD-API v2 ... skipped
+  ------------------------------------------------
+  mysql: 120 tests ran in 5951 ms, 1 skipped, 0 failed
+  pgsql: 120 tests ran in 1951 ms, 1 skipped, 0 failed
+  sqlsrv: skipped, driver not loaded
+  sqlite: 120 tests ran in 1923 ms, 13 skipped, 0 failed
+  Testul de mai sus (inclusiv pornirea bazelor de date) durează mai puțin de 5 minute pe laptopul meu lent.
+  
+  $ ./run.sh
+  1) debian10
+  2) debian11
+  3) debian12
+  4) rockylinux8
+  5) rockylinux9
+  6) ubuntu18
+  7) ubuntu20
+  8) ubuntu22
+  > 6
+  ================================================
+  Ubuntu 18.04 (PHP 7.2)
+  ================================================
+  [1/4] Starting MySQL 5.7 ........ done
+  [2/4] Starting PostgreSQL 10.4 .. done
+  [3/4] Starting SQLServer 2017 ... skipped
+  [4/4] Cloning PHP-CRUD-API v2 ... skipped
+  ------------------------------------------------
+  mysql: 120 tests ran in 4151 ms, 1 skipped, 0 failed
+  pgsql: 120 tests ran in 1798 ms, 1 skipped, 0 failed
+  sqlsrv: skipped, driver not loaded
+  sqlite: 120 tests ran in 1906 ms, 13 skipped, 0 failed
+  root@b7ab9472e08f:/php-crud-api# 
+  
+După cum puteți vedea, scriptul <b>„run.sh”</b> vă oferă acces la un prompt în mediul docker ales.<br/>
+În acest mediu sunt montate fișierele locale. Acest lucru permite o depanare ușoară în diferite medii.<br/>
+Puteți introduce <b>„exit”</b> când ați terminat.   
   <hr/><br/>
   </details>
   <details><summary><h3>Imagine Docker</h3></summary>
