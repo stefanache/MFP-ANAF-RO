@@ -1769,7 +1769,7 @@ fișierele temporare sau, în cazul în care utilizați un <b>„cacheType”</b
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">hh:mm:ss</font></font></td>
 </tr>
 <tr>
-<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">timestamp(marca[j] temporal[a])</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">timestamp<br/>(marca[j] temporal[a] sau <br/>stampila de timp/temporala)</font></font></td>
 <td></td>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">data/ora</font></font></td>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">şir de caractere</font></font></td>
