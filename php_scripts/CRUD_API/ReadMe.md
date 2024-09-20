@@ -2004,7 +2004,7 @@ Clasa trebuie să furnizeze un <b>constructor</b> care acceptă cinci(5) paramet
      - Cache             $cache
 </pre>    
     
-Cu acești parametri vă puteți înregistra propriul punct-final(endpoint) pe routerul existent.<br/.
+Cu acești parametri vă puteți înregistra propriul punct-final(endpoint) pe routerul existent.<br/>.
 Acest punct-final poate utiliza <b>baza de date($db)</b> și/sau <b>clasa de reflectare($reflection)</b> a bazei de date.
 
 Iată un exemplu de clasă de controler personalizat:
