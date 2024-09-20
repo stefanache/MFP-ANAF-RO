@@ -2115,7 +2115,7 @@ Instalați docker folosind următoarele <b>comenzi</b>, apoi deconectați-vă ș
     sudo apt install docker.io
     sudo usermod -aG docker ${USER}
 
-Pentru a rula testele docker, rulați <b>„build_all.sh”</b> și <b>„run_all.sh”</b> din directorul docker.<br/>
+Pentru a rula <a href="https://github.com/codemage66/PHP-CRUD-API/tree/main/docker">testele docker</a>, rulați <b>„build_all.sh”</b> și <b>„run_all.sh”</b> din directorul <a href="https://github.com/codemage66/PHP-CRUD-API/tree/main/docker">docker</a>.<br/>
 Ieșirea ar trebui să fie:
   
   ================================================
