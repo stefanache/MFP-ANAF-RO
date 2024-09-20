@@ -1803,14 +1803,22 @@ Rețineți că geometria este un tip non-jdbc și, prin urmare, are suport limit
   </details>  
   <details><summary><h3>Tipuri de date in JavaScript</h3></summary>
   <br/><hr/>
+    Javascript și notația obiect Javascript (JSON) nu sunt foarte potrivite pentru citirea înregistrărilor bazei de date.<br/>
+    Tipurile zecimale, date/ora, binare și geometrie trebuie reprezentate ca șiruri de caractere în JSON (binarul este codificat în base64,<br/>
+    geometriile sunt în format WKT). <br/>
+    Mai jos sunt descrise două probleme mai grave.
   <details><summary><h4>intregi pe 64 biti</h4></summary>
   <br/><hr/>
-   
+JavaScript nu acceptă numere întregi pe 64 de biți. Toate numerele sunt stocate ca valori în virgulă mobilă pe 64 de biți.<br/>
+Mantisa unui număr în virgulă mobilă de 64 de biți este de numai 53 de biți și de aceea toate numerele întregi mai mari de <br/>
+53 de biți pot cauza probleme în JavaScript.   
   <hr/><br/>
   </details> 
   <details><summary><h4>reali in virgula mobila - Inf si NaN</h4></summary>
   <br/><hr/>
-   
+Valorile valide în virgulă mobilă „Infinit” (calculate cu „1/0”) și „Nu este un număr” (calculate cu „0/0”) nu pot fi exprimate în JSON,<br/>
+deoarece nu sunt acceptate de specificația <a href="https://www.json.org/">JSON</a>a>.<br/>
+Când aceste valori sunt stocate într-o bază de date, nu le puteți citi, deoarece acest script scoate înregistrările bazei de date ca JSON.   
   <hr/><br/>
   </details>  <!--h4-->
   <hr/><br/>
