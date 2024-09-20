@@ -1992,7 +1992,7 @@ Acestea pot fi folosite pentru a măsura timpul (în microsecunde) pentru conect
   <details><summary><h2>Controler personalizat(custom controller)</h2></summary>
   <br/><hr/>
 Puteți adăuga propriile puncte-finale personalizate(customizate) API REST scriind propria <b>clasă de controler personalizat</b>.<br/>
-Clasa trebuie să furnizeze un <b>constructor</b> care acceptă cinci(5) parametri:<br/>
+Clasa trebuie să furnizeze un <b>constructor</b> care acceptă cinci(<b>5</b>) <b>parametri</b>:<br/>
 
 <pre>
        Clasa             Obiect
@@ -2004,10 +2004,10 @@ Clasa trebuie să furnizeze un <b>constructor</b> care acceptă cinci(5) paramet
      - Cache             $cache
 </pre>    
     
-Cu acești parametri vă puteți înregistra propriul punct-final(endpoint) pe routerul existent.<br/>.
+Cu acești <b>parametri</b> vă puteți înregistra propriul punct-final(endpoint) pe routerul existent.<br/>.
 Acest punct-final poate utiliza <b>baza de date($db)</b> și/sau <b>clasa de reflectare($reflection)</b> a bazei de date.
 
-Iată un exemplu de clasă de controler personalizat:
+Iată un exemplu de <b>clasă de controler personalizat</b>:
 
     use Psr\Http\Message\ResponseInterface;
     use Psr\Http\Message\ServerRequestInterface;
@@ -2033,7 +2033,7 @@ Iată un exemplu de clasă de controler personalizat:
         }
     }
 
-Și apoi vă puteți înregistra clasa de controler personalizat(customizat) în obiectul de configurare astfel:
+Și apoi vă puteți înregistra clasa de controler personalizat(customizat) în obiectul de configurare(<b>$config</b>) astfel:
 
     $config = new Config([
         ...
@@ -2046,10 +2046,22 @@ Configurația <b>customControllers</b> acceptă o listă separată prin virgulă
   </details>
   <details><summary><h2>Teste</h2></summary>
   <br/><hr/>
-   
+A fost testat în principal pe <b>Ubuntu</b> și am următoarele <b>setări de testare</b>:
+
+ - (Docker) Debian 10 cu PHP 7.3, MariaDB 10.3, PostgreSQL 11.4 (PostGIS 2.5) și SQLite 3.27
+ - (Docker) Debian 11 cu PHP 7.4, MariaDB 10.5, PostgreSQL 13.4 (PostGIS 3.1) și SQLite 3.34
+ - (Docker) Debian 12 cu PHP 8.2, MariaDB 10.11, PostgreSQL 15.3 (PostGIS 3.3) și SQLite 3.40
+ - (Docker) RockyLinux 8 cu PHP 7.2, MariaDB 10.3 și SQLite 3.26
+ - (Docker) RockyLinux 9 cu PHP 8.0, MariaDB 10.5 și SQLite 3.34
+ - (Docker) Ubuntu 18.04 cu PHP 7.2, MySQL 5.7, PostgreSQL 10.4 (PostGIS 2.4) și SQLite 3.22
+ - (Docker) Ubuntu 20.04 cu PHP 7.4, MySQL 8.0, PostgreSQL 12.15 (PostGIS 3.0) și SQLite 3.31 și SQL Server 2019
+ - (Docker) Ubuntu 22.04 cu PHP 8.1, MySQL 8.0, PostgreSQL 14.2 (PostGIS 3.2) și SQLite 3.37
+
+Acest lucru nu acoperă (încă) toate mediile, așa că vă rugăm să mă anunțați dacă testele eșuează și să raportați mediul dumneavoastră.<br/>
+Voi încerca să acopăr cele mai relevante setări din folderul <b>„docker”</b> al proiectului.   
   <hr/><br/>
   </details>
-  <details><summary><h2>Rulare/Executie(running)</h2></summary>
+  <details><summary><h2>Functionare/Rulare/Executie(running)</h2></summary>
   <br/><hr/>
    
   <hr/><br/>
