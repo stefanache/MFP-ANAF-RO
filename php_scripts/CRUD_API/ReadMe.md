@@ -799,7 +799,7 @@ Puteți regla comportamentul <b>middleware</b> folosind <b>parametrii de configu
 „<b>firewall.reverseProxy</b>”: Setați la „adevărat” când este utilizat un proxy invers (“”)
 „<b>firewall.allowedIpAddresses</b>”: Listă de adrese IP cărora li se permite conectarea („”)<br/>
 „<b>cors.allowedOrigins</b>”: originile permise în antetele CORS ("*")
-„<b>cors.allowHeaders</b>”: anteturile permise în cererea CORS („Content-Type, X-XSRF-TOKEN, X-Authorization”)
+„<b>cors.allowHeaders</b>”: anteturile permise în cererea CORS („Content-Type, X-XSRF-TOKEN, <a href="https://swagger.io/docs/specification/authentication/bearer-authentication/"><b>X-Authorization</b></a>”)
 „<b>cors.allowMethods</b>”: Metodele permise în cererea CORS („OPTIONS, GET, PUT, POST, DELETE, PATCH”)
 „<b>cors.allowCredentials</b>”: ​​pentru a permite acreditările în cererea CORS („adevărat”)
 „<b>cors.exposeHeaders</b>”: anteturile din lista albă pe care browserele au voie să le acceseze ("")
