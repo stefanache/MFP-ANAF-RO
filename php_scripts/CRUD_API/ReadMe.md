@@ -116,8 +116,8 @@ Acestea sunt toate opțiunile de configurare și valoarea lor implicită între 
  - „debug”: afișați erorile în anteturile „X-Exception” ( implicit false)
  - „basePath”: calea de bază URI a API-ului (în mod implicit valoarea este determinată folosind PATH_INFO )
 
-Toate aceste opțiuni de configurare sunt disponibile și ca variabile de mediu.<br/><br/> 
-Scrieți opțiunea de configurare cu majuscule, un prefix „PHP_CRUD_API_” și liniuțe de subliniere pentru <br/>despărțiri de cuvinte, de exemplu:<br/><pre>
+Toate aceste opțiuni de configurare sunt disponibile și ca <b>variabile de mediu</b>(set[x] „<b>PHP_CRUD_API_...=...</b>”).<br/><br/> 
+Scrieți opțiunea de configurare cu majuscule, un prefix „<b>PHP_CRUD_API_</b>” și liniuțe de subliniere pentru <br/>despărțiri de cuvinte, de exemplu:<br/><pre>
 PHP_CRUD_API_DRIVER=mysql
 PHP_CRUD_API_ADDRESS=localhost
 PHP_CRUD_API_PORT=3306
