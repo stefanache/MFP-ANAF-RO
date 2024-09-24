@@ -1650,7 +1650,7 @@ Această funcționalitate este <b>dezactivată</b> în mod <b>implicit</b> și t
   </details> <!--h2-->
   <details><summary><h2>Specificatia OpenAPI</h2></summary>
   <br/><hr/>
-Pe punctul-final <b>„/openapi”</b> este furnizată <b>specificația OpenAPI 3.0</b> (numită anterior <b>„Swagger”</b>).<br/>
+Pe punctul-final <b>„/openapi”</b> este furnizată <b>specificația OpenAPI 3.0</b> (numită anterior <a href="https://medium.com/@tatianaensslin/how-to-add-swagger-ui-to-php-server-code-f1610c01dc03"><b>„Swagger”</b></a>).<br/>
 Este o documentație instantanee citibilă de catre API-ul de pe masina/computerul dvs.<br/>
 Pentru a afla mai multe, consultați aceste link-uri:
 
