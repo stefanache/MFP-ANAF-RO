@@ -778,7 +778,7 @@ Puteți activa următorul <b>middleware</b> folosind parametrul de configurare �
  - „<b>dbAuth</b>”: suport pentru „Autentificarea bazei de date”
  - „<b>wpAuth</b>”: suport pentru „Autentificare Wordpress”
  - „<b>jwtAuth</b>”: suport pentru „Autentificare <a href="https://en.wikipedia.org/wiki/JSON_Web_Token">JWT</a>”
- - „<b>basicAuth</b>”: suport pentru „Autentificare de bază”
+ - „<b>basicAuth</b>”: suport pentru „<a href="https://www.wallarm.com/what/what-is-basic-authentication-all-you-need-to-know"><b>Autentificare de bază</b></a>”
  - "<b>reconnect</b>": Reconectați-vă la baza de date cu parametri diferiți
  - „<b>autorization</b>”: restricționează accesul la anumite tabele sau coloane
  - „<b>validation</b>”: returnează erorile de validare a intrării pentru regulile personalizate și regulile de tip implicite
