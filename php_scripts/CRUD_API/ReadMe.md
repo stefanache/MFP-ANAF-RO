@@ -1657,7 +1657,8 @@ Pentru a afla mai multe, consultați aceste link-uri:
  - <a href="https://editor.swagger.io/"><b>Swagger Editor</b></a> poate fi folosit pentru a vizualiza și depana specificația generată.
  - <a href="https://swagger.io/specification/"><b>Specificația OpenAPI</b></a> este un manual pentru crearea unei specificații OpenAPI.
  - <a href="https://petstore.swagger.io/"><b>Swagger Petstore</b></a> este un exemplu de documentație care este generată folosind OpenAPI.
-   
+ - <a href="https://loadfocus.com/ro-ro/glossary/what-is-swagger">ce este Swagger?</a>.
+     
   <hr/><br/>
   </details> 
   <details><summary><h2>Tampon date reutilizate(Cache)</h2></summary>
