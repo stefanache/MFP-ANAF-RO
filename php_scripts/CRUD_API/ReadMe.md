@@ -835,7 +835,7 @@ Puteți regla comportamentul <b>middleware</b> folosind <b>parametrii de configu
 „<b>wpAuth.usernameFormField</b>”: numele câmpului de formular care conține numele de utilizator („nume de utilizator”)
 „<b>wpAuth.passwordFormField</b>”: numele câmpului formularului care conține parola („parolă”)<br/>
 „<b>jwtAuth.mode</b>”: Setați la „opțional” dacă doriți să permiteți accesul anonim („obligatoriu”)
-„<b>jwtAuth.header</b>”: numele antetului care conține simbolul JWT („X-Authorization”)
+„<b>jwtAuth.header</b>”: numele antetului care conține simbolul JWT („<a href="https://www.sitepoint.com/community/t/x-authorization-in-headers-for-api-interface/226388"><b>X-Authorization</b></a>”)
 „<b>jwtAuth.leeway</b>”: numărul acceptabil de secunde de înclinare a ceasului („5”)
 „<b>jwtAuth.ttl</b>”: numărul de secunde în care simbolul este valid („30”)
 „<b>jwtAuth.secrets</b>”: Secretul(ele) partajat(e) folosit(e) pentru a semna simbolul JWT cu ("")
