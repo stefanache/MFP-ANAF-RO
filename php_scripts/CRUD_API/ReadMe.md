@@ -1084,7 +1084,7 @@ Acest exemplu trimite șirul „<b>username1</b>:<b>password1</b>”.
 Tipul <a href="https://en.wikipedia.org/wiki/JSON_Web_Token"><b>JWT</b></a> necesită un alt server (<b>SSO/Identity</b>)...-deci un intermediar/middleware-... pt. a <a href="https://medium.com/winkhosting/create-a-basic-php-api-with-token-authentication-96111eada51">semna</a> un simbol(<b>token</b>) care conține revendicări(cerinte).<br/>
 Ambele servere partajează(detin in comun) un <b>secret</b>, astfel încât, in dublu-sens/ pe 2-cai, să poată <b>semna(Write)</b> sau să <b>verifice(Read)</b> dacă <b>semnătura</b> este validă.<br/> 
 Revendicările sunt stocate în variabila  <b>$_SESSION['claims']</b>.<br/>
-Trebuie să trimiteți un antet <b>„X-Authorization”</b> care să conțină un <b>antet</b>, un <b>corp</b> și o <b>semnătură</b> de simbol(token) cu ​​coduri <b>URL base64</b> și separate prin puncte după cuvântul <b>„Bearer”</b> ( citiți mai multe despre <a href="https://jwt.io/">JWT</a> aici ).<br/>
+Trebuie să trimiteți un antet <a href="https://www.sitepoint.com/community/t/x-authorization-in-headers-for-api-interface/226388"><b>„X-Authorization”</b></a> care să conțină un <b>antet</b>, un <b>corp</b> și o <b>semnătură</b> de simbol(token) cu ​​coduri <b>URL base64</b> și separate prin puncte după cuvântul <b>„Bearer”</b> ( citiți mai multe despre <a href="https://jwt.io/">JWT</a> aici ).<br/>
 Standardul spune că trebuie să utilizați antetul <b>„Autorization”</b>, dar acest lucru este problematic în <b>webserverul Apache</b> și <b>limbajul PHP</b>.
 
     X-Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiYWRtaW4iOnRydWUsImlhdCI6IjE1MzgyMDc2MDUiLCJleHAiOjE1MzgyMDc2MzV9.Z5px_GT15TRKhJCTHhDt5Z6K6LRDSFnLj8U5ok9l7gw
