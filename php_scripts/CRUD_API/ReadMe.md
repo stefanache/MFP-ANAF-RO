@@ -2069,7 +2069,7 @@ Configurația <b>customControllers</b> acceptă o listă separată prin virgulă
   <br/><hr/>  
    <details><summary><h2>Teste</h2></summary>
   <br/><hr/>
-Au fost testate în principal implementari containerizate/dockerizate bazate pe/sub <b>Ubuntu</b> și au fost utilizate următoarele <b>setUp-uri de testare</b>:
+Au fost <a href="https://github.com/stefanache/MFP-ANAF-RO/tree/main/php_scripts/CRUD_API/tests">testate</a> în principal implementari containerizate/dockerizate bazate pe/sub <b>Ubuntu</b> și au fost utilizate următoarele <b>setUp-uri de testare</b>:
 
  - (Docker) Debian 10 cu PHP 7.3, MariaDB 10.3, PostgreSQL 11.4 (PostGIS 2.5) și SQLite 3.27
  - (Docker) Debian 11 cu PHP 7.4, MariaDB 10.5, PostgreSQL 13.4 (PostGIS 3.1) și SQLite 3.34
