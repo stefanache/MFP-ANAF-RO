@@ -184,7 +184,7 @@ Sunt acceptate/dispune de următoarele facilitati/caracteristici(features):
   </details>
   <details><summary><h2>Proiecte si portari conexe</h2></summary>
   <br/><hr/>
-Proiecte conexe(legate/utilizate/sursa de inspiratie pt. acest proiect):
+Proiecte conexe(sursa de inspiratie pt./legate de acest proiect):
 
  - <a href="https://github.com/nik2208/php-crud-api-quick-start"><b>PHP-CRUD-API Quick Start</b></a>: Un fișier de scriere docker personalizabil, gata de utilizare, care include PHP-CRUD-API.
  - <a href="https://thipages.github.io/jca-filter/#"><b>PHP-CRUD-API filter generator</b></a>: O bibliotecă JavaScript care creează filtre PHP-CRUD-API din expresii.
