@@ -1662,7 +1662,9 @@ Pentru a afla mai multe, consultați aceste link-uri:
  - <a href="https://loadfocus.com/ro-ro/glossary/what-is-swagger">ce este Swagger?</a>.
      
   <hr/><br/>
-  </details> 
+  </details>
+  <details><summary><h2>Cache,Tipuri de date,Erori,Stare si personalizare-Controler</h2></summary>
+  <br/><hr/>
   <details><summary><h2>Tampon date reutilizate(Cache)</h2></summary>
   <br/><hr/>
 Există <b>4 motoare de cache</b> care pot fi configurate de parametrul de configurare <b>„cacheType”</b>:
@@ -2047,6 +2049,8 @@ Iată un exemplu de <b>clasă de controler personalizat</b>:
 Configurația <b>customControllers</b> acceptă o listă separată prin virgulă de clase de controlere personalizate.  
   <hr/><br/>
   </details>
+    <hr/><br/>
+  </details> <!--end Cache,Tyeps,Errors,Status,...customControllers-->
   <details><summary><h2>Teste</h2></summary>
   <br/><hr/>
 A fost testat în principal pe <b>Ubuntu</b> și am următoarele <b>setări de testare</b>:
