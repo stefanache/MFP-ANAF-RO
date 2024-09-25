@@ -2092,7 +2092,7 @@ Se va încerca să se acopere cele mai relevante setări din folderul <b>„dock
     php build.php
     php test.php
 
-Aceasta rulează testele funcționale din directorul <b>„tests”</b>.<br/>
+Aceasta rulează testele funcționale din directorul <a href="https://github.com/stefanache/MFP-ANAF-RO/tree/main/php_scripts/CRUD_API/tests"><b>„tests”</b></a>.<br/>
 Utilizează dump-urile bazei de date (<b>fixtures</b>) și configurația bazei de date (<b>config</b>) din <br/>
 subdirectoarele corespunzătoare.  
   <hr/><br/>
