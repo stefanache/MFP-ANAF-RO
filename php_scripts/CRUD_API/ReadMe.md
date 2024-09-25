@@ -30,6 +30,8 @@ Chiar daca uneori vom vorbi de <b>optiuni</b>(unde <i>obligativitatea</i> si <i>
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- <a href="https://www.sqlite.org/releaselog/3_16_0.html"><b>SQLite 3.16</b></a> sau o versiune ulterioară (funcțiile spațiale <i>NU</i> sunt acceptate)<br/>   
   <hr/><br/>
   </details>
+    <details><summary><h2>Instalare,Cerinte,Configurare,Limitari,Caracteristici,Proiecte&PortariConexe precum si Compilare+Dezvoltare+Actualiz.Dependente</h2></summary>
+  <br/><hr/>
   <details><summary><h2>Instalare</h2></summary>
   <br/><hr/>
    Descarcati(download-ati) fisierul "<b><a href="https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/api.php">api.php</a></b>" din ultima versiune: <b>https://github.com/mevdschee/php-crud-api/releases/latest</b> ,<br/>
@@ -240,10 +242,11 @@ Puteți <b>actualiza</b> toate dependențele acestui proiect, folosind <a href="
 
 Acest script va instala și rula [Composer](https://getcomposer.org/) pentru a actualiza/rezolva dependențele.   
   <hr/><br/>
-  </details>   
+  </details> <!--Actualiz.Dependente-->  
   <hr/><br/>
-  </details>
-
+  </details><!--end Compilare+Dezvoltare+Actualiz.Dependente-->
+ <hr/><br/>
+  </details><!--end Instalare,Cerinte,Configurare,Limitari,Caracteristici,Proiecte&PortariConexe precum si Compilare+Dezvoltare+Actualiz.Dependente-->
   <details><summary><h2>TreeQL, un GraphQL pragmatic</h2></summary>
   <br/><hr/>
 
