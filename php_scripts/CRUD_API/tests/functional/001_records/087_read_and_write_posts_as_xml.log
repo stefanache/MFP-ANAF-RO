@@ -1,0 +1,116 @@
+===
+GET /records/posts/1
+===
+200
+Content-Type: application/json; charset=utf-8
+Content-Length: 61
+
+{"id":1,"user_id":1,"category_id":1,"content":"blog started"}
+===
+GET /records/posts/1?format=xml
+===
+200
+Content-Type: text/xml; charset=utf-8
+Content-Length: 102
+
+<root><id>1</id><user_id>1</user_id><category_id>1</category_id><content>blog started</content></root>
+===
+GET /records/posts?size=1
+===
+200
+Content-Type: application/json; charset=utf-8
+Content-Length: 75
+
+{"records":[{"id":1,"user_id":1,"category_id":1,"content":"blog started"}]}
+===
+GET /records/posts?size=1&format=xml
+===
+200
+Content-Type: text/xml; charset=utf-8
+Content-Length: 147
+
+<root><records type="array"><item><id>1</id><user_id>1</user_id><category_id>1</category_id><content>blog started</content></item></records></root>
+===
+GET /records/posts/1?join=users&format=xml
+===
+200
+Content-Type: text/xml; charset=utf-8
+Content-Length: 231
+
+<root><id>1</id><user_id><id>1</id><username>user1</username><password>testtest2</password><api_key>123456789abc</api_key><location>POINT(30 20)</location></user_id><category_id>1</category_id><content>blog started</content></root>
+===
+GET /records/posts/1?join=users&join=comments,categories
+===
+200
+Content-Type: application/json; charset=utf-8
+Content-Length: 360
+
+{"id":1,"user_id":{"id":1,"username":"user1","password":"testtest2","api_key":"123456789abc","location":"POINT(30 20)"},"category_id":1,"content":"blog started","comments":[{"id":1,"post_id":1,"message":"great","category_id":{"id":3,"name":"comment","icon":null}},{"id":2,"post_id":1,"message":"fantastic","category_id":{"id":3,"name":"comment","icon":null}}]}
+===
+GET /records/posts/1?join=users&join=comments,categories&format=xml
+===
+200
+Content-Type: text/xml; charset=utf-8
+Content-Length: 567
+
+<root><id>1</id><user_id><id>1</id><username>user1</username><password>testtest2</password><api_key>123456789abc</api_key><location>POINT(30 20)</location></user_id><category_id>1</category_id><content>blog started</content><comments type="array"><item><id>1</id><post_id>1</post_id><message>great</message><category_id><id>3</id><name>comment</name><icon type="null"></icon></category_id></item><item><id>2</id><post_id>1</post_id><message>fantastic</message><category_id><id>3</id><name>comment</name><icon type="null"></icon></category_id></item></comments></root>
+===
+GET /records/posts?page=2,1
+===
+200
+Content-Type: application/json; charset=utf-8
+Content-Length: 222
+
+{"records":[{"id":2,"user_id":1,"category_id":2,"content":"🦀€ Grüßgott, Вiтаю, dobrý deň, hyvää päivää, გამარჯობა, Γεια σας, góðan dag, здравствуйте"}],"results":12}
+===
+GET /records/posts?page=2,1&format=xml
+===
+200
+Content-Type: text/xml; charset=utf-8
+Content-Length: 302
+
+<root><records type="array"><item><id>2</id><user_id>1</user_id><category_id>2</category_id><content>🦀€ Grüßgott, Вiтаю, dobrý deň, hyvää päivää, გამარჯობა, Γεια σας, góðan dag, здравствуйте</content></item></records><results>12</results></root>
+===
+POST /records/posts?format=xml
+Content-Type: application/xml
+
+<object><id>1</id><user_id>1</user_id><category_id>1</category_id><content>blog started</content></object>
+===
+200
+Content-Type: text/xml; charset=utf-8
+Content-Length: 72
+
+<root><code>1009</code><message>Duplicate key exception</message></root>
+===
+PUT /records/posts/1?format=xml
+Content-Type: application/xml
+
+<object><user_id>1</user_id><category_id>1</category_id><content>blog started</content></object>
+===
+200
+Content-Type: text/xml; charset=utf-8
+Content-Length: 14
+
+<root>1</root>
+===
+PUT /records/posts/1?format=xml
+Content-Type: application/xml
+
+<root><user_id>a</user_id></root>
+===
+200
+Content-Type: text/xml; charset=utf-8
+Content-Length: 137
+
+<root><code>1013</code><message>Input validation failed for 'posts'</message><details><user_id>invalid integer</user_id></details></root>
+===
+PUT /records/posts/1?format=xml
+Content-Type: application/xml
+
+<root><user_id>a</wrong_tag></root>
+===
+200
+Content-Type: text/xml; charset=utf-8
+Content-Length: 73
+
+<root><code>1008</code><message>Cannot read HTTP message</message></root>

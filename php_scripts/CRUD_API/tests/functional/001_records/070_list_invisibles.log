@@ -1,0 +1,8 @@
+===
+GET /records/invisibles
+===
+404
+Content-Type: application/json; charset=utf-8
+Content-Length: 54
+
+{"code":1001,"message":"Table 'invisibles' not found"}
