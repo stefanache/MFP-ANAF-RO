@@ -2,6 +2,7 @@
 - sa fie un **api** de preferat pt o baza de date de tip **SQL**(si care sa permita pt tabelele sale operatii de tip [**CRUD**](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete))
 - sa fie bine securizata(cu **token JWT**,...)
 - si sa permita un access de tip modern <a href="">REST</a>(de preferat ar fi [**GraphQL**](https://medium.com/swlh/setting-up-graphql-with-php-9baba3f21501))
+- sa fie un produs software [free/opensource](https://free-for.dev/#/)
 
 Am gasit un astfel de proiect, pe github, intitulat [**PHP-CRUD-API**](https://github.com/codemage66/PHP-CRUD-API?tab=readme-ov-file#php-crud-api) si va recomand sa-l [descarcati](https://github.com/codemage66/PHP-CRUD-API?tab=readme-ov-file#php-crud-api)  iar apoi sa-l testati(sub ***Windows***, pt b.d. ***MySQL***, puteti folosi cel mai recent [***XAMPP***](https://www.apachefriends.org/download.html))
 
