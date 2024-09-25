@@ -48,7 +48,7 @@ Chiar daca uneori vom vorbi de <b>optiuni</b>(unde <i>obligativitatea</i> si <i>
 
       http://localhost:8080/api.php/records/posts/1
       
-   Nu uitați să modificați configurația/continutul-json din partea de jos a fișierului(<a href="https://github.com/codemage66/PHP-CRUD-API/blob/main/api.php">api.php</a>), care se refera la managementul conexiunii la/catre sistemul de persistenta / sistemul bazei de date SQL utilizat.
+   Nu uitați să modificați <a href="https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/ReadMe.md#configurare">configurația/continutul-json</a> din partea de jos a fișierului(<a href="https://github.com/codemage66/PHP-CRUD-API/blob/main/api.php">api.php</a>), care se refera la managementul conexiunii la/catre sistemul de persistenta / sistemul bazei de date SQL utilizat.
 
    Alternativ, puteți integra acest proiect în cadrul webserver ales de dvs., consultați:
    
