@@ -48,7 +48,7 @@ Chiar daca uneori vom vorbi de <b>optiuni</b>(unde <i>obligativitatea</i> si <i>
 
       http://localhost:8080/api.php/records/posts/1
       
-   Nu uitați să modificați configurația din partea de jos a fișierului, care se refera la managementul conexiunii la/catre sistemul de persistenta/b.d. SQL.
+   Nu uitați să modificați configurația din partea de jos a fișierului, care se refera la managementul conexiunii la/catre sistemul de persistenta/<br/>sistemul utilizat al bazei de date SQL.
 
    Alternativ, puteți integra acest proiect în cadrul webserver ales de dvs., consultați:
    
