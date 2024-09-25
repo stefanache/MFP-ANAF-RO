@@ -845,7 +845,7 @@ Puteți regla comportamentul <b>middleware</b> folosind <b>parametrii de configu
 „<b>jwtAuth.issuers</b>”: emitenții care sunt permisi, gol înseamnă „toți” („”)
 „<b>jwtAuth.sessionName</b>”: numele sesiunii PHP care este începută („”)<br/>
 „<b>basicAuth.mode</b>”: Setați la „opțional” dacă doriți să permiteți accesul anonim („required”)
-„<b>basicAuth.realm</b>”: Text pentru a solicita când se afișează autentificare („Username and password are required”)
+„<b>basicAuth.realm</b>”: Text pentru a solicita când se afișează autentificare („Username and password required”)
 "<b>basicAuth.passwordFile</b>": fișierul de citit pentru combinațiile nume de utilizator/parolă (".htpasswd")
 „<b>basicAuth.sessionName</b>”: numele sesiunii PHP care este începută („”)<br/>
 "<b>reconnect.driverHandler</b>": Handler pentru a implementa preluarea driverului bazei de date ("")
@@ -861,13 +861,13 @@ Puteți regla comportamentul <b>middleware</b> folosind <b>parametrii de configu
 "<b>authorization.pathHandler</b>": Handler pentru a implementa regulile de autorizare a căii ("")
 "<b>authorization.recordHandler</b>": Handler pentru a implementa regulile de filtrare a autorizației de înregistrare ("")<br/>
 "<b>validation.handler</b>": Handler pentru a implementa reguli de validare pentru valorile de intrare ("")
-„<b>validation.types</b>”: tipuri pentru care să se permită validarea tipului, gol înseamnă „niciunul” („toate”)
-„<b>validation.tables</b>”: tabele pentru care să se permită validarea tipului, gol înseamnă „niciunul” („toate”)<br/>
+„<b>validation.types</b>”: tipuri pentru care să se permită validarea tipului, gol înseamnă „niciunul” („all”)
+„<b>validation.tables</b>”: tabele pentru care să se permită validarea tipului, gol înseamnă „niciunul” („all”)<br/>
 „<b>ipAddress.tables</b>”: tabele pentru a căuta coloane pe care să le înlocuiți cu adresa IP ("")
 „<b>ipAddress.columns</b>”: coloane de protejat și de înlocuit cu adresa IP la creare („”)<br/>
 "<b>sanitation.handler</b>": Handler pentru a implementa regulile de salubrizare pentru valorile de intrare ("")
-„<b>sanitation.types</b>”: Tipuri pentru a activa tipul de salubrizare, gol înseamnă „niciunul” („toate”)
-„<b>sanitation.tables</b>”: tabele pentru a permite tipul de salubrizare, gol înseamnă „niciunul” („toate”)<br/>
+„<b>sanitation.types</b>”: Tipuri pentru a activa tipul de salubrizare, gol înseamnă „niciunul” („all”)
+„<b>sanitation.tables</b>”: tabele pentru a permite tipul de salubrizare, gol înseamnă „niciunul” („all”)<br/>
 "<b>multiTenancy.handler</b>": Handler pentru a implementa reguli simple de închiriere multiplă ("")<br/>
 „<b>pageLimits.pages</b>”: numărul maxim de pagini pe care îl permite o operație de listă („100”)
 „<b>pageLimits.records</b>”: numărul maxim de înregistrări returnate de o operație de listă („1000”)<br/>
@@ -878,8 +878,8 @@ Puteți regla comportamentul <b>middleware</b> folosind <b>parametrii de configu
 "<b>customization.beforeHandler</b>": Handler pentru a implementa personalizarea cererii ("")
 "<b>customization.afterHandler</b>": Handler pentru a implementa personalizarea răspunsului ("")
 „<b>json.controllers</b>”: controlere pentru procesarea șirurilor JSON pentru („records,geojson”)<br/>
-„<b>json.tables</b>”: tabele pentru procesarea șirurilor JSON pentru („toate”)
-„<b>json.columns</b>”: coloane pentru procesarea șirurilor JSON pentru („toate”)<br/>
+„<b>json.tables</b>”: tabele pentru procesarea șirurilor JSON pentru („all”)
+„<b>json.columns</b>”: coloane pentru procesarea șirurilor JSON pentru („all”)<br/>
 „<b>xml.typesv</b>”: tipuri JSON care ar trebui adăugate la atributul de tip XML („null,array”)<br/></pre>
 
 Dacă nu specificați acești parametri în configurație, atunci se folosesc valorile <b>implicite</b> (cele dintre/între paranteze).
