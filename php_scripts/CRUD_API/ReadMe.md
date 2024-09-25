@@ -82,7 +82,7 @@ Sau daca vreti, intr-un sens mai larg, sau d.p.d.v conceptual, aceste cuvinte po
   <details><summary><h2>Configurare</h2></summary>
   <br/><hr/>
    In partea de jos a fișierului <a href="https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/api.php">api.php</a>
-   trebuie sa editati/modificati liniile de mai jos(si sa inlocuiti <B>xxx</B> cu datele dvs concrete, de conectare la b.d. MySQL: 
+   trebuie sa editati/modificati liniile de mai jos(si sa inlocuiti <a href="https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/php_crud_api_db.sql"><B>xxx</B></a> cu datele dvs concrete, de conectare la b.d. MySQL: 
     
       $config = new Config([
           'username' => 'xxx',
@@ -95,7 +95,7 @@ Dupa editare/modificare aceaste linii ar putea arata astfel:
       $config = new Config([
           'username' => 'root',
           'password' => '',
-          'database' => '<a href="https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/php_crud_api_db.sql">php_crud_api_db</a>',
+          'database' => 'php_crud_api_db',
       ]); 
 
 Acestea sunt toate opțiunile de configurare și valoarea lor implicită între paranteze:<br/>
