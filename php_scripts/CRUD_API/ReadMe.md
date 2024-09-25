@@ -365,6 +365,8 @@ Se va întoarce ca rezultat/iesire(<b>JSON-result</b>):
   </details>  
   <hr/><br/>
   </details>
+  <details><summary><h3>Filtrarea, Selectia-coloanelor si Sortarea</h3></summary>
+  <br/><hr/>
   <details><summary><h3>Filtrarea</h3></summary>
   <br/><hr/>
   <details><summary><h4>Filtre</h4></summary>
@@ -430,7 +432,7 @@ Atentie la simbolul <b>&</b> din cererea-REST-URL: acesta <b>nu</b> apartine fil
   </details>
   <hr/><br/>
   </details>  
-  <details><summary><h3>Selectia coloanelor</h3></summary>
+  <details><summary><h3>Selectia campurilor/coloanelor</h3></summary>
   <br/><hr/>
 În mod implicit, toate coloanele sunt <b>selectate</b>. <br/>
 Cu parametrul <b>„include”</b> puteți selecta anumite coloane.<br/>
@@ -479,7 +481,9 @@ Ieșire:
 Puteți sorta pe mai multe câmpuri/coloane utilizând mai mulți parametri de „order”. 
 Nu puteți ordona pe coloane unite(joined).  
   <hr/><br/>
-  </details> 
+  </details> <!-- end Sortarea-->
+  <hr/><br/>
+  </details> <!-- end Filtrarea,Selectia-cols si Sortarea-->  
   <details><summary><h3>Limita parametrului "size"</h3></summary>
   <br/><hr/>
 Parametrul dimensiune/<b>„size”</b> limitează numărul de înregistrări returnate. <br/>
