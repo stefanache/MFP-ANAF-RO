@@ -2051,7 +2051,9 @@ Configurația <b>customControllers</b> acceptă o listă separată prin virgulă
   </details>
     <hr/><br/>
   </details> <!--end Cache,Tyeps,Errors,Status,...customControllers-->
-  <details><summary><h2>Teste</h2></summary>
+  <details><summary><h2>Testare,Rulare,Configurare-webserver-Nginx si Containerizare/Dokerizare</h2></summary>
+  <br/><hr/>  
+   <details><summary><h2>Teste</h2></summary>
   <br/><hr/>
 A fost testat în principal pe <b>Ubuntu</b> și am următoarele <b>setări de testare</b>:
 
@@ -2283,7 +2285,9 @@ Testati script-ul (running in the container) prin deschidere urmatorului URL:
   <hr/><br/>
   </details>
     <hr/><br/>
-  </details>
+  </details> <!--end Dockerizare-->
+     <hr/><br/>
+  </details> <!--end Testare,Rulare,configNginx,Dockerizare-->
   
   <details><summary><h3>Istoricul stelutelor primite(star hystory)</h3></summary>
   <br/><hr/>
