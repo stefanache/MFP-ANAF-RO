@@ -719,7 +719,10 @@ Rețineți că operațiunea batch pentru <b>DELETE</b> urmează același model c
   <hr/><br/>
   </details>
   <details><summary><h3>Suportul datelor spatiale</h3></summary>
-
+Acest CRUD_API(api.php) poate lucra ata in regim doar-server cat si in regim client-server.<br/>
+In ambele ipostaze poate oferi suport spatial pt ca api.php ofera suport spatial.<br/>
+Astfel, spre exemplu, ne putem imagina ca un client-leaflet si-ar dori sa afiseze utilizatorii dintr-un dreptunghi de incadrare(bbox) al unei harti geografice<br/>
+    
 Pentru <b>suport spațial</b> există un set suplimentar de <b>filtre</b> care pot fi aplicate pe <b>coloanele/campurile de geometrie</b> și care încep cu un/litera „<b>s</b>”:
 
  - „<b>sco</b>”: spațiul conține (geometria conține o alta)
