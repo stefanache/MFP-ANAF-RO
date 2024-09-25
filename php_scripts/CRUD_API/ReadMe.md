@@ -767,7 +767,7 @@ Deoarece aceste două mapări/asocieri/echivalări(separate de "<b>,</b>") se <b
   <br/><hr/>
   <details><summary><h3>Intermediari/Mijlocitori/Brokeri/Proxy-uri pt/de suport(Middlewares)</h3></summary>
   <br/><hr/><pre>    
-Puteți activa următorul <b>middleware</b> folosind parametrul de configurare „<b>middlewares</b>”:<br/>
+Puteți activa următorul <b>middleware</b> folosind parametrul de configurare <a href="https://github.com/codemage66/PHP-CRUD-API?tab=readme-ov-file#middleware">„<b>middlewares</b>”</a>:<br/>
 
  - „<b>firewall</b>”: Limitați accesul la anumite adrese <a href="https://en.wikipedia.org/wiki/IP_address">IP</a>
  - „<b>sslRedirect</b>”: Forțați conexiunea prin <a href="https://ro.wikipedia.org/wiki/HTTPS">HTTPS</a> în loc de <a href="https://en.wikipedia.org/wiki/HTTP">HTTP</a>
@@ -794,7 +794,7 @@ Puteți activa următorul <b>middleware</b> folosind parametrul de configurare �
  - „<b>xml</b>”: traduce toate intrările și ieșirile din <a href="https://en.wikipedia.org/wiki/JSON">JSON</a> în <a href="https://en.wikipedia.org/wiki/XML">XML</a></pre>
   <details><summary><h4>Parametrii de configure pt Middlewares</h4></summary>
   <br/><hr/><pre> 
-Parametrul de configurare „<b>middlewares</b>” este o listă(separată prin virgulă) de/cu <b>middleware</b>-uri activate.<br/>
+Parametrul de configurare <a href="https://github.com/codemage66/PHP-CRUD-API?tab=readme-ov-file#middleware:>„<b>middlewares</b>”</a> este o listă(separată prin virgulă) de/cu <b>middleware</b>-uri activate.<br/>
 Puteți regla comportamentul <b>middleware</b> folosind <b>parametrii de configurare</b> specifici <b>middleware</b>-ului aferent:<br/>
 
 „<b>firewall.reverseProxy</b>”: Setați la „adevărat” când este utilizat un proxy invers (“”)
