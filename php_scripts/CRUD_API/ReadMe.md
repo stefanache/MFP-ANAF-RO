@@ -127,7 +127,7 @@ PHP_CRUD_API_USERNAME=php-crud-api
 PHP_CRUD_API_PASSWORD=php-crud-api
 PHP_CRUD_API_DEBUG=1</pre><br/>
 
-Variabilele de mediu(setate in shell/cmd.exe sau in .bat: set PHP_CRUD_API_ADDRESS=127.0.0.1) au prioritate față de <br/>configurarile din cadrul sursei-PHP(<a href="https://github.com/codemage66/PHP-CRUD-API/blob/main/php_scripts/CRUD_API/api.php">api.php</a>).
+Variabilele de mediu(setate in shell/cmd.exe sau in <b>.bat</b>: <b>set PHP_CRUD_API_ADDRESS=127.0.0.1</b>) au prioritate față de <br/>configurarile din cadrul sursei-PHP(<a href="https://github.com/codemage66/PHP-CRUD-API/blob/main/php_scripts/CRUD_API/api.php">api.php</a>).
     
  <hr/><br/>
   </details>
