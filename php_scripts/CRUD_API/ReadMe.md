@@ -2066,7 +2066,9 @@ Configurația <b>customControllers</b> acceptă o listă separată prin virgulă
     <hr/><br/>
   </details> <!--end Cache,Tyeps,Errors,Status,...customControllers-->
   <details><summary><h2>Testare,Rulare,Configurare-Nginx si Containerizare/Dokerizare</h2></summary>
-  <br/><hr/>  
+  <br/><hr/> 
+   <details><summary><h2>Teste si testare</h2></summary>
+  <br/><hr/>    
    <details><summary><h2>Teste</h2></summary>
   <br/><hr/>
 Au fost <a href="https://github.com/stefanache/MFP-ANAF-RO/tree/main/php_scripts/CRUD_API/test.php">testate</a> în principal implementari containerizate/dockerizate bazate pe/sub <b>Ubuntu</b> și au fost utilizate următoarele <b>setUp-uri de testare</b>:
@@ -2084,7 +2086,7 @@ Acest lucru nu acoperă (încă) toate mediile, așa că vă rugăm să anunța�
 Se va încerca să se acopere cele mai relevante setări din folderul <b>„docker”</b> al proiectului.   
   <hr/><br/>
   </details>
-  <details><summary><h2>Functionare/Rulare/Executie(running)</h2></summary>
+  <details><summary><h2>Testare Functionare/Rulare/Executie(running)</h2></summary>
   <br/><hr/>
  Pentru a rula <b>testele funcționale/de functionalitate</b> la nivel local(pe computer-ul dvs),<br/>
  puteți rula următoarele <b>comenzi</b>:
@@ -2096,7 +2098,9 @@ Se va încerca să se acopere cele mai relevante setări din folderul <b>„dock
 Utilizează dump-urile bazei de date (<b>fixtures</b>) și configurația bazei de date (<b>config</b>) din <br/>
 subdirectoarele corespunzătoare.  
   <hr/><br/>
-  </details>
+  </details> <!--end rulare teste-->
+  <hr/><br/>
+  </details> <!--end teste si testare--> 
   <details><summary><h2>Exemplu de configurare webserver Nginx</h2></summary>
   <br/><hr/>
     
