@@ -95,7 +95,7 @@ Dupa editare/modificare aceaste linii ar putea arata astfel:
       $config = new Config([
           'username' => 'root',
           'password' => '',
-          'database' => 'php_crud_api_db',
+          'database' => '<a href="https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/php_crud_api_db.sql">php_crud_api_db</a>',
       ]); 
 
 Acestea sunt toate opțiunile de configurare și valoarea lor implicită între paranteze:<br/>
