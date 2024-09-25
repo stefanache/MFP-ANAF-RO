@@ -1490,7 +1490,7 @@ Vă permite să specificați un parametru de <b>„search”</b> folosind:
 
     GET /records/posts?search=Hello
 
-Va returna toate înregistrările de la <b>„posts”</b> care conțin „Hello world” într-unul dintre câmpurile lor de text (tastate):
+Va returna toate înregistrările/randurile(dintr-o tabela a DB-ului) de la <b>„posts”</b> care conțin „Hello world” într-unul dintre câmpurile/coloanele lor de text (tastate):
 
     {
         "records":[
@@ -1503,7 +1503,7 @@ Va returna toate înregistrările de la <b>„posts”</b> care conțin „Hello
         ]
     }
 
-Exemplul caută în câmpurile <b>„title”</b> sau <b>„content”</b> subșirul „Hello world”.   
+Exemplul caută în câmpurile/coloanele <b>„title”</b> sau <b>„content”</b> subșirul „Hello world”.   
   <hr/><br/>
   </details> <!--h3-->
   <details><summary><h3>Personalizarea manipulatorilor(customization handlers)</h3></summary>
