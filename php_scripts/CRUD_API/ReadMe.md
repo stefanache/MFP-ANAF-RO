@@ -483,7 +483,9 @@ Nu puteți ordona pe coloane unite(joined).
   <hr/><br/>
   </details> <!-- end Sortarea-->
   <hr/><br/>
-  </details> <!-- end Filtrarea,Selectia-cols si Sortarea-->  
+  </details> <!-- end Filtrarea,Selectia-cols si Sortarea--> 
+  <details><summary><h3>Parametrii "Size" & "Page"</h3></summary>
+  <br/><hr/>
   <details><summary><h3>Limita parametrului "size"</h3></summary>
   <br/><hr/>
 Parametrul dimensiune/<b>„size”</b> limitează numărul de înregistrări returnate. <br/>
@@ -536,7 +538,9 @@ Elementul de iesire <b>„results”</b>/rezutate deține/retine/stocheaza/speci
 Deoarece paginile care nu sunt ordonate nu pot fi paginate, paginile vor fi ordonate implicit după cheia primară(in acest caz, cheia primara a tabelei <b>categories</b> este coloana/campul <b>id</b> care identifica in mod unic fiecare rand/inregistrare).
 
   <hr/><br/>
-  </details> 
+  </details> <!-- end Page-->
+    <hr/><br/>
+  </details> <!-- end Size and Page-->
   <details><summary><h3>Reunirile/Alaturarile/Imbinarile de tabele(Joins)</h3></summary>
   <br/><hr/>
 Să presupunem că aveți un tabel de postări(<b>posts</b>) care conțin comentarii (efectuate de catre utilizatori) iar postările pot avea etichete.
