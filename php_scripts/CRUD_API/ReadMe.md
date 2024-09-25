@@ -2119,8 +2119,10 @@ subdirectoarele corespunzătoare.
       
   <hr/><br/>
   </details>
-  <details><summary><h2>Dockerizare</h2></summary>
+  <details><summary><h2>Containerizare-Docker</h2></summary>
   <br/><hr/>
+    Pentru a afla mai multe depre tehnologia de containerizare Docker(si nu numai!) puteti citi acest <a href="https://www.telacad.ro/importanta-tehnologiilor-docker-si-kubernetes/">articol</a>.<br/>
+    
   <details><summary><h3>Teste Docker</h3></summary>
   <br/><hr/>
 Instalați docker folosind următoarele <b>comenzi</b>, apoi deconectați-vă și conectați-vă pentru ca modificările să aibă efect:
