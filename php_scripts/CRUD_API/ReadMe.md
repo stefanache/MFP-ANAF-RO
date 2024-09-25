@@ -2055,7 +2055,7 @@ Configurația <b>customControllers</b> acceptă o listă separată prin virgulă
   </details>
     <hr/><br/>
   </details> <!--end Cache,Tyeps,Errors,Status,...customControllers-->
-  <details><summary><h2>Testare,Rulare,Configurare-webserver-Nginx si Containerizare/Dokerizare</h2></summary>
+  <details><summary><h2>Testare,Rulare,Configurare-Nginx si Containerizare/Dokerizare</h2></summary>
   <br/><hr/>  
    <details><summary><h2>Teste</h2></summary>
   <br/><hr/>
