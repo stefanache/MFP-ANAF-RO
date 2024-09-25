@@ -1,7 +1,7 @@
   Am cautat un [**proiect**](https://github.com/codemage66/PHP-CRUD-API?tab=readme-ov-file#php-crud-api) care sa aiba ca facilitati cateva lucruri:
 - sa fie un **api** de preferat pt o baza de date de tip **SQL**(si care sa permita pt tabelele sale operatii de tip [**CRUD**](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete))
 - sa fie bine securizata(cu <a href="https://reintech.io/blog/implementing-jwt-authentication-php-applications">**token JWT**</a>,...)
-- si sa permita un access de tip modern <a href="">REST</a>(de preferat ar fi [**GraphQL**](https://medium.com/swlh/setting-up-graphql-with-php-9baba3f21501))
+- si sa permita un access de tip modern <a href="">REST</a>(de preferat ar fi fost sa permita utilizarea limbajului de date [**GraphQL**](https://medium.com/swlh/setting-up-graphql-with-php-9baba3f21501))
 - sa fie un produs software [free/opensource](https://free-for.dev/#/)
 
 Am [gasit](https://graphql.org/community/tools-and-libraries/) un astfel de [proiect-REST](https://github.com/dbohdan/automatic-api)(chiar daca nu este GraphQL), pe github, intitulat [**PHP-CRUD-API**](https://github.com/codemage66/PHP-CRUD-API?tab=readme-ov-file#php-crud-api) si va recomand sa-l [descarcati](https://github.com/codemage66/PHP-CRUD-API?tab=readme-ov-file#php-crud-api)  iar apoi sa-l testati(sub ***Windows***, pt b.d. ***MySQL***, probabil ati putea folosi cel mai recent [***XAMPP***](https://www.apachefriends.org/download.html))
