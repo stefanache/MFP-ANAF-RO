@@ -21,6 +21,9 @@ Chiar daca uneori vom vorbi de <b>optiuni</b>(unde <i>obligativitatea</i> si <i>
   iar in final sa beneficiem de acel set complet de functii CRUD-API accesibile via <a href="https://www.webslesson.info/2018/05/how-to-make-simple-crud-rest-api-in-php-with-mysql.html">REST</a>.<br/><br/>
   
   <i>NotaBene</i>(NB): Acest proiect-php este implementarea de referinta a unui alt proiect github-php, si anume,  <a href="https://treeql.org/"><b>TreeQL</b></a>
+
+<details><summary><h2>Cerinte,Instalare,Configurare,Limitari,Caracteristici,Proiecte&PortariConexe precum si Compilare+Dezvoltare+Actualiz.Dependente</h2></summary>
+  <br/><hr/>
   <details><summary><h2>Cerinte</h2></summary>
   <br/><hr/>
      - <b>PHP 7.2</b> sau o versiune ulterioară(eu am testat pe PHP 8.3.7) cu drivere <a href="https://medium.com/@pyk_ouo/php-pdo-basic-database-crud-93dced2bc3d"><i>PDO</i></a> activate(sub <b>Windows</b>, cum am si eu, in <b>php.ini</b> trebuie sa aveti ceva de genul <b>extension=pdo_mysql</b> ... <b>extension=php_pdo_mysql.dll</b>  de/necomentat) pentru unul dintre aceste sisteme de baze de date(b.d.):<br/>
@@ -30,8 +33,6 @@ Chiar daca uneori vom vorbi de <b>optiuni</b>(unde <i>obligativitatea</i> si <i>
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- <a href="https://www.sqlite.org/releaselog/3_16_0.html"><b>SQLite 3.16</b></a> sau o versiune ulterioară (funcțiile spațiale <i>NU</i> sunt acceptate)<br/>   
   <hr/><br/>
   </details>
-    <details><summary><h2>Instalare,Cerinte,Configurare,Limitari,Caracteristici,Proiecte&PortariConexe precum si Compilare+Dezvoltare+Actualiz.Dependente</h2></summary>
-  <br/><hr/>
   <details><summary><h2>Instalare</h2></summary>
   <br/><hr/>
    Descarcati(download-ati) fisierul "<b><a href="https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/api.php">api.php</a></b>" din ultima versiune: <b>https://github.com/mevdschee/php-crud-api/releases/latest</b> ,<br/>
