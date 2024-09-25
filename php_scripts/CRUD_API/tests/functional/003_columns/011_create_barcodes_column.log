@@ -1,0 +1,27 @@
+skip-for-sqlite: table (columns) cannot be altered online
+===
+POST /columns/barcodes
+
+{"name":"alternative_product_id","type":"integer","nullable":true,"fk":"products"}
+===
+200
+Content-Type: application/json; charset=utf-8
+Content-Length: 4
+
+true
+===
+GET /columns/barcodes/alternative_product_id
+===
+200
+Content-Type: application/json; charset=utf-8
+Content-Length: 82
+
+{"name":"alternative_product_id","type":"integer","nullable":true,"fk":"products"}
+===
+DELETE /columns/barcodes/alternative_product_id
+===
+200
+Content-Type: application/json; charset=utf-8
+Content-Length: 4
+
+true

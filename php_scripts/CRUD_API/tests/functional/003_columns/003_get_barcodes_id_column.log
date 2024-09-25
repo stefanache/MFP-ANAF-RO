@@ -1,0 +1,8 @@
+===
+GET /columns/barcodes/id
+===
+200
+Content-Type: application/json; charset=utf-8
+Content-Length: 40
+
+{"name":"id","type":"integer","pk":true}
