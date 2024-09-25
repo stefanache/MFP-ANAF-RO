@@ -250,7 +250,8 @@ Acest script va instala și rula [Composer](https://getcomposer.org/) pentru a a
   </details><!--end Instalare,Cerinte,Configurare,Limitari,Caracteristici,Proiecte&PortariConexe precum si Compilare+Dezvoltare+Actualiz.Dependente-->
   <details><summary><h2>TreeQL, un GraphQL pragmatic</h2></summary>
   <br/><hr/>
-
+   <a href="https://github.com/mevdschee/php-crud-api">PHP-CRUD-API</a> este implementarea de referinta a/pt. <a href="https://treeql.org/">TreeQL</a>.<br/>
+    
 [TreeQL](https://treeql.org/) vă permite să creați un „arbore”/o arborescenta de obiecte JSON pe baza structurii bazei de date SQL (relații) și a interogării dvs.
 
 Se bazează vag/oarecum pe standardul ***REST*** și, de asemenea, este inspirat de ***json:api***.
