@@ -15,7 +15,7 @@ Chiar daca uneori vom vorbi de <b>optiuni</b>(unde <i>obligativitatea</i> si <i>
 <details><summary><h1>PHP-CRUD-API - ReadMe.md</h1></summary>
 <br/><hr/>
   Acest proiect poate fi lansat accesand un singur script(<b><a href="https://github.com/codemage66/PHP-CRUD-API/blob/main/api.php">api.php</a></b>).
-  Acest principal-fisier, adauga un set de functii CRUD-API [REST](https://www.triguntech.com/blogdetails.php?name=Create-REST-API-using-PHP-and-MYSQL) la tabelele unei b.d. <b>SQL</b>(MySQL/MariaDB,PostgreSQL,SQL-Server 
+  Acest principal-fisier, adauga un set de functii CRUD-API <a href="https://www.triguntech.com/blogdetails.php?name=Create-REST-API-using-PHP-and-MYSQL">REST</a> la tabelele unei b.d. <b>SQL</b>(MySQL/MariaDB,PostgreSQL,SQL-Server 
   sua chiar SQLite).
   Desigur, pt a fi rulat, trebuie mai intai sa fie incarcat pe webserver-ul nostru, ca mai apoi sa asiguram conectarea la b.d. SQL, 
   iar in final sa beneficiem de acel set complet de functii CRUD-API accesibile via REST.<br/>
