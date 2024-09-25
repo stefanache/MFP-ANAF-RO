@@ -2059,7 +2059,7 @@ Configurația <b>customControllers</b> acceptă o listă separată prin virgulă
   <br/><hr/>  
    <details><summary><h2>Teste</h2></summary>
   <br/><hr/>
-A fost testat în principal pe <b>Ubuntu</b> și am următoarele <b>setări de testare</b>:
+A fost testat în principal implementari containerizate/dockerizate bazate pe/sub <b>Ubuntu</b> și au fost utilizate următoarele <b>setări de testare</b>:
 
  - (Docker) Debian 10 cu PHP 7.3, MariaDB 10.3, PostgreSQL 11.4 (PostGIS 2.5) și SQLite 3.27
  - (Docker) Debian 11 cu PHP 7.4, MariaDB 10.5, PostgreSQL 13.4 (PostGIS 3.1) și SQLite 3.34
@@ -2070,8 +2070,8 @@ A fost testat în principal pe <b>Ubuntu</b> și am următoarele <b>setări de t
  - (Docker) Ubuntu 20.04 cu PHP 7.4, MySQL 8.0, PostgreSQL 12.15 (PostGIS 3.0) și SQLite 3.31 și SQL Server 2019
  - (Docker) Ubuntu 22.04 cu PHP 8.1, MySQL 8.0, PostgreSQL 14.2 (PostGIS 3.2) și SQLite 3.37
 
-Acest lucru nu acoperă (încă) toate mediile, așa că vă rugăm să mă anunțați dacă testele eșuează și să raportați mediul dumneavoastră.<br/>
-Voi încerca să acopăr cele mai relevante setări din folderul <b>„docker”</b> al proiectului.   
+Acest lucru nu acoperă (încă) toate mediile, așa că vă rugăm să anunțați dacă testele eșuează și să raportați mediul dumneavoastră.<br/>
+Se va încerca să se acopere cele mai relevante setări din folderul <b>„docker”</b> al proiectului.   
   <hr/><br/>
   </details>
   <details><summary><h2>Functionare/Rulare/Executie(running)</h2></summary>
