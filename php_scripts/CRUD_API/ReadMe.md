@@ -50,7 +50,7 @@ Chiar daca uneori vom vorbi de <b>optiuni</b>(unde <i>obligativitatea</i> si <i>
       
    Nu uitați să modificați <a href="https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/ReadMe.md#configurare">configurația/continutul-json</a> din partea de jos a fișierului(<a href="https://github.com/codemage66/PHP-CRUD-API/blob/main/api.php">api.php</a>), care se refera la managementul conexiunii la/catre sistemul de persistenta / sistemul bazei de date SQL utilizat.
 
-   Alternativ, puteți integra acest proiect în cadrul webserver-ului ales de dvs., impreuna(si din nou la alegere) cu unul dintre cadrele de dezvoltare de mai jos:
+   Alternativ, puteți integra acest proiect în cadrul webserver-ului ales de dvs., impreuna(si din nou la alegere: Laravel,Symfony sau Slim) cu unul dintre cadrele de dezvoltare de mai jos.Pentru aceasta integrare de "framework" consultati tutorialele de mai jos:
    
    - [API-ul REST automat pentru Laravel](https://tqdev.com/2019-automatic-rest-api-laravel)
    - [API-ul REST automat pentru Symfony 4](https://tqdev.com/2019-automatic-rest-api-symfony)
