@@ -22,7 +22,7 @@ Chiar daca uneori vom vorbi de <b>optiuni</b>(unde <i>obligativitatea</i> si <i>
   
   <i>NotaBene</i>(NB): Acest proiect-php este implementarea de referinta a unui alt proiect github-php, si anume,  <a href="https://treeql.org/"><b>TreeQL</b></a>
 
-<details><summary><h2><small>Cerinte, Instalare, Configurare, Limite, Caracteristici, Proiecte&PortariConexe si Compilare + Dezvoltare + Actualizare-Dependente</small></h2></summary>
+<details><summary><h2><small>Cerinte, Instalare, Configurare, Limite, Caracteristici, Proiecte&PortariConexe si ...<br/>...Compilare + Dezvoltare + Actualizare-Dependente</small></h2></summary>
   <br/><hr/>
   <details><summary><h2>Cerinte</h2></summary>
   <br/><hr/>
