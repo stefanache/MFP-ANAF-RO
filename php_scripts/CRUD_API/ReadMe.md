@@ -2080,7 +2080,7 @@ Au fost <a href="https://github.com/stefanache/MFP-ANAF-RO/tree/main/php_scripts
  - (Docker) Ubuntu 20.04 cu PHP 7.4, MySQL 8.0, PostgreSQL 12.15 (PostGIS 3.0) și SQLite 3.31 și SQL Server 2019
  - (Docker) Ubuntu 22.04 cu PHP 8.1, MySQL 8.0, PostgreSQL 14.2 (PostGIS 3.2) și SQLite 3.37
 
-Acest lucru nu acoperă (încă) toate mediile, așa că vă rugăm să anunțați dacă testele eșuează și să raportați mediul dumneavoastră.<br/>
+Acest lucru nu acoperă (încă) toate mediile, așa că vă rugăm să anunțați dacă <a href="https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/test.php">testele</a> eșuează și să raportați mediul dumneavoastră.<br/>
 Se va încerca să se acopere cele mai relevante setări din folderul <b>„docker”</b> al proiectului.   
   <hr/><br/>
   </details>
