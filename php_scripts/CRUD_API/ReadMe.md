@@ -720,7 +720,7 @@ Rețineți că operațiunea batch pentru <b>DELETE</b> urmează același model c
   </details>
   <details><summary><h3>Suportul datelor spatiale</h3></summary>
 Acest CRUD_API(api.php) poate lucra ata in regim doar-server cat si in regim client-server.<br/>
-In ambele ipostaze poate oferi suport spatial pt ca api.php ofera suport spatial.<br/>
+In ambele ipostaze(client sau server/backend) se poate oferi <a herf="https://gis.stackexchange.com/questions/293004/spatial-functions-with-mysql-xampp-and-wordpress?newreg=ad5e6533d1274d4bad0c1c5e4b47f83a">suport spatial</a> pt ca miezul <b>api.php</b> ofera suport spatial.<br/>
 Astfel, spre <a href="https://github.com/codemage66/PHP-CRUD-API/tree/main/examples">exemplu</a>, ne putem imagina ca un <a href="https://github.com/codemage66/PHP-CRUD-API/tree/main/examples/clients/leaflet">Client(leaflet-JS)</a> si-ar dori sa afiseze utilizatorii dintr-un dreptunghi de incadrare(bbox) curent al unei portiuni afisate de harta geografic(tile), desigur ca si strat(layer) suprapus peste/alaturi de alte straturi de informatii GIS, apeland la acest suport de date spatiale oferit ca/in backend de catre CRUD-API(api.php). Si exemplele de astfel de clienti pot continua. Asadar sa ne focusam/concentram pe suportul spatial oferit de catre acest backend(api.php)<br/>
     
 Pentru <b>suport spațial</b> există un set suplimentar de <b>filtre</b> care pot fi aplicate pe <b>coloanele/campurile de geometrie</b> și care încep cu un/litera „<b>s</b>”:
