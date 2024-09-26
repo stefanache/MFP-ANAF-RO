@@ -1123,7 +1123,7 @@ Acest exemplu trimite urmatoarele <a href="https://en.wikipedia.org/wiki/JSON_We
   <details><summary><h5>Configurarea si testarea autentificarii-JWT cu/prin Auth0</h5></summary>
   <br/><hr/>
 Mai întâi trebuie să <b>creați un cont</b> pe web-site-ul <a href="https://auth0.com/auth/login">Auth0</a>.<br/>
-In acest caz, intermediarul nu mai este un server local/aflat la distanta ci un produs-software-web(un api,un server,un cloud,...), daca vreti, mai pe scurt, un website, aflat la distanta, al unei terte parti(in acest caz oferit/mentinut/administrat/gestionat/... de catre cei de la Okta).<br/>
+In acest caz, intermediarul/middleware-ul(intre aplicatia/client sau operator si backend-ul nostru <b>api.php</b>) nu mai este un server local/aflat la distanta ci un produs-software-web(un api,un server,un cloud,...), daca vreti, mai pe scurt, un website, aflat la distanta, al unei terte parti(in acest caz oferit/mentinut/administrat/gestionat/... de catre cei de la Okta).<br/>
 Odată autentificat(logat in site-ul Auth0/by Okta), trebuie să <b>creați o aplicație</b> (tipul acesteia nu contează).<br/>
 Colectați din acest site <b>Domain</b> și <b>Client ID</b> și păstrați-le pentru o utilizare ulterioară.<br/>
 Apoi, <b>creați un API</b>: dați-i un nume/denumire și <b>completați</b> câmpul <b>identifier</b> cu adresa URL a punctului-final API(<b>API-endpoint URL</b>).
