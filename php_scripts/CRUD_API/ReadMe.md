@@ -26,7 +26,7 @@ Chiar daca uneori vom vorbi de <b>optiuni</b>(unde <i>obligativitatea</i> si <i>
   <br/><hr/>
   <details><summary><h2>Cerinte</h2></summary>
   <br/><hr/>
-     - <b>PHP 7.2</b> sau o versiune ulterioară(eu am testat pe PHP 8.3.7) cu drivere <a href="https://medium.com/@pyk_ouo/php-pdo-basic-database-crud-93dced2bc3d"><i>PDO</i></a> activate(sub <a href="https://www.php.net/manual/en/pdo.installation.php"><b>Windows</b></a>, cum am si eu, in <b>php.ini</b> trebuie sa aveti ceva de genul <b>extension=pdo_mysql</b> ... <b>extension=php_pdo_mysql.dll</b>  de/necomentat) pentru <b>unul</b> dintre aceste sisteme de baze de date SQL:<br/>
+     - <b>PHP 7.2</b> sau o versiune ulterioară(eu am testat pe PHP 8.3.7) cu drivere <a href="https://medium.com/@pyk_ouo/php-pdo-basic-database-crud-93dced2bc3d"><i>PDO</i></a> activate(sub <a href="https://www.php.net/manual/en/pdo.installation.php"><b>Windows</b></a>, cum am si eu, in <b>php.ini</b> trebuie sa aveti ceva de genul <b>extension=pdo_mysql</b> ... <b>extension=php_pdo_mysql.dll</b>  de/necomentat; pt Windows driver-ele XAMPP de forma  *.dll plasate ca extensie in <b>php.ini</b>, trebuie sa existe/descarcate in directorul C:|D:<b>\xampp\php\ext</b>) pentru <b>unul</b> dintre aceste sisteme de baze de date SQL:<br/>
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- <a href="https://dev.mysql.com/doc/relnotes/mysql/5.7/en/"><b>MySQL 5.7</b></a> / <a href="https://mariadb.org/mariadb-10-0-36-now-available/"><b>MariaDB 10.0</b></a> sau o versiune ulterioară pentru caracteristici/date spațiale în MySQL<br/>
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- <a href="https://www.postgresql.org/download/windows/"><b>PostgreSQL 9.5</b></a> sau o versiune ulterioară cu <a href="https://www.postgresonline.com/journal/archives/358-PostGIS-2.2.0-windows-bundle-for-PostgreSQL-9.5beta2-32-and-64-bit.html"><i>PostGIS 2.2</i></a> sau o versiune ulterioară pentru caracteristici spațiale<br/>
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- <a href="https://www.microsoft.com/en-us/sql-server/sql-server-2017"><b>SQL-Server-2017</b></a> sau o versiune ulterioară (<a href="https://www.microsoft.com/en-us/sql-server/sql-server-2019">SQL-Server-2019</a> are și suport pentru Linux)<br/>
@@ -38,9 +38,9 @@ Chiar daca uneori vom vorbi de <b>optiuni</b>(unde <i>obligativitatea</i> si <i>
    Descarcati(download-ati) fisierul "<b><a href="https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/api.php">api.php</a></b>" din ultima versiune: <b>https://github.com/mevdschee/php-crud-api/releases/latest</b> ,<br/>
    sau direct din : <b>https://raw.githubusercontent.com/mevdschee/php-crud-api/main/api.php</b>
 
-   Aceasta este o aplicație cu un/intr-un  singur fișier("<b>api.php</b>")! Încarcă [„api.php”](https://github.com/codemage66/PHP-CRUD-API/blob/main/api.php) undeva(pt XAMPP, fișierul "<b>api.php</b>" se salveaza/incarca in directorul C:\xampp\htdocs\PHP-CRUD-API\, caz in care se va apela cu o adresa din/de browser de forma/exemplu: <b>http://localhost:8080/PHP-CRUD-API/api.php/records/posts/1</b> ) și apoi bucură-te de rulare!
+   Aceasta este o aplicație cu un/intr-un  singur fișier("<b>api.php</b>")! Încarcă [„api.php”](https://github.com/codemage66/PHP-CRUD-API/blob/main/api.php) undeva(pt <a href="https://www.apachefriends.org/faq_windows.html">XAMPP</a>, fișierul "<b>api.php</b>" se salveaza/incarca in directorul C:\xampp\htdocs\PHP-CRUD-API\, caz in care se va apela cu o adresa din/de browser de forma/exemplu: <b>http://localhost:8080/PHP-CRUD-API/api.php/records/posts/1</b> ) și apoi bucură-te de rulare!
 
-   Pentru dezvoltarea locală, fara a folosi un webserver/cadru specializat(cum este XAMPP), puteți rula serverul-web/webserverul încorporat al lui PHP:
+   Pentru dezvoltarea locală, fara a folosi un webserver/cadru specializat(cum este <a href="https://www.php.net/manual/en/install.pecl.windows.php">XAMPP</a>), puteți rula serverul-web/webserverul încorporat al lui PHP:
    
       php -S localhost:8080
    
