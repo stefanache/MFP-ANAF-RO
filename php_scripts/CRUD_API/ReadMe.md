@@ -1680,7 +1680,7 @@ Pentru a afla mai multe, consultați aceste link-uri:
      
   <hr/><br/>
   </details>
-  <details><summary><h2>Cache,Tipuri de date,Erori,Stare si personalizare-Controler</h2></summary>
+  <details><summary><h2>Cache,Tipuri de date,Erori,Stare si Controler-Personalizat</h2></summary>
   <br/><hr/>
   <details><summary><h2>Tampon date reutilizate(Cache)</h2></summary>
   <br/><hr/>
