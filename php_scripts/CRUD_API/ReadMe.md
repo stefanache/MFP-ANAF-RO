@@ -108,7 +108,7 @@ Acestea sunt toate opțiunile de configurare și valoarea lor implicită între 
  - **„database”**: baza de date la care se face conectarea (nu exista valoare implicita)
  - „command”: ​​SQL suplimentar pentru a inițializa conexiunea la baza de date (implicit nici-un SQL)
  - „tables”: listă separată prin virgulă de tabele de publicat (implicit la „all”)
- - „mapping”: listă separată prin virgulă de mapări de tabel/coloană (fără harta/asociere/mapare)
+ - ***„mapping”***: listă separată prin virgulă de mapări de tabel/coloană (fără harta/asociere/mapare)
  - „geometrySRID”: <a href="https://en.wikipedia.org/wiki/Spatial_reference_system">SRID</a> asumat la conversia din <a href="https://en.wikipedia.org/wiki/Well-known_text_representation_of_geometry">WKT</a> în geometrie ( implicit 4326)
  - ***„middlewares”***: Listă de middleware de încărcat ( implicit <a href="https://en.wikipedia.org/wiki/Cross-origin_resource_sharing">CORS</a>)
  - ***„controllers”***: Listă de controlere de încărcat ( records,geojson,openapi,status)
