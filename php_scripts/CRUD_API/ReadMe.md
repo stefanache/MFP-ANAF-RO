@@ -114,7 +114,7 @@ Acestea sunt toate opțiunile de configurare și valoarea lor implicită între 
  - ***„controllers”***: Listă de controlere de încărcat ( records,geojson,openapi,status)
  - ***„customControllers”***: Lista de controlere personalizate de utilizator de încărcat (fără implicit)
  - „openApiBase”: informații despre <a href="https://en.wikipedia.org/wiki/Open_API">OpenAPI</a> ( {"info":{"title":"PHP-CRUD-API","version":"1.0.0"}})
- - *„cacheType”*: TempFile, Redis, Memcache, Memcachedsau NoCache( implicit TempFile)
+ - *„cacheType”*: TempFile, Redis, Memcache, Memcached sau NoCache( implicit TempFile)
  - *"cachePath"*: calea/adresa cache-ului (implicit în directorul temporar al sistemului)
  - *„cacheTime”*: numărul de secunde în care memoria cache este validă ( implicit 10)
  - „jsonOptions”: Opțiuni utilizate pentru codificarea JSON ( JSON_UNESCAPED_UNICODE)
