@@ -218,7 +218,7 @@ Puteți <b>instala</b> toate dependențele acestui proiect, folosind <a href="ht
 
     php install.php
 
-Folosind sursa <b>build.php</b>, puteti sa combinati continut de fisiere din directoarele <b>src</b> si <b>vendor</b> intr-un singur fisier: <b>api.php</b>.
+Folosind sursa <a href="https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/build.php">b>build.php</b></a>, puteti sa combinati continut de fisiere din directoarele <b>src</b> si <b>vendor</b> intr-un singur fisier: <b>api.php</b>.
 Asadar, puteți <b>compila</b> toate fișierele într-un singur fișier  "<a href="https://github.com/codemage66/PHP-CRUD-API/blob/main/api.php">api.php</a>", folosind <a href="https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/build.php">buid.php</a>, in comanda urmatoare:
 
     php build.php
@@ -2099,6 +2099,7 @@ Se va încerca să se acopere cele mai relevante setări din folderul <b>„dock
     php build.php
     php test.php
 
+Va reamintiti ca rularea fisierului <a href="https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/build.php">build.php</a> va compila/combina continut de fisiere necompilate din directoarele <b>src</b> si <b>vendor</b> intr-un singur fisier-rezultat(de aceasta data <a href="https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/build.php">acesta</a> fiind compilat!) si anume  <b>api.php</b>.<br/>
 <a href="https://github.com/stefanache/MFP-ANAF-RO/tree/main/php_scripts/CRUD_API/test.php">Aceasta</a> rulează testele funcționale din directorul <a href="https://github.com/stefanache/MFP-ANAF-RO/tree/main/php_scripts/CRUD_API/tests"><b>„tests”</b></a>.<br/>
 Utilizează dump-urile bazei de date (<b>fixtures</b>) și configurația bazei de date (<b>config</b>) din <br/>
 subdirectoarele corespunzătoare.  
