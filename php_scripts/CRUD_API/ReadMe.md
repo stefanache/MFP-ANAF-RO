@@ -2092,13 +2092,13 @@ Acest lucru nu acoperă (încă) toate mediile, așa că vă rugăm să anunța�
 Se va încerca să se acopere cele mai relevante setări din folderul <a href="https://github.com/codemage66/PHP-CRUD-API/tree/main/docker"><b>„docker”</b></a> al proiectului.<br/>
 
 Pentru a urmari modul in care se instaleaza docker-ul si cum sunt rulate ulterior aceste teste pentru cazurile <b>dockerizate</b> al acestui proiect(asa cum sunt cele enumerate mai sus), puteti consulta mai jos, sub-sectiunea <i><b>Teste Docker</b></i></a> din cadrul sectiunii(urmatoare de mai jos) denumite <a href="https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/ReadMe.md#containerizare-docker"><b>"Containerizare-docker"</b></a>(o sectiune special destinata dockerizarii/containerizarii acestui proiect-api).<br/>
-Trebuie stiut si faptul ca, aceste teste de functionalitate pot fi rulate si pe o imagine locala/distanta nedockeritaza. In acest caz puteti urmari sectiunea urmatoare denumita <b>Testare Functionare/Rulare/Executie(running)</b> care este valabila si pt cazul nedockerizat.
+Trebuie stiut si faptul ca, aceste teste de functionalitate pot fi rulate si pe o imagine locala(sau aflata la distanta) dar nedockeritaza. In acest caz, puteti urmari sectiunea urmatoare denumita <a href="https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/ReadMe.md#testare-functionarerulareexecutierunning"><b>Testare Functionare/Rulare/Executie(running)</b></a> care este valabila pt cazul nedockerizat(independenta fata de docker).
   <hr/><br/>
   </details>
   <details><summary><h2>Testare Functionare/Rulare/Executie(running)</h2></summary>
   <br/><hr/>
  Pentru a rula <b>testele funcționale/de functionalitate</b> la nivel local(pe computer-ul dvs; pt acest task de testare locala/on-premise, daca nu rulati 
-proiectul dintr-o imagine dockerizata, nu este necesar ca Docker-ul sa fie pre-instalat/in prealabil, deoarece testele de functionalitate nu au acesta dependenta), puteți rula următoarele <b>comenzi</b>:<br/>
+proiectul dintr-o imagine dockerizata, nu este necesar ca Docker-ul sa fie pre-instalat/in prealabil, deoarece testele de functionalitate nu au acesta dependenta), pe durata sau dupa perioada dezvoltarii/implementarii proiectului, puteți rula următoarele <b>comenzi</b>:<br/>
 
     php build.php
     php test.php
@@ -2156,9 +2156,13 @@ Instalați docker folosind următoarele <b>comenzi-linux</b>(eventual de sub win
 
     sudo apt install docker.io
     sudo usermod -aG docker ${USER}
+Pentru a rula <a href="https://github.com/codemage66/PHP-CRUD-API/tree/main/docker">testele docker</a>, rulați in ordine<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>„build_all.sh”</b> <br/>
+și apoi <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>„run_all.sh”</b><br/>
+din directorul <a href="https://github.com/codemage66/PHP-CRUD-API/tree/main/docker">docker</a>.<br/>
 
-Pentru a rula <a href="https://github.com/codemage66/PHP-CRUD-API/tree/main/docker">testele docker</a>, rulați <b>„build_all.sh”</b> și apoi <b>„run_all.sh”</b> din directorul <a href="https://github.com/codemage66/PHP-CRUD-API/tree/main/docker">docker</a>.<br/>
-Ieșirea ar trebui să fie(in functie de versiunea Linux utilizata pt sistemul gazduit/dockerizat):
+Ieșirea ar trebui să fie(in functie de versiunea de Linux utilizata ca si sistem de operare gazduit/dockerizat):
 <pre>
 ======================================================================================================
 Debian 10 (PHP 7.3)
@@ -2285,7 +2289,8 @@ root@b7ab9472e08f:/php-crud-api#
 
 După cum puteți vedea, scriptul <b>„run.sh”</b> vă oferă acces la un prompt în mediul docker ales.<br/>
 În acest mediu sunt montate fișierele locale. Acest lucru permite o depanare ușoară în diferite medii.<br/>
-Puteți introduce <b>„exit”</b> când ați terminat.   
+Puteți introduce <b>„exit”</b> când ați terminat. 
+
   <hr/><br/>
   </details>
   <details><summary><h3>Imagine Docker(HUB-Docker)</h3></summary>
