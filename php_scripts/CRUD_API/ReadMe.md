@@ -2283,7 +2283,7 @@ După cum puteți vedea, scriptul <b>„run.sh”</b> vă oferă acces la un pro
 Puteți introduce <b>„exit”</b> când ați terminat.   
   <hr/><br/>
   </details>
-  <details><summary><h3>Imagine Docker</h3></summary>
+  <details><summary><h3>Imagine Docker(HUB-Docker)</h3></summary>
   <br/><hr/>
  Există în depozitul proiectului, un fisier denumit <a href="https://github.com/codemage66/PHP-CRUD-API/blob/main/Dockerfile"><b>Dockerfile</b></a>, fisier care este folosit(de catre gestionarul <b>docker</b>) pentru a construi o <b>imagine</b> a acestui proiect-api: <a href="https://hub.docker.com/r/mevdschee/php-crud-api">https://hub.docker.com/r/mevdschee/php-crud-api</a>
 
