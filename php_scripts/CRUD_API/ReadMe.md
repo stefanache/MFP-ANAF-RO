@@ -218,7 +218,8 @@ Puteți <b>instala</b> toate dependențele acestui proiect, folosind <a href="ht
 
     php install.php
 
-Puteți <b>compila</b> toate fișierele într-un singur fișier  "<a href="https://github.com/codemage66/PHP-CRUD-API/blob/main/api.php">api.php</a>", folosind <a href="https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/build.php">buid.php</a>, in comanda urmatoare:
+Folosind sursa <b>build.php</b>, puteti sa combinati continut de fisiere din directoarele <b>src</b> si <b>vendor</b> intr-un singur fisier: <b>api.php</b>.
+Asadar, puteți <b>compila</b> toate fișierele într-un singur fișier  "<a href="https://github.com/codemage66/PHP-CRUD-API/blob/main/api.php">api.php</a>", folosind <a href="https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/build.php">buid.php</a>, in comanda urmatoare:
 
     php build.php
     
