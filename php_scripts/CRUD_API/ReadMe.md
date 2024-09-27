@@ -2092,13 +2092,14 @@ Acest lucru nu acoperă (încă) toate mediile, așa că vă rugăm să anunța�
 Se va încerca să se acopere cele mai relevante setări din folderul <a href="https://github.com/codemage66/PHP-CRUD-API/tree/main/docker"><b>„docker”</b></a> al proiectului.<br/>
 
 Pentru a urmari modul in care se instaleaza docker-ul si cum sunt rulate ulterior aceste teste pentru cazurile <b>dockerizate</b> al acestui proiect(asa cum sunt cele enumerate mai sus), puteti consulta mai jos, sub-sectiunea <i><b>Teste Docker</b></i></a> din cadrul sectiunii(urmatoare de mai jos) denumite <a href="https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/ReadMe.md#containerizare-docker"><b>"Containerizare-docker"</b></a>(o sectiune special destinata dockerizarii/containerizarii acestui proiect-api).<br/>
-Trebuie stiut si faptul ca, aceste teste de functionalitate pot fi rulate si pe o imagine locala(sau aflata la distanta) dar nedockeritaza. In acest caz, puteti urmari sectiunea urmatoare denumita <a href="https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/ReadMe.md#testare-functionarerulareexecutierunning"><b>Testare Functionare/Rulare/Executie(running)</b></a> care este valabila pt cazul nedockerizat(independenta fata de docker).
+Trebuie stiut si faptul ca, <b>testele de functionalitate</b>(independente de docker) sunt diferite de <b>testele-docker</b>(dependente de docker). <br/>
+<b>testele de functionalitate</b> pot fi rulate si pe o imagine locala(sau aflata la distanta) dar nedockeritaza(independenta de docker). In acest caz, puteti urmari sectiunea urmatoare denumita <a href="https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/ReadMe.md#testare-functionarerulareexecutierunning"><b>Testare Functionare/Rulare/Executie(running)</b></a> care este valabila pt cazul nedockerizat(independenta fata de docker).
   <hr/><br/>
   </details>
   <details><summary><h2>Testare Functionare/Rulare/Executie(running)</h2></summary>
   <br/><hr/>
  Pentru a rula <b>testele funcționale/de functionalitate</b> la nivel local(pe computer-ul dvs; pt acest task de testare locala/on-premise, daca nu rulati 
-proiectul dintr-o imagine dockerizata, nu este necesar ca Docker-ul sa fie pre-instalat/in prealabil, deoarece testele de functionalitate nu au acesta dependenta), pe durata sau dupa perioada dezvoltarii/implementarii proiectului, puteți rula următoarele <b>comenzi</b>:<br/>
+proiectul dintr-o imagine dockerizata, nu este necesar ca Docker-ul sa fie pre-instalat/in prealabil, deoarece testele de functionalitate nu au acesta dependenta de docker fiind independente de acesta), pe durata sau dupa perioada dezvoltarii/implementarii proiectului, puteți executa următoarele <b>comenzi</b>:<br/>
 
     php build.php
     php test.php
