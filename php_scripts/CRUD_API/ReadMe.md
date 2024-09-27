@@ -2152,10 +2152,11 @@ Docker-izarea necesita, ca pe masina dvs-gazda,pe sistemul dvs de operare,instal
   <details><summary><h3>Teste Docker</h3></summary>
   <br/><hr/>
 Pt cazul, in care doriti sa rulati proiectul (pe orice sistem gazda, care poate fi chiar Ubuntu-WSL) dintr-o imagine gazduita(sub un sistem de operare gazduit, din familia Linux si pt care desigur, au fost deja efectuate, cu succes, toate testele-dockerizate),manageriata cu ajutorul docker-ului, veti avea desigur nevoie, ca pe sistemul-dvs gazda, sa instalati dockerul ca gestionar al imaginilor sale izolate/protejate<br/>
-Instalați docker folosind următoarele <b>comenzi-linux</b>(eventual de sub windows 10(pro) si daca aveti deja instalat Ubuntu-WSL, dati comanda-shell/cmd.exe <b>C:Users\{Utilizator-Curent-Windows}> ubuntu </b> pt a activa consola Ubuntu-WSL iar apoi plasati comenzile de mai jos/urmatoare pt a instala docker-ul sub versiunea dvs de Ubuntu-WSL), apoi deconectați-vă și conectați-vă pentru ca modificările să aibă efect:
+Instalați <b>docker </b>-ul folosind următoarele <b>comenzi-linux</b>(eventual de sub windows 10(pro) si asta daca aveti deja instalat Ubuntu-WSL, puteti sa dati comanda-shell/cmd.exe <b>C:Users\{Utilizator-Curent-Windows}> ubuntu </b> pt a activa consola Ubuntu-WSL iar apoi sa plasati comenzile-shell de mai jos/urmatoare, pt a instala docker-ul sub versiunea dvs de Ubuntu-WSL), apoi deconectați-vă și conectați-vă pentru ca modificările să aibă efect:
 
     sudo apt install docker.io
     sudo usermod -aG docker ${USER}
+
 Pentru a rula <a href="https://github.com/codemage66/PHP-CRUD-API/tree/main/docker">testele docker</a>, rulați in ordine<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>„build_all.sh”</b> <br/>
 și apoi <br/>
