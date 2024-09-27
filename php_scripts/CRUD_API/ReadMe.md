@@ -2143,6 +2143,12 @@ Utilizează dump-urile bazei de date (<a href="https://github.com/stefanache/MFP
   <details><summary><h2>Containerizare-Docker</h2></summary>
   <br/><hr/>
     Pentru a afla mai multe depre tehnologia de containerizare Docker(si nu numai!) puteti citi acest <a href="https://www.telacad.ro/importanta-tehnologiilor-docker-si-kubernetes/">articol</a>.<br/>
+
+    Dockerizarea necesita sa aveti setat docker-ul pe sistemul dvs de operare(poate fi chiar unul din familia **Windows**) si acesta permite sa lucrati in mod protejat cu/pe <b>alt</b> sistem de operare(desigur, in acest caz poate fi unul din familia **Linux**, pentru care s-au efectuat si reusit testele de riguare, cum ar fi Debian10|11|12, RockyLinux8|9, Ubuntu 18|20|22).<br/>
+
+    Vreau sa va amintesc ca pe un sistem **Windows 10 (Pro)**(asa cum utilizez de obicei si eu) se poate seta **Ubuntu-WSL**(wsl enabled, cu una dintre versiunile de Ubuntu: 18 ori-exclusiv 20 ori-exclusiv 22) asa incat puteti folosi pe aceiasi masina-gazda atat ***Windows 10 (Pro)*** cat si ***Ubuntu*** ca si sistem-de-operare gazda.<br/>
+
+    Pentru dockerizarea acestui proiect(api.php), puteti folosi oricare dintre aceste 2/ambele sisteme de operare(pe care aveti instalat in prealabil docker-ul:docker enabled) deoarece acesta nu este dependent de sistemul de operare gazda el/docker-ul avand instalat propriul sau sistem de operare|SO(in acest caz, este de preferat sa utilizati un SO-dockerizat in care proiectul a fost deja testatat cu success, in prealabil, adica unul din familia **Linux**: Debian10|11|12, RockyLinux8|9, Ubuntu 18|20|22) sub care isi ruleaza propria imagine(care contine, in acest caz, proiectul nostru <b>api.php</b>)
     
   <details><summary><h3>Teste Docker</h3></summary>
   <br/><hr/>
