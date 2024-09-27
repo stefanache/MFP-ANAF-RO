@@ -2123,7 +2123,7 @@ Junalul .log al acestor teste sunt categorisite pe subdirectoare si pot fi consu
   </details> <!--end rulare teste-->
   <hr/><br/>
   </details> <!--end teste si testare--> 
-  <details><summary><h2>Exemplu de configurare webserver Nginx</h2></summary>
+  <details><summary><h2>Exemplu de configurare webserver Nginx(in loc de Apache)</h2></summary>
   <br/><hr/>
     
       server {
