@@ -2147,7 +2147,7 @@ Docker-izarea necesita, ca pe masina dvs-gazda,pe sistemul dvs de operare,instal
     
   <details><summary><h3>Teste Docker</h3></summary>
   <br/><hr/>
-Instalați docker folosind următoarele <b>comenzi-linux</b>, apoi deconectați-vă și conectați-vă pentru ca modificările să aibă efect:
+Instalați docker folosind următoarele <b>comenzi-linux</b>(eventual de sub windows 10(pro), daca aveti deja instalat Ubuntu-WSL, dati comanda-shell/cmd.exe <b>C:Users\{Utilizator-Curent-Windows}> ubuntu </b> pt a activa consola Ubuntu-WSL iar apoi plasati comenzile de mai jos/urmatoare), apoi deconectați-vă și conectați-vă pentru ca modificările să aibă efect:
 
     sudo apt install docker.io
     sudo usermod -aG docker ${USER}
