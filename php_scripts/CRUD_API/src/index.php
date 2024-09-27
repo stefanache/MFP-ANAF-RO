@@ -13,9 +13,9 @@ $config = new Config([
     // 'driver' => 'mysql',
     // 'address' => 'localhost',
     // 'port' => '3306',
-    'username' => 'php-crud-api',
-    'password' => 'php-crud-api',
-    'database' => 'php-crud-api',
+    'username' => 'root',
+    'password' => '',
+    'database' => 'php_crud_api.db',
     // 'debug' => false
 ]);
 $request = RequestFactory::fromGlobals();
