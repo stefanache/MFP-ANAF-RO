@@ -2077,7 +2077,7 @@ Configurația <b>customControllers</b> acceptă o listă separată prin virgulă
   <br/><hr/>    
    <details><summary><h2>Teste</h2></summary>
   <br/><hr/>
-Au fost <a href="https://github.com/stefanache/MFP-ANAF-RO/tree/main/php_scripts/CRUD_API/test.php">testate</a> în principal implementari containerizate/dockerizate bazate pe/sub <b>Ubuntu</b> și au fost utilizate următoarele <b>setUp-uri de testare</b>:
+Au fost <a href="https://github.com/stefanache/MFP-ANAF-RO/tree/main/php_scripts/CRUD_API/test.php">testate</a> în principal implementari containerizate/dockerizate bazate pe/sub <b>Ubuntu</b> și au fost utilizate următoarele <b>setUp</b>-uri pt cateva <b></b>medii-de-testare</b>:
 
  - (Docker) Debian 10 cu PHP 7.3, MariaDB 10.3, PostgreSQL 11.4 (PostGIS 2.5) și SQLite 3.27
  - (Docker) Debian 11 cu PHP 7.4, MariaDB 10.5, PostgreSQL 13.4 (PostGIS 3.1) și SQLite 3.34
@@ -2089,7 +2089,7 @@ Au fost <a href="https://github.com/stefanache/MFP-ANAF-RO/tree/main/php_scripts
  - (Docker) Ubuntu 22.04 cu PHP 8.1, MySQL 8.0, PostgreSQL 14.2 (PostGIS 3.2) și SQLite 3.37
 
 Acest lucru nu acoperă (încă) toate mediile, așa că vă rugăm să anunțați dacă <a href="https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/tests">testele</a> eșuează și să raportați mediul dumneavoastră.<br/>
-Se va încerca să se acopere cele mai relevante setări din folderul <b>„docker”</b> al proiectului.   
+Se va încerca să se acopere cele mai relevante setări din folderul <a href="https://github.com/codemage66/PHP-CRUD-API/tree/main/docker"><b>„docker”</b></a> al proiectului.   
   <hr/><br/>
   </details>
   <details><summary><h2>Testare Functionare/Rulare/Executie(running)</h2></summary>
