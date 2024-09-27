@@ -2308,9 +2308,9 @@ Puteți introduce <b>„exit”</b> când ați terminat.
   </details>
   <details><summary><h3>Imagine Docker(HUB-Docker)</h3></summary>
   <br/><hr/>
- Există în depozitul proiectului, un fisier denumit <a href="https://github.com/codemage66/PHP-CRUD-API/blob/main/Dockerfile"><b>Dockerfile</b></a>, fisier care este folosit(de catre gestionarul <b>docker</b>) pentru a <a href="https://github.com/codemage66/PHP-CRUD-API/blob/main/docker/build_all.sh">construi</a> o <b>imagine</b> a acestui proiect-api: <a href="https://hub.docker.com/r/mevdschee/php-crud-api">https://hub.docker.com/r/mevdschee/php-crud-api</a>
+ Există în depozitul proiectului, un fisier denumit <a href="https://github.com/codemage66/PHP-CRUD-API/blob/main/Dockerfile"><b>Dockerfile</b></a>, fisier care paote fi folosit(de catre gestionarul <b>docker</b>) pentru a <a href="https://github.com/codemage66/PHP-CRUD-API/blob/main/docker/build_all.sh">construi</a>  <b>imaginea</b> acestui proiect-api: <a href="https://hub.docker.com/r/mevdschee/php-crud-api">https://hub.docker.com/r/mevdschee/php-crud-api</a>
 
- Acesta va fi construit in mod automat pe/pt fiecare lansare. 
+ Acesta va fi construit(in mod automat) pe/pt fiecare lansare/rulare. 
  Eticheta <b>„latest tag”</b> indică ultima versiune(cea mai recentă versiune).
 
  Imaginea docker acceptă parametrii variabilei de mediu din configurație.  
@@ -2325,7 +2325,7 @@ urmatoarele comenzi-linux(le puteti folosi/incerca si de sub Ubuntu-WSL):
     docker-compose build
     docker-compose up
 
-Aceasta suita de comenzi, va seta/instala un s.g.b.d. (<b>MySQL</b>) si un webserver (<b>Apache</b>) si apoi se va rula ca aplicatie, un exemplu PhP/MySQL
+Aceasta suita de comenzi, va seta/instala un s.g.b.d. (<b>MySQL</b>) si un webserver (<b>Apache</b>) iar apoi se va rula ca aplicatie, un exemplu PhP/MySQL
 de blog, <a href="https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/tests/fixtures/blog_mysql.sql"><b>blog-mysql</b></a>, de altfel, utilizat ca date in <a href="https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/tests/"><b>testele</b></a> efectuate, cu ocazia <a href="https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/tests/"><b>testarii de functionalitate</b></a>.
 
 Dupa executia suitei de comenzi de mai sus, puteti sa testati script-ul PhP(ruland in containerul respectiv/running in the container), prin deschiderea,in SO-ul dvs gazda si dintr-un/intr-un browser oarecare, a urmatoarei adrese-URL:
