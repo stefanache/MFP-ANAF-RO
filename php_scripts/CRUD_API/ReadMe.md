@@ -2094,7 +2094,12 @@ Se va încerca să se acopere cele mai relevante setări din folderul <a href="h
 Pentru a urmari modul in care se instaleaza docker-ul si cum sunt rulate ulterior aceste teste pentru cazurile <b>dockerizate</b> al acestui proiect(asa cum sunt cele enumerate mai sus), puteti consulta mai jos, sub-sectiunea <i><b>Teste Docker</b></i></a> din cadrul sectiunii(urmatoare de mai jos) denumite <a href="https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/ReadMe.md#containerizare-docker"><b>"Containerizare-docker"</b></a>(o sectiune special destinata dockerizarii/containerizarii acestui proiect-api).<br/>
 Trebuie stiut si faptul ca, <b>testele de functionalitate</b>(independente de docker) sunt diferite de <b>testele-docker</b>(dependente de docker). <br/>
 <b>Testele de functionalitate</b> pot fi rulate si pe o imagine locala(sau aflata la distanta) dar nedockeritaza(independenta de docker). In acest caz, puteti urmari sectiunea urmatoare denumita <a href="https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/ReadMe.md#testare-functionarerulareexecutierunning"><b>Testare Functionare/Rulare/Executie(running)</b></a>, sectiune care este valabila si pt cazul nedockerizat(independenta fata de docker).
-Dupa cum cred ca deja va asteptati, <b>Testele Docker</b>, dupa ce realizarea contextul de rulare containerizat/dockerizat, vor rula, din imaginea-proiectului creata cu ajutorul docker-ului, in mod automat si aceste <b>Teste de functionalitate</b> .
+Dupa cum cred ca deja va asteptati, <b>Testele Docker</b>, dupa ce realizarea contextul de rulare containerizat/dockerizat(de sub SO gazda si specific/adaptat pt SO-gazduit curent/de testat), vor rula, din imaginea-proiectului creata cu ajutorul docker-ului, in mod automat si aceste <b>Teste de functionalitate</b> .<br/>
+Contextul dockerizat(specific/adaptat SO-gazduit curent/de testat) de rulare al testelor-docker este construit, de catre docker-ul rulat/executat pe SO-gaxda, in ordine, dupa cum urmeaza:
+- se creaza/instaleaza SO-gazduit(specific/adaptat curent/de testat),
+- se instaleaza si se starteaza bazele de date(MariaDB/MySQL, PostgreSQL, SQL-Server) cu care se vor efectua testele de functionalitate,
+- se cloneaza depozitul github al proiectului nostru api,
+- se ruleaza testele de functionalitate pt fiecare BD in parte(mysql,pgsql,sqlsrv si sqlite)
   <hr/><br/>
   </details>
   <details><summary><h2>Testare Functionare/Rulare/Executie(running)</h2></summary>
