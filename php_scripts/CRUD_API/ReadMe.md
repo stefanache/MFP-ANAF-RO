@@ -2101,7 +2101,9 @@ Dupa cum se va vedea in sub-sectiunea <a href="https://github.com/stefanache/MFP
 - cf fisierului <b>Dockerfile</b>(aferent fiecarui SO gazduit curent/de testat), se instaleaza(versiunile specifice SO-ului gazduit curent/de testat) serverele-SQL si clienti-SQL acestora, impreuna cu librariile php specifice acestor BD(php-mysql, php-pgsql, php-sqlite) iar apoi se starteaza serverele-SQL ale acestor baze de date SQL(MariaDB/MySQL, PostgreSQL, SQL-Server), cu care se vor efectua testele de functionalitate(aceste baze de date SQL, contin datele/tabelele
   relationale ale unui exmeplu de blog),
 - cf fisierului <b>Dockerfile</b>(aferent fiecarui SO gazduit curent/de testat), se cloneaza intregul depozit-github al proiectului nostru api,
-- pt toate si pt fiecare BD in parte(mysql,pgsql,sqlsrv si ... sqlite), BD instalata pe SO-ul gazduit curent/de testat, cf fisierului specific <b>run.sh</b>(aferent acestui SO gazduit curent/de testat), se ruleaza in mod repetat/in blucla, toate testele de functionalitate. 
+- pt toate si pt fiecare BD in parte(mysql,pgsql,sqlsrv si ... sqlite), BD instalata pe SO-ul gazduit curent/de testat, cf fisierului specific <b>run.sh</b>(aferent acestui SO gazduit curent/de testat), se ruleaza in mod repetat/in blucla, toate testele de functionalitate.<br/>
+
+Toate aceste fisiere specifice, utilizate succesiv in procesul de testare-docker, aferente fiecarui SO-gazduit in parte, si anume setul de fisiere  <b>Dockerfile</b> si <b>run.sh</b>,  vor fi integrate/utilizate(impreuna cu alte fisiere-tools comune) in 2 fisiere integratoare/comune, si anume <b>build_all.sh</b>(utilizat in procesul de constructie succesiva) si <b>run_all.sh</b>(utilizat in procesul de rulare repetata/in bucla al testelor functionale succesive) .
   <hr/><br/>
   </details>
   <details><summary><h2>Testare Functionare/Rulare/Executie(running)</h2></summary>
