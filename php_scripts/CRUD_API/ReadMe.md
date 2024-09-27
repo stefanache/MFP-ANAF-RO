@@ -2098,7 +2098,10 @@ Dupa cum cred ca deja va asteptati, <a href="https://github.com/stefanache/MFP-A
 Dupa cum se va vedea in sub-sectiunea <a href="https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/ReadMe.md#teste-docker"><b>Testelor Docker</b></a>, contextul dockerizat(specific/adaptat SO-gazduit curent/de testat) de rulare al testelor-docker este construit si utilizat, de catre docker-ul rulat/executat pe SO-gazda, in ordine, dupa cum urmeaza:
 - se creaza/instaleaza SO-gazduit(specific/adaptat curent/de testat),
 - se instaleaza si se starteaza webserverul Apache impreuna cu procesatorul PhP-CLI (inclusiv librariile aferente: php-xml, php-mbstring),
-- se instaleaza(versiunile specifice SO-ului gazduit curent/de testat) serverele-SQL si clienti-SQL acestora impreuna cu librariile php-sql(specifice acestor BD) iar apoi se starteaza serverele-SQL ale acestor <br/>bazel de date SQL(MariaDB/MySQL, PostgreSQL, SQL-Server), cu care se vor efectua testele de functionalitate(aceste baze de date SQL contin datele/tabelele relationale ale unui exmeplu de blog),
+- se instaleaza(versiunile specifice SO-ului gazduit curent/de testat) serverele-SQL si clienti-SQL acestora, impreuna cu librariile php <br/>
+  specifice acestor BD(php-mysql, php-pgsql, php-sqlite) iar apoi se starteaza serverele-SQL ale acestor <br/>baze de date SQL<br/>
+  (MariaDB/MySQL, PostgreSQL, SQL-Server), cu care se vor efectua testele de functionalitate(aceste baze de date SQL, contin datele/tabelele<br/>
+  relationale ale unui exmeplu de blog),
 - se cloneaza intregul depozit-github al proiectului nostru api,
 - se ruleaza in mod repetat/in blucla, testele de functionalitate, pt fiecare BD in parte(mysql,pgsql,sqlsrv si ... sqlite)
   <hr/><br/>
