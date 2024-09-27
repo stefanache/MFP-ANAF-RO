@@ -2152,13 +2152,13 @@ Docker-izarea necesita, ca pe masina dvs-gazda,pe sistemul dvs de operare,instal
     
   <details><summary><h3>Teste Docker</h3></summary>
   <br/><hr/>
-Pt cazul, in care doriti sa rulati proiectul (pe orice sistem gazda, care poate fi chiar Ubuntu-WSL) dintr-o imagine gazduita(sub un sistem de operare gazduit, din familia Linux si pt care desigur, au fost deja efectuate, cu succes, toate testele-dockerizate),manageriata cu ajutorul docker-ului, veti avea desigur nevoie, ca pe sistemul-dvs gazda, sa instalati dockerul ca gestionar al imaginilor sale izolate/protejate<br/>
+Pt cazul, in care doriti sa rulati/testati proiectul (pe orice sistem gazda, care poate fi chiar Ubuntu-WSL) dintr-o imagine gazduita(sub un sistem de operare gazduit, din familia Linux si pt care desigur, au fost deja efectuate, cu succes, toate testele-dockerizate),manageriata cu ajutorul docker-ului, veti avea desigur nevoie, ca pe sistemul-dvs gazda, sa instalati dockerul ca gestionar al imaginilor sale izolate/protejate<br/>
 Instalați <b>docker </b>-ul folosind următoarele <b>comenzi-linux</b>(eventual de sub windows 10(pro) si asta daca aveti deja instalat Ubuntu-WSL, puteti sa dati comanda-shell/cmd.exe <b>C:Users\{Utilizator-Curent-Windows}> ubuntu </b> pt a activa consola Ubuntu-WSL iar apoi sa plasati comenzile-shell de mai jos/urmatoare, pt a instala docker-ul sub versiunea dvs de Ubuntu-WSL), apoi deconectați-vă și conectați-vă pentru ca modificările să aibă efect:
 
     sudo apt install docker.io
     sudo usermod -aG docker ${USER}
 
-Pentru a rula <a href="https://github.com/codemage66/PHP-CRUD-API/tree/main/docker">testele docker</a>, rulați in ordine<br/>
+Pentru a rula in mod automatizat(in lot de lucrari), <a href="https://github.com/codemage66/PHP-CRUD-API/tree/main/docker">testele docker</a>, rulați, in ordine, urmatoarea suita de comenzi-shell, de sub sistemul dvs local/gazda(poate fi un SO-gazda cum este Windows 10 Pro,asa cum am si eu sau chiar Ubuntu-WSL, dar asta doar daca aceasta extensie, Ubuntu-WSL, este deja preinstalata/a fost instalata in prealabil, pe SO-ul gazda/adica de sub Windows 10 Pro ):<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>„build_all.sh”</b> <br/>
 și apoi <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>„run_all.sh”</b><br/>
@@ -2290,7 +2290,7 @@ sqlite: 120 tests ran in 1906 ms, 13 skipped, 0 failed
 root@b7ab9472e08f:/php-crud-api# 
 </pre>
 
-După cum puteți vedea, scriptul <b>„run.sh”</b> vă oferă acces la un prompt în mediul docker ales.<br/>
+După cum puteți vedea, scriptul-shell <b>„run.sh”</b> vă oferă acces la un prompt în mediul docker ales.<br/>
 În acest mediu sunt montate fișierele locale. Acest lucru permite o depanare ușoară în diferite medii.<br/>
 Puteți introduce <b>„exit”</b> când ați terminat. 
 
