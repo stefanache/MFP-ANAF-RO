@@ -2097,9 +2097,9 @@ Trebuie stiut si faptul ca, <b>testele de functionalitate</b>(independente de do
 Dupa cum cred ca deja va asteptati, <b>Testele Docker</b>, dupa ce realizarea contextul de rulare containerizat/dockerizat(de sub SO gazda si specific/adaptat pt SO-gazduit curent/de testat), vor rula, din imaginea-proiectului creata cu ajutorul docker-ului, in mod automat si aceste <b>Teste de functionalitate</b> .<br/>
 Contextul dockerizat(specific/adaptat SO-gazduit curent/de testat) de rulare al testelor-docker este construit, de catre docker-ul rulat/executat pe SO-gaxda, in ordine, dupa cum urmeaza:
 - se creaza/instaleaza SO-gazduit(specific/adaptat curent/de testat),
-- se instaleaza si se starteaza bazele de date(MariaDB/MySQL, PostgreSQL, SQL-Server) cu care se vor efectua testele de functionalitate,
+- se instaleaza(versiunile specifice SO-ului gazduit curent/de testat) si se starteaza <br/>bazele de date(MariaDB/MySQL, PostgreSQL, SQL-Server), cu care se vor efectua testele de functionalitate,
 - se cloneaza depozitul github al proiectului nostru api,
-- se ruleaza testele de functionalitate pt fiecare BD in parte(mysql,pgsql,sqlsrv si sqlite)
+- se ruleaza in mod repetat/in blucla, testele de functionalitate pt fiecare BD in parte(mysql,pgsql,sqlsrv si sqlite)
   <hr/><br/>
   </details>
   <details><summary><h2>Testare Functionare/Rulare/Executie(running)</h2></summary>
