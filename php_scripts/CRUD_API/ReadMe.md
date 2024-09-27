@@ -2260,6 +2260,7 @@ mysql: 120 tests ran in 5951 ms, 1 skipped, 0 failed
 pgsql: 120 tests ran in 1951 ms, 1 skipped, 0 failed
 sqlsrv: skipped, driver not loaded
 sqlite: 120 tests ran in 1923 ms, 13 skipped, 0 failed
+
 Testul de mai sus (inclusiv pornirea bazelor de date) durează mai puțin de 5 minute pe laptopul meu lent.
 
 $ ./run.sh
