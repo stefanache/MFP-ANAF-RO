@@ -2296,7 +2296,7 @@ Puteți introduce <b>„exit”</b> când ați terminat.
   </details>
   <details><summary><h3>Compozitorul Docker(Docker compose)</h3></summary>
   <br/><hr/>
-Acest depozit de asemenea mai contine un fisier  <b>docker-compose.yml</b>, fisier ce va permite sa instalati/construiti/rulati folosind<br/>
+Acest depozit de asemenea mai contine un fisier  <a href="https://github.com/codemage66/PHP-CRUD-API/blob/main/docker-compose.yml"><b>docker-compose.yml</b></a>a>, fisier ce va permite sa instalati/construiti/rulati folosind<br/>
 urmatoarele comenzi-linux:
 
     sudo apt install docker-compose
