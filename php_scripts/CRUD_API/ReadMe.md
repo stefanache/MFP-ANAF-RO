@@ -2091,7 +2091,7 @@ Au fost <a href="https://github.com/stefanache/MFP-ANAF-RO/tree/main/php_scripts
 Acest lucru nu acoperă (încă) toate mediile, așa că vă rugăm să anunțați dacă <a href="https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/tests">testele</a> eșuează și să raportați mediul dumneavoastră.<br/>
 Se va încerca să se acopere cele mai relevante setări din folderul <a href="https://github.com/codemage66/PHP-CRUD-API/tree/main/docker"><b>„docker”</b></a> al proiectului.<br/>
 
-Pentru a urmari modul in care se instaleaza docker-ul si cum sunt rulate testele-docker puteti consulta mai jos, subsectiunea <i><b>Teste Docker</b></i></a> din cadrul sectiunii urmatoare denumite <a href="https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/ReadMe.md#containerizare-docker"><b>"Containerizare-docker"</b></a>.
+Pentru a urmari modul in care se instaleaza docker-ul si cum sunt rulate ulterior aceste teste, puteti consulta mai jos, sub-sectiunea <i><b>Teste Docker</b></i></a> din cadrul sectiunii(urmatoare de mai jos) denumite <a href="https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/ReadMe.md#containerizare-docker"><b>"Containerizare-docker"</b>(o sectiune special destinata dockerizarii acestui proiect-api)</a>.
   <hr/><br/>
   </details>
   <details><summary><h2>Testare Functionare/Rulare/Executie(running)</h2></summary>
