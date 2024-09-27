@@ -5,10 +5,10 @@ services:
         container_name: database
         restart: always
         environment:
-            - MYSQL_ROOT_PASSWORD=php-crud-api
-            - MYSQL_DATABASE=php-crud-api
-            - MYSQL_USER=php-crud-api
-            - MYSQL_PASSWORD=php-crud-api
+            - MYSQL_ROOT_PASSWORD=
+            - MYSQL_DATABASE=php_crud_api_db
+            - MYSQL_USER=root
+            - MYSQL_PASSWORD=
             #ports:
             #- "33066:3306"
         volumes:
