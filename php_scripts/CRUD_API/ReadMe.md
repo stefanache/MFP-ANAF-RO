@@ -2305,7 +2305,7 @@ urmatoarele comenzi-linux:
     docker-compose up
 
 Acesta va seta/instala un s.g.b.d. (<b>MySQL</b>) si un webserver (<b>Apache</b>) si se ruleaza aplicatia folosind un exemplu<br/>
-de blog, <a href="https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/tests/fixtures/blog_mysql.sql"><b>blog-mysql</b></a>, de altfel, utilizat ca date in <a href="https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/tests/"><b>testele</b></a> efectuate.
+de blog, <a href="https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/tests/fixtures/blog_mysql.sql"><b>blog-mysql</b></a>, de altfel, utilizat ca date in <a href="https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/tests/"><b>testele</b></a> efectuate, cu ocazia testarii de rigoare.
 
 Testati script-ul (running in the container) prin deschidere urmatorului URL:
 
