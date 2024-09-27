@@ -2097,8 +2097,8 @@ Trebuie stiut si faptul ca, aceste teste de functionalitate pot fi rulate si pe 
   </details>
   <details><summary><h2>Testare Functionare/Rulare/Executie(running)</h2></summary>
   <br/><hr/>
- Pentru a rula <b>testele funcționale/de functionalitate</b> la nivel local(pe computer-ul dvs; pt acest task daca nu rulati proiectul dintr-o imagine dockerizata, nu este necesar ca Docker-ul sa fie pre-instalat in prealabil deoarece testele de functionalitate nu au acesta dependenta),
- puteți rula următoarele <b>comenzi</b>:<br/>
+ Pentru a rula <b>testele funcționale/de functionalitate</b> la nivel local(pe computer-ul dvs; pt acest task de testare locala/on-premise, daca nu rulati 
+proiectul dintr-o imagine dockerizata, nu este necesar ca Docker-ul sa fie pre-instalat/in prealabil, deoarece testele de functionalitate nu au acesta dependenta), puteți rula următoarele <b>comenzi</b>:<br/>
 
     php build.php
     php test.php
