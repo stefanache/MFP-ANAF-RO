@@ -2298,7 +2298,7 @@ Puteți introduce <b>„exit”</b> când ați terminat.
   </details>
   <details><summary><h3>Imagine Docker(HUB-Docker)</h3></summary>
   <br/><hr/>
- Există în depozitul proiectului, un fisier denumit <a href="https://github.com/codemage66/PHP-CRUD-API/blob/main/Dockerfile"><b>Dockerfile</b></a>, fisier care este folosit(de catre gestionarul <b>docker</b>) pentru a construi o <b>imagine</b> a acestui proiect-api: <a href="https://hub.docker.com/r/mevdschee/php-crud-api">https://hub.docker.com/r/mevdschee/php-crud-api</a>
+ Există în depozitul proiectului, un fisier denumit <a href="https://github.com/codemage66/PHP-CRUD-API/blob/main/Dockerfile"><b>Dockerfile</b></a>, fisier care este folosit(de catre gestionarul <b>docker</b>) pentru a <a href="https://github.com/codemage66/PHP-CRUD-API/blob/main/docker/build_all.sh">construi</a> o <b>imagine</b> a acestui proiect-api: <a href="https://hub.docker.com/r/mevdschee/php-crud-api">https://hub.docker.com/r/mevdschee/php-crud-api</a>
 
  Acesta va fi construit in mod automat pe/pt fiecare lansare. 
  Eticheta <b>„latest tag”</b> indică ultima versiune(cea mai recentă versiune).
@@ -2308,17 +2308,17 @@ Puteți introduce <b>„exit”</b> când ați terminat.
   </details>
   <details><summary><h3>Compozitorul Docker(Docker compose)</h3></summary>
   <br/><hr/>
-Acest depozit de asemenea mai contine un fisier  <a href="https://github.com/codemage66/PHP-CRUD-API/blob/main/docker-compose.yml"><b>docker-compose.yml</b></a>, fisier ce va permite sa instalati/construiti/rulati folosind<br/>
-urmatoarele comenzi-linux:
+De asemenea, acest depozit,  mai contine un fisier mai complet si complex, denumit <a href="https://github.com/codemage66/PHP-CRUD-API/blob/main/docker-compose.yml"><b>docker-compose.yml</b></a>, fisier care va permite sa <a href="https://github.com/codemage66/PHP-CRUD-API/blob/main/docker/build_all.sh">instalati/construiti/rulati</a> manual, imaginea proiectului(sub sistemul-gazduit/dockerizat si prin urmare dependenta de docker.exe & docker-compose.exe), folosind<br/>
+urmatoarele comenzi-linux(le puteti folosi/incerca si de sub Ubuntu-WSL):
 
     sudo apt install docker-compose
     docker-compose build
     docker-compose up
 
-Acesta va seta/instala un s.g.b.d. (<b>MySQL</b>) si un webserver (<b>Apache</b>) si se ruleaza aplicatia folosind un exemplu<br/>
-de blog, <a href="https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/tests/fixtures/blog_mysql.sql"><b>blog-mysql</b></a>, de altfel, utilizat ca date in <a href="https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/tests/"><b>testele</b></a> efectuate, cu ocazia testarii de rigoare.
+Aceasta suita de comenzi, va seta/instala un s.g.b.d. (<b>MySQL</b>) si un webserver (<b>Apache</b>) si apoi se va rula ca aplicatie, un exemplu PhP/MySQL
+de blog, <a href="https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/tests/fixtures/blog_mysql.sql"><b>blog-mysql</b></a>, de altfel, utilizat ca date in <a href="https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/tests/"><b>testele</b></a> efectuate, cu ocazia <a href="https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/tests/"><b>testarii de functionalitate</b></a>.
 
-Testati script-ul (running in the container) prin deschidere urmatorului URL:
+Dupa executia suitei de comenzi de mai sus, puteti sa testati script-ul PhP(ruland in containerul respectiv/running in the container), prin deschiderea,in SO-ul dvs gazda si dintr-un/intr-un browser oarecare, a urmatoarei adrese-URL:
 
     http://localhost:8080/records/posts/1
 
