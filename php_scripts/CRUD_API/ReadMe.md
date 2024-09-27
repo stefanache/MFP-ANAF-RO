@@ -2091,7 +2091,8 @@ Au fost <a href="https://github.com/stefanache/MFP-ANAF-RO/tree/main/php_scripts
 Acest lucru nu acoperă (încă) toate mediile, așa că vă rugăm să anunțați dacă <a href="https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/tests">testele</a> eșuează și să raportați mediul dumneavoastră.<br/>
 Se va încerca să se acopere cele mai relevante setări din folderul <a href="https://github.com/codemage66/PHP-CRUD-API/tree/main/docker"><b>„docker”</b></a> al proiectului.<br/>
 
-Pentru a urmari modul in care se instaleaza docker-ul si cum sunt rulate ulterior aceste teste, puteti consulta mai jos, sub-sectiunea <i><b>Teste Docker</b></i></a> din cadrul sectiunii(urmatoare de mai jos) denumite <a href="https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/ReadMe.md#containerizare-docker"><b>"Containerizare-docker"</b></a>(o sectiune special destinata dockerizarii/containerizarii acestui proiect-api).
+Pentru a urmari modul in care se instaleaza docker-ul si cum sunt rulate ulterior aceste teste pentru cazurile <b>dockerizate</b> al acestui proiect(asa cum sunt cele enumerate mai sus), puteti consulta mai jos, sub-sectiunea <i><b>Teste Docker</b></i></a> din cadrul sectiunii(urmatoare de mai jos) denumite <a href="https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/ReadMe.md#containerizare-docker"><b>"Containerizare-docker"</b></a>(o sectiune special destinata dockerizarii/containerizarii acestui proiect-api).<br/>
+Trebuie stiut si faptul ca, aceste teste de functionalitate pot fi rulate si pe o imagine locala/distanta nedockeritaza. In acest caz puteti urmari sectiunea urmatoare denumita <b>Testare Functionare/Rulare/Executie(running)</b> care este valabila si pt cazul nedockerizat.
   <hr/><br/>
   </details>
   <details><summary><h2>Testare Functionare/Rulare/Executie(running)</h2></summary>
@@ -2150,15 +2151,16 @@ Docker-izarea necesita, ca pe masina dvs-gazda,pe sistemul dvs de operare,instal
     
   <details><summary><h3>Teste Docker</h3></summary>
   <br/><hr/>
-Instalați docker folosind următoarele <b>comenzi-linux</b>(eventual de sub windows 10(pro), daca aveti deja instalat Ubuntu-WSL, dati comanda-shell/cmd.exe <b>C:Users\{Utilizator-Curent-Windows}> ubuntu </b> pt a activa consola Ubuntu-WSL iar apoi plasati comenzile de mai jos/urmatoare), apoi deconectați-vă și conectați-vă pentru ca modificările să aibă efect:
+Pt cazul, in care doriti sa rulati proiectul (pe orice sistem gazda, care poate fi chiar Ubuntu-WSL) dintr-o imagine gazduita(sub un sistem de operare gazduit, din familia Linux si pt care desigur, au fost deja efectuate, cu succes, toate testele-dockerizate),manageriata cu ajutorul docker-ului, veti avea desigur nevoie, ca pe sistemul-dvs gazda, sa instalati dockerul ca gestionar al imaginilor sale izolate/protejate<br/>
+Instalați docker folosind următoarele <b>comenzi-linux</b>(eventual de sub windows 10(pro) si daca aveti deja instalat Ubuntu-WSL, dati comanda-shell/cmd.exe <b>C:Users\{Utilizator-Curent-Windows}> ubuntu </b> pt a activa consola Ubuntu-WSL iar apoi plasati comenzile de mai jos/urmatoare pt a instala docker-ul sub versiunea dvs de Ubuntu-WSL), apoi deconectați-vă și conectați-vă pentru ca modificările să aibă efect:
 
     sudo apt install docker.io
     sudo usermod -aG docker ${USER}
 
-Pentru a rula <a href="https://github.com/codemage66/PHP-CRUD-API/tree/main/docker">testele docker</a>, rulați <b>„build_all.sh”</b> și <b>„run_all.sh”</b> din directorul <a href="https://github.com/codemage66/PHP-CRUD-API/tree/main/docker">docker</a>.<br/>
-Ieșirea ar trebui să fie:
+Pentru a rula <a href="https://github.com/codemage66/PHP-CRUD-API/tree/main/docker">testele docker</a>, rulați <b>„build_all.sh”</b> și apoi <b>„run_all.sh”</b> din directorul <a href="https://github.com/codemage66/PHP-CRUD-API/tree/main/docker">docker</a>.<br/>
+Ieșirea ar trebui să fie(in functie de versiunea Linux utilizata pt sistemul gazduit/dockerizat):
 <pre>
-================================================
+======================================================================================================
 Debian 10 (PHP 7.3)
 ================================================
 [1/4] Starting MariaDB 10.3 ..... done
