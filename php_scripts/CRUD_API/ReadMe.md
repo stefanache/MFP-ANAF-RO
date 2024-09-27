@@ -2089,7 +2089,9 @@ Au fost <a href="https://github.com/stefanache/MFP-ANAF-RO/tree/main/php_scripts
  - (Docker) Ubuntu 22.04 cu PHP 8.1, MySQL 8.0, PostgreSQL 14.2 (PostGIS 3.2) și SQLite 3.37
 
 Acest lucru nu acoperă (încă) toate mediile, așa că vă rugăm să anunțați dacă <a href="https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/tests">testele</a> eșuează și să raportați mediul dumneavoastră.<br/>
-Se va încerca să se acopere cele mai relevante setări din folderul <a href="https://github.com/codemage66/PHP-CRUD-API/tree/main/docker"><b>„docker”</b></a> al proiectului.   
+Se va încerca să se acopere cele mai relevante setări din folderul <a href="https://github.com/codemage66/PHP-CRUD-API/tree/main/docker"><b>„docker”</b></a> al proiectului.<br/>
+
+Pentru a urmari modul in care se instaleaza docker-ul si cum sunt rulate testele-docker puteti consulta mai jos, subsectiunea <i><b>Teste Docker</b></i></a> din cadrul sectiunii urmatoare denumite <a href="https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/ReadMe.md#containerizare-docker"><b>"Containerizare-docker"</b></a>.
   <hr/><br/>
   </details>
   <details><summary><h2>Testare Functionare/Rulare/Executie(running)</h2></summary>
