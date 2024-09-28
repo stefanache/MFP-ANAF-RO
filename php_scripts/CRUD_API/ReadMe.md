@@ -251,7 +251,7 @@ Acest script va instala și rula [Composer](https://getcomposer.org/) pentru a a
   </details><!--end Compilare+Dezvoltare+Actualiz.Dependente-->
  <hr/><br/>
   </details><!--end Instalare,Cerinte,Configurare,Limitari,Caracteristici,Proiecte&PortariConexe precum si Compilare+Dezvoltare+Actualiz.Dependente-->
-  <details><summary><h2>TreeQL, un GraphQL pragmatic</h2></summary>
+  <details><summary><h2>TreeQL, un GraphQL pragmatic(GraphQL-like)</h2></summary>
   <br/><hr/>
    <a href="https://github.com/mevdschee/php-crud-api">PHP-CRUD-API</a>(adica acest proiect) este implementarea de referinta a/pt. <a href="https://treeql.org/">TreeQL</a>.<br/>
     
