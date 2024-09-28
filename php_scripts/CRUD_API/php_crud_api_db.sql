@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Sep 14, 2024 at 09:41 PM
+-- Generation Time: Sep 28, 2024 at 10:58 AM
 -- Server version: 10.4.32-MariaDB
 -- PHP Version: 8.2.12
 
@@ -111,16 +111,17 @@ INSERT INTO `tags` (`id`, `name`) VALUES
 CREATE TABLE `users` (
   `id` int(11) NOT NULL,
   `username` varchar(254) NOT NULL,
-  `phone` varchar(254) NOT NULL
+  `phone` varchar(254) NOT NULL,
+  `location` point NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
 --
 -- Dumping data for table `users`
 --
 
-INSERT INTO `users` (`id`, `username`, `phone`) VALUES
-(1, 'mevdschee', ''),
-(2, 'guest', '');
+INSERT INTO `users` (`id`, `username`, `phone`, `location`) VALUES
+(1, 'mevdschee', '', 0x0000000001010000006284f068e3382640c408e1d1c6712840),
+(2, 'guest', '', 0x0000000001010000006284f068e3382640c408e1d1c6712840);
 
 --
 -- Indexes for dumped tables
