@@ -769,7 +769,7 @@ Funcționalitatea <b>GeoJSON</b> este <b>activată</b> în mod <i><b>implicit</b
   </details>   
   <hr/><br/>
   </details>   
-  <details><summary><h2>Maparea/Asocierea denumirilor</h2><br/>(pt compatibilitate inapoi, cu sistemele mai vechi, cum ar fi WordPress/WP)</summary>
+  <details><summary><h2>Maparea/Asocierea denumirilor</h2><br/>(facilitate utila pt compatibilitate inapoi, cu sistemele mai vechi, cum ar fi WordPress/WP)</summary>
   <br/><hr/>
 Pentru a sprijini crearea unui <b>API</b>(cum este acest proiect), pentru (o/acea parte a) sistemului moștenit (deci mai vechi, cum ar fi api-ul WP/Wordpress), poate doriți să mapați/asociati denumirile tabelelor și coloanelor(deoarece nu le puteți îmbunătăți fără o schimbare, de nedorit, a software-ului WP), în timp ce denumirea ar putea avea nevoie de/trebuie sa aiba unele îmbunătățiri(pentru consecvență in/de denumire).<br/>
 Configurația/Configurarea vă permite să redenumiți/asociati tabelele și coloanele cu o listă de mapări/asocieri(separate de/prin virgulă: "<b>,</b>"), mapari/asocieri care la randul acestora sunt despărțite cu un semn egal("<b>=</b>"), astfel:
