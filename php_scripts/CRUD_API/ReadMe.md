@@ -769,7 +769,7 @@ Funcționalitatea <b>GeoJSON</b> este <b>activată</b> în mod <i><b>implicit</b
   </details>   
   <hr/><br/>
   </details> 
-  <details><summary><h2>Analiza Configurarii</h2></summary>
+  <details><summary><h2>Analiza in detaliu a Configurarii</h2></summary>
   <br/><hr/>
   <details><summary><h2>Maparea/Asocierea denumirilor</h2><br/>(facilitate utila pt compatibilitate inapoi, cu sistemele mai vechi, cum ar fi WordPress/WP)</summary>
   <br/><hr/>
