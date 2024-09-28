@@ -1673,7 +1673,7 @@ Această funcționalitate este <b>dezactivată</b> în mod <b>implicit</b> și t
   <br/><hr/>
 Pe punctul-final <b>„/openapi”</b> este furnizată <b>specificația OpenAPI 3.0</b> (numită anterior <a href="https://medium.com/@tatianaensslin/how-to-add-swagger-ui-to-php-server-code-f1610c01dc03"><b>„Swagger”</b></a>).<br/>
 Este o documentație instantanee citibilă de catre API-ul de pe masina/computerul dvs.<br/>
-Asadar, aceasta documentatie/specificatie REST a fost generata cu OpenAPI(a.k.a Swagger) si a fost plasata in endpoint-ul api-ului <b>„/openapi”</b>.<br/>
+Asadar, aceasta documentatie/specificatie/autoprezentare REST a fost generata cu OpenAPI(a.k.a Swagger) si a fost plasata in endpoint-ul api-ului <b>„/openapi”</b>.<br/>
 Pentru a afla mai multe, consultați aceste link-uri:
 
  - <a href="https://editor.swagger.io/"><b>Swagger Editor</b></a> poate fi folosit pentru a vizualiza și depana specificația generată.
