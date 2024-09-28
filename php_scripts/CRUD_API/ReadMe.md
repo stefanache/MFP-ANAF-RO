@@ -2317,7 +2317,7 @@ Puteți introduce <b>„exit”</b> când ați terminat.
   </details>
   <details><summary><h3>Compozitorul Docker(Docker compose)</h3></summary>
   <br/><hr/>
-De asemenea, acest depozit,  mai contine un fisier mai complet si complex, denumit <a href="https://github.com/codemage66/PHP-CRUD-API/blob/main/docker-compose.yml"><b>docker-compose.yml</b></a>, fisier care va permite sa <a href="https://github.com/codemage66/PHP-CRUD-API/blob/main/docker/build_all.sh">instalati/construiti/rulati</a> manual, imaginea proiectului(sub sistemul-gazduit/dockerizat si prin urmare dependenta de docker.exe & docker-compose.exe), folosind<br/>
+De asemenea, acest depozit,  mai contine un fisier mai complet si complex, denumit <a href="https://github.com/codemage66/PHP-CRUD-API/blob/main/docker-compose.yml"><b>docker-compose.yml</b></a>, fisier care va permite sa <a href="https://github.com/codemage66/PHP-CRUD-API/blob/main/docker/build_all.sh">instalati/construiti/rulati</a> manual, imaginea proiectului(sub sistemul-gazduit/dockerizat si prin urmare dependenta de <a href="https://docs.docker.com/get-started/docker-overview/">docker.exe</a> & <a href="https://docs.docker.com/get-started/workshop/08_using_compose/">docker-compose.exe</a>), folosind<br/>
 urmatoarele comenzi-linux(le puteti folosi/incerca si de sub Ubuntu-WSL):
 
     sudo apt install docker-compose
