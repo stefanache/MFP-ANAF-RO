@@ -768,7 +768,9 @@ Funcționalitatea <b>GeoJSON</b> este <b>activată</b> în mod <i><b>implicit</b
   <hr/><br/>
   </details>   
   <hr/><br/>
-  </details>   
+  </details> 
+  <details><summary><h2>Analiza Configurarii</h2></summary>
+  <br/><hr/>
   <details><summary><h2>Maparea/Asocierea denumirilor</h2><br/>(facilitate utila pt compatibilitate inapoi, cu sistemele mai vechi, cum ar fi WordPress/WP)</summary>
   <br/><hr/>
 Pentru a sprijini crearea unui <b>API</b>(cum este acest proiect), pentru (o/acea parte a) sistemului moștenit (deci mai vechi, cum ar fi api-ul WP/Wordpress), poate doriți să mapați/asociati denumirile tabelelor și coloanelor(deoarece nu le puteți îmbunătăți fără o schimbare, de nedorit, a software-ului WP), în timp ce denumirea ar putea avea nevoie de/trebuie sa aiba unele îmbunătățiri(pentru consecvență in/de denumire).<br/>
@@ -2070,8 +2072,10 @@ Iată un exemplu de <b>clasă de controler personalizat</b>:
 Configurația <b>customControllers</b> acceptă o listă separată prin virgulă de clase de controlere personalizate.  
   <hr/><br/>
   </details>
-    <hr/><br/>
+  <hr/><br/>
   </details> <!--end Cache,Tyeps,Errors,Status,...customControllers-->
+  <hr/><br/>
+  </details> <!--end Analiza Configurarii-->
   <details><summary><h2>Testare,Configurare-Nginx si Containerizare/Dokerizare</h2></summary>
   <br/><hr/> 
    <details><summary><h2>Teste si Testare</h2></summary>
