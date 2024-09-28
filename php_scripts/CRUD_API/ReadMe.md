@@ -2324,11 +2324,19 @@ Puteți introduce <b>„exit”</b> când ați terminat.
   <br/><hr/>
 De asemenea, acest depozit,  mai contine un fisier mai complet si complex, denumit <a href="https://github.com/codemage66/PHP-CRUD-API/blob/main/docker-compose.yml"><b>docker-compose.yml</b></a>, fisier care va permite sa <a href="https://github.com/codemage66/PHP-CRUD-API/blob/main/docker/build_all.sh">instalati/construiti/rulati</a> manual, imaginea proiectului(rularea imaginii proiectului nostru, va avea loc de sub/in SO-gazduit/dockerizat...si prin urmare ...veti avea dependenta de <a href="https://docs.docker.com/get-started/docker-overview/">docker.exe</a> & <a href="https://docs.docker.com/get-started/workshop/08_using_compose/">docker-compose.exe</a>), folosind urmatoarele comenzi-linux(le puteti folosi/incerca si de sub Ubuntu-WSL):
 
-    sudo apt install docker-compose
+    mkdir php-crud-api
+    cd php-crud-api
+    nano docker-compose.yml
+    
+Introduceti continutul de mai sus(Copy+Paste) si apoi salvati cu CTRL+O si apoi iesiti cu CTRL+X.<br/.
+Apoi urmeaza o suita de 3 comenzi-shell:
+    
+    sudo apt install docker-composer
     docker-compose build
-    docker-compose up
+    docker-compose up -d
+    docker ps
 
-Aceasta suita de comenzi, presupunand ca <b>docker</b> este preinstalat, va instala si <b>docker-compose</b> iar apoi acesta(docker-compose) la randul sau, va construi aplicatia conform fisierului <b>docker-compose.yml</b>....adica va seta/instala un s.g.b.d. (<b>MySQL</b>) si un webserver (<b>Apache</b>) iar apoi la final, se va rula ca aplicatie, un exemplu PhP/MySQL de blog, <a href="https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/tests/fixtures/blog_mysql.sql"><b>blog-mysql</b></a>, de altfel, utilizat ca date in <a href="https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/tests/"><b>testele</b></a> efectuate, cu ocazia <a href="https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/tests/"><b>testarii de functionalitate</b></a>.
+Aceasta suita de 4 comenzi, presupunand ca <b>docker</b> este preinstalat, va instala si <b>docker-compose</b> iar apoi acesta(docker-compose) la randul sau, va construi aplicatia conform fisierului <b>docker-compose.yml</b>....adica va seta/instala un s.g.b.d. (<b>MySQL</b>) si un webserver (<b>Apache</b>) iar apoi la final, se va rula ca aplicatie, un exemplu PhP/MySQL de blog, <a href="https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/tests/fixtures/blog_mysql.sql"><b>blog-mysql</b></a>, de altfel, utilizat ca date in <a href="https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/tests/"><b>testele</b></a> efectuate, cu ocazia <a href="https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/tests/"><b>testarii de functionalitate</b></a>.
 
 Dupa executia suitei de comenzi de mai sus, puteti sa testati script-ul PhP(ruland in containerul respectiv/running in the container), prin deschiderea,in SO-ul dvs gazda si dintr-un/intr-un browser oarecare, a urmatoarei adrese-URL:
 
