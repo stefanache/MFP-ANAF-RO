@@ -2317,15 +2317,13 @@ Puteți introduce <b>„exit”</b> când ați terminat.
   </details>
   <details><summary><h3>Compozitorul Docker(Docker compose)</h3></summary>
   <br/><hr/>
-De asemenea, acest depozit,  mai contine un fisier mai complet si complex, denumit <a href="https://github.com/codemage66/PHP-CRUD-API/blob/main/docker-compose.yml"><b>docker-compose.yml</b></a>, fisier care va permite sa <a href="https://github.com/codemage66/PHP-CRUD-API/blob/main/docker/build_all.sh">instalati/construiti/rulati</a> manual, imaginea proiectului(rularea imaginii proiectului nostru, va avea loc de sub/in SO-gazduit/dockerizat...si prin urmare ...veti avea dependenta de <a href="https://docs.docker.com/get-started/docker-overview/">docker.exe</a> & <a href="https://docs.docker.com/get-started/workshop/08_using_compose/">docker-compose.exe</a>), folosind<br/>
-urmatoarele comenzi-linux(le puteti folosi/incerca si de sub Ubuntu-WSL):
+De asemenea, acest depozit,  mai contine un fisier mai complet si complex, denumit <a href="https://github.com/codemage66/PHP-CRUD-API/blob/main/docker-compose.yml"><b>docker-compose.yml</b></a>, fisier care va permite sa <a href="https://github.com/codemage66/PHP-CRUD-API/blob/main/docker/build_all.sh">instalati/construiti/rulati</a> manual, imaginea proiectului(rularea imaginii proiectului nostru, va avea loc de sub/in SO-gazduit/dockerizat...si prin urmare ...veti avea dependenta de <a href="https://docs.docker.com/get-started/docker-overview/">docker.exe</a> & <a href="https://docs.docker.com/get-started/workshop/08_using_compose/">docker-compose.exe</a>), folosind urmatoarele comenzi-linux(le puteti folosi/incerca si de sub Ubuntu-WSL):
 
     sudo apt install docker-compose
     docker-compose build
     docker-compose up
 
-Aceasta suita de comenzi, va seta/instala un s.g.b.d. (<b>MySQL</b>) si un webserver (<b>Apache</b>) iar apoi se va rula ca aplicatie, un exemplu PhP/MySQL
-de blog, <a href="https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/tests/fixtures/blog_mysql.sql"><b>blog-mysql</b></a>, de altfel, utilizat ca date in <a href="https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/tests/"><b>testele</b></a> efectuate, cu ocazia <a href="https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/tests/"><b>testarii de functionalitate</b></a>.
+Aceasta suita de comenzi, presupunand ca <b>docker</b> este preinstalat, va instala si <b>docker-compose</b> iar va construi aplicatia conform fisierului <b>docker-compose.yml</b>....adica va seta/instala un s.g.b.d. (<b>MySQL</b>) si un webserver (<b>Apache</b>) iar apoi la final, se va rula ca aplicatie, un exemplu PhP/MySQL de blog, <a href="https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/tests/fixtures/blog_mysql.sql"><b>blog-mysql</b></a>, de altfel, utilizat ca date in <a href="https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/tests/"><b>testele</b></a> efectuate, cu ocazia <a href="https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/tests/"><b>testarii de functionalitate</b></a>.
 
 Dupa executia suitei de comenzi de mai sus, puteti sa testati script-ul PhP(ruland in containerul respectiv/running in the container), prin deschiderea,in SO-ul dvs gazda si dintr-un/intr-un browser oarecare, a urmatoarei adrese-URL:
 
