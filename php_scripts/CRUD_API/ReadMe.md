@@ -2307,7 +2307,7 @@ Puteți introduce <b>„exit”</b> când ați terminat.
   </details>
   <details><summary><h3>Imagine Docker(HUB-Docker)</h3></summary>
   <br/><hr/>
- Există în depozitul proiectului, un fisier denumit <a href="https://github.com/codemage66/PHP-CRUD-API/blob/main/Dockerfile"><b>Dockerfile</b></a>, fisier care paote fi folosit(de catre gestionarul <b>docker</b>) pentru a <a href="https://github.com/codemage66/PHP-CRUD-API/blob/main/docker/build_all.sh">construi</a>  <b>imaginea</b> acestui proiect-api: <a href="https://hub.docker.com/r/mevdschee/php-crud-api">https://hub.docker.com/r/mevdschee/php-crud-api</a>
+ Există în depozitul proiectului, un fisier denumit <a href="https://github.com/codemage66/PHP-CRUD-API/blob/main/Dockerfile"><b>Dockerfile</b></a>, fisier care poate fi folosit(de catre gestionarul <b>docker</b>) pentru a <a href="https://github.com/codemage66/PHP-CRUD-API/blob/main/docker/build_all.sh">construi</a>  <b>imaginea</b> acestui proiect-api: <a href="https://hub.docker.com/r/mevdschee/php-crud-api">https://hub.docker.com/r/mevdschee/php-crud-api</a>
 
  Acesta va fi construit(in mod automat) pe/pt fiecare lansare/rulare. 
  Eticheta <b>„latest tag”</b> indică ultima versiune(cea mai recentă versiune).
