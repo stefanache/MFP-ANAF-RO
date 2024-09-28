@@ -257,7 +257,7 @@ Acest script va instala și rula [Composer](https://getcomposer.org/) pentru a a
     
 [TreeQL](https://treeql.org/) vă permite să creați un „arbore”/o arborescenta de obiecte JSON pe baza structurii bazei de date SQL (DB relaționala adica bazata pe relatii) și a interogării dvs.
 
-Se bazează vag/oarecum pe standardul ***REST*** și, de asemenea, este inspirat de ***json:api***.
+Se bazează vag/oarecum pe standardul ***REST***(<a href="https://github.com/mevdschee/php-crud-api/blob/main/extras/core.php">REST-like</a>) și, de asemenea, este inspirat de ***json:api***.
 
   <details><summary><h3>CRUD + List</h3></summary>
   <br/><hr/>
