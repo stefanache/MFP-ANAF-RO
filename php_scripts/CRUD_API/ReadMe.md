@@ -20,7 +20,7 @@ Chiar daca uneori vom vorbi de <b>optiuni</b>(unde <i>obligativitatea</i> si <i>
   Desigur, pt a fi rulat, trebuie mai intai sa fie incarcat pe webserver-ul nostru, ca mai apoi sa asiguram conectarea la b.d. SQL, 
   iar in final sa beneficiem de acel set complet de functii CRUD-API accesibile via <a href="https://www.webslesson.info/2018/05/how-to-make-simple-crud-rest-api-in-php-with-mysql.html">REST</a>.<br/><br/>
   
-  <i>NotaBene</i>(NB): Acest proiect-php este implementarea de referinta a unui alt proiect github-php, si anume,  <a href="https://treeql.org/"><b>TreeQL</b></a>(care utilizeaza GraphQL ca limbaj de interogare B.D.)
+  <i>NotaBene</i>(NB): Acest proiect-php este implementarea de referinta a unui alt proiect github-php, si anume,  <a href="https://treeql.org/"><b>TreeQL</b></a>(care utilizeaza REST pt operatii online CRUD B.D.)
 
 <details><summary><h2><small>Cerinte, Instalare, Configurare, Limite, Caracteristici, Proiecte&PortariConexe si ...<br/>...Compilare + Dezvoltare + Actualizare-Dependente</small></h2></summary>
   <br/><hr/>
