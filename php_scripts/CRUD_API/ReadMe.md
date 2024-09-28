@@ -919,6 +919,7 @@ Dacă nu specificați acești parametri în configurație, atunci se folosesc va
 <b>Autorizarea</b> confirmă că acesta(utilizatorul) are <b>permisiunile</b> potrivite pentru a accesa <b>informațiile</b> pe care le dorește.</br/></br/>
 
 <b>NB</b>:<br/>
+<b>Autentificare</b> <i>versus</i> <b>Autorizare</b>... echivalent cu a spune...<br/>
 <b>Identitatea utilizatorului</b> <i>versus</i> <b>Permisiunile de acces ale utilizatorului asupra resurselor, in sine dar si asupra operatiilor cu aceste resurse</b>
 
   <details><summary><h3>Autentificari</h3></summary>
