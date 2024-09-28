@@ -2342,6 +2342,7 @@ Dupa executia suitei de comenzi de mai sus, puteti sa testati script-ul PhP(rula
 
     http://localhost:8080/records/posts/1
 
+Daca doriti sa lucrati cu PostgreSQL, in loc de MySQL, poate ca ar fi util, ca mai intai, sa consultati acest <a href="https://www.graphile.org/postgraphile/running-postgraphile-in-docker/">tutorial</a>.
   <hr/><br/>
   </details>
     <hr/><br/>
