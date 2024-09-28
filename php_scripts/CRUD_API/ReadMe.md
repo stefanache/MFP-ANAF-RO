@@ -2343,7 +2343,7 @@ Dupa executia suitei de comenzi de mai sus, puteti sa testati script-ul PhP(rula
   
   <details><summary><h3>Istoricul stelutelor primite(star hystory)</h3></summary>
   <br/><hr/>
-   <center><img src="https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/68747470733a2f2f6170692e737461722d686973746f72792e636f6d2f7376673f7265706f733d6d65766473636865652f7068702d637275642d61706926747970653d44617465.svg"/></center>
+   <center><img src="https://camo.githubusercontent.com/0260dd0a51ca1e146b91e539d93e370c4401241f229ae6b2a7c358c88952a91c/68747470733a2f2f6170692e737461722d686973746f72792e636f6d2f7376673f7265706f733d6d65766473636865652f7068702d637275642d61706926747970653d44617465"/></center>
   <hr/><br/>
   </details> 
   
