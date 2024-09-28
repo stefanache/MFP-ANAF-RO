@@ -916,7 +916,7 @@ Dacă nu specificați acești parametri în configurație, atunci se folosesc va
   <h3><b>Autentificare</b> versus <b>Autorizare</b></h3><br/>
 <b>Autentificarea</b> confirmă că utilizatorul care se conectează este cine spune că este(verificarea <b>Identitatii</b> utilizatorului), <br/>
     în timp ce 
-<b>Autorizarea</b> confirmă că acesta(utilizatorul) are <b>permisiunile</b> potrivite pentru a accesa <b>informațiile</b> pe care le dorește.</br/></br/>
+<b>Autorizarea</b> confirmă/verifica/valideaza că acesta(utilizatorul) are <b>permisiunile</b> potrivite pentru a accesa <b>informațiile</b> pe care le dorește.</br/></br/>
 
 <b>NB</b>:<br/>
 <b>Autentificare</b> <i>versus</i> <b>Autorizare</b>... echivalent cu a spune...<br/>
