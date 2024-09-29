@@ -2363,3 +2363,9 @@ Pentru a putea clona acest repository puteti folosi <a herf="https://docs.github
 
   git clone https://stefanache.github.com/MFP-ANAF-RO/edit/main/php_scripts/CRUD_API/
 
+or
+
+  git clone https://codemage66.github.com/PHP-CRUD-API?tab=readme-ov-file#php-crud-api/
+
+or
+
