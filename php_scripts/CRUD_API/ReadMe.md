@@ -2359,16 +2359,12 @@ Daca doriti sa lucrati cu <a href="https://github.com/alexisrolland/docker-postg
 <hr/><br/>
 </details>
 
-Pentru a putea clona acest repository puteti folosi una dintre comenzile <a href="https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository"><b>git clone</b></a> urmatoare:
-
-    git clone https://github.com/stefanache/MFP-ANAF-RO/php_scripts/CRUD_API/
-
-sau unul dintre depozitele originale:
-
-    git clone https://github.com/codemage66/PHP-CRUD-API?tab=readme-ov-file#php-crud-api/
-
-    ori
+Pentru a putea clona depozitul(original) puteti folosi comanda <a href="https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository"><b>git clone</b></a> urmatoare:
 
     git clone https://github.com/mevdschee/php-crud-api/
 
-  
+si apoi
+
+    cd php-crud-api
+
+
