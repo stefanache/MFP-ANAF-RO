@@ -2367,7 +2367,7 @@ sau unul dintre depozitele originale:
 
     git clone https://codemage66.github.com/PHP-CRUD-API?tab=readme-ov-file#php-crud-api/
 
-or
+    ori
 
     git clone https://mevdschee.github.com/php-crud-api/
 
