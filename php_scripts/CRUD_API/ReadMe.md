@@ -2102,7 +2102,7 @@ Dupa cum cred ca deja va asteptati, <a href="https://github.com/stefanache/MFP-A
 Dupa cum se va vedea in sub-sectiunea <a href="https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/ReadMe.md#teste-docker"><b>Testelor Docker</b></a>, <b>contextul dockerizat de rulare al testelor-docker</b>(specific/adaptat fiecarui SO-gazduit curent/de testat) este <b>construit si utilizat</b>(de catre docker-ul rulat/executat pe SO-gazda, pt toate si pt fiecare SO-gazduit in parte), in ordine, <b>dupa cum urmeaza</b>:
 - se creaza/instaleaza SO-gazduit(specific/adaptat) curent/de testat,
 - cf fisierului <b>Dockerfile</b>(aferent fiecarui SO gazduit curent/de testat), se instaleaza si se starteaza webserverul Apache impreuna cu procesatorul PhP-CLI (inclusiv librariile comune aferente: php-xml, php-mbstring),
-- cf fisierului <b>Dockerfile</b>(aferent fiecarui SO gazduit curent/de testat), se instaleaza(versiunile specifice SO-ului gazduit curent/de testat) serverele-SQL si clienti-SQL acestora, impreuna cu librariile php specifice acestor BD(php-mysql, php-pgsql, php-sqlite) iar apoi se starteaza serverele-SQL ale acestor baze de date SQL(MariaDB/MySQL, PostgreSQL, SQL-Server), cu care se vor efectua testele de functionalitate(aceste baze de date SQL, contin datele/tabelele
+- cf fisierului <b>Dockerfile</b>(aferent fiecarui SO gazduit curent/de testat), se instaleaza(versiunile specifice SO-ului gazduit curent/de testat) serverele-SQL si clienti-SQL acestora, impreuna cu librariile php specifice acestor BD(php-mysql, php-pgsql, php-sqlite) iar apoi se starteaza serverele-SQL ale acestor baze de date SQL(MariaDB/MySQL, <a href="https://github.com/alexisrolland/docker-postgresql-postgraphile">PostgreSQL</a>, SQL-Server), cu care se vor efectua testele de functionalitate(aceste baze de date SQL, contin datele/tabelele
   relationale ale unui exmeplu de blog),
 - cf fisierului <b>Dockerfile</b>(aferent fiecarui SO gazduit curent/de testat), se cloneaza intregul depozit-github al proiectului nostru api,
 - pt toate si pt fiecare BD in parte(mysql,pgsql,sqlsrv si ... sqlite; BD deja instalata in pasul anterior pe SO-ul gazduit curent/de testat), cf fisierului specific <b>run.sh</b>(aferent acestui SO gazduit curent/de testat), se ruleaza in mod repetat/in blucla, toate testele de functionalitate.<br/>
@@ -2341,7 +2341,7 @@ Dupa executia suitei de comenzi de mai sus, puteti sa testati script-ul PhP(rula
 
     http://localhost:8080/records/posts/1
 
-Daca doriti sa lucrati cu PostgreSQL, in loc de MySQL, poate ca ar fi util, ca mai intai, sa consultati acest <a href="https://www.graphile.org/postgraphile/running-postgraphile-in-docker/">tutorial</a>.
+Daca doriti sa lucrati cu <a href="https://github.com/alexisrolland/docker-postgresql-postgraphile">PostgreSQL</a>, in loc de MySQL, poate ca ar fi util, ca mai intai, sa consultati acest <a href="https://www.graphile.org/postgraphile/running-postgraphile-in-docker/">tutorial</a>.
   <hr/><br/>
   </details>
     <hr/><br/>
