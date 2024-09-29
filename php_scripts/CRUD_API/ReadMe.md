@@ -2358,3 +2358,8 @@ Daca doriti sa lucrati cu <a href="https://github.com/alexisrolland/docker-postg
   Bucurati-va!
 <hr/><br/>
 </details>
+
+Pentru a putea clona acest repository puteti folosi <a herf="https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository">git clone</a>:
+
+  git clone https://stefanache.github.com/MFP-ANAF-RO/edit/main/php_scripts/CRUD_API/
+
