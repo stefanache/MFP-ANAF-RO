@@ -2367,5 +2367,7 @@ si apoi
 
     cd php-crud-api
 
-
+<b>Nota</b>: <br/>
+Desigur pt a putea utiliza <b>git</b> trebuie sa aveti acest utilitar pre/deja <a href="https://git-scm.com/book/en/v2/Getting-Started-Installing-Git">instalat</a>!
+Aveti si alternative precum <a href="https://askubuntu.com/questions/939830/how-to-download-a-github-repo-as-zip-using-command-line">cURL sau wget</a>.
  
