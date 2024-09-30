@@ -2313,10 +2313,12 @@ Puteți introduce <b>„exit”</b> când ați terminat.
   <br/><hr/>
  Există în depozitul proiectului, un fisier denumit <a href="https://github.com/codemage66/PHP-CRUD-API/blob/main/Dockerfile"><b>Dockerfile</b></a>, fisier care poate fi folosit(de catre gestionarul <a href="https://docs.docker.com/get-started/workshop/02_our_app/"><b>docker</b></a>) pentru a <a href="https://github.com/codemage66/PHP-CRUD-API/blob/main/docker/build_all.sh">construi</a>  <b>imaginea</b> acestui proiect-api: <a href="https://hub.docker.com/r/mevdschee/php-crud-api">https://hub.docker.com/r/mevdschee/php-crud-api</a>
 
- Acesta va fi construit(in mod automat) pe/pt fiecare lansare/rulare. 
+ Acesta va fi construit(in mod automat) pe/pt fiecare <a href="https://thenewstack.io/docker-basics-how-to-use-dockerfiles/">lansare/rulare</a>. 
  Eticheta <b>„latest tag”</b> indică ultima versiune(cea mai recentă versiune).
 
- Imaginea docker acceptă parametrii variabilei de mediu din configurație.  
+ Imaginea <a href="https://docs.docker.com/get-started/workshop/02_our_app/">docker</a> acceptă parametrii variabilei de mediu din configurație.  
+
+ 
   <hr/><br/>
   </details>
   <details><summary><h3>Compozitorul Docker(Docker compose)</h3></summary>
@@ -2361,7 +2363,7 @@ Daca doriti sa lucrati cu <a href="https://github.com/alexisrolland/docker-postg
 
 Pentru a putea clona depozitul(original) puteti folosi comanda <a href="https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository"><b>git clone</b></a> urmatoare:
 
-    git clone https://github.com/mevdschee/php-crud-api/
+    git clone https://github.com/mevdschee/php-crud-api.git
 
 si apoi
 
