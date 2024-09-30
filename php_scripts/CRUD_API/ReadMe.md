@@ -244,7 +244,7 @@ Puteți <b>actualiza</b> toate dependențele acestui proiect, folosind <a href="
 
     php update.php
 
-Acest script va rula [Composer](https://getcomposer.org/) pentru a actualiza/rezolva dependențele.   
+Acest script <a href="https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/update.php">update.php</a> va utiliza [composer.phar](https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/composer.phar) pentru a actualiza/rezolva dependențele.   
   <hr/><br/>
   </details> <!--Actualiz.Dependente-->  
   <hr/><br/>
