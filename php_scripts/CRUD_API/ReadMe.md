@@ -2343,7 +2343,7 @@ Insa in acest de pe urma caz, vor fi si alte/unele fisiere, in afara de fisierul
 
 Apoi urmeaza o suita de 3 comenzi-shell:
     
-    sudo apt install docker-composer
+    sudo apt install docker-compose
     docker-compose build
     docker-compose up -d
     docker ps
