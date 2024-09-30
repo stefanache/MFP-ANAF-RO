@@ -2335,7 +2335,7 @@ Desigur, in cazul nostru mult mai simplu ar fi sa clonam intregul depozit-github
 
     git clone https://github.com/mevdschee/php-crud-api.git
 
-insa in acest caz, vor fi si alte/unele fisiere, in afara de fisierul de configurare <a href="https://github.com/codemage66/PHP-CRUD-API/blob/main/docker-compose.yml"><b>docker-compose.yml</b></a>,  care nu vor fi utilizate de catre c<b>docker-compose</b><br/>
+insa in acest caz, vor fi si alte/unele fisiere, in afara de fisierul de configurare <a href="https://github.com/codemage66/PHP-CRUD-API/blob/main/docker-compose.yml"><b>docker-compose.yml</b></a>,  care nu vor fi utilizate(prin urmare, nefiind utile nu ar face sens sa le descarcati degeaba) de catre c<b>docker-compose</b><br/>
 
 Apoi urmeaza o suita de 3 comenzi-shell:
     
