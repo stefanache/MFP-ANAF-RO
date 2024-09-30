@@ -2318,7 +2318,7 @@ Puteți introduce <b>„exit”</b> când ați terminat.
 
  Imaginea <a href="https://docs.docker.com/get-started/workshop/02_our_app/">docker</a> acceptă parametrii variabilei de mediu din configurație.  
 
- 
+ Desigur mai intai de toate trebuie sa aveti instalat <a href="https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-20-04">docker</a>-ul pe SO dvs.gazda.
   <hr/><br/>
   </details>
   <details><summary><h3>Compozitorul Docker(Docker compose)</h3></summary>
