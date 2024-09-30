@@ -39,9 +39,9 @@ Chiar daca uneori vom vorbi de <b>optiuni</b>(unde <i>obligativitatea</i> si <i>
    Descarcati(download-ati) fisierul "<b><a href="https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/api.php">api.php</a></b>" din ultima versiune: <b>https://github.com/mevdschee/php-crud-api/releases/latest</b> ,<br/>
    sau direct din : <b>https://raw.githubusercontent.com/mevdschee/php-crud-api/main/api.php</b>
 
-   Aceasta este o aplicație cu un/intr-un  singur fișier("<b>api.php</b>")! Încarcă [„api.php”](https://github.com/codemage66/PHP-CRUD-API/blob/main/api.php) undeva(pt <a href="https://www.apachefriends.org/faq_windows.html">XAMPP</a>, fișierul "<b>api.php</b>" se salveaza/incarca in directorul C:\xampp\htdocs\PHP-CRUD-API\, caz in care se va apela cu o adresa din/de browser de forma/exemplu: <b>http://localhost:8080/PHP-CRUD-API/api.php/records/posts/1</b> ) și apoi bucură-te de rulare!
+   Aceasta este o aplicație cu un/intr-un  singur fișier("<b>api.php</b>")! Încarcă [„api.php”](https://github.com/codemage66/PHP-CRUD-API/blob/main/api.php) undeva(pt <a href="https://www.apachefriends.org/faq_windows.html">XAMPP</a>, fișierul "<b>api.php</b>" se salveaza/incarca in directorul {C|D}:\xampp\htdocs\PHP-CRUD-API\, caz in care se va apela cu o adresa din/de browser de forma/exemplu: <b>http://localhost:8080/PHP-CRUD-API/api.php/records/posts/1</b> ) și apoi bucură-te de rulare!
 
-   Pentru dezvoltarea locală, fara a folosi un webserver/cadru specializat(cum este <a href="https://www.php.net/manual/en/install.pecl.windows.php">XAMPP</a>), puteți rula serverul-web/webserverul încorporat al PhP-lui:
+   Pentru dezvoltarea locală, fara a folosi un <a href="https://www.geeksforgeeks.org/crud-operation-in-rest-api-using-php/">webserver/cadru specializat</a>(cum este <a href="https://www.php.net/manual/en/install.pecl.windows.php">XAMPP</a>), puteți rula serverul-web/webserverul încorporat al PhP-lui:
    
       php -S localhost:8080
    
