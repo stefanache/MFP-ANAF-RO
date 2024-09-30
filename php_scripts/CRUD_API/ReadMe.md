@@ -2385,14 +2385,14 @@ Pentru a putea <b>clona depozitul</b>(original) puteti folosi comanda <a href="h
 
 Comanda <b>git</b> va crea un subdirector nou denumit (<b>php-crud-api</b>) si apoi il va popula (exact) cu acelasi continut referit de adresa web <b>https://github.com/mevdschee/php-crud-api.git</b><br/>
 
+<b>Nota</b>: <br/>
+Desigur pt a putea utiliza <b>git</b> trebuie sa aveti acest utilitar pre/deja <a href="https://git-scm.com/book/en/v2/Getting-Started-Installing-Git">instalat</a>!
+Aveti si alternative precum <a href="https://askubuntu.com/questions/939830/how-to-download-a-github-repo-as-zip-using-command-line">cURL sau wget</a>.<br/><br/>
+
 Apoi, puteti sa mergeti(<b>cd</b> a.k.a. "<b><i>change-directory</i></b>") in acest nou subdirector anterior-creat(<b>php-crud-api</b>, directorul proiectului nostru), utilizand comanda urmatoare: 
 
     cd php-crud-api
 
-<b>Nota</b>: <br/>
-Desigur pt a putea utiliza <b>git</b> trebuie sa aveti acest utilitar pre/deja <a href="https://git-scm.com/book/en/v2/Getting-Started-Installing-Git">instalat</a>!
-Aveti si alternative precum <a href="https://askubuntu.com/questions/939830/how-to-download-a-github-repo-as-zip-using-command-line">cURL sau wget</a>.
- 
 Pentru a elimina directorul acestui proiect, <b>php-crud-api</b>, <b><i>dupa utilizarea</i></b> sa(atunci cand nu veti mai avea nevoie de acesta), puteti folosi comanda-Linux urmatoare:
 
     sudo rm -r php-crud-api
