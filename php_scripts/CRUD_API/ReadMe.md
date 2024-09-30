@@ -2330,12 +2330,12 @@ De asemenea, acest depozit,  mai contine un fisier mai complet si complex, denum
     nano docker-compose.yml
     
 Introduceti continutul de mai sus(Copy+Paste) si apoi salvati cu CTRL+O si apoi iesiti cu CTRL+X.<br/>
-In fisierul de configurare <a href="https://github.com/codemage66/PHP-CRUD-API/blob/main/docker-compose.yml"><b>docker-compose.yml</b></a>, al <b>docker-composer</b>-ului, puteti observa toate actiunile intreprinse de catre acesta pt faza de <b>build</b>(constructie) si faza de <b>run</b>(executie).<br/>
+In fisierul de configurare <a href="https://github.com/codemage66/PHP-CRUD-API/blob/main/docker-compose.yml"><b>docker-compose.yml</b></a>, al <b>docker-composer</b>-ului, puteti observa toate actiunile intreprinse de catre acesta, pt faza de <b>build</b>(constructie) si pt faza de <b>run</b>(executie).<br/>
 Desigur, in cazul nostru mult mai simplu ar fi sa clonam intregul depozit-github, utilizand comanda urmatoare:
 
     git clone https://github.com/mevdschee/php-crud-api.git
 
-Insa in acest de pe urma caz, vor fi si alte/unele fisiere, in afara de fisierul de configurare <a href="https://github.com/codemage66/PHP-CRUD-API/blob/main/docker-compose.yml"><b>docker-compose.yml</b></a>,  care nu vor fi utilizate(prin urmare, nefiind utile nu ar face sens sa le descarcati degeaba) de catre c<b>docker-compose</b><br/>
+Insa in acest de pe urma caz, vor fi si alte/unele fisiere, in afara de fisierul de configurare <a href="https://github.com/codemage66/PHP-CRUD-API/blob/main/docker-compose.yml"><b>docker-compose.yml</b></a>,  care nu vor fi utilizate de catre c<b>docker-compose</b>(prin urmare, nefiind utile, nu ar face sens sa le descarcati degeaba).<br/>
 
 Apoi urmeaza o suita de 3 comenzi-shell:
     
