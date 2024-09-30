@@ -2307,7 +2307,13 @@ root@b7ab9472e08f:/php-crud-api#
 
 După cum puteți vedea, scriptul-shell <b>„run.sh”</b> vă oferă acces la un prompt în mediul docker ales.<br/>
 În acest mediu sunt montate fișierele locale. Acest lucru permite o depanare ușoară în diferite medii.<br/>
-Puteți introduce <b>„exit”</b> când ați terminat. 
+Puteți introduce <b>„exit”</b> când ați terminat. <br/>
+
+Pentru acest task veti avea nevoie sa aveti deja instalat <b>php-cli</b>. Comanda-Linux urmatoare poate rezolva simplu aceasta problema:
+
+    sudo apt install php8.1-cli
+
+
 
   <hr/><br/>
   </details>
