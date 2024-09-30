@@ -2174,9 +2174,9 @@ Instalați <b>docker </b>-ul folosind următoarele <b>comenzi-linux</b>(eventual
     sudo usermod -aG docker ${USER}
 
 Pentru a rula in mod automatizat(in lot de lucrari), <a href="https://github.com/codemage66/PHP-CRUD-API/tree/main/docker">testele docker</a>(testele-docker sunt dependente de <a href="https://docs.docker.com/get-started/docker-overview/">docker</a>-ul ... pe care... tocmai l-ati instalat prin suita celor 2 comenzi Linux-shell, de mai sus), rulați, in ordine, urmatoarea suita de 2 comenzi-shell, de mai jos, de sub sistemul dvs local/gazda(poate fi un SO-gazda cum este Windows 10 Pro,asa cum am si eu, dar in acest caz, cele 2 instructiuni de mai sus trebuiesc modificate/adaptate pt windos-shell sau, de ce nu,  puteti chiar puteti incerca Ubuntu-WSL, dar asta doar daca aceasta extensie, Ubuntu-WSL, este deja preinstalata/a fost instalata in prealabil, pe SO-ul gazda/adica de sub Windows 10 Pro ), dupa cum urmeaza:<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>„build_all.sh”</b> <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/codemage66/PHP-CRUD-API/blob/main/docker/build_all.sh"><b>„build_all.sh”</b></a> <br/>
 și apoi <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>„run_all.sh”</b><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/codemage66/PHP-CRUD-API/blob/main/docker/run_all.sh"><b>„run_all.sh”</b></a><br/>
 din directorul <a href="https://github.com/codemage66/PHP-CRUD-API/tree/main/docker">docker</a>.<br/>
 
 Ieșirea ar trebui să fie(in functie de versiunea de Linux utilizata ca si sistem de operare gazduit/dockerizat):
