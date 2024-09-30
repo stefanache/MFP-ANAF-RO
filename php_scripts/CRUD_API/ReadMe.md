@@ -2381,7 +2381,7 @@ Daca doriti sa lucrati cu <a href="https://github.com/alexisrolland/docker-postg
 
 Pentru a putea <b>clona depozitul</b>(original) puteti folosi comanda <a href="https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository"><b>git clone</b></a> urmatoare:
 
-    git clone https://github.com/mevdschee/php-crud-api.git
+    git clone https://github.com/mevdschee/php-crud-api/
 
 Comanda <b>git</b> va crea un subdirector nou denumit (<b>php-crud-api</b>) si apoi il va popula (exact) cu acelasi continut referit de adresa web <b>https://github.com/mevdschee/php-crud-api.git</b><br/>
 
