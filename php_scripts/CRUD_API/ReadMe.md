@@ -57,7 +57,7 @@ Chiar daca uneori vom vorbi de <b>optiuni</b>(unde <i>obligativitatea</i> si <i>
 
   Chiar daca tutorialele prezinta comenzi Linux, totusi acestea pot fi usor adaptate pt un sistem de operare Windows.<br/>
   În toate aceste integrări, este folosit [Composer](https://getcomposer.org/), pentru a încărca acest proiect ca o dependența.<br/>
-  Pentru persoanele care nu folosesc Composer ca builder/instalator a fost furnizat fisierul ["api.include.php"](https://github.com/codemage66/PHP-CRUD-API/blob/main/api.include.php)<br/>
+  Pentru persoanele care <b>nu folosesc Composer</b> ca builder/executor(ca instalator) a fost furnizat fisierul ["api.include.php"](https://github.com/codemage66/PHP-CRUD-API/blob/main/api.include.php)<br/>
   Acest fișier conține totul din fisierul [„api.php”](https://github.com/codemage66/PHP-CRUD-API/blob/main/api.php), cu excepția configurației de la [„src/index.php”](https://github.com/codemage66/PHP-CRUD-API/blob/main/src/index.php) și poate fi folosit de funcția [„include”](https://www.php.net/manual/en/function.include.php) a PHP-ului.<br/>
 
   Insa, inainte de toate trebuie 
