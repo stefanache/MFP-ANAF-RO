@@ -2316,8 +2316,10 @@ Puteți introduce <b>„exit”</b> când ați terminat.
  Există în depozitul proiectului, un fisier denumit <a href="https://github.com/codemage66/PHP-CRUD-API/blob/main/Dockerfile"><b>Dockerfile</b></a>, fisier care poate fi folosit(de catre gestionarul <a href="https://docs.docker.com/get-started/workshop/02_our_app/"><b>docker</b></a>) pentru a <a href="https://github.com/codemage66/PHP-CRUD-API/blob/main/docker/build_all.sh">construi</a>  <b>imaginea</b> acestui proiect-api: <a href="https://hub.docker.com/r/mevdschee/php-crud-api">https://hub.docker.com/r/mevdschee/php-crud-api</a>
 
  Acesta va fi construit(in mod automat) pe/pt fiecare <a href="https://thenewstack.io/docker-basics-how-to-use-dockerfiles/">lansare/rulare</a>. 
- Eticheta <b>„latest tag”</b> indică ultima versiune(cea mai recentă versiune).
+ Eticheta <b>„latest tag”</b> indică ultima versiune(cea mai recentă versiune).<br/><br/>
 
+ Daca veti consulta fisierul de configurare al docker-ului(<a href="https://github.com/codemage66/PHP-CRUD-API/blob/main/Dockerfile"><b>Dockerfile</b></a>) veti putea observa ca are ca dependente(deci are nevoie de) anumite fisiere, cum ar fi <b>.htaccess</b>, <b>api.php</b>, fisiere necesare procesului de constructie si rulare/executie al acestui proiect-dockerizat<br/>
+ 
  Imaginea <a href="https://docs.docker.com/get-started/workshop/02_our_app/">docker</a> acceptă parametrii variabilei de mediu din configurație.  
 
  Desigur mai intai de toate trebuie sa aveti instalat <a href="https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-20-04">docker</a>-ul pe SO dvs.gazda.
