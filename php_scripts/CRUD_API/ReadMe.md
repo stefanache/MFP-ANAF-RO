@@ -231,7 +231,7 @@ alt proiect sau cadru (puteti sa utilizați, în schimb, <a href="https://getcom
   </details>
   <details><summary><h3>Dezvoltare</h3></summary>
   <br/><hr/>
-Puteți accesa codul necompilat la adresa-URL:
+In faza de dezvoltare, puteți accesa codul necompilat la adresa-URL:
 
     http://localhost:8080/src/records/posts/1
 
