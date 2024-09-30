@@ -215,7 +215,7 @@ Există, de asemenea, portari ale acestui script, drept dovadă de concept,  car
   <br/><hr/>
   <details><summary><h3>Compilare</h3></summary>
   <br/><hr/>
-Puteți <b>instala</b> toate dependențele acestui proiect, folosind <a href="https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_APIinstall.php">install.php</a>, in următoarea comandă:
+Puteți <b>instala</b> toate dependențele acestui proiect, folosind <a href="https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/install.php">install.php</a>, in următoarea comandă:
 
     php install.php
 
