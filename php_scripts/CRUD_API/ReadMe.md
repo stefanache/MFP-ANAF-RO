@@ -2398,7 +2398,7 @@ Pentru a elimina directorul acestui proiect, <b>php-crud-api</b>, dupa utilizare
     sudo rm -r php-crud-api
 
 Raspundeti cu <b>Y</b> (adica yes) pt a sterge anumite/acele fisiere care sunt protejate la operatia de stergere!<br/>
-Puteti <a href="https://linuxconfig.org/how-to-delete-file-on-ubuntu-linux">forta</a> stergerea folosind optiunea <a href="https://rootlinux.ro/sudo-rm-rf-comanda-pe-care-nu-ar-trebui-sa-o-executati-niciodata/"><b>-f</b></a>:
+Puteti <a href="https://linuxconfig.org/how-to-delete-file-on-ubuntu-linux">forta</a> stergerea(fara a mai fi nevoie sa confirmati stergerea acestor fisiere protejate) folosind optiunea <a href="https://rootlinux.ro/sudo-rm-rf-comanda-pe-care-nu-ar-trebui-sa-o-executati-niciodata/"><b>-f</b></a>:
 
     sudo rm -rf php-crud-api
 
