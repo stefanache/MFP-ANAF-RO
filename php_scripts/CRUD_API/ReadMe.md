@@ -2127,6 +2127,7 @@ Pentru rulrea acestui task al testelor functionale, veti avea nevoie sa aveti de
 Comanda-Linux urmatoare poate rezolva simplu aceasta problema:
 
     sudo apt install php8.1-cli
+    php --version
 
   <hr/><br/>
   </details> <!--end rulare teste-->
