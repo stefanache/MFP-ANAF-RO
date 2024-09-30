@@ -2393,9 +2393,11 @@ Aveti si alternative precum <a href="https://askubuntu.com/questions/939830/how-
  
 Pentru a elimina directorul <b>php-crud-api</b>, dupa utilizare,  puteti folosi comanda-Linux urmatoare:
 
-    rm -r php-crud-api
+    sudo rm -r php-crud-api
 
 Raspundeti cu <b>Y</b> (adica yes) pt a sterge anumite/acele fisiere care sunt protejate la operatia de stergere!<br/>
-Puteti <a href="https://linuxconfig.org/how-to-delete-file-on-ubuntu-linux">forta</a> stergerea folosind optiunea <a href="https://rootlinux.ro/sudo-rm-rf-comanda-pe-care-nu-ar-trebui-sa-o-executati-niciodata/"><b>-f</b></a>.
+Puteti <a href="https://linuxconfig.org/how-to-delete-file-on-ubuntu-linux">forta</a> stergerea folosind optiunea <a href="https://rootlinux.ro/sudo-rm-rf-comanda-pe-care-nu-ar-trebui-sa-o-executati-niciodata/"><b>-f</b></a>:
+
+    sudo rm -rf php-crud-api
 
     
