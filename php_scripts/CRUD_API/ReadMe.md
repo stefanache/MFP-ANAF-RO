@@ -63,7 +63,7 @@ Chiar daca uneori vom vorbi de <b>optiuni</b>(unde <i>obligativitatea</i> si <i>
   Acest fișier conține totul din fisierul [„api.php”](https://github.com/codemage66/PHP-CRUD-API/blob/main/api.php), cu excepția configurației de la [„src/index.php”](https://github.com/codemage66/PHP-CRUD-API/blob/main/src/index.php) și poate fi folosit de catre funcția [„include”](https://www.php.net/manual/en/function.include.php) a PHP-ului.<br/>
 
   Insa, inainte de toate trebuie 
-  
+
   - creata baza de date( in **MySQL** in cazul meu; numele b.d. este [***php_crud_api_db***](https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/php_crud_api_db.sql)), 
   - apoi, trebuie modificat in api.php( trebuie verificate configurarea b.d...cititi cu atentie capitolul urmator intitulat [***Configurare***](https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/ReadMe.md#configurare)) si 
   - in final,in cazul in care doriti sa utilizati varainta de instalare <b>cu PhP-Composer</b>, trebuie rulat batch-ul(creat de mine) [**_RUN.bat**](https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/_RUN.bat)(consultati si/cu **phpinfo()** din <a href="https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/index.php"><b><i>index.php</i></b></a>, sa vedeti daca suportul **PDO**,din ***php.ini*** este activat?!).
@@ -244,7 +244,7 @@ Puteți <b>actualiza</b> toate dependențele acestui proiect, folosind <a href="
 
     php update.php
 
-Acest script va instala și rula [Composer](https://getcomposer.org/) pentru a actualiza/rezolva dependențele.   
+Acest script va rula [Composer](https://getcomposer.org/) pentru a actualiza/rezolva dependențele.   
   <hr/><br/>
   </details> <!--Actualiz.Dependente-->  
   <hr/><br/>
