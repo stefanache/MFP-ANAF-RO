@@ -2329,8 +2329,9 @@ De asemenea, acest depozit,  mai contine un fisier mai complet si complex, denum
     cd php-crud-api
     nano docker-compose.yml
     
-Introduceti continutul de mai sus(Copy+Paste) si apoi salvati cu CTRL+O si apoi iesiti cu CTRL+X.<br/>. Si tot asa pana se construiesc toate dependentele Dockerfile.
-Dar, in cazul nostru mult mai simplu este sa clonam intregul depozit-github:
+Introduceti continutul de mai sus(Copy+Paste) si apoi salvati cu CTRL+O si apoi iesiti cu CTRL+X.<br/>
+Si tot asa pana se construiesc toate dependentele Dockerfile.<br/>
+Dar, in cazul nostru mult mai simplu este sa clonam intregul depozit-github, utilizand comanda urmatoare:
 
     git clone https://github.com/mevdschee/php-crud-api.git
 
