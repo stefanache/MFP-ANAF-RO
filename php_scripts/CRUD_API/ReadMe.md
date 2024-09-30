@@ -2121,7 +2121,13 @@ Va reamintiti(din sectiunea anterioara intitulata <a href="https://github.com/st
 Colateral mai se prepara/creaza si un alt fisier-alternativ si anume <a href="https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/api.include.php"><b>api.include.php</b></a>, care va fi utilizat(ca "librarie-include" in/cu cda PhP-"include") de catre <a href="https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/test.php"><b>test.php</b></a>(fara a mai fi nevoiti sa faceti apel direct la  fisierul principal <a href="https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/src/index.php"><b>index.php</b></a> sau chiar sa utilizati <a href="https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/api.php"><b>api.php</b></a> - fisiere care nu pot si nu vor functiona in regim de/ca "librarii-include"!!!).<br/>
 Apoi urmeaza rularea fisierului <a href="https://github.com/stefanache/MFP-ANAF-RO/tree/main/php_scripts/CRUD_API/test.php">test.php</a>(cu cda-shell: php test.php). <a href="https://github.com/stefanache/MFP-ANAF-RO/tree/main/php_scripts/CRUD_API/test.php">Aceasta</a> rulează testele funcționale din directorul <a href="https://github.com/stefanache/MFP-ANAF-RO/tree/main/php_scripts/CRUD_API/tests"><b>„tests”</b></a>.<br/>
 Utilizează dump-urile bazei de date (<a href="https://github.com/stefanache/MFP-ANAF-RO/tree/main/php_scripts/CRUD_API/tests/fixtures"><b>fixtures</b></a>) și configurația bazei de date (<a href="https://github.com/stefanache/MFP-ANAF-RO/tree/main/php_scripts/CRUD_API/tests/config"><b>config</b></a>) din subdirectoarele corespunzătoare/aferente.<br/> 
-Junalul .log al acestor teste sunt categorisite pe subdirectoare si pot fi consultate in subdirectorul special destinat jurnalizarii rezultatelor si anume <a href="php_scripts/CRUD_API/tests/functional"><b>functional</b></a>.
+Junalul .log al acestor teste sunt categorisite pe subdirectoare si pot fi consultate in subdirectorul special destinat jurnalizarii rezultatelor si anume <a href="php_scripts/CRUD_API/tests/functional"><b>functional</b></a>.<br/><br/>
+
+Pentru rulrea acestui task al testelor functionale, veti avea nevoie sa aveti deja instalat <b>php-cli</b>.<br/>
+Comanda-Linux urmatoare poate rezolva simplu aceasta problema:
+
+    sudo apt install php8.1-cli
+
   <hr/><br/>
   </details> <!--end rulare teste-->
   <hr/><br/>
@@ -2308,13 +2314,6 @@ root@b7ab9472e08f:/php-crud-api#
 După cum puteți vedea, scriptul-shell <b>„run.sh”</b> vă oferă acces la un prompt în mediul docker ales.<br/>
 În acest mediu sunt montate fișierele locale. Acest lucru permite o depanare ușoară în diferite medii.<br/>
 Puteți introduce <b>„exit”</b> când ați terminat. <br/>
-
-Pentru acest task veti avea nevoie sa aveti deja instalat <b>php-cli</b>. Comanda-Linux urmatoare poate rezolva simplu aceasta problema:
-
-    sudo apt install php8.1-cli
-
-
-
   <hr/><br/>
   </details>
   <details><summary><h3>Imagine Docker(HUB-Docker)</h3></summary>
