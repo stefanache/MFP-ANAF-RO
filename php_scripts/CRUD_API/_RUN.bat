@@ -1,6 +1,7 @@
 @echo off
 cls
 echo https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/ReadMe.md
+where php
 php -v |more
 rem php -m |more
 composer update |more
