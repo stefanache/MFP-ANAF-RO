@@ -2187,7 +2187,7 @@ Pentru a rula in mod automatizat(in lot de lucrari), <a href="https://github.com
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/codemage66/PHP-CRUD-API/blob/main/docker/run_all.sh"><b>„sh run_all.sh”</b></a><br/>
 din directorul <a href="https://github.com/codemage66/PHP-CRUD-API/tree/main/docker">docker</a>.<br/>
 
-Ieșirea ar trebui să fie(in functie de versiunea de Linux( Debian10|11|12, RockyLinux8|9, Ubuntu 18|20|22) utilizata la testare/testata ca si sistem de operare gazduit/dockerizat):
+Ieșirea ar trebui să fie(in functie de versiunea de Linux( Debian10|11|12, RockyLinux8|9, Ubuntu 18|20|22 ) utilizata la testare/testata ca si sistem de operare gazduit/dockerizat):
 <pre>
 ======================================================================================================
 Debian 10 (PHP 7.3)
