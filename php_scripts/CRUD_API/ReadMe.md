@@ -225,8 +225,7 @@ Asadar, puteți <b>compila/combina</b> toate fișierele necompilate din directoa
 
     php build.php
     
-Rețineți că nu puteti sa utilizați ***compilarea*** atunci când **integrați** acest proiect într-un<br/> 
-alt proiect sau cadru (puteti sa utilizați, în schimb, <a href="https://getcomposer.org/"><b>Composer</b></a>).   
+Rețineți că nu puteti sa utilizați ***compilarea*** atunci când **integrați** acest proiect într-un alt proiect sau cadru (puteti sa utilizați, în schimb, <a href="https://getcomposer.org/"><b>Composer</b></a>).   
   <hr/><br/>
   </details>
   <details><summary><h3>Dezvoltare</h3></summary>
