@@ -2319,6 +2319,8 @@ Puteți introduce <b>„exit”</b> când ați terminat.
  Imaginea <a href="https://docs.docker.com/get-started/workshop/02_our_app/">docker</a> acceptă parametrii variabilei de mediu din configurație.  
 
  Desigur mai intai de toate trebuie sa aveti instalat <a href="https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-20-04">docker</a>-ul pe SO dvs.gazda.
+
+ Daca doriti sa setati <b>Ubuntu-WSL2</b>(pe sistemul dvs gazda Windows) si apoi sa instalati <b>docker</a>-ul, de care veti avea nevoie pt partea de docker-izare, atunci acest <a href="https://medium.com/@sociable_flamingo_goose_694/setup-wsl-for-local-docker-development-on-windows-f0767e0a72d4">tutorial</a> poate fi util pt. dvs.
   <hr/><br/>
   </details>
   <details><summary><h3>Compozitorul Docker(Docker compose)</h3></summary>
@@ -2346,7 +2348,7 @@ Apoi urmeaza o suita de 3 comenzi-shell:
 
 Aceasta suita de 4 comenzi, presupunand ca <b>docker</b> este preinstalat, va instala si <b>docker-compose</b> iar apoi acesta(docker-compose) la randul sau, va construi aplicatia conform fisierului <b>docker-compose.yml</b>....adica va seta/instala un s.g.b.d. (<b>MySQL</b>) si un webserver (<b>Apache</b>) iar apoi la final, se va rula ca aplicatie, un exemplu PhP/MySQL de blog, <a href="https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/tests/fixtures/blog_mysql.sql"><b>blog-mysql</b></a>, de altfel, utilizat ca date in <a href="https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/tests/"><b>testele</b></a> efectuate, cu ocazia <a href="https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/CRUD_API/tests/"><b>testarii de functionalitate</b></a>.
 
-Dupa executia suitei de comenzi de mai sus, puteti sa testati script-ul PhP(ruland in containerul respectiv/running in the container), prin deschiderea,in SO-ul dvs gazda si dintr-un/intr-un browser oarecare, a urmatoarei adrese-URL:
+Dupa executia suitei de comenzi de mai sus, puteti sa testati script-ul PhP(ruland in containerul respectiv/running in the container), prin deschiderea,in SO-ul dvs gazda si dintr-un/intr-un browser oarecare, a urmatoareie adrese-URL:
 
     http://localhost:8080/records/posts/1
 
