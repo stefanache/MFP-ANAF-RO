@@ -2393,7 +2393,7 @@ Apoi, puteti sa mergeti(<b>cd</b> a.k.a. "<b><i>change-directory</i></b>") in ac
 
     cd php-crud-api
 
-Pentru a elimina directorul acestui proiect, <b>php-crud-api</b>, <b><i>dupa utilizarea</i></b> sa(atunci cand nu veti mai avea nevoie de acesta), puteti folosi comanda-Linux urmatoare:
+Pentru a elimina directorul acestui proiect, <b>php-crud-api</b>, dupa utilizarea sa(atunci cand <b><i>nu veti mai avea nevoie</i></b> de acesta), puteti folosi comanda-Linux urmatoare:
 
     sudo rm -r php-crud-api
 
