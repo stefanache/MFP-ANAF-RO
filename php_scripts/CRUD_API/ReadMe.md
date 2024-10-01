@@ -2402,4 +2402,4 @@ Puteti <a href="https://linuxconfig.org/how-to-delete-file-on-ubuntu-linux">fort
 
     sudo rm -rf php-crud-api
 
-    
+Aflati mai multe despre <a href="https://www.atatus.com/blog/essential-guide-to-sudo-and-su-in-linux/"><b>sudo</b></a> urmarind acest <a href="https://www.atatus.com/blog/essential-guide-to-sudo-and-su-in-linux/">tutorial-Linux</a>.    
