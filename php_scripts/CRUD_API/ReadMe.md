@@ -2383,7 +2383,7 @@ Pentru a putea <b>clona depozitul</b>(original) puteti folosi comanda <a href="h
 
     git clone https://github.com/mevdschee/php-crud-api.git
 
-Comanda <b>git</b> va crea un subdirector nou denumit (<b>php-crud-api</b>) si apoi il va popula (exact) cu acelasi continut referit de/la adresa-web <b>https://github.com/mevdschee/php-crud-api/</b><br/>
+Comanda <a href="https://dev.to/jackdarracott/setup-a-local-php-mysql-development-environment-using-windows-subsystem-for-linux-2-5b"><b>git</b></a> va crea un subdirector nou denumit (<b>php-crud-api</b>) si apoi il va popula (exact) cu acelasi continut referit de/la adresa-web <b>https://github.com/mevdschee/php-crud-api/</b><br/>
 
 <b>Nota</b>: <br/>
 Desigur pt a putea utiliza <b>git</b> trebuie sa aveti acest utilitar pre/deja <a href="https://git-scm.com/book/en/v2/Getting-Started-Installing-Git">instalat</a>!
