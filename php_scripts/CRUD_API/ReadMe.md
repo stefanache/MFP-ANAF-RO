@@ -2136,6 +2136,7 @@ Comanda-Linux urmatoare poate rezolva simplu aceasta problema:
   </details> <!--end teste si testare--> 
   <details><summary><h2>Exemplu de configurare webserver Nginx(in loc de Apache)</h2></summary>
   <br/><hr/>
+  In fisierul de configurare al webserver-ului <b>Nginx</b>, <b>/etc/nginx/sites-enabled/default</b>, cand dati comanda de vizualizare(<b>cd /etc/nginx/sites-enabled/</b> si apoi <b>cat default | more</b>), ar trebui sa aveti ceva de genu' urmator:
     
       server {
           listen 80 default_server;
