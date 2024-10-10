@@ -102,4 +102,5 @@ Despre eFactura si [**OAuth**](https://static.anaf.ro/static/10/Anaf/Informatii_
 
 
 
-
+**Nota**:<br/>
+cititi si despre [**IAPP**](https://www.ittraining.ro/category.php/Data_Protection_IAPP/53/)(Asociația Internațională a Profesioniștilor în Protecția Datelor adica "International Association of Privacy Professionals")
