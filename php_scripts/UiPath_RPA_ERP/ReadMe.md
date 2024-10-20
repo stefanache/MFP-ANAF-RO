@@ -10,3 +10,5 @@ bazate pe reguli care nu necesită creativitate și are următoarele beneficii:
  • Procesele RPA exclud posibilele erori umane
 
 Orange are un site [UiPath](https://forum.uipath.com/t/how-to-simulate-a-rest-service-with-php-in-a-local-environment/393509) bine documentat privind [RPA](https://www.orange.md/ro/business/rpa?fbclid=IwY2xjawGBij1leHRuA2FlbQIxMAABHTOnFa8EhrhcdMcdAO6gWhV1aOTflKYW9OdrgAHNAI3kGbwMqDv0hq7Sjw_aem_Up_Ft5AFWCV2OM0Dd9eSrA).
+
+Pe blog-ul [UiPath](https://www.uipath.com/blog/product-and-updates/introducing-uipath-studiox) puteti gasi lucruri interesante(cum ar fi UiPath Studio) despre RPA si ERP.
