@@ -1,4 +1,4 @@
-UiPath este lider în domeniul softurilor de automatizare a întreprinderilor și un inovator în domeniul<br/> 
+[UiPath](https://en.wikipedia.org/wiki/UiPath) este lider în domeniul softurilor de automatizare a întreprinderilor și un inovator în domeniul<br/> 
 tehnologiei de automatizare robotizată a proceselor (RPA).
 Platforma RPA oferă soluții dedicate companiilor în care angajații au de îndeplinit sarcini repetitive, <br/>
 bazate pe reguli care nu necesită creativitate și are următoarele beneficii:
