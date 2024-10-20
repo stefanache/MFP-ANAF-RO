@@ -16,7 +16,7 @@ Pe blog-ul [UiPath](https://www.uipath.com/blog/product-and-updates/introducing-
 De asemenea puteti intra pe website-ul [UiPath Academy](https://academy.uipath.com/courses) pt a urma cursurile lor si a va acomoda cu acest system ERP.
 
 Un task curent de auomatizare-ERP(bazat pe reguli/conventii prestabilite) ar putea fi acela de a baleia/tria/filtra/scana/parcurge in mod repetitiv(cu o anumita frecventa sau la un anumit interval dat/ales de timp) 
-comenzile nou sosite de la clienti(adica cele care se afla in starea sau care au statutul setat ca fiind „În așteptare”) pentru a genera(desigur in mod automat)
+comenzile(orders) nou sosite de la clienti(adica cele care se afla in starea sau care au statutul setat ca fiind „În așteptare”) pentru a genera(desigur in mod automat)
 facturi(in format eFactura deci containerizat in format .xml sau/si in orice alt format doriti voi containerizat sa spunem intr-un PDF).<br/>
 In acest caz <b>UiPath</b> ar putea fi desigur una dintre solutii(dar nu singura:).
 
