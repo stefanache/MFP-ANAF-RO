@@ -500,7 +500,7 @@ juridice [PJ](https://www.anaf.ro/anaf/internet/ANAF/servicii_online/declaratii_
 
 legate de toate formularele ANAF (eFactura,eTransport,[SAF-T(D406)](https://github.com/topics/saf-t),D112,...etc) [formulare ANAF](https://www.anaf.ro/anaf/internet/ANAF/asistenta_contribuabili/declararea_obligatiilor_fiscale/toate_formularele/)
 
-Despre nomenclatoare si de pe unde le puteti culege am discutat in sectiunea precedenta( a se vedea subietul/"topic"-ul [Nomenclatoare](https://github.com/stefanache/MFP-ANAF-RO/blob/main/README.md#nomenclatoare)) asa incat le puteti descarca(de cele mai multe ori URL-urile nu va permit sa le luati direct de pe site asa incat descarcarea ramane/este cea mai sigura metoda de culegere de informatii) pentru a le folosi in procesul de depunere a facturilor-electronice in format UBL/xml(ma refer desigur la etapele de generare si de validare si nu la etapele de transmite si incarcare)
+Despre nomenclatoare si de pe unde le puteti culege am discutat in sectiunea precedenta( a se vedea subiectul/"topic"-ul [Nomenclatoare](https://github.com/stefanache/MFP-ANAF-RO/blob/main/README.md#nomenclatoare)) asa incat le puteti descarca(de cele mai multe ori URL-urile nu va permit sa le luati direct de pe site asa incat descarcarea ramane/este cea mai sigura metoda de culegere de informatii) pentru a le folosi in procesul de depunere a facturilor-electronice in format UBL/xml(ma refer desigur la etapele de generare si de validare si nu la etapele de transmite si incarcare)
 
 De asemenea, puteti cauta o serie de informatii privind [facturarea electronica pe site-ul ASRO](https://magazin.asro.ro/Search?q=factura+electronica)
 
@@ -633,7 +633,7 @@ Un subiect interesant este legat de erorile posibile aparute la/in raportarea [e
 
 Daca doriti un model de imputernicire/procura pt. deschidere cont SPV(ANAF) puteti citi acest [articol](https://www.cabinetexpert.ro/2024-02-19/model-imputernicire-procura-pentru-deschidere-cont-spv-anaf-pentru-a-putea-lucra-cu-sistemul-ro-e-factura-anaf.html)
 
-Pentru subietul <b>eInvoicing</b> si <b>eReporting>/b>  in Romania puteti citi pe acest <a href="https://marosavat.com/romania-e-invoicing-e-reporting/">website</a>.
+Pentru subiectul <b>eInvoicing</b> si <b>eReporting</b>  in Romania puteti citi pe acest <a href="https://marosavat.com/romania-e-invoicing-e-reporting/">website</a>.
 </details>
 
  ## 2. [**Declaratia 406 si 406T(SAF-T)**](https://www.homecont.ro/declaratia-d406-saf-t-fisierul-standard-de-control-fiscal.htm) ([D406](https://noagroup.ro/fisierul-standard-de-control-fiscal-saf-t-si-testarea-voluntara-pentru-incarcarea-declaratiei-d406t/) audit/control financiar); Sistemul [SAF-T](https://www.pwc.ro/ro/pwc-romania-digital/tax-technology/saf-t.html)
