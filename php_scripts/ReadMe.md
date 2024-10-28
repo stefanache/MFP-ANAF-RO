@@ -1216,4 +1216,4 @@ Posibil sa doriti sa implementati un **Php-RAG** si atunci acest [post](https://
 
 <hr/>
 
-Pt cei care au nevoie de **XBRL** poate fi necesar sa vedeti [reltia](https://wp.itl.ee/wp-content/uploads/2021/02/ANNEX-II-The-mapping-between-EN-UBL-2.1-e-invoice-and-XBRL-GL-accounting-entry-data-standard.pdf) acestui limbaj de accounting cu limbajul de codificare a continutului unei e-Facturi(**UBL**). Ambele limbaje beneficiaza de suportul **XML**.
+Pt cei care au nevoie de **XBRL** poate fi necesar sa vedeti [reltia](https://wp.itl.ee/wp-content/uploads/2021/02/ANNEX-II-The-mapping-between-EN-UBL-2.1-e-invoice-and-XBRL-GL-accounting-entry-data-standard.pdf) acestui limbaj de [accounting](https://www.iasplus.com/en/projects/research/short-term/xbrl)(a se revedea standardul IAS,IFRS...) cu limbajul de codificare a continutului unei e-Facturi(**UBL**). Ambele limbaje beneficiaza de suportul **XML**.
