@@ -1215,3 +1215,5 @@ Daca doriti sa integrati **Ollama**(server local de LLM-uri) in proiectele dvs. 
 Posibil sa doriti sa implementati un **Php-RAG** si atunci acest [post](https://github.com/rzarno/php-rag) github ar putea fi un bun punct de plecare.
 
 <hr/>
+
+Pt cei care au nevoie de XBRL poate fi necesar sa vedeti [reltia](https://wp.itl.ee/wp-content/uploads/2021/02/ANNEX-II-The-mapping-between-EN-UBL-2.1-e-invoice-and-XBRL-GL-accounting-entry-data-standard.pdf) acestui limbaj de accounting cu UBL
