@@ -1244,7 +1244,7 @@ Un [exemplu](http://xbrl.squarespace.com/journal/2008/12/18/hello-world-xbrl-exa
  - Acest lucru ajută la [reducerea erorilor](https://www.xbrl.org/xbrl-json-making-xbrl-easier/) și la [economisirea de timp](https://toppanmerrill.my.site.com/BridgeCommunity/s/article/Overview-of-XBRL-XBRL-Rendering) prin [automatizarea](https://revistaie.ase.ro/content/30/andone.pdf) procesului de colectare și analiză a datelor.
  - Acest instrument de [raportare financiar-contabila](https://www.researchgate.net/publication/228435768_XBRL-a_new_language_for_accounting_and_finance_professionals) folosit de multe organizații, inclusiv autorități de reglementare, instituții financiare(IFN-uri) și companii publice.
 
-   eXtended Bussiness Reporting Language(xBRL) este un standard internaţional pentru publicarea,
+   eXtended Bussiness Reporting Language([XBRL](https://www.researchgate.net/profile/Doina-Fotache/publication/289980375_Platforme_integrate_pentru_afaceri_ERP/links/5fd0d2f1299bf188d4049941/Platforme-integrate-pentru-afaceri-ERP.pdf)) este un standard internaţional pentru publicarea,
 schimbul şi analiza financiară a datelor raportate. XBRL simplifică pregătirea şi publicarea
 documentelor financiare. Ideea este de a colecta date o singură dată şi de a le converti în
 mai multe formate, prin prelucrare automată. Standardul XBRL reprezintă pentru mediul
