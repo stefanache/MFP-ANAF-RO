@@ -1255,4 +1255,4 @@ membri din toată lumea, reprezentând companii publice şi private, agenţii gu
 colectarea şi validarea informaţiilor din raportări, conversia, diseminarea, precum şi
 schimbul acestora.
 
-XBRL [nu](https://www.yumpu.com/ro/document/read/15950759/raport-stiintific-etapa-1-biblioteca-centrala) este limitat la informatie/continut financiar[a]
+XBRL [nu](https://www.yumpu.com/ro/document/read/15950759/raport-stiintific-etapa-1-biblioteca-centrala) este limitat la informatie/[continut financiar](https://revistaie.ase.ro/content/31/stoica-ie-31.pdf){a}
