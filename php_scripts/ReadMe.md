@@ -1254,3 +1254,5 @@ membri din toată lumea, reprezentând companii publice şi private, agenţii gu
 şi agenţii de reglementare. Adoptarea XBRL în România ar reduce semnificativ costurile cu
 colectarea şi validarea informaţiilor din raportări, conversia, diseminarea, precum şi
 schimbul acestora.
+
+XBRL [nu](https://www.yumpu.com/ro/document/read/15950759/raport-stiintific-etapa-1-biblioteca-centrala) este limitat la informatie/continut financiar[a]
