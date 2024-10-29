@@ -1222,5 +1222,13 @@ In acest articol puteti vedea un [exemplu de utilizare XBRL](chrome-extension://
 
 O serie intreaga de [termeni](https://asfromania.ro/uploads/articole/attachments/6694c7418ae35354132248.pdf) pot fi clarificati(cel putin la nivel de definitie) citind acest [articol](https://www.prophix.com/blog/xbrl/)
 
-Un exemplu de raportare conform standardului IFRS il putem consulta pe ecmplul de caz [**Electrica**](https://bvb.ro/infocont/infocont24/EL_20240325190038_ELSA-RO-Sumar-rezultate-YE2023-IFRS-25Mar2024-BVB-cu-anexe-S.pdf)(companie listata pe BVB); Datorită limitarilor tehnice ale software-ului utilizat pentru prezentarea situatiilor financiare consolidate in format electronic unic european („[ESEF](https://www.forvismazars.com/ro/ro/servicii/sustenabilitate-corporativa/standardele-europene-de-raportare-sustenabila)”), tabelele incluse in notele la situatiile financniare consolidate sunt afisate intr-o maniera liniara, logica si usor de inteles. Un alt exemplu ar putea fi raportarea IFRS-EU a altei companii listatata la BVB si anume [NuclearElectrica](https://www.nuclearelectrica.ro/ir/wp-content/uploads/sites/9/2023/04/Raport-anual-2022-RO-merged.pdf);
+Un exemplu de raportare conform standardului IFRS il putem consulta pe ecmplul de caz [**Electrica**](https://bvb.ro/infocont/infocont24/EL_20240325190038_ELSA-RO-Sumar-rezultate-YE2023-IFRS-25Mar2024-BVB-cu-anexe-S.pdf)(companie listata pe BVB); Datorită limitarilor tehnice ale software-ului utilizat pentru prezentarea situatiilor financiare consolidate in format electronic unic european („[ESEF](https://www.forvismazars.com/ro/ro/servicii/sustenabilitate-corporativa/standardele-europene-de-raportare-sustenabila)”), tabelele incluse in notele la situatiile financniare consolidate sunt afisate intr-o maniera liniara, logica si usor de inteles. Un alt exemplu ar putea fi raportarea IFRS-EU a altei companii listatata la BVB si anume [NuclearElectrica](https://www.nuclearelectrica.ro/ir/wp-content/uploads/sites/9/2023/04/Raport-anual-2022-RO-merged.pdf); Incepand cu exercitiul financiar incheiat la 31 decembrie 2020, SNN intocmeste si prezinta
+rapoartele anuale intr-un format de raportare electronic unic (ESEF – European Single
+Electronic Format) conform Regulamentului delegate (UE) nr. 815/2018. Astfel raportarile
+anuale sunt diponibile si in format XHTML, iar situatiile financiare consolidate incluse in
+Raportul Anual sunt marcate utilizand limbajul de marcare XBRL. Incepand cu exercitiul
+financiar incheiat la 31 decembrie 2022, SNN eticheteaza si notele explicative la situatiile
+financiare consolidate. Astfel, ESEF crește transparența și capacitatea de utilizare a informațiilor
+financiare în luarea deciziilor de către investitori și analiști si de asemenea, implementarea ESEF
+îmbunătăți transparența piețelor de capital;
 
