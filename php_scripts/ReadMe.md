@@ -1234,5 +1234,5 @@ financiare în luarea deciziilor de către investitori și analiști si de aseme
 
 Un depozit github va poate oferi un exemplu concret de utilizare/codificare [iXBRL](https://gitlab.xbrl.org/xii/ixbrl-samples)
 
-Un exemplu interesant este acest exemplu de document contabil - Registru General(General Ledger=[GL](https://www.xbrl.org/glkeyfeatures/gl_webseminar_lutescohen_051215.pdf)) scris in XBRL
+Un exemplu interesant este acest exemplu de document contabil - Registru General(General Ledger=[GL](https://www.xbrl.org/glkeyfeatures/gl_webseminar_lutescohen_051215.pdf)) scris in [XBRL](https://www.xbrl.org/technical/guidance/hamscher-xbrl-adjacent-specs-2002-05.pdf)
 
