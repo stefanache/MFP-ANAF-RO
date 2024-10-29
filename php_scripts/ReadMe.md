@@ -1220,5 +1220,5 @@ Pt cei care au nevoie de [**XBRL**](https://www.xbrl.org/) poate fi necesar sa v
 
 In acest articol puteti vedea un [exemplu de utilizare XBRL](chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/http://revista.cafr.ro/temp/Articol_9724.pdf) iar daca vreti sa aflati lucruri despre [ESMA/ESEF si EFRAG](https://www.xbrl.ro/solutia-xbrl-center/) puteti apela cazul de bune practici privind de utilizarea/solutionarea propusa de [***XBRL center***](https://www.xbrl.ro/solutia-xbrl-center/); Foarte interesant ar putea fi sa baleiati putin serviciile oferite de [***XBRL center***](https://www.xbrl.ro/servicii/)
 
-O serie intreaga de termeni pot fi clarificati(cel putin la nivel de definitie) citind acest [articol](https://www.prophix.com/blog/xbrl/)
+O serie intreaga de [termeni](https://asfromania.ro/uploads/articole/attachments/6694c7418ae35354132248.pdf) pot fi clarificati(cel putin la nivel de definitie) citind acest [articol](https://www.prophix.com/blog/xbrl/)
 
