@@ -1252,7 +1252,9 @@ de afaceri mondial ceea ce a reprezentat protocolul TCP/IP pentru internet. XBRL
 standard internaţional creat de XBRL International, un consorţiu cu mai mult de 400 de
 membri din toată lumea, reprezentând companii publice şi private, agenţii guvernamentale
 şi agenţii de reglementare. Adoptarea XBRL în România ar reduce semnificativ costurile cu
-colectarea şi validarea informaţiilor din raportări, conversia, diseminarea, precum şi
+colectarea şi validarea informaţiilor din raportări, conversia, diseminarea, precum şik
 schimbul acestora.
 
 XBRL [nu](https://www.yumpu.com/ro/document/read/15950759/raport-stiintific-etapa-1-biblioteca-centrala) este limitat la informatie/[continut financiar](https://revistaie.ase.ro/content/31/stoica-ie-31.pdf){a}
+
+O [cautare google](https://www.google.com/search?q=github+php+xbrl&sca_esv=492959cb0fa9f70d&rlz=1C1CHBF_enRO1132RO1132&sxsrf=ADLYWILFSG4H0xhdD9I4m_PFT_gCPT0BdQ%3A1730200310404&ei=9sIgZ5CeGIuN9u8P67O6iQg&ved=0ahUKEwiQ8ZC3urOJAxWLhv0HHeuZLoEQ4dUDCA8&uact=5&oq=github+php+xbrl&gs_lp=Egxnd3Mtd2l6LXNlcnAiD2dpdGh1YiBwaHAgeGJybDIIECEYoAEYwwRI3BlQ7gpYzBdwAXgAkAEAmAGOAaABtweqAQMwLje4AQPIAQD4AQGYAgigAsIHwgIHEAAYsAMYHsICCxAAGIAEGLADGKIEwgIKECEYoAEYwwQYCsICCRAAGIAEGBMYDcICChAAGBMYCBgNGB7CAggQABiABBiiBJgDAIgGAZAGB5IHAzEuN6AH3A8&sclient=gws-wiz-serp) pe subiectul "github php xbrl" va poate conduce la depozite interesante pentru oricare dezvoltator-PhP care doreste sa se scufunde in acest subiect al XBRL-ului.
