@@ -1226,7 +1226,7 @@ Un exemplu de raportare conform standardului IFRS il putem consulta pe ecmplul d
 rapoartele anuale intr-un format de raportare electronic unic (ESEF – European Single
 Electronic Format) conform Regulamentului delegate (UE) nr. 815/2018. Astfel raportarile
 anuale sunt diponibile si in format XHTML, iar situatiile financiare consolidate incluse in
-Raportul Anual sunt marcate utilizand limbajul de marcare XBRL. Incepand cu exercitiul
+Raportul Anual sunt marcate utilizand limbajul de marcare [XBRL](https://specifications.xbrl.org/presentation.html). Incepand cu exercitiul
 financiar incheiat la 31 decembrie 2022, SNN eticheteaza si notele explicative la situatiile
 financiare consolidate. Astfel, ESEF crește transparența și capacitatea de utilizare a informațiilor
 financiare în luarea deciziilor de către investitori și analiști si de asemenea, implementarea ESEF
