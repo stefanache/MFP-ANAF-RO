@@ -1236,3 +1236,10 @@ Un depozit github va poate oferi un exemplu concret de utilizare/codificare [iXB
 
 Un exemplu interesant este acest exemplu de document contabil - Registru General(General Ledger=[GL](https://www.xbrl.org/glkeyfeatures/gl_webseminar_lutescohen_051215.pdf)) scris in [XBRL](https://www.xbrl.org/technical/guidance/hamscher-xbrl-adjacent-specs-2002-05.pdf)
 
+Ce trebuie sa [retineti](https://www.quora.com/How-does-XBRL-work)?
+
+ - XBRL este un format standardizat utilizat pentru comunicarea informațiilor financiare și de afaceri.
+ - Aceasta înseamnă eXtensible Business Reporting Language.
+ - Funcționează ca un limbaj care poate fi citit de computere pentru a partaja și analiza cu ușurință datele financiare.
+ - Acest lucru ajută la reducerea erorilor și la economisirea de timp prin automatizarea procesului de colectare și analiză a datelor.
+ - Este folosit de multe organizații, inclusiv autorități de reglementare, instituții financiare și companii publice.
