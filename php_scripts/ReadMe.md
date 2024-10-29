@@ -1234,7 +1234,7 @@ financiare în luarea deciziilor de către investitori și analiști si de aseme
 
 Un depozit github va poate oferi un exemplu concret de utilizare/codificare [iXBRL](https://gitlab.xbrl.org/xii/ixbrl-samples)
 
-Un [exemplu](http://xbrl.squarespace.com/journal/2008/12/18/hello-world-xbrl-example.html;jsessionid=41EE2DC71BF4839F592BD2BDCCC7E8C9.v5-web016) interesant este acest document contabil - Registru General(General Ledger=[GL](https://www.xbrl.org/glkeyfeatures/gl_webseminar_lutescohen_051215.pdf)) scris in [XBRL](https://www.xbrl.org/technical/guidance/hamscher-xbrl-adjacent-specs-2002-05.pdf)
+Un [exemplu](http://xbrl.squarespace.com/journal/2008/12/18/hello-world-xbrl-example.html;jsessionid=41EE2DC71BF4839F592BD2BDCCC7E8C9.v5-web016) interesant este acest document contabil - Registru General(General Ledger=[GL](https://www.xbrl.org/glkeyfeatures/gl_webseminar_lutescohen_051215.pdf)) scris in [XBRL](https://www.xbrl.org/technical/guidance/hamscher-xbrl-adjacent-specs-2002-05.pdf);Un alt exemplu se refera la Balanta de Verificare(Trial Balance = [TB](https://xbrlsite.azurewebsites.net/2019/Core/core-trialbalance/))
 
 <br/><br/>Ce trebuie sa [retineti](https://www.quora.com/How-does-XBRL-work)?
 
