@@ -1222,3 +1222,4 @@ In acest articol puteti vedea un [exemplu de utilizare XBRL](chrome-extension://
 
 O serie intreaga de [termeni](https://asfromania.ro/uploads/articole/attachments/6694c7418ae35354132248.pdf) pot fi clarificati(cel putin la nivel de definitie) citind acest [articol](https://www.prophix.com/blog/xbrl/)
 
+Un exemplu de raportare conform standardului IFRS il putem consulta pe ecmplul de caz [**Electrica**](https://bvb.ro/infocont/infocont24/EL_20240325190038_ELSA-RO-Sumar-rezultate-YE2023-IFRS-25Mar2024-BVB-cu-anexe-S.pdf)(companie listata pe BVB)
