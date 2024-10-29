@@ -1240,6 +1240,6 @@ Un exemplu interesant este acest exemplu de document contabil - Registru General
 
  - [XBRL](https://www.fujitsu.com/global/products/software/middleware/application-infrastructure/interstage/xbrltools/otherindex.html) este un format standardizat utilizat pentru comunicarea informațiilor financiare și de afaceri.
  - [XBRL](https://en.wikipedia.org/wiki/XBRL_GL) înseamnă **eXtensible Business Reporting Language**.
- - Funcționează ca un limbaj care poate fi citit de computere pentru a partaja și analiza cu ușurință datele financiare.
+ - [XBRL](https://en.wikipedia.org/wiki/XBRL) funcționează ca un limbaj care poate fi citit de computere pentru a partaja și analiza cu ușurință datele financiare.
  - Acest lucru ajută la reducerea erorilor și la economisirea de timp prin automatizarea procesului de colectare și analiză a datelor.
  - Este folosit de multe organizații, inclusiv autorități de reglementare, instituții financiare și companii publice.
