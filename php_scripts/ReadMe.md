@@ -1232,3 +1232,5 @@ financiare consolidate. Astfel, ESEF crește transparența și capacitatea de ut
 financiare în luarea deciziilor de către investitori și analiști si de asemenea, implementarea ESEF
 îmbunătăți transparența piețelor de capital;
 
+Un depozit github va poate oferi un exemplu concret de utilizare/codificare [iXBRL](https://gitlab.xbrl.org/xii/ixbrl-samples)
+
