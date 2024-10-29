@@ -1242,4 +1242,4 @@ Un exemplu interesant este acest exemplu de document contabil - Registru General
  - [XBRL](https://en.wikipedia.org/wiki/XBRL_GL) înseamnă **eXtensible Business Reporting Language**.
  - [XBRL](https://en.wikipedia.org/wiki/XBRL) funcționează ca un [limbaj](https://www.xbrl.org/guidance/xbrl-json-tutorial/) care poate fi citit de computere pentru a partaja și analiza cu ușurință datele financiare.
  - Acest lucru ajută la reducerea erorilor și la economisirea de timp prin [automatizarea](https://revistaie.ase.ro/content/30/andone.pdf) procesului de colectare și analiză a datelor.
- - Acest instrument de [raportare financiar-contabila](http://www.xbrl.org/demos/demos.htm) folosit de multe organizații, inclusiv autorități de reglementare, instituții financiare(IFN-uri) și companii publice.
+ - Acest instrument de [raportare financiar-contabila](https://www.researchgate.net/publication/228435768_XBRL-a_new_language_for_accounting_and_finance_professionals) folosit de multe organizații, inclusiv autorități de reglementare, instituții financiare(IFN-uri) și companii publice.
