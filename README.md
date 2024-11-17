@@ -634,6 +634,10 @@ Un subiect interesant este legat de erorile posibile aparute la/in raportarea [e
 Daca doriti un model de imputernicire/procura pt. deschidere cont SPV(ANAF) puteti citi acest [articol](https://www.cabinetexpert.ro/2024-02-19/model-imputernicire-procura-pentru-deschidere-cont-spv-anaf-pentru-a-putea-lucra-cu-sistemul-ro-e-factura-anaf.html)
 
 Pentru subiectul <b>eInvoicing</b> si <b>eReporting</b>  in Romania puteti citi pe acest <a href="https://marosavat.com/romania-e-invoicing-e-reporting/">website</a>.
+
+
+[RO E-Factura restartează sistemul fiscal ](https://mfinante.gov.ro/despre-minister/-/asset_publisher/uwgr/content/ro-e-factura-restarteaz-c4-83-sistemul-fiscal)
+
 </details>
 
  ## 2. [**Declaratia 406 si 406T(SAF-T)**](https://www.homecont.ro/declaratia-d406-saf-t-fisierul-standard-de-control-fiscal.htm) ([D406](https://noagroup.ro/fisierul-standard-de-control-fiscal-saf-t-si-testarea-voluntara-pentru-incarcarea-declaratiei-d406t/) audit/control financiar); Sistemul [SAF-T](https://www.pwc.ro/ro/pwc-romania-digital/tax-technology/saf-t.html)
