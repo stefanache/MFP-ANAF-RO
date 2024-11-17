@@ -638,7 +638,9 @@ Pentru subiectul <b>eInvoicing</b> si <b>eReporting</b>  in Romania puteti citi 
 
 [RO E-Factura restartează sistemul fiscal ](https://mfinante.gov.ro/despre-minister/-/asset_publisher/uwgr/content/ro-e-factura-restarteaz-c4-83-sistemul-fiscal)
 
-[Document justificativ in e-Factura](https://taxandtraining.com/calitatea-de-document-justificativ-in-contextul-ro-e-factura/)
+[Document Justificativ in  sistemul e-Factura](https://taxandtraining.com/calitatea-de-document-justificativ-in-contextul-ro-e-factura/)
+
+[Conturile Bancare in sistemul e-Factura](https://ro-efactura.ro/conturile-bancare-in-e-factura/)
 
 </details>
 
