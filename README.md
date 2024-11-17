@@ -635,6 +635,7 @@ Daca doriti un model de imputernicire/procura pt. deschidere cont SPV(ANAF) pute
 
 Pentru subiectul <b>eInvoicing</b> si <b>eReporting</b>  in Romania puteti citi pe acest <a href="https://marosavat.com/romania-e-invoicing-e-reporting/">website</a>.
 
+<b>Noutati:</b>
 
 [RO E-Factura restartează sistemul fiscal ](https://mfinante.gov.ro/despre-minister/-/asset_publisher/uwgr/content/ro-e-factura-restarteaz-c4-83-sistemul-fiscal)
 
@@ -643,6 +644,9 @@ Pentru subiectul <b>eInvoicing</b> si <b>eReporting</b>  in Romania puteti citi 
 [Conturile Bancare in sistemul e-Factura](https://ro-efactura.ro/conturile-bancare-in-e-factura/)
 
 [e-Factura si e-Transport](https://efactura-etransport.fisc.ro/)
+
+[Semnatura digitala pe Token si in Cloud](https://www.certsign.ro/ro/semnatura-electronica-calificata-pentru-e-factura/?gad_source=1&gclid=CjwKCAiAxea5BhBeEiwAh4t5K6tQKJ85dltJnZW2NiZUpLb1qLt0KFB6mx1K1OKsbrxbP-kA9oTkZRoCuPQQAvD_BwE)
+
 
 </details>
 
