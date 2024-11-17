@@ -642,6 +642,8 @@ Pentru subiectul <b>eInvoicing</b> si <b>eReporting</b>  in Romania puteti citi 
 
 [Conturile Bancare in sistemul e-Factura](https://ro-efactura.ro/conturile-bancare-in-e-factura/)
 
+[e-Factura si e-Transport](https://efactura-etransport.fisc.ro/)
+
 </details>
 
  ## 2. [**Declaratia 406 si 406T(SAF-T)**](https://www.homecont.ro/declaratia-d406-saf-t-fisierul-standard-de-control-fiscal.htm) ([D406](https://noagroup.ro/fisierul-standard-de-control-fiscal-saf-t-si-testarea-voluntara-pentru-incarcarea-declaratiei-d406t/) audit/control financiar); Sistemul [SAF-T](https://www.pwc.ro/ro/pwc-romania-digital/tax-technology/saf-t.html)
