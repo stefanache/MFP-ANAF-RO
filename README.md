@@ -647,6 +647,7 @@ Pentru subiectul <b>eInvoicing</b> si <b>eReporting</b>  in Romania puteti citi 
 
 [Semnatura digitala pe Token si in Cloud](https://www.certsign.ro/ro/semnatura-electronica-calificata-pentru-e-factura/?gad_source=1&gclid=CjwKCAiAxea5BhBeEiwAh4t5K6tQKJ85dltJnZW2NiZUpLb1qLt0KFB6mx1K1OKsbrxbP-kA9oTkZRoCuPQQAvD_BwE)
 
+[SPV vs. B.D. de procesare si evitenta tranzactii](https://www.forbes.ro/dezbatere-e-factura-constantin-rotaru-doctor-in-economie-aplicatia-spv-nu-are-viteza-si-flexibilitatea-unei-baze-de-date-destinata-evidentei-si-procesarii-tranzactiilor-369902)
 
 </details>
 
