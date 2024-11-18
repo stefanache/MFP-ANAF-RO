@@ -14,5 +14,5 @@ Eu am avut urmatorul context-software(**SW**) de instalare si rulare:
 
 Ca si context hardware(**HW**), pe PC-ul meu(**i7**, **32GB GDDR4 RAM** si **1TB SSD**) am avut la dispozitie un GPU modest(**Geforce RTX 4060**)
 
-Pentru cei ce doresc sa genereze cod folosind modele conversationale(**LLM**), va recomand, din aceiasi serie **YT**, aplicatia-exemplu: [***Qween***](https://www.youtube.com/watch?v=tMd0FcPSei4)
+Pentru cei care doresc sa genereze cod(**code generative-AI**), folosind modele conversationale(**LLM**), va recomand, din aceiasi serie **YT**, aplicatia-exemplu: [***Qween***](https://www.youtube.com/watch?v=tMd0FcPSei4)
   
