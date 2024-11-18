@@ -10,5 +10,5 @@ Eu am avut urmatorul context-software(**SW**) de instalare si rulare:
 - git(utilitarul preinstatlat si utilizat pt descarcarea/download-area depozitului github al aplicatiei-exemplu)
 - python 3.10.0 (cu environment/mediu vrtual specific: "venv", pt instalarea dependentelor: librariilor de care depinde aplicatia)
 
-Ca si context hardware(**HW**), pe PC-ul meu(**i7**,**32GB GDDR4 RAM** si **1TB SSD**) am avut la dispoziti un GPU modest(**Geforce RTX 4060**)
+Ca si context hardware(**HW**), pe PC-ul meu(**i7**, **32GB GDDR4 RAM** si **1TB SSD**) am avut la dispoziti un GPU modest(**Geforce RTX 4060**)
   
