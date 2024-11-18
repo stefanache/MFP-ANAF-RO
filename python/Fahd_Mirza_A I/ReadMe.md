@@ -1,3 +1,3 @@
 Va propun sa urmariti seria de episoade Youtube elaborate de Fahd mirza](https://www.youtube.com/results?search_query=Fahd+Mirza+AI)
 
-Mi-a atras in mod atentia acest proiect [Web LLM Assistant](https://www.youtube.com/watch?v=txflvGG_hIc); In fisierul batch **1.RUN_install** veti gasi comentate instructiunile(cu REM) pentru instalare cat si instructiunele active pt rulare. 
+Mi-a atras in mod atentia acest proiect [Web LLM Assistant](https://www.youtube.com/watch?v=txflvGG_hIc); In fisierul batch [**_1.RUN_install**](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/Fahd_Mirza_A%20I/_1.RUN_install.bat) veti gasi comentate instructiunile(cu REM) pentru instalare cat si instructiunele active pt rulare. 
