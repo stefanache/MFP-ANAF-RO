@@ -694,7 +694,7 @@ Unele [informatii](https://www.anaf.ro/anaf/internet/ANAF/despre_anaf/strategii_
 
 [Exemplul de PhP-api portughez](https://github.com/joaomfrebelo/Saft-PT_4_PHP)
 
-[Nexus despre declaratia D406/SAF-T](https://www.nexuserp.ro/blog/ce-ar-trebui-sa-cunoastem-despre-saf-t?srsltid=AfmBOoru3JmCOCsXWYlX-wFw5oX0KfyWbpYYlpRBIVa1giqaDTeOW_NQ)
+[NexusERP.ro despre declaratia D406/SAF-T](https://www.nexuserp.ro/blog/ce-ar-trebui-sa-cunoastem-despre-saf-t?srsltid=AfmBOoru3JmCOCsXWYlX-wFw5oX0KfyWbpYYlpRBIVa1giqaDTeOW_NQ), [Profit.ro despre SAF-T](https://www.profit.ro/perspective/schimbari-legislative-pentru-firme/toate-firmele-din-romania-trebuie-sa-depuna-declaratia-saf-t-in-2025-costa-pana-la-3-000-de-euro-explicatiile-unui-consultant-fiscal-21814008)
 
 </details>
 
