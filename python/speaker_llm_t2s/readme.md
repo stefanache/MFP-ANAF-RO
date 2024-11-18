@@ -22,7 +22,7 @@ Clientul acceseaza un endpoint-Flask(***http://localhost:8080/llm***) folosind *
 
 **Nota:**
 
-Operatiunea inversa **speach-to-text**(**stt**/**s2t**) poate fi asigurata prin implementarea proiectului [***speaker LLLM t2s***](https://github.com/stefanache/MFP-ANAF-RO/tree/main/python/speaker_llm_t2s/local-talking-llm)
+Operatiunea inversa(de **transcriere**) **speach-to-text**(**stt**/**s2t**) poate fi asigurata prin implementarea proiectului [***speaker LLLM t2s***](https://github.com/stefanache/MFP-ANAF-RO/tree/main/python/speaker_llm_t2s/local-talking-llm)
 
 In acest sens poate fi util si un alt proiect-client [***voice bot stt***](https://github.com/stefanache/MFP-ANAF-RO/tree/main/python/voice_bot_stt), bazat pe server-ul local **Ollma**(serverul de LLM-uri in acest caz furnizeaza LLM-ul: **llama3**)
 
