@@ -6,9 +6,9 @@ In fisierul batch [**_1.RUN_install**](https://github.com/stefanache/MFP-ANAF-RO
 
 Iata 2 exemple de cereri ce pot fi plasate in proimpter-ul cererii aplicatiei:
 
-  /latest news on AI advancements
- 
-  /github ANAF
+      /latest news on AI advancements
+     
+      /github ANAF
 
 Cea de-a 2 a cerere, spre exemplu, va lansa o cerere, catre motorul de cautare, pt string-ul **github ANAF** si va reda rezultatele aferente descoperite.
  
