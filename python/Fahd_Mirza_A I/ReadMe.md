@@ -5,6 +5,7 @@ Mi-a atras in mod atentia acest proiect [Web LLM Assistant](https://www.youtube.
 Eu am avut urmatorul context-software(**SWQ**) de instalare si rulare:
 
 - Windows 10 Pro
+- git(utilitarul preinstatlat si utilizat pt descarcarea/download-area depozitului github al aplicatiei-exemplu)
 - python 3.10.0 (cu environment/mediu vrtual specific: "venv", pt instalarea dependentelor: librariilor de care depinde aplicatia)
 
 Ca si context hardware(**HW**), pe PC-ul meu(i7,32GB RAM, 1TB SSD) am un GPU modest(Geforce RTX 4060)
