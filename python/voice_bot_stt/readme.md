@@ -61,8 +61,8 @@ In final, modelul **llama3**, beneficiind de/avand textul **intrebarii(Q)** si f
 
 <hr/>
 
+</details>
+
 **Nota**:
 
-Operatie inversa, **text-to-speach/voice** poate fi implementata urmarind proiectul [***speaker LLM t2s***](https://github.com/stefanache/MFP-ANAF-RO/tree/main/python/speaker_llm_t2s)
-
-</details>
+Operatia/Functia inversa, **text-to-speach/voice** poate fi implementata urmarind proiectul [***speaker LLM t2s***](https://github.com/stefanache/MFP-ANAF-RO/tree/main/python/speaker_llm_t2s)
