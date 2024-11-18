@@ -64,6 +64,8 @@ In final, modelul **llama3**, beneficiind de/avand textul **intrebarii(Q)** si f
 </details>
 
 <br/>
+
+
 **Nota**:
 
 O paralela/comparatie **ASR**(***Automatic Speech Recognition***, ***speech recognition*** sau [***STT*** ori ***S2T***](https://www.google.com/search?q=asr+vs+stt&rlz=1C1CHBF_enRO1132RO1132&oq=asr+vs+stt&gs_lcrp=EgZjaHJvbWUqCQgAEAAYExiABDIJCAAQABgTGIAEMgoIARAAGIAEGKIEMgoIAhAAGIAEGKIEMgoIAxAAGIAEGKIEMgoIBBAAGIAEGKIEMgoIBRAAGIAEGKIE0gEKMTk3OTBqMGoxNagCCLACAQ&sourceid=chrome&ie=UTF-8)) vs. ***TTS sau T2S*** poate fi utila pentru unii dintre voi(in acest sens puteti consulta [Google](https://www.google.com/search?q=asr+vs.+tts+stt&rlz=1C1CHBF_enRO1132RO1132&oq=asr+vs.+tts+stt&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigATIHCAQQIRiPAjIHCAUQIRiPAtIBCjE0MjMwajBqMTWoAgiwAgE&sourceid=chrome&ie=UTF-8))
