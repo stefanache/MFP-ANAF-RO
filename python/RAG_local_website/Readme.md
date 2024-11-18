@@ -596,4 +596,4 @@ Totusi as dori sa va focusez atentia spre un interesant [subiect/articol](https:
 
 Articolul poate fi interesant si pt a vedea ca exista o diferenta intre imaginile [**docker**](https://github.com/katanaml/llm-ollama-llamaindex-invoice-cpu)-izate utilizate in scopul ***dezvoltarii*** si cele pt ***productie***(care nu contin de pilda / nu ar trebui sa contina... instrumente de compilare); O explicatie simpla vine din faptul ca fazele si etapele din ciclul de viata al unui produs vin cu obiective/sarcini diferite si atunci vom avea imagini diferite;
 
-Un subiect interesant ar putea fi aceasta paralela [RIG vs. RAG](https://medium.com/@yashraj.26/rig-vs-rag-in-ai-a-comparative-overview-848c75a905d1)
+Un subiect incitant ar putea fi si aceasta paralela [RIG vs. RAG](https://medium.com/@yashraj.26/rig-vs-rag-in-ai-a-comparative-overview-848c75a905d1)
