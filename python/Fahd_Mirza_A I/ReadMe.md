@@ -1,4 +1,4 @@
-Va propun sa urmariti seria de episoade Youtube elaborate de [Fahd Mirza](https://www.youtube.com/results?search_query=Fahd+Mirza+AI)
+Va propun sa urmariti seria de episoade Youtube(**YT**) elaborate de [**Fahd Mirza**](https://www.youtube.com/results?search_query=Fahd+Mirza+AI)
 
 Mi-a atras in mod atentia acest proiect [Web LLM Assistant](https://www.youtube.com/watch?v=txflvGG_hIc); 
 
@@ -13,4 +13,6 @@ Eu am avut urmatorul context-software(**SW**) de instalare si rulare:
 - **python 3.10.0** (cu environment/mediu vrtual specific: ***venv***, pt instalarea dependentelor: librariilor de care depinde aplicatia motorului de cautare web)
 
 Ca si context hardware(**HW**), pe PC-ul meu(**i7**, **32GB GDDR4 RAM** si **1TB SSD**) am avut la dispozitie un GPU modest(**Geforce RTX 4060**)
+
+Pentru cei ce doresc sa genereze cod folosind modele conversationale(**LLM**), va recomand, din aceiasi serie **YT**, aplicatia-exemplu: [***Qween***](https://www.youtube.com/watch?v=tMd0FcPSei4)
   
