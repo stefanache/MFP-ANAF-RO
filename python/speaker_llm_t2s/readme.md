@@ -19,3 +19,8 @@ Clientul acceseaza un endpoint-Flask(***http://localhost:8080/llm***) folosind *
 **Chatbot**-ul(***app.py***) elaboreaza raspunsul-textual/iesirea iar mai apoi, **server**-ul il reda si pe acesta ***vocal/audio***(efectuand aceiasi conversie ***text-to-sound/voice*** a.k.a **tts** sau **t2s**)
 
 **Server**-ul(***app.py***) ar cam trebui [**optimizat**](https://github.com/dylanhogg/awesome-python) dar pt. inceput, acest cod poate fi un bun punct de plecare!
+
+**Nota:**
+
+Operatiunea inversa **speach-to-text**(**stt**/**s2t**) poate fi asigurata prin implementarea proiectului [speaker LLLM t2s](https://github.com/stefanache/MFP-ANAF-RO/tree/main/python/speaker_llm_t2s/local-talking-llm)
+
