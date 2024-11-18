@@ -16,6 +16,10 @@ Puteti rula oricand clientul-web al  aplicatiei-SD (avand deja/pre-startat serve
 
   [**http://127.0.0.1:7860/**](http://127.0.0.1:7860/)
 
+Odata ce ati deschis site-ul aferent clientului-web SD accesti primul tab **txt2img** si introduceti o descriere de imagine in promptul cerererii dumneavoastra.
+
+O astfel de cerere de conversie **txt2img**  poate fi, spre exemplu si cea de mai sus(***a portal into a mythical forest on the wall of my small messy bedroom***)
+
 Pentru a citi documentatia acestui client puteti deschide aun alt tab cu URL-ul:
 
   [**http://127.0.0.1:7860/docs**](http://127.0.0.1:7860/docs)
