@@ -15,3 +15,7 @@ la momentul instalarii se va crea directorul aplicatiei: ***stable-diffusion-web
 Puteti rula oricand aplicatia-SD (avand DEJApre-startaT serverul AUTOMAtic-1111) deschizand in browser-ul Chrome URL-ul urmator:
 
   [**http://127.0.0.1:7860/**](http://127.0.0.1:7860/)
+
+Pentru a citi documentatia acestui client puteti deschide aun alt tab cu URL-ul:
+
+  [**http://127.0.0.1:7860/docs**](http://127.0.0.1:7860/docs)
