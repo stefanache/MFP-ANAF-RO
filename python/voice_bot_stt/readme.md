@@ -65,6 +65,6 @@ In final, modelul **llama3**, beneficiind de/avand textul **intrebarii(Q)** si f
 
 **Nota**:
 
-O paralela/comparatie **ASR** vs. **TTS*** paote fi utila pentru unii dintre voi(in acest sens puteti consulta [Google](https://www.google.com/search?q=asr+vs.+tts+stt&rlz=1C1CHBF_enRO1132RO1132&oq=asr+vs.+tts+stt&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigATIHCAQQIRiPAjIHCAUQIRiPAtIBCjE0MjMwajBqMTWoAgiwAgE&sourceid=chrome&ie=UTF-8))
+O paralela/comparatie **ASR**(***Automatic Speech Recognition***, ***speech recognition***) vs. **TTS*** paote fi utila pentru unii dintre voi(in acest sens puteti consulta [Google](https://www.google.com/search?q=asr+vs.+tts+stt&rlz=1C1CHBF_enRO1132RO1132&oq=asr+vs.+tts+stt&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigATIHCAQQIRiPAjIHCAUQIRiPAtIBCjE0MjMwajBqMTWoAgiwAgE&sourceid=chrome&ie=UTF-8))
 
 Operatia/Functia inversa, **text-to-speach/voice** poate fi implementata urmarind proiectul [***speaker LLM t2s***](https://github.com/stefanache/MFP-ANAF-RO/tree/main/python/speaker_llm_t2s)
