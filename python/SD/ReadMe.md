@@ -20,6 +20,8 @@ Odata ce ati deschis site-ul aferent clientului-web SD accesti primul tab **txt2
 
 O astfel de cerere de conversie **txt2img**  poate fi, spre exemplu si cea de mai sus(***a portal into a mythical forest on the wall of my small messy bedroom***)
 
+Desigur mai sunt si alte tab-uri interesante dar va las placerea de a le descoperi singuri.
+
 Pentru a citi documentatia acestui client puteti deschide aun alt tab cu URL-ul:
 
   [**http://127.0.0.1:7860/docs**](http://127.0.0.1:7860/docs)
