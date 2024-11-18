@@ -9,3 +9,5 @@ De pilda as dori ca sa generez o imagine, folosind SD, pornind de la un text des
 Nimic mai simplu!
 
 Pentru aceasta instalati(comenzile comentate/prefixate cu ***REM***) o singura data(inainte de instalre decomentati si instalare recomentati la loc) si apoi rulati oricand doriti, aceasta aplicatie-SD folosind fisierul-batch: [_RUN_server_and_cli.bat](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/SD/_RUN_server_and_cli.bat)
+
+la momentul instalarii se va crea directorul aplicatiei: ***stable-diffusion-webui***
