@@ -25,3 +25,9 @@ Desigur mai sunt si alte tab-uri interesante dar va las placerea de a le descope
 Pentru a citi documentatia acestui client-SD(user-interface a.k.a ui: web) puteti deschide un alt tab in browser-ul Chrome cu/pt. URL-ul:
 
   [**http://127.0.0.1:7860/docs**](http://127.0.0.1:7860/docs)
+
+**Nota:**
+
+Uneori poate fi dificil sa creati/procurati/generati un prompt pentru aceasta aplicatie.
+
+Proiectul [SD prompt generator](https://github.com/stefanache/MFP-ANAF-RO/tree/main/python/SD/Stable-Diffusion-Prompt-Generator) vine in ajutorul dumneavoastra!
