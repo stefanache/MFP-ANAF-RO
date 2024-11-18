@@ -12,7 +12,7 @@ Pentru aceasta instalati(comenzile comentate/prefixate cu ***REM***) o singura d
 
 la momentul instalarii se va crea directorul aplicatiei: ***stable-diffusion-webui***
 
-Puteti rula oricand clientul-web al  aplicatiei-SD (avand deja/pre-startat serverul AUTOMATIC-1111) deschizand in browser-ul Chrome URL-ul urmator:
+Puteti rula oricand clientul-web al  aplicatiei-SD (avand deja/**pre-startat** serverul ***AUTOMATIC-1111***) deschizand in browser-ul Chrome URL-ul urmator:
 
   [**http://127.0.0.1:7860/**](http://127.0.0.1:7860/)
 
