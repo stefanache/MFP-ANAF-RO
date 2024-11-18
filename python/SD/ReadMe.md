@@ -30,4 +30,4 @@ Pentru a citi documentatia acestui client-SD(user-interface a.k.a ui: web) putet
 
 Uneori poate fi dificil sa creati/procurati/generati un TEXT pt **prompt**-ul necesar generarii unei IMAGINI in vederea utilizarii aceast[ei/ui] aplicatie/instrument.
 
-Proiectul [SD prompt generator](https://github.com/stefanache/MFP-ANAF-RO/tree/main/python/SD/Stable-Diffusion-Prompt-Generator) vine in ajutorul dumneavoastra!
+In acest sens, proiectul [**SD prompt generator**](https://github.com/stefanache/MFP-ANAF-RO/tree/main/python/SD/Stable-Diffusion-Prompt-Generator) vine in ajutorul dumneavoastra!
