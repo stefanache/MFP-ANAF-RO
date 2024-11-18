@@ -5,3 +5,7 @@ Probabil ca ati auzit ca puteti genera imagini plecand/pornind de la un text des
 De pilda as dori ca sa generez o imagine, folosind SD, pornind de la un text descriptiv de forma:
 
 ***a portal into a mythical forest on the wall of my small messy bedroom***
+
+Nimic mai simplu!
+
+Pentru aceasta instalati(comenzile comentate/prefixate cu ***REM***) o singura data(inainte de instalre decomentati si instalare recomentati la loc) si apoi rulati oricand doriti, aceasta aplicatie-SD folosind fisierul-batch: [_RUN_server_and_cli.bat](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/SD/_RUN_server_and_cli.bat)
