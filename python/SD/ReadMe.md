@@ -4,7 +4,7 @@ Probabil ca ati auzit ca puteti genera imagini plecand/pornind de la un text des
 
 De pilda as dori ca sa generez o imagine, folosind SD, pornind de la un text descriptiv de forma:
 
-  ***a portal into a mythical forest on the wall of my small messy bedroom***
+   ***a portal into a mythical forest on the wall of my small messy bedroom***
 
 Nimic mai simplu!
 
