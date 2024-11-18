@@ -6,9 +6,9 @@ In fisierul batch [**_1.RUN_install**](https://github.com/stefanache/MFP-ANAF-RO
 
 Eu am avut urmatorul context-software(**SW**) de instalare si rulare:
 
-- Windows 10 Pro
-- git(utilitarul preinstatlat si utilizat pt descarcarea/download-area depozitului github al aplicatiei-exemplu)
-- python 3.10.0 (cu environment/mediu vrtual specific: "venv", pt instalarea dependentelor: librariilor de care depinde aplicatia)
+- **Windows 10 Pro**
+- **git**(utilitarul preinstatlat si utilizat pt descarcarea/download-area depozitului github al aplicatiei-exemplu)
+- **python 3.10.0** (cu environment/mediu vrtual specific: ***venv***, pt instalarea dependentelor: librariilor de care depinde aplicatia motorului de cautare web)
 
 Ca si context hardware(**HW**), pe PC-ul meu(**i7**, **32GB GDDR4 RAM** si **1TB SSD**) am avut la dispozitie un GPU modest(**Geforce RTX 4060**)
   
