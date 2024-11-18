@@ -1,4 +1,4 @@
-Aici va propun instalarea server-ului [***Stable-Diffusion(SD)***](https://github.com/AUTOMATIC1111/stable-diffusion-webui/) denumit [**AUTOMATIC-11111**](https://github.com/AUTOMATIC1111/stable-diffusion-webui/) si utilizarea/exploatarea sa(pe parte de client-web).
+Aici va propun instalarea server-ului [***Stable-Diffusion(SD)***](https://github.com/AUTOMATIC1111/stable-diffusion-webui/) denumit [**AUTOMATIC-1111**](https://github.com/AUTOMATIC1111/stable-diffusion-webui/) si utilizarea/exploatarea sa(pe parte de client-web).
 
 Probabil ca ati auzit ca puteti genera imagini plecand/pornind de la un text descriptiv dat(de fapt o conversie **text to image** sau pe scurt/prescurtat **txt2Img**).
 
@@ -12,7 +12,7 @@ Pentru aceasta instalati(comenzile comentate/prefixate cu ***REM***) o singura d
 
 la momentul instalarii se va crea directorul aplicatiei: ***stable-diffusion-webui***
 
-Puteti rula oricand aplicatia-SD (avand DEJApre-startaT serverul AUTOMAtic-1111) deschizand in browser-ul Chrome URL-ul urmator:
+Puteti rula oricand clientul-web al  aplicatiei-SD (avand deja/pre-startat serverul AUTOMATIC-1111) deschizand in browser-ul Chrome URL-ul urmator:
 
   [**http://127.0.0.1:7860/**](http://127.0.0.1:7860/)
 
