@@ -22,6 +22,6 @@ O astfel de cerere de conversie **txt2img**  poate fi, spre exemplu si cea de ma
 
 Desigur mai sunt si alte tab-uri interesante dar va las placerea de a le descoperi singuri.
 
-Pentru a citi documentatia acestui client-SD(user-interface a.k.a ui: web) puteti deschide aun alt tab cu URL-ul:
+Pentru a citi documentatia acestui client-SD(user-interface a.k.a ui: web) puteti deschide un alt tab in browser-ul Chrome cu/pt. URL-ul:
 
   [**http://127.0.0.1:7860/docs**](http://127.0.0.1:7860/docs)
