@@ -1,4 +1,4 @@
-Va propun sa urmariti [seria](https://www.youtube.com/results?search_query=Fahd+Mirza) de [episoade](https://github.com/fahdmirza) Youtube(**YT**) elaborate de [**Fahd Mirza**](https://www.youtube.com/results?search_query=Fahd+Mirza+AI)
+Va propun sa urmariti [seria](https://www.youtube.com/results?search_query=Fahd+Mirza) de [episoade](https://github.com/fahdmirza) Youtube([**YT**](https://www.linkedin.com/in/fahdmirza/?originalSubdomain=au)) elaborate de [**Fahd Mirza**](https://www.youtube.com/results?search_query=Fahd+Mirza+AI)
 
 Mi-a atras in mod atentia acest proiect [Web LLM Assistant](https://www.youtube.com/watch?v=txflvGG_hIc); 
 
