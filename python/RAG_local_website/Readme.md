@@ -598,4 +598,4 @@ Articolul poate fi interesant si pt a vedea ca exista o diferenta intre imaginil
 
 Un subiect incitant ar putea fi si aceasta paralela [RIG vs. RAG](https://medium.com/@yashraj.26/rig-vs-rag-in-ai-a-comparative-overview-848c75a905d1)
 
-Daca doriti sa calculati necesarul de [**memorie GPU(M)**](https://www.substratus.ai/blog/calculating-gpu-memory-for-llm) pt livrarea/(de)servirea unui model **LLM**(ex. LLM = **Llama** ***70B parameters*** incarcat cu/pe ***16 biti***, deci avand ca date de intrare: *** pt. parametrizare de P=70 B params si cu o quntizare de/pe Q=16 bits*** obtinem o mewmorie-GPU necesara de **M=168 GB**) puteti urmari acest [video-YT](https://www.youtube.com/watch?v=LEkdoV5nNW4)
+Daca doriti sa calculati necesarul de [**memorie GPU(M)**](https://www.substratus.ai/blog/calculating-gpu-memory-for-llm) pt livrarea/(de)servirea unui model **LLM**(ex. LLM = **Llama** ***70B parameters*** incarcat cu/pe ***16 biti***, deci avand ca date de intrare: *** pt. parametrizare de P=70 B params si cu o quntizare de/pe Q=16 bits*** obtinem o memorie-GPU necesara de **M=168 GB**) puteti urmari acest [video-YT](https://www.youtube.com/watch?v=LEkdoV5nNW4)
