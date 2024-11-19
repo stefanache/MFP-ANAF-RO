@@ -598,4 +598,4 @@ Articolul poate fi interesant si pt a vedea ca exista o diferenta intre imaginil
 
 Un subiect incitant ar putea fi si aceasta paralela [RIG vs. RAG](https://medium.com/@yashraj.26/rig-vs-rag-in-ai-a-comparative-overview-848c75a905d1)
 
-Daca doriti sa calculati necesarul de GPU pt livrarea/deservirea unui model LLM(ex. Llama 70B, P=70) puteti urmari acest [video-YT](https://www.youtube.com/watch?v=LEkdoV5nNW4)
+Daca doriti sa calculati necesarul de GPU pt livrarea/deservirea unui model LLM(ex. LLM=Llama 70B parameters incarcaT CU 16 biti,deci  P=70), Q=16 M=168 GB) puteti urmari acest [video-YT](https://www.youtube.com/watch?v=LEkdoV5nNW4)
