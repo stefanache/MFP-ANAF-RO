@@ -605,3 +605,4 @@ O astfel de reducere a necesarului de resurse(de exemplu, un model cu 7 miliarde
 **Nota:** 
  - [aici](https://ro.wikipedia.org/wiki/Principiul_Pareto) puteti citi despre reducerea [***Pareto***](https://arxiv.org/html/2402.17764v1)(utila in intelegerea noilor modele/cadre de/pe 1 bit/**b1.5**)
  - iata o paralela intre : [BitNet.cpp vs. Llama.cpp ](https://medium.com/data-science-in-your-pocket/bitnet-cpp-vs-llama-cpp-run-llms-on-cpu-44d1e665d692)
+ - run **BitNet** on [single CPU](https://www.youtube.com/watch?v=1EkCYmcSke8&ab_channel=MervinPraison)
