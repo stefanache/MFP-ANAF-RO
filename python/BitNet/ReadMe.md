@@ -28,5 +28,5 @@ Eu aici am descarcat tot dar din pacate directorul data este gol pt ca nu am put
 Fisierul de rulare este [_RUN.bat]()
 
 Nota:
-- decomentati(stergeti REM din fata liniilor de comanda) rand pe rand fiecare exemplu in parte
+- decomentati(stergeti REM din fata liniilor de comanda) rand pe rand, pentru a rula fiecare exemplu in parte
 - puteti aprofunda daca doriti si acest subiect al cuantizarii prezentat in finalul lucrarii [RAG_local_website](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/RAG_local_website)
