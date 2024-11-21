@@ -1,4 +1,4 @@
-<b>Abstract:</b>
+<b>Abstract / Rezumat:</b>
 <hr/>
     <pre>
         Dimensiunea tot mai mare a modelelor lingvistice mari a impus provocări pentru implementarea acestora și 
