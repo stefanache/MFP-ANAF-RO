@@ -1,6 +1,10 @@
 @echo off
 cls
 echo https://github.com/kyegomez/BitNet/tree/main
+echo ...NOTE:
+echo ...firstly download this repository from .... https://github.com/kyegomez/BitNet/tree/main
+echo ...I have in this repository that download except data subdirectory which is greater thar 25kB...!!!!!
+echo ...
 echo https://www.gpu-mart.com/blog/Installing-pytorch-with-cuda-support-on-Windows
 
 echo W10Pro with python 3.10
