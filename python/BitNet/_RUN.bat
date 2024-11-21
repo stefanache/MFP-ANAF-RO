@@ -33,9 +33,10 @@ rem python app_Optimized_Cuda_Kernel.py
 REM echo https://towardsdatascience.com/bit-lora-as-an-application-of-bitnet-and-1-58-bit-neural-network-technologies-17ee80bf79f9
 REM python app_BitLora.py
 
+REM echo https://github.com/state-spaces/mamba
 REM python app_BitMamba.py
 
-REM echo MoE=Mixture-of-Experts LLM 
+REM echo MoE=Mixture-of-Experts LLM(see at https://gitea.swigg.net/dustins/llama.cpp)
 REM python app_BitMoE.py
 
 python app_1_Bit_Vision_Transformers.py
