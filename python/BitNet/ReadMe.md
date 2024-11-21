@@ -8,10 +8,10 @@
     modele de limbaj mari(LLM). 
         Mai exact, prezentăm(din zbor/succint)<b>BitLinear</b> ca  o înlocuire drop-in a stratului <b>nn.Linear</b> pentru a antrena/invata 
     greutăți(<b>W</b>eights) de 1 bit(<b>1.58b</b>). 
-        Rezultatele experimentale privind modelarea lingvistică arată că BitNet reușește  o performanță competitivă, reducând 
+        Rezultatele experimentale privind modelarea lingvistică arată că <b>BitNet</b> reușește  o performanță competitivă, reducând 
     în același timp substanțial  amprenta memoriei și consumul de energie, în comparație cu metodele de cuantizare de ultimă 
     generație pe 8 biți(<b>8b</b>) și FP<b>16</b> - Liniile de bază ale transformatorului. 
-        În plus, BitNet prezintă o lege/regula de scalare asemănătoare Transformatorilor de precizie completă, 
+        În plus, <b>BitNet</b> prezintă o lege/regula de scalare asemănătoare Transformatorilor de precizie completă, 
     sugerând potențialul său de scalare eficientă la egalitate modele de limbaj mai mari(LLM), menținând în același timp
     beneficiile de eficiență și performanță. 
         ...
