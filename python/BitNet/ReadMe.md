@@ -32,4 +32,5 @@ Fisierul de rulare al exemplelor acestui proiect [**bitnet**](https://github.com
 Observatii:
 - decomentati(stergeti REM din fata liniilor de comanda) rand pe rand, pentru a rula fiecare exemplu in parte
 - puteti aprofunda daca doriti si acest subiect al cuantizarii prezentat in finalul lucrarii [RAG_local_website](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/RAG_local_website)
-- un [exemplu de utilizare BitNet(BitLinear)](https://huggingface.co/blog/smollm) poate fi gasit in acest proiect intitulat [Bitnet-SmolLM-135M](https://huggingface.co/ighoshsubho/Bitnet-SmolLM-135M)
+- un [exemplu de utilizare BitNet(BitLinear)](https://huggingface.co/blog/smollm) poate fi gasit in acest proiect intitulat [Bitnet-SmolLM-135M](https://huggingface.co/ighoshsubho/Bitnet-SmolLM-135M);
+  Modelele **SmolLM** sunt concepute pentru a fi mici și pot rula local pe diverse configurații hardware(spre exemplu pot rula pe un iPhone 15 care are 6 GB de DRAM sau pe un iPhone 15 Pro care are 8 GB).
