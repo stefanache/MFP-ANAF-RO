@@ -1,5 +1,5 @@
 
-Va propun sa incercati/lucrat cu libraria [**bitnet**](https://github.com/kyegomez/BitNet/tree/main)
+Pornind de la acest [studiu](https://arxiv.org/pdf/2310.11453), va propun sa incercati/lucrat cu libraria [**bitnet**](https://github.com/kyegomez/BitNet/tree/main)
 
 Inainte de toate descarcati continutul depozitului [bitnet](https://github.com/kyegomez/BitNet/tree/main);
 
