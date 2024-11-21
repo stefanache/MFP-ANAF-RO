@@ -11,7 +11,8 @@ echo W10Pro with python 3.10
 cd C:\development\python\BitNet
 
 REM pip install transformers==4.44.2
-REM pip install torch==2.5.1 torchvision==0.20.1 torchaudio==2.0.1+cu118 torch-cluster==1.6.3+pt20cu118 torch_tensorrt==2.5.0 TorchFix==0.7.0 --index-url https://download.pytorch.org/whl/cu118
+REM pip install torch torchvision torchaudio torch-cluster torch_tensorrt --index-url https://download.pytorch.org/whl/cu118
+rem pip install torch==2.5.1 torchvision==0.20.1 torchaudio==2.0.1+cu118 torch-cluster==1.6.3+pt20cu118 torch_tensorrt==2.5.0 TorchFix==0.7.0 --index-url https://download.pytorch.org/whl/cu118
 REM pip install bitnet==0.2.5
 
 echo python example.py:
