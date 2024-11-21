@@ -6,7 +6,7 @@
         În această lucrare, se prezintă <b>BitNet</b>, o arhitectură Transformer scalabilă și stabilă pe/de 1 bit, concepută pentru 
     modele de limbaj mari(LLM). 
         Mai exact, prezentăm(din zbor/succint)<b>BitLinear</b> ca  o înlocuire drop-in a stratului <b>nn.Linear</b> pentru a antrena 
-    greutăți(<b>W</b>eights) de 1 bit. 
+    greutăți(<b>W</b>eights) de 1 bit(1.58b). 
         Rezultatele experimentale privind modelarea lingvistică arată că BitNet reușește  o performanță competitivă, reducând 
     în același timp substanțial  amprenta memoriei și consumul de energie, în comparație cu metodele de cuantizare de ultimă 
     generație pe 8 biți și FP16 - Liniile de bază ale transformatorului. 
