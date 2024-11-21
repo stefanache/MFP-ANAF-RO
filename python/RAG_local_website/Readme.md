@@ -603,7 +603,7 @@ Cuantizarea(memorararea) se poate face pe **16**, **8** ori **4** biti per (fiec
 O astfel de reducere a necesarului de resurse(de exemplu, un model cu 7 miliarde de parametri care ar necesita în mod normal aproximativ 26 GB poate fi redus la doar 0,815 GB) permite procesarea/rularea pe procesoare/dispozitive avand [resurse limitate](https://adasci.org/a-practitioners-guide-on-inferencing-over-1-bit-llms-using-bitnet-cpp/), asa cum sunt si telefoanele mobile, [RPi5 8GB](https://www.eddieoz.com/building-bitnet-on-raspberry-pi-5-arm64-2/) si [asta](https://medium.com/@wesselbraakman/run-llama-on-your-raspberry-pi-5-without-using-ollama-7ebc128ff34e) fara a rula Ollama... ) 
 
 **Nota:** 
- - [aici](https://ro.wikipedia.org/wiki/Principiul_Pareto) puteti citi despre reducerea [***Pareto***](https://arxiv.org/html/2402.17764v1)(utila in intelegerea noilor modele/cadre de/pe 1 bit/[**b1.58**](https://dev.to/0xkoji/accelerate-1-bit-llm-inference-with-bitnet-on-wsl2-ubuntu-3363))
+ - [aici](https://ro.wikipedia.org/wiki/Principiul_Pareto) puteti citi despre reducerea [***Pareto***](https://arxiv.org/html/2402.17764v1)(utila in intelegerea noilor modele/cadre de/pe [1 bit](https://askubuntu.com/questions/320996/how-to-make-python-program-command-execute-python-3)/[**b1.58**](https://dev.to/0xkoji/accelerate-1-bit-llm-inference-with-bitnet-on-wsl2-ubuntu-3363))
  - iata o paralela intre : [BitNet.cpp vs. Llama.cpp ](https://medium.com/data-science-in-your-pocket/bitnet-cpp-vs-llama-cpp-run-llms-on-cpu-44d1e665d692)
  - rulați modele de limbaj mari(LLM) pe 1 bit la nivel local utilizand/pe un singur CPU(procesor & memorie RAM) cu [BitNet b1.58](https://www.youtube.com/watch?v=1EkCYmcSke8&ab_channel=MervinPraison)!
 
