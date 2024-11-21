@@ -7,7 +7,7 @@ echo ...I have in this repository that download except data subdirectory which i
 echo ...
 echo https://www.gpu-mart.com/blog/Installing-pytorch-with-cuda-support-on-Windows
 
-echo W10Pro with python 3.10
+echo Windows 10 (Pro) with python 3.10
 cd C:\development\python\BitNet
 
 REM pip install transformers==4.44.2
