@@ -6,7 +6,7 @@
     consumata pt procesare.
         În această lucrare, se prezintă <b>BitNet</b>, o arhitectură <b>Transformer(convertor)</b> scalabilă și stabilă pe/de 1 bit, concepută
     pentru modele de limbaj mari(LLM). 
-        Mai exact, prezentăm(din zbor/succint)<b>BitLinear</b> ca  o înlocuire drop-in a stratului <b>nn.Linear</b> pentru a antrena/invata 
+        Mai exact, prezentăm(din zbor/succint)<b>BitLinear</b> ca o înlocuire drop-in a stratului <b>nn.Linear</b> pentru a antrena/invata 
     greutăți(<b>W</b>eights) de 1 bit(<b>1.58b</b>). 
         Rezultatele experimentale privind modelarea lingvistică arată că <b>BitNet</b> reușește  o performanță competitivă, reducând 
     în același timp substanțial  amprenta memoriei și consumul de energie, în comparație cu metodele de cuantizare de ultimă 
