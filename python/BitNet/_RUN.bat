@@ -19,11 +19,17 @@ echo python example.py:
 REM python app_BitLinear.py 
 
 REM python app_BitLinearNew.py 
+
 REM python app_BitNetTransformer.py
+
 REM python app_BitAttention.py 
+
 REM python app_BitFeedForward.py
+
 rem python app_Inference.py
+
 REM python app_Huggingface_Usage.py
+
 REM python app_Drop_in_Replacement_for_Pytorch_Models.py
 
 rem echo https://pydigger.com/pypi/bitnet
