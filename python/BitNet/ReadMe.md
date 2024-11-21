@@ -1,8 +1,9 @@
 <b>Abstract / Rezumat:</b>
 <hr/>
     <pre>
-        Dimensiunea tot mai mare a modelelor lingvistice mari a impus provocări pentru implementarea acestora și 
-    a exprimat îngrijorări cu privire la impactul/amprenta asupra mediului din cauza consumului ridicat de energie.
+        Dimensiunea tot mai mare a modelelor lingvistice mari(LLM) a impus/adus noi provocări pentru implementarea acestora și 
+    au fost exprimate îngrijorări cu privire la impactul/amprenta asupra mediului din cauza consumului ridicat de energie 
+    consumata pt procesare.
         În această lucrare, se prezintă <b>BitNet</b>, o arhitectură Transformer scalabilă și stabilă pe/de 1 bit, concepută pentru 
     modele de limbaj mari(LLM). 
         Mai exact, prezentăm(din zbor/succint)<b>BitLinear</b> ca  o înlocuire drop-in a stratului <b>nn.Linear</b> pentru a antrena 
