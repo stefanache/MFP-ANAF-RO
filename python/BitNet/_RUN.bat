@@ -39,6 +39,7 @@ rem python app_Optimized_Cuda_Kernel.py
 REM echo https://towardsdatascience.com/bit-lora-as-an-application-of-bitnet-and-1-58-bit-neural-network-technologies-17ee80bf79f9
 REM echo LoRA (Low-Rank Adaptation) is a machine learning(ML) technique for efficiently fine-tuning large language models(LLM):
 REM echo https://github.com/ggerganov/llama.cpp/discussions/10123
+REM echo https://www.unite.ai/ro/lora-qlora-and-qa-lora-efficient-adaptability-in-large-language-models-through-low-rank-matrix-factorization/
 REM python app_BitLora.py
 
 REM echo https://github.com/state-spaces/mamba
