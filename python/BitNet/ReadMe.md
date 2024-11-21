@@ -7,7 +7,7 @@
         În această lucrare, se prezintă <b>BitNet</b>, o noua arhitectură <b>Transformer(convertor)</b> scalabilă și stabilă pe/de 1 bit, 
     concepută pentru modele de limbaj mari(LLM). 
         Mai exact, prezentăm(din zbor/succint)<b>BitLinear</b> ca o înlocuire drop-in a stratului <b>nn.Linear</b> pentru a antrena/invata 
-    greutăți(<b>W</b>eights) de 1 bit(<b>1.58b</b>). 
+    greutăți(<b>W</b>eights) adica parametrii de/stocati pe 1 bit(de fapt au 3 valori:-1,0,1 si deci se vor stoca pe<b>1.58b</b>iti). 
         Rezultatele experimentale privind modelarea lingvistică arată că <b>BitNet</b> reușește  o performanță competitivă, reducând 
     în același timp substanțial  amprenta memoriei și consumul de energie, în comparație cu metodele de cuantizare de ultimă 
     generație pe 8 biți(<b>8b</b>) și FP<b>16</b> - Liniile de bază ale transformatorului(convertorului). 
