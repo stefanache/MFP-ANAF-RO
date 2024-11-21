@@ -13,7 +13,9 @@ cd C:\development\python\BitNet
 REM pip install torch==2.5.1 torchvision==0.20.1 torchaudio==2.0.1+cu118 torch-cluster==1.6.3+pt20cu118 torch_tensorrt==2.5.0 TorchFix==0.7.0 --index-url https://download.pytorch.org/whl/cu118
 REM pip install bitnet
 
+echo python example.py:
 REM python app_BitLinear.py 
+
 REM python app_BitLinearNew.py 
 REM python app_BitNetTransformer.py
 REM python app_BitAttention.py 
