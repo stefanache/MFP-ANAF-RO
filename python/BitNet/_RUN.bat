@@ -53,6 +53,7 @@ REM echo https://www.unite.ai/ro/mamba-redefining-sequence-modeling-and-outformi
 REM python app_BitMamba.py
 
 REM echo MoE=Mixture-of-Experts LLM(see at https://gitea.swigg.net/dustins/llama.cpp)
+REM echo https://aimojo.io/ro/mixture-of-experts-large-language-models/
 REM python app_BitMoE.py
 
 python app_1_Bit_Vision_Transformers.py
