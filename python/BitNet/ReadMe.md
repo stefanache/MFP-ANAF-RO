@@ -32,4 +32,4 @@ Fisierul de rulare al exemplelor acestui proiect [**bitnet**](https://github.com
 Observatii:
 - decomentati(stergeti REM din fata liniilor de comanda) rand pe rand, pentru a rula fiecare exemplu in parte
 - puteti aprofunda daca doriti si acest subiect al cuantizarii prezentat in finalul lucrarii [RAG_local_website](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/RAG_local_website)
-- un exemoplu de utilizare BitNet o puteti gasi in acest proiect intitulat [Bitnet-SmolLM-135M](https://huggingface.co/ighoshsubho/Bitnet-SmolLM-135M
+- un exemoplu de utilizare BitNet o puteti gasi in acest proiect intitulat [Bitnet-SmolLM-135M](https://huggingface.co/ighoshsubho/Bitnet-SmolLM-135M)
