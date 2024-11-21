@@ -34,6 +34,9 @@ REM echo https://towardsdatascience.com/bit-lora-as-an-application-of-bitnet-and
 REM python app_BitLora.py
 
 REM python app_BitMamba.py
+
+REM echo MoE=Mixture-of-Experts LLM 
 REM python app_BitMoE.py
+
 python app_1_Bit_Vision_Transformers.py
 pause
