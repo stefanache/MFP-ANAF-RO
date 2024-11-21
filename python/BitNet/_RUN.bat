@@ -37,6 +37,8 @@ rem python setup.py build_ext --inplace |more
 rem python app_Optimized_Cuda_Kernel.py
 
 REM echo https://towardsdatascience.com/bit-lora-as-an-application-of-bitnet-and-1-58-bit-neural-network-technologies-17ee80bf79f9
+REM echo LoRA (Low-Rank Adaptation) is a machine learning technique for efficiently fine-tuning large language models:
+REM echo https://github.com/ggerganov/llama.cpp/discussions/10123
 REM python app_BitLora.py
 
 REM echo https://github.com/state-spaces/mamba
