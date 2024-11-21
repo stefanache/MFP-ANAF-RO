@@ -32,7 +32,7 @@ De asemenea, va recomand sa cititi si acest [README](https://github.com/stefanac
 
 Fisierul de rulare al exemplelor acestui proiect [**bitnet**](https://github.com/kyegomez/BitNet/tree/main) este [_RUN.bat]()
 
-Observatii:
+<b>Observatii</b>:
 - decomentati(stergeti REM din fata liniilor de comanda) rand pe rand, pentru a rula fiecare exemplu in parte
 - puteti aprofunda daca doriti si acest subiect al cuantizarii prezentat in finalul lucrarii [RAG_local_website](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/RAG_local_website)
 - un [exemplu de utilizare BitNet(BitLinear)](https://huggingface.co/blog/smollm) poate fi gasit in acest proiect intitulat [Bitnet-SmolLM-135M](https://huggingface.co/ighoshsubho/Bitnet-SmolLM-135M);
