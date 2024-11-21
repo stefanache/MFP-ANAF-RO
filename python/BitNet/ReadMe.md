@@ -3,7 +3,8 @@
     <pre>
         Dimensiunea tot mai mare a modelelor lingvistice mari a impus provocări pentru implementarea acestora și 
     a exprimat îngrijorări cu privire la impactul/amprenta asupra mediului din cauza consumului ridicat de energie.
-        În această lucrare, se prezintă <b>BitNet</b>, o arhitectură Transformer scalabilă și stabilă pe 1 bit, concepută pentru modele de limbaj mari. 
+        În această lucrare, se prezintă <b>BitNet</b>, o arhitectură Transformer scalabilă și stabilă pe 1 bit, concepută pentru 
+    modele de limbaj mari(LLM). 
         Mai exact, prezentăm <(din zbor/succint)b>BitLinear</b> ca  o înlocuire drop-in a stratului <b>nn.Linear</b> pentru a antrena greutăți de 1 bit. 
         Rezultatele experimentale privind modelarea lingvistică arată că BitNet reușește  o performanță competitivă, reducând în același timp substanțial 
     amprenta memoriei și consumul de energie, în comparație cu metodele de cuantizare de ultimă generație pe 8 biți și FP16 - Liniile de bază ale transformatorului. 
