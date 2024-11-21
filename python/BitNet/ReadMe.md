@@ -24,7 +24,7 @@ Inainte de toate descarcati continutul depozitului [bitnet](https://github.com/k
 De asemenea, va recomand sa cititi si acest [README](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/BitNet/README_1st.md) al proiectului original(pe care eu l-am redenumit !!!)
 
 Eu aici(in [acest depozit](python/BitNet)) am incercat sa descarc tot/intreg proiectul [**bitnet**](https://github.com/kyegomez/BitNet/tree/main)
- dar din pacate directorul **data** este gol, pt ca nu am putut incarca si fisierul **enwik8.GZ** - care este mai mare decat 25kB(limita maxima prevazuta de cei de la Github)
+ dar din pacate directorul [**data**](https://github.com/kyegomez/BitNet/tree/main/data) este gol, pt ca nu am putut incarca si fisierul [**enwik8.GZ**](https://github.com/kyegomez/BitNet/tree/main/data) - care este mai mare decat 25kB(limita maxima prevazuta de cei de la Github)
 
 Fisierul de rulare este [_RUN.bat]()
 
