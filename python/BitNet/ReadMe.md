@@ -11,7 +11,8 @@
     în același timp substanțial  amprenta memoriei și consumul de energie, în comparație cu metodele de cuantizare de ultimă 
     generație pe 8 biți și FP16 - Liniile de bază ale transformatorului. 
         În plus, BitNet prezintă o lege/regula de scalare asemănătoare Transformatorilor de precizie completă, 
-    sugerând potențialul său de scalare eficientă la egalitate modele de limbaj mai mari(LLM), menținând în același timp beneficiile de eficiență și performanță. 
+    sugerând potențialul său de scalare eficientă la egalitate modele de limbaj mai mari(LLM), menținând în același timp
+    beneficiile de eficiență și performanță. 
         ...
     </pre>
 <hr/>
