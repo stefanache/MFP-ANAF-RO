@@ -1,4 +1,4 @@
-<b>Abstract / Rezumat:</b>
+<a href="(https://arxiv.org/pdf/2310.11453)"><b>Abstract / Rezumat:</b></a>
 <hr/>
     <pre>
         Dimensiunea tot mai mare a modelelor lingvistice mari(LLM) a impus/adus noi provocări pentru implementarea acestora și 
