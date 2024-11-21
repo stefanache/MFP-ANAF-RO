@@ -42,11 +42,12 @@ REM echo https://github.com/ggerganov/llama.cpp/discussions/10123
 REM python app_BitLora.py
 
 REM echo https://github.com/state-spaces/mamba
-REM echo Mamba: Linear-Time Sequence Modeling with Selective State Spaces(SSSs)
+REM echo Mamba: Linear-Time Sequence Modeling with Selective State Spaces(SSSs=spatii de stare selective)
 REM echo Mamba is a new state space model(SSM) architecture showing promising performance on information-dense data such as language modeling, ...
 REM echo ...where previous subquadratic models fall short of Transformers. ... 
 REM echo ...It is based on the line of progress on structured state space models(SSMs), with an efficient hardware/HW-aware design and ...
 REM echo ...implementation in the spirit of FlashAttention.
+REM echo https://www.unite.ai/ro/mamba-redefining-sequence-modeling-and-outforming-transformers-architecture/
 REM python app_BitMamba.py
 
 REM echo MoE=Mixture-of-Experts LLM(see at https://gitea.swigg.net/dustins/llama.cpp)
