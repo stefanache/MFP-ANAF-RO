@@ -607,4 +607,5 @@ O astfel de reducere a necesarului de resurse(de exemplu, un model cu 7 miliarde
  - iata o paralela intre : [BitNet.cpp vs. Llama.cpp ](https://medium.com/data-science-in-your-pocket/bitnet-cpp-vs-llama-cpp-run-llms-on-cpu-44d1e665d692)
  - rulați modele de limbaj mari(LLM) pe 1 bit la nivel local utilizand/pe un singur CPU(procesor & memorie RAM) cu [ b1.58](https://www.youtube.com/watch?v=1EkCYmcSke8&ab_channel=MervinPraison)!
  - ...mai multe despre subiectul [BitNet](https://github.com/stefanache/MFP-ANAF-RO/tree/main/python/BitNet) poate fi consultat si [aici](https://github.com/stefanache/MFP-ANAF-RO/tree/main/python/BitNet)
+ - un alt proiect de luat in considerare poate fi acesta al instalariii server-ului [**Ollama in GCP**](https://www.youtube.com/watch?v=3tkmnItNXJM)(cloud-ul Google)
 
