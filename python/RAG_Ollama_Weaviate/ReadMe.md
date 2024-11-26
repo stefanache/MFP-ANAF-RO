@@ -29,7 +29,7 @@ Zona mea particulara/specifica/privata adica **datele primare** de intrare care 
         ollama pull llama2
         ollama pull all-minilm
 
-Pentru a verifica daca s-au instalat cele 2 [modele](https://www.datacamp.com/tutorial/llama-3-1-rag) sau pentru a verifica daca nu aveti deja instalate cele 2 modele(cu alta ocazie), veti putea plasa comanda shell(cmd.exe):
+Pentru a verifica daca s-au instalat cele 2 [modele](https://www.datacamp.com/tutorial/llama-3-1-rag) sau pentru a verifica daca nu aveti deja instalate cele 2 [modele](https://qwenlm.github.io/blog/qwen2-math/)(cu alta ocazie), veti putea plasa comanda shell(cmd.exe):
 
         ollama list
    
