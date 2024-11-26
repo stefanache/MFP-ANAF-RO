@@ -14,13 +14,13 @@ Zona mea particulara/specifica/privata adica **datele primare** de intrare care 
         ]
 
 
-   Odata ce ati [incarcat/ingerat](https://github.com/stefanache/MFP-ANAF-RO/edit/main/python/RAG_Ollama_Weaviate/_2a.RUN_client_ingest.bat) datele in ***Weaviate***, le puteti utiliza/consuma/digera, ori de cate ori doriti, pt conversatia cu RAG-ul dvs.
+   Odata ce ati [incarcat/ingerat](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/RAG_Ollama_Weaviate/_2a.RUN_client_ingest.bat) datele in ***Weaviate***, le puteti utiliza/consuma/digera, ori de cate ori doriti, pt conversatia cu RAG-ul dvs.
 
-   Am incercat in acest [proiect](https://github.com/stefanache/MFP-ANAF-RO/tree/main/python/RAG_Ollama_Weaviate), pe partea de **client**,  sa separ partea de [***ingestie***](https://github.com/stefanache/MFP-ANAF-RO/edit/main/python/RAG_Ollama_Weaviate/_2a.RUN_client_ingest.bat) de partea de [***digestie***](https://github.com/stefanache/MFP-ANAF-RO/edit/main/python/RAG_Ollama_Weaviate/_2b.RUN_client_rag.bat)(**RAG**-ul propriu zis-deci partea conversationala cu serverul-LLM **Ollama**)
+   Am incercat in acest [proiect](https://github.com/stefanache/MFP-ANAF-RO/tree/main/python/RAG_Ollama_Weaviate), pe partea de **client**,  sa separ partea de [***ingestie***](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/RAG_Ollama_Weaviate/_2a.RUN_client_ingest.bat) de partea de [***digestie***](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/RAG_Ollama_Weaviate/_2b.RUN_client_rag.bat)(**RAG**-ul propriu zis-deci partea conversationala cu serverul-LLM **Ollama**)
 
    Asadar partea de ingestie(clientul de incarcare/memorare persistenta a datelor in baza de date vectoriala ***Weaviate***) se efectueaza/ruleaza o singura data, in timp ce partea de digestie/consum/conversatia propriu-zisa(clientul RAG) se ruleaza ori de cate ori doriti.
    
-   Pe parte de client, aceste 2 parti(***_2a.RUN_client_ingest.bat*** si ***_2b.RUN_client_rag.bat***), pt rulare, necesita in prealabil ca sa fie startata/rulata(doar minizati fereastra/consola server-ului dar nu o inchideti) partea de [server](https://github.com/stefanache/MFP-ANAF-RO/edit/main/python/RAG_Ollama_Weaviate/_1.RUN_sever.bat)-dockerizata a SGBD-ului vectorial ***Weaviate***(***_1.RUN_sever.bat***).
+   Pe parte de client, aceste 2 parti(***_2a.RUN_client_ingest.bat*** si ***_2b.RUN_client_rag.bat***), pt rulare, necesita in prealabil ca sa fie startata/rulata(doar minizati fereastra/consola server-ului dar nu o inchideti) partea de [server](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/RAG_Ollama_Weaviate/_1.RUN_sever.bat)-dockerizata a SGBD-ului vectorial ***Weaviate***(***_1.RUN_sever.bat***).
 
    Nu uitati!...in plus, pe parte de client, pentru partea de digestie/**RAG**(***_2b.RUN_client_rag.bat***) trebuie sa aveti startat/pus in functiune si serverul-LLM **Ollama** - care va deservi/oferi modelele preinstalate: [***llama2***](https://ollama.com/blog/run-llama2-uncensored-locally)(modelul conversational LLM) si [***all-minilm***](https://medium.com/@rahultiwari065/unlocking-the-power-of-sentence-embeddings-with-all-minilm-l6-v2-7d6589a5f0aa)(modelul utilizat pt incorcoprare) 
 
