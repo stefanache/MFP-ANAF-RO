@@ -16,7 +16,7 @@ Zona mea particulara/specifica/privata adica **datele primare** de intrare care 
 
    Odata ce ati [incarcat/ingerat](https://github.com/stefanache/MFP-ANAF-RO/edit/main/python/RAG_Ollama_Weaviate/_2a.RUN_client_ingest.bat) datele in ***Weaviate***, le puteti utiliza/consuma/digera, ori de cate ori doriti, pt conversatia cu RAG-ul dvs.
 
-   Am incercat in acest [proiect](***Weaviate***), pe partea de **client**,  sa separ partea de [***ingestie***](https://github.com/stefanache/MFP-ANAF-RO/edit/main/python/RAG_Ollama_Weaviate/_2a.RUN_client_ingest.bat) de partea de [***digestie***](https://github.com/stefanache/MFP-ANAF-RO/edit/main/python/RAG_Ollama_Weaviate/_2b.RUN_client_rag.bat)(**RAG**-ul propriu zis-deci partea conversationala cu serverul-LLM **Ollama**)
+   Am incercat in acest [proiect](https://github.com/stefanache/MFP-ANAF-RO/tree/main/python/RAG_Ollama_Weaviate), pe partea de **client**,  sa separ partea de [***ingestie***](https://github.com/stefanache/MFP-ANAF-RO/edit/main/python/RAG_Ollama_Weaviate/_2a.RUN_client_ingest.bat) de partea de [***digestie***](https://github.com/stefanache/MFP-ANAF-RO/edit/main/python/RAG_Ollama_Weaviate/_2b.RUN_client_rag.bat)(**RAG**-ul propriu zis-deci partea conversationala cu serverul-LLM **Ollama**)
 
    Asadar partea de ingestie(clientul de incarcare/memorare persistenta a datelor in baza de date vectoriala ***Weaviate***) se efectueaza/ruleaza o singura data, in timp ce partea de digestie/consum/conversatia propriu-zisa(clientul RAG) se ruleaza ori de cate ori doriti.
    
