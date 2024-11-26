@@ -18,7 +18,7 @@ Zona mea particulara/specifica/privata adica **datele primare** de intrare care 
 
    Am incercat in acest [proiect](***Weaviate***), pe partea de **client**,  sa separ partea de [***ingestie***](https://github.com/stefanache/MFP-ANAF-RO/edit/main/python/RAG_Ollama_Weaviate/_2a.RUN_client_ingest.bat) de partea de [***digestie***](https://github.com/stefanache/MFP-ANAF-RO/edit/main/python/RAG_Ollama_Weaviate/_2b.RUN_client_rag.bat)(**RAG**-ul propriu zis-deci partea conversationala cu serverul-LLM **Ollama**)
 
-   Asadar partea de ingestie(clientul de incarcare/memorare persistenta a datelor in baza de date vectoriala ***Weaviate***) se efectueaza/ruleaza o singura data, in timp ce partea de digestie/consum/conversatia propriu-zisa(clientul RAG) se ruleaza ori de cate doriti.
+   Asadar partea de ingestie(clientul de incarcare/memorare persistenta a datelor in baza de date vectoriala ***Weaviate***) se efectueaza/ruleaza o singura data, in timp ce partea de digestie/consum/conversatia propriu-zisa(clientul RAG) se ruleaza ori de cate ori doriti.
    
    Pe parte de client, aceste 2 parti(***_2a.RUN_client_ingest.bat*** si ***_2b.RUN_client_rag.bat***), pt rulare, necesita in prealabil ca sa fie startata/rulata(doar minizati fereastra/consola server-ului dar nu o inchideti) partea de [server](https://github.com/stefanache/MFP-ANAF-RO/edit/main/python/RAG_Ollama_Weaviate/_1.RUN_sever.bat)-dockerizata a SGBD-ului vectorial ***Weaviate***(***_1.RUN_sever.bat***).
 
