@@ -623,6 +623,6 @@ Zona mea particulara/specifica/privata adica **datele primare** de intrare care 
           "Llamas live to be about 20 years old, though some only live for 15 years and others live to be 30 years old",
         ]
 
-   Odata ce ati incarcat/ingeratdatele in ***Weaviate*** le puteti utiliza/digera ori de cate ori doriti pt conversatia cu RAG-ul dvs.
+   Odata ce ati incarcat/ingeratdatele in ***Weaviate*** le puteti utiliza/consuma/digera ori de cate ori doriti pt conversatia cu RAG-ul dvs.
 
    Am incercat intr-un [proiect](***Weaviate***) de-al meu, pe partea de **client**,  sa separ partea de ***ingestie*** de partea de ***digestie***(**RAG**-ul propriu zis-deci partea conversationala cu serverul-LLM **Ollama**)
