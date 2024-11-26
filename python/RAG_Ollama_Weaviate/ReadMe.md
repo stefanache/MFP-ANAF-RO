@@ -24,7 +24,7 @@ Zona mea particulara/specifica/privata adica **datele primare** de intrare care 
 
    Nu uitati!...in plus, pe parte de client, pentru partea de digestie/[**RAG**](https://www.moveworks.com/us/en/resources/blog/bring-reasoning-to-agentic-rag)([***_2b.RUN_client_rag.bat***](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/RAG_Ollama_Weaviate/_2b.RUN_client_rag.bat)) trebuie sa aveti startat/pus in functiune si serverul-LLM **Ollama** - care va deservi/oferi modelele preinstalate: [***llama2***](https://ollama.com/blog/run-llama2-uncensored-locally)(modelul conversational LLM) si [***all-minilm***](https://medium.com/@rahultiwari065/unlocking-the-power-of-sentence-embeddings-with-all-minilm-l6-v2-7d6589a5f0aa)(modelul utilizat pt incorcoprare) 
 
-   Inainte de toate, tot pe parte de [server](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/RAG_Ollama_Weaviate/_1.RUN_sever.bat), trebuie sa instalati si sa puneti in functiune server-ul **Ollama**, ca mai apoi, sa descarcati si instalati cele 2 modele(de care are nevoie acest proiect), utilizand 2 comenzi shell(cmd.exe) succesive:
+   Inainte de toate, tot pe parte de [server](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/RAG_Ollama_Weaviate/_1.RUN_sever.bat), trebuie sa instalati si sa puneti in functiune server-ul [**Ollama**](https://github.com/mtayyab2/RAG), ca mai apoi, sa descarcati si instalati cele 2 modele(de care are nevoie acest proiect), utilizand 2 comenzi shell(cmd.exe) succesive:
 
         ollama pull llama2
         ollama pull all-minilm
