@@ -22,5 +22,5 @@ Zona mea particulara/specifica/privata adica **datele primare** de intrare care 
    
    Pe parte de client, aceste 2 parti(***_2a.RUN_client_ingest.bat*** si ***_2b.RUN_client_rag.bat***), pt rulare, necesita in prealabil ca sa fie startata/rulata(doar minizati fereastra/consola server-ului dar nu o inchideti) partea de [server](https://github.com/stefanache/MFP-ANAF-RO/edit/main/python/RAG_Ollama_Weaviate/_1.RUN_sever.bat)-dockerizata a SGBD-ului vectorial ***Weaviate***(***_1.RUN_sever.bat***).
 
-   Nu uitati!...in plus, pe parte de client, pentru partea de digestie/**RAG**(***_2b.RUN_client_rag.bat***) trebuie sa aveti startat/pus in functiune si serverul-LLM **Ollama**,care va deservi/oferi modelele preinstalate: ***llama2***(modelul conversational LLM) si ***all-minilm***(modelul utilizat pt incorcoprare) 
+   Nu uitati!...in plus, pe parte de client, pentru partea de digestie/**RAG**(***_2b.RUN_client_rag.bat***) trebuie sa aveti startat/pus in functiune si serverul-LLM **Ollama**,care va deservi/oferi modelele preinstalate: ***llama2***(modelul conversational LLM) si [***all-minilm***](https://medium.com/@rahultiwari065/unlocking-the-power-of-sentence-embeddings-with-all-minilm-l6-v2-7d6589a5f0aa)(modelul utilizat pt incorcoprare) 
    
