@@ -612,7 +612,7 @@ O astfel de reducere a necesarului de resurse(de exemplu, un model cu 7 miliarde
 
         docker run -p 8080:8080 -p 50051:50051 cr.weaviate.io/semitechnologies/weaviate:1.24.8
 
-Zona mea particulara/specifica/privata adica datele primare care sunt incarcate/ingerate in aceasta baza de date vectoriala pot fi reliefatee prin acest mic si simplu exemplu:
+Zona mea particulara/specifica/privata adica **datele primare** care sunt incarcate/**ingerate** in aceasta baza de date vectoriala pot fi reliefate prin acest mic si simplu exemplu de variabila-tablou python:
 
         documents = [
           "Llamas are members of the camelid family meaning they're pretty closely related to vicuñas and camels",
