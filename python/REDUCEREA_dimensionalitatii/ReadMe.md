@@ -64,7 +64,9 @@ Aceste transformari(evidentiate de coeficienti si operatii + si *) pot fi combin
 
 Am apelat la un spatiu de dimensiune **n**=3 (3D, deci cu 3 grade de libertate) pt ca este mai intuitiv dar daca va ganditi la [mecanismele/articulatiile fizice/mecanice](https://sim.tuiasi.ro/wp-content/uploads/2019/11/CURS-OMM1-Mecanisme.pdf) veti afla ca aceste grade de libertate pot fi mai multe si deci, extrapoland, fireste/in consecinta, vom putea vorbi(ne putem imagina) de o dimensionalitate **n** mai mare( mai mult de 3): **u** = (X1,X2,X3,X4,X5,....X**n**).
 
-Oricum sau cel putin putem fi de acord sau putem conveni, pana aici, macar/cel putin ca,  [**algebra lineara**](http://adrianabirlutiu.uab.ro/cursuri/MIRF/note_curs_lab_2.pdf) ofera un suport/instrument bine-venit in zona noastra de interes(**invatare automata**)
+Am incercat, pana aici, sa va ofer o "imagine" cat mai aproapiata de algebra lineara asupra vectorilor.
+
+Oricum sau cel putin putem fi de acord sau putem conveni, pana aici, macar/cel putin ca,  [**algebra lineara**](http://adrianabirlutiu.uab.ro/cursuri/MIRF/note_curs_lab_2.pdf) ofera un suport/instrument bine-venit in zona noastra de interes([**invatare automata**](https://www.scribd.com/document/613960535/curs7IntroML))
 
 Am vrut sa va amintesc doar ca PCA nu este singura metoda de reducere a dimensionalitatii. Trebuie sa va amintesc ca si bine cunoscuta metoda de descompunere **SVD**  ne poate ajuta in atingerea acestui scop(de reducere a dimensionalitatii)
 
