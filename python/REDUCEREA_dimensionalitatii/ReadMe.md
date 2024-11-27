@@ -72,5 +72,7 @@ Am vrut sa va amintesc doar ca [PCA](https://dspace.upt.ro/jspui/bitstream/12345
 
 Trebuie sa va (re)amintesc, ca si bine cunoscuta metoda de descompunere [**SVD**](https://cismasemanuel.com/wp-content/uploads/2019/11/descompunerea-svd.pdf),  ne poate ajuta in atingerea acestui scop(de [reducere a dimensionalitatii](https://dspace.upt.ro/jspui/bitstream/123456789/615/2/BUPT_TD_Robu%20Claudiu.pdf)). 
 
+Sigur discutia noastra poate continua privind metodele/tehnicile/algoritmii de/implicati in reducerea dimensiunii dar/precum si [eficienta](https://spotintelligence.com/2023/08/27/dimensionality-reduction/) acestora dar prefer sa ma opresc aici...:)
+
 
 
