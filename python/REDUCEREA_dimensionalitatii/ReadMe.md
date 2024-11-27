@@ -72,7 +72,7 @@ Am vrut sa va amintesc doar ca [PCA](https://dspace.upt.ro/jspui/bitstream/12345
 
 Trebuie sa va (re)amintesc, ca si bine cunoscuta metoda de descompunere [**SVD**](https://cismasemanuel.com/wp-content/uploads/2019/11/descompunerea-svd.pdf),  ne poate ajuta in atingerea acestui scop(de [reducere a dimensionalitatii](https://dspace.upt.ro/jspui/bitstream/123456789/615/2/BUPT_TD_Robu%20Claudiu.pdf)). 
 
-Trebuie sa observam/spunem ca o matrice triunghilara(superior sau inferior) necesita mai putina memorie(pt stocare) decat in cazul unei matrici cu o cantitate mai mica sau foarte mica de valori intregi nenule. Vorbim deci de un consum mai mic de resurse in acest din urma caz.
+Trebuie sa mai observam/spunem doar, ca de pilda, o matrice triunghilara(superior sau inferior) necesita mai putina memorie(pt stocare) decat in cazul unei matrici cu o cantitate mai mica sau foarte mica de valori intregi nenule. Vorbim deci de un consum mai mic de resurse in acest din urma caz.
 
 Sigur discutia noastra poate continua privind metodele/tehnicile/algoritmii de/implicati in reducerea dimensiunii dar/precum si [eficienta](https://spotintelligence.com/2023/08/27/dimensionality-reduction/) acestora dar prefer sa ma opresc aici...:)
 
