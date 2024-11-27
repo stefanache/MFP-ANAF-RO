@@ -11,7 +11,7 @@ Asadar intuim ca exista un asa-zis [front-Pareto](https://en.wikipedia.org/wiki/
 
 Plecand de la principiul Pareto(20 80), in cazul vectorilor(corpusului) se poate renunta la partea inutila(80%) ramanand cu partea utila(20%), operatie ce se cheama operatie de [reducere a dimensionalitatii](https://nathanleclaire.com/blog/2024/03/11/creating-and-visualizing-embeddings-with-ollama-and-chatgpt/)
 
-Ramanand cu 20% informatie practic pierdem ceva din informatie dar nu intrat de mult incat sa deformeze informatia(in sensul analizei semantice/a intelesului acesteia = NLU).
+Ramanand cu 20% informatie practic pierdem ceva din informatie dar nu intr-atat de mult incat sa deformeze informatia(in sensul analizei semantice/a intelesului acesteia = NLU).
 
 Practic daca vreti aceasta parte contine sai mult zgomot dar mai putina informatie utila fiind zona de balast a acelui corpus.
 
