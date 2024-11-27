@@ -54,7 +54,7 @@ Judecata sau rationamentul in spatiul vectorilor liber din spatiul fizic are ava
 
 Trebuie deci sa retinem ca adunarea vectorilor scoate un vector care are un anumit unghi de rotatie(este ***rotit***) in spatiul 3D.
 
-In cazul vectorilor liberi paraleli, avem nevoie de o ***translatie***(deplasare) pentru a putea sa-i punem unul peste celalt sau si mai convenabil,  pentru a-i pune unul in continuarea celuilalt pt a-i aduna.
+In cazul vectorilor liberi paraleli, avem nevoie de o ***translatie***(deplasare) pentru a putea sa-i punem unul peste celalt sau si mai convenabil,  pentru a-i pune unul in continuarea celuilalt pt a-i putea aduna.
 
 Translatia poate fi si ea o translatie cu pastrarea directiei initiale deci o translatie fata de vectorul insusi(de-a lungul directiei salew proprii) sau o translatie care mentine unghiul si directia dar se deplaseaza fata de pozitia initiala pastrandu-se paralelismul de rigoare.
 
