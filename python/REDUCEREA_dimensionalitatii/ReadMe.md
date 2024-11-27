@@ -1,5 +1,5 @@
 
-Inglobarea/incorporarea([embedding](https://devopedia.org/word-embedding))/vectorizarea este un proces de tranformare a unui text/corpus in numere =i.e= [txt2digits](https://nathanleclaire.com/blog/2024/03/11/creating-and-visualizing-embeddings-with-ollama-and-chatgpt/)
+Inglobarea/incorporarea([embedding](https://devopedia.org/word-embedding))/vectorizarea este un proces de tranformare a unui text/corpus in numere =i.e= [txt2digits](https://nathanleclaire.com/blog/2024/03/11/creating-and-visualizing-embeddings-with-ollama-and-chatgpt/); Trebuie mentionat ca un sistem de cacul nu stie decat sa memoreze direct doar numere/digiti si nu litere. deci literele pot fi reprezentate dar nu direct ci numai dupa ce sunt transformate/codificate in numere.
 
 Practic ca vorbim de text,imagine sau sunet atunci cand le reprezentam intr-un sistem de calcul va trebui sa fie transformate/memorate/codificate in numere(digitalizare/cuantizare/inglobare) pentru a putea fi "intelese" sau pt a putea vorbi cu acestea.
 
