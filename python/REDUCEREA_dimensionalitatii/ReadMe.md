@@ -60,7 +60,7 @@ Translatia poate fi si ea o translatie cu pastrarea directiei initiale deci o tr
 
 Aceste transformari(evidentiate de coeficienti si operatii + si *) pot fi combinate(adica pot coexista in acelasi timp in combinatii lineare) si sunt evidentiate prin matrici de roto-translatie.
 
-Am apelat la un spatiu de dimensiune 3 (3D) pt ca este mai intuitiv dar daca va ganditi la mecanismele fizice veti afla ca aceste grade de libertate pot fi mai multe de 3 si astfel putem vorbi(fireste extrapoland) de dimensiuni **n** mai mari.
+Am apelat la un spatiu de dimensiune 3 (3D) pt ca este mai intuitiv dar daca va ganditi la mecanismele/articulatiile fizice/mecanice veti afla ca aceste grade de libertate pot fi mai multe de 3 si astfel putem vorbi(fireste extrapoland) de dimensiuni **n** mai mari.
 
 
 
