@@ -19,15 +19,17 @@ Un algoritm de [reducere a dimensionalitatii](https://nathanleclaire.com/blog/20
 
 Nu este singurul algoritm de reducerea dimensiopnalitatii(de pilda va puteti uita si pe familia algoritmilor [BSS](https://scikit-learn.org/1.5/auto_examples/decomposition/plot_ica_blind_source_separation.html), familie din care face parte si ICA cu varianta sa [FastICA](https://scikit-learn.org/dev/modules/generated/sklearn.decomposition.FastICA.html)).
 
-In [algebra vectoriala](https://cismasemanuel.com/wp-content/uploads/2016/09/set-1-baze-vectoriale.pdf) se spune ca un anumit spatiu vectorial poate fi generat cu un numar redus de vectori independenti care practic pot genera intreg [spatiul vectorial](https://www.math.uaic.ro/~mcrasm/depozit/Algebra_liniara_Fizica.pdf).
+In [algebra vectoriala](https://cismasemanuel.com/wp-content/uploads/2016/09/set-1-baze-vectoriale.pdf) se spune ca un anumit spatiu vectorial poate fi generat cu un numar redus de vectori independenti(rectangulari) care practic pot genera intreg [spatiul vectorial](https://www.math.uaic.ro/~mcrasm/depozit/Algebra_liniara_Fizica.pdf).
 
-Spunem ca un set de [vectori generatori](https://www.ucv.ro/pdf/departamente_academice/dma/suporturi_curs/pp_curs.pdf)(ex: x = [1,0,0], y=[0,1,0] si z=[0,0,1], unde 1 este norma [spatiului vectorial](https://ro.wikipedia.org/wiki/Dimensiune_(spa%C8%9Biu_vectorial)) al numerelor intregi naturale a.k.a N) alcatuiesc o baza a spatiului vectorial(in cazul exemplului nostru, spatiul tridimensional al numerelor naturale N = {x,y,z}); Asadar o baza va alcatui o matrice ale carui randuri pot fi vazuti ca vectori(apropo o matrice de astfel de matrici la randul sau alcatuiesc un asa-zis [tensor](https://ro.wikipedia.org/wiki/Tensor)]
+Spunem ca un set de [vectori generatori](https://www.ucv.ro/pdf/departamente_academice/dma/suporturi_curs/pp_curs.pdf)(ex de 3 vectori rectangulari: x = [1,0,0], y=[0,1,0] si z=[0,0,1], unde 1 este norma [spatiului vectorial](https://ro.wikipedia.org/wiki/Dimensiune_(spa%C8%9Biu_vectorial)) al numerelor intregi naturale a.k.a N) alcatuiesc o baza a spatiului vectorial(in cazul exemplului nostru, spatiul tridimensional al numerelor naturale N = {x,y,z}); Asadar o baza va alcatui o matrice ale carui randuri pot fi vazuti ca vectori(apropo o matrice de astfel de matrici la randul sau alcatuiesc un asa-zis [tensor](https://ro.wikipedia.org/wiki/Tensor)]
 
 Restul vectorilor(cei dependenti) pot fi scrisi ca o combinatie lineara de acesti vectori speciali(o combinatie lineara de acesti vectori  generatori).
 
 Prin combinatie lineara intelegem de fapt operatii de amplificare(u = n * v = [2 10 14]) a vectorilor(ex: v=[1 5 7]) cu scalari(numere intregi: ex n=2) si de adunare(+, vazuta aici ca translatare de vectori):
 
       z = 2 * v + 7 * u + ... 
+
+Asadar vedem o matrice de vectori oarecare ca o [matrice de vectori](https://en.wikipedia.org/wiki/Singular_value_decomposition)(care pot fi translatati,rotiti sau amplificati).
 
 
 
