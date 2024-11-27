@@ -5,7 +5,7 @@ Practic ca vorbim de text,imagine sau sunet atunci cand le reprezentam intr-un s
 
 Asa ca, discutia noastra se refera la un [**semnal numeric**](https://en.wikipedia.org/wiki/Signal_separation), in general si nu neaparat la o forma particulara a sa(text,imagine sau sunet)
 
-Principiul [Pareto](https://ro.wikipedia.org/wiki/Principiul_Pareto) ne arata(dpdv statistic daca vreti) ca majoritatea informatiei utile se afla in numai 20% din intreg corpusul in timp ce cealalta parte de 80% de regula contine informatie redundanta/inutila/care se repeta daca vreti intr-o forma sau alta.
+Principiul [Pareto](https://ro.wikipedia.org/wiki/Principiul_Pareto) ne arata(dpdv statistic daca vreti) ca majoritatea informatiei utile se afla in numai 20% din intreg corpusul in timp ce cealalta parte de 80% de regula contine informatie redundanta/inutila/care se repeta, daca vreti, intr-o forma sau alta.
 
 Asadar intuim ca exista un asa-zis [front-Pareto](https://en.wikipedia.org/wiki/Pareto_front) adica o granita intre esenta informatiei(20%) si partea grosiera(80%), dar inutila care ramane din intreaga informatie(de inglobat) a corpusului nostru analizat.
 
