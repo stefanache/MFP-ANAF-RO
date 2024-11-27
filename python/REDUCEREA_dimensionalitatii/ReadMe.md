@@ -32,12 +32,18 @@ Prin combinatie lineara intelegem de fapt operatii de amplificare(u = n * v = [2
 Asadar vedem o matrice de vectori oarecare ca o [matrice de vectori](https://en.wikipedia.org/wiki/Singular_value_decomposition)(care pot fi ***translatati***, ***rotiti*** sau ***amplificati***).
 
 Daca luam ca exemplu, spatiul vectorial RxRxR adica spatiul tridimensional(3D) vom constata ca un vector reprezinta o linie sau o coloana a matricei.
-un vector va fi reprezentat de 3 coordonate u = (x,y,z) adica este reprezentat de un punct din spatiul tridimensional de coordonate x,y, si z
-aceste 3 numere definesc pozitia puntului in spatiul 3D prin 3 proiectii pe axele unui sistem cartezian.
-Deci vom avea 3 marimi de segmente proiectate pe cele 3 axe ale unui sistem carteziaon OXYZ.
-asadar aceste 3 lungimi/marimi de segmente sunt masurtate fata de origine si atunci originea si punctul (x,y,z) definesc vectorul rspectiv.
+un vector va fi reprezentat de 3 coordonate u = (x,y,z) adica este reprezentat de un punct din spatiul tridimensional de coordonate x,y, si z.
+
+Aceste 3 numere definesc pozitia punctului, in spatiul 3D, prin 3 proiectii pe axele unui sistem cartezian.
+
+Deci vom avea 3 marimi de segmente proiectate pe cele 3 axe ale unui sistem carteziaon **O**XYZ.
+
+Asadar aceste 3 lungimi/marimi de segmente sunt masurtate fata de origine si atunci originea si punctul (x,y,z) definesc vectorul respectiv.
+
 Asadar vectorul nostru **u** va avea originea in punctul O si varful in punctul de coordonate (**x**, **y**, **z**).
+
 Din acest motiv putem spune ca directia(orientarea si sensul) vectorului nostru **u**, relativ la originea **O**,  este data de cuplul (**x**, **y**, **z**).
+
 In aceste conditii intre spatiul cartezian si spatiul vectorilor este o asemanare perfecta(omonimie/echivalenta) care ne permite sa judecam lucrurile fiind folosind geomatria analitica peste spatiul cartezian fie sa folosim vectorii din spatii vectoriale(cei invatati la fizica)
 
 Daca va amintiti la fizica cand adunam vectorial 2 vectori se forma acel paralelogram si diagonala mare reprezenta vectorul rezultant.
@@ -48,12 +54,13 @@ Judecata sau rationamentul in spatiul vectorilor liber din spatiul fizic are ava
 
 Trebuie deci sa retinem ca adunarea vectorilor scoate un vector care are un anumit unghi de rotatie(este ***rotit***) in spatiul 3D.
 
-In cazul vectorilor liberi paraleli, avem nevoie de o ***translatie*** pentru a putea sa-i punem unul peste celalt sau si mai convenabil,  pentru a-i pune unul in continoarea celuilalt pt a-i aduna.
+In cazul vectorilor liberi paraleli, avem nevoie de o ***translatie***(deplasare) pentru a putea sa-i punem unul peste celalt sau si mai convenabil,  pentru a-i pune unul in continuarea celuilalt pt a-i aduna.
 
 Translatia poate fi si ea o translatie cu pastrarea directiei initiale deci o translatie fata de vectorul insusi(de-a lungul directiei salew proprii) sau o translatie care mentine unghiul si directia dar se deplaseaza fata de pozitia initiala pastrandu-se paralelismul de rigoare.
 
 Aceste transformari(evidentiate de coeficienti si operatii + si *) pot fi combinate(adica pot coexista in acelasi timp in combinatii lineare) si sunt evidentiate prin matrici de roto-translatie.
 
+Am apelat la un spatiu de dimensiune 3 (3D) pt ca este mai intuitiv dar daca va ganditi la mecanismele fizice veti afla ca aceste grade de libertate pot fi mai multe de 3 si astfel putem vorbi(fireste extrapoland) de dimensiuni **n** mai mari.
 
 
 
