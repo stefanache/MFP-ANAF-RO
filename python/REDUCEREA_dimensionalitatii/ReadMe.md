@@ -15,7 +15,7 @@ Ramanand cu 20% informatie practic pierdem ceva din informatie dar nu intr-atat 
 
 Practic, daca vreti, aceasta parte(80% din intreg corpusul), contine si zgomot dar si informatie mai putin util,a fiind zona de balast a acelui corpus.
 
-Un algoritm de [reducere a dimensionalitatii](https://nathanleclaire.com/blog/2024/03/11/creating-and-visualizing-embeddings-with-ollama-and-chatgpt/) este si [PCA](chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://users.utcluj.ro/~robert/srf/prs_lab_ro_PCA.pdf)(care separa componentele). 
+Un algoritm de [reducere a dimensionalitatii](https://nathanleclaire.com/blog/2024/03/11/creating-and-visualizing-embeddings-with-ollama-and-chatgpt/) este si [PCA](https://users.utcluj.ro/~robert/srf/prs_lab_ro_PCA.pdf)(care separa componentele). 
 
 Nu este singurul algoritm de reducerea dimensiopnalitatii(de pilda va puteti uita si pe familia algoritmilor [BSS](https://scikit-learn.org/1.5/auto_examples/decomposition/plot_ica_blind_source_separation.html), familie din care face parte si ICA cu varianta sa [FastICA](https://scikit-learn.org/dev/modules/generated/sklearn.decomposition.FastICA.html)).
 
