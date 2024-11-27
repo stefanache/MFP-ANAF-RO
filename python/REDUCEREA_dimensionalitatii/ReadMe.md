@@ -47,9 +47,10 @@ Din acest motiv putem spune ca directia(orientarea si sensul) vectorului nostru 
 In aceste conditii intre spatiul cartezian si spatiul vectorilor este o asemanare perfecta(omonimie/echivalenta) care ne permite sa judecam lucrurile fiind folosind geomatria analitica peste spatiul cartezian fie sa folosim vectorii din spatii vectoriale(cei invatati la fizica)
 
 Daca va amintiti la fizica cand adunam vectorial 2 vectori se forma acel paralelogram si diagonala mare reprezenta vectorul rezultant.
+
 Vectorul rezultant, comparat cu cei 2 vectori originali participanti la adunare, are o marime mai mare(**amplificat**) si in plus este rotit(are alta **orientare** sau are o orientare rezultanta diferita) fata de acestia.
 
-Stim de aici ca daca vorbim de vectori liberi acestia pot fi translatati si daca acestia se intersecteaza(nu sunt paraleli) atunci devin concurenti si putem sa-i adunam.
+Stim de aici, ca daca vorbim de vectori liberi, acestia pot fi translatati si daca acestia se intersecteaza(nu sunt paraleli) atunci devin concurenti si putem sa-i adunam.
 
 Judecata sau rationamentul in spatiul vectorilor liberi din spatiul fizic are avantajul ca avem o reprezentare vizuala mai concreta fata de cea oferita spatiul geometric euclidian(de dimensiune 3)
 
