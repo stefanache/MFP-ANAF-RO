@@ -66,5 +66,7 @@ Am apelat la un spatiu de dimensiune **n**=3 (3D, deci cu 3 grade de libertate) 
 
 Oricum sau cel putin putem fi de acord sau putem conveni, pana aici, macar/cel putin ca,  [**algebra lineara**](http://adrianabirlutiu.uab.ro/cursuri/MIRF/note_curs_lab_2.pdf) ofera un suport/instrument bine-venit in zona noastra de interes(**invatare automata**)
 
+Am vrut sa va amintesc doar ca PCA nu este singura metoda de reducere a dimensionalitatii. Trebuie sa va amintesc ca si bine cunoscuta metoda de descompunere **SVD**  ne poate ajuta in atingerea acestui scop(de reducere a dimensionalitatii)
+
 
 
