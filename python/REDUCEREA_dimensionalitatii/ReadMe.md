@@ -3,7 +3,7 @@ Inglobarea/incorporarea(embedding)/vectorizarea este un proces de tranformare a 
 
 Practic ca vorbim de text,imagine sau sunet atunci cand le reprezentam intr-un sistem de calcul va trebui sa fie transformate in numere(digitalizare/cuantizare) pentru a putea fi "intelese" sau pt a putea vorbi cu acestea.
 
-Asa ca, discutia noastra se refera la un **semnal numeric**, in general si nu neaparat la o forma particulara a sa(text,imagine sau sunet)
+Asa ca, discutia noastra se refera la un [**semnal numeric**](https://en.wikipedia.org/wiki/Signal_separation), in general si nu neaparat la o forma particulara a sa(text,imagine sau sunet)
 
 Principiul [Pareto](https://ro.wikipedia.org/wiki/Principiul_Pareto) ne arata ca majoritatea informatiei utile se afla in numai 20% din intreg corpusul in timp ce cealalta parte de 80% de regula contine informatie redundanta/inutila/care se repeta daca vreti intr-o forma sau alta.
 
