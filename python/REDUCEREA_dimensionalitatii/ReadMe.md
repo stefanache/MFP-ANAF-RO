@@ -3,7 +3,7 @@ Inglobarea/incorporarea([embedding](https://devopedia.org/word-embedding))/vecto
 
 Trebuie mentionat ca un sistem de cacul nu stie decat sa memoreze direct doar numere/digiti si nu litere. deci literele pot fi reprezentate dar nu direct ci numai dupa ce sunt transformate/codificate in numere.
 
-Practic ca vorbim de text, imagine(inclusiv video care este in cele din urma o serie/sir de imagini) sau sunet atunci cand le reprezentam intr-un sistem de calcul va trebui sa fie transformate/memorate/codificate in numere(digitalizare/cuantizare/inglobare) pentru a putea fi "intelese" sau pt a putea "vorbi/discuta/dialoga" cu acestea.
+Practic ca vorbim de text, imagine(inclusiv video care este in cele din urma o serie/sir de imagini) sau sunet atunci cand le reprezentam intr-un sistem de calcul va trebui, ca in prealabil, acestea sa fie transformate/memorate/codificate in numere(digitalizare/cuantizare/inglobare), pentru a putea fi "intelese" sau pt a putea "vorbi/discuta/dialoga" cu acestea.
 
 Asa ca, discutia noastra se refera la un [**semnal numeric**](https://en.wikipedia.org/wiki/Signal_separation), in general si nu neaparat la o forma particulara a sa(text,imagine sau sunet)
 
