@@ -50,7 +50,7 @@ Daca va amintiti la fizica cand adunam vectorial 2 vectori se forma acel paralel
 Vectorul rezultant, comparat cu cei 2 vectori originali participanti la adunare, are o marime mai mare(**amplificat**) si in plus este rotit(are alta **orientare** sau are o orientare rezultanta diferita) fata de acestia.
 Stim de aici ca daca vorbim de vectori liberi acestia pot fi translatati si daca acestia se intersecteaza(nu sunt paraleli) atunci devin concurenti si putem sa-i adunam.
 
-Judecata sau rationamentul in spatiul vectorilor liber din spatiul fizic are avantajul ca avem o reprezentare vizuala mai concreta fata de cea oferita spatiul geometric euclidian(de dimensiune 3)
+Judecata sau rationamentul in spatiul vectorilor liberi din spatiul fizic are avantajul ca avem o reprezentare vizuala mai concreta fata de cea oferita spatiul geometric euclidian(de dimensiune 3)
 
 Trebuie deci sa retinem ca adunarea vectorilor scoate un vector care are un anumit unghi de rotatie(este ***rotit***) in spatiul 3D.
 
