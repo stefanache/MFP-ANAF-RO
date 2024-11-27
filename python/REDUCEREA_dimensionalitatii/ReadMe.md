@@ -25,7 +25,7 @@ Spunem ca un set de [vectori generatori](https://www.ucv.ro/pdf/departamente_aca
 
 Restul vectorilor(cei dependenti) pot fi scrisi ca o combinatie lineara de acesti vectori speciali(o combinatie lineara de acesti vectori  generatori).
 
-Prin combinatie lineara intelegem de fapt operatii de amplificare(u = n * v = [2 10 14]) a vectorilor(ex: v=[1 5 7]) cu scalari(numere intregi: ex n=2) si de adunare(+, vazuta aici ca translatare de vectori):
+Prin combinatie lineara intelegem de fapt operatii de amplificare(vazuta aici ca translatare, u = n * v = [2 10 14]) a vectorilor(ex: v=[1 5 7]) cu scalari(numere intregi: ex n=2) si de adunare(+, vazuta aici ca translatie+rotatie=RotoTranslatie de vectori):
 
       z = 2 * v + 7 * u + ... 
 
