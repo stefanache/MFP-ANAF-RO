@@ -1,13 +1,13 @@
 
 Inglobarea/incorporarea(embedding)/vectorizarea este un proces de tranformare a unui text/corpus in numere =i.e= [txt2digits](https://nathanleclaire.com/blog/2024/03/11/creating-and-visualizing-embeddings-with-ollama-and-chatgpt/)
 
-Practic ca vorbim de text,imagine sau sunet atunci cand le reprezentam intr-un sistem de calcul va trebui sa fie transformate in numere(digitalizare/cuantizare) pentru a putea fi "intelese" sau pt a putea vorbi cu acestea.
+Practic ca vorbim de text,imagine sau sunet atunci cand le reprezentam intr-un sistem de calcul va trebui sa fie transformate in numere(digitalizare/cuantizare/inglobare) pentru a putea fi "intelese" sau pt a putea vorbi cu acestea.
 
 Asa ca, discutia noastra se refera la un [**semnal numeric**](https://en.wikipedia.org/wiki/Signal_separation), in general si nu neaparat la o forma particulara a sa(text,imagine sau sunet)
 
 Principiul [Pareto](https://ro.wikipedia.org/wiki/Principiul_Pareto) ne arata ca majoritatea informatiei utile se afla in numai 20% din intreg corpusul in timp ce cealalta parte de 80% de regula contine informatie redundanta/inutila/care se repeta daca vreti intr-o forma sau alta.
 
-Asadar intuim ca exista un asa-zis [front-Pareto](https://en.wikipedia.org/wiki/Pareto_front) adica o granita intre esenta informatiei(20%) si restul grosier dar inutil al informatiei inglobate in corpusul analizat.
+Asadar intuim ca exista un asa-zis [front-Pareto](https://en.wikipedia.org/wiki/Pareto_front) adica o granita intre esenta informatiei(20%) si partea grosiera(80%), dar inutila care ramane din intreaga informatie(de inglobat) a corpusului nostru analizat.
 
 Plecand de la principiul Pareto(20 80), in cazul vectorilor(corpusului) se poate renunta la partea inutila(80%) ramanand cu partea utila(20%), operatie ce se cheama operatie de [reducere a dimensionalitatii](https://nathanleclaire.com/blog/2024/03/11/creating-and-visualizing-embeddings-with-ollama-and-chatgpt/)
 
