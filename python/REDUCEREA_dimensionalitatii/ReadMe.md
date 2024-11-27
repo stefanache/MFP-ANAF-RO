@@ -19,3 +19,15 @@ Un algoritm de [reducere a dimensionalitatii](https://nathanleclaire.com/blog/20
 
 Nu este singurul algoritm de reducerea dimensiopnalitatii(de pilda va puteti uita si pe familia algoritmilor [BSS](https://scikit-learn.org/1.5/auto_examples/decomposition/plot_ica_blind_source_separation.html), familie din care face parte si ICA cu varianta sa [FastICA](https://scikit-learn.org/dev/modules/generated/sklearn.decomposition.FastICA.html)).
 
+In [algebra vectoriala](https://cismasemanuel.com/wp-content/uploads/2016/09/set-1-baze-vectoriale.pdf) se spune ca un anumit spatiu vectorial poate fi generat cu un numar redus de vectori independenti care practic pot genera intreg spatiul.
+
+Spunem ca un set de vectori generatori(ex: x = [1,0,0], y=[0,1,0] si z=[0,0,1], unde 1 este norma spatiului numerelor intregi naturale a.k.a N) alcatuiesc o baza a spatiului vectorial(in cazul exemplului nostru, spatiul tridimensional al numerelor naturale N = {x,y,z})
+
+Restul vectorilor(cei dependenti) pot fi scrisi ca o combinatie lineara de acesti vectori speciali(o combinatie lineara de acesti vectori  generatori).
+
+Prin combinatie lineara intelegem de fapt operatii de amplificare(u = n * v = [2 10 14]) a vectorior(ex: v=[1 5 7]) cu scalari(numere intregi: ex n=2) si de adunare(+, vazuta aici ca translatare de vectori):
+
+      z = 2 * v + 7 * u + ... 
+
+
+
