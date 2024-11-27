@@ -58,7 +58,7 @@ In cazul vectorilor liberi paraleli, avem nevoie de o ***translatie***(deplasare
 
 Translatia poate fi si ea o translatie cu pastrarea directiei initiale deci o translatie fata de vectorul insusi(de-a lungul directiei salew proprii) sau o translatie care mentine unghiul si directia dar se deplaseaza fata de pozitia initiala pastrandu-se paralelismul de rigoare.
 
-Aceste transformari(evidentiate de coeficienti si operatii + si *) pot fi combinate(adica pot coexista in acelasi timp in combinatii lineare) si sunt evidentiate prin matrici de roto-translatie.
+Aceste transformari(evidentiate de coeficienti si operatii + si *) pot fi combinate(adica pot coexista in acelasi timp in combinatii lineare) si sunt evidentiate prin matrici de **roto-translatie**.
 
 Am apelat la un spatiu de dimensiune 3 (3D, deci cu 3 grade de libertate) pt ca este mai intuitiv dar daca va ganditi la [mecanismele/articulatiile fizice/mecanice](https://sim.tuiasi.ro/wp-content/uploads/2019/11/CURS-OMM1-Mecanisme.pdf) veti afla ca aceste grade de libertate pot fi mai multe si deci, extrapoland, fireste/in consecinta, vom putea vorbi(ne putem imagina) de o dimensionalitate **n** mai mare( mai mult de 3).
 
