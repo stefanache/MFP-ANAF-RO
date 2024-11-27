@@ -13,7 +13,7 @@ Plecand de la principiul Pareto(20 80), in cazul vectorilor(corpusului) se poate
 
 Ramanand cu 20% informatie practic pierdem ceva din informatie dar nu intr-atat de mult incat sa deformeze informatia(in sensul analizei semantice/a intelesului acesteia = [NLU](https://en.wikipedia.org/wiki/Natural_language_understanding)).
 
-Practic daca vreti aceasta parte contine sai mult zgomot dar mai putina informatie utila fiind zona de balast a acelui corpus.
+Practic, daca vreti, aceasta parte(80% din intreg corpusul), contine si zgomot dar si informatie mai putin util,a fiind zona de balast a acelui corpus.
 
 Un algoritm de [reducere a dimensionalitatii](https://nathanleclaire.com/blog/2024/03/11/creating-and-visualizing-embeddings-with-ollama-and-chatgpt/) este si [PCA](chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://users.utcluj.ro/~robert/srf/prs_lab_ro_PCA.pdf)(care separa componentele). 
 
