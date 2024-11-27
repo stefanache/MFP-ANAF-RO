@@ -68,7 +68,7 @@ Am incercat, pana aici, sa va ofer o "imagine" cat mai aproapiata de algebra lin
 
 Oricum sau cel putin putem fi de acord sau putem conveni, pana aici, macar/cel putin ca,  [**algebra lineara**](http://adrianabirlutiu.uab.ro/cursuri/MIRF/note_curs_lab_2.pdf) ofera un suport/instrument bine-venit in zona noastra de interes([**invatare automata**](https://www.scribd.com/document/613960535/curs7IntroML))
 
-Am vrut sa va amintesc doar ca [PCA](https://dspace.upt.ro/jspui/bitstream/123456789/615/2/BUPT_TD_Robu%20Claudiu.pdf) nu este singura metoda de reducere a dimensionalitatii. 
+Am vrut sa va amintesc doar ca [PCA](https://dspace.upt.ro/jspui/bitstream/123456789/615/2/BUPT_TD_Robu%20Claudiu.pdf) nu este singura metoda/tehnica/algoritm de [reducere a dimensionalitatii](https://medium.com/nerd-for-tech/dimensionality-reduction-techniques-pca-lca-and-svd-f2a56b097f7c). 
 
 Trebuie sa va (re)amintesc, ca si bine cunoscuta metoda de descompunere [**SVD**](https://cismasemanuel.com/wp-content/uploads/2019/11/descompunerea-svd.pdf),  ne poate ajuta in atingerea acestui scop(de [reducere a dimensionalitatii](https://dspace.upt.ro/jspui/bitstream/123456789/615/2/BUPT_TD_Robu%20Claudiu.pdf)). 
 
