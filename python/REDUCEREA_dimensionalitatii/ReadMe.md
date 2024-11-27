@@ -21,7 +21,7 @@ Nu este singurul algoritm de reducerea dimensiopnalitatii(de pilda va puteti uit
 
 In [algebra vectoriala](https://cismasemanuel.com/wp-content/uploads/2016/09/set-1-baze-vectoriale.pdf) se spune ca un anumit spatiu vectorial poate fi generat cu un numar redus de vectori independenti care practic pot genera intreg spatiul.
 
-Spunem ca un set de vectori generatori(ex: x = [1,0,0], y=[0,1,0] si z=[0,0,1], unde 1 este norma [spatiului vectorial](https://ro.wikipedia.org/wiki/Dimensiune_(spa%C8%9Biu_vectorial)) al numerelor intregi naturale a.k.a N) alcatuiesc o baza a spatiului vectorial(in cazul exemplului nostru, spatiul tridimensional al numerelor naturale N = {x,y,z}); Asadar o baza va alcatui o matrice ale carui randuri pot fi vazuti ca vectori(apropo o matrice de astfel de matrici la randul sau alcatuiesc un asa-zis [tensor](https://ro.wikipedia.org/wiki/Tensor)]
+Spunem ca un set de [vectori generatori](https://www.ucv.ro/pdf/departamente_academice/dma/suporturi_curs/pp_curs.pdf)(ex: x = [1,0,0], y=[0,1,0] si z=[0,0,1], unde 1 este norma [spatiului vectorial](https://ro.wikipedia.org/wiki/Dimensiune_(spa%C8%9Biu_vectorial)) al numerelor intregi naturale a.k.a N) alcatuiesc o baza a spatiului vectorial(in cazul exemplului nostru, spatiul tridimensional al numerelor naturale N = {x,y,z}); Asadar o baza va alcatui o matrice ale carui randuri pot fi vazuti ca vectori(apropo o matrice de astfel de matrici la randul sau alcatuiesc un asa-zis [tensor](https://ro.wikipedia.org/wiki/Tensor)]
 
 Restul vectorilor(cei dependenti) pot fi scrisi ca o combinatie lineara de acesti vectori speciali(o combinatie lineara de acesti vectori  generatori).
 
