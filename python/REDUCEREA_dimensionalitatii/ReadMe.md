@@ -58,7 +58,7 @@ Trebuie deci sa retinem ca adunarea vectorilor scoate un vector care are un anum
 
 In cazul vectorilor liberi paraleli, avem nevoie de o ***translatie***(deplasare) pentru a putea sa-i punem unul peste celalt sau si mai convenabil,  pentru a-i pune unul in continuarea celuilalt pt a-i putea aduna.
 
-Translatia poate fi si ea o translatie cu pastrarea directiei initiale deci o translatie fata de vectorul insusi(de-a lungul directiei salew proprii) sau o translatie care mentine unghiul si directia dar se deplaseaza fata de pozitia initiala pastrandu-se paralelismul de rigoare.
+Translatia poate fi si ea o translatie cu pastrarea directiei initiale deci o translatie fata de vectorul insusi(de-a lungul directiei sale proprii) sau o translatie care mentine unghiul si directia dar se deplaseaza fata de pozitia initiala pastrandu-se paralelismul de rigoare.
 
 Aceste transformari(evidentiate de coeficienti si operatii + si *) pot fi combinate(adica pot coexista in acelasi timp in combinatii lineare) si sunt evidentiate prin matrici de **roto-translatie**.
 
