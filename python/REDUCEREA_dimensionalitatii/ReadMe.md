@@ -31,5 +31,11 @@ Prin combinatie lineara intelegem de fapt operatii de amplificare(u = n * v = [2
 
 Asadar vedem o matrice de vectori oarecare ca o [matrice de vectori](https://en.wikipedia.org/wiki/Singular_value_decomposition)(care pot fi translatati,rotiti sau amplificati).
 
-
+Daca luam ca exemplu, spatiul vectorial RxRxR adica spatiul tridimensional(3D) vom constata ca un vector reprezinta o linie sau o coloana a matricei.
+un vector va fi reprezentat de 3 coordonate u = (x,y,z) adica este reprezentat de un punct din spatiul tridimensional de coordonate x,y, si z
+aceste 3 numere definesc pozitia puntului in spatiul 3D prin 3 proiectii pe axele unui sistem cartezian.
+Deci vom avea 3 marimi de segmente proiectate pe cele 3 axe ale unui sistem carteziaon OXYZ.
+asadar aceste 3 lungimi/marimi de segmente sunt masurtate fata de origine si atunci originea si punctul (x,y,z) definesc vectorul rspectiv.
+Asadar vectorul nostru **u** va avea originea in punctul O si varful in punctul de coordonate (**x**, **y**, **z**).
+Din acest motiv putem spune ca directia(orientarea si sensul) vectorului nostru **u**, relativ la originea **O**,  este data de cuplul (**x**, **y**, **z**).
 
