@@ -33,10 +33,12 @@ Codul sursă pentru demo poate fi găsit pe [GitHub](https://github.com/huggingf
 
 <hr/>
 
- Un alt post interesant este acesta legat de [SemanticSearch](https://www.reddit.com/r/ollama/comments/1b79c23/inbrowser_rag_feeding_ollama/).
+ Un alt post/articol interesant este acesta legat de [SemanticSearch](https://www.reddit.com/r/ollama/comments/1b79c23/inbrowser_rag_feeding_ollama/).
 
- **RAG în browser care hrănește Ollama**<br/>
-Bună, oameni buni,<br/>
+Iata ce se spune in acest articol:
+
+<br/><br/> **RAG în browser care hrănește Ollama**<br/><br/>
+<br/>Bună, oameni buni,<br/>
 m-am gândit să împărtășesc integrarea Ollama în SemanticFinder , un instrument de căutare semantică în browser.<br/>
 Am lucrat intens la instrumente de căutare semantică la nivelul clientului în ultimul an, pentru a le permite atât persoanelor neprofesioniste, cât și experților să folosească cele mai recente modele de încorporare fără a fi nevoie să instaleze nimic.
 
