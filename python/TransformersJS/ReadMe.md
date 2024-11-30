@@ -3,12 +3,12 @@ Am citit acest [post](https://huggingface.co/posts/Xenova/648607043613090) HF po
 Iata ce se spune in aceasta postare:
 
 Tocmai am lansat [**Transformers.js v3.1**](https://github.com/huggingface/transformers.js/releases/tag/3.0.0) și nu o să vă vină să credeți ce este posibil acum în **browser** cu ***WebGPU***! 🤯 Să aruncăm o privire:<br/>
-🔀 **Janus** de la ***Deepseek*** - pentru înțelegerea și generarea multimodală unificată (Text-to-Image și Image-Text-to-Text)<br/>
-👁️ **Qwen2-VL** de la ***Qwen***  - pentru înțelegerea imaginii cu rezoluție dinamică<br/>
+🔀 [**Janus**](https://huggingface.co/deepseek-ai/Janus-1.3B) de la ***Deepseek*** - pentru înțelegerea și generarea multimodală unificată (Text-to-Image și Image-Text-to-Text)<br/>
+👁️ [**Qwen2-VL**](https://huggingface.co/collections/Qwen/qwen2-vl-66cee7455501d7126940800d) de la ***Qwen***  - pentru înțelegerea imaginii cu rezoluție dinamică<br/>
 🔢 **JinaCLIP** de la **Jina AI** - pentru general -înglobare multimodală multilingvă cu scop<br/>
-🌋 **LLaVA-OneVision** de la ***ByteDance*** - pentru generarea Image-Text-to-Text<br/>
-🤸‍♀️ **ViTPose** - pentru estimarea poziției<br/>
-📄 **MGP-STR** - pentru recunoașterea optică a caracterelor (OCR)<br/>
+🌋 [**LLaVA-OneVision**](https://huggingface.co/docs/transformers/main/model_doc/llava_onevision) de la ***ByteDance*** - pentru generarea Image-Text-to-Text<br/>
+🤸‍♀️ [**ViTPose**](https://huggingface.co/qubvel-hf/vitpose-base) - pentru estimarea poziției<br/>
+📄 [**MGP-STR**](https://huggingface.co/docs/transformers/model_doc/mgp-str) - pentru recunoașterea optică a caracterelor (OCR)<br/>
 📈 **PatchTST** și **PatchTSMixer** - pentru prognoza serii cronologice<br/><br/>
 
 Așa este, totul rulează local în 100% browser (nicio date trimise la un server)! 🔥 Uriaș pentru confidențialitate!<br/><br/>
