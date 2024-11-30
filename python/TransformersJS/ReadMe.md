@@ -39,7 +39,7 @@ Iata ce se spune in acest articol:
 
  **RAG în browser care hrănește/alimenteaza**(cu date contextuale recuperate din memoria/BD-virtuala) **Ollama**<br/>
 <br/>Bună, oameni buni,<br/><br/>
-M-am gândit să împărtășesc integrarea **Ollama** în **SemanticFinder** , un instrument de căutare semantică în browser.<br/>
+M-am gândit să împărtășesc integrarea **Ollama** în [**SemanticFinder**](https://github.com/do-me/SemanticFinder) , un instrument de căutare semantică în browser.<br/>
 Am lucrat intens la instrumente de căutare semantică la nivelul clientului în ultimul an, pentru a le permite atât persoanelor neprofesioniste, cât și experților să folosească cele mai recente modele de încorporare fără a fi nevoie să instaleze nimic.
 
 Folosind **Transformers.js**, este destul de nebunesc că (aproape) toate modelele/**LLM**(sub câțiva GB) pot rula în întregime în **browser** folosind **ONNX**!<br/>
