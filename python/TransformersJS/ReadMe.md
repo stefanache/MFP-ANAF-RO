@@ -49,7 +49,7 @@ Sunt sigur că aceasta este o limitare care va dispărea în cele din urmă, dar
 
 Aici intervine **Ollama**: completează **SemanticFinder** și sunt rezultatele căutării semantice pentru a pune întrebări despre ele.<br/>
 
-De exemplu, puteți căuta în întreaga biblie în **browser** „mâncăm mâncare gustoasă” și după ce cereți unui **LLM** să o rezuma, de exemplu, cu „Pe baza următorului context, răspundeți la întrebarea: Ce fel de mâncare mănâncă? Context: SEARCH_RESULTS ".
+De exemplu, puteți căuta în întreaga biblie în **browser** „mâncăm mâncare gustoasă” și după ce cereți unui **LLM** să o rezuma, de exemplu, cu „Pe baza următorului context, răspundeți la întrebarea: Ce fel de mâncare mănâncă? Context: **SEARCH_RESULTS** ".
 
 Recuperarea în **RAG** este un fel de manuală în acest moment, așa că sunteți cam spoonfeed **LLM**, dar vreau să adaug un automatism pentru aceasta (de exemplu, întrebând **LLM**-ul însuși cum ar arăta o interogare **RAG** ideală, rulând-o și hrănind aceasta cu rezultatele).
 
