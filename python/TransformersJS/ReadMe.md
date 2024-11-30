@@ -53,7 +53,7 @@ De exemplu, puteți căuta în întreaga biblie în **browser** <br/>„mâncăm
 
 Recuperarea în **RAG** este un fel de manuală în acest moment, așa că sunteți cam "spoonfeed"(hranire cu lingura-deci manuala nu automata) **LLM**, dar vreau să adaug un automatism pentru aceasta (de exemplu, întrebând **LLM**-ul însuși cum ar arăta o interogare **RAG** ideală, rulând-o și hrănind aceasta cu rezultatele).
 
-Deoarece toate componentele sunt modificabile, ele funcționează frumos în multe limbi sau chiar înglobări de cod (de exemplu, folosind înglobarea codului **Jina**).
+Deoarece toate componentele sunt modificabile, ele funcționează frumos în multe limbi sau chiar înglobări de cod (de exemplu, folosind înglobarea codului [**Jina**](https://huggingface.co/jinaai/jina-embeddings-v2-base-code)).
 
 Spune-mi ce crezi! :)
 
