@@ -51,7 +51,7 @@ Aici intervine **Ollama**: completează **SemanticFinder** și sunt rezultatele 
 
 De exemplu, puteți căuta în întreaga biblie în **browser** <br/>„mâncăm mâncare gustoasă”<br/> și după ce cereți unui **LLM** să obtinem un rezumat, de exemplu, de forma <br/>„Pe baza următorului context, răspundeți la întrebarea: Ce fel de mâncare mănâncă? <br/>Context: **SEARCH_RESULTS** ".
 
-Recuperarea în **RAG** este un fel de manuală în acest moment, așa că sunteți cam "spoonfeed"(hranire manual cu lingura) **LLM**, dar vreau să adaug un automatism pentru aceasta (de exemplu, întrebând **LLM**-ul însuși cum ar arăta o interogare **RAG** ideală, rulând-o și hrănind aceasta cu rezultatele).
+Recuperarea în **RAG** este un fel de manuală în acest moment, așa că sunteți cam "spoonfeed"(hranire cu lingura-deci manuala nu automata) **LLM**, dar vreau să adaug un automatism pentru aceasta (de exemplu, întrebând **LLM**-ul însuși cum ar arăta o interogare **RAG** ideală, rulând-o și hrănind aceasta cu rezultatele).
 
 Deoarece toate componentele sunt modificabile, ele funcționează frumos în multe limbi sau chiar înglobări de cod (de exemplu, folosind înglobarea codului **Jina**).
 
