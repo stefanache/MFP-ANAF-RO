@@ -35,11 +35,11 @@ Codul sursă pentru demo poate fi găsit pe [GitHub](https://github.com/huggingf
 
  Un alt post/articol interesant este acesta legat de [**SemanticSearch**](https://www.reddit.com/r/ollama/comments/1b79c23/inbrowser_rag_feeding_ollama/).
 
-Iata ce se spune in acest articol:
+Iata ce se spune in acest [articol](https://do-me.github.io/SemanticFinder/):
 
  **RAG în browser care hrănește/alimenteaza**(cu date contextuale recuperate din memoria/BD-virtuala) **Ollama**<br/>
 <br/>Bună, oameni buni,<br/><br/>
-M-am gândit să împărtășesc integrarea **Ollama** în [**SemanticFinder**](https://github.com/do-me/SemanticFinder) , un instrument de căutare semantică în browser.<br/>
+M-am gândit să împărtășesc integrarea **Ollama** în [**SemanticFinder**](https://github.com/do-me/SemanticFinder) , un instrument de [căutare semantică](https://do-me.github.io/SemanticFinder/) în **browser**(pe orice/indiferent de *dispozitiv*).<br/>
 Am lucrat intens la instrumente de căutare semantică la nivelul clientului în ultimul an, pentru a le permite atât persoanelor neprofesioniste, cât și experților să folosească cele mai recente modele de încorporare fără a fi nevoie să instaleze nimic.
 
 Folosind **Transformers.js**, este destul de nebunesc că (aproape) toate modelele/**LLM**(sub câțiva GB) pot rula în întregime în **browser** folosind **ONNX**!<br/>
@@ -47,7 +47,7 @@ La fel faceți și **LLM**-urile mici, cum ar fi familia **Qwen** sau **LaFlan-M
 Se descurcă grozav pentru dimensiunea lor, dar dacă doriți o calitate și mai bună, trebuie să rulați un server în afara **browser**ului dvs. deoarece: dimensiunea fișierului/utilizarea RAM este limitată și, prin urmare, dimensiunea și contextul modelului sunt reduse.<br/>
 Sunt sigur că aceasta este o limitare care va dispărea în cele din urmă, dar pentru moment este necesar să rulați un server de inferență în afara **browser**ului dumneavoastră.<br/>
 
-Aici intervine **Ollama**: completează **SemanticFinder** și sunt rezultatele căutării semantice pentru a pune întrebări despre ele.<br/>
+Aici intervine **Ollama**: completează [**SemanticFinder**](https://do-me.github.io/SemanticFinder/) și sunt rezultatele căutării semantice pentru a pune întrebări despre ele.<br/>
 
 De exemplu, puteți căuta în întreaga [biblie](https://github.com/do-me/SemanticFinder?tab=readme-ov-file#catalogue) în **browser** <br/>„mâncăm mâncare gustoasă”<br/> și după ce cereți unui **LLM** să obtinem un rezumat, de exemplu, de forma <br/>„Pe baza următorului context, răspundeți la întrebarea: Ce fel de mâncare mănâncă? <br/>Context: **SEARCH_RESULTS** ".
 
