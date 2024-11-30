@@ -1,4 +1,4 @@
-Am citit acest [post](https://huggingface.co/posts/Xenova/648607043613090) HF postat de cei de la Xenova si am gasit proiectul [***WebGPU***](https://huggingface.co/spaces/webml-community/Janus-1.3B-WebGPU)
+Am citit acest [post](https://huggingface.co/posts/Xenova/648607043613090) HF postat de cei de la Xenova si am gasit proiectul [***WebGPU***](https://huggingface.co/spaces/webml-community/Janus-1.3B-WebGPU)(succesor/inlocuitor al lui [WebGL](https://en.wikipedia.org/wiki/WebGL))
 
 Iata ce se spune in aceasta [postare](https://huggingface.co/docs/transformers/index):
 
