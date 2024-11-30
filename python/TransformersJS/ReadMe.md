@@ -26,7 +26,9 @@ Sunteți pe cale să încărcați [Janus-1.3B](https://huggingface.co/onnx-commu
 
 Totul rulează 100% local în browserul tău cu 🤗 [Transformers.js](https://huggingface.co/docs/transformers.js) și ONNX Runtime Web, ceea ce înseamnă că nu sunt trimise date către un server. 
 
-Odată ce modelul s-a încărcat, acesta poate fi folosit chiar și offline. Codul sursă pentru demo poate fi găsit pe [GitHub](https://github.com/huggingface/transformers.js-examples/tree/main/janus-webgpu).
+Odată ce modelul s-a încărcat, acesta poate fi folosit chiar și offline. 
+
+Codul sursă pentru demo poate fi găsit pe [GitHub](https://github.com/huggingface/transformers.js-examples/tree/main/janus-webgpu).
 
 <hr/>
 
