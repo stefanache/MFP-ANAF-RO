@@ -20,7 +20,7 @@ https://github.com/huggingface/transformers.js/releases/tag/3.1.0<br/>
 Link demonstrativ (+ cod sursă):
 [webml-community/Janus-1.3B-WebGPU](https://huggingface.co/spaces/webml-community/Janus-1.3B-WebGPU)
 
-In proiectul Janus-1.3B-WebGPU am gasit urmatoarea descriere:
+In proiectul ***Janus-1.3B-WebGPU*** am gasit urmatoarea descriere:
 
 Sunteți pe cale să încărcați [Janus-1.3B](https://huggingface.co/onnx-community/Janus-1.3B-ONNX), un model multimodal de viziune-limbaj care este optimizat pentru inferență pe web. 
 
