@@ -1,6 +1,6 @@
 Am citit acest [post](https://huggingface.co/posts/Xenova/648607043613090) HF postat de cei de la Xenova si am gasit proiectul [***WebGPU***](https://huggingface.co/spaces/webml-community/Janus-1.3B-WebGPU)
 
-Iata ce se spune in aceasta postare:
+Iata ce se spune in aceasta [postare](https://huggingface.co/docs/transformers/index):
 
 Tocmai am lansat [**Transformers.js v3.1**](https://github.com/huggingface/transformers.js/releases/tag/3.0.0) și nu o să vă vină să credeți ce este posibil acum în **browser** cu ***WebGPU***! 🤯 Să aruncăm o privire:<br/>
 🔀 [**Janus**](https://huggingface.co/deepseek-ai/Janus-1.3B) de la ***Deepseek*** - pentru înțelegerea și generarea multimodală unificată (Text-to-Image și Image-Text-to-Text)<br/>
