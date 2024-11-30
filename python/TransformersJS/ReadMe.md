@@ -17,5 +17,5 @@ Consultați notele de lansare pentru mai multe informații. 👇<br/>
 https://github.com/huggingface/transformers.js/releases/tag/3.1.0<br/>
 
 
-Link demonstrativ (+ cod sursă):<br/>
-webml-community/Janus-1.3B-WebGPU
+Link demonstrativ (+ cod sursă):
+[webml-community/Janus-1.3B-WebGPU](https://huggingface.co/spaces/webml-community/Janus-1.3B-WebGPU)
