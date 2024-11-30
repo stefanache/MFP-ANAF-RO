@@ -53,14 +53,14 @@ De exemplu, puteți căuta în întreaga biblie în **browser** „mâncăm mân
 
 Recuperarea în RAG este un fel de manuală în acest moment, așa că sunteți cam spoonfeed **LLM**, dar vreau să adaug un automatism pentru aceasta (de exemplu, întrebând **LLM**-ul însuși cum ar arăta o interogare RAG ideală, rulând-o și hrănind aceasta cu rezultatele).
 
-Deoarece toate componentele sunt modificabile, ele funcționează frumos în multe limbi sau chiar înglobări de cod (de exemplu, folosind înglobarea codului Jina).
+Deoarece toate componentele sunt modificabile, ele funcționează frumos în multe limbi sau chiar înglobări de cod (de exemplu, folosind înglobarea codului **Jina**).
 
 Spune-mi ce crezi! :)
 
-Dacă doriți să-l testați singur, asigurați-vă că permiteți CORS setând înv var în consecință:
+Dacă doriți să-l testați singur, asigurați-vă că permiteți **CORS** setând înv var în consecință:
 
-- pe Windows , de sub Powershell: $env:**OLLAMA_ORIGINS**="https://do-me.github.io"; ollama serve
-- pe Ubuntu: **OLLAMA_ORIGINS**="https://do-me.github.io" ollama serve
+- pe *Windows* , de sub *Powershell*: $env:**OLLAMA_ORIGINS**="https://do-me.github.io"; ollama serve
+- pe *Ubuntu*: **OLLAMA_ORIGINS**="https://do-me.github.io" ollama serve
 
 
 
