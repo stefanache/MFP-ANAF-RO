@@ -35,3 +35,27 @@ Codul sursă pentru demo poate fi găsit pe [GitHub](https://github.com/huggingf
 
  Un alt post interesant este acesta legat de [SemanticSearch](https://www.reddit.com/r/ollama/comments/1b79c23/inbrowser_rag_feeding_ollama/).
 
+ RAG în browser care hrănește Ollama
+Bună, oameni buni,
+m-am gândit să împărtășesc integrarea Ollama în SemanticFinder , un instrument de căutare semantică în browser. Am lucrat intens la instrumente de căutare semantică la nivelul clientului în ultimul an, pentru a le permite atât persoanelor neprofesioniste, cât și experților să folosească cele mai recente modele de încorporare fără a fi nevoie să instaleze nimic.
+
+Folosind transformers.js, este destul de nebunesc că (aproape) toate modelele (sub câțiva GB) pot rula în întregime în browser folosind onnx! La fel faceți și LLM-urile mici, cum ar fi familia Qwen sau LaFlan-Mini-T5. Se descurcă grozav pentru dimensiunea lor, dar dacă doriți o calitate și mai bună, trebuie să rulați un server în afara browserului dvs. deoarece: dimensiunea fișierului/utilizarea RAM este limitată și, prin urmare, dimensiunea și contextul modelului sunt reduse.
+Sunt sigur că aceasta este o limitare care va dispărea în cele din urmă, dar pentru moment este necesar să rulați un server de inferență în afara browserului dumneavoastră.
+
+Aici intervine Ollama: completează SemanticFinder și sunt rezultatele căutării semantice pentru a pune întrebări despre ele.
+
+De exemplu, puteți căuta în întreaga biblie în browser „mâncăm mâncare gustoasă” și după ce cereți unui LLM să o rezuma, de exemplu, cu „Pe baza următorului context, răspundeți la întrebarea: Ce fel de mâncare mănâncă? Context: SEARCH_RESULTS ".
+
+Recuperarea în RAG este un fel de manuală în acest moment, așa că sunteți cam spoonfeed LLM, dar vreau să adaug un automatism pentru aceasta (de exemplu, întrebând LLM-ul însuși cum ar arăta o interogare RAG ideală, rulând-o și hrănind aceasta cu rezultatele).
+
+Deoarece toate componentele sunt modificabile, ele funcționează frumos în multe limbi sau chiar înglobări de cod (de exemplu, folosind înglobarea codului Jina).
+
+Spune-mi ce crezi! :)
+
+Dacă doriți să-l testați singur, asigurați-vă că permiteți CORS setând înv var în consecință:
+
+- pe Windows Powershell: $env:OLLAMA_ORIGINS="https://do-me.github.io"; ollama serve
+- pe Ubuntu: OLLAMA_ORIGINS="https://do-me.github.io" ollama serve
+
+
+
