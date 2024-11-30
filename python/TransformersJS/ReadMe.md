@@ -8,7 +8,7 @@ Tocmai am lansat [**Transformers.js v3.1**](https://github.com/huggingface/trans
  - 🔢 [**JinaCLIP**](https://huggingface.co/jinaai/jina-clip-v1) de la [***Jina AI***](https://github.com/jina-ai) - pentru general -înglobare multimodală multilingvă cu scop<br/>
  - 🌋 [**LLaVA-OneVision**](https://huggingface.co/docs/transformers/main/model_doc/llava_onevision) de la [***ByteDance***](https://github.com/bytedance) - pentru generarea Image-Text-2-Text<br/>
  - 🤸‍♀️ [**ViTPose**](https://huggingface.co/qubvel-hf/vitpose-base) - pentru estimarea poziției<br/>
- - 📄 [**MGP-STR**](https://huggingface.co/docs/transformers/model_doc/mgp-str) - pentru recunoașterea optică a caracterelor (OCR)<br/>
+ - 📄 [**MGP-STR**](https://huggingface.co/docs/transformers/model_doc/mgp-str) - pentru recunoașterea optică a caracterelor (**OCR**)<br/>
  - 📈 [**PatchTST**](https://huggingface.co/docs/transformers/model_doc/patchtst) și [**PatchTSMixer**](https://huggingface.co/docs/transformers/model_doc/patchtsmixer) - pentru prognoza serii cronologice<br/><br/>
 
 Așa este, totul rulează local în 100% **browser** (nicio date trimise la un server)! 🔥 Uriaș pentru confidențialitate!<br/><br/>
