@@ -42,7 +42,7 @@ Iata ce se spune in acest articol:
 M-am gândit să împărtășesc integrarea **Ollama** în **SemanticFinder** , un instrument de căutare semantică în browser.<br/>
 Am lucrat intens la instrumente de căutare semantică la nivelul clientului în ultimul an, pentru a le permite atât persoanelor neprofesioniste, cât și experților să folosească cele mai recente modele de încorporare fără a fi nevoie să instaleze nimic.
 
-Folosind **Transformers.js**, este destul de nebunesc că (aproape) toate modelele (sub câțiva GB) pot rula în întregime în **browser** folosind onnx!<br/>
+Folosind **Transformers.js**, este destul de nebunesc că (aproape) toate modelele (sub câțiva GB) pot rula în întregime în **browser** folosind **ONNX**!<br/>
 La fel faceți și LLM-urile mici, cum ar fi familia **Qwen** sau **LaFlan-Mini-T5**.<br/>
 Se descurcă grozav pentru dimensiunea lor, dar dacă doriți o calitate și mai bună, trebuie să rulați un server în afara **browser**ului dvs. deoarece: dimensiunea fișierului/utilizarea RAM este limitată și, prin urmare, dimensiunea și contextul modelului sunt reduse.<br/>
 Sunt sigur că aceasta este o limitare care va dispărea în cele din urmă, dar pentru moment este necesar să rulați un server de inferență în afara **browser**ului dumneavoastră.<br/>
