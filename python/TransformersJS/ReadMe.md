@@ -24,7 +24,7 @@ In proiectul [***Janus-1.3B-WebGPU***](https://huggingface.co/spaces/webml-commu
 
 Sunteți pe cale să încărcați [Janus-1.3B](https://huggingface.co/onnx-community/Janus-1.3B-ONNX), un model multimodal de viziune-limbaj care este optimizat pentru inferență pe web. 
 
-Totul rulează 100% local în browserul tău cu 🤗 [Transformers.js](https://huggingface.co/docs/transformers.js) și ONNX Runtime Web, ceea ce înseamnă că nu sunt trimise date către un server. 
+Totul rulează 100% local în browserul tău cu 🤗 [Transformers.js](https://huggingface.co/docs/transformers.js) și [ONNX Runtime Web](https://onnxruntime.ai/docs/tutorials/web/), ceea ce înseamnă că nu sunt trimise date către un server. 
 
 Odată ce modelul s-a încărcat, acesta poate fi folosit chiar și offline. 
 
