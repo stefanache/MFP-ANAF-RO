@@ -9,7 +9,7 @@ Tocmai am lansat [**Transformers.js v3.1**](https://github.com/huggingface/trans
 🌋 [**LLaVA-OneVision**](https://huggingface.co/docs/transformers/main/model_doc/llava_onevision) de la ***ByteDance*** - pentru generarea Image-Text-to-Text<br/>
 🤸‍♀️ [**ViTPose**](https://huggingface.co/qubvel-hf/vitpose-base) - pentru estimarea poziției<br/>
 📄 [**MGP-STR**](https://huggingface.co/docs/transformers/model_doc/mgp-str) - pentru recunoașterea optică a caracterelor (OCR)<br/>
-📈 **PatchTST** și **PatchTSMixer** - pentru prognoza serii cronologice<br/><br/>
+📈 [**PatchTST**](https://huggingface.co/docs/transformers/model_doc/patchtst) și [**PatchTSMixer**](https://huggingface.co/docs/transformers/model_doc/patchtsmixer) - pentru prognoza serii cronologice<br/><br/>
 
 Așa este, totul rulează local în 100% browser (nicio date trimise la un server)! 🔥 Uriaș pentru confidențialitate!<br/><br/>
 
