@@ -33,7 +33,7 @@ Odată ce modelul s-a încărcat, acesta poate fi folosit chiar și offline.
 
 <hr/>
 
- Un alt post/articol interesant este acesta legat de [**SemanticSearch**](https://www.reddit.com/r/ollama/comments/1b79c23/inbrowser_rag_feeding_ollama/).
+ Un alt [post/articol](https://do-me.github.io/SemanticFinder/) interesant este acesta legat de [**SemanticSearch**](https://www.reddit.com/r/ollama/comments/1b79c23/inbrowser_rag_feeding_ollama/).
 
 Iata ce se spune in acest [articol](https://do-me.github.io/SemanticFinder/):
 
