@@ -57,9 +57,9 @@ Deoarece toate componentele sunt modificabile, ele funcționează frumos în mul
 
 Spune-mi ce crezi! :)
 
-Dacă doriți să-l testați singur, asigurați-vă că permiteți **CORS** setând înv var în consecință:
+Dacă doriți să-l testați singur, asigurați-vă că permiteți [**CORS**](https://do-me.github.io/SemanticFinder/) setând înv var în consecință:
 
-- pe *Windows* , de sub *Powershell*: $env:**OLLAMA_ORIGINS**="https://do-me.github.io"; **ollama serve**
+- pe *Windows* , de sub *Powershell*: $env:**OLLAMA_ORIGINS**="[https://do-me.github.io]"; **ollama serve**
 - pe *Ubuntu*: **OLLAMA_ORIGINS**="https://do-me.github.io" **ollama serve**
 
 
