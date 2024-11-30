@@ -59,7 +59,7 @@ Spune-mi ce crezi! :)
 
 Dacă doriți să-l testați singur, asigurați-vă că permiteți [**CORS**](https://do-me.github.io/SemanticFinder/) setând înv var în consecință:
 
-- pe *Windows* , de sub *Powershell*: $env:**OLLAMA_ORIGINS**="[https://do-me.github.io]"; **ollama serve**
+- pe *Windows* , de sub *Powershell*: $env:**OLLAMA_ORIGINS**="[https://do-me.github.io](https://github.com/do-me/trending-huggingface-models/)"; **ollama serve**
 - pe *Ubuntu*: **OLLAMA_ORIGINS**="https://do-me.github.io" **ollama serve**
 
 
