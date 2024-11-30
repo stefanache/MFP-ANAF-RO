@@ -18,7 +18,7 @@ Consultați notele de lansare pentru mai multe informații. 👇<br/>
 https://github.com/huggingface/transformers.js/releases/tag/3.1.0<br/>
 
 
-Link demonstrativ (+ cod sursă):
+Link [demonstrativ]((https://huggingface.co/spaces/webml-community/Janus-1.3B-WebGPU)) (+ [cod sursă](https://github.com/huggingface/transformers.js-examples/tree/main/janus-webgpu)):
 [webml-community/Janus-1.3B-WebGPU](https://huggingface.co/spaces/webml-community/Janus-1.3B-WebGPU)
 
 <br/><br/>In proiectul [***Janus-1.3B-WebGPU***](https://huggingface.co/spaces/webml-community/Janus-1.3B-WebGPU) am gasit urmatoarea descriere/prezentare:
@@ -29,7 +29,7 @@ Totul rulează 100% local în browserul tău cu 🤗 [Transformers.js](https://h
 
 Odată ce modelul s-a încărcat, acesta poate fi folosit chiar și offline. 
 
-Codul sursă pentru demo poate fi găsit pe [GitHub](https://github.com/huggingface/transformers.js-examples/tree/main/janus-webgpu).
+Codul sursă pentru [demo](https://huggingface.co/spaces/webml-community/Janus-1.3B-WebGPU) poate fi găsit pe [GitHub](https://github.com/huggingface/transformers.js-examples/tree/main/janus-webgpu).
 
 <hr/>
 
