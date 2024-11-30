@@ -27,3 +27,8 @@ Sunteți pe cale să încărcați [Janus-1.3B](https://huggingface.co/onnx-commu
 Totul rulează 100% local în browserul tău cu 🤗 [Transformers.js](https://huggingface.co/docs/transformers.js) și ONNX Runtime Web, ceea ce înseamnă că nu sunt trimise date către un server. 
 
 Odată ce modelul s-a încărcat, acesta poate fi folosit chiar și offline. Codul sursă pentru demo poate fi găsit pe [GitHub](https://github.com/huggingface/transformers.js-examples/tree/main/janus-webgpu).
+
+<hr/>
+
+ Un alt post interesant este acesta legat de [SemanticSearch](https://www.reddit.com/r/ollama/comments/1b79c23/inbrowser_rag_feeding_ollama/).
+
