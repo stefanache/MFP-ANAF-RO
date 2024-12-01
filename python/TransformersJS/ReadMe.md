@@ -1,4 +1,4 @@
-Am citit acest [post-HF](https://huggingface.co/posts/Xenova/648607043613090) postat de cei de la [***Xenova***](https://github.com/topics/xenova-transformers?l=javascript) si am gasit proiectul [***WebGPU***](https://huggingface.co/spaces/webml-community/Janus-1.3B-WebGPU)([succesor/inlocuitor](https://huggingface.co/blog/transformersjs-v3#webgpu-support)al renderului-2D/3D [WebGL](https://en.wikipedia.org/wiki/WebGL))
+Am citit acest [post-HF](https://huggingface.co/posts/Xenova/648607043613090) postat de cei de la [***Xenova***](https://github.com/topics/xenova-transformers?l=javascript) si am gasit proiectul [***WebGPU***](https://huggingface.co/spaces/webml-community/Janus-1.3B-WebGPU)([succesor/inlocuitor](https://huggingface.co/blog/transformersjs-v3#webgpu-support) al renderului-2D/3D [WebGL](https://en.wikipedia.org/wiki/WebGL))
 
 ***Nota***: [Hugging Face(HF)](https://medium.com/@kenzic/run-models-in-the-browser-with-transformers-js-2d0983ba3ce9) este un fel de depozitar(un CDN, asa cum este si Github) pt [ML](https://medium.com/@fareedkhandev/transformers-js-ai-in-the-browser-zero-server-costs-maximum-privacy-2cd8d28798b7)
 
