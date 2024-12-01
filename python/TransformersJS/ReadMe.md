@@ -4,8 +4,7 @@ Am citit acest [post-HF](https://huggingface.co/posts/Xenova/648607043613090) po
 
 Iata ce se spune(traducere cu mici ["intariri"](https://huggingface.co/docs/hub/transformers-js) prin anumite locuri:) in aceasta [postare](https://huggingface.co/docs/transformers/index):
 
-Tocmai am lansat [**Transformers.js v3.1**](https://github.com/huggingface/transformers.js/releases/tag/3.0.0)( a se vedea [***exemplele-demo***](https://github.com/huggingface/transformers.js-examples)) de la [**HF**](https://websim.ai/p/tzubbb91ul3tgj_fhzfz/13) și nu o să vă vină să credeți ce este posibil acum în [**browser**](https://medium.com/@kenzic/run-models-in-the-browser-with-transformers-js-2d0983ba3ce9) cu acceleratorul 
-[***WebGPU***](https://huggingface.co/docs/transformers.js/guides/webgpu)! <br/><br/>🤯 Să aruncăm o privire:<br/>
+Tocmai am lansat [**Transformers.js v3.1**](https://github.com/huggingface/transformers.js/releases/tag/3.0.0)( a se vedea [***exemplele-demo***](https://github.com/huggingface/transformers.js-examples)) de la [**HF**](https://websim.ai/p/tzubbb91ul3tgj_fhzfz/13) și nu o să vă vină să credeți ce este posibil acum în [**browser**](https://medium.com/@kenzic/run-models-in-the-browser-with-transformers-js-2d0983ba3ce9) cu acceleratorul [***WebGPU***](https://huggingface.co/docs/transformers.js/guides/webgpu)! <br/><br/>🤯 Să aruncăm o privire:<br/>
  - 🔀 [**Janus**](https://huggingface.co/deepseek-ai/Janus-1.3B) de la [***Deepseek***](https://github.com/dzhng/deep-seek) - pentru înțelegerea și generarea multimodală unificată (Text-to(**2**)-Image și Image-Text-**2**-Text)<br/>
  - 👁️ [**Qwen2-VL**](https://huggingface.co/collections/Qwen/qwen2-vl-66cee7455501d7126940800d) de la [***Qwen***](https://github.com/QwenLM/Qwen)  - pentru înțelegerea imaginii cu rezoluție dinamică<br/>
  - 🔢 [**JinaCLIP**](https://huggingface.co/jinaai/jina-clip-v1) de la [***Jina AI***](https://github.com/jina-ai) - pentru general -înglobare multimodală multilingvă cu scop<br/>
@@ -27,7 +26,7 @@ Link [demonstrativ](https://huggingface.co/spaces/webml-community/Janus-1.3B-Web
 
 Sunteți pe cale să încărcați [Janus-1.3B](https://huggingface.co/onnx-community/Janus-1.3B-ONNX), un [model](https://www.tensorflow.org/js/models)(**LLM**) multimodal de **viziune** - limbaj care este optimizat pentru inferență pe web. 
 
-Totul rulează 100% local în [browser](https://github.com/whitphx/transformers.js.py)ul tău cu 🤗 [Transformers.js](https://huggingface.co/docs/transformers.js) și [ONNX Runtime Web](https://onnxruntime.ai/docs/tutorials/web/)(permite să rulați și să implementați modele de ML în aplicația dvs. web, folosind JS), ceea ce înseamnă că <u>nu sunt trimise date</u> către un server. 
+Totul rulează 100% local în [browser](https://github.com/whitphx/transformers.js.py)ul tău cu 🤗 [Transformers.js](https://huggingface.co/docs/transformers.js) și [ONNX Runtime Web](https://onnxruntime.ai/docs/tutorials/web/)(permite să rulați și să implementați [modele](https://www.tensorflow.org/js/models) de ML în aplicația dvs. web, folosind JS), ceea ce înseamnă că <u>nu sunt trimise date</u> către un server. 
 
 Odată ce modelul s-a încărcat, acesta poate fi folosit chiar și [offline](https://github.com/m1ckc3b/object-detection-with-transformerjs). 
 
