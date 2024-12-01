@@ -4,7 +4,7 @@ Am citit acest [post-HF](https://huggingface.co/posts/Xenova/648607043613090) po
 
 Iata ce se spune(traducere cu mici ["intariri"](https://huggingface.co/docs/hub/transformers-js) prin anumite locuri:) in aceasta [postare](https://huggingface.co/docs/transformers/index):
 
-Tocmai am lansat [**Transformers.js v3.1**](https://github.com/huggingface/transformers.js/releases/tag/3.0.0)( a se vedea [***exemplele-demo*** de la **HF**](https://github.com/huggingface/transformers.js-examples)) și nu o să vă vină să credeți ce este posibil acum în [**browser**](https://medium.com/@kenzic/run-models-in-the-browser-with-transformers-js-2d0983ba3ce9) cu acceleratorul 
+Tocmai am lansat [**Transformers.js v3.1**](https://github.com/huggingface/transformers.js/releases/tag/3.0.0)( a se vedea [***exemplele-demo***](https://github.com/huggingface/transformers.js-examples)) de la [**HF**](https://websim.ai/p/tzubbb91ul3tgj_fhzfz/13) și nu o să vă vină să credeți ce este posibil acum în [**browser**](https://medium.com/@kenzic/run-models-in-the-browser-with-transformers-js-2d0983ba3ce9) cu acceleratorul 
 [***WebGPU***](https://huggingface.co/docs/transformers.js/guides/webgpu)! <br/><br/>🤯 Să aruncăm o privire:<br/>
  - 🔀 [**Janus**](https://huggingface.co/deepseek-ai/Janus-1.3B) de la [***Deepseek***](https://github.com/dzhng/deep-seek) - pentru înțelegerea și generarea multimodală unificată (Text-to(**2**)-Image și Image-Text-**2**-Text)<br/>
  - 👁️ [**Qwen2-VL**](https://huggingface.co/collections/Qwen/qwen2-vl-66cee7455501d7126940800d) de la [***Qwen***](https://github.com/QwenLM/Qwen)  - pentru înțelegerea imaginii cu rezoluție dinamică<br/>
