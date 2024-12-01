@@ -29,7 +29,7 @@ Sunteți pe cale să încărcați [Janus-1.3B](https://huggingface.co/onnx-commu
 
 Totul rulează 100% local în [browser](https://github.com/whitphx/transformers.js.py)ul tău cu 🤗 [Transformers.js](https://huggingface.co/docs/transformers.js) și [ONNX Runtime Web](https://onnxruntime.ai/docs/tutorials/web/)(permite să rulați și să implementați modele de ML în aplicația dvs. web, folosind JS), ceea ce înseamnă că <u>nu sunt trimise date</u> către un server. 
 
-Odată ce modelul s-a încărcat, acesta poate fi folosit chiar și offline. 
+Odată ce modelul s-a încărcat, acesta poate fi folosit chiar și [offline](https://github.com/m1ckc3b/object-detection-with-transformerjs). 
 
 [Codul sursă](https://github.com/huggingface/transformers.js-examples/tree/main/janus-webgpu) pentru [demo](https://huggingface.co/spaces/webml-community/Janus-1.3B-WebGPU) poate fi găsit pe [GitHub](https://github.com/huggingface/transformers.js-examples/tree/main/janus-webgpu).
 
