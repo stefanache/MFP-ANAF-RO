@@ -25,7 +25,7 @@ Link [demonstrativ](https://huggingface.co/spaces/webml-community/Janus-1.3B-Web
 
 <br/><br/>In proiectul [***Janus-1.3B-WebGPU***](https://huggingface.co/spaces/webml-community/Janus-1.3B-WebGPU) am gasit urmatoarea descriere/prezentare:
 
-Sunteți pe cale să încărcați [Janus-1.3B](https://huggingface.co/onnx-community/Janus-1.3B-ONNX), un model(**LLM**) multimodal de **viziune** - limbaj care este optimizat pentru inferență pe web. 
+Sunteți pe cale să încărcați [Janus-1.3B](https://huggingface.co/onnx-community/Janus-1.3B-ONNX), un [model](https://www.tensorflow.org/js/models)(**LLM**) multimodal de **viziune** - limbaj care este optimizat pentru inferență pe web. 
 
 Totul rulează 100% local în [browser](https://github.com/whitphx/transformers.js.py)ul tău cu 🤗 [Transformers.js](https://huggingface.co/docs/transformers.js) și [ONNX Runtime Web](https://onnxruntime.ai/docs/tutorials/web/)(permite să rulați și să implementați modele de ML în aplicația dvs. web, folosind JS), ceea ce înseamnă că <u>nu sunt trimise date</u> către un server. 
 
