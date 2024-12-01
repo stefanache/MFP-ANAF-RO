@@ -15,7 +15,7 @@ Tocmai am lansat [**Transformers.js v3.1**](https://github.com/huggingface/trans
 
 Așa este, totul se rulează local, 100% în  [**browser**](https://www.youtube.com/watch?v=yGVte5KubRQ) (nicio date trimise la un server)! 🔥 Uriaș pentru confidențialitate!<br/><br/>
 
-Consultați notele de lansare pentru mai multe [informații](https://huggingface.co/docs/transformers.js/index). 👇<br/>
+Consultați [notele de lansare](https://github.com/huggingface/transformers.js/releases/tag/3.0.0) pentru mai multe [informații](https://huggingface.co/docs/transformers.js/index). 👇<br/>
 https://github.com/huggingface/transformers.js/releases/tag/3.1.0<br/>
 
 
