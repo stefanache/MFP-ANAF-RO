@@ -1,5 +1,7 @@
 Am citit acest [post-HF](https://huggingface.co/posts/Xenova/648607043613090) postat de cei de la [***Xenova***](https://github.com/topics/xenova-transformers?l=javascript) si am gasit proiectul [***WebGPU***](https://huggingface.co/spaces/webml-community/Janus-1.3B-WebGPU)(succesor/inlocuitor al renderului-2D/3D [WebGL](https://en.wikipedia.org/wiki/WebGL))
 
+***Nota***: [Hugging Face(HF)](https://medium.com/@kenzic/run-models-in-the-browser-with-transformers-js-2d0983ba3ce9) este un fel de depozitar(un CDN, asa cum este si Github) pt ML
+
 Iata ce se spune in aceasta [postare](https://huggingface.co/docs/transformers/index):
 
 Tocmai am lansat [**Transformers.js v3.1**](https://github.com/huggingface/transformers.js/releases/tag/3.0.0)( a se vedea [***exemplele-demo*** de la **HF**](https://github.com/huggingface/transformers.js-examples)) și nu o să vă vină să credeți ce este posibil acum în [**browser**](https://medium.com/@kenzic/run-models-in-the-browser-with-transformers-js-2d0983ba3ce9) cu acceleratorul 
