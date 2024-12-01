@@ -47,7 +47,7 @@ Am lucrat intens la instrumente de căutare semantică la nivelul clientului în
 Folosind [**Transformers.js**](https://github.com/huggingface/transformers.js), este destul de nebunesc că (aproape) toate modelele/**LLM**(sub câțiva GB) pot rula în întregime în [**browser**](https://github.com/praeclarum/transformers-js)<br/> folosind **ONNX**!<br/>
 La fel procedați și cu **LLM**-urile mici, cum ar fi cele din familia [**Qwen**](https://huggingface.co/Qwen) sau [**LaMini-Flan-T5**](https://huggingface.co/MBZUAI/LaMini-Flan-T5-783M).<br/>
 Se descurcă grozav pentru dimensiunea lor, dar dacă doriți o calitate și mai bună, trebuie să rulați un server în afara **browser**ului dvs. deoarece: dimensiunea fișierului/utilizarea RAM este limitată și, prin urmare, dimensiunea și contextul modelului sunt reduse.<br/>
-Sunt sigur că aceasta este o limitare care va dispărea în cele din urmă, dar pentru moment este necesar să rulați un server de inferență în afara **browser**ului dumneavoastră.<br/>
+Sunt sigur că aceasta este o limitare care va dispărea în cele din urmă, dar pentru moment este necesar să rulați un server de inferență(cum este si **Ollama**) în afara **browser**ului dumneavoastră.<br/>
 
 Aici intervine **Ollama**: completează [**SemanticFinder**](https://do-me.github.io/SemanticFinder/) și sunt rezultatele căutării semantice pentru a pune întrebări despre ele.<br/>
 
