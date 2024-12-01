@@ -39,7 +39,7 @@ Odată ce modelul s-a încărcat, acesta poate fi folosit chiar și offline.
 
 Iata ce se spune in acest [articol](https://do-me.github.io/SemanticFinder/):
 
- **RAG în browser care hrănește/alimenteaza**(cu date contextuale recuperate din memoria/BD-virtuala) **Ollama**<br/>
+ **RAG în browser care hrănește/alimenteaza**(cu date contextuale salvate/recuperate [d]in memoria/BD-virtuala) **Ollama**<br/>
 <br/>Bună, oameni buni,<br/><br/>
 M-am gândit să împărtășesc integrarea **Ollama** în [**SemanticFinder**](https://github.com/do-me/SemanticFinder) , un [instrument](https://www.reddit.com/r/ollama/comments/1b79c23/inbrowser_rag_feeding_ollama/?tl=it) de [căutare semantică](https://do-me.github.io/SemanticFinder/) în **browser**(pe orice/indiferent de *dispozitiv*).<br/>
 Am lucrat intens la instrumente de căutare semantică la nivelul clientului în ultimul an, pentru a le permite atât persoanelor neprofesioniste, cât și experților să folosească cele mai recente modele de încorporare fără a fi nevoie să instaleze nimic.
