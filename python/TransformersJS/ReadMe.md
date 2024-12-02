@@ -13,7 +13,7 @@ Tocmai am lansat [**Transformers.js v3.1**](https://github.com/huggingface/trans
  - 📄 [**MGP-STR**](https://huggingface.co/docs/transformers/model_doc/mgp-str) - pentru recunoașterea optică a caracterelor (**OCR**)<br/>
  - 📈 [**PatchTST**](https://huggingface.co/docs/transformers/model_doc/patchtst) și [**PatchTSMixer**](https://huggingface.co/docs/transformers/model_doc/patchtsmixer) - pentru prognoza serii cronologice<br/><br/>
 
-Așa este, totul se rulează local, [100%](https://microsoft.github.io/onnxruntime-web-demo/#/) în  [**browser**](https://www.youtube.com/watch?v=yGVte5KubRQ) (nicio date trimise la un server)! 🔥 Uriaș pentru confidențialitate!<br/><br/>
+Așa este, totul se rulează [local](https://github.com/huggingface/transformers.js/tree/main), [100%](https://microsoft.github.io/onnxruntime-web-demo/#/) în  [**browser**](https://www.youtube.com/watch?v=yGVte5KubRQ) (nicio date trimise la un server)! 🔥 Uriaș pentru confidențialitate!<br/><br/>
 
 Consultați [notele de lansare](https://github.com/huggingface/transformers.js/releases/tag/3.0.0) pentru mai multe [informații](https://huggingface.co/docs/transformers.js/index). 👇<br/>
 https://github.com/huggingface/transformers.js/releases/tag/3.1.0<br/>
