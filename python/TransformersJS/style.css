@@ -1,0 +1,74 @@
+html,
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: #212121;
+    color: #fff;
+}
+
+.container {
+    margin: 40px auto;
+    width: max(50vw, 500px);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+button {
+  /* Simple shape */
+  border-radius: 0.5rem;
+  padding: 0.5rem 1rem;
+  margin: 0.5rem;
+  background-color: #d4a326;
+  color: #fff;
+  border: none;
+  box-shadow: 0 0 0 2px rgba(0, 0, 0, 0.1);
+  font-size: 1rem;
+  line-height: 1.5;
+  text-align: center;
+}
+
+button:hover {
+  background-color: #d5a427;
+}
+
+#image-container {
+    width: 100%;
+    margin-top: 20px;
+    position: relative;
+}
+
+#image-container>img {
+    width: 100%;
+}
+
+.bounding-box {
+    position: absolute;
+    box-sizing: border-box;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.bounding-box-label {
+    color: white;
+    position: absolute;
+    font-size: 10px;
+    margin-top: -16px;
+    margin-left: -2px;
+    padding: 1px;
+    width: max-content;
+}
+
+input[type=file]::file-selector-button {
+    margin-right: 20px;
+    border: none;
+    background: #084cdf;
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: #fff;
+    cursor: pointer;
+    transition: background .2s ease-in-out;
+  }
+  
+  input[type=file]::file-selector-button:hover {
+    background: #0d45a5;
+  }
