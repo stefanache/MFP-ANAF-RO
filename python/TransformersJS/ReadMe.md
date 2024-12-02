@@ -1,6 +1,6 @@
 Am citit acest [post-HF](https://huggingface.co/posts/Xenova/648607043613090) postat de cei de la [***Xenova***](https://github.com/topics/xenova-transformers?l=javascript) si am gasit proiectul [***WebGPU***](https://huggingface.co/spaces/webml-community/Janus-1.3B-WebGPU)([succesor/inlocuitor](https://huggingface.co/blog/transformersjs-v3#webgpu-support) al renderului-2D/3D [WebGL](https://en.wikipedia.org/wiki/WebGL))
 
-***Nota***: [Hugging Face(HF)](https://medium.com/@kenzic/run-models-in-the-browser-with-transformers-js-2d0983ba3ce9) este un fel de depozitar(un CDN, asa cum este si Github) pt [ML](https://medium.com/@fareedkhandev/transformers-js-ai-in-the-browser-zero-server-costs-maximum-privacy-2cd8d28798b7)
+***Nota***: [Hugging Face(HF)](https://medium.com/@kenzic/run-models-in-the-browser-with-transformers-js-2d0983ba3ce9) este un fel de depozitar(un fel de CDN, asa cum este si Github) pt [ML](https://medium.com/@fareedkhandev/transformers-js-ai-in-the-browser-zero-server-costs-maximum-privacy-2cd8d28798b7)
 
 Iata ce se spune(traducere cu mici ["intariri/comentarii"](https://huggingface.co/docs/hub/transformers-js) prin anumite/cateva locuri:) in aceasta [postare](https://huggingface.co/docs/transformers/index):
 
@@ -43,7 +43,7 @@ Iata ce se spune in acest [articol](https://do-me.github.io/SemanticFinder/):
 M-am gândit să împărtășesc integrarea **Ollama** în [**SemanticFinder**](https://github.com/do-me/SemanticFinder) , un [instrument](https://www.reddit.com/r/ollama/comments/1b79c23/inbrowser_rag_feeding_ollama/?tl=it) de [căutare semantică](https://do-me.github.io/SemanticFinder/) în **browser**(pe orice/indiferent de *dispozitiv*).<br/>
 Am lucrat intens la instrumente de căutare semantică la nivelul clientului în ultimul an, pentru a le permite atât persoanelor neprofesioniste, cât și experților să folosească cele mai recente modele de încorporare fără a fi nevoie să instaleze nimic.
 
-Folosind [**Transformers.js**](https://github.com/huggingface/transformers.js), este destul de nebunesc că (aproape) toate modelele/**LLM**(sub câțiva GB) pot rula în întregime în [**browser**](https://github.com/praeclarum/transformers-js)<br/> folosind **ONNX**!<br/>
+Folosind [**Transformers.js**](https://github.com/huggingface/transformers.js), este destul de nebunesc că (aproape) toate modelele/**LLM**(sub câțiva GB) pot rula în întregime în [**browser**](https://github.com/praeclarum/transformers-js)<br/> folosind [**ONNX**](https://www.reddit.com/r/MachineLearning/comments/rr17f9/p_45_times_faster_hugging_face_transformer/)!<br/>
 La fel procedați și cu **LLM**-urile mici, cum ar fi cele din familia [**Qwen**](https://huggingface.co/Qwen) sau [**LaMini-Flan-T5**](https://huggingface.co/MBZUAI/LaMini-Flan-T5-783M).<br/>
 Se descurcă grozav pentru dimensiunea lor, dar dacă doriți o calitate și mai bună, trebuie să rulați un server în afara **browser**ului dvs. deoarece: dimensiunea fișierului/utilizarea RAM este limitată și, prin urmare, dimensiunea și contextul modelului sunt reduse.<br/>
 Sunt sigur că aceasta este o limitare care va dispărea în cele din urmă, dar pentru moment este necesar să rulați un server de inferență(cum este si **Ollama**) în afara **browser**ului dumneavoastră.<br/>
