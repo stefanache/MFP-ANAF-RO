@@ -2,7 +2,7 @@ Am citit acest [post-HF](https://huggingface.co/posts/Xenova/648607043613090) po
 
 ***Nota***: [Hugging Face(HF)](https://medium.com/@kenzic/run-models-in-the-browser-with-transformers-js-2d0983ba3ce9) este un fel de depozitar(un CDN, asa cum este si Github) pt [ML](https://medium.com/@fareedkhandev/transformers-js-ai-in-the-browser-zero-server-costs-maximum-privacy-2cd8d28798b7)
 
-Iata ce se spune(traducere cu mici ["intariri"](https://huggingface.co/docs/hub/transformers-js) prin anumite locuri:) in aceasta [postare](https://huggingface.co/docs/transformers/index):
+Iata ce se spune(traducere cu mici ["intariri/comentarii"](https://huggingface.co/docs/hub/transformers-js) prin anumite locuri:) in aceasta [postare](https://huggingface.co/docs/transformers/index):
 
 Tocmai am lansat [**Transformers.js v3.1**](https://github.com/huggingface/transformers.js/releases/tag/3.0.0)( a se vedea [***exemplele-demo***](https://github.com/huggingface/transformers.js-examples)) de la [**HF**](https://websim.ai/p/tzubbb91ul3tgj_fhzfz/13) și nu o să vă vină să credeți ce este posibil acum în [**browser**](https://medium.com/@kenzic/run-models-in-the-browser-with-transformers-js-2d0983ba3ce9) cu acceleratorul [***WebGPU***](https://huggingface.co/docs/transformers.js/guides/webgpu)! <br/><br/>🤯 Să aruncăm o [privire](https://community.neptune-software.com/topics/neptune-dxp/blogs/running--transformers-in-the--browser-with--neptune--s):<br/>
  - 🔀 [**Janus**](https://huggingface.co/deepseek-ai/Janus-1.3B) de la [***Deepseek***](https://github.com/dzhng/deep-seek) - pentru înțelegerea și generarea multimodală unificată (Text-to(**2**)-Image și Image-Text-**2**-Text)<br/>
