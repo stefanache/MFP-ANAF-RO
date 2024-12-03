@@ -68,7 +68,7 @@ Dacă doriți să-l testați singur, asigurați-vă că permiteți [**CORS**](ht
 
 <hr/>
 
-Am ales aici in acest articol sa implementez doar un simplu exemplu de etichetare a obiectelor dintr-o imagine([**Computer-Vision(CV)**](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/TransformersJS/index1.js)).
+Am ales, aici, in acest articol, sa implementez doar un simplu exemplu de etichetare a obiectelor dintr-o imagine([**Computer-Vision(CV)**](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/TransformersJS/index1.js)).
 
 Exemplul incarca **Transformers.js** din internet si din aceasta cauza **nu** este o varianta off-line(atentie la CORS), dar... se poate cu usurinta, face,  ca [acesta](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/TransformersJS/index1.js), sa ruleze offline(adica, descarcam resursele din internet, intr-un director local, si apoi, in [script]((https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/TransformersJS/index1.js)), le folosim pe acestea in loclul celor aflate la distanta).
 
