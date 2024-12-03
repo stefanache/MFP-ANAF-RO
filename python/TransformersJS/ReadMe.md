@@ -76,7 +76,7 @@ In schimb, dupa incarcarea resurselor din internet, [totul](https://github.com/s
 
 De asemena folosesc un [webserver](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/TransformersJS/1.webserver.bat) adhoc si build-in oferit de python pt a expune local fisierul [**index.html**](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/TransformersJS/index.html)
 
-Pe parte de [client](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/TransformersJS/2.chrome_client), am deschis pagina [**index.html**](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/TransformersJS/index.html), in browser-ul **Chrome**. Pagina "sigleton/[SPA](https://libres.uncg.edu/ir/asu/f/Sapphire_Willow_Spring%202022_Thesis.pdf)" **html** este simplu stilizata cu ajutorul fisierului [**style.css**]((https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/TransformersJS/style.css)
+Pe parte de [client](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/TransformersJS/2.chrome_client), am deschis pagina [**index.html**](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/TransformersJS/index.html), in browser-ul **Chrome**. Pagina "sigleton/[SPA](https://libres.uncg.edu/ir/asu/f/Sapphire_Willow_Spring%202022_Thesis.pdf)" **html** este simplu stilizata cu ajutorul fisierului [**style.css**](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/TransformersJS/style.css)
 
 Partea de cod, din acest script [index1.js](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/TransformersJS/index1.js), care prezinta un deosebit interes/pe care va rog sa va concentrati/focusati, este selectia *speciala* de linii de cod: ...
 
