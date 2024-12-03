@@ -98,6 +98,6 @@ Apoi folosim o linie/conducta de procesare(*pipeline*) locala, pentru a construi
 
 Si in fine, in ultima linie de cod, regasim pur si simplu, *utilizarea/folosirea/invocarea* acestui **detector** si nimic mai mult(aplicata obiectului ***image.src*** si utilizand o anumita *lista de parametrii*, specifici acestui detector/***{...}***, de forma *parametru:valoare*)!
 
-Modul de rulare este unul simplu(asa cum v-ati/am obisnuit cred!!!:), mai intai( rulati [websever](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/TransformersJS/1.webserver.bat)-ul(nu-l inchideti ci doar il minimizati) si apoi rulati [clientul](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/TransformersJS/2.chrome_client)
+Modul de rulare este unul simplu(asa cum v-ati/am obisnuit cred!!!:), mai intai( rulati [***websever***](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/TransformersJS/1.webserver.bat)-ul ***1.webserver.bat***(nu-l inchideti ci doar il minimizati) si apoi rulati [**client**ul](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/TransformersJS/2.chrome_client) **2.chrome_client.bat**.
 
 Acest detector de ***Computer-Vision(CV)***, va *identifica* obiectele din imaginea local-incarcata, si, in cele din urma, le va *eticheta*, in consecinta/ca atare.
