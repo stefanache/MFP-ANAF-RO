@@ -94,8 +94,10 @@ Partea de cod, din acest script [index1.js](https://github.com/stefanache/MFP-AN
 
 In prima linie se incarca din internet, din CDN-ul ***jsdelivr.net***, mai precis din sectiunea **npm**(daca vreti, sectiunea special destinata incarcatorului ***NodeJS***, mai precis/adica ***npm.exe***, deci accesibila si surselor **JS**-cum este si cazul de aici), se incarca deci din spatiul alocat celor de la **xenova**, modulul **transformers**, versionat ca fiind **2.8.0**)
 
-Apoi folosim o linie/conducta de procesare(*pipeline*) locala, pentru a construi un **detector de obiecte**, obiecte care sunt prezente/memorate/aflate, intr-un obiect-imagine(cum este *image.src*); Pentru detectie folosim modelul **yolos-tiny**, oferit de catre cei de la ***xenova***.
+Apoi folosim o linie/conducta de procesare(*pipeline*) locala, pentru a construi un **detector de obiecte**, obiecte care sunt prezente/memorate/aflate, intr-un obiect-imagine(cum este *image.src*); Pentru detectie folosim modelul **yolos-tiny**, oferit de catre cei de la ***xenova***. Acest model de dimensiune redusa este special destinat detectiei de obiecte(dintr-o imagine data), detectie local-procesata(pe parte de client) cu resurse minime, intr-un browser(adecvat versionat); Este un model cross-browser(pt ca este acceptat de multe browsere renumite, printre care si Chrome);
 
 Si in fine, in ultima linie de cod, regasim pur si simplu, *utilizarea/folosirea/invocarea* acestui **detector** si nimic mai mult(aplicata obiectului ***image.src*** si utilizand o anumita *lista de parametrii*, specifici acestui detector/***{...}***, de forma *parametru:valoare*)!
+
+Modul de rulare este unul simplu(asa cum v-ati/am obisnuit cred!!!:), mai intai( rulati [websever](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/TransformersJS/1.webserver.bat)-ul(nu-l inchideti ci doar il minimizati) si apoi rulati [clientul](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/TransformersJS/2.chrome_client)
 
 Acest detector de ***Computer-Vision(CV)***, va *identifica* obiectele din imaginea local-incarcata, si, in cele din urma, le va *eticheta*, in consecinta/ca atare.
