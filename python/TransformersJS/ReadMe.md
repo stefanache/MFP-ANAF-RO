@@ -102,4 +102,4 @@ Modul de rulare este unul simplu(asa cum v-ati/am obisnuit cred!!!:), mai intai(
 
 Acest detector de ***Computer-Vision(CV)***, va *identifica* obiectele din imaginea local-incarcata, si, in cele din urma, le va *eticheta*, in consecinta/ca atare.
 
-Modelul este unul *pre-antrenat* astfel ca va stii cum sa "procedeze" atunci cand va fi utilizat in aplicatiile dumneavoastra practice
+Modelul este unul *pre-antrenat*, astfel ca, va "sti", cum sa "procedeze", atunci cand, va fi utilizat in aplicatiile dumneavoastra practice.
