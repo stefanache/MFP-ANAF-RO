@@ -66,5 +66,17 @@ Dacă doriți să-l testați singur, asigurați-vă că permiteți [**CORS**](ht
 - pe *Windows* , de sub *Powershell*: $env:**OLLAMA_ORIGINS**="[https://do-me.github.io](https://github.com/do-me/trending-huggingface-models/)"; **ollama serve**
 - pe *Ubuntu*: **OLLAMA_ORIGINS**="[https://do-me.github.io](https://github.com/do-me/)" **ollama serve**
 
+<hr/>
+
+Am ales aici in acest articol sa implementez doar un simplu exemplu de etichetare a obiectelor dintr-o imagine([**Computer-Vision(CV)**](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/TransformersJS/index1.js)).
+
+Exemplul incarca **Transformers.js** din internet si din aceasta cauza **nu** este o varianta off-line(atentie la CORS), dar... se poate cu usurinta, face,  ca [acesta](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/TransformersJS/index1.js), sa ruleze offline(adica, descarcam resursele din internet, intr-un director local, si apoi, in [script]((https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/TransformersJS/index1.js)), le folosim pe acestea in loclul celor aflate la distanta).
+
+In schimb, dupa incarcarea resurselor din internet, [totul](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/TransformersJS/index1.js) se  ruleaza in browser(deci **local**)
+
+De asemena folosesc un [webserver](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/TransformersJS/1.webserver.bat) adhoc si build-in oferit de python pt a expune local fisierul [**index.html**](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/TransformersJS/index.html)
+
+Pe parte de [client](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/TransformersJS/2.chrome_client), am deschis pagina [**index.html**](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/TransformersJS/index.html), in browser-ul **Chrome**.
+
 
 
