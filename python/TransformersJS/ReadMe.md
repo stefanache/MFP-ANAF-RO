@@ -84,6 +84,10 @@ Partea de [cod din script](https://github.com/stefanache/MFP-ANAF-RO/blob/main/p
      ...
      const detector = await pipeline("object-detection", "Xenova/yolos-tiny");
      ...
+     const detectedObjet = await detector(image.src, {
+                                                        threshold: 0.5,
+                                                        percentage: true,
+                                                      });
 
 
 
