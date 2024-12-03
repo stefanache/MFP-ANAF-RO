@@ -78,5 +78,10 @@ De asemena folosesc un [webserver](https://github.com/stefanache/MFP-ANAF-RO/blo
 
 Pe parte de [client](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/TransformersJS/2.chrome_client), am deschis pagina [**index.html**](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/TransformersJS/index.html), in browser-ul **Chrome**.
 
+Partea de cod care prezinta un deosebit interes este aceasta:
+
+  import { pipeline } from "https://cdn.jsdelivr.net/npm/@xenova/transformers@2.8.0";
+  ...
+
 
 
