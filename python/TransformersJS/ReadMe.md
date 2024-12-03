@@ -101,3 +101,5 @@ Si in fine, in ultima linie de cod, regasim pur si simplu, *utilizarea/folosirea
 Modul de rulare este unul simplu(asa cum v-ati/am obisnuit cred!!!:), mai intai( rulati [**web*sever***](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/TransformersJS/1.webserver.bat)-ul ***1.webserver.bat***(nu-l inchideti ci doar il minimizati) si apoi rulati [**client**ul](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/TransformersJS/2.chrome_client) **2.chrome_client.bat**.
 
 Acest detector de ***Computer-Vision(CV)***, va *identifica* obiectele din imaginea local-incarcata, si, in cele din urma, le va *eticheta*, in consecinta/ca atare.
+
+Modelul este unul *pre-antrenat* astfel ca va stii cum sa "procedeze" atunci cand va fi utilizat in aplicatiile dumneavoastra practice
