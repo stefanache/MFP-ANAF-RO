@@ -94,6 +94,8 @@ Partea de cod, din acest script [index1.js](https://github.com/stefanache/MFP-AN
 
 In prima linie se incarca din internet, din CDN-ul ***jsdelivr.net***, mai precis din sectiunea **npm**(daca vreti, sectiunea special destinata incarcatorului ***NodeJS***, mai precis/adica ***npm.exe***, deci accesibila si surselor **JS**-cum este si cazul de aici), se incarca deci din spatiul alocat celor de la **xenova**, modulul **transformers**, versionat ca fiind **2.8.0**)
 
-Apoi folosim o linie/conducta de procesare(*pipeline*) pentru a construi un **detector de obiecte**, prezente/memorate/aflate intr-un obiect-imagine(cum este *image.src*); Pentru detectie folosim modelul **yolos-tiny**, oferit de catre cei de la ***xenova***.
+Apoi folosim o linie/conducta de procesare(*pipeline*) locala, pentru a construi un **detector de obiecte**, obiecte care sunt prezente/memorate/aflate, intr-un obiect-imagine(cum este *image.src*); Pentru detectie folosim modelul **yolos-tiny**, oferit de catre cei de la ***xenova***.
 
 Si in fine, in ultima linie de cod, regasim pur si simplu, *utilizarea/folosirea/invocarea* acestui **detector** si nimic mai mult(aplicata obiectului ***image.src*** si utilizand o anumita *lista de parametrii*, specifici acestui detector/***{...}***, de forma *parametru:valoare*)!
+
+Acest detector de ***Computer-Vision(CV)***, va *identifica* obiectele din imaginea local-incarcata, si, in cele din urma, le va *eticheta*, in consecinta/ca atare.
