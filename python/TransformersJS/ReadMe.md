@@ -68,7 +68,7 @@ Dacă doriți să-l testați singur, asigurați-vă că permiteți [**CORS**](ht
 
 <hr/>
 
-Am ales, aici, in acest articol, sa implementez doar un simplu exemplu de etichetare a obiectelor dintr-o imagine([**Computer-Vision(CV)**](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/TransformersJS/index1.js)).
+Am ales, aici, in acest articol, sa implementez doar un simplu exemplu de etichetare a obiectelor dintr-o [imagine](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/TransformersJS/road.png) data([**Computer-Vision(CV)**](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/TransformersJS/index1.js)).
 
 Exemplul incarca **Transformers.js** din internet si din aceasta cauza **nu** este o varianta off-line(atentie la CORS), dar... se poate cu usurinta, face,  ca [acesta](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/TransformersJS/index1.js), sa ruleze offline(adica, descarcam resursele din internet, intr-un director local, si apoi, in [script]((https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/TransformersJS/index1.js)), le folosim pe acestea in loclul celor aflate la distanta).
 
@@ -76,7 +76,7 @@ In schimb, dupa incarcarea resurselor din internet, [totul](https://github.com/s
 
 De asemena folosesc un [webserver](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/TransformersJS/1.webserver.bat) adhoc si build-in oferit de python pt a expune local fisierul [**index.html**](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/TransformersJS/index.html)
 
-Pe parte de [client](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/TransformersJS/2.chrome_client), am deschis pagina [**index.html**](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/TransformersJS/index.html), in browser-ul **Chrome**.
+Pe parte de [client](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/TransformersJS/2.chrome_client), am deschis pagina [**index.html**](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/TransformersJS/index.html), in browser-ul **Chrome**. Pagina "sigleton/[SPA](https://libres.uncg.edu/ir/asu/f/Sapphire_Willow_Spring%202022_Thesis.pdf)" **html** este simplu stilizata cu ajutorul fisierului [**style.css**]((https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/TransformersJS/style.css)
 
 Partea de cod, din acest script [index1.js](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/TransformersJS/index1.js), care prezinta un deosebit interes/pe care va rog sa va concentrati/focusati, este selectia *speciala* de linii de cod: ...
 
@@ -96,7 +96,7 @@ In prima linie se incarca din internet, din CDN-ul ***jsdelivr.net***, mai preci
 
 Apoi folosim o linie/conducta de procesare(*pipeline*) locala, pentru a construi un **detector de obiecte**, obiecte care sunt prezente/memorate/aflate, intr-un obiect-imagine(cum este *image.src*); Pentru detectie folosim modelul **yolos-tiny**, oferit de catre cei de la ***xenova***. Acest model de dimensiune redusa este special destinat detectiei de obiecte(dintr-o imagine data), detectie local-procesata(pe parte de client) cu resurse minime, intr-un browser(adecvat versionat); Este un model cross-browser(pt ca este acceptat de multe browsere renumite, printre care si Chrome);
 
-Si in fine, in ultima linie de cod, regasim pur si simplu, *utilizarea/folosirea/invocarea* acestui **detector** si nimic mai mult(aplicata obiectului ***image.src*** si utilizand o anumita *lista de parametrii*, specifici acestui detector/***{...}***, de forma *parametru:valoare*)!
+Si in fine, in ultima linie de cod, regasim pur si simplu, *utilizarea/folosirea/invocarea* acestui **detector** si nimic mai mult(aplicata obiectului [***image.src***](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/TransformersJS/road.png) si utilizand o anumita *lista de parametrii*, specifici acestui detector/***{...}***, de forma *parametru:valoare*)!
 
 Modul de rulare este unul simplu(asa cum v-ati/am obisnuit cred!!!:), mai intai( rulati [**web*sever***](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/TransformersJS/1.webserver.bat)-ul ***1.webserver.bat***(nu-l inchideti ci doar il minimizati) si apoi rulati [**client**ul](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/TransformersJS/2.chrome_client) **2.chrome_client.bat**.
 
