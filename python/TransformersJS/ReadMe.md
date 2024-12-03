@@ -80,10 +80,10 @@ Pe parte de [client](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/
 
 Partea de [cod din script]((https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/TransformersJS/index1.js)) care prezinta un deosebit interes/pe care va rog sa va concentrati, este aceasta:
 
-  import { pipeline } from "https://cdn.jsdelivr.net/npm/@xenova/transformers@2.8.0";
-  ...
-  const detector = await pipeline("object-detection", "Xenova/yolos-tiny");
-  ...
+     import { pipeline } from "https://cdn.jsdelivr.net/npm/@xenova/transformers@2.8.0";
+     ...
+     const detector = await pipeline("object-detection", "Xenova/yolos-tiny");
+     ...
 
 
 
