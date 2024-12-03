@@ -68,7 +68,7 @@ Dacă doriți să-l testați singur, asigurați-vă că permiteți [**CORS**](ht
 
 <hr/>
 
-Am ales, aici, in acest articol, sa implementez doar un simplu exemplu de etichetare a obiectelor dintr-o [imagine](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/TransformersJS/road.png) data([**Computer-Vision(CV)**](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/TransformersJS/index1.js)).
+Am ales, aici, in acest articol, sa implementez doar un simplu [exemplu](https://huggingface.co/docs/transformers.js/tutorials/vanilla-js) de etichetare a obiectelor dintr-o [imagine](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/TransformersJS/road.png) data([**Computer-Vision(CV)**](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/TransformersJS/index1.js)).
 
 Exemplul nostru, incarca [**Transformers.js**](https://cdn.jsdelivr.net/npm/@xenova/transformers@2.8.0), din *internet*(dintr-un [CDN](https://en.wikipedia.org/wiki/Content_delivery_network)(special pregatit/destinat pt livrarea de continut: module/pachete/librarii), si, din aceasta cauza, **nu** este o varianta 100% *off-line*(pt ca are nevoie de *internet*, resursele aflandu-se la distanta ... caz in care, in anumite circumstante, trebuie sa acordati atentie si [CORS](https://en.wikipedia.org/wiki/Cross-origin_resource_sharing)-ului), dar... se poate cu usurinta, face,  ca [acesta](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/TransformersJS/index1.js), sa ruleze *offline*(adica, descarcam resursele din internet, intr-un director *local*, si apoi, in [script]((https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/TransformersJS/index1.js)), le folosim pe acestea, in locul celor aflate la distanta/in internet).
 
