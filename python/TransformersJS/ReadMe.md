@@ -40,7 +40,7 @@ Iata ce se spune in acest [articol](https://do-me.github.io/SemanticFinder/):
 
  **RAG în browser care hrănește/alimenteaza**(cu date contextuale salvate/recuperate [d]in memoria/BD-virtuala) **Ollama**<br/>
 <br/>Bună, oameni buni,<br/><br/>
-M-am gândit să împărtășesc integrarea **Ollama** în [**SemanticFinder**](https://github.com/do-me/SemanticFinder) , un [instrument](https://www.reddit.com/r/ollama/comments/1b79c23/inbrowser_rag_feeding_ollama/?tl=it) de [căutare semantică](https://do-me.github.io/SemanticFinder/) în **browser**(pe orice/indiferent de *dispozitiv*).<br/>
+M-am gândit să împărtășesc integrarea **Ollama** în [**SemanticFinder**](https://github.com/do-me/SemanticFinder) , un [instrument](https://www.reddit.com/r/ollama/comments/1b79c23/inbrowser_rag_feeding_ollama/?tl=it) de [căutare semantică](https://do-me.github.io/SemanticFinder/) în **browser**(pe orice/indiferent de [*dispozitiv*](https://github.com/modzy/hugging-face-raspberry-pi)).<br/>
 Am lucrat intens la instrumente de căutare semantică la nivelul clientului în ultimul an, pentru a le permite atât persoanelor neprofesioniste, cât și experților să folosească cele mai recente modele de încorporare fără a fi nevoie să instaleze nimic.
 
 Folosind [**Transformers.js**](https://github.com/huggingface/transformers.js), este destul de nebunesc că (aproape) toate modelele/**LLM**(sub câțiva GB) pot rula în întregime în [**browser**](https://github.com/praeclarum/transformers-js)<br/> folosind [**ONNX**](https://www.reddit.com/r/MachineLearning/comments/rr17f9/p_45_times_faster_hugging_face_transformer/)!<br/>
