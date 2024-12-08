@@ -25,10 +25,22 @@ Raspunsul ar putea arata astfel:
           ======START======
           name='It' capital='I' languages=['English', 'Japanese']
           ======1======
-          pets=[Pet(name='Luna', animal='cat', age=5, color='grey', favorite_toy='yarn'), Pet(name='Loki', animal='cat', age=2, color='black', favorite_toy='tennis balls')]
+          pets=[
+            Pet(name='Luna', animal='cat', age=5, color='grey', favorite_toy='yarn'), 
+            Pet(name='Loki', animal='cat', age=2, color='black', favorite_toy='tennis balls')]
           ======2======
           *** 3 - must to be more patient...!****
-          summary='A person with long hair is walking along a fence near a body of water.' objects=[Object(name='person', confidence=0.99, attributes='long hair'), Object(name='fence', confidence=1.0, attributes='metal bars')] scene='outdoors' colors=['red', 'black'] time_of_day='Morning' setting='Unknown' text_content='The image shows a person with long hair walking along a fence near a body of water. The person is wearing a red shirt and black pants, and they are holding onto the fence as they walk. In the background, there is a large body of water, possibly a lake or river, and some trees can be seen in the distance.'
+          summary='A person with long hair is walking along a fence near a body of water.' 
+          objects=[
+            Object(name='person', confidence=0.99, attributes='long hair'), 
+            Object(name='fence', confidence=1.0, attributes='metal bars')] 
+          scene='outdoors' 
+          colors=['red', 'black']
+          time_of_day='Morning' 
+          setting='Unknown' 
+          text_content='The image shows a person with long hair walking along a fence near a body of water. 
+                        The person is wearing a red shirt and black pants, and they are holding onto the fence as they walk. 
+                        In the background, there is a large body of water, possibly a lake or river, and some trees can be seen in the distance.'
           ======STOP======
           
           Press any key to continue . . .
