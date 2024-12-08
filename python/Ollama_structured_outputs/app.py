@@ -79,6 +79,7 @@ class ImageDescription(BaseModel):
 
 print('*** 3 - must to be more patient...!****', flush=True)
 
+#path = './imags/beach.jpg'
 path = './imags/girl_outdoor_morning.jpeg'
 
 response = chat(
