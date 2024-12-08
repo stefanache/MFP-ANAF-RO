@@ -4,7 +4,7 @@ Am testat acest video intitulat [**Structured Outputs with Ollama from Local AI 
 
 Informatii despre [**pydantic**](https://pypi.org/project/pydantic/) puteti gasi aici.
 
-Am folosit Ollama unde am incarcat(*pull*) cele 3 modele necesare acestui proiect:
+Am folosit server-ul de LLM-uri, ***Ollama***,  unde am incarcat(*pull*) cele 3 modele necesare acestui proiect:
 
                               C:\Users\user>ollama list
                               NAME                      ID              SIZE      MODIFIED
