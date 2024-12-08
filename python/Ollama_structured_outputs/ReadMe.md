@@ -4,7 +4,15 @@ Am testat acest video intitulat [**Structured Outputs with Ollama from Local AI 
 
 Informatii despre [**pydantic**](https://pypi.org/project/pydantic/) puteti gasi aici.
 
-Am folosit Ollama unde am incarcat(*pull*) cele 3 modele necesare acestui proiect
+Am folosit Ollama unde am incarcat(*pull*) cele 3 modele necesare acestui proiect:
+
+                              C:\Users\user>ollama list
+                              NAME                      ID              SIZE      MODIFIED
+                              llama3.2-vision:latest    38107a0cd119    7.9 GB    About an hour ago
+                              llama3.1:latest           46e0c10c039e    4.9 GB    About an hour ago
+                              llama3.2:latest
+                              
+                              C:\Users\user>
 
 La mine a functionat foarte bine pe PC-ul meu(**HW**: i7,32MB SSD,RTX4060 si **SW**: W1indows 10 Pro, Python 3.10, [Ollama](https://ollama.com/download/windows) 0.5.1)...
 
