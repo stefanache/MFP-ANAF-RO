@@ -23,7 +23,8 @@ Raspunsul in format JSON(usor aranjat de mine pt o mai buna/usoara vizibilitate/
           https://www.youtube.com/watch?v=jklzyaN514w
           https://www.fahdmirza.com/2024/12/control-llms-output-with-ollama.html
           ======START======
-          name='It' capital='I' 
+          name='It' 
+          capital='I' 
           languages=['English', 'Japanese']
           ======1======
           pets=[
