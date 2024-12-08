@@ -18,7 +18,7 @@ Pentru modelul ***llama3.2-vision***, am foosit ca imagine de analizat urmatoare
 
 [Proiectul](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/Ollama_structured_outputs/app.py) a [functionat](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/Ollama_structured_outputs/_RUN.bat) foarte bine pe PC-ul meu(**HW**: i7,32MB SSD,GPU=RTX4060 si **SW**: W1indows 10 Pro, Python 3.10, [Ollama](https://ollama.com/download/windows) 0.5.1)...
 
-Raspunsul in format JSON(usor aranjat de mine pt o mai buna/usoara vizibilitate/citire, ar putea arata astfel:
+Raspunsul in format JSON(de fapt sunt 3 tabele, usor aranjate de mine pt o mai buna/usoara vizibilitate/citire), ar putea arata astfel:
 
           https://www.youtube.com/watch?v=jklzyaN514w
           https://www.fahdmirza.com/2024/12/control-llms-output-with-ollama.html
