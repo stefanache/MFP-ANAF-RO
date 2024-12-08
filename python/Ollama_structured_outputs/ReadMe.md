@@ -8,11 +8,12 @@ Am folosit Ollama unde am incarcat(*pull*) cele 3 modele necesare acestui proiec
 
                               C:\Users\user>ollama list
                               NAME                      ID              SIZE      MODIFIED
-                              llama3.2-vision:latest    38107a0cd119    7.9 GB    About an hour ago
-                              llama3.1:latest           46e0c10c039e    4.9 GB    About an hour ago
-                              llama3.2:latest
+                              ***llama3.2-vision***:latest    38107a0cd119    7.9 GB    About an hour ago
+                              ***llama3.1***:latest           46e0c10c039e    4.9 GB    About an hour ago
+                              ***llama3.2***:latest
                               
                               C:\Users\user>
+Pentru modelul ***llama3.2-vision***, am foosit ca imagine de analizat urmatoarea [imagine](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/Ollama_structured_outputs/imags/girl_outdoor_morning.jpeg)...dar, desigur voi puteti descarca oricare alta imagine.
 
 La mine a functionat foarte bine pe PC-ul meu(**HW**: i7,32MB SSD,RTX4060 si **SW**: W1indows 10 Pro, Python 3.10, [Ollama](https://ollama.com/download/windows) 0.5.1)...
 
