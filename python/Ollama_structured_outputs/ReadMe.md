@@ -36,7 +36,7 @@ Raspunsul, in format *JSON*(de fapt sunt 3 tabele, usor aranjate de mine pt o ma
           summary='A person with long hair is walking along a fence near a body of water.' 
           objects=[
             Object(name='person', confidence=0.99, attributes='long hair'), 
-            Object(name='fence', confidence=1.0, attributes='metal bars')
+            Object(name='fence',  confidence=1.0,  attributes='metal bars')
             ] 
           scene='outdoors' 
           colors=['red', 'black']
