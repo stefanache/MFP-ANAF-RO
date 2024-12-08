@@ -4,7 +4,7 @@ Am testat acest [video](https://www.fahdmirza.com/) intitulat [**Structured Outp
 
 Informatii despre [**pydantic**](https://pypi.org/project/pydantic/) puteti gasi [aici](https://python.langchain.com/v0.1/docs/modules/model_io/output_parsers/types/pydantic/).
 
-Am folosit server-ul de LLM-uri, ***Ollama***,  unde am incarcat(*pull*) cele 3 modele necesare acestui proiect:
+Am folosit server-ul de LLM-uri, ***Ollama***,  unde am incarcat(*pull*) cele 3 modele necesare acestui [proiect](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/Ollama_structured_outputs/app.py):
 
                               C:\Users\user>ollama list
                               
