@@ -40,7 +40,8 @@ Raspunsul in format JSON, ar putea arata astfel:
           setting='Unknown' 
           text_content='The image shows a person with long hair walking along a fence near a body of water. 
                         The person is wearing a red shirt and black pants, and they are holding onto the fence as they walk. 
-                        In the background, there is a large body of water, possibly a lake or river, and some trees can be seen in the distance.'
+                        In the background, there is a large body of water, possibly a lake or river, and some trees can be seen i
+                        n the distance.'
           ======STOP======
           
           Press any key to continue . . .
