@@ -7,6 +7,7 @@ Informatii despre [**pydantic**](https://pypi.org/project/pydantic/) puteti gasi
 Am folosit server-ul de LLM-uri, ***Ollama***,  unde am incarcat(*pull*) cele 3 modele necesare acestui proiect:
 
                               C:\Users\user>ollama list
+                              
                               NAME                      ID              SIZE      MODIFIED
                                llama3.2-vision:latest    38107a0cd119    7.9 GB    About an hour ago
                                llama3.1:latest           46e0c10c039e    4.9 GB    About an hour ago
