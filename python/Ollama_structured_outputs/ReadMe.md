@@ -6,4 +6,6 @@ Informatii despre [**pydantic**](https://pypi.org/project/pydantic/) puteti gasi
 
 Am folosit Ollama unde am incarcat(*pull*) cele 3 modele necesare acestui proiect
 
-La mine a functionat foarte bine pe PC-ul meu(**HW**: i7,32MB SSD,RTX4060 si **SW**: W1indows 10 Pro, Python 3.10, Ollama 0.5.1)...sper sa va fie util!
+La mine a functionat foarte bine pe PC-ul meu(**HW**: i7,32MB SSD,RTX4060 si **SW**: W1indows 10 Pro, Python 3.10, Ollama 0.5.1)...
+
+...sper sa va fie util!
