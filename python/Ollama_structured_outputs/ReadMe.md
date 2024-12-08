@@ -2,7 +2,7 @@ Am testat acest video intitulat [**Structured Outputs with Ollama from Local AI 
 
 [**Codul python**](https://www.fahdmirza.com/2024/12/control-llms-output-with-ollama.html) l-am gasi [aici](https://ollama.com/blog/structured-outputs)
 
-Informatii despre [**pydantic**](https://pypi.org/project/pydantic/) puteti gasi aici.
+Informatii despre [**pydantic**](https://pypi.org/project/pydantic/) puteti gasi [aici](https://python.langchain.com/v0.1/docs/modules/model_io/output_parsers/types/pydantic/).
 
 Am folosit server-ul de LLM-uri, ***Ollama***,  unde am incarcat(*pull*) cele 3 modele necesare acestui proiect:
 
