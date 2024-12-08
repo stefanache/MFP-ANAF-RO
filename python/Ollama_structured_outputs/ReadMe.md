@@ -8,9 +8,9 @@ Am folosit Ollama unde am incarcat(*pull*) cele 3 modele necesare acestui proiec
 
                               C:\Users\user>ollama list
                               NAME                      ID              SIZE      MODIFIED
-                              ***llama3.2-vision***:latest    38107a0cd119    7.9 GB    About an hour ago
-                              ***llama3.1***:latest           46e0c10c039e    4.9 GB    About an hour ago
-                              ***llama3.2***:latest
+                               llama3.2-vision:latest    38107a0cd119    7.9 GB    About an hour ago
+                               llama3.1:latest           46e0c10c039e    4.9 GB    About an hour ago
+                               llama3.2:latest
                               
                               C:\Users\user>
 Pentru modelul ***llama3.2-vision***, am foosit ca imagine de analizat urmatoarea [imagine](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/Ollama_structured_outputs/imags/girl_outdoor_morning.jpeg)...dar, desigur voi puteti descarca oricare [alta](https://www.google.com/search?sca_esv=1b6df71c373af725&rlz=1C1CHBF_enRO1132RO1132&sxsrf=ADLYWILrF8cNj4vyqo3Phzz8_byQm7sLEw:1733664532356&q=morning+outdoor+activities&udm=2&fbs=AEQNm0AuaLfhdrtx2b9ODfK0pnmis1zS4enB7jefi_fubH5nz6ICWh5uGv91yDc_1gBPBe0FH0P0ZVfrH8X) imagine.
