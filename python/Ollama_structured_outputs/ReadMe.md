@@ -16,7 +16,7 @@ Am folosit server-ul de LLM-uri, ***Ollama***,  unde am incarcat(*pull*) cele 3 
                               C:\Users\user>
 Modelele **llama3.1** si [**llama3.2**](https://www.fahdmirza.com/2024/11/create-free-local-ai-dungeon-game-with.html) sunt modele conversationale, in timp ce **llama3.2-vision** este un model pt Computer-Vision.(a se revedea [exemplele](https://www.youtube.com/@fahdmirza) postate de catre [**Fahd-Mirza**](https://www.fahdmirza.com/), care utilizeaza astfel de LLM-uri); Modelele *LLM* destinate *Computer Vision*, le veti putea intalni si sub titulatura ***Vison Language Model([VLM](https://www.youtube.com/watch?v=T_D_LFJFVvI))***.
 
-**Nota**: a nu se confunda ***Vison Language Model(VLM)*** cu [***Vision-Language-Action(VLA)***]( vision-language-action model (VLA model
+**Nota**: a nu se confunda modelul de tip ***Vison Language Model(VLM)*** cu  modelul de tip [***Vision-Language-Action(VLA)***](https://www.youtube.com/watch?v=ozhQLNprW2A)!
 
 Pentru modelul ***llama3.2-vision***(utilizat pt. extragerea descrierii-textuale dintr-o imagine: **img***2***txt**), am folosit ca imagine de analizat urmatoarea [imagine](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/Ollama_structured_outputs/imags/girl_outdoor_morning.jpeg)...dar, desigur voi puteti descarca oricare [alta](https://www.google.com/search?sca_esv=1b6df71c373af725&rlz=1C1CHBF_enRO1132RO1132&sxsrf=ADLYWILrF8cNj4vyqo3Phzz8_byQm7sLEw:1733664532356&q=morning+outdoor+activities&udm=2&fbs=AEQNm0AuaLfhdrtx2b9ODfK0pnmis1zS4enB7jefi_fubH5nz6ICWh5uGv91yDc_1gBPBe0FH0P0ZVfrH8X) [imagine](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/Ollama_structured_outputs/imags/beach.jpg).
 
