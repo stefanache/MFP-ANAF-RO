@@ -39,22 +39,23 @@ Tehnica sau cadrul ["**Reflexiei**"](https://www.promptingguide.ai/techniques/re
 
 Reflexia este cea mai potrivită pentru următoarele:
 
-1.Un agent trebuie să învețe din încercări și erori : Reflexia este concepută pentru a ajuta agenții să-și îmbunătățească performanța reflectând asupra greșelilor trecute și încorporând aceste cunoștințe în deciziile viitoare. Acest lucru îl face foarte potrivit pentru sarcini în care agentul trebuie să învețe prin încercări și erori, cum ar fi luarea deciziilor, raționamentul și programarea.
+1.**Un agent trebuie să învețe din încercări și erori** : Reflexia este concepută pentru a ajuta agenții să-și îmbunătățească performanța reflectând asupra greșelilor trecute și încorporând aceste cunoștințe în deciziile viitoare. Acest lucru îl face foarte potrivit pentru sarcini în care agentul trebuie să învețe prin încercări și erori, cum ar fi luarea deciziilor, raționamentul și programarea.
 
-2.Metodele tradiționale de învățare prin întărire sunt impracticabile : Metodele tradiționale de învățare prin întărire (RL) necesită adesea date extinse de antrenament și ajustarea fină a modelului costisitoare. Reflexion oferă o alternativă ușoară care nu necesită o reglare fină a modelului de limbaj de bază, făcându-l mai eficient în ceea ce privește datele și resursele de calcul.
+2.**Metodele tradiționale de învățare prin întărire sunt impracticabile** : Metodele tradiționale de învățare prin întărire (RL) necesită adesea date extinse de antrenament și ajustarea fină a modelului costisitoare. Reflexion oferă o alternativă ușoară care nu necesită o reglare fină a modelului de limbaj de bază, făcându-l mai eficient în ceea ce privește datele și resursele de calcul.
 
-3.Este necesar feedback nuanțat : Reflexia utilizează feedback-ul verbal, care poate fi mai nuanțat și mai specific decât recompensele scalare utilizate în RL tradițional. Acest lucru permite agentului să-și înțeleagă mai bine greșelile și să facă îmbunătățiri mai precise în încercările ulterioare.
+3.**Este necesar feedback nuanțat** : Reflexia utilizează feedback-ul verbal, care poate fi mai nuanțat și mai specific decât recompensele scalare utilizate în RL tradițional. Acest lucru permite agentului să-și înțeleagă mai bine greșelile și să facă îmbunătățiri mai precise în încercările ulterioare.
 
-4.Interpretabilitatea și memoria explicită sunt importante : reflexia oferă o formă mai interpretabilă și mai explicită de memorie episodică în comparație cu metodele tradiționale RL. Auto-reflecțiile agentului sunt stocate în memoria sa, permițând o analiză și înțelegere mai ușoară a procesului său de învățare.
+4.**Interpretabilitatea și memoria explicită sunt importante** : reflexia oferă o formă mai interpretabilă și mai explicită de memorie episodică în comparație cu metodele tradiționale RL. Auto-reflecțiile agentului sunt stocate în memoria sa, permițând o analiză și înțelegere mai ușoară a procesului său de învățare.
 
 **Reflexia este eficientă în următoarele sarcini:**
 
-Luare succesivă a deciziilor : agenții de reflecție își îmbunătățesc performanța în sarcinile AlfWorld, care implică navigarea prin diferite medii și îndeplinirea obiectivelor în mai mulți pași.
-Raționament : Reflexion a îmbunătățit performanța agenților pe HotPotQA, un set de date cu răspunsuri la întrebări care necesită raționament pe mai multe documente.
-Programare : agenții de reflexie scriu cod mai bun pe benchmark-uri precum HumanEval și MBPP, obținând rezultate de ultimă generație în unele cazuri.
-Iată câteva limitări ale Reflexiei:
+ - **Luare succesivă a deciziilor** : agenții de reflecție își îmbunătățesc performanța în sarcinile AlfWorld, care implică navigarea prin diferite medii și îndeplinirea obiectivelor în mai mulți pași.
+ - **Raționament** : Reflexion a îmbunătățit performanța agenților pe HotPotQA, un set de date cu răspunsuri la întrebări care necesită raționament pe mai multe documente.
+ - **Programare** : agenții de reflexie scriu cod mai bun pe benchmark-uri precum HumanEval și MBPP, obținând rezultate de ultimă generație în unele cazuri.
 
-Încrederea pe capacitățile de autoevaluare : Reflexia se bazează pe capacitatea agentului de a-și evalua cu acuratețe performanța și de a genera auto-reflecții utile. Acest lucru poate fi o provocare, mai ales pentru sarcini complexe, dar este de așteptat ca Reflexion să se îmbunătățească în timp, pe măsură ce modelele continuă să își îmbunătățească capacitățile.
-Constrângeri de memorie pe termen lung : Reflexion folosește o fereastră glisantă cu capacitate maximă, dar pentru sarcini mai complexe poate fi avantajoasă utilizarea structurilor avansate, cum ar fi încorporarea vectorială sau bazele de date SQL.
-Limitări de generare de cod : Există limitări pentru dezvoltarea bazată pe test în specificarea mapărilor precise de intrare-ieșire (de exemplu, funcție de generator nedeterministă și ieșiri ale funcției influențate de hardware).
+***Iată câteva limitări ale Reflexiei:***
+
+ - **Încrederea pe capacitățile de autoevaluare** : Reflexia se bazează pe capacitatea agentului de a-și evalua cu acuratețe performanța și de a genera auto-reflecții utile. Acest lucru poate fi o provocare, mai ales pentru sarcini complexe, dar este de așteptat ca Reflexion să se îmbunătățească în timp, pe măsură ce modelele continuă să își îmbunătățească capacitățile.
+ - **Constrângeri de memorie pe termen lung** : Reflexion folosește o fereastră glisantă cu capacitate maximă, dar pentru sarcini mai complexe poate fi avantajoasă utilizarea structurilor avansate, cum ar fi încorporarea vectorială sau bazele de date SQL.
+ - **Limitări de generare de cod* : Există limitări pentru dezvoltarea bazată pe test în specificarea mapărilor precise de intrare-ieșire (de exemplu, funcție de generator nedeterministă și ieșiri ale funcției influențate de hardware).
 
