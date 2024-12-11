@@ -6,7 +6,7 @@ In general conceptul [**self-reflection**](https://en.wikipedia.org/wiki/Self-re
 
 [Reflecția](https://langchain-ai.github.io/langgraphjs/tutorials/reflection/reflection/) este o strategie de stimulare utilizată pentru a îmbunătăți calitatea și rata de succes a agenților AI și a sistemelor AI similare.
 
-În contextul construirii de agenți LLM, [reflecția](https://promptengineering.org/reflexion-an-iterative-approach-to-llm-problem-solving/) se referă la procesul de a determina un [LLM](https://www.unite.ai/ro/overcoming-llm-hallucinations-using-retrieval-augmented-generation-rag/) să-și observe pașii deja efectuati(in trecut) (împreună cu observațiile potențiale din instrumente/mediu) pentru a evalua calitatea acțiunilor alese. Acest "[*audit-intern/feedback*](https://www.promptingguide.ai/techniques/reflexion)" este apoi folosit în aval pentru lucruri precum replanificare, căutare sau evaluare(daca vreti, cumva este similar cu "a invata din propriile noastre greseli"). Asadar **autoreflectia** ajută agentul-AI să învețe rapid și eficient din greșelile anterioare, ceea ce duce la îmbunătățiri ale performanței pentru multe sarcini avansate.
+În contextul construirii de agenți **LLM**, [reflecția](https://promptengineering.org/reflexion-an-iterative-approach-to-llm-problem-solving/) se referă la procesul de a determina un [LLM](https://www.unite.ai/ro/overcoming-llm-hallucinations-using-retrieval-augmented-generation-rag/) să-și observe pașii deja efectuati(in trecut) (împreună cu observațiile potențiale din instrumente/mediu) pentru a evalua calitatea acțiunilor alese. Acest "[*audit-intern/feedback*](https://www.promptingguide.ai/techniques/reflexion)" este apoi folosit în aval pentru lucruri precum replanificare, căutare sau evaluare(daca vreti, cumva este similar cu "a invata din propriile noastre greseli"). Asadar **autoreflectia** ajută agentul-AI să învețe rapid și eficient din greșelile anterioare, ceea ce duce la îmbunătățiri ale performanței pentru multe sarcini avansate.
 
 Tehnica sau cadrul ["**Reflexiei**"](https://www.promptingguide.ai/techniques/reflexion) spcific unui agent-AI, constă din trei **modele** distincte:
 
@@ -16,7 +16,7 @@ Tehnica sau cadrul ["**Reflexiei**"](https://www.promptingguide.ai/techniques/re
                   De asemenea, este adăugată o componentă de memorie pentru a oferi un context suplimentar agentului.
  - Un ***evaluator(c)*** : punctează rezultate produse de **actor**.
                       Concret, ia ca intrare o **traiectorie(b)** generată (denumită și **memorie pe termen scurt(b)**) și emite un ***scor de recompensă***.
-                      Sunt utilizate diferite ***funcții de recompensă***, în funcție de sarcină (LLM-urile și euristicile bazate pe reguli sunt folosite pentru sarcinile de **1.luare a deciziilor**).
+                      Sunt utilizate diferite ***funcții de recompensă***, în funcție de sarcină (**LLM**-urile și euristicile bazate pe reguli sunt folosite pentru sarcinile de **1.luare a deciziilor**).
  - *Auto-reflecție(d,e)* : generează indicii de *întărire verbală(d)* | *"verbal reinforcement(VR)"* pentru a-l ajuta pe **actor** să se *autoperfecționeze(d)*.
                         Acest rol(*d*) este atins de un **LLM** și oferă *feedback(d)* valoros pentru *încercările viitoare(e)*.
                         Pentru a genera *feedback(d)* specific și relevant(*feedback(d)* care este, de asemenea, stocat în memorie),
