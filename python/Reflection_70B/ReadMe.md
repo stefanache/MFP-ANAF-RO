@@ -39,13 +39,13 @@ Tehnica sau cadrul ["**Reflexiei**"](https://www.promptingguide.ai/techniques/re
 
 Reflexia este cea mai potrivită pentru următoarele:
 
-1.**Un agent trebuie să învețe din încercări și erori** : Reflexia este concepută pentru a ajuta agenții să-și îmbunătățească performanța reflectând asupra greșelilor trecute și încorporând aceste cunoștințe în deciziile viitoare. Acest lucru îl face foarte potrivit pentru sarcini în care agentul trebuie să învețe prin încercări și erori, cum ar fi luarea deciziilor, raționamentul și programarea.
+I.**Un agent trebuie să învețe din încercări și erori** : Reflexia este concepută pentru a ajuta agenții să-și îmbunătățească performanța reflectând asupra greșelilor trecute și încorporând aceste cunoștințe în deciziile viitoare. Acest lucru îl face foarte potrivit pentru sarcini în care agentul trebuie să învețe prin încercări și erori, cum ar fi 1.luarea deciziilor, 2.raționamentul și 3.programarea.
 
-2.**Metodele tradiționale de învățare prin întărire sunt impracticabile** : Metodele tradiționale de învățare prin întărire (RL) necesită adesea date extinse de antrenament și ajustarea fină a modelului costisitoare. Reflexion oferă o alternativă ușoară care nu necesită o reglare fină a modelului de limbaj de bază, făcându-l mai eficient în ceea ce privește datele și resursele de calcul.
+II.**Metodele tradiționale de învățare prin întărire sunt impracticabile** : Metodele tradiționale de învățare prin întărire (RL) necesită adesea date extinse de antrenament și ajustarea fină a modelului costisitoare. Reflexion oferă o alternativă ușoară care nu necesită o reglare fină a modelului de limbaj de bază, făcându-l mai eficient în ceea ce privește datele și resursele de calcul.
 
-3.**Este necesar feedback nuanțat** : Reflexia utilizează feedback-ul verbal, care poate fi mai nuanțat și mai specific decât recompensele scalare utilizate în RL tradițional. Acest lucru permite agentului să-și înțeleagă mai bine greșelile și să facă îmbunătățiri mai precise în încercările ulterioare.
+III.**Este necesar feedback nuanțat** : Reflexia utilizează feedback-ul verbal, care poate fi mai nuanțat și mai specific decât recompensele scalare utilizate în RL tradițional. Acest lucru permite agentului să-și înțeleagă mai bine greșelile și să facă îmbunătățiri mai precise în încercările ulterioare.
 
-4.**Interpretabilitatea și memoria explicită sunt importante** : reflexia oferă o formă mai interpretabilă și mai explicită de memorie episodică în comparație cu metodele tradiționale RL. Auto-reflecțiile agentului sunt stocate în memoria sa, permițând o analiză și înțelegere mai ușoară a procesului său de învățare.
+IV.**Interpretabilitatea și memoria explicită sunt importante** : reflexia oferă o formă mai interpretabilă și mai explicită de memorie episodică în comparație cu metodele tradiționale RL. Auto-reflecțiile agentului sunt stocate în memoria sa, permițând o analiză și înțelegere mai ușoară a procesului său de învățare.
 
 **Reflexia este eficientă în următoarele sarcini:**
 
