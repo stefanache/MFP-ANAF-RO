@@ -51,7 +51,7 @@ IV.**Interpretabilitatea și memoria explicită sunt importante** : *Reflexia* o
 
  - **Luare succesivă a deciziilor** : agenții de *reflecție* își îmbunătățesc performanța în sarcinile [**ALFWorld**](https://paperswithcode.com/dataset/alfworld), care implică navigarea prin diferite medii și îndeplinirea obiectivelor în mai mulți pași.
  - **Raționament** : *Reflexia* a îmbunătățit performanța agenților pe [**HotPotQA**](https://www.youtube.com/watch?v=Qz_2KjNfa7I), un set de date(*dataset*) cu răspunsuri la întrebări care necesită *raționament*(modul de gandire) pe mai multe documente.
- - **Programare** : agenții de *reflexie* scriu *cod* mai bun pe *benchmark*-uri precum [**HumanEval**](https://github.com/turintech/reflexion-human-eval) și [**MBPP**](https://paperswithcode.com/paper/reflexion-language-agents-with-verbal), obținând rezultate de ultimă generație în unele cazuri.
+ - **Programare** : agenții de *reflexie* pot scrie un *cod* mai bun pe *benchmark*-uri precum [**HumanEval**](https://github.com/turintech/reflexion-human-eval) și [**MBPP**](https://paperswithcode.com/paper/reflexion-language-agents-with-verbal), obținând rezultate de ultimă generație în unele cazuri.
 
 ***Iată câteva limitări ale Reflexiei:***
 
