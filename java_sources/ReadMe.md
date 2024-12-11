@@ -39,3 +39,5 @@ Pentru ***declaratii-ANAF*** consultati acest [depozit-ghithub](https://github.c
 [**Langchain**](https://github.com/langchain4j/langchain4j?tab=readme-ov-file) are si o versiune java(puteti vedea [**exemplele**](https://github.com/langchain4j/langchain4j-examples/tree/main/other-examples/src/main/java))
 
 Daca sunteti la inceput de drum si doriti sa experimentati local, LLM-ul **Llama 3.2**, in varianta sa ***Ubuntu***, atunci acest [*video-YT*](https://www.youtube.com/watch?v=64iXIsgesvI), intitulat "*Llama3.Java - Run Llama3.2 Locally in Pure Modern Java on Any Device*", poate fi extrem de util. Pentru **Llama3** puteti consulata acest [*video-YT*](https://www.youtube.com/watch?v=5n7rNkvqtgY). In cazul in care utilizati ca LLM, **Llama2** atunci poate va aruncati o privire pe acest [*video-YT*](https://www.youtube.com/watch?v=71t5vjSbfsI).
+
+Pentru cei care doresc sa lucreze de sub Ubuntu, utilizand python, acest [*videoclip-YT*](https://www.youtube.com/watch?v=2td5NYqIfOk) arată cum să instalați local **qwen2.5-7b-ins-v3**, care este un instrument CoT necenzurat, cu capabilități remarcabile.
