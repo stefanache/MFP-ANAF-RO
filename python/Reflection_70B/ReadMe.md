@@ -8,7 +8,7 @@ In general conceptul [**self-reflection**](https://en.wikipedia.org/wiki/Self-re
 
 În contextul construirii de agenți LLM, [reflecția](https://promptengineering.org/reflexion-an-iterative-approach-to-llm-problem-solving/) se referă la procesul de a determina un LLM să-și observe pașii deja efectuati(in trecut) (împreună cu observațiile potențiale din instrumente/mediu) pentru a evalua calitatea acțiunilor alese. Acest "[*audit-intern/feedback*](https://www.promptingguide.ai/techniques/reflexion)" este apoi folosit în aval pentru lucruri precum replanificare, căutare sau evaluare(daca vreti, cumva este similar cu "a invata din propriile noastre greseli"). Asadar **autoreflectia** ajută agentul să învețe rapid și eficient din greșelile anterioare, ceea ce duce la îmbunătățiri ale performanței pentru multe sarcini avansate.
 
-[Reflexia](https://www.promptingguide.ai/techniques/reflexion) constă din trei modele distincte:
+Tehnica ["**Reflexiei**"](https://www.promptingguide.ai/techniques/reflexion) constă din trei modele distincte:
 
  - Un **actor** : generează text și acțiuni pe baza observațiilor de stare.
                   Actorul face o acțiune într-un mediu și primește o observație care are ca rezultat o traiectorie.
