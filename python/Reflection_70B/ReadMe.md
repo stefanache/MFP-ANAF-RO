@@ -57,5 +57,5 @@ IV.**Interpretabilitatea și memoria explicită sunt importante** : reflexia ofe
 
  - **Încrederea pe capacitățile de autoevaluare** : Reflexia se bazează pe capacitatea agentului de a-și evalua cu acuratețe performanța și de a genera auto-reflecții utile. Acest lucru poate fi o provocare, mai ales pentru sarcini complexe, dar este de așteptat ca Reflexion să se îmbunătățească în timp, pe măsură ce modelele continuă să își îmbunătățească capacitățile.
  - **Constrângeri de memorie pe termen lung** : Reflexion folosește o fereastră glisantă cu capacitate maximă, dar pentru sarcini mai complexe poate fi avantajoasă utilizarea structurilor avansate, cum ar fi încorporarea vectorială sau bazele de date SQL.
- - **Limitări de generare de cod* : Există limitări pentru dezvoltarea bazată pe test în specificarea mapărilor precise de intrare-ieșire (de exemplu, funcție de generator nedeterministă și ieșiri ale funcției influențate de hardware).
+ - **Limitări de generare de cod** : Există limitări pentru dezvoltarea bazată pe test în specificarea mapărilor precise de intrare-ieșire (de exemplu, funcție de generator nedeterministă și ieșiri ale funcției influențate de hardware).
 
