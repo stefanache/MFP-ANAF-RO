@@ -23,7 +23,7 @@ Tehnica ["**Reflexiei**"](https://www.promptingguide.ai/techniques/reflexion) co
                         modelul de autoreflecție folosește semnalul de recompensă, traiectoria curentă și memoria sa persistentă.
                         Aceste experiențe (stocate în memoria pe termen lung) sunt valorificate de agent pentru a îmbunătăți rapid procesul decizional.
 
-În rezumat, **pașii cheie/importanti(a,b,c,d,e)** ai procesului de reflexie sunt:
+În rezumat, **pașii cheie/importanti(a,b,c,d,e)** ai procesului de **reflexie** sunt:
 
  - a) definirea unei sarcini(**Task: 1. Decision-making | 2. Programming | 3. Reasoning**),
  - b) generarea unei traiectorii(**Trajectory**),
