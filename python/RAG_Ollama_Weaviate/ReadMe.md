@@ -35,5 +35,5 @@ Pentru a verifica daca s-au instalat cele 2 [modele](https://www.datacamp.com/tu
 
    <hr/>
 
-   Un alt exemplu ***dockerizat*** este acest proiect ***Chat*** [**Ollama** + **LC** + **Streamlit**](https://abvijaykumar.medium.com/ollama-build-a-chatbot-with-langchain-ollama-deploy-on-docker-5dfcfd140363)
+   Un alt exemplu runtime-***dockerizat*** este acest proiect ***Chat*** [**Ollama** + **LC** + **Streamlit**](https://abvijaykumar.medium.com/ollama-build-a-chatbot-with-langchain-ollama-deploy-on-docker-5dfcfd140363)
  
