@@ -17,7 +17,7 @@ Tehnica sau cadrul ["**Reflexiei**"](https://www.promptingguide.ai/techniques/re
  - Un ***evaluator(c)*** : punctează rezultate produse de **actor**.
                       Concret, ia ca intrare o **traiectorie(b)** generată (denumită și **memorie pe termen scurt(b)**) și emite un ***scor de recompensă***.
                       Sunt utilizate diferite ***funcții de recompensă***, în funcție de sarcină (LLM-urile și euristicile bazate pe reguli sunt folosite pentru sarcinile de **1.luare a deciziilor**).
- - *Auto-reflecție(d,e)* : generează indicii de *întărire verbală(d) | reinforcing learning* pentru a-l ajuta pe **actor** să se *autoperfecționeze(d)*.
+ - *Auto-reflecție(d,e)* : generează indicii de *întărire verbală(d)* | *"verbal reinforcement" * pentru a-l ajuta pe **actor** să se *autoperfecționeze(d)*.
                         Acest rol(*d*) este atins de un **LLM** și oferă *feedback(d)* valoros pentru *încercările viitoare(e)*.
                         Pentru a genera *feedback(d)* specific și relevant(*feedback(d)* care este, de asemenea, stocat în memorie),
                         modelul de *auto-reflecție* folosește *semnalul de recompensă*, *traiectoria curentă* și *memoria sa persistentă*.
@@ -39,15 +39,15 @@ Tehnica sau cadrul ["**Reflexiei**"](https://www.promptingguide.ai/techniques/re
 
 Reflexia este cea mai potrivită pentru următoarele:
 
-Un agent trebuie să învețe din încercări și erori : Reflexia este concepută pentru a ajuta agenții să-și îmbunătățească performanța reflectând asupra greșelilor trecute și încorporând aceste cunoștințe în deciziile viitoare. Acest lucru îl face foarte potrivit pentru sarcini în care agentul trebuie să învețe prin încercări și erori, cum ar fi luarea deciziilor, raționamentul și programarea.
+1.Un agent trebuie să învețe din încercări și erori : Reflexia este concepută pentru a ajuta agenții să-și îmbunătățească performanța reflectând asupra greșelilor trecute și încorporând aceste cunoștințe în deciziile viitoare. Acest lucru îl face foarte potrivit pentru sarcini în care agentul trebuie să învețe prin încercări și erori, cum ar fi luarea deciziilor, raționamentul și programarea.
 
-Metodele tradiționale de învățare prin întărire sunt impracticabile : Metodele tradiționale de învățare prin întărire (RL) necesită adesea date extinse de antrenament și ajustarea fină a modelului costisitoare. Reflexion oferă o alternativă ușoară care nu necesită o reglare fină a modelului de limbaj de bază, făcându-l mai eficient în ceea ce privește datele și resursele de calcul.
+2.Metodele tradiționale de învățare prin întărire sunt impracticabile : Metodele tradiționale de învățare prin întărire (RL) necesită adesea date extinse de antrenament și ajustarea fină a modelului costisitoare. Reflexion oferă o alternativă ușoară care nu necesită o reglare fină a modelului de limbaj de bază, făcându-l mai eficient în ceea ce privește datele și resursele de calcul.
 
-Este necesar feedback nuanțat : Reflexia utilizează feedback-ul verbal, care poate fi mai nuanțat și mai specific decât recompensele scalare utilizate în RL tradițional. Acest lucru permite agentului să-și înțeleagă mai bine greșelile și să facă îmbunătățiri mai precise în încercările ulterioare.
+3.Este necesar feedback nuanțat : Reflexia utilizează feedback-ul verbal, care poate fi mai nuanțat și mai specific decât recompensele scalare utilizate în RL tradițional. Acest lucru permite agentului să-și înțeleagă mai bine greșelile și să facă îmbunătățiri mai precise în încercările ulterioare.
 
-Interpretabilitatea și memoria explicită sunt importante : reflexia oferă o formă mai interpretabilă și mai explicită de memorie episodică în comparație cu metodele tradiționale RL. Auto-reflecțiile agentului sunt stocate în memoria sa, permițând o analiză și înțelegere mai ușoară a procesului său de învățare.
+4.Interpretabilitatea și memoria explicită sunt importante : reflexia oferă o formă mai interpretabilă și mai explicită de memorie episodică în comparație cu metodele tradiționale RL. Auto-reflecțiile agentului sunt stocate în memoria sa, permițând o analiză și înțelegere mai ușoară a procesului său de învățare.
 
-Reflexia este eficientă în următoarele sarcini:
+**Reflexia este eficientă în următoarele sarcini:**
 
 Luare succesivă a deciziilor : agenții de reflecție își îmbunătățesc performanța în sarcinile AlfWorld, care implică navigarea prin diferite medii și îndeplinirea obiectivelor în mai mulți pași.
 Raționament : Reflexion a îmbunătățit performanța agenților pe HotPotQA, un set de date cu răspunsuri la întrebări care necesită raționament pe mai multe documente.
