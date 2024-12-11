@@ -6,4 +6,4 @@ In general conceptul [**self-reflection**](https://en.wikipedia.org/wiki/Self-re
 
 [Reflecția](https://langchain-ai.github.io/langgraphjs/tutorials/reflection/reflection/) este o strategie de stimulare utilizată pentru a îmbunătăți calitatea și rata de succes a agenților AI și a sistemelor AI similare.
 
-În contextul construirii de agenți LLM, reflecția se referă la procesul de a determina un LLM să-și observe pașii deja efectuati(in trecut) (împreună cu observațiile potențiale din instrumente/mediu) pentru a evalua calitatea acțiunilor alese. Aceasta evaluare este apoi folosita în aval pentru lucruri precum replanificare, căutare sau evaluare.
+În contextul construirii de agenți LLM, reflecția se referă la procesul de a determina un LLM să-și observe pașii deja efectuati(in trecut) (împreună cu observațiile potențiale din instrumente/mediu) pentru a evalua calitatea acțiunilor alese. Acesta audit este apoi folosit în aval pentru lucruri precum replanificare, căutare sau evaluare.
