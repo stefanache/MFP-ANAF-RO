@@ -32,4 +32,8 @@ Zona mea particulara/specifica/privata adica **datele primare** de intrare care 
 Pentru a verifica daca s-au instalat cele 2 [modele](https://www.datacamp.com/tutorial/llama-3-1-rag) sau pentru a verifica daca nu aveti deja instalate cele 2 [modele](https://qwenlm.github.io/blog/qwen2-math/)(cu alta ocazie), veti putea plasa comanda shell(cmd.exe):
 
         ollama list
-   
+
+   <hr/>
+
+   Un alt exemplu ***dockerizat*** este acest proiect ***Chat*** [**Ollama** + **LC** + **Streamlit**](https://abvijaykumar.medium.com/ollama-build-a-chatbot-with-langchain-ollama-deploy-on-docker-5dfcfd140363)
+ 
