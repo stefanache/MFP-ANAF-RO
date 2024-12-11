@@ -37,3 +37,5 @@ Pentru ***declaratii-ANAF*** consultati acest [depozit-ghithub](https://github.c
 <hr/>
 
 [**Langchain**](https://github.com/langchain4j/langchain4j?tab=readme-ov-file) are si o versiune java(puteti vedea [**exemplele**](https://github.com/langchain4j/langchain4j-examples/tree/main/other-examples/src/main/java))
+
+Daca doriti sa experimentati **Llama 3.2**, in varianta sa ***Ubuntu***, atunci acest [*video*](https://www.youtube.com/watch?v=64iXIsgesvI) poate fi util.
