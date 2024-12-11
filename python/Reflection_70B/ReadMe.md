@@ -27,7 +27,7 @@ Tehnica ["**Reflexiei**"](https://www.promptingguide.ai/techniques/reflexion) co
 
  - a) definirea unei sarcini(**Task**),
  - b) generarea unei traiectorii(**Trajectory**),
- - c) evaluarea,
+ - c) evaluarea(**Evaluation internal/external**),
  - d) efectuarea reflecției și
  - e) generarea următoarei traiectorii.
 
