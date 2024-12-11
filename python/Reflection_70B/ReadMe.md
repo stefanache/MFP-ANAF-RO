@@ -25,7 +25,7 @@ Tehnica ["**Reflexiei**"](https://www.promptingguide.ai/techniques/reflexion) co
 
 În rezumat, **pașii cheie/importanti(a,b,c,d,e)** ai procesului de reflexie sunt:
 
- - a) definirea unei sarcini(**Task: Decision Making | **),
+ - a) definirea unei sarcini(**Task: 1.decision-making|2.programming|3.reasoning**),
  - b) generarea unei traiectorii(**Trajectory**),
  - c) evaluarea(**Evaluation internal/external**),
  - d) efectuarea reflecției(**Reflection**) și
