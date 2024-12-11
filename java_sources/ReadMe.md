@@ -21,7 +21,7 @@ Un [exemplu](https://www.tutorialspoint.com/jsf/jsf_quick_guide.htm) elocvent de
 
 Mecanismul AJAX folosit de [JSF](https://docs.oracle.com/javaee/7/javaserver-faces-2-2/jsdocs/symbols/src/_Users_ejburns_Documents_JavaEE_workareas_mojarra-3MOJARRA_2_2X_ROLLING_jsf-demo_jsf-api_src_main_resources_jsf.js.html) este încapsulat într-un fișier JavaScript, numit [**jsf.js**. ](https://www.oreilly.com/library/view/mastering-javaserver-faces/9781782176466/ch07s11.html)
 
-Si acest [**client SPV**](https://github.com/MfpAnaf/ClientSPV) scris in java poate fi o solutie interesanta pentru activitatea dumneavoastra mai ales daca ati decis sa utilizati **java** ca instrument de programare(acesta, oarecum fiind sugerat si de catre staff-ul ANAF chiar daca acest lucru nu s-a spus/mentionat explicit cu subiect si predicat!!!:)
+Si acest [**client SPV**](https://github.com/MfpAnaf/ClientSPV) scris in **java** poate fi o solutie interesanta pentru activitatea dumneavoastra mai ales daca ati decis sa utilizati **java** ca instrument de programare(acesta, oarecum fiind sugerat si de catre staff-ul ANAF chiar daca acest lucru nu s-a spus/mentionat explicit cu subiect si predicat!!!:)
 
 Mai multe detalii despre **eFactura** gasiti pe portalul [ANAF](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/Ghid_RO_eFactura.pdf)-ului.
 
@@ -40,6 +40,6 @@ Pentru ***declaratii-ANAF*** consultati acest [depozit-ghithub](https://github.c
 
 Daca sunteti la inceput de drum si doriti sa experimentati local, LLM-ul **Llama 3.2**, in varianta sa ***Ubuntu/java***, atunci acest [*video-YT*](https://www.youtube.com/watch?v=64iXIsgesvI), intitulat "*Llama3.Java - Run Llama3.2 Locally in Pure Modern Java on Any Device*", poate fi extrem de util. Pentru **Llama3** puteti consulata acest [*video-YT*](https://www.youtube.com/watch?v=5n7rNkvqtgY). In cazul in care utilizati ca LLM, **Llama2** atunci poate va aruncati o privire pe acest [*video-YT*](https://www.youtube.com/watch?v=71t5vjSbfsI).
 
-Pentru cei care doresc sa lucreze de sub ***Ubuntu*** dar utilizand *python*, acest [*videoclip-YT*](https://www.youtube.com/watch?v=2td5NYqIfOk) arată cum să instalați local **qwen2.5-7b-ins-v3**, care este un instrument CoT necenzurat, cu capabilități remarcabile.
+Pentru cei care doresc sa lucreze de sub ***Ubuntu*** dar utilizand **python**, acest [*videoclip-YT*](https://www.youtube.com/watch?v=2td5NYqIfOk) arată cum să instalați local **qwen2.5-7b-ins-v3**, care este un instrument CoT necenzurat, cu capabilități remarcabile.
 
 Daca aveti la dispozitie un server **Ollama** si doriti sa utilizati ca limbaje de programare, combinatia **python** si **scala**, de sub ***Ubuntu***, poate nu ar fi o idee rea sa incercati acest [*videoclip-YT](https://www.fahdmirza.com/2024/08/install-rag-me-up-with-ollama-locally.html), pentru a testa **Rag Me Up**.
