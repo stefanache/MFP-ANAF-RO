@@ -12,7 +12,7 @@ In general conceptul [**self-reflection**](https://en.wikipedia.org/wiki/Self-re
 
  - Un **actor** : generează text și acțiuni pe baza observațiilor de stare.
                   Actorul face o acțiune într-un mediu și primește o observație care are ca rezultat o traiectorie.
-                  Lanțul de gândire (**CoT**)și ***ReAct*** sunt folosite ca modele de actor.
+                  Lanțul de gândire ([**CoT**](https://www.promptingguide.ai/techniques/cot))și [***ReAct***](https://www.promptingguide.ai/techniques/react) sunt folosite ca modele de actor.
                   De asemenea, este adăugată o componentă de memorie pentru a oferi un context suplimentar agentului.
  - Un **evaluator** : punctează rezultate produse de actor.
                       Concret, ia ca intrare o traiectorie generată (denumită și memorie pe termen scurt) și emite un scor de recompensă.
