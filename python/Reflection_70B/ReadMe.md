@@ -12,7 +12,7 @@ In general conceptul [**self-reflection**](https://en.wikipedia.org/wiki/Self-re
 
  - Un **actor** : generează text și acțiuni pe baza observațiilor de stare.
                   Actorul face o acțiune într-un mediu și primește o observație care are ca rezultat o traiectorie.
-                  Lanțul de gândire (**CoT**)și **ReAct** sunt folosite ca modele de actor.
+                  Lanțul de gândire (**CoT**)și ***ReAct*** sunt folosite ca modele de actor.
                   De asemenea, este adăugată o componentă de memorie pentru a oferi un context suplimentar agentului.
  - Un **evaluator** : punctează rezultate produse de actor.
                       Concret, ia ca intrare o traiectorie generată (denumită și memorie pe termen scurt) și emite un scor de recompensă.
@@ -31,6 +31,6 @@ In general conceptul [**self-reflection**](https://en.wikipedia.org/wiki/Self-re
  - d) efectuarea reflecției și
  - e) generarea următoarei traiectorii.
 
-[Figura](https://www.promptingguide.ai/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Freflexion-examples.7558c279.png&w=1920&q=75) de mai jos demonstrează exemple despre modul în care un agent de reflexie poate învăța să își optimizeze comportamentul în mod iterativ pentru a rezolva diverse sarcini, cum ar fi luarea deciziilor, programarea și raționamentul. Reflexia extinde cadrul ReAct prin introducerea componentelor de autoevaluare, auto-reflecție și memorie.
+[Figura](https://www.promptingguide.ai/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Freflexion-examples.7558c279.png&w=1920&q=75) de mai jos demonstrează exemple despre modul în care un agent de reflexie poate învăța să își optimizeze comportamentul în mod iterativ pentru a rezolva diverse sarcini(**task**-uri), cum ar fi **luarea deciziilor**, **programarea** și **raționamentul**. Reflexia extinde cadrul ***ReAct*** prin introducerea componentelor de ***autoevaluare***, ***auto-reflecție*** și ***memorie***.
 
 [<img src="https://www.promptingguide.ai/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Freflexion-examples.7558c279.png&w=1920&q=75">]([https://link-to-your-URL/](https://www.promptingguide.ai/techniques/reflexion))
