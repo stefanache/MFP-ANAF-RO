@@ -49,9 +49,9 @@ IV.**Interpretabilitatea și memoria explicită sunt importante** : reflexia ofe
 
 **Reflexia este eficientă în următoarele sarcini:**
 
- - **Luare succesivă a deciziilor** : agenții de reflecție își îmbunătățesc performanța în sarcinile AlfWorld, care implică navigarea prin diferite medii și îndeplinirea obiectivelor în mai mulți pași.
- - **Raționament** : Reflexia a îmbunătățit performanța agenților pe HotPotQA, un set de date cu răspunsuri la întrebări care necesită raționament pe mai multe documente.
- - **Programare** : agenții de reflexie scriu cod mai bun pe benchmark-uri precum HumanEval și MBPP, obținând rezultate de ultimă generație în unele cazuri.
+ - **Luare succesivă a deciziilor** : agenții de *reflecție* își îmbunătățesc performanța în sarcinile [**AlfWorld**](https://paperswithcode.com/dataset/alfworld), care implică navigarea prin diferite medii și îndeplinirea obiectivelor în mai mulți pași.
+ - **Raționament** : *Reflexia* a îmbunătățit performanța agenților pe [**HotPotQA**](https://www.youtube.com/watch?v=Qz_2KjNfa7I), un set de date cu răspunsuri la întrebări care necesită raționament pe mai multe documente.
+ - **Programare** : agenții de *reflexie* scriu cod mai bun pe benchmark-uri precum [**HumanEval**](https://github.com/turintech/reflexion-human-eval) și [**MBPP**](https://paperswithcode.com/paper/reflexion-language-agents-with-verbal), obținând rezultate de ultimă generație în unele cazuri.
 
 ***Iată câteva limitări ale Reflexiei:***
 
