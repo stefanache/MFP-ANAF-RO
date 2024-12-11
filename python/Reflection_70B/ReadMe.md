@@ -53,7 +53,7 @@ IV.**Interpretabilitatea și memoria explicită sunt importante** : *Reflexia* o
  - **Raționament** : *Reflexia* a îmbunătățit performanța agenților pe [**HotPotQA**](https://www.youtube.com/watch?v=Qz_2KjNfa7I), un set de date(*dataset*) cu răspunsuri la întrebări care necesită *raționament*(expunerea *modului de gandire/motivatiei*) pe mai multe documente.
  - **Programare** : agenții de *reflexie* pot scrie un *cod* mai bun pe *benchmark*-uri precum [**HumanEval**](https://github.com/turintech/reflexion-human-eval) și [**MBPP**](https://paperswithcode.com/paper/reflexion-language-agents-with-verbal), obținând rezultate de ultimă generație în unele cazuri.
 
-***Iată câteva limitări ale Reflexiei:***
+***Iată câteva limitări(constrangeri) ale Reflexiei:***
 
  - **Încrederea pe capacitățile de autoevaluare** : *Reflexia* se bazează pe capacitatea agentului de a-și evalua cu acuratețe performanța și de a genera auto-reflecții utile. Acest lucru poate fi o provocare, mai ales pentru sarcini complexe, dar este de așteptat ca *Reflexia* să se îmbunătățească în timp, pe măsură ce modelele continuă să își îmbunătățească capacitățile.
  - **Constrângeri de memorie pe termen lung(memorie persistenta)** : *Reflexia* folosește(pt regasire/cautare) o *fereastră glisantă([sliding window](https://pcom.pages.upb.ro/labs/lab6/sliding_window.html))* cu *capacitate maximă*, dar pentru sarcini mai complexe poate fi avantajoasă utilizarea structurilor avansate, cum ar fi *încorporarea vectorială* sau *bazele de date SQL*.
