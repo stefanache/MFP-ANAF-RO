@@ -28,8 +28,8 @@ Tehnica ["**Reflexiei**"](https://www.promptingguide.ai/techniques/reflexion) co
  - a) definirea unei sarcini(**Task**),
  - b) generarea unei traiectorii(**Trajectory**),
  - c) evaluarea(**Evaluation internal/external**),
- - d) efectuarea reflecției și
- - e) generarea următoarei traiectorii.
+ - d) efectuarea reflecției(**Reflection**) și
+ - e) generarea următoarei traiectorii(**Next Trajectory**).
 
 [Figura](https://www.promptingguide.ai/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Freflexion-examples.7558c279.png&w=1920&q=75) de mai jos demonstrează exemple despre modul în care un agent de reflexie poate învăța să își optimizeze comportamentul în mod iterativ pentru a rezolva diverse sarcini(**task**-uri), cum ar fi **luarea deciziilor(1)**, **programarea(2)** și **raționamentul(3)**. Reflexia extinde cadrul ***ReAct*** prin introducerea componentelor de ***autoevaluare***, ***auto-reflecție*** și ***memorie***.
 
