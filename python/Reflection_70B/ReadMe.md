@@ -32,3 +32,5 @@ In general conceptul [**self-reflection**](https://en.wikipedia.org/wiki/Self-re
  - e) generarea următoarei traiectorii.
 
 [Figura](https://www.promptingguide.ai/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Freflexion-examples.7558c279.png&w=1920&q=75) de mai jos demonstrează exemple despre modul în care un agent de reflexie poate învăța să își optimizeze comportamentul în mod iterativ pentru a rezolva diverse sarcini, cum ar fi luarea deciziilor, programarea și raționamentul. Reflexia extinde cadrul ReAct prin introducerea componentelor de autoevaluare, auto-reflecție și memorie.
+
+[<img src="https://www.promptingguide.ai/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Freflexion-examples.7558c279.png&w=1920&q=75">]([https://link-to-your-URL/](https://www.promptingguide.ai/techniques/reflexion))
