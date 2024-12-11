@@ -56,6 +56,6 @@ IV.**Interpretabilitatea și memoria explicită sunt importante** : *Reflexia* o
 ***Iată câteva limitări ale Reflexiei:***
 
  - **Încrederea pe capacitățile de autoevaluare** : *Reflexia* se bazează pe capacitatea agentului de a-și evalua cu acuratețe performanța și de a genera auto-reflecții utile. Acest lucru poate fi o provocare, mai ales pentru sarcini complexe, dar este de așteptat ca *Reflexia* să se îmbunătățească în timp, pe măsură ce modelele continuă să își îmbunătățească capacitățile.
- - **Constrângeri de memorie pe termen lung** : *Reflexia* folosește o *fereastră glisantă(sliding window)* cu *capacitate maximă*, dar pentru sarcini mai complexe poate fi avantajoasă utilizarea structurilor avansate, cum ar fi *încorporarea vectorială* sau *bazele de date SQL*.
+ - **Constrângeri de memorie pe termen lung** : *Reflexia* folosește(pt regasire) o *fereastră glisantă(sliding window)* cu *capacitate maximă*, dar pentru sarcini mai complexe poate fi avantajoasă utilizarea structurilor avansate, cum ar fi *încorporarea vectorială* sau *bazele de date SQL*.
  - **Limitări de generare de cod** : Există limitări pentru dezvoltarea bazată pe test în specificarea mapărilor precise de intrare-ieșire (de exemplu, funcție de generator nedeterministă și ieșiri ale funcției influențate de hardware).
 
