@@ -40,6 +40,6 @@ Pentru ***declaratii-ANAF*** consultati acest [depozit-ghithub](https://github.c
 
 Daca sunteti la inceput de drum si doriti sa experimentati local, LLM-ul **Llama 3.2**, in varianta sa ***Ubuntu/java***, atunci acest [*video-YT*](https://www.youtube.com/watch?v=64iXIsgesvI), intitulat "*Llama3.Java - Run Llama3.2 Locally in Pure Modern Java on Any Device*", poate fi extrem de util. Pentru **Llama3** puteti consulata acest [*video-YT*](https://www.youtube.com/watch?v=5n7rNkvqtgY). In cazul in care utilizati ca LLM, **Llama2** atunci poate va aruncati o privire pe acest [*video-YT*](https://www.youtube.com/watch?v=71t5vjSbfsI).
 
-Daca aveti la dispozitie un server **Ollama** si doriti sa utilizati ca limbaj de programare **scala**, de sub ***Ubuntu***, poate nu ar fi o idee rea sa incercati acest [*videoclip-YT](https://www.fahdmirza.com/2024/08/install-rag-me-up-with-ollama-locally.html), pentru a testa **Rag Me Up**.
-
 Pentru cei care doresc sa lucreze de sub ***Ubuntu*** dar utilizand *python*, acest [*videoclip-YT*](https://www.youtube.com/watch?v=2td5NYqIfOk) arată cum să instalați local **qwen2.5-7b-ins-v3**, care este un instrument CoT necenzurat, cu capabilități remarcabile.
+
+Daca aveti la dispozitie un server **Ollama** si doriti sa utilizati ca limbaje de programare, combinatia **python** si **scala**, de sub ***Ubuntu***, poate nu ar fi o idee rea sa incercati acest [*videoclip-YT](https://www.fahdmirza.com/2024/08/install-rag-me-up-with-ollama-locally.html), pentru a testa **Rag Me Up**.
