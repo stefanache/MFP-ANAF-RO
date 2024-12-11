@@ -35,7 +35,7 @@ Tehnica sau cadrul ["**Reflexiei**"](https://www.promptingguide.ai/techniques/re
 
 [<img src="https://www.promptingguide.ai/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Freflexion-examples.7558c279.png&w=1920&q=75">]([https://link-to-your-URL/](https://www.promptingguide.ai/techniques/reflexion))
 
-***Când să folosiți Reflexion?***
+***Când să folosiți Reflexia?***
 
 Reflexia este cea mai potrivită pentru următoarele:
 
@@ -50,12 +50,12 @@ IV.**Interpretabilitatea și memoria explicită sunt importante** : reflexia ofe
 **Reflexia este eficientă în următoarele sarcini:**
 
  - **Luare succesivă a deciziilor** : agenții de reflecție își îmbunătățesc performanța în sarcinile AlfWorld, care implică navigarea prin diferite medii și îndeplinirea obiectivelor în mai mulți pași.
- - **Raționament** : Reflexion a îmbunătățit performanța agenților pe HotPotQA, un set de date cu răspunsuri la întrebări care necesită raționament pe mai multe documente.
+ - **Raționament** : Reflexia a îmbunătățit performanța agenților pe HotPotQA, un set de date cu răspunsuri la întrebări care necesită raționament pe mai multe documente.
  - **Programare** : agenții de reflexie scriu cod mai bun pe benchmark-uri precum HumanEval și MBPP, obținând rezultate de ultimă generație în unele cazuri.
 
 ***Iată câteva limitări ale Reflexiei:***
 
- - **Încrederea pe capacitățile de autoevaluare** : Reflexia se bazează pe capacitatea agentului de a-și evalua cu acuratețe performanța și de a genera auto-reflecții utile. Acest lucru poate fi o provocare, mai ales pentru sarcini complexe, dar este de așteptat ca Reflexion să se îmbunătățească în timp, pe măsură ce modelele continuă să își îmbunătățească capacitățile.
- - **Constrângeri de memorie pe termen lung** : Reflexion folosește o fereastră glisantă cu capacitate maximă, dar pentru sarcini mai complexe poate fi avantajoasă utilizarea structurilor avansate, cum ar fi încorporarea vectorială sau bazele de date SQL.
+ - **Încrederea pe capacitățile de autoevaluare** : Reflexia se bazează pe capacitatea agentului de a-și evalua cu acuratețe performanța și de a genera auto-reflecții utile. Acest lucru poate fi o provocare, mai ales pentru sarcini complexe, dar este de așteptat ca Reflexia să se îmbunătățească în timp, pe măsură ce modelele continuă să își îmbunătățească capacitățile.
+ - **Constrângeri de memorie pe termen lung** : Reflexia folosește o fereastră glisantă cu capacitate maximă, dar pentru sarcini mai complexe poate fi avantajoasă utilizarea structurilor avansate, cum ar fi încorporarea vectorială sau bazele de date SQL.
  - **Limitări de generare de cod** : Există limitări pentru dezvoltarea bazată pe test în specificarea mapărilor precise de intrare-ieșire (de exemplu, funcție de generator nedeterministă și ieșiri ale funcției influențate de hardware).
 
