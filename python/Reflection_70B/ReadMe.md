@@ -17,7 +17,7 @@ Tehnica sau cadrul ["**Reflexiei**"](https://www.promptingguide.ai/techniques/re
  - Un ***evaluator(c)*** : punctează rezultate produse de **actor**.
                       Concret, ia ca intrare o **traiectorie(b)** generată (denumită și **memorie pe termen scurt(b)**) și emite un ***scor de recompensă***.
                       Sunt utilizate diferite ***funcții de recompensă***, în funcție de sarcină (LLM-urile și euristicile bazate pe reguli sunt folosite pentru sarcinile de **1.luare a deciziilor**).
- - *Auto-reflecție(d,e)* : generează indicii de *întărire verbală(d)* | *"verbal reinforcement" * pentru a-l ajuta pe **actor** să se *autoperfecționeze(d)*.
+ - *Auto-reflecție(d,e)* : generează indicii de *întărire verbală(d)* | *"verbal reinforcement(VR)"* pentru a-l ajuta pe **actor** să se *autoperfecționeze(d)*.
                         Acest rol(*d*) este atins de un **LLM** și oferă *feedback(d)* valoros pentru *încercările viitoare(e)*.
                         Pentru a genera *feedback(d)* specific și relevant(*feedback(d)* care este, de asemenea, stocat în memorie),
                         modelul de *auto-reflecție* folosește *semnalul de recompensă*, *traiectoria curentă* și *memoria sa persistentă*.
@@ -41,7 +41,7 @@ Reflexia este cea mai potrivită pentru următoarele:
 
 I.**Un agent trebuie să învețe din încercări și erori** : Reflexia este concepută pentru a ajuta agenții să-și îmbunătățească performanța reflectând asupra greșelilor trecute și încorporând aceste cunoștințe în deciziile viitoare. Acest lucru îl face foarte potrivit pentru sarcini în care agentul trebuie să învețe prin încercări și erori, cum ar fi 1.luarea deciziilor, 2.raționamentul și 3.programarea.
 
-II.**Metodele tradiționale de învățare prin întărire sunt impracticabile** : Metodele tradiționale de învățare prin întărire (RL) necesită adesea date extinse de antrenament și ajustarea fină a modelului costisitoare. Reflexion oferă o alternativă ușoară care nu necesită o reglare fină a modelului de limbaj de bază, făcându-l mai eficient în ceea ce privește datele și resursele de calcul.
+II.**Metodele tradiționale de învățare prin întărire sunt impracticabile** : Metodele tradiționale de *învățare prin întărire (RL)* necesită adesea date extinse de antrenament și ajustarea fină a modelului costisitoare. Reflexion oferă o alternativă ușoară care nu necesită o reglare fină a modelului de limbaj de bază, făcându-l mai eficient în ceea ce privește datele și resursele de calcul.
 
 III.**Este necesar feedback nuanțat** : Reflexia utilizează feedback-ul verbal, care poate fi mai nuanțat și mai specific decât recompensele scalare utilizate în RL tradițional. Acest lucru permite agentului să-și înțeleagă mai bine greșelile și să facă îmbunătățiri mai precise în încercările ulterioare.
 
