@@ -42,4 +42,4 @@ Daca sunteti la inceput de drum si doriti sa experimentati local, LLM-ul **Llama
 
 Pentru cei care doresc sa lucreze de sub ***Ubuntu***, dar utilizand **python**, acest [*videoclip-YT*](https://www.youtube.com/watch?v=2td5NYqIfOk) arată cum să instalați local **qwen2.5-7b-ins-v3**, care este un instrument CoT necenzurat, cu capabilități remarcabile.
 
-Daca aveti la dispozitie un server **Ollama** si doriti sa utilizati ca limbaje de programare, combinatia **python**(pt. server) si **scala**(pt. client-UI), de sub ***Ubuntu***, poate nu ar fi o idee rea sa incercati aceasta combinatie [*post + videoclip-YT*](https://www.fahdmirza.com/2024/08/install-rag-me-up-with-ollama-locally.html), pentru a testa **Rag Me Up**.
+Daca aveti pre-instalat **Conda**(pt python) si aveti la dispozitie un server **Ollama**(pt deservire LLM-uri), in cazul in care doriti sa utilizati ca limbaje de programare, combinatia **python**(pt. server) si **scala**(pt. client-UI), de sub ***Ubuntu***, poate nu ar fi o idee rea sa incercati aceasta combinatie [*post + videoclip-YT*](https://www.fahdmirza.com/2024/08/install-rag-me-up-with-ollama-locally.html), pentru a testa **Rag Me Up**.
