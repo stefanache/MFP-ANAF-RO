@@ -4,7 +4,7 @@ Puteti urmari si acest [***videoclip-YT***](https://www.youtube.com/watch?v=jZtR
 
 Un alt articol interesant(aparut recent) este cel legat de utilizarea [**AirLLM**  ](https://huggingface.co/blog/lyogavin/airllm) o bibilioteca cu sursa deschisa care faciliteaza rularea modelelor LLM(necesită cantități uriașe de memorie GPU) pe un singur GPU de 4GB. Astfel putem rula inferente pe/de LLM-uri avand dimensiuni de 70B(deci o dimensiune a parametrilor de 130 GB) utilizand resurse-GPU reduse(de numai 4GB VRAM)
 
-Dar sa revenim la modelul Reflection-70B....
+Dar sa revenim la modelul **Reflection-70B**, subiecul acestui post....
 
 In general conceptul [**self-reflection**](https://en.wikipedia.org/wiki/Self-reflection)(**auto-reflexia**/**auto-reflecția**) este capacitatea de a asista și de a [evalua](https://dev.to/lgrammel/tutorial-create-an-ai-agent-that-reads-wikipedia-for-you-31cm) propriile procese cognitive(de gandire/rationament), emoționale și comportamentale. 
 
