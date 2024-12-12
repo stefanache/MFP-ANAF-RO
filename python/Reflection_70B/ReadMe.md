@@ -4,6 +4,16 @@ Puteti urmari si acest [***videoclip-YT***](https://www.youtube.com/watch?v=jZtR
 
 Un alt articol interesant(aparut recent) este cel legat de utilizarea [**AirLLM**  ](https://huggingface.co/blog/lyogavin/airllm), o bibilioteca cu sursa deschisa care faciliteaza rularea modelelor [LLM](https://huggingface.co/garage-bAInd/Platypus2-70B-instruct)(necesită cantități uriașe de memorie GPU) pe un singur GPU de 4GB. Astfel putem rula [inferente](https://github.com/lyogavin/airllm/blob/main/examples/inferrence.ipynb)(totusi, in cazul antrenamentului, reducerea de memorie GPU, trebuie discutata separat, si deci nu face subiectul acestui din urma articol) pe/de LLM-uri avand dimensiuni de 70B(deci o dimensiune a parametrilor de 130 GB) utilizand resurse-GPU reduse(un singur GPU de numai 4GB VRAM)
 
+***Nota***: Pentru utilizatorii de windows, care au deja descarcat modelul in prealabil, pentru a-l utiliza pe cel local, va trebui sa foloseasca instructiunea:
+
+   model = AirLLMLlama2("C:\Users\USER\.cache\huggingface\hub\models--garage-bAInd--Platypus2-70B-instruct\snapshots\31389b50953688e4e542be53e6d2ab04d5c34e87")
+
+in loc de
+
+   model = AirLLMLlama2("/home/ubuntu/.cache/huggingface/hub/models--garage-bAInd--Platypus2-70B-instruct/snapshots/b585e74bcaae02e52665d9ac6d23f4d0dbc81a0f")
+
+
+
 Dar sa revenim la modelul **Reflection-70B**, subiecul acestui post....
 
 In general conceptul [**self-reflection**](https://en.wikipedia.org/wiki/Self-reflection)(**auto-reflexia**/**auto-reflecția**) este capacitatea de a asista și de a [evalua](https://dev.to/lgrammel/tutorial-create-an-ai-agent-that-reads-wikipedia-for-you-31cm) propriile procese cognitive(de gandire/rationament), emoționale și comportamentale. 
