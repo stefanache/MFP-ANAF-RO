@@ -6,11 +6,11 @@ Un alt articol interesant(aparut recent) este cel legat de utilizarea [**AirLLM*
 
 ***Nota***: Pentru utilizatorii de windows, care au deja descarcat modelul in prealabil, pentru a-l utiliza pe cel local, va trebui sa foloseasca instructiunea:
 
-   model = AirLLMLlama2("C:\Users\USER\.cache\huggingface\hub\models--garage-bAInd--Platypus2-70B-instruct\snapshots\31389b50953688e4e542be53e6d2ab04d5c34e87")
+          model = AirLLMLlama2("C:\Users\USER\.cache\huggingface\hub\models--garage-bAInd--Platypus2-70B-instruct\snapshots\31389b50953688e4e542be53e6d2ab04d5c34e87")
 
 in loc de
 
-   model = AirLLMLlama2("/home/ubuntu/.cache/huggingface/hub/models--garage-bAInd--Platypus2-70B-instruct/snapshots/b585e74bcaae02e52665d9ac6d23f4d0dbc81a0f")
+          model = AirLLMLlama2("/home/ubuntu/.cache/huggingface/hub/models--garage-bAInd--Platypus2-70B-instruct/snapshots/b585e74bcaae02e52665d9ac6d23f4d0dbc81a0f")
 
 
 
