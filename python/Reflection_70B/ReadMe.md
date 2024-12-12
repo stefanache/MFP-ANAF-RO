@@ -2,6 +2,10 @@ In acest [post](https://www.youtube.com/watch?v=jZtR7SIEcZs) o sa discutam despr
 
 Puteti urmari si acest [***videoclip-YT***](https://www.youtube.com/watch?v=jZtR7SIEcZs)(furnizat prin amabilitatea domnului [**Fahd Mirza**](https://blog.langchain.dev/reflection-agents/)) pentru a-l vedea efectiv cum [lucreaza](https://www.youtube.com/watch?v=gYBlzMsII9c).
 
+Un alt articol interesant(aparut recent) este cel legat de utilizarea [**AirLLM**  ](https://huggingface.co/blog/lyogavin/airllm) o bibilioteca cu sursa deschisa care faciliteaza rularea modelelor LLM(necesită cantități uriașe de memorie GPU) pe un singur GPU de 4GB. Astfel putem rula inferente pe/de LLM-uri avand dimensiuni de 70B(deci o dimensiune a parametrilor de 130 GB) utilizand resurse-GPU reduse(de numai 4GB VRAM)
+
+Dar sa revenim la modelul Reflection-70B....
+
 In general conceptul [**self-reflection**](https://en.wikipedia.org/wiki/Self-reflection)(**auto-reflexia**/**auto-reflecția**) este capacitatea de a asista și de a [evalua](https://dev.to/lgrammel/tutorial-create-an-ai-agent-that-reads-wikipedia-for-you-31cm) propriile procese cognitive(de gandire/rationament), emoționale și comportamentale. 
 
 [Reflecția](https://langchain-ai.github.io/langgraphjs/tutorials/reflection/reflection/) este o strategie de stimulare utilizată pentru a îmbunătăți calitatea și rata de succes a agenților AI și a sistemelor AI similare.
