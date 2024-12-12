@@ -1,6 +1,6 @@
 In acest post o sa discutam despre modelul/[**LLM**](https://huggingface.co/mattshumer/Reflection-Llama-3.1-70B)-ul [Reflection-70B](https://www.unite.ai/ro/reflection-70b-llm-with-self-correcting-cognition-and-leading-performance/)
 
-Puteti urmari si acest [***videoclip-YT***](https://www.youtube.com/watch?v=jZtR7SIEcZs)(furnizat prin amabilitatea domnului [**Fahd Mirza**](https://blog.langchain.dev/reflection-agents/)) pentru a-l vedea efectiv cum lucreaza.
+Puteti urmari si acest [***videoclip-YT***](https://www.youtube.com/watch?v=jZtR7SIEcZs)(furnizat prin amabilitatea domnului [**Fahd Mirza**](https://blog.langchain.dev/reflection-agents/)) pentru a-l vedea efectiv cum [lucreaza](https://www.youtube.com/watch?v=gYBlzMsII9c).
 
 In general conceptul [**self-reflection**](https://en.wikipedia.org/wiki/Self-reflection)(**auto-reflexia**/**auto-reflecția**) este capacitatea de a asista și de a [evalua](https://dev.to/lgrammel/tutorial-create-an-ai-agent-that-reads-wikipedia-for-you-31cm) propriile procese cognitive(de gandire/rationament), emoționale și comportamentale. 
 
