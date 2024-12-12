@@ -2,7 +2,7 @@ In acest [post](https://www.youtube.com/watch?v=jZtR7SIEcZs) o sa discutam despr
 
 Puteti urmari si acest [***videoclip-YT***](https://www.youtube.com/watch?v=jZtR7SIEcZs)(furnizat prin amabilitatea domnului [**Fahd Mirza**](https://blog.langchain.dev/reflection-agents/)) pentru a-l vedea efectiv cum [lucreaza](https://www.youtube.com/watch?v=gYBlzMsII9c).
 
-Un alt articol interesant(aparut recent) este cel legat de utilizarea [**AirLLM**  ](https://huggingface.co/blog/lyogavin/airllm), o bibilioteca cu sursa deschisa care faciliteaza rularea modelelor LLM(necesită cantități uriașe de memorie GPU) pe un singur GPU de 4GB. Astfel putem rula inferente pe/de LLM-uri avand dimensiuni de 70B(deci o dimensiune a parametrilor de 130 GB) utilizand resurse-GPU reduse(un singur GPU de numai 4GB VRAM)
+Un alt articol interesant(aparut recent) este cel legat de utilizarea [**AirLLM**  ](https://huggingface.co/blog/lyogavin/airllm), o bibilioteca cu sursa deschisa care faciliteaza rularea modelelor LLM(necesită cantități uriașe de memorie GPU) pe un singur GPU de 4GB. Astfel putem rula inferente(totusi, in cazul antrenamentului, reducerea de memorie GPU, trebuie discutata separat, si deci nu face subiectul acestui din urma articol) pe/de LLM-uri avand dimensiuni de 70B(deci o dimensiune a parametrilor de 130 GB) utilizand resurse-GPU reduse(un singur GPU de numai 4GB VRAM)
 
 Dar sa revenim la modelul **Reflection-70B**, subiecul acestui post....
 
