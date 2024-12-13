@@ -8,7 +8,7 @@ Aceste modele/[LLM](https://klu.ai/blog/open-source-llm-models)-uri au [destinat
 
 Puteti accesa [site](https://github.com/endo9000/Awesome-Ollama)-ul [*Ollama-downloads*](https://ollama.com/download/windows) pt a descarca si instala local [**Ollama**](https://ollama.com/)(alegand varianta dvs de sistem de operare: **windows**, **linux**,...).
 
-**Server**-ul [***Ollama***](https://ollama.com/) va va permite sa va faceti propriul [ChatGPT](https://chatgpt.com/) sau daca vreti, va permite sa va creati un [PrivateGPT](https://github.com/ollama/ollama/tree/main/examples/langchain-python-rag-privategpt).
+**Server**-ul [***Ollama***](https://ollama.com/) va va permite sa va faceti propriul [ChatGPT](https://chatgpt.com/) sau daca vreti, va permite sa va creati un [PrivateGPT](https://github.com/ollama/ollama/tree/main/examples/langchain-python--privategpt).
 
 Dupa instalare, pt a testa daca serverul-LLM [Ollama](https://abvijaykumar.medium.com/ollama-brings-runtime-to-serve-llms-everywhere-8a23b6f6a1b4) este in functiune/ruleaza/este "up" aveti 2 posibilitati:
  - daca aveti instalat **curl** atunci cda:
@@ -306,7 +306,7 @@ The `generate_ubl21_xml` function takes in an input data item and generates a UB
 Note that you'll need to install Ollama and Langchain using pip: `pip install ollama langchain`. You'll also need to download the pre-trained LLMA model and place it in the same directory as your Python script.
 
 >>> problema este ca nu am atat de multe exemple si in acest caz ce imi recomanzi?
-In that case, I recommend creating a smaller dataset of example input data and corresponding UBL2.1 XML output files to train your RAG model.
+In that case, I recommend creating a smaller dataset of example input data and corresponding UBL2.1 XML output files to train your [RAG](https://en.wikipedia.org/wiki/Retrieval-augmented_generation) model.
 
 Here's a suggestion:
 
