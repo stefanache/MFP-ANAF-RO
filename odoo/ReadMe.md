@@ -4,4 +4,4 @@ Un alt articol [**Odoo**](https://www.theodoostore.com/app/romania-efactura-acco
 
 Un site interesant despre [**eFactura**](https://mfinante.gov.ro/static/10/eFactura/PrezentareE-factura.pdf) poate fi gasit pe pagina celor de le [***Termene***](https://termene.ro/articole/cine-trebuie-sa-foloseasca-e-factura-pasii-pentru-a-transmite-o-factura-in-format-electronic)
 
-Daca doriti puteti consulata si siteul celor de la [**OCA**](https://odoo-community.org/shop/romania-account-anaf-sync-11006#attr=21033)
+Daca doriti puteti consulata si site-ul celor de la [**OCA**](https://odoo-community.org/shop/romania-account-anaf-sync-11006#attr=21033) pt a vedea articolul ***Romania - Account ANAF Sync***
