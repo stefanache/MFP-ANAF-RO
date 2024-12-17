@@ -18,7 +18,7 @@ Contact us today to setup a one-on-one discovery call and let us help you scale 
 You can https://www.buymeacoffee.com/stefanache... Thanks
 
 ## **[Contact me](https://www.facebook.com/ion.stefanache.3)** 
-<details><summary>click for Contactme</summary>
+<details><summary>click for Contact-me</summary>
   
 <br/>
   
@@ -396,7 +396,7 @@ Registrul persoanelor care aplică [plata defalcată a TVA](https://www.anaf.ro/
 </details>
 
 ## 1. **[Factura electronica](https://www.contact.info.ro/ghid-e-factura-la-anaf/)** [eFactura](https://www.anaf.ro/anaf/internet/ANAF/despre_anaf/strategii_anaf/proiecte_digitalizare/e.factura):
-<details>
+<details><summary>click pt a citi despre <b>eFactura</b></summary>
 
 [e-Factura](https://www.digi24.ro/digieconomic/financiar/este-lege-de-la-1-ianuarie-e-factura-este-obligatorie-in-relatia-firma-client-22077) se extinde și devine obligatorie pentru 
 toate tranzacțiile din România - OUG
