@@ -46,7 +46,7 @@ For more details please **[contact me](mailto:ion.stefanache@yahoo.com)** on:
 
 </details>
 
-## **[ANAF](https://www.anaf.ro/anaf/internet/ANAF/asistenta_contribuabili/legislatie/codul_fiscal/) autoritate fiscala; Introducere, Standardizari, Clasificari, Codificari, [Nomenclatoare](https://mfinante.gov.ro/nomenclatoare-geografice-mfp), [Registre](https://codfiscal.net/55497/registre-online-utile-anaf-ro-mfinante-ro), Liste, serii de date([dataset](https://data.gov.ro/dataset?organization=agentia-nationala-de-administrare-fiscala)-uri) ...**
+## **[ANAF](https://www.anaf.ro/anaf/internet/ANAF/asistenta_contribuabili/legislatie/codul_fiscal/) autoritate fiscala; Introducere, Standardizari, [Clasificari](https://www.anaf.ro/anaf/internet/ANAF/asistenta_contribuabili/declararea_obligatiilor_fiscale/coduri_caen), [Codificari](https://www.anaf.ro/anaf/internet/ANAF/asistenta_contribuabili/declararea_obligatiilor_fiscale/coduri_caen), [Nomenclatoare](https://mfinante.gov.ro/nomenclatoare-geografice-mfp), [Registre](https://codfiscal.net/55497/registre-online-utile-anaf-ro-mfinante-ro), Liste, serii de date([dataset](https://data.gov.ro/dataset?organization=agentia-nationala-de-administrare-fiscala)-uri) ...**
 <details>
       
 Cateva informatii despre **inregistrarea fiscala** a unei firme/companii(**PJ**) puteti gasi si [**aici**](https://mfinante.gov.ro/persoane-juridice/informatii-fiscale-si-bilanturi) pe site-ul MFP;
