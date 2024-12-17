@@ -769,7 +769,7 @@ Conform documentatiei [legale](https://www.ziuacargo.ro/stiri/proiect-anaf-proce
 </details>
 
  ## 4. [**Declaratii; Impozitul pe Venit ori pe Profit, TVA, Accize,...**](https://static.anaf.ro/static/10/Anaf/Contribuabili/scurt_ghid.htm)
-<details>
+<details><summary>click pt a citi despre <b>Declaratii</b></summary>
 
 Cateva exemple de astfel de declaratii gasiti si pe [github](https://github.com/IncrementalCommunity/declaratii-anaf/tree/master/examples). O prima observatie ar fi ca in fisierul PDF avem formularul necompletat iar datele sunt separat stocate intr-un fisier xml asociat.La final putei obtine un fisier cuompletat cu datele aferente.
 
@@ -873,7 +873,7 @@ Mai nou se vorbeste despre tranformarea DU in [DUI](https://www.digi24.ro/stiri/
 </details>
 
  ## 5. [**MFP**](https://mfinante.gov.ro/domenii) - factor integrator:
-<details>
+<details><summary>click pt a citi despre <b>Ministerul Finantelor Publice(MFP)</b></summary>
 
 Un link MFP va poate indruma catre [informatii MFP despre formularele F11xx](https://mfinante.gov.ro/web/forexepublic/informatii-publice)
 
@@ -889,7 +889,7 @@ Legat de un proiect mai vechi "[e-Documents](https://www.avocatnet.ro/articol_65
 </details>
 
  ## 6. [**GOV; Baza legala**](https://static.anaf.ro/static/10/Anaf/legislatie/Cod_fiscal_norme_2023.htm)
-<details>
+<details><summary>click pt a citi despre <b>Guvernanta(GOV)</b></summary>
 
 Unele acte normative le gasiti pe portalul [Guvernului(GOV)](https://gov.ro/fisiere/subpagini_fisiere/NF_OUG_120-2021.docx) dar mare parte din ele au un caracter general si explica mai mult strategia de [e-Guvernare](https://www.e-guvernare.ro/) .
 
