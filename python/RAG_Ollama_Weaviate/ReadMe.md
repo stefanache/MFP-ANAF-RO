@@ -35,7 +35,7 @@ Pentru a verifica daca s-au instalat cele 2 [modele](https://www.datacamp.com/tu
 
    <hr/>
    
-   Un alt proiect, legat de **Weaviate**, care prezinta o line de procesare a unui RAG multimodal(denumit asa pt ca manipuleaza  mai multe categorii de date: text, imagini, grafice, tabele si date audio) si care este prezentat in acest [video](https://www.youtube.com/watch?v=D5iKsvK7cXg).
+   Un alt proiect, legat de **Weaviate**, care prezinta o line de procesare a unui **RAG *multimodal***(denumit asa pt ca manipuleaza-in mai ***multe moduri*** datele sau care manevreaza  mai ***multe*** categorii de date: text, imagini, grafice, tabele si date audio) si care este prezentat in acest [video](https://www.youtube.com/watch?v=D5iKsvK7cXg).
       
    Un alt exemplu runtime-***dockerizat*** este acest proiect-***Chat*** [**Ollama** + **LC** + **Streamlit**](https://abvijaykumar.medium.com/ollama-build-a-chatbot-with-langchain-ollama-deploy-on-docker-5dfcfd140363)
  
