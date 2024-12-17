@@ -18,7 +18,7 @@ Contact us today to setup a one-on-one discovery call and let us help you scale 
 You can https://www.buymeacoffee.com/stefanache... Thanks
 
 ## **[Contact me](https://www.facebook.com/ion.stefanache.3)** 
-<details><summary>click for Contact-me</summary>
+<details><summary>click for <b>Contact-me</b></summary>
   
 <br/>
   
