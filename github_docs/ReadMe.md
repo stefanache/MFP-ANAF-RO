@@ -9,5 +9,7 @@ In acest sens, puteti consulata si pagina lor [**change-log**](https://github.bl
 
 Astfel, Github devine pe zi ce trece un portal din ce in ce mai complex.
 
+Pentru cei interesati de zona [AI & ML](https://github.blog/ai-and-ml/) puteti consulata pagina de profil a blogului github
+
 
 
