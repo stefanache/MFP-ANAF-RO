@@ -42,12 +42,9 @@ Indiferent ca instalati si utilizati pachetul ***useful-moonshine-onnx*** ori pa
 Modelul **Moonshine** are o varianta de baza(***Base**), de aproximativ ***400 MB***, in timp ce varianta sa subtire(**Tiny**) are/este in jur de **190 MB**.<br/> 
 Pentru a vă face o idee despre beneficii: **Moonshine** procesează segmentele(*chunks*) audio de 10 secunde de **5 ori** mai rapid decât rivalul sau ***Whisper***, menținând aceeași *WER*=*Word-Error Rates=rata de a transcrie gresit cuvintele** (sau avand chiar una mai buna!).<br/> 
 Codul  de inferenta(scris in **python**), care este necesar transcrierii fisierului audio **beckett.wav**(plasat in directorul ***ASSETS_DIR***) si care utilizeaza varianta **Tiny** a modelului pre-antrenat **Moonshine**, este unul cat se poate de simplu:
-
              >>> import moonshine # or import moonshine_onnx
              >>> moonshine.transcribe(moonshine.ASSETS_DIR / 'beckett.wav', 'moonshine/tiny') # or moonshine_onnx.transcribe(...)
-
 Codul va produce urmatorul text-rezultat:
-
              ['Ever tried ever failed, no matter try again, fail again, fail better.']
 
              
