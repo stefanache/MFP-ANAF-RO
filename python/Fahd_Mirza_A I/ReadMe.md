@@ -43,6 +43,9 @@ Codul  de inferenta(scris in **python**), care este necesar transcrierii fisieru
 
              >>> import moonshine # or import moonshine_onnx
              >>> moonshine.transcribe(moonshine.ASSETS_DIR / 'beckett.wav', 'moonshine/tiny') # or moonshine_onnx.transcribe(...)
+
+Codul va produce urmatorul text-rezultat:
+
              ['Ever tried ever failed, no matter try again, fail again, fail better.']
 
              
