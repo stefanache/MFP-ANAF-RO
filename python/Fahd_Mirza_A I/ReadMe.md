@@ -35,3 +35,5 @@ Un alt proiect legat de subtitrarea sau transcrierea/descrierea unei imagini est
 Tot in zona [media](https://www.youtube.com/@fahdmirza) puteti consulta si acest proiect [**OmniAudio-AI model 2.6B**](https://www.youtube.com/watch?v=CrTGp60KIOA).
 
 Daca doriti sa testati un [**RAG multimodal(imagini si text)**](https://www.linkedin.com/in/fahdmirza/recent-activity/all/) atunci puteti consulta periodic activitatea pe [***Linkedin***](https://www.llamaindex.ai/blog/multimodal-rag-in-llamacloud) a d-lui [**Fahd Mirza**](https://www.youtube.com/watch?v=96p0-3dZTOs)(trebuie sa aveti cont pe [**LLamaCloud**](https://cloud.llamaindex.ai/login):)
+
+Foarte interesant este si acest [model ASR|S2T](https://github.com/usefulsensors/moonshine?tab=readme-ov-file) de transcriere, rulabil local(nu necesita Ollama) pe CPU(nu necesita GPU) denumit [**Moonshine**](https://www.youtube.com/watch?v=xciiB9vmImY&t=101s).
