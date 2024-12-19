@@ -38,4 +38,13 @@ Daca doriti sa testati un [**RAG multimodal(imagini si text)**](https://www.link
 
 Foarte interesant este si acest [model ASR | S2T](https://github.com/usefulsensors/moonshine?tab=readme-ov-file)(model de transcriere: Voice|Speech2Txt), rulabil local(nu necesita Ollama) pe CPU(nu necesita GPU) denumit [**Moonshine**](https://www.youtube.com/watch?v=xciiB9vmImY&t=101s).
 Daca intentionati sa instalati si sa rulati modelul pe [CPU-uri/dispozitive mici/portabile](https://github.com/usefulsensors/moonshine?tab=readme-ov-file#2b-install-the-useful-moonshine-onnx-package-to-use-moonshine-with-onnx)(de ex pe [**SBC**-ul **Raspberry Pi**](https://github.com/usefulsensors/moonshine?tab=readme-ov-file); SBC=este un mic computer pe o singura placa) atunci va trebui sa utilizati **ONXX-Runtime**. Daca insa utilizati un [CPU normal](https://github.com/usefulsensors/moonshine?tab=readme-ov-file)(laptop ori desktop) atunci va trebui sa utilizati ca front-end [**Keras**](https://github.com/usefulsensors/moonshine?tab=readme-ov-file#2a-install-the-useful-moonshine-package-to-use-moonshine-with-torch-tensorflow-or-jax) iar ca backend aveti la dispozitie una dintre cele 3 optiuni posibile: [**Torch**](https://github.com/usefulsensors/moonshine?tab=readme-ov-file#2a-install-the-useful-moonshine-package-to-use-moonshine-with-torch-tensorflow-or-jax), [**TensorFlow**](https://github.com/usefulsensors/moonshine?tab=readme-ov-file#2a-install-the-useful-moonshine-package-to-use-moonshine-with-torch-tensorflow-or-jax), ori [**JAX**](https://github.com/usefulsensors/moonshine?tab=readme-ov-file#2a-install-the-useful-moonshine-package-to-use-moonshine-with-torch-tensorflow-or-jax). Modelul **Moonshine** are o varianta de baza(***Base**), de aproximativ ***400 MB***, in timp ce varianta sa subtire(**Tiny**) are/este in jur de **190 MB**. 
-Pentru a vă face o idee despre beneficii: **Moonshine** procesează segmentele*chiunks) audio de 10 secunde de **5 ori** mai rapid decât rivalul sau ***Whisper***, menținând aceeași *WER*=*Word-Error Rates=rata de a transcrie gresit cuvintele** (sau avand chiar una mai buna!).
+Pentru a vă face o idee despre beneficii: **Moonshine** procesează segmentele*chiunks) audio de 10 secunde de **5 ori** mai rapid decât rivalul sau ***Whisper***, menținând aceeași *WER*=*Word-Error Rates=rata de a transcrie gresit cuvintele** (sau avand chiar una mai buna!). 
+
+Codul de inferenta necesar transcrierii este cat se poate de simplu:
+
+             python
+             >>> import moonshine # or import moonshine_onnx
+             >>> moonshine.transcribe(moonshine.ASSETS_DIR / 'beckett.wav', 'moonshine/tiny') # or moonshine_onnx.transcribe(...)
+             ['Ever tried ever failed, no matter try again, fail again, fail better.']
+
+             
