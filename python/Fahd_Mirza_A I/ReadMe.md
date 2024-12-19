@@ -52,4 +52,4 @@ Codul va produce urmatorul text-rezultat:
 
              ['Ever tried ever failed, no matter try again, fail again, fail better.']
 
-Desigur acesta este un exemplu de inceput(daca vreti ... un exemplu de testare a respectivului pachet) dar dumneavoastra puteti experimenta si alte [exemple](https://github.com/usefulsensors/moonshine?tab=readme-ov-file#examples)(un exemplu in acest sens, este si cel al utilizarii modelului **Moonshine** din/impreuna cu binecunoscuta librarie a celor de la ***HuggingFace**, **Transformers**](https://github.com/usefulsensors/moonshine?tab=readme-ov-file#huggingface-transformers)).<br/>             
+Desigur acesta este un exemplu de inceput(daca vreti ... un exemplu de testare a respectivului pachet) dar dumneavoastra puteti experimenta si alte [exemple](https://github.com/usefulsensors/moonshine?tab=readme-ov-file#examples)(un exemplu in acest sens, este si cel al utilizarii modelului **Moonshine** din/impreuna cu binecunoscuta librarie a celor de la ***HuggingFace***, [**Transformers**](https://github.com/usefulsensors/moonshine?tab=readme-ov-file#huggingface-transformers)).<br/>             
