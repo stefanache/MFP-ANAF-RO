@@ -66,4 +66,8 @@ Desigur acesta este un exemplu de inceput(daca vreti ... un exemplu de testare a
 
 <hr/>
 
+Daca aveti niste documente(nestructurate) dar care contin informatii/date(structurate; structura este cunoscuta) atunci probabil ca ati dori sa [extrageti](https://medium.com/mindsdb/transforming-unstructured-data-into-structured-using-ai-e989c56b1442)(folosind un model/platforma AI: ex **MindsDB**) aceste date structurate intr-o baza de date(desigur structurata)
+
+<hr/>
+
 
