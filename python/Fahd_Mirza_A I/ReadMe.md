@@ -66,7 +66,7 @@ Desigur acesta este un exemplu de inceput(daca vreti ... un exemplu de testare a
 
 <hr/>
 
-Daca aveti niste documente/continut(nestructurat[e]) dar care contin[e] informatii/date(structurate; structura este cunoscuta/data) atunci probabil ca ati dori sa [extrageti](https://medium.com/mindsdb/transforming-unstructured-data-into-structured-using-ai-e989c56b1442)(folosind un model/[platforma](https://mindsdb.com/) AI: spre exemplu [**MindsDB**](https://github.com/mindsdb/mindsdb?tab=readme-ov-file)) aceste date structurate intr-o baza de date(desigur [structurata](https://www.youtube.com/watch?v=dadY-cUpUm0)); Probabil ca deja ati identificat/intuit scopul acestei [povesti](https://www.unite.ai/ro/jorge-torres-co-founder-ceo-of-mindsdb-interview-series/) de conversie: ***nestructurat***2[**Structurat**](https://www.guru99.com/ro/sql-tools.html)!!!
+Daca aveti niste documente/continut(nestructurat[e]) dar care contin[e] informatii/date(structurate; structura este cunoscuta/data) atunci probabil ca ati dori sa [extrageti](https://medium.com/mindsdb/transforming-unstructured-data-into-structured-using-ai-e989c56b1442)(folosind un model/[platforma](https://mindsdb.com/) AI: spre exemplu [**MindsDB**](https://github.com/mindsdb/mindsdb?tab=readme-ov-file)) si sa stocati aceste [date structurate](https://www.youtube.com/watch?v=zDa3qvpD5lw) intr-o baza de date(desigur [structurata](https://www.youtube.com/watch?v=dadY-cUpUm0)); Probabil ca deja ati identificat/intuit scopul acestei [povesti](https://www.unite.ai/ro/jorge-torres-co-founder-ceo-of-mindsdb-interview-series/) de conversie: ***nestructurat***2[**Structurat**](https://www.guru99.com/ro/sql-tools.html)!!!
 
 <hr/>
 
