@@ -4,9 +4,9 @@ Puteti urmari si acest [***videoclip-YT***](https://www.youtube.com/watch?v=jZtR
 
 Un alt articol interesant(aparut recent) este cel legat de utilizarea [**AirLLM**  ](https://huggingface.co/blog/lyogavin/airllm), o bibilioteca cu sursa deschisa care faciliteaza rularea modelelor [LLM](https://huggingface.co/garage-bAInd/Platypus2-70B-instruct)(necesită cantități uriașe de memorie GPU) pe un singur GPU de 4GB. Astfel putem rula [inferente](https://github.com/lyogavin/airllm/blob/main/examples/inferrence.ipynb)(totusi, in cazul antrenamentului, reducerea de memorie GPU, trebuie discutata separat, si deci nu face subiectul acestui din urma articol) pe/de LLM-uri avand dimensiuni de 70B(deci o dimensiune a parametrilor de 130 GB) utilizand resurse-GPU reduse(un singur GPU de numai 4GB VRAM)
 
-***Nota***: In cazul exemplului [AirLLM](https://huggingface.co/blog/lyogavin/airllm), pentru utilizatorii(**<USER>**) de **windows**, care au ***deja descarcat*** modelul(in prealabil), pentru a-l utiliza pe cel(modelul local deja descarcat: **<Model_ID>**) ***local***, va trebui sa foloseasca instructiunea:
+***Nota***: In cazul exemplului [AirLLM](https://huggingface.co/blog/lyogavin/airllm), pentru utilizatorii(**< USER >**) de **windows**, care au ***deja descarcat*** modelul(in prealabil), pentru a-l utiliza pe cel(modelul local deja descarcat: **< Model_ID >**) ***local***, va trebui sa foloseasca instructiunea:
 
-          model = AirLLMLlama2("C:\Users\<USER>\.cache\huggingface\hub\models--garage-bAInd--Platypus2-70B-instruct\snapshots\<Model_ID>")
+          model = AirLLMLlama2("C:\Users\< USER >\.cache\huggingface\hub\models--garage-bAInd--Platypus2-70B-instruct\snapshots\< Model_ID >")
 
 in loc de
 
