@@ -77,6 +77,7 @@ Indiferent daca vreti sa implementati un [**RAPTOR-RAG**](https://angelina-yang.
  - iata aici o [comparatie](https://medium.com/evadb-blog/mindsdb-vs-evadb-9005c7a9ffd1) intre [**MindsDB**](https://github.com/mindsdb)(ofera un set mai bogat de integrari) si [**EvaDB**](https://evadb.readthedocs.io/en/stable/)(ofera o utilizare mai buna a GPU-ului)
  - un articol interesant este si cel intitulat [**Reducerea complexitatii MLOps cu MindDB**](https://medium.com/israeli-tech-radar/reducing-mlops-complexity-using-sql-with-mindsdb-e20934f2e203)
  - puteti consulta aceasta [pagina](https://docs.mindsdb.com/mindsdb_sql/connect/mysql-client), pt a vedea, de pilda,  cum puteti folosi **MindsDB** impreuna cu **MySQL-CLI**.
+ - pentru a instala **docker** si **docker-compose** si/pe **ubuntu-wsl2** v-as recomand sa cititi acest [***gist***](https://gist.github.com/martinsam16/4492957e3bbea34046f2c8b49c3e5ac0)
 <hr/>
 
 
