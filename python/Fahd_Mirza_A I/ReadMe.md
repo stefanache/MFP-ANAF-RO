@@ -87,6 +87,30 @@ Indiferent daca vreti sa implementati un [**RAPTOR-RAG**](https://angelina-yang.
    [<img src="https://blog.roboflow.com/content/images/size/w1000/2020/05/image-39.png">]([https://link-to-your-URL/](https://blog.roboflow.com/use-the-gpu-in-docker/))
 
    **NVIDIA Container Toolkit** este o imagine Docker care oferă suport pentru a *recunoaște automat **driverele GPU**(cele care se vad in linia de comanda: **nvidia-smi**)* de pe computerul de bază(**Host/Server**) și pentru a *transmite aceleași **drivere*** în containerul-Docker(**Container 1 ... Container N**) atunci când rulează.
+
+   Iata ce se vede la mine cand dau comanda **nvidia-smi** in **Ubuntu 22.04**:
+
+                  user@DESKTOP-1I36BHR:~$ nvidia-smi
+                  Sat Dec 21 21:24:31 2024
+                  +-----------------------------------------------------------------------------------------+
+                  | NVIDIA-SMI 565.51.01              Driver Version: 565.90         CUDA Version: 12.7     |
+                  |-----------------------------------------+------------------------+----------------------+
+                  | GPU  Name                 Persistence-M | Bus-Id          Disp.A | Volatile Uncorr. ECC |
+                  | Fan  Temp   Perf          Pwr:Usage/Cap |           Memory-Usage | GPU-Util  Compute M. |
+                  |                                         |                        |               MIG M. |
+                  |=========================================+========================+======================|
+                  |   0  NVIDIA GeForce RTX 4060        On  |   00000000:01:00.0  On |                  N/A |
+                  |  0%   38C    P8             N/A /  115W |     488MiB /   8188MiB |      2%      Default |
+                  |                                         |                        |                  N/A |
+                  +-----------------------------------------+------------------------+----------------------+
+                  
+                  +-----------------------------------------------------------------------------------------+
+                  | Processes:                                                                              |
+                  |  GPU   GI   CI        PID   Type   Process name                              GPU Memory |
+                  |        ID   ID                                                               Usage      |
+                  |=========================================================================================|
+                  |  No running processes found                                                             |
+                  +-----------------------------------------------------------------------------------------+   
 <hr/>
 
 
