@@ -85,7 +85,8 @@ Indiferent daca vreti sa implementati un [**RAPTOR-RAG**](https://angelina-yang.
    In cazul in care, doriti suport *GPU* *Docker*-izat, iata aici o [referinta](https://blog.roboflow.com/use-the-gpu-in-docker/)(*sper eu utila!*), care vorbeste despre **NVIDIA Container Toolkit**:
 
    [<img src="https://blog.roboflow.com/content/images/size/w1000/2020/05/image-39.png">]([https://link-to-your-URL/](https://blog.roboflow.com/use-the-gpu-in-docker/))
-   
+
+   **NVIDIA Container Toolkit** este o imagine Docker care oferă suport pentru a *recunoaște automat driverele GPU* de pe computerul de bază și pentru a transmite aceleași drivere în containerul Docker atunci când rulează.
 <hr/>
 
 
