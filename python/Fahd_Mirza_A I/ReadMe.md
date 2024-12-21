@@ -74,7 +74,7 @@ Indiferent daca vreti sa implementati un [**RAPTOR-RAG**](https://angelina-yang.
 
  - cu [**MindsDB**](https://medium.com/mindsdb), notiuni ca [**reglaj fin**, **reAntrenare** sau **RAG**](https://medium.com/mindsdb/whats-the-difference-between-fine-tuning-retraining-and-rag-3e2201143199), pot fi simplu efectuate, cu doar cateva comenzi!
  - despre principiul functionarii [**MindsDB**](https://mindsdb.com/minds), puteti consulta acest [articol](https://mindsdb.com/minds)
- - iata aici o [comparatie](https://medium.com/evadb-blog/mindsdb-vs-evadb-9005c7a9ffd1) intre **MindsDB** si **EvaDB**
+ - iata aici o [comparatie](https://medium.com/evadb-blog/mindsdb-vs-evadb-9005c7a9ffd1) intre [**MindsDB**](https://github.com/mindsdb) si **EvaDB**
  - 
 <hr/>
 
