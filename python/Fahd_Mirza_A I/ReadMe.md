@@ -76,6 +76,7 @@ Indiferent daca vreti sa implementati un [**RAPTOR-RAG**](https://angelina-yang.
  - despre principiul functionarii [**MindsDB**](https://mindsdb.com/minds), puteti consulta acest [articol](https://mindsdb.com/minds)
  - iata aici o [comparatie](https://medium.com/evadb-blog/mindsdb-vs-evadb-9005c7a9ffd1) intre [**MindsDB**](https://github.com/mindsdb)(ofera un set mai bogat de integrari) si [**EvaDB**](https://evadb.readthedocs.io/en/stable/)(ofera o utilizare mai buna a GPU-ului)
  - un articol interesant este si cel intitulat [**Reducerea complexitatii MLOps cu MindDB**](https://medium.com/israeli-tech-radar/reducing-mlops-complexity-using-sql-with-mindsdb-e20934f2e203)
+ - puteti consulta aceasta [pagina](https://docs.mindsdb.com/mindsdb_sql/connect/mysql-client), pt a vedea, de pilda,  cum puteti folosi **MindsDB** impreuna cu **MySQL-CLI**.
 <hr/>
 
 
