@@ -17,6 +17,8 @@ Contact us today to setup a one-on-one discovery call and let us help you scale 
 
 You can https://www.buymeacoffee.com/stefanache... Thanks
 
+Also you can follow my **Medium** channel: [***@ion.stefanache0***](https://medium.com/@ion.stefanache0)...Tkanks a lot!
+
 ## **[Contact me](https://www.facebook.com/ion.stefanache.3)** 
 <details><summary>click for <b>Contact-me</b></summary>
   
