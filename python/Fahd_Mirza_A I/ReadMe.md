@@ -112,7 +112,7 @@ Indiferent daca vreti sa implementati un [**RAPTOR-RAG**](https://angelina-yang.
                   |  No running processes found                                                             |
                   +-----------------------------------------------------------------------------------------+
 
-     Desigur, daca aveti de lucrat(sa spunem ne*Docker*izat), cu ***DNN***(Deep Neural Network), accelarand procesele via [**CUDA/GPU**](https://hub.docker.com/r/nvidia/cuda), atunci va trebui sa mai instalati si [***cuDNN***](https://developer.nvidia.com/cudnn)(in cazul arhitecturii mele, descarcarea(si apoi instalarea conform instructiunilor specifice) cuDNN, se va efectua folosind urmatoarele filtre specifice: **Linux**, **x86_64**, **Ubuntu**, **22.04**, **deb(local)** pt **CUDA 12**)
+     Desigur, daca aveti de lucrat(sa spunem ne*Docker*izat), cu [***DNN***](https://developer.nvidia.com/deep-learning)(Deep Neural Network), accelarand procesele via [**CUDA/GPU**](https://hub.docker.com/r/nvidia/cuda), atunci va trebui sa mai instalati si [***cuDNN***](https://developer.nvidia.com/cudnn)(in cazul arhitecturii mele, descarcarea(si apoi instalarea conform instructiunilor specifice) cuDNN, se va efectua folosind urmatoarele filtre specifice: **Linux**, **x86_64**, **Ubuntu**, **22.04**, **deb(local)** pt **CUDA 12**)
 <hr/>
 
 
