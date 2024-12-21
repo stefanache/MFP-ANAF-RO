@@ -110,7 +110,9 @@ Indiferent daca vreti sa implementati un [**RAPTOR-RAG**](https://angelina-yang.
                   |        ID   ID                                                               Usage      |
                   |=========================================================================================|
                   |  No running processes found                                                             |
-                  +-----------------------------------------------------------------------------------------+   
+                  +-----------------------------------------------------------------------------------------+
+
+     Desigur daca aveti de lucrat, cu ***DNN****(Deep Neural Network), accelarand procesele via **CUDA/GPU**, atunci va trebui sa instalati si [***cuDNN***](https://developer.nvidia.com/cudnn)
 <hr/>
 
 
