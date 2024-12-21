@@ -90,7 +90,7 @@ Indiferent daca vreti sa implementati un [**RAPTOR-RAG**](https://angelina-yang.
 
    Iata ce se vede la mine cand dau comanda **nvidia-smi** in **Ubuntu 22.04**:
 
-                  user@DESKTOP-1I36BHR:~$ nvidia-smi
+                  user@DESKTOP-*******:~$ nvidia-smi
                   Sat Dec 21 21:24:31 2024
                   +-----------------------------------------------------------------------------------------+
                   | NVIDIA-SMI 565.51.01              Driver Version: 565.90         CUDA Version: 12.7     |
