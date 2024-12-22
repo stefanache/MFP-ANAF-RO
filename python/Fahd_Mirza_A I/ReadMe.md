@@ -131,7 +131,7 @@ Un astfel de [**agent-AI Stripe**](https://github.com/stripe/agent-toolkit?tab=r
 
 Acest agent-AI Stripe are 2 implementari: una in Python si alta in nodeJS/Typescript.
 
-Agentul-AI Stripe(API-ul), scris in Python, are urmatoarele [metode](https://github.com/stripe/agent-toolkit?tab=readme-ov-file#supported-api-methods)/facilitati implementate(chiar daca nu acopera intregul spectru de facilitati oferite de catre sdk-ul python):
+**Agentul-AI Stripe**(API-ul), scris in Python, are urmatoarele [metode](https://github.com/stripe/agent-toolkit?tab=readme-ov-file#supported-api-methods)/facilitati implementate(chiar daca nu acopera intregul spectru de facilitati oferite de catre sdk-ul python):
 
  - [Creați un client](https://docs.stripe.com/api/customers/create)
  - [Listați toți clienții](https://docs.stripe.com/api/customers/list)
