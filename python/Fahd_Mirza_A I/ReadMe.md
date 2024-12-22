@@ -119,6 +119,8 @@ Multi ati auzit de procesatorul de plati [**Stripe**](https://www.youtube.com/wa
 
 Idea de baza este ca platitorii(cum este si platforma Stripe) sunt un fel de intermediar/liant in tranzactiile de vanzare-cumparare, intre client si banca clientului( pe de-o parte) si comerciant impreuna cu banca comerciantului(pe de alta parte).
 
+Daca va faceti cont pe aceasta platforma ca si comerciant practic aveti deja posibilitatea de a avea propriul magazin virtual de vanzare a produsleor.
+
 Desigur in astfel de tranzactii software-ul dedicat este foarte important in facilitarea acestui fel de tranzactii tri-partite(client+banca,platitor,comerciant+banca).
 
 Astfel pt dezvoltatorii care utilizeaza python,nodeJs... exista de ceva timp sdk-uri care sa accelereze procesul de dezvltare a aplicatiilor de e-commerce.
@@ -133,16 +135,16 @@ Agentul-AI Stripe(API-ul), scris in Python, are urmatoarele [metode](https://git
 
  - [Creați un client](https://docs.stripe.com/api/customers/create)
  - [Listați toți clienții](https://docs.stripe.com/api/customers/list)
- - Creați un produs](https://docs.stripe.com/api/products/create)
- - Listați toate produsele](https://docs.stripe.com/api/products/list)
- - Creați un preț](https://docs.stripe.com/api/prices/create)
- - Listați toate prețurile](https://docs.stripe.com/api/prices/list)
- - Creați un link de plată](https://docs.stripe.com/api/payment-link/create)
- - Creați o factură](https://docs.stripe.com/api/invoices/create)
- - Creați un articol de factură](https://docs.stripe.com/api/invoiceitems/create)
- - Finalizați o factură](https://docs.stripe.com/api/invoices/finalize)
- - Recuperează echilibrul](https://docs.stripe.com/api/balance/balance_retrieve)
- - Creați o rambursare](https://docs.stripe.com/api/refunds/create)
+ - [Creați un produs](https://docs.stripe.com/api/products/create)
+ - [Listați toate produsele](https://docs.stripe.com/api/products/list)
+ - [Creați un preț](https://docs.stripe.com/api/prices/create)
+ - [Listați toate prețurile](https://docs.stripe.com/api/prices/list)
+ - [Creați un link de plată](https://docs.stripe.com/api/payment-link/create)
+ - [Creați o factură](https://docs.stripe.com/api/invoices/create)
+ - [Creați un articol de factură](https://docs.stripe.com/api/invoiceitems/create)
+ - [Finalizați o factură](https://docs.stripe.com/api/invoices/finalize)
+ - [Recuperează echilibrul](https://docs.stripe.com/api/balance/balance_retrieve)
+ - [Creați o rambursare](https://docs.stripe.com/api/refunds/create)
 
 
 
