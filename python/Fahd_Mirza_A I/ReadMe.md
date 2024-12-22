@@ -117,7 +117,7 @@ Indiferent daca vreti sa implementati un [**RAPTOR-RAG**](https://angelina-yang.
 
 Multi ati auzit de procesatorul de plati [**Stripe**](https://www.youtube.com/watch?v=WM-1FGwjiZQ)(un rival al **Paypall** si al multor astfel de "platitori")
 
-Idea de baza este ca platitorii(cum este si Stripe) sunt un fel de intermediar/liant in tranzactiile de vanzare-cumparare, intre client si banca clientului( pe de-o parte) si comerciant impreuna cu banca comerciantului(pe de alta parte).
+Idea de baza este ca platitorii(cum este si platforma Stripe) sunt un fel de intermediar/liant in tranzactiile de vanzare-cumparare, intre client si banca clientului( pe de-o parte) si comerciant impreuna cu banca comerciantului(pe de alta parte).
 
 Desigur in astfel de tranzactii software-ul dedicat este foarte important in facilitarea acestui fel de tranzactii tri-partite(client+banca,platitor,comerciant+banca).
 
@@ -126,6 +126,26 @@ Astfel pt dezvoltatorii care utilizeaza python,nodeJs... exista de ceva timp sdk
 Odata cu aparitia AI-NLP, peste aceste sdk-uri ar fi util sa avem agenti-AI care sa permita interfatarea mai usoara a unui non-dezvoltator.
 
 Un astfel de [**agent-AI Stripe**](https://github.com/stripe/agent-toolkit?tab=readme-ov-file) ne propune si dl. Fahd Mirza in acest [**video-youtube**](https://www.youtube.com/watch?v=WM-1FGwjiZQ).
+
+Acest agent-AI Stripe are 2 implementari: una in Python si alta in nodeJS/Typescript.
+
+Agentul-AI Stripe(API-ul), scris in Python, are urmatoarele [metode](https://github.com/stripe/agent-toolkit?tab=readme-ov-file#supported-api-methods)/facilitati implementate(nu acopera intregul spectru de facilitati oferite de catre sdk-ul python):
+
+ - [Creați un client](https://docs.stripe.com/api/customers/create)
+ - [Listați toți clienții](
+ - Creați un produs](
+ - Listați toate produsele](
+ - Creați un preț](
+ - Listați toate prețurile](
+ - Creați un link de plată](
+ - Creați o factură](
+ - Creați un articol de factură](
+ - Finalizați o factură](
+ - Recuperează echilibrul](
+ - Creați o rambursare](
+
+
+
 
 
 
