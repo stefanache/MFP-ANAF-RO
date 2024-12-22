@@ -117,34 +117,34 @@ Indiferent daca vreti sa implementati un [**RAPTOR-RAG**](https://angelina-yang.
 
 Probabil ca multi ati/au auzit de procesatorul de plati [**Stripe**](https://www.youtube.com/watch?v=WM-1FGwjiZQ)(un rival/concurent/coleg de breasla al **Paypall** si... al multor astfel de "platitori")
 
-Ideea de baza este ca platitorii(cum este si platforma Stripe) sunt un fel de intermediar/liant in tranzactiile de vanzare-cumparare, intre client si banca clientului( pe de-o parte) si comerciant impreuna cu banca comerciantului(pe de alta parte).
+Ideea de baza este ca platitorii(cum este si platforma **Stripe**) sunt un fel de intermediar/liant in tranzactiile de vanzare-cumparare, intre client si banca clientului( pe de-o parte) si comerciant impreuna cu banca comerciantului(pe de alta parte).
 
-Daca va faceti cont, pe aceasta platforma(Stripe), ca si comerciant, practic aveti deja posibilitatea, de a avea propriul magazin virtual(de vanzare a produsleor voastre fizice sau conceptuale).
+Daca va faceti cont, pe aceasta platforma(**Stripe**), ca si comerciant, practic aveti deja posibilitatea, de a avea propriul magazin virtual de comert electronic/**e-commerce**(de vanzare a produsleor voastre fizice sau conceptuale).
 
 Desigur in astfel de tranzactii software-ul dedicat este foarte important in facilitarea acestui fel de tranzactii tri-partite(client+banca, platitor, comerciant+banca).
 
-Astfel pt dezvoltatorii care utilizeaza Python, NodeJS... exista, de ceva timp, [SDK](https://en.wikipedia.org/wiki/Software_development_kit)-uri(Software Development Kit) care sa accelereze, procesul de dezvltare al aplicatiilor de e-commerce.
+Astfel pt dezvoltatorii care utilizeaza **Python**, *NodeJS**... exista, de ceva timp, [**SDK**](https://en.wikipedia.org/wiki/Software_development_kit)-uri(Software Development Kit) care sa accelereze, procesul de dezvltare al aplicatiilor de e-commerce.
 
-Odata cu aparitia AI-NLP, peste aceste pachete(SDK-uri) softare ar fi util sa avem agenti-AI care sa permita interfatarea mai usoara a unui non-dezvoltator.
+Odata cu aparitia **AI/NLP**, peste aceste pachete(**SDK**-uri) softare, ar fi util sa avem agenti-AI care sa permita interfatarea mai usoara a unui non-dezvoltator.
 
-Un astfel de [**agent-AI Stripe**](https://github.com/stripe/agent-toolkit?tab=readme-ov-file) ne propune si dl. Fahd Mirza in acest [**video-youtube**](https://www.youtube.com/watch?v=WM-1FGwjiZQ).
+Un astfel de [**agent-AI Stripe**](https://github.com/stripe/agent-toolkit?tab=readme-ov-file) ne propune si dl. **Fahd Mirza** in acest [**video-youtube**](https://www.youtube.com/watch?v=WM-1FGwjiZQ).
 
-Acest **agent-AI Stripe** are 2 implementari: una in Python si alta in nodeJS/Typescript.
+Acest **agent-AI Stripe** are 2 implementari: una in **Python** si alta in **NodeJS**/**TypeScript**.
 
-**Agentul-AI Stripe**(API-ul), scris in Python, are urmatoarele [metode](https://github.com/stripe/agent-toolkit?tab=readme-ov-file#supported-api-methods)/facilitati implementate(chiar daca nu acopera intregul spectru de facilitati oferite de catre sdk-ul python):
+**Agentul-AI Stripe**(API-ul), scris in Python, are urmatoarele [metode](https://github.com/stripe/agent-toolkit?tab=readme-ov-file#supported-api-methods)/facilitati implementate(chiar daca **nu** acopera intregul spectru de facilitati oferite de catre ***SDK***-ul python):
 
- - [Creați un client](https://docs.stripe.com/api/customers/create)
- - [Listați toți clienții](https://docs.stripe.com/api/customers/list)
- - [Creați un nou produs](https://docs.stripe.com/api/products/create)
- - [Listați toate produsele](https://docs.stripe.com/api/products/list)
- - [Creați un nou preț](https://docs.stripe.com/api/prices/create)
- - [Listați toate prețurile](https://docs.stripe.com/api/prices/list)
- - [Creați un link de (instiintare) plată](https://docs.stripe.com/api/payment-link/create)
- - [Creați o factură](https://docs.stripe.com/api/invoices/create)
- - [Creați un articol de factură](https://docs.stripe.com/api/invoiceitems/create)
- - [Finalizați o factură](https://docs.stripe.com/api/invoices/finalize)
- - [Recuperează/Extrage balanta de echilibru](https://docs.stripe.com/api/balance/balance_retrieve)
- - [Creați o rambursare](https://docs.stripe.com/api/refunds/create)
+ - [Creați un **client**](https://docs.stripe.com/api/customers/create)
+ - [Listați toți **clienții**](https://docs.stripe.com/api/customers/list)
+ - [Creați un nou **produs**](https://docs.stripe.com/api/products/create)
+ - [Listați toate **produsele**](https://docs.stripe.com/api/products/list)
+ - [Creați un nou **preț**](https://docs.stripe.com/api/prices/create)
+ - [Listați toate **prețurile**](https://docs.stripe.com/api/prices/list)
+ - [Creați un **link** de (instiintare) plată](https://docs.stripe.com/api/payment-link/create)
+ - [Creați o ***factură***](https://docs.stripe.com/api/invoices/create)
+ - [Creați un **articol** de ***factură***](https://docs.stripe.com/api/invoiceitems/create)
+ - [Finalizați o ***factură***](https://docs.stripe.com/api/invoices/finalize)
+ - [Recuperează/Extrage **balanta** de echilibru/verificare](https://docs.stripe.com/api/balance/balance_retrieve)
+ - [Creați o **rambursare**](https://docs.stripe.com/api/refunds/create)
 
 <hr/>
 
