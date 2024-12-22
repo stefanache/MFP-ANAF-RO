@@ -129,7 +129,7 @@ Odata cu aparitia AI-NLP, peste aceste sdk-uri ar fi util sa avem agenti-AI care
 
 Un astfel de [**agent-AI Stripe**](https://github.com/stripe/agent-toolkit?tab=readme-ov-file) ne propune si dl. Fahd Mirza in acest [**video-youtube**](https://www.youtube.com/watch?v=WM-1FGwjiZQ).
 
-Acest agent-AI Stripe are 2 implementari: una in Python si alta in nodeJS/Typescript.
+Acest **agent-AI Stripe** are 2 implementari: una in Python si alta in nodeJS/Typescript.
 
 **Agentul-AI Stripe**(API-ul), scris in Python, are urmatoarele [metode](https://github.com/stripe/agent-toolkit?tab=readme-ov-file#supported-api-methods)/facilitati implementate(chiar daca nu acopera intregul spectru de facilitati oferite de catre sdk-ul python):
 
