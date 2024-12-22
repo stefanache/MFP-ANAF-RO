@@ -117,9 +117,9 @@ Indiferent daca vreti sa implementati un [**RAPTOR-RAG**](https://angelina-yang.
 
 Probabil ca multi ati/au auzit de procesatorul de plati [**Stripe**](https://www.youtube.com/watch?v=WM-1FGwjiZQ)(un rival/concurent/coleg de breasla al **Paypall** si al multor astfel de "platitori")
 
-Idea de baza este ca platitorii(cum este si platforma Stripe) sunt un fel de intermediar/liant in tranzactiile de vanzare-cumparare, intre client si banca clientului( pe de-o parte) si comerciant impreuna cu banca comerciantului(pe de alta parte).
+Ideea de baza este ca platitorii(cum este si platforma Stripe) sunt un fel de intermediar/liant in tranzactiile de vanzare-cumparare, intre client si banca clientului( pe de-o parte) si comerciant impreuna cu banca comerciantului(pe de alta parte).
 
-Daca va faceti cont pe aceasta platforma ca si comerciant practic aveti deja posibilitatea de a avea propriul magazin virtual de vanzare a produsleor.
+Daca va faceti cont, pe aceasta platforma(Stripe), ca si comerciant, practic aveti deja posibilitatea, de a avea propriul magazin virtual(de vanzare a produsleor voastre fizice sau conceptuale).
 
 Desigur in astfel de tranzactii software-ul dedicat este foarte important in facilitarea acestui fel de tranzactii tri-partite(client+banca,platitor,comerciant+banca).
 
