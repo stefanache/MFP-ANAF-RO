@@ -119,4 +119,14 @@ Multi ati auzit de procesatorul de plati [**Stripe**](https://www.youtube.com/wa
 
 Idea de baza este ca platitorii(cum este si Stripe) sunt un fel de intermediar/liant in tranzactiile de vanzare-cumparare, intre client si banca clientului( pe de-o parte) si comerciant impreuna cu banca comerciantului(pe de alta parte).
 
+Desigur in astfel de tranzactii software-ul dedicat este foarte important in facilitarea acestui fel de tranzactii tri-partite(client+banca,platitor,comerciant+banca).
+
+Astfel pt dezvoltatorii care utilizeaza python,nodeJs... exista de ceva timp sdk-uri care sa accelereze procesul de dezvltare a aplicatiilor de e-commerce.
+
+Odata cu aparitia AI-NLP, peste aceste sdk-uri ar fi util sa avem agenti-AI care sa permita interfatarea mai usoara a unui non-dezvoltator.
+
+Un astfel de [**agent-AI Stripe**](https://github.com/stripe/agent-toolkit?tab=readme-ov-file) ne propune si dl. Fahd Mirza in acest [**video-youtube**](https://www.youtube.com/watch?v=WM-1FGwjiZQ).
+
+
+
 
