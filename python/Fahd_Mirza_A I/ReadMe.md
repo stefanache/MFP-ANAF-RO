@@ -139,7 +139,7 @@ Acest **agent-AI Stripe** are 2 implementari: una in Python si alta in nodeJS/Ty
  - [Listați toate produsele](https://docs.stripe.com/api/products/list)
  - [Creați un preț](https://docs.stripe.com/api/prices/create)
  - [Listați toate prețurile](https://docs.stripe.com/api/prices/list)
- - [Creați un link de plată](https://docs.stripe.com/api/payment-link/create)
+ - [Creați un link de (instiintare) plată](https://docs.stripe.com/api/payment-link/create)
  - [Creați o factură](https://docs.stripe.com/api/invoices/create)
  - [Creați un articol de factură](https://docs.stripe.com/api/invoiceitems/create)
  - [Finalizați o factură](https://docs.stripe.com/api/invoices/finalize)
