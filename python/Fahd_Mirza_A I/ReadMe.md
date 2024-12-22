@@ -132,17 +132,17 @@ Acest agent-AI Stripe are 2 implementari: una in Python si alta in nodeJS/Typesc
 Agentul-AI Stripe(API-ul), scris in Python, are urmatoarele [metode](https://github.com/stripe/agent-toolkit?tab=readme-ov-file#supported-api-methods)/facilitati implementate(nu acopera intregul spectru de facilitati oferite de catre sdk-ul python):
 
  - [Creați un client](https://docs.stripe.com/api/customers/create)
- - [Listați toți clienții](
- - Creați un produs](
- - Listați toate produsele](
- - Creați un preț](
- - Listați toate prețurile](
- - Creați un link de plată](
- - Creați o factură](
- - Creați un articol de factură](
- - Finalizați o factură](
- - Recuperează echilibrul](
- - Creați o rambursare](
+ - [Listați toți clienții](https://docs.stripe.com/api/customers/list)
+ - Creați un produs](https://docs.stripe.com/api/products/create)
+ - Listați toate produsele](https://docs.stripe.com/api/products/list)
+ - Creați un preț](https://docs.stripe.com/api/prices/create)
+ - Listați toate prețurile](https://docs.stripe.com/api/prices/list)
+ - Creați un link de plată](https://docs.stripe.com/api/payment-link/create)
+ - Creați o factură](https://docs.stripe.com/api/invoices/create)
+ - Creați un articol de factură](https://docs.stripe.com/api/invoiceitems/create)
+ - Finalizați o factură](https://docs.stripe.com/api/invoices/finalize)
+ - Recuperează echilibrul](https://docs.stripe.com/api/balance/balance_retrieve)
+ - Creați o rambursare](https://docs.stripe.com/api/refunds/create)
 
 
 
