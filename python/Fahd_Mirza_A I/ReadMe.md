@@ -115,7 +115,7 @@ Indiferent daca vreti sa implementati un [**RAPTOR-RAG**](https://angelina-yang.
      Desigur, daca aveti de lucrat(sa spunem/luam cazul ne[*Docker*](https://hub.docker.com/r/nvidia/cuda/tags)izat), cu [***DNN***](https://developer.nvidia.com/deep-learning)([Deep Neural Network](https://medium.com/@milistu/how-to-install-cuda-cudnn-7e4a00ae4f44)), accelarand procesele via [**CUDA/GPU**](https://hub.docker.com/r/nvidia/cuda), atunci va trebui sa mai instalati si [***cuDNN***](https://developer.nvidia.com/cudnn)(in cazul [arhitecturii mele](https://forums.developer.nvidia.com/t/cuda-with-nvidia-geforce-rtx-4060/311019), descarcarea(si apoi instalarea conform instructiunilor specifice) [cuDNN](https://docs.nvidia.com/deeplearning/cudnn/latest/reference/support-matrix.html), se va efectua folosind urmatoarele filtre specifice: **Linux**, **x86_64**, **Ubuntu**, **22.04**, **deb(local)** pt **Driver for Linux 565.90** si **CUDA 12**)
 <hr/>
 
-Probabil ca multi ati/au auzit de procesatorul de plati [**Stripe**](https://www.youtube.com/watch?v=WM-1FGwjiZQ)(un rival/concurent/coleg de breasla al **Paypall** si al multor astfel de "platitori")
+Probabil ca multi ati/au auzit de procesatorul de plati [**Stripe**](https://www.youtube.com/watch?v=WM-1FGwjiZQ)(un rival/concurent/coleg de breasla al **Paypall** si... al multor astfel de "platitori")
 
 Ideea de baza este ca platitorii(cum este si platforma Stripe) sunt un fel de intermediar/liant in tranzactiile de vanzare-cumparare, intre client si banca clientului( pe de-o parte) si comerciant impreuna cu banca comerciantului(pe de alta parte).
 
