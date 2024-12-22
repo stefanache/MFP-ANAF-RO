@@ -130,7 +130,7 @@ Odata cu aparitia **AI/NLP**, peste aceste pachete(**SDK**-uri) softare, ar fi u
 
 Un astfel de [**agent-AI Stripe**](https://github.com/stripe/agent-toolkit?tab=readme-ov-file), ne propune si dl. **Fahd Mirza**, in acest [**video-youtube**](https://www.youtube.com/watch?v=WM-1FGwjiZQ).
 
-Acest **agent-AI Stripe** are 2 implementari: una in **Python**(la care ne referim si noi in aceasta postare: instalarea se face cu comanda***pip install stripe-agent-toolkit***) si alta in **NodeJS**/**TypeScript**: instalarea se face cu cda: ***npm install @stripe/agent-toolkit***) .
+Acest **agent-AI Stripe** are 2 implementari: una in **Python**(la care ne referim si noi in aceasta postare: instalarea se face cu comanda: ***pip install stripe-agent-toolkit***) si alta in **NodeJS**/**TypeScript**: instalarea se face cu c-da: ***npm install @stripe/agent-toolkit***) .
 
 **Agentul-AI Stripe**(API-ul), scris in Python, are urmatoarele [metode](https://github.com/stripe/agent-toolkit?tab=readme-ov-file#supported-api-methods)/facilitati implementate(chiar daca **nu** acopera intregul spectru de facilitati oferite de catre ***SDK***-ul python):
 
