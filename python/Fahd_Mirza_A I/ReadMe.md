@@ -143,7 +143,7 @@ Agentul-AI Stripe(API-ul), scris in Python, are urmatoarele [metode](https://git
  - [Creați o factură](https://docs.stripe.com/api/invoices/create)
  - [Creați un articol de factură](https://docs.stripe.com/api/invoiceitems/create)
  - [Finalizați o factură](https://docs.stripe.com/api/invoices/finalize)
- - [Recuperează echilibrul](https://docs.stripe.com/api/balance/balance_retrieve)
+ - [Recuperează/Extrage balanta de echilibru](https://docs.stripe.com/api/balance/balance_retrieve)
  - [Creați o rambursare](https://docs.stripe.com/api/refunds/create)
 
 
