@@ -12,7 +12,7 @@ Contact us today to setup a one-on-one discovery call and let us help you scale 
 
 **Thanks all for the ***24*** [stars](https://www.facebook.com/ion.stefanache.3) and great [traffic](https://www.freelancer.com/u/ionstefanache1)(many ***downloads*** and many-many ***views***)!**
 
-**Sorry, But 0 money :)!**
+**Sorry, But 0 money :)!** (I'm follower/fan of [Olymp-Group](https://olympgroup.co.uk/))
 
 
 You can https://www.buymeacoffee.com/stefanache... Thanks
