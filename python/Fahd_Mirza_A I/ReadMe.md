@@ -147,7 +147,7 @@ Acest **agent-AI Stripe** are 2 implementari: una pt./in **Python**(la care ne r
  - [Recuperează/Extrage **balanta** de echilibru/verificare](https://docs.stripe.com/api/balance/balance_retrieve)
  - [Creați o **rambursare**](https://docs.stripe.com/api/refunds/create)
 
-Asadar, sunt facilitati, care ofera operatii de tip [**CR*****UD***](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete) pt tabelele ce contin date, **Clienti**, **Produse**, **Preturi**, [*master-detail*](https://en.wikipedia.org/wiki/Master%E2%80%93detail_interface) **Factura-articole**, dar, si pt extragere de situatii/stari(**Link**-uri de **Pret**, **Balanta** de Verificare, Liste pt **Clienti**, **Produse**, **Preturi**,...), ori, pt cazuri operationale speciale(cum este cazul, **Rambursarii** unei sume deja incasate, in cazul, stornarilor de facturi-emise, de catre **Stripe**, in numele utilizatorui-comerciant) 
+Asadar, sunt facilitati, care ofera operatii de tip [**CR*****UD***](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete) pt tabelele ce contin date(**Clienti**, **Produse**, **Preturi**, [*master-detail*](https://en.wikipedia.org/wiki/Master%E2%80%93detail_interface) **Factura-articole**), dar, si pt extragere de situatii/stari/interogari(**Link**-uri de **Pret**, **Balanta** de Verificare, Liste pt **Clienti**, **Produse**, **Preturi**,...), ori, pt cazuri operationale speciale(cum este cazul, **Rambursarii** unei sume deja incasate, in cazul, stornarilor de facturi-emise, de catre **Stripe**, in numele utilizatorui-comerciant) 
 <hr/>
 
 
