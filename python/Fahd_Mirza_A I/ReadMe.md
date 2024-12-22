@@ -121,13 +121,13 @@ Ideea de baza este ca platitorii(cum este si platforma **Stripe**) sunt un fel d
 
 Daca va faceti cont, pe aceasta platforma(**Stripe**), ca si comerciant, practic aveti deja posibilitatea, de a avea propriul magazin virtual de comert electronic/**e-commerce**(de vanzare a produsleor voastre fizice sau conceptuale).
 
-Desigur in astfel de tranzactii software-ul dedicat este foarte important in facilitarea acestui fel de tranzactii tri-partite(client+banca, platitor, comerciant+banca).
+Desigur, in astfel de tranzactii, software-ul dedicat este foarte important, in facilitarea acestui fel/tip de tranzactii, tri-partite(**client**+banca-client, **platitor-intermediar**-in acest caz **Stripe**, **comerciant**+banca-comerciant).
 
-Astfel pt dezvoltatorii care utilizeaza **Python**, *NodeJS**... exista, de ceva timp, [**SDK**](https://en.wikipedia.org/wiki/Software_development_kit)-uri(Software Development Kit) care sa accelereze, procesul de dezvltare al aplicatiilor de e-commerce.
+Astfel pt dezvoltatorii care utilizeaza **Python**, **NodeJS**... exista, de ceva timp, [**SDK**](https://en.wikipedia.org/wiki/Software_development_kit)-uri(Software Development Kit) care sa accelereze, procesul de dezvoltare al aplicatiilor de ***e-commerce***.
 
-Odata cu aparitia **AI/NLP**, peste aceste pachete(**SDK**-uri) softare, ar fi util sa avem agenti-AI care sa permita interfatarea mai usoara a unui non-dezvoltator.
+Odata cu aparitia **AI/NLP**, peste aceste pachete(**SDK**-uri) softare, ar fi util sa avem agenti-AI, care sa permita interfatarea-utilizator, mai usoar de infaptuit pentru un non-dezvoltator(utilizator obisnuit).
 
-Un astfel de [**agent-AI Stripe**](https://github.com/stripe/agent-toolkit?tab=readme-ov-file) ne propune si dl. **Fahd Mirza** in acest [**video-youtube**](https://www.youtube.com/watch?v=WM-1FGwjiZQ).
+Un astfel de [**agent-AI Stripe**](https://github.com/stripe/agent-toolkit?tab=readme-ov-file), ne propune si dl. **Fahd Mirza**, in acest [**video-youtube**](https://www.youtube.com/watch?v=WM-1FGwjiZQ).
 
 Acest **agent-AI Stripe** are 2 implementari: una in **Python** si alta in **NodeJS**/**TypeScript**.
 
