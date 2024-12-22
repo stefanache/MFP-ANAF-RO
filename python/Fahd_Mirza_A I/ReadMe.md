@@ -123,9 +123,9 @@ Daca va faceti cont, pe aceasta platforma(Stripe), ca si comerciant, practic ave
 
 Desigur in astfel de tranzactii software-ul dedicat este foarte important in facilitarea acestui fel de tranzactii tri-partite(client+banca, platitor, comerciant+banca).
 
-Astfel pt dezvoltatorii care utilizeaza python,nodeJs... exista de ceva timp sdk-uri care sa accelereze procesul de dezvltare a aplicatiilor de e-commerce.
+Astfel pt dezvoltatorii care utilizeaza Python, NodeJS... exista, de ceva timp, [SDK](https://en.wikipedia.org/wiki/Software_development_kit)-uri(Software Development Kit) care sa accelereze, procesul de dezvltare al aplicatiilor de e-commerce.
 
-Odata cu aparitia AI-NLP, peste aceste sdk-uri ar fi util sa avem agenti-AI care sa permita interfatarea mai usoara a unui non-dezvoltator.
+Odata cu aparitia AI-NLP, peste aceste pachete(SDK-uri) softare ar fi util sa avem agenti-AI care sa permita interfatarea mai usoara a unui non-dezvoltator.
 
 Un astfel de [**agent-AI Stripe**](https://github.com/stripe/agent-toolkit?tab=readme-ov-file) ne propune si dl. Fahd Mirza in acest [**video-youtube**](https://www.youtube.com/watch?v=WM-1FGwjiZQ).
 
