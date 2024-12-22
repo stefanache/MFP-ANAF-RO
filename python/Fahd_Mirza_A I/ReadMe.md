@@ -121,7 +121,7 @@ Ideea de baza este ca platitorii(cum este si platforma Stripe) sunt un fel de in
 
 Daca va faceti cont, pe aceasta platforma(Stripe), ca si comerciant, practic aveti deja posibilitatea, de a avea propriul magazin virtual(de vanzare a produsleor voastre fizice sau conceptuale).
 
-Desigur in astfel de tranzactii software-ul dedicat este foarte important in facilitarea acestui fel de tranzactii tri-partite(client+banca,platitor,comerciant+banca).
+Desigur in astfel de tranzactii software-ul dedicat este foarte important in facilitarea acestui fel de tranzactii tri-partite(client+banca, platitor, comerciant+banca).
 
 Astfel pt dezvoltatorii care utilizeaza python,nodeJs... exista de ceva timp sdk-uri care sa accelereze procesul de dezvltare a aplicatiilor de e-commerce.
 
