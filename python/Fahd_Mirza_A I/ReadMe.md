@@ -117,7 +117,7 @@ Indiferent daca vreti sa implementati un [**RAPTOR-RAG**](https://angelina-yang.
 
 Probabil ca multi ati/au auzit de procesatorul de plati [**Stripe**](https://www.youtube.com/watch?v=WM-1FGwjiZQ)(un rival/concurent/coleg de breasla al **Paypall** si... al multor astfel de "platitori")
 
-Ideea de baza este ca platitorii(cum este si platforma **Stripe**) sunt un fel de intermediar/liant in tranzactiile de contra(vanzatorul vrea pret mare iar cumparatorul vrea pret mic)-partida **Vanzare-Cumparare**(atentie nu exista vanzare fara cumparare sau vanzator=comerciant fara cumparator... *ATENTIE/obs:** vanzatorul fara cumparator [este denumit/face o]  *oferta-d-e vanzare* iar cumparatorul fara vanzator este [denumita/face o]  *oferta-de-cumparare* !!!), intre client si banca clientului( pe de-o parte) si comerciant impreuna cu banca comerciantului(pe de alta parte).
+Ideea de baza este ca platitorii(cum este si platforma **Stripe**) sunt un fel de intermediar/liant(intre parti/partide) in tranzactiile de contra(vanzatorul vrea pret mare iar cumparatorul vrea pret mic)-partida **Vanzare-Cumparare**(atentie nu exista vanzare fara cumparare sau vanzator=comerciant fara cumparator... *ATENTIE/obs:** vanzatorul fara cumparator [este denumit/face o]  *oferta-d-e vanzare* iar cumparatorul fara vanzator este [denumita/face o]  *oferta-de-cumparare* !!!), intre client si banca clientului( pe de-o parte) si comerciant impreuna cu banca comerciantului(pe de alta parte).
 
 Daca va faceti cont, pe aceasta platforma(**Stripe**), ca si comerciant, practic aveti deja posibilitatea, de a avea propriul magazin virtual de comert electronic/**e-commerce**(de vanzare a produsleor voastre fizice sau conceptuale).
 
