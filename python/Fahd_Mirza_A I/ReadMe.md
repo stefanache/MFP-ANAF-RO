@@ -159,7 +159,7 @@ Sa nu uitam, ca pana/in cele din urma, un **NLP** inseamna, a intelege([**NLU**]
 Desigur, asa cum am mentionat anterior, ar trebui sa aveti in vedere si posibilitatea alternativa(dintr-o perspectiva ***pasiva***), cu alte cuvinte de a folosi **NLP=Txt2SW**, si pt cazuri pasive, adica de intelegere(daca vreti, doar de dragul conversatiei).<br/>
 Chiar si pentru astfel de cazuri ***pasive***, in care se urmareste(cel mult), **traducerea** in diverse alte ***limbi naturale***(nu artificiale, cum sunt cele tehnice/software: php, python, javascript/java ...), dar si traducerea in ***limbaje artificiale***(codificabile ca si context programabil|) sau,  daca vreti, spre exemplu, in care se urmareste **valorificarea, ca si concept**(deci pasiv, si nu activ), in sensul **rezumarii**/extragerii de "idei/concepte", ori in sensul exprimarii de "**rationamente**"(mai mult sau mai putin logice/matematice/fizice/sau rationamente de modelare in oricare alta stiinta exacta/mai putin exacta), va trebui, ca scopul final/destinatia finala, sa aiba,  o reprezentare **algoritmica**(caracteristica specifica oricarui software/**SW**) ...
 
-Un exemplu recent, de model **TTS**/**T2S**([Txt-to/2-Sound](https://www.fahdmirza.com/2024/12/install-kokoro-tts-model-locally.html)), ce poate fi rulat si local(avand un numar relativ redus de parametrii) ar fi si cazul modelului [**Kokoro**](https://www.youtube.com/watch?v=up-ZG35uuvQ)
+Un exemplu recent, de [model](https://huggingface.co/hexgrad/Kokoro-82M) **TTS**/**T2S**([Txt-to/2-Sound](https://www.fahdmirza.com/2024/12/install-kokoro-tts-model-locally.html)), ce poate fi rulat si local(avand un numar relativ redus de parametrii) ar fi si cazul modelului [**Kokoro**](https://www.youtube.com/watch?v=up-ZG35uuvQ)
 <hr/> 
 
 
