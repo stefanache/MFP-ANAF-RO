@@ -632,6 +632,6 @@ Zona mea particulara/specifica/privata adica **datele primare** de intrare care 
 
 Daca doriti sa aflati mai multe despre un [**RAG**](https://arxiv.org/html/2402.19473v6) puteti consulta acest [articol-arxiv](https://arxiv.org/html/2402.19473v6)(sau acest [articol](https://aman.ai/primers/ai/RAG/)...unde veti afla cate ceva si despre [RAPTOR](https://arxiv.org/abs/2401.18059)):
 ![image](https://github.com/user-attachments/assets/517a0572-5015-4fcf-a517-125f6efcb9ef)
-        *Figura 1*: O arhitectură RAG generică. Interogările utilizatorului, care acoperă diferite modalități, servesc ca intrare atât pentru retriever, cât și pentru generator. Retriever-ul extrage informații relevante din sursele de date. Generatorul interacționează cu rezultatele extragerii și în cele din urmă produce rezultate de diferite modalități.
+        *Figura 1*: O arhitectură RAG generică. Interogările utilizatorului, care acoperă diferite modalități, servesc ca intrare atât pentru retriever(recuperator), cât și pentru generator. Retriever-ul extrage informații relevante din sursele de date. Generatorul interacționează cu rezultatele extragerii și în cele din urmă produce rezultate de diferite modalități.
 
 In acest articol, veti descoperi o comparatie interesanta: [RAG vs. RAG-Fusion vs. RAPTOR](https://becomingahacker.org/comparing-rag-rag-fusion-with-raptor-different-ai-retrieval-augmented-implementations-1aa76fce6a5c)
