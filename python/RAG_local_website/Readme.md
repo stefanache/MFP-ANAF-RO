@@ -635,3 +635,5 @@ Daca doriti sa aflati mai multe despre un [**RAG**](https://arxiv.org/html/2402.
         *Figura 1*: O arhitectură RAG generică. Interogările utilizatorului, care acoperă diferite modalități, servesc ca intrare atât pentru retriever(recuperator), cât și pentru generator. Retriever-ul extrage informații relevante din sursele de date. Generatorul interacționează cu rezultatele extragerii și în cele din urmă produce rezultate de/pe/prin diferite modalități.
 
 In acest articol, veti descoperi o comparatie interesanta: [RAG vs. RAG-Fusion vs. RAPTOR](https://becomingahacker.org/comparing-rag-rag-fusion-with-raptor-different-ai-retrieval-augmented-implementations-1aa76fce6a5c)
+
+De asemenea, va recomand sa consultati si acest [articol](https://www.fahdmirza.com/2024/05/how-to-do-rag-with-local-free-models.html), care va propune o implementare locala de [RAPTOR](https://www.fahdmirza.com/2024/05/how-to-do-rag-with-local-free-models.html)
