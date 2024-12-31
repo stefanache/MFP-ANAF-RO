@@ -628,3 +628,6 @@ Zona mea particulara/specifica/privata adica **datele primare** de intrare care 
    Am incercat intr-un [proiect](https://github.com/stefanache/MFP-ANAF-RO/tree/main/python/RAG_Ollama_Weaviate) de-al meu, pe partea de **client**,  sa separ partea de ***ingestie*** de partea de ***digestie***(**RAG**-ul propriu zis-deci partea conversationala cu serverul-LLM **Ollama**)
 
  - un [cadru open-source](https://www.fahdmirza.com/2024/06/create-local-rag-pipelines-with-r2r-and.html) extrem de interesant care permite contructia simpla si rapida de RAG-uri locale este [RAG to Riches(**R2R**)](https://www.youtube.com/watch?v=2SXcfZiUFDo)
+
+
+Daca doriti sa aflati mai multe despre un [**RAG**](https://arxiv.org/html/2402.19473v6) puteti consulta acest [articol-arxiv](https://arxiv.org/html/2402.19473v6)
