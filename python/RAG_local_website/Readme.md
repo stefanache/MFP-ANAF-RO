@@ -630,4 +630,7 @@ Zona mea particulara/specifica/privata adica **datele primare** de intrare care 
  - un [cadru open-source](https://www.fahdmirza.com/2024/06/create-local-rag-pipelines-with-r2r-and.html) extrem de interesant care permite contructia simpla si rapida de RAG-uri locale este [RAG to Riches(**R2R**)](https://www.youtube.com/watch?v=2SXcfZiUFDo)
 
 
-Daca doriti sa aflati mai multe despre un [**RAG**](https://arxiv.org/html/2402.19473v6) puteti consulta acest [articol-arxiv](https://arxiv.org/html/2402.19473v6)
+Daca doriti sa aflati mai multe despre un [**RAG**](https://arxiv.org/html/2402.19473v6) puteti consulta acest [articol-arxiv](https://arxiv.org/html/2402.19473v6):
+![image](https://github.com/user-attachments/assets/517a0572-5015-4fcf-a517-125f6efcb9ef)
+
+
