@@ -166,7 +166,7 @@ Un [exemplu](https://www.youtube.com/watch?v=pOBwIvpGWvU) de agent de cod(genera
 
 ***Nota:*** 
  - un astfel de [Agenț](https://github.com/huggingface/smolagents) scrie/genereaza cod Python(testat in/la executie) pentru a apela instrumente și pentru a orchestra alți agenți.
- - cum recunoastem un agent?
+ - cum recunoastem un astfel de Agent-de-codare? Hai sa vedem gradual cum stau lucrurile...
 <table>
 <tr>
 <th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">La nivel de agent</font></font></th>
