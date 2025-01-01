@@ -169,7 +169,7 @@ Un [exemplu](https://www.youtube.com/watch?v=pOBwIvpGWvU) de agent de cod(genera
  - cum recunoastem un agent?
 <table>
 <tr>
-<th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">La nivel de agenție</font></font></th>
+<th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">La nivel de agent</font></font></th>
 <th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Descriere</font></font></th>
 <th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cum se numește asta</font></font></th>
 <th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Exemplu de model</font></font></th>
@@ -178,31 +178,31 @@ Un [exemplu](https://www.youtube.com/watch?v=pOBwIvpGWvU) de agent de cod(genera
 <tr>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">☆☆☆</font></font></td>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ieșirea LLM nu are impact asupra fluxului programului</font></font></td>
-<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Procesor simplu</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><b>Procesor simplu</b></font></font></td>
 <td><code>process_llm_output(llm_response)</code></td>
 </tr>
 <tr>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">★☆☆</font></font></td>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ieșirea LLM determină fluxul de control de bază</font></font></td>
-<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Router</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><b>Router</b></font></font></td>
 <td><code>if llm_decision(): path_a() else: path_b()</code></td>
 </tr>
 <tr>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">★★☆</font></font></td>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ieșirea LLM determină execuția funcției</font></font></td>
-<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Apel de instrument</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><b>Apel de instrument</b></font></font></td>
 <td><code>run_function(llm_chosen_tool, llm_chosen_args)</code></td>
 </tr>
 <tr>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">★★★</font></font></td>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ieșirea LLM controlează iterația și continuarea programului</font></font></td>
-<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Agent cu mai mulți pași</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><b>Agent cu mai mulți pași</b></font></font></td>
 <td><code>while llm_should_continue(): execute_next_step()</code></td>
 </tr>
 <tr>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">★★★</font></font></td>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Un flux de lucru agentic poate porni un alt flux de lucru agentic</font></font></td>
-<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Multi-Agent</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><b>Multi-Agent</b></font></font></td>
 <td><code>if llm_trigger(): execute_agent()</code></td>
 </tr>
 </table>
