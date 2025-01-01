@@ -168,14 +168,14 @@ Un [exemplu](https://www.youtube.com/watch?v=pOBwIvpGWvU) de agent de cod(genera
  - un astfel de [Agenț](https://github.com/huggingface/smolagents) scrie/genereaza cod Python(testat in/la executie) pentru a apela instrumente și pentru a orchestra alți agenți.
  - cum recunoastem un agent?
    <table>
-		<thead><tr>
+<tr>
 <th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">La nivel de agenție</font></font></th>
 <th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Descriere</font></font></th>
 <th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cum se numește asta</font></font></th>
 <th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Exemplu de model</font></font></th>
 </tr>
 
-		</thead><tbody><tr>
+<tr>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">☆☆☆</font></font></td>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ieșirea LLM nu are impact asupra fluxului programului</font></font></td>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Procesor simplu</font></font></td>
@@ -205,7 +205,7 @@ Un [exemplu](https://www.youtube.com/watch?v=pOBwIvpGWvU) de agent de cod(genera
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Multi-Agent</font></font></td>
 <td><code>if llm_trigger(): execute_agent()</code></td>
 </tr>
-</tbody>
+
 	</table>
 
 
