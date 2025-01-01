@@ -164,8 +164,48 @@ Un exemplu recent, de [model](https://huggingface.co/hexgrad/Kokoro-82M) **TTS**
 
 Un [exemplu](https://www.youtube.com/watch?v=pOBwIvpGWvU) de agent de cod(generator agentic de cod/script de programare Python, de mica intindere adica pt sarcini de programare simple), care se bazeaza pe un model LLM (cum este Llama3.2), livrat/(de)servit local de un  Ollama server, poate fi tentant in a fi incercat. In ajutorul dumneavoastra vine acum o librarie([smolAgent](https://huggingface.co/blog/smolagents)) care va abstractizeaza/ususreaza acest demers(de a construi agenti de cod).
 
-***Nota:*** un astfel de [Agenț](https://github.com/huggingface/smolagents) scrie/genereaza cod Python(testat in/la executie) pentru a apela instrumente și pentru a orchestra alți agenți.
+***Nota:*** 
+ - un astfel de [Agenț](https://github.com/huggingface/smolagents) scrie/genereaza cod Python(testat in/la executie) pentru a apela instrumente și pentru a orchestra alți agenți.
+ - <table>
+		<thead><tr>
+<th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">La nivel de agenție</font></font></th>
+<th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Descriere</font></font></th>
+<th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cum se numește asta</font></font></th>
+<th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Exemplu de model</font></font></th>
+</tr>
 
+		</thead><tbody><tr>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">☆☆☆</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ieșirea LLM nu are impact asupra fluxului programului</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Procesor simplu</font></font></td>
+<td><code>process_llm_output(llm_response)</code></td>
+</tr>
+<tr>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">★☆☆</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ieșirea LLM determină fluxul de control de bază</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Router</font></font></td>
+<td><code>if llm_decision(): path_a() else: path_b()</code></td>
+</tr>
+<tr>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">★★☆</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ieșirea LLM determină execuția funcției</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Apel de instrument</font></font></td>
+<td><code>run_function(llm_chosen_tool, llm_chosen_args)</code></td>
+</tr>
+<tr>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">★★★</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ieșirea LLM controlează iterația și continuarea programului</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Agent cu mai mulți pași</font></font></td>
+<td><code>while llm_should_continue(): execute_next_step()</code></td>
+</tr>
+<tr>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">★★★</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Un flux de lucru agentic poate porni un alt flux de lucru agentic</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Multi-Agent</font></font></td>
+<td><code>if llm_trigger(): execute_agent()</code></td>
+</tr>
+</tbody>
+	</table>
 
 
 
