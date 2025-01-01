@@ -217,7 +217,7 @@ Pe masura ce creste implicarea sau in ordinea cresterii gradului de implicare, a
  - simplu **Procesor**
  - **Router**
  - **Agent cu mai multi pasi/multi-pas**
- - ori a unei structuri de cod de tip **Multi-Agent**.
+ - ori a unei *structuri de cod* de tipul unui **Multi-Agent**.
 
 
 
