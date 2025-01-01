@@ -179,13 +179,13 @@ Un [exemplu](https://www.youtube.com/watch?v=pOBwIvpGWvU) de agent de cod(genera
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">☆☆☆</font></font></td>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ieșirea LLM nu are impact asupra fluxului programului</font></font></td>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><b>Procesor simplu</b></font></font></td>
-<td><code><b>process_llm_output(</b>llm_response<b>)</b>b></code></td>
+<td><code><b>process_llm_output(</b>llm_response<b>)</b></code></td>
 </tr>
 <tr>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">★☆☆</font></font></td>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ieșirea LLM determină fluxul de control de bază</font></font></td>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><b>Router</b></font></font></td>
-<td><code>if llm_decision(): path_a() else: path_b()</code></td>
+<td><code><b>if</b> llm_decision()<b>:</b> path_a() <b>else:</b> path_b()</code></td>
 </tr>
 <tr>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">★★☆</font></font></td>
