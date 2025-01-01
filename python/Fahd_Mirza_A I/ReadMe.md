@@ -226,7 +226,7 @@ O prima observatie ar fi ca uitandu-ne la această definiție, „Agentul” nu 
 
 Trebuie retinut si faptul ca aici ne refereim la suportul oferit de libraria [smolAgent](https://huggingface.co/blog/smolagents) care abstractizeaza sau simplifica scrierea agentilor de tipul  **Agentiilor de cod** adica care se refera la acei **agenti care își scriu acțiunile în cod**(a nu se confunda cu *„agenții folosiți pentru a scrie cod”*)
 
-Orice sistem eficient care folosește inteligența artificială(AI/IA) va trebui să ofere **LLM**-urilor un fel de ***acces la lumea reală***: de exemplu, posibilitatea de a apela un **instrument de căutare** pentru a obține informații externe sau de a acționa asupra anumitor programe pentru a rezolva o sarcină(cu alte cuvinte, LLM-urile ar trebui să aibă **Agent/Agenție/implicare**). <br/>
+Asadar, orice sistem eficient care folosește inteligența artificială(AI/IA) va trebui să ofere **LLM**-urilor un fel de ***acces la lumea reală***: de exemplu, posibilitatea de a apela un **instrument de căutare** pentru a obține informații externe sau de a acționa asupra anumitor programe pentru a rezolva o sarcină(cu alte cuvinte, LLM-urile ar trebui să aibă **Agent/Agenție/implicare**). <br/>
 Pentru LLM, **programele agentice** sunt poarta de acces către lumea exterioară.
 
 Agenții AI sunt programe în care rezultatele LLM controlează fluxul de lucru .
