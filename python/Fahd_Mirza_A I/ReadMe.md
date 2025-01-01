@@ -164,7 +164,7 @@ Un exemplu recent, de [model](https://huggingface.co/hexgrad/Kokoro-82M) **TTS**
 
 Un [exemplu](https://www.youtube.com/watch?v=pOBwIvpGWvU) de agent de cod(generator agentic de cod/script de programare Python, de mica intindere adica pt sarcini de programare simple), care se bazeaza pe un model LLM (cum este Llama3.2), livrat/(de)servit local de un  Ollama server, poate fi tentant in a fi incercat. In ajutorul dumneavoastra vine acum o librarie([smolAgent](https://huggingface.co/blog/smolagents)) care va abstractizeaza/ususreaza acest demers(de a construi agenti de cod).
 
-***Nota:*** [Agenții](https://github.com/huggingface/smolagents) scriu cod Python pentru a apela instrumente și pentru a orchestra alți agenți.
+***Nota:*** un astfel de [Agenț](https://github.com/huggingface/smolagents) scrie/genereaza cod Python(testat in/la executie) pentru a apela instrumente și pentru a orchestra alți agenți.
 
 
 
