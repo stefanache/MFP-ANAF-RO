@@ -211,7 +211,7 @@ Cum recunoastem un astfel de Agent-de-codare? Hai sa vedem gradual cum stau lucr
 Se poate lesne observa, cum un **LLM**(mai precis iesirea/rezultatul-procesarii acestuia confera acestuia un anumit rol) poate juca, rand pe rand, diverse ***roluri/implicari***(in controlul formarii fluxului general de executie), spre exemplu: 
 
   - un rol pasiv(*fara implicare*),
-  - un rol activ de **decident**(in alegerea de instrumente) sau de **furnizor de argumente** intr-un alternator de ***rutare decizionala***
+  - un rol activ de **decident**(in alegerea de instrumente=o listă la care agentul are acces) sau de **furnizor de argumente** intr-un alternator de ***rutare decizionala***
   - un rol activ de **tester**(verificator de ramanere in/continuare a ciclar[e/ii]/bucl[a/ei] sau de abandonare a acesteia) intr-o ***bucla de executie***
   - un rol activ de **trigger** in declansarea ***executiei altui agent***
 
