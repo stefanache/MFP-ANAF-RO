@@ -197,13 +197,13 @@ Un [exemplu](https://www.youtube.com/watch?v=pOBwIvpGWvU) de agent de cod(genera
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">★★★</font></font></td>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ieșirea LLM controlează iterația și continuarea programului</font></font></td>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><b>Agent cu mai mulți pași</b></font></font></td>
-<td><code>while llm_should_continue(): execute_next_step()</code></td>
+<td><code><b>while</b>b> llm_should_continue()<b>:</b> execute_next_step()</code></td>
 </tr>
 <tr>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">★★★</font></font></td>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Un flux de lucru agentic poate porni un alt flux de lucru agentic</font></font></td>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><b>Multi-Agent</b></font></font></td>
-<td><code>if llm_trigger(): execute_agent()</code></td>
+<td><code><b>if</b> llm_trigger()<b>:</b> execute_agent()</code></td>
 </tr>
 </table>
 
