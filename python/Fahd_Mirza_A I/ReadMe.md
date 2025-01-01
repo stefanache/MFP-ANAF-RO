@@ -213,6 +213,12 @@ Se poate lesne observa, cum un **LLM**(mai precis iesirea/rezultatul-procesarii 
  - un rol activ de **tester**(verificator de ramanere in/continuare a ciclar[e/ii]/bucl[a/ei] sau de abandonare a acesteia) intr-o ***bucla de executie***
  - un rol activ de **trigger** in declansarea ***executiei altui agent***
 
+Pe masura ce creste implicarea sau in ordinea cresterii gradului de implicare, avem rand pe rand, de-a aface cu
+ - un simplu **Procesor**
+ - cu un **Router**
+ - cu un **Agent cu mai multi pasi/multi-pas**
+ - ori cu un **Multi-Agent**
+
 
 
 
