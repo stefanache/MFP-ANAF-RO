@@ -162,6 +162,10 @@ Chiar si pentru astfel de cazuri ***pasive***, in care se urmareste(cel mult), *
 Un exemplu recent, de [model](https://huggingface.co/hexgrad/Kokoro-82M) **TTS**/**T2S**([Txt-to/2-Sound](https://www.fahdmirza.com/2024/12/install-kokoro-tts-model-locally.html)), ce poate fi rulat si local(avand un numar relativ redus de parametrii) ar fi si cazul modelului [**Kokoro**](https://www.youtube.com/watch?v=up-ZG35uuvQ)
 <hr/> 
 
+Un [exemplu](https://www.youtube.com/watch?v=pOBwIvpGWvU) de agent de cod(cod/script de programare de mica intindere adica pt sarcini de programare simple), care se bazeaza pe un model LLM recent([smolAgent](https://huggingface.co/blog/smolagents)), livrat/(de)servit local de un  Ollama server, poate fi tentant in a fi incercat.
+
+
+
 
 
 
