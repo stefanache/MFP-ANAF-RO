@@ -179,7 +179,7 @@ Un [exemplu](https://www.youtube.com/watch?v=pOBwIvpGWvU) de agent de cod(genera
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">☆☆☆</font></font></td>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ieșirea LLM nu are impact asupra fluxului programului</font></font></td>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><b>Procesor simplu</b></font></font></td>
-<td><code>process_llm_output(llm_response)</code></td>
+<td><code><b>process_llm_output(</b>llm_response<b>)</b>b></code></td>
 </tr>
 <tr>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">★☆☆</font></font></td>
