@@ -207,7 +207,7 @@ Un [exemplu](https://www.youtube.com/watch?v=pOBwIvpGWvU) de agent de cod(genera
 </tr>
 </table>
 
-Se poate lesne observa, cum un **LLM** poate juca, rand pe rand, diverse ***roluri***(in controlul formarii fluxului de executie), spre exemplu: 
+Se poate lesne observa, cum un **LLM**(mai precis iesirea/rezultatul-procesarii acestuia confera acestuia un anumit rol) poate juca, rand pe rand, diverse ***roluri***(in controlul formarii fluxului de executie), spre exemplu: 
  - un rol pasiv(*fara implicare*),
  - un rol activ de **decident**(in alegerea de instrumente) sau de **furnizor de argumente** intr-un alternator de ***rutare decizionala***
  - un rol activ de **tester**(verificator de ramanare in ciclare/bucla) intr-o ***bucla de executie***
