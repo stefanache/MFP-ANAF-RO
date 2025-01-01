@@ -208,12 +208,14 @@ Un [exemplu](https://www.youtube.com/watch?v=pOBwIvpGWvU) de agent de cod(genera
 </table>
 
 Se poate lesne observa, cum un **LLM**(mai precis iesirea/rezultatul-procesarii acestuia confera acestuia un anumit rol) poate juca, rand pe rand, diverse ***roluri/implicari***(in controlul formarii fluxului general de executie), spre exemplu: 
-       -- un rol pasiv(*fara implicare*),
-       -- un rol activ de **decident**(in alegerea de instrumente) sau de **furnizor de argumente** intr-un alternator de ***rutare decizionala***
-       -- un rol activ de **tester**(verificator de ramanere in/continuare a ciclar[e/ii]/bucl[a/ei] sau de abandonare a acesteia) intr-o ***bucla de executie***
-       -- un rol activ de **trigger** in declansarea ***executiei altui agent***
+
+       - un rol pasiv(*fara implicare*),
+       - un rol activ de **decident**(in alegerea de instrumente) sau de **furnizor de argumente** intr-un alternator de ***rutare decizionala***
+       - un rol activ de **tester**(verificator de ramanere in/continuare a ciclar[e/ii]/bucl[a/ei] sau de abandonare a acesteia) intr-o ***bucla de executie***
+       - un rol activ de **trigger** in declansarea ***executiei altui agent***
 
 Pe masura ce creste implicarea sau in ordinea cresterii gradului de implicare, a LLM-ului(desigur implicat intr-o anumita structura de cod) respectiv, avem rand pe rand, de-a aface cu o **structura de cod** de tipul unui:
+
        - simplu **Procesor**
        - **Router**
        - **Agent cu mai multi pasi/multi-pas**
