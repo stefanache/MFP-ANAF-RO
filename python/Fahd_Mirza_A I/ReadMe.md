@@ -191,7 +191,7 @@ Un [exemplu](https://www.youtube.com/watch?v=pOBwIvpGWvU) de agent de cod(genera
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">★★☆</font></font></td>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ieșirea LLM determină execuția funcției</font></font></td>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><b>Apel de instrument</b></font></font></td>
-<td><code>run_function(llm_chosen_tool, llm_chosen_args)</code></td>
+<td><code><b>run_function(</b>llm_chosen_tool, llm_chosen_args<b>)</b></code></td>
 </tr>
 <tr>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">★★★</font></font></td>
