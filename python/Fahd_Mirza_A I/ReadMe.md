@@ -222,7 +222,7 @@ Pe masura ce creste implicarea sau in ordinea cresterii gradului de implicare, a
   - **Agent cu mai multi pasi/multi-pas**
   - ori a unei *structuri de cod* de tipul unui **Multi-Agent**.
 
-O prima observatie ar fi ca uitandu-ne la această definiție, „Agentul” nu este/are o definiție discretă, 0 sau 1: ci/în schimb, „Agentul sau poate mai bine spus, din aceasta perspectiva,  Agenția” evoluează pe un spectru continuu, pe măsură ce acordați mai mult sau mai puțină putere **LLM**-ului în fluxul dvs. de lucru.
+O prima observatie ar fi ca uitandu-ne la această definiție, „Agentul” nu este/are o definiție discretă, 0 sau 1: ci/în schimb, „Agentul” sau poate mai bine spus(din aceasta perspectiva a implicarii continue), „Agenția/Implicarea”,  evoluează pe un spectru continuu, pe măsură ce acordați mai mult sau mai puțină putere **LLM**-ului în fluxul dvs. de lucru.
 
 Trebuie retinut si faptul ca aici ne refereim la suportul oferit de libraria [smolAgent](https://huggingface.co/blog/smolagents) care abstractizeaza sau simplifica scrierea agentilor de tipul  **Agentiilor de cod** adica care se refera la acei **agenti care își scriu acțiunile în cod**(a nu se confunda cu *„agenții folosiți pentru a scrie cod”*)
 
