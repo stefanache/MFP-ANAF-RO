@@ -162,8 +162,9 @@ Chiar si pentru astfel de cazuri ***pasive***, in care se urmareste(cel mult), *
 Un exemplu recent, de [model](https://huggingface.co/hexgrad/Kokoro-82M) **TTS**/**T2S**([Txt-to/2-Sound](https://www.fahdmirza.com/2024/12/install-kokoro-tts-model-locally.html)), ce poate fi rulat si local(avand un numar relativ redus de parametrii) ar fi si cazul modelului [**Kokoro**](https://www.youtube.com/watch?v=up-ZG35uuvQ)
 <hr/> 
 
-Un [exemplu](https://www.youtube.com/watch?v=pOBwIvpGWvU) de agent de cod(generator agentic de cod/script de programare de mica intindere adica pt sarcini de programare simple), care se bazeaza pe un model LLM (cum este Llama3.2), livrat/(de)servit local de un  Ollama server, poate fi tentant in a fi incercat. In ajutorul dumneavoastra vine acum o librarie([smolAgent](https://huggingface.co/blog/smolagents)) care va abstractizeaza/ususreaza acest demers(de a construi agenti de cod).
+Un [exemplu](https://www.youtube.com/watch?v=pOBwIvpGWvU) de agent de cod(generator agentic de cod/script de programare Python, de mica intindere adica pt sarcini de programare simple), care se bazeaza pe un model LLM (cum este Llama3.2), livrat/(de)servit local de un  Ollama server, poate fi tentant in a fi incercat. In ajutorul dumneavoastra vine acum o librarie([smolAgent](https://huggingface.co/blog/smolagents)) care va abstractizeaza/ususreaza acest demers(de a construi agenti de cod).
 
+***Nota:*** [Agenții](https://github.com/huggingface/smolagents) scriu cod Python pentru a apela instrumente și pentru a orchestra alți agenți.
 
 
 
