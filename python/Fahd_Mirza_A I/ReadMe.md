@@ -219,7 +219,7 @@ Pe masura ce creste implicarea sau in ordinea cresterii gradului de implicare, a
  - **Agent cu mai multi pasi/multi-pas**
  - ori a unei *structuri de cod* de tipul unui **Multi-Agent**.
 
- - trebuie retinut si faptul ca aici ne refereim la **Agentii de cod** adica la acei **agenti care își scriu acțiunile în cod**(a nu se confunda cu *„agenții folosiți pentru a scrie cod”*)
+ - trebuie retinut si faptul ca aici ne refereim la suportul oferit de libraria [smolAgent](https://huggingface.co/blog/smolagents) care abstractizeaza sau simplifica scrierea agentitil de tipul  **Agentiilor de cod** adica care se refera la acei **agenti care își scriu acțiunile în cod**(a nu se confunda cu *„agenții folosiți pentru a scrie cod”*)
 
 
 
