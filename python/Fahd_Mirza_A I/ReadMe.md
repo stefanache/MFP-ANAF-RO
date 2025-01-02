@@ -164,7 +164,8 @@ Un exemplu recent, de [model](https://huggingface.co/hexgrad/Kokoro-82M) **TTS**
 
 Un [exemplu](https://www.youtube.com/watch?v=pOBwIvpGWvU) de agent de cod(generator agentic de cod/script de programare/traducere a propriilor sale actiuni-agentice in cod-Python, de mica intindere adica pt sarcini de programare simple), care se bazeaza pe un model **LLM** (cum este Llama3.2), livrat/(de)servit local de un  Ollama server, poate fi tentant in a fi incercat. In ajutorul dumneavoastra vine acum o librarie([smolAgent](https://huggingface.co/blog/smolagents)) care va abstractizeaza/ususreaza acest demers(de a construi agenti de cod).
 
-***Nota:*** 
+<details>
+<summary><b><i>Nota</i>:</b></summary> 
 
  Un astfel de [Agenț](https://github.com/huggingface/smolagents) scrie/genereaza cod Python(testat in/la executie) pentru a apela instrumente și pentru a orchestra alți agenți.<br/>
 Cum recunoastem un astfel de Agent-de-codare? Hai sa vedem gradual cum stau lucrurile...<br/>
@@ -232,6 +233,8 @@ Pentru LLM, **programele agentice** sunt poarta de acces către lumea exterioar�
 Agenții AI sunt programe în care rezultatele LLM controlează fluxul de lucru .
 
 Orice sistem care folosește LLM-uri va integra rezultatele LLM în cod. Influența intrării LLM asupra fluxului de lucru al codului este nivelul de agenție/implicare al LLM-urilor în sistem.
+
+</details>
 
 <hr/>
 
