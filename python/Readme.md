@@ -166,7 +166,7 @@ Sa ne ocupam putn de cazul python:
  
    pip install git+https://github.com/huggingface/transformers.git
  
- - iata un exemplu simplu de utilizare pt sarcina de **Transformatore de propoziții/SentenceTransformer**:
+ - iata un exemplu simplu de utilizare pt sarcina de **Transformare de propoziții/SentenceTransformer**:
 
        from sentence_transformers import SentenceTransformer
     
