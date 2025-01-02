@@ -307,10 +307,10 @@ acesteia cautand similaritatile.
        print(query_embeddings.shape, doc_embeddings.shape)
        # torch.Size([2, 256]) torch.Size([1, 256])
 
-similarities = query_embeddings @ doc_embeddings.T
-print(similarities)
-# tensor([[0.7759],
-#         [0.3419]])
+       similarities = query_embeddings @ doc_embeddings.T
+       print(similarities)
+       # tensor([[0.7759],
+       #         [0.3419]])
 
        
 
