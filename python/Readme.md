@@ -179,6 +179,7 @@ Sa ne ocupam putin de cazul python:
        doc_embeddings = model.encode([
        "search_document: TSNE is a dimensionality reduction algorithm created by Laurens van Der Maaten",
        ])
+          
        print(query_embeddings.shape, doc_embeddings.shape)
        # (2, 768) (1, 768)
     
@@ -203,6 +204,7 @@ acesteia cautand similaritatile.
        doc_embeddings = model.encode([
            "search_document: TSNE is a dimensionality reduction algorithm created by Laurens van Der Maaten",
        ])
+          
        print(query_embeddings.shape, doc_embeddings.shape)
        # (2, 256) (1, 256)
        
