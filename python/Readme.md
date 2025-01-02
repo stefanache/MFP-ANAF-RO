@@ -160,11 +160,11 @@ Antrenat pe seturile de date slab supravegheate și supravegheate, **ModernBERT 
 
 Acest model(folosit pt sarcina de incorporare) are avantajul ca poate fi folosit ***direct*** din/cu bibliotecile **Transformers(python,js)**
 
-Sa ne ocupam putn de cazul python:
+Sa ne ocupam putin de cazul python:
 
- - instalare:
+ - instalarea bibiliotecii **Transformers** utilizand instalatorul(specific python) ***pip***:
  
-   pip install git+https://github.com/huggingface/transformers.git
+       pip install git+https://github.com/huggingface/transformers.git
  
  - iata un exemplu simplu de utilizare pt sarcina de **Transformare de propoziții/SentenceTransformer**:
 
@@ -187,7 +187,7 @@ Sa ne ocupam putn de cazul python:
            # tensor([[0.7214],
            #         [0.3260]])
 
- - utilizarea aferenta **Sentence Transformers** dar utilizind/cu ***trunchierea Matryoshka***:
+ - utilizarea aferenta **Sentence Transformers**, dar de aceasata data, utilizind/impreuna cu ***trunchierea Matryoshka***:
 
        import torch
        import torch.nn.functional as F
