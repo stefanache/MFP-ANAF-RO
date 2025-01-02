@@ -191,7 +191,7 @@ Sa ne ocupam putin de cazul python:
 ***OBS:*** Dupa ce aceasta sarcina de inglobare/incapsulare a fost efectuata(in acest caz sarcina s-a efectuat cu ciopartire/trunchiere de 768), s-a efectuat valorificrea
 acesteia cautand similaritatile.
 
- - aceiasi varianta de **SentenceTransformer**, dar de data aceasta, pt o dimensiune mai mica de 256(utilizand pt aceasta ***trunchierea Matryoshka***), ar arata astfel::
+ - aceiasi varianta de **SentenceTransformer**, dar de data aceasta, pt o dimensiune mai mica, de 256(utilizand pt aceasta ***trunchierea Matryoshka***), ar arata astfel::
 
        from sentence_transformers import SentenceTransformer
        
