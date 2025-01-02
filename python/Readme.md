@@ -152,7 +152,7 @@ Oricum [AI/ML/NLP-generative](https://www.koyeb.com/tutorials/using-langserve-to
 Sa ne concetram atentia asupra unei parti importante a unui RAG si anume partea de incorporare(partea de <b>transformare</b> a propozitiilor unui text in vectori numerici)
 In acest sens, Nomic a publicat pe Hub-ul modelellor LLM(HuggingFace), un nou [produs](https://huggingface.co/nomic-ai/modernbert-embed-base) intitulat [**ModernBERT Embed Base**](https://www.youtube.com/watch?v=HcVav0IqZlk).
 
-Dupa cum puteti vedea, acest nou **incorporator**, beneficiaza de caracteristici spcifice importante.
+Dupa cum puteti vedea, acest nou **incorporator**, beneficiaza de caracteristici specifice importante.
 
 **ModernBERT Embed Base** este un model de încorporare antrenat de **ModernBERT base** , care aduce noile progrese ale ModernBERT la încorporare!
 
