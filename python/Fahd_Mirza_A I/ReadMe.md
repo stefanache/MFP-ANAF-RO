@@ -85,7 +85,8 @@ Indiferent daca vreti sa implementati un [**RAPTOR-RAG**](https://angelina-yang.
    Cateva cuvinte despre ...
    
    <details>
-   <summary>GPU si dockerizare...</summary>      
+   <summary>GPU si dockerizare...</summary> 
+         
 In cazul in care, doriti suport <b>GPU</b> <i>Docker</i>-izat(in caz ca utilizati <b>docker-<i>run<i></b>, deci nu lucrati cu configurare in fisier .yaml ci configurati DIRECT IN LINIA DE COMANDA si desigur folositi fisier <b><i>Dockerfile</i></b>), iata aici o <a href="https://blog.roboflow.com/use-the-gpu-in-docker/">resursa de referinta</a>(<i>sper eu utila!</i>), care vorbeste despre <a href="https://medium.com/@albertqueralto/enabling-cuda-capabilities-in-docker-containers-51a3566ad014"><b>NVIDIA Container Toolkit</b></a>:
 
    [<img src="https://blog.roboflow.com/content/images/size/w1000/2020/05/image-39.png">]([https://link-to-your-URL/](https://blog.roboflow.com/use-the-gpu-in-docker/))
@@ -118,7 +119,9 @@ In cazul in care, doriti suport <b>GPU</b> <i>Docker</i>-izat(in caz ca utilizat
 
 
 Desigur, suplimentar, daca aveti de lucrat(sa spunem/luam cazul ne[*Docker*](https://hub.docker.com/r/nvidia/cuda/tags)izat), cu [***DNN***](https://developer.nvidia.com/deep-learning)([Deep Neural Network](https://medium.com/@milistu/how-to-install-cuda-cudnn-7e4a00ae4f44)), accelarand procesele via [**CUDA/GPU**](https://hub.docker.com/r/nvidia/cuda), atunci va trebui sa mai instalati si [***cuDNN***](https://developer.nvidia.com/cudnn)(in cazul [arhitecturii mele](https://forums.developer.nvidia.com/t/cuda-with-nvidia-geforce-rtx-4060/311019), descarcarea(si apoi instalarea conform instructiunilor specifice) [cuDNN](https://docs.nvidia.com/deeplearning/cudnn/latest/reference/support-matrix.html), se va efectua folosind urmatoarele filtre specifice: **Linux**, **x86_64**, **Ubuntu**, **22.04**, **deb(local)** pt **Driver for Linux 565.90** si **CUDA 12**)
+
 </details>
+
 <hr/>
 
 Probabil ca multi ati/au auzit de procesatorul de plati [**Stripe**](https://www.youtube.com/watch?v=WM-1FGwjiZQ)(un rival/concurent/coleg de breasla al **Paypall** si... al multor astfel de "platitori")
