@@ -315,4 +315,4 @@ acesteia cautand similaritatile.
        
 
        
-***OBS:*** În cazul **Transformers**, puteți trunchia înglobările la o dimensiune mai mică prin/folosind tăierea înglobărilor medii grupate, înainte de normalizare.
+***OBS:*** În cazul **Transformers**, puteți trunchia înglobările la o dimensiune mai mică prin/folosind tăierea înglobărilor(..._embeddings[:, :truncate_dim]) medii grupate, înainte de normalizare: ... = F.normalize(...)!
