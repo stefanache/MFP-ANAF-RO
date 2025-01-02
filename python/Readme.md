@@ -213,7 +213,7 @@ acesteia cautand similaritatile.
        # tensor([[0.7759],
        #         [0.3419]])
 
- - similar, in varianta **Transformers** fara trunchiere(valorificarea se mentine aceiaisi), vom avea:
+ - similar, in varianta **Transformers**, pt inceput, fara trunchiere(valorificarea mentinandu-se aceiaisi), vom avea:
 
        import torch
        import torch.nn.functional as F
