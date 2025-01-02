@@ -156,6 +156,6 @@ Dupa cum puteti vedea acest **incorporator** beneficiaza de caracteristici spcif
 
 **ModernBERT Embed** este un model de încorporare antrenat de **ModernBERT base** , care aduce noile progrese ale ModernBERT la încorporare!
 
-Antrenat pe seturile de date slab supravegheate și supravegheate, **ModernBERT Embed** , acceptă și dimensiunile ***Matryoshka Representation Learning de 256***, reducând memoria de 3x cu pierderi minime de performanță.
+Antrenat pe seturile de date slab supravegheate și supravegheate, **ModernBERT Embed** , acceptă și dimensiunile de 256 ***Matryoshka Representation Learning(trunchierea Matryoshka***, reducând memoria de 3x cu pierderi minime de performanță.
 
 
