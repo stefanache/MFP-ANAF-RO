@@ -146,3 +146,16 @@ Mai Trebuie spus insa si faptul ca aceste [produse-SW](https://github.com/gkamra
 
 
 Oricum [AI/ML/NLP-generative](https://www.koyeb.com/tutorials/using-langserve-to-build-rest-apis-for-langchain-applications)(a se vedea subiectul **RAG**) a provocat daca vreti o adevarata [AI](https://www.hpcdan.org/reeds_ruminations/information_technology/)-[revolutie](https://icml.cc/virtual/2023/events/poster) in mai toate [domeniile](https://www.blueprism.com/resources/blog/generative-ai-equity-research-langchain/) fie ele economice sau sociale.
+
+<hr/>
+
+Sa ne concetram atentia asupra unei parti importante a unui RAG si anume partea de incorporare(partea de <b>transformare</b> a propozitiilor unui text in vectori numerici)
+In acest sens Nomic a publicat pe Hub-ul modelellor LLM un nou [produs](https://huggingface.co/nomic-ai/modernbert-embed-base) intitulat [**https://www.youtube.com/watch?v=HcVav0IqZlk**](https://www.youtube.com/watch?v=HcVav0IqZlk).
+
+Dupa cum puteti vedea acest **incorporator** beneficiaza de caracteristici spcifice importante.
+
+**ModernBERT Embed** este un model de încorporare antrenat de **ModernBERT base** , care aduce noile progrese ale ModernBERT la încorporare!
+
+Antrenat pe seturile de date slab supravegheate și supravegheate, ***ModernBERT Embed** , acceptă și dimensiunile ***Matryoshka Representation Learning de 256***, reducând memoria de 3x cu pierderi minime de performanță.
+
+
