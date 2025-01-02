@@ -192,11 +192,11 @@ acesteia cautand similaritatile
 
  - utilizarea aferenta **Sentence Transformers**, dar de aceasta data, utilizind/impreuna cu ***trunchierea Matryoshka*** de dimensiune  mica(256):
 
-    import torch
-    import torch.nn.functional as F
-    from transformers import AutoTokenizer, AutoModel
-             
-             
+     import torch
+     import torch.nn.functional as F
+     from transformers import AutoTokenizer, AutoModel
+            
+         
      def mean_pooling(model_output, attention_mask):
               token_embeddings = model_output[0]
               input_mask_expanded = (
