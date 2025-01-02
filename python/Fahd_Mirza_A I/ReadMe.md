@@ -124,6 +124,9 @@ Desigur, suplimentar, daca aveti de lucrat(sa spunem/luam cazul ne[*Docker*](htt
 
 Probabil ca multi ati/au auzit de procesatorul de plati [**Stripe**](https://www.youtube.com/watch?v=WM-1FGwjiZQ)(un rival/concurent/coleg de breasla al **Paypall** si... al multor astfel de "platitori")
 
+<details>
+      <summary>Iata aici povestea, pe scurt, a <b>Agentului-AI <i>Stripe</i></b></summary>
+
 Ideea de baza este ca platitorii(cum este si platforma **Stripe**) sunt un fel de intermediar/liant(intre parti/partide) in tranzactiile de contra(vanzatorul vrea pret mare iar cumparatorul vrea pret mic)-partida **Vanzare-Cumparare**(atentie nu exista vanzare fara cumparare sau vanzator=comerciant fara cumparator... *ATENTIE/obs:** vanzatorul fara cumparator [este denumit/face o]  *oferta-d-e vanzare* iar cumparatorul fara vanzator este [denumita/face o]  *oferta-de-cumparare* !!!), intre client si banca clientului( pe de-o parte) si comerciant impreuna cu banca comerciantului(pe de alta parte).
 
 Daca va faceti [cont](https://docs.stripe.com/connect/authentication), pe aceasta platforma(**Stripe**), ca si comerciant(desigur ca puteti/oricine poate avea un asfel cont si in calitate de client), practic aveti deja posibilitatea, de a avea [propriul](https://dashboard.stripe.com/account/apikeys) magazin virtual de comert electronic/**e-commerce**(de vanzare a produsleor voastre fizice sau conceptuale).
@@ -166,6 +169,9 @@ Desigur, asa cum am mentionat anterior, ar trebui sa aveti in vedere si posibili
 Chiar si pentru astfel de cazuri ***pasive***, in care se urmareste(cel mult), **traducerea** in diverse alte ***limbi naturale***(nu artificiale, cum sunt cele tehnice/software: php, python, javascript/java ...), dar si traducerea in ***limbaje artificiale***(codificabile ca si context programabil|) sau,  daca vreti, spre exemplu, in care se urmareste **valorificarea, ca si concept**(deci pasiv, si nu activ), in sensul **rezumarii**/extragerii de "idei/concepte", ori in sensul exprimarii de "**rationamente**"(mai mult sau mai putin logice/matematice/fizice/sau rationamente de modelare in oricare alta stiinta exacta/mai putin exacta), va trebui, ca scopul final/destinatia finala, sa aiba,  o reprezentare **algoritmica**(caracteristica specifica oricarui software/**SW**) ...
 
 Un exemplu recent, de [model](https://huggingface.co/hexgrad/Kokoro-82M) **TTS**/**T2S**([Txt-to/2-Sound](https://www.fahdmirza.com/2024/12/install-kokoro-tts-model-locally.html)), ce poate fi rulat si local(avand un numar relativ redus de parametrii) ar fi si cazul modelului [**Kokoro**](https://www.youtube.com/watch?v=up-ZG35uuvQ)
+
+</details>
+
 <hr/> 
 
 Un [exemplu](https://www.youtube.com/watch?v=pOBwIvpGWvU) de agent de cod(generator agentic de cod/script de programare/traducere a propriilor sale actiuni-agentice in cod-Python, de mica intindere adica pt sarcini de programare simple), care se bazeaza pe un model **LLM** (cum este Llama3.2), livrat/(de)servit local de un  Ollama server, poate fi tentant in a fi incercat. In ajutorul dumneavoastra vine acum o librarie([smolAgent](https://huggingface.co/blog/smolagents)) care va abstractizeaza/ususreaza acest demers(de a construi agenti de cod).
