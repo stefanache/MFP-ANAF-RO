@@ -158,4 +158,6 @@ Dupa cum puteti vedea acest **incorporator** beneficiaza de caracteristici spcif
 
 Antrenat pe seturile de date slab supravegheate și supravegheate, **ModernBERT Embed** , acceptă și dimensiunile de 256 ***Matryoshka Representation Learning(trunchierea Matryoshka***, reducând memoria de 3x cu pierderi minime de performanță.
 
+Acest model(folosit pt sarcina de incorporare) are avantajul ca poate fi folosit ***direct*** din/cu bibliotecile **Transformers(python,js)**
+
 
