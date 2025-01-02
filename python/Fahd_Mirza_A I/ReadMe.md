@@ -45,7 +45,7 @@ Tot in zona [media](https://www.youtube.com/@fahdmirza) puteti consulta si acest
 Daca doriti sa testati un [**RAG multimodal(imagini si text)**](https://www.linkedin.com/in/fahdmirza/recent-activity/all/) atunci puteti consulta periodic activitatea pe [***Linkedin***](https://www.llamaindex.ai/blog/multimodal-rag-in-llamacloud) a d-lui [**Fahd Mirza**](https://www.youtube.com/watch?v=96p0-3dZTOs)(trebuie sa aveti cont pe [**LLamaCloud**](https://cloud.llamaindex.ai/login):)
 
 <hr/>
-Daca sunteti interesat de aceasta atractiva interfata Vocala|Speech in task-urile dumneavoastra AI, puteti sa deschideti mai jos si sa cititi povestea...
+Daca sunteti interesat de aceasta atractiva interfata Vocala|Speech in task-urile dumneavoastra AI, puteti sa cititi, mai jos, povestea...
 
 <details>
       <summary>modelelor ASR...</summary>
