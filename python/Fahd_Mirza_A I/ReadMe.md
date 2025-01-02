@@ -45,8 +45,12 @@ Tot in zona [media](https://www.youtube.com/@fahdmirza) puteti consulta si acest
 Daca doriti sa testati un [**RAG multimodal(imagini si text)**](https://www.linkedin.com/in/fahdmirza/recent-activity/all/) atunci puteti consulta periodic activitatea pe [***Linkedin***](https://www.llamaindex.ai/blog/multimodal-rag-in-llamacloud) a d-lui [**Fahd Mirza**](https://www.youtube.com/watch?v=96p0-3dZTOs)(trebuie sa aveti cont pe [**LLamaCloud**](https://cloud.llamaindex.ai/login):)
 
 <hr/>
+Daca sunteti interesat de aceasta atractiva interfata Vocala|Speech in task-urile dumneavoastra AI, puteti sa deschideti mai jos si sa cititi povestea...
 
-Foarte interesant este si acest [model ASR | S2T](https://github.com/usefulsensors/moonshine?tab=readme-ov-file)(model de transcriere: Voice|Speech2Txt), rulabil local(nu necesita Ollama) pe CPU(nu necesita GPU) denumit [**Moonshine**](https://www.youtube.com/watch?v=xciiB9vmImY&t=101s).<br/>
+<details>
+      <summary>modelelor ASR...</summary>
+      
+<br/><br/>Foarte interesant este si acest [model ASR | S2T](https://github.com/usefulsensors/moonshine?tab=readme-ov-file)(model de transcriere: Voice|Speech2Txt), rulabil local(nu necesita Ollama) pe CPU(nu necesita GPU) denumit [**Moonshine**](https://www.youtube.com/watch?v=xciiB9vmImY&t=101s).<br/>
 Daca intentionati sa instalati pachetul python ***useful-moonshine-onnx***(ca mai apoi sa puteti sa rulati modelul **Moonshine** din python) pe [CPU-uri/dispozitive mici/portabile](https://github.com/usefulsensors/moonshine?tab=readme-ov-file#2b-install-the-useful-moonshine-onnx-package-to-use-moonshine-with-onnx)(de ex pe [**SBC**-ul **Raspberry Pi**](https://github.com/usefulsensors/moonshine?tab=readme-ov-file); SBC=este un mic computer pe o singura placa) atunci va trebui sa utilizati **ONXX-Runtime**.<br/> Daca insa, utilizati un [CPU normal/obisnuit](https://github.com/usefulsensors/moonshine?tab=readme-ov-file)(laptop ori desktop-PC), atunci va trebui sa instalati pachetul python ***useful-moonshine***(ca mai apoi sa puteti sa rulati modelul **Moonshine** din python), scris in(deci bazat pe sau dependent de) frontend-ul [**Keras**](https://github.com/usefulsensors/moonshine?tab=readme-ov-file#2a-install-the-useful-moonshine-package-to-use-moonshine-with-torch-tensorflow-or-jax), care la randul sau, poate avea ca backend, una dintre cele 3 optiuni posibile: [**Torch**](https://github.com/usefulsensors/moonshine?tab=readme-ov-file#2a-install-the-useful-moonshine-package-to-use-moonshine-with-torch-tensorflow-or-jax), [**TensorFlow**](https://github.com/usefulsensors/moonshine?tab=readme-ov-file#2a-install-the-useful-moonshine-package-to-use-moonshine-with-torch-tensorflow-or-jax), ori [**JAX**](https://github.com/usefulsensors/moonshine?tab=readme-ov-file#2a-install-the-useful-moonshine-package-to-use-moonshine-with-torch-tensorflow-or-jax)(in cazul in care, ca backend, utilizati **JAX**-ul, aveti posibilitatea de a utiliza **GPU** via [**CUDA**](https://hub.docker.com/r/nvidia/cuda), in loc de **CPU**).<br/> 
 Indiferent ca instalati si utilizati pachetul ***useful-moonshine-onnx*** ori pachetul ***useful-moonshine***, mai intai de toate, va trebui/puteti sa utilizati un manager/gestionar de environment/mediu, cum este [**uv**](https://docs.astral.sh/uv/pip/environments/), pentru a crea si activa mediul specific ce va gazdui acest proiect.<br/>
 Dupa activarea mediului de lucru, veti descarca din/[clona](https://github.com/usefulsensors/moonshine?tab=readme-ov-file#2a-install-the-useful-moonshine-package-to-use-moonshine-with-torch-tensorflow-or-jax) depozitul-Github aferent, cu ajutorul utilitarului [**uv**](https://docs.astral.sh/uv/pip/environments/), dupa caz, pachetul ***useful-moonshine-onnx*** ori pachetul ***useful-moonshine***.<br/>
@@ -63,6 +67,8 @@ Codul va produce urmatorul text-rezultat:
              ['Ever tried ever failed, no matter try again, fail again, fail better.']
 
 Desigur acesta este un exemplu de inceput(daca vreti ... un exemplu de testare a respectivului pachet) dar dumneavoastra puteti experimenta si alte [exemple](https://github.com/usefulsensors/moonshine?tab=readme-ov-file#examples)(un [exemplu](https://github.com/usefulsensors/moonshine/tree/main/demo) in acest sens, este si cel al utilizarii modelului **Moonshine** din/impreuna cu binecunoscuta librarie, a celor de la ***HuggingFace***, [**Transformers**](https://github.com/usefulsensors/moonshine?tab=readme-ov-file#huggingface-transformers)).<br/> 
+
+</details>
 
 <hr/>
 
