@@ -188,7 +188,29 @@ Sa ne ocupam putin de cazul python:
        #         [0.3260]])
 
 ***OBS:*** Dupa ce aceasta sarcina de inglobare/incapsulare a fost efectuata(in acest caz sarcina s-a efectuat cu ciopartire/trunchiere de 768), s-a efectuat valorificrea
-acesteia cautand similaritatile
+acesteia cautand similaritatile.
+
+ - aceiasi varianta de **SentenceTransformer**, dar de data aceasta, pt o dimensiune mai mica de 256, ar arata astfel::
+
+       from sentence_transformers import SentenceTransformer
+       
+       model = SentenceTransformer("nomic-ai/modernbert-embed-base", truncate_dim=256)
+       
+       query_embeddings = model.encode([
+           "search_query: What is TSNE?",
+           "search_query: Who is Laurens van der Maaten?",
+       ])
+       doc_embeddings = model.encode([
+           "search_document: TSNE is a dimensionality reduction algorithm created by Laurens van Der Maaten",
+       ])
+       print(query_embeddings.shape, doc_embeddings.shape)
+       # (2, 256) (1, 256)
+       
+       similarities = model.similarity(query_embeddings, doc_embeddings)
+       print(similarities)
+       # tensor([[0.7759],
+       #         [0.3419]])
+
 
  - utilizarea aferenta **Sentence Transformers**, dar de aceasta data, utilizind/impreuna cu ***trunchierea Matryoshka*** de dimensiune  mica(256):
 
