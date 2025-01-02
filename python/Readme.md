@@ -182,10 +182,10 @@ Sa ne ocupam putin de cazul python:
        print(query_embeddings.shape, doc_embeddings.shape)
        # (2, 768) (1, 768)
     
-           similarities = model.similarity(query_embeddings, doc_embeddings)
-           print(similarities)
-           # tensor([[0.7214],
-           #         [0.3260]])
+       similarities = model.similarity(query_embeddings, doc_embeddings)
+       print(similarities)
+       # tensor([[0.7214],
+       #         [0.3260]])
 
 ***OBS:*** Dupa ce aceasta sarcina de inglobare/incapsulare a fost efectuata(in acest caz sarcina s-a efectuat cu ciopartire/trunchiere de 768), s-a efectuat valorificrea
 acesteia cautand similaritatile
