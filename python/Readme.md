@@ -166,7 +166,7 @@ Sa ne ocupam putin de cazul python:
  
        pip install git+https://github.com/huggingface/transformers.git
  
- - iata un exemplu simplu de utilizare pt sarcina de **Transformare de propoziții/SentenceTransformer**:
+ - iata un exemplu simplu de utilizare pt sarcina de **Transformare de propoziții/SentenceTransformer** de dimensiune mare(768):
 
        from sentence_transformers import SentenceTransformer
     
@@ -187,7 +187,7 @@ Sa ne ocupam putin de cazul python:
            # tensor([[0.7214],
            #         [0.3260]])
 
- - utilizarea aferenta **Sentence Transformers**, dar de aceasata data, utilizind/impreuna cu ***trunchierea Matryoshka***:
+ - utilizarea aferenta **Sentence Transformers**, dar de aceasata data, utilizind/impreuna cu ***trunchierea Matryoshka*** de dimensiune  mica(:
 
        import torch
        import torch.nn.functional as F
