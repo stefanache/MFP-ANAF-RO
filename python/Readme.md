@@ -192,12 +192,11 @@ acesteia cautand similaritatile
 
  - utilizarea aferenta **Sentence Transformers**, dar de aceasta data, utilizind/impreuna cu ***trunchierea Matryoshka*** de dimensiune  mica(256):
 
-     import torch
-     import torch.nn.functional as F
-     from transformers import AutoTokenizer, AutoModel
-            
-         
-     def mean_pooling(model_output, attention_mask):
+       import torch
+       import torch.nn.functional as F
+       from transformers import AutoTokenizer, AutoModel
+               
+       def mean_pooling(model_output, attention_mask):
               token_embeddings = model_output[0]
               input_mask_expanded = (
                   attention_mask.unsqueeze(-1).expand(token_embeddings.size()).float()
@@ -236,7 +235,7 @@ acesteia cautand similaritatile
        similarities = query_embeddings @ doc_embeddings.T
        print(similarities)
        # tensor([[0.7759],
-         #         [0.3419]])
+       #         [0.3419]])
        
 
        
