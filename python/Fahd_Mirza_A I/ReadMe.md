@@ -83,7 +83,7 @@ Indiferent daca vreti sa implementati un [**RAPTOR-RAG**](https://angelina-yang.
  - instalarea(*[ne](https://blog.roboflow.com/use-the-gpu-in-docker/)-[Docker](https://docs.docker.com/compose/how-tos/gpu-support/)-izata* si *fara suport [GPU](https://docs.docker.com/compose/how-tos/gpu-support/)*) diverselor **baze de date**(***MySQL***, ***MariaDB***, ***PostgreSQL***, ...) poate fi o adevarata provocare pe **Ubuntu-WSL**, asa incat acest [***website***](https://kontext.tech/article/1031/install-mariadb-server-on-wsl)(vedeti link-urile de legatura in partea de *jos* a paginii!) va poate veni in ajutor.
  
 <details>
-   <summary>Cateva consideratii despre/relativ la ...<b>GPU</b> si <b>Docker</b>-izare:</summary> 
+   <summary>Cateva consideratii despre/relativ la ...<b>GPU</b> si <b>Docker</b>-izare:...</summary> 
          
 <br/><br/>In cazul in care, doriti suport <b>GPU</b> <i>Docker</i>-izat(in caz ca utilizati <b>docker-<i>run<i></b>, deci nu lucrati cu configurare in fisier .yaml ci configurati DIRECT IN LINIA DE COMANDA si desigur folositi fisier <b><i>Dockerfile</i></b>), iata aici o <a href="https://blog.roboflow.com/use-the-gpu-in-docker/">resursa de referinta</a>(<i>sper eu utila!</i>), care vorbeste despre <a href="https://medium.com/@albertqueralto/enabling-cuda-capabilities-in-docker-containers-51a3566ad014"><b>NVIDIA Container Toolkit</b></a>:
 
@@ -171,7 +171,7 @@ Un exemplu recent, de [model](https://huggingface.co/hexgrad/Kokoro-82M) **TTS**
 Un [exemplu](https://www.youtube.com/watch?v=pOBwIvpGWvU) de agent de cod(generator agentic de cod/script de programare/traducere a propriilor sale actiuni-agentice in cod-Python, de mica intindere adica pt sarcini de programare simple), care se bazeaza pe un model **LLM** (cum este Llama3.2), livrat/(de)servit local de un  Ollama server, poate fi tentant in a fi incercat. In ajutorul dumneavoastra vine acum o librarie([smolAgent](https://huggingface.co/blog/smolagents)) care va abstractizeaza/ususreaza acest demers(de a construi agenti de cod).
 
 <details>
-<summary><b><i>Nota</i>:</b></summary> 
+<summary><b><i>Nota</i>:</b>...</summary> 
 
  Un astfel de [Agenț](https://github.com/huggingface/smolagents) scrie/genereaza cod Python(testat in/la executie) pentru a apela instrumente și pentru a orchestra alți agenți.<br/>
 Cum recunoastem un astfel de Agent-de-codare? Hai sa vedem gradual cum stau lucrurile...<br/>
