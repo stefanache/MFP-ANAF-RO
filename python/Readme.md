@@ -231,3 +231,4 @@ Sa ne ocupam putn de cazul python:
        
 
        
+***OBS:*** În **Transformers**, puteți trunchia înglobările la o dimensiune mai mică prin/folosind tăierea înglobărilor medii grupate, înainte de normalizare.
