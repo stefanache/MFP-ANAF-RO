@@ -189,43 +189,45 @@ Sa ne ocupam putn de cazul python:
 
  - utilizarea aferenta **Sentence Transformers** dar utilizind/cu ***trunchierea Matryoshka***:
 
-      import torch
-      import torch.nn.functional as F
-      from transformers import AutoTokenizer, AutoModel
-      
-      
-      def mean_pooling(model_output, attention_mask):
-          token_embeddings = model_output[0]
-          input_mask_expanded = (
-              attention_mask.unsqueeze(-1).expand(token_embeddings.size()).float()
-          )
-          return torch.sum(token_embeddings * input_mask_expanded, 1) / torch.clamp(
-              input_mask_expanded.sum(1), min=1e-9
-          )
-      
-      
-      queries = ["search_query: What is TSNE?", "search_query: Who is Laurens van der Maaten?"]
-      documents = ["search_document: TSNE is a dimensionality reduction algorithm created by Laurens van Der Maaten"]
-      
-      tokenizer = AutoTokenizer.from_pretrained("nomic-ai/modernbert-embed-base")
-      model = AutoModel.from_pretrained("nomic-ai/modernbert-embed-base")
-      
-      encoded_queries = tokenizer(queries, padding=True, truncation=True, return_tensors="pt")
-      encoded_documents = tokenizer(documents, padding=True, truncation=True, return_tensors="pt")
-      
-      with torch.no_grad():
-          queries_outputs = model(**encoded_queries)
-          documents_outputs = model(**encoded_documents)
-      
-      query_embeddings = mean_pooling(queries_outputs, encoded_queries["attention_mask"])
-      query_embeddings = F.normalize(query_embeddings, p=2, dim=1)
-      doc_embeddings = mean_pooling(documents_outputs, encoded_documents["attention_mask"])
-      doc_embeddings = F.normalize(doc_embeddings, p=2, dim=1)
-      print(query_embeddings.shape, doc_embeddings.shape)
-      # torch.Size([2, 768]) torch.Size([1, 768])
-      
-      similarities = query_embeddings @ doc_embeddings.T
-      print(similarities)
-      # tensor([[0.7214],
-      #         [0.3260]])
+       import torch
+       import torch.nn.functional as F
+       from transformers import AutoTokenizer, AutoModel
+             
+             
+        def mean_pooling(model_output, attention_mask):
+                 token_embeddings = model_output[0]
+                 input_mask_expanded = (
+                     attention_mask.unsqueeze(-1).expand(token_embeddings.size()).float()
+                 )
+                 return torch.sum(token_embeddings * input_mask_expanded, 1) / torch.clamp(
+                     input_mask_expanded.sum(1), min=1e-9
+                 )
+             
+             
+             queries = ["search_query: What is TSNE?", "search_query: Who is Laurens van der Maaten?"]
+             documents = ["search_document: TSNE is a dimensionality reduction algorithm created by Laurens van Der Maaten"]
+             
+             tokenizer = AutoTokenizer.from_pretrained("nomic-ai/modernbert-embed-base")
+             model = AutoModel.from_pretrained("nomic-ai/modernbert-embed-base")
+             
+             encoded_queries = tokenizer(queries, padding=True, truncation=True, return_tensors="pt")
+             encoded_documents = tokenizer(documents, padding=True, truncation=True, return_tensors="pt")
+             
+             with torch.no_grad():
+                 queries_outputs = model(**encoded_queries)
+                 documents_outputs = model(**encoded_documents)
+             
+             query_embeddings = mean_pooling(queries_outputs, encoded_queries["attention_mask"])
+             query_embeddings = F.normalize(query_embeddings, p=2, dim=1)
+             doc_embeddings = mean_pooling(documents_outputs, encoded_documents["attention_mask"])
+             doc_embeddings = F.normalize(doc_embeddings, p=2, dim=1)
+             print(query_embeddings.shape, doc_embeddings.shape)
+             # torch.Size([2, 768]) torch.Size([1, 768])
+             
+             similarities = query_embeddings @ doc_embeddings.T
+             print(similarities)
+             # tensor([[0.7214],
+             #         [0.3260]])
+       
 
+       
