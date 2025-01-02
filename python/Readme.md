@@ -187,6 +187,9 @@ Sa ne ocupam putin de cazul python:
            # tensor([[0.7214],
            #         [0.3260]])
 
+***OBS:*** Dupa ce aceasta sarcina de inglobare/incapsulare a fost efectuata(in acest caz sarcina s-a efectuat cu ciopartire/trunchiere de 768), s-a efectuat valorificrea
+acesteia cautand similaritatile
+
  - utilizarea aferenta **Sentence Transformers**, dar de aceasata data, utilizind/impreuna cu ***trunchierea Matryoshka*** de dimensiune  mica(256):
 
        import torch
