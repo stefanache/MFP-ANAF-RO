@@ -187,7 +187,7 @@ Sa ne ocupam putin de cazul python:
            # tensor([[0.7214],
            #         [0.3260]])
 
- - utilizarea aferenta **Sentence Transformers**, dar de aceasata data, utilizind/impreuna cu ***trunchierea Matryoshka*** de dimensiune  mica(:
+ - utilizarea aferenta **Sentence Transformers**, dar de aceasata data, utilizind/impreuna cu ***trunchierea Matryoshka*** de dimensiune  mica(256):
 
        import torch
        import torch.nn.functional as F
@@ -209,6 +209,7 @@ Sa ne ocupam putin de cazul python:
          
          tokenizer = AutoTokenizer.from_pretrained("nomic-ai/modernbert-embed-base")
          model = AutoModel.from_pretrained("nomic-ai/modernbert-embed-base")
+         truncate_dim = 256
          
          encoded_queries = tokenizer(queries, padding=True, truncation=True, return_tensors="pt")
          encoded_documents = tokenizer(documents, padding=True, truncation=True, return_tensors="pt")
@@ -222,12 +223,12 @@ Sa ne ocupam putin de cazul python:
          doc_embeddings = mean_pooling(documents_outputs, encoded_documents["attention_mask"])
          doc_embeddings = F.normalize(doc_embeddings, p=2, dim=1)
          print(query_embeddings.shape, doc_embeddings.shape)
-         # torch.Size([2, 768]) torch.Size([1, 768])
+         # torch.Size([2, 256]) torch.Size([1, 256])
          
          similarities = query_embeddings @ doc_embeddings.T
          print(similarities)
-         # tensor([[0.7214],
-         #         [0.3260]])
+         # tensor([[0.7759],
+         #         [0.3419]])
        
 
        
