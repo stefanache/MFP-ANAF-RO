@@ -170,22 +170,22 @@ Sa ne ocupam putn de cazul python:
 
        from sentence_transformers import SentenceTransformer
     
-    model = SentenceTransformer("nomic-ai/modernbert-embed-base")
+       model = SentenceTransformer("nomic-ai/modernbert-embed-base")
     
-    query_embeddings = model.encode([
-        "search_query: What is TSNE?",
-        "search_query: Who is Laurens van der Maaten?",
-    ])
-    doc_embeddings = model.encode([
-        "search_document: TSNE is a dimensionality reduction algorithm created by Laurens van Der Maaten",
-    ])
-    print(query_embeddings.shape, doc_embeddings.shape)
-    # (2, 768) (1, 768)
+       query_embeddings = model.encode([
+               "search_query: What is TSNE?",
+               "search_query: Who is Laurens van der Maaten?",
+           ])
+       doc_embeddings = model.encode([
+       "search_document: TSNE is a dimensionality reduction algorithm created by Laurens van Der Maaten",
+       ])
+       print(query_embeddings.shape, doc_embeddings.shape)
+       # (2, 768) (1, 768)
     
-    similarities = model.similarity(query_embeddings, doc_embeddings)
-    print(similarities)
-    # tensor([[0.7214],
-    #         [0.3260]])
+           similarities = model.similarity(query_embeddings, doc_embeddings)
+           print(similarities)
+           # tensor([[0.7214],
+           #         [0.3260]])
 
  - utilizarea aferenta **Sentence Transformers** dar utilizind/cu ***trunchierea Matryoshka***:
 
