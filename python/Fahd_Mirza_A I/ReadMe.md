@@ -82,7 +82,8 @@ Indiferent daca vreti sa implementati un [**RAPTOR-RAG**](https://angelina-yang.
  - puteti vedea, in acest [articol](https://docs.docker.com/desktop/features/gpu/), cum puteti seta **GPU-PV**-ul(pt a fi utilizat, spre exemplu, de catre **LLM**-serverul **Ollama**) atunci cand folositi [**docker-*run***](https://stackoverflow.com/questions/70761192/docker-compose-equivalent-of-docker-run-gpu-all-option) sau [**docker-desktop**](https://docs.docker.com/desktop/)(care include **docker-compose**) instalat pe [***Ubuntu-WSL2***.](https://www.windowscentral.com/how-completely-remove-linux-distro-wsl)/[**windows 10 sau 11**](https://askubuntu.com/questions/1523831/gpu-not-working-with-wsl-2-running-ubuntu-22-04)
  - instalarea(*[ne](https://blog.roboflow.com/use-the-gpu-in-docker/)-[Docker](https://docs.docker.com/compose/how-tos/gpu-support/)-izata* si *fara suport [GPU](https://docs.docker.com/compose/how-tos/gpu-support/)*) diverselor **baze de date**(***MySQL***, ***MariaDB***, ***PostgreSQL***, ...) poate fi o adevarata provocare pe **Ubuntu-WSL**, asa incat acest [***website***](https://kontext.tech/article/1031/install-mariadb-server-on-wsl)(vedeti link-urile de legatura in partea de *jos* a paginii!) va poate veni in ajutor.
 
- - <details>
+ -
+   <details>
    <summary>Cateva cuvinte despre GPU si dockerizare...</summary>      
 In cazul in care, doriti suport <b>GPU</b> <i>Docker</i>-izat(in caz ca utilizati <b>docker-<i>run<i></b>, deci nu lucrati cu configurare in fisier .yaml ci configurati DIRECT IN LINIA DE COMANDA si desigur folositi fisier <b><i>Dockerfile</i></b>), iata aici o <a href="https://blog.roboflow.com/use-the-gpu-in-docker/">resursa de referinta</a>(<i>sper eu utila!</i>), care vorbeste despre <a href="https://medium.com/@albertqueralto/enabling-cuda-capabilities-in-docker-containers-51a3566ad014"><b>NVIDIA Container Toolkit</b></a>:
 
