@@ -315,4 +315,4 @@ acesteia cautand similaritatile.
        
 
        
-***OBS:*** În **Transformers**, puteți trunchia înglobările la o dimensiune mai mică prin/folosind tăierea înglobărilor medii grupate, înainte de normalizare.
+***OBS:*** În cazul **Transformers**, puteți trunchia înglobările la o dimensiune mai mică prin/folosind tăierea înglobărilor medii grupate, înainte de normalizare.
