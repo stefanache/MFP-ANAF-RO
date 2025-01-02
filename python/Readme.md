@@ -228,8 +228,13 @@ acesteia cautand similaritatile.
            )
        
        
-       queries = ["search_query: What is TSNE?", "search_query: Who is Laurens van der Maaten?"]
-       documents = ["search_document: TSNE is a dimensionality reduction algorithm created by Laurens van Der Maaten"]
+       query_embeddings = model.encode([
+               "search_query: What is TSNE?",
+               "search_query: Who is Laurens van der Maaten?",
+           ])
+       doc_embeddings = model.encode([
+       "search_document: TSNE is a dimensionality reduction algorithm created by Laurens van Der Maaten",
+       ])
        
        tokenizer = AutoTokenizer.from_pretrained("nomic-ai/modernbert-embed-base")
        model = AutoModel.from_pretrained("nomic-ai/modernbert-embed-base")
