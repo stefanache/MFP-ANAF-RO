@@ -166,7 +166,7 @@ Sa ne ocupam putin de cazul python:
  
        pip install git+https://github.com/huggingface/transformers.git
  
- - iata un exemplu simplu de utilizare pt sarcina de **Transformare de propoziții/SentenceTransformer** de dimensiune mare(768):
+ - iata un [exemplu](https://huggingface.co/nomic-ai/modernbert-embed-base) simplu de utilizare pt sarcina de **Transformare de propoziții/SentenceTransformer** de dimensiune mare(768):
 
        from sentence_transformers import SentenceTransformer
     
