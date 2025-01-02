@@ -190,7 +190,7 @@ Sa ne ocupam putin de cazul python:
 ***OBS:*** Dupa ce aceasta sarcina de inglobare/incapsulare a fost efectuata(in acest caz sarcina s-a efectuat cu ciopartire/trunchiere de 768), s-a efectuat valorificrea
 acesteia cautand similaritatile.
 
- - aceiasi varianta de **SentenceTransformer**, dar de data aceasta, pt o dimensiune mai mica de 256, ar arata astfel::
+ - aceiasi varianta de **SentenceTransformer**, dar de data aceasta, pt o dimensiune mai mica de 256(utilizand pt aceasta ***trunchierea Matryoshka***), ar arata astfel::
 
        from sentence_transformers import SentenceTransformer
        
@@ -212,7 +212,7 @@ acesteia cautand similaritatile.
        #         [0.3419]])
 
 
- - utilizarea aferenta **Sentence Transformers**, dar de aceasta data, utilizind/impreuna cu ***trunchierea Matryoshka*** de dimensiune  mica(256):
+ - utilizarea aferenta **Sentence Transformers**, dar de aceasta data, utilizind / impreuna cu ***trunchierea Matryoshka***, de dimensiune  mica(256):
 
        import torch
        import torch.nn.functional as F
