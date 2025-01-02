@@ -150,13 +150,13 @@ Oricum [AI/ML/NLP-generative](https://www.koyeb.com/tutorials/using-langserve-to
 <hr/>
 
 Sa ne concetram atentia asupra unei parti importante a unui RAG si anume partea de incorporare(partea de <b>transformare</b> a propozitiilor unui text in vectori numerici)
-In acest sens Nomic a publicat pe Hub-ul modelellor LLM un nou [produs](https://huggingface.co/nomic-ai/modernbert-embed-base) intitulat [**https://www.youtube.com/watch?v=HcVav0IqZlk**](https://www.youtube.com/watch?v=HcVav0IqZlk).
+In acest sens, Nomic a publicat pe Hub-ul modelellor LLM(HuggingFace), un nou [produs](https://huggingface.co/nomic-ai/modernbert-embed-base) intitulat [**ModernBERT Embed Base**](https://www.youtube.com/watch?v=HcVav0IqZlk).
 
-Dupa cum puteti vedea acest **incorporator** beneficiaza de caracteristici spcifice importante.
+Dupa cum puteti vedea, acest nou **incorporator**, beneficiaza de caracteristici spcifice importante.
 
-**ModernBERT Embed** este un model de încorporare antrenat de **ModernBERT base** , care aduce noile progrese ale ModernBERT la încorporare!
+**ModernBERT Embed Base** este un model de încorporare antrenat de **ModernBERT base** , care aduce noile progrese ale ModernBERT la încorporare!
 
-Antrenat pe seturile de date slab supravegheate și supravegheate, **ModernBERT Embed** , acceptă și dimensiunile de 256 ***Matryoshka Representation Learning(trunchierea Matryoshka***, reducând memoria de 3x cu pierderi minime de performanță.
+Antrenat pe seturile de date slab supravegheate și supravegheate, **ModernBERT Embed Base** , acceptă și dimensiunile de 256 ***Matryoshka Representation Learning(trunchierea Matryoshka***, reducând memoria de 3x cu pierderi minime de performanță.
 
 Acest model(folosit pt sarcina de incorporare) are avantajul ca poate fi folosit ***direct*** din/cu bibliotecile **Transformers(python,js)**
 
