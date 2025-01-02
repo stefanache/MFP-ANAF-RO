@@ -237,8 +237,8 @@ Orice sistem care folosește LLM-uri va integra rezultatele LLM în cod. Influen
 
 Acum, sa ne concetram/focusam atentia asupra unei parti importante a unui RAG si anume partea de incorporare(partea de <b>transformare</b> a propozitiilor unui text in vectori numerici)
 In acest sens, Nomic a publicat pe Hub-ul modelellor LLM(HuggingFace), un nou [produs](https://huggingface.co/nomic-ai/modernbert-embed-base) intitulat [**ModernBERT Embed Base**](https://www.youtube.com/watch?v=HcVav0IqZlk).
-
-Dupa cum puteti vedea, acest nou **incorporator**, beneficiaza de caracteristici specifice importante.
+<details>
+<summary>Dupa cum puteti vedea, acest nou **incorporator**, beneficiaza de caracteristici specifice importante.</summary>
 
 **ModernBERT Embed Base** este un model de încorporare antrenat de **ModernBERT base** , care aduce noile progrese ale ModernBERT la încorporare!
 
@@ -402,6 +402,7 @@ acesteia cautand similaritatile.
 
        
 ***OBS:*** În cazul **Transformers**, puteți trunchia înglobările la o dimensiune mai mică prin/folosind tăierea înglobărilor(..._embeddings[:, :truncate_dim]) medii grupate, înainte de normalizare: ... = F.normalize(..._embeddings, p=2, dim=1)!
+</details>
 
 
 
