@@ -26,7 +26,10 @@ Pentru cei care doresc sa genereze cod(**code generative-AI**), folosind modele 
  sau  [***Qwen 2.5 Coder 32B***](https://www.youtube.com/watch?v=KYvVl0UT1Sk&ab_channel=PromptEngineering)
 
  <hr/>
- 
+
+ <details>
+       <summary>Hai sa vedem si alte proiecte AI promovate de dl Fahd Mirza</summary>
+<br/><br/>
 [Orizontul](https://www.marktechpost.com/2024/11/14/microsoft-released-llm2clip-a-new-ai-technique-in-which-a-llm-acts-as-a-teacher-for-clips-visual-encoder/) [cunoasterii](https://www.microsoft.com/en-us/research/project/llm2clip/) in domeniul [generative-AI](https://www.youtube.com/watch?v=mJ-wt79u0Ls), poate fi [largit](https://github.com/microsoft/LLM2CLIP) si prin studierea unor [lucrari](https://microsoft.github.io/LLM2CLIP/) precum cea intitulata  [LLM2CLIP](https://microsoft.github.io/LLM2CLIP/).
 
 <hr/>
@@ -430,6 +433,8 @@ acesteia cautand similaritatile.
        
 ***OBS:*** În cazul **Transformers**, puteți trunchia înglobările la o dimensiune mai mică prin/folosind tăierea înglobărilor(..._embeddings[:, :truncate_dim]) medii grupate, înainte de normalizare: ... = F.normalize(..._embeddings, p=2, dim=1)!
 </details>
+<hr/>
+ </details>
 
 
 
