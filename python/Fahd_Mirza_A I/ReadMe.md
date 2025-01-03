@@ -28,7 +28,7 @@ Pentru cei care doresc sa genereze cod(**code generative-AI**), folosind modele 
  <hr/>
 
  <details>
-       <summary>Hai sa vedem si alte proiecte AI promovate de dl Fahd Mirza</summary>
+       <summary>Hai sa vedem si alte proiecte AI promovate de dl <a href="https://www.linkedin.com/in/fahdmirza/recent-activity/all/">Fahd Mirza</a></summary>
        
 <br/><br/><hr/>
 
