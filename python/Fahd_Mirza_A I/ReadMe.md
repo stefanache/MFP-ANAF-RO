@@ -140,8 +140,10 @@ Desigur, suplimentar, daca aveti de lucrat(sa spunem/luam cazul ne[*Docker*](htt
 
 <hr/>
 
-<details>
-<summary>Si acumm cateva lucruri despre <b>agentii-AI</b>...</summary>
+<details>      
+<summary>Si acum... cateva lucruri despre <b>agentii-AI</b>...</summary>
+
+      <br/>
       
 Probabil ca multi ati/au auzit de procesatorul de plati [**Stripe**](https://www.youtube.com/watch?v=WM-1FGwjiZQ)(un rival/concurent/coleg de breasla al **Paypall** si... al multor astfel de "platitori")
 
