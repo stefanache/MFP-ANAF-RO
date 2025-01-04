@@ -140,6 +140,9 @@ Desigur, suplimentar, daca aveti de lucrat(sa spunem/luam cazul ne[*Docker*](htt
 
 <hr/>
 
+<details>
+<summary>Si acumm cateva lucruri despre <b>agentii-AI</b>...</summary>
+      
 Probabil ca multi ati/au auzit de procesatorul de plati [**Stripe**](https://www.youtube.com/watch?v=WM-1FGwjiZQ)(un rival/concurent/coleg de breasla al **Paypall** si... al multor astfel de "platitori")
 
 <details>
@@ -275,6 +278,10 @@ Un alt [proiect](https://www.youtube.com/watch?v=-0Y5oepu0Pc) interesant legat d
 Tot legat de [***agenti-AI***](https://www.youtube.com/watch?v=ffL-bJsW5Xk) este si proiectul [**Griptape**](https://github.com/griptape-ai/griptape).<br/>
 [**Griptape**](https://github.com/griptape-ai/griptape) este un cadru Python modular pentru construirea de aplicații bazate pe inteligență artificială(AI) care se conectează în siguranță la datele și API-urile companiei tale. Oferă dezvoltatorilor capacitatea de a menține controlul și flexibilitatea la fiecare pas(consultați [Griptape Docs](https://docs.griptape.ai/), precum si cursuri online gratuite, intitulate [Griptape Trade School](https://learn.griptape.ai/)!).<br/>
 [**Griptape**](https://github.com/griptape-ai/griptape) este un cadru Python modular pentru agenți și fluxuri de lucru AI cu raționament, instrumente și memorie în lanț de gândire.
+
+<hr/>
+
+</details>
 
 <hr/>
 
