@@ -260,9 +260,12 @@ Trebuie retinut si faptul ca aici ne refereim la suportul oferit de libraria [sm
 Asadar, orice sistem eficient care folosește inteligența artificială(AI/IA) va trebui să ofere **LLM**-urilor un fel de ***acces la lumea reală***: de exemplu, posibilitatea de a apela un **instrument de căutare** pentru a obține informații externe sau de a acționa asupra anumitor programe pentru a rezolva o sarcină(cu alte cuvinte, LLM-urile ar trebui să aibă **Agent/Agenție/implicare**). <br/>
 Pentru LLM, **programele agentice** sunt poarta de acces către lumea exterioară.
 
-Agenții AI sunt programe în care rezultatele LLM controlează fluxul de lucru .
+***Agenții-AI*** sunt programe în care rezultatele LLM controlează fluxul de lucru .
 
 Orice sistem care folosește LLM-uri va integra rezultatele LLM în cod. Influența intrării LLM asupra fluxului de lucru al codului este nivelul de agenție/implicare al LLM-urilor în sistem.
+
+Un alt [proiect](https://www.youtube.com/watch?v=-0Y5oepu0Pc) interesant legat de *gestionarea* si *orchestrarea* ***agentilor-AI*** este si [**Agentarium**](https://github.com/Thytu/Agentarium).
+[**Agentarium**](https://github.com/Thytu/Agentarium) este un cadru Python puternic care oferă o modalitate flexibilă și intuitivă de a *crea*, *gestiona* și *coordona* interacțiunile(ati putea citi chiar inter-acțiunile) între mai mulți ***agenți-AI*** în diferite medii.
 
 </details>
 
