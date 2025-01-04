@@ -265,7 +265,7 @@ Pentru LLM, **programele agentice** sunt poarta de acces către lumea exterioar�
 Orice sistem care folosește LLM-uri va integra rezultatele LLM în cod. Influența intrării LLM asupra fluxului de lucru al codului este nivelul de agenție/implicare al LLM-urilor în sistem.
 
 Un alt [proiect](https://www.youtube.com/watch?v=-0Y5oepu0Pc) interesant legat de *gestionarea* si *orchestrarea* ***agentilor-AI*** este si [**Agentarium**](https://github.com/Thytu/Agentarium).<br/>
-[**Agentarium**](https://github.com/Thytu/Agentarium) este un cadru Python puternic care oferă o modalitate flexibilă și intuitivă de a *crea*, *gestiona* și *coordona* interacțiunile(ati putea citi chiar inter-acțiunile) între mai mulți ***agenți-AI*** în diferite medii.
+[**Agentarium**](https://github.com/Thytu/Agentarium) este un cadru Python puternic care oferă o modalitate flexibilă și intuitivă de a *crea*, *gestiona* și *coordona* interacțiunile(ati putea citi chiar "*inter-acțiunile*") între mai mulți ***agenți-AI*** în diferite medii.
 
 </details>
 
