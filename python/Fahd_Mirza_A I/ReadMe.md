@@ -267,7 +267,7 @@ Orice sistem care folosește LLM-uri va integra rezultatele LLM în cod. Influen
 Un alt [proiect](https://www.youtube.com/watch?v=-0Y5oepu0Pc) interesant legat de *gestionarea* si *orchestrarea* ***agentilor-AI*** este si [**Agentarium**](https://github.com/Thytu/Agentarium).<br/>
 [**Agentarium**](https://github.com/Thytu/Agentarium) este un cadru Python puternic care oferă o modalitate flexibilă și intuitivă de a *crea*, *gestiona* și *coordona* interacțiunile(ati putea citi chiar "*inter-acțiunile*") între mai mulți ***agenți-AI*** în diferite medii( a se consulta [exemplele](https://github.com/Thytu/Agentarium#examples) si [documentatia](https://github.com/Thytu/Agentarium#documentation)).
 
-Un alt [proiect](https://www.youtube.com/watch?v=ffL-bJsW5Xk) legat de ***agenti-AI*** este si proiectul [**Griptape**](https://github.com/griptape-ai/griptape).<br/>
+Tot legat de [***agenti-AI***](https://www.youtube.com/watch?v=ffL-bJsW5Xk) este si proiectul [**Griptape**](https://github.com/griptape-ai/griptape).<br/>
 [**Griptape**](https://github.com/griptape-ai/griptape) este un cadru Python modular pentru construirea de aplicații bazate pe inteligență artificială(AI) care se conectează în siguranță la datele și API-urile companiei tale. Oferă dezvoltatorilor capacitatea de a menține controlul și flexibilitatea la fiecare pas(consultați [Griptape Docs](https://docs.griptape.ai/), precum si cursuri online gratuite, intitulate [Griptape Trade School](https://learn.griptape.ai/)!).<br/>
 [**Griptape**](https://github.com/griptape-ai/griptape) este un cadru Python modular pentru agenți și fluxuri de lucru AI cu raționament, instrumente și memorie în lanț de gândire.
 
