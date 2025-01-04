@@ -151,9 +151,7 @@ Probabil ca multi ati/au auzit de procesatorul de plati [**Stripe**](https://www
 <details>
       <summary>Iata aici povestea, pe scurt, a <b>Agentului-AI <i>Stripe</i></b>...</summary>
 
-<hr/>
-
-<br/><br/>Ideea de baza este ca platitorii(cum este si platforma **Stripe**) sunt un fel de intermediar/liant(intre parti/partide) in tranzactiile de contra(vanzatorul vrea pret mare iar cumparatorul vrea pret mic)-partida **Vanzare-Cumparare**(atentie nu exista vanzare fara cumparare sau vanzator=comerciant fara cumparator... *ATENTIE/obs:** vanzatorul fara cumparator [este denumit/face o]  *oferta-d-e vanzare* iar cumparatorul fara vanzator este [denumita/face o]  *oferta-de-cumparare* !!!), intre client si banca clientului( pe de-o parte) si comerciant impreuna cu banca comerciantului(pe de alta parte).
+<br/><hr/><br/>Ideea de baza este ca platitorii(cum este si platforma **Stripe**) sunt un fel de intermediar/liant(intre parti/partide) in tranzactiile de contra(vanzatorul vrea pret mare iar cumparatorul vrea pret mic)-partida **Vanzare-Cumparare**(atentie nu exista vanzare fara cumparare sau vanzator=comerciant fara cumparator... *ATENTIE/obs:** vanzatorul fara cumparator [este denumit/face o]  *oferta-d-e vanzare* iar cumparatorul fara vanzator este [denumita/face o]  *oferta-de-cumparare* !!!), intre client si banca clientului( pe de-o parte) si comerciant impreuna cu banca comerciantului(pe de alta parte).
 
 Daca va faceti [cont](https://docs.stripe.com/connect/authentication), pe aceasta platforma(**Stripe**), ca si comerciant(desigur ca puteti/oricine poate avea un asfel cont si in calitate de client), practic aveti deja posibilitatea, de a avea [propriul](https://dashboard.stripe.com/account/apikeys) magazin virtual de comert electronic/**e-commerce**(de vanzare a produsleor voastre fizice sau conceptuale).
 
