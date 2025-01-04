@@ -267,12 +267,17 @@ Orice sistem care folosește LLM-uri va integra rezultatele LLM în cod. Influen
 Un alt [proiect](https://www.youtube.com/watch?v=-0Y5oepu0Pc) interesant legat de *gestionarea* si *orchestrarea* ***agentilor-AI*** este si [**Agentarium**](https://github.com/Thytu/Agentarium).<br/>
 [**Agentarium**](https://github.com/Thytu/Agentarium) este un cadru Python puternic care oferă o modalitate flexibilă și intuitivă de a *crea*, *gestiona* și *coordona* interacțiunile(ati putea citi chiar "*inter-acțiunile*") între mai mulți ***agenți-AI*** în diferite medii.
 
+Un alt [proiect](https://www.youtube.com/watch?v=ffL-bJsW5Xk) legat de ***agenti-AI*** este si proiectul [**Griptape**](https://github.com/griptape-ai/griptape).<br/>
+[**Griptape**](https://github.com/griptape-ai/griptape) este un cadru Python modular pentru construirea de aplicații bazate pe inteligență artificială(AI) care se conectează în siguranță la datele și API-urile companiei tale. Oferă dezvoltatorilor capacitatea de a menține controlul și flexibilitatea la fiecare pas.<br/>
+[**Griptape**](https://github.com/griptape-ai/griptape) este un cadru Python modular pentru agenți și fluxuri de lucru AI cu raționament, instrumente și memorie în lanț de gândire.
+
 </details>
 
 <hr/>
 
 Acum, sa ne concetram/focusam atentia asupra unei parti importante a unui RAG si anume partea de incorporare(partea de <b>transformare</b> a propozitiilor unui text in vectori numerici)
 In acest sens, [Nomic](https://nomic-ai.notion.site/Careers-Nomic-be1323b7fdef45dc994ed918a2c0ff69) a publicat pe Hub-ul modelellor LLM(HuggingFace), un nou [produs](https://huggingface.co/nomic-ai/modernbert-embed-base) intitulat [**ModernBERT Embed Base**](https://www.youtube.com/watch?v=HcVav0IqZlk).
+
 <details>
 <summary>Dupa cum puteti vedea, acest nou <b>incorporator</b>, beneficiaza de caracteristici specifice importante.</summary>
 
