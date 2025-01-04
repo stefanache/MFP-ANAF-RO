@@ -269,7 +269,7 @@ Orice sistem care folosește LLM-uri va integra rezultatele LLM în cod. Influen
 <hr/>
 
 Acum, sa ne concetram/focusam atentia asupra unei parti importante a unui RAG si anume partea de incorporare(partea de <b>transformare</b> a propozitiilor unui text in vectori numerici)
-In acest sens, Nomic a publicat pe Hub-ul modelellor LLM(HuggingFace), un nou [produs](https://huggingface.co/nomic-ai/modernbert-embed-base) intitulat [**ModernBERT Embed Base**](https://www.youtube.com/watch?v=HcVav0IqZlk).
+In acest sens, [Nomic](https://nomic-ai.notion.site/Careers-Nomic-be1323b7fdef45dc994ed918a2c0ff69) a publicat pe Hub-ul modelellor LLM(HuggingFace), un nou [produs](https://huggingface.co/nomic-ai/modernbert-embed-base) intitulat [**ModernBERT Embed Base**](https://www.youtube.com/watch?v=HcVav0IqZlk).
 <details>
 <summary>Dupa cum puteti vedea, acest nou <b>incorporator</b>, beneficiaza de caracteristici specifice importante.</summary>
 
