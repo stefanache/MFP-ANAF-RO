@@ -475,14 +475,17 @@ Modelul poate fi instalat local pe serverul **Ollama** utilizand comanda:
 
                   ollama pull hf.co/cognitivecomputations/Dolphin3.0-Llama3.1-8B-GGUF:Q8_0
 
-sau
+ori
 
                   ollama run hf.co/cognitivecomputations/Dolphin3.0-Llama3.1-8B-GGUF:Q4_0
 
+apoi verifica daca s-a instalat cu 
+
+                  Ollama list
 
 Desigur, există multe modalități de a folosi un astfel de model HuggingFace(HF), inclusiv:
 
- - ollama
+ - Ollama
  - LM Studio
  - Biblioteca Huggingface Transformers
  - vllm
