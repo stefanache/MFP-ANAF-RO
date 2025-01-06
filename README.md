@@ -897,7 +897,7 @@ Unele acte normative le gasiti pe portalul [Guvernului(GOV)](https://gov.ro/fisi
 
 O alta parte de informatii legate de baza legala se regases pe site-ul MFP. Dar si acestea sunt oarecum cu caracter general.
 
- Desigur cele mai multe informatii despre baza legala care sta la baza proceselor eFactura,eTransport,D406/SAF-T... o sa le regasiti la [ANAF](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/Ghid_RO_eFactura.pdf); Practic acestea va conduc catre specificatiile tehnice singurele in masura sa va ajute la dezvoltarea propriilor solutii informatice ...
+ Desigur cele mai multe informatii despre baza legala care sta la baza proceselor eFactura, eTransport, [D406/SAF-T](https://www.stiripesurse.ro/vesti-importante-pentru-asociatiile-de-proprietari-din-romania-anaf-schimbare-asteptata-de-ani-de-zile_3541691.html)... o sa le regasiti la [ANAF](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/Ghid_RO_eFactura.pdf); Practic acestea va conduc catre specificatiile tehnice singurele in masura sa va ajute la dezvoltarea propriilor solutii informatice ...
  
 [Baza legala](https://mfinante.gov.ro/web/efactura/legislatie) este destul de stufoasa/ampla si este in continua schimbare ... asa ca trebuie urmarita incontinuu!
 In realitate ea se transpune prin normele sale de aplicare in modificarea/manipularea formularelor si eventual afecteaza softurilor A sau/si J, schemelor de validare(.XSD) si 
