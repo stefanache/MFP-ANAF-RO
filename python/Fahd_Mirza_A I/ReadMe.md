@@ -461,6 +461,22 @@ acesteia cautand similaritatile.
 ***OBS:*** În cazul **Transformers**, puteți trunchia înglobările la o dimensiune mai mică prin/folosind tăierea înglobărilor(..._embeddings[:, :truncate_dim]) medii grupate, înainte de normalizare: ... = F.normalize(..._embeddings, p=2, dim=1)!
 </details>
 <hr/>
+
+Recent a aparut modelul local [**Dolphin 3.0 Llama 3.1 8B**](https://www.youtube.com/watch?v=CV8TE9aE1xM&t=22s).
+
+Acest model este un model local de uz general final(model de margine), permițând: 
+
+ - codificare,
+ - matematică,
+ - agentic și ...
+ - cazuri de utilizare generale
+   
+Modelul poate fi instalat local pe serverul **Ollama** utilizand comanda:
+
+                  ollama pull (https://huggingface.co/cognitivecomputations/Dolphin3.0-Llama3.1-8B
+
+<hr/>
+
  </details>
 
 
