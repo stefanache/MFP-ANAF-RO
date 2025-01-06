@@ -473,7 +473,7 @@ Acest model este un model local de uz general final(model de margine), permițâ
    
 Modelul poate fi instalat local pe serverul **Ollama** utilizand comanda:
 
-                  ollama pull (https://huggingface.co/cognitivecomputations/Dolphin3.0-Llama3.1-8B
+                  ollama pull https://huggingface.co/cognitivecomputations/Dolphin3.0-Llama3.1-8B
 
 <hr/>
 
