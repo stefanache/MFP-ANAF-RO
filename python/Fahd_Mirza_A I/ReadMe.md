@@ -473,7 +473,12 @@ Acest [model](https://huggingface.co/cognitivecomputations/Dolphin3.0-Llama3.1-8
    
 Modelul poate fi instalat local pe serverul **Ollama** utilizand comanda:
 
-                  ollama pull https://huggingface.co/cognitivecomputations/Dolphin3.0-Llama3.1-8B
+                  ollama pull https://huggingface.co/cognitivecomputations/Dolphin3.0-Llama3.1-8B-GGUF:Q4_0
+
+sau
+
+                  ollama run hf.co/cognitivecomputations/Dolphin3.0-Llama3.1-8B-GGUF:Q4_0
+
 
 Desigur, există multe modalități de a folosi un astfel de model huggingface(HF), inclusiv:
 
