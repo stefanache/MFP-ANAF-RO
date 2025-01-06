@@ -464,7 +464,7 @@ acesteia cautand similaritatile.
 
 Recent a aparut modelul local [**Dolphin 3.0 Llama 3.1 8B**](https://www.youtube.com/watch?v=CV8TE9aE1xM&t=22s).
 
-Acest model este un model local de uz general final(model de margine), permițând: 
+Acest [model](https://huggingface.co/cognitivecomputations/Dolphin3.0-Llama3.1-8B) este un model local de uz general final(model de margine), permițând: 
 
  - codificare,
  - matematică,
