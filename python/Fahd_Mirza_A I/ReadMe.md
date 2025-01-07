@@ -499,7 +499,7 @@ Desigur, există multe modalități de a folosi un astfel de model HuggingFace(H
 Stim de ceva vreme, ca lupta dintre ***RAG***(cu cadrul sau de dezvoltare [***KAG***](https://www.youtube.com/watch?v=iG331lI479I)...) si **RAPTOR**, pare sa fie in favoarea celui din urma.<br/>
 Dar iata ca a aparut si un alt candidat la suprematie!<br/>
 
-</details>
+<details>
 <summary>Este vorba despre <a href="https://www.youtube.com/watch?v=7RhZE_FnL74&t=40s">Cache-Augmented Generation(<b>CAG</b>)</a></summary>
 
 <br/>
