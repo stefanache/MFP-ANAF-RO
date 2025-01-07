@@ -496,7 +496,18 @@ Desigur, există multe modalități de a folosi un astfel de model HuggingFace(H
 
 Stim de ceva vreme ca se pare ca lupta dintre RAG si RAPTOR pare sa fie in favoarea celui din urma.<br/>
 Dar se pare ca a aparut si un alt candidat la suprematie. Este vorba despre [Cache-Augmented Generation(CAG)](https://www.youtube.com/watch?v=7RhZE_FnL74&t=40s).<br/>
-Si [acesta](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa1d4VTR0TV9pazhwQkNtdTJka0syMUowS1p6UXxBQ3Jtc0tuMHE3eHp6Y0FsTjlJb29oSWlMaV9zZ3R2d29xR0dydU5xb1BlZDNrNlNnZW4xeFJCOWZoTTcxX1dtZEpZSy1MaUNrcFhXOHczV3p6ei16WjdkS0hYdXdCLWtHZFQxckRNdTA5NmhOZ3NyeXU5czdRWQ&q=https%3A%2F%2Fgithub.com%2Fhhhuang%2FCAG&v=7RhZE_FnL74) aste pregatit pt a rula ca si model / LLM final/de margine.
+Si [acesta](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa1d4VTR0TV9pazhwQkNtdTJka0syMUowS1p6UXxBQ3Jtc0tuMHE3eHp6Y0FsTjlJb29oSWlMaV9zZ3R2d29xR0dydU5xb1BlZDNrNlNnZW4xeFJCOWZoTTcxX1dtZEpZSy1MaUNrcFhXOHczV3p6ei16WjdkS0hYdXdCLWtHZFQxckRNdTA5NmhOZ3NyeXU5czdRWQ&q=https%3A%2F%2Fgithub.com%2Fhhhuang%2FCAG&v=7RhZE_FnL74) aste pregatit pt a rula ca si model / ***LLM*** final/de margine.<br/>
+Retrieval-Augmented Generation (RAG) a apărut ca o abordare puternică pentru îmbunătățirea modelelor lingvistice prin integrarea surselor externe de cunoștințe.<br/> 
+
+Cu toate acestea, **RAG** introduce și câteva provocări/limitati, printre care:
+
+ - Latență de recuperare – Întârzieri cauzate de pașii de recuperare în timp real.
+ - Erori de regăsire – Inexactități în selectarea documentelor relevante.
+ - Complexitatea sistemului – Operă de arhitectură și întreținere crescută.
+
+Pentru a aborda aceste limitări, propunem [generarea cache-augmentată (CAG)](https://medium.com/@ronantech/cache-augmented-generation-cag-in-llms-a-step-by-step-tutorial-6ac35d415eec) — o paradigmă alternativă care ocolește recuperarea în timp real.<br/>
+**CAG** folosește ferestrele de context extinse ale modelelor moderne de limbaje mari (***LLM***) prin preîncărcarea tuturor resurselor relevante în contextul modelului și prin memorarea în cache a parametrilor de rulare ai acestuia. <br/>
+În timpul inferenței, memoria cache KV preîncărcată permite modelului să genereze răspunsuri direct, eliminând nevoia de recuperare.
 
 
  </details>
