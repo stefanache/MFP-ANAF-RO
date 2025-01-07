@@ -509,6 +509,9 @@ Pentru a aborda aceste limitări, propunem [generarea cache-augmentată (CAG)](h
 **CAG** folosește ferestrele de context extinse ale modelelor moderne de limbaje mari (***LLM***) prin preîncărcarea tuturor resurselor relevante în contextul modelului și prin memorarea în cache a parametrilor de rulare ai acestuia. <br/>
 În timpul inferenței, memoria cache KV preîncărcată permite modelului să genereze răspunsuri direct, eliminând nevoia de recuperare.
 
+<hr/>
+
+
 
  </details>
 
