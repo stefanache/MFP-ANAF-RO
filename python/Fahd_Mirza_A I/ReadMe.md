@@ -491,9 +491,13 @@ Desigur, există multe modalități de a folosi un astfel de model HuggingFace(H
  - vllm
  - sglang
  - tgi
-
-
+ - 
 <hr/>
+
+Stim de ceva vreme ca se pare ca lupta dintre RAG si RAPTOR pare sa fie in favoarea celui din urma.<br/>
+Dar se pare ca a aparut si un alt candidat la suprematie. Este vorba despre [Cache-Augmented Generation(CAG)](https://www.youtube.com/watch?v=7RhZE_FnL74&t=40s).<br/>
+Si [acesta](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa1d4VTR0TV9pazhwQkNtdTJka0syMUowS1p6UXxBQ3Jtc0tuMHE3eHp6Y0FsTjlJb29oSWlMaV9zZ3R2d29xR0dydU5xb1BlZDNrNlNnZW4xeFJCOWZoTTcxX1dtZEpZSy1MaUNrcFhXOHczV3p6ei16WjdkS0hYdXdCLWtHZFQxckRNdTA5NmhOZ3NyeXU5czdRWQ&q=https%3A%2F%2Fgithub.com%2Fhhhuang%2FCAG&v=7RhZE_FnL74) aste pregatit pt a rula ca si model / LLM final/de margine.
+
 
  </details>
 
