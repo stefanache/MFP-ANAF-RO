@@ -461,8 +461,8 @@ acesteia cautand similaritatile.
 ***OBS:*** În cazul **Transformers**, puteți trunchia înglobările la o dimensiune mai mică prin/folosind tăierea înglobărilor(..._embeddings[:, :truncate_dim]) medii grupate, înainte de normalizare: ... = F.normalize(..._embeddings, p=2, dim=1)!
 </details>
 <hr/>
-
-Recent a aparut modelul local [**Dolphin 3.0 Llama 3.1 8B**](https://www.youtube.com/watch?v=CV8TE9aE1xM&t=22s).
+<details>
+<summary>Recent a aparut modelul local <a href="https://www.youtube.com/watch?v=CV8TE9aE1xM&t=22s"><b>Dolphin 3.0 Llama 3.1 8B</b></a></summary>
 
 Acest [model](https://huggingface.co/cognitivecomputations/Dolphin3.0-Llama3.1-8B) este un model local de uz general final(model de margine), permițând: 
 
@@ -491,12 +491,18 @@ Desigur, există multe modalități de a folosi un astfel de model HuggingFace(H
  - vllm
  - sglang
  - tgi
- - 
+
+ </details>
+ 
 <hr/>
 
 Stim de ceva vreme, ca lupta dintre ***RAG***(cu cadrul sau de dezvoltare [***KAG***](https://www.youtube.com/watch?v=iG331lI479I)...) si **RAPTOR**, pare sa fie in favoarea celui din urma.<br/>
 Dar iata ca a aparut si un alt candidat la suprematie!<br/>
-Este vorba despre [Cache-Augmented Generation(**CAG**)](https://www.youtube.com/watch?v=7RhZE_FnL74&t=40s).<br/>
+
+</details>
+<summary>Este vorba despre <a href="https://www.youtube.com/watch?v=7RhZE_FnL74&t=40s">Cache-Augmented Generation(<b>CAG</b>)</a></summary>
+
+<br/>
 Si [acesta](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa1d4VTR0TV9pazhwQkNtdTJka0syMUowS1p6UXxBQ3Jtc0tuMHE3eHp6Y0FsTjlJb29oSWlMaV9zZ3R2d29xR0dydU5xb1BlZDNrNlNnZW4xeFJCOWZoTTcxX1dtZEpZSy1MaUNrcFhXOHczV3p6ei16WjdkS0hYdXdCLWtHZFQxckRNdTA5NmhOZ3NyeXU5czdRWQ&q=https%3A%2F%2Fgithub.com%2Fhhhuang%2FCAG&v=7RhZE_FnL74) aste pregatit pt a rula ca si model / ***LLM*** final/de margine.<br/>
 Retrieval-Augmented Generation (***RAG***) a apărut ca o abordare puternică pentru îmbunătățirea modelelor lingvistice prin integrarea surselor externe de cunoștințe.<br/> 
 
@@ -521,9 +527,11 @@ Dezavantajele/Limitările **CAG**:
  - Dimensiune limitată de cunoștințe – CAG necesită ca întreaga sursă de cunoștințe să se încadreze în fereastra de context, ceea ce o face mai puțin potrivită pentru sarcini care implică seturi de date extrem de mari.
  - Constrângeri de lungime a contextului – Performanța LLM-urilor se poate degrada cu contexte foarte lungi ( referință ).
 
+</details>
+
 <hr/>
 
-
+...
 
  </details>
 
