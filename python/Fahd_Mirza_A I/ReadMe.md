@@ -506,7 +506,7 @@ Cu toate acestea, **RAG** introduce și câteva provocări/limitati, printre car
  - Complexitatea sistemului – Operă de arhitectură și întreținere crescută.
 
 Pentru a aborda aceste limitări, propunem [generarea cache-augmentată (CAG)](https://medium.com/@ronantech/cache-augmented-generation-cag-in-llms-a-step-by-step-tutorial-6ac35d415eec) — o paradigmă alternativă care ocolește recuperarea în timp real.<br/>
-**CAG** folosește ferestrele de context extinse ale modelelor moderne de limbaje mari (***LLM***) prin preîncărcarea tuturor resurselor relevante în contextul modelului și prin memorarea în cache a parametrilor de rulare ai acestuia. <br/>
+[**CAG**](https://medium.com/@sahin.samia/cache-augmented-generation-a-faster-simpler-alternative-to-rag-for-ai-2d102af395b2) folosește ferestrele de context extinse ale modelelor moderne de limbaje mari (***LLM***) prin preîncărcarea tuturor resurselor relevante în contextul modelului și prin memorarea în cache a parametrilor de rulare ai acestuia. <br/>
 În timpul inferenței, memoria cache KV preîncărcată permite modelului să genereze răspunsuri direct, eliminând nevoia de recuperare.
 
 <hr/>
