@@ -24,7 +24,7 @@ REM pip install synthetic-dataset-generator
 REM git clone https://github.com/argilla-io/synthetic-data-generator.git |more
 cd synthetic-data-generator
 
-set HF_TOKEN=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
+set HF_TOKEN=hf_...
 set BASE_URL=http://localhost:1134
 set MODEL=ollama/llama3.1
 
