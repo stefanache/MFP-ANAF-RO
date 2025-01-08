@@ -7,7 +7,7 @@ Synthetic Data Generator este un instrument care vă permite să creați seturi 
 
 In afara de acest [**distilabel**](https://distilabel.argilla.io/latest/), in fundal, acest proiect se mai bazeaza si pe  [**API-ul gratuit de generare de text Hugging Face**](https://huggingface.co/docs/api-inference/en/index), dar nu trebuie să ne facem griji cu privire la aceste complexități ci trebuie doar sa concentram pe utilizarea interfeței de utilizare.
 
- [Blogul HF care-l anunța](https://huggingface.co/blog/synthetic-data-generator) trece in revista un exemplu practic de utilizare, dar puteți, de asemenea, să urmăriți [videoclipul](https://www.youtube.com/watch?v=nXjVtnGeEss) pentru a-l vedea în acțiune.
+ [Blogul HF care-l anunța](https://huggingface.co/blog/synthetic-data-generator) trece in revista un exemplu practic de utilizare, dar puteți, de asemenea, să urmăriți [video-clipul](https://www.youtube.com/watch?v=nXjVtnGeEss) pentru a-l vedea în acțiune.
 
  Sarcini acceptate:
 
@@ -36,5 +36,5 @@ Dupa operatia de **Sign-In**, ca si descriere pt setul de date pe care veti dori
 
 Desigur puteti concepe si alte descrieri in functie de task-ul dumneavoastra.
 
-De asemenea va recomand sa vizualizati video-clipul pus la dispozitie pt a vedea cum trebuie sa utilizati intefata-utilizator(**gradio**)
+De asemenea va recomand sa vizualizati [video-clipul](https://www.youtube.com/watch?v=nXjVtnGeEss) pus la dispozitie pt a vedea cum trebuie sa utilizati intefata-utilizator(**gradio**)
 
