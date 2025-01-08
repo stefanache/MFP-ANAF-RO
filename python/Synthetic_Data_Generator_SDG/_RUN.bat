@@ -24,7 +24,7 @@ REM pip install synthetic-dataset-generator
 REM git clone https://github.com/argilla-io/synthetic-data-generator.git |more
 cd synthetic-data-generator
 
-rem echo inlocuiti {hf_...} cu token-ul dvs creat pt scriere/citire pe site-ul HF: ...
+rem echo inlocuiti {hf_...} cu token-ul dvs, creat pt scriere/citire, pe site-ul HF: ...
 rem echo ...https://huggingface.co/settings/tokens
 set HF_TOKEN={hf_...}
 set BASE_URL=http://localhost:1134
