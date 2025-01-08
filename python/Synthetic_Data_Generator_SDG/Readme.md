@@ -11,7 +11,7 @@ Synthetic Data Generator este un instrument care vă permite să creați seturi 
 
  - Clasificarea textului
  - Date de chat pentru reglaj fin supravegheat
- - 
+
 Acest instrument simplifică procesul de creare a seturilor de date personalizate, permițându-vă să:
 
  - Descrieți caracteristicile aplicației dorite
