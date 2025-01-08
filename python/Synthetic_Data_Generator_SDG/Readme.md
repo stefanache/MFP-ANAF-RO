@@ -1,5 +1,5 @@
 
-Uneori o sa vreti sa construiți seturi de date folosind limbajul natural(NLP). Datele sintetice sunt informații generate artificial care imită datele din lumea reală. Astfel, acest lucru ne permite depășirea limitărilor privind datele prin extinderea sau îmbunătățirea seturilor de date.
+Uneori o sa vreti sa construiți/creati **seturi de date** folosind limbajul natural(NLP). Datele sintetice sunt informații generate artificial care imită datele din lumea reală. Astfel, acest lucru ne permite depășirea limitărilor privind datele prin extinderea sau îmbunătățirea seturilor de date.
 
 In ajutorul dumneavoastra vine acest caz de utilizare/show-case care se refera la [proiectul](https://github.com/argilla-io/synthetic-data-generator) prezentat de domnul ***Fahd-Mirza***: [Synthetic Data Generator(**SDG**)](https://www.youtube.com/watch?v=yQy_hSFSyIY)
 
