@@ -31,7 +31,7 @@ In acest proiect avem nevoie si vom folosi server-ul de LLM-uri : **Ollama**. Ac
 In acest context vom folosi partea de generare de seturi de date, care ne vor fi necesare pt sarcina de **Clasificare de text**.<br/>
 Ca si descriere pt setul de date pe care veti dori sa-l generati putweti apela la unul dintre exemplele oferite:
   - *A dataset covering customer reviews for an e-commerce website.*
- ori
+ <br/>ori...<br/>
   - *A dataset covering news articles about various topics.*
 
 Desigur puteti concepe si alte descrieri in functie de task-ul dumneavoastra.
