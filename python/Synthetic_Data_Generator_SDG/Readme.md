@@ -30,7 +30,7 @@ Cea mai bună parte a acestui proces simplu este ca, pas cu pas, putem sa cream,
 In acest proiect avem nevoie si vom folosi server-ul de LLM-uri : **Ollama**. Acesta ne va oferi(ne va deservi) ca si LLM, modelul **Llama3.1**.<br/>
 In acest context(de utilizare a serverului **Ollama** pt deservire de LLM-uri...) vom folosi partea de generare de seturi de date, care ne vor fi necesare pt sarcina de **Clasificare de text**.<br/>
 
-Dupa ce rulam/lansam  applicatia(utilizand comanda :  **python app.py**) va trebui sa deschidem in browser interfata utilizator(utilizand adresa **http://127.0.0.1/7860**)<br/>
+Dupa ce rulam/lansam in executie applicatia(utilizand comanda :  **python app.py**) va trebui sa deschidem in browser interfata utilizator(utilizand adresa **http://127.0.0.1/7860**)<br/>
 
 Dupa operatia de **Sign-In**, ca si descriere pt setul de date pe care veti dori sa-l generati putweti apela la unul dintre exemplele oferite:
   - *A dataset covering customer reviews for an e-commerce website.*
