@@ -32,7 +32,7 @@ In acest context(de utilizare a serverului **Ollama** pt deservire de LLM-uri...
 
 Dupa ce rulam/lansam in executie applicatia(utilizand comanda :  **python app.py**) va trebui sa deschidem in browser interfata utilizator(utilizand adresa **http://127.0.0.1/7860**)<br/>
 
-Dupa operatia de **Sign-In**, ca si descriere pt setul de date pe care veti dori sa-l generati putweti apela la unul dintre exemplele oferite:
+Dupa operatia de **Sign-In**, ca si ***descriere pt setul de date*** pe care veti dori sa-l generati putweti apela la unul dintre exemplele oferite:
   - *A dataset covering customer reviews for an e-commerce website.*
  <br/>ori...<br/>
   - *A dataset covering news articles about various topics.*
