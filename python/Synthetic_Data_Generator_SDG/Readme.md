@@ -38,7 +38,7 @@ Dupa operatia de **Sign-In**, ca si ***descriere pt setul de date***(pe care vet
  <br/>ori...<br/>
   - *A dataset covering news articles about various topics.*
 
-Desigur puteti concepe si alte descrieri in functie de task-ul dumneavoastra.
+Desigur, puteti concepe si alte descrieri in functie de task-ul dumneavoastra.
 
 In rest, va recomand sa vizualizati [video-clipul](https://www.youtube.com/watch?v=nXjVtnGeEss) pus la dispozitie pt a vedea cum trebuie sa utilizati intefata-utilizator(**gradio**)
 
