@@ -30,7 +30,7 @@ Cea mai bună parte a acestui proces simplu este ca, pas cu pas, putem sa cream,
 In acest proiect avem nevoie si vom folosi server-ul de LLM-uri : **Ollama**. Acesta ne va oferi(ne va deservi) ca si LLM, modelul **Llama3.1**.<br/>
 In acest context(de utilizare a serverului **Ollama** pt deservire de LLM-uri...; deservirea modelului **Llama3.1**, se face la URL-ul=**http://localhost:1134**) vom folosi partea de generare de seturi de date, care ne vor fi necesare pt sarcina de **Clasificare de text**.<br/>
 
-Dupa ce rulam/lansam in executie applicatia(utilizand comanda :  **python app.py**) va trebui sa deschidem in browser interfata utilizator(utilizand adresa **http://127.0.0.1/7860**)<br/>
+Dupa ce rulam/lansam in executie applicatia(utilizand comanda :  **python app.py**) va trebui sa deschidem in browser interfata utilizator(utilizand adresa **http://127.0.0.1/7860**; adresa la care **gradio**, ii furnizeaza utilizatorului accesul la/interfatarea cu acest proiect)<br/>
 
 Dupa operatia de **Sign-In**, ca si ***descriere pt setul de date***(pe care veti dori sa-l generati), puteti apela la unul dintre exemplele oferite(afisate in partea dreata a ecranului aplicatiei):
 
