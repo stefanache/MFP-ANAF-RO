@@ -23,7 +23,7 @@ Acest instrument simplifică procesul de creare a seturilor de date personalizat
 
 Folosind Generatorul de date sintetice, puteți crea rapid prototipuri și crea seturi de date pentru a vă accelera procesul de dezvoltare AI.
 
-Asa cum v-am obisnuit, toate comenzile de care aveti nevoie le regasiti in fisierul _RUN.bat(va recomand sa deschindeti Command prompt/cmd.exe si sa le executati MANUAL, rand pe rand, pentru a putea vedea efectul fiecareia in parte!!!)
+Asa cum v-am obisnuit, toate comenzile de care aveti nevoie le regasiti in fisierul _RUN.bat(va recomand sa deschindeti ***Command prompt(cmd.exe)*** si sa le executati manual, rand pe rand, pentru a putea vedea efectul fiecareia in parte!!!)
 
 Cea mai bună parte a acestui proces simplu este ca, pas cu pas, putem sa cream, setul de date de o maniera usoara si non-tehnică, permițând oricui să creeze seturi de date și modele în câteva minute și asta fără niciun cod.
 
