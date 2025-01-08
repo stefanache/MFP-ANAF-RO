@@ -6,3 +6,19 @@ In ajutorul dumneavoastra vine acest caz de utilizare/show-case care se refera l
 Synthetic Data Generator este un instrument care vă permite să creați seturi de date de înaltă calitate pentru antrenament și reglare fină a modelelor de limbaj. Acesta valorifică puterea disti-etichetatorului și a LLM-urilor pentru a genera date sintetice adaptate nevoilor dumneavoastră specifice. 
 
  [Blogul HF care-l anunța](https://huggingface.co/blog/synthetic-data-generator) trece in revista un exemplu practic de utilizare, dar puteți, de asemenea, să urmăriți [videoclipul](https://www.youtube.com/watch?v=nXjVtnGeEss) pentru a-l vedea în acțiune.
+
+ Sarcini acceptate:
+
+ - Clasificarea textului
+ - Date de chat pentru reglaj fin supravegheat
+ - 
+Acest instrument simplifică procesul de creare a seturilor de date personalizate, permițându-vă să:
+
+ - Descrieți caracteristicile aplicației dorite
+ - Iterați pe seturi de date eșantion
+ - Produceți seturi de date la scară completă
+ - Împingeți seturile de date către [Hugging Face Hub](https://huggingface.co/datasets?other=datacraft) și/sau [Argilla](https://docs.argilla.io/)
+
+Folosind Generatorul de date sintetice, puteți crea rapid prototipuri și crea seturi de date pentru a vă accelera procesul de dezvoltare AI.
+
+
