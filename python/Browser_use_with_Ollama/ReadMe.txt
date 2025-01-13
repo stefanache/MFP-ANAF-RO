@@ -1,0 +1,1 @@
+Acest videoclip arată cum să instalați local utilizarea browserului cu Ollama, care este cea mai simplă modalitate de a vă conecta agenții AI cu browserul.
