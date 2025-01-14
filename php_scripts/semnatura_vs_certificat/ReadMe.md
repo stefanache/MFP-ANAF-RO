@@ -43,9 +43,9 @@ Semnăturile digitale sunt clasificate după cum urmează:
 Acum, să vedem cum funcționează pas cu pas.
 
  - **Creație**:<br/>
- Pentru a semna un document digital, semnatarul creează mai întâi o semnătură digitală unică folosind un algoritm criptografic, așa cum este specificat în standardul de semnătură digitală. Acest algoritm asigură securitatea și unicitatea semnăturii.
+ Pentru a semna un document digital, semnatarul creează mai întâi o semnătură digitală unică folosind un [algoritm criptografic](https://www.ssldragon.com/ro/blog/encryption-types-algorithms/), așa cum este specificat în standardul de semnătură digitală. Acest algoritm asigură securitatea și unicitatea semnăturii.
  - **Criptare**: <br/>
- Semnătura digitală este apoi criptată cu ajutorul cheii private a semnatarului, care face parte dintr-o pereche de chei asociată cu un certificat de semnătură digitală. Acest certificat, emis de o autoritate de certificare de încredere, conține informații despre identitatea și cheia publică a semnatarului.
+ Semnătura digitală este apoi [criptată](https://www.ssldragon.com/ro/blog/what-is-encryption/) cu ajutorul [cheii private](https://www.ssldragon.com/ro/blog/cheie-privata-ssl/) a semnatarului, care face parte dintr-o pereche de chei asociată cu un certificat de semnătură digitală. Acest certificat, emis de o [autoritate de certificare](https://www.ssldragon.com/ro/blog/certificate-authority/) de încredere, conține informații despre identitatea și cheia publică a semnatarului.
  - **Anexă**:<br/>
  Semnătura digitală criptată este atașată la documentul digital, fie ca fișier separat, fie integrată în documentul în sine. Acest proces garantează că semnătura este inseparabilă de documentul pe care îl autentifică.
  - **Verificare**:<br/>
@@ -66,7 +66,7 @@ Acum, să vedem cum funcționează pas cu pas.
 
 Semnăturile digitale sunt adoptate pe scară largă în diverse industrii, de la agenții guvernamentale la corporații private. Acestea reprezintă o alternativă mai sigură la semnăturile electronice tradiționale prin utilizarea unor algoritmi complecși.
 
-Această tehnologie este esențială în sectoarele în care securitatea datelor și dovada identității digitale sunt esențiale. În industria bancară și financiară, semnăturile digitale securizează tranzacțiile și acordurile, în timp ce, în mediul juridic, ele confirmă autenticitatea documentelor legale.
+Această tehnologie este esențială în sectoarele în care [securitatea datelor](https://www.ssldragon.com/ro/blog/protect-sensitive-data/) și dovada identității digitale sunt esențiale. În industria bancară și financiară, semnăturile digitale securizează tranzacțiile și acordurile, în timp ce, în mediul juridic, ele confirmă autenticitatea documentelor legale.
 
 Furnizorii de servicii medicale utilizează semnăturile digitale pentru a proteja dosarele pacienților, iar entitățile guvernamentale le folosesc pentru a securiza documentele oficiale și pentru a simplifica procesele administrative. În plus, o semnătură digitală protejează activele digitale ale tuturor tipurilor de întreprinderi. Adoptarea acestora evidențiază accentul pus pe integritatea, eficiența și conformitatea datelor în tranzacțiile electronice.
 
@@ -79,7 +79,7 @@ Furnizorii de servicii medicale utilizează semnăturile digitale pentru a prote
 
 <hr/>
 
-Prin utilizarea criptografiei, semnăturile digitale vă securizează datele, făcând practic imposibilă modificarea conținutului unui document de către părți neautorizate fără a fi detectate. Această caracteristică fundamentală a integrității datelor înseamnă că puteți avea încredere că informațiile prezentate într-un document semnat digital sunt exact așa cum a intenționat semnatarul.
+Prin utilizarea criptografiei, semnăturile digitale vă securizează datele, făcând practic imposibilă modificarea conținutului unui document de către părți neautorizate fără a fi detectate. Această caracteristică fundamentală a integrității datelor înseamnă că puteți avea încredere că informațiile prezentate într-un [document semnat digital](https://www.ssldragon.com/ro/blog/send-documents-securely-via-email/) sunt exact așa cum a intenționat semnatarul.
 
 Atunci când utilizați semnături digitale, nu protejați doar documentele. De asemenea, simplificați procedurile și îmbunătățiți securitatea generală. Iată câteva beneficii cheie:
 
@@ -108,7 +108,7 @@ Atunci când utilizați semnături digitale, nu protejați doar documentele. De 
  - **Complexitatea în gestionarea cheilor**: <br/>
  Gestionarea cheilor criptografice și a certificatelor reprezintă o provocare, necesitând resurse și expertiză suplimentare pentru a asigura o implementare corectă.
  - **Încrederea în infrastructura tehnologică**: <br/>
- Semnăturile digitale depind de infrastructura de chei publice (Public Key Infrastructure – PKI), inclusiv de platforme sigure și autorități de certificare de încredere, care pot fi dificil de stabilit și de menținut în medii diferite.
+ Semnăturile digitale depind de [infrastructura de chei publice (Public Key Infrastructure – PKI)](https://www.ssldragon.com/ro/blog/public-key-infrastructure/), inclusiv de platforme sigure și autorități de certificare de încredere, care pot fi dificil de stabilit și de menținut în medii diferite.
  - **Probleme de compatibilitate**: <br/>
  Compatibilitatea software-ului este crucială, deoarece acesta trebuie să susțină tehnologia specifică de semnătură digitală, adăugând un alt nivel de complexitate la proces.
  - **Provocări legate de standardizare**: <br/>
@@ -132,7 +132,7 @@ Obținerea unei semnături digitale necesită o serie de etape tehnice. Totul î
  - **Verificați identitatea dumneavoastră**: <br/>
 Trimiteți documentele necesare pentru a confirma identitatea dumneavoastră sau a organizației dumneavoastră în vederea validării.
  - **Generarea perechii de chei**: <br/>
-Utilizați un software criptografic, cum ar fi OpenSSL, pentru a genera o cheie privată și una publică – esențiale pentru crearea și verificarea semnăturii digitale.
+Utilizați un software criptografic, cum ar fi [OpenSSL](https://www.ssldragon.com/ro/blog/what-is-openssl/), pentru a genera o cheie privată și una publică – esențiale pentru crearea și verificarea semnăturii digitale.
  - **Obțineți semnătura digitală**: <br/>
 Autoritatea de certificare emite un certificat de semnătură digitală, care face legătura între identitatea dumneavoastră și cheia dumneavoastră publică. Asigură autenticitatea semnăturilor digitale.
  - **Instalare și utilizare**: <br/>
@@ -162,7 +162,7 @@ Un certificat digital este un document electronic utilizat pentru a verifica ide
 
 Iată o explicație pas cu pas a modului în care funcționează certificatele digitale:
 
- - **Criptografia cu cheie publică**: <br/>Certificatele digitale se bazează pe criptografia cu cheie publică. Acest sistem utilizează perechi de chei: o cheie publică și o cheie privată.
+ - **Criptografia cu cheie publică**: <br/>Certificatele digitale se bazează pe [criptografia cu cheie publică](https://www.ssldragon.com/ro/blog/public-key-cryptography/). Acest sistem utilizează perechi de chei: o cheie publică și o cheie privată.
  - **Cheia privată a expeditorului**: <br/>Atunci când un expeditor dorește să transmită informații în siguranță, acesta își folosește cheia privată pentru a crea o semnătură digitală pentru date. Această semnătură este unică pentru expeditor și pentru datele transmise.
  - **Cheia publică a expeditorului**: <br/>Cheia publică a expeditorului este disponibilă pentru oricine are nevoie să verifice identitatea expeditorului sau să decripteze datele criptate cu cheia privată a expeditorului.
  - **Chei publice și private**: <br/>Expeditorul își păstrează secretă cheia privată și nu o împărtășește niciodată cu nimeni. Cu toate acestea, aceștia își distribuie gratuit cheia publică altora.
@@ -181,12 +181,12 @@ Iată o explicație pas cu pas a modului în care funcționează certificatele d
 
 Exemplele de mai jos ilustrează diversele industrii și entități care se bazează pe certificatele digitale pentru a stabili tranzacții și comunicații online sigure.
 
- - **Browsere de site-uri web**: <br/>Browsere precum Google Chrome, Mozilla Firefox, Microsoft Edge și Apple Safari utilizează certificate digitale, cunoscute și sub numele de certificate SSL, pentru a verifica identitatea site-urilor web, pentru a stabili conexiuni sigure, pentru a afișa indicatori de securitate pentru utilizatori și pentru a-i avertiza cu privire la riscurile potențiale.
- - **Securitatea e-mailurilor**: <br/>Certificatele digitale, în special certificatele S/MIME, sunt utilizate pentru a cripta e-mailurile trimise între utilizatori, asigurând că numai destinatarii pot accesa conținutul mesajelor.
+ - **Browsere de site-uri web**: <br/>Browsere precum Google Chrome, Mozilla Firefox, Microsoft Edge și Apple Safari utilizează certificate digitale, cunoscute și sub numele de [certificate SSL](https://www.ssldragon.com/ro/blog/what-is-ssl-certificate/), pentru a verifica identitatea site-urilor web, pentru a stabili conexiuni sigure, pentru a afișa indicatori de securitate pentru utilizatori și pentru a-i avertiza cu privire la riscurile potențiale.
+ - **Securitatea e-mailurilor**: <br/>Certificatele digitale, în special [certificatele S/MIME](https://www.ssldragon.com/ro/blog/ce-este-certificat-s-mime/), sunt utilizate pentru a cripta e-mailurile trimise între utilizatori, asigurând că numai destinatarii pot accesa conținutul mesajelor.
  - **Site-uri de comerț electronic**: <br/>Site-uri precum Amazon, eBay și Shopify utilizează certificate digitale pentru a securiza tranzacțiile online, asigurându-se că informațiile dumneavoastră personale și financiare rămân confidențiale în timpul achizițiilor.
- - **Dispozitive IoT**: <br/>Dispozitivele Internet of Things (IoT), cum ar fi termostatele inteligente, camerele de securitate și dispozitivele purtabile, utilizează certificate digitale pentru a stabili conexiuni sigure cu alte dispozitive sau servere, protejând datele transmise prin rețea.
- - **Furnizori de VPN**: <br/>Rețeaua privată virtuală (VPN ) utilizează certificate digitale pentru a autentifica și cripta conexiunile dintre dispozitivele utilizatorilor și serverele VPN, asigurând confidențialitatea și securitatea în timpul navigării pe internet.
- - **Companii de software**: <br/>Dezvoltatorii folosesc certificate de semnare a codurilor pentru a-și semna aplicațiile software, asigurând astfel utilizatorii că produsele descărcate sunt autentice.
+ - **Dispozitive IoT**: <br/>Dispozitivele [Internet of Things (IoT)](https://www.ssldragon.com/ro/blog/iot-device-certificate/), cum ar fi termostatele inteligente, camerele de securitate și dispozitivele purtabile, utilizează certificate digitale pentru a stabili conexiuni sigure cu alte dispozitive sau servere, protejând datele transmise prin rețea.
+ - **Furnizori de VPN**: <br/>[Rețeaua privată virtuală (VPN )](https://www.ssldragon.com/ro/blog/https-vs-vpn/) utilizează certificate digitale pentru a autentifica și cripta conexiunile dintre dispozitivele utilizatorilor și serverele VPN, asigurând confidențialitatea și securitatea în timpul navigării pe internet.
+ - **Companii de software**: <br/>Dezvoltatorii folosesc [certificate de semnare a codurilor](https://www.ssldragon.com/ro/blog/what-is-code-signing-certificate/) pentru a-și semna aplicațiile software, asigurând astfel utilizatorii că produsele descărcate sunt autentice.
 
 Caracteristicile certificatelor digitale
 
