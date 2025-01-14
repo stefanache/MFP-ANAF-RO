@@ -103,12 +103,18 @@ Atunci când utilizați semnături digitale, nu protejați doar documentele. De 
 <details>
   <summary>05.Dezavantaje ale <b>semnăturilor digitale</b></summary>
 
-<hr/>  
-Complexitatea în gestionarea cheilor: Gestionarea cheilor criptografice și a certificatelor reprezintă o provocare, necesitând resurse și expertiză suplimentare pentru a asigura o implementare corectă.
-Încrederea în infrastructura tehnologică: Semnăturile digitale depind de infrastructura de chei publice (Public Key Infrastructure – PKI), inclusiv de platforme sigure și autorități de certificare de încredere, care pot fi dificil de stabilit și de menținut în medii diferite.
-Probleme de compatibilitate: Compatibilitatea software-ului este crucială, deoarece acesta trebuie să susțină tehnologia specifică de semnătură digitală, adăugând un alt nivel de complexitate la proces.
-Provocări legate de standardizare: Stabilirea unei interacțiuni armonioase între diverse sisteme necesită standardizare, având în vedere metodele și tehnologiile variate implicate în implementarea semnăturii digitale.
-Considerații financiare: Utilizarea eficientă a semnăturilor digitale implică în mod frecvent achiziționarea de certificate digitale și de software de verificare, ceea ce poate genera costuri substanțiale atât pentru expeditori, cât și pentru destinatari.
+<hr/> 
+
+ - **Complexitatea în gestionarea cheilor**: <br/>
+ Gestionarea cheilor criptografice și a certificatelor reprezintă o provocare, necesitând resurse și expertiză suplimentare pentru a asigura o implementare corectă.
+ - **Încrederea în infrastructura tehnologică**: <br/>
+ Semnăturile digitale depind de infrastructura de chei publice (Public Key Infrastructure – PKI), inclusiv de platforme sigure și autorități de certificare de încredere, care pot fi dificil de stabilit și de menținut în medii diferite.
+ - **Probleme de compatibilitate**: <br/>
+ Compatibilitatea software-ului este crucială, deoarece acesta trebuie să susțină tehnologia specifică de semnătură digitală, adăugând un alt nivel de complexitate la proces.
+ - **Provocări legate de standardizare**: <br/>
+ Stabilirea unei interacțiuni armonioase între diverse sisteme necesită standardizare, având în vedere metodele și tehnologiile variate implicate în implementarea semnăturii digitale.
+   - **Considerații financiare**: <br/>
+   Utilizarea eficientă a semnăturilor digitale implică în mod frecvent achiziționarea de certificate digitale și de software de verificare, ceea ce poate genera costuri substanțiale atât pentru expeditori, cât și pentru destinatari.
 
 <hr/>
 
