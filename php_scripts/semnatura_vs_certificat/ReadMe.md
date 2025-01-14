@@ -25,6 +25,9 @@ Poate vă întrebați cum acționează împreună pentru a îmbunătăți sigura
 - Care este diferența dintre **semnăturile digitale** și **certificatele digitale**?<br/>
 - Ce este o **semnătură digitală**?<br/>
 
+<details>
+  <summary>Ce este o <b><semnătură digitală</b>?</semnătură>summary>
+    
 <hr/>
 
 O semnătură digitală este un tip de semnătură electronică care utilizează o tehnică criptografică pentru a autentifica originea și integritatea documentelor, mesajelor sau programelor informatice digitale. Acesta utilizează un algoritm matematic pentru a genera o amprentă digitală unică, sau “semnătură”, pentru o anumită bucată de date. Această semnătură este individuală pentru expeditor și pentru conținutul semnat, asigurând identitatea expeditorului și garantând că datele rămân intacte în timpul transmiterii.
@@ -37,6 +40,8 @@ Semnăturile din clasa 3 (semnături validate în persoană): Aceste semnături 
 Acum, să vedem cum funcționează pas cu pas.
 
 <hr/>
+
+</details>
 
 Cum funcționează o semnătură digitală?
 Creație: Pentru a semna un document digital, semnatarul creează mai întâi o semnătură digitală unică folosind un algoritm criptografic, așa cum este specificat în standardul de semnătură digitală. Acest algoritm asigură securitatea și unicitatea semnăturii.
