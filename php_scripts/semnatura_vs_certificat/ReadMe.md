@@ -215,7 +215,7 @@ Spre exemplu, iata care este procedura intr-un caz particular de utilitate:<br/>
 
  - 1.Alegeți o autoritate de certificare în funcție de nevoile de securitate și de buget.
  - 2.Generați o [cerere de semnare a certificatului (CSR)](https://www.ssldragon.com/ro/blog/certificate-signing-request-csr/) cu cheile serverului și informațiile despre organizație.
- - 3.Trimiteți CSR la CA pentru a începe procesul de depunere a cererii.
+ - 3.Trimiteți [CSR](https://en.wikipedia.org/wiki/Certificate_signing_request) la CA pentru a începe procesul de depunere a cererii.
  - 4.Așteptați până când CA validează detaliile, inclusiv organizația și proprietatea domeniului.
  - 5.Descărcați și [instalați certificatul emis](https://www.ssldragon.com/ro/how-to/install-ssl-certificate/) pe server.
 
