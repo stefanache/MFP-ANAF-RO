@@ -25,6 +25,9 @@ Poate vă întrebați cum acționează împreună pentru a îmbunătăți sigura
 - Care este diferența dintre **semnăturile digitale** și **certificatele digitale**?<br/>
 - Ce este o **semnătură digitală**?<br/>
 
+Sa le analizam pe rand:
+
+
 <details>
   <summary>Ce este o <b>semnătură digitală</b>?</summary>
     
