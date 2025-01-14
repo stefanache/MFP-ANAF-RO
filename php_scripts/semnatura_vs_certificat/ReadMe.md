@@ -192,7 +192,7 @@ Managementul ciclului de viață al certificatelor: Certificatele digitale au o 
 </details>
 
 <details>
-  <summary>Care este diferența dintre <b>semnăturile digitale</b> și <b>certificatele digitale</b>?</summary>
+  <summary>11.Care este diferența dintre <b>semnăturile digitale</b> și <b>certificatele digitale</b>?</summary>
 
 <hr/>
 
