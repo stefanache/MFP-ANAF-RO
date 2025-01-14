@@ -108,10 +108,19 @@ După cum vedeți, am menționat deja certificatul digital în contextul semnăt
 
 <hr/>
 
-Ce este un certificat digital?
+</details>
+
+<details>
+<summary>Ce este un <b>certificat digital</b>?</summary>
+
+<hr/>
+
 Un certificat digital este un document electronic utilizat pentru a verifica identitatea unei entități, cum ar fi o persoană, un computer, un site web sau o organizație, prin intermediul rețelelor digitale precum internetul. Acesta conține informații despre identitatea entității, cheia publică și semnătura digitală a unei terțe părți de încredere, cunoscută sub numele de autoritate de certificare, care confirmă autenticitatea informațiilor.
 
 <hr/>
+
+</details>
+
 
 Cum funcționează un certificat digital?
 Iată o explicație pas cu pas a modului în care funcționează certificatele digitale:
