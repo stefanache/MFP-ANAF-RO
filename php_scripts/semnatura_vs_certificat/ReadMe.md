@@ -240,10 +240,14 @@ Fără certificate digitale, trimiterea de date în siguranță pe internet nu a
 
 <hr/>
   
-Cost: Majoritatea certificatelor digitale costă în jur de 100 de dolari sau mai puțin, dar unele tipuri sunt mai scumpe. Implementarea și întreținerea acestora poate afecta bugetul dumneavoastră, inclusiv taxele de emitere a certificatelor, configurarea infrastructurii și cheltuielile de gestionare continuă, în special în cazul implementărilor pe scară largă.
-Sofisticare: Gestionarea certificatelor digitale implică complexități, cum ar fi generarea cheilor, reînnoirea certificatelor și [gestionarea revocării](https://www.ssldragon.com/ro/blog/lista-de-revocare-a-certificatelor/), care necesită expertiză specializată.
-Punct unic de eșec: Dependența de o autoritate de certificare centralizată pentru emiterea și validarea certificatelor poate crea un singur punct de eșec, putând perturba sisteme întregi în cazul în care autoritatea de certificare este compromisă.
-Managementul ciclului de viață al certificatelor: Certificatele digitale au o durată de viață limitată și necesită o reînnoire sau înlocuire în timp util pentru a menține continuitatea operațională. Negestionarea eficientă a ciclurilor de viață ale certificatelor poate duce la întreruperi ale serviciilor sau la vulnerabilități de securitate.
+ - **Cost**: <br/>
+ Majoritatea certificatelor digitale costă în jur de 100 de dolari sau mai puțin, dar unele tipuri sunt mai scumpe. Implementarea și întreținerea acestora poate afecta bugetul dumneavoastră, inclusiv taxele de emitere a certificatelor, configurarea infrastructurii și cheltuielile de gestionare continuă, în special în cazul implementărilor pe scară largă.
+ - **Sofisticare**: <br/>
+ Gestionarea certificatelor digitale implică complexități, cum ar fi generarea cheilor, reînnoirea certificatelor și [gestionarea revocării](https://www.ssldragon.com/ro/blog/lista-de-revocare-a-certificatelor/), care necesită expertiză specializată.
+ - **Punct unic de eșec**: <br/>
+ Dependența de o autoritate de certificare centralizată pentru emiterea și validarea certificatelor poate crea un singur punct de eșec, putând perturba sisteme întregi în cazul în care autoritatea de certificare este compromisă.
+ - **Managementul ciclului de viață al certificatelor**: <br/>
+ Certificatele digitale au o durată de viață limitată și necesită o reînnoire sau înlocuire în timp util pentru a menține continuitatea operațională. Negestionarea eficientă a ciclurilor de viață ale certificatelor poate duce la întreruperi ale serviciilor sau la vulnerabilități de securitate.
 
 <hr/>
 
