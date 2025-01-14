@@ -64,7 +64,7 @@ Autentificare: Dacă semnătura decriptată corespunde documentului și dacă ve
 </details>
 
 <details>
-<summary>03.Unde sunt folosite **semnăturile digitale** și cine le folosește?</summary>
+<summary>03.Unde sunt folosite <b>semnăturile digitale</b> și cine le folosește?</summary>
 
 <hr/>
 
