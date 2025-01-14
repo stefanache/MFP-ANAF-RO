@@ -56,9 +56,14 @@ Verificarea integrității: Destinatarul efectuează o verificare a integrităț
 Autentificare: Dacă semnătura decriptată corespunde documentului și dacă verificarea integrității trece, destinatarul poate avea încredere că documentul este autentic și că nu a fost modificat.
 
 <hr/>
+
 </details>
 
-Unde sunt folosite semnăturile digitale și cine le folosește?
+<details>
+<summary>Unde sunt folosite **semnăturile digitale** și cine le folosește?</summary>
+
+<hr/>
+
 Semnăturile digitale sunt adoptate pe scară largă în diverse industrii, de la agenții guvernamentale la corporații private. Acestea reprezintă o alternativă mai sigură la semnăturile electronice tradiționale prin utilizarea unor algoritmi complecși.
 
 Această tehnologie este esențială în sectoarele în care securitatea datelor și dovada identității digitale sunt esențiale. În industria bancară și financiară, semnăturile digitale securizează tranzacțiile și acordurile, în timp ce, în mediul juridic, ele confirmă autenticitatea documentelor legale.
@@ -82,7 +87,16 @@ Complexitatea în gestionarea cheilor: Gestionarea cheilor criptografice și a c
 Probleme de compatibilitate: Compatibilitatea software-ului este crucială, deoarece acesta trebuie să susțină tehnologia specifică de semnătură digitală, adăugând un alt nivel de complexitate la proces.
 Provocări legate de standardizare: Stabilirea unei interacțiuni armonioase între diverse sisteme necesită standardizare, având în vedere metodele și tehnologiile variate implicate în implementarea semnăturii digitale.
 Considerații financiare: Utilizarea eficientă a semnăturilor digitale implică în mod frecvent achiziționarea de certificate digitale și de software de verificare, ceea ce poate genera costuri substanțiale atât pentru expeditori, cât și pentru destinatari.
-Cum să obțineți o semnătură digitală?
+
+<hr/>
+
+</details>
+
+<details>
+<summary>Cum să obțineți o <b>semnătură digitală</b>?</summary>
+  
+<hr/>
+
 Obținerea unei semnături digitale necesită o serie de etape tehnice. Totul începe cu alegerea unei autorități de certificare terță parte. Această selecție inițială este foarte importantă, deoarece fiabilitatea și securitatea semnăturii digitale depind de integritatea AC.
 
 Selectați o autoritate de certificare de încredere: Începeți prin a alege o autoritate de certificare de încredere, cunoscută pentru măsurile sale de securitate solide.
