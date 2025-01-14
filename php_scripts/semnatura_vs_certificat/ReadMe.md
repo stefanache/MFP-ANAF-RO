@@ -198,7 +198,7 @@ Integritatea datelor**: <br/>Asigură că datele rămân neschimbate și nealter
  - **Gestionarea cheilor**: <br/>Facilitează generarea, stocarea și distribuirea în siguranță a cheilor criptografice.
  - **Revocare**: <br/>Permite invalidarea certificatelor în cazul în care acestea sunt compromise sau nu mai sunt demne de încredere.
  - **Conformitate**: <br/>Respectă standardele și reglementările din industrie, cum ar fi X.509, PKCS și GDPR.
- - **Perioada de valabilitate**: <br/>Specifică durata pentru care certificatul este considerat valabil înainte de a fi reînnoit sau reemis.
+ - **Perioada de valabilitate**: <br/>Specifică durata pentru care certificatul este considerat valabil [înainte de a fi reînnoit sau reemis](https://www.ssldragon.com/ro/blog/renew-ssl-certificates/).
 
 <hr/>
 
