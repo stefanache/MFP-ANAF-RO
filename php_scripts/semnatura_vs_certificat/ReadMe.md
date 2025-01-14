@@ -1,7 +1,7 @@
 
 [**Semnătură digitală** vs.(comparatie) **Certificat digita**l – *Cum diferă?*](https://www.ssldragon.com/ro/blog/semnatura-digitala-vs-certificat-digital/#get-digital-signature)
 
-Ultima actualizare pe 28 februarie, 2024 de Dionisie Gitlan(Multumiri!!!)
+Ultima actualizare pe 28 februarie, 2024 de ***Dionisie Gitlan***(*Multumiri!!!*)
 
 **Digital Signature** vs. **Digital Certificate**
 
@@ -9,7 +9,7 @@ Atunci când vă gândiți la securitatea tranzacțiilor online, veți da peste 
 
 Poate vă întrebați cum acționează împreună pentru a îmbunătăți siguranța sau ce le diferențiază. Rămâneți alături de noi pentru a explora diferențele dintre semnătura digitală și certificatul digital, de la modul în care funcționează la utilizarea, beneficiile și limitările acestora. Să începem cu elementele de bază.
 
-Cuprins
+Cuprins(Ce punte sunt atinse)
 
 Ce este o semnătură digitală?
 Cum funcționează o semnătură digitală?
