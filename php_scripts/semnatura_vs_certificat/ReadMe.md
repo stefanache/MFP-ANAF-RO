@@ -173,6 +173,8 @@ Perioada de valabilitate: Specifică durata pentru care certificatul este consid
 <details>
   <summary>10.Cum să obțineți un <b>certificat digital</b>?</summary>
 
+<hr/>
+
 SSL Dragon oferă certificate la prețuri accesibile pentru orice nevoie, de la autentificarea site-urilor web la securitatea e-mailurilor și protecția software-ului. Puteți utiliza Expertul SSL pentru a găsi cel mai bun certificat digital pentru proiectul dumneavoastră. Iată o scurtă trecere în revistă:
 
 Alegeți o autoritate de certificare în funcție de nevoile de securitate și de buget.
