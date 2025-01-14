@@ -181,7 +181,14 @@ Criptare puternică: Certificatele digitale utilizează criptarea AES, un standa
 Autentificare: Oferă un mijloc fiabil de verificare a identității utilizatorilor, dispozitivelor sau entităților implicate în tranzacții online, reducând riscul de uzurpare a identității sau de fraudă.
 Scalabilitate: Certificatele digitale oferă scalabilitate, permițând gestionarea și implementarea eficientă în rețele de mari dimensiuni și în diverse aplicații, fără a compromite securitatea sau performanța.
 Încredere: Certificatele digitale stabilesc încrederea în interacțiunile online prin validarea autenticității părților implicate, permițând un mediu sigur pentru comerțul electronic, comunicare și alte tranzacții digitale.
-Dezavantaje ale certificatului digital
+<hr/>
+</details>
+
+<details>
+<summary>10.Dezavantaje ale <b>certificatului digital</b></summary>
+
+<hr/>
+  
 Cost: Majoritatea certificatelor digitale costă în jur de 100 de dolari sau mai puțin, dar unele tipuri sunt mai scumpe. Implementarea și întreținerea acestora poate afecta bugetul dumneavoastră, inclusiv taxele de emitere a certificatelor, configurarea infrastructurii și cheltuielile de gestionare continuă, în special în cazul implementărilor pe scară largă.
 Sofisticare: Gestionarea certificatelor digitale implică complexități, cum ar fi generarea cheilor, reînnoirea certificatelor și gestionarea revocării, care necesită expertiză specializată.
 Punct unic de eșec: Dependența de o autoritate de certificare centralizată pentru emiterea și validarea certificatelor poate crea un singur punct de eșec, putând perturba sisteme întregi în cazul în care autoritatea de certificare este compromisă.
