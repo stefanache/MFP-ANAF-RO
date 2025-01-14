@@ -166,7 +166,14 @@ Gestionarea cheilor: Facilitează generarea, stocarea și distribuirea în sigur
 Revocare: Permite invalidarea certificatelor în cazul în care acestea sunt compromise sau nu mai sunt demne de încredere.
 Conformitate: Respectă standardele și reglementările din industrie, cum ar fi X.509, PKCS și GDPR.
 Perioada de valabilitate: Specifică durata pentru care certificatul este considerat valabil înainte de a fi reînnoit sau reemis.
-Cum să obțineți un certificat digital?
+
+<hr/>
+
+</details>
+
+<details>
+  <summary>08.Cum să obțineți un <b>certificat digital</b>?</summary>
+
 SSL Dragon oferă certificate la prețuri accesibile pentru orice nevoie, de la autentificarea site-urilor web la securitatea e-mailurilor și protecția software-ului. Puteți utiliza Expertul SSL pentru a găsi cel mai bun certificat digital pentru proiectul dumneavoastră. Iată o scurtă trecere în revistă:
 
 Alegeți o autoritate de certificare în funcție de nevoile de securitate și de buget.
