@@ -209,13 +209,13 @@ Integritatea datelor**: <br/>Asigură că datele rămân neschimbate și nealter
 
 <hr/>
 
-SSL Dragon oferă certificate la prețuri accesibile pentru orice nevoie, de la autentificarea site-urilor web la securitatea e-mailurilor și protecția software-ului. Puteți utiliza Expertul SSL pentru a găsi cel mai bun certificat digital pentru proiectul dumneavoastră. Iată o scurtă trecere în revistă:
+[SSL Dragon](https://www.ssldragon.com/ro/) oferă certificate la prețuri accesibile pentru orice nevoie, de la autentificarea site-urilor web la securitatea e-mailurilor și protecția software-ului. Puteți utiliza [Expertul SSL](https://www.ssldragon.com/ro/ssl-certificates/ssl-wizard/) pentru a găsi cel mai bun certificat digital pentru proiectul dumneavoastră. Iată o scurtă trecere în revistă:
 
 Alegeți o autoritate de certificare în funcție de nevoile de securitate și de buget.
-Generați o cerere de semnare a certificatului (CSR) cu cheile serverului și informațiile despre organizație.
+Generați o [cerere de semnare a certificatului (CSR)](https://www.ssldragon.com/ro/blog/certificate-signing-request-csr/) cu cheile serverului și informațiile despre organizație.
 Trimiteți CSR la CA pentru a începe procesul de depunere a cererii.
 Așteptați până când CA validează detaliile, inclusiv organizația și proprietatea domeniului.
-Descărcați și instalați certificatul emis pe server.
+Descărcați și [instalați certificatul emis](https://www.ssldragon.com/ro/how-to/install-ssl-certificate/) pe server.
 
 <hr/>
 
@@ -228,7 +228,7 @@ Descărcați și instalați certificatul emis pe server.
 
 Fără certificate digitale, trimiterea de date în siguranță pe internet nu ar fi posibilă. Iată care sunt principalele lor beneficii:
 
- - **Criptare puternică**: <br/>Certificatele digitale utilizează criptarea AES, un standard de criptare acceptat pe scară largă și foarte sigur care protejează datele partajate.
+ - **Criptare puternică**: <br/>Certificatele digitale utilizează [criptarea AES](https://www.ssldragon.com/ro/blog/rsa-aes-encryption/), un standard de criptare acceptat pe scară largă și foarte sigur care protejează datele partajate.
  - **Autentificare**: <br/>Oferă un mijloc fiabil de verificare a identității utilizatorilor, dispozitivelor sau entităților implicate în tranzacții online, reducând riscul de uzurpare a identității sau de fraudă.
  - **Scalabilitate**: <br/>Certificatele digitale oferă scalabilitate, permițând gestionarea și implementarea eficientă în rețele de mari dimensiuni și în diverse aplicații, fără a compromite securitatea sau performanța.
  - **Încredere**: <br/>Certificatele digitale stabilesc încrederea în interacțiunile online prin validarea autenticității părților implicate, permițând un mediu sigur pentru comerțul electronic, comunicare și alte tranzacții digitale.
