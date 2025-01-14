@@ -40,12 +40,18 @@ Acum, să vedem cum funcționează pas cu pas.
 
 <hr/>
 
-Creație: Pentru a semna un document digital, semnatarul creează mai întâi o semnătură digitală unică folosind un algoritm criptografic, așa cum este specificat în standardul de semnătură digitală. Acest algoritm asigură securitatea și unicitatea semnăturii.
-Criptare: Semnătura digitală este apoi criptată cu ajutorul cheii private a semnatarului, care face parte dintr-o pereche de chei asociată cu un certificat de semnătură digitală. Acest certificat, emis de o autoritate de certificare de încredere, conține informații despre identitatea și cheia publică a semnatarului.
-Anexă: Semnătura digitală criptată este atașată la documentul digital, fie ca fișier separat, fie integrată în documentul în sine. Acest proces garantează că semnătura este inseparabilă de documentul pe care îl autentifică.
-Verificare: La primirea documentului semnat digital, destinatarul utilizează cheia publică a semnatarului, obținută din certificatul de semnătură digitală, pentru a decripta semnătura. Această etapă verifică autenticitatea semnăturii și asocierea acesteia cu documentul.
-Verificarea integrității: Destinatarul efectuează o verificare a integrității documentului cu ajutorul unei funcții hash. Acesta confirmă faptul că documentul nu a fost modificat de când a fost semnat, menținând astfel integritatea acestuia.
-Autentificare: Dacă semnătura decriptată corespunde documentului și dacă verificarea integrității trece, destinatarul poate avea încredere că documentul este autentic și că nu a fost modificat.
+ - **Creație**:<br/>
+ Pentru a semna un document digital, semnatarul creează mai întâi o semnătură digitală unică folosind un algoritm criptografic, așa cum este specificat în standardul de semnătură digitală. Acest algoritm asigură securitatea și unicitatea semnăturii.
+ - **Criptare**: <br/>
+ Semnătura digitală este apoi criptată cu ajutorul cheii private a semnatarului, care face parte dintr-o pereche de chei asociată cu un certificat de semnătură digitală. Acest certificat, emis de o autoritate de certificare de încredere, conține informații despre identitatea și cheia publică a semnatarului.
+ - **Anexă**:<br/>
+ Semnătura digitală criptată este atașată la documentul digital, fie ca fișier separat, fie integrată în documentul în sine. Acest proces garantează că semnătura este inseparabilă de documentul pe care îl autentifică.
+ - **Verificare**:<br/>
+ La primirea documentului semnat digital, destinatarul utilizează cheia publică a semnatarului, obținută din certificatul de semnătură digitală, pentru a decripta semnătura. Această etapă verifică autenticitatea semnăturii și asocierea acesteia cu documentul.
+ - **Verificarea integrității**:<br/>
+ Destinatarul efectuează o verificare a integrității documentului cu ajutorul unei funcții hash. Acesta confirmă faptul că documentul nu a fost modificat de când a fost semnat, menținând astfel integritatea acestuia.
+ - **Autentificare**: <br/>
+ Dacă semnătura decriptată corespunde documentului și dacă verificarea integrității trece, destinatarul poate avea încredere că documentul este autentic și că nu a fost modificat.
 
 <hr/>
 
