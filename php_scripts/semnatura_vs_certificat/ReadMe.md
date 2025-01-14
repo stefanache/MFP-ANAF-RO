@@ -29,7 +29,7 @@ Semnăturile digitale sunt clasificate după cum urmează:
  - Semnăturile din **clasa 3** (semnături validate în persoană):<br/>
    Aceste semnături sunt acordate după validarea persoanei care depune cererea în persoană, asigurând un nivel mai ridicat de încredere și validare pentru tranzacțiile financiare esențiale, cum ar fi platformele de cumpărături online și licitațiile electronice.
 
-Acum, să vedem cum funcționează pas cu pas.
+
 
 <hr/>
 
@@ -39,6 +39,8 @@ Acum, să vedem cum funcționează pas cu pas.
 <summary>02.Cum funcționează o <b>semnătură digitală</b>?</summary>
 
 <hr/>
+
+Acum, să vedem cum funcționează pas cu pas.
 
  - **Creație**:<br/>
  Pentru a semna un document digital, semnatarul creează mai întâi o semnătură digitală unică folosind un algoritm criptografic, așa cum este specificat în standardul de semnătură digitală. Acest algoritm asigură securitatea și unicitatea semnăturii.
