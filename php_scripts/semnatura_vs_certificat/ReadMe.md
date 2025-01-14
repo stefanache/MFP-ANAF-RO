@@ -23,7 +23,7 @@ Poate vă întrebați cum acționează împreună pentru a îmbunătăți sigura
 - Avantajele **certificatului digital**<br/>
 - Dezavantaje ale **certificatului digital**<br/>
 - Care este diferența dintre **semnăturile digitale** și **certificatele digitale**?<br/>
-- Ce este o **semnătură digitală**?<br/>
+
 
 ***Sa le analizam pe rand:***
 
