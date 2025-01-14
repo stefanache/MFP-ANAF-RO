@@ -1,7 +1,7 @@
 
 [**Semnătură digitală** vs.(comparatie) **Certificat digita**l – *Cum diferă?*](https://www.ssldragon.com/ro/blog/semnatura-digitala-vs-certificat-digital/#get-digital-signature)
 
-Ultima actualizare pe 28 februarie, 2024 de ***Dionisie Gitlan***(*Multumiri!!!*... dar va recomand si acest [MSF-articol](https://support.microsoft.com/ro-ro/office/certificate-%C8%99i-semn%C4%83turi-digitale-8186cd15-e7ac-4a16-8597-22bd163e8e96))
+Ultima actualizare pe 28 februarie, 2024 de ***Dionisie Gitlan***(*Multumiri!!!*... dar va recomand sa cititi si acest [MSF-articol](https://support.microsoft.com/ro-ro/office/certificate-%C8%99i-semn%C4%83turi-digitale-8186cd15-e7ac-4a16-8597-22bd163e8e96))
 
 **Digital Signature** ***vs.*** **Digital Certificate**<br/>
 (cheia privata/secreta care se afla in posesia autorului/ pt.=de scriere/Write) ***vs.*** (document-atestat ce contine cheia publica incredintata/transmisa catre cititor/pt.=de citire/Read)
