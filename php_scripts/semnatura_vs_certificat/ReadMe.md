@@ -161,13 +161,13 @@ Un certificat digital este un document electronic utilizat pentru a verifica ide
 <hr/>  
 Iată o explicație pas cu pas a modului în care funcționează certificatele digitale:
 
-Criptografia cu cheie publică: Certificatele digitale se bazează pe criptografia cu cheie publică. Acest sistem utilizează perechi de chei: o cheie publică și o cheie privată.
-Cheia privată a expeditorului: Atunci când un expeditor dorește să transmită informații în siguranță, acesta își folosește cheia privată pentru a crea o semnătură digitală pentru date. Această semnătură este unică pentru expeditor și pentru datele transmise.
-Cheia publică a expeditorului: Cheia publică a expeditorului este disponibilă pentru oricine are nevoie să verifice identitatea expeditorului sau să decripteze datele criptate cu cheia privată a expeditorului.
-Chei publice și private: Expeditorul își păstrează secretă cheia privată și nu o împărtășește niciodată cu nimeni. Cu toate acestea, aceștia își distribuie gratuit cheia publică altora.
-CA emite certificate digitale: Aceste certificate conțin cheia publică a expeditorului și alte informații de identificare, cum ar fi numele și organizația acestuia.
-Semnătură digitală: AC semnează digital certificatele cu ajutorul cheii sale private, asigurând autenticitatea informațiilor.
-Verificare: Atunci când un destinatar primește date de la expeditor, acesta utilizează cheia publică a expeditorului (obținută din certificatul digital) pentru a verifica semnătura digitală a datelor. În cazul în care semnătura corespunde cheii publice a expeditorului, destinatarul poate fi sigur că datele nu au fost falsificate și că provin într-adevăr de la expeditorul declarat.
+ - **Criptografia cu cheie publică**: <br/>Certificatele digitale se bazează pe criptografia cu cheie publică. Acest sistem utilizează perechi de chei: o cheie publică și o cheie privată.
+ - **Cheia privată a expeditorului**: <br/>Atunci când un expeditor dorește să transmită informații în siguranță, acesta își folosește cheia privată pentru a crea o semnătură digitală pentru date. Această semnătură este unică pentru expeditor și pentru datele transmise.
+ - **Cheia publică a expeditorului**: <br/>Cheia publică a expeditorului este disponibilă pentru oricine are nevoie să verifice identitatea expeditorului sau să decripteze datele criptate cu cheia privată a expeditorului.
+ - **Chei publice și private**: <br/>Expeditorul își păstrează secretă cheia privată și nu o împărtășește niciodată cu nimeni. Cu toate acestea, aceștia își distribuie gratuit cheia publică altora.
+ - **CA emite certificate digitale**: <br/>Aceste certificate conțin cheia publică a expeditorului și alte informații de identificare, cum ar fi numele și organizația acestuia.
+ - **Semnătură digitală**: <br/>AC semnează digital certificatele cu ajutorul cheii sale private, asigurând autenticitatea informațiilor.
+ - **Verificare**: <br/>Atunci când un destinatar primește date de la expeditor, acesta utilizează cheia publică a expeditorului (obținută din certificatul digital) pentru a verifica semnătura digitală a datelor. În cazul în care semnătura corespunde cheii publice a expeditorului, destinatarul poate fi sigur că datele nu au fost falsificate și că provin într-adevăr de la expeditorul declarat.
 
 <hr/>
 
