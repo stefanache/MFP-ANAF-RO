@@ -26,7 +26,7 @@ Poate vă întrebați cum acționează împreună pentru a îmbunătăți sigura
 - Ce este o **semnătură digitală**?<br/>
 
 <details>
-  <summary>Ce este o <b><semnătură digitală</b>?</semnătură>summary>
+  <summary>Ce este o <b>semnătură digitală</b>?</summary>
     
 <hr/>
 
