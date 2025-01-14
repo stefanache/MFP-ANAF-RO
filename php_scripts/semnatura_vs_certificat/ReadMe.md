@@ -159,6 +159,7 @@ Un certificat digital este un document electronic utilizat pentru a verifica ide
 <summary>08.Cum funcționează un <b>certificat digital</b>?</summary>
 
 <hr/>  
+
 Iată o explicație pas cu pas a modului în care funcționează certificatele digitale:
 
  - **Criptografia cu cheie publică**: <br/>Certificatele digitale se bazează pe criptografia cu cheie publică. Acest sistem utilizează perechi de chei: o cheie publică și o cheie privată.
