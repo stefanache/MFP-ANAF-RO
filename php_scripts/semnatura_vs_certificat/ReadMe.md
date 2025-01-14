@@ -127,11 +127,17 @@ Atunci când utilizați semnături digitale, nu protejați doar documentele. De 
 
 Obținerea unei semnături digitale necesită o serie de etape tehnice. Totul începe cu alegerea unei autorități de certificare terță parte. Această selecție inițială este foarte importantă, deoarece fiabilitatea și securitatea semnăturii digitale depind de integritatea AC.
 
-Selectați o autoritate de certificare de încredere: Începeți prin a alege o autoritate de certificare de încredere, cunoscută pentru măsurile sale de securitate solide.
-Verificați identitatea dumneavoastră: Trimiteți documentele necesare pentru a confirma identitatea dumneavoastră sau a organizației dumneavoastră în vederea validării.
-Generarea perechii de chei: Utilizați un software criptografic, cum ar fi OpenSSL, pentru a genera o cheie privată și una publică – esențiale pentru crearea și verificarea semnăturii digitale.
-Obțineți semnătura digitală: Autoritatea de certificare emite un certificat de semnătură digitală, care face legătura între identitatea dumneavoastră și cheia dumneavoastră publică. Asigură autenticitatea semnăturilor digitale.
-Instalare și utilizare: Instalați certificatul de semnătură digitală pe serverul sau aplicația dumneavoastră pentru a semna digital documentele în siguranță.
+ - **Selectați o autoritate de certificare de încredere**: <br/>
+ Începeți prin a alege o autoritate de certificare de încredere, cunoscută pentru măsurile sale de securitate solide.
+ - **Verificați identitatea dumneavoastră**: <br/>
+Trimiteți documentele necesare pentru a confirma identitatea dumneavoastră sau a organizației dumneavoastră în vederea validării.
+ - **Generarea perechii de chei**: <br/>
+Utilizați un software criptografic, cum ar fi OpenSSL, pentru a genera o cheie privată și una publică – esențiale pentru crearea și verificarea semnăturii digitale.
+ - **Obțineți semnătura digitală**: <br/>
+Autoritatea de certificare emite un certificat de semnătură digitală, care face legătura între identitatea dumneavoastră și cheia dumneavoastră publică. Asigură autenticitatea semnăturilor digitale.
+ - **Instalare și utilizare**: <br/>
+Instalați certificatul de semnătură digitală pe serverul sau aplicația dumneavoastră pentru a semna digital documentele în siguranță.
+
 După cum vedeți, am menționat deja certificatul digital în contextul semnăturilor digitale, deoarece acestea fac parte dintr-un sistem mai mare care protejează datele digitale. În secțiunile următoare, vom discuta despre certificatele digitale.
 
 <hr/>
