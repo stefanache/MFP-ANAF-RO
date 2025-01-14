@@ -208,14 +208,15 @@ Integritatea datelor**: <br/>Asigură că datele rămân neschimbate și nealter
   <summary>10.Cum să obțineți un <b>certificat digital</b>?</summary>
 
 <hr/>
+Spre exemplu, iata care este procedura intr-un caz particular de utilitate: 
 
 [SSL Dragon](https://www.ssldragon.com/ro/) oferă certificate la prețuri accesibile pentru orice nevoie, de la autentificarea site-urilor web la securitatea e-mailurilor și protecția software-ului. Puteți utiliza [Expertul SSL](https://www.ssldragon.com/ro/ssl-certificates/ssl-wizard/) pentru a găsi cel mai bun certificat digital pentru proiectul dumneavoastră. Iată o scurtă trecere în revistă:
 
-Alegeți o autoritate de certificare în funcție de nevoile de securitate și de buget.
-Generați o [cerere de semnare a certificatului (CSR)](https://www.ssldragon.com/ro/blog/certificate-signing-request-csr/) cu cheile serverului și informațiile despre organizație.
-Trimiteți CSR la CA pentru a începe procesul de depunere a cererii.
-Așteptați până când CA validează detaliile, inclusiv organizația și proprietatea domeniului.
-Descărcați și [instalați certificatul emis](https://www.ssldragon.com/ro/how-to/install-ssl-certificate/) pe server.
+ - 1.Alegeți o autoritate de certificare în funcție de nevoile de securitate și de buget.
+ - 2.Generați o [cerere de semnare a certificatului (CSR)](https://www.ssldragon.com/ro/blog/certificate-signing-request-csr/) cu cheile serverului și informațiile despre organizație.
+ - 3.Trimiteți CSR la CA pentru a începe procesul de depunere a cererii.
+ - 4.Așteptați până când CA validează detaliile, inclusiv organizația și proprietatea domeniului.
+ - 5.Descărcați și [instalați certificatul emis](https://www.ssldragon.com/ro/how-to/install-ssl-certificate/) pe server.
 
 <hr/>
 
