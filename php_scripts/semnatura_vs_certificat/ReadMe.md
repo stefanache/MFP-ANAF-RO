@@ -11,25 +11,26 @@ Atunci când vă gândiți la ***securitatea tranzacțiilor online***, veți da 
 Poate vă întrebați cum acționează împreună pentru a îmbunătăți siguranța sau ce le diferențiază. Rămâneți alături de noi pentru a explora diferențele dintre **semnătura digitală** și **certificatul digital**, de la modul în care funcționează la utilizarea, beneficiile și limitările acestora. Să începem cu elementele de bază.
 
 ***Cuprins***<br/>
-(Ce puncte sunt atinse?)
+(Ce puncte sunt atinse/discutate?)
 
-- Ce este o **semnătură digitală**?<br/>
-- Cum funcționează o **semnătură digitală**?<br/>
-- Unde sunt folosite **semnăturile digitale** și cine le folosește?<br/>
-- Cum să obțineți o **semnătură digitală**?<br/>
-- Ce este un **certificat digital**?<br/>
-- Unde sunt folosite **certificatele digitale** și cine le folosește?<br/>
-- Cum să obțineți un **certificat digital**?<br/>
-- Avantajele **certificatului digital**<br/>
-- Dezavantaje ale **certificatului digital**<br/>
-- Care este diferența dintre **semnăturile digitale** și **certificatele digitale**?<br/>
+- 1.Ce este o **semnătură digitală**?<br/>
+- 2.Cum funcționează o **semnătură digitală**?<br/>
+- 3.Unde sunt folosite **semnăturile digitale** și cine le folosește?<br/>
+- 4.Cum să obțineți o **semnătură digitală**?<br/>
+- 5.Ce este un **certificat digital**?<br/>
+- 6.Cum funcționează un <b>certificat digital</b>?
+- 7.Unde sunt folosite **certificatele digitale** și cine le folosește?<br/>
+- 8.Cum să obțineți un **certificat digital**?<br/>
+- 9.Avantajele **certificatului digital**<br/>
+- 10.Dezavantaje ale **certificatului digital**<br/>
+- 11.Care este diferența dintre **semnăturile digitale** și **certificatele digitale**?<br/>
 
 
 ***Sa le analizam pe rand:***
 
 
 <details>
-  <summary>Ce este o <b>semnătură digitală</b>?</summary>
+  <summary>1.Ce este o <b>semnătură digitală</b>?</summary>
     
 <hr/>
 
@@ -47,7 +48,7 @@ Acum, să vedem cum funcționează pas cu pas.
 </details>
 
 <details>
-<summary>Cum funcționează o <b>semnătură digitală</b>?</summary>
+<summary>2.Cum funcționează o <b>semnătură digitală</b>?</summary>
 
 <hr/>
 
@@ -63,7 +64,7 @@ Autentificare: Dacă semnătura decriptată corespunde documentului și dacă ve
 </details>
 
 <details>
-<summary>Unde sunt folosite **semnăturile digitale** și cine le folosește?</summary>
+<summary>3.Unde sunt folosite **semnăturile digitale** și cine le folosește?</summary>
 
 <hr/>
 
@@ -96,7 +97,7 @@ Considerații financiare: Utilizarea eficientă a semnăturilor digitale implic�
 </details>
 
 <details>
-<summary>Cum să obțineți o <b>semnătură digitală</b>?</summary>
+<summary>4.Cum să obțineți o <b>semnătură digitală</b>?</summary>
   
 <hr/>
 
@@ -114,7 +115,7 @@ După cum vedeți, am menționat deja certificatul digital în contextul semnăt
 </details>
 
 <details>
-<summary>Ce este un <b>certificat digital</b>?</summary>
+<summary>5.Ce este un <b>certificat digital</b>?</summary>
 
 <hr/>
 
@@ -125,7 +126,7 @@ Un certificat digital este un document electronic utilizat pentru a verifica ide
 </details>
 
 <details>
-<summary>Cum funcționează un <b>certificat digital</b>?</summary>
+<summary>6.Cum funcționează un <b>certificat digital</b>?</summary>
 
 <hr/>  
 Iată o explicație pas cu pas a modului în care funcționează certificatele digitale:
