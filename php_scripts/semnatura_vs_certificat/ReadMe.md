@@ -174,7 +174,16 @@ Generați o cerere de semnare a certificatului (CSR) cu cheile serverului și in
 Trimiteți CSR la CA pentru a începe procesul de depunere a cererii.
 Așteptați până când CA validează detaliile, inclusiv organizația și proprietatea domeniului.
 Descărcați și instalați certificatul emis pe server.
-Avantajele certificatului digital
+
+<hr/>
+
+</details>
+
+<details>
+  <summary>09.Avantajele <b>certificatului digital</b></summary>
+
+<hr/>
+
 Fără certificate digitale, trimiterea de date în siguranță pe internet nu ar fi posibilă. Iată care sunt principalele lor beneficii:
 
 Criptare puternică: Certificatele digitale utilizează criptarea AES, un standard de criptare acceptat pe scară largă și foarte sigur care protejează datele partajate.
