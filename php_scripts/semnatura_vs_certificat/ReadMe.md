@@ -3,7 +3,8 @@
 
 Ultima actualizare pe 28 februarie, 2024 de ***Dionisie Gitlan***(*Multumiri!!!*... dar va recomand si acest [MSF-articol](https://support.microsoft.com/ro-ro/office/certificate-%C8%99i-semn%C4%83turi-digitale-8186cd15-e7ac-4a16-8597-22bd163e8e96))
 
-**Digital Signature**(cheia privata/secreta de autor/scriere/Write) ***vs.*** **Digital Certificate**(document ce contine cheia publica pt cititor/de citire(Read)
+**Digital Signature** ***vs.*** **Digital Certificate**
+(cheia privata/secreta de autor/scriere/Write) ***vs.*** (document-atestat ce contine cheia publica pt cititor/de citire(Read)
 
 Atunci când vă gândiți la securitatea tranzacțiilor online, veți da peste semnături și certificate digitale. Aceste elemente reprezintă coloana vertebrală a protecției datelor sensibile.
 
