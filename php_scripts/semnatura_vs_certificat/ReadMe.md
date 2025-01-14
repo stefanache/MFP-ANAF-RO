@@ -74,7 +74,15 @@ Această tehnologie este esențială în sectoarele în care securitatea datelor
 
 Furnizorii de servicii medicale utilizează semnăturile digitale pentru a proteja dosarele pacienților, iar entitățile guvernamentale le folosesc pentru a securiza documentele oficiale și pentru a simplifica procesele administrative. În plus, o semnătură digitală protejează activele digitale ale tuturor tipurilor de întreprinderi. Adoptarea acestora evidențiază accentul pus pe integritatea, eficiența și conformitatea datelor în tranzacțiile electronice.
 
-Avantajele semnăturilor digitale
+<hr/>
+
+</details>
+
+<details>
+  <summary>04.Avantajele <b>semnăturilor digitale</b></summary>
+
+<hr/>
+
 Prin utilizarea criptografiei, semnăturile digitale vă securizează datele, făcând practic imposibilă modificarea conținutului unui document de către părți neautorizate fără a fi detectate. Această caracteristică fundamentală a integrității datelor înseamnă că puteți avea încredere că informațiile prezentate într-un document semnat digital sunt exact așa cum a intenționat semnatarul.
 
 Atunci când utilizați semnături digitale, nu protejați doar documentele. De asemenea, simplificați procedurile și îmbunătățiți securitatea generală. Iată câteva beneficii cheie:
@@ -85,7 +93,14 @@ Legitimitate juridică: În multe jurisdicții, semnăturile digitale au acelaș
 Securitate sporită: Caracteristici precum marcarea timpului și identificarea unică a semnatarului adaugă niveluri de securitate care depășesc ceea ce este posibil cu documentele fizice.
 Acceptare globală: Semnăturile digitale sunt recunoscute și acceptate pe scară largă dincolo de frontiere, facilitând tranzacțiile comerciale internaționale.
 Respectarea reglementărilor: Semnăturile digitale ajută organizațiile să respecte diverse cerințe de reglementare legate de autentificarea și integritatea documentelor, cum ar fi GDPR în Uniunea Europeană sau HIPAA în sectorul sănătății.
-Dezavantaje ale semnăturilor digitale
+
+<hr/>
+</details>
+
+<details>
+  <summary>05.Dezavantaje ale <b>semnăturilor digitale</b></summary>
+
+<hr/>  
 Complexitatea în gestionarea cheilor: Gestionarea cheilor criptografice și a certificatelor reprezintă o provocare, necesitând resurse și expertiză suplimentare pentru a asigura o implementare corectă.
 Încrederea în infrastructura tehnologică: Semnăturile digitale depind de infrastructura de chei publice (Public Key Infrastructure – PKI), inclusiv de platforme sigure și autorități de certificare de încredere, care pot fi dificil de stabilit și de menținut în medii diferite.
 Probleme de compatibilitate: Compatibilitatea software-ului este crucială, deoarece acesta trebuie să susțină tehnologia specifică de semnătură digitală, adăugând un alt nivel de complexitate la proces.
@@ -97,7 +112,7 @@ Considerații financiare: Utilizarea eficientă a semnăturilor digitale implic�
 </details>
 
 <details>
-<summary>04.Cum să obțineți o <b>semnătură digitală</b>?</summary>
+<summary>06.Cum să obțineți o <b>semnătură digitală</b>?</summary>
   
 <hr/>
 
@@ -115,7 +130,7 @@ După cum vedeți, am menționat deja certificatul digital în contextul semnăt
 </details>
 
 <details>
-<summary>05.Ce este un <b>certificat digital</b>?</summary>
+<summary>07.Ce este un <b>certificat digital</b>?</summary>
 
 <hr/>
 
@@ -126,7 +141,7 @@ Un certificat digital este un document electronic utilizat pentru a verifica ide
 </details>
 
 <details>
-<summary>06.Cum funcționează un <b>certificat digital</b>?</summary>
+<summary>08.Cum funcționează un <b>certificat digital</b>?</summary>
 
 <hr/>  
 Iată o explicație pas cu pas a modului în care funcționează certificatele digitale:
@@ -144,7 +159,7 @@ Verificare: Atunci când un destinatar primește date de la expeditor, acesta ut
 </details>
 
 <details>
-<summary>07.Unde sunt folosite <b>certificatele digitale</b> și cine le folosește?</summary>  
+<summary>09.Unde sunt folosite <b>certificatele digitale</b> și cine le folosește?</summary>  
 
 <hr/>
 
@@ -172,7 +187,7 @@ Perioada de valabilitate: Specifică durata pentru care certificatul este consid
 </details>
 
 <details>
-  <summary>08.Cum să obțineți un <b>certificat digital</b>?</summary>
+  <summary>10.Cum să obțineți un <b>certificat digital</b>?</summary>
 
 SSL Dragon oferă certificate la prețuri accesibile pentru orice nevoie, de la autentificarea site-urilor web la securitatea e-mailurilor și protecția software-ului. Puteți utiliza Expertul SSL pentru a găsi cel mai bun certificat digital pentru proiectul dumneavoastră. Iată o scurtă trecere în revistă:
 
@@ -187,7 +202,7 @@ Descărcați și instalați certificatul emis pe server.
 </details>
 
 <details>
-  <summary>09.Avantajele <b>certificatului digital</b></summary>
+  <summary>11.Avantajele <b>certificatului digital</b></summary>
 
 <hr/>
 
@@ -201,7 +216,7 @@ Scalabilitate: Certificatele digitale oferă scalabilitate, permițând gestiona
 </details>
 
 <details>
-<summary>10.Dezavantaje ale <b>certificatului digital</b></summary>
+<summary>12.Dezavantaje ale <b>certificatului digital</b></summary>
 
 <hr/>
   
@@ -215,7 +230,7 @@ Managementul ciclului de viață al certificatelor: Certificatele digitale au o 
 </details>
 
 <details>
-  <summary>11.Care este diferența dintre <b>semnăturile digitale</b> și <b>certificatele digitale</b>?</summary>
+  <summary>13.Care este diferența dintre <b>semnăturile digitale</b> și <b>certificatele digitale</b>?</summary>
 
 <hr/>
 
