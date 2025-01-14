@@ -13,7 +13,7 @@ Poate vă întrebați cum acționează împreună pentru a îmbunătăți sigura
 ***Cuprins***<br/>
 (Ce puncte sunt atinse?)
 
- - Ce este o **semnătură digitală**?<br/>
+- Ce este o **semnătură digitală**?<br/>
 - Cum funcționează o **semnătură digitală**?<br/>
 - Unde sunt folosite **semnăturile digitale** și cine le folosește?<br/>
 - Cum să obțineți o **semnătură digitală**?<br/>
@@ -25,7 +25,9 @@ Poate vă întrebați cum acționează împreună pentru a îmbunătăți sigura
 - Care este diferența dintre **semnăturile digitale** și **certificatele digitale**?<br/>
 - Ce este o **semnătură digitală**?<br/>
 
-O semnă tură digitală este un tip de semnătură electronică care utilizează o tehnică criptografică pentru a autentifica originea și integritatea documentelor, mesajelor sau programelor informatice digitale. Acesta utilizează un algoritm matematic pentru a genera o amprentă digitală unică, sau “semnătură”, pentru o anumită bucată de date. Această semnătură este individuală pentru expeditor și pentru conținutul semnat, asigurând identitatea expeditorului și garantând că datele rămân intacte în timpul transmiterii.
+<hr/>
+
+O semnătură digitală este un tip de semnătură electronică care utilizează o tehnică criptografică pentru a autentifica originea și integritatea documentelor, mesajelor sau programelor informatice digitale. Acesta utilizează un algoritm matematic pentru a genera o amprentă digitală unică, sau “semnătură”, pentru o anumită bucată de date. Această semnătură este individuală pentru expeditor și pentru conținutul semnat, asigurând identitatea expeditorului și garantând că datele rămân intacte în timpul transmiterii.
 
 Semnăturile digitale sunt clasificate după cum urmează:
 
@@ -33,6 +35,8 @@ Semnături de clasa 1 (semnături de e-mail): Aceste semnături verifică legăt
 Semnăturile din clasa 2 (semnături bazate pe identitate): Acest tip de semnătură validează identificarea unei persoane prin compararea acesteia cu o bază de date verificată în prealabil.
 Semnăturile din clasa 3 (semnături validate în persoană): Aceste semnături sunt acordate după validarea persoanei care depune cererea în persoană, asigurând un nivel mai ridicat de încredere și validare pentru tranzacțiile financiare esențiale, cum ar fi platformele de cumpărături online și licitațiile electronice.
 Acum, să vedem cum funcționează pas cu pas.
+
+<hr/>
 
 Cum funcționează o semnătură digitală?
 Creație: Pentru a semna un document digital, semnatarul creează mai întâi o semnătură digitală unică folosind un algoritm criptografic, așa cum este specificat în standardul de semnătură digitală. Acest algoritm asigură securitatea și unicitatea semnăturii.
@@ -75,8 +79,12 @@ Obțineți semnătura digitală: Autoritatea de certificare emite un certificat 
 Instalare și utilizare: Instalați certificatul de semnătură digitală pe serverul sau aplicația dumneavoastră pentru a semna digital documentele în siguranță.
 După cum vedeți, am menționat deja certificatul digital în contextul semnăturilor digitale, deoarece acestea fac parte dintr-un sistem mai mare care protejează datele digitale. În secțiunile următoare, vom discuta despre certificatele digitale.
 
+<hr/>
+
 Ce este un certificat digital?
 Un certificat digital este un document electronic utilizat pentru a verifica identitatea unei entități, cum ar fi o persoană, un computer, un site web sau o organizație, prin intermediul rețelelor digitale precum internetul. Acesta conține informații despre identitatea entității, cheia publică și semnătura digitală a unei terțe părți de încredere, cunoscută sub numele de autoritate de certificare, care confirmă autenticitatea informațiilor.
+
+<hr/>
 
 Cum funcționează un certificat digital?
 Iată o explicație pas cu pas a modului în care funcționează certificatele digitale:
@@ -127,7 +135,11 @@ Cost: Majoritatea certificatelor digitale costă în jur de 100 de dolari sau ma
 Sofisticare: Gestionarea certificatelor digitale implică complexități, cum ar fi generarea cheilor, reînnoirea certificatelor și gestionarea revocării, care necesită expertiză specializată.
 Punct unic de eșec: Dependența de o autoritate de certificare centralizată pentru emiterea și validarea certificatelor poate crea un singur punct de eșec, putând perturba sisteme întregi în cazul în care autoritatea de certificare este compromisă.
 Managementul ciclului de viață al certificatelor: Certificatele digitale au o durată de viață limitată și necesită o reînnoire sau înlocuire în timp util pentru a menține continuitatea operațională. Negestionarea eficientă a ciclurilor de viață ale certificatelor poate duce la întreruperi ale serviciilor sau la vulnerabilități de securitate.
+
+<hr/>
+
 Care este diferența dintre semnăturile digitale și certificatele digitale?
+
 Semnăturile digitale și certificatele funcționează în tandem pentru a asigura autenticitatea și integritatea documentelor sau a comunicațiilor electronice, dar au scopuri diferite.
 
 O semnătură digitală este ca o amprentă digitală virtuală care identifică în mod unic expeditorul mesajului sau autorul documentului. Acesta este creat cu ajutorul unui algoritm criptografic atașat la document sau mesaj. Atunci când cineva semnează un document digital, el formează o reprezentare matematică a documentului, care îi este unică.
@@ -138,7 +150,10 @@ Pe de altă parte, un certificat digital este ca o carte de identitate digitală
 
 Atunci când cineva primește un document semnat digital, poate folosi certificatul digital al semnatarului pentru a verifica autenticitatea semnăturii. Acest lucru este posibil deoarece certificatul digital este emis de o autoritate de certificare de încredere, ceea ce înseamnă că informațiile pe care le conține au fost verificate și că se poate avea încredere în ele.
 
-Concluzie
+<hr/>
+
+***Concluzie***
+
 Acum că ați înțeles diferența dintre semnătura digitală și certificatul digital, sunteți echipat pentru a distinge rolurile lor specifice în securitatea cibernetică. Semnăturile digitale verifică originea și integritatea datelor, în timp ce certificatele digitale validează identitatea părților în cadrul comunicațiilor online. Aceste cunoștințe vă permit să implementați măsuri de securitate eficiente și să reduceți cu încredere riscurile cibernetice.
 
 Economisește 10% la certificatele SSL în momentul plasării comenzii!
