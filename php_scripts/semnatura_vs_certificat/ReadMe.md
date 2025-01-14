@@ -276,6 +276,4 @@ Atunci când cineva primește un document semnat digital, poate folosi certifica
 
 Acum că ați înțeles diferența dintre semnătura digitală și certificatul digital, sunteți echipat pentru a distinge rolurile lor specifice în securitatea cibernetică. Semnăturile digitale verifică originea și integritatea datelor, în timp ce certificatele digitale validează identitatea părților în cadrul comunicațiilor online. Aceste cunoștințe vă permit să implementați măsuri de securitate eficiente și să reduceți cu încredere riscurile cibernetice.
 
-Economisește 10% la certificatele SSL în momentul plasării comenzii!
-Eliberare rapidă, criptare puternică, încredere în browser de 99,99%, suport dedicat și garanție de returnare a banilor în 25 de zile. Codul cuponului: SAVE10
 
