@@ -113,7 +113,7 @@ Atunci când utilizați semnături digitale, nu protejați doar documentele. De 
  Compatibilitatea software-ului este crucială, deoarece acesta trebuie să susțină tehnologia specifică de semnătură digitală, adăugând un alt nivel de complexitate la proces.
  - **Provocări legate de standardizare**: <br/>
  Stabilirea unei interacțiuni armonioase între diverse sisteme necesită standardizare, având în vedere metodele și tehnologiile variate implicate în implementarea semnăturii digitale.
-   - **Considerații financiare**: <br/>
+ - **Considerații financiare**: <br/>
    Utilizarea eficientă a semnăturilor digitale implică în mod frecvent achiziționarea de certificate digitale și de software de verificare, ceea ce poate genera costuri substanțiale atât pentru expeditori, cât și pentru destinatari.
 
 <hr/>
