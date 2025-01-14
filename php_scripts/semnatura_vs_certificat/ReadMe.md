@@ -181,22 +181,24 @@ Iată o explicație pas cu pas a modului în care funcționează certificatele d
 
 Exemplele de mai jos ilustrează diversele industrii și entități care se bazează pe certificatele digitale pentru a stabili tranzacții și comunicații online sigure.
 
-Browsere de site-uri web: Browsere precum Google Chrome, Mozilla Firefox, Microsoft Edge și Apple Safari utilizează certificate digitale, cunoscute și sub numele de certificate SSL, pentru a verifica identitatea site-urilor web, pentru a stabili conexiuni sigure, pentru a afișa indicatori de securitate pentru utilizatori și pentru a-i avertiza cu privire la riscurile potențiale.
-Securitatea e-mailurilor: Certificatele digitale, în special certificatele S/MIME, sunt utilizate pentru a cripta e-mailurile trimise între utilizatori, asigurând că numai destinatarii pot accesa conținutul mesajelor.
-Site-uri de comerț electronic: Site-uri precum Amazon, eBay și Shopify utilizează certificate digitale pentru a securiza tranzacțiile online, asigurându-se că informațiile dumneavoastră personale și financiare rămân confidențiale în timpul achizițiilor.
-Dispozitive IoT: Dispozitivele Internet of Things (IoT), cum ar fi termostatele inteligente, camerele de securitate și dispozitivele purtabile, utilizează certificate digitale pentru a stabili conexiuni sigure cu alte dispozitive sau servere, protejând datele transmise prin rețea.
-Furnizori de VPN: Rețeaua privată virtuală (VPN ) utilizează certificate digitale pentru a autentifica și cripta conexiunile dintre dispozitivele utilizatorilor și serverele VPN, asigurând confidențialitatea și securitatea în timpul navigării pe internet.
-Companii de software: Dezvoltatorii folosesc certificate de semnare a codurilor pentru a-și semna aplicațiile software, asigurând astfel utilizatorii că produsele descărcate sunt autentice.
+ - **Browsere de site-uri web: Browsere precum Google Chrome, Mozilla Firefox, Microsoft Edge și Apple Safari utilizează certificate digitale, cunoscute și sub numele de certificate SSL, pentru a verifica identitatea site-urilor web, pentru a stabili conexiuni sigure, pentru a afișa indicatori de securitate pentru utilizatori și pentru a-i avertiza cu privire la riscurile potențiale.
+ - **Securitatea e-mailurilor: Certificatele digitale, în special certificatele S/MIME, sunt utilizate pentru a cripta e-mailurile trimise între utilizatori, asigurând că numai destinatarii pot accesa conținutul mesajelor.
+ - **Site-uri de comerț electronic: Site-uri precum Amazon, eBay și Shopify utilizează certificate digitale pentru a securiza tranzacțiile online, asigurându-se că informațiile dumneavoastră personale și financiare rămân confidențiale în timpul achizițiilor.
+ - **Dispozitive IoT: Dispozitivele Internet of Things (IoT), cum ar fi termostatele inteligente, camerele de securitate și dispozitivele purtabile, utilizează certificate digitale pentru a stabili conexiuni sigure cu alte dispozitive sau servere, protejând datele transmise prin rețea.
+ - **Furnizori de VPN: Rețeaua privată virtuală (VPN ) utilizează certificate digitale pentru a autentifica și cripta conexiunile dintre dispozitivele utilizatorilor și serverele VPN, asigurând confidențialitatea și securitatea în timpul navigării pe internet.
+ - **Companii de software: Dezvoltatorii folosesc certificate de semnare a codurilor pentru a-și semna aplicațiile software, asigurând astfel utilizatorii că produsele descărcate sunt autentice.
+
 Caracteristicile certificatelor digitale
+
 Iată o listă a celor mai importante caracteristici ale unui certificat digital:
 
-Autentificare: Verifică identitatea persoanelor, a dispozitivelor sau a entităților în cadrul tranzacțiilor online.
-Integritatea datelor: Asigură că datele rămân neschimbate și nealterate în timpul transmiterii.
-Criptare: Protejează datele prin transformarea lor într-un format ilizibil care poate fi decriptat numai cu ajutorul cheii private corespunzătoare.
-Gestionarea cheilor: Facilitează generarea, stocarea și distribuirea în siguranță a cheilor criptografice.
-Revocare: Permite invalidarea certificatelor în cazul în care acestea sunt compromise sau nu mai sunt demne de încredere.
-Conformitate: Respectă standardele și reglementările din industrie, cum ar fi X.509, PKCS și GDPR.
-Perioada de valabilitate: Specifică durata pentru care certificatul este considerat valabil înainte de a fi reînnoit sau reemis.
+ - **Autentificare**: <br/>Verifică identitatea persoanelor, a dispozitivelor sau a entităților în cadrul tranzacțiilor online.
+Integritatea datelor**: <br/>Asigură că datele rămân neschimbate și nealterate în timpul transmiterii.
+ - **Criptare**: <br/>Protejează datele prin transformarea lor într-un format ilizibil care poate fi decriptat numai cu ajutorul cheii private corespunzătoare.
+ - **Gestionarea cheilor**: <br/>Facilitează generarea, stocarea și distribuirea în siguranță a cheilor criptografice.
+ - **Revocare**: <br/>Permite invalidarea certificatelor în cazul în care acestea sunt compromise sau nu mai sunt demne de încredere.
+ - **Conformitate**: <br/>Respectă standardele și reglementările din industrie, cum ar fi X.509, PKCS și GDPR.
+ - **Perioada de valabilitate**: <br/>Specifică durata pentru care certificatul este considerat valabil înainte de a fi reînnoit sau reemis.
 
 <hr/>
 
