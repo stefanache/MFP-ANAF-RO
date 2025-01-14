@@ -208,7 +208,8 @@ Integritatea datelor**: <br/>Asigură că datele rămân neschimbate și nealter
   <summary>10.Cum să obțineți un <b>certificat digital</b>?</summary>
 
 <hr/>
-Spre exemplu, iata care este procedura intr-un caz particular de utilitate: 
+
+Spre exemplu, iata care este procedura intr-un caz particular de utilitate:<br/> 
 
 [SSL Dragon](https://www.ssldragon.com/ro/) oferă certificate la prețuri accesibile pentru orice nevoie, de la autentificarea site-urilor web la securitatea e-mailurilor și protecția software-ului. Puteți utiliza [Expertul SSL](https://www.ssldragon.com/ro/ssl-certificates/ssl-wizard/) pentru a găsi cel mai bun certificat digital pentru proiectul dumneavoastră. Iată o scurtă trecere în revistă:
 
