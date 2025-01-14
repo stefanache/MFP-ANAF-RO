@@ -228,10 +228,10 @@ Descărcați și instalați certificatul emis pe server.
 
 Fără certificate digitale, trimiterea de date în siguranță pe internet nu ar fi posibilă. Iată care sunt principalele lor beneficii:
 
-Criptare puternică: Certificatele digitale utilizează criptarea AES, un standard de criptare acceptat pe scară largă și foarte sigur care protejează datele partajate.
-Autentificare: Oferă un mijloc fiabil de verificare a identității utilizatorilor, dispozitivelor sau entităților implicate în tranzacții online, reducând riscul de uzurpare a identității sau de fraudă.
-Scalabilitate: Certificatele digitale oferă scalabilitate, permițând gestionarea și implementarea eficientă în rețele de mari dimensiuni și în diverse aplicații, fără a compromite securitatea sau performanța.
-Încredere: Certificatele digitale stabilesc încrederea în interacțiunile online prin validarea autenticității părților implicate, permițând un mediu sigur pentru comerțul electronic, comunicare și alte tranzacții digitale.
+ - **Criptare puternică**: <br/>Certificatele digitale utilizează criptarea AES, un standard de criptare acceptat pe scară largă și foarte sigur care protejează datele partajate.
+ - **Autentificare**: <br/>Oferă un mijloc fiabil de verificare a identității utilizatorilor, dispozitivelor sau entităților implicate în tranzacții online, reducând riscul de uzurpare a identității sau de fraudă.
+ - **Scalabilitate**: <br/>Certificatele digitale oferă scalabilitate, permițând gestionarea și implementarea eficientă în rețele de mari dimensiuni și în diverse aplicații, fără a compromite securitatea sau performanța.
+ - **Încredere**: <br/>Certificatele digitale stabilesc încrederea în interacțiunile online prin validarea autenticității părților implicate, permițând un mediu sigur pentru comerțul electronic, comunicare și alte tranzacții digitale.
 <hr/>
 </details>
 
