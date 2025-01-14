@@ -17,8 +17,8 @@ Poate vă întrebați cum acționează împreună pentru a îmbunătăți sigura
 - 02.Cum funcționează o **semnătură digitală**?<br/>
 - 03.Unde sunt folosite **semnăturile digitale** și cine le folosește?<br/>
 - 04.Cum să obțineți o **semnătură digitală**?<br/>
-- 05.Avantajele **semnăturii digitale**?<br/>
-- 06.Dezvantaje ale **semnăturii digitale**?<br/>
+- 05.Avantajele **semnăturilor digitale**?<br/>
+- 06.Dezvantaje ale **semnăturilor digitale**?<br/>
 - 07.Ce este un **certificat digital**?<br/>
 - 08.Cum funcționează un <b>certificat digital</b>?
 - 09.Unde sunt folosite **certificatele digitale** și cine le folosește?<br/>
