@@ -6,7 +6,7 @@ Ultima actualizare pe 28 februarie, 2024 de ***Dionisie Gitlan***(*Multumiri!!!*
 **Digital Signature** ***vs.*** **Digital Certificate**<br/>
 (cheia privata/secreta care se afla in posesia autorului/ pt.=de scriere/Write) ***vs.*** (document-atestat ce contine cheia publica incredintata/transmisa catre cititor/pt.=de citire/Read)
 
-Atunci când vă gândiți la securitatea tranzacțiilor online, veți da peste semnături și certificate digitale. Aceste elemente reprezintă coloana vertebrală a protecției datelor sensibile.
+Atunci când vă gândiți la ***securitatea tranzacțiilor online***, veți da peste **semnături** și **certificate digitale**. Aceste elemente reprezintă coloana vertebrală a ***protecției datelor sensibile***.
 
 Poate vă întrebați cum acționează împreună pentru a îmbunătăți siguranța sau ce le diferențiază. Rămâneți alături de noi pentru a explora diferențele dintre semnătura digitală și certificatul digital, de la modul în care funcționează la utilizarea, beneficiile și limitările acestora. Să începem cu elementele de bază.
 
