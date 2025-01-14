@@ -190,7 +190,10 @@ Managementul ciclului de viață al certificatelor: Certificatele digitale au o 
 
 </details>
 
-Care este diferența dintre semnăturile digitale și certificatele digitale?
+<details>
+  <summary>Care este diferența dintre <b>semnăturile digitale</b> și <b>certificatele digitale</b>?</summary>
+
+<hr/>
 
 Semnăturile digitale și certificatele funcționează în tandem pentru a asigura autenticitatea și integritatea documentelor sau a comunicațiilor electronice, dar au scopuri diferite.
 
@@ -203,6 +206,8 @@ Pe de altă parte, un certificat digital este ca o carte de identitate digitală
 Atunci când cineva primește un document semnat digital, poate folosi certificatul digital al semnatarului pentru a verifica autenticitatea semnăturii. Acest lucru este posibil deoarece certificatul digital este emis de o autoritate de certificare de încredere, ceea ce înseamnă că informațiile pe care le conține au fost verificate și că se poate avea încredere în ele.
 
 <hr/>
+
+</details>
 
 ***Concluzie***
 
