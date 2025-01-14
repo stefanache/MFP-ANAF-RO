@@ -10,19 +10,21 @@ Atunci când vă gândiți la ***securitatea tranzacțiilor online***, veți da 
 
 Poate vă întrebați cum acționează împreună pentru a îmbunătăți siguranța sau ce le diferențiază. Rămâneți alături de noi pentru a explora diferențele dintre **semnătura digitală** și **certificatul digital**, de la modul în care funcționează la utilizarea, beneficiile și limitările acestora. Să începem cu elementele de bază.
 
-***Cuprins***<br/>(Ce puncte sunt atinse?)
+***Cuprins***<br/>
+(Ce puncte sunt atinse?)
 
-Ce este o semnătură digitală?
-Cum funcționează o semnătură digitală?
-Unde sunt folosite semnăturile digitale și cine le folosește?
-Cum să obțineți o semnătură digitală?
-Ce este un certificat digital?
-Unde sunt folosite certificatele digitale și cine le folosește?
-Cum să obțineți un certificat digital?
-Avantajele certificatului digital
-Dezavantaje ale certificatului digital
-Care este diferența dintre semnăturile digitale și certificatele digitale?
-Ce este o semnătură digitală?
+ - Ce este o **semnătură digitală**?<br/>
+- Cum funcționează o **semnătură digitală**?<br/>
+- Unde sunt folosite **semnăturile digitale** și cine le folosește?<br/>
+- Cum să obțineți o **semnătură digitală**?<br/>
+- Ce este un **certificat digital**?<br/>
+- Unde sunt folosite **certificatele digitale** și cine le folosește?<br/>
+- Cum să obțineți un **certificat digital**?<br/>
+- Avantajele **certificatului digital**<br/>
+- Dezavantaje ale **certificatului digital**<br/>
+- Care este diferența dintre **semnăturile digitale** și **certificatele digitale**?<br/>
+- Ce este o **semnătură digitală**?<br/>
+
 O semnă tură digitală este un tip de semnătură electronică care utilizează o tehnică criptografică pentru a autentifica originea și integritatea documentelor, mesajelor sau programelor informatice digitale. Acesta utilizează un algoritm matematic pentru a genera o amprentă digitală unică, sau “semnătură”, pentru o anumită bucată de date. Această semnătură este individuală pentru expeditor și pentru conținutul semnat, asigurând identitatea expeditorului și garantând că datele rămân intacte în timpul transmiterii.
 
 Semnăturile digitale sunt clasificate după cum urmează:
