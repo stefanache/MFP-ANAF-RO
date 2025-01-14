@@ -142,7 +142,11 @@ Verificare: Atunci când un destinatar primește date de la expeditor, acesta ut
 
 </details>
 
-Unde sunt folosite certificatele digitale și cine le folosește?
+<details>
+<summary>Unde sunt folosite <b>certificatele digitale</b> și cine le folosește?</summary>  
+
+<hr/>
+
 Exemplele de mai jos ilustrează diversele industrii și entități care se bazează pe certificatele digitale pentru a stabili tranzacții și comunicații online sigure.
 
 Browsere de site-uri web: Browsere precum Google Chrome, Mozilla Firefox, Microsoft Edge și Apple Safari utilizează certificate digitale, cunoscute și sub numele de certificate SSL, pentru a verifica identitatea site-urilor web, pentru a stabili conexiuni sigure, pentru a afișa indicatori de securitate pentru utilizatori și pentru a-i avertiza cu privire la riscurile potențiale.
@@ -183,6 +187,8 @@ Punct unic de eșec: Dependența de o autoritate de certificare centralizată pe
 Managementul ciclului de viață al certificatelor: Certificatele digitale au o durată de viață limitată și necesită o reînnoire sau înlocuire în timp util pentru a menține continuitatea operațională. Negestionarea eficientă a ciclurilor de viață ale certificatelor poate duce la întreruperi ale serviciilor sau la vulnerabilități de securitate.
 
 <hr/>
+
+</details>
 
 Care este diferența dintre semnăturile digitale și certificatele digitale?
 
