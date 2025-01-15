@@ -67,11 +67,11 @@ Acum, să vedem cum funcționează pas cu pas.
  - ***Creație***:<br/>
  Pentru a semna un document digital, semnatarul creează mai întâi o **semnătură digitală** unică folosind un [algoritm criptografic](https://www.ssldragon.com/ro/blog/encryption-types-algorithms/), așa cum este specificat în standardul de **semnătură digitală**. <br/>Acest algoritm asigură securitatea și unicitatea semnăturii.
  - ***Criptare***: <br/>
- **Semnătura digitală** este apoi [criptată](https://www.ssldragon.com/ro/blog/what-is-encryption/) cu ajutorul [cheii private](https://www.ssldragon.com/ro/blog/cheie-privata-ssl/) a semnatarului, care face parte dintr-o pereche de chei(cheia privata/de scriere si cheia publica/de citire) asociată cu un certificat de **semnătură digitală**. <br/>Acest certificat, emis de o [autoritate de certificare](https://www.ssldragon.com/ro/blog/certificate-authority/) de încredere, conține informații despre identitatea și [cheia publică](https://www.ssldragon.com/ro/blog/public-key-cryptography/) a semnatarului.
+ **Semnătura digitală** este apoi [criptată](https://www.ssldragon.com/ro/blog/what-is-encryption/) cu ajutorul [cheii private](https://www.ssldragon.com/ro/blog/cheie-privata-ssl/) a semnatarului, care face parte dintr-o pereche de chei(cheia privata/de scriere si cheia publica/de citire) asociată cu un ***certificat*** de **semnătură digitală**. <br/>Acest ***certificat***, emis de o [autoritate de certificare](https://www.ssldragon.com/ro/blog/certificate-authority/) de încredere, conține informații despre identitatea și [cheia publică](https://www.ssldragon.com/ro/blog/public-key-cryptography/) a semnatarului.
  - ***Anexare***:<br/>
 **Semnătura digitală** criptată este atașată(anexată) la documentul digital, fie ca fișier separat, fie integrată în documentul în sine. <br/>Acest proces garantează că semnătura este inseparabilă de documentul pe care îl autentifică.
  - ***Verificare***:<br/>
- La primirea documentului semnat digital, destinatarul utilizează cheia publică a semnatarului, obținută din certificatul de **semnătură digitală**, pentru a decripta semnătura. <br/>Această etapă verifică autenticitatea semnăturii și asocierea acesteia cu documentul.
+ La primirea documentului semnat digital, destinatarul utilizează cheia publică a semnatarului, obținută din ***certificatul*** de **semnătură digitală**, pentru a decripta semnătura. <br/>Această etapă verifică autenticitatea semnăturii și asocierea acesteia cu documentul.
  - ***Verificarea integrității***:<br/>
  Destinatarul efectuează o verificare a integrității documentului cu ajutorul unei funcții hash. <br/>Acesta confirmă faptul că documentul nu a fost modificat de când a fost semnat, menținând astfel integritatea acestuia.
  - ***Autentificare***: <br/>
@@ -128,7 +128,7 @@ Atunci când utilizați **semnături digitale**, nu protejați doar documentele.
 <hr/> 
 
  - ***Complexitatea în gestionarea cheilo*r**: <br/>
- Gestionarea cheilor criptografice și a certificatelor reprezintă o provocare, necesitând resurse și expertiză suplimentare pentru a asigura o implementare corectă.
+ Gestionarea cheilor criptografice și a ***certificatelor*** reprezintă o provocare, necesitând resurse și expertiză suplimentare pentru a asigura o implementare corectă.
  - ***Încrederea în infrastructura tehnologică***: <br/>
  **Semnăturile digitale** depind de [infrastructura de chei publice (Public Key Infrastructure – PKI)](https://www.ssldragon.com/ro/blog/public-key-infrastructure/), inclusiv de platforme sigure și autorități de certificare de încredere, care pot fi dificil de stabilit și de menținut în medii diferite.
  - ***Probleme de compatibilitate***: <br/>
@@ -156,11 +156,11 @@ Trimiteți documentele necesare pentru a confirma identitatea dumneavoastră sau
  - ***Generarea perechii de chei***: <br/>
 Utilizați un software criptografic, cum ar fi [OpenSSL](https://www.ssldragon.com/ro/blog/what-is-openssl/), pentru a genera o cheie privată și una publică – esențiale pentru crearea și verificarea **semnăturii digitale**.
  - ***Obțineți semnătura digitală***: <br/>
-Autoritatea de certificare(AC) emite un certificat de **semnătură digitală**, care face legătura între identitatea dumneavoastră și cheia dumneavoastră publică. Asigură autenticitatea **semnăturilor digitale**.
+Autoritatea de certificare(AC) emite un ***certificat*** de **semnătură digitală**, care face legătura între identitatea dumneavoastră și cheia dumneavoastră publică. Asigură autenticitatea **semnăturilor digitale**.
  - ***Instalare și utilizare***: <br/>
-Instalați certificatul de **semnătură digitală** pe serverul sau aplicația dumneavoastră pentru a semna digital documentele în siguranță.
+Instalați ***certificatul*** de **semnătură digitală** pe serverul sau aplicația dumneavoastră pentru a semna digital documentele în siguranță.
 
-După cum vedeți, am menționat deja certificatul digital în contextul **semnăturilor digitale**, deoarece acestea fac parte dintr-un sistem mai mare care protejează datele digitale. <br/>
+După cum vedeți, am menționat deja ***certificatul digital*** în contextul **semnăturilor digitale**, deoarece acestea fac parte dintr-un sistem mai mare care protejează datele digitale. <br/>
 
 <hr/>
 
@@ -186,13 +186,13 @@ Un **certificat digital** este un document electronic utilizat pentru a verifica
 
 Iată o explicație pas cu pas a modului în care funcționează **certificatele digitale**:
 
- - **Criptografia cu cheie publică**: <br/>Certificatele digitale se bazează pe [criptografia cu cheie publică](https://www.ssldragon.com/ro/blog/public-key-cryptography/). Acest sistem utilizează perechi de chei: o cheie publică și o cheie privată.
- - **Cheia privată a expeditorului**: <br/>Atunci când un expeditor dorește să transmită informații în siguranță, acesta își folosește cheia privată pentru a crea o **semnătură digitală** pentru date. <br/>Această semnătură este unică pentru expeditor și pentru datele transmise.
- - **Cheia publică a expeditorului**: <br/>Cheia publică a expeditorului este disponibilă pentru oricine are nevoie să verifice identitatea expeditorului sau să decripteze datele criptate cu cheia privată a expeditorului.
- - **Chei publice și private**: <br/>Expeditorul își păstrează secretă cheia privată și nu o împărtășește niciodată cu nimeni. Cu toate acestea, aceștia își distribuie gratuit cheia publică altora.
- - **CA emite certificate digitale**: <br/>Aceste certificate conțin cheia publică a expeditorului și alte informații de identificare, cum ar fi numele și organizația acestuia.
- - **Semnătură digitală**: <br/>AC semnează digital certificatele cu ajutorul cheii sale private, asigurând autenticitatea informațiilor.
- - **Verificare**: <br/>Atunci când un destinatar primește date de la expeditor, acesta utilizează cheia publică a expeditorului (obținută din certificatul digital) pentru a verifica semnătura digitală a datelor. În cazul în care semnătura corespunde cheii publice a expeditorului, destinatarul poate fi sigur că datele nu au fost falsificate și că provin într-adevăr de la expeditorul declarat.
+ - ***Criptografia cu cheie publică***: <br/>**Certificatele digitale** se bazează pe [criptografia cu cheie publică](https://www.ssldragon.com/ro/blog/public-key-cryptography/). Acest sistem utilizează perechi de chei: o cheie publică și o cheie privată.
+ - ***Cheia privată a expeditorului***: <br/>Atunci când un expeditor dorește să transmită informații în siguranță, acesta își folosește cheia privată pentru a crea o **semnătură digitală** pentru date. <br/>Această semnătură este unică pentru expeditor și pentru datele transmise.
+ - ***Cheia publică a expeditorului***: <br/>Cheia publică a expeditorului este disponibilă pentru oricine are nevoie să verifice identitatea expeditorului sau să decripteze datele criptate cu cheia privată a expeditorului.
+ - ***Chei publice*** și ***Chei private***: <br/>Expeditorul își păstrează secretă cheia privată și nu o împărtășește niciodată cu nimeni. <br/>Cu toate acestea, aceștia își distribuie gratuit cheia publică altora.
+ - ***CA emite certificate digitale***: <br/>Aceste **certificate** conțin cheia publică a expeditorului și alte informații de identificare, cum ar fi numele și organizația acestuia.
+ - ***Semnătură digitală***: <br/>AC semnează digital **certificatele** cu ajutorul cheii sale private, asigurând autenticitatea informațiilor.
+ - ***Verificare***: <br/>Atunci când un destinatar primește date de la expeditor, acesta utilizează cheia publică a expeditorului (obținută din **certificatul digital**) pentru a verifica ***semnătura digitală*** a datelor. <br/>În cazul în care semnătura corespunde cheii publice a expeditorului, destinatarul poate fi sigur că datele nu au fost falsificate și că provin într-adevăr de la expeditorul declarat.
 
 <hr/>
 
@@ -203,26 +203,26 @@ Iată o explicație pas cu pas a modului în care funcționează **certificatele
 
 <hr/>
 
-Exemplele de mai jos ilustrează diversele industrii și entități care se bazează pe certificatele digitale pentru a stabili tranzacții și comunicații online sigure.
+Exemplele de mai jos ilustrează diversele industrii și entități care se bazează pe **certificatele digitale** pentru a stabili tranzacții și comunicații online sigure.
 
- - **Browsere de site-uri web**: <br/>Browsere precum Google Chrome, Mozilla Firefox, Microsoft Edge și Apple Safari utilizează **certificate digitale**, cunoscute și sub numele de [certificate SSL](https://www.ssldragon.com/ro/blog/what-is-ssl-certificate/), pentru a verifica identitatea site-urilor web, pentru a stabili conexiuni sigure, pentru a afișa indicatori de securitate pentru utilizatori și pentru a-i avertiza cu privire la riscurile potențiale.
- - **Securitatea e-mailurilor**: <br/>Certificatele digitale, în special [certificatele S/MIME](https://www.ssldragon.com/ro/blog/ce-este-certificat-s-mime/), sunt utilizate pentru a cripta e-mailurile trimise între utilizatori, asigurând că numai destinatarii pot accesa conținutul mesajelor.
- - **Site-uri de comerț electronic**: <br/>Site-uri precum Amazon, eBay și Shopify utilizează **certificate digitale** pentru a securiza tranzacțiile online, asigurându-se că informațiile dumneavoastră personale și financiare rămân confidențiale în timpul achizițiilor.
- - **Dispozitive IoT**: <br/>Dispozitivele [Internet of Things (IoT)](https://www.ssldragon.com/ro/blog/iot-device-certificate/), cum ar fi termostatele inteligente, camerele de securitate și dispozitivele purtabile, utilizează **certificate digitale** pentru a stabili conexiuni sigure cu alte dispozitive sau servere, protejând datele transmise prin rețea.
- - **Furnizori de VPN**: <br/>[Rețeaua privată virtuală (VPN )](https://www.ssldragon.com/ro/blog/https-vs-vpn/) utilizează **certificate digitale** pentru a autentifica și cripta conexiunile dintre dispozitivele utilizatorilor și serverele VPN, asigurând confidențialitatea și securitatea în timpul navigării pe internet.
- - **Companii de software**: <br/>Dezvoltatorii folosesc [certificate de semnare a codurilor](https://www.ssldragon.com/ro/blog/what-is-code-signing-certificate/) pentru a-și semna aplicațiile software, asigurând astfel utilizatorii că produsele descărcate sunt autentice.
+ - ***Browsere de site-uri web***: <br/>Browsere precum Google Chrome, Mozilla Firefox, Microsoft Edge și Apple Safari utilizează **certificate digitale**, cunoscute și sub numele de [certificate SSL](https://www.ssldragon.com/ro/blog/what-is-ssl-certificate/), pentru a verifica identitatea site-urilor web, pentru a stabili conexiuni sigure, pentru a afișa indicatori de securitate pentru utilizatori și pentru a-i avertiza cu privire la riscurile potențiale.
+ - ***Securitatea e-mailurilor***: <br/>**Certificatele digitale**, în special [certificatele S/MIME](https://www.ssldragon.com/ro/blog/ce-este-certificat-s-mime/), sunt utilizate pentru a cripta e-mailurile trimise între utilizatori, asigurând că numai destinatarii pot accesa conținutul mesajelor.
+ - ***Site-uri de comerț electronic***: <br/>Site-uri precum Amazon, eBay și Shopify utilizează **certificate digitale** pentru a securiza tranzacțiile online, asigurându-se că informațiile dumneavoastră personale și financiare rămân confidențiale în timpul achizițiilor.
+ - ***Dispozitive IoT***: <br/>Dispozitivele [Internet of Things (IoT)](https://www.ssldragon.com/ro/blog/iot-device-certificate/), cum ar fi termostatele inteligente, camerele de securitate și dispozitivele purtabile, utilizează **certificate digitale** pentru a stabili conexiuni sigure cu alte dispozitive sau servere, protejând datele transmise prin rețea.
+ - ***Furnizori de VPN***: <br/>[Rețeaua privată virtuală (VPN )](https://www.ssldragon.com/ro/blog/https-vs-vpn/) utilizează **certificate digitale** pentru a autentifica și cripta conexiunile dintre dispozitivele utilizatorilor și serverele VPN, asigurând confidențialitatea și securitatea în timpul navigării pe internet.
+ - ***Companii de software***: <br/>Dezvoltatorii folosesc [certificate de semnare a codurilor](https://www.ssldragon.com/ro/blog/what-is-code-signing-certificate/) pentru a-și semna aplicațiile software, asigurând astfel utilizatorii că produsele descărcate sunt autentice.
 
-Caracteristicile certificatelor digitale
+Caracteristicile **certificatelor digitale**
 
 Iată o listă a celor mai importante caracteristici ale unui **certificat digital**:
 
- - **Autentificare**: <br/>Verifică identitatea persoanelor, a dispozitivelor sau a entităților în cadrul tranzacțiilor online.
+ - ***Autentificare***: <br/>Verifică identitatea persoanelor, a dispozitivelor sau a entităților în cadrul tranzacțiilor online.
 Integritatea datelor**: <br/>Asigură că datele rămân neschimbate și nealterate în timpul transmiterii.
- - **Criptare**: <br/>Protejează datele prin transformarea lor într-un format ilizibil care poate fi decriptat numai cu ajutorul cheii private corespunzătoare.
- - **Gestionarea cheilor**: <br/>Facilitează generarea, stocarea și distribuirea în siguranță a cheilor criptografice.
- - **Revocare**: <br/>Permite invalidarea certificatelor în cazul în care acestea sunt compromise sau nu mai sunt demne de încredere.
- - **Conformitate**: <br/>Respectă standardele și reglementările din industrie, cum ar fi [X.509](https://www.ssldragon.com/ro/blog/ce-este-un-certificat-x-509/), [PKCS](https://en.wikipedia.org/wiki/PKCS) și [GDPR](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation).
- - **Perioada de valabilitate**: <br/>Specifică durata pentru care certificatul este considerat valabil [înainte de a fi reînnoit sau reemis](https://www.ssldragon.com/ro/blog/renew-ssl-certificates/).
+ - ***Criptare***: <br/>Protejează datele prin transformarea lor într-un format ilizibil care poate fi decriptat numai cu ajutorul cheii private corespunzătoare.
+ - ***Gestionarea cheilor***: <br/>Facilitează generarea, stocarea și distribuirea în siguranță a cheilor criptografice.
+ - ***Revocare***: <br/>Permite invalidarea **certificatelor** în cazul în care acestea sunt compromise sau nu mai sunt demne de încredere.
+ - ***Conformitate***: <br/>Respectă standardele și reglementările din industrie, cum ar fi [X.509](https://www.ssldragon.com/ro/blog/ce-este-un-certificat-x-509/), [PKCS](https://en.wikipedia.org/wiki/PKCS) și [GDPR](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation).
+ - ***Perioada de valabilitate***: <br/>Specifică durata pentru care **certificatul** este considerat valabil [înainte de a fi reînnoit sau reemis](https://www.ssldragon.com/ro/blog/renew-ssl-certificates/).
 
 <hr/>
 
@@ -233,9 +233,9 @@ Integritatea datelor**: <br/>Asigură că datele rămân neschimbate și nealter
 
 <hr/>
 
-Spre exemplu, iata care este procedura intr-un caz particular de utilitate:<br/> 
+Spre exemplu, iata care este procedura/oferta intr-un caz particular de utilitate:<br/> 
 
-[SSL Dragon](https://www.ssldragon.com/ro/) oferă certificate la prețuri accesibile pentru orice nevoie, de la autentificarea site-urilor web la securitatea e-mailurilor și protecția software-ului. <br/>Puteți utiliza [Expertul SSL](https://www.ssldragon.com/ro/ssl-certificates/ssl-wizard/) pentru a găsi cel mai bun **certificat digital** pentru proiectul dumneavoastră. Iată o scurtă trecere în revistă:
+[SSL Dragon](https://www.ssldragon.com/ro/) oferă **certificate** la prețuri accesibile pentru orice nevoie, de la autentificarea site-urilor web la securitatea e-mailurilor și protecția software-ului. <br/>Puteți utiliza [Expertul SSL](https://www.ssldragon.com/ro/ssl-certificates/ssl-wizard/) pentru a găsi cel mai bun **certificat digital** pentru proiectul dumneavoastră. Iată o scurtă trecere în revistă:
 
  - 1.Alegeți o autoritate de certificare în funcție de nevoile de securitate și de buget.
  - 2.Generați o [cerere de semnare a certificatului (CSR)](https://www.ssldragon.com/ro/blog/certificate-signing-request-csr/) cu cheile serverului și informațiile despre organizație.
@@ -252,12 +252,12 @@ Spre exemplu, iata care este procedura intr-un caz particular de utilitate:<br/>
 
 <hr/>
 
-Fără **certificate digitale**, trimiterea de date în siguranță pe internet nu ar fi posibilă. Iată care sunt principalele lor beneficii:
+Fără **certificate digitale***, trimiterea de date în siguranță pe internet nu ar fi posibilă. Iată care sunt principalele lor beneficii:
 
- - **Criptare puternică**: <br/>Certificatele digitale utilizează [criptarea AES](https://www.ssldragon.com/ro/blog/rsa-aes-encryption/), un standard de criptare acceptat pe scară largă și foarte sigur care protejează datele partajate.
- - **Autentificare**: <br/>Oferă un mijloc fiabil de verificare a identității utilizatorilor, dispozitivelor sau entităților implicate în tranzacții online, reducând riscul de uzurpare a identității sau de fraudă.
- - **Scalabilitate**: <br/>Certificatele digitale oferă scalabilitate, permițând gestionarea și implementarea eficientă în rețele de mari dimensiuni și în diverse aplicații, fără a compromite securitatea sau performanța.
- - **Încredere**: <br/>Certificatele digitale stabilesc încrederea în interacțiunile online prin validarea autenticității părților implicate, permițând un mediu sigur pentru comerțul electronic, comunicare și alte tranzacții digitale.
+ - ***Criptare puternică***: <br/>**Certificatele digitale** utilizează [criptarea AES](https://www.ssldragon.com/ro/blog/rsa-aes-encryption/), un standard de criptare acceptat pe scară largă și foarte sigur care protejează datele partajate.
+ - ***Autentificare***: <br/>Oferă un mijloc fiabil de verificare a identității utilizatorilor, dispozitivelor sau entităților implicate în tranzacții online, reducând riscul de uzurpare a identității sau de fraudă.
+ - ***Scalabilitate***: <br/>**Certificatele digitale** oferă scalabilitate, permițând gestionarea și implementarea eficientă în rețele de mari dimensiuni și în diverse aplicații, fără a compromite securitatea sau performanța.
+ - ***Încredere***: <br/>**Certificatele digitale** stabilesc încrederea în interacțiunile online prin validarea autenticității părților implicate, permițând un mediu sigur pentru comerțul electronic, comunicare și alte tranzacții digitale.
 <hr/>
 </details>
 
