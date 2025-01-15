@@ -20,7 +20,30 @@ Un [articol](https://codfiscal.net/7702/ce-este-semnatura-digitala-electronica) 
 
 [<img src="https://codfiscal.net/media/800px-Digital_Signature_diagram.svg_-768x576.png.webp">Digital-Signature diagram</img>](Digital_Signature_diagram)
 
+Iata aici, cateva lucruri interesante care pot fi consultate in aceasta postare:
+
+...
+
+O **semnatura electronica extinsa** trebuie sa indeplineasca cumulativ, urmatoarele conditii:
+1. Este legata in mod unic de semnatar.
+2. Asigura identificarea semnatarului.
+3. Este creata prin mijloace controlate exclusiv de semnatar.
+4. Este legata de documentul in forma electronica la care se raporteaza in asa fel incat orice modificare a documentului, ulterioara semnarii, sa duca automat la invalidarea semnaturii.
+
+...
+
+**Semnatura digitala** se bazeaza pe trei algoritmi:
+– Algoritmul de selectare aleatoare a unei chei private care se va asocia unei chei publice
+– Algoritmul de semnare care, aplicat unei chei private si unui document digital, genereaza semnatura digitala
+– Algoritmul de verificare a semnaturii digitale, care aplicat cheii publice si semnaturii digitale, accepta sau respinge mesajul de conformitate.
+
+**Certificatul digital calificat** emis asigura „identitatea virtuala” a posesorului si permite crearea de semnatura electronica cu valoare legala (extinsa), permitand identificarea fara echivoc, in baza garantarii integritatii, autenticitatii si nerepudierii mesajelor si documentelor electronice.
+
+...
+
 Tot in acest articol veti regasi si o comparatie intre **semnatura electronica**(avand drept suport un dispozitiv digital de memorare/persistenta) si semnatura holografa(avand drept suport hartia).
+
+...
 
 ***Nota:*** <br/>Asadar in acest moment, trebuie retinut, dintr-o perspectiva generala/abstracta/sintetica, doar [<img href="http://codfiscal.net/media/800px-Digital_Signature_diagram.svg_-510x382.png">modul de semnare si verificare a documentului digital semnat electronic</img>](https://codfiscal.net/media/800px-Digital_Signature_diagram.svg_-510x382.png)!
 
