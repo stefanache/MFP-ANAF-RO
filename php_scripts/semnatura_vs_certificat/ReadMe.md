@@ -156,7 +156,7 @@ Trimiteți documentele necesare pentru a confirma identitatea dumneavoastră sau
  - ***Generarea perechii de chei***: <br/>
 Utilizați un software criptografic, cum ar fi [OpenSSL](https://www.ssldragon.com/ro/blog/what-is-openssl/), pentru a genera o cheie privată și una publică – esențiale pentru crearea și verificarea **semnăturii digitale**.
  - ***Obțineți semnătura digitală***: <br/>
-Autoritatea de certificare(AC) emite un ***certificat*** de **semnătură digitală**, care face legătura între identitatea dumneavoastră și cheia dumneavoastră publică. Asigură autenticitatea **semnăturilor digitale**.
+Autoritatea de certificare(AC) emite un ***certificat*** de **semnătură digitală**, care face legătura între identitatea dumneavoastră și cheia dumneavoastră publică. <br/>Asigură autenticitatea **semnăturilor digitale**.
  - ***Instalare și utilizare***: <br/>
 Instalați ***certificatul*** de **semnătură digitală** pe serverul sau aplicația dumneavoastră pentru a semna digital documentele în siguranță.
 
