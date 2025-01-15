@@ -164,7 +164,7 @@ După cum vedeți, am menționat deja certificatul digital în contextul **semn�
 
 </details>
 
-În secțiunile următoare, vom discuta despre certificatele digitale.
+*În secțiunile următoare, vom discuta despre **certificatele digitale**.*
 
 <details>
 <summary>07.Ce este un <b>certificat digital</b>?</summary>
@@ -212,7 +212,7 @@ Exemplele de mai jos ilustrează diversele industrii și entități care se baze
 
 Caracteristicile certificatelor digitale
 
-Iată o listă a celor mai importante caracteristici ale unui certificat digital:
+Iată o listă a celor mai importante caracteristici ale unui **certificat digital**:
 
  - **Autentificare**: <br/>Verifică identitatea persoanelor, a dispozitivelor sau a entităților în cadrul tranzacțiilor online.
 Integritatea datelor**: <br/>Asigură că datele rămân neschimbate și nealterate în timpul transmiterii.
@@ -233,7 +233,7 @@ Integritatea datelor**: <br/>Asigură că datele rămân neschimbate și nealter
 
 Spre exemplu, iata care este procedura intr-un caz particular de utilitate:<br/> 
 
-[SSL Dragon](https://www.ssldragon.com/ro/) oferă certificate la prețuri accesibile pentru orice nevoie, de la autentificarea site-urilor web la securitatea e-mailurilor și protecția software-ului. Puteți utiliza [Expertul SSL](https://www.ssldragon.com/ro/ssl-certificates/ssl-wizard/) pentru a găsi cel mai bun certificat digital pentru proiectul dumneavoastră. Iată o scurtă trecere în revistă:
+[SSL Dragon](https://www.ssldragon.com/ro/) oferă certificate la prețuri accesibile pentru orice nevoie, de la autentificarea site-urilor web la securitatea e-mailurilor și protecția software-ului. <br/>Puteți utiliza [Expertul SSL](https://www.ssldragon.com/ro/ssl-certificates/ssl-wizard/) pentru a găsi cel mai bun **certificat digital** pentru proiectul dumneavoastră. Iată o scurtă trecere în revistă:
 
  - 1.Alegeți o autoritate de certificare în funcție de nevoile de securitate și de buget.
  - 2.Generați o [cerere de semnare a certificatului (CSR)](https://www.ssldragon.com/ro/blog/certificate-signing-request-csr/) cu cheile serverului și informațiile despre organizație.
@@ -288,7 +288,7 @@ O **semnătură digitală** este ca o amprentă digitală virtuală care identif
 
 Această semnătură poate fi verificată de oricine care utilizează cheia publică a semnatarului, asigurându-se că documentul nu a fost modificat și că provine de la expeditorul declarat.
 
-Pe de altă parte, un certificat digital este ca o carte de identitate digitală emisă de o AC. <br/>Acesta conține informații despre deținătorul certificatului, cum ar fi denumirea comercială și cheia publică, și este utilizat pentru a verifica proprietatea și identitatea.
+Pe de altă parte, un **certificat digital** este ca o carte de identitate digitală emisă de o AC. <br/>Acesta conține informații despre deținătorul certificatului, cum ar fi denumirea comercială și cheia publică, și este utilizat pentru a verifica proprietatea și identitatea.
 
 Atunci când cineva primește un document semnat digital, poate folosi certificatul digital al semnatarului pentru a verifica autenticitatea semnăturii. <br/>Acest lucru este posibil deoarece **certificatul digital** este emis de o autoritate de certificare de încredere, ceea ce înseamnă că informațiile pe care le conține au fost verificate și că se poate avea încredere în ele.
 
