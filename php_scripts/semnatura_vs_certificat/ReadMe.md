@@ -134,7 +134,7 @@ Atunci când utilizați **semnături digitale**, nu protejați doar documentele.
  - ***Provocări legate de standardizare***: <br/>
  Stabilirea unei interacțiuni armonioase între diverse sisteme necesită standardizare, având în vedere metodele și tehnologiile variate implicate în implementarea **semnăturii digitale**.
  - ***Considerații financiare***: <br/>
-   Utilizarea eficientă a **semnăturilor digitale** implică în mod frecvent achiziționarea de certificate digitale și de software de verificare, ceea ce poate genera costuri substanțiale atât pentru expeditori, cât și pentru destinatari.
+   Utilizarea eficientă a **semnăturilor digitale** implică în mod frecvent achiziționarea de **certificate digitale** și de software de verificare, ceea ce poate genera costuri substanțiale atât pentru expeditori, cât și pentru destinatari.
 
 <hr/>
 
@@ -203,11 +203,11 @@ Iată o explicație pas cu pas a modului în care funcționează **certificatele
 
 Exemplele de mai jos ilustrează diversele industrii și entități care se bazează pe certificatele digitale pentru a stabili tranzacții și comunicații online sigure.
 
- - **Browsere de site-uri web**: <br/>Browsere precum Google Chrome, Mozilla Firefox, Microsoft Edge și Apple Safari utilizează certificate digitale, cunoscute și sub numele de [certificate SSL](https://www.ssldragon.com/ro/blog/what-is-ssl-certificate/), pentru a verifica identitatea site-urilor web, pentru a stabili conexiuni sigure, pentru a afișa indicatori de securitate pentru utilizatori și pentru a-i avertiza cu privire la riscurile potențiale.
+ - **Browsere de site-uri web**: <br/>Browsere precum Google Chrome, Mozilla Firefox, Microsoft Edge și Apple Safari utilizează **certificate digitale**, cunoscute și sub numele de [certificate SSL](https://www.ssldragon.com/ro/blog/what-is-ssl-certificate/), pentru a verifica identitatea site-urilor web, pentru a stabili conexiuni sigure, pentru a afișa indicatori de securitate pentru utilizatori și pentru a-i avertiza cu privire la riscurile potențiale.
  - **Securitatea e-mailurilor**: <br/>Certificatele digitale, în special [certificatele S/MIME](https://www.ssldragon.com/ro/blog/ce-este-certificat-s-mime/), sunt utilizate pentru a cripta e-mailurile trimise între utilizatori, asigurând că numai destinatarii pot accesa conținutul mesajelor.
- - **Site-uri de comerț electronic**: <br/>Site-uri precum Amazon, eBay și Shopify utilizează certificate digitale pentru a securiza tranzacțiile online, asigurându-se că informațiile dumneavoastră personale și financiare rămân confidențiale în timpul achizițiilor.
- - **Dispozitive IoT**: <br/>Dispozitivele [Internet of Things (IoT)](https://www.ssldragon.com/ro/blog/iot-device-certificate/), cum ar fi termostatele inteligente, camerele de securitate și dispozitivele purtabile, utilizează certificate digitale pentru a stabili conexiuni sigure cu alte dispozitive sau servere, protejând datele transmise prin rețea.
- - **Furnizori de VPN**: <br/>[Rețeaua privată virtuală (VPN )](https://www.ssldragon.com/ro/blog/https-vs-vpn/) utilizează certificate digitale pentru a autentifica și cripta conexiunile dintre dispozitivele utilizatorilor și serverele VPN, asigurând confidențialitatea și securitatea în timpul navigării pe internet.
+ - **Site-uri de comerț electronic**: <br/>Site-uri precum Amazon, eBay și Shopify utilizează **certificate digitale** pentru a securiza tranzacțiile online, asigurându-se că informațiile dumneavoastră personale și financiare rămân confidențiale în timpul achizițiilor.
+ - **Dispozitive IoT**: <br/>Dispozitivele [Internet of Things (IoT)](https://www.ssldragon.com/ro/blog/iot-device-certificate/), cum ar fi termostatele inteligente, camerele de securitate și dispozitivele purtabile, utilizează **certificate digitale** pentru a stabili conexiuni sigure cu alte dispozitive sau servere, protejând datele transmise prin rețea.
+ - **Furnizori de VPN**: <br/>[Rețeaua privată virtuală (VPN )](https://www.ssldragon.com/ro/blog/https-vs-vpn/) utilizează **certificate digitale** pentru a autentifica și cripta conexiunile dintre dispozitivele utilizatorilor și serverele VPN, asigurând confidențialitatea și securitatea în timpul navigării pe internet.
  - **Companii de software**: <br/>Dezvoltatorii folosesc [certificate de semnare a codurilor](https://www.ssldragon.com/ro/blog/what-is-code-signing-certificate/) pentru a-și semna aplicațiile software, asigurând astfel utilizatorii că produsele descărcate sunt autentice.
 
 Caracteristicile certificatelor digitale
@@ -250,7 +250,7 @@ Spre exemplu, iata care este procedura intr-un caz particular de utilitate:<br/>
 
 <hr/>
 
-Fără certificate digitale, trimiterea de date în siguranță pe internet nu ar fi posibilă. Iată care sunt principalele lor beneficii:
+Fără **certificate digitale**, trimiterea de date în siguranță pe internet nu ar fi posibilă. Iată care sunt principalele lor beneficii:
 
  - **Criptare puternică**: <br/>Certificatele digitale utilizează [criptarea AES](https://www.ssldragon.com/ro/blog/rsa-aes-encryption/), un standard de criptare acceptat pe scară largă și foarte sigur care protejează datele partajate.
  - **Autentificare**: <br/>Oferă un mijloc fiabil de verificare a identității utilizatorilor, dispozitivelor sau entităților implicate în tranzacții online, reducând riscul de uzurpare a identității sau de fraudă.
