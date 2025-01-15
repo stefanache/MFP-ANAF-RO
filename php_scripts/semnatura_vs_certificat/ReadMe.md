@@ -20,7 +20,7 @@ Un [articol](https://codfiscal.net/7702/ce-este-semnatura-digitala-electronica) 
 
 [<img src="https://codfiscal.net/media/800px-Digital_Signature_diagram.svg_-768x576.png.webp">Digital-Signature diagram</img>](Digital_Signature_diagram)
 
-Iata aici, cateva lucruri interesante care pot fi consultate in aceasta postare:
+Iata aici, cateva lucruri interesante care ... pot fi consultate in aceasta postare:
 
 ...
 
@@ -38,6 +38,19 @@ O **semnatura electronica extinsa** trebuie sa indeplineasca cumulativ, urmatoar
 – Algoritmul de verificare a semnaturii digitale, care aplicat cheii publice si semnaturii digitale, accepta sau respinge mesajul de conformitate.
 
 **Certificatul digital calificat** emis asigura „identitatea virtuala” a posesorului si permite crearea de semnatura electronica cu valoare legala (extinsa), permitand identificarea fara echivoc, in baza garantarii integritatii, autenticitatii si nerepudierii mesajelor si documentelor electronice.
+
+**Certificatele digitale calificate** pot fi utilizate in relatia cu:
+– Agentia Nationala de Administrare Fiscala (**ANAF**),
+– Casa Nationala de Asigurari de Sanatate (**CNAS**),
+– Inspectoratul Teritorial de Munca (**ITM**),
+– Oficiul National al Registrului Comertului (**ONRC**),
+– Monitorul Oficial(**MO**),
+– Depozitarul Central(**DC/[RoClear](https://www.roclear.ro/)**),
+– Comisia Nationala a Valorilor Mobiliare (**CNVM**), etc
+– Autoritatile contractante din cadrul Sistemului Electronic de Achizitii Publice (***SEAP***)– pentru semnarea si transmiterea electronica a documentelor solicitate de acestia, etc
+– Comisia de Supraveghere a Sistemului de Pensii Private (**CSSP**) – pentru transmiterea raportarilor
+– Partenerii de afaceri – pentru transmiterea electronica a corespondentei cu implicatii legale(contracte,documente cu valoare legala, etc)
+– Departamentele companiei – pentru transmiterea corespondentei cu valoare legala si implementarea fluxurilor de documente.
 
 ...
 
