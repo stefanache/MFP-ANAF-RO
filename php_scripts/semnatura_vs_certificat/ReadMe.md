@@ -143,7 +143,7 @@ Atunci când utilizați **semnături digitale**, nu protejați doar documentele.
 </details>
 
 <details>
-<summary>06.Cum să obțineți o <b>semnătură digitală</b>?(veti citi aici si despre CA, OpenSSL...)</summary>
+<summary>06.Cum să obțineți o <b>semnătură digitală</b>?(veti citi aici si despre CA, Open<a href="https://en.wikipedia.org/wiki/SSL">SSL</a>...)</summary>
   
 <hr/>
 
