@@ -12,7 +12,7 @@ Atunci când vă gândiți la ***securitatea tranzacțiilor online***, veți da 
 Poate vă întrebați cum acționează împreună pentru a îmbunătăți siguranța sau ce le diferențiază. <br/>Rămâneți alături de noi pentru a explora diferențele dintre **semnătura digitală** și **certificatul digital**, de la modul în care funcționează la utilizarea, beneficiile și limitările acestora. <br/>
 
 <details>
-  <summary>Inainte de toate iata o scurta/simpla recomandare...</summary>
+  <summary>Inainte de toate, iata o scurta/simpla recomandare...</summary>
 
 <hr/>
   
