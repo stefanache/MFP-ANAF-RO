@@ -123,7 +123,7 @@ Atunci când utilizați **semnături digitale**, nu protejați doar documentele.
 </details>
 
 <details>
-  <summary>05.Dezavantaje ale <b>semnăturilor digitale</b>(veti citi aici si despre PKI,AC...)</summary>
+  <summary>05.Dezavantaje ale <b>semnăturilor digitale</b>(veti citi aici si despre PKI,CA...)</summary>
 
 <hr/> 
 
@@ -292,7 +292,7 @@ O **semnătură digitală** este ca o amprentă digitală virtuală care identif
 
 Această semnătură poate fi verificată de oricine care utilizează cheia publică a semnatarului, asigurându-se că documentul nu a fost modificat și că provine de la expeditorul declarat.
 
-Pe de altă parte, un **certificat digital** este ca o carte de identitate digitală emisă de o AC. <br/>Acesta conține informații despre deținătorul certificatului, cum ar fi denumirea comercială și cheia publică, și este utilizat pentru a verifica proprietatea și identitatea.
+Pe de altă parte, un **certificat digital** este ca o carte de identitate digitală emisă de o AC(autoritate de certificare). <br/>Acesta conține informații despre deținătorul certificatului, cum ar fi denumirea comercială și cheia publică, și este utilizat pentru a verifica proprietatea și identitatea.
 
 Atunci când cineva primește un document semnat digital, poate folosi certificatul digital al semnatarului pentru a verifica autenticitatea semnăturii. <br/>Acest lucru este posibil deoarece **certificatul digital** este emis de o autoritate de certificare(AC) de încredere, ceea ce înseamnă că informațiile pe care le conține au fost verificate și că se poate avea încredere în ele.
 
