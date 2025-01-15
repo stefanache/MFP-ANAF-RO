@@ -28,10 +28,12 @@ Tot in acest articol veti regasi si o comparatie intre **semnatura electronica**
   
 </details>
 
-Să începem cu elementele de bază.
 
 ***Cuprins***<br/>
 (Ce puncte sunt atinse/discutate?)
+
+*Să începem cu elementele de bază ale **semnaturii digitale**.*
+
 
 <details>
   <summary>01.Ce este o <b>semnătură digitală</b>?</summary>
