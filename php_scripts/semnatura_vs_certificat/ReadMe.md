@@ -39,18 +39,18 @@ O **semnatura electronica extinsa** trebuie sa indeplineasca cumulativ, urmatoar
 
 **Certificatul digital calificat** emis asigura „identitatea virtuala” a posesorului si permite crearea de semnatura electronica cu valoare legala (extinsa), permitand identificarea fara echivoc, in baza garantarii integritatii, autenticitatii si nerepudierii mesajelor si documentelor electronice.
 
-**Certificatele digitale calificate** pot fi utilizate in relatia cu:
-– Agentia Nationala de Administrare Fiscala (**ANAF**),
-– Casa Nationala de Asigurari de Sanatate (**CNAS**),
-– Inspectoratul Teritorial de Munca (**ITM**),
-– Oficiul National al Registrului Comertului (**ONRC**),
-– Monitorul Oficial(**MO**),
-– Depozitarul Central(**DC/[RoClear](https://www.roclear.ro/)**),
-– Comisia Nationala a Valorilor Mobiliare (**CNVM**), etc
-– Autoritatile contractante din cadrul Sistemului Electronic de Achizitii Publice (***SEAP***)– pentru semnarea si transmiterea electronica a documentelor solicitate de acestia, etc
-– Comisia de Supraveghere a Sistemului de Pensii Private (**CSSP**) – pentru transmiterea raportarilor
-– Partenerii de afaceri – pentru transmiterea electronica a corespondentei cu implicatii legale(contracte,documente cu valoare legala, etc)
-– Departamentele companiei – pentru transmiterea corespondentei cu valoare legala si implementarea fluxurilor de documente.
+**Certificatele digitale calificate** pot fi utilizate in relatia cu:<br/>
+– Agentia Nationala de Administrare Fiscala (**ANAF**),<br/>
+– Casa Nationala de Asigurari de Sanatate (**CNAS**),<br/>
+– Inspectoratul Teritorial de Munca (**ITM**),<br/>
+– Oficiul National al Registrului Comertului (**ONRC**),<br/>
+– Monitorul Oficial(**MO**),<br/>
+– Depozitarul Central(**DC/[RoClear](https://www.roclear.ro/)**),<br/>
+– Comisia Nationala a Valorilor Mobiliare (**CNVM**), etc<br/>
+– Autoritatile contractante din cadrul Sistemului Electronic de Achizitii Publice (***SEAP***)– pentru semnarea si transmiterea electronica a documentelor solicitate de acestia, etc<br/>
+– Comisia de Supraveghere a Sistemului de Pensii Private (**CSSP**) – pentru transmiterea raportarilor<br/>
+– Partenerii de afaceri – pentru transmiterea electronica a corespondentei cu implicatii legale(contracte,documente cu valoare legala, etc)<br/>
+– Departamentele companiei – pentru transmiterea corespondentei cu valoare legala si implementarea fluxurilor de documente.<br/>
 
 ...
 
