@@ -66,7 +66,7 @@ Acum, să vedem cum funcționează pas cu pas.
  Pentru a semna un document digital, semnatarul creează mai întâi o semnătură digitală unică folosind un [algoritm criptografic](https://www.ssldragon.com/ro/blog/encryption-types-algorithms/), așa cum este specificat în standardul de **semnătură digitală**. <br/>Acest algoritm asigură securitatea și unicitatea semnăturii.
  - **Criptare**: <br/>
  **Semnătura digitală** este apoi [criptată](https://www.ssldragon.com/ro/blog/what-is-encryption/) cu ajutorul [cheii private](https://www.ssldragon.com/ro/blog/cheie-privata-ssl/) a semnatarului, care face parte dintr-o pereche de chei(cheia privata/de scriere si cheia publica/de citire) asociată cu un certificat de semnătură digitală. <br/>Acest certificat, emis de o [autoritate de certificare](https://www.ssldragon.com/ro/blog/certificate-authority/) de încredere, conține informații despre identitatea și [cheia publică](https://www.ssldragon.com/ro/blog/public-key-cryptography/) a semnatarului.
- - **Anexă**:<br/>
+ - **Anexare**:<br/>
 **Semnătura digitală** criptată este atașată(anexată) la documentul digital, fie ca fișier separat, fie integrată în documentul în sine. <br/>Acest proces garantează că semnătura este inseparabilă de documentul pe care îl autentifică.
  - **Verificare**:<br/>
  La primirea documentului semnat digital, destinatarul utilizează cheia publică a semnatarului, obținută din certificatul de **semnătură digitală**, pentru a decripta semnătura. <br/>Această etapă verifică autenticitatea semnăturii și asocierea acesteia cu documentul.
