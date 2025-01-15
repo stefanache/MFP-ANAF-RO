@@ -21,7 +21,7 @@ Să începem cu elementele de bază.
     
 <hr/>
 
-O **semnătură digitală** este un tip de semnătură electronică care utilizează o tehnică criptografică pentru a autentifica originea și integritatea documentelor, mesajelor sau programelor informatice digitale. <br/>Acesta utilizează un [algoritm matematic](https://www.ssldragon.com/ro/blog/encryption-types-algorithms/) pentru a genera o amprentă digitală unică, sau “semnătură”, pentru o anumită bucată de date. <br/>Această semnătură este individuală pentru expeditor și pentru conținutul semnat, asigurând identitatea expeditorului și garantând că datele rămân intacte în timpul transmiterii.
+O **semnătură digitală** este un tip de semnătură electronică(un termen cu sens/semantica mai larg[a]) care utilizează o tehnică criptografică pentru a autentifica originea și integritatea documentelor, mesajelor sau programelor informatice digitale. <br/>Acesta utilizează un [algoritm matematic](https://www.ssldragon.com/ro/blog/encryption-types-algorithms/) pentru a genera o amprentă digitală unică, sau “semnătură”, pentru o anumită bucată de date. <br/>Această semnătură este individuală pentru expeditor și pentru conținutul semnat, asigurând identitatea expeditorului și garantând că datele rămân intacte în timpul transmiterii.
 
 **Semnăturile digitale** sunt clasificate după cum urmează:
 
