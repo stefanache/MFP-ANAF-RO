@@ -6,9 +6,9 @@ Ultima actualizare pe 28 februarie, 2024 de ***Dionisie Gitlan***(*Multumiri!!!*
 **Digital Signature** ***vs.*** **Digital Certificate**<br/>
 (cheia privata/secreta care se afla in posesia autorului/ pt.=de scriere/Write) ***vs.*** (document-atestat ce contine cheia publica incredintata/transmisa catre cititor/pt.=de citire/Read)
 
-Atunci când vă gândiți la ***securitatea tranzacțiilor online***, veți da peste **semnături** și **certificate digitale**. Aceste elemente reprezintă coloana vertebrală a ***protecției datelor sensibile***.
+Atunci când vă gândiți la ***securitatea tranzacțiilor online***, veți da peste **semnături** și **certificate digitale**. <br/>Aceste elemente reprezintă coloana vertebrală a ***protecției datelor sensibile***.
 
-Poate vă întrebați cum acționează împreună pentru a îmbunătăți siguranța sau ce le diferențiază. Rămâneți alături de noi pentru a explora diferențele dintre **semnătura digitală** și **certificatul digital**, de la modul în care funcționează la utilizarea, beneficiile și limitările acestora. Să începem cu elementele de bază.
+Poate vă întrebați cum acționează împreună pentru a îmbunătăți siguranța sau ce le diferențiază. <br/>Rămâneți alături de noi pentru a explora diferențele dintre **semnătura digitală** și **certificatul digital**, de la modul în care funcționează la utilizarea, beneficiile și limitările acestora. <br/>Să începem cu elementele de bază.
 
 ***Cuprins***<br/>
 (Ce puncte sunt atinse/discutate?)
@@ -18,9 +18,9 @@ Poate vă întrebați cum acționează împreună pentru a îmbunătăți sigura
     
 <hr/>
 
-O semnătură digitală este un tip de semnătură electronică care utilizează o tehnică criptografică pentru a autentifica originea și integritatea documentelor, mesajelor sau programelor informatice digitale. <br/>Acesta utilizează un [algoritm matematic](https://www.ssldragon.com/ro/blog/encryption-types-algorithms/) pentru a genera o amprentă digitală unică, sau “semnătură”, pentru o anumită bucată de date. <br/>Această semnătură este individuală pentru expeditor și pentru conținutul semnat, asigurând identitatea expeditorului și garantând că datele rămân intacte în timpul transmiterii.
+O **semnătură digitală** este un tip de semnătură electronică care utilizează o tehnică criptografică pentru a autentifica originea și integritatea documentelor, mesajelor sau programelor informatice digitale. <br/>Acesta utilizează un [algoritm matematic](https://www.ssldragon.com/ro/blog/encryption-types-algorithms/) pentru a genera o amprentă digitală unică, sau “semnătură”, pentru o anumită bucată de date. <br/>Această semnătură este individuală pentru expeditor și pentru conținutul semnat, asigurând identitatea expeditorului și garantând că datele rămân intacte în timpul transmiterii.
 
-Semnăturile digitale sunt clasificate după cum urmează:
+**Semnăturile digitale** sunt clasificate după cum urmează:
 
  - Semnături de **clasa 1** (semnături de *e-mail*):<br/>
    Aceste semnături verifică legătura dintre o adresă de e-mail și proprietarul său legitim, asigurând autenticitatea e-mailurilor.
@@ -43,13 +43,13 @@ Semnăturile digitale sunt clasificate după cum urmează:
 Acum, să vedem cum funcționează pas cu pas.
 
  - **Creație**:<br/>
- Pentru a semna un document digital, semnatarul creează mai întâi o semnătură digitală unică folosind un [algoritm criptografic](https://www.ssldragon.com/ro/blog/encryption-types-algorithms/), așa cum este specificat în standardul de semnătură digitală. <br/>Acest algoritm asigură securitatea și unicitatea semnăturii.
+ Pentru a semna un document digital, semnatarul creează mai întâi o semnătură digitală unică folosind un [algoritm criptografic](https://www.ssldragon.com/ro/blog/encryption-types-algorithms/), așa cum este specificat în standardul de **semnătură digitală**. <br/>Acest algoritm asigură securitatea și unicitatea semnăturii.
  - **Criptare**: <br/>
- Semnătura digitală este apoi [criptată](https://www.ssldragon.com/ro/blog/what-is-encryption/) cu ajutorul [cheii private](https://www.ssldragon.com/ro/blog/cheie-privata-ssl/) a semnatarului, care face parte dintr-o pereche de chei(cheia privata/de scriere si cheia publica/de citire) asociată cu un certificat de semnătură digitală. <br/>Acest certificat, emis de o [autoritate de certificare](https://www.ssldragon.com/ro/blog/certificate-authority/) de încredere, conține informații despre identitatea și [cheia publică](https://www.ssldragon.com/ro/blog/public-key-cryptography/) a semnatarului.
+ **Semnătura digitală** este apoi [criptată](https://www.ssldragon.com/ro/blog/what-is-encryption/) cu ajutorul [cheii private](https://www.ssldragon.com/ro/blog/cheie-privata-ssl/) a semnatarului, care face parte dintr-o pereche de chei(cheia privata/de scriere si cheia publica/de citire) asociată cu un certificat de semnătură digitală. <br/>Acest certificat, emis de o [autoritate de certificare](https://www.ssldragon.com/ro/blog/certificate-authority/) de încredere, conține informații despre identitatea și [cheia publică](https://www.ssldragon.com/ro/blog/public-key-cryptography/) a semnatarului.
  - **Anexă**:<br/>
- Semnătura digitală criptată este atașată la documentul digital, fie ca fișier separat, fie integrată în documentul în sine. <br/>Acest proces garantează că semnătura este inseparabilă de documentul pe care îl autentifică.
+**Semnătura digitală** criptată este atașată la documentul digital, fie ca fișier separat, fie integrată în documentul în sine. <br/>Acest proces garantează că semnătura este inseparabilă de documentul pe care îl autentifică.
  - **Verificare**:<br/>
- La primirea documentului semnat digital, destinatarul utilizează cheia publică a semnatarului, obținută din certificatul de semnătură digitală, pentru a decripta semnătura. <br/>Această etapă verifică autenticitatea semnăturii și asocierea acesteia cu documentul.
+ La primirea documentului semnat digital, destinatarul utilizează cheia publică a semnatarului, obținută din certificatul de **semnătură digitală**, pentru a decripta semnătura. <br/>Această etapă verifică autenticitatea semnăturii și asocierea acesteia cu documentul.
  - **Verificarea integrității**:<br/>
  Destinatarul efectuează o verificare a integrității documentului cu ajutorul unei funcții hash. <br/>Acesta confirmă faptul că documentul nu a fost modificat de când a fost semnat, menținând astfel integritatea acestuia.
  - **Autentificare**: <br/>
@@ -64,11 +64,11 @@ Acum, să vedem cum funcționează pas cu pas.
 
 <hr/>
 
-Semnăturile digitale sunt adoptate pe scară largă în diverse industrii, de la agenții guvernamentale la corporații private. Acestea reprezintă o alternativă mai sigură la semnăturile electronice tradiționale prin utilizarea unor algoritmi complecși.
+**Semnăturile digitale** sunt adoptate pe scară largă în diverse industrii, de la agenții guvernamentale la corporații private. Acestea reprezintă o alternativă mai sigură la semnăturile electronice tradiționale prin utilizarea unor algoritmi complecși.
 
-Această tehnologie este esențială în sectoarele în care [securitatea datelor](https://www.ssldragon.com/ro/blog/protect-sensitive-data/) și dovada identității digitale sunt esențiale. În industria bancară și financiară, semnăturile digitale securizează tranzacțiile și acordurile, în timp ce, în mediul juridic, ele confirmă autenticitatea documentelor legale.
+Această tehnologie este esențială în sectoarele în care [securitatea datelor](https://www.ssldragon.com/ro/blog/protect-sensitive-data/) și dovada identității digitale sunt esențiale. <br/>În industria bancară și financiară, **semnăturile digitale** securizează tranzacțiile și acordurile, în timp ce, în mediul juridic, ele confirmă autenticitatea documentelor legale.
 
-Furnizorii de servicii medicale utilizează semnăturile digitale pentru a proteja dosarele pacienților, iar entitățile guvernamentale le folosesc pentru a securiza documentele oficiale și pentru a simplifica procesele administrative. În plus, o semnătură digitală protejează activele digitale ale tuturor tipurilor de întreprinderi. Adoptarea acestora evidențiază accentul pus pe integritatea, eficiența și conformitatea datelor în tranzacțiile electronice.
+Furnizorii de servicii medicale utilizează semnăturile digitale pentru a proteja dosarele pacienților, iar entitățile guvernamentale le folosesc pentru a securiza documentele oficiale și pentru a simplifica procesele administrative. <br/>În plus, o **semnătură digitală** protejează activele digitale ale tuturor tipurilor de întreprinderi. <br/>Adoptarea acestora evidențiază accentul pus pe integritatea, eficiența și conformitatea datelor în tranzacțiile electronice.
 
 <hr/>
 
