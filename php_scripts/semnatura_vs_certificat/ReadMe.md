@@ -169,18 +169,18 @@ După cum vedeți, am menționat deja ***certificatul digital*** în contextul *
 *În secțiunile următoare, vom discuta despre **certificatele digitale**.*
 
 <details>
-<summary>07.Ce este un <b>certificat digital</b>?</summary>
+<summary>07.Ce este un <b>certificat digital</b>?(aici veti citi si despre CA...)</summary>
 
 <hr/>
 
-Un **certificat digital** este un document electronic utilizat pentru a verifica identitatea unei entități, cum ar fi o persoană, un computer, un site web sau o organizație, prin intermediul rețelelor digitale precum internetul. <br/>Acesta conține informații despre identitatea entității, cheia publică și ***semnătura digitală*** a unei terțe părți de încredere, cunoscută sub numele de autoritate de certificare(AC), care confirmă autenticitatea informațiilor.
+Un **certificat digital** este un document electronic utilizat pentru a verifica identitatea unei entități, cum ar fi o persoană, un computer, un site web sau o organizație, prin intermediul rețelelor digitale precum internetul. <br/>Acesta conține informații despre identitatea entității, cheia publică și ***semnătura digitală*** a unei terțe părți de încredere, cunoscută sub numele de autoritate de certificare(AC sau CA), care confirmă autenticitatea informațiilor.
 
 <hr/>
 
 </details>
 
 <details>
-<summary>08.Cum funcționează un <b>certificat digital</b>?</summary>
+<summary>08.Cum funcționează un <b>certificat digital</b>?(aici veti citi si despre CA...)</summary>
 
 <hr/>  
 
@@ -199,7 +199,7 @@ Iată o explicație pas cu pas a modului în care funcționează **certificatele
 </details>
 
 <details>
-<summary>09.Unde sunt folosite <b>certificatele digitale</b> și cine le folosește?</summary>  
+<summary>09.Unde sunt folosite <b>certificatele digitale</b> și cine le folosește?(aici veti citi si despre Comert electronic, IoT, VPN, X.509, PKCS, GDPR...)</summary>  
 
 <hr/>
 
@@ -248,7 +248,7 @@ Spre exemplu, iata care este procedura/oferta intr-un caz particular de utilitat
 </details>
 
 <details>
-  <summary>11.Avantajele <b>certificatului digital</b></summary>
+  <summary>11.Avantajele <b>certificatului digital</b>(aici veti citi si despre AES...)</summary>
 
 <hr/>
 
