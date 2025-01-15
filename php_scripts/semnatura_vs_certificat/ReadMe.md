@@ -229,7 +229,7 @@ Integritatea datelor**: <br/>Asigură că datele rămân neschimbate și nealter
 </details>
 
 <details>
-  <summary>10.Cum să obțineți un <b>certificat digital</b>?(veti cit iaici si despre CSR)</summary>
+  <summary>10.Cum să obțineți un <b>certificat digital</b>?(veti citi iaici si despre CSR, CA...)</summary>
 
 <hr/>
 
