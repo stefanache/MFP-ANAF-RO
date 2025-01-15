@@ -252,7 +252,7 @@ Spre exemplu, iata care este procedura/oferta intr-un caz particular de utilitat
 
 <hr/>
 
-Fără **certificate digitale***, trimiterea de date în siguranță pe internet nu ar fi posibilă. Iată care sunt principalele lor beneficii:
+Fără **certificate digitale**, trimiterea de date în siguranță pe internet nu ar fi posibilă. Iată care sunt principalele lor beneficii:
 
  - ***Criptare puternică***: <br/>**Certificatele digitale** utilizează [criptarea AES](https://www.ssldragon.com/ro/blog/rsa-aes-encryption/), un standard de criptare acceptat pe scară largă și foarte sigur care protejează datele partajate.
  - ***Autentificare***: <br/>Oferă un mijloc fiabil de verificare a identității utilizatorilor, dispozitivelor sau entităților implicate în tranzacții online, reducând riscul de uzurpare a identității sau de fraudă.
