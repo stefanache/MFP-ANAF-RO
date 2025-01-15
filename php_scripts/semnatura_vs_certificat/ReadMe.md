@@ -9,7 +9,9 @@ Suplimentar, as recomanda citirea si acestui [MSF-articol](https://support.micro
 
 Atunci când vă gândiți la ***securitatea tranzacțiilor online***, veți da peste **semnături** și **certificate digitale**. <br/>Aceste elemente reprezintă coloana vertebrală a ***protecției datelor sensibile***.
 
-Poate vă întrebați cum acționează împreună pentru a îmbunătăți siguranța sau ce le diferențiază. <br/>Rămâneți alături de noi pentru a explora diferențele dintre **semnătura digitală** și **certificatul digital**, de la modul în care funcționează la utilizarea, beneficiile și limitările acestora. <br/>Să începem cu elementele de bază.
+Poate vă întrebați cum acționează împreună pentru a îmbunătăți siguranța sau ce le diferențiază. <br/>Rămâneți alături de noi pentru a explora diferențele dintre **semnătura digitală** și **certificatul digital**, de la modul în care funcționează la utilizarea, beneficiile și limitările acestora. <br/>
+
+Să începem cu elementele de bază.
 
 ***Cuprins***<br/>
 (Ce puncte sunt atinse/discutate?)
