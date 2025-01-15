@@ -186,7 +186,7 @@ Un **certificat digital** este un document electronic utilizat pentru a verifica
 
 Iată o explicație pas cu pas a modului în care funcționează **certificatele digitale**:
 
- - ***Criptografia cu cheie publică***: <br/>**Certificatele digitale** se bazează pe [criptografia cu cheie publică](https://www.ssldragon.com/ro/blog/public-key-cryptography/). Acest sistem utilizează perechi de chei: o cheie publică și o cheie privată.
+ - ***Criptografia cu cheie publică***: <br/>**Certificatele digitale** se bazează pe [criptografia cu cheie publică](https://www.ssldragon.com/ro/blog/public-key-cryptography/). <br/>Acest sistem utilizează perechi de chei: o cheie publică și o cheie privată.
  - ***Cheia privată a expeditorului***: <br/>Atunci când un expeditor dorește să transmită informații în siguranță, acesta își folosește cheia privată pentru a crea o **semnătură digitală** pentru date. <br/>Această semnătură este unică pentru expeditor și pentru datele transmise.
  - ***Cheia publică a expeditorului***: <br/>Cheia publică a expeditorului este disponibilă pentru oricine are nevoie să verifice identitatea expeditorului sau să decripteze datele criptate cu cheia privată a expeditorului.
  - ***Chei publice*** și ***Chei private***: <br/>Expeditorul își păstrează secretă cheia privată și nu o împărtășește niciodată cu nimeni. <br/>Cu toate acestea, aceștia își distribuie gratuit cheia publică altora.
@@ -267,13 +267,13 @@ Fără **certificate digitale***, trimiterea de date în siguranță pe internet
 <hr/>
   
  - **Cost**: <br/>
- Majoritatea certificatelor digitale costă în jur de 100 de dolari sau mai puțin, dar unele tipuri sunt mai scumpe. Implementarea și întreținerea acestora poate afecta bugetul dumneavoastră, inclusiv taxele de emitere a certificatelor, configurarea infrastructurii și cheltuielile de gestionare continuă, în special în cazul implementărilor pe scară largă.
+ Majoritatea certificatelor digitale costă în jur de 100 de dolari sau mai puțin, dar unele tipuri sunt mai scumpe. <br/>Implementarea și întreținerea acestora poate afecta bugetul dumneavoastră, inclusiv taxele de emitere a certificatelor, configurarea infrastructurii și cheltuielile de gestionare continuă, în special în cazul implementărilor pe scară largă.
  - **Sofisticare**: <br/>
  Gestionarea certificatelor digitale implică complexități, cum ar fi generarea cheilor, reînnoirea certificatelor și [gestionarea revocării](https://www.ssldragon.com/ro/blog/lista-de-revocare-a-certificatelor/), care necesită expertiză specializată.
  - **Punct unic de eșec**: <br/>
  Dependența de o autoritate de certificare centralizată pentru emiterea și validarea certificatelor poate crea un singur punct de eșec, putând perturba sisteme întregi în cazul în care autoritatea de certificare este compromisă.
  - **Managementul ciclului de viață al certificatelor**: <br/>
- Certificatele digitale au o durată de viață limitată și necesită o reînnoire sau înlocuire în timp util pentru a menține continuitatea operațională. Negestionarea eficientă a ciclurilor de viață ale certificatelor poate duce la întreruperi ale serviciilor sau la vulnerabilități de securitate.
+ Certificatele digitale au o durată de viață limitată și necesită o reînnoire sau înlocuire în timp util pentru a menține continuitatea operațională. <br/>Negestionarea eficientă a ciclurilor de viață ale certificatelor poate duce la întreruperi ale serviciilor sau la vulnerabilități de securitate.
 
 <hr/>
 
@@ -294,7 +294,7 @@ Această semnătură poate fi verificată de oricine care utilizează cheia publ
 
 Pe de altă parte, un **certificat digital** este ca o carte de identitate digitală emisă de o AC. <br/>Acesta conține informații despre deținătorul certificatului, cum ar fi denumirea comercială și cheia publică, și este utilizat pentru a verifica proprietatea și identitatea.
 
-Atunci când cineva primește un document semnat digital, poate folosi certificatul digital al semnatarului pentru a verifica autenticitatea semnăturii. <br/>Acest lucru este posibil deoarece **certificatul digital** este emis de o autoritate de certificare de încredere, ceea ce înseamnă că informațiile pe care le conține au fost verificate și că se poate avea încredere în ele.
+Atunci când cineva primește un document semnat digital, poate folosi certificatul digital al semnatarului pentru a verifica autenticitatea semnăturii. <br/>Acest lucru este posibil deoarece **certificatul digital** este emis de o autoritate de certificare(AC) de încredere, ceea ce înseamnă că informațiile pe care le conține au fost verificate și că se poate avea încredere în ele.
 
 <hr/>
 
