@@ -11,6 +11,11 @@ Atunci când vă gândiți la ***securitatea tranzacțiilor online***, veți da 
 
 Poate vă întrebați cum acționează împreună pentru a îmbunătăți siguranța sau ce le diferențiază. <br/>Rămâneți alături de noi pentru a explora diferențele dintre **semnătura digitală** și **certificatul digital**, de la modul în care funcționează la utilizarea, beneficiile și limitările acestora. <br/>
 
+<details>
+  <summary>Pentru inceput o scurta recomandare...</summary>
+
+<hr/>
+  
 Un [articol](https://codfiscal.net/7702/ce-este-semnatura-digitala-electronica) interesant oferit de catre cei de la **codfiscal.net** pune la dispozitie o imagine 
 a acestui proces care vine sa ne creeze o idee despre acest subiect.
 
@@ -18,8 +23,11 @@ a acestui proces care vine sa ne creeze o idee despre acest subiect.
 
 Tot in acest articol veti regasi si o comparatie intre **semnatura electronica**(avand drept suport un dispozitiv digital de memorare/persistenta) si semnatura holografa(avand drept suport hartia):
 
-[<img href="http://codfiscal.net/media/800px-Digital_Signature_diagram.svg_-510x382.png">Semnatura electronica vs. Semnatura holografa pe hartie</img>](https://codfiscal.net/media/800px-Digital_Signature_diagram.svg_-510x382.png)
+[<img src="http://codfiscal.net/media/800px-Digital_Signature_diagram.svg_-510x382.png">Semnatura electronica vs. Semnatura holografa pe hartie</img>](https://codfiscal.net/media/800px-Digital_Signature_diagram.svg_-510x382.png)
 
+<hr/>
+  
+</details>
 
 Să începem cu elementele de bază.
 
