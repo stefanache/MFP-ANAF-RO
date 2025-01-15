@@ -88,7 +88,7 @@ Acum, să vedem cum funcționează pas cu pas.
 
 Această tehnologie este esențială în sectoarele în care [securitatea datelor](https://www.ssldragon.com/ro/blog/protect-sensitive-data/) și dovada identității digitale sunt esențiale. <br/>În industria bancară și financiară, **semnăturile digitale** securizează tranzacțiile și acordurile, în timp ce, în mediul juridic, ele confirmă autenticitatea documentelor legale.
 
-Furnizorii de servicii medicale utilizează semnăturile digitale pentru a proteja dosarele pacienților, iar entitățile guvernamentale le folosesc pentru a securiza documentele oficiale și pentru a simplifica procesele administrative. <br/>În plus, o **semnătură digitală** protejează activele digitale ale tuturor tipurilor de întreprinderi. <br/>Adoptarea acestora evidențiază accentul pus pe integritatea, eficiența și conformitatea datelor în tranzacțiile electronice.
+Furnizorii de servicii medicale utilizează **semnăturile digitale** pentru a proteja dosarele pacienților, iar entitățile guvernamentale le folosesc pentru a securiza documentele oficiale și pentru a simplifica procesele administrative. <br/>În plus, o **semnătură digitală** protejează activele digitale ale tuturor tipurilor de întreprinderi. <br/>Adoptarea acestora evidențiază accentul pus pe integritatea, eficiența și conformitatea datelor în tranzacțiile electronice.
 
 <hr/>
 
@@ -112,9 +112,9 @@ Atunci când utilizați **semnături digitale**, nu protejați doar documentele.
  - ***Securitate sporită***: <br/>
  Caracteristici precum marcarea timpului și identificarea unică a semnatarului adaugă niveluri de securitate care depășesc ceea ce este posibil cu documentele fizice.
  - ***Acceptare globală***: <br/>
- Semnăturile digitale sunt recunoscute și acceptate pe scară largă dincolo de frontiere, facilitând tranzacțiile comerciale internaționale.
+ **Semnăturile digitale** sunt recunoscute și acceptate pe scară largă dincolo de frontiere, facilitând tranzacțiile comerciale internaționale.
  - ***Respectarea reglementărilor***: <br/>
- Semnăturile digitale ajută organizațiile să respecte diverse cerințe de reglementare legate de autentificarea și integritatea documentelor, cum ar fi GDPR în Uniunea Europeană sau HIPAA în sectorul sănătății.
+ **Semnăturile digitale** ajută organizațiile să respecte diverse cerințe de reglementare legate de autentificarea și integritatea documentelor, cum ar fi GDPR în Uniunea Europeană sau HIPAA în sectorul sănătății.
 
 <hr/>
 
@@ -282,15 +282,15 @@ Fără certificate digitale, trimiterea de date în siguranță pe internet nu a
 
 <hr/>
 
-Semnăturile digitale și certificatele funcționează în tandem pentru a asigura autenticitatea și integritatea documentelor sau a comunicațiilor electronice, dar au scopuri diferite.
+**Semnăturile digitale** și **certificatele** funcționează în tandem pentru a asigura autenticitatea și integritatea documentelor sau a comunicațiilor electronice, dar au scopuri diferite.
 
-O semnătură digitală este ca o amprentă digitală virtuală care identifică în mod unic expeditorul mesajului sau autorul documentului. Acesta este creat cu ajutorul unui algoritm criptografic atașat la document sau mesaj. Atunci când cineva semnează un document digital, el formează o reprezentare matematică a documentului, care îi este unică.
+O **semnătură digitală** este ca o amprentă digitală virtuală care identifică în mod unic expeditorul mesajului sau autorul documentului. <br/>Acesta este creat cu ajutorul unui algoritm criptografic atașat la document sau mesaj. <br/>Atunci când cineva semnează un document digital, el formează o reprezentare matematică a documentului, care îi este unică.
 
 Această semnătură poate fi verificată de oricine care utilizează cheia publică a semnatarului, asigurându-se că documentul nu a fost modificat și că provine de la expeditorul declarat.
 
-Pe de altă parte, un certificat digital este ca o carte de identitate digitală emisă de o AC. Acesta conține informații despre deținătorul certificatului, cum ar fi denumirea comercială și cheia publică, și este utilizat pentru a verifica proprietatea și identitatea.
+Pe de altă parte, un certificat digital este ca o carte de identitate digitală emisă de o AC. <br/>Acesta conține informații despre deținătorul certificatului, cum ar fi denumirea comercială și cheia publică, și este utilizat pentru a verifica proprietatea și identitatea.
 
-Atunci când cineva primește un document semnat digital, poate folosi certificatul digital al semnatarului pentru a verifica autenticitatea semnăturii. Acest lucru este posibil deoarece certificatul digital este emis de o autoritate de certificare de încredere, ceea ce înseamnă că informațiile pe care le conține au fost verificate și că se poate avea încredere în ele.
+Atunci când cineva primește un document semnat digital, poate folosi certificatul digital al semnatarului pentru a verifica autenticitatea semnăturii. <br/>Acest lucru este posibil deoarece **certificatul digital** este emis de o autoritate de certificare de încredere, ceea ce înseamnă că informațiile pe care le conține au fost verificate și că se poate avea încredere în ele.
 
 <hr/>
 
@@ -298,6 +298,6 @@ Atunci când cineva primește un document semnat digital, poate folosi certifica
 
 ***Concluzie***
 
-Acum că ați înțeles diferența dintre semnătura digitală și certificatul digital, sunteți echipat pentru a distinge rolurile lor specifice în securitatea cibernetică. Semnăturile digitale verifică originea și integritatea datelor, în timp ce certificatele digitale validează identitatea părților în cadrul comunicațiilor online. Aceste cunoștințe vă permit să implementați măsuri de securitate eficiente și să reduceți cu încredere riscurile cibernetice.
+Acum că ați înțeles diferența dintre **semnătura digitală** și **certificatul digital**, sunteți echipat pentru a distinge rolurile lor specifice în securitatea cibernetică. <br/>**Semnăturile digitale** verifică originea și integritatea datelor, în timp ce **certificatele** digitale validează identitatea părților în cadrul comunicațiilor online. <br/>Aceste cunoștințe vă permit să implementați măsuri de securitate eficiente și să reduceți cu încredere riscurile cibernetice.
 
 
