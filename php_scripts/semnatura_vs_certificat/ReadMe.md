@@ -173,7 +173,7 @@ După cum vedeți, am menționat deja ***certificatul digital*** în contextul *
 
 <hr/>
 
-Un **certificat digital** este un document electronic utilizat pentru a verifica identitatea unei entități, cum ar fi o persoană, un computer, un site web sau o organizație, prin intermediul rețelelor digitale precum internetul. <br/>Acesta conține informații despre identitatea entității, cheia publică și ***semnătura digitală*** a unei terțe părți de încredere, cunoscută sub numele de autoritate de certificare, care confirmă autenticitatea informațiilor.
+Un **certificat digital** este un document electronic utilizat pentru a verifica identitatea unei entități, cum ar fi o persoană, un computer, un site web sau o organizație, prin intermediul rețelelor digitale precum internetul. <br/>Acesta conține informații despre identitatea entității, cheia publică și ***semnătura digitală*** a unei terțe părți de încredere, cunoscută sub numele de autoritate de certificare(AC), care confirmă autenticitatea informațiilor.
 
 <hr/>
 
