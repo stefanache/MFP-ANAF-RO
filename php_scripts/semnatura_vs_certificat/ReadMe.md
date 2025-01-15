@@ -199,7 +199,7 @@ Iată o explicație pas cu pas a modului în care funcționează **certificatele
 </details>
 
 <details>
-<summary>09.Unde sunt folosite <b>certificatele digitale</b> și cine le folosește?(aici veti citi si despre Comert electronic, IoT, VPN, X.509, PKCS, GDPR...)</summary>  
+<summary>09.Unde sunt folosite <b>certificatele digitale</b> și cine le folosește?(aici veti citi si despre SSL, S/MIME, Comert electronic, IoT, VPN, X.509, PKCS, GDPR...)</summary>  
 
 <hr/>
 
