@@ -97,7 +97,7 @@ Furnizorii de servicii medicale utilizează **semnăturile digitale** pentru a p
 </details>
 
 <details>
-  <summary>04.Avantajele <b>semnăturilor digitale</b></summary>
+  <summary>04.Avantajele <b>semnăturilor digitale</b>(veti citi aici si despre GDPR, HIPAA...)</summary>
 
 <hr/>
 
@@ -116,14 +116,14 @@ Atunci când utilizați **semnături digitale**, nu protejați doar documentele.
  - ***Acceptare globală***: <br/>
  **Semnăturile digitale** sunt recunoscute și acceptate pe scară largă dincolo de frontiere, facilitând tranzacțiile comerciale internaționale.
  - ***Respectarea reglementărilor***: <br/>
- **Semnăturile digitale** ajută organizațiile să respecte diverse cerințe de reglementare legate de autentificarea și integritatea documentelor, cum ar fi GDPR în Uniunea Europeană sau HIPAA în sectorul sănătății.
+ **Semnăturile digitale** ajută organizațiile să respecte diverse cerințe de reglementare legate de autentificarea și integritatea documentelor, cum ar fi [GDPR](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation) în Uniunea Europeană sau [HIPAA](https://en.wikipedia.org/wiki/Health_Insurance_Portability_and_Accountability_Act) în sectorul sănătății.
 
 <hr/>
 
 </details>
 
 <details>
-  <summary>05.Dezavantaje ale <b>semnăturilor digitale</b>(veti citi aici si despre PKI,CA...)</summary>
+  <summary>05.Dezavantaje ale <b>semnăturilor digitale</b>(veti citi aici si despre PKI, CA...)</summary>
 
 <hr/> 
 
@@ -143,7 +143,7 @@ Atunci când utilizați **semnături digitale**, nu protejați doar documentele.
 </details>
 
 <details>
-<summary>06.Cum să obțineți o <b>semnătură digitală</b>?(veti citi aici si despre CA,OpenSSL...)</summary>
+<summary>06.Cum să obțineți o <b>semnătură digitală</b>?(veti citi aici si despre CA, OpenSSL...)</summary>
   
 <hr/>
 
