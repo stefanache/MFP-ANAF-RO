@@ -63,9 +63,9 @@ O **semnătură digitală** este un tip de semnătură electronică(un termen cu
 Acum, să vedem cum funcționează pas cu pas.
 
  - ***Creație***:<br/>
- Pentru a semna un document digital, semnatarul creează mai întâi o semnătură digitală unică folosind un [algoritm criptografic](https://www.ssldragon.com/ro/blog/encryption-types-algorithms/), așa cum este specificat în standardul de **semnătură digitală**. <br/>Acest algoritm asigură securitatea și unicitatea semnăturii.
+ Pentru a semna un document digital, semnatarul creează mai întâi o **semnătură digitală** unică folosind un [algoritm criptografic](https://www.ssldragon.com/ro/blog/encryption-types-algorithms/), așa cum este specificat în standardul de **semnătură digitală**. <br/>Acest algoritm asigură securitatea și unicitatea semnăturii.
  - ***Criptare***: <br/>
- **Semnătura digitală** este apoi [criptată](https://www.ssldragon.com/ro/blog/what-is-encryption/) cu ajutorul [cheii private](https://www.ssldragon.com/ro/blog/cheie-privata-ssl/) a semnatarului, care face parte dintr-o pereche de chei(cheia privata/de scriere si cheia publica/de citire) asociată cu un certificat de semnătură digitală. <br/>Acest certificat, emis de o [autoritate de certificare](https://www.ssldragon.com/ro/blog/certificate-authority/) de încredere, conține informații despre identitatea și [cheia publică](https://www.ssldragon.com/ro/blog/public-key-cryptography/) a semnatarului.
+ **Semnătura digitală** este apoi [criptată](https://www.ssldragon.com/ro/blog/what-is-encryption/) cu ajutorul [cheii private](https://www.ssldragon.com/ro/blog/cheie-privata-ssl/) a semnatarului, care face parte dintr-o pereche de chei(cheia privata/de scriere si cheia publica/de citire) asociată cu un certificat de **semnătură digitală**. <br/>Acest certificat, emis de o [autoritate de certificare](https://www.ssldragon.com/ro/blog/certificate-authority/) de încredere, conține informații despre identitatea și [cheia publică](https://www.ssldragon.com/ro/blog/public-key-cryptography/) a semnatarului.
  - ***Anexare***:<br/>
 **Semnătura digitală** criptată este atașată(anexată) la documentul digital, fie ca fișier separat, fie integrată în documentul în sine. <br/>Acest proces garantează că semnătura este inseparabilă de documentul pe care îl autentifică.
  - ***Verificare***:<br/>
@@ -185,7 +185,7 @@ Un **certificat digital** este un document electronic utilizat pentru a verifica
 Iată o explicație pas cu pas a modului în care funcționează **certificatele digitale**:
 
  - **Criptografia cu cheie publică**: <br/>Certificatele digitale se bazează pe [criptografia cu cheie publică](https://www.ssldragon.com/ro/blog/public-key-cryptography/). Acest sistem utilizează perechi de chei: o cheie publică și o cheie privată.
- - **Cheia privată a expeditorului**: <br/>Atunci când un expeditor dorește să transmită informații în siguranță, acesta își folosește cheia privată pentru a crea o semnătură digitală pentru date. Această semnătură este unică pentru expeditor și pentru datele transmise.
+ - **Cheia privată a expeditorului**: <br/>Atunci când un expeditor dorește să transmită informații în siguranță, acesta își folosește cheia privată pentru a crea o **semnătură digitală** pentru date. <br/>Această semnătură este unică pentru expeditor și pentru datele transmise.
  - **Cheia publică a expeditorului**: <br/>Cheia publică a expeditorului este disponibilă pentru oricine are nevoie să verifice identitatea expeditorului sau să decripteze datele criptate cu cheia privată a expeditorului.
  - **Chei publice și private**: <br/>Expeditorul își păstrează secretă cheia privată și nu o împărtășește niciodată cu nimeni. Cu toate acestea, aceștia își distribuie gratuit cheia publică altora.
  - **CA emite certificate digitale**: <br/>Aceste certificate conțin cheia publică a expeditorului și alte informații de identificare, cum ar fi numele și organizația acestuia.
