@@ -22,11 +22,11 @@ O semnătură digitală este un tip de semnătură electronică care utilizează
 
 Semnăturile digitale sunt clasificate după cum urmează:
 
- - Semnături de **clasa 1** (semnături de e-mail):<br/>
+ - Semnături de **clasa 1** (semnături de *e-mail*):<br/>
    Aceste semnături verifică legătura dintre o adresă de e-mail și proprietarul său legitim, asigurând autenticitatea e-mailurilor.
- - Semnăturile din **clasa 2** (semnături bazate pe identitate):<br/>
+ - Semnăturile din **clasa 2** (semnături bazate pe *identitate*):<br/>
    Acest tip de semnătură validează identificarea unei persoane prin compararea acesteia cu o bază de date verificată în prealabil.
- - Semnăturile din **clasa 3** (semnături validate în persoană):<br/>
+ - Semnăturile din **clasa 3** (semnături validate în *persoană*):<br/>
    Aceste semnături sunt acordate după validarea persoanei care depune cererea în persoană, asigurând un nivel mai ridicat de încredere și validare pentru tranzacțiile financiare esențiale, cum ar fi platformele de cumpărături online și licitațiile electronice.
 
 
