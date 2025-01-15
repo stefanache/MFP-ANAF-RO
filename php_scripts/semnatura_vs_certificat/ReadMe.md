@@ -166,7 +166,7 @@ Atunci când utilizați **semnături digitale**, nu protejați doar documentele.
 </details>
 
 <details>
-<summary>06.Cum să obțineți o <b>semnătură digitală</b>?(veti citi aici si despre CA, Open<a href="https://en.wikipedia.org/wiki/SSL">SSL</a>...)</summary>
+<summary>06.Cum să obțineți o <b>semnătură digitală</b>?(veti citi aici si despre CA, Open<a href="https://en.wikipedia.org/wiki/SSL">SSL</a>, chei ...)</summary>
   
 <hr/>
 
@@ -177,7 +177,7 @@ Obținerea unei **semnături digitale** necesită o serie de etape tehnice. <br/
  - ***Verificați identitatea dumneavoastră***: <br/>
 Trimiteți documentele necesare pentru a confirma identitatea dumneavoastră sau a organizației dumneavoastră în vederea validării.
  - ***Generarea perechii de chei***: <br/>
-Utilizați un software criptografic, cum ar fi [OpenSSL](https://www.ssldragon.com/ro/blog/what-is-openssl/), pentru a genera o cheie privată și una publică – esențiale pentru crearea și verificarea **semnăturii digitale**.
+Utilizați un software criptografic, cum ar fi [OpenSSL](https://www.ssldragon.com/ro/blog/what-is-openssl/), pentru a genera o cheie privată(de incriptare) și una publică(de decriptare) – esențiale pentru crearea și verificarea **semnăturii digitale**.
  - ***Obțineți semnătura digitală***: <br/>
 Autoritatea de certificare(AC) emite un ***certificat*** de **semnătură digitală**, care face legătura între identitatea dumneavoastră și cheia dumneavoastră publică. <br/>Asigură autenticitatea **semnăturilor digitale**.
  - ***Instalare și utilizare***: <br/>
@@ -203,7 +203,7 @@ Un **certificat digital** este un document electronic utilizat pentru a verifica
 </details>
 
 <details>
-<summary>08.Cum funcționează un <b>certificat digital</b>?(aici veti citi si despre CA...)</summary>
+<summary>08.Cum funcționează un <b>certificat digital</b>?(aici veti citi si despre CA, chei de in/de-criptare ...)</summary>
 
 <hr/>  
 
