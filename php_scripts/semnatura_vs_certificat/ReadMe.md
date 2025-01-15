@@ -16,8 +16,7 @@ Poate vă întrebați cum acționează împreună pentru a îmbunătăți sigura
 
 <hr/>
   
-Un [articol](https://codfiscal.net/7702/ce-este-semnatura-digitala-electronica) interesant oferit de catre cei de la **codfiscal.net** pune la dispozitie o imagine 
-a acestui proces care vine sa ne creeze o idee despre acest subiect.
+Un [articol](https://codfiscal.net/7702/ce-este-semnatura-digitala-electronica) deosebit de interesant, oferit de catre cei de la **codfiscal.net**, pune la dispozitie o imagine a acestui proces, care vine sa ne creeze o idee despre acest masiv subiect.
 
 [<img src="https://codfiscal.net/media/800px-Digital_Signature_diagram.svg_-768x576.png.webp">Digital-Signature diagram</img>](Digital_Signature_diagram)
 
