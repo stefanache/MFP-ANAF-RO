@@ -279,6 +279,8 @@ Fără **certificate digitale***, trimiterea de date în siguranță pe internet
 
 </details>
 
+*Spre final, sa incercam o comparatie/paralela, intre acesti doi termeni:*
+
 <details>
   <summary>13.Care este diferența dintre <b>semnăturile digitale</b> și <b>certificatele digitale</b>?</summary>
 
