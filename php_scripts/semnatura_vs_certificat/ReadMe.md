@@ -16,6 +16,11 @@ a acestui proces care vine sa ne creeze o idee despre acest subiect.
 
 [<img src="https://codfiscal.net/media/800px-Digital_Signature_diagram.svg_-768x576.png.webp">Digital-Signature diagram</a>](Digital_Signature_diagram)
 
+Tot in acest articol veti regasi si o comparatie intre **semnatura electronica**(avand drept suport un dispozitiv digital de memorare/persistenta) si semnatura holografa(avand drept suport hartia):
+
+[<a href="http://codfiscal.net/media/800px-Digital_Signature_diagram.svg_-510x382.png">Semnatura electronica vs. Semnatura holografa pe hartie</a>](https://codfiscal.net/media/800px-Digital_Signature_diagram.svg_-510x382.png)
+
+
 Să începem cu elementele de bază.
 
 ***Cuprins***<br/>
