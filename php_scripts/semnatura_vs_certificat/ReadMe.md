@@ -11,6 +11,11 @@ Atunci când vă gândiți la ***securitatea tranzacțiilor online***, veți da 
 
 Poate vă întrebați cum acționează împreună pentru a îmbunătăți siguranța sau ce le diferențiază. <br/>Rămâneți alături de noi pentru a explora diferențele dintre **semnătura digitală** și **certificatul digital**, de la modul în care funcționează la utilizarea, beneficiile și limitările acestora. <br/>
 
+Un [articol](https://codfiscal.net/7702/ce-este-semnatura-digitala-electronica) interesant oferit de catre cei de la **codfiscal.net** pune la dispozitie o imagine 
+a acestui proces care vine sa ne creeze o idee despre acest subiect.
+
+[<img src="https://codfiscal.net/media/800px-Digital_Signature_diagram.svg_-768x576.png.webp">Digital-Signature diagram</a>](Digital_Signature_diagram)
+
 Să începem cu elementele de bază.
 
 ***Cuprins***<br/>
