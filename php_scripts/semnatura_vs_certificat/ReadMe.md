@@ -123,7 +123,7 @@ Atunci când utilizați **semnături digitale**, nu protejați doar documentele.
 </details>
 
 <details>
-  <summary>05.Dezavantaje ale <b>semnăturilor digitale</b></summary>
+  <summary>05.Dezavantaje ale <b>semnăturilor digitale</b>(veti citi aici si despre PKI,AC...)</summary>
 
 <hr/> 
 
@@ -143,7 +143,7 @@ Atunci când utilizați **semnături digitale**, nu protejați doar documentele.
 </details>
 
 <details>
-<summary>06.Cum să obțineți o <b>semnătură digitală</b>?</summary>
+<summary>06.Cum să obțineți o <b>semnătură digitală</b>?(veti citi aici si despre CA,OpenSSL...)</summary>
   
 <hr/>
 
@@ -229,7 +229,7 @@ Integritatea datelor**: <br/>Asigură că datele rămân neschimbate și nealter
 </details>
 
 <details>
-  <summary>10.Cum să obțineți un <b>certificat digital</b>?</summary>
+  <summary>10.Cum să obțineți un <b>certificat digital</b>?(veti cit iaici si despre CSR)</summary>
 
 <hr/>
 
