@@ -1260,3 +1260,6 @@ schimbul acestora.
 O [cautare google](https://www.google.com/search?q=github+php+xbrl&sca_esv=492959cb0fa9f70d&rlz=1C1CHBF_enRO1132RO1132&sxsrf=ADLYWILFSG4H0xhdD9I4m_PFT_gCPT0BdQ%3A1730200310404&ei=9sIgZ5CeGIuN9u8P67O6iQg&ved=0ahUKEwiQ8ZC3urOJAxWLhv0HHeuZLoEQ4dUDCA8&uact=5&oq=github+php+xbrl&gs_lp=Egxnd3Mtd2l6LXNlcnAiD2dpdGh1YiBwaHAgeGJybDIIECEYoAEYwwRI3BlQ7gpYzBdwAXgAkAEAmAGOAaABtweqAQMwLje4AQPIAQD4AQGYAgigAsIHwgIHEAAYsAMYHsICCxAAGIAEGLADGKIEwgIKECEYoAEYwwQYCsICCRAAGIAEGBMYDcICChAAGBMYCBgNGB7CAggQABiABBiiBJgDAIgGAZAGB5IHAzEuN6AH3A8&sclient=gws-wiz-serp) pe subiectul "github php xbrl" va poate conduce la depozite interesante pentru oricare dezvoltator-PhP care doreste sa se scufunde mai adinc in acest subiect al XBRL-ului.
 
 Pentru cei ce vor sa creeze fisiere xbrl folosind python pot consulta acest [link](https://blog.aspose.com/finance/create-xbrl-file-using-python/#Add-Fact-Item-in-XBRL-using-Python)
+
+Daca doriti sa [incarcati eFactura](https://github.com/TecsiAron/ANAF-API-Client-PHP) din PhP, postul-GH va poate veni in ajutor.
+
