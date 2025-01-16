@@ -1261,5 +1261,7 @@ O [cautare google](https://www.google.com/search?q=github+php+xbrl&sca_esv=49295
 
 Pentru cei ce vor sa creeze fisiere xbrl folosind python pot consulta acest [link](https://blog.aspose.com/finance/create-xbrl-file-using-python/#Add-Fact-Item-in-XBRL-using-Python)
 
+<hr/>
+
 Daca doriti sa [incarcati eFactura](https://github.com/TecsiAron/ANAF-API-Client-PHP) din PhP, postul-GH va poate veni in ajutor.
 
