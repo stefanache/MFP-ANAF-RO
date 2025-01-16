@@ -1263,6 +1263,6 @@ Pentru cei ce vor sa creeze fisiere xbrl folosind python pot consulta acest [lin
 
 <hr/>
 
-Daca doriti sa [incarcati eFactura](https://github.com/TecsiAron/ANAF-API-Client-PHP) din PhP, [postul-GH](https://github.com/Rebootcodesoft/efactura_anaf) va poate veni in ajutor.
+Daca doriti sa [incarcati eFactura](https://github.com/TecsiAron/ANAF-API-Client-PHP) din PhP, [postul-GH](https://github.com/Rebootcodesoft/efactura_anaf) va poate veni in [ajutor](https://mfinante.gov.ro/ro/web/efactura).
 
 
