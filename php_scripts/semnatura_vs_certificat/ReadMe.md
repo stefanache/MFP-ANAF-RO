@@ -12,7 +12,7 @@ Atunci când vă gândiți la ***securitatea tranzacțiilor online***, veți da 
 Poate vă întrebați cum acționează împreună pentru a îmbunătăți siguranța sau ce le diferențiază. <br/>Rămâneți alături de noi pentru a explora diferențele dintre **semnătura digitală** și **certificatul digital**, de la modul în care funcționează la utilizarea, beneficiile și limitările acestora. <br/>
 
 <details>
-  <summary>Inainte de toate, iata o scurta/simpla recomandare...(aici puteti citi si despre repudiere, eToken, PIN, Registrul furnizorilor de servicii de certificare, <a href="https://crucial.ro/solutii-business/semnatura-electronica/">Certificatele digitale <i>calificate</i></a>-definitie si cazuri de utilizare, ...)</summary>
+  <summary>Inainte de toate, iata o scurta/simpla recomandare...(aici puteti citi si despre repudiere, eToken, PIN, Registrul furnizorilor de servicii de certificare, <a href="https://crucial.ro/solutii-business/semnatura-electronica/">Certificatele digitale <i>calificate</i></a>-definitie si <a href="https://facturis-online.ro/e-factura/inregistrarea-in-spv-folosind-un-certificat-digital-calificat-pentru-semnatura-electronica.html">cazuri de utilizare</a>, ...)</summary>
 
 <hr/>
   
