@@ -265,7 +265,7 @@ Integritatea datelor**: <br/>Asigură că datele rămân neschimbate și nealter
 </details>
 
 <details>
-  <summary>10.Cum să obțineți un <b>certificat digital</b>?(veti citi aici si despre CSR, CA...)</summary>
+  <summary>10.Cum să obțineți un <b>certificat digital</b>?(veti citi aici si despre <a href="https://www.ssldragon.com/ro/blog/conversie-crt-pem/">CSR</a>, CA...)</summary>
 
 <hr/>
 
