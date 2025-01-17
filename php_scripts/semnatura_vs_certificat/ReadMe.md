@@ -257,7 +257,7 @@ Integritatea datelor**: <br/>Asigură că datele rămân neschimbate și nealter
  - ***Criptare***: <br/>Protejează datele prin transformarea lor într-un format ilizibil care poate fi decriptat numai cu ajutorul cheii private corespunzătoare.
  - ***Gestionarea cheilor***: <br/>Facilitează generarea, stocarea și distribuirea în siguranță a cheilor criptografice.
  - ***Revocare***: <br/>Permite invalidarea **certificatelor** în cazul în care acestea sunt compromise sau nu mai sunt demne de încredere.
- - ***Conformitate***: <br/>Respectă [standardele](https://www.wolfssl.com/x-509-alternative-public-key-and-signature/) și reglementările din industrie, cum ar fi [X.509](https://www.ssldragon.com/ro/blog/ce-este-un-certificat-x-509/), [PKCS](https://en.wikipedia.org/wiki/PKCS) și [GDPR](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation).
+ - ***Conformitate***: <br/>Respectă [standardele](https://www.wolfssl.com/x-509-alternative-public-key-and-signature/) și [reglementările](https://grimoire.carcano.ch/blog/x509-certificates-howto-a-public-key-infrastructure-tutorial/) din industrie, cum ar fi [X.509](https://www.ssldragon.com/ro/blog/ce-este-un-certificat-x-509/), [PKCS](https://en.wikipedia.org/wiki/PKCS) și [GDPR](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation).
  - ***Perioada de valabilitate***: <br/>Specifică durata pentru care **certificatul** este considerat valabil [înainte de a fi reînnoit sau reemis](https://www.ssldragon.com/ro/blog/renew-ssl-certificates/).
 
 <hr/>
