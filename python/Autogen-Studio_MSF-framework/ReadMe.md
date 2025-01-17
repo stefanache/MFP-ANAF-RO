@@ -13,7 +13,7 @@ Si domnul **Fahd Mirza** are un [**videoclip-YT**](https://www.youtube.com/watch
 
 Un alt [videoclip-YT](https://www.youtube.com/watch?v=5YpVs7bkg7k&ab_channel=YaronBeen) prezinta o integrare **Autogen** cu [**Groq**](https://www.getguru.com/reference/what-is-groq-ai-and-how-to-use-it) și **Ollama** (local și gratuit) pentru a ne ajuta să fac un brainstorming un portofoliu de investiții(deci prezinta un agent-AI de/pt automatizarea afacerilor) 
 
-Publicatia ***Medium*** pune la dispozitia comunitatii sale, o serie intreaga de articole, care vizeaza integrarea [Autogen+Ollama](https://medium.com/@shmilysyg/getting-started-with-autogen-studio-crafting-ai-agents-with-ollama-or-lm-studio-21e715350eab)
+Publicatia ***Medium*** pune la dispozitia comunitatii sale, o serie intreaga de [articole](https://medium.com/@amit25173/langchain-vs-autogen-60b32cca03fc), care vizeaza integrarea [Autogen+Ollama](https://medium.com/@shmilysyg/getting-started-with-autogen-studio-crafting-ai-agents-with-ollama-or-lm-studio-21e715350eab)
 
 Si acest proiect [**GraphRAG**](https://github.com/karthik-codex/Autogen_GraphRAG_Ollama) poate constitui un bun [exemplu](https://www.youtube.com/watch?v=Dv0kVWMSISs&ab_channel=PromptEngineer) de utilizare a acestui instrument.
 
