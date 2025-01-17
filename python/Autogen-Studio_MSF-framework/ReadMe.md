@@ -4,7 +4,7 @@ In acest articol vreau sa va aduc in atentie/prezint [**AutoGen-Studio**](https:
 
 Aici gasiti [documentatia](https://microsoft.github.io/autogen/0.2/docs/Getting-Started) **Autogen 0.2**. Am vazut/aflat ca din [*ecosistemul*](https://microsoft.github.io/autogen/0.2/docs/ecosystem) acestuia face parte si ***Ollama***(server ce expune local, spre utilizare/interogare, diverse **LLM**-uri).
 
-Am gasit de asemenea o [***integrare***](https://github.com/hqnicolas/WindowsAutoGenStudio) **Autogen** cu ***Ollama***(server care va ofera access la un LLM), care opereaza de sub Windows.
+Am gasit de asemenea o [***integrare***](https://github.com/hqnicolas/WindowsAutoGenStudio) **Autogen** cu ***Ollama***(server care va ofera access la un LLM), care opereaza de sub sistemul de operare ***Windows***.
 
 In acest [videoclip-YT](https://www.youtube.com/watch?v=DMYCJe1vBVA&ab_channel=MervinPraison), domnul **Mervin Praison**, ne propune o ***integrare*** **AutoGen** și/cu **Ollama**, ceea ce face ca proiectul sa devina 100% local, 100% gratuit și toate datele dvs./sensibile ale acestuia(proiectului dvs), sa rămâna in spatiul dumneavoastra privat/propriu.<br/>
 Acest videoclip vă va ghida prin întregul proces, de la configurarea **Olama** la crearea de *diagrame dinamice* și integrarea lor în orice aplicație *Python* sau *JavaScript(JS)* - toate în timp ce vă asigurăm că datele dvs. rămân private.
