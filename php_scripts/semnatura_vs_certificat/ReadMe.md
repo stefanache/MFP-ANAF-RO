@@ -322,15 +322,15 @@ Fără **certificate digitale**, trimiterea de date în siguranță pe internet 
 
 <hr/>
 
-**Semnăturile digitale** și **certificatele** funcționează în tandem pentru a asigura autenticitatea și integritatea documentelor sau a comunicațiilor electronice, dar au scopuri diferite.
+**Semnăturile digitale** și **certificatele** funcționează în tandem pentru a asigura *autenticitatea* și *integritatea* documentelor sau a comunicațiilor electronice, dar au *scopuri diferite*.
 
-O **semnătură digitală** este ca o amprentă digitală virtuală care identifică în mod unic expeditorul mesajului sau autorul documentului. <br/>Acesta este creat cu ajutorul unui algoritm criptografic atașat la document sau mesaj. <br/>Atunci când cineva semnează un document digital, el formează o reprezentare matematică a documentului, care îi este unică.
+O **semnătură digitală** este ca o amprentă digitală virtuală care identifică în mod unic ***expeditorul*** mesajului sau ***autorul*** documentului. <br/>Acesta este creat cu ajutorul unui algoritm criptografic atașat(ex. AES,RSA,...) la document sau mesaj. <br/>Atunci când cineva semnează(digital) un document digital, el formează o reprezentare matematică a documentului, care îi este unică.
 
-Această semnătură poate fi verificată de oricine care utilizează cheia publică a semnatarului, asigurându-se că documentul nu a fost modificat și că provine de la expeditorul declarat.
+Această **semnătură** poate fi *verificată* de catre oricine(destinatar, cititor...) care utilizează *cheia publică* a semnatarului, asigurându-se că documentul nu a fost modificat(este original) și că provine de la expeditorul declarat.
 
-Pe de altă parte, un **certificat digital** este ca o carte de identitate digitală emisă de o AC(autoritate de certificare). <br/>Acesta conține informații despre deținătorul certificatului, cum ar fi denumirea comercială și cheia publică, și este utilizat pentru a verifica proprietatea și identitatea.
+Pe de altă parte, un **certificat digital** este ca o carte de identitate digitală emisă de o ***AC(autoritate de certificare)***. <br/>Acesta conține informații despre deținătorul certificatului(cum ar fi *denumirea comercială* și *cheia publică*), și este utilizat pentru a verifica *proprietatea* și *identitatea*.
 
-Atunci când cineva primește un document semnat digital, poate folosi certificatul digital al semnatarului pentru a verifica autenticitatea semnăturii. <br/>Acest lucru este posibil deoarece **certificatul digital** este emis de o autoritate de certificare(AC) de încredere, ceea ce înseamnă că informațiile pe care le conține au fost verificate și că se poate avea încredere în ele.
+Atunci când cineva(destinatar, cititor,...) primește un document semnat digital, poate folosi **certificatul digital** al semnatarului(expeditor, autor...) pentru a verifica autenticitatea semnăturii. <br/>Acest lucru este posibil deoarece **certificatul digital** este emis de o ***autoritate de certificare(AC)*** de încredere(*trusted*), ceea ce înseamnă că informațiile pe care le conține au fost verificate și că se poate avea încredere(*trust*) în ele.
 
 <hr/>
 
