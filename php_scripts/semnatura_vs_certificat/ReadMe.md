@@ -12,11 +12,11 @@ Atunci când vă gândiți la ***securitatea tranzacțiilor online***, veți da 
 Poate vă întrebați cum acționează împreună pentru a îmbunătăți siguranța sau ce le diferențiază. <br/>Rămâneți alături de noi pentru a explora diferențele dintre **semnătura digitală** și **certificatul digital**, de la modul în care funcționează la utilizarea, beneficiile și limitările acestora. <br/>
 
 <details>
-  <summary>Inainte de toate, iata o scurta/simpla recomandare...(aici puteti citi si despre repudiere, eToken, PIN, Registrul furnizorilor de servicii de certificare...)</summary>
+  <summary>Inainte de toate, iata o scurta/simpla recomandare...(aici puteti citi si despre repudiere, eToken, PIN, Registrul furnizorilor de servicii de certificare, Certificatele digitale calificate-definitie si cazuri de utilizare, ...)</summary>
 
 <hr/>
   
-Un [articol](https://codfiscal.net/7702/ce-este-semnatura-digitala-electronica) deosebit de interesant, oferit de catre cei de la **codfiscal.net**, pune la dispozitie o imagine a acestui proces, care vine sa ne creeze o idee despre acest masiv subiect(in aceasta postare puteti citi si despre repudiere, eToken, PIN, Registrul furnizorilor de servicii de certificare,Certificatele digitale calificate-definitie si cazuri de utilizare, ...).
+Un [articol](https://codfiscal.net/7702/ce-este-semnatura-digitala-electronica) deosebit de interesant, oferit de catre cei de la **codfiscal.net**, pune la dispozitie o imagine a acestui proces, care vine sa ne creeze o idee despre acest masiv subiect(in aceasta postare puteti citi si despre repudiere, eToken, PIN, Registrul furnizorilor de servicii de certificare...).
 
 [<img src="https://codfiscal.net/media/800px-Digital_Signature_diagram.svg_-768x576.png.webp">Digital-Signature diagram</img>](Digital_Signature_diagram)
 
