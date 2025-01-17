@@ -235,7 +235,7 @@ Iată o explicație pas cu pas a modului în care funcționează **certificatele
 </details>
 
 <details>
-<summary>09.Unde sunt folosite <b>certificatele digitale</b> și cine le folosește?(aici veti citi si despre SSL, S/MIME, IoT, VPN, [X.509](https://phpseclib.sourceforge.net/x509/tutorial.html), PKCS, GDPR...)</summary>  
+<summary>09.Unde sunt folosite <b>certificatele digitale</b> și cine le folosește?(aici veti citi si despre SSL, S/MIME, IoT, VPN, [X.509](https://phpseclib.sourceforge.net/x509/tutorial.html), [PKCS](https://www.php.net/manual/en/function.openssl-pkcs7-sign.php), GDPR...)</summary>  
 
 <hr/>
 
