@@ -2,7 +2,7 @@ Salut,
 
 In acest articol vreau sa va aduc in atentie/prezint [**AutoGen-Studio**](https://github.com/microsoft/autogen)(for/4 Windows), un cadru-AI de lucru Microsoft(MSF-framework).
 
-Aici gasiti [documentatia](https://microsoft.github.io/autogen/0.2/docs/Getting-Started) **Autogen 0.2**. Am vazut/aflat ca din [*ecosistemul*](https://microsoft.github.io/autogen/0.2/docs/ecosystem) acestuia face parte si ***Ollama***(server ce expune local, spre utilizare/interogare, diverse **LLM**-uri).
+Aici gasiti [documentatia](https://microsoft.github.io/autogen/0.2/docs/Getting-Started) **Autogen 0.2**. Am vazut/aflat ca din [*ecosistemul*](https://microsoft.github.io/autogen/0.2/docs/ecosystem) acestuia face parte si ***Ollama***(server ce expune [local](https://www.youtube.com/watch?v=gppLHs-o0f8&t=1s&ab_channel=FahdMirza), spre utilizare/interogare, diverse **LLM**-uri).
 
 Am gasit de asemenea o interesanta [***integrare***](https://github.com/hqnicolas/WindowsAutoGenStudio) **Autogen** cu ***Ollama***(server care va ofera access la un LLM), care opereaza de sub sistemul de operare ***Windows***.<br/> 
 **Nota**:<br/>
