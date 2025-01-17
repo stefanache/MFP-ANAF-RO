@@ -159,7 +159,7 @@ Atunci când utilizați **semnături digitale**, nu protejați doar documentele.
 </details>
 
 <details>
-  <summary>05.Dezavantaje ale <b>semnăturilor digitale</b>(veti citi aici si despre <a href="https://www.ssldragon.com/ro/blog/pem-file/">PKI</a>, CA...)</summary>
+  <summary>05.Dezavantaje ale <b>semnăturilor digitale</b>(veti citi aici si despre <a href="https://www.ssldragon.com/ro/blog/pem-file/">PKI</a>, <a href="https://www.ssldragon.com/ro/blog/public-key-infrastructure/">CA</a>...)</summary>
 
 <hr/> 
 
