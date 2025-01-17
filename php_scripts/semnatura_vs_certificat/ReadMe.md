@@ -40,7 +40,7 @@ O **semnatura electronica extinsa** trebuie sa indeplineasca cumulativ, urmatoar
 **Certificatul digital calificat** emis asigura „identitatea virtuala” a posesorului si permite crearea de semnatura electronica cu valoare legala (extinsa), permitand identificarea fara echivoc, in baza garantarii integritatii, autenticitatii si nerepudierii mesajelor si documentelor electronice.
 
 **Certificatele digitale calificate** pot fi utilizate in relatia cu:<br/>
-– [Agentia Nationala de Administrare Fiscala](https://iapp.ro/articol/generare-token-anaf-folosind-certificat-digital-din-php-oauth2) ([**ANAF**](https://static.anaf.ro/static/10/Anaf/Informatii_R/API/Oauth_procedura_inregistrare_aplicatii_portal_ANAF.pdf)),<br/>
+– [Agentia Nationala de Administrare Fiscala](https://iapp.ro/articol/generare-token-anaf-folosind-certificat-digital-din-php-oauth2) ([**ANAF**](https://static.anaf.ro/static/10/Anaf/Informatii_R/API/Oauth_procedura_inregistrare_aplicatii_portal_ANAF.pdf)), pt depunere de [declaratii](https://static.anaf.ro/static/10/Anaf/Declaratii_R/instructiuni/Instructiuni_D200.htm) si alte documente justificative,...<br/>
 – Casa Nationala de Asigurari de Sanatate (**CNAS**),<br/>
 – Inspectoratul Teritorial de Munca (**ITM**),<br/>
 – Oficiul National al Registrului Comertului (**ONRC**),<br/>
