@@ -16,3 +16,5 @@ Un alt [videoclip-YT](https://www.youtube.com/watch?v=5YpVs7bkg7k&ab_channel=Yar
 Publicatia ***Medium*** pune la dispozitia comunitatii sale, o serie intreaga de articole, care vizeaza integrarea [Autogen+Ollama](https://medium.com/@shmilysyg/getting-started-with-autogen-studio-crafting-ai-agents-with-ollama-or-lm-studio-21e715350eab)
 
 Si acest proiect [**GraphRAG**](https://github.com/karthik-codex/Autogen_GraphRAG_Ollama) poate constitui un bun [exemplu](https://www.youtube.com/watch?v=Dv0kVWMSISs&ab_channel=PromptEngineer) de utilizare a acestui instrument.
+
+Autogen figureaza si in aceasta [lista](https://github.com/underlines/awesome-ml/blob/master/llm-tools.md) de minunate instrumente ML, postata pe github.
