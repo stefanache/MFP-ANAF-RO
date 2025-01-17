@@ -11,7 +11,7 @@ Acest videoclip vă va ghida prin întregul proces, de la configurarea **Olama**
 
 Si domnul **Fahd Mirza** are un [**videoclip-YT**](https://www.youtube.com/watch?v=Kv2DqHO0-1s&ab_channel=FahdMirza) de prezentare a acestui [instrument](https://autogen-studio.com/autogen-studio-ui) care ne poate face munca de dezvoltare mai usoara.
 
-Un alt [videoclip-YT](https://www.youtube.com/watch?v=5YpVs7bkg7k&ab_channel=YaronBeen) prezinta o integrare **Autogen** cu **Groq** și **Ollama** (local și gratuit) pentru a ne ajuta să fac un brainstorming un portofoliu de investiții(deci prezinta un agent-AI de/pt automatizarea afacerilor) 
+Un alt [videoclip-YT](https://www.youtube.com/watch?v=5YpVs7bkg7k&ab_channel=YaronBeen) prezinta o integrare **Autogen** cu [**Groq**](https://www.getguru.com/reference/what-is-groq-ai-and-how-to-use-it) și **Ollama** (local și gratuit) pentru a ne ajuta să fac un brainstorming un portofoliu de investiții(deci prezinta un agent-AI de/pt automatizarea afacerilor) 
 
 Publicatia ***Medium*** pune la dispozitia comunitatii sale, o serie intreaga de articole, care vizeaza integrarea [Autogen+Ollama](https://medium.com/@shmilysyg/getting-started-with-autogen-studio-crafting-ai-agents-with-ollama-or-lm-studio-21e715350eab)
 
