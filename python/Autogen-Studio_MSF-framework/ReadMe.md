@@ -9,3 +9,5 @@ Am gasit de asemenea o [***integrare***](https://github.com/hqnicolas/WindowsAut
 Si domnul **Fahd Mirza** are un [**videoclip-YT**](https://www.youtube.com/watch?v=Kv2DqHO0-1s&ab_channel=FahdMirza) de prezentare a acestui [instrument](https://autogen-studio.com/autogen-studio-ui) care ne poate face munca de dezvoltare mai usoara.
 
 Publicatia ***Medium*** pune la dispozitia comunitatii sale, o serie intreaga de articole, care vizeaza integrarea [Autogen+Ollama](https://medium.com/@shmilysyg/getting-started-with-autogen-studio-crafting-ai-agents-with-ollama-or-lm-studio-21e715350eab)
+
+Acest proiect [**GraphRAG**](https://github.com/karthik-codex/Autogen_GraphRAG_Ollama) poate constitui un bun exemplu de utilizare a acestui instrument.
