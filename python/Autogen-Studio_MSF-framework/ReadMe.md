@@ -1,6 +1,6 @@
 Salut,
 
-In acest articol vreau sa va aduc in atentie/prezint [**AutoGen-Studio**](https://github.com/microsoft/autogen)(for/4 Windows), un cadru-AI de luru Microsoft(MSF-framework).
+In acest articol vreau sa va aduc in atentie/prezint [**AutoGen-Studio**](https://github.com/microsoft/autogen)(for/4 Windows), un cadru-AI de lucru Microsoft(MSF-framework).
 
 Aici gasiti [documentatia](https://microsoft.github.io/autogen/0.2/docs/Getting-Started) **Autogen 0.2**. Am zat ca din [*ecosistemul*](https://microsoft.github.io/autogen/0.2/docs/ecosystem) acestuia face parte si ***Ollama***.
 
