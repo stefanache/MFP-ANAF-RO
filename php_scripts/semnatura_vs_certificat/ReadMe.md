@@ -183,7 +183,7 @@ Atunci când utilizați **semnături digitale**, nu protejați doar documentele.
   
 <hr/>
 
-Obținerea unei **semnături digitale** necesită o serie de etape tehnice. <br/>Totul începe cu alegerea unei autorități de certificare terță parte. <br/>Această selecție inițială este foarte importantă, deoarece fiabilitatea și securitatea **semnăturii digitale** depind de integritatea [AC](https://ca.stsisp.ro/)(Autoritatii de Certificare).
+Obținerea unei **semnături digitale** necesită o serie de etape tehnice. <br/>Totul începe cu alegerea unei autorități de certificare terță parte. <br/>Această selecție inițială este foarte importantă, deoarece fiabilitatea și securitatea **semnăturii digitale** depind de integritatea [AC](https://ca.stsisp.ro/)([Autoritatii de Certificare](https://ca.stsisp.ro/download/Ghid_instalare_certificate.pdf)).
 
  - ***Selectați o autoritate de certificare de încredere***: <br/>
  Începeți prin a alege o autoritate de certificare de încredere, cunoscută pentru măsurile sale de securitate solide.
