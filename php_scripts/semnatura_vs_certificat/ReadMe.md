@@ -330,7 +330,7 @@ Această **semnătură** poate fi *verificată* de catre oricine(destinatar, cit
 
 Pe de altă parte, un **certificat digital** este ca o carte de identitate digitală emisă de o ***AC(autoritate de certificare)***. <br/>Acesta conține informații despre deținătorul certificatului(cum ar fi *denumirea comercială* și *cheia publică*), și este utilizat pentru a verifica *proprietatea* și *identitatea*.
 
-Atunci când cineva(destinatar, cititor,...) primește un document semnat digital, poate folosi **certificatul digital** al semnatarului(expeditor, autor...) pentru a verifica autenticitatea semnăturii. <br/>Acest lucru este posibil deoarece **certificatul digital** este emis de o ***autoritate de certificare(AC)*** de încredere(*trusted*), ceea ce înseamnă că informațiile pe care le conține au fost verificate și că se poate avea încredere(*trust*) în ele.
+Atunci când cineva(destinatar, cititor,...) primește un document semnat digital, poate folosi **certificatul digital** al semnatarului(expeditor, autor...) pentru a verifica autenticitatea semnăturii. <br/>Acest lucru este posibil deoarece **certificatul digital** este emis de o ***autoritate de certificare(AC)*** de încredere(*trusted*), ceea ce înseamnă că informațiile pe care le conține au fost verificate și că se poate avea încredere([*trust*](https://medium.com/@meghdadshamsaei/trust-model-implementation-by-pki-7cddcdb72513)) în ele.
 
 <hr/>
 
