@@ -10,4 +10,4 @@ Si domnul **Fahd Mirza** are un [**videoclip-YT**](https://www.youtube.com/watch
 
 Publicatia ***Medium*** pune la dispozitia comunitatii sale, o serie intreaga de articole, care vizeaza integrarea [Autogen+Ollama](https://medium.com/@shmilysyg/getting-started-with-autogen-studio-crafting-ai-agents-with-ollama-or-lm-studio-21e715350eab)
 
-Si acest proiect [**GraphRAG**](https://github.com/karthik-codex/Autogen_GraphRAG_Ollama) poate constitui un bun exemplu de utilizare a acestui instrument.
+Si acest proiect [**GraphRAG**](https://github.com/karthik-codex/Autogen_GraphRAG_Ollama) poate constitui un bun [exemplu](https://www.youtube.com/watch?v=Dv0kVWMSISs&ab_channel=PromptEngineer) de utilizare a acestui instrument.
