@@ -284,7 +284,7 @@ Spre exemplu, iata care este procedura/oferta intr-un caz particular de utilitat
 </details>
 
 <details>
-  <summary>11.Avantajele <b>certificatului digital</b>(aici veti citi si despre AES...)</summary>
+  <summary>11.Avantajele <b>certificatului digital</b>(aici veti citi si despre <a href="https://medium.com/@london.lingo.01/unlocking-the-power-of-php-encryption-secure-data-transmission-and-encryption-algorithms-c5ed7a2cb481">AES</a>...)</summary>
 
 <hr/>
 
