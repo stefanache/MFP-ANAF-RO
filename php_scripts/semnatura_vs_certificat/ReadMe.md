@@ -85,7 +85,7 @@ O **semnătură digitală** este un tip de [semnătură electronică](https://ww
  - Semnăturile din ***clasa 2*** (semnături bazate pe *identitate*):<br/>
    Acest tip de semnătură validează identificarea unei persoane prin compararea acesteia cu o bază de date verificată în prealabil.
  - Semnăturile din ***clasa 3*** (semnături validate în *persoană*):<br/>
-   Aceste semnături sunt acordate după validarea persoanei care depune cererea în persoană, asigurând un nivel mai ridicat de încredere și validare pentru tranzacțiile financiare esențiale, cum ar fi platformele de cumpărături online și licitațiile electronice.
+   Aceste semnături sunt acordate după validarea persoanei care depune cererea în persoană, asigurând un nivel mai ridicat de [încredere](https://www.mn.uio.no/ifi/english/people/aca/josang/publications/jos2013-crypsis.pdf) și validare pentru tranzacțiile financiare esențiale, cum ar fi platformele de cumpărături online și licitațiile electronice.
 
 
 
