@@ -190,7 +190,7 @@ Obținerea unei **semnături digitale** necesită o serie de etape tehnice. <br/
  - ***Verificați identitatea dumneavoastră***: <br/>
 Trimiteți documentele necesare pentru a confirma identitatea dumneavoastră sau a organizației dumneavoastră în vederea validării.
  - ***Generarea perechii de chei***: <br/>
-Utilizați un software criptografic, cum ar fi [OpenSSL](https://www.ssldragon.com/ro/blog/what-is-openssl/), pentru a genera o cheie privată(de incriptare) și una publică(de decriptare) – esențiale pentru crearea și verificarea **semnăturii digitale**.
+Utilizați un software [criptografic](https://www.php.net/manual/en/function.openssl-sign.php), cum ar fi [OpenSSL](https://www.ssldragon.com/ro/blog/what-is-openssl/), pentru a genera o cheie privată(de incriptare) și una publică(de decriptare) – esențiale pentru crearea și verificarea **semnăturii digitale**.
  - ***Obțineți semnătura digitală***: <br/>
 Autoritatea de certificare(AC) emite un ***certificat*** de **semnătură digitală**, care face legătura între identitatea dumneavoastră și cheia dumneavoastră publică. <br/>Asigură autenticitatea **semnăturilor digitale**.
  - ***Instalare și utilizare***: <br/>
