@@ -133,6 +133,6 @@ Am observat ca, pt partea de antrenament/invatare/reglare a acestui model, se re
    
 sau/si
 
- - *reglajul fin*(sau post-antrenamentul de precizie/specificitate), cu ajutorul produsului intitulat **AutoTrain**(fara a fi nevoit sa scrii cod)
+ - *reglajul fin*(sau post-antrenamentul de precizie/specificitate), cu ajutorul produsului intitulat [**AutoTrain**](https://github.com/huggingface/autotrain-advanced)(fara a fi nevoit sa scrii cod)
 
 Desigur ca, in cazul in care, nu aveti resursele GPU extrem de mari(pt a face inferenta locala, va trebuiesc 80GB VRAM pe GPU-uri de tip h100/a100, intr-un cluster multi-GPU), cerute de acest model masiv, atunci ...va trebui sa testati/exersati modelul direct in [spatiul-HF](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbEJ5QUxrM3dYTV9EN1l0a0Rwb1J3eVhZZHV6QXxBQ3Jtc0ttS0xpZkZwU2dleTRNWFlwNmYtSDh1T0R5SC01blQtRnZOc2k5M0I0WW5TVGlOck1PNDZUOGd1elVyeFp3bTY5eTlRMmJWUU9sQjJRaTk0UnJSaHRNbERoME1oOV9XblpGWmRTa3lJbUdDTUQ4ZFZPMA&q=https%3A%2F%2Fhuggingface.co%2Fspaces%2FMiniMaxAI%2FMiniMax-VL-01&v=mPA3z3jPXt4).
