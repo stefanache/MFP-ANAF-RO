@@ -29,7 +29,7 @@ Fiind expus pe hub-ul AI-CDN [**HuggingFace**(**HF**)](https://huggingface.co/Mi
 Daca doriti sa testati/porniti foarte rapid si sa vedeti cum lucreaza atunci sectiunea urmatoare va poate fi de folos:
 
 <details>
- <summary>Exemplu rapid de utilizare/testare a modelului analizat</summary>
+ <summary>Presupunand ca dependentele au fost rezolvate deja/in prealabil, exemplul rapid de utilizare/testare a modelului analizat, ar trebui, sa functioneze din prima:</summary>
 
 <hr/>
 
