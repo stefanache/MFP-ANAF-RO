@@ -1,6 +1,6 @@
 Salut tuturor,
 
-In acest mic post, as vrea sa va prezint, modelul multimodal de viziune computerizata [**MinMax-VL-01**](https://www.youtube.com/watch?v=mPA3z3jPXt4&ab_channel=FahdMirza)(multumiri d-lui [**Fahd-Mirza**](https://www.youtube.com/@fahdmirza)).
+In acest mic post, as vrea sa va prezint/analizez, modelul multimodal de viziune computerizata [**MinMax-VL-01**](https://www.youtube.com/watch?v=mPA3z3jPXt4&ab_channel=FahdMirza)(multumiri d-lui [**Fahd-Mirza**](https://www.youtube.com/@fahdmirza)).
 
 Modelul [**MiniMax-VL-01**](https://huggingface.co/MiniMaxAI/MiniMax-VL-01) adoptă cadrul/pachetul/modul de lucru „[***ViT-MLP-LLM***](https://medium.com/@ikim1994914/advanced-modern-llm-part-2-understanding-the-universality-of-transformers-3c367ce5989d)”(unde avem: [***ViT***](https://www.researchgate.net/publication/383308743_Vintern-1B_An_Efficient_Multimodal_Large_Language_Model_for_Vietnamese) = i.e = **V**is**i**on-**T**ransformer, [**MLP**](https://en.wikipedia.org/wiki/Multilayer_perceptron) = i.e = **P**erceptron multistrat/**M**ulti**L**ayer, [**LLM**](https://en.wikipedia.org/wiki/Large_language_model)  = i.e. = **M**odele **L**argi/masive de **L**imbaj).
 
@@ -10,7 +10,7 @@ Modelul [**MiniMax-VL-01**](https://huggingface.co/MiniMaxAI/MiniMax-VL-01) este
  - **MiniMax-Text-01** ca ***LLM*** de bază. <br/>
    **MiniMax-VL-01** are o caracteristică notabilă de rezoluție dinamică.
 
-Hai sa vedem cum functioneaza acest model.
+Hai sa vedem cum functioneaza si cum se comporta modellul supus analizei nostre.
 Imaginile de intrare sunt redimensionate pe o grilă prestabilită, cu rezoluții de la 336×336 la 2016×2016, păstrând o miniatură de(reducandu-se la) 336×336.<br/>
 Imaginile redimensionate sunt împărțite în patch-uri(bucatele de puzzle/petice) care nu se suprapun(se alipesc) de aceeași dimensiune.<br/>
 Aceste patch-uri și miniatura(imaginea redusa... a se vedea algoritmii de reducere si frontul Pareto... cu 20% parte esentiala/utila/semnificativa de informatie si restul de 80% partea de balast/mai putin utila/nesemnificativa) sunt codificate separat și apoi combinate pentru o reprezentare completă a imaginii. <br/>
