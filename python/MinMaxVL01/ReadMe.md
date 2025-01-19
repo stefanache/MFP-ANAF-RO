@@ -31,6 +31,8 @@ Daca doriti sa testati/porniti foarte rapid si sa vedeti cum lucreaza atunci sec
 <details>
  <summary>Exemplu rapid de utilizare/testare a modelului analizat</summary>
 
+<hr/>
+
 <code>
  
    from transformers import AutoModelForCausalLM, AutoProcessor, AutoConfig, QuantoConfig, GenerationConfig
@@ -118,5 +120,7 @@ Daca doriti sa testati/porniti foarte rapid si sa vedeti cum lucreaza atunci sec
    response = processor.tokenizer.batch_decode(generated_ids, skip_special_tokens=True)[0]
 
 </code>
+
+<hr/>
 
 </details>
