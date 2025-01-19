@@ -30,6 +30,8 @@ Daca doriti sa testati/porniti foarte rapid si sa vedeti cum lucreaza atunci sec
 
 <details>
  <summary>Exemplu rapid de utilizare/testare a modelului analizat</summary>
+
+ """
  
    from transformers import AutoModelForCausalLM, AutoProcessor, AutoConfig, QuantoConfig, GenerationConfig
    import torch
@@ -114,5 +116,7 @@ Daca doriti sa testati/porniti foarte rapid si sa vedeti cum lucreaza atunci sec
        output_ids[len(input_ids):] for input_ids, output_ids in zip(model_inputs.input_ids, generated_ids)
    ]
    response = processor.tokenizer.batch_decode(generated_ids, skip_special_tokens=True)[0]
-   
+
+"""
+
 </details>
