@@ -132,3 +132,5 @@ Am observat ca, pt partea de antrenament/invatare/reglare a acestui model, se re
 sau/si
 
  - *reglajul fin*(sau post-antrenamentul de precizie/specificitate), cu ajutorul produsului intitulat **AutoTrain**(fara a fi nevoit sa scrii cod)
+
+   Desigur ca in cazul in care nu aveti resursele GPU extrem de mari(8 80GB VRAM pe GPU = h100/a100)  cerute de acest model atunci va trebui sa testati modelul direct in spatiul-HF.
