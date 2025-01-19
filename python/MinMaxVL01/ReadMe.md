@@ -1,6 +1,6 @@
 Salut tuturor,
 
-In acest mic post, as vrea sa va prezint/analizez, modelul multimodal de viziune computerizata [**MinMax-VL-01**](https://www.youtube.com/watch?v=mPA3z3jPXt4&ab_channel=FahdMirza)(multumiri d-lui [**Fahd-Mirza**](https://www.youtube.com/@fahdmirza)).
+In acest mic post, as vrea sa va prezint/analizez, modelul multimodal de viziune computerizata([CV](https://en.wikipedia.org/wiki/Computer_vision)), [**MinMax-VL-01**](https://www.youtube.com/watch?v=mPA3z3jPXt4&ab_channel=FahdMirza)(multumiri d-lui [**Fahd-Mirza**](https://www.youtube.com/@fahdmirza)).
 
 Modelul [**MiniMax-VL-01**](https://huggingface.co/MiniMaxAI/MiniMax-VL-01) adoptă cadrul/pachetul/modul de lucru „[***ViT-MLP-LLM***](https://medium.com/@ikim1994914/advanced-modern-llm-part-2-understanding-the-universality-of-transformers-3c367ce5989d)”(unde avem: [***ViT***](https://www.researchgate.net/publication/383308743_Vintern-1B_An_Efficient_Multimodal_Large_Language_Model_for_Vietnamese) = i.e = **V**is**i**on-**T**ransformer, [**MLP**](https://en.wikipedia.org/wiki/Multilayer_perceptron) = i.e = **P**erceptron multistrat/**M**ulti**L**ayer, [**LLM**](https://en.wikipedia.org/wiki/Large_language_model)  = i.e. = **M**odele **L**argi/masive de **L**imbaj).
 
