@@ -15,7 +15,7 @@ Imaginile de intrare sunt redimensionate pe o grilă prestabilită, cu rezoluți
 Imaginile redimensionate sunt împărțite în patch-uri(bucatele de puzzle/petice) care nu se suprapun(se alipesc) de aceeași dimensiune.<br/>
 Aceste patch-uri și miniatura(imaginea redusa... a se vedea algoritmii de reducere si frontul Pareto... cu 20% parte esentiala/utila/semnificativa de informatie si restul de 80% partea de balast/mai putin utila/nesemnificativa) sunt codificate separat și apoi combinate pentru o reprezentare completă a imaginii. <br/>
 Datele de antrenament pentru **MiniMax-VL-01** constau din legendă(explicatii cu privire la simbolurile e reprezentare=meta-informatie), descriere(meta-informatie) și date cu privire la instrucțiuni. <br/>
-**Vision Transformer** (**ViT**) este antrenat de la zero pe 694 de milioane de perechi: (subtitrări,imagine).<br/>
+**Vision Transformer** (**ViT**) este antrenat de la zero pe 694 de milioane de perechi de subtitrari de imagine: (subtitrări,imagine).<br/>
 În patru etape distincte ale conductei de antrenament, sunt procesate un total de 512 miliarde de jetoane, valorificând această cantitate mare de date pentru a dota modelul cu capabilități puternice.<br/>
 În cele din urmă, **MiniMax-VL-01** a atins performanță la cel mai înalt nivel(s-a masurat nivelul in % de acuratete) pe clasamentele multimodale(in *domenii*/**cunostinte**: *domenii* precum *intrebari si raspunsuri vizuale=visual Q&A*, *matematica si stiinta*,...,*experienta utilizatorului*... care contin/se refera la diverse standuri specializate de lucru/benchmark-uri de **cunostinte**, cum ar fi **MMMU**, **MMMU-Pro**/*evaluat după o setare* ***CoT [0-shot](https://en.wikipedia.org/wiki/Zero-shot_learning)***, **ChartQA**, **DocVQA**, **AI2D**, **MathVista**, ...**OCRBench**), demonstrându-și avantajul și fiabilitatea în sarcini multimodale complexe(sarcini specifice LLM-urilor, precum **GPT-4o**, **Claude-3.5-Sonet**, **Gemeni-1.5-Pro**,...,**LLama 3.2 90B**).
 
@@ -133,4 +133,4 @@ sau/si
 
  - *reglajul fin*(sau post-antrenamentul de precizie/specificitate), cu ajutorul produsului intitulat **AutoTrain**(fara a fi nevoit sa scrii cod)
 
-   Desigur ca in cazul in care nu aveti resursele GPU extrem de mari(8 80GB VRAM pe GPU = h100/a100)  cerute de acest model atunci va trebui sa testati modelul direct in spatiul-HF.
+   Desigur ca in cazul in care nu aveti resursele GPU extrem de mari(80GB VRAM pe GPU = h100/a100)  cerute de acest model atunci va trebui sa testati modelul direct in spatiul-HF.
