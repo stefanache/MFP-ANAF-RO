@@ -127,8 +127,8 @@ Daca doriti sa testati/porniti foarte rapid si sa vedeti cum lucreaza atunci sec
 
 Am observat ca, pt partea de antrenament/invatare/reglare a acestui model, se recomanda :
 
- - *antrenamentul optimizat*folosind serviciul online **SageMaker** de la **Amazon**
+ - *antrenamentul optimizat*, folosind serviciul online **SageMaker** de la **Amazon**
    
 sau/si
 
- - *reglajul fin* cu ajutorul produsului intitulat **Autotrain**(fara a fi nevoit sa scrii cod)
+ - *reglajul fin*(sau post-antrenamentul de precizie/specificitate), cu ajutorul produsului intitulat **AutoTrain**(fara a fi nevoit sa scrii cod)
