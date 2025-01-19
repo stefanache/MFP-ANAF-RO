@@ -124,3 +124,11 @@ Daca doriti sa testati/porniti foarte rapid si sa vedeti cum lucreaza atunci sec
 <hr/>
 
 </details>
+
+Am observat ca, pt partea de antrenament/invatare/reglare a acestui model, se recomanda :
+
+ - *antrenamentul optimizat*folosind serviciul online **SageMaker** de la **Amazon**
+   
+sau/si
+
+ - *reglajul fin* cu ajutorul produsului intitulat **Autotrain**(fara a fi nevoit sa scrii cod)
