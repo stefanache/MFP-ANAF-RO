@@ -21,7 +21,7 @@ Datele de antrenament pentru **MiniMax-VL-01** constau din legendă(explicatii c
 
  
 
-In afara de integrarea cu [**Transformers**](https://huggingface.co/MiniMaxAI/MiniMax-VL-01?library=transformers), acest [**model**](https://huggingface.co/MiniMaxAI/MiniMax-VL-01) *masiv*( acest *LLM* are o dimenziune care se cifreaza la *456 miliarde* de paramatrii), mai se integreaza in - / lucreaza inpreuna cu - aplicatiile Python *locale*(pe computer-ul dvs fie desktop-PC/laptop...), prin intermediul/utilizand [**vLLM**](https://huggingface.co/MiniMaxAI/MiniMax-VL-01?local-app=vllm).
+In afara de integrarea cu [**Transformers**](https://huggingface.co/MiniMaxAI/MiniMax-VL-01?library=transformers)(pt. / care ofera algoritmul/tehnica de difuzie), acest [**model**](https://huggingface.co/MiniMaxAI/MiniMax-VL-01) *masiv*( acest *LLM* are o dimenziune care se cifreaza la *456 miliarde* de paramatrii), mai se integreaza in - / lucreaza inpreuna cu - aplicatiile Python *locale*(pe computer-ul dvs fie desktop-PC/laptop...), prin intermediul/utilizand [**vLLM**](https://huggingface.co/MiniMaxAI/MiniMax-VL-01?local-app=vllm).
 
 Fiind expus pe hub-ul AI-CDN [**HuggingFace**(**HF**)](https://huggingface.co/MiniMaxAI/MiniMax-VL-01) aveti posibilitatea sa-l vedeti lucrand/testati direct pe [website](https://huggingface.co/spaces/MiniMaxAI/MiniMax-VL-01)-ul lor.
 
