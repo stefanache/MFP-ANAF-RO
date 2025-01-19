@@ -12,7 +12,7 @@ Modelul [**MiniMax-VL-01**](https://huggingface.co/MiniMaxAI/MiniMax-VL-01) este
 
 Hai sa vedem cum functioneaza si cum se comporta modellul supus analizei nostre.
 Imaginile de intrare sunt redimensionate pe o grilă prestabilită, cu rezoluții de la 336×336 la 2016×2016, păstrând o miniatură de(reducandu-se la) 336×336.<br/>
-Imaginile redimensionate sunt împărțite în patch-uri(bucatele de puzzle/petice) care nu se suprapun(se alipesc) de aceeași dimensiune.<br/>
+Imaginile redimensionate sunt împărțite în patch-uri(bucatele de puzzle/petice; impartirea in aceste bucatele permie o procesare mai eficienta) care nu se suprapun(se alipesc) de aceeași dimensiune.<br/>
 Aceste patch-uri și miniatura(imaginea redusa... a se vedea algoritmii de reducere si frontul Pareto... cu 20% parte esentiala/utila/semnificativa de informatie si restul de 80% partea de balast/mai putin utila/nesemnificativa) sunt codificate separat și apoi combinate pentru o reprezentare completă a imaginii. <br/>
 Datele de antrenament pentru **MiniMax-VL-01** constau din legendă(explicatii cu privire la simbolurile e reprezentare=meta-informatie), descriere(meta-informatie) și date cu privire la instrucțiuni. <br/>
 **Vision Transformer** (**ViT**) este antrenat de la zero pe 694 de milioane de perechi de subtitrari de imagine: (subtitrări,imagine).<br/>
