@@ -5,7 +5,7 @@ In acest mic post, as vrea sa va prezint/analizez, modelul multimodal de viziune
 Modelul [**MiniMax-VL-01**](https://huggingface.co/MiniMaxAI/MiniMax-VL-01) adoptă cadrul/pachetul/modul de lucru „[***ViT-MLP-LLM***](https://medium.com/@ikim1994914/advanced-modern-llm-part-2-understanding-the-universality-of-transformers-3c367ce5989d)”(unde avem: [***ViT***](https://www.researchgate.net/publication/383308743_Vintern-1B_An_Efficient_Multimodal_Large_Language_Model_for_Vietnamese) = i.e = **V**is**i**on-**T**ransformer, [**MLP**](https://en.wikipedia.org/wiki/Multilayer_perceptron) = i.e = **P**erceptron multistrat/**M**ulti**L**ayer, [**LLM**](https://en.wikipedia.org/wiki/Large_language_model)  = i.e. = **M**odele **L**argi/masive de **L**imbaj).
 
 Modelul [**MiniMax-VL-01**](https://huggingface.co/MiniMaxAI/MiniMax-VL-01) este inițiat/invatat și antrenat cu trei părți cheie/importante(conform framework-ului „[***ViT-MLP-LLM***](https://medium.com/@ikim1994914/advanced-modern-llm-part-2-understanding-the-universality-of-transformers-3c367ce5989d)”: 
- - un **Vision Transformer** (**ViT**) cu 303 de milioane de parametri pentru codificare vizuală,
+ - un **Vision-Transformer** (**ViT**) cu 303 de milioane de parametri pentru codificare vizuală,
  - un proiector **MLP** cu două straturi inițializat aleatoriu pentru adaptarea imaginii și
  - **MiniMax-Text-01** ca ***LLM*** de bază. <br/>
    **MiniMax-VL-01** are o caracteristică notabilă de rezoluție dinamică.
