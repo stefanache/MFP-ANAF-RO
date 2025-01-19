@@ -8,7 +8,7 @@ Modelul [**MiniMax-VL-01**](https://huggingface.co/MiniMaxAI/MiniMax-VL-01) este
 
  - un **Vision-Transformer** (**ViT**) cu 303 de milioane de parametri pentru/ca si codificare vizuală,
  - un proiector **MLP** cu două straturi inițializat aleatoriu pentru/in scopul adaptar[ea/ii] imaginii și
- - [**MiniMax-Text-01**](https://www.analyticsvidhya.com/blog/2025/01/minimax-text-01/) ca ***LLM*** de bază(care beneficiaza de mecanismul de "***atentie*** *extrem de rapida*/**fulgeratoare***/*blitz*"(eng: **Lightning Attention**) , [*caracteristica*](https://note.com/hamachi_jp/n/ne9d5e5ebfa7a), care, desigur, este mai departe *mostenita* si de modelul nostru, [**MiniMax-VL-01**](https://huggingface.co/MiniMaxAI/MiniMax-VL-01), analizat in acest [postcast](https://stefanache.github.com/MFP-ANAF-RO/python/MinMaxVL01)). <br/>
+ - [**MiniMax-Text-01**](https://www.analyticsvidhya.com/blog/2025/01/minimax-text-01/) ca ***LLM*** de bază(care beneficiaza de mecanismul de "***atentie*** *extrem de rapida*/**fulgeratoare***/*blitz*"(eng: **Lightning Attention**) , [*caracteristica*](https://note.com/hamachi_jp/n/ne9d5e5ebfa7a), care, desigur, este mai departe *mostenita* si de modelul nostru, [**MiniMax-VL-01**](https://huggingface.co/MiniMaxAI/MiniMax-VL-01), analizat in acest [postcast](https://github.com/stefanache/MFP-ANAF-RO/view/main/python/MinMaxVL01)). <br/>
 
 **MiniMax-VL-01** are o caracteristică notabilă de rezoluție dinamică.
 
