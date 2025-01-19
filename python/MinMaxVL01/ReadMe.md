@@ -24,3 +24,95 @@ Datele de antrenament pentru **MiniMax-VL-01** constau din legendă(explicatii c
 In afara de integrarea cu [**Transformers**](https://huggingface.co/MiniMaxAI/MiniMax-VL-01?library=transformers), acest [**model**](https://huggingface.co/MiniMaxAI/MiniMax-VL-01) *masiv*( acest *LLM* are o dimenziune care se cifreaza la *456 miliarde* de paramatrii), mai se integreaza in - / lucreaza inpreuna cu - aplicatiile Python *locale*(pe computer-ul dvs fie desktop-PC/laptop...), prin intermediul/utilizand [**vLLM**](https://huggingface.co/MiniMaxAI/MiniMax-VL-01?local-app=vllm).
 
 Fiind expus pe hub-ul AI-CDN [**HuggingFace**(**HF**)](https://huggingface.co/MiniMaxAI/MiniMax-VL-01) aveti posibilitatea sa-l vedeti lucrand/testati direct pe [website](https://huggingface.co/spaces/MiniMaxAI/MiniMax-VL-01)-ul lor.
+
+
+Daca doriti sa testati/porniti foarte rapid si sa vedeti cum lucreaza atunci sectiunea urmatoare va poate fi de folos:
+
+<details>
+ <summary>Exemplu rapid de utilizare/testare a modelului analizat</summary>
+ 
+   from transformers import AutoModelForCausalLM, AutoProcessor, AutoConfig, QuantoConfig, GenerationConfig
+   import torch
+   import json
+   import os
+   from PIL import Image
+   
+   # load hf config
+   hf_config = AutoConfig.from_pretrained("MiniMaxAI/MiniMax-VL-01", trust_remote_code=True)
+   
+   # quantization config, int8 is recommended
+   quantization_config =  QuantoConfig(
+               weights="int8",
+               modules_to_not_convert=[
+                   "vision_tower",
+                   "image_newline",
+                   "multi_modal_projector",
+                   "lm_head",
+                   "embed_tokens",
+               ] + [f"model.layers.{i}.coefficient" for i in range(hf_config.text_config.num_hidden_layers)]
+               + [f"model.layers.{i}.block_sparse_moe.gate" for i in range(hf_config.text_config.num_hidden_layers)]
+           )
+   
+   # set device map
+   model_safetensors_index_path = os.path.join("MiniMax-VL-01", "model.safetensors.index.json")
+   with open(model_safetensors_index_path, "r") as f:
+       model_safetensors_index = json.load(f)
+   weight_map = model_safetensors_index['weight_map']
+   vision_map = {}
+   for key, value in weight_map.items():
+       if 'vision_tower' in key or 'image_newline' in key or 'multi_modal_projector' in key:
+           new_key = key.replace('.weight','').replace('.bias','')
+           if new_key not in vision_map:
+               vision_map[new_key] = value
+   # assume 8 GPUs
+   world_size = 8
+   device_map = {
+       'language_model.model.embed_tokens': 'cuda:0',
+       'language_model.model.norm': f'cuda:{world_size - 1}',
+       'language_model.lm_head': f'cuda:{world_size - 1}'
+   }
+   for key, value in vision_map.items():
+       device_map[key] = f'cuda:0'
+   device_map['vision_tower.vision_model.post_layernorm'] = f'cuda:0'
+   layers_per_device = hf_config.text_config.num_hidden_layers // world_size
+   for i in range(world_size):
+       for j in range(layers_per_device):
+           device_map[f'language_model.model.layers.{i * layers_per_device + j}'] = f'cuda:{i}'
+   
+   # load processor
+   processor = AutoProcessor.from_pretrained("MiniMaxAI/MiniMax-VL-01", trust_remote_code=True)
+   messages = [
+       {"role": "system", "content": [{"type": "text", "text": "You are a helpful assistant created by MiniMax based on MiniMax-VL-01 model."}]},
+       {"role": "user", "content": [{"type": "image", "image": "placeholder"},{"type": "text", "text": "Describe this image."}]},
+   ]
+   prompt = processor.tokenizer.apply_chat_template(
+       messages, tokenize=False, add_generation_prompt=True
+   )
+   raw_image = Image.open("figures/image.jpg")
+   # tokenize and move to device
+   model_inputs = processor(images=[raw_image], text=prompt, return_tensors='pt').to('cuda').to(torch.bfloat16)
+   
+   # load bfloat16 model, move to device, and apply quantization
+   quantized_model = AutoModelForCausalLM.from_pretrained(
+       "MiniMaxAI/MiniMax-VL-01",
+       torch_dtype="bfloat16",
+       device_map=device_map,
+       quantization_config=quantization_config,
+       trust_remote_code=True,
+       offload_buffers=True,
+   )
+   generation_config = GenerationConfig(
+       max_new_tokens=100,
+       eos_token_id=200020,
+       use_cache=True,
+   )
+   
+   # generate response
+   generated_ids = quantized_model.generate(**model_inputs, generation_config=generation_config)
+   print(f"generated_ids: {generated_ids}")
+   generated_ids = [
+       output_ids[len(input_ids):] for input_ids, output_ids in zip(model_inputs.input_ids, generated_ids)
+   ]
+   response = processor.tokenizer.batch_decode(generated_ids, skip_special_tokens=True)[0]
+   
+</details>
