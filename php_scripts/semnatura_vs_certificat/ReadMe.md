@@ -340,4 +340,4 @@ Atunci când cineva(destinatar, cititor,...) primește un document semnat digita
 
 Acum că ați înțeles diferența dintre **semnătura digitală** și **certificatul digital**, sunteți echipat pentru a distinge rolurile lor specifice în securitatea cibernetică. <br/>**Semnăturile digitale** verifică originea și integritatea datelor, în timp ce **certificatele** digitale validează identitatea părților în cadrul comunicațiilor online. <br/>Aceste cunoștințe vă permit să implementați măsuri de securitate eficiente și să reduceți cu încredere riscurile cibernetice.
 
-La final as avea o recomandare de a  citi si aceasta procedura [***OAUTH***](mai ales despre token-ul **JWT**) elaborata de catre **ANAF**
+La final as avea o recomandare de a  citi si aceasta procedura [***Oauth 2.0***](mai ales despre token/jeton-ul **JWT**) elaborata de catre **ANAF**
