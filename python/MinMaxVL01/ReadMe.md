@@ -17,7 +17,7 @@ Aceste patch-uri și miniatura(imaginea redusa... a se vedea algoritmii de reduc
 Datele de antrenament pentru **MiniMax-VL-01** constau din legendă(explicatii cu privire la simbolurile e reprezentare=meta-informatie), descriere(meta-informatie) și date cu privire la instrucțiuni. <br/>
 **Vision Transformer** (**ViT**) este antrenat de la zero pe 694 de milioane de perechi: (subtitrări,imagine).<br/>
 În patru etape distincte ale conductei de antrenament, sunt procesate un total de 512 miliarde de jetoane, valorificând această cantitate mare de date pentru a dota modelul cu capabilități puternice.<br/>
-În cele din urmă, **MiniMax-VL-01** a atins performanță la cel mai înalt nivel pe clasamentele multimodale, demonstrându-și avantajul și fiabilitatea în sarcini multimodale complexe.
+În cele din urmă, **MiniMax-VL-01** a atins performanță la cel mai înalt nivel(s-a masurat nivelul in % de acuratete) pe clasamentele multimodale(in domenii/cunostinte ca: intrebari si raspunsuri vizuale=visual Q&A,, matematica si stiinta,..., experienta utilizatorului...in diverse standuri specializate de lucru/benchmark-uri cum ar fi MMMU,MMMU-Pro, ChartQA, DocVQA, AI2D, MathVista, MathVista,...OCRBench), demonstrându-și avantajul și fiabilitatea în sarcini multimodale complexe(sarcini specifice LLM-urilor, precum **GPT-4o**, **Claude-3.5-Sonet**, **Gemeni-1.5-Pro **,...,**LLama 3.2 90B**).
 
  
 
