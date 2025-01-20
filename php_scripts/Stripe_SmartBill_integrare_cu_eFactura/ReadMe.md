@@ -7,7 +7,7 @@ In actele de comert, inca de la inceput, trebuie sa facem distinctie intre, gest
 In privinta sincronizarii, facturarii/facturarilor si/cu platilor/platile aferente, trebuie mentionat faptul ca, de regula, in timp, factura este cea care este emisa prima si apoi urmeaza plata sa, dar exista, uneori, poate mai rar, si cazul **platilor in avans**, in vederea rezervarii de produse sau servicii.
 In acest caz, cel de pe urma(al platilor in avans), **plata** creaza obligatia viitoare de facturare, iar **facturarea** propriu-zisa, va stinge aceasta obligatie(de natura documentelor justificative financiare...care vor sta la baza [contabilitatii](661093) financiare si de gestiune in dubla partida).
 
-In actele comerciale(de vanzare-cumparare), exista multe scheme de flux monetar si de marfuri, ca descriu in detaliu, cicluri complexe, financiar-contabile si de gestiune, dar nu vom intra in aceste aspecte/scheme de circuit,documente,instrumente,modalitati...de plata... cu toate ca ... , vorbim aici despre... un domeniu extrem de provocator, in materie de acumare de cunostinte economice.
+In actele comerciale(de vanzare-cumparare), exista multe scheme de flux monetar si de marfuri, ca descriu in detaliu, cicluri complexe, financiar-contabile si de gestiune, dar nu vom intra in aceste aspecte/scheme de circuit,acceleratori, documente, instrumente, modalitati...de plata... cu toate ca ... , vorbim aici despre... un domeniu extrem de provocator, in materie de acumare de cunostinte economice.
 
 As recomanda pt inceput, spre lectura, cateva articole interesante(multumiri organizatiilor si persoanelor pt autoratul acestor articole!!!):
 
