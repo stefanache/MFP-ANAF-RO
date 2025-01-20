@@ -21,6 +21,6 @@ As recomanda pt inceput, spre lectura, cateva articole interesante(multumiri org
 - si ***oblio.eu*** are un [articol](https://www.oblio.eu/?rnid=74&gad_source=1&gclid=Cj0KCQiA4rK8BhD7ARIsAFe5LXKryEq_NgJdGn4ca4yRoQ3n1PDSOVB9RJnOpEWOZWLfS7hGjiJ0hlIaAotuEALw_wcB), referitor la integrarea platformei lor cu sistemul **e-Factura**
 - ... si lista poate continua...
 
-In continuare, as dori sa mentionez, ca sunt la cautare, task-urile de automatizare, integratori de flux gen: **aplicatie-integratoare sa spunem... pt un magazin online Magento**->**Stripe**-> **SmartBill**->**e-Factura**.
+In continuare, as dori sa mentionez, ca sunt la cautare, task-urile de automatizare, integratori de flux gen:<br/> **aplicatie-integratoare sa spunem... pt un magazin online Magento**->**Stripe**-> **SmartBill**->**e-Factura**.
 
 
