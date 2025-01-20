@@ -5,4 +5,4 @@ In acest post, incerc sa creez cateva punti/poduri de legatura, pentru cei care 
 As recomanda pt inceput, cateva articole interesante:
 
  - [**integrare Stripe e-Factura**](https://www.makeitfuture.eu/integrare-stripe-e-factura) oferit de site-ul [***makeitfuture.eu***](https://www.makeitfuture.eu)
- - [**plati si facturi SaaS**](https://www.reddit.com/r/programare/comments/11nx5gu/plati_si_facturi_saas/) aparut pe platforma [**reddit**](https://www.reddit.com/r/programare/)
+ - [**plati si facturi SaaS**](https://www.reddit.com/r/programare/comments/11nx5gu/plati_si_facturi_saas/), [Stripe subscriptions si e-Factura](https://www.reddit.com/r/programare/comments/18xhyel/stripe_subscriptions_%C8%99i_efactur%C4%83/)  aparute pe platforma [**reddit**](https://www.reddit.com/r/programare/)
