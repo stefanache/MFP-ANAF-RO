@@ -20,3 +20,7 @@ As recomanda pt inceput, spre lectura, cateva articole interesante(multumiri org
 - din acest [anunt](https://www.facebook.com/FacturareSmartBill/posts/%C3%AEncep%C3%A2nd-cu-1-ianuarie-2025-sistemul-na%C8%9Bional-de-facturare-electronic%C4%83-ro-e-fact/998658668970227/), postat de catre **SmartBill Romania**, aflam ca de la 01.01.2025, sistemul **RO e-Factura**(sistemul national al Romaniei pentru raportarea facturilor emise/primite in relatia lor/firmelor/companiilor cu alte firme-client sau cu clientii lor, persoane-fizice/populatie), a devenit operational si in/pe relatia **B2C**(Business2Client)(pt ca **B2B** era deja in functiune )
 - si ***oblio.eu*** are un [articol](https://www.oblio.eu/?rnid=74&gad_source=1&gclid=Cj0KCQiA4rK8BhD7ARIsAFe5LXKryEq_NgJdGn4ca4yRoQ3n1PDSOVB9RJnOpEWOZWLfS7hGjiJ0hlIaAotuEALw_wcB), referitor la integrarea platformei lor cu sistemul **e-Factura**
 - ... si lista poate continua...
+
+In continuare as dori sa mentionez ca sunt la cautare task-urile de automatizare a integrarii gen: **aplicatie-integratoare sa spunem... pt un magazin online Magento**->**Stripe**-> **SmartBill**->**e-Factura**.
+
+
