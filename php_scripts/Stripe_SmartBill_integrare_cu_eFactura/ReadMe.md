@@ -5,7 +5,7 @@ In acest post, incerc sa creez cateva punti/poduri(puncte/cai de legatura), pent
 In actele de comert, inca de la inceput, trebuie sa facem distinctie intre, gestul/evenimentul de comert denumit **facturare**(ca si obligatie de a plati in viitorul apropiat/indepartat, adusa la cunostinta cumparatorului de catre vanzator), eveniment dezechilibrator ce se refera la obligatia de plata(intr-un viitor mai mult sau mai putin indepartat/apropiat), si,  evenimentul sau pereche/echilibrator, care urmeaza facturarii, evenimentul de ***plata*** efectiva.
 
 In privinta sincronizarii, facturarii/facturarilor si platii/platilor aferente, trebuie mentionat faptul ca, de regula, in timp, factura este cea care este emisa prima si apoi urmeaza plata sa, dar exista, uneori, poate mai rar, si cazul **platilor in avans**, in vederea rezervarii de produse sau servicii.
-In acest caz, cel de pe urma(al platilor in avans), **plata** creaza obligatia viitoare de facturare, iar **facturarea** propriu-zisa, va stinge aceasta obligatie.
+In acest caz, cel de pe urma(al platilor in avans), **plata** creaza obligatia viitoare de facturare, iar **facturarea** propriu-zisa, va stinge aceasta obligatie(de natura documentelor justificative financiare...care vor sta la baza contabilitatii financiare si de gestiune in dubla partida).
 
 As recomanda pt inceput, spre lectura, cateva articole interesante(multumiri organizatiilor si persoanelor pt autoratul acestor articole!!!):
 
