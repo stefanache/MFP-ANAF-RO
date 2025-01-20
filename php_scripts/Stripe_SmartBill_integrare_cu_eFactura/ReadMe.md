@@ -21,6 +21,6 @@ As recomanda pt inceput, spre lectura, cateva articole interesante(multumiri org
 - si ***oblio.eu*** are un [articol](https://www.oblio.eu/?rnid=74&gad_source=1&gclid=Cj0KCQiA4rK8BhD7ARIsAFe5LXKryEq_NgJdGn4ca4yRoQ3n1PDSOVB9RJnOpEWOZWLfS7hGjiJ0hlIaAotuEALw_wcB), referitor la integrarea platformei lor cu sistemul **e-Factura**
 - ... si lista poate continua...
 
-In continuare, as dori sa mentionez, ca sunt la cautare, task-urile de automatizare, integratori de flux gen/pe relatia/spre exemplu:<br/> **aplicatie-integratoare sa spunem... pt un magazin online Magento**(act comercial de vanzare-cumparare online)->**Stripe**(plata,eventuale retineri de taxe: TVA,taxa mediu,...)-> **SmartBill**(gestiune financiar-contabila)->**e-Factura**(monitorizare,notificare).
+In continuare, as dori sa mentionez, ca sunt la cautare, task-urile de automatizare, integratori de flux gen/pe relatia/spre exemplu:<br/> **aplicatie-integratoare sa spunem... pt un [magazin online](https://www.ceccarbusinessmagazine.ro/comertul-electronic-regimul-contabil-si-fiscal/a/NTQ2MTMyMTA0MzQ5NzE2M-lvwbcojsBbfeMv3GhRrYw) Magento**(act comercial de vanzare-cumparare online)->**Stripe**(plata,eventuale retineri de taxe: TVA,taxa mediu,...)-> **SmartBill**(gestiune financiar-contabila)->**e-Factura**(monitorizare,notificare).
 
 
