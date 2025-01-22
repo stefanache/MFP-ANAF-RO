@@ -48,6 +48,6 @@ Daca aveti pre-instalat **Conda**(pt python) si aveti la dispozitie un server **
 
 Daca doriti din **Java**, sa rulati local(utilizand serverul de LLM-uri:**Ollama**), un model LLM(cum este **LLama3.1**), atunci acest [***articol***](https://azmechatech.medium.com/agent-group-interactions-ollama-llama3-1-java-part-2-3-fcb187d4aa80)(care face parte dintr-o serie de 3 articole) din medium va sta la dispozitie.
 
-**Sfat**: la prima lectura, va trebui sa nu ramaneti blocat pe detalii aleatorii, pentru ca... drumul catre intelegere nu este intotdeauna unul neted:)
+**Sfat**: la prima lectura, va trebui sa nu ramaneti blocat pe detalii aleatorii, pentru ca... drumul catre intelegere nu este intotdeauna unul neted!:)
 
 
