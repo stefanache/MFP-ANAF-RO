@@ -40,10 +40,10 @@ Pentru a afla cateva lucruri despre agentii-Langchain([aici](https://chatgpt.com
     
     Un flux complet automatizat în care:
     
-     - <b>BabyAGI</b> planifică și organizează sarcinile(tasks).
-     - **AutoGPT le execută autonom(tasks).
-     - **Ollama** cu **o1-mini** oferă procesarea rapidă a limbajului natural(NLP).
-     - **LangChain** coordonează toate componentele.
+     - BabyAGI    planifică și organizează sarcinile(tasks).
+     - AutoGPT    le execută autonom(tasks).
+     - Ollama     cu **o1-mini** oferă procesarea rapidă a limbajului natural(NLP).
+     - LangChain  coordonează toate componentele.
     
     Acest cod poate fi adaptat pentru alte domenii, cum ar fi ***analiza financiară***, ***suport tehnic*** sau ***cercetare academică***.
     
