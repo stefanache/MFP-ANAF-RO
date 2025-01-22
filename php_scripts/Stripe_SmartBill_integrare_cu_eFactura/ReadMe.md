@@ -28,7 +28,7 @@ In continuare, as dori sa mentionez, ca la mare cautare sau in centrul atentiei,
 Daca la toate aceste ingrediente, mai adaugam si [**Inteligenta Artificiala**](https://www.uipath.com/), planificarea,securitatea,[declansarea/initierea](https://gist.github.com/jcanfield/2896479),notificarea(a se vedea [webhooks](https://github.com/mageplaza/magento-2-webhook)),urmarirea [tranzactiilor](https://phppot.com/php/manage-recurring-payments-using-stripe-billing-in-php/), ori aspecte de gazduire in/pe [Cloud](https://api.smartbill.ro/#!/prezentare_generala),... avem ...un tablou, ceva mai complet, al complexitatii acestui domeniu de activitate.
 
 <details>
-<summary><b>OBS</b>: <i>cateva consideratii/idei/<a href="https://js.langchain.com/v0.1/docs/use_cases/autonomous_agents/">rationamente</a> privind <b>AI</b> si <b>sarcinile economice</b>(ex. <a href="https://js.langchain.com/v0.1/docs/use_cases/autonomous_agents/sales_gpt">agent de vanzari</a>, verificarea conformitatii <a href="https://chatgpt.com/share/67911aa7-df98-800b-95a7-0e2c2578973b">GDPR</a>)...</i></summary>
+<summary><b>OBS</b>: <i>cateva consideratii/idei/<a href="https://js.langchain.com/v0.1/docs/use_cases/autonomous_agents/">rationamente</a> privind <b>AI</b> si <b>sarcinile economice</b>(ex. <a href="https://js.langchain.com/v0.1/docs/use_cases/autonomous_agents/sales_gpt">agent/asistent/ajutor de vanzari</a>, verificarea conformitatii <a href="https://chatgpt.com/share/67911aa7-df98-800b-95a7-0e2c2578973b">GDPR</a>)...</i></summary>
 
 <hr/> 
 
