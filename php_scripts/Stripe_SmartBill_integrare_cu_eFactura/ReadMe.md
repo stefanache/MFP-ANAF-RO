@@ -29,7 +29,16 @@ Daca la toate aceste ingrediente, mai adaugam si [**Inteligenta Artificiala**](h
 
 Pentru aceasta zona a integrarii AI in/cu zona ["Sales"](https://js.langchain.com/v0.1/docs/use_cases/autonomous_agents/sales_gpt)/(a vanzarilor), as recomanda aceasta [pagina](https://js.langchain.com/v0.1/docs/use_cases/autonomous_agents/)(care se refera la **SalesGPT**) extrem de importanta si interesanta.
 
-Pentru a afla cateva lucruri despre agentii-Langchain([aici](https://chatgpt.com/share/67911aa7-df98-800b-95a7-0e2c2578973b) este vorba despre 2 agenti autonomi, mai generalisti, **AutoGPT** si **BabyGPT**, ci nu despre unul mai specific, asa cum este **SalesGPT**) am intrebat chiar ChatGPT sa vad ce [raspuns](https://chatgpt.com/share/67911aa7-df98-800b-95a7-0e2c2578973b) primesc.
+Pentru a afla cateva lucruri despre agentii-Langchain([aici](https://chatgpt.com/share/67911aa7-df98-800b-95a7-0e2c2578973b) este vorba despre 2 agenti autonomi, mai generalisti, **AutoGPT** si **BabyGPT**, ci nu despre unul mai specific, asa cum este **SalesGPT**) am intrebat chiar ChatGPT sa vad ce [raspuns](https://chatgpt.com/share/67911aa7-df98-800b-95a7-0e2c2578973b) primesc. Observati ca atunci cand i-am cerut un exemplu de integrare al celor 2 agenti-Langchain mi-a fost furnizat un intreg rationament(specific o1) din care poate ca ar fi util sa retineti ultima parte(cea in care se specifica rolul fiecarei actor integrat in acest exemplu):
+
+    Un flux complet automatizat în care:
+    
+     - **BabyAGI** planifică și organizează sarcinile(tasks).
+     - **AutoGPT le execută autonom(tasks).
+     - **Ollama** cu **o1-mini** oferă procesarea rapidă a limbajului natural(NLP).
+     - **LangChain** coordonează toate componentele.
+    
+    Acest cod poate fi adaptat pentru alte domenii, cum ar fi ***analiza financiară***, ***suport tehnic*** sau ***cercetare academică***.
 
 
 
