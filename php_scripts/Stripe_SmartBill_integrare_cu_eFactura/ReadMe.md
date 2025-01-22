@@ -37,7 +37,9 @@ Daca la toate aceste ingrediente, mai adaugam si [**Inteligenta Artificiala**](h
  - Pentru a afla cateva lucruri despre agentii-Langchain([aici](https://chatgpt.com/share/67911aa7-df98-800b-95a7-0e2c2578973b) este vorba despre 2 agenti autonomi, mai generalisti, **AutoGPT** si **BabyGPT**, ci nu despre unul mai specific, asa cum este cazul **SalesGPT**-ului) am intrebat(online) chiar [**ChatGPT**](https://chatgpt.com/)-ul, sa vad ce [raspuns](https://chatgpt.com/share/67911aa7-df98-800b-95a7-0e2c2578973b) voi primi. Din aceasta "conversatie", se observa ca, atunci cand i-am cerut un exemplu de integrare al celor 2 agenti-Langchain, mi-a fost furnizat un intreg rationament(specific unui model de categorie **o1**), din care, poate ca ar fi util, sa retinem ultima parte(cea in care se afirma rolul fiecarei actor, integrat...) din exemplul furnizat:
 
     ...
-    
+
+   **Rezultatul**:
+   
     Un ***flux complet automatizat***(datorat in buna parte, comportamentului ***agentic***, sau daca vreti, caracterului *programatic*, al primelor 2 componente), în care:
     
      - **BabyAGI**    planifică și organizează sarcinile(tasks).
