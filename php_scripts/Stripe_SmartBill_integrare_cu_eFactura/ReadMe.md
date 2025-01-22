@@ -45,11 +45,11 @@ Daca la toate aceste ingrediente, mai adaugam si [**Inteligenta Artificiala**](h
      - **Ollama**     cu **o1-mini** oferă procesarea rapidă a limbajului natural(***NLP***).
      - **LangChain**  coordonează toate componentele.
     
-    Acest cod(python) poate fi adaptat pentru alte domenii(unde sunt necesare rationamente complete, adica sa arate calea/chains de gandire/thought urmata, pana in momentul in care a ajuns la rezultatul/result obtinut/furnizat), cum ar fi:
+    Acest cod(python), poate fi adaptat pentru alte domenii(unde sunt necesar sa fie reliefat **rationamentul** complet, adica sa arate calea/chain de gandire/thought urmata, pana in momentul in care a ajuns la rezultatul/result obtinut/furnizat), cum ar fi:
     
-     - analiza financiară, 
-     - suport tehnic sau 
-     - cercetare academică.
+     - **analiza financiară**, 
+     - **suport tehnic** sau 
+     - **cercetare academică**.
     
     ...
 
