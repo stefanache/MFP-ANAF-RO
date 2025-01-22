@@ -28,7 +28,7 @@ In continuare, as dori sa mentionez, ca la mare cautare sau in centrul atentiei,
 Daca la toate aceste ingrediente, mai adaugam si [**Inteligenta Artificiala**](https://www.uipath.com/), planificarea,securitatea,[declansarea/initierea](https://gist.github.com/jcanfield/2896479),notificarea(a se vedea [webhooks](https://github.com/mageplaza/magento-2-webhook)),urmarirea [tranzactiilor](https://phppot.com/php/manage-recurring-payments-using-stripe-billing-in-php/), ori aspecte de gazduire in/pe [Cloud](https://api.smartbill.ro/#!/prezentare_generala),... avem ...un tablou, ceva mai complet, al complexitatii acestui domeniu de activitate.
 
 <details>
-<summary><b>Nota</b>: cateva consideratii privind AI si sarcinile economice...</summary>
+<summary><b>Nota</b>: <i>cateva consideratii privind AI si sarcinile economice...</i></summary>
 
 <hr/> 
 
