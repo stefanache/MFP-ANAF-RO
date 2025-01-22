@@ -45,7 +45,11 @@ Pentru a afla cateva lucruri despre agentii-Langchain([aici](https://chatgpt.com
      - Ollama     cu **o1-mini** oferă procesarea rapidă a limbajului natural(NLP).
      - LangChain  coordonează toate componentele.
     
-    Acest cod poate fi adaptat pentru alte domenii, cum ar fi ***analiza financiară***, ***suport tehnic*** sau ***cercetare academică***.
+    Acest cod(python) poate fi adaptat pentru alte domenii(unde sunt necesare rationamente complete adica sa aratate calea/chains de gandire/thought pana a ajuns la rezultatul/result obtinut), cum ar fi 
+    
+       - analiza financiară, 
+       - suport tehnic sau 
+       - cercetare academică.
     
     ...
 
