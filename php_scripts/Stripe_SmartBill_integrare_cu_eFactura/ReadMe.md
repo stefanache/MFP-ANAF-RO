@@ -38,12 +38,12 @@ Daca la toate aceste ingrediente, mai adaugam si [**Inteligenta Artificiala**](h
 
     ...
     
-    Un ***flux complet automatizat***, în care:
+    Un ***flux complet automatizat***(datorat in buna parte, comportamentului ***agentic***, sau daca vreti, caracterului *programatic*, al primelor 2 componente), în care:
     
      - **BabyAGI**    planifică și organizează sarcinile(tasks).
      - **AutoGPT**    le(tasks) execută autonom/independent(tasks).
      - **Ollama**     cu **o1-mini**(LLM-ul utilizat), care oferă procesarea rapidă a limbajului natural(***NLP***).
-     - **LangChain**  coordonează(gestioneaza/integreaza/administreaza) toate componentele(cele 3, de mai sus).
+     - **LangChain**  coordonează(gestioneaza/*integreaza*/administreaza) toate componentele(cele 3, de mai sus).
     
     Acest cod(python), poate fi adaptat pentru alte domenii(unde sunt necesar sa fie reliefat/demonstrat/aratat **rationamentul** complet, adica sa arate calea/chain de gandire/thought urmata, pana in momentul in care a ajuns la rezultatul/result obtinut/furnizat), cum ar fi:
     
