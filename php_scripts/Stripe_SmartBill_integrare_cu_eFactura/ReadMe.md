@@ -61,7 +61,7 @@ Pentru a sintetiza parcursul acestui agent autonom, am extras structura codului-
  - Configurarea modelului Ollama (**llm**=o1-mini)
  - Definire sablon(prompt_template) pentru lanțul principal de întrebări(**qa_chain**)
  - Declararea funcției pentru a încărca și procesa documente PDF(**process_pdf**)
- - Indexarea documentelor folosind FAISS(**create_vector_store**)
+ - Indexarea documentelor folosind [FAISS](https://cheatsheet.md/vector-database/faiss-python-api)(**create_vector_store**)
  - Definirea instrumentelor pentru [BabyAGI](https://mukundmohan.blog/2023/04/25/agentgpt-babygpt-and-autogpt-what-is-the-difference/) și [AutoGPT](https://www.bairesdev.com/blog/the-rise-of-autonomous-agents-autogpt-agentgpt-and-babyagi/)(**analyze_gdpr_compliance**)
  - Crearea instrumentelor pentru agent(**tools**: [GDPR](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation) Anayser/query si Python Executor/code)
  - Configurarea [BabyAGI](https://medium.com/latinxinai/train-your-own-babygpt-model-a-step-by-step-guide-e0d573f5700b)(**baby_agi**)
