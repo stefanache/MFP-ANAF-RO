@@ -64,7 +64,7 @@ Pentru a sintetiza parcursul acestui agent autonom, am extras structura codului-
  - Indexarea documentelor folosind FAISS(**create_vector_store**)
  - Definirea instrumentelor pentru BabyAGI și AutoGPT(**analyze_gdpr_compliance**)
  - Crearea instrumentelor pentru agent(**tools**: GDPR Anayser/query si Python Executor/code)
- - Configurarea BabyAGI(**baby_agi**)
+ - Configurarea [BabyAGI](https://medium.com/latinxinai/train-your-own-babygpt-model-a-step-by-step-guide-e0d573f5700b)(**baby_agi**)
  - Configurarea AutoGPT(**autogpt**)
  - Definire Sarcina principală(**main_task**)
  - [BabyAGI](https://github.com/TatevKaren/BabyGPT-Build_GPT_From_Scratch) descompune sarcina prinicpala în subtask-uri(**subtasks**)
