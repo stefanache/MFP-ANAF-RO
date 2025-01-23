@@ -34,7 +34,7 @@ Daca la toate aceste ingrediente, mai adaugam si [**Inteligenta Artificiala**](h
 
  - Pentru aceasta zona a integrarii AI in/cu zona ["Sales"](https://js.langchain.com/v0.1/docs/use_cases/autonomous_agents/sales_gpt)/(a vanzarilor), as recomanda aceasta [pagina](https://js.langchain.com/v0.1/docs/use_cases/autonomous_agents/)(care se refera la **SalesGPT**, scris in cod-nodeJS) extrem de importanta si interesanta.
 
- - Pentru a afla cateva lucruri despre agentii-Langchain([aici](https://chatgpt.com/share/67911aa7-df98-800b-95a7-0e2c2578973b) este vorba despre 2 agenti autonomi, mai generalisti, [**AutoGPT**](https://medium.com/the-generator/how-to-setup-auto-gpt-the-autonomous-gpt-4-ai-7ee6b82322ce) si [**BabyGPT**](https://gptstore.ai/gpts/0TXypflruF-baby-gpt), ci nu despre unul mai specific, asa cum este cazul **SalesGPT**-ului) am intrebat(online) chiar [**ChatGPT**](https://chatgpt.com/)-ul, sa vad ce [raspuns](https://chatgpt.com/share/67911aa7-df98-800b-95a7-0e2c2578973b) voi primi. Din aceasta "conversatie", se observa ca, atunci cand i-am cerut un exemplu de integrare al celor 2 agenti-Langchain, mi-a fost furnizat un intreg rationament(specific unui model [GPT}(https://medium.com/@sumit.tripathi/learning-how-to-build-your-own-gpt-on-python-173258a0eb33) de categorie **o1**), din care, poate ca ar fi util, sa retinem ultima parte(cea in care se afirma rolul fiecarei actor, integrat...) din exemplul furnizat(***Task***: conformitatea **GDPR** a documentelor **PDF**, stocate intr-un director *local*, pe desktop/PC-ul dvs.):
+ - Pentru a afla cateva lucruri despre agentii-Langchain([aici](https://chatgpt.com/share/67911aa7-df98-800b-95a7-0e2c2578973b) este vorba despre 2 agenti autonomi, mai generalisti, [**AutoGPT**](https://medium.com/the-generator/how-to-setup-auto-gpt-the-autonomous-gpt-4-ai-7ee6b82322ce) si [**BabyGPT**](https://gptstore.ai/gpts/0TXypflruF-baby-gpt), ci nu despre unul mai specific, asa cum este cazul **SalesGPT**-ului) am intrebat(online) chiar [**ChatGPT**](https://chatgpt.com/)-ul, sa vad ce [raspuns](https://chatgpt.com/share/67911aa7-df98-800b-95a7-0e2c2578973b) voi primi. Din aceasta "conversatie", se observa ca, atunci cand i-am cerut un exemplu de integrare al celor 2 agenti-Langchain, mi-a fost furnizat un intreg rationament(specific unui model [GPT}(https://medium.com/@sumit.tripathi/learning-how-to-build-your-own-gpt-on-python-173258a0eb33) de categorie **o1**), din care, poate ca ar fi util, sa retinem ultima parte(cea in care se afirma rolul fiecarei actor, integrat...) din exemplul furnizat(***Task***: conformitatea [**GDPR**](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation) a documentelor **PDF**, stocate intr-un director *local*, pe desktop/PC-ul dvs.):
 
     ...
 
@@ -62,10 +62,10 @@ Pentru a sintetiza parcursul acestui agent autonom, am extras structura codului-
  - Definire sablon(prompt_template) pentru lanțul principal de întrebări(**qa_chain**)
  - Declararea funcției pentru a încărca și procesa documente PDF(**process_pdf**)
  - Indexarea documentelor folosind FAISS(**create_vector_store**)
- - Definirea instrumentelor pentru BabyAGI și AutoGPT(**analyze_gdpr_compliance**)
- - Crearea instrumentelor pentru agent(**tools**: GDPR Anayser/query si Python Executor/code)
+ - Definirea instrumentelor pentru [BabyAGI](https://mukundmohan.blog/2023/04/25/agentgpt-babygpt-and-autogpt-what-is-the-difference/) și [AutoGPT](https://www.bairesdev.com/blog/the-rise-of-autonomous-agents-autogpt-agentgpt-and-babyagi/)(**analyze_gdpr_compliance**)
+ - Crearea instrumentelor pentru agent(**tools**: [GDPR](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation) Anayser/query si Python Executor/code)
  - Configurarea [BabyAGI](https://medium.com/latinxinai/train-your-own-babygpt-model-a-step-by-step-guide-e0d573f5700b)(**baby_agi**)
- - Configurarea AutoGPT(**autogpt**)
+ - Configurarea [AutoGPT](https://www.datacamp.com/tutorial/introduction-to-ai-agents-autogpt-agentgpt-babyagi)(**autogpt**)
  - Definire Sarcina principală(**main_task**)
  - [BabyAGI](https://github.com/TatevKaren/BabyGPT-Build_GPT_From_Scratch) descompune sarcina prinicpala în subtask-uri(**subtasks**)
  - [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) execută, in bucla, fiecare subtask(**result** for/4 each subtask)
