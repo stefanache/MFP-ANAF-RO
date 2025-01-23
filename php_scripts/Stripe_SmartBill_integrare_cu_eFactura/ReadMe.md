@@ -57,20 +57,21 @@ Daca la toate aceste ingrediente, mai adaugam si [**Inteligenta Artificiala**](h
 
 Pentru a sintetiza parcursul acestui agent autonom, am extras structura codului-python, generat de catre [ChatGPT](https://chatgpt.com/share/67911aa7-df98-800b-95a7-0e2c2578973b):
 
- - Declarare dependinte(librarii,pachete...)
- - Configurarea modelului Ollama (LLM=o1-mini)
- - Definire sablon(prompt_template) pentru lanțul principal de întrebări(qa_chain)
- - Declararea funcției pentru a încărca și procesa documente PDF(proces_pdf)
- - Indexarea documente folosind FAISS(create_vector_store)
- - Definirea un instrument pentru BabyAGI și AutoGPT(analyze_gdpr_compliance)
- - Crearea instrumentelor pentru agent(tools)
- - Configurarea BabyAGI(baby_agi)
- - Configurarea AutoGPT(autogpt)
- - Definire Sarcina principală(main_task)
- - BabyAGI descompune sarcina prinicpala în subtask-uri(subtasks)
- - AutoGPT execută in bucla fiecare subtask
- 
+ - Declarare **dependente**(librarii,pachete...)
+ - Configurarea modelului Ollama (**llm**=o1-mini)
+ - Definire sablon(prompt_template) pentru lanțul principal de întrebări(**qa_chain**)
+ - Declararea funcției pentru a încărca și procesa documente PDF(**process_pdf**)
+ - Indexarea documente folosind FAISS(**create_vector_store**)
+ - Definirea un instrument pentru BabyAGI și AutoGPT(**analyze_gdpr_compliance**)
+ - Crearea instrumentelor pentru agent(**tools**: GDPR Anayser/query si Python Executor/code)
+ - Configurarea BabyAGI(**baby_agi**)
+ - Configurarea AutoGPT(**autogpt**)
+ - Definire Sarcina principală(**main_task**)
+ - BabyAGI descompune sarcina prinicpala în subtask-uri(**subtasks**)
+ - AutoGPT execută in bucla fiecare subtask(**result** for/4 subtask)
+
 <hr/>
+
 </details>
 
 
