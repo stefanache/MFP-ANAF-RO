@@ -68,7 +68,7 @@ Pentru a sintetiza parcursul acestui agent autonom, am extras structura codului-
  - Configurarea AutoGPT(**autogpt**)
  - Definire Sarcina principală(**main_task**)
  - BabyAGI descompune sarcina prinicpala în subtask-uri(**subtasks**)
- - AutoGPT execută, in bucla, fiecare subtask(**result** for/4 each subtask)
+ - [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) execută, in bucla, fiecare subtask(**result** for/4 each subtask)
 
 <hr/>
 
