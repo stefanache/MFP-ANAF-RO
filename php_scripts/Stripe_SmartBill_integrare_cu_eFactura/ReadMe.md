@@ -42,7 +42,7 @@ Daca la toate aceste ingrediente, mai adaugam si [**Inteligenta Artificiala**](h
    
     Un ***flux complet automatizat***(datorat in buna parte, comportamentului ***agentic***, sau daca vreti, caracterului *programatic*, al primelor 2 componente), în care:
     
-     - ***BabyAGI***    planifică și organizează sarcinile(tasks).
+     - [***BabyAGI***](https://github.com/soumyadip1995/BabyGPT)    planifică și organizează sarcinile(tasks).
      - ***AutoGPT***    le(ref. tasks) execută autonom/independent.
      - *Ollama*     cu *o1-mini*(LLM-ul utilizat), care oferă procesarea rapidă a limbajului natural(***NLP***).
      - **LangChain**  coordonează(gestioneaza/*integreaza*/administreaza) toate componentele(cele 3, de mai sus).
