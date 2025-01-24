@@ -80,7 +80,7 @@ Ca si intrari de configurare ale / asignate acestui algoritm sunt:
 
      ***main_task*** = "Analizează documentele PDF pentru a verifica dacă sunt conforme cu reglementările GDPR."
 
-Asadar, observam/intalnim formularea a 2 mecanisme de ***atentie***/focusare/concentrare, aparent diferite, unul ***general/descriptiv*** (**rol**) si unul de tip ***precis/distributiv***(**sarcina** initiala/principala fiind defalcata in mai multe ***sub-sarcini***, desigur secundare), dar care, impreuna, [conlucreaza/converg](https://play.ht/blog/ai-apps/vs/baby-agi-vs-autogpt-ai/) pentru acoperirea cerintei comune/unice si in final pentru descoperirea unui ***raspuns***/***raport de activitate***.
+Asadar, observam/intalnim formularea a 2 mecanisme de ***atentie***/focusare/concentrare, aparent diferite, unul ***general/descriptiv*** (**rol**) si unul de tip ***precis/distributiv***(**sarcina** initiala/principala fiind defalcata in mai multe ***sub-sarcini***, desigur secundare), dar care, impreuna, [conlucreaza/converg](https://play.ht/blog/ai-apps/vs/baby-agi-vs-autogpt-ai/) pentru acoperirea cerintei comune/unice si in final pentru descoperirea unui  ***raspuns***/***raport de activitate*** comun/unic.
 
 <hr/>
 
