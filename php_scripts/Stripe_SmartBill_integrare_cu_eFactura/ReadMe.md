@@ -45,7 +45,7 @@ Daca la toate aceste ingrediente, mai adaugam si [**Inteligenta Artificiala**](h
      - [***BabyAGI***](https://github.com/soumyadip1995/BabyGPT)    planifică și organizează sarcinile(tasks).
      - [***AutoGPT***](https://lablab.ai/tech/autogpt)    le(ref. tasks) execută autonom/independent.
      - [*Ollama*](https://k33g.hashnode.dev/prompts-and-chains-with-ollama-and-langchain)     cu *o1-mini*(LLM-ul utilizat), care oferă procesarea rapidă a limbajului natural(***NLP***).
-     - [**LangChain**](https://annageller.medium.com/ai-tools-and-autonomous-agents-auto-gpt-babyagi-langchain-agentgpt-heygpt-and-more-61c11e0b8f19)  coordonează(orchestreaza/armonizeaza/gestioneaza/*integreaza*/administreaza/alipeste toate cele 3 componente constitutive/de mai sus,  intr-un tot intreg/unitar)).
+     - [**LangChain**](https://annageller.medium.com/ai-tools-and-autonomous-agents-auto-gpt-babyagi-langchain-agentgpt-heygpt-and-more-61c11e0b8f19)  coordonează(orchestreaza/armonizeaza/gestioneaza/*integreaza*/administreaza/alipeste toate cele 3 componente constitutive/de mai sus,  intr-un tot intreg/unitar, ale carui parti constituiente, conlucreaza sub bagheta "dirijorului" lor comun, LangChain).
     
     Acest cod(python), poate fi adaptat pentru alte domenii(unde sunt necesar sa fie reliefat/demonstrat/aratat **rationamentul** complet, adica sa arate calea/chain de gandire/thought urmata, pana in momentul in care a ajuns la rezultatul/result obtinut/furnizat), cum ar fi:
     
@@ -80,7 +80,7 @@ Ca si intrari de configurare ale / asignate acestui algoritm sunt:
 
      ***main_task*** = "Analizează documentele PDF pentru a verifica dacă sunt conforme cu reglementările GDPR."
 
-Asadar, observam/intalnim formularea a 2 mecanisme de ***atentie***/focusare/concentrare, unul ***general/descriptiv*** (**rol**) si unul de tip ***precis/distributiv***(**sarcina** initiala/principala fiind defalcata in mai multe ***sub-sarcini***, desigur secundare), care, impreuna, [conlucreaza](https://play.ht/blog/ai-apps/vs/baby-agi-vs-autogpt-ai/) pentru acoperirea cerintei si in final pentru descoperirea unui ***raspuns***/***raport de activitate***.
+Asadar, observam/intalnim formularea a 2 mecanisme de ***atentie***/focusare/concentrare, unul ***general/descriptiv*** (**rol**) si unul de tip ***precis/distributiv***(**sarcina** initiala/principala fiind defalcata in mai multe ***sub-sarcini***, desigur secundare), care, impreuna, [conlucreaza/converg](https://play.ht/blog/ai-apps/vs/baby-agi-vs-autogpt-ai/) pentru acoperirea cerintei si in final pentru descoperirea unui ***raspuns***/***raport de activitate***.
 
 <hr/>
 
