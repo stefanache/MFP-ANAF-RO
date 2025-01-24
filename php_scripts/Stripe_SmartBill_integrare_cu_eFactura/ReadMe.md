@@ -42,7 +42,7 @@ Daca la toate aceste ingrediente, mai adaugam si [**Inteligenta Artificiala**](h
    
     Un ***flux complet automatizat***(datorat in buna parte, comportamentului ***agentic***, sau daca vreti, caracterului *programatic*, al primelor 2 componente constitutive/constituiente), în care:
     
-     - [***BabyAGI***](https://github.com/soumyadip1995/BabyGPT)    planifică și organizează sarcinile(tasks).
+     - [***BabyAGI***](https://babyagi.org/)    planifică și organizează sarcinile(tasks).
      - [***AutoGPT***](https://lablab.ai/tech/autogpt)    le(ref. tasks) execută [autonom/independent](https://docs.agpt.co/platform/ollama/#prerequisites).
      - [*Ollama*](https://k33g.hashnode.dev/prompts-and-chains-with-ollama-and-langchain)     cu *o1-mini*(LLM-ul utilizat), care oferă procesarea rapidă a limbajului natural(***NLP***).
      - [**LangChain**](https://annageller.medium.com/ai-tools-and-autonomous-agents-auto-gpt-babyagi-langchain-agentgpt-heygpt-and-more-61c11e0b8f19)  coordonează(orchestreaza/armonizeaza/gestioneaza/*integreaza*/administreaza/alipeste toate cele 3 componente constitutive/de mai sus,  intr-un tot intreg/unitar, parti-constituiente care conlucreaza/lucreaza impreuna sub bagheta... "*dirijorului*" lor comun, *LangChain*).
@@ -62,12 +62,12 @@ Pentru a sintetiza parcursul acestui agent autonom, am extras structura codului-
  - Definire sablon(prompt_template) pentru lanțul principal de întrebări(**qa_chain**)
  - Declararea funcției pentru a încărca și procesa documente PDF(**process_pdf**)
  - Indexarea documentelor folosind [FAISS](https://cheatsheet.md/vector-database/faiss-python-api)(**create_vector_store**)
- - Definirea instrumentelor pentru [BabyAGI](https://mukundmohan.blog/2023/04/25/agentgpt-babygpt-and-autogpt-what-is-the-difference/) și [AutoGPT](https://www.bairesdev.com/blog/the-rise-of-autonomous-agents-autogpt-agentgpt-and-babyagi/)(**analyze_gdpr_compliance**)
+ - Definirea instrumentelor pentru [BabyAGI](https://lablab.ai/tech/babyagi) și [AutoGPT](https://www.bairesdev.com/blog/the-rise-of-autonomous-agents-autogpt-agentgpt-and-babyagi/)(**analyze_gdpr_compliance**)
  - Crearea instrumentelor pentru cei 2 agenti(**tools**: [GDPR](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation) Anayser/query si Python Executor/code)
- - Configurarea [BabyAGI](https://medium.com/latinxinai/train-your-own-babygpt-model-a-step-by-step-guide-e0d573f5700b)(**baby_agi**)
+ - Configurarea [BabyAGI](https://js.langchain.com/v0.1/docs/use_cases/autonomous_agents/baby_agi/)(**baby_agi**)
  - Configurarea [AutoGPT](https://www.datacamp.com/tutorial/introduction-to-ai-agents-autogpt-agentgpt-babyagi)(**autogpt**)
  - Definire sarcina principală(**main_task**)
- - [BabyAGI](https://github.com/TatevKaren/BabyGPT-Build_GPT_From_Scratch) descompune sarcina prinicpala(*main_task*) în subtask-uri(**subtasks**)
+ - [BabyAGI](https://medium.com/data-science-in-your-pocket/baby-agi-and-agentgpt-exploring-autonomous-ai-agents-b32d5574f8f5) descompune sarcina prinicpala(*main_task*) în subtask-uri(**subtasks**)
  - [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) execută, in bucla, fiecare subtask(**result** for/4 each subtask)
 
 Ca si intrari de configurare ale / asignate acestui algoritm sunt:
@@ -76,11 +76,13 @@ Ca si intrari de configurare ale / asignate acestui algoritm sunt:
 
      ***role*** = "Un agent autonom care analizează documentele și oferă rapoarte despre conformitate."
 
- - intrebarea de inceput/initiala orientata/indreptata catre rezultatul, precis si concis, de obtinut in final, sau <br/>scopul/sarcina/task-ul principal[a]([**BabyGPT**](https://blockchain.news/wiki/babyagi-task-driven-autonomous-agent))(cea care va fi defalcata/distribuita in sub-sarcini/subtask-uri de catre planificatorul agentul **BabyAGI**):
+ - intrebarea de inceput/initiala orientata/indreptata catre rezultatul, precis si concis, de obtinut in final, sau <br/>scopul/sarcina/task-ul principal[a]([**BabyAGI**](https://blockchain.news/wiki/babyagi-task-driven-autonomous-agent))(cea care va fi defalcata/distribuita in sub-sarcini/subtask-uri de catre planificatorul agentul **BabyAGI**):
 
      ***main_task*** = "Analizează documentele PDF pentru a verifica dacă sunt conforme cu reglementările GDPR."
 
 Asadar, observam/intalnim formularea a 2 mecanisme de ***atentie***/focusare/concentrare, aparent diferite, unul ***general/descriptiv*** (**rol**) si unul de tip ***precis/distributiv***(**sarcina** initiala/principala fiind defalcata in mai multe ***sub-sarcini***, desigur secundare), dar care, impreuna, [conlucreaza/converg](https://play.ht/blog/ai-apps/vs/baby-agi-vs-autogpt-ai/) pentru acoperirea cerintei comune/unice si in final pentru descoperirea si livrarea  unui  ***raspuns***/***raport de activitate*** comun/unic.
+
+***Nota***: Trebuie facuta distinctia dintre modelul-AI [**BabyGPT**](https://github.com/soumyadip1995/BabyGPT) si agentul-AI [**BabyAGI**](https://babyagi.org/)!
 
 <hr/>
 
