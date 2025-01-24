@@ -87,13 +87,13 @@ Asadar, observam/intalnim formularea a 2 mecanisme de ***atentie***/focusare/con
 
  - referitor la caracterul *programatic*, al celor doi *agent*i(**BabyAGI** si **AutoGPT**), v-as ruga sa observati ca acesti au, fiecare in parte cate 2 faze de evolutie/etape temporale, de-a lungul vietii/existentei acestora:
    
-    - o faza pasiva, de constructie(a *obiect*ului din *clasa* specifica agentului):
+    - o faza *pasiva*, de **constructie**(a *obiect*ului din *clasa* specifica agentului):
       
        baby_agi = **BabyAGI**(llm=..., tools=..., verbose=...)
       
        autogpt = **AutoGPT**(name=..., role=..., llm=..., tools=..., verbose=...)
 
-    - si o faza activa, de rulare/executie(utilizand/apeland la o *metoda*, specifica **agentilor**, ***run***), aferenta obiectului-specific(contruit anterior):
+    - si o faza *activa*, de **rulare**/**executie**(utilizand/apeland la o *metoda*, specifica **agentilor**, ***run***), aferenta obiectului-specific(contruit anterior):
 
        baby_agi.***run***(main_task)
 
