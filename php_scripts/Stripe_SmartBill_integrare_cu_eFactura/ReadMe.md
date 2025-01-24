@@ -68,7 +68,7 @@ Pentru a sintetiza parcursul acestui agent autonom, am extras structura codului-
  - Configurarea [BabyAGI](https://js.langchain.com/v0.1/docs/use_cases/autonomous_agents/baby_agi/)(**baby_agi**); *baby_agi* este dependent de *llm* si *tools* 
  - Configurarea [AutoGPT](https://www.datacamp.com/tutorial/introduction-to-ai-agents-autogpt-agentgpt-babyagi)(**autogpt**); *autogpt* este dependent de *llm* si *tools*
  - Definire sarcina principală(**main_task**)
- - [BabyAGI](https://medium.com/data-science-in-your-pocket/baby-agi-and-agentgpt-exploring-autonomous-ai-agents-b32d5574f8f5) descompune sarcina prinicpala(*main_task*) în subtask-uri(**subtasks**); *subtasks* este dependent de *main_task* si de *baby_agi*
+ - [BabyAGI](https://medium.com/data-science-in-your-pocket/baby-agi-and-agentgpt-exploring-autonomous-ai-agents-b32d5574f8f5) descompune sarcina prinicpala(*main_task*) în subtask-uri(**subtasks**); *subtasks* este dependent de *main_task* si preparat(deci si dependent de...)de *baby_agi*
  - [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) execută, in bucla, fiecare subtask(**result** este rezultatul extras din fiecare subtask, de catre *autogpt*); *result* depinde de (sub)*task* si de *autogpt*
 
 Ca si intrari de configurare ale / asignate acestui algoritm sunt:
