@@ -40,7 +40,7 @@ Daca la toate aceste ingrediente, mai adaugam si [**Inteligenta Artificiala**](h
 
    **Rezultatul**:
    
-    Un ***flux complet automatizat***(datorat in buna parte, comportamentului ***agentic***, sau daca vreti, caracterului *programatic*, al primelor 2 componente), în care:
+    Un ***flux complet automatizat***(datorat in buna parte, comportamentului ***agentic***, sau daca vreti, caracterului *programatic*, al primelor 2 componente constitutive/constituiente), în care:
     
      - [***BabyAGI***](https://github.com/soumyadip1995/BabyGPT)    planifică și organizează sarcinile(tasks).
      - [***AutoGPT***](https://lablab.ai/tech/autogpt)    le(ref. tasks) execută autonom/independent.
