@@ -93,7 +93,7 @@ Asadar, observam/intalnim formularea a 2 mecanisme de ***atentie***/focusare/con
       
        autogpt = **AutoGPT**(name=..., role=..., llm=..., tools=..., verbose=...)
 
-    - si o faza activa, de rulare/executie(utilizand/apeland la metoda ***run***), aferenta obiectului-specific(contruit anterior):
+    - si o faza activa, de rulare/executie(utilizand/apeland la o metoda, specifica **agentilor**, ***run***), aferenta obiectului-specific(contruit anterior):
 
        baby_agi.***run***(main_task)
 
