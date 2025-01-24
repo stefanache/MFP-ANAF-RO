@@ -70,6 +70,12 @@ Pentru a sintetiza parcursul acestui agent autonom, am extras structura codului-
  - [BabyAGI](https://github.com/TatevKaren/BabyGPT-Build_GPT_From_Scratch) descompune sarcina prinicpala în subtask-uri(**subtasks**)
  - [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) execută, in bucla, fiecare subtask(**result** for/4 each subtask)
 
+Ca si intrari de configurare ale acestui algoritm sunt:
+
+ - sarcina/task-ul principal:
+
+   main_task = "Analizează documentele PDF pentru a verifica dacă sunt conforme cu reglementările GDPR."
+   
 <hr/>
 
 </details>
