@@ -66,8 +66,8 @@ Pentru a sintetiza parcursul acestui agent autonom, am extras structura codului-
  - Crearea instrumentelor pentru cei 2 agenti(**tools**: [GDPR](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation) Anayser/query si Python Executor/code)
  - Configurarea [BabyAGI](https://medium.com/latinxinai/train-your-own-babygpt-model-a-step-by-step-guide-e0d573f5700b)(**baby_agi**)
  - Configurarea [AutoGPT](https://www.datacamp.com/tutorial/introduction-to-ai-agents-autogpt-agentgpt-babyagi)(**autogpt**)
- - Definire Sarcina principală(**main_task**)
- - [BabyAGI](https://github.com/TatevKaren/BabyGPT-Build_GPT_From_Scratch) descompune sarcina prinicpala în subtask-uri(**subtasks**)
+ - Definire sarcina principală(**main_task**)
+ - [BabyAGI](https://github.com/TatevKaren/BabyGPT-Build_GPT_From_Scratch) descompune sarcina prinicpala(*main_task*) în subtask-uri(**subtasks**)
  - [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) execută, in bucla, fiecare subtask(**result** for/4 each subtask)
 
 Ca si intrari de configurare ale / asignate acestui algoritm sunt:
