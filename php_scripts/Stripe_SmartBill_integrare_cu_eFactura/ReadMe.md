@@ -62,7 +62,7 @@ Pentru a sintetiza parcursul acestui agent autonom, am extras structura codului-
  - Definire sablon(prompt_template) pentru lanțul principal de întrebări(**qa_chain**)
  - Declararea funcției pentru a încărca și procesa documente PDF(**process_pdf**)
  - Indexarea documentelor folosind [FAISS](https://cheatsheet.md/vector-database/faiss-python-api)(**create_vector_store**)
- - Definirea instrumentelor pentru [BabyAGI](https://lablab.ai/tech/babyagi) și [AutoGPT](https://www.bairesdev.com/blog/the-rise-of-autonomous-agents-autogpt-agentgpt-and-babyagi/)(**analyze_gdpr_compliance**)
+ - Defineste un instrument pentru [BabyAGI](https://lablab.ai/tech/babyagi) și [AutoGPT](https://www.bairesdev.com/blog/the-rise-of-autonomous-agents-autogpt-agentgpt-and-babyagi/)(**analyze_gdpr_compliance**)
  - Crearea instrumentelor pentru cei 2 agenti(**tools**: [GDPR](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation) Anayser/query si Python Executor/code)
  - Configurarea [BabyAGI](https://js.langchain.com/v0.1/docs/use_cases/autonomous_agents/baby_agi/)(**baby_agi**)
  - Configurarea [AutoGPT](https://www.datacamp.com/tutorial/introduction-to-ai-agents-autogpt-agentgpt-babyagi)(**autogpt**)
