@@ -74,11 +74,11 @@ Ca si intrari de configurare ale acestui algoritm sunt:
 
  - rolul agentului([AutoGPT](https://www.kdnuggets.com/2023/04/autogpt-everything-need-know.html)):
 
-     role="Un agent autonom care analizează documentele și oferă rapoarte despre conformitate."
+     ***role*** = "Un agent autonom care analizează documentele și oferă rapoarte despre conformitate."
 
  - intrebarea de /initiala sau scopul/sarcina/task-ul principal(BabyGPT):
 
-     main_task = "Analizează documentele PDF pentru a verifica dacă sunt conforme cu reglementările GDPR."
+     ***main_task*** = "Analizează documentele PDF pentru a verifica dacă sunt conforme cu reglementările GDPR."
    
 <hr/>
 
