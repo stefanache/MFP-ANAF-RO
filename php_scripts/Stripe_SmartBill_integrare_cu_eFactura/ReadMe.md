@@ -99,7 +99,7 @@ Asadar, observam/intalnim formularea a 2 mecanisme de ***atentie***/focusare/con
 
        autogpt.***run***(task)
       
- - trebuie facuta distinctia dintre modelul-AI, [**BabyGPT**](https://github.com/soumyadip1995/BabyGPT) si agentul-AI, [**BabyAGI**](https://babyagi.org/)!
+ - trebuie facuta distinctia dintre *model*ul-AI, [**BabyGPT**](https://github.com/soumyadip1995/BabyGPT) si *agent*ul-AI, [**BabyAGI**](https://babyagi.org/)!
 
 <hr/>
 
