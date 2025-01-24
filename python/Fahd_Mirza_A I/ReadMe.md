@@ -532,6 +532,10 @@ Dezavantajele/Limitările **CAG**:
 
 <hr/>
 
+Daca doriti, sa aflati,  care/ce [**marime de LLM**](https://www.youtube.com/watch?v=nwVGUL8R-pg&ab_channel=FahdMirza), se potriveste,  arsenalului de resurse( pe care il poseda ....)din dotarea PC/Laptop-ul dvs., atunci [**LLMate**](https://www.youtube.com/watch?v=nwVGUL8R-pg&t=1s&ab_channel=FahdMirza) va poate ajuta in acest demers.
+
+<hr/>
+
 ...
 
  </details>
