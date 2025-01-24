@@ -85,7 +85,7 @@ Asadar, observam/intalnim formularea a 2 mecanisme de ***atentie***/focusare/con
 
 ***Note***: 
 
- - referitor la caracterul programatic, cei doi agenti(**BabyAGI** si **AutoGPT**) au 2 faze de utilizare, de-a lungul vietii/existentei acestora:
+ - referitor la caracterul *programatic*, al celor doi *agent*i(**BabyAGI** si **AutoGPT**) au 2 faze de utilizare, de-a lungul vietii/existentei acestora:
    
     - o faza pasiva, de constructie(a *obiect*ului din *clasa* specifica agentului):
       
