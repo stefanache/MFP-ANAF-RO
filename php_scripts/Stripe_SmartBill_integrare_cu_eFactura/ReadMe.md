@@ -55,19 +55,20 @@ Daca la toate aceste ingrediente, mai adaugam si [**Inteligenta Artificiala**](h
     
     ...
 
-Pentru a sintetiza parcursul acestui agent autonom, am extras structura codului-python, generat de catre [ChatGPT](https://chatgpt.com/share/67911aa7-df98-800b-95a7-0e2c2578973b):
+Pentru a sintetiza parcursul acestui agent autonom, am extras structura codului-python, generat de catre [ChatGPT](https://chatgpt.com/share/67911aa7-df98-800b-95a7-0e2c2578973b)(in paralel o sa incerc sa descriu si graful/reteaua dependentelor):
 
  - Declarare **dependente**(librarii,pachete...)
  - Configurarea modelului Ollama (**llm**=o1-mini)
- - Definire sablon(prompt_template) pentru lanțul principal de întrebări(**qa_chain**)
- - Declararea funcției pentru a încărca și procesa documente PDF(**process_pdf**)
- - Indexarea documentelor folosind [FAISS](https://cheatsheet.md/vector-database/faiss-python-api)(**create_vector_store**)
- - Defineste un instrument pentru [BabyAGI](https://lablab.ai/tech/babyagi) și [AutoGPT](https://www.bairesdev.com/blog/the-rise-of-autonomous-agents-autogpt-agentgpt-and-babyagi/)(**analyze_gdpr_compliance**)
- - Crearea instrumentelor pentru cei 2 agenti(**tools**: [GDPR](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation) Anayser/query si Python Executor/code)
- - Configurarea [BabyAGI](https://js.langchain.com/v0.1/docs/use_cases/autonomous_agents/baby_agi/)(**baby_agi**)
- - Configurarea [AutoGPT](https://www.datacamp.com/tutorial/introduction-to-ai-agents-autogpt-agentgpt-babyagi)(**autogpt**)
+ - Definire sablon(**prompt_template**)
+ - Prepararea lanțului principal de întrebări(**qa_chain**); *qa_chain* depinde de/se bazeaza pe/utilizeaza *llm* si *prompt_template*
+ - Declararea funcției pentru a încărca și procesa documente PDF(**process_pdf**); *process_pdf* depinde de *file_path*(directorul care contine PDF-urile)
+ - Indexarea documentelor folosind [FAISS](https://cheatsheet.md/vector-database/faiss-python-api)(**create_vector_store**); *create_vector_store* depinde de *texts*(textele extrase din PDF-uri))
+ - Defineste un instrument pentru [BabyAGI](https://lablab.ai/tech/babyagi) și [AutoGPT](https://www.bairesdev.com/blog/the-rise-of-autonomous-agents-autogpt-agentgpt-and-babyagi/)(**analyze_gdpr_compliance**); *analyze_gdpr_compliance* depinde de *document_path* si *query*
+ - Crearea instrumentelor pentru cei 2 agenti(**tools**: [*GDPR*](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation) *Anayser*/query si *Python Executor*/code; *GDPR Analyser* este reprezentat de fapt de catre functia *analyze_gdpr_compliance*, in timp ce,  *Python Executor* va fi responsabil de executia/lambda unor sectiuni/portiuni de cod
+ - Configurarea [BabyAGI](https://js.langchain.com/v0.1/docs/use_cases/autonomous_agents/baby_agi/)(**baby_agi**); *baby_agi* este dependent de *llm* si *tools* 
+ - Configurarea [AutoGPT](https://www.datacamp.com/tutorial/introduction-to-ai-agents-autogpt-agentgpt-babyagi)(**autogpt**); *autogpt* este dependent de *llm* si *tools*
  - Definire sarcina principală(**main_task**)
- - [BabyAGI](https://medium.com/data-science-in-your-pocket/baby-agi-and-agentgpt-exploring-autonomous-ai-agents-b32d5574f8f5) descompune sarcina prinicpala(*main_task*) în subtask-uri(**subtasks**)
+ - [BabyAGI](https://medium.com/data-science-in-your-pocket/baby-agi-and-agentgpt-exploring-autonomous-ai-agents-b32d5574f8f5) descompune sarcina prinicpala(*main_task*) în subtask-uri(**subtasks**); *subtasks* este dependent de *main_task*
  - [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) execută, in bucla, fiecare subtask(**result** for/4 each subtask)
 
 Ca si intrari de configurare ale / asignate acestui algoritm sunt:
