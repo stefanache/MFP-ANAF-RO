@@ -72,7 +72,11 @@ Pentru a sintetiza parcursul acestui agent autonom, am extras structura codului-
 
 Ca si intrari de configurare ale acestui algoritm sunt:
 
- - sarcina/task-ul principal:
+ - rolul agentului(AutoGPT):
+
+   role="Un agent autonom care analizează documentele și oferă rapoarte despre conformitate."
+
+ - sarcina/task-ul principal(BabyGPT):
 
    main_task = "Analizează documentele PDF pentru a verifica dacă sunt conforme cu reglementările GDPR."
    
