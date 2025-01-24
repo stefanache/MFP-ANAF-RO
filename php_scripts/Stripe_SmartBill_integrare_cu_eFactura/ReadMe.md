@@ -58,7 +58,7 @@ Daca la toate aceste ingrediente, mai adaugam si [**Inteligenta Artificiala**](h
 Pentru a sintetiza parcursul acestui agent autonom, am extras structura codului-python, generat de catre [ChatGPT](https://chatgpt.com/share/67911aa7-df98-800b-95a7-0e2c2578973b)(in paralel, in plus, o sa incerc, sa descriu si graful/reteaua de *inlanțuire*/*înșiruire* a dependentelor):
 
  - Declarare **dependente**(librarii,pachete...)
- - Configurarea modelului Ollama (**llm**=o1-mini)
+ - Configurarea modelului Ollama (**llm** = [o1-mini](https://openai.com/index/openai-o1-mini-advancing-cost-efficient-reasoning/))
  - Definire sablon(**prompt_template**)
  - Prepararea lanțului principal de întrebări(**qa_chain**); *qa_chain* depinde de/se bazeaza pe/utilizeaza *llm* si *prompt_template*
  - Declararea funcției pentru a încărca și procesa documente PDF(**process_pdf**); *process_pdf* depinde de *file_path*(directorul care contine PDF-urile)
