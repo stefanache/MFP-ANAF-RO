@@ -76,7 +76,7 @@ Ca si intrari de configurare ale / asignate acestui algoritm sunt:
 
      ***role*** = "Un agent autonom care analizează documentele și oferă rapoarte despre conformitate."
 
- - intrebarea de inceput/initiala sau scopul/sarcina/task-ul principal(BabyGPT):
+ - intrebarea de inceput/initiala sau scopul/sarcina/task-ul principal([BabyGPT](https://blockchain.news/wiki/babyagi-task-driven-autonomous-agent)):
 
      ***main_task*** = "Analizează documentele PDF pentru a verifica dacă sunt conforme cu reglementările GDPR."
    
