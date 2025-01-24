@@ -101,7 +101,7 @@ Asadar, observam/intalnim formularea a 2 mecanisme de ***atentie***/focusare/con
       
  - trebuie facuta distinctia dintre *model*ul-AI, [**BabyGPT**](https://github.com/soumyadip1995/BabyGPT)(care probabil il puteti folos in locul LLM-lui ***o1-mini***) si *agent*ul-AI, [**BabyAGI**](https://babyagi.org/)!
 
- - LLM-ul [**o1-mini**](https://openai.com/index/openai-o1-mini-advancing-cost-efficient-reasoning/) este mai mic decat **o1** ori **o1-preview** si este acceptabil de eficient doar in zona *non-faptica*(adica in zona descriptiva, sau daca vreti, in zona de standardizare/reglementare), adica in domeniile [***STEM***](https://wiki.anton-paar.com/en/stem-education/)(***S***cience, ***T***echnology, ***E***ngineering, and ***M***athematics )
+ - LLM-ul [**o1-mini**](https://openai.com/index/openai-o1-mini-advancing-cost-efficient-reasoning/) este mai mic decat **o1** ori **o1-preview** si este acceptabil de eficient doar in zona *non-faptica*(adica in zona descriptiva, sau daca vreti, in zona de standardizare/reglementare/rationament), adica in domeniile [***STEM***](https://wiki.anton-paar.com/en/stem-education/)(***S***cience, ***T***echnology, ***E***ngineering, and ***M***athematics )
 
 <hr/>
 
