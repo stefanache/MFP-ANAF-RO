@@ -72,11 +72,11 @@ Pentru a sintetiza parcursul acestui agent autonom, am extras structura codului-
 
 Ca si intrari de configurare ale / asignate acestui algoritm sunt:
 
- - rolul agentului([AutoGPT](https://www.kdnuggets.com/2023/04/autogpt-everything-need-know.html)):
+ - rolul agentului([AutoGPT](https://www.kdnuggets.com/2023/04/autogpt-everything-need-know.html))- formulata la modul general:
 
      ***role*** = "Un agent autonom care analizează documentele și oferă rapoarte despre conformitate."
 
- - intrebarea de inceput/initiala sau scopul/sarcina/task-ul principal([BabyGPT](https://blockchain.news/wiki/babyagi-task-driven-autonomous-agent)):
+ - intrebarea de inceput/initiala orientata/indreptata catre rezultatul precis si concis de obtinut in final sau <br/>scopul/sarcina/task-ul principal[a]([BabyGPT](https://blockchain.news/wiki/babyagi-task-driven-autonomous-agent)):
 
      ***main_task*** = "Analizează documentele PDF pentru a verifica dacă sunt conforme cu reglementările GDPR."
    
