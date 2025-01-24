@@ -85,14 +85,15 @@ Asadar, observam/intalnim formularea a 2 mecanisme de ***atentie***/focusare/con
 
 ***Note***: 
 
- - referitor la caracterul programatic, cei doi agenti pose 2 faze:
+ - referitor la caracterul programatic, cei doi agenti au 2 faze de utilizare de-a lungul vietii/existentei acestora:
+   
     - faza de constructie:
       
        baby_agi = BabyAGI(llm=..., tools=..., verbose=...)
       
        autogpt = AutoGPT(name=..., role=..., llm=..., tools=..., verbose=...)
 
-    - faza de rulare:
+    - si faza de rulare/executie:
 
        baby_agi.run(main_task)
 
