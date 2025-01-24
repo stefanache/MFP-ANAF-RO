@@ -83,7 +83,22 @@ Ca si intrari de configurare ale / asignate acestui algoritm sunt:
 
 Asadar, observam/intalnim formularea a 2 mecanisme de ***atentie***/focusare/concentrare, aparent diferite, unul ***general/descriptiv*** (**rol**) si unul de tip ***precis/distributiv***(**sarcina** initiala/principala fiind defalcata in mai multe ***sub-sarcini***, desigur secundare), dar care, impreuna, [conlucreaza/converg](https://play.ht/blog/ai-apps/vs/baby-agi-vs-autogpt-ai/) pentru acoperirea cerintei comune/unice si in final pentru descoperirea si livrarea  unui  ***raspuns***/***raport de activitate*** comun/unic.
 
-***Nota***: Trebuie facuta distinctia dintre modelul-AI [**BabyGPT**](https://github.com/soumyadip1995/BabyGPT) si agentul-AI [**BabyAGI**](https://babyagi.org/)!
+***Note***: 
+
+ - referitor la caracterul programatic, cei doi agenti pose 2 faze:
+    - faza de constructie:
+      
+       baby_agi = BabyAGI(llm=..., tools=..., verbose=...)
+      
+       autogpt = AutoGPT(name=..., role=..., llm=..., tools=..., verbose=...)
+
+    - faza de rulare:
+
+       baby_agi.run(main_task)
+
+       autogpt.run(task)
+      
+ - trebuie facuta distinctia dintre modelul-AI [**BabyGPT**](https://github.com/soumyadip1995/BabyGPT) si agentul-AI [**BabyAGI**](https://babyagi.org/)!
 
 <hr/>
 
