@@ -4,7 +4,7 @@ In acest articol o sa ne ocupam putin de platforma de *eCommerce*, [**eMag-API**
 
 Aici aveti un [info-center](https://marketplace.emag.ro/infocenter/emag-academy/product-import-through-api-or-feeds/api-documentation/?lang=en) al platformei, iar aici aveti [documentatia](https://marketplace.emag.ro/documentation/api/external) API-ului(aceasta este prima versiune, deja invechita!... stiu ca in 11.03.2022 se ajunsese deja la v4.4.5!).
 
-Acest repository [**eMAG Tech-Labs**](https://github.com/eMAGTechLabs), ar putea sa va ajute, ca si punct de plecare, desi mai sunt si [altele](https://github.com/cristianpana86/emag-herogame)...(glumesc desigur!)
+Acest repository [**eMAG Tech-Labs**](https://github.com/eMAGTechLabs), ar putea sa va ajute, ca si punct de plecare, desi mai sunt si [altele](https://github.com/cristianpana86/emag-herogame)...([glumesc](https://github.com/ucv/emag-hero)... desigur!)
 
 Daca aveti probleme cu platforma **emag-marketplace-api**(indiferent de versiune) [stackoverflow](https://stackoverflow.com/questions/78647654/emag-marketplace-api-read-product-offer-filter-not-working) va poate veni in ajutor. O alta solutie, de aceasta data una autohtona, ar fi sa cautati [discutiile](https://devforum.ro/t/parere-portofoliu-emag-clone-m-as-putea-angaja-cu-el/15669)([frontend-**JS**](https://github.com/Wilted98/eMAG---front-end) si [backend-**nodeJS**](https://github.com/Wilted98/eMAG---Back-End), cu account-login, User: ***user***, pass: ***devforum***), aparute pe forumul romanesc [**devforum.ro**](https://devforum.ro/t/integrare-emag-prin-api/13114), cu privire la **emag-api**.
 
