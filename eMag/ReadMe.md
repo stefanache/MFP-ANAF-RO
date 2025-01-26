@@ -8,4 +8,4 @@ Daca aveti probleme cu platforma **emag-marketplace-api**(indiferent de versiune
 
 **Emag-api** nu este singura platforma de **marketplace** din Romania. Astfel ca va puteti inspira si din exemplul celor de [***CEL.ro***](https://marketplace.cel.ro/?gad_source=1&gclid=Cj0KCQiA19e8BhCVARIsALpFMgFwgOMkzksPeIm9SexSqEjW2cKGCU68tfLIcaoBKSpdTovaCuHJutgaAsjZEALw_wcB)
 
-Pentru dezvoltatorii in **C#** va recomand sa va uitati pe acest [***test-api***](https://github.com/Usergitbit/EmagAPITest/tree/master)(asta, in cazul in care doriti sa programati de la zero interfata magazinului dvs.!). daca sunteti in criza de timp atunci cel putin uitati-va pe acest cod-sursa[**Form1.cs**](https://github.com/Usergitbit/EmagAPITest/blob/master/EmagAPITest/Form1.cs)
+Pentru dezvoltatorii in **C#** va recomand sa va uitati pe acest [***test-api***](https://github.com/Usergitbit/EmagAPITest/tree/master)(asta, in cazul in care doriti sa programati de la zero interfata magazinului dvs.!). Daca sunteti in criza de timp, atunci, cel putin, uitati-va pe acest cod-sursa **C#**, [***Form1.cs***](https://github.com/Usergitbit/EmagAPITest/blob/master/EmagAPITest/Form1.cs)
