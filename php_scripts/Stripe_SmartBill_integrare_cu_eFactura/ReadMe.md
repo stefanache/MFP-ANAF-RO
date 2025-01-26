@@ -91,7 +91,7 @@ Asadar, observam/intalnim formularea a 2 mecanisme de ***atentie***/focusare/con
       
        baby_agi = [**BabyAGI**](https://www.youtube.com/watch?v=CaDITH8M6SY&ab_channel=FahdMirza)(llm=..., tools=..., verbose=...)
       
-       autogpt = **AutoGPT**(name=..., role=..., llm=..., tools=..., verbose=...)
+       autogpt = [**AutoGPT**](https://github.com/fahdmirza/AutoGPT)(name=..., role=..., llm=..., tools=..., verbose=...)
 
     - si o faza *activa*, de **rulare**/**executie**(utilizand/apeland la o *metoda*, specifica **agentilor**, ***run***), aferenta obiectului-specific(contruit anterior):
 
