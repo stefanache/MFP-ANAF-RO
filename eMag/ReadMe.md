@@ -25,12 +25,12 @@ Trebuie sa va spun ca acest api nu este gratuit si in plus se adreseaza in gener
 Pentru a aceesa aceasta interfata va trebui ca pe [site](https://marketplace.emag.ro/infocenter/emag-academy/?lang=en)-ul lor sa va creati un cont(inregistrati ca si utilizator) si apoi sa va alegeti limba de dialog ca mai apoi sa furnizati informatiile de plata:
  - **IBAN***
  - **Bank account holder***
- - sa bifati daca raspunsul este afirmativ la intrebarea
+ - sa bifati daca raspunsul este afirmativ la intrebarea<br/>
    **The bank account holder is the legal company?**
  - **Bank***
  - **SWIFT***
  - **currency***
- - sa alegeti **YES**, daca raspunsul este afirmativ, sau **NO**, in caz contrar:
+ - sa alegeti **YES**, daca raspunsul este afirmativ, sau **NO**, in caz contrar:<br/>
   **I am romanian producer?*** 
  - Short description of company
 
