@@ -14,6 +14,6 @@ Inca de la inceput, trebuie sa va spun, ca in prinicpal, din punctul de vedere a
 
 O cautare dupa topicul [**emag**](https://github.com/topics/emag?l=php&o=asc&s=updated), pentru limbajul **php** nu aduce in prim-plan prea multe rezultate(dar trebuiesc incercate si alte subiecte legate de acestea, scrise in fel si chip, si cine stie, poate voi aveti mai mult [succes](https://github.com/MihaiCraciun88/eMag-API-Test-Tool) decat mine!). Cam la fel stau lucrurile si in cazul [CEL.ro](https://github.com/celdotro/marketplace).
 
-Daca sunteti deja pe alte platforme cum este cazul ***Prestashop***, si doriti integrarea cu platforma **eMag**, atunci ar trebui sa incercati sa cautati si pe aceste platforme(ex. ***Prestashop***), desigur dupa acest/acelasi subiect(**eMag**).
+Daca sunteti deja pe alte platforme cum este cazul ***Prestashop***, si doriti integrarea cu platforma **eMag**, atunci ar trebui sa incercati sa cautati si pe aceste platforme(ex. [***Prestashop***](https://www.prestashop.com/forums/topic/445986-modul-api-conectare-emagro/), desigur dupa acest/acelasi subiect(**eMag**). Dar din nou uitati-va/fiti atenti  si la ***data*** in care a avut loc conversatia!
 
 
