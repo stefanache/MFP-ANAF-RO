@@ -1,6 +1,6 @@
 Salut tuturor,
 
-In acest articol o sa ne ocupam putin de platforma [eMag-API](https://www.studocu.com/ro/document/universitatea-spiru-haret-bucuresti/managemaent-financiar-contabil/e-mag-marketplace-api-documentation-v4/29232142).
+In acest articol o sa ne ocupam putin de platforma de *eCommerce*, [**eMag-API**](https://www.studocu.com/ro/document/universitatea-spiru-haret-bucuresti/managemaent-financiar-contabil/e-mag-marketplace-api-documentation-v4/29232142).
 
 Aici aveti un [info-center](https://marketplace.emag.ro/infocenter/emag-academy/product-import-through-api-or-feeds/api-documentation/?lang=en) al platformei, iar aici aveti [documentatia](https://marketplace.emag.ro/documentation/api/external) API-ului(aceasta este prima versiune, deja invechita!... stiu ca in 11.03.2022 se ajunsese deja la v4.4.5!).
 
