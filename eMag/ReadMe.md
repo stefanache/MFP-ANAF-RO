@@ -35,7 +35,7 @@ Pentru a aceesa aceasta interfata va trebui ca pe [site](https://marketplace.ema
  - **Short description of company**
 
    ***NOTA***:<br/>
-   Inainte de a furniza aceste date, cred ca ar fi bine sa contactati telefonic, sau cel putin prin email, oficialitatile eMag. pt a va asigura ca le puteti furniza cu incredere(conform GDPR) 
+   Inainte de a furniza aceste date, cred ca ar fi bine sa contactati telefonic, sau cel putin prin email, oficialitatile eMag. pt a va asigura ca le puteti furniza cu incredere(conform GDPR), aceste date sensibile. 
 
 
 
