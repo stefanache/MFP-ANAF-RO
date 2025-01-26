@@ -19,6 +19,7 @@ Daca sunteti deja pe alte platforme cum este cazul ***Prestashop***, si doriti i
 Platforma **eMag-API** este disponibila(deocamdata), pt urmatoarele limbi naturale: **RO**(romana), ***BG***(bulgara), ***HU***(ungara) si ***PL***(poloneza).
 
 Sa nu uitam ca [**ChatGPT**](https://chat.openai.com/) genereaza cod si va poate fi de mare ajutor(mai ales, in acesta situatie, cand internetul, nu prea abunda in exemple, pt acest API).
+Totusi, tot acest cod, generat de catre ChatGPT, sub rezerva ca se pot strecura si greseli sau [inadvertențe](https://m.dex.ro/inadverten%C8%9B%C4%83), trebuie in prelabil testat separat, pentru ca mai apoi, sa fie inserat in aplicatiile voastre de baza/principale, deja dezvoltate pana in acel moment.
 
 
 
