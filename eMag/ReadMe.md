@@ -24,7 +24,7 @@ Daca va trebuie un [scrapper](https://github.com/adelinaenache/emag-scraper), ac
 
 Daca vreti un [price-tracker pt eMAG](https://github.com/QQlesQ/Emag-Price-Tracker-and-Database) atunci puteti consulta acest repository.
 
-Platforma **eMag-API** este disponibila(deocamdata), pt urmatoarele [limbi naturale](https://marketplace.emag.ro/infocenter/?cmpid=284464&utm_source=google&utm_medium=cpc&utm_campaign=Search%20Marketplace%202018&utm_content=34568669730&gad_source=1&gclid=Cj0KCQiA19e8BhCVARIsALpFMgEaUFlRtt1TBIrMH-yZd_PrKRJ4Hjbs_JrRqrFkBHzGUE2sJVdlVVQaAs7kEALw_wcB): **RO**(romana), ***BG***(bulgara), ***HU***(ungara) si ***PL***(poloneza).
+Platforma **eMag-API** este disponibila(deocamdata), pt urmatoarele [limbi naturale](https://marketplace.emag.ro/infocenter/?cmpid=284464&utm_source=google&utm_medium=cpc&utm_campaign=Search%20Marketplace%202018&utm_content=34568669730&gad_source=1&gclid=Cj0KCQiA19e8BhCVARIsALpFMgEaUFlRtt1TBIrMH-yZd_PrKRJ4Hjbs_JrRqrFkBHzGUE2sJVdlVVQaAs7kEALw_wcB): [**RO**](https://github.com/Alegzandra/nlp-data-augmentation-for-romanian)(romana), ***BG***(bulgara), ***HU***(ungara) si ***PL***(poloneza).
 
 Sa nu uitam ca [**ChatGPT**](https://chat.openai.com/) genereaza cod si va poate fi de mare ajutor(mai ales, in acesta situatie, cand internetul, nu prea abunda in exemple, pt acest API).
 Totusi, tot acest cod, generat de catre ChatGPT, sub rezerva ca se pot strecura si greseli sau [inadvertențe](https://m.dex.ro/inadverten%C8%9B%C4%83), trebuie in prelabil testat separat, pentru ca mai apoi, sa fie inserat in aplicatiile voastre de baza/principale, deja dezvoltate pana in acel moment.
