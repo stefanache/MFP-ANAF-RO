@@ -4,4 +4,4 @@ In acest articol o sa ne ocupam putin de platforma [eMag-API](https://www.studoc
 
 Aici aveti un [info-center](https://marketplace.emag.ro/infocenter/emag-academy/product-import-through-api-or-feeds/api-documentation/?lang=en) al platformei, iar aici aveti [documentatia](https://marketplace.emag.ro/documentation/api/external) API-ului.
 
-Daca aveti probleme cu platforma **emag-marketplace-api**(indiferent de versiune) [stackoverflow(https://stackoverflow.com/questions/78647654/emag-marketplace-api-read-product-offer-filter-not-working) va poate veni in ajutor.
+Daca aveti probleme cu platforma **emag-marketplace-api**(indiferent de versiune) [stackoverflow](https://stackoverflow.com/questions/78647654/emag-marketplace-api-read-product-offer-filter-not-working) va poate veni in ajutor.
