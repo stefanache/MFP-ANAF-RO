@@ -89,7 +89,7 @@ Asadar, observam/intalnim formularea a 2 mecanisme de ***atentie***/focusare/con
    
     - o faza *pasiva*, de **constructie**(a *obiect*ului din *clasa* specifica agentului):
       
-       baby_agi = **BabyAGI**(llm=..., tools=..., verbose=...)
+       baby_agi = [**BabyAGI**](https://www.youtube.com/watch?v=CaDITH8M6SY&ab_channel=FahdMirza)(llm=..., tools=..., verbose=...)
       
        autogpt = **AutoGPT**(name=..., role=..., llm=..., tools=..., verbose=...)
 
