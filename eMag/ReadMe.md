@@ -21,5 +21,19 @@ Platforma **eMag-API** este disponibila(deocamdata), pt urmatoarele limbi natura
 Sa nu uitam ca [**ChatGPT**](https://chat.openai.com/) genereaza cod si va poate fi de mare ajutor(mai ales, in acesta situatie, cand internetul, nu prea abunda in exemple, pt acest API).
 Totusi, tot acest cod, generat de catre ChatGPT, sub rezerva ca se pot strecura si greseli sau [inadvertențe](https://m.dex.ro/inadverten%C8%9B%C4%83), trebuie in prelabil testat separat, pentru ca mai apoi, sa fie inserat in aplicatiile voastre de baza/principale, deja dezvoltate pana in acel moment.
 
+Trebuie sa va spun ca acest api nu este gratuit si in plus se adreseaza in general persoanelor juridice(PJ).
+Pentru a aceesa aceasta interfata va trebui ca pe [site](https://marketplace.emag.ro/infocenter/emag-academy/?lang=en)-ul lor sa va creati un cont(inregistrati ca si utilizator) si apoi sa va alegeti limba de dialog ca mai apoi sa furnizati informatiile de plata:
+ - **IBAN***
+ - **Bank account holder***
+ - sa bifati daca raspunsul este afirmativ la intrebarea
+   **The bank account holder is the legal company?**
+ - **Bank***
+ - **SWIFT***
+ - **currency***
+ - sa alegeti **YES**, daca raspunsul este afirmativ, sau **NO**, in caz contrar:
+  **I am romanian producer?*** 
+ - Short description of company
+
+
 
 
