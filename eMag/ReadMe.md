@@ -16,7 +16,7 @@ O cautare dupa topicul [**emag**](https://github.com/topics/emag?l=php&o=asc&s=u
 
 Daca sunteti deja pe alte platforme cum este cazul ***Prestashop***, si doriti integrarea cu platforma **eMag**, atunci ar trebui sa incercati sa cautati si pe aceste platforme(ex. [***Prestashop***](https://www.prestashop.com/forums/topic/445986-modul-api-conectare-emagro/), desigur dupa acest/acelasi subiect(**eMag**). Dar din nou uitati-va/fiti atenti  si la ***data*** in care a avut loc conversatia!
 
-Platforma eMag-API este disponibila(deocamdata), pt urmatoarele limbi naturale: **RO**(romana), ***BG***(bulgara), ***HU***(ungara) si ***PL***(poloneza).
+Platforma **eMag-API** este disponibila(deocamdata), pt urmatoarele limbi naturale: **RO**(romana), ***BG***(bulgara), ***HU***(ungara) si ***PL***(poloneza).
 
 
 
