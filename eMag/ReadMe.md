@@ -4,6 +4,8 @@ In acest articol o sa ne ocupam putin de platforma de *eCommerce*, [**eMag-API**
 
 Aici aveti un [info-center](https://marketplace.emag.ro/infocenter/emag-academy/product-import-through-api-or-feeds/api-documentation/?lang=en) al platformei, iar aici aveti [documentatia](https://marketplace.emag.ro/documentation/api/external) API-ului(aceasta este prima versiune, deja invechita!... stiu ca in 11.03.2022 se ajunsese deja la v4.4.5!).
 
+Acest repository [**eMAG Tech-Labs**](https://github.com/eMAGTechLabs), poate sa va ajute, ca si punct de plecare.
+
 Daca aveti probleme cu platforma **emag-marketplace-api**(indiferent de versiune) [stackoverflow](https://stackoverflow.com/questions/78647654/emag-marketplace-api-read-product-offer-filter-not-working) va poate veni in ajutor. O alta solutie, de aceasta data una autohtona, ar fi sa cautati discutiile, aparute pe forumul romanesc [**devforum.ro**](https://devforum.ro/t/integrare-emag-prin-api/13114), cu privire la **emag-api**.
 
 **Emag-api** nu este singura platforma de **marketplace** din Romania. Astfel ca va puteti inspira si din exemplul celor de [***CEL.ro***](https://marketplace.cel.ro/?gad_source=1&gclid=Cj0KCQiA19e8BhCVARIsALpFMgFwgOMkzksPeIm9SexSqEjW2cKGCU68tfLIcaoBKSpdTovaCuHJutgaAsjZEALw_wcB)
