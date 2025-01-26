@@ -16,7 +16,7 @@ O cautare dupa topicul [**emag**](https://github.com/topics/emag?l=php&o=asc&s=u
 
 Daca sunteti deja pe alte platforme cum este cazul ***Prestashop***, si doriti integrarea cu platforma **eMag**, atunci ar trebui sa incercati sa cautati si pe aceste platforme(ex. [***Prestashop***](https://www.prestashop.com/forums/topic/445986-modul-api-conectare-emagro/), desigur dupa acest/acelasi subiect(**eMag**). Dar din nou uitati-va/fiti atenti  si la ***data*** in care a avut loc conversatia!
 
-Platforma **eMag-API** este disponibila(deocamdata), pt urmatoarele limbi naturale: **RO**(romana), ***BG***(bulgara), ***HU***(ungara) si ***PL***(poloneza).
+Platforma **eMag-API** este disponibila(deocamdata), pt urmatoarele [limbi naturale](https://marketplace.emag.ro/infocenter/?cmpid=284464&utm_source=google&utm_medium=cpc&utm_campaign=Search%20Marketplace%202018&utm_content=34568669730&gad_source=1&gclid=Cj0KCQiA19e8BhCVARIsALpFMgEaUFlRtt1TBIrMH-yZd_PrKRJ4Hjbs_JrRqrFkBHzGUE2sJVdlVVQaAs7kEALw_wcB): **RO**(romana), ***BG***(bulgara), ***HU***(ungara) si ***PL***(poloneza).
 
 Sa nu uitam ca [**ChatGPT**](https://chat.openai.com/) genereaza cod si va poate fi de mare ajutor(mai ales, in acesta situatie, cand internetul, nu prea abunda in exemple, pt acest API).
 Totusi, tot acest cod, generat de catre ChatGPT, sub rezerva ca se pot strecura si greseli sau [inadvertențe](https://m.dex.ro/inadverten%C8%9B%C4%83), trebuie in prelabil testat separat, pentru ca mai apoi, sa fie inserat in aplicatiile voastre de baza/principale, deja dezvoltate pana in acel moment.
