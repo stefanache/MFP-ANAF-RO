@@ -11,3 +11,5 @@ Daca aveti probleme cu platforma **emag-marketplace-api**(indiferent de versiune
 Pentru dezvoltatorii in **C#** va recomand sa va uitati pe acest [***test-api***](https://github.com/Usergitbit/EmagAPITest/tree/master)(asta, in cazul in care doriti sa programati de la zero interfata magazinului dvs.!). Daca sunteti in criza de timp, atunci, cel putin, uitati-va pe acest cod-sursa **C#**, [***Form1.cs***](https://github.com/Usergitbit/EmagAPITest/blob/master/EmagAPITest/Form1.cs)
 
 Inca de la inceput, trebuie sa va spun, ca in prinicpal, din punctul de vedere al dezvoltatorului,  aveti access la acest api doar in calitate de client. Un astfel de client, scris in **python**, poate fi chiar [***acesta***](https://github.com/chawel/python-emag)(sub rezerva ca, acest cod ,nu a mai fost revizuit de multa vreme si s-ar putea, sa se refere, la o versiune mai veche a acestei platforme!)
+
+O cautare dupa topicul [**emag**](https://github.com/topics/emag?l=php&o=asc&s=updated), pentru limbajul **php** nu aduce in prim-plan prea multe rezultate(dar trebuiesc incercate si alte subiecte legate de acestea, scrise in fel si chip, si poate voi aveti mai mult success!).
