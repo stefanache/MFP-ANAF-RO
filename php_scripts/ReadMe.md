@@ -1273,7 +1273,7 @@ Am cerut **ChatGPT**-ului sa-mi dea un cod ***PhP*** care sa tranforme o factura
 
 Asa ca i-am solicitat sa traduca intregul exemplu in Python
 
-Acest simplu [**exemplu**](https://chatgpt.com/share/6797a205-7978-800b-a4de-76cf7bf5e2a7), chiar daca nu este decat unul de inceput de drum, va poate ajuta, pentru a obtine, in final, ceea ce va trebui sa depuneti la ANAF.
+Desi nu am testat codul, acest simplu [**exemplu**](https://chatgpt.com/share/6797a205-7978-800b-a4de-76cf7bf5e2a7), chiar daca nu este decat unul de inceput de drum, sper eu ca va poate ajuta, pentru a obtine, in final, ceea ce va trebui sa depuneti la ANAF.
 
 <hr/>
 
