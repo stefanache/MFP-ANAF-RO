@@ -71,7 +71,7 @@ Pentru a sintetiza parcursul acestui agent autonom, am extras structura codului-
  - [BabyAGI](https://medium.com/data-science-in-your-pocket/baby-agi-and-agentgpt-exploring-autonomous-ai-agents-b32d5574f8f5) descompune sarcina prinicpala(*main_task*) în subtask-uri(**subtasks**); *subtasks* este dependent de *main_task* si preparat(deci si dependent de...)de *baby_agi*
  - [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) execută, in bucla, fiecare subtask(**result** este rezultatul extras din fiecare subtask, de catre *autogpt*); *result* depinde de (sub)*task* si de *autogpt*
 
-Ca si intrari de configurare ale / asignate acestui algoritm sunt:
+Ca si intrari de configurare ale / asignate acestui [algoritm](https://www.linkedin.com/pulse/what-cognitive-architecture-aionlinecourse-jlxzc/) sunt:
 
  - rolul agentului([**AutoGPT**](https://www.kdnuggets.com/2023/04/autogpt-everything-need-know.html))- formulata la modul general/descriptiv:
 
