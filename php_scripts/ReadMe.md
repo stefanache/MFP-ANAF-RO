@@ -43,10 +43,6 @@ Hai sa luam exemplul testat de [**Daniel-Popiniuc**](https://github.com/danielgp
 
  - pentru inceput plasati continutul urmator intr-un fisier pe care sa-l denumim **eFacturaMeaContent.inlude.php**:
 
-<details>
- <summary>codul...  <b>eFacturaMeaContent.inlude.php</b></summary>
-
- <pre>
               <?php
                     $xmlstr = <<<XML
                     <?xml version="1.0" encoding="UTF-8"?>
@@ -1078,9 +1074,6 @@ Hai sa luam exemplul testat de [**Daniel-Popiniuc**](https://github.com/danielgp
                     XML;
              ?>
 
-    </pre>
-    
-</details>
 
  - apoi includeti fisierul de mai sus ***eFacturaMeaContent.inlude.php*** in fisierul dumnevoastra principal al aplicatiei/site-ului dvs. sa zicem **index.php** care va avea urmatorul format:
 
