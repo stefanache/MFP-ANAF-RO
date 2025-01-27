@@ -1408,5 +1408,101 @@ Pentru orice eventualitate redau aici si ... :
 </pre>
 </code>
 </details>
+
+<details>
+ <summary>si ...aici codul php echivalent</summary>
+ <pre>
+  <code>
+  <?php
+// Funcție pentru a genera XML conform UBL 2.1
+function generateUBLInvoice($txtFilePath, $xmlOutputPath) {
+    if (!file_exists($txtFilePath)) {
+        die("Fișierul TXT nu a fost găsit!");
+    }
+
+    // Citirea fișierului TXT
+    $lines = file($txtFilePath, FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
+    if (!$lines) {
+        die("Fișierul TXT este gol sau nu poate fi citit!");
+    }
+
+    // Extrage datele facturii din fișierul TXT
+    $invoiceData = [];
+    foreach ($lines as $line) {
+        list($key, $value) = explode(":", $line, 2);
+        $invoiceData[trim($key)] = trim($value);
+    }
+
+    // Validarea datelor necesare
+    $requiredFields = ['InvoiceID', 'IssueDate', 'SupplierName', 'SupplierTaxID', 'CustomerName', 'CustomerTaxID', 'ItemName', 'Quantity', 'Price', 'TaxPercent'];
+    foreach ($requiredFields as $field) {
+        if (empty($invoiceData[$field])) {
+            die("Câmpul '$field' lipsește din fișierul TXT!");
+        }
+    }
+
+    // Calcularea valorilor
+    $quantity = (float) $invoiceData['Quantity'];
+    $price = (float) $invoiceData['Price'];
+    $taxPercent = (float) $invoiceData['TaxPercent'];
+    $lineExtensionAmount = $quantity * $price;
+    $taxAmount = $lineExtensionAmount * ($taxPercent / 100);
+    $totalAmount = $lineExtensionAmount + $taxAmount;
+
+    // Crearea structurii XML
+    $xml = new SimpleXMLElement('<Invoice xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2" xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2" xmlns="urn:oasis:names:specification:ubl:schema:xsd:Invoice-2"></Invoice>');
+    $xml->addChild('cbc:CustomizationID', 'urn:cen.eu:en16931:2017#compliant#urn:efactura.mfinante.ro:CIUS-RO:1.0.1');
+    $xml->addChild('cbc:ProfileID', 'urn:efactura.mfinante.ro:CIUS-RO:1.0.1');
+    $xml->addChild('cbc:ID', $invoiceData['InvoiceID']);
+    $xml->addChild('cbc:IssueDate', $invoiceData['IssueDate']);
+    $xml->addChild('cbc:InvoiceTypeCode', '380');
+    $xml->addChild('cbc:DocumentCurrencyCode', 'RON');
+
+    // Date despre furnizor
+    $supplierParty = $xml->addChild('cac:AccountingSupplierParty');
+    $supplier = $supplierParty->addChild('cac:Party');
+    $supplier->addChild('cac:PartyName')->addChild('cbc:Name', $invoiceData['SupplierName']);
+    $supplier->addChild('cac:PartyTaxScheme')->addChild('cbc:CompanyID', $invoiceData['SupplierTaxID']);
+
+    // Date despre cumpărător
+    $customerParty = $xml->addChild('cac:AccountingCustomerParty');
+    $customer = $customerParty->addChild('cac:Party');
+    $customer->addChild('cac:PartyName')->addChild('cbc:Name', $invoiceData['CustomerName']);
+    $customer->addChild('cac:PartyTaxScheme')->addChild('cbc:CompanyID', $invoiceData['CustomerTaxID']);
+
+    // Linie factură
+    $invoiceLine = $xml->addChild('cac:InvoiceLine');
+    $invoiceLine->addChild('cbc:ID', '1');
+    $invoiceLine->addChild('cbc:InvoicedQuantity', $quantity)->addAttribute('unitCode', 'KGM');
+    $invoiceLine->addChild('cbc:LineExtensionAmount', number_format($lineExtensionAmount, 2, '.', ''))->addAttribute('currencyID', 'RON');
+    $item = $invoiceLine->addChild('cac:Item');
+    $item->addChild('cbc:Name', $invoiceData['ItemName']);
+    $item->addChild('cac:ClassifiedTaxCategory')->addChild('cbc:Percent', $taxPercent);
+    $invoiceLine->addChild('cac:Price')->addChild('cbc:PriceAmount', number_format($price, 2, '.', ''))->addAttribute('currencyID', 'RON');
+
+    // Total TVA
+    $taxTotal = $xml->addChild('cac:TaxTotal');
+    $taxTotal->addChild('cbc:TaxAmount', number_format($taxAmount, 2, '.', ''))->addAttribute('currencyID', 'RON');
+
+    // Total factură
+    $legalMonetaryTotal = $xml->addChild('cac:LegalMonetaryTotal');
+    $legalMonetaryTotal->addChild('cbc:LineExtensionAmount', number_format($lineExtensionAmount, 2, '.', ''))->addAttribute('currencyID', 'RON');
+    $legalMonetaryTotal->addChild('cbc:TaxExclusiveAmount', number_format($lineExtensionAmount, 2, '.', ''))->addAttribute('currencyID', 'RON');
+    $legalMonetaryTotal->addChild('cbc:TaxInclusiveAmount', number_format($totalAmount, 2, '.', ''))->addAttribute('currencyID', 'RON');
+    $legalMonetaryTotal->addChild('cbc:PayableAmount', number_format($totalAmount, 2, '.', ''))->addAttribute('currencyID', 'RON');
+
+    // Salvarea XML-ului într-un fișier
+    $xml->asXML($xmlOutputPath);
+    echo "Factura XML a fost generată cu succes la: $xmlOutputPath\n";
+}
+
+// Exemplu de utilizare
+$txtFilePath = 'factura.txt'; // Locația fișierului TXT
+$xmlOutputPath = 'factura.xml'; // Locația fișierului XML generat
+generateUBLInvoice($txtFilePath, $xmlOutputPath);
+
+</code>
+ </pre>
+</details>
 <hr/>
 
