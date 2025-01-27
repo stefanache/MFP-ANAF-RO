@@ -1295,7 +1295,7 @@ Pentru orice eventualitate, redau aici
  - si aici ...
 
 <details>
- <summary>...codul <b>>AI-Python</b>:</summary>
+ <summary>...codul <b>AI-Python</b>:</summary>
 <code>
  <pre>
    import os
