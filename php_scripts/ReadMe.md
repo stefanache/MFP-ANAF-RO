@@ -1434,6 +1434,7 @@ Pentru orice eventualitate, redau aici
  <summary>...codul <b>PhP</b>, echivalent:</summary>
  <pre>
   <code>
+   
   <?php
 // Funcție pentru a genera XML conform UBL 2.1
 function generateUBLInvoice($txtFilePath, $xmlOutputPath) {
@@ -1521,6 +1522,8 @@ function generateUBLInvoice($txtFilePath, $xmlOutputPath) {
 $txtFilePath = 'factura.txt'; // Locația fișierului TXT
 $xmlOutputPath = 'factura.xml'; // Locația fișierului XML generat
 generateUBLInvoice($txtFilePath, $xmlOutputPath);
+
+?>
 
 </code>
  </pre>
