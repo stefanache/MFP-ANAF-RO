@@ -77,7 +77,7 @@ Ca si intrari de [configurare](https://www.engati.com/glossary/cognitive-archite
 
      ***role*** = "Un agent autonom care analizează documentele și oferă rapoarte despre conformitate."
 
- - intrebarea de inceput/perceputa/initiala orientata/indreptata catre rezultatul, precis si concis, de obtinut in final, sau <br/>scopul/sarcina/task-ul principal[a]([**BabyAGI**](https://blockchain.news/wiki/babyagi-task-driven-autonomous-agent))(cea care va fi defalcata/distribuita in sub-sarcini/subtask-uri de catre planificatorul agentul **BabyAGI**):
+ - intrebarea/interogarea/extragerea esantionului de inceput/perceputa/initiala orientata/indreptata catre rezultatul, precis si concis, de obtinut in final, sau <br/>scopul/sarcina/task-ul principal[a]([**BabyAGI**](https://blockchain.news/wiki/babyagi-task-driven-autonomous-agent))(cea care va fi defalcata/distribuita in sub-sarcini/subtask-uri de catre planificatorul agentul **BabyAGI**):
 
      ***main_task*** = "Analizează documentele PDF pentru a verifica dacă sunt conforme cu reglementările GDPR."
 
