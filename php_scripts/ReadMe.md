@@ -1421,7 +1421,8 @@ Pentru orice eventualitate, redau aici datele de intrare ale facturii:
 </pre>
 </code>
 </details>
-...pentru mai multe detalii despre agenti cititi si postul [Stripe_SmartBill_integrare_cu_eFactura](https://github.com/stefanache/MFP-ANAF-RO/tree/main/php_scripts/Stripe_SmartBill_integrare_cu_eFactura)
+
+...pentru mai multe detalii(despre agenti) cititi si observatia(**OBS:***) de la finalul postului <a href="https://github.com/stefanache/MFP-ANAF-RO/view/main/php_scripts/Stripe_SmartBill_integrare_cu_eFactura"><b>Stripe_SmartBill_integrare_cu_eFactura</b></a>
 
 <details>
  <summary>iar ...aici codul PhP echivalent</summary>
