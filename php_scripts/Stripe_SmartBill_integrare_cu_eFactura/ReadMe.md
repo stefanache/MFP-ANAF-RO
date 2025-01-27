@@ -103,7 +103,7 @@ Asadar, observam/intalnim formularea a 2 mecanisme de ***atentie***/focusare/con
 
  - LLM-ul [**o1-mini**](https://openai.com/index/openai-o1-mini-advancing-cost-efficient-reasoning/) este mai mic decat **o1** ori **o1-preview** si este acceptabil de eficient doar in zona *non-faptica*(adica in zona descriptiva, sau daca vreti, in zona de standardizare/reglementare/rationament), adica in domeniile [***STEM***](https://wiki.anton-paar.com/en/stem-education/)(***S***cience, ***T***echnology, ***E***ngineering, and ***M***athematics )
 
- - se recomanda ca in variantele locale in care se folosesc modele mici sa aveti [contexte](https://www.reddit.com/r/MachineLearning/comments/16g46vu/r_cognitive_architectures_for_language_agents/)/fisiere de intrare/analizat mici pt a se evita ambiguitatile("jumatatile de adevar").
+ - se recomanda/este recomandabil, ca in variantele locale, in care se folosesc modele mici sa aveti [contexte](https://www.reddit.com/r/MachineLearning/comments/16g46vu/r_cognitive_architectures_for_language_agents/)/fisiere de intrare/analizat mici pt a se evita ambiguitatile("jumatatile de adevar").
    
 <hr/>
 
