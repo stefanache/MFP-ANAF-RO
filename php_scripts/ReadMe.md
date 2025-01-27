@@ -1269,6 +1269,10 @@ Daca doriti sa [incarcati eFactura](https://github.com/TecsiAron/ANAF-API-Client
 
 Am cerut **ChatGPT**-ului sa-mi dea un cod ***PhP*** care sa tranforme o factura **.txt** in **xml**, cf ***eFactura*** si ***UBL2.1***(iata [*rezultatul* **txt**2***xml***](https://chatgpt.com/share/6797a205-7978-800b-a4de-76cf7bf5e2a7)!)
 
+***Problema*** este ca el a generat bine mersi codul in PHP desi nu exista asa ceva in realitate!... cel putin in acest moment
+
+Asa ca i-am solicitat sa traduca intregul exemplu in Python
+
 Acest simplu [**exemplu**](https://chatgpt.com/share/6797a205-7978-800b-a4de-76cf7bf5e2a7), chiar daca nu este decat unul de inceput de drum, va poate ajuta, pentru a obtine, in final, ceea ce va trebui sa depuneti la ANAF.
 
 <hr/>
