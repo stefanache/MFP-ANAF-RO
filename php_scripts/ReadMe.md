@@ -1277,6 +1277,7 @@ Desi nu am testat codul, acest simplu [**exemplu**](https://chatgpt.com/share/67
 
 Pentru orice eventualitate redau aici si codul python:
 
+<code>
    import os
    import json
    from langchain.agents import initialize_agent, Tool
@@ -1400,6 +1401,8 @@ Pentru orice eventualitate redau aici si codul python:
            xml_file.write(xml_output)
    
        print(f"BabyAGI processed the invoice and saved the XML to {baby_agi_output_path}.")
+
+</code>
 
 <hr/>
 
