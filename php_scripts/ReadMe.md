@@ -1293,9 +1293,9 @@ Pentru orice eventualitate, redau aici
 </pre>
 
  - si aici ...
- - 
+
 <details>
- <summary>...codul AI-Python</summary>
+ <summary>...codul <b>>AI-Python</b>:</summary>
 <code>
  <pre>
    import os
@@ -1431,7 +1431,7 @@ Pentru orice eventualitate, redau aici
  - precum si ...
    
 <details>
- <summary>...codul PhP echivalent</summary>
+ <summary>...codul <b>PhP</b>, echivalent:</summary>
  <pre>
   <code>
   <?php
