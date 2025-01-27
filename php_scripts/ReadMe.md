@@ -43,9 +43,6 @@ Hai sa luam exemplul testat de [**Daniel-Popiniuc**](https://github.com/danielgp
 
  - pentru inceput plasati continutul urmator intr-un fisier pe care sa-l denumim **eFacturaMeaContent.inlude.php**:
 
-<details>
- <summary>codul:  <b>eFacturaMeaContent.inlude.php</b></summary>
-
  <pre>
  <code>
              <?php
@@ -54,6 +51,10 @@ Hai sa luam exemplul testat de [**Daniel-Popiniuc**](https://github.com/danielgp
                     <Invoice xmlns="urn:oasis:names:specification:ubl:schema:xsd:Invoice-2" xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2" xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2" xmlns:ccts="urn:un:unece:uncefact:documentation:2" xmlns:qdt="urn:oasis:names:specification:ubl:schema:xsd:QualifiedDataTypes-2" xmlns:udt="urn:oasis:names:specification:ubl:schema:xsd:UnqualifiedDataTypes-2" xmlns:xs="https://www.w3.org/2001/XMLSchema" xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance">
                      <cbc:UBLVersionID>2.1</cbc:UBLVersionID>
                      <cbc:CustomizationID>urn:cen.eu:en16931:2017#compliant#urn:efactura.mfinante.ro:CIUS-RO:1.0.1</cbc:CustomizationID>
+
+<details>
+ <summary>retul codului...  <b>eFacturaMeaContent.inlude.php</b></summary>
+ 
                      <cbc:ID>6422451356</cbc:ID>
                      <cbc:IssueDate>2022-05-31</cbc:IssueDate>
                      <cbc:DueDate>2022-05-31</cbc:DueDate>
@@ -1075,13 +1076,13 @@ Hai sa luam exemplul testat de [**Daniel-Popiniuc**](https://github.com/danielgp
                        <cbc:BaseQuantity unitCode="C62">1</cbc:BaseQuantity>
                       </cac:Price>
                      </cac:InvoiceLine>
+
+  </code>
+    </pre>
                     </Invoice>
                     XML;
              ?>
 
- </code>
-    </pre>
- 
   </details>
 
  - apoi includeti fisierul de mai sus ***eFacturaMeaContent.inlude.php*** in fisierul dumnevoastra principal al aplicatiei/site-ului dvs. sa zicem **index.php** care va avea urmatorul format:
