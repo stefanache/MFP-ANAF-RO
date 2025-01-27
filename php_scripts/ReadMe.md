@@ -1277,6 +1277,7 @@ Desi nu am testat codul, acest simplu [**exemplu**](https://chatgpt.com/share/67
 
 Pentru orice eventualitate, redau aici datele de intrare ale facturii:
 
+<pre>
    InvoiceID: 2025-00001
    IssueDate: 2025-01-27
    SupplierName: Vanzator SRL
@@ -1287,7 +1288,7 @@ Pentru orice eventualitate, redau aici datele de intrare ale facturii:
    Quantity: 100
    Price: 3
    TaxPercent: 9
-
+</pre>
 
 <details>
  <summary>si ...codul AI-Python</summary>
