@@ -73,7 +73,7 @@ Pentru a sintetiza parcursul acestui agent autonom, am extras structura codului-
 
 Ca si intrari de [configurare](https://www.engati.com/glossary/cognitive-architecture) ale / [asignate](https://www.slideteam.net/intelligent-automation-architecture-with-cognitive-computing.html#images-1) / [atasate](https://bsorrentino.github.io/bsorrentino/ai/2024/01/04/Cognitive-Architecture-episode1.html) / [asociate](https://ccrg.cs.memphis.edu/) / [aferente](https://hcis-journal.springeropen.com/articles/10.1186/s13673-019-0190-9) acestui [program](https://www.youtube.com/watch?v=JHpy9bkocgw&ab_channel=RajibDeb) / [algoritm](https://www.linkedin.com/pulse/what-cognitive-architecture-aionlinecourse-jlxzc/) / [proiect](https://www.slideshare.net/slideshow/cognitive-science-in-virtual-worlds-2657385/2657385)-[cognitive](https://www.researchgate.net/figure/Architecture-of-a-cognitive-agent_fig1_224829541) [agentic](https://sema4.ai/blog/whats-in-an-ai-agent/) sunt:
 
- - rolul agentului([**AutoGPT**](https://www.kdnuggets.com/2023/04/autogpt-everything-need-know.html))- formulata la modul general/descriptiv:
+ - rolul/motivatia/scopul general de lunga durata agentului([**AutoGPT**](https://www.kdnuggets.com/2023/04/autogpt-everything-need-know.html))- formulata la modul general/descriptiv:
 
      ***role*** = "Un agent autonom care analizează documentele și oferă rapoarte despre conformitate."
 
