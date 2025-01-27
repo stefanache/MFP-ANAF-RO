@@ -1523,7 +1523,7 @@ Pentru orice eventualitate, redau aici
                   $xmlOutputPath = 'factura.xml'; // Locația fișierului XML generat
                   generateUBLInvoice($txtFilePath, $xmlOutputPath);
 
-?>
+              ?>
 
 </code>
  </pre>
