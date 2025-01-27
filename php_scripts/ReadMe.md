@@ -41,7 +41,7 @@ Totusi generarea [eFacturii](https://query.prod.cms.rt.microsoft.com/cms/api/am/
 Puteti folosi pentru generarea fisierului ***XML(.xml)*** o librarie simpla cum este  [**SimpleXML**](https://www.php.net/manual/en/simplexml.examples-basic.php);
 Hai sa luam exemplul testat de [**Daniel-Popiniuc**](https://github.com/danielgp/eFactura/blob/main/testing/UBL_examples/Romanian/eInvoice_ex.xml) si sa-l generam cu [SimpleXML](https://stackoverflow.com/questions/21765994/php-simplexml-reading-with-ubl-different-namespaces):
 
- - pentru inceput plasati continutul urmator intr-un fisier pe care sa-l denumim **eFacturaMeaContent.inlude.php**:
+ - pentru inceput plasati [continutul](https://www.php.net/manual/en/simplexml.examples-basic.php) urmator intr-un fisier pe care sa-l denumim **eFacturaMeaContent.inlude.php**:
 
               <?php
                     $xmlstr = <<<XML
