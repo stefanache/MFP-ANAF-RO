@@ -44,7 +44,7 @@ Hai sa luam exemplul testat de [**Daniel-Popiniuc**](https://github.com/danielgp
  - pentru inceput plasati continutul urmator intr-un fisier pe care sa-l denumim **eFacturaMeaContent.inlude.php**:
 
 <details>
- <summary>codul:  <b>>eFacturaMeaContent.inlude.php</b</summary>
+ <summary>codul:  <b>>eFacturaMeaContent.inlude.php</b></summary>
  <code>
   <pre>
              <?php
