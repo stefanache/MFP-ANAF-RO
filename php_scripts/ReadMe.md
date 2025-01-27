@@ -1275,10 +1275,22 @@ Asa ca i-am solicitat sa traduca intregul exemplu in Python
 
 Desi nu am testat codul, acest simplu [**exemplu**](https://chatgpt.com/share/6797a205-7978-800b-a4de-76cf7bf5e2a7), chiar daca nu este decat unul de inceput de drum, sper eu ca va poate ajuta, pentru a obtine, in final, ceea ce va trebui sa depuneti la ANAF.
 
-Pentru orice eventualitate, redau aici si ... :
+Pentru orice eventualitate, redau aici datele de intrare ale facturii:
+
+   InvoiceID: 2025-00001
+   IssueDate: 2025-01-27
+   SupplierName: Vanzator SRL
+   SupplierTaxID: RO12345678
+   CustomerName: Cumparator SRL
+   CustomerTaxID: RO87654321
+   ItemName: Struguri albi
+   Quantity: 100
+   Price: 3
+   TaxPercent: 9
+
 
 <details>
- <summary>...codul AI-Python</summary>
+ <summary>si ...codul AI-Python</summary>
 <code>
  <pre>
    import os
@@ -1410,7 +1422,7 @@ Pentru orice eventualitate, redau aici si ... :
 </details>
 
 <details>
- <summary>si ...aici codul PhP echivalent</summary>
+ <summary>iar ...aici codul PhP echivalent</summary>
  <pre>
   <code>
   <?php
