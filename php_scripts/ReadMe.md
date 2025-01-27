@@ -1275,5 +1275,131 @@ Asa ca i-am solicitat sa traduca intregul exemplu in Python
 
 Desi nu am testat codul, acest simplu [**exemplu**](https://chatgpt.com/share/6797a205-7978-800b-a4de-76cf7bf5e2a7), chiar daca nu este decat unul de inceput de drum, sper eu ca va poate ajuta, pentru a obtine, in final, ceea ce va trebui sa depuneti la ANAF.
 
+Pentru orice eventualitate redau aici si codul python:
+
+   import os
+   import json
+   from langchain.agents import initialize_agent, Tool
+   from langchain.agents.agent_toolkits import FileManagementToolkit
+   from langchain.llms import Ollama
+   from langchain.tools import Tool
+   from langchain.memory import ConversationBufferMemory
+   from langchain.experimental.autonomous_agents import AutoGPT
+   from langchain.experimental.plan_and_execute import BabyAGI
+   from xml.etree.ElementTree import Element, SubElement, tostring, ElementTree
+   
+   def create_xml(invoice_data):
+       """Generate XML conforming to UBL 2.1 standards."""
+       root = Element('Invoice', attrib={
+           'xsi:schemaLocation': 'urn:oasis:names:specification:ubl:schema:xsd:Invoice-2 http://docs.oasis-open.org/ubl/os-UBL-2.1/xsd/maindoc/UBL-Invoice-2.1.xsd',
+           'xmlns:cac': 'urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2',
+           'xmlns:cbc': 'urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2',
+           'xmlns': 'urn:oasis:names:specification:ubl:schema:xsd:Invoice-2'
+       })
+   
+       SubElement(root, 'cbc:CustomizationID').text = 'urn:cen.eu:en16931:2017#compliant#urn:efactura.mfinante.ro:CIUS-RO:1.0.1'
+       SubElement(root, 'cbc:ID').text = invoice_data.get('InvoiceID', 'Unknown')
+       SubElement(root, 'cbc:IssueDate').text = invoice_data.get('IssueDate', 'Unknown')
+   
+       supplier = SubElement(root, 'cac:AccountingSupplierParty')
+       SubElement(supplier, 'cbc:Name').text = invoice_data.get('SupplierName', 'Unknown')
+   
+       buyer = SubElement(root, 'cac:AccountingCustomerParty')
+       SubElement(buyer, 'cbc:Name').text = invoice_data.get('CustomerName', 'Unknown')
+   
+       items = SubElement(root, 'cac:InvoiceLine')
+       SubElement(items, 'cbc:ItemName').text = invoice_data.get('ItemName', 'Unknown')
+       SubElement(items, 'cbc:Quantity').text = str(invoice_data.get('Quantity', '0'))
+   
+       return tostring(root, encoding='unicode')
+   
+   def process_invoice_file(file_path):
+       """Read and process the TXT invoice file into a dictionary."""
+       with open(file_path, 'r') as file:
+           lines = file.readlines()
+   
+       invoice_data = {}
+       for line in lines:
+           if ':' in line:
+               key, value = line.split(':', 1)
+               invoice_data[key.strip()] = value.strip()
+   
+       return invoice_data
+   
+   def create_agents():
+       """Create AutoGPT and BabyAGI agents using Ollama."""
+       llm = Ollama(model="o1-mini", base_url="http://localhost:11434")
+   
+       tools = [
+           Tool(
+               name="Read File",
+               func=process_invoice_file,
+               description="Reads a TXT file and extracts invoice data."
+           ),
+           Tool(
+               name="Generate XML",
+               func=create_xml,
+               description="Generates UBL 2.1 compliant XML from invoice data."
+           )
+       ]
+   
+       memory = ConversationBufferMemory(memory_key="conversation")
+   
+       auto_gpt = AutoGPT(
+           name="InvoiceProcessorAutoGPT",
+           description="Processes TXT invoices and generates UBL 2.1 XML.",
+           tools=tools,
+           llm=llm,
+           memory=memory,
+           goals=[
+               "1. Read a TXT invoice file.",
+               "2. Extract data from the invoice file.",
+               "3. Generate a UBL 2.1 XML file.",
+               "4. Save the XML file to disk."
+           ]
+       )
+   
+       baby_agi = BabyAGI(
+           llm=llm,
+           tools=tools,
+           memory=memory,
+           verbose=True
+       )
+   
+       return auto_gpt, baby_agi
+   
+   if __name__ == "__main__":
+       # Define the input file path
+       invoice_txt_path = "factura.txt"
+   
+       if not os.path.exists(invoice_txt_path):
+           print(f"File {invoice_txt_path} does not exist.")
+           exit(1)
+   
+       # Create agents
+       auto_gpt_agent, baby_agi_agent = create_agents()
+   
+       # Use AutoGPT to process the invoice
+       print("Processing invoice with AutoGPT...")
+       invoice_data = auto_gpt_agent.tools[0].func(invoice_txt_path)
+       xml_output = auto_gpt_agent.tools[1].func(invoice_data)
+   
+       auto_gpt_output_path = "factura_autoGPT.xml"
+       with open(auto_gpt_output_path, "w") as xml_file:
+           xml_file.write(xml_output)
+   
+       print(f"AutoGPT processed the invoice and saved the XML to {auto_gpt_output_path}.")
+   
+       # Use BabyAGI to process the invoice
+       print("Processing invoice with BabyAGI...")
+       baby_agi_agent.add_task("Process TXT invoice and generate XML.")
+       baby_agi_agent.run()
+   
+       baby_agi_output_path = "factura_babyAGI.xml"
+       with open(baby_agi_output_path, "w") as xml_file:
+           xml_file.write(xml_output)
+   
+       print(f"BabyAGI processed the invoice and saved the XML to {baby_agi_output_path}.")
+
 <hr/>
 
