@@ -1275,7 +1275,9 @@ Asa ca i-am solicitat sa traduca intregul exemplu in Python
 
 Desi nu am testat codul, acest simplu [**exemplu**](https://chatgpt.com/share/6797a205-7978-800b-a4de-76cf7bf5e2a7), chiar daca nu este decat unul de inceput de drum, sper eu ca va poate ajuta, pentru a obtine, in final, ceea ce va trebui sa depuneti la ANAF.
 
-Pentru orice eventualitate, redau aici datele de intrare ale facturii:
+Pentru orice eventualitate, redau aici 
+
+ - datele textuale de intrare ale facturii-exemplu(format *.txt*):
 
 <pre>
    InvoiceID: 2025-00001
@@ -1290,8 +1292,10 @@ Pentru orice eventualitate, redau aici datele de intrare ale facturii:
    TaxPercent: 9
 </pre>
 
+ - si aici ...
+ - 
 <details>
- <summary>si ...codul AI-Python</summary>
+ <summary>...codul AI-Python</summary>
 <code>
  <pre>
    import os
@@ -1424,8 +1428,10 @@ Pentru orice eventualitate, redau aici datele de intrare ale facturii:
 
 ...pentru mai multe detalii(despre agenti) cititi si observatia(***OBS:***) de la finalul postului <a href="https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/Stripe_SmartBill_integrare_cu_eFactura/ReadMe.md"><b>Stripe_SmartBill_integrare_cu_eFactura</b></a>
 
+ - precum si ...
+   
 <details>
- <summary>iar ...aici codul PhP echivalent</summary>
+ <summary>...codul PhP echivalent</summary>
  <pre>
   <code>
   <?php
