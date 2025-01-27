@@ -1410,7 +1410,7 @@ Pentru orice eventualitate, redau aici si ... :
 </details>
 
 <details>
- <summary>si ...aici codul php echivalent</summary>
+ <summary>si ...aici codul PhP echivalent</summary>
  <pre>
   <code>
   <?php
