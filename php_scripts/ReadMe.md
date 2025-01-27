@@ -1074,7 +1074,6 @@ Hai sa luam exemplul testat de [**Daniel-Popiniuc**](https://github.com/danielgp
                     XML;
              ?>
 
-
  - apoi includeti fisierul de mai sus ***eFacturaMeaContent.inlude.php*** in fisierul dumnevoastra principal al aplicatiei/site-ului dvs. sa zicem **index.php** care va avea urmatorul format:
 
                <?php
