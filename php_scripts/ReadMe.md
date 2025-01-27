@@ -1275,8 +1275,10 @@ Asa ca i-am solicitat sa traduca intregul exemplu in Python
 
 Desi nu am testat codul, acest simplu [**exemplu**](https://chatgpt.com/share/6797a205-7978-800b-a4de-76cf7bf5e2a7), chiar daca nu este decat unul de inceput de drum, sper eu ca va poate ajuta, pentru a obtine, in final, ceea ce va trebui sa depuneti la ANAF.
 
-Pentru orice eventualitate redau aici si codul python:
+Pentru orice eventualitate redau aici si ... :
 
+<details>
+ <summary>...codul python</summary>
 <code>
  <pre>
    import os
@@ -1405,6 +1407,6 @@ Pentru orice eventualitate redau aici si codul python:
 
 </pre>
 </code>
-
+</details>
 <hr/>
 
