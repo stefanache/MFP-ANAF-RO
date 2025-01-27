@@ -1265,4 +1265,9 @@ Pentru cei ce vor sa creeze fisiere xbrl folosind python pot consulta acest [lin
 
 Daca doriti sa [incarcati eFactura](https://github.com/TecsiAron/ANAF-API-Client-PHP) din PhP, [postul-GH](https://github.com/Rebootcodesoft/efactura_anaf) va poate veni in [ajutor](https://mfinante.gov.ro/ro/web/efactura).
 
+<hr/>
+
+Am cerut **ChatGPT**-ului sa-mi dea un cod ***PhP*** care sa tranforme o factura **.txt** in **xml**, cf ***eFactura*** si ***UBL2.1***(iata [*rezultatul* **txt**2***xml***](https://chatgpt.com/share/67979ddc-8bf8-800b-a25f-2f15e0e9164e))
+
+<hr/>
 
