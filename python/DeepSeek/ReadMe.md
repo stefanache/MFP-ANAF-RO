@@ -20,7 +20,7 @@ Asadar [**DeepSeek**](https://github.com/deepseek-ai/DeepSeek-V3) la momentul in
 
 Asadar, dat fiind consumul redus de resurse, acum, [**DeepSeek**](https://instashire.com/deepseek-r1-the-ai-powerhouse-redefining-possibilty/) poate fi folosit cu success si(daca nu cumva... cu precadere) in medii **locale**(unde dotarile GPU sunt mai reduse).
 
-**DeepSeek** a lansat un model care rivalizează cu **ChatGPT** de la ***OpenAI*** și **Llama 3.1** de la ***Meta***(insa cu/de cost[uri] scazut[e]!!!).
+[**DeepSeek**](https://docsbot.ai/models/compare/deepseek-r1/deepseek-v3) a lansat un model care rivalizează cu **ChatGPT** de la ***OpenAI*** și **Llama 3.1** de la ***Meta***(insa cu/de cost[uri] scazut[e]!!!).
 
 Domnul [**Fahd Mirza**](https://www.youtube.com/channel/UCPix8N6PMRI4KzgyjuZeF0g) a prezentat cateva lucruri legate de **DeepSeek** pe [***Youtube***](https://www.youtube.com/results?search_query=Fahd+Mirza+DeepSeek):
 
