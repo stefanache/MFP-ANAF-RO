@@ -50,7 +50,7 @@ Cu referire la acest subiect, sunt articole interesante, aparute in presa, publi
 
 **Pareri Pro si Contra privind viitorul acestei noi tehnologii:**
 
-Unii experți au lăudat performanțele [DeepSeek](https://medium.com/@kirill_86245/how-good-is-deepseek-r1-lite-preview-at-reasoning-403b582d24ca), remarcabilul investitor în tehnologie Marc Andreessen scriind pe X, pe 24 ianuarie: „[DeepSeek R1](https://www.datacamp.com/blog/deepseek-r1-lite-preview) este una dintre cele mai uimitoare și impresionante descoperiri pe care le-am văzut vreodată - și ca sursă deschisă, un dar profund pentru lume”.
+Unii experți au lăudat performanțele [DeepSeek](https://medium.com/@kirill_86245/how-good-is-deepseek-r1-lite-preview-at-reasoning-403b582d24ca), remarcabilul investitor în tehnologie Marc Andreessen scriind pe X, pe 24 ianuarie: „[DeepSeek R1](https://www.datacamp.com/blog/deepseek-r1-lite-preview) este una dintre cele mai uimitoare și impresionante [descoperiri](https://docsbot.ai/models/compare/deepseek-v3/o1) pe care le-am văzut vreodată - și ca sursă deschisă, un dar profund pentru lume”.
 
 Într-o declarație pentru CBS News, Nvidia a lăudat [DeepSeek](https://medium.com/@thomas_reid/a-quick-test-of-deepseeks-new-r1-lite-preview-model-7683b5561ad1).
 
@@ -60,4 +60,4 @@ Cu toate acestea, Ives s-a declarat sceptic că serviciul va câștiga teren în
 
 „Niciun Global 2000 din SUA nu va folosi un start-up chinez [DeepSeek](https://www.analyticsvidhya.com/blog/2025/01/deepseek-v3-vs-gpt-4o-vs-llama-3-3-70b/) pentru a-și lansa infrastructura și cazurile de utilizare a IA”, a scris Ives. „Până la urmă, există o singură companie producătoare de cipuri din lume care lansează cazuri de utilizare autonome, robotice și AI mai largi și aceasta este Nvidia”.
 
-La final, as dori sa spun, faptul ca ... doar timpul, va fi cel care, va proba, cele spuse mai sus...sa auzim numai de bine!!!
+La final, as dori sa spun, faptul ca ... doar timpul, va fi cel care, va proba, cele spuse mai sus, in rest...sa auzim numai de bine!!!
