@@ -18,4 +18,31 @@ Asadar [**DeepSeek**](https://github.com/deepseek-ai/DeepSeek-V3) la momentul in
 
 **DeepSeek** a construit modelul folosind cipuri cu capacitate redusă de la Nvidia(utilizand Nvidia ***A100***).
 
+Asadar **DeepSeek** poate acum fi folosit cu success si in medii **locale**(unde dotarile GPU sunt mai reduse).
+
 **DeepSeek** a lansat un model care rivalizează cu **ChatGPT** de la ***OpenAI*** și **Llama 3.1** de la ***Meta***.
+
+Domnul [**Fahd Mirza**](https://www.youtube.com/channel/UCPix8N6PMRI4KzgyjuZeF0g) a prezentat cateva lucruri legate de **DeepSeek** pe ***Youtube***:
+
+ - [How-To Run DeepSeek R1 Locally with Best GUI Frontend](https://www.youtube.com/watch?v=b2DBWKBJj3Q&ab_channel=FahdMirza)
+ - [How-To Use DeepSeek Reasoner in API in Code Easily](https://www.youtube.com/watch?v=WbKa-gxVybA&ab_channel=FahdMirza)
+ - [DeepSeek Drops Janus Pro 7B - Install Locally with Thorough Testing](https://www.youtube.com/watch?v=bWon3I2bGhg&ab_channel=FahdMirza)
+ - [Install DeepSeek-R1 32B Locally - Best Reasoning Distilled Model So Far](https://www.youtube.com/watch?v=BTNZ1tmVkzA&ab_channel=FahdMirza)
+ - [How-To Increase Context Length of DeepSeek-R1 model in Ollama](https://www.youtube.com/watch?v=BDwM93nhdD4&ab_channel=FahdMirza)
+ - [DeepSeek R1 - Indepth Hands-on Review on Language, Coding, Math](https://www.youtube.com/watch?v=x-W56bxJws0&ab_channel=FahdMirza)
+ - [DeepSeek-V2.5-1210: The Final Version - Test Thoroughly on Math, Coding, Text](https://www.youtube.com/watch?v=h6mzItl32n8&ab_channel=FahdMirza)
+ - [DeepSeek V3 Thorough Testing - Better Than GPT-4o and Claude Sonnet in Price and Performance](https://www.youtube.com/watch?v=vz1Cs9CpxOg&ab_channel=FahdMirza)
+ - [DeepSeek Coder v2 Lite Instruct - Local Installation - Beats GPT-4 In Coding](https://www.youtube.com/watch?v=rlxsDC9aza0&ab_channel=FahdMirza)
+ - [How-To Run DeepSeek V3 Locally on CPU or GPU](https://www.youtube.com/watch?v=uMWPXFDaXBM&ab_channel=FahdMirza)
+ - [DeepSeek R1 Lite Preview with DeepThink - Hands-on Demo](https://www.youtube.com/watch?v=1WArHOSq--8&ab_channel=FahdMirza)
+ - [DeepSeek-R1 with Continue and Ollama - Free, Local and Private](https://www.youtube.com/watch?v=-q-3ghi4A8E&ab_channel=FahdMirza)
+ - [Comparison of DeepSeek V3 vs Claude Sonnet vs GPT-4o on Real-World Task](https://www.youtube.com/watch?v=22EQ9M9SKK0&ab_channel=FahdMirza)
+ - [How To Install and Run DeepSeek Coder](https://www.youtube.com/watch?v=DwPxCtO-ZU0&ab_channel=FahdMirza)
+ - [Install DeepSeek Janus Locally - T2I and Vision - Beats DALL-E 2 & SDXL in Image Generation](https://www.youtube.com/watch?v=uH2SWux7rnQ&ab_channel=FahdMirza)
+ - [DeepSeek V2 - Strong Economical LLM](https://www.youtube.com/watch?v=AvEGaqFvnYs&ab_channel=FahdMirza)
+ - [Run DeepSeek R1 with Ollama and Cline in VScode - 100% Local Solution](https://www.youtube.com/watch?v=oeBDn6vclz0&ab_channel=FahdMirza)
+ - [Install JanusFlow 1.3B Locally - Image Understanding and Generation in a Single Model](https://www.youtube.com/watch?v=P2jlL-Zmw-g&ab_channel=FahdMirza)
+
+Desigur, pe **Google**, gasiti/descoperiti o sumedenie de alte [articole](https://www.tiktok.com/@iamleorobles/video/7463886995085987114) legate de **DeepSeek   **.
+
+Sunt articole interesante,aparute in presa, legate de acest subiect, publicate de regula in [revistele](https://medium.com/@thesab/how-deepseek-overtook-chatgpt-the-rise-of-chinas-ai-powerhouse-bfd1a0062161) online de profil, cum este cazul [**Medium**](https://medium.com/@sahin.samia/deepseek-r1-explained-pioneering-the-next-era-of-reasoning-driven-ai-3eeb5ac4d4a0), **Nature**,... dar publicate si de posturi de televiziune(si nu numai), cum sunt [**BBC**](https://www.bbc.com/news/articles/cd643wx888qo), [**CNN**](https://www.cnn.com/2025/01/27/tech/deepseek-stocks-ai-china/index.html), ...
