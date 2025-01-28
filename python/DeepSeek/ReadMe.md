@@ -12,7 +12,7 @@ Pana la aparitia [**DeepSeek**](https://en.wikipedia.org/wiki/DeepSeek), existau
 
 [**Deepseek**](https://www.deepseek.com/) propune si introducere o a **3**-a lege si anume [**interferenta**](https://www.wikiwand.com/ro/articles/Inferen%C8%9Ba_bayesian%C4%83) in timpul testarii(**intra**-testare).
 
-**DeepSeek** este un model care se bazează pe ceea ce se numește „***calcul în timp de inferență***”(asta înseamnă că „***activează doar cele mai relevante părți ale modelului lor pentru fiecare interogare***”).
+[**DeepSeek**](https://deepseekcoder.github.io/) este un model care se bazează pe ceea ce se numește „***calcul în timp de inferență***”(asta înseamnă că „***activează doar cele mai relevante părți ale modelului lor pentru fiecare interogare***”).
 
 Asadar **DeepSeek** la momentul interogarii, utilizeaza doar **cele mai relevante parti ale modelului**, lucru care duce in final la economii de putere de calcul(astfel ca nu mai sunyt necesare capacitati mari de calcul si deci se face pe cale de consecinta si economie de bani prin costurile scazute necesar a fi efectuate)
 Această tehnologie necesită mai puțină energie.
