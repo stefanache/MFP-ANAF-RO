@@ -4,7 +4,7 @@ In acest articol as dori sa lansam in discutie, cateva aspecte, aflate la conflu
 
 Pentru inceput as vrea sa va reamintesc cate ceva despre termenul de [**inferenta**](https://ro.wikipedia.org/wiki/Inferen%C8%9B%C4%83).
 
-[**Inferenta**](https://en.wikipedia.org/wiki/Inference) inseamna utilizarea **modelelor AI** pentru a lua **decizii** sau a face **predicții**.
+[**Inferenta**](https://en.wikipedia.org/wiki/Inference) inseamna utilizarea **modelelor AI** pentru a lua [**decizii**](https://medium.com/@interprobeit/symbolic-ai-vs-connectionist-ai-unveiling-the-fundamental-differences-ecef3bf8063f) sau a face **predicții**.
 
 [**Inferenta**](https://ro.wiktionary.org/wiki/inferen%C8%9B%C4%83) necesită un număr **semnificativ**/**important**/**mare** de **GPU**-uri(desigur **NVIDIA**), consumat in/pentru calcul-inferential, și rețele de **înaltă performanță**(pt transmisie-receptie=comunicare).
 
