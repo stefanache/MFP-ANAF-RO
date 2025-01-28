@@ -6,7 +6,7 @@ Pentru inceput as vrea sa va reamintesc cate ceva despre termenul de [**inferent
 
 [**Inferenta**](https://en.wikipedia.org/wiki/Inference) inseamna utilizarea **modelelor AI** pentru a lua **decizii** sau a face **predicții**.
 
-[**Inferenta**](https://ro.wiktionary.org/wiki/inferen%C8%9B%C4%83) necesită un număr **semnificativ**/**important**/**mare** de **GPU**-uri(desigur NVIDIA), consumat in/pentru calcul-inferential, și rețele de **înaltă performanță**(pt transmisie-receptie=comunicare).
+[**Inferenta**](https://ro.wiktionary.org/wiki/inferen%C8%9B%C4%83) necesită un număr **semnificativ**/**important**/**mare** de **GPU**-uri(desigur **NVIDIA**), consumat in/pentru calcul-inferential, și rețele de **înaltă performanță**(pt transmisie-receptie=comunicare).
 
 Pana la aparitia [**DeepSeek**](https://en.wikipedia.org/wiki/DeepSeek), existau **2** legi(dar si momente) de scalare(ajustare/modificare a lungimii/modelului): **pre**-***training*** și **post**-***training***.
 
@@ -16,7 +16,7 @@ Pana la aparitia [**DeepSeek**](https://en.wikipedia.org/wiki/DeepSeek), existau
 
 Asadar [**DeepSeek**](https://github.com/deepseek-ai/DeepSeek-V3) la momentul interogarii, utilizeaza ***doar***, **cele mai relevante parti ale modelului**, lucru care duce in final la economii de putere de calcul(astfel ca [nu mai sunt necesare](https://context.reverso.net/traducere/engleza-romana/inference) capacitati mari de calcul si deci, se face astfel, pe cale de consecinta, o economie insemnata de bani, prin costurile scazute necesar a fi efectuate, pt achizitia de GPU-uri scumpe, de inalta performanta). Prin urmare, această tehnologie necesită si mai puțină energie(din nou economie de bani).
 
-[**DeepSeek**](https://api-docs.deepseek.com/news/news1120) a construit modelul folosind cipuri cu capacitate redusă de la Nvidia(utilizand Nvidia [***A100***](https://www.nvidia.com/en-us/data-center/a100/)).
+[**DeepSeek**](https://api-docs.deepseek.com/news/news1120) a construit modelul folosind cipuri cu capacitate redusă de la **Nvidia**(utilizand **Nvidia** [***A100***](https://www.nvidia.com/en-us/data-center/a100/)).
 
 Asadar, dat fiind consumul redus de resurse, acum, **DeepSeek** poate fi folosit cu success si(daca nu cumva... cu precadere) in medii **locale**(unde dotarile GPU sunt mai reduse).
 
