@@ -55,3 +55,5 @@ Unii experți au lăudat performanțele DeepSeek, remarcabilul investitor în te
 Cu toate acestea, Ives s-a declarat sceptic că serviciul va câștiga teren în rândul marilor întreprinderi americane.
 
 „Niciun Global 2000 din SUA nu va folosi un start-up chinez DeepSeek pentru a-și lansa infrastructura și cazurile de utilizare a IA”, a scris Ives. „Până la urmă, există o singură companie producătoare de cipuri din lume care lansează cazuri de utilizare autonome, robotice și AI mai largi și aceasta este Nvidia”.
+
+La final as dori sa spun doar faptul ca ... doar proba timpului, va fi cea care va proba cele spuse mai sus...sa auzim numai de bine!!!
