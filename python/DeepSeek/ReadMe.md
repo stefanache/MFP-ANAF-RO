@@ -1,6 +1,6 @@
 Salut,
 
-In acest articol as dori sa lansam in discutie, cateva aspecte, aflate la confluenta DL, NLP si RT-processing, ce tin de / cu privire la [**DeepSeek**](https://www.stiripesurse.ro/cutremur-in-domeniul-inteligentei-artificiale-ce-este-deepseek-si-de-ce-ii-sperie-pe-investitori_3563231.html)
+In acest articol as dori sa lansam in discutie, cateva aspecte, aflate la confluenta [DL](https://www.coursera.org/articles/what-is-deep-learning?utm_medium=sem&utm_source=gg&utm_campaign=b2c_emea_x_multi_ftcof_career-academy_cx_dr_bau_gg_pmax_gc_s2_en_m_hyb_23-12_x&campaignid=20882109092&adgroupid=&device=c&keyword=&matchtype=&network=x&devicemodel=&creativeid=&assetgroupid=6485735763&targetid=&extensionid=&placement=&gad_source=1&gclid=CjwKCAiAneK8BhAVEiwAoy2HYciJfr6jl_2LKRyqAjSCuMvkwPsNSXmxGmmxSlphn2qAUs0Yyyz_sRoCH40QAvD_BwE), [NLP](https://en.wikipedia.org/wiki/Neuro-linguistic_programming) si [RT-processing](https://en.wikipedia.org/wiki/Real-time_computing), ce tin de / cu privire la [**DeepSeek**](https://www.stiripesurse.ro/cutremur-in-domeniul-inteligentei-artificiale-ce-este-deepseek-si-de-ce-ii-sperie-pe-investitori_3563231.html)
 
 Pentru inceput as vrea sa va reamintesc cate ceva despre termenul de [**inferenta**](https://ro.wikipedia.org/wiki/Inferen%C8%9B%C4%83).
 
