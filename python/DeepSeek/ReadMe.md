@@ -12,7 +12,7 @@ Pana la aparitia [**DeepSeek**](https://en.wikipedia.org/wiki/DeepSeek), existau
 
 [**Deepseek**](https://www.deepseek.com/) propune si introduce o a **3**-a lege(un al 3-lea moment) de scalare si anume [**inferenta**](https://www.wikiwand.com/ro/articles/Inferen%C8%9Ba_bayesian%C4%83) in timpul testarii(**intra**-testare).
 
-[**DeepSeek**](https://deepseekcoder.github.io/) este un model care se bazează pe ceea ce se numește „[***calcul în timp de inferență***](https://www.mpt.upt.ro/doc/curs/gp/Sisteme_inteligente_in_electrotehnica/Inteligenta_artificiala_si_Retele_neuronale_cap1.pdf)”(asta înseamnă că „***activează doar cele mai relevante părți ale modelului lor pentru fiecare interogare***”).
+[**DeepSeek**](https://deepseekcoder.github.io/) este un model care se bazează pe ceea ce se numește „[***calcul în timp de inferență***](https://www.mpt.upt.ro/doc/curs/gp/Sisteme_inteligente_in_electrotehnica/Inteligenta_artificiala_si_Retele_neuronale_cap1.pdf)”(asta înseamnă că „***pentru fiecare interogare, se activează doar cele mai relevante părți ale modelului***”).
 
 Asadar [**DeepSeek**](https://github.com/deepseek-ai/DeepSeek-V3) la momentul interogarii, utilizeaza ***doar***, **cele mai relevante parti ale modelului**, lucru care duce in final la economii de putere de calcul(astfel ca [nu mai sunt necesare](https://context.reverso.net/traducere/engleza-romana/inference) capacitati mari de calcul si deci, se face astfel, pe cale de consecinta, o economie insemnata de bani, prin costurile scazute necesar a fi efectuate, pt achizitia de GPU-uri scumpe, de inalta performanta). Prin urmare, această tehnologie necesită si mai puțină energie(din nou economie de bani).
 
