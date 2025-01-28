@@ -2,15 +2,15 @@ Salut,
 
 In acest articol as dori sa aprofundam discutia cu privire la [**DeepSeek**](https://www.stiripesurse.ro/cutremur-in-domeniul-inteligentei-artificiale-ce-este-deepseek-si-de-ce-ii-sperie-pe-investitori_3563231.html)
 
-Pentru inceput as vrea sa va reamintesc cate ceva despre termenul de **inferenta**.
+Pentru inceput as vrea sa va reamintesc cate ceva despre termenul de [**inferenta**](https://ro.wikipedia.org/wiki/Inferen%C8%9B%C4%83).
 
-**Inferenta** inseamna utilizarea **modelelor AI** pentru a lua **decizii** sau a face **predicții**.
+[**Inferenta**](https://en.wikipedia.org/wiki/Inference) inseamna utilizarea **modelelor AI** pentru a lua **decizii** sau a face **predicții**.
 
-**Inferenta** necesită un număr semnificativ de GPU NVIDIA și rețele de înaltă performanță.
+[**Inferenta**](https://ro.wiktionary.org/wiki/inferen%C8%9B%C4%83) necesită un număr semnificativ de GPU(desigur NVIDIA) și rețele de înaltă performanță.
 
-Pana la aparitia **DeepSeek**, existau 2 legi(dar si momente) de scalare(ajustare/modificare a lungimii/modelului): **pre**-***training*** și **post**-***training***.
+Pana la aparitia **DeepSeek**, existau **2** legi(dar si momente) de scalare(ajustare/modificare a lungimii/modelului): **pre**-***training*** și **post**-***training***.
 
-**Deepseek** propune si introducere o a 3-a lege si anume **interferenta** in timpul testarii(**intra**-testare).
+**Deepseek** propune si introducere o a **3**-a lege si anume [**interferenta**](https://www.wikiwand.com/ro/articles/Inferen%C8%9Ba_bayesian%C4%83) in timpul testarii(**intra**-testare).
 
 **DeepSeek** este un model care se bazează pe ceea ce se numește „***calcul în timp de inferență***”(asta înseamnă că „***activează doar cele mai relevante părți ale modelului lor pentru fiecare interogare***”).
 
