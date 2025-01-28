@@ -6,7 +6,7 @@ Pentru inceput as vrea sa va reamintesc cate ceva despre termenul de [**inferent
 
 [**Inferenta**](https://en.wikipedia.org/wiki/Inference) inseamna utilizarea **modelelor AI** pentru a lua **decizii** sau a face **predicții**.
 
-[**Inferenta**](https://ro.wiktionary.org/wiki/inferen%C8%9B%C4%83) necesită un număr **semnificativ**/**important**/**mare** de **GPU**-uri(desigur NVIDIA), pentru calcul-inferential, și rețele de **înaltă performanță**(pt transmisie-receptie=comunicare).
+[**Inferenta**](https://ro.wiktionary.org/wiki/inferen%C8%9B%C4%83) necesită un număr **semnificativ**/**important**/**mare** de **GPU**-uri(desigur NVIDIA), consumat in/pentru calcul-inferential, și rețele de **înaltă performanță**(pt transmisie-receptie=comunicare).
 
 Pana la aparitia [**DeepSeek**](https://en.wikipedia.org/wiki/DeepSeek), existau **2** legi(dar si momente) de scalare(ajustare/modificare a lungimii/modelului): **pre**-***training*** și **post**-***training***.
 
