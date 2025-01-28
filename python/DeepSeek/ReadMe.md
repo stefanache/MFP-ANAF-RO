@@ -1,6 +1,6 @@
 Salut,
 
-In acest articol as dori sa lansam in discutie, cateva aspecte ce tin de / cu privire la [**DeepSeek**](https://www.stiripesurse.ro/cutremur-in-domeniul-inteligentei-artificiale-ce-este-deepseek-si-de-ce-ii-sperie-pe-investitori_3563231.html)
+In acest articol as dori sa lansam in discutie, cateva aspecte, aflate la confluenta DL, NLP si RT-processing, ce tin de / cu privire la [**DeepSeek**](https://www.stiripesurse.ro/cutremur-in-domeniul-inteligentei-artificiale-ce-este-deepseek-si-de-ce-ii-sperie-pe-investitori_3563231.html)
 
 Pentru inceput as vrea sa va reamintesc cate ceva despre termenul de [**inferenta**](https://ro.wikipedia.org/wiki/Inferen%C8%9B%C4%83).
 
