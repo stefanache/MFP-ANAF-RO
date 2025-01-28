@@ -8,7 +8,7 @@ Pentru inceput as vrea sa va reamintesc cate ceva despre [termenul](https://www.
 
 [**Inferenta**](https://ro.wiktionary.org/wiki/inferen%C8%9B%C4%83) necesită un număr **semnificativ**/**important**/**mare** de **GPU**-uri(desigur **NVIDIA**), utilizate in/pentru calcul-inferential, și **rețele** de **înaltă performanță**([retele neuronale](https://www.aut.upt.ro/~andreea.robu/Lab1Retele.pdf) pt [antrenament/invatare](https://staff.fmi.uvt.ro/~daniela.zaharie/am2016/curs/curs12/am2016_slides12_RN.pdf)).
 
-Pana la aparitia [**DeepSeek**](https://en.wikipedia.org/wiki/DeepSeek), existau **2** legi(dar si momente) de scalare(ajustare/modificare a lungimii/modelului): **pre**-***training*** și **post**-***training***.
+Pana la aparitia [**DeepSeek**](https://en.wikipedia.org/wiki/DeepSeek), existau **2** legi(sau mai bine spus 2 momente) de scalare(ajustare/modificare a lungimii/modelului): **pre**-***training*** și **post**-***training***.
 
 [**Deepseek**](https://www.deepseek.com/) propune si introduce o a **3**-a lege si anume [**inferenta**](https://www.wikiwand.com/ro/articles/Inferen%C8%9Ba_bayesian%C4%83) in timpul testarii(**intra**-testare).
 
