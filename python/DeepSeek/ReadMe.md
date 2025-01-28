@@ -18,7 +18,7 @@ Asadar [**DeepSeek**](https://github.com/deepseek-ai/DeepSeek-V3) la momentul in
 
 **DeepSeek** a construit modelul folosind cipuri cu capacitate redusă de la Nvidia(utilizand Nvidia ***A100***).
 
-Asadar **DeepSeek** poate acum fi folosit cu success si in medii **locale**(unde dotarile GPU sunt mai reduse).
+Asadar, dat fiind consumul redus de resurse, acum, **DeepSeek** poate fi folosit cu success si(daca nu cu precadere) in medii **locale**(unde dotarile GPU sunt mai reduse).
 
 **DeepSeek** a lansat un model care rivalizează cu **ChatGPT** de la ***OpenAI*** și **Llama 3.1** de la ***Meta***.
 
