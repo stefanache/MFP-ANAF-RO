@@ -6,13 +6,13 @@ Pentru inceput as vrea sa va reamintesc cate ceva despre [termenul](https://www.
 
 [**Inferenta**](https://en.wikipedia.org/wiki/Inference) inseamna utilizarea [**modelelor AI**](https://www.liu-shen.com/Content-3151.html) pentru a lua [**decizii**](https://medium.com/@interprobeit/symbolic-ai-vs-connectionist-ai-unveiling-the-fundamental-differences-ecef3bf8063f)([Simbolism-AI](https://www.liu-shen.com/Content-3151.html)) sau pentru a face [**predicții**](https://medium.com/@interprobeit/symbolic-ai-vs-connectionist-ai-unveiling-the-fundamental-differences-ecef3bf8063f)([Connectionist-AI](https://miro.medium.com/v2/resize:fit:1400/1*-XPNL45-GqsK1QbhXEssxw.png)).
 
-[**Inferenta**](https://ro.wiktionary.org/wiki/inferen%C8%9B%C4%83) necesită un număr **semnificativ**/**important**/**mare** de **GPU**-uri(desigur **NVIDIA**), consumat in/pentru calcul-inferential, și rețele de **înaltă performanță**(pt transmisie-receptie=comunicare).
+[**Inferenta**](https://ro.wiktionary.org/wiki/inferen%C8%9B%C4%83) necesită un număr **semnificativ**/**important**/**mare** de **GPU**-uri(desigur **NVIDIA**), consumat in/pentru calcul-inferential, și rețele de **înaltă performanță**([retele neuronale](https://www.aut.upt.ro/~andreea.robu/Lab1Retele.pdf) pt [antrenament/invatare](https://staff.fmi.uvt.ro/~daniela.zaharie/am2016/curs/curs12/am2016_slides12_RN.pdf)).
 
 Pana la aparitia [**DeepSeek**](https://en.wikipedia.org/wiki/DeepSeek), existau **2** legi(dar si momente) de scalare(ajustare/modificare a lungimii/modelului): **pre**-***training*** și **post**-***training***.
 
 [**Deepseek**](https://www.deepseek.com/) propune si introduce o a **3**-a lege si anume [**inferenta**](https://www.wikiwand.com/ro/articles/Inferen%C8%9Ba_bayesian%C4%83) in timpul testarii(**intra**-testare).
 
-[**DeepSeek**](https://deepseekcoder.github.io/) este un model care se bazează pe ceea ce se numește „***calcul în timp de inferență***”(asta înseamnă că „***activează doar cele mai relevante părți ale modelului lor pentru fiecare interogare***”).
+[**DeepSeek**](https://deepseekcoder.github.io/) este un model care se bazează pe ceea ce se numește „[***calcul în timp de inferență***](https://www.mpt.upt.ro/doc/curs/gp/Sisteme_inteligente_in_electrotehnica/Inteligenta_artificiala_si_Retele_neuronale_cap1.pdf)”(asta înseamnă că „***activează doar cele mai relevante părți ale modelului lor pentru fiecare interogare***”).
 
 Asadar [**DeepSeek**](https://github.com/deepseek-ai/DeepSeek-V3) la momentul interogarii, utilizeaza ***doar***, **cele mai relevante parti ale modelului**, lucru care duce in final la economii de putere de calcul(astfel ca [nu mai sunt necesare](https://context.reverso.net/traducere/engleza-romana/inference) capacitati mari de calcul si deci, se face astfel, pe cale de consecinta, o economie insemnata de bani, prin costurile scazute necesar a fi efectuate, pt achizitia de GPU-uri scumpe, de inalta performanta). Prin urmare, această tehnologie necesită si mai puțină energie(din nou economie de bani).
 
