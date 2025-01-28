@@ -8,7 +8,7 @@ Pentru inceput as vrea sa va reamintesc cate ceva despre termenul de [**inferent
 
 [**Inferenta**](https://ro.wiktionary.org/wiki/inferen%C8%9B%C4%83) necesită un număr semnificativ de GPU(desigur NVIDIA) și rețele de înaltă performanță.
 
-Pana la aparitia **DeepSeek**, existau **2** legi(dar si momente) de scalare(ajustare/modificare a lungimii/modelului): **pre**-***training*** și **post**-***training***.
+Pana la aparitia [**DeepSeek**](https://en.wikipedia.org/wiki/DeepSeek), existau **2** legi(dar si momente) de scalare(ajustare/modificare a lungimii/modelului): **pre**-***training*** și **post**-***training***.
 
 **Deepseek** propune si introducere o a **3**-a lege si anume [**interferenta**](https://www.wikiwand.com/ro/articles/Inferen%C8%9Ba_bayesian%C4%83) in timpul testarii(**intra**-testare).
 
