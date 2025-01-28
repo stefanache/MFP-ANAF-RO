@@ -53,6 +53,7 @@ Cu referire la acest subiect, sunt articole interesante, aparute in presa, publi
 Unii experți au lăudat performanțele DeepSeek, remarcabilul investitor în tehnologie Marc Andreessen scriind pe X, pe 24 ianuarie: „DeepSeek R1 este una dintre cele mai uimitoare și impresionante descoperiri pe care le-am văzut vreodată - și ca sursă deschisă, un dar profund pentru lume”.
 
 Într-o declarație pentru CBS News, Nvidia a lăudat DeepSeek.
+
 „Munca DeepSeek ilustrează modul în care pot fi create noi modele folosind această tehnică, valorificând modelele disponibile pe scară largă și calculul care este pe deplin conform cu controlul exporturilor”.
 
 Cu toate acestea, Ives s-a declarat sceptic că serviciul va câștiga teren în rândul marilor întreprinderi americane.
