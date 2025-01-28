@@ -48,7 +48,7 @@ Desigur, pe **Google**, gasiti/descoperiti o sumedenie de alte [articole](https:
 
 Cu referire la acest subiect, sunt articole interesante, aparute in presa, publicate de regula in [revistele](https://medium.com/@thesab/how-deepseek-overtook-chatgpt-the-rise-of-chinas-ai-powerhouse-bfd1a0062161) online de profil, cum este cazul [**Medium**](https://medium.com/@sahin.samia/deepseek-r1-explained-pioneering-the-next-era-of-reasoning-driven-ai-3eeb5ac4d4a0), **Nature**,... dar publicate si de posturi de televiziune(si nu numai), cum sunt [**BBC**](https://www.bbc.com/news/articles/cd643wx888qo), [**CNN**](https://www.cnn.com/2025/01/27/tech/deepseek-stocks-ai-china/index.html), ...
 
-**Pareri Pro si Contra privind viitorul acestei noi tehnologii:**
+**Pareri [Pro](https://hotnews.ro/aplicatia-chinezeasca-de-inteligenta-artificiala-sustine-ca-a-fost-victima-unui-atac-cibernetic-la-scara-larga-ce-este-deepseek-1888748) si Contra privind viitorul acestei noi tehnologii:**
 
 Unii experți au lăudat performanțele [DeepSeek](https://medium.com/@kirill_86245/how-good-is-deepseek-r1-lite-preview-at-reasoning-403b582d24ca), remarcabilul investitor în tehnologie Marc Andreessen scriind pe X, pe 24 ianuarie: „[DeepSeek R1](https://www.datacamp.com/blog/deepseek-r1-lite-preview) este una dintre cele mai uimitoare și impresionante [descoperiri](https://docsbot.ai/models/compare/deepseek-v3/o1) pe care le-am văzut vreodată - și ca sursă deschisă, un dar profund pentru lume”.
 
