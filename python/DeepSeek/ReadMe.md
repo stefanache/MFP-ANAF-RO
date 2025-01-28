@@ -6,7 +6,7 @@ Pentru inceput as vrea sa va reamintesc cate ceva despre [termenul](https://www.
 
 [**Inferenta**](https://en.wikipedia.org/wiki/Inference) inseamna utilizarea [**modelelor AI**](https://www.liu-shen.com/Content-3151.html) pentru a lua [**decizii**](https://medium.com/@interprobeit/symbolic-ai-vs-connectionist-ai-unveiling-the-fundamental-differences-ecef3bf8063f)([Simbolism-AI](https://www.liu-shen.com/Content-3151.html)) sau pentru a face [**predicții**](https://medium.com/@interprobeit/symbolic-ai-vs-connectionist-ai-unveiling-the-fundamental-differences-ecef3bf8063f)([Connectionist-AI](https://miro.medium.com/v2/resize:fit:1400/1*-XPNL45-GqsK1QbhXEssxw.png)).
 
-[**Inferenta**](https://ro.wiktionary.org/wiki/inferen%C8%9B%C4%83) necesită un număr **semnificativ**/**important**/**mare** de **GPU**-uri(desigur **NVIDIA**), consumat in/pentru calcul-inferential, și **rețele** de **înaltă performanță**([retele neuronale](https://www.aut.upt.ro/~andreea.robu/Lab1Retele.pdf) pt [antrenament/invatare](https://staff.fmi.uvt.ro/~daniela.zaharie/am2016/curs/curs12/am2016_slides12_RN.pdf)).
+[**Inferenta**](https://ro.wiktionary.org/wiki/inferen%C8%9B%C4%83) necesită un număr **semnificativ**/**important**/**mare** de **GPU**-uri(desigur **NVIDIA**), utilizate in/pentru calcul-inferential, și **rețele** de **înaltă performanță**([retele neuronale](https://www.aut.upt.ro/~andreea.robu/Lab1Retele.pdf) pt [antrenament/invatare](https://staff.fmi.uvt.ro/~daniela.zaharie/am2016/curs/curs12/am2016_slides12_RN.pdf)).
 
 Pana la aparitia [**DeepSeek**](https://en.wikipedia.org/wiki/DeepSeek), existau **2** legi(dar si momente) de scalare(ajustare/modificare a lungimii/modelului): **pre**-***training*** și **post**-***training***.
 
@@ -18,7 +18,7 @@ Asadar [**DeepSeek**](https://github.com/deepseek-ai/DeepSeek-V3) la momentul in
 
 [**DeepSeek**](https://api-docs.deepseek.com/news/news1120) a construit modelul folosind cipuri din familia [***A100***](https://www.nvidia.com/en-us/data-center/a100/)(dar cu/de capacitate redusă) de la **Nvidia**.
 
-Asadar, dat fiind consumul redus de resurse, acum, [**DeepSeek**](https://instashire.com/deepseek-r1-the-ai-powerhouse-redefining-possibilty/) poate fi folosit cu success si(daca nu cumva... cu precadere) in medii **locale**(unde dotarile GPU sunt mai reduse).
+Asadar, dat fiind consumul redus de resurse, acum, [**DeepSeek**](https://instashire.com/deepseek-r1-the-ai-powerhouse-redefining-possibilty/) poate fi folosit cu success si(daca nu cumva... cu precadere) in medii **locale**(unde dotarile **GPU** sunt mai reduse).
 
 [**DeepSeek**](https://docsbot.ai/models/compare/deepseek-r1/deepseek-v3) a lansat un model care rivalizează cu **ChatGPT** de la ***OpenAI*** și **Llama 3.1** de la ***Meta***(insa cu/de cost[uri] scazut[e]!!!).
 
