@@ -10,7 +10,7 @@ Pentru inceput as vrea sa va reamintesc cate ceva despre termenul de [**inferent
 
 Pana la aparitia [**DeepSeek**](https://en.wikipedia.org/wiki/DeepSeek), existau **2** legi(dar si momente) de scalare(ajustare/modificare a lungimii/modelului): **pre**-***training*** și **post**-***training***.
 
-[**Deepseek**](https://www.deepseek.com/) propune si introducere o a **3**-a lege si anume [**interferenta**](https://www.wikiwand.com/ro/articles/Inferen%C8%9Ba_bayesian%C4%83) in timpul testarii(**intra**-testare).
+[**Deepseek**](https://www.deepseek.com/) propune si introduce o a **3**-a lege si anume [**interferenta**](https://www.wikiwand.com/ro/articles/Inferen%C8%9Ba_bayesian%C4%83) in timpul testarii(**intra**-testare).
 
 [**DeepSeek**](https://deepseekcoder.github.io/) este un model care se bazează pe ceea ce se numește „***calcul în timp de inferență***”(asta înseamnă că „***activează doar cele mai relevante părți ale modelului lor pentru fiecare interogare***”).
 
