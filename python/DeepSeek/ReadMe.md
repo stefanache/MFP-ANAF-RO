@@ -44,7 +44,7 @@ Domnul [**Fahd Mirza**](https://www.youtube.com/channel/UCPix8N6PMRI4KzgyjuZeF0g
  - [Install JanusFlow 1.3B Locally - Image Understanding and Generation in a Single Model](https://www.youtube.com/watch?v=P2jlL-Zmw-g&ab_channel=FahdMirza)
  - ...
 
-Desigur, pe **Google**, gasiti/descoperiti o sumedenie de alte [articole](https://www.tiktok.com/@iamleorobles/video/7463886995085987114) legate de **DeepSeek**.
+Desigur, pe **Google**, gasiti/descoperiti o sumedenie de alte [articole](https://www.tiktok.com/@iamleorobles/video/7463886995085987114) legate de [**DeepSeek**](https://noerbarry.medium.com/deepseek-v3-offering-new-speed-and-efficiency-in-the-ai-world-outperforming-gpt-4-and-llama-in-559fe6ff1996).
 
 Cu referire la acest subiect, sunt articole interesante, aparute in presa, publicate de regula in [revistele](https://medium.com/@thesab/how-deepseek-overtook-chatgpt-the-rise-of-chinas-ai-powerhouse-bfd1a0062161) online de profil, cum este cazul [**Medium**](https://medium.com/@sahin.samia/deepseek-r1-explained-pioneering-the-next-era-of-reasoning-driven-ai-3eeb5ac4d4a0), **Nature**,... dar publicate si de posturi de televiziune(si nu numai), cum sunt [**BBC**](https://www.bbc.com/news/articles/cd643wx888qo), [**CNN**](https://www.cnn.com/2025/01/27/tech/deepseek-stocks-ai-china/index.html), ...
 
