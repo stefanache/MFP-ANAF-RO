@@ -14,8 +14,6 @@ Pana la aparitia [**DeepSeek**](https://en.wikipedia.org/wiki/DeepSeek), existau
 
 [**DeepSeek**](https://deepseekcoder.github.io/) este un model care se bazează pe ceea ce se numește „***calcul în timp de inferență***”(asta înseamnă că „***activează doar cele mai relevante părți ale modelului lor pentru fiecare interogare***”).
 
-**Pareri Pro si Contra:**
-
 Asadar [**DeepSeek**](https://github.com/deepseek-ai/DeepSeek-V3) la momentul interogarii, utilizeaza ***doar***, **cele mai relevante parti ale modelului**, lucru care duce in final la economii de putere de calcul(astfel ca [nu mai sunt necesare](https://context.reverso.net/traducere/engleza-romana/inference) capacitati mari de calcul si deci, se face astfel, pe cale de consecinta, o economie insemnata de bani, prin costurile scazute necesar a fi efectuate, pt achizitia de GPU-uri scumpe, de inalta performanta). Prin urmare, această tehnologie necesită si mai puțină energie(din nou economie de bani).
 
 **DeepSeek** a construit modelul folosind cipuri cu capacitate redusă de la Nvidia(utilizand Nvidia ***A100***).
@@ -49,6 +47,8 @@ Domnul [**Fahd Mirza**](https://www.youtube.com/channel/UCPix8N6PMRI4KzgyjuZeF0g
 Desigur, pe **Google**, gasiti/descoperiti o sumedenie de alte [articole](https://www.tiktok.com/@iamleorobles/video/7463886995085987114) legate de **DeepSeek**.
 
 Cu referire la acest subiect, sunt articole interesante, aparute in presa, publicate de regula in [revistele](https://medium.com/@thesab/how-deepseek-overtook-chatgpt-the-rise-of-chinas-ai-powerhouse-bfd1a0062161) online de profil, cum este cazul [**Medium**](https://medium.com/@sahin.samia/deepseek-r1-explained-pioneering-the-next-era-of-reasoning-driven-ai-3eeb5ac4d4a0), **Nature**,... dar publicate si de posturi de televiziune(si nu numai), cum sunt [**BBC**](https://www.bbc.com/news/articles/cd643wx888qo), [**CNN**](https://www.cnn.com/2025/01/27/tech/deepseek-stocks-ai-china/index.html), ...
+
+**Pareri Pro si Contra:**
 
 Unii experți au lăudat performanțele DeepSeek, remarcabilul investitor în tehnologie Marc Andreessen scriind pe X, pe 24 ianuarie: „DeepSeek R1 este una dintre cele mai uimitoare și impresionante descoperiri pe care le-am văzut vreodată - și ca sursă deschisă, un dar profund pentru lume”.
 
