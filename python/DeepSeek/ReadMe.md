@@ -47,3 +47,9 @@ Domnul [**Fahd Mirza**](https://www.youtube.com/channel/UCPix8N6PMRI4KzgyjuZeF0g
 Desigur, pe **Google**, gasiti/descoperiti o sumedenie de alte [articole](https://www.tiktok.com/@iamleorobles/video/7463886995085987114) legate de **DeepSeek**.
 
 Cu referire la acest subiect, sunt articole interesante, aparute in presa, publicate de regula in [revistele](https://medium.com/@thesab/how-deepseek-overtook-chatgpt-the-rise-of-chinas-ai-powerhouse-bfd1a0062161) online de profil, cum este cazul [**Medium**](https://medium.com/@sahin.samia/deepseek-r1-explained-pioneering-the-next-era-of-reasoning-driven-ai-3eeb5ac4d4a0), **Nature**,... dar publicate si de posturi de televiziune(si nu numai), cum sunt [**BBC**](https://www.bbc.com/news/articles/cd643wx888qo), [**CNN**](https://www.cnn.com/2025/01/27/tech/deepseek-stocks-ai-china/index.html), ...
+
+Unii experți au lăudat performanțele DeepSeek, remarcabilul investitor în tehnologie Marc Andreessen scriind pe X, pe 24 ianuarie: „DeepSeek R1 este una dintre cele mai uimitoare și impresionante descoperiri pe care le-am văzut vreodată - și ca sursă deschisă, un dar profund pentru lume”.
+
+Cu toate acestea, Ives s-a declarat sceptic că serviciul va câștiga teren în rândul marilor întreprinderi americane.
+
+„Niciun Global 2000 din SUA nu va folosi un start-up chinez DeepSeek pentru a-și lansa infrastructura și cazurile de utilizare a IA”, a scris Ives. „Până la urmă, există o singură companie producătoare de cipuri din lume care lansează cazuri de utilizare autonome, robotice și AI mai largi și aceasta este Nvidia”.
