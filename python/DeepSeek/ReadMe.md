@@ -22,7 +22,7 @@ Asadar **DeepSeek** poate acum fi folosit cu success si in medii **locale**(unde
 
 **DeepSeek** a lansat un model care rivalizează cu **ChatGPT** de la ***OpenAI*** și **Llama 3.1** de la ***Meta***.
 
-Domnul [**Fahd Mirza**](https://www.youtube.com/channel/UCPix8N6PMRI4KzgyjuZeF0g) a prezentat cateva lucruri legate de **DeepSeek** pe ***Youtube***:
+Domnul [**Fahd Mirza**](https://www.youtube.com/channel/UCPix8N6PMRI4KzgyjuZeF0g) a prezentat cateva lucruri legate de **DeepSeek** pe [***Youtube***](https://www.youtube.com/results?search_query=Fahd+Mirza+DeepSeek):
 
  - [How-To Run DeepSeek R1 Locally with Best GUI Frontend](https://www.youtube.com/watch?v=b2DBWKBJj3Q&ab_channel=FahdMirza)
  - [How-To Use DeepSeek Reasoner in API in Code Easily](https://www.youtube.com/watch?v=WbKa-gxVybA&ab_channel=FahdMirza)
