@@ -25,7 +25,7 @@ Asadar, dat fiind consumul redus de resurse, acum, [**DeepSeek**](https://instas
 Domnul [**Fahd Mirza**](https://www.youtube.com/channel/UCPix8N6PMRI4KzgyjuZeF0g) a prezentat cateva lucruri legate de **DeepSeek** pe [***Youtube***](https://www.youtube.com/results?search_query=Fahd+Mirza+DeepSeek):
 
  - [How-To Run DeepSeek R1 Locally with Best GUI Frontend](https://www.youtube.com/watch?v=b2DBWKBJj3Q&ab_channel=FahdMirza)
- - [How-To Use DeepSeek Reasoner in API in Code Easily](https://www.youtube.com/watch?v=WbKa-gxVybA&ab_channel=FahdMirza)
+ - [How-To Use DeepSeek Reasoner(R1) in API in Code Easily](https://www.youtube.com/watch?v=WbKa-gxVybA&ab_channel=FahdMirza)
  - [DeepSeek Drops Janus Pro 7B - Install Locally with Thorough Testing](https://www.youtube.com/watch?v=bWon3I2bGhg&ab_channel=FahdMirza)
  - [Install DeepSeek-R1 32B Locally - Best Reasoning Distilled Model So Far](https://www.youtube.com/watch?v=BTNZ1tmVkzA&ab_channel=FahdMirza)
  - [How-To Increase Context Length of DeepSeek-R1 model in Ollama](https://www.youtube.com/watch?v=BDwM93nhdD4&ab_channel=FahdMirza)
