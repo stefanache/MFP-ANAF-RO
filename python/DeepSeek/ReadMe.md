@@ -16,6 +16,6 @@ Pana la aparitia [**DeepSeek**](https://en.wikipedia.org/wiki/DeepSeek), existau
 
 Asadar [**DeepSeek**](https://github.com/deepseek-ai/DeepSeek-V3) la momentul interogarii, utilizeaza ***doar***, **cele mai relevante parti ale modelului**, lucru care duce in final la economii de putere de calcul(astfel ca [nu mai sunt necesare](https://context.reverso.net/traducere/engleza-romana/inference) capacitati mari de calcul si deci, se face astfel, pe cale de consecinta, o economie insemnata de bani, prin costurile scazute necesar a fi efectuate). Această tehnologie necesită mai puțină energie.
 
-**DeepSeek** a construit modelul folosind cipuri cu capacitate redusă de la Nvidia(Nvidia ***A100***).
+**DeepSeek** a construit modelul folosind cipuri cu capacitate redusă de la Nvidia(utilizand Nvidia ***A100***).
 
 **DeepSeek** a lansat un model care rivalizează cu **ChatGPT** de la ***OpenAI*** și **Llama 3.1** de la ***Meta***.
