@@ -42,7 +42,7 @@ Domnul [**Fahd Mirza**](https://www.youtube.com/channel/UCPix8N6PMRI4KzgyjuZeF0g
  - [DeepSeek V2 - Strong Economical LLM](https://www.youtube.com/watch?v=AvEGaqFvnYs&ab_channel=FahdMirza)
  - [Run DeepSeek R1 with Ollama and Cline in VScode - 100% Local Solution](https://www.youtube.com/watch?v=oeBDn6vclz0&ab_channel=FahdMirza)
  - [Install JanusFlow 1.3B Locally - Image Understanding and Generation in a Single Model](https://www.youtube.com/watch?v=P2jlL-Zmw-g&ab_channel=FahdMirza)
- - ...
+ - [...](https://docsbot.ai/models/compare/deepseek-r1/deepseek-v3)
 
 Desigur, pe **Google**, gasiti/descoperiti o sumedenie de alte [articole](https://www.tiktok.com/@iamleorobles/video/7463886995085987114) legate de [**DeepSeek**](https://noerbarry.medium.com/deepseek-v3-offering-new-speed-and-efficiency-in-the-ai-world-outperforming-gpt-4-and-llama-in-559fe6ff1996).
 
