@@ -16,7 +16,7 @@ Pana la aparitia [**DeepSeek**](https://en.wikipedia.org/wiki/DeepSeek), existau
 
 Asadar [**DeepSeek**](https://github.com/deepseek-ai/DeepSeek-V3) la momentul interogarii, utilizeaza ***doar***, **cele mai relevante parti ale modelului**, lucru care duce in final la economii de putere de calcul(astfel ca [nu mai sunt necesare](https://context.reverso.net/traducere/engleza-romana/inference) capacitati mari de calcul si deci, se face astfel, pe cale de consecinta, o economie insemnata de bani, prin costurile scazute necesar a fi efectuate, pt achizitia de GPU-uri scumpe, de inalta performanta). Prin urmare, această tehnologie necesită si mai puțină energie(din nou economie de bani).
 
-[**DeepSeek**](https://api-docs.deepseek.com/news/news1120) a construit modelul folosind cipuri cu capacitate redusă de la Nvidia(utilizand Nvidia ***A100***).
+[**DeepSeek**](https://api-docs.deepseek.com/news/news1120) a construit modelul folosind cipuri cu capacitate redusă de la Nvidia(utilizand Nvidia [***A100***](https://www.nvidia.com/en-us/data-center/a100/)).
 
 Asadar, dat fiind consumul redus de resurse, acum, **DeepSeek** poate fi folosit cu success si(daca nu cumva... cu precadere) in medii **locale**(unde dotarile GPU sunt mai reduse).
 
