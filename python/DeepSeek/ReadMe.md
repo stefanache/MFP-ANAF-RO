@@ -50,7 +50,7 @@ Cu referire la acest subiect, sunt articole interesante, aparute in presa, publi
 
 **Pareri Pro si Contra privind viitorul acestei noi tehnologii:**
 
-Unii experți au lăudat performanțele DeepSeek, remarcabilul investitor în tehnologie Marc Andreessen scriind pe X, pe 24 ianuarie: „DeepSeek R1 este una dintre cele mai uimitoare și impresionante descoperiri pe care le-am văzut vreodată - și ca sursă deschisă, un dar profund pentru lume”.
+Unii experți au lăudat performanțele [DeepSeek](https://medium.com/@kirill_86245/how-good-is-deepseek-r1-lite-preview-at-reasoning-403b582d24ca), remarcabilul investitor în tehnologie Marc Andreessen scriind pe X, pe 24 ianuarie: „DeepSeek R1 este una dintre cele mai uimitoare și impresionante descoperiri pe care le-am văzut vreodată - și ca sursă deschisă, un dar profund pentru lume”.
 
 Într-o declarație pentru CBS News, Nvidia a lăudat DeepSeek.
 
