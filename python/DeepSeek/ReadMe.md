@@ -56,7 +56,7 @@ Unii experți au lăudat performanțele [DeepSeek](https://medium.com/@kirill_86
 
 Într-o declarație pentru CBS News, Nvidia a lăudat [DeepSeek](https://medium.com/@thomas_reid/a-quick-test-of-deepseeks-new-r1-lite-preview-model-7683b5561ad1).
 
-„Munca [DeepSeek](https://github.com/deepseek-ai/DeepSeek-R1) ilustrează modul în care pot fi create noi modele folosind această tehnică, valorificând modelele disponibile pe scară largă și calculul care este pe deplin conform cu controlul exporturilor”.
+„Munca [DeepSeek](https://github.com/deepseek-ai/DeepSeek-R1) ilustrează modul în care pot fi create noi modele folosind această [tehnică](https://github.com/deepseek-ai/DeepSeek-R1/blob/main/DeepSeek_R1.pdf), valorificând modelele disponibile pe scară largă și calculul care este pe deplin conform cu controlul exporturilor”.
 
 Cu toate acestea, Ives s-a declarat sceptic că serviciul va câștiga teren în rândul marilor întreprinderi americane.
 
