@@ -46,7 +46,7 @@ Domnul [**Fahd Mirza**](https://www.youtube.com/channel/UCPix8N6PMRI4KzgyjuZeF0g
  - [Install DeepSeek Janus Locally - T2I and Vision - Beats DALL-E 2 & SDXL in Image Generation](https://www.youtube.com/watch?v=uH2SWux7rnQ&ab_channel=FahdMirza)
  - [DeepSeek V2 - Strong Economical LLM(and Efficient MoE)](https://www.youtube.com/watch?v=AvEGaqFvnYs&ab_channel=FahdMirza)
  - [Run DeepSeek R1 with Ollama and Cline(agent de codare pt VSc) in VScode - 100% Local Solution](https://www.youtube.com/watch?v=oeBDn6vclz0&ab_channel=FahdMirza)
- - [Install JanusFlow 1.3B Locally - Image Understanding and Generation in a Single Model](https://www.youtube.com/watch?v=P2jlL-Zmw-g&ab_channel=FahdMirza)
+ - [Install JanusFlow 1.3B Locally - Image Understanding and Generation in a Single Model](https://www.youtube.com/watch?v=P2jlL-Zmw-g&ab_channel=FahdMirza) <br/>JanusFlow-este un cadru puternic care unifică, înțelegerea și generarea imaginilor, într-un singur model.
  - [...](https://docsbot.ai/models/compare/deepseek-r1/deepseek-v3)
 
 Desigur, pe **Google**, gasiti/descoperiti o sumedenie de alte [articole](https://www.tiktok.com/@iamleorobles/video/7463886995085987114) legate de [**DeepSeek**](https://noerbarry.medium.com/deepseek-v3-offering-new-speed-and-efficiency-in-the-ai-world-outperforming-gpt-4-and-llama-in-559fe6ff1996).
