@@ -30,7 +30,7 @@ Domnul [**Fahd Mirza**](https://www.youtube.com/channel/UCPix8N6PMRI4KzgyjuZeF0g
  - [Run DeepSeek Janus Pro(1B) on CPU Locally - Image Understanding and Creation](https://www.youtube.com/watch?v=kfN1w_4Zg2E&ab_channel=FahdMirza)(multi-modal)
  - [How-To Run DeepSeek R1(70B) Locally with Best GUI Frontend](https://www.youtube.com/watch?v=b2DBWKBJj3Q&ab_channel=FahdMirza)
  - [Run DeepSeek R1(32B) with Ollama and Cline(agent-VSc) in VScode - 100% Local Solution](https://www.youtube.com/watch?v=oeBDn6vclz0&t=0s&ab_channel=FahdMirza)
- - [How-To Use DeepSeek Reasoner(R1) in API in Code Easily](https://www.youtube.com/watch?v=WbKa-gxVybA&ab_channel=FahdMirza)
+ - [How-To Use DeepSeek Reasoner(R1) in API in Code Easily](https://www.youtube.com/watch?v=WbKa-gxVybA&ab_channel=FahdMirza)(acesta este [codul](https://github.com/fahdmirza/deepseekr1) utilizat!)
  - [DeepSeek Drops Janus Pro 7B - Install Locally with Thorough Testing](https://www.youtube.com/watch?v=bWon3I2bGhg&ab_channel=FahdMirza)
  - [Install DeepSeek-R1 32B Locally - Best Reasoning Distilled Model So Far](https://www.youtube.com/watch?v=BTNZ1tmVkzA&ab_channel=FahdMirza)
  - [How-To Increase Context Length of DeepSeek-R1 model in Ollama](https://www.youtube.com/watch?v=BDwM93nhdD4&ab_channel=FahdMirza)
