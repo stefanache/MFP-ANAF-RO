@@ -49,7 +49,7 @@ Domnul [**Fahd Mirza**](https://www.youtube.com/channel/UCPix8N6PMRI4KzgyjuZeF0g
  - [Install DeepSeek Janus(1.3B) Locally - T2I and Vision - Beats DALL-E 2 & SDXL in Image Generation](https://www.youtube.com/watch?v=uH2SWux7rnQ&ab_channel=FahdMirza)
   <br/>🚀**Janus** de la ***Deepseek*** - este un cadru care se refera la o ***înțelegere*** a imaginii(si descrierea textuala a ceea ce se vede in imagine=**img**2**txt**) impreuna cu/unificată cu/și o ***generare*** **MLLM** de imagine (bazata pe un text-descriptiv a imaginii = **txt**2**img**).
   <br/>🚀 Acest cadru(**Janus**) este sponsorizat/ajutat de/se bazeaza pe **AgentQL**, care este un limbaj de interogare, bazat pe AI, pt. obținerea de ***date structurate***(tabele ce contin datele filtrate/capturate/[scrapping](https://www.avocatoo.ro/blog/este-data-scraping-ul-legal)) din ***pagini web(live)***
- - [DeepSeek V2 - Strong Economical LLM(and Efficient MoE)](https://www.youtube.com/watch?v=AvEGaqFvnYs&ab_channel=FahdMirza)
+ - [DeepSeek V2 - Strong Economical LLM](https://www.youtube.com/watch?v=AvEGaqFvnYs&ab_channel=FahdMirza)(and Efficient MoE)
  - [Run DeepSeek R1(32B) with Ollama and Cline(agent de codare pt VSc) in VScode - 100% Local Solution](https://www.youtube.com/watch?v=oeBDn6vclz0&ab_channel=FahdMirza)
  - [Install JanusFlow 1.3B Locally - Image Understanding and Generation in a Single Model](https://www.youtube.com/watch?v=P2jlL-Zmw-g&ab_channel=FahdMirza) <br/>(**JanusFlow** - este un cadru puternic, care unifică, ***înțelegerea*** imaginilor și/impreuna cu ***generarea imaginilor***, într-un singur model)
  - [...](https://docsbot.ai/models/compare/deepseek-r1/deepseek-v3)
