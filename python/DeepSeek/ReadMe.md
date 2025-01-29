@@ -24,7 +24,7 @@ Asadar, dat fiind consumul redus de resurse, acum, [**DeepSeek**](https://instas
 
 [**DeepSeek**](https://docsbot.ai/models/compare/deepseek-r1/deepseek-v3) a lansat un model care rivalizează cu **ChatGPT** de la ***OpenAI*** și **Llama 3.1** de la ***Meta***(insa cu/de cost[uri] scazut[e]!!!).
 
-Domnul [**Fahd Mirza**](https://www.youtube.com/channel/UCPix8N6PMRI4KzgyjuZeF0g) a prezentat cateva lucruri legate de **DeepSeek** pe [***Youtube***](https://www.youtube.com/results?search_query=Fahd+Mirza+DeepSeek):
+Domnul [**Fahd Mirza**](https://www.youtube.com/channel/UCPix8N6PMRI4KzgyjuZeF0g) a prezentat cateva lucruri legate de **DeepSeek**(V1,V2,V2.5,V3,[R1](https://www.unite.ai/ro/deepseek-r1-transformarea-ra%C8%9Bionamentului-ai-cu-%C3%AEnv%C4%83%C8%9Bare-prin-%C3%AEnt%C4%83rire/)), pe [***Youtube***](https://www.youtube.com/results?search_query=Fahd+Mirza+DeepSeek):
 
  - [How-To Run DeepSeek R1 Locally with Best GUI Frontend](https://www.youtube.com/watch?v=b2DBWKBJj3Q&ab_channel=FahdMirza)
  - [How-To Use DeepSeek Reasoner(R1) in API in Code Easily](https://www.youtube.com/watch?v=WbKa-gxVybA&ab_channel=FahdMirza)
