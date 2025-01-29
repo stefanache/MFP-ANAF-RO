@@ -38,7 +38,7 @@ Domnul [**Fahd Mirza**](https://www.youtube.com/channel/UCPix8N6PMRI4KzgyjuZeF0g
  - [DeepSeek-V2.5-1210: The Final Version - Test Thoroughly on Math, Coding, Text](https://www.youtube.com/watch?v=h6mzItl32n8&ab_channel=FahdMirza)
  - [DeepSeek V3 Thorough Testing - Better Than GPT-4o and Claude Sonnet in Price and Performance](https://www.youtube.com/watch?v=vz1Cs9CpxOg&ab_channel=FahdMirza)
  - [DeepSeek Coder v2 Lite Instruct - Local Installation - Beats GPT-4 In Coding](https://www.youtube.com/watch?v=rlxsDC9aza0&ab_channel=FahdMirza)
- - [How-To Run DeepSeek V3 Locally on CPU or GPU](https://www.youtube.com/watch?v=uMWPXFDaXBM&ab_channel=FahdMirza)
+ - [How-To Run DeepSeek V3(GGUF) Locally on CPU or GPU](https://www.youtube.com/watch?v=uMWPXFDaXBM&ab_channel=FahdMirza)
  - [DeepSeek R1 Lite Preview with DeepThink - Hands-on Demo](https://www.youtube.com/watch?v=1WArHOSq--8&ab_channel=FahdMirza)
  - [DeepSeek-R1 with Continue(un agent de codare VScode) and Ollama - Free, Local and Private](https://www.youtube.com/watch?v=-q-3ghi4A8E&ab_channel=FahdMirza)
  - [Comparison of DeepSeek V3 vs Claude Sonnet vs GPT-4o on Real-World Task](https://www.youtube.com/watch?v=22EQ9M9SKK0&ab_channel=FahdMirza)
