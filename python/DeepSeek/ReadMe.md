@@ -8,13 +8,15 @@ Pentru inceput as vrea sa va reamintesc cate ceva despre [termenul](https://www.
 
 [**Inferenta**](https://ro.wiktionary.org/wiki/inferen%C8%9B%C4%83) necesită un număr **semnificativ**/**important**/**mare** de **GPU**-uri **NVIDIA**(utilizate in/pentru calcul-inferential) și de **rețele** de **înaltă performanță**([retele neuronale](https://www.aut.upt.ro/~andreea.robu/Lab1Retele.pdf) pt [antrenament/invatare](https://staff.fmi.uvt.ro/~daniela.zaharie/am2016/curs/curs12/am2016_slides12_RN.pdf)).
 
+DeepSeek utilizeaza la baza arhitectura **transformers** dar pe care o [imbunatateste](https://epoch.ai/gradient-updates/how-has-deepseek-improved-the-transformer-architecture) considerabil.
+
 Pana la aparitia [**DeepSeek**](https://en.wikipedia.org/wiki/DeepSeek), existau **2** legi(sau mai bine spus 2 momente) de scalare(ajustare/modificare a lungimii/modelului): **pre**-***training*** și **post**-***training***.
 
 [**Deepseek**](https://www.deepseek.com/) propune si introduce o a **3**-a lege(un al 3-lea moment) de scalare si anume [**inferenta**](https://www.wikiwand.com/ro/articles/Inferen%C8%9Ba_bayesian%C4%83) in timpul testarii(**intra**-testare).
 
 [**DeepSeek**](https://deepseekcoder.github.io/) este un model care se bazează pe ceea ce se numește „[***calcul în timp de inferență***](https://www.mpt.upt.ro/doc/curs/gp/Sisteme_inteligente_in_electrotehnica/Inteligenta_artificiala_si_Retele_neuronale_cap1.pdf)”(asta înseamnă că „***pentru fiecare interogare, se activează doar cele mai relevante părți ale modelului***”).
 
-Asadar [**DeepSeek**](https://github.com/deepseek-ai/DeepSeek-V3) la momentul interogarii, utilizeaza ***doar***, **cele mai relevante parti ale modelului**, lucru care duce in final la economii de putere de calcul(astfel ca [nu mai sunt necesare](https://context.reverso.net/traducere/engleza-romana/inference) capacitati mari de calcul si deci, se face astfel, pe cale de consecinta, o economie insemnata de bani, prin costurile scazute necesar a fi efectuate, pt achizitia de GPU-uri scumpe, de inalta performanta). Prin urmare, această tehnologie necesită si mai puțină energie(din nou economie de bani).
+Asadar [**DeepSeek**](https://github.com/deepseek-ai/DeepSeek-V3) la momentul interogarii, utilizeaza/activeaza ***doar***, **cele mai relevante parti ale modelului**, lucru care duce in final la economii de putere de calcul(astfel ca [nu mai sunt necesare](https://context.reverso.net/traducere/engleza-romana/inference) capacitati mari de calcul si deci, se face astfel, pe cale de consecinta, o economie insemnata de bani, prin costurile scazute necesar a fi efectuate, pt achizitia de GPU-uri scumpe, de inalta performanta). Prin urmare, această tehnologie necesită si mai puțină energie(din nou economie de bani).
 
 [**DeepSeek**](https://api-docs.deepseek.com/news/news1120) a construit modelul folosind cipuri din familia [***A100***](https://www.nvidia.com/en-us/data-center/a100/)(dar cu/de capacitate redusă) de la **Nvidia**.
 
