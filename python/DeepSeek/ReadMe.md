@@ -42,7 +42,7 @@ Domnul [**Fahd Mirza**](https://www.youtube.com/channel/UCPix8N6PMRI4KzgyjuZeF0g
  - [DeepSeek R1 Lite Preview with DeepThink - Hands-on Demo](https://www.youtube.com/watch?v=1WArHOSq--8&ab_channel=FahdMirza)
  - [DeepSeek-R1 with Continue(un agent de codare VScode) and Ollama - Free, Local and Private](https://www.youtube.com/watch?v=-q-3ghi4A8E&ab_channel=FahdMirza)
  - [Comparison of DeepSeek V3 vs Claude Sonnet vs GPT-4o on Real-World Task](https://www.youtube.com/watch?v=22EQ9M9SKK0&ab_channel=FahdMirza)
- - [How To Install and Run DeepSeek Coder(1.3B)](https://www.youtube.com/watch?v=DwPxCtO-ZU0&ab_channel=FahdMirza)
+ - [How To Install and Run DeepSeek Coder(1.3B base)](https://www.youtube.com/watch?v=DwPxCtO-ZU0&ab_channel=FahdMirza)
  - [Install DeepSeek Janus Locally - T2I and Vision - Beats DALL-E 2 & SDXL in Image Generation](https://www.youtube.com/watch?v=uH2SWux7rnQ&ab_channel=FahdMirza)
  - [DeepSeek V2 - Strong Economical LLM](https://www.youtube.com/watch?v=AvEGaqFvnYs&ab_channel=FahdMirza)
  - [Run DeepSeek R1 with Ollama and Cline(agent de codare pt VSc) in VScode - 100% Local Solution](https://www.youtube.com/watch?v=oeBDn6vclz0&ab_channel=FahdMirza)
