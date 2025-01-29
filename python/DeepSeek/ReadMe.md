@@ -20,7 +20,7 @@ Asadar [**DeepSeek**](https://github.com/deepseek-ai/DeepSeek-V3) la momentul in
 
 [**DeepSeek**](https://api-docs.deepseek.com/news/news1120) a construit/instruit/invatat/antrenat(**training**) modelul folosind cipuri din familia [***A100***](https://www.nvidia.com/en-us/data-center/a100/)(dar cu/de capacitate redusă, gen [Nvidia H800](https://medium.com/@KarlHavard/performance-comparison-nvidia-a100-h100-h800-04db98c58648)) de la **Nvidia**.
 
-Asadar, dat fiind consumul redus de resurse, acum, LLM-ul [**DeepSeek**](https://instashire.com/deepseek-r1-the-ai-powerhouse-redefining-possibilty/) poate fi folosit cu success si(daca nu cumva... cu precadere) in medii **locale**(unde dotarile **GPU** sunt mai reduse).
+Asadar, dat fiind consumul redus de resurse, acum, LLM-ul [**DeepSeek**](https://instashire.com/deepseek-r1-the-ai-powerhouse-redefining-possibilty/) poate fi folosit cu success(folosind un server local de LLM-uri, cum este Ollama) si(daca nu cumva... cu precadere) in medii **locale**(unde dotarile **GPU** sunt mai reduse).
 
 [**DeepSeek**](https://docsbot.ai/models/compare/deepseek-r1/deepseek-v3) a lansat un model care rivalizează cu **ChatGPT** de la ***OpenAI*** și **Llama 3.1** de la ***Meta***(insa cu/de cost[uri] scazut[e]!!!).
 
