@@ -34,7 +34,7 @@ Domnul [**Fahd Mirza**](https://www.youtube.com/channel/UCPix8N6PMRI4KzgyjuZeF0g
  - [DeepSeek Drops Janus Pro 7B - Install Locally with Thorough Testing](https://www.youtube.com/watch?v=bWon3I2bGhg&ab_channel=FahdMirza)
  - [Install DeepSeek-R1 32B Locally - Best Reasoning Distilled Model So Far](https://www.youtube.com/watch?v=BTNZ1tmVkzA&ab_channel=FahdMirza)
  - [How-To Increase Context Length of DeepSeek-R1(32B) model in Ollama](https://www.youtube.com/watch?v=BDwM93nhdD4&ab_channel=FahdMirza)
- - [DeepSeek R1 - Indepth Hands-on Review on Language, Coding, Math](https://www.youtube.com/watch?v=x-W56bxJws0&ab_channel=FahdMirza)
+ - [DeepSeek R1(R1-Zero si R1) - Indepth Hands-on Review on Language, Coding, Math](https://www.youtube.com/watch?v=x-W56bxJws0&ab_channel=FahdMirza)
  - [DeepSeek-V2.5-1210: The Final Version - Test Thoroughly on Math, Coding, Text](https://www.youtube.com/watch?v=h6mzItl32n8&ab_channel=FahdMirza)
  - [DeepSeek V3 Thorough Testing - Better Than GPT-4o and Claude Sonnet in Price and Performance](https://www.youtube.com/watch?v=vz1Cs9CpxOg&ab_channel=FahdMirza)
  - [DeepSeek Coder v2 Lite Instruct - Local Installation - Beats GPT-4 In Coding](https://www.youtube.com/watch?v=rlxsDC9aza0&ab_channel=FahdMirza)
