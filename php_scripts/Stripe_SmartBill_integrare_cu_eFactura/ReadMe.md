@@ -109,6 +109,7 @@ Asadar, observam/intalnim formularea a 2 mecanisme de ***atentie***/focusare/con
 
 Suplimentar, as recomanda si vizionarea acestui videoclip, intitulat ["Stripe Agent Toolkit - Integrate Your API with Payment Service with LLMs - Install Locally"](https://www.youtube.com/watch?v=WM-1FGwjiZQ&ab_channel=FahdMirza).
 
+Desigur, mai sunt si alte exemple, privitoare la [Stripe AI-agent](https://www.youtube.com/watch?v=wwMLqJfCdqI&ab_channel=AllAboutAI), care pot fi vizionate pe YouTube
 <hr/>
 
 </details>
