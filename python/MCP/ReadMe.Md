@@ -2,6 +2,7 @@
 
 Articole legate de acest subiect:
 
+ - [claudemcp: MCP doc](https://www.claudemcp.com/docs/introduction)
  - [smithery.ai: Directory-List MCP-servers](https://smithery.ai/)
  - [glama.ai: Directory-List MCP-servers](https://glama.ai/mcp/servers?attributes=)
  - [modelcontextprotocol.io: MCP](https://modelcontextprotocol.io/introduction)
