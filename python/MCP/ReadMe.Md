@@ -1,4 +1,4 @@
-[MCP](https://www.claudemcp.com/)=Model Context Protocol
+[MCP](https://www.claudemcp.com/) = [Model Context Protocol](https://www.claudemcp.com/specification)
 
 Articole legate de acest subiect:
 
