@@ -1,4 +1,4 @@
-MCP=Model Context Protocol
+[MCP](https://www.claudemcp.com/)=Model Context Protocol
 
 Articole legate de acest subiect:
 
