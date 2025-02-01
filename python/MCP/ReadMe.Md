@@ -13,6 +13,7 @@ Articole legate de acest subiect:
  - [Știri pe scurt despre tehnologie](https://pescurt.ro/tag/tehnologie?page=148)
  - [TECHNEWS.RO](https://technewsro.blog/2024/11/)
  - [reddit-upsonic: Now you can use Deepseek with MCP tools](https://www.reddit.com/r/LocalLLaMA/comments/1ic24e0/now_you_can_use_deepseek_with_mcp_tools/)
+ - [GH-Python-MySQL:MCP-server](https://github.com/designcomputer/mysql_mcp_server)
  - [mcp-server-cloudflare](https://github.com/cloudflare/mcp-server-cloudflare) & [Hi Claude, build an MCP server on Cloudflare Workers](https://blog.cloudflare.com/model-context-protocol/)
  - [GH-PhP-SRV--CLI: mcp-sdk-php](https://github.com/logiscape/mcp-sdk-php)
  - [YT-Fahd-Mirza: What is Claude Desktop and How-To Use it](https://www.youtube.com/watch?v=lkt_g6RV1o0&ab_channel=FahdMirza)
