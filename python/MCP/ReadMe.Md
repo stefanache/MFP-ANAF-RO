@@ -14,6 +14,7 @@ Articole legate de acest subiect:
  - [TECHNEWS.RO](https://technewsro.blog/2024/11/)
  - [reddit-upsonic: Now you can use Deepseek with MCP tools](https://www.reddit.com/r/LocalLLaMA/comments/1ic24e0/now_you_can_use_deepseek_with_mcp_tools/)
  - [mcp-server-cloudflare](https://github.com/cloudflare/mcp-server-cloudflare) & [Hi Claude, build an MCP server on Cloudflare Workers](https://blog.cloudflare.com/model-context-protocol/)
+ - [GH: mcp-sdk-php](https://github.com/logiscape/mcp-sdk-php)
  - [YT-Fahd-Mirza: What is Claude Desktop and How-To Use it](https://www.youtube.com/watch?v=lkt_g6RV1o0&ab_channel=FahdMirza)
  - [YT-Fahd-Mirza: Claude 3.5 Sonnet Testing with Artifacts](https://www.youtube.com/watch?v=jl9bI-enIcs&ab_channel=FahdMirza)
  - [YT-Fahd-Mirza: How-To Use PDFs with Claude API for simple RAG](https://www.youtube.com/watch?v=qLBXjzlDxH8&ab_channel=FahdMirza)
