@@ -8,3 +8,4 @@ Articole legate de acest subiect:
  - [Știri pe scurt despre tehnologie](https://pescurt.ro/tag/tehnologie?page=148)
  - [TECHNEWS.RO](https://technewsro.blog/2024/11/)
  - [Now you can use Deepseek with MCP tools](https://www.reddit.com/r/LocalLLaMA/comments/1ic24e0/now_you_can_use_deepseek_with_mcp_tools/)
+ - [mcp-server-cloudflare](https://github.com/cloudflare/mcp-server-cloudflare) & [Hi Claude, build an MCP server on Cloudflare Workers](https://blog.cloudflare.com/model-context-protocol/)
