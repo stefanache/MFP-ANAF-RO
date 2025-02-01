@@ -20,3 +20,5 @@ Articole legate de acest subiect:
  - [YT-Fahd-Mirza: What is Claude Desktop and How-To Use it](https://www.youtube.com/watch?v=lkt_g6RV1o0&ab_channel=FahdMirza)
  - [YT-Fahd-Mirza: Claude 3.5 Sonnet Testing with Artifacts](https://www.youtube.com/watch?v=jl9bI-enIcs&ab_channel=FahdMirza)
  - [YT-Fahd-Mirza: How-To Use PDFs with Claude API for simple RAG](https://www.youtube.com/watch?v=qLBXjzlDxH8&ab_channel=FahdMirza)
+
+Nota: A good idea to integrate(communicate with...) any service(like [Twillio/Whatsapp](https://www.twilio.com/docs/whatsapp/tutorial))/server or any local or remote data-source data with/via any our LLM!
