@@ -10,3 +10,4 @@ Articole legate de acest subiect:
  - [Now you can use Deepseek with MCP tools](https://www.reddit.com/r/LocalLLaMA/comments/1ic24e0/now_you_can_use_deepseek_with_mcp_tools/)
  - [mcp-server-cloudflare](https://github.com/cloudflare/mcp-server-cloudflare) & [Hi Claude, build an MCP server on Cloudflare Workers](https://blog.cloudflare.com/model-context-protocol/)
  - [YT-Fahd-Mirza: What is Claude Desktop and How-To Use it](https://www.youtube.com/watch?v=lkt_g6RV1o0&ab_channel=FahdMirza)
+- [YT-Fahd-Mirza: Claude 3.5 Sonnet Testing with Artifacts](https://www.youtube.com/watch?v=jl9bI-enIcs&ab_channel=FahdMirza)
