@@ -13,7 +13,7 @@ Articole & Proiecte legate de acest subiect(**LLMCP**):
  - [pescurt: **Știri pe scurt despre tehnologie**](https://pescurt.ro/tag/tehnologie?page=148)
  - [technewsro.blog: **MCP**](https://technewsro.blog/2024/11/)
  - [reddit-upsonic: **Now you can use Deepseek with MCP tools**](https://www.reddit.com/r/LocalLLaMA/comments/1ic24e0/now_you_can_use_deepseek_with_mcp_tools/); <br/>[**Upsonic**](https://github.com/Upsonic) este un ***Cadru de agent-AI***, orientat spre sarcini(***tasks***), pentru construirea/definirea de **lucrătorii-digitali**(care utilizeaza instrumente/tools=functii) și de **agenți-[verticali/specializati](https://www.linkedin.com/pulse/what-vertical-ai-agent-jose-e-puente-0rkuf/)-AI**.
-
+ - [reddit: **Un fișier pentru a transforma orice LLM(nu numai Claude) într-un programator expert MCP pereche**](https://www.reddit.com/r/ClaudeAI/comments/1h5o9uh/one_file_to_turn_any_llm_into_an_expert_mcp/)
  - [GH: **mcp-server-cloudflare(CF)**](https://github.com/cloudflare/mcp-server-cloudflare) & [CF-blog: **Hi Claude, build an MCP server on Cloudflare Workers**](https://blog.cloudflare.com/model-context-protocol/)
  - [GH-ODMCP: **OpenDataMCP**](https://github.com/OpenDataMCP/OpenDataMCP)
  - [GH: **MCP**](https://github.com/modelcontextprotocol)
