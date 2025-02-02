@@ -18,6 +18,7 @@ Articole & Proiecte legate de acest subiect(**MCP**):
  - [GH-ODMCP: **OpenDataMCP**](https://github.com/OpenDataMCP/OpenDataMCP)
  - [GH: **MCP**](https://github.com/modelcontextprotocol)
  - [GH-Python+MySQL: **MCP-server**](https://github.com/designcomputer/mysql_mcp_server)
+ - [GH-Python-SRV+CLI=SDK: **MCP-SDK-Python**](https://github.com/modelcontextprotocol/python-sdk)
  - [GH-PhP-SRV+CLI=SDK: **MCP-SDK-PhP**](https://github.com/logiscape/mcp-sdk-php)
  - [GH-NodeJS-SRV+MySQL: **MCP-server**](https://github.com/benborla/mcp-server-mysql)
  - [YT-Fahd-Mirza: **What is Claude Desktop and How-To Use it**](https://www.youtube.com/watch?v=lkt_g6RV1o0&ab_channel=FahdMirza)
