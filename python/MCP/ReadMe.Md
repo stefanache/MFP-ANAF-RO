@@ -26,7 +26,7 @@ Articole & Proiecte legate de acest subiect(**LLMCP**):
  - [YT-Fahd-Mirza: **Claude-3.5 -Sonnet Testing with *Artifacts***](https://www.youtube.com/watch?v=jl9bI-enIcs&ab_channel=FahdMirza); 
 <br/>Claude-3.5 -Sonnet(dupa Claude 3 Opus), un alt LLM din marea familie de LLM-uri, [**Claude**](https://www.deeplearning.ai/the-batch/claude-3-5-sonnets-artifacts-feature-makes-it-easier-to-build-and-code-on-site/), oferit de catre / de la... compania Anthropic;
 <br/>Anthropic  a introdus  [***Artifacts***](Artefactele), o caracteristică care afișează rezultate într-o fereastră separată a interfeței web a lui Claude 3.5 Sonnet, în afara fluxului de conversație care le creează și le modifică.
-<br/>[***Artefactele***] pot  include  documente, fragmente de cod, pagini HTML, grafică vectorială sau vizualizări create folosind JavaScript.
+<br/>***Artefactele***, odata ce sunt activate de catre utilizator,  pot  include  documente, fragmente de cod, pagini HTML, grafică vectorială sau vizualizări create folosind JavaScript(JS).
  - [YT-Fahd-Mirza: **How-To Use PDFs with Claude API for simple RAG**](https://www.youtube.com/watch?v=qLBXjzlDxH8&ab_channel=FahdMirza)
  - [LKD-girishbharadwaj-post: **Am explorat protocolul/contractul/convenienta/preintelegerea-tacita MCP..**. ](https://www.linkedin.com/posts/girishbharadwaj_introduction-activity-7272785948742979584-JHXW/)
 
