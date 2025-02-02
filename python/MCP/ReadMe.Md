@@ -20,7 +20,7 @@ Articole & Proiecte legate de acest subiect(**LLMCP**):
  - [GH-Python+MySQL: **MCP-server**](https://github.com/designcomputer/mysql_mcp_server)
  - [GH-Python-SRV+CLI=SDK: **MCP-SDK-Python**](https://github.com/modelcontextprotocol/python-sdk)
  - [GH-PhP-SRV+CLI=SDK: **MCP-SDK-PhP**](https://github.com/logiscape/mcp-sdk-php)
- - [GH: **MCP-CLI-python**](https://github.com/chrishayuk/mcp-cli)
+ - [GH-chrishayuk: **MCP-CLI-python**](https://github.com/chrishayuk/mcp-cli)
  - [GH-NodeJS-SRV+MySQL: **MCP-server**](https://github.com/benborla/mcp-server-mysql)
  - [YT-Fahd-Mirza: **What is Claude Desktop and How-To Use it**](https://www.youtube.com/watch?v=lkt_g6RV1o0&ab_channel=FahdMirza)
  - [YT-Fahd-Mirza: **Claude 3.5 Sonnet Testing with Artifacts**](https://www.youtube.com/watch?v=jl9bI-enIcs&ab_channel=FahdMirza)
