@@ -25,6 +25,6 @@ Articole & Proiecte legate de acest subiect(**MCP**):
 
 **Note:**
 
- - **uv**/**uvx** este un Package Manager(PM cum este si pip...dar si alte npm/npx,brew,..., un PM este posibil sa aiba nevoie/sa lucreze impreuna/in tandem cu... un Downloader: powershell,git,curl,...)
+ - **uv**/**uvx** este un Package Manager(PM cum este si pip/pipx,pdm...dar si altele, cum sunt npm/npx,brew,gradle,sdkman...; Un PM este posibil sa aiba nevoie/sa lucreze impreuna/in tandem cu un... Downloader, cum ar fi powershell,git,curl,...)
 
  - A good idea to integrate(communicate with...) any service(like [**Twillio/Whatsapp**](https://www.twilio.com/docs/whatsapp/tutorial))/server or any local or remote data-source data with/via any our **LLM** and over **MCP**!
