@@ -23,7 +23,7 @@ Articole & Proiecte legate de acest subiect(**LLMCP**):
  - [GH-PhP-SRV+CLI=SDK: **MCP-SDK-PhP**](https://github.com/logiscape/mcp-sdk-php)
  - [GH-NodeJS-SRV+MySQL: **MCP-server**](https://github.com/benborla/mcp-server-mysql)
  - [YT-Fahd-Mirza: **What is Claude Desktop and How-To Use it**](https://www.youtube.com/watch?v=lkt_g6RV1o0&ab_channel=FahdMirza)
- - [YT-Fahd-Mirza: **Claude-3.5 -Sonnet Testing with Artifacts**](https://www.youtube.com/watch?v=jl9bI-enIcs&ab_channel=FahdMirza); <br/>Claude-3.5 -Sonnet(dupa Claude 3 Opus), un alt LLM din familia Claude de la compania Anthropic.
+ - [YT-Fahd-Mirza: **Claude-3.5 -Sonnet Testing with Artifacts**](https://www.youtube.com/watch?v=jl9bI-enIcs&ab_channel=FahdMirza); <br/>Claude-3.5 -Sonnet(dupa Claude 3 Opus), un alt LLM din familia Claude, oferit de catre / de la... compania Anthropic.
  - [YT-Fahd-Mirza: **How-To Use PDFs with Claude API for simple RAG**](https://www.youtube.com/watch?v=qLBXjzlDxH8&ab_channel=FahdMirza)
  - [LKD-girishbharadwaj-post: **Am explorat protocolul/contractul/convenienta/preintelegerea-tacita MCP..**. ](https://www.linkedin.com/posts/girishbharadwaj_introduction-activity-7272785948742979584-JHXW/)
 
