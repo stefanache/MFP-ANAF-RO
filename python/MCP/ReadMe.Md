@@ -33,6 +33,7 @@ Articole & Proiecte legate de acest subiect(**LLMCP**):
 <br/>***Artefactele***, odata ce sunt activate de catre utilizator,  pot  include  documente, fragmente de cod, pagini HTML, grafică vectorială sau vizualizări create folosind JavaScript(JS).
  - [YT-Fahd-Mirza: **How-To Use PDFs with Claude-API for simple RAG**](https://www.youtube.com/watch?v=qLBXjzlDxH8&ab_channel=FahdMirza)
  - [YT-Fahd-Mirza: **Anthropic Model Context Protocol (MCP) with Hands-on Example**](https://www.youtube.com/watch?v=KdrfyWiviHo&ab_channel=FahdMirza)
+<br/>Acest videoclip arată cum să utilizați serverul MCP de către antropic și discută limitele și promisiunile/facilitatile acestuia. 
  - [LKD-girishbharadwaj-post: **Am explorat protocolul/contractul/convenienta/preintelegerea-tacita MCP..**. ](https://www.linkedin.com/posts/girishbharadwaj_introduction-activity-7272785948742979584-JHXW/)
  - [docker: **The MCP simplifying building AI-apps with  Claude-Desktop(Anthropic) and Docker**](https://www.docker.com/blog/the-model-context-protocol-simplifying-building-ai-apps-with-anthropic-claude-desktop-and-docker/)
  - [spring-ai: **MCP**](https://docs.spring.io/spring-ai/reference/api/model-context-protocol.html)
