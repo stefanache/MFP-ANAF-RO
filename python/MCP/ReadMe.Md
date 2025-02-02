@@ -1,4 +1,4 @@
-[**MCP**](https://www.claudemcp.com/) =i.e.= [***Model Context Protocol***](https://www.claudemcp.com/specification)
+[**MCP**](https://www.claudemcp.com/) =i.e.= [***Model(LLM) Context Protocol***](https://www.claudemcp.com/specification)
 
 Articole & Proiecte legate de acest subiect(**LLMCP**):
 
