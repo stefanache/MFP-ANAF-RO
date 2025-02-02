@@ -22,6 +22,7 @@ Articole & Proiecte legate de acest subiect(**LLMCP**):
  - [GH-Python-SRV+CLI=SDK: **MCP-SDK-Python**](https://github.com/modelcontextprotocol/python-sdk)
  - [GH-PhP-SRV+CLI=SDK: **MCP-SDK-PhP**](https://github.com/logiscape/mcp-sdk-php)
  - [GH-NodeJS-SRV+MySQL: **MCP-server**](https://github.com/benborla/mcp-server-mysql)
+ - [GH-apify-NodeJS: **MCP-server RAG web-browser**](https://github.com/apify/mcp-server-rag-web-browser)
  - [YT-Fahd-Mirza: **What is Claude-Desktop and How-To Use it**](https://www.youtube.com/watch?v=lkt_g6RV1o0&ab_channel=FahdMirza);
 <br/>[**Claude-Desktop**](https://medium.com/@pedro.aquino.se/how-to-use-mcp-tools-on-claude-desktop-app-and-automate-your-daily-tasks-1c38e22bc4b0), de fapt este un client-prefabricat/de-a gata(si general-valabil) pt un/orice server-MCP(atat clientul, cat si serverul, utilizeaza, pt comunicatie, protocolul bidirectional [**MCP**](https://www.ikangai.com/the-model-context-protocol/)).
  - [YT-Fahd-Mirza: **Claude-3.5 -Sonnet Testing with *Artifacts***](https://www.youtube.com/watch?v=jl9bI-enIcs&ab_channel=FahdMirza); 
