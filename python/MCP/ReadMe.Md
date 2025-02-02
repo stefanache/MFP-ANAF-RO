@@ -23,7 +23,7 @@ Articole & Proiecte legate de acest subiect(**LLMCP**):
  - [GH-PhP-SRV+CLI=SDK: **MCP-SDK-PhP**](https://github.com/logiscape/mcp-sdk-php)
  - [GH-NodeJS-SRV+MySQL: **MCP-server**](https://github.com/benborla/mcp-server-mysql)
  - [YT-Fahd-Mirza: **What is Claude-Desktop and How-To Use it**](https://www.youtube.com/watch?v=lkt_g6RV1o0&ab_channel=FahdMirza);
-<br/>**Claude-Desktop**, de fapt este un client-prefabricat/de-a gata(si general-valabil) pt un/orice server-MCP(si clientul si serverul utilizeaza pt comunicatie protocolul MCP).
+<br/>**Claude-Desktop**, de fapt este un client-prefabricat/de-a gata(si general-valabil) pt un/orice server-MCP(atat clientul, cat si serverul, utilizeaza, pt comunicatie, protocolul bidirectional [**MCP**](https://www.ikangai.com/the-model-context-protocol/)).
  - [YT-Fahd-Mirza: **Claude-3.5 -Sonnet Testing with *Artifacts***](https://www.youtube.com/watch?v=jl9bI-enIcs&ab_channel=FahdMirza); 
 <br/>Claude-3.5 -Sonnet(dupa Claude 3 Opus), un alt LLM din marea familie de LLM-uri, [**Claude**](https://www.deeplearning.ai/the-batch/claude-3-5-sonnets-artifacts-feature-makes-it-easier-to-build-and-code-on-site/), oferit de catre / de la... compania Anthropic;
 <br/>Anthropic  a introdus  [***Artifacts***](Artefactele), o caracteristică care afișează rezultate într-o fereastră separată a interfeței web a lui Claude 3.5 Sonnet, în afara fluxului de conversație care le creează și le modifică.
