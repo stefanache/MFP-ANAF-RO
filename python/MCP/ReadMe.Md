@@ -23,4 +23,8 @@ Articole & Proiecte legate de acest subiect(**MCP**):
  - [YT-Fahd-Mirza: **Claude 3.5 Sonnet Testing with Artifacts**](https://www.youtube.com/watch?v=jl9bI-enIcs&ab_channel=FahdMirza)
  - [YT-Fahd-Mirza: **How-To Use PDFs with Claude API for simple RAG**](https://www.youtube.com/watch?v=qLBXjzlDxH8&ab_channel=FahdMirza)
 
-Nota: A good idea to integrate(communicate with...) any service(like [**Twillio/Whatsapp**](https://www.twilio.com/docs/whatsapp/tutorial))/server or any local or remote data-source data with/via any our **LLM** and over **MCP**!
+**Note:**
+
+ - **uv**/**uvx** este un Package Manager(PM cum este si pip...dar si alte npx,brew,..., un PM este posibil sa aiba nevoie/sa lucreze impreuna/in tandem cu... un Downloader: powershell,git,curl,...)
+
+ - A good idea to integrate(communicate with...) any service(like [**Twillio/Whatsapp**](https://www.twilio.com/docs/whatsapp/tutorial))/server or any local or remote data-source data with/via any our **LLM** and over **MCP**!
