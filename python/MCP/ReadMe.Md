@@ -14,6 +14,7 @@ Articole legate de acest subiect:
  - [TECHNEWS.RO](https://technewsro.blog/2024/11/)
  - [reddit-upsonic: Now you can use Deepseek with MCP tools](https://www.reddit.com/r/LocalLLaMA/comments/1ic24e0/now_you_can_use_deepseek_with_mcp_tools/)
  - [mcp-server-cloudflare](https://github.com/cloudflare/mcp-server-cloudflare) & [Hi Claude, build an MCP server on Cloudflare Workers](https://blog.cloudflare.com/model-context-protocol/)
+ - [GH: MCP](https://github.com/modelcontextprotocol)
  - [GH-Python-MySQL: MCP-server](https://github.com/designcomputer/mysql_mcp_server)
  - [GH-PhP-SRV+CLI=SDK: mcp-sdk-php](https://github.com/logiscape/mcp-sdk-php)
  - [GH-NodeJS-MySQL: MCP-server](https://github.com/benborla/mcp-server-mysql)
