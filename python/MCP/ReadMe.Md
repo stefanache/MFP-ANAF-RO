@@ -14,7 +14,9 @@ Articole & Proiecte legate de acest subiect(**LLMCP**):
  - [technewsro.blog: **MCP**](https://technewsro.blog/2024/11/)
  - [reddit-UpSonic: **Now you can use Deepseek with MCP tools**](https://www.reddit.com/r/LocalLLaMA/comments/1ic24e0/now_you_can_use_deepseek_with_mcp_tools/); <br/>[**upsonic**](https://github.com/Upsonic) este un ***Cadru de agent-AI***, orientat spre sarcini(***tasks***), pentru construirea/definirea de **lucrătorii-digitali**(care utilizeaza instrumente/tools=functii) și de **agenți-[verticali/specializati](https://www.linkedin.com/pulse/what-vertical-ai-agent-jose-e-puente-0rkuf/)-AI**.
  - [reddit: **Un fișier pentru a transforma orice LLM(nu numai Claude) într-un programator expert MCP pereche**](https://www.reddit.com/r/ClaudeAI/comments/1h5o9uh/one_file_to_turn_any_llm_into_an_expert_mcp/)
- - [GH: **mcp-server-cloudflare(CF)**](https://github.com/cloudflare/mcp-server-cloudflare) & [CF-blog: **Hi Claude, build an MCP server on Cloudflare Workers**](https://blog.cloudflare.com/model-context-protocol/)
+ - [GH: **mcp-server-cloudflare(CF)**](https://github.com/cloudflare/mcp-server-cloudflare) & [CF-blog: **Hi Claude, build an MCP server on Cloudflare Workers**](https://blog.cloudflare.com/model-context-protocol/);
+<br/>Bună Claude, construiește un server MCP pe Cloudflare Workers
+<br/>
  - [GH-ODMCP: **OpenDataMCP**](https://github.com/OpenDataMCP/OpenDataMCP)
  - [GH: **MCP**](https://github.com/modelcontextprotocol)
  - [GH-Python+MySQL: **MCP-server**](https://github.com/designcomputer/mysql_mcp_server)
