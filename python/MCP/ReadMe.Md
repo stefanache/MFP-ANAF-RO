@@ -1,6 +1,6 @@
 [**MCP**](https://www.claudemcp.com/) =i.e.= [***Model Context Protocol***](https://www.claudemcp.com/specification)
 
-Articole legate de acest subiect(**MCP**):
+Articole & Proiecte legate de acest subiect(**MCP**):
 
  - [claudemcp: **MCP doc**](https://www.claudemcp.com/docs/introduction)
  - [claudemcp: **Directory-List MCP-servers**](https://www.claudemcp.com/servers)
@@ -14,6 +14,7 @@ Articole legate de acest subiect(**MCP**):
  - [technewsro.blog: **MCP**](https://technewsro.blog/2024/11/)
  - [reddit-upsonic: **Now you can use Deepseek with MCP tools**](https://www.reddit.com/r/LocalLLaMA/comments/1ic24e0/now_you_can_use_deepseek_with_mcp_tools/)
  - [GH: **mcp-server-cloudflare(CF)**](https://github.com/cloudflare/mcp-server-cloudflare) & [CF-blog: **Hi Claude, build an MCP server on Cloudflare Workers**](https://blog.cloudflare.com/model-context-protocol/)
+ - [GH: **OpenDataMCP**](https://github.com/OpenDataMCP/OpenDataMCP)
  - [GH: **MCP**](https://github.com/modelcontextprotocol)
  - [GH-Python+MySQL: **MCP-server**](https://github.com/designcomputer/mysql_mcp_server)
  - [GH-PhP-SRV+CLI=SDK: **MCP-SDK-PhP**](https://github.com/logiscape/mcp-sdk-php)
