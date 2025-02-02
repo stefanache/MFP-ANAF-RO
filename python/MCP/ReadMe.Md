@@ -16,7 +16,7 @@ Articole & Proiecte legate de acest subiect(**LLMCP**):
  - [reddit: **Un fișier pentru a transforma orice LLM(nu numai Claude) într-un programator expert MCP pereche**](https://www.reddit.com/r/ClaudeAI/comments/1h5o9uh/one_file_to_turn_any_llm_into_an_expert_mcp/)
  - [GH: **mcp-server-cloudflare(CF)**](https://github.com/cloudflare/mcp-server-cloudflare) & [CF-blog: **Hi Claude, build an MCP server on Cloudflare Workers**](https://blog.cloudflare.com/model-context-protocol/);
 <br/>Bună Claude, construiește un server MCP pe Cloudflare Workers
-<br/>Puteti sa construiți un server MCP, pe Cloudflare, pentru a face serviciul Claude(deci, printr-un asistent AI) accesibil.
+<br/>Puteti sa construiți un server MCP, pe Cloudflare, pentru a face serviciul Claude(deci, printr-un asistent AI, asa cum este Claude) accesibil.
  - [GH-ODMCP: **OpenDataMCP**](https://github.com/OpenDataMCP/OpenDataMCP)
  - [GH: **MCP**](https://github.com/modelcontextprotocol)
  - [GH-Python+MySQL: **MCP-server**](https://github.com/designcomputer/mysql_mcp_server)
