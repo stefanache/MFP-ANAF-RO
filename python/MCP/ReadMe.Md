@@ -35,7 +35,7 @@ Articole & Proiecte legate de acest subiect(**LLMCP**):
  - [YT-Fahd-Mirza: **Anthropic Model Context Protocol (MCP) with Hands-on Example**](https://www.youtube.com/watch?v=KdrfyWiviHo&ab_channel=FahdMirza)
 <br/>Acest videoclip arată cum să utilizați serverul MCP(de la Antropic) și discută limitele și promisiunile/facilitatile acestuia.
  - [YT-Fahd-Mirza: **Ce este Protocolul de Context Model(MCP), pentru aplicațiile de agent AI?**](https://www.youtube.com/watch?v=vV8vEEmmp5A&ab_channel=FahdMirza)
-<br/>Acest videoclip explică Model Context Protocol (MCP), care este un nou standard, pentru conectarea asistenților AI, la sistemele în care se află datele.
+<br/>Acest videoclip explică Model Context Protocol (MCP), care este un nou standard, pentru conectarea asistenților AI, la sistemele, în care se află datele.
  - [LKD-girishbharadwaj-post: **Am explorat protocolul/contractul/convenienta/preintelegerea-tacita MCP..**. ](https://www.linkedin.com/posts/girishbharadwaj_introduction-activity-7272785948742979584-JHXW/)
  - [docker: **The MCP simplifying building AI-apps with  Claude-Desktop(Anthropic) and Docker**](https://www.docker.com/blog/the-model-context-protocol-simplifying-building-ai-apps-with-anthropic-claude-desktop-and-docker/)
  - [spring-ai: **MCP**](https://docs.spring.io/spring-ai/reference/api/model-context-protocol.html)
