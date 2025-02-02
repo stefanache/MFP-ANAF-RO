@@ -57,8 +57,8 @@ Domnul [**Fahd Mirza**](https://www.youtube.com/channel/UCPix8N6PMRI4KzgyjuZeF0g
  - [Deepseek-LLM:7b-chat rurnning on Ollama](https://ollama.com/library/deepseek-llm:7b-chat);
    <br/>Un model lingvistic(**DeepSeek-LLM**) avansat creat cu 2 trilioane de jetoane(bilingve=2 limbi naturale, una fiind engleza desigur!)
  - [Rularea locală a **DeepSeek Coder R1**, cu ***Ollama*** – Ghid final!](https://www.youtube.com/watch?v=JpWHzAqjuBo&ab_channel=DecodingDataScience)
- - <br/>Doriți să rulați **DeepSeek Coder R1**, local?
- - <br/>În acest videoclip, veti afla cum să configurați și cum să rulați **DeepSeek Coder R1**, pe computerul dva, folosind ***Ollama***.
+   <br/>Doriți să rulați **DeepSeek Coder R1**, local?
+   <br/>În acest videoclip, veti afla cum să configurați și cum să rulați **DeepSeek Coder R1**, pe computerul dva, folosind ***Ollama***.
  - [...](https://docsbot.ai/models/compare/deepseek-r1/deepseek-v3)
 
 Desigur, pe **Google**, gasiti/descoperiti o sumedenie de alte [articole](https://www.tiktok.com/@iamleorobles/video/7463886995085987114) legate de [**DeepSeek**](https://noerbarry.medium.com/deepseek-v3-offering-new-speed-and-efficiency-in-the-ai-world-outperforming-gpt-4-and-llama-in-559fe6ff1996).
