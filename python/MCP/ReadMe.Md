@@ -12,7 +12,7 @@ Articole & Proiecte legate de acest subiect(**MCP**):
  - [itmaniatv: **Anthropic propune Model-Context-Protocol(MCP) standardul care conecteaza AI cu sursele de date**](https://itmaniatv.com/anthropic-propune-model-context-protocol-standardul-care-conecteaza-ai-cu-sursele-de-date/)
  - [pescurt: **Știri pe scurt despre tehnologie**](https://pescurt.ro/tag/tehnologie?page=148)
  - [technewsro.blog: **MCP**](https://technewsro.blog/2024/11/)
- - [reddit-upsonic: **Now you can use Deepseek with MCP tools**](https://www.reddit.com/r/LocalLLaMA/comments/1ic24e0/now_you_can_use_deepseek_with_mcp_tools/); <br/>[**Upsonic**](https://github.com/Upsonic) este un ***Cadru de agent-AI***, orientat spre sarcini, pentru lucrătorii digitali și pentru agenți verticali AI
+ - [reddit-upsonic: **Now you can use Deepseek with MCP tools**](https://www.reddit.com/r/LocalLLaMA/comments/1ic24e0/now_you_can_use_deepseek_with_mcp_tools/); <br/>[**Upsonic**](https://github.com/Upsonic) este un ***Cadru de agent-AI***, orientat spre sarcini(***tasks***), pentru construirea de **lucrătorii-digitali**(care utilizeaza instrumente/tools=functii) și de **agenți-verticali-AI**.
 
  - [GH: **mcp-server-cloudflare(CF)**](https://github.com/cloudflare/mcp-server-cloudflare) & [CF-blog: **Hi Claude, build an MCP server on Cloudflare Workers**](https://blog.cloudflare.com/model-context-protocol/)
  - [GH-ODMCP: **OpenDataMCP**](https://github.com/OpenDataMCP/OpenDataMCP)
