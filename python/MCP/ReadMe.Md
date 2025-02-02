@@ -1,6 +1,6 @@
-[**MCP**](https://www.claudemcp.com/) =i.e.= [***LLM-Model Context Protocol***](https://www.claudemcp.com/specification)
+[**MCP**](https://www.claudemcp.com/) =i.e.= [***Model Context Protocol***](https://www.claudemcp.com/specification)
 
-Articole & Proiecte legate de acest subiect(**MCP**):
+Articole & Proiecte legate de acest subiect(**LLMCP**):
 
  - [claudemcp: **MCP doc**](https://www.claudemcp.com/docs/introduction)
  - [claudemcp: **Directory-List MCP-servers**](https://www.claudemcp.com/servers)
