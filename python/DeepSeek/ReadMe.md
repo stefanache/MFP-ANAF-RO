@@ -43,6 +43,7 @@ Domnul [**Fahd Mirza**](https://www.youtube.com/channel/UCPix8N6PMRI4KzgyjuZeF0g
  - [How-To Run DeepSeek V3(GGUF K-XS q5) Locally on CPU or GPU](https://www.youtube.com/watch?v=uMWPXFDaXBM&ab_channel=FahdMirza)
  - [DeepSeek R1 Lite Preview with DeepThink - Hands-on Demo](https://www.youtube.com/watch?v=1WArHOSq--8&ab_channel=FahdMirza)
  - [DeepSeek-R1 with Continue(un agent de codare VScode) and Ollama - Free, Local and Private](https://www.youtube.com/watch?v=-q-3ghi4A8E&ab_channel=FahdMirza)
+ - [A Step-by-Step Guide to Install DeepSeek-R1 Locally with Ollama, vLLM or Transformers](https://dev.to/nodeshiftcloud/a-step-by-step-guide-to-install-deepseek-r1-locally-with-ollama-vllm-or-transformers-44a1)
  - [Comparison of DeepSeek V3 vs Claude Sonnet vs GPT-4o on Real-World Task](https://www.youtube.com/watch?v=22EQ9M9SKK0&ab_channel=FahdMirza)
    <br/>Acest videoclip împărtășește rezultatul ***testării***, a 3 modele de AI, de top(**DS-V3**, **CS**, **GPT-4o**), pe un caz de utilizare real, din producție, în termeni de **cost**, **timp**, **funcționalitate**, [**CoT**](https://www.ibm.com/think/topics/chain-of-thoughts)=lant de gandire=rationament=cum a gandit, de a ajuns la rezultatul afisat, la final [etc.](https://www.promptingguide.ai/techniques/cot) 
  - [How To Install and Run DeepSeek Coder(1.3B base)](https://www.youtube.com/watch?v=DwPxCtO-ZU0&ab_channel=FahdMirza)
