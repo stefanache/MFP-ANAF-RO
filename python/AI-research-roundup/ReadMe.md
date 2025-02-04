@@ -42,5 +42,5 @@ Acum sa vedem pe scurt(in rezumat), cateva ***lucrari*** abordate în / abordăr
 <br/>Scalarea timpului de testare, care crește calculul în timpul testării pentru a îmbunătăți performanța, a atras atenția, în special cu modelul **o1** al ***OpenAI***.<br/> 
 <br/>Autorii își propun să găsească cea mai simplă abordare pentru a obține atât scalarea timpului de testare, cât și performanța puternică a raționamentului.<br/> 
 <br/>Ei organizează un set de date mic, **s1K**, și dezvoltă forțarea bugetului pentru a controla calcularea timpului de testare, ceea ce duce la un model de raționament puternic care se scalează cu mai multe calcule în timpul testării.<br/>
-<br/>Depășește[Concură/Concurează](https://gresit.ro/concura-sau-concureaza.html) cu **o1-preview** al ***OpenAI*** la întrebările de matematică ale competiției și este modelul de raționament cu cel mai eficient eșantion(sample).
+<br/>Depășește[Concură/Concurează](https://gresit.ro/concura-sau-concureaza.html) cu modelul/LLM **o1-preview** al ***OpenAI*** la întrebările de matematică ale competiției și este modelul de raționament cu cel mai eficient eșantion(sample).
    
