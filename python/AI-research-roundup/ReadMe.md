@@ -9,7 +9,7 @@ Săptămâna aceasta, se evidențiaza lucrări referitoare
  - la îmbunătățirea siguranței(garantii de siguranta) modelului lingvistic,
  - la scalarea capacităților de raționament în timpul testului,
  - perfecționarea instruirii prin învățarea bazată pe critici,
- - avansarea in AI-multimodală și contrastarea reglajului supervizat cu învățarea de consolidare. 
+ - avansarea in AI-multimodală și contrastarea/compararea reglajului supervizat cu învățarea de consolidare(RL). 
 
 Hai să ne scufundăm(mai bine zis sa aprofundăm toate aceste subiecte)!
 
