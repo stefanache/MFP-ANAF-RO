@@ -85,7 +85,7 @@ Acum sa vedem pe scurt(in rezumat), cateva ***lucrari*** abordate în / ***abord
 
      <br/>d2)[***SFT-Memorizes, RL-Generalizes: A Comparative Study of Foundation Model Post-training***](https://media.licdn.com/dms/image/v2/D4D12AQECyR29nuOTPg/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1738609451688?e=1744243200&v=beta&t=Wfqmd54SFNi3uhaGABY2NYPDNUaAOtsuAw3lrBaUqkE) / [***SFT-memorează, RL-generalizează: Un studiu comparativ al modelului de fundație post-formare/antrenare***](https://arxiv.org/pdf/2501.17161)
    <br/>Această lucrare investighează efectele reglajului fin supravegheat (**SFT**) și ale învățării prin consolidare (**RL**) asupra capacităților de generalizare și memorare ale modelelor de bază(**LLM**), concentrându-se atât pe mediile bazate pe text, cât și pe cele vizuale(imagini/video).<br/> 
-<br/>Generalizare vs. Memorare:<br/>
+<br/>*Comparatie*: **Generalizare** *versus*(*vs.*) **Memorare**:<br/>
 <br/>**RL Generalizes**: **RL**, mai ales atunci când este antrenat/întărit cu o recompensă bazată pe rezultate, arată o generalizare mai bună atât în ​​mediile textuale, cât și în cele vizuale(imagine,video) bazate pe reguli.<br/>
 <br/>**SFT-Memorizes**: **SFT** tinde să memoreze datele de antrenament și se luptă să generalizeze la scenarii în afara distribuției([**OOD**](https://arxiv.org/abs/2308.10261)).<br/>
 <br/>**RL** îmbunătățește capacitățile de recunoaștere vizuală de bază ale modelului, contribuind la o generalizare îmbunătățită în domeniile vizuale.
