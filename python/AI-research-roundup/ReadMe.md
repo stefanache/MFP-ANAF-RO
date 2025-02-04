@@ -11,6 +11,6 @@ In acest [studiu](https://www.linkedin.com/pulse/ai-research-roundup-safety-scal
  - R-SFT = Reasoning Supervised Fine-Tuning = reglaj-Fin Supravegheat bazat pe/de Raționament(mod/model de gândire-asemănătoare omului)
    <br/>mod de abordăre privind instruirea/invatare/antrenarea pt indeplinirea sarcinilor cf metodologiei GuardReasoner(GR
  - DPO = Direct Preference Optimization = Optimizarea Directă a Preferințelor(pt mostre)   
- - HS-DPO = Hard-Sample Direct Preference Optimization = - Optimizarea Directă a Preferințelor pentru esantioanele/[mostrele](https://www.google.com/search?q=mostre+sau+monstre&rlz=1C1CHBF_enRO1132RO1132&oq=mostre+sau+monstre&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIKCAEQABgKGBYYHjIKCAIQABiABBiiBNIBCTYwMzhqMGoxNagCCLACAQ&sourceid=chrome&ie=UTF-8) dure
+ - HS-DPO = Hard-Sample Direct Preference Optimization = - Optimizarea Directă a Preferințelor pentru esantioanele/[mostrele](https://www.google.com/search?q=mostre+sau+monstre&rlz=1C1CHBF_enRO1132RO1132&oq=mostre+sau+monstre&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIKCAEQABgKGBYYHjIKCAIQABiABBiiBNIBCTYwMzhqMGoxNagCCLACAQ&sourceid=chrome&ie=UTF-8) dure(mostre/exemple/esantioane destinate invatarii/antrenamentului, si care... se află în apropierea graniței/limita de decizie/i)
    <br/>mod de abordăre privind instruirea/invatare/antrenarea pt indeplinirea sarcinilor cf metodologiei GuardReasoner(GR)
  - 
