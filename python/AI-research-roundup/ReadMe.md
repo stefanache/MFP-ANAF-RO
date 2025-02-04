@@ -7,5 +7,5 @@ In acest [studiu](https://www.linkedin.com/pulse/ai-research-roundup-safety-scal
  - RL  = Reinforcement Learning = Învățăre prin consolidare
  - OOD = Out-Of-Distribution    = în afara Distribuției
  - DPO = Direct Preference Optimization = Optimizarea Directă a Preferințelor
- -       [GuardReasoner](https://arxiv.org/html/2501.18492v1)         = model de Gardă bazat pe Raționament
+ - [GuardReasoner](https://arxiv.org/html/2501.18492v1)         = model de Gardă bazat pe Raționament
  - 
