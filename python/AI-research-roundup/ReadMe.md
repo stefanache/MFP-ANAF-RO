@@ -1,6 +1,6 @@
 Salutare,
 
-In acest [***studiu***](https://www.linkedin.com/pulse/ai-research-roundup-safety-scaling-multimodal-breakthroughs-dynuf/),care se refera la seria "Rezumatelor din sfera cercetărilor **AI**", au aparut, o seama de termeni/prescurtări, des utiliza[ți/te].<br>(Multumim [**Linkedin-pulse**](https://www.linkedin.com/pulse/ai-research-roundup-safety-scaling-multimodal-breakthroughs-dynuf) si [**GenAIworks**](https://www.linkedin.com/company/genaiworks/?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3Bqdtvwz5hT727bPTetmJkQA%3D%3D)!!!)
+In acest [***studiu***](https://www.linkedin.com/pulse/ai-research-roundup-safety-scaling-multimodal-breakthroughs-dynuf/), care se refera la seria "Rezumatelor din sfera cercetărilor **AI**", au aparut, o seama de termeni/prescurtări, des utiliza[ți/te].<br>(Multumim [**Linkedin-pulse**](https://www.linkedin.com/pulse/ai-research-roundup-safety-scaling-multimodal-breakthroughs-dynuf) si [**GenAIworks**](https://www.linkedin.com/company/genaiworks/?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3Bqdtvwz5hT727bPTetmJkQA%3D%3D)!!!)
 
 Pentru inceput, pentru a fi inteles, cu usurinta, acest articol, vom trece in revista, cativa dintre acesti termeni:
 
@@ -49,10 +49,18 @@ Acum sa vedem pe scurt(in rezumat), cateva ***lucrari*** abordate în / abordăr
 <br/>Depășește[Concură/Concurează](https://gresit.ro/concura-sau-concureaza.html) cu modelul/LLM **o1-preview** al ***OpenAI*** la întrebările de matematică ale competiției și este modelul de raționament cu cel mai eficient eșantion(sample).
 
  - [***Critique Fine-Tuning: Learning to Critique is More Effective than Learning to Imitate***](https://media.licdn.com/dms/image/v2/D4D12AQFto_Ylz-JZRw/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1738609430306?e=1744243200&v=beta&t=J9gmmy-NsLmShTXbFLsuOGghvSjg9Fnn4aZwZq1fG4g) / [***Ajustarea/tunarea-Fină critică: a învăța să critici - este mai eficient decât - a învăța să imite***](https://arxiv.org/pdf/2501.17703)
-   <br/>Autorii validează eficacitatea **CFT** folosind un set de date de 50.000 de mostre/esantioane de la **WebInstruct**, cu critici generate de **GPT-40**.
-   <br/>**CFT** depășește constant **SFT** la șase repere matematice cu diferite modele de bază, obținând o îmbunătățire cu 4-10%.<br/> 
-   <br/>Lucrarea propune Critique Fine-Tuning (**CFT**), care mută accentul de la imitație la învățarea bazată pe critică, inspirată de procesele de învățare umană care pun accent pe gândirea critică și feedback-ul constructiv.<br/>
-   <br/>Autorii creează un set de date de 50.000 de mostre/esantioane din **WebInstruct**, folosind **GPT-40** pentru a genera critici pentru răspunsurile zgomotoase(/considerate ca fiind criticabile/gresite).<br/>
-   <br/>**CFT** depășește constant **SFT** la șase repere matematice, obținând o îmbunătățire cu 4-10%.
-   <br/> Autorii susțin că **CFT** reprezintă un pas semnificativ înainte în a face formarea modelului lingvistic(**LLM**) și mai eficientă.<br/>
+   <br/>Autorii validează eficacitatea **CFT** folosind un set de date de 50.000 de mostre/esantioane de la [**WebInstruct**](https://tiger-ai-lab.github.io/MAmmoTH2/) / [***HF***](https://huggingface.co/datasets/TIGER-Lab/WebInstructSub), cu critici generate de [**GPT-4o**](https://openai.com/index/hello-gpt-4o/).
+   <br/>[**CFT**](https://tiger-ai-lab.github.io/CritiqueFineTuning/) depășește constant [**SFT**](https://www.linkedin.com/posts/techsachinkumar_critique-fine-tuning-teaching-llm-models-activity-7290893014795710466-24cQ) la șase repere matematice cu diferite modele de bază, obținând o îmbunătățire cu 4-10%.<br/> 
+   <br/>Lucrarea propune Critique Fine-Tuning ([**CFT**](https://arxiv.org/html/2501.17703v1)), care mută accentul de la imitație la învățarea bazată pe critică, inspirată de procesele de învățare umană care pun accent pe gândirea critică și feedback-ul constructiv.<br/>
+   <br/>Autorii creează un set de date de 50.000 de mostre/esantioane din [**WebInstruct**](https://github.com/TIGER-AI-Lab/MAmmoTH2) / [**HF**](https://huggingface.co/datasets/TIGER-Lab/WebInstruct-CFT), folosind [**GPT-4o**](https://openai.com/index/gpt-4o-and-more-tools-to-chatgpt-free/) pentru a genera critici pentru răspunsurile zgomotoase(/considerate ca fiind criticabile/gresite).<br/>
+   <br/>[**CFT**](https://medium.com/@techsachin/critique-fine-tuning-teaching-llm-models-to-critique-and-analyze-responses-0a603c95e900) depășește constant [**SFT**](https://www.researchgate.net/figure/Training-dynamics-comparison-of-different-methods-on-Qwen25-Math-7B-across-key_fig1_388495470) la șase repere matematice, obținând o îmbunătățire cu 4-10%.
+   <br/> Autorii susțin că [**CFT**](https://arxiv.org/abs/2501.17703) reprezintă un pas semnificativ înainte în a face formarea modelului lingvistic([**LLM**](https://x.com/askalphaxiv/status/1885848467307745559)) și mai eficientă.<br/>
+
+   - [***Baichuan-Omni-1.5 Technical Report: Pushing the Boundaries of Omni-Modal AI with 73.3 Benchmark Mastery***](https://media.licdn.com/dms/image/v2/D4D12AQHaviv9ZKEfHA/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1738609441226?e=1744243200&v=beta&t=xu8DVC0orT18YUEBWfme_88Cz97DwtUdRRCNJ4xgP4E) / [***Raport tehnic Baichuan-Omni-1.5: Depășirea limitelor AI omni-modale cu 73.3 Benchmark Mastery***](https://arxiv.org/pdf/2501.17161)
+     <br/>**Baichuan-Omni-1.5**, un model omnimodal avansat dezvoltat de ***Baichuan Inc***.
+     <br/> Acest model este conceput pentru a înțelege și a genera conținut în mai multe modalități(multi-modal), inclusiv text, imagini, audio și video.<br/> 
+     <br/>Modelul poate procesa și genera text și vorbire de înaltă calitate din intrări text, imagine, audio și video, permițând interacțiuni intermodale fără întreruperi.
+     <br/>**Baichuan-Omni-1.5** atinge un scor mediu de 73,3 la zece benchmark-uri de înțelegere a imaginii, depășind alte modele precum **GPT-4o-mini**.</br/>
+     <br/>Modelul este antrenat pe aproximativ 500 de miliarde de puncte de date multimodale de înaltă calitate, folosind o strategie de antrenament în mai multe etape care integrează progresiv alinierea multimodală și reglarea fină(**fine-tuning**) a mai multor sarcini.<br/>
+     <br/>Canalul de instruire/invatare/antrenare(training) implică etape care încorporează progresiv viziunea(video) și audio în **LLM**, urmate de reglaj-fin(**fine-tuning**) supravegheat cu date omni-modale.
    
