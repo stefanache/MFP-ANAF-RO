@@ -28,7 +28,7 @@ Acum sa vedem pe scurt(in rezumat), cateva ***lucrari*** abordate in acest [arti
 <br/><br/>Datele de antrenament, codul și modelele(LLM-urile) de diferite scale/scalari(**1B**, **3B**, **8B**) sunt open source(sursă deschisă...studiului, modicarilor...).<br/>
 <br/>**LLM**-urile sunt din ce în ce mai integrate în diverse domenii, dar sunt vulnerabile la manipulări rău intenționate.
 <br/>Modelele de gardă(care ofera garantii) existente, deși eficiente, suferă de limitări în performanță, explicabilitate și generalizare. 
-<br/>GuardReasoner(BR) abordează aceste probleme prin deblocarea și îmbunătățirea abilităților de raționament ale modelelor de gardă.
+<br/>GuardReasoner(**GR**) abordează aceste probleme prin deblocarea și îmbunătățirea abilităților de raționament ale modelelor de gardă.
 <br/>Experimente și rezultate<br/>
 <br/>1.GuardReasoner 8B(**GR-8B**) realizează cele mai bune performanțe în sarcinile de detectare a nocivității prompte și de răspuns, depășind atât modelele open-source(sursă deschisă), cât și cele cu sursă închisă.
 <br/>2.GuardReasoner(**GR**) oferă pași detaliați de raționament, sporind transparența și ajutând la corectarea probelor etichetate greșit.
