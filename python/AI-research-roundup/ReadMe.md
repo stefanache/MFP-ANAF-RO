@@ -23,7 +23,7 @@ Pentru inceput, pentru a fi inteles, cu usurinta, acest articol, vom trece in re
 Acum sa vedem pe scurt(in rezumat), cateva ***lucrari*** abordate în / abordări din... acest [articol/studiu](https://www.linkedin.com/pulse/ai-research-roundup-safety-scaling-multimodal-breakthroughs-dynuf/):
 
  - [***GuardReasoner: Towards Reasoning-based LLM Safeguards / GuardReasoner: către garanții LLM bazate pe raționament***](https://arxiv.org/pdf/2501.18492) 
-   <br/>Lucrarea prezintă GuardReasoner(**GR**), o nouă protecție pentru **LLM**, concepută pentru a spori siguranța prin capacități de raționament.
+   <br/>Lucrarea prezintă GuardReasoner(**GR**), o nouă protecție pentru **LLM**, concepută pentru a spori siguranța prin etalarea unor capacități de raționament.
    <br/>Autorii creează setul de date GuardReasonerTrain(**GRT**), care cuprinde 127.000 de mostre cu 460.000 de pași de raționament detaliați și folosesc reglarea fină supravegheată de raționament/invatare(**R-SFT**) și optimizarea preferințelor directe ale mostrelor dure(**HS-DPO**) pentru a îmbunătăți abilitățile de raționament ale modelului. 
 <br/><br/>Datele de antrenament, codul și modelele(LLM-urile) de diferite scale/scalari(**1B**, **3B**, **8B**) sunt open source(sursă deschisă...studiului, modificarilor...).<br/>
 <br/>**LLM**-urile sunt din ce în ce mai integrate în diverse domenii, dar sunt vulnerabile la ***manipulări rău intenționate***(de unde si termenul de **guard**=garda/garanție!).
