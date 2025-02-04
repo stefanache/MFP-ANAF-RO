@@ -25,14 +25,13 @@ Acum sa vedem pe scurt(in rezumat), cateva ***lucrari*** abordate in acest [arti
  - [***GuardReasoner: Towards Reasoning-based LLM Safeguards***](https://arxiv.org/pdf/2501.18492)
    <br/>Lucrarea prezintă GuardReasoner(**GR**), o nouă protecție pentru **LLM**, concepută pentru a spori siguranța prin capacități de raționament.
    <br/>Autorii creează setul de date GuardReasonerTrain(**GRT**), care cuprinde 127.000 de mostre cu 460.000 de pași de raționament detaliați și folosesc reglarea fină supravegheată de raționament/invatare(**R-SFT**) și optimizarea preferințelor directe ale mostrelor dure(**HS-DPO**) pentru a îmbunătăți abilitățile de raționament ale modelului. 
-<br/><br/>Datele de antrenament, codul și modelele(LLM-urile) de diferite scale/scalari(1B, 3B, 8B) sunt open source.<br/>
+<br/><br/>Datele de antrenament, codul și modelele(LLM-urile) de diferite scale/scalari(**1B**, **3B**, **8B**) sunt open source(sursă deschisă...studiului, modicarilor...).<br/>
 <br/>**LLM**-urile sunt din ce în ce mai integrate în diverse domenii, dar sunt vulnerabile la manipulări rău intenționate.
 <br/>Modelele de gardă(care ofera garantii) existente, deși eficiente, suferă de limitări în performanță, explicabilitate și generalizare. 
 <br/>GuardReasoner(BR) abordează aceste probleme prin deblocarea și îmbunătățirea abilităților de raționament ale modelelor de gardă.
-<br/><br/>Experimente și rezultate<br/>
-<br/>GuardReasoner 8B(**GR-8B**) realizează cele mai bune performanțe în sarcinile de detectare a nocivității prompte și de răspuns, depășind atât modelele open-source(sursă deschisă), cât și cele cu sursă închisă.
-<br/>GuardReasoner(**GR**) oferă pași detaliați de raționament, sporind transparența și ajutând la corectarea probelor etichetate greșit.
-<br/>Modelul funcționează independent de categoriile fixe, recunoscând conținutul dăunător deschis, îmbunătățind astfel generalizarea.
-<br/><br/>Lucrarea evidențiază dezvoltarea unui model de gardă pentru a atenua riscurile potențiale și impacturile dăunătoare ale **LLM**, contribuind la integrarea mai sigură a **AI** în societate.<br/>
-
+<br/>Experimente și rezultate<br/>
+<br/>1.GuardReasoner 8B(**GR-8B**) realizează cele mai bune performanțe în sarcinile de detectare a nocivității prompte și de răspuns, depășind atât modelele open-source(sursă deschisă), cât și cele cu sursă închisă.
+<br/>2.GuardReasoner(**GR**) oferă pași detaliați de raționament, sporind transparența și ajutând la corectarea probelor etichetate greșit.
+<br/>3.Modelul(**GR**) funcționează independent de categoriile fixe, recunoscând conținutul dăunător deschis, îmbunătățind astfel generalizarea.
+<br/><br/>[Lucrarea](https://arxiv.org/pdf/2501.18492) evidențiază dezvoltarea unui model de gardă pentru a atenua riscurile potențiale și impacturile dăunătoare ale **LLM**-urilor, contribuind la integrarea mai sigură a **AI** în societate. 
  - 
