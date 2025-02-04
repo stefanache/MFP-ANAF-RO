@@ -31,13 +31,13 @@ Pentru inceput, pentru a fi inteles, cu usurinta, acest articol, vom trece in re
  - **SFT** =  Supervised Fine-Tuning = ajustarea/Tunarea Fina Supervizata.  
  - **R-SFT** = Reasoning Supervised Fine-Tuning = reglaj-Fin Supravegheat bazat pe/de Raționament(Reasoning: mod/modul/model de gândire-asemănătoare omului);
    <br/>Capacitatea/Abilitatea de a raționa este crucială/extrem de importantă pentru **LLM**-uri, permițându-le să ***imite*** modele de gândire asemănătoare omului.
-   <br/>R-SFT este un mod/o varianta/un modul de abordăre privind instruirea/invatare/antrenarea pt indeplinirea sarcinilor-AI, in conformitate cu  metodologia GuardReasoner(GR).
+   <br/>R-SFT este un mod/o varianta/un modul de abordăre privind instruirea/invatare/antrenarea pt indeplinirea sarcinilor-AI, in conformitate cu  metodologia GuardReasoner(**GR**).
  - **DPO** = Direct Preference Optimization = Optimizarea Directă a Preferințelor(pt mostre/esantioane/samples).   
  - **HS-DPO** = Hard-Sample Direct Preference Optimization = - Optimizarea Directă a Preferințelor pentru esantioanele/[mostrele](https://www.google.com/search?q=mostre+sau+monstre&rlz=1C1CHBF_enRO1132RO1132&oq=mostre+sau+monstre&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIKCAEQABgKGBYYHjIKCAIQABiABBiiBNIBCTYwMzhqMGoxNagCCLACAQ&sourceid=chrome&ie=UTF-8) dure(mostre/exemple/esantioane/probe destinate invatarii/antrenamentului, si care... se află în apropierea graniței/limita de decizie/i);
    <br/>HS-DPO este un mod/o varianta/un modul de abordăre privind instruirea/invatare/antrenarea pt indeplinirea sarcinilor-AI, in conformitate cu metodologia GuardReasoner(**GR**).
 
-   - **ST-TS** = Simple Test-Time Scaling = Scalarea Simpla a Timpului de Testare.
-   - **CFT** = Critique Fine-Tuning = ajustarea/Tunarea-Fină Critică.
+ - **ST-TS** = Simple Test-Time Scaling = Scalarea Simpla a Timpului de Testare.
+ - **CFT** = Critique Fine-Tuning = ajustarea/Tunarea-Fină Critică.
 
 Acum sa vedem pe scurt(in rezumat), cateva ***lucrari*** abordate în / abordări din... acest [articol/studiu](https://www.linkedin.com/pulse/ai-research-roundup-safety-scaling-multimodal-breakthroughs-dynuf/):
 
