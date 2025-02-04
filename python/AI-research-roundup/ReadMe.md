@@ -36,11 +36,11 @@ Acum sa vedem pe scurt(in rezumat), cateva ***lucrari*** abordate în / abordăr
 <br/><br/>[Lucrarea](https://arxiv.org/pdf/2501.18492) evidențiază dezvoltarea unui model de gardă(cum este **GR**) pentru a atenua riscurile potențiale și impactul dăunător al[e]/asupra **LLM**-urilor, contribuind la integrarea mai sigură a **AI** în societate.
  
  - [***s1: Simple Test-Time Scaling***](https://media.licdn.com/dms/image/v2/D4D12AQGAMOOG_LIz-w/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1738609419796?e=1744243200&v=beta&t=Ftsru31-7BNv1egojySpq3atw2MXXPnqoMiB5F97TIM) / [***s1: Scalare simplă a timpului de testare***](https://arxiv.org/pdf/2501.19393)
-   <br/>Lucrarea prezintă **S1**, o nouă abordare a scalarii timpului de testare pentru modelele de limbaj, care își propune să îmbunătățească performanța prin utilizarea calculului suplimentar în timpul testării.
-   <br/>Inspirați de modelul o1 al OpenAI, autorii organizează un mic set de date, s1K, format din 1.000 de întrebări asociate cu urme de raționament.
-   <br/>Modelul, datele și codul sunt open source.<br/>
-<br/>Scalarea timpului de testare, care crește calculul în timpul testării pentru a îmbunătăți performanța, a atras atenția, în special cu modelul o1 al OpenAI.<br/> 
+   <br/>Lucrarea prezintă **s1**, o nouă abordare a scalarii timpului de testare pentru modelele de limbaj, care își propune să îmbunătățească performanța prin utilizarea calculului suplimentar în timpul testării.
+   <br/>Inspirați de modelul **o1** al ***OpenAI***, autorii organizează un mic set de date, **s1K**, format din 1.000 de întrebări asociate cu urme de raționament.
+   <br/>Modelul, datele și codul sunt open source(sursă deschisă).<br/>
+<br/>Scalarea timpului de testare, care crește calculul în timpul testării pentru a îmbunătăți performanța, a atras atenția, în special cu modelul **o1** al ***OpenAI***.<br/> 
 <br/>Autorii își propun să găsească cea mai simplă abordare pentru a obține atât scalarea timpului de testare, cât și performanța puternică a raționamentului.<br/> 
-<br/>Ei organizează un set de date mic, s1K, și dezvoltă forțarea bugetului pentru a controla calcularea timpului de testare, ceea ce duce la un model de raționament puternic care se scalează cu mai multe calcule în timpul testării.<br/>
-<br/>Depășește previzualizarea o1 a OpenAI la întrebările de matematică ale competiției și este modelul de raționament cu cel mai eficient eșantion.
+<br/>Ei organizează un set de date mic, **s1K**, și dezvoltă forțarea bugetului pentru a controla calcularea timpului de testare, ceea ce duce la un model de raționament puternic care se scalează cu mai multe calcule în timpul testării.<br/>
+<br/>Depășește[Concură/Concurează](https://gresit.ro/concura-sau-concureaza.html) cu **o1-preview** al ***OpenAI*** la întrebările de matematică ale competiției și este modelul de raționament cu cel mai eficient eșantion(sample).
    
