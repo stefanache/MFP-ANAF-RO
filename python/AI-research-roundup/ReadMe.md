@@ -4,7 +4,7 @@ In acest [studiu](https://www.linkedin.com/pulse/ai-research-roundup-safety-scal
 
  - SFT = Supervised Fine-Tuning = reglare-Fină Supravegheată
  - CFT = Critique Fine-Tuning   = reglare Fină Critică
- - RL  = Reinforcement Learning = Învățăre prin consolidare
+ - RL  = Reinforcement Learning = învățăre prin consolidare
  - OOD = Out-Of-Distribution    = în afara Distribuției
  - DPO = Direct Preference Optimization = Optimizarea Directă a Preferințelor
  - [GuardReasoner](https://arxiv.org/html/2501.18492v1)         = model de Gardă bazat pe Raționament
