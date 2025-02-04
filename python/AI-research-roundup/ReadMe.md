@@ -4,10 +4,12 @@ In acest [***studiu***](https://www.linkedin.com/pulse/ai-research-roundup-safet
 
 Pentru inceput, pentru a fi inteles, cu usurinta, acest articol, vom trece in revista, cativa dintre acesti termeni:
 
- - **LLM** - Modele de Limbaj mari(scalate la diverse marimi/scale/scalari **1B**, **3B**, **8B**, **...**).
+ - **LLM** - Large Language Model = Modele mari de Limbaj(scalate la diverse marimi/scale/scalari **1B**, **3B**, **8B**, **...**).
+ - **VML** - Vision-Language Models = Modele de Limbaj Vizual.<br/>
+
  - **SFT** = Supervised Fine-Tuning = reglare-Fină Supravegheată.
  - **CFT** = Critique Fine-Tuning = reglare Fină Critică.
- - **RL**  = Reinforcement Learning = învățăre prin consolidare.
+ - **RL**  = Reinforcement Learning = învățăre prin consolidare/întărire(cu o recompensă bazată pe rezultate).
  - **OOD** = Out-Of-Distribution = în afara Distribuției.  
  - **GR** = [GuardReasoner](https://arxiv.org/html/2501.18492v1) = model de Gardă bazat pe Raționament(metodologia GuardReasoner; de la ***imitatie*** la **garantii**).
  - **GRT** = GuardReasonerTrain = Setul de antrenare/antrenament(train) al modelului GuardReasoner(GR)
@@ -61,6 +63,19 @@ Acum sa vedem pe scurt(in rezumat), cateva ***lucrari*** abordate în / abordăr
      <br/> Acest model este conceput pentru a înțelege și a genera conținut în mai multe modalități(multi-modal), inclusiv text, imagini, audio și video.<br/> 
      <br/>Modelul poate procesa și genera text și vorbire de înaltă calitate din intrări text, imagine, audio și video, permițând interacțiuni intermodale fără întreruperi.
      <br/>**Baichuan-Omni-1.5** atinge un scor mediu de 73,3 la zece benchmark-uri de înțelegere a imaginii, depășind alte modele precum **GPT-4o-mini**.</br/>
-     <br/>Modelul este antrenat pe aproximativ 500 de miliarde de puncte de date multimodale de înaltă calitate, folosind o strategie de antrenament în mai multe etape care integrează progresiv alinierea multimodală și reglarea fină(**fine-tuning**) a mai multor sarcini.<br/>
-     <br/>Canalul de instruire/invatare/antrenare(training) implică etape care încorporează progresiv viziunea(video) și audio în **LLM**, urmate de reglaj-fin(**fine-tuning**) supravegheat cu date omni-modale.
+     <br/>Modelul este antrenat pe aproximativ 500 de miliarde de puncte de date multimodale de înaltă calitate, folosind o strategie de antrenament în mai multe etape care integrează-progresiv alinierea(aducerea la acelasi numitor comun) multi-modală și reglarea fină(**fine-tuning**) a mai multor sarcini.<br/>
+     <br/>Canalul de instruire/invatare/formare/antrenare(training) implică etape care încorporează-progresiv viziunea(imagine,video) și audio în **LLM**(eminamente textual), urmate de reglaj-fin(**fine-tuning**) supravegheat cu date omni-modale.<br/>
+
+     <br/>[***SFT-Memorizes, RL-Generalizes: A Comparative Study of Foundation Model Post-training***](https://media.licdn.com/dms/image/v2/D4D12AQECyR29nuOTPg/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1738609451688?e=1744243200&v=beta&t=Wfqmd54SFNi3uhaGABY2NYPDNUaAOtsuAw3lrBaUqkE) / [***SFT-memorează, RL-generalizează: Un studiu comparativ al modelului de fundație post-formare/antrenare***](https://arxiv.org/pdf/2501.17161)
+   <br/>Această lucrare investighează efectele reglajului fin supravegheat (**SFT**) și ale învățării prin consolidare (**RL**) asupra capacităților de generalizare și memorare ale modelelor de bază(**LLM**), concentrându-se atât pe mediile bazate pe text, cât și pe cele vizuale(imagini/video).<br/> 
+<br/>Generalizare vs. Memorare:<br/>
+<br/>**RL Generalizes**: **RL**, mai ales atunci când este antrenat/întărit cu o recompensă bazată pe rezultate, arată o generalizare mai bună atât în ​​mediile textuale, cât și în cele vizuale(imagine,video) bazate pe reguli.<br/>
+<br/>**SFT-Memorizes**: **SFT*** tinde să memoreze datele de antrenament și se luptă să generalizeze la scenarii în afara distribuției(**OOD**).<br/>
+<br/>**RL** îmbunătățește capacitățile de recunoaștere vizuală de bază ale modelului, contribuind la o generalizare îmbunătățită în domeniile vizuale.
+<br/>**SFT** este încă util pentru antrenamentul RL eficient, deoarece stabilizează formatul de ieșire al modelului, permițând RL ulterior să obțină câștiguri de performanță.<br/>
+<br/>**RL** îmbunătățește constant performanța **OOD** în toate sarcinile, în timp ce **SFT** arată o degradare a performanței.
+<br/>Creșterea calculului **RL** îmbunătățește acuratețea recunoașterii vizuale în [**VLM**](https://encord.com/blog/vision-language-models-guide/)-uri, în timp ce scalarea **SFT** deteriorează atât recunoașterea vizuală, cât și performanța generală.<br/>
+<br/>Lucrarea demonstrează că **RL** este superior **SFT** în dobândirea de cunoștințe generalizabile în sarcini complexe, multimodale.
+<br/>Cu toate acestea, **SFT** este încă crucial pentru stabilizarea formatului de ieșire al modelului, permițând antrenamentul **RL** eficient.<br/>
+
    
