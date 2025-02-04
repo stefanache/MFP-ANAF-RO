@@ -53,6 +53,6 @@ Acum sa vedem pe scurt(in rezumat), cateva ***lucrari*** abordate în / abordăr
    <br/>**CFT** depășește constant **SFT** la șase repere matematice cu diferite modele de bază, obținând o îmbunătățire cu 4-10%.<br/> 
    <br/>Lucrarea propune Critique Fine-Tuning (**CFT**), care mută accentul de la imitație la învățarea bazată pe critică, inspirată de procesele de învățare umană care pun accent pe gândirea critică și feedback-ul constructiv.<br/>
    <br/>Autorii creează un set de date de 50.000 de mostre/esantioane din **WebInstruct**, folosind **GPT-40** pentru a genera critici pentru răspunsurile zgomotoase(/considerate ca fiind criticabile/gresite).<br/>
-   <br/>CFT depășește constant **SFT **la șase repere matematice, obținând o îmbunătățire cu 4-10%.
+   <br/>**CFT** depășește constant **SFT** la șase repere matematice, obținând o îmbunătățire cu 4-10%.
    <br/> Autorii susțin că **CFT** reprezintă un pas semnificativ înainte în a face formarea modelului lingvistic(**LLM**) și mai eficientă.<br/>
    
