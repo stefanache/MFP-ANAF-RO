@@ -41,7 +41,7 @@ Pentru inceput, pentru a fi inteles, cu usurinta, acest articol, vom trece in re
  - **ST-TS** = Simple Test-Time Scaling = Scalarea Simpla a Timpului de Testare.
  - **CFT** = Critique Fine-Tuning = ajustarea/Tunarea-Fină Critică.
 
-Acum sa vedem pe scurt(in rezumat), cateva ***lucrari*** abordate în / abordări din... acest [articol/studiu](https://www.linkedin.com/pulse/ai-research-roundup-safety-scaling-multimodal-breakthroughs-dynuf/):
+Acum sa vedem pe scurt(in rezumat), cateva ***lucrari*** abordate în / ***abordări*** din... acest [articol/studiu](https://www.linkedin.com/pulse/ai-research-roundup-safety-scaling-multimodal-breakthroughs-dynuf/):
 
  - [***GuardReasoner: Towards Reasoning-based LLM Safeguards***](https://media.licdn.com/dms/image/v2/D4D12AQETgqODoeNclw/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1738609408068?e=1744243200&v=beta&t=QbYLdtFfZmuj79a0NUd7mvWuec5o8avTPALdZtYAJ5o) / [***GuardReasoner: către garanții LLM bazate pe raționament***](https://arxiv.org/pdf/2501.18492) 
    <br/>Lucrarea prezintă GuardReasoner(**GR**), o nouă protecție pentru **LLM**, concepută pentru a spori siguranța prin etalarea unor capacități de raționament.
