@@ -13,7 +13,7 @@ Săptămâna aceasta, se evidențiaza lucrări referitoare
 
 Hai să ne scufundăm(mai bine zis sa aprofundăm toate aceste subiecte)!
 
-In acest [***studiu***](https://www.linkedin.com/pulse/ai-research-roundup-safety-scaling-multimodal-breakthroughs-dynuf/), care se refera la seria "Rezumatelor din sfera cercetărilor **AI**", au aparut, o seama de termeni/prescurtări, des utiliza[ți/te].<br>(Multumim [**Linkedin-pulse**](https://www.linkedin.com/pulse/ai-research-roundup-safety-scaling-multimodal-breakthroughs-dynuf) si [**GenAIworks**](https://www.linkedin.com/company/genaiworks/?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3Bqdtvwz5hT727bPTetmJkQA%3D%3D)!!!)
+In acest [***studiu***](https://www.linkedin.com/pulse/ai-research-roundup-safety-scaling-multimodal-breakthroughs-dynuf/) complex, care se refera la seria "Rezumatelor din sfera cercetărilor **AI**", au aparut, o seama de termeni/prescurtări, des utiliza[ți/te].<br>(Multumim [**Linkedin-pulse**](https://www.linkedin.com/pulse/ai-research-roundup-safety-scaling-multimodal-breakthroughs-dynuf) si [**GenAIworks**](https://www.linkedin.com/company/genaiworks/?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3Bqdtvwz5hT727bPTetmJkQA%3D%3D)!!!)
 
 Pentru inceput, pentru a fi inteles, cu usurinta, acest articol, vom trece in revista, cativa dintre acesti termeni:
 
@@ -41,7 +41,7 @@ Pentru inceput, pentru a fi inteles, cu usurinta, acest articol, vom trece in re
  - **ST-TS** = Simple Test-Time Scaling = Scalarea Simpla a Timpului de Testare.
  - **CFT** = Critique Fine-Tuning = ajustarea/Tunarea-Fină Critică.
 
-Acum sa vedem pe scurt(in rezumat), cateva ***lucrari*** abordate în / ***abordări*** din... acest [articol/studiu](https://www.linkedin.com/pulse/ai-research-roundup-safety-scaling-multimodal-breakthroughs-dynuf/):
+Acum sa vedem pe scurt(in rezumat), cateva ***lucrari*** abordate în / ***abordări*** din... acest complex [articol/studiu](https://www.linkedin.com/pulse/ai-research-roundup-safety-scaling-multimodal-breakthroughs-dynuf/):
 
  - [***GuardReasoner: Towards Reasoning-based LLM Safeguards***](https://media.licdn.com/dms/image/v2/D4D12AQETgqODoeNclw/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1738609408068?e=1744243200&v=beta&t=QbYLdtFfZmuj79a0NUd7mvWuec5o8avTPALdZtYAJ5o) / [***GuardReasoner: către garanții LLM bazate pe raționament***](https://arxiv.org/pdf/2501.18492) 
    <br/>Lucrarea prezintă GuardReasoner(**GR**), o nouă protecție pentru **LLM**, concepută pentru a spori siguranța prin etalarea unor capacități de raționament.
