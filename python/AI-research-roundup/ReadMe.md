@@ -30,8 +30,9 @@ Acum sa vedem pe scurt(in rezumat), cateva ***lucrari*** abordate in acest [arti
 <br/>Modelele de gardă(care ofera garantii) existente, deși eficiente, suferă de limitări în performanță, explicabilitate și generalizare. 
 <br/>GuardReasoner(BR) abordează aceste probleme prin deblocarea și îmbunătățirea abilităților de raționament ale modelelor de gardă.
 <br/><br/>Experimente și rezultate<br/>
-<br/>GuardReasoner 8B(**GR-8B**) realizează cele mai bune performanțe în sarcinile de detectare a nocivității prompte și de răspuns, depășind atât modelele open-source, cât și cele cu sursă închisă.
-GuardReasoner oferă pași detaliați de raționament, sporind transparența și ajutând la corectarea probelor etichetate greșit.
-Modelul funcționează independent de categoriile fixe, recunoscând conținutul dăunător deschis, îmbunătățind astfel generalizarea.
+<br/>GuardReasoner 8B(**GR-8B**) realizează cele mai bune performanțe în sarcinile de detectare a nocivității prompte și de răspuns, depășind atât modelele open-source(sursă deschisă), cât și cele cu sursă închisă.
+<br/>GuardReasoner(**GR**) oferă pași detaliați de raționament, sporind transparența și ajutând la corectarea probelor etichetate greșit.
+<br/>Modelul funcționează independent de categoriile fixe, recunoscând conținutul dăunător deschis, îmbunătățind astfel generalizarea.
+<br/><br/>Lucrarea evidențiază dezvoltarea unui model de gardă pentru a atenua riscurile potențiale și impacturile dăunătoare ale **LLM**, contribuind la integrarea mai sigură a **AI** în societate.<br/>
 
-Lucrarea evidențiază dezvoltarea unui model de gardă pentru a atenua riscurile potențiale și impacturile dăunătoare ale LLM, contribuind la integrarea mai sigură a IA în societate. 
+ - 
