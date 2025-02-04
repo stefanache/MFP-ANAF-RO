@@ -5,7 +5,7 @@ Salutare si ... Bun venit la ...  din această săptămână...
  unde se explorează:
  
  - cele mai recente progrese în modelele **AI**,
- - tehnici de antrenament și
+ - tehnici de antrenament și ...
  - îmbunătățiri bazate pe raționament. 
 
 Săptămâna aceasta, se evidențiaza lucrări referitoare 
