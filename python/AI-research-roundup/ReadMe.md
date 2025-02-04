@@ -1,7 +1,7 @@
 Salutare,
 
 Bun venit la [**Linkedin: AI Research Roundup**](https://www.google.com/search?q=AI+Research+Roundup&rlz=1C1CHBF_enRO1132RO1132&oq=AI+Research+Roundup&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg8MgYIAhBFGDwyBggDEEUYPNIBCTE3NTBqMGoxNagCCLACAQ&sourceid=chrome&ie=UTF-8) din această săptămână, unde se explorează
- - cele mai recente progrese în modelele AI,
+ - cele mai recente progrese în modelele **AI**,
  - tehnici de antrenament și
  - îmbunătățiri bazate pe raționament. 
 
@@ -9,7 +9,7 @@ Săptămâna aceasta, se evidențiaza lucrări referitoare
  - la îmbunătățirea siguranței(garantii de siguranta) modelului lingvistic,
  - la scalarea capacităților de raționament în timpul testului,
  - perfecționarea instruirii prin învățarea bazată pe critici,
- - avansarea in AI-multimodală și contrastarea/compararea reglajului supervizat cu învățarea de consolidare(RL). 
+ - avansarea in **AI**-multimodală și contrastarea/compararea reglajului supervizat cu învățarea de consolidare(**RL**). 
 
 Hai să ne scufundăm(mai bine zis sa aprofundăm toate aceste subiecte)!
 
@@ -32,9 +32,9 @@ Pentru inceput, pentru a fi inteles, cu usurinta, acest articol, vom trece in re
  - **R-SFT** = Reasoning Supervised Fine-Tuning = reglaj-Fin Supravegheat bazat pe/de Raționament(Reasoning: mod/modul/model de gândire-asemănătoare omului);
    <br/>Capacitatea/Abilitatea de a raționa este crucială/extrem de importantă pentru **LLM**-uri, permițându-le să ***imite*** modele de gândire asemănătoare omului.
    <br/>R-SFT este un mod/o varianta/un modul de abordăre privind instruirea/invatare/antrenarea pt indeplinirea sarcinilor-AI, in conformitate cu  metodologia GuardReasoner(GR).
- - **DPO** = Direct Preference Optimization = Optimizarea Directă a Preferințelor(pt mostre).   
+ - **DPO** = Direct Preference Optimization = Optimizarea Directă a Preferințelor(pt mostre/esantioane/samples).   
  - **HS-DPO** = Hard-Sample Direct Preference Optimization = - Optimizarea Directă a Preferințelor pentru esantioanele/[mostrele](https://www.google.com/search?q=mostre+sau+monstre&rlz=1C1CHBF_enRO1132RO1132&oq=mostre+sau+monstre&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIKCAEQABgKGBYYHjIKCAIQABiABBiiBNIBCTYwMzhqMGoxNagCCLACAQ&sourceid=chrome&ie=UTF-8) dure(mostre/exemple/esantioane/probe destinate invatarii/antrenamentului, si care... se află în apropierea graniței/limita de decizie/i);
-   <br/>HS-DPO este un mod/o varianta/un modul de abordăre privind instruirea/invatare/antrenarea pt indeplinirea sarcinilor-AI, in conformitate cu metodologia GuardReasoner(GR).
+   <br/>HS-DPO este un mod/o varianta/un modul de abordăre privind instruirea/invatare/antrenarea pt indeplinirea sarcinilor-AI, in conformitate cu metodologia GuardReasoner(**GR**).
 
    - **ST-TS** = Simple Test-Time Scaling = Scalarea Simpla a Timpului de Testare.
    - **CFT** = Critique Fine-Tuning = ajustarea/Tunarea-Fină Critică.
