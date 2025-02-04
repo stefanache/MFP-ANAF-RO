@@ -30,8 +30,8 @@ Acum sa vedem pe scurt(in rezumat), cateva ***lucrari*** abordate în / abordăr
 <br/>Modelele de gardă(care ofera garanții) existente, deși eficiente, suferă de limitări în performanță, explicabilitate și generalizare. 
 <br/>GuardReasoner(**GR**) abordează aceste probleme prin deblocarea și îmbunătățirea abilităților de raționament ale modelelor de gardă(care ofera garanții de protectie impotriva manipularilor rau voitoare prin antrenarea pe seturi de date inselatoare sau cu continut compromitator/daunator/dur sau abraziv).
 <br/>Experimente și rezultate<br/>
-<br/>1.GuardReasoner 8B(**GR-8B**) realizează cele mai bune performanțe în sarcinile de detectare a nocivității prompte și de răspuns, depășind atât modelele open-source(sursă deschisă), cât și cele cu sursă închisă.
-<br/>2.GuardReasoner(**GR**) oferă pași detaliați de raționament, sporind transparența și ajutând la corectarea probelor/mostrelor etichetate greșit.
-<br/>3.Modelul(**GR**) funcționează independent de categoriile fixe, recunoscând conținutul dăunător deschis, îmbunătățind astfel generalizarea.
-<br/><br/>[Lucrarea](https://arxiv.org/pdf/2501.18492) evidențiază dezvoltarea unui model de gardă pentru a atenua riscurile potențiale și impacturile dăunătoare ale **LLM**-urilor, contribuind la integrarea mai sigură a **AI** în societate. 
+<br/>1. GuardReasoner 8B(**GR-8B**) realizează cele mai bune performanțe în sarcinile de detectare a nocivității prompte și de răspuns, depășind/întrecând/concurând atât modelele open-source(sursă deschisă), cât și cele cu sursă închisă.
+<br/>2. GuardReasoner(**GR**) oferă pașii detaliați de raționament, sporind transparența și ajutând la corectarea probelor/mostrelor etichetate greșit.
+<br/>3. Modelul(**GR**) funcționează independent de categoriile fixe, recunoscând conținutul dăunător deschis, îmbunătățind astfel generalizarea.
+<br/><br/>[Lucrarea](https://arxiv.org/pdf/2501.18492) evidențiază dezvoltarea unui model de gardă(cum este **GR**) pentru a atenua riscurile potențiale și impacturile dăunătoare ale **LLM**-urilor, contribuind la integrarea mai sigură a **AI** în societate. 
  - 
