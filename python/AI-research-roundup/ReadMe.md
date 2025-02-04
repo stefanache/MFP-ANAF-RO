@@ -1,6 +1,6 @@
 Salutare,
 
-In acest [studiu](https://www.linkedin.com/pulse/ai-research-roundup-safety-scaling-multimodal-breakthroughs-dynuf/) din seria "Rezumatelor din sfera cercetărilor AI", au aparut, o seama de termeni/prescurtări, des utiliza[ți/te].
+In acest [studiu](https://www.linkedin.com/pulse/ai-research-roundup-safety-scaling-multimodal-breakthroughs-dynuf/) din seria "Rezumatelor din sfera cercetărilor AI", au aparut, o seama de termeni/prescurtări, des utiliza[ți/te].<br>(Multumim [**Linkedin-pulse**](https://www.linkedin.com/pulse/ai-research-roundup-safety-scaling-multimodal-breakthroughs-dynuf) si [**GenAIworks**](https://www.linkedin.com/company/genaiworks/?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3Bqdtvwz5hT727bPTetmJkQA%3D%3D)!!!)
 
 Pentru inceput, pentru a fi inteles, cu usurinta, acest articol, vom trece in revista, cativa dintre acesti termeni:
 
