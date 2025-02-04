@@ -6,10 +6,10 @@ Bun venit la [**Linkedin: AI Research Roundup**](https://www.google.com/search?q
  - îmbunătățiri bazate pe raționament. 
 
 Săptămâna aceasta, se evidențiaza lucrări referitoare 
- - la îmbunătățirea siguranței(garantii de siguranta) modelului lingvistic,
- - la scalarea capacităților de raționament în timpul testului,
- - perfecționarea instruirii prin învățarea bazată pe critici,
- - avansarea in **AI**-multimodală și contrastarea/compararea reglajului supervizat cu învățarea de consolidare(**RL**). 
+ - a>la îmbunătățirea siguranței(garantii de siguranta) modelului lingvistic,
+ - b)la scalarea capacităților de raționament în timpul testului,
+ - c)perfecționarea instruirii prin învățarea bazată pe critici,
+ - d1)avansarea in **AI**-multimodală și d2)contrastarea/compararea reglajului supervizat cu învățarea de consolidare(**RL**). 
 
 Hai să ne scufundăm(mai bine zis sa aprofundăm toate aceste subiecte)!
 
@@ -43,7 +43,7 @@ Pentru inceput, pentru a fi inteles, cu usurinta, acest articol, vom trece in re
 
 Acum sa vedem pe scurt(in rezumat), cateva ***lucrari*** abordate în / ***abordări*** din... acest complex [articol/studiu](https://www.linkedin.com/pulse/ai-research-roundup-safety-scaling-multimodal-breakthroughs-dynuf/):
 
- - [***GuardReasoner: Towards Reasoning-based LLM Safeguards***](https://media.licdn.com/dms/image/v2/D4D12AQETgqODoeNclw/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1738609408068?e=1744243200&v=beta&t=QbYLdtFfZmuj79a0NUd7mvWuec5o8avTPALdZtYAJ5o) / [***GuardReasoner: către garanții LLM bazate pe raționament***](https://arxiv.org/pdf/2501.18492) 
+ - [a)***GuardReasoner: Towards Reasoning-based LLM Safeguards***](https://media.licdn.com/dms/image/v2/D4D12AQETgqODoeNclw/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1738609408068?e=1744243200&v=beta&t=QbYLdtFfZmuj79a0NUd7mvWuec5o8avTPALdZtYAJ5o) / [***GuardReasoner: către garanții LLM bazate pe raționament***](https://arxiv.org/pdf/2501.18492) 
    <br/>Lucrarea prezintă GuardReasoner(**GR**), o nouă protecție pentru **LLM**, concepută pentru a spori siguranța prin etalarea unor capacități de raționament.
    <br/>Autorii creează setul de date GuardReasonerTrain(**GRT**), care cuprinde 127.000 de mostre cu 460.000 de pași de raționament detaliați și folosesc reglarea fină supravegheată de raționament/invatare(**R-SFT**) și optimizarea preferințelor directe ale mostrelor dure(**HS-DPO**) pentru a îmbunătăți abilitățile de raționament ale modelului. 
 <br/><br/>Datele de antrenament, codul și modelele(**LLM**-urile) utilizate, de diferite scale/scalari(**1B**, **3B**, **8B**), sunt open source(sursă deschisă...in vederea studiului, modificarilor...).<br/>
@@ -56,7 +56,7 @@ Acum sa vedem pe scurt(in rezumat), cateva ***lucrari*** abordate în / ***abord
 <br/>3. Modelul(**GR**) funcționează independent de categoriile fixe, recunoscând conținutul dăunător deschis, îmbunătățind astfel generalizarea.
 <br/><br/>[Lucrarea](https://arxiv.org/pdf/2501.18492) evidențiază dezvoltarea unui model de gardă(cum este **GR**) pentru a atenua riscurile potențiale și impactul dăunător al[e]/asupra **LLM**-urilor, contribuind la integrarea mai sigură a **AI** în societate.<br/>
  
- - [***s1: Simple Test-Time Scaling***](https://media.licdn.com/dms/image/v2/D4D12AQGAMOOG_LIz-w/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1738609419796?e=1744243200&v=beta&t=Ftsru31-7BNv1egojySpq3atw2MXXPnqoMiB5F97TIM) / [***s1: Scalare simplă a timpului de testare***](https://arxiv.org/pdf/2501.19393)
+ - b)[***s1: Simple Test-Time Scaling***](https://media.licdn.com/dms/image/v2/D4D12AQGAMOOG_LIz-w/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1738609419796?e=1744243200&v=beta&t=Ftsru31-7BNv1egojySpq3atw2MXXPnqoMiB5F97TIM) / [***s1: Scalare simplă a timpului de testare***](https://arxiv.org/pdf/2501.19393)
    <br/>Lucrarea prezintă **s1**, o nouă abordare a scalarii timpului de testare pentru modelele de limbaj, care își propune să îmbunătățească performanța prin utilizarea calculului suplimentar în timpul testării.
    <br/>Inspirați de modelul **o1** al ***OpenAI***, autorii organizează un mic set de date, **s1K**, format din 1.000 de întrebări asociate cu urme de raționament.
    <br/>Modelul, datele și codul sunt open source(sursă deschisă).<br/>
@@ -65,7 +65,7 @@ Acum sa vedem pe scurt(in rezumat), cateva ***lucrari*** abordate în / ***abord
 <br/>Ei organizează un set de date mic, **s1K**, și dezvoltă forțarea bugetului pentru a controla calcularea timpului de testare, ceea ce duce la un model de raționament puternic care se scalează cu mai multe calcule în timpul testării.<br/>
 <br/>Depășește[Concură/Concurează](https://gresit.ro/concura-sau-concureaza.html) cu modelul/LLM **o1-preview** al ***OpenAI*** la întrebările de matematică ale competiției și este modelul de raționament cu cel mai eficient eșantion(sample).
 
- - [***Critique Fine-Tuning: Learning to Critique is More Effective than Learning to Imitate***](https://media.licdn.com/dms/image/v2/D4D12AQFto_Ylz-JZRw/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1738609430306?e=1744243200&v=beta&t=J9gmmy-NsLmShTXbFLsuOGghvSjg9Fnn4aZwZq1fG4g) / [***Ajustarea/tunarea-Fină critică: a învăța să critici - este mai eficient decât - a învăța să imite***](https://arxiv.org/pdf/2501.17703)
+ - c)[***Critique Fine-Tuning: Learning to Critique is More Effective than Learning to Imitate***](https://media.licdn.com/dms/image/v2/D4D12AQFto_Ylz-JZRw/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1738609430306?e=1744243200&v=beta&t=J9gmmy-NsLmShTXbFLsuOGghvSjg9Fnn4aZwZq1fG4g) / [***Ajustarea/tunarea-Fină critică: a învăța să critici - este mai eficient decât - a învăța să imite***](https://arxiv.org/pdf/2501.17703)
    <br/>Autorii validează eficacitatea **CFT** folosind un set de date de 50.000 de mostre/esantioane de la [**WebInstruct**](https://tiger-ai-lab.github.io/MAmmoTH2/) / [***HF***](https://huggingface.co/datasets/TIGER-Lab/WebInstructSub), cu critici generate de [**GPT-4o**](https://openai.com/index/hello-gpt-4o/).
    <br/>[**CFT**](https://tiger-ai-lab.github.io/CritiqueFineTuning/) depășește constant [**SFT**](https://www.linkedin.com/posts/techsachinkumar_critique-fine-tuning-teaching-llm-models-activity-7290893014795710466-24cQ) la șase repere matematice cu diferite modele de bază, obținând o îmbunătățire cu 4-10%.<br/> 
    <br/>Lucrarea propune Critique Fine-Tuning ([**CFT**](https://arxiv.org/html/2501.17703v1)), care mută accentul de la imitație la învățarea bazată pe critică, inspirată de procesele de învățare umană care pun accent pe gândirea critică și feedback-ul constructiv.<br/>
@@ -73,7 +73,7 @@ Acum sa vedem pe scurt(in rezumat), cateva ***lucrari*** abordate în / ***abord
    <br/>[**CFT**](https://medium.com/@techsachin/critique-fine-tuning-teaching-llm-models-to-critique-and-analyze-responses-0a603c95e900) depășește constant [**SFT**](https://www.researchgate.net/figure/Training-dynamics-comparison-of-different-methods-on-Qwen25-Math-7B-across-key_fig1_388495470) la șase repere matematice, obținând o îmbunătățire cu 4-10%.
    <br/> Autorii susțin că [**CFT**](https://arxiv.org/abs/2501.17703) reprezintă un pas semnificativ înainte în a face formarea modelului lingvistic([**LLM**](https://x.com/askalphaxiv/status/1885848467307745559)) și mai eficientă.<br/>
 
- - [***Baichuan-Omni-1.5 Technical Report: Pushing the Boundaries of Omni-Modal AI with 73.3 Benchmark Mastery***](https://media.licdn.com/dms/image/v2/D4D12AQHaviv9ZKEfHA/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1738609441226?e=1744243200&v=beta&t=xu8DVC0orT18YUEBWfme_88Cz97DwtUdRRCNJ4xgP4E) / [***Raport tehnic Baichuan-Omni-1.5: Depășirea limitelor AI omni-modale cu 73.3 Benchmark Mastery***](https://arxiv.org/pdf/2501.17161)
+ - d1)[***Baichuan-Omni-1.5 Technical Report: Pushing the Boundaries of Omni-Modal AI with 73.3 Benchmark Mastery***](https://media.licdn.com/dms/image/v2/D4D12AQHaviv9ZKEfHA/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1738609441226?e=1744243200&v=beta&t=xu8DVC0orT18YUEBWfme_88Cz97DwtUdRRCNJ4xgP4E) / [***Raport tehnic Baichuan-Omni-1.5: Depășirea limitelor AI omni-modale cu 73.3 Benchmark Mastery***](https://arxiv.org/pdf/2501.17161)
      <br/>**Baichuan-Omni-1.5**, un model omnimodal avansat dezvoltat de ***Baichuan Inc***.
      <br/> Acest model este conceput pentru a înțelege și a genera conținut în mai multe modalități(multi-modal), inclusiv text, imagini, audio și video.<br/> 
      <br/>Modelul poate procesa și genera text și vorbire de înaltă calitate din intrări text, imagine, audio și video, permițând interacțiuni intermodale fără întreruperi.
@@ -81,7 +81,7 @@ Acum sa vedem pe scurt(in rezumat), cateva ***lucrari*** abordate în / ***abord
      <br/>Modelul este antrenat pe aproximativ 500 de miliarde de puncte de date multimodale de înaltă calitate, folosind o strategie de antrenament în mai multe etape care integrează-progresiv alinierea(aducerea la acelasi numitor comun) multi-modală și reglarea fină(**fine-tuning**) a mai multor sarcini.<br/>
      <br/>Canalul de instruire/invatare/formare/antrenare(training) implică etape care încorporează-progresiv viziunea(imagine,video) și audio în **LLM**(eminamente textual), urmate de reglaj-fin(**fine-tuning**) supravegheat cu date omni-modale.<br/>
 
-     <br/>[***SFT-Memorizes, RL-Generalizes: A Comparative Study of Foundation Model Post-training***](https://media.licdn.com/dms/image/v2/D4D12AQECyR29nuOTPg/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1738609451688?e=1744243200&v=beta&t=Wfqmd54SFNi3uhaGABY2NYPDNUaAOtsuAw3lrBaUqkE) / [***SFT-memorează, RL-generalizează: Un studiu comparativ al modelului de fundație post-formare/antrenare***](https://arxiv.org/pdf/2501.17161)
+     <br/>d2)[***SFT-Memorizes, RL-Generalizes: A Comparative Study of Foundation Model Post-training***](https://media.licdn.com/dms/image/v2/D4D12AQECyR29nuOTPg/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1738609451688?e=1744243200&v=beta&t=Wfqmd54SFNi3uhaGABY2NYPDNUaAOtsuAw3lrBaUqkE) / [***SFT-memorează, RL-generalizează: Un studiu comparativ al modelului de fundație post-formare/antrenare***](https://arxiv.org/pdf/2501.17161)
    <br/>Această lucrare investighează efectele reglajului fin supravegheat (**SFT**) și ale învățării prin consolidare (**RL**) asupra capacităților de generalizare și memorare ale modelelor de bază(**LLM**), concentrându-se atât pe mediile bazate pe text, cât și pe cele vizuale(imagini/video).<br/> 
 <br/>Generalizare vs. Memorare:<br/>
 <br/>**RL Generalizes**: **RL**, mai ales atunci când este antrenat/întărit cu o recompensă bazată pe rezultate, arată o generalizare mai bună atât în ​​mediile textuale, cât și în cele vizuale(imagine,video) bazate pe reguli.<br/>
