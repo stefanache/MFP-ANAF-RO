@@ -27,7 +27,7 @@ Pentru inceput, pentru a intelege cu usurinta, acest articol/săptămânal, vom 
  - **SFT** = Supervised Fine-Tuning = reglare-Fină Supravegheată.
  - **CFT** = Critique Fine-Tuning = reglare Fină Critică.
  - **RL**  = Reinforcement Learning = învățăre prin consolidare/întărire(cu o recompensă bazată pe rezultate).
- - **OOD** = Out-Of-Distribution = ([detectia](https://www.sciencedirect.com/science/article/abs/pii/S0950705125000231)) în(of)-afara(out)-Distribuției.  
+ - [**OOD**](https://paperswithcode.com/task/ood-detection) = Out-Of-Distribution = ([detectia](https://www.sciencedirect.com/science/article/abs/pii/S0950705125000231)) în(of)-afara(out)-Distribuției.  
  - **GR** = [GuardReasoner](https://arxiv.org/html/2501.18492v1) = model de Gardă bazat pe Raționament(metodologia GuardReasoner; de la ***imitatie*** la **garantii**).
  - **GRT** = GuardReasonerTrain = Setul de antrenare/antrenament(train) al modelului GuardReasoner(GR)
  - **RDS** = Reasoning Data Synthesis = Sinteza Datelor de Raționament
@@ -90,7 +90,7 @@ Acum sa vedem pe scurt(in rezumat), cateva ***lucrari*** abordate în / ***abord
 <br/>**SFT-Memorizes**: **SFT** tinde să memoreze datele de antrenament și se luptă să generalizeze la scenarii în afara distribuției([**OOD**](https://arxiv.org/abs/2308.10261)).<br/>
 <br/>**RL** îmbunătățește capacitățile de recunoaștere vizuală de bază ale modelului, contribuind la o generalizare îmbunătățită în domeniile vizuale.
 <br/>**SFT** este încă util pentru antrenamentul RL eficient, deoarece stabilizează formatul de ieșire al modelului, permițând RL ulterior să obțină câștiguri de performanță.<br/>
-<br/>**RL** îmbunătățește constant performanța **OOD** în toate sarcinile, în timp ce **SFT** arată o degradare a performanței.
+<br/>**RL** îmbunătățește constant performanța [**OOD**](https://encord.com/blog/what-is-out-of-distribution-ood-detection/) în toate sarcinile, în timp ce **SFT** arată o degradare a performanței.
 <br/>Creșterea calculului **RL** îmbunătățește acuratețea recunoașterii vizuale în [**VLM**](https://encord.com/blog/vision-language-models-guide/)-uri, în timp ce scalarea **SFT** deteriorează atât recunoașterea vizuală, cât și performanța generală.<br/>
 <br/>Lucrarea demonstrează că **RL** este superior **SFT** în dobândirea de cunoștințe generalizabile în sarcini complexe, multimodale.
 <br/>Cu toate acestea, **SFT** este încă crucial pentru stabilizarea formatului de ieșire al modelului, permițând antrenamentul **RL** eficient.<br/>
