@@ -1,6 +1,8 @@
 Salutare,
 
-In acest [studiu](https://www.linkedin.com/pulse/ai-research-roundup-safety-scaling-multimodal-breakthroughs-dynuf/) din seria "Rezumatelor din sfera cercetărilor AI", au aparut, o seama de termeni/prescurtări, des utiliza[ți/te]:
+In acest [studiu](https://www.linkedin.com/pulse/ai-research-roundup-safety-scaling-multimodal-breakthroughs-dynuf/) din seria "Rezumatelor din sfera cercetărilor AI", au aparut, o seama de termeni/prescurtări, des utiliza[ți/te].
+
+Pentru a fi inteles, cu usurinta, acest articol, vom trece in revista, cativa dintre acesti termeni:
 
  - LLM - Modele de Limbaj mari(scalate la diverse marimi 1B, 3B, 8B...).
  - SFT = Supervised Fine-Tuning = reglare-Fină Supravegheată.
