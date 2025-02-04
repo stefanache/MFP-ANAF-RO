@@ -2,6 +2,7 @@ Salutare,
 
 In acest [studiu](https://www.linkedin.com/pulse/ai-research-roundup-safety-scaling-multimodal-breakthroughs-dynuf/) din seria "Rezumatelor din sfera cercetărilor AI", au aparut, o seama de termeni/prescurtări, des utiliza[ți/te]:
 
+ - LLM - Modele de Limbaj mari
  - SFT = Supervised Fine-Tuning = reglare-Fină Supravegheată
  - CFT = Critique Fine-Tuning = reglare Fină Critică
  - RL  = Reinforcement Learning = învățăre prin consolidare
