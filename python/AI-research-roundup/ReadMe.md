@@ -6,9 +6,10 @@ In acest [studiu](https://www.linkedin.com/pulse/ai-research-roundup-safety-scal
  - SFT = Supervised Fine-Tuning = reglare-Fină Supravegheată
  - CFT = Critique Fine-Tuning = reglare Fină Critică
  - RL  = Reinforcement Learning = învățăre prin consolidare
- - R-SFT = Reasoning Supervised Fine-Tuning = reglaj-Fin Supravegheat bazat pe/de Raționament(mod/model de gândire-asemănătoare omului)  
  - OOD = Out-Of-Distribution = în afara Distribuției
- - DPO = Direct Preference Optimization = Optimizarea Directă a Preferințelor
- - HS-DPO = Hard-Sample Direct Preference Optimization = - Optimizarea Directă a Preferințelor pentru esantioanele/[mostrele](https://www.google.com/search?q=mostre+sau+monstre&rlz=1C1CHBF_enRO1132RO1132&oq=mostre+sau+monstre&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIKCAEQABgKGBYYHjIKCAIQABiABBiiBNIBCTYwMzhqMGoxNagCCLACAQ&sourceid=chrome&ie=UTF-8) dure
- - [GuardReasoner](https://arxiv.org/html/2501.18492v1) = model de Gardă bazat pe Raționament
+ - DPO = Direct Preference Optimization = Optimizarea Directă a Preferințelor-
+ - GR = [GuardReasoner](https://arxiv.org/html/2501.18492v1) = model de Gardă bazat pe Raționament(metodologia GuardReasoner)
+ - R-SFT = Reasoning Supervised Fine-Tuning = reglaj-Fin Supravegheat bazat pe/de Raționament(mod/model de gândire-asemănătoare omului) -  
+ - HS-DPO = Hard-Sample Direct Preference Optimization = - Optimizarea Directă a Preferințelor pentru esantioanele/[mostrele](https://www.google.com/search?q=mostre+sau+monstre&rlz=1C1CHBF_enRO1132RO1132&oq=mostre+sau+monstre&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIKCAEQABgKGBYYHjIKCAIQABiABBiiBNIBCTYwMzhqMGoxNagCCLACAQ&sourceid=chrome&ie=UTF-8) dure - mod de abordăre privind instruirea/invatare/antrenarea pt indeplinirea sarcinilor cf metodologiei GuardReasoner
+
  - 
