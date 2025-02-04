@@ -70,7 +70,7 @@ Acum sa vedem pe scurt(in rezumat), cateva ***lucrari*** abordate în / abordăr
    <br/>Această lucrare investighează efectele reglajului fin supravegheat (**SFT**) și ale învățării prin consolidare (**RL**) asupra capacităților de generalizare și memorare ale modelelor de bază(**LLM**), concentrându-se atât pe mediile bazate pe text, cât și pe cele vizuale(imagini/video).<br/> 
 <br/>Generalizare vs. Memorare:<br/>
 <br/>**RL Generalizes**: **RL**, mai ales atunci când este antrenat/întărit cu o recompensă bazată pe rezultate, arată o generalizare mai bună atât în ​​mediile textuale, cât și în cele vizuale(imagine,video) bazate pe reguli.<br/>
-<br/>**SFT-Memorizes**: **SFT*** tinde să memoreze datele de antrenament și se luptă să generalizeze la scenarii în afara distribuției(**OOD**).<br/>
+<br/>**SFT-Memorizes**: **SFT** tinde să memoreze datele de antrenament și se luptă să generalizeze la scenarii în afara distribuției(**OOD**).<br/>
 <br/>**RL** îmbunătățește capacitățile de recunoaștere vizuală de bază ale modelului, contribuind la o generalizare îmbunătățită în domeniile vizuale.
 <br/>**SFT** este încă util pentru antrenamentul RL eficient, deoarece stabilizează formatul de ieșire al modelului, permițând RL ulterior să obțină câștiguri de performanță.<br/>
 <br/>**RL** îmbunătățește constant performanța **OOD** în toate sarcinile, în timp ce **SFT** arată o degradare a performanței.
