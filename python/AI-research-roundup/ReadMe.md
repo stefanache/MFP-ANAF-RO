@@ -1,8 +1,8 @@
-Salutare si ... Bun venit la ...  din această săptămână...
+*Salutare* si ... *Bun venit* la ...  
 
  [**Linkedin: AI Research Roundup**](https://www.google.com/search?q=AI+Research+Roundup&rlz=1C1CHBF_enRO1132RO1132&oq=AI+Research+Roundup&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg8MgYIAhBFGDwyBggDEEUYPNIBCTE3NTBqMGoxNagCCLACAQ&sourceid=chrome&ie=UTF-8)
- 
- unde se explorează:
+
+ din această săptămână,  unde se explorează:
  
  - cele mai recente progrese în modelele **AI**,
  - tehnici de antrenament și ...
