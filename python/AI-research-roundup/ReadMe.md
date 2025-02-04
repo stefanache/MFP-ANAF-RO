@@ -20,6 +20,7 @@ Pentru inceput, pentru a fi inteles, cu usurinta, acest articol, vom trece in re
  - **LLM** - Large Language Model = Modele mari de Limbaj(scalate la diverse marimi/scale/scalari **1B**, **3B**, **8B**, **...**).
  - **VML** - Vision-Language Models = Modele de Limbaj Vizual.<br/>
 
+
  - **SFT** = Supervised Fine-Tuning = reglare-Fină Supravegheată.
  - **CFT** = Critique Fine-Tuning = reglare Fină Critică.
  - **RL**  = Reinforcement Learning = învățăre prin consolidare/întărire(cu o recompensă bazată pe rezultate).
@@ -34,7 +35,8 @@ Pentru inceput, pentru a fi inteles, cu usurinta, acest articol, vom trece in re
    <br/>R-SFT este un mod/o varianta/un modul de abordăre privind instruirea/invatare/antrenarea pt indeplinirea sarcinilor-AI, in conformitate cu  metodologia GuardReasoner(**GR**).
  - **DPO** = Direct Preference Optimization = Optimizarea Directă a Preferințelor(pt mostre/esantioane/samples).   
  - **HS-DPO** = Hard-Sample Direct Preference Optimization = - Optimizarea Directă a Preferințelor pentru esantioanele/[mostrele](https://www.google.com/search?q=mostre+sau+monstre&rlz=1C1CHBF_enRO1132RO1132&oq=mostre+sau+monstre&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIKCAEQABgKGBYYHjIKCAIQABiABBiiBNIBCTYwMzhqMGoxNagCCLACAQ&sourceid=chrome&ie=UTF-8) dure(mostre/exemple/esantioane/probe destinate invatarii/antrenamentului, si care... se află în apropierea graniței/limita de decizie/i);
-   <br/>HS-DPO este un mod/o varianta/un modul de abordăre privind instruirea/invatare/antrenarea pt indeplinirea sarcinilor-AI, in conformitate cu metodologia GuardReasoner(**GR**).
+   <br/>HS-DPO este un mod/o varianta/un modul de abordăre privind instruirea/invatare/antrenarea pt indeplinirea sarcinilor-AI, in conformitate cu metodologia GuardReasoner(**GR**).<br/>
+   
 
  - **ST-TS** = Simple Test-Time Scaling = Scalarea Simpla a Timpului de Testare.
  - **CFT** = Critique Fine-Tuning = ajustarea/Tunarea-Fină Critică.
