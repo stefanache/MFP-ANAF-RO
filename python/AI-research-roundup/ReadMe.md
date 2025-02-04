@@ -1,5 +1,18 @@
 Salutare,
 
+Bun venit la **AI Research Roundup** din această săptămână, unde se explorează
+ - cele mai recente progrese în modelele AI,
+ - tehnici de antrenament și
+ - îmbunătățiri bazate pe raționament. 
+
+Săptămâna aceasta, se evidențiaza lucrări referitoare 
+ - la îmbunătățirea siguranței(garantii de siguranta) modelului lingvistic,
+ - la scalarea capacităților de raționament în timpul testului,
+ - perfecționarea instruirii prin învățarea bazată pe critici,
+ - avansarea in AI-multimodală și contrastarea reglajului supervizat cu învățarea de consolidare. 
+
+Hai să ne scufundăm(mai bine zis sa aprofundăm toate aceste subiecte)!
+
 In acest [***studiu***](https://www.linkedin.com/pulse/ai-research-roundup-safety-scaling-multimodal-breakthroughs-dynuf/), care se refera la seria "Rezumatelor din sfera cercetărilor **AI**", au aparut, o seama de termeni/prescurtări, des utiliza[ți/te].<br>(Multumim [**Linkedin-pulse**](https://www.linkedin.com/pulse/ai-research-roundup-safety-scaling-multimodal-breakthroughs-dynuf) si [**GenAIworks**](https://www.linkedin.com/company/genaiworks/?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3Bqdtvwz5hT727bPTetmJkQA%3D%3D)!!!)
 
 Pentru inceput, pentru a fi inteles, cu usurinta, acest articol, vom trece in revista, cativa dintre acesti termeni:
