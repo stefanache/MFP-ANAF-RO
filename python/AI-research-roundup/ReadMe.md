@@ -55,7 +55,7 @@ Pentru inceput, pentru a intelege cu usurinta, acest articol/săptămânal, vom 
    <br/>Pe măsură ce **LLM**-urile influențează, din ce în ce mai mult, siguranța aplicațiilor critice, asigurarea siguranței acestora, folosind balustrade/protectii, rămâne o provocare cheie/importanta.
    <br/>Această lucrare, propune *GuardReasoner*(**GR**), o nouă protecție pentru **LLM**, prin ghidarea/orientarea/formarea *model*ului de gardă***GM**), pentru a *învăța* să **raționeze**.
    <br/> Concret, creăm mai întâi *setul-de-date(dataset)* <ins>*GuardReasonerTrain*(**GRT**)</ins>, care constă din ***127K***-*mostre/esantioane* cu ***460K***-*pași-de-raționament*(*detaliați*).
-   <br/>Apoi, introducem raționamentul **S*FT*** pentru a <ins>debloca</ins> capacitatea de *raționament* a *model*elor de gardă(**GM**).
+   <br/>Apoi, introducem raționamentul ***SFT*** pentru a <ins>debloca</ins> capacitatea de *raționament* a *model*elor de gardă(**GM**).
    <br/>În plus, prezentăm un *eșantion-dur* de **DPO** pentru a le <ins>consolida</ins> și mai mult capacitatea de *raționament*.
    <br/>În acest fel, *GuardReasoner*(**GR**) obține *performanțe mai bune*, in zona de *explicabilitate/descriere* și de *generalizare/rezumare*.
    <br/>Experimente și analize ample pe ***13*** *etape-de-referință*, a ***3*** *sarcini-de-protecție*, demonstrează superioritatea acestuia(**GR**).
