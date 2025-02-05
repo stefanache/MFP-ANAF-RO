@@ -26,7 +26,7 @@ Pentru inceput, pentru a intelege cu usurinta, acest articol/săptămânal, vom 
    <br/>**LLM**-urile sunt modele lingvistice cu mulți parametri și sunt instruite/antrenate/invatate/formate cu învățare auto-supravegheată([**SAL**](https://en.wikipedia.org/wiki/Supervised_learning)) pe o cantitate mare de text.
  - [**VML**](https://encord.com/blog/vision-language-models-guide/) - Vision-Language Models = Modele de Limbaj Vizual.<br/>
  Aceste modele(**VML**) pot procesa și înțelege modalitățile de limbaj (text) și viziune (imagine) simultan pentru a efectua sarcini avansate de limbaj viziune,
- cum ar fi răspunsul la întrebări vizuale (**VQA**), subtitrărea imaginilor și căutarea text-la-imagine;
+ cum ar fi răspunsul la întrebări vizuale ([**VQA**](https://vision-explorer.allenai.org/visual_question)), subtitrărea imaginilor și căutarea text-la-imagine;
  <br/> Aceste modele pot fi folosite si in cazul *video*-urilor, dat fiind faptul ca un *video* este o insiruire de mai multe cadre/imagini(*sprite*-uri).
  - [**FT**](https://en.wikipedia.org/wiki/Fine-tuning_(deep_learning)) = Fine-Tuning = reglare/Tunare-Fina.
    <br/>În *învățarea-profundă*(**DL**) , *reglarea-fină*([**FT**](https://www.linkedin.com/pulse/building-fine-tuning-large-language-model-generative-ai-tazkera-haque-y8bcc/)) este o abordare/varianta a *transferului-de-învățare*, varianta în care, *parametrii-unui-model*(**LLM**) de *rețea-neuronală*([**NN**](https://en.wikipedia.org/wiki/Neural_network)) **pre-antrenată**, sunt antrenați/invațați/acordați/modificați/ajustați, pe/la *date-noi*.
