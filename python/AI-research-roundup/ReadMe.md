@@ -40,26 +40,8 @@ Pentru inceput, pentru a intelege cu usurinta, acest articol/săptămânal, vom 
  - [**RL**](https://en.wikipedia.org/wiki/Reinforcement_learning)  = Reinforcement Learning = învățăre prin consolidare/întărire(cu o recompensă bazată pe rezultate).
    <br/>*învățare prin întărire* este un termen provenit din psihologie(vezi *întărire și condiționare operantă*).
    <br/><br/>Încadrarea tipică a unui scenariu de *învățare prin întărire*(**RL**):
-   <br/>un agent întreprinde acțiuni într-un mediu, care sunt interpretate într-o recompensă și o reprezentare de stat, care sunt transmise agentului.
-   <br/>Parte dintr-un serial pe *Învățare automată și extragerea datelor
-Paradigme
-Probleme
-Învățare supravegheată
-( clasificare  • regresie )
-Clustering
-Reducerea dimensionalității
-Predicție structurată
-Detectarea anomaliilor
-Rețea neuronală artificială
-Învățare prin întărire
-Q-learningSARSADiferența temporală (TD)Multi-agent Auto-joc
-Învățarea cu oamenii
-Diagnosticarea modelului
-Fundamentele matematice
-Reviste și conferințe
-Articole înrudite
-vte
-Învățarea prin consolidare ( RL ) este o zonă interdisciplinară a învățării automate și a controlului optim, preocupată de modul în care un agent inteligent ar trebui să ia acțiuni într-un mediu dinamic pentru a maximiza un semnal de recompensă. Învățarea prin consolidare este una dintre cele trei paradigme de bază ale învățării automate , alături de învățarea supervizată și învățarea nesupravegheată .
+   <br/>un [agent](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Reinforcement_learning_diagram.svg/500px-Reinforcement_learning_diagram.svg.png) întreprinde acțiuni într-un mediu, care sunt interpretate/evaluate într-o *recompensă* și reprezentate de o *stare*, care sunt transmise agentului.
+   <br/>*Învățarea prin consolidare*(**RL** ) este o zonă interdisciplinară a învățării automate și a controlului optim, preocupată de modul în care un agent inteligent ar trebui să ia acțiuni într-un mediu dinamic pentru a maximiza un semnal de recompensă. Învățarea prin consolidare este una dintre cele trei paradigme de bază ale învățării automate , alături de învățarea supervizată și învățarea nesupravegheată .
  - [**OOD**](https://paperswithcode.com/task/ood-detection) = Out-Of-Distribution = ([detectia](https://www.sciencedirect.com/science/article/abs/pii/S0950705125000231)) în(of)-afara(out)-Distribuției.  
  - [**GR**](https://huggingface.co/papers/2501.18492) = [GuardReasoner](https://arxiv.org/html/2501.18492v1) = model de Gardă bazat pe Raționament(metodologia GuardReasoner; de la ***imitatie*** la **garantii**).
  - [**GRT**](https://github.com/yueliu1999/guardreasoner) = GuardReasonerTrain = Setul de antrenare/antrenament(train) al modelului GuardReasoner(**GR**)
