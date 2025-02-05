@@ -22,6 +22,8 @@ In acest [***studiu***](https://www.linkedin.com/pulse/ai-research-roundup-safet
 <details>
  <summary>Definire-Termeni-Utilizati...</summary>
 
+<hr/>
+
 Pentru inceput, pentru a intelege cu usurinta, acest articol/săptămânal, vom trece in revistă, cativa dintre acesti termeni:
 
 <details>
@@ -189,6 +191,9 @@ eforturi [cationice](https://dexonline.ro/definitie/cationic)(de cautare a etimo
 <hr/>
 
 </details>
+
+<hr/>
+
 </details>
 
 <details>
