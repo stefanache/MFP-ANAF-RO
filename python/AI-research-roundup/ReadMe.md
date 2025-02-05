@@ -96,7 +96,7 @@ Pentru inceput, pentru a intelege cu usurinta, acest articol/săptămânal, vom 
 
  - [**ST-TS**](https://arxiv.org/abs/2501.19393) = Simple Test-Time Scaling = Scalarea Simpla a Timpului de Testare.
 <br/> Test-time scaling([*ST-TS*](https://arxiv.org/pdf/2501.19393)) este o abordare promițătoare, a modelarii limbajului(**LM**), care folosește compoziția suplimentară, la/pe timpul/momentul/durata-de-testare, pentru a îmbunătăți performanța.
-<br/> Modelul **o1** al ***OpenAI***, a arătat această capacitate, dar nu a publicat(să-și împărtășească în mod clar( metodologia, ducând la multe repli-
+<br/> Modelul **o1** al ***OpenAI***, a arătat această capacitate, dar nu a publicat(să-și împărtășească, în mod clar...) metodologia, ducând la multe repli-
 eforturi [cationice](https://dexonline.ro/definitie/cationic)(de cautare a etimologiei).
 <br/>Căutăm, cea mai simplă abordare, de atingere a,  scalarii timpului/duratei-de-testare și mai cautam in plus si un raționament puternic-performa[n]t.
 <br/>În primul rând, organizăm un mic(small) set/esantion de date/dataset/samples/exemple, **s1K**, de ***1.000 de întrebări***, asociate cu urme(care ne arata modul de gandire) de raționament, bazându-ne pe *trei(3) criterii*, pe care le validăm(verificam), prin ablațiuni(indepartari/taieri/inlaturari de exemple, care nu corespund/indeplinesc cel[or/e] 3 criterii de validare): *dificultate*, *diversitate* și *calitate*.
