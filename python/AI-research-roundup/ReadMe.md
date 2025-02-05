@@ -19,6 +19,9 @@ Hai să ne *scufundăm*(mai bine zis... sa *aprofundăm*.... toate aceste subiec
 
 In acest [***studiu***](https://www.linkedin.com/pulse/ai-research-roundup-safety-scaling-multimodal-breakthroughs-dynuf/) complex, care se refera la seria "*Rezumatelor din sfera cercetărilor **AI***", au aparut, o seama de <br/>termeni/prescurtări, des utiliza[ți/te].
 
+<details>
+ <summary>Definire-Termeni-Utilizati...</summary>
+
 Pentru inceput, pentru a intelege cu usurinta, acest articol/săptămânal, vom trece in revistă, cativa dintre acesti termeni:
 
  - [**LLM**](https://en.wikipedia.org/wiki/Large_language_model) - Large Language Model = Modele mari de Limbaj(scalate la diverse marimi/scale/scalari **1B**, **3B**, **8B**, **...**).
@@ -105,6 +108,8 @@ eforturi [cationice](https://dexonline.ro/definitie/cationic)(de cautare a etimo
 <br/>După reglarea-fină(**FT**) supravegheată(**SFT**), a modelului de limbaj(*LM*) **Qwen2.5-32B-Instruct**,  pe esantionul **s1K** și echipat *<ins>cu</ins> forțarea-bugetului*(modelul acesta imbunatatit) **s1-32B**, la întrebările concursului de matematică, depaseste modelul **o1-Preview**, cu până la **27%**(pt. sarcinile/task-urile/întrebările concursurilor de matematică: ***MATH*** și ***AIME24***).
 <br/>Mai departe, scalarea **s1-32B** *<ins>cu</ins> forțarea bugetului*, permite extrapolarea performanțelor sale, depășindu-le pe cele ale modelului standard/obisnut, adica cel *<ins>fără</ins> interventie*, in/pe timpul/durata-de-testare: de la **50%**la **57%** pe/pt sarcina **AIME24**.
 <br/>*Modelul*, *datele* și *codul* sunt <ins>open-source</ins> la adresa: [*https://github.com/simplescaling/s1*.](https://github.com/simplescaling/s1)
+
+</details>
 
 Acum sa vedem pe scurt(in rezumat), cateva ***lucrari*** abordate în / ***abordări*** din... acest complex [articol/studiu](https://www.linkedin.com/pulse/ai-research-roundup-safety-scaling-multimodal-breakthroughs-dynuf/):
 
