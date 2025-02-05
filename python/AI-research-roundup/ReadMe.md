@@ -73,7 +73,7 @@ Pentru inceput, pentru a intelege cu usurinta, acest articol/săptămânal, vom 
   </code>
  </pre>
  - [**RDS**](https://arxiv.org/abs/2403.02333) = Reasoning Data Synthesis = Sinteza Datelor de Raționament
-   <br/>RDS este un mod/o varianta/un modul de abordăre privind instruirea/invatare/formarea/antrenarea pt indeplinirea sarcinilor-AI, in conformitate cu  metodologia GuardReasoner(GR). 
+   <br/>*RDS* este un mod/o varianta/un modul de abordăre privind instruirea/invatarea/formarea/antrenarea pt indeplinirea sarcinilor-AI, in conformitate cu  metodologia *GuardReasoner*(**GR**). 
  - [**R-SFT**](https://www.invisible.co/blog/what-is-supervised-fine-tuning) = Reasoning Supervised Fine-Tuning = reglaj-Fin Supravegheat bazat pe/de Raționament(Reasoning: mod/modul/model de gândire-asemănătoare omului);
    <br/>Capacitatea/Abilitatea de a raționa este crucială/extrem de importantă pentru **LLM**-uri, permițându-le să ***imite*** modele de gândire asemănătoare omului.
    <br/>R-SFT este un mod/o varianta/un modul de abordăre privind instruirea/invatare/formarea/antrenarea pt indeplinirea sarcinilor(***tasks***)-**AI**, in conformitate cu  metodologia GuardReasoner(**GR**).
