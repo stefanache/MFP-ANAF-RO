@@ -29,7 +29,7 @@ Pentru inceput, pentru a intelege cu usurinta, acest articol/săptămânal, vom 
  cum ar fi răspunsul la întrebări vizuale (**VQA**), subtitrărea imaginilor și căutarea text-la-imagine;
  <br/> Aceste modele pot fi folosite si in cazul *video*-urilor, dat fiind faptul ca un *video* este o insiruire de mai multe cadre/imagini(*sprite*-uri).
  - [**FT**](https://en.wikipedia.org/wiki/Fine-tuning_(deep_learning)) = Fine-Tuning = reglare/Tunare-Fina.
-   <br/>În învățarea profundă(**DL**) , reglarea-fină(**FT**) este o abordare a transferului de învățare, în care parametrii unui model(**LLM**) de rețea neuronală(**NN**) pre-antrenată, sunt antrenați, pe date noi.
+   <br/>În învățarea profundă(**DL**) , reglarea-fină(**FT**) este o abordare a *transferului-de-învățare*, în care parametrii unui model(**LLM**) de rețea neuronală(**NN**) pre-antrenată, sunt antrenați, pe date noi.
    <br/>Reglarea-fină(**FT**) se poate face pe întreaga rețea neuronală(**NN**), sau doar pe un subset de straturi ale acesteia(**NN**), caz în care straturile care nu sunt reglate-fin(**FT**) sunt „*înghețate*”(adică, nu sunt modificate în timpul *retro-propagarii*).
    <br/>Un model(**LLM**) poate fi, de asemenea, mărit cu „*adaptoare*”, care constau din mult mai puțini parametrii, decât modelul(**LLM**) original și reglat-fin(**FT**) într-un mod eficient, din punct de vedere(d.p.d.v.) al parametrilor, prin reglarea greutăților adaptoarelor și lăsând, restul greutăților modelului(**LLM**), *înghețate*.
  - [**SFT**](https://huggingface.co/docs/trl/sft_trainer) = Supervised Fine-Tuning = reglare-Fină Supravegheată.
