@@ -25,7 +25,7 @@ Pentru inceput, pentru a intelege cu usurinta, acest articol/săptămânal, vom 
  - [**VML**](https://encord.com/blog/vision-language-models-guide/) - Vision-Language Models = Modele de Limbaj Vizual.<br/>
  - [**FT**](https://en.wikipedia.org/wiki/Fine-tuning_(deep_learning)) = Fine-Tuning = reglare/Tunare-Fina.
  - [**SFT**](https://huggingface.co/docs/trl/sft_trainer) = Supervised Fine-Tuning = reglare-Fină Supravegheată.
- - [**CFT**](https://arxiv.org/pdf/2501.17703?) = Critique Fine-Tuning = reglare Fină Critică.
+ - [**CFT**](https://arxiv.org/pdf/2501.17703?) = Critique Fine-Tuning = reglare-Fină Critică.
  - [**RL**](https://en.wikipedia.org/wiki/Reinforcement_learning)  = Reinforcement Learning = învățăre prin consolidare/întărire(cu o recompensă bazată pe rezultate).
  - [**OOD**](https://paperswithcode.com/task/ood-detection) = Out-Of-Distribution = ([detectia](https://www.sciencedirect.com/science/article/abs/pii/S0950705125000231)) în(of)-afara(out)-Distribuției.  
  - [**GR**](https://huggingface.co/papers/2501.18492) = [GuardReasoner](https://arxiv.org/html/2501.18492v1) = model de Gardă bazat pe Raționament(metodologia GuardReasoner; de la ***imitatie*** la **garantii**).
