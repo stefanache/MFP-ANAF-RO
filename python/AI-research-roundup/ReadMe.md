@@ -79,7 +79,16 @@ Pentru inceput, pentru a intelege cu usurinta, acest articol/săptămânal, vom 
    <br/>Capacitatea/Abilitatea de a raționa este crucială/extrem de importantă pentru **LLM**-uri, permițându-le să ***imite*** modele de gândire asemănătoare omului.
    <br/>[*R-SFT*](https://arxiv.org/pdf/2403.02333) este un mod/o varianta/un modul de abordăre privind instruirea/invatare/formarea/antrenarea pt indeplinirea sarcinilor(***tasks***)-**AI**, in conformitate cu  metodologia GuardReasoner(**GR**).
  - [**DPO**](https://arxiv.org/abs/2305.18290) = Direct Preference Optimization = Optimizarea Directă a Preferințelor(pt mostre/esantioane/samples).
-   <br/>[*DPO*](https://arxiv.org/pdf/2305.18290)   
+   <br/>În timp ce, modelele lingvistice(***LM***) nesupravegheate(***unSLM***), la scară largă(**LLM**), *învață* cunoștințe generale ale lumii,
+marginea și unele abilități de *raționament*, obținerea unui *control-precis al comportamentului-lor*(**unSLLM**) este dificilă(din cauza naturii complet nesupravegheate a pregătirii lor).
+<br/>Existent metodele de dobândire a unei astfel de direcții colectează etichete umane de calitate relativă a modelați generațiile și ajustați ***LM*** nesupravegheat pentru a se alinia cu aceste preferințe, de multe ori cu *învățare prin consolidare din feedbackul uman*(***RLHF***).
+<br/>Cu toate acestea, ***RLHF*** este o procedură complexă și adesea instabilă, potrivită mai întâi unui model de *recompensă* care
+reflectă preferințele umane și apoi reglajul ***LM*** mare *nesupravegheat* folosind *învățarea prin întărire* pentru a maximiza această *recompensă* estimată fără a devia prea departe de modelul original.
+<br/>În această lucrare se introduce o nouă parametrizare a modelului de recompensă în ***RLHF*** care permite extragerea *optimu*lui corespunzător
+politică în formă închisă, permițându-ne să rezolvăm problema standard ***RLHF*** doar cu a pierdere simplă de clasificare. Algoritmul rezultat, pe care îl numim *Direct Preference Optimization*([*DPO*](https://arxiv.org/pdf/2305.18290)), este stabilă, performantă și ușoară din punct de vedere computațional,eliminând necesitatea eșantionării din ***LM** în timpul reglajului-fin sau al interpretării reglaj semnificativ hiperparametric.
+<br/>Experimentele noastre arată că *DPO* se poate regla fin *LM*-ul să se alinieze la preferințele umane, precum și sau mai bine decât metodele existente.
+<br/>În special, reglarea fină cu *DPO* depășește ***RLHF*** bazat pe **PPO** în capacitatea de a controla senzorii.
+generații și potrivește sau îmbunătățește calitatea răspunsului în rezumat și dialog într-o singură tură, fiind în același timp substanțial mai simplu de implementat și instruit. 
  - [**HS-DPO**](https://www.threads.net/@theturingpost/post/DFgdZq7MRJ_) = Hard-Sample Direct Preference Optimization = - Optimizarea Directă a Preferințelor pentru esantioanele/[mostrele](https://www.google.com/search?q=mostre+sau+monstre&rlz=1C1CHBF_enRO1132RO1132&oq=mostre+sau+monstre&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIKCAEQABgKGBYYHjIKCAIQABiABBiiBNIBCTYwMzhqMGoxNagCCLACAQ&sourceid=chrome&ie=UTF-8) dure(mostre/exemple/esantioane/probe destinate invatarii/antrenamentului, si care... se află în apropierea graniței/limita de decizie/i);
    <br/>*HS-DPO* este un mod/o varianta/un modul/o varianta de abordare privind instruirea/invatare/antrenarea pt indeplinirea sarcinilor-AI, in conformitate cu metodologia GuardReasoner(**GR**).<br/> 
 
