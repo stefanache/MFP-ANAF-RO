@@ -111,6 +111,9 @@ eforturi [cationice](https://dexonline.ro/definitie/cationic)(de cautare a etimo
 
 </details>
 
+<details>
+ <summary>Lucrari abordate/studiate, in aceasta saptamana, de catre renumita publicatie/revista online...<b>AI Research Roundup</b>... </summary>
+ 
 Acum sa vedem pe scurt(in rezumat), cateva ***lucrari*** abordate în / ***abordări*** din... acest complex [articol/studiu](https://www.linkedin.com/pulse/ai-research-roundup-safety-scaling-multimodal-breakthroughs-dynuf/):
 
  - [a)***GuardReasoner: Towards Reasoning-based LLM Safeguards***](https://media.licdn.com/dms/image/v2/D4D12AQETgqODoeNclw/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1738609408068?e=1744243200&v=beta&t=QbYLdtFfZmuj79a0NUd7mvWuec5o8avTPALdZtYAJ5o) / [***GuardReasoner: către garanții LLM bazate pe raționament***](https://arxiv.org/pdf/2501.18492) 
@@ -163,4 +166,5 @@ Acum sa vedem pe scurt(in rezumat), cateva ***lucrari*** abordate în / ***abord
 <br/>Lucrarea demonstrează că **RL** este superior **SFT** în dobândirea de cunoștințe generalizabile în sarcini complexe, multimodale.
 <br/>Cu toate acestea, **SFT** este încă crucial pentru stabilizarea formatului de ieșire al modelului, permițând antrenamentul **RL** eficient.<br/>
 
+</details>
    
