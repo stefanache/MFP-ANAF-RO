@@ -39,8 +39,9 @@ Pentru inceput, pentru a intelege cu usurinta, acest articol/săptămânal, vom 
     <br/>Inspirat de *învățarea-umană*(procese care pun accent pe gândirea critică), **C*FT*** încurajează analiza mai profundă și nenuanțat(ă) - de înțelegere — trăsături adesea trecute cu vederea de către standardul **S*FT***.
  - [**RL**](https://en.wikipedia.org/wiki/Reinforcement_learning)  = Reinforcement Learning = învățăre prin consolidare/întărire(cu o recompensă bazată pe rezultate).
    <br/>*învățare prin întărire* este un termen provenit din psihologie(vezi *întărire și condiționare operantă*).
-   <br/><br/>Încadrarea tipică a unui scenariu de *învățare prin întărire*(**RL**):
-   <br/>un [agent](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Reinforcement_learning_diagram.svg/500px-Reinforcement_learning_diagram.svg.png) întreprinde acțiuni într-un mediu, care sunt interpretate/evaluate într-o *recompensă* și reprezentate de o *stare*, care sunt transmise agentului.
+   <br/><br/>Încadrarea tipică a unui scenariu de *învățare prin întărire*([**RL**](https://en.wikipedia.org/wiki/Reinforcement_learning)):
+   <br/>un [agent](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Reinforcement_learning_diagram.svg/500px-Reinforcement_learning_diagram.svg.png) întreprinde acțiuni într-un mediu, care sunt interpretate/evaluate într-o *recompensă* și reprezentate de o *stare*, care sunt transmise agentului.<br/>
+   
    <br/>*Învățarea prin consolidare*(**RL** ) este o zonă interdisciplinară a învățării automate și a controlului optim, preocupată de modul în care un agent inteligent ar trebui să ia acțiuni într-un mediu dinamic pentru a maximiza un semnal de recompensă. Învățarea prin consolidare este una dintre cele trei paradigme de bază ale învățării automate , alături de învățarea supervizată și învățarea nesupravegheată .
  - [**OOD**](https://paperswithcode.com/task/ood-detection) = Out-Of-Distribution = ([detectia](https://www.sciencedirect.com/science/article/abs/pii/S0950705125000231)) în(of)-afara(out)-Distribuției.  
  - [**GR**](https://huggingface.co/papers/2501.18492) = [GuardReasoner](https://arxiv.org/html/2501.18492v1) = model de Gardă bazat pe Raționament(metodologia GuardReasoner; de la ***imitatie*** la **garantii**).
