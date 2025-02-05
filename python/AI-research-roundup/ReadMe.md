@@ -8,7 +8,7 @@
  - îmbunătățiri bazate pe raționament. 
 
 Săptămâna aceasta, se evidențiaza lucrări referitoare la ...
- - a)îmbunătățirea siguranței(garantii de siguranta) modelului lingvistic,
+ - a)îmbunătățirea siguranței(garantii de siguranta ale...) modelului lingvistic,
  - b)scalarea capacităților de raționament în timpul testului,
  - c)perfecționarea instruirii prin învățarea bazată pe critici,
  - d1)avansarea in **AI**-multimodală și ...<br/>d2)contrastarea/compararea reglajului supervizat cu învățarea de consolidare(**RL**). 
