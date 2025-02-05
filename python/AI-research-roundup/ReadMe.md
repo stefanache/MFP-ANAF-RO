@@ -64,12 +64,13 @@ Pentru inceput, pentru a intelege cu usurinta, acest articol/săptămânal, vom 
  - [**GRT**](https://huggingface.co/datasets/yueliu1999/GuardReasonerTrain) = GuardReasonerTrain = Setul de antrenare/antrenament(**train**) al modelului *GuardReasoner*([**GR**](https://github.com/yueliu1999/guardreasoner))
  - <br/>*GuardReasonerTrain* sunt *datele-de-instruire* pentru **R-SFT** ale *GuardReasoner*([Cod](https://github.com/yueliu1999/GuardReasoner/): **GR**), așa cum este descris în lucrarea "GuardReasoner: Towards Reasoning-based LLM Safeguards".
 <br> Iata aici modul de utilizare:
-
+<code>
     from datasets import load_dataset
     
     # Login using e.g. `huggingface-cli login` to access this dataset
     ds = load_dataset("yueliu1999/GuardReasonerTrain")
 
+</code>
  - [**RDS**](https://arxiv.org/abs/2403.02333) = Reasoning Data Synthesis = Sinteza Datelor de Raționament
    <br/>RDS este un mod/o varianta/un modul de abordăre privind instruirea/invatare/formarea/antrenarea pt indeplinirea sarcinilor-AI, in conformitate cu  metodologia GuardReasoner(GR). 
  - [**R-SFT**](https://www.invisible.co/blog/what-is-supervised-fine-tuning) = Reasoning Supervised Fine-Tuning = reglaj-Fin Supravegheat bazat pe/de Raționament(Reasoning: mod/modul/model de gândire-asemănătoare omului);
