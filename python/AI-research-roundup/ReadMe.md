@@ -23,6 +23,9 @@ Pentru inceput, pentru a intelege cu usurinta, acest articol/săptămânal, vom 
 
  - [**LLM**](https://en.wikipedia.org/wiki/Large_language_model) - Large Language Model = Modele mari de Limbaj(scalate la diverse marimi/scale/scalari **1B**, **3B**, **8B**, **...**).
  - [**VML**](https://encord.com/blog/vision-language-models-guide/) - Vision-Language Models = Modele de Limbaj Vizual.<br/>
+ Aceste modele pot procesa și înțelege modalitățile de limbaj (text) și viziune (imagine) simultan pentru a efectua sarcini avansate de limbaj viziune,
+ <br/>cum ar fi răspunsul la întrebări vizuale (**VQA**), subtitrărea imaginilor și căutarea text-la-imagine;
+ <br/> Aceste modele pot fi folosite si in cazul *video*-urilor, dat fiind faptul ca un *video* este o insiruire de mai multe cadre/imagini(*sprite*-uri).
  - [**FT**](https://en.wikipedia.org/wiki/Fine-tuning_(deep_learning)) = Fine-Tuning = reglare/Tunare-Fina.
  - [**SFT**](https://huggingface.co/docs/trl/sft_trainer) = Supervised Fine-Tuning = reglare-Fină Supravegheată.
  - [**CFT**](https://arxiv.org/pdf/2501.17703?) = Critique Fine-Tuning = reglare-Fină Critică.
