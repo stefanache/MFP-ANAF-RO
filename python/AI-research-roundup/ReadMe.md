@@ -134,7 +134,7 @@ Pentru inceput, in vederea intelegerii, cu usurinta, a acestui articol/săptăm�
    <br/> Sintetizarea datelor de raționament([RDS](https://arxiv.org/html/2412.08864v1)) de înaltă calitate, pentru formarea continuă, s-a dovedit a fi eficientă, în îmbunătățirea performanței, modelelor lingvistice mari(**LLM**).
    <br/> Cu toate acestea, abordările sintetice anterioare se luptă să extindă cu ușurință datele și să suporte costuri mari în urmărirea calității înalte.
    Va propun, spre intelegere, un caz de utilitate/o [lucrare-auxiliara](https://arxiv.org/pdf/2403.02333)...desigur, cu referinte catre *RDS*.
-   <br/> În această [lucrare](https://arxiv.org/pdf/2403.02333), se propun **GSDP**(Graph-based Synthetic Data Pipeline), un cadru economic și scalabil pentru sinteza de date de raționament de înaltă calitate.
+   <br/> În această [lucrare](https://arxiv.org/pdf/2403.02333), se propune **GSDP**(Graph-based Synthetic Data Pipeline), un cadru economic și scalabil pentru sinteza de date de raționament de înaltă calitate.
    <br/> Inspirați de graficele de cunoștințe, s-a extras puncte de cunoștințe din datele-semințe și s-a construit un grafic de relații cu punctele de cunoaștere pentru a explora interconexiunile lor.
    <br/> Explorând relațiile implicite dintre cunoștințe, aceasta metoda(**GSDP**) realizează de 255 ori(×) extinderea a datelor.
    <br/> În plus, **GSDP**, condus de modele open-source, realizează o calitate a sintezei comparabilă cu **GPT-4-0613**, menținând în același timp, costuri cu/de 100 ori(×) mai mici.
