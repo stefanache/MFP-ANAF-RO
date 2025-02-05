@@ -135,7 +135,7 @@ Acum sa vedem pe scurt(in rezumat), cateva ***lucrari*** abordate în / ***abord
  </details>
  
  <details>
- <summary>-b. <b>s1</b>: Simple Test-Time Scaling(<b>ST-TS</b>)</summary>
+ <summary> - b. <b>s1</b>: Simple Test-Time Scaling(<b>ST-TS</b>)</summary>
   
  - b)[***s1: Simple Test-Time Scaling***](https://media.licdn.com/dms/image/v2/D4D12AQGAMOOG_LIz-w/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1738609419796?e=1744243200&v=beta&t=Ftsru31-7BNv1egojySpq3atw2MXXPnqoMiB5F97TIM) / [***s1: Scalare simplă a timpului de testare***](https://arxiv.org/pdf/2501.19393)
    <br/>Lucrarea prezintă **s1**, o nouă abordare a scalarii timpului de testare pentru modelele de limbaj, care își propune să îmbunătățească performanța prin utilizarea calculului suplimentar în timpul testării.
@@ -162,7 +162,7 @@ Acum sa vedem pe scurt(in rezumat), cateva ***lucrari*** abordate în / ***abord
 </details>
 
 <details>
- <summary><br/> - d1. <b>Baichuan-Omni-1.5</b><br/> - d2. <b>SFT</b>-Memorizes <i>vs.</summary>i> <b>RL</b>-Generalizes</summary>
+ <summary><br/> - d1. <b>Baichuan-Omni-1.5</b><br/> - d2. <b>SFT</b>-Memorizes <i>vs</i></summary> <b>RL</b>-Generalizes</summary>
  
  - d1)[***Baichuan-Omni-1.5 Technical Report: Pushing the Boundaries of Omni-Modal AI with 73.3 Benchmark Mastery***](https://media.licdn.com/dms/image/v2/D4D12AQHaviv9ZKEfHA/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1738609441226?e=1744243200&v=beta&t=xu8DVC0orT18YUEBWfme_88Cz97DwtUdRRCNJ4xgP4E) / [***Raport tehnic Baichuan-Omni-1.5: Depășirea limitelor AI omni-modale cu 73.3 Benchmark Mastery***](https://arxiv.org/abs/2501.15368)
      <br/>**Baichuan-Omni-1.5**, un model *omni-modal* avansat dezvoltat de ***Baichuan Inc***.
