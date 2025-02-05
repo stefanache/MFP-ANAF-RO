@@ -198,6 +198,8 @@ eforturi [cationice](https://dexonline.ro/definitie/cationic)(de cautare a etimo
 
 <details>
  <summary>Lucrari abordate/studiate, in aceasta saptamana, de catre renumita publicatie/revista online...<b>AI Research Roundup</b>... </summary>
+
+<hr/>
  
 <br/><br/>Acum sa vedem pe scurt(in rezumat), cateva ***lucrari*** abordate în / ***abordări*** din... acest complex [articol/studiu](https://www.linkedin.com/pulse/ai-research-roundup-safety-scaling-multimodal-breakthroughs-dynuf/):<br/>
 
@@ -286,5 +288,8 @@ eforturi [cationice](https://dexonline.ro/definitie/cationic)(de cautare a etimo
 <hr/>
 
 </details>
+
+<hr/>
+
 </details>
    
