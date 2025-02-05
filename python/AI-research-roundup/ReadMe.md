@@ -8,10 +8,10 @@
  - îmbunătățiri bazate pe raționament. 
 
 Săptămâna aceasta, se evidențiaza lucrări referitoare la ...
- - a)îmbunătățirea siguranței(garantii de siguranta ale...) modelului lingvistic,
- - b)scalarea capacităților de raționament în timpul testului,
- - c)perfecționarea instruirii prin învățarea bazată pe critici,
- - d1)avansarea in **AI**-multimodală și ...<br/>d2)contrastarea/compararea reglajului-fin supervizat(**SFT**) cu/vs. învățarea de consolidare(**RL**). 
+ - a)îmbunătățirea siguranței(garantii de siguranta ale...) modelului lingvistic(**GR**),
+ - b)scalarea capacităților de raționament în timpul testului(**s1**),
+ - c)perfecționarea instruirii prin învățarea bazată pe critici(**CFT**),
+ - d1)avansarea in **AI**-multimodală(LLM: ***Baichuan-Omni-1.5**)** și ...<br/>d2)contrastarea/compararea *reglajului-fin*(**FT**) supervizat(**SFT**) cu/vs. învățarea de consolidare(**RL**). 
 
 <br>(Multumim [**Linkedin-pulse**](https://www.linkedin.com/pulse/ai-research-roundup-safety-scaling-multimodal-breakthroughs-dynuf) - in calitare de *editor/publicator* si [**GenAIworks**](https://www.linkedin.com/company/genaiworks/?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3Bqdtvwz5hT727bPTetmJkQA%3D%3D) - in calitate de *autor/postator*!!!)
 
@@ -84,7 +84,7 @@ Acum sa vedem pe scurt(in rezumat), cateva ***lucrari*** abordate în / ***abord
    <br/> Autorii susțin că [**CFT**](https://arxiv.org/abs/2501.17703) reprezintă un pas semnificativ înainte în a face formarea modelului lingvistic([**LLM**](https://x.com/askalphaxiv/status/1885848467307745559)) și mai eficientă.<br/>
 
  - d1)[***Baichuan-Omni-1.5 Technical Report: Pushing the Boundaries of Omni-Modal AI with 73.3 Benchmark Mastery***](https://media.licdn.com/dms/image/v2/D4D12AQHaviv9ZKEfHA/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1738609441226?e=1744243200&v=beta&t=xu8DVC0orT18YUEBWfme_88Cz97DwtUdRRCNJ4xgP4E) / [***Raport tehnic Baichuan-Omni-1.5: Depășirea limitelor AI omni-modale cu 73.3 Benchmark Mastery***](https://arxiv.org/abs/2501.15368)
-     <br/>**Baichuan-Omni-1.5**, un model omnimodal avansat dezvoltat de ***Baichuan Inc***.
+     <br/>**Baichuan-Omni-1.5**, un model *omni-modal* avansat dezvoltat de ***Baichuan Inc***.
      <br/> Acest model este conceput pentru a înțelege și a genera conținut în mai multe modalități(multi-modal), inclusiv text, imagini, audio și video.<br/> 
      <br/>Modelul poate procesa și genera text și vorbire de înaltă calitate din intrări text, imagine, audio și video, permițând interacțiuni intermodale fără întreruperi.
      <br/>**Baichuan-Omni-1.5** atinge un scor mediu de **73,3** la zece benchmark-uri de înțelegere a imaginii, depășind alte modele precum **GPT-4o-mini**.</br/>
