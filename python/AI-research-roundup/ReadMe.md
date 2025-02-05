@@ -42,8 +42,7 @@ Pentru inceput, pentru a intelege cu usurinta, acest articol/săptămânal, vom 
  - [**GR**](https://huggingface.co/papers/2501.18492) = [GuardReasoner](https://arxiv.org/html/2501.18492v1) = model de Gardă bazat pe Raționament(metodologia GuardReasoner; de la ***imitatie*** la **garantii**).
  - [**GRT**](https://github.com/yueliu1999/guardreasoner) = GuardReasonerTrain = Setul de antrenare/antrenament(train) al modelului GuardReasoner(**GR**)
  - [**RDS**](https://arxiv.org/abs/2403.02333) = Reasoning Data Synthesis = Sinteza Datelor de Raționament
-   <br/>RDS este un mod/o varianta/un modul de abordăre privind instruirea/invatare/formarea/antrenarea pt indeplinirea sarcinilor-AI, in conformitate cu  metodologia GuardReasoner(GR).
- - [**SFT**](https://huggingface.co/docs/trl/sft_trainer) =  Supervised Fine-Tuning = ajustarea/Tunarea Fina Supervizata.  
+   <br/>RDS este un mod/o varianta/un modul de abordăre privind instruirea/invatare/formarea/antrenarea pt indeplinirea sarcinilor-AI, in conformitate cu  metodologia GuardReasoner(GR). 
  - [**R-SFT**](https://www.invisible.co/blog/what-is-supervised-fine-tuning) = Reasoning Supervised Fine-Tuning = reglaj-Fin Supravegheat bazat pe/de Raționament(Reasoning: mod/modul/model de gândire-asemănătoare omului);
    <br/>Capacitatea/Abilitatea de a raționa este crucială/extrem de importantă pentru **LLM**-uri, permițându-le să ***imite*** modele de gândire asemănătoare omului.
    <br/>R-SFT este un mod/o varianta/un modul de abordăre privind instruirea/invatare/formarea/antrenarea pt indeplinirea sarcinilor(***tasks***)-**AI**, in conformitate cu  metodologia GuardReasoner(**GR**).
