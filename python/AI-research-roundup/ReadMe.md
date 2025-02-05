@@ -41,7 +41,7 @@ Pentru inceput, pentru a intelege cu usurinta, acest articol/săptămânal, vom 
    <br/>*învățare prin întărire* -este un termen provenit din- psihologie(a se vedea subiectele [*întărire*](https://en.wikipedia.org/wiki/Reinforcement) și [*condiționare operantă*](https://en.wikipedia.org/wiki/Operant_conditioning).
    <br/><br/>Încadrarea tipică a unui scenariu de *învățare prin întărire*([**RL**](https://en.wikipedia.org/wiki/Reinforcement_learning)):<br/>
    - un [agent](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Reinforcement_learning_diagram.svg/500px-Reinforcement_learning_diagram.svg.png) întreprinde **acțiuni** într-un *mediu*, care sunt
-     - interpretate/evaluate/observate ca-o/într-o *recompensă* și
+     - interpretate/evaluate/observate/recompensate/răsplătite ca-o/într-o *recompensă* și
      - reprezentate de o *stare*,
      care sunt transmise <ins>agentului</ins>.<br/>
    
