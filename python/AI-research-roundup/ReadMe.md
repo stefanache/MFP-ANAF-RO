@@ -41,11 +41,12 @@ Pentru inceput, pentru a intelege cu usurinta, acest articol/săptămânal, vom 
    <br/>*învățare prin întărire* -este un termen provenit din- psihologie(a se vedea subiectele [*întărire*](https://en.wikipedia.org/wiki/Reinforcement) și [*condiționare operantă*](https://en.wikipedia.org/wiki/Operant_conditioning).
    <br/><br/>Încadrarea tipică a unui scenariu de *învățare prin întărire*([**RL**](https://en.wikipedia.org/wiki/Reinforcement_learning)):<br/>
    - un [agent](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Reinforcement_learning_diagram.svg/500px-Reinforcement_learning_diagram.svg.png) întreprinde **acțiuni** într-un *mediu*, care sunt
-     - interpretate/evaluate/observate/recompensate/[răsplătite](https://dexonline.ro/definitie/par%C3%A0nd%C4%83r%C4%83t/534761) ca-o/într-o *recompensă* și
+     - interpretate/evaluate/observate/recompensate/[răsplătite](https://dexonline.ro/definitie/par%C3%A0nd%C4%83r%C4%83t/534761) ca-o/într-o <ins>*recompensă*</ins> și
      - reprezentate de o *stare*,
      care sunt transmise <ins>agentului</ins>.
 
-   *Învățarea prin consolidare*(**RL** ) este o zonă interdisciplinară a învățării automate și a controlului optim, preocupată de modul în care un agent inteligent ar trebui să ia acțiuni într-un mediu dinamic pentru a maximiza un semnal de recompensă. Învățarea prin consolidare este una dintre cele trei paradigme de bază ale învățării automate , alături de învățarea supervizată și învățarea nesupravegheată .
+   *Învățarea prin consolidare*(**RL** ) este o zonă interdisciplinară a **învățării automate(ML**)** și a **controlului optim**, preocupată de(care se ocupa de_ modul în care un <ins>agent-inteligent</ins> ar trebui să ia **acțiuni** într-un *mediu-dinamic* pentru a maximiza un <ins>*semnal-de-recompensă*</ins>.
+   <br/>*Învățarea prin consolidare* este una dintre cele trei paradigme/modele de bază ale **învățării automate(ML**), alături de **învățarea supervizată/supravegheată/etichetată(SL)** și **învățarea nesupravegheată/nesupervizată/neetichetată(unSL)**.
  - [**OOD**](https://paperswithcode.com/task/ood-detection) = Out-Of-Distribution = ([detectia](https://www.sciencedirect.com/science/article/abs/pii/S0950705125000231)) în(of)-afara(out)-Distribuției.  
  - [**GR**](https://huggingface.co/papers/2501.18492) = [GuardReasoner](https://arxiv.org/html/2501.18492v1) = model de Gardă bazat pe Raționament(metodologia GuardReasoner; de la ***imitatie*** la **garantii**).
  - [**GRT**](https://github.com/yueliu1999/guardreasoner) = GuardReasonerTrain = Setul de antrenare/antrenament(train) al modelului GuardReasoner(**GR**)
