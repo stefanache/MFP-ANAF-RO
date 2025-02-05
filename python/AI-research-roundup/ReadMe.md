@@ -162,7 +162,7 @@ Acum sa vedem pe scurt(in rezumat), cateva ***lucrari*** abordate în / ***abord
 </details>
 
 <details>
- <summary>d1.Baichuan-Omni-1.5 & d2.SFT-Memorizes, RL-Generalizes</summary>
+ <summary>d1.Baichuan-Omni-1.5<br/>d2.SFT-Memorizes vs. RL-Generalizes</summary>
  
  - d1)[***Baichuan-Omni-1.5 Technical Report: Pushing the Boundaries of Omni-Modal AI with 73.3 Benchmark Mastery***](https://media.licdn.com/dms/image/v2/D4D12AQHaviv9ZKEfHA/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1738609441226?e=1744243200&v=beta&t=xu8DVC0orT18YUEBWfme_88Cz97DwtUdRRCNJ4xgP4E) / [***Raport tehnic Baichuan-Omni-1.5: Depășirea limitelor AI omni-modale cu 73.3 Benchmark Mastery***](https://arxiv.org/abs/2501.15368)
      <br/>**Baichuan-Omni-1.5**, un model *omni-modal* avansat dezvoltat de ***Baichuan Inc***.
