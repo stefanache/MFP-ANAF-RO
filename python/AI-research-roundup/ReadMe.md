@@ -46,7 +46,7 @@ Pentru inceput, pentru a intelege cu usurinta, acest articol/săptămânal, vom 
      care sunt transmise <ins>agentului</ins>.
 
    *Învățarea prin consolidare*(**RL** ) este o zonă interdisciplinară a **învățării automate(ML**)** și a **controlului optim**, preocupată de(care se ocupa de_ modul în care un <ins>agent-inteligent</ins> ar trebui să ia **acțiuni** într-un *mediu-dinamic* pentru a maximiza un <ins>*semnal-de-recompensă*</ins>.
-   <br/>*Învățarea prin consolidare*(**RL**) este una dintre cele trei(3) paradigme/modele/posibilitati de bază(principale) ale ***învățării automate(ML)***, alături de **învățarea-supervizată/supravegheată/etichetată(SL-supervised-learning)** și de **învățarea-nesupravegheată/nesupervizată/neetichetată(unSL-unsupervised-learning)**.
+   <br/>*Învățarea prin consolidare*(**RL**) este una dintre cele trei(3) paradigme/modele/posibilitati/variante de bază(principale) ale ***învățării automate(ML)***, alături de **învățarea-supervizată/supravegheată/etichetată(SL-supervised-learning)** și de **învățarea-nesupravegheată/nesupervizată/neetichetată(unSL-unsupervised-learning)**.
  - [**OOD**](https://paperswithcode.com/task/ood-detection) = Out-Of-Distribution = ([detectia](https://www.sciencedirect.com/science/article/abs/pii/S0950705125000231)) în(of)-afara(out)-Distribuției.  
  - [**GR**](https://huggingface.co/papers/2501.18492) = [GuardReasoner](https://arxiv.org/html/2501.18492v1) = model de Gardă bazat pe Raționament(metodologia GuardReasoner; de la ***imitatie*** la **garantii**).
  - [**GRT**](https://github.com/yueliu1999/guardreasoner) = GuardReasonerTrain = Setul de antrenare/antrenament(train) al modelului GuardReasoner(**GR**)
