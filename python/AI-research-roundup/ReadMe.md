@@ -95,8 +95,7 @@ Pentru inceput, pentru a intelege cu usurinta, acest articol/săptămânal, vom 
 <br/> • Modelul *compară* <ins>pașii-**buni**-de-raționament</ins> și/cu/vs. <ins>pașii-***răi***-de-raționament</ins>, *învățând să prefere* pașii/raționamentul **corect/bun[i]** față de cei **înșelatori/falsi/incorecti**.<br/>
 
  - [**ST-TS**](https://arxiv.org/abs/2501.19393) = Simple Test-Time Scaling = Scalarea Simpla a Timpului de Testare.
-<br/> [ST-TS*](https://arxiv.org/pdf/2501.19393)
-<br/>Test-time scaling([ST-TS*](https://arxiv.org/pdf/2501.19393)) este o abordare promițătoare a modelarea limbajului(**LM**) care folosește compoziția suplimentară pentru/pe timpul/momentul/durata-de-testare pentru a îmbunătăți performanța.
+<br/> [ST-TS*] - Test-time scaling([ST-TS*](https://arxiv.org/pdf/2501.19393)) este o abordare promițătoare a modelarea limbajului(**LM**) care folosește compoziția suplimentară pentru/pe timpul/momentul/durata-de-testare pentru a îmbunătăți performanța.
 <br/> Modelul **o1** sl ***OpenAI*** a arătat această capacitate, dar nu a publicat(să-și împărtășească în mod clar( metodologia, ducând la multe repli-
 eforturi [cationice](https://dexonline.ro/definitie/cationic)(de cautare a etimologiei).
 <br/>Căutăm cea mai simplă abordare a atingerii scalarii timpului-de-testare și mai cautam si un raționament puternic performat.
