@@ -24,21 +24,46 @@ In acest [***studiu***](https://www.linkedin.com/pulse/ai-research-roundup-safet
 
 Pentru inceput, pentru a intelege cu usurinta, acest articol/săptămânal, vom trece in revistă, cativa dintre acesti termeni:
 
+<details>
+ <summary><b>LLM</b> & <b>VML</b></summary>
+
+ <hr/>
+ 
  - [**LLM**](https://en.wikipedia.org/wiki/Large_language_model) - Large Language Model = Modele mari de Limbaj(scalate la diverse marimi/scale/scalari **1B**, **3B**, **8B**, **...**).
    <br/>Un *model de limbă/Limbaj mare* (**LLM**) este un tip de model de învățare automată(**ML**) conceput pentru sarcini de procesare a limbajului natural(**NLP**), cum ar fi generarea limbajului.
-   <br/>**LLM**-urile sunt modele lingvistice cu mulți parametri și sunt instruite/antrenate/invatate/formate cu învățare auto-supravegheată([**SAL**](https://en.wikipedia.org/wiki/Supervised_learning)) pe o cantitate mare de text.
+   <br/>**LLM**-urile sunt modele lingvistice cu mulți parametri și sunt instruite/antrenate/invatate/formate cu învățare auto-supravegheată([**SAL**](https://en.wikipedia.org/wiki/Supervised_learning)) pe o cantitate mare de text.<br/>
+ 
  - [**VML**](https://encord.com/blog/vision-language-models-guide/) - Vision-Language Models = Modele Vizuale de Limbaj .<br/>
  Aceste modele(**VML**) pot procesa și înțelege modalitățile de limbaj (text) și viziune (imagine) simultan pentru a efectua sarcini avansate de limbaj-viziune/vizual, cum ar fi *răspunsul la întrebări vizuale* ([**VQA**](https://vision-explorer.allenai.org/visual_question)), *subtitrărea imaginilor* și *căutarea text-la-imagine*;
  <br/> Aceste modele pot fi folosite(in mod repetat/recursiv) si in cazul *video*/*videoclip*-urilor, dat fiind faptul ca un *video* este o insiruire de mai multe cadre/imagini(*sprite*-uri). Deci video=**{**imagini**}**.
+
+<hr/>
+
+</details>
+
+<details>
+ <summary><b>FT</b>, <b>SFT</b>, <b>CFT</b> & <b>RL</b></summary>
+
+ <hr/>
+ 
  - [**FT**](https://en.wikipedia.org/wiki/Fine-tuning_(deep_learning)) = Fine-Tuning = reglare/Tunare-Fina.
    <br/>În *învățarea-profundă*(**DL**) , *reglarea-fină*([**FT**](https://www.linkedin.com/pulse/building-fine-tuning-large-language-model-generative-ai-tazkera-haque-y8bcc/)) este o abordare/varianta a *transferului-de-învățare*, varianta în care, *parametrii-unui-model*(**LLM**) de *rețea-neuronală*([**NN**](https://en.wikipedia.org/wiki/Neural_network)) **pre-antrenată**, sunt antrenați/invațați/acordați/modificați/ajustați, pe/la *date-noi*.
    <br/>*Reglarea-fină*([**FT**](https://www.google.com/search?sca_esv=744faba34f407743&rlz=1C1CHBF_enRO1132RO1132&sxsrf=AHTn8zrr0TLZFmUEEwoawJ0AwF5IOI0fkA:1738759617183&q=.avi+fine+tuning+ai+model+llm&udm=2&fbs=ABzOT_BYhiZpMrUAF0c9tORwPGls0vqphpL9nGKy0PrLJqseLh0EQ6IW_YF9DHIKeRA2FImZJj7_nGLmr0IdZilOghZzNgMFk3aJ_aCLgBcYPfMMnTtkxvIFSifbF8fUw2Jv7wsjn4EFAru9uCvKItEWlh6Msc2bc_waqIcpbvO3hgkPwNEnEn1FFfLcV0CGEYhkFgRYo-ax&sa=X&ved=2ahUKEwih1tOqyKyLAxVcVfEDHfgkAi0QtKgLegQIDBAB&biw=1920&bih=911&dpr=1)) se poate face pe <ins>întreaga</ins> *rețea-neuronală*(**NN**), sau doar pe un *<ins>subset-de-straturi</ins>* ale *acesteia*(**NN**), caz în care, *straturile*, care *<ins>nu</ins> sunt reglate-fin*(**FT**), sunt „*înghețate*”(adică, acele *straturi*, [rămân](https://dexonline.ro/definitie/r%C4%83m%C3%AEn/701200) *<ins>ne</ins>modificate*/*<ins>nu</ins> sunt modificate*, în timpul *retro-propagarii*).
-   <br/>Un *model*(**LLM**) poate fi, de asemenea, *<ins>mărit</ins>* cu „*adaptoare*”, care constau din/au mult-mai-puțini *parametrii*, decât *modelul-original*(**LLM**) și  care(**LLM**), apoi este reglat-fin(**FT**), într-un mod eficient(*Parameter-Efficient-Fine-Tuning*=**PEFT**), din punct de vedere(d.p.d.v.) al *parametrilor* sai, prin reglarea/ajustarea/acordarea *greutăților-adaptoarelor*(a se vedea si... Implementarea/ajustarea-**PEFT** eficienta prin *Low-Rank Adaptation*=**LoRA**) și/dar lăsând, restul *greutăților-modelului*(**LLM**), *înghețate*.
+   <br/>Un *model*(**LLM**) poate fi, de asemenea, *<ins>mărit</ins>* cu „*adaptoare*”, care constau din/au mult-mai-puțini *parametrii*, decât *modelul-original*(**LLM**) și  care(**LLM**), apoi este reglat-fin(**FT**), într-un mod eficient(*Parameter-Efficient-Fine-Tuning*=**PEFT**), din punct de vedere(d.p.d.v.) al *parametrilor* sai, prin reglarea/ajustarea/acordarea *greutăților-adaptoarelor*(a se vedea si... Implementarea/ajustarea-**PEFT** eficienta prin *Low-Rank Adaptation*=**LoRA**) și/dar lăsând, restul *greutăților-modelului*(**LLM**), *înghețate*.<br/>
+
+<hr/>
+   
  - [**SFT**](https://huggingface.co/docs/trl/sft_trainer) = Supervised Fine-Tuning = reglare-Fină Supravegheată(Etichetată/Clasificată/Categorisită corespunzator).
-   <br/>*Tunajul/Reglajul-fin(**FT**) supravegheat*(**S*FT***) este utilizat, în mod obișnuit, pt **antrenarea** *model*elor de limbaj(**LLM**), in a <ins>imita</ins>|<ins>cauta</ins>&<ins>reda</ins> *răspunsurile*-*adnotate*(etichetate), la instrucțiunile/regulile/cerintele/task-urile date/incredintate/cerute.
+   <br/>*Tunajul/Reglajul-fin(**FT**) supravegheat*(**S*FT***) este utilizat, în mod obișnuit, pt **antrenarea** *model*elor de limbaj(**LLM**), in a <ins>imita</ins>|<ins>cauta</ins>&<ins>reda</ins> *răspunsurile*-*adnotate*(etichetate), la instrucțiunile/regulile/cerintele/task-urile date/incredintate/cerute.<br/>
+
+<hr/>
+
  - [**CFT**](https://arxiv.org/pdf/2501.17703?) = Critique Fine-Tuning = reglare-Fină Critică.
    <br/>*Tunarea/Reglarea-Fina(**FT**) Critică*(**C*FT***), este o strategie, în care *model*ele(**LLM**), învață să *critice*, răspunsurile zgomotoase(care d.p.d.v al sarcinii, sunt...partial|>**100%** sau total|=**100%** gresite=adica raspunsurile care au/poseda un **grad**=**procent**=**?** ***%*** de **incorectitdine**), mai degrabă/în loc să/decât să le *imite*... pe cele corecte(total-corecte=**100%** *corecte* = **0%** *incorecte*).
-    <br/>Inspirat de *învățarea-umană*(procese care pun accent pe gândirea critică), **C*FT*** încurajează analiza mai profundă și nenuanțat(ă) - de înțelegere — trăsături adesea trecute cu vederea de către standardul **S*FT***.
+    <br/>Inspirat de *învățarea-umană*(procese care pun accent pe gândirea critică), **C*FT*** încurajează analiza mai profundă și nenuanțat(ă) - de înțelegere — trăsături adesea trecute cu vederea de către standardul **S*FT***.<br/>
+
+<hr/>
+
  - [**RL**](https://en.wikipedia.org/wiki/Reinforcement_learning)  = Reinforcement Learning = învățăre prin consolidare/întărire(cu o recompensă bazată pe rezultate).
    <br/>*învățare prin întărire* -este un termen provenit din- psihologie(a se vedea subiectele [*întărire*](https://en.wikipedia.org/wiki/Reinforcement) și [*condiționare operantă*](https://en.wikipedia.org/wiki/Operant_conditioning)).
    <br/><br/>Încadrarea tipică a unui scenariu de *învățare prin întărire*([**RL**](https://en.wikipedia.org/wiki/Reinforcement_learning)):<br/>
@@ -48,12 +73,26 @@ Pentru inceput, pentru a intelege cu usurinta, acest articol/săptămânal, vom 
      care sunt transmise <ins>agentului</ins>.
 
    *Învățarea prin consolidare*(**RL** ) este o zonă interdisciplinară a **învățării automate(ML**)** și a **controlului optim**, preocupată de(care se ocupa de_ modul în care un <ins>agent-inteligent</ins> ar trebui să ia **acțiuni** într-un *mediu-dinamic* pentru a maximiza un <ins>*semnal-de-recompensă*</ins>.
-   <br/>*Învățarea prin consolidare/intarire*(**RL**) este una dintre cele trei(3) paradigme/modele/posibilitati/variante de bază(principale) ale ***învățării automate(ML)***, alături de **învățarea-supervizată/supravegheată/etichetată(SL-supervised-learning)** și de **învățarea-nesupravegheată/nesupervizată/neetichetată(unSL-unsupervised-learning)**.
- - [**OOD**](https://paperswithcode.com/task/ood-detection) = ***Out***-*Of*-**Distribution** = ([detectia](https://www.sciencedirect.com/science/article/abs/pii/S0950705125000231)) în(*Of*)-afara(***Out***)-Distribuției(**Distribution**).
+   <br/>*Învățarea prin consolidare/intarire*(**RL**) este una dintre cele trei(3) paradigme/modele/posibilitati/variante de bază(principale) ale ***învățării automate(ML)***, alături de **învățarea-supervizată/supravegheată/etichetată(SL-supervised-learning)** și de **învățarea-nesupravegheată/nesupervizată/neetichetată(unSL-unsupervised-learning)**.<br/>
+
+<hr/>
+
+</details>   
+
+<details>
+ <summary><b>OOD</b>, <b>GR</b> & <b>GRT</b></summary>
+
+ <hr/>
+ 
+  - [**OOD**](https://paperswithcode.com/task/ood-detection) = ***Out***-*Of*-**Distribution** = ([detectia](https://www.sciencedirect.com/science/article/abs/pii/S0950705125000231)) în(*Of*)-afara(***Out***)-Distribuției(**Distribution**).
    <br/>*Detectarea Out of Distribution*(**OOD**) este sarcina de a *detecta-instanțe*, care *nu aparțin distribuției*, pe care a fost *instruit/invatat/antrenat/format* **clasificatorul**.
    <br/>***Datele***-**OOD** sunt adesea denumite ***date***-„*nevăzute*”, deoarece *model*ul(**LLM**-ul) nu le-a *întâlnit/văzut* în timpul **antrenament***ului*.<br/>
    <br/>*Detectarea-**OOD*** este de obicei efectuată prin**antrenarea/invatarea/formarea** unui *model*(**LLM**) pentru a distinge între ***datele***-*în*-*Distribuție*(**ID = In-Distribution**), pe care *model*ul(**LLM**-ul) le-a *văzut* în timpul **antrenamentului* și **datele**-**OOD**, pe care <ins>*nu*</ins> le-a *văzut*.
    <br/>Acest lucru poate fi realizat folosind o varietate de *tehnici*, cum ar fi ***antrenarea***(separat/ă) a unui ***detector***-**OOD**,  ori ***modificarea***-**arhitecturii** sau modificarea [**funcției-de-pierdere**](https://ro.eitca.org/artificial-intelligence/eitc-ai-adl-advanced-deep-learning/advanced-computer-vision/convolutional-neural-networks-for-image-recognition/what-is-the-mathematical-formula-for-the-loss-function-in-convolution-neural-networks/), a modelului(**LLM**-ului), pentru a-l(pe **LLM**) face mai sensibil, la ***datele***-**OOD**.<br/>  
+
+
+ <hr/>
+ 
  - [**GR**](https://huggingface.co/papers/2501.18492) = [GuardReasoner](https://arxiv.org/html/2501.18492v1) = *model* de *Gardă* bazat pe *Raționament*(metodologia *GuardReasoner*; se trece de la ***imitatie*** la **garantii**).
    <br/>Pe măsură ce **LLM**-urile influențează, din ce în ce mai mult, siguranța aplicațiilor critice, asigurarea siguranței acestora, folosind balustrade/protectii, rămâne o provocare cheie/importanta.
    <br/>Această lucrare, propune *GuardReasoner*(**GR**), o nouă protecție pentru **LLM**, prin ghidarea/orientarea/formarea *model*ului de gardă***GM**), pentru a *învăța* să **raționeze**.
@@ -65,6 +104,7 @@ Pentru inceput, pentru a intelege cu usurinta, acest articol/săptămânal, vom 
    <br/>În mod remarcabil, **GuardReasoner**-**8B** depășește/intrece(ca performanta masurata(, *model*ul **GPT-4o+[CoT](https://learnprompting.org/docs/intermediate/chain_of_thought?srsltid=AfmBOopAoMbWL-h_oQrVQeHttPd3ZF9xB1c7nxBfe91RvbFJuLaDek9C)** cu **5,74%** și *model*ul 
    <br/>**LLaMA Guard 3**-**8B** cu **20,84%**, in privinta *scorului*-**F1**(în *medie*=*AVG-F1*).
    <br/>Au fost lansate/furnizate *datele-de-antrenament/train-dataset*, *codul-sursa* și *modelele*-cu-diferite-scale*(**1B**, **3B**, **8B**) ale/din cadrul [GuardReasoner](https://github.com/yueliu1999/GuardReasoner/).<br/>
+
  - [**GRT**](https://huggingface.co/datasets/yueliu1999/GuardReasonerTrain) = GuardReasonerTrain = Setul de antrenare/antrenament(**train**) al modelului *GuardReasoner*([**GR**](https://github.com/yueliu1999/guardreasoner))
 <br/>*GuardReasonerTrain* sunt *datele-de-instruire/train(dataset/ds-ul)* pentru **R-SFT** ale *GuardReasoner*([Cod](https://github.com/yueliu1999/GuardReasoner/): **GR**), așa cum este descris în lucrarea "[**GuardReasoner**](https://huggingface.co/papers/2501.18492): [***Towards Reasoning-based LLM Safeguards***](https://huggingface.co/papers/2501.18492)".
 <br/>Iata aici modul de utilizare al acestui *GRT-dataset*(**GRT-ds**):
@@ -76,11 +116,35 @@ Pentru inceput, pentru a intelege cu usurinta, acest articol/săptămânal, vom 
       ds = load_dataset("yueliu1999/GuardReasonerTrain")
   </code>
  </pre>
+
+ 
+ <hr/>
+
+ </details>
+
+  <details>
+ <summary><b>RDS</b> & <b>R_SFT</b></summary>
+
+ <hr/>
+ 
  - [**RDS**](https://arxiv.org/abs/2403.02333) = Reasoning Data Synthesis = Sinteza Datelor de Raționament
-   <br/>*RDS* este un mod/o varianta/un modul/o varianta de abordare privind instruirea/invatarea/formarea/antrenarea pt indeplinirea sarcinilor-AI, in conformitate cu  metodologia *GuardReasoner*(**GR**). 
+   <br/>*RDS* este un mod/o varianta/un modul/o varianta de abordare privind instruirea/invatarea/formarea/antrenarea pt indeplinirea sarcinilor-AI, in conformitate cu  metodologia *GuardReasoner*(**GR**).
+
+<hr/>
+
  - [**R-SFT**](https://www.invisible.co/blog/what-is-supervised-fine-tuning) = Reasoning Supervised Fine-Tuning = reglaj-Fin Supravegheat bazat pe/de Raționament(Reasoning: mod/modul/model de gândire-asemănătoare omului);
    <br/>Capacitatea/Abilitatea de a raționa este crucială/extrem de importantă pentru **LLM**-uri, permițându-le să ***imite*** modele de gândire asemănătoare omului.
    <br/>[*R-SFT*](https://arxiv.org/pdf/2403.02333) este un mod/o varianta/un modul de abordăre privind instruirea/invatare/formarea/antrenarea pt indeplinirea sarcinilor(***tasks***)-**AI**, in conformitate cu  metodologia GuardReasoner(**GR**).
+ 
+<hr/>
+
+</details>
+
+<details>
+ <summary><b>DPO</b> & <b>HS-DPO</b></summary>
+
+ <hr/>
+ 
  - [**DPO**](https://arxiv.org/abs/2305.18290) = Direct Preference Optimization = Optimizarea Directă a Preferințelor(pt mostre/esantioane/samples).
    <br/>În timp ce,* modelele lingvistice*(***LM***)-*nesupravegheate*(***unSLM***), la scară largă(**LLM**),adica **unSLLM**, *învață* cunoștințe generale ale lumii, marginea și unele abilități de *raționament*, iar obținerea unui *control-precis al comportamentului-lor*(**unSLLM**) este dificilă(din cauza naturii complet nesupravegheate a pregătirii lor).
 <br/>Metodele de *dobândire/învațare* existente, a unei astfel de direcții(*nesupravegheate*), colectează etichete umane (de-o calitate relativă),atunci canddoriti să modelați generațiile și să ajustați ***LM***-ul-nesupravegheat(**unSLM**-ul), pentru a se alinia cu aceste preferințe, de multe ori, folosind/cu *învățare prin consolidare/intarire/recompensa din *feedbackul*(recompensate de catre noi oamenii, ca urmare a raspunsului/rezultatului obtinut)-*uman*(***RLHF***).
@@ -91,12 +155,24 @@ Pentru inceput, pentru a intelege cu usurinta, acest articol/săptămânal, vom 
 <br/>În special, reglarea-fină(**FT**) cu/bazat *DPO*, depășește [***RLHF***](https://arxiv.org/html/2403.10704v1), bazat pe **PPL Quantization([PPQ](https://github.com/OpenPPL/ppq))**, în capacitatea sa, de a controla senzorii generați și potrivește sau îmbunătățește calitatea răspunsului, în rezumat și dialog, într-o singură tură(dintr-o singura trecere), fiind în același timp, substanțial mai simplu de implementat și instruit/invatat.
 <br/>***Nota***: Perplexitatea([**PPL**](https://github.com/ggerganov/llama.cpp/discussions/4110)) este o măsurătoare foarte aproximativă pentru a vedea cât de multă [cuantificare](https://dexonline.ro/definitie/cuantificare/definitii)(Quantization) modifică de fapt rezultatul final al modelului.
  - [**HS-DPO**](https://www.threads.net/@theturingpost/post/DFgdZq7MRJ_) = Hard-Sample Direct Preference Optimization = ExempleDificile - Optimizarea Directă a Preferințelor pentru esantioanele/[mostrele](https://www.google.com/search?q=mostre+sau+monstre&rlz=1C1CHBF_enRO1132RO1132&oq=mostre+sau+monstre&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIKCAEQABgKGBYYHjIKCAIQABiABBiiBNIBCTYwMzhqMGoxNagCCLACAQ&sourceid=chrome&ie=UTF-8) dure/dificile(mostre/exemple/esantioane/probe destinate invatarii/antrenamentului, si care... se află în apropierea graniței/limita de decizie/i);
+
+<hr/>
+
    <br/>*HS-DPO* este un mod/o varianta/un modul/o varianta de abordare privind instruirea/invatare/antrenarea pt indeplinirea sarcinilor-AI, in conformitate cu metodologia GuardReasoner(**GR**).
    <br/> Metoda/Tehnica/Abordarea *HS-DPO*=ExempleDificile-Optimizarea preferințelor directe pentru eșantionare(DPO), se caracterizeaza prin urmatoarele aspecte:
 <br/> • GuardReasoner(**GR**) *identifică* cele mai dificile/grele/dure(hard) cazuri/exemple/esantioane/mostre(samples), adica *identifică* ExempleDificile/HardSamples(*HS*), în care răspunsurile **AI** conțin *atât* **raționament-corect**, *cât și* **raționament-incorect**(pașii de rationament/rationamentul corect[i] vs. incorect[i]).
 <br/> • Se *antrenează* folosind <ins>mai multe modele de raționament</ins>, fiecare cu puncte forte diferite, pentru a <ins>îmbunătăți acuratețea</ins>.
 <br/> • Modelul *compară* <ins>pașii-**buni**-de-raționament</ins> și/cu/vs. <ins>pașii-***răi***-de-raționament</ins>, *învățând să prefere* pașii/raționamentul **corect/bun[i]** față de cei **înșelatori/falsi/incorecti**.<br/>
 
+<hr/>
+
+</details>
+
+ <details>
+ <summary><b>ST-TS</b></summary>
+
+ <hr/>
+ 
  - [**ST-TS**](https://arxiv.org/abs/2501.19393) = Simple Test-Time Scaling = Scalarea(crestere/scadere) Simpla a Timpului/Duratei-de-Testare.
 <br/> Test-time scaling([*ST-TS*](https://arxiv.org/pdf/2501.19393)) este o abordare promițătoare, a modelarii limbajului(**LM**), care folosește compoziția suplimentară, la/pe timpul/momentul/durata-de-testare, pentru a îmbunătăți performanța.
 <br/> Modelul **o1** al ***OpenAI***, a arătat această capacitate, dar nu a publicat(să-și împărtășească, în mod clar...) metodologia, ducând la multe repli-
@@ -109,6 +185,9 @@ eforturi [cationice](https://dexonline.ro/definitie/cationic)(de cautare a etimo
 <br/>Mai departe, scalarea **s1-32B** *<ins>cu</ins> forțarea bugetului*, permite extrapolarea performanțelor sale, depășindu-le pe cele ale modelului standard/obisnut, adica cel *<ins>fără</ins> interventie*, in/pe timpul/durata-de-testare: de la **50%**la **57%** pe/pt sarcina **AIME24**.
 <br/>*Modelul*, *datele* și *codul* sunt <ins>open-source</ins> la adresa: [*https://github.com/simplescaling/s1*.](https://github.com/simplescaling/s1)
 
+<hr/>
+
+</details>
 </details>
 
 <details>
