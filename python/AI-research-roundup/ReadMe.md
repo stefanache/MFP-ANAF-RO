@@ -201,7 +201,7 @@ eforturi [cationice](https://dexonline.ro/definitie/cationic)(de cautare a etimo
 
 <hr/>
  
-<br/><br/>Acum sa vedem pe scurt(in rezumat), cateva ***lucrari*** abordate în / ***abordări*** din... acest complex [articol/studiu](https://www.linkedin.com/pulse/ai-research-roundup-safety-scaling-multimodal-breakthroughs-dynuf/):<br/>
+Acum sa vedem pe scurt(in rezumat), cateva ***lucrari*** abordate în / ***abordări*** din... acest complex [articol/studiu](https://www.linkedin.com/pulse/ai-research-roundup-safety-scaling-multimodal-breakthroughs-dynuf/):<br/>
 
 <details>
  <summary> - <b>a</b>. GuardReasoner(<b>GR</b>)</summary>
