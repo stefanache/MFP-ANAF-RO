@@ -92,7 +92,7 @@ Pentru inceput, pentru a intelege cu usurinta, acest articol/săptămânal, vom 
    <br/> Metoda/Tehnica/Abordarea *HS-DPO*=ExempleDificile-Optimizarea preferințelor directe pentru eșantionare(DPO), se caracterizeaza prin urmatoarele aspecte:
 <br/> • GuardReasoner(**GR**) *identifică* cele mai dificile/grele/dure(hard) cazuri/exemple/esantioane/mostre(samples), adica *identifică* ExempleDificile/HardSamples(*HS*), în care răspunsurile **AI** conțin *atât* **raționament-corect**, *cât și* **raționament-incorect**(pașii de rationament/rationamentul corect[i] vs. incorect[i]).
 <br/> • Se *antrenează* folosind <ins>mai multe modele de raționament</ins>, fiecare cu puncte forte diferite, pentru a <ins>îmbunătăți acuratețea</ins>.
-<br/> • Modelul *compară* <ins>pașii-**buni**-de-raționament</ins> și/cu/vs. <ins>pașii-***răi***-de-raționament</ins>, *învățând să prefere* pașii/raționamentul **corect/bun[i]** față de cei ***înșelatori/falsi/incorecti**.<br/>
+<br/> • Modelul *compară* <ins>pașii-**buni**-de-raționament</ins> și/cu/vs. <ins>pașii-***răi***-de-raționament</ins>, *învățând să prefere* pașii/raționamentul **corect/bun[i]** față de cei **înșelatori/falsi/incorecti**.<br/>
 
  - [**ST-TS**](https://arxiv.org/abs/2501.19393) = Simple Test-Time Scaling = Scalarea Simpla a Timpului de Testare.
 
