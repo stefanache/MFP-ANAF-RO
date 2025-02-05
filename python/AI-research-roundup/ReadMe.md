@@ -38,7 +38,7 @@ Pentru inceput, pentru a intelege cu usurinta, acest articol/săptămânal, vom 
    <br/>*Tunarea/Reglarea-Fina(**FT**) Critică*(**C*FT***), este o strategie, în care modelele(**LLM**), învață să *critice*, răspunsurile zgomotoase(care d.p.d.v al sarcinii, sunt...partial|>**100%** sau total|=**100%** gresite=adica raspunsurile care au/poseda un **grad**=**procent**=**?** ***%*** de **incorectitdine**), mai degrabă/în loc să/decât să le *imite*... pe cele corecte(total-corecte=**100%** *corecte* = **0%** *incorecte*).
     <br/>Inspirat de *învățarea-umană*(procese care pun accent pe gândirea critică), **C*FT*** încurajează analiza mai profundă și nenuanțat(ă) - de înțelegere — trăsături adesea trecute cu vederea de către standardul **S*FT***.
  - [**RL**](https://en.wikipedia.org/wiki/Reinforcement_learning)  = Reinforcement Learning = învățăre prin consolidare/întărire(cu o recompensă bazată pe rezultate).
-   <br/>*învățare prin întărire* -este un termen provenit din- psihologie(a se vedea subiectul *întărire și condiționare operantă*).
+   <br/>*învățare prin întărire* -este un termen provenit din- psihologie(a se vedea subiectele [*întărire](https://en.wikipedia.org/wiki/Reinforcement) și condiționare operantă*).
    <br/><br/>Încadrarea tipică a unui scenariu de *învățare prin întărire*([**RL**](https://en.wikipedia.org/wiki/Reinforcement_learning)):
    <br/>un [agent](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Reinforcement_learning_diagram.svg/500px-Reinforcement_learning_diagram.svg.png) întreprinde acțiuni într-un mediu, care sunt interpretate/evaluate într-o *recompensă* și reprezentate de o *stare*, care sunt transmise agentului.<br/>
    
