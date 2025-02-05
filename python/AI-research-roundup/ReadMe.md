@@ -128,7 +128,7 @@ Pentru inceput, pentru a intelege cu usurinta, acest articol/săptămânal, vom 
  <hr/>
  
  - [**RDS**](https://arxiv.org/abs/2403.02333) = Reasoning Data Synthesis = Sinteza Datelor de Raționament
-   <br/>*RDS* este un mod/o varianta/un modul/o varianta de abordare privind instruirea/invatarea/formarea/antrenarea pt indeplinirea sarcinilor-AI, in conformitate cu  metodologia *GuardReasoner*(**GR**).
+   <br/>[*RDS*](https://arxiv.org/pdf/2403.02333) este un mod/o varianta/un modul/o varianta de abordare privind instruirea/invatarea/formarea/antrenarea pt indeplinirea sarcinilor-AI, in conformitate cu  metodologia *GuardReasoner*(**GR**).
 
 <hr/>
 
