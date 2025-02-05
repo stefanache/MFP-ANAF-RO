@@ -172,7 +172,7 @@ eforturi [cationice](https://dexonline.ro/definitie/cationic)(de cautare a etimo
 </details>
 
 <details>
- <summary> - <b>d1</b>. <b>Baichuan-Omni-1.5</b> & - <b>d2</b>. <b>SFT</b>-Memorizes <i>vs</i></summary> <b>RL</b>-Generalizes</summary>
+ <summary> - <b>d1</b>. <b>Baichuan-Omni-1.5</b> <b>&</b> - <b>d2</b>. <b>SFT</b>-Memorizes<i>vs</i></summary><b>RL</b>-Generalizes</summary>
  
  <hr/>
  
@@ -186,7 +186,7 @@ eforturi [cationice](https://dexonline.ro/definitie/cationic)(de cautare a etimo
 
 <hr/>
 
-     <br/>d2)[***SFT-Memorizes, RL-Generalizes: A Comparative Study of Foundation Model Post-training***](https://media.licdn.com/dms/image/v2/D4D12AQECyR29nuOTPg/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1738609451688?e=1744243200&v=beta&t=Wfqmd54SFNi3uhaGABY2NYPDNUaAOtsuAw3lrBaUqkE) / [***SFT-memorează, RL-generalizează: Un studiu comparativ al modelului de fundație post-formare/antrenare***](https://arxiv.org/pdf/2501.17161)
+<br/>d2)[***SFT-Memorizes, RL-Generalizes: A Comparative Study of Foundation Model Post-training***](https://media.licdn.com/dms/image/v2/D4D12AQECyR29nuOTPg/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1738609451688?e=1744243200&v=beta&t=Wfqmd54SFNi3uhaGABY2NYPDNUaAOtsuAw3lrBaUqkE) / [***SFT-memorează, RL-generalizează: Un studiu comparativ al modelului de fundație post-formare/antrenare***](https://arxiv.org/pdf/2501.17161)
    <br/>Această lucrare investighează efectele reglajului fin supravegheat (**SFT**) și ale *învățării prin consolidare/intarire*(**RL**) asupra capacităților de generalizare și memorare ale modelelor de bază(**LLM**), concentrându-se atât pe mediile bazate pe text, cât și pe cele vizuale(imagini/video).<br/> 
 <br/>*Comparatie*: **Generalizare** *versus*(*vs.*) **Memorare**:<br/>
 <br/>**RL Generalizes**: **RL**, mai ales atunci când este antrenat/întărit cu o recompensă bazată pe rezultate, arată o generalizare mai bună atât în ​​mediile textuale, cât și în cele vizuale(imagine,video) bazate pe reguli.<br/>
