@@ -45,7 +45,7 @@ Pentru inceput, pentru a intelege cu usurinta, acest articol/săptămânal, vom 
      care sunt transmise <ins>agentului</ins>.
 
    *Învățarea prin consolidare*(**RL** ) este o zonă interdisciplinară a **învățării automate(ML**)** și a **controlului optim**, preocupată de(care se ocupa de_ modul în care un <ins>agent-inteligent</ins> ar trebui să ia **acțiuni** într-un *mediu-dinamic* pentru a maximiza un <ins>*semnal-de-recompensă*</ins>.
-   <br/>*Învățarea prin consolidare*(**RL**) este una dintre cele trei(3) paradigme/modele/posibilitati/variante de bază(principale) ale ***învățării automate(ML)***, alături de **învățarea-supervizată/supravegheată/etichetată(SL-supervised-learning)** și de **învățarea-nesupravegheată/nesupervizată/neetichetată(unSL-unsupervised-learning)**.
+   <br/>*Învățarea prin consolidare/intarire*(**RL**) este una dintre cele trei(3) paradigme/modele/posibilitati/variante de bază(principale) ale ***învățării automate(ML)***, alături de **învățarea-supervizată/supravegheată/etichetată(SL-supervised-learning)** și de **învățarea-nesupravegheată/nesupervizată/neetichetată(unSL-unsupervised-learning)**.
  - [**OOD**](https://paperswithcode.com/task/ood-detection) = ***Out***-*Of*-**Distribution** = ([detectia](https://www.sciencedirect.com/science/article/abs/pii/S0950705125000231)) în(*Of*)-afara(***Out***)-Distribuției(**Distribution**).
    <br/>*Detectarea Out of Distribution*(**OOD**) este sarcina de a *detecta-instanțe*, care *nu aparțin distribuției*, pe care a fost *instruit/invatat/antrenat/format* **clasificatorul**.
    <br/>***Datele***-**OOD** sunt adesea denumite ***date***-„*nevăzute*”, deoarece *model*ul(**LLM**-ul) nu le-a *întâlnit/văzut* în timpul **antrenament***ului*.<br/>
@@ -56,7 +56,7 @@ Pentru inceput, pentru a intelege cu usurinta, acest articol/săptămânal, vom 
    <br/>Această lucrare, propune *GuardReasoner*(**GR**), o nouă protecție pentru **LLM**, prin ghidarea/orientarea/formarea *model*ului de gardă***GM**), pentru a *învăța* să **raționeze**.
    <br/> Concret, creăm mai întâi *setul-de-date(dataset)* <ins>*GuardReasonerTrain*(**GRT**)</ins>, care constă din ***127K***-*mostre/esantioane* cu ***460K***-*pași-de-raționament*(*detaliați*).
    <br/>Apoi, introducem raționamentul ***SFT*** pentru a <ins>debloca</ins> capacitatea de *raționament* a *model*elor de gardă(**GM**).
-   <br/>În plus, prezentăm un *eșantion-dur* de **DPO** pentru a le <ins>consolida</ins> și mai mult capacitatea de *raționament*.
+   <br/>În plus, prezentăm un *eșantion-dur* de **DPO** pentru a le <ins>consolida/intari</ins> și mai mult capacitatea de *raționament*.
    <br/>În acest fel, *GuardReasoner*(**GR**) obține *performanțe mai bune*, in zona de *explicabilitate/descriere* și de *generalizare/rezumare*.
    <br/>Experimente și analize ample pe ***13*** *etape-de-referință*, a ***3*** *sarcini-de-protecție*, demonstrează superioritatea acestuia(**GR**).
    <br/>În mod remarcabil, **GuardReasoner**-**8B** depășește/intrece(ca performanta masurata(, *model*ul **GPT-4o+[CoT](https://learnprompting.org/docs/intermediate/chain_of_thought?srsltid=AfmBOopAoMbWL-h_oQrVQeHttPd3ZF9xB1c7nxBfe91RvbFJuLaDek9C)** cu **5,74%** și *model*ul 
@@ -137,7 +137,7 @@ Acum sa vedem pe scurt(in rezumat), cateva ***lucrari*** abordate în / ***abord
      <br/>Canalul de instruire/invatare/formare/antrenare(training) implică etape care încorporează-progresiv viziunea(imagine,video) și audio în **LLM**(eminamente textual), urmate de reglaj-fin(**fine-tuning**) supravegheat cu date omni-modale.<br/>
 
      <br/>d2)[***SFT-Memorizes, RL-Generalizes: A Comparative Study of Foundation Model Post-training***](https://media.licdn.com/dms/image/v2/D4D12AQECyR29nuOTPg/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1738609451688?e=1744243200&v=beta&t=Wfqmd54SFNi3uhaGABY2NYPDNUaAOtsuAw3lrBaUqkE) / [***SFT-memorează, RL-generalizează: Un studiu comparativ al modelului de fundație post-formare/antrenare***](https://arxiv.org/pdf/2501.17161)
-   <br/>Această lucrare investighează efectele reglajului fin supravegheat (**SFT**) și ale învățării prin consolidare (**RL**) asupra capacităților de generalizare și memorare ale modelelor de bază(**LLM**), concentrându-se atât pe mediile bazate pe text, cât și pe cele vizuale(imagini/video).<br/> 
+   <br/>Această lucrare investighează efectele reglajului fin supravegheat (**SFT**) și ale *învățării prin consolidare/intarire*(**RL**) asupra capacităților de generalizare și memorare ale modelelor de bază(**LLM**), concentrându-se atât pe mediile bazate pe text, cât și pe cele vizuale(imagini/video).<br/> 
 <br/>*Comparatie*: **Generalizare** *versus*(*vs.*) **Memorare**:<br/>
 <br/>**RL Generalizes**: **RL**, mai ales atunci când este antrenat/întărit cu o recompensă bazată pe rezultate, arată o generalizare mai bună atât în ​​mediile textuale, cât și în cele vizuale(imagine,video) bazate pe reguli.<br/>
 <br/>**SFT-Memorizes**: **SFT** tinde să memoreze datele de antrenament și se luptă să generalizeze la scenarii în afara distribuției([**OOD**](https://arxiv.org/abs/2308.10261)).<br/>
