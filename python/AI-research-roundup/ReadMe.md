@@ -184,6 +184,8 @@ eforturi [cationice](https://dexonline.ro/definitie/cationic)(de cautare a etimo
      <br/>Modelul este antrenat pe aproximativ 500 de miliarde de puncte de date multimodale de înaltă calitate, folosind o strategie de antrenament în mai multe etape care integrează-progresiv alinierea(aducerea la acelasi numitor comun) multi-modală și reglarea fină(**fine-tuning**) a mai multor sarcini.<br/>
      <br/>Canalul de instruire/invatare/formare/antrenare(training) implică etape care încorporează-progresiv viziunea(imagine,video) și audio în **LLM**(eminamente textual), urmate de reglaj-fin(**fine-tuning**) supravegheat cu date omni-modale.<br/>
 
+<hr/>
+
      <br/>d2)[***SFT-Memorizes, RL-Generalizes: A Comparative Study of Foundation Model Post-training***](https://media.licdn.com/dms/image/v2/D4D12AQECyR29nuOTPg/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1738609451688?e=1744243200&v=beta&t=Wfqmd54SFNi3uhaGABY2NYPDNUaAOtsuAw3lrBaUqkE) / [***SFT-memorează, RL-generalizează: Un studiu comparativ al modelului de fundație post-formare/antrenare***](https://arxiv.org/pdf/2501.17161)
    <br/>Această lucrare investighează efectele reglajului fin supravegheat (**SFT**) și ale *învățării prin consolidare/intarire*(**RL**) asupra capacităților de generalizare și memorare ale modelelor de bază(**LLM**), concentrându-se atât pe mediile bazate pe text, cât și pe cele vizuale(imagini/video).<br/> 
 <br/>*Comparatie*: **Generalizare** *versus*(*vs.*) **Memorare**:<br/>
