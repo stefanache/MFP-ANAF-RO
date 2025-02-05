@@ -59,8 +59,8 @@ Pentru inceput, pentru a intelege cu usurinta, acest articol/săptămânal, vom 
    <br/>În plus, prezentăm un *eșantion-dur* de **DPO** pentru a le <ins>consolida</ins> și mai mult capacitatea de *raționament*.
    <br/>În acest fel, *GuardReasoner*(**GR**) obține *performanțe mai bune*, in zona de *explicabilitate/descriere* și de *generalizare/rezumare*.
    <br/>Experimente și analize ample pe ***13*** *etape-de-referință*, a ***3*** *sarcini-de-protecție*, demonstrează superioritatea acestuia(**GR**).
-   <br/>În mod remarcabil, **GuardReasoner**-**8B** depășește/intrece ca performanta masurata, modelul **GPT-4o+CoT** cu **5,74%* și modelul **LLaMA Guard 3**-**8B** cu **20,84%**, in privinta *scorului*-**F1**(în *medie*=*AVG-F1*).
-   <br/>Lansăm datele de antrenament, codul și modelele cu diferite scale (1B, 3B, 8B) ale [GuardReasoner](https://github.com/yueliu1999/GuardReasoner/).<br/>
+   <br/>În mod remarcabil, **GuardReasoner**-**8B** depășește/intrece(ca performanta masurata(, *model*ul **GPT-4o+[CoT](https://learnprompting.org/docs/intermediate/chain_of_thought?srsltid=AfmBOopAoMbWL-h_oQrVQeHttPd3ZF9xB1c7nxBfe91RvbFJuLaDek9C)** cu **5,74%** și *model*ul **LLaMA Guard 3**-**8B** cu **20,84%**, in privinta *scorului*-**F1**(în *medie*=*AVG-F1*).
+   <br/>Au fost lansate/furnizate *datele-de-antrenament*, *codul* și *modelele*-cu-diferite-scale*(**1B**, **3B**, **8B**) ale/din cadrul [GuardReasoner](https://github.com/yueliu1999/GuardReasoner/).<br/>
  - [**GRT**](https://github.com/yueliu1999/guardreasoner) = GuardReasonerTrain = Setul de antrenare/antrenament(train) al modelului GuardReasoner(**GR**)
  - [**RDS**](https://arxiv.org/abs/2403.02333) = Reasoning Data Synthesis = Sinteza Datelor de Raționament
    <br/>RDS este un mod/o varianta/un modul de abordăre privind instruirea/invatare/formarea/antrenarea pt indeplinirea sarcinilor-AI, in conformitate cu  metodologia GuardReasoner(GR). 
