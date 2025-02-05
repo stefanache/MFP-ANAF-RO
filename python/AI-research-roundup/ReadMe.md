@@ -172,7 +172,7 @@ eforturi [cationice](https://dexonline.ro/definitie/cationic)(de cautare a etimo
 </details>
 
 <details>
- <summary> - <b>d1</b>. <b>Baichuan-Omni-1.5</b> <b>&</b> - <b>d2</b>. <b>SFT</b>-Memorizes<i>-vs.-</i></summary><b>RL</b>-Generalizes</summary>
+ <summary> - <b>d1</b>. <b>Baichuan-Omni-1.5</b> <b>&</b> - <b>d2</b>. <b>SFT</b>-Memorizes<i>-vs.-</i><b>RL</b>-Generalizes</summary>
  
  <hr/>
  
@@ -199,6 +199,7 @@ eforturi [cationice](https://dexonline.ro/definitie/cationic)(de cautare a etimo
 <br/>Cu toate acestea, **SFT** este încă crucial pentru stabilizarea formatului de ieșire al modelului, permițând antrenamentul **RL** eficient.<br/>
 
 <hr/>
+
 </details>
 </details>
    
