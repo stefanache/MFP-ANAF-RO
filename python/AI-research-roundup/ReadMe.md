@@ -90,9 +90,9 @@ Pentru inceput, pentru a intelege cu usurinta, acest articol/săptămânal, vom 
  - [**HS-DPO**](https://www.threads.net/@theturingpost/post/DFgdZq7MRJ_) = Hard-Sample Direct Preference Optimization = - Optimizarea Directă a Preferințelor pentru esantioanele/[mostrele](https://www.google.com/search?q=mostre+sau+monstre&rlz=1C1CHBF_enRO1132RO1132&oq=mostre+sau+monstre&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIKCAEQABgKGBYYHjIKCAIQABiABBiiBNIBCTYwMzhqMGoxNagCCLACAQ&sourceid=chrome&ie=UTF-8) dure/dificile(mostre/exemple/esantioane/probe destinate invatarii/antrenamentului, si care... se află în apropierea graniței/limita de decizie/i);
    <br/>*HS-DPO* este un mod/o varianta/un modul/o varianta de abordare privind instruirea/invatare/antrenarea pt indeplinirea sarcinilor-AI, in conformitate cu metodologia GuardReasoner(**GR**).
    <br/> Metoda/Tehnica/Abordarea *HS-DPO*=HS-Optimizarea preferințelor directe pentru eșantionare(DPO), se caracterizeaza prin urmatoarele aspecte:
-• GuardReasoner(**GR**) *identifică* cele mai dificile/grele/dure(hard) cazuri/exemple/esantioane/mostre(samples),adica HardSamples(*HS*), în care răspunsurile **AI** conțin *atât* raționament-corect, *cât și* raționament-incorect.
-• Se *antrenează* folosind <ins> mai multe modele de raționament</ins>, fiecare cu puncte forte diferite, pentru a <ins>îmbunătăți acuratețea</ins>.
-• Modelul *compară* <ins>pașii-**buni**-de-raționament</ins> și/cu/vs. <ins>pașii-***răi***-de-raționament</ins>, *învățând să prefere* raționamentul **corect/bun*** față de cei ***înșelatori/falsi/incorecti**.
+<br/> • GuardReasoner(**GR**) *identifică* cele mai dificile/grele/dure(hard) cazuri/exemple/esantioane/mostre(samples),adica HardSamples(*HS*), în care răspunsurile **AI** conțin *atât* raționament-corect, *cât și* raționament-incorect.
+<br/> • Se *antrenează* folosind <ins> mai multe modele de raționament</ins>, fiecare cu puncte forte diferite, pentru a <ins>îmbunătăți acuratețea</ins>.
+<br/> • Modelul *compară* <ins>pașii-**buni**-de-raționament</ins> și/cu/vs. <ins>pașii-***răi***-de-raționament</ins>, *învățând să prefere* raționamentul **corect/bun*** față de cei ***înșelatori/falsi/incorecti**.<br/>
 
  - [**ST-TS**](https://arxiv.org/abs/2501.19393) = Simple Test-Time Scaling = Scalarea Simpla a Timpului de Testare.
 
