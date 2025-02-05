@@ -23,7 +23,7 @@ Pentru inceput, pentru a intelege cu usurinta, acest articol/săptămânal, vom 
 
  - [**LLM**](https://en.wikipedia.org/wiki/Large_language_model) - Large Language Model = Modele mari de Limbaj(scalate la diverse marimi/scale/scalari **1B**, **3B**, **8B**, **...**).
    <br/>Un *model de limbă/Limbaj mare* (**LLM**) este un tip de model de învățare automată(**ML**) conceput pentru sarcini de procesare a limbajului natural(**NLP**), cum ar fi generarea limbajului.
-   <br/>**LLM**-urile sunt modele lingvistice cu mulți parametri și sunt instruite cu învățare auto-supravegheată([**SAL**](https://en.wikipedia.org/wiki/Supervised_learning)) pe o cantitate mare de text.
+   <br/>**LLM**-urile sunt modele lingvistice cu mulți parametri și sunt instruite/antrenate/invatate/formate cu învățare auto-supravegheată([**SAL**](https://en.wikipedia.org/wiki/Supervised_learning)) pe o cantitate mare de text.
  - [**VML**](https://encord.com/blog/vision-language-models-guide/) - Vision-Language Models = Modele de Limbaj Vizual.<br/>
  Aceste modele(**VML**) pot procesa și înțelege modalitățile de limbaj (text) și viziune (imagine) simultan pentru a efectua sarcini avansate de limbaj viziune,
  cum ar fi răspunsul la întrebări vizuale (**VQA**), subtitrărea imaginilor și căutarea text-la-imagine;
