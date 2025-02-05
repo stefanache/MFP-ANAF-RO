@@ -44,6 +44,7 @@ Pentru inceput, pentru a intelege cu usurinta, acest articol/săptămânal, vom 
      - interpretate/evaluate/observate/recompensate/[răsplătite](https://dexonline.ro/definitie/par%C3%A0nd%C4%83r%C4%83t/534761) ca-o/într-o *recompensă* și
      - reprezentate de o *stare*,
      care sunt transmise <ins>agentului</ins>.
+
    <br/>*Învățarea prin consolidare*(**RL** ) este o zonă interdisciplinară a învățării automate și a controlului optim, preocupată de modul în care un agent inteligent ar trebui să ia acțiuni într-un mediu dinamic pentru a maximiza un semnal de recompensă. Învățarea prin consolidare este una dintre cele trei paradigme de bază ale învățării automate , alături de învățarea supervizată și învățarea nesupravegheată .
  - [**OOD**](https://paperswithcode.com/task/ood-detection) = Out-Of-Distribution = ([detectia](https://www.sciencedirect.com/science/article/abs/pii/S0950705125000231)) în(of)-afara(out)-Distribuției.  
  - [**GR**](https://huggingface.co/papers/2501.18492) = [GuardReasoner](https://arxiv.org/html/2501.18492v1) = model de Gardă bazat pe Raționament(metodologia GuardReasoner; de la ***imitatie*** la **garantii**).
