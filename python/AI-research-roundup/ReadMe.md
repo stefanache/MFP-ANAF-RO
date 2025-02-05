@@ -95,6 +95,17 @@ Pentru inceput, pentru a intelege cu usurinta, acest articol/săptămânal, vom 
 <br/> • Modelul *compară* <ins>pașii-**buni**-de-raționament</ins> și/cu/vs. <ins>pașii-***răi***-de-raționament</ins>, *învățând să prefere* pașii/raționamentul **corect/bun[i]** față de cei **înșelatori/falsi/incorecti**.<br/>
 
  - [**ST-TS**](https://arxiv.org/abs/2501.19393) = Simple Test-Time Scaling = Scalarea Simpla a Timpului de Testare.
+<br/> [ST-TS*](https://arxiv.org/pdf/2501.19393)
+<br/>Test-time scaling([ST-TS*](https://arxiv.org/pdf/2501.19393)) este o abordare promițătoare a modelarea limbajului(**LM**) care folosește compoziția suplimentară pentru/pe timpul/momentul/durata-de-testare pentru a îmbunătăți performanța.
+<br/> Modelul **o1** sl ***OpenAI*** a arătat această capacitate, dar nu a publicat(să-și împărtășească în mod clar( metodologia, ducând la multe repli-
+eforturi [cationice](https://dexonline.ro/definitie/cationic)(de cautare a etimologiei).
+<br/>Căutăm cea mai simplă abordare a atingerii scalarii timpului-de-testare și mai cautam si un raționament puternic performat.
+<br/>În primul rând, organizăm un mic(small) set de date/dataset/samples/exemple **s1K** de ***1.000 de întrebări***, asociate cu urme(care ne arata modul de gandire/rationament) de raționament, bazându-ne pe *trei(3) criterii* pe care le validăm(verificam) prin ablațiuni(indepartari/taieri/inlaturari de exemple care nu corespund/indeplinesc celor 3 criterii de validare): *dificultate*, *diversitate* și *calitate*.
+<br/>În al doilea rând, s-a  *forțat dezvoltarea bugetului*, pus pentru a controla timpul/durata-de-testare, prin *încheierea*(forțată), a procesului de gândire aferent modelului sau/ori(la fel de probabil) s-a recurs la *prelungirea* acestuia(timpului/duratei de testare), prin adăugarea de durate/timpi de tip „Așteptați”, de mai multe ori, in/la/pe durata/momentul generar[ii/ea] modelului, atunci când, procesul acesta, încearca să se termine.
+<br/>Acest lucru, poate duce la/face ca modelul, sa-si dubleze verificarile, atunci cand se elaboreaza răspunsul acestuia, reparând/corectand adesea, trepte/etape de raționament-incorect.
+<br/>După reglarea-fină(**FT**) supravegheată(**SFT**), a modelului de limbaj(*LM*) **Qwen2.5-32B-Instruct**,  pe esantionul**s1K** și echipa-ping-o cu *forțarea-bugetului*, modelul acesta, imbunatatit, **s1-32B**, la întrebările concursului de matematică, depaseste modelul **o1-Preview**, cu până la **27%**(pt. sarcinile/task-urile/întrebările concursurilor de matematică: ***MATH*** și ***AIME24***).
+<br/>Mai departe, scalarea **s1-32B** cu *forțarea bugetului*, permite extragerea depășește performanțele sale fără interventie in /pe timpul/durata-de-testare : de la 50% la 57% pe AIME24.
+<br/>*Modelul*, *datele* și *codul* sunt <ins>open-source</ins> la adresa: *https://github.com/simplescaling/s1*.
 
 Acum sa vedem pe scurt(in rezumat), cateva ***lucrari*** abordate în / ***abordări*** din... acest complex [articol/studiu](https://www.linkedin.com/pulse/ai-research-roundup-safety-scaling-multimodal-breakthroughs-dynuf/):
 
