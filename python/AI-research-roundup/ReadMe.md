@@ -24,7 +24,7 @@ In acest [***studiu***](https://www.linkedin.com/pulse/ai-research-roundup-safet
 
 <hr/>
 
-Pentru inceput, in vederea intelegerii, cu usurinta, a acestui articol/săptămânal, vom trece in revistă, cativa dintre termeni utilizati:
+Pentru inceput, in vederea intelegerii, cu usurinta, a acestui articol/săptămânal, vom trece in revistă, cativa dintre termenii utilizati:
 
 <details>
  <summary><b>LLM</b> & <b>VML</b></summary>
