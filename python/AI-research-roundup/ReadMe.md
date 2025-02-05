@@ -90,9 +90,9 @@ Pentru inceput, pentru a intelege cu usurinta, acest articol/săptămânal, vom 
  - [**HS-DPO**](https://www.threads.net/@theturingpost/post/DFgdZq7MRJ_) = Hard-Sample Direct Preference Optimization = - Optimizarea Directă a Preferințelor pentru esantioanele/[mostrele](https://www.google.com/search?q=mostre+sau+monstre&rlz=1C1CHBF_enRO1132RO1132&oq=mostre+sau+monstre&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIKCAEQABgKGBYYHjIKCAIQABiABBiiBNIBCTYwMzhqMGoxNagCCLACAQ&sourceid=chrome&ie=UTF-8) dure/dificile(mostre/exemple/esantioane/probe destinate invatarii/antrenamentului, si care... se află în apropierea graniței/limita de decizie/i);
    <br/>*HS-DPO* este un mod/o varianta/un modul/o varianta de abordare privind instruirea/invatare/antrenarea pt indeplinirea sarcinilor-AI, in conformitate cu metodologia GuardReasoner(**GR**).
    <br/> Metoda/Tehnica/Abordarea *HS-DPO*=HS-Optimizarea preferințelor directe pentru eșantionare(DPO), se caracterizeaza prin urmatoarele aspecte:
-<br/> • GuardReasoner(**GR**) *identifică* cele mai dificile/grele/dure(hard) cazuri/exemple/esantioane/mostre(samples),adica HardSamples(*HS*), în care răspunsurile **AI** conțin *atât* raționament-corect, *cât și* raționament-incorect.
+<br/> • GuardReasoner(**GR**) *identifică* cele mai dificile/grele/dure(hard) cazuri/exemple/esantioane/mostre(samples),adica HardSamples(*HS*), în care răspunsurile **AI** conțin *atât* raționament-corect, *cât și* raționament-incorect(pașii de rationament/rationamentul corect[i] vs. incorect[i]).
 <br/> • Se *antrenează* folosind <ins> mai multe modele de raționament</ins>, fiecare cu puncte forte diferite, pentru a <ins>îmbunătăți acuratețea</ins>.
-<br/> • Modelul *compară* <ins>pașii-**buni**-de-raționament</ins> și/cu/vs. <ins>pașii-***răi***-de-raționament</ins>, *învățând să prefere* raționamentul **corect/bun*** față de cei ***înșelatori/falsi/incorecti**.<br/>
+<br/> • Modelul *compară* <ins>pașii-**buni**-de-raționament</ins> și/cu/vs. <ins>pașii-***răi***-de-raționament</ins>, *învățând să prefere* pașii/raționamentul **corect/bun[i]** față de cei ***înșelatori/falsi/incorecti**.<br/>
 
  - [**ST-TS**](https://arxiv.org/abs/2501.19393) = Simple Test-Time Scaling = Scalarea Simpla a Timpului de Testare.
 
@@ -108,7 +108,7 @@ Acum sa vedem pe scurt(in rezumat), cateva ***lucrari*** abordate în / ***abord
 <br/>Experimente și rezultate(studii de  [ablație/indepărtarea](https://dexonline.ro/intrare/abla%C8%9Bie/62)  nocivitații, studii de masurare a eficienței si performanțelor...<br/>
 <br/>1. GuardReasoner 8B(**GR-8B**) realizează cele mai bune performanțe în sarcinile de detectare a nocivității prompte și a celei de răspuns, depășind/întrecând/concurând atât modelele open-source(sursă deschisă), cât și cele cu sursă închisă.
 <br/>2. GuardReasoner(**GR**) oferă pașii detaliați de raționament, sporind transparența și ajutând la corectarea probelor/mostrelor etichetate greșit.
-<br/>3. Modelul(**GR**) funcționează independent de categoriile fixe, recunoscând conținutul dăunător deschis, îmbunătățind astfel generalizarea.
+<br/>3. Modelul(**GR**) funcționează independent de categoriile fixe, recunoscând conținutul dăunător/rau/dur deschis, îmbunătățind astfel generalizarea.
 <br/><br/>[Lucrarea](https://arxiv.org/pdf/2501.18492) evidențiază dezvoltarea unui model de gardă(cum este **GR**) pentru a atenua riscurile potențiale și impactul dăunător al[e]/asupra **LLM**-urilor, contribuind la integrarea mai sigură a **AI** în societate.<br/>
  
  - b)[***s1: Simple Test-Time Scaling***](https://media.licdn.com/dms/image/v2/D4D12AQGAMOOG_LIz-w/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1738609419796?e=1744243200&v=beta&t=Ftsru31-7BNv1egojySpq3atw2MXXPnqoMiB5F97TIM) / [***s1: Scalare simplă a timpului de testare***](https://arxiv.org/pdf/2501.19393)
