@@ -311,7 +311,7 @@ Acum sa vedem pe scurt(in rezumat), cateva ***lucrari*** abordate în / ***abord
 <br/>Creșterea calculului-**RL**, îmbunătățește, *acuratețea*, *recunoașterii-vizuale*, în [**VLM**](https://encord.com/blog/vision-language-models-guide/)-uri, în timp ce, scalarea ***SFT***-ului, deteriorează,  atât *recunoașterea-vizuală*, cât și *performanța-generală*(deci **RL** > ***SFT***).<br/>
 <br/>Lucrarea demonstrează că, **RL**-ul este superior **SFT**-ului, în dobândirea/invatarea de cunoștințe-generalizabile(rezumatelor), în zona sarcinilor-complexe, multi-modale.
 <br/>Cu toate acestea, sa nu uitam ca, ***SFT***-ul, este încă crucial/important/util, pentru *stabilizarea*, formatului-de-ieșire, al modelului(LLM/VLM), permițând ulterior,  antrenamentul-**RL**-eficient.
-<br/><br/>***Retineti*** vă rog, că:   in scenariile-**OOD**, **RL** > ***SFT***, dar/insa...
+<br/><br/>***Retineti*** vă rog, că:   in scenariile **OOD** si **VLM**, **RL** > ***SFT***, dar/insa...
 <br/>...se mai foloseste inca, ***SFT***-ul(stiuta fiind, capacitatea sa de *memorare/imitare*), inainte de aplicarea **RL**-ului(stiuta fiind, tendinta sa de *generalizare*), dar in acest caz, j***SFT***-ul joaca un rol/ca element de... *stabilizator/stabilizare*, a[l] iesirii/raspunsului oferit.
 
 <hr/>
