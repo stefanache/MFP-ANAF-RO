@@ -215,7 +215,7 @@ Căutăm, cea mai simplă abordare, de atingere a,  scalarii timpului/duratei-de
    - *diversitate* și
    - *calitate*.
 
-În al doilea rând, s-a  *<ins>forțat</ins> dezvoltarea bugetului*...de timp/duratei, pus/alocat/prevazut/estimat pentru a controla timpul/durata-de-testare, fie prin... *încheierea*(<ins>forțată</ins>), a procesului de gândire aferent modelului sau/ori(la fel de... echi-probabil) fie prin recurgerea la... *prelungirea*(<ins>forțată</ins>) a acestuia(timpului/duratei-de-testare), prin adăugarea de durate/timpi de asteptare(de tip „Așteptați”), de mai multe ori, in/la/pe durata/momentul generar[ii/ea] modelului, atunci când, procesul acesta, încearca să se termine.
+În al doilea rând, s-a  *<ins>forțat</ins> dezvoltarea bugetului*...de timp/duratei, pus/alocat/prevazut/estimat pentru a controla timpul/durata-de-testare, fie prin... *încheierea*(<ins>forțată</ins>), a procesului de gândire, aferent modelului, sau/ori(la fel de... echi-probabil) fie prin recurgerea la... *prelungirea*(<ins>forțată</ins>) a acestuia(timpului/duratei-de-testare), prin adăugarea de durate/timpi de asteptare(de tip „Așteptați”), de mai multe ori, in/la/pe durata/momentul generar[ii/ea] modelului, atunci când, procesul acesta, încearca să se termine.
 
 Acest lucru, poate duce la/face ca modelul, dublarea/sa-si dubleze verificaril[or/e], atunci cand... se elaboreaza răspunsul acestuia, reparând/corectand adesea, trepte/etape de raționament-incorect/pasi de gândire incorectă.
 
