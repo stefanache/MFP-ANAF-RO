@@ -290,7 +290,9 @@ Acum sa vedem pe scurt(in rezumat), cateva ***lucrari*** abordate în / ***abord
    <br/>Autorii, creează un set de date(*ds*), de **50.000** de *mostre*/*esantioane*, din [**WebInstruct**](https://github.com/TIGER-AI-Lab/MAmmoTH2) / [**HF**](https://huggingface.co/datasets/TIGER-Lab/WebInstruct-CFT), folosind [**GPT-4o**](https://openai.com/index/gpt-4o-and-more-tools-to-chatgpt-free/), pentru a genera *critici*, pentru/la răspunsurile-zgomotoase(considerate ca fiind, *criticabile* sau mai bine spus... gresite ori corecte, doar intr-o anumita proportie, <= 100%).<br/>
    <br/>[**CFT**](https://medium.com/@techsachin/critique-fine-tuning-teaching-llm-models-to-critique-and-analyze-responses-0a603c95e900)-ul, depășește constant, [***SFT***](https://www.researchgate.net/figure/Training-dynamics-comparison-of-different-methods-on-Qwen25-Math-7B-across-key_fig1_388495470)-ul, la șase(***6***) repere matematice, obținând o îmbunătățire cu/intre/de circa/aproximativ **4**-**10** *%*.
    <br/> Autorii, susțin că, [**CFT**](https://arxiv.org/abs/2501.17703)-ul,  reprezintă un pas, semnificativ, înainte, în a face/construi/permite, formarea modelului-lingvistic([**LLM**](https://x.com/askalphaxiv/status/1885848467307745559)-ului) și mai eficientă.
-<br/><br/>***Retineti*** vă rog, că:  **CFT**-ul este mai bun decat ***SFT***-ul, adica/ori/s-au altfel scris:  **CFT** > ***SFT***
+   <br/>Unul dintre cele mai convingătoare avantaje ale **CFT** este eficiența sa.
+   <br/>În comparație, cu abordările bazate pe învățare prin consolidare(**RL**), cum ar fi ***SimpleRL***, **CFT** obține performanțe similare sau mai bune, consumând în același timp, de 140 de ori, mai puține resurse de calcul.
+<br/><br/>***Retineti*** vă rog, că:  **CFT**-ul este mai bun decat **RL** si ***SFT***-ul, adica/ori/s-au altfel scris:  **CFT** >= ***RL*** > *SFT*
 <hr/>
 
 </details>
