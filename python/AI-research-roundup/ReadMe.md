@@ -136,11 +136,12 @@ Pentru inceput, in vederea intelegerii, cu usurinta, a acestui articol/săptăm�
    <br/> Cu toate acestea, abordările sintetice anterioare se luptă să extindă cu ușurință datele și să suporte costuri mari în urmărirea calității înalte.
    Va propun, spre intelegere, un caz de utilitate/o [lucrare-auxiliara](https://arxiv.org/pdf/2403.02333)...desigur, cu referinte catre *RDS*.
    <br/> În această [lucrare](https://arxiv.org/pdf/2403.02333), se propune **GSDP**(Graph-based Synthetic Data Pipeline), un cadru economic și scalabil pentru sinteza de date de raționament de înaltă calitate.
-   <br/> Inspirați de graficele de cunoștințe, s-a extras puncte de cunoștințe din datele-semințe și s-a construit un grafic de relații cu punctele de cunoaștere pentru a explora interconexiunile lor.
-   <br/> Explorând relațiile implicite dintre cunoștințe, aceasta metoda(**GSDP**) realizează de 255 ori(×) extinderea a datelor.
+   <br/> Inspirați de *graficele/grafurile/reteaua de cunoștințe/cunoaștere*, s-a extras *puncte de cunoștințe*, din *datele-semințe*, și s-a construit un *grafic/graf/retea-de-relații*, cu/intre *punctele de cunoaștere/cunoștințe*, pentru a explora interconexiunile/relatiile lor.
+   <br/>Un [graf](https://ro.wikipedia.org/wiki/Graf) are relatii=muchii si noduri/puncte
+   <br/> Explorând *relațiile implicite dintre cunoștințe*, aceasta metoda/model(**GSDP**) realizează de 255 ori(×) *extinderea/extrapolarea/cresterea* a datelor.
    <br/> În plus, **GSDP**, condus de modele open-source, realizează o calitate a sintezei comparabilă cu **GPT-4-0613**, menținând în același timp, costuri cu/de 100 ori(×) mai mici.
-   <br/> Pentru a aborda cea mai dificilă sarcină de raționament matematic, se prezentă setul de date ***GSDP-MATH*** care cuprinde peste ***1,91 milioane*** de perechi(*problema și răspuns*) matematice.
-   <br/> După reglajul-fin(**FT**) pe ***GSDP-MATH***, **GSDP-7B** bazat pe **Mistral-7B** atinge o precizie de **37,7%** la **MATH** și de **78,4%** pe **GSM8K**, demonstrând eficacitatea acestei metode.
+   <br/> Pentru a aborda, cea mai dificilă sarcină de raționament matematic, se prezentă setul de date(dataset/ds) ***GSDP-MATH***, care cuprinde peste ***1,91 milioane*** de perechi(*problema și răspuns(**QA**)*) matematice.
+   <br/> După reglajul-fin(**FT**) pe ds-ul***GSDP-MATH***, modelul(LLM-ul) **GSDP-7B**(bazat pe LLM-ul de baza/de inceput/de plecare, **Mistral-7B**) atinge o precizie de **37,7%** la/pe benchmark-ul **MATH** și de **78,4%** pe/la benchmark-ul **GSM8K**, demonstrând eficacitatea acestei metode( **GSDP**).
    <br/> *Setul de date* și *modelele instruite* în această [lucrare]((https://arxiv.org/pdf/2403.02333)) sunt disponibile.
 
 <hr/>
