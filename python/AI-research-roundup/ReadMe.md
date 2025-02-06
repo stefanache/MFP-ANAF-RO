@@ -292,10 +292,10 @@ Acum sa vedem pe scurt(in rezumat), cateva ***lucrari*** abordate în / ***abord
  - d1)[***Baichuan-Omni-1.5 Technical Report: Pushing the Boundaries of Omni-Modal AI with 73.3 Benchmark Mastery***](https://media.licdn.com/dms/image/v2/D4D12AQHaviv9ZKEfHA/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1738609441226?e=1744243200&v=beta&t=xu8DVC0orT18YUEBWfme_88Cz97DwtUdRRCNJ4xgP4E) / [***Raport tehnic Baichuan-Omni-1.5: Depășirea limitelor AI omni-modale cu 73.3 Benchmark Mastery***](https://arxiv.org/abs/2501.15368)
      <br/>**Baichuan-Omni-1.5**, un model *omni-modal* avansat dezvoltat de ***Baichuan Inc***.
      <br/> Acest model este conceput pentru a înțelege și a genera conținut în mai multe modalități(multi-modal), inclusiv text, imagini, audio și video.<br/> 
-     <br/>Modelul poate procesa și genera text și vorbire de înaltă calitate din intrări text, imagine, audio și video, permițând interacțiuni intermodale fără întreruperi.
-     <br/>**Baichuan-Omni-1.5** atinge un scor mediu de **73,3** la zece benchmark-uri de înțelegere a imaginii, depășind alte modele precum **GPT-4o-mini**.<br/>
-     <br/>Modelul este antrenat pe aproximativ 500 de miliarde de puncte de date multimodale de înaltă calitate, folosind o strategie de antrenament în mai multe etape care integrează-progresiv alinierea(aducerea la acelasi numitor comun) multi-modală și reglarea fină(**fine-tuning**) a mai multor sarcini.<br/>
-     <br/>Canalul de instruire/invatare/formare/antrenare(training) implică etape care încorporează-progresiv viziunea(imagine,video) și audio în **LLM**(eminamente textual), urmate de reglaj-fin(**fine-tuning**) supravegheat cu date omni-modale.<br/>
+     <br/>Modelul poate procesa și genera text și vorbire de înaltă calitate din intrări text, imagine, audio și video, permițând interacțiuni inter-modale fără întreruperi.
+     <br/>**Baichuan-Omni-1.5** atinge, un scor mediu de **73,3**, la zece benchmark-uri, de înțelegere a imaginii, depășind alte modele precum **GPT-4o-mini**.<br/>
+     <br/>Modelul este antrenat, pe aproximativ 500 de miliarde de puncte(samples) de date(ds-uri), ds-uri multi-modale, ds-uri de înaltă calitate, folosind o strategie de antrenament, în mai multe etape, care integrează-progresiv alinierea(aducerea la acelasi numitor comun) multi-modală și reglarea fină(**fine-tuning(FT)**), a mai multor sarcini*tasks*).<br/>
+     <br/>Canalul de instruire/invatare/formare/antrenare(training) implică etape, care încorporează/integreaza-progresiv viziunea(imagine,video) și audio în **LLM**(uzual/de obicei/la baza fiind... textuale), urmate de reglaj-fin(**fine-tuning(FT)**) supravegheat(**SFT**), cu date omni-modale.<br/>
 
 <hr/><br/>
 
