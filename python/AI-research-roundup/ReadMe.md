@@ -125,7 +125,7 @@ Pentru inceput, in vederea intelegerii, cu usurinta, a acestui articol/săptăm�
  </details>
 
   <details>
- <summary><b>RDS</b> & <b>R_SFT</b></summary>
+ <summary><b>RDS</b> , <b>R_SFT</b></summary>
 
  <hr/>
  
