@@ -104,7 +104,7 @@ Pentru inceput, in vederea intelegerii, cu usurinta, a acestui articol/săptăm�
    <br/><br/>În acest fel, *GuardReasoner*(**GR**) obține *performanțe mai bune*, in zona de *explicabilitate/descriere* și de *generalizare/rezumare*.
    <br/>Experimente și analize ample pe ***13*** *etape-de-referință*, a ***3*** *sarcini-de-protecție*, demonstrează superioritatea acestuia(**GR**).
    <br/>În mod remarcabil, **GuardReasoner**-**8B**(**GR-8B**) depășește/intrece(ca performanta masurata(, *model*ul **GPT-4o+[CoT](https://learnprompting.org/docs/intermediate/chain_of_thought?srsltid=AfmBOopAoMbWL-h_oQrVQeHttPd3ZF9xB1c7nxBfe91RvbFJuLaDek9C)**, cu **5,74%** și *model*ul 
-   <br/>**LLaMA Guard 3**-**8B**, cu **20,84%**, in ceea ce priveste *scorul*-**F1**(în *medie*=*avg-F1*).
+   <br/>**LLaMA Guard 3**-**8B**, cu **20,84%**, in ceea ce priveste, *scorul*-**F1**(în *medie*=*avg-F1*).
    <br/>Au fost lansate/furnizate *datele-de-antrenament/train-dataset*, *codul-sursa* și *modelele*-cu-diferite-scale*(**1B**, **3B**, **8B**) ale/din cadrul [GuardReasoner](https://github.com/yueliu1999/GuardReasoner/).<br/>
 
  - [**GRT**](https://huggingface.co/datasets/yueliu1999/GuardReasonerTrain) = GuardReasonerTrain = Setul de antrenare/antrenament(**train**) al modelului *GuardReasoner*([**GR**](https://github.com/yueliu1999/guardreasoner))
