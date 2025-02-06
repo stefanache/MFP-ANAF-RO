@@ -203,27 +203,27 @@ Pentru inceput, in vederea intelegerii, cu usurinta, a acestui articol/săptăm�
  
  - [**ST-TS**](https://arxiv.org/abs/2501.19393) = Simple Test-Time Scaling = Scalarea(crestere/scadere) Simpla a Timpului/Duratei-de-Testare.
 
-<br/> Test-time scaling([*ST-TS*](https://arxiv.org/pdf/2501.19393)) este o abordare promițătoare, a modelarii limbajului(**LM**), care folosește compoziția suplimentară, la/pe timpul/momentul/durata-de-testare, pentru a îmbunătăți performanța.
+Test-time scaling([*ST-TS*](https://arxiv.org/pdf/2501.19393)) este o abordare promițătoare, a modelarii limbajului(**LM**), care folosește compoziția suplimentară, la/pe timpul/momentul/durata-de-testare, pentru a îmbunătăți performanța.
 
-<br/> Modelul **o1** al ***OpenAI***, a arătat această capacitate, dar nu a publicat(să-și împărtășească, în mod clar...) metodologia, ducând la multe repli-
+Modelul **o1** al ***OpenAI***, a arătat această capacitate, dar nu a publicat(să-și împărtășească, în mod clar...) metodologia, ducând la multe repli-
 eforturi [cationice](https://dexonline.ro/definitie/cationic)(de cautare a etimologiei).
 
-<br/>Căutăm, cea mai simplă abordare, de atingere a,  scalarii timpului/duratei-de-testare și mai cautam in plus si un raționament puternic-performa[n]t.
+Căutăm, cea mai simplă abordare, de atingere a,  scalarii timpului/duratei-de-testare și mai cautam in plus si un raționament puternic-performa[n]t.
 
-<br/>În primul rând, organizăm un mic(small) set/esantion de date/dataset/samples/exemple, **s1K**, de ***1.000 de întrebări***, asociate cu urme(care ne arata modul de gândire) de raționament, bazându-ne pe *trei(3) criterii*, pe care le validăm(verificam), prin ablațiuni(indepartari/taieri/inlaturari de exemple, care nu corespund/indeplinesc cel[or/e] 3 criterii de validare):
+În primul rând, organizăm un mic(small) set/esantion de date/dataset/samples/exemple, **s1K**, de ***1.000 de întrebări***, asociate cu urme(care ne arata modul de gândire) de raționament, bazându-ne pe *trei(3) criterii*, pe care le validăm(verificam), prin ablațiuni(indepartari/taieri/inlaturari de exemple, care nu corespund/indeplinesc cel[or/e] 3 criterii de validare):
    - *dificultate*,
    - *diversitate* și
    - *calitate*.
 
-<br/>În al doilea rând, s-a  *<ins>forțat</ins> dezvoltarea bugetului*...de timp/duratei, pus/alocat/prevazut/estimat pentru a controla timpul/durata-de-testare, fie prin... *încheierea*(<ins>forțată</ins>), a procesului de gândire aferent modelului sau/ori(la fel de... echi-probabil) fie prin recurgerea la... *prelungirea*(<ins>forțată</ins>) a acestuia(timpului/duratei-de-testare), prin adăugarea de durate/timpi de asteptare(de tip „Așteptați”), de mai multe ori, in/la/pe durata/momentul generar[ii/ea] modelului, atunci când, procesul acesta, încearca să se termine.
+În al doilea rând, s-a  *<ins>forțat</ins> dezvoltarea bugetului*...de timp/duratei, pus/alocat/prevazut/estimat pentru a controla timpul/durata-de-testare, fie prin... *încheierea*(<ins>forțată</ins>), a procesului de gândire aferent modelului sau/ori(la fel de... echi-probabil) fie prin recurgerea la... *prelungirea*(<ins>forțată</ins>) a acestuia(timpului/duratei-de-testare), prin adăugarea de durate/timpi de asteptare(de tip „Așteptați”), de mai multe ori, in/la/pe durata/momentul generar[ii/ea] modelului, atunci când, procesul acesta, încearca să se termine.
 
-<br/>Acest lucru, poate duce la/face ca modelul, dublarea/sa-si dubleze verificaril[or/e], atunci cand... se elaboreaza răspunsul acestuia, reparând/corectand adesea, trepte/etape de raționament-incorect/pasi de gândire incorectă.
+Acest lucru, poate duce la/face ca modelul, dublarea/sa-si dubleze verificaril[or/e], atunci cand... se elaboreaza răspunsul acestuia, reparând/corectand adesea, trepte/etape de raționament-incorect/pasi de gândire incorectă.
 
-<br/>După reglarea-fină(**FT**) supravegheată(**SFT**), a modelului de limbaj(*LM*) **Qwen2.5-32B-Instruct**,  pe esantionul **s1K** și echipat *<ins>cu</ins> forțarea-bugetului*(modelul acesta imbunatatit) **s1-32B**, la întrebările concursului de matematică, depaseste modelul **o1-Preview**, cu până la **27%**(pt. sarcinile/task-urile/întrebările concursurilor de matematică: ***MATH*** și ***AIME24***).
+După reglarea-fină(**FT**) supravegheată(**SFT**), a modelului de limbaj(*LM*) **Qwen2.5-32B-Instruct**,  pe esantionul **s1K** și echipat *<ins>cu</ins> forțarea-bugetului*(modelul acesta imbunatatit) **s1-32B**, la întrebările concursului de matematică, depaseste modelul **o1-Preview**, cu până la **27%**(pt. sarcinile/task-urile/întrebările concursurilor de matematică: ***MATH*** și ***AIME24***).
 
-<br/>Mai departe, scalarea **s1-32B** *<ins>cu</ins> forțarea bugetului*, permite extrapolarea performanțelor sale, depășindu-le pe cele ale modelului standard/obisnut, adica cel *<ins>fără</ins> interventie*, in/pe timpul/durata-de-testare: de la **50%**la **57%** pe/pt sarcina **AIME24**.
+Mai departe, scalarea **s1-32B** *<ins>cu</ins> forțarea bugetului*, permite extrapolarea performanțelor sale, depășindu-le pe cele ale modelului standard/obisnut, adica cel *<ins>fără</ins> interventie*, in/pe timpul/durata-de-testare: de la **50%**la **57%** pe/pt sarcina **AIME24**.
 
-<br/>*Modelul*, *datele* și *codul* sunt <ins>open-source</ins> la adresa: [*https://github.com/simplescaling/s1*.](https://github.com/simplescaling/s1)
+*Modelul*, *datele* și *codul* sunt <ins>open-source</ins> la adresa: [*https://github.com/simplescaling/s1*.](https://github.com/simplescaling/s1)
 
 <hr/>
 
