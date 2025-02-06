@@ -61,7 +61,7 @@ Pentru inceput, in vederea intelegerii, cu usurinta, a acestui articol/săptăm�
 
 
  - [**CFT**](https://arxiv.org/pdf/2501.17703?) = Critique Fine-Tuning = reglare-Fină Critică.
-   <br/>*Tunarea/Reglarea-Fină(**FT**) Critică*(**C*FT***), este o strategie, în care *model*ele(**LLM**), învață să *critice*(se face o analiză profundă pt. a găsi un răspuns/o etichetare tranșant[ă]), răspunsurile zgomotoase(care d.p.d.v al sarcinii, sunt...partial|>**100%** sau total|=**100%** greșite/incorecte=adica raspunsurile care au/poseda un **grad**=**procent**=**?** ***%*** de **incorectitdine**), mai degrabă/în loc să/decât să le *imite*... pe cele corecte(total-corecte=**100%** *corecte* = **0%** *incorecte*).
+   <br/>*Tunarea/Reglarea-Fină(**FT**) Critică*([**C*FT***](https://www.youtube.com/watch?v=GN-vfsgymOk&ab_channel=Keyur)), este o strategie, în care *model*ele(**LLM**), învață să *critice*(se face o analiză profundă pt. a găsi un răspuns/o etichetare tranșant[ă]), răspunsurile zgomotoase(care d.p.d.v al sarcinii, sunt...partial|>**100%** sau total|=**100%** greșite/incorecte=adica raspunsurile care au/poseda un **grad**=**procent**=**?** ***%*** de **incorectitdine**), mai degrabă/în loc să/decât să le *imite*... pe cele corecte(total-corecte=**100%** *corecte* = **0%** *incorecte*).
     <br/>Inspirat de *învățarea-umană*(procese care pun accent pe gândirea critică), **C*FT*** încurajează analiza mai profundă și nenuanțat(ă) - de înțelegere — trăsături adesea trecute cu vederea de către standardul **S*FT***.<br/>
 
 <hr/>
