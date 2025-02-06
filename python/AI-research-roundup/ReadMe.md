@@ -134,11 +134,11 @@ Pentru inceput, in vederea intelegerii, cu usurinta, a acestui articol/săptăm�
    <br/> Sintetizarea/Generarea/Crearea datelor(noi) de raționament([RDS](https://arxiv.org/html/2412.08864v1)) de înaltă calitate, pentru formarea continuă, s-a dovedit a fi eficientă, în îmbunătățirea performanței, modelelor lingvistice mari(**LLM**).
    <br/> Cu toate acestea, abordările sintetice anterioare se luptă să extindă cu ușurință datele și să suporte costuri mari în urmărirea calității înalte.
    Va propun, spre intelegere, un caz de utilitate/o [lucrare-auxiliara](https://arxiv.org/pdf/2403.02333)...desigur, cu referinte catre *RDS*.
-   <br/> În această [lucrare](https://arxiv.org/pdf/2403.02333), se propune **GSDP**(Graph-based Synthetic Data Pipeline), un cadru economic și scalabil pentru sinteza de date de raționament de înaltă calitate.
+   <br/> În această [lucrare](https://arxiv.org/pdf/2403.02333), se propune **GSDP**(Graph-based Synthetic Data Pipeline), un cadru economic și scalabil, pentru sinteza datelor de raționament, de înaltă calitate.
    <br/> Inspirați de *graficele/grafurile/reteaua de cunoștințe/cunoaștere*, s-a extras *puncte de cunoștințe*, din *datele-semințe*, și s-a construit un *grafic/graf/retea-de-relații*, cu/intre *punctele de cunoaștere/cunoștințe*, pentru a explora interconexiunile/relatiile lor.
-   <br/>Un [graf](https://ro.wikipedia.org/wiki/Graf) are relatii=muchii si noduri/puncte
-   <br/> Explorând *relațiile implicite dintre cunoștințe*, aceasta metoda/model(**GSDP**) realizează de 255 ori(×) *extinderea/extrapolarea/cresterea* a datelor.
-   <br/> În plus, **GSDP**, condus de modele open-source, realizează o calitate a sintezei comparabilă cu **GPT-4-0613**, menținând în același timp, costuri cu/de 100 ori(×) mai mici.
+   <br/>Sa ne reamintim faptul ca, un [graf](https://ro.wikipedia.org/wiki/Graf) are relatii=muchii si noduri/puncte.
+   <br/> Explorând *relațiile implicite, dintre cunoștințe*, aceasta metoda/model(**GSDP**), realizează de 255 ori(×), *extinderea/extrapolarea/cresterea* datelor.
+   <br/> În plus, **GSDP**, condus de modele open-source, realizează o calitate a sintezei, comparabilă cu **GPT-4-0613**, menținând în același timp, costuri cu/de 100 ori(×), mai mici.
    <br/> Pentru a aborda, cea mai dificilă sarcină de raționament matematic, se prezentă setul de date(dataset/ds) ***GSDP-MATH***, care cuprinde peste ***1,91 milioane*** de perechi(*problema și răspuns(**QA**)*) matematice.
    <br/> După reglajul-fin(**FT**) pe ds-ul***GSDP-MATH***, modelul(LLM-ul) **GSDP-7B**(bazat pe LLM-ul de baza/de inceput/de plecare, **Mistral-7B**) atinge o precizie de **37,7%** la/pe benchmark-ul **MATH** și de **78,4%** pe/la benchmark-ul **GSM8K**, demonstrând eficacitatea acestei metode( **GSDP**).
    <br/> *Setul de date* și *modelele instruite* în această [lucrare]((https://arxiv.org/pdf/2403.02333)) sunt disponibile.
@@ -146,8 +146,8 @@ Pentru inceput, in vederea intelegerii, cu usurinta, a acestui articol/săptăm�
 <hr/>
 
  - [**R-SFT**](https://www.invisible.co/blog/what-is-supervised-fine-tuning) = Reasoning Supervised Fine-Tuning = reglaj-Fin Supravegheat bazat pe/de Raționament(Reasoning: mod/modul/model de gândire-asemănătoare omului);
-   <br/>Capacitatea/Abilitatea de a raționa este crucială/extrem de importantă pentru **LLM**-uri, permițându-le să ***imite*** modele de gândire asemănătoare omului.
-   <br/>[*R-SFT*](https://arxiv.org/pdf/2403.02333) este un mod/o varianta/un modul de abordăre privind instruirea/invatare/formarea/antrenarea pt indeplinirea sarcinilor(***tasks***)-**AI**, in conformitate cu  metodologia GuardReasoner(**GR**).
+   <br/>Capacitatea/Abilitatea de a raționa, este crucială/extrem de importantă, pentru **LLM**-uri, permițându-le, să ***imite***, modelele de gândire, asemănătoare omului.
+   <br/>[*R-SFT*](https://arxiv.org/pdf/2403.02333), este un mod/o varianta/un modul de abordăre, privind instruirea/invatare/formarea/antrenarea, pt indeplinirea sarcinilor(***tasks***)-**AI**, in conformitate cu  metodologia GuardReasoner(**GR**).
    <br/><br/> De ce este atât de importantă reglarea-fină(*FT*) supravegheată(*SFT*)?<br/>
 <br/> Prețuiește *calitatea*datelor -asupra/in/vs.- dauna *cantității* de date<br/>
 <br/>În primele zile ale **AI**, *cantitatea* de date domina.
