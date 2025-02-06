@@ -178,7 +178,7 @@ Pentru inceput, in vederea intelegerii, cu usurinta, a acestui articol/săptăm�
 <br/>Experimentele noastre arată că, *DPO*-ul se poate regla-fin(**FT**), astfel incat, *LM*-ul să se *alinieze*(controlat/asa cum vrem noi), la preferințele umane, precum și faptul ca, sau,  aceasta *aliniere* se efectuaza/are loc... *mai bine* decât in cazul metodelelor deja existente.
 <br/>În special, reglarea-fină(**FT**) cu/bazat *DPO*, depășește [***RLHF***](https://arxiv.org/html/2403.10704v1), bazat pe **PPL Quantization([PPQ](https://github.com/OpenPPL/ppq))**, în capacitatea sa, de a controla senzorii generați și potrivește sau îmbunătățește calitatea răspunsului, în rezumat și dialog, într-o singură tură(dintr-o singura trecere), fiind în același timp, substanțial mai simplu de implementat și instruit/invatat.
 <br/>***Nota***: Perplexitatea([**PPL**](https://github.com/ggerganov/llama.cpp/discussions/4110)) este o măsurătoare foarte aproximativă pentru a vedea cât de multă [cuantificare](https://dexonline.ro/definitie/cuantificare/definitii)(Quantization) modifică de fapt rezultatul final al modelului;
-<br/> adica PPQ = PPL-Q = rezultat=fctie(Quantization) = dependenta: rezultat(Quantization).
+<br/> adica PPQ = PPL-Quantization(Q) = rezultat=fctie(Quantization) = dependenta: rezultat(Quantization) = PPL(Q).
 
 <hr/>
 
