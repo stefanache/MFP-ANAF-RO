@@ -245,8 +245,8 @@ Acum sa vedem pe scurt(in rezumat), cateva ***lucrari*** abordate în / ***abord
 <br/>1. GuardReasoner 8B(**GR-8B**) realizează cele mai bune performanțe în sarcinile de detectare a nocivității prompte și a celei de răspuns, depășind/întrecând/concurând atât modelele open-source(sursă deschisă), cât și cele cu sursă închisă.
 <br/>2. GuardReasoner(**GR**) oferă pașii detaliați de raționament, sporind transparența și ajutând la corectarea probelor/mostrelor etichetate greșit.
 <br/>3. Modelul(**GR**) funcționează independent de categoriile fixe, recunoscând conținutul dăunător/rau/dur deschis, îmbunătățind astfel generalizarea.
-<br/><br/>[Lucrarea](https://arxiv.org/pdf/2501.18492) evidențiază dezvoltarea unui model de gardă(cum este **GR**) pentru a atenua riscurile potențiale și impactul dăunător al[e]/asupra **LLM**-urilor, contribuind la integrarea mai sigură a **AI** în societate.<br/>
-<br/>br/>***Retineti*** va rog, *dependenta-terminiologica*: **GR**(***R-SFT***(*SFT*(FT)) , ***HS-DPO***(*DPO*) , ***GRT***).
+<br/><br/>[Lucrarea](https://arxiv.org/pdf/2501.18492) evidențiază dezvoltarea unui model de gardă(cum este **GR**) pentru a atenua riscurile potențiale și impactul dăunător al[e]/asupra **LLM**-urilor, contribuind la integrarea mai sigură a **AI** în societate.
+<br/><br/>***Retineti*** va rog, *dependenta-terminiologica*: **GR**(***R-SFT***(*SFT*(FT)) , ***HS-DPO***(*DPO*) , ***GRT***).
  <hr/>
  </details>
  
@@ -295,8 +295,8 @@ Acum sa vedem pe scurt(in rezumat), cateva ***lucrari*** abordate în / ***abord
      <br/>Modelul poate procesa și genera text și vorbire de înaltă calitate din intrări text, imagine, audio și video, permițând interacțiuni inter-modale fără întreruperi.
      <br/>**Baichuan-Omni-1.5** atinge, un scor mediu de **73,3**, la zece benchmark-uri, de înțelegere a imaginii, depășind alte modele(**LLM**-uri), precum **GPT-4o-mini**.<br/>
      <br/>Modelul este antrenat, pe aproximativ 500 de miliarde de puncte(samples) de date(**ds**-uri), *ds*-uri multi-modale, *ds*-uri de înaltă calitate, folosind o strategie de antrenament, în mai multe etape, care integrează-progresiv alinierea(aducerea la acelasi numitor comun) multi-modală și reglarea fină(**fine-tuning(FT)**), a mai multor sarcini*tasks*).<br/>
-     <br/>Canalul de instruire/invatare/formare/antrenare(training) implică etape, care încorporează/integreaza-progresiv viziunea(imagine,video) și audio în **LLM**(uzual/de obicei/la baza fiind... textuale), urmate de reglaj-fin(**fine-tuning(FT)**) supravegheat(**SFT**), cu date omni-modale.<br/>
-<br/><br/>***Retineti*** varog, *depententa-terminologica*: **Baichuan-Omni-1.5**(***LLM***,***SFT***(*FT*)))
+     <br/>Canalul de instruire/invatare/formare/antrenare(training) implică etape, care încorporează/integreaza-progresiv viziunea(imagine,video) și audio în **LLM**(uzual/de obicei/la baza fiind... textuale), urmate de reglaj-fin(**fine-tuning(FT)**) supravegheat(**SFT**), cu date omni-modale.
+<br/><br/>***Retineti*** va rog, *depententa-terminologica*: **Baichuan-Omni-1.5**(***LLM***,***SFT***(*FT*)))
 
 <hr/><br/>
 
