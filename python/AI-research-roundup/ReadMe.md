@@ -44,7 +44,7 @@ Pentru inceput, in vederea intelegerii, cu usurinta, a acestui articol/săptăm�
 </details>
 
 <details>
- <summary><b>FT</b> & <b>SFT</b> & <b>CFT</b>, <b>RL</b></summary>
+ <summary><b>FT</b> & <b>SFT</b> & <b>CFT</b>, <b>RL</b>, <b>OOD</b></summary>
 
  <hr/>
  
@@ -79,19 +79,18 @@ Pentru inceput, in vederea intelegerii, cu usurinta, a acestui articol/săptăm�
 
 <hr/>
 
-</details>   
-
-<details>
- <summary><b>OOD</b>, <b>GR</b> & <b>GRT</b></summary>
-
- <hr/>
- 
   - [**OOD**](https://paperswithcode.com/task/ood-detection) = ***Out***-*Of*-**Distribution** = ([detectia](https://www.sciencedirect.com/science/article/abs/pii/S0950705125000231)) în(*Of*)-afara(***Out***)-Distribuției(**Distribution**).
    <br/>*Detectarea Out of Distribution*(**OOD**) este sarcina de a *detecta-instanțe*, care *nu aparțin distribuției*, pe care a fost *instruit/invatat/antrenat/format* **clasificatorul**.
    <br/>***Datele***-**OOD** sunt adesea denumite ***date***-„*nevăzute*”, deoarece *model*ul(**LLM**-ul) nu le-a *întâlnit/văzut* în timpul **antrenament***ului*.<br/>
    <br/>*Detectarea-**OOD*** este de obicei efectuată prin **antrenarea/invatarea/formarea** unui *model*(**LLM**), pentru a distinge între ***datele***-*în*-*Distribuție*(**ID = In-Distribution**), pe care *model*ul(**LLM**-ul) le-a *văzut* în timpul *antrenamentului* și **datele**-**OOD**, pe care <ins>*nu*</ins> le-a *văzut*.
    <br/>Acest lucru poate fi realizat folosind o varietate de *tehnici*, cum ar fi ***antrenarea***(separat/ă) a unui ***detector***-**OOD**,  ori ***modificarea***-**arhitecturii** sau modificarea [**funcției-de-pierdere**](https://ro.eitca.org/artificial-intelligence/eitc-ai-adl-advanced-deep-learning/advanced-computer-vision/convolutional-neural-networks-for-image-recognition/what-is-the-mathematical-formula-for-the-loss-function-in-convolution-neural-networks/), a modelului(**LLM**-ului), pentru a-l(pe **LLM**) face mai sensibil, la ***datele***-**OOD**.<br/>  
 
+ <hr/>
+ 
+</details>   
+
+<details>
+ <summary><b>GR</b> & <b>GRT</b></summary>
 
  <hr/>
  
