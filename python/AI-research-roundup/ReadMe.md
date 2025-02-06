@@ -189,9 +189,9 @@ Pentru inceput, in vederea intelegerii, cu usurinta, a acestui articol/săptăm�
 
    <br/>*HS-DPO* este un mod/o varianta/un modul/o varianta de abordare privind instruirea/invatare/antrenarea pt indeplinirea sarcinilor-AI, in conformitate cu metodologia GuardReasoner(**GR**).
    <br/> Metoda/Tehnica/Abordarea *HS-DPO*=ExempleDificile(HS)-Optimizarea Preferințelor Directe(DPO), pentru eșantionare(*S*ampling), se caracterizeaza prin urmatoarele aspecte:
-<br/> • GuardReasoner(**GR**) *identifică* cele mai dificile/grele/dure(hard) cazuri/exemple/esantioane/mostre(samples), adica *identifică* ExempleDificile/HardSamples(*HS*), în care răspunsurile **AI** conțin *atât* **raționament-corect**, *cât și* **raționament-incorect**(pașii de rationament/rationamentul corect[i] vs. incorect[i]).
+<br/> • GuardReasoner(**GR**) *identifică* cele mai dificile/grele/dure(*H*ard) cazuri/exemple/esantioane/mostre/puncte de investigare(samples), adica *identifică* ExempleDificile/HardSamples(*HS*), în care răspunsurile **AI**, conțin *atât* **raționament-corect**, *cât și* **raționament-incorect**(pașii de rationament/rationamentul corect[i] vs./si incorect[i]).
 <br/> • Se *antrenează* folosind <ins>mai multe modele de raționament</ins>, fiecare cu puncte forte diferite, pentru a <ins>îmbunătăți acuratețea</ins>.
-<br/> • Modelul *compară* <ins>pașii-**buni**-de-raționament</ins> și/cu/vs. <ins>pașii-***răi***-de-raționament</ins>, *învățând să prefere* pașii/raționamentul **corect/bun[i]** față de cei **înșelatori/falsi/incorecti**.<br/>
+<br/> • Modelul *compară* <ins>pașii-**buni**-de-raționament</ins> și/cu/vs. <ins>pașii-***răi***-de-raționament</ins>, *învățând să prefere/identifice* pașii/raționamentul **corect/bun[i]** față de cei/in dauna celor **înșelatori/falsi/incorecti**.<br/>
 
 <hr/>
 
