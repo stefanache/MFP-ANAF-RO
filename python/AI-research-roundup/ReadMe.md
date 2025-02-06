@@ -98,12 +98,10 @@ Pentru inceput, in vederea intelegerii, cu usurinta, a acestui articol/săptăm�
  - [**GR**](https://huggingface.co/papers/2501.18492) = [GuardReasoner](https://arxiv.org/html/2501.18492v1) = *model* de *Gardă* bazat pe *Raționament*(metodologia *GuardReasoner*; se trece de la ***imitatie*** la **garantii**).
    <br/>Pe măsură ce **LLM**-urile influențează, din ce în ce mai mult, siguranța aplicațiilor critice, asigurarea siguranței acestora, folosind balustrade/protectii, rămâne o provocare cheie/importanta.
    <br/>Această lucrare, propune *GuardReasoner*(**GR**), o nouă protecție pentru **LLM**, prin ghidarea/orientarea/formarea *model*ului de gardă***GM**), pentru a *învăța* să **raționeze**.
-
    <br/><br/> Concret: 
    <br/>-Creăm mai întâi *setul-de-date(dataset)* <ins>*GuardReasonerTrain*(**GRT**)</ins>, care constă din ***127K***-*mostre/esantioane* cu ***460K***-*pași-de-raționament*(*detaliați*).
    <br/>-Apoi, introducem raționamentul ***SFT*** pentru a <ins>debloca</ins> capacitatea de *raționament* a *model*elor de gardă(**GM**).
-   <br/>-În plus, prezentăm un *eșantion-dur/dificiel* de **DPO** pentru a le(**GM**-urilor) <ins>consolida/intari</ins> și mai mult capacitatea de *raționament*.
-
+   <br/>-În plus, prezentăm un *eșantion-dur/dificil* de **DPO**(Direct Preference Optimization) pentru a le(**GM**-urilor) <ins>consolida/intari</ins> și mai mult capacitatea de *raționament*.
    <br/><br/>În acest fel, *GuardReasoner*(**GR**) obține *performanțe mai bune*, in zona de *explicabilitate/descriere* și de *generalizare/rezumare*.
    <br/>Experimente și analize ample pe ***13*** *etape-de-referință*, a ***3*** *sarcini-de-protecție*, demonstrează superioritatea acestuia(**GR**).
    <br/>În mod remarcabil, **GuardReasoner**-**8B** depășește/intrece(ca performanta masurata(, *model*ul **GPT-4o+[CoT](https://learnprompting.org/docs/intermediate/chain_of_thought?srsltid=AfmBOopAoMbWL-h_oQrVQeHttPd3ZF9xB1c7nxBfe91RvbFJuLaDek9C)** cu **5,74%** și *model*ul 
