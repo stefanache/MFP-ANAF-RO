@@ -296,7 +296,7 @@ Acum sa vedem pe scurt(in rezumat), cateva ***lucrari*** abordate în / ***abord
      <br/>**Baichuan-Omni-1.5** atinge, un scor mediu de **73,3**, la zece benchmark-uri, de înțelegere a imaginii, depășind alte modele(**LLM**-uri), precum **GPT-4o-mini**.<br/>
      <br/>Modelul este antrenat, pe aproximativ 500 de miliarde de puncte(samples) de date(**ds**-uri), *ds*-uri multi-modale, *ds*-uri de înaltă calitate, folosind o strategie de antrenament, în mai multe etape, care integrează-progresiv alinierea(aducerea la acelasi numitor comun) multi-modală și reglarea fină(**fine-tuning(FT)**), a mai multor sarcini*tasks*).<br/>
      <br/>Canalul de instruire/invatare/formare/antrenare(training) implică etape, care încorporează/integreaza-progresiv viziunea(imagine,video) și audio în **LLM**(uzual/de obicei/la baza fiind... textuale), urmate de reglaj-fin(**fine-tuning(FT)**) supravegheat(**SFT**), cu date omni-modale.
-<br/><br/>***Retineti*** va rog, *depententa-terminologica*: **Baichuan-Omni-1.5**(***LLM***,***SFT***(*FT*)))
+<br/><br/>***Retineti*** va rog, *depententa-terminologica*: **Baichuan-Omni-1.5**(***LLM*** , ***SFT***(*FT*)))
 
 <hr/><br/>
 
