@@ -307,9 +307,9 @@ Acum sa vedem pe scurt(in rezumat), cateva ***lucrari*** abordate în / ***abord
 <br/>**RL** îmbunătățește capacitățile de recunoaștere vizuală de bază ale modelului, contribuind la o generalizare îmbunătățită în domeniile vizuale.
 <br/>**SFT** este încă util pentru antrenamentul RL eficient, deoarece stabilizează formatul de ieșire al modelului, permițând RL ulterior să obțină câștiguri de performanță.<br/>
 <br/>**RL** îmbunătățește constant performanța [**OOD**](https://encord.com/blog/what-is-out-of-distribution-ood-detection/) în toate sarcinile, în timp ce **SFT** arată o degradare a performanței.
-<br/>Creșterea calculului **RL** îmbunătățește acuratețea recunoașterii vizuale în [**VLM**](https://encord.com/blog/vision-language-models-guide/)-uri, în timp ce scalarea **SFT** deteriorează atât recunoașterea vizuală, cât și performanța generală.<br/>
-<br/>Lucrarea demonstrează că **RL** este superior **SFT** în dobândirea de cunoștințe generalizabile în sarcini complexe, multimodale.
-<br/>Cu toate acestea, **SFT** este încă crucial pentru stabilizarea formatului de ieșire al modelului, permițând antrenamentul **RL** eficient.<br/>
+<br/>Creșterea calculului **RL**, îmbunătățește acuratețea, recunoașterii vizuale, în [**VLM**](https://encord.com/blog/vision-language-models-guide/)-uri, în timp ce scalarea **SFT**, deteriorează,  atât recunoașterea vizuală, cât și performanța generală.<br/>
+<br/>Lucrarea demonstrează că **RL**-ul, este superior **SFT**-ului, în dobândirea/invatarea de cunoștințe generalizabile(rezumatelor), în zona sarcinilor complexe, multi-modale.
+<br/>Cu toate acestea, **SFT** este încă crucial/important, pentru stabilizarea, formatului de ieșire al modelului(LLM/VLM), permițând antrenamentul **RL** eficient.<br/>
 
 <hr/>
 
