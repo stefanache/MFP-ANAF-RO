@@ -246,7 +246,7 @@ Acum sa vedem pe scurt(in rezumat), cateva ***lucrari*** abordate în / ***abord
 <br/>2. GuardReasoner(**GR**) oferă pașii detaliați de raționament, sporind transparența și ajutând la corectarea probelor/mostrelor etichetate greșit.
 <br/>3. Modelul(**GR**) funcționează independent de categoriile fixe, recunoscând conținutul dăunător/rau/dur deschis, îmbunătățind astfel generalizarea.
 <br/><br/>[Lucrarea](https://arxiv.org/pdf/2501.18492) evidențiază dezvoltarea unui model de gardă(cum este **GR**) pentru a atenua riscurile potențiale și impactul dăunător al[e]/asupra **LLM**-urilor, contribuind la integrarea mai sigură a **AI** în societate.<br/>
-<br/>br/>***Retineti*** va rog, *dependenta-terminiologica*: **GR**(*R-SFT*(SFT(FT))*,*HS-DPO(DPO)*,*GRT*).
+<br/>br/>***Retineti*** va rog, *dependenta-terminiologica*: **GR**(*R-SFT*(*SFT*(FT)) , *HS-DPO*(DPO) , *GRT*).
  <hr/>
  </details>
  
