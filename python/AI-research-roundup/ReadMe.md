@@ -132,7 +132,7 @@ Pentru inceput, in vederea intelegerii, cu usurinta, a acestui articol/săptăm�
  
  - [**RDS**](https://arxiv.org/abs/2403.02333) = Reasoning Data Synthesis = Sinteza Datelor de Raționament
    <br/>[*RDS*](https://arxiv.org/pdf/2403.02333) este un mod/o varianta/un modul/o varianta de abordare privind instruirea/invatarea/formarea/antrenarea pt indeplinirea sarcinilor-AI, in conformitate cu  metodologia *GuardReasoner*(**GR**).
-   <br/> Sintetizarea datelor de raționament([RDS](https://arxiv.org/html/2412.08864v1)) de înaltă calitate, pentru formarea continuă, s-a dovedit a fi eficientă, în îmbunătățirea performanței, modelelor lingvistice mari(**LLM**).
+   <br/> Sintetizarea/Generarea/Crearea datelor(noi) de raționament([RDS](https://arxiv.org/html/2412.08864v1)) de înaltă calitate, pentru formarea continuă, s-a dovedit a fi eficientă, în îmbunătățirea performanței, modelelor lingvistice mari(**LLM**).
    <br/> Cu toate acestea, abordările sintetice anterioare se luptă să extindă cu ușurință datele și să suporte costuri mari în urmărirea calității înalte.
    Va propun, spre intelegere, un caz de utilitate/o [lucrare-auxiliara](https://arxiv.org/pdf/2403.02333)...desigur, cu referinte catre *RDS*.
    <br/> În această [lucrare](https://arxiv.org/pdf/2403.02333), se propune **GSDP**(Graph-based Synthetic Data Pipeline), un cadru economic și scalabil pentru sinteza de date de raționament de înaltă calitate.
