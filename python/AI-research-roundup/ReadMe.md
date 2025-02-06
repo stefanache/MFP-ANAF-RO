@@ -219,9 +219,9 @@ Căutăm, cea mai simplă abordare, de atingere a,  scalarii timpului/duratei-de
 
 Acest lucru, poate duce la/face ca modelul, dublarea/sa-si dubleze verificaril[or/e], atunci cand... se elaboreaza răspunsul acestuia, reparând/corectand adesea, trepte/etape de raționament-incorect/pasi de gândire incorectă.
 
-După reglarea-fină(**FT**) supravegheată(**SFT**), a modelului de limbaj(*LM*) **Qwen2.5-32B-Instruct**,  pe esantionul **s1K** și echipat *<ins>cu</ins> forțarea-bugetului*(modelul acesta imbunatatit) **s1-32B**, la întrebările concursului de matematică, depaseste/intrece modelul **o1-Preview**, cu până la **27%**, pt./pe sarcinile/task-urile/întrebările concursurilor de matematică, ***MATH*** și ***AIME24***.
+După reglarea-fină(**FT**) supravegheată(**SFT**), a modelului de limbaj(*LM*) **Qwen2.5-32B-Instruct**,  pe esantionul **s1K** și echipat *<ins>cu</ins> forțarea-bugetului*(modelul acesta imbunatatit), modelul **s1-32B**, la întrebările concursului de matematică, depaseste/intrece modelul **o1-Preview**, cu până la **27%**, pt./pe sarcinile/task-urile/întrebările concursurilor de matematică, ***MATH*** și ***AIME24***.
 
-Mai departe, scalarea **s1-32B** *<ins>cu</ins> forțarea bugetului*, permite extrapolarea/cresterea performanțelor sale, depășindu-le pe cele ale modelului standard/obisnut, adica cel *<ins>fără</ins> interventie*, in/pe timpul/durata-de-testare, de la **50**% la **57**%, pe/pt. sarcina **AIME24**.
+Mai departe, scalarea **s1-32B**, *<ins>cu</ins> forțarea bugetului*, permite extrapolarea/cresterea performanțelor sale, depășindu-le pe cele ale modelului standard/obisnut, adica cel *<ins>fără</ins> interventie*, in/pe timpul/durata-de-testare, de la **50**% la **57**%, pe/pt. sarcina **AIME24**.
 
 *Modelul*, *datele* și *codul* sunt oferite <ins>open-source</ins>, la adresa: [*https://github.com/simplescaling/s1*.](https://github.com/simplescaling/s1)
 
