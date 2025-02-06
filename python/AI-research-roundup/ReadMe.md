@@ -310,9 +310,9 @@ Acum sa vedem pe scurt(in rezumat), cateva ***lucrari*** abordate în / ***abord
 <br/>**RL**-ul îmbunătățește constant performanța [**OOD**](https://encord.com/blog/what-is-out-of-distribution-ood-detection/) în toate sarcinile(*performanta-generala*), în timp ce, ***SFT***-ul arată o degradare a *performanței*(deci **RL** > ***SFT***).
 <br/>Creșterea calculului **RL**, îmbunătățește *acuratețea*, *recunoașterii-vizuale*, în [**VLM**](https://encord.com/blog/vision-language-models-guide/)-uri, în timp ce, scalarea ***SFT***-ului, deteriorează,  atât *recunoașterea-vizuală*, cât și *performanța-generală*(deci **RL** > ***SFT***).<br/>
 <br/>Lucrarea demonstrează că, **RL**-ul este superior **SFT**-ului, în dobândirea/invatarea de cunoștințe-generalizabile(rezumatelor), în zona sarcinilor-complexe, multi-modale.
-<br/>Cu toate acestea, sa nu uitam ca, ***SFT***-ul, este încă crucial/important/util, pentru *stabilizarea*, formatului-de-ieșire, al modelului(LLM/VLM), permițând ulterior,  antrenamentul-**RL**-eficient.<br/>
+<br/>Cu toate acestea, sa nu uitam ca, ***SFT***-ul, este încă crucial/important/util, pentru *stabilizarea*, formatului-de-ieșire, al modelului(LLM/VLM), permițând ulterior,  antrenamentul-**RL**-eficient.
 <br/><br/>***Retineti*** vă rog, că: **RL** > ***SFT***, insa...
-<br/>...se foloseste ***SFT***-ul(stiuta fiind, capacitatea sa de *memorare/imitare*), inainte a aplicarea **RL**-ul(stiuta fiind, tendinta sa de *generalizare*), ***SFT***-ul, in acest caz, jucand un rol/ca element/sau din motive de... *stabilizare*, a iesirii/raspunsului.
+<br/>...se foloseste ***SFT***-ul(stiuta fiind, capacitatea sa de *memorare/imitare*), inainte de aplicarea **RL**-ului(stiuta fiind, tendinta sa de *generalizare*), ***SFT***-ul, in acest caz, jucand un rol/ca element/sau din motive de... *stabilizare/stabilizator*, a[l] iesirii/raspunsului oferit.
 <hr/>
 
 </details>
