@@ -75,7 +75,7 @@ Pentru inceput, in vederea intelegerii, cu usurinta, a acestui articol/săptăm�
      care sunt transmise <ins>agentului</ins>.
 
    *Învățarea prin consolidare*(**RL** ) este o zonă interdisciplinară a **învățării automate(ML**)** și a **controlului optim**, preocupată de(care se ocupa de_ modul în care un <ins>agent-inteligent</ins> ar trebui să ia **acțiuni** într-un *mediu-dinamic* pentru a maximiza un <ins>*semnal-de-recompensă*</ins>.
-   <br/>*Învățarea prin consolidare/intarire*(**RL**) este una dintre cele trei(3) paradigme/modele/posibilitati/variante de bază(principale) ale ***învățării automate(ML)***, alături de **învățarea-supervizată/supravegheată/etichetată**(**SL** = Supervised-Learning) și de **învățarea-nesupravegheată/nesupervizată/neetichetată**(**unSL** = unSupervised-Learning).<br/>
+   <br/>*Învățarea prin consolidare/intarire*(**RL**) este una dintre cele trei(3) paradigme/modele/posibilitati/variante de bază(principale) ale ***învățării automate(ML)***, alături de **învățarea-Supervizată/Supravegheată/Etichetată**(**SL** = *Supervised-Learning*) și de **învățarea-neSupravegheată/nesupervizată/neEtichetată**(**unSL** = *unSupervised-Learning*). Asadar, In **ML**, avem deci 3 paradigme de invatare, clasice/traditionale : {**RL**,**SL**,**unSL**}( <br/>
 
 <hr/>
 
