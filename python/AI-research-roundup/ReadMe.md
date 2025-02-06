@@ -178,12 +178,12 @@ Pentru inceput, in vederea intelegerii, cu usurinta, a acestui articol/săptăm�
 <br/>Experimentele noastre arată că, *DPO*-ul se poate regla-fin(**FT**), astfel incat, *LM*-ul să se *alinieze*(controlat/asa cum vrem noi), la preferințele umane, precum și faptul ca, sau,  aceasta *aliniere* se efectuaza/are loc... *mai bine* decât in cazul metodelelor deja existente.
 <br/>În special, reglarea-fină(**FT**) cu/bazata pe *DPO*, depășește [***RLHF***](https://arxiv.org/html/2403.10704v1), bazat pe **PPL Quantization([PPQ](https://github.com/OpenPPL/ppq))**, în capacitatea sa, de a controla senzorii-generați și potrivește sau îmbunătățește calitatea răspunsului, în rezumat și dialog, într-o singură tură(dintr-o singura trecere), fiind în același timp, substanțial mai simplu de implementat și instruit/invatat.
 <br/>***Note-concluzive/explicative***:
-<br/>-***nota1***: studiem/explicam ***Dependenta*** **PPQ *=* PPL(*Q*)**
+<br/>-***nota1***: studiem/explicam ***Dependenta***, ***PPQ*** *=* **PPL**(*Q*), unde avem urmatoarea explicatie:
 <br/>   Perplexitatea([**PPL**](https://github.com/ggerganov/llama.cpp/discussions/4110)) este o măsurătoare foarte aproximativă pentru a vedea cât de multă [cuantificare](https://dexonline.ro/definitie/cuantificare/definitii)(Quantization) modifică de fapt rezultatul final al modelului;
 <br/>         adica PPQ = PPL-Quantization(Q) = rezultat=fctie(Quantization) = dependenta: rezultat(Quantization) = PPL(Q).
-<br/>-***nota2***: studiem/explicam ***Comparatia*** **FT(*DPO*)** *vs.* **RLHF(*PPQ*)**
-<br/>   *vechi*: RLHF bazata pe PPQ,  adica unde avem dependenta:  RLHF(PPQ)
-<br/>   *nou*:   FT   bazata pe DPO,  adica unde avem dependenta:  FT(DPO)     --- **este mai bun**!!! ---
+<br/>-***nota2***: studiem/explicam ***Comparatia***, **FT** *vs.* **RLHF**, unde avem urmatoarea situatie:
+<br/>   *vechi*: **RLHF** *bazata pe* ***PPQ***,  adica unde avem *dependenta*:  **RLHF**(*PPQ*)
+<br/>   *nou*:   **FT**   *bazata pe* ***DPO***,  adica unde avem *dependenta*:  **FT**(*DPO*)     --- ***este mai bun/castigator/winner***!!! ---
 
  - [**HS-DPO**](https://www.threads.net/@theturingpost/post/DFgdZq7MRJ_) = Hard-Sample Direct Preference Optimization = ExempleDificile - Optimizarea Directă a Preferințelor pentru esantioanele/[mostrele](https://www.google.com/search?q=mostre+sau+monstre&rlz=1C1CHBF_enRO1132RO1132&oq=mostre+sau+monstre&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIKCAEQABgKGBYYHjIKCAIQABiABBiiBNIBCTYwMzhqMGoxNagCCLACAQ&sourceid=chrome&ie=UTF-8) dure/dificile(mostre/exemple/esantioane/probe destinate invatarii/antrenamentului, si care... se află în apropierea graniței/limita de decizie/i);
 
