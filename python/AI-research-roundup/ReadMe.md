@@ -20,7 +20,7 @@ Hai să ne *scufundăm*(mai bine zis... sa *aprofundăm*.... toate aceste subiec
 In acest [***studiu***](https://www.linkedin.com/pulse/ai-research-roundup-safety-scaling-multimodal-breakthroughs-dynuf/) complex, care se refera la seria "*Rezumatelor din sfera cercetărilor **AI***", au aparut, o seama de <br/>termeni/prescurtări, des utiliza[ți/te].
 
 <details>
- <summary>Definire-Termeni-Utilizati...</summary>
+ <summary>Definire/Dictionar-Termeni-Utilizati in aceasta cercetare...</summary>
 
 <hr/>
 
