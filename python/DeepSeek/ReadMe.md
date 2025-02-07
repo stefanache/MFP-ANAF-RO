@@ -77,11 +77,27 @@ Cu toate acestea, Ives s-a declarat sceptic că serviciul va câștiga teren în
 
 „Niciun Global 2000 din SUA nu va folosi un start-up chinez [DeepSeek](https://www.analyticsvidhya.com/blog/2025/01/deepseek-v3-vs-gpt-4o-vs-llama-3-3-70b/) pentru a-și lansa infrastructura și cazurile de utilizare a IA”, a scris Ives. „Până la urmă, există o singură companie producătoare de cipuri din lume care lansează cazuri de utilizare autonome, robotice și AI mai largi și aceasta este Nvidia”.
 
-Incep sa apara evaluari ale DeepSeek:
+Incep sa apara evaluari ale/articole despre **DeepSeek**:
 
  - [Oamenii de știință se întâlnesc la DeepSeek: cum folosesc modelul AI de succes](https://www.nature.com/articles/d41586-025-00275-0)
  - [Înțelegerea capacităților modelelor de limbă mari DeepSeek R1](https://www.digitalocean.com/community/tutorials/deepseek-r1-large-language-model-capabilities)
  - [Învățarea prin întărire(RL) se încălzește](https://www.deeplearning.ai/the-batch/how-deepseek-r1-and-kimi-k1-5-use-reinforcement-learning-to-improve-reasoning/)
+ - [DeepSeek explicat: ce este DS și este sigur de utilizat?](https://ai.nd.edu/news/deepseek-explained-what-is-it-and-is-it-safe-to-use/)
+ - [Cea mai recentă descoperire a DeepSeek este redefinirea cursei AI](https://www.csis.org/analysis/deepseeks-latest-breakthrough-redefining-ai-race)
+ - [Dezbateri DeepSeek: Conducerea chinezească în ceea ce privește costul, costul real al instruirii, impactul marjei modelului închis Creșterea prețurilor H100, prețuri subvenționate prin inferență, controale la export, MLA](https://semianalysis.com/2025/01/31/deepseek-debates/)
+ - [Modelul AI ieftin și deschis al Chinei DeepSeek îi entuziasmează pe oamenii de știință](https://www.nature.com/articles/d41586-025-00229-6)
+ - [DeepSeek-R1 vs DeepSeek-V3: comparație detaliată](https://www.analyticsvidhya.com/blog/2025/02/deepseek-r1-vs-deepseek-v3/)
+ - [Înțelegerea lucrării DeepSeek-R1: Ghid pentru începători](https://medium.com/data-science-in-your-pocket/understanding-deepseek-r1-paper-beginners-guide-e86f83fda796)
+ - [Arhitectură DeepSeek-V3 (și R1!)](https://medium.com/@galhyams/deepseek-v3-and-r1-architecture-5e5ae796c7a9)
+ - [DeepSeek-Coder: Când LLM întâlnește programarea — Mai bine decât GPT 3.5?](https://medium.com/@tanalpha-aditya/deepseek-coder-when-the-llm-meets-programming-better-than-gpt-3-5-054cf85e3493)
+ - [DeepSeek: Îmbinarea performanței și eficienței în IA modernă](https://medium.com/@nandinilreddy/deepseek-bridging-performance-and-efficiency-in-modern-ai-106181a85693)
+ - [EP148: DeepSeek 1-Pager](https://blog.bytebytego.com/p/ep148-deepseek-1-pager)
+ - [Pentagonul SUA blochează DeepSeek AI după ce angajații au descoperit că se conectează la servere chineze](https://www.firstpost.com/tech/us-pentagon-blocks-deepseek-ai-after-employees-found-connecting-to-chinese-servers-13858194.html)
+ - [Open-R1: o reproducere complet deschisă a DeepSeek-R1](https://huggingface.co/blog/open-r1)
+ - [DeepSeek-R1 a explicat: Pionierat în următoarea eră a inteligenței artificiale bazate pe raționament](https://medium.com/@sahin.samia/deepseek-r1-explained-pioneering-the-next-era-of-reasoning-driven-ai-3eeb5ac4d4a0)
+ - [DeepSeek-R1: Prezentare tehnică a arhitecturii și inovațiilor sale](DeepSeek-R1 a explicat: Pionierat în următoarea eră a inteligenței artificiale bazate pe raționament)
+ - [DeepSeek este aici pentru a rămâne ca Microsoft, Perplexity își integrează modelul](https://www.pcmag.com/news/deepseek-is-here-to-stay-as-microsoft-perplexity-integrate-its-model)
+ - [...](https://devpress.csdn.net/user/v_JULY_v)
 
    
 In speranta ca am mai "[de-mistificat](https://www.linkedin.com/pulse/demystifying-deepseek-healthtech-professionals-ai-alex-g--n76ge/)", subiectul [***DeepSeek***](https://www.reddit.com/r/LocalLLaMA/comments/1ic24e0/now_you_can_use_deepseek_with_mcp_tools/), la final, as dori sa spun, doar faptul ca ... [timpul](https://adasci.org/deepseek-v3-explained-optimizing-efficiency-and-scale/), va fi cel care, [va proba](https://www.youtube.com/watch?v=bAWV_yrqx4w&ab_channel=YannicKilcher), cele spuse mai sus, in rest...sa [auzim](https://huggingface.co/docs/trl/main/en/grpo_trainer) numai de [bine](https://medium.com/@marvelous_catawba_otter_200/detailed-explanation-of-deepseek-r1-method-pure-reinforcement-learning-and-self-evolving-behavior-dced3a31e53a)!!!
