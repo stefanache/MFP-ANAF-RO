@@ -17,7 +17,7 @@ Săptămâna aceasta, se evidențiaza lucrări referitoare la ...
 
 Ideea acestui articol a inceput cu/inspirat de urmatoarea figura:
 
-<img href="https://arxiv.org/html/2501.18492v1/extracted/6167045/7_overall.png"><a href="https://arxiv.org/html/2501.18492v1/extracted/6167045/7_overall.png">GuardReasoner</a></img>
+<img src="https://arxiv.org/html/2501.18492v1/extracted/6167045/7_overall.png"><a href="https://arxiv.org/html/2501.18492v1/extracted/6167045/7_overall.png">GuardReasoner</a></img>
 
 Figura 2:GuardReasoner constă din trei module: 
 
