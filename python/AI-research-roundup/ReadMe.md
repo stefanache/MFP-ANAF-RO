@@ -23,7 +23,7 @@ Ideea acestui articol a inceput cu/inspirat de urmatoarele **2** [figuri](https:
     - (1) performanță,
     - (2) explicabilitate și
     - (3) generalizare.
-   Eșantionăm acest caz din WildGuardTest (Han și colab.,2024) set de date.
+   <br/>Eșantionăm acest caz din WildGuardTest (Han și colab.,2024) set de date.
 
 si ...
   
