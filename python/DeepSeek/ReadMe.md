@@ -103,6 +103,7 @@ Incep sa apara din ce in ce mai multe evaluari ale/articole despre **DeepSeek**:
  - [Partea-Întunecata profunda a DeepSeek: Atacuri de reglare-fina impotriva alinierii de siguranta a modelelor CoT-Enabled](https://arxiv.org/pdf/2502.01225)
  - [Raport tehnic DeepSeek-V3](https://arxiv.org/html/2412.19437v1)
  - [Reglarea-fină a Deepseek este necesara sau este inutilă?](https://www.reddit.com/r/LocalLLaMA/comments/1i9541o/fine_tuning_deepseek_or_is_it_unnecessary/)
+ - [DeepSeek tocmai a lansat DeepSeek VL2 Small - Model MoE Vision - Instalați local](https://www.youtube.com/watch?v=eiWB_zHWbMs&t=22s&ab_channel=FahdMirza)
  - [...](https://devpress.csdn.net/user/v_JULY_v)
 
    
