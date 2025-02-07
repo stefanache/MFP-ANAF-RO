@@ -101,6 +101,7 @@ Incep sa apara din ce in ce mai multe evaluari ale/articole despre **DeepSeek**:
  - [Raport tehnic: Analiza impactului DeepSeek-R1 asupra dezvoltării AI](https://www.researchgate.net/publication/388484582_Technical_Report_Analyzing_DeepSeek-R1's_Impact_on_AI_Development)
  - [DeepSeek R1 + Sonnet](https://medium.com/ingeniouslysimple/deepseek-r1-sonnet-ccd01a0f345b)
  - [Partea-Întunecata profunda a DeepSeek: Atacuri de reglare-fina impotriva alinierii de siguranta a modelelor CoT-Enabled](https://arxiv.org/pdf/2502.01225)
+ - [Raport tehnic DeepSeek-V3](https://arxiv.org/html/2412.19437v1)
  - [...](https://devpress.csdn.net/user/v_JULY_v)
 
    
