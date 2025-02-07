@@ -104,7 +104,14 @@ Incep sa apara din ce in ce mai multe evaluari ale/articole despre **DeepSeek**:
  - [Raport tehnic DeepSeek-V3](https://arxiv.org/html/2412.19437v1)
  - [Reglarea-fină a Deepseek este necesara sau este inutilă?](https://www.reddit.com/r/LocalLLaMA/comments/1i9541o/fine_tuning_deepseek_or_is_it_unnecessary/)
  - [DeepSeek tocmai a lansat DeepSeek VL2 Small - Model MoE Vision - Instalați local](https://www.youtube.com/watch?v=eiWB_zHWbMs&t=22s&ab_channel=FahdMirza)
-   <br/>[HF: Deepseek-VL2-Small ](https://huggingface.co/deepseek-ai/deepseek-vl2-small)
+   <br/>[HF: Deepseek-VL2-Small ](https://huggingface.co/deepseek-ai/deepseek-vl2-small);
+   <br/>DeepSeek-VL2 demonstrează capabilități superioare în diverse sarcini, inclusiv, dar fără a se limita la:
+   
+    - răspunsuri vizuale la întrebări,
+    - recunoașterea optică a caracterelor,
+    - înțelegerea documentelor/tabelului/diagramelor și
+    - [împământarea vizuală](https://paperswithcode.com/task/visual-grounding/codeless).
+
  - [...](https://devpress.csdn.net/user/v_JULY_v)
 
    
