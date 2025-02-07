@@ -96,6 +96,7 @@ Incep sa apara evaluari ale/articole despre **DeepSeek**:
  - [Open-R1: o reproducere complet deschisă a DeepSeek-R1](https://huggingface.co/blog/open-r1)
  - [DeepSeek-R1 a explicat: Pionierat în următoarea eră a inteligenței artificiale bazate pe raționament](https://medium.com/@sahin.samia/deepseek-r1-explained-pioneering-the-next-era-of-reasoning-driven-ai-3eeb5ac4d4a0)
  - [DeepSeek este aici pentru a rămâne ca Microsoft, Perplexity își integrează modelul](https://www.pcmag.com/news/deepseek-is-here-to-stay-as-microsoft-perplexity-integrate-its-model)
+ - [DeepSeek-R1: Prezentare tehnică a arhitecturii și inovațiilor sale](https://www.geeksforgeeks.org/deepseek-r1-technical-overview-of-its-architecture-and-innovations/)
  - [...](https://devpress.csdn.net/user/v_JULY_v)
 
    
