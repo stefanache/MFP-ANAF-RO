@@ -25,7 +25,7 @@ Ideea acestui articol a inceput cu/inspirat de urmatoarele [figuri](https://arxi
 
 si ...
   
-<img src="https://arxiv.org/html/2501.18492v1/extracted/6167045/7_overall.png"><a href="https://arxiv.org/html/2501.18492v1/extracted/6167045/7_overall.png">GuardReasoner</a></img>
+<img src="https://arxiv.org/html/2501.18492v1/extracted/6167045/7_overall.png" width="200" height="200"><a href="https://arxiv.org/html/2501.18492v1/extracted/6167045/7_overall.png">GuardReasoner</a></img>
  - Figura 2: GuardReasoner(**GR**) constă din trei(**3**) module: 
 
   - (1) Reasoning Data Synthesis(**RDS**),
