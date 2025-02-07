@@ -19,13 +19,13 @@ Ideea acestui articol a inceput cu/inspirat de urmatoarea figura:
 
 <img src="https://arxiv.org/html/2501.18492v1/extracted/6167045/7_overall.png"><a href="https://arxiv.org/html/2501.18492v1/extracted/6167045/7_overall.png">GuardReasoner</a></img>
 
-Figura 2:GuardReasoner constă din trei module: 
+Figura 2: GuardReasoner(**GR**) constă din trei(**3**) module: 
 
- - (1) Reasoning Data Synthesis(RDS),
- - (2) Reasoning-SFT(R-SFT) și
- - (3) Hard Sample DPO(HS-DPO).
+ - (1) Reasoning Data Synthesis(**RDS**),
+ - (2) Reasoning-SFT(**R-SFT**) și
+ - (3) Hard Sample DPO(**HS-DPO**).
    
-Sa le analizam pe rand:
+Hai sa le analizam pe rand(sa despicam firu' in 3 ! :)...
 
    - (1) În primul rând, GPT-4o este folosit pentru a crea date de raționament (GuardReasonerTrain) introducând promptul utilizatorului, răspunsul modelului țintă și adevărul de la sol.
    - (2) Apoi, modelul de bază este antrenat de R-SFT pe acest set de date pentru a dezvolta modelul de raționament ℳ<sub>R-SFT</sub>
