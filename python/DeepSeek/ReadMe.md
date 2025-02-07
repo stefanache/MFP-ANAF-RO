@@ -98,6 +98,9 @@ Incep sa apara din ce in ce mai multe evaluari ale/articole despre **DeepSeek**:
  - [DeepSeek este aici pentru a rămâne pt. ca Microsoft, Perplexity își integrează modelul](https://www.pcmag.com/news/deepseek-is-here-to-stay-as-microsoft-perplexity-integrate-its-model)
  - [DeepSeek-R1: Prezentare tehnică a arhitecturii și inovațiilor sale](https://www.geeksforgeeks.org/deepseek-r1-technical-overview-of-its-architecture-and-innovations/)
  - [Reglare-fină DeepSeek-R1 (model de raționament)](https://www.datacamp.com/tutorial/fine-tuning-deepseek-r1-reasoning-model)
+ - [Raport tehnic: Analiza impactului DeepSeek-R1 asupra dezvoltării AI](https://www.researchgate.net/publication/388484582_Technical_Report_Analyzing_DeepSeek-R1's_Impact_on_AI_Development)
+ - [DeepSeek R1 + Sonnet](https://medium.com/ingeniouslysimple/deepseek-r1-sonnet-ccd01a0f345b)
+ - [Partea-Întunecata profunda a DeepSeek: Atacuri de reglare-fina impotriva alinierii de siguranta a modelelor CoT-Enabled](https://arxiv.org/pdf/2502.01225)
  - [...](https://devpress.csdn.net/user/v_JULY_v)
 
    
