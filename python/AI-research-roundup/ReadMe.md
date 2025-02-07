@@ -22,10 +22,11 @@ Ideea acestui articol a inceput cu/inspirat de urmatoarea figura:
 Figura 2:GuardReasoner constă din trei module: 
 
  - (1) Reasoning Data Synthesis(RDS),
- - (2) Reasoning SFT și
- - (3) Hard Sample DPO.
+ - (2) Reasoning-SFT(R-SFT) și
+ - (3) Hard Sample DPO(HS-DPO).
    
 Sa le analizam pe rand:
+
    - (1) În primul rând, GPT-4o este folosit pentru a crea date de raționament (GuardReasonerTrain) introducând promptul utilizatorului, răspunsul modelului țintă și adevărul de la sol.
    - (2) Apoi, modelul de bază este antrenat de R-SFT pe acest set de date pentru a dezvolta modelul de raționament ℳ<sub>R-SFT</sub>
    - (3)ℳ<sub>R-SFT</sub> produce k ieșiri pentru a identifica eșantioanele ambigue cu răspunsuri atât corecte, cât și incorecte.
@@ -34,7 +35,7 @@ Sa le analizam pe rand:
      <br/>În acest fel, îl ghidăm pe GuardReasoner să învețe să raționeze.
 
 
-Hai să ne *scufundăm*(mai bine zis... hai sa *aprofundăm*.... toate aceste subiecte)!
+Hai să ne *scufundăm*(mai bine zis... hai sa *aprofundăm*.... toate aceste module)!
 
 In acest [***studiu***](https://www.linkedin.com/pulse/ai-research-roundup-safety-scaling-multimodal-breakthroughs-dynuf/) complex, care se refera la seria "*Rezumatelor din sfera cercetărilor **AI***", au aparut, o seama de <br/>termeni/prescurtări, des utiliza[ți/te].
 
