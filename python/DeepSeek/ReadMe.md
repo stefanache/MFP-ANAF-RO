@@ -77,7 +77,7 @@ Cu toate acestea, Ives s-a declarat sceptic că serviciul va câștiga teren în
 
 „Niciun Global 2000 din SUA nu va folosi un start-up chinez [DeepSeek](https://www.analyticsvidhya.com/blog/2025/01/deepseek-v3-vs-gpt-4o-vs-llama-3-3-70b/) pentru a-și lansa infrastructura și cazurile de utilizare a IA”, a scris Ives. „Până la urmă, există o singură companie producătoare de cipuri din lume care lansează cazuri de utilizare autonome, robotice și AI mai largi și aceasta este Nvidia”.
 
-Incep sa apara evaluari ale/articole despre **DeepSeek**:
+Incep sa apara din ce in ce mai multe evaluari ale/articole despre **DeepSeek**:
 
  - [Oamenii de știință se întâlnesc la DeepSeek: cum folosesc modelul AI de succes](https://www.nature.com/articles/d41586-025-00275-0)
  - [Înțelegerea capacităților modelelor de limbă mari DeepSeek-R1](https://www.digitalocean.com/community/tutorials/deepseek-r1-large-language-model-capabilities)
