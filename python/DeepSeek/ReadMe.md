@@ -108,9 +108,12 @@ Incep sa apara din ce in ce mai multe evaluari ale/articole despre **DeepSeek**:
    <br/>DeepSeek-VL2 demonstrează capabilități superioare în diverse sarcini, inclusiv, dar fără a se limita la:
    
     - răspunsuri vizuale la întrebări,
-    - recunoașterea optică a caracterelor,
-    - înțelegerea documentelor/tabelului/diagramelor și
-    - [împământarea vizuală](https://paperswithcode.com/task/visual-grounding/codeless).
+    - recunoașterea optică a caracterelor(OCR),
+    - înțelegerea
+        - documentelor
+        - tabelului
+        - diagramelor și
+    - [împământarea vizuală/Visual Grounding](https://paperswithcode.com/task/visual-grounding/codeless).
 
  - [...](https://devpress.csdn.net/user/v_JULY_v)
 
