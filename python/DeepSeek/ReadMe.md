@@ -80,12 +80,12 @@ Cu toate acestea, Ives s-a declarat sceptic că serviciul va câștiga teren în
 Incep sa apara evaluari ale/articole despre **DeepSeek**:
 
  - [Oamenii de știință se întâlnesc la DeepSeek: cum folosesc modelul AI de succes](https://www.nature.com/articles/d41586-025-00275-0)
- - [Înțelegerea capacităților modelelor de limbă mari DeepSeek R1](https://www.digitalocean.com/community/tutorials/deepseek-r1-large-language-model-capabilities)
+ - [Înțelegerea capacităților modelelor de limbă mari DeepSeek-R1](https://www.digitalocean.com/community/tutorials/deepseek-r1-large-language-model-capabilities)
  - [Învățarea prin întărire(RL) se încălzește](https://www.deeplearning.ai/the-batch/how-deepseek-r1-and-kimi-k1-5-use-reinforcement-learning-to-improve-reasoning/)
  - [DeepSeek explicat: ce este DS și este sigur de utilizat?](https://ai.nd.edu/news/deepseek-explained-what-is-it-and-is-it-safe-to-use/)
  - [Cea mai recentă descoperire a DeepSeek este redefinirea cursei AI](https://www.csis.org/analysis/deepseeks-latest-breakthrough-redefining-ai-race)
  - [Dezbateri DeepSeek: Conducerea chinezească în ceea ce privește costul, costul real al instruirii, impactul marjei modelului închis Creșterea prețurilor H100, prețuri subvenționate prin inferență, controale la export, MLA](https://semianalysis.com/2025/01/31/deepseek-debates/)
- - [Modelul AI ieftin și deschis al Chinei DeepSeek îi entuziasmează pe oamenii de știință](https://www.nature.com/articles/d41586-025-00229-6)
+ - [Modelul-AI ieftin și deschis al Chinei-DeepSeek îi entuziasmează pe oamenii de știință](https://www.nature.com/articles/d41586-025-00229-6)
  - [DeepSeek-R1 vs DeepSeek-V3: comparație detaliată](https://www.analyticsvidhya.com/blog/2025/02/deepseek-r1-vs-deepseek-v3/)
  - [Înțelegerea lucrării DeepSeek-R1: Ghid pentru începători](https://medium.com/data-science-in-your-pocket/understanding-deepseek-r1-paper-beginners-guide-e86f83fda796)
  - [Arhitectură DeepSeek-V3 (și R1!)](https://medium.com/@galhyams/deepseek-v3-and-r1-architecture-5e5ae796c7a9)
@@ -97,6 +97,7 @@ Incep sa apara evaluari ale/articole despre **DeepSeek**:
  - [DeepSeek-R1 a explicat: Pionierat în următoarea eră a inteligenței artificiale bazate pe raționament](https://medium.com/@sahin.samia/deepseek-r1-explained-pioneering-the-next-era-of-reasoning-driven-ai-3eeb5ac4d4a0)
  - [DeepSeek este aici pentru a rămâne pt. ca Microsoft, Perplexity își integrează modelul](https://www.pcmag.com/news/deepseek-is-here-to-stay-as-microsoft-perplexity-integrate-its-model)
  - [DeepSeek-R1: Prezentare tehnică a arhitecturii și inovațiilor sale](https://www.geeksforgeeks.org/deepseek-r1-technical-overview-of-its-architecture-and-innovations/)
+ - [Reglare-fină DeepSeek-R1 (model de raționament)](https://www.datacamp.com/tutorial/fine-tuning-deepseek-r1-reasoning-model)
  - [...](https://devpress.csdn.net/user/v_JULY_v)
 
    
