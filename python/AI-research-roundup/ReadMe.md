@@ -17,7 +17,7 @@ Săptămâna aceasta, se evidențiaza lucrări referitoare la ...
 
 Ideea acestui articol a inceput cu/inspirat de urmatoarele [figuri](https://arxiv.org/html/2501.18492):
 
-<img src="https://github.com/user-attachments/assets/ad261a21-29e0-4ecd-ad37-eb8249703cf5" width="95%" height="auto"><a href="https://arxiv.org/html/2501.18492">LLaMA Guard 3(LG3) si GuardReasoner(GR)</a></img>
+<img src="https://github.com/user-attachments/assets/ad261a21-29e0-4ecd-ad37-eb8249703cf5" width="95%" height="auto"><a href="https://arxiv.org/html/2501.18492"><br/>LLaMA Guard 3(LG3) si GuardReasoner(GR)</a></img>
 
  - Figura 1: Demonstratii ale **LLaMA Guard 3(LG3)** (partea stângă) și GuardReasoner(**GR**) (partea dreaptă), concentrându-se în principal pe 3 aspecte:
     - (1) performanță,
