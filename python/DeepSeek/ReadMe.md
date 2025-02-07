@@ -95,13 +95,14 @@ Incep sa apara din ce in ce mai multe evaluari ale/articole despre **DeepSeek**:
  - [Pentagonul SUA blochează DeepSeek AI după ce angajații au descoperit că se conectează la servere chineze](https://www.firstpost.com/tech/us-pentagon-blocks-deepseek-ai-after-employees-found-connecting-to-chinese-servers-13858194.html)
  - [Open-R1: o reproducere complet deschisă a DeepSeek-R1](https://huggingface.co/blog/open-r1)
  - [DeepSeek-R1 a explicat: Pionierat în următoarea eră a inteligenței artificiale bazate pe raționament](https://medium.com/@sahin.samia/deepseek-r1-explained-pioneering-the-next-era-of-reasoning-driven-ai-3eeb5ac4d4a0)
- - [DeepSeek este aici pentru a rămâne pt. ca Microsoft, Perplexity își integrează modelul](https://www.pcmag.com/news/deepseek-is-here-to-stay-as-microsoft-perplexity-integrate-its-model)
+ - [DeepSeek este aici pentru a rămâne pt. ca... Microsoft si Perplexity își integrează modelul](https://www.pcmag.com/news/deepseek-is-here-to-stay-as-microsoft-perplexity-integrate-its-model)
  - [DeepSeek-R1: Prezentare tehnică a arhitecturii și inovațiilor sale](https://www.geeksforgeeks.org/deepseek-r1-technical-overview-of-its-architecture-and-innovations/)
  - [Reglare-fină DeepSeek-R1 (model de raționament)](https://www.datacamp.com/tutorial/fine-tuning-deepseek-r1-reasoning-model)
  - [Raport tehnic: Analiza impactului DeepSeek-R1 asupra dezvoltării AI](https://www.researchgate.net/publication/388484582_Technical_Report_Analyzing_DeepSeek-R1's_Impact_on_AI_Development)
- - [DeepSeek R1 + Sonnet](https://medium.com/ingeniouslysimple/deepseek-r1-sonnet-ccd01a0f345b)
+ - [DeepSeek-R1 + Sonnet](https://medium.com/ingeniouslysimple/deepseek-r1-sonnet-ccd01a0f345b)
  - [Partea-Întunecata profunda a DeepSeek: Atacuri de reglare-fina impotriva alinierii de siguranta a modelelor CoT-Enabled](https://arxiv.org/pdf/2502.01225)
  - [Raport tehnic DeepSeek-V3](https://arxiv.org/html/2412.19437v1)
+ - [Reglarea-fină a Deepseek este necesara sau este inutilă?](https://www.reddit.com/r/LocalLLaMA/comments/1i9541o/fine_tuning_deepseek_or_is_it_unnecessary/)
  - [...](https://devpress.csdn.net/user/v_JULY_v)
 
    
