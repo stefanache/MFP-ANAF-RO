@@ -107,7 +107,7 @@ Incep sa apara din ce in ce mai multe evaluari ale/articole despre **DeepSeek**:
    <br/>[HF: Deepseek-VL2-Small ](https://huggingface.co/deepseek-ai/deepseek-vl2-small);
    <br/>DeepSeek-VL2 - demonstrează capabilități superioare în diverse sarcini, inclusiv, dar fără a se limita la:
     - răspunsuri vizuale la întrebări(Visual Question Answering=[VQA](https://visualqa.org/)),
-    - recunoașterea optică a caracterelor(OCR](https://ro.wikipedia.org/wiki/Recunoa%C8%99terea_optic%C4%83_a_caracterelor)),
+    - recunoașterea optică a caracterelor([OCR](https://ro.wikipedia.org/wiki/Recunoa%C8%99terea_optic%C4%83_a_caracterelor)),
     - înțelegerea ...
         - documentelor
         - tabelului
