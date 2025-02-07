@@ -15,15 +15,14 @@ Săptămâna aceasta, se evidențiaza lucrări referitoare la ...
 
 <br>(Multumim [**Linkedin-pulse**](https://www.linkedin.com/pulse/ai-research-roundup-safety-scaling-multimodal-breakthroughs-dynuf) - in calitare de *editor/publicator* si [**GenAIworks**](https://www.linkedin.com/company/genaiworks/?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3Bqdtvwz5hT727bPTetmJkQA%3D%3D) - in calitate de *autor/postator*!!!)
 
-Ideea acestui articol a inceput cu/inspirat de urmatoarea figura:
+Ideea acestui articol a inceput cu/inspirat de urmatoarele [figuri](https://arxiv.org/html/2501.18492):
 
 <img src="https://arxiv.org/html/2501.18492v1/extracted/6167045/7_overall.png"><a href="https://arxiv.org/html/2501.18492v1/extracted/6167045/7_overall.png">GuardReasoner</a></img>
+ - Figura 2: GuardReasoner(**GR**) constă din trei(**3**) module: 
 
-Figura 2: GuardReasoner(**GR**) constă din trei(**3**) module: 
-
- - (1) Reasoning Data Synthesis(**RDS**),
- - (2) Reasoning-SFT(**R-SFT**) și
- - (3) Hard Sample DPO(**HS-DPO**).
+  - (1) Reasoning Data Synthesis(**RDS**),
+  - (2) Reasoning-SFT(**R-SFT**) și
+  - (3) Hard Sample DPO(**HS-DPO**).
    
 Hai sa le analizam pe rand(sa despicam firu' in 3 ! :)...
 
