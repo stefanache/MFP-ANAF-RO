@@ -110,14 +110,14 @@ Incep sa apara din ce in ce mai multe evaluari ale/articole despre **DeepSeek**:
  - [Reglarea-fină a Deepseek este necesara sau este inutilă?](https://www.reddit.com/r/LocalLLaMA/comments/1i9541o/fine_tuning_deepseek_or_is_it_unnecessary/)
  - [DeepSeek tocmai a lansat DeepSeek VL2 Small - Model MoE Vision - Instalați local](https://www.youtube.com/watch?v=eiWB_zHWbMs&t=22s&ab_channel=FahdMirza)
    <br/>[HF: Deepseek-VL2-Small ](https://huggingface.co/deepseek-ai/deepseek-vl2-small);
-   <br/>DeepSeek-VL2 - demonstrează capabilități superioare în diverse sarcini, inclusiv, dar fără a se limita la:
-    - răspunsuri vizuale la întrebări(Visual Question Answering=[VQA](https://visualqa.org/)),
-    - recunoașterea optică a caracterelor([OCR](https://ro.wikipedia.org/wiki/Recunoa%C8%99terea_optic%C4%83_a_caracterelor)),
+   <br/>**DeepSeek-VL2** - demonstrează capabilități superioare în diverse sarcini, inclusiv, dar fără a se limita la:
+    - răspunsuri vizuale la întrebări(Visual Question Answering=[**VQA**](https://visualqa.org/)),
+    - recunoașterea optică a caracterelor([**OCR**](https://ro.wikipedia.org/wiki/Recunoa%C8%99terea_optic%C4%83_a_caracterelor)),
     - înțelegerea ...
         - documentelor
         - tabelului
         - diagramelor și
-    - [împământarea vizuală/Visual Grounding](https://paperswithcode.com/task/visual-grounding/codeless).
+    - [împământarea vizuală/Visual Grounding(**VG**)](https://paperswithcode.com/task/visual-grounding/codeless).
  - [CF - catalog LLM-uri expuse](https://developers.cloudflare.com/workers-ai/models/) & [CF - tutoriale](https://developers.cloudflare.com/workers-ai/tutorials/) & [CF - DeepSeek GW](https://developers.cloudflare.com/ai-gateway/providers/deepseek/)
  - [...](https://devpress.csdn.net/user/v_JULY_v)
 
