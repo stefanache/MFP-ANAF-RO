@@ -29,7 +29,7 @@ si ...
   
 <img src="https://arxiv.org/html/2501.18492v1/extracted/6167045/7_overall.png" width="95%" height="auto"><a href="https://arxiv.org/html/2501.18492v1/extracted/6167045/7_overall.png">GuardReasoner</a></img>
 
- - Figura 2: GuardReasoner(**GR**) constă din trei(**3**) module/componente: 
+ - Figura 2: GuardReasoner(**GR**) constă/este alcatuit din trei(**3**) module/componente: 
 
   - (1) Reasoning Data Synthesis(**RDS**),
   - (2) Reasoning-SFT(**R-SFT**) și
