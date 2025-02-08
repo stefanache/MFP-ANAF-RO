@@ -32,30 +32,30 @@ Domnul [**Fahd Mirza**](https://www.youtube.com/channel/UCPix8N6PMRI4KzgyjuZeF0g
 
 
  - [Run DeepSeek Janus Pro(1B) on CPU Locally - Image Understanding and Creation](https://www.youtube.com/watch?v=kfN1w_4Zg2E&ab_channel=FahdMirza)(multi-modal)<br/>**Janus-Pro 1B** - este un cadru ***autoregresiv***, care unifică, ***înțelegerea***(imaginii....deci **img**2**txt**) și/impreuna cu ***generarea***(creaza imagine din/cf. text-descriptiv ... deci **txt**2**img**) - multimodală(adica/deci/=**img**&**txt**)
- - [How-To Run DeepSeek R1(70B) Locally with Best GUI Frontend](https://www.youtube.com/watch?v=b2DBWKBJj3Q&ab_channel=FahdMirza)
- - [Run DeepSeek R1(32B) with Ollama and Cline(agent-VSc) in VScode - 100% Local Solution](https://www.youtube.com/watch?v=oeBDn6vclz0&t=0s&ab_channel=FahdMirza)
- - [How-To Use DeepSeek Reasoner(R1) in API in Code Easily](https://www.youtube.com/watch?v=WbKa-gxVybA&ab_channel=FahdMirza)(acesta este [codul](https://github.com/fahdmirza/deepseekr1) utilizat!)
- - [DeepSeek Drops Janus Pro 7B - Install Locally with Thorough Testing](https://www.youtube.com/watch?v=bWon3I2bGhg&ab_channel=FahdMirza)
- - [Install DeepSeek-R1 32B Locally - Best Reasoning Distilled Model So Far](https://www.youtube.com/watch?v=BTNZ1tmVkzA&ab_channel=FahdMirza)
- - [How-To Increase Context Length of DeepSeek-R1(32B) model in Ollama](https://www.youtube.com/watch?v=BDwM93nhdD4&ab_channel=FahdMirza)
- - [DeepSeek R1(R1-Zero si R1) - Indepth Hands-on Review on Language, Coding, Math](https://www.youtube.com/watch?v=x-W56bxJws0&ab_channel=FahdMirza)
- - [DeepSeek-V2.5-1210: The Final Version - Test Thoroughly on Math, Coding, Text](https://www.youtube.com/watch?v=h6mzItl32n8&ab_channel=FahdMirza)
- - [DeepSeek V3 Thorough Testing - Better Than GPT-4o and Claude Sonnet in Price and Performance](https://www.youtube.com/watch?v=vz1Cs9CpxOg&ab_channel=FahdMirza)
- - [DeepSeek Coder v2 Lite Instruct - Local Installation - Beats GPT-4 In Coding](https://www.youtube.com/watch?v=rlxsDC9aza0&ab_channel=FahdMirza)
+ - [How-To Run **DeepSeek R1(70B)** Locally with **Best GUI** Frontend](https://www.youtube.com/watch?v=b2DBWKBJj3Q&ab_channel=FahdMirza)
+ - [Run **DeepSeek R1(32B)** with **Ollama** and **Cline**(agent-*VSc*) in *VScode* - 100% Local Solution](https://www.youtube.com/watch?v=oeBDn6vclz0&t=0s&ab_channel=FahdMirza)
+ - [How-To Use **DeepSeek Reasoner(R1)** in API in **Code Easily**](https://www.youtube.com/watch?v=WbKa-gxVybA&ab_channel=FahdMirza)(acesta este [codul](https://github.com/fahdmirza/deepseekr1) utilizat!)
+ - [**DeepSeek** Drops **Janus Pro 7B** - Install Locally with Thorough Testing](https://www.youtube.com/watch?v=bWon3I2bGhg&ab_channel=FahdMirza)
+ - [Install **DeepSeek-R1 32B** Locally - Best Reasoning Distilled Model So Far](https://www.youtube.com/watch?v=BTNZ1tmVkzA&ab_channel=FahdMirza)
+ - [How-To Increase Context Length of **DeepSeek-R1(32B)** model in **Ollama**](https://www.youtube.com/watch?v=BDwM93nhdD4&ab_channel=FahdMirza)
+ - [**DeepSeek R1(R1-Zero si R1)** - Indepth Hands-on Review on Language, Coding, Math](https://www.youtube.com/watch?v=x-W56bxJws0&ab_channel=FahdMirza)
+ - [**DeepSeek-V2.5-1210**: The Final Version - Test Thoroughly on Math, Coding, Text](https://www.youtube.com/watch?v=h6mzItl32n8&ab_channel=FahdMirza)
+ - [**DeepSeek V3** Thorough Testing - Better Than **GPT-4o** and **Claude Sonnet** in Price and Performance](https://www.youtube.com/watch?v=vz1Cs9CpxOg&ab_channel=FahdMirza)
+ - [**DeepSeek Coder v2 Lite Instruct** - Local Installation - Beats **GPT-4** In Coding](https://www.youtube.com/watch?v=rlxsDC9aza0&ab_channel=FahdMirza)
    <br/>**DeepSeek-Coder-V2** - este un model de limbaj de codare/codificare(scriere de cod = coder) Mixture-of-Experts(**MoE**), open source,
    <br/>care atinge performanțe comparabile cu **GPT4-Turbo**, în sarcini specifice codului/codarii(scrierii automate de cod = coder)
- - [How-To Run DeepSeek V3(GGUF K-XS q5) Locally on CPU or GPU](https://www.youtube.com/watch?v=uMWPXFDaXBM&ab_channel=FahdMirza)
- - [DeepSeek R1 Lite Preview with DeepThink - Hands-on Demo](https://www.youtube.com/watch?v=1WArHOSq--8&ab_channel=FahdMirza)
- - [DeepSeek-R1 with Continue(un agent de codare VScode) and Ollama - Free, Local and Private](https://www.youtube.com/watch?v=-q-3ghi4A8E&ab_channel=FahdMirza)
- - [A Step-by-Step Guide to Install DeepSeek-R1 Locally with Ollama, vLLM or Transformers](https://dev.to/nodeshiftcloud/a-step-by-step-guide-to-install-deepseek-r1-locally-with-ollama-vllm-or-transformers-44a1)
- - [Comparison of DeepSeek V3 vs Claude Sonnet vs GPT-4o on Real-World Task](https://www.youtube.com/watch?v=22EQ9M9SKK0&ab_channel=FahdMirza)
+ - [How-To Run **DeepSeek V3(GGUF K-XS q5)** Locally on CPU or GPU](https://www.youtube.com/watch?v=uMWPXFDaXBM&ab_channel=FahdMirza)
+ - [**DeepSeek R1 Lite Preview** with **DeepThink** - Hands-on Demo](https://www.youtube.com/watch?v=1WArHOSq--8&ab_channel=FahdMirza)
+ - [**DeepSeek-R1** with **Continue**(un agent de codare al *VScode*) and **Ollama** - Free, Local and Private](https://www.youtube.com/watch?v=-q-3ghi4A8E&ab_channel=FahdMirza)
+ - [A Step-by-Step Guide to Install **DeepSeek-R1** Locally with **Ollama**, ***vLLM*** or ***Transformers***](https://dev.to/nodeshiftcloud/a-step-by-step-guide-to-install-deepseek-r1-locally-with-ollama-vllm-or-transformers-44a1)
+ - [Comparison of **DeepSeek V3** vs **Claude Sonnet** vs **GPT-4o** on *Real-World* Task](https://www.youtube.com/watch?v=22EQ9M9SKK0&ab_channel=FahdMirza)
    <br/>Acest videoclip împărtășește rezultatul ***testării***, a 3 modele de AI, de top(**DS-V3**, **CS**, **GPT-4o**), pe un caz de utilizare real, din producție, în termeni de **cost**, **timp**, **funcționalitate**, [**CoT**](https://www.ibm.com/think/topics/chain-of-thoughts)=lant de gandire=rationament=cum a gandit, de a ajuns la rezultatul afisat, la final [etc.](https://www.promptingguide.ai/techniques/cot) 
- - [How To Install and Run DeepSeek Coder(1.3B base)](https://www.youtube.com/watch?v=DwPxCtO-ZU0&ab_channel=FahdMirza)
- - [Install DeepSeek Janus(1.3B) Locally - T2I and Vision - Beats DALL-E 2 & SDXL in Image Generation](https://www.youtube.com/watch?v=uH2SWux7rnQ&ab_channel=FahdMirza)
+ - [How To Install and Run **DeepSeek Coder(1.3B base)**](https://www.youtube.com/watch?v=DwPxCtO-ZU0&ab_channel=FahdMirza)
+ - [Install **DeepSeek Janus(1.3B)** Locally - **T2I** and **Vision** - Beats **DALL-E 2** & **SDXL** in Image Generation](https://www.youtube.com/watch?v=uH2SWux7rnQ&ab_channel=FahdMirza)
   <br/>🚀**Janus** de la ***Deepseek*** - este un cadru care se refera la o ***înțelegere*** a imaginii(si descrierea textuala a ceea ce se vede in imagine=**img**2**txt**) impreuna cu/unificată cu/și o ***generare*** **MLLM** de imagine (bazata pe un text-descriptiv a imaginii = **txt**2**img**).
   <br/>🚀 Acest cadru(**Janus**) este sponsorizat/ajutat de/se bazeaza pe **AgentQL**, care este un limbaj de interogare, bazat pe AI, pt. obținerea de ***date structurate***(tabele ce contin datele filtrate/capturate/[scrapping](https://www.avocatoo.ro/blog/este-data-scraping-ul-legal)) din ***pagini web(live)***
- - [DeepSeek V2 - Strong Economical LLM](https://www.youtube.com/watch?v=AvEGaqFvnYs&ab_channel=FahdMirza)(and Efficient MoE)
- - [Run DeepSeek R1(32B) with Ollama and Cline(agent de codare pt VSc) in VScode - 100% Local Solution](https://www.youtube.com/watch?v=oeBDn6vclz0&ab_channel=FahdMirza)
+ - [**DeepSeek V2** - Strong Economical ***LLM***](https://www.youtube.com/watch?v=AvEGaqFvnYs&ab_channel=FahdMirza)(and Efficient MoE)
+ - [Run **DeepSeek R1(32B)** with **Ollama** and **Cline**(agent de codare pt *VSc*) in **VScode** - 100% Local Solution](https://www.youtube.com/watch?v=oeBDn6vclz0&ab_channel=FahdMirza)
  - [Install JanusFlow 1.3B Locally - Image Understanding and Generation in a Single Model](https://www.youtube.com/watch?v=P2jlL-Zmw-g&ab_channel=FahdMirza) <br/>(**JanusFlow** - este un cadru puternic, care unifică, ***înțelegerea*** imaginilor și/impreuna cu ***generarea imaginilor***, într-un singur model)
  - [How to Set Up and Run DeepSeek R1 Locally With Ollama](https://www.datacamp.com/tutorial/deepseek-r1-ollama)
  - [Deepseek-LLM:7b-chat rurnning on Ollama](https://ollama.com/library/deepseek-llm:7b-chat);
@@ -82,7 +82,7 @@ Cu toate acestea, **Ives** s-a declarat sceptic că serviciul va câștiga teren
 „Nici-o corporatie din **Global-2000**-SUA nu va folosi un start-up chinez [***DeepSeek***](https://www.analyticsvidhya.com/blog/2025/01/deepseek-v3-vs-gpt-4o-vs-llama-3-3-70b/) pentru a-și lansa infrastructura și cazurile de utilizare a **AI**”, a scris **Ives**.
 <br/>„Până la urmă, există o singură companie producătoare de cipuri din lume care lansează cazuri de utilizare autonome, robotice și **AI** mai largi și aceasta este **Nvidia**”.
 
-Incep sa apara din ce in ce mai multe evaluari ale/articole despre **DeepSeek**:
+Incep sa apară/curgă din ce in ce mai multe evaluari ale/articole despre **DeepSeek**:
 
  - [Oamenii de știință se întâlnesc la **DeepSeek**: cum folosesc modelul AI de succes](https://www.nature.com/articles/d41586-025-00275-0)
  - [Înțelegerea capacităților modelelor de limbă mari **DeepSeek-R1**](https://www.digitalocean.com/community/tutorials/deepseek-r1-large-language-model-capabilities)
@@ -96,20 +96,20 @@ Incep sa apara din ce in ce mai multe evaluari ale/articole despre **DeepSeek**:
  - [Arhitectură **DeepSeek-V3** (și **DeepSeek-R1**!)](https://medium.com/@galhyams/deepseek-v3-and-r1-architecture-5e5ae796c7a9)
  - [**DeepSeek-Coder**: Când **LLM**-ul întâlnește programarea — Mai bine decât **GPT 3.5**?](https://medium.com/@tanalpha-aditya/deepseek-coder-when-the-llm-meets-programming-better-than-gpt-3-5-054cf85e3493)
  - [**DeepSeek**: Îmbinarea performanței și eficienței în **AI** modernă](https://medium.com/@nandinilreddy/deepseek-bridging-performance-and-efficiency-in-modern-ai-106181a85693)
- - [EP148: DeepSeek 1-Pager](https://blog.bytebytego.com/p/ep148-deepseek-1-pager)
- - [Pentagonul SUA blochează DeepSeek AI după ce angajații au descoperit că se conectează la servere chineze](https://www.firstpost.com/tech/us-pentagon-blocks-deepseek-ai-after-employees-found-connecting-to-chinese-servers-13858194.html)
- - [Open-R1: o reproducere complet deschisă a DeepSeek-R1](https://huggingface.co/blog/open-r1)
- - [DeepSeek-R1 a explicat: Pionierat în următoarea eră a inteligenței artificiale bazate pe raționament](https://medium.com/@sahin.samia/deepseek-r1-explained-pioneering-the-next-era-of-reasoning-driven-ai-3eeb5ac4d4a0)
- - [DeepSeek este aici pentru a rămâne pt. ca... Microsoft si Perplexity își integrează modelul](https://www.pcmag.com/news/deepseek-is-here-to-stay-as-microsoft-perplexity-integrate-its-model)
- - [DeepSeek-R1: Prezentare tehnică a arhitecturii și inovațiilor sale](https://www.geeksforgeeks.org/deepseek-r1-technical-overview-of-its-architecture-and-innovations/)
- - [Reglare-fină DeepSeek-R1 (model de raționament)](https://www.datacamp.com/tutorial/fine-tuning-deepseek-r1-reasoning-model)
- - [Raport tehnic: Analiza impactului DeepSeek-R1 asupra dezvoltării AI](https://www.researchgate.net/publication/388484582_Technical_Report_Analyzing_DeepSeek-R1's_Impact_on_AI_Development)
- - [DeepSeek-R1 + Sonnet](https://medium.com/ingeniouslysimple/deepseek-r1-sonnet-ccd01a0f345b)
- - [Partea-Întunecata profunda a DeepSeek: Atacuri de reglare-fina impotriva alinierii de siguranta a modelelor CoT-Enabled](https://arxiv.org/pdf/2502.01225)
- - [Raport tehnic DeepSeek-V3](https://arxiv.org/html/2412.19437v1)
+ - [EP148: **DeepSeek 1-Pager**](https://blog.bytebytego.com/p/ep148-deepseek-1-pager)
+ - [***Pentagonul-SUA*** blochează **DeepSeek-AI** după ce angajații au descoperit că se conectează la servere ***chineze***](https://www.firstpost.com/tech/us-pentagon-blocks-deepseek-ai-after-employees-found-connecting-to-chinese-servers-13858194.html)
+ - [*Open-R1*: o reproducere complet deschisă a **DeepSeek-R1**](https://huggingface.co/blog/open-r1)
+ - [**DeepSeek-R1** a explicat: Pionierat în următoarea eră a inteligenței artificiale(**AI**) bazate pe raționament](https://medium.com/@sahin.samia/deepseek-r1-explained-pioneering-the-next-era-of-reasoning-driven-ai-3eeb5ac4d4a0)
+ - [**DeepSeek** este aici pentru a rămâne pt. ca... **Microsoft(MS)** si **Perplexity** își integrează modelul](https://www.pcmag.com/news/deepseek-is-here-to-stay-as-microsoft-perplexity-integrate-its-model)
+ - [**DeepSeek-R1**: Prezentare tehnică a arhitecturii și inovațiilor sale](https://www.geeksforgeeks.org/deepseek-r1-technical-overview-of-its-architecture-and-innovations/)
+ - [Reglare-fină(**FT**) **DeepSeek-R1** (model de raționament)](https://www.datacamp.com/tutorial/fine-tuning-deepseek-r1-reasoning-model)
+ - [Raport tehnic: Analiza impactului **DeepSeek-R1** asupra dezvoltării **AI**](https://www.researchgate.net/publication/388484582_Technical_Report_Analyzing_DeepSeek-R1's_Impact_on_AI_Development)
+ - [**DeepSeek-R1** + **Sonnet**](https://medium.com/ingeniouslysimple/deepseek-r1-sonnet-ccd01a0f345b)
+ - [Partea-Întunecata profunda a **DeepSeek**: Atacuri de reglare-fina impotriva alinierii de siguranta a modelelor **CoT**-*Enabled*](https://arxiv.org/pdf/2502.01225)
+ - [Raport tehnic **DeepSeek-V3**](https://arxiv.org/html/2412.19437v1)
  - [Reglarea-fină(**FT**) a **Deepseek** este necesara sau este inutilă?](https://www.reddit.com/r/LocalLLaMA/comments/1i9541o/fine_tuning_deepseek_or_is_it_unnecessary/)
- - [DeepSeek tocmai a lansat DeepSeek-VL2-Small - Model MoE Vision - Instalați local](https://www.youtube.com/watch?v=eiWB_zHWbMs&t=22s&ab_channel=FahdMirza)
-   <br/>[HF: Deepseek-VL2-Small ](https://huggingface.co/deepseek-ai/deepseek-vl2-small);
+ - [**DeepSeek** tocmai a lansat ((DeepSeek-VL2-Small** - Model **MoE**-*Vision* - Instalați local](https://www.youtube.com/watch?v=eiWB_zHWbMs&t=22s&ab_channel=FahdMirza)
+   <br/>[HF: **Deepseek-VL2-Small**](https://huggingface.co/deepseek-ai/deepseek-vl2-small);
    <br/>**DeepSeek-VL2** - demonstrează capabilități superioare în diverse sarcini, inclusiv, dar fără a se limita la:
     - răspunsuri vizuale la întrebări(Visual Question Answering=[**VQA**](https://visualqa.org/)),
     - recunoașterea optică a caracterelor([**OCR**](https://ro.wikipedia.org/wiki/Recunoa%C8%99terea_optic%C4%83_a_caracterelor)),
