@@ -90,13 +90,13 @@ Pentru inceput, in vederea intelegerii, cu usurinta, a acestui articol/săptăm�
 
  <hr/>
 
-  - [Low-Rank Adaptation ↗ Adaptare de rang scăzut(**LoRA**)](https://blog.cloudflare.com/fine-tuned-inference-with-loras) este o metodă specifică de reglare-fină(**FT**) care poate fi aplicată la diferite arhitecturi de model, nu doar **LLM**-urilor.
+  - [Low-Rank Adaptation ↗ Adaptare de rang scăzut(**LoRA**)](https://blog.cloudflare.com/fine-tuned-inference-with-loras) este o metodă-specifică de reglare-fină(**FT**), care poate fi aplicată la diferite arhitecturi de model, nu doar **LLM**-urilor.
 <br/>Este obișnuit ca greutățile modelului pre-antrenate să fie direct modificate sau îmbinate cu greutăți suplimentare de reglare-fină(**FT**) în metodele tradiționale de reglare-fină(**FT**).
 <br/>**LoRA**, pe de altă parte, permite ca greutățile de reglare-fină(**FT**) și modelul pre-antrenat să rămână separate, iar modelul pre-antrenat să rămână neschimbat.
-<br/>Rezultatul final este că puteți antrena modele pentru...
-    - a fi mai precise la anumite sarcini(**tasks***), cum ar fi generarea-de-cod,
-    - a avea o anumită personalitate sau pentru...
-    - generarea de imagini într-un anumit stil.
+<br/>Rezultatul final este că puteți antrena modele(incluzand aici si sub-categoria **LLM**-uri!) pentru...
+    - a fi mai *precise* la anumite sarcini(**tasks***), cum ar fi generarea-de-cod,
+    - a avea o anumită *personalitate* sau pentru...
+    - generarea de imagini într-un anumit *stil*.
 
 <br/>**LoRA** poate fi privita ca o *capabilitate/caracteristica/facilitate/optiune*, pe zona de competenta, **FT**,  atribuita/a unui model sau **LLM**.
 <br/>Astfel, putem afirma/infirma despre un model/**LLM** ca poseda/prevede sau nu **LORA**...sau cu alte cuvinte, am mai putea spune ... "{cutare model/**LLM**) este **LoRA Enabled**
