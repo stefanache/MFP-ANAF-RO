@@ -182,7 +182,7 @@ si separat/suplimentar, ...
    <br/>-Creăm mai întâi *setul-de-date(dataset)* <ins>*GuardReasonerTrain*(**GRT**)</ins>, care constă din ***127K***-*mostre/esantioane* cu ***460K***-*pași-de-raționament*(*detaliați*).
    <br/>-Apoi, introducem raționamentul ***SFT*** pentru a <ins>debloca</ins> capacitatea de *raționament* a *model*elor de gardă(**GM**).
    <br/>-În plus, prezentăm un *eșantion-dur/dificil* de **DPO**(Direct Preference Optimization), pentru a le(**GM**-urilor) <ins>consolida/intari</ins> și mai mult, capacitatea de *raționament*.
-   <br/><br/>În acest fel, *GuardReasoner*(**GR**) obține *performanțe mai bune*, in zona de *explicabilitate/descriere* și de *generalizare/rezumare*.
+   <br/><br/>În acest fel, *GuardReasoner*(**GR**) obține *performanțe mai bune*, in zona de *explicabilitate/descriere* și de *generalizare/necategorisire*.
    <br/>Experimente și analize ample pe ***13*** *etape-de-referință*, a ***3*** *sarcini-de-protecție*, demonstrează superioritatea acestuia(**GR**).
    <br/>În mod remarcabil, **GuardReasoner**-**8B**(**GR-8B**) depășește/intrece(ca performanta masurata(, *model*ul **GPT-4o+[CoT](https://learnprompting.org/docs/intermediate/chain_of_thought?srsltid=AfmBOopAoMbWL-h_oQrVQeHttPd3ZF9xB1c7nxBfe91RvbFJuLaDek9C)**, cu **5,74%** și *model*ul 
    <br/>**LLaMA Guard 3**-**8B**, cu **20,84%**, in ceea ce priveste, *scorul*-**F1**(în *medie*=*avg-F1*).
@@ -331,12 +331,12 @@ Acum sa vedem pe scurt(in rezumat), cateva ***lucrari*** abordate în / ***abord
    <br/>Autorii creează setul de date GuardReasonerTrain(**GRT**), care cuprinde **127.000** de *mostre*/*esantioane*(samples) cu **460.000** de *pași* detaliați de raționament  și folosesc reglarea-fină(*FT*) supravegheată(*SFT*) de raționament/invatare(**R-SFT**) și optimizarea preferințelor directe ale mostrelor dure/dificile(**HS-DPO**) pentru a îmbunătăți abilitățile de raționament ale modelului. 
 <br/><br/>Datele de antrenament/train-ds, codul-sursa și modelele(**LLM**-urile) utilizate, de diferite scale/scalari(**1B**, **3B**, **8B**), sunt open source(sursă deschisă...in vederea studiului, modificarilor...).<br/>
 <br/>**LLM**-urile sunt din ce în ce mai integrate în diverse domenii, dar sunt vulnerabile la/unor ***manipulări rău-intenționate***(de unde si termenul de **guard**=garda/garanție!).
-<br/>Modelele de gardă(care ofera garanții) existente, deși eficiente, suferă de limitări în performanță, explicabilitate și generalizare. 
+<br/>Modelele de gardă(care ofera garanții) existente, deși eficiente, suferă de limitări în performanță, explicabilitate și generalizare(necategorisirea). 
 <br/>GuardReasoner(**GR**) abordează aceste probleme prin deblocarea și îmbunătățirea abilităților de raționament ale modelelor de gardă(care ofera garanții de protectie impotriva manipularilor rau-voitoare, atunci cand, antrenarea are loc pe seturi de date inselatoare, sau cu continut compromitator/daunator/dur sau daca vreti abraziv).<br/>
 <br/>Experimente și rezultate(studii de  [ablație/indepărtarea](https://dexonline.ro/intrare/abla%C8%9Bie/62)  nocivitații, studii de masurare a eficienței si performanțelor...<br/>
 <br/>1. GuardReasoner 8B(**GR-8B**) realizează cele mai bune performanțe în sarcinile de detectare a nocivității prompte și a celei de răspuns, depășind/întrecând/concurând atât modelele open-source(sursă deschisă), cât și cele cu sursă închisă.
 <br/>2. GuardReasoner(**GR**) oferă pașii detaliați de raționament, sporind transparența și ajutând la corectarea probelor/mostrelor etichetate greșit.
-<br/>3. Modelul(**GR**) funcționează independent de categoriile fixe, recunoscând conținutul dăunător/rau/dur deschis, îmbunătățind astfel generalizarea.
+<br/>3. Modelul(**GR**) funcționează independent de categoriile fixe, recunoscând conținutul dăunător/rau/dur deschis, îmbunătățind astfel generalizarea(necategorisirea).
 <br/><br/>[Lucrarea](https://arxiv.org/pdf/2501.18492) evidențiază dezvoltarea unui model de gardă(cum este **GR**) pentru a atenua riscurile potențiale și impactul dăunător al[e]/asupra **LLM**-urilor, contribuind la integrarea mai sigură a **AI** în societate.
 <br/><br/>***Retineti*** va rog, *dependenta-terminiologica*: **GR**(***R-SFT***(*SFT*(FT)) , ***HS-DPO***(*DPO*) , ***GRT***).
  <hr/>
@@ -395,18 +395,18 @@ Acum sa vedem pe scurt(in rezumat), cateva ***lucrari*** abordate în / ***abord
 <hr/><br/>
 
  - d2)[***SFT-Memorizes***, **RL-Generalizes**: A Comparative Study of Foundation Model Post-training](https://media.licdn.com/dms/image/v2/D4D12AQECyR29nuOTPg/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1738609451688?e=1744243200&v=beta&t=Wfqmd54SFNi3uhaGABY2NYPDNUaAOtsuAw3lrBaUqkE) / [***SFT-memorează***, **RL-generalizează**: Un studiu comparativ al modelului de fundație post-formare/antrenare](https://arxiv.org/pdf/2501.17161)
-   <br/>Această lucrare, investighează efectele reglajului-fin(*FT*) supravegheat (***SFT***) și ale *învățării prin consolidare/intarire*(**RL**), asupra capacităților, de *generalizare* și de *memorare*, ale modelelor de bază(**LLM**-urilor), concentrându-se, atât pe mediile bazate pe text(*LLM*-uri), cât și pe mediile-vizuale(imagini/video...*VLM*-uri).<br/> 
+   <br/>Această lucrare, investighează efectele reglajului-fin(*FT*) supravegheat (***SFT***) și ale *învățării prin consolidare/intarire*(**RL**), asupra capacităților, de *generalizare(necategorisire)* și de *memorare(imitare)*, ale modelelor de bază(**LLM**-urilor), concentrându-se, atât pe mediile bazate pe text(*LLM*-uri), cât și pe mediile-vizuale(imagini/video...*VLM*-uri).<br/> 
 <br/>*Comparatie*: **RL=Generalizare** *versus*(*vs.*) ***SFT=Memorare/Imitare***:<br/>
-<br/>**RL Generalizes**: **RL**, mai ales, atunci când, este antrenat/întărit cu o recompensă, bazată pe rezultate, arată/prezinta/are o *generalizare*, mai bună, atât în ​​mediile textuale(**LLM*-uri), cât și în mediile vizuale(imagine,video...*VLM*-uri)), bazate pe reguli.<br/>
-<br/>***SFT-Memorizes***: ***SFT***-ul tinde/incearcă/se luptă să *memoreze*, datele de antrenament(*ds*-urile) și se luptă/incearcă/tinde să *generalizeze*, la/în scenarii de tipul, în-afara-distribuției([**OOD**](https://arxiv.org/abs/2308.10261)-uri).<br/>
-<br/>**RL**-ul îmbunătățește, capacitățile de *recunoaștere-vizuală*, de bază, ale modelului, contribuind la o *generalizare* îmbunătățită, în domeniile/zonele vizuale.
+<br/>**RL Generalizes**: **RL**, mai ales, atunci când, este antrenat/întărit cu o recompensă, bazată pe rezultate, arată/prezinta/are o *generalizare(necategorisire)*, mai bună, atât în ​​mediile textuale(**LLM*-uri), cât și în mediile vizuale(imagine,video...*VLM*-uri)), bazate pe reguli.<br/>
+<br/>***SFT-Memorizes***: ***SFT***-ul tinde/incearcă/se luptă să *memoreze*, datele de antrenament(*ds*-urile) și se luptă/incearcă/tinde să *generalizeze(neclasificare/necategorisire)*, la/în scenarii de tipul, în-afara-distribuției([**OOD**](https://arxiv.org/abs/2308.10261)-uri).<br/>
+<br/>**RL**-ul îmbunătățește, capacitățile de *recunoaștere-vizuală*, de bază, ale modelului, contribuind la o *generalizare(necategorisire)* îmbunătățită, în domeniile/zonele vizuale.
 <br/>***SFT***-ul este încă util, pentru antrenamentul **RL**, eficient, deoarece *stabilizează*, formatul-de-ieșire, al modelului(*LLM*-ului), permițând, **RL**-ului, ulterior, să obțină câștiguri de performanță.<br/>
 <br/>**RL**-ul îmbunătățește, constant, performanța-[**OOD**](https://encord.com/blog/what-is-out-of-distribution-ood-detection/), în toate sarcinile(*performanta-generala*), în timp ce, ***SFT***-ul arată o degradare a *performanței*(deci **RL** > ***SFT***).
 <br/>Creșterea calculului-**RL**, îmbunătățește, *acuratețea*, *recunoașterii-vizuale*, în [**VLM**](https://encord.com/blog/vision-language-models-guide/)-uri, în timp ce, scalarea ***SFT***-ului, deteriorează,  atât *recunoașterea-vizuală*, cât și *performanța-generală*(deci **RL** > ***SFT***).<br/>
-<br/>Lucrarea demonstrează că, **RL**-ul este superior **SFT**-ului, în dobândirea/invatarea de cunoștințe-generalizabile(rezumatelor), în zona sarcinilor-complexe, multi-modale.
+<br/>Lucrarea demonstrează că, **RL**-ul este superior **SFT**-ului, în dobândirea/invatarea de cunoștințe-generalizabile(necateorisire), în zona sarcinilor-complexe, multi-modale.
 <br/>Cu toate acestea, sa nu uitam ca, ***SFT***-ul, este încă crucial/important/util, pentru *stabilizarea*, formatului-de-ieșire, al modelului(LLM/VLM), permițând ulterior,  antrenamentul-**RL**-eficient.
 <br/><br/>***Retineti*** vă rog, că:   in scenariile **OOD** si **VLM**, **RL** > ***SFT***, dar/insa...
-<br/>...se mai foloseste inca, ***SFT***-ul(stiuta fiind, capacitatea sa de *memorare/imitare*), inainte de aplicarea **RL**-ului(stiuta fiind, tendinta sa de *generalizare*), dar in acest caz, j***SFT***-ul joaca un rol/ca element de... *stabilizator/stabilizare*, a[l] iesirii/raspunsului oferit.
+<br/>...se mai foloseste inca, ***SFT***-ul(stiuta fiind, capacitatea sa de *memorare/imitare*), inainte de aplicarea **RL**-ului(stiuta fiind, tendinta sa de *generalizare(necategorisire)*), dar in acest caz, j***SFT***-ul joaca un rol/ca element de... *stabilizator/stabilizare*, a[l] iesirii/raspunsului oferit.
 
 <hr/>
 
