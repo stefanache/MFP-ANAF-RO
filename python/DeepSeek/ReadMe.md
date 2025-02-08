@@ -75,7 +75,7 @@ Unii experți au lăudat performanțele [DeepSeek](https://medium.com/@kirill_86
 
 Cu toate acestea, Ives s-a declarat sceptic că serviciul va câștiga teren în rândul marilor întreprinderi americane.
 
-„Niciun Global 2000 din SUA nu va folosi un start-up chinez [DeepSeek](https://www.analyticsvidhya.com/blog/2025/01/deepseek-v3-vs-gpt-4o-vs-llama-3-3-70b/) pentru a-și lansa infrastructura și cazurile de utilizare a IA”, a scris Ives. „Până la urmă, există o singură companie producătoare de cipuri din lume care lansează cazuri de utilizare autonome, robotice și AI mai largi și aceasta este Nvidia”.
+„Niciun Global 2000 din SUA nu va folosi un start-up chinez [DeepSeek](https://www.analyticsvidhya.com/blog/2025/01/deepseek-v3-vs-gpt-4o-vs-llama-3-3-70b/) pentru a-și lansa infrastructura și cazurile de utilizare a AI”, a scris Ives. „Până la urmă, există o singură companie producătoare de cipuri din lume care lansează cazuri de utilizare autonome, robotice și AI mai largi și aceasta este Nvidia”.
 
 Incep sa apara din ce in ce mai multe evaluari ale/articole despre **DeepSeek**:
 
@@ -90,7 +90,7 @@ Incep sa apara din ce in ce mai multe evaluari ale/articole despre **DeepSeek**:
  - [Înțelegerea lucrării DeepSeek-R1: Ghid pentru începători](https://medium.com/data-science-in-your-pocket/understanding-deepseek-r1-paper-beginners-guide-e86f83fda796)
  - [Arhitectură DeepSeek-V3 (și R1!)](https://medium.com/@galhyams/deepseek-v3-and-r1-architecture-5e5ae796c7a9)
  - [DeepSeek-Coder: Când LLM întâlnește programarea — Mai bine decât GPT 3.5?](https://medium.com/@tanalpha-aditya/deepseek-coder-when-the-llm-meets-programming-better-than-gpt-3-5-054cf85e3493)
- - [DeepSeek: Îmbinarea performanței și eficienței în IA modernă](https://medium.com/@nandinilreddy/deepseek-bridging-performance-and-efficiency-in-modern-ai-106181a85693)
+ - [DeepSeek: Îmbinarea performanței și eficienței în AI modernă](https://medium.com/@nandinilreddy/deepseek-bridging-performance-and-efficiency-in-modern-ai-106181a85693)
  - [EP148: DeepSeek 1-Pager](https://blog.bytebytego.com/p/ep148-deepseek-1-pager)
  - [Pentagonul SUA blochează DeepSeek AI după ce angajații au descoperit că se conectează la servere chineze](https://www.firstpost.com/tech/us-pentagon-blocks-deepseek-ai-after-employees-found-connecting-to-chinese-servers-13858194.html)
  - [Open-R1: o reproducere complet deschisă a DeepSeek-R1](https://huggingface.co/blog/open-r1)
