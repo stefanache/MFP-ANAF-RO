@@ -11,10 +11,15 @@ Săptămâna aceasta, se evidențiaza lucrări referitoare la ...
  - a)îmbunătățirea siguranței(garantii de siguranta=**GR** ale...) modelului lingvistic(**LLM**),
  - b)scalarea capacităților de *raționament*, în timpul/pe durata testarii(**s1**),
  - c)perfecționarea(**CFT** > ***RL***, unde simbolul "*>*" [inseamna](https://fliphtml5.com/okzbn/guim/DIDACTICA_MATEMATICII_-_Monica_Purcaru.pdf_%C2%B7_versiunea_1_%281%29/) "*mai bun/performant decat...*") *instruirii/antrenarii/formarii*, prin învățarea(*learning*) bazată pe *critici*(**C*FT***),
- - d1)avansarea in **AI** ***multi-modală***(LLM: ***Baichuan-Omni-1.5***) și ...<br/>d2)contrastarea/compararea *reglajului-fin*(***FT***) supervizat(**S*FT***) cu/**vs.** învățarea de consolidare/intarire/recompensa(**RL**); in zona [OOD](https://encord.com/blog/what-is-out-of-distribution-ood-detection/) avem ***RL*** > *SFT*. 
+ - d1)avansarea in **AI** ***multi-modală***(LLM: ***Baichuan-Omni-1.5***) și ...<br/>d2)contrastarea/compararea *reglajului-fin*(***FT***) supervizat(**S*FT***) cu/**vs.** învățarea de consolidare/intarire/recompensa(**RL**); in zona [***OOD***](https://encord.com/blog/what-is-out-of-distribution-ood-detection/) avem ***RL*** > *SFT*. 
 
-*Concluzie*: 
-<br/>in zona/legat de [OOD](https://arxiv.org/pdf/2308.10261), per-total/pe scurt putem scrie... **CFT** > ***RL*** > *SFT* pt ca am demonstrat ....<br/>
+<ins>*Concluzie*</ins>:
+<br/><br/>Mai intai, in goana calului/bataia aripilor fluturelui/pe fuga, sa definim termenul "**OOD** - Out-ofDistribution".
+<br/>Asadar, sa ne reamintim ca in ciclul de viata al uneui model avem *antrenamentul/invatarea/formarea* si in urma distribuirii(*deployment*-ului), modelul este utilizat pt deductie/*inferenta*/productie.
+<br/>In timpul/faza de *antrenament*ului invata sa separe/clasifice/categoriseasca niste clase de obiecte/entitati(sa zicem textuale dar nu numai), pe care mai apoi, in faza de productie/inferenta le(datele folosite/intalnite in faza anteriora de ... antrenament) va recunoaste/valida/incadra/prezice.
+<br/>Problema este ca la momentul/in faza de inferenta/deductie nu se poate garanta ca utilizatorul nu aduce in/spre dicutie/atentie/verere/recunoastere/clasificare si date noi/nevazute/necunoscute modelului(care sunt in <ins>afara</ins> celor utilizate/vazute in faza anterioara de antrenament). Asa apare/a aparut termenul Out-ofDistribution([***OOD***](what-is-out-of-distribution-ood-detection)).
+<br/>Pentru ca aceste date noi, sa le putea include, in setul de date reconogscibile, putem fie sa includem sub-setul nou de date alaturi de setul vechi si sa re-*antrenam*(ex. **RL**) modelul, fie sau/ori putem, doar sa-l *tunam*/ajustam-fin(ex. **FT**,**SFT**,**CFT**) folosind/pe sub-setul de date noi.
+<br/><br/>Si acum concluzia: in zona/legat de [***OOD***](https://arxiv.org/pdf/2308.10261), per-total/pe scurt putem scrie... **CFT** > ***RL*** > *SFT* pt ca am/vom demonstra[t] ca avem ....<br/>
 
   - cf. c)  **CFT** > ***RL***
   - cf. d2) ***RL*** > *SFT*
