@@ -14,7 +14,7 @@ Săptămâna aceasta, se evidențiaza lucrări referitoare la ...
  - d1)avansarea in **AI** ***multi-modală***(LLM: ***Baichuan-Omni-1.5***) și ...<br/>d2)contrastarea/compararea *reglajului-fin*(***FT***) supervizat(**S*FT***) cu/**vs.** învățarea de consolidare/intarire/recompensa(**RL**); in zona [OOD](https://encord.com/blog/what-is-out-of-distribution-ood-detection/) avem ***RL*** > *SFT*. 
 
 *Concluzie*: 
-<br/>in zona [OOD](https://arxiv.org/pdf/2308.10261), per-total, pe scurt putem scrie... **CFT** > ***RL*** > *SFT* pt ca am demonstrat ....<br/>
+<br/>in zona/legat de [OOD](https://arxiv.org/pdf/2308.10261), per-total/pe scurt putem scrie... **CFT** > ***RL*** > *SFT* pt ca am demonstrat ....<br/>
 
   - cf. c)  **CFT** > ***RL***
   - cf. d2) ***RL*** > *SFT*
