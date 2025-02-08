@@ -21,7 +21,7 @@ Săptămâna aceasta, se evidențiaza lucrări referitoare la ...
 
 <br>(Multumim [**Linkedin-pulse**](https://www.linkedin.com/pulse/ai-research-roundup-safety-scaling-multimodal-breakthroughs-dynuf) - in calitare de *editor/publicator* si [**GenAIworks**](https://www.linkedin.com/company/genaiworks/?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3Bqdtvwz5hT727bPTetmJkQA%3D%3D) - in calitate de *autor/postator*!!!)
 
-Ideea acestui articol a inceput cu/inspirat de urmatoarele **2** [figuri](https://arxiv.org/html/2501.18492):
+Ideea acestui articol a inceput/venit/pornit cu/inspirat de [la] urmatoarele **2** [figuri/imagini](https://arxiv.org/html/2501.18492) interesante:
 
 <img src="https://github.com/user-attachments/assets/ad261a21-29e0-4ecd-ad37-eb8249703cf5" width="95%" height="auto"><a href="https://arxiv.org/html/2501.18492"><br/>LLaMA Guard 3(LG3) si GuardReasoner(GR)</a></img>
 
