@@ -28,7 +28,7 @@ Va rog, sa aveti in vedere//urmriti/retineti... o prima <ins>*Concluzie*</ins>:
 
 Ideea acestui articol a inceput/venit/pornit cu/inspirat de [la] urmatoarele **2** [figuri/imagini](https://arxiv.org/html/2501.18492) interesante:
 
-<img src="https://github.com/user-attachments/assets/ad261a21-29e0-4ecd-ad37-eb8249703cf5" width="95%" height="auto"><a href="https://arxiv.org/html/2501.18492"><br/>LLaMA Guard 3(LG3) si GuardReasoner(GR)</a></img>
+<img src="https://github.com/user-attachments/assets/ad261a21-29e0-4ecd-ad37-eb8249703cf5" width="95%" height="auto"><a href="https://arxiv.org/html/2501.18492"><br/>LLaMA Guard 3(LG3) si GuardReasoner([**GR**](https://www.youtube.com/watch?v=T253JQcwWNo&ab_channel=AIPapersDecodedPodcast))</a></img>
 
  - Figura 1: Demonstrații ale **LLaMA Guard 3(LG3)** (partea stângă) și GuardReasoner([**GR**](https://arxiv.org/html/2501.18492v1)) (partea dreaptă), concentrându-se în principal pe 3 aspecte/caracteristici:
     - (1) performanță(safe=siguranță vs. harmful=dăunător/păgubos/fără siguranță/nesigur; măsurarea scorului asupra predictiei: [**F1**-***score***](https://en.wikipedia.org/wiki/F-score)),
