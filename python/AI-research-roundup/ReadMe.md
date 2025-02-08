@@ -86,7 +86,7 @@ Pentru inceput, in vederea intelegerii, cu usurinta, a acestui articol/săptăm�
 <br/>   [***Note***](https://developers.cloudflare.com/workers-ai/):
 
 <details>
- <summary>despre...metoda-<b>FT</b>, <b><ins>LoRA</ins></b></summary> 
+ <summary> - despre...metoda-<b>FT</b>, <b><ins>LoRA</ins></b></summary> 
 
  <hr/>
 
@@ -104,10 +104,10 @@ Pentru inceput, in vederea intelegerii, cu usurinta, a acestui articol/săptăm�
 
 </details>
 
-si separat, ...
+si separat/suplimentar, ...
 
 <details>
- <summary>despre facilitatea... <b><ins>Function-calling</ins></b></summary>
+ <summary> - despre facilitatea... <b><ins>Function-calling</ins></b></summary>
 
 <hr/>
  
