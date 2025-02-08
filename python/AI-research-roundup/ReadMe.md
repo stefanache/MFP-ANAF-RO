@@ -13,7 +13,7 @@ Săptămâna aceasta, se evidențiaza lucrări referitoare la ...
  - c)perfecționarea(**CFT** > ***RL***, unde simbolul "*>*" [inseamna](https://fliphtml5.com/okzbn/guim/DIDACTICA_MATEMATICII_-_Monica_Purcaru.pdf_%C2%B7_versiunea_1_%281%29/) "*mai bun/performant decat...*") *instruirii/antrenarii/formarii*, prin învățarea(*learning*) bazată pe *critici*(**C*FT***),
  - d1)avansarea in **AI** ***multi-modală***(LLM: ***Baichuan-Omni-1.5***) și ...<br/>d2)contrastarea/compararea *reglajului-fin*(***FT***) supervizat(**S*FT***) cu/**vs.** învățarea de consolidare/intarire/recompensa(**RL**); in zona [***OOD***](https://encord.com/blog/what-is-out-of-distribution-ood-detection/) avem ***RL*** > *SFT*. 
 
-<ins>*Concluzie*</ins>:
+Va rog, sa aveti in vedere//urmriti/retineti... o prima <ins>*Concluzie*</ins>:
 <br/> - Mai intai, in goana calului/bataia aripilor fluturelui/pe fuga, sa definim termenul "**OOD** - Out-of-Distribution".
 <br/>Asadar, sa ne reamintim ca in ciclul de viata al uneui model avem *antrenamentul/invatarea/formarea* si in urma distribuirii(*deployment*-ului), modelul este utilizat pt deductie/*inferenta*/productie.
 <br/>In timpul/faza de *antrenament*ului invata sa separe/clasifice/categoriseasca niste clase de obiecte/entitati(sa zicem textuale dar nu numai), pe care mai apoi, in faza de productie/inferenta le(datele folosite/intalnite in faza anteriora de ... antrenament) va recunoaste/valida/incadra/prezice.
