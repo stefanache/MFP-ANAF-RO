@@ -89,7 +89,7 @@ Incep sa apară/curgă din ce in ce mai multe evaluari ale/articole despre **Dee
  - [Învățarea prin întărire(**RL**) se încălzește](https://www.deeplearning.ai/the-batch/how-deepseek-r1-and-kimi-k1-5-use-reinforcement-learning-to-improve-reasoning/)
  - [**DeepSeek** explicat: ce este DS și este sigur de utilizat?](https://ai.nd.edu/news/deepseek-explained-what-is-it-and-is-it-safe-to-use/)
  - [Cea mai recentă descoperire a **DeepSeek** este redefinirea cursei **AI**](https://www.csis.org/analysis/deepseeks-latest-breakthrough-redefining-ai-race)
- - [Dezbateri **DeepSeek**: Conducerea chinezească în ceea ce privește costul, costul real al instruirii, impactul marjei modelului închis Creșterea prețurilor H100, prețuri subvenționate prin inferență, controale la export, **MLA**](https://semianalysis.com/2025/01/31/deepseek-debates/)
+ - [Dezbateri **DeepSeek**: Conducerea chinezească în ceea ce privește costul, costul real al instruirii, impactul marjei modelului închis Creșterea prețurilor H100, prețuri subvenționate prin inferență, controale la export, Multi-head Latent Attention(**MLA**)](https://semianalysis.com/2025/01/31/deepseek-debates/)
  - [Modelul-**AI** ieftin și deschis al Chinei-**DeepSeek** îi entuziasmează pe oamenii de știință](https://www.nature.com/articles/d41586-025-00229-6)
  - [**DeepSeek-R1** vs **DeepSeek-V3**: comparație detaliată](https://www.analyticsvidhya.com/blog/2025/02/deepseek-r1-vs-deepseek-v3/)
  - [Înțelegerea lucrării **DeepSeek-R1**: Ghid pentru începători](https://medium.com/data-science-in-your-pocket/understanding-deepseek-r1-paper-beginners-guide-e86f83fda796)
