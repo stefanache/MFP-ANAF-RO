@@ -31,7 +31,7 @@ Ideea acestui articol a inceput/venit/pornit cu/inspirat de [la] urmatoarele **2
 <img src="https://github.com/user-attachments/assets/ad261a21-29e0-4ecd-ad37-eb8249703cf5" width="95%" height="auto"><a href="https://arxiv.org/html/2501.18492"><br/>LLaMA Guard 3(LG3) si GuardReasoner(GR)</a></img>
 
  - Figura 1(safe=siguranță vs. harmful=daunător/pagubos/fara siguranță): Demonstrații ale **LLaMA Guard 3(LG3)** (partea stângă) și GuardReasoner(**GR**) (partea dreaptă), concentrându-se în principal pe 3 aspecte/caracteristici:
-    - (1) performanță,
+    - (1) performanță(safe vs. harmful),
     - (2) explicabilitate și
     - (3) generalizare.
 <br/>Eșantionăm acest caz din WildGuardTest (Han și colab.,2024) set de date.
