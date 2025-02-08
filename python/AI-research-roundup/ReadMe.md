@@ -116,6 +116,7 @@ si separat/suplimentar, ...
 <br/>Dezvoltatorul definește de obicei un set-de-*funcții* și schema-de-intrare(in joc/rol) necesară pentru fiecare *funcție* in parte, pe care o numim **tools**.
 <br/>Apoi, modelul(**LLM**-ul) înțelege în mod inteligent, când trebuie să efectueze un apel-de-instrument(**Function-calling** of **tool**) și returnează o *ieșire-JSON*(*raspuns*) pe care utilizatorul trebuie să o alimenteze către o altă *funcție* sau *API*.
 <br/>În esență, **Function-calling/Apelarea-funcției** vă permite să efectuați <ins>acțiuni(descrise de *functii**)</ins> cu **LLM**-uri executând *cod* sau efectuând apeluri-*API* suplimentare.
+
 <br/>***Function-calling*** este o *caracteristica/facilitate/optiune* a **LLM**-ului, adica spunem... "{cutare-**LLM**} are sau nu are facilitatea **Function-calling**" sau uneori, mai putem spune, in urmatorul fel .... "{cutare-**LLM**} [nu] este **Function-calling Enabled**"  
 
 <hr/>
