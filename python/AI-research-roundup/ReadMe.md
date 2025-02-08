@@ -44,7 +44,7 @@ si ...
 
   - (1) Reasoning Data Synthesis(**RDS**),
   - (2) Reasoning-SFT(ℳ [**R-SFT**](https://sebastianraschka.com/blog/2025/understanding-reasoning-llms.html)) și
-  - (3) Hard Sample DPO(**HS-DPO**).
+  - (3) Hard Sample DPO([**HS-DPO**](https://www.threads.net/@theturingpost/post/DFgdZq7MRJ_)).
    
 Hai sa le analizam pe rand(sa despicam firu' in 3 ! :)...
 
