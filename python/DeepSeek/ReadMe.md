@@ -73,7 +73,7 @@ Cu referire la acest subiect, sunt articole interesante, aparute in presa, publi
 
 Unii experți au lăudat performanțele [***DeepSeek***](https://medium.com/@kirill_86245/how-good-is-deepseek-r1-lite-preview-at-reasoning-403b582d24ca), remarcabilul investitor în tehnologie **Marc Andreessen** scriind pe reteaua de socializare **X**, pe 24 ianuarie 2025: „[DeepSeek R1](https://www.datacamp.com/blog/deepseek-r1-lite-preview) este una dintre cele mai uimitoare și impresionante [descoperiri](https://docsbot.ai/models/compare/deepseek-v3/o1) pe care le-am văzut vreodată - și ca [sursă deschisă](https://epoch.ai/gradient-updates/how-has-deepseek-improved-the-transformer-architecture), un [dar profund](https://www.mygreatlearning.com/blog/deepseek-r1-features-use-cases/) pentru lume”.
 
-Într-o declarație pentru **CBS News**, Nvidia a lăudat [DeepSeek](https://medium.com/@thomas_reid/a-quick-test-of-deepseeks-new-r1-lite-preview-model-7683b5561ad1).
+Într-o declarație pentru **CBS News**, **Nvidia** a lăudat [***DeepSeek***](https://medium.com/@thomas_reid/a-quick-test-of-deepseeks-new-r1-lite-preview-model-7683b5561ad1).
 
 „Munca [DeepSeek](https://github.com/deepseek-ai/DeepSeek-R1) ilustrează modul în care pot fi create noi modele folosind această [tehnică](https://github.com/deepseek-ai/DeepSeek-R1/blob/main/DeepSeek_R1.pdf), valorificând modelele disponibile pe scară largă și calculul care este pe deplin conform cu controlul exporturilor”.
 
