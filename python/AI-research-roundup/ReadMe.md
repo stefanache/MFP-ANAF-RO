@@ -14,7 +14,7 @@ Săptămâna aceasta, se evidențiaza lucrări referitoare la ...
  - d1)avansarea in **AI** ***multi-modală***(LLM: ***Baichuan-Omni-1.5***) și ...<br/>d2)contrastarea/compararea *reglajului-fin*(***FT***) supervizat(**S*FT***) cu/**vs.** învățarea de consolidare/intarire/recompensa(**RL**): ***RL*** > *SFT*. 
 
 *Concluzie*: 
-<br/>per-total, folosind tranzitivitatea,  avem... **CFT** > ***RL*** > *SFT* pt ca am demonstrat ....<br/>
+<br/>per-total, pe scurt putem scrie... **CFT** > ***RL*** > *SFT* pt ca am demonstrat ....<br/>
 
   - cf. c)  **CFT** > ***RL***
   - cf. d2) ***RL*** > *SFT*
