@@ -94,9 +94,9 @@ Pentru inceput, in vederea intelegerii, cu usurinta, a acestui articol/săptăm�
 <br/>Este obișnuit ca greutățile modelului pre-antrenate să fie direct modificate sau îmbinate cu greutăți suplimentare de reglare-fină(**FT**) în metodele tradiționale de reglare-fină(**FT**).
 <br/>**LoRA**, pe de altă parte, permite ca greutățile de reglare-fină(**FT**) și modelul pre-antrenat să rămână separate, iar modelul pre-antrenat să rămână neschimbat.
 <br/>Rezultatul final este că puteți antrena modele pentru
-   - a fi mai precise la anumite sarcini(**tasks***), cum ar fi generarea-de-cod,
-   - a avea o anumită personalitate sau pentru...
-   - generarea de imagini într-un anumit stil.
+    - a fi mai precise la anumite sarcini(**tasks***), cum ar fi generarea-de-cod,
+    - a avea o anumită personalitate sau pentru...
+    - generarea de imagini într-un anumit stil.
 <br/>**LoRA** poate fi privita ca o *caracteristica/facilitate/optiune* de/a **FT**[-ului] atribuita unui model sau **LLM**.
 <br/>Astfel, putem afirma/infirma despre un model/**LLM** ca poseda/prevede sau nu **LORA**...sau cu alte cuvinte, am mai putea spune ... "{cutare model/**LLM**) este **LoRA Enabled**
 
