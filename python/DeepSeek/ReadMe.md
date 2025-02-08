@@ -27,7 +27,7 @@ Asadar, dat fiind consumul redus de resurse, acum, LLM-ul [**DeepSeek**](https:/
 Domnul [**Fahd Mirza**](https://www.youtube.com/channel/UCPix8N6PMRI4KzgyjuZeF0g) a prezentat cateva [lucruri](https://github.com/fahdmirza/deepseekr1) [interesante](https://www.fahdmirza.com/), legate de [**DeepSeek**](https://huggingface.co/deepseek-ai)([V1](https://saharalabs.ai/blog/understanding-deepseek),[V1.5](https://github.com/deepseek-ai/DeepSeek-Prover-V1.5),[V2](https://www.reddit.com/r/LocalLLaMA/comments/1clkld3/deepseekv2_a_strong_economical_and_efficient/),[V2.5](https://api-docs.deepseek.com/news/news0905),[V3](https://medium.com/@galhyams/deepseek-v3-and-r1-architecture-5e5ae796c7a9),[R1](https://www.unite.ai/ro/deepseek-r1-transformarea-ra%C8%9Bionamentului-ai-cu-%C3%AEnv%C4%83%C8%9Bare-prin-%C3%AEnt%C4%83rire/)), pe [***Youtube***](https://www.youtube.com/results?search_query=Fahd+Mirza+DeepSeek):
 
 
- - [Run DeepSeek Janus Pro(1B) on CPU Locally - Image Understanding and Creation](https://www.youtube.com/watch?v=kfN1w_4Zg2E&ab_channel=FahdMirza)(multi-modal)<br/>Janus-Pro 1B - este un cadru ***autoregresiv***, care unifică, ***înțelegerea***(imaginii....deci **img**2**txt**) și/impreuna cu ***generarea***(creaza imagine din/cf. text-descriptiv ... deci **txt**2**img**) - multimodală(adica/deci/=**img**&**txt**)
+ - [Run DeepSeek Janus Pro(1B) on CPU Locally - Image Understanding and Creation](https://www.youtube.com/watch?v=kfN1w_4Zg2E&ab_channel=FahdMirza)(multi-modal)<br/>**Janus-Pro 1B** - este un cadru ***autoregresiv***, care unifică, ***înțelegerea***(imaginii....deci **img**2**txt**) și/impreuna cu ***generarea***(creaza imagine din/cf. text-descriptiv ... deci **txt**2**img**) - multimodală(adica/deci/=**img**&**txt**)
  - [How-To Run DeepSeek R1(70B) Locally with Best GUI Frontend](https://www.youtube.com/watch?v=b2DBWKBJj3Q&ab_channel=FahdMirza)
  - [Run DeepSeek R1(32B) with Ollama and Cline(agent-VSc) in VScode - 100% Local Solution](https://www.youtube.com/watch?v=oeBDn6vclz0&t=0s&ab_channel=FahdMirza)
  - [How-To Use DeepSeek Reasoner(R1) in API in Code Easily](https://www.youtube.com/watch?v=WbKa-gxVybA&ab_channel=FahdMirza)(acesta este [codul](https://github.com/fahdmirza/deepseekr1) utilizat!)
@@ -38,8 +38,8 @@ Domnul [**Fahd Mirza**](https://www.youtube.com/channel/UCPix8N6PMRI4KzgyjuZeF0g
  - [DeepSeek-V2.5-1210: The Final Version - Test Thoroughly on Math, Coding, Text](https://www.youtube.com/watch?v=h6mzItl32n8&ab_channel=FahdMirza)
  - [DeepSeek V3 Thorough Testing - Better Than GPT-4o and Claude Sonnet in Price and Performance](https://www.youtube.com/watch?v=vz1Cs9CpxOg&ab_channel=FahdMirza)
  - [DeepSeek Coder v2 Lite Instruct - Local Installation - Beats GPT-4 In Coding](https://www.youtube.com/watch?v=rlxsDC9aza0&ab_channel=FahdMirza)
-   <br/>DeepSeek-Coder-V2 - este un model de limbaj de codare/codificare(scriere de cod = coder) Mixture-of-Experts (MoE), open source,
-   <br/>care atinge performanțe comparabile cu GPT4-Turbo, în sarcini specifice codului/codarii(scrierii automate de cod = coder)
+   <br/>**DeepSeek-Coder-V2* - este un model de limbaj de codare/codificare(scriere de cod = coder) Mixture-of-Experts(**MoE**), open source,
+   <br/>care atinge performanțe comparabile cu **GPT4-Turbo**, în sarcini specifice codului/codarii(scrierii automate de cod = coder)
  - [How-To Run DeepSeek V3(GGUF K-XS q5) Locally on CPU or GPU](https://www.youtube.com/watch?v=uMWPXFDaXBM&ab_channel=FahdMirza)
  - [DeepSeek R1 Lite Preview with DeepThink - Hands-on Demo](https://www.youtube.com/watch?v=1WArHOSq--8&ab_channel=FahdMirza)
  - [DeepSeek-R1 with Continue(un agent de codare VScode) and Ollama - Free, Local and Private](https://www.youtube.com/watch?v=-q-3ghi4A8E&ab_channel=FahdMirza)
