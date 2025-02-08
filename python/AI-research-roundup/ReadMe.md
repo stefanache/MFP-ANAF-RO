@@ -8,7 +8,7 @@
  - îmbunătățiri bazate pe *raționament*. 
 
 Săptămâna aceasta, se evidențiaza lucrări referitoare la ...
- - a)îmbunătățirea siguranței(garantii de siguranta=**GR** ale...) modelului lingvistic(**LLM**),
+ - a)îmbunătățirea siguranței(garantii de siguranta=[**GR**](https://powerdrill.ai/discover/summary-guardreasoner-towards-reasoning-based-llm-cm6l9025xl1x507s3cdkjvx16) ale...) modelului lingvistic(**LLM**),
  - b)scalarea capacităților de *raționament*, în timpul/pe durata testarii(**s1**),
  - c)perfecționarea(**CFT** > ***RL***, unde simbolul "*>*" [inseamna](https://fliphtml5.com/okzbn/guim/DIDACTICA_MATEMATICII_-_Monica_Purcaru.pdf_%C2%B7_versiunea_1_%281%29/) "*mai bun/performant decat...*") *instruirii/antrenarii/formarii*, prin învățarea(*learning*) bazată pe *critici*(**C*FT***),
  - d1)avansarea in **AI** ***multi-modală***(LLM: ***Baichuan-Omni-1.5***) și ...<br/>d2)contrastarea/compararea *reglajului-fin*(***FT***) supervizat(**S*FT***) cu/**vs.** învățarea de consolidare/intarire/recompensa(**RL**); <br/>in zona [***OOD***](https://encord.com/blog/what-is-out-of-distribution-ood-detection/) avem ***RL*** > *SFT*. 
@@ -30,7 +30,7 @@ Ideea acestui articol a inceput/venit/pornit cu/inspirat de [la] urmatoarele **2
 
 <img src="https://github.com/user-attachments/assets/ad261a21-29e0-4ecd-ad37-eb8249703cf5" width="95%" height="auto"><a href="https://arxiv.org/html/2501.18492"><br/>LLaMA Guard 3(LG3) si GuardReasoner(GR)</a></img>
 
- - Figura 1: Demonstrații ale **LLaMA Guard 3(LG3)** (partea stângă) și GuardReasoner(**GR**) (partea dreaptă), concentrându-se în principal pe 3 aspecte/caracteristici:
+ - Figura 1: Demonstrații ale **LLaMA Guard 3(LG3)** (partea stângă) și GuardReasoner([**GR**](https://arxiv.org/html/2501.18492v1)) (partea dreaptă), concentrându-se în principal pe 3 aspecte/caracteristici:
     - (1) performanță(safe=siguranță vs. harmful=dăunător/păgubos/fără siguranță/nesigur; măsurarea scorului asupra predictiei: [**F1**-***score***](https://en.wikipedia.org/wiki/F-score)),
     - (2) explicabilitate(prezenta sau/ori/vs. nu/inexistenta...explicatiilor/rationamentului/demonstratiei sau pasilor/modului de gandire/schema sau arhitectura cognitivă) și
     - (3) generalizare(tendinta de a fi categorial/prezinta si incadreaza-in anumite clase invatate sau/ori/vs.... nu/fara categorisire/necategorisit).
@@ -40,7 +40,7 @@ si ...
   
 <img src="https://arxiv.org/html/2501.18492v1/extracted/6167045/7_overall.png" width="95%" height="auto"><a href="https://arxiv.org/html/2501.18492v1/extracted/6167045/7_overall.png">GuardReasoner</a></img>
 
- - Figura 2: GuardReasoner(**GR**) constă/este alcatuit din trei(**3**) module/componente: 
+ - Figura 2: GuardReasoner([**GR**](http://paperreading.club/page?id=280945)) constă/este alcatuit din trei(**3**) module/componente: 
 
   - (1) Reasoning Data Synthesis([**RDS**](https://aclanthology.org/2024.lrec-main.900.pdf)),
   - (2) Reasoning-SFT(ℳ [**R-SFT**](https://sebastianraschka.com/blog/2025/understanding-reasoning-llms.html)) și
