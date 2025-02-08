@@ -84,18 +84,18 @@ Cu toate acestea, **Ives** s-a declarat sceptic că serviciul va câștiga teren
 
 Incep sa apara din ce in ce mai multe evaluari ale/articole despre **DeepSeek**:
 
- - [Oamenii de știință se întâlnesc la DeepSeek: cum folosesc modelul AI de succes](https://www.nature.com/articles/d41586-025-00275-0)
- - [Înțelegerea capacităților modelelor de limbă mari DeepSeek-R1](https://www.digitalocean.com/community/tutorials/deepseek-r1-large-language-model-capabilities)
- - [Învățarea prin întărire(RL) se încălzește](https://www.deeplearning.ai/the-batch/how-deepseek-r1-and-kimi-k1-5-use-reinforcement-learning-to-improve-reasoning/)
- - [DeepSeek explicat: ce este DS și este sigur de utilizat?](https://ai.nd.edu/news/deepseek-explained-what-is-it-and-is-it-safe-to-use/)
- - [Cea mai recentă descoperire a DeepSeek este redefinirea cursei AI](https://www.csis.org/analysis/deepseeks-latest-breakthrough-redefining-ai-race)
- - [Dezbateri DeepSeek: Conducerea chinezească în ceea ce privește costul, costul real al instruirii, impactul marjei modelului închis Creșterea prețurilor H100, prețuri subvenționate prin inferență, controale la export, MLA](https://semianalysis.com/2025/01/31/deepseek-debates/)
- - [Modelul-AI ieftin și deschis al Chinei-DeepSeek îi entuziasmează pe oamenii de știință](https://www.nature.com/articles/d41586-025-00229-6)
- - [DeepSeek-R1 vs DeepSeek-V3: comparație detaliată](https://www.analyticsvidhya.com/blog/2025/02/deepseek-r1-vs-deepseek-v3/)
- - [Înțelegerea lucrării DeepSeek-R1: Ghid pentru începători](https://medium.com/data-science-in-your-pocket/understanding-deepseek-r1-paper-beginners-guide-e86f83fda796)
- - [Arhitectură DeepSeek-V3 (și R1!)](https://medium.com/@galhyams/deepseek-v3-and-r1-architecture-5e5ae796c7a9)
- - [DeepSeek-Coder: Când LLM întâlnește programarea — Mai bine decât GPT 3.5?](https://medium.com/@tanalpha-aditya/deepseek-coder-when-the-llm-meets-programming-better-than-gpt-3-5-054cf85e3493)
- - [DeepSeek: Îmbinarea performanței și eficienței în AI modernă](https://medium.com/@nandinilreddy/deepseek-bridging-performance-and-efficiency-in-modern-ai-106181a85693)
+ - [Oamenii de știință se întâlnesc la **DeepSeek**: cum folosesc modelul AI de succes](https://www.nature.com/articles/d41586-025-00275-0)
+ - [Înțelegerea capacităților modelelor de limbă mari **DeepSeek-R1**](https://www.digitalocean.com/community/tutorials/deepseek-r1-large-language-model-capabilities)
+ - [Învățarea prin întărire(**RL**) se încălzește](https://www.deeplearning.ai/the-batch/how-deepseek-r1-and-kimi-k1-5-use-reinforcement-learning-to-improve-reasoning/)
+ - [**DeepSeek** explicat: ce este DS și este sigur de utilizat?](https://ai.nd.edu/news/deepseek-explained-what-is-it-and-is-it-safe-to-use/)
+ - [Cea mai recentă descoperire a **DeepSeek** este redefinirea cursei **AI**](https://www.csis.org/analysis/deepseeks-latest-breakthrough-redefining-ai-race)
+ - [Dezbateri **DeepSeek**: Conducerea chinezească în ceea ce privește costul, costul real al instruirii, impactul marjei modelului închis Creșterea prețurilor H100, prețuri subvenționate prin inferență, controale la export, **MLA**](https://semianalysis.com/2025/01/31/deepseek-debates/)
+ - [Modelul-**AI** ieftin și deschis al Chinei-**DeepSeek** îi entuziasmează pe oamenii de știință](https://www.nature.com/articles/d41586-025-00229-6)
+ - [**DeepSeek-R1** vs **DeepSeek-V3**: comparație detaliată](https://www.analyticsvidhya.com/blog/2025/02/deepseek-r1-vs-deepseek-v3/)
+ - [Înțelegerea lucrării **DeepSeek-R1**: Ghid pentru începători](https://medium.com/data-science-in-your-pocket/understanding-deepseek-r1-paper-beginners-guide-e86f83fda796)
+ - [Arhitectură **DeepSeek-V3** (și **DeepSeek-R1**!)](https://medium.com/@galhyams/deepseek-v3-and-r1-architecture-5e5ae796c7a9)
+ - [**DeepSeek-Coder**: Când **LLM**-ul întâlnește programarea — Mai bine decât **GPT 3.5**?](https://medium.com/@tanalpha-aditya/deepseek-coder-when-the-llm-meets-programming-better-than-gpt-3-5-054cf85e3493)
+ - [**DeepSeek**: Îmbinarea performanței și eficienței în **AI** modernă](https://medium.com/@nandinilreddy/deepseek-bridging-performance-and-efficiency-in-modern-ai-106181a85693)
  - [EP148: DeepSeek 1-Pager](https://blog.bytebytego.com/p/ep148-deepseek-1-pager)
  - [Pentagonul SUA blochează DeepSeek AI după ce angajații au descoperit că se conectează la servere chineze](https://www.firstpost.com/tech/us-pentagon-blocks-deepseek-ai-after-employees-found-connecting-to-chinese-servers-13858194.html)
  - [Open-R1: o reproducere complet deschisă a DeepSeek-R1](https://huggingface.co/blog/open-r1)
@@ -107,8 +107,8 @@ Incep sa apara din ce in ce mai multe evaluari ale/articole despre **DeepSeek**:
  - [DeepSeek-R1 + Sonnet](https://medium.com/ingeniouslysimple/deepseek-r1-sonnet-ccd01a0f345b)
  - [Partea-Întunecata profunda a DeepSeek: Atacuri de reglare-fina impotriva alinierii de siguranta a modelelor CoT-Enabled](https://arxiv.org/pdf/2502.01225)
  - [Raport tehnic DeepSeek-V3](https://arxiv.org/html/2412.19437v1)
- - [Reglarea-fină a Deepseek este necesara sau este inutilă?](https://www.reddit.com/r/LocalLLaMA/comments/1i9541o/fine_tuning_deepseek_or_is_it_unnecessary/)
- - [DeepSeek tocmai a lansat DeepSeek VL2 Small - Model MoE Vision - Instalați local](https://www.youtube.com/watch?v=eiWB_zHWbMs&t=22s&ab_channel=FahdMirza)
+ - [Reglarea-fină(**FT**) a **Deepseek** este necesara sau este inutilă?](https://www.reddit.com/r/LocalLLaMA/comments/1i9541o/fine_tuning_deepseek_or_is_it_unnecessary/)
+ - [DeepSeek tocmai a lansat DeepSeek-VL2-Small - Model MoE Vision - Instalați local](https://www.youtube.com/watch?v=eiWB_zHWbMs&t=22s&ab_channel=FahdMirza)
    <br/>[HF: Deepseek-VL2-Small ](https://huggingface.co/deepseek-ai/deepseek-vl2-small);
    <br/>**DeepSeek-VL2** - demonstrează capabilități superioare în diverse sarcini, inclusiv, dar fără a se limita la:
     - răspunsuri vizuale la întrebări(Visual Question Answering=[**VQA**](https://visualqa.org/)),
