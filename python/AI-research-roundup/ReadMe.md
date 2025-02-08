@@ -42,7 +42,7 @@ si ...
 
  - Figura 2: GuardReasoner(**GR**) constă/este alcatuit din trei(**3**) module/componente: 
 
-  - (1) Reasoning Data Synthesis(**RDS**),
+  - (1) Reasoning Data Synthesis([**RDS**](https://aclanthology.org/2024.lrec-main.900.pdf)),
   - (2) Reasoning-SFT(ℳ [**R-SFT**](https://sebastianraschka.com/blog/2025/understanding-reasoning-llms.html)) și
   - (3) Hard Sample DPO([**HS-DPO**](https://www.threads.net/@theturingpost/post/DFgdZq7MRJ_)).
    
