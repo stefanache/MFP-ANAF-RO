@@ -88,6 +88,8 @@ Pentru inceput, in vederea intelegerii, cu usurinta, a acestui articol/săptăm�
 <details>
  <summary>despre...metoda-<b>FT</b>, <b><ins>LoRA</ins></b></summary> 
 
+ <hr/>
+
 <br/>  - [Low-Rank Adaptation ↗ Adaptare de rang scăzut(**LoRA**)](https://blog.cloudflare.com/fine-tuned-inference-with-loras) este o metodă specifică de reglare-fină(**FT**) care poate fi aplicată la diferite arhitecturi de model, nu doar **LLM**-urilor.
 <br/>Este obișnuit ca greutățile modelului pre-antrenate să fie direct modificate sau îmbinate cu greutăți suplimentare de reglare-fină(**FT**) în metodele tradiționale de reglare-fină(**FT**).
 <br/>**LoRA**, pe de altă parte, permite ca greutățile de reglare-fină(**FT**) și modelul pre-antrenat să rămână separate, iar modelul pre-antrenat să rămână neschimbat.
@@ -98,18 +100,24 @@ Pentru inceput, in vederea intelegerii, cu usurinta, a acestui articol/săptăm�
 <br/>**LoRA** poate fi privita ca o *caracteristica/facilitate/optiune* de/a **FT**[-ului] atribuita unui model sau **LLM**.
 <br/>Astfel, putem afirma/infirma despre un model/**LLM** ca poseda/prevede sau nu **LORA**...sau cu alte cuvinte, am mai putea spune ... "{cutare model/**LLM**) este **LoRA Enabled**
 
+<hr/>
+
 </details>
 
 si separat, ...
 
 <details>
- <summary>despre facilitatea... <b><ins>Function-calling</ins>ins></b></summary>
+ <summary>despre facilitatea... <b><ins>Function-calling</ins></b></summary>
+
+<hr/>
  
 <br/>  - [**Function-calling ↗ Apelarea funcției**](https://developers.cloudflare.com/workers-ai/function-calling/) le permite oamenilor să utilizeze modele-de-limbaj-mari (**LLM**) și să utilizeze *răspunsul/iesirea* modelului(**LLM**-ului) pentru a executa-*funcții* sau a interacționa-cu *API*-*uri-externe.
 <br/>Dezvoltatorul definește de obicei un set-de-*funcții* și schema-de-intrare(in joc/rol) necesară pentru fiecare *funcție* in parte, pe care o numim **tools**.
 <br/>Apoi, modelul(**LLM**-ul) înțelege în mod inteligent, când trebuie să efectueze un apel-de-instrument(**Function-calling** of **tool**) și returnează o *ieșire-JSON*(*raspuns*) pe care utilizatorul trebuie să o alimenteze către o altă *funcție* sau *API*.
 <br/>În esență, **Function-calling/Apelarea-funcției** vă permite să efectuați <ins>acțiuni(descrise de *functii**)</ins> cu **LLM**-uri executând *cod* sau efectuând apeluri-*API* suplimentare.
 <br/>***Function-calling*** este o *caracteristica/facilitate/optiune* a **LLM**-ului, adica spunem... "{cutare-**LLM**} are sau nu are facilitatea **Function-calling**" sau uneori, mai putem spune, in urmatorul fel .... "{cutare-**LLM**} [nu] este **Function-calling Enabled**"  
+
+<hr/>
 
 </details>
    
