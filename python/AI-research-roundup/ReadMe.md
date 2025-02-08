@@ -82,7 +82,11 @@ Pentru inceput, in vederea intelegerii, cu usurinta, a acestui articol/săptăm�
    <br/>În *învățarea-profundă*([**DL**](https://en.wikipedia.org/wiki/Fine-tuning_(deep_learning))) , *reglarea-fină*([**FT**](https://www.linkedin.com/pulse/building-fine-tuning-large-language-model-generative-ai-tazkera-haque-y8bcc/)) este o abordare/varianta a *transferului-de-învățare*, varianta în care, *parametrii-unui-model*(**LLM**) de *rețea-neuronală*([**NN**](https://en.wikipedia.org/wiki/Neural_network)) **pre-antrenată**, sunt antrenați/invațați/acordați/modificați/ajustați, pe/la *date-noi*.
    <br/>*Reglarea-fină*([**FT**](https://www.google.com/search?sca_esv=744faba34f407743&rlz=1C1CHBF_enRO1132RO1132&sxsrf=AHTn8zrr0TLZFmUEEwoawJ0AwF5IOI0fkA:1738759617183&q=.avi+fine+tuning+ai+model+llm&udm=2&fbs=ABzOT_BYhiZpMrUAF0c9tORwPGls0vqphpL9nGKy0PrLJqseLh0EQ6IW_YF9DHIKeRA2FImZJj7_nGLmr0IdZilOghZzNgMFk3aJ_aCLgBcYPfMMnTtkxvIFSifbF8fUw2Jv7wsjn4EFAru9uCvKItEWlh6Msc2bc_waqIcpbvO3hgkPwNEnEn1FFfLcV0CGEYhkFgRYo-ax&sa=X&ved=2ahUKEwih1tOqyKyLAxVcVfEDHfgkAi0QtKgLegQIDBAB&biw=1920&bih=911&dpr=1)) se poate face pe <ins>întreaga</ins> *rețea-neuronală*(**NN**), sau doar pe un *<ins>subset-de-straturi</ins>* ale *acesteia*(**NN**), caz în care, *straturile*, care *<ins>nu</ins> sunt reglate-fin*(**FT**), sunt „*înghețate*”(adică, acele *straturi*, [rămân](https://dexonline.ro/definitie/r%C4%83m%C3%AEn/701200) *<ins>ne</ins>modificate*/*<ins>nu</ins> sunt modificate*, în timpul *retro-propagarii*).
    <br/>Un *model*(**LLM**) poate fi, de asemenea, *<ins>mărit</ins>* cu „*adaptoare*”, care constau din/au mult-mai-puțini *parametrii*, decât *modelul-original*(**LLM**) și  care(**LLM**), apoi este reglat-fin(**FT**), într-un mod eficient(*Parameter-Efficient-Fine-Tuning*=**PEFT**), din punct de vedere(d.p.d.v.) al *parametrilor* sai, prin reglarea/ajustarea/acordarea *greutăților-adaptoarelor*(a se vedea si... Implementarea/ajustarea-**PEFT** eficienta prin *Low-Rank Adaptation*=**LoRA**) și/dar lăsând, restul *greutăților-modelului*(**LLM**), *înghețate*.<br/>
-<br/>   [***Nota despre metoda-FT... LoRA si separat, despre ... Function-calling***](https://developers.cloudflare.com/workers-ai/):
+
+<br/>   [***Note***](https://developers.cloudflare.com/workers-ai/):
+
+<details>
+ <summary>despre...metoda-<b>FT</b>, <b><ins>LoRA</ins></b></summary> 
 
 <br/>  - [Low-Rank Adaptation ↗ Adaptare de rang scăzut(**LoRA**)](https://blog.cloudflare.com/fine-tuned-inference-with-loras) este o metodă specifică de reglare-fină(**FT**) care poate fi aplicată la diferite arhitecturi de model, nu doar **LLM**-urilor.
 <br/>Este obișnuit ca greutățile modelului pre-antrenate să fie direct modificate sau îmbinate cu greutăți suplimentare de reglare-fină(**FT**) în metodele tradiționale de reglare-fină(**FT**).
@@ -94,12 +98,20 @@ Pentru inceput, in vederea intelegerii, cu usurinta, a acestui articol/săptăm�
 <br/>**LoRA** poate fi privita ca o *caracteristica/facilitate/optiune* de/a **FT**[-ului] atribuita unui model sau **LLM**.
 <br/>Astfel, putem afirma/infirma despre un model/**LLM** ca poseda/prevede sau nu **LORA**...sau cu alte cuvinte, am mai putea spune ... "{cutare model/**LLM**) este **LoRA Enabled**
 
+</details>
+
+si separat, ...
+
+<details>
+ <summary>despre facilitatea... <b><ins>Function-calling</ins>ins></b></summary>
+ 
 <br/>  - [**Function-calling ↗ Apelarea funcției**](https://developers.cloudflare.com/workers-ai/function-calling/) le permite oamenilor să utilizeze modele-de-limbaj-mari (**LLM**) și să utilizeze *răspunsul/iesirea* modelului(**LLM**-ului) pentru a executa-*funcții* sau a interacționa-cu *API*-*uri-externe.
 <br/>Dezvoltatorul definește de obicei un set-de-*funcții* și schema-de-intrare(in joc/rol) necesară pentru fiecare *funcție* in parte, pe care o numim **tools**.
 <br/>Apoi, modelul(**LLM**-ul) înțelege în mod inteligent, când trebuie să efectueze un apel-de-instrument(**Function-calling** of **tool**) și returnează o *ieșire-JSON*(*raspuns*) pe care utilizatorul trebuie să o alimenteze către o altă *funcție* sau *API*.
 <br/>În esență, **Function-calling/Apelarea-funcției** vă permite să efectuați <ins>acțiuni(descrise de *functii**)</ins> cu **LLM**-uri executând *cod* sau efectuând apeluri-*API* suplimentare.
 <br/>***Function-calling*** este o *caracteristica/facilitate/optiune* a **LLM**-ului, adica spunem... "{cutare-**LLM**} are sau nu are facilitatea **Function-calling**" sau uneori, mai putem spune, in urmatorul fel .... "{cutare-**LLM**} [nu] este **Function-calling Enabled**"  
 
+</details>
    
  - [**SFT**](https://huggingface.co/docs/trl/sft_trainer) = Supervised Fine-Tuning = reglare-Fină Supravegheată(Etichetată/Clasificată/Categorisită corespunzator).
    <br/>*Tunajul/Reglajul-fin(**FT**) supravegheat*(**S*FT***) este utilizat, în mod obișnuit, pt **antrenarea** *model*elor de limbaj(**LLM**), in a <ins>imita</ins>|<ins>cauta</ins>&<ins>reda</ins> *răspunsurile*-*adnotate*(etichetate), la instrucțiunile/regulile/cerintele/task-urile date/incredintate/cerute.<br/>
