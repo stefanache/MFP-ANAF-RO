@@ -29,7 +29,7 @@ si ...
   
 <img src="https://arxiv.org/html/2501.18492v1/extracted/6167045/7_overall.png" width="95%" height="auto"><a href="https://arxiv.org/html/2501.18492v1/extracted/6167045/7_overall.png">GuardReasoner</a></img>
 
- - Figura 2: GuardReasoner(**GR**) constă din trei(**3**) module: 
+ - Figura 2: GuardReasoner(**GR**) constă din trei(**3**) module/componente: 
 
   - (1) Reasoning Data Synthesis(**RDS**),
   - (2) Reasoning-SFT(**R-SFT**) și
@@ -37,12 +37,12 @@ si ...
    
 Hai sa le analizam pe rand(sa despicam firu' in 3 ! :)...
 
-   - (1) În primul rând, GPT-4o este folosit pentru a crea date de raționament (GuardReasonerTrain) introducând promptul utilizatorului, răspunsul modelului țintă și adevărul de la sol.
-   - (2) Apoi, modelul de bază este antrenat de R-SFT pe acest set de date pentru a dezvolta modelul de raționament ℳ<sub>R-SFT</sub>
-   - (3)ℳ<sub>R-SFT</sub> produce k ieșiri pentru a identifica eșantioanele ambigue cu răspunsuri atât corecte, cât și incorecte.
+   - (1) În primul rând(**RDS**), GPT-4o este folosit pentru a crea/genera date de raționament(***GuardReasonerTrain***) introducând promptul utilizatorului, răspunsul modelului țintă și adevărul de la sol.
+   - (2) Apoi, modelul de bază este antrenat de **R-SFT** pe acest set de date pentru a dezvolta modelul de raționament ℳ<sub><b>R-SFT</b></sub>
+   - (3)ℳ<sub><b>R-SFT</b></sub> produce **k**-ieșiri pentru a identifica eșantioanele ambigue cu răspunsuri atât corecte, cât și incorecte.
      <br/>Diferite modele de raționament, care sunt antrenate pe diferite subseturi ale datelor de raționament, sunt utilizate pentru a îmbunătăți diversitatea acestor eșantioane și se aplică o abordare de ansamblu.
-     <br/>În cele din urmă, HS-DPO este efectuat pe aceste eșantioane ambigue, selectând rezultate corecte ca date pozitive și pe cele incorecte ca date negative, cu accent pe eșantioane dure prin ponderarea celor cu mai multe erori.
-     <br/>În acest fel, îl ghidăm pe GuardReasoner să învețe să raționeze.
+     <br/>În cele din urmă, **HS-DPO** este efectuat pe aceste eșantioane ambigue, selectând rezultate corecte ca date pozitive și pe cele incorecte ca date negative, cu accent pe eșantioane dure prin ponderarea celor cu mai multe erori.
+     <br/>În acest fel, îl ghidăm pe ***GuardReasoner*** să învețe să raționeze.
 
 
 Hai să ne *scufundăm*(mai bine zis... hai sa *aprofundăm*.... toate aceste module)!
