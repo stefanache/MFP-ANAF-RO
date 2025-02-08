@@ -11,10 +11,10 @@ Săptămâna aceasta, se evidențiaza lucrări referitoare la ...
  - a)îmbunătățirea siguranței(garantii de siguranta=**GR** ale...) modelului lingvistic(**LLM**),
  - b)scalarea capacităților de *raționament*, în timpul/pe durata testarii(**s1**),
  - c)perfecționarea(**CFT** > ***RL***, unde simbolul "*>*" [inseamna](https://fliphtml5.com/okzbn/guim/DIDACTICA_MATEMATICII_-_Monica_Purcaru.pdf_%C2%B7_versiunea_1_%281%29/) "*mai bun/performant decat...*") *instruirii/antrenarii/formarii*, prin învățarea(*learning*) bazată pe *critici*(**C*FT***),
- - d1)avansarea in **AI** ***multi-modală***(LLM: ***Baichuan-Omni-1.5***) și ...<br/>d2)contrastarea/compararea *reglajului-fin*(***FT***) supervizat(**S*FT***) cu/**vs.** învățarea de consolidare/intarire/recompensa(**RL**); in zona [OOD](https://arxiv.org/abs/2308.10261) avem ***RL*** > *SFT*. 
+ - d1)avansarea in **AI** ***multi-modală***(LLM: ***Baichuan-Omni-1.5***) și ...<br/>d2)contrastarea/compararea *reglajului-fin*(***FT***) supervizat(**S*FT***) cu/**vs.** învățarea de consolidare/intarire/recompensa(**RL**); in zona [OOD](https://arxiv.org/pdf/2308.10261) avem ***RL*** > *SFT*. 
 
 *Concluzie*: 
-<br/>in zona [OOD](https://arxiv.org/abs/2308.10261), per-total, pe scurt putem scrie... **CFT** > ***RL*** > *SFT* pt ca am demonstrat ....<br/>
+<br/>in zona [OOD](https://arxiv.org/pdf/2308.10261), per-total, pe scurt putem scrie... **CFT** > ***RL*** > *SFT* pt ca am demonstrat ....<br/>
 
   - cf. c)  **CFT** > ***RL***
   - cf. d2) ***RL*** > *SFT*
