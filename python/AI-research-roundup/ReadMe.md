@@ -98,7 +98,7 @@ Pentru inceput, in vederea intelegerii, cu usurinta, a acestui articol/săptăm�
     - a avea o anumită personalitate sau pentru...
     - generarea de imagini într-un anumit stil.
 
-<br/>**LoRA** poate fi privita ca o *caracteristica/facilitate/optiune* de/a **FT**[-ului] atribuita unui model sau **LLM**.
+<br/>**LoRA** poate fi privita ca o *capabilitate/caracteristica/facilitate/optiune*, pe zona de competenta, **FT**,  atribuita/a unui model sau **LLM**.
 <br/>Astfel, putem afirma/infirma despre un model/**LLM** ca poseda/prevede sau nu **LORA**...sau cu alte cuvinte, am mai putea spune ... "{cutare model/**LLM**) este **LoRA Enabled**
 
 <hr/>
@@ -117,7 +117,7 @@ si separat/suplimentar, ...
 <br/>Apoi, modelul(**LLM**-ul) înțelege în mod inteligent, când trebuie să efectueze un apel-de-instrument(**Function-calling** of **tool**) și returnează o *ieșire-JSON*(*raspuns*) pe care utilizatorul trebuie să o alimenteze către o altă *funcție* sau *API*.
 <br/>În esență, **Function-calling/Apelarea-funcției** vă permite să efectuați <ins>acțiuni(descrise de *functii**)</ins> cu **LLM**-uri executând *cod* sau efectuând apeluri-*API* suplimentare.
 
-<br/>***Function-calling*** este o *caracteristica/facilitate/optiune* a **LLM**-ului, adica spunem... "{cutare-**LLM**} are sau nu are facilitatea **Function-calling**" sau uneori, mai putem spune, in urmatorul fel .... "{cutare-**LLM**} [nu] este **Function-calling Enabled**"  
+<br/>***Function-calling*** este o *capabilitate/caracteristica/facilitate/optiune* atribuita/a **LLM**-ului, adica spunem... "{cutare-**LLM**} are sau nu are facilitatea **Function-calling**" sau uneori, mai putem spune, in urmatorul fel .... "{cutare-**LLM**} [nu] este **Function-calling Enabled**"  
 
 <hr/>
 
