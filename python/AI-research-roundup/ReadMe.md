@@ -10,8 +10,14 @@
 Săptămâna aceasta, se evidențiaza lucrări referitoare la ...
  - a)îmbunătățirea siguranței(garantii de siguranta=**GR** ale...) modelului lingvistic(**LLM**),
  - b)scalarea capacităților de *raționament*, în timpul/pe durata testarii(**s1**),
- - c)perfecționarea(**CFT** > ***RL*** > *SFT*, unde simbolul "*>*" inseamna "*mai bun/performant decat...*") *instruirii/antrenarii/formarii*, prin învățarea(*learning*) bazată pe *critici*(**C*FT***),
- - d1)avansarea in **AI** ***multi-modală***(LLM: ***Baichuan-Omni-1.5***) și ...<br/>d2)contrastarea/compararea *reglajului-fin*(***FT***) supervizat(**S*FT***) cu/**vs.** învățarea de consolidare/intarire/recompensa(**RL**). 
+ - c)perfecționarea(**CFT** > ***RL***, unde simbolul "*>*" [inseamna](https://fliphtml5.com/okzbn/guim/DIDACTICA_MATEMATICII_-_Monica_Purcaru.pdf_%C2%B7_versiunea_1_%281%29/) "*mai bun/performant decat...*") *instruirii/antrenarii/formarii*, prin învățarea(*learning*) bazată pe *critici*(**C*FT***),
+ - d1)avansarea in **AI** ***multi-modală***(LLM: ***Baichuan-Omni-1.5***) și ...<br/>d2)contrastarea/compararea *reglajului-fin*(***FT***) supervizat(**S*FT***) cu/**vs.** învățarea de consolidare/intarire/recompensa(**RL**): ***RL*** > *SFT*. 
+
+*Concluzie*: 
+<br/>per-total, folosind tranzitivitatea,  avem... **CFT** > ***RL*** > *SFT* pt ca am demonstrat ....<br/>
+
+  - cf. c)  **CFT** > ***RL***
+  - cf. d2) ***RL*** > *SFT*
 
 <br>(Multumim [**Linkedin-pulse**](https://www.linkedin.com/pulse/ai-research-roundup-safety-scaling-multimodal-breakthroughs-dynuf) - in calitare de *editor/publicator* si [**GenAIworks**](https://www.linkedin.com/company/genaiworks/?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3Bqdtvwz5hT727bPTetmJkQA%3D%3D) - in calitate de *autor/postator*!!!)
 
