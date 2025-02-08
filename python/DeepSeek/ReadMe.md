@@ -113,7 +113,7 @@ Incep sa apara din ce in ce mai multe evaluari ale/articole despre **DeepSeek**:
         - tabelului
         - diagramelor și
     - [împământarea vizuală/Visual Grounding](https://paperswithcode.com/task/visual-grounding/codeless).
-
+ - [CF - catalog LLM-uri expuse](https://developers.cloudflare.com/workers-ai/models/) & [CF - tutoriale](https://developers.cloudflare.com/workers-ai/tutorials/)
  - [...](https://devpress.csdn.net/user/v_JULY_v)
 
    
