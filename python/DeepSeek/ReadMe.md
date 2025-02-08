@@ -12,7 +12,7 @@ Pentru inceput as vrea sa va reamintesc cate ceva despre [termenul](https://www.
 
 >***Nota***:
 <br/>Tehnica „<ins>distilării</ins>” este folosită de dezvoltatori pentru a profita de un model mai **mare**(**LLM**) și mai **performant** „pentru a [***calibra***](https://dexonline.ro/definitie/calibra/definitii), deci de a reduce/restrange(**mare**->la->***mic***) la, un model mai ***mic***(**LM**), permițându-i acestuia din urma(deci **LM**-ului), să obțină ***performanțe-similare***(cu cele ale primului=**LLM**) la o anumită sarcină(**task**) dată/focusată. 
-<br/>Acest proces poate <ins>reduce</ins> semnificativ atât <ins>costurileins>, cât și <ins>latența</ins>, deoarece modelele mai ***mici***(**LM**-urile) sunt de obicei mai <ins>eficiente</ins>”, potrivit platformei OpenAI.
+<br/>Acest proces poate <ins>reduce</ins> semnificativ atât <ins>costurile</ins>, cât și <ins>latența</ins>, deoarece modelele mai ***mici***(**LM**-urile) sunt de obicei mai <ins>eficiente</ins>”, potrivit platformei OpenAI.
 
 Pana la aparitia [**DeepSeek**](https://en.wikipedia.org/wiki/DeepSeek), existau **2** legi(sau mai bine spus 2 momente) de scalare(ajustare/modificare a lungimii/modelului): **pre**-***training*** și **post**-***training***.
 
