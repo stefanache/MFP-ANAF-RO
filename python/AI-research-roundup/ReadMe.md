@@ -30,11 +30,11 @@ Ideea acestui articol a inceput/venit/pornit cu/inspirat de [la] urmatoarele **2
 
 <img src="https://github.com/user-attachments/assets/ad261a21-29e0-4ecd-ad37-eb8249703cf5" width="95%" height="auto"><a href="https://arxiv.org/html/2501.18492"><br/>LLaMA Guard 3(LG3) si GuardReasoner(GR)</a></img>
 
- - Figura 1: Demonstratii ale **LLaMA Guard 3(LG3)** (partea stângă) și GuardReasoner(**GR**) (partea dreaptă), concentrându-se în principal pe 3 aspecte:
+ - Figura 1(safe=sigurantă vs. harmful=daunător/pagubos): Demonstratii ale **LLaMA Guard 3(LG3)** (partea stângă) și GuardReasoner(**GR**) (partea dreaptă), concentrându-se în principal pe 3 aspecte:
     - (1) performanță,
     - (2) explicabilitate și
     - (3) generalizare.
-   <br/>Eșantionăm acest caz din WildGuardTest (Han și colab.,2024) set de date.
+<br/>Eșantionăm acest caz din WildGuardTest (Han și colab.,2024) set de date.
 
 si ...
   
@@ -48,7 +48,7 @@ si ...
    
 Hai sa le analizam pe rand(sa despicam firu' in 3 ! :)...
 
-   - (1) În primul rând(**RDS**), GPT-4o este folosit pentru a crea/genera date de raționament(***GuardReasonerTrain***) introducând promptul utilizatorului, răspunsul modelului țintă și adevărul de la sol.
+   - (1) În primul rând(**RDS**), GPT-4o este folosit pentru a crea/genera/sintetiza date de raționament(***GuardReasonerTrain***) introducând promptul utilizatorului, răspunsul modelului țintă și adevărul de la sol.
    - (2) Apoi, modelul de bază este antrenat de **R-SFT** pe acest set de date pentru a dezvolta modelul de raționament ℳ<sub><b>R-SFT</b></sub>
    - (3)ℳ<sub><b>R-SFT</b></sub> produce **k**-ieșiri pentru a identifica eșantioanele ambigue cu răspunsuri atât corecte, cât și incorecte.
      <br/>Diferite modele de raționament, care sunt antrenate pe diferite subseturi ale datelor de raționament, sunt utilizate pentru a îmbunătăți diversitatea acestor eșantioane și se aplică o abordare de ansamblu.
