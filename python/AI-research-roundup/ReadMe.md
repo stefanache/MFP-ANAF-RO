@@ -83,7 +83,7 @@ Pentru inceput, in vederea intelegerii, cu usurinta, a acestui articol/săptăm�
    <br/>*Reglarea-fină*([**FT**](https://www.google.com/search?sca_esv=744faba34f407743&rlz=1C1CHBF_enRO1132RO1132&sxsrf=AHTn8zrr0TLZFmUEEwoawJ0AwF5IOI0fkA:1738759617183&q=.avi+fine+tuning+ai+model+llm&udm=2&fbs=ABzOT_BYhiZpMrUAF0c9tORwPGls0vqphpL9nGKy0PrLJqseLh0EQ6IW_YF9DHIKeRA2FImZJj7_nGLmr0IdZilOghZzNgMFk3aJ_aCLgBcYPfMMnTtkxvIFSifbF8fUw2Jv7wsjn4EFAru9uCvKItEWlh6Msc2bc_waqIcpbvO3hgkPwNEnEn1FFfLcV0CGEYhkFgRYo-ax&sa=X&ved=2ahUKEwih1tOqyKyLAxVcVfEDHfgkAi0QtKgLegQIDBAB&biw=1920&bih=911&dpr=1)) se poate face pe <ins>întreaga</ins> *rețea-neuronală*(**NN**), sau doar pe un *<ins>subset-de-straturi</ins>* ale *acesteia*(**NN**), caz în care, *straturile*, care *<ins>nu</ins> sunt reglate-fin*(**FT**), sunt „*înghețate*”(adică, acele *straturi*, [rămân](https://dexonline.ro/definitie/r%C4%83m%C3%AEn/701200) *<ins>ne</ins>modificate*/*<ins>nu</ins> sunt modificate*, în timpul *retro-propagarii*).
    <br/>Un *model*(**LLM**) poate fi, de asemenea, *<ins>mărit</ins>* cu „*adaptoare*”, care constau din/au mult-mai-puțini *parametrii*, decât *modelul-original*(**LLM**) și  care(**LLM**), apoi este reglat-fin(**FT**), într-un mod eficient(*Parameter-Efficient-Fine-Tuning*=**PEFT**), din punct de vedere(d.p.d.v.) al *parametrilor* sai, prin reglarea/ajustarea/acordarea *greutăților-adaptoarelor*(a se vedea si... Implementarea/ajustarea-**PEFT** eficienta prin *Low-Rank Adaptation*=**LoRA**) și/dar lăsând, restul *greutăților-modelului*(**LLM**), *înghețate*.<br/>
 
-<br/>   [***Note***](https://developers.cloudflare.com/workers-ai/):
+[***Note***](https://developers.cloudflare.com/workers-ai/):
 
 <details>
  <summary> - despre...metoda-<b>FT</b>, <b><ins>LoRA</ins></b></summary> 
@@ -120,6 +120,8 @@ si separat/suplimentar, ...
 <hr/>
 
 </details>
+
+<br/>
    
  - [**SFT**](https://huggingface.co/docs/trl/sft_trainer) = Supervised Fine-Tuning = reglare-Fină Supravegheată(Etichetată/Clasificată/Categorisită corespunzator).
    <br/>*Tunajul/Reglajul-fin(**FT**) supravegheat*(**S*FT***) este utilizat, în mod obișnuit, pt **antrenarea** *model*elor de limbaj(**LLM**), in a <ins>imita</ins>|<ins>cauta</ins>&<ins>reda</ins> *răspunsurile*-*adnotate*(etichetate), la instrucțiunile/regulile/cerintele/task-urile date/incredintate/cerute.<br/>
