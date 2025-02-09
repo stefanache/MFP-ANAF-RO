@@ -114,9 +114,9 @@ Incep sa apară/curgă din ce in ce mai multe evaluari ale/articole/tuitoriale d
     - răspunsuri vizuale la întrebări(Visual Question Answering=[**VQA**](https://visualqa.org/)),
     - recunoașterea optică a caracterelor([**OCR**](https://ro.wikipedia.org/wiki/Recunoa%C8%99terea_optic%C4%83_a_caracterelor)),
     - înțelegerea(**U**nderstanding) ...
-        - documentelor
-        - tabelului
-        - diagramelor și
+        - **d**ocumentelor
+        - **t**abelului
+        - **d**iagramelor și
     - [împământarea vizuală/Visual Grounding(**VG**)](https://paperswithcode.com/task/visual-grounding/codeless).
 
       Visual Grounding (**VG**) are scopul de a *localiza cel mai relevant <ins>obiect</ins> sau regiune dintr-o imagine*, pe baza unei interogări(**Q**) în limbaj natural(**NL**).
