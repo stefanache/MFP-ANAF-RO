@@ -118,12 +118,15 @@ Incep sa apară/curgă din ce in ce mai multe evaluari ale/articole/tuitoriale d
         - tabelului
         - diagramelor și
     - [împământarea vizuală/Visual Grounding(**VG**)](https://paperswithcode.com/task/visual-grounding/codeless).
-      <br/>Visual Grounding (**VG**) are scopul de a localiza cel mai relevant obiect sau regiune dintr-o imagine, pe baza unei interogări în limbaj natural(**NL**). 
-      <br/>Interogarea poate fi o frază, o propoziție sau chiar un dialog cu mai multe runde.
+      <br/>Visual Grounding (**VG**) are scopul de a *localiza cel mai relevant <ins>obiect</ins> sau regiune dintr-o imagine*, pe baza unei interogări în limbaj natural(**NL**). 
+      <br/>Interogarea(**Q**) poate fi
+        - o *frază*(deci mai multe propozitii...*,
+        - o *propoziție* sau chiar...
+        - un *dialog* cu mai multe *runde*(fraze).
       <br/>Există trei provocări principale în **VG**:
-        - Care este accentul principal într-o interogare?
-        - Cum să înțelegi o imagine?
-        - Cum se localizează un obiect?
+        - Care este *accentul principal* într-o interogare?
+        - Cum să *înțelegi o imagine*?
+        - Cum se *localizează un obiect*?
  - [CF - catalog LLM-uri expuse](https://developers.cloudflare.com/workers-ai/models/) & [CF - tutoriale](https://developers.cloudflare.com/workers-ai/tutorials/) & [CF - DeepSeek GW](https://developers.cloudflare.com/ai-gateway/providers/deepseek/)
  - [...](https://devpress.csdn.net/user/v_JULY_v)
 
