@@ -123,7 +123,7 @@ Incep sa apară/curgă din ce in ce mai multe evaluari ale/articole/tuitoriale d
 
       Interogarea(**QNL**) poate fi
         - o **f***rază*(deci mai multe *propozitii*...),
-        - o **p***ropoziție* sau chiar...
+        - o **p***ropoziție*(singulara sau a unei/dintr-o fraza) sau chiar...
         - un **d***ialog* cu mai multe *runde*(*fraze*).
 
       Există trei provocări/*obiective* principale în **VG**:
