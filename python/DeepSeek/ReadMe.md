@@ -129,7 +129,7 @@ Incep sa apară/curgă din ce in ce mai multe evaluari ale/articole/tuitoriale d
       Există trei provocări/*obiective* principale în **VG**:
         - Care este *accentul principal* într-o interogare(**QNL**)?
         - Cum să *înțelegi o imagine*(separarea/segmentarea si etichetarea obiectelor?
-        - Cum se *localizează un obiect*?
+        - Cum se *localizează un obiect*(localizarea in lumea-reala reprezentata de imagine)?
 
  - [CF - catalog LLM-uri expuse](https://developers.cloudflare.com/workers-ai/models/) & [CF - tutoriale](https://developers.cloudflare.com/workers-ai/tutorials/) & [CF - DeepSeek GW](https://developers.cloudflare.com/ai-gateway/providers/deepseek/)
  - [...](https://devpress.csdn.net/user/v_JULY_v)
