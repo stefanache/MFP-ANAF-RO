@@ -113,7 +113,7 @@ Incep sa apară/curgă din ce in ce mai multe evaluari ale/articole/tuitoriale d
    <br/>**DeepSeek-VL2** - demonstrează capabilități superioare în diverse sarcini, inclusiv, dar fără a se limita la:
     - răspunsuri vizuale la întrebări(Visual Question Answering=[**VQA**](https://visualqa.org/)),
     - recunoașterea optică a caracterelor([**OCR**](https://ro.wikipedia.org/wiki/Recunoa%C8%99terea_optic%C4%83_a_caracterelor)),
-    - înțelegerea ...
+    - înțelegerea(**U**nderstanding) ...
         - documentelor
         - tabelului
         - diagramelor și
