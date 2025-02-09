@@ -126,7 +126,7 @@ Incep sa apară/curgă din ce in ce mai multe evaluari ale/articole/tuitoriale d
         - o **p***ropoziție*(singulara sau a unei/dintr-o fraza) sau chiar...
         - un **d***ialog* cu mai multe *runde*(*fraze*) / *multi-round **d**ialog*.
 
-      Există trei provocări/*obiective* principale în (scenele)**VG**:
+      Există trei provocări/*obiective* principale în (scenele-imagine)**VG**:
         - Care este *accentul principal* într-o interogare(**QNL**)?
         - Cum să *înțelegi o imagine*(separarea/segmentarea si etichetarea obiectelor)?
         - Cum se *localizează un obiect*(localizarea in/locul din lumea-reala reprezentata in/de imagine - unde se afla obiectul)?
