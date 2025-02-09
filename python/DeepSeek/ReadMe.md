@@ -126,9 +126,9 @@ Incep sa apară/curgă din ce in ce mai multe evaluari ale/articole/tuitoriale d
         - o **p***ropoziție* sau chiar...
         - un **d***ialog* cu mai multe *runde*(*fraze*).
 
-      Există trei provocări principale în **VG**:
-        - Care este *accentul principal* într-o interogare?
-        - Cum să *înțelegi o imagine*?
+      Există trei provocări/*obiective* principale în **VG**:
+        - Care este *accentul principal* într-o interogare(**QNL**)?
+        - Cum să *înțelegi o imagine*(separarea/segmentarea si etichetarea obiectelor?
         - Cum se *localizează un obiect*?
 
  - [CF - catalog LLM-uri expuse](https://developers.cloudflare.com/workers-ai/models/) & [CF - tutoriale](https://developers.cloudflare.com/workers-ai/tutorials/) & [CF - DeepSeek GW](https://developers.cloudflare.com/ai-gateway/providers/deepseek/)
