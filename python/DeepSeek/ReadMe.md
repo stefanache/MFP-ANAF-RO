@@ -118,8 +118,8 @@ Incep sa apară/curgă din ce in ce mai multe evaluari ale/articole/tuitoriale d
         - tabelului
         - diagramelor și
     - [împământarea vizuală/Visual Grounding(**VG**)](https://paperswithcode.com/task/visual-grounding/codeless).
-      <br/>Visual Grounding (**VG**) are scopul de a *localiza cel mai relevant <ins>obiect</ins> sau regiune dintr-o imagine*, pe baza unei interogări în limbaj natural(**NL**). 
-      <br/>Interogarea(**Q**) poate fi
+      <br/>Visual Grounding (**VG**) are scopul de a *localiza cel mai relevant <ins>obiect</ins> sau regiune dintr-o imagine*, pe baza unei interogări(**Q**) în limbaj natural(**NL**). 
+      <br/>Interogarea(**QNL**) poate fi
         - o *frază*(deci mai multe propozitii...*,
         - o *propoziție* sau chiar...
         - un *dialog* cu mai multe *runde*(fraze).
