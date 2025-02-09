@@ -122,9 +122,9 @@ Incep sa apară/curgă din ce in ce mai multe evaluari ale/articole/tuitoriale d
       Visual Grounding (**VG**) are scopul de a *localiza cel mai relevant <ins>obiect</ins> sau regiune dintr-o imagine*, pe baza unei interogări(**Q**) în limbaj natural(**NL**).
 
       Interogarea(**QNL**) poate fi
-        - o *frază*(deci mai multe propozitii...*,
-        - o *propoziție* sau chiar...
-        - un *dialog* cu mai multe *runde*(fraze).
+        - o **f***rază*(deci mai multe *propozitii*...),
+        - o **p***ropoziție* sau chiar...
+        - un **d**ialog* cu mai multe *runde*(*fraze*).
 
       Există trei provocări principale în **VG**:
         - Care este *accentul principal* într-o interogare?
