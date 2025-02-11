@@ -21,28 +21,31 @@ Astăzi, mulți consumatori de API se referă la ***REST*** ca „ ODIHNEȘTE î
 în timp ce, acum zece ani, era o poveste inversă, cu **REST** ca si câștigător pentru a înlocui ***SOAP***. 
 <br/>Problema cu aceste opinii este că acestea aleg o tehnologie în sine, <ins>în loc să ...</ins> ia în considerare modul în care, proprietățile și caracteristicile sale reale, se potrivesc cu situația în cauză(cazul specific de utilizare).
 
-În acest articol, autorul a incercat sa rămână obiectiv și a pus in discutie cele patru stiluri API majore în ordinea aspectului lor.
+În acest articol, autorul a incercat sa rămână obiectiv și a pus in discuție cele patru stiluri API majore în ordinea aspectului lor.
 Vor fi comparate laturile lor puternice și cele slabe și vor fi om evidențiate scenariile în care, fiecare dintre ele/acestea se potrivește cel mai bine.
 
-...restul, va las pe voi sa descoperiti argumentele Pro si Contra...lectura placuta!
+...restul, vă las pe voi, sa descoperiți, argumentele **Pro** si ***Contra***...lectură placută!
 
 ***PS***:
 
- - In subdirectorul [**restapi**](https://github.com/stefanache/MFP-ANAF-RO/tree/main/php_scripts/RPC_vs_SOAP_vsREST_vs_GraphQL/restapi) veti gasi un [exemplu de api](https://dev.to/devabdul/building-a-rest-api-with-php-mysql-using-xampp-3i9p) PhP-REST care consuma date din MySQL.
-<br/>Pentru a avea **PhP*( si eventual ***MySQL***, dar nu neaparat!) am folosit [**XAMPP**](https://www.apachefriends.org/ro/download.html)(instalat cu **xampp-windows-x64-8.2.12-0-VS16-installer**) iar pentru a testa(in calitate de client), ***api-ul REST***, am folosit binecunoscutul [**POSTMAN**](https://www.postman.com/downloads/)(instalat cu **Postman-win64-Setup**).
-<br/>Am ales, pt formatul datelor vehiculate, intre PostMAN si [XAMPP](https://www.apachefriends.org/)/PhP, formatul ***JSON***.
-<br/>De retinut  este si faptul ca, puteti instala, fara a folosi [***XAMPP***](https://www.apachefriends.org/), **PhP**-ul stand-alone/de sine statator, si eventual(daca aveti nevoie), tot asa de sine statator, puteti instala  **MySQL**-server.
-Tot ce am discutat aici poate fi instalat si rulat ***direct*** pe PC/Laptop-ul dvs sau/ori puteti folosi instalarea si rularea pe/in docker(***dockerizata***) daca doriti/pentru a face api-ul *agnostic*(*independent*/sa nu depinda...) de sistemul-de-operare-gazda(adica sa folositi ce SO doriti voi pt acest api).
+ - In subdirectorul [**restapi**](https://github.com/stefanache/MFP-ANAF-RO/tree/main/php_scripts/RPC_vs_SOAP_vsREST_vs_GraphQL/restapi) veți găsi un [exemplu de api](https://dev.to/devabdul/building-a-rest-api-with-php-mysql-using-xampp-3i9p) PhP-REST care consuma date din MySQL.
+<br/>Pentru a avea **PhP*( si eventual ***MySQL***, dar nu neapărat!) am folosit [**XAMPP**](https://www.apachefriends.org/ro/download.html)(instalat cu **xampp-windows-x64-8.2.12-0-VS16-installer**) iar pentru a testa(in calitate de client), ***api-ul REST***, am folosit binecunoscutul [**POSTMAN**](https://www.postman.com/downloads/)(instalat cu **Postman-win64-Setup**).
+<br/>Am ales, pt formatul datelor vehiculate, intre **PostMan** si [**PhP/XAMPP**](https://www.apachefriends.org/), formatul ***JSON***.
+<br/>De reținut  este si faptul ca, puteti instala, fără a folosi [***XAMPP***](https://www.apachefriends.org/), **PhP**-ul stand-alone/de sine statator, si eventual(daca aveti nevoie), tot asa de sine stătător, puteți instala  **MySQL**-*server*.
+Tot ce am discutat aici(in acest articol), poate fi instalat si rulat ***direct*** pe PC/Laptop-ul dvs sau/ori puteți folosi instalarea si rularea pe/in docker(***dockerizata***), dacă doriti/pentru a face api-ul *agnostic*(*independent*/sa nu depindă...) de... sistemul-de-operare-gazda(adică să folositi ce SO doriti voi pt acest api).
 
  - pt un [**GraphQL-server**(PhP-CLI)](https://github.com/mchojrin/GraphQL-PHP) as recomanda, pentru inceput, acest [exemplu](https://adevait.com/php/creating-graphql-server-with-php).
-Pentru vehicularea datelor(incorporate in aplicatie-pentru simplificarea gestionarii acestora de catre aplicatie) se foloseste ***SDL***,un format/limbaj(propriu-GraphQL) de formatare a datelor(similar cu ***JSON***).
-<br/>Un alt exemplu-dockerizat de **GraphQL**, il puteti gasi si intr-unul din [posturile](https://medium.com/swlh/setting-up-graphql-with-php-9baba3f21501), oferite gratie de publicatia online **Medium**. Si [exemplele](https://webonyx.github.io/graphql-php/data-fetching/) pot continua...
+Pentru vehicularea datelor(incorporate in aplicație-pentru simplificarea gestionării acestora de către aplicație) se foloseste ***SDL***,un format/limbaj(propriu-GraphQL) de formatare a datelor(similar cu ***JSON***).
+<br/>Un alt exemplu-dockerizat de **GraphQL**, poate găsit intr-unul din [posturile](https://medium.com/swlh/setting-up-graphql-with-php-9baba3f21501), oferite grație publicației-online **Medium**.
+<br/> Si, astfel, [*exemplele*](https://webonyx.github.io/graphql-php/data-fetching/) pot continua...
 
-- pt protocolul **RPC**( PhP-CLI, in paradigma: server-client) puteti incarca acest [exemplu-PhP](https://github.com/rambler-digital-solutions/php-json-rpc)
+- pt protocolul **RPC**( PhP-CLI, in/de paradigmă: *server(SVR)*-*client(CLI)*) puteți incarca acest [exemplu-PhP](https://github.com/rambler-digital-solutions/php-json-rpc)
 
-- pt protocolul **SOAP** puteti incepe cu aceasta [clasa-client](https://www.php.net/manual/en/class.soapclient.php), impreuna cu perechea sa, [clasa-server](https://www.php.net/manual/en/class.soapserver.php).
-  <br/>Desigur mai sunt si alte exemple-SOAP cum este si acest [gist:CLI+SVR](https://gist.github.com/umidjons/f3de2533c51495a9c557)...
+- pt protocolul **SOAP** puteți incepe cu această [**clasă-client**](https://www.php.net/manual/en/class.soapclient.php), impreună cu perechea sa, [**clasa-server**](https://www.php.net/manual/en/class.soapserver.php).
+  <br/>Desigur mai sunt si multe alte exemple-**SOAP**... cum este si... acest [gist:CLI+SVR](https://gist.github.com/umidjons/f3de2533c51495a9c557)...
 
-***Nota***: de altfel, pt ultimele 2 protocoale(**SOAP** si **RPC**), recomandarea mea r fi sa lecturati, din manualul-PhP  - sectiunea: "[**PhP Web-Services**](https://www.php.net/manual/en/refs.webservice.php)"
+***Notă***: de altfel, pt ultimele 2 protocoale(**SOAP** si **RPC**), recomandarea mea ar fi să lecturați, din manualul-PhP  - sectiunea: "[**PhP Web-Services**](https://www.php.net/manual/en/refs.webservice.php)"
 
-Aici, am ales sa discutam, despre utilizarea protocoalelor din/utilizand **PhP**(Web/CLI), dar aceasta analiza, exact in acelasi mod, se poate extinde/extrapola si pentru alte/celelalte limbaje de programare(Perl, Python, JS/NodeJS, Go, C#/.Net, Rust, LISP,...si lista poate continua!)...s-auzim numa' de bine!
+Aici, am ales sa discutăm, despre utilizarea protocoalelor din/utilizand **PhP**(Web/CLI), dar aceasta analiză, dar exact in acelasi mod, se poate extinde/extrapola si pentru alte/celelalte limbaje de programare(Perl, Python, JS/NodeJS, Go, C#/.Net, Rust, LISP,...si lista poate continua!)...
+
+La final, s-auzim numa' de la... ***exceptional** in **sus**!
