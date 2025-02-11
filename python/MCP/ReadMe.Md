@@ -47,6 +47,7 @@ Articole & Proiecte legate de acest subiect(**LLMCP**):
  - [Dwarves-memo: Introducere în Protocolul de Context Model(MCP)](https://memo.d.foundation/playground/ai/model-context-protocol/)
  - [Claude(asistent-AI), construiește un server-MCP pe/cu Cloudflare CF-Workers](https://blog.cloudflare.com/de-de/model-context-protocol/)
  - [YT-Construirea unui server MCP (Model Context Protocol) - MCP SDK.](https://www.youtube.com/watch?v=kvDNeFmxftI&ab_channel=Tinybird)
+ - [GH - MCP SDK](https://github.com/modelcontextprotocol/python-sdk/blob/main/README.md)
  - [FastMCP](https://github.com/jlowin/fastmcp) - [FastMCP - a Pythonic way to build Model Context Protocol MCP-servers](https://news.ycombinator.com/item?id=42285528)
  - [Model Context Protocol pentru construirea de aplicații LLM pentru întreprinderi fiabile](https://portkey.ai/blog/model-context-protocol-for-llm-appls)
    <img src="https://portkey.ai/blog/content/images/size/w1200/2024/12/whatismcp.png" width="90%" height="auto"><a href="https://portkey.ai/blog/model-context-protocol-for-llm-appls"><br/><b>MCP pt.construirea de aplicatii-LLM</b></a></img>
