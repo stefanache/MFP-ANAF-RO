@@ -44,6 +44,9 @@ Articole & Proiecte legate de acest subiect(**LLMCP**):
  - [glama.ai: MCP-RAG Server](https://glama.ai/mcp/servers/cni0rqrp11)
  - [Anthropic: Introducing the Model Context Protocol(MCP)](https://www.anthropic.com/news/model-context-protocol)
  - [Anthropic: Model Context Protocol(MCP)](https://docs.anthropic.com/en/docs/build-with-claude/mcp)
+ - [Dwarves-memo: Introducere în Protocolul de context model](https://memo.d.foundation/playground/ai/model-context-protocol/)
+ - [Model Context Protocol pentru construirea de aplicații LLM pentru întreprinderi fiabile](https://portkey.ai/blog/model-context-protocol-for-llm-appls)
+   <img src="https://portkey.ai/blog/content/images/size/w1200/2024/12/whatismcp.png" width="400px" height="auto"><a href="https://portkey.ai/blog/model-context-protocol-for-llm-appls">MCP pt.construirea de aplicatii-LLM</a></img>
 
 **Note:**
 
