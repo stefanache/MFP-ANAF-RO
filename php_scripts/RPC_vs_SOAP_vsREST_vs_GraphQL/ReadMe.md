@@ -30,7 +30,9 @@ se potrivesc cu situația în cauză(cazul de utilizare).
 
  - In subdirectorul **restapi** veti gasi un [exemplu de api](https://dev.to/devabdul/building-a-rest-api-with-php-mysql-using-xampp-3i9p) PhP-REST care consuma date din MySQL.
 <br/>Pentru a avea **PhP*( si eventual ***MySQL***, dar nu neaparat!) am folosit [**XAMPP**](https://www.apachefriends.org/ro/download.html)(instalat cu **xampp-windows-x64-8.2.12-0-VS16-installer**) iar pentru a testa(in calitate de client), ***api-ul REST***, am folosit binecunoscutul [**POSTMAN**](https://www.postman.com/downloads/)(instalat cu **Postman-win64-Setup**).
-<br/>Am ales, pt formatul datelor vehiculate, intre PostMAN si XAMPP/PhP, formatul ***JSON***.
+<br/>Am ales, pt formatul datelor vehiculate, intre PostMAN si [XAMPP](https://www.apachefriends.org/)/PhP, formatul ***JSON***.
+<br/>De retinut  este si faptul ca, puteti instala, fara a folosi ***XAMPP***, **PhP**-ul stand-alone/de sine statator, si eventual(daca aveti nevoie), tot asa de sine statator, puteti instala  **MySQL**-server.
+Tot ce am discutat aici poate fi instalat si rulat ***direct*** pe PC/Laptop-ul dvs sau/ori puteti folosi instalarea si rularea pe/in docker(***dockerizata***) daca doriti/pentru a face api-ul *agnostic*(*independent*/sa nu depinda...) de sistemul-de-operare-gazda(adica sa folositi ce SO doriti voi pt acest api).
 
  - pt un [**GraphQL-server**(PhP-CLI)](https://github.com/mchojrin/GraphQL-PHP) as recomanda, pentru inceput, acest [exemplu](https://adevait.com/php/creating-graphql-server-with-php).
 Pentru vehicularea datelor(incorporate in aplicatie-pentru simplificarea gestionarii acestora de catre aplicatie) se foloseste ***SDL***,un format/limbaj(propriu-GraphQL) de formatare a datelor(similar cu ***JSON***).
