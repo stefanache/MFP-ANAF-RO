@@ -47,6 +47,6 @@ Pentru vehicularea datelor(incorporate in aplicație-pentru simplificarea gestio
 
 ***Notă***: de altfel, pt ultimele 2 protocoale(**SOAP** si **RPC**), recomandarea mea ar fi să lecturați, din manualul-PhP  - sectiunea: "[**PhP Web-Services**](https://www.php.net/manual/en/refs.webservice.php)"
 
-Aici, am ales sa discutăm, despre utilizarea protocoalelor din/utilizand **PhP**(Web/CLI), dar aceasta analiză, dar exact in acelasi mod, se poate extinde/extrapola si pentru alte/celelalte limbaje de programare(Perl, Python, JS/NodeJS, Go, C++, C#/.Net, Objectiv-C, Java, Kotlin, Ruby, Dart, Rust, LISP, Prolog, ...si lista poate continua!)...
+Aici, am ales sa discutăm, despre utilizarea protocoalelor din/utilizand **PhP**(Web/CLI), dar aceasta analiză, dar exact in acelasi mod, se poate extinde/extrapola si pentru alte/celelalte limbaje de programare(Perl, Python, JS & NodeJS, Go, C++, C#/.Net, Objectiv-C, Java, Kotlin, Ruby, Dart, Rust, LISP, Prolog, ...si lista poate continua!)...
 
 La final, s-auzim numa' de la... ***exceptional** in **sus**!
