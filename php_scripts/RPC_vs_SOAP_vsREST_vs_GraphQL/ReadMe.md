@@ -36,8 +36,8 @@ Tot ce am discutat aici(in acest articol), poate fi instalat si rulat ***direct*
 
  - pt un [**GraphQL-server**(PhP-CLI)](https://github.com/mchojrin/GraphQL-PHP) as recomanda, pentru inceput, acest [exemplu](https://adevait.com/php/creating-graphql-server-with-php).
 Pentru vehicularea datelor(incorporate in aplicație-pentru simplificarea gestionării acestora de către aplicație) se foloseste ***SDL***,un format/limbaj(propriu-[GraphQL](https://github.com/jmaxwilson/php-graphql-server)) de formatare a datelor(similar cu ***JSON***).
-<br/>Un alt exemplu-dockerizat de **GraphQL**, poate găsit intr-unul din [posturile](https://medium.com/swlh/setting-up-graphql-with-php-9baba3f21501), oferite grație publicației-online **Medium**.
-<br/> Si, astfel, [*exemplele*](https://webonyx.github.io/graphql-php/data-fetching/) pot continua...
+<br/>Un alt exemplu-dockerizat de [**GraphQL**](https://www.couchbase.com/blog/create-graphql-api-php-nosql/), poate găsit intr-unul din [posturile](https://medium.com/swlh/setting-up-graphql-with-php-9baba3f21501), oferite grație publicației-online **Medium**.
+<br/> Si, astfel, [*exemplele*](https://webonyx.github.io/graphql-php/data-fetching/) [**GraphQL**](https://compatt.medium.com/spatial-data-api-with-graphql-php-and-mysql-a48e8b89d4e1)pot continua...
 
 - pt protocolul **RPC**( PhP-CLI, in/de paradigmă: *server(SVR)*-*client(CLI)*) puteți incarca acest [exemplu-PhP](https://github.com/rambler-digital-solutions/php-json-rpc)
 
