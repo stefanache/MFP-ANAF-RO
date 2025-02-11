@@ -1,6 +1,6 @@
 
 Va propun spre lectura acest [articol](https://www.altexsoft.com/blog/soap-vs-rest-vs-graphql-vs-rpc/), unde veti intalni o comparatie intre toate aceste protocoale:
- - RPC
+ - [RPC](https://pecl.php.net/package/xmlrpc)
  - [SOAP](https://www.geeksforgeeks.org/how-to-install-php-soap-extension/)
  - [REST](https://www.geeksforgeeks.org/building-a-rest-api-with-php-and-mysql/)
  - [GraphQL](https://github.com/ricardoalcocer/php_graphql)
