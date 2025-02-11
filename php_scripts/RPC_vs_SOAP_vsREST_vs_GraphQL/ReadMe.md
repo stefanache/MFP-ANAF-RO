@@ -10,7 +10,8 @@ Două aplicații separate au nevoie de un intermediar pentru a vorbi între ele.
 pentru a permite unui sistem să acceseze informațiile sau funcționalitățile altuia.
 
 Pentru a integra aplicațiile rapid și la scară, API-urile sunt realizate folosind protocoale și/sau specificații 
-pentru a defini semantica și sintaxa mesajelor transmise prin cablu. Aceste specificații alcătuiesc arhitectura API.
+pentru a defini semantica și sintaxa mesajelor transmise prin cablu. 
+<br/>Aceste specificații alcătuiesc arhitectura API.
 
 De-a lungul timpului, au fost lansate diferite stiluri arhitecturale API. 
 <br/>Fiecare dintre ele are propriile modele de standardizare a schimbului de date. O atracție de alegeri ridică dezbateri nesfârșite cu privire la stilul arhitectural care este cel mai bun.
