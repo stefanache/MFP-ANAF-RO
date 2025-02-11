@@ -41,7 +41,7 @@ Articole & Proiecte legate de acest subiect(**LLMCP**):
  - [spring-ai: **MCP**](https://docs.spring.io/spring-ai/reference/api/model-context-protocol.html)
  - [Medium-jayapriyakrishnan483: Protocolul de context al modelului Anthropic: deblocați întregul potențial al AI cu MCP și Ollama](https://jayapriyakrishnan483.medium.com/anthropics-model-context-protocol-unlock-your-ai-s-full-potential-with-mcp-and-ollama-07ade092ae72)
  - [mcp.so: RAG Documentation MCP Server](https://mcp.so/server/mcp-ragdocs)
- - [glama.ai: MCP-RAG Server](https://glama.ai/mcp/servers/cni0rqrp11)
+ - [glama.ai: MCP-RAG Server](https://glama.ai/mcp/servers/cni0rqrp11) - a se vedea si [Open-WebUI](https://github.com/open-webui/open-webui)
  - [Anthropic: Introducing the Model Context Protocol(MCP)](https://www.anthropic.com/news/model-context-protocol)
  - [Anthropic: Model Context Protocol(MCP)](https://docs.anthropic.com/en/docs/build-with-claude/mcp)
  - [Dwarves-memo: Introducere în Protocolul de Context Model(MCP)](https://memo.d.foundation/playground/ai/model-context-protocol/)
