@@ -1,5 +1,5 @@
 
-In acest [articol](https://www.altexsoft.com/blog/soap-vs-rest-vs-graphql-vs-rpc/) veti putea compara toate aceste protocoale:
+Va propun spre lectura acest [articol](https://www.altexsoft.com/blog/soap-vs-rest-vs-graphql-vs-rpc/), unde veti intalni o comparatie intre toate aceste protocoale:
  - RPC
  - SOAP
  - REST
