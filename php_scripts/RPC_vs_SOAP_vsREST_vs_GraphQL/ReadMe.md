@@ -5,26 +5,26 @@ Va propun spre lectura acest [articol](https://www.altexsoft.com/blog/soap-vs-re
  - REST
  - GraphQL
 
-Două aplicații separate au nevoie de un intermediar pentru a vorbi între ele. 
+Două aplicații(fiecare cu API-ul său propriu) separate au nevoie de un intermediar pentru a vorbi/discuta/comunica între ele. 
 <br/>Deci, dezvoltatorii construiesc adesea punți(bridges) - [Interfețe de programare a aplicațiilor](https://www.altexsoft.com/blog/engineering/what-is-api-definition-types-specifications-documentation/) - 
 pentru a permite unui sistem să acceseze informațiile sau funcționalitățile altuia.
 
 Pentru a integra aplicațiile rapid și la scară, API-urile sunt realizate folosind protocoale și/sau specificații 
-pentru a defini semantica și sintaxa mesajelor transmise prin cablu. 
-<br/>Aceste specificații alcătuiesc arhitectura API.
+pentru a defini semantica și sintaxa mesajelor(transmise prin cablu). 
+<br/>Aceste specificații alcătuiesc arhitectura-API.
 
-De-a lungul timpului, au fost lansate diferite stiluri arhitecturale API. 
+De-a lungul timpului, au fost lansate diferite stiluri arhitecturale-API. 
 <br/>Fiecare dintre ele are propriile modele de standardizare a schimbului de date. 
 <br/>O atracție de alegeri ridică dezbateri nesfârșite cu privire la stilul arhitectural care este cel mai bun.
 
-Astăzi, mulți consumatori de API se referă la REST ca „ ODIHNEȘTE în pace ” și încurajează GraphQL, 
-în timp ce acum zece ani era o poveste inversă, cu REST ca câștigător pentru a înlocui SOAP. 
-<br/>Problema cu aceste opinii este că ele aleg o tehnologie în sine, în loc să ia în considerare modul în care proprietățile și caracteristicile sale reale
-se potrivesc cu situația în cauză(cazul de utilizare).
+Astăzi, mulți consumatori de API se referă la ***REST*** ca „ ODIHNEȘTE în pace ” și încurajează **GraphQL**, 
+în timp ce, acum zece ani, era o poveste inversă, cu **REST** ca si câștigător pentru a înlocui ***SOAP***. 
+<br/>Problema cu aceste opinii este că acestea aleg o tehnologie în sine, <ins>în loc să ...</ins> ia în considerare modul în care, proprietățile și caracteristicile sale reale, se potrivesc cu situația în cauză(cazul specific de utilizare).
 
-În acest articol, vom incerca sa rămânem obiectivi și vom discuta cele patru stiluri API majore în ordinea aspectului lor, vom compara laturile lor puternice și cele slabe și vom evidenția scenariile în care fiecare dintre ele se potrivește cel mai bine.
+În acest articol, autorul a incercat sa rămână obiectiv și a pus in discutie cele patru stiluri API majore în ordinea aspectului lor.
+Vor fi comparate laturile lor puternice și cele slabe și vor fi om evidențiate scenariile în care, fiecare dintre ele/acestea se potrivește cel mai bine.
 
-...restul va las pe voi sa descoperiti argumentele pro si contra...lectura placuta!
+...restul, va las pe voi sa descoperiti argumentele Pro si Contra...lectura placuta!
 
 ***PS***:
 
