@@ -40,4 +40,7 @@ Pentru vehicularea datelor(incorporate in aplicatie-pentru simplificarea gestion
 
 - pt protocolul **RPC**( PhP-CLI, in paradigma: server-client) puteti incarca acest [exemplu-PhP](https://github.com/rambler-digital-solutions/php-json-rpc)
 
+- pt protocolul **SOAP** puteti incepe cu aceasta [clasa-client](https://www.php.net/manual/en/class.soapclient.php) impreuna cu perechea [clasa-server](https://www.php.net/manual/en/class.soapserver.php).
+  <br/>Desigur mai sunt si alte exemple cum este si acest [gist:CLI+SVR](https://gist.github.com/umidjons/f3de2533c51495a9c557)
+
 ***Nota***: de altfel, pt ultimele 2 protocoale(**SOAP** si **RPC**), recomandarea mea r fi sa lecturati, din manualul-PhP  - sectiunea: "[**PhP Web-Services**](https://www.php.net/manual/en/refs.webservice.php)"
