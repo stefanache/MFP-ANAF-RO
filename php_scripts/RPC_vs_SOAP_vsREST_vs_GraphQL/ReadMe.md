@@ -20,7 +20,7 @@ De-a lungul timpului, au fost lansate diferite stiluri arhitecturale API.
 Astăzi, mulți consumatori de API se referă la REST ca „ ODIHNEȘTE în pace ” și încurajează GraphQL, 
 în timp ce acum zece ani era o poveste inversă, cu REST ca câștigător pentru a înlocui SOAP. 
 <br/>Problema cu aceste opinii este că ele aleg o tehnologie în sine, în loc să ia în considerare modul în care proprietățile și caracteristicile sale reale
-se potrivesc cu situația în cauză.
+se potrivesc cu situația în cauză(cazul de utilizare).
 
 În acest articol, vom rămâne obiectivi și vom discuta cele patru stiluri API majore în ordinea aspectului lor, vom compara laturile lor puternice și cele slabe și vom evidenția scenariile în care fiecare dintre ele se potrivește cel mai bine.
 
