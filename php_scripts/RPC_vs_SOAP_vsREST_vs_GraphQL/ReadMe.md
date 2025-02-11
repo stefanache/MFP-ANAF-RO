@@ -45,7 +45,7 @@ Pentru vehicularea datelor(incorporate in aplicație-pentru simplificarea gestio
   <br/>[**SOAP**](https://techtechinfo.com/how-to-call-soap-api-in-php-and-postman/) ramane, ca varianta principala, utilizata in cazul vehicularii de date sensibile(facturi,chitante,...date din zona financiar-contabila), datorita protectiei/securitatii oferite de catre acest protocol.
   <br/>Desigur mai sunt si multe alte exemple-[**SOAP**](https://www.php.net/manual/en/book.soap.php)... cum este si... acest [gist:CLI+SVR](https://gist.github.com/umidjons/f3de2533c51495a9c557)...
 
-***Notă***: de altfel, pt ultimele 2 protocoale(**SOAP** si **RPC**), recomandarea mea ar fi să lecturați, din manualul-PhP  - sectiunea: "[**PhP Web-Services**](https://www.php.net/manual/en/refs.webservice.php)"
+***Notă***: de altfel, pt ultimele 2 protocoale(**SOAP** si [**RPC**](https://www.php.net/manual/en/book.xmlrpc.php)), recomandarea mea ar fi să lecturați, din manualul-PhP  - sectiunea: "[**PhP Web-Services**](https://www.php.net/manual/en/refs.webservice.php)"
 
 Aici, am ales sa discutăm, despre utilizarea protocoalelor din/utilizand **PhP**(Web/CLI), dar aceasta analiză, dar exact in acelasi mod, se poate extinde/extrapola si pentru alte/celelalte limbaje de programare(Perl, Python, JS & NodeJS, Go, C++, C#/.Net, Objectiv-C, Java, Kotlin, Ruby, Dart, Rust, LISP, Prolog, ...si lista poate continua!)...
 
