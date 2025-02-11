@@ -2,7 +2,7 @@
 Va propun spre lectura acest [articol](https://www.altexsoft.com/blog/soap-vs-rest-vs-graphql-vs-rpc/), unde veti intalni o comparatie intre toate aceste protocoale:
  - RPC
  - SOAP
- - REST
+ - [REST](https://www.geeksforgeeks.org/building-a-rest-api-with-php-and-mysql/)
  - [GraphQL](https://github.com/ricardoalcocer/php_graphql)
 
 Două aplicații(fiecare cu API-ul său propriu) separate au nevoie de un intermediar pentru a vorbi/discuta/comunica între ele. 
