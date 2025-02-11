@@ -24,4 +24,4 @@ se potrivesc cu situația în cauză(cazul de utilizare).
 
 În acest articol, vom incerca sa rămânem obiectivi și vom discuta cele patru stiluri API majore în ordinea aspectului lor, vom compara laturile lor puternice și cele slabe și vom evidenția scenariile în care fiecare dintre ele se potrivește cel mai bine.
 
-...restul va las pe voi sa descoperiti...lectura placuta!
+...restul va las pe voi sa descoperiti argumentele pro si contra...lectura placuta!
