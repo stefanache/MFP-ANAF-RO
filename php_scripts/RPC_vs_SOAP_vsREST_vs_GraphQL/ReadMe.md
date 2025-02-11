@@ -17,7 +17,7 @@ De-a lungul timpului, au fost lansate diferite stiluri arhitecturale-API.
 <br/>Fiecare dintre ele are propriile modele de standardizare a schimbului de date. 
 <br/>O atracție de alegeri ridică dezbateri nesfârșite cu privire la stilul arhitectural care este cel mai bun.
 
-Astăzi, mulți consumatori de API se referă la ***REST*** ca „ ODIHNEȘTE în pace ” și încurajează **GraphQL**, 
+Astăzi, mulți consumatori de API se referă la ***REST*** ca „ ODIHNEȘTE în pace ” și încurajează [**GraphQL**](https://graphql.org/community/tools-and-libraries/), 
 în timp ce, acum zece ani, era o poveste inversă, cu **REST** ca si câștigător pentru a înlocui ***SOAP***. 
 <br/>Problema cu aceste opinii este că acestea aleg o tehnologie în sine, <ins>în loc să ...</ins> ia în considerare modul în care, proprietățile și caracteristicile sale reale, se potrivesc cu situația în cauză(cazul specific de utilizare).
 
