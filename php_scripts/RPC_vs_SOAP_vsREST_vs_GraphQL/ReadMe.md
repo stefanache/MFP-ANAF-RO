@@ -33,4 +33,4 @@ se potrivesc cu situația în cauză(cazul de utilizare).
 <br/>Am ales, pt formatul datelor vehiculate, intre PostMAN si XAMPP/PhP, formatul ***JSON***.
 
  - pt un [**GraphQL-server**(PhP-CLI)](https://github.com/mchojrin/GraphQL-PHP) as recomanda, pentru inceput, acest [exemplu](https://adevait.com/php/creating-graphql-server-with-php).
-Pentru vehicularea datelor se foloseste ***SDL***,un format/limbaj(propriu-GraphQL) de formatare a datelor(similar cu ***JSON***).
+Pentru vehicularea datelor(incorporate in aplicatie-pentru simplificarea gestionarii acestora de catre aplicatie) se foloseste ***SDL***,un format/limbaj(propriu-GraphQL) de formatare a datelor(similar cu ***JSON***).
