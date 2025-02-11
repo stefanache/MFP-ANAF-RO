@@ -32,5 +32,5 @@ se potrivesc cu situația în cauză(cazul de utilizare).
 <br/>Pentru a avea **PhP*( si eventual ***MySQL***, dar nu neaparat!) am folosit [**XAMPP**](https://www.apachefriends.org/ro/download.html)(instalat cu **xampp-windows-x64-8.2.12-0-VS16-installer**) iar pentru a testa(in calitate de client), ***api-ul REST***, am folosit binecunoscutul [**POSTMAN**](https://www.postman.com/downloads/)(instalat cu **Postman-win64-Setup**).
 <br/>Am ales, pt formatul datelor vehiculate, intre PostMAN si XAMPP/PhP, formatul ***JSON***.
 
--pt un **GraphQL-server**(PhP-CLI) as recomanda, pentru inceput, acest [exemplu](https://adevait.com/php/creating-graphql-server-with-php).
+ - pt un **GraphQL-server**(PhP-CLI) as recomanda, pentru inceput, acest [exemplu](https://adevait.com/php/creating-graphql-server-with-php).
 Pentru vehicularea datelor se foloseste ***SDL***,un format/limbaj(propriu-GraphQL) de formatare a datelor(similar cu ***JSON***).
