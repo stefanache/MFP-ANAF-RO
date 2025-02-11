@@ -39,6 +39,7 @@ Articole & Proiecte legate de acest subiect(**LLMCP**):
  - [LKD-girishbharadwaj-post: **Am explorat protocolul/contractul/convenienta/preintelegerea-tacita MCP..**. ](https://www.linkedin.com/posts/girishbharadwaj_introduction-activity-7272785948742979584-JHXW/)
  - [docker: **The MCP simplifying building AI-apps with  Claude-Desktop(Anthropic) and Docker**](https://www.docker.com/blog/the-model-context-protocol-simplifying-building-ai-apps-with-anthropic-claude-desktop-and-docker/)
  - [spring-ai: **MCP**](https://docs.spring.io/spring-ai/reference/api/model-context-protocol.html)
+ - [Protocolul de context al modelului Anthropic: deblocați întregul potențial al AI cu MCP și Ollama](https://jayapriyakrishnan483.medium.com/anthropics-model-context-protocol-unlock-your-ai-s-full-potential-with-mcp-and-ollama-07ade092ae72)
 
 
 **Note:**
