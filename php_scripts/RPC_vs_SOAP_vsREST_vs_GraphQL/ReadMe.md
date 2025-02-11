@@ -18,7 +18,7 @@ De-a lungul timpului, au fost lansate diferite stiluri arhitecturale-API.
 <br/>O atracție de alegeri ridică dezbateri nesfârșite cu privire la stilul arhitectural care este cel mai bun.
 
 Astăzi, mulți consumatori de API se referă la [***REST***](https://medium.com/@dharshithasrimal/php-rest-api-7441197312d7) ca „ ODIHNEASCA-SE în Pace ” și încurajează [**GraphQL**](https://graphql.org/community/tools-and-libraries/), 
-în timp ce, acum zece ani, era o poveste inversă, cu **REST** ca si câștigător pentru a înlocui ***SOAP***. 
+în timp ce, acum zece ani, era o poveste inversă, cu [**REST**](https://developer.okta.com/blog/2019/03/08/simple-rest-api-php) ca si câștigător pentru a înlocui ***SOAP***. 
 <br/>Problema cu aceste opinii este că acestea aleg o tehnologie în sine, <ins>în loc să ...</ins> ia în considerare modul în care, proprietățile și caracteristicile sale reale, se potrivesc cu situația în cauză(cazul specific de utilizare).
 
 În acest articol, autorul a incercat sa rămână obiectiv și a pus in discuție cele patru stiluri API majore în ordinea aspectului lor.
