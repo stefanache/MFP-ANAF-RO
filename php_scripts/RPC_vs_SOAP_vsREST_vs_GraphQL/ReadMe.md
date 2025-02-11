@@ -43,7 +43,6 @@ Pentru vehicularea datelor(incorporate in aplicatie-pentru simplificarea gestion
 - pt protocolul **SOAP** puteti incepe cu aceasta [clasa-client](https://www.php.net/manual/en/class.soapclient.php), impreuna cu perechea sa, [clasa-server](https://www.php.net/manual/en/class.soapserver.php).
   <br/>Desigur mai sunt si alte exemple-SOAP cum este si acest [gist:CLI+SVR](https://gist.github.com/umidjons/f3de2533c51495a9c557)...
 
-***Nota***: de altfel, pt ultimele 2 protocoale(**SOAP** si **RPC**), recomandarea mea r fi sa lecturati, din manualul-PhP  - sectiunea: "[**PhP Web-Services**]
-(https://www.php.net/manual/en/refs.webservice.php)"
+***Nota***: de altfel, pt ultimele 2 protocoale(**SOAP** si **RPC**), recomandarea mea r fi sa lecturati, din manualul-PhP  - sectiunea: "[**PhP Web-Services**](https://www.php.net/manual/en/refs.webservice.php)"
 
 Aici am discutat despre utilizarea protocoalelor din PhP(Web/CLI) dar problema se poate analiza, exact in acelasi mod, si pentru alte limbaje de programare(Perl, Python, JS/NodeJS, Go, C#/.Net, Rust, LISP,...si lista poate continua!)
