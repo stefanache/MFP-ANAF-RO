@@ -22,6 +22,6 @@ Astăzi, mulți consumatori de API se referă la REST ca „ ODIHNEȘTE în pace
 <br/>Problema cu aceste opinii este că ele aleg o tehnologie în sine, în loc să ia în considerare modul în care proprietățile și caracteristicile sale reale
 se potrivesc cu situația în cauză(cazul de utilizare).
 
-În acest articol, vom rămâne obiectivi și vom discuta cele patru stiluri API majore în ordinea aspectului lor, vom compara laturile lor puternice și cele slabe și vom evidenția scenariile în care fiecare dintre ele se potrivește cel mai bine.
+În acest articol, vom incerca sa rămânem obiectivi și vom discuta cele patru stiluri API majore în ordinea aspectului lor, vom compara laturile lor puternice și cele slabe și vom evidenția scenariile în care fiecare dintre ele se potrivește cel mai bine.
 
 ...restul va las pe voi sa descoperiti...lectura placuta!
