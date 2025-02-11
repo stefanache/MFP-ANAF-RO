@@ -10,7 +10,7 @@ Două aplicații(fiecare cu API-ul său propriu) separate au nevoie de un interm
 pentru a permite unui sistem să acceseze informațiile sau funcționalitățile altuia.
 
 Pentru a integra aplicațiile rapid și la scară, API-urile sunt realizate folosind protocoale și/sau specificații 
-pentru a defini semantica și sintaxa mesajelor(transmise prin cablu). 
+pentru a defini semantica și sintaxa mesajelor(transmise prin/pe cablu). 
 <br/>Aceste specificații alcătuiesc arhitectura-API.
 
 De-a lungul timpului, au fost lansate diferite stiluri arhitecturale-API. 
