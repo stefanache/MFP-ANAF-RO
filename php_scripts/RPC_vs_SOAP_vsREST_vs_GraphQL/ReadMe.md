@@ -27,4 +27,5 @@ se potrivesc cu situația în cauză(cazul de utilizare).
 ...restul va las pe voi sa descoperiti argumentele pro si contra...lectura placuta!
 
 ***PS***:In subdirectorul **restapi** veti gasi un [exemplu de api](https://dev.to/devabdul/building-a-rest-api-with-php-mysql-using-xampp-3i9p) PhP-REST care consuma date din MySQL.
-<br/>Pentru a avea PhP si MySQL am folosit [XAMPP](https://www.apachefriends.org/ro/download.html)(**xampp-windows-x64-8.2.12-0-VS16-installer**) iar pentru a testa api-ul REST am folosit binecunoscutul [POSTMAN](https://www.postman.com/downloads/)(**Postman-win64-Setup**)
+<br/>Pentru a avea PhP si MySQL am folosit [XAMPP](https://www.apachefriends.org/ro/download.html)(**xampp-windows-x64-8.2.12-0-VS16-installer**) iar pentru a testa api-ul REST am folosit binecunoscutul [POSTMAN](https://www.postman.com/downloads/)(**Postman-win64-Setup**).
+<br/>Am ales pt formatul datelor vehiculate intre PostMAN si XAMPP/PhP, formatul JSON.
