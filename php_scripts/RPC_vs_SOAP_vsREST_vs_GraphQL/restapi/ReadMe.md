@@ -1,5 +1,5 @@
 
-Acesta este un simplu [exemplu/caz de utilizare](https://dev.to/devabdul/building-a-rest-api-with-php-mysql-using-xampp-3i9p) a protocolului **REST**.
+Acesta este un simplu [exemplu/caz de utilizare](https://dev.to/devabdul/building-a-rest-api-with-php-mysql-using-xampp-3i9p) a protocolului **REST** over/peste ***HTTP***.
 
 Exemplul foloseste **PhP** si se alimenteaza cu date-persistente utilizand/din **MySQL**, ambele oferite de ***XAMPP***.
 
