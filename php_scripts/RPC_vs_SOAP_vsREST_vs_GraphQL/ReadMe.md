@@ -25,3 +25,6 @@ se potrivesc cu situația în cauză(cazul de utilizare).
 În acest articol, vom incerca sa rămânem obiectivi și vom discuta cele patru stiluri API majore în ordinea aspectului lor, vom compara laturile lor puternice și cele slabe și vom evidenția scenariile în care fiecare dintre ele se potrivește cel mai bine.
 
 ...restul va las pe voi sa descoperiti argumentele pro si contra...lectura placuta!
+
+***PS***:In subdirectorul **restapi** veti gasi un [exemplu de api](https://dev.to/devabdul/building-a-rest-api-with-php-mysql-using-xampp-3i9p) PhP-REST care consuma date din MySQL.
+<br/>Pentru a avea PhP si MySQL am folosit [XAMPP](https://www.apachefriends.org/ro/download.html)(**xampp-windows-x64-8.2.12-0-VS16-installer**) iar pentru a testa api-ul REST am folosit binecunoscutul [POSTMAN](https://www.postman.com/downloads/(**Postman-win64-Setup**)
