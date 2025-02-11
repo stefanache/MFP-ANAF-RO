@@ -12,4 +12,4 @@ Utilizarea [**MySQL**](https://www.cloudways.com/blog/connect-mysql-with-php/) e
  - sau, de ce nu, dintr-o *alt tip de baza de date* (sa zicem procurate via *ODBC*)
  - ...
 
-Mai multe puteti afla din/in *directorul principal al acestui post*( a se vedea sectiunea post-scriptum/[***PS***](https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/RPC_vs_SOAP_vsREST_vs_GraphQL/ReadMe.md)!).
+Mai multe puteti afla din/in *directorul principal al acestui post*( a se vedea sectiunea post-scriptum/[***PS***](https://github.com/stefanache/MFP-ANAF-RO/blob/main/php_scripts/RPC_vs_SOAP_vsREST_vs_GraphQL/ReadMe.md)...*primul alineat/subiect discutat*!).
