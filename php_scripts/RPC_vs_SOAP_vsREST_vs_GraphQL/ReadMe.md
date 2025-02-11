@@ -3,7 +3,7 @@ Va propun spre lectura acest [articol](https://www.altexsoft.com/blog/soap-vs-re
  - RPC
  - SOAP
  - REST
- - GraphQL
+ - [GraphQL](https://github.com/ricardoalcocer/php_graphql)
 
 Două aplicații(fiecare cu API-ul său propriu) separate au nevoie de un intermediar pentru a vorbi/discuta/comunica între ele. 
 <br/>Deci, dezvoltatorii construiesc adesea punți(bridges) - [Interfețe de programare a aplicațiilor](https://www.altexsoft.com/blog/engineering/what-is-api-definition-types-specifications-documentation/) - 
