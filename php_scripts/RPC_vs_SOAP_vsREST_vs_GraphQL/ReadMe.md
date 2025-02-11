@@ -1,5 +1,9 @@
 
-In acest [articol](https://www.altexsoft.com/blog/soap-vs-rest-vs-graphql-vs-rpc/) veti putea compara toate aceste protocoale.
+In acest [articol](https://www.altexsoft.com/blog/soap-vs-rest-vs-graphql-vs-rpc/) veti putea compara toate aceste protocoale:
+ - RPC
+ - SOAP
+ - REST
+ - GraphQL
 
 Două aplicații separate au nevoie de un intermediar pentru a vorbi între ele. 
 <br/>Deci, dezvoltatorii construiesc adesea punți - [Interfețe de programare a aplicațiilor](https://www.altexsoft.com/blog/engineering/what-is-api-definition-types-specifications-documentation/) - 
