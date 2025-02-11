@@ -45,4 +45,4 @@ Pentru vehicularea datelor(incorporate in aplicatie-pentru simplificarea gestion
 
 ***Nota***: de altfel, pt ultimele 2 protocoale(**SOAP** si **RPC**), recomandarea mea r fi sa lecturati, din manualul-PhP  - sectiunea: "[**PhP Web-Services**](https://www.php.net/manual/en/refs.webservice.php)"
 
-Aici am discutat despre utilizarea protocoalelor din PhP(Web/CLI) dar problema se poate analiza, exact in acelasi mod, si pentru alte limbaje de programare(Perl, Python, JS/NodeJS, Go, C#/.Net, Rust, LISP,...si lista poate continua!)
+Aici, am ales sa discutam, despre utilizarea protocoalelor din/utilizand **PhP**(Web/CLI), dar aceasta analiza, exact in acelasi mod, se poate extinde/extrapola si pentru alte/celelalte limbaje de programare(Perl, Python, JS/NodeJS, Go, C#/.Net, Rust, LISP,...si lista poate continua!)...s-auzim numa' de bine!
