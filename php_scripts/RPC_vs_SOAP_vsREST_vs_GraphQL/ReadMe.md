@@ -35,7 +35,7 @@ Vor fi comparate laturile lor puternice și cele slabe și vor fi om evidențiat
 Tot ce am discutat aici(in acest articol), poate fi instalat si rulat ***direct*** pe PC/Laptop-ul dvs sau/ori puteți folosi instalarea si rularea pe/in docker(***dockerizata***), dacă doriti/pentru a face api-ul *agnostic*(*independent*/sa nu depindă...) de... sistemul-de-operare-gazda(adică să folositi ce SO doriti voi pt acest api).
 
  - pt un [**GraphQL-server**(PhP-CLI)](https://github.com/mchojrin/GraphQL-PHP) as recomanda, pentru inceput, acest [exemplu](https://adevait.com/php/creating-graphql-server-with-php).
-Pentru vehicularea datelor(incorporate in aplicație-pentru simplificarea gestionării acestora de către aplicație) se foloseste ***SDL***,un format/limbaj(propriu-GraphQL) de formatare a datelor(similar cu ***JSON***).
+Pentru vehicularea datelor(incorporate in aplicație-pentru simplificarea gestionării acestora de către aplicație) se foloseste ***SDL***,un format/limbaj(propriu-[GraphQL](https://github.com/jmaxwilson/php-graphql-server)) de formatare a datelor(similar cu ***JSON***).
 <br/>Un alt exemplu-dockerizat de **GraphQL**, poate găsit intr-unul din [posturile](https://medium.com/swlh/setting-up-graphql-with-php-9baba3f21501), oferite grație publicației-online **Medium**.
 <br/> Si, astfel, [*exemplele*](https://webonyx.github.io/graphql-php/data-fetching/) pot continua...
 
