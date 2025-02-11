@@ -14,7 +14,8 @@ pentru a defini semantica și sintaxa mesajelor transmise prin cablu.
 <br/>Aceste specificații alcătuiesc arhitectura API.
 
 De-a lungul timpului, au fost lansate diferite stiluri arhitecturale API. 
-<br/>Fiecare dintre ele are propriile modele de standardizare a schimbului de date. O atracție de alegeri ridică dezbateri nesfârșite cu privire la stilul arhitectural care este cel mai bun.
+<br/>Fiecare dintre ele are propriile modele de standardizare a schimbului de date. 
+<br/>O atracție de alegeri ridică dezbateri nesfârșite cu privire la stilul arhitectural care este cel mai bun.
 
 Astăzi, mulți consumatori de API se referă la REST ca „ ODIHNEȘTE în pace ” și încurajează GraphQL, 
 în timp ce acum zece ani era o poveste inversă, cu REST ca câștigător pentru a înlocui SOAP. 
