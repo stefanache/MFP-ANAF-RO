@@ -41,6 +41,8 @@ Articole & Proiecte legate de acest subiect(**LLMCP**):
  - [spring-ai: **MCP**](https://docs.spring.io/spring-ai/reference/api/model-context-protocol.html)
  - [Protocolul de context al modelului Anthropic: deblocați întregul potențial al AI cu MCP și Ollama](https://jayapriyakrishnan483.medium.com/anthropics-model-context-protocol-unlock-your-ai-s-full-potential-with-mcp-and-ollama-07ade092ae72)
  - [RAG Documentation MCP Server](https://mcp.so/server/mcp-ragdocs)
+ - [MCP-RAG Server](https://glama.ai/mcp/servers/cni0rqrp11)
+
 
 **Note:**
 
