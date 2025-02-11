@@ -46,7 +46,7 @@ Articole & Proiecte legate de acest subiect(**LLMCP**):
  - [Anthropic: Model Context Protocol(MCP)](https://docs.anthropic.com/en/docs/build-with-claude/mcp)
  - [Dwarves-memo: Introducere în Protocolul de context model](https://memo.d.foundation/playground/ai/model-context-protocol/)
  - [Model Context Protocol pentru construirea de aplicații LLM pentru întreprinderi fiabile](https://portkey.ai/blog/model-context-protocol-for-llm-appls)
-   <img src="https://portkey.ai/blog/content/images/size/w1200/2024/12/whatismcp.png" width="90%" height="auto"><a href="https://portkey.ai/blog/model-context-protocol-for-llm-appls">MCP pt.construirea de aplicatii-LLM</a></img>
+   <img src="https://portkey.ai/blog/content/images/size/w1200/2024/12/whatismcp.png" width="90%" height="auto"><a href="https://portkey.ai/blog/model-context-protocol-for-llm-appls"><br/><b>MCP pt.construirea de aplicatii-LLM</b></a></img>
 
 **Note:**
 
