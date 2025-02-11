@@ -58,6 +58,6 @@ Articole & Proiecte legate de acest subiect(**LLMCP**):
 
 **Note:**
 
- - **uv**/**uvx** este un Package Manager(PM cum este si pip/pipx,pdm...dar si altele, cum sunt [npm/npx](https://radixweb.com/blog/installing-npm-and-nodejs-on-windows-and-mac),brew,gradle,sdkman,[smithery](https://smithery.ai/protocol/@browserbasehq)...; Un PM este posibil sa aiba nevoie/sa lucreze impreuna/in tandem cu un... Downloader, cum ar fi powershell,git,curl,wget,...)
+ - **uv**/**uvx** este un Package Manager(PM cum este si pip/pipx,pdm...dar si altele, cum sunt [npm/npx](https://radixweb.com/blog/installing-npm-and-nodejs-on-windows-and-mac)-[smithery](https://smithery.ai/protocol/@browserbasehq), brew, gradle, sdkman,...; Un PM este posibil sa aiba nevoie/sa lucreze impreuna/in tandem cu un... Downloader, cum ar fi powershell,git,curl,wget,...)
 
  - A good idea to integrate(communicate with...) any service(like [**Twillio/Whatsapp**](https://www.twilio.com/docs/whatsapp/tutorial))/server or any local or remote data-source data with/via any our **LLM** and over **MCP**!
