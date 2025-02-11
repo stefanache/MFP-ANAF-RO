@@ -39,3 +39,5 @@ Pentru vehicularea datelor(incorporate in aplicatie-pentru simplificarea gestion
 <br/>Un alt exemplu-dockerizat de **GraphQL**, il puteti gasi si intr-unul din [posturile](https://medium.com/swlh/setting-up-graphql-with-php-9baba3f21501), oferite gratie de publicatia online **Medium**. Si [exemplele](https://webonyx.github.io/graphql-php/data-fetching/) pot continua...
 
 - pt protocolul RPC( PhP-CLI, in paradigma: server-client) puteti incarca acest [exemplu-PhP](https://github.com/rambler-digital-solutions/php-json-rpc)
+
+De altfel, pt ultimele 2 protocoale(**SOAP** si **RPC**), recomandarea mea r fi sa lecturati, din manualul PhP  - sectiunea "[**PhP Web-Services**](https://www.php.net/manual/en/refs.webservice.php)"
