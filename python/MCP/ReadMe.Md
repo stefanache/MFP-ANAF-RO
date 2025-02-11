@@ -50,6 +50,7 @@ Articole & Proiecte legate de acest subiect(**LLMCP**):
  - [GH - MCP SDK](https://github.com/modelcontextprotocol/python-sdk/blob/main/README.md)
  - [FastMCP](https://github.com/jlowin/fastmcp) - [FastMCP - a Pythonic way to build Model Context Protocol MCP-servers](https://news.ycombinator.com/item?id=42285528)
  - [RayGun-blog: Ingineria sistemelor AI cu Model Context Protocol](https://raygun.com/blog/announcing-mcp/)
+ - [mcp.io: Exemple de servere-MCP](https://modelcontextprotocol.io/examples)
  - [Model Context Protocol pentru construirea de aplicații LLM pentru întreprinderi fiabile](https://portkey.ai/blog/model-context-protocol-for-llm-appls)
    <img src="https://portkey.ai/blog/content/images/size/w1200/2024/12/whatismcp.png" width="90%" height="auto"><a href="https://portkey.ai/blog/model-context-protocol-for-llm-appls"><br/><b>MCP pt.construirea de aplicatii-LLM</b></a></img>
 
