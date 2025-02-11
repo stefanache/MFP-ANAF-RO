@@ -6,7 +6,7 @@ In acest [articol](https://www.altexsoft.com/blog/soap-vs-rest-vs-graphql-vs-rpc
  - GraphQL
 
 Două aplicații separate au nevoie de un intermediar pentru a vorbi între ele. 
-<br/>Deci, dezvoltatorii construiesc adesea punți(bridge) - [Interfețe de programare a aplicațiilor](https://www.altexsoft.com/blog/engineering/what-is-api-definition-types-specifications-documentation/) - 
+<br/>Deci, dezvoltatorii construiesc adesea punți(bridges) - [Interfețe de programare a aplicațiilor](https://www.altexsoft.com/blog/engineering/what-is-api-definition-types-specifications-documentation/) - 
 pentru a permite unui sistem să acceseze informațiile sau funcționalitățile altuia.
 
 Pentru a integra aplicațiile rapid și la scară, API-urile sunt realizate folosind protocoale și/sau specificații 
