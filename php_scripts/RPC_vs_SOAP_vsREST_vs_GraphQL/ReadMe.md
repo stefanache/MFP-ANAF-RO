@@ -39,7 +39,7 @@ Pentru vehicularea datelor(incorporate in aplicație-pentru simplificarea gestio
 <br/>Un alt exemplu-dockerizat de [**GraphQL**](https://www.couchbase.com/blog/create-graphql-api-php-nosql/), poate găsit intr-unul din [posturile](https://medium.com/swlh/setting-up-graphql-with-php-9baba3f21501), oferite grație publicației-online **Medium**.
 <br/> Si, astfel, [*exemplele*](https://webonyx.github.io/graphql-php/data-fetching/) [**GraphQL**](https://compatt.medium.com/spatial-data-api-with-graphql-php-and-mysql-a48e8b89d4e1)pot continua...
 
-- pt protocolul [**RPC**](https://pecl.php.net/package/xmlrpc)( PhP-CLI, in/de paradigmă: *server(SVR)*-*client(CLI)*) puteți incarca acest [exemplu-PhP](https://github.com/rambler-digital-solutions/php-json-rpc)
+- pt protocolul [**RPC**](https://pecl.php.net/package/xmlrpc)( in/de paradigmă: [*server(SVR-PhP-CLI)*-*client(CLI)*](https://reintech.io/blog/beginners-guide-php-xml-rpc-library)) puteți incarca acest [exemplu-PhP](https://github.com/rambler-digital-solutions/php-json-rpc).
 
 - pt protocolul [**SOAP**](https://www.youtube.com/watch?v=Cl4puOAk6vk&ab_channel=jinujawadm) puteți incepe cu această [**clasă-client**](https://www.php.net/manual/en/class.soapclient.php), impreună cu perechea sa, [**clasa-server**](https://www.php.net/manual/en/class.soapserver.php).
   <br/>[**SOAP**](https://techtechinfo.com/how-to-call-soap-api-in-php-and-postman/) ramane, ca varianta principala, utilizata in cazul vehicularii de date sensibile(facturi,chitante,...date din zona financiar-contabila), datorita protectiei/securitatii oferite de catre acest protocol.
