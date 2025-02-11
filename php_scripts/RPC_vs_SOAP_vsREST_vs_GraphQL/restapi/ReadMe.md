@@ -5,9 +5,9 @@ Exemplul foloseste **PhP** si se alimenteaza cu date-persistente utilizand/din *
 
 Utilizarea [**MySQL**](https://www.cloudways.com/blog/connect-mysql-with-php/) este aici cu totul intamplatoare si <ins>nu este absolut obligatoriu de utilizat</ins>.
 <br/>Spun asta pt ca datele pot fi procurate pe diferite alte cai sau din diferite alte surse de date:
- - direct din cod(datele fiind definite direct in codul PhP/Python...)
- - dintr-un fisier text salvat pe harddisc-ul local
-   <br/>dintr-un fisier excel(csv sa spunem) sau mysqllite
+ - direct din *cod*(datele fiind definite/memorate direct in codul aplicatiei (in acest caz... in codul PhP)
+ - dintr-un *fisier-text* salvat pe harddisc-ul local
+   <br/>dintr-un *fisier-excel*(.csv sa spunem... dar poate fi chiar .xls) sau *sqllite*
  - ...
- - sau de ce nu dintr-o alt tip de baza de date (sa zicem procurate via ODBC)
+ - sau, de ce nu, dintr-o *alt tip de baza de date* (sa zicem procurate via *ODBC*)
  - ...
