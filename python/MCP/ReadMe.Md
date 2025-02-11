@@ -44,8 +44,8 @@ Articole & Proiecte legate de acest subiect(**LLMCP**):
  - [glama.ai: MCP-RAG Server](https://glama.ai/mcp/servers/cni0rqrp11) 
    <br/>Conectarea unei AI-aplicații RAG la [Open-WebUI](https://github.com/open-webui/open-webui) prin intermediul MCP.
  - [MCP inseamna scoaterea din joc a RAG-ului?](https://dev.to/patrick_chan_0922a197d89d/does-model-context-protocol-mcp-spell-the-death-of-rag-2mo9)
- - [GH - **Minima** - un RAG-conversațional la locație(on-prem-local) cu containere configurabile](https://github.com/dmayboroda/minima)
-   <br/>**Minima** - este un container-RAG on-premises(local) cu sursă deschisă, cu capacitatea de a se integra cu ChatGPT și MCP. 
+ - [GH - **Minima** - un RAG-conversațional la locație(on-prem-local) cu containere(dockerizat) configurabile](https://github.com/dmayboroda/minima)
+   <br/>**Minima** - este un container(dockerizat)-RAG on-premises(local) cu sursă deschisă, cu capacitatea de a se integra cu ChatGPT și MCP. 
    <br/>**Minima** - poate fi folosit și ca un RAG complet local.
  - [Anthropic: Introducing the Model Context Protocol(MCP)](https://www.anthropic.com/news/model-context-protocol)
  - [Anthropic: Model Context Protocol(MCP)](https://docs.anthropic.com/en/docs/build-with-claude/mcp)
