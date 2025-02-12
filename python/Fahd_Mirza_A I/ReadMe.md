@@ -545,7 +545,7 @@ Aici voi insira o selectie de proiecte interesante(scurt-comentate, traduse cf. 
    <br/>Acest videoclip instalează <ins>local</ins> **Zonos-v0.1**, care permite generarea de vorbire(***Text-To-Speach(TTS)***) extrem de naturală din solicitările text.
    <br/>Este Apache 2 și multi-lingv(in mai multe limbi literare). 
  - [**Phi4-Noesis** - Deep and Fast *Reasoning Model* - Install *Locally*](https://www.youtube.com/watch?v=-yNviNIyBBs&ab_channel=FahdMirza)
-   <br/>Acest videoclip instalează <ins>local</ins> **Phi4-Noesis**, care este o reglarefină(***FT***) a **Phi-4** cu un raționament rapid și profund.
+   <br/>Acest videoclip instalează <ins>local</ins> **Phi4-Noesis**, care este o reglare-fină(***FT***) a **Phi-4** cu un raționament rapid și profund.
  - [**DeepScaleR 1.5B** - *Fine-Tuned(FT* from *Distilled DeepSeek* with *Long Context* - Install *Locally*](https://www.youtube.com/watch?v=Im3TOjz4UcM&ab_channel=FahdMirza)
    <br/>Acest videoclip este un tutorial pas cu pas pentru a vă arăta cum să instalați și să rulați **DeepScaleR-1.5B-Preview** <ins>local</ins> și să îl testați.
  - [**NanoSage** - ***Deep-Research*** *Assistant* - Install *Locally* with ***Ollama*** and *Run on CPU*](https://www.youtube.com/watch?v=9hhuEbLcT-c&ab_channel=FahdMirza)
