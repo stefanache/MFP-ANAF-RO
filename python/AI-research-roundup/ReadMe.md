@@ -418,4 +418,4 @@ Acum sa vedem pe scurt(in rezumat), cateva ***lucrari*** abordate în / ***abord
 
 Alte *aparitii*:
 
- - [Cum să construiți AI care gândește, prezice și evoluează (February 10, 2025)](https://www.linkedin.com/pulse/ai-roundup-how-build-thinks-predicts-thrives-genai-works-gxq8f/)
+ - [Cum să construiți AI care gândește/rationeaza, prezice și evoluează (February 10, 2025)](https://www.linkedin.com/pulse/ai-roundup-how-build-thinks-predicts-thrives-genai-works-gxq8f/)
