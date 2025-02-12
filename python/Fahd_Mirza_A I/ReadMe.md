@@ -536,7 +536,7 @@ Daca doriti, sa aflati,  care/ce [**marime de LLM**](https://www.youtube.com/wat
 
 <hr/>
 
-Aici voi insira o selectie de proiecte interesante:
+Aici voi insira o selectie de proiecte interesante(scurt-comentate, traduse cf. ***YT***: **Fahd-Mirza**):
 
  - [Install **reAG** *Locally* with **Ollama** - *Reasoning Augmented Generation*](https://www.youtube.com/watch?v=SA-VVOKgyRA&t=312s&ab_channel=FahdMirza)
    <br/>Acest videoclip instalează <ins>local</ins> **ReAG** cu **Ollama**, care oferă o alternativă robustă prin alimentarea documentelor brute direct în modelul de limbă(***LLM***).
