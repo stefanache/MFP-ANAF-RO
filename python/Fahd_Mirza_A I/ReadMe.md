@@ -549,7 +549,7 @@ Aici voi insira o selectie de proiecte interesante:
  - [**DeepScaleR 1.5B** - *Fine-Tuned(FT* from *Distilled DeepSeek* with *Long Context* - Install *Locally*](https://www.youtube.com/watch?v=Im3TOjz4UcM&ab_channel=FahdMirza)
    <br/>Acest videoclip este un tutorial pas cu pas pentru a vă arăta cum să instalați și să rulați **DeepScaleR-1.5B-Preview** <ins>local</ins> și să îl testați.
  - [**NanoSage** - ***Deep-Research*** *Assistant* - Install *Locally* with ***Ollama*** and *Run on CPU*](https://www.youtube.com/watch?v=9hhuEbLcT-c&ab_channel=FahdMirza)
-   <br/>Acest videoclip instalează <ins>local</ins> **NanoSage**, care este un asistent ***Deep-Research*** si care rulează pe <ins>laptop</ins>, folosind modele minuscule(mici).
+   <br/>Acest videoclip instalează <ins>local</ins> **NanoSage**, care este un asistent ***Deep-Research*** si care rulează pe <ins>laptop</ins>, folosind modele minuscule(modele foarte mici: nano-modele).
    
  - ...
 
