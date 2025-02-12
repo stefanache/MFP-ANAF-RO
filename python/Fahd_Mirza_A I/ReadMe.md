@@ -536,7 +536,18 @@ Daca doriti, sa aflati,  care/ce [**marime de LLM**](https://www.youtube.com/wat
 
 <hr/>
 
-...
+Aici voi insira o selectie de proiecte interesante:
+
+ - [Install reAG Locally with Ollama - Reasoning Augmented Generation](https://www.youtube.com/watch?v=SA-VVOKgyRA&t=312s&ab_channel=FahdMirza)
+ - [Zyphra Just Dropped Zonos - Instant TTS and Voice Cloning - Install Locally](https://www.youtube.com/watch?v=ymrAhkg2TTA&ab_channel=FahdMirza)
+ - [Phi4-Noesis - Deep and Fast Reasoning Model - Install Locally](https://www.youtube.com/watch?v=-yNviNIyBBs&ab_channel=FahdMirza)
+ - DeepScaleR 1.5B - Fine-Tuned from Distilled DeepSeek with Long Context - Install Locally[](https://www.youtube.com/watch?v=Im3TOjz4UcM&ab_channel=FahdMirza)
+ - [NanoSage - Deep Research Assistant - Install Locally with Ollama and Run on CPU](https://www.youtube.com/watch?v=9hhuEbLcT-c&ab_channel=FahdMirza)
+   
+ - ...
+
+<hr/>
+
 
  </details>
 
