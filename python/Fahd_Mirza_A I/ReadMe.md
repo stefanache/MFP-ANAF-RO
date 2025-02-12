@@ -536,7 +536,7 @@ Daca doriti, sa aflati,  care/ce [**marime de LLM**](https://www.youtube.com/wat
 
 <hr/>
 
-Aici voi insira o selectie de proiecte interesante(scurt-comentate, traduse cf. ***YT***: **Fahd-Mirza**):
+Aici voi insira o selectie de proiecte interesante(scurt-comentate, traduse cf. ***YT***: [**Fahd-Mirza**](https://www.youtube.com/@fahdmirza)):
 
  - [Install **reAG** *Locally* with **Ollama** - *Reasoning Augmented Generation*](https://www.youtube.com/watch?v=SA-VVOKgyRA&t=312s&ab_channel=FahdMirza)
    <br/>Acest videoclip instalează <ins>local</ins> [**ReAG**](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbHlaS1FnaU53M2EzWDlPajlmbV91blJaajl3Z3xBQ3Jtc0tueXFlSk4wMy1mazN4QWhydmVOTmQ5WjNLSnJzTjNYRkxnOXdRUU5uM0hUWWY0ZmVzMlkzcDdXbUtLX3F0aDdZME05R1dNb2ZOUUx1MVJaX0NUdmJta0gyaVdTZlJWclA3VGJValEybFg0OU1SbUU4NA&q=https%3A%2F%2Fgithub.com%2Fsuperagent-ai%2Freag&v=SA-VVOKgyRA) cu **Ollama**, care oferă o alternativă robustă prin alimentarea documentelor brute direct în modelul de limbă(***LLM***).
