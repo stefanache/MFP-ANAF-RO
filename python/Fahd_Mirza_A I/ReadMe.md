@@ -558,7 +558,9 @@ Aici voi insira o selectie de proiecte interesante(scurt-comentate, traduse cf. 
 <br/>Un raport detaliat, bine organizat, generat folosind generarea-de-recuperare-augmentată(**RAG**), care integrează cele mai valoroase informații.<br/>
 <br/>Am vrut să experimentez noi metode de cercetare, așa că m-am gândit că, practic, atunci când cercetăm un subiect, explorăm aleatoriu idei noi în timp ce căutăm, iar **NanoSage** practic face asta!
 <br/>Își explorează și înregistrează călătoria, unde fiecare pas (*relevant*) este un nod... și apoi vi-l rezumă într-un <ins>raport</ins> frumos!
-<br/>Unde tabelul de conținut(***TOC***) este practic graficul/planul său de căutare. 
+<br/>Unde tabelul de conținut(***TOC***) este practic graficul/planul său de căutare.
+ - [*China* Releases **Kimi** and **K1.5 Loong Thinking** and Eats *OpenAI* and *DeepSeek* for Breakfast](https://www.youtube.com/watch?v=ch3zn_i0Fak&t=52s&ab_channel=FahdMirza)
+ - <br/>Acest videoclip face o trecere în revistă aprofundată a modelelor [**Kimi**](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa21oOFgtc25zNVBpbzRBNzhSZ2lCU0lUS0tld3xBQ3Jtc0tsMVZtSlc1Y2xnUWxiZFlQV2RUYmJnVk5vaEh0UXZpUk9kellrMldIMXlRVkNHVTQ1ektZdEZ5V2Nid3FDSXdGZDNQMURlN044bGQtR01vcEEwYmdibjNiRzZudndxX0c0Q2JNVnVIOGFuVlNvMkxhOA&q=https%3A%2F%2Fkimi.ai%2F&v=ch3zn_i0Fak) și **K1.5 Loong Thinking**.
  - ...
 
 <hr/>
