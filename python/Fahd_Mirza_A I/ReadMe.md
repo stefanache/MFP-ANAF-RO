@@ -538,9 +538,12 @@ Daca doriti, sa aflati,  care/ce [**marime de LLM**](https://www.youtube.com/wat
 
 Aici voi insira o selectie de proiecte interesante:
 
- - [Install reAG Locally with Ollama - Reasoning Augmented Generation](https://www.youtube.com/watch?v=SA-VVOKgyRA&t=312s&ab_channel=FahdMirza)
-   <br/>Acest videoclip instalează local ReAG cu Ollama, care oferă o alternativă robustă prin alimentarea documentelor brute direct în modelul de limbă.
- - [Zyphra Just Dropped Zonos - Instant TTS and Voice Cloning - Install Locally](https://www.youtube.com/watch?v=ymrAhkg2TTA&ab_channel=FahdMirza)
+ - [Install **reAG** Locally with **Ollama** - Reasoning Augmented Generation](https://www.youtube.com/watch?v=SA-VVOKgyRA&t=312s&ab_channel=FahdMirza)
+   <br/>Acest videoclip instalează local **ReAG** cu **Ollama**, care oferă o alternativă robustă prin alimentarea documentelor brute direct în modelul de limbă(***LLM***).
+   <br/>***LLM***-ul utilizat: **DeepSeek-R1:14b**
+ - [Zyphra Just Dropped **Zonos** - Instant ***TTS*** and ***Voice Cloning*** - Install Locally](https://www.youtube.com/watch?v=ymrAhkg2TTA&ab_channel=FahdMirza)
+   <br/>Acest videoclip instalează local **Zonos-v0.1**, care permite generarea de vorbire(***Text-To-Speach(TTS)***) extrem de naturală din solicitările text.
+   <br/>Este Apache 2 și multi-lingv. 
  - [Phi4-Noesis - Deep and Fast Reasoning Model - Install Locally](https://www.youtube.com/watch?v=-yNviNIyBBs&ab_channel=FahdMirza)
  - [DeepScaleR 1.5B - Fine-Tuned from Distilled DeepSeek with Long Context - Install Locally](https://www.youtube.com/watch?v=Im3TOjz4UcM&ab_channel=FahdMirza)
  - [NanoSage - Deep Research Assistant - Install Locally with Ollama and Run on CPU](https://www.youtube.com/watch?v=9hhuEbLcT-c&ab_channel=FahdMirza)
