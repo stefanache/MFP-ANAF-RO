@@ -136,19 +136,15 @@ Incep sa apară/curgă din ce in ce mai multe evaluari ale/articole/tuitoriale d
    <br/>Tocmai a fost lansata o actualizare a **Kiln** pe Github care vă permite să distilați un model personalizat ajustat de la **Deepseek R1** (sau orice model de raționament/lanț de gândire).
    <br/>Întregul proces durează doar aproximativ 30 de minute, inclusiv generarea unui set de date de antrenament sintetic.
    <br/>Nu necesită codare sau lucru pe linia de comandă.
-
-  - Videoclipul atașat arată procesul
-  - Documentele videoclipului au un [*ghid pentru distilarea R1*](https://docs.getkiln.ai/docs/guide-train-a-reasoning-model) dacă doriți să îl încercați singur
-  - Iată [depozitul Github](https://github.com/Kiln-AI/Kiln) cu tot codul-sursă
-
-   <br/>De asemenea, s-a vrut să se adauge o mare mulțumire  [*r/localllama*](https://www.reddit.com/r/localllama/)-ului pentru primirea minunată la [ultima sa postare/actualizare](https://www.reddit.com/r/LocalLLaMA/comments/1i1ffid/i_accidentally_built_an_open_alternative_to/) . 
+        -  Videoclipul atașat arată procesul
+        - Documentele videoclipului au un [*ghid pentru distilarea R1*](https://docs.getkiln.ai/docs/guide-train-a-reasoning-model) dacă doriți să îl încercați singur
+        - Iată [depozitul Github](https://github.com/Kiln-AI/Kiln) cu tot codul-sursă
+   De asemenea, s-a vrut să se adauge o mare mulțumire  [*r/localllama*](https://www.reddit.com/r/localllama/)-ului pentru primirea minunată la [ultima sa postare/actualizare](https://www.reddit.com/r/LocalLLaMA/comments/1i1ffid/i_accidentally_built_an_open_alternative_to/) . 
    <br/>Aceasta ultima postare inspiră la a  continuia să se construiesca mai departe. 
    <br/>Deja sunt aproximativ 30 de îmbunătățiri și s-au creat solicitări de caracteristici care au venit de la oameni care le-au găsit prin [*r/localllama*](https://www.reddit.com/r/localllama/) .
-
    <br/>*Kiln* rulează local și nu are niciodată acces la setul dvs. de date. 
    <br/>*Unsloth* este pe deplin acceptat dacă aveți GPU-uri pentru a vă antrena local. 
    <br/>De asemenea, puteți utiliza un serviciu de instruire precum Fireworks & OpenAI dacă preferați (datele le sunt trimise cu cheile dvs., de asemenea nu exista acces la ele). 
-
    <br/>Dacă cineva dorește să încerce *Kiln*, aici este [depozitul GitHub](https://github.com/Kiln-AI/Kiln) și [documentele sunt aici](https://github.com/Kiln-AI/Kiln) . 
    <br/>Începerea este foarte simplă - este o instalare cu un singur clic pentru a începe configurarea și funcționarea.
 
