@@ -16,7 +16,7 @@ Pentru inceput as vrea sa va reamintesc cate ceva despre [termenul](https://www.
 <br/>
  - Recomand cu tarie sa lecturati acest topic/tag-ul [*Alegerea între raționament(**R**) și lanț de gândire(**CoT**)*](https://docs.getkiln.ai/docs/guide-train-a-reasoning-model#choosing-between-reasoning-and-chain-of-thought), subiect oferit/discutat/incorporat in cadrul articolului [*Ghid: Antrenează un model-de-raționament-**R**(ex.**DeepSeek-R1** sau **OpenAI_o3***)](https://docs.getkiln.ai/docs/guide-train-a-reasoning-model), ca parte a [*documentatiei **Kiln**-AI*](https://docs.getkiln.ai/)(instrument rapid de prototipare-AI și de colaborare-cu-ds/setul de date).
 <br/>Retineti faptul ca: **Kiln** are suport nativ pentru [ambele](https://docs.getkiln.ai/docs/reasoning-and-chain-of-thought) metode(atat pt **R**-rationament cat is pt **CoT**-lantul/insiruirea de gandire/ganduri/pasi-de-rationament)
-<br/>*OBS*: ***Kiln**-AI* este cel mai simplu instrument pentru:
+<br/>*OBS*: ***Kiln**-AI* este cel mai simplu(desktop-GUI) instrument pentru:
 
     - 🎛️ ***Reglaj fin*** : reglaj-fin(**FT**) zero-code(fara a fi neaparata nevoie sa stiti sa scrieti cod) pentru **Llama**, **GPT4o** și **Mixtral**.
   <br/>Implementarea automată(fara interventia utilizatorului) fără-server a modelelor.
