@@ -83,7 +83,7 @@ Cu toate acestea, **Ives** s-a declarat sceptic că serviciul va câștiga teren
 <br/>„Până la urmă, există o singură companie producătoare de cipuri din lume care lansează cazuri de utilizare autonome, robotice și **AI** mai largi și aceasta este **Nvidia**”.
 
 <details>
-<summary>Incep sa apară/curgă din ce in ce mai multe evaluari ale/articole/tuitoriale despre/legate de **DeepSeek**...</summary>
+<summary>Incep sa apară/curgă din ce in ce mai multe evaluari ale/articole/tuitoriale despre/legate de <b>DeepSeek</b>...</summary>
 
  - [Oamenii de știință se întâlnesc la **DeepSeek**: cum folosesc modelul AI de succes](https://www.nature.com/articles/d41586-025-00275-0)
  - [Înțelegerea capacităților modelelor de limbă mari **DeepSeek-R1**](https://www.digitalocean.com/community/tutorials/deepseek-r1-large-language-model-capabilities)
@@ -137,9 +137,10 @@ Cu toate acestea, **Ives** s-a declarat sceptic că serviciul va câștiga teren
    <br/>Tocmai a fost lansata o actualizare a **Kiln** pe Github care vă permite să distilați un model personalizat ajustat de la **Deepseek R1** (sau orice model de raționament/lanț de gândire).
    <br/>Întregul proces durează doar aproximativ 30 de minute, inclusiv generarea unui set de date de antrenament sintetic.
    <br/>Nu necesită codare sau lucru pe linia de comandă.
-        - Videoclipul atașat arată procesul
-        - Documentele videoclipului au un [*ghid pentru distilarea R1*](https://docs.getkiln.ai/docs/guide-train-a-reasoning-model) dacă doriți să îl încercați singur
-        - Iată [depozitul Github](https://github.com/Kiln-AI/Kiln) cu tot codul-sursă
+
+       - Videoclipul atașat arată procesul
+       - Documentele videoclipului au un [*ghid pentru distilarea R1*](https://docs.getkiln.ai/docs/guide-train-a-reasoning-model) dacă doriți să îl încercați singur
+       - Iată [depozitul Github](https://github.com/Kiln-AI/Kiln) cu tot codul-sursă
 
    De asemenea, s-a vrut să se adauge o mare mulțumire  [*r/localllama*](https://www.reddit.com/r/localllama/)-ului pentru primirea minunată la [ultima sa postare/actualizare](https://www.reddit.com/r/LocalLLaMA/comments/1i1ffid/i_accidentally_built_an_open_alternative_to/) . 
    <br/>Aceasta ultima postare inspiră la a  continuia să se construiesca mai departe. 
