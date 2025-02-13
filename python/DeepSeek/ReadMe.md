@@ -139,7 +139,7 @@ Cu toate acestea, **Ives** s-a declarat sceptic că serviciul va câștiga teren
    <br/>Nu necesită codare sau lucru pe linia de comandă.
 
     - [Videoclipul](https://github.com/Kiln-AI/Kiln/blob/main/guides/Fine%20Tuning%20LLM%20Models%20Guide.md#step-6-optional-training-on-your-own-infrastructure) atașat arată procesul
-    - Documentele videoclipului au un [*ghid pentru distilarea DeepSeek-R1(CoT)*](https://docs.getkiln.ai/docs/guide-train-a-reasoning-model) dacă doriți să îl încercați singur
+    - Documentele videoclipului au un [*ghid pentru distilarea DeepSeek-R1*](https://docs.getkiln.ai/docs/guide-train-a-reasoning-model) dacă doriți să îl încercați singur; Aici puteti vedea cum sa alegeti intre modelele [Reasoning si/vs. CoT](https://docs.getkiln.ai/docs/guide-train-a-reasoning-model#choosing-between-reasoning-and-chain-of-thought).
     - Iată [depozitul Kiln pe Github](https://github.com/Kiln-AI/Kiln) cu tot *codul-sursă*
 
    De asemenea, s-a vrut să se adauge o mare mulțumire  [*r/localllama*](https://www.reddit.com/r/localllama/)-ului pentru primirea minunată la [ultima sa postare/actualizare](https://www.reddit.com/r/LocalLLaMA/comments/1i1ffid/i_accidentally_built_an_open_alternative_to/) . 
