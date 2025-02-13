@@ -26,7 +26,7 @@ Pentru inceput as vrea sa va reamintesc cate ceva despre [termenul](https://www.
 
 Pana la aparitia [**DeepSeek**](https://en.wikipedia.org/wiki/DeepSeek), existau **2** legi(sau mai bine spus 2 momente) de scalare(ajustare/modificare a lungimii/modelului): **pre**-***training*** și **post**-***training***.
 
-[**Deepseek**](https://www.deepseek.com/) propune si introduce o a **3**-a lege(un al 3-lea moment) de scalare si anume [**inferenta**](https://www.wikiwand.com/ro/articles/Inferen%C8%9Ba_bayesian%C4%83) in timpul testarii(**intra**-testare) / ["scalarea timpului de inferență"](https://docs.getkiln.ai/docs/reasoning-and-chain-of-thought#what-are-reasoning-models-and-chain-of-thought).
+[**Deepseek**](https://www.deepseek.com/) propune si introduce o a **3**-a lege(un al 3-lea moment) de scalare si anume [**inferenta**](https://www.wikiwand.com/ro/articles/Inferen%C8%9Ba_bayesian%C4%83) in timpul testarii(**intra**-testare) (a se citi si  acest tag: ["scalarea timpului de inferență"](https://docs.getkiln.ai/docs/reasoning-and-chain-of-thought#what-are-reasoning-models-and-chain-of-thought)).
 
 [**DeepSeek**](https://deepseekcoder.github.io/) este un model care se bazează pe ceea ce se numește „[***calcul în timp de inferență***](https://www.mpt.upt.ro/doc/curs/gp/Sisteme_inteligente_in_electrotehnica/Inteligenta_artificiala_si_Retele_neuronale_cap1.pdf)”(asta înseamnă că „***pentru fiecare interogare, se activează doar cele mai relevante părți ale modelului***”).
 
