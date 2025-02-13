@@ -18,7 +18,7 @@ Pentru inceput as vrea sa va reamintesc cate ceva despre [termenul](https://www.
 
  - 🎛️ ***Reglaj fin*** : reglaj-fin(**FT**) zero-code(fara a fi neaparata nevoie sa stiti sa scrieti cod) pentru **Llama**, **GPT4o** și **Mixtral**.
   <br/>Implementarea automată(fara interventia utilizatorului) fără-server a modelelor.
- - 🤖 ***Generare de date sintetice*** : generați/sintetizati/creati date de antrenament(<ins>sintetice/artificiale ci/si nu personale/specifice</ins>) cu instrumentele Kiln vizuale interactive.
+ - 🤖 ***Generare de date sintetice*** : generați/sintetizati/creati seturi de date(**dataset-uri) de antrenament(*ds*-uri <ins>sintetice/artificiale de buna-practica ci/si nu personale/specifice</ins>) cu instrumentele **Kiln** vizuale interactive.
  - 🤝 ***Colaborare în echipă*** : controlul versiunii bazat pe **Git** pentru seturile <ins>dvs.</ins> de date AI(**AI-ds**).
    <br/>Interfața de utilizare intuitivă facilitează colaborarea cu **QA**(Queries&Answers), **PM**(ProjectManagement) și experți în domeniu pe date-structurate/tabelate(exemple/mostre, solicitări, evaluări, feedback, probleme etc.).<br/>
 
