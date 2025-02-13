@@ -15,7 +15,7 @@ Pentru inceput as vrea sa va reamintesc cate ceva despre [termenul](https://www.
 <br/>Acest proces poate <ins>reduce</ins> semnificativ atât <ins>costurile</ins>, cât și <ins>latența</ins>, deoarece modelele mai ***mici***(**LM**-urile) sunt de obicei mai <ins>eficiente</ins>”, potrivit platformei OpenAI.
 <br/>
  - Recomand cu tarie sa lecturati acest topic/tag-ul [*Alegerea între raționament(**R**) și lanț de gândire(**CoT**)*](https://docs.getkiln.ai/docs/guide-train-a-reasoning-model#choosing-between-reasoning-and-chain-of-thought), subiect oferit/discutat/incorporat in cadrul articolului [*Ghid: Antrenează un model-de-raționament-**R**(ex.**DeepSeek-R1** sau **OpenAI_o3***)](https://docs.getkiln.ai/docs/guide-train-a-reasoning-model), ca parte a [*documentatiei **Kiln**-AI*](https://docs.getkiln.ai/)(instrument rapid de prototipare-AI și de colaborare-cu-ds/setul de date).
-<br/>Retineti faptul ca: [**Kiln**](https://github.com/Kiln-AI/Kiln) are suport-nativ pentru [ambele](https://docs.getkiln.ai/docs/reasoning-and-chain-of-thought) metode/tehnici de antrenare/antrenament(atat pt **R**-rationament cat is pt **CoT**-lantul/insiruirea de gandire/ganduri/pasi-de-rationament)
+<br/>Retineti faptul ca: [**Kiln**](https://github.com/Kiln-AI/Kiln) are suport-nativ pentru [ambele](https://docs.getkiln.ai/docs/reasoning-and-chain-of-thought) metode/tehnici de inferenta/utilizare pt predictie/generare(atat pt **R**-rationament cat is pt **CoT**-lantul/insiruirea de gandire/ganduri/pasi-de-rationament)
 <br/>*OBS*: ***Kiln**-AI* este cel mai simplu(desktop-GUI) instrument pentru:
 
     - 🎛️ ***Reglaj fin*** : reglaj-fin(**FT**) zero-code(fara a fi neaparata nevoie sa stiti sa scrieti cod) pentru **Llama**, **GPT4o** și **Mixtral**.
@@ -26,7 +26,7 @@ Pentru inceput as vrea sa va reamintesc cate ceva despre [termenul](https://www.
 
 Pana la aparitia [**DeepSeek**](https://en.wikipedia.org/wiki/DeepSeek), existau **2** legi(sau mai bine spus 2 momente) de scalare(ajustare/modificare a lungimii/modelului): **pre**-***training*** și **post**-***training***.
 
-[**Deepseek**](https://www.deepseek.com/) propune si introduce o a **3**-a lege(un al 3-lea moment) de scalare si anume [**inferenta**](https://www.wikiwand.com/ro/articles/Inferen%C8%9Ba_bayesian%C4%83) in timpul testarii(**intra**-testare).
+[**Deepseek**](https://www.deepseek.com/) propune si introduce o a **3**-a lege(un al 3-lea moment) de scalare si anume [**inferenta**](https://www.wikiwand.com/ro/articles/Inferen%C8%9Ba_bayesian%C4%83) in timpul testarii(**intra**-testare) / ["scalarea timpului de inferență"](https://docs.getkiln.ai/docs/reasoning-and-chain-of-thought#what-are-reasoning-models-and-chain-of-thought).
 
 [**DeepSeek**](https://deepseekcoder.github.io/) este un model care se bazează pe ceea ce se numește „[***calcul în timp de inferență***](https://www.mpt.upt.ro/doc/curs/gp/Sisteme_inteligente_in_electrotehnica/Inteligenta_artificiala_si_Retele_neuronale_cap1.pdf)”(asta înseamnă că „***pentru fiecare interogare, se activează doar cele mai relevante părți ale modelului***”).
 
