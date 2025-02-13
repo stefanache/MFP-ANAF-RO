@@ -82,7 +82,8 @@ Cu toate acestea, **Ives** s-a declarat sceptic că serviciul va câștiga teren
 „Nici-o corporatie din **Global-2000**-SUA nu va folosi un start-up chinez [***DeepSeek***](https://www.analyticsvidhya.com/blog/2025/01/deepseek-v3-vs-gpt-4o-vs-llama-3-3-70b/) pentru a-și lansa infrastructura și cazurile de utilizare a **AI**”, a scris **Ives**.
 <br/>„Până la urmă, există o singură companie producătoare de cipuri din lume care lansează cazuri de utilizare autonome, robotice și **AI** mai largi și aceasta este **Nvidia**”.
 
-Incep sa apară/curgă din ce in ce mai multe evaluari ale/articole/tuitoriale despre/legate de **DeepSeek**:
+<details>
+<summary>Incep sa apară/curgă din ce in ce mai multe evaluari ale/articole/tuitoriale despre/legate de **DeepSeek**...</summary>
 
  - [Oamenii de știință se întâlnesc la **DeepSeek**: cum folosesc modelul AI de succes](https://www.nature.com/articles/d41586-025-00275-0)
  - [Înțelegerea capacităților modelelor de limbă mari **DeepSeek-R1**](https://www.digitalocean.com/community/tutorials/deepseek-r1-large-language-model-capabilities)
@@ -152,5 +153,6 @@ Incep sa apară/curgă din ce in ce mai multe evaluari ale/articole/tuitoriale d
 
  - [...](https://devpress.csdn.net/user/v_JULY_v)
 
+</details>
    
 In speranta ca am mai "[de-mistificat](https://www.linkedin.com/pulse/demystifying-deepseek-healthtech-professionals-ai-alex-g--n76ge/)", subiectul [***DeepSeek***](https://www.reddit.com/r/LocalLLaMA/comments/1ic24e0/now_you_can_use_deepseek_with_mcp_tools/), la final, as dori sa spun, doar faptul ca ... [timpul](https://adasci.org/deepseek-v3-explained-optimizing-efficiency-and-scale/), va fi cel care, [va proba](https://www.youtube.com/watch?v=bAWV_yrqx4w&ab_channel=YannicKilcher), cele spuse mai sus, in rest...sa [auzim](https://huggingface.co/docs/trl/main/en/grpo_trainer) numai de [bine](https://medium.com/@marvelous_catawba_otter_200/detailed-explanation-of-deepseek-r1-method-pure-reinforcement-learning-and-self-evolving-behavior-dced3a31e53a)!!!
