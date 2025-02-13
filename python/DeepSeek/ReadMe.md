@@ -137,8 +137,7 @@ Cu toate acestea, **Ives** s-a declarat sceptic că serviciul va câștiga teren
    <br/>Tocmai a fost lansata o actualizare a **Kiln** pe Github care vă permite să distilați un model personalizat ajustat de la **Deepseek R1** (sau orice model de raționament/lanț de gândire).
    <br/>Întregul proces durează doar aproximativ 30 de minute, inclusiv generarea unui set de date de antrenament sintetic.
    <br/>Nu necesită codare sau lucru pe linia de comandă.
-
-        -  Videoclipul atașat arată procesul
+        - Videoclipul atașat arată procesul
         - Documentele videoclipului au un [*ghid pentru distilarea R1*](https://docs.getkiln.ai/docs/guide-train-a-reasoning-model) dacă doriți să îl încercați singur
         - Iată [depozitul Github](https://github.com/Kiln-AI/Kiln) cu tot codul-sursă
 
