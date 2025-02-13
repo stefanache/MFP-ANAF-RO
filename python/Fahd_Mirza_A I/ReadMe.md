@@ -561,6 +561,8 @@ Aici voi insira o selectie de proiecte interesante(scurt-comentate, traduse cf. 
 <br/>Unde tabelul de conținut(***TOC***) este practic graficul/planul său de căutare.
  - [*kimi.ai* Releases **Kimi** and **K1.5 Loong Thinking**](https://www.youtube.com/watch?v=ch3zn_i0Fak&t=52s&ab_channel=FahdMirza)
    <br/>Acest videoclip face o trecere în revistă aprofundată a modelelor [**Kimi**](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa21oOFgtc25zNVBpbzRBNzhSZ2lCU0lUS0tld3xBQ3Jtc0tsMVZtSlc1Y2xnUWxiZFlQV2RUYmJnVk5vaEh0UXZpUk9kellrMldIMXlRVkNHVTQ1ektZdEZ5V2Nid3FDSXdGZDNQMURlN044bGQtR01vcEEwYmdibjNiRzZudndxX0c0Q2JNVnVIOGFuVlNvMkxhOA&q=https%3A%2F%2Fkimi.ai%2F&v=ch3zn_i0Fak) și [**K1.5 Loong Thinking**](https://huggingface.co/papers/2501.12599)([Gândire (inden-)lung(-ată)](https://www.youtube.com/watch?v=551oCIW5IH4&ab_channel=ArxivPapers)).
+ - [**Ollama Model Manager** - *Filter and Custom Tags* with Models *Locally*](https://www.youtube.com/watch?v=gCA816T7TsA&ab_channel=FahdMirza)
+   <br/>Acest videoclip arată cum să instalați local **Ollama Model Manager** pentru a gestiona modelele **Ollama** la nivel <ins>local</ins> cu un script Python [wrapper](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbHIzaXdESVdHb1hQN0FHTVZoTS1TU3pFbTZjZ3xBQ3Jtc0tuQnRJeGNwYU1KRV9QRUdWRzdvN1Q5YV8zamVSTUR4SThfOTJhNXdvandPTUNSYlhGRDZDVjZGQWViZzhqQ1YyX2VtbUR5SWExcXdKbzdJaEdIRDBoeEstUDhTbUVUazJxbTltbFVueVljdHJxMG5EZw&q=https%3A%2F%2Fgist.github.com%2FitsPreto%2F038abe634dd10e9850768cd0b13ed169&v=gCA816T7TsA). 
  - ...
 
 <hr/>
