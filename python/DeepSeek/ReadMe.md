@@ -146,7 +146,7 @@ Cu toate acestea, **Ives** s-a declarat sceptic că serviciul va câștiga teren
    <br/>Aceasta ultima postare inspiră la a  continuia să se construiesca mai departe. 
    <br/>Deja sunt aproximativ 30 de îmbunătățiri și s-au creat solicitări de caracteristici care au venit de la oameni care le-au găsit prin [*r/localllama*](https://www.reddit.com/r/localllama/) .
    <br/>*Kiln* rulează local și nu are niciodată acces la setul dvs. de date. 
-   <br/>*Unsloth* este pe deplin acceptat dacă aveți GPU-uri pentru a vă antrena local. 
+   <br/>[*Unsloth*](https://github.com/Kiln-AI/Kiln/blob/main/guides/Fine%20Tuning%20LLM%20Models%20Guide.md#step-6-optional-training-on-your-own-infrastructure) este pe deplin acceptat dacă aveți GPU-uri pentru a vă antrena local. 
    <br/>De asemenea, puteți utiliza un serviciu de instruire precum Fireworks & OpenAI dacă preferați (datele le sunt trimise cu cheile dvs., de asemenea nu exista acces la ele). 
    <br/>Dacă cineva dorește să încerce *Kiln*, aici este [depozitul GitHub](https://github.com/Kiln-AI/Kiln) și [documentele sunt aici](https://github.com/Kiln-AI/Kiln) . 
    <br/>Începerea este foarte simplă - este o instalare cu un singur clic pentru a începe configurarea și funcționarea.
