@@ -29,7 +29,7 @@ Va rog, sa aveti in vedere//urmriti/retineti... o prima <ins>*Concluzie*</ins>:
 Ideea acestui articol a inceput/venit/pornit cu/inspirat de [la] urmatoarele **2** [figuri/imagini](https://arxiv.org/html/2501.18492) interesante:
 
 <details>
- <summary> - Figura 1: LLaMA Guard 3(LG3) si GuardReasoner(<b>GR</b>)</summary>
+ <summary> - <i>Figura</i> 1: LLaMA Guard 3(<b>LG3</b>) si GuardReasoner(<b>GR</b>)</summary>
  
 <img src="https://github.com/user-attachments/assets/ad261a21-29e0-4ecd-ad37-eb8249703cf5" width="95%" height="auto"><a href="https://arxiv.org/html/2501.18492"><br/>LLaMA Guard 3(LG3) si GuardReasoner([**GR**](https://www.youtube.com/watch?v=T253JQcwWNo&ab_channel=AIPapersDecodedPodcast))</a></img>
 
@@ -41,7 +41,7 @@ Ideea acestui articol a inceput/venit/pornit cu/inspirat de [la] urmatoarele **2
 
 </details>
 <details>
- <summary> - Figura 2: GuardReasoner(<b>GR</b>)</summary>
+ <summary> - <i>Figura</i> 2: GuardReasoner(<b>GR</b>)</summary>
  
 <img src="https://arxiv.org/html/2501.18492v1/extracted/6167045/7_overall.png" width="95%" height="auto"><a href="https://arxiv.org/html/2501.18492v1/extracted/6167045/7_overall.png">GuardReasoner</a></img>
 
