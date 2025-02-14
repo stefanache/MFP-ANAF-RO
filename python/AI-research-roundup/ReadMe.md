@@ -331,6 +331,8 @@ Mai departe, scalarea **s1-32B**, *<ins>cu</ins> forțarea bugetului*, permite e
 
 </details>
 
+<br/>In sfarsit, acum a venit momentul sa intram in detalii/miezul publicatiilor aparute...
+
 <details>
  <summary>Lucrari abordate/studiate, in aceasta saptamana, de catre renumita publicatie/revista online...<b>AI Research Roundup</b>... </summary>
 
