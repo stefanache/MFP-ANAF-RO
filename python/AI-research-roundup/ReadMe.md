@@ -399,7 +399,7 @@ Sa vedem pe scurt(in rezumat), cateva ***lucrari*** abordate în / ***abordări*
    <br/> Autorii, susțin că, [**CFT**](https://arxiv.org/abs/2501.17703)-ul,  reprezintă un pas, semnificativ, înainte, în a face/construi/permite, formarea modelului-lingvistic([**LLM**](https://x.com/askalphaxiv/status/1885848467307745559)-ului) și mai eficientă.
    <br/>Unul dintre cele mai convingătoare avantaje ale **CFT** este eficiența sa.
    <br/>În comparație, cu abordările bazate pe învățare prin consolidare(**RL**), cum ar fi ***SimpleRL***, **CFT** obține performanțe similare sau mai bune, consumând în același timp, de 140 de ori, mai puține resurse de calcul.
-<br/><br/>***Retineti*** vă rog, că:  **CFT**-ul este mai bun decat **RL** si ***SFT***-ul, adica/ori/s-au altfel scris:  **CFT** >= ***RL*** > *SFT*
+<br/><br/>***Retineti*** vă rog, că:  **CFT**-ul este mai bun decat **RL** si ***SFT***-ul, adica/ori/sau altfel scris:  **CFT** >= ***RL*** > *SFT*
 <hr/>
 
 </details>
