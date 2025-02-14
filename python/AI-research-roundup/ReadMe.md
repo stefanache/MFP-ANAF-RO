@@ -44,7 +44,7 @@ Asadar *Figura 1* ne arata o evaluare-comparativa!
 
 </details>
 <details>
- <summary> - <i>Figura</i> 2: GuardReasoner(<b>GR</b>)</summary>
+ <summary> - <i>Figura</i> 2: GuardReasoner(<b>GR</b>)-module/componente</summary>
  
 <img src="https://arxiv.org/html/2501.18492v1/extracted/6167045/7_overall.png" width="95%" height="auto"><a href="https://arxiv.org/html/2501.18492v1/extracted/6167045/7_overall.png">GuardReasoner</a></img>
 
@@ -65,7 +65,7 @@ Hai sa analizam pe rand (sa despicam firu' in 3 ! :) aceste componente ...
 
 </details>
 
-Hai să ne *scufundăm*(mai bine zis... hai sa *aprofundăm*.... toate aceste module/componente ale **GR**)!
+Hai să ne *scufundăm*(mai bine zis... hai sa *aprofundăm*.... in analiza si sa studiem in detaliu toate aceste module/componente ale **GR**)!
 
 In acest [***studiu***](https://www.linkedin.com/pulse/ai-research-roundup-safety-scaling-multimodal-breakthroughs-dynuf/) complex, care se refera la seria "*Rezumatelor din sfera cercetărilor **AI***", au aparut, o seama de <br/>termeni/prescurtări, des utiliza[ți/te].
 
