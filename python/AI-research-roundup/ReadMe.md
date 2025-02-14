@@ -54,7 +54,7 @@ Ideea acestui articol a inceput/venit/pornit cu/inspirat de [la] urmatoarele **2
 </details>
 Hai sa le analizam pe rand(sa despicam firu' in 3 ! :)...
 
-   - (1) În primul rând(**RDS**), **GPT-4o** este folosit pentru a crea/genera/sintetiza date de raționament([***GuardReasonerTrain***](Training Pipeline of GuardReasoner)) introducând promptul utilizatorului, răspunsul modelului țintă și adevărul de la sol/fata locului.
+   - (1) În primul rând(**RDS**), **GPT-4o** este folosit pentru a crea/genera/sintetiza date de raționament([***GuardReasonerTrain***](https://github.com/yueliu1999/GuardReasoner/blob/main/train/README.md)) introducând promptul utilizatorului, răspunsul modelului țintă și adevărul de la sol/fata locului.
    - (2) Apoi, modelul de bază este antrenat de **R-SFT** pe acest set de date pentru a dezvolta modelul de raționament ℳ<sub><b>R-SFT</b></sub>
    - (3)ℳ<sub><b>R-SFT</b></sub> produce **k**-ieșiri pentru a identifica eșantioanele ambigue cu răspunsuri atât corecte, cât și incorecte.
      <br/>Diferite modele de raționament, care sunt antrenate pe diferite subseturi ale datelor de raționament, sunt utilizate pentru a îmbunătăți diversitatea acestor eșantioane și se aplică o abordare de ansamblu.
