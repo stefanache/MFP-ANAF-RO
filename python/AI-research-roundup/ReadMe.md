@@ -301,7 +301,7 @@ si separat/suplimentar, ...
  
  - [**ST-TS**](https://arxiv.org/abs/2501.19393) = Simple Test-Time Scaling = Scalarea(crestere/scadere) Simpla a Timpului/Duratei-de-Testare.
 
-Test-time scaling([*ST-TS*](https://arxiv.org/pdf/2501.19393)) este o abordare promițătoare, a modelarii limbajului(**LM**), care folosește compoziția suplimentară, la/pe timpul/momentul/durata-de-testare, pentru a îmbunătăți performanța.
+Test-time scaling([*ST-TS*](https://arxiv.org/pdf/2501.19393)) este o abordare promițătoare, a modelarii limbajului(**LM**), care folosește compoziția/orchestrația suplimentară, la/pe timpul/momentul/durata-de-testare, pentru a îmbunătăți performanța.
 
 Modelul **o1** al ***OpenAI***, a arătat această capacitate, dar nu a publicat(să-și împărtășească, în mod clar...) metodologia, ducând la multe repli-
 eforturi [cationice](https://dexonline.ro/definitie/cationic)(de cautare a etimologiei).
