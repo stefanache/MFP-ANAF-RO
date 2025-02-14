@@ -38,7 +38,7 @@ Ideea acestui articol a inceput/venit/pornit cu/inspirat de [la] urmatoarele **2
  - Figura 1: Demonstrații ale **LLaMA Guard 3(LG3)** (partea stângă) și GuardReasoner([**GR**](https://arxiv.org/html/2501.18492v1)) (partea dreaptă), concentrându-se în principal pe 3 aspecte/caracteristici:
     - (1) performanță(safe=siguranță vs. harmful=dăunător/păgubos/fără siguranță/nesigur; măsurarea scorului asupra predictiei: [**F1**-***score***](https://en.wikipedia.org/wiki/F-score)),
     - (2) explicabilitate(prezenta sau/ori/vs. nu/inexistenta...explicatiilor/rationamentului/demonstratiei sau pasilor/modului de gandire/schema sau arhitectura cognitivă) și
-    - (3) generalizare(tendinta de a fi categorial/prezinta si incadreaza-in anumite clase invatate sau/ori/vs.... nu/fara categorisire/necategorisit).
+    - (3) generalizare(tendinta de a fi categorial/prezinta si incadreaza-in anumite clase invatate sau/ori/vs.... aici insa, generalizare inseamna nu/fara categorisire/necategorisit).
 <br/>Eșantionăm acest caz din WildGuardTest (Han și colab.,2024) set de date.
 
 
