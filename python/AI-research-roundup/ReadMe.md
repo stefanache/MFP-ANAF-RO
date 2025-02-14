@@ -380,7 +380,7 @@ Sa vedem pe scurt(in rezumat), cateva ***lucrari*** abordate în / ***abordări*
 <br/>Scalarea timpului-de-testare(**ST-TS**), care crește calculul, în timpul testării, pentru a îmbunătăți performanța, a atras atenția, în special, odata cu aparitia, modelului **o1** al ***OpenAI***.<br/> 
 <br/>Autorii își propun, să găsească, cea mai simplă abordare, pentru a obține, atât scalarea timpului-de-testare, cât și performanța-puternică, a raționamentului.<br/> 
 <br/>Ei organizează/prepara/construiesc, un set de date mic, **s1K**, și dezvoltă forțarea-bugetului, pentru a controla, timpul de calcul la momentul testarii, ceea ce duce, la un model de raționament, puternic, care se scalează, cu mai multe calcule în/pe timpul/durata-testării.<br/>
-<br/>Depășește[Concură cu/Concurează cu](https://gresit.ro/concura-sau-concureaza.html) modelul/LLM **o1-preview** al furnizorului ***OpenAI***, la întrebările-de-matematică(Math-questions) ale competiției/olimpiadei, și este modelul de raționament, cu cel mai eficient eșantion(sample) testat.
+<br/>Depășește/[Concură cu/Concurează cu](https://gresit.ro/concura-sau-concureaza.html) modelul/LLM **o1-preview** al furnizorului ***OpenAI***, la întrebările-de-matematică(Math-questions) ale competiției/olimpiadei, și este modelul de raționament, cu cel mai eficient eșantion(sample) testat.
 
 <hr/>
 </details>
