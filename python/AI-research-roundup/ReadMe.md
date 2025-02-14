@@ -247,7 +247,7 @@ si separat/suplimentar, ...
    <br/>Capacitatea/Abilitatea de a raționa, este crucială/extrem de importantă, pentru **LLM**-uri, permițându-le, să ***imite***, modelele de gândire, asemănătoare omului.
    <br/>[*R-SFT*](https://arxiv.org/pdf/2403.02333), este un mod/o varianta/un modul de abordăre, privind instruirea/invatare/formarea/antrenarea, pt indeplinirea sarcinilor(***tasks***)-**AI**, in conformitate cu  metodologia GuardReasoner(**GR**).
    <br/><br/> De ce este atât de importantă reglarea-fină(*FT*) supravegheată(*SFT*)?<br/>
-<br/> Prețuiește *calitatea*datelor -asupra/in/vs.- dauna *cantității* de date<br/>
+<br/>*SFT* Prețuiește *calitatea* datelor -asupra/in/vs.- dauna *cantității* de date<br/>
 <br/>În primele zile ale **AI**, *cantitatea* de date domina.
 <br/>Cu cât sunt mai multe date, cu atât performanța este mai bună – sau așa părea.
 <br/>Dar, pe măsură ce modelele de bază continuă să crească în sofisticare, volumul de date(de unul singur/de la sine putere) nu mai garantează *relevanța* sau *utilitatea*.
