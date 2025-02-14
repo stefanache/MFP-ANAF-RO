@@ -432,7 +432,7 @@ Sa vedem pe scurt(in rezumat), cateva ***lucrari*** abordate în / ***abordări*
 <br/>Lucrarea demonstrează că, **RL**-ul este superior **SFT**-ului, în dobândirea/invatarea de cunoștințe-generalizabile(necateorisire), în zona sarcinilor-complexe, multi-modale.
 <br/>Cu toate acestea, sa nu uitam ca, ***SFT***-ul, este încă crucial/important/util, pentru *stabilizarea*, formatului-de-ieșire, al modelului(LLM/VLM), permițând ulterior,  antrenamentul-**RL**-eficient.
 <br/><br/>***Retineti*** vă rog, că:   in scenariile **OOD** si **VLM**, **RL** > ***SFT***, dar/insa...
-<br/>...se mai foloseste inca, ***SFT***-ul(stiuta fiind, capacitatea sa de *memorare/imitare*), inainte de aplicarea **RL**-ului(stiuta fiind, tendinta sa de *generalizare(necategorisire)*), dar in acest caz, j***SFT***-ul joaca un rol/ca element de... *stabilizator/stabilizare*, a[l] iesirii/raspunsului oferit.
+<br/>...se mai foloseste inca, ***SFT***-ul(stiuta fiind, capacitatea sa de *memorare/imitare*), inainte de aplicarea **RL**-ului(stiuta fiind, tendinta sa de *generalizare(necategorisire)*), dar in acest caz, ***SFT***-ul joaca un rol/ca element de... *stabilizator/stabilizare*, a[l] iesirii/raspunsului oferit.
 
 <hr/>
 
