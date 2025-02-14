@@ -369,10 +369,10 @@ Sa vedem pe scurt(in rezumat), cateva ***lucrari*** abordate în / ***abordări*
  - b)[***s1: Simple Test-Time Scaling***](https://media.licdn.com/dms/image/v2/D4D12AQGAMOOG_LIz-w/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1738609419796?e=1744243200&v=beta&t=Ftsru31-7BNv1egojySpq3atw2MXXPnqoMiB5F97TIM) / [***s1: Scalare simplă a timpului de testare***](https://arxiv.org/pdf/2501.19393)
    <br> In general, este stiut faptul ca un model lingvistic(deci si un **LLM**) are in principal/cel putin 3 etape/stagii/momente/timpi/durate de viata:
    
-    - etapa de invatare/antrenare/antrenament: **Train-Time**
-    - etapa de testare(validarea modelului): **Testing-Time**
-    - etapa de predictie/deductie(este practic etapa finalizatoare/tinta, si anume etapa de lansare in productie) adica etapa de inferenta: **Inference-Time**
-    - optional, pt a imbunatati precizia in cazul unor date specifice/private/particulare, pot exista si una sau mai multe etape de ajustare/acordare/fine-tuning(**FT**).
+    - etapa de invatare/antrenare/antrenament: **Train-time(T-t)**
+    - etapa de testare(validarea modelului): **Testing-Time(T-T)**
+    - etapa de predictie/deductie(este practic etapa finalizatoare/tinta, si anume etapa de lansare in productie) adica etapa de inferenta: **Inference-time(I-t)**
+    - optional, pt a imbunatati precizia in cazul unor date specifice/private/particulare, pot exista si una sau mai multe etape de ajustare/acordare/fine-tuning(***FT***): FineTuning-time(**FT-t**).
 
    <br/>Lucrarea prezintă **s1**, o nouă abordare a scalarii/ajustarii(cresterii/descresterii) timpului/duratei-de-testare, pentru modelele de limbaj, abordare care își propune, să îmbunătățească *performanța*, prin utilizarea calculului-suplimentar în timpul /pe durata-testării.
    <br/>Inspirați de modelul **o1**, al furnizorului ***OpenAI***, autorii organizează, un mic(small) set de date(ds/samples), **s1K**, format din **1.000** de *întrebări(Questions)*, asociate cu *urme de raționament(Answers)*.
