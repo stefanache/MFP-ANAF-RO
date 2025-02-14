@@ -30,7 +30,9 @@ Ideea acestui articol a inceput/venit/pornit cu/inspirat de [la] urmatoarele **2
 
 <details>
  <summary> - <i>Figura</i> 1: LLaMA Guard 3(<b>LG3</b>) si/vs. GuardReasoner(<b>GR</b>)</summary>
- 
+
+<hr/>
+
 <img src="https://github.com/user-attachments/assets/ad261a21-29e0-4ecd-ad37-eb8249703cf5" width="95%" height="auto"><a href="https://arxiv.org/html/2501.18492"><br/>LLaMA Guard 3(LG3) si GuardReasoner([**GR**](https://www.youtube.com/watch?v=T253JQcwWNo&ab_channel=AIPapersDecodedPodcast))</a></img>
 
  - Figura 1: Demonstrații ale **LLaMA Guard 3(LG3)** (partea stângă) și GuardReasoner([**GR**](https://arxiv.org/html/2501.18492v1)) (partea dreaptă), concentrându-se în principal pe 3 aspecte/caracteristici:
@@ -42,9 +44,13 @@ Ideea acestui articol a inceput/venit/pornit cu/inspirat de [la] urmatoarele **2
 
 Asadar *Figura 1* ne arata o evaluare-comparativa!
 
+<hr/>
+
 </details>
 <details>
  <summary> - <i>Figura</i> 2: GuardReasoner(<b>GR</b>)-module/componente</summary>
+
+ <hr/>
  
 <img src="https://arxiv.org/html/2501.18492v1/extracted/6167045/7_overall.png" width="95%" height="auto"><a href="https://arxiv.org/html/2501.18492v1/extracted/6167045/7_overall.png">GuardReasoner</a></img>
 
@@ -64,6 +70,8 @@ Hai sa analizam pe rand (sa despicam firu' in 3 ! :) aceste componente ...
      <br/>Diferite modele de raționament, care sunt antrenate pe diferite subseturi ale datelor de raționament, sunt utilizate pentru a îmbunătăți diversitatea acestor eșantioane și se aplică o abordare de ansamblu.
      <br/>În cele din urmă, **HS-DPO** este efectuat pe aceste eșantioane ambigue, selectând rezultate corecte ca date pozitive și pe cele incorecte ca date negative, cu accent pe eșantioane dure prin ponderarea celor cu mai multe erori.
      <br/>În acest fel, îl ghidăm pe ***GuardReasoner*** să învețe să raționeze.
+
+<hr/>
 
 </details>
 
