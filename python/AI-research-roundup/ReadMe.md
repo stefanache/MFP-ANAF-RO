@@ -367,12 +367,19 @@ Sa vedem pe scurt(in rezumat), cateva ***lucrari*** abordate în / ***abordări*
  <hr/>
   
  - b)[***s1: Simple Test-Time Scaling***](https://media.licdn.com/dms/image/v2/D4D12AQGAMOOG_LIz-w/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1738609419796?e=1744243200&v=beta&t=Ftsru31-7BNv1egojySpq3atw2MXXPnqoMiB5F97TIM) / [***s1: Scalare simplă a timpului de testare***](https://arxiv.org/pdf/2501.19393)
+   <br> In general, este stiut faptul ca un model lingvistic(deci si un **LLM**) are in principal/cel putin 3 etape/stagii/momente/timpi/durate de viata:
+   
+    - etapa de invatare/antrenare/antrenament: **Train-Time**
+    - etapa de testare(validarea modelului): **Testing-Time**
+    - etapa de predictie/deductie(este practic etapa finalizatoare/tinta, si anume etapa de lansare in productie) adica etapa de inferenta: **Inference-Time**
+    - optional, pt a imbunatati precizia in cazul unor date specifice/private/particulare, pot exista si una sau mai multe etape de ajustare/acordare/fine-tuning(**FT**).
+
    <br/>Lucrarea prezintă **s1**, o nouă abordare a scalarii/ajustarii(cresterii/descresterii) timpului/duratei-de-testare, pentru modelele de limbaj, abordare care își propune, să îmbunătățească *performanța*, prin utilizarea calculului-suplimentar în timpul /pe durata-testării.
    <br/>Inspirați de modelul **o1**, al furnizorului ***OpenAI***, autorii organizează, un mic(small) set de date(ds/samples), **s1K**, format din **1.000** de *întrebări(Questions)*, asociate cu *urme de raționament(Answers)*.
    <br/>Modelul, datele și codul sunt oferite ca open-source(sursă deschisă).<br/>
 <br/>Scalarea timpului-de-testare(**ST-TS**), care crește calculul, în timpul testării, pentru a îmbunătăți performanța, a atras atenția, în special, odata cu aparitia, modelului **o1** al ***OpenAI***.<br/> 
 <br/>Autorii își propun, să găsească, cea mai simplă abordare, pentru a obține, atât scalarea timpului-de-testare, cât și performanța-puternică, a raționamentului.<br/> 
-<br/>Ei organizează/prepara/construiesc, un set de date mic, **s1K**, și dezvoltă forțarea-bugetului, pentru a controla, calcularea timpului-de-testare, ceea ce duce, la un model de raționament, puternic, care se scalează, cu mai multe calcule în/pe timpul/durata-testării.<br/>
+<br/>Ei organizează/prepara/construiesc, un set de date mic, **s1K**, și dezvoltă forțarea-bugetului, pentru a controla, timpul de calcul la momentul testarii, ceea ce duce, la un model de raționament, puternic, care se scalează, cu mai multe calcule în/pe timpul/durata-testării.<br/>
 <br/>Depășește[Concură cu/Concurează cu](https://gresit.ro/concura-sau-concureaza.html) modelul/LLM **o1-preview** al furnizorului ***OpenAI***, la întrebările-de-matematică(Math-questions) ale competiției/olimpiadei, și este modelul de raționament, cu cel mai eficient eșantion(sample) testat.
 
 <hr/>
