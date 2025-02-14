@@ -48,6 +48,8 @@ Asadar *Figura 1* ne arata o evaluare-comparativa!
  
 <img src="https://arxiv.org/html/2501.18492v1/extracted/6167045/7_overall.png" width="95%" height="auto"><a href="https://arxiv.org/html/2501.18492v1/extracted/6167045/7_overall.png">GuardReasoner</a></img>
 
+Hai să ne *scufundăm*(mai bine zis... hai sa *aprofundăm*.... in analiza si sa studiem in detaliu toate aceste module/componente ale **GR**)!
+
  - Figura 2: GuardReasoner([**GR**](http://paperreading.club/page?id=280945)) constă/este alcatuit din trei(**3**) module/componente: 
 
   - (1) Reasoning Data Synthesis([**RDS**](https://aclanthology.org/2024.lrec-main.900.pdf)),
@@ -64,8 +66,6 @@ Hai sa analizam pe rand (sa despicam firu' in 3 ! :) aceste componente ...
      <br/>În acest fel, îl ghidăm pe ***GuardReasoner*** să învețe să raționeze.
 
 </details>
-
-Hai să ne *scufundăm*(mai bine zis... hai sa *aprofundăm*.... in analiza si sa studiem in detaliu toate aceste module/componente ale **GR**)!
 
 In acest [***studiu***](https://www.linkedin.com/pulse/ai-research-roundup-safety-scaling-multimodal-breakthroughs-dynuf/) complex, care se refera la seria "*Rezumatelor din sfera cercetărilor **AI***", au aparut, o seama de <br/>termeni/prescurtări, des utiliza[ți/te].
 
