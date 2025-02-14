@@ -28,6 +28,9 @@ Va rog, sa aveti in vedere//urmriti/retineti... o prima <ins>*Concluzie*</ins>:
 
 Ideea acestui articol a inceput/venit/pornit cu/inspirat de [la] urmatoarele **2** [figuri/imagini](https://arxiv.org/html/2501.18492) interesante:
 
+<details>
+ <summary>-Figura 1: LLaMA Guard 3(LG3) si GuardReasoner(<b>GR</b>)</summary>
+ 
 <img src="https://github.com/user-attachments/assets/ad261a21-29e0-4ecd-ad37-eb8249703cf5" width="95%" height="auto"><a href="https://arxiv.org/html/2501.18492"><br/>LLaMA Guard 3(LG3) si GuardReasoner([**GR**](https://www.youtube.com/watch?v=T253JQcwWNo&ab_channel=AIPapersDecodedPodcast))</a></img>
 
  - Figura 1: Demonstrații ale **LLaMA Guard 3(LG3)** (partea stângă) și GuardReasoner([**GR**](https://arxiv.org/html/2501.18492v1)) (partea dreaptă), concentrându-se în principal pe 3 aspecte/caracteristici:
@@ -36,8 +39,13 @@ Ideea acestui articol a inceput/venit/pornit cu/inspirat de [la] urmatoarele **2
     - (3) generalizare(tendinta de a fi categorial/prezinta si incadreaza-in anumite clase invatate sau/ori/vs.... nu/fara categorisire/necategorisit).
 <br/>Eșantionăm acest caz din WildGuardTest (Han și colab.,2024) set de date.
 
+</details>
+
 si ...
-  
+
+<details>
+ <summary>Figura 2: GuardReasoner(<b>GR</b>)</summary>
+ 
 <img src="https://arxiv.org/html/2501.18492v1/extracted/6167045/7_overall.png" width="95%" height="auto"><a href="https://arxiv.org/html/2501.18492v1/extracted/6167045/7_overall.png">GuardReasoner</a></img>
 
  - Figura 2: GuardReasoner([**GR**](http://paperreading.club/page?id=280945)) constă/este alcatuit din trei(**3**) module/componente: 
@@ -45,7 +53,8 @@ si ...
   - (1) Reasoning Data Synthesis([**RDS**](https://aclanthology.org/2024.lrec-main.900.pdf)),
   - (2) Reasoning-SFT(ℳ [**R-SFT**](https://sebastianraschka.com/blog/2025/understanding-reasoning-llms.html)) și
   - (3) Hard Sample DPO([**HS-DPO**](https://www.threads.net/@theturingpost/post/DFgdZq7MRJ_)).
-   
+
+</details>
 Hai sa le analizam pe rand(sa despicam firu' in 3 ! :)...
 
    - (1) În primul rând(**RDS**), **GPT-4o** este folosit pentru a crea/genera/sintetiza date de raționament(***GuardReasonerTrain***) introducând promptul utilizatorului, răspunsul modelului țintă și adevărul de la sol.
