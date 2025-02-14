@@ -51,8 +51,7 @@ Ideea acestui articol a inceput/venit/pornit cu/inspirat de [la] urmatoarele **2
   - (2) Reasoning-SFT(ℳ [**R-SFT**](https://sebastianraschka.com/blog/2025/understanding-reasoning-llms.html)) și
   - (3) Hard Sample DPO([**HS-DPO**](https://www.threads.net/@theturingpost/post/DFgdZq7MRJ_)).
 
-</details>
-Hai sa le analizam pe rand(sa despicam firu' in 3 ! :)...
+Hai sa le analizam pe rand (sa despicam firu' in 3 ! :)...
 
    - (1) În primul rând(**RDS**), **GPT-4o** este folosit pentru a crea/genera/sintetiza date de raționament([***GuardReasonerTrain***](https://github.com/yueliu1999/GuardReasoner/blob/main/train/README.md)) introducând promptul utilizatorului, răspunsul modelului țintă și adevărul de la sol/fata locului.
    - (2) Apoi, modelul de bază este antrenat de **R-SFT** pe acest set de date(sintetizat/generat cu ***RDS*** la pasul 1 al **GR**-pipeline) pentru a dezvolta modelul de raționament ℳ<sub><b>R-SFT</b></sub>
@@ -61,6 +60,7 @@ Hai sa le analizam pe rand(sa despicam firu' in 3 ! :)...
      <br/>În cele din urmă, **HS-DPO** este efectuat pe aceste eșantioane ambigue, selectând rezultate corecte ca date pozitive și pe cele incorecte ca date negative, cu accent pe eșantioane dure prin ponderarea celor cu mai multe erori.
      <br/>În acest fel, îl ghidăm pe ***GuardReasoner*** să învețe să raționeze.
 
+</details>
 
 Hai să ne *scufundăm*(mai bine zis... hai sa *aprofundăm*.... toate aceste module)!
 
