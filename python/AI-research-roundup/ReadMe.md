@@ -65,7 +65,7 @@ Hai sa analizam pe rand (sa despicam firu' in 3 ! :) aceste componente ...
 
 </details>
 
-Hai să ne *scufundăm*(mai bine zis... hai sa *aprofundăm*.... toate aceste module)!
+Hai să ne *scufundăm*(mai bine zis... hai sa *aprofundăm*.... toate aceste module/componente ale **GR**)!
 
 In acest [***studiu***](https://www.linkedin.com/pulse/ai-research-roundup-safety-scaling-multimodal-breakthroughs-dynuf/) complex, care se refera la seria "*Rezumatelor din sfera cercetărilor **AI***", au aparut, o seama de <br/>termeni/prescurtări, des utiliza[ți/te].
 
