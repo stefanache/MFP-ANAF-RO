@@ -619,7 +619,7 @@ Aici voi insira o selectie de proiecte [interesante](https://huggingface.co/fahd
  - [*Self-Hosting* **LLM**s like a *DevOps* - **Ollama**](https://www.youtube.com/watch?v=jl9bfPsBBcM&ab_channel=JAlcocerTech)
 
 <details>   
-<summary>   detalii videoclip...**Ollama**-dockerizat...</summary>
+<summary>   detalii videoclip...<b>Ollama</b> - <i>dockerizat</i>...</summary>
 
 <hr/>
 
