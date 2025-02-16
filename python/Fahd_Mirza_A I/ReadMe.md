@@ -536,6 +536,9 @@ Daca doriti, sa aflati,  care/ce [**marime de LLM**](https://www.youtube.com/wat
 
 <hr/>
 
+<details>
+      <summary>La final, voi enumera cateva dintre proiectele interesante, prezentate pe YouTube(YT), de catre domnul <b>Fahd-Mirza</b>....</summary>
+      
 Aici voi insira o selectie de proiecte [interesante](https://huggingface.co/fahdmirzac)(scurt-comentate, traduse cf. ***YT***: [**Fahd-Mirza**](https://www.youtube.com/@fahdmirza)):
 
  - [Install **reAG** *Locally* with **Ollama** - *Reasoning Augmented Generation*](https://www.youtube.com/watch?v=SA-VVOKgyRA&t=312s&ab_channel=FahdMirza)
@@ -573,6 +576,10 @@ Aici voi insira o selectie de proiecte [interesante](https://huggingface.co/fahd
    <br/>Acest videoclip arată cum să instalați modelul [**Flux Dev Upscaler**](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbnB3WkstV2NTVXhCckNiZml6R2IxWVFxS0FOZ3xBQ3Jtc0trdElQZnpvRFdxdWctZ081QVp1WGJUYjNkMVg4QmE1LTJHamdybVlVVFpDb0RXektDcDVJVTFEb0ZUc1lTR20zcWNkUy1MczA0WUgtc0lSQ001cWJqSjBpVkFORHk5RXFNMUFYTzdFRjJNcFVPQl9yTQ&q=https%3A%2F%2Fhuggingface.co%2Fjasperai%2FFlux.1-dev-Controlnet-Upscaler&v=3TBAy9Zg5II) la nivel <ins>local</ins> și imagini de lux(la scara crescuta).
    <br/>Acesta este ***Flux.1-dev ControlNet*** pentru imagini cu rezoluție joasă. 
  - ...
+
+<hr/>
+
+</details>
 
 <hr/>
 
