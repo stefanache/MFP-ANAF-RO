@@ -26,4 +26,4 @@ Un server dedicat(**DS**) este o *mașină fizică* care este *complet dedicată
 <br/>Un server dedicat(**DS**) este împărțit în mai multe *servere virtuale* folosind tehnologia *virtualizării*. 
 <br/>Cea mai bună parte a utilizării unui *serviciu de găzduire* **VPS** este că aveți *acces direct* la mai multe *resurse de server* care vă ajută să îmbunătățiți *performanța* generală a *site*-ului.
 
-Trebuie sa mai spunem si faptul ca, in general, pe un **VPS**, este preferabil sa aveti un sistem de operare(***OS**) din familia **Linux**(***Linux-VPS***) dar asta nu insemna ca nu veti gasi si oferte de [**Windows-VPS**](https://neuronvm.com/solutions/setup-vpn-on-windows-vps/) sau cu/pt alte ***OS***-uri
+Trebuie sa mai spunem si faptul ca, in general, pe un **VPS**, este preferabil sa aveti un sistem de operare(***OS***) din familia **Linux**(***Linux-VPS***) dar asta nu insemna ca nu veti gasi si oferte de [**Windows-VPS**](https://neuronvm.com/solutions/setup-vpn-on-windows-vps/) sau cu/pt alte ***OS***-uri
