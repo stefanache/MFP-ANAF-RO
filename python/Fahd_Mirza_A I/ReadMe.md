@@ -582,8 +582,10 @@ Aici voi insira o selectie de proiecte [interesante](https://huggingface.co/fahd
    <br/>Acesta este ***Flux.1-dev ControlNet*** pentru imagini cu rezoluție joasă.
  - [Install Perplexica with SearXNG and Ollama and Llama 3.1 for Local AI Search Engine for Free](https://www.fahdmirza.com/2024/07/install-perplexica-with-searxng-and.html)
    <br/>Acest videoclip arată cum să instalați <ins>local</ins> [**Perplexica**](https://www.youtube.com/watch?v=LjTIy0FEkAQ&ab_channel=FahdMirza) cu modelul [**SearXNG**](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbmluQkNzYV80NThsaHhveldkdU1PS0ZEQlhid3xBQ3Jtc0tuV0JvelVJOERkNGZrYVlGNm1JTDR1VTJLQkMtZzhSZmpIYktzc0ctSU1rRm1Ma0pIbDE1RmI0NEtoNWtmWFZWb1cydmtnRHdOZkNqc3JFMjZ5ZHQ5TEVRVUZXNm1jRldobzNOb0pYU3JYV213QUowMA&q=https%3A%2F%2Fwww.fahdmirza.com%2F2024%2F07%2Finstall-perplexica-with-searxng-and.html&v=LjTIy0FEkAQ) și **Ollama** ***Llama 3.1*** și să faceți căutare bazată pe inteligență artificială(**AI**).
+ - [Install **LibreChat** with **Ollama** <ins>Locally</ins> to Chat with Any Model](https://www.youtube.com/watch?v=d9ZV3-YkX-8&ab_channel=FahdMirza)
+ <br/>Acest videoclip arată cum să instalați <ins>local</ins> **LibreChat** și să îl integrați cu ***Ollama***.
+ <br/>Puteți folosi **Llama 3** , **Mistral** sau <i>orice model</i> pentru a [discuta privat și local](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbXduLXdybkROMkFuc3JUdVRyUTBOdGlmblQ2QXxBQ3Jtc0treVBLZ04xZkxvOTExTjZiX1REV2I4blJtV3owTnNOS2hlY0JndF9pZm1UMGlpYzVsWlRVOXlYWFBWNlFyRlhmVHpXd0wyWmdZdzg4U0NDTzlfSmJHckVwQUpJWkVSemhYWTF5elJIblVxMDlYMk03aw&q=https%3A%2F%2Fwww.fahdmirza.com%2F2024%2F05%2Finstall-librechat-locally-with-ollama.html&v=d9ZV3-YkX-8) cu **GUI web**.
 
- 
  - ...
 
 <hr/>
