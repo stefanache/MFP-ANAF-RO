@@ -604,13 +604,13 @@ Aici voi insira o selectie de proiecte [interesante](https://huggingface.co/fahd
   <br/>Pe scurt, este un *tutorial de instalare* **Llama 3** cu un singur clic!
   <br/><ins>Capitole</ins>:
 
-         - 00:00 Introducere
-         - 00:19 Descărcați **GPT4ALL**
-         - 00:52 Descărcați **Llama 3-Instruct** Model 
-         - 01:42 Conversați cu **Llama 3** <ins>local</ins> 
-         - 03:30 Descărcați *modelul de încorporare* pentru asimilarea/inglobarea datelor <ins>locale</ins>
-         - 03:58 Adăugați *folderul documentelor* la *colecție*
-         - 04:48 *Discutați* cu *PDF*-uri folosind 
+   - 00:00 Introducere
+   - 00:19 Descărcați **GPT4ALL**
+   - 00:52 Descărcați **Llama 3-Instruct** Model 
+   - 01:42 Conversați cu **Llama 3** <ins>local</ins> 
+   - 03:30 Descărcați *modelul de încorporare* pentru asimilarea/inglobarea datelor <ins>locale</ins>
+   - 03:58 Adăugați *folderul documentelor* la *colecție*
+   - 04:48 *Discutați* cu *PDF*-uri folosind 
    
          <br/>*Setări avansate* **G05PT**: **l4** *parametri*, *șablon de prompt*,* prompt de sistem*)
    <br/> 🔗 Link-uri
