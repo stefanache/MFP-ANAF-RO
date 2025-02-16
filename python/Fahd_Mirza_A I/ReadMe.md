@@ -600,7 +600,7 @@ Aici voi insira o selectie de proiecte [interesante](https://huggingface.co/fahd
   <br/>Spre deosebire de majoritatea altor *tutoriale* <ins>locale</ins>, acest *tutorial* acoperă și **RAG** <ins>local</ins> cu **Llama 3**.
   <br/>Vom folosi un instrument numit **GPT4All** pentru același lucru.
   <br/>**GPT4ALL** este *gratuit*, *open-source* și, prin urmare, începeți cu **Llama 3** <ins>Local</ins>.
-  <br/>Acest *tutorial* are, de asemenea, o abordare complet *fără-cod* pentru a rula **Llama 3** *fără prompt de comandă* si *fara terminal*.
+  <br/>Acest *tutorial* are, de asemenea, o abordare complet *fără-cod* pentru a rula **Llama 3** *fără-prompt-de-comandă* si *fara-terminal*.
   <br/>Pe scurt, este un *tutorial de instalare* **Llama 3** cu un singur clic!
   <br/><ins>Capitole</ins>:
 
