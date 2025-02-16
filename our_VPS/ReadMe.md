@@ -4,6 +4,7 @@ Am cautat cate ceva despre modul in care ne putem construi, la noi acasa, o conf
 
 In timpul cautarilor, am dat peste cateva *articole interesante*:
 
+ - [***Instructables*** - *forum*: Cum să construiți un server-web/**webserver dedicat(DW)** ?](https://www.instructables.com/How-to-Build-a-Dedicated-Web-Server/)
  - [**Outdel** - *blog*: Cum să faci/construiesti/instalezi un server **VPS** acasă: un ghid cuprinzător](https://blog.oudel.com/how-to-make-a-vps-server-at-home-a-comprehensive-guide/)
  - [**Quora** - *community*: Cum îmi pot construi propriul **VPS**.?](https://www.quora.com/How-can-I-build-my-own-vps)
  - [***reconInfoSec*** - *blog*: Construiți o rețea **Mesh(p2p)** privată gratuită pentru DevOps securizat](https://blog.reconinfosec.com/build-a-private-mesh-network-for-free)
@@ -11,6 +12,7 @@ In timpul cautarilor, am dat peste cateva *articole interesante*:
  - [***cyFuture*** - cloud: How To Create **VPS** On Dedicated Server(**DS**)](https://cyfuture.cloud/kb/dedicated-server/how-to-create-vps-on-dedicated-server)
  - [**blueVPS** - *blog*: Procesul în 5 pași pentru crearea propriului **VPS**](https://bluevps.com/blog/the-5-step-process-for-creating-your-own-vps)
  - [***cloudOYE***: Cum se creează **VPS** pe **Serverul Dedicat(DS)**](https://www.cloudoye.com/kb/dedicated-server/how-to-create-vps-on-dedicated-server)
+
 
 Înainte de a trece la crearea VPS pe un server dedicat , ar fi bine să înțelegem ambele servere în detaliu.
 
