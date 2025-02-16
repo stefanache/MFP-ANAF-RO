@@ -1,6 +1,6 @@
 *Salutare* si ... *Bun venit* la ...  
 
- [**Linkedin: AI Research Roundup**](https://www.google.com/search?q=AI+Research+Roundup&rlz=1C1CHBF_enRO1132RO1132&oq=AI+Research+Roundup&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg8MgYIAhBFGDwyBggDEEUYPNIBCTE3NTBqMGoxNagCCLACAQ&sourceid=chrome&ie=UTF-8) - <a href="https://arxiv.org/html/2501.18492"><i>February 3, 2025</i></a>
+ [**Linkedin: AI Research Roundup(Breviar Cercetare-AI)**](https://www.google.com/search?q=AI+Research+Roundup&rlz=1C1CHBF_enRO1132RO1132&oq=AI+Research+Roundup&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg8MgYIAhBFGDwyBggDEEUYPNIBCTE3NTBqMGoxNagCCLACAQ&sourceid=chrome&ie=UTF-8) - <a href="https://arxiv.org/html/2501.18492"><i>February 3, 2025</i></a>
 
 ... din această săptămână,  unde se explorează:
  - cele mai recente progrese în *modelele*-**AI**(***LLM***-uri),
@@ -447,3 +447,4 @@ Alte *aparitii*:
  - [Cum să construiți **AI** care gândește/rationeaza, prezice și evoluează (February 10, 2025)](https://www.linkedin.com/pulse/ai-roundup-how-build-thinks-predicts-thrives-genai-works-gxq8f/)
  - [Lucrări explicate 306: Ajustarea critică(**CFT**)](https://ritvik19.medium.com/papers-explained-306-critique-fine-tuning-738b25d1b51c)
  - [**RAG** vs reglaj-fin(**FT**): Cum să alegi metoda potrivită](https://www.montecarlodata.com/blog-rag-vs-fine-tuning/)
+ - 
