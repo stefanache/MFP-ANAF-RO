@@ -599,10 +599,11 @@ Aici voi insira o selectie de proiecte [interesante](https://huggingface.co/fahd
   <br/>În acest *tutorial* **Llama 3**, veți învăța cum să rulați **Llama 3** la nivel <ins>local</ins>.
   <br/>Spre deosebire de majoritatea altor *tutoriale* <ins>locale</ins>, acest *tutorial* acoperă și **RAG** <ins>local</ins> cu **Llama 3**.
   <br/>Vom folosi un instrument numit **GPT4All** pentru același lucru.
-  <br/>**GPT4ALL** este *gratuit*, 8open-source* și, prin urmare, începeți cu **Llama 3** <ins>Local</ins>.
-  <br/>Acest *tutorial* are, de asemenea, o abordare complet *fără-cod* pentru a rula *Llama 3* *fără prompt de comandă* sau *terminal*.
+  <br/>**GPT4ALL** este *gratuit*, *open-source* și, prin urmare, începeți cu **Llama 3** <ins>Local</ins>.
+  <br/>Acest *tutorial* are, de asemenea, o abordare complet *fără-cod* pentru a rula **Llama 3** *fără prompt de comandă* si *fara terminal*.
   <br/>Pe scurt, este un *tutorial de instalare* **Llama 3** cu un singur clic!
   <br/><ins>Capitole</ins>:
+
          - 00:00 Introducere
          - 00:19 Descărcați **GPT4ALL**
          - 00:52 Descărcați **Llama 3-Instruct** Model 
@@ -610,6 +611,7 @@ Aici voi insira o selectie de proiecte [interesante](https://huggingface.co/fahd
          - 03:30 Descărcați *modelul de încorporare* pentru asimilarea/inglobarea datelor <ins>locale</ins>
          - 03:58 Adăugați *folderul documentelor* la *colecție*
          - 04:48 *Discutați* cu *PDF*-uri folosind 
+   
          <br/>*Setări avansate* **G05PT**: **l4** *parametri*, *șablon de prompt*,* prompt de sistem*)
    <br/> 🔗 Link-uri
          <br/>🔗 Descărcați **GPT4ALL** [aici](https://gpt4all.io/index.html).
