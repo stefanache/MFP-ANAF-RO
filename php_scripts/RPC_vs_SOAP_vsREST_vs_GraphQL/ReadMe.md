@@ -49,4 +49,4 @@ Pentru vehicularea datelor(incorporate in [aplicație](https://reintech.io/blog/
 
 Aici, am ales sa discutăm, despre utilizarea protocoalelor din/utilizand **PhP**(Web/CLI), dar aceasta analiză, dar exact in acelasi mod, se poate extinde/extrapola si pentru alte/celelalte limbaje de programare(Perl, [Python](https://dev.to/atifwattoo/fastapi-vs-flask-key-differences-and-use-cases-4fce), JS & NodeJS, Go, C++, C#/.Net, Objectiv-C, Java, Kotlin, Ruby, Dart, Rust, LISP, Prolog, ...si lista poate continua!)...
 
-La final, s-auzim numa' de la... ***exceptional** in **sus**!
+La final, s-auzim numa' de la... *[**exceptional**](https://the-guild.dev/blog/graphql-over-websockets) in **sus**!
