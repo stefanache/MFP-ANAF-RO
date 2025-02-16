@@ -615,7 +615,7 @@ Aici voi insira o selectie de proiecte [interesante](https://huggingface.co/fahd
      <br/> 🔗*Link*-uri:
          <br/>Descărcați **GPT4ALL** [🔗aici](https://gpt4all.io/index.html).
  - [Step-by-Step Guide to Create **Free-Dataset** with **Ollama** and **Llama 3.1** <ins>Locally</ins>](https://www.fahdmirza.com/2024/07/step-by-step-guide-to-create-free.html)
-   <br/>Acest [videoclip](https://youtu.be/o4InUVFKPI0) prezintă un ghid ușor pas cu pas pentru a genera un set-de-date(dataset/**ds**) de preferințe aliniate la nivel <ins>local</ins>, utilizând modelul/***LLM***-ul <ins>local</ins> **Llama 3.1 70B**  și/oferit de catre server-ul/managerul de ***LLM***-uri, **Ollama**.
+   <br/>Acest [videoclip](https://youtu.be/o4InUVFKPI0) prezintă un ghid ușor pas cu pas pentru a genera un set-de-date(dataset/**ds**) de preferințe aliniate la nivel <ins>local</ins>, utilizând modelul/***LLM***-ul (asadar un **LLM** rulat in mediul privat/<ins>local</ins>) **Llama 3.1 70B**  și/oferit de catre server-ul/managerul de ***LLM***-uri, **Ollama**.
 
  - ...
 
