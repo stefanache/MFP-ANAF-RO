@@ -625,22 +625,21 @@ Aici voi insira o selectie de proiecte [interesante](https://huggingface.co/fahd
    - Cu cerere *http*
    - Cu *Python* cu ajutorul integratorului/framework-ului **LLama-Index**
 
-Imaginea(*docker*) **Ollama** este gata să funcționeze atât pe dispozitivele ***x86***, cât și pe cele *ARM64*, astfel încât să putem aplica tot ceea ce învățăm astăzi pe ***laptopuri***, ***servere*** sau *SBC* obișnuite. 🔗 [Gist](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbU1lV0x6YVVWRWtGbWVaaXB1U0xBeWpXaWJQZ3xBQ3Jtc0ttNW4xQjZBbDVxQUd0UUU1Qm94OTJiRlg2LWw2T2VTWFNyYU14VjJIXzlQX1BGLURyb2t1Z0RtcUVpLVdCc29RUEEwd0RvdzdWZVFCS1BZM3dnaG9UQkpiRXprQ0lWSW50OVN5dnRrbl90Mk1SS0w4Yw&q=https%3A%2F%2Fgist.github.com%2FJAlcocerT%2F5c406a4f1d18a57469815fa0ef9d6a07&v=jl9bfPsBBcM) cu tot codul și comenzile utilizate în videoclip.
+   <br/>Imaginea(*docker*) **Ollama** este gata să funcționeze atât pe dispozitivele ***x86***, cât și pe cele *ARM64*, astfel încât să putem aplica tot ceea ce învățăm astăzi pe ***laptopuri***, ***servere*** sau *SBC* obișnuite. 🔗 [Gist](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbU1lV0x6YVVWRWtGbWVaaXB1U0xBeWpXaWJQZ3xBQ3Jtc0ttNW4xQjZBbDVxQUd0UUU1Qm94OTJiRlg2LWw2T2VTWFNyYU14VjJIXzlQX1BGLURyb2t1Z0RtcUVpLVdCc29RUEEwd0RvdzdWZVFCS1BZM3dnaG9UQkpiRXprQ0lWSW50OVN5dnRrbl90Mk1SS0w4Yw&q=https%3A%2F%2Fgist.github.com%2FJAlcocerT%2F5c406a4f1d18a57469815fa0ef9d6a07&v=jl9bfPsBBcM) cu tot codul și comenzile utilizate în videoclip.
 
-💻 [Web](https://ollama.ai/)-ul oficial al proiectului: [https://ollama.ai/ ](https://ollama.ai/ )
-<br/>***LLM*** folosit: [https://ollama.ai/library/orca-mini ](https://ollama.ai/library/orca-mini)<br/>
+   <br/>💻 [Web](https://ollama.ai/)-ul oficial al proiectului: [https://ollama.ai/ ](https://ollama.ai/ )
+   <br/>***LLM*** folosit: [https://ollama.ai/library/orca-mini ](https://ollama.ai/library/orca-mini)<br/>
 
-<br/>[Codul-sursă](https://github.com/jmamorganca) al proiectului: [https://github.com/jmamorganca ](https://github.com/jmamorganca)
-<br/>[Imaginea-Docker](https://hub.docker.com/r/ollama/ollama ) a  Proiectului: [https://hub.docker.com/r/ollama/ollama](https://hub.docker.com/r/ollama/ollama ) 
+   <br/>[Codul-sursă](https://github.com/jmamorganca) al proiectului: [https://github.com/jmamorganca ](https://github.com/jmamorganca)
+   <br/>[Imaginea-Docker](https://hub.docker.com/r/ollama/ollama ) a  Proiectului: [https://hub.docker.com/r/ollama/ollama](https://hub.docker.com/r/ollama/ollama ) 
 
-
-🌟 Resurse care ar putea fi interesate 🌟
+   <br/>🌟 Resurse care ar putea fi interesate 🌟
 
    - [fossengineer-tags: **gen-AI**](https://fossengineer.com/tags/gen-ai/)
    - [GH-jalcocert: **RPi**](https://jalcocert.github.io/RPi/)
    - [video](https://www.youtube.com/channel/UCPPMA8ZEusAe5dVH6PbjZFA) / @jalcocertech  
 
-<br/>Self-Host(autogazduire) **NGINX** pentru a furniza **https** lui ***Ollama***: [https://fossengineer.com/selfhosting](https://fossengineer.com/selfhosting)-...
+   <br/>Self-Host(autogazduire) **NGINX** pentru a furniza **https** lui ***Ollama***: [https://fossengineer.com/selfhosting](https://fossengineer.com/selfhosting)-...
 
    - **LLama-Index** (***PyPi***): [https://pypi.org/project/llama-index/](https://pypi.org/project/llama-index/)
    - **LogSec**: [https://github.com/logseq/logseq](https://github.com/logseq/logseq)
