@@ -567,7 +567,8 @@ Aici voi insira o selectie de proiecte interesante(scurt-comentate, traduse cf. 
    <br/>Videoclipul subliniază ușurința instalării și utilizării pe diferite sisteme de operare, inclusiv ***Linux***, ***Windows*** și ***macOS***.
    <br/>Printr-o serie de demonstrații, creatorul arată cum să adauge etichete voastre/personalizate(*Custom Tags*) modelelor, să recupereze informații detaliate despre model(*Filter by Ollama-Tags or Custom-Tags*) și să gestioneze eficient înglobările.
    <br/>Utilizatorii sunt încurajați să exploreze acest instrument inovator și să utilizeze resursele însoțitoare([**wrapper/gist**](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbHIzaXdESVdHb1hQN0FHTVZoTS1TU3pFbTZjZ3xBQ3Jtc0tuQnRJeGNwYU1KRV9QRUdWRzdvN1Q5YV8zamVSTUR4SThfOTJhNXdvandPTUNSYlhGRDZDVjZGQWViZzhqQ1YyX2VtbUR5SWExcXdKbzdJaEdIRDBoeEstUDhTbUVUazJxbTltbFVueVljdHJxMG5EZw&q=https%3A%2F%2Fgist.github.com%2FitsPreto%2F038abe634dd10e9850768cd0b13ed169&v=gCA816T7TsA)) furnizate în descrierea videoclipului.
-   
+ - [Best AI Model to Generate Artwork from Text - **PixelWave** Flux.1-Dev 03 - Install <ins>Locally</ins>](https://www.youtube.com/watch?v=zZKwyns3yL8&ab_channel=FahdMirza)
+   <br/>Acest videoclip arată cum să instalați <ins>local</ins> **PixelWave Flux.1-Dev 03**, care este un model ***FLUX*** de uz general reglat-fin(**FT**), excelent pentru stiluri **artistice** și **foto**. 
  - ...
 
 <hr/>
