@@ -586,7 +586,7 @@ Aici voi insira o selectie de proiecte [interesante](https://huggingface.co/fahd
  <br/>Acest videoclip arată cum să instalați <ins>local</ins> **LibreChat** și să îl integrați cu ***Ollama***.
  <br/>Puteți folosi **Llama 3** , **Mistral** sau <i>orice model</i> pentru a [discuta privat și local](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbXduLXdybkROMkFuc3JUdVRyUTBOdGlmblQ2QXxBQ3Jtc0treVBLZ04xZkxvOTExTjZiX1REV2I4blJtV3owTnNOS2hlY0JndF9pZm1UMGlpYzVsWlRVOXlYWFBWNlFyRlhmVHpXd0wyWmdZdzg4U0NDTzlfSmJHckVwQUpJWkVSemhYWTF5elJIblVxMDlYMk03aw&q=https%3A%2F%2Fwww.fahdmirza.com%2F2024%2F05%2Finstall-librechat-locally-with-ollama.html&v=d9ZV3-YkX-8) cu **GUI web**.
  - [Install **HuggingFace Models** Directly in **Open WebUI** with **Ollama** <ins>Locally</ins>](https://www.youtube.com/watch?v=yLAIWsb5-ls&ab_channel=FahdMirza)
- <br/>Acest videoclip oferă o demonstrație pas cu pas despre cum să rulați oricare dintre ***modelele 45K+ GGUF*** pe **Hugging Face Hub** direct cu **Ollama**(<ins>local</ins>) în **Open WebUI**. 
+ <br/>Acest videoclip oferă o demonstrație pas cu pas despre cum să rulați oricare dintre ***modelele 45K+ GGUF*** pe **Hugging Face Hub** direct cu **Ollama**(<ins>local</ins>) în [**Open WebUI**](https://openwebui.com/). 
  - ...
 
 <hr/>
