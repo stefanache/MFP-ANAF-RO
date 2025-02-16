@@ -597,9 +597,9 @@ Aici voi insira o selectie de proiecte [interesante](https://huggingface.co/fahd
    <br/>Acest videoclip este un tutorial pas cu pas pentru a instala **Open WebUI**(la nivel <ins>local</ins>) și arată noi funcții precum <i>chatul-vocal</i> cu modele-AI(**LLM**-uri) la nivel <ins>local</ins> cu **Ollama**(server de **LLM**-uri).
  - [How-To Run **Llama 3** <ins>LOCALLY</ins> with ***RAG***!!! (***GPT4ALL*** <i>Tutorial</i>)](https://www.youtube.com/live/ZrqCm5jE_nQ)
   <br/>În acest *tutorial* [**Llama 3**](https://ai.meta.com/blog/meta-llama-3/), veți învăța cum să rulați **Llama 3** la nivel <ins>local</ins>.
-  <br/>Spre deosebire de majoritatea altor *tutoriale* <ins>locale</ins>, acest *tutorial* acoperă și **RAG** <ins>local</ins> cu **Llama 3**.
-  <br/>Vom folosi un instrument numit **GPT4All** pentru același lucru.
-  <br/>**GPT4ALL** este *gratuit*, *open-source* și, prin urmare, începeți cu **Llama 3** <ins>Local</ins>.
+  <br/>Spre deosebire de majoritatea altor *tutoriale* <ins>locale</ins>, acest *tutorial* acoperă și construirea unui **RAG** <ins>local</ins> utilizand/cu ***LLM***-ul, instalat local, **Llama 3**.
+  <br/>Vom folosi un instrument(manager de ***LLM***-uri...cum este si ***Ollama***-server) numit **GPT4All** pentru același lucru.
+  <br/>**GPT4ALL** este *gratuit*, *open-source* și, prin urmare, începeți cu ***LLM***-ul **Llama 3** <ins>Local</ins>.
   <br/>Acest *tutorial* are, de asemenea, o abordare complet *fără-cod* pentru a rula **Llama 3** *fără-prompt-de-comandă* si *fara-terminal*.
   <br/>Pe scurt, este un *tutorial de instalare* **Llama 3** cu un singur clic!
   <br/><ins>Capitole</ins>:
