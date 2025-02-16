@@ -596,6 +596,13 @@ Aici voi insira o selectie de proiecte [interesante](https://huggingface.co/fahd
  - [Voice-Chat with **LLM**s <ins>Locally</ins> with **Open WebUI**](https://www.youtube.com/watch?v=z9RaSZIXBBc&ab_channel=FahdMirza)
    <br/>Acest videoclip este un tutorial pas cu pas pentru a instala **Open WebUI**(la nivel <ins>local</ins>) și arată noi funcții precum <i>chatul-vocal</i> cu modele-AI(**LLM**-uri) la nivel <ins>local</ins> cu **Ollama**(server de **LLM**-uri).
  - [How-To Run **Llama 3** <ins>LOCALLY</ins> with ***RAG***!!! (***GPT4ALL*** <i>Tutorial</i>)](https://www.youtube.com/live/ZrqCm5jE_nQ)
+
+<details>   
+<summary>   detalii videoclip...<b>Llama-3</b> - oferit de <i>managerul de LLM</i>-uri <b>GPT4All</b>...</summary>
+
+<hr/>
+
+   
   <br/>În acest *tutorial* [**Llama 3**](https://ai.meta.com/blog/meta-llama-3/), veți învăța cum să rulați **Llama 3** la nivel <ins>local</ins>.
   <br/>Spre deosebire de majoritatea altor *tutoriale* <ins>locale</ins>, acest *tutorial* acoperă și construirea unui **RAG** <ins>local</ins> utilizand/cu ***LLM***-ul, instalat local, **Llama 3**.
   <br/>Vom folosi un instrument(manager de ***LLM***-uri...cum este si ***Ollama***-server) numit **GPT4All** pentru același lucru.
@@ -614,6 +621,11 @@ Aici voi insira o selectie de proiecte [interesante](https://huggingface.co/fahd
      <br/>*Setări avansate* [**GPT4ALL**](https://www.youtube.com/live/ZrqCm5jE_nQ?t=354s): (*parametrii-modelului*, *șablonul de prompt*, *promptul de sistem*)
      <br/> 🔗*Link*-uri:
          <br/>Descărcați **GPT4ALL** [🔗aici](https://gpt4all.io/index.html).
+
+<hr/>
+
+</details>
+
  - [Step-by-Step Guide to Create **Free-Dataset** with **Ollama** and **Llama 3.1** <ins>Locally</ins>](https://www.fahdmirza.com/2024/07/step-by-step-guide-to-create-free.html)
    <br/>Acest [videoclip](https://youtu.be/o4InUVFKPI0) prezintă un ghid ușor pas cu pas pentru a genera un set-de-date(dataset/**ds**) de preferințe aliniate la nivel <ins>local</ins>, utilizând modelul/***LLM***-ul (asadar un **LLM** rulat in mediul privat/<ins>local</ins>) **Llama 3.1 70B**  și/oferit de catre server-ul/managerul de ***LLM***-uri, **Ollama**.
  - [*Self-Hosting* **LLM**s like a *DevOps* - **Ollama**](https://www.youtube.com/watch?v=jl9bfPsBBcM&ab_channel=JAlcocerTech)
