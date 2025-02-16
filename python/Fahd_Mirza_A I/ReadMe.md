@@ -617,6 +617,13 @@ Aici voi insira o selectie de proiecte [interesante](https://huggingface.co/fahd
  - [Step-by-Step Guide to Create **Free-Dataset** with **Ollama** and **Llama 3.1** <ins>Locally</ins>](https://www.fahdmirza.com/2024/07/step-by-step-guide-to-create-free.html)
    <br/>Acest [videoclip](https://youtu.be/o4InUVFKPI0) prezintă un ghid ușor pas cu pas pentru a genera un set-de-date(dataset/**ds**) de preferințe aliniate la nivel <ins>local</ins>, utilizând modelul/***LLM***-ul (asadar un **LLM** rulat in mediul privat/<ins>local</ins>) **Llama 3.1 70B**  și/oferit de catre server-ul/managerul de ***LLM***-uri, **Ollama**.
  - [*Self-Hosting* **LLM**s like a *DevOps* - **Ollama**](https://www.youtube.com/watch?v=jl9bfPsBBcM&ab_channel=JAlcocerTech)
+
+<details>   
+      <summary>detalii videoclip...</summary>
+
+<hr/>
+
+
    <br/>În acest videoclip arătă cum să utilizați **LLM**-urile la nivel <ins>local</ins>, așa cum ar face un *DevOps*.
    <br/>Vom folosi proiectul **Ollama** și îl vom găzdui prin Self-Host cu **Docker**.
    <br/>Apoi, vom alege un model de limbă mare(**LLM**) gratuit(**Orca mini**) și vom vedea cum să interacționăm cu acesta în diferite moduri:
@@ -644,6 +651,10 @@ Aici voi insira o selectie de proiecte [interesante](https://huggingface.co/fahd
    - **LLama-Index** (***PyPi***): [https://pypi.org/project/llama-index/](https://pypi.org/project/llama-index/)
    - **LogSec**: [https://github.com/logseq/logseq](https://github.com/logseq/logseq)
    - **Home Assistant**(***HA***): [https://github.com/home-assistant](https://github.com/home-assistant)
+
+<hr/>
+
+</details>
 
  - ...
 
