@@ -570,7 +570,7 @@ Aici voi insira o selectie de proiecte interesante(scurt-comentate, traduse cf. 
  - [Best AI Model to Generate Artwork from Text - **PixelWave** Flux.1-Dev 03 - Install <ins>Locally</ins>](https://www.youtube.com/watch?v=zZKwyns3yL8&ab_channel=FahdMirza)
    <br/>Acest videoclip arată cum să instalați <ins>local</ins> [**PixelWave Flux.1-Dev 03**](https://civitai.com/models/141592?modelVersionId=992642), care este un model ***FLUX*** de uz general reglat-fin(**FT**), excelent pentru stiluri **artistice** și **foto**.
  - [Install **Flux.1-Dev Upscaler** ***ControlNet*** <ins>Locally</ins> - Upscale Images with Flux](https://www.youtube.com/watch?v=3TBAy9Zg5II&ab_channel=FahdMirza)
-   <br/>Acest videoclip arată cum să instalați modelul [**Flux Dev Upscaler**](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbnB3WkstV2NTVXhCckNiZml6R2IxWVFxS0FOZ3xBQ3Jtc0trdElQZnpvRFdxdWctZ081QVp1WGJUYjNkMVg4QmE1LTJHamdybVlVVFpDb0RXektDcDVJVTFEb0ZUc1lTR20zcWNkUy1MczA0WUgtc0lSQ001cWJqSjBpVkFORHk5RXFNMUFYTzdFRjJNcFVPQl9yTQ&q=https%3A%2F%2Fhuggingface.co%2Fjasperai%2FFlux.1-dev-Controlnet-Upscaler&v=3TBAy9Zg5II) la nivel local și imagini de lux.
+   <br/>Acest videoclip arată cum să instalați modelul [**Flux Dev Upscaler**](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbnB3WkstV2NTVXhCckNiZml6R2IxWVFxS0FOZ3xBQ3Jtc0trdElQZnpvRFdxdWctZ081QVp1WGJUYjNkMVg4QmE1LTJHamdybVlVVFpDb0RXektDcDVJVTFEb0ZUc1lTR20zcWNkUy1MczA0WUgtc0lSQ001cWJqSjBpVkFORHk5RXFNMUFYTzdFRjJNcFVPQl9yTQ&q=https%3A%2F%2Fhuggingface.co%2Fjasperai%2FFlux.1-dev-Controlnet-Upscaler&v=3TBAy9Zg5II) la nivel <ins>local</ins> și imagini de lux(la scara crescuta).
    <br/>Acesta este ***Flux.1-dev ControlNet*** pentru imagini cu rezoluție joasă. 
  - ...
 
