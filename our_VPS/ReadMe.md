@@ -4,6 +4,8 @@ Am cautat cate ceva despre modul in care ne putem construi, la noi acasa, o conf
 
 In timpul cautarilor, am dat peste cateva *articole interesante*:
 
+
+ - [***NAV*** - *blog*: **IP**-**static** vs **IP**-**dinamic**](https://www.nav.ro/blog/am-nevoie-de-un-ip-static/)
  - [***Instructables*** - *forum*: Cum să construiți un server-web/**webserver dedicat(DW)** ?](https://www.instructables.com/How-to-Build-a-Dedicated-Web-Server/)
  - [**Outdel** - *blog*: Cum să faci/construiesti/instalezi un server **VPS** acasă: un ghid cuprinzător](https://blog.oudel.com/how-to-make-a-vps-server-at-home-a-comprehensive-guide/)
  - [**Quora** - *community*: Cum îmi pot construi propriul **VPS**.?](https://www.quora.com/How-can-I-build-my-own-vps)
