@@ -616,6 +616,35 @@ Aici voi insira o selectie de proiecte [interesante](https://huggingface.co/fahd
          <br/>Descărcați **GPT4ALL** [🔗aici](https://gpt4all.io/index.html).
  - [Step-by-Step Guide to Create **Free-Dataset** with **Ollama** and **Llama 3.1** <ins>Locally</ins>](https://www.fahdmirza.com/2024/07/step-by-step-guide-to-create-free.html)
    <br/>Acest [videoclip](https://youtu.be/o4InUVFKPI0) prezintă un ghid ușor pas cu pas pentru a genera un set-de-date(dataset/**ds**) de preferințe aliniate la nivel <ins>local</ins>, utilizând modelul/***LLM***-ul (asadar un **LLM** rulat in mediul privat/<ins>local</ins>) **Llama 3.1 70B**  și/oferit de catre server-ul/managerul de ***LLM***-uri, **Ollama**.
+ - [*Self-Hosting* **LLM**s like a *DevOps* - **Ollama**](https://www.youtube.com/watch?v=jl9bfPsBBcM&ab_channel=JAlcocerTech)
+   <br/>În acest videoclip arătă cum să utilizați **LLM**-urile la nivel <ins>local</ins>, așa cum ar face un *DevOps*.
+   <br/>Vom folosi proiectul **Ollama** și îl vom găzdui prin Self-Host cu **Docker**.
+   <br/>Apoi, vom alege un model de limbă mare(**LLM**) gratuit(**Orca mini**) și vom vedea cum să interacționăm cu acesta în diferite moduri:
+
+ - Prin *terminalul* de *containere*-docker
+ - Cu cerere *http*
+ - Cu *Python* cu ajutorul integratorului/framework-ului **LLama-Index**
+
+Imaginea(*docker*) **Ollama** este gata să funcționeze atât pe dispozitivele ***x86***, cât și pe cele *ARM64*, astfel încât să putem aplica tot ceea ce învățăm astăzi pe ***laptopuri***, ***servere*** sau *SBC* obișnuite. 🔗 [Gist](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbU1lV0x6YVVWRWtGbWVaaXB1U0xBeWpXaWJQZ3xBQ3Jtc0ttNW4xQjZBbDVxQUd0UUU1Qm94OTJiRlg2LWw2T2VTWFNyYU14VjJIXzlQX1BGLURyb2t1Z0RtcUVpLVdCc29RUEEwd0RvdzdWZVFCS1BZM3dnaG9UQkpiRXprQ0lWSW50OVN5dnRrbl90Mk1SS0w4Yw&q=https%3A%2F%2Fgist.github.com%2FJAlcocerT%2F5c406a4f1d18a57469815fa0ef9d6a07&v=jl9bfPsBBcM) cu tot codul și comenzile utilizate în videoclip.
+
+💻 [Web](https://ollama.ai/)-ul oficial al proiectului: [https://ollama.ai/ ](https://ollama.ai/ )
+<br/>***LLM*** folosit: [https://ollama.ai/library/orca-mini ](https://ollama.ai/library/orca-mini)<br/>
+
+<br/>[Codul-sursă](https://github.com/jmamorganca) al proiectului: [https://github.com/jmamorganca ](https://github.com/jmamorganca)
+<br/>[Imaginea-Docker](https://hub.docker.com/r/ollama/ollama ) a  Proiectului: [https://hub.docker.com/r/ollama/ollama](https://hub.docker.com/r/ollama/ollama ) 
+
+
+🌟 Resurse care ar putea fi interesate 🌟
+
+  - [fossengineer-tags: **gen-AI**](https://fossengineer.com/tags/gen-ai/)
+  - [GH-jalcocert: **RPi**](https://jalcocert.github.io/RPi/)
+  - [video](https://www.youtube.com/channel/UCPPMA8ZEusAe5dVH6PbjZFA) / @jalcocertech  
+
+<br/>Self-Host(autogazduire) **NGINX** pentru a furniza **https** lui ***Ollama***: [https://fossengineer.com/selfhosting](https://fossengineer.com/selfhosting)-...
+
+  - **LLama-Index** (***PyPi***): [https://pypi.org/project/llama-index/](https://pypi.org/project/llama-index/)
+  - **LogSec**: [https://github.com/logseq/logseq](https://github.com/logseq/logseq)
+  - **Home Assistant**(***HA***): [https://github.com/home-assistant](https://github.com/home-assistant)
 
  - ...
 
