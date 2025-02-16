@@ -586,7 +586,11 @@ Aici voi insira o selectie de proiecte [interesante](https://huggingface.co/fahd
  <br/>Acest videoclip arată cum să instalați <ins>local</ins> **LibreChat** și să îl integrați cu ***Ollama***.
  <br/>Puteți folosi **Llama 3** , **Mistral** sau <i>orice model</i> pentru a [discuta privat și local](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbXduLXdybkROMkFuc3JUdVRyUTBOdGlmblQ2QXxBQ3Jtc0treVBLZ04xZkxvOTExTjZiX1REV2I4blJtV3owTnNOS2hlY0JndF9pZm1UMGlpYzVsWlRVOXlYWFBWNlFyRlhmVHpXd0wyWmdZdzg4U0NDTzlfSmJHckVwQUpJWkVSemhYWTF5elJIblVxMDlYMk03aw&q=https%3A%2F%2Fwww.fahdmirza.com%2F2024%2F05%2Finstall-librechat-locally-with-ollama.html&v=d9ZV3-YkX-8) cu **GUI web**.
  - [Install **HuggingFace Models** Directly in **Open WebUI** with **Ollama** <ins>Locally</ins>](https://www.youtube.com/watch?v=yLAIWsb5-ls&ab_channel=FahdMirza)
- <br/>Acest videoclip oferă o demonstrație pas cu pas despre cum să rulați oricare dintre ***modelele 45K+ GGUF*** pe **Hugging Face Hub** direct cu **Ollama**(<ins>local</ins>) în [**Open WebUI**](https://openwebui.com/). 
+ <br/>Acest videoclip oferă o demonstrație pas cu pas despre cum să rulați oricare dintre ***modelele 45K+ GGUF*** pe **Hugging Face Hub** direct cu **Ollama**(<ins>local</ins>) în [**Open WebUI**](https://openwebui.com/).
+ - [Run Full DeepSeek-R1 Locally in FP8 on NVIDIA or AMD](https://www.youtube.com/watch?v=0057csl3kaY&ab_channel=FahdMirza)
+ <br/>Acest videoclip este un tutorial pas cu pas pentru a vă arăta cum să instalați și să rulați **DeepSeek-R1**(ca ***LLM***) cu **HF** **TGI** în ***FP8*** ca server.
+ - [Kotaemon - Easy Local RAG UI - GraphRAG cu Ollama - Tutorial](https://www.youtube.com/watch?v=PDtGJ-OwvAM&ab_channel=FahdMirza)
+<br/>Acest videoclip arată cum să instalați local[ kotaemon](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbmFLSU5RWjJhSEx3X0VYWTVuaDgxWXpsejlRQXxBQ3Jtc0tuMEtMdmV0M1pTdkNxZWtGcGd2OGV4SUV4WEV2VllXLVhVVE1EU2xMOXpOV1lHeUdIMWhfNWx0a2ZQTzh3R1VsMUxSWWZWazlhRUpNSnZweWZUN2g4anNuU3BvbFRjTTRwZ3NCV3dnQW5xaFpCRGd4bw&q=https%3A%2F%2Fgithub.com%2FCinnamon%2Fkotaemon&v=PDtGJ-OwvAM), care este o interfață de utilizare *RAG*, cu sursă deschisă curată și personalizabilă, pentru conversația(chat/ a discuta) cu documentele dvs. 
  - ...
 
 <hr/>
