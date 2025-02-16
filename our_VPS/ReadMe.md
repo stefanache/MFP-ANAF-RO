@@ -6,7 +6,7 @@ In timpul cautarilor, am dat peste cateva *articole interesante*(legare sau oare
 
 
  - [***NAV.ro*** - *blog*: **IP**-**static** vs **IP**-**dinamic**](https://www.nav.ro/blog/am-nevoie-de-un-ip-static/)
- - [**geeks4geeks**: Cum să configurați un (server de ...) rețea-privată-virtuală(**VPN**) în ***Windows 11*** - un ghid pentru începători - 2025](https://www.geeksforgeeks.org/how-to-set-up-a-vpn-in-windows-11/)
+ - [**geeks4geeks**: Cum să configurați un (server/serviciu de ...) rețea-privată-virtuală(**VPN**) în ***Windows 11*** - un ghid pentru începători - 2025](https://www.geeksforgeeks.org/how-to-set-up-a-vpn-in-windows-11/)
  - [**ouDel** - *blog*: Cum să vă conectați **VPN** în laptop/desktop **Windows 11**(gratuit)](https://blog.oudel.com/how-to-vpn-connect-in-laptop-windows-11-for-free/)
  - [***Instructables*** - *forum*: Cum să construiți un server-web/**webserver dedicat(DW)** ?](https://www.instructables.com/How-to-Build-a-Dedicated-Web-Server/)
  - [**ouDel** - *blog*: Cum să faci/construiesti/instalezi un server **VPS** acasă: un ghid cuprinzător](https://blog.oudel.com/how-to-make-a-vps-server-at-home-a-comprehensive-guide/)
