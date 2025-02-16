@@ -605,7 +605,7 @@ Aici voi insira o selectie de proiecte [interesante](https://huggingface.co/fahd
   <br/><ins>Capitole</ins>:
 
    - 00:00 Introducere
-   - 00:19 [Descărcați](https://gpt4all.io/index.html) **GPT4ALL**
+   - 00:19 [Descărcați](https://gpt4all.io/index.html) **RAG**-ul [**GPT4ALL**](https://docs.gpt4all.io/)
    - 00:52 [Descărcați](https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct) [**Llama 3-Instruct**](https://www.reddit.com/r/LocalLLaMA/comments/1ct5h16/llama_3_vs_llama_3_instruct/) Model(***LLM***) 
    - 01:42 Conversați cu ***LLM***-ul **Llama 3** <ins>local</ins> 
    - 03:30 Descărcați *modelul de încorporare* pentru asimilarea/inglobarea datelor <ins>locale</ins>
