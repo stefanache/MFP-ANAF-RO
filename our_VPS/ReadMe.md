@@ -18,10 +18,12 @@ In timpul cautarilor, am dat peste cateva *articole interesante*(legare sau oare
  - [***cloudOYE***: Cum se creează **VPS** pe **Serverul Dedicat(DS)**](https://www.cloudoye.com/kb/dedicated-server/how-to-create-vps-on-dedicated-server)
 
 
-Înainte de a trece la crearea VPS pe un server dedicat , ar fi bine să înțelegem ambele servere în detaliu.
+Înainte de a trece la crearea unui server **VPS** pe un server dedicat(**DS**) , ar fi bine să înțelegem ambele servere în detaliu.
 
 
 Un server dedicat(**DS**) este o *mașină fizică* care este *complet dedicată* unei *singure persoane* și răspunde *exclusiv* cerințelor acelei persoane. 
 <br/>Pe de altă parte, un **VPS** (Virtual Private Server) este similar cu un server dedicat(**DS**) care oferă utilizatorului *acces root complet*. 
 <br/>Un server dedicat(**DS**) este împărțit în mai multe *servere virtuale* folosind tehnologia *virtualizării*. 
-<br/>Cea mai bună parte a utilizării unui *serviciu de găzduire* **VPS** este că aveți *acces direct* la mai multe *resurse de server* care vă ajută să îmbunătățiți *performanța* generală a *site*-ului. 
+<br/>Cea mai bună parte a utilizării unui *serviciu de găzduire* **VPS** este că aveți *acces direct* la mai multe *resurse de server* care vă ajută să îmbunătățiți *performanța* generală a *site*-ului.
+
+Trebuie sa mai spunem si faptul ca in general, pe un **VPS** este de preferat un sveti un sistem de operare(***OS**) din familia **Linux**(***Linux-VPS***) dar asta nu insemna ca nu veti gasi si oferte de [**Windows-VPS**](https://neuronvm.com/solutions/setup-vpn-on-windows-vps/) sau cu/pt alte ***OS***-uri
