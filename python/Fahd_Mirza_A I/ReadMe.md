@@ -611,7 +611,7 @@ Aici voi insira o selectie de proiecte [interesante](https://huggingface.co/fahd
    - 03:30 Descărcați *modelul de încorporare* pentru asimilarea/inglobarea datelor <ins>locale</ins>
    - 03:58 Adăugați *folderul documentelor* la *colecție*
    - 04:48 *Discutați* cu *PDF*-uri folosind 
-     <br/>*Setări avansate* [**G05PT**](https://www.youtube.com/live/ZrqCm5jE_nQ?t=354s): (*parametrii-modelului*, *șablonul de prompt*, *promptul de sistem*)
+     <br/>*Setări avansate* [**GPT4ALL**](https://www.youtube.com/live/ZrqCm5jE_nQ?t=354s): (*parametrii-modelului*, *șablonul de prompt*, *promptul de sistem*)
      <br/> 🔗*Link*-uri:
          <br/>Descărcați **GPT4ALL** [🔗aici](https://gpt4all.io/index.html).
  - ...
