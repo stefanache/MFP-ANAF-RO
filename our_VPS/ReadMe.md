@@ -1,6 +1,6 @@
 Salut!
 
-Am cautat cate ceva despre modul in care ne putem construi la noi acasa o configuratie gratuita de server VPS/VPC/DS.
+Am cautat cate ceva despre modul in care ne putem construi, la noi acasa, o configuratie gratuita de (server) **VPS** / **VPC** / **DS**.
 
 In timpul cautarilor, am dat peste cateva articole interesante:
 
