@@ -579,7 +579,11 @@ Aici voi insira o selectie de proiecte [interesante](https://huggingface.co/fahd
    <br/>Acest videoclip arată cum să instalați <ins>local</ins> [**PixelWave Flux.1-Dev 03**](https://civitai.com/models/141592?modelVersionId=992642), care este un model ***FLUX*** de uz general reglat-fin(**FT**), excelent pentru stiluri **artistice** și **foto**.
  - [Install **Flux.1-Dev Upscaler** ***ControlNet*** <ins>Locally</ins> - Upscale Images with Flux](https://www.youtube.com/watch?v=3TBAy9Zg5II&ab_channel=FahdMirza)
    <br/>Acest videoclip arată cum să instalați modelul [**Flux Dev Upscaler**](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbnB3WkstV2NTVXhCckNiZml6R2IxWVFxS0FOZ3xBQ3Jtc0trdElQZnpvRFdxdWctZ081QVp1WGJUYjNkMVg4QmE1LTJHamdybVlVVFpDb0RXektDcDVJVTFEb0ZUc1lTR20zcWNkUy1MczA0WUgtc0lSQ001cWJqSjBpVkFORHk5RXFNMUFYTzdFRjJNcFVPQl9yTQ&q=https%3A%2F%2Fhuggingface.co%2Fjasperai%2FFlux.1-dev-Controlnet-Upscaler&v=3TBAy9Zg5II) la nivel <ins>local</ins> și imagini de lux(la scara crescuta).
-   <br/>Acesta este ***Flux.1-dev ControlNet*** pentru imagini cu rezoluție joasă. 
+   <br/>Acesta este ***Flux.1-dev ControlNet*** pentru imagini cu rezoluție joasă.
+   [Install Perplexica with SearXNG and Ollama and Llama 3.1 for Local AI Search Engine for Free](https://www.fahdmirza.com/2024/07/install-perplexica-with-searxng-and.html)
+   <br/>Acest videoclip arată cum să instalați <ins>local</ins> [**Perplexica**](https://www.youtube.com/watch?v=LjTIy0FEkAQ&ab_channel=FahdMirza) cu modelul **SearXNG** și **Ollama** ***Llama 3.1*** și să faceți căutare bazată pe inteligență artificială(**AI**).
+
+ 
  - ...
 
 <hr/>
