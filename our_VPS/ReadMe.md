@@ -2,7 +2,7 @@ Salut!
 
 Am cautat cate ceva despre modul in care ne putem construi, la noi acasa, o configuratie gratuita de (server) **VPS** / **VPC** / **DS**.
 
-In timpul cautarilor, am dat peste cateva *articole interesante*:
+In timpul cautarilor, am dat peste cateva *articole interesante*(legare sau oarecum legate de acest subiect!):
 
 
  - [***NAV.ro*** - *blog*: **IP**-**static** vs **IP**-**dinamic**](https://www.nav.ro/blog/am-nevoie-de-un-ip-static/)
