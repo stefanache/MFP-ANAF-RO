@@ -596,7 +596,7 @@ Aici voi insira o selectie de proiecte [interesante](https://huggingface.co/fahd
  - [Voice-Chat with **LLM**s <ins>Locally</ins> with **Open WebUI**](https://www.youtube.com/watch?v=z9RaSZIXBBc&ab_channel=FahdMirza)
    <br/>Acest videoclip este un tutorial pas cu pas pentru a instala **Open WebUI**(la nivel <ins>local</ins>) și arată noi funcții precum <i>chatul-vocal</i> cu modele-AI(**LLM**-uri) la nivel <ins>local</ins> cu **Ollama**(server de **LLM**-uri).
  - [How-To Run **Llama 3** <ins>LOCALLY</ins> with ***RAG***!!! (***GPT4ALL*** <i>Tutorial</i>)](https://www.youtube.com/live/ZrqCm5jE_nQ)
-  <br/>În acest *tutorial* **Llama 3**, veți învăța cum să rulați **Llama 3** la nivel <ins>local</ins>.
+  <br/>În acest *tutorial* [**Llama 3**](https://ai.meta.com/blog/meta-llama-3/), veți învăța cum să rulați **Llama 3** la nivel <ins>local</ins>.
   <br/>Spre deosebire de majoritatea altor *tutoriale* <ins>locale</ins>, acest *tutorial* acoperă și **RAG** <ins>local</ins> cu **Llama 3**.
   <br/>Vom folosi un instrument numit **GPT4All** pentru același lucru.
   <br/>**GPT4ALL** este *gratuit*, *open-source* și, prin urmare, începeți cu **Llama 3** <ins>Local</ins>.
@@ -605,13 +605,13 @@ Aici voi insira o selectie de proiecte [interesante](https://huggingface.co/fahd
   <br/><ins>Capitole</ins>:
 
    - 00:00 Introducere
-   - 00:19 Descărcați **GPT4ALL**
-   - 00:52 Descărcați **Llama 3-Instruct** Model 
-   - 01:42 Conversați cu **Llama 3** <ins>local</ins> 
+   - 00:19 [Descărcați](https://gpt4all.io/index.html) **GPT4ALL**
+   - 00:52 [Descărcați](https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct) [**Llama 3-Instruct**](https://www.reddit.com/r/LocalLLaMA/comments/1ct5h16/llama_3_vs_llama_3_instruct/) Model(***LLM***) 
+   - 01:42 Conversați cu ***LLM***-ul **Llama 3** <ins>local</ins> 
    - 03:30 Descărcați *modelul de încorporare* pentru asimilarea/inglobarea datelor <ins>locale</ins>
    - 03:58 Adăugați *folderul documentelor* la *colecție*
    - 04:48 *Discutați* cu *PDF*-uri folosind 
-     <br/>*Setări avansate* **G05PT**: *l4parametri*, *șablon de prompt*, *prompt de sistem*
+     <br/>*Setări avansate* [**G05PT**](https://www.youtube.com/live/ZrqCm5jE_nQ?t=354s): *l4parametri*, *șablon de prompt*, *prompt de sistem*
      <br/> 🔗*Link*-uri:
          <br/>Descărcați **GPT4ALL** [🔗aici](https://gpt4all.io/index.html).
  - ...
