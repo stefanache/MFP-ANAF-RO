@@ -538,6 +538,8 @@ Daca doriti, sa aflati,  care/ce [**marime de LLM**](https://www.youtube.com/wat
 
 <details>
       <summary>La final, voi enumera cateva dintre proiectele interesante, prezentate pe YouTube(YT), de catre domnul <b>Fahd-Mirza</b>....</summary>
+
+<hr/>
       
 Aici voi insira o selectie de proiecte [interesante](https://huggingface.co/fahdmirzac)(scurt-comentate, traduse cf. ***YT***: [**Fahd-Mirza**](https://www.youtube.com/@fahdmirza)):
 
