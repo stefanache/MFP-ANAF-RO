@@ -594,7 +594,25 @@ Aici voi insira o selectie de proiecte [interesante](https://huggingface.co/fahd
  - [**Qwen**-***Agent*** with **Ollama**: Plan, Tool-Use, Memory of **Qwen** - Install <ins>Locally</ins>](https://www.youtube.com/watch?v=EbxLmxjL8v4&ab_channel=FahdMirza)
    <br/>Acest videoclip arată cum să instalați <ins>local</ins> [**Qwen**-***Agent***](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa2hCWWRpZkxrbk9yMWpmeUVfY2JhTHBPUUZid3xBQ3Jtc0trQ1V5NlVLeFI0OTlJWnlkcnpha3Z5UkdnN25CN1EtOXc3Q0c1dnk1RmpaUmt3WFZvbEVCajJJbU9HUDViMzJxNDkwZWJQZ3FJeXU3RXh0Z3NTSnJmdVE1bEM1cUtqYXFHOG40NHoyVy13TEZKWGNlTQ&q=https%3A%2F%2Fgithub.com%2FQwenLM%2FQwen-Agent&v=EbxLmxjL8v4), care este un cadru pentru dezvoltarea aplicațiilor-**LLM** bazate pe instrucțiunile care urmează, utilizarea instrumentelor, planificarea și capacitățile de memorare ale **Qwen**.
  - [Voice-Chat with **LLM**s <ins>Locally</ins> with **Open WebUI**](https://www.youtube.com/watch?v=z9RaSZIXBBc&ab_channel=FahdMirza)
-   <br/>Acest videoclip este un tutorial pas cu pas pentru a instala **Open WebUI**(la nivel <ins>local</ins>) și arată noi funcții precum <i>chatul-vocal</i> cu modele-AI(**LLM**-uri) la nivel <ins>local</ins> cu **Ollama**(server de **LLM**-uri).  
+   <br/>Acest videoclip este un tutorial pas cu pas pentru a instala **Open WebUI**(la nivel <ins>local</ins>) și arată noi funcții precum <i>chatul-vocal</i> cu modele-AI(**LLM**-uri) la nivel <ins>local</ins> cu **Ollama**(server de **LLM**-uri).
+ - [How-To Run **Llama 3** <ins>LOCALLY</ins> with ***RAG***!!! (***GPT4ALL*** <i>Tutorial</i>)](https://www.youtube.com/live/ZrqCm5jE_nQ)
+  <br/>În acest *tutorial* **Llama 3**, veți învăța cum să rulați **Llama 3** la nivel <ins>local</ins>.
+  <br/>Spre deosebire de majoritatea altor *tutoriale* <ins>locale</ins>, acest *tutorial* acoperă și **RAG** <ins>local</ins> cu **Llama 3**.
+  <br/>Vom folosi un instrument numit **GPT4All** pentru același lucru.
+  <br/>**GPT4ALL** este *gratuit*, 8open-source* și, prin urmare, începeți cu **Llama 3** <ins>Local</ins>.
+  <br/>Acest *tutorial* are, de asemenea, o abordare complet *fără-cod* pentru a rula *Llama 3* *fără prompt de comandă* sau *terminal*.
+  <br/>Pe scurt, este un *tutorial de instalare* **Llama 3** cu un singur clic!
+  <br/><ins>Capitole</ins>:
+         - 00:00 Introducere
+         - 00:19 Descărcați **GPT4ALL**
+         - 00:52 Descărcați **Llama 3-Instruct** Model 
+         - 01:42 Conversați cu **Llama 3** <ins>local</ins> 
+         - 03:30 Descărcați *modelul de încorporare* pentru asimilarea/inglobarea datelor <ins>locale</ins>
+         - 03:58 Adăugați *folderul documentelor* la *colecție*
+         - 04:48 *Discutați* cu *PDF*-uri folosind 
+         <br/>*Setări avansate* **G05PT**: **l4** *parametri*, *șablon de prompt*,* prompt de sistem*)
+   <br/> 🔗 Link-uri
+         <br/>🔗 Descărcați **GPT4ALL** [aici](https://gpt4all.io/index.html).
  - ...
 
 <hr/>
