@@ -10,4 +10,4 @@ In timpul cautarilor, am dat peste cateva *articole interesante*:
  - [**webHostIngGeeks**: Cum să configurați un server-dedicat(**DS**) pentru site-ul dvs. în doar 9 pași](https://webhostinggeeks.com/howto/9-steps-to-setup-dedicated-server/)
  - [***cyFuture*** - cloud: How To Create **VPS** On Dedicated Server(**DS**)](https://cyfuture.cloud/kb/dedicated-server/how-to-create-vps-on-dedicated-server)
  - [**blueVPS** - *blog*: Procesul în 5 pași pentru crearea propriului **VPS**](https://bluevps.com/blog/the-5-step-process-for-creating-your-own-vps)
- - [***cloudOYE***: How to create **VPS** on **Dedicated Server(DS)**](https://www.cloudoye.com/kb/dedicated-server/how-to-create-vps-on-dedicated-server)
+ - [***cloudOYE***: Cum se creează **VPS** pe **Serverul Dedicat(DS)**](https://www.cloudoye.com/kb/dedicated-server/how-to-create-vps-on-dedicated-server)
