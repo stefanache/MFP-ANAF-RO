@@ -557,6 +557,13 @@ Aici voi insira o selectie de proiecte [interesante](https://huggingface.co/fahd
  - [**DeepScaleR 1.5B** - *Fine-Tuned(FT)* from *Distilled DeepSeek* with *Long Context* - Install *Locally*](https://www.youtube.com/watch?v=Im3TOjz4UcM&ab_channel=FahdMirza)
    <br/>Acest videoclip este un tutorial pas cu pas pentru a vă arăta cum să instalați și să rulați [**DeepScaleR-1.5B-Preview**](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbldIUndsUEJ2QnRvYmhIS2Fabm55SXVwckw0UXxBQ3Jtc0tuM3EyeEVQRjlQVGlGYlJzaGktamZKaDByQjZUMGNBeUxRaVNrREQ0aUkzNkFVa2t1Y3ZSS21fNWt5elQwLXNYQjJ1SlRJWWdwNVBfZkJYbngwM1U1QUIwck5SZkt1QlpmdGFuUjBwLVR4V3NpNmlSOA&q=https%3A%2F%2Fhuggingface.co%2Fagentica-org%2FDeepScaleR-1.5B-Preview&v=Im3TOjz4UcM) <ins>local</ins> și să îl testați.
  - [**NanoSage** - ***Deep-Research*** *Assistant* - Install *Locally* with ***Ollama*** and *Run on CPU*](https://www.youtube.com/watch?v=9hhuEbLcT-c&ab_channel=FahdMirza)
+
+<details>   
+<summary>   detalii videoclip...<b>NanoSage</b> - bazat pe server-ul de <b>LLM</b>-uri <i>Ollama</i>...</summary>
+
+<hr/>
+
+   
    <br/>Acest videoclip instalează <ins>local</ins> [**NanoSage**](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbnBuNTEzMWZLeVVKb0V0UnJkbkRnMlJXXzZJUXxBQ3Jtc0ttSUlpWFVlR3FSZmVxXzlvUTA0TjN1LUI0amZjaW5ULTBUanIwVDlacDJ2M3hoaGpsaHE1MnFIdF9qMDFqT2l5eERhc211YXhzajlXQmFZdmdfT2pqT056c09GUy1Td3VGQm8xUkptZE1qbG5UTmFjUQ&q=https%3A%2F%2Fgithub.com%2FmasterFoad%2FNanoSage&v=9hhuEbLcT-c), care este un asistent propus de ***Deep-Research*** si care rulează pe <ins>laptop(*Run on CPU*</ins>, folosind modele minuscule(modele foarte mici: ***nano-modele***).
     <br/>Prin ce diferă **NanoSage** de alți cercetători asistenți?
 <br/>Oferă o defalcare/despica/impartire *structurată*(gen/un fel de *tabel-de-BD*) a unui canal de *căutare*-*recursiv*, bazat pe *relevanță/importanta*, cu mai multe surse(*multi-sursa*).
@@ -567,6 +574,10 @@ Aici voi insira o selectie de proiecte [interesante](https://huggingface.co/fahd
 <br/>Am vrut să experimentez noi metode de cercetare, așa că m-am gândit că, practic, atunci când cercetăm un subiect, explorăm aleatoriu idei noi în timp ce căutăm, iar **NanoSage** practic face asta!
 <br/>Își explorează și înregistrează călătoria, unde fiecare pas (*relevant*) este un nod... și apoi vi-l rezumă într-un <ins>raport</ins> frumos!
 <br/>Unde tabelul de conținut(***TOC***) este practic graficul/planul său de căutare.
+<hr/>
+
+</details>
+
  - [*kimi.ai* Releases **Kimi** and **K1.5 Loong Thinking**](https://www.youtube.com/watch?v=ch3zn_i0Fak&t=52s&ab_channel=FahdMirza)
    <br/>Acest videoclip face o trecere în revistă aprofundată a modelelor [**Kimi**](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa21oOFgtc25zNVBpbzRBNzhSZ2lCU0lUS0tld3xBQ3Jtc0tsMVZtSlc1Y2xnUWxiZFlQV2RUYmJnVk5vaEh0UXZpUk9kellrMldIMXlRVkNHVTQ1ektZdEZ5V2Nid3FDSXdGZDNQMURlN044bGQtR01vcEEwYmdibjNiRzZudndxX0c0Q2JNVnVIOGFuVlNvMkxhOA&q=https%3A%2F%2Fkimi.ai%2F&v=ch3zn_i0Fak) și [**K1.5 Loong Thinking**](https://huggingface.co/papers/2501.12599)([Gândire (inden-)lung(-ată)](https://www.youtube.com/watch?v=551oCIW5IH4&ab_channel=ArxivPapers)).
  - [**Ollama Model Manager** - *Filter and Custom Tags* with Models *Locally*](https://www.youtube.com/watch?v=gCA816T7TsA&ab_channel=FahdMirza)
