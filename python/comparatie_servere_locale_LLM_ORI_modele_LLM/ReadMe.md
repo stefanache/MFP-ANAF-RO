@@ -10,3 +10,4 @@ Aici voi plasa cateva link-uri interesante legate de subiectul **LLM**-urilor:
  - [Large Language Models(**LLM**s) for *finance*](https://www.scnsoft.com/finance/large-language-models)
  - [Exploring Architectures and Capabilities of Foundational **LLM**s](https://www.aporia.com/learn/exploring-architectures-and-capabilities-of-foundational-llms/)
  - [Emerging(in curs de dezvoltare) Large Language Model (**LLM**) Application Architecture](https://cobusgreyling.medium.com/emerging-large-language-model-llm-application-architecture-cba0e7862037)
+ - [Selecting Model Architecture & Design In **LLM** Development](https://botpenguin.com/blogs/selecting-model-architecture-and-design-in-llm-development)
