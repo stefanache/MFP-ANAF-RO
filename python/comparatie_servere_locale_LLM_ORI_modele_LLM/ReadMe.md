@@ -27,3 +27,4 @@ Aici voi plasa cateva link-uri interesante legate de subiectul **LLM**-urilor:
  - [Architect scalable and cost-effective **LLM** & **RAG** inference pipelines](https://decodingml.substack.com/p/architect-scalable-and-cost-effective)
  - [**LLM** Orchestration: How to Successfully Implement Large Language Models(**LLM**s) for Your Competitive Advantage](https://masterofcode.com/blog/llm-orchestration)
  - [Introduction to *Multi-Agent* Architecture for **LLM**-Based Applications](https://www.reply.com/aim-reply/en/content/introduction-to-multi-agent-architecture-for-llm-based-applications)
+ - [**AI** *Agents* Reference Architecture](https://medium.datadriveninvestor.com/ai-agent-platform-reference-architecture-0be5b19d0eba)
