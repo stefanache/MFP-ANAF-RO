@@ -3,7 +3,7 @@ Aveti [aici](https://github.com/stefanache/MFP-ANAF-RO/tree/main/python/comparat
 Deschideti fisierele ***.url*** si "pescuiti"/decupati **Link**-ul respectiv(aflat la finele textului/continutului)
 
 
-Aici voi plasa cateva link-uri interesante legate de subiectul **LLM**-urilor:
+Aici voi plasa cateva link-uri de articole interesante legate de subiecte **LLM**-centrate:
 
  - [***NVIDIA*** **AI** Foundation Models: Build *Custom Enterprise Chatbots* and *Co-Pilots* with *Production-Ready* **LLM**s](https://developer.nvidia.com/blog/nvidia-ai-foundation-models-build-custom-enterprise-chatbots-and-co-pilots-with-production-ready-llms/)
  - [High-Level Overview of AI **LLM** Framework Architecture](https://medium.com/springchain-ai/high-level-overview-of-ai-framework-architecture-18c6ee92f651)
@@ -66,4 +66,5 @@ Aici voi plasa cateva link-uri interesante legate de subiectul **LLM**-urilor:
  - [Empowering Leaders. Inspiring Innovation.](https://www.infotech.com/)
  - [Building **RAG** based model using *Langchain* **rag** *langchain* *tutorial* **rag** *langchain* *huggingface*](https://www.mindluster.com/lesson/374999-video)
  - [How I Built an **LLM**-Powered *CAD* System for *Bicycle Highways*](https://wandb.ai/sertingolix/llm-config/reports/How-I-Built-an-LLM-Powered-CAD-System-for-Bicycle-Highways--Vmlldzo1MDU2NjU1)
+ - [Large Language Models: A Survey](https://arxiv.org/html/2402.06196v2)
  - [...](https://www.google.com/search?sca_esv=89dbe79c79dccf28&rlz=1C1CHBF_enRO1132RO1132&sxsrf=AHTn8zpV4HWUkOXt3Zbt5v320xEEtujueA:1739778188832&q=architecture+AI+LLM+model+for+accounting&udm=2&fbs=ABzOT_BYhiZpMrUAF0c9tORwPGls0vqphpL9nGKy0PrLJqseLh0EQ6IW_YF9DHIKeRA2FImZJj7_nGLmr0IdZilOghZzThSalmrHNRWCGX2YxyYX3_tqwCfmw9Pi430PUlz78-Mb7bmhjR6IdIHjO2ABOmRUIyVCmILjhUI-aLBKzAp7Pc6RWb7t7l4EyP3Vc370Gi_vj7Pd&sa=X&ved=2ahUKEwjttrvnmsqLAxVvQvEDHY0lClcQtKgLegQIFRAB&biw=1920&bih=911&dpr=1#vhid=aeDnK_4DZbQUfM&vssid=mosaic)
