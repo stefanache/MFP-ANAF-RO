@@ -5,6 +5,7 @@ Deschideti fisierele ***.url*** si "pescuiti"/decupati **Link**-ul respectiv(afl
 
 Aici voi plasa cateva link-uri interesante legate de subiectul **LLM**-urilor:
 
+ - [***NVIDIA*** **AI** Foundation Models: Build *Custom Enterprise Chatbots* and *Co-Pilots* with *Production-Ready* **LLM**s](https://developer.nvidia.com/blog/nvidia-ai-foundation-models-build-custom-enterprise-chatbots-and-co-pilots-with-production-ready-llms/)
  - [High-Level Overview of AI **LLM** Framework Architecture](https://medium.com/springchain-ai/high-level-overview-of-ai-framework-architecture-18c6ee92f651)
  - [AI for *financial reporting*: Use cases and applications, architecture, benefits, best practices and future trends](https://www.leewayhertz.com/ai-for-financial-reporting/)
  - [Large Language Models(**LLM**s) for *finance*](https://www.scnsoft.com/finance/large-language-models)
