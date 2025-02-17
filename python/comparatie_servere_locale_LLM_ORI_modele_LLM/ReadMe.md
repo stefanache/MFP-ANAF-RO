@@ -22,3 +22,4 @@ Aici voi plasa cateva link-uri interesante legate de subiectul **LLM**-urilor:
  - [A Survey of Large Language Models in Finance (**FinLLM**s)](https://gptinvest.ai/a-survey-of-large-language-models-in-finance-finllms/)
  - [The **LLM**s kit: Build a production-ready real-time financial advisor system using streaming pipelines, **RAG**, and **LLM**Ops](https://medium.com/decodingml/the-llms-kit-build-a-production-ready-real-time-financial-advisor-system-using-streaming-ffdcb2b50714)
  - [**CancerGPT** for few shot drug pair synergy prediction using large pretrained language models](https://www.researchgate.net/publication/378331045_CancerGPT_for_few_shot_drug_pair_synergy_prediction_using_large_pretrained_language_models)
+ - [Exploring Architectures and Capabilities of Foundational **LLM**s](https://www.aporia.com/learn/exploring-architectures-and-capabilities-of-foundational-llms/)
