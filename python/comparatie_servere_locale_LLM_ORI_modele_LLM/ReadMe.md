@@ -16,3 +16,4 @@ Aici voi plasa cateva link-uri interesante legate de subiectul **LLM**-urilor:
  - [**NLP** and **LLM** Applications in *Accounting*](https://www.mercity.ai/blog-post/nlp-and-llm-in-accounting)
  - [Reference Architecture for **Generative AI** Based on Large Language Models (**LLM**s)](https://lenovopress.lenovo.com/lp1798-reference-architecture-for-generative-ai-based-on-large-language-models)
  - [**LLM** application architecture](https://medium.com/@terrycho/llm-application-architecture-b5e4425c73e1)
+ - [Generative AI — **LLM**Ops Architecture Patterns](https://medium.datadriveninvestor.com/generative-ai-llmops-deployment-architecture-patterns-6d45d1668aba)
