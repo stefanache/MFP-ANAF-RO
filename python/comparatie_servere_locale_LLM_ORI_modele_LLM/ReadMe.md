@@ -28,3 +28,6 @@ Aici voi plasa cateva link-uri interesante legate de subiectul **LLM**-urilor:
  - [**LLM** Orchestration: How to Successfully Implement Large Language Models(**LLM**s) for Your Competitive Advantage](https://masterofcode.com/blog/llm-orchestration)
  - [Introduction to *Multi-Agent* Architecture for **LLM**-Based Applications](https://www.reply.com/aim-reply/en/content/introduction-to-multi-agent-architecture-for-llm-based-applications)
  - [**AI** *Agents* Reference Architecture](https://medium.datadriveninvestor.com/ai-agent-platform-reference-architecture-0be5b19d0eba)
+ - [Enterprise **LLM**s Choose](https://www.cubedrive.com/enterpriseAI-LLM-choose/)
+ - [**LLM** Architectures — the Building Blocks](https://www.startuphub.ai/llm-architectures-the-building-blocks/)
+ - [Mastering **LLM** *Gateway*: A Developer’s Guide to AI Model Interfacing](https://www.qwak.com/post/llm-gateway)
