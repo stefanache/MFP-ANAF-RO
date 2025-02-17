@@ -6,3 +6,4 @@ Deschideti fisierele ***.url*** si "pescuiti"/decupati **Link**-ul respectiv(afl
 Aici voi plasa cateva link-uri interesante legate de subiectul **LLM**-urilor:
 
  - [High-Level Overview of AI **LLM** Framework Architecture](https://medium.com/springchain-ai/high-level-overview-of-ai-framework-architecture-18c6ee92f651)
+ - [AI for *financial reporting*: Use cases and applications, architecture, benefits, best practices and future trends](https://www.leewayhertz.com/ai-for-financial-reporting/)
