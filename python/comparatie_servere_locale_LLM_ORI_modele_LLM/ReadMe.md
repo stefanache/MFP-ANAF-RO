@@ -49,7 +49,7 @@ Aici voi plasa cateva link-uri interesante legate de subiectul **LLM**-urilor:
  - [Apache Kafka(**AK**) + Vector Database(**VecDB**) + **LLM** = Real-Time(**RT**) **GenAI**](https://www.kai-waehner.de/blog/2023/11/08/apache-kafka-flink-vector-database-llm-real-time-genai/)
  - [Vinija's **AI** Note: Primers • Overview of Large Language Models(**LLM**s)](https://vinija.ai/models/LLM/)
  - [**GenAI** *Financial* Default Prediction | Building **RAG** Framework *Zypher 7B LLM* and *Hugging Face(**HF**)*](https://www.youtube.com/watch?v=7-MhFw4qR_o&ab_channel=FreeBirdsCrew-DataScienceandGenAI)
- - [Enable a Low Code Modular **LLM** App Engine using *Oracle Integration* and *OCI Generative AI*](https://docs.oracle.com/en/solutions/oci-generative-ai-integration/index.html#GUID-0C310162-34D9-4EB2-978D-FBAFB931E637)
+ - [Enable a Low Code Modular **LLM** App Engine using *Oracle Integration* and *OCI Generative AI*; Oracle Cloud Infrastructure=OCI](https://docs.oracle.com/en/solutions/oci-generative-ai-integration/index.html#GUID-0C310162-34D9-4EB2-978D-FBAFB931E637)
  - [Empowering Information Architecture with **AI**: A Practical Experiment](https://jarango.com/2023/11/13/empowering-information-architecture-with-ai-a-practical-experiment/)
  - [Top 16 Use-Cases for **Generative-AI** in *FinTech*: Examples and Benefits](https://www.msystechnologies.com/blog/top-16-use-cases-for-generative-ai-in-fintech-examples-and-benefits/)
  - [Improving *Data Privacy* in **AI** Systems Using *Secure Multi-Party Computation*](https://gradientflow.com/improving-data-privacy-in-ai-systems-using-secure-multi-party-computation/)
