@@ -26,3 +26,4 @@ Aici voi plasa cateva link-uri interesante legate de subiectul **LLM**-urilor:
  - [How new prompting techniques increase **LLM** accuracy in *financial* applications](https://www.moduleq.com/blog/how-new-prompting-techniques-increase-llm-accuracy-in-financial-applications)
  - [Architect scalable and cost-effective **LLM** & **RAG** inference pipelines](https://decodingml.substack.com/p/architect-scalable-and-cost-effective)
  - [**LLM** Orchestration: How to Successfully Implement Large Language Models(**LLM**s) for Your Competitive Advantage](https://masterofcode.com/blog/llm-orchestration)
+ - [Introduction to *Multi-Agent* Architecture for **LLM**-Based Applications](https://www.reply.com/aim-reply/en/content/introduction-to-multi-agent-architecture-for-llm-based-applications)
