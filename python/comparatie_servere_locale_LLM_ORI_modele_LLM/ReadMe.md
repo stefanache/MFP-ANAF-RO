@@ -11,3 +11,5 @@ Aici voi plasa cateva link-uri interesante legate de subiectul **LLM**-urilor:
  - [Exploring Architectures and Capabilities of Foundational **LLM**s](https://www.aporia.com/learn/exploring-architectures-and-capabilities-of-foundational-llms/)
  - [Emerging(in curs de dezvoltare) Large Language Model (**LLM**) Application Architecture](https://cobusgreyling.medium.com/emerging-large-language-model-llm-application-architecture-cba0e7862037)
  - [Selecting Model Architecture & Design In **LLM** Development](https://botpenguin.com/blogs/selecting-model-architecture-and-design-in-llm-development)
+ - [LLM Architecture: Exploring the Technical Architecture Behind Large Language Models](https://www.geeksforgeeks.org/exploring-the-technical-architecture-behind-large-language-models/)
+ - [FinGPT: open-source **LLM** for finance](https://levelup.gitconnected.com/fingpt-open-source-llm-for-finance-e8ec10d0bf40)
