@@ -7,3 +7,5 @@ Aici voi plasa cateva link-uri interesante legate de subiectul **LLM**-urilor:
 
  - [High-Level Overview of AI **LLM** Framework Architecture](https://medium.com/springchain-ai/high-level-overview-of-ai-framework-architecture-18c6ee92f651)
  - [AI for *financial reporting*: Use cases and applications, architecture, benefits, best practices and future trends](https://www.leewayhertz.com/ai-for-financial-reporting/)
+ - [Large Language Models(**LLM**s) for *finance*](https://www.scnsoft.com/finance/large-language-models)
+ - [Exploring Architectures and Capabilities of Foundational **LLM**s](https://www.aporia.com/learn/exploring-architectures-and-capabilities-of-foundational-llms/)
