@@ -13,3 +13,4 @@ Aici voi plasa cateva link-uri interesante legate de subiectul **LLM**-urilor:
  - [Selecting Model Architecture & Design In **LLM** Development](https://botpenguin.com/blogs/selecting-model-architecture-and-design-in-llm-development)
  - [LLM Architecture: Exploring the Technical Architecture Behind Large Language Models](https://www.geeksforgeeks.org/exploring-the-technical-architecture-behind-large-language-models/)
  - [FinGPT: open-source **LLM** for finance](https://levelup.gitconnected.com/fingpt-open-source-llm-for-finance-e8ec10d0bf40)
+ - [**NLP** and **LLM** Applications in *Accounting*](https://www.mercity.ai/blog-post/nlp-and-llm-in-accounting)
