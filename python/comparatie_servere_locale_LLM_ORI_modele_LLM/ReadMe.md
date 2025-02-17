@@ -3,7 +3,7 @@ Aveti [aici](https://github.com/stefanache/MFP-ANAF-RO/tree/main/python/comparat
 Deschideti fisierele ***.url*** si "pescuiti"/decupati **Link**-ul respectiv(aflat la finele textului/continutului)
 
 
-Aici voi plasa cateva link-uri de articole interesante legate de subiecte **AI-LLM**-centrate:
+Aici voi plasa cateva link-uri de articole interesante legate de subiecte **AI-NLP-LLM**-centrate:
 
  - [***NVIDIA*** **AI** Foundation Models: Build *Custom Enterprise Chatbots* and *Co-Pilots* with *Production-Ready* **LLM**s](https://developer.nvidia.com/blog/nvidia-ai-foundation-models-build-custom-enterprise-chatbots-and-co-pilots-with-production-ready-llms/)
  - [High-Level Overview of AI **LLM** Framework Architecture](https://medium.com/springchain-ai/high-level-overview-of-ai-framework-architecture-18c6ee92f651)
