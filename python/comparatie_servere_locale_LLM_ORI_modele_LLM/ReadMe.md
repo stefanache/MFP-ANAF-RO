@@ -18,3 +18,4 @@ Aici voi plasa cateva link-uri interesante legate de subiectul **LLM**-urilor:
  - [**LLM** application architecture](https://medium.com/@terrycho/llm-application-architecture-b5e4425c73e1)
  - [**Generative AI** — **LLM**Ops Architecture Patterns](https://medium.datadriveninvestor.com/generative-ai-llmops-deployment-architecture-patterns-6d45d1668aba)
  - [**Generative AI** and *multi-modal agents* in **AWS**: The key to unlocking new value in *financial* markets](https://aws.amazon.com/blogs/machine-learning/generative-ai-and-multi-modal-agents-in-aws-the-key-to-unlocking-new-value-in-financial-markets/)
+ - [A Survey of Large Language Models in Finance (**FinLLM**s)](https://gptinvest.ai/a-survey-of-large-language-models-in-finance-finllms/)
