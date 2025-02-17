@@ -24,3 +24,4 @@ Aici voi plasa cateva link-uri interesante legate de subiectul **LLM**-urilor:
  - [**CancerGPT** for few shot drug pair synergy prediction using large pretrained language models](https://www.researchgate.net/publication/378331045_CancerGPT_for_few_shot_drug_pair_synergy_prediction_using_large_pretrained_language_models)
  - [Exploring Architectures and Capabilities of Foundational **LLM**s](https://www.aporia.com/learn/exploring-architectures-and-capabilities-of-foundational-llms/)
  - [How new prompting techniques increase **LLM** accuracy in *financial* applications](https://www.moduleq.com/blog/how-new-prompting-techniques-increase-llm-accuracy-in-financial-applications)
+ - [Architect scalable and cost-effective **LLM** & **RAG** inference pipelines](https://decodingml.substack.com/p/architect-scalable-and-cost-effective)
