@@ -9,4 +9,4 @@ Aici voi plasa cateva link-uri interesante legate de subiectul **LLM**-urilor:
  - [AI for *financial reporting*: Use cases and applications, architecture, benefits, best practices and future trends](https://www.leewayhertz.com/ai-for-financial-reporting/)
  - [Large Language Models(**LLM**s) for *finance*](https://www.scnsoft.com/finance/large-language-models)
  - [Exploring Architectures and Capabilities of Foundational **LLM**s](https://www.aporia.com/learn/exploring-architectures-and-capabilities-of-foundational-llms/)
- - [Emerging Large Language Model (**LLM**) Application Architecture](https://cobusgreyling.medium.com/emerging-large-language-model-llm-application-architecture-cba0e7862037)
+ - [Emerging(in curs de dezvoltare) Large Language Model (**LLM**) Application Architecture](https://cobusgreyling.medium.com/emerging-large-language-model-llm-application-architecture-cba0e7862037)
