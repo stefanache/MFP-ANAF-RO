@@ -46,5 +46,5 @@ Aici voi plasa cateva link-uri interesante legate de subiectul **LLM**-urilor:
  - [237 | Breaking Analysis | *Gen* **AI** is Passe’, Enter the Age of *Agentic* **AI**](https://thecuberesearch.com/237-breaking-analysis-gen-ai-is-passe-enter-the-age-of-agentic-ai/)
  - [Building Performant **LLM** *Applications*](https://c3.ai/blog/building-performant-llm-applications/)
  - [Apache Kafka(**AK**) + Vector Database(**VecDB**) + **LLM** = Real-Time(**RT**) **GenAI**](https://www.kai-waehner.de/blog/2023/11/08/apache-kafka-flink-vector-database-llm-real-time-genai/)
- - [Vinija's **AI** Note: Introducere • Prezentare generală a modelelor de limbaj mari(**LLM**s)](https://vinija.ai/models/LLM/)
+ - [Vinija's **AI** Note: Primers • Overview of Large Language Models(**LLM**s)](https://vinija.ai/models/LLM/)
  - [...](https://www.google.com/search?sca_esv=89dbe79c79dccf28&rlz=1C1CHBF_enRO1132RO1132&sxsrf=AHTn8zpV4HWUkOXt3Zbt5v320xEEtujueA:1739778188832&q=architecture+AI+LLM+model+for+accounting&udm=2&fbs=ABzOT_BYhiZpMrUAF0c9tORwPGls0vqphpL9nGKy0PrLJqseLh0EQ6IW_YF9DHIKeRA2FImZJj7_nGLmr0IdZilOghZzThSalmrHNRWCGX2YxyYX3_tqwCfmw9Pi430PUlz78-Mb7bmhjR6IdIHjO2ABOmRUIyVCmILjhUI-aLBKzAp7Pc6RWb7t7l4EyP3Vc370Gi_vj7Pd&sa=X&ved=2ahUKEwjttrvnmsqLAxVvQvEDHY0lClcQtKgLegQIFRAB&biw=1920&bih=911&dpr=1#vhid=aeDnK_4DZbQUfM&vssid=mosaic)
