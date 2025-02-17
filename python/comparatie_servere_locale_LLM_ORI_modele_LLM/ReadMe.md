@@ -43,5 +43,5 @@ Aici voi plasa cateva link-uri interesante legate de subiectul **LLM**-urilor:
  - [Essential *open source* large language models(**LLM**s) to watch in *2025*](https://pieces.app/blog/open-source-llms)
  - [Integrating *Human Perception*: The Evolution of *Multimodal* **LLM**s](https://www.turing.com/resources/multimodal-llms)
  - [*VMware* *Private* **AI** Foundation – *Privacy* and *Security* Best Practices white paper](https://frankdenneman.nl/2024/07/01/vmware-private-ai-foundation-privacy-and-security-best-practices-white-paper/)
-   
+ - [237 | Breaking Analysis | *Gen* **AI** is Passe’, Enter the Age of *Agentic* **AI**](https://thecuberesearch.com/237-breaking-analysis-gen-ai-is-passe-enter-the-age-of-agentic-ai/)  
  - [...](https://www.google.com/search?sca_esv=89dbe79c79dccf28&rlz=1C1CHBF_enRO1132RO1132&sxsrf=AHTn8zpV4HWUkOXt3Zbt5v320xEEtujueA:1739778188832&q=architecture+AI+LLM+model+for+accounting&udm=2&fbs=ABzOT_BYhiZpMrUAF0c9tORwPGls0vqphpL9nGKy0PrLJqseLh0EQ6IW_YF9DHIKeRA2FImZJj7_nGLmr0IdZilOghZzThSalmrHNRWCGX2YxyYX3_tqwCfmw9Pi430PUlz78-Mb7bmhjR6IdIHjO2ABOmRUIyVCmILjhUI-aLBKzAp7Pc6RWb7t7l4EyP3Vc370Gi_vj7Pd&sa=X&ved=2ahUKEwjttrvnmsqLAxVvQvEDHY0lClcQtKgLegQIFRAB&biw=1920&bih=911&dpr=1#vhid=aeDnK_4DZbQUfM&vssid=mosaic)
