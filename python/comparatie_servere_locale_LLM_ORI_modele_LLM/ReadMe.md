@@ -15,6 +15,7 @@ Aici voi plasa cateva link-uri interesante legate de subiectul **LLM**-urilor:
  - [FinGPT: open-source **LLM** for finance](https://levelup.gitconnected.com/fingpt-open-source-llm-for-finance-e8ec10d0bf40)
  - [**NLP** and **LLM** Applications in *Accounting*](https://www.mercity.ai/blog-post/nlp-and-llm-in-accounting)
  - [Reference Architecture for **Generative AI** Based on Large Language Models (**LLM**s)](https://lenovopress.lenovo.com/lp1798-reference-architecture-for-generative-ai-based-on-large-language-models)
+ - [**AI**-governance](https://www.ibm.com/architectures/hybrid/ai-governance)
  - [**LLM** application architecture](https://medium.com/@terrycho/llm-application-architecture-b5e4425c73e1)
  - [**Generative AI** — **LLM**Ops Architecture Patterns](https://medium.datadriveninvestor.com/generative-ai-llmops-deployment-architecture-patterns-6d45d1668aba)
  - [**Generative AI** and *multi-modal agents* in **AWS**: The key to unlocking new value in *financial* markets](https://aws.amazon.com/blogs/machine-learning/generative-ai-and-multi-modal-agents-in-aws-the-key-to-unlocking-new-value-in-financial-markets/)
