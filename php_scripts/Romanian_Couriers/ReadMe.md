@@ -63,6 +63,7 @@ Sa le luam pe rand:
  - [getDPD-DPD API Reference Documentation, Release 2.0](https://getdpd.com/docs/api/DPDAPIReference.pdf)
  - [colete-online.ro: Conditii generale privind furnizarea serviciilor postale ale societatii DYNAMIC PARCEL DISTRIBUTION S.A. ( in continuare denumita „DPD”)](https://www.colete-online.ro/info/general-conditions-dpd)
  - [ship24.ro-Curieri: DPD-RO - urmărirea DPD Romania](https://www.ship24.com/ro/curieri/dpd-tracking/dpd-ro)
+ - [DPD-RO: PDF - Return-Voucher](https://api.dpd.ro/examples/ReturnVoucher_RO.pdf)
 
      
    
