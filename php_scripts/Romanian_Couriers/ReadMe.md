@@ -133,7 +133,7 @@ Sa le luam pe rand, si sa vedem cateva link-uri(mai mult sau mai putin oficiale:
    4. **Curiera**:
 
  - [curiera - website](https://curiera.ro/)
- - ...
+ - [...](https://vladilie.ro/ro/blog/euplatesc-nodejs)
 
    5. **Urgent-CARGUS**:
 
