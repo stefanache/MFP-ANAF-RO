@@ -149,5 +149,5 @@ Sa le luam pe rand, si sa vedem cateva link-uri(mai mult sau mai putin oficiale:
  - [GH-EaDesgin - M1 Urgent Cargus courier estimate](https://github.com/EaDesgin/m1-urgent-cargus-courier-estimate)
  - [...](https://github.com/itrack/CursBNR)
    
-***Nota***: 
+<br/><br/>***Nota***: 
 <br/>Chiar daca nu gasiti ce va trebuie...anumite cuvinte/idei va pot veni in ajutor(ca si topice=subiecte de cautare) cand cautati cu **Google** sau de ce nu direct pe **GhitHub(GH)**...*descoperire/cautare* placuta! 
