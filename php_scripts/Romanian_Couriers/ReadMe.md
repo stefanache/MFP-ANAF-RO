@@ -130,6 +130,7 @@ Sa le luam pe rand, si sa vedem cateva link-uri(mai mult sau mai putin oficiale:
  - [PrestaShop: Probleme cu modulul de la fancourier si nu imi apar judetele in contul clientului](https://www.prestashop.com/forums/topic/854970-probleme-cu-modulul-de-la-fancourier-si-nu-imi-apar-judetele-in-contul-clientului/)
  - [GH-FAN-Courier: API-Docs](https://github.com/FAN-Courier/API-Docs)...[SelfAWB Login](https://www.selfawb.ro/new/login)
  - [GH-shusaura85: FAN Courier API v2.0.14](https://github.com/shusaura85/fancourier-api/releases)
+ - [GH-infifni: Sylius-plugin 4 FAN-Courier ](https://github.com/infifni/sylius-fan-courier-plugin)
  - [...](https://www.google.com/search?q=github+fan+courier&sca_esv=ec1d9ca90aff3fe1&rlz=1C1CHBF_enRO1132RO1132&sxsrf=AHTn8zp1qcQGXlka4OyX5Yp9RJJ5d6sM2A%3A1739981375980&ei=PwK2Z_a1O8GGwPAP9a3VoA0&ved=0ahUKEwi20dLej9CLAxVBAxAIHfVWFdQQ4dUDCBA&uact=5&oq=github+fan+courier&gs_lp=Egxnd3Mtd2l6LXNlcnAiEmdpdGh1YiBmYW4gY291cmllcjIEECMYJzIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIESIEZUP4HWMQWcAF4AZABAJgBhAGgAeMHqgEDMC44uAEDyAEA-AEBmAIJoAL9B8ICChAAGLADGNYEGEfCAgUQABjvBZgDAIgGAZAGCJIHAzEuOKAHliQ&sclient=gws-wiz-serp)
 
    4. **Curiera**:
