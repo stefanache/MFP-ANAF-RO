@@ -108,4 +108,5 @@ Sa le luam pe rand, si sa vedem cateva link-uri utile...:
 
  - [GH-Laurent1u: Fan-Courier API Client](https://github.com/Laurent1u/fan-courier)
  - [GH-infifni: Fan Courier API Client Library(MIT License)](https://github.com/infifni/fan-courier-api-client)
+ - [WP: Functionare anormala site dupa update plugin Samday](https://wordpress.org/support/topic/functionare-anormala-site-dupa-update-plugin-samday/)
    
