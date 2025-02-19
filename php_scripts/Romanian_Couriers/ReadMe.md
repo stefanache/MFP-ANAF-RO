@@ -147,20 +147,19 @@ Sa luam pe rand fiecarew curier si sa vedem cateva link-uri(mai mult sau mai put
  - [...](https://www.google.com/search?q=github+fan+courier&sca_esv=ec1d9ca90aff3fe1&rlz=1C1CHBF_enRO1132RO1132&sxsrf=AHTn8zp1qcQGXlka4OyX5Yp9RJJ5d6sM2A%3A1739981375980&ei=PwK2Z_a1O8GGwPAP9a3VoA0&ved=0ahUKEwi20dLej9CLAxVBAxAIHfVWFdQQ4dUDCBA&uact=5&oq=github+fan+courier&gs_lp=Egxnd3Mtd2l6LXNlcnAiEmdpdGh1YiBmYW4gY291cmllcjIEECMYJzIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIESIEZUP4HWMQWcAF4AZABAJgBhAGgAeMHqgEDMC44uAEDyAEA-AEBmAIJoAL9B8ICChAAGLADGNYEGEfCAgUQABjvBZgDAIgGAZAGCJIHAzEuOKAHliQ&sclient=gws-wiz-serp)
 
 
-   4. **Curiera**:
+ 4. **Curiera**:
 
  - [curiera - website](https://curiera.ro/)
  - [...](https://vladilie.ro/ro/blog/euplatesc-nodejs)
 
 
-   5. **Urgent-CARGUS**:
+ 5.  **Urgent-CARGUS**:
 
  - [GH-EaDesgin - M1 Urgent Cargus courier estimate](https://github.com/EaDesgin/m1-urgent-cargus-courier-estimate)
  - [...](https://github.com/itrack/CursBNR)
-   
 
 
-  6. **GLS**
+ 6.  **GLS**
 
  - [GH-logical-and: gls-shipping-api](https://github.com/logical-and/gls-shipping-api/tree/master)
  - [...](https://github.com/govro)
