@@ -83,6 +83,7 @@ Sa le luam pe rand, si sa vedem cateva link-uri utile...:
  - [sameday.ro APP](https://sameday.ro/intrebari-frecvente/sameday-app/)
  - [sameday.ro - Afiliere Parteneri](https://sameday.ro/parteneri-sameday/)
  - [base-RO: Integrare SameDay](https://base.com/ro-RO/integrari/sameday/)
+ - [curie.ro: Verificare is Activare Access Serviciu](https://curie.ro/documentatie/sameday-verificare-si-activare-acces-serviciu/)
 
      
    
