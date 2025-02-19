@@ -30,6 +30,7 @@ Sa le luam pe rand:
 1.DPD:
  - [DPD REST API examples](]https://services.dpd.ro/api/api_examples.html)
  - [DPD Web API Documentation](https://api.dpd.ro/web-api.html)
+   <br/>cautati in aceasta [pagina](https://api.dpd.ro/web-api.html) ... si alte link-uri sau dupa textul(desigur, fara ghilimele)..."PDF Examples:"
  - [DPD-RO eCommerce](https://www.dpd.com/ro/ro/e-commerce/)
  - [DPD-RO Support IT](https://www.dpd.com/ro/ro/suport-dpd/suport-it/)
  - [DPD Romania API Docs](https://www.aftership.com/carriers/dpd-ro/api)
@@ -42,7 +43,8 @@ Sa le luam pe rand:
  - [EasySales: Configurare-Curier-DPD](https://support.easy-sales.com/hc/ro/articles/360018572537-Configurare-Curier-DPD)
  - [DPDGroup: Shipping API V1.1 docs](https://nst-preprod.dpsin.dpdgroup.com/api/docs/#nst-shipment-api)
  - [17track: DPD(RO) - Urmărirea](https://www.17track.net/ro/carriers/dpd-ro)
- - [DPD-RO: API examples A4_RO PDF](https://api.dpd.ro/examples/A4_RO.pdf)
+ - [DPD-RO: API examples A4_RO PDF](https://api.dpd.ro/examples/A4_RO.pdf)...
+   <br/>cautati in aceasta [pagina](https://api.dpd.ro/web-api.html) ... dupa textul(desigur, fara ghilimele)..."PDF Examples:"
 
      
    
