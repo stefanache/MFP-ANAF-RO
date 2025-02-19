@@ -107,6 +107,7 @@ Sa luam pe rand fiecarew curier si sa vedem cateva link-uri(mai mult sau mai put
  - [OpenCart - Sameday Courier](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=36126&filter_search=shipping&filter_category_id=4&filter_license=0&filter_download_id=53&sort=date_modified)
  - [WP-plugin-SamedayCourier Shipping: Eroare la generarea AWB](https://wordpress.org/support/topic/eroare-la-generarea-awb/)
  - [GH-samicoman: Sameday Courier Romania - Magento 1.x Module](https://github.com/samicoman/nethuns_sameday)
+ - [GH-samicoman: Sameday Courier Romania - Magento 2.3 Module](https://github.com/samicoman/nethuns_sameday_m2)
  - [...](https://www.google.com/search?q=github+sameday+php+romania&sca_esv=ec1d9ca90aff3fe1&rlz=1C1CHBF_enRO1132RO1132&sxsrf=AHTn8zqWHN0V1Dbbrxdtut1AR1Q7Ij9VoA%3A1739981451365&ei=iwK2Z7mEFre6wPAPvrSz6A0&ved=0ahUKEwj59cuCkNCLAxU3HRAIHT7aDN0Q4dUDCBA&uact=5&oq=github+sameday+php+romania&gs_lp=Egxnd3Mtd2l6LXNlcnAiGmdpdGh1YiBzYW1lZGF5IHBocCByb21hbmlhMgUQIRigATIFECEYoAEyBRAhGKABSIUVUPYGWI4TcAF4AZABAJgBpgGgAZ4IqgEDMC44uAEDyAEA-AEBmAIJoAKzCMICChAAGLADGNYEGEeYAwCIBgGQBgeSBwMxLjigB8AY&sclient=gws-wiz-serp)
 
  3. **FAN-Courier**:
