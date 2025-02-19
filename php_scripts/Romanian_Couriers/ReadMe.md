@@ -6,7 +6,7 @@ Desigur ati auzit de companiile de curierierat ce activeaza si in Romania, cum a
  
  - 1. **DPD**, 
  - 2. **Sameday**, 
- - 3. **Fan Courier**, ori
+ - 3. **FAN-Courier**, ori
  - 3. **Curiera**
  - [...](https://www.scribd.com/document/349001559/sem-4)
  
@@ -106,7 +106,7 @@ Sa le luam pe rand, si sa vedem cateva link-uri utile...:
  - [OpenCart - Sameday Courier](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=36126&filter_search=shipping&filter_category_id=4&filter_license=0&filter_download_id=53&sort=date_modified)
  - [WP-plugin-SamedayCourier Shipping: Eroare la generarea AWB](https://wordpress.org/support/topic/eroare-la-generarea-awb/)
 
- 3. **FanCourier**:
+ 3. **FAN-Courier**:
 
  - [GH-Laurent1u: Fan-Courier API Client](https://github.com/Laurent1u/fan-courier)
  - [GH-infifni: Fan Courier API Client Library(MIT License)](https://github.com/infifni/fan-courier-api-client)
@@ -119,5 +119,6 @@ Sa le luam pe rand, si sa vedem cateva link-uri utile...:
  - [GH-besciualex: Judete si Orase - FAN-Courier Romania](https://github.com/besciualex/judete-si-orase-romania-fan-curier)
  - [GH-besciualex-PhP-cURL - cucubauSelfAWB: Judete si Orase - FAN-Courier Romania](https://github.com/besciualex/judete-si-orase-romania-fan-curier/blob/master/cucubau.php)...[selfAWB.ro](http://www.selfawb.ro)
  - [GH-cheadrian/fancourier-woocommerce(WC): FAN-Courier](https://github.com/cheadrian/fancourier-woocommerce/blob/master/fan_courier.php)
+ - [reddit-forum: Librarie PHP pentru API Fan Courier v2.0](https://www.reddit.com/r/programare/comments/18s413e/librarie_php_pentru_api_fan_courier_v20/)
 
    
