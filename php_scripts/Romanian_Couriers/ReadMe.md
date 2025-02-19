@@ -28,7 +28,7 @@ Ce as vrea sa stiu in principal, despre acestea?
 
 Cam astea ar fi pe scurt, principalele probleme legate de acest subiect.
 
-Sa le luam pe rand, si sa vedem cateva link-uri(mai mult sau mai putin oficiale:) utile...:
+Sa luam pe rand fiecarew curier si sa vedem cateva link-uri(mai mult sau mai putin oficiale:) utile...:
 
 1. **DPD** :
  - [cautare google ... api dpd ro](https://www.google.com/search?q=api+dpd+ro&sca_esv=42c55ce90fafe599&rlz=1C1CHBF_enRO1132RO1132&sxsrf=AHTn8zrq3lmx9Pab3kgM_ZmbRXMNp13zWA:1739972261989&source=lnt&tbs=lr:lang_1ro&lr=lang_ro&sa=X&ved=2ahUKEwj27ODk7c-LAxWNQfEDHX9WD5A4FBCnBXoECAQQBw&biw=1920&bih=911&dpr=1)
