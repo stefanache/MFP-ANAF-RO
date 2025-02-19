@@ -142,6 +142,7 @@ Sa luam pe rand fiecarew curier si sa vedem cateva link-uri(mai mult sau mai put
  - [GH-answear: FanCourier bundle - Integration with Symfony](https://github.com/answear/fan-courier-bundle/blob/main/README.md)
  - [GH-infifni/libraries/2020/05/22: fan-courier-api-client-library](https://infifni.github.io/php/libraries/2020/05/22/fan-courier-api-client-library.html)
  - [GH-daika7ana: vedeti topic-ul: FAN-Courier API](https://github.com/daika7ana)
+ - [AbanteCart-forum: Is there a way to have a Fan Courier Romania Extension?](https://forum.abantecart.com/index.php?topic=833.0)
  - [...](https://www.google.com/search?q=github+fan+courier&sca_esv=ec1d9ca90aff3fe1&rlz=1C1CHBF_enRO1132RO1132&sxsrf=AHTn8zp1qcQGXlka4OyX5Yp9RJJ5d6sM2A%3A1739981375980&ei=PwK2Z_a1O8GGwPAP9a3VoA0&ved=0ahUKEwi20dLej9CLAxVBAxAIHfVWFdQQ4dUDCBA&uact=5&oq=github+fan+courier&gs_lp=Egxnd3Mtd2l6LXNlcnAiEmdpdGh1YiBmYW4gY291cmllcjIEECMYJzIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIESIEZUP4HWMQWcAF4AZABAJgBhAGgAeMHqgEDMC44uAEDyAEA-AEBmAIJoAL9B8ICChAAGLADGNYEGEfCAgUQABjvBZgDAIgGAZAGCJIHAzEuOKAHliQ&sclient=gws-wiz-serp)
 
    4. **Curiera**:
