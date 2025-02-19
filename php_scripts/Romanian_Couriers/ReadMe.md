@@ -121,5 +121,6 @@ Sa le luam pe rand, si sa vedem cateva link-uri(mai mult sau mai putin oficiale:
  - [GH-cheadrian/fancourier-woocommerce(WC): FAN-Courier](https://github.com/cheadrian/fancourier-woocommerce/blob/master/fan_courier.php)
  - [reddit-forum: Librarie PHP pentru API Fan Courier v2.0](https://www.reddit.com/r/programare/comments/18s413e/librarie_php_pentru_api_fan_courier_v20/)
  - [GH-shusaura85: FAN-Courier API(neoficiala, 2024)](https://github.com/shusaura85/fancourier-api)
+ - [PrestaShop: Modul Fan Courier in Prestashop 1.7](https://www.prestashop.com/forums/topic/663807-modul-fan-courier-in-prestashop-17/)
 
    
