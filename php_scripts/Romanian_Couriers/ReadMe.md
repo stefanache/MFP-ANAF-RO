@@ -98,6 +98,7 @@ Sa le luam pe rand, si sa vedem cateva link-uri utile...:
  - [e-cap.ro: SynCap - Configurare Curier SameDay](https://support.e-cap.ro/ro/configurare-curier-sameday)
  - [curie.ro-Doc: Sameday AWB: Ghid de completare a setărilor de generare a AWB-urilor](https://curie.ro/documentatie/sameday-awb-ghid-de-completare-a-setarilor-de-generare-a-awb-urilor/)
  - [amenofis.r: Modul OpenCart integrare SameDay](https://amenofis.ro/modul-opencart-integrare-sameday)
+ - [Instagram - SameDay Romania](https://www.instagram.com/sameday.romania/)
 
      
    
