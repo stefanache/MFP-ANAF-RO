@@ -93,6 +93,8 @@ Sa le luam pe rand, si sa vedem cateva link-uri utile...:
  - [17track-RO: SameDay (RO) Urmărirea](https://www.17track.net/ro/carriers/sameday-%28ro%29)
  - [colete-online.ro-Info: Sameday-Dispoziţii/Conditii Generale](https://www.colete-online.ro/info/general-conditions-sameday)
  - [scribd-PDF: Documentati integrare API SameDay v2.3-2024](https://www.scribd.com/document/735502958/Documentatie-API-Sameday-v2-3-2024)
+ - [BOCP.eu-Implementare SameDay Curier](https://www.bocp.eu/actualizari-actualizari-20/implementare_sameday_curier.htm)
+   <br>BOCP=Bussiness Online Control Panel
 
      
    
