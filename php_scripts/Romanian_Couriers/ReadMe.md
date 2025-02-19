@@ -61,6 +61,7 @@ Sa le luam pe rand:
  - [FB-DPD Romania](https://www.facebook.com/DPDRomania/posts/-angaj%C4%83m-curieri-%C3%AEn-echipa-dpd-devabeneficii-salariu-atractiv-bonusuri-de-perfor/970089625145653/)
  - [Director-Firme: DPD RO SRL, S1-Bucuresti](https://www.listafirme.ro/dpd-ro-srl-17117740/)
  - [getDPD-DPD API Reference Documentation, Release 2.0](https://getdpd.com/docs/api/DPDAPIReference.pdf)
+ - [colete-online.ro: Conditii generale privind furnizarea serviciilor postale ale societatii DYNAMIC PARCEL DISTRIBUTION S.A. ( in continuare denumita „DPD”)](https://www.colete-online.ro/info/general-conditions-dpd)
 
      
    
