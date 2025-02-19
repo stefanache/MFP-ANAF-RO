@@ -156,11 +156,11 @@ Sa luam pe rand fiecarew curier si sa vedem cateva link-uri(mai mult sau mai put
  - [GH-EaDesgin - M1 Urgent Cargus courier estimate](https://github.com/EaDesgin/m1-urgent-cargus-courier-estimate)
  - [...](https://github.com/itrack/CursBNR)
    
-<br/><br/>***Nota***: 
-<br/>Chiar daca nu gasiti ce va trebuie...anumite cuvinte/idei va pot veni in ajutor(ca si topice=subiecte de cautare) cand cautati cu **Google** sau de ce nu direct pe **GhitHub(GH)**...*descoperire/cautare* placuta! 
-
 
   6. **GLS**
 
  - [GH-logical-and: gls-shipping-api](https://github.com/logical-and/gls-shipping-api/tree/master)
  - [...](https://github.com/govro)
+
+   <br/><br/>***Nota***: 
+<br/>Chiar daca nu gasiti ce va trebuie...anumite cuvinte/idei va pot veni in ajutor(ca si topice=subiecte de cautare) cand cautati cu **Google** sau de ce nu direct pe [**GhitHub(GH)**](https://github.com/topics/carriers)...*descoperire/cautare* placuta! 
