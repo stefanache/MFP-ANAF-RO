@@ -65,9 +65,10 @@ Sa le luam pe rand, si sa vedem cateva link-uri utile...:
  - [ship24.ro-Curieri: DPD-RO - urmărirea DPD Romania](https://www.ship24.com/ro/curieri/dpd-tracking/dpd-ro)
  - [ship24-RO: DPD Tracking API și integrare](https://www.ship24.com/ro/tracking-api/dpd)
  - [DPD-RO: PDF - Return-Voucher](https://api.dpd.ro/examples/ReturnVoucher_RO.pdf)
- - [scribd.ro-PDF: Ghid de instalare pt modulul DPD-Prestashop](https://www.scribd.com/document/508750241/DPD-Prestashop-Documentatie-instalare-modul)
+ - [scribd-PDF tutorial: Ghid de instalare pt modulul DPD-Prestashop](https://www.scribd.com/document/508750241/DPD-Prestashop-Documentatie-instalare-modul)
  - [webShopAssist: Integrare DPD cu Shopify](https://www.webshopassist.com/ro/dpd-app)
  - [base-RO integrari: Integrati Mall cu DPD](https://base.com/ro-RO/integrari/mall_dpd/)
+ - [scribd-PDF tutorial: Ghid de instalare DPD-WooCommerce](https://www.scribd.com/document/499035622/Tutorial-DPD-WooCommerce)
 
      
    
