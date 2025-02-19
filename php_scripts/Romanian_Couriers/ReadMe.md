@@ -1,6 +1,6 @@
 Salut tuturor!
 
-As vrea sa facem o introspectie a API-urilor existente pe piata din Romania cu privire la curierat.
+As vrea sa facem o introspectie a API-urilor existente pe piata din Romania cu privire la **companiile de curierat**.
 
 Desigur ati auzit de companiile de curierierat ce activeaza si in Romania, cum ar fi:
  
