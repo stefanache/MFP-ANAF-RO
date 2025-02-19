@@ -28,7 +28,7 @@ Cam astea ar fi pe scurt, principalele probleme legate de acest subiect.
 Sa le luam pe rand:
 
 1.DPD:
- - [DPD API examples](]https://services.dpd.ro/api/api_examples.html)
+ - [DPD REST API examples](]https://services.dpd.ro/api/api_examples.html)
 
      
    
