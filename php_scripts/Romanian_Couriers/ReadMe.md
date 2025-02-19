@@ -135,6 +135,7 @@ Sa le luam pe rand, si sa vedem cateva link-uri(mai mult sau mai putin oficiale:
  - [fancourier.ro-WP-blog: RO DOCUMENTATIE API FAN Courier v 2.0 Mai 2023](https://www.fancourier.ro/wp-content/uploads/2023/07/RO_FANCourier_API-2.0-100523.pdf)
  - [GH-FAN-Courier: API Docs - o problema aparuta...](https://github.com/FAN-Courier/API-Docs/issues)
  - [GH-answear: FanCourier bundle - Integration with Symfony](https://github.com/answear/fan-courier-bundle/blob/main/README.md)
+ - [GH-infifni/libraries/2020/05/22: fan-courier-api-client-library](https://infifni.github.io/php/libraries/2020/05/22/fan-courier-api-client-library.html)
  - [...](https://www.google.com/search?q=github+fan+courier&sca_esv=ec1d9ca90aff3fe1&rlz=1C1CHBF_enRO1132RO1132&sxsrf=AHTn8zp1qcQGXlka4OyX5Yp9RJJ5d6sM2A%3A1739981375980&ei=PwK2Z_a1O8GGwPAP9a3VoA0&ved=0ahUKEwi20dLej9CLAxVBAxAIHfVWFdQQ4dUDCBA&uact=5&oq=github+fan+courier&gs_lp=Egxnd3Mtd2l6LXNlcnAiEmdpdGh1YiBmYW4gY291cmllcjIEECMYJzIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIESIEZUP4HWMQWcAF4AZABAJgBhAGgAeMHqgEDMC44uAEDyAEA-AEBmAIJoAL9B8ICChAAGLADGNYEGEfCAgUQABjvBZgDAIgGAZAGCJIHAzEuOKAHliQ&sclient=gws-wiz-serp)
 
    4. **Curiera**:
