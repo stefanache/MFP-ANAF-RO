@@ -111,6 +111,7 @@ Sa le luam pe rand, si sa vedem cateva link-uri(mai mult sau mai putin oficiale:
 
  - [GH-Laurent1u: Fan-Courier API Client](https://github.com/Laurent1u/fan-courier)
  - [GH-infifni: Fan Courier API Client Library(MIT License)](https://github.com/infifni/fan-courier-api-client)
+ - [GH-infifni: Fan Courier API Client - Generate AWB](https://github.com/infifni/fan-courier-api-client/blob/master/src/Request/GenerateAwb.php)
  - [WP: Functionare anormala site dupa update plugin Samday](https://wordpress.org/support/topic/functionare-anormala-site-dupa-update-plugin-samday/)
  - [GH-FAN-Courier: API Docs](https://github.com/FAN-Courier/API-Docs?fbclid=IwY2xjawIi19RleHRuA2FlbQIxMAABHbXaXMkUHplMAVwxFZE6Uknmtb3lrwmQhXbXEauTbqXo5WhpEoyCuPJvlA_aem_nyT3tGbfuZYDS8oD0QI6pA)
  - [FB-Home Assistant*HA) Romania: integrare SameDay(SD) si FAN-Courier(FC) cu HomeAssistant(HA)](https://www.facebook.com/groups/HomeAssistantRomania/posts/7850718131697247/)
