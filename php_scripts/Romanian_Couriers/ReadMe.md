@@ -57,7 +57,7 @@ Sa le luam pe rand:
  - [onlineDPD.ro-PrestaShop - DPD-Test Contact-us](https://prestashop.onlinedpd.ro/en/contact-us)
  - [myDPD.ro - SkyLogistics - Autentificare/Inregistrare utilizator](https://mydpd.dpd.ro/)
  - [FB-DPD Romania](https://www.facebook.com/DPDRomania/posts/-angaj%C4%83m-curieri-%C3%AEn-echipa-dpd-devabeneficii-salariu-atractiv-bonusuri-de-perfor/970089625145653/)
- - [Director-Firme: DPD RO SRL](https://www.listafirme.ro/dpd-ro-srl-17117740/)
+ - [Director-Firme: DPD RO SRL, S1-Bucuresti](https://www.listafirme.ro/dpd-ro-srl-17117740/)
 
      
    
