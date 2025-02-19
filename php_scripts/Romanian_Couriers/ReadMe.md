@@ -76,6 +76,7 @@ Sa le luam pe rand, si sa vedem cateva link-uri utile...:
 2. **SameDay**:
 
  - [cautare google ... api sameday ro](https://www.google.com/search?q=api+sameday+ro&sca_esv=99157084a6b2f2a0&rlz=1C1CHBF_enRO1132RO1132&sxsrf=AHTn8zolWwEqrj7jdzN7_v5GSFrAQJ8paQ:1739975946308&source=lnt&tbs=lr:lang_1ro&lr=lang_ro&sa=X&ved=2ahUKEwjU5cnB-8-LAxWRS_EDHXXzHmwQpwV6BAgBEAc&biw=1920&bih=911&dpr=1)
+ - [sameday.ro](https://sameday.ro/)
 
      
    
