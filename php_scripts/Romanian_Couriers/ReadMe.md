@@ -8,7 +8,8 @@ Desigur ati auzit de **companiile de curierierat** ce activeaza si in ***Romania
  - 2. **Sameday**, 
  - 3. **FAN-Courier**, ori
  - 3. **Curiera**,
-   4. **Urgent-CARGUS**
+ - 4. **Urgent-CARGUS**,
+ - 5. **GLS**
  - [...](https://www.scribd.com/document/349001559/sem-4)
  
 Sa-mi fie iertat, daca nu le-am enumerat pe toate(dar ...desigur... in realitate.. sunt cu siguranta ... mult mai multe...)
@@ -157,3 +158,9 @@ Sa luam pe rand fiecarew curier si sa vedem cateva link-uri(mai mult sau mai put
    
 <br/><br/>***Nota***: 
 <br/>Chiar daca nu gasiti ce va trebuie...anumite cuvinte/idei va pot veni in ajutor(ca si topice=subiecte de cautare) cand cautati cu **Google** sau de ce nu direct pe **GhitHub(GH)**...*descoperire/cautare* placuta! 
+
+
+  6. **GLS**
+
+ - [GH-logical-and: gls-shipping-api](https://github.com/logical-and/gls-shipping-api/tree/master)
+ - ...
