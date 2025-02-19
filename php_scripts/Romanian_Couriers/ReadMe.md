@@ -38,7 +38,7 @@ Sa le luam pe rand:
  - [Github-DPDromania](https://github.com/DPDromania)
  - [Github-dataLinx: DPD-PHP-SDK(Slovenia si Croatia)](https://github.com/DataLinx/DPD-PHP-SDK)... cu titlu de exemplu
  - [Github-blobswop: DPD PhP API(Germany)](https://github.com/blobswop/dpd-php-api) ... cu titlu de exemplu
- - [Github-msztorc: PhP DPD-API(Polska)](https://github.com/msztorc/php-dpd-api)...cu titlu de exemplu
+ - [Github-msztorc: PhP DPD-API...API-wrapper(Polska)](https://github.com/msztorc/php-dpd-api)...cu titlu de exemplu
 
      
    
