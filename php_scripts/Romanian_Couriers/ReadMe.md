@@ -81,6 +81,7 @@ Sa le luam pe rand, si sa vedem cateva link-uri utile...:
  - [sameday.ro - livrare prin EasyBox](https://sameday.ro/intrebari-frecvente/livrare-in-easybox/)
  - [sameday.ro - Solicitare Documente](https://sameday.ro/intrebari-frecvente/solicitare-documente/)
  - [sameday.ro APP](https://sameday.ro/intrebari-frecvente/sameday-app/)
+ - [sameday.ro - Afiliere Parteneri](https://sameday.ro/parteneri-sameday/)
 
      
    
