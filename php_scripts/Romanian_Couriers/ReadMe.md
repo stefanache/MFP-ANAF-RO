@@ -95,6 +95,7 @@ Sa le luam pe rand, si sa vedem cateva link-uri utile...:
  - [scribd-PDF: Documentati integrare API SameDay v2.3-2024](https://www.scribd.com/document/735502958/Documentatie-API-Sameday-v2-3-2024)
  - [BOCP.eu-Implementare SameDay Curier](https://www.bocp.eu/actualizari-actualizari-20/implementare_sameday_curier.htm)
    <br>BOCP=Bussiness Online Control Panel
+ - [e-cap.ro: SynCap - Configurare Curier SameDay](https://support.e-cap.ro/ro/configurare-curier-sameday)
 
      
    
