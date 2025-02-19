@@ -55,6 +55,7 @@ Sa le luam pe rand:
  - [Curie.RO - WooCommerce DPD plugin v.2025](https://curie.ro/woocommerce-dpd/)
  - [onlineDPD.ro-PrestaShop - DPD-Test Contact-us](https://prestashop.onlinedpd.ro/en/contact-us)
  - [myDPD.ro - SkyLogistics - Autentificare/Inregistrare utilizator](https://mydpd.dpd.ro/)
+ - [FB-DPD Romania](https://www.facebook.com/DPDRomania/posts/-angaj%C4%83m-curieri-%C3%AEn-echipa-dpd-devabeneficii-salariu-atractiv-bonusuri-de-perfor/970089625145653/)
 
      
    
