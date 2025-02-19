@@ -13,7 +13,7 @@ Sa-mi fie iertat ca nu le-am enumerat dar in realitate sunt cu siguranta mult ma
 
 Ce as vrea sa stiu in prinicpal, despre acestea?
 
-   - sa stiu "Shipping Cost"
+   - sa stiu "Shipping Cost"(pretul transportului bazat pe liste de pret/tarife de transport))
      si eventual sa pot crea, din API ...
    - "Shipment"(sa creez transportul)
    - "Pickup Date"(sa creez data de preluare a coletului/coletelor)
