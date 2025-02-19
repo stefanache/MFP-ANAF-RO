@@ -44,6 +44,7 @@ Sa le luam pe rand:
  - [EasySales: Configurare-Curier-DPD](https://support.easy-sales.com/hc/ro/articles/360018572537-Configurare-Curier-DPD)
  - [DPDGroup: Shipping API V1.1 docs](https://nst-preprod.dpsin.dpdgroup.com/api/docs/#nst-shipment-api)
  - [17track: DPD(RO) - Urmărirea](https://www.17track.net/ro/carriers/dpd-ro)
+ - [17track: DPD RO - Tracking-Track package](https://www.17track.net/id/carriers/dpd-ro)
  - [DPD-RO: API examples A4_RO PDF](https://api.dpd.ro/examples/A4_RO.pdf)...
    <br/>cautati in aceasta [pagina](https://api.dpd.ro/web-api.html) ... dupa textul(desigur, fara ghilimele)..."PDF Examples:"
  - [curie.ro-doc: DPD-Romania Verificare-si-activare-acces-serviciu](https://curie.ro/documentatie/dpd-romania-verificare-si-activare-acces-serviciu/)
