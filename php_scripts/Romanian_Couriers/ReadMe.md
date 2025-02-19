@@ -11,7 +11,7 @@ Desigur ati auzit de **companiile de curierierat** ce activeaza si in ***Romania
    4. **Urgent-CARGUS**
  - [...](https://www.scribd.com/document/349001559/sem-4)
  
-Sa-mi fie iertat ca nu le-am enumerat dar in realitate sunt cu siguranta mult mai multe...
+Sa-mi fie iertat, daca nu le-am enumerat pe toate(dar ...desigur... in realitate.. sunt cu siguranta ... mult mai multe...)
 
 Ce as vrea sa stiu in principal, despre acestea?
 
