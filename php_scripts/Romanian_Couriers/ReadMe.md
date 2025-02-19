@@ -158,6 +158,7 @@ Sa luam pe rand fiecare curier si sa vedem cateva link-uri(mai mult sau mai puti
  - [GH-EaDesgin - M1 Urgent Cargus courier estimate](https://github.com/EaDesgin/m1-urgent-cargus-courier-estimate)
  - [GH-ucv: UrgentCargus PHP API](https://github.com/ucv/urgent-cargus)
  - [GH-EaDesgin: M1 Urgent Cargus AWB](https://github.com/EaDesgin/m1-urgent-cargus-AWB)
+ - [GH-mynameisbogdan: UrgentCargus PHP API](https://github.com/mynameisbogdan/urgentcargus-php)
  - [...](https://github.com/itrack/CursBNR)
 
 
