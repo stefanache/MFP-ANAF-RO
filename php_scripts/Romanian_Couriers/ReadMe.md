@@ -28,6 +28,7 @@ Cam astea ar fi pe scurt, principalele probleme legate de acest subiect.
 Sa le luam pe rand:
 
 1.DPD:
+ - [cautare google ... api dpd ro](https://www.google.com/search?q=api+dpd+ro&sca_esv=42c55ce90fafe599&rlz=1C1CHBF_enRO1132RO1132&sxsrf=AHTn8zo8237VJeKXrUlwtpAEdFBH9xhIYA:1739970866562&ei=Mtm1Z4T3IcW3xc8PvpCqmAY&start=10&sa=N&sstk=Af40H4WJ7D4e3cJr6Sr2ZgAwhhrLCQI_AarThLs386O8xrF8mW4XQ_wqPtr8ee1Vahcc2vq8-4d5WqMKv8tHA5cdTauhGTnm5pEdwQ&ved=2ahUKEwiE2K7L6M-LAxXFW_EDHT6ICmMQ8tMDegQIBRAE&biw=1920&bih=911&dpr=1)
  - [DPD REST API examples](]https://services.dpd.ro/api/api_examples.html)
  - [DPD Web API Documentation](https://api.dpd.ro/web-api.html)
    <br/>cautati in aceasta [pagina](https://api.dpd.ro/web-api.html) ... si alte link-uri sau dupa textul(desigur, fara ghilimele)..."PDF Examples:"
@@ -49,6 +50,8 @@ Sa le luam pe rand:
  - [GoMag: DPD](https://help.gomag.ro/hc/ro/articles/360018703954-DPD)
  - [EnFocus-forum: DPD SOAP API](https://forum.enfocus.com/viewtopic.php?t=3796) ... a se vedea si link-urile referite in aceasta discutie...!
  - [Github-weblinko: DPD - PHP - SOAP WSL ](https://github.com/weblinko/php-dpd)
+ - [cautare google ... github DPD Ro SOAP API php](https://www.google.com/search?q=github+DPD+Ro+SOAP+API+php&rlz=1C1CHBF_enRO1132RO1132&oq=github+DPD+Ro+SOAP+API+php&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiABBiiBDIHCAMQABjvBTIKCAQQABiABBiiBDIHCAUQABjvBTIGCAYQRRhA0gEKMTcwMjJqMGoxNagCCLACAfEFSM0IcvDVlKvxBUjNCHLw1ZSr&sourceid=chrome&ie=UTF-8)
+ - [base-RO: integrari DPD](https://base.com/ro-RO/integrari/dpd/)
 
      
    
