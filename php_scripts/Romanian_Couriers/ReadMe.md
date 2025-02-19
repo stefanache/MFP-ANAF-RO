@@ -7,7 +7,8 @@ Desigur ati auzit de companiile de curierierat ce activeaza si in Romania, cum a
  - 1. **DPD**, 
  - 2. **Sameday**, 
  - 3. **FAN-Courier**, ori
- - 3. **Curiera**
+ - 3. **Curiera**,
+   4. **Urgent-CARGUS**
  - [...](https://www.scribd.com/document/349001559/sem-4)
  
 Sa-mi fie iertat ca nu le-am enumerat dar in realitate sunt cu siguranta mult mai multe...
