@@ -19,7 +19,7 @@ Ce as vrea sa stiu in principal, despre acestea?
    - "***Shipment***"(sa creez ***transportul***)
    - "***Pickup Date***"(sa creez ***data de preluare*** a coletului/coletelor)
    - "***AWB***" (sa preiau ***numarul de urmarire(generat-automat),  al coletului***, salvat eventual intr-un document *PDF* pt a fi usor vehiculat peste internet...)
-   - ... probabil ca mai sunt si alte ***task***-uri/***sarcini*** interesante dar va las sa le *descoperiti singuri*... urmarind *link*-urile de mai jos...
+   - [...](https://github.com/vnemes/POILocator/blob/master/locations.txt) probabil ca mai sunt si alte ***task***-uri/***sarcini*** interesante dar va las sa le *descoperiti singuri*... urmarind *link*-urile de mai jos...
 
   ***AWB***-ul este esential mai ales in privinta urmaririi starii de procesare a transportului respectiv.
 
