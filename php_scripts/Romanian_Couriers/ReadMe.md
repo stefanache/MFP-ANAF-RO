@@ -4,10 +4,10 @@ As vrea sa facem o introspectie a API-urilor existente pe piata din Romania cu p
 
 Desigur ati auzit de companiile de curierierat ce activeaza si in Romania, cum ar fi:
  
- - DPD, 
- - Sameday, 
- - Fan Courier, ori
- - Curiera
+ - 1. **DPD**, 
+ - 2. **Sameday**, 
+ - 3. **Fan Courier**, ori
+ - 3. **Curiera**
 
 Sa-mi fie iertat ca nu le-am enumerat dar in realitate sunt cu siguranta mult mai multe...
 
@@ -27,7 +27,7 @@ Cam astea ar fi pe scurt, principalele probleme legate de acest subiect.
 
 Sa le luam pe rand:
 
-1.DPD:
+1. **DPD** :
  - [cautare google ... api dpd ro](https://www.google.com/search?q=api+dpd+ro&sca_esv=42c55ce90fafe599&rlz=1C1CHBF_enRO1132RO1132&sxsrf=AHTn8zrq3lmx9Pab3kgM_ZmbRXMNp13zWA:1739972261989&source=lnt&tbs=lr:lang_1ro&lr=lang_ro&sa=X&ved=2ahUKEwj27ODk7c-LAxWNQfEDHX9WD5A4FBCnBXoECAQQBw&biw=1920&bih=911&dpr=1)
  - [DPD REST API examples](]https://services.dpd.ro/api/api_examples.html)
  - [DPD Web API Documentation](https://api.dpd.ro/web-api.html)
