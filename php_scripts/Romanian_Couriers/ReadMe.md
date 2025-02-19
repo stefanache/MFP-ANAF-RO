@@ -8,7 +8,7 @@ Desigur ati auzit de companiile de curierierat ce activeaza si in Romania, cum a
  - 2. **Sameday**, 
  - 3. **Fan Courier**, ori
  - 3. **Curiera**
- - ...
+ - [...](https://www.scribd.com/document/349001559/sem-4)
  
 Sa-mi fie iertat ca nu le-am enumerat dar in realitate sunt cu siguranta mult mai multe...
 
