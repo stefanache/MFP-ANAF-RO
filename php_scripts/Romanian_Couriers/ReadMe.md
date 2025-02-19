@@ -99,7 +99,7 @@ Sa le luam pe rand, si sa vedem cateva link-uri utile...:
  - [curie.ro-Doc: Sameday AWB: Ghid de completare a setărilor de generare a AWB-urilor](https://curie.ro/documentatie/sameday-awb-ghid-de-completare-a-setarilor-de-generare-a-awb-urilor/)
  - [amenofis.r: Modul OpenCart integrare SameDay](https://amenofis.ro/modul-opencart-integrare-sameday)
  - [Instagram - SameDay Romania](https://www.instagram.com/sameday.romania/)
- - [Shopfy-App: SameDay App](https://apps.shopify.com/samedayapp)
+ - [Shopfy-App-Store: SameDay App](https://apps.shopify.com/samedayapp)
 
      
    
