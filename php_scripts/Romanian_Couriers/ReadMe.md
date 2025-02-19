@@ -62,6 +62,7 @@ Sa le luam pe rand:
  - [Director-Firme: DPD RO SRL, S1-Bucuresti](https://www.listafirme.ro/dpd-ro-srl-17117740/)
  - [getDPD-DPD API Reference Documentation, Release 2.0](https://getdpd.com/docs/api/DPDAPIReference.pdf)
  - [colete-online.ro: Conditii generale privind furnizarea serviciilor postale ale societatii DYNAMIC PARCEL DISTRIBUTION S.A. ( in continuare denumita „DPD”)](https://www.colete-online.ro/info/general-conditions-dpd)
+ - [ship24.ro-Curieri: DPD-RO - urmărirea DPD Romania](https://www.ship24.com/ro/curieri/dpd-tracking/dpd-ro)
 
      
    
