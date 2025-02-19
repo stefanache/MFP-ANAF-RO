@@ -130,7 +130,7 @@ Sa le luam pe rand, si sa vedem cateva link-uri(mai mult sau mai putin oficiale:
  - [PrestaShop: Probleme cu modulul de la fancourier si nu imi apar judetele in contul clientului](https://www.prestashop.com/forums/topic/854970-probleme-cu-modulul-de-la-fancourier-si-nu-imi-apar-judetele-in-contul-clientului/)
  - [GH-FAN-Courier: API-Docs](https://github.com/FAN-Courier/API-Docs)...[SelfAWB Login](https://www.selfawb.ro/new/login)
  - [GH-shusaura85: FAN Courier API v2.0.14](https://github.com/shusaura85/fancourier-api/releases)
- - [GH-infifni: Sylius-plugin 4 FAN-Courier ](https://github.com/infifni/sylius-fan-courier-plugin)
+ - [GH-infifni: Sylius-plugin 4 FAN-Courier ](https://github.com/infifni/sylius-fan-courier-plugin) [...OpenWeaver/infifni Fan-Courier plugin for Sylius](https://kandi.openweaver.com/php/infifni/sylius-fan-courier-plugin)
  - [fancourier.ro-WP-blog: EN API DOCUMENTATION FAN Courier V 2.0 May 2023](https://www.fancourier.ro/wp-content/uploads/2023/07/EN_FANCourier_API-2.0-160523.pdf)
  - [fancourier.ro-WP-blog: RO DOCUMENTATIE API FAN Courier v 2.0 Mai 2023](https://www.fancourier.ro/wp-content/uploads/2023/07/RO_FANCourier_API-2.0-100523.pdf)
  - [GH-FAN-Courier: API Docs - o problema aparuta...](https://github.com/FAN-Courier/API-Docs/issues)
