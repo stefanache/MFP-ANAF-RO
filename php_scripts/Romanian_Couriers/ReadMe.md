@@ -90,8 +90,9 @@ Sa le luam pe rand, si sa vedem cateva link-uri utile...:
  - [scribd-PDF: doc-API - Sameday Courier Client API](https://www.scribd.com/document/468330897/descarca-documentatia-api-pdf) ... a se urmari si link-urile aferente...
  - [WP-plugins: SamedayCourier Shipping](https://ro.wordpress.org/plugins/samedaycourier-shipping/)
  - [reddit-forum: Mail de confirmare cu ID Comanda, Sameday AWB, Factura](https://www.reddit.com/r/programare/comments/1cnea28/mail_de_confirmare_cu_id_comanda_sameday_awb/)
- - [17track-RO: Sameday (RO) Urmărirea](https://www.17track.net/ro/carriers/sameday-%28ro%29)
+ - [17track-RO: SameDay (RO) Urmărirea](https://www.17track.net/ro/carriers/sameday-%28ro%29)
  - [colete-online.ro-Info: Sameday-Dispoziţii/Conditii Generale](https://www.colete-online.ro/info/general-conditions-sameday)
+ - [scribd-PDF: Documentati integrare API SameDay v2.3-2024](https://www.scribd.com/document/735502958/Documentatie-API-Sameday-v2-3-2024)
 
      
    
