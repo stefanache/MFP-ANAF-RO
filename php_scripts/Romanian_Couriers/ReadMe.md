@@ -84,6 +84,7 @@ Sa le luam pe rand, si sa vedem cateva link-uri utile...:
  - [sameday.ro - Afiliere Parteneri](https://sameday.ro/parteneri-sameday/)
  - [base-RO: Integrare SameDay](https://base.com/ro-RO/integrari/sameday/)
  - [curie.ro: Verificare is Activare Access Serviciu](https://curie.ro/documentatie/sameday-verificare-si-activare-acces-serviciu/)
+ - [webecom.ro-blog: Integrare curier Sameday API SYNC – Acum poti emite mai rapid documente AWB si chiar sa livrezi la EasyBox ](https://www.webecom.ro/blog/integrare-curier-sameday-api-sync-acum-poti-emite-mai-rapid-documente-awb-si-chiar-sa-livrezi-la-easybox/)
 
      
    
