@@ -117,7 +117,7 @@ Sa le luam pe rand, si sa vedem cateva link-uri utile...:
  - [OpenCart-Fan Courier Romania - AWB generator](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=29736&filter_category_id=5&filter_download_id=39&sort=price&page=9)
  - [scribd-PDF: Installing and configuring the FAN Courier Shipping plugin for Woocommerce(WC)](https://www.scribd.com/document/312860471/Installing-and-Configuring-the-FAN-Courier-Shipping-Plugin-for-Woocommerce)
  - [GH-besciualex: Judete si Orase - FAN-Courier Romania](https://github.com/besciualex/judete-si-orase-romania-fan-curier)
- - [GH-besciualex-PhP-cURL:cucubau: Judete si Orase - FAN-Courier Romania](https://github.com/besciualex/judete-si-orase-romania-fan-curier/blob/master/cucubau.php)
+ - [GH-besciualex-PhP-cURL - cucubauSelfAWB: Judete si Orase - FAN-Courier Romania](https://github.com/besciualex/judete-si-orase-romania-fan-curier/blob/master/cucubau.php)...[selfAWB.ro](http://www.selfawb.ro)
  - [GH-cheadrian/fancourier-woocommerce(WC): FAN-Courier](https://github.com/cheadrian/fancourier-woocommerce/blob/master/fan_courier.php)
 
    
