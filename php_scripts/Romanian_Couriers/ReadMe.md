@@ -1,8 +1,8 @@
 **Salutare** *tuturor*!
 
-As vrea sa facem o introspectie a API-urilor existente pe piata din Romania cu privire la **companiile de curierat**.
+As vrea sa facem o introspectie a **API**-urilor(si nu numai!) existente pe piata din ***Romania*** cu privire la **companiile de curierat**.
 
-Desigur ati auzit de companiile de curierierat ce activeaza si in Romania, cum ar fi:
+Desigur ati auzit de **companiile de curierierat** ce activeaza si in ***Romania***(si nu numai!), cum ar fi:
  
  - 1. **DPD**, 
  - 2. **Sameday**, 
