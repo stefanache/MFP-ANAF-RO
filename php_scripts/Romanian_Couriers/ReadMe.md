@@ -31,7 +31,7 @@ Cam astea ar fi pe scurt, principalele probleme legate de acest subiect.
 
 Sa luam pe rand fiecare curier si sa vedem cateva link-uri(mai mult sau mai putin oficiale:) utile...:
 
-1. **DPD** :
+<br/>1. **DPD** :
  - [cautare google ... api dpd ro](https://www.google.com/search?q=api+dpd+ro&sca_esv=42c55ce90fafe599&rlz=1C1CHBF_enRO1132RO1132&sxsrf=AHTn8zrq3lmx9Pab3kgM_ZmbRXMNp13zWA:1739972261989&source=lnt&tbs=lr:lang_1ro&lr=lang_ro&sa=X&ved=2ahUKEwj27ODk7c-LAxWNQfEDHX9WD5A4FBCnBXoECAQQBw&biw=1920&bih=911&dpr=1)
  - [DPD-RO website](https://www.dpd.com/ro/ro/)
  - [DPD REST API examples](]https://services.dpd.ro/api/api_examples.html)
@@ -80,7 +80,7 @@ Sa luam pe rand fiecare curier si sa vedem cateva link-uri(mai mult sau mai puti
  - [DPD-RO: DPD WooCommerce(WC) Plugin](https://www.dpd.com/ro/en/e-commerce/woocommerce-plugin/)
  - ...
 
-2. **SameDay**:
+<br/>2. **SameDay**:
 
  - [cautare google ... api sameday ro](https://www.google.com/search?q=api+sameday+ro&sca_esv=99157084a6b2f2a0&rlz=1C1CHBF_enRO1132RO1132&sxsrf=AHTn8zolWwEqrj7jdzN7_v5GSFrAQJ8paQ:1739975946308&source=lnt&tbs=lr:lang_1ro&lr=lang_ro&sa=X&ved=2ahUKEwjU5cnB-8-LAxWRS_EDHXXzHmwQpwV6BAgBEAc&biw=1920&bih=911&dpr=1)
  - [sameday.ro website](https://sameday.ro/)
@@ -114,7 +114,7 @@ Sa luam pe rand fiecare curier si sa vedem cateva link-uri(mai mult sau mai puti
  - [OpenCart-forum: Instalare plug-in Sameday cu livrare in easybox](https://forum.opencart.com/viewtopic.php?t=228360)
  - [...](https://www.google.com/search?q=github+sameday+php+romania&sca_esv=ec1d9ca90aff3fe1&rlz=1C1CHBF_enRO1132RO1132&sxsrf=AHTn8zqWHN0V1Dbbrxdtut1AR1Q7Ij9VoA%3A1739981451365&ei=iwK2Z7mEFre6wPAPvrSz6A0&ved=0ahUKEwj59cuCkNCLAxU3HRAIHT7aDN0Q4dUDCBA&uact=5&oq=github+sameday+php+romania&gs_lp=Egxnd3Mtd2l6LXNlcnAiGmdpdGh1YiBzYW1lZGF5IHBocCByb21hbmlhMgUQIRigATIFECEYoAEyBRAhGKABSIUVUPYGWI4TcAF4AZABAJgBpgGgAZ4IqgEDMC44uAEDyAEA-AEBmAIJoAKzCMICChAAGLADGNYEGEeYAwCIBgGQBgeSBwMxLjigB8AY&sclient=gws-wiz-serp)
 
- 3. **FAN-Courier**:
+ <br/>3. **FAN-Courier**:
 
  - [GH-Laurent1u: Fan-Courier API Client](https://github.com/Laurent1u/fan-courier)
  - [GH-infifni: Fan Courier API Client Library(MIT License)](https://github.com/infifni/fan-courier-api-client)
@@ -147,19 +147,19 @@ Sa luam pe rand fiecare curier si sa vedem cateva link-uri(mai mult sau mai puti
  - [...](https://www.google.com/search?q=github+fan+courier&sca_esv=ec1d9ca90aff3fe1&rlz=1C1CHBF_enRO1132RO1132&sxsrf=AHTn8zp1qcQGXlka4OyX5Yp9RJJ5d6sM2A%3A1739981375980&ei=PwK2Z_a1O8GGwPAP9a3VoA0&ved=0ahUKEwi20dLej9CLAxVBAxAIHfVWFdQQ4dUDCBA&uact=5&oq=github+fan+courier&gs_lp=Egxnd3Mtd2l6LXNlcnAiEmdpdGh1YiBmYW4gY291cmllcjIEECMYJzIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIESIEZUP4HWMQWcAF4AZABAJgBhAGgAeMHqgEDMC44uAEDyAEA-AEBmAIJoAL9B8ICChAAGLADGNYEGEfCAgUQABjvBZgDAIgGAZAGCJIHAzEuOKAHliQ&sclient=gws-wiz-serp)
 
 
- 4. **Curiera**:
+ <br/>4. **Curiera**:
 
  - [curiera - website](https://curiera.ro/)
  - [...](https://vladilie.ro/ro/blog/euplatesc-nodejs)
 
 
- 5.  **Urgent-CARGUS**:
+ <br/>5.  **Urgent-CARGUS**:
 
  - [GH-EaDesgin - M1 Urgent Cargus courier estimate](https://github.com/EaDesgin/m1-urgent-cargus-courier-estimate)
  - [...](https://github.com/itrack/CursBNR)
 
 
- 6.  **GLS**:
+ <br/>6.  **GLS**:
 
  - [GH-logical-and: gls-shipping-api](https://github.com/logical-and/gls-shipping-api/tree/master)
  - [...](https://github.com/govro)
