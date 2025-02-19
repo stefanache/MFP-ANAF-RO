@@ -17,7 +17,7 @@ Ce as vrea sa stiu in principal, despre acestea?
      si eventual sa pot crea, din API ...
    - "***Shipment***"(sa creez ***transportul***)
    - "***Pickup Date***"(sa creez ***data de preluare*** a coletului/coletelor)
-   - "***AWB***" (***numarul de urmarire a coletului***, salvat eventual intr-un document *PDF* pt a fi usor vehiculat peste internet...)
+   - "***AWB***" (sa preiau ***numarul de urmarire(generat-automat),  al coletului***, salvat eventual intr-un document *PDF* pt a fi usor vehiculat peste internet...)
 
   ***AWB***-ul este esential mai ales in privinta urmaririi starii de procesare a transportului respectiv.
 
