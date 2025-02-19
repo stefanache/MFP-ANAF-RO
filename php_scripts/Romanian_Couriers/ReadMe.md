@@ -76,6 +76,8 @@ Sa luam pe rand fiecarew curier si sa vedem cateva link-uri(mai mult sau mai put
  - [aftership: DPD Romania Urmărire](https://www.aftership.com/ro/carriers/dpd-ro)
  - [easy-sales: Articole...cauta DPD](https://support.easy-sales.com/hc/ro/profiles/380238451597-Razvan-Toader?after=ZN5vo2YAAAAAZPY1tmQAAAAAaRJuNiZsCwAA&filter_by=articles&sort_by=recent_user_activity)
  - [DPD-RO api PDF: Label Report cu COD 2505 DPD STANDARD](https://api.dpd.ro/examples/LabelWithCOD_RO.pdf) ... [COD=Cash-On-Delivery](https://forum.opencart.com/viewtopic.php?t=228473)
+ - [DPD-RO: DPD WooCommerce(WC) Plugin](https://www.dpd.com/ro/en/e-commerce/woocommerce-plugin/)
+ - ...
 
 2. **SameDay**:
 
