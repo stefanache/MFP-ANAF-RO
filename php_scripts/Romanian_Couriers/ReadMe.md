@@ -71,6 +71,7 @@ Sa le luam pe rand, si sa vedem cateva link-uri utile...:
  - [scribd-PDF tutorial: Ghid de instalare DPD-WooCommerce](https://www.scribd.com/document/499035622/Tutorial-DPD-WooCommerce)
  - [aftership: DPD Romania Urmărire](https://www.aftership.com/ro/carriers/dpd-ro)
  - [easy-sales: Articole...cauta DPD](https://support.easy-sales.com/hc/ro/profiles/380238451597-Razvan-Toader?after=ZN5vo2YAAAAAZPY1tmQAAAAAaRJuNiZsCwAA&filter_by=articles&sort_by=recent_user_activity)
+ - [DPD-RO api PDF: Label Report cu COD 2505 DPD STANDARD](https://api.dpd.ro/examples/LabelWithCOD_RO.pdf)
 
      
    
