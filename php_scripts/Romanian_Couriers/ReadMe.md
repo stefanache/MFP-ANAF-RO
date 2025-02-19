@@ -29,6 +29,7 @@ Sa le luam pe rand, si sa vedem cateva link-uri utile...:
 
 1. **DPD** :
  - [cautare google ... api dpd ro](https://www.google.com/search?q=api+dpd+ro&sca_esv=42c55ce90fafe599&rlz=1C1CHBF_enRO1132RO1132&sxsrf=AHTn8zrq3lmx9Pab3kgM_ZmbRXMNp13zWA:1739972261989&source=lnt&tbs=lr:lang_1ro&lr=lang_ro&sa=X&ved=2ahUKEwj27ODk7c-LAxWNQfEDHX9WD5A4FBCnBXoECAQQBw&biw=1920&bih=911&dpr=1)
+ - [DPD-RO website](https://www.dpd.com/ro/ro/)
  - [DPD REST API examples](]https://services.dpd.ro/api/api_examples.html)
  - [DPD Web API Documentation](https://api.dpd.ro/web-api.html)
    <br/>cautati in aceasta [pagina](https://api.dpd.ro/web-api.html) ... si alte link-uri sau dupa textul(desigur, fara ghilimele)..."PDF Examples:"
@@ -76,7 +77,7 @@ Sa le luam pe rand, si sa vedem cateva link-uri utile...:
 2. **SameDay**:
 
  - [cautare google ... api sameday ro](https://www.google.com/search?q=api+sameday+ro&sca_esv=99157084a6b2f2a0&rlz=1C1CHBF_enRO1132RO1132&sxsrf=AHTn8zolWwEqrj7jdzN7_v5GSFrAQJ8paQ:1739975946308&source=lnt&tbs=lr:lang_1ro&lr=lang_ro&sa=X&ved=2ahUKEwjU5cnB-8-LAxWRS_EDHXXzHmwQpwV6BAgBEAc&biw=1920&bih=911&dpr=1)
- - [sameday.ro](https://sameday.ro/)
+ - [sameday.ro website](https://sameday.ro/)
 
      
    
