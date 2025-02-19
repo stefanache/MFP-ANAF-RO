@@ -9,9 +9,9 @@ Desigur ati auzit de companiile de curierierat ce activeaza si in Romania, cum a
  - Fan Courier, ori
  - Curiera
 
-   Sa-mi fie iertat ca nu le-am enumerat dar in realitate sunt cu siguranta mult mai multe...
+Sa-mi fie iertat ca nu le-am enumerat dar in realitate sunt cu siguranta mult mai multe...
 
-   Ce as vrea sa stiu in prinicpal, despre acestea?
+Ce as vrea sa stiu in prinicpal, despre acestea?
 
    - sa stiu "Shipping Cost"
      si eventual sa pot crea, din API ...
