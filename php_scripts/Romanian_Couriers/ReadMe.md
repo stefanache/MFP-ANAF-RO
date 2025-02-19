@@ -35,6 +35,7 @@ Sa le luam pe rand:
  - [DPD Romania API Docs](https://www.aftership.com/carriers/dpd-ro/api)
  - [DPD-RO API address-form](https://services.dpd.ro/address_form/_README.txt)
  - [Github-coffeedesk: DPD API Client](https://github.com/coffeedesk/dpd-api-client-php)
+ - [Github-DPDromania](https://github.com/DPDromania)
  - [Github-dataLinx: DPD-PHP-SDK(Slovenia si Croatia)](https://github.com/DataLinx/DPD-PHP-SDK)... cu titlu de exemplu
  - [Github-blobswop: DPD PhP API(Germany)](https://github.com/blobswop/dpd-php-api) ... cu titlu de exemplu
 
