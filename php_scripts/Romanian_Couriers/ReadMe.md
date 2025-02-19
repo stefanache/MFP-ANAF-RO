@@ -32,6 +32,7 @@ Sa le luam pe rand:
  - [DPD Web API Documentation](https://api.dpd.ro/web-api.html)
  - [DPD-RO eCommerce](https://www.dpd.com/ro/ro/e-commerce/)
  - [DPD-RO Support IT](https://www.dpd.com/ro/ro/suport-dpd/suport-it/)
+ - [DPR Romania API Docs](https://www.aftership.com/carriers/dpd-ro/api)
 
      
    
