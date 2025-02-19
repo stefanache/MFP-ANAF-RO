@@ -89,6 +89,7 @@ Sa le luam pe rand, si sa vedem cateva link-uri utile...:
  - [WP-plugins: SamedayCourier Shipping](https://ro.wordpress.org/plugins/samedaycourier-shipping/)
  - [reddit-forum: Mail de confirmare cu ID Comanda, Sameday AWB, Factura](https://www.reddit.com/r/programare/comments/1cnea28/mail_de_confirmare_cu_id_comanda_sameday_awb/)
  - [17track-RO: Sameday (RO) Urmărirea](https://www.17track.net/ro/carriers/sameday-%28ro%29)
+ - [colete-online.ro-Info: Sameday-Dispoziţii/Conditii Generale](https://www.colete-online.ro/info/general-conditions-sameday)
 
      
    
