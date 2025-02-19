@@ -28,7 +28,7 @@ Cam astea ar fi pe scurt, principalele probleme legate de acest subiect.
 Sa le luam pe rand:
 
 1.DPD:
- - [cautare google ... api dpd ro](https://www.google.com/search?q=api+dpd+ro&sca_esv=42c55ce90fafe599&rlz=1C1CHBF_enRO1132RO1132&sxsrf=AHTn8zo8237VJeKXrUlwtpAEdFBH9xhIYA:1739970866562&ei=Mtm1Z4T3IcW3xc8PvpCqmAY&start=10&sa=N&sstk=Af40H4WJ7D4e3cJr6Sr2ZgAwhhrLCQI_AarThLs386O8xrF8mW4XQ_wqPtr8ee1Vahcc2vq8-4d5WqMKv8tHA5cdTauhGTnm5pEdwQ&ved=2ahUKEwiE2K7L6M-LAxXFW_EDHT6ICmMQ8tMDegQIBRAE&biw=1920&bih=911&dpr=1)
+ - [cautare google ... api dpd ro](https://www.google.com/search?q=api+dpd+ro&sca_esv=42c55ce90fafe599&rlz=1C1CHBF_enRO1132RO1132&sxsrf=AHTn8zrq3lmx9Pab3kgM_ZmbRXMNp13zWA:1739972261989&source=lnt&tbs=lr:lang_1ro&lr=lang_ro&sa=X&ved=2ahUKEwj27ODk7c-LAxWNQfEDHX9WD5A4FBCnBXoECAQQBw&biw=1920&bih=911&dpr=1)
  - [DPD REST API examples](]https://services.dpd.ro/api/api_examples.html)
  - [DPD Web API Documentation](https://api.dpd.ro/web-api.html)
    <br/>cautati in aceasta [pagina](https://api.dpd.ro/web-api.html) ... si alte link-uri sau dupa textul(desigur, fara ghilimele)..."PDF Examples:"
