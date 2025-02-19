@@ -146,10 +146,12 @@ Sa luam pe rand fiecarew curier si sa vedem cateva link-uri(mai mult sau mai put
  - [AbanteCart-forum: Is there a way to have a Fan Courier Romania Extension?](https://forum.abantecart.com/index.php?topic=833.0)
  - [...](https://www.google.com/search?q=github+fan+courier&sca_esv=ec1d9ca90aff3fe1&rlz=1C1CHBF_enRO1132RO1132&sxsrf=AHTn8zp1qcQGXlka4OyX5Yp9RJJ5d6sM2A%3A1739981375980&ei=PwK2Z_a1O8GGwPAP9a3VoA0&ved=0ahUKEwi20dLej9CLAxVBAxAIHfVWFdQQ4dUDCBA&uact=5&oq=github+fan+courier&gs_lp=Egxnd3Mtd2l6LXNlcnAiEmdpdGh1YiBmYW4gY291cmllcjIEECMYJzIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIESIEZUP4HWMQWcAF4AZABAJgBhAGgAeMHqgEDMC44uAEDyAEA-AEBmAIJoAL9B8ICChAAGLADGNYEGEfCAgUQABjvBZgDAIgGAZAGCJIHAzEuOKAHliQ&sclient=gws-wiz-serp)
 
+
    4. **Curiera**:
 
  - [curiera - website](https://curiera.ro/)
  - [...](https://vladilie.ro/ro/blog/euplatesc-nodejs)
+
 
    5. **Urgent-CARGUS**:
 
@@ -157,10 +159,12 @@ Sa luam pe rand fiecarew curier si sa vedem cateva link-uri(mai mult sau mai put
  - [...](https://github.com/itrack/CursBNR)
    
 
+
   6. **GLS**
 
  - [GH-logical-and: gls-shipping-api](https://github.com/logical-and/gls-shipping-api/tree/master)
  - [...](https://github.com/govro)
+
 
    <br/><br/>***Nota***: 
 <br/>Chiar daca nu gasiti ce va trebuie...anumite cuvinte/idei va pot veni in ajutor(ca si topice=subiecte de cautare) cand cautati cu **Google** sau de ce nu direct pe [**GhitHub(GH)**](https://github.com/topics/carriers)...*descoperire/cautare* placuta! 
