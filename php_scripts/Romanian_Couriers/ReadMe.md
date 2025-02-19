@@ -67,6 +67,7 @@ Sa le luam pe rand, si sa vedem cateva link-uri utile...:
  - [DPD-RO: PDF - Return-Voucher](https://api.dpd.ro/examples/ReturnVoucher_RO.pdf)
  - [scribd.ro-PDF: Ghid de instalare pt modulul DPD-Prestashop](https://www.scribd.com/document/508750241/DPD-Prestashop-Documentatie-instalare-modul)
  - [webShopAssist: Integrare DPD cu Shopify](https://www.webshopassist.com/ro/dpd-app)
+ - [base-RO integrari: Integrati Mall cu DPD](https://base.com/ro-RO/integrari/mall_dpd/)
 
      
    
