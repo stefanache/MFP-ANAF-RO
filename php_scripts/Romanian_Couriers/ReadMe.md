@@ -87,6 +87,7 @@ Sa le luam pe rand, si sa vedem cateva link-uri utile...:
  - [webecom.ro-blog: Integrare curier Sameday API SYNC – Acum poti emite mai rapid documente AWB si chiar sa livrezi la EasyBox ](https://www.webecom.ro/blog/integrare-curier-sameday-api-sync-acum-poti-emite-mai-rapid-documente-awb-si-chiar-sa-livrezi-la-easybox/)
  - [scribd-PDF: doc-API - Sameday Courier Client API](https://www.scribd.com/document/468330897/descarca-documentatia-api-pdf) ... a se urmari si link-urile aferente...
  - [WP-plugins: SamedayCourier Shipping](https://ro.wordpress.org/plugins/samedaycourier-shipping/)
+ - [reddit-forum: Mail de confirmare cu ID Comanda, Sameday AWB, Factura](https://www.reddit.com/r/programare/comments/1cnea28/mail_de_confirmare_cu_id_comanda_sameday_awb/)
 
      
    
