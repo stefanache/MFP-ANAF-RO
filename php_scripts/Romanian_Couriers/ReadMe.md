@@ -39,6 +39,8 @@ Sa le luam pe rand:
  - [Github-dataLinx: DPD-PHP-SDK(Slovenia si Croatia)](https://github.com/DataLinx/DPD-PHP-SDK)... cu titlu de exemplu
  - [Github-blobswop: DPD PhP API(Germany)](https://github.com/blobswop/dpd-php-api) ... cu titlu de exemplu
  - [Github-msztorc: PhP DPD-API...API-wrapper(Polska)](https://github.com/msztorc/php-dpd-api)...cu titlu de exemplu
+ - [EasySales: Configurare-Curier-DPD](https://support.easy-sales.com/hc/ro/articles/360018572537-Configurare-Curier-DPD)
+ - [DPDGroup: Shipping API V1.1 docs](https://nst-preprod.dpsin.dpdgroup.com/api/docs/#nst-shipment-api)
 
      
    
