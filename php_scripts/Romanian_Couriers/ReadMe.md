@@ -31,6 +31,7 @@ Sa le luam pe rand:
  - [DPD REST API examples](]https://services.dpd.ro/api/api_examples.html)
  - [DPD Web API Documentation](https://api.dpd.ro/web-api.html)
  - [DPD-RO eCommerce](https://www.dpd.com/ro/ro/e-commerce/)
+ - [DPD-RO Support IT](https://www.dpd.com/ro/ro/suport-dpd/suport-it/)
 
      
    
