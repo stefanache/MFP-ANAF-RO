@@ -114,4 +114,5 @@ Sa le luam pe rand, si sa vedem cateva link-uri utile...:
  - [GH-FAN-Courier: API Docs](https://github.com/FAN-Courier/API-Docs?fbclid=IwY2xjawIi19RleHRuA2FlbQIxMAABHbXaXMkUHplMAVwxFZE6Uknmtb3lrwmQhXbXEauTbqXo5WhpEoyCuPJvlA_aem_nyT3tGbfuZYDS8oD0QI6pA)
  - [FB-Home Assistant*HA) Romania: integrare SameDay(SD) si FAN-Courier(FC) cu HomeAssistant(HA)](https://www.facebook.com/groups/HomeAssistantRomania/posts/7850718131697247/)
  - [PrestaShop-forum: Modul FAN-Courier](https://www.prestashop.com/forums/topic/215417-modul-fan-courier/)
+ - [OpenCart=Fan Courier Romania - AWB generator](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=29736&filter_category_id=5&filter_download_id=39&sort=price&page=9)
    
