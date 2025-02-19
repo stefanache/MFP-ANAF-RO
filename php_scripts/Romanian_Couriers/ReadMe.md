@@ -96,6 +96,7 @@ Sa le luam pe rand, si sa vedem cateva link-uri utile...:
  - [BOCP.eu-Implementare SameDay Curier](https://www.bocp.eu/actualizari-actualizari-20/implementare_sameday_curier.htm)
    <br>BOCP=Bussiness Online Control Panel
  - [e-cap.ro: SynCap - Configurare Curier SameDay](https://support.e-cap.ro/ro/configurare-curier-sameday)
+ - [curie.ro-Doc: Sameday AWB: Ghid de completare a setărilor de generare a AWB-urilor](https://curie.ro/documentatie/sameday-awb-ghid-de-completare-a-setarilor-de-generare-a-awb-urilor/)
 
      
    
