@@ -103,5 +103,6 @@ Sa le luam pe rand, si sa vedem cateva link-uri utile...:
 
  3. **FanCourier**:
 
- - [GH-Laurent1u: FanCourier API Client](https://github.com/Laurent1u/fan-courier)
+ - [GH-Laurent1u: Fan-Courier API Client](https://github.com/Laurent1u/fan-courier)
+ - [GH-infifni: Fan Courier API Client Library(MIT License)](https://github.com/infifni/fan-courier-api-client)
    
