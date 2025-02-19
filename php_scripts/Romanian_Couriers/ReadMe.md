@@ -102,6 +102,7 @@ Sa le luam pe rand, si sa vedem cateva link-uri utile...:
  - [Shopfy-App-Store: SameDay App](https://apps.shopify.com/samedayapp)
  - [GH-SameDay-Courier](https://github.com/sameday-courier)
  - [Gist-rwkyyy/: afișare număr awb și buton în mail-urile de WooCommerce(WC) - Sameday România](https://gist.github.com/rwkyyy/2c60bd8d7b4e0a4400b3c5f8971c76a1?permalink_comment_id=4256027)
+ - [FB WP+WC: discutii pe forum](https://www.facebook.com/groups/967830243722613/posts/2019185788587048/)
 
  3. **FanCourier**:
 
