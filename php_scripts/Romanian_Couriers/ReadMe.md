@@ -52,6 +52,7 @@ Sa le luam pe rand:
  - [Github-weblinko: DPD - PHP - SOAP WSL ](https://github.com/weblinko/php-dpd)
  - [cautare google ... github DPD Ro SOAP API php](https://www.google.com/search?q=github+DPD+Ro+SOAP+API+php&rlz=1C1CHBF_enRO1132RO1132&oq=github+DPD+Ro+SOAP+API+php&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiABBiiBDIHCAMQABjvBTIKCAQQABiABBiiBDIHCAUQABjvBTIGCAYQRRhA0gEKMTcwMjJqMGoxNagCCLACAfEFSM0IcvDVlKvxBUjNCHLw1ZSr&sourceid=chrome&ie=UTF-8)
  - [base-RO: integrari DPD](https://base.com/ro-RO/integrari/dpd/)
+ - [Curie.RO - WooCommerce DPD plugin v.2025](https://curie.ro/woocommerce-dpd/)
 
      
    
