@@ -45,6 +45,7 @@ Sa le luam pe rand:
  - [17track: DPD(RO) - Urmărirea](https://www.17track.net/ro/carriers/dpd-ro)
  - [DPD-RO: API examples A4_RO PDF](https://api.dpd.ro/examples/A4_RO.pdf)...
    <br/>cautati in aceasta [pagina](https://api.dpd.ro/web-api.html) ... dupa textul(desigur, fara ghilimele)..."PDF Examples:"
+ - [curie.ro-doc: DPD-Romania Verificare-si-activare-acces-serviciu](https://curie.ro/documentatie/dpd-romania-verificare-si-activare-acces-serviciu/)
 
      
    
