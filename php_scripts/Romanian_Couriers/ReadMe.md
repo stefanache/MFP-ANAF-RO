@@ -65,6 +65,7 @@ Sa le luam pe rand:
  - [ship24.ro-Curieri: DPD-RO - urmărirea DPD Romania](https://www.ship24.com/ro/curieri/dpd-tracking/dpd-ro)
  - [ship24-RO: DPD Tracking API și integrare](https://www.ship24.com/ro/tracking-api/dpd)
  - [DPD-RO: PDF - Return-Voucher](https://api.dpd.ro/examples/ReturnVoucher_RO.pdf)
+ - [scribd.ro-PDF: Ghid de instalare pt modulul DPD-Prestashop](https://www.scribd.com/document/508750241/DPD-Prestashop-Documentatie-instalare-modul)
 
      
    
