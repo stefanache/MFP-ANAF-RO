@@ -1,6 +1,6 @@
 **Salutare** *tuturor*!
 
-As vrea sa facem o introspectie a **API**-urilor(si nu numai!) existente pe piata din ***Romania*** cu privire la **companiile de curierat**.
+As vrea sa facem o introspectie a **API**-urilor(si nu numai!) existente pe piata din ***Romania*** cu privire la [**companiile de curierat**](https://www.reddit.com/r/programare/comments/14blm57/api_firme_de_curierat/).
 
 Desigur ati auzit de **companiile de curierierat** ce activeaza si in ***Romania***(si nu numai!), cum ar fi:
  
