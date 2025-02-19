@@ -46,6 +46,8 @@ Sa le luam pe rand:
  - [DPD-RO: API examples A4_RO PDF](https://api.dpd.ro/examples/A4_RO.pdf)...
    <br/>cautati in aceasta [pagina](https://api.dpd.ro/web-api.html) ... dupa textul(desigur, fara ghilimele)..."PDF Examples:"
  - [curie.ro-doc: DPD-Romania Verificare-si-activare-acces-serviciu](https://curie.ro/documentatie/dpd-romania-verificare-si-activare-acces-serviciu/)
+ - [GoMag: DPD](https://help.gomag.ro/hc/ro/articles/360018703954-DPD)
+ - [EnFocus-forum: DPD SOAP API](https://forum.enfocus.com/viewtopic.php?t=3796) ... a se vedea si link-urile referite in aceasta discutie...!
 
      
    
