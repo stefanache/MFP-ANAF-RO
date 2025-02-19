@@ -54,7 +54,7 @@ Sa le luam pe rand:
  - [base-RO: integrari DPD](https://base.com/ro-RO/integrari/dpd/)
  - [Curie.RO - WooCommerce DPD plugin v.2025](https://curie.ro/woocommerce-dpd/)
  - [onlineDPD.ro-PrestaShop - DPD-Test Contact-us](https://prestashop.onlinedpd.ro/en/contact-us)
- - [myDPD.ro - Autentificare/Inregistrare utilizator](https://mydpd.dpd.ro/)
+ - [myDPD.ro - SkyLogistics - Autentificare/Inregistrare utilizator](https://mydpd.dpd.ro/)
 
      
    
