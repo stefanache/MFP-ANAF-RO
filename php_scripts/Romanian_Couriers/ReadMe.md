@@ -48,6 +48,7 @@ Sa le luam pe rand:
  - [curie.ro-doc: DPD-Romania Verificare-si-activare-acces-serviciu](https://curie.ro/documentatie/dpd-romania-verificare-si-activare-acces-serviciu/)
  - [GoMag: DPD](https://help.gomag.ro/hc/ro/articles/360018703954-DPD)
  - [EnFocus-forum: DPD SOAP API](https://forum.enfocus.com/viewtopic.php?t=3796) ... a se vedea si link-urile referite in aceasta discutie...!
+ - [Github-weblinko: DPD - PHP - SOAP WSL ](https://github.com/weblinko/php-dpd)
 
      
    
