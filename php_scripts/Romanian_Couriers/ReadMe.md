@@ -103,6 +103,7 @@ Sa le luam pe rand, si sa vedem cateva link-uri utile...:
  - [GH-SameDay-Courier](https://github.com/sameday-courier)
  - [Gist-rwkyyy/: afișare număr awb și buton în mail-urile de WooCommerce(WC) - Sameday România](https://gist.github.com/rwkyyy/2c60bd8d7b4e0a4400b3c5f8971c76a1?permalink_comment_id=4256027)
  - [FB WP+WC: discutii pe forum](https://www.facebook.com/groups/967830243722613/posts/2019185788587048/)
+ - [OpenCart - Sameday Courier](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=36126&filter_search=shipping&filter_category_id=4&filter_license=0&filter_download_id=53&sort=date_modified)
 
  3. **FanCourier**:
 
