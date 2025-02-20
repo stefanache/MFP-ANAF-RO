@@ -7,6 +7,7 @@ Cateva link-uri utile despre GDPR:
 - [shoppink.ro-magicpaper: Politica de prelucrare a datelor personale (GDPR)](https://magicpaper.shoppink.ro/politica-de-prelucrare-a-datelor-personale-gdpr/)
 - [europa.eu: GDPR](https://europa.eu/youreurope/business/dealing-with-customers/data-protection/data-protection-gdpr/index_ro.htm)
 - [GDPRhub.eu: Data Protection in Romania](https://gdprhub.eu/Data_Protection_in_Romania)
+- [Multilaw-Data_Protection_Laws_Guide: Data Protection Guide in RO](https://multilaw.com/Multilaw/Multilaw/Data_Protection_Laws_Guide/DataProtection_Guide_Romania.aspx)
 - [ANSPDCP: GDPR](https://www.dataprotection.ro/?page=noua%20_pagina_regulamentul_GDPR)
 - [MIPE-GDPR](https://mfe.gov.ro/informatii-de-interes-public/solicitare-informatii-legislatie/protectia-datelor-cu-caracter-personal-gdpr/)
 - [NeoTechnic: GDPR](https://neotehnic.ro/politica-de-confidentialitate/?gad_source=1&gclid=Cj0KCQiAwtu9BhC8ARIsAI9JHamvy5FM4WPMfqVhm9IdpLmgWFpzSs4pM0x1V37dk7RlEtvJ6GWTxQEaApsxEALw_wcB)
