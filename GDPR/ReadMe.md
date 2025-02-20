@@ -11,6 +11,7 @@ Cateva link-uri utile despre GDPR:
 - [avocatpavel: What represents personal data protection in RO - GDPR ](https://www.avocatpavel.com/what-represents-personal-data-protection-in-romania-gdpr/)
 - [one-it.ro-blog: GDPR – Legea privind măsuri de punere în aplicare a Regulamentului (UE) 2016/679 privind protecţia și prelucrarea datelor cu caracter personal ( FORMA FINALA )](https://www.one-it.ro/blog/gdpr-legea-privind-masuri-de-punere-aplicare-regulamentului-ue-2016-679-privind-protectia-si-prelucrarea-datelor-cu-caracter-personal-forma-finala/)
 - [one-it.ro-blog: GDPR - Propunere legislativă privind implementarea Regulamentului (UE) 2016/679 privind protecţia și prelucrarea datelor cu caracter personal](https://www.one-it.ro/blog/gdpr-propunere-legislativa-privind-implementarea-regulamentului-ue-2016-679-privind-protectia-si-prelucrarea-datelor-cu-caracter-personal-restrictii-derogari/)
+- [ceelegalmatters-data-protection-2024: RO data-protection in 2024](https://ceelegalmatters.com/data-protection-2024/romania-data-protection-2024)
 - [ANSPDCP: GDPR](https://www.dataprotection.ro/?page=noua%20_pagina_regulamentul_GDPR)
 - [MIPE-GDPR](https://mfe.gov.ro/informatii-de-interes-public/solicitare-informatii-legislatie/protectia-datelor-cu-caracter-personal-gdpr/)
 - [romania-gdpr.ro-website](https://romania-gdpr.ro/)
