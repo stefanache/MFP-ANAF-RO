@@ -3,7 +3,8 @@ Salutare!
 Cateva link-uri utile despre GDPR:
 
 - [wiki-RG pt PD](https://ro.wikipedia.org/wiki/Regulamentul_General_privind_Protec%C8%9Bia_Datelor), [wiki-DP](https://ro.wikipedia.org/wiki/Date_personale),
-  [eurocompozite.ro: politica-cookie-gdpr](https://www.eurocompozite.ro/index.php/politica-cookie-gdpr),[wikidrinks: GDPR](https://wikidrinks.ro/gdpr/?srsltid=AfmBOopGdiIKZtJ7qLWryLDA_rXS0J0spFveNNkP4k_w1iZSprSt2zwN),[shoppink.ro-magicpaper: Politica de prelucrare a datelor personale (GDPR)](https://magicpaper.shoppink.ro/politica-de-prelucrare-a-datelor-personale-gdpr/)
+  [eurocompozite.ro: politica-cookie-gdpr](https://www.eurocompozite.ro/index.php/politica-cookie-gdpr),[wikidrinks: GDPR](https://wikidrinks.ro/gdpr/?srsltid=AfmBOopGdiIKZtJ7qLWryLDA_rXS0J0spFveNNkP4k_w1iZSprSt2zwN),...
+- [shoppink.ro-magicpaper: Politica de prelucrare a datelor personale (GDPR)](https://magicpaper.shoppink.ro/politica-de-prelucrare-a-datelor-personale-gdpr/)
 - [ANSPDCP: GDPR](https://www.dataprotection.ro/?page=noua%20_pagina_regulamentul_GDPR)
 - [MIPE-GDPR](https://mfe.gov.ro/informatii-de-interes-public/solicitare-informatii-legislatie/protectia-datelor-cu-caracter-personal-gdpr/)
 - [NeoTechnic: GDPR](https://neotehnic.ro/politica-de-confidentialitate/?gad_source=1&gclid=Cj0KCQiAwtu9BhC8ARIsAI9JHamvy5FM4WPMfqVhm9IdpLmgWFpzSs4pM0x1V37dk7RlEtvJ6GWTxQEaApsxEALw_wcB)
