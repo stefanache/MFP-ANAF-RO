@@ -33,4 +33,5 @@ Cateva [link](https://www.google.com/search?q=gdpr+mysql+php+encrypt&sca_esv=05d
 - [techbriefers: How to encrypt-MySQL-data GDPR MySQL AES-encrypt & MySQL AES-decrypt](https://techbriefers.com/how-to-encrypt-mysql-data-gdpr-mysql-aes-encrypt-mysql-aes-decrypt/)
 - [clever-host.ro: tutorial-resetare-parola-mysql-freebsd](https://blog.clever-host.ro/2020/09/04/tutorial-resetare-parola-mysql-freebsd/)
 - [medium-jdc-cunningham: Adding-server-side-encryption-to-your-mysql-database-with-php-defuse](https://jdc-cunningham.medium.com/adding-server-side-encryption-to-your-mysql-database-with-php-defuse-553a26972d3c)
+- [stackexchange-security: Does it make sense to encrypt database to comply(in conformitate cu) with GDPR? ](https://security.stackexchange.com/questions/183767/does-it-make-sense-to-encrypt-database-to-comply-with-gdpr)
 
