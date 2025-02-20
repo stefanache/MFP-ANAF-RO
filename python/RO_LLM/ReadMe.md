@@ -45,6 +45,7 @@ Iata si alte [link](https://www.reddit.com/r/programare/comments/1h2mnhz/alterna
 Se lansează primul model dedicat limbii române pentru inteligența artificială de tip ChatGPT](http://ceascadecultura.ro/ServesteArticol.aspx?idart=5820)
  - [openai-community: this-simple-problem-ai-cannot-resolve-it-wrong-answer-for-this-simple-problem](https://community.openai.com/t/this-simple-problem-ai-cannot-resolve-it-wrong-answer-for-this-simple-problem/997763)
  - [digital-skills-romania.eu-stiri: liro-machine-learning-nlp-hackathon-5-noiembrie-2022](https://digital-skills-romania.eu/stiri/liro-machine-learning-nlp-hackathon-5-noiembrie-2022/)
+ - [TEZA-DOCTORAT: DR. GEANTĂ MARIUS MIHAI - LLM-ul utilizat in medicina](https://umfcd.ro/wp-content/uploads/2024/SCOALA_DOCTORALA/TEZA_DOCTORAT/GEANTA_M_MARIUS_MIHAI/Geanta%20Marius%20-%20Doctorat%20Rezumat%20Final%20RO.pdf)
     
    [...](https://www.nvidia.com/ro-ro/ai-on-rtx/chatrtx/)
 
