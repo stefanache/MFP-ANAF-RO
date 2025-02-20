@@ -24,4 +24,5 @@ Cateva link-uri utile despre GDPR:
 - [datasunrise-knowledge-center: Data masking in MySQL](https://www.datasunrise.com/knowledge-center/data-masking-in-mysql/)
 - [datasunrise-knowledge-center: RBAC in MySQL](https://www.datasunrise.com/knowledge-center/rbac-in-mysql/)
 - [bytebase-blog: Database-compliance for(4) GDPR](https://www.bytebase.com/blog/database-compliance-for-gdpr/)
+- [GH-druidfi: GDPR MySQL-dump](https://github.com/druidfi/gdpr-mysqldump)
 
