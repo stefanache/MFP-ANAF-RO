@@ -15,3 +15,4 @@ Pentru inceput cateva link-uri utile:
  - [Run **LLM** on RPi5: Connecting an NVIDIA GPU(eGPU = Nvidia RTX 2060 Super) to Raspberry Pi 5 via PCIe x4](https://alican-kiraz1.medium.com/run-llm-on-pi5-connecting-an-nvidia-gpu-to-raspberry-pi-5-via-pcie-x4-a6d52c3efd2a)
  - [eGPU working on Rpi5](https://www.jeffgeerling.com/blog/2023/external-gpus-working-on-raspberry-pi-5)
  - [Rularea RPi5 cu un GPU-pentru/de-PC](https://forums.raspberrypi.com/viewtopic.php?t=357189)
+ - [electronic-MAG.ro - Placă de expansiune/Adaptor PCIe(PCIe 2.0 și PCIe 3.0) pentru Raspberry Pi 5-suporta conector M.2 2230/2242 (M Key)](https://www.electronic-mag.ro/accesorii-pentru-sisteme-embedded/213206-placa-de-expansiune-pcie-20pcie-30-adaptor-raspberry-pi-5.html)
