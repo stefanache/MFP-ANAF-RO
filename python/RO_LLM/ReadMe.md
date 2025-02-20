@@ -15,3 +15,4 @@ Iata si alte link-uri interesante:
  - [ai-romania.ro: OpenLLM-ro-prezinta-modele-LLM-in-limba-romana roGemma-si-roLlama3](https://ai-romania.ro/openllm-ro-prezinta-modele-llm-in-limba-romana-rogemma-si-rollama3/)
  - [ilds.ro: Comunicat_OpenLLM-Ro-14.5.2024.pdf](https://ilds.ro/wp-content/uploads/2024/05/Comunicat_OpenLLM-Ro-14.5.2024.pdf)
  - [Kaggle: Test with quantized Openllm-Ro model](https://www.kaggle.com/code/gpreda/test-with-quantized-openllm-ro-model)
+ - [GH-dumitrescustefan: Romanian-Transformers](https://github.com/dumitrescustefan/Romanian-Transformers)
