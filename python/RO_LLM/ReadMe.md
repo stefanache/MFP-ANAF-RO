@@ -28,3 +28,4 @@ Iata si alte link-uri interesante:
  - [GH-dumitrescustefan: ROner](https://github.com/dumitrescustefan/roner)
  - [nlp.unibuc.ro: Resources](https://nlp.unibuc.ro/resources.html)
  - [GH-MCBGPT-2: Automatic-Romanian-Text-Generation-using-GPT-2](https://github.com/MCBGPT-2/Automatic-Romanian-Text-Generation-using-GPT-2)
+ - [GH-dumitrescustefan: RO-STS](https://github.com/dumitrescustefan/RO-STS)
