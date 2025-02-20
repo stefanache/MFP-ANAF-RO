@@ -28,4 +28,5 @@ Cateva link-uri utile despre GDPR:
 - [bytebase-blog: Database-compliance for(4) GDPR](https://www.bytebase.com/blog/database-compliance-for-gdpr/)
 - [GH-druidfi: GDPR MySQL-dump](https://github.com/druidfi/gdpr-mysqldump)
 - [MongoDB vs. MySQL: diferențele cheie pt cele 2 SGBD-uri in cazul-de-utilitate: GDPR...](https://www.linkedin.com/pulse/mongodb-vs-mysql-comprehensive-guide-software-mohamednour-benhassouna-vim5f/)
+- [clever-host.ro: tutorial-resetare-parola-mysql-freebsd](https://blog.clever-host.ro/2020/09/04/tutorial-resetare-parola-mysql-freebsd/)
 
