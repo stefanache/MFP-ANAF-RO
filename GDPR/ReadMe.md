@@ -1,6 +1,6 @@
 Salutare!
 
-Cateva link-uri utile despre GDPR:
+Cateva [link](https://www.google.com/search?q=gdpr+mysql+php+encrypt&sca_esv=05d45a37f3fc0a16&rlz=1C1CHBF_enRO1132RO1132&udm=2&biw=1920&bih=911&sxsrf=AHTn8zoxrJXvmeCFDVFaU49lyGp33MTwpg%3A1740052153653&ei=uRa3Z5rEJ86E9u8Pgcu4mA8&ved=0ahUKEwjahIm0l9KLAxVOgv0HHYElDvMQ4dUDCBE&uact=5&oq=gdpr+mysql+php+encrypt&gs_lp=EgNpbWciFmdkcHIgbXlzcWwgcGhwIGVuY3J5cHRIy6UBUABY044BcAB4AJABAJgBggGgAbQTqgEEMC4yMrgBA8gBAPgBAZgCC6AChgrCAgoQABiABBhDGIoFwgILEAAYgAQYsQMYgwHCAggQABiABBixA8ICDRAAGIAEGLEDGEMYigXCAgUQABiABMICBxAAGIAEGBPCAgYQABgTGB7CAgQQABgewgIGEAAYCBgemAMAkgcEMC4xMaAH_Cs&sclient=img)-uri utile despre GDPR:
 
 - [wiki-RG pt PD](https://ro.wikipedia.org/wiki/Regulamentul_General_privind_Protec%C8%9Bia_Datelor), [wiki-DP](https://ro.wikipedia.org/wiki/Date_personale),
   [eurocompozite.ro: politica-cookie-gdpr](https://www.eurocompozite.ro/index.php/politica-cookie-gdpr),[wikidrinks: GDPR](https://wikidrinks.ro/gdpr/?srsltid=AfmBOopGdiIKZtJ7qLWryLDA_rXS0J0spFveNNkP4k_w1iZSprSt2zwN),...
