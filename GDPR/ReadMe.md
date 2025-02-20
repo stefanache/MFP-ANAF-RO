@@ -13,6 +13,7 @@ Cateva link-uri utile despre GDPR:
 - [one-it.ro-blog: GDPR - Propunere legislativă privind implementarea Regulamentului (UE) 2016/679 privind protecţia și prelucrarea datelor cu caracter personal](https://www.one-it.ro/blog/gdpr-propunere-legislativa-privind-implementarea-regulamentului-ue-2016-679-privind-protectia-si-prelucrarea-datelor-cu-caracter-personal-restrictii-derogari/)
 - [ANSPDCP: GDPR](https://www.dataprotection.ro/?page=noua%20_pagina_regulamentul_GDPR)
 - [MIPE-GDPR](https://mfe.gov.ro/informatii-de-interes-public/solicitare-informatii-legislatie/protectia-datelor-cu-caracter-personal-gdpr/)
+- [romania-gdpr.ro-website](https://romania-gdpr.ro/)
 - [NeoTechnic: GDPR](https://neotehnic.ro/politica-de-confidentialitate/?gad_source=1&gclid=Cj0KCQiAwtu9BhC8ARIsAI9JHamvy5FM4WPMfqVhm9IdpLmgWFpzSs4pM0x1V37dk7RlEtvJ6GWTxQEaApsxEALw_wcB)
 - [economica: top-tari-cu-cele-mai-multe-amenzi-gdpr-romania-este-pe-locul-3](https://www.economica.net/top-tari-cu-cele-mai-multe-amenzi-gdpr-romania-este-pe-locul-3_640504.html)
 - [mybiz.eu: GDPR](https://mybiz.eu/?gad_source=1&gclid=Cj0KCQiAwtu9BhC8ARIsAI9JHalV-4b-wAyNl22FlmvqAA63UWsmtyFDTkIjSkRQNc0nevUk5JV6XjEaAsdHEALw_wcB)
