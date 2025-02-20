@@ -59,3 +59,5 @@ Un proiect AI-GDPR ar implica urmatorul plan de activitati pe care dvs trebuie s
 
  - Proceduri ISO 27001:2022 actualizate care reflectă integrarea AI.
  - O procedură internă cuprinzătoare de utilizare a AI, conformă cu ISO 27001:2022 și GDPR.
+
+In continuare va recomand acest articol despre [GDPR](https://github.com/stefanache/MFP-ANAF-RO/tree/main/GDPR)
