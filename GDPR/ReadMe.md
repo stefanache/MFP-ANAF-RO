@@ -35,4 +35,5 @@ Cateva [link](https://www.google.com/search?q=gdpr+mysql+php+encrypt&sca_esv=05d
 - [medium-jdc-cunningham: Adding-server-side-encryption-to-your-mysql-database-with-php-defuse](https://jdc-cunningham.medium.com/adding-server-side-encryption-to-your-mysql-database-with-php-defuse-553a26972d3c)
 - [stackexchange-security: Does it make sense to encrypt database to comply(in conformitate cu) with GDPR? ](https://security.stackexchange.com/questions/183767/does-it-make-sense-to-encrypt-database-to-comply-with-gdpr)
 - [quora-unanswered(Q&A): Can data be encrypted with PHP and MySQL together? ](https://www.quora.com/unanswered/Can-data-be-encrypted-with-PHP-and-MySQL-together)
+- [medium-swlh: How to store encrypted data collected by your web application with Php7 and LibSodium. Reasonably safely](https://medium.com/swlh/how-to-store-encrypted-data-collected-by-your-web-application-with-php7-and-libsodium-457b23cae017)
 
