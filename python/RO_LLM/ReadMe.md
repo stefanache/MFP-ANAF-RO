@@ -9,3 +9,4 @@ Iata si alte link-uri interesante:
  - [HF: OpenLLM-Ro](https://huggingface.co/OpenLLM-Ro)
  - [ilds.ro: LLM-for-romanian](https://ilds.ro/llm-for-romanian/)
  - [GH-LawMate Romania](https://github.com/DorobantuDiana/Legal-LLM)
+ - [ai-romania.ro: Cum-putem-rula-un-LLM-local](https://ai-romania.ro/cum-putem-rula-un-llm-local/)
