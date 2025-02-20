@@ -10,3 +10,4 @@ Iata si alte link-uri interesante:
  - [ilds.ro: LLM-for-romanian](https://ilds.ro/llm-for-romanian/)
  - [GH-LawMate Romania](https://github.com/DorobantuDiana/Legal-LLM)
  - [ai-romania.ro: Cum-putem-rula-un-LLM-local](https://ai-romania.ro/cum-putem-rula-un-llm-local/)
+ - [mindcraftstories.ro-ai-roboti: Primul-LLM-romanesc-cum-va-arata-viitorul-IA-in-RO/](https://mindcraftstories.ro/ai-roboti/primul-llm-romanesc-cum-va-arata-viitorul-inteligentei-artificiale-in-romania/)
