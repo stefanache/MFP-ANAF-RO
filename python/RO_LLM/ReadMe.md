@@ -18,3 +18,4 @@ Iata si alte link-uri interesante:
  - [GH-dumitrescustefan: Romanian-Transformers](https://github.com/dumitrescustefan/Romanian-Transformers)
  - [GH-racai-ai: RobinASR](https://github.com/racai-ai/RobinASR)
  - [GH-OpenLLM-Ro: mlmm-evaluation(RoLlama)](https://github.com/OpenLLM-Ro/mlmm-evaluation)....este un post cu continut invechit!
+ - [arxiv: RoQLlama - A Lightweight Romanian Adapted Language Model](https://arxiv.org/html/2410.04269v1)
