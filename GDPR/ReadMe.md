@@ -20,3 +20,4 @@ Cateva link-uri utile despre GDPR:
 - [datasunrise-knowledge-center: GDPR data discovery](https://www.datasunrise.com/knowledge-center/gdpr-data-discovery/)
 - [datasunrise-knowledge-center: Static-data Masking in MySQL](https://www.datasunrise.com/knowledge-center/static-data-masking-in-mysql/)
 - datasunrise-knowledge-center: MySQL access-control[](https://www.datasunrise.com/knowledge-center/mysql-access-control/)
+- [bytebase-blog: Database-compliance for(4) GDPR](https://www.bytebase.com/blog/database-compliance-for-gdpr/)
