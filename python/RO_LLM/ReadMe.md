@@ -36,3 +36,5 @@ Iata si alte [link](https://www.reddit.com/r/programare/comments/1h2mnhz/alterna
  - [GH-vxern: Romanian](https://github.com/vxern/romanian)
  - [GH-dumitrescustefan: RoWordNet](https://github.com/dumitrescustefan/RoWordNet)
 
+   [...](https://www.nvidia.com/ro-ro/ai-on-rtx/chatrtx/)
+
