@@ -20,3 +20,4 @@ Iata si alte link-uri interesante:
  - [GH-OpenLLM-Ro: mlmm-evaluation(RoLlama)](https://github.com/OpenLLM-Ro/mlmm-evaluation)....este un post cu continut invechit!
  - [arxiv: RoQLlama - A Lightweight Romanian Adapted Language Model](https://arxiv.org/html/2410.04269v1)
  - [digitalcoalition.gov.cy: launch-of-the-first-model-dedicated-to-romanian-language-for-artificial-intelligence-chatgpt](https://digitalcoalition.gov.cy/article/launch-of-the-first-model-dedicated-to-romanian-language-for-artificial-intelligence-chatgpt/)
+ - [GH-AndyTheFactory: Romanian-NLP-datasets(ds)](https://github.com/AndyTheFactory/romanian-nlp-datasets)
