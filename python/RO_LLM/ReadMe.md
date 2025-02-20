@@ -17,3 +17,4 @@ Iata si alte link-uri interesante:
  - [Kaggle: Test with quantized Openllm-Ro model](https://www.kaggle.com/code/gpreda/test-with-quantized-openllm-ro-model)
  - [GH-dumitrescustefan: Romanian-Transformers](https://github.com/dumitrescustefan/Romanian-Transformers)
  - [GH-racai-ai: RobinASR](https://github.com/racai-ai/RobinASR)
+ - [GH-OpenLLM-Ro: mlmm-evaluation](https://github.com/OpenLLM-Ro/mlmm-evaluation)
