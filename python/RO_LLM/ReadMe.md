@@ -34,4 +34,5 @@ Iata si alte [link](https://www.reddit.com/r/programare/comments/1h2mnhz/alterna
  - [GH-hassanzadehmahdi: Romanian-problem-using-Astar-and-GBFS](https://github.com/hassanzadehmahdi/Romanian-problem-using-Astar-and-GBFS)
  - [paperswithcodepaper: Ro qLlama-a-lightweight-romanian-adapted](https://paperswithcode.com/paper/roqllama-a-lightweight-romanian-adapted)
  - [GH-vxern: Romanian](https://github.com/vxern/romanian)
+ - [GH-dumitrescustefan: RoWordNet](https://github.com/dumitrescustefan/RoWordNet)
 
