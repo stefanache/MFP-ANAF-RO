@@ -6,4 +6,5 @@ Pentru inceput va rog sa consultati postul-github [**OpenLLM-Ro**](https://githu
 
 Iata si alte link-uri interesante:
 
+ - [ilds.ro: LLM-for-romanian](https://ilds.ro/llm-for-romanian/)
  - [GH-LawMate Romania](https://github.com/DorobantuDiana/Legal-LLM)
