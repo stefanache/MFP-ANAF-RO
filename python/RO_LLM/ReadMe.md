@@ -37,6 +37,7 @@ Iata si alte [link](https://www.reddit.com/r/programare/comments/1h2mnhz/alterna
  - [GH-dumitrescustefan: RoWordNet](https://github.com/dumitrescustefan/RoWordNet)
  - [arxiv: RoMath: A Mathematical Reasoning Benchmark in Romanian](https://arxiv.org/html/2409.11074v2)
  - [aclanthology - 2024.findings-emnlp.681: “Vorbești Românește?” A Recipe to Train Powerful Romanian LLMs with English Instructions](https://aclanthology.org/2024.findings-emnlp.681/)
+ - [kaggle-gpreda: RAG using RO-LLM LangChain(LC)-and-ChromaDB](https://www.kaggle.com/code/gpreda/rag-using-ro-llm-langchain-and-chromadb)
    
    [...](https://www.nvidia.com/ro-ro/ai-on-rtx/chatrtx/)
 
