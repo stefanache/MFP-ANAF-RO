@@ -4,7 +4,7 @@ Aici o sa vorbim despre [**LLM**](https://github.com/NVIDIA/NeMo-Guardrails)-uri
 
 Pentru inceput va rog sa consultati postul-github [**OpenLLM-Ro**](https://github.com/OpenLLM-Ro)...
 
-Iata si alte [link](https://www.reddit.com/r/programare/comments/1h2mnhz/alternativa_open_souce_pt_github_copilot/)-uri interesante:
+Iata si alte [link](https://www.reddit.com/r/programare/comments/1h2mnhz/alternativa_open_souce_pt_github_copilot/)-uri [interesante](https://www.facebook.com/groups/HomeAssistantRomania/):
 
  - [HF: OpenLLM-Ro](https://huggingface.co/OpenLLM-Ro)
  - [HF-OpenLLM-Ro: RoLlama2-7b-Instruct](https://huggingface.co/OpenLLM-Ro/RoLlama2-7b-Instruct)
