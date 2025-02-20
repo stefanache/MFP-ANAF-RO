@@ -20,6 +20,7 @@ Cateva [link](https://www.google.com/search?q=gdpr+mysql+php+encrypt&sca_esv=05d
 - [mybiz.eu: GDPR](https://mybiz.eu/?gad_source=1&gclid=Cj0KCQiAwtu9BhC8ARIsAI9JHalV-4b-wAyNl22FlmvqAA63UWsmtyFDTkIjSkRQNc0nevUk5JV6XjEaAsdHEALw_wcB)
 - [svtech.r: 13 lucruri de baza](https://www.svtech.ro/13-lucruri-de-baza-pe-care-trebuie-sa-le-stii-legat-de-gdpr/)
 - [stackexchange-security: Saving Personal Information (Name, Address, Phone, Email) in MySQL Database](https://security.stackexchange.com/questions/108248/saving-personal-information-name-address-phone-email-in-mysql-database)
+- [stackexchange-softwareengineering: building-a-web-app-with-encrypted-mysql-database-entries](https://softwareengineering.stackexchange.com/questions/205038/building-a-web-app-with-encrypted-mysql-database-entries)
 - [inpl: A guide to the insurability of GDPR fines across Europe: the price of data security](https://inplp.com/latest-news/article/a-guide-to-the-insurability-of-gdpr-fines-across-europe-the-price-of-data-security/)
 - [datasunrise-knowledge-center: GDPR data discovery](https://www.datasunrise.com/knowledge-center/gdpr-data-discovery/)
 - [datasunrise-knowledge-center: Static-data Masking in MySQL](https://www.datasunrise.com/knowledge-center/static-data-masking-in-mysql/)
