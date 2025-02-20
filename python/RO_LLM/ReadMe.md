@@ -40,6 +40,9 @@ Iata si alte [link](https://www.reddit.com/r/programare/comments/1h2mnhz/alterna
  - [kaggle-gpreda: RAG using RO-LLM LangChain(LC)-and-ChromaDB](https://www.kaggle.com/code/gpreda/rag-using-ro-llm-langchain-and-chromadb)
  - [GH-RoxanaPatras: POP-LITE)](https://github.com/RoxanaPatras/POP-LITE)
  - [reddit: Ce aplicații ați mai făcut acasă?](https://www.reddit.com/r/programare/comments/1i82i43/ce_aplica%C8%9Bii_a%C8%9Bi_mai_f%C4%83cut_acas%C4%83/)
- - [nobleprog.ro-Schema de cursuri: Problematici/Subiete urmarite](https://www.nobleprog.ro/cc/genpreaidev)...fiecare subiect in parte merita cautat pe Google... 
+ - [nobleprog.ro-Schema de cursuri: Problematici/Subiete urmarite](https://www.nobleprog.ro/cc/genpreaidev)...fiecare subiect in parte merita cautat pe Google...
+ - [ceascadecultura.ro-sttinta: 
+Se lansează primul model dedicat limbii române pentru inteligența artificială de tip ChatGPT](http://ceascadecultura.ro/ServesteArticol.aspx?idart=5820)
+    
    [...](https://www.nvidia.com/ro-ro/ai-on-rtx/chatrtx/)
 
