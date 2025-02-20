@@ -16,3 +16,4 @@ Iata si alte link-uri interesante:
  - [ilds.ro: Comunicat_OpenLLM-Ro-14.5.2024.pdf](https://ilds.ro/wp-content/uploads/2024/05/Comunicat_OpenLLM-Ro-14.5.2024.pdf)
  - [Kaggle: Test with quantized Openllm-Ro model](https://www.kaggle.com/code/gpreda/test-with-quantized-openllm-ro-model)
  - [GH-dumitrescustefan: Romanian-Transformers](https://github.com/dumitrescustefan/Romanian-Transformers)
+ - [GH-racai-ai: RobinASR](https://github.com/racai-ai/RobinASR)
