@@ -27,3 +27,4 @@ Iata si alte link-uri interesante:
  - [MDPI: Beyond Lexical Boundaries: LLM-Generated Text Detection for Romanian Digital Libraries](https://www.mdpi.com/1999-5903/16/2/41)
  - [GH-dumitrescustefan: ROner](https://github.com/dumitrescustefan/roner)
  - [nlp.unibuc.ro: Resources](https://nlp.unibuc.ro/resources.html)
+ - [GH-MCBGPT-2: Automatic-Romanian-Text-Generation-using-GPT-2](https://github.com/MCBGPT-2/Automatic-Romanian-Text-Generation-using-GPT-2)
