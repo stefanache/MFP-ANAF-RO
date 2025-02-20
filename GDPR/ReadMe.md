@@ -9,6 +9,7 @@ Cateva link-uri utile despre GDPR:
 - [GDPRhub.eu: Data Protection in Romania](https://gdprhub.eu/Data_Protection_in_Romania)
 - [Multilaw-Data_Protection_Laws_Guide: Data Protection Guide in RO](https://multilaw.com/Multilaw/Multilaw/Data_Protection_Laws_Guide/DataProtection_Guide_Romania.aspx)
 - [avocatpavel: What represents personal data protection in RO - GDPR ](https://www.avocatpavel.com/what-represents-personal-data-protection-in-romania-gdpr/)
+- [one-it.ro-blog: GDPR – Legea privind măsuri de punere în aplicare a Regulamentului (UE) 2016/679 privind protecţia și prelucrarea datelor cu caracter personal ( FORMA FINALA )](https://www.one-it.ro/blog/gdpr-legea-privind-masuri-de-punere-aplicare-regulamentului-ue-2016-679-privind-protectia-si-prelucrarea-datelor-cu-caracter-personal-forma-finala/)
 - [ANSPDCP: GDPR](https://www.dataprotection.ro/?page=noua%20_pagina_regulamentul_GDPR)
 - [MIPE-GDPR](https://mfe.gov.ro/informatii-de-interes-public/solicitare-informatii-legislatie/protectia-datelor-cu-caracter-personal-gdpr/)
 - [NeoTechnic: GDPR](https://neotehnic.ro/politica-de-confidentialitate/?gad_source=1&gclid=Cj0KCQiAwtu9BhC8ARIsAI9JHamvy5FM4WPMfqVhm9IdpLmgWFpzSs4pM0x1V37dk7RlEtvJ6GWTxQEaApsxEALw_wcB)
