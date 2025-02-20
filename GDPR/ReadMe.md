@@ -30,6 +30,7 @@ Cateva [link](https://www.google.com/search?q=gdpr+mysql+php+encrypt&sca_esv=05d
 - [bytebase-blog: Database-compliance for(4) GDPR](https://www.bytebase.com/blog/database-compliance-for-gdpr/)
 - [GH-druidfi: GDPR MySQL-dump](https://github.com/druidfi/gdpr-mysqldump)
 - [MongoDB vs. MySQL: Diferențele cheie pt cele 2 SGBD-uri in cazul-de-utilitate: GDPR...](https://www.linkedin.com/pulse/mongodb-vs-mysql-comprehensive-guide-software-mohamednour-benhassouna-vim5f/)
+- [techbriefers: How to encrypt-MySQL-data GDPR MySQL AES-encrypt & MySQL AES-decrypt](https://techbriefers.com/how-to-encrypt-mysql-data-gdpr-mysql-aes-encrypt-mysql-aes-decrypt/)
 - [clever-host.ro: tutorial-resetare-parola-mysql-freebsd](https://blog.clever-host.ro/2020/09/04/tutorial-resetare-parola-mysql-freebsd/)
 - [medium-jdc-cunningham: Adding-server-side-encryption-to-your-mysql-database-with-php-defuse](https://jdc-cunningham.medium.com/adding-server-side-encryption-to-your-mysql-database-with-php-defuse-553a26972d3c)
 
