@@ -32,4 +32,5 @@ Iata si alte [link](https://www.reddit.com/r/programare/comments/1h2mnhz/alterna
  - [paperswithcode-paper: LLMic-Romanian-foundation-language-model](https://paperswithcode.com/paper/llmic-romanian-foundation-language-model)
  - [arxiv: - Recipe to Train Powerful Romanian LLMs with English Instructions](https://arxiv.org/html/2406.18266)
  - [GH-hassanzadehmahdi: Romanian-problem-using-Astar-and-GBFS](https://github.com/hassanzadehmahdi/Romanian-problem-using-Astar-and-GBFS)
+ - [paperswithcodepaper: Ro qLlama-a-lightweight-romanian-adapted](https://paperswithcode.com/paper/roqllama-a-lightweight-romanian-adapted)
 
