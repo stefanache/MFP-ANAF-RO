@@ -19,5 +19,6 @@ Cateva link-uri utile despre GDPR:
 - [inpl: A guide to the insurability of GDPR fines across Europe: the price of data security](https://inplp.com/latest-news/article/a-guide-to-the-insurability-of-gdpr-fines-across-europe-the-price-of-data-security/)
 - [datasunrise-knowledge-center: GDPR data discovery](https://www.datasunrise.com/knowledge-center/gdpr-data-discovery/)
 - [datasunrise-knowledge-center: Static-data Masking in MySQL](https://www.datasunrise.com/knowledge-center/static-data-masking-in-mysql/)
-- datasunrise-knowledge-center: MySQL access-control[](https://www.datasunrise.com/knowledge-center/mysql-access-control/)
+- [datasunrise-knowledge-center: MySQL access-control](https://www.datasunrise.com/knowledge-center/mysql-access-control/)
+- [datasunrise-knowledge-center: Data masking in MySQL](https://www.datasunrise.com/knowledge-center/data-masking-in-mysql/)
 - [bytebase-blog: Database-compliance for(4) GDPR](https://www.bytebase.com/blog/database-compliance-for-gdpr/)
