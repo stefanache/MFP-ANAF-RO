@@ -9,6 +9,7 @@ Pentru inceput cateva link-uri utile:
 - [Tech-courses](https://www.slideshare.net/slideshow/bine-ai-venit-n-techsoup-courses/251259904)
 - [UPB: Scoala-Doctorala - Subiecte de interes](https://docs.upb.ro/wp-content/uploads/2021/07/UPB_Raport_autoevaluare_IOSUD-UPB_ANEXE.pdf)
 - [Orasul Inteligent](https://smart-edu-hub.eu/files/Proceedings/Smart_cities_Orasul_inteligent_2019.pdf)
+- [MQTT](https://www.scribd.com/document/619453242/4th)
 -     
  - [Farnell: RPI5-STARTER KIT-8GB-EU](https://ro.farnell.com/multicomp-pro/rpi5-starter-kit-8gb-eu/raspberry-pi-5-starter-kit-8gb/dp/4341792?gross_price=true&CMP=KNC-GRO-GEN-SHOPPING-PMax-Catch-all&mckv=_dc|pcrid||plid||kword||match||slid||product|4341792|pgrid||ptaid||&gad_source=1&gclid=Cj0KCQiAwtu9BhC8ARIsAI9JHamyubSfehU8Ykq5qlUrVhGSbcRC9Sxb_xLBabtRXllLwvuEQUXmiPQaAm7YEALw_wcB)
  - [TME - Rpi5/16GB(RAM)](https://www.tme.eu/ro/details/sc1113/raspberry-pi-minicomputers/raspberry-pi/raspberry-pi-5-16gb-ram/)
