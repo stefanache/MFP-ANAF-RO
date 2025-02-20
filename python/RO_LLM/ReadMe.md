@@ -25,3 +25,4 @@ Iata si alte link-uri interesante:
  - [GH-OpenLLM-Europe: European-OpenLLM-Projects](https://github.com/OpenLLM-Europe/European-OpenLLM-Projects)
  - [GH-cosmaadrian: ROcode](https://github.com/cosmaadrian/rocode)
  - [MDPI: Beyond Lexical Boundaries: LLM-Generated Text Detection for Romanian Digital Libraries](https://www.mdpi.com/1999-5903/16/2/41)
+ - [GH-dumitrescustefan: ROner](https://github.com/dumitrescustefan/roner)
