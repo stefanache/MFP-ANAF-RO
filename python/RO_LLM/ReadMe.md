@@ -30,3 +30,4 @@ Iata si alte link-uri interesante:
  - [GH-MCBGPT-2: Automatic-Romanian-Text-Generation-using-GPT-2](https://github.com/MCBGPT-2/Automatic-Romanian-Text-Generation-using-GPT-2)
  - [GH-dumitrescustefan: RO-STS](https://github.com/dumitrescustefan/RO-STS)
  - [paperswithcode-paper: LLMic-Romanian-foundation-language-model](https://paperswithcode.com/paper/llmic-romanian-foundation-language-model)
+ - [arxiv: - Recipe to Train Powerful Romanian LLMs with English Instructions](https://arxiv.org/html/2406.18266)
