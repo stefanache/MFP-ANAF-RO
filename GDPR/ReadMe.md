@@ -17,3 +17,4 @@ Cateva link-uri utile despre GDPR:
 - [stackexchange-security: Saving Personal Information (Name, Address, Phone, Email) in MySQL Database](https://security.stackexchange.com/questions/108248/saving-personal-information-name-address-phone-email-in-mysql-database)
 - [inpl: A guide to the insurability of GDPR fines across Europe: the price of data security](https://inplp.com/latest-news/article/a-guide-to-the-insurability-of-gdpr-fines-across-europe-the-price-of-data-security/)
 - [datasunrise-knowledge-center: GDPR data discovery](https://www.datasunrise.com/knowledge-center/gdpr-data-discovery/)
+- [datasunrise-knowledge-center: Static-data Masking in MySQL](https://www.datasunrise.com/knowledge-center/static-data-masking-in-mysql/)
