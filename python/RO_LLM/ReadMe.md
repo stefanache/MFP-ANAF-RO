@@ -43,6 +43,7 @@ Iata si alte [link](https://www.reddit.com/r/programare/comments/1h2mnhz/alterna
  - [nobleprog.ro-Schema de cursuri: Problematici/Subiete urmarite](https://www.nobleprog.ro/cc/genpreaidev)...fiecare subiect in parte merita cautat pe Google...
  - [ceascadecultura.ro-sttinta: 
 Se lansează primul model dedicat limbii române pentru inteligența artificială de tip ChatGPT](http://ceascadecultura.ro/ServesteArticol.aspx?idart=5820)
+ - [openai-community: this-simple-problem-ai-cannot-resolve-it-wrong-answer-for-this-simple-problem](https://community.openai.com/t/this-simple-problem-ai-cannot-resolve-it-wrong-answer-for-this-simple-problem/997763)
     
    [...](https://www.nvidia.com/ro-ro/ai-on-rtx/chatrtx/)
 
