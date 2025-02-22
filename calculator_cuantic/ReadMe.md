@@ -15,3 +15,4 @@ Salutare
  - [Medium - Simulating a Calculator Using Qiskit](https://averyparkinson23.medium.com/simulating-a-calculator-using-qiskit-e2a95fff179c)
  - [Quantum-Computing-UK: PoC-...](https://quantumcomputinguk.org/tutorials/tag/Python)
  - [Build a simple Quantum Circuit using IBM Qiskit in Python](https://www.geeksforgeeks.org/build-a-simple-quantum-circuit-using-ibm-qiskit-in-python/)
+ - [How to create Controlled Z gate in sympy.physics.quantum.gate qubits](https://stackoverflow.com/questions/72613796/how-to-create-controlled-z-gate-in-sympy-physics-quantum-gate-qubits)
