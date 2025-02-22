@@ -692,7 +692,7 @@ Aici voi insira o selectie de proiecte [interesante](https://huggingface.co/fahd
 
  <hr/>
 
- Aici puteti consulta un [articol](https://medium.com/@harshapulletikurti/choosing-the-correct-llm-model-from-hugging-face-hub-183fc6198295) despre strategia pe care trebuie sa o alegeti atunci cand va trebui sa folosit un LLM sau altul.
+ Aici puteti consulta un [articol](https://medium.com/@harshapulletikurti/choosing-the-correct-llm-model-from-hugging-face-hub-183fc6198295) despre strategia pe care trebuie sa o alegeti, atunci cand va trebui sa folositi, intr-un task/sarcina, un LLM sau altul.
 
 
 
