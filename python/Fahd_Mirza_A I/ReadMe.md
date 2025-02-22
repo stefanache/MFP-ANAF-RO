@@ -692,7 +692,7 @@ Aici voi insira o selectie de proiecte [interesante](https://huggingface.co/fahd
 
  <hr/>
 
- Aici puteti consulta un [articol](https://medium.com/@harshapulletikurti/choosing-the-correct-llm-model-from-hugging-face-hub-183fc6198295) despre strategia pe care trebuie sa o alegeti, atunci cand va trebui sa folositi, intr-un [NLP-task](https://medium.com/nlplanet/two-minutes-nlp-33-important-nlp-tasks-explained-31e2caad2b1b)/[NLP-sarcina](https://huggingface.co/docs/hub/models-tasks), un [LLM](https://huggingface.co/docs/hub/spaces) ori o [librarie](https://www.upgrad.com/blog/python-nlp-libraries-and-applications/)(including [algorithms](https://shelf.io/blog/18-effective-nlp-algorithms-you-need-to-know/)) sau altul/alta.
+ Aici puteti consulta un [articol](https://medium.com/@harshapulletikurti/choosing-the-correct-llm-model-from-hugging-face-hub-183fc6198295) despre strategia pe care trebuie sa o alegeti, atunci cand va trebui sa folositi, intr-un [NLP-task](https://medium.com/nlplanet/two-minutes-nlp-33-important-nlp-tasks-explained-31e2caad2b1b)/[NLP-sarcina](https://huggingface.co/docs/hub/models-tasks), un [LLM](https://huggingface.co/docs/hub/spaces) ori o [librarie](https://www.upgrad.com/blog/python-nlp-libraries-and-applications/)(incluzand aici si [algoritmii](https://shelf.io/blog/18-effective-nlp-algorithms-you-need-to-know/)) sau altul/alta.
 
 
 
