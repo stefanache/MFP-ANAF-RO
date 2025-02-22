@@ -8,3 +8,4 @@ Salutare
  - [LK-Laurentiu Nita](https://www.linkedin.com/in/laurentiu-nita-24b70796/?originalSubdomain=ro)
  - [Medium - Simulating a Calculator Using Qiskit](https://averyparkinson23.medium.com/simulating-a-calculator-using-qiskit-e2a95fff179c)
  - [Quantum-Computing-UK: PoC-...](https://quantumcomputinguk.org/tutorials/tag/Python)
+ - [Build a simple Quantum Circuit using IBM Qiskit in Python](https://www.geeksforgeeks.org/build-a-simple-quantum-circuit-using-ibm-qiskit-in-python/)
