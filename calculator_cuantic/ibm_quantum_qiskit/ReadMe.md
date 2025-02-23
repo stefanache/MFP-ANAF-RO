@@ -31,7 +31,7 @@ Multumita ghidului **IBM**, am creat primul program([**hello-wold**](https://doc
 Acest **program** se ruleaza local pe calculatorul dumneavoastra si in ordine *simuleaza* urmatoarele:
 - a)am creat un circuit-cuantic cu 2 qubiti(cu 2 intrari: **q0** si **q1**) apoi 
 - b)in acest circuit-cuantic am introdus o poarta-cuantica de tip **H**adamard
-- c)in contextul calculului cuantic, expresia „Efectuați o **poartă X** controlată pe qubit 1(**q1**), controlată de qubit 0(**q0**)” se referă la o operație cuantică specifică care aplică o anumită poartă cuantică unui qubit (qubit 1) pe baza stării altui qubit (qubit 0).
+- c)in contextul calculului cuantic, expresia „Efectuați o **poartă X** controlată pe qubit 1(**q1**), controlată de qubit 0(**q0**)” se referă la o operație cuantică specifică care aplică o anumită poartă cuantică unui qubit (qubit 1 = **q1**) pe baza stării altui qubit (qubit 0=**q0**).
 
 <a href="https://docs.quantum.ibm.com/api/qiskit/qiskit.circuit.QuantumCircuit#quantumcircuit-class"><img src="https://docs.quantum.ibm.com/images/extracted-notebook-images/hello-world/930ca3b6-0.svg">Clasa: QuantumCircuit</img></a>
 
