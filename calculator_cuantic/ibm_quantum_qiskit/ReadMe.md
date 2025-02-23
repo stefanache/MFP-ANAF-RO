@@ -101,18 +101,22 @@ cuantică ulterioară.
        
 b1. „# Adăugați o poartă Hadamard la qubit 0”
  - Acesta este un comentariu (notat prin simbolul `#`) care oferă o scurtă descriere a următoarei linii de cod.
- - Comentariul indică faptul că scopul codului este de a adăuga o poartă Hadamard la primul qubit (qubit 0) din circuitul cuantic.
+ - Comentariul indică faptul că scopul codului este de a adăuga o poartă Hadamard la primul qubit (qubit 0) din 
+   circuitul cuantic.
 
 b2. „qc.h(0)”
  - Aceasta este linia reală de cod care efectuează operația.
- - `qc` reprezintă un obiect de circuit cuantic, care este o structură de date care stochează secvența porților cuantice și a operațiilor care urmează să fie aplicate qubiților.
+ - `qc` reprezintă un obiect de circuit cuantic, care este o structură de date care stochează secvența porților 
+   cuantice și a operațiilor care urmează să fie aplicate qubiților.
  - Partea `.h(0)` a codului aplică poarta Hadamard la primul qubit (qubit 0) din circuitul cuantic.
 
 Poarta Hadamard este o poartă cuantică care creează o suprapunere a stărilor |0⟩ și |1⟩ ale unui qubit. 
-   Când este aplicată unui qubit în starea |0⟩, poarta Hadamard produce o suprapunere egală de |0⟩ și |1⟩. Când este aplicată unui qubit în starea |1⟩, poarta Hadamard produce o suprapunere egală de |0⟩ și -|1⟩.
+   Când este aplicată unui qubit în starea |0⟩, poarta Hadamard produce o suprapunere egală de |0⟩ și |1⟩. 
+   Când este aplicată unui qubit în starea |1⟩, poarta Hadamard produce o suprapunere egală de |0⟩ și -|1⟩.
 
 În rezumat, codul `qc.h(0)` adaugă o poartă Hadamard la primul qubit (qubit 0) din circuitul cuantic `qc`. 
-   Această operație pregătește primul qubit într-o suprapunere a stărilor |0⟩ și |1⟩, care este un punct de plecare comun pentru mulți algoritmi cuantici.
+   Această operație pregătește primul qubit într-o suprapunere a stărilor |0⟩ și |1⟩, care este un punct de plecare 
+   comun pentru mulți algoritmi cuantici.
 </code></pre>
 
 - c)iar la final ...in contextul calculului cuantic, expresia „Efectuați o **poartă X** controlată pe qubit 1(**q1**), controlată de qubit 0(**q0**)”
