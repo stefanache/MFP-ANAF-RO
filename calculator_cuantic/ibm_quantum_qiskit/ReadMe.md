@@ -49,26 +49,27 @@ Să defalcăm fragmentul de cod și să explicăm fiecare linie:
 
 1. `din importul qiskit QuantumCircuit`:
  - Această linie importă clasa `QuantumCircuit` din biblioteca `qiskit`.
- - Clasa „QuantumCircuit” este folosită pentru a crea și manipula circuite cuantice, care sunt blocurile de bază ale calculului 
-   cuantic.
+ - Clasa „QuantumCircuit” este folosită pentru a crea și manipula circuite cuantice, care sunt blocurile de bază ale 
+   calculului cuantic.
 
 2. `din qiskit.quantum_info import SparsePauliOp`:
  - Această linie importă clasa `SparsePauliOp` din modulul `qiskit.quantum_info`.
- - Clasa `SparsePauliOp` reprezintă un operator Pauli rar, care este un concept fundamental în calculul cuantic și este folosit 
-   pentru a reprezenta operații cuantice.
+ - Clasa `SparsePauliOp` reprezintă un operator Pauli rar, care este un concept fundamental în calculul cuantic și este 
+   folosit pentru a reprezenta operații cuantice.
 
 3. `din qiskit.transpiler.preset_passmanagers import generate_preset_pass_manager`:
  - Această linie importă funcția `generate_preset_pass_manager` din modulul `qiskit.transpiler.preset_passmanagers`.
- - Funcția `generate_preset_pass_manager` este utilizată pentru a genera un manager de trecere presetat, care este un set de 
-   pași de optimizare și transformare predefiniti care pot fi aplicați unui circuit cuantic pentru a-și îmbunătăți performanța.
+ - Funcția `generate_preset_pass_manager` este utilizată pentru a genera un manager de trecere presetat, care este un 
+   set de pași de optimizare și transformare predefiniti care pot fi aplicați unui circuit cuantic pentru a-și 
+   îmbunătăți performanța.
 
 4. „din qiskit_ibm_runtime import EstimatorV2 as Estimator”:
  - Această linie importă clasa `EstimatorV2` din modulul `qiskit_ibm_runtime` și o redenumește în `Estimator`.
- - Clasa „EstimatorV2” face parte din IBM Quantum Runtime, care este o platformă bazată pe cloud pentru rularea algoritmilor 
-   cuantici pe computerele cuantice ale IBM. 
+ - Clasa „EstimatorV2” face parte din IBM Quantum Runtime, care este o platformă bazată pe cloud pentru rularea 
+   algoritmilor cuantici pe computerele cuantice ale IBM. 
    Clasa „Estimator” este folosită pentru a estima valoarea observabilelor unui circuit cuantic.
 
-În rezumat, acest cod importă mai multe clase și funcții din bibliotecile Qiskit și IBM Quantum Runtime, care
+În rezumat, acest cod importă mai multe clase și funcții din bibliotecile Qiskit și IBM Quantum Runtime.
 </code></pre>
 
 Acest **program** se ruleaza local pe calculatorul dumneavoastra si in ordine *simuleaza* urmatoarele:
