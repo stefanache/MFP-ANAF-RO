@@ -36,9 +36,23 @@ Linia „qc = QuantumCircuit(2)” creează un nou obiect de circuit cuantic num
 În contextul calculului cuantic, un qubit este unitatea de bază a informației, similar cu un bit clasic în calculul tradițional. Cu toate acestea, qubiții pot exista într-o suprapunere de stări, permițându-le să reprezinte mai mult decât doar 0 sau 1.
 Prin crearea unui QuantumCircuit cu doi qubiți, configurați un circuit cuantic care poate fi folosit pentru a efectua diverse operații și calcule cuantice. Acesta este primul pas în construirea unui algoritm sau simulare cuantică.
 Clasa QuantumCircuit face parte dintr-o bibliotecă populară de calcul cuantic, cum ar fi Qiskit sau Cirq, care oferă instrumente și funcții pentru a lucra cu circuite cuantice și a le executa pe hardware sau simulatoare cuantice.
-În rezumat, acest cod creează un nou circuit cuantic cu doi qubiți, care este baza pentru programarea și experimentarea cuantică ulterioară. 
-- b)apoi, in acest circuit-cuantic am introdus o poarta-cuantica de tip **H**adamard
-- c)in contextul calculului cuantic, expresia „Efectuați o **poartă X** controlată pe qubit 1(**q1**), controlată de qubit 0(**q0**)” se referă la o operație cuantică specifică care aplică o anumită poartă cuantică unui qubit (qubit 1 = **q1**) pe baza stării altui qubit (qubit 0=**q0**).
+În rezumat, acest cod creează un nou circuit cuantic cu doi qubiți, care este baza pentru programarea și experimentarea cuantică ulterioară.
+ 
+- b)apoi, in acest circuit-cuantic am introdus o poarta-cuantica de tip **H**adamard:
+b1. „# Adăugați o poartă Hadamard la qubit 0”
+ - Acesta este un comentariu (notat prin simbolul `#`) care oferă o scurtă descriere a următoarei linii de cod.
+ - Comentariul indică faptul că scopul codului este de a adăuga o poartă Hadamard la primul qubit (qubit 0) din circuitul cuantic.
+
+b2. „qc.h(0)”
+ - Aceasta este linia reală de cod care efectuează operația.
+ - `qc` reprezintă un obiect de circuit cuantic, care este o structură de date care stochează secvența porților cuantice și a operațiilor care urmează să fie aplicate qubiților.
+ - Partea `.h(0)` a codului aplică poarta Hadamard la primul qubit (qubit 0) din circuitul cuantic.
+
+Poarta Hadamard este o poartă cuantică care creează o suprapunere a stărilor |0⟩ și |1⟩ ale unui qubit. Când este aplicată unui qubit în starea |0⟩, poarta Hadamard produce o suprapunere egală de |0⟩ și |1⟩. Când este aplicată unui qubit în starea |1⟩, poarta Hadamard produce o suprapunere egală de |0⟩ și -|1⟩.
+
+În rezumat, codul `qc.h(0)` adaugă o poartă Hadamard la primul qubit (qubit 0) din circuitul cuantic `qc`. Această operație pregătește primul qubit într-o suprapunere a stărilor |0⟩ și |1⟩, care este un punct de plecare comun pentru mulți algoritmi cuantici.
+
+- c)iar la final ...in contextul calculului cuantic, expresia „Efectuați o **poartă X** controlată pe qubit 1(**q1**), controlată de qubit 0(**q0**)” se referă la o operație cuantică specifică care aplică o anumită poartă cuantică unui qubit (qubit 1 = **q1**) pe baza stării altui qubit (qubit 0=**q0**).
 
 <a href="https://docs.quantum.ibm.com/api/qiskit/qiskit.circuit.QuantumCircuit#quantumcircuit-class"><img src="https://docs.quantum.ibm.com/images/extracted-notebook-images/hello-world/930ca3b6-0.svg">Clasa: QuantumCircuit</img></a>
 
@@ -58,7 +72,14 @@ c3. Controlat de qubit 0:
 
 În rezumat, instrucțiunea „Efectuați o poartă controlată-X pe qubit 1, controlată de qubit 0” înseamnă că sistemul cuantic va aplica o operație NOT la qubit 1 dacă și numai dacă qubit 0 este în starea |1⟩. Aceasta este o operație cuantică fundamentală utilizată în diverși algoritmi cuantici și proiecte de circuite cuantice.
 
- - d)ultima operatie este sa afisam circuitul final construit.
+ - d)ultima operatie este sa afisam circuitul final construit:
+   
+   # Return a drawing of the circuit using MatPlotLib ("mpl"). This is the
+   # last line of the cell, so the drawing appears in the cell output.
+   # Remove the "mpl" argument to get a text drawing.
+   qc.draw("mpl")
+
+   plt.show()  # Afișează circuitul grafic
 
 
 In continuare urmariti intregul tutorial([**hello-wold**](https://docs.quantum.ibm.com/guides/hello-world))...
