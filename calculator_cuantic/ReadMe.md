@@ -1,6 +1,6 @@
 Salutare
 
- - [IBM-learning course:qiskit ](https://learning.quantum.ibm.com/)
+ - [IBM-learning courses,tuorials...: qiskit ](https://learning.quantum.ibm.com/)
  - [Michio Kaku: Quantum computing is the next revolution](https://www.youtube.com/watch?v=qQviI1d_hFA&ab_channel=BigThink)
  - [UPB: CALCUL CUANTIC (QUANTUM COMPUTING](/https://upb.ro/wp-content/uploads/2022/11/QC-short-ro.pdf)
  - [EU: Calcul cuantic și supercalcul](https://digital-strategy.ec.europa.eu/ro/factpages/quantum-and-supercomputing)
