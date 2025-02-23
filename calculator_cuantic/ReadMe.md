@@ -27,5 +27,5 @@ Salutare
  - [How to create Controlled Z gate in sympy.physics.quantum.gate qubits](https://stackoverflow.com/questions/72613796/how-to-create-controlled-z-gate-in-sympy-physics-quantum-gate-qubits)
  - [Transformatoare cuantice de vedere pentru clasificarea Quark-Gluon](https://www.mdpi.com/2075-1680/13/5/323)
  - [RG: Toward a Scalable, Silicon-Based Quantum Computing Architecture](https://www.researchgate.net/publication/3409658_Toward_a_Scalable_Silicon-Based_Quantum_Computing_Architecture])
-   
+ - [Exploring the Future: Quantum Computing and Generative AI](https://www.linkedin.com/pulse/exploring-future-quantum-computing-generative-ai-asma-radhouane-xivve/) 
  - [...](https://www.google.com/search?sca_esv=a6857920e5190db0&rlz=1C1CHBF_enRO1132RO1132&sxsrf=AHTn8zqzrw-P0w7BIcNFUhfghgpj2WFweA:1740296634628&q=math+quantum+matrix+gates+chain+parallel+and+serial&udm=2&fbs=ABzOT_BYhiZpMrUAF0c9tORwPGls0vqphpL9nGKy0PrLJqseLpRb9USly9q6GQ49vYl-qkZvUMgG9C42ydBKZMH9zNaqs1RUlepojBcuBF6vBsu9m9ZZwxff2RS6gTTIzauQo1N3MVCO1cu0Wr3AujUuXidmbicWjUMrUgm7_GbEm0Rde3-KuiQHHyHLiYakSEefcJELdaed&sa=X&ved=2ahUKEwimvdeVptmLAxVsAtsEHdk7IyQQtKgLegQIERAB&biw=1920&bih=911&dpr=1)
