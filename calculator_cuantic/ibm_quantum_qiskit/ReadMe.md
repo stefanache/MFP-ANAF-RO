@@ -32,6 +32,9 @@ Acest **program** se ruleaza local pe calculatorul dumneavoastra si in ordine *s
 - a)am creat un circuit-cuantic cu 2 qubiti(cu 2 intrari: **q0** si **q1**):
   furnizat.
 <pre><code>
+   # a)Create a new circuit with two qubits
+   qc = QuantumCircuit(2)
+   
 „# Create a new circuit with two qubits” este un comentariu care explică scopul codului care urmează.
 Linia „qc = QuantumCircuit(2)” creează un nou obiect de circuit cuantic numit „qc” cu doi qubiți (biți cuantici).
 În contextul calculului cuantic, un qubit este unitatea de bază a informației, similar cu un bit clasic în calculul tradițional. Cu toate acestea, qubiții pot exista într-o suprapunere de stări, permițându-le să reprezinte mai mult decât doar 0 sau 1.
@@ -42,6 +45,9 @@ Clasa QuantumCircuit face parte dintr-o bibliotecă populară de calcul cuantic,
 
 - b)apoi, in acest circuit-cuantic am introdus o poarta-cuantica de tip **H**adamard:
 <pre><code>
+   # b)Add a Hadamard gate to qubit 0
+   qc.h(0)
+       
 b1. „# Adăugați o poartă Hadamard la qubit 0”
  - Acesta este un comentariu (notat prin simbolul `#`) care oferă o scurtă descriere a următoarei linii de cod.
  - Comentariul indică faptul că scopul codului este de a adăuga o poartă Hadamard la primul qubit (qubit 0) din circuitul cuantic.
@@ -61,6 +67,8 @@ Poarta Hadamard este o poartă cuantică care creează o suprapunere a stărilor
 <a href="https://docs.quantum.ibm.com/api/qiskit/qiskit.circuit.QuantumCircuit#quantumcircuit-class"><img src="https://docs.quantum.ibm.com/images/extracted-notebook-images/hello-world/930ca3b6-0.svg">Clasa: QuantumCircuit</img></a>
 
 <pre><code>
+   # c)Perform a controlled-X gate on qubit 1, controlled by qubit 0
+   qc.cx(0, 1)
    
 Să defalcăm componentele acestei instrucțiuni:
 
