@@ -5,6 +5,7 @@ Salutare
  - [YT-Presura: Alfabetizarea Cuantica](https://www.youtube.com/watch?v=c-SOhzBi_hc&ab_channel=CristianPresur%C4%83-FizicaPovestit%C4%83)
  - [YT-Presura: Despre Calculatoarele Cuantice](https://www.youtube.com/watch?v=MWyZlkeJUa4)
  - [FB-presura: Alfabetizare cuantica](https://www.facebook.com/presuracristi/videos/alfabetizarea-cuantic%C4%83/585388969165824/)
+ - [WK: Quantum logic gate](https://en.wikipedia.org/wiki/Quantum_logic_gate)
  - [RG-Quantum-gates-and-their-corresponding-matrix-representations](https://www.researchgate.net/figure/Quantum-gates-and-their-corresponding-matrix-representations-27_fig1_383842321)
  - [Quarks Interactive](https://www.quarksinteractive.com/)
  - [start-up.ro: Quarks Interactive, the Romanian startup that creates a quantum OS](https://start-up.ro/quarks-interactive-laurentiu-nita/)
