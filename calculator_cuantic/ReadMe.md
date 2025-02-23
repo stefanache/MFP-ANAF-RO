@@ -2,6 +2,7 @@ Salutare
 
  - [Michio Kaku: Quantum computing is the next revolution](https://www.youtube.com/watch?v=qQviI1d_hFA&ab_channel=BigThink)
  - [UPB: CALCUL CUANTIC (QUANTUM COMPUTING](/https://upb.ro/wp-content/uploads/2022/11/QC-short-ro.pdf)
+ - [EU: Calcul cuantic și supercalcul](https://digital-strategy.ec.europa.eu/ro/factpages/quantum-and-supercomputing)
  - [YT-Presura: Microsoft lansează un nou calculator cuantic de 8 q-biți, promițând milioane în câțiva ani!](https://www.youtube.com/watch?v=zI1ufXm-v4g)
  - [YT-Presura: Alfabetizarea Cuantica](https://www.youtube.com/watch?v=c-SOhzBi_hc&ab_channel=CristianPresur%C4%83-FizicaPovestit%C4%83)
  - [YT-Presura: Despre Calculatoarele Cuantice](https://www.youtube.com/watch?v=MWyZlkeJUa4)
