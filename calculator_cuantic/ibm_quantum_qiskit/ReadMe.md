@@ -7,6 +7,8 @@ Acest program se ruleaza local pe calculatorul dumneavoastra si in ordine simule
 - b)in acest circuit-cuantic am introdus o o poarta-cuantica de tip **H**adamard
 - c)in contextul calculului cuantic, expresia „Efectuați o poartă X controlată pe qubit 1, controlată de qubit 0” se referă la o operație cuantică specifică care aplică o anumită poartă cuantică unui qubit (qubit 1) pe baza stării altui qubit (qubit 0).
 
+<a href="https://docs.quantum.ibm.com/api/qiskit/qiskit.circuit.QuantumCircuit#quantumcircuit-class"><img src="https://docs.quantum.ibm.com/images/extracted-notebook-images/hello-world/930ca3b6-0.svg">Clasa: QuantumCircuit</img></a>
+
 Să defalcăm componentele acestei instrucțiuni:
 
 c1. Poarta X controlată:
