@@ -53,15 +53,19 @@ Să defalcăm fragmentul de cod și să explicăm fiecare linie:
 
 2. `din qiskit.quantum_info import SparsePauliOp`:
  - Această linie importă clasa `SparsePauliOp` din modulul `qiskit.quantum_info`.
- - Clasa `SparsePauliOp` reprezintă un operator Pauli rar, care este un concept fundamental în calculul cuantic și este folosit pentru a reprezenta operații cuantice.
+ - Clasa `SparsePauliOp` reprezintă un operator Pauli rar, care este un concept fundamental în calculul cuantic și este folosit pentru a 
+   reprezenta operații cuantice.
 
 3. `din qiskit.transpiler.preset_passmanagers import generate_preset_pass_manager`:
  - Această linie importă funcția `generate_preset_pass_manager` din modulul `qiskit.transpiler.preset_passmanagers`.
- - Funcția `generate_preset_pass_manager` este utilizată pentru a genera un manager de trecere presetat, care este un set de pași de optimizare și transformare predefiniti care pot fi aplicați unui circuit cuantic pentru a-și îmbunătăți performanța.
+ - Funcția `generate_preset_pass_manager` este utilizată pentru a genera un manager de trecere presetat, care este un set de pași de 
+   optimizare și transformare predefiniti care pot fi aplicați unui circuit cuantic pentru a-și îmbunătăți performanța.
 
 4. „din qiskit_ibm_runtime import EstimatorV2 as Estimator”:
  - Această linie importă clasa `EstimatorV2` din modulul `qiskit_ibm_runtime` și o redenumește în `Estimator`.
- - Clasa „EstimatorV2” face parte din IBM Quantum Runtime, care este o platformă bazată pe cloud pentru rularea algoritmilor cuantici pe computerele cuantice ale IBM. Clasa „Estimator” este folosită pentru a estima valoarea observabilelor unui circuit cuantic.
+ - Clasa „EstimatorV2” face parte din IBM Quantum Runtime, care este o platformă bazată pe cloud pentru rularea algoritmilor cuantici pe 
+   computerele cuantice ale IBM. 
+   Clasa „Estimator” este folosită pentru a estima valoarea observabilelor unui circuit cuantic.
 
 În rezumat, acest cod importă mai multe clase și funcții din bibliotecile Qiskit și IBM Quantum Runtime, care
 </code></pre>
@@ -75,8 +79,10 @@ Acest **program** se ruleaza local pe calculatorul dumneavoastra si in ordine *s
    
 „# Create a new circuit with two qubits” este un comentariu care explică scopul codului care urmează.
 Linia „qc = QuantumCircuit(2)” creează un nou obiect de circuit cuantic numit „qc” cu doi qubiți (biți cuantici).
-În contextul calculului cuantic, un qubit este unitatea de bază a informației, similar cu un bit clasic în calculul tradițional. Cu toate acestea, qubiții pot exista într-o suprapunere de stări, permițându-le să reprezinte mai mult decât doar 0 sau 1.
-Prin crearea unui QuantumCircuit cu doi qubiți, configurați un circuit cuantic care poate fi folosit pentru a efectua diverse operații și calcule cuantice. Acesta este primul pas în construirea unui algoritm sau simulare cuantică.
+În contextul calculului cuantic, un qubit este unitatea de bază a informației, similar cu un bit clasic în calculul tradițional. 
+   Cu toate acestea, qubiții pot exista într-o suprapunere de stări, permițându-le să reprezinte mai mult decât doar 0 sau 1.
+Prin crearea unui QuantumCircuit cu doi qubiți, configurați un circuit cuantic care poate fi folosit pentru a efectua diverse operații și calcule cuantice. 
+   Acesta este primul pas în construirea unui algoritm sau simulare cuantică.
 Clasa QuantumCircuit face parte dintr-o bibliotecă populară de calcul cuantic, cum ar fi Qiskit sau Cirq, care oferă instrumente și funcții pentru a lucra cu circuite cuantice și a le executa pe hardware sau simulatoare cuantice.
 În rezumat, acest cod creează un nou circuit cuantic cu doi qubiți, care este baza pentru programarea și experimentarea cuantică ulterioară.
 </code></pre>
@@ -95,12 +101,15 @@ b2. „qc.h(0)”
  - `qc` reprezintă un obiect de circuit cuantic, care este o structură de date care stochează secvența porților cuantice și a operațiilor care urmează să fie aplicate qubiților.
  - Partea `.h(0)` a codului aplică poarta Hadamard la primul qubit (qubit 0) din circuitul cuantic.
 
-Poarta Hadamard este o poartă cuantică care creează o suprapunere a stărilor |0⟩ și |1⟩ ale unui qubit. Când este aplicată unui qubit în starea |0⟩, poarta Hadamard produce o suprapunere egală de |0⟩ și |1⟩. Când este aplicată unui qubit în starea |1⟩, poarta Hadamard produce o suprapunere egală de |0⟩ și -|1⟩.
+Poarta Hadamard este o poartă cuantică care creează o suprapunere a stărilor |0⟩ și |1⟩ ale unui qubit. 
+   Când este aplicată unui qubit în starea |0⟩, poarta Hadamard produce o suprapunere egală de |0⟩ și |1⟩. Când este aplicată unui qubit în starea |1⟩, poarta Hadamard produce o suprapunere egală de |0⟩ și -|1⟩.
 
-În rezumat, codul `qc.h(0)` adaugă o poartă Hadamard la primul qubit (qubit 0) din circuitul cuantic `qc`. Această operație pregătește primul qubit într-o suprapunere a stărilor |0⟩ și |1⟩, care este un punct de plecare comun pentru mulți algoritmi cuantici.
+În rezumat, codul `qc.h(0)` adaugă o poartă Hadamard la primul qubit (qubit 0) din circuitul cuantic `qc`. 
+   Această operație pregătește primul qubit într-o suprapunere a stărilor |0⟩ și |1⟩, care este un punct de plecare comun pentru mulți algoritmi cuantici.
 </code></pre>
 
-- c)iar la final ...in contextul calculului cuantic, expresia „Efectuați o **poartă X** controlată pe qubit 1(**q1**), controlată de qubit 0(**q0**)” se referă la o operație cuantică specifică care aplică o anumită poartă cuantică unui qubit (qubit 1 = **q1**) pe baza stării altui qubit (qubit 0=**q0**).
+- c)iar la final ...in contextul calculului cuantic, expresia „Efectuați o **poartă X** controlată pe qubit 1(**q1**), controlată de qubit 0(**q0**)”
+  se referă la o operație cuantică specifică care aplică o anumită poartă cuantică unui qubit (qubit 1 = **q1**) pe baza stării altui qubit (qubit 0=**q0**).
 
 <a href="https://docs.quantum.ibm.com/api/qiskit/qiskit.circuit.QuantumCircuit#quantumcircuit-class"><img src="https://docs.quantum.ibm.com/images/extracted-notebook-images/hello-world/930ca3b6-0.svg">Clasa: QuantumCircuit</img></a>
 
