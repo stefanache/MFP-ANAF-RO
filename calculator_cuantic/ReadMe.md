@@ -38,5 +38,6 @@ Salutare
  - [CUDA-Quantum: VQE(Variational Quantum Eigensolver=rezolvator/solver de probleme cu valori proprii/Eigen) cu gradienți, spații active și fuziune de poartă](https://nvidia.github.io/cuda-quantum/latest/applications/python/hybrid_qnns.html)
    <br/>Backend-ul CUDA-Q mQpu(Q-MPU=QPU) vă permite să simulați un calcul pe mai multe QPU-uri simulate.
  - [FB: VQE](https://www.facebook.com/photo.php?fbid=995447854328779&id=282825865590985&set=a.354203188453252)
- - [Rapid quantum approaches for combinatorial optimisation inspired by optimal state-transfer](https://ar5iv.labs.arxiv.org/html/2301.06846) 
+ - [Rapid quantum approaches for combinatorial optimisation inspired by optimal state-transfer](https://ar5iv.labs.arxiv.org/html/2301.06846)
+ - [ST: Colapsarea la distanta](https://stiintasitehnica.com/un-fenomen-cuantic-negat-de-einstein-a-fost-demonstrat-in-premiera-istorica-video/) 
  - [...](https://www.google.com/search?sca_esv=a6857920e5190db0&rlz=1C1CHBF_enRO1132RO1132&sxsrf=AHTn8zqzrw-P0w7BIcNFUhfghgpj2WFweA:1740296634628&q=math+quantum+matrix+gates+chain+parallel+and+serial&udm=2&fbs=ABzOT_BYhiZpMrUAF0c9tORwPGls0vqphpL9nGKy0PrLJqseLpRb9USly9q6GQ49vYl-qkZvUMgG9C42ydBKZMH9zNaqs1RUlepojBcuBF6vBsu9m9ZZwxff2RS6gTTIzauQo1N3MVCO1cu0Wr3AujUuXidmbicWjUMrUgm7_GbEm0Rde3-KuiQHHyHLiYakSEefcJELdaed&sa=X&ved=2ahUKEwimvdeVptmLAxVsAtsEHdk7IyQQtKgLegQIERAB&biw=1920&bih=911&dpr=1)
