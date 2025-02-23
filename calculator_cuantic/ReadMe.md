@@ -9,6 +9,7 @@ Salutare
  - [WK: Quantum algorithm](https://en.wikipedia.org/wiki/Quantum_algorithm)
  - [WK: Quantum computing](https://en.wikipedia.org/wiki/Quantum_computing)
  - [WK: Cluster State](https://en.wikipedia.org/wiki/Cluster_state#Examples_with_qubits)
+ - [codeforces: Introduction to Quantum Oracles](https://codeforces.com/blog/entry/60319)
  - [RG-Quantum-gates-and-their-corresponding-matrix-representations](https://www.researchgate.net/figure/Quantum-gates-and-their-corresponding-matrix-representations-27_fig1_383842321)
  - [Quarks Interactive](https://www.quarksinteractive.com/)
  - [start-up.ro: Quarks Interactive, the Romanian startup that creates a quantum OS](https://start-up.ro/quarks-interactive-laurentiu-nita/)
