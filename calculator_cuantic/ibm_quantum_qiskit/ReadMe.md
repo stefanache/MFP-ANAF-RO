@@ -40,7 +40,7 @@ Programul debuteaza ca orice program Python cu invocarea dependentelor utilizate
    from qiskit_ibm_runtime import EstimatorV2 as Estimator
 
    
-Cu siguranţă! Să defalcăm fragmentul de cod și să explicăm fiecare linie:
+Să defalcăm fragmentul de cod și să explicăm fiecare linie:
 
 1. `din importul qiskit QuantumCircuit`:
  - Această linie importă clasa `QuantumCircuit` din biblioteca `qiskit`.
