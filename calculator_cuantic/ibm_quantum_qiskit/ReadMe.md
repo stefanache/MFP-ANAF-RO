@@ -24,3 +24,7 @@ c3. Controlat de qubit 0:
 În rezumat, instrucțiunea „Efectuați o poartă controlată-X pe qubit 1, controlată de qubit 0” înseamnă că sistemul cuantic va aplica o operație NOT la qubit 1 dacă și numai dacă qubit 0 este în starea |1⟩. Aceasta este o operație cuantică fundamentală utilizată în diverși algoritmi cuantici și proiecte de circuite cuantice.
 
  - d)ultima operatie este sa afisam circuitul final construit.
+
+
+In continuare urmariti intregul tutorial([**hello-wold**](https://docs.quantum.ibm.com/guides/hello-world))...
+
