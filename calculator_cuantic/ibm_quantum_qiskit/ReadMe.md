@@ -4,6 +4,8 @@ Multumita ghidului **IBM**, am creat primul program([**hello-wold**](https://doc
 
 <pre>
 <code>
+   import matplotlib.pyplot as plt
+   
    from qiskit import QuantumCircuit
    from qiskit.quantum_info import SparsePauliOp
    from qiskit.transpiler.preset_passmanagers import generate_preset_pass_manager
@@ -22,6 +24,8 @@ Multumita ghidului **IBM**, am creat primul program([**hello-wold**](https://doc
    # last line of the cell, so the drawing appears in the cell output.
    # Remove the "mpl" argument to get a text drawing.
    qc.draw("mpl")
+
+   
 </code>
 </pre>
 Acest **program** se ruleaza local pe calculatorul dumneavoastra si in ordine *simuleaza* urmatoarele:
