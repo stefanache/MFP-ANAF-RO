@@ -2,7 +2,7 @@ Salutare
 
 Acest exemplu([**Hello-World** = **Getting-Started**](https://www.youtube.com/watch?v=93-zLTppFZw&ab_channel=Qiskit) conține două părți. 
 <br/>Mai întâi veți crea un program cuantic simplu și îl veți rula pe o unitate de procesare cuantică (**QPU**=mQpu=Q-GPU=simulare calcul paralel pe GPU pentru calcul cuantic). 
-<br/>Deoarece cercetarea cuantică reală necesită programe mult mai robuste, în a doua secțiune ( [Scala la un număr mare de qubiți](https://docs.quantum.ibm.com/guides/hello-world#scale-to-large-numbers-of-qubits) ), vei scala programul simplu până la nivelul de utilitate. 
+<br/>Deoarece cercetarea cuantică reală necesită programe mult mai robuste, în a doua secțiune ( [Scala la un număr mare de qubiți](https://docs.quantum.ibm.com/guides/hello-world#scale-to-large-numbers-of-qubits) ), vei scala programul simplu până la nivelul de utilitate(reala). 
 <br/>Puteți urmări, de asemenea, episodul-YT [**Hello World**](https://www.youtube.com/watch?v=93-zLTppFZw&ab_channel=Qiskit) din seria video ***Coding with Qiskit 1.0***.
 
 Multumita ghidului **IBM**, am creat primul program([**hello-wold**](https://docs.quantum.ibm.com/guides/hello-world)) scris cu ajutorul SDK-ului instalat [**qiskit**](https://docs.quantum.ibm.com/guides/install-qiskit)
