@@ -29,7 +29,7 @@ Multumita ghidului **IBM**, am creat primul program([**hello-wold**](https://doc
 </code>
 </pre>
 Acest **program** se ruleaza local pe calculatorul dumneavoastra si in ordine *simuleaza* urmatoarele:
-- a)am creat un circuit-cuantic apoi 
+- a)am creat un circuit-cuantic cu 2 qubiti(cu 1 intrari) apoi 
 - b)in acest circuit-cuantic am introdus o poarta-cuantica de tip **H**adamard
 - c)in contextul calculului cuantic, expresia „Efectuați o poartă X controlată pe qubit 1, controlată de qubit 0” se referă la o operație cuantică specifică care aplică o anumită poartă cuantică unui qubit (qubit 1) pe baza stării altui qubit (qubit 0).
 
