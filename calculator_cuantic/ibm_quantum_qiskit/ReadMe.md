@@ -81,15 +81,17 @@ Acest **program** se ruleaza local pe calculatorul dumneavoastra si in ordine *s
    
 „# Create a new circuit with two qubits” este un comentariu care explică scopul codului care urmează.
 Linia „qc = QuantumCircuit(2)” creează un nou obiect de circuit cuantic numit „qc” cu doi qubiți (biți cuantici).
-În contextul calculului cuantic, un qubit este unitatea de bază a informației, similar cu un bit clasic în calculul tradițional. 
-   Cu toate acestea, qubiții pot exista într-o suprapunere de stări, permițându-le să reprezinte mai mult decât doar 0 sau 1.
-Prin crearea unui QuantumCircuit cu doi qubiți, configurați un circuit cuantic care poate fi folosit pentru a efectua diverse 
-   operații și calcule cuantice. 
+În contextul calculului cuantic, un qubit este unitatea de bază a informației, similar cu un bit clasic în calculul 
+tradițional. 
+   Cu toate acestea, qubiții pot exista într-o suprapunere de stări, permițându-le să reprezinte mai mult decât 
+doar 0 sau 1.
+Prin crearea unui QuantumCircuit cu doi qubiți, configurați un circuit cuantic care poate fi folosit pentru a efectua 
+diverse operații și calcule cuantice. 
    Acesta este primul pas în construirea unui algoritm sau simulare cuantică.
-Clasa QuantumCircuit face parte dintr-o bibliotecă populară de calcul cuantic, cum ar fi Qiskit sau Cirq, care oferă instrumente și
-   funcții pentru a lucra cu circuite cuantice și a le executa pe hardware sau simulatoare cuantice.
-În rezumat, acest cod creează un nou circuit cuantic cu doi qubiți, care este baza pentru programarea și experimentarea cuantică 
-   ulterioară.
+Clasa QuantumCircuit face parte dintr-o bibliotecă populară de calcul cuantic, cum ar fi Qiskit sau Cirq, care oferă 
+instrumente și funcții pentru a lucra cu circuite cuantice și a le executa pe hardware sau simulatoare cuantice.
+În rezumat, acest cod creează un nou circuit cuantic cu doi qubiți, care este baza pentru programarea și experimentarea
+cuantică ulterioară.
 </code></pre>
 
 - b)apoi, in acest circuit-cuantic am introdus o poarta-cuantica de tip **H**adamard:
