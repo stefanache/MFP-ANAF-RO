@@ -100,3 +100,5 @@ c3. Controlat de qubit 0:
 </code></pre>
 In continuare urmariti intregul tutorial([**hello-wold**](https://docs.quantum.ibm.com/guides/hello-world))...
 
+**OBS:** am folosit un plugin pt browser(Chrome) care este un **asistent-AI** care explica cat de cat ceea ce este marcat in vederea explicatiei.
+
