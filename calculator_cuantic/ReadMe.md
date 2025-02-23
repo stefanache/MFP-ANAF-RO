@@ -18,4 +18,4 @@ Salutare
  - [Build a simple Quantum Circuit using IBM Qiskit in Python](https://www.geeksforgeeks.org/build-a-simple-quantum-circuit-using-ibm-qiskit-in-python/)
  - [How to create Controlled Z gate in sympy.physics.quantum.gate qubits](https://stackoverflow.com/questions/72613796/how-to-create-controlled-z-gate-in-sympy-physics-quantum-gate-qubits)
  - [Transformatoare cuantice de vedere pentru clasificarea Quark-Gluon](https://www.mdpi.com/2075-1680/13/5/323)
- - [RG: Toward a Scalable, Silicon-Based Quantum](https://www.researchgate.net/publication/3409658_Toward_a_Scalable_Silicon-Based_Quantum_Computing_Architecture])
+ - [RG: Toward a Scalable, Silicon-Based Quantum Computing Architecture](https://www.researchgate.net/publication/3409658_Toward_a_Scalable_Silicon-Based_Quantum_Computing_Architecture])
