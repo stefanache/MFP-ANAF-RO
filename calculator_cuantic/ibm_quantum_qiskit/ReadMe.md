@@ -4,7 +4,7 @@ Multumita ghidului **IBM**, am creat primul program([**hello-wold**](https://doc
 
 Acest program se ruleaza local pe calculatorul dumneavoastra si in ordine simuleaza urmatoarele 
 - a)am creat un circuit-cuantic apoi 
-- b)in acest circuit-cuantic am introdus o o poarta-cuantica de tip **H**adamard
+- b)in acest circuit-cuantic am introdus o poarta-cuantica de tip **H**adamard
 - c)in contextul calculului cuantic, expresia „Efectuați o poartă X controlată pe qubit 1, controlată de qubit 0” se referă la o operație cuantică specifică care aplică o anumită poartă cuantică unui qubit (qubit 1) pe baza stării altui qubit (qubit 0).
 
 <a href="https://docs.quantum.ibm.com/api/qiskit/qiskit.circuit.QuantumCircuit#quantumcircuit-class"><img src="https://docs.quantum.ibm.com/images/extracted-notebook-images/hello-world/930ca3b6-0.svg">Clasa: QuantumCircuit</img></a>
