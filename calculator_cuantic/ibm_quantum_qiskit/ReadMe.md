@@ -2,7 +2,27 @@ Salutare
 
 Multumita ghidului **IBM**, am creat primul program([**hello-wold**](https://docs.quantum.ibm.com/guides/hello-world)) scris cu ajutorul SDK-ului instalat [**qiskit**](https://docs.quantum.ibm.com/guides/install-qiskit)
 
-Acest program se ruleaza local pe calculatorul dumneavoastra si in ordine simuleaza urmatoarele 
+   from qiskit import QuantumCircuit
+   from qiskit.quantum_info import SparsePauliOp
+   from qiskit.transpiler.preset_passmanagers import generate_preset_pass_manager
+   from qiskit_ibm_runtime import EstimatorV2 as Estimator
+    
+   # Create a new circuit with two qubits
+   qc = QuantumCircuit(2)
+    
+   # Add a Hadamard gate to qubit 0
+   qc.h(0)
+    
+   # Perform a controlled-X gate on qubit 1, controlled by qubit 0
+   qc.cx(0, 1)
+    
+   # Return a drawing of the circuit using MatPlotLib ("mpl"). This is the
+   # last line of the cell, so the drawing appears in the cell output.
+   # Remove the "mpl" argument to get a text drawing.
+   qc.draw("mpl")
+
+
+Acest **program** se ruleaza local pe calculatorul dumneavoastra si in ordine *simuleaza* urmatoarele:
 - a)am creat un circuit-cuantic apoi 
 - b)in acest circuit-cuantic am introdus o poarta-cuantica de tip **H**adamard
 - c)in contextul calculului cuantic, expresia „Efectuați o poartă X controlată pe qubit 1, controlată de qubit 0” se referă la o operație cuantică specifică care aplică o anumită poartă cuantică unui qubit (qubit 1) pe baza stării altui qubit (qubit 0).
