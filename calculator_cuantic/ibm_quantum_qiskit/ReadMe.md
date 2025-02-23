@@ -25,7 +25,7 @@ Multumita ghidului **IBM**, am creat primul program([**hello-wold**](https://doc
    # Remove the "mpl" argument to get a text drawing.
    qc.draw("mpl")
 
-   
+   plt.show()  # Afișează circuitul grafic
 </code>
 </pre>
 Acest **program** se ruleaza local pe calculatorul dumneavoastra si in ordine *simuleaza* urmatoarele:
