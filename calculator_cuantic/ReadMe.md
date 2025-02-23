@@ -7,6 +7,7 @@ Salutare
  - [FB-presura: Alfabetizare cuantica](https://www.facebook.com/presuracristi/videos/alfabetizarea-cuantic%C4%83/585388969165824/)
  - [RG-Quantum-gates-and-their-corresponding-matrix-representations](https://www.researchgate.net/figure/Quantum-gates-and-their-corresponding-matrix-representations-27_fig1_383842321)
  - [Quarks Interactive](https://www.quarksinteractive.com/)
+ - [start-up.ro: Quarks Interactive, the Romanian startup that creates a quantum OS](https://start-up.ro/quarks-interactive-laurentiu-nita/)
  - [Primul joc de educație în quantum computing, dezvoltat de un român, acum și în varianta mobile](https://start-up.ro/primul-joc-de-educatie-in-quantum-computing-dezvoltat-de-un-roman-pe-mobile/)
  - [QUARK classes](https://play.google.com/store/apps/details?id=co.learnol.hvdou&hl=ro&pli=1)
  - [Laurentiu-Nita](https://start-up.ro/subiecte/laurentiu-nita/)
