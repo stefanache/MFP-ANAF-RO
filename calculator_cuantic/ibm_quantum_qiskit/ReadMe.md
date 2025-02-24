@@ -164,5 +164,5 @@ Aceasta este o operație cuantică fundamentală utilizată în diverși algorit
 
 In continuare va rog urmariti pana la final intregul tutorial([**hello-wold**](https://docs.quantum.ibm.com/guides/hello-world))...
 
-**OBS:** am folosit un plugin pt browser(Chrome) care este un **asistent-AI** care explica cat de cat ceea ce este marcat in vederea explicatiei.
+**OBS:** am folosit un plugin pt browser(Chrome) care este un [**asistent-AI**](https://www.youtube.com/watch?v=GPfbPEYSckM&ab_channel=SamWitteveen) care explica cat de cat ceea ce este marcat in vederea explicatiei.
 
