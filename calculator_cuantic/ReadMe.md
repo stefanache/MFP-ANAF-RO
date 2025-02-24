@@ -2,7 +2,7 @@ Salutare
 
  - [IBM-quantum-learning courses,tutorials...: qiskit ](https://learning.quantum.ibm.com/)
  - [IBM-quantum: Hello world=getting started](https://docs.quantum.ibm.com/guides/hello-world)
- - [Hamiltonianul mecanic](https://ro.wikipedia.org/wiki/Hamiltonian_(mecanic%C4%83_cuantic%C4%83))
+ - [Hamiltonianul Q-mecanic](https://ro.wikipedia.org/wiki/Hamiltonian_(mecanic%C4%83_cuantic%C4%83))
  - [Michio Kaku: Quantum computing is the next revolution](https://www.youtube.com/watch?v=qQviI1d_hFA&ab_channel=BigThink)
  - [UPB: CALCUL CUANTIC (QUANTUM COMPUTING](/https://upb.ro/wp-content/uploads/2022/11/QC-short-ro.pdf)
  - [QUTECH-RO: RAPORT ȘTIINȚIFIC ȘI TEHNIC IN EXTENSO](https://roqnet.ro/wp-content/uploads/2019/12/Raport_2018.pdf)
