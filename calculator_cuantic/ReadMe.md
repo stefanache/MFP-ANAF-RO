@@ -2,6 +2,7 @@ Salutare
 
  - [IBM-quantum-learning courses,tutorials...: qiskit ](https://learning.quantum.ibm.com/)
  - [IBM-quantum: Hello world=getting started](https://docs.quantum.ibm.com/guides/hello-world)
+ - [WK: spatiul 3D](https://ro.wikipedia.org/wiki/Spa%C8%9Biu_tridimensional)
  - [WK: Hamiltonianul Q-mecanic](https://ro.wikipedia.org/wiki/Hamiltonian_(mecanic%C4%83_cuantic%C4%83))
  - [WK: mecanica cuantica=Q-mecanica](https://ro.wikipedia.org/wiki/Mecanic%C4%83_cuantic%C4%83)
  - [Michio Kaku: Quantum computing is the next revolution](https://www.youtube.com/watch?v=qQviI1d_hFA&ab_channel=BigThink)
