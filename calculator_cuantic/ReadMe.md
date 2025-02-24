@@ -8,7 +8,7 @@ Salutare
  - [Curs6=Spatiul Hilbert... de Fizica- al d-lui Ilie-Ivanov](http://www.physics.pub.ro/Cursuri/Ilie_Ivanov_-_Fizica_II_An_II_B_IMST_(2012-2013)/Curs_6.pdf)...[aici sunt toate cursurile de fizica ](http://www.physics.pub.ro/Cursuri/Cursuri.htm)...iar [aici](http://www.physics.pub.ro/Cursuri/Ilie_Ivanov_-_Fizica_II_An_II_B_IMST_(2012-2013)/) cursurile de an II ale d-lui Ilie-Ivanov
  - [WK: Hamiltonianul Q-mecanic](https://ro.wikipedia.org/wiki/Hamiltonian_(mecanic%C4%83_cuantic%C4%83))
  - [WK: Hamiltonian_(quantum_mechanics)](https://en.wikipedia.org/wiki/Hamiltonian_(quantum_mechanics))
- - [WK: Ecuatia lui Dirac](https://ro.wikipedia.org/wiki/Ecua%C8%9Bia_lui_Dirac)
+ - [WK: Ecuatia lui Dirac](https://ro.wikipedia.org/wiki/Ecua%C8%9Bia_lui_Dirac) sau [telework.ro: ecuatia-Dirac](https://www.telework.ro/ro/ecuatia-dirac/)
  - [WK: notatia <bra|ket>(Dirac) adica produsul scalar a 2 vectori bra(linie)*ket(coloana)](https://ro.wikipedia.org/wiki/Nota%C8%9Bia_bra-ket) sau [<bra|c|ket>](https://ro.wikipedia.org/wiki/Nota%C8%9Bia_bra-ket) sau [<bra|ket> notation](https://en.wikipedia.org/wiki/Bra%E2%80%93ket_notation)
  - [WK: mecanica cuantica=Q-mecanica](https://ro.wikipedia.org/wiki/Mecanic%C4%83_cuantic%C4%83)
  - [Michio Kaku: Quantum computing is the next revolution](https://www.youtube.com/watch?v=qQviI1d_hFA&ab_channel=BigThink)
