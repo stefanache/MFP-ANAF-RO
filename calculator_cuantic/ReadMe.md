@@ -5,6 +5,7 @@ Salutare
  - [WK: spatiul 3D](https://ro.wikipedia.org/wiki/Spa%C8%9Biu_tridimensional)
  - [UCV: Algebra Lineara](https://www.ucv.ro/pdf/departamente_academice/dma/suporturi_curs/Stanescu-MM-curs-AL-GA-G.pdf)
  - [WK: Hamiltonianul Q-mecanic](https://ro.wikipedia.org/wiki/Hamiltonian_(mecanic%C4%83_cuantic%C4%83))
+ - [WK: Hamiltonian_(quantum_mechanics)](https://en.wikipedia.org/wiki/Hamiltonian_(quantum_mechanics))
  - [WK: Ecuatia lui Dirac](https://ro.wikipedia.org/wiki/Ecua%C8%9Bia_lui_Dirac)
  - [WK: mecanica cuantica=Q-mecanica](https://ro.wikipedia.org/wiki/Mecanic%C4%83_cuantic%C4%83)
  - [Michio Kaku: Quantum computing is the next revolution](https://www.youtube.com/watch?v=qQviI1d_hFA&ab_channel=BigThink)
