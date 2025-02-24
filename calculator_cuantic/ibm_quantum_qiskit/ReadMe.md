@@ -54,7 +54,7 @@ Să defalcăm fragmentul de cod și să explicăm fiecare linie:
 
 2. `din/from qiskit.quantum_info import SparsePauliOp`:
  - Această linie importă clasa `SparsePauliOp` din modulul `qiskit.quantum_info`.
- - Clasa `SparsePauliOp` reprezintă un operator Pauli rar, care este un concept fundamental în calculul cuantic și este 
+ - Clasa `SparsePauliOp` reprezintă un operator [Pauli](https://en.wikipedia.org/wiki/Pauli_matrices) rar, care este un concept fundamental în calculul cuantic și este 
    folosit pentru a reprezenta operații cuantice.
 
 3. `din/from qiskit.transpiler.preset_passmanagers import generate_preset_pass_manager`:
