@@ -9,6 +9,7 @@ Salutare
  - [WK: Hamiltonianul Q-mecanic](https://ro.wikipedia.org/wiki/Hamiltonian_(mecanic%C4%83_cuantic%C4%83))
  - [WK: Hamiltonian_(quantum_mechanics)](https://en.wikipedia.org/wiki/Hamiltonian_(quantum_mechanics))
  - [WK: Ecuatia lui Dirac](https://ro.wikipedia.org/wiki/Ecua%C8%9Bia_lui_Dirac)
+ - [WK: notatia bra-ket](https://ro.wikipedia.org/wiki/Nota%C8%9Bia_bra-ket)
  - [WK: mecanica cuantica=Q-mecanica](https://ro.wikipedia.org/wiki/Mecanic%C4%83_cuantic%C4%83)
  - [Michio Kaku: Quantum computing is the next revolution](https://www.youtube.com/watch?v=qQviI1d_hFA&ab_channel=BigThink)
  - [UPB: CALCUL CUANTIC (Quantum COMPUTING)](/https://upb.ro/wp-content/uploads/2022/11/QC-short-ro.pdf)
