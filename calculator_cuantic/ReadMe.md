@@ -10,7 +10,7 @@ Salutare
  - [WK: Hamiltonian_(quantum_mechanics)](https://en.wikipedia.org/wiki/Hamiltonian_(quantum_mechanics))
  - [WK: Ecuatia lui Dirac](https://ro.wikipedia.org/wiki/Ecua%C8%9Bia_lui_Dirac) sau [telework.ro: ecuatia-Dirac](https://www.telework.ro/ro/ecuatia-dirac/)
  - [WK: notatia <bra|ket>(Dirac) adica produsul scalar a 2 vectori bra(linie)*ket(coloana)](https://ro.wikipedia.org/wiki/Nota%C8%9Bia_bra-ket) sau [<bra|c|ket>](https://ro.wikipedia.org/wiki/Nota%C8%9Bia_bra-ket) sau [<bra|ket> notation](https://en.wikipedia.org/wiki/Bra%E2%80%93ket_notation)
- - [QUANTUM: un add-on Wolfram Mathematica pentru notația Dirac Bra-Ket, algebra necomutativă și simularea circuitelor de calcul cuantic](https://www.researchgate.net/publication/299980447_QUANTUM_A_Wolfram_Mathematica_add-on_for_Dirac_Bra-Ket_Notation_Non-Commutative_Algebra_and_Simulation_of_Quantum_Computing_Circuits)
+ - [RG-QUANTUM: un add-on Wolfram Mathematica pentru notația Dirac Bra-Ket, algebra necomutativă și simularea circuitelor de calcul cuantic](https://www.researchgate.net/publication/299980447_QUANTUM_A_Wolfram_Mathematica_add-on_for_Dirac_Bra-Ket_Notation_Non-Commutative_Algebra_and_Simulation_of_Quantum_Computing_Circuits)
  - [WK: mecanica cuantica=Q-mecanica](https://ro.wikipedia.org/wiki/Mecanic%C4%83_cuantic%C4%83)
  - [Michio Kaku: Quantum computing is the next revolution](https://www.youtube.com/watch?v=qQviI1d_hFA&ab_channel=BigThink)
  - [UPB: CALCUL CUANTIC (Quantum COMPUTING)](/https://upb.ro/wp-content/uploads/2022/11/QC-short-ro.pdf)
