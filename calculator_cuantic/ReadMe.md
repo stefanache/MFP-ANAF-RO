@@ -4,7 +4,7 @@ Salutare
  - [IBM-quantum: Hello world=getting started](https://docs.quantum.ibm.com/guides/hello-world)
  - [WK: spatiul 3D](https://ro.wikipedia.org/wiki/Spa%C8%9Biu_tridimensional)
  - [UCV: Algebra Lineara](https://www.ucv.ro/pdf/departamente_academice/dma/suporturi_curs/Stanescu-MM-curs-AL-GA-G.pdf)
- - [Cusuri de Fizica](http://www.physics.pub.ro/Cursuri/Ilie_Ivanov_-_Fizica_II_An_II_B_IMST_(2012-2013)/Curs_6.pdf)
+ - [Cusuri de Fizica](http://www.physics.pub.ro/Cursuri/Ilie_Ivanov_-_Fizica_II_An_II_B_IMST_(2012-2013)/Curs_6.pdf)...[aici sunt cursurile de fizica ale d-lui Ile-Ivanov](http://www.physics.pub.ro/Cursuri/Cursuri.htm)
  - [WK: Hamiltonianul Q-mecanic](https://ro.wikipedia.org/wiki/Hamiltonian_(mecanic%C4%83_cuantic%C4%83))
  - [WK: Hamiltonian_(quantum_mechanics)](https://en.wikipedia.org/wiki/Hamiltonian_(quantum_mechanics))
  - [WK: Ecuatia lui Dirac](https://ro.wikipedia.org/wiki/Ecua%C8%9Bia_lui_Dirac)
