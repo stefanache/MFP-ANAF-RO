@@ -63,4 +63,5 @@ Salutare
  - [Criptografie cuantica](http://www.prorobsis.ugal.ro/thesis/Teza%20-%20Quantum%20Cryptography%20-%20Anghel%20Catalin.pdf)
  - [USV: Algoritmi cuantici](https://fiesc.usv.ro/wp-content/uploads/sites/17/2021/01/alg_cuantici.pdf)
  - [APLICAȚII ALE PROCESĂRII CUANTICE A INFORMAȚIEI ÎN STEGANOGRAFIE ȘI CRIPTOGRAFIE](https://doctorat.tuiasi.ro/wp-content/uploads/2022/07/Alexandru-Gabriel_Tudorache_Rezumat_teza_doctorat.pdf)
+ - [UPB-CS: Calcul cuantic](http://graphics.cs.pub.ro/theses/phd/2011/dragne.lucian/Teza%20LUCIAN%20DRAGNE.pdf)
  - [...](https://www.google.com/search?sca_esv=a6857920e5190db0&rlz=1C1CHBF_enRO1132RO1132&sxsrf=AHTn8zqzrw-P0w7BIcNFUhfghgpj2WFweA:1740296634628&q=math+quantum+matrix+gates+chain+parallel+and+serial&udm=2&fbs=ABzOT_BYhiZpMrUAF0c9tORwPGls0vqphpL9nGKy0PrLJqseLpRb9USly9q6GQ49vYl-qkZvUMgG9C42ydBKZMH9zNaqs1RUlepojBcuBF6vBsu9m9ZZwxff2RS6gTTIzauQo1N3MVCO1cu0Wr3AujUuXidmbicWjUMrUgm7_GbEm0Rde3-KuiQHHyHLiYakSEefcJELdaed&sa=X&ved=2ahUKEwimvdeVptmLAxVsAtsEHdk7IyQQtKgLegQIERAB&biw=1920&bih=911&dpr=1)
