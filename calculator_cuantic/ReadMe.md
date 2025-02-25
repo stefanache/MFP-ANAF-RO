@@ -18,6 +18,7 @@ Salutare
  - [QUTECH-RO: RAPORT ȘTIINȚIFIC ȘI TEHNIC IN EXTENSO](https://roqnet.ro/wp-content/uploads/2019/12/Raport_2018.pdf)
  - [Spre computere cuantice compacte datorită... topologiei](https://ro.innovando.news/spre-calculatoare-cuantice-compacte-datorit%C4%83-topologiei/)
  - [EU: Calcul cuantic și supercalcul](https://digital-strategy.ec.europa.eu/ro/factpages/quantum-and-supercomputing)
+ - [YT-Presura: Radu Ionicioiu=Cum se transformă paradoxurile cuantice în tehnologii ale viitorului](https://www.youtube.com/watch?v=StPFKjPg7nU&ab_channel=CristianPresur%C4%83-FizicaPovestit%C4%83)
  - [YT-Presura: Microsoft lansează un nou calculator cuantic de 8 q-biți, promițând milioane în câțiva ani!](https://www.youtube.com/watch?v=zI1ufXm-v4g)
  - [YT-Presura: Alfabetizarea Cuantica](https://www.youtube.com/watch?v=c-SOhzBi_hc&ab_channel=CristianPresur%C4%83-FizicaPovestit%C4%83)
  - [YT-Presura: Despre Calculatoarele Cuantice](https://www.youtube.com/watch?v=MWyZlkeJUa4)
