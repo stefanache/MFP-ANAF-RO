@@ -22,6 +22,7 @@ Salutare
  - [YT-Presura: Alfabetizarea Cuantica](https://www.youtube.com/watch?v=c-SOhzBi_hc&ab_channel=CristianPresur%C4%83-FizicaPovestit%C4%83)
  - [YT-Presura: Despre Calculatoarele Cuantice](https://www.youtube.com/watch?v=MWyZlkeJUa4)
  - [FB-Presura: Alfabetizare cuantica](https://www.facebook.com/presuracristi/videos/alfabetizarea-cuantic%C4%83/585388969165824/)
+ - [YT-Presura: Top 10 mistere cuantice](https://www.youtube.com/watch?v=57beDn1mvBs&ab_channel=CristianPresur%C4%83-FizicaPovestit%C4%83)
  - [WK: Quantum logic gate](https://en.wikipedia.org/wiki/Quantum_logic_gate)
  - [WK: Quantum algorithm](https://en.wikipedia.org/wiki/Quantum_algorithm)
  - [WK: Quantum computing](https://en.wikipedia.org/wiki/Quantum_computing)
