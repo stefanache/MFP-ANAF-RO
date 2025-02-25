@@ -48,7 +48,7 @@ Salutare
  - [RG: Toward a Scalable, Silicon-Based Quantum Computing Architecture](https://www.researchgate.net/publication/3409658_Toward_a_Scalable_Silicon-Based_Quantum_Computing_Architecture])
  - [Exploring the Future: Quantum Computing and Generative AI](https://www.linkedin.com/pulse/exploring-future-quantum-computing-generative-ai-asma-radhouane-xivve/)
  - [Studiul combină calculul cuantic și IA generativă pentru descoperirea de medicamente](https://phys.org/news/2023-05-combines-quantum-generative-ai-drug.html)
- - [Rețele de calcul cuantic activate cu IA generativă și alocare inteligentă a resurselor](https://arxiv.org/html/2401.07120v1)
+ - [Rețele de calcul cuantic activate cu IA generativă și alocare inteligentă a resurselor(importante)](https://arxiv.org/html/2401.07120v1)
  - [Quantum Neural Networks](https://www.google.com/search?q=python+quantum+neural+network&sca_esv=52e5a364f5a1b9dc&rlz=1C1CHBF_enRO1132RO1132&udm=2&biw=1920&bih=911&sxsrf=AHTn8zqDjQNzfFnpQ-aAZdgZvZEZtCD0DQ%3A1740301301125&ei=9eO6Z6anB_mPxc8P-c722As&ved=0ahUKEwjm9evGt9mLAxX5R_EDHXmnHbsQ4dUDCBE&uact=5&oq=python+quantum+neural+network&gs_lp=EgNpbWciHXB5dGhvbiBxdWFudHVtIG5ldXJhbCBuZXR3b3JrMgQQABgeSMQYUJ4JWPwVcAF4AJABAJgBb6AB-AWqAQMwLje4AQPIAQD4AQGYAgigAogGwgIGEAAYCBgewgIGEAAYBxgemAMAiAYBkgcDMS43oAfrBQ&sclient=img)
  - [WK: Calculator cuantic](https://ro.wikipedia.org/wiki/Calculator_cuantic)
  - [CUDA Quantum](https://nvidia.github.io/cuda-quantum/latest/applications/python/hybrid_qnns.html)
