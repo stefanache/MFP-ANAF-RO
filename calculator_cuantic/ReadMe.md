@@ -63,7 +63,7 @@ Salutare
  - [Criptografie cuantica](http://www.prorobsis.ugal.ro/thesis/Teza%20-%20Quantum%20Cryptography%20-%20Anghel%20Catalin.pdf)
  - [USV: Algoritmi cuantici](https://fiesc.usv.ro/wp-content/uploads/sites/17/2021/01/alg_cuantici.pdf)
  - [APLICAȚII ALE PROCESĂRII CUANTICE A INFORMAȚIEI ÎN STEGANOGRAFIE ȘI CRIPTOGRAFIE](https://doctorat.tuiasi.ro/wp-content/uploads/2022/07/Alexandru-Gabriel_Tudorache_Rezumat_teza_doctorat.pdf)
- - [WK: Paradoxul **EPR**](https://ro.wikipedia.org/wiki/Paradoxul_EPR)
+ - [WK: Paradoxul **EPR**(Einstein, Podolsky și Rosen)](https://ro.wikipedia.org/wiki/Paradoxul_EPR)
  - [UPB-CS: Calcul cuantic](http://graphics.cs.pub.ro/theses/phd/2011/dragne.lucian/Teza%20LUCIAN%20DRAGNE.pdf)
  - [Gravitatia cuantica](https://www.contributors.ro/gravita%C8%9Bia-cuantica-testabila-in-laborator/)
  - [telework.ro: Informatia cuantica cu variabila continua](https://www.telework.ro/ro/informatia-cuantica-cuvariabila-continua/)
