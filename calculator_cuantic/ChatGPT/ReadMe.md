@@ -86,10 +86,11 @@ C. Reinforcement Learning pentru estimare adaptivă
 
 Da! Există mai multe direcții relevante:
 
-Quantum State Tomography (**QST**) – În învățarea automată cuantică, tomografia stărilor cuantice este folosită pentru a reconstrui starea unui sistem cuantic necunoscut pe baza măsurătorilor.
+ - Quantum State Tomography (**QST**) – În învățarea automată cuantică, tomografia stărilor cuantice este folosită pentru a reconstrui starea unui sistem cuantic necunoscut pe baza măsurătorilor.
 
-Quantum Bayesian Inference – Modele probabilistice bazate pe Bayes pot actualiza credința asupra unei stări cuantice după măsurători succesive.
-Variational Quantum Algorithms (**VQA**) – Algoritmi variaționali pe computere cuantice folosesc tehnici similare pentru optimizarea stărilor cuantice.
+ - Quantum Bayesian Inference(**QBI**) – Modele probabilistice bazate pe Bayes pot actualiza credința asupra unei stări cuantice după măsurători succesive.
+
+  - Variational Quantum Algorithms (**VQA**) – Algoritmi variaționali pe computere cuantice folosesc tehnici similare pentru optimizarea stărilor cuantice.
 
 4. Ce putem face în practică?
 Dacă vrei să experimentezi acest lucru:
