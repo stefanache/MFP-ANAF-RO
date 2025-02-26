@@ -91,4 +91,5 @@ Salutare
  - [WK: Modelul atomic **Bohr**-hidrogenul(**H**)](https://ro.wikipedia.org/wiki/Modelul_atomic_Bohr)
  - [scientia.ro: fizica-atomul hidrogenul(**H**)](https://www.scientia.ro/fizica/63-atomul/7544-hidrogenul.html)
  - [oradefizica.ro: electricitate-magnetism, Electricitatea statica](https://www.oradefizica.ro/ora-fizica/electricitate-magnetism/estat-12c.php)
+ - [Dinamica corelatiilor cuantice in sisteme gaussiene deschise si aplicarea lor la protocoale de informatie cuantica](https://doctorat.fizica.unibuc.ro/Doctorat/Sustineri/Publice/Docs/rezumat%20CUZMINSCHI.pdf)
  - [...](https://www.google.com/search?sca_esv=a6857920e5190db0&rlz=1C1CHBF_enRO1132RO1132&sxsrf=AHTn8zqzrw-P0w7BIcNFUhfghgpj2WFweA:1740296634628&q=math+quantum+matrix+gates+chain+parallel+and+serial&udm=2&fbs=ABzOT_BYhiZpMrUAF0c9tORwPGls0vqphpL9nGKy0PrLJqseLpRb9USly9q6GQ49vYl-qkZvUMgG9C42ydBKZMH9zNaqs1RUlepojBcuBF6vBsu9m9ZZwxff2RS6gTTIzauQo1N3MVCO1cu0Wr3AujUuXidmbicWjUMrUgm7_GbEm0Rde3-KuiQHHyHLiYakSEefcJELdaed&sa=X&ved=2ahUKEwimvdeVptmLAxVsAtsEHdk7IyQQtKgLegQIERAB&biw=1920&bih=911&dpr=1)
