@@ -87,7 +87,7 @@ Z dă doar
 2. Cum putem folosi AI pentru această problemă?
 Există mai multe abordări posibile:
 
-A. Modelare Bayes-iană și Filtrare de Particule
+A. Modelare Bayesiană și Filtrare de Particule
 Poți folosi un filtru de particule sau o tehnică de actualizare Bayes-iană, unde fiecare măsurare reduce incertitudinea despre poziția inițială a qubitului.
 Ideea este că fiecare măsurătoare actualizează distribuția de probabilitate asupra sferelor Bloch.
 B. AI Generativă (GANs / Diffusion Models)
