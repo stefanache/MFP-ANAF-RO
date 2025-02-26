@@ -1,3 +1,7 @@
+[Discutia ChatGPT](https://chatgpt.com/share/67befe3c-40ec-800b-99b4-a962c9a3576e)
+
+You said:
+
 cunosti un drum parametric continuu dependent de timp care sa mature suprafata unei sfere 3d in totalitate? si daca acest drum poate fi folosit in starea de superpozitie cuantica si anume unde in ce teorie?
 
 ChatGPT said:
@@ -37,20 +41,7 @@ Un qubit poate fi reprezentat printr-un punct pe sfera Bloch, unde coordonatele 
 
 (θ,ϕ) descriu starea:
 
-∣
-𝜓
-⟩
-=
-cos
-⁡
-𝜃
-2
-∣
-0
-⟩
-+
-𝑒
-𝑖
+∣𝜓⟩=cos𝜃/2∣0⟩+𝑒𝑖
 𝜙
 sin
 ⁡
