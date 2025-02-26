@@ -92,7 +92,7 @@ Da! Există mai multe direcții relevante:
 
   - Variational Quantum Algorithms (**VQA**) – Algoritmi variaționali pe computere cuantice folosesc tehnici similare pentru optimizarea stărilor cuantice.
 
-4. Ce putem face în practică?
+**4**. Ce putem face în practică?
 Dacă vrei să experimentezi acest lucru:
 
  - Simulează măsurători ale unor stări cuantice pe sfera Bloch folosind Qiskit (IBM Quantum) sau PyQuil (Rigetti).
