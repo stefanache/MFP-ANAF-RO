@@ -1,6 +1,7 @@
 Salutare
 
  - [Calculul cuantic: o revoluție în curs de desfășurare datorită inovației Equal1](https://stiintasitehnica.com/calculul-cuantic-o-revolutie-in-curs-de-desfasurare-datorita-inovatiei-equal1/)
+ - [A fost dat în funcțiune un supercalculator cuantic hibrid din lume](https://stiintasitehnica.com/a-fost-dat-in-functiune-supercalculator-cuantic-hibrid-din-lume/)
  - [IBM-quantum(cuantica)-learning courses,tutorials...: qiskit ](https://learning.quantum.ibm.com/)
  - [IBM-quantum: Hello world=getting started](https://docs.quantum.ibm.com/guides/hello-world)
  - [telework.ro/ro: Stari-cuantice](https://www.telework.ro/ro/stari-cuantice/)
