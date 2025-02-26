@@ -10,9 +10,9 @@ Da, există drumuri parametrice continue dependente de timp care pot mătura în
 
 Un exemplu clasic este proiecția sferică a unei curbe de umplere a spațiului sau variații ale traiectoriilor bazate pe coordonate sferice.
 
-1. Drumuri parametrice continue care acoperă întreaga sferă
+**1**. Drumuri parametrice continue care acoperă întreaga sferă
 
-2.Un exemplu este parametrizarea *spiralei lui **Hopf***, unde un punct pe sferă se deplasează astfel încât să acopere toată suprafața fără discontinuități:
+Un exemplu este parametrizarea *spiralei lui **Hopf***, unde un punct pe sferă se deplasează astfel încât să acopere toată suprafața fără discontinuități:
 
     θ(t)=2πt, ϕ(t)=arccos(1−2t)
 
@@ -22,7 +22,7 @@ Acesta este inspirat din *proiecția stereografică a fibrării **Hopf***, care 
 
 Un alt exemplu este *curba **Peano*** pe sferă*, care poate fi generată folosind funcții fractale pentru a umple suprafața.
 
-2. Poate acest drum fi folosit în stare de superpoziție cuantică?
+**2**. Poate acest drum fi folosit în stare de superpoziție cuantică?
 
 Da, astfel de traiectorii apar în mecanica cuantică și în teoria câmpului cuantic, în special în contexte precum:
 
