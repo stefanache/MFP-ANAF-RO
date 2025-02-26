@@ -1,4 +1,4 @@
-Salutare
+[Salutare](https://chatgpt.com/share/67bee958-3e5c-800b-8c28-baa1e8dac211)
 
  - [solid.fizica.unibuc.ro: curs calcul cuantic - Necesitatea calculului cuantic](http://solid.fizica.unibuc.ro/cursuri/quant/curs_calcul_cuantic.pdf)
  - [WKWND: Introducere în mecanica cuantică](https://www.wikiwand.com/ro/articles/Introducere_%C3%AEn_mecanica_cuantic%C4%83)
