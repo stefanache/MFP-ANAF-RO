@@ -109,6 +109,8 @@ E o idee foarte interesantă, care poate avea aplicații în îmbunătățirea p
 
 Te gândești să implementezi ceva practic în acest sens?
 
+<hr/>
+
 **You** said:
 
 inteleg ca de fapt nu am masuratori care sa ma ajute de fapt
