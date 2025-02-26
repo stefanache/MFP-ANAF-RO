@@ -48,11 +48,11 @@ ma intreb daca as putea ghici folosind inteligenta artificiala(sa spunem generat
 
 **ChatGPT** said:
 
-Da, ai putea folosi AI (in special modele generative sau metode de învățare automată) pentru a "ghici/prezice" aproximativ poziția unei stări cuantice pe sfera Bloch, folosind măsurători succesive și colapsări. 
+Da, ai putea folosi **AI** (in special modele generative sau metode de învățare automată) pentru a "ghici/prezice" aproximativ poziția unei stări cuantice pe *sfera **Bloch***, folosind măsurători succesive și colapsări. 
 
-Acest lucru ar implica inferență probabilistică și actualizare **Bayesiană**, posibil combinată cu tehnici de deep learning.
+Acest lucru ar implica inferență probabilistică și actualizare **Bayesiană**, posibil combinată cu tehnici de deep learning(**DL**).
 
-1. Ce reprezintă "ghicirea/predictia" poziției unei stări cuantice pe *sfera **Bloch***?
+**1**. Ce reprezintă "ghicirea/predictia" poziției unei stări cuantice pe *sfera **Bloch***?
 
  - Un qubit poate fi reprezentat printr-un punct pe *sfera **Bloch***, unde coordonatele sferice (θ,ϕ) descriu starea:
 
@@ -62,9 +62,9 @@ Acest lucru ar implica inferență probabilistică și actualizare **Bayesiană*
 
  - Întrebarea ta sugerează că vrem să folosim AI pentru a aproxima poziția inițială a unui qubit pe *sfera **Bloch*** înainte de colapsul final.
 
-2. Cum putem folosi AI pentru această problemă?
+**2**. Cum putem folosi AI pentru această problemă?
 
-Există mai multe abordări posibile:
+Există mai multe abordări posibile: A,B,C
 
 A. Modelare **Bayesiană** și Filtrare de Particule
 
@@ -82,7 +82,7 @@ C. Reinforcement Learning pentru estimare adaptivă
 
  - AI ar putea învăța o politică optimă de măsurare, alegând secvența optimă de măsurători pentru a reduce cel mai rapid incertitudinea asupra poziției qubitului.
 
-3. Există o teorie care susține acest tip de abordare?
+**3**. Există o teorie care susține acest tip de abordare?
 
 Da! Există mai multe direcții relevante:
 
