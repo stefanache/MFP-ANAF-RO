@@ -12,15 +12,15 @@ Un exemplu clasic este proiecția sferică a unei curbe de umplere a spațiului 
 
 1. Drumuri parametrice continue care acoperă întreaga sferă
 
-2.Un exemplu este parametrizarea spiralei lui Hopf, unde un punct pe sferă se deplasează astfel încât să acopere toată suprafața fără discontinuități:
+2.Un exemplu este *parametrizarea spiralei lui **Hopf***, unde un punct pe sferă se deplasează astfel încât să acopere toată suprafața fără discontinuități:
 
     θ(t)=2πt, ϕ(t)=arccos(1−2t)
 
 unde t∈[0,1] mătura întreaga sferă. 
 
-Acesta este inspirat din proiecția stereografică a fibrării Hopf, care acoperă întreaga suprafață fără goluri.
+Acesta este inspirat din *proiecția stereografică a fibrării **Hopf***, care acoperă întreaga suprafață fără goluri.
 
-Un alt exemplu este curba Peano pe sferă, care poate fi generată folosind funcții fractale pentru a umple suprafața.
+Un alt exemplu este *curba **Peano** pe sferă*, care poate fi generată folosind funcții fractale pentru a umple suprafața.
 
 2. Poate acest drum fi folosit în stare de superpoziție cuantică?
 
@@ -36,7 +36,7 @@ Un drum parametric continuu care mătura întreaga sferă ar putea fi folosit pe
 
  - **Teoria câmpului cuantic pe spații curbate**: în cosmologie cuantică, câmpurile cuantice definite pe o 3-sferă (cum apare în modele de univers închis) pot avea stări cuantice care se propagă pe astfel de drumuri.
 
-Dacă vrei un caz mai specific, teoria topologică a câmpului (**TQFT**) folosește structuri de fibrări precum fibrările Hopf pentru a descrie stări cuantice în spații compacte.
+Dacă vrei un caz mai specific, teoria topologică a câmpului (**TQFT**) folosește structuri de fibrări precum *fibrările **Hopf*** pentru a descrie stări cuantice în spații compacte.
 
 Este o întrebare fascinantă! Ai în minte un anumit context fizic pentru utilizarea acestei traiectorii?
 
