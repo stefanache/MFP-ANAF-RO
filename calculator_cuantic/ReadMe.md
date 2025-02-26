@@ -2,6 +2,7 @@ Salutare
 
  - [IBM-quantum(cuantica)-learning courses,tutorials...: qiskit ](https://learning.quantum.ibm.com/)
  - [IBM-quantum: Hello world=getting started](https://docs.quantum.ibm.com/guides/hello-world)
+ - [telework.ro/ro: Stari-cuantice](https://www.telework.ro/ro/stari-cuantice/)
  - [quantumComputingUK.org: Introducere in starile Bell](https://quantumcomputinguk.org/tutorials/introduction-to-bell-states)
  - [qgss-2023- a se vedea Laboratoarele din content](https://github.com/qiskit-community/qgss-2023/tree/main)
  - [WK: spatiul 3D](https://ro.wikipedia.org/wiki/Spa%C8%9Biu_tridimensional)
