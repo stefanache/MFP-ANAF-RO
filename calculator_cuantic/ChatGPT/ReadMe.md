@@ -20,7 +20,7 @@ unde t∈[0,1] mătura întreaga sferă.
 
 Acesta este inspirat din *proiecția stereografică a fibrării **Hopf***, care acoperă întreaga suprafață fără goluri.
 
-Un alt exemplu este *curba **Peano*** pe sferă*, care poate fi generată folosind funcții fractale pentru a umple suprafața.
+Un alt exemplu este *curba **Peano** pe sferă*, care poate fi generată folosind funcții fractale pentru a umple suprafața.
 
 **2**. Poate acest drum fi folosit în stare de superpoziție cuantică?
 
