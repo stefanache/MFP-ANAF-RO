@@ -30,7 +30,7 @@ Da, astfel de traiectorii apar în mecanica cuantică și în teoria câmpului c
 
 O traiectorie care acoperă întreaga suprafață a unei sfere poate fi considerată ca un caz extrem al sumării drumurilor posibile.
 
- - **Qubitul sferic (Bloch sphere)**: în computația cuantică, stările unui qubit sunt reprezentate pe suprafața unei sfere Bloch. 
+ - **Qubitul sferic (Bloch sphere)**: în computația cuantică, stările unui qubit sunt reprezentate pe suprafața unei *sfere **Bloch***. 
 
 Un drum parametric continuu care mătura întreaga sferă ar putea fi folosit pentru a defini evoluția unei stări cuantice într-un spațiu **Hilbert** de două dimensiuni.
 
