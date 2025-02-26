@@ -2,6 +2,7 @@ Salutare
 
  - [IBM-quantum(cuantica)-learning courses,tutorials...: qiskit ](https://learning.quantum.ibm.com/)
  - [IBM-quantum: Hello world=getting started](https://docs.quantum.ibm.com/guides/hello-world)
+ - [quantumComputingUK.org: Introducere in starile Bell](https://quantumcomputinguk.org/tutorials/introduction-to-bell-states)
  - [qgss-2023- a se vedea Laboratoarele din content](https://github.com/qiskit-community/qgss-2023/tree/main)
  - [WK: spatiul 3D](https://ro.wikipedia.org/wiki/Spa%C8%9Biu_tridimensional)
  - [RG-Demonstration of quantum volume 64(QV-64) on a superconducting quantum computing system](https://www.researchgate.net/publication/343825197_Demonstration_of_quantum_volume_64_on_a_superconducting_quantum_computing_system)
