@@ -44,7 +44,7 @@ Este o întrebare fascinantă! Ai în minte un anumit context fizic pentru utili
 
 **You** said:
 
-ma intreb daca as putea ghici folosind inteligenta artificiala(sa spunem generative-AI sau alta metoda de invatare) si folosind masusrari/colapsari succesive  daca as putea ghici locatia cat de cat aproximativa pe sfera starilor cuantice?
+ma intreb daca as putea ghici folosind inteligenta artificiala(sa spunem generative-AI sau alta metoda de invatare) si folosind masurari/colapsari succesive  daca as putea ghici locatia cat de cat aproximativa pe sfera starilor cuantice?
 
 **ChatGPT** said:
 
