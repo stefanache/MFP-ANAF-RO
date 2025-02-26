@@ -11,7 +11,7 @@ Da, există drumuri parametrice continue dependente de timp care pot mătura în
 1. Drumuri parametrice continue care acoperă întreaga sferă
 Un exemplu este parametrizarea spiralei lui Hopf, unde un punct pe sferă se deplasează astfel încât să acopere toată suprafața fără discontinuități:
 
-θ(t)=2πt,ϕ(t)=arccos(1−2t)
+θ(t)=2πt, ϕ(t)=arccos(1−2t)
 unde
 t∈[0,1] mătura întreaga sferă. 
 Acesta este inspirat din proiecția stereografică a fibrării Hopf, care acoperă întreaga suprafață fără goluri.
@@ -41,7 +41,7 @@ Un qubit poate fi reprezentat printr-un punct pe sfera Bloch, unde coordonatele 
 
 (θ,ϕ) descriu starea:
 
-∣𝜓⟩=cos𝜃/2∣0⟩+𝑒<sup>𝑖𝜙</sup>sin⁡𝜃2∣1⟩  ∣ψ⟩=cos2θ∣0⟩+e<sup>iϕ</sup>sin2θ ∣1⟩
+∣𝜓⟩=cos𝜃/2∣0⟩+𝑒<sup>𝑖𝜙</sup>sin⁡𝜃2∣1⟩  ∣ψ⟩=cos2/θ∣0⟩+e<sup>iϕ</sup>sin2/θ ∣1⟩
 
 Măsurătorile succesive ale unui qubit colapsează starea pe o axă specifică (de exemplu, măsurarea în baza 
 𝑍
