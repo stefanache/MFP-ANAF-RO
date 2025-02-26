@@ -2,7 +2,7 @@
 
 **You** said:
 
-Cunosti un drum parametric continuu/dependent de timp care sa mature suprafata unei sfere 3d in totalitate? si daca acest drum poate fi folosit in starea de superpozitie cuantica si anume unde in ce teorie?
+Cunosti un drum parametric continuu/dependent de timp care sa mature suprafata unei sfere-3D in totalitate? si daca acest drum poate fi folosit in starea de superpozitie cuantica si anume unde in ce teorie?
 
 **ChatGPT** said:
 
