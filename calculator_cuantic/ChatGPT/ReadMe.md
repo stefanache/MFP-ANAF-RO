@@ -54,13 +54,11 @@ Acest lucru ar implica inferență probabilistică și actualizare Bayesiană, p
 
 1. Ce reprezintă "ghicirea" poziției unei stări cuantice pe sfera Bloch?
 
-Un qubit poate fi reprezentat printr-un punct pe sfera Bloch, unde coordonatele sferice 
+Un qubit poate fi reprezentat printr-un punct pe sfera Bloch, unde coordonatele sferice (θ,ϕ) descriu starea:
 
-(θ,ϕ) descriu starea:
+     ∣𝜓⟩=cos𝜃/2∣0⟩+𝑒<sup>𝑖𝜙</sup>sin⁡𝜃2∣1⟩ 
 
- ∣𝜓⟩=cos𝜃/2∣0⟩+𝑒<sup>𝑖𝜙</sup>sin⁡𝜃2∣1⟩ 
-
- ∣ψ⟩=cos2/θ∣0⟩+e<sup>iϕ</sup>sin2/θ ∣1⟩
+     ∣ψ⟩=cos2/θ∣0⟩+e<sup>iϕ</sup>sin2/θ ∣1⟩
 
 Măsurătorile succesive ale unui qubit colapsează starea pe o axă specifică (de exemplu, măsurarea în baza 
 
@@ -165,6 +163,8 @@ Un mecanism de măsurare în baze diferite
 
 Vrei să testezi ceva practic cu simulări?
 
+<hr/>
+
 **You** said:
 
  in cazul 1 este un fel de triangularizare?
@@ -215,6 +215,8 @@ Da, e un fel de triangulație probabilistică în spațiul cuantic! AI ar putea 
 
 Dacă ai un simulator cuantic (ex. Qiskit), ai putea încerca să implementezi acest tip de strategie! Te interesează un exemplu de cod pentru asta?
 
+<hr/>
+
 **You** said:
 
 dar totusi cred ca masuratorile trebuiesc sincronizate si facute in aceleasi momente de timp
@@ -244,9 +246,12 @@ Aplici măsurători simultane în baze diferite (X, Y, Z).
 Folosești AI pentru a reconstrui poziția probabilă pe sfera Bloch.
 👉 Vrei să încercăm un cod de simulare pentru asta?
 
-You said:
+<hr/>
+
+**You** said:
 de unde stiu ca un quibit este identic cu altul....si cum ii fac sa se sincronizeze perfect?
-ChatGPT said:
+
+**ChatGPT** said:
 Cum știi că un qubit este identic cu altul?
 Într-un sistem cuantic real, nu poți clona stări cuantice (teorema no-cloning). Asta înseamnă că nu poți face copii perfecte ale unui qubit arbitrar.
 
@@ -255,38 +260,13 @@ Totuși, există câteva soluții:
 Prepari mai mulți qubiți folosind aceeași operație
 
 Dacă ai un circuit cuantic care aplică aceleași porți (gate-uri) asupra unor qubiți diferiți, stările rezultate vor fi identice (dacă nu există erori).
+
 De exemplu, dacă vrei să creezi starea 
-∣
-𝜓
-⟩
-=
-cos
-⁡
-(
-𝜃
-/
-2
-)
-∣
-0
-⟩
-+
-𝑒
-𝑖
-𝜙
-sin
-⁡
-(
-𝜃
-/
-2
-)
-∣
-1
-⟩
-∣ψ⟩=cos(θ/2)∣0⟩+e 
-iϕ
- sin(θ/2)∣1⟩, poți folosi aceleași porți Rx și Rz pe mai mulți qubiți.
+
+        ∣ψ⟩=cos(θ/2)∣0⟩+e<sup>iϕ</sup> sin(θ/2)∣1⟩, 
+
+poți folosi aceleași porți Rx și Rz pe mai mulți qubiți.
+
 Folosești un stat preparat anterior (ex. |+⟩ sau Bell states)
 
 Dacă folosești stări speciale predefinite (cum ar fi 
