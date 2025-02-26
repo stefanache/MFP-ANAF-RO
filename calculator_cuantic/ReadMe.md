@@ -1,6 +1,7 @@
 Salutare
 
  - [WKWND: Introducere în mecanica cuantică](https://www.wikiwand.com/ro/articles/Introducere_%C3%AEn_mecanica_cuantic%C4%83)
+ - [WK: Introducere in mecanica cuantica](https://ro.wikipedia.org/wiki/Introducere_%C3%AEn_mecanica_cuantic%C4%83)
  - [Controlul „aproape perfect” al atomilor este un progres major în direcția calculului cuantic](https://stiintasitehnica.com/controlul-aproape-perfect-al-atomilor-este-un-progres-major-in-directia-calculului-cuantic/)
  - [Calculul cuantic: o revoluție în curs de desfășurare datorită inovației Equal1](https://stiintasitehnica.com/calculul-cuantic-o-revolutie-in-curs-de-desfasurare-datorita-inovatiei-equal1/)
  - [Noul record mondial pentru entanglement atins în calculul cuantic](https://stiintasitehnica.com/noul-record-mondial-pentru-entanglement-atins-in-calculul-cuantic/)
