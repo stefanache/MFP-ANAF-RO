@@ -78,7 +78,7 @@ Există mai multe abordări posibile: 2.A, 2.B, 2.C
 
  - Acest lucru ar necesita un dataset sintetic de măsurători cuantice simulate și poziții inițiale cunoscute.
 
-2.C. Reinforcement Learning pentru estimare adaptivă
+2.C. Reinforcement Learning(**RL**) pentru estimare adaptivă
 
  - AI ar putea învăța o politică optimă de măsurare, alegând secvența optimă de măsurători pentru a reduce cel mai rapid incertitudinea asupra poziției qubitului.
 
