@@ -5,38 +5,10 @@ Da, există drumuri parametrice continue dependente de timp care pot mătura în
 1. Drumuri parametrice continue care acoperă întreaga sferă
 Un exemplu este parametrizarea spiralei lui Hopf, unde un punct pe sferă se deplasează astfel încât să acopere toată suprafața fără discontinuități:
 
-𝜃
-(
-𝑡
-)
-=
-2
-𝜋
-𝑡
-,
-𝜙
-(
-𝑡
-)
-=
-arccos
-⁡
-(
-1
-−
-2
-𝑡
-)
 θ(t)=2πt,ϕ(t)=arccos(1−2t)
-unde 
-𝑡
-∈
-[
-0
-,
-1
-]
-t∈[0,1] mătura întreaga sferă. Acesta este inspirat din proiecția stereografică a fibrării Hopf, care acoperă întreaga suprafață fără goluri.
+unde
+t∈[0,1] mătura întreaga sferă. 
+Acesta este inspirat din proiecția stereografică a fibrării Hopf, care acoperă întreaga suprafață fără goluri.
 
 Un alt exemplu este curba Peano pe sferă, care poate fi generată folosind funcții fractale pentru a umple suprafața.
 
@@ -60,11 +32,7 @@ Da, ai putea folosi AI (in special modele generative sau metode de învățare a
 
 1. Ce reprezintă "ghicirea" poziției unei stări cuantice pe sfera Bloch?
 Un qubit poate fi reprezentat printr-un punct pe sfera Bloch, unde coordonatele sferice 
-(
-𝜃
-,
-𝜙
-)
+
 (θ,ϕ) descriu starea:
 
 ∣
