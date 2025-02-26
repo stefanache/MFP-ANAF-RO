@@ -73,6 +73,7 @@ Salutare
  - [telework.ro: Entanglementul-Cuantic(**EQ**)](https://www.telework.ro/ro/entanglementul-cuantic/)
  - [telework.ro: Starile-**Bell**(sau perechile-**EPR**)-in-stiinta-informatiei-cuantice(**IQ**)](https://www.telework.ro/ro/starile-bell-perechile-epr-in-stiinta-informatiei-cuantice/)
  - [telework.ro: semnificatia-fizica-a-Numerelor-Cuantice(**QN**)](https://www.telework.ro/ro/semnificatia-fizica-a-numerelor-cuantice/)
+ - [fizichim.ro: Numere cuantice](https://www.fizichim.ro/docs/fizica/clasa12/capitolul3-fizica-atomica/III-6-numerele-cuantice/)
  - [WK: Modelul atomic **Bohr**-hidrogenul(**H**)](https://ro.wikipedia.org/wiki/Modelul_atomic_Bohr)
  - [scientia.ro: fizica-atomul hidrogenul(**H**)](https://www.scientia.ro/fizica/63-atomul/7544-hidrogenul.html)
  - [oradefizica.ro: electricitate-magnetism, Electricitatea statica](https://www.oradefizica.ro/ora-fizica/electricitate-magnetism/estat-12c.php)
