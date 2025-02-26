@@ -41,26 +41,8 @@ Un qubit poate fi reprezentat printr-un punct pe sfera Bloch, unde coordonatele 
 
 (θ,ϕ) descriu starea:
 
-∣𝜓⟩=cos𝜃/2∣0⟩+𝑒𝑖
-𝜙
-sin
-⁡
-𝜃
-2
-∣
-1
-⟩
-∣ψ⟩=cos 
-2
-θ
-​
- ∣0⟩+e 
-iϕ
- sin 
-2
-θ
-​
- ∣1⟩
+∣𝜓⟩=cos𝜃/2∣0⟩+𝑒<sup>𝑖𝜙</sup>sin⁡𝜃2∣1⟩  ∣ψ⟩=cos2θ∣0⟩+e<sup>iϕ</sup>sin2θ ∣1⟩
+
 Măsurătorile succesive ale unui qubit colapsează starea pe o axă specifică (de exemplu, măsurarea în baza 
 𝑍
 Z dă doar 
