@@ -36,7 +36,7 @@ Un drum parametric continuu care mătura întreaga sferă ar putea fi folosit pe
 
  - **Teoria câmpului cuantic pe spații curbate**: în cosmologie cuantică, câmpurile cuantice definite pe o 3-sferă (cum apare în modele de univers închis) pot avea stări cuantice care se propagă pe astfel de drumuri.
 
-Dacă vrei un caz mai specific, teoria topologică a câmpului (TQFT) folosește structuri de fibrări precum fibrările Hopf pentru a descrie stări cuantice în spații compacte.
+Dacă vrei un caz mai specific, teoria topologică a câmpului (**TQFT**) folosește structuri de fibrări precum fibrările Hopf pentru a descrie stări cuantice în spații compacte.
 
 Este o întrebare fascinantă! Ai în minte un anumit context fizic pentru utilizarea acestei traiectorii?
 
