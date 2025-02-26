@@ -1,5 +1,7 @@
 cunosti un drum parametric continuu dependent de timp care sa mature suprafata unei sfere 3d in totalitate? si daca acest drum poate fi folosit in starea de superpozitie cuantica si anume unde in ce teorie?
+
 ChatGPT said:
+
 Da, există drumuri parametrice continue dependente de timp care pot mătura întreaga suprafață a unei sfere 3D. Un exemplu clasic este proiecția sferică a unei curbe de umplere a spațiului sau variații ale traiectoriilor bazate pe coordonate sferice.
 
 1. Drumuri parametrice continue care acoperă întreaga sferă
