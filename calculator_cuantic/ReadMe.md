@@ -73,7 +73,8 @@ Salutare
  - [telework.ro: Entanglementul-Cuantic(**EQ**)](https://www.telework.ro/ro/entanglementul-cuantic/)
  - [telework.ro: Starile-**Bell**(sau perechile-**EPR**)-in-stiinta-informatiei-cuantice(**IQ**)](https://www.telework.ro/ro/starile-bell-perechile-epr-in-stiinta-informatiei-cuantice/)
    <br/>Stările Bell(perechile EPR) sunt patru stări cuantice specifice maximal inseparate de doi qubiți.
-   <br/>Ele sunt într-o suprapunere de 0 și 1 – o combinație liniară a celor două stări. 
+   <br/>Ele sunt într-o suprapunere de 0 și 1 – o combinație liniară a celor două stări.
+   <br/>În știința informației cuantice, stările Bell sau perechile EPR  sunt stări cuantice specifice a doi qubiți (unitate de informație cuantică), care reprezintă ***cele mai simple exemple de inseparabilitate cuantică***.
  - [telework.ro: semnificatia-fizica-a-Numerelor-Cuantice(**QN**)](https://www.telework.ro/ro/semnificatia-fizica-a-numerelor-cuantice/)
  - [fizichim.ro: Numere cuantice](https://www.fizichim.ro/docs/fizica/clasa12/capitolul3-fizica-atomica/III-6-numerele-cuantice/)
  - [WK: Modelul atomic **Bohr**-hidrogenul(**H**)](https://ro.wikipedia.org/wiki/Modelul_atomic_Bohr)
