@@ -64,21 +64,21 @@ Acest lucru ar implica inferență probabilistică și actualizare **Bayesiană*
 
 **2**. Cum putem folosi AI pentru această problemă?
 
-Există mai multe abordări posibile: A,B,C
+Există mai multe abordări posibile: 2.A, 2.B, 2.C
 
-A. Modelare **Bayesiană** și Filtrare de Particule
+2.A. Modelare **Bayesiană** și Filtrare de Particule
 
  - Poți folosi un filtru de particule sau o tehnică de actualizare **Bayesiană**, unde fiecare măsurare reduce incertitudinea despre poziția inițială a qubitului.
 
  - Ideea este că fiecare măsurătoare actualizează distribuția de probabilitate asupra *sferelor **Bloch***.
 
-B. AI-Generativă (**GAN**s / **Diffusion** Models)
+2.B. AI-Generativă (**GAN**s / **Diffusion** Models)
 
  - Un model **GAN** sau de **difuzie** ar putea fi antrenat să genereze distribuții de probabilitate ale poziției stării inițiale pe baza măsurătorilor succesive.
 
  - Acest lucru ar necesita un dataset sintetic de măsurători cuantice simulate și poziții inițiale cunoscute.
 
-C. Reinforcement Learning pentru estimare adaptivă
+2.C. Reinforcement Learning pentru estimare adaptivă
 
  - AI ar putea învăța o politică optimă de măsurare, alegând secvența optimă de măsurători pentru a reduce cel mai rapid incertitudinea asupra poziției qubitului.
 
