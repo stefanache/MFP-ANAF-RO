@@ -4,6 +4,7 @@ Salutare
  - [IBM-quantum: Hello world=getting started](https://docs.quantum.ibm.com/guides/hello-world)
  - [qgss-2023- a se vedea Laboratoarele din content](https://github.com/qiskit-community/qgss-2023/tree/main)
  - [WK: spatiul 3D](https://ro.wikipedia.org/wiki/Spa%C8%9Biu_tridimensional)
+ - [RG-Demonstration of quantum volume 64 on a superconducting quantum computing system](https://www.researchgate.net/publication/343825197_Demonstration_of_quantum_volume_64_on_a_superconducting_quantum_computing_system)
  - [UCV: Algebra Lineara](https://www.ucv.ro/pdf/departamente_academice/dma/suporturi_curs/Stanescu-MM-curs-AL-GA-G.pdf)
  - [Curs6=Spatiul Hilbert... de Fizica- al d-lui Ilie-Ivanov](http://www.physics.pub.ro/Cursuri/Ilie_Ivanov_-_Fizica_II_An_II_B_IMST_(2012-2013)/Curs_6.pdf)...[aici sunt toate cursurile de fizica ](http://www.physics.pub.ro/Cursuri/Cursuri.htm)...iar [aici](http://www.physics.pub.ro/Cursuri/Ilie_Ivanov_-_Fizica_II_An_II_B_IMST_(2012-2013)/) cursurile de an II ale d-lui Ilie-Ivanov
  - [WK: Hamiltonianul Q-mecanic](https://ro.wikipedia.org/wiki/Hamiltonian_(mecanic%C4%83_cuantic%C4%83))
