@@ -3595,9 +3595,13 @@ Acest comportament reflectă faptul că rezultatul măsurătorii este la fel de 
 ​
  .
 
-You said:
+<hr/>
+
+**You** said:
+
 deci H= Bernoulli uniforma
-ChatGPT said:
+
+**ChatGPT** said:
 Da, în termeni simpli, putem spune că poarta Hadamard (H) aplicată unui qubit într-o stare de bază 
 ∣
 0
@@ -3767,6 +3771,8 @@ Dacă aplici poarta Hadamard pe un qubit în starea ∣0⟩, poți gândi proces
 Semințele (sau datele inițiale de intrare) în acest caz sunt stările qubitilor pe care aplici poarta Hadamard. 
 
 Stările inițiale, ∣0⟩ sau ∣1⟩, sunt importante pentru determinarea rezultatului final după aplicarea porții Hadamard.
+
+<hr/>
 
 <ins>Concluzie</ins>:
 
