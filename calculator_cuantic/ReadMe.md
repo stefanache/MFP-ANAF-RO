@@ -80,7 +80,7 @@ Salutare
    <br/>*Insepararea* este un rezultat independent de bază al *superpoziíei*.
    <br/>Datorită acestei *superpoziíi*, măsurarea qubitului îl va „colapsa” într-una dintre stările sale de bază cu o probabilitate dată.
    <br/>Din cauza *inseparabilității/cuplarii*, măsurarea unui qubit va „colapsa” celălalt qubit într-o stare a cărei măsurare va produce una dintre cele două valori posibile, unde valoarea depinde de *starea Bell* în care se află inițial cei doi qubiți.
-   <br/>Stările Bell pot fi generalizate la anumite stări cuantice ale *sistemelor **multi-qubit***, cum ar fi starea **GHZ** pentru trei sau mai multe subsisteme.
+   <br/>Stările Bell pot fi <ins>generalizate</ins> la anumite stări cuantice ale *sistemelor **multi-qubit***, cum ar fi starea **GHZ** pentru trei sau mai multe subsisteme.
  - [telework.ro: semnificatia-fizica-a-Numerelor-Cuantice(**QN**)](https://www.telework.ro/ro/semnificatia-fizica-a-numerelor-cuantice/)
  - [fizichim.ro: Numere cuantice](https://www.fizichim.ro/docs/fizica/clasa12/capitolul3-fizica-atomica/III-6-numerele-cuantice/)
  - [WK: Modelul atomic **Bohr**-hidrogenul(**H**)](https://ro.wikipedia.org/wiki/Modelul_atomic_Bohr)
