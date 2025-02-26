@@ -40,6 +40,8 @@ Dacă vrei un caz mai specific, teoria topologică a câmpului (TQFT) folosește
 
 Este o întrebare fascinantă! Ai în minte un anumit context fizic pentru utilizarea acestei traiectorii?
 
+<hr/>
+
 **You** said:
 
 ma intreb daca as putea ghici folosind inteligenta artificiala(sa spunem generative-AI sau alta metoda de invatare) si folosind masusrari/colapsari succesive  daca as putea ghici locatia cat de cat aproximativa pe sfera starilor cuantice?
