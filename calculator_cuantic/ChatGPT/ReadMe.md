@@ -3735,15 +3735,7 @@ H∣0⟩=
 1
 ​
  (∣0⟩+∣1⟩)
-Dacă măsurăm acest qubit, rezultatul va fi 
-∣
-0
-⟩
-∣0⟩ sau 
-∣
-1
-⟩
-∣1⟩ cu o probabilitate de 
+Dacă măsurăm acest qubit, rezultatul va fi ∣0⟩ sau ∣1⟩ cu o probabilitate de 
 1
 2
 2
@@ -3761,39 +3753,24 @@ Un generator Bernoulli uniform este un dispozitiv sau algoritm care produce valo
   pentru fiecare valoare.
 
 Echivalența între H și Generatorul Bernoulli Uniform:
-Poarta Hadamard poate fi simulată, în mod teoretic, ca un generator Bernoulli uniform cu seminte date de starea inițială a qubitului. De exemplu:
 
-Dacă aplici poarta Hadamard pe un qubit în starea 
-∣
-0
-⟩
-∣0⟩, poți gândi procesul ca pe un generator de numere aleatoare binare (0 sau 1), având probabilități egale pentru ambele valori.
-Semințele (sau datele inițiale de intrare) în acest caz sunt stările qubitilor pe care aplici poarta Hadamard. Stările inițiale, 
-∣
-0
-⟩
-∣0⟩ sau 
-∣
-1
-⟩
-∣1⟩, sunt importante pentru determinarea rezultatului final după aplicarea porții Hadamard.
+Poarta Hadamard poate fi simulată, în mod teoretic, ca un generator Bernoulli uniform cu seminte date de starea inițială a qubitului. 
 
-Concluzie:
-Poarta Hadamard poate fi privită ca o operație care, aplicată unui qubit într-o stare de bază, creează un generator Bernoulli uniform (adică unul care generează 0 sau 1 cu probabilități egale). Aceasta poate fi considerată echivalentă cu un astfel de generator în contextul simulării aleatorizării într-un sistem cuantic, având ca intrare starea qubitului și ca ieșire un rezultat aleatoriu între cele două stări posibile, 
-∣
-0
-⟩
-∣0⟩ și 
-∣
-1
-⟩
-∣1⟩, cu o probabilitate de 50%.
+De exemplu:
+
+Dacă aplici poarta Hadamard pe un qubit în starea ∣0⟩, poți gândi procesul ca pe un generator de numere aleatoare binare (0 sau 1), având probabilități egale pentru ambele valori.
+
+Semințele (sau datele inițiale de intrare) în acest caz sunt stările qubitilor pe care aplici poarta Hadamard. 
+
+Stările inițiale, ∣0⟩ sau ∣1⟩, sunt importante pentru determinarea rezultatului final după aplicarea porții Hadamard.
+
+<ins>Concluzie</ins>:
+
+Poarta Hadamard poate fi privită ca o operație care, aplicată unui qubit într-o stare de bază, creează un generator Bernoulli uniform (adică unul care generează 0 sau 1 cu probabilități egale). 
+
+Aceasta poate fi considerată echivalentă cu un astfel de generator în contextul simulării aleatorizării într-un sistem cuantic, având ca intrare starea qubitului și ca ieșire un rezultat aleatoriu între cele două stări posibile, ∣0⟩ și ∣1⟩, cu o probabilitate de 50%.
 
 Messages beyond this point are only visible to you
-
-
-
-
 
 Search
 
