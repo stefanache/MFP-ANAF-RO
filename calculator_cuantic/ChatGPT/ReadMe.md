@@ -24,17 +24,17 @@ Un alt exemplu este *curba **Peano** pe sferă*, care poate fi generată folosin
 
 **2**. Poate acest drum fi folosit în stare de superpoziție cuantică?
 
-Da, astfel de traiectorii apar în mecanica cuantică și în teoria câmpului cuantic, în special în contexte precum:
+Da, astfel de traiectorii apar în mecanica cuantică și în teoria câmpului cuantic, în special în contexte precum: 2.a),2.b) si 2.c)
 
- - **Căi de integrare Feynman**: în mecanica cuantică, orice particulă ia simultan toate drumurile posibile dintre două puncte. 
+ - 2.a)**Căi de integrare Feynman**: în mecanica cuantică, orice particulă ia simultan toate drumurile posibile dintre două puncte. 
 
 O traiectorie care acoperă întreaga suprafață a unei sfere poate fi considerată ca un caz extrem al sumării drumurilor posibile.
 
- - **Qubitul sferic (Bloch sphere)**: în computația cuantică, stările unui qubit sunt reprezentate pe suprafața unei *sfere **Bloch***. 
+ - 2.b)**Qubitul sferic (Bloch sphere)**: în computația cuantică, stările unui qubit sunt reprezentate pe suprafața unei *sfere **Bloch***. 
 
 Un drum parametric continuu care mătura întreaga sferă ar putea fi folosit pentru a defini evoluția unei stări cuantice într-un spațiu **Hilbert** de două dimensiuni.
 
- - **Teoria câmpului cuantic pe spații curbate**: în cosmologie cuantică, câmpurile cuantice definite pe o 3-sferă (cum apare în modele de univers închis) pot avea stări cuantice care se propagă pe astfel de drumuri.
+ - 2.c)**Teoria câmpului cuantic pe spații curbate**: în cosmologie cuantică, câmpurile cuantice definite pe o 3-sferă (cum apare în modele de univers închis) pot avea stări cuantice care se propagă pe astfel de drumuri.
 
 Dacă vrei un caz mai specific, teoria topologică a câmpului (**TQFT**) folosește structuri de fibrări precum *fibrările **Hopf*** pentru a descrie stări cuantice în spații compacte.
 
