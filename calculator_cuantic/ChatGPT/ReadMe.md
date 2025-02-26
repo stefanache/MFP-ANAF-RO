@@ -58,7 +58,7 @@ Acest lucru ar implica inferență probabilistică și actualizare **Bayesiană*
 
      ∣𝜓⟩=cos(𝜃/2)∣0⟩+𝑒<sup>𝑖𝜙</sup>sin(⁡𝜃/2)∣1⟩ 
 
- - Măsurătorile succesive ale unui qubit colapsează starea pe o axă specifică (de exemplu, măsurarea în baza 𝑍 dă doar ∣0⟩ sau ∣1⟩, dar nu poziția exactă pe *sfera **Bloch***).
+ - Măsurătorile succesive ale unui qubit colapsează starea pe o axă specifică (de exemplu, măsurarea în baza 𝑍 dă doar ∣0⟩ sau ∣1⟩, dar nu dă poziția exactă pe *sfera **Bloch***).
 
  - Întrebarea ta sugerează că vrem să folosim AI pentru a aproxima poziția inițială a unui qubit pe *sfera **Bloch*** înainte de colapsul final.
 
