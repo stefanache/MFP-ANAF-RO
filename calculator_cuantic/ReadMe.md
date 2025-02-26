@@ -1,5 +1,6 @@
 Salutare
 
+ - [solid.fizica.unibuc.ro: curs calcul cuantic - Necesitatea calculului cuantic](http://solid.fizica.unibuc.ro/cursuri/quant/curs_calcul_cuantic.pdf)
  - [WKWND: Introducere în mecanica cuantică](https://www.wikiwand.com/ro/articles/Introducere_%C3%AEn_mecanica_cuantic%C4%83)
  - [WK: Introducere in mecanica cuantica](https://ro.wikipedia.org/wiki/Introducere_%C3%AEn_mecanica_cuantic%C4%83)
  - [Comunicarea cuantică directă, pe baza efectului Zeno, a fost realizată experimental](https://www.stiintaonline.ro/comunicarea-cuantica-directa-pe-baza-efectului-zeno-a-fost-realizata-experimental/)
