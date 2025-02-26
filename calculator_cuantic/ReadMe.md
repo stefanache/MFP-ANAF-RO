@@ -75,12 +75,12 @@ Salutare
    <br/>Stările Bell(perechile EPR) sunt patru stări cuantice specifice maximal inseparate de doi qubiți.
    <br/>Ele sunt într-o suprapunere de 0 și 1 – o combinație liniară a celor două stări.
    <br/>În știința informației cuantice, stările Bell sau perechile EPR  sunt stări cuantice specifice a doi qubiți (unitate de informație cuantică), care reprezintă ***cele mai simple exemple de inseparabilitate cuantică***.
-   <br/>Stările Bell sunt o formă de **vectori de bază** *inseparați* și *normalizați*
+   <br/>Stările Bell sunt o formă de **vectori de bază** *inseparați/cuplati* și *normalizați*
    <br/>Această *normalizare* implică faptul că probabilitatea globală ca particulele să se afle într-una din stările menționate este 1: ⟨Φ|Φ⟩ = 1.
-   <br/>*Insepararea* este un rezultat independent de bază al superpoziíei.
+   <br/>*Insepararea* este un rezultat independent de bază al *superpoziíei*.
    <br/>Datorită acestei *superpoziíi*, măsurarea qubitului îl va „colapsa” într-una dintre stările sale de bază cu o probabilitate dată.
-   <br/>Din cauza *inseparabilității*, măsurarea unui qubit va „colapsa” celălalt qubit într-o stare a cărei măsurare va produce una dintre cele două valori posibile, unde valoarea depinde de *starea Bell* în care se află inițial cei doi qubiți.
-   <br/>Stările Bell pot fi generalizate la anumite stări cuantice ale sistemelor multi-qubit, cum ar fi starea **GHZ** pentru trei sau mai multe subsisteme.
+   <br/>Din cauza *inseparabilității/cuplarii*, măsurarea unui qubit va „colapsa” celălalt qubit într-o stare a cărei măsurare va produce una dintre cele două valori posibile, unde valoarea depinde de *starea Bell* în care se află inițial cei doi qubiți.
+   <br/>Stările Bell pot fi generalizate la anumite stări cuantice ale *sistemelor **multi-qubit***, cum ar fi starea **GHZ** pentru trei sau mai multe subsisteme.
  - [telework.ro: semnificatia-fizica-a-Numerelor-Cuantice(**QN**)](https://www.telework.ro/ro/semnificatia-fizica-a-numerelor-cuantice/)
  - [fizichim.ro: Numere cuantice](https://www.fizichim.ro/docs/fizica/clasa12/capitolul3-fizica-atomica/III-6-numerele-cuantice/)
  - [WK: Modelul atomic **Bohr**-hidrogenul(**H**)](https://ro.wikipedia.org/wiki/Modelul_atomic_Bohr)
