@@ -975,88 +975,49 @@ care sunt distributiile probabilistice teoretice cunoscute pana in prezent care 
 Gate-urile cuantice permit manipularea distribuțiilor probabilistice ale qubiților, iar anumite tipuri de cuplaje deterministe între qubiți pot implementa diverse distribuții fundamentale.
 
 🔹 Clase de distribuții probabilistice implementabile prin gate-uri cuantice
+
 1️⃣ Distribuția Uniformă
+
 Se obține aplicând Hadamard pe fiecare qubit:
-𝐻
-∣
-0
-⟩
-=
-∣
-0
-⟩
-+
-∣
-1
-⟩
-2
-H∣0⟩= 
-2
-​
- 
-∣0⟩+∣1⟩
-​
- 
-Pentru 
-𝑛
-n qubiți, Hadamard creează un superpozit uniform peste toate cele 
-2
-𝑛
-2 
-n
-  stări:
-1
-2
-𝑛
-∑
-𝑥
-=
-0
-2
-𝑛
-−
-1
-∣
-𝑥
-⟩
-2 
-n
- 
-​
- 
-1
-​
-  
-x=0
-∑
-2 
-n
- −1
-​
- ∣x⟩
-Utilizare: Quantum Fourier Transform (QFT), algoritmii lui Shor și Grover.
+
+H∣0⟩ = 1/sqrt(2)(∣0⟩+∣1⟩)
+​ 
+Pentru 𝑛 qubiți, **Hadamard(H)** creează un superpozit uniform peste toate cele 2<sup>n</sup> stări:
+
+1/sqrt(2<sup>n</sup>)∑(x=0, 2<sup>n</sup>, |x>)
+
+ - Utilizare: Quantum Fourier Transform (QFT), algoritmii lui Shor și Grover.
+
 2️⃣ Distribuția Binomială (cuantică)
-Se poate obține prin aplicarea succesivă a controlled rotations (R_y gates), care distribuie amplitudinile conform coeficienților binomiali.
-Folosită în quantum sampling și simulări Monte Carlo cuantice.
+ - Se poate obține prin aplicarea succesivă a controlled rotations (R_y gates), care distribuie amplitudinile conform coeficienților binomiali.
+ - Folosită în quantum sampling și simulări Monte Carlo cuantice.
+
 3️⃣ Distribuția Gaussiana (aproximată)
-Se poate construi prin Quantum Fourier Transform (QFT) aplicată pe stările de bază uniforme.
-Alternativ, se poate obține folosind controlled-Ry gates pentru a ajusta amplitudinile.
-Utilizare: Simulări cuantice, machine learning cuantic, optimizări.
+ - Se poate construi prin Quantum Fourier Transform (QFT) aplicată pe stările de bază uniforme.
+ - Alternativ, se poate obține folosind controlled-Ry gates pentru a ajusta amplitudinile.
+ - Utilizare: Simulări cuantice, machine learning cuantic, optimizări.
+
 4️⃣ Distribuția Exponențială
-Se poate genera cu circuitul Grover prin ponderarea amplitudinilor exponențial.
-Utilizată în simulări financiare, modele de decădere cuantică.
+ - Se poate genera cu circuitul Grover prin ponderarea amplitudinilor exponențial.
+ - Utilizată în simulări financiare, modele de decădere cuantică.
+
 5️⃣ Distribuția Poissoniană
-Aproximabilă prin aplicarea unui număr controlat de R_y și CNOT gates, modelând procesul de contorizare a evenimentelor rare.
-Utilizată în simularea proceselor cuantice din fizică.
+ - Aproximabilă prin aplicarea unui număr controlat de R_y și CNOT gates, modelând procesul de contorizare a evenimentelor rare.
+ - Utilizată în simularea proceselor cuantice din fizică.
+
 6️⃣ Distribuții Arbitrary (Boltzmann, Dirichlet, etc.)
-Se pot construi prin Quantum Generative Models (ex. Born Machines) și Quantum Boltzmann Machines.
-Folosite în machine learning cuantic și optimizare.
+ - Se pot construi prin Quantum Generative Models (ex. Born Machines) și Quantum Boltzmann Machines.
+ - Folosite în machine learning cuantic și optimizare.
+
 🔥 Concluzie
+
 🔹 Gate-urile cuantice pot implementa orice distribuție probabilistică, atâta timp cât respectă principiile mecanicii cuantice (adică normarea și unitaritatea transformărilor).
 
 🔹 Controlled rotations (Ry), Quantum Fourier Transform (QFT) și Grover diffusion operator sunt cele mai utilizate pentru a genera distribuții specifice.
 
 🔹 Algoritmii cuantici puternici folosesc combinații de aceste distribuții pentru a accelera căutarea, factorizarea și modelarea datelor. 🚀
+
+<hr/>
 
 You said:
 de fapt distributiile probabilistice sunt generatoare de numere aleatoare cu o alocare specifica/proprie de numere in timp
