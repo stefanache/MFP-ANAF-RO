@@ -1,4 +1,4 @@
-[Discutia ChatGPT](https://chatgpt.com/share/67befe3c-40ec-800b-99b4-a962c9a3576e)
+[Discutia](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) [ChatGPT](https://chatgpt.com/share/67befe3c-40ec-800b-99b4-a962c9a3576e)
 
 **You** said:
 
