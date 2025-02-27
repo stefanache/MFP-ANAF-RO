@@ -1559,129 +1559,32 @@ Acest tip de distribuție este o distribuție uniformă discretă.
 
 Funcția de masă de probabilitate a distribuției uniforme discrete (Hadamard):
 
-În cazul în care un qubit se află într-o stare de bază 
-∣
-0
-⟩
-∣0⟩, aplicarea unei porți Hadamard 
-𝐻
-H îl va duce într-o superpoziție de stări, iar funcția de masă de probabilitate va arăta astfel:
+În cazul în care un qubit se află într-o stare de bază ∣0⟩, aplicarea unei porți Hadamard H îl va duce într-o superpoziție de stări, iar funcția de masă de probabilitate va arăta astfel:
 
-𝐻
-∣
-0
-⟩
-=
-1
-2
-(
-∣
-0
-⟩
-+
-∣
-1
-⟩
-)
-H∣0⟩= 
-2
-​
- 
-1
-​
- (∣0⟩+∣1⟩)
-Astfel, la măsurarea qubitului, probabilitățile de a obține starea 
-∣
-0
-⟩
-∣0⟩ sau starea 
-∣
-1
-⟩
-∣1⟩ sunt egale și sunt date de pătratul coeficientului fiecărei stări din superpoziție.
+    H∣0⟩ = 1/sqrt(2)(∣0⟩+∣1⟩)
+
+Astfel, la măsurarea qubitului, probabilitățile de a obține starea ∣0⟩ sau starea ∣1⟩ sunt egale și sunt date de pătratul coeficientului fiecărei stări din superpoziție.
 
 Mai formal, funcția de masă de probabilitate (PMF) pentru această distribuție este:
 
-𝑃
-(
-𝑋
-=
-0
-)
-=
-∣
-1
-2
-∣
-2
-=
-1
-2
-P(X=0)= 
-​
+    P(X=0) = |1/sqrt(2)|<sup>2</sup> 
+
+    P(X=1) = |1/sqrt(2)|<sup>2</sup> ​
   
-2
-​
- 
-1
-​
-  
-​
-  
-2
- = 
-2
-1
-​
- 
-𝑃
-(
-𝑋
-=
-1
-)
-=
-∣
-1
-2
-∣
-2
-=
-1
-2
-P(X=1)= 
-​
-  
-2
-​
- 
-1
-​
-  
-​
-  
-2
- = 
-2
-1
-​
- 
-Acestea sunt probabilitățile discrete ale celor două stări, 
-∣0⟩ și  |1>
-∣1⟩, după aplicarea porții Hadamard. Acest comportament este specific unei distribuții uniforme discrete între două valori posibile (0 și 1), ceea ce înseamnă că fiecare stare are probabilitatea de 50%.
+Acestea sunt probabilitățile discrete ale celor două stări, ∣0⟩ și |1>, după aplicarea porții Hadamard. Acest comportament este specific unei distribuții uniforme discrete între două valori posibile (0 și 1), ceea ce înseamnă că fiecare stare are probabilitatea de 50%.
 
 În general:
-Dacă aplici poarta Hadamard unui qubit care nu este în starea 
-∣
-0
-⟩
-∣0⟩, dar într-o stare arbitrară, comportamentul se va adapta în funcție de acea stare, dar în continuare se va obține o distribuție uniformă între cele două stări 
-∣0⟩ și  |1>
-∣1⟩.
 
-You said:
+Dacă aplici poarta Hadamard unui qubit care nu este în starea ∣0⟩, dar într-o stare arbitrară, comportamentul se va adapta în funcție de acea stare, dar în continuare se va obține o distribuție uniformă între cele două stări ∣0⟩ și |1>.
+
+<hr/>
+
+**You** said:
+
 este un bernouli cu p=1/2?
-ChatGPT said:
+
+**ChatGPT** said:
+
 Da, într-un sens simplificat, aplicarea unei porți Hadamard asupra unui qubit într-o stare de bază (
 ∣
 0
