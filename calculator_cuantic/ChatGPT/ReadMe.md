@@ -1305,17 +1305,10 @@ O distribuție uniformă discretă înseamnă că toate stările posibile au pro
 În cazul unui qubit supus unei porți Hadamard, acesta este pus într-o superpoziție echilibrată între stările ∣0⟩ și ∣1⟩, fiecare având probabilitatea de 50% (adică 1/2).
 
 Detaliu despre distribuția uniformă discretă:
-Dacă avem un set de 
+
+ - Dacă avem un set de 
 𝑁
-N stări posibile (în cazul nostru, 2 stări: 
-∣
-0
-⟩
-∣0⟩ și 
-∣
-1
-⟩
-∣1⟩), atunci distribuția uniformă discretă atribuie fiecărei stări probabilitatea:
+N stări posibile (în cazul nostru, 2 stări: ∣0⟩ și  |1>, atunci distribuția uniformă discretă atribuie fiecărei stări probabilitatea:
 𝑃
 (
 stare
@@ -1328,7 +1321,7 @@ N
 1
 ​
  
-În cazul unui qubit care trece prin poarta Hadamard:
+ - În cazul unui qubit care trece prin poarta Hadamard:
 𝐻
 ∣
 0
@@ -1361,15 +1354,11 @@ Asta înseamnă că probabilitatea de a măsura
 1
 ⟩
 ∣1⟩ este 50%, adică fiecare stare este echiprobabilă.
+
+
 În concluzie:
 Poarta Hadamard creează o distribuție uniformă discretă pe cele două stări posibile (
-∣
-0
-⟩
-∣0⟩ și 
-∣
-1
-⟩
+∣0⟩ și  |1>
 ∣1⟩), iar acest lucru înseamnă că stările sunt echiprobabile. Distribuția uniformă discretă este un exemplu de distribuție în care toate stările posibile au aceeași probabilitate de a apărea, ceea ce se potrivește perfect cu efectul unei porți Hadamard.
 
 You said:
@@ -1583,13 +1572,7 @@ P(x)=
  ,pentru x=1,2,…,100.
 Concluzie:
 Funcțiile de probabilitate discrete care sunt uniforme sunt cele în care toate valorile posibile au aceeași probabilitate. Câteva exemple sunt distribuțiile uniforme pe zaruri, monede, și selecții de elemente dintr-un set finit. De asemenea, poarta Hadamard aplicată unui qubit produce o distribuție uniformă discretă, în care stările 
-∣
-0
-⟩
-∣0⟩ și 
-∣
-1
-⟩
+∣0⟩ și  |1>
 ∣1⟩ au probabilități egale de 50%.
 
 You said:
@@ -1634,13 +1617,7 @@ H∣0⟩=
 ​
  (∣0⟩+∣1⟩)
 Aceasta înseamnă că, după aplicarea porții Hadamard, qubitul este într-o superpoziție a stărilor 
-∣
-0
-⟩
-∣0⟩ și 
-∣
-1
-⟩
+∣0⟩ și  |1>
 ∣1⟩, fiecare având probabilitatea 50% de a fi măsurată (adică o distribuție uniformă discretă).
 
 În general, poarta Hadamard aplicată unui qubit creează o distribuție uniformă discretă pe cele două stări posibile.
@@ -1677,26 +1654,14 @@ De exemplu, în cazul unei aruncări de monedă, unde există două posibile rez
 p=0.5).
 Diferențe cheie:
 Poarta Hadamard aplicată unui qubit produce o superpoziție echilibrată a două stări (de exemplu, 
-∣
-0
-⟩
-∣0⟩ și 
-∣
-1
-⟩
+∣0⟩ și  |1>
 ∣1⟩), ceea ce creează o distribuție uniformă discretă pe două stări.
 
 Distribuția Bernoulli descrie o variabilă aleatoare care poate lua doar două valori discrete (0 și 1), dar nu presupune o superpoziție între aceste valori. De exemplu, în cazul unei aruncări de monedă, rezultatul poate fi 0 (pajură) sau 1 (cap), dar nu există un concept de superpoziție între cele două.
 
 Concluzie:
 Poarta Hadamard și distribuția Bernoulli nu sunt aceleași. Poarta Hadamard produce o superpoziție echilibrată între stările 
-∣
-0
-⟩
-∣0⟩ și 
-∣
-1
-⟩
+∣0⟩ și  |1>
 ∣1⟩, iar distribuția Bernoulli descrie probabilitatea unui eveniment binar (cu succes sau eșec).
 
 You said:
@@ -1712,13 +1677,7 @@ Poarta Hadamard este o poartă cuantică care aplică o transformare liniară as
 0
 ⟩
 ∣0⟩, obții o superpoziție a stărilor 
-∣
-0
-⟩
-∣0⟩ și 
-∣
-1
-⟩
+∣0⟩ și  |1>
 ∣1⟩, cu probabilități egale de a măsura fiecare stare (adică 50% pentru fiecare).
 Matematic, pentru un qubit inițial în starea 
 ∣
@@ -1824,13 +1783,7 @@ Poarta Hadamard aplicată unui qubit transformă starea sa într-o superpoziție
 
 Concluzie:
 Poarta Hadamard nu generează o distribuție normală. În schimb, ea generează o distribuție uniformă discretă între stările posibile 
-∣
-0
-⟩
-∣0⟩ și 
-∣
-1
-⟩
+∣0⟩ și  |1>
 ∣1⟩, în timp ce distribuția normală este o distribuție continuă folosită pentru variabile aleatoare care pot lua valori pe un interval continuu.
 
 You said:
@@ -1876,13 +1829,7 @@ H∣0⟩=
 ​
  (∣0⟩+∣1⟩)
 Aceasta generează o distribuție uniformă discretă între două stări 
-∣
-0
-⟩
-∣0⟩ și 
-∣
-1
-⟩
+∣0⟩ și  |1>
 ∣1⟩, ceea ce înseamnă că fiecare stare are probabilitatea 50%.
 2. Distribuția Poisson:
 Distribuția Poisson este o distribuție de probabilitate discretă utilizată pentru a modela numărul de evenimente care apar într-un interval de timp fix, când evenimentele sunt rare și se produc independent unul de altul. De exemplu, poate fi folosită pentru a modela numărul de apeluri într-o centrală telefonică într-o oră.
@@ -1921,13 +1868,7 @@ Poarta Hadamard este o operație cuantică care aplică o transformare liniară 
 Distribuția Poisson este o distribuție de probabilitate care modelează numărul de evenimente care apar într-un interval fixat, având o formă discretă dar cu o funcție de probabilitate diferită de cea a unei distribuții uniforme.
 Concluzie:
 Poarta Hadamard nu este echivalentă cu distribuția Poisson. În timp ce poarta Hadamard generează o distribuție uniformă discretă între stările 
-∣
-0
-⟩
-∣0⟩ și 
-∣
-1
-⟩
+∣0⟩ și  |1>
 ∣1⟩, distribuția Poisson este folosită pentru a modela numărul de evenimente discrete într-un interval de timp, cu o probabilitate care depinde de rata medie 
 𝜆
 λ.
@@ -1940,13 +1881,7 @@ Poarta Hadamard aplicată unui qubit într-o stare de bază (de exemplu
 0
 ⟩
 ∣0⟩) generează o superpoziție uniformă între stările 
-∣
-0
-⟩
-∣0⟩ și 
-∣
-1
-⟩
+∣0⟩ și  |1>
 ∣1⟩, fiecare având probabilitatea de 
 1
 2
@@ -2064,13 +1999,7 @@ P(X=1)=
 ​
  
 Acestea sunt probabilitățile discrete ale celor două stări, 
-∣
-0
-⟩
-∣0⟩ și 
-∣
-1
-⟩
+∣0⟩ și  |1>
 ∣1⟩, după aplicarea porții Hadamard. Acest comportament este specific unei distribuții uniforme discrete între două valori posibile (0 și 1), ceea ce înseamnă că fiecare stare are probabilitatea de 50%.
 
 În general:
@@ -2079,13 +2008,7 @@ Dacă aplici poarta Hadamard unui qubit care nu este în starea
 0
 ⟩
 ∣0⟩, dar într-o stare arbitrară, comportamentul se va adapta în funcție de acea stare, dar în continuare se va obține o distribuție uniformă între cele două stări 
-∣
-0
-⟩
-∣0⟩ și 
-∣
-1
-⟩
+∣0⟩ și  |1>
 ∣1⟩.
 
 You said:
