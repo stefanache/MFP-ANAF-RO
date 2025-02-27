@@ -2,6 +2,7 @@
 
  - [Distributii de probabilitate](https://ro.wikipedia.org/wiki/Distribu%C8%9Bii_de_probabilitate) Distributii = [Repartitii de probabilitate](https://math.ubbcluj.ro/~tradu/geologi/dprobclasice_article.pdf)
    <br/>[poarta Hadamard](https://chatgpt.com/share/67befe3c-40ec-800b-99b4-a962c9a3576e) = similar cu = Bernoulli uniform(echiprobabil)
+ - [spellit.ro: Informatica cuantica](http://www.spellit.ro/revista-1/numarul-9/numarul-9/informatica-cuantica/studiu-de-specialitate)
  - [solid.fizica.unibuc.ro: curs calcul cuantic - Necesitatea calculului cuantic](http://solid.fizica.unibuc.ro/cursuri/quant/curs_calcul_cuantic.pdf)
  - [WKWND: Introducere în mecanica cuantică](https://www.wikiwand.com/ro/articles/Introducere_%C3%AEn_mecanica_cuantic%C4%83)
  - [WK: Introducere in mecanica cuantica](https://ro.wikipedia.org/wiki/Introducere_%C3%AEn_mecanica_cuantic%C4%83)
