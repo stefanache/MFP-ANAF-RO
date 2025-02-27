@@ -793,11 +793,15 @@ Ex: Un electron într-un experiment cu două fante nu are o traiectorie bine def
 
 4. Compararea predictibilității în diferite sisteme(caracterizat de functia sa de transfer/evolutie in timp):
 
+<pre>
+    
 Sistem	                    Evoluție	                           Predictibilitate
 -------                     --------                               ----------------
 Determinist(clasic)         Complet definit	                       100%
 Haotic (dar determinist)	Sensibil la condițiile inițiale	       Aproape 100% (dacă avem precizie infinită)
 Cuantic (nedeterminist)	    Aleatoriu la nivel fundamental	       Numai probabilistic (<100%)
+
+</pre>
 
 Astfel, sistemele cuantice sunt fundamental diferite de cele clasice, fie ele deterministe sau haotice, deoarece nu permit nici măcar teoretic o predictibilitate de 100%. 🚀
 
@@ -868,71 +872,106 @@ Exact!
 În mecanica cuantică, ai indeterminism atât pe funcția de transfer, cât și pe variabilele de intrare, ceea ce face ca anticiparea exactă a ieșirii să fie imposibilă.
 
 Diferențele principale față de haosul clasic:
-
+<pre>
 Tip de sistem	    Funcția de transfer	 Variabilele de intrare	                                                                      Ieșirea
+-------------       -------------------  -----------------------                                                                      --------
 - Haotic (clasic)	Deterministă	     Aproximativ cunoscute, dar sensibilitatea la condițiile inițiale face predicția dificilă	  Impredictibilă pe termen lung
 - Cuantic	        Nedeterministă       In/Nedeterministe/instabile                                                                  Fundamentale probabilistă
                     (probabilistică)	 (nu pot fi măsurate exact fără colaps)
+</pre>
 
 De ce sistemul cuantic e fundamental impredictibil?
-Funcția de evoluție (ex. ecuația Schrödinger) este deterministă, dar măsurarea colapsează starea într-un mod aleatoriu.
-Variabilele de intrare (ex. starea exactă a unui electron) nu pot fi cunoscute cu precizie înainte de măsurare (principiul incertitudinii Heisenberg).
-Măsurarea însăși perturbă sistemul, deci nu poți face predicții 100% nici măcar pentru stările viitoare după o măsurare.
-🌀 Concluzie: Într-un sistem haotic ai o lege fixă care generează impredictibilitate datorită sensibilității la condițiile inițiale, pe când într-un sistem cuantic impredictibilitatea este fundamentală și nu se poate reduce nici măcar teoretic. 🚀
 
-You said:
+ - 1.Funcția de evoluție (ex. ecuația Schrödinger) este deterministă, dar măsurarea colapsează starea într-un mod aleatoriu.
+
+ - 2.Variabilele de intrare (ex. starea exactă a unui electron) nu pot fi cunoscute cu precizie înainte de măsurare (principiul incertitudinii Heisenberg).
+
+ - 3.Măsurarea însăși perturbă sistemul, deci nu poți face predicții 100% nici măcar pentru stările viitoare după o măsurare.
+
+🌀 Concluzie: 
+
+Într-un sistem haotic ai o lege fixă care generează impredictibilitate datorită sensibilității la condițiile inițiale, pe când într-un sistem cuantic impredictibilitatea este fundamentală și nu se poate reduce nici măcar teoretic. 🚀
+
+<hr/>
+
+**You** said:
 atunci inseamna ca in cazul cuantic, ne/in-detrminismul functianal al functiei de evolutie/transfer face ca un numar infinit de masurari/colapsari sa nu fie suficient pt a invata comportamentul si a prezice in viitor valoarea asteptata/probabilistica
-ChatGPT said:
-Exact! În mecanica cuantică, indeterminismul funcției de evoluție și al măsurătorilor face imposibilă învățarea completă a comportamentului unui sistem, chiar și cu un număr infinit de măsurători.
+
+**ChatGPT** said:
+
+Exact! 
+
+În mecanica cuantică, indeterminismul funcției de evoluție și al măsurătorilor face imposibilă învățarea completă a comportamentului unui sistem, chiar și cu un număr infinit de măsurători.
 
 De ce nu putem prezice exact valoarea viitoare nici măcar probabilistic?
-Funcția de evoluție este deterministă doar până la măsurare.
 
-Ecuația lui Schrödinger descrie o evoluție deterministă a funcției de undă.
-Dar măsurarea colapsează starea într-un mod fundamental aleatoriu.
-Un număr infinit de măsurători nu elimină aleatorietatea.
+1.Funcția de evoluție este deterministă doar până la măsurare.
 
-Poți estima distribuția de probabilitate (de ex. 50% |0⟩, 50% |1⟩ pentru un qubit).
-Dar nu poți prezice ce valoare vei obține la următoarea măsurare.
-Principiul incertitudinii împiedică cunoașterea completă a stării inițiale.
+ - Ecuația lui **Schrödinger** descrie o evoluție deterministă a funcției de undă.
+
+ - Dar măsurarea colapsează starea într-un mod fundamental aleatoriu.
+
+2.Un număr infinit de măsurători nu elimină aleatorietatea.
+
+ - Poți estima distribuția de probabilitate (de ex. 50% |0⟩, 50% |1⟩ pentru un qubit).
+
+ - Dar nu poți prezice ce valoare vei obține la următoarea măsurare.
+
+3.Principiul incertitudinii împiedică cunoașterea completă a stării inițiale.
 
 Chiar dacă faci măsurători infinite, nu poți avea toate informațiile despre sistem fără să-l distrugi.
-🔹 Concluzie: Spre deosebire de un sistem haotic clasic (unde, teoretic, un număr infinit de măsurători ar putea permite reconstituirea sistemului), în cuantic există o barieră fundamentală care face imposibilă prezicerea exactă a comportamentului viitor, indiferent câte măsurători ai face. 🚀
 
-You said:
+🔹 Concluzie: 
+
+Spre deosebire de un sistem haotic clasic (unde, teoretic, un număr infinit de măsurători ar putea permite reconstituirea sistemului), în cuantic există o barieră fundamentală care face imposibilă prezicerea exactă a comportamentului viitor, indiferent câte măsurători ai face. 🚀
+
+<hr/>
+
+**You** said:
+
 si totusi exista in anumite conditii un cuplaj mutual intre iesire si intrare in cazul qubitilor entanglati fapt care ne permite sa folosim viteza cuantica(data de paralelismul procesarii pe un numar de stari/noduri  interne teoretic infinit)
-ChatGPT said:
-Exact! În cazul qubiților entanglați, există un cuplaj mutual între ieșire și intrare, ceea ce face ca măsurarea unuia să influențeze instantaneu celălalt. Acest fenomen nu anulează indeterminismul cuantic, dar permite exploatarea unor proprietăți speciale, cum ar fi viteza cuantica și paralelismul procesării.
+
+**ChatGPT** said:
+
+Exact! 
+
+În cazul qubiților entanglați, există un cuplaj mutual între ieșire și intrare, ceea ce face ca măsurarea unuia să influențeze instantaneu celălalt. 
+
+Acest fenomen nu anulează indeterminismul cuantic, dar permite exploatarea unor proprietăți speciale, cum ar fi viteza cuantica și paralelismul procesării.
 
 🔹 Ce face entanglementul special?
-Corelații instantanee între qubiți
 
-Dacă doi qubiți sunt entanglați, măsurarea unuia determină imediat rezultatul celuilalt, indiferent de distanța dintre ei.
-Deși fiecare măsurare individuală este aleatorie, perechea de rezultate respectă o distribuție corelată.
-Procesare cuantică paralelă
+1.Corelații instantanee între qubiți
 
-Un sistem cu 
-𝑛
-n qubiți stochează informație în 
-2
-𝑛
-2 
-n
-  stări simultan (principiul superpoziției).
-Aceasta este esența vitezei cuantice, permițând procesarea paralelă pe un număr teoretic infinit de combinații ale stărilor.
-Interferența și controlul distribuției probabilistice
+ - Dacă doi qubiți sunt entanglați, măsurarea unuia determină imediat rezultatul celuilalt, indiferent de distanța dintre ei.
+ - Deși fiecare măsurare individuală este aleatorie, perechea de rezultate respectă o distribuție corelată.
 
-Deși nu putem prezice exact ieșirea unui qubit individual, putem controla distribuția probabilităților prin manipularea funcției de undă (prin gate-uri cuantice).
-Acest lucru permite algoritmilor cuantici (ex. Shor, Grover) să ofere avantaje exponențiale față de computația clasică.
+2.Procesare cuantică paralelă
+
+ - Un sistem cu n qubiți stochează informație în 2<sup>𝑛</sub>  stări simultan (principiul superpoziției).
+ - Aceasta este esența vitezei cuantice, permițând procesarea paralelă pe un număr teoretic infinit de combinații ale stărilor.
+
+3.Interferența și controlul distribuției probabilistice
+
+ - Deși nu putem prezice exact ieșirea unui qubit individual, putem controla distribuția probabilităților prin manipularea funcției de undă (prin gate-uri cuantice).
+ - Acest lucru permite algoritmilor cuantici (ex. Shor, Grover) să ofere avantaje exponențiale față de computația clasică.
+   
 🔹 Deci putem prezice un rezultat cuantic?
+
 Nu exact, dar putem folosi entanglementul și interferența pentru a controla distribuția probabilităților și a extrage informație utilă mai rapid decât în computația clasică.
 
 🔥 Concluzie:
+
 Entanglementul nu elimină indeterminismul cuantic, dar creează o rețea globală de corelații care poate fi exploatată pentru procesare cuantică paralelă și optimizări imposibile clasic. 🚀
 
-You said:
+<hr/>
+
+**You** said:
+
 care sunt distributiile probabilistice teoretice cunoscute pana in prezent care sunt acoperite de gate-urile cuantice de cuplaj determinist?
-ChatGPT said:
+
+**ChatGPT** said:
+
 Gate-urile cuantice permit manipularea distribuțiilor probabilistice ale qubiților, iar anumite tipuri de cuplaje deterministe între qubiți pot implementa diverse distribuții fundamentale.
 
 🔹 Clase de distribuții probabilistice implementabile prin gate-uri cuantice
