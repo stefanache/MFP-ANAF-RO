@@ -434,381 +434,109 @@ Vrei să îți arăt un exemplu de cod care face tomografie cuantică în Qiskit
 <hr/>
 
 
-You said:
+**You** said:
+
 te referi la baza ca la bazele de numeratie din cazul clasic?
-ChatGPT said:
-Nu chiar! În mecanica cuantică, baza de măsurare nu se referă la bazele de numeratie clasice (binară, zecimală etc.), ci la direcția în care alegi să măsori un qubit pe sfera Bloch.
+
+**ChatGPT** said:
+
+Nu chiar! 
+
+În mecanica cuantică, baza de măsurare nu se referă la bazele de numeratie clasice (binară, zecimală etc.), ci la direcția în care alegi să măsori un qubit pe sfera Bloch.
 
 Ce înseamnă baza în mecanica cuantică?
-Un qubit poate fi măsurat în diferite baze ortogonale. Cele mai comune sunt:
 
-Baza computatională (Z-basis) 📏
+Un qubit poate fi măsurat în diferite baze ortogonale. 
 
-Stările de bază sunt:
-∣
-0
-⟩
-=
-[
-1
-0
-]
-,
-∣
-1
-⟩
-=
-[
-0
-1
-]
-∣0⟩=[ 
-1
-0
-​
- ],∣1⟩=[ 
-0
-1
-​
- ]
-Măsurarea în această bază îți spune dacă qubitul este în starea |0⟩ sau |1⟩.
-Baza Hadamard (X-basis) 🔀
+Cele mai comune sunt:
 
-Stările de bază sunt:
-∣
-+
-⟩
-=
-1
-2
-(
-∣
-0
-⟩
-+
-∣
-1
-⟩
-)
-,
-∣
-−
-⟩
-=
-1
-2
-(
-∣
-0
-⟩
-−
-∣
-1
-⟩
-)
-∣+⟩= 
-2
-​
- 
-1
-​
- (∣0⟩+∣1⟩),∣−⟩= 
-2
-​
- 
-1
-​
- (∣0⟩−∣1⟩)
-Dacă măsori aici, obții ±1, dar nu 0 sau 1.
-Baza Y (Y-basis) 🔄
+1. Baza computatională (**Z**-basis) 📏
 
-Stările de bază sunt:
-∣
-𝑖
-+
-⟩
-=
-1
-2
-(
-∣
-0
-⟩
-+
-𝑖
-∣
-1
-⟩
-)
-,
-∣
-𝑖
-−
-⟩
-=
-1
-2
-(
-∣
-0
-⟩
-−
-𝑖
-∣
-1
-⟩
-)
-∣i+⟩= 
-2
+ - Stările de bază sunt:
+ - 
+          1           0
+    ∣0⟩ = [ ] , |1> = [ ]
+          0           1
+
+ - Măsurarea în această bază îți spune dacă qubitul este în starea |0⟩ sau |1⟩.
+
+2. Baza **Hadamard** (X-basis) 🔀
+
+ - Stările de bază sunt:
+
+    |+> = 1/sqrt(2)(∣0⟩+∣1⟩),  ∣−⟩ = 1/sqrt(2)(∣0⟩−∣1⟩)
+
+ - Dacă măsori aici, obții ±1, dar nu 0 sau 1.
+
+3.Baza Y (Y-basis) 🔄
+
+ - Stările de bază sunt:
 ​
- 
-1
-​
- (∣0⟩+i∣1⟩),∣i−⟩= 
-2
-​
- 
-1
-​
- (∣0⟩−i∣1⟩)
-Aici măsori faza relativă dintre |0⟩ și |1⟩.
+     |i+> = 1/sqrt(2)(∣0⟩+i∣1⟩), ∣i−⟩ = 1/sqrt(2)(∣0⟩−i∣1⟩)
+   
+ - Aici măsori faza relativă dintre |0⟩ și |1⟩.
+   
 De ce e importantă alegerea bazei?
+
 🛠️ Dacă măsori doar în baza computatională (Z), pierzi informația despre componentele X și Y ale qubitului!
+
 🛠️ Pentru a reconstitui poziția unui qubit pe sfera Bloch, trebuie să măsori în toate cele trei baze (X, Y, Z).
 
 Exemplu concret (Ce se întâmplă când măsori într-o anumită bază)
+
 Dacă qubitul tău este în stare generală:
 
-∣
-𝜓
-⟩
-=
-cos
-⁡
-(
-𝜃
-/
-2
-)
-∣
-0
-⟩
-+
-𝑒
-𝑖
-𝜙
-sin
-⁡
-(
-𝜃
-/
-2
-)
-∣
-1
-⟩
-∣ψ⟩=cos(θ/2)∣0⟩+e 
-iϕ
- sin(θ/2)∣1⟩
-🔹 Dacă măsori în baza Z, obții 0 cu probabilitatea 
-cos
-⁡
-2
-(
-𝜃
-/
-2
-)
-cos 
-2
- (θ/2) și 1 cu probabilitatea 
-sin
-⁡
-2
-(
-𝜃
-/
-2
-)
-sin 
-2
- (θ/2).
-🔹 Dacă măsori în baza X, obții 
-∣
-+
-⟩
-∣+⟩ sau 
-∣
-−
-⟩
-∣−⟩, ceea ce îți dă informație despre 
-cos
-⁡
-𝜙
-cosϕ.
-🔹 Dacă măsori în baza Y, afli 
-sin
-⁡
-𝜙
-sinϕ.
+∣ψ⟩=cos(θ/2)∣0⟩+e <sup>iϕ</sup> sin(θ/2)∣1⟩
+
+🔹 Dacă măsori în baza Z, obții 0 cu probabilitatea cos<sup>2</sup>(θ/2) și 1 cu probabilitatea sin<sup>2</sup>(θ/2).
+
+🔹 Dacă măsori în baza X, obții ∣+⟩ sau ∣−⟩, ceea ce îți dă informație despre cosϕ.
+🔹 Dacă măsori în baza Y, afli sin𝜙.
 
 Prin combinarea mai multor măsurători în aceste baze, poți reconstrui poziția inițială a qubitului pe sfera Bloch.
 
 Concluzie
+
 ✅ Baza în mecanica cuantică nu e despre numerație, ci despre direcția în care măsori qubitul pe sfera Bloch.
+
 ✅ Alegerea bazei de măsurare influențează ce informație poți extrage din qubit.
+
 ✅ Pentru a obține întreaga informație despre starea unui qubit, trebuie să măsori în toate cele trei baze (X, Y, Z).
 
 Vrei să îți arăt un cod Qiskit care măsoară un qubit în mai multe baze? 🚀
 
-You said:
-cum scriu cos(θ/2)∣0⟩ matriceal sau tensorial?
-ChatGPT said:
+<hr/>
+
+**You** said:
+
+            cum scriu cos(θ/2)∣0⟩ matriceal sau tensorial?
+
+**ChatGPT** said:
+
 Bună întrebare! Hai să scriem starea 
-∣
-𝜓
-⟩
-=
-cos
-⁡
-(
-𝜃
-/
-2
-)
-∣
-0
-⟩
-+
-𝑒
-𝑖
-𝜙
-sin
-⁡
-(
-𝜃
-/
-2
-)
-∣
-1
-⟩
-∣ψ⟩=cos(θ/2)∣0⟩+e 
-iϕ
- sin(θ/2)∣1⟩ în formă matriceală și tensorială.
+
+∣ψ⟩=cos(θ/2)∣0⟩+e<sup>iϕ</sup>sin(θ/2)∣1⟩ 
+
+în formă matriceală și tensorială.
 
 1. Formă matriceală (vector coloană)
-În baza computatională 
-{
-∣
-0
-⟩
-,
-∣
-1
-⟩
-}
-{∣0⟩,∣1⟩}, avem:
 
-∣
-0
-⟩
-=
-[
-1
-0
-]
-,
-∣
-1
-⟩
-=
-[
-0
-1
-]
-∣0⟩=[ 
-1
-0
-​
- ],∣1⟩=[ 
-0
-1
-​
- ]
+În baza computatională {∣0⟩,∣1⟩}, avem:
+
+          1           0
+    ∣0⟩ = [ ] , |1> = [ ]
+          0           1
+
 Astfel, starea generală a unui qubit este:
 
-∣
-𝜓
-⟩
-=
-cos
-⁡
-(
-𝜃
-/
-2
-)
-[
-1
-0
-]
-+
-𝑒
-𝑖
-𝜙
-sin
-⁡
-(
-𝜃
-/
-2
-)
-[
-0
-1
-]
-∣ψ⟩=cos(θ/2)[ 
-1
-0
+∣ψ⟩=cos(θ/2)∣0⟩+e<sup>iϕ</sup>sin(θ/2)∣1⟩
+
+
+          cos(θ/2)
+∣ψ⟩=[                    ]
+    e<sup>iϕ</sup>sin(θ/2)
 ​
- ]+e 
-iϕ
- sin(θ/2)[ 
-0
-1
-​
- ]
-∣
-𝜓
-⟩
-=
-[
-cos
-⁡
-(
-𝜃
-/
-2
-)
-𝑒
-𝑖
-𝜙
-sin
-⁡
-(
-𝜃
-/
-2
-)
-]
-∣ψ⟩=[ 
-cos(θ/2)
-e 
-iϕ
- sin(θ/2)
-​
- ]
+
 Aceasta este forma vectorială a unui qubit.
 
 2. Formă tensorială
