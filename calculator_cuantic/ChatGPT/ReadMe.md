@@ -584,18 +584,18 @@ Dacă avem doi qubiți care sunt în stările:
 
 Primul qubit în stare 
 
-∣𝜓<inf>1</inf>⟩ = cos(𝜃<inf>1</inf>/2)∣0⟩ + 𝑒<sup>𝑖𝜙<inf>1</inf></sup>sin(𝜃<inf>1</inf>/2)∣1⟩
+∣𝜓<sub>1</sub>⟩ = cos(𝜃<sub>1</sub>/2)∣0⟩ + 𝑒<sup>𝑖𝜙<sub>1</sub></sup>sin(𝜃<sub>1</sub>/2)∣1⟩
  
 Al doilea qubit în stare 
 
-∣𝜓<inf>2</inf>⟩ = cos(𝜃<inf>2</inf>/2)∣0⟩ + 𝑒<sup>𝑖𝜙<inf>2</inf></sup>sin(𝜃<inf>2</inf>/2)∣1⟩
+∣𝜓<sub>2</sub>⟩ = cos(𝜃<sub>2</sub>/2)∣0⟩ + 𝑒<sup>𝑖𝜙<sub>2</sub></sup>sin(𝜃<sub>2</sub>/2)∣1⟩
 
 Produsul tensorial al acestora va fi dpdv formal:
 
-∣𝜓<inf>sistem</inf>> = ∣𝜓<inf>1</inf>⟩⊗∣𝜓<inf>2</inf>⟩
+∣𝜓<sub>sistem</sub>> = ∣𝜓<sub>1</sub>⟩⊗∣𝜓<sub>2</sub>⟩
 
 Matematic:
-∣𝜓<inf>sistem</inf>> = (cos(𝜃<inf>1</inf>/2)∣0⟩ + 𝑒<sup>𝑖𝜙<inf>1</inf></sup>sin(𝜃<inf>1</inf>/2)∣1⟩ ⊗ (cos(𝜃<inf>2</inf>/2)∣0⟩ + 𝑒<sup>𝑖𝜙<inf>2</inf></sup>sin(𝜃<inf>2</inf>/2)∣1⟩)
+∣𝜓<sub>sistem</sub>> = (cos(𝜃<sub>1</sub>/2)∣0⟩ + 𝑒<sup>𝑖𝜙<sub>1</sub></sup>sin(𝜃<sub>1</sub>/2)∣1⟩ ⊗ (cos(𝜃<sub>2</sub>/2)∣0⟩ + 𝑒<sup>𝑖𝜙<sub>2</sub></sup>sin(𝜃<sub>2</sub>/2)∣1⟩)
 
 Acum, folosind produsul tensorial, rezultatul va fi un vector de 4 componente care reprezintă toate combinațiile posibile ale celor două(2) stări de qubit(|00> si |10>).
 
