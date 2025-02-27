@@ -757,73 +757,123 @@ Cel mult, o astfel de descriere poate fi utilizată pentru vizualizarea probabil
 instr-un sistem determinist locatia viitoare poate fi anticipata/asteptata cu precizie de 100% in timp ce intr-un sistem haotic/nedeterminist practic pozitia viitoare poate fi anticipata cu o precizie probabilistica(< de 100%)
 
 **ChatGPT** said:
-Exact! Diferența fundamentală dintre un sistem determinist și un sistem haotic/nedeterminist este legată de predictibilitatea viitorului.
+Exact! 
+
+Diferența fundamentală dintre un sistem determinist și un sistem haotic/nedeterminist este legată de predictibilitatea viitorului(functia de transfer/dependenta functionala incerta/random a iesirii cauzata de intrare).
 
 1. Sistem determinist (clasic)
+
 Evoluția sa este complet previzibilă dacă avem toate informațiile inițiale.
+
 Legile de mișcare sunt deterministe, ceea ce înseamnă că putem calcula viitoarea stare a sistemului cu 100% precizie.
+
 Ex: mișcarea planetelor în sistemul solar (dacă ignorăm efectele haotice la scară foarte lungă).
+
+
 2. Sistem haotic (dar tot determinist)
+
 Micile variații în condițiile inițiale duc la evoluții complet diferite.
+
 Totuși, sistemul respectă reguli deterministe (adică, dacă am avea precizie infinită în măsurători, am putea prezice viitorul).
+
 Ex: vremea – dacă ar fi posibil să măsurăm toți factorii externi cu precizie infinită, am putea prezice exact starea vremii și peste o lună.
+
 Sistemele haotice sunt sensibile la condițiile inițiale, dar nu sunt fundamental nedeterministe.
+
+
 3. Sistem cuantic (fundamental nedeterminist)
+
 În mecanica cuantică, nu putem prezice exact rezultatul unei măsurători, indiferent de cât de bine cunoaștem starea inițială.
+
 Există doar o distribuție de probabilități pentru diferite rezultate.
+
 Ex: Un electron într-un experiment cu două fante nu are o traiectorie bine definită, ci doar o distribuție de probabilitate pentru locul unde va apărea.
+
 ⚠️ Important: Spre deosebire de un sistem haotic (unde necunoașterea provine din lipsa de precizie a măsurătorilor), în mecanica cuantică incertitudinea este fundamentală, nu doar o limitare practică.
 
-4. Compararea predictibilității în diferite sisteme
-Sistem	Evoluție	Predictibilitate
-Determinist	Complet definit	100%
-Haotic (dar determinist)	Sensibil la condițiile inițiale	Aproape 100% (dacă avem precizie infinită)
-Cuantic (nedeterminist)	Aleatoriu la nivel fundamental	Numai probabilistic (<100%)
+4. Compararea predictibilității în diferite sisteme(caracterizat de functia sa de transfer/evolutie in timp):
+
+Sistem	                    Evoluție	                           Predictibilitate
+-------                     --------                               ----------------
+Determinist(clasic)         Complet definit	                       100%
+Haotic (dar determinist)	Sensibil la condițiile inițiale	       Aproape 100% (dacă avem precizie infinită)
+Cuantic (nedeterminist)	    Aleatoriu la nivel fundamental	       Numai probabilistic (<100%)
+
 Astfel, sistemele cuantice sunt fundamental diferite de cele clasice, fie ele deterministe sau haotice, deoarece nu permit nici măcar teoretic o predictibilitate de 100%. 🚀
 
-You said:
+<hr/>
+
+**You** said:
+
 vrei sa spui ca daca unui sistem haotic ii stiu starea initiala ii stiu de fapt cu precizie starea finala la un moment dat facand un infinit numar de masuratori?
-ChatGPT said:
+
+**ChatGPT** said:
+
 Exact! Dacă ai putea cunoaște starea inițială a unui sistem haotic cu precizie infinită, ai putea calcula starea finală cu 100% acuratețe.
 
 Dar în practică, acest lucru este imposibil, din două motive:
 
-Sensibilitatea la condițiile inițiale – Erori extrem de mici în măsurători pot duce la predicții complet diferite după un timp suficient de lung.
-**Limitările
-You said:
+1.Sensibilitatea la condițiile inițiale – Erori extrem de mici în măsurători pot duce la predicții complet diferite după un timp suficient de lung.
+
+2.**Limitările...
+
+<hr/>
+
+**You** said:
 in esenta sistemul haotic este determinist doar ca avand un numar foarte mare de marimi de intrare care au valori greu de cuantificat face destul de greu de folosit determinismul sau functional
-ChatGPT said:
+
+**ChatGPT** said:
+
 Exact! Un sistem haotic este determinist în sensul că evoluția sa este guvernată de ecuații precise, dar devine practic impredictibil din cauza:
 
-Sensibilității extreme la condițiile inițiale – o mică eroare în măsurători poate duce la evoluții complet diferite pe termen lung.
-Dimensionalității mari – există multe variabile de intrare care trebuie cunoscute cu o precizie foarte mare.
-Limitărilor de măsurare – nu putem avea precizie infinită în măsurători (principiul lui Heisenberg în cuantic, dar și limitele practice ale senzorilor în clasic).
+ - Sensibilității extreme la condițiile inițiale – o mică eroare în măsurători poate duce la evoluții complet diferite pe termen lung.
+ - Dimensionalității mari – există multe variabile de intrare care trebuie cunoscute cu o precizie foarte mare.
+ - Limitărilor de măsurare – nu putem avea precizie infinită în măsurători (principiul lui Heisenberg în cuantic, dar și limitele practice ale senzorilor în clasic).
+
 Astfel, determinismul există teoretic, dar este greu de exploatat în practică, ceea ce face ca un sistem haotic să pară nedeterminist la scară mare. 🚀
 
-You said:
+
+
+**You** said:
+
 aici in cazul sistemului haotic ai putea spune ca ai determinism pe functia de transfer dar indeterminism pe variabilele de intrare care produ indeterminism si pe iesire
-ChatGPT said:
-Exact! Într-un sistem haotic, ai determinism pe funcția de transfer (adică regulile de evoluție ale sistemului sunt fixe și deterministe), dar indeterminism pe variabilele de intrare, ceea ce duce la impredictibilitate pe ieșire.
+
+**ChatGPT** said:
+
+Exact! 
+
+Într-un sistem haotic, ai determinism pe funcția de transfer (adică regulile de evoluție ale sistemului sunt fixe și deterministe), dar indeterminism pe variabilele de intrare, ceea ce duce la impredictibilitate pe ieșire.
 
 Cu alte cuvinte:
 
-Dacă ai cunoaște intrările cu precizie infinită, ai putea calcula ieșirea exact.
-Dar în practică, orice eroare sau incertitudine în intrări se propagă exponențial, făcând predicția imposibilă după un anumit timp.
+- Dacă ai cunoaște intrările cu precizie infinită, ai putea calcula ieșirea exact.
+- Dar în practică, orice eroare sau incertitudine în intrări se propagă exponențial, făcând predicția imposibilă după un anumit timp.
+  
 Un exemplu clasic este modelul vremii:
 
-Atmosfera urmează ecuații deterministe, dar pentru că nu putem măsura fiecare moleculă de aer cu precizie infinită, prognozele devin inexacte pe termen lung.
+ - Atmosfera urmează ecuații deterministe, dar pentru că nu putem măsura fiecare moleculă de aer cu precizie infinită, prognozele devin inexacte pe termen lung.
+   
 Deci, sistemele haotice sunt deterministe la nivel de ecuații, dar practic indeterministe la nivel de predicție din cauza limitelor măsurătorilor. 🔥
 
-You said:
+<hr/>
+
+
+**You** said:
 pe cand in cazul sistemului cuantic ai atat  indeterminism pe functia de transfer cat si pe intrari si atunci practic anticiparea iesirii este imposibila
-ChatGPT said:
-Exact! În mecanica cuantică, ai indeterminism atât pe funcția de transfer, cât și pe variabilele de intrare, ceea ce face ca anticiparea exactă a ieșirii să fie imposibilă.
+
+**ChatGPT** said:
+
+Exact! 
+
+În mecanica cuantică, ai indeterminism atât pe funcția de transfer, cât și pe variabilele de intrare, ceea ce face ca anticiparea exactă a ieșirii să fie imposibilă.
 
 Diferențele principale față de haosul clasic:
 
-Tip de sistem	Funcția de transfer	Variabilele de intrare	Ieșirea
-Haotic (clasic)	Deterministă	Aproximativ cunoscute, dar sensibilitatea la condițiile inițiale face predicția dificilă	Impredictibilă pe termen lung
-Cuantic	Nedeterministă (probabilistică)	Indeterministe (nu pot fi măsurate exact fără colaps)	Fundamentale probabilistă
+Tip de sistem	    Funcția de transfer	 Variabilele de intrare	                                                                      Ieșirea
+- Haotic (clasic)	Deterministă	     Aproximativ cunoscute, dar sensibilitatea la condițiile inițiale face predicția dificilă	  Impredictibilă pe termen lung
+- Cuantic	        Nedeterministă       In/Nedeterministe/instabile                                                                  Fundamentale probabilistă
+                    (probabilistică)	 (nu pot fi măsurate exact fără colaps)
+
 De ce sistemul cuantic e fundamental impredictibil?
 Funcția de evoluție (ex. ecuația Schrödinger) este deterministă, dar măsurarea colapsează starea într-un mod aleatoriu.
 Variabilele de intrare (ex. starea exactă a unui electron) nu pot fi cunoscute cu precizie înainte de măsurare (principiul incertitudinii Heisenberg).
