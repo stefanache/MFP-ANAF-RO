@@ -144,7 +144,7 @@ Acest proces se numește **tomografie cuantică** și este folosit pentru a reco
 
 Chiar și cu un număr mic de măsurători, ai putea antrena un model **AI** să prezică distribuția probabilă a stării pe baza unui set de date de antrenament.
 
-**3**. Algoritmi cuantici variaționali (**VQA***)
+**3**. Algoritmi cuantici variaționali (***VQA***)
 
 Aceștia pot optimiza stările cuantice pentru a ghici locația cu ajutorul unor tehnici hibride AI-cuantic.
 
