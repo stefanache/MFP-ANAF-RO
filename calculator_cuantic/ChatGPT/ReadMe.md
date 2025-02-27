@@ -341,7 +341,7 @@ Dacă vrei să sincronizezi evoluția continuă a qubiților, ai două probleme 
 
 Există o soluție?
 
-Singura metodă reală de a <ins>sincroniza evoluția a doi qubiți</ins> este să îi încătușezi/cuplezi/incurci/sincronizezi într-o stare cuantică comună, adică entanglement.
+Singura metodă reală de a <ins>sincroniza evoluția a doi qubiți</ins> este să îi încătușezi/cuplezi/incurci/sincronizezi/corelezi într-o stare cuantică comună, adică **entanglement**.
 
 ✅ Dacă ai doi qubiți într-o stare Bell ( ∣Φ+⟩ = 1/sqrt(2)(∣00⟩+∣11⟩) ), atunci știi sigur că ei vor colapsa întotdeauna în aceleași stări.
 
@@ -420,9 +420,13 @@ Dacă ai multe copii ale aceluiași qubit, poți face tomografie cuantică și r
 Entanglement pentru corelare
 
 Dacă ai qubiți entanglați, poți extrage mai multe informații din măsurători combinate.
+
 Ce înseamnă asta pentru AI și măsurători succesive?
+
 ✅ Dacă ai acces doar la măsurători discrete, AI-ul ar putea folosi metode statistice pentru a aproxima unde se afla starea inițială pe sfera Bloch.
+
 ✅ Un AI care învață din măsurători succesive ar putea decide ce măsurători să facă pentru a obține cea mai bună estimare posibilă.
+
 ✅ Dar AI-ul tot nu poate evita incertitudinea fundamentală: nu va putea niciodată să prezică cu 100% precizie unde era un qubit înainte de măsurare.
 
 Vrei să îți arăt un exemplu de cod care face tomografie cuantică în Qiskit și reconstruiește poziția unui qubit pe sfera Bloch? 🚀
