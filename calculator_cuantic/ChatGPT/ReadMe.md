@@ -1484,7 +1484,7 @@ Așadar, starea qubitului devine o superpoziție uniformă discretă.
    - Media μ, care indică centrul distribuției.
    - Devierea standard σ, care măsoară lățimea clopotului.
      
-Funcția de densitate a distribuției normale este dată de formula:
+ - Funcția de densitate a distribuției normale este dată de formula:
 𝑓
 (
 𝑥
@@ -1524,6 +1524,7 @@ f(x)=
  
 ​
  )
+ 
 Aici, 
 𝑥
 x poate lua orice valoare reală, iar forma curbei este un clopot simetric în jurul valorii medii 
