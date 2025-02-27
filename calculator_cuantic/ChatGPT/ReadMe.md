@@ -605,198 +605,65 @@ Acum, folosind produsul tensorial, rezultatul va fi un vector de 4 componente ca
 
 Clarificare:
 
-Stările individuale ale fiecărui qubit 
-∣
-0
-⟩
-∣0⟩ și 
-∣
-1
-⟩
-∣1⟩ formează un spațiu de stare 2D pentru fiecare qubit.
-Produsul tensorial a două stări de qubit 
-∣
-𝜓
-1
-⟩
-⊗
-∣
-𝜓
-2
-⟩
-∣ψ 
-1
-​
- ⟩⊗∣ψ 
-2
-​
- ⟩ rezultă într-un spațiu de stare 4D (pentru 2 qubiți).
+Stările individuale ale fiecărui qubit ∣0⟩ și ∣1⟩ formează un spațiu de stare 2D pentru fiecare qubit.
+
+Produsul tensorial a două stări de qubit ∣𝜓<sub>1</sub>⟩⊗∣𝜓<sub>2</sub>⟩ rezultă într-un spațiu de stare 4D (pentru 2 qubiți) = 2 x 2D.
+
 Deci, când vorbim despre sistemul cu 2 qubiți, ne referim la un sistem cuantic care conține 2 qubiți individuali, iar acest sistem este descris printr-un vector în spațiul de stare al sistemului (care este de dimensiune 4 pentru doi qubiți).
 
 Așadar, "sistemul cu 2 qubiți" nu este echivalent cu un qubit mai complex sau o stare „combinată” de tipul unui „qubit sistem”, ci pur și simplu un sistem de două stări cuantice independente, combinate folosind produsul tensorial.
 
 Ai vreun alt exemplu sau detaliu care să te intereseze despre acest subiect?
 
-Interesantă idee! Să analizăm ce înseamnă utilizarea a două plane tangente deasupra și dedesubtul sferei unitare în 3D și cum ar putea fi folosită proiecția unui punct interior pentru a descrie colapsul cuantic.
+**You** said:
+
+Avem 2 plane tangente jos si sus la o 3D-sfera unitara si proiectam pe ele imaginea afixului unui punct din sfera pe aceste plane iar la colapsare luam distanta cea mai scurta....
+
+
+**ChatGPT*** said:
+
+Interesantă idee! 
+
+Să analizăm ce înseamnă utilizarea a două plane tangente deasupra și dedesubtul sferei unitare în 3D și cum ar putea fi folosită proiecția unui punct interior pentru a descrie colapsul cuantic.
 
 1. Ce reprezintă proiecția unui punct din interiorul sferei pe aceste plane tangente?
-Dacă avem o sferă unitară 
-𝑆
-2
-S 
-2
-  (adică de rază 1, centrul în origine), putem considera două plane paralele, tangente superior și inferior sferei, la punctele 
-(
-0
-,
-0
-,
-1
-)
-(0,0,1) și 
-(
-0
-,
-0
-,
-−
-1
-)
-(0,0,−1). Aceste plane sunt date de ecuațiile:
+Dacă avem o sferă unitară 𝑆<sup>2</sup>(adică de rază 1, centrul în origine), putem considera două plane paralele, tangente superior și inferior sferei, la punctele 
+(0,0,1) și (0,0,−1).
 
-Planul superior: 
-𝑧
-=
-1
-z=1
-Planul inferior: 
-𝑧
-=
-−
-1
-z=−1
-Fie un punct interior sferei unitare 
-𝑃
-(
-𝑥
-,
-𝑦
-,
-𝑧
-)
-P(x,y,z), care se află în sfera definită de:
+Aceste plane sunt date de ecuațiile:
 
-𝑥
-2
-+
-𝑦
-2
-+
-𝑧
-2
-≤
-1
-x 
-2
- +y 
-2
- +z 
-2
- ≤1
-Acum, dorim să proiectăm acest punct pe cele două plane. Proiecția se face printr-o intersecție a dreptei prin punctul 
+Planul superior: z=1
+
+Planul inferior: z=−1
+
+Fie un punct interior sferei unitare P(x,y,z), care se află în sfera definită de:
+
+𝑥<sup>2</sup> + y<sup>2</sup> + z<sup>2</sup> <= 1
+
+Acum dorim să proiectăm acest punct pe cele două plane. 
+ 
+Proiecția se face printr-o intersecție a dreptei prin punctul 
 𝑃
 P cu cele două plane.
 
 2. Proiecția afixului unui punct pe planele tangente
-Considerăm proiecția ortogonală a lui 
-𝑃
-(
-𝑥
-,
-𝑦
-,
-𝑧
-)
-P(x,y,z) pe cele două plane. Aceasta se face prin păstrarea coordonatelor 
-(
-𝑥
-,
-𝑦
-)
-(x,y) și setarea lui 
-𝑧
-z la valoarea corespunzătoare planului:
 
-Pe planul superior (
-𝑧
-=
-1
-z=1): 
-𝑃
-+
-(
-𝑥
-,
-𝑦
-,
-1
-)
-P 
-+
- (x,y,1)
-Pe planul inferior (
-𝑧
-=
-−
-1
-z=−1): 
-𝑃
-−
-(
-𝑥
-,
-𝑦
-,
-−
-1
-)
-P 
-−
- (x,y,−1)
-Apoi putem măsura distanțele dintre 
-𝑃
-(
-𝑥
-,
-𝑦
-,
-𝑧
-)
-P(x,y,z) și aceste proiecții:
+Considerăm proiecția ortogonală a lui P(x,y,z) pe cele două plane. 
 
-𝑑
-+
-=
-∣
-𝑧
-−
-1
-∣
-d 
-+
- =∣z−1∣
-𝑑
-−
-=
-∣
-𝑧
-+
-1
-∣
-d 
-−
- =∣z+1∣
+Aceasta se face prin păstrarea coordonatelor (𝑥,𝑦) și setarea lui z la valoarea corespunzătoare planului:
+
+Pe planul superior (z=1): 𝑃<sup>+</sup>(𝑥,𝑦,1)
+
+Pe planul inferior (z=-1): 𝑃<sup>-</sup>(𝑥,𝑦,-1)
+
+Apoi putem măsura distanțele dintre P(x,y,z) și aceste proiecții:
+
+d<sup>+</sup> =∣ z−1∣
+
+d<sup>−</sup> = ∣z+1∣
+
 3. Legătura cu colapsul instantaneu
+
 Dacă asociem starea cuantică a unui qubit cu un punct de pe sfera Bloch, atunci măsurarea determină un colaps instantaneu către una dintre cele două baze ortonormale 
 ∣
 0
