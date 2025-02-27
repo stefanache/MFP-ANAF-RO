@@ -188,7 +188,7 @@ Cum se aseamănă cu triangulația?
 
  - 2.Faci mai multe măsurători pe copii ale aceleiași stări cuantice.
 
- - 3.Reconstruiești poziția pe *sfera **Bloch** din probabilitățile rezultate.
+ - 3.Reconstruiești poziția pe *sfera **Bloch*** din probabilitățile rezultate.
 
 
 Diferențe față de triangulația clasică
