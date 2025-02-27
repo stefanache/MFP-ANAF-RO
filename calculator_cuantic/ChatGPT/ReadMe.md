@@ -509,15 +509,18 @@ Vrei să îți arăt un cod Qiskit care măsoară un qubit în mai multe baze? �
 
 **You** said:
 
-            cum scriu cos(θ/2)∣0⟩ matriceal sau tensorial?
+Cum scriu cos(θ/2)∣0⟩ matriceal sau tensorial?
 
 **ChatGPT** said:
 
-Bună întrebare! Hai să scriem starea 
+Bună întrebare! 
+
+Hai să scriem starea 
 
 ∣ψ⟩=cos(θ/2)∣0⟩+e<sup>iϕ</sup>sin(θ/2)∣1⟩ 
 
 în formă matriceală și tensorială.
+
 
 1. Formă matriceală (vector coloană)
 
@@ -531,15 +534,15 @@ Astfel, starea generală a unui qubit este:
 
 ∣ψ⟩=cos(θ/2)∣0⟩+e<sup>iϕ</sup>sin(θ/2)∣1⟩
 
-
-          cos(θ/2)
-∣ψ⟩=[                    ]
+      cos(θ/2)
+∣ψ⟩=[          ]
     e<sup>iϕ</sup>sin(θ/2)
 ​
 
 Aceasta este forma vectorială a unui qubit.
 
 2. Formă tensorială
+
 Dacă avem mai mulți qubiți, folosim produsul tensorial (
 ⊗
 ⊗).
