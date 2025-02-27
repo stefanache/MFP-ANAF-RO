@@ -543,7 +543,7 @@ Dacă avem mai mulți qubiți, folosim produsul tensorial (⊗).
 
 De exemplu, pentru doi qubiți:
 
-∣ψ⟩ = (cos(θ/2)∣0⟩ + e<sup>iϕ</sup>sin(θ/2)∣1⟩) ⊗ ∣0⟩ = cos(θ/2)∣00⟩ + e<sup>iϕ<sup>sin(θ/2)∣10⟩
+∣ψ⟩ = (cos(θ/2)∣0⟩ + e<sup>iϕ</sup>sin(θ/2)∣1⟩) ⊗ ∣0⟩ = cos(θ/2)∣00⟩ + e<sup>iϕ</sup>sin(θ/2)∣10⟩
 
 Matriceal, scriem baza computatională(formata din 2 vectori coloana/linie-transpusi) pentru **2** qubiți:
 
@@ -551,7 +551,7 @@ Matriceal, scriem baza computatională(formata din 2 vectori coloana/linie-trans
   
 ​Deci starea qubitului este:
 
-∣𝜓⟩ = cos(𝜃/2)[1 0 0 0]<sup>τ</sup> + e<sup>iϕ<sup>sin(θ/2)[0 0 1 0]<sup>τ</sup>
+∣𝜓⟩ = cos(𝜃/2)[1 0 0 0]<sup>τ</sup> + e<sup>iϕ</sup>sin(θ/2)[0 0 1 0]<sup>τ</sup>
 
 Pentru mai mulți qubiți, se aplică același principiu folosind produsul tensorial între stările individuale.
 
