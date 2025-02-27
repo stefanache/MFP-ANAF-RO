@@ -1485,75 +1485,33 @@ Așadar, starea qubitului devine o superpoziție uniformă discretă.
    - Devierea standard σ, care măsoară lățimea clopotului.
      
  - Funcția de densitate a distribuției normale este dată de formula:
-𝑓
-(
-𝑥
-)
-=
-1
-𝜎
-2
-𝜋
-exp
-⁡
-(
-−
-(
-𝑥
-−
-𝜇
-)
-2
-2
-𝜎
-2
-)
-f(x)= 
-σ 
-2π
-​
- 
-1
-​
- exp(− 
-2σ 
-2
- 
-(x−μ) 
-2
- 
-​
- )
- 
-Aici, 
-𝑥
-x poate lua orice valoare reală, iar forma curbei este un clopot simetric în jurul valorii medii 
-𝜇
-μ.
+
+f(x) = 1 / (𝜎 sqrt(2𝜋)) exp(-(x−μ)<sup>2</sup> / (2𝜎<sup>2</sup>))
+
+Aici, x poate lua orice valoare reală, iar forma curbei este un clopot simetric în jurul valorii medii μ.
+
 Diferențele esențiale:
-Poarta Hadamard produce o distribuție uniformă discretă între două stări, în timp ce distribuția normală este o distribuție continuă folosită pentru a descrie variabilele aleatoare care pot lua valori dintr-un interval continuu.
 
-Poarta Hadamard aplicată unui qubit transformă starea sa într-o superpoziție echilibrată între două stări discrete, iar rezultatul măsurării va fi fie 
-∣
-0
-⟩
-∣0⟩, fie 
-∣
-1
-⟩
-∣1⟩, cu probabilitate de 50% pentru fiecare.
+ - Poarta Hadamard produce o distribuție uniformă discretă între două stări, în timp ce distribuția normală este o distribuție continuă folosită pentru a descrie variabilele aleatoare care pot lua valori dintr-un interval continuu.
 
-În schimb, distribuția normală este utilizată pentru a modela variabile aleatoare continue, cum ar fi în statistica clasică, iar măsurarea unei variabile care urmează o distribuție normală va produce valori care pot fi aproape oricare pe o scală continuă.
+ - Poarta Hadamard aplicată unui qubit transformă starea sa într-o superpoziție echilibrată între două stări discrete, iar rezultatul măsurării va fi fie ∣0⟩, fie ∣1⟩, cu probabilitate de 50% pentru fiecare.
+
+ - În schimb, distribuția normală este utilizată pentru a modela variabile aleatoare continue, cum ar fi în statistica clasică, iar măsurarea unei variabile care urmează o distribuție normală va produce valori care pot fi aproape oricare pe o scală continuă.
 
 Concluzie:
-Poarta Hadamard nu generează o distribuție normală. În schimb, ea generează o distribuție uniformă discretă între stările posibile 
-∣0⟩ și  |1>
-∣1⟩, în timp ce distribuția normală este o distribuție continuă folosită pentru variabile aleatoare care pot lua valori pe un interval continuu.
 
-You said:
+Poarta Hadamard nu generează o distribuție normală. În schimb, ea generează o distribuție uniformă discretă între stările posibile ∣0⟩ și |1>, în timp ce distribuția normală este o distribuție continuă folosită pentru variabile aleatoare care pot lua valori pe un interval continuu.
+
+<hr/>
+
+**You** said:
 Hadamard=Poisson?
-ChatGPT said:
-Nu, poarta Hadamard nu este echivalentă cu distribuția Poisson. Iată o clarificare a ambelor concepte:
+
+**ChatGPT** said:
+
+Nu, poarta Hadamard nu este echivalentă cu distribuția Poisson. 
+
+Iată o clarificare a ambelor concepte:
 
 1. Poarta Hadamard:
 Poarta Hadamard este o poartă cuantică folosită pentru a crea o superpoziție echilibrată între două stări de bază ale unui qubit. De exemplu, atunci când poarta Hadamard este aplicată unui qubit în starea 
