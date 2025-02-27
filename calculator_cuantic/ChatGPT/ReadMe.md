@@ -1237,133 +1237,72 @@ Caracteristicile distribuției binomiale:
  - Funcția de masă a probabilității:
    Formula de probabilitate pentru distribuția binomială este dată de:
 
-P(X=k)=(n k)<sup></sup>p<sup>k</sup>(1−p)<sup>n-k</sup>
+P(X=k)=(n k)<sup>τ</sup>p<sup>k</sup>(1−p)<sup>n-k</sup>
 
-unde 
-(
-𝑛
-𝑘
-)
-( 
-k
-n
-​
- ) este coeficientul binomial (numărul de moduri în care se pot alege 
-𝑘
-k succesuri din 
-𝑛
-n experimente), iar 
-𝑘
-k este numărul de succesuri dorite, iar 
-𝑝
-p este probabilitatea de succes într-un singur experiment.
+unde (n k)<sup>τ</sup> este coeficientul binomial (numărul de moduri în care se pot alege k succesuri din n experimente), iar 𝑘 este numărul de succesuri dorite, iar p este probabilitatea de succes într-un singur experiment.
+
 Exemple:
-Dacă aruncăm un zar de 6 fețe de 10 ori, distribuția binomială ar descrie probabilitatea de a obține un anumit număr de „1”-uri în cele 10 aruncări.
-Dacă aruncăm o monedă de 
-𝑛
-n ori, distribuția binomială poate fi utilizată pentru a modela numărul de „capete” (succesuri) într-o serie de 
-𝑛
-n aruncări.
+
+ - Dacă aruncăm un zar de 6 fețe de 10 ori, distribuția binomială ar descrie probabilitatea de a obține un anumit număr de „1”-uri în cele 10 aruncări.
+ - Dacă aruncăm o monedă de n ori, distribuția binomială poate fi utilizată pentru a modela numărul de „capete” (succesuri) într-o serie de n aruncări.
+
 Concluzie:
+
 Distribuția binomială este o distribuție probabilistică discretă, deoarece ea atribuie probabilități pentru numărul de succesuri într-un număr finit de experimente (toate rezultatele fiind numere întregi).
 
-You said:
+<hr/>
+
+**You** said:
+
 deci Hadamard este binomiala discreta?
-ChatGPT said:
+
+**ChatGPT** said:
 Nu, poarta Hadamard nu este o distribuție binomială discretă, deși efectul său poate produce un rezultat cu probabilități discrete.
 
 Diferența principală:
-Distribuția binomială discretă modelează numărul de succesuri într-o serie de 
-𝑛
-n experimente (unde fiecare experiment are două rezultate posibile: succes sau eșec). Aceasta este folosită atunci când există un număr fix de evenimente și se dorește să se calculeze probabilitatea de a obține un anumit număr de succesuri.
 
-Poarta Hadamard (H) aplicată unui singur qubit generează o superpoziție a stărilor 
-∣
-0
-⟩
-∣0⟩ și 
-∣
-1
-⟩
-∣1⟩, cu probabilități egale (50%) pentru fiecare stare, dar aceasta nu implică un număr fix de experimente sau succesuri, ci doar o distribuție uniformă discretă între cele două stări posibile. În esență, poarta Hadamard nu contează succesuri într-o serie de experimente, ci creează o superpoziție echilibrată între două stări posibile, fiecare având probabilitatea de 50%.
+ - Distribuția binomială discretă modelează numărul de succesuri într-o serie de n experimente (unde fiecare experiment are două rezultate posibile: succes sau eșec). 
+
+Aceasta este folosită atunci când există un număr fix de evenimente și se dorește să se calculeze probabilitatea de a obține un anumit număr de succesuri.
+
+ - Poarta Hadamard (H) aplicată unui singur qubit generează o superpoziție a stărilor ∣0⟩ și ∣1⟩, cu probabilități egale (50%) pentru fiecare stare, dar aceasta nu implică un număr fix de experimente sau succesuri, ci doar o distribuție uniformă discretă între cele două stări posibile.
+
+   În esență, poarta Hadamard nu contează succesuri într-o serie de experimente, ci creează o superpoziție echilibrată între două stări posibile, fiecare având probabilitatea de 50%.
 
 Explicație detaliată:
-Poarta Hadamard aplicată unui qubit într-o stare 
-∣
-0
-⟩
-∣0⟩ produce:
-𝐻
-∣
-0
-⟩
-=
-1
-2
-(
-∣
-0
-⟩
-+
-∣
-1
-⟩
-)
-H∣0⟩= 
-2
-​
- 
-1
-​
- (∣0⟩+∣1⟩)
-Asta înseamnă că atunci când măsurăm qubitul în baza standard (adică în baza 
-∣
-0
-⟩
-∣0⟩ și 
-∣
-1
-⟩
-∣1⟩), probabilitatea de a măsura 
-∣
-0
-⟩
-∣0⟩ sau 
-∣
-1
-⟩
-∣1⟩ este de 50%, dar acest proces nu se poate modela folosind o distribuție binomială, pentru că nu avem un număr fix de "succesuri" într-o serie de experimente.
-În contrast, distribuția binomială discretă ar aplica un model diferit, în care avem 
-𝑛
-n experimente și vrem să calculăm probabilitatea de a obține 
-𝑘
-k succesuri într-un total de 
-𝑛
-n încercări. De exemplu, dacă aruncăm o monedă de 10 ori, distribuția binomială ar spune ce probabilitate există să obținem exact 5 capete într-o serie de 10 aruncări.
+
+Poarta Hadamard aplicată unui qubit într-o stare ∣0⟩ produce:
+
+    H∣0⟩ = 1/sqrt(2)(∣0⟩+∣1⟩)
+
+Asta înseamnă că atunci când măsurăm qubitul în baza standard (adică în baza ∣0⟩ și ∣1⟩), probabilitatea de a măsura ∣0⟩ sau ∣1⟩ este de 50%, dar acest proces nu se poate modela folosind o distribuție binomială, pentru că nu avem un număr fix de "succesuri" într-o serie de experimente.
+
+În contrast, distribuția binomială discretă ar aplica un model diferit, în care avem n experimente și vrem să calculăm probabilitatea de a obține k succesuri într-un total de n încercări. 
+
+De exemplu, dacă aruncăm o monedă de 10 ori, distribuția binomială ar spune ce probabilitate există să obținem exact 5 capete într-o serie de 10 aruncări.
 
 Concluzie:
-Poarta Hadamard nu este o distribuție binomială discretă. Ea creează o distribuție uniformă discretă pe două stări posibile (
-∣
-0
-⟩
-∣0⟩ și 
-∣
-1
-⟩
-∣1⟩), iar măsurarea rezultatelor nu implică numărarea succesurilor într-o serie de experimente. Distribuția binomială, pe de altă parte, este legată de evenimente repetitive, cu două rezultate posibile, și calculează probabilitatea unui anumit număr de succesuri într-un set de încercări.
 
-You said:
+Poarta Hadamard nu este o distribuție binomială discretă. 
+
+Ea creează o distribuție uniformă discretă pe două stări posibile (∣0⟩ și ∣1⟩), iar măsurarea rezultatelor nu implică numărarea succesurilor într-o serie de experimente. 
+
+Distribuția binomială, pe de altă parte, este legată de evenimente repetitive, cu două rezultate posibile, și calculează probabilitatea unui anumit număr de succesuri într-un set de încercări.
+
+<hr/>
+
+
+**You** said:
+
 o distributie uniforma discreta inseamna ca sstarile sunt echiprobabile(deci uniforma) 
-ChatGPT said:
-Da, exact! O distribuție uniformă discretă înseamnă că toate stările posibile au probabilități egale de a apărea. În cazul unui qubit supus unei porți Hadamard, acesta este pus într-o superpoziție echilibrată între stările 
-∣
-0
-⟩
-∣0⟩ și 
-∣
-1
-⟩
-∣1⟩, fiecare având probabilitatea de 50% (adică 1/2).
+
+**ChatGPT** said:
+
+Da, exact! 
+
+O distribuție uniformă discretă înseamnă că toate stările posibile au probabilități egale de a apărea. 
+
+În cazul unui qubit supus unei porți Hadamard, acesta este pus într-o superpoziție echilibrată între stările ∣0⟩ și ∣1⟩, fiecare având probabilitatea de 50% (adică 1/2).
 
 Detaliu despre distribuția uniformă discretă:
 Dacă avem un set de 
