@@ -1585,114 +1585,24 @@ este un bernouli cu p=1/2?
 
 **ChatGPT** said:
 
-Da, într-un sens simplificat, aplicarea unei porți Hadamard asupra unui qubit într-o stare de bază (
-∣
-0
-⟩
-∣0⟩) creează o distribuție de probabilitate care poate fi descrisă ca o distribuție Bernoulli cu probabilitatea succesului 
-𝑝
-=
-1
-2
-p= 
-2
-1
-​
- .
+Da, într-un sens simplificat, aplicarea unei porți Hadamard asupra unui qubit într-o stare de bază (∣0⟩) creează o distribuție de probabilitate care poate fi descrisă ca o distribuție Bernoulli cu probabilitatea succesului 𝑝=1/2.
 
 Explicație:
-Distribuția Bernoulli este o distribuție de probabilitate discretă pentru o variabilă aleatoare care poate avea doar două rezultate posibile, de obicei denumite 0 și 1. Probabilitatea ca variabila aleatoare să fie 1 este 
-𝑝
-p, iar probabilitatea ca variabila aleatoare să fie 0 este 
-1
-−
-𝑝
-1−p.
 
-𝑃
-(
-𝑋
-=
-1
-)
-=
-𝑝
-și
-𝑃
-(
-𝑋
-=
-0
-)
-=
-1
-−
-𝑝
-P(X=1)=pșiP(X=0)=1−p
-În cazul poartei Hadamard aplicate unui qubit în starea 
-∣
-0
-⟩
-∣0⟩, rezultatul măsurării va fi 
-∣
-0
-⟩
-∣0⟩ cu probabilitatea 
-1
-2
-2
-1
-​
-  și 
-∣
-1
-⟩
-∣1⟩ cu probabilitatea 
-1
-2
-2
-1
-​
- . Aceasta corespunde unei distribuții Bernoulli cu 
-𝑝
-=
-1
-2
-p= 
-2
-1
-​
- , unde cele două stări posibile sunt echiprobabile.
+Distribuția Bernoulli este o distribuție de probabilitate discretă pentru o variabilă aleatoare care poate avea doar două rezultate posibile, de obicei denumite 0 și 1. 
+
+Probabilitatea ca variabila aleatoare să fie 1 este p, iar probabilitatea ca variabila aleatoare să fie 0 este 1-p.
+
+    P(X=1)=p și P(X=0)=1−p
+
+În cazul poartei Hadamard aplicate unui qubit în starea ∣0⟩, rezultatul măsurării va fi |0⟩ cu probabilitatea 1/2 și |1⟩ cu probabilitatea 1/2.
+
+Aceasta corespunde unei distribuții Bernoulli cu 𝑝 = 1/2, unde cele două stări posibile sunt echiprobabile.
 
 Deci, într-un context de măsurare a unui qubit într-o superpoziție de stări (creată prin aplicarea porții Hadamard), avem o distribuție Bernoulli cu:
-𝑃
-(
-𝑋
-=
-1
-)
-=
-1
-2
-,
-𝑃
-(
-𝑋
-=
-0
-)
-=
-1
-2
-P(X=1)= 
-2
-1
-​
- ,P(X=0)= 
-2
-1
-​
- 
+
+    P(X=1) = 1/2, P(X=0) = 1/2 
+
 Acest comportament reflectă faptul că rezultatul măsurătorii este la fel de probabil să fie 0 sau 1, având fiecare probabilitate de 1/2.
 
 <hr/>
