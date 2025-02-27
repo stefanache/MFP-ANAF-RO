@@ -252,7 +252,7 @@ Dacă ai acces la un simulator cuantic (ex. **Qiskit**), poți încerca următoa
  - 1.Pregătești mai mulți qubiți în aceeași stare.
  - 2.Aplici măsurători simultane în baze diferite (X, Y, Z).
  - 3.Folosești AI pentru a reconstrui poziția probabilă pe sfera Bloch.
- - 
+
 👉 Vrei să încercăm un cod de simulare pentru asta?
 
 <hr/>
