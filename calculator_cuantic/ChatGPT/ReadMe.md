@@ -1398,156 +1398,92 @@ Exemplu:
 
 Concluzie:
 
-Funcțiile de probabilitate discrete care sunt uniforme sunt cele în care toate valorile posibile au aceeași probabilitate. Câteva exemple sunt distribuțiile uniforme pe zaruri, monede, și selecții de elemente dintr-un set finit. De asemenea, poarta Hadamard aplicată unui qubit produce o distribuție uniformă discretă, în care stările 
-∣0⟩ și  |1>
-∣1⟩ au probabilități egale de 50%.
+Funcțiile de probabilitate discrete care sunt uniforme sunt cele în care toate valorile posibile au aceeași probabilitate. 
 
-You said:
+Câteva exemple sunt distribuțiile uniforme pe zaruri, monede, și selecții de elemente dintr-un set finit. 
+
+De asemenea, poarta Hadamard aplicată unui qubit produce o distribuție uniformă discretă, în care stările ∣0⟩ și |1> au probabilități egale de 50%.
+
+<hr/>
+
+**You** said:
+
 Hadamard = bernouli?
-ChatGPT said:
+
+**ChatGPT** said:
+
 Nu, Hadamard și Bernoulli sunt concepte diferite și nu sunt echivalente.
 
 1. Poarta Hadamard (H)
-Poarta Hadamard este un tip de poartă cuantică care aplică o transformare pe un qubit. Când este aplicată pe un qubit într-o stare de bază (de exemplu 
-∣
-0
-⟩
-∣0⟩), poarta Hadamard îl pune într-o superpoziție echilibrată.
 
-În cazul unui qubit inițial 
-∣
-0
-⟩
-∣0⟩, poarta Hadamard generează starea:
+ - Poarta Hadamard este un tip de poartă cuantică care aplică o transformare pe un qubit. 
+Când este aplicată pe un qubit într-o stare de bază (de exemplu ∣0⟩), poarta Hadamard îl pune într-o superpoziție echilibrată.
 
-𝐻
-∣
-0
-⟩
-=
-1
-2
-(
-∣
-0
-⟩
-+
-∣
-1
-⟩
-)
-H∣0⟩= 
-2
-​
- 
-1
-​
- (∣0⟩+∣1⟩)
-Aceasta înseamnă că, după aplicarea porții Hadamard, qubitul este într-o superpoziție a stărilor 
-∣0⟩ și  |1>
-∣1⟩, fiecare având probabilitatea 50% de a fi măsurată (adică o distribuție uniformă discretă).
+ - În cazul unui qubit inițial ∣0⟩, poarta Hadamard generează starea:
 
-În general, poarta Hadamard aplicată unui qubit creează o distribuție uniformă discretă pe cele două stări posibile.
+    H∣0⟩ = 1/sqrt(2)(∣0⟩+∣1⟩)
+
+Aceasta înseamnă că, după aplicarea porții Hadamard, qubitul este într-o superpoziție a stărilor ∣0⟩ și |1>, fiecare având probabilitatea 50% de a fi măsurată (adică o distribuție uniformă discretă).
+
+ - În general, poarta Hadamard aplicată unui qubit creează o distribuție uniformă discretă pe cele două stări posibile.
 
 2. Distribuția Bernoulli
-Distribuția Bernoulli este o distribuție de probabilitate pentru o variabilă aleatoare discretă care poate lua doar două valori, de obicei 0 sau 1. Este utilizată pentru a modela evenimentele binare (adică succes sau eșec).
-Funcția de probabilitate pentru o variabilă aleatoare Bernoulli cu parametru 
-𝑝
-p (probabilitatea de succes) este:
-𝑃
-(
-𝑋
-=
-1
-)
-=
-𝑝
-,
-𝑃
-(
-𝑋
-=
-0
-)
-=
-1
-−
-𝑝
-P(X=1)=p,P(X=0)=1−p
-De exemplu, în cazul unei aruncări de monedă, unde există două posibile rezultate (cap sau pajură), distribuția Bernoulli ar putea descrie probabilitatea de a obține cap (cu probabilitatea 
-𝑝
-=
-0.5
-p=0.5).
-Diferențe cheie:
-Poarta Hadamard aplicată unui qubit produce o superpoziție echilibrată a două stări (de exemplu, 
-∣0⟩ și  |1>
-∣1⟩), ceea ce creează o distribuție uniformă discretă pe două stări.
 
-Distribuția Bernoulli descrie o variabilă aleatoare care poate lua doar două valori discrete (0 și 1), dar nu presupune o superpoziție între aceste valori. De exemplu, în cazul unei aruncări de monedă, rezultatul poate fi 0 (pajură) sau 1 (cap), dar nu există un concept de superpoziție între cele două.
+ - Distribuția Bernoulli este o distribuție de probabilitate pentru o variabilă aleatoare discretă care poate lua doar două valori, de obicei 0 sau 1.
+
+Este utilizată pentru a modela evenimentele binare (adică succes sau eșec).
+
+ - Funcția de probabilitate pentru o variabilă aleatoare Bernoulli cu parametru p (probabilitatea de succes) este:
+
+    P(X=1)=p,P(X=0)=1−p
+
+ - De exemplu, în cazul unei aruncări de monedă, unde există două posibile rezultate (cap sau pajură), distribuția Bernoulli ar putea descrie probabilitatea de a obține cap (cu probabilitatea p=0.5).
+
+Diferențe cheie:
+
+ - Poarta Hadamard aplicată unui qubit produce o superpoziție echilibrată a două stări (de exemplu, ∣0⟩ și |1>), ceea ce creează o distribuție uniformă discretă pe două stări.
+
+ - Distribuția Bernoulli descrie o variabilă aleatoare care poate lua doar două valori discrete (0 și 1), dar nu presupune o superpoziție între aceste valori.
+
+   De exemplu, în cazul unei aruncări de monedă, rezultatul poate fi 0 (pajură) sau 1 (cap), dar nu există un concept de superpoziție între cele două.
 
 Concluzie:
-Poarta Hadamard și distribuția Bernoulli nu sunt aceleași. Poarta Hadamard produce o superpoziție echilibrată între stările 
-∣0⟩ și  |1>
-∣1⟩, iar distribuția Bernoulli descrie probabilitatea unui eveniment binar (cu succes sau eșec).
 
-You said:
-eHadamard=distributia normala(clopot gaus)
-ChatGPT said:
+Poarta Hadamard și distribuția Bernoulli nu sunt aceleași. Poarta Hadamard produce o superpoziție echilibrată între stările ∣0⟩ și |1>, iar distribuția Bernoulli descrie probabilitatea unui eveniment binar (cu succes sau eșec).
+
+<br/>
+
+**You** said:
+Hadamard=distributia normala(clopot Gauss)
+
+**ChatGPT** said:
+
 Nu, poarta Hadamard nu este echivalentă cu distribuția normală (Gauss).
 
 Să clarificăm conceptele:
 
 1. Poarta Hadamard
-Poarta Hadamard este o poartă cuantică care aplică o transformare liniară asupra unui qubit. Dacă aplici poarta Hadamard asupra unui qubit într-o stare de bază, cum ar fi 
-∣
-0
-⟩
-∣0⟩, obții o superpoziție a stărilor 
-∣0⟩ și  |1>
-∣1⟩, cu probabilități egale de a măsura fiecare stare (adică 50% pentru fiecare).
-Matematic, pentru un qubit inițial în starea 
-∣
-0
-⟩
-∣0⟩, poarta Hadamard aplicată dă:
-𝐻
-∣
-0
-⟩
-=
-1
-2
-(
-∣
-0
-⟩
-+
-∣
-1
-⟩
-)
-H∣0⟩= 
-2
-​
- 
-1
-​
- (∣0⟩+∣1⟩)
+2. 
+ - Poarta Hadamard este o poartă cuantică care aplică o transformare liniară asupra unui qubit. Dacă aplici poarta Hadamard asupra unui qubit într-o stare de bază, cum ar fi ∣0⟩, obții o superpoziție a stărilor 
+∣0⟩ și |1>, cu probabilități egale de a măsura fiecare stare (adică 50% pentru fiecare).
+
+ - Matematic, pentru un qubit inițial în starea ∣0⟩, poarta Hadamard aplicată dă:
+
+    H∣0⟩ = 1/sqrt(2)(∣0⟩+∣1⟩)
+
 Așadar, starea qubitului devine o superpoziție uniformă discretă.
-De asemenea, poarta Hadamard poate fi aplicată și pe un qubit în starea 
-∣
-1
-⟩
-∣1⟩, rezultând o altă superpoziție.
+
+ - De asemenea, poarta Hadamard poate fi aplicată și pe un qubit în starea ∣1⟩, rezultând o altă superpoziție.
+   
 2. Distribuția Normală (Gauss)
-Distribuția normală este o distribuție de probabilitate continuă caracterizată printr-o funcție de densitate în formă de clopot. Este definită de doi parametri:
-Media 
-𝜇
-μ, care indică centrul distribuției.
-Desvierea standard 
-𝜎
-σ, care măsoară lățimea clopotului.
+
+ - Distribuția normală este o distribuție de probabilitate continuă caracterizată printr-o funcție de densitate în formă de clopot.
+
+   Este definită de doi parametri:
+
+   - Media μ, care indică centrul distribuției.
+   - Devierea standard σ, care măsoară lățimea clopotului.
+     
 Funcția de densitate a distribuției normale este dată de formula:
 𝑓
 (
