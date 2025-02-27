@@ -452,7 +452,7 @@ Cele mai comune sunt:
 
 1. Baza computatională (**Z**-basis) 📏
 
- - Stările de bază sunt vectorii coloana = vectorii linie transpusi(τ):
+ - Stările de bază sunt vectorii coloana = vectorii linie transpusi(τ)=de fapt cele 2 stari [juxtapuse](https://dexonline.ro/intrare/juxtapus/69110)(mai degraba suprapuse), corespunzatoare celor 2 combinatii ale celor 2 stari/biti clasic[e/i] 0 si 1, reprezentand de fapt cele 2 stari-incerte cuantice(|0> si respectiv |1>):
 
 ∣0⟩ = [1 0]<sup>τ</sup> , |1> = [0 1]<sup>τ</sup>
 
