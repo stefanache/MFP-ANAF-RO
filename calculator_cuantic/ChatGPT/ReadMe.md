@@ -118,9 +118,9 @@ Exact, problema principală este că măsurătorile cuantice sunt distructive ș
 
 Cu alte cuvinte:
 
-Dacă măsori în baza Z, primești doar 0 sau 1, fără să știi unde era inițial starea pe sferă.
+ - **1**. Dacă măsori în baza Z, primești doar 0 sau 1, fără să știi unde era inițial starea pe sferă.
 
-După măsurare, qubitul colapsează într-o stare determinată, pierzând informația anterioară.
+ - **2**. După măsurare, qubitul colapsează într-o stare determinată, pierzând informația anterioară.
 
 Este totuși posibil să recuperezi poziția aproximativă?
 
@@ -128,35 +128,36 @@ Da, dar ai nevoie de multiple copii ale aceleiași stări (sau un qubit resetabi
 
 Ce ar putea funcționa?
 
-1. Tomografie cuantică – măsurători în baze multiple
+**1**. Tomografie cuantică – măsurători în baze multiple
 
 În loc să măsori doar în baza Z, poți măsura în mai multe baze:
 
-Măsori de mai multe ori în baza X (pentru 𝜙 ϕ)
+ - Măsori de mai multe ori în baza X (pentru 𝜙)
 
-Măsori în baza Y (pentru informație de fază)
+ - Măsori în baza Y (pentru informație de fază)
 
-Măsori în baza Z (pentru θ)
+ - Măsori în baza Z (pentru θ)
 
-Acest proces se numește tomografie cuantică și este folosit pentru a reconstrui poziția pe sfera Bloch.
+Acest proces se numește **tomografie cuantică** și este folosit pentru a reconstrui poziția pe sfera Bloch.
 
-2. Învățare automată cu măsurători limitate
+**2**. Învățare automată(**ML**) cu măsurători limitate
 
-Chiar și cu un număr mic de măsurători, ai putea antrena un model AI să prezică distribuția probabilă a stării pe baza unui set de date de antrenament.
+Chiar și cu un număr mic de măsurători, ai putea antrena un model **AI** să prezică distribuția probabilă a stării pe baza unui set de date de antrenament.
 
-3. Algoritmi cuantici variaționali (VQA)
+**3**. Algoritmi cuantici variaționali (**VQA***)
 
 Aceștia pot optimiza stările cuantice pentru a ghici locația cu ajutorul unor tehnici hibride AI-cuantic.
 
 Deci, ai nevoie de măsurători inteligente
 
-Dacă ai un singur qubit și îl măsori doar o singură dată, nu vei putea deduce nimic despre poziția sa pe sfera Bloch. 
+Dacă ai un singur qubit și îl măsori doar o singură dată, *nu vei putea deduce nimic despre poziția sa pe sfera **Bloch***. 
 
 Dar dacă ai acces la:
 
-Mai multe qubiți în aceeași stare
+ - Mai multe qubiți în aceeași stare
 
-Un mecanism de măsurare în baze diferite
+ - Un mecanism de măsurare în baze diferite
+
 ... atunci da, AI-ul te poate ajuta să îți îmbunătățești "ghicirea".
 
 Vrei să testezi ceva practic cu simulări?
@@ -175,23 +176,26 @@ Procesul de tomografie cuantică este într-un fel similar cu triangulația folo
 
 Cum se aseamănă cu triangulația?
 
-În triangulație clasică (ex. GPS):
+În triangulație clasică (ex. ***GPS***):
 
-Ai trei stații care măsoară distanțele față de un punct necunoscut.
-Intersecția acestor distanțe îți dă poziția aproximativă.
+ - 1. Ai trei stații care măsoară distanțele față de un punct necunoscut.
+
+ - 2. Intersecția acestor distanțe îți dă poziția aproximativă.
+
 În tomografia cuantică:
 
-Alegi mai multe axe de măsurare (ex. X,Y, Z).
+ - 1.Alegi mai multe axe de măsurare/baze (ex. X,Y, Z).
 
-Faci mai multe măsurători pe copii ale aceleiași stări cuantice.
+ - 2.Faci mai multe măsurători pe copii ale aceleiași stări cuantice.
 
-Reconstruiești poziția pe sfera Bloch din probabilitățile rezultate.
+ - 3.Reconstruiești poziția pe *sfera **Bloch** din probabilitățile rezultate.
+
 
 Diferențe față de triangulația clasică
 
-Triangulația clasică folosește distanțe fixe și deterministe.
+ - Triangulația clasică folosește distanțe fixe și deterministe.
 
-Tomografia cuantică lucrează cu probabilități, pentru că fiecare măsurare dă un rezultat binar (ex. 0 sau 1), iar informația despre θ,ϕ trebuie extrasă statistic.
+ - Tomografia cuantică lucrează cu probabilități, pentru că fiecare măsurare dă un rezultat binar (ex. 0 sau 1), iar informația despre θ,ϕ trebuie extrasă statistic.
 
 Un mod de a vizualiza acest lucru este că în loc să ai trei puncte fixe care triangulează un obiect, ai un set de măsurători succesive în diferite direcții, care, combinate, îți dau o hartă probabilistică a poziției stării cuantice.
 
@@ -201,9 +205,9 @@ Da!
 
 În loc să folosești metoda standard de tomografie cuantică (care necesită multe măsurători), AI ar putea optimiza secvența de măsurători astfel încât să determine poziția mai rapid și cu mai puține resurse.
 
-Reinforcement Learning (**RL**): AI poate alege adaptiv în ce bază să măsoare pentru a reduce incertitudinea cel mai repede.
+ - Reinforcement Learning (**RL**): AI poate alege adaptiv în ce bază să măsoare pentru a reduce incertitudinea cel mai repede.
 
-Bayesian Inference: Poate face o estimare probabilistică a poziției pe sferă după fiecare măsurătoare.
+ - Bayesian Inference: Poate face o estimare probabilistică a poziției pe sferă după fiecare măsurătoare.
 
 <ins>Concluzie</ins>
 
@@ -219,27 +223,36 @@ dar totusi cred ca masuratorile trebuiesc sincronizate si facute in aceleasi mom
 
 **ChatGPT** said:
 
-Da, ai dreptate! Dacă ai mai mulți qubiți în aceeași stare și vrei să faci măsurători în baze diferite pentru reconstrucția stării cuantice, trebuie să fie sincronizate în timp.
+Da, ai dreptate! 
+
+Dacă ai mai mulți qubiți în aceeași stare și vrei să faci măsurători în baze diferite pentru reconstrucția stării cuantice, trebuie să fie sincronizate în timp.
 
 De ce sincronizarea e importantă?
+
 Evoluția cuantică
 
-Dacă măsurătorile nu sunt făcute simultan, starea qubitului poate evolua în timp (de exemplu, prin decoerență sau interacțiuni cu mediul).
-Atunci nu vei măsura exact aceeași stare și vei introduce erori în reconstrucția poziției pe sfera Bloch.
+ - Dacă măsurătorile nu sunt făcute simultan, starea qubitului poate evolua în timp (de exemplu, prin decoerență sau interacțiuni cu mediul).
+ - Atunci nu vei măsura exact aceeași stare și vei introduce erori în reconstrucția poziției pe sfera Bloch.
+
 Colapsul Cuantic
 
-Dacă ai doar un singur qubit, după ce îl măsori într-o bază, colapsează și își pierde informația anterioară.
-Deci, nu poți măsura același qubit în baze diferite în momente diferite și să ai pretenția că măsori aceeași stare inițială.
+ - Dacă ai doar un singur qubit, după ce îl măsori într-o bază, colapsează și își pierde informația anterioară.
+ - Deci, nu poți măsura același qubit în baze diferite în momente diferite și să ai pretenția că măsori aceeași stare inițială.
+
+
 Necesitatea mai multor copii ale aceleași stări
 
-Ca să funcționeze tomografia cuantică, trebuie să creezi multe copii ale aceleași stări și să măsori fiecare independent, dar sincronizat în baze diferite.
-Acest lucru se face în experimente reale cu calculatoare cuantice unde generezi sute sau mii de qubiți identici și îi măsori în paralel.
-Cum s-ar putea face asta cu AI?
-Dacă ai acces la un simulator cuantic (ex. Qiskit), poți încerca următoarea strategie:
+ - Ca să funcționeze tomografia cuantică, trebuie să creezi multe copii ale aceleași stări și să măsori fiecare independent, dar sincronizat în baze diferite.
+ - Acest lucru se face în experimente reale cu calculatoare cuantice unde generezi sute sau mii de qubiți identici și îi măsori în paralel.
 
-Pregătești mai mulți qubiți în aceeași stare.
-Aplici măsurători simultane în baze diferite (X, Y, Z).
-Folosești AI pentru a reconstrui poziția probabilă pe sfera Bloch.
+Cum s-ar putea face asta cu AI?
+
+Dacă ai acces la un simulator cuantic (ex. **Qiskit**), poți încerca următoarea strategie:
+
+ - 1.Pregătești mai mulți qubiți în aceeași stare.
+ - 2.Aplici măsurători simultane în baze diferite (X, Y, Z).
+ - 3.Folosești AI pentru a reconstrui poziția probabilă pe sfera Bloch.
+ - 
 👉 Vrei să încercăm un cod de simulare pentru asta?
 
 <hr/>
@@ -253,19 +266,20 @@ Cum știi că un qubit este identic cu altul?
 
 Totuși, există câteva soluții:
 
-Prepari mai mulți qubiți folosind aceeași operație
+1.Prepari mai mulți qubiți folosind aceeași operație
 
-Dacă ai un circuit cuantic care aplică aceleași porți (gate-uri) asupra unor qubiți diferiți, stările rezultate vor fi identice (dacă nu există erori).
+ - Dacă ai un circuit cuantic care aplică aceleași porți (gate-uri) asupra unor qubiți diferiți, stările rezultate vor fi identice (dacă nu există erori).
 
-De exemplu, dacă vrei să creezi starea 
+ - De exemplu, dacă vrei să creezi starea 
 
 ∣ψ⟩=cos(θ/2)∣0⟩+e<sup>iϕ</sup> sin(θ/2)∣1⟩, 
 
 poți folosi aceleași porți Rx și Rz pe mai mulți qubiți.
 
-Folosești un stat preparat anterior (ex. |+⟩ sau Bell states)
+2.Folosești un stat preparat anterior (ex. |+⟩ sau Bell states)
 
-Dacă folosești stări speciale predefinite (cum ar fi ∣+⟩, ∣−⟩, ∣Φ+⟩), atunci știi că qubiții sunt identici, pentru că sunt generati printr-un proces determinist.
+ - Dacă folosești stări speciale predefinite (cum ar fi ∣+⟩, ∣−⟩, ∣Φ+⟩), atunci știi că qubiții sunt identici, pentru că sunt generati printr-un proces determinist.
+
 
 Cum îi faci să se sincronizeze perfect?
 
@@ -273,9 +287,9 @@ Sincronizarea perfectă este esențială pentru măsurători corecte.
 
 Într-un calculator cuantic real, sincronizarea se face cu:
 
-Un clock cuantic – Toate operațiile și măsurătorile sunt sincronizate cu un ceas de control, astfel încât fiecare măsurătoare se face în același moment.
+1.Un clock cuantic – Toate operațiile și măsurătorile sunt sincronizate cu un ceas de control, astfel încât fiecare măsurătoare se face în același moment.
 
-Execuție paralelă pe mai mulți qubiți – Dacă ai 3 qubiți și îi măsori simultan în baze diferite (X,Y,Z), sistemul cuantic face asta în același ciclu de execuție.
+2.Execuție paralelă pe mai mulți qubiți – Dacă ai 3 qubiți și îi măsori simultan în baze diferite (X,Y,Z), sistemul cuantic face asta în același ciclu de execuție.
 
 Într-un simulator cuantic (cum e Qiskit), sincronizarea e implicită, pentru că poți măsura mai mulți qubiți în același moment de timp.
 
@@ -283,11 +297,11 @@ Cum ar arăta un cod pentru asta în Qiskit?
 
 Dacă vrei să faci tomografie cuantică sincronizată, ai nevoie de:
 
-Un circuit care inițializează mai mulți qubiți în aceeași stare.
+1.Un circuit care inițializează mai mulți qubiți în aceeași stare.
 
-Măsurători simultane în baze diferite.
+2.Măsurători simultane în baze diferite.
 
-Colectarea statisticilor pentru a reconstrui poziția pe sfera Bloch.
+3.Colectarea statisticilor pentru a reconstrui poziția pe sfera Bloch.
 
 Vrei să îți scriu un cod care simulează asta?
 
@@ -299,34 +313,35 @@ te referi ai la starile lor finale in care colapseaza  adica ii numesti identici
 **ChatGPT** said:
 Exact! Ai atins un punct foarte subtil și profund: nu poți ști cu certitudine dacă doi qubiți sunt „identici” în sensul continuu al evoluției lor pe sfera Bloch, înainte de măsurare.
 
-De ce?
-No-Cloning Theorem 🚫
+De ce? 1,2,3
 
-Nu poți copia exact un qubit necunoscut. Deci, dacă ai un qubit ∣ψ⟩, nu poți crea o copie perfectă a lui pentru a-i verifica evoluția independent.
+1.No-Cloning Theorem 🚫
 
-Evoluția Dependentă de Mediu 🌀
+ - Nu poți copia exact un qubit necunoscut. Deci, dacă ai un qubit ∣ψ⟩, nu poți crea o copie perfectă a lui pentru a-i verifica evoluția independent.
 
-Chiar dacă pregătești mai mulți qubiți cu aceleași operații inițiale, interacțiunile cu mediul (decoerența, zgomotul) pot face ca evoluția fiecăruia să fie ușor diferită.
+2. Evoluția Dependentă de Mediu 🌀
+
+ - Chiar dacă pregătești mai mulți qubiți cu aceleași operații inițiale, interacțiunile cu mediul (decoerența, zgomotul) pot face ca evoluția fiecăruia să fie ușor diferită.
 
 De exemplu, dacă ai doi qubiți în aceeași stare inițială ∣ψ⟩, după un timp t, ei pot ajunge în stări puțin diferite datorită imperfecțiunilor experimentale sau interacțiunilor nedorite.
 
-Măsurarea Distruge Informația Continuă 🎲
+3.Măsurarea Distruge Informația Continuă 🎲
 
-Când măsori un qubit, acesta colapsează într-o stare discretă (ex.∣0⟩ sau ∣1⟩), deci pierzi informația continuă a evoluției sale pe sfera Bloch.
+ - Când măsori un qubit, acesta colapsează într-o stare discretă (ex.∣0⟩ sau ∣1⟩), deci pierzi informația continuă a evoluției sale pe sfera Bloch.
 
-Nu poți măsura „unde era” pe sferă înainte de colaps, ci doar probabilitățile de a găsi ∣0⟩ sau ∣1⟩.
+ - Nu poți măsura „unde era” pe sferă înainte de colaps, ci doar probabilitățile de a găsi ∣0⟩ sau ∣1⟩.
 
 Ce înseamnă asta pentru sincronizare?
 
 Dacă vrei să sincronizezi evoluția continuă a qubiților, ai două probleme majore:
 
-Nu poți verifica dacă doi qubiți sunt exact în aceeași stare înainte de măsurare.
+ - Nu poți verifica dacă doi qubiți sunt exact în aceeași stare înainte de măsurare.
 
-Orice măsurătoare îți oferă doar informații discrete despre qubit, nu despre poziția sa exactă pe sfera Bloch.
+ - Orice măsurătoare îți oferă doar informații discrete despre qubit, nu despre poziția sa exactă pe sfera Bloch.
 
 Există o soluție?
 
-Singura metodă reală de a sincroniza evoluția a doi qubiți este să îi încătușezi într-o stare cuantică comună, adică entanglement.
+Singura metodă reală de a <ins>sincroniza evoluția a doi qubiți</ins> este să îi încătușezi/cuplezi/incurci/sincronizezi într-o stare cuantică comună, adică entanglement.
 
 ✅ Dacă ai doi qubiți într-o stare Bell ( ∣Φ+⟩ = 1/sqrt(2)(∣00⟩+∣11⟩) ), atunci știi sigur că ei vor colapsa întotdeauna în aceleași stări.
 
@@ -338,11 +353,11 @@ Singura metodă reală de a sincroniza evoluția a doi qubiți este să îi înc
 
 Dacă ai AI care face măsurători succesive și încearcă să „ghicească” poziția pe sfera Bloch, ai nevoie de:
 
-Multe copii ale aceleiași stări (sau entanglement pentru corelații)
+ - Multe copii ale aceleiași stări (sau entanglement pentru corelații)
 
-O strategie de măsurare optimizată pentru a extrage cât mai multă informație
+- O strategie de măsurare optimizată pentru a extrage cât mai multă informație
 
-Un model de învățare care să ajusteze predicția în timp real (ex. un filtru Bayes sau un AI care decide unde să măsoare următorul qubit)
+ - Un model de învățare care să ajusteze predicția în timp real (ex. un filtru Bayes sau un AI care decide unde să măsoare următorul qubit)
 
 Deci, AI-ul te poate ajuta să optimizezi procesul, dar nu poate elimina incertitudinea fundamentală a colapsului cuantic și a imposibilității de a clona qubiți.
 
