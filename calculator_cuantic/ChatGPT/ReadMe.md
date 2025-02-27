@@ -56,7 +56,7 @@ Acest lucru ar implica inferență probabilistică și actualizare **Bayesiană*
 
  - Un qubit poate fi reprezentat printr-un punct pe *sfera **Bloch***, unde coordonatele sferice (θ,ϕ) descriu starea:
 
-     ∣𝜓⟩=cos(𝜃/2)∣0⟩+𝑒<sup>𝑖𝜙</sup>sin(⁡𝜃/2)∣1⟩ 
+∣𝜓⟩=cos(𝜃/2)∣0⟩+𝑒<sup>𝑖𝜙</sup>sin(⁡𝜃/2)∣1⟩ 
 
  - Măsurătorile succesive ale unui qubit colapsează starea pe o axă specifică (de exemplu, măsurarea în baza 𝑍 dă doar ∣0⟩ sau ∣1⟩, dar nu dă poziția exactă pe *sfera **Bloch***).
 
@@ -259,7 +259,7 @@ Dacă ai un circuit cuantic care aplică aceleași porți (gate-uri) asupra unor
 
 De exemplu, dacă vrei să creezi starea 
 
-        ∣ψ⟩=cos(θ/2)∣0⟩+e<sup>iϕ</sup> sin(θ/2)∣1⟩, 
+∣ψ⟩=cos(θ/2)∣0⟩+e<sup>iϕ</sup> sin(θ/2)∣1⟩, 
 
 poți folosi aceleași porți Rx și Rz pe mai mulți qubiți.
 
@@ -372,7 +372,7 @@ Măsurarea „distruge” informația continuă
 
 Înainte de măsurare, starea unui qubit este un punct continuum pe sfera Bloch:
 
-    ∣ψ⟩ = cos(θ/2)∣0⟩ + e<sup>iϕ</sup>sin(θ/2)∣1⟩
+∣ψ⟩ = cos(θ/2)∣0⟩ + e<sup>iϕ</sup>sin(θ/2)∣1⟩
 
 Dar când îl măsori, colapsează într-o stare discretă (∣0⟩ sau ∣1⟩), iar informația despre θ și ϕ se pierde!
 
