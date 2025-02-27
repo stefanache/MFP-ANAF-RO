@@ -3493,19 +3493,18 @@ deci **H** = **Bernoulli-Uniform**
 
 **ChatGPT** said:
 
-Da, în termeni simpli, putem spune că poarta **Hadamard(H)** aplicată unui qubit într-o stare de bază 
-∣0⟩ generează un comportament echivalent cu o distribuție **Bernoulli-Uniformă**.
+Da, în termeni simpli, putem spune că poarta **Hadamard(H)** aplicată unui qubit într-o stare de bază **∣0⟩** generează un comportament echivalent cu o distribuție **Bernoulli-Uniformă**.
 
 Explicație:
 
-Când aplici poarta Hadamard asupra unui qubit în starea **∣0⟩**, rezultatul este o superpoziție de stări **∣0⟩** și **∣1⟩**, fiecare cu probabilitatea de 
+Când aplici poarta **Hadamard(H)** asupra unui qubit în starea **∣0⟩**, rezultatul este o superpoziție de stări **∣0⟩** și **∣1⟩**, fiecare cu probabilitatea de 
 **1/2** :
 
     H∣0⟩= 1/sqrt(2)(∣0⟩+∣1⟩)
 
-Asta înseamnă că, după aplicarea porții **Hadamard(H)** și măsurarea qubitului, există **50%**(= **1/2**) șanse să obții starea **∣0⟩** și 50% șanse să obții starea **∣1⟩**.
+Asta înseamnă că, după aplicarea porții **Hadamard(H)** și măsurarea qubitului, există **50%**(= **1/2**) șanse să obții starea **∣0⟩** și **50%**(=**1/2**) șanse să obții starea **∣1⟩**.
 
-Aceste probabilități de **50%** sunt exact caracteristice/specifice unei distribuții **Bernoulli-Uniform** cu **𝑝 = 1/2**, unde variabila aleatoare poate lua doar două valori (0 și 1) și ambele au aceeași probabilitate de a apărea.
+Aceste probabilități de **50%** sunt exact caracteristice/specifice unei distribuții **Bernoulli-Uniform** cu **𝑝 = 1/2**, unde variabila aleatoare poate lua doar două valori (**0** și **1**) și ambele au aceeași probabilitate de a apărea(**50%** = **1/2**).
 
 Deci, într-un mod simplificat, poarta **Hadamard(H)** poate fi considerată echivalentă cu o distribuție **Bernoulli-Uniform** cu **𝑝=1/2**, deoarece rezultatele măsurătorii sunt distribuite uniform între cele două stări posibile.
 
