@@ -1228,53 +1228,17 @@ Ea descrie numărul de succesuri într-o serie de n experimente independente, fi
 p în fiecare experiment.
 
 Caracteristicile distribuției binomiale:
-Variabila aleatoare: Numărul de succesuri într-un număr fix de experimente, 
-𝑋
-∼
-𝐵
-𝑖
-𝑛
-(
-𝑛
-,
-𝑝
-)
-X∼Bin(n,p), unde:
-𝑛
-n este numărul de experimente (sau încercări).
-𝑝
-p este probabilitatea de succes într-un singur experiment.
-Funcția de masă a probabilității: Formula de probabilitate pentru distribuția binomială este dată de:
-𝑃
-(
-𝑋
-=
-𝑘
-)
-=
-(
-𝑛
-𝑘
-)
-𝑝
-𝑘
-(
-1
-−
-𝑝
-)
-𝑛
-−
-𝑘
-P(X=k)=( 
-k
-n
-​
- )p 
-k
- (1−p) 
-n−k
- 
+
+ - Variabila aleatoare:
+   Numărul de succesuri într-un număr fix de experimente, X∼Bin(n,p), unde:
+  - n este numărul de experimente (sau încercări).
+  - p este probabilitatea de succes într-un singur experiment.
+
+ - Funcția de masă a probabilității:
+   Formula de probabilitate pentru distribuția binomială este dată de:
+
+P(X=k)=(n k)<sup></sup>p<sup>k</sup>(1−p)<sup>n-k</sup>
+
 unde 
 (
 𝑛
