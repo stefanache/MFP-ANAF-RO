@@ -3569,112 +3569,59 @@ p=
 ​
  , unde variabila aleatoare poate lua doar două valori (0 și 1) și ambele au aceeași probabilitate de a apărea.
 
-Deci, într-un mod simplificat, poarta Hadamard poate fi considerată echivalentă cu o distribuție Bernoulli uniformă cu 
-𝑝
-=
-1
-2
+Deci, într-un mod simplificat, poarta Hadamard poate fi considerată echivalentă cu o distribuție **Bernoulli-Uniform** cu 
+
+𝑝=12
 p= 
 2
 1
 ​
  , deoarece rezultatele măsurătorii sunt distribuite uniform între cele două stări posibile.
 
-You said:
-putem spune ca o poarta H se comporta ca/poate fi simulat ca/inlocuit de un  generator Bernouli uniform a carui seminte=date initiale de intrare sunt cei 2 quibiti
-ChatGPT said:
-Da, putem spune că poarta Hadamard (H) se comportă într-un mod similar cu un generator Bernoulli uniform, dar cu câteva clarificări importante legate de natura intrării și ieșirii:
+<hr/>
 
-Comportamentul Poartei Hadamard:
-Poarta Hadamard aplicată asupra unui qubit în starea 
-∣
-0
-⟩
-∣0⟩ (sau 
-∣
-1
-⟩
-∣1⟩) generează o superpoziție cu amplitudini egale pentru cele două stări 
-∣
-0
-⟩
-∣0⟩ și 
-∣
-1
-⟩
-∣1⟩, iar măsurarea acestui qubit va da un rezultat aleatoriu, cu probabilități egale de 
-1
-2
-2
-1
-​
-  pentru fiecare stare.
+**You** said:
+putem spune ca o poarta H se comporta ca/poate fi simulat-ca/inlocuit-de un  generator **Bernoulli-Uniform** a carui seminte=date initiale de intrare sunt cei 2 quibiti
 
-De exemplu, pentru 
-∣
-0
-⟩
-∣0⟩, aplicarea poartei Hadamard produce:
+**ChatGP**T said:
+Da, putem spune că poarta **Hadamard(H)** se comportă într-un mod similar cu un generator **Bernoulli-Uniform**, dar cu câteva clarificări importante legate de natura intrării și ieșirii:
 
-𝐻
-∣
-0
-⟩
-=
-1
-2
-(
-∣
-0
-⟩
-+
-∣
-1
-⟩
-)
-H∣0⟩= 
-2
-​
+<br/>Comportamentul **Hadamard(H)**:
+
+Poarta **Hadamard(H)** aplicată asupra unui qubit în starea **∣0⟩** (sau **∣1⟩**) generează o superpoziție cu amplitudini egale pentru cele două stări 
+**∣0⟩** și **∣1⟩**, iar măsurarea acestui qubit va da un rezultat aleatoriu, cu probabilități egale de **1/2** pentru fiecare stare.
+
+De exemplu, pentru **∣0⟩**, aplicarea poartei **Hadamard(H)** produce:  
+
+        𝐻∣0⟩=1/sqrt(2)(∣0⟩+∣1⟩)
+
  
-1
-​
- (∣0⟩+∣1⟩)
-Dacă măsurăm acest qubit, rezultatul va fi ∣0⟩ sau ∣1⟩ cu o probabilitate de 
-1
-2
-2
-1
-​
-  fiecare, ceea ce se aliniază cu comportamentul unei distribuții Bernoulli uniform.
+Dacă măsurăm acest qubit, rezultatul va fi **∣0⟩** sau **∣1⟩** cu o probabilitate de **1/2**  fiecare, ceea ce se aliniază cu comportamentul unei distribuții**Bernoulli-Uniform**.
 
-Generator Bernoulli Uniform:
-Un generator Bernoulli uniform este un dispozitiv sau algoritm care produce valori binare (0 sau 1) cu probabilități egale, adică cu probabilitatea 
-1
-2
-2
-1
-​
-  pentru fiecare valoare.
+<br/>Generator **Bernoulli-Uniform**(aruncarea cu banul: cap sau pajura):
 
-Echivalența între H și Generatorul Bernoulli Uniform:
+Un generator **Bernoulli-Uniform** este un dispozitiv sau algoritm care produce valori binare (**0** sau **1**) cu probabilități egale, adică cu probabilitatea de **1/2**
+ pentru fiecare valoare.
 
-Poarta Hadamard poate fi simulată, în mod teoretic, ca un generator Bernoulli uniform cu seminte date de starea inițială a qubitului. 
+Echivalența între **Hadamard(H)** și Generatorul **Bernoulli-Uniform**:
+
+Poarta **Hadamard(H)** poate fi simulată(dpdv a dependentei functionale deci a functiei de evolutie/transfer: y=H(x) dar unde x,y sunt intrari incerte=numere imaginare), în mod teoretic, ca un generator **Bernoulli-Uniform** cu seminte date de starea inițială a qubitului. 
 
 De exemplu:
 
-Dacă aplici poarta Hadamard pe un qubit în starea ∣0⟩, poți gândi procesul ca pe un generator de numere aleatoare binare (0 sau 1), având probabilități egale pentru ambele valori.
+Dacă aplici poarta **Hadamard(H)** pe un qubit în starea ∣0⟩, poți gândi procesul ca pe un generator de numere aleatoare binare (0 sau 1), având probabilități egale pentru ambele valori.
 
-Semințele (sau datele inițiale de intrare) în acest caz sunt stările qubitilor pe care aplici poarta Hadamard. 
+Semințele (sau datele inițiale de intrare) în acest caz sunt stările qubitilor pe care aplici poarta **Hadamard(H)**. 
 
-Stările inițiale, ∣0⟩ sau ∣1⟩, sunt importante pentru determinarea rezultatului final după aplicarea porții Hadamard.
+Stările inițiale, **∣0⟩** sau **∣1⟩**, sunt importante pentru determinarea rezultatului final după aplicarea porții **Hadamard(H)**.
 
 <hr/>
 
 <ins>Concluzie</ins>:
 
-Poarta Hadamard poate fi privită ca o operație care, aplicată unui qubit într-o stare de bază, creează un generator Bernoulli uniform (adică unul care generează 0 sau 1 cu probabilități egale). 
+Poarta **Hadamard(H)** poate fi privită ca o operație care, aplicată unui qubit într-o stare de bază, creează un generator **Bernoulli-Uniform** (adică unul care generează **0** sau **1** cu probabilități egale: **p = 1/2 = 50%**). 
 
-Aceasta poate fi considerată echivalentă cu un astfel de generator în contextul simulării aleatorizării într-un sistem cuantic, având ca intrare starea qubitului și ca ieșire un rezultat aleatoriu între cele două stări posibile, ∣0⟩ și ∣1⟩, cu o probabilitate de 50%.
+Aceasta poate fi considerată echivalentă cu un astfel de generator în contextul simulării aleatorizării într-un sistem cuantic, având ca intrare starea qubitului și ca ieșire un rezultat aleatoriu între cele două stări posibile, **∣0⟩** și **∣1⟩**, cu o probabilitate de **50%**.
 
 Messages beyond this point are only visible to you
 
