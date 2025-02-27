@@ -3596,7 +3596,7 @@ De exemplu, pentru **∣0⟩**, aplicarea poartei **Hadamard(H)** produce:
         𝐻∣0⟩=1/sqrt(2)(∣0⟩+∣1⟩)
 
  
-Dacă măsurăm acest qubit, rezultatul va fi **∣0⟩** sau **∣1⟩** cu o probabilitate de **1/2**  fiecare, ceea ce se aliniază cu comportamentul unei distribuții**Bernoulli-Uniform**.
+Dacă măsurăm acest qubit, rezultatul va fi **∣0⟩** sau **∣1⟩** cu o probabilitate de **1/2**  fiecare, ceea ce se aliniază cu comportamentul unei distribuții **Bernoulli-Uniform**.
 
 <br/>Generator **Bernoulli-Uniform**(aruncarea cu banul: cap sau pajura):
 
