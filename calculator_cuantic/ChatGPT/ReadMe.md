@@ -452,11 +452,9 @@ Cele mai comune sunt:
 
 1. Baza computatională (**Z**-basis) 📏
 
- - Stările de bază sunt:
- - 
-          1           0
-    ∣0⟩ = [ ] , |1> = [ ]
-          0           1
+ - Stările de bază sunt vectorii coloana = vectorii linie transpusi(τ):
+
+∣0⟩ = [1 0]<sup>τ</sup> , |1> = [0 1]<sup>τ</sup>
 
  - Măsurarea în această bază îți spune dacă qubitul este în starea |0⟩ sau |1⟩.
 
@@ -526,17 +524,15 @@ Hai să scriem starea
 
 În baza computatională {∣0⟩,∣1⟩}, avem:
 
-          1           0
-    ∣0⟩ = [ ] , |1> = [ ]
-          0           1
+∣0⟩ = [1 0]<sup>T</sup> , |1> = [0 1]<sup>T</sup>
 
 Astfel, starea generală a unui qubit este:
 
 ∣ψ⟩=cos(θ/2)∣0⟩+e<sup>iϕ</sup>sin(θ/2)∣1⟩
 
-      cos(θ/2)
-∣ψ⟩=[          ]
-    e<sup>iϕ</sup>sin(θ/2)
+      
+∣ψ⟩=[cos(θ/2) e<sup>iϕ</sup>sin(θ/2)]<sup>τ</sup>
+    
 ​
 
 Aceasta este forma vectorială a unui qubit.
