@@ -539,250 +539,47 @@ Aceasta este forma vectorială a unui qubit.
 
 2. Formă tensorială
 
-Dacă avem mai mulți qubiți, folosim produsul tensorial (
-⊗
-⊗).
+Dacă avem mai mulți qubiți, folosim produsul tensorial (⊗).
 
 De exemplu, pentru doi qubiți:
 
-∣
-𝜓
-⟩
-=
-(
-cos
-⁡
-(
-𝜃
-/
-2
-)
-∣
-0
-⟩
-+
-𝑒
-𝑖
-𝜙
-sin
-⁡
-(
-𝜃
-/
-2
-)
-∣
-1
-⟩
-)
-⊗
-∣
-0
-⟩
-∣ψ⟩=(cos(θ/2)∣0⟩+e 
-iϕ
- sin(θ/2)∣1⟩)⊗∣0⟩
-=
-cos
-⁡
-(
-𝜃
-/
-2
-)
-∣
-00
-⟩
-+
-𝑒
-𝑖
-𝜙
-sin
-⁡
-(
-𝜃
-/
-2
-)
-∣
-10
-⟩
-=cos(θ/2)∣00⟩+e 
-iϕ
- sin(θ/2)∣10⟩
-Matriceal, scriem baza computatională pentru 2 qubiți:
+∣ψ⟩ = (cos(θ/2)∣0⟩ + e<sup>iϕ</sup>sin(θ/2)∣1⟩) ⊗ ∣0⟩ = cos(θ/2)∣00⟩ + e<sup>iϕ<sup>sin(θ/2)∣10⟩
 
-∣
-00
-⟩
-=
-[
-1
-0
-0
-0
-]
-,
-∣
-10
-⟩
-=
-[
-0
-0
-1
-0
-]
-∣00⟩= 
-​
-  
-1
-0
-0
-0
-​
-  
-​
- ,∣10⟩= 
-​
-  
-0
-0
-1
-0
-​
-  
-​
- 
-Deci starea qubitului este:
+Matriceal, scriem baza computatională(formata din 2 vectori coloana/linie-transpusi) pentru **2** qubiți:
 
-∣
-𝜓
-⟩
-=
-cos
-⁡
-(
-𝜃
-/
-2
-)
-[
-1
-0
-0
-0
-]
-+
-𝑒
-𝑖
-𝜙
-sin
-⁡
-(
-𝜃
-/
-2
-)
-[
-0
-0
-1
-0
-]
-∣ψ⟩=cos(θ/2) 
-​
+∣00⟩ = [1 0 0 0]<sup>τ</sup>, ∣10⟩ = [0 0 1 0]<sup>τ</sup>
   
-1
-0
-0
-0
-​
-  
-​
- +e 
-iϕ
- sin(θ/2) 
-​
-  
-0
-0
-1
-0
-​
-  
-​
- 
-∣
-𝜓
-⟩
-=
-[
-cos
-⁡
-(
-𝜃
-/
-2
-)
-0
-𝑒
-𝑖
-𝜙
-sin
-⁡
-(
-𝜃
-/
-2
-)
-0
-]
-∣ψ⟩= 
-​
-  
-cos(θ/2)
-0
-e 
-iϕ
- sin(θ/2)
-0
-​
-  
-​
- 
+​Deci starea qubitului este:
+
+∣𝜓⟩ = cos(𝜃/2)[1 0 0 0]<sup>τ</sup> + e<sup>iϕ<sup>sin(θ/2)[0 0 1 0]<sup>τ</sup>
+
 Pentru mai mulți qubiți, se aplică același principiu folosind produsul tensorial între stările individuale.
 
 Concluzie
-Forma matriceală: un qubit este un vector coloană 
-[
-𝛼
-𝛽
-]
-[ 
-α
-β
-​
- ].
-Forma tensorială: pentru mai mulți qubiți, folosim produsul tensorial pentru a obține un vector mai mare.
+
+ - Forma matriceală: un qubit este un vector coloană [𝛼 𝛽]<sup>τ</sup>
+ - Forma tensorială: pentru mai mulți qubiți, folosim produsul tensorial pentru a obține un vector mai mare.
+
 Dacă ai nevoie de un cod Python pentru a genera aceste reprezentări, spune-mi! 🚀
 
-You said:
+<hr/>
+
+**You** said:
+
 in cazul descris de tine tensorial adica pt sistemul format de cei 2 qubiti vorbesti de starea quibit-ului ....aici cred ca vrei sa spui ca qubitul-sistem este format din 2 quibiti clasici
-ChatGPT said:
-Ai dreptate! Când vorbim despre sistemul format din 2 qubiți, de fapt vorbim despre un sistem cu două stări cuantice individuale, iar aceștia formează un sistem cuantic de două componente, fiecare având propria stare. Așadar, sistemul cu 2 qubiți este o combinație a două qubiți, fiecare descris prin stări proprii de tip 
-∣
-0
-⟩
-∣0⟩ și 
-∣
-1
-⟩
-∣1⟩.
+
+**ChatGPT** said:
+
+Ai dreptate! 
+
+Când vorbim despre sistemul format din 2 qubiți, de fapt vorbim despre un sistem cu două stări cuantice individuale, iar aceștia formează un sistem cuantic de două componente, fiecare având propria stare. 
+
+Așadar, sistemul cu 2 qubiți este o combinație a două qubiți, fiecare descris prin stări proprii de tip ∣0⟩ și |1⟩.
 
 Când folosim produsul tensorial, nu facem altceva decât să combinăm stările celor doi qubiți, astfel încât sistemul cu doi qubiți va fi descris ca un vector care este produsul tensorial al stărilor individuale ale fiecărui qubit.
 
 Exemplu pentru doi qubiți:
+
 Dacă avem doi qubiți care sunt în stările:
 
 Primul qubit în stare 
