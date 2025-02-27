@@ -1306,271 +1306,98 @@ O distribuție uniformă discretă înseamnă că toate stările posibile au pro
 
 Detaliu despre distribuția uniformă discretă:
 
- - Dacă avem un set de 
-𝑁
-N stări posibile (în cazul nostru, 2 stări: ∣0⟩ și  |1>, atunci distribuția uniformă discretă atribuie fiecărei stări probabilitatea:
-𝑃
-(
-stare
-)
-=
-1
-𝑁
-P(stare)= 
-N
-1
-​
- 
+ - Dacă avem un set de N stări posibile (în cazul nostru, 2 stări: ∣0⟩ și |1>, atunci distribuția uniformă discretă atribuie fiecărei stări probabilitatea:
+
+    P(stare) =  1/N
+
  - În cazul unui qubit care trece prin poarta Hadamard:
-𝐻
-∣
-0
-⟩
-=
-1
-2
-(
-∣
-0
-⟩
-+
-∣
-1
-⟩
-)
-H∣0⟩= 
-2
-​
- 
-1
-​
- (∣0⟩+∣1⟩)
-Asta înseamnă că probabilitatea de a măsura 
-∣
-0
-⟩
-∣0⟩ sau 
-∣
-1
-⟩
-∣1⟩ este 50%, adică fiecare stare este echiprobabilă.
+
+    H∣0⟩ = 1/sqrt(2)(∣0⟩+∣1⟩)
+
+Asta înseamnă că probabilitatea de a măsura ∣0⟩ sau ∣1⟩ este 50%, adică fiecare stare este echiprobabilă.
 
 
 În concluzie:
-Poarta Hadamard creează o distribuție uniformă discretă pe cele două stări posibile (
-∣0⟩ și  |1>
-∣1⟩), iar acest lucru înseamnă că stările sunt echiprobabile. Distribuția uniformă discretă este un exemplu de distribuție în care toate stările posibile au aceeași probabilitate de a apărea, ceea ce se potrivește perfect cu efectul unei porți Hadamard.
 
-You said:
-atunci care sunt atunci functiile de probabilitate discrete care sunt uniforme?
-ChatGPT said:
-În teoria probabilităților, o distribuție uniformă discretă este o distribuție în care fiecare rezultat posibil are aceeași probabilitate de a apărea. Există mai multe exemple de funcții de probabilitate discrete care sunt uniforme, dar cele mai comune sunt:
+Poarta Hadamard creează o distribuție uniformă discretă pe cele două stări posibile (∣0⟩ și |1>), iar acest lucru înseamnă că stările sunt echiprobabile. 
+
+Distribuția uniformă discretă este un exemplu de distribuție în care toate stările posibile au aceeași probabilitate de a apărea, ceea ce se potrivește perfect cu efectul unei porți Hadamard.
+
+<hr/>
+
+**You** said:
+
+care sunt atunci functiile de probabilitate discrete care sunt uniforme?
+
+**ChatGPT** said:
+
+În teoria probabilităților, o distribuție uniformă discretă este o distribuție în care fiecare rezultat posibil are aceeași probabilitate de a apărea. 
+
+Există mai multe exemple de funcții de probabilitate discrete care sunt uniforme, dar cele mai comune sunt:
 
 1. Distribuția Uniformă Discretă
-Dacă avem un set finit de 
-𝑁
-N valori posibile, probabilitatea ca fiecare valoare să apară este aceeași și este dată de formula:
-𝑃
-(
-𝑥
-𝑖
-)
-=
-1
-𝑁
-P(x 
-i
-​
- )= 
-N
-1
-​
- 
-pentru 
-𝑖
-=
-1
-,
-2
-,
-…
-,
-𝑁
-i=1,2,…,N.
-De exemplu, dacă aruncăm un zar standard cu 6 fețe, distribuția probabilităților este uniformă și fiecare față are o probabilitate de 
-1
-6
-6
-1
-​
- .
+
+ - Dacă avem un set finit de N valori posibile, probabilitatea ca fiecare valoare să apară este aceeași și este dată de formula:
+
+P(x<sub>i</sub>) = 1/N 
+
+pentru 𝑖 = 1,2,…,N.
+
+ - De exemplu, dacă aruncăm un zar standard cu 6 fețe, distribuția probabilităților este uniformă și fiecare față are o probabilitate de 1/6.
+
 Exemplu:
 
-Aruncarea unui zar cu 6 fețe:
-𝑃
-(
-1
-)
-=
-𝑃
-(
-2
-)
-=
-𝑃
-(
-3
-)
-=
-𝑃
-(
-4
-)
-=
-𝑃
-(
-5
-)
-=
-𝑃
-(
-6
-)
-=
-1
-6
-P(1)=P(2)=P(3)=P(4)=P(5)=P(6)= 
-6
-1
-​
+ - Aruncarea unui zar cu 6 fețe:
+
+    P(1)=P(2)=P(3)=P(4)=P(5)=P(6) = 1/6 
  
 Aici, fiecare număr de la 1 la 6 are aceeași probabilitate de a apărea, deci distribuția este uniformă.
+
 2. Distribuția Uniformă pe Intervalul Discret (adică pe un set finit)
-Aceasta este o generalizare a distribuției uniforme discrete, unde distribuția este definită pe un set de 
-𝑁
-N valori discrete și este uniformă pe întregul set.
+
+ - Aceasta este o generalizare a distribuției uniforme discrete, unde distribuția este definită pe un set de N valori discrete și este uniformă pe întregul set.
+
 Exemplu:
 
-Dacă vrem să alegem un număr între 1 și 10, probabilitatea de a alege orice număr între aceste două limite este uniformă și va fi:
-𝑃
-(
-𝑥
-)
-=
-1
-10
-,
-pentru 
-𝑥
-=
-1
-,
-2
-,
-3
-,
-…
-,
-10.
-P(x)= 
-10
-1
-​
- ,pentru x=1,2,3,…,10.
-3. Distribuția Uniformă pe o Mulțime de Evenimente Discrete Fini
-În cazul unui set de evenimente discrete, cum ar fi aruncarea unei monede sau alegerea aleatorie a unui element dintr-un set finit, distribuția poate fi considerată uniformă.
+ - Dacă vrem să alegem un număr între 1 și 10, probabilitatea de a alege orice număr între aceste două limite este uniformă și va fi:
+
+    P(x) = 1/10, pentru x=1,2,3,…,10.
+
+3. Distribuția Uniformă pe o Mulțime de Evenimente Discrete Finite
+
+ - În cazul unui set de evenimente discrete, cum ar fi aruncarea unei monede sau alegerea aleatorie a unui element dintr-un set finit, distribuția poate fi considerată uniformă.
+
 Exemplu:
 
-Aruncarea unei monede echilibrate:
-𝑃
-(
-Cap
-)
-=
-𝑃
-(
-Pajur
-a
-˘
-)
-=
-1
-2
-P(Cap)=P(Pajur 
-a
-˘
- )= 
-2
-1
-​
- 
+ - Aruncarea unei monede echilibrate:
+
+    P(Cap)=P(Pajură) = 1/2 
+
 Aici, cele două evenimente (cap și pajură) au probabilități egale, deci distribuția este uniformă.
+
 4. Distribuția Uniformă pe Un Set de Elemente Discrete cu Probabilități Egale
-Atunci când avem un set de 
-𝑁
-N elemente discrete, fiecare având probabilitatea 
-1
-𝑁
-N
-1
-​
-  de a apărea, distribuția este uniformă.
+
+ - Atunci când avem un set de N elemente discrete, fiecare având probabilitatea 1/N de a apărea, distribuția este uniformă.
+
 Exemplu:
 
-Dacă selectăm aleatoriu o literă dintr-un set de 26 de litere (de exemplu, alfabetul englez), distribuția este uniformă:
-𝑃
-(
-A
-)
-=
-𝑃
-(
-B
-)
-=
-⋯
-=
-𝑃
-(
-Z
-)
-=
-1
-26
-P(A)=P(B)=⋯=P(Z)= 
-26
-1
+ - Dacă selectăm aleatoriu o literă dintr-un set de 26 de litere (de exemplu, alfabetul englez), distribuția este uniformă:
+
+    P(A) = P(B) = ⋯ = P(Z) = 1/26 
 ​
  
 5. Distribuția Uniformă pe Un Set Discret de Evenimente Cu Echiprobabilitate
-Dacă avem un set de evenimente disjuncte (fără suprapuneri) care sunt echiprobabile, distribuția va fi uniformă.
+
+ - Dacă avem un set de evenimente disjuncte (fără suprapuneri) care sunt echiprobabile, distribuția va fi uniformă.
+
 Exemplu:
 
-Alegerea aleatorie a unui număr între 1 și 100, cu valori discrete, poate avea o distribuție uniformă:
-𝑃
-(
-𝑥
-)
-=
-1
-100
-,
-pentru 
-𝑥
-=
-1
-,
-2
-,
-…
-,
-100.
-P(x)= 
-100
-1
-​
- ,pentru x=1,2,…,100.
+ - Alegerea aleatorie a unui număr între 1 și 100, cu valori discrete, poate avea o distribuție uniformă:
+
+    P(x) = 1/100, pentru x=1,2,…,100.
+
 Concluzie:
+
 Funcțiile de probabilitate discrete care sunt uniforme sunt cele în care toate valorile posibile au aceeași probabilitate. Câteva exemple sunt distribuțiile uniforme pe zaruri, monede, și selecții de elemente dintr-un set finit. De asemenea, poarta Hadamard aplicată unui qubit produce o distribuție uniformă discretă, în care stările 
 ∣0⟩ și  |1>
 ∣1⟩ au probabilități egale de 50%.
