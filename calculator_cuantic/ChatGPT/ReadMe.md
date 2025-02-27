@@ -1164,186 +1164,67 @@ Distribuția probabilității egale (distribuția uniformă))
 
 **ChatGPT** said:
 
-Poarta Hadamard (H) aplicată pe un qubit creează o superpoziție de stări, iar efectul său poate fi interpretat ca generarea unei distribuții uniforme între stările 
-∣
-0
-⟩
-∣0⟩ și 
-∣
-1
-⟩
-∣1⟩.
+Poarta Hadamard (H) aplicată pe un qubit creează o superpoziție de stări, iar efectul său poate fi interpretat ca generarea unei distribuții uniforme între stările ∣0⟩ și ∣1⟩.
 
 1. Distribuția asociată cu poarta Hadamard:
-Poarta Hadamard aplicată unui qubit în starea 
-∣
-0
-⟩
-∣0⟩ generează o superpoziție echilibrată de stări:
-𝐻
-∣
-0
-⟩
-=
-1
-2
-(
-∣
-0
-⟩
-+
-∣
-1
-⟩
-)
-H∣0⟩= 
-2
-​
- 
-1
-​
- (∣0⟩+∣1⟩)
-Asta înseamnă că, atunci când măsurăm qubitul în baza computatională (adică în baza 
-∣
-0
-⟩
-∣0⟩, 
-∣
-1
-⟩
-∣1⟩), probabilitatea de a obține 0 sau 1 este de 50%, adică:
-𝑃
-(
-0
-)
-=
-∣
-⟨
-0
-∣
-𝐻
-∣
-0
-⟩
-∣
-2
-=
-1
-2
-,
-𝑃
-(
-1
-)
-=
-∣
-⟨
-1
-∣
-𝐻
-∣
-0
-⟩
-∣
-2
-=
-1
-2
-P(0)=∣⟨0∣H∣0⟩∣ 
-2
- = 
-2
-1
-​
- ,P(1)=∣⟨1∣H∣0⟩∣ 
-2
- = 
-2
-1
-​
- 
-Acesta este un exemplu de distribuție uniformă discretă între cele două valori 
-∣
-0
-⟩
-∣0⟩ și 
-∣
-1
-⟩
-∣1⟩, fiecare având probabilitatea 0.5.
+
+ - Poarta Hadamard aplicată unui qubit în starea ∣0⟩ generează o superpoziție echilibrată de stări:
+
+    H∣0⟩ = 1/sqrt(2)(∣0⟩+∣1⟩)
+
+ - Asta înseamnă că, atunci când măsurăm qubitul în baza computatională (adică în baza ∣0⟩, ∣1⟩), probabilitatea de a obține 0 sau 1 este de 50%, adică:
+
+P(0) = ∣⟨0∣H∣0⟩∣<sup>2</sup> = 1/2, P(1) = ∣⟨1∣H∣0⟩∣<sup>2</sup> = 1/2
+
+ - Acesta este un exemplu de distribuție uniformă discretă între cele două valori ∣0⟩ și |1⟩, fiecare având probabilitatea 0.5.
+ - 
 2. Model probabilistic asociat:
+
 A. Distribuție uniformă discretă:
-Poarta Hadamard generează o distribuție uniformă discretă pentru cele două stări 
-∣
-0
-⟩
-∣0⟩ și 
-∣
-1
-⟩
-∣1⟩. Distribuția uniformă discretă este un model probabilistic în care toate valorile posibile au aceeași probabilitate. În cazul poartei Hadamard, fiecare dintre stările 
-∣
-0
-⟩
-∣0⟩ și 
-∣
-1
-⟩
-∣1⟩ are probabilitatea 0.5, ceea ce este caracteristic unei distribuții uniforme discrete.
+Poarta Hadamard generează o distribuție uniformă discretă pentru cele două stări ∣0⟩ și ∣1⟩.
+
+Distribuția uniformă discretă este un model probabilistic în care toate valorile posibile au aceeași probabilitate. 
+
+În cazul poartei Hadamard, fiecare dintre stările ∣0⟩ și ∣1⟩ are probabilitatea 0.5, ceea ce este caracteristic unei distribuții uniforme discrete.
 
 B. Distribuție uniformă continuă (în sens larg):
-Din punct de vedere continuu, poarta Hadamard poate fi comparată cu o distribuție uniformă pe intervalul 
-[
-0
-,
-2
-𝜋
-]
-[0,2π] în cazul în care vorbim despre un set mai larg de stări (nu doar 
-∣
-0
-⟩
-∣0⟩ și 
-∣
-1
-⟩
-∣1⟩, dar și alte stări de superpoziție). În acest caz, coeficientele de amplitudine ale stărilor în superpoziție (în termeni de unghiuri) pot fi distribuite uniform în intervale continue de valori (de exemplu, pe cercul unitate).
+
+Din punct de vedere continuu, poarta Hadamard poate fi comparată cu o distribuție uniformă pe intervalul [0,2π] în cazul în care 
+vorbim despre un set mai larg de stări (nu doar ∣0⟩ și ∣1⟩, dar și alte stări de superpoziție). 
+
+În acest caz, coeficientele de amplitudine ale stărilor în superpoziție (în termeni de unghiuri) pot fi distribuite uniform în intervale continue de valori (de exemplu, pe cercul unitate).
 
 3. Corelare cu modelele probabilistice clasice și cuantice:
-Discretă: În cazul unui qubit, poarta Hadamard implementează o distribuție uniformă discretă, iar probabilitatea de măsurare a fiecărei stări este echilibrată (50% pentru fiecare dintre 
-∣
-0
-⟩
-∣0⟩ și 
-∣
-1
-⟩
-∣1⟩).
 
-Continuă: Dacă ar trebui să extindem acest comportament la un model continuu, am putea discuta despre o distribuție uniformă într-un spațiu continuu, unde stările cuantice sunt descrise de un set continuu de amplitudini de probabilitate. Totuși, pentru un qubit (sau un număr finit de qubiți), rezultatul măsurătorii este discret, chiar dacă superpoziția inițială poate fi descrisă folosind un model continuu (în termeni de unghiuri pe cercul unitate).
+ - Discretă:
+
+   În cazul unui qubit, poarta Hadamard implementează o distribuție uniformă discretă, iar probabilitatea de măsurare a fiecărei stări este echilibrată
+   (50% pentru fiecare dintre ∣0⟩ și ∣1⟩).
+
+ - Continuă:
+ 
+   Dacă ar trebui să extindem acest comportament la un model continuu, am putea discuta despre o distribuție uniformă într-un spațiu continuu, unde stările cuantice sunt descrise de un set continuu de amplitudini de probabilitate.
+
+   Totuși, pentru un qubit (sau un număr finit de qubiți), rezultatul măsurătorii este discret, chiar dacă superpoziția inițială poate fi descrisă folosind un model continuu (în termeni de unghiuri pe cercul unitate).
 
 Concluzie:
-Poarta Hadamard aplicată unui qubit în starea 
-∣
-0
-⟩
-∣0⟩ creează o distribuție uniformă discretă de probabilități între stările 
-∣
-0
-⟩
-∣0⟩ și 
-∣
-1
-⟩
-∣1⟩, fiecare având o probabilitate de 50%. Într-un sens mai larg, dacă vorbim despre un sistem cu mai mulți qubiți sau o superpoziție mai complexă, am putea discuta și despre distribuții uniforme continue în cazul descrierii amplitudinilor de probabilitate.
 
-You said:
+Poarta Hadamard aplicată unui qubit în starea ∣0⟩ creează o distribuție uniformă discretă de probabilități între stările ∣0⟩ și ∣1⟩, 
+fiecare având o probabilitate de 50%. 
+
+Într-un sens mai larg, dacă vorbim despre un sistem cu mai mulți qubiți sau o superpoziție mai complexă, am putea discuta și despre distribuții uniforme continue în cazul descrierii amplitudinilor de probabilitate.
+
+<hr/>
+
+
+**You** said:
 este binomiala discreta?
-ChatGPT said:
-Da, distribuția binomială este o distribuție discretă. Ea descrie numărul de succesuri într-o serie de 
-𝑛
-n experimente independente, fiecare având două rezultate posibile (de obicei notate ca „succes” și „eșec”), cu o probabilitate constantă de succes 
-𝑝
+
+**ChatGPT** said:
+
+Da, distribuția binomială este o distribuție discretă. 
+
+Ea descrie numărul de succesuri într-o serie de n experimente independente, fiecare având două rezultate posibile (de obicei notate ca „succes” și „eșec”), cu o probabilitate constantă de succes 
 p în fiecare experiment.
 
 Caracteristicile distribuției binomiale:
