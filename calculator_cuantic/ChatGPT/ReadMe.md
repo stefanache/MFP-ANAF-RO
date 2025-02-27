@@ -3493,7 +3493,7 @@ deci **H** = **Bernoulli-Uniform**
 
 **ChatGPT** said:
 
-Da, în termeni simpli, putem spune că poarta **Hadamard(H)** aplicată unui qubit într-o stare de bază **∣0⟩** generează un comportament echivalent cu o distribuție **Bernoulli-Uniformă**.
+Da, în termeni simpli, putem spune că poarta **Hadamard(H)** aplicată unui qubit într-o stare de bază **∣0⟩** generează un comportament(=functie de transfer/de evolutie/de calcul/dependenta functionala) echivalent cu o distribuție **Bernoulli-Uniformă**(dar cu intrari-colabsabile/colapsate/stari-interne-ascunse/iesiri-colapsate **incerte**).
 
 Explicație:
 
