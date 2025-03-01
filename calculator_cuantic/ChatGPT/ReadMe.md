@@ -489,6 +489,7 @@ Dacă qubitul tău este în stare generală:
 🔹 Dacă măsori în baza Z, obții 0 cu probabilitatea cos<sup>2</sup>(θ/2) și 1 cu probabilitatea sin<sup>2</sup>(θ/2).
 
 🔹 Dacă măsori în baza X, obții ∣+⟩ sau ∣−⟩, ceea ce îți dă informație despre cosϕ.
+
 🔹 Dacă măsori în baza Y, afli sin𝜙.
 
 Prin combinarea mai multor măsurători în aceste baze, poți reconstrui poziția inițială a qubitului pe sfera Bloch.
