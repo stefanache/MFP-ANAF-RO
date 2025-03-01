@@ -874,11 +874,15 @@ Exact!
 
 Diferențele principale față de haosul clasic:
 <pre>
-Tip de sistem	    Funcția de transfer	 Variabilele de intrare	                                                                      Ieșirea
--------------       -------------------  -----------------------                                                                      --------
-- Haotic (clasic)	Deterministă	     Aproximativ cunoscute, dar sensibilitatea la condițiile inițiale face predicția dificilă	  Impredictibilă pe termen lung
-- Cuantic	        Nedeterministă       In/Nedeterministe/instabile                                                                  Fundamentale probabilistă
+Tip de sistem	    Funcția de transfer	 Variabilele de intrare	                      Ieșirea
+-------------       -------------------  -----------------------                      --------
+- Haotic (clasic)	Deterministă	     Aproximativ cunoscute, dar 	              Impredictibilă pe termen lung
+                                         sensibilitatea la condițiile inițiale face 
+                                         predicția dificilă
+    
+- Cuantic	        Nedeterministă       In/Nedeterministe/instabile                  Fundamentale probabilistă
                     (probabilistică)	 (nu pot fi măsurate exact fără colaps)
+
 </pre>
 
 De ce sistemul cuantic e fundamental impredictibil?
