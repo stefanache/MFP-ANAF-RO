@@ -1145,6 +1145,7 @@ Imaginați-vă că aveți un sistem cu 2 qubiți, și aplicați un **Hadamard** 
 <hr/>
 
 **You** said:
+
 daca poarta **H(Hadamard)** implementeaza o distributie uniforma a carui model probabilistic continuu sau discret i se portiveste(Distribuții de probabilitate)
 
 De la Wikipedia, enciclopedia liberă
@@ -1165,7 +1166,6 @@ Distribuția exponențială
 Distribuția Rayleigh
 Distribuția triunghiulară (Simpson)
 Distribuția probabilității egale (distribuția uniformă))
-
 
 **ChatGPT** said:
 
