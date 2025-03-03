@@ -56,4 +56,4 @@ Puteti citi despre [eTransport](https://www.portalcontabilitate.ro/structura-fis
 
 Iata [aici](https://github.com/alexandru-mohora-rm/eFactura), un produs ***PowerShell***, care transforma factura XML, din data curenta, in factura PDF(**xml**2**pdf**)
 
-**ScriBD** pastreaza o *prezentare* [***eFactura v.1.0***](https://www.scribd.com/document/615668832/PrezentareE-factura)(format **UBL**/***XML***; ultima actualizare ***13 septembrie 2021***) care sper ca este interesanta pt. dumnevoastra.
+**ScriBD** pastreaza o *prezentare* [***eFactura v.1.0***](https://www.scribd.com/document/615668832/PrezentareE-factura)(format **UBL 2.1**/***XML***; ultima actualizare ***13 septembrie 2021***) care sper ca este interesanta pt. dumnevoastra.
