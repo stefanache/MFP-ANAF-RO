@@ -147,4 +147,4 @@ Mai Trebuie spus insa si faptul ca aceste [produse-SW](https://github.com/gkamra
 
 Oricum [AI/ML/NLP-generative](https://www.koyeb.com/tutorials/using-langserve-to-build-rest-apis-for-langchain-applications)(a se vedea subiectul **RAG**) a provocat daca vreti o adevarata [AI](https://www.hpcdan.org/reeds_ruminations/information_technology/)-[revolutie](https://icml.cc/virtual/2023/events/poster) in mai toate [domeniile](https://www.blueprism.com/resources/blog/generative-ai-equity-research-langchain/) fie ele economice sau sociale.
 
-Daca doriti o scalare cu Ollama va recomand aceasta referinte: [Ollama-cloud](https://github.com/ollama-cloud/get-started)
+Daca doriti o scalare cu Ollama va recomand aceasta referinte: [Ollama-cloud](https://github.com/ollama-cloud/get-started) or [GCP-Gemma2(LLM) with Ollama](https://cloud.google.com/run/docs/tutorials/gpu-gemma2-with-ollama)
