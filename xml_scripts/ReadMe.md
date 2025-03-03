@@ -55,3 +55,5 @@ La fel de interesant(in special pe zona de manipulare date) este si acest ghid d
 Puteti citi despre [eTransport](https://www.portalcontabilitate.ro/structura-fisierului-xml-utilizat-in-sistemul-ro-e-transport-bunuri-cu-risc-fiscal-ridicat-153008.htm) si despre fisierele [xml](https://etransport.mfinante.gov.ro/informatii-tehnice) implicate pe site-ul de specialitate al ***ANAF***-ului; Fisierele xml furnizate ca exemplu pot fi studiate si se afla in fartea finala a ***Informatiilor tehnice eTransport***;
 
 Iata [aici](https://github.com/alexandru-mohora-rm/eFactura), un produs ***PowerShell***, care transforma factura XML, din data curenta, in factura PDF(**xml**2**pdf**)
+
+**ScriBD** pastreaza o *prezentare* [***eFactura***](https://www.scribd.com/document/615668832/PrezentareE-factura) care sper ca este interesanta pt. dumnevoastra.
