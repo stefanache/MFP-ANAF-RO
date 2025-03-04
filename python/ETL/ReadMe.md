@@ -7,6 +7,8 @@ Daca ar fi ca aplicatia dumneavoastra sa ingereze date intr-un anume/diverse for
 
 Uneori, sa spunem, ma pot concentra/focusa numai pe anumite tipuri de date structurate cum ar fi datele tabulare/tabelare din acele fisiere ingerate.
 
+Alteori ar putea fi interesant sa obtinem o sinteza/sumarul/rezumatul unui/unor fisier[e] dat[e]...
+
 Priviti shortcut-urile catre diverse tutoriale(cele mai multe YT) si vedeti daca va este util ceva anume....success!
 
 Link-uri utile:
