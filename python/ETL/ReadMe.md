@@ -12,3 +12,5 @@ Priviti shortcut-urile catre diverse tutoriale(cele mai multe YT) si vedeti daca
 Link-uri utile:
 
 [IMAP vs. POP](https://support.microsoft.com/en-us/office/what-is-the-difference-between-pop-and-imap-85c0e47f-931d-4035-b409-af3318b194a8)
+
+[RPA 101: What is ETL?](https://electroneek.com/blog/rpa-101-what-is-etl/)
