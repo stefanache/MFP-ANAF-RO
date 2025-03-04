@@ -9,6 +9,8 @@ Uneori, sa spunem, ma pot concentra/focusa numai pe anumite tipuri de date struc
 
 Alteori ar putea fi interesant sa obtinem o sinteza/sumarul/rezumatul unui/unor fisier[e] dat[e]...
 
+Pot exista cazuri cand datele odata ingerate pot si analizate in scopul de a extrage rapoarte. In acest context, spunem deseori ca dorim sa "vorbim/discutam/chatting"... cu datele noastre!
+
 Priviti shortcut-urile catre diverse tutoriale(cele mai multe YT) si vedeti daca va este util ceva anume....success!
 
 Link-uri utile:
