@@ -20,7 +20,7 @@ Priviti shortcut/URL-urile catre diverse tutoriale(cele mai multe fiind prezenta
 
 
 
-<br/><br/>Alte ***link***-uri utile:
+<br/><br/>Alte cateva ***link***-uri utile:
 
 [IMAP vs. POP](https://support.microsoft.com/en-us/office/what-is-the-difference-between-pop-and-imap-85c0e47f-931d-4035-b409-af3318b194a8)
 
