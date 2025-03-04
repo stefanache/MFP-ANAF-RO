@@ -1,5 +1,5 @@
 
-In faza de incarcare/ingestion a unui [RPA](https://www.sap.com/romania/products/technology-platform/process-automation/what-is-rpa.html)(ex de procesare a email-urilor sosite intr-un IMAP-server(server de email ce suporta protocolul [IMAP](https://ro.wikipedia.org/wiki/IMAP)) care au atasament un PDF ce contine facturi plasate in mod recurent dupa cum sunt statuate regulile de bussines contractuale/ a se vedea si PowerBI de la MS) avem aceasta conducta de procesare [ETL](https://www.oracle.com/ro/integration/what-is-etl/)(Extract-Transform-Load)
+In faza de incarcare/ingestion a unui [RPA](https://www.sap.com/romania/products/technology-platform/process-automation/what-is-rpa.html)(ex de procesare a email-urilor sosite intr-un IMAP-server(server de email ce suporta protocolul [IMAP](https://ro.wikipedia.org/wiki/IMAP)) care au atasament un PDF ce contine facturi plasate in mod recurent dupa cum sunt statuate regulile de bussines contractuale(a se vedea si PowerBI de la MS) avem aceasta conducta de procesare [ETL](https://www.oracle.com/ro/integration/what-is-etl/)(Extract-Transform-Load)
 
 Voi arata ca si aici AI(in speta LLM-urile) pot juca un rol important
 
