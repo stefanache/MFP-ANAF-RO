@@ -11,6 +11,8 @@ Alteori ar putea fi interesant sa obtinem o sinteza/sumarul/rezumatul unui/unor 
 
 Pot exista cazuri cand datele odata ingerate pot si analizate in scopul de a extrage rapoarte. In acest context, spunem deseori ca dorim sa "vorbim/discutam/chatting"... cu datele noastre!
 
+Aceasta combinatie de RPA cu AI a generat/derivat un subiect intitulat cel mai adesea "*Intelligence Automation*"
+
 Priviti shortcut/URL-urile catre diverse tutoriale(cele mai multe fiind prezentari-YT) si vedeti daca va este util ceva anume....success!
 
 
