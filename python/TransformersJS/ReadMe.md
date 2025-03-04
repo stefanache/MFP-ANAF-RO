@@ -1,4 +1,4 @@
-[LLM](https://www.solix.com/ro/kb/large-language-models/)-ul de tip [Transformers(LLM ce foloseste o Retea Neuronala/NN)](https://stirileprotv.ro/stiri/i-like-ai/ce-sunt-si-cum-functioneaza-modele-lingvistice-mari-llm-afla-cum-poti-sa-le-folosesti.html) in Javascript
+Subiectul discutat: [LLM](https://www.solix.com/ro/kb/large-language-models/)-ul de tip [Transformers(LLM ce foloseste o Retea Neuronala/NN)](https://stirileprotv.ro/stiri/i-like-ai/ce-sunt-si-cum-functioneaza-modele-lingvistice-mari-llm-afla-cum-poti-sa-le-folosesti.html) in Javascript
 
 Am citit acest [post-HF](https://huggingface.co/posts/Xenova/648607043613090) postat de cei de la [***Xenova***](https://github.com/topics/xenova-transformers?l=javascript) si am gasit proiectul [***WebGPU***](https://huggingface.co/spaces/webml-community/Janus-1.3B-WebGPU)(un [succesor/inlocuitor](https://huggingface.co/blog/transformersjs-v3#webgpu-support) al renderului de grafica 2D/3D [WebGL](https://en.wikipedia.org/wiki/WebGL))
 
