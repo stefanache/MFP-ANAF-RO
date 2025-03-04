@@ -7,4 +7,8 @@ Daca ar fi ca aplicatia dumneavoastra sa ingereze date intr-un anume/diverse for
 
 Uneori pot sa ma concentrez numai pe datele tabulare/tabelare din acele fisiere ingerate.
 
-Priviti shortcut-urile catre diverse tutoriale(cele mai multe YT) si vedeti daca va este util ceva anume....success
+Priviti shortcut-urile catre diverse tutoriale(cele mai multe YT) si vedeti daca va este util ceva anume....success!
+
+Link-uri utile:
+
+[IMAP vs. POP](https://support.microsoft.com/en-us/office/what-is-the-difference-between-pop-and-imap-85c0e47f-931d-4035-b409-af3318b194a8)
