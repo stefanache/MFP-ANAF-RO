@@ -1,5 +1,5 @@
 
-In faza de ingestion a unui RPA avem aceasta conducta de procesare ETL
+In faza de ingestion a unui RPA(ex de procesare a email-urilor sosite intr-un IMAP server care au atasament un PDF ce contine facturi plasate in mod recurent dupa cum sunt statuate regulile de bussines contractuale/ a se vedea si PowerBI de la MS) avem aceasta conducta de procesare ETL
 
 Voi arata ca si aici AI(in speta LLM-urile) pot juca un rol important
 
