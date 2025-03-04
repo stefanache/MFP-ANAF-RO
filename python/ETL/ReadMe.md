@@ -14,11 +14,11 @@ Pot exista cazuri cand datele odata ingerate pot si analizate in scopul de a ext
 Priviti shortcut/URL-urile catre diverse tutoriale(cele mai multe fiind prezentari-YT) si vedeti daca va este util ceva anume....success!
 
 
-<br/><br/>OBS: <br/>m-am axat pe **PDF**-uri(este deseori utilizat ca format de baza/important pt transportul continutului...cel mai adesea semnat/autentificat si securizat/encriptat) dar pot fi luate in considerare orice/oricare alt[e] tip[uri] de date pe care le doriti voi!
+<br/><br/>***OBS***: <br/>m-am axat pe **PDF**-uri(este deseori utilizat ca format de baza/important pt transportul continutului...cel mai adesea semnat/autentificat si securizat/encriptat) dar pot fi luate in considerare orice/oricare alt[e] tip[uri] de date pe care le doriti voi!
 
 
 
-<br/><br/>Alte link-uri utile:
+<br/><br/>Alte ***link***-uri utile:
 
 [IMAP vs. POP](https://support.microsoft.com/en-us/office/what-is-the-difference-between-pop-and-imap-85c0e47f-931d-4035-b409-af3318b194a8)
 
