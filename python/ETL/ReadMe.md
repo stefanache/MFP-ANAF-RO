@@ -13,7 +13,7 @@ Pot exista cazuri cand datele odata ingerate pot si analizate in scopul de a ext
 
 Aceasta combinatie de RPA cu AI a generat/derivat un subiect intitulat cel mai adesea "*Intelligence Automation*"
 
-Priviti shortcut/URL-urile catre diverse tutoriale(cele mai multe fiind prezentari-YT) si vedeti daca va este util ceva anume....success!
+Priviti shortcut/URL-urile catre diverse tutoriale(cele mai multe fiind prezentari-YT...priviti atat descrierea cat si transcrierile aferente acestor video-uri/filmulete) si vedeti daca va este util ceva anume....success!
 
 
 <br/><br/>***OBS***: <br/>m-am axat pe **PDF**-uri(este deseori utilizat ca format de baza/important pt transportul continutului...cel mai adesea semnat/autentificat si securizat/encriptat) dar pot fi luate in considerare orice/oricare alt[e] tip[uri] de date pe care le doriti voi!
