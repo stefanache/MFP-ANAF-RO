@@ -1,7 +1,7 @@
 <a href="https://www.linkedin.com/pulse/implementing-robotic-process-automation-rpa-aka-ia-part-mitra/"><img src="https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/ETL/30cc8bd4f9b4518ea2500b75d06efcae8978bba3_2_690x354.jpeg">Robotic Process Automation<br/>Example of RPA-pipeline</img></a>
 <br/><br/><br/>In faza de incarcare/ingestion a unui [RPA](https://www.sap.com/romania/products/technology-platform/process-automation/what-is-rpa.html)(spre ex in cazul unei conducte de procesare a email-urilor sosite in mod recurent, intr-un IMAP-server/server de email ce suporta protocolul [IMAP](https://ro.wikipedia.org/wiki/IMAP), care au drept atasament, sa spunem, un PDF, ce/care contine factura plasata, dupa cum sunt statuate regulile de bussines/contractuale/a se vedea si PowerBI de la MS), putem sa avem aceasta conducta de procesare initiala - [ETL](https://www.oracle.com/ro/integration/what-is-etl/)(Extract-Transform-Load)
 
-Voi arata ca si in cazul RPA/ETL, AI-ul(in speta LLM-urile) poate juca un rol mai mult sau mai putin important/insemnat...
+Cum probabil va asteptati deja, si in acest caz-de-utilizare/context(RPA/ETL), AI-ul(in speta LLM-urile) poate juca un rol mai mult sau mai putin important/insemnat...
 
 Daca ar fi ca aplicatia dumneavoastra sa ingereze date intr-un anume/diverse formate de prezentare(ex PDF-uri) atunci ma voi axa pe LLM-uri care stiu sa interpreteze/analizeze acest tip de date.
 
