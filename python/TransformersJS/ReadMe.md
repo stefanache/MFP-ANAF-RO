@@ -105,3 +105,7 @@ Modul de rulare este unul simplu(asa cum v-ati/am obisnuit cred!!!:), mai intai(
 Acest detector de ***Computer-Vision(CV)***, va *identifica* obiectele din imaginea local-incarcata, si, in cele din urma, le va *eticheta*, in consecinta/ca atare.
 
 Modelul este unul [*pre-antrenat*](https://medium.com/@kenzic/run-models-in-the-browser-with-transformers-js-2d0983ba3ce9), astfel ca, va "sti", cum sa "procedeze", atunci cand, va fi utilizat in [aplicatiile](https://dev.to/kenzic/run-models-in-the-browser-with-transformersjs-7g8) dvs [practice](https://blog.logrocket.com/building-background-remover-vue-transformers-js/).
+
+De asemeni puteti sa consultati si alte tutoriale/exemple/articole interesante:
+
+- [HF - simple examples](https://www.kaggle.com/code/assiri/huggingface-simple-examples)
