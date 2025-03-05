@@ -27,6 +27,8 @@ Priviti shortcut/URL-urile catre diverse tutoriale(cele mai multe fiind prezenta
  - [RPA 101: What is ETL?](https://electroneek.com/blog/rpa-101-what-is-etl/)
 
  - [weggile: Experience the revolution Automated Ordering systems](https://wegile.com/insights/experience-the-revolution-automated-ordering-systems.php)
+ - [SOA Way of Writing PHP](https://www.dimuthu.org/blog/2008/09/20/soa-way-of-writing-php/comment-page-1/)
+ - [...](https://www.google.com/search?q=php+ai+automation+ordering+architecture&sca_esv=f58153ab55da467e&rlz=1C1CHBF_enRO1132RO1132&udm=2&biw=1920&bih=911&sxsrf=AHTn8zoqyI4V2oZgs3Zo7zMteLtFiF8e8g%3A1741180897545&ei=4U_IZ5X1IMiK7NYP6Iiq4Qw&ved=0ahUKEwjV6YynhPOLAxVIBdsEHWiEKswQ4dUDCBE&uact=5&oq=php+ai+automation+ordering+architecture&gs_lp=EgNpbWciJ3BocCBhaSBhdXRvbWF0aW9uIG9yZGVyaW5nIGFyY2hpdGVjdHVyZUiVIVCeCVjVHXABeACQAQCYAWmgAbkIqgEDNy40uAEDyAEA-AEBmAIAoAIAmAMAiAYBkgcAoAfvAw&sclient=img#vhid=dztjR3ObL4BJZM&vssid=mosaic)
 
 
 
