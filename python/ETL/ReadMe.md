@@ -22,9 +22,11 @@ Priviti shortcut/URL-urile catre diverse tutoriale(cele mai multe fiind prezenta
 
 <br/><br/>Alte cateva ***link***-uri utile:
 
-[IMAP vs. POP](https://support.microsoft.com/en-us/office/what-is-the-difference-between-pop-and-imap-85c0e47f-931d-4035-b409-af3318b194a8)
+ - [IMAP vs. POP](https://support.microsoft.com/en-us/office/what-is-the-difference-between-pop-and-imap-85c0e47f-931d-4035-b409-af3318b194a8)
 
-[RPA 101: What is ETL?](https://electroneek.com/blog/rpa-101-what-is-etl/)
+ - [RPA 101: What is ETL?](https://electroneek.com/blog/rpa-101-what-is-etl/)
+
+ - [weggile: Experience the revolution Automated Ordering systems](https://wegile.com/insights/experience-the-revolution-automated-ordering-systems.php)
 
 
 
