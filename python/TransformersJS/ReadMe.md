@@ -108,5 +108,5 @@ Modelul este unul [*pre-antrenat*](https://medium.com/@kenzic/run-models-in-the-
 
 De asemeni puteti sa consultati si alte tutoriale/exemple/articole interesante:
 
-- [GH-py: HF-Transformers](https://github.com/huggingface/transformers)
+- [GH-py: HF-Transformers(see demos,examples)](https://github.com/huggingface/transformers)
 - [HF-py: simple examples](https://www.kaggle.com/code/assiri/huggingface-simple-examples)
