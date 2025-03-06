@@ -3,6 +3,7 @@
  - [stiintaSItehnica: Forma unui singur foton a fost dezvăluită pentru prima dată](https://stiintasitehnica.com/forma-unui-singur-foton-a-fost-dezvaluita-pentru-prima-data/)
  - [WK.ro - Ștergerea întârziată a alegerii cuantice](https://ro.wikipedia.org/wiki/%C8%98tergerea_%C3%AEnt%C3%A2rziat%C4%83_a_alegerii_cuantice)
  - [GOV.ro-uefiscdi-tema_9: QuanTec](https://uefiscdi.gov.ro/resource-820147-tema_9.pdf)
+ - [roqnet.ro-Report2020: QUTECH-RO: RAPORT ȘTIINȚIFIC ȘI TEHNIC IN EXTENSO](/https://roqnet.ro/wp-content/uploads/2020/12/Raport_2020.pdf)
  - [RomaniaLibera.ro: Entanglementul cuantic, soluția pentru a avea procesoare super-rapide](https://romanialibera.ro/special/video-entanglementul-cuantic-solutia-pentru-a-avea-procesoare-super-rapide-366106/)
  - [SCIENCE SMS – IATĂ CĂ MAGIA EXISTĂ LA NIVEL CUANTIC. FOTONII ENTANGLAȚI REPRODUC O IMAGINE DINTR-UN PARADOX](https://planetariubm.ro/2014/09/03/science-sms-iata-ca-magia-exista-la-nivel-cuantic-fotonii-entanglati-reproduc-o-imagine-dintr-un-paradox/)
  - [WK: QE/EPR](https://en.wikipedia.org/wiki/Quantum_entanglement)
