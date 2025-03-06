@@ -1,5 +1,6 @@
 [Salutare](https://chatgpt.com/share/67bee958-3e5c-800b-8c28-baa1e8dac211)
 
+ - [Unibuc.ro-Fizica Solidului: Curs calcul cuantic](http://solid.fizica.unibuc.ro/cursuri/quant/curs_calcul_cuantic.pdf)
  - [CS.pub.ro-Graphics-Dragne-Lucian: Rezumat teza doctorat](http://graphics.cs.pub.ro/theses/phd/2011/dragne.lucian/Teza_rezumat.pdf)
  - [USV.ro-perform: Raport nr. 2 - Cercetare privind "Simularea calculelor cuantice"](http://www.perform.usv.ro/rapoarte/09/raport_cercetare_1.pdf)
    <br/>Nota: a se consulta QCL (Quantum Computation Language), precum si algoritmii cuantici...!
