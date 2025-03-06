@@ -3,6 +3,7 @@
  - [Cum s-a rezolvat în 5 minute o problemă de matematică ce i-ar lua unui calculator mai mult timp decât istoria universului](https://stirileprotv.ro/stiri/stiinta/cum-s-a-rezolvat-in-5-minute-o-problema-de-matematica-ce-i-ar-lua-unui-calculator-mai-mult-timp-decat-istoria-universului.html)
  - [slideserve-Gheorghiu Alexandru: Calculatoare cuantice](https://www.slideserve.com/ora/calculatoare-cuantice)
  - [WK: Atom](https://ro.wikipedia.org/wiki/Atom), [WK: Spin](https://ro.wikipedia.org/wiki/Spin_(fizic%C4%83)), [scientia.ro-Fizica: Spinul particulelor](https://www.scientia.ro/fizica/63-atomul/783-ce-este-spinul-particulelor-fundamentale-1.html)
+ - [WK: QP](https://en.wikipedia.org/wiki/Quantum_programming)
  - [hotnews.ro: VIDEO Un experiment cuantic il contrazice pe Einstein si arata ca Universul este, intr-adevar, "infricosator"](https://hotnews.ro/video-un-experiment-cuantic-il-contrazice-pe-einstein-si-arata-ca-universul-este-intr-adevar-infricosator-500348)
  - [idsi.md-IDN: Fizica Aplicata - Corelații cuantice între atomi plasați în cavități optice cuplate](https://ibn.idsi.md/sites/default/files/imag_file/505-507.pdf)
  - [acs.pub.ro-masterat: QC-courses](https://acs.pub.ro/doc/master/ro/courses/QC-courses-ro.pdf)
