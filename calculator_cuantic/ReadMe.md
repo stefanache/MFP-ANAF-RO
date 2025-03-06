@@ -1,6 +1,7 @@
 [Salutare](https://chatgpt.com/share/67bee958-3e5c-800b-8c28-baa1e8dac211)
 
- - [liveScience: Oamenii de știință descoperă o modalitate mai simplă de a realiza „acțiunea înfricoșătoare la distanță” a lui Einstein, datorită descoperirii AI – aducând internetul cuantic mai aproape de realitate](https://www.livescience.com/technology/computing/scientists-discover-simpler-way-to-achieve-einsteins-spooky-action-at-a-distance-thanks-to-ai-bringing-quantum-internet-closer-to-reality)
+ -[WK: QE](https://en.wikipedia.org/wiki/Quantum_entanglement)
+ - [liveScience: Oamenii de știință descoperă o modalitate mai simplă de a realiza „acțiunea înfricoșătoare la distanță(QE)” a lui Einstein, datorită descoperirii AI – aducând internetul cuantic mai aproape de realitate](https://www.livescience.com/technology/computing/scientists-discover-simpler-way-to-achieve-einsteins-spooky-action-at-a-distance-thanks-to-ai-bringing-quantum-internet-closer-to-reality)
  - [Cum s-a rezolvat în 5 minute o problemă de matematică ce i-ar lua unui calculator mai mult timp decât istoria universului](https://stirileprotv.ro/stiri/stiinta/cum-s-a-rezolvat-in-5-minute-o-problema-de-matematica-ce-i-ar-lua-unui-calculator-mai-mult-timp-decat-istoria-universului.html)
  - [slideserve-Gheorghiu Alexandru: Calculatoare cuantice](https://www.slideserve.com/ora/calculatoare-cuantice)
  - [WK: Atom](https://ro.wikipedia.org/wiki/Atom), [WK: Spin](https://ro.wikipedia.org/wiki/Spin_(fizic%C4%83)), [scientia.ro-Fizica: Spinul particulelor](https://www.scientia.ro/fizica/63-atomul/783-ce-este-spinul-particulelor-fundamentale-1.html)
