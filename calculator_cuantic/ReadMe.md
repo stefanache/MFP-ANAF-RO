@@ -4,6 +4,7 @@
  - [slideserve-Gheorghiu Alexandru: Calculatoare cuantice](https://www.slideserve.com/ora/calculatoare-cuantice)
  - [WK: Atom](https://ro.wikipedia.org/wiki/Atom), [WK: Spin](https://ro.wikipedia.org/wiki/Spin_(fizic%C4%83)), [scientia.ro-Fizica: Spinul particulelor](https://www.scientia.ro/fizica/63-atomul/783-ce-este-spinul-particulelor-fundamentale-1.html)
  - [WK: QP](https://en.wikipedia.org/wiki/Quantum_programming)
+ - [codefinity-blog: Intro. QC & QP](https://codefinity.com/blog/Introduction-to-Quantum-Computing-for-Programmers?utm_source=google&utm_medium=cpc&utm_campaign=21380043065&utm_content=&utm_term=&dki=&gad_source=1&gclid=CjwKCAiArKW-BhAzEiwAZhWsIJvJOdN9nRZyj0R6FRckx80RoweK3VoLEmrjC-VWP8uEyfJugA38DRoCLkcQAvD_BwE)
  - [hotnews.ro: VIDEO Un experiment cuantic il contrazice pe Einstein si arata ca Universul este, intr-adevar, "infricosator"](https://hotnews.ro/video-un-experiment-cuantic-il-contrazice-pe-einstein-si-arata-ca-universul-este-intr-adevar-infricosator-500348)
  - [idsi.md-IDN: Fizica Aplicata - Corelații cuantice între atomi plasați în cavități optice cuplate](https://ibn.idsi.md/sites/default/files/imag_file/505-507.pdf)
  - [acs.pub.ro-masterat: QC-courses](https://acs.pub.ro/doc/master/ro/courses/QC-courses-ro.pdf)
