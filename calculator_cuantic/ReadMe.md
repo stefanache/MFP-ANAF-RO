@@ -1,5 +1,6 @@
 [Salutare](https://chatgpt.com/share/67bee958-3e5c-800b-8c28-baa1e8dac211)
 
+ - [WK: Atom](https://ro.wikipedia.org/wiki/Atom)
  - [hotnews.ro: VIDEO Un experiment cuantic il contrazice pe Einstein si arata ca Universul este, intr-adevar, "infricosator"](https://hotnews.ro/video-un-experiment-cuantic-il-contrazice-pe-einstein-si-arata-ca-universul-este-intr-adevar-infricosator-500348)
  - [idsi.md-IDN: Fizica Aplicata - Corelații cuantice între atomi plasați în cavități optice cuplate](https://ibn.idsi.md/sites/default/files/imag_file/505-507.pdf)
  - [acs.pub.ro-masterat: QC-courses](https://acs.pub.ro/doc/master/ro/courses/QC-courses-ro.pdf)
