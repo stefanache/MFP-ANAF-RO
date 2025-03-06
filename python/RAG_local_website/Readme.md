@@ -639,3 +639,5 @@ In acest articol, veti descoperi o comparatie interesanta: [RAG vs. RAG-Fusion v
 De asemenea, va recomand sa consultati si acest [articol](https://www.fahdmirza.com/2024/05/how-to-do-rag-with-local-free-models.html), care va propune o implementare locala de [RAPTOR](https://www.fahdmirza.com/2024/05/how-to-do-rag-with-local-free-models.html)
 
 O alta comparatie interesanta este si [RankRAG vs. GraphRAG vs. RAPTOR](https://www.linkedin.com/posts/wd84_rankrag-graph-rag-or-raptor-to-compare-activity-7218316184360763392-O4OC/)
+
+Un alt proiect interesant este si acest [RAG}(https://www.fahdmirza.com/2024/05/free-local-rag-pipeline-step-by-step.html)
