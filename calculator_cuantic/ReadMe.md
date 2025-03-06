@@ -1,7 +1,7 @@
 [Salutare](https://chatgpt.com/share/67bee958-3e5c-800b-8c28-baa1e8dac211)
 
  - [WK.ro - Ștergerea întârziată a alegerii cuantice](https://ro.wikipedia.org/wiki/%C8%98tergerea_%C3%AEnt%C3%A2rziat%C4%83_a_alegerii_cuantice)
- - GOV.ro-uefiscdi: QuanTec](https://uefiscdi.gov.ro/resource-820147-tema_9.pdf)
+ - [GOV.ro-uefiscdi: QuanTec](https://uefiscdi.gov.ro/resource-820147-tema_9.pdf)
  - [RomaniaLibera.ro: Entanglementul cuantic, soluția pentru a avea procesoare super-rapide](https://romanialibera.ro/special/video-entanglementul-cuantic-solutia-pentru-a-avea-procesoare-super-rapide-366106/)
  - [SCIENCE SMS – IATĂ CĂ MAGIA EXISTĂ LA NIVEL CUANTIC. FOTONII ENTANGLAȚI REPRODUC O IMAGINE DINTR-UN PARADOX](https://planetariubm.ro/2014/09/03/science-sms-iata-ca-magia-exista-la-nivel-cuantic-fotonii-entanglati-reproduc-o-imagine-dintr-un-paradox/)
  - [WK: QE/EPR](https://en.wikipedia.org/wiki/Quantum_entanglement)
