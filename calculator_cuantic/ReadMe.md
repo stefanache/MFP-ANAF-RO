@@ -1,5 +1,6 @@
 [Salutare](https://chatgpt.com/share/67bee958-3e5c-800b-8c28-baa1e8dac211)
 
+ - [CS.pub.ro-Graphics-Dragne-Lucian: Rezumat teza doctorat](http://graphics.cs.pub.ro/theses/phd/2011/dragne.lucian/Teza_rezumat.pdf)
  - [Distributii de probabilitate](https://ro.wikipedia.org/wiki/Distribu%C8%9Bii_de_probabilitate) Distributii = [Repartitii de probabilitate](https://math.ubbcluj.ro/~tradu/geologi/dprobclasice_article.pdf)
    <br/>[poarta Hadamard](https://chatgpt.com/share/67befe3c-40ec-800b-99b4-a962c9a3576e) = similar cu = Bernoulli uniform(echiprobabil)
  - [spellit.ro: Informatica cuantica](http://www.spellit.ro/revista-1/numarul-9/numarul-9/informatica-cuantica/studiu-de-specialitate)
