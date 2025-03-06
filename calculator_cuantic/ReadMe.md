@@ -1,5 +1,6 @@
 [Salutare](https://chatgpt.com/share/67bee958-3e5c-800b-8c28-baa1e8dac211)
 
+ - [slideserve-Gheorghiu Alexandru: Calculatoare cuantice](https://www.slideserve.com/ora/calculatoare-cuantice)
  - [WK: Atom](https://ro.wikipedia.org/wiki/Atom), [WK: Spin](https://ro.wikipedia.org/wiki/Spin_(fizic%C4%83)), [scientia.ro-Fizica: Spinul particulelor](https://www.scientia.ro/fizica/63-atomul/783-ce-este-spinul-particulelor-fundamentale-1.html)
  - [hotnews.ro: VIDEO Un experiment cuantic il contrazice pe Einstein si arata ca Universul este, intr-adevar, "infricosator"](https://hotnews.ro/video-un-experiment-cuantic-il-contrazice-pe-einstein-si-arata-ca-universul-este-intr-adevar-infricosator-500348)
  - [idsi.md-IDN: Fizica Aplicata - Corelații cuantice între atomi plasați în cavități optice cuplate](https://ibn.idsi.md/sites/default/files/imag_file/505-507.pdf)
