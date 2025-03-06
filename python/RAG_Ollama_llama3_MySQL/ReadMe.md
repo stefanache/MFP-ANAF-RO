@@ -54,4 +54,6 @@ UN [RAG](https://python.langchain.com/v0.2/docs/tutorials/rag/) poate dialoga cu
 
 [**Langchain**](https://python.langchain.com/v0.2/docs/introduction/) este un framework deci un complex de librarii care permit integrarea LLM-urilor obtinute din diverse surse/cai.
 
+Alt proiect interesant este si acest [RAG](https://www.fahdmirza.com/2024/05/free-local-rag-pipeline-step-by-step.html)
+
 
