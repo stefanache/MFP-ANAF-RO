@@ -7,7 +7,8 @@
  - [codefinity-blog: Intro. QC & QP](https://codefinity.com/blog/Introduction-to-Quantum-Computing-for-Programmers?utm_source=google&utm_medium=cpc&utm_campaign=21380043065&utm_content=&utm_term=&dki=&gad_source=1&gclid=CjwKCAiArKW-BhAzEiwAZhWsIJvJOdN9nRZyj0R6FRckx80RoweK3VoLEmrjC-VWP8uEyfJugA38DRoCLkcQAvD_BwE)
  - [quside: QKD = Quantum Key Distribution = algoritm cuantic de criptare de inalta securitate](https://quside.com/how-does-quantum-key-distribution-qkd-work/)
  - [quside: QRNG = Quantum Random Number Generator](https://quside.com/quantum-random-number-generators-why-how-where/)
-   <br/>Generatoarele de numere aleatoare cuantice (QRNG) sunt un caz special de TRNG, care generează aleatoriu prin măsurarea proceselor cuantice, care sunt, prin natura lor, nedeterministe. 
+   <br/>Generatoarele de numere aleatoare cuantice (QRNG) sunt un caz special de TRNG, care generează aleatoriu prin măsurarea proceselor cuantice, care sunt, prin natura lor, nedeterministe.
+ - [cdot.in: QKD algorithm ](https://www.cdot.in/cdotweb/web/product_page.php?lang=en&catId=1&pId=48) 
  - [hotnews.ro: VIDEO Un experiment cuantic il contrazice pe Einstein si arata ca Universul este, intr-adevar, "infricosator"](https://hotnews.ro/video-un-experiment-cuantic-il-contrazice-pe-einstein-si-arata-ca-universul-este-intr-adevar-infricosator-500348)
  - [idsi.md-IDN: Fizica Aplicata - Corelații cuantice între atomi plasați în cavități optice cuplate](https://ibn.idsi.md/sites/default/files/imag_file/505-507.pdf)
  - [acs.pub.ro-masterat: QC-courses](https://acs.pub.ro/doc/master/ro/courses/QC-courses-ro.pdf)
