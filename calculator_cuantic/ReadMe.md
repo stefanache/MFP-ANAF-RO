@@ -1,5 +1,6 @@
 [Salutare](https://chatgpt.com/share/67bee958-3e5c-800b-8c28-baa1e8dac211)
 
+ - [stiintaSItehnica: Forma unui singur foton a fost dezvăluită pentru prima dată](https://stiintasitehnica.com/forma-unui-singur-foton-a-fost-dezvaluita-pentru-prima-data/)
  - [WK.ro - Ștergerea întârziată a alegerii cuantice](https://ro.wikipedia.org/wiki/%C8%98tergerea_%C3%AEnt%C3%A2rziat%C4%83_a_alegerii_cuantice)
  - [GOV.ro-uefiscdi-tema_9: QuanTec](https://uefiscdi.gov.ro/resource-820147-tema_9.pdf)
  - [RomaniaLibera.ro: Entanglementul cuantic, soluția pentru a avea procesoare super-rapide](https://romanialibera.ro/special/video-entanglementul-cuantic-solutia-pentru-a-avea-procesoare-super-rapide-366106/)
