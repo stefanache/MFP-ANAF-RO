@@ -1,5 +1,6 @@
 [Salutare](https://chatgpt.com/share/67bee958-3e5c-800b-8c28-baa1e8dac211)
 
+ - [RomaniaLibera.ro: Entanglementul cuantic, soluția pentru a avea procesoare super-rapide](https://romanialibera.ro/special/video-entanglementul-cuantic-solutia-pentru-a-avea-procesoare-super-rapide-366106/)
  - [WK: QE/EPR](https://en.wikipedia.org/wiki/Quantum_entanglement)
  - [liveScience: Oamenii de știință descoperă o modalitate mai simplă de a realiza „acțiunea înfricoșătoare la distanță(QE)” a lui Einstein, datorită descoperirii AI – aducând internetul cuantic mai aproape de realitate](https://www.livescience.com/technology/computing/scientists-discover-simpler-way-to-achieve-einsteins-spooky-action-at-a-distance-thanks-to-ai-bringing-quantum-internet-closer-to-reality)
  - [Cum s-a rezolvat în 5 minute o problemă de matematică ce i-ar lua unui calculator mai mult timp decât istoria universului](https://stirileprotv.ro/stiri/stiinta/cum-s-a-rezolvat-in-5-minute-o-problema-de-matematica-ce-i-ar-lua-unui-calculator-mai-mult-timp-decat-istoria-universului.html)
