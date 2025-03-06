@@ -5,6 +5,7 @@
  - [Unibuc.ro-Fizica Solidului: Curs calcul cuantic](http://solid.fizica.unibuc.ro/cursuri/quant/curs_calcul_cuantic.pdf)
  - [CS.pub.ro-Graphics-Dragne-Lucian: Rezumat teza doctorat](http://graphics.cs.pub.ro/theses/phd/2011/dragne.lucian/Teza_rezumat.pdf)
  - [USV.ro-perform: Raport nr. 2 - Cercetare privind "Simularea calculelor cuantice"](http://www.perform.usv.ro/rapoarte/09/raport_cercetare_1.pdf)
+ - [UPT.ro-AC: Curs bazele calculului si comunicatiilor cuantice](https://ac.upt.ro/anunturi/curs-bazele-calcului-si-comunicatiilor-cuantice/)
    <br/>Nota: a se consulta QCL (Quantum Computation Language), precum si algoritmii cuantici...!
  - [Distributii de probabilitate](https://ro.wikipedia.org/wiki/Distribu%C8%9Bii_de_probabilitate) Distributii = [Repartitii de probabilitate](https://math.ubbcluj.ro/~tradu/geologi/dprobclasice_article.pdf)
    <br/>[poarta Hadamard](https://chatgpt.com/share/67befe3c-40ec-800b-99b4-a962c9a3576e) = similar cu = Bernoulli uniform(echiprobabil)
