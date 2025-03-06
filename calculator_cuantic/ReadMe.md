@@ -12,6 +12,7 @@
  - [comsoc.org: QKD safeGuarding future](https://www.comsoc.org/publications/ctn/quantum-key-distribution-qkd-safeguarding-future)
  - [icvtan-newsinfo: PQC vs. QKD](https://www.icvtank.com/newsinfo/868225.html?templateId=287088)
  - [qkdnetsim-models: QKD - Network Simulation Module(vers.2)](https://www.qkdnetsim.info/models/build/html/qkd.html)
+ - [WK: inseparabilitate cuantica = entanglement](https://ro.wikipedia.org/wiki/Inseparabilitate_cuantic%C4%83)
  - [scientia.ro: Ce inseamna ca doua particule sunt in stare de inseparabilitate cuantica (quantum entanglement)?
 ](https://www.scientia.ro/qa/1680/ce-inseamna-ca-doua-particule-sunt-in-stare-de-inseparabilitate-cuantica-quantum-entanglement)
  - [hotnews.ro: VIDEO Un experiment cuantic il contrazice pe Einstein si arata ca Universul este, intr-adevar, "infricosator"](https://hotnews.ro/video-un-experiment-cuantic-il-contrazice-pe-einstein-si-arata-ca-universul-este-intr-adevar-infricosator-500348)
