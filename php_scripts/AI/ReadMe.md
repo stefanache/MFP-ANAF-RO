@@ -33,4 +33,7 @@ Aici o sa postez cateva [link](https://stackoverflow.com/questions/33080068/runn
    <br/>Construit pe Symfony6 și MongoDB6.
    <br/>Intenționeaza să ruleze pe serverul local.
  - [GH-marcusgreen=PhP: moodle-qtype_aitext](https://github.com/marcusgreen/moodle-qtype_aitext): [Moodle](https://ro.wikipedia.org/wiki/Moodle) [AIText](https://www.examulator.com/g/) question type that uses a Large Language Model(LLM) for feedback
+ - [GH-ClicShopping-PhP: ClicShopping_V3](https://github.com/ClicShopping/ClicShopping_V3)
+   <br/>ClicShopping AI(tm) este o soluție-OpenSource puternică pentru/de comerț electronic B2B / B2C / B2B-B2C, folosind AI-generativă(Gen-AI) și analiza-sentimentelor(SA).
+   <br/>Soluția se bazează pe un design modern, receptiv, care vă va permite să aveți un site web grozav pe toate dispozitivele mobile, desktop și ușor de instalat.
  - [...](https://github.com/PrivateDennis/InfinityGame)
