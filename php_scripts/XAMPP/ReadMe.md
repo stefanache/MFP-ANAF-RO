@@ -38,4 +38,5 @@ Aici o sa plasez cateva *link*-uri legate de [**XAMPP**](https://www.apachefrien
  - [backdropcms.org-news: backDrop CMS using XAMPP under W10](https://backdropcms.org/news/backdrop-cms-xampp-windows-10)
  - [i-doit: i-doIt via XAMPP/Windows](https://kb.i-doit.com/en/installation/manual-installation/microsoft-windows-server/i-doit-via-xampp.html); [wiki: i-doit](https://de.wikipedia.org/wiki/I-doit)
  - [jetBrains: Installing and Configuring XAMPP/MAMP with PhpStorm(IDE for PhP)](https://blog.jetbrains.com/phpstorm/2013/08/installing-and-configuring-xampp-mamp-with-phpstorm/); [wiki:JetBrains](https://en.wikipedia.org/wiki/JetBrains)
- - [paulshipley.id.au-articles: Pmprove-php-performance-with-FastCGI-on-XAMPP-for-Windows](https://paulshipley.id.au/articles/coding-tips/improve-php-performance-with-fastcgi-on-xampp-for-windows/)
+ - [paulshipley.id.au-articles: Improve-php-performance-with-FastCGI-on-XAMPP-for-Windows](https://paulshipley.id.au/articles/coding-tips/improve-php-performance-with-fastcgi-on-xampp-for-windows/)
+ - [drupal.org-docs: quick-install Drupal with XAMPP on Windows](https://www.drupal.org/docs/develop/local-server-setup/windows-development-environment/using-xampp/quick-install-drupal-with-xampp-on-windows)
