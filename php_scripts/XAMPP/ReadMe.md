@@ -14,6 +14,7 @@ Aici o sa plasez cateva *link*-uri legate de [**XAMPP**](https://www.apachefrien
  - [theCodeDeveloper: Install Composer on Windows XAMPP](https://www.thecodedeveloper.com/install-composer-windows-xampp/)
  - [softonic: XAMPP on Windows](https://xampp-windows.en.softonic.com/)
  - [YT- How to install XAMPP on W10](https://www.youtube.com/watch?v=RnIG1_lag-s&ab_channel=Devtamin)
+ - [YT- How to install XAMPP and PhP-Composer on W11/W10(easy)](https://www.youtube.com/watch?v=GAYcBXcVoOY&ab_channel=TheCodeCity)
  - [linkedin-pulse - step - DataIns echnology LLC: How run PhP file using XAMPP](https://www.linkedin.com/pulse/how-run-php-file-using-xampp-step-data-ins-technology-llc/)
  - [careyou.ncu.edu.tw: XAMPP/W10 - FAQ](https://careyou.ncu.edu.tw/dashboard/faq.html)
  - [utm-shaharil: install Apache-WebServer(part of XAMPP bundle) on Windows](https://people.utm.my/shaharil/install-apache-web-server-on-windows/)
