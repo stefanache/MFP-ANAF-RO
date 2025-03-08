@@ -2,7 +2,7 @@
 
 Aici o sa plasez cateva *link*-uri legate de [**XAMPP**](https://www.apachefriends.org/download.html)([*localhost*](https://www.apachefriends.org/faq_windows.html)) instalat pe/sub [***Windows 10/11(W10 or/and W11)***](https://php101.net/deploy/webserver-with-xampp-on-windows/).
 
-***Nota***: Nu toate tutorialele sunt actuale/recente(sau pt cea mai recenta versiune de XAMPP) dar pot constitui un punct de plecare(tag/tinta de cautare articole recente utilizand motorul de cautare **Google**!)<br/> De cele mai multe ori puteti gasi ceea ce cautati in alte articole/subiecte consultand Table-Content(cuprinsul)-ul aferent acelui site/articol...!
+***Nota***: Nu toate tutorialele sunt actuale/recente(sau pt cea mai recenta versiune de XAMPP) dar pot constitui un punct de plecare(tag/tinta de cautare articole recente utilizand motorul de cautare **Google**!)<br/> De cele mai multe ori insa puteti gasi ceea ce cautati in alte articole/subiecte consultand Table-Content(cuprinsul)-ul aferent acelui site/articol...!
 
  - [xampp-upToDown: windows XAMPP versions](https://xampp.en.uptodown.com/windows/versions); [apachefriends.org: XAMPP download](https://www.apachefriends.org/de/download.html)
  - [WK: XAMPP](https://en.wikipedia.org/wiki/XAMPP)
