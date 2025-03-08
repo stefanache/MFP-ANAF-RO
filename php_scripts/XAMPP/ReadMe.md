@@ -4,3 +4,4 @@ Aici o sa plasez cateva *link*-uri legate de [**XAMPP**](https://www.apachefrien
 
  - [GH: HTTPS on XAMPP](https://gist.github.com/adnan360/ad2b1cfc44114ac6f91fbb668c76798d)
  - [toWell: SSL using XAMPP - multiple hostnames](https://jtowell.com.au/ssl-localhost-xampp-windows-multiple-host-names/)
+ - [Medium: XAMPP - PhP versions management](https://medium.com/@divyesh__chotaliya/effortlessly-switching-xampp-php-versions-on-windows-d76b8e5237e7)
