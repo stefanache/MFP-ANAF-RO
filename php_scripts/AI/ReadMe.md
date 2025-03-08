@@ -24,5 +24,5 @@ Aici o sa postez cateva [link](https://stackoverflow.com/questions/33080068/runn
    <br/>Experimentați capabilități AI de nivel enterprise cu o interfață elegantă, ușor de utilizat, concepută atât pentru dezvoltatori, cât și pentru utilizatorii finali.
   - [GH-cloudmedicio-PhP: describe-media-library](https://github.com/cloudmedicio/describe-media-library)
     <br/>Descrieți imagini din Biblioteca Media WordPress(WP) folosind un model local de limbă mare(LLM=llava oferit local de Ollama).
-    <br/>Generează titluri, subtitrări, descrieri și etichete alternative.
+    <br/>Generează titluri, subtitrări, descrieri și etichete alternative pt imagini medicale(cloud-medic).
  - [...](https://github.com/PrivateDennis/InfinityGame)
