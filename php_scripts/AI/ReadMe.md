@@ -3,6 +3,10 @@
 Aici o sa postez cateva [link](https://stackoverflow.com/questions/33080068/running-composer-in-a-different-directory-than-current)-uri legate de [AI](https://getcomposer.org/download/) unde se foloseste si PhP-ul:
 
  - [GH-kambo-1st-PhP: langchain-php](https://github.com/kambo-1st/langchain-php)
+   <br/>Construirea de aplicații cu LLM-uri prin composabilitate în PHP ⚡
+   <br/>Ultima versiune pe Packagist Teste Descărcări totale Licență: MIT
+   <br/>Portarea-PHP a LangChain(LC)-ului este o adaptare meticuloasă a bibliotecii LangChain originale(integrator de LLM-uri) , aducând capacitățile sale robuste de procesare a limbajului natural ecosistemului PHP.
+   <br/>Aceasta portare fidela permite dezvoltatorilor să valorifice întregul potențial al caracteristicilor LangChain(LC), păstrând în același timp sintaxa și structura familiară PHP.
  - [GH-PhP-searchByTopic: LangChain(LC)](https://github.com/topics/langchain?l=php&o=desc&s=stars)
  - [GH-webreactiva-devs-PhP: chat-langchain-demos](https://github.com/webreactiva-devs/chat-langchain-demos)
    <br/>Depozit de exemple pentru utilizarea Langchain, o bibliotecă pentru a interacționa cu API-ul OpenAI utilizând cadențe de LLM (Language Model) și șabloane de prompturi.
