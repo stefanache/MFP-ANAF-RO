@@ -60,3 +60,4 @@ Daca doriti sa instalati **XAMPP** pe/sub **Ubuntu**(*Linux*)-**WSL** sau urmari
  - [fPDF](http://www.fpdf.org/)
  - [tcPDF](https://tcpdf.org/)
  - [w3Schools: PhP](https://www.w3schools.com/php/php_intro.asp)
+ - [Laravel(PhP framework/cadru de dezvoltare)](https://laravel.com/docs/12.x/vite)
