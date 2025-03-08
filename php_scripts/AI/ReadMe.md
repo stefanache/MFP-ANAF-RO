@@ -7,7 +7,7 @@ Aici o sa postez cateva [link](https://stackoverflow.com/questions/33080068/runn
    <br/>(Ultima versiune pe Packagist | Teste | Descărcări totale | Licență: MIT)
    <br/>Portarea-PHP a LangChain(LC=integrator de fisiere compacte/binare ale modelelor/LLM-urilor))-ului este o adaptare meticuloasă/fidelă a bibliotecii LangChain originale(integrator de LLM-uri) , aducând capacitățile sale robuste de procesare a limbajului natural, ecosistemului PHP.
    <br/>Aceasta portare fidela permite dezvoltatorilor să valorifice întregul potențial al caracteristicilor LangChain(LC), păstrând în același timp sintaxa și structura familiară PHP.
-   <br/> - Funcții acceptate
+   <br/> - Funcții acceptate([exemple](https://github.com/kambo-1st/langchain-php/tree/main/examples)):
    - Formatare promptă
    - LLM-uri: OpenAI GPT-3, ChatGPT, [llama.cpp](https://github.com/kambo-1st/langchain-php/blob/main/docs/PHP/TOC.md)
    - VectorDB(BD vectoriala): magazin de vector simplu stupid
