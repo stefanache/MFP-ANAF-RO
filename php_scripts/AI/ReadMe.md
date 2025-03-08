@@ -8,3 +8,4 @@ Aici o sa postez cateva link-uri legate de AI unde se foloseste si PhP-ul:
  - [GH-LLPhant: LLPhant - A comprehensive PHP Generative-AI Framework](https://github.com/LLPhant/LLPhant)
  - [GH-PhP-searchByTopic: llm](https://github.com/topics/llm?l=php&o=desc&s=stars)
  - [GH-PhP-searchByTopic: ai](https://github.com/topics/ai?l=php&o=desc&s=stars)
+ - [[GH-PhP-searchByTopic: ollama](https://github.com/topics/ollama?l=php&o=desc&s=stars)
