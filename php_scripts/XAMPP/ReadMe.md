@@ -50,6 +50,7 @@ Aici o sa plasez cateva *link*-uri legate de [**XAMPP**](https://www.apachefrien
  - [cloudWays-blog: Configure virtual-host on W10 for(4) WP](https://www.cloudways.com/blog/configure-virtual-host-on-windows-10-for-wordpress/)
  - [WP.org-make: Installing XAMPP(a se vedea mai departe instalarea WP)](https://make.wordpress.org/core/handbook/tutorials/installing-wordpress-locally/installing-xampp/)
  - [thesolving/server-room: How to install XAMPP on your PC and run your own WebServer ](https://www.thesolving.com/server-room/how-to-install-xampp-on-your-pc-and-run-your-own-webserver/)
+ - [scriptcase.net-portal: Installing ScriptCase in XAMPP with PhP8.1 Windows](https://help.scriptcase.net/portal/en/kb/articles/installing-scriptcase-in-xampp-with-php-81-windows); [WK: ScriptCase](https://en.wikipedia.org/wiki/Scriptcase)
 
 Daca doriti sa instalati **XAMPP** pe/sub **Ubuntu**(*Linux*)-**WSL** atunci puteti citi si...
 
