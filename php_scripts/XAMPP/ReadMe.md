@@ -65,3 +65,4 @@ Daca doriti sa instalati **XAMPP** pe/sub **Ubuntu**(*Linux*)-**WSL** sau urmari
  - [WP.org-developer: How to install WP](https://developer.wordpress.org/advanced-administration/before-install/howto-install/)
  - [projectWorlds.in: Free PhP-projects ](https://projectworlds.in/free-projects/php-projects/)
  - [mariadb.org-download: Download MariaDB Server](https://mariadb.org/download/?t=mariadb&p=mariadb&r=11.7.2&os=windows&cpu=x86_64&pkg=msi&mirror=chroot-network)
+ - [mysql-dev: MySQL doc](https://dev.mysql.com/doc/)
