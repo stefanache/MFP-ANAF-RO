@@ -2,6 +2,7 @@
 
 Aici o sa postez cateva [link](https://stackoverflow.com/questions/33080068/running-composer-in-a-different-directory-than-current)-uri legate de [AI](https://getcomposer.org/download/) unde se foloseste si PhP-ul:
 
+ - [GH-kambo-1st-PhP: langchain-php](https://github.com/kambo-1st/langchain-php)
  - [GH-PhP-searchByTopic: rag](https://github.com/topics/rag?l=php&o=desc&s=stars)
  - [GH-Krisseck: PhP-RAG](https://github.com/Krisseck/php-rag)
  - [GH-mzarnecki: PhP-RAG](https://github.com/mzarnecki/php-rag)
