@@ -27,6 +27,6 @@ Aici o sa postez cateva [link](https://stackoverflow.com/questions/33080068/runn
     <br/>Generează titluri, subtitrări, descrieri și etichete alternative pt imagini medicale(cloud-medic).
  - [GH-Trismegiste-PhP: Eclipse Phase TTRPG Live GameMaster Wiki Manager](https://github.com/Trismegiste/eclipse-wiki)
    <br/>Un site web bazat pe datele furnizate de un API MediaWiki.
-   <br/>Construit pe Symfony 6 și MongoDb 6.
+   <br/>Construit pe Symfony6 și MongoDB6.
    <br/>Intenționeaza să ruleze pe serverul local.
  - [...](https://github.com/PrivateDennis/InfinityGame)
