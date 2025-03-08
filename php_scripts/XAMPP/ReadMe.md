@@ -4,7 +4,7 @@ Aici o sa plasez cateva *link*-uri legate de [**XAMPP**](https://www.apachefrien
 
 ***Nota***: Nu toate tutorialele sunt actuale/recente dar pot constitui un punct de plecare(tag/tinta de cautare articole recente utilizand motorul de cautare **Google**!)<br/> De cele mai multe ori puteti gasi ceea ce cautati in alte articole/subiecte consultand Table-Content(cuprinsul)-ul aferent acelui site/articol...!
 
- - [xampp-upToDown: windows XAMPP versions](https://xampp.en.uptodown.com/windows/versions)
+ - [xampp-upToDown: windows XAMPP versions](https://xampp.en.uptodown.com/windows/versions); [apachefriends.org: XAMPP download](https://www.apachefriends.org/de/download.html)
  - [WK: XAMPP](https://en.wikipedia.org/wiki/XAMPP)
  - [windowsforum-threads: How to download and install XAMPP on W11  a step-by-step guide](https://windowsforum.com/threads/how-to-download-and-install-xampp-on-windows-11-a-step-by-step-guide.349859/)
  - [softonic: XAMPP on Windows](https://xampp-windows.en.softonic.com/)
