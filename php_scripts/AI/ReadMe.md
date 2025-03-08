@@ -9,7 +9,7 @@ Aici o sa postez cateva [link](https://stackoverflow.com/questions/33080068/runn
    <br/>Aceasta portare fidela permite dezvoltatorilor să valorifice întregul potențial al caracteristicilor LangChain(LC), păstrând în același timp sintaxa și structura familiară PHP.
    <br/> - Funcții acceptate
    - Formatare promptă
-   - LLM-uri: OpenAI GPT-3, ChatGPT, llama.cpp
+   - LLM-uri: OpenAI GPT-3, ChatGPT, [llama.cpp](https://github.com/kambo-1st/langchain-php/blob/main/docs/PHP/TOC.md)
    - VectorDB(BD vectoriala): magazin de vector simplu stupid
    - Divizoare de texte: CharacterTextSplitter, RecursiveCharacterTextSplitter
    - Încorporare: OpenAI
