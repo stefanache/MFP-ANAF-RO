@@ -72,6 +72,7 @@ Daca doriti sa instalati **XAMPP** pe/sub **Ubuntu**(*Linux*)-**WSL** sau urmari
  - [mysql-dev: MySQL doc](https://dev.mysql.com/doc/)
  - [WK: DB download](https://en.wikipedia.org/wiki/Wikipedia:Database_download)
  - [locall.host](https://locall.host/)
+ - [xibo.org.uk: ZMQ installing on Windows](https://community.xibo.org.uk/uploads/short-url/4l7E1Vjz7znXEWKnu8U16OHeHnR.pdf)
  - [xibo.org.uk-community: Help ZMQ Configuration for Xibo V4 - XAMPP Server](https://community.xibo.org.uk/t/help-zmq-configuration-for-xibo-v4-xampp-server/30391); [WK: Xibo(CMS)](https://en.wikipedia.org/wiki/Xibo); [xibosignage: Xibo manual](https://xibosignage.com/manual/en/index);
  - [xibo.org.uk-community: Installing PhP ZMQ(ZeroMQ) on XAMPP with PhP5.6 as a service](https://community.xibo.org.uk/t/installing-php-zmq-zeromq-on-xampp-with-php-5-6-as-a-service/9478); [WK: ZMQ](https://en.wikipedia.org/wiki/ZeroMQ)
  - [stackOverflow-Questions: Adding the ZeroMQ-PhP-extension to XAMPP on W10 and PhP7.1.7](https://stackoverflow.com/questions/40821137/adding-the-zeromq-php-extension-to-xampp-on-windows-10-and-php7))
