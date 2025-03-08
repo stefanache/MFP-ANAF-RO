@@ -19,6 +19,7 @@ Aici o sa postez cateva [link](https://stackoverflow.com/questions/33080068/runn
  - [GH-UdiaNixGPT-PhP: Un website Laravel-bazat utilizând un LLM integrat(LLM=llama3 deservit de Ollama-server) în chat-ul site-ului, cu ele elevăm o interacțiune pentru aplicarea unui nou patamar.](https://github.com/Unix-User/UdiaNixGPT)
    <br/>**UdiaNixGPT** este un site web bazat pe Laravel, cu o pagină de chat care se integrează cu **llama3** prin API-ul **Ollama**.
    <br/>Acest proiect își propune să ofere o experiență de integrare perfectă pentru ca utilizatorii să interacționeze cu capabilitățile AI avansate oferite de LLM-ul **llama3**(odferit de catre serverul local de LLM-uri: **Ollama**).
+ - [GH-LeandroBerlin-PhP: Laravel-Ollama-boilerplate](https://github.com/LeandroBerlin/Laravel-Ollama-boilerplate)
  - [GH-Better-Call-Jason-PhP: LlaraveLlama](https://github.com/Better-Call-Jason/LlaraveLlama)
  - [GH-awiones-PhP: Titan-O-](https://github.com/awiones/Titan-O-)
    <br/>Titan „O” este o platformă web puternică care permite integrarea perfectă a modelelor Ollama AI în site-ul dvs. offline.
