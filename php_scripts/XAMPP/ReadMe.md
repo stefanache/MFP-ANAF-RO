@@ -76,3 +76,4 @@ Daca doriti sa instalati **XAMPP** pe/sub **Ubuntu**(*Linux*)-**WSL** sau urmari
  - [xibo.org.uk-community: Installing PhP ZMQ(ZeroMQ) on XAMPP with PhP5.6 as a service](https://community.xibo.org.uk/t/installing-php-zmq-zeromq-on-xampp-with-php-5-6-as-a-service/9478); [WK: ZMQ](https://en.wikipedia.org/wiki/ZeroMQ)
  - [stackOverflow-Questions: Adding the ZeroMQ-PhP-extension to XAMPP on W10 and PhP7.1.7](https://stackoverflow.com/questions/40821137/adding-the-zeromq-php-extension-to-xampp-on-windows-10-and-php7))
  - [GH-ZeroMQ: PhP-ZMQ](https://github.com/zeromq/php-zmq)
+ - [serverpilot.io-docs: How to install the PhP ZeroMQ(ZMQ)-extension](https://serverpilot.io/docs/how-to-install-the-php-zeromq-extension/)
