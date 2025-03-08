@@ -2,6 +2,7 @@ Salut!
 
 Aici o sa plasez cateva *link*-uri legate de [**XAMPP**](https://www.apachefriends.org/download.html)([*localhost*](https://www.apachefriends.org/faq_windows.html)) instalat pe/sub [***Windows 10/11(W10/W11)***](https://php101.net/deploy/webserver-with-xampp-on-windows/).
 
+ - [linkedin-pulse: How run PhP file using XAMPP - step data-ins technology LLC](https://www.linkedin.com/pulse/how-run-php-file-using-xampp-step-data-ins-technology-llc/)
  - [careyou.ncu.edu.tw: XAMPP/W10 - FAQ](https://careyou.ncu.edu.tw/dashboard/faq.html)
  - [edb.gov.hk: XAMPP-see Table-Content](https://www.edb.gov.hk/attachment/en/curriculum-development/kla/technology-edu/resources/computer-edu/2B%20-%20XAMPP%202.pdf)
  - [pureInfotech: Install XAMPP on W10/W11](https://pureinfotech.com/install-xampp-windows-10/)
