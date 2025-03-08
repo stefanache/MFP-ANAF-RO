@@ -9,6 +9,7 @@ Aici o sa plasez cateva *link*-uri legate de [**XAMPP**](https://www.apachefrien
  - [wpmuDev-blog: How to install/setUp XAMPP and WP](https://wpmudev.com/blog/setting-up-xampp/)
  - [Medium-dinocajic: Add XAMPP PhP to/@ environment variables in W10](https://dinocajic.medium.com/add-xampp-php-to-environment-variables-in-windows-10-af20a765b0ce)
  - [devSense-blog: Configuring XAMPP](https://blog.devsense.com/2021/configuring-xampp)
+ - [apache.org-docs: Configure PhP in environment variables(W10 or W11)](https://netbeans.apache.org/tutorial/main/kb/docs/php/configure-php-environment-windows/)
  - [j2well: Upgrading XAMPP](https://jtowell.com.au/upgrading-your-xampp-setup-on-windows-without-losing-anything/)
  - [GH: HTTPS on XAMPP](https://gist.github.com/adnan360/ad2b1cfc44114ac6f91fbb668c76798d)
  - [toWell: SSL using XAMPP - multiple hostnames](https://jtowell.com.au/ssl-localhost-xampp-windows-multiple-host-names/)
