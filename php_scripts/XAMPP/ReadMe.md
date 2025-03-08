@@ -62,3 +62,4 @@ Daca doriti sa instalati **XAMPP** pe/sub **Ubuntu**(*Linux*)-**WSL** sau urmari
  - [w3Schools: PhP](https://www.w3schools.com/php/php_intro.asp)
  - [Laravel(PhP framework/cadru de dezvoltare)](https://laravel.com/docs/12.x/vite)
  - [Bitnami-App Catalog](https://bitnami.com/stacks)
+ - [/projectworlds.in: Free PhP-projects ](https://projectworlds.in/free-projects/php-projects/)
