@@ -14,3 +14,4 @@ Aici o sa plasez cateva *link*-uri legate de [**XAMPP**](https://www.apachefrien
  - [packagist.org: XAMPP PhP-switcher of versions](https://packagist.org/packages/jackiedo/xampp-php-switcher)
  - [teamTreeHouse: using PhPmailer in W10/11-XAMPP with SMTP to send email](https://teamtreehouse.com/community/using-phpmailer-in-windows-xampp-with-smtp-to-send-email) or
  - [teamtreehouse-blog: sending-email-with-PhPmailer-and-SMTP](https://blog.teamtreehouse.com/sending-email-with-phpmailer-and-smtp?_gl=1*1elkg0l*_gcl_au*MTk0MjUyMjY1OS4xNzM5MjA2ODkw)
+ - [GH: PHPMailer](https://github.com/PHPMailer/PHPMailer)
