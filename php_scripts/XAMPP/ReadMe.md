@@ -48,3 +48,7 @@ Aici o sa plasez cateva *link*-uri legate de [**XAMPP**](https://www.apachefrien
  - [cloudWays-blog: Configure virtual-host on W10 for(4) WP](https://www.cloudways.com/blog/configure-virtual-host-on-windows-10-for-wordpress/)
  - [WP.org-make: Installing XAMPP(a se vedea mai departe instalarea WP)](https://make.wordpress.org/core/handbook/tutorials/installing-wordpress-locally/installing-xampp/)
  - [thesolving/server-room: How to install XAMPP on your PC and run your own WebServer ](https://www.thesolving.com/server-room/how-to-install-xampp-on-your-pc-and-run-your-own-webserver/)
+
+Puteti citi si...
+
+ - [dev.to-paraspl01t: First impressions of using XAMPP on Linux for(4) PhP-development](https://dev.to/paraspl01t/first-impressions-of-using-xampp-on-linux-for-php-development-5h0g)
