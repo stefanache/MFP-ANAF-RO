@@ -66,3 +66,4 @@ Daca doriti sa instalati **XAMPP** pe/sub **Ubuntu**(*Linux*)-**WSL** sau urmari
  - [sourceCodeSter: Free PhP Projects with Source-Code](https://www.sourcecodester.com/php-project)
  - [mariadb.org-download: Download MariaDB Server](https://mariadb.org/download/?t=mariadb&p=mariadb&r=11.7.2&os=windows&cpu=x86_64&pkg=msi&mirror=chroot-network)
  - [mysql-dev: MySQL doc](https://dev.mysql.com/doc/)
+ - [WK: DB download](https://en.wikipedia.org/wiki/Wikipedia:Database_download)
