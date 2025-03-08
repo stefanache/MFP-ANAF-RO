@@ -18,6 +18,7 @@ Aici o sa plasez cateva *link*-uri legate de [**XAMPP**](https://www.apachefrien
  - [pureInfotech: Install XAMPP on W10/W11](https://pureinfotech.com/install-xampp-windows-10/)
  - [containerize-blog: How to setup XAMPP and phpMyAdmin as localhost on windows](https://blog.containerize.com/how-to-setup-xampp-and-phpmyadmin-as-localhost-on-windows/)
  - [operaVPS-docs: Install XAMPP on Windows-Server](https://operavps.com/docs/install-xampp-on-windows-server/)
+ - [how2shout: Hotw to install XAMPP on W10/W8/W7](https://www.how2shout.com/how-to/install-xampp-on-windows-ubuntu-linux-terminal.html)
  - [utho-docs: How to install XAMPP on Windows-server 2016/2019/2022](https://utho.com/docs/windows/how-to-install-xampp-on-windows-server-2016-2019-2022/)
  - [iltraHost: Install XAMPP on Windows](https://ultahost.com/knowledge-base/install-xampp-windows/)
  - [koderHQ-tutorial: PhP environment setup](https://www.koderhq.com/tutorial/php/environment-setup/)
