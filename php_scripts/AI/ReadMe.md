@@ -6,6 +6,8 @@ Aici o sa postez cateva [link](https://stackoverflow.com/questions/33080068/runn
  - [GH-PhP-searchByTopic: LangChain(LC)](https://github.com/topics/langchain?l=php&o=desc&s=stars)
  - [GH-webreactiva-devs-PhP: chat-langchain-demos](https://github.com/webreactiva-devs/chat-langchain-demos)
  - [GH-use-the-fork-PhP: synapse](https://github.com/use-the-fork/synapse)
+   <br/>Synapse este un pachet puternic care permite integrarea și gestionarea fără întreruperi a Agenților-AI în aplicațiile Laravel.
+   <br/>Inspirat de Langchain și Laravel-Saloon, oferă un cadru flexibil pentru a crea, gestiona și scala agenți AI folosind opțiuni de memorie personalizabile, solicitări dinamice și integrări multiple, inclusiv OpenAI și Claude.
  - [GH-PhP-searchByTopic: rag](https://github.com/topics/rag?l=php&o=desc&s=stars)
  - [GH-Krisseck: PhP-RAG](https://github.com/Krisseck/php-rag)
  - [GH-mzarnecki: PhP-RAG](https://github.com/mzarnecki/php-rag)
