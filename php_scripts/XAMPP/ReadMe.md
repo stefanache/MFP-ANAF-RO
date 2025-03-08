@@ -3,7 +3,7 @@ Salut!
 Aici o sa plasez cateva *link*-uri legate de [**XAMPP**](https://www.apachefriends.org/download.html)([*localhost*](https://www.apachefriends.org/faq_windows.html)) instalat pe/sub [***Windows 10/11(W10/W11)***](https://php101.net/deploy/webserver-with-xampp-on-windows/).
 
  - [careyou.ncu.edu.tw: XAMPP/W10 - FAQ](https://careyou.ncu.edu.tw/dashboard/faq.html)
- - [edb.gov.hk: XAMPP](https://www.edb.gov.hk/attachment/en/curriculum-development/kla/technology-edu/resources/computer-edu/2B%20-%20XAMPP%202.pdf)
+ - [edb.gov.hk: XAMPP-see Table-Content](https://www.edb.gov.hk/attachment/en/curriculum-development/kla/technology-edu/resources/computer-edu/2B%20-%20XAMPP%202.pdf)
  - [operaVPS-docs: Install XAMPP on Windows-Server](https://operavps.com/docs/install-xampp-on-windows-server/)
  - [koderHQ-tutorial: PhP environment setup](https://www.koderhq.com/tutorial/php/environment-setup/)
  - [tutorials24x7-PhP: How to install XAMM on W10/W11](https://www.tutorials24x7.com/php/how-to-install-xampp-on-windows)
