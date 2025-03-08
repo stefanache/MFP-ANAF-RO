@@ -5,6 +5,7 @@ Aici o sa plasez cateva *link*-uri legate de [**XAMPP**](https://www.apachefrien
 ***Nota***: Nu toate tutorialele sunt actuale/recente dar pot constitui un punct de plecare(tag/tinta de cautare articole recente utilizand motorul de cautare **Google**!)
 
  - [xampp-upToDown: windows XAMPP versions](https://xampp.en.uptodown.com/windows/versions)
+ - [softonic: XAMPP on Windows](https://xampp-windows.en.softonic.com/)
  - [linkedin-pulse - step - DataIns echnology LLC: How run PhP file using XAMPP](https://www.linkedin.com/pulse/how-run-php-file-using-xampp-step-data-ins-technology-llc/)
  - [careyou.ncu.edu.tw: XAMPP/W10 - FAQ](https://careyou.ncu.edu.tw/dashboard/faq.html)
  - [edb.gov.hk: XAMPP-see Table-Content](https://www.edb.gov.hk/attachment/en/curriculum-development/kla/technology-edu/resources/computer-edu/2B%20-%20XAMPP%202.pdf)
