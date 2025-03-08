@@ -4,6 +4,7 @@ Aici o sa postez cateva [link](https://stackoverflow.com/questions/33080068/runn
 
  - [GH-kambo-1st-PhP: langchain-php](https://github.com/kambo-1st/langchain-php)
  - [GH-PhP-searchByTopic: LangChain(LC)](https://github.com/topics/langchain?l=php&o=desc&s=stars)
+ - [GH-webreactiva-devs-PhP: chat-langchain-demos](https://github.com/webreactiva-devs/chat-langchain-demos)
  - [GH-PhP-searchByTopic: rag](https://github.com/topics/rag?l=php&o=desc&s=stars)
  - [GH-Krisseck: PhP-RAG](https://github.com/Krisseck/php-rag)
  - [GH-mzarnecki: PhP-RAG](https://github.com/mzarnecki/php-rag)
