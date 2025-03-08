@@ -63,4 +63,5 @@ Daca doriti sa instalati **XAMPP** pe/sub **Ubuntu**(*Linux*)-**WSL** sau urmari
  - [Laravel(PhP framework/cadru de dezvoltare)](https://laravel.com/docs/12.x/vite)
  - [Bitnami-App Catalog](https://bitnami.com/stacks)
  - [WP.org-developer: How to install WP](https://developer.wordpress.org/advanced-administration/before-install/howto-install/)
- - [/projectworlds.in: Free PhP-projects ](https://projectworlds.in/free-projects/php-projects/)
+ - [projectWorlds.in: Free PhP-projects ](https://projectworlds.in/free-projects/php-projects/)
+ - [mariadb.org-download: Download MariaDB Server](https://mariadb.org/download/?t=mariadb&p=mariadb&r=11.7.2&os=windows&cpu=x86_64&pkg=msi&mirror=chroot-network)
