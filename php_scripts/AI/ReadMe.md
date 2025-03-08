@@ -5,6 +5,7 @@ Aici o sa postez cateva [link](https://stackoverflow.com/questions/33080068/runn
  - [GH-kambo-1st-PhP: langchain-php](https://github.com/kambo-1st/langchain-php)
  - [GH-PhP-searchByTopic: LangChain(LC)](https://github.com/topics/langchain?l=php&o=desc&s=stars)
  - [GH-webreactiva-devs-PhP: chat-langchain-demos](https://github.com/webreactiva-devs/chat-langchain-demos)
+   <br/>Depozit de exemple pentru utilizarea Langchain, o bibliotecă pentru a interacționa cu API-ul OpenAI utilizând cadențe de LLM (Language Model) și șabloane de prompturi.
  - [GH-use-the-fork-PhP: synapse](https://github.com/use-the-fork/synapse)
    <br/>Synapse este un pachet puternic care permite integrarea și gestionarea fără întreruperi a Agenților-AI în aplicațiile Laravel.
    <br/>Inspirat de Langchain și Laravel-Saloon, oferă un cadru flexibil pentru a crea, gestiona și scala agenți AI folosind opțiuni de memorie personalizabile, solicitări dinamice și integrări multiple, inclusiv OpenAI și Claude.
