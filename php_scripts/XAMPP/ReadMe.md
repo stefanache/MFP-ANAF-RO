@@ -77,5 +77,6 @@ Daca doriti sa instalati **XAMPP** pe/sub **Ubuntu**(*Linux*)-**WSL** sau urmari
  - [stackOverflow-Questions: Adding the ZeroMQ-PhP-extension to XAMPP on W10 and PhP7.1.7](https://stackoverflow.com/questions/40821137/adding-the-zeromq-php-extension-to-xampp-on-windows-10-and-php7))
  - [GH-ZeroMQ: PhP-ZMQ](https://github.com/zeromq/php-zmq)
  - [serverpilot.io-docs: How to install the PhP ZeroMQ(ZMQ)-extension](https://serverpilot.io/docs/how-to-install-the-php-zeromq-extension/)
+   <br/>The ZeroMQ extension appears to be no longer maintained.
    <br/>The PHP ZeroMQ extension provides PHP functions for using the ZeroMQ communication library.
    <br/>The ZeroMQ extension supports PHP 5.4, 5.5, 5.6, 7.0, 7.1, and 7.2.
