@@ -21,3 +21,4 @@ Aici o sa plasez cateva *link*-uri legate de [**XAMPP**](https://www.apachefrien
  - [teamtreehouse-blog: sending-email-with-PhPmailer-and-SMTP](https://blog.teamtreehouse.com/sending-email-with-phpmailer-and-smtp?_gl=1*1elkg0l*_gcl_au*MTk0MjUyMjY1OS4xNzM5MjA2ODkw)
  - [GH: PHPMailer](https://github.com/PHPMailer/PHPMailer)
  - [eitca.org-web-development: How can you create and run a PHP file using XAMPP](https://eitca.org/web-development/eitc-wd-pmsf-php-and-mysql-fundamentals/getting-started-with-php/installing-php-xampp/examination-review-installing-php-xampp/how-can-you-create-and-run-a-php-file-using-xampp/)
+ - [backdropcms.org-news: backDrop CMS using XAMPP under W10](https://backdropcms.org/news/backdrop-cms-xampp-windows-10)
