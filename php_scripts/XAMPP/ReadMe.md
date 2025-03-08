@@ -9,7 +9,7 @@ Aici o sa plasez cateva *link*-uri legate de [**XAMPP**](https://www.apachefrien
  - [softonic: XAMPP on Windows](https://xampp-windows.en.softonic.com/)
  - [linkedin-pulse - step - DataIns echnology LLC: How run PhP file using XAMPP](https://www.linkedin.com/pulse/how-run-php-file-using-xampp-step-data-ins-technology-llc/)
  - [careyou.ncu.edu.tw: XAMPP/W10 - FAQ](https://careyou.ncu.edu.tw/dashboard/faq.html)
- - [jakarta.go.id-rsudtebet: XAMPP FAQ](https://rsudtebet.jakarta.go.id/dashboard/faq.html)
+ - [jakarta.go.id-rsudtebet/dashboard: XAMPP FAQ](https://rsudtebet.jakarta.go.id/dashboard/faq.html)
  - [edb.gov.hk: XAMPP-see Table-Content](https://www.edb.gov.hk/attachment/en/curriculum-development/kla/technology-edu/resources/computer-edu/2B%20-%20XAMPP%202.pdf)
  - [pureInfotech: Install XAMPP on W10/W11](https://pureinfotech.com/install-xampp-windows-10/)
  - [containerize-blog: How to setup XAMPP and phpMyAdmin as localhost on windows](https://blog.containerize.com/how-to-setup-xampp-and-phpmyadmin-as-localhost-on-windows/)
