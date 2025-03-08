@@ -32,4 +32,5 @@ Aici o sa postez cateva [link](https://stackoverflow.com/questions/33080068/runn
    <br/>Un site web bazat pe datele furnizate de un API MediaWiki.
    <br/>Construit pe Symfony6 și MongoDB6.
    <br/>Intenționeaza să ruleze pe serverul local.
+ - [GH-marcusgreen=PhP: moodle-qtype_aitext](https://github.com/marcusgreen/moodle-qtype_aitext): [Moodle](https://ro.wikipedia.org/wiki/Moodle) AIText question type that uses a Large Language Model(LLM) for feedback
  - [...](https://github.com/PrivateDennis/InfinityGame)
