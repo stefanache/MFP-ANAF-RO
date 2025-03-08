@@ -80,3 +80,4 @@ Daca doriti sa instalati **XAMPP** pe/sub **Ubuntu**(*Linux*)-**WSL** sau urmari
    <br/>The ZeroMQ extension appears to be no longer maintained.
    <br/>The PHP ZeroMQ extension provides PHP functions for using the ZeroMQ communication library.
    <br/>The ZeroMQ extension supports PHP 5.4, 5.5, 5.6, 7.0, 7.1, and 7.2.
+ - [zeromq.org: ZMQ/0MQ-download](https://zeromq.org/download/)
