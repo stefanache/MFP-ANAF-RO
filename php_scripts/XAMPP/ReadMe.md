@@ -7,6 +7,7 @@ Aici o sa plasez cateva *link*-uri legate de [**XAMPP**](https://www.apachefrien
  - [geeksforgeeks.org: XAMPP install on W10/11](https://www.geeksforgeeks.org/how-to-install-xampp-on-windows/)
  - [apachefriends.org: Bitnami-WordPress(WP) for(4) XAMPP](https://www.apachefriends.org/bitnami_for_xampp.html)
  - [Medium-dinocajic: Add XAMPP PhP to/@ environment variables in W10](https://dinocajic.medium.com/add-xampp-php-to-environment-variables-in-windows-10-af20a765b0ce)
+ - [devSense-blog: Configuring XAMPP](https://blog.devsense.com/2021/configuring-xampp)
  - [j2well: Upgrading XAMPP](https://jtowell.com.au/upgrading-your-xampp-setup-on-windows-without-losing-anything/)
  - [GH: HTTPS on XAMPP](https://gist.github.com/adnan360/ad2b1cfc44114ac6f91fbb668c76798d)
  - [toWell: SSL using XAMPP - multiple hostnames](https://jtowell.com.au/ssl-localhost-xampp-windows-multiple-host-names/)
