@@ -32,4 +32,4 @@ Aici o sa plasez cateva *link*-uri legate de [**XAMPP**](https://www.apachefrien
  - [eitca.org-web-development: How can you create and run a PHP file using XAMPP](https://eitca.org/web-development/eitc-wd-pmsf-php-and-mysql-fundamentals/getting-started-with-php/installing-php-xampp/examination-review-installing-php-xampp/how-can-you-create-and-run-a-php-file-using-xampp/)
  - [backdropcms.org-news: backDrop CMS using XAMPP under W10](https://backdropcms.org/news/backdrop-cms-xampp-windows-10)
  - [i-doit: i-doIt via XAMPP/Windows](https://kb.i-doit.com/en/installation/manual-installation/microsoft-windows-server/i-doit-via-xampp.html); [wiki: i-doit](https://de.wikipedia.org/wiki/I-doit)
- - [jetBrains: Installing and Configuring XAMPP/MAMP with PhpStorm](https://blog.jetbrains.com/phpstorm/2013/08/installing-and-configuring-xampp-mamp-with-phpstorm/)
+ - [jetBrains: Installing and Configuring XAMPP/MAMP with PhpStorm(IDE)](https://blog.jetbrains.com/phpstorm/2013/08/installing-and-configuring-xampp-mamp-with-phpstorm/); [wiki:JetBrains](https://en.wikipedia.org/wiki/JetBrains)
