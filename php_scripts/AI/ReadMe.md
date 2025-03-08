@@ -5,7 +5,7 @@ Aici o sa postez cateva [link](https://stackoverflow.com/questions/33080068/runn
  - [GH-kambo-1st-PhP: langchain-php](https://github.com/kambo-1st/langchain-php)
    <br/>⚡Construirea de aplicații cu LLM-uri prin composabilitate în PHP 
    <br/>(Ultima versiune pe Packagist | Teste | Descărcări totale | Licență: MIT)
-   <br/>Portarea-PHP a LangChain(LC=integrator de fisiere compacte/binare ale modelelor/LLM-urilor))-ului este o adaptare meticuloasă a bibliotecii LangChain originale(integrator de LLM-uri) , aducând capacitățile sale robuste de procesare a limbajului natural ecosistemului PHP.
+   <br/>Portarea-PHP a LangChain(LC=integrator de fisiere compacte/binare ale modelelor/LLM-urilor))-ului este o adaptare meticuloasă/fidelă a bibliotecii LangChain originale(integrator de LLM-uri) , aducând capacitățile sale robuste de procesare a limbajului natural ecosistemului PHP.
    <br/>Aceasta portare fidela permite dezvoltatorilor să valorifice întregul potențial al caracteristicilor LangChain(LC), păstrând în același timp sintaxa și structura familiară PHP.
  - [GH-PhP-searchByTopic: LangChain(LC)](https://github.com/topics/langchain?l=php&o=desc&s=stars)
  - [GH-webreactiva-devs-PhP: chat-langchain-demos](https://github.com/webreactiva-devs/chat-langchain-demos)
