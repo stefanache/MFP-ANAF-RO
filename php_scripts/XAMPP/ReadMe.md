@@ -18,3 +18,4 @@ Aici o sa plasez cateva *link*-uri legate de [**XAMPP**](https://www.apachefrien
  - [teamTreeHouse-community: using PhPmailer in W10/11-XAMPP with SMTP to send email](https://teamtreehouse.com/community/using-phpmailer-in-windows-xampp-with-smtp-to-send-email) or
  - [teamtreehouse-blog: sending-email-with-PhPmailer-and-SMTP](https://blog.teamtreehouse.com/sending-email-with-phpmailer-and-smtp?_gl=1*1elkg0l*_gcl_au*MTk0MjUyMjY1OS4xNzM5MjA2ODkw)
  - [GH: PHPMailer](https://github.com/PHPMailer/PHPMailer)
+ - [eitca.org-web-development/eitc-wd-pmsf-php-and-mysql-fundamentals/getting-started-with-php/Installing PhPXAMPP/examination-review-installing-php-xampp: How can you create and run a PHP file using XAMPP](https://eitca.org/web-development/eitc-wd-pmsf-php-and-mysql-fundamentals/getting-started-with-php/installing-php-xampp/examination-review-installing-php-xampp/how-can-you-create-and-run-a-php-file-using-xampp/)
