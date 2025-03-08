@@ -8,6 +8,7 @@ Aici o sa plasez cateva *link*-uri legate de [**XAMPP**](https://www.apachefrien
  - [WK: XAMPP](https://en.wikipedia.org/wiki/XAMPP)
  - [edureka.co-blog: How to run a Php program in XAMPP](https://www.edureka.co/blog/how-to-run-a-php-program-in-xampp/)
  - [localhost.me: PhPMyAdmin for(4) MySQL(necesita PhP... si deci trebuie in prealabil pornit WebServer-ul Apache!)](https://locallhost.me/phpmyadmin)
+ - [GH-devtut: Installing a PhP environment on Windows](https://devtut.github.io/php/installing-a-php-environment-on-windows.html)
  - [windowsforum-threads: How to download and install XAMPP on W11  a step-by-step guide](https://windowsforum.com/threads/how-to-download-and-install-xampp-on-windows-11-a-step-by-step-guide.349859/)
  - [theCodeDeveloper: Install Composer on Windows XAMPP](https://www.thecodedeveloper.com/install-composer-windows-xampp/)
  - [softonic: XAMPP on Windows](https://xampp-windows.en.softonic.com/)
