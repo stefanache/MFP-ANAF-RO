@@ -57,8 +57,7 @@ Aici o sa plasez cateva *link*-uri legate de [**XAMPP**](https://www.apachefrien
 Daca doriti sa instalati **XAMPP** pe/sub **Ubuntu**(*Linux*)-**WSL** sau urmariti anumite subiecte legate de PhP si implicit de XAMPP, atunci puteti citi si...
 
  - [dev.to-paraspl01t: First impressions of using XAMPP on Linux for(4) PhP-development](https://dev.to/paraspl01t/first-impressions-of-using-xampp-on-linux-for-php-development-5h0g)
- - [fPDF](http://www.fpdf.org/)
- - [tcPDF](https://tcpdf.org/)
+ - [fPDF](http://www.fpdf.org/) and [tcPDF](https://tcpdf.org/)
  - [w3Schools: PhP](https://www.w3schools.com/php/php_intro.asp)
  - [Laravel(PhP framework/cadru de dezvoltare)](https://laravel.com/docs/12.x/vite)
  - [Bitnami-App Catalog](https://bitnami.com/stacks)
