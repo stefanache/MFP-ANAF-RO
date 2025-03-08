@@ -7,6 +7,14 @@ Aici o sa postez cateva [link](https://stackoverflow.com/questions/33080068/runn
    <br/>(Ultima versiune pe Packagist | Teste | Descărcări totale | Licență: MIT)
    <br/>Portarea-PHP a LangChain(LC=integrator de fisiere compacte/binare ale modelelor/LLM-urilor))-ului este o adaptare meticuloasă/fidelă a bibliotecii LangChain originale(integrator de LLM-uri) , aducând capacitățile sale robuste de procesare a limbajului natural, ecosistemului PHP.
    <br/>Aceasta portare fidela permite dezvoltatorilor să valorifice întregul potențial al caracteristicilor LangChain(LC), păstrând în același timp sintaxa și structura familiară PHP.
+   <br/>Funcții acceptate
+  - Formatare promptă
+  - LLM-uri: OpenAI GPT-3, ChatGPT, llama.cpp
+  - VectorDB(BD vectoriala): magazin de vector simplu stupid
+  - Divizoare de texte: CharacterTextSplitter, RecursiveCharacterTextSplitter
+  - Încorporare: OpenAI
+  - Încărcătoare de documente: TextLoader
+
  - [GH-PhP-searchByTopic: LangChain(LC)](https://github.com/topics/langchain?l=php&o=desc&s=stars)
  - [GH-webreactiva-devs-PhP: chat-langchain-demos](https://github.com/webreactiva-devs/chat-langchain-demos)
    <br/>Depozit de exemple pentru utilizarea Langchain, o bibliotecă pentru a interacționa cu API-ul OpenAI utilizând cadențe de LLM (Language Model) și șabloane de prompturi.
