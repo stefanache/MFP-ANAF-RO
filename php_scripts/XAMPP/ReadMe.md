@@ -4,6 +4,7 @@ Aici o sa plasez cateva *link*-uri legate de [**XAMPP**](https://www.apachefrien
 
  - [careyou.ncu.edu.tw: XAMPP/W10 - FAQ](https://careyou.ncu.edu.tw/dashboard/faq.html)
  - [edb.gov.hk: XAMPP-see Table-Content](https://www.edb.gov.hk/attachment/en/curriculum-development/kla/technology-edu/resources/computer-edu/2B%20-%20XAMPP%202.pdf)
+ - [pureInfotech: Install XAMPP on W10/W11](https://pureinfotech.com/install-xampp-windows-10/)
  - [containerize-blog: How to setup XAMPP and phpMyAdmin as localhost on windows](https://blog.containerize.com/how-to-setup-xampp-and-phpmyadmin-as-localhost-on-windows/)
  - [operaVPS-docs: Install XAMPP on Windows-Server](https://operavps.com/docs/install-xampp-on-windows-server/)
  - [koderHQ-tutorial: PhP environment setup](https://www.koderhq.com/tutorial/php/environment-setup/)
