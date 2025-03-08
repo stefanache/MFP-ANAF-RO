@@ -20,4 +20,6 @@ Aici o sa postez cateva [link](https://stackoverflow.com/questions/33080068/runn
    <br/>Acest proiect își propune să ofere o experiență de integrare perfectă pentru ca utilizatorii să interacționeze cu capabilitățile AI avansate oferite de LLM-ul **llama3**(odferit de catre serverul local de LLM-uri: **Ollama**).
  - [GH-Better-Call-Jason-PhP: LlaraveLlama](https://github.com/Better-Call-Jason/LlaraveLlama)
  - [GH-awiones-PhP: Titan-O-](https://github.com/awiones/Titan-O-)
+   <br/>Titan „O” este o platformă web puternică care permite integrarea perfectă a modelelor Ollama AI în site-ul dvs. offline.
+   <br/>Experimentați capabilități AI de nivel enterprise cu o interfață elegantă, ușor de utilizat, concepută atât pentru dezvoltatori, cât și pentru utilizatorii finali.
  - [...](https://github.com/PrivateDennis/InfinityGame)
