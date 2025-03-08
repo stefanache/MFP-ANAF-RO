@@ -44,3 +44,4 @@ Aici o sa plasez cateva *link*-uri legate de [**XAMPP**](https://www.apachefrien
  - [drupal.org-docs: quick-install Drupal with XAMPP on Windows](https://www.drupal.org/docs/develop/local-server-setup/windows-development-environment/using-xampp/quick-install-drupal-with-xampp-on-windows); [WK: Drupal(CMS with frameWork written in PhP)](https://en.wikipedia.org/wiki/Drupal)
  - [cloudWays-blog: Configure virtual-host on W10 for(4) WP](https://www.cloudways.com/blog/configure-virtual-host-on-windows-10-for-wordpress/)
  - [WP.org-make: Installing XAMPP(a se vedea mai departe instalarea WP)](https://make.wordpress.org/core/handbook/tutorials/installing-wordpress-locally/installing-xampp/)
+ - [thesolving/server-room: How to install XAMPP on your PC and run your own WebServer ](https://www.thesolving.com/server-room/how-to-install-xampp-on-your-pc-and-run-your-own-webserver/)
