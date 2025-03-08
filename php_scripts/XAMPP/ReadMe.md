@@ -1,6 +1,6 @@
-Salut
+Salut!
 
-Aici o sa plasez cateva *link*-uri legate de **XAMPP**(*localhost*) instalat pe ***Windows 10/11***.
+Aici o sa plasez cateva *link*-uri legate de [**XAMPP**](https://www.apachefriends.org/download.html)(*localhost*) instalat pe ***Windows 10/11***.
 
  - [GH: HTTPS on XAMPP](https://gist.github.com/adnan360/ad2b1cfc44114ac6f91fbb668c76798d)
  - [toWell: SSL using XAMPP - multiple hostnames](https://jtowell.com.au/ssl-localhost-xampp-windows-multiple-host-names/)
