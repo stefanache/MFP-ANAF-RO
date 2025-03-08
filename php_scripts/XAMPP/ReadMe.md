@@ -12,3 +12,4 @@ Aici o sa plasez cateva *link*-uri legate de [**XAMPP**](https://www.apachefrien
  - [toWell: SSL using XAMPP - multiple hostnames](https://jtowell.com.au/ssl-localhost-xampp-windows-multiple-host-names/)
  - [Medium-divyesh__chotaliya: XAMPP - PhP versions management](https://medium.com/@divyesh__chotaliya/effortlessly-switching-xampp-php-versions-on-windows-d76b8e5237e7)
  - [packagist.org: XAMPP PhP-switcher of versions](https://packagist.org/packages/jackiedo/xampp-php-switcher)
+ - [teamTreeHouse: using PhPmailer in W10/11-XAMPP with SMTP to send email](https://teamtreehouse.com/community/using-phpmailer-in-windows-xampp-with-smtp-to-send-email)
