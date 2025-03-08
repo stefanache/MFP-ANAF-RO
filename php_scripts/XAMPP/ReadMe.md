@@ -29,6 +29,7 @@ Aici o sa plasez cateva *link*-uri legate de [**XAMPP**](https://www.apachefrien
  - [teamTreeHouse-community: using PhPmailer in W10/11-XAMPP with SMTP to send email](https://teamtreehouse.com/community/using-phpmailer-in-windows-xampp-with-smtp-to-send-email) or
  - [teamtreehouse-blog: sending-email-with-PhPmailer-and-SMTP](https://blog.teamtreehouse.com/sending-email-with-phpmailer-and-smtp?_gl=1*1elkg0l*_gcl_au*MTk0MjUyMjY1OS4xNzM5MjA2ODkw)
  - [GH: PHPMailer](https://github.com/PHPMailer/PHPMailer)
+ - [shiraj-blog 2010: How to PhP send eMail and XAMPP on Windows](https://blog.shiraj.com/2010/09/how-to-php-sendmail-and-xampp-on-windows/)
  - [eitca.org-web-development: How can you create and run a PHP file using XAMPP](https://eitca.org/web-development/eitc-wd-pmsf-php-and-mysql-fundamentals/getting-started-with-php/installing-php-xampp/examination-review-installing-php-xampp/how-can-you-create-and-run-a-php-file-using-xampp/)
  - [backdropcms.org-news: backDrop CMS using XAMPP under W10](https://backdropcms.org/news/backdrop-cms-xampp-windows-10)
  - [i-doit: i-doIt via XAMPP/Windows](https://kb.i-doit.com/en/installation/manual-installation/microsoft-windows-server/i-doit-via-xampp.html); [wiki: i-doit](https://de.wikipedia.org/wiki/I-doit)
