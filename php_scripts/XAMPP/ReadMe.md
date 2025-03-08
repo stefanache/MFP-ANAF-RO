@@ -59,3 +59,4 @@ Daca doriti sa instalati **XAMPP** pe/sub **Ubuntu**(*Linux*)-**WSL** sau urmari
  - [dev.to-paraspl01t: First impressions of using XAMPP on Linux for(4) PhP-development](https://dev.to/paraspl01t/first-impressions-of-using-xampp-on-linux-for-php-development-5h0g)
  - [fPDF](http://www.fpdf.org/)
  - [tcPDF](https://tcpdf.org/)
+ - [w3Schools: PhP](https://www.w3schools.com/php/php_intro.asp)
