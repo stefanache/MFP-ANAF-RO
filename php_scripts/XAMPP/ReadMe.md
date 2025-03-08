@@ -4,6 +4,7 @@ Aici o sa plasez cateva *link*-uri legate de [**XAMPP**](https://www.apachefrien
 
  - [careyou.ncu.edu.tw: XAMPP/W10 - FAQ](https://careyou.ncu.edu.tw/dashboard/faq.html)
  - [edb.gov.hk: XAMPP](https://www.edb.gov.hk/attachment/en/curriculum-development/kla/technology-edu/resources/computer-edu/2B%20-%20XAMPP%202.pdf)
+ - [tutorials24x7-PhP: How to install XAMM on W10/W11](https://www.tutorials24x7.com/php/how-to-install-xampp-on-windows)
  - [GH-PhPearth-doc:XAMPP install on W10/11](https://github.com/phpearth/docs/blob/master/_install/windows/xampp.md)
  - [geeksforgeeks.org: XAMPP install on W10/11](https://www.geeksforgeeks.org/how-to-install-xampp-on-windows/)
  - [apachefriends.org: Bitnami-WordPress(WP) for(4) XAMPP](https://www.apachefriends.org/bitnami_for_xampp.html)
