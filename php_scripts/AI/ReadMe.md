@@ -11,7 +11,7 @@ Aici o sa postez cateva link-uri legate de AI unde se foloseste si PhP-ul:
  - [GH-PhP-searchByTopic: ollama](https://github.com/topics/ollama?l=php&o=desc&s=stars)
  - [GH-ArdaGnsrn-PhP: Ollama-PhP](https://github.com/ArdaGnsrn/ollama-php)
  - [GH-evowareio-PhP: Ollama-PhP](https://github.com/evowareio/ollama-php)
- - [GH-tredmann: PhP-Ollama](https://github.com/tredmann/php-ollama)
+ - [GH-tredmann-PhP: PhP-Ollama](https://github.com/tredmann/php-ollama)
  - [GH-iamgmujtaba-PhP: llama3.2-webUI](https://github.com/iamgmujtaba/llama3.2-webUI)
  - [GH-ezimuel-PhP: PhP-LLM-examples](https://github.com/ezimuel/php-llm-examples) - based on [GH:/LLPhant-PhP: ](https://github.com/LLPhant/LLPhant)
  - [GH-PhP_CLI: Ollama](https://github.com/php-client/ollama)
