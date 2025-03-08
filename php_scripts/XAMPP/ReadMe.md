@@ -6,6 +6,7 @@ Aici o sa plasez cateva *link*-uri legate de [**XAMPP**](https://www.apachefrien
 
  - [xampp-upToDown: windows XAMPP versions](https://xampp.en.uptodown.com/windows/versions); [apachefriends.org: XAMPP download](https://www.apachefriends.org/de/download.html)
  - [WK: XAMPP](https://en.wikipedia.org/wiki/XAMPP)
+ - [apachefriends.org: XAMPP FAQ for Windows](https://www.apachefriends.org/de/faq_windows.html)
  - [edureka.co-blog: How to run a Php program in XAMPP](https://www.edureka.co/blog/how-to-run-a-php-program-in-xampp/)
  - [localhost.me: PhPMyAdmin for(4) MySQL(necesita PhP... si deci trebuie in prealabil pornit WebServer-ul Apache!)](https://locallhost.me/phpmyadmin)
  - [GH-devtut: Installing a PhP environment on Windows](https://devtut.github.io/php/installing-a-php-environment-on-windows.html)
