@@ -31,4 +31,4 @@ Aici o sa plasez cateva *link*-uri legate de [**XAMPP**](https://www.apachefrien
  - [GH: PHPMailer](https://github.com/PHPMailer/PHPMailer)
  - [eitca.org-web-development: How can you create and run a PHP file using XAMPP](https://eitca.org/web-development/eitc-wd-pmsf-php-and-mysql-fundamentals/getting-started-with-php/installing-php-xampp/examination-review-installing-php-xampp/how-can-you-create-and-run-a-php-file-using-xampp/)
  - [backdropcms.org-news: backDrop CMS using XAMPP under W10](https://backdropcms.org/news/backdrop-cms-xampp-windows-10)
- - [i-doit: i-doIt via XAMPP/Windos](https://kb.i-doit.com/en/installation/manual-installation/microsoft-windows-server/i-doit-via-xampp.html) [wiki: i-doit](https://de.wikipedia.org/wiki/I-doit)
+ - [i-doit: i-doIt via XAMPP/Windows](https://kb.i-doit.com/en/installation/manual-installation/microsoft-windows-server/i-doit-via-xampp.html) [wiki: i-doit](https://de.wikipedia.org/wiki/I-doit)
