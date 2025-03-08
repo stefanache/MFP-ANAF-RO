@@ -73,7 +73,8 @@ Daca doriti sa instalati **XAMPP** pe/sub **Ubuntu**(*Linux*)-**WSL** sau urmari
  - [WK: DB download](https://en.wikipedia.org/wiki/Wikipedia:Database_download)
  - [locall.host](https://locall.host/)
  - [xibo.org.uk: ZMQ installing on Windows(PhP 5.6.40,x64,TS,VC9-12,VC14-15,php_zmq.dll as ext,libzmq.dll...)](https://community.xibo.org.uk/uploads/short-url/4l7E1Vjz7znXEWKnu8U16OHeHnR.pdf); [xibo.org.uk-community: How to install ZMQ on a Windows system](https://community.xibo.org.uk/t/how-to-install-zeromq-on-a-windows-system/19575)
- - [xibo.org.uk-community: Help ZMQ Configuration for Xibo V4 - XAMPP Server](https://community.xibo.org.uk/t/help-zmq-configuration-for-xibo-v4-xampp-server/30391); [WK: Xibo(CMS)](https://en.wikipedia.org/wiki/Xibo); [xibosignage: Xibo manual](https://xibosignage.com/manual/en/index);
+ - [xibo.org.uk-community: Help ZMQ Configuration for Xibo V4 - XAMPP Server](https://community.xibo.org.uk/t/help-zmq-configuration-for-xibo-v4-xampp-server/30391);
+   <br/>[WK: Xibo(CMS)](https://en.wikipedia.org/wiki/Xibo); [xibosignage: Xibo manual](https://xibosignage.com/manual/en/index);
  - [xibo.org.uk-community: Installing PhP ZMQ(ZeroMQ) on XAMPP with PhP5.6 as a service](https://community.xibo.org.uk/t/installing-php-zmq-zeromq-on-xampp-with-php-5-6-as-a-service/9478); [WK: ZMQ](https://en.wikipedia.org/wiki/ZeroMQ)
  - [stackOverflow-Questions: Adding the ZeroMQ-PhP-extension to XAMPP on W10 and PhP7.1.7](https://stackoverflow.com/questions/40821137/adding-the-zeromq-php-extension-to-xampp-on-windows-10-and-php7))
  - [GH-ZeroMQ: PhP-ZMQ](https://github.com/zeromq/php-zmq)
