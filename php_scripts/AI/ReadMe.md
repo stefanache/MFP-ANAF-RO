@@ -19,4 +19,5 @@ Aici o sa postez cateva [link](https://stackoverflow.com/questions/33080068/runn
    <br/>**UdiaNixGPT** este un site web bazat pe Laravel, cu o pagină de chat care se integrează cu **llama3** prin API-ul **Ollama**.
    <br/>Acest proiect își propune să ofere o experiență de integrare perfectă pentru ca utilizatorii să interacționeze cu capabilitățile AI avansate oferite de LLM-ul **llama3**(odferit de catre serverul local de LLM-uri: **Ollama**).
  - [GH-Better-Call-Jason-PhP: LlaraveLlama](https://github.com/Better-Call-Jason/LlaraveLlama)
+ - [GH-awiones-PhP: Titan-O-](https://github.com/awiones/Titan-O-)
  - [...](https://github.com/PrivateDennis/InfinityGame)
