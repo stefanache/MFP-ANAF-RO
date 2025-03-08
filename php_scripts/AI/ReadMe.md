@@ -12,7 +12,7 @@ Aici o sa postez cateva [link](https://stackoverflow.com/questions/33080068/runn
  - [GH-ArdaGnsrn-PhP: Ollama-PhP](https://github.com/ArdaGnsrn/ollama-php)
  - [GH-evowareio-PhP: Ollama-PhP](https://github.com/evowareio/ollama-php)
  - [GH-tredmann-PhP: PhP-Ollama](https://github.com/tredmann/php-ollama)
- - [GH-Mateodioev-PhP: Ollama-Bot](https://github.com/Mateodioev/ollama-bot)
+ - [GH-Mateodioev-PhP: Ollama-Bot](https://github.com/Mateodioev/ollama-bot) - PHP-CLI: Telegram-bot to interact with Ollama models(LLMs)
  - [GH-iamgmujtaba-PhP: llama3.2-webUI](https://github.com/iamgmujtaba/llama3.2-webUI)
  - [GH-ezimuel-PhP: PhP-LLM-examples](https://github.com/ezimuel/php-llm-examples) - based on [GH:/LLPhant-PhP: ](https://github.com/LLPhant/LLPhant)
  - [GH-PhP_CLI: Ollama](https://github.com/php-client/ollama)
