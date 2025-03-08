@@ -1,11 +1,12 @@
 **Salut**!
 
-Aici o sa plasez cateva *link*-uri legate de [**XAMPP**](https://www.apachefriends.org/download.html)([*localhost*](https://www.apachefriends.org/faq_windows.html)) instalat pe/sub [***Windows 10/11(W10/W11)***](https://php101.net/deploy/webserver-with-xampp-on-windows/).
+Aici o sa plasez cateva *link*-uri legate de [**XAMPP**](https://www.apachefriends.org/download.html)([*localhost*](https://www.apachefriends.org/faq_windows.html)) instalat pe/sub [***Windows 10/11(W10 or/and W11)***](https://php101.net/deploy/webserver-with-xampp-on-windows/).
 
 ***Nota***: Nu toate tutorialele sunt actuale/recente dar pot constitui un punct de plecare(tag/tinta de cautare articole recente utilizand motorul de cautare **Google**!)<br/> De cele mai multe ori puteti gasi ceea ce cautati in alte articole/subiecte consultand Table-Content(cuprinsul)-ul aferent acelui site/articol...!
 
  - [xampp-upToDown: windows XAMPP versions](https://xampp.en.uptodown.com/windows/versions)
  - [WK: XAMPP](https://en.wikipedia.org/wiki/XAMPP)
+ - [windowsforum-threads: How to download and install XAMPP on W11  a step-by-step guide](https://windowsforum.com/threads/how-to-download-and-install-xampp-on-windows-11-a-step-by-step-guide.349859/)
  - [softonic: XAMPP on Windows](https://xampp-windows.en.softonic.com/)
  - [linkedin-pulse - step - DataIns echnology LLC: How run PhP file using XAMPP](https://www.linkedin.com/pulse/how-run-php-file-using-xampp-step-data-ins-technology-llc/)
  - [careyou.ncu.edu.tw: XAMPP/W10 - FAQ](https://careyou.ncu.edu.tw/dashboard/faq.html)
