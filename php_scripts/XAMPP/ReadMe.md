@@ -54,6 +54,7 @@ Aici o sa plasez cateva *link*-uri legate de [**XAMPP**](https://www.apachefrien
  - [thesolving/server-room: How to install XAMPP on your PC and run your own WebServer ](https://www.thesolving.com/server-room/how-to-install-xampp-on-your-pc-and-run-your-own-webserver/)
  - [scriptcase.net-portal: Installing ScriptCase in XAMPP with PhP8.1 Windows](https://help.scriptcase.net/portal/en/kb/articles/installing-scriptcase-in-xampp-with-php-81-windows); [WK: ScriptCase](https://en.wikipedia.org/wiki/Scriptcase)
 
-Daca doriti sa instalati **XAMPP** pe/sub **Ubuntu**(*Linux*)-**WSL** atunci puteti citi si...
+Daca doriti sa instalati **XAMPP** pe/sub **Ubuntu**(*Linux*)-**WSL** sau urmariti anumite subiecte legate de PhP si implicit de XAMPP, atunci puteti citi si...
 
  - [dev.to-paraspl01t: First impressions of using XAMPP on Linux for(4) PhP-development](https://dev.to/paraspl01t/first-impressions-of-using-xampp-on-linux-for-php-development-5h0g)
+ - [fPDF](http://www.fpdf.org/)
