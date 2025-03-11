@@ -45,7 +45,7 @@ bc.postMessage("This is a test message.");</code><br/>
 bc.onmessage = (event) => {
                             console.log(event);
                           };</code><br/>br/>
-<br/>*Nota*: <br/>dupa cum se observa acest handler cand primeste un eveniment(event) acesta il/se afiseaza(efectueaza/face un *log*/se *logs*) in consola(console) browser-ului.<br/>
+<br/>*Nota*: <br/>dupa cum se poate lesne/usor observa acest handler cand primeste un eveniment(event) acesta il/se afiseaza(efectueaza/face un *log*/se *logs*) in consola(console) browser-ului.<br/>
    - **Deconectarea unui canal**
 
  - ***Concluzie***
