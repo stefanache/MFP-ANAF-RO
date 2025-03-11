@@ -42,10 +42,10 @@ bc.postMessage("This is a test message.");</code><br/>
    - **Primirea unui mesaj**
      <br/>Când un mesaj este postat, un eveniment [message](https://developer.mozilla.org/en-US/docs/Web/API/BroadcastChannel/message_event)  este trimis fiecărui obiect [BroadcastChannel](https://developer.mozilla.org/en-US/docs/Web/API/BroadcastChannel)  conectat la acest canal(*bc*).
      <br/>O funcție poate fi rulată pentru acest eveniment folosind handler-ul(manipulatorul)  de evenimente intitulat [onmessage](https://developer.mozilla.org/en-US/docs/Web/API/BroadcastChannel/message_event):
-     <br/><br/><code>// A handler that only logs the event to the console:
+     <br/><br/><pre><code>// A handler that only logs the event to the console:
 bc.onmessage = (event) => {
                             console.log(event);
-                          };</code><br/>br/>
+                          };</code></pre><br/>br/>
 <br/>*Nota*: <br/>dupa cum se poate lesne/usor observa acest handler cand primeste un eveniment(event) acesta il/se afiseaza(efectueaza/face un *log*/se *logs*) in consola(console) browser-ului.<br/>
    - **Deconectarea unui canal**
 
