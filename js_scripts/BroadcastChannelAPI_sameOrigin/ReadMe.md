@@ -1,6 +1,6 @@
 Salut,
 
-Mi-a atras in mod deosebit acest [**mozilla.org** - *developer* - Web API: *articol*](https://developer.mozilla.org/en-US/docs/Web/API/Broadcast_Channel_API) astfel incat am decis sa deschid acest nou post intitulat ["***Broadcast Channel API***"](https://developer.mozilla.org/en-US/docs/Web/API/Broadcast_Channel_API).
+Mi-a atras in mod deosebit un [**mozilla.org** - *developer* - Web API: *articol*](https://developer.mozilla.org/en-US/docs/Web/API/Broadcast_Channel_API) astfel incat am decis sa deschid acest nou post intitulat ["***Broadcast Channel API***"](https://developer.mozilla.org/en-US/docs/Web/API/Broadcast_Channel_API).
 
 Api-ul permite comunicarea(chatting-ul) intre fisiere-locale *.html*(care poate include desigur portiuni de cod/snippet JS) aflate local pe ace[l]asi PC/desktop/tableta/dispozitive-mobile.
 <br>Acest api/protocol seamana foarte mult cu/implementeaza protocolul(client-server) **MQTT**(sau cu protocolul(client-server) ***WebSocket*** care sta la baza **MQTT**), doar ca totul(protocolul client-server) se petrece pe acelasi device(PC/desktop/tabela/mobil) deci pe aceiasi(*same*) origine(*origin*).
