@@ -18,7 +18,7 @@ bidirecțională între toți.
 
  - ***Interfață Broadcast Channel***
 
-   - **Crearea sau alăturarea unui(atasarea la un) canal**
+   - **Crearea sau alăturarea unui(atasarea/alipirea/conectarea la un) canal**
      <br/>Un client se alătură unui canal de difuzare creând un [BroadcastChannel](https://developer.mozilla.org/en-US/docs/Web/API/BroadcastChannel) obiect.
      <br/>[Constructorul](https://developer.mozilla.org/en-US/docs/Web/API/BroadcastChannel/BroadcastChannel) său preia un singur parametru: numele canalului(ex: "*test_channel*").
      <br/>Dacă acest cod-JS este primul care se conectează la acel nume("*test_channel*") de canal de difuzare, canalul de bază este creat(in acest caz: *bc*).
