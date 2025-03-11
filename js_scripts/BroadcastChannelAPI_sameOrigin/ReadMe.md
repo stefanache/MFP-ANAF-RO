@@ -1,4 +1,73 @@
+Salut,
 
+Mi-a atras in mod deosebit, un [**mozilla.org** - *developer* - Web API: *articol*](https://developer.mozilla.org/en-US/docs/Web/API/Broadcast_Channel_API), astfel incat am decis, sa deschid acest nou post, intitulat ["***Broadcast Channel API***"](https://developer.mozilla.org/en-US/docs/Web/API/Broadcast_Channel_API).
+
+Api-ul permite comunicarea(chatting-ul) intre fisiere-locale *.html*(care poate include desigur portiuni de cod/snippet JS) aflate local pe ace[l]asi(local nu remote/la distanta) PC/desktop/tableta/dispozitive-mobile.
+<br>Acest api/protocol seamana foarte mult cu/implementeaza protocolul(client-server) **MQTT**(sau cu protocolul(client-server) ***WebSocket*** care sta la baza **MQTT**), doar ca totul(protocolul client-server) se petrece pe acelasi device local(PC/desktop/tabela/mobil) deci pe aceiasi(*same*) origine(*origin*) locala.
+<br/>Noutatea consta in faptul ca, dezvoltatorul nu trebuie/nu este necesar sa se preocupe de implementarea si/sau folosirea unui server anume sau de anumite operatii neintuitive, precum serializarea datelor in vederea transportului ori alte astfel de micro-operatiuni de tipul negocierii legaturii intre participantii canalului de comunicatie, operatiuni care sunt ascunse acestuia(utilizatorului/dezvoltatorului), care in mare masura este/se va preocupa[t] doar de utilizarea/fructificarea acestui mecanism(ascuns), permitandu-i acestuia sa se poata concentra mai mult asupra aplicatiei/proiectului sale/sau pe care doreste sa-l finalizeze/proiecteze/dezvolte.
+
+ - ***API-ul Broadcast Channel***
+
+API -ul Broadcast Channel permite comunicarea de bază între [contexte de navigare](https://developer.mozilla.org/en-US/docs/Glossary/Browsing_context) (adică ferestre , file , cadre sau iframes ) și lucrători(workers) de pe aceeași [origine](https://developer.mozilla.org/en-US/docs/Glossary/Origin).
+
+***Notă***: 
+<br/>Pentru a fi mai exact, comunicarea este permisă între contextele de navigare folosind aceeași [partiție de stocare](https://developer.mozilla.org/en-US/docs/Web/Privacy/Guides/State_Partitioning). 
+<br/>Spațiul de stocare este mai întâi împărțit în funcție de site-urile de nivel superior, deci, de exemplu, dacă aveți o pagină deschisă **a.com** care încorporează un iframe din **b.com**, și o altă pagină deschisă către **b.com**, atunci iframe-ul nu poate comunica cu a doua pagină, deși din punct de vedere tehnic sunt de aceeași origine. <br/>Cu toate acestea, dacă prima pagină este și pe **b.com**, atunci iframe-ul poate comunica cu a doua pagină.
+
+Prin crearea unui [***BroadcastChannelobiect***](https://developer.mozilla.org/en-US/docs/Web/API/BroadcastChannel), puteți primi orice mesaje postate pe acesta. 
+<br/>Nu trebuie să mențineți o referință la cadrele(frames) sau lucrătorii(workers) cu care doriți să comunicați: aceștia se pot „abona” la un anumit canal construindu-și propriul canal [***BroadcastChannel***](https://developer.mozilla.org/en-US/docs/Web/API/BroadcastChannel) cu același nume și au o comunicare
+bidirecțională între toți.
+
+<br/><a href="https://developer.mozilla.org/en-US/docs/Web/API/Broadcast_Channel_API" width="95%" height="auto"><img src="https://developer.mozilla.org/en-US/docs/Web/API/Broadcast_Channel_API/broadcastchannel.png">BroadcastChannel<img></a><br/>
+
+ - ***Interfață Broadcast Channel***
+
+   - **Crearea sau alăturarea unui(atasarea/alipirea/conectarea la un) canal**
+     <br/>Un client se alătură unui canal de difuzare creând un [BroadcastChannel](https://developer.mozilla.org/en-US/docs/Web/API/BroadcastChannel) obiect.
+     <br/>[Constructorul](https://developer.mozilla.org/en-US/docs/Web/API/BroadcastChannel/BroadcastChannel) său preia un singur parametru: numele canalului(ex: "*test_channel*").
+     <br/>Dacă acest cod-JS este primul care se conectează la acel nume("*test_channel*") de canal de difuzare, canalul de bază este creat(in acest caz: *bc*).
+     <br/><pre><code>// Connection to a broadcast channel
+const bc = new BroadcastChannel("test_channel");</code></pre>
+     <br/>Primul snippet-JS care executa instructiunea de mai sus va *crea*(in mod automat) canalul si se si va *atasa*(in mod automat) la acesta iar urmatoarele snippet-uri care ruleaza fix aceiasi instructiune, doar(fara a mai crea unul cu acelasi nume:"*test_channel*") se vor *atasa*(efectiv) la acest canal(*bc*) anterior/deja creat/existent.
+     <br/>Cu alte cuvinte aceiasi linie-de-cod(*const bc = new BroadcastChannel("test_channel");*), mai intai/initial *creaza* si *ataseaza* iar apoi cand...sau... ori de cate ori(repetitiv), o utilizezi(din nou/repetitiv), fix in aceiasi forma/linie de cod(*const bc = new BroadcastChannel("test_channel");*), doar *ataseaza* html-ul respectiv.<br/><br/>
+   - **Trimiterea unui mesaj**
+     <br/>Este suficient să apelați metoda [postMessage()](https://developer.mozilla.org/en-US/docs/Web/API/BroadcastChannel/postMessage) pe obiectul creat [BroadcastChannel](https://developer.mozilla.org/en-US/docs/Web/API/BroadcastChannel/BroadcastChannel), care ia ca argument orice obiect.
+     <br/>Un exemplu de mesaj șir:
+     <br/><pre><code>// Example of sending of a very simple message
+bc.postMessage("This is a test message.");</code></pre>
+<br/>Datele trimise către canal sunt serializate folosind [algoritmul de clonare structurată](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Structured_clone_algorithm).
+<br/>Aceasta înseamnă că puteți trimite o mare varietate de obiecte de date în siguranță, fără a fi nevoie să le serializați singur.<br/>
+<br/>API-ul nu asociază nicio semantică mesajelor, așa că depinde de cod să știe la ce fel de mesaje să se aștepte și ce să facă cu ele.
+
+   - **Primirea unui mesaj**
+     <br/>Când un mesaj este postat, un eveniment [message](https://developer.mozilla.org/en-US/docs/Web/API/BroadcastChannel/message_event)  este trimis fiecărui obiect [BroadcastChannel](https://developer.mozilla.org/en-US/docs/Web/API/BroadcastChannel)  conectat la acest canal(*bc*).
+     <br/>O funcție poate fi rulată pentru acest eveniment folosind handler-ul(manipulatorul)  de evenimente intitulat [onmessage](https://developer.mozilla.org/en-US/docs/Web/API/BroadcastChannel/message_event):
+     <br/><pre><code>// A handler that only logs the event to the console:
+bc.onmessage = (event) => {
+                              console.log(event);
+                          };</code></pre><br/>
+<br/>*Nota*: <br/>dupa cum se poate lesne/usor observa acest handler cand primeste un eveniment(event) acesta il/se afiseaza(efectueaza/face un *log*/se *logs*) in consola(console) browser-ului.<br/>
+   - **Deconectarea unui canal**
+   <br/>Pentru a părăsi un canal, apelați close()metoda pe obiect.
+   <br/>Acest lucru deconectează [obiectul]https://developer.mozilla.org/en-US/docs/Web/API/BroadcastChannel/BroadcastChannel(*bc*) de la [canalul](https://developer.mozilla.org/en-US/docs/Web/API/BroadcastChannel/BroadcastChannel) de bază("*test_channel*"), permițând colectarea gunoiului(memoria referita de acest obiect/canal care din acest moment devine inutilizabila si pe cale de consecinta/deci inutila, fapt ce determina colectorul de gunoi, desemnat de catre managerul/browserul sau, sa-si faca "treaba"/sa proceseze task-ul incredintat si sa colecteze/adune "gunoiul" rezultat).
+   <br/><pre><code>// Disconnect the channel
+bc.close();
+</code></pre><br/>
+   
+ - ***Concluzie***
+   <br/>Interfața autonomă a API-ului Broadcast Channel permite comunicarea în context încrucișat.
+   <br/>Poate fi folosit pentru a detecta acțiunile utilizatorului în alte fisiere(.html) din aceeași origine, cum ar fi... atunci când utilizatorul se conectează sau se deconectează.<br/>
+   <br/>Protocolul de mesagerie nu este definit și diferitele contexte de navigare trebuie să-l implementeze singure; nu există nicio negociere și nici o cerință din caietul de sarcini.
+
+ - ***Interfete***
+ <br/>[BroadcastChannel](https://developer.mozilla.org/en-US/docs/Web/API/BroadcastChannel)<br/>
+  <br/>Reprezintă un canal numit la care se poate abona orice [context de navigare](https://developer.mozilla.org/en-US/docs/Glossary/Browsing_context) dintr-o anumită [origine](https://developer.mozilla.org/en-US/docs/Glossary/Origin) .<br/>br/> 
+ - ***Specificatii***
+   - **Caietul de sarcini**
+     <br/>[HTML # broadcasting-to-altre-browsing-contextes])https://html.spec.whatwg.org/multipage/web-messaging.html#broadcasting-to-other-browsing-contexts
+ - ***Compatibilitate browser***
+ - <br/>[Raportați probleme cu aceste date de compatibilitate pe GitHub](https://github.com/mdn/browser-compat-data/issues/new?mdn-url=https%3A%2F%2Fdeveloper.mozilla.org%2Fen-US%2Fdocs%2FWeb%2FAPI%2FBroadcast_Channel_API&metadata=%3C%21--+Do+not+make+changes+below+this+line+--%3E%0A%3Cdetails%3E%0A%3Csummary%3EMDN+page+report+details%3C%2Fsummary%3E%0A%0A*+Query%3A+%60api.BroadcastChannel%60%0A*+Report+started%3A+2025-03-11T09%3A38%3A14.006Z%0A%0A%3C%2Fdetails%3E&title=api.BroadcastChannel+-+%3CSUMMARIZE+THE+PROBLEM%3E&template=data-problem.yml)<br/>
+ <figure class="table-container" style"
 @use "sass:meta";
 @use "~@mdn/minimalist/sass/mixins/utils" as *;
 @use "../../../ui/vars" as *;
@@ -451,79 +520,7 @@ dl.bc-notes-list {
       padding: 0.5rem 0.25rem;
     }
   }
-}
-
-
-Salut,
-
-Mi-a atras in mod deosebit, un [**mozilla.org** - *developer* - Web API: *articol*](https://developer.mozilla.org/en-US/docs/Web/API/Broadcast_Channel_API), astfel incat am decis, sa deschid acest nou post, intitulat ["***Broadcast Channel API***"](https://developer.mozilla.org/en-US/docs/Web/API/Broadcast_Channel_API).
-
-Api-ul permite comunicarea(chatting-ul) intre fisiere-locale *.html*(care poate include desigur portiuni de cod/snippet JS) aflate local pe ace[l]asi(local nu remote/la distanta) PC/desktop/tableta/dispozitive-mobile.
-<br>Acest api/protocol seamana foarte mult cu/implementeaza protocolul(client-server) **MQTT**(sau cu protocolul(client-server) ***WebSocket*** care sta la baza **MQTT**), doar ca totul(protocolul client-server) se petrece pe acelasi device local(PC/desktop/tabela/mobil) deci pe aceiasi(*same*) origine(*origin*) locala.
-<br/>Noutatea consta in faptul ca, dezvoltatorul nu trebuie/nu este necesar sa se preocupe de implementarea si/sau folosirea unui server anume sau de anumite operatii neintuitive, precum serializarea datelor in vederea transportului ori alte astfel de micro-operatiuni de tipul negocierii legaturii intre participantii canalului de comunicatie, operatiuni care sunt ascunse acestuia(utilizatorului/dezvoltatorului), care in mare masura este/se va preocupa[t] doar de utilizarea/fructificarea acestui mecanism(ascuns), permitandu-i acestuia sa se poata concentra mai mult asupra aplicatiei/proiectului sale/sau pe care doreste sa-l finalizeze/proiecteze/dezvolte.
-
- - ***API-ul Broadcast Channel***
-
-API -ul Broadcast Channel permite comunicarea de bază între [contexte de navigare](https://developer.mozilla.org/en-US/docs/Glossary/Browsing_context) (adică ferestre , file , cadre sau iframes ) și lucrători(workers) de pe aceeași [origine](https://developer.mozilla.org/en-US/docs/Glossary/Origin).
-
-***Notă***: 
-<br/>Pentru a fi mai exact, comunicarea este permisă între contextele de navigare folosind aceeași [partiție de stocare](https://developer.mozilla.org/en-US/docs/Web/Privacy/Guides/State_Partitioning). 
-<br/>Spațiul de stocare este mai întâi împărțit în funcție de site-urile de nivel superior, deci, de exemplu, dacă aveți o pagină deschisă **a.com** care încorporează un iframe din **b.com**, și o altă pagină deschisă către **b.com**, atunci iframe-ul nu poate comunica cu a doua pagină, deși din punct de vedere tehnic sunt de aceeași origine. <br/>Cu toate acestea, dacă prima pagină este și pe **b.com**, atunci iframe-ul poate comunica cu a doua pagină.
-
-Prin crearea unui [***BroadcastChannelobiect***](https://developer.mozilla.org/en-US/docs/Web/API/BroadcastChannel), puteți primi orice mesaje postate pe acesta. 
-<br/>Nu trebuie să mențineți o referință la cadrele(frames) sau lucrătorii(workers) cu care doriți să comunicați: aceștia se pot „abona” la un anumit canal construindu-și propriul canal [***BroadcastChannel***](https://developer.mozilla.org/en-US/docs/Web/API/BroadcastChannel) cu același nume și au o comunicare
-bidirecțională între toți.
-
-<br/><a href="https://developer.mozilla.org/en-US/docs/Web/API/Broadcast_Channel_API" width="95%" height="auto"><img src="https://developer.mozilla.org/en-US/docs/Web/API/Broadcast_Channel_API/broadcastchannel.png">BroadcastChannel<img></a><br/>
-
- - ***Interfață Broadcast Channel***
-
-   - **Crearea sau alăturarea unui(atasarea/alipirea/conectarea la un) canal**
-     <br/>Un client se alătură unui canal de difuzare creând un [BroadcastChannel](https://developer.mozilla.org/en-US/docs/Web/API/BroadcastChannel) obiect.
-     <br/>[Constructorul](https://developer.mozilla.org/en-US/docs/Web/API/BroadcastChannel/BroadcastChannel) său preia un singur parametru: numele canalului(ex: "*test_channel*").
-     <br/>Dacă acest cod-JS este primul care se conectează la acel nume("*test_channel*") de canal de difuzare, canalul de bază este creat(in acest caz: *bc*).
-     <br/><pre><code>// Connection to a broadcast channel
-const bc = new BroadcastChannel("test_channel");</code></pre>
-     <br/>Primul snippet-JS care executa instructiunea de mai sus va *crea*(in mod automat) canalul si se si va *atasa*(in mod automat) la acesta iar urmatoarele snippet-uri care ruleaza fix aceiasi instructiune, doar(fara a mai crea unul cu acelasi nume:"*test_channel*") se vor *atasa*(efectiv) la acest canal(*bc*) anterior/deja creat/existent.
-     <br/>Cu alte cuvinte aceiasi linie-de-cod(*const bc = new BroadcastChannel("test_channel");*), mai intai/initial *creaza* si *ataseaza* iar apoi cand...sau... ori de cate ori(repetitiv), o utilizezi(din nou/repetitiv), fix in aceiasi forma/linie de cod(*const bc = new BroadcastChannel("test_channel");*), doar *ataseaza* html-ul respectiv.<br/><br/>
-   - **Trimiterea unui mesaj**
-     <br/>Este suficient să apelați metoda [postMessage()](https://developer.mozilla.org/en-US/docs/Web/API/BroadcastChannel/postMessage) pe obiectul creat [BroadcastChannel](https://developer.mozilla.org/en-US/docs/Web/API/BroadcastChannel/BroadcastChannel), care ia ca argument orice obiect.
-     <br/>Un exemplu de mesaj șir:
-     <br/><pre><code>// Example of sending of a very simple message
-bc.postMessage("This is a test message.");</code></pre>
-<br/>Datele trimise către canal sunt serializate folosind [algoritmul de clonare structurată](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Structured_clone_algorithm).
-<br/>Aceasta înseamnă că puteți trimite o mare varietate de obiecte de date în siguranță, fără a fi nevoie să le serializați singur.<br/>
-<br/>API-ul nu asociază nicio semantică mesajelor, așa că depinde de cod să știe la ce fel de mesaje să se aștepte și ce să facă cu ele.
-
-   - **Primirea unui mesaj**
-     <br/>Când un mesaj este postat, un eveniment [message](https://developer.mozilla.org/en-US/docs/Web/API/BroadcastChannel/message_event)  este trimis fiecărui obiect [BroadcastChannel](https://developer.mozilla.org/en-US/docs/Web/API/BroadcastChannel)  conectat la acest canal(*bc*).
-     <br/>O funcție poate fi rulată pentru acest eveniment folosind handler-ul(manipulatorul)  de evenimente intitulat [onmessage](https://developer.mozilla.org/en-US/docs/Web/API/BroadcastChannel/message_event):
-     <br/><pre><code>// A handler that only logs the event to the console:
-bc.onmessage = (event) => {
-                              console.log(event);
-                          };</code></pre><br/>
-<br/>*Nota*: <br/>dupa cum se poate lesne/usor observa acest handler cand primeste un eveniment(event) acesta il/se afiseaza(efectueaza/face un *log*/se *logs*) in consola(console) browser-ului.<br/>
-   - **Deconectarea unui canal**
-   <br/>Pentru a părăsi un canal, apelați close()metoda pe obiect.
-   <br/>Acest lucru deconectează [obiectul]https://developer.mozilla.org/en-US/docs/Web/API/BroadcastChannel/BroadcastChannel(*bc*) de la [canalul](https://developer.mozilla.org/en-US/docs/Web/API/BroadcastChannel/BroadcastChannel) de bază("*test_channel*"), permițând colectarea gunoiului(memoria referita de acest obiect/canal care din acest moment devine inutilizabila si pe cale de consecinta/deci inutila, fapt ce determina colectorul de gunoi, desemnat de catre managerul/browserul sau, sa-si faca "treaba"/sa proceseze task-ul incredintat si sa colecteze/adune "gunoiul" rezultat).
-   <br/><pre><code>// Disconnect the channel
-bc.close();
-</code></pre><br/>
-   
- - ***Concluzie***
-   <br/>Interfața autonomă a API-ului Broadcast Channel permite comunicarea în context încrucișat.
-   <br/>Poate fi folosit pentru a detecta acțiunile utilizatorului în alte fisiere(.html) din aceeași origine, cum ar fi... atunci când utilizatorul se conectează sau se deconectează.<br/>
-   <br/>Protocolul de mesagerie nu este definit și diferitele contexte de navigare trebuie să-l implementeze singure; nu există nicio negociere și nici o cerință din caietul de sarcini.
-
- - ***Interfete***
- <br/>[BroadcastChannel](https://developer.mozilla.org/en-US/docs/Web/API/BroadcastChannel)<br/>
-  <br/>Reprezintă un canal numit la care se poate abona orice [context de navigare](https://developer.mozilla.org/en-US/docs/Glossary/Browsing_context) dintr-o anumită [origine](https://developer.mozilla.org/en-US/docs/Glossary/Origin) .<br/>br/> 
- - ***Specificatii***
-   - **Caietul de sarcini**
-     <br/>[HTML # broadcasting-to-altre-browsing-contextes])https://html.spec.whatwg.org/multipage/web-messaging.html#broadcasting-to-other-browsing-contexts
- - ***Compatibilitate browser***
- - <br/>[Raportați probleme cu aceste date de compatibilitate pe GitHub](https://github.com/mdn/browser-compat-data/issues/new?mdn-url=https%3A%2F%2Fdeveloper.mozilla.org%2Fen-US%2Fdocs%2FWeb%2FAPI%2FBroadcast_Channel_API&metadata=%3C%21--+Do+not+make+changes+below+this+line+--%3E%0A%3Cdetails%3E%0A%3Csummary%3EMDN+page+report+details%3C%2Fsummary%3E%0A%0A*+Query%3A+%60api.BroadcastChannel%60%0A*+Report+started%3A+2025-03-11T09%3A38%3A14.006Z%0A%0A%3C%2Fdetails%3E&title=api.BroadcastChannel+-+%3CSUMMARIZE+THE+PROBLEM%3E&template=data-problem.yml)<br/>
- <figure class="table-container"><figure class="table-container-inner"><table class="bc-table bc-table-web"><thead><tr class="bc-platforms"><td></td><th class="bc-platform bc-platform-desktop" colspan="5" title="desktop"><span class="icon icon-desktop"></span><span class="visually-hidden"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">desktop</font></font></span></th><th class="bc-platform bc-platform-mobile" colspan="7" title="mobil"><span class="icon icon-mobile"></span><span class="visually-hidden"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">mobil</font></font></span></th><th class="bc-platform bc-platform-server" colspan="2" title="server"><span class="icon icon-server"></span><span class="visually-hidden"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">server</font></font></span></th></tr><tr class="bc-browsers"><td></td><th class="bc-browser bc-browser-chrome"><div class="bc-head-txt-label bc-head-icon-chrome"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chrome</font></font></div><div class="bc-head-icon-symbol icon icon-chrome"></div></th><th class="bc-browser bc-browser-edge"><div class="bc-head-txt-label bc-head-icon-edge"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Margine</font></font></div><div class="bc-head-icon-symbol icon icon-edge"></div></th><th class="bc-browser bc-browser-firefox"><div class="bc-head-txt-label bc-head-icon-firefox"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Firefox</font></font></div><div class="bc-head-icon-symbol icon icon-simple-firefox"></div></th><th class="bc-browser bc-browser-opera"><div class="bc-head-txt-label bc-head-icon-opera"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Operă</font></font></div><div class="bc-head-icon-symbol icon icon-opera"></div></th><th class="bc-browser bc-browser-safari"><div class="bc-head-txt-label bc-head-icon-safari"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Safari</font></font></div><div class="bc-head-icon-symbol icon icon-safari"></div></th><th class="bc-browser bc-browser-chrome_android"><div class="bc-head-txt-label bc-head-icon-chrome_android"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chrome Android</font></font></div><div class="bc-head-icon-symbol icon icon-chrome"></div></th><th class="bc-browser bc-browser-firefox_android"><div class="bc-head-txt-label bc-head-icon-firefox_android"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Firefox pentru Android</font></font></div><div class="bc-head-icon-symbol icon icon-simple-firefox"></div></th><th class="bc-browser bc-browser-opera_android"><div class="bc-head-txt-label bc-head-icon-opera_android"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Opera Android</font></font></div><div class="bc-head-icon-symbol icon icon-opera"></div></th><th class="bc-browser bc-browser-safari_ios"><div class="bc-head-txt-label bc-head-icon-safari_ios"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Safari pe iOS</font></font></div><div class="bc-head-icon-symbol icon icon-safari"></div></th><th class="bc-browser bc-browser-samsunginternet_android"><div class="bc-head-txt-label bc-head-icon-samsunginternet_android"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Samsung Internet</font></font></div><div class="bc-head-icon-symbol icon icon-samsunginternet"></div></th><th class="bc-browser bc-browser-webview_android"><div class="bc-head-txt-label bc-head-icon-webview_android"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">WebView Android</font></font></div><div class="bc-head-icon-symbol icon icon-webview"></div></th><th class="bc-browser bc-browser-webview_ios"><div class="bc-head-txt-label bc-head-icon-webview_ios"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">WebView pe iOS</font></font></div><div class="bc-head-icon-symbol icon icon-safari"></div></th><th class="bc-browser bc-browser-deno"><div class="bc-head-txt-label bc-head-icon-deno"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Deno</font></font></div><div class="bc-head-icon-symbol icon icon-deno"></div></th><th class="bc-browser bc-browser-nodejs"><div class="bc-head-txt-label bc-head-icon-nodejs"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Node.js</font></font></div><div class="bc-head-icon-symbol icon icon-nodejs"></div></th></tr></thead><tbody><tr><th class="bc-feature bc-feature-depth-0" scope="row"><div class="bc-table-row-header"><code>BroadcastChannel</code></div></th><td class="bc-support bc-browser-chrome bc-supports-yes bc-has-history" aria-expanded="false"><button type="button" title="Comutați istoricul"><div class="bcd-cell-text-wrapper"><div class="bcd-cell-icons"><span class="icon-wrap"><abbr class="
+}"><figure class="table-container-inner"><table class="bc-table bc-table-web"><thead><tr class="bc-platforms"><td></td><th class="bc-platform bc-platform-desktop" colspan="5" title="desktop"><span class="icon icon-desktop"></span><span class="visually-hidden"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">desktop</font></font></span></th><th class="bc-platform bc-platform-mobile" colspan="7" title="mobil"><span class="icon icon-mobile"></span><span class="visually-hidden"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">mobil</font></font></span></th><th class="bc-platform bc-platform-server" colspan="2" title="server"><span class="icon icon-server"></span><span class="visually-hidden"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">server</font></font></span></th></tr><tr class="bc-browsers"><td></td><th class="bc-browser bc-browser-chrome"><div class="bc-head-txt-label bc-head-icon-chrome"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chrome</font></font></div><div class="bc-head-icon-symbol icon icon-chrome"></div></th><th class="bc-browser bc-browser-edge"><div class="bc-head-txt-label bc-head-icon-edge"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Margine</font></font></div><div class="bc-head-icon-symbol icon icon-edge"></div></th><th class="bc-browser bc-browser-firefox"><div class="bc-head-txt-label bc-head-icon-firefox"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Firefox</font></font></div><div class="bc-head-icon-symbol icon icon-simple-firefox"></div></th><th class="bc-browser bc-browser-opera"><div class="bc-head-txt-label bc-head-icon-opera"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Operă</font></font></div><div class="bc-head-icon-symbol icon icon-opera"></div></th><th class="bc-browser bc-browser-safari"><div class="bc-head-txt-label bc-head-icon-safari"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Safari</font></font></div><div class="bc-head-icon-symbol icon icon-safari"></div></th><th class="bc-browser bc-browser-chrome_android"><div class="bc-head-txt-label bc-head-icon-chrome_android"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chrome Android</font></font></div><div class="bc-head-icon-symbol icon icon-chrome"></div></th><th class="bc-browser bc-browser-firefox_android"><div class="bc-head-txt-label bc-head-icon-firefox_android"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Firefox pentru Android</font></font></div><div class="bc-head-icon-symbol icon icon-simple-firefox"></div></th><th class="bc-browser bc-browser-opera_android"><div class="bc-head-txt-label bc-head-icon-opera_android"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Opera Android</font></font></div><div class="bc-head-icon-symbol icon icon-opera"></div></th><th class="bc-browser bc-browser-safari_ios"><div class="bc-head-txt-label bc-head-icon-safari_ios"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Safari pe iOS</font></font></div><div class="bc-head-icon-symbol icon icon-safari"></div></th><th class="bc-browser bc-browser-samsunginternet_android"><div class="bc-head-txt-label bc-head-icon-samsunginternet_android"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Samsung Internet</font></font></div><div class="bc-head-icon-symbol icon icon-samsunginternet"></div></th><th class="bc-browser bc-browser-webview_android"><div class="bc-head-txt-label bc-head-icon-webview_android"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">WebView Android</font></font></div><div class="bc-head-icon-symbol icon icon-webview"></div></th><th class="bc-browser bc-browser-webview_ios"><div class="bc-head-txt-label bc-head-icon-webview_ios"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">WebView pe iOS</font></font></div><div class="bc-head-icon-symbol icon icon-safari"></div></th><th class="bc-browser bc-browser-deno"><div class="bc-head-txt-label bc-head-icon-deno"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Deno</font></font></div><div class="bc-head-icon-symbol icon icon-deno"></div></th><th class="bc-browser bc-browser-nodejs"><div class="bc-head-txt-label bc-head-icon-nodejs"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Node.js</font></font></div><div class="bc-head-icon-symbol icon icon-nodejs"></div></th></tr></thead><tbody><tr><th class="bc-feature bc-feature-depth-0" scope="row"><div class="bc-table-row-header"><code>BroadcastChannel</code></div></th><td class="bc-support bc-browser-chrome bc-supports-yes bc-has-history" aria-expanded="false"><button type="button" title="Comutați istoricul"><div class="bcd-cell-text-wrapper"><div class="bcd-cell-icons"><span class="icon-wrap"><abbr class="
               bc-level-yes
               icon
               icon-yes" title="Chrome – Suport complet"><span class="bc-support-level"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chrome – Suport complet</font></font></span></abbr></span></div><div class="bcd-cell-text-copy"><span class="bc-browser-name"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chrome</font></font></span><span class="bc-version-label" title="Chrome 54 – Lansat 2016-10-12"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">54</font></font></span></div></div><span class="offscreen"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Comutați istoricul</font></font></span></button></td><td class="bc-support bc-browser-edge bc-supports-yes bc-has-history" aria-expanded="false"><button type="button" title="Comutați istoricul"><div class="bcd-cell-text-wrapper"><div class="bcd-cell-icons"><span class="icon-wrap"><abbr class="
