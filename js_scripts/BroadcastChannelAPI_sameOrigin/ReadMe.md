@@ -67,7 +67,7 @@ bc.close();
      <br/>[HTML # broadcasting-to-altre-browsing-contextes])https://html.spec.whatwg.org/multipage/web-messaging.html#broadcasting-to-other-browsing-contexts
  - ***Compatibilitate browser***
  - <br/>[Raportați probleme cu aceste date de compatibilitate pe GitHub](https://github.com/mdn/browser-compat-data/issues/new?mdn-url=https%3A%2F%2Fdeveloper.mozilla.org%2Fen-US%2Fdocs%2FWeb%2FAPI%2FBroadcast_Channel_API&metadata=%3C%21--+Do+not+make+changes+below+this+line+--%3E%0A%3Cdetails%3E%0A%3Csummary%3EMDN+page+report+details%3C%2Fsummary%3E%0A%0A*+Query%3A+%60api.BroadcastChannel%60%0A*+Report+started%3A+2025-03-11T09%3A38%3A14.006Z%0A%0A%3C%2Fdetails%3E&title=api.BroadcastChannel+-+%3CSUMMARIZE+THE+PROBLEM%3E&template=data-problem.yml)<br/>
- <figure class="table-container" style"
+ <figure class="table-container" style="
 @use "sass:meta";
 @use "~@mdn/minimalist/sass/mixins/utils" as *;
 @use "../../../ui/vars" as *;
