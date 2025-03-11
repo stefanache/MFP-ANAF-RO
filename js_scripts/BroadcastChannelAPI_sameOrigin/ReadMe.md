@@ -7,7 +7,7 @@ Api-ul permite comunicarea(chatting-ul) intre fisiere-locale *.html*(care poate 
 <br/>Noutatea consta in faptul ca, dezvoltatorul nu trebuie/nu este necesar sa se preocupe de implementarea si/sau folosirea unui server anume sau de anumite operatii neintuitive, precum serializarea datelor in vederea transportului ori alte astfel de micro-operatiuni de tipul negocierii legaturii intre participantii canalului de comunicatie, operatiuni care sunt ascunse acestuia(utilizatorului/dezvoltatorului), care in mare masura este/se va preocupa[t] doar de utilizarea/fructificarea acestui mecanism(ascuns), permitandu-i acestuia sa se poata concentra mai mult asupra aplicatiei/proiectului sale/sau pe care doreste sa-l finalizeze/proiecteze/dezvolte.
 
 Un [exemplu](https://www.digitalocean.com/community/tutorials/js-broadcastchannel-api) interesant pt acest api este oferit de catre **Digital-Ocean**([DO](https://stefanache.github.io/js_scripts/BroadcastChannelAPI_sameOrigin/index.html);
-<br/>Alt [exemplu](https://irekrog.github.io/broadcast-channel-api-simple-example/)(pe care desigur il puteti simplu incerca/testa este oferit de catre [GH-irekrog: broadcast-channel-api-simple-example](https://github.com/irekrog/broadcast-channel-api-simple-example)
+<br/>Alt [exemplu](https://irekrog.github.io/broadcast-channel-api-simple-example/)(pe care desigur il puteti simplu incerca/testa!) este oferit de catre [GH-irekrog: broadcast-channel-api-simple-example](https://github.com/irekrog/broadcast-channel-api-simple-example)
 
  - ***API-ul Broadcast Channel***
 
