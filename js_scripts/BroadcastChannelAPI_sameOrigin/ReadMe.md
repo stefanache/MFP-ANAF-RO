@@ -22,10 +22,8 @@ bidirecțională între toți.
      <br/>Un client se alătură unui canal de difuzare creând un BroadcastChannelobiect.
      <br/>Constructorul său preia un singur parametru: numele canalului.
      <br/>Dacă este primul care se conectează la acel nume de canal de difuzare, canalul de bază este creat.
-     <br/><code>
-     // Connection to a broadcast channel
-const bc = new BroadcastChannel("test_channel");
-     <br/></code>
+     <br/><code>// Connection to a broadcast channel
+const bc = new BroadcastChannel("test_channel");</code><br/>
    - **Trimiterea unui mesaj**
    - **Primirea unui mesaj**
    - **Deconectarea unui canal**
