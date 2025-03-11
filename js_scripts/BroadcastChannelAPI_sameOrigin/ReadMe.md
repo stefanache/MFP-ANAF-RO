@@ -373,4 +373,4 @@ bc.close();
  - ***Vezi de asemenea***
      - [BroadcastChannel](https://developer.mozilla.org/en-US/docs/Web/API/BroadcastChannel), interfața care o implementează.<br/>
   
-<br>Acestea fiind spuse va puteti bucura(sau nu!) de o ...dezvoltare placuta... folosind aceasta facilitate a browser-ului dvs.
+<br>Acestea fiind spuse, va puteti bucura(sau nu!), de o ...dezvoltare placuta... folosind aceasta facilitate a browser-ului dvs.
