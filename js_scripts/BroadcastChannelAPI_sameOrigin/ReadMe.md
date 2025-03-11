@@ -26,7 +26,8 @@ bidirecțională între toți.
      <br/>Dacă acest cod-JS este primul care se conectează la acel nume("*test_channel*") de canal de difuzare, canalul de bază este creat(in acest caz: *bc*).
      <br/><br/><code>// Connection to a broadcast channel
 const bc = new BroadcastChannel("test_channel");</code><br/>
-
+     <br/>Primul snippet-JS care executa instructiunea de mai sus va *crea*(in mod automat) canalul si se si va *atasa*(in mod automat) la acesta iar urmatoarele snippet-uri care ruleaza fix aceiasi instructiune, doar(fara a mai crea unul cu acelasi nume:"*test_channel*") se vor *atasa*(efectiv) la acest canal anterior/deja creat/existent.
+     <br/>Cu alte cuvinte aceiaisi linie de cod intai *creaza* si *ataseaza* iar apoi cand o utilizezi din nou, fix in aceiasi forma, doar *ataseaza* html-ul respectiv.<br/><br/>
    - **Trimiterea unui mesaj**
      <br/>Este suficient să apelați metoda [postMessage()](https://developer.mozilla.org/en-US/docs/Web/API/BroadcastChannel/postMessage) pe obiectul creat [BroadcastChannel](https://developer.mozilla.org/en-US/docs/Web/API/BroadcastChannel/BroadcastChannel), care ia ca argument orice obiect.
      <br/>Un exemplu de mesaj șir:
