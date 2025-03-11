@@ -55,6 +55,10 @@ bc.close();
 </code></pre><br/>
    
  - ***Concluzie***
+   <br/>Interfața autonomă a API-ului Broadcast Channel permite comunicarea în context încrucișat.
+   <br/>Poate fi folosit pentru a detecta acțiunile utilizatorului în alte file din aceeași origine, cum ar fi atunci când utilizatorul se conectează sau se deconectează.<br/>
+   <br/>Protocolul de mesagerie nu este definit și diferitele contexte de navigare trebuie să-l implementeze singure; nu există nicio negociere și nici o cerință din caietul de sarcini.
+
  - ***Interfete***
    - ***Specificatii***
  - **Caietul de sarcini**
