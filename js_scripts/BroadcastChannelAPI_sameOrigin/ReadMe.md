@@ -2,6 +2,8 @@ Salut,
 
 Mi-a atras in mod deosebit acest [**mozilla.org**: *articol*](https://developer.mozilla.org/en-US/docs/Web/API/Broadcast_Channel_API) astfel incat am decis sa deschid acest nou post intitulat ["***Broadcast Channel API***"](https://developer.mozilla.org/en-US/docs/Web/API/Broadcast_Channel_API).
 
+Api-ul permite comunicarea(chatting-ul) intre fisiere-locale *.html* aflate local pe acelasi PC/desktop/tableta/dispozitive-mobile.
+
  - ***API-ul Broadcast Channel***
 
 API -ul Broadcast Channel permite comunicarea de bază între [contexte de navigare](https://developer.mozilla.org/en-US/docs/Glossary/Browsing_context) (adică ferestre , file , cadre sau iframes ) și lucrători(workers) de pe aceeași [origine](https://developer.mozilla.org/en-US/docs/Glossary/Origin).
@@ -24,7 +26,13 @@ bidirecțională între toți.
      <br/>Dacă acest cod-JS este primul care se conectează la acel nume("*test_channel*") de canal de difuzare, canalul de bază este creat(in acest caz: *bc*).
      <br/><code>// Connection to a broadcast channel
 const bc = new BroadcastChannel("test_channel");</code><br/>
+
    - **Trimiterea unui mesaj**
+     <br/>Este suficient să apelați metoda [postMessage()](https://developer.mozilla.org/en-US/docs/Web/API/BroadcastChannel/postMessage) pe obiectul creat [BroadcastChannel](https://developer.mozilla.org/en-US/docs/Web/API/BroadcastChannel/BroadcastChannel), care ia ca argument orice obiect.
+     <br/>Un exemplu de mesaj șir:
+     <br/><code>// Example of sending of a very simple message
+bc.postMessage("This is a test message.");</code><br/>
+
    - **Primirea unui mesaj**
    - **Deconectarea unui canal**
 
