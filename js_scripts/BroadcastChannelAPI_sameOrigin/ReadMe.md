@@ -43,8 +43,8 @@ bc.postMessage("This is a test message.");</code><br/>
      <br/>O funcție poate fi rulată pentru acest eveniment folosind handler-ul(manipulatorul)  de evenimente intitulat [onmessage](https://developer.mozilla.org/en-US/docs/Web/API/BroadcastChannel/message_event):
      <br/><br/><code>// A handler that only logs the event to the console:
 bc.onmessage = (event) => {
-  console.log(event);
-};</code><br/>br/>
+                            console.log(event);
+                          };</code><br/>br/>
 <br/>*Nota*: <br/>dupa cum se observa acest handler cand primeste un eveniment(event) acesta il/se afiseaza(efectueaza/face un *log*/se *logs*) in consola(console) browser-ului.<br/>
    - **Deconectarea unui canal**
 
