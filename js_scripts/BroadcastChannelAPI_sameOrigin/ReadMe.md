@@ -24,13 +24,13 @@ bidirecțională între toți.
      <br/>Un client se alătură unui canal de difuzare creând un [BroadcastChannel](https://developer.mozilla.org/en-US/docs/Web/API/BroadcastChannel) obiect.
      <br/>[Constructorul](https://developer.mozilla.org/en-US/docs/Web/API/BroadcastChannel/BroadcastChannel) său preia un singur parametru: numele canalului(ex: "*test_channel*").
      <br/>Dacă acest cod-JS este primul care se conectează la acel nume("*test_channel*") de canal de difuzare, canalul de bază este creat(in acest caz: *bc*).
-     <br/><code>// Connection to a broadcast channel
+     <br/><br/><code>// Connection to a broadcast channel
 const bc = new BroadcastChannel("test_channel");</code><br/>
 
    - **Trimiterea unui mesaj**
      <br/>Este suficient să apelați metoda [postMessage()](https://developer.mozilla.org/en-US/docs/Web/API/BroadcastChannel/postMessage) pe obiectul creat [BroadcastChannel](https://developer.mozilla.org/en-US/docs/Web/API/BroadcastChannel/BroadcastChannel), care ia ca argument orice obiect.
      <br/>Un exemplu de mesaj șir:
-     <br/><code>// Example of sending of a very simple message
+     <br/><br/><code>// Example of sending of a very simple message
 bc.postMessage("This is a test message.");</code><br/>
 <br/>Datele trimise către canal sunt serializate folosind algoritmul de clonare structurată .
 <br/>Aceasta înseamnă că puteți trimite o mare varietate de obiecte de date în siguranță, fără a fi nevoie să le serializați singur.<br/>
