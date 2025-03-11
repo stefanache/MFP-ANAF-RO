@@ -25,7 +25,7 @@ bidirecțională între toți.
      <br/><code>
      // Connection to a broadcast channel
 const bc = new BroadcastChannel("test_channel");
-     </code
+     </code>
    - **Trimiterea unui mesaj**
    - **Primirea unui mesaj**
    - **Deconectarea unui canal**
