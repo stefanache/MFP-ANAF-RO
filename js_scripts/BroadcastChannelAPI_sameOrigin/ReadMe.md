@@ -48,7 +48,12 @@ bc.onmessage = (event) => {
                           };</code></pre><br/>
 <br/>*Nota*: <br/>dupa cum se poate lesne/usor observa acest handler cand primeste un eveniment(event) acesta il/se afiseaza(efectueaza/face un *log*/se *logs*) in consola(console) browser-ului.<br/>
    - **Deconectarea unui canal**
-
+   <br/>Pentru a părăsi un canal, apelați close()metoda pe obiect.
+   <br/>Acest lucru deconectează obiectul de la canalul de bază, permițând colectarea gunoiului.
+   <br/><pre><code>// Disconnect the channel
+bc.close();
+</code></pre><br/>
+   
  - ***Concluzie***
  - ***Interfete***
    - ***Specificatii***
