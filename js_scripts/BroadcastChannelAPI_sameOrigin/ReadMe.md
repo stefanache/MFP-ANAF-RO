@@ -1,6 +1,6 @@
 Salut,
 
-Mi-a atras in mod deosebit acest [API](https://developer.mozilla.org/en-US/docs/Web/API/Broadcast_Channel_API) astfel incat am decis sa deschid acest nou post intitulat ["***Broadcast Channel API***"](https://developer.mozilla.org/en-US/docs/Web/API/Broadcast_Channel_API).
+Mi-a atras in mod deosebit acest [**mozilla.org**: *articol*](https://developer.mozilla.org/en-US/docs/Web/API/Broadcast_Channel_API) astfel incat am decis sa deschid acest nou post intitulat ["***Broadcast Channel API***"](https://developer.mozilla.org/en-US/docs/Web/API/Broadcast_Channel_API).
 
  - ***API-ul Broadcast Channel***
 
@@ -19,6 +19,13 @@ bidirecțională între toți.
  - ***Interfață Broadcast Channel***
 
    - **Crearea sau alăturarea unui canal**
+     <br/>Un client se alătură unui canal de difuzare creând un BroadcastChannelobiect.
+     <br/>Constructorul său preia un singur parametru: numele canalului.
+     <br/>Dacă este primul care se conectează la acel nume de canal de difuzare, canalul de bază este creat.
+     <br/><code>
+     // Connection to a broadcast channel
+const bc = new BroadcastChannel("test_channel");
+     </code
    - **Trimiterea unui mesaj**
    - **Primirea unui mesaj**
    - **Deconectarea unui canal**
