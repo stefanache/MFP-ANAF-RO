@@ -3,6 +3,8 @@ Salut,
 Desi este o facilitate aparuta mai de demult, m-a ispitit totusi ideea de a comenta, un [**mozilla.org** - *developer* - Web API: *articol*](https://developer.mozilla.org/en-US/docs/Web/API/Broadcast_Channel_API).
 <br/>Astfel am decis, sa deschid acest nou post, intitulat ["***Broadcast Channel API(same-origin )***"](https://developer.mozilla.org/en-US/docs/Web/API/Broadcast_Channel_API).
 
+<br/><b>Nota</b>: atentie aceasta facilitate este ***same-origin***(***nu*** *este* ***cross-origin***!)
+
 Api-ul permite comunicarea(chatting-ul) intre fisiere-locale *.html*(care poate include desigur portiuni de cod/snippet JS) aflate local pe ace[l]asi(local nu remote/la distanta) PC/desktop/tableta/dispozitive-mobile.
 <br>Acest api/protocol seamana foarte mult cu/implementeaza protocolul(client-server) **MQTT**(sau cu protocolul(client-server) ***WebSocket*** care sta la baza **MQTT**), doar ca totul(protocolul client-server) se petrece pe acelasi device local(PC/desktop/tabela/mobil) deci pe aceiasi(*same*) origine(*origin*) locala.
 <br/>Noutatea consta in faptul ca, dezvoltatorul nu trebuie/nu este necesar sa se preocupe de implementarea si/sau folosirea unui server anume sau de anumite operatii neintuitive, precum serializarea datelor in vederea transportului ori alte astfel de micro-operatiuni de tipul negocierii legaturii intre participantii canalului de comunicatie, operatiuni care sunt ascunse acestuia(utilizatorului/dezvoltatorului), care in mare masura este/se va preocupa[t] doar de utilizarea/fructificarea acestui mecanism(ascuns), permitandu-i acestuia sa se poata concentra mai mult asupra aplicatiei/proiectului sale/sau pe care doreste sa-l finalizeze/proiecteze/dezvolte.<br/>
