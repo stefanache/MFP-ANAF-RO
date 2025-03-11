@@ -6,7 +6,51 @@ Api-ul permite comunicarea(chatting-ul) intre fisiere-locale *.html*(care poate 
 <br>Acest api/protocol seamana foarte mult cu/implementeaza protocolul(client-server) **MQTT**(sau cu protocolul(client-server) ***WebSocket*** care sta la baza **MQTT**), doar ca totul(protocolul client-server) se petrece pe acelasi device local(PC/desktop/tabela/mobil) deci pe aceiasi(*same*) origine(*origin*) locala.
 <br/>Noutatea consta in faptul ca, dezvoltatorul nu trebuie/nu este necesar sa se preocupe de implementarea si/sau folosirea unui server anume sau de anumite operatii neintuitive, precum serializarea datelor in vederea transportului ori alte astfel de micro-operatiuni de tipul negocierii legaturii intre participantii canalului de comunicatie, operatiuni care sunt ascunse acestuia(utilizatorului/dezvoltatorului), care in mare masura este/se va preocupa[t] doar de utilizarea/fructificarea acestui mecanism(ascuns), permitandu-i acestuia sa se poata concentra mai mult asupra aplicatiei/proiectului sale/sau pe care doreste sa-l finalizeze/proiecteze/dezvolte.
 
-Un [exemplu](https://www.digitalocean.com/community/tutorials/js-broadcastchannel-api) interesant pt acest api este oferit de catre **Digital-Ocean**(DO)
+Un [exemplu](https://www.digitalocean.com/community/tutorials/js-broadcastchannel-api) interesant pt acest api este oferit de catre **Digital-Ocean**([DO](<!DOCTYPE html>
+
+<body>
+  <!-- The title will change to greet the user -->
+  <h1 id="title">Hey</h1>
+  <input id="name-field" placeholder="Enter Your Name"/>
+</body>
+
+<script>
+
+var bc = new BroadcastChannel('gator_channel');
+
+(()=>{
+  const title = document.getElementById('title');
+  const nameField = document.getElementById('name-field');
+  const setTitle = (userName) => {
+    title.innerHTML = 'Hey ' + userName;
+  }
+
+  bc.onmessage = (messageEvent) => {
+    // If our broadcast message is 'update_title' then get the new title from localStorage
+    if (messageEvent.data === 'update_title') {
+      // localStorage is domain specific so when it changes in one window it changes in the other
+      setTitle(localStorage.getItem('title'));
+    }
+  }
+
+  // When the page loads check if the title is in our localStorage
+  if (localStorage.getItem('title')) {
+    setTitle(localStorage.getItem('title'));
+  } else {
+    setTitle('please tell us your name');
+  }
+
+  nameField.onchange = (e) => {
+    const inputValue = e.target.value;
+    // In the localStorage we set title to the user's input
+    localStorage.setItem('title', inputValue);
+    // Update the title on the current page 
+    setTitle(inputValue);
+    // Tell the other pages to update the title
+    bc.postMessage('update_title');
+  }
+})()
+</script>))
 
  - ***API-ul Broadcast Channel***
 
