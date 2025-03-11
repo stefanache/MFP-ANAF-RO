@@ -2,6 +2,8 @@ Salut,
 
 Mi-a atras in mod deosebit acest [API](https://developer.mozilla.org/en-US/docs/Web/API/Broadcast_Channel_API) astfel incat am decis sa deschid acest nou post intitulat ["***Broadcast Channel API***"](https://developer.mozilla.org/en-US/docs/Web/API/Broadcast_Channel_API).
 
+ - ***API-ul Broadcast Channel***
+
 API -ul Broadcast Channel permite comunicarea de bază între [contexte de navigare](https://developer.mozilla.org/en-US/docs/Glossary/Browsing_context) (adică ferestre , file , cadre sau iframes ) și lucrători(workers) de pe aceeași [origine](https://developer.mozilla.org/en-US/docs/Glossary/Origin).
 
 ***Notă***: 
@@ -12,4 +14,18 @@ Prin crearea unui [***BroadcastChannelobiect***](https://developer.mozilla.org/e
 <br/>Nu trebuie să mențineți o referință la cadrele(frames) sau lucrătorii(workers) cu care doriți să comunicați: aceștia se pot „abona” la un anumit canal construindu-și propriul canal [***BroadcastChannel***](https://developer.mozilla.org/en-US/docs/Web/API/BroadcastChannel) cu același nume și au o comunicare
 bidirecțională între toți.
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/API/Broadcast_Channel_API" width="95%" height="auto"><img src="https://developer.mozilla.org/en-US/docs/Web/API/Broadcast_Channel_API/broadcastchannel.png">BroadcastChannel<img></a>
+<br/><a href="https://developer.mozilla.org/en-US/docs/Web/API/Broadcast_Channel_API" width="95%" height="auto"><img src="https://developer.mozilla.org/en-US/docs/Web/API/Broadcast_Channel_API/broadcastchannel.png">BroadcastChannel<img></a><br/>
+
+ - ***Interfață Broadcast Channel***
+
+   - **Crearea sau alăturarea unui canal**
+   - **Trimiterea unui mesaj**
+   - **Primirea unui mesaj**
+   - **Deconectarea unui canal**
+
+ - ***Concluzie***
+ - ***Interfete***
+   - ***Specificatii***
+ - **Caietul de sarcini**
+ - ***Compatibilitate browser***
+ - ***Vezi de asemenea***
