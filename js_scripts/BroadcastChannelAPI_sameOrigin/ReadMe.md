@@ -49,7 +49,7 @@ bc.onmessage = (event) => {
 <br/>*Nota*: <br/>dupa cum se poate lesne/usor observa acest handler cand primeste un eveniment(event) acesta il/se afiseaza(efectueaza/face un *log*/se *logs*) in consola(console) browser-ului.<br/>
    - **Deconectarea unui canal**
    <br/>Pentru a părăsi un canal, apelați close()metoda pe obiect.
-   <br/>Acest lucru deconectează obiectul de la canalul de bază, permițând colectarea gunoiului.
+   <br/>Acest lucru deconectează [obiectul]https://developer.mozilla.org/en-US/docs/Web/API/BroadcastChannel/BroadcastChannel(*bc*) de la [canalul](https://developer.mozilla.org/en-US/docs/Web/API/BroadcastChannel/BroadcastChannel) de bază("*test_channel*"), permițând colectarea gunoiului(memoria referita de acest obiect/canal care din acest moment devine inutilizabila si pe cale de consecinta/deci inutila, fapt ce determina colectorul de gunoi desemnat de browser sa-si faca "treaba" si sa colecteze "gunoiul" rezultat).
    <br/><pre><code>// Disconnect the channel
 bc.close();
 </code></pre><br/>
