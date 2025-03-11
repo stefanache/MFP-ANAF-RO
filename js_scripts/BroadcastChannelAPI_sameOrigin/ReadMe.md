@@ -26,15 +26,15 @@ bidirecțională între toți.
      <br/>Un client se alătură unui canal de difuzare creând un [BroadcastChannel](https://developer.mozilla.org/en-US/docs/Web/API/BroadcastChannel) obiect.
      <br/>[Constructorul](https://developer.mozilla.org/en-US/docs/Web/API/BroadcastChannel/BroadcastChannel) său preia un singur parametru: numele canalului(ex: "*test_channel*").
      <br/>Dacă acest cod-JS este primul care se conectează la acel nume("*test_channel*") de canal de difuzare, canalul de bază este creat(in acest caz: *bc*).
-     <br/><br/><code>// Connection to a broadcast channel
-const bc = new BroadcastChannel("test_channel");</code><br/>
+     <br/><br/><pre><code>// Connection to a broadcast channel
+const bc = new BroadcastChannel("test_channel");</code></pre><br/>
      <br/>Primul snippet-JS care executa instructiunea de mai sus va *crea*(in mod automat) canalul si se si va *atasa*(in mod automat) la acesta iar urmatoarele snippet-uri care ruleaza fix aceiasi instructiune, doar(fara a mai crea unul cu acelasi nume:"*test_channel*") se vor *atasa*(efectiv) la acest canal(*bc*) anterior/deja creat/existent.
      <br/>Cu alte cuvinte aceiasi linie-de-cod(*const bc = new BroadcastChannel("test_channel");*), mai intai/initial *creaza* si *ataseaza* iar apoi cand, ori de cate ori(repetitiv), o utilizezi(din nou/repetitiv), fix in aceiasi forma/linie de cod(*const bc = new BroadcastChannel("test_channel");*), doar *ataseaza* html-ul respectiv.<br/><br/>
    - **Trimiterea unui mesaj**
      <br/>Este suficient să apelați metoda [postMessage()](https://developer.mozilla.org/en-US/docs/Web/API/BroadcastChannel/postMessage) pe obiectul creat [BroadcastChannel](https://developer.mozilla.org/en-US/docs/Web/API/BroadcastChannel/BroadcastChannel), care ia ca argument orice obiect.
      <br/>Un exemplu de mesaj șir:
-     <br/><br/><code>// Example of sending of a very simple message
-bc.postMessage("This is a test message.");</code><br/>
+     <br/><br/><pre><code>// Example of sending of a very simple message
+bc.postMessage("This is a test message.");</code></pre><br/>
 <br/>Datele trimise către canal sunt serializate folosind [algoritmul de clonare structurată](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Structured_clone_algorithm).
 <br/>Aceasta înseamnă că puteți trimite o mare varietate de obiecte de date în siguranță, fără a fi nevoie să le serializați singur.<br/>
 <br/>API-ul nu asociază nicio semantică mesajelor, așa că depinde de cod să știe la ce fel de mesaje să se aștepte și ce să facă cu ele.
@@ -45,7 +45,7 @@ bc.postMessage("This is a test message.");</code><br/>
      <br/><br/><pre><code>// A handler that only logs the event to the console:
 bc.onmessage = (event) => {
                             console.log(event);
-                          };</code></pre><br/>br/>
+                          };</code></pre><br/><br/>
 <br/>*Nota*: <br/>dupa cum se poate lesne/usor observa acest handler cand primeste un eveniment(event) acesta il/se afiseaza(efectueaza/face un *log*/se *logs*) in consola(console) browser-ului.<br/>
    - **Deconectarea unui canal**
 
