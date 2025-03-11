@@ -61,7 +61,7 @@ bc.close();
 
  - ***Interfete***
  <br/>[BroadcastChannel](https://developer.mozilla.org/en-US/docs/Web/API/BroadcastChannel)<br/>
-  <br/>Reprezintă un canal numit la care se poate abona orice [context de navigare](https://developer.mozilla.org/en-US/docs/Glossary/Browsing_context) dintr-o anumită [origine](https://developer.mozilla.org/en-US/docs/Glossary/Origin) .<br/>br/> 
+  <br/>Reprezintă un canal numit la care se poate abona orice [context de navigare](https://developer.mozilla.org/en-US/docs/Glossary/Browsing_context) dintr-o anumită [origine](https://developer.mozilla.org/en-US/docs/Glossary/Origin) .<br/><br/> 
  - ***Specificatii***
    - **Caietul de sarcini**
      <br/>[HTML # broadcasting-to-altre-browsing-contextes](https://html.spec.whatwg.org/multipage/web-messaging.html#broadcasting-to-other-browsing-contexts)<br/><br/>
