@@ -368,9 +368,9 @@ bc.close();
               bc-level-yes
               icon
               icon-yes" title="Node.js – Suport complet"><span class="bc-support-level"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Node.js – Suport complet</font></font></span></abbr></span></div><div class="bcd-cell-text-copy"><span class="bc-browser-name"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Node.js</font></font></span><span class="bc-version-label" title="Node.js 15.4.0 – Lansat 2020-12-09"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">15.4.0</font></font></span></div></div><span class="offscreen"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Comutați istoricul</font></font></span></button></td></tr></tbody></table></figure></figure><br>
-<br/>Dupa cum puteti observa, mai toate browaser-ele, incepand cu/de la o versiune anume, au implementata/incorporata aceasta facilitate, astfel incat verificand versiunea respectiva a browser-ului dumneavoastra puteti stii daca aveti suport sau nu pentru acest api.
+<br/>Dupa cum puteti observa, mai toate browaser-ele, incepand cu/de la o versiune anume, au implementata/incorporata aceasta facilitate, astfel incat verificand versiunea respectiva a browser-ului dumneavoastra puteti stii daca aveti suport sau nu pentru acest api.<br/>br/>
 
  - ***Vezi de asemenea***
-     - [BroadcastChannel](https://developer.mozilla.org/en-US/docs/Web/API/BroadcastChannel), interfața care o implementează.
+     - [BroadcastChannel](https://developer.mozilla.org/en-US/docs/Web/API/BroadcastChannel), interfața care o implementează.<br/>
   
 <br>Acestea fiind spuse va puteti bucura(sau nu!) de o ...dezvoltare placuta... folosind aceasta facilitate a browser-ului dvs.
