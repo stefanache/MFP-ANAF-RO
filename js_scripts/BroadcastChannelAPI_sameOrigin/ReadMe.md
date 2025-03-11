@@ -10,7 +10,7 @@ Api-ul permite comunicarea(chatting-ul) intre fisiere-locale *.html*(care poate 
 
  - ***API-ul Broadcast Channel***
 
-API -ul Broadcast Channel permite comunicarea de bază între [contexte de navigare](https://developer.mozilla.org/en-US/docs/Glossary/Browsing_context) (adică ferestre , file , cadre sau iframes ) și lucrători(workers) de pe aceeași [origine](https://developer.mozilla.org/en-US/docs/Glossary/Origin).
+API -ul Broadcast Channel permite comunicarea de bază între [contexte de navigare](https://developer.mozilla.org/en-US/docs/Glossary/Browsing_context) (adică ferestre , fisier , cadre sau iframes ) și lucrători(workers) de pe aceeași [origine](https://developer.mozilla.org/en-US/docs/Glossary/Origin).
 
 ***Notă***: 
 <br/>Pentru a fi mai exact, comunicarea este permisă între contextele de navigare folosind aceeași [partiție de stocare](https://developer.mozilla.org/en-US/docs/Web/Privacy/Guides/State_Partitioning). 
