@@ -32,6 +32,9 @@ const bc = new BroadcastChannel("test_channel");</code><br/>
      <br/>Un exemplu de mesaj șir:
      <br/><code>// Example of sending of a very simple message
 bc.postMessage("This is a test message.");</code><br/>
+<br/>Datele trimise către canal sunt serializate folosind algoritmul de clonare structurată .
+<br/>Aceasta înseamnă că puteți trimite o mare varietate de obiecte de date în siguranță, fără a fi nevoie să le serializați singur.<br/>
+<br/>API-ul nu asociază nicio semantică mesajelor, așa că depinde de cod să știe la ce fel de mesaje să se aștepte și ce să facă cu ele.
 
    - **Primirea unui mesaj**
    - **Deconectarea unui canal**
