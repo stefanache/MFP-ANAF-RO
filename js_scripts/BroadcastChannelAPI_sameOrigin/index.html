@@ -1,45 +1,33 @@
 <!DOCTYPE html>
-
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Broadcast Channel API</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
 <body>
-  <!-- The title will change to greet the user -->
-  <h1 id="title">Hey</h1>
-  <input id="name-field" placeholder="Enter Your Name"/>
+
+<p style="font-size: 26px; color: red; display: none;" class="error">Sorry, but your browser not supported Broadcast Channel API. Check this example on Chrome 54+, Firefox 38+ or Opera 41+</p>
+
+<div class="content">
+
+<p>You can <span class="disable">disable</span> iframe and <a href="second.html" target="_blank">open</a> second.html in new tab or window.</p>
+
+<div class="column-6">
+	<h2>This is the index.html</h2>
+	<p>Send a message to second.html</p>
+	<input class="message-text" placeholder="Your message">
+	<button class="send">Send now</button>
+	<div class="message-content"></div>
+</div>
+
+<div class="iframe-content column-6">
+	<iframe src="second.html"></iframe>
+</div>
+
+</div>
+
+<script src="script.js"></script>
+	
 </body>
-
-<script>
-
-var bc = new BroadcastChannel('gator_channel');
-
-(()=>{
-  const title = document.getElementById('title');
-  const nameField = document.getElementById('name-field');
-  const setTitle = (userName) => {
-    title.innerHTML = 'Hey ' + userName;
-  }
-
-  bc.onmessage = (messageEvent) => {
-    // If our broadcast message is 'update_title' then get the new title from localStorage
-    if (messageEvent.data === 'update_title') {
-      // localStorage is domain specific so when it changes in one window it changes in the other
-      setTitle(localStorage.getItem('title'));
-    }
-  }
-
-  // When the page loads check if the title is in our localStorage
-  if (localStorage.getItem('title')) {
-    setTitle(localStorage.getItem('title'));
-  } else {
-    setTitle('please tell us your name');
-  }
-
-  nameField.onchange = (e) => {
-    const inputValue = e.target.value;
-    // In the localStorage we set title to the user's input
-    localStorage.setItem('title', inputValue);
-    // Update the title on the current page 
-    setTitle(inputValue);
-    // Tell the other pages to update the title
-    bc.postMessage('update_title');
-  }
-})()
-</script>
+</html>
