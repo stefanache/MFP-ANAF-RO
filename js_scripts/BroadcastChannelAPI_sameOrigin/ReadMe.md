@@ -1,5 +1,5 @@
-<script>
- @use "sass:meta";
+
+@use "sass:meta";
 @use "~@mdn/minimalist/sass/mixins/utils" as *;
 @use "../../../ui/vars" as *;
 
@@ -453,7 +453,7 @@ dl.bc-notes-list {
   }
 }
 
-</script>
+
 Salut,
 
 Mi-a atras in mod deosebit, un [**mozilla.org** - *developer* - Web API: *articol*](https://developer.mozilla.org/en-US/docs/Web/API/Broadcast_Channel_API), astfel incat am decis, sa deschid acest nou post, intitulat ["***Broadcast Channel API***"](https://developer.mozilla.org/en-US/docs/Web/API/Broadcast_Channel_API).
