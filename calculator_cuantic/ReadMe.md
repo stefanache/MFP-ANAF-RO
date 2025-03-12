@@ -10,7 +10,7 @@
  - [ubbcluj.ro-grant-QTstrat: OPTICA NELINIARĂ INTEGRATĂ ÎN SERVICIUL COMUNICAȚIILOR CUANTICE](https://qtstrat.granturi.ubbcluj.ro/wp-content/uploads/2023/06/Newsletter_nr6_QTSTRAT_2023-CORECTAT.pdf)
  - [RomaniaLibera.ro: Entanglementul cuantic, soluția pentru a avea procesoare super-rapide](https://romanialibera.ro/special/video-entanglementul-cuantic-solutia-pentru-a-avea-procesoare-super-rapide-366106/)
  - [SCIENCE SMS – IATĂ CĂ MAGIA EXISTĂ LA NIVEL CUANTIC. FOTONII ENTANGLAȚI REPRODUC O IMAGINE DINTR-UN PARADOX](https://planetariubm.ro/2014/09/03/science-sms-iata-ca-magia-exista-la-nivel-cuantic-fotonii-entanglati-reproduc-o-imagine-dintr-un-paradox/)
- - [WK: QE/EPR-paradox](https://en.wikipedia.org/wiki/Quantum_entanglement)
+ - [WK: QE/EPR](https://en.wikipedia.org/wiki/Quantum_entanglement); [WK: Paradoxul **EPR**(Einstein, Podolsky și Rosen)](https://ro.wikipedia.org/wiki/Paradoxul_EPR)
  - [liveScience: Oamenii de știință descoperă o modalitate mai simplă de a realiza „acțiunea înfricoșătoare la distanță(QE)” a lui Einstein, datorită descoperirii AI – aducând internetul cuantic mai aproape de realitate](https://www.livescience.com/technology/computing/scientists-discover-simpler-way-to-achieve-einsteins-spooky-action-at-a-distance-thanks-to-ai-bringing-quantum-internet-closer-to-reality)
  - [Cum s-a rezolvat în 5 minute o problemă de matematică ce i-ar lua unui calculator mai mult timp decât istoria universului](https://stirileprotv.ro/stiri/stiinta/cum-s-a-rezolvat-in-5-minute-o-problema-de-matematica-ce-i-ar-lua-unui-calculator-mai-mult-timp-decat-istoria-universului.html)
  - [slideserve-Gheorghiu Alexandru: Calculatoare cuantice](https://www.slideserve.com/ora/calculatoare-cuantice)
