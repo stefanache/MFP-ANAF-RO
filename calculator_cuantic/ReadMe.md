@@ -13,7 +13,7 @@
  - [GH qiskit-community: qiskit-Finante](https://github.com/Qiskit/qiskit-finance/)
  - [GH qiskit-community: qiskit-Nature/Chimie/mecanica cuantica](https://github.com/Qiskit/qiskit-nature/)
  - [GH qiskit-community: qiskit-Metal = open-source Quantum Hardware(QH) Design](https://github.com/qiskit-community/qiskit-metal)
- - [GH qiskit-community: ML](https://github.com/qiskit-community/qiskit-machine-learning)
+ - [GH qiskit-community: ML(QML)](https://github.com/qiskit-community/qiskit-machine-learning)
  - [GH qiskit-community: qiskit-Optimizare](https://github.com/Qiskit/qiskit-optimization/)
  - [GH qiskit-community: ffsim=Chimie cuantica](https://github.com/qiskit-community/ffsim?tab=readme-ov-file)
  <br/>ffsim este o bibliotecă de software(SW) pentru simularea *circuitelor cuantice* ***fermionice*** care conservă numărul de particule și componenta Z a spinului.
