@@ -12,6 +12,7 @@
  - [GH qiskit-community: Ghid migrare Aqua(algoritmi Qiskit)](https://qiskit.org/documentation/aqua_tutorials/Qiskit%20Algorithms%20Migration%20Guide.html)
  - [GH qiskit-community: qiskit-Finante](https://github.com/Qiskit/qiskit-finance/)
  - [GH qiskit-community: qiskit-Nature/Chimie/mecanica cuantica](https://github.com/Qiskit/qiskit-nature/)
+ - [GH qiskit-community: qiskit-Metal](https://github.com/qiskit-community/qiskit-metal)
  - [GH qiskit-community: ML](https://github.com/qiskit-community/qiskit-machine-learning)
  - [GH qiskit-community: qiskit-Optimizare](https://github.com/Qiskit/qiskit-optimization/)
  - [GH qiskit-community: Antrenamentul unui Model Cuantic(QM) pe un Dataset(ds)-Real(RD)](https://qiskit-community.github.io/qiskit-machine-learning/tutorials/02a_training_a_quantum_model_on_a_real_dataset.html)
