@@ -8,6 +8,7 @@
  - [GH: qiskit-community](https://github.com/qiskit-community)
  - [GH qiskit-community: Tutoriale](https://github.com/qiskit-community/qiskit-community-tutorials)
  - [GH qiskit-community: Ghid migrare dupa ce suportul Aqua s-a depreciat!!!!](https://github.com/qiskit-community/qiskit-aqua?tab=readme-ov-file#migration-guide)
+ - [GH qiskit-community: qiskit-terra(algoritmi)](https://github.com/Qiskit/qiskit-terra/)
  - [GH qiskit-community: qiskit-Finante](https://github.com/Qiskit/qiskit-finance/)
  - [GH qiskit-community: qiskit-Chimie](https://github.com/Qiskit/qiskit-nature/)
  - [GH qiskit-community: ML](https://github.com/qiskit-community/qiskit-machine-learning)
