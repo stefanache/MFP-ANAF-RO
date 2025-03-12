@@ -7,6 +7,7 @@
  - [medium @shoaib6174: Cum se rezolva problema colorarii grafului folosind algoritmii **Qiskit**-Grover ](https://medium.com/@shoaib6174/how-to-solve-the-graph-coloring-problems-using-qiskits-grover-algorithm-e87eb52f203); [WK: Algoritmul Grover](https://en.wikipedia.org/wiki/Grover%27s_algorithm)
  - [WK: Algoritmul lui Shor se identifica sau mai bine zis rezolva problema factorizarii](https://en.wikipedia.org/wiki/Shor%27s_algorithm)
  - [WK: Algoritmul Brassard–Høyer–Tapp(BHT) - rezolva problema coliziunii](https://en.wikipedia.org/wiki/BHT_algorithm); [WK: Problema de coliziune](https://en.wikipedia.org/wiki/Collision_problem)
+ - [quantumZeitgeist: Qiskit in practica](https://quantumzeitgeist.com/qiskit-in-practice/)
  - [GH: qiskit-community](https://github.com/qiskit-community)
  - [GH qiskit-community: Tutoriale=Quantum-Learning(QL)](https://github.com/qiskit-community/qiskit-community-tutorials)
  - [GH qiskit-community: Ghid migrare dupa ce in 2nd April 2021, suportul Aqua s-a depreciat/a incetat!!!!](https://github.com/qiskit-community/qiskit-aqua?tab=readme-ov-file#migration-guide)
