@@ -4,11 +4,12 @@
  - [informatyka.agh.edu-p1: Rezolvarea problemelor de Optimizare folosind **Qiskit**-Aqua](https://www.informatyka.agh.edu.pl/media/uploads/kqis-34-katarzyna-rycerz-01-12-2020-slides.pdf)
  - [medium @shoaib6174: Cum se rezolva problema colorarii grafului folosind algoritmii **Qiskit**-Grover ](https://medium.com/@shoaib6174/how-to-solve-the-graph-coloring-problems-using-qiskits-grover-algorithm-e87eb52f203); [WK: Algoritmul Grover](https://en.wikipedia.org/wiki/Grover%27s_algorithm)
  - [WK: Algoritmul lui Shor se identifica sau mai bine zis rezolva problema factorizarii](https://en.wikipedia.org/wiki/Shor%27s_algorithm)
- - [WK: Algoritmul Brassard–Høyer–Tapp(BHT) - rezolva problema coliziunii](https://en.wikipedia.org/wiki/BHT_algorithm); [WK: Problema de coliziune](https://en.wikipedia.org/wiki/Collision_problem
+ - [WK: Algoritmul Brassard–Høyer–Tapp(BHT) - rezolva problema coliziunii](https://en.wikipedia.org/wiki/BHT_algorithm); [WK: Problema de coliziune](https://en.wikipedia.org/wiki/Collision_problem)
  - [GH: qiskit-community](https://github.com/qiskit-community)
  - [GH qiskit-community: Tutoriale](https://github.com/qiskit-community/qiskit-community-tutorials)
  - [GH qiskit-community: Ghid migrare dupa ce suportul Aqua s-a depreciat!!!!](https://github.com/qiskit-community/qiskit-aqua?tab=readme-ov-file#migration-guide)
  - [GH qiskit-community: qiskit-terra(algoritmi)](https://github.com/Qiskit/qiskit-terra/)
+ - [GH qiskit-community: Ghid migrare Aqua(algoritmi)](https://qiskit.org/documentation/aqua_tutorials/Qiskit%20Algorithms%20Migration%20Guide.html)
  - [GH qiskit-community: qiskit-Finante](https://github.com/Qiskit/qiskit-finance/)
  - [GH qiskit-community: qiskit-Chimie](https://github.com/Qiskit/qiskit-nature/)
  - [GH qiskit-community: ML](https://github.com/qiskit-community/qiskit-machine-learning)
