@@ -7,7 +7,7 @@
  - [WK: Algoritmul Brassard–Høyer–Tapp(BHT) - rezolva problema coliziunii](https://en.wikipedia.org/wiki/BHT_algorithm); [WK: Problema de coliziune](https://en.wikipedia.org/wiki/Collision_problem
  - [GH: qiskit-community](https://github.com/qiskit-community)
  - [GH qiskit-community: Tutoriale](https://github.com/qiskit-community/qiskit-community-tutorials)
- - [GH qiskit-community: migrare dupa ce suportul Aqua s-a depreciat!!!!](https://github.com/qiskit-community/qiskit-aqua?tab=readme-ov-file#migration-guide)
+ - [GH qiskit-community: Ghid migrare dupa ce suportul Aqua s-a depreciat!!!!](https://github.com/qiskit-community/qiskit-aqua?tab=readme-ov-file#migration-guide)
  - [GH qiskit-community: qiskit-Finante](https://github.com/Qiskit/qiskit-finance/)
  - [GH qiskit-community: qiskit-Chimie](https://github.com/Qiskit/qiskit-nature/)
  - [GH qiskit-community: ML](https://github.com/qiskit-community/qiskit-machine-learning)
