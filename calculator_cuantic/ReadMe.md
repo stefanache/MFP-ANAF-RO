@@ -22,7 +22,7 @@
 
  unde
    
-   <img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/df05180652a87fe1af83af4bba3402117bd18466"></img>    este *contanta Planck(*h*) redusa* (sau constanta Planck împărțită la 2π) iar
+   <img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/df05180652a87fe1af83af4bba3402117bd18466"></img>    este *contanta Planck(*h*) redusa* (sau constanta Planck împărțită la 2π) iar<br/>
    **σ** este *abaterea standard* a pozitiei(σ<sub>x</sub>) si respectiv a impulsului(σ<sub>p</sub>). 
    
    Astfel de variabile pereche(**x** = pozitie, **p** = impuls) sunt cunoscute ca *variabile complementare* sau *variabile conjugate canonic*.
