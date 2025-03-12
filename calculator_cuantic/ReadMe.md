@@ -1,6 +1,7 @@
 [Salutare](https://chatgpt.com/share/67bee958-3e5c-800b-8c28-baa1e8dac211)
 
  - [Matematica computationala(MC)](https://en.wikipedia.org/wiki/Computational_mathematics)
+ - [pypi.org-qiskit-optimization(cadru open-source): Qiskit-optimization](https://pypi.org/project/qiskit-optimization/)
  - [medium @billtcheng2013-De la Hello World la MaxCut: Rezolvarea problemelor grafice cu Qiskit](https://billtcheng2013.medium.com/from-hello-world-to-maxcut-solving-graph-problems-with-qiskit-3837191aa04c)
  - [medium @shoaib6174: Cum să rezolvi problemele QUBO( Optimizare binară neconstrânsă quadratică/natura pătratică a funcției obiectiv) folosind Qiskit](https://medium.com/@shoaib6174/how-to-solve-qubo-problems-using-qiskit-f4eab6cc3061);
  - [RG-Universitatea din Genova: Cum se rezolvă problemele de programare pătratică cu variabile continue utilizând algoritmii cuantici Qiskit?](https://www.researchgate.net/post/How_to_solve_quadratic_programming_problems_with_continuous_variables_by_using_Qiskit_quantum_algorithms)
