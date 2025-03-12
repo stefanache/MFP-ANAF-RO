@@ -15,7 +15,8 @@
  - [GH qiskit-community: qiskit-Metal = open-source Quantum Hardware(QH) Design](https://github.com/qiskit-community/qiskit-metal)
  - [GH qiskit-community: ML](https://github.com/qiskit-community/qiskit-machine-learning)
  - [GH qiskit-community: qiskit-Optimizare](https://github.com/Qiskit/qiskit-optimization/)
- - [[GH qiskit-community: ffsim=Chimie cuantica](https://github.com/qiskit-community/ffsim?tab=readme-ov-file)
+ - [GH qiskit-community: ffsim=Chimie cuantica](https://github.com/qiskit-community/ffsim?tab=readme-ov-file)
+ - [GH qiskit-community: Qiskit experiments](https://github.com/qiskit-community/qiskit-experiments?tab=readme-ov-file)
  <br/>ffsim este o bibliotecă de software(SW) pentru simularea *circuitelor cuantice* ***fermionice*** care conservă numărul de particule și componenta Z a spinului.
 <br/>Această categorie include multe circuite cuantice utilizate pentru simulările de chimie cuantică.
 <br/>Prin exploatarea simetriilor și folosind algoritmi specializați, ffsim poate simula aceste circuite mult mai rapid decât un simulator de circuit cuantic generic.
