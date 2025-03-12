@@ -8,13 +8,14 @@
  - [GH: qiskit-community](https://github.com/qiskit-community)
  - [GH qiskit-community: Tutoriale](https://github.com/qiskit-community/qiskit-community-tutorials)
  - [GH qiskit-community: Ghid migrare dupa ce in 2nd April 2021, suportul Aqua s-a depreciat/a incetat!!!!](https://github.com/qiskit-community/qiskit-aqua?tab=readme-ov-file#migration-guide)
- - [GH qiskit-community: qiskit-terra(algoritmi)](https://github.com/Qiskit/qiskit-terra/)
+ - [GH qiskit-community: Qiskit TextBook=Un supliment universitar de algoritmi cuantici(curs de calcul bazat pe Qiskit)](https://github.com/Qiskit/textbook)
+ - [GH qiskit-community: Qiskit-terra(algoritmi)](https://github.com/Qiskit/qiskit-terra/)
  - [GH qiskit-community: Ghid migrare Aqua(algoritmi Qiskit)](https://qiskit.org/documentation/aqua_tutorials/Qiskit%20Algorithms%20Migration%20Guide.html)
- - [GH qiskit-community: qiskit-Finante](https://github.com/Qiskit/qiskit-finance/)
- - [GH qiskit-community: qiskit-Nature/Chimie/mecanica cuantica](https://github.com/Qiskit/qiskit-nature/)
+ - [GH qiskit-community: Qiskit-Finante](https://github.com/Qiskit/qiskit-finance/)
+ - [GH qiskit-community: Qiskit-Nature/Chimie/mecanica cuantica](https://github.com/Qiskit/qiskit-nature/)
  - [GH qiskit-community: qiskit-Metal = open-source Quantum Hardware(QH) Design](https://github.com/qiskit-community/qiskit-metal)
  - [GH qiskit-community: ML(QML)](https://github.com/qiskit-community/qiskit-machine-learning)
- - [GH qiskit-community: qiskit-Optimizare](https://github.com/Qiskit/qiskit-optimization/)
+ - [GH qiskit-community: Qiskit-Optimizare](https://github.com/Qiskit/qiskit-optimization/)
  - [GH qiskit-community: ffsim=Chimie cuantica](https://github.com/qiskit-community/ffsim?tab=readme-ov-file)
  <br/>ffsim este o bibliotecă de software(SW) pentru simularea *circuitelor cuantice* ***fermionice*** care conservă numărul de particule și componenta Z a spinului.
 <br/>Această categorie include multe circuite cuantice utilizate pentru simulările de chimie cuantică.
