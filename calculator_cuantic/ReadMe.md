@@ -6,7 +6,7 @@
  - [WK: Algoritmul lui Shor se identifica sau mai bine zis rezolva problema factorizarii](https://en.wikipedia.org/wiki/Shor%27s_algorithm)
  - [WK: Algoritmul Brassard–Høyer–Tapp(BHT) - rezolva problema coliziunii](https://en.wikipedia.org/wiki/BHT_algorithm); [WK: Problema de coliziune](https://en.wikipedia.org/wiki/Collision_problem)
  - [GH: qiskit-community](https://github.com/qiskit-community)
- - [GH qiskit-community: Tutoriale](https://github.com/qiskit-community/qiskit-community-tutorials)
+ - [GH qiskit-community: Tutoriale=Quantum-Learning(QL)](https://github.com/qiskit-community/qiskit-community-tutorials)
  - [GH qiskit-community: Ghid migrare dupa ce in 2nd April 2021, suportul Aqua s-a depreciat/a incetat!!!!](https://github.com/qiskit-community/qiskit-aqua?tab=readme-ov-file#migration-guide)
  - [GH qiskit-community: Qiskit TextBook=Un supliment universitar de algoritmi cuantici(curs de calcul bazat pe Qiskit)](https://github.com/Qiskit/textbook)
  - [GH qiskit-community: Qiskit-terra(algoritmi)](https://github.com/Qiskit/qiskit-terra/)
