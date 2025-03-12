@@ -7,7 +7,11 @@
  - [WK: Algoritmul Brassard–Høyer–Tapp(BHT) - rezolva problema coliziunii](https://en.wikipedia.org/wiki/BHT_algorithm); [WK: Problema de coliziune](https://en.wikipedia.org/wiki/Collision_problem
  - [GH: qiskit-community](https://github.com/qiskit-community)
  - [GH qiskit-community: Tutoriale](https://github.com/qiskit-community/qiskit-community-tutorials)
+ - [GH qiskit-community: migrare dupa ce suportul Aqua s-a depreciat!!!!](https://github.com/qiskit-community/qiskit-aqua?tab=readme-ov-file#migration-guide)
+ - [GH qiskit-community: qiskit-Finante](https://github.com/Qiskit/qiskit-finance/)
+ - [GH qiskit-community: qiskit-Chimie](https://github.com/Qiskit/qiskit-nature/)
  - [GH qiskit-community: ML](https://github.com/qiskit-community/qiskit-machine-learning)
+ - [GH qiskit-community: qiskit-Optimizare](https://github.com/Qiskit/qiskit-optimization/)
  - [GH qiskit-community: Antrenamentul unui Model Cuantic(QM) pe un Dataset(ds)-Real(RD)](https://qiskit-community.github.io/qiskit-machine-learning/tutorials/02a_training_a_quantum_model_on_a_real_dataset.html)
  - [evz.ro: Bizarul entanglement(intricare) cuantic(a) intre cuarcii din interiorul unui proton?](https://evz.ro/bizarul-entanglement-cuantic.html)
  - [CERN-CMS experiment / Entangled Titans: dezvăluirea misterelor mecanicii cuantice cu quarci de top](https://cms.cern/news/entangled-titans-unraveling-mysteries-quantum-mechanics-top-quarks)
