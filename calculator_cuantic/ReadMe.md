@@ -15,6 +15,10 @@
  - [GH qiskit-community: qiskit-Metal = open-source Quantum Hardware(QH) Design](https://github.com/qiskit-community/qiskit-metal)
  - [GH qiskit-community: ML](https://github.com/qiskit-community/qiskit-machine-learning)
  - [GH qiskit-community: qiskit-Optimizare](https://github.com/Qiskit/qiskit-optimization/)
+ - [[GH qiskit-community: ffsim=Chimie cuantica](https://github.com/qiskit-community/ffsim?tab=readme-ov-file)
+ <br/>ffsim este o bibliotecă de software(SW) pentru simularea *circuitelor cuantice* ***fermionice*** care conservă numărul de particule și componenta Z a spinului.
+<br/>Această categorie include multe circuite cuantice utilizate pentru simulările de chimie cuantică.
+<br/>Prin exploatarea simetriilor și folosind algoritmi specializați, ffsim poate simula aceste circuite mult mai rapid decât un simulator de circuit cuantic generic.
  - [GH qiskit-community: Antrenamentul unui Model Cuantic(QM) pe un Dataset(ds)-Real(RD)](https://qiskit-community.github.io/qiskit-machine-learning/tutorials/02a_training_a_quantum_model_on_a_real_dataset.html)
  - [evz.ro: Bizarul entanglement(intricare) cuantic(a) intre cuarcii din interiorul unui proton?](https://evz.ro/bizarul-entanglement-cuantic.html)
  - [CERN-CMS experiment / Entangled Titans: dezvăluirea misterelor mecanicii cuantice cu quarci de top](https://cms.cern/news/entangled-titans-unraveling-mysteries-quantum-mechanics-top-quarks)
