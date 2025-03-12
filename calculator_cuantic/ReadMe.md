@@ -2,7 +2,8 @@
 
  - [Matematica computationala(MC)](https://en.wikipedia.org/wiki/Computational_mathematics)
  - [medium @billtcheng2013-De la Hello World la MaxCut: Rezolvarea problemelor grafice cu Qiskit](https://billtcheng2013.medium.com/from-hello-world-to-maxcut-solving-graph-problems-with-qiskit-3837191aa04c)
- - [medium @shoaib6174: Cum să rezolvi problemele QUBO( Optimizare binară neconstrânsă quadratică/natura pătratică a funcției obiectiv) folosind Qiskit](https://medium.com/@shoaib6174/how-to-solve-qubo-problems-using-qiskit-f4eab6cc3061)
+ - [medium @shoaib6174: Cum să rezolvi problemele QUBO( Optimizare binară neconstrânsă quadratică/natura pătratică a funcției obiectiv) folosind Qiskit](https://medium.com/@shoaib6174/how-to-solve-qubo-problems-using-qiskit-f4eab6cc3061);
+ - [RG-Universitatea din Genova: Cum se rezolvă problemele de programare pătratică cu variabile continue utilizând algoritmii cuantici Qiskit?](https://www.researchgate.net/post/How_to_solve_quadratic_programming_problems_with_continuous_variables_by_using_Qiskit_quantum_algorithms)
  - [informatyka.agh.edu-p1: Rezolvarea problemelor de Optimizare folosind **Qiskit**-Aqua](https://www.informatyka.agh.edu.pl/media/uploads/kqis-34-katarzyna-rycerz-01-12-2020-slides.pdf)
  - [medium @shoaib6174: Cum se rezolva problema colorarii grafului folosind algoritmii **Qiskit**-Grover ](https://medium.com/@shoaib6174/how-to-solve-the-graph-coloring-problems-using-qiskits-grover-algorithm-e87eb52f203); [WK: Algoritmul Grover](https://en.wikipedia.org/wiki/Grover%27s_algorithm)
  - [WK: Algoritmul lui Shor se identifica sau mai bine zis rezolva problema factorizarii](https://en.wikipedia.org/wiki/Shor%27s_algorithm)
