@@ -13,8 +13,10 @@
  - [GH qiskit-community: Ghid migrare Aqua(algoritmi Qiskit)](https://qiskit.org/documentation/aqua_tutorials/Qiskit%20Algorithms%20Migration%20Guide.html)
  - [GH qiskit-community: Qiskit-Finante](https://github.com/Qiskit/qiskit-finance/)
  - [GH qiskit-community: Qiskit-Nature/Chimie/mecanica cuantica](https://github.com/Qiskit/qiskit-nature/)
- - [GH qiskit-community: qiskit-Metal = open-source Quantum Hardware(QH) Design](https://github.com/qiskit-community/qiskit-metal)
+ - [GH qiskit-community: Qiskit-Metal = open-source Quantum Hardware(QH) Design](https://github.com/qiskit-community/qiskit-metal)
  - [GH qiskit-community: ML(QML)](https://github.com/qiskit-community/qiskit-machine-learning)
+ - [GH qiskit-community: Qiskit Human-Eval](https://github.com/qiskit-community/qiskit-human-eval)
+ - <br/>Qiskit Human-Eval este un set de date pentru evaluarea LLM-urilor la scrierea codului Qiskit.
  - [GH qiskit-community: Qiskit-Optimizare](https://github.com/Qiskit/qiskit-optimization/)
  - [GH qiskit-community: ffsim=Chimie cuantica](https://github.com/qiskit-community/ffsim?tab=readme-ov-file)
  <br/>ffsim este o bibliotecă de software(SW) pentru simularea *circuitelor cuantice* ***fermionice*** care conservă numărul de particule și componenta Z a spinului.
