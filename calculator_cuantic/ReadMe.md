@@ -1,6 +1,7 @@
 [Salutare](https://chatgpt.com/share/67bee958-3e5c-800b-8c28-baa1e8dac211)
 
  - [evz.ro: Bizarul entanglement(intricare) cuantic(a) intre cuarcii din interiorul unui proton?](https://evz.ro/bizarul-entanglement-cuantic.html)
+ - [CERN-CMS experiment / Entangled Titans: dezvăluirea misterelor mecanicii cuantice cu quarci de top](https://cms.cern/news/entangled-titans-unraveling-mysteries-quantum-mechanics-top-quarks)
  - [Prima retea cuantica: 2 atomi si 1 foton](https://www.descopera.ro/dnews/9516175-prima-retea-cuantica-din-istorie-doi-atomi-si-un-foton?uord=Ns5kKKDvhz4iOm%3DyVpk2hVVCYgLpSYkyjz8gOY35JHcjhWj8OCWuJ22KpnESQhLyYphMjFsJVYHSOoMDiUDFPpOuJ2o3il9RMAbp9oEakTY%3DZ3C3I-Iisz3qQ6LlVH2hjlpDODQf)
  - [scientia.ro: Inseparabilitate cuantică şi peste timp?](https://www.scientia.ro/stiri-stiinta/80-fizica/4037-inseparabilitate-cuantica-si-peste-timp.html)
  - [stiintaSItehnica: Forma unui singur foton a fost dezvăluită pentru prima dată](https://stiintasitehnica.com/forma-unui-singur-foton-a-fost-dezvaluita-pentru-prima-data/)
