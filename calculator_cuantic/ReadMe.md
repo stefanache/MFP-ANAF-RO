@@ -13,6 +13,7 @@
  - [SCIENCE SMS – IATĂ CĂ MAGIA EXISTĂ LA NIVEL CUANTIC. FOTONII ENTANGLAȚI REPRODUC O IMAGINE DINTR-UN PARADOX](https://planetariubm.ro/2014/09/03/science-sms-iata-ca-magia-exista-la-nivel-cuantic-fotonii-entanglati-reproduc-o-imagine-dintr-un-paradox/)
  - [WK: QE/EPR](https://en.wikipedia.org/wiki/Quantum_entanglement); [WK: Paradoxul **EPR**(Einstein, Podolsky și Rosen)](https://ro.wikipedia.org/wiki/Paradoxul_EPR); [WK: EPR-paradox](https://en.wikipedia.org/wiki/Einstein%E2%80%93Podolsky%E2%80%93Rosen_paradox)
  - [WL: Principiul de incertitudine Heisenberg](https://en.wikipedia.org/wiki/Uncertainty_principle)
+   <br/>***Principiul*** **incertitudinii** , cunoscut și sub numele de ***principiul*** de **indeterminare** al lui ***Heisenberg*** , este un concept fundamental în *mecanica cuantică*.
    <br/>Acesta afirmă că există o limită a preciziei cu care anumite perechi de proprietăți fizice, cum ar fi poziția(**x**) și impulsul(**p**) , pot fi cunoscute simultan.
    <br/>Cu alte cuvinte, cu cât o proprietate este măsurată mai precis, cu atât se poate cunoaște mai puțin exact cealaltă proprietate.
    <br/>Mai formal, principiul incertitudinii este oricare dintr-o varietate de inegalități matematice care afirmă o limită fundamentală a produsului preciziei anumitor perechi de măsurători înrudite(σ<sub>x</sub>σ<sub>p</sub>) pe un sistem cuantic, cum ar fi poziția , **x** și impulsul, **p**.
