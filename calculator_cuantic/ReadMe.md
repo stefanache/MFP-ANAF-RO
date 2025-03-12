@@ -5,6 +5,7 @@
  - [medium @shoaib6174: Cum se rezolva problema colorarii grafului folosind algoritmii **Qiskit**-Grover ](https://medium.com/@shoaib6174/how-to-solve-the-graph-coloring-problems-using-qiskits-grover-algorithm-e87eb52f203); [WK: Algoritmul Grover](https://en.wikipedia.org/wiki/Grover%27s_algorithm)
  - [WK: Algoritmul lui Shor se identifica sau mai bine zis rezolva problema factorizarii](https://en.wikipedia.org/wiki/Shor%27s_algorithm)
  - [WK: Algoritmul Brassard–Høyer–Tapp(BHT) - rezolva problema coliziunii](https://en.wikipedia.org/wiki/BHT_algorithm); [WK: Problema de coliziune](https://en.wikipedia.org/wiki/Collision_problem)
+ - [GH qiskit-community: Antrenamentul unui Model Cuantic(QM) pe un Dataset(ds)-Real(RD)](https://qiskit-community.github.io/qiskit-machine-learning/tutorials/02a_training_a_quantum_model_on_a_real_dataset.html)
  - [evz.ro: Bizarul entanglement(intricare) cuantic(a) intre cuarcii din interiorul unui proton?](https://evz.ro/bizarul-entanglement-cuantic.html)
  - [CERN-CMS experiment / Entangled Titans: dezvăluirea misterelor mecanicii cuantice cu quarci de top](https://cms.cern/news/entangled-titans-unraveling-mysteries-quantum-mechanics-top-quarks)
  - [Prima retea cuantica: 2 atomi si 1 foton](https://www.descopera.ro/dnews/9516175-prima-retea-cuantica-din-istorie-doi-atomi-si-un-foton?uord=Ns5kKKDvhz4iOm%3DyVpk2hVVCYgLpSYkyjz8gOY35JHcjhWj8OCWuJ22KpnESQhLyYphMjFsJVYHSOoMDiUDFPpOuJ2o3il9RMAbp9oEakTY%3DZ3C3I-Iisz3qQ6LlVH2hjlpDODQf)
