@@ -19,6 +19,7 @@
  - [GH qiskit-community: Qiskit-Nature/Chimie/mecanica cuantica](https://github.com/Qiskit/qiskit-nature/)
  - [GH qiskit-community: Qiskit-Metal = open-source Quantum Hardware(QH) Design](https://github.com/qiskit-community/qiskit-metal)
  - [GH qiskit-community: ML(QML)](https://github.com/qiskit-community/qiskit-machine-learning)
+ - [arxiv.org-Qiskit Code Assistant: Antrenamentul LLM-urilor pentru generarea de cod Quantum Computing(QC)](https://arxiv.org/html/2405.19495v1)
  - [GH qiskit-community: Qiskit Human-Eval](https://github.com/qiskit-community/qiskit-human-eval)
    <br/>Qiskit Human-Eval este un set de date pentru evaluarea LLM-urilor la scrierea codului Qiskit.
  - [GH qiskit-community: Qiskit-Optimizare](https://github.com/Qiskit/qiskit-optimization/)
