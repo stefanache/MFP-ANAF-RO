@@ -22,8 +22,8 @@
 
  unde
    
-    - <img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/df05180652a87fe1af83af4bba3402117bd18466"></img>    este *contanta Planck(*h*) redusa* (sau constanta Planck împărțită la 2π) iar
-   - **σ** este *abaterea standard* a pozitiei(σ<sub>x</sub>) si respectiv a impulsului(σ<sub>p</sub>). 
+  - <img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/df05180652a87fe1af83af4bba3402117bd18466"></img>    este *contanta Planck(*h*) redusa* (sau constanta Planck împărțită la 2π) iar
+  - **σ** este *abaterea standard* a pozitiei(σ<sub>x</sub>) si respectiv a impulsului(σ<sub>p</sub>). 
    
    Astfel de variabile pereche(**x** = pozitie, **p** = impuls) sunt cunoscute ca *variabile complementare* sau *variabile conjugate canonic*.
  - [liveScience: Oamenii de știință descoperă o modalitate mai simplă de a realiza „acțiunea înfricoșătoare la distanță(QE)” a lui Einstein, datorită descoperirii AI – aducând internetul cuantic mai aproape de realitate](https://www.livescience.com/technology/computing/scientists-discover-simpler-way-to-achieve-einsteins-spooky-action-at-a-distance-thanks-to-ai-bringing-quantum-internet-closer-to-reality)
