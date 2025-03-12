@@ -8,7 +8,7 @@
  - [GOV.ro-uefiscdi-tema_9: QuanTec](https://uefiscdi.gov.ro/resource-820147-tema_9.pdf)
  - [roqnet.ro-Report2020: QUTECH-RO: RAPORT ȘTIINȚIFIC ȘI TEHNIC IN EXTENSO](/https://roqnet.ro/wp-content/uploads/2020/12/Raport_2020.pdf)
  - [ubbcluj.ro-grant-QTstrat: OPTICA NELINIARĂ INTEGRATĂ ÎN SERVICIUL COMUNICAȚIILOR CUANTICE](https://qtstrat.granturi.ubbcluj.ro/wp-content/uploads/2023/06/Newsletter_nr6_QTSTRAT_2023-CORECTAT.pdf)
- - [RomaniaLibera.ro: Entanglementul cuantic, soluția pentru a avea procesoare super-rapide](https://romanialibera.ro/special/video-entanglementul-cuantic-solutia-pentru-a-avea-procesoare-super-rapide-366106/)
+ - [RomaniaLibera.ro: Entanglementul(intricarea) cuantic(a), soluția pentru a avea procesoare super-rapide](https://romanialibera.ro/special/video-entanglementul-cuantic-solutia-pentru-a-avea-procesoare-super-rapide-366106/)
  - [SCIENCE SMS – IATĂ CĂ MAGIA EXISTĂ LA NIVEL CUANTIC. FOTONII ENTANGLAȚI REPRODUC O IMAGINE DINTR-UN PARADOX](https://planetariubm.ro/2014/09/03/science-sms-iata-ca-magia-exista-la-nivel-cuantic-fotonii-entanglati-reproduc-o-imagine-dintr-un-paradox/)
  - [WK: QE/EPR](https://en.wikipedia.org/wiki/Quantum_entanglement); [WK: Paradoxul **EPR**(Einstein, Podolsky și Rosen)](https://ro.wikipedia.org/wiki/Paradoxul_EPR)
  - [liveScience: Oamenii de știință descoperă o modalitate mai simplă de a realiza „acțiunea înfricoșătoare la distanță(QE)” a lui Einstein, datorită descoperirii AI – aducând internetul cuantic mai aproape de realitate](https://www.livescience.com/technology/computing/scientists-discover-simpler-way-to-achieve-einsteins-spooky-action-at-a-distance-thanks-to-ai-bringing-quantum-internet-closer-to-reality)
