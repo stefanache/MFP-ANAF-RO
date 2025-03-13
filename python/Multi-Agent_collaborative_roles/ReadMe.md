@@ -5,5 +5,6 @@ Acest post va ofera cateva exemple de cadre AI multi-agent capermit ca mai multi
 Iata cateva exemple de Agenti-colaborativi:
 
  - [YT - Fahd Mirza: How to Build Multi-Agent AI Application with AutoGen](https://www.youtube.com/watch?v=YU9TmHcmjC4)
+ - [YT - Tyler AI: AutoGen Tutorial | NO CODE AutoGen Studio UI](https://www.youtube.com/watch?v=ZmduUzy5--o&ab_channel=TylerAI)
  - [YT - Fahd Mirza: Install PraisonAI with Ollama - Multi-Agent Autonomous AI System](https://www.youtube.com/watch?v=wJzeg6IUzJY)
  - 
