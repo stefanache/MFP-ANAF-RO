@@ -27,4 +27,4 @@ Iata cateva exemple de tutoriale/articole/media legate de Agentii-colaborativi:
  - [dzone-articles: Multi-Agent Conversation With AutoGen AI](https://dzone.com/articles/multi-agent-conversation-with-autogen-ai)
  - [GH-NirDiamant-GenAI_Agents-all-agents-tutorials: research-team autogen](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/research_team_autogen.ipynb); [GH-NirDiamant: GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents/tree/main)
  - [ag2.ai-docs useCases-notebooks AgentChat-2-users: Auto Generated Agent Chat: Collaborative Task Solving with Multiple Agents and Human User](https://docs.ag2.ai/docs/use-cases/notebooks/notebooks/agentchat_two_users)
- - [guptadeepak - CrewAI vs.AutoGen: Choosing the Right AI Agent Framework](https://guptadeepak.com/crewai-vs-autogen-choosing-the-right-ai-agent-framework/)
+ - [guptadeepak - CrewAI vs. AutoGen: Choosing the Right AI Agent Framework](https://guptadeepak.com/crewai-vs-autogen-choosing-the-right-ai-agent-framework/)
