@@ -13,4 +13,5 @@ Iata cateva exemple de Agenti-colaborativi:
  - [YT - Fahd Mirza: More Agents Is All You Need](https://www.youtube.com/watch?v=awbsdnPkPLA&ab_channel=FahdMirza)
  - [YT - Fahd Mirza: SmolAgents with Ollama - A Simple Library to Build AI Agents - Install Locally](https://www.youtube.com/watch?v=pOBwIvpGWvU&ab_channel=FahdMirza)
  - [Medium @tsiciliani: Multi-Agent Conversation with AutoGen AI](https://medium.com/@tsiciliani/multi-agent-conversation-with-autogen-ai-52a48240e698)
+ - [Medium @LakshmiNarayana_U: Design Patterns for AI Agents - Using Autogen for Effective Multi-Agent Collaboration](https://medium.com/@LakshmiNarayana_U/design-patterns-for-ai-agents-using-autogen-for-effective-multi-agent-collaboration-5f1067a7c63b)
  - [GH-MS-Autogen-v0.2-docs-UseCase=AgentChat: Multi-agent Conversation Framework](https://microsoft.github.io/autogen/0.2/docs/Use-Cases/agent_chat/)
