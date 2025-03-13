@@ -8,6 +8,7 @@ Iata cateva exemple de Agenti-colaborativi:
  - [YT - Tyler AI: AutoGen Tutorial | NO CODE AutoGen Studio UI](https://www.youtube.com/watch?v=ZmduUzy5--o&ab_channel=TylerAI)
  - [YT - SingleStore: How to Build a Multi-Agent AI App with AutoGen | SingleStore Webinars](https://www.youtube.com/watch?v=_6g5X4EmRBE&ab_channel=SingleStore)
  - [YT - DeepLearningAI: Learn to build multi-agent systems with diverse roles and capabilities with AutoGen](https://www.youtube.com/watch?v=6gnvm-8NEmA&ab_channel=DeepLearningAI)
+ - [YT - AssemblyAI: AutoGen Tutorial 🤖 Create Collaborating AI Agent teams](https://www.youtube.com/watch?v=0GyJ3FLHR1o&ab_channel=AssemblyAI)
  - [YT - Fahd Mirza: Install PraisonAI with Ollama - Multi-Agent Autonomous AI System](https://www.youtube.com/watch?v=wJzeg6IUzJY)
  - [YT - Fahd Mirza: More Agents Is All You Need](https://www.youtube.com/watch?v=awbsdnPkPLA&ab_channel=FahdMirza)
  - [YT - Fahd Mirza: SmolAgents with Ollama - A Simple Library to Build AI Agents - Install Locally](https://www.youtube.com/watch?v=pOBwIvpGWvU&ab_channel=FahdMirza)
