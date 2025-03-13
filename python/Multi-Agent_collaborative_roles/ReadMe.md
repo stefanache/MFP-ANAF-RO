@@ -2,7 +2,7 @@ Salut!
 
 Acest post va ofera cateva exemple de cadre AI multi-agent capermit ca mai multi agenti sa colaboreze intre ei pentru o sarcina/sarcini comun[a/e], fiecare dintre acestia jucand/asumandu-si un rol anume.
 
-Iata cateva exemple de Agenti-colaborativi:
+Iata cateva exemple de articole/media legate de Agentii-colaborativi:
 
  - [YT - Fahd Mirza: How to Build Multi-Agent AI Application with AutoGen](https://www.youtube.com/watch?v=YU9TmHcmjC4)
  - [YT - Tyler AI: AutoGen Tutorial | NO CODE AutoGen Studio UI](https://www.youtube.com/watch?v=ZmduUzy5--o&ab_channel=TylerAI)
@@ -16,3 +16,4 @@ Iata cateva exemple de Agenti-colaborativi:
  - [Medium @LakshmiNarayana_U: Design Patterns for AI Agents - Using Autogen for Effective Multi-Agent Collaboration](https://medium.com/@LakshmiNarayana_U/design-patterns-for-ai-agents-using-autogen-for-effective-multi-agent-collaboration-5f1067a7c63b)
  - [GH-MS-Autogen-v0.2-docs-UseCase=AgentChat: Multi-agent Conversation Framework](https://microsoft.github.io/autogen/0.2/docs/Use-Cases/agent_chat/)
  - [Linkedin-pulse @Stanimir-Sotirov: AutoGen: Microsoft's Game-Changer in Multi-Agent AI Collaboration](https://www.linkedin.com/pulse/autogen-microsofts-game-changer-multi-agent-ai-sotirov/)
+ - [akira.ai-blog: Microsoft AutoGen - Redefining Multi-Agent System Frameworks](https://www.akira.ai/blog/microsoft-autogen-with-multi-agent-system)
