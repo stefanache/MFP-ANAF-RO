@@ -1,6 +1,7 @@
 Salut!
 
-Acest post va ofera cateva exemple de cadre AI multi-agent capermit ca mai multi agenti sa colaboreze intre ei pentru o sarcina/sarcini comun[a/e], fiecare dintre acestia jucand/asumandu-si un rol anume.
+Acest post va ofera cateva exemple de cadre AI multi-agent capermit ca mai multi agenti sa colaboreze intre ei pentru o sarcina/sarcini comun[a/e], fiecare dintre acestia jucand/asumandu-si un rol anume. 
+<br/>Orchestrarea multi-agent poate fi o sarcina complexa ce necesita o concentrare de informatii pe masura.
 
 Iata cateva exemple de tutoriale/articole/media legate de Agentii-colaborativi:
 
@@ -19,3 +20,4 @@ Iata cateva exemple de tutoriale/articole/media legate de Agentii-colaborativi:
  - [akira.ai-blog: Microsoft AutoGen - Redefining Multi-Agent System Frameworks](https://www.akira.ai/blog/microsoft-autogen-with-multi-agent-system)
  - [neon.tech-blog: Multi-Agent AI Solution with Neon, Langchain(LC), AutoGen and Azure OpenAI](https://neon.tech/blog/multi-agent-ai-solution-with-neon-langchain-autogen-and-azure-openai)
  - [gettingStarted.ai: AutoGen 0.4 Tutorial - Create a Team of AI Agents (+ Local LLM w/ Ollama)](https://www.gettingstarted.ai/autogen-multi-agent-workflow-tutorial/)
+ - [adasci.org: How to build a multi-agent system with Autogen?](https://adasci.org/how-to-build-a-multi-agent-system-with-autogen/)
