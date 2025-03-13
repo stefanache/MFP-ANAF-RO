@@ -6,6 +6,7 @@ Acest post va ofera cateva exemple de cadre AI multi-agent capermit ca mai multi
 Iata cateva exemple de tutoriale/articole/media legate de Agentii-colaborativi:
 
  - [drLee.io: Multi-Agent AutoGen with Functions - Step-by-Step with Code Examples](https://drlee.io/multi-agent-autogen-with-functions-step-by-step-with-code-examples-2515b3ab2ac6)
+ - [skimAI: What is AutoGen? Our Full Guide to the Autogen Multi-Agent Platform](https://skimai.com/what-is-autogen-our-full-guide-to-the-autogen-multi-agent-platform/)
  - [YT - Fahd Mirza: How to Build Multi-Agent AI Application with AutoGen](https://www.youtube.com/watch?v=YU9TmHcmjC4)
  - [YT - Tyler AI: AutoGen Tutorial | NO CODE AutoGen Studio UI](https://www.youtube.com/watch?v=ZmduUzy5--o&ab_channel=TylerAI)
  - [YT - SingleStore: How to Build a Multi-Agent AI App with AutoGen | SingleStore Webinars](https://www.youtube.com/watch?v=_6g5X4EmRBE&ab_channel=SingleStore)
