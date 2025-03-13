@@ -33,6 +33,6 @@ Iata cateva exemple de tutoriale/articole/media legate de Agentii-colaborativi:
  - [MS-research-blog: Introducing AutoGen Studio - A low-code interface for building multi-agent workflows](https://www.microsoft.com/en-us/research/blog/introducing-autogen-studio-a-low-code-interface-for-building-multi-agent-workflows/)
  - [YT-Matthew Berman: AutoGen Tutorial 🚀 Create Custom AI Agents EASILY (Incredible)](https://www.youtube.com/watch?v=vU2S6dVf79M&ab_channel=MatthewBerman)
    <br/>În acest videoclip, se arată/prezinta cum să utilizați AutoGen, care permite oricui să folosească LLM-uri multi-agenți pentru a-și alimenta aplicațiile.
-   <br/>În primul rând, se oferă o privire de ansamblu asupra a ceea ce este AutoGen și apoi vă arăt cum să îl utilizați cu două exemple.
+   <br/>În primul rând, se oferă o privire de ansamblu asupra a ceea ce este AutoGen și apoi se arată cum să îl utilizați cu/in două exemple.
    <br/>În prezent, AutoGen funcționează cu API-ul OpenAI, dar lucrează deja la adăugarea modelelor locale în mod nativ și o puteți face deja prin LiteLLM cu un server proxy.
    <br/>Bucură-te de :) 
