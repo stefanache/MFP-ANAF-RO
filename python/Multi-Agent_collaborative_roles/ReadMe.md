@@ -23,3 +23,4 @@ Iata cateva exemple de tutoriale/articole/media legate de Agentii-colaborativi:
  - [gettingStarted.ai: AutoGen 0.4 Tutorial - Create a Team of AI Agents (+ Local LLM w/ Ollama)](https://www.gettingstarted.ai/autogen-multi-agent-workflow-tutorial/)
  - [adasci.org: How to build a multi-agent system with Autogen?](https://adasci.org/how-to-build-a-multi-agent-system-with-autogen/)
  - [goMLl.io-AutoGen: Revolutionizing Multi-Agent AI Systems for Advanced Text Analysis](https://www.goml.io/autogen-revolutionizing-multi-agent-ai-systems-for-advanced-text-analysis/)
+ - [MS-research-publication: AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation](https://www.microsoft.com/en-us/research/publication/autogen-enabling-next-gen-llm-applications-via-multi-agent-conversation-framework/)
