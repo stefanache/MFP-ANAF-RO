@@ -35,4 +35,4 @@ Iata cateva exemple de tutoriale/articole/media legate de Agentii-colaborativi:
    <br/>În acest videoclip, se arată/prezinta cum să utilizați AutoGen, care permite oricui să folosească LLM-uri multi-agenți pentru a-și alimenta aplicațiile.
    <br/>În primul rând, se oferă o privire de ansamblu asupra a ceea ce este AutoGen și apoi se arată cum să îl utilizați cu/in două exemple.
    <br/>În prezent, AutoGen funcționează cu API-ul OpenAI, dar lucrează deja la adăugarea modelelor locale în mod nativ și o puteți face deja prin LiteLLM cu un server proxy. Bucură-te de :)
- - [deepLearning.ai-theBatch: Agentic Design Patterns Part 5, Multi-Agent Collaboration](https://www.deeplearning.ai/the-batch/agentic-design-patterns-part-5-multi-agent-collaboration/)
+ - [deepLearning.ai-theBatch: Agentic Design Patterns Part 5(from 5), Multi-Agent Collaboration](https://www.deeplearning.ai/the-batch/agentic-design-patterns-part-5-multi-agent-collaboration/)
