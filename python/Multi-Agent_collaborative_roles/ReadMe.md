@@ -35,7 +35,7 @@ Iata cateva exemple de tutoriale/articole/media legate de Agentii-colaborativi:
    <br/>În acest videoclip, se arată/prezinta cum să utilizați AutoGen, care permite oricui să folosească LLM-uri multi-agenți pentru a-și alimenta aplicațiile.
    <br/>În primul rând, se oferă o privire de ansamblu asupra a ceea ce este AutoGen și apoi se arată cum să îl utilizați cu/in două exemple.
    <br/>În prezent, AutoGen funcționează cu API-ul OpenAI, dar lucrează deja la adăugarea modelelor locale în mod nativ și o puteți face deja prin LiteLLM cu un server proxy. Bucură-te de :)
- - [deepLearning.ai-theBatch: Agentic Design Patterns Part 5(from 5), Multi-Agent Collaboration](https://www.deeplearning.ai/the-batch/agentic-design-patterns-part-5-multi-agent-collaboration/);
+ - [5/5 deepLearning.ai-theBatch: Agentic Design Patterns Part 5, Multi-Agent Collaboration](https://www.deeplearning.ai/the-batch/agentic-design-patterns-part-5-multi-agent-collaboration/);
    <br/>[1/5: Agentic Design Patterns Part 1
 Four AI agent strategies that improve GPT-4 and GPT-3.5 performance](https://www.deeplearning.ai/the-batch/how-agents-can-improve-llm-performance/?ref=dl-staging-website.ghost.io),
 <br/>[2/5: Reflection](https://www.deeplearning.ai/the-batch/agentic-design-patterns-part-2-reflection/?ref=dl-staging-website.ghost.io), [3/5: Tool-use](https://www.deeplearning.ai/the-batch/agentic-design-patterns-part-3-tool-use/?ref=dl-staging-website.ghost.io), [4/5: Planning](https://www.deeplearning.ai/the-batch/agentic-design-patterns-part-4-planning/?ref=dl-staging-website.ghost.io)
