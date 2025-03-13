@@ -18,3 +18,4 @@ Iata cateva exemple de tutoriale/articole/media legate de Agentii-colaborativi:
  - [Linkedin-pulse @Stanimir-Sotirov: AutoGen: Microsoft's Game-Changer in Multi-Agent AI Collaboration](https://www.linkedin.com/pulse/autogen-microsofts-game-changer-multi-agent-ai-sotirov/)
  - [akira.ai-blog: Microsoft AutoGen - Redefining Multi-Agent System Frameworks](https://www.akira.ai/blog/microsoft-autogen-with-multi-agent-system)
  - [neon.tech-blog: Multi-Agent AI Solution with Neon, Langchain(LC), AutoGen and Azure OpenAI](https://neon.tech/blog/multi-agent-ai-solution-with-neon-langchain-autogen-and-azure-openai)
+ - [gettingStarted.ai: AutoGen 0.4 Tutorial - Create a Team of AI Agents (+ Local LLM w/ Ollama)](https://www.gettingstarted.ai/autogen-multi-agent-workflow-tutorial/)
