@@ -44,3 +44,4 @@ Four AI agent strategies that improve GPT-4 and GPT-3.5 performance](https://www
  - [arxiv-Wu et al. (2023): AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation](https://arxiv.org/abs/2308.08155?utm_campaign=The%20Batch&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8TZzur2df1qdnGx09b-Fg94DTsc3-xXao4StKvKNU2HR51el3n8yOm0CPSw6GiAoLQNKua)
  - [arxiv-Hong et al. (2023): MetaGPT: Meta Programming for a Multi-Agent Collaborative Framework](https://arxiv.org/abs/2308.00352?utm_campaign=The%20Batch&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8TZzur2df1qdnGx09b-Fg94DTsc3-xXao4StKvKNU2HR51el3n8yOm0CPSw6GiAoLQNKua)
  - [innobu: Exploring Multi-Agent Collaboration: The Power of AI Teams](https://www.innobu.com/exploring-multi-agent-collaboration-the-power-of-ai-teams/)
+ - [anthemcreation-AI: MS AutoGen - Multi-Agent AI explained](https://anthemcreation.com/en/artificial-intelligence/autogen-ia-multi-agents-2/)
