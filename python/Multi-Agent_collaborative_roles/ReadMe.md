@@ -46,3 +46,4 @@ Four AI agent strategies that improve GPT-4 and GPT-3.5 performance](https://www
  - [innobu: Exploring Multi-Agent Collaboration: The Power of AI Teams](https://www.innobu.com/exploring-multi-agent-collaboration-the-power-of-ai-teams/)
  - [anthemcreation-AI: MS AutoGen - Multi-Agent AI explained](https://anthemcreation.com/en/artificial-intelligence/autogen-ia-multi-agents-2/)
  - [arxiv-abs: AutoGen - Enabling Next-Gen LLM Applications via Multi-Agent Conversation](https://arxiv.org/abs/2308.08155)
+ - [aiAgentStore.ai - compare-ai-agents: Agentic AI Comparison - AutoGen vs CrewAI](https://aiagentstore.ai/compare-ai-agents/autogen-vs-crewai)
