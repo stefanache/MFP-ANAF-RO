@@ -1,0 +1,9 @@
+Salut!
+
+Acest post va ofera cateva exemple de cadre AI multi-agent capermit ca mai multi agenti sa colaboreze intre ei pentru o sarcina/sarcini comun[a/e], fiecare dintre acestia jucand/asumandu-si un rol anume.
+
+Iata cateva exemple de Agenti-colaborativi:
+
+ - [YT - Fahd Mirza: How to Build Multi-Agent AI Application with AutoGen](https://www.youtube.com/watch?v=YU9TmHcmjC4)
+ - [YT - Fahd Mirza: Install PraisonAI with Ollama - Multi-Agent Autonomous AI System](https://www.youtube.com/watch?v=wJzeg6IUzJY)
+ - 
