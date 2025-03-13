@@ -5,6 +5,7 @@ Acest post va ofera cateva exemple de cadre AI multi-agent capermit ca mai multi
 
 Iata cateva exemple de tutoriale/articole/media legate de Agentii-colaborativi:
 
+ - [Google-imags: topic = AI multi agent collaborative role autogen](https://www.google.com/search?sca_esv=1d2540407750373b&rlz=1C1CHBF_enRO1132RO1132&sxsrf=AHTn8zqIiG083gYZajSQhe46-E08awEo1A:1741873594903&q=AI+multi+agent+collaborative+role+autogen&udm=2&fbs=ABzOT_BYhiZpMrUAF0c9tORwPGls0vqphpL9nGKy0PrLJqseLh0EQ6IW_YF9DHIKeRA2FImp3Dx7GIevZQOss0rMv5Tw3qvJeve1MmdHGrmodySi5TM8pW6qnUccLfvnJ2vQ3v0SNKzzRS8prjqj44U6MeXfSnKqc55B3wT4ZezkkFqJjV4U735uJK1UF-ZqqnTojGQmUjSwghU8C1tn6U0K09KSg01dIA&sa=X&ved=2ahUKEwiDrPjmmIeMAxX4B9sEHc-CC1k4HhC0qAt6BAgiEAE&biw=1920&bih=911&dpr=1)
  - [drLee.io: Multi-Agent AutoGen with Functions - Step-by-Step with Code Examples](https://drlee.io/multi-agent-autogen-with-functions-step-by-step-with-code-examples-2515b3ab2ac6)
  - [skimAI: What is AutoGen? Our Full Guide to the Autogen Multi-Agent Platform](https://skimai.com/what-is-autogen-our-full-guide-to-the-autogen-multi-agent-platform/)
  - [YT - Fahd Mirza: How to Build Multi-Agent AI Application with AutoGen](https://www.youtube.com/watch?v=YU9TmHcmjC4)
