@@ -8,8 +8,8 @@ Iata cateva exemple de tutoriale/articole/media legate de Agentii-colaborativi:
  - [YT - Fahd Mirza: How to Build Multi-Agent AI Application with AutoGen](https://www.youtube.com/watch?v=YU9TmHcmjC4)
  - [YT - Tyler AI: AutoGen Tutorial | NO CODE AutoGen Studio UI](https://www.youtube.com/watch?v=ZmduUzy5--o&ab_channel=TylerAI)
  - [YT - SingleStore: How to Build a Multi-Agent AI App with AutoGen | SingleStore Webinars](https://www.youtube.com/watch?v=_6g5X4EmRBE&ab_channel=SingleStore)
- - [YT - DeepLearningAI: Learn to build multi-agent systems with diverse roles and capabilities with AutoGen](https://www.youtube.com/watch?v=6gnvm-8NEmA&ab_channel=DeepLearningAI)
- - [deeplearning.ai: AI Agentic Design Patterns with AutoGen](https://www.deeplearning.ai/short-courses/ai-agentic-design-patterns-with-autogen/)
+ - [YT - deepLearningAI: Learn to build multi-agent systems with diverse roles and capabilities with AutoGen](https://www.youtube.com/watch?v=6gnvm-8NEmA&ab_channel=DeepLearningAI)
+ - [deepLearning.ai: AI Agentic Design Patterns with AutoGen](https://www.deeplearning.ai/short-courses/ai-agentic-design-patterns-with-autogen/)
  - [YT - AssemblyAI: AutoGen Tutorial 🤖 Create Collaborating AI Agent teams](https://www.youtube.com/watch?v=0GyJ3FLHR1o&ab_channel=AssemblyAI)
  - [YT - Fahd Mirza: Install PraisonAI with Ollama - Multi-Agent Autonomous AI System](https://www.youtube.com/watch?v=wJzeg6IUzJY)
  - [YT - Fahd Mirza: More Agents Is All You Need](https://www.youtube.com/watch?v=awbsdnPkPLA&ab_channel=FahdMirza)
@@ -28,11 +28,11 @@ Iata cateva exemple de tutoriale/articole/media legate de Agentii-colaborativi:
  - [dzone-articles: Multi-Agent Conversation With AutoGen AI](https://dzone.com/articles/multi-agent-conversation-with-autogen-ai)
  - [GH-NirDiamant-GenAI_Agents-all-agents-tutorials: research-team autogen](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/research_team_autogen.ipynb); [GH-NirDiamant: GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents/tree/main)
  - [ag2.ai-docs useCases-notebooks AgentChat-2-users: Auto Generated Agent Chat: Collaborative Task Solving with Multiple Agents and Human User](https://docs.ag2.ai/docs/use-cases/notebooks/notebooks/agentchat_two_users)
- - [guptadeepak - CrewAI vs. AutoGen: Choosing the Right AI Agent Framework](https://guptadeepak.com/crewai-vs-autogen-choosing-the-right-ai-agent-framework/)
+ - [guptaDeepAK - CrewAI vs. AutoGen: Choosing the Right AI Agent Framework](https://guptadeepak.com/crewai-vs-autogen-choosing-the-right-ai-agent-framework/)
  - [aiAgentStore.ai: Autogen](https://aiagentstore.ai/ai-agent/autogen)
  - [MS-research-blog: Introducing AutoGen Studio - A low-code interface for building multi-agent workflows](https://www.microsoft.com/en-us/research/blog/introducing-autogen-studio-a-low-code-interface-for-building-multi-agent-workflows/)
  - [YT-Matthew Berman: AutoGen Tutorial 🚀 Create Custom AI Agents EASILY (Incredible)](https://www.youtube.com/watch?v=vU2S6dVf79M&ab_channel=MatthewBerman)
    <br/>În acest videoclip, se arată/prezinta cum să utilizați AutoGen, care permite oricui să folosească LLM-uri multi-agenți pentru a-și alimenta aplicațiile.
    <br/>În primul rând, se oferă o privire de ansamblu asupra a ceea ce este AutoGen și apoi se arată cum să îl utilizați cu/in două exemple.
-   <br/>În prezent, AutoGen funcționează cu API-ul OpenAI, dar lucrează deja la adăugarea modelelor locale în mod nativ și o puteți face deja prin LiteLLM cu un server proxy.
-   <br/>Bucură-te de :) 
+   <br/>În prezent, AutoGen funcționează cu API-ul OpenAI, dar lucrează deja la adăugarea modelelor locale în mod nativ și o puteți face deja prin LiteLLM cu un server proxy. Bucură-te de :)
+ - [deepLearning.ai-theBatch: Agentic Design Patterns Part 5, Multi-Agent Collaboration](https://www.deeplearning.ai/the-batch/agentic-design-patterns-part-5-multi-agent-collaboration/)
