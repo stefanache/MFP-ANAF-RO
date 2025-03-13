@@ -31,3 +31,4 @@ Iata cateva exemple de tutoriale/articole/media legate de Agentii-colaborativi:
  - [guptadeepak - CrewAI vs. AutoGen: Choosing the Right AI Agent Framework](https://guptadeepak.com/crewai-vs-autogen-choosing-the-right-ai-agent-framework/)
  - [aiAgentStore.ai: Autogen](https://aiagentstore.ai/ai-agent/autogen)
  - [MS-research-blog: Introducing AutoGen Studio - A low-code interface for building multi-agent workflows](https://www.microsoft.com/en-us/research/blog/introducing-autogen-studio-a-low-code-interface-for-building-multi-agent-workflows/)
+ - [YT-Matthew Berman: AutoGen Tutorial 🚀 Create Custom AI Agents EASILY (Incredible)](https://www.youtube.com/watch?v=vU2S6dVf79M&ab_channel=MatthewBerman)
