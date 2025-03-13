@@ -17,3 +17,4 @@ Iata cateva exemple de tutoriale/articole/media legate de Agentii-colaborativi:
  - [GH-MS-Autogen-v0.2-docs-UseCase=AgentChat: Multi-agent Conversation Framework](https://microsoft.github.io/autogen/0.2/docs/Use-Cases/agent_chat/)
  - [Linkedin-pulse @Stanimir-Sotirov: AutoGen: Microsoft's Game-Changer in Multi-Agent AI Collaboration](https://www.linkedin.com/pulse/autogen-microsofts-game-changer-multi-agent-ai-sotirov/)
  - [akira.ai-blog: Microsoft AutoGen - Redefining Multi-Agent System Frameworks](https://www.akira.ai/blog/microsoft-autogen-with-multi-agent-system)
+ - [neon.tech-blog: Multi-Agent AI Solution with Neon, Langchain(LC), AutoGen and Azure OpenAI](https://neon.tech/blog/multi-agent-ai-solution-with-neon-langchain-autogen-and-azure-openai)
