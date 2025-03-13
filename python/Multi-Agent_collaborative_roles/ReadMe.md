@@ -30,3 +30,4 @@ Iata cateva exemple de tutoriale/articole/media legate de Agentii-colaborativi:
  - [ag2.ai-docs useCases-notebooks AgentChat-2-users: Auto Generated Agent Chat: Collaborative Task Solving with Multiple Agents and Human User](https://docs.ag2.ai/docs/use-cases/notebooks/notebooks/agentchat_two_users)
  - [guptadeepak - CrewAI vs. AutoGen: Choosing the Right AI Agent Framework](https://guptadeepak.com/crewai-vs-autogen-choosing-the-right-ai-agent-framework/)
  - [aiAgentStore.ai: Autogen](https://aiagentstore.ai/ai-agent/autogen)
+ - [MS-research-blog: Introducing AutoGen Studio - A low-code interface for building multi-agent workflows](https://www.microsoft.com/en-us/research/blog/introducing-autogen-studio-a-low-code-interface-for-building-multi-agent-workflows/)
