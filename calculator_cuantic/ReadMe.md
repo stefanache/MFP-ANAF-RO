@@ -12,7 +12,7 @@
  - [IBM-quantum: Circuite-cuantice dinamice](https://www.ibm.com/quantum/blog/quantum-dynamic-circuits)
  - [MDPI: O abordare cuantică pentru explorarea rezultatelor numerice ale ecuației căldurii](https://www.mdpi.com/1999-4893/17/8/327)
  - [arxiv: Testarea cuantică în sălbăticie - un studiu de caz cu algoritmi **Qiskit**](https://arxiv.org/html/2501.06443v1)
- - [quantumComputingUK.org-tutorial: Aducerea circuitelor dinamice hardware-ului IBM Quantum](https://quantumcomputinguk.org/tutorials/multiplication-on-quantum-computers-with-qiskit)
+ - [quantumComputingUK-tutorial: Aducerea circuitelor dinamice hardware-ului IBM Quantum](https://quantumcomputinguk.org/tutorials/multiplication-on-quantum-computers-with-qiskit)
  - [Matematica computationala(MC)](https://en.wikipedia.org/wiki/Computational_mathematics)
  - [pypi.org-qiskit-optimization(cadru open-source): Qiskit-optimization(programul patratic bazat pe MinimumEigenOptimizer si QAOA pt a rezolva problema Max-Cut)](https://pypi.org/project/qiskit-optimization/)
  - [medium @billtcheng2013-De la Hello World la MaxCut: Rezolvarea problemelor grafice cu Qiskit](https://billtcheng2013.medium.com/from-hello-world-to-maxcut-solving-graph-problems-with-qiskit-3837191aa04c)
