@@ -1,6 +1,7 @@
 [Salutare](https://chatgpt.com/share/67bee958-3e5c-800b-8c28-baa1e8dac211)
 
- -[GH-hgmin1159: Basele computerului cuantic - Partea 6. Pornirea **Qiskit**](https://hgmin1159.github.io/quantum/quantum6_eng/)
+ - [Medium @_monitsharma: Aflați calculul cuantic cu **Qiskit** - Reprezentarea stării Qubit](https://medium.com/@_monitsharma/learn-quantum-computing-with-qiskit-representing-qubit-state-aed033b612d0)
+ - [GH-hgmin1159: Basele computerului cuantic - Partea 6. Pornirea **Qiskit**](https://hgmin1159.github.io/quantum/quantum6_eng/)
  - [Medium @Monit Sharma: Învață calculul cuantic cu Qiskit - algebră liniară  - Cursul 3: Introducere în Algebra Lineară pentru Calcul Cuantic](https://medium.com/@_monitsharma/learn-quantum-computing-with-qiskit-linear-algebra-501587c3297d)
  - [Medium @devmallyakarar: Mașini vectoriale de suport cuantic (QSVM) folosind **Qiskit**](https://medium.com/@devmallyakarar/quantum-support-vector-machines-qsvm-using-qiskit-eee347e81d83)
  - [Medium @devmallyakarar: Rețele neuronale convoluționale cuantice(QCNN) pentru clasificare folosind straturi de interacțiune și PennyLane](https://medium.com/@devmallyakarar/quantum-convolutional-neural-networks-for-classification-using-interaction-layers-d94649de42b5)
