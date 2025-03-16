@@ -1,5 +1,6 @@
 [Salutare](https://chatgpt.com/share/67bee958-3e5c-800b-8c28-baa1e8dac211)
 
+ - [instructables: Algoritm cuantic pentru rezolvarea sistemului de ecuații liniare și inegalități](https://www.instructables.com/Quantum-Algorithm-to-Solve-System-of-Equations-and/)
  - [Medium @_monitsharma: Aflați calculul cuantic cu **Qiskit** - Reprezentarea stării Qubit](https://medium.com/@_monitsharma/learn-quantum-computing-with-qiskit-representing-qubit-state-aed033b612d0)
  - [RG: Fully quantum algorithm for lattice Boltzmann methods with application to partial differential equations(PDE)](https://www.researchgate.net/publication/370763603_Fully_quantum_algorithm_for_lattice_Boltzmann_methods_with_application_to_partial_differential_equations)
  - [hpi-courses: Lecture 3 - Bonus Episode - Maxcut with Qiskit](https://open.hpi.de/courses/qc-optimization2023/items/4nHh8DONhXSC5hROoZ1tRD)
