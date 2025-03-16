@@ -5,6 +5,7 @@
  - [Medium @devmallyakarar: Rețele neuronale convoluționale cuantice(QCNN) pentru clasificare folosind straturi de interacțiune și PennyLane](https://medium.com/@devmallyakarar/quantum-convolutional-neural-networks-for-classification-using-interaction-layers-d94649de42b5)
  - [Medium @naokishibuya: Rezolvarea problemelor de tăiere maximă(Max-Cut) cu recoacerea cuantică D-Wave](https://medium.com/@naokishibuya/solving-max-cut-problems-with-d-wave-quantum-annealing-987c6ed72c5c)
  - [MDPI: Generarea de grafuri pentru stările cuantice folosind **Qiskit** și aplicația sa pentru rețele neuronale cuantice(QNN)](https://www.mdpi.com/2227-7390/11/6/1484)
+ - [stackexchange-QC: Rezolvarea ecuației cuantice folosind **Qiskit**](https://quantumcomputing.stackexchange.com/questions/38370/solving-quantum-equation-using-qiskit)
  - [arxiv: Testarea cuantică în sălbăticie - un studiu de caz cu algoritmi **Qiskit**](https://arxiv.org/html/2501.06443v1)
  - [Matematica computationala(MC)](https://en.wikipedia.org/wiki/Computational_mathematics)
  - [pypi.org-qiskit-optimization(cadru open-source): Qiskit-optimization(programul patratic bazat pe MinimumEigenOptimizer si QAOA pt a rezolva problema Max-Cut)](https://pypi.org/project/qiskit-optimization/)
