@@ -3,6 +3,7 @@
  - [Medium @Monit Sharma: Învață calculul cuantic cu Qiskit - algebră liniară  - Cursul 3: Introducere în Algebra Lineară pentru Calcul Cuantic](https://medium.com/@_monitsharma/learn-quantum-computing-with-qiskit-linear-algebra-501587c3297d)
  - [Medium @devmallyakarar: Mașini vectoriale de suport cuantic (QSVM) folosind **Qiskit**](https://medium.com/@devmallyakarar/quantum-support-vector-machines-qsvm-using-qiskit-eee347e81d83)
  - [Medium @devmallyakarar: Rețele neuronale convoluționale cuantice(QCNN) pentru clasificare folosind straturi de interacțiune și PennyLane](https://medium.com/@devmallyakarar/quantum-convolutional-neural-networks-for-classification-using-interaction-layers-d94649de42b5)
+ - [Medium @naokishibuya: Rezolvarea problemelor de tăiere maximă(Max-Cut) cu recoacerea cuantică D-Wave](https://medium.com/@naokishibuya/solving-max-cut-problems-with-d-wave-quantum-annealing-987c6ed72c5c)
  - [arxiv: Testarea cuantică în sălbăticie - un studiu de caz cu algoritmi **Qiskit**](https://arxiv.org/html/2501.06443v1)
  - [Matematica computationala(MC)](https://en.wikipedia.org/wiki/Computational_mathematics)
  - [pypi.org-qiskit-optimization(cadru open-source): Qiskit-optimization(programul patratic bazat pe MinimumEigenOptimizer si QAOA pt a rezolva problema Max-Cut)](https://pypi.org/project/qiskit-optimization/)
