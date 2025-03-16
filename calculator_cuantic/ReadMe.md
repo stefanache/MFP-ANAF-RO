@@ -1,6 +1,7 @@
 [Salutare](https://chatgpt.com/share/67bee958-3e5c-800b-8c28-baa1e8dac211)
 
  - [Medium @Monit Sharma: Învață calculul cuantic cu Qiskit - algebră liniară  - Cursul 3: Introducere în Algebra Lineară pentru Calcul Cuantic](https://medium.com/@_monitsharma/learn-quantum-computing-with-qiskit-linear-algebra-501587c3297d)
+ - [Medium @devmallyakarar: Mașini vectoriale de suport cuantic (QSVM) folosind **Qiskit**](https://medium.com/@devmallyakarar/quantum-support-vector-machines-qsvm-using-qiskit-eee347e81d83)
  - [arxiv: Testarea cuantică în sălbăticie - un studiu de caz cu algoritmi **Qiskit**](https://arxiv.org/html/2501.06443v1)
  - [Matematica computationala(MC)](https://en.wikipedia.org/wiki/Computational_mathematics)
  - [pypi.org-qiskit-optimization(cadru open-source): Qiskit-optimization(programul patratic bazat pe MinimumEigenOptimizer si QAOA pt a rezolva problema Max-Cut)](https://pypi.org/project/qiskit-optimization/)
