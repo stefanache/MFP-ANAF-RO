@@ -8,6 +8,7 @@
  - [stackexchange-QC: Rezolvarea ecuației cuantice folosind **Qiskit**](https://quantumcomputing.stackexchange.com/questions/38370/solving-quantum-equation-using-qiskit)
  - [oReilly: Qiskit Pocket Guide by James L. Weaver, Frank J. Harkins ](https://www.oreilly.com/library/view/qiskit-pocket-guide/9781098112462/ch01.html)
  - [IBM Qiskit - QCircuit](https://docs.quantum.ibm.com/api/qiskit/circuit)
+ - [UK-QC:Tutorials](https://quantumcomputinguk.org/tutorials)
  - [arxiv: Testarea cuantică în sălbăticie - un studiu de caz cu algoritmi **Qiskit**](https://arxiv.org/html/2501.06443v1)
  - [Matematica computationala(MC)](https://en.wikipedia.org/wiki/Computational_mathematics)
  - [pypi.org-qiskit-optimization(cadru open-source): Qiskit-optimization(programul patratic bazat pe MinimumEigenOptimizer si QAOA pt a rezolva problema Max-Cut)](https://pypi.org/project/qiskit-optimization/)
