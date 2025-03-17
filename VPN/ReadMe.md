@@ -1,6 +1,6 @@
 Salut!
 
-O sa postez aici cateva link-uri utile, legat de VPN(cazul-clasic/standard/uzual: client=CLI conectat la un server=SRV/gateway=GW via [VPN-tunel](https://www.tp-link.com/ro/support/faq/2137/)), avand la dispozitie cel putin un PC cu Windows-preInstalat:
+O sa postez aici cateva link-uri utile, legat de VPN(cazul-clasic/standard/uzual: client=CLI conectat la un server=SRV/gateway=GW via [VPN-tunel](https://www.tp-link.com/ro/support/faq/2137/)), avand la dispozitie cel putin un PC cu Windows-preInstalat(si poate inca un PC sau mai multe precum si alte dispozitive cum ar fi router, NAS...):
 
  - [uwsp.edu: Set Up VPN on Windows 10(VPN W10) - server(VPN build-in) si client(VPN)](https://www3.uwsp.edu/infotech/Pages/Tutorials/VPN/Windows-10-VPN-Setup.aspx)
  - [pureInfoTech: Setup VPN-server on your W10(or WS-2019) <br/> DDNS(IP extern dynamic)  and ISP-Router/Port-Forwarding 2(to) incomming(via internet using protocol=PPTP) in your VPN-server](https://pureinfotech.com/setup-vpn-server-windows-10/)
