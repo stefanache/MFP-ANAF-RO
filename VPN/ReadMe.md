@@ -1,6 +1,6 @@
 Salut!
 
-O sa postez aici cateva link-uri utile, legat de VPN(client+server), avand pa dispozitie un PC cu Windows-preInstalat:
+O sa postez aici cateva link-uri utile, legat de VPN(client=CLI si server=SRV/gateway=GW), avand pa dispozitie un PC cu Windows-preInstalat:
 
  - [uwsp.edu: Set Up VPN on Windows 10(VPN W10) - server(VPN build-in) si client(VPN)](https://www3.uwsp.edu/infotech/Pages/Tutorials/VPN/Windows-10-VPN-Setup.aspx)
  - [pureInfoTech: Setup VPN-server on your W10(or WS-2019) <br/> DDNS(IP extern dynamic)  and ISP-Router/Port-Forwarding 2(to) incomming(via internet using protocol=PPTP) in your VPN-server](https://pureinfotech.com/setup-vpn-server-windows-10/)
@@ -33,3 +33,4 @@ O sa postez aici cateva link-uri utile, legat de VPN(client+server), avand pa di
  - [sagaSoftware.ro: Client-server–10 informații utile](https://www.sagasoftware.ro/client-server10-informatii-utile/)
  - [spy-shop.ro-media: TP-Link - Manualul utilizatorului Router Wi-Fi 6E tri-bandă AXE5400 Archer AXE75<br/>(un exemplu de router utilizat pt server-ul/serviciul VPN)](https://www.spy-shop.ro/media/custom/upload/Manual_utilizare_Router_tri-band_Gigabit_TP-Link_ARCHER_AXE75.pdf?srsltid=AfmBOopRe-8uR1WTOl8viMAAC-4pyNfdlqpWhxMo3BIC60P_ZRvrMygR)
  - [IBM-eServer/iseries: Reţea privată virtuală - Versiunea 5 Ediţia 3](https://public.dhe.ibm.com/systems/power/docs/systemi/v5r3/ro_RO/rzaja.pdf)
+ - [...](https://www.google.com/search?sca_esv=b17bece7f59cc74c&rlz=1C1CHBF_enRO1132RO1132&sxsrf=AHTn8zq6xn4BGTsOunHMLUiYk-Z-ucZypA:1742231362112&q=VPN+server&udm=2&fbs=ABzOT_BYhiZpMrUAF0c9tORwPGls0vqphpL9nGKy0PrLJqseLh0EQ6IW_YF9DHIKeRA2FImZJj7_nGLmr0IdZilOghZzrnAO3ptW2gTgwcz2n-eyuZaSgkymgIvpoNEBFutb14Z8ndRMHdEyydLXyZEjr-mhGDAb5XY3kDG47TtSIPC8tL1vj35ZNMSi1sU852mgj07SQkORlLEZ5dsJ6xH8rrYcCwIShA&sa=X&ved=2ahUKEwjq69HLzZGMAxVCQPEDHbFgA6AQtKgLegQIFhAB&biw=1920&bih=911&dpr=1)
