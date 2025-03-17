@@ -6,6 +6,7 @@ O sa postez aici cateva link-uri utile legat de VPN(client-server):
  - [pureInfoTech: Setup VPN-server on your W10(or WS-2019) <br/> DDNS(IP extern dynamic)  and ISP-Router/Port-Forwarding 2(to) incomming(via internet using protocol=PPTP) in your VPN-server](https://pureinfotech.com/setup-vpn-server-windows-10/)
  - [asus-FAQ: [VPN] Cum se configurează conexiunea VPN IPsec în Windows 10 (Suportul pentru firmware este disponibil pentru 3.0.0.4.386_4xxxx) - Server(incorporat in router) si Client VPN](https://www.asus.com/ro/support/faq/1044397/)
  - [depanareCalculatoare.net-stiri-it: Cum sa va configurati propriul server(incorporat in router) VPN de acasa](https://www.depanarecalculatoare.net/stiri-it/cum-sa-va-configurati-propriul-server-vpn-de-acasa)
+ - [reddit-sysAdmin: Setting-Up a VPN-server with Windows_10(W10)](https://www.reddit.com/r/sysadmin/comments/xinh3s/setting_up_a_vpn_server_with_windows_10/)
  - [videoTutorial.ro: Cum faci un server Open VPN pe Raspberry PI – soluție anti hack](https://videotutorial.ro/cum-faci-un-server-open-vpn-pe-raspberry-pi/)
  - [inginereala.ro-posts: Cum îți faci propriul VPN(client+server) cu ușurință(dockerizat) - WireGuard(server)](https://inginereala.ro/posts/cum-sa-iti-faci-propriul-vpn/)
  - [tsPlus.net-remote-access/blog: Cum să te conectezi la rețeaua de birou de acasă folosind un (client)VPN- server-VPN de la tsPlus](https://tsplus.net/ro/remote-access/blog/how-to-connect-to-office-network-from-home-using-a-vpn/)
