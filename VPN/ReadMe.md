@@ -12,3 +12,4 @@ O sa postez aici cateva link-uri utile legat de VPN(client-server):
  - [acer.com/blog: Cum să vă configurați un VPN(server) pe router(de la Acer)](https://blog.acer.com/ro/discussion/1153/cum-sa-va-configurati-un-vpn-pe-router)
  - [sagaSoftware.ro: Client-server–10 informații utile](https://www.sagasoftware.ro/client-server10-informatii-utile/)
  - [spy-shop.ro-media: TP-Link - Manualul utilizatorului Router Wi-Fi 6E tri-bandă AXE5400 Archer AXE75<br/>(un exemplu de router utilizat pt server-ul/serviciul VPN)](https://www.spy-shop.ro/media/custom/upload/Manual_utilizare_Router_tri-band_Gigabit_TP-Link_ARCHER_AXE75.pdf?srsltid=AfmBOopRe-8uR1WTOl8viMAAC-4pyNfdlqpWhxMo3BIC60P_ZRvrMygR)
+ - [IBM-eServer/iseries: Reţea privată virtuală - Versiunea 5 Ediţia 3](https://public.dhe.ibm.com/systems/power/docs/systemi/v5r3/ro_RO/rzaja.pdf)
