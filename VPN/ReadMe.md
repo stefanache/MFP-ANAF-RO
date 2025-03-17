@@ -8,3 +8,4 @@ O sa postez aici cateva link-uri utile legat de VPN:
  - [tsPlus.net-remote-access/blog: Cum să te conectezi la rețeaua de birou de acasă folosind un (client)VPN- server-VPN de la tsPlus](https://tsplus.net/ro/remote-access/blog/how-to-connect-to-office-network-from-home-using-a-vpn/)
  - [MS-Window: Conectați-vă la o rețea VPN în Windows - Client_VPN](https://support.microsoft.com/ro-ro/windows/conecta%C8%9Bi-v%C4%83-la-o-re%C8%9Bea-vpn-%C3%AEn-windows-3d29aeb1-f497-f6b7-7633-115722c1009c)
  - [digitalCitizen.ro: Cum adaugi și folosești un (client)VPN în Windows 10 (tot ce trebuie să stii](https://www.digitalcitizen.ro/cum-creezi-si-configurezi-o-conexiune-vpn-windows-10/)
+ - [blogMan.ro: Creare conexiune (client)VPN in Windows. Care sunt avantajele!](https://blogman.ro/tutorial-conexiune-vpn-windows-netflix-avantaje/)
