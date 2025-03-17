@@ -1,6 +1,6 @@
 Salut!
 
-O sa postez aici cateva link-uri utile, legat de VPN(client=CLI si server=SRV/gateway=GW), avand pa dispozitie un PC cu Windows-preInstalat:
+O sa postez aici cateva link-uri utile, legat de VPN(client=CLI conectat la un server=SRV/gateway=GW via VPN-tunel), avand pa dispozitie un PC cu Windows-preInstalat:
 
  - [uwsp.edu: Set Up VPN on Windows 10(VPN W10) - server(VPN build-in) si client(VPN)](https://www3.uwsp.edu/infotech/Pages/Tutorials/VPN/Windows-10-VPN-Setup.aspx)
  - [pureInfoTech: Setup VPN-server on your W10(or WS-2019) <br/> DDNS(IP extern dynamic)  and ISP-Router/Port-Forwarding 2(to) incomming(via internet using protocol=PPTP) in your VPN-server](https://pureinfotech.com/setup-vpn-server-windows-10/)
