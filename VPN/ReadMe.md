@@ -14,7 +14,7 @@ O sa postez aici cateva link-uri utile, legat de VPN(client-server), avand pa di
     - Active Directory Domain Controller=[AD DS](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-overview)(OS: Windows-Server=WS)
     - NPS RADIUS server(OS: Windows-Server=WS); SQL-server for RADIUS accounting
     - VPN-server(OS: Windows-Server=WS)
-    - VPN Windows client(OS: Windows 10 = W10 ori un windows ulterior(W10+))
+    - VPN-client(OS: Windows 10 = W10 ori un windows ulterior(W10+))
  - [videoTutorial.ro: Cum faci un server Open VPN pe Raspberry PI – soluție anti hack](https://videotutorial.ro/cum-faci-un-server-open-vpn-pe-raspberry-pi/)
  - [inginereala.ro-posts: Cum îți faci propriul VPN(client+server) cu ușurință(dockerizat) - WireGuard(server)](https://inginereala.ro/posts/cum-sa-iti-faci-propriul-vpn/)
  - [tsPlus.net-remote-access/blog: Cum să te conectezi la rețeaua de birou de acasă folosind un (client)VPN- server-VPN de la tsPlus](https://tsplus.net/ro/remote-access/blog/how-to-connect-to-office-network-from-home-using-a-vpn/)
