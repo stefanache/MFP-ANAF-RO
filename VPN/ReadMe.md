@@ -16,6 +16,7 @@ O sa postez aici cateva link-uri utile, legat de VPN(client-server), avand pa di
   <br/>[Cum iti setezi un serviciu-DDNS-local(folosind serviciul gratuit oferit de catre cei de la DynDNS), setat pe router-ul tau local(de fapt luat in custodie/primit/imprumutat/inchiriat de la ISP-ul tau=ISP-router)?](https://www.howtogeek.com/866573/what-is-dynamic-dns-ddns-and-how-do-you-set-it-up/)
  - [forestVPN-blog/networking: Set Up Your Own VPN Server(built-in) on Windows 10 Easily(alternatively can use as server-VPN one external-service-VPN like-as forestVPN)](https://forestvpn.com/blog/networking/how-to-create-vpn-server-in-windows-10/)
  - [synology.-DSM-tutorial: How do I connect to Synology's VPN Server via Windows PC?](https://kb.synology.com/en-br/DSM/tutorial/How_do_I_connect_to_Synology_VPN_Server_via_Windows_PC)
+ - [security-VPN: How to Set up a VPN on Windows 10 -  A Step-by-Step Guide](https://www.security.org/vpn/windows-10-setup/)
  - [geeks4geeks: How To Set Up VPN on Windows 10 - Ultimate Guide](https://www.geeksforgeeks.org/how-to-set-up-vpn-on-windows-10/)
  - [openVPN-community: OpenVPN 2.x HOW TO (important topics: routed or bridget VPN?; CA; DHCP; proxy-HTTP; Samba...)](https://openvpn.net/community-resources/how-to/)
  - [digitalCitizen.ro: Cum adaugi și folosești un (client)VPN în Windows 10 (tot ce trebuie să stii](https://www.digitalcitizen.ro/cum-creezi-si-configurezi-o-conexiune-vpn-windows-10/)
