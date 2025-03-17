@@ -14,7 +14,7 @@ O sa postez aici cateva link-uri utile, legat de VPN(client-server), avand pa di
  - [MS-Windows: Conectați-vă la o rețea VPN în Windows - Client_VPN](https://support.microsoft.com/ro-ro/windows/conecta%C8%9Bi-v%C4%83-la-o-re%C8%9Bea-vpn-%C3%AEn-windows-3d29aeb1-f497-f6b7-7633-115722c1009c)
  - [how2geek-W10/W8/W7: How to Create a VPN Server(VPN-server is builtIn in Windows/W and is PPTP-based as VPN-protocol) on Your Windows Computer Without Installing Any Software - using DDNS=DynDNS and ISP-Router/IP-forwarding](https://www.howtogeek.com/135996/how-to-create-a-vpn-server-on-your-windows-computer-without-installing-any-software/);
   <br/>[Cum iti setezi un serviciu-DDNS-local(folosind de serviciul gratuit oferit de DynDN) pe router-ul local luat in custodie/primit de la ISP-ul tau=ISP-router?](https://www.howtogeek.com/866573/what-is-dynamic-dns-ddns-and-how-do-you-set-it-up/)
- - [/openVPN-community: 2x HOW TO](https://openvpn.net/community-resources/how-to/)
+ - [openVPN-community: 2x HOW TO](https://openvpn.net/community-resources/how-to/)
  - [digitalCitizen.ro: Cum adaugi și folosești un (client)VPN în Windows 10 (tot ce trebuie să stii](https://www.digitalcitizen.ro/cum-creezi-si-configurezi-o-conexiune-vpn-windows-10/)
  - [blogMan.ro: Creare conexiune (client)VPN in Windows. Care sunt avantajele! <br/>(necesita un VPN-server pre-creat pe un Router sau pe un NAS)](https://blogman.ro/tutorial-conexiune-vpn-windows-netflix-avantaje/)
  - [acer.com/blog: Cum să vă configurați un VPN(server) pe router(de la Acer)](https://blog.acer.com/ro/discussion/1153/cum-sa-va-configurati-un-vpn-pe-router)
