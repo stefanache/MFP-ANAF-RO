@@ -3,7 +3,7 @@ Salut!
 O sa postez aici cateva link-uri utile legat de VPN(client-server):
 
  - [uwsp.edu: Set Up VPN on Windows 10(VPN W10) - server(VPN build-in) si client(VPN)](https://www3.uwsp.edu/infotech/Pages/Tutorials/VPN/Windows-10-VPN-Setup.aspx)
- - [pureInfoTech: Setup VPN-server on your W10(or WS-2019) <br/> DDNS(IP dynamic)  si ISP-Router/Port-Forwarding 2(to) incomming(via internet using protocol=PPTP) in your VPN-server](https://pureinfotech.com/setup-vpn-server-windows-10/)
+ - [pureInfoTech: Setup VPN-server on your W10(or WS-2019) <br/> DDNS(IP dynamic)  and ISP-Router/Port-Forwarding 2(to) incomming(via internet using protocol=PPTP) in your VPN-server](https://pureinfotech.com/setup-vpn-server-windows-10/)
  - [asus-FAQ: [VPN] Cum se configurează conexiunea VPN IPsec în Windows 10 (Suportul pentru firmware este disponibil pentru 3.0.0.4.386_4xxxx) - Server(incorporat in router) si Client VPN](https://www.asus.com/ro/support/faq/1044397/)
  - [depanareCalculatoare.net-stiri-it: Cum sa va configurati propriul server(incorporat in router) VPN de acasa](https://www.depanarecalculatoare.net/stiri-it/cum-sa-va-configurati-propriul-server-vpn-de-acasa)
  - [videoTutorial.ro: Cum faci un server Open VPN pe Raspberry PI – soluție anti hack](https://videotutorial.ro/cum-faci-un-server-open-vpn-pe-raspberry-pi/)
