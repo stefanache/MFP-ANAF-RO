@@ -26,6 +26,7 @@ O sa postez aici cateva link-uri utile, legat de VPN(client-server), avand pa di
  - [security-VPN: How to Set up a VPN on Windows 10 -  A Step-by-Step Guide](https://www.security.org/vpn/windows-10-setup/)
  - [geeks4geeks: How To Set Up VPN on Windows 10 - Ultimate Guide](https://www.geeksforgeeks.org/how-to-set-up-vpn-on-windows-10/)
  - [openVPN-community: OpenVPN 2.x HOW TO (important topics: routed or bridget VPN?; CA; DHCP; proxy-HTTP; Samba...)](https://openvpn.net/community-resources/how-to/)
+ - [teltonika-networks-wiki: OpenVPN on Windows](https://wiki.teltonika-networks.com/view/OpenVPN_server_on_Windows)
  - [digitalCitizen.ro: Cum adaugi și folosești un (client)VPN în Windows 10 (tot ce trebuie să stii](https://www.digitalcitizen.ro/cum-creezi-si-configurezi-o-conexiune-vpn-windows-10/)
  - [blogMan.ro: Creare conexiune (client)VPN in Windows. Care sunt avantajele! <br/>(necesita un VPN-server pre-creat pe un Router sau pe un NAS)](https://blogman.ro/tutorial-conexiune-vpn-windows-netflix-avantaje/)
  - [acer.com/blog: Cum să vă configurați un VPN(server) pe router(de la Acer)](https://blog.acer.com/ro/discussion/1153/cum-sa-va-configurati-un-vpn-pe-router)
