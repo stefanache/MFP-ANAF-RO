@@ -29,3 +29,4 @@ Aici o sa plasez cateva link-uri selectate legate de constructia unui RAG:
 - [YT-FahdMirza: Fast GraphRAG - Adaptable RAG for Your Use-case, Data, and Queries - Test Locally](https://www.youtube.com/watch?v=3Tcwzlp4TQ4&ab_channel=FahdMirza)
 - [Medium @RichardsonGunde: Unleashing the Power of Graph RAG with Llama.cpp and Groq: A Step-by-Step Guide](https://medium.com/@honeyricky1m3/unleashing-the-power-of-graph-rag-with-llama-cpp-and-groq-a-step-by-step-guide-08488b5bcbc1)
 - [YT-FahdMirza: RAG Foundry - Framework for Enhancing LLMs for RAG](https://www.youtube.com/watch?v=_LLbNuLo4L0&ab_channel=FahdMirza)
+- [docsbot.ai-tools YT-blog-post-generator: Cache-Augmented Generation(CAG): A Game Changer for Speed and Efficiency](https://docsbot.ai/tools/youtube-blog-post-generator/7RhZE_FnL74)
