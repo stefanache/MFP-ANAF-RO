@@ -65,7 +65,7 @@ O sa postez aici cateva link-uri utile, legat de VPN(cazul-clasic/standard/uzual
  - [medium @milanaleksic: DDNS vs ngrok - for(4) remote Linux home server access](https://medium.com/@milanaleksic/ngrok-vs-dynamic-dns-for-remote-linux-home-server-access-1486299502f2)
  - [ninjaOne-blog: How to Install and Set-up a VPN on Windows-Server-2022](https://www.ninjaone.com/blog/how-to-install-vpn-on-windows-server-2022/)
  - [oofHours: My guide to setting-up Windows-Server-2019 for VPN (with no guarantees that it will work)](https://oofhours.com/2020/04/27/my-guide-to-setting-up-windows-server-2019-for-vpn-with-no-guarantees-that-it-will-work/)
- - [vultr-docs: How to Set-Up a VPN on Windows-Server-2019 using Remote-Access](https://docs.vultr.com/how-to-set-up-a-vpn-on-windows-server-2019-using-remote-access)
+ - [vultr-docs: How to Set-Up a VPN on Windows-Server-2019 using/by Remote-Access](https://docs.vultr.com/how-to-set-up-a-vpn-on-windows-server-2019-using-remote-access)
  - [...](https://www.google.com/search?sca_esv=b17bece7f59cc74c&rlz=1C1CHBF_enRO1132RO1132&sxsrf=AHTn8zq6xn4BGTsOunHMLUiYk-Z-ucZypA:1742231362112&q=VPN+server&udm=2&fbs=ABzOT_BYhiZpMrUAF0c9tORwPGls0vqphpL9nGKy0PrLJqseLh0EQ6IW_YF9DHIKeRA2FImZJj7_nGLmr0IdZilOghZzrnAO3ptW2gTgwcz2n-eyuZaSgkymgIvpoNEBFutb14Z8ndRMHdEyydLXyZEjr-mhGDAb5XY3kDG47TtSIPC8tL1vj35ZNMSi1sU852mgj07SQkORlLEZ5dsJ6xH8rrYcCwIShA&sa=X&ved=2ahUKEwjq69HLzZGMAxVCQPEDHbFgA6AQtKgLegQIFhAB&biw=1920&bih=911&dpr=1)
 
 *Atentie*: 
