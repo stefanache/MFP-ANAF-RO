@@ -4,6 +4,7 @@ O sa postez aici cateva link-uri utile, legat de VPN(cazul-clasic/standard/uzual
 
  - [infoSecInstitute-resources: How-to configure VPN in Windows-10](https://www.infosecinstitute.com/resources/operating-system-security/how-to-configure-vpn-in-windows-10/)
  - [MS-learn-Azure-VPN_GW: Tutorial => Create and manage a VPN-gateway(GW) using the Azure-portal](https://learn.microsoft.com/en-us/azure/vpn-gateway/tutorial-create-gateway-portal)
+ - [MS-learn-Win-CLI-Mngmt-MDM: VPNv2 CSP](https://learn.microsoft.com/en-us/windows/client-management/mdm/vpnv2-csp)
  - [MS-learn-windows-security=>operating-system security/network-security/VPN: VPN-guide](https://learn.microsoft.com/en-us/windows/security/operating-system-security/network-security/vpn/vpn-guide)
  - [MS-learn-configMgr-protect/deploy-use: How-to create VPN-profiles in Configuration-Manager](https://learn.microsoft.com/en-us/mem/configmgr/protect/deploy-use/create-vpn-profiles)
  - [MS-learn-windows_security/os_sec/net_sec/VPN: VPN-profile options](https://learn.microsoft.com/en-us/windows/security/operating-system-security/network-security/vpn/vpn-profile-options)
