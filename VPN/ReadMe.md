@@ -4,7 +4,8 @@ O sa postez aici cateva link-uri utile, legat de VPN(cazul-clasic/standard/uzual
 
  - [ocw.cs.pub.ro-cursuri/SRED: Laborator  9 - Lab  9. Fortigate Site-to-site VPN](https://ocw.cs.pub.ro/courses/sred/lab7)
  - [ocw.cs.pub.ro-cursuri/SRED: Laborator 10 - Lab 10. Fortigate Remote Access VPN](https://ocw.cs.pub.ro/courses/sred/lab9)
- - [/ocw.cs.pub.ro-courses/USO: Laborator 11 - Lab 11. Planificarea sarcinilor administrative/Folosirea unui workstation remote](https://ocw.cs.pub.ro/courses/uso/laboratoare/laborator-11)
+ - [ocw.cs.pub.ro-courses/USO: Laborator 05 - Lab 05. Conectarea la Internet](https://ocw.cs.pub.ro/courses/uso/laboratoare/laborator-05)
+ - [ocw.cs.pub.ro-courses/USO: Laborator 11 - Lab 11. Planificarea sarcinilor administrative/Folosirea unui workstation remote](https://ocw.cs.pub.ro/courses/uso/laboratoare/laborator-11)
  - [Seed-Labs-PDF: Virtual Private Network(VPN) Lab](https://seedsecuritylabs.org/Labs_16.04/PDF/VPN.pdf)
  - [uwsp.edu: Set Up VPN on Windows 10(VPN W10) - server(VPN build-in) si client(VPN)](https://www3.uwsp.edu/infotech/Pages/Tutorials/VPN/Windows-10-VPN-Setup.aspx)
  - [pureInfoTech: Setup VPN-server on your W10(or WS-2019) <br/> DDNS(IP extern dynamic)  and ISP-Router/Port-Forwarding 2(to) incomming(via internet using protocol=PPTP) in your VPN-server](https://pureinfotech.com/setup-vpn-server-windows-10/)
