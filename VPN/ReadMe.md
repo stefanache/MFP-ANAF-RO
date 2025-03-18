@@ -21,6 +21,7 @@ O sa postez aici cateva link-uri utile, legat de VPN(cazul-clasic/standard/uzual
  - [uwsp.edu: Set Up VPN on Windows 10(VPN W10) - server(VPN build-in) si client(VPN)](https://www3.uwsp.edu/infotech/Pages/Tutorials/VPN/Windows-10-VPN-Setup.aspx)
  - [pureInfoTech: Setup VPN-server on your W10(or WS-2019) <br/> DDNS(IP extern dynamic)  and ISP-Router/Port-Forwarding 2(to) incomming(via internet using protocol=PPTP) in your VPN-server](https://pureinfotech.com/setup-vpn-server-windows-10/)
  - [asus-FAQ: [VPN] Cum se configurează conexiunea VPN IPsec în Windows 10 (Suportul pentru firmware este disponibil pentru 3.0.0.4.386_4xxxx) - Server(incorporat in router) si Client VPN](https://www.asus.com/ro/support/faq/1044397/)
+ - [serverMania-kb-articles: How to Setup a Windows 10 VPN](https://www.servermania.com/kb/articles/how-to-setup-a-windows-10-vpn)
  - [depanareCalculatoare.net-stiri-it: Cum sa va configurati propriul server(incorporat in router) VPN de acasa](https://www.depanarecalculatoare.net/stiri-it/cum-sa-va-configurati-propriul-server-vpn-de-acasa)
  - [reddit-sysAdmin: Setting-Up a VPN-server with Windows_10(W10)](https://www.reddit.com/r/sysadmin/comments/xinh3s/setting_up_a_vpn_server_with_windows_10/)
  - [MS-learn on WS(remote access) - using PowerShell(PS) under W10/W11 or WS-2025/2022/2019/2016: Get-started install RAS-as-VPN?<br/>(Install Remote Access/RAS as a VPN server)](https://learn.microsoft.com/en-us/windows-server/remote/remote-access/get-started-install-ras-as-vpn?tabs=powershell)
