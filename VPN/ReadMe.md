@@ -75,6 +75,7 @@ O sa postez aici cateva link-uri utile, legat de VPN(cazul-clasic/standard/uzual
  - [vultr-docs: How-to Set-Up a VPN on Windows-Server-2019 using/by Remote-Access](https://docs.vultr.com/how-to-set-up-a-vpn-on-windows-server-2019-using-remote-access)
  - [snel-support: How-to set-up a PPTP-VPN on Windows-Server-2016](https://www.snel.com/support/how-to-set-up-a-vpn-with-windows-server/)
  - [YT-WindowsNinja: Windows-10 and Windows-8.1 Connect to a VPN-Server Tutorial](https://www.youtube.com/watch?v=QBr9FzXFRRA&ab_channel=WindowsNinja)
+ - [winTips: How-to Set-up VPN-server in Windows(W10, W8, W7 or W-Vista)](https://www.wintips.org/how-to-setup-vpn-server-in-windows-10-8-7-or-vista/)
  - [...](https://www.google.com/search?sca_esv=b17bece7f59cc74c&rlz=1C1CHBF_enRO1132RO1132&sxsrf=AHTn8zq6xn4BGTsOunHMLUiYk-Z-ucZypA:1742231362112&q=VPN+server&udm=2&fbs=ABzOT_BYhiZpMrUAF0c9tORwPGls0vqphpL9nGKy0PrLJqseLh0EQ6IW_YF9DHIKeRA2FImZJj7_nGLmr0IdZilOghZzrnAO3ptW2gTgwcz2n-eyuZaSgkymgIvpoNEBFutb14Z8ndRMHdEyydLXyZEjr-mhGDAb5XY3kDG47TtSIPC8tL1vj35ZNMSi1sU852mgj07SQkORlLEZ5dsJ6xH8rrYcCwIShA&sa=X&ved=2ahUKEwjq69HLzZGMAxVCQPEDHbFgA6AQtKgLegQIFhAB&biw=1920&bih=911&dpr=1)
 
 *Atentie*: 
