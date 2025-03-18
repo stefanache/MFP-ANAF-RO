@@ -1,6 +1,6 @@
 [Salut](https://medium.com/@milanaleksic/ngrok-vs-dynamic-dns-for-remote-linux-home-server-access-1486299502f2)!
 
-O sa postez aici cateva link-uri utile, legat de VPN(cazul-clasic/standard/uzual: client=CLI conectat la un server=SRV/gateway=GW via [VPN-tunel](https://www.tp-link.com/ro/support/faq/2137/)), avand la dispozitie cel putin un PC/VM cu Windows-preInstalat(si poate inca un PC/VM ori mai multe... precum si/sau alte [dispozitive](https://www.a2t.ro/blog/cum-se-configureaz-ddns-pe-un-router-wireless.html): cum ar fi [Router](https://www.tp-link.com/ro/support/faq/297/), NAS...):
+O sa postez aici cateva link-uri utile, legat de VPN(cazul-clasic/standard/uzual...dar nu numai!: client=CLI conectat la un server=SRV/gateway=GW via [VPN-tunel](https://www.tp-link.com/ro/support/faq/2137/)), avand la dispozitie cel putin un PC/VM cu Windows-preInstalat(si poate inca un PC/VM ori mai multe... precum si/sau alte [dispozitive](https://www.a2t.ro/blog/cum-se-configureaz-ddns-pe-un-router-wireless.html): cum ar fi [Router](https://www.tp-link.com/ro/support/faq/297/), NAS...):
 
  - [MS-learn-windows-security=>operating-system security/network-security/VPN: VPN-guide](https://learn.microsoft.com/en-us/windows/security/operating-system-security/network-security/vpn/vpn-guide)
  - [MS-support-windows: Connect to a VPN in Windows(VPN-client)](https://support.microsoft.com/en-us/windows/connect-to-a-vpn-in-windows-3d29aeb1-f497-f6b7-7633-115722c1009c)
