@@ -18,3 +18,4 @@ Aici o sa plasez cateva link-uri selectate legate de constructia unui RAG:
 - [YT-FahdMirza: GraphRAG with Ollama - Install Local Models(LLM) for(4) RAG - Easiest Tutorial](https://www.youtube.com/watch?v=6Yu6JpLMWVo&ab_channel=FahdMirza)
 - [YT-FahdMirza: Build Fully Local RAG AI Application](https://www.youtube.com/watch?v=8TvY2NxgITE&ab_channel=FahdMirza)
 - [YT-FahdMirza: LightRAG with Ollama - Simple and Fast RAG - Install Locally](https://www.youtube.com/watch?v=PjnfV4jCTLo&ab_channel=FahdMirza)
+- [YT-FahdMirza: Don't Do RAG - CAG is 40x faster than RAG - Install and Test Locally](https://www.youtube.com/watch?v=7RhZE_FnL74&ab_channel=FahdMirza)
