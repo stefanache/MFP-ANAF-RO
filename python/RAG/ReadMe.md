@@ -14,3 +14,4 @@ Aici o sa plases cateva link-uri selectate legate de constructia unui RAG:
 - [Linkedin@FahdMirza: This-is a great-guide by Fahd-Mirza on setting-up agentic retrieval(auto-retrieval) for your RAG-pipeline in minutes](https://www.linkedin.com/posts/llamaindex_this-is-a-great-guide-by-fahd-mirza-on-setting-activity-7248723630778425346-7Pp9/)
 - [YT-FahdMirza: RAGChecker - Tool 4 For-Diagnosing RAG-Pipeline - Install Locally](https://www.youtube.com/watch?v=zTlayCrYevE&ab_channel=FahdMirza)
 - [YT-FahdMirza: RAGLite - Python Toolkit for RAG - Install Locally](https://www.youtube.com/watch?v=mEmUN4lgpaU&ab_channel=FahdMirza)
+- [YT-FahdMirza: Install GraphRAG Locally - Build RAG Pipeline with Local and Global Search](https://www.youtube.com/watch?v=Sy5K6Ay46xU&ab_channel=FahdMirza)
