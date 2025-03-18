@@ -38,3 +38,4 @@ Aici o sa plasez cateva link-uri(selectate!) legate de constructia unui RAG:
 - [RT - Vrajitorul de matematica: Llama 3 Local RAG On Custom Documents Tutorial](https://rutube.ru/video/9c31b86735036c8a43fc3d56351056d1/)
 - [YT-FahdMirza: How to Implement RAG with Gemma Model on Your Documents => A Step-by-Step Local Setup Guide](https://www.youtube.com/watch?v=d-0r5F70rHk&ab_channel=FahdMirza)
 - [YT-PavanBelagatti: Build Your First RAG Application Using Haystack!](https://www.youtube.com/watch?v=nwUhGeX6jaI&ab_channel=PavanBelagatti)
+- [YT-AI_User_Group: Three Misconceptions About RAG](https://www.youtube.com/watch?v=fP-FQn9yFmQ&ab_channel=AIUserGroup)
