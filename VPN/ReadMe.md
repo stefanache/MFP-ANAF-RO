@@ -4,6 +4,7 @@ O sa postez aici cateva link-uri utile, legat de VPN(cazul-clasic/standard/uzual
 
  - [MS-learn-windows-security=>operating-system security/network-security/VPN: VPN-guide](https://learn.microsoft.com/en-us/windows/security/operating-system-security/network-security/vpn/vpn-guide)
  - [MS-learn-configMgr-protect/deploy-use: How to create VPN-profiles in Configuration-Manager](https://learn.microsoft.com/en-us/mem/configmgr/protect/deploy-use/create-vpn-profiles)
+ - [[MS-learn-WS-RA-config_VPN_protos: Configure VPN protocols](https://learn.microsoft.com/en-us/windows-server/remote/remote-access/configure-vpn-protocols)
  - [MS-support-windows: Connect to a VPN in Windows(VPN-client)](https://support.microsoft.com/en-us/windows/connect-to-a-vpn-in-windows-3d29aeb1-f497-f6b7-7633-115722c1009c)
  - [YT @Zeros-Ones: Windows 10 VPN Server Client PPTP Setup](https://www.youtube.com/watch?v=UOG-UlXNmDw&ab_channel=ZerosOnes)
    <br/>Windows-10 VPN-Server and Client-PPTP Setup
