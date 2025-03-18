@@ -1,6 +1,6 @@
 Salut!
 
-Aici o sa plasez cateva link-uri(selectate!) legate de constructia unui RAG:
+Aici o sa plasez cateva link-uri(selectate!) legate de constructia unui RAG(cu precadere tutoriale oferite de catre dl. [Fahd-Mirza](https://www.toksta.com/influencers/fahd-mirza)):
 
 - [paragon: Building a Permissions System For Your RAG Application](https://www.useparagon.com/learn/ai-knowledge-chatbot-with-permissions-chapter-2/?utm_campaign=Retargeting+90+days+-+Content+-+Clicks&utm_source=linkedin&utm_medium=paid&hsa_acc=507086816&hsa_cam=706362794&hsa_grp=322765514&hsa_ad=496074474&hsa_net=linkedin&hsa_ver=3&li_fat_id=b6f0a770-5ba1-4273-866c-062e913d03a5&utm_campaign=Retargeting%2090%20days%20-%20Content%20-%20Clicks&utm_medium=paid_social&utm_source=linkedin_paid)
 - [YT @Fahd-Mirza: Ragit => Git-like RAG Pipeline - Install and Test](https://www.youtube.com/watch?v=qk21gJdPGJE&ab_channel=FahdMirza)
@@ -41,3 +41,4 @@ Aici o sa plasez cateva link-uri(selectate!) legate de constructia unui RAG:
 - [YT-AI_User_Group: Three Misconceptions About RAG](https://www.youtube.com/watch?v=fP-FQn9yFmQ&ab_channel=AIUserGroup)
 - [YT-FahdMirza: Install Pleias 1 RAG Model Locally - First Model Compliant with European AI Act](https://www.youtube.com/watch?v=LvbDMijP7GI&ab_channel=FahdMirza)
 - [YT-FahdMirza: RAGBuilder with Ollama - Create Optimal Production-ready RAG Setup Locally](https://www.youtube.com/watch?v=ZXuAW8a33C8&ab_channel=FahdMirza)
+- [YT-FahdMirza: Docling with Ollama - RAG on Local Files with Local Models - Install Locally](https://www.youtube.com/watch?v=GMHazLUQBQM&ab_channel=FahdMirza)
