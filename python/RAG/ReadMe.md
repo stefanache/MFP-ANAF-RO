@@ -16,3 +16,4 @@ Aici o sa plasez cateva link-uri selectate legate de constructia unui RAG:
 - [YT-FahdMirza: RAGLite - Python Toolkit for RAG - Install Locally](https://www.youtube.com/watch?v=mEmUN4lgpaU&ab_channel=FahdMirza)
 - [YT-FahdMirza: Install GraphRAG Locally - Build RAG Pipeline with Local and Global Search](https://www.youtube.com/watch?v=Sy5K6Ay46xU&ab_channel=FahdMirza)
 - [YT-FahdMirza: GraphRAG with Ollama - Install Local Models(LLM) for(4) RAG - Easiest Tutorial](https://www.youtube.com/watch?v=6Yu6JpLMWVo&ab_channel=FahdMirza)
+- [YT-FahdMirza: Build Fully Local RAG AI Application](https://www.youtube.com/watch?v=8TvY2NxgITE&ab_channel=FahdMirza)
