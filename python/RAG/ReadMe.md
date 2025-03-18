@@ -40,3 +40,4 @@ Aici o sa plasez cateva link-uri(selectate!) legate de constructia unui RAG:
 - [YT-PavanBelagatti: Build Your First RAG Application Using Haystack!](https://www.youtube.com/watch?v=nwUhGeX6jaI&ab_channel=PavanBelagatti)
 - [YT-AI_User_Group: Three Misconceptions About RAG](https://www.youtube.com/watch?v=fP-FQn9yFmQ&ab_channel=AIUserGroup)
 - [YT-FahdMirza: Install Pleias 1 RAG Model Locally - First Model Compliant with European AI Act](https://www.youtube.com/watch?v=LvbDMijP7GI&ab_channel=FahdMirza)
+- [YT-FahdMirza: RAGBuilder with Ollama - Create Optimal Production-ready RAG Setup Locally](https://www.youtube.com/watch?v=ZXuAW8a33C8&ab_channel=FahdMirza)
