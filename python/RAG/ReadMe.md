@@ -8,3 +8,4 @@ Aici o sa plases cateva link-uri selectate legate de constructia unui RAG:
 - [YT @Fahd-Mirza: Top 5 RAG Papers You Must Know - Explained in Simple Words](https://www.youtube.com/watch?v=5Zq-qdQZuTw&ab_channel=FahdMirza)
   <br/>Acest videoclip prezintă [primele 5 lucrări RAG](https://www.youtube.com/results?search_query=fahd+mirza+rag) impresionante cu detalii rapide și simple
 - [YT-FahrMirza: Install AutoRAG Locally for Optimal-RAG-Pipeline](https://www.youtube.com/watch?v=IJXYpTbIjuI&ab_channel=FahdMirza)
+- [YT-FahrMirza: RAG in LM-Studio(Easy-Tutorial)](https://www.youtube.com/watch?v=4Kcm9Tsojjc&ab_channel=FahdMirza)
