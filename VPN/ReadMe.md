@@ -14,8 +14,8 @@ O sa postez aici cateva link-uri utile, legat de VPN(cazul-clasic/standard/uzual
    <br/>Visit [ZerosOnes website](http://www.zerosones.net) for more!
  - [YT @Hetman Software - Data Recovery for Windows: How to Create a VPN-Server on a Windows-Computer and Connect to It from Another Computer](https://www.youtube.com/watch?v=YH2nmDOYoz0&ab_channel=HetmanSoftware%3ADataRecoveryforWindows)
    <br/>Continut: [Intro](https://www.youtube.com/watch?v=YH2nmDOYoz0), [How can a VPN-server be used?](https://www.youtube.com/watch?v=YH2nmDOYoz0&t=14s), [Creating a VPN-server on a PC](https://www.youtube.com/watch?v=YH2nmDOYoz0&t=89s), [scope-1: share a folder](https://www.youtube.com/watch?v=YH2nmDOYoz0&t=143s), [VPN-Server Connection](https://www.youtube.com/watch?v=YH2nmDOYoz0&t=185s),
-   <br/>[Making changes to the settings of the Incoming-connection of the server computer](https://www.youtube.com/watch?v=YH2nmDOYoz0&t=298s), [touch scope-1: Accessing a shared folder](https://www.youtube.com/watch?v=YH2nmDOYoz0&t=352s),
-   <br/>[Connecting to a VPN-Server on a Router](https://www.youtube.com/watch?v=YH2nmDOYoz0&t=455s), [Internet connection](https://www.youtube.com/watch?v=YH2nmDOYoz0&t=543s).
+   <br/>[Making changes to the settings of the Incoming-connection of the server PC](https://www.youtube.com/watch?v=YH2nmDOYoz0&t=298s), [touch scope-1: Accessing a shared folder](https://www.youtube.com/watch?v=YH2nmDOYoz0&t=352s),
+   <br/>[Connecting to a VPN-Server on a Router](https://www.youtube.com/watch?v=YH2nmDOYoz0&t=455s), [(via/over/external/public)Internet connection](https://www.youtube.com/watch?v=YH2nmDOYoz0&t=543s).
  - [openVPN-Connect docs: How to Install OpenVPN Connect on Windows](https://openvpn.net/connect-docs/installation-guide-windows.html)
    <br/>Install OpenVPN-Connect on Windows for use with OpenVPN-servers.
  - [production.support-articles: VPN-server guide](https://production.support/articles/vpn-server-guide/#windows-10)
