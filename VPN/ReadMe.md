@@ -42,6 +42,7 @@ O sa postez aici cateva link-uri utile, legat de VPN(cazul-clasic/standard/uzual
  - [ramonnastase.ro-blog: Ce sunt adresele IP Publice, IP Private si ce Legatura au cu NAT ?﻿](https://ramonnastase.ro/blog/adrese-ip-publice-private-ce-inseamna-nat/)
  - [scribd-SITAICS): IPSec VPN Lab-1](https://www.scribd.com/document/796595821/IPSec-VPN-Lab-1)
  - [uwsp.edu: Set Up VPN on Windows 10(VPN W10) - server(VPN build-in) si client(VPN)](https://www3.uwsp.edu/infotech/Pages/Tutorials/VPN/Windows-10-VPN-Setup.aspx)
+ - [up.pt-portal upDigital/services/networks-connectivity: VPN - Windows(W10 and W11) (Manual Configuration ICBAS and FFUP: SSL Check-Point Endpoint)](https://www.up.pt/portal/en/updigital/services/networks-connectivity/vpn-windows-10-and-11-manual-configuration-icbas-and-ffup-ssl-check-point-endpoint/)
  - [pureInfoTech: Setup VPN-server on your W10(or WS-2019) <br/> DDNS(IP extern dynamic)  and ISP-Router/Port-Forwarding 2(to) incomming(via internet using protocol=PPTP) in your VPN-server](https://pureinfotech.com/setup-vpn-server-windows-10/)
  - [asus-FAQ: [VPN] Cum se configurează conexiunea VPN IPsec în Windows 10 (Suportul pentru firmware este disponibil pentru 3.0.0.4.386_4xxxx) - Server(incorporat in router) si Client VPN](https://www.asus.com/ro/support/faq/1044397/)
  - [serverMania-kb-articles: How-to Setup a Windows 10 VPN](https://www.servermania.com/kb/articles/how-to-setup-a-windows-10-vpn)
