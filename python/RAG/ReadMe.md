@@ -33,3 +33,4 @@ Aici o sa plasez cateva link-uri(selectate!) legate de constructia unui RAG:
 - [LlamaIndex.ai-blog: LlamaIndex Newsletter 2024-01-07](https://www.llamaindex.ai/blog/llamaindex-newsletter-2024-01-07)
 - [Medium-@mdbaraujo: Cache-Augmented Generation(CAG) vs Retrieval-Augmented Generation(RAG)](https://medium.com/@mdbaraujo/cache-augmented-generation-cag-vs-retrieval-augmented-generation-rag-74bb56460cee)
 - [briefy.ai-summary: Install GraphRAG Locally - Build RAG Pipeline with Local and Global Search](https://briefy.ai/summary/v2/lzfts6dr9s6jveddum4dzg9b/en/install-graphrag-locally-build-rag-pipeline-with-local-and-global-search)
+- [YT-FahdMirza: NVIDIA RankRAG 8B & 70B](https://www.youtube.com/watch?v=78N4u935ucE&ab_channel=FahdMirza)
