@@ -12,7 +12,7 @@ O sa postez aici cateva link-uri utile, legat de VPN(cazul-clasic/standard/uzual
    <br/>Router port-forwarding and Windows-10 firewall inbound-rules configuration all using Windows-10 builtIn VPN-features.
    <br/>Capitole-YT: [Intro](https://www.youtube.com/watch?v=UOG-UlXNmDw&ab_channel=ZerosOnes), [get IP-addr](https://www.youtube.com/watch?v=UOG-UlXNmDw&t=87s), [get Public(extern) IP-addr](https://www.youtube.com/watch?v=UOG-UlXNmDw&t=180s&pp=0gcJCdoCDuyUWbzu), [Port-Forwarding](https://www.youtube.com/watch?v=UOG-UlXNmDw&t=238s), [ServerVPN setUp](https://www.youtube.com/watch?v=UOG-UlXNmDw&t=610s), [sharing folder](https://www.youtube.com/watch?v=UOG-UlXNmDw&t=850s), [firewall setUp](https://www.youtube.com/watch?v=UOG-UlXNmDw&t=998s), [clientVPN setUp](https://www.youtube.com/watch?v=UOG-UlXNmDw&t=1350s)
    <br/>Visit [ZerosOnes website](http://www.zerosones.net) for more!
-
+ - [YT @Hetman Software - Data Recovery for Windows: How to Create a VPN-Server on a Windows-Computer and Connect to It from Another Computer](https://www.youtube.com/watch?v=YH2nmDOYoz0&ab_channel=HetmanSoftware%3ADataRecoveryforWindows)
  - [openVPN-Connect docs: How to Install OpenVPN Connect on Windows](https://openvpn.net/connect-docs/installation-guide-windows.html)
    <br/>Install OpenVPN-Connect on Windows for use with OpenVPN-servers.
  - [production.support-articles: VPN-server guide](https://production.support/articles/vpn-server-guide/#windows-10)
