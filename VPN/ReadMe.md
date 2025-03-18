@@ -4,6 +4,7 @@ O sa postez aici cateva link-uri utile, legat de VPN(cazul-clasic/standard/uzual
 
  - [MS-learn-windows-security=>operating-system security/network-security/VPN: VPN-guide](https://learn.microsoft.com/en-us/windows/security/operating-system-security/network-security/vpn/vpn-guide)
  - [MS-support-windows: Connect to a VPN in Windows(VPN-client)](https://support.microsoft.com/en-us/windows/connect-to-a-vpn-in-windows-3d29aeb1-f497-f6b7-7633-115722c1009c)
+ - [openVPN-Connect docs: How to Install OpenVPN Connect on Windows](https://openvpn.net/connect-docs/installation-guide-windows.html)
  - [production.support-articles: VPN-server guide](https://production.support/articles/vpn-server-guide/#windows-10)
  - [fairyHosting-knowledgebase: How to Set up a VPN Connection in Windows 10](https://my.fairyhosting.com/knowledgebase/78/How-to-Set-up-a-VPN-Connection-in-Windows-10.html)
  - [up.pt/portal updigital/services/networks-connectivity: VPN - Windows 10 (Manual Configuration](https://www.up.pt/portal/en/updigital/services/networks-connectivity/manual-configuration-windows-10/)
