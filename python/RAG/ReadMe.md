@@ -35,3 +35,4 @@ Aici o sa plasez cateva link-uri(selectate!) legate de constructia unui RAG:
 - [briefy.ai-summary: Install GraphRAG Locally - Build RAG Pipeline with Local and Global Search](https://briefy.ai/summary/v2/lzfts6dr9s6jveddum4dzg9b/en/install-graphrag-locally-build-rag-pipeline-with-local-and-global-search)
 - [YT-FahdMirza: NVIDIA RankRAG 8B & 70B](https://www.youtube.com/watch?v=78N4u935ucE&ab_channel=FahdMirza)
 - [franksWorld: RAFT => Adapting Language Model to Domain Specific RAG Paper Discussion](https://www.franksworld.com/2024/04/15/raft-adapting-language-model-to-domain-specific-rag-paper-discussion/)
+- [RT - Vrajitorul de matematica: Llama 3 Local RAG On Custom Documents Tutorial](https://rutube.ru/video/9c31b86735036c8a43fc3d56351056d1/)
