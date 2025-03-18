@@ -24,3 +24,4 @@ Aici o sa plasez cateva link-uri selectate legate de constructia unui RAG:
 - [YT-FahdMirza: DataGemma RAG 27B - First Model to Challenge Hallucination - Install Locally](https://www.youtube.com/watch?v=6odLMxnUs5g&ab_channel=FahdMirza)
 - [YT-FahdMirza: PlanRAG - Install Locally - LLMs as Decision Makers - Plan and RAG on Custom Data](https://www.youtube.com/watch?v=9HZ00HUwRfk&ab_channel=FahdMirza)
 - [YT-FahdMirza: Build Local End-to-End RAG Pipeline with Evaluation - BeyondLLM](https://www.youtube.com/watch?v=VxUBkdjarIo&ab_channel=FahdMirza)
+- [YT-FahdMirza: Glider - Small Judge Model with Reasoning - Suited for RAG Pipelines](https://www.youtube.com/watch?v=xw8grcKhcOU&ab_channel=FahdMirza)
