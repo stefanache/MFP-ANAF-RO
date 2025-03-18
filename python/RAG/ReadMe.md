@@ -9,3 +9,5 @@ Aici o sa plases cateva link-uri selectate legate de constructia unui RAG:
   <br/>Acest videoclip prezintă [primele 5 lucrări RAG](https://www.youtube.com/results?search_query=fahd+mirza+rag) impresionante cu detalii rapide și simple
 - [YT-FahrMirza: Install AutoRAG Locally for Optimal-RAG-Pipeline](https://www.youtube.com/watch?v=IJXYpTbIjuI&ab_channel=FahdMirza)
 - [YT-FahrMirza: RAG in LM-Studio(Easy-Tutorial)](https://www.youtube.com/watch?v=4Kcm9Tsojjc&ab_channel=FahdMirza)
+- [YT-FahdMirza: R2R (Rag to Riches) - Build Flexible RAG Pipelines](https://www.youtube.com/watch?v=AuQ2vyrG6M4&ab_channel=FahdMirza)
+- [fahdMirza: Create Local RAG Pipelines with R2R and Ollama for Free](https://www.fahdmirza.com/2024/06/create-local-rag-pipelines-with-r2r-and.html)
