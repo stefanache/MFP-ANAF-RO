@@ -7,7 +7,7 @@ O sa postez aici cateva link-uri utile, legat de VPN(cazul-clasic/standard/uzual
  - [ocw.cs.pub.ro-courses/USO: Laborator 05 - Lab 05. Conectarea la Internet](https://ocw.cs.pub.ro/courses/uso/laboratoare/laborator-05)
  - [ocw.cs.pub.ro-courses/USO: Laborator 11 - Lab 11. Planificarea sarcinilor administrative/Folosirea unui workstation remote](https://ocw.cs.pub.ro/courses/uso/laboratoare/laborator-11)
  - [Seed-Labs-PDF: Virtual Private Network(VPN) Lab](https://seedsecuritylabs.org/Labs_16.04/PDF/VPN.pdf)
- - [scribd: IPSec VPN Lab-1](https://www.scribd.com/document/796595821/IPSec-VPN-Lab-1)
+ - [scribd-SITAICS): IPSec VPN Lab-1](https://www.scribd.com/document/796595821/IPSec-VPN-Lab-1)
  - [uwsp.edu: Set Up VPN on Windows 10(VPN W10) - server(VPN build-in) si client(VPN)](https://www3.uwsp.edu/infotech/Pages/Tutorials/VPN/Windows-10-VPN-Setup.aspx)
  - [pureInfoTech: Setup VPN-server on your W10(or WS-2019) <br/> DDNS(IP extern dynamic)  and ISP-Router/Port-Forwarding 2(to) incomming(via internet using protocol=PPTP) in your VPN-server](https://pureinfotech.com/setup-vpn-server-windows-10/)
  - [asus-FAQ: [VPN] Cum se configurează conexiunea VPN IPsec în Windows 10 (Suportul pentru firmware este disponibil pentru 3.0.0.4.386_4xxxx) - Server(incorporat in router) si Client VPN](https://www.asus.com/ro/support/faq/1044397/)
