@@ -7,3 +7,4 @@ Aici o sa plases cateva link-uri selectate legate de constructia unui RAG:
   <br/>Acest videoclip arată cum se instalează [RAGIT](https://github.com/baehyunsol/ragit) (rag-it), care este un software asemănător git care transformă fișierele locale într-o bază de cunoștințe.
 - [YT @Fahd-Mirza: Top 5 RAG Papers You Must Know - Explained in Simple Words](https://www.youtube.com/watch?v=5Zq-qdQZuTw&ab_channel=FahdMirza)
   <br/>Acest videoclip prezintă [primele 5 lucrări RAG](https://www.youtube.com/results?search_query=fahd+mirza+rag) impresionante cu detalii rapide și simple
+- [YT-FahrMirza: Install AutoRAG Locally for Optimal-RAG-Pipeline](https://www.youtube.com/watch?v=IJXYpTbIjuI&ab_channel=FahdMirza)
