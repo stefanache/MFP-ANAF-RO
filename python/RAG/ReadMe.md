@@ -31,4 +31,4 @@ Aici o sa plasez cateva link-uri selectate legate de constructia unui RAG:
 - [YT-FahdMirza: RAG Foundry - Framework for Enhancing LLMs for RAG](https://www.youtube.com/watch?v=_LLbNuLo4L0&ab_channel=FahdMirza)
 - [docsbot.ai-tools YT-blog-post-generator: Cache-Augmented Generation(CAG): A Game Changer for Speed and Efficiency](https://docsbot.ai/tools/youtube-blog-post-generator/7RhZE_FnL74)
 - [LlamaIndex.ai-blog: LlamaIndex Newsletter 2024-01-07](https://www.llamaindex.ai/blog/llamaindex-newsletter-2024-01-07)
-- [Medium-@mdbaraujo: Cache-Augmented Generation(CAG) vs Retrieval-Augmented Generation(RAG)](https://medium.com/@mdbaraujo/cache-augmented-generation-cag-vs-retrieval-augmented-generation-rag-74bb56460cee
+- [Medium-@mdbaraujo: Cache-Augmented Generation(CAG) vs Retrieval-Augmented Generation(RAG)](https://medium.com/@mdbaraujo/cache-augmented-generation-cag-vs-retrieval-augmented-generation-rag-74bb56460cee)
