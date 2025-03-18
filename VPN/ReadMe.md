@@ -6,6 +6,7 @@ O sa postez aici cateva link-uri utile, legat de VPN(cazul-clasic/standard/uzual
  - [vpnOverview/VPN_setUp/Install VPN windows: Setting-Up a VPN-Connection on Windows-10(Step-By-Step)](https://vpnoverview.com/vpn-setup/install-vpn-windows/)
  - [MS-learn-Azure-VPN_GW: Tutorial => Create and manage a VPN-gateway(GW) using the Azure-portal](https://learn.microsoft.com/en-us/azure/vpn-gateway/tutorial-create-gateway-portal)
  - [TP_Link-support: How-to set-up a VPN-Server/VPN-Client on your TL-WR1502X travel-router](https://www.tp-link.com/ar/support/faq/4090/)
+ - [MS-learn_W_sec/OS_sec/Net_sec/VPN: How-to configure cryptographic-settings for IKEv2 VPN-connections](https://learn.microsoft.com/en-us/windows/security/operating-system-security/network-security/vpn/how-to-configure-diffie-hellman-protocol-over-ikev2-vpn-connections)
  - [MS-learn-Win-CLI-Mngmt-MDM: VPNv2 CSP](https://learn.microsoft.com/en-us/windows/client-management/mdm/vpnv2-csp)
  - [MS-learn-windows-security=>operating-system security/network-security/VPN: VPN-guide](https://learn.microsoft.com/en-us/windows/security/operating-system-security/network-security/vpn/vpn-guide)
  - [MS-learn-configMgr-protect/deploy-use: How-to create VPN-profiles in Configuration-Manager](https://learn.microsoft.com/en-us/mem/configmgr/protect/deploy-use/create-vpn-profiles)
