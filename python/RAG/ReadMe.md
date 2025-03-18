@@ -39,3 +39,4 @@ Aici o sa plasez cateva link-uri(selectate!) legate de constructia unui RAG:
 - [YT-FahdMirza: How to Implement RAG with Gemma Model on Your Documents => A Step-by-Step Local Setup Guide](https://www.youtube.com/watch?v=d-0r5F70rHk&ab_channel=FahdMirza)
 - [YT-PavanBelagatti: Build Your First RAG Application Using Haystack!](https://www.youtube.com/watch?v=nwUhGeX6jaI&ab_channel=PavanBelagatti)
 - [YT-AI_User_Group: Three Misconceptions About RAG](https://www.youtube.com/watch?v=fP-FQn9yFmQ&ab_channel=AIUserGroup)
+- [YT-FahdMirza: Install Pleias 1 RAG Model Locally - First Model Compliant with European AI Act](https://www.youtube.com/watch?v=LvbDMijP7GI&ab_channel=FahdMirza)
