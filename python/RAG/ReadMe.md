@@ -12,3 +12,4 @@ Aici o sa plases cateva link-uri selectate legate de constructia unui RAG:
 - [YT-FahdMirza: R2R (Rag to Riches) - Build Flexible RAG Pipelines](https://www.youtube.com/watch?v=AuQ2vyrG6M4&ab_channel=FahdMirza)
 - [fahdMirza: Create Local RAG Pipelines with R2R and Ollama for Free](https://www.fahdmirza.com/2024/06/create-local-rag-pipelines-with-r2r-and.html)
 - [Linkedin@FahdMirza: This-is a great-guide by Fahd-Mirza on setting-up agentic retrieval(auto-retrieval) for your RAG-pipeline in minutes](https://www.linkedin.com/posts/llamaindex_this-is-a-great-guide-by-fahd-mirza-on-setting-activity-7248723630778425346-7Pp9/)
+- [YT-FahdMirza: RAGChecker - Tool 4 For-Diagnosing RAG-Pipeline - Install Locally](https://www.youtube.com/watch?v=zTlayCrYevE&ab_channel=FahdMirza)
