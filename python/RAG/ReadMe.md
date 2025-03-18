@@ -26,3 +26,4 @@ Aici o sa plasez cateva link-uri selectate legate de constructia unui RAG:
 - [YT-FahdMirza: Build Local End-to-End RAG Pipeline with Evaluation - BeyondLLM](https://www.youtube.com/watch?v=VxUBkdjarIo&ab_channel=FahdMirza)
 - [YT-FahdMirza: Glider - Small Judge Model with Reasoning - Suited for RAG Pipelines](https://www.youtube.com/watch?v=xw8grcKhcOU&ab_channel=FahdMirza)
 - [gptLocalhost-tutorial: Local RAG in Microsoft Word: using AnythingLLM + LM Studio](https://gptlocalhost.com/tutorial/local-rag-in-microsoft-word-using-anythingllm-lm-studio/)
+- [YT-FahdMirza: Fast GraphRAG - Adaptable RAG for Your Use-case, Data, and Queries - Test Locally](https://www.youtube.com/watch?v=3Tcwzlp4TQ4&ab_channel=FahdMirza)
