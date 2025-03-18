@@ -2,7 +2,8 @@
 
 O sa postez aici cateva link-uri utile, legat de VPN(cazul-clasic/standard/uzual: client=CLI conectat la un server=SRV/gateway=GW via [VPN-tunel](https://www.tp-link.com/ro/support/faq/2137/)), avand la dispozitie cel putin un PC/VM cu Windows-preInstalat(si poate inca un PC/VM ori mai multe... precum si/sau alte [dispozitive](https://www.a2t.ro/blog/cum-se-configureaz-ddns-pe-un-router-wireless.html): cum ar fi [Router](https://www.tp-link.com/ro/support/faq/297/), NAS...):
 
- - [ocw.cs.pub.ro-cursuri/SRED: Laborator 10 - Fortigate Remote Access VPN](https://ocw.cs.pub.ro/courses/sred/lab9)
+ - [ocw.cs.pub.ro-cursuri/SRED: Laborator  9 - Lab  9. Fortigate Site-to-site VPN](https://ocw.cs.pub.ro/courses/sred/lab7)
+ - [ocw.cs.pub.ro-cursuri/SRED: Laborator 10 - Lab 10. Fortigate Remote Access VPN](https://ocw.cs.pub.ro/courses/sred/lab9)
  - [uwsp.edu: Set Up VPN on Windows 10(VPN W10) - server(VPN build-in) si client(VPN)](https://www3.uwsp.edu/infotech/Pages/Tutorials/VPN/Windows-10-VPN-Setup.aspx)
  - [pureInfoTech: Setup VPN-server on your W10(or WS-2019) <br/> DDNS(IP extern dynamic)  and ISP-Router/Port-Forwarding 2(to) incomming(via internet using protocol=PPTP) in your VPN-server](https://pureinfotech.com/setup-vpn-server-windows-10/)
  - [asus-FAQ: [VPN] Cum se configurează conexiunea VPN IPsec în Windows 10 (Suportul pentru firmware este disponibil pentru 3.0.0.4.386_4xxxx) - Server(incorporat in router) si Client VPN](https://www.asus.com/ro/support/faq/1044397/)
