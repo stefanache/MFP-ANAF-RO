@@ -24,6 +24,7 @@ O sa postez aici cateva link-uri utile, legat de VPN(cazul-clasic/standard/uzual
  - [fairyHosting-knowledgebase: How to Set up a VPN Connection in Windows 10](https://my.fairyhosting.com/knowledgebase/78/How-to-Set-up-a-VPN-Connection-in-Windows-10.html)
  - [pureInfotech: Do this to set-up VPN-connection on Windows-10](https://pureinfotech.com/setup-vpn-connection-windows-10/)
  - [asus-FAQ: [VPN] How to set up IPsec VPN connection in Windows 10 (Firmware support is available for 3.0.0.4.386_4xxxx)](https://www.asus.com/support/faq/1044397/)
+ - [YT-RicMedia: Set-up a VPN-connection on Windows-10](https://www.youtube.com/watch?v=17yGOdfQoRM&ab_channel=Ricmedia)
  - [up.pt/portal updigital/services/networks-connectivity: VPN - Windows 10 (Manual Configuration](https://www.up.pt/portal/en/updigital/services/networks-connectivity/manual-configuration-windows-10/)
  - [google-support/chromebook/answe: Configurarea unei rețele VPN pe un dispozitiv Cisco ASA](https://support.google.com/chromebook/answer/2382577?hl=ro)
  - [ocw.cs.pub.ro-cursuri/SRED: Laborator  9 - Lab  9. Fortigate Site-to-site VPN](https://ocw.cs.pub.ro/courses/sred/lab7)
