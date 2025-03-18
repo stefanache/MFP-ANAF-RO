@@ -19,3 +19,7 @@ Aici o sa plasez cateva link-uri selectate legate de constructia unui RAG:
 - [YT-FahdMirza: Build Fully Local RAG AI Application](https://www.youtube.com/watch?v=8TvY2NxgITE&ab_channel=FahdMirza)
 - [YT-FahdMirza: LightRAG with Ollama - Simple and Fast RAG - Install Locally](https://www.youtube.com/watch?v=PjnfV4jCTLo&ab_channel=FahdMirza)
 - [YT-FahdMirza: Don't Do RAG - CAG is 40x faster than RAG - Install and Test Locally](https://www.youtube.com/watch?v=7RhZE_FnL74&ab_channel=FahdMirza)
+- [YT-FahdMirza: SafeRAG - Assess Security Vulnerabilities of RAG](https://www.youtube.com/watch?v=QKiWYIda4Qw&ab_channel=FahdMirza)
+- [YT-FahdMirza: dsRAG: High-Performance RAG Engine for Unstructured Data - Install Locally](https://www.youtube.com/watch?v=AHcBBx8CKys&ab_channel=FahdMirza)
+- [YT-FahdMirza: DataGemma RAG 27B - First Model to Challenge Hallucination - Install Locally](https://www.youtube.com/watch?v=6odLMxnUs5g&ab_channel=FahdMirza)
+- [YT-FahdMirza: PlanRAG - Install Locally - LLMs as Decision Makers - Plan and RAG on Custom Data](https://www.youtube.com/watch?v=9HZ00HUwRfk&ab_channel=FahdMirza)
