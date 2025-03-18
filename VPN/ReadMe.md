@@ -33,7 +33,7 @@ O sa postez aici cateva link-uri utile, legat de VPN(cazul-clasic/standard/uzual
  - [sagaSoftware.ro: Client-server–10 informații utile](https://www.sagasoftware.ro/client-server10-informatii-utile/)
  - [spy-shop.ro-media: TP-Link - Manualul utilizatorului Router Wi-Fi 6E tri-bandă AXE5400 Archer AXE75<br/>(un exemplu de router utilizat pt server-ul/serviciul VPN)](https://www.spy-shop.ro/media/custom/upload/Manual_utilizare_Router_tri-band_Gigabit_TP-Link_ARCHER_AXE75.pdf?srsltid=AfmBOopRe-8uR1WTOl8viMAAC-4pyNfdlqpWhxMo3BIC60P_ZRvrMygR)
  - [IBM-eServer/iseries: Reţea privată virtuală - Versiunea 5 Ediţia 3](https://public.dhe.ibm.com/systems/power/docs/systemi/v5r3/ro_RO/rzaja.pdf)
- - [Medium @milanaleksic: DDNS vs ngrok - for(4) remote Linux home server access](https://medium.com/@milanaleksic/ngrok-vs-dynamic-dns-for-remote-linux-home-server-access-1486299502f2)
+ - [medium @milanaleksic: DDNS vs ngrok - for(4) remote Linux home server access](https://medium.com/@milanaleksic/ngrok-vs-dynamic-dns-for-remote-linux-home-server-access-1486299502f2)
  - [...](https://www.google.com/search?sca_esv=b17bece7f59cc74c&rlz=1C1CHBF_enRO1132RO1132&sxsrf=AHTn8zq6xn4BGTsOunHMLUiYk-Z-ucZypA:1742231362112&q=VPN+server&udm=2&fbs=ABzOT_BYhiZpMrUAF0c9tORwPGls0vqphpL9nGKy0PrLJqseLh0EQ6IW_YF9DHIKeRA2FImZJj7_nGLmr0IdZilOghZzrnAO3ptW2gTgwcz2n-eyuZaSgkymgIvpoNEBFutb14Z8ndRMHdEyydLXyZEjr-mhGDAb5XY3kDG47TtSIPC8tL1vj35ZNMSi1sU852mgj07SQkORlLEZ5dsJ6xH8rrYcCwIShA&sa=X&ved=2ahUKEwjq69HLzZGMAxVCQPEDHbFgA6AQtKgLegQIFhAB&biw=1920&bih=911&dpr=1)
 
 *Atentie*: 
