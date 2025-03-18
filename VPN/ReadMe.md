@@ -2,6 +2,7 @@
 
 O sa postez aici cateva link-uri utile, legat de VPN(cazul-clasic/standard/uzual: client=CLI conectat la un server=SRV/gateway=GW via [VPN-tunel](https://www.tp-link.com/ro/support/faq/2137/)), avand la dispozitie cel putin un PC/VM cu Windows-preInstalat(si poate inca un PC/VM ori mai multe... precum si/sau alte [dispozitive](https://www.a2t.ro/blog/cum-se-configureaz-ddns-pe-un-router-wireless.html): cum ar fi [Router](https://www.tp-link.com/ro/support/faq/297/), NAS...):
 
+ - [MS-learn-windows-security=>operating-system security/network-security/VPN: VPN-guide](https://learn.microsoft.com/en-us/windows/security/operating-system-security/network-security/vpn/vpn-guide)
  - [google-support/chromebook/answe: Configurarea unei rețele VPN pe un dispozitiv Cisco ASA](https://support.google.com/chromebook/answer/2382577?hl=ro)
  - [ocw.cs.pub.ro-cursuri/SRED: Laborator  9 - Lab  9. Fortigate Site-to-site VPN](https://ocw.cs.pub.ro/courses/sred/lab7)
  - [ocw.cs.pub.ro-cursuri/SRED: Laborator 10 - Lab 10. Fortigate Remote Access VPN](https://ocw.cs.pub.ro/courses/sred/lab9)
