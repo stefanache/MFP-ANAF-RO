@@ -10,7 +10,7 @@ O sa postez aici cateva link-uri utile, legat de VPN(cazul-clasic/standard/uzual
    <br/>VPN-Tunnel from remote WiFi-hotspot to VPN-server 
    <br/>shared-resources(folders, files, and printers).
    <br/>Router port-forwarding and Windows-10 firewall inbound-rules configuration all using Windows-10 builtIn VPN-features.
-   <br/>Capitole-YT: Intro, get IP-addr, get Public(extern) IP-addr, Port-Forwarding, ServerVPN-setup, sharing folder, firewall-setup, clientVPN-setup
+   <br/>Capitole-YT: [Intro](https://www.youtube.com/watch?v=UOG-UlXNmDw&ab_channel=ZerosOnes), [get IP-addr](https://www.youtube.com/watch?v=UOG-UlXNmDw&t=87s), [get Public(extern) IP-addr](https://www.youtube.com/watch?v=UOG-UlXNmDw&t=180s&pp=0gcJCdoCDuyUWbzu, [Port-Forwarding](https://www.youtube.com/watch?v=UOG-UlXNmDw&t=238s), [ServerVPN setUp](https://www.youtube.com/watch?v=UOG-UlXNmDw&t=610s), [sharing folder](https://www.youtube.com/watch?v=UOG-UlXNmDw&t=850s), [firewall setUp](https://www.youtube.com/watch?v=UOG-UlXNmDw&t=998s), [clientVPN setUp](https://www.youtube.com/watch?v=UOG-UlXNmDw&t=1350s)
    <br/>Visit [ZerosOnes website](http://www.zerosones.net) for more!
 
  - [openVPN-Connect docs: How to Install OpenVPN Connect on Windows](https://openvpn.net/connect-docs/installation-guide-windows.html)
