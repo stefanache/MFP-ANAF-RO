@@ -3,11 +3,12 @@
 O sa postez aici cateva link-uri utile, legat de VPN(cazul-clasic/standard/uzual...dar nu numai!: client=CLI conectat la un server=SRV/gateway=GW via [VPN-tunel](https://www.tp-link.com/ro/support/faq/2137/)), avand la dispozitie cel putin un PC/VM cu Windows-preInstalat(si poate inca un PC/VM ori mai multe... precum si/sau alte [dispozitive](https://www.a2t.ro/blog/cum-se-configureaz-ddns-pe-un-router-wireless.html): cum ar fi [Router](https://www.tp-link.com/ro/support/faq/297/), NAS...):
 
  - [infoSecInstitute-resources: How-to configure VPN in Windows-10](https://www.infosecinstitute.com/resources/operating-system-security/how-to-configure-vpn-in-windows-10/)
+ - [MS-learn-Azure-VPN_GW: Tutorial => Create and manage a VPN-gateway(GW) using the Azure-portal](https://learn.microsoft.com/en-us/azure/vpn-gateway/tutorial-create-gateway-portal)
  - [MS-learn-windows-security=>operating-system security/network-security/VPN: VPN-guide](https://learn.microsoft.com/en-us/windows/security/operating-system-security/network-security/vpn/vpn-guide)
  - [MS-learn-configMgr-protect/deploy-use: How-to create VPN-profiles in Configuration-Manager](https://learn.microsoft.com/en-us/mem/configmgr/protect/deploy-use/create-vpn-profiles)
  - [MS-learn-windows_security/os_sec/net_sec/VPN: VPN-profile options](https://learn.microsoft.com/en-us/windows/security/operating-system-security/network-security/vpn/vpn-profile-options)
  - [MS-learn-shows-W10_net: Configuring W10 VPN-connection profiles using powerShell(PS)](https://learn.microsoft.com/en-us/shows/windows-10-networking/configuring-windows-10-vpn-connection-profiles-using-powershell)
- - [[MS-learn-WS-RA-config_VPN_protos: Configure VPN-protocols](https://learn.microsoft.com/en-us/windows-server/remote/remote-access/configure-vpn-protocols)
+ - [MS-learn-WS-RA-config_VPN_protos: Configure VPN-protocols](https://learn.microsoft.com/en-us/windows-server/remote/remote-access/configure-vpn-protocols)
  - [MS-support-windows: Connect to a VPN in Windows(VPN-client)](https://support.microsoft.com/en-us/windows/connect-to-a-vpn-in-windows-3d29aeb1-f497-f6b7-7633-115722c1009c)
  - [wosHub: Windows-OS-Hub => How-to Install and Configure OpenVPN-Server on Windows](https://woshub.com/install-configure-openvpn-server-windows/)
  - [YT @Zeros-Ones: Windows 10 VPN Server Client PPTP Setup](https://www.youtube.com/watch?v=UOG-UlXNmDw&ab_channel=ZerosOnes)
