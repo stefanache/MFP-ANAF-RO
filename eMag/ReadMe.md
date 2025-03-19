@@ -47,6 +47,7 @@ Pentru a aceesa aceasta interfata va trebui ca pe [site](https://marketplace.ema
 
    La final sa vedem cateva link-uri utile legat de acest subiect(eMagia):
 
+    - [contentSpeed-startuo-functionalitati: Vanzari prin eMag-marketplace](https://www.contentspeed.ro/startup/functionalitati/vanzari-prin-emag-marketplace)
     - [emag.ro-marketPlace-infocenter-emagAcademy-cum se adauga un produs-importul prin feed: Documentatia tehnica](https://marketplace.emag.ro/infocenter/emag-academy/cum-se-adauga-un-produs/importul-prin-feed/documentatie-tehnica/)
     - [emag.ro-marketPlace-infocenter-emagAcademy-um,se adauga un produs: Importul prin feed](https://marketplace.emag.ro/infocenter/emag-academy/cum-se-adauga-un-produs/importul-prin-feed/)
     - [GH-topis: eMag](https://github.com/topics/emag)
