@@ -12,4 +12,5 @@ In legatura cu subiectul HuggingFace(HF) o sa plasez aici cateva link-uri utile:
  - [HF: models](https://huggingface.co/models)
  - [HF: EmbeddedLLM(company)](https://huggingface.co/EmbeddedLLM)
  - [HF: collections](https://huggingface.co/collections)
+ - [HF-collections: stereoPlegic](https://huggingface.co/stereoplegic)
  - [HF-collections-stereoPlegic-ontology: stereoplegic's Collections: Ontology](https://huggingface.co/collections/stereoplegic/ontology-655b0a00bf604a773282c8ce)
