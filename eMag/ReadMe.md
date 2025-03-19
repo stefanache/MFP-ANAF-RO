@@ -52,6 +52,7 @@ Pentru a aceesa aceasta interfata va trebui ca pe [site](https://marketplace.ema
     - [GH: eMAGTechLabs](https://github.com/eMAGTechLabs)
     - [GH@gayanvoice: public_contributions-RO](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/romania.md)...cautati eMag si apoi accesati fiecare contributor pt a vedea ce ofera fiecare...@
     - [GH: eMag-scraper](https://github.com/topics/emag-scraper)
+    - [GH@seyf97: eMag Price Tracker](https://github.com/seyf97/eMAG-Price-Tracker)
 
 
 
