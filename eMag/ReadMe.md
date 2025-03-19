@@ -50,6 +50,7 @@ Pentru a aceesa aceasta interfata va trebui ca pe [site](https://marketplace.ema
     - [contentSpeed-startuo-functionalitati: Vanzari prin eMag-marketplace](https://www.contentspeed.ro/startup/functionalitati/vanzari-prin-emag-marketplace)
     - [teamShare: eMag](https://www.teamshare.ro/emag)
     - [emag.ro-marketPlace-onBoarding: Plata pt API-ul lor](https://marketplace.emag.ro/onboarding/sign-up/145309?token=tMDV9yGbgkH1L6F074uW)
+    - [scriBD-PDF: eMAG Marketplace API Documentation v4.4.5 (11.03.2022)](https://www.scribd.com/document/670499687/EMAG-Marketplace-API-Documentation-v4-4-5)
     - [silio-PDF: eMAG Marketplace API Documentation v4.3.6 (03.12.2019)](https://silio.ro/index.php?route=product/product/getProductAttachmentFile&attachment_id=263)
     - [scriBD-PDF: eMAG Marketplace API Documentation v4.2.0 (01.03.2018)](https://www.scribd.com/document/376969923/EMAG-Marketplace-API-Documentation-v4-2-0)
     - [scriBD-PDF: eMAG Marketplace API Documentation v3.9.4 (01.07.2015)](https://www.scribd.com/document/358215315/EMAG-Marketplace-API-Documentation-v3-9-4)
