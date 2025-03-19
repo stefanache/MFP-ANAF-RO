@@ -48,7 +48,7 @@ Pentru a aceesa aceasta interfata va trebui ca pe [site](https://marketplace.ema
    La final sa vedem cateva link-uri utile legat de acest subiect:
 
     - [GH@MihaiCraciun88: eMag-API-Test-Tool](https://github.com/MihaiCraciun88/eMag-API-Test-Tool)
-
+    - [GH: eMAGTechLabs](https://github.com/eMAGTechLabs)
 
 
 
