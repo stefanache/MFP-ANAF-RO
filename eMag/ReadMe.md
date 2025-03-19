@@ -50,6 +50,7 @@ Pentru a aceesa aceasta interfata va trebui ca pe [site](https://marketplace.ema
     - [contentSpeed-startuo-functionalitati: Vanzari prin eMag-marketplace](https://www.contentspeed.ro/startup/functionalitati/vanzari-prin-emag-marketplace)
     - [teamShare: eMag](https://www.teamshare.ro/emag)
     - [emag.ro-marketPlace-onBoarding: Plata pt API-ul lor](https://marketplace.emag.ro/onboarding/sign-up/145309?token=tMDV9yGbgkH1L6F074uW)
+    - [silio-PDF: eMAG Marketplace API Documentation v4.3.6 03.12.2019](https://silio.ro/index.php?route=product/product/getProductAttachmentFile&attachment_id=263)
     - [emag.ro-marketPlace-infocenter-emagAcademy-cum se adauga un produs-importul prin Api ori Feeds: API Documentatie](https://marketplace.emag.ro/infocenter/emag-academy/how-to-add-a-product/product-import-through-api-or-feeds/api-documentation/?lang=en)
     - [emag.ro-marketPlace-infocenter-emagAcademy-cerinte legale: termeni si conditii pt. utilizarea API pe eMag-marketplace](https://marketplace.emag.ro/infocenter/emag-academy/cerinte-legale/termeni-si-conditii-pentru-utilizarea-api-pe-emag-marketplace/)
     - [emag.ro-marketPlace-infocenter-emagAcademy-cum se adauga un produs-importul prin feed: Documentatia tehnica](https://marketplace.emag.ro/infocenter/emag-academy/cum-se-adauga-un-produs/importul-prin-feed/documentatie-tehnica/)
