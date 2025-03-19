@@ -53,6 +53,7 @@ Pentru a aceesa aceasta interfata va trebui ca pe [site](https://marketplace.ema
     - [silio-PDF: eMAG Marketplace API Documentation v4.3.6 (03.12.2019)](https://silio.ro/index.php?route=product/product/getProductAttachmentFile&attachment_id=263)
     - [scriBD-PDF: eMAG Marketplace API Documentation v4.2.0 (01.03.2018)](https://www.scribd.com/document/376969923/EMAG-Marketplace-API-Documentation-v4-2-0)
     - [adobe-commerceMarketplacecatalog-product-ziTec-eMagMarketPlace-1.0.1-CE-Instalation guide-PDF: eMAG Marketplace Plugin User Guide v1.0.1](https://commercemarketplace.adobe.com/media/catalog/product/zitec-emagmarketplace-1-0-1-ce/installation_guides.pdf)
+    - [emag.ro-marketPlace-infocenter-emagAcademy-my account-my account profile: My account technical details](https://marketplace.emag.ro/infocenter/emag-academy/my-account/my-account-profile/my-account-technical-details/?lang=en))
     - [emag.ro-marketPlace-infocenter-emagAcademy-cum se adauga un produs-importul prin Api ori Feeds: API Documentatie](https://marketplace.emag.ro/infocenter/emag-academy/how-to-add-a-product/product-import-through-api-or-feeds/api-documentation/?lang=en)
     - [emag.ro-marketPlace-infocenter-emagAcademy-cerinte legale: termeni si conditii pt. utilizarea API pe eMag-marketplace](https://marketplace.emag.ro/infocenter/emag-academy/cerinte-legale/termeni-si-conditii-pentru-utilizarea-api-pe-emag-marketplace/)
     - [emag.ro-marketPlace-infocenter-emagAcademy-cum se adauga un produs-importul prin feed: Documentatia tehnica](https://marketplace.emag.ro/infocenter/emag-academy/cum-se-adauga-un-produs/importul-prin-feed/documentatie-tehnica/)
@@ -66,6 +67,8 @@ Pentru a aceesa aceasta interfata va trebui ca pe [site](https://marketplace.ema
     - [reddit-programare: Stiti vreun API pentru produsele de pe eMag/PCGarage/Altex/etc?](https://www.reddit.com/r/programare/comments/qqv43m/stiti_vreun_api_pentru_produsele_de_pe/)
     - [eMag.ro: Teams](https://teams.emag.ro/)
     - [reddit-programare: Munca la eMag ca developer](https://www.reddit.com/r/programare/comments/t3eit4/munca_ca_developer_in_emag/)
+    - [GH@chawel: Python eMag](https://github.com/chawel/python-emag)
+
 
 
 
