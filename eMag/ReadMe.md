@@ -72,6 +72,7 @@ Pentru a aceesa aceasta interfata va trebui ca pe [site](https://marketplace.ema
     - [openCart: Marketplace-extension](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=22204&filter_download_id=38&filter_member=obsol)
     - [emag.ro-marketPlace-infocenter-emagAcademy-dashboard: Dashboard-products](https://marketplace.emag.ro/infocenter/emag-academy/dashboard/dashboard-products/?lang=en)
     - [GH@Cdiscount: Api-MarketPlace-SDK-PHP](https://github.com/Cdiscount/API-MarketPlace-SDK-PHP)
+    - [GH@KnpLabs:PhP GH-API(client)](https://github.com/KnpLabs/php-github-api)
 
 
 
