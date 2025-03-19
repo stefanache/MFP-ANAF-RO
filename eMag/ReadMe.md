@@ -53,6 +53,7 @@ Pentru a aceesa aceasta interfata va trebui ca pe [site](https://marketplace.ema
     - [scriBD-PDF: eMAG Marketplace API Documentation v4.4.6 (03.10.2023)](https://www.scribd.com/document/680003369/EMAG-Marketplace-API-Documentation-v4-4-6)
     - [scriBD-PDF: eMAG Marketplace API Documentation v4.4.5 (11.03.2022)](https://www.scribd.com/document/670499687/EMAG-Marketplace-API-Documentation-v4-4-5)
     - [silio-PDF: eMAG Marketplace API Documentation v4.3.6 (03.12.2019)](https://silio.ro/index.php?route=product/product/getProductAttachmentFile&attachment_id=263)
+    - [scriBD-PDF: eMAG Marketplace API Documentation v4.3.2 (18.02.2019)](https://www.scribd.com/document/458939630/eMAG-Marketplace-API-documentation-v4-3-1-docx)
     - [scriBD-PDF: eMAG Marketplace API Documentation v4.2.0 (01.03.2018)](https://www.scribd.com/document/376969923/EMAG-Marketplace-API-Documentation-v4-2-0)
     - [scriBD-PDF: eMAG Marketplace API Documentation v3.9.4 (01.07.2015)](https://www.scribd.com/document/358215315/EMAG-Marketplace-API-Documentation-v3-9-4)
     - [adobe-commerceMarketplacecatalog-product-ziTec-eMagMarketPlace-1.0.1-CE-Instalation guide-PDF: eMAG Marketplace Plugin User Guide v1.0.1](https://commercemarketplace.adobe.com/media/catalog/product/zitec-emagmarketplace-1-0-1-ce/installation_guides.pdf)
