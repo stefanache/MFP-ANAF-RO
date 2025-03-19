@@ -52,6 +52,7 @@ Pentru a aceesa aceasta interfata va trebui ca pe [site](https://marketplace.ema
     - [emag.ro-marketPlace-onBoarding: Plata pt API-ul lor](https://marketplace.emag.ro/onboarding/sign-up/145309?token=tMDV9yGbgkH1L6F074uW)
     - [silio-PDF: eMAG Marketplace API Documentation v4.3.6 (03.12.2019)](https://silio.ro/index.php?route=product/product/getProductAttachmentFile&attachment_id=263)
     - [scriBD-PDF: eMAG Marketplace API Documentation v4.2.0 (01.03.2018)](https://www.scribd.com/document/376969923/EMAG-Marketplace-API-Documentation-v4-2-0)
+    - [scriBD-PDF: eMAG Marketplace API Documentation v3.9.4 (01.07.2015)](https://www.scribd.com/document/358215315/EMAG-Marketplace-API-Documentation-v3-9-4)
     - [adobe-commerceMarketplacecatalog-product-ziTec-eMagMarketPlace-1.0.1-CE-Instalation guide-PDF: eMAG Marketplace Plugin User Guide v1.0.1](https://commercemarketplace.adobe.com/media/catalog/product/zitec-emagmarketplace-1-0-1-ce/installation_guides.pdf)
     - [emag.ro-marketPlace-infocenter-emagAcademy-my account-my account profile: My account technical details](https://marketplace.emag.ro/infocenter/emag-academy/my-account/my-account-profile/my-account-technical-details/?lang=en))
     - [emag.ro-marketPlace-infocenter-emagAcademy-cum se adauga un produs-importul prin Api ori Feeds: API Documentatie](https://marketplace.emag.ro/infocenter/emag-academy/how-to-add-a-product/product-import-through-api-or-feeds/api-documentation/?lang=en)
