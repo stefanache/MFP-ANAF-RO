@@ -29,7 +29,7 @@ Platforma **eMag-API** este disponibila(deocamdata), pt urmatoarele [limbi natur
 Sa nu uitam ca [**ChatGPT**](https://chat.openai.com/) genereaza [cod](https://chatgpt.com/share/67962f5f-5b34-800b-9d64-43a7f7291b3a)(a se vedea ce/care **Surse** de informare s-a folosit pentru a se elabora acest raspuns) si va poate fi de mare ajutor(mai ales, in acesta situatie, in care internetul, nu prea abunda in exemple, pt acest API).
 Totusi, tot acest cod, generat de catre ChatGPT, sub rezerva ca se pot strecura si greseli sau [inadvertențe](https://m.dex.ro/inadverten%C8%9B%C4%83), trebuie in prelabil testat separat, pentru ca mai apoi, sa fie inserat in aplicatiile voastre de baza/principale, deja dezvoltate pana in acel moment.
 
-Trebuie sa va spun ca acest api nu este gratuit si in plus se adreseaza in general persoanelor juridice(PJ).
+Trebuie sa va spun ca acest api nu este gratuit si in plus se adreseaza in general persoanelor juridice(PJ=firme/companii).
 Pentru a aceesa aceasta interfata va trebui ca pe [site](https://marketplace.emag.ro/infocenter/emag-academy/?lang=en)-ul lor sa va creati un cont(inregistrati ca si utilizator), sa va logati( a nu se face confuzie cu site-ul [Emag pt utilizatorii-obisnuiti de web](https://github.com/mozilla/contain-facebook/issues/432)) si apoi, sa va alegeti limba de dialog ca mai apoi sa furnizati informatiile de plata:
  - **IBAN***
  - **Bank account holder***
@@ -48,6 +48,7 @@ Pentru a aceesa aceasta interfata va trebui ca pe [site](https://marketplace.ema
    La final sa vedem cateva link-uri utile legat de acest subiect(eMagia):
 
     - [emag.ro-marketPlace-infocenter-emagAcademy-cum se adauga un produs-importul prin feed: Documentatia tehnica](https://marketplace.emag.ro/infocenter/emag-academy/cum-se-adauga-un-produs/importul-prin-feed/documentatie-tehnica/)
+    - [emag.ro-marketPlace-infocenter-emagAcademy-um,se adauga un produs: Importul prin feed](https://marketplace.emag.ro/infocenter/emag-academy/cum-se-adauga-un-produs/importul-prin-feed/)
     - [GH-topis: eMag](https://github.com/topics/emag)
     - [GH@MihaiCraciun88: eMag-API-Test-Tool](https://github.com/MihaiCraciun88/eMag-API-Test-Tool)
     - [GH: eMAGTechLabs](https://github.com/eMAGTechLabs)
