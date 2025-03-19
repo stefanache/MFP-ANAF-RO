@@ -47,6 +47,7 @@ Pentru a aceesa aceasta interfata va trebui ca pe [site](https://marketplace.ema
 
    La final sa vedem cateva link-uri utile legat de acest subiect(eMagia):
 
+    - [emag.ro-marketPlace-infocenter-emagAcademy-cum se adauga un produs-importul prin feed: Documentatia tehnica](https://marketplace.emag.ro/infocenter/emag-academy/cum-se-adauga-un-produs/importul-prin-feed/documentatie-tehnica/)
     - [GH-topis: eMag](https://github.com/topics/emag)
     - [GH@MihaiCraciun88: eMag-API-Test-Tool](https://github.com/MihaiCraciun88/eMag-API-Test-Tool)
     - [GH: eMAGTechLabs](https://github.com/eMAGTechLabs)
