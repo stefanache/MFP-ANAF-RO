@@ -79,6 +79,7 @@ Pentru a aceesa aceasta interfata va trebui ca pe [site](https://marketplace.ema
     - [GH@marketplace: RadMe-API(ca exemplu doar)](https://github.com/marketplace/readme-api)...vezi aici [marketplace-ul implementat de Github](https://github.com/marketplace?type=apps)
     - [prestaShop-forums: Modul(API) conectare eMag.ro](https://www.prestashop.com/forums/topic/445986-modul-api-conectare-emagro/)
     - [GH@avtocod: B2B api PhP(doar ca exemplu doar)](https://github.com/avtocod/b2b-api-php)
+    - [nopCommerce: eMag-marketplace stock sync](https://www.nopcommerce.com/en/emag-marketplace-stock-sync)
 
 
 
