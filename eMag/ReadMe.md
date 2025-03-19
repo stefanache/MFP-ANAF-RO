@@ -49,7 +49,8 @@ Pentru a aceesa aceasta interfata va trebui ca pe [site](https://marketplace.ema
 
     - [GH@MihaiCraciun88: eMag-API-Test-Tool](https://github.com/MihaiCraciun88/eMag-API-Test-Tool)
     - [GH: eMAGTechLabs](https://github.com/eMAGTechLabs)
-    - [GH@gayanvoice: public_contributions-RO](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/romania.md)...cautati eMag
+    - [GH@gayanvoice: public_contributions-RO](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/romania.md)...cautati eMag si apoi accesati fiecare contributor pt a vedea ce ofera fiecare...@
+    - [GH: eMag-scraper](https://github.com/topics/emag-scraper)
 
 
 
