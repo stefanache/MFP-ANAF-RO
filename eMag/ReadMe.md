@@ -73,10 +73,11 @@ Pentru a aceesa aceasta interfata va trebui ca pe [site](https://marketplace.ema
     - [GH@celDotRO: marketplace](https://github.com/celdotro/marketplace)
     - [openCart: Marketplace-extension](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=22204&filter_download_id=38&filter_member=obsol)
     - [emag.ro-marketPlace-infocenter-emagAcademy-dashboard: Dashboard-products](https://marketplace.emag.ro/infocenter/emag-academy/dashboard/dashboard-products/?lang=en)
-    - [GH@Cdiscount: Api-MarketPlace-SDK-PHP](https://github.com/Cdiscount/API-MarketPlace-SDK-PHP)
-    - [GH@KnpLabs:PhP GH-API(client)](https://github.com/KnpLabs/php-github-api)
-    - [GH@marketplace: RadMe-API](https://github.com/marketplace/readme-api)...vezi aici [marketplace-ul implementat de Github](https://github.com/marketplace?type=apps)
+    - [GH@Cdiscount: Api-MarketPlace-SDK-PHP(ca exemplu doar)](https://github.com/Cdiscount/API-MarketPlace-SDK-PHP)
+    - [GH@KnpLabs:PhP GH-API(client-ca exemplu doar))](https://github.com/KnpLabs/php-github-api)
+    - [GH@marketplace: RadMe-API(ca exemplu doar)](https://github.com/marketplace/readme-api)...vezi aici [marketplace-ul implementat de Github](https://github.com/marketplace?type=apps)
     - [prestaShop-forums: Modul(API) conectare eMag.ro](https://www.prestashop.com/forums/topic/445986-modul-api-conectare-emagro/)
+    - [GH@avtocod: B2B api PhP(doar ca exemplu doar)](https://github.com/avtocod/b2b-api-php)
 
 
 
