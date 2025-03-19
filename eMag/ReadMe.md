@@ -55,6 +55,7 @@ Pentru a aceesa aceasta interfata va trebui ca pe [site](https://marketplace.ema
     - [GH@gayanvoice: public_contributions-RO](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/romania.md)...cautati eMag si apoi accesati fiecare contributor pt a vedea ce ofera fiecare...@
     - [GH: eMag-scraper](https://github.com/topics/emag-scraper)
     - [GH@seyf97: eMag Price Tracker](https://github.com/seyf97/eMAG-Price-Tracker)
+    - [reddit-programare: Stiti vreun API pentru produsele de pe eMag/PCGarage/Altex/etc?](https://www.reddit.com/r/programare/comments/qqv43m/stiti_vreun_api_pentru_produsele_de_pe/)
 
 
 
