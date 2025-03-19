@@ -74,6 +74,7 @@ Pentru a aceesa aceasta interfata va trebui ca pe [site](https://marketplace.ema
     - [GH@Cdiscount: Api-MarketPlace-SDK-PHP](https://github.com/Cdiscount/API-MarketPlace-SDK-PHP)
     - [GH@KnpLabs:PhP GH-API(client)](https://github.com/KnpLabs/php-github-api)
     - [GH@marketplace: RadMe-API](https://github.com/marketplace/readme-api)...vezi aici [marketplace-ul implementat de Github](https://github.com/marketplace?type=apps)
+    - [prestaShop-forums: Modul(API) conectare eMag.ro](https://www.prestashop.com/forums/topic/445986-modul-api-conectare-emagro/)
 
 
 
