@@ -10,3 +10,4 @@ In legatura cu subiectul HuggingFace(HF) o sa plasez aici cateva link-uri utile:
  - [HF-docs transformers glossary](https://huggingface.co/docs/transformers/glossary)
  - [HF-docs transformers DeepSeek](https://huggingface.co/docs/transformers/main_classes/deepspeed)
  - [HF: models](https://huggingface.co/models)
+ - [HF: EmbeddedLLM(company)](https://huggingface.co/EmbeddedLLM)
