@@ -59,6 +59,8 @@ Pentru a aceesa aceasta interfata va trebui ca pe [site](https://marketplace.ema
     - [GH: eMag-scraper](https://github.com/topics/emag-scraper)
     - [GH@seyf97: eMag Price Tracker](https://github.com/seyf97/eMAG-Price-Tracker)
     - [reddit-programare: Stiti vreun API pentru produsele de pe eMag/PCGarage/Altex/etc?](https://www.reddit.com/r/programare/comments/qqv43m/stiti_vreun_api_pentru_produsele_de_pe/)
+    - [eMag.ro: Teams](https://teams.emag.ro/)
+    - [reddit-programare: Munca la eMag ca developer](https://www.reddit.com/r/programare/comments/t3eit4/munca_ca_developer_in_emag/)
 
 
 
