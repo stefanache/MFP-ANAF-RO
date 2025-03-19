@@ -45,6 +45,10 @@ Pentru a aceesa aceasta interfata va trebui ca pe [site](https://marketplace.ema
    [***NOTA***](https://github.com/eMAGTechLabs/emag-vuejs-lib):<br/>
    Inainte de a furniza aceste date, cred ca ar fi bine sa contactati telefonic, sau cel putin prin email, oficialitatile eMag. pt a va asigura ca le puteti furniza cu incredere(conform GDPR), aceste date sensibile. Cel putin/macar, puteti folosi un cont curent  bancar, mai putin folosit si care nu contine o suma semnificativa!!!!
 
+   La final sa vedem cateva link-uri utile legat de acest subiect:
+
+    - [GH@MihaiCraciun88: eMag-API-Test-Tool](https://github.com/MihaiCraciun88/eMag-API-Test-Tool)
+
 
 
 
