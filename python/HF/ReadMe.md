@@ -11,4 +11,5 @@ In legatura cu subiectul HuggingFace(HF) o sa plasez aici cateva link-uri utile:
  - [HF-docs transformers DeepSeek](https://huggingface.co/docs/transformers/main_classes/deepspeed)
  - [HF: models](https://huggingface.co/models)
  - [HF: EmbeddedLLM(company)](https://huggingface.co/EmbeddedLLM)
+ - [HF: collections](https://huggingface.co/collections)
  - [HF-collections-stereoPlegic-ontology: stereoplegic's Collections: Ontology](https://huggingface.co/collections/stereoplegic/ontology-655b0a00bf604a773282c8ce)
