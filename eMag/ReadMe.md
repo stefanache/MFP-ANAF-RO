@@ -73,7 +73,7 @@ Pentru a aceesa aceasta interfata va trebui ca pe [site](https://marketplace.ema
     - [emag.ro-marketPlace-infocenter-emagAcademy-dashboard: Dashboard-products](https://marketplace.emag.ro/infocenter/emag-academy/dashboard/dashboard-products/?lang=en)
     - [GH@Cdiscount: Api-MarketPlace-SDK-PHP](https://github.com/Cdiscount/API-MarketPlace-SDK-PHP)
     - [GH@KnpLabs:PhP GH-API(client)](https://github.com/KnpLabs/php-github-api)
-    - [GH@marketplace: RadMe-API](https://github.com/marketplace/readme-api)
+    - [GH@marketplace: RadMe-API](https://github.com/marketplace/readme-api)...vezi aici [marketplace-ul implementat de Github](https://github.com/marketplace?type=apps)
 
 
 
