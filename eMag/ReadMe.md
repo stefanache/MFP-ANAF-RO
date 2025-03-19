@@ -57,17 +57,20 @@ Pentru a aceesa aceasta interfata va trebui ca pe [site](https://marketplace.ema
     - [emag.ro-marketPlace-infocenter-emagAcademy-cum se adauga un produs-importul prin Api ori Feeds: API Documentatie](https://marketplace.emag.ro/infocenter/emag-academy/how-to-add-a-product/product-import-through-api-or-feeds/api-documentation/?lang=en)
     - [emag.ro-marketPlace-infocenter-emagAcademy-cerinte legale: termeni si conditii pt. utilizarea API pe eMag-marketplace](https://marketplace.emag.ro/infocenter/emag-academy/cerinte-legale/termeni-si-conditii-pentru-utilizarea-api-pe-emag-marketplace/)
     - [emag.ro-marketPlace-infocenter-emagAcademy-cum se adauga un produs-importul prin feed: Documentatia tehnica](https://marketplace.emag.ro/infocenter/emag-academy/cum-se-adauga-un-produs/importul-prin-feed/documentatie-tehnica/)
-    - [emag.ro-marketPlace-infocenter-emagAcademy-um,se adauga un produs: Importul prin feed](https://marketplace.emag.ro/infocenter/emag-academy/cum-se-adauga-un-produs/importul-prin-feed/)
+    - [emag.ro-marketPlace-infocenter-emagAcademy-cum se adauga un produs: Importul prin feed](https://marketplace.emag.ro/infocenter/emag-academy/cum-se-adauga-un-produs/importul-prin-feed/)
     - [GH-topis: eMag](https://github.com/topics/emag)
     - [GH@MihaiCraciun88: eMag-API-Test-Tool](https://github.com/MihaiCraciun88/eMag-API-Test-Tool)
     - [GH: eMAGTechLabs](https://github.com/eMAGTechLabs)
-    - [GH@gayanvoice: public_contributions-RO](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/romania.md)...cautati eMag si apoi accesati fiecare contributor pt a vedea ce ofera fiecare...@
+    - [GH@gayanvoice: public_contributions-RO](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/romania.md)...cautati eMag si apoi accesati fiecare contributor pt a vedea ce ofera fiecare...
     - [GH: eMag-scraper](https://github.com/topics/emag-scraper)
     - [GH@seyf97: eMag Price Tracker](https://github.com/seyf97/eMAG-Price-Tracker)
     - [reddit-programare: Stiti vreun API pentru produsele de pe eMag/PCGarage/Altex/etc?](https://www.reddit.com/r/programare/comments/qqv43m/stiti_vreun_api_pentru_produsele_de_pe/)
     - [eMag.ro: Teams](https://teams.emag.ro/)
     - [reddit-programare: Munca la eMag ca developer](https://www.reddit.com/r/programare/comments/t3eit4/munca_ca_developer_in_emag/)
     - [GH@chawel: Python eMag](https://github.com/chawel/python-emag)
+    - [GH@celDotRO: marketplace](https://github.com/celdotro/marketplace)
+    - [openCart: Marketplace-extension](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=22204&filter_download_id=38&filter_member=obsol)
+    - [emag.ro-marketPlace-infocenter-emagAcademy-dashboard: Dashboard-products](https://marketplace.emag.ro/infocenter/emag-academy/dashboard/dashboard-products/?lang=en)
 
 
 
