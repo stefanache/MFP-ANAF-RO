@@ -24,7 +24,7 @@ Aici o sa postez cateva [link](https://stackoverflow.com/questions/33080068/runn
  - [GH-PhP-searchByTopic: rag](https://github.com/topics/rag?l=php&o=desc&s=stars)
  - [GH-Krisseck: PhP-RAG](https://github.com/Krisseck/php-rag)
  - [GH-mzarnecki: PhP-RAG](https://github.com/mzarnecki/php-rag)
- - [GH-LLPhant: LLPhant - A comprehensive PHP Generative-AI Framework](https://github.com/LLPhant/LLPhant)
+ - [GH-LLPhant: LLPhant - A comprehensive PHP Generative-AI Framework](https://github.com/LLPhant/LLPhant); [ChanGPT-discutie despre LLPhant](https://chatgpt.com/share/67dd406b-fb98-800b-9e43-19c875a47fb3)
  - [GH-PhP-searchByTopic: llm](https://github.com/topics/llm?l=php&o=desc&s=stars)
  - [GH-PhP-searchByTopic: ai](https://github.com/topics/ai?l=php&o=desc&s=stars)
  - [GH-PhP-searchByTopic: ollama](https://github.com/topics/ollama?l=php&o=desc&s=stars)
