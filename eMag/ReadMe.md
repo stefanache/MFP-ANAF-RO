@@ -53,6 +53,7 @@ Pentru a aceesa aceasta interfata va trebui ca pe [site](https://marketplace.ema
     - [emag.ro-marketplace-infoCenter-emag-academy-vreau-sa-fiu-partener-emag-marketplace: Pasii-de-inscriere-pe-platforma-emag-marketplace](https://marketplace.emag.ro/infocenter/emag-academy/vreau-sa-fiu-partener-emag-marketplace/pasii-de-inscriere-pe-platforma-emag-marketplace/)
     - [contentSpeed-startuo-functionalitati: Vanzari prin eMag-marketplace](https://www.contentspeed.ro/startup/functionalitati/vanzari-prin-emag-marketplace)
     - [contentSpeed-Knowledgebase/Article/View: Configurare eMag Marketplace](https://www.help.contentspeed.ro/index.php?/Knowledgebase/Article/View/194)
+    - [contentSpeed-help-Knowledgebase/Article/View: Configurare eMag Marketplace](https://help.contentspeed.ro/index.php?/Knowledgebase/Article/View/194/26/configurare-emag-marketplace)
     - [teamShare: eMag](https://www.teamshare.ro/emag)
     - [emag.ro-marketPlace-onBoarding: Plata pt API-ul lor](https://marketplace.emag.ro/onboarding/sign-up/145309?token=tMDV9yGbgkH1L6F074uW)
     - [scriBD-PDF: eMAG Marketplace API Documentation v4.4.6 (03.10.2023)](https://www.scribd.com/document/680003369/EMAG-Marketplace-API-Documentation-v4-4-6)
