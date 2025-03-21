@@ -49,6 +49,7 @@ Pentru a aceesa aceasta interfata va trebui ca pe [site](https://marketplace.ema
 
    La final sa vedem cateva link-uri utile legat de acest subiect(eMagia):
 
+    - [emag.ro-marketplace-infoCenter-start-selling: Vreau sa vand pe eMag-marketplace](https://marketplace.emag.ro/infocenter/start-selling/)
     - [emag.ro-marketplace-infoCenter-emag-academy-vreau-sa-fiu-partener-emag-marketplace: Pasii-de-inscriere-pe-platforma-emag-marketplace](https://marketplace.emag.ro/infocenter/emag-academy/vreau-sa-fiu-partener-emag-marketplace/pasii-de-inscriere-pe-platforma-emag-marketplace/)
     - [contentSpeed-startuo-functionalitati: Vanzari prin eMag-marketplace](https://www.contentspeed.ro/startup/functionalitati/vanzari-prin-emag-marketplace)
     - [contentSpeed-Knowledgebase/Article/View: Configurare eMag Marketplace](https://www.help.contentspeed.ro/index.php?/Knowledgebase/Article/View/194)
