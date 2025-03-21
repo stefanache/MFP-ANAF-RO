@@ -51,6 +51,7 @@ Pentru a aceesa aceasta interfata va trebui ca pe [site](https://marketplace.ema
 
     - [emag.ro-marketplace-infoCenter-start-selling: Vreau sa vand pe eMag-marketplace](https://marketplace.emag.ro/infocenter/start-selling/)
     - [emag.ro-marketplace-infoCenter-emag-academy-vreau-sa-fiu-partener-emag-marketplace: Pasii-de-inscriere-pe-platforma-emag-marketplace](https://marketplace.emag.ro/infocenter/emag-academy/vreau-sa-fiu-partener-emag-marketplace/pasii-de-inscriere-pe-platforma-emag-marketplace/)
+    - [conector OpenCart-eMag](https://lisal.ro/modul-integrare-emag-marketplace-cu-opencart/?srsltid=AfmBOooVuQyPA88MtT2gKrDC-Tthq040uBnfCNKbrUTHldFO0DkfkL0-)
     - [contentSpeed-startuo-functionalitati: Vanzari prin eMag-marketplace](https://www.contentspeed.ro/startup/functionalitati/vanzari-prin-emag-marketplace)
     - [contentSpeed-Knowledgebase/Article/View: Configurare eMag Marketplace](https://www.help.contentspeed.ro/index.php?/Knowledgebase/Article/View/194)
     - [contentSpeed-help-Knowledgebase/Article/View: Configurare eMag Marketplace](https://help.contentspeed.ro/index.php?/Knowledgebase/Article/View/194/26/configurare-emag-marketplace)
