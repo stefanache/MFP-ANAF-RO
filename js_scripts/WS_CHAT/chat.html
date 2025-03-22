@@ -18,7 +18,8 @@
     <button onclick="sendMessage()">Send</button>
 
     <script>
-        const ws = new WebSocket("wss://public-ws.onrender.com");
+        const wss_server_public_url="wss://echo.websocket.events/";
+        const ws = new WebSocket(wss_server_public_url);
 
         ws.onopen = () => {
             logMessage("Connected to WebSocket server!");
