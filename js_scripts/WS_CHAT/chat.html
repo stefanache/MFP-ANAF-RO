@@ -21,9 +21,11 @@
         //const wss_server_public_url="wss://echo.websocket.events/";
         const wss_server_public_url="wss://public-ws.onrender.com/";
         const ws = new WebSocket(wss_server_public_url);
-        ws = fetch(wss_server_public_url)
+        /*
+        fetch(wss_server_public_url)
           .then(response => console.log(response.status))
           .catch(error => console.error("Fetch error:", error));
+        */
         
         ws.onopen = () => {
             logMessage("Connected to WebSocket server!");
