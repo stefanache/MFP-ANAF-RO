@@ -20,7 +20,7 @@
     <script>
         //const wss_server_public_url="wss://echo.websocket.events/";
         const wss_server_public_url="wss://public-ws.onrender.com/";
-        let ws = new WebSocket(wss_server_public_url);
+        const ws = new WebSocket(wss_server_public_url);
 
         ws.onopen = () => {
             logMessage("Connected to WebSocket server!");
