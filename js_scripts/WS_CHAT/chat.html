@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WebSocket Chat</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; margin: 20px; }
+        #chatbox { width: 100%; max-width: 400px; height: 300px; border: 1px solid #ccc; overflow-y: auto; margin: 10px auto; padding: 10px; text-align: left; }
+        input { width: 70%; padding: 10px; }
+        button { padding: 10px; }
+    </style>
+</head>
+<body>
+    <h2>Live WebSocket Chat</h2>
+    <div id="chatbox"></div>
+    <input type="text" id="message" placeholder="Type a message...">
+    <button onclick="sendMessage()">Send</button>
+
+    <script>
+        const ws = new WebSocket("wss://public-ws.onrender.com");
+
+        ws.onopen = () => {
+            logMessage("Connected to WebSocket server!");
+        };
+
+        ws.onmessage = (event) => {
+            logMessage(event.data);
+        };
+
+        ws.onerror = (error) => {
+            logMessage("Error: " + error);
+        };
+
+        ws.onclose = () => {
+            logMessage("Connection closed.");
+        };
+
+        function sendMessage() {
+            const input = document.getElementById("message");
+            if (input.value.trim() !== "") {
+                ws.send(input.value);
+                input.value = "";
+            }
+        }
+
+        function logMessage(message) {
+            const chatbox = document.getElementById("chatbox");
+            chatbox.innerHTML += `<p>${message}</p>`;
+            chatbox.scrollTop = chatbox.scrollHeight;
+        }
+    </script>
+</body>
+</html>
