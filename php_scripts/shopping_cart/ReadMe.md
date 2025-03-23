@@ -2,6 +2,7 @@ Salut!
 
 Legat de subictul **carucior-de-cumparaturi**, hai sa trecem in revista cateva link-uri:
 
+ - [financesonline: best shopping-cart PhP-sw](https://financesonline.com/best-shopping-cart-php-software/)
  - [tutsPlus-code(2021): Build a shopping-cart with-PhP and MySQL -- net](https://code.tutsplus.com/build-a-shopping-cart-with-php-and-mysql--net-5144t)
  - [dCodeMania-post: shopping-cart with checkout-system - PhP + MySQLi + JS/Ajax](https://dcodemania.com/post/shopping-cart-with-checkout-system-php-mysqli-ajax)
  - [websLesson.info(2016): simple PhP+MySQL shopping-cart](https://www.webslesson.info/2016/08/simple-php-mysql-shopping-cart.html)
