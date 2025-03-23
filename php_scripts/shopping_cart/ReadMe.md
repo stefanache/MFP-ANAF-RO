@@ -2,7 +2,7 @@ Salut!
 
 Legat de subictul **carucior-de-cumparaturi**, hai sa trecem in revista cateva link-uri:
 
- - [campCodes-projects-PhP-CMS: Business-Management-System(BMS)](https://www.campcodes.com/projects/php/business-management-system/)
+ - [campCodes-projects-PhP-CMS-Laravel: Business-Management-System(BMS)](https://www.campcodes.com/projects/php/business-management-system/)
  - [financesonline(2024): 15 best shopping-cart PhP-sw](https://financesonline.com/best-shopping-cart-php-software/)
  - [tutsPlus-code(2021): Build a shopping-cart with-PhP and MySQL -- net](https://code.tutsplus.com/build-a-shopping-cart-with-php-and-mysql--net-5144t)
  - [dCodeMania-post: shopping-cart with checkout-system - PhP + MySQLi + JS/Ajax](https://dcodemania.com/post/shopping-cart-with-checkout-system-php-mysqli-ajax)
