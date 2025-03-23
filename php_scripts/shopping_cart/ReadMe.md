@@ -8,4 +8,5 @@ Legat de subictul **carucior-de-cumparaturi**, hai sa trecem in revista cateva l
  - [code-projects: simple shopping-cart in PhP with source-code](https://code-projects.org/simple-shopping-cart-in-php-with-source-code/)
  - [codesHack: shopping-cart system - PhP+MySQL](https://codeshack.io/shopping-cart-system-php-mysql/)
  - [allPhpTricks: simple shopping-cart using PhP and MySQL](https://www.allphptricks.com/simple-shopping-cart-using-php-and-mysql/)
+ - [sourceCodester: basic shopping-cart PhP+MySQL](https://www.sourcecodester.com/php/10964/basic-shopping-cartphpmysql.html)
  - [...](https://www.google.com/search?sca_esv=c63685965ec903f5&rlz=1C1CHBF_enRO1132RO1132&sxsrf=AHTn8zrtkzUlsijGkn6xzLpAZ82neHwuTg:1742726106303&q=php+MySQL+shopping+cart+for+free+GDPR&udm=2&fbs=ABzOT_BYhiZpMrUAF0c9tORwPGlsodhGu4F1UEhEeTehlBu7020oMQ7aBpF-aNynCVlndtbfCZRhMFm3EMvvoT1HX4IciFaWA5nwCzTGM3J5Ops_Xs3Qsyy25b7oXKA6pwLn7v3BVIeFZNT4VQLrCm95iJdb7dujTNJ5GnMNaNfzjPvAKt0ZRu9K2iZ-Q6AMCXqjDwXwmZXdWHAjlIOmWPqCQX83g_bDPg&sa=X&ved=2ahUKEwjF8IbUgKCMAxUrVvEDHek1M3cQtKgLegQIGBAB&biw=1920&bih=911)
