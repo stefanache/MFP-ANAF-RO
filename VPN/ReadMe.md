@@ -1,6 +1,6 @@
 [Salut](https://medium.com/@milanaleksic/ngrok-vs-dynamic-dns-for-remote-linux-home-server-access-1486299502f2)!
 
-O sa postez aici cateva link-uri utile, legat de VPN(cazul-clasic/standard/uzual...dar nu numai!: client=CLI conectat la un server=SRV/gateway=GW via [VPN-tunel](https://www.tp-link.com/ro/support/faq/2137/)), avand la dispozitie cel putin un PC/VM cu Windows-preInstalat(si poate inca un PC/VM ori mai multe... precum si/sau alte [dispozitive](https://www.a2t.ro/blog/cum-se-configureaz-ddns-pe-un-router-wireless.html): cum ar fi [Router](https://www.tp-link.com/ro/support/faq/297/), NAS...):
+O sa postez aici cateva link-uri utile, legat de [VPN](https://ro.vpnmentor.com/blog/cum-sa-instalati-un-vpn-pe-routerul-dvs/)(cazul-clasic/standard/uzual...dar nu numai!: client=CLI conectat la un server=SRV/gateway=GW via [VPN-tunel](https://www.tp-link.com/ro/support/faq/2137/)), avand la dispozitie cel putin un PC/VM cu Windows-preInstalat(si poate inca un PC/VM ori mai multe... precum si/sau alte [dispozitive](https://www.a2t.ro/blog/cum-se-configureaz-ddns-pe-un-router-wireless.html): cum ar fi [Router](https://www.tp-link.com/ro/support/faq/297/), NAS...):
 
  - [infoSecInstitute-resources: How-to configure VPN in Windows-10](https://www.infosecinstitute.com/resources/operating-system-security/how-to-configure-vpn-in-windows-10/)
  - [vpnOverview/VPN_setUp/Install VPN windows: Setting-Up a VPN-Connection on Windows-10(Step-By-Step)](https://vpnoverview.com/vpn-setup/install-vpn-windows/)
