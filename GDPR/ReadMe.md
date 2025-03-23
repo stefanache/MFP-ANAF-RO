@@ -7,6 +7,7 @@ Acum revin cu cateva [link](https://www.google.com/search?q=gdpr+mysql+php+encry
 - [gdprComplet.ro - Care sunt cele 7 prinicipii GDPR?](https://gdprcomplet.ro/what-are-the-7-gdpr-principles/)
 - [userCentrics-knowledge-hub: Principles of GDPR](https://usercentrics.com/knowledge-hub/principles-of-gdpr/)
 - [planetCompliance-gdpr: GDPR challenges-opportunity](https://www.planetcompliance.com/gdpr/gdpr-challenges-opportunity/)
+- [drupal-project: Drupal-GDPR-team](https://www.drupal.org/project/drupal_gdpr_team/issues/2946087)
 - [gdprLocal: Creating a GDPR-compliant website](https://gdprlocal.com/creating-a-gdpr-compliant-website/)
 - [google-imgs: GDPR AI](https://www.google.com/search?sca_esv=f7eed69fd92caa42&rlz=1C1CHBF_enRO1132RO1132&sxsrf=AHTn8zqYSKz6cWbgNS-zkDi4vklekpdeOg:1742730144257&q=gdpr+ai&udm=2&fbs=ABzOT_BYhiZpMrUAF0c9tORwPGlsvaOe8f7raqCCMHfzRJL6BXJ9Eh_ATYohzC6wsD6XatneWirgsRGgJ9LwzHycPwMvKtMIwVV2_EQIfp2nEigW83ATzmncJMny4pAp22TXSkzfNUZv5puHm1XRxB2ufcLX95yOjDTgVwZUK01lRf4cjl7rduSsi2fj-dJyfFmudUC3YeQpNQulD7kpT-AsbQkdvlBWuQ&sa=X&ved=2ahUKEwiFicDZj6CMAxV2Z_EDHRnEHFAQtKgLegQIGBAB&biw=1920&bih=911&dpr=1)
 - [getButterfly: how-to-create a GDPR-modal-popup using roarJS](https://getbutterfly.com/how-to-create-a-gdpr-modal-popup-using-roarjs/); see also ...[pure-VanillaJS: tailSelectJS](https://getbutterfly.com/tail-select/), [dragonFlyJS(drag&drop)](https://getbutterfly.com/dragonflyjs-vanilla-javascript-drag-and-drop/); [JS-learn](https://getbutterfly.com/javascript/)
