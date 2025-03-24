@@ -2,6 +2,7 @@
 
 O sa postez aici un cocktail (citit cocteil, a.k.a amestec) de articole legate de fenomenul **cuantic**(lectura placuta!:):
 
+ - [WIKI: Clasele de complexitate P si NP](https://ro.wikipedia.org/wiki/Clasele_de_complexitate_P_%C8%99i_NP)
  - [google-imagini: **Qiskit** math](https://www.google.com/search?q=qiskit+math&lr=lang_ro&sca_esv=b6460952771b6581&rlz=1C1CHBF_enRO1132RO1132&udm=2&biw=1920&bih=911&tbs=lr%3Alang_1ro&sxsrf=AHTn8zrPkvdBwQSxu7TWuJ4ZmsaBW96K4A%3A1742145374325&ei=XgfXZ6CuE_mgjfYPi9jq0A4&ved=0ahUKEwig1buhjY-MAxV5UMMIHQusGuoQ4dUDCBE&uact=5&oq=qiskit+math&gs_lp=EgNpbWciC3Fpc2tpdCBtYXRoMgYQABgIGB5IxTRQAFiFLnAAeACQAQCYAYIBoAGjCqoBBDAuMTG4AQPIAQD4AQGYAgugAscKwgIHECMYJxjJAsICCBAAGIAEGLEDwgILEAAYgAQYsQMYgwHCAg4QABiABBixAxiDARiKBcICBRAAGIAEwgIHEAAYgAQYCsICBBAAGB7CAgcQABiABBgTwgIGEAAYExgewgIIEAAYExgIGB6YAwCSBwQwLjExoAfZRQ&sclient=img)
  - [MS-learn: Algoritmul cuantic de cautare Grover](https://learn.microsoft.com/en-us/azure/quantum/concepts-grovers)
  - [MS-learn: Intelegerea Oraculului-Cuntic(Quantum-Oracle=QO)](https://learn.microsoft.com/en-us/azure/quantum/concepts-oracles)
