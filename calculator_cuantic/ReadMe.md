@@ -105,6 +105,15 @@ O sa postez aici un cocktail (citit cocteil, a.k.a amestec) de articole legate d
  - [hotnews.ro: VIDEO Un experiment cuantic il contrazice pe Einstein si arata ca Universul este, intr-adevar, "infricosator"](https://hotnews.ro/video-un-experiment-cuantic-il-contrazice-pe-einstein-si-arata-ca-universul-este-intr-adevar-infricosator-500348)
  - [idsi.md-IDN: Fizica Aplicata - Corelații cuantice între atomi plasați în cavități optice cuplate](https://ibn.idsi.md/sites/default/files/imag_file/505-507.pdf)
  - [wiki: decoerenta cuantica](https://ro.wikipedia.org/wiki/Decoeren%C8%9B%C4%83_cuantic%C4%83); [wiki: spatiul Hilbert](https://ro.wikipedia.org/wiki/Spa%C8%9Biu_Hilbert)
+   <br/>O stare cuantică este o superpoziție a altor stări cuantice, de exemplu, stările spinului unui electron.
+   <br/>În interpretarea Copenhaga, superpoziția stărilor a fost descrisă de funcția de undă și colapsul funcției de undă a primit numele de decoerență.
+   <br/>Azi, decoerența studiază corelațiile cuantice dintre stările unui sistem cuantic și mediul său.
+   <br/>Dar sensul original a rămas, decoerența referindu-se la faptul că stările cuantice nu produc doar o singură realitate macroscopică.
+   <br/>Decoerența nu generează propiu-zis colapsul funcției de undă.
+   <br/>Doar furnizează o explicație pentru acest aparent colaps.
+   <br/>Natura cuantică a sistemului pur și simplu "se scurge" în mediul din jur.
+   <br/>O superpoziție totală a funcției de undă universale este posibilă, dar sensul său rămâne un țel pentru interpretările mecanicii cuantice.
+   <br/>Decoerența reprezintă o problemă majoră în calea realizării practice a calculatoarelor cuantice, de vreme ce acestea se bazează din greu pe evoluția neperturbată a stărilor cuantice coerente.
  - [acs.pub.ro-masterat: QC-courses](https://acs.pub.ro/doc/master/ro/courses/QC-courses-ro.pdf)
  - [uaic.ro-Edu-Info: QC=Quantum-Computing](https://edu.info.uaic.ro/quantum-computing/)
  - [Unibuc.ro-Fizica Solidului: Curs calcul cuantic](http://solid.fizica.unibuc.ro/cursuri/quant/curs_calcul_cuantic.pdf)
