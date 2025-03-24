@@ -4,4 +4,5 @@ Aici o sa plasez cateva link-uri utile legat de Terraform, accesat din Python:
 
  - [GH-beelit94: python-terraform](https://github.com/beelit94/python-terraform)
  - [pypi-project: TFtest](https://pypi.org/project/tftest/)
- - ...
+ - [hashicorp-developer-terraform: cdkTF](https://developer.hashicorp.com/terraform/cdktf)
+ - [...](https://www.reddit.com/r/Terraform/comments/yeyvrv/run_tf_scripts_using_python/?tl=ro)
