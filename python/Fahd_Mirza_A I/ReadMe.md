@@ -696,7 +696,7 @@ Aici voi insira o selectie de proiecte [interesante](https://huggingface.co/fahd
 
 <hr/>
 
-Iata aici un [data-formulator](https://www.youtube.com/watch?v=ySWRDqrzKrk&ab_channel=FahdMirza) propus de **MS** si analizat intr-un scurt [filmulet](https://www.youtube.com/watch?v=ySWRDqrzKrk&ab_channel=FahdMirza), pe canalul de **YT**, de catre dl. ***Fahd-Mirza***.
+Iata aici un [data-formulator](https://www.youtube.com/watch?v=ySWRDqrzKrk&ab_channel=FahdMirza) propus de **MS** si analizat intr-un scurt [filmulet](https://www.youtube.com/watch?v=ySWRDqrzKrk&ab_channel=FahdMirza), pe canalul de **YT**, de catre dl. ***Fahd-Mirza***(daca doriti, cititi si transcriptul-YT din subsolul paginii-YT de prezentare a filmuletului).
 
 
 
