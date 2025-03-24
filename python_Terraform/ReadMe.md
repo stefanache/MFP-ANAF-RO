@@ -8,4 +8,5 @@ Aici o sa plasez cateva link-uri utile legat de Terraform, accesat din Python:
  - [python-docs-library: os.popen](https://docs.python.org/3/library/os.html#os.popen)
  - [python3-docs-library: subprocess](https://docs.python.org/3/library/subprocess.html)
  - [stackoverflow-questions: updating Terraform(tf-files) using Python](https://stackoverflow.com/questions/60231442/updating-terraform-tf-files-using-python)
+ - [reddit-Terraform-comments-LLifWP: examples of python-syntax to build Terraform](https://www.reddit.com/r/Terraform/comments/llifwp/examples_of_python_syntax_to_build_terraform/)
  - [...](https://www.reddit.com/r/Terraform/comments/yeyvrv/run_tf_scripts_using_python/?tl=ro)
