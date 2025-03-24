@@ -4,7 +4,7 @@
  - [instructables: Algoritm cuantic pentru rezolvarea sistemului de ecuații liniare și inegalități](https://www.instructables.com/Quantum-Algorithm-to-Solve-System-of-Equations-and/)
  - [Medium @_monitsharma: Aflați calculul cuantic cu **Qiskit** - Reprezentarea stării Qubit](https://medium.com/@_monitsharma/learn-quantum-computing-with-qiskit-representing-qubit-state-aed033b612d0)
  - [RG: Fully quantum algorithm for lattice Boltzmann methods with application to partial differential equations(PDE)](https://www.researchgate.net/publication/370763603_Fully_quantum_algorithm_for_lattice_Boltzmann_methods_with_application_to_partial_differential_equations)
- - [hpi-courses: Lecture 3 - Bonus Episode - Maxcut with Qiskit](https://open.hpi.de/courses/qc-optimization2023/items/4nHh8DONhXSC5hROoZ1tRD)
+ - [hpi-courses: Lecture 3 - Bonus Episode - Maxcut with Qiskit](https://open.hpi.de/courses/qc-optimization2023/items/4nHh8DONhXSC5hROoZ1tRD); [wiki-Tensor](https://ro.wikipedia.org/wiki/Tensor)
  - [GH-hgmin1159: Basele computerului cuantic - Partea 6. Pornirea **Qiskit**](https://hgmin1159.github.io/quantum/quantum6_eng/)
  - [Medium @Monit Sharma: Învață calculul cuantic cu Qiskit - algebră liniară  - Cursul 3: Introducere în Algebra Lineară pentru Calcul Cuantic](https://medium.com/@_monitsharma/learn-quantum-computing-with-qiskit-linear-algebra-501587c3297d)
  - [Medium @devmallyakarar: Mașini vectoriale de suport cuantic (QSVM) folosind **Qiskit**](https://medium.com/@devmallyakarar/quantum-support-vector-machines-qsvm-using-qiskit-eee347e81d83)
