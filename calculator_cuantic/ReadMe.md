@@ -15,6 +15,8 @@
  - [oReilly: Qiskit Pocket Guide by James L. Weaver, Frank J. Harkins ](https://www.oreilly.com/library/view/qiskit-pocket-guide/9781098112462/ch01.html)
  - [IBM Qiskit - QCircuit](https://docs.quantum.ibm.com/api/qiskit/circuit)
  - [UK-QC:Tutorials](https://quantumcomputinguk.org/tutorials)
+ - [quandela-products-and-services: Perceval](https://www.quandela.com/products-and-services/perceval/)
+   <br/>Perceval este cadrul de programare cuantică open-source de la Quandela, conceput special pentru calculul cuantic fotonic.
  - [IBM-quantum: Circuite-cuantice dinamice](https://www.ibm.com/quantum/blog/quantum-dynamic-circuits)
  - [MDPI: O abordare cuantică pentru explorarea rezultatelor numerice ale ecuației căldurii](https://www.mdpi.com/1999-4893/17/8/327)
  - [arxiv: Testarea cuantică în sălbăticie - un studiu de caz cu algoritmi **Qiskit**](https://arxiv.org/html/2501.06443v1)
