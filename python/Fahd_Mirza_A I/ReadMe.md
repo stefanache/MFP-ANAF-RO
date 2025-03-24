@@ -697,7 +697,7 @@ Aici voi insira o selectie de proiecte [interesante](https://huggingface.co/fahd
 <hr/>
 
 Iata aici un [data-formulator](https://www.youtube.com/watch?v=ySWRDqrzKrk&ab_channel=FahdMirza) propus de catre compania [**MS**](https://github.com/microsoft) si analizat intr-un scurt [filmulet](https://www.youtube.com/watch?v=ySWRDqrzKrk&ab_channel=FahdMirza), pe canalul de **YT**, de catre dl. ***Fahd-Mirza***(daca doriti, cititi si transcriptul-YT din subsolul paginii de prezentare a filmuletului-YT).
-<br/>Acest videoclip instalează local [**MS Data Formulator**](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa2JBU0gwM2pUb3dQclgtdkZsMVZBd3dLUE5HUXxBQ3Jtc0trYlJzdUlKa2NyMGt5MENhUjFLYjFUcXRmOUdMUUEyTUlqdXR6cjJzb0FRN2w5aGZFZUkxYms4SFpOQmczOTc1ckJQLWloUnFGQV9pQ0pDd1ZINjhEUHlKUG9iZXlCQ1htOWFrRWNaN01BNWpHenZ5UQ&q=https%3A%2F%2Fgithub.com%2Fmicrosoft%2Fdata-formulator&v=ySWRDqrzKrk), care vă permite să transformați datele și să creați vizualizări bogate în mod iterativ cu AI.
+<br/>Acest videoclip instalează local [**MS Data Formulator**](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa2JBU0gwM2pUb3dQclgtdkZsMVZBd3dLUE5HUXxBQ3Jtc0trYlJzdUlKa2NyMGt5MENhUjFLYjFUcXRmOUdMUUEyTUlqdXR6cjJzb0FRN2w5aGZFZUkxYms4SFpOQmczOTc1ckJQLWloUnFGQV9pQ0pDd1ZINjhEUHlKUG9iZXlCQ1htOWFrRWNaN01BNWpHenZ5UQ&q=https%3A%2F%2Fgithub.com%2Fmicrosoft%2Fdata-formulator&v=ySWRDqrzKrk), care vă permite să transformați datele*pot fi fisiere de date masive, date spatio-temporale si nu numai!... ar putea fi date, sa spunem... ptintinderi mari geografice sau ...serii temporale, pe intervale-temporale insemnate) și să creați vizualizări bogate în mod iterativ cu AI.
 
 <hr/>
 
