@@ -6,4 +6,5 @@ Aici o sa plasez cateva link-uri utile legat de Terraform, accesat din Python:
  - [pypi-project: TFtest](https://pypi.org/project/tftest/)
  - [hashicorp-developer-terraform: cdkTF](https://developer.hashicorp.com/terraform/cdktf)
  - [python-docs-library: os.popen](https://docs.python.org/3/library/os.html#os.popen)
+ - [python3-docs-library: subprocess](https://docs.python.org/3/library/subprocess.html)
  - [...](https://www.reddit.com/r/Terraform/comments/yeyvrv/run_tf_scripts_using_python/?tl=ro)
