@@ -3,6 +3,7 @@
 O sa postez aici un cocktail (citit cocteil, a.k.a amestec) de articole legate de fenomenul **cuantic**(lectura placuta!:):
 
  - [google-imagini: **Qiskit** math](https://www.google.com/search?q=qiskit+math&lr=lang_ro&sca_esv=b6460952771b6581&rlz=1C1CHBF_enRO1132RO1132&udm=2&biw=1920&bih=911&tbs=lr%3Alang_1ro&sxsrf=AHTn8zrPkvdBwQSxu7TWuJ4ZmsaBW96K4A%3A1742145374325&ei=XgfXZ6CuE_mgjfYPi9jq0A4&ved=0ahUKEwig1buhjY-MAxV5UMMIHQusGuoQ4dUDCBE&uact=5&oq=qiskit+math&gs_lp=EgNpbWciC3Fpc2tpdCBtYXRoMgYQABgIGB5IxTRQAFiFLnAAeACQAQCYAYIBoAGjCqoBBDAuMTG4AQPIAQD4AQGYAgugAscKwgIHECMYJxjJAsICCBAAGIAEGLEDwgILEAAYgAQYsQMYgwHCAg4QABiABBixAxiDARiKBcICBRAAGIAEwgIHEAAYgAQYCsICBBAAGB7CAgcQABiABBgTwgIGEAAYExgewgIIEAAYExgIGB6YAwCSBwQwLjExoAfZRQ&sclient=img)
+ - [MS-learn: Algoritmul cuantic de cautare Grover](https://learn.microsoft.com/en-us/azure/quantum/concepts-grovers)
  - [MS-learn: Intelegerea Oraculului-Cuntic(Quantum-Oracle=QO)](https://learn.microsoft.com/en-us/azure/quantum/concepts-oracles)
  - [MS-learn: T gates and T factories](https://learn.microsoft.com/en-us/azure/quantum/concepts-tfactories)
  - [instructables: Algoritm cuantic pentru rezolvarea sistemului de ecuații liniare și inegalități](https://www.instructables.com/Quantum-Algorithm-to-Solve-System-of-Equations-and/); [wiki: Logica-cuantica](https://ro.wikipedia.org/wiki/Logic%C4%83_cuantic%C4%83)
