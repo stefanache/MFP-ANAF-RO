@@ -1,7 +1,7 @@
 ***[Atentie](https://code.visualstudio.com/docs/sourcecontrol/github)***: 
       
       Acest "github-repository" NU ESTE UNUL OFICIAL dar poate constitui(daca doriti) un instrument 
-      util de <ins>cercetare</ins> care  vine(sau NU) in sprijinul  activitatii dumneavoastra!
+      util de <ins>cercetare</ins> care  vine(sau NU!:) in sprijinul  activitatii dumneavoastra!
 
      Sper ca aceasta documentatie de analiza [cvasi-]tehnica  constituie macar o sursa de inspiratie;
      (aceasta se adreseaza tuturor factorilor implicati/angajati in acest efort comun de eGuvernare)
