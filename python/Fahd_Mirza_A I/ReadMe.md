@@ -694,7 +694,9 @@ Aici voi insira o selectie de proiecte [interesante](https://huggingface.co/fahd
 
  Aici puteti consulta un [articol](https://medium.com/@harshapulletikurti/choosing-the-correct-llm-model-from-hugging-face-hub-183fc6198295) despre [strategia](https://paperswithcode.com/methods) pe care trebuie sa o alegeti, atunci cand va trebui sa folositi, intr-un [NLP](https://www.trantorinc.com/blog/natural-language-processing-with-python)-[task](https://medium.com/nlplanet/two-minutes-nlp-33-important-nlp-tasks-explained-31e2caad2b1b)/[NLP](https://towardsai.net/p/editorial/natural-language-processing-nlp-with-python-tutorial-for-beginners-1f54e610a1a0)-[sarcina](https://huggingface.co/docs/hub/models-tasks), un [LLM](https://huggingface.co/docs/hub/spaces) ori o [librarie](https://www.upgrad.com/blog/python-nlp-libraries-and-applications/)(incluzand aici si [algoritmii](https://shelf.io/blog/18-effective-nlp-algorithms-you-need-to-know/)) sau [altul](https://www.geeksforgeeks.org/natural-language-processing-nlp-tutorial/)/[alta](https://www.kaggle.com/code/faressayah/natural-language-processing-nlp-for-beginners).
 
+<hr/>
 
+Iata aici un [data-formulator](https://www.youtube.com/watch?v=ySWRDqrzKrk&ab_channel=FahdMirza) propus de MS.
 
 
 
