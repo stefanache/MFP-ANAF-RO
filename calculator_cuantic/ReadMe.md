@@ -113,7 +113,7 @@ O sa postez aici un cocktail (citit cocteil, a.k.a amestec) de articole legate d
    <br/>Doar furnizează *o explicație* pentru acest *aparent colaps*.
    <br/>Natura cuantică a sistemului pur și simplu "se scurge" în mediul din jur.
    <br/>O *superpoziție totală* a *funcției de undă universale* este posibilă, dar sensul său rămâne un <ins>țel/deziderat/nedescoperit-inca</ins> pentru interpretările *mecanicii cuantice*.
-   <br/>*Decoerența* reprezintă o problemă majoră în calea <ins>realizării practice</ins> a *calculatoarelor cuantice*, de vreme ce acestea se bazează din greu/masiv pe <ins>evoluția neperturbată</ins> a *stărilor cuantice coerente(starilor incurcate/exclusiv-mutuale/entanglate/cuplate/...)*.
+   <br/>*Decoerența* reprezintă o problemă majoră în calea <ins>realizării practice</ins> a *calculatoarelor cuantice*, de vreme ce acestea se bazează din greu/masiv pe <ins>evoluția neperturbată</ins> a *stărilor cuantice coerente(starilor incurcate/exclusiv-mutuale/entanglate/cuplate/intricate)*.
  - [acs.pub.ro-masterat: QC-courses](https://acs.pub.ro/doc/master/ro/courses/QC-courses-ro.pdf)
  - [uaic.ro-Edu-Info: QC=Quantum-Computing](https://edu.info.uaic.ro/quantum-computing/)
  - [Unibuc.ro-Fizica Solidului: Curs calcul cuantic](http://solid.fizica.unibuc.ro/cursuri/quant/curs_calcul_cuantic.pdf)
