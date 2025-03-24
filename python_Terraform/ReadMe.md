@@ -2,6 +2,7 @@ Salut!
 
 Aici o sa plasez cateva link-uri utile legat de Terraform, accesat din Python:
 
+ - [google: python-terraform example.tf sample.tf](https://www.google.com/search?q=python-terraform+example.tf+sample.tf&rlz=1C1CHBF_enRO1132RO1132&oq=python-terraform+example.tf+sample.tf&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigAdIBCjIwOTQ5ajBqMTWoAgiwAgHxBfvlVeYsegQY&sourceid=chrome&ie=UTF-8)
  - [GH-beelit94: python-terraform](https://github.com/beelit94/python-terraform)
  - [pypi-project: TFtest](https://pypi.org/project/tftest/)
  - [hashicorp-developer-terraform: cdkTF](https://developer.hashicorp.com/terraform/cdktf)
