@@ -697,7 +697,11 @@ Aici voi insira o selectie de proiecte [interesante](https://huggingface.co/fahd
 <hr/>
 
 Iata aici un [data-formulator](https://www.youtube.com/watch?v=ySWRDqrzKrk&ab_channel=FahdMirza) propus de catre compania [**MS**](https://github.com/microsoft) si analizat intr-un scurt [filmulet](https://www.youtube.com/watch?v=ySWRDqrzKrk&ab_channel=FahdMirza), pe canalul de **YT**, de catre dl. ***Fahd-Mirza***(daca doriti, cititi si transcriptul-YT din subsolul paginii de prezentare a filmuletului-YT).
+<br/>Acest videoclip instalează local **MS Data Formulator**, care vă permite să transformați datele și să creați vizualizări bogate în mod iterativ cu AI.
 
+<hr/>
+
+...
 
 
 
