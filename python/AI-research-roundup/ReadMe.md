@@ -444,7 +444,8 @@ Sa vedem pe scurt(in rezumat), cateva ***lucrari*** abordate în / ***abordări*
 
 Alte *aparitii*:
 
- - [Cum să construiți **AI** care gândește/rationeaza, prezice și evoluează (February 10, 2025)](https://www.linkedin.com/pulse/ai-roundup-how-build-thinks-predicts-thrives-genai-works-gxq8f/)
- - [Lucrări explicate 306: Ajustarea critică(**CFT**)](https://ritvik19.medium.com/papers-explained-306-critique-fine-tuning-738b25d1b51c)
- - [**RAG** vs reglaj-fin(**FT**): Cum să alegi metoda potrivită](https://www.montecarlodata.com/blog-rag-vs-fine-tuning/)
- - 
+ - [linkedin: Cum să construiți **AI** care gândește/rationeaza, prezice și evoluează (February 10, 2025)](https://www.linkedin.com/pulse/ai-roundup-how-build-thinks-predicts-thrives-genai-works-gxq8f/)
+ - [medium@ritvik19: Lucrări explicate 306: Ajustarea critică(**CFT**)](https://ritvik19.medium.com/papers-explained-306-critique-fine-tuning-738b25d1b51c)
+ - [monteCarloData: **RAG** vs reglaj-fin(**FT**): Cum să alegi metoda potrivită](https://www.montecarlodata.com/blog-rag-vs-fine-tuning/)
+ - [arxiv@NTNU: Toate modelele AI sunt greșite, dar unele sunt optime](https://arxiv.org/html/2501.06086v1)
+ - ...
