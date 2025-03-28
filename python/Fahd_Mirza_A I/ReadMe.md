@@ -710,7 +710,7 @@ In acest fragment de articol, incerc sa aduc in centrul atentiei un instrument-*
 <br/>[**AirLLM**](https://github.com/lyogavin/airllm) optimizează utilizarea memoriei de inferență(VRAM), permițând modelelor de limbaj mari(LLM) din clasa ***70 miliarde***(***70B***), să execute inferențe pe un singur card GPU de numai *4 GB*(fără a folosi *metode de compresie*, cum ar fi *cuantificarea*, *distilarea* ori *tăierea*). Și puteți rula acum [***405B Llama 3.1***](https://ai.gopubby.com/crazy-challenge-run-llama-405b-on-a-8gb-vram-gpu-ab5a280a3889) pe un GPU cu <ins>8 GB VRAM<ins>.
 
 ***PS***: 
-<br>recomand sa consultati(in extenso/ca bonus!) si instrumentul-integrator [Harbor](https://github.com/av/harbor) care poate fi folosit ca instrument-CLI pt automatizarea crearii de [arhitecturi AI](https://techshinobi.org/posts/easy-local-llm/).
+<br>recomand sa consultati(in extenso/ca bonus!) si instrumentul-integrator [Harbor](https://github.com/av/harbor) care poate fi folosit ca instrument-CLI pt automatizarea crearii de [arhitecturi-AI](https://techshinobi.org/posts/easy-local-llm/).
 <br/>[Harbor](https://github.com/av/harbor) va permita sa rulați fără efort backend-uri, API-uri, front-end-uri și servicii LLM cu/utilizand o singură comandă.
 <br/>[Harbor](https://github.com/av/harbor) necesita preinstalat [Docker](https://docs.docker.com/desktop/wsl/#enabling-docker-support-in-wsl-2-distros)(pe Windows necesita [WSL2](https://docs.docker.com/desktop/wsl/#enabling-docker-support-in-wsl-2-distros))
 
