@@ -702,6 +702,11 @@ Iata aici un [data-formulator](https://www.youtube.com/watch?v=ySWRDqrzKrk&ab_ch
 
 <hr/>
 
+Incerc sa aduc in centrul atentiei un model care poate fi rulat local cu un consum de memorie-virtuala(VRAM) redus.
+<br/>Este vorba despre modelul [**AirLLM]**(https://www.youtube.com/watch?v=gYBlzMsII9c&ab_channel=FahdMirza)
+<br/>Acest videoclip este un [tutorial](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbjVjUXFBMnhrSzVoT2NYUTJFWmNDZEV3XzJNQXxBQ3Jtc0trWmc4UmFBYVktdDc3X19ZamNOX1RzWFhMWnJGemZ1U250ZDdDakk3eXdLQUtJVDVFOV9pOEp4UGN4dEpxTjFVQ3V0Nk52WGFPM1VtVWVWbU5UdTRtcF93T3dPcmdBVU9WZnJLVmUzNjMyMUNXdFJOYw&q=https%3A%2F%2Fgithub.com%2Flyogavin%2FAnima%2Ftree%2Fmain%2Fair_llm&v=gYBlzMsII9c) practic care arată pas cu pas cum să instalați local **AirLLM* și să rulați Llama-3-8B sau orice model 70B pe un GPU cu 4 GB VRAM.
+
+<hr/>
 ...
 
 
