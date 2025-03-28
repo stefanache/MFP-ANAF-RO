@@ -712,7 +712,7 @@ In acest fragment de articol, incerc sa aduc in centrul atentiei un instrument-*
 ***PS***: 
 <br>Sub rezerva ca acest proiect este un proiect "tanar"(aflat sub un intens proces de dezvoltare/implementare), recomand totusi sa consultati(in extenso/ca bonus!), instrumentul-integrator [Harbor](https://github.com/av/harbor), care poate fi folosit ca instrument-CLI pt automatizarea crearii de [arhitecturi-complete/customizabile/configurabile-AI](https://techshinobi.org/posts/easy-local-llm/)(UI + Backend + eventual_Servicii_anexe).
 <br/>[Harbor](https://github.com/av/harbor) va permite sa rulați fără efort backend-uri, API-uri, front-end-uri și servicii LLM cu/utilizand o singură comandă.
-<br/>[Harbor](https://github.com/av/harbor) trebuie sa fie instalat pe/sub *Linux* si necesita [*Docker*](https://docs.docker.com/desktop/wsl/#enabling-docker-support-in-wsl-2-distros)(pe/pt. Windows necesita [WSL2](https://docs.docker.com/desktop/wsl/#enabling-docker-support-in-wsl-2-distros) pt a avea la dispozitie si a beneficia de Linux) ca si suport. 
+<br/>[Harbor](https://github.com/av/harbor) trebuie sa fie instalat pe/sub *Linux* si necesita [*Docker*](https://docs.docker.com/desktop/wsl/#enabling-docker-support-in-wsl-2-distros)(pe/pt. Windows necesita [WSL2](https://docs.docker.com/desktop/wsl/#enabling-docker-support-in-wsl-2-distros) pt a avea la dispozitie si a beneficia de Linux) ca si suport(Linux si Docker sunt cerinte-preinstalate/preliminare!). 
 
 <hr/>
 ...
