@@ -9,5 +9,5 @@ Exista si reversul medaliei si putem spune ca AI-ul a devenit un instrument-de-s
 Aici o sa regasiti anumite link-uri legate de cercetarile medicale dar si de AI:
 
 
- - [raportulDeGarda.ro: miARN](https://raportuldegarda.ro/microarn-biomarkeri-diagnostic-tratament-cancer-precizie/); [wiki: miARN](https://ro.wikipedia.org/wiki/Micro-ARN);
+ - [raportulDeGarda.ro: miARN](https://raportuldegarda.ro/microarn-biomarkeri-diagnostic-tratament-cancer-precizie/); [wiki: miARN](https://ro.wikipedia.org/wiki/Micro-ARN); [YT: miARN](https://www.youtube.com/watch?v=-nlgC97bf20)
 
