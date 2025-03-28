@@ -704,7 +704,7 @@ Iata aici un [data-formulator](https://www.youtube.com/watch?v=ySWRDqrzKrk&ab_ch
 
 [Incrdibil!](https://huggingface.co/blog/lyogavin/airllm)
 
-Incerc sa aduc in centrul atentiei un instrument care permita sa rulati local un LLM cu un consum  <ins>redus de VRAM</ins>(de memorie-virtuala GPU).
+In acest fragment de articol, incerc sa aduc in centrul atentiei un instrument de optimizare care permita sa rulati local un LLM cu un consum  <ins>redus de VRAM</ins>(de memorie-virtuala GPU).
 <br/>Este vorba despre produsul software [**AirLLM**](https://www.youtube.com/watch?v=gYBlzMsII9c&ab_channel=FahdMirza)
 <br/>Acest videoclip este un [tutorial](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbjVjUXFBMnhrSzVoT2NYUTJFWmNDZEV3XzJNQXxBQ3Jtc0trWmc4UmFBYVktdDc3X19ZamNOX1RzWFhMWnJGemZ1U250ZDdDakk3eXdLQUtJVDVFOV9pOEp4UGN4dEpxTjFVQ3V0Nk52WGFPM1VtVWVWbU5UdTRtcF93T3dPcmdBVU9WZnJLVmUzNjMyMUNXdFJOYw&q=https%3A%2F%2Fgithub.com%2Flyogavin%2FAnima%2Ftree%2Fmain%2Fair_llm&v=gYBlzMsII9c) practic care arată pas cu pas cum să instalați local **AirLLM** și să rulați ***Llama 3 8B*** sau orice ***model 70B*** pe un GPU dotat cu numai <ins>4 GB VRAM</ins>. Ca sa va faceti o idee *NVIDIA RTX-4060* are *8 GB* de *VRAM*(observabili cu comanda: nvidia-smi).
 <br/>[**AirLLM**](https://github.com/lyogavin/airllm) optimizează utilizarea memoriei de inferență(VRAM), permițând modelelor de limbaj mari(LLM) din clasa ***70 miliarde***(***70B***), să execute inferențe pe un singur card GPU de numai *4 GB*( fără cuantificare, fără distilare și fără tăiere ). Și puteți rula acum ***405B Llama 3.1*** pe un GPU cu <ins>8 GB VRAM<ins>.
