@@ -8,7 +8,7 @@ Exista si reversul medaliei si putem spune ca AI-ul a devenit un instrument-de-s
 
 Dar ambele au un numitor comun Fizica si Matematica.
 
-Aici o sa regasiti anumite link-uri legate de cercetarile medicale, legate de Fizica si Matematica dar si de AI(intr-un cuvant [STEM](https://en.wikipedia.org/wiki/Science,_technology,_engineering,_and_mathematics)):
+Aici o sa regasiti anumite link-uri legate de cercetarile medicale, legate de Fizica si Matematica dar si de AI(intr-un cuvant, legate de [STEM](https://en.wikipedia.org/wiki/Science,_technology,_engineering,_and_mathematics)):
 
 
  - [YT-Cristian-Presura: memoria-H2O](https://www.youtube.com/watch?v=6Ui31mDHMGo&ab_channel=CristianPresur%C4%83-FizicaPovestit%C4%83); [Digi-24: CP](https://www.digi24.ro/eticheta/cristian-presura);
