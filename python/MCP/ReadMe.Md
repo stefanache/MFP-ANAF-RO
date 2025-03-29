@@ -2,7 +2,7 @@
 
 Articole & Proiecte legate de acest subiect(**LLMCP**):
 
- - [llamaindex: RAG_pipeline = LLM_Claude<->MCP_server<->VDB_quadrant(storage for  Angular-docs)](https://www.linkedin.com/feed/?highlightedUpdateType=SHARED_BY_YOUR_PAGE&highlightedUpdateUrn=urn%3Ali%3Aactivity%3A7311516905142370304);<br/>[AIboosted.dev: article](https://www.aiboosted.dev/p/building-your-own-rag-system-typescript)
+ - [llamaindex: RAG_pipeline = LlamaIndex(LLM_Claude<->MCP_server<->VDB_quadrant_storage_4_Angular_docs)](https://www.linkedin.com/feed/?highlightedUpdateType=SHARED_BY_YOUR_PAGE&highlightedUpdateUrn=urn%3Ali%3Aactivity%3A7311516905142370304);<br/>[AIboosted.dev: article](https://www.aiboosted.dev/p/building-your-own-rag-system-typescript)
  - [claudemcp: **MCP doc**](https://www.claudemcp.com/docs/introduction)
  - [claudemcp: **Directory-List MCP-servers**](https://www.claudemcp.com/servers)
  - [smithery.ai: **Directory-List MCP-servers**](https://smithery.ai/)
