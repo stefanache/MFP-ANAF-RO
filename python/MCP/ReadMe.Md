@@ -3,6 +3,7 @@
 Articole & Proiecte legate de acest subiect(**LLMCP**):
 
  - [llamaindex: RAG_pipeline = LlamaIndex(LLM_Claude<->MCP_server<->VDB_quadrant_storage_4_Angular_docs)](https://www.linkedin.com/feed/?highlightedUpdateType=SHARED_BY_YOUR_PAGE&highlightedUpdateUrn=urn%3Ali%3Aactivity%3A7311516905142370304);<br/>[AIboosted.dev: article](https://www.aiboosted.dev/p/building-your-own-rag-system-typescript)
+ - [reddit-ClaudeAI: Un singur fișier pentru a transforma orice LLM într-un programator MCP expert în programarea în perechi](https://www.reddit.com/r/ClaudeAI/comments/1h5o9uh/one_file_to_turn_any_llm_into_an_expert_mcp/?tl=ro)
  - [claudemcp: **MCP doc**](https://www.claudemcp.com/docs/introduction)
  - [claudemcp: **Directory-List MCP-servers**](https://www.claudemcp.com/servers)
  - [smithery.ai: **Directory-List MCP-servers**](https://smithery.ai/)
