@@ -5,6 +5,7 @@ echo https://www.geeksforgeeks.org/install-fastapi-and-run-your-first-fastapi-se
 
 REM python -m pip install fastapi uvicorn | more
 REM python -m pip list |more
+REM python -m uvicorn --help
 
 REM notepad main.py
 REM type main.py
