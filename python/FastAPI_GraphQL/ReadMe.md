@@ -18,7 +18,7 @@ In aceasta sectiune ne vom ocupa de [**FastAPI**](https://fastapi.tiangolo.com/)
 <br/>*Domeniu de aplicare* : un dicționar Python care conține detalii despre conexiunea specifică.
 <br/>*Trimitere* : Permite aplicației să trimită mesaje de eveniment către client.
 <br/>*Primire* : Permite aplicației să primească mesaje de eveniment de la client.
-<br/>**ASGI** permite mai multe evenimente de intrare și de ieșire pentru fiecare aplicație simultan, permițând aplicației să rămână receptivă la intrarea utilizatorului în timp ce rutinele de fundal rulează.<br/>
+<br/>**ASGI** permite mai multe evenimente de intrare și de ieșire pentru fiecare aplicație simultan, permițând aplicației să rămână receptivă la intrarea utilizatorului în timp ce rutinele de fundal(background) rulează.<br/>
  - [geeks4geeks: install FastAPI and run your first FastAPI-server on Windows](https://www.geeksforgeeks.org/install-fastapi-and-run-your-first-fastapi-server-on-windows/):
    <br> *Q*uestion: *How really install and run **FastAPI**(ASGI-server) under Windows?*
    <br/>*A*nswer:
