@@ -2,14 +2,15 @@
 
 As dori sa incercam sa intelegem urmatoarea [poveste](https://github.com/natthasath/demo-python-fastapi-uvicorn): [Preparing FastAPI for Production: A Comprehensive Guide](https://medium.com/@ramanbazhanau/preparing-fastapi-for-production-a-comprehensive-guide-d167e693aa2b)
 
-Pentru inceput, hai sa privim imaginea urmatoare:
+Pentru inceput, hai sa privim imaginea urmatoare(care descrie o arhitectura-FastAPI reala/de productie):
 
 <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40ramanbazhanau%2Fpreparing-fastapi-for-production-a-comprehensive-guide-d167e693aa2b&psig=AOvVaw0hvbabf5cs3c0U36SjPkor&ust=1743351507867000&source=images&cd=vfe&opi=89978449&ved=0CBgQjhxqFwoTCMDsxc_Yr4wDFQAAAAAdAAAAABBL"><img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*CY5GdTAj1xz85qKz3PRjDg.png"></img></a>
 
 Pana sa ajungem s-o intelegem sa pregatim cativa termeni ai discutiei:
 
 [wiki: **Reverse-Proxy**](https://en.wikipedia.org/wiki/Reverse_proxy)
-Nginx poate juca mai multe roluri dar in imaginea de susacesta joaca rolul de / este un **Reverse-Proxy**(un proxy invers, sau un intermediar-invers)
+Nginx poate juca mai multe roluri dar in imaginea de susacesta joaca rolul de / este un **Reverse-Proxy**(un proxy invers, sau un intermediar-invers).
+Ratiunea existentei acestuia in aceasta arhitectura(expusa mai sus) este acea de a putea scala(de a distribui cererile catre unul dintre webservere-le din pulul de servere-web pe care le utilizam in procesul de productie)
 
 **GraphQL** este un limbaj de interogare pentru *API*-ul dvs. care permite clienților să solicite exact datele de care au nevoie și nimic mai mult. 
 <br/>A fost dezvoltat de ***Facebook*** și este folosit acum de multe companii populare, cum ar fi ***GitHub***, ***Airbnb*** și ***Twitter***.
