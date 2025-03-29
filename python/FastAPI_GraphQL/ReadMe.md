@@ -1,10 +1,10 @@
 ***Salut***!
 
-**GraphQL** este un limbaj de interogare pentru API-ul dvs. care permite clienților să solicite exact datele de care au nevoie și nimic mai mult. 
-<br/>A fost dezvoltat de Facebook și este folosit acum de multe companii populare, cum ar fi GitHub, Airbnb și Twitter.
+**GraphQL** este un limbaj de interogare pentru *API*-ul dvs. care permite clienților să solicite exact datele de care au nevoie și nimic mai mult. 
+<br/>A fost dezvoltat de ***Facebook*** și este folosit acum de multe companii populare, cum ar fi ***GitHub***, ***Airbnb*** și ***Twitter***.
 
-**FastAPI** este un cadru web modern, rapid (de înaltă performanță), pentru construirea de API-uri cu Python 3.6+ bazat pe indicii standard de tip Python. 
-<br/>Una dintre caracteristicile cheie/importante ale **FastAPI** este suportul pentru documentarea automată folosind OpenAPI și Swagger UI.
+**FastAPI** este un cadru web modern, rapid (de înaltă performanță), pentru construirea de *API*-uri cu ***Python 3.6+*** bazat pe indicii standard de tip *Python*. 
+<br/>Una dintre caracteristicile cheie/importante ale **FastAPI** este suportul pentru documentarea automată folosind *OpenAPI* și *Swagger-UI*.
  
  <br/>*Ce este **Uvicorn**?*<br/>
 **UVICORN** este o implementare de server-web/webserver ***ASGI*** (Asynchronous Server Gateway Interface) adaptată pentru Python . <br/>Înainte de ***ASGI***, lui Python îi lipsea o interfață minimă de server de nivel scăzut pentru cadrele asincrone(asa cum este *FastAPI*). <br/>Specificația ***ASGI*** acționează ca o punte(gateway), permițând crearea unui set comun de instrumente utilizabile în toate cadrele asincrone(asa cum este *FastAPI*). <br/>**UVICORN** oferă în prezent suport pentru *HTTP/1.1* și *WebSockets*.<br/>
