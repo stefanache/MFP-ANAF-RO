@@ -19,7 +19,7 @@ Pana sa ajungem s-o intelegem sa pregatim cativa termeni ai discutiei:
 **Uvicorn** este un server-web ***ASGI*** super rapid. 
 <br/>**Uvicorn** rulează cod-Python asincron bazat pe [**uvloop**](https://mirror.xyz/0xA1d9f681B25C14C1eE7B87f1CF102E73cA3ad4d9/n0BdWSd_GdP_Vfeped02zBcNV5XbzITThILlRditoPk) într-un singur proces(**Uvicorn** si **uvloop** formeaza impreuna un singur proces).
 
-Asadar, **FastAPI** și **Uvicorn* sunt instrumente pentru construirea de aplicații-web. 
+[Asadar](https://github.com/natthasath/demo-python-fastapi-uvicorn), **FastAPI** și **Uvicorn** sunt instrumente pentru construirea de aplicații-web. 
 <br/>**FastAPI** este un cadru-web pentru construirea de API-uri cu Python, în timp ce **Uvicorn** este un server-***ASGI*** pentru servirea acestor API-uri. 
 <br/>Împreună, acestea oferă o modalitate puternică și eficientă de a construi și rula aplicații-web în Python.
 
