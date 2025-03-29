@@ -25,7 +25,7 @@ In aceasta sectiune ne vom ocupa de [**FastAPI**](https://fastapi.tiangolo.com/)
     - open powershell(PS): *C:\Users\{your_user}>* **powershell**
       <br/>or directly in *command-prompt(CLI-shell)*!
     - edit the ***main.py***: *C:\Users\{your_user}>* **notepad main.py**
-    - enter the python script-code content into ***main.py***:
+    - for **ASGI**-server, must enter the python script-code content into ***main.py***:
       <pre><code>
           from fastapi import FastAPI
           
