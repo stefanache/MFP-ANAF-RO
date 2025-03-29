@@ -9,7 +9,7 @@ Pentru inceput, hai sa privim imaginea urmatoare:
 Pana sa ajungem s-o intelegem sa pregatim cativa termeni ai discutiei:
 
 [wiki: **Reverse-Proxy**](https://en.wikipedia.org/wiki/Reverse_proxy)
-NGinx poate juca mai multe roluri dar in imaginea de susacesta joaca rolul de / este un **Reverse-Proxy**(un proxy invers, sau un intermediar-invers)
+Nginx poate juca mai multe roluri dar in imaginea de susacesta joaca rolul de / este un **Reverse-Proxy**(un proxy invers, sau un intermediar-invers)
 
 **GraphQL** este un limbaj de interogare pentru *API*-ul dvs. care permite clienților să solicite exact datele de care au nevoie și nimic mai mult. 
 <br/>A fost dezvoltat de ***Facebook*** și este folosit acum de multe companii populare, cum ar fi ***GitHub***, ***Airbnb*** și ***Twitter***.
