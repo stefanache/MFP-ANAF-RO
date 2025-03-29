@@ -12,7 +12,7 @@ In aceasta sectiune ne vom ocupa de [**FastAPI**](https://fastapi.tiangolo.com/)
  - [geeks4geeks: FastAPI+uvicorn](https://www.geeksforgeeks.org/fastapi-uvicorn/)
  - [geeks4geeks: install FastAPI and run your first FastAPI-server on Windows](https://www.geeksforgeeks.org/install-fastapi-and-run-your-first-fastapi-server-on-windows/):
     - open powershell(PS): *C:\Users\{your_user}>* **powershell**
-      <br/>or directly in command-prompt!
+      <br/>or directly in *command-prompt(CLI-shell)*!
     - edit the ***main.py***: *C:\Users\{your_user}>* **notepad main.py**
     - enter the python script-code content into ***main.py***:
       <pre><code>
@@ -27,6 +27,7 @@ In aceasta sectiune ne vom ocupa de [**FastAPI**](https://fastapi.tiangolo.com/)
     - start Chrome client(in advance): *C:\Users\{your_user}>* **start Chrome  http://127.0.0.1:8000**
     - run main with command: *C:\Users\{your_user}>* **python -m uvicorn main:app --reload**
     - finally, refresh the Chrome-browser(***if need!***):  **http://127.0.0.1:8000**  or **CTRL+click** on it/this link from/in above after-running-message!
+    <br/><br/>***Note***: alternatively, you can download the files ***main.py*** and ***_RUN.bat*** and then, run that second file(***_RUN.bat***) under *command-prompt(CLI-shell)*! <br/>
  - [testDriven: FastAPI-GraphQL](https://testdriven.io/blog/fastapi-graphql/)
  - [getOrchestra: FastAPI with uvicorn -a comprehensive tutorial](https://www.getorchestra.io/guides/fastapi-with-uvicorn-a-comprehensive-tutorial); [uvicorn: deployment](https://www.uvicorn.org/deployment/)
  - [reddit: FastAPI+uvicorn on Windows](https://www.reddit.com/r/learnpython/comments/15yf538/fastapiuvicorn_on_windows/); [ChatGPT: from PowerShell(ps) you can call the **uvicorn** to run the ***main.py*** file](https://chatgpt.com/share/67e7f89e-ae6c-800b-b88b-72e03ea14582)
