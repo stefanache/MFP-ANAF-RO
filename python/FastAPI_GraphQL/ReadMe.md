@@ -8,6 +8,9 @@ Pentru inceput, hai sa privim imaginea urmatoare(care descrie o arhitectura-Fast
 
 O prima observatie ar fi ca in imagine nu apare **GraphQL**, dar cu putin efort de imaginatie putem presupune ca acesta exista undeva in partea de livrare date sa spunem dintr-o baza de date(BD care apare in figura),
 
+O a 2-a observatie ar fi ca in schema-arhitecturala apare pe fiecare segment-arhitectural o monitorizare a procesului de productie.
+De aceasta parte de monitorizare vom face abstractie(nu ne vom ocupa) deoarece in acest topic doresc sa ma concentrez pe clarificarea conceptelor **FastAPI** si **GraphQL**.
+
 Pana sa ajungem sa intelegem aceasta imagine as dori sa pregatim/explicam cativa termeni ai discutiei:
 
 [wiki: **Reverse-Proxy**](https://en.wikipedia.org/wiki/Reverse_proxy)
