@@ -11,8 +11,8 @@ In aceasta sectiune ne vom ocupa de [**FastAPI**](https://fastapi.tiangolo.com/)
  - [geeks4geeks: FastAPI using GraphQL](https://www.geeksforgeeks.org/fastapi-using-graphql/); [uvicorn](https://www.uvicorn.org/); [reddit: uvicorn rol](https://www.reddit.com/r/Python/comments/74rsi8/noob_question_what_is_the_role_of_uvloopuvicorn/?tl=ro); [reddit: FastAPI/uvicorn eroare](https://www.reddit.com/r/html5/comments/14n68fc/im_trying_to_access_an_api_i_built_with_python/?tl=ro)
  - [geeks4geeks: FastAPI+uvicorn](https://www.geeksforgeeks.org/fastapi-uvicorn/)
  - [[geeks4geeks: install FastAPI and run your first FastAPI-server on Windows](https://www.geeksforgeeks.org/install-fastapi-and-run-your-first-fastapi-server-on-windows/):
-    - open powershell(PS): C:\Users\{your_user}> powershell
-    - edit the main.py:    C:\Users\{your_user}> notepad main.py
+    - open powershell(PS): C:\Users\{your_user}> **powershell**
+    - edit the main.py:    C:\Users\{your_user}> **notepad main.py**
     - enter the python script-code:
       <pre><code>
           from fastapi import FastAPI
@@ -22,9 +22,9 @@ In aceasta sectiune ne vom ocupa de [**FastAPI**](https://fastapi.tiangolo.com/)
           @app.get("/")
           def read_root():
               return {"Hello World"}</code></pre>
-    - start Chrome client(in advance): C:\Users\{your_user}> start Chrome  http://127.0.0.1:8000
-    - run main with command: C:\Users\{your_user}> python -m uvicorn main:app --reload
-    - finally, refresh the Chrome-browser(if need!)
+    - start Chrome client(in advance): C:\Users\{your_user}> **start Chrome  http://127.0.0.1:8000**
+    - run main with command: C:\Users\{your_user}> **python -m uvicorn main:app --reload**
+    - finally, refresh the Chrome-browser(***if need!***):  **http://127.0.0.1:8000**
  - [testDriven: FastAPI-GraphQL](https://testdriven.io/blog/fastapi-graphql/)
  - [getOrchestra: FastAPI with uvicorn -a comprehensive tutorial](https://www.getorchestra.io/guides/fastapi-with-uvicorn-a-comprehensive-tutorial); [uvicorn: deployment](https://www.uvicorn.org/deployment/)
  - [reddit: FastAPI+uvicorn on Windows](https://www.reddit.com/r/learnpython/comments/15yf538/fastapiuvicorn_on_windows/); [ChatGPT: from PowerShell(ps) you can call the **uvicorn** to run the ***main.py*** file](https://chatgpt.com/share/67e7f89e-ae6c-800b-b88b-72e03ea14582)
