@@ -11,8 +11,8 @@ O prima observatie ar fi ca in imagine nu apare **GraphQL**, dar cu putin efort 
 Pana sa ajungem sa intelegem aceasta imagine as dori sa pregatim/explicam cativa termeni ai discutiei:
 
 [wiki: **Reverse-Proxy**](https://en.wikipedia.org/wiki/Reverse_proxy)
-Nginx poate juca mai multe roluri dar in imaginea de susacesta joaca rolul de / este un **Reverse-Proxy**(un proxy invers, sau un intermediar-invers).
-Ratiunea existentei acestuia in aceasta arhitectura(expusa mai sus) este acea de a putea scala(de a distribui cererile catre unul dintre webservere-le din pulul de servere-web pe care le utilizam in procesul de productie)
+Nginx poate juca mai multe roluri dar in imaginea de mai sus, acesta joaca rolul de / este un **Reverse-Proxy**(un proxy invers, sau un intermediar-invers).
+Ratiunea existentei acestuia in aceasta arhitectura(expusa mai sus) este acea de a putea scala(de a distribui cererea-utilizator catre unul dintre webservere-le din pool-ul de servere-web pe care le utilizam/le avem la dispozitie  in procesul de productie)
 
 **GraphQL** este un limbaj de interogare pentru *API*-ul dvs. care permite clienților să solicite exact datele de care au nevoie și nimic mai mult. 
 <br/>A fost dezvoltat de ***Facebook*** și este folosit acum de multe companii populare, cum ar fi ***GitHub***, ***Airbnb*** și ***Twitter***.
