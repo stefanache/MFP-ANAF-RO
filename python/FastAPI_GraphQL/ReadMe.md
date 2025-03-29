@@ -13,7 +13,7 @@ In aceasta sectiune ne vom ocupa de [**FastAPI**](https://fastapi.tiangolo.com/)
  - [[geeks4geeks: install FastAPI and run your first FastAPI-server on Windows](https://www.geeksforgeeks.org/install-fastapi-and-run-your-first-fastapi-server-on-windows/):
     - open powershell(PS): C:\Users\{your_user}> **powershell**
     - edit the main.py:    C:\Users\{your_user}> **notepad main.py**
-    - enter the python script-code:
+    - enter the python script-code content into ***main.py***:
       <pre><code>
           from fastapi import FastAPI
           
@@ -22,6 +22,7 @@ In aceasta sectiune ne vom ocupa de [**FastAPI**](https://fastapi.tiangolo.com/)
           @app.get("/")
           def read_root():
               return {"Hello World"}</code></pre>
+    - save content into ***main.py*** file and exit
     - start Chrome client(in advance): C:\Users\{your_user}> **start Chrome  http://127.0.0.1:8000**
     - run main with command: C:\Users\{your_user}> **python -m uvicorn main:app --reload**
     - finally, refresh the Chrome-browser(***if need!***):  **http://127.0.0.1:8000**
