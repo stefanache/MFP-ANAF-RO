@@ -4,7 +4,7 @@
 <br/>A fost dezvoltat de ***Facebook*** și este folosit acum de multe companii populare, cum ar fi ***GitHub***, ***Airbnb*** și ***Twitter***.
 
 [**FastAPI**](https://python3.info/fastapi/fastapi/about-architecture.html) este un cadru web modern, rapid (de înaltă performanță), pentru construirea de *API*-uri cu ***Python 3.6+*** bazat pe indicii standard de tip *Python*. 
-<br/>Una dintre caracteristicile cheie/importante ale **FastAPI** este suportul pentru documentarea automată folosind *OpenAPI* și *Swagger-UI*.
+<br/>Una dintre caracteristicile cheie/importante ale [**FastAPI**](https://medium.com/@ramanbazhanau/preparing-fastapi-for-production-a-comprehensive-guide-d167e693aa2b) este suportul pentru documentarea automată folosind *OpenAPI* și *Swagger-UI*.
  
  <br/>*Ce este [**Uvicorn**](https://www.geeksforgeeks.org/fastapi-uvicorn/)?*<br/>
 **UVICORN** este o implementare de server-web/webserver [***ASGI***](https://mirror.xyz/0xA1d9f681B25C14C1eE7B87f1CF102E73cA3ad4d9/n0BdWSd_GdP_Vfeped02zBcNV5XbzITThILlRditoPk) (Asynchronous Server Gateway Interface) adaptată pentru Python . <br/>Înainte de ***ASGI***, lui Python îi lipsea o interfață minimă de server de nivel scăzut pentru cadrele asincrone(asa cum este *FastAPI*). <br/>Specificația ***ASGI*** acționează ca o punte(gateway), permițând crearea unui set comun de instrumente utilizabile în toate cadrele asincrone(asa cum este *FastAPI*). <br/>**UVICORN** oferă în prezent suport pentru *HTTP/1.1* și *WebSockets*.<br/>
