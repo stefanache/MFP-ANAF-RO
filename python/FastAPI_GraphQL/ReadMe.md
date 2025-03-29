@@ -25,7 +25,7 @@ In aceasta sectiune ne vom ocupa de [**FastAPI**](https://fastapi.tiangolo.com/)
     - save content into ***main.py*** file and exit
     - start Chrome client(in advance): C:\Users\{your_user}> **start Chrome  http://127.0.0.1:8000**
     - run main with command: C:\Users\{your_user}> **python -m uvicorn main:app --reload**
-    - finally, refresh the Chrome-browser(***if need!***):  **http://127.0.0.1:8000**
+    - finally, refresh the Chrome-browser(***if need!***):  **http://127.0.0.1:8000**  or **CTRL+click** on it/this link from/in above after-running-message!
  - [testDriven: FastAPI-GraphQL](https://testdriven.io/blog/fastapi-graphql/)
  - [getOrchestra: FastAPI with uvicorn -a comprehensive tutorial](https://www.getorchestra.io/guides/fastapi-with-uvicorn-a-comprehensive-tutorial); [uvicorn: deployment](https://www.uvicorn.org/deployment/)
  - [reddit: FastAPI+uvicorn on Windows](https://www.reddit.com/r/learnpython/comments/15yf538/fastapiuvicorn_on_windows/); [ChatGPT: from PowerShell(ps) you can call the **uvicorn** to run the ***main.py*** file](https://chatgpt.com/share/67e7f89e-ae6c-800b-b88b-72e03ea14582)
