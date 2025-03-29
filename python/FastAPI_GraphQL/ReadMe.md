@@ -11,7 +11,7 @@ In aceasta sectiune ne vom ocupa de [**FastAPI**](https://fastapi.tiangolo.com/)
  - [geeks4geeks: FastAPI using GraphQL](https://www.geeksforgeeks.org/fastapi-using-graphql/); [uvicorn](https://www.uvicorn.org/); [reddit: uvicorn rol](https://www.reddit.com/r/Python/comments/74rsi8/noob_question_what_is_the_role_of_uvloopuvicorn/?tl=ro); [reddit: FastAPI/uvicorn eroare](https://www.reddit.com/r/html5/comments/14n68fc/im_trying_to_access_an_api_i_built_with_python/?tl=ro)
  - [geeks4geeks: FastAPI+uvicorn](https://www.geeksforgeeks.org/fastapi-uvicorn/)(ASGI vs. WSGI)
    <br/>*Ce este Uvicorn?*<br/>
-UVICORN este o implementare de server web ASGI (Asynchronous Server Gateway Interface) adaptată pentru Python . <br/>Înainte de ASGI, lui Python îi lipsea o interfață minimă de server de nivel scăzut pentru cadrele asincrone. <br/>Specificația ASGI acționează ca o punte, permițând crearea unui set comun de instrumente utilizabile în toate cadrele asincrone. <br/>UVICORN oferă în prezent suport pentru HTTP/1.1 și WebSockets.<br/>
+UVICORN este o implementare de server-web/webserver ASGI (Asynchronous Server Gateway Interface) adaptată pentru Python . <br/>Înainte de ASGI, lui Python îi lipsea o interfață minimă de server de nivel scăzut pentru cadrele asincrone. <br/>Specificația ASGI acționează ca o punte, permițând crearea unui set comun de instrumente utilizabile în toate cadrele asincrone. <br/>UVICORN oferă în prezent suport pentru HTTP/1.1 și WebSockets.<br/>
  - [geeks4geeks: install FastAPI and run your first FastAPI-server on Windows](https://www.geeksforgeeks.org/install-fastapi-and-run-your-first-fastapi-server-on-windows/):
    <br> *Q*uestion: *How really install and run **FastAPI**(ASGI-server) under Windows?*
    <br/>*A*nswer:
