@@ -2,7 +2,7 @@
 
 Articole & Proiecte legate de acest subiect(**LLMCP**):
 
- - [llamaindex: RAG_pipeline = Angular + quadrant->MCP_server->LLM_Claude](https://www.linkedin.com/feed/?highlightedUpdateType=SHARED_BY_YOUR_PAGE&highlightedUpdateUrn=urn%3Ali%3Aactivity%3A7311516905142370304)
+ - [llamaindex: RAG_pipeline = Angular<->LLM_Claude<->MCP_server<->VDB_quadrant](https://www.linkedin.com/feed/?highlightedUpdateType=SHARED_BY_YOUR_PAGE&highlightedUpdateUrn=urn%3Ali%3Aactivity%3A7311516905142370304)
  - [claudemcp: **MCP doc**](https://www.claudemcp.com/docs/introduction)
  - [claudemcp: **Directory-List MCP-servers**](https://www.claudemcp.com/servers)
  - [smithery.ai: **Directory-List MCP-servers**](https://smithery.ai/)
