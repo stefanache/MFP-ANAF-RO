@@ -13,7 +13,7 @@ Articole & Proiecte legate de acest subiect(**LLMCP**):
       <br/>Instrumentul de preluare va trunchia răspunsul, dar folosind argumentul *start_index*, puteți specifica de unde să începeți extragerea conținutului. 
       <br/>Acest lucru le permite modelelor(LLM) să citească o pagină web în bucăți(chuncks), până când găsesc informațiile de care au nevoie.
      - a se vedea si [mcp.so: Web-search-agent](https://mcp.so/server/web-search-agent) - Web-search-agent(Agentul-de-căutare-Web) este un asistent de codare(codarea unui client-MCP) care ajută utilizatorii să creeze un mic agent-de-căutare-Web folosind bibilioteca/libraria-Python-[Pydantic-AI](https://docs.pydantic.dev/latest/) și [serverul-MCP](https://github.com/modelcontextprotocol/servers/blob/main/src/fetch).
-       <br/>Linia de procesare(*pipeline*): <br/>Web_search_agent <-> Vscode(VSC) <-> Roo_Code(VSC-extension) <-> Claude_3.5_Sonnet <-> MCP_server(Fetch).
+       <br/>Linia de procesare(*pipeline*): <br/>Web_search_agent(role: prompt-requester) <-> Vscode(VSC-role: IDE) <-> Roo_Code(VSC-extension) <-> Claude_3.5_Sonnet(role=LLM) <-> Fech(role: MCP-server).
  - [reddit-ClaudeAI: Un singur fișier pentru a transforma orice LLM într-un programator MCP expert în programarea în perechi](https://www.reddit.com/r/ClaudeAI/comments/1h5o9uh/one_file_to_turn_any_llm_into_an_expert_mcp/?tl=ro); [MCP-details](https://github.com/Matt-Dionis/nlad/blob/main/examples/talkshop/mcp_details.md)
  - [claudemcp: **MCP doc**](https://www.claudemcp.com/docs/introduction)
  - [claudemcp: **Directory-List MCP-servers**](https://www.claudemcp.com/servers)
