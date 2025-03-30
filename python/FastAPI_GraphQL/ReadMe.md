@@ -75,10 +75,10 @@ In aceasta sectiune ne vom ocupa de [**FastAPI**](https://fastapi.tiangolo.com/)
  - [whitePrompt-blog: Python APIs with FastAPI key-features and CRUD-example](https://blog.whiteprompt.com/python-apis-with-fastapi-key-features-and-crud-example-198a7530e368)
  - [daddYnKidsMaker-blogspot: FastAPI Open-API](https://daddynkidsmakers.blogspot.com/2024/04/fastapi-open-api.html)
    <br/>Acest articol ["FastAPI bigData-server example"](https://github.com/mac999/fastapi_bigdata_server_example/tree/main) prezintă cum să dezvoltați cu ușurință un server [Open-API](https://en.wikipedia.org/wiki/Open_API) bazat pe FastAPI, Uvicorn și Websocket.
-   <br/>Folosind FastAPI, puteți dezvolta un server [Open-API](https://en.wikipedia.org/wiki/OpenAPI_Specification) foarte ușor.
-   <br/>FastAPI acceptă servere API asincrone și poate fi rulat folosind servere ASGI, cum ar fi uvicorn(ASGI-server).
-   <br/>Acest lucru permite o performanță rapidă și o procesare asincronă.
-   <br/>Documentația automată, interactivă API este, de asemenea, furnizată pentru a ajuta dezvoltatorii să înțeleagă și să utilizeze cu ușurință API-ul.
+   <br/>Folosind FastAPI, puteți dezvolta un server [Open-API](https://en.wikipedia.org/wiki/OpenAPI_Specification)(a.k.a/previously known as/formerly *Swagger-Specification*) foarte ușor.
+   <br/>FastAPI acceptă servere API-asincrone și poate fi rulat folosind servere ASGI, cum ar fi uvicorn(ASGI-server).
+   <br/>Acest lucru permite o performanță-rapidă și o procesare-asincronă.
+   <br/>Documentația automată, interactivă API este, de asemenea, furnizată(cf specificatiei Open-API) pentru a ajuta dezvoltatorii să înțeleagă și să utilizeze cu ușurință API-ul.
    <br/>FastAPI funcționează bine cu următoarele cadre de aplicații web: Flask și Django.
      - [Daddy Makers: Cum să dezvoltați un server web simplu Flask, mysql, bazat pe Python Open API](https://daddynkidsmakers.blogspot.com/2020/09/django-flask-open-api.html)
      - [Daddy Makers: Dezvoltarea unei aplicații web de tablou de bord simplu folosind Django](https://daddynkidsmakers.blogspot.com/2024/02/django.html)
