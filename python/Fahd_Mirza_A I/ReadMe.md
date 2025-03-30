@@ -729,6 +729,12 @@ In acest fragment de articol, incerc sa aduc in centrul atentiei un instrument-*
 
 [Meet ZEUS: The INSANE 2TB GPU That Could Change Everything!](https://www.youtube.com/watch?v=kyj2WTB3Wug&ab_channel=FahdMirza)(a se citi si transcriptul-YT!)
 <br/>[Bolt Graphics](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbWcyNnJpMU9oUDNzSHF0QkpDbjNMN1VYSGRRQXxBQ3Jtc0ttNzhrTnFYRDFWSmswcHVlR1gzbTczc3ZuUWg2aDZlbnRkelphNzVrUU9wTk0wTDZIOXJQc3llQ09HVVl1V2dOZlR5NkkwOGhYdTlRMmd4aTZ0YTNURjBianJhWnR0TmMyZk1HQ2hpT2N6NUxhelNFcw&q=https%3A%2F%2Fbolt.graphics%2F&v=kyj2WTB3Wug) ZEUS GPU include arhitectura RISC-V, 2TB memorie și 800GbE integrat – poate provoca NVIDIA în dominația AI? 
+
+<hr/>
+
+[Sesame CSM 1B - Install Locally - Conversational Speech Model](https://www.youtube.com/watch?v=ULV6cXgnkAo&ab_channel=FahdMirza)
+<br/>Acest videoclip instalează local [CSM 1B](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqblctckNVdTNkRnJJMEk2eFc2T1JoNTQ3b0swZ3xBQ3Jtc0ttQUZyQ19BV21qeHhjUXBwR3VHWE9mV3BGdUxOOGlwU2I5bkIxVHh5Tm1halhWcnRJSUVkejhXaVd2dDNVVWx3NUVVLXhDM2JER1I1dTB3bUNhLUl4cW1PVldhNUVoNy0xdXpydElNMG5xZFpiS25oYw&q=https%3A%2F%2Fhuggingface.co%2Fsesame%2Fcsm-1b&v=ULV6cXgnkAo) (Conversational Speech Model) de la Sesame pentru prezența vocală.
+
 <hr/>
 ...
 
