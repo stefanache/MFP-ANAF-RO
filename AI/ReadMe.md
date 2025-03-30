@@ -1,6 +1,6 @@
 Salut!
 
-Inca de la inceput as dori sa spun ca dezvoltarea AI se bazeaza foarte mult pe descoperirirle privind cercetarile din medicina.
+Inca de la inceput as dori sa spun ca dezvoltarea AI se bazeaza foarte mult pe descoperirile privind cercetarile din medicina.
 
 Asadar AI-ul daca vreti datoreaza extrem de mult cercetarilor medicale.
 
