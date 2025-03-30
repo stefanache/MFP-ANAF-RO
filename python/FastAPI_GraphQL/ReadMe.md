@@ -76,7 +76,7 @@ In aceasta sectiune ne vom ocupa de [**FastAPI**](https://fastapi.tiangolo.com/)
  - [daddYnKidsMaker-blogspot: FastAPI Open-API](https://daddynkidsmakers.blogspot.com/2024/04/fastapi-open-api.html)
    <br/>Acest articol prezintă cum să dezvoltați cu ușurință un server [Open-API](https://en.wikipedia.org/wiki/Open_API) bazat pe FastAPI, Uvicorn și Websocket.
    <br/>Folosind FastAPI, puteți dezvolta un server [Open-API](https://en.wikipedia.org/wiki/OpenAPI_Specification) foarte ușor.
-   <br/>FastAPI acceptă servere API asincrone și poate fi rulat folosind servere ASGI, cum ar fi uvicorn.
+   <br/>FastAPI acceptă servere API asincrone și poate fi rulat folosind servere ASGI, cum ar fi uvicorn(ASGI-server).
    <br/>Acest lucru permite o performanță rapidă și o procesare asincronă.
    <br/>Documentația automată, interactivă API este, de asemenea, furnizată pentru a ajuta dezvoltatorii să înțeleagă și să utilizeze cu ușurință API-ul.
    <br/>FastAPI funcționează bine cu următoarele cadre de aplicații web: Flask și Django.
