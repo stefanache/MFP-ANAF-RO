@@ -73,4 +73,13 @@ In aceasta sectiune ne vom ocupa de [**FastAPI**](https://fastapi.tiangolo.com/)
  - [Dockerizing FastAPI with Postgres, Uvicorn, and Traefik](https://testdriven.io/blog/fastapi-docker-traefik/)
  - [Uvicorn & Gunicorn](https://mirror.xyz/0xA1d9f681B25C14C1eE7B87f1CF102E73cA3ad4d9/n0BdWSd_GdP_Vfeped02zBcNV5XbzITThILlRditoPk)
  - [whitePrompt-blog: Python APIs with FastAPI key-features and CRUD-example](https://blog.whiteprompt.com/python-apis-with-fastapi-key-features-and-crud-example-198a7530e368)
- - [daddYnKidsMaker-blogspot: FastAPI OpenAPI](https://daddynkidsmakers.blogspot.com/2024/04/fastapi-open-api.html)
+ - [daddYnKidsMaker-blogspot: FastAPI Open-API](https://daddynkidsmakers.blogspot.com/2024/04/fastapi-open-api.html)
+   <br/>Acest articol prezintă cum să dezvoltați cu ușurință un server Open-API bazat pe FastAPI, Uvicorn și Websocket.
+   <br/>Folosind FastAPI, puteți dezvolta un server Open-API foarte ușor.
+   <br/>FastAPI acceptă servere API asincrone și poate fi rulat folosind servere ASGI, cum ar fi uvicorn.
+   <br/>Acest lucru permite o performanță rapidă și o procesare asincronă.
+   <br/>Documentația automată, interactivă API este, de asemenea, furnizată pentru a ajuta dezvoltatorii să înțeleagă și să utilizeze cu ușurință API-ul.
+   <br/>FastAPI funcționează bine cu următoarele cadre de aplicații web: Flask și Django.
+     - [Daddy Makers: Cum să dezvoltați un server web simplu Flask, mysql, bazat pe Python Open API](https://daddynkidsmakers.blogspot.com/2020/09/django-flask-open-api.html)
+     - [Daddy Makers: Dezvoltarea unei aplicații web de tablou de bord simplu folosind Django](https://daddynkidsmakers.blogspot.com/2024/02/django.html)
+   <br/>Instalarea pachetului este după cum urmează: **pip install fastapi aiohttp uvicorn**
