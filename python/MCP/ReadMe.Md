@@ -2,6 +2,7 @@
 
 Articole & Proiecte legate de acest subiect(**LLMCP**):
 
+ - [medium/@sebuzdugan: What are MCP-servers the new AI-trend explained for(4) everyone](https://medium.com/@sebuzdugan/what-are-mcp-servers-the-new-ai-trend-explained-for-everyone-8936489c561f)
  - [medium-the-model-observer: Building an Agentic-RAG with LanceDB(role: Vector_DB) MCP-bedrock(role: MCP_server) and Ollama(role: LLM_server) in GCP](https://medium.com/the-model-observer/building-an-agentic-rag-with-lancedb-mcp-bedrock-and-ollama-in-google-colab-8b6d4643f3f9); [MCP-catalog](https://mateuszdabrowski.pl/docs/interaction-studio/mcp-catalog-architecture/); [MCP-everyThing](https://github.com/mamertofabian/mcp-everything-search)
  - [llamaindex: RAG_pipeline = LlamaIndex(LLM_Claude<->MCP_server<->VDB_quadrant_storage_4_Angular_docs)](https://www.linkedin.com/feed/?highlightedUpdateType=SHARED_BY_YOUR_PAGE&highlightedUpdateUrn=urn%3Ali%3Aactivity%3A7311516905142370304);<br/>[AIboosted.dev: article](https://www.aiboosted.dev/p/building-your-own-rag-system-typescript)
  - [GH-wong2: Awesome MCP-servers](https://github.com/wong2/awesome-mcp-servers)
