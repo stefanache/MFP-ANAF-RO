@@ -1,6 +1,6 @@
 Salut!
 
-Aici as vrea sa plasez site-uri educationale de interes din Uniunea-Europeana(UE), din Europa(EU) in general si nu numai(World)...
+Aici as vrea sa plasez cateva site-uri educationale de interes din Uniunea-Europeana(UE), din Europa(EU) in general si nu numai(World)...
 
  - [ChatGPT-online](https://chatgpt.com/)
  - [EITCA](https://eitca.org/certifications/)
