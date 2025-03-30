@@ -11,7 +11,7 @@ Desigur puteti cauta acest nomenclator **SIRUTA** si pe [data.gov.ro](https://da
 
 [**SIRUTA**](https://github.com/GeorgianStan/romania-uat-api?tab=readme-ov-file) poate fi folosit si pentru alte scopuri(altele decat cele legate de ANAF/MFP/GOV) cum ar fi [alegeri](https://github.com/alexaac/presidentials2019Data), [ANRE](https://github.com/posfgit/standard), [GIS](https://github.com/akaleeroy/romania-uat) / [GeoSpatial](https://github.com/geospatialorg/scripturi-actualizare-vectori/tree/master)...
 
-[**SIRUTA**](https://ro.wikipedia.org/wiki/SIRUTA) are o ***granulatie*** sau o ***rezolutie*** pana la nivel de [***localitate***](https://github.com/andreifurrnica/localitati-romania)
+[**SIRUTA**](https://ro.wikipedia.org/wiki/SIRUTA) are o ***granulatie*** sau o ***rezolutie*** de ... pana la nivel de [***localitate***](https://github.com/andreifurrnica/localitati-romania)
 
 [INS](https://bucuresti.insse.ro/produse-si-servicii/nomenclatoare-statistice/) se mai ocupa si de alte nomenclatore cum ar fi 
 [**CAEN**, **CPSA**](https://www.anaf.ro/anaf/internet/ANAF/asistenta_contribuabili/declararea_obligatiilor_fiscale/coduri_caen)
