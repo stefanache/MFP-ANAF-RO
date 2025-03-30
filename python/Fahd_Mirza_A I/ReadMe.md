@@ -720,6 +720,11 @@ In acest fragment de articol, incerc sa aduc in centrul atentiei un instrument-*
 <br/>Acest videoclip instalează local [LHM](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbnJnWk5PMF9vV0hoUk1xTVViYjN6LXhOVWVQUXxBQ3Jtc0trM0FuSk1HTGw4b1pKMV81czRZcmxTZ3ptQjdFVDFnbzlFQ01SaFJDdVp6V1NQa0Itd2pkQmQ3Z0lJWkV5eFNHZFlVZG9LYlZ2YjNaMWFPTWVtWGdvNXdrYWprQzhVTDQ1WkhkTnNXQUljUkRrOGotaw&q=https%3A%2F%2Fgithub.com%2Faigc3d%2FLHM&v=2rT90vdwd04): Large Animatable Human Reconstruction Model pentru o singură imagine în 3D în câteva secunde. 
 
 <hr/>
+
+[txt2audio=TTS: Orpheus.cpp](https://www.youtube.com/watch?v=3l_65hgyfRI&ab_channel=FahdMirza)
+<br/>Acest videoclip instalează local Orpheus.cpp, care vă permite să creați audio din text pe CPU. 
+<hr/>
+
 ...
 
 
