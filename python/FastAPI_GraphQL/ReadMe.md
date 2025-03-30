@@ -90,3 +90,5 @@ In aceasta sectiune ne vom ocupa de [**FastAPI**](https://fastapi.tiangolo.com/)
    <br/>Instalarea pachetului este după cum urmează: **pip install fastapi aiohttp uvicorn**
 
   - [Building APIs using FastAPI with Django](https://www.geeksforgeeks.org/building-apis-using-fastapi-with-django/)
+  - [Building a Machine Learning(ML)-Web-Application Integrating FastAPI with GCP and Docker Python](https://wire.insiderfinance.io/building-a-machine-learning-web-application-integrating-fastapi-with-gcp-and-docker-python-5439aa27cc1b)
+  - [deadBear.io" easy FastAPI-setUp](https://www.deadbear.io/easy-fastapi-setup/)
