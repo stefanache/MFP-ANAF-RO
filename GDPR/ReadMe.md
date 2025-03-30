@@ -4,6 +4,7 @@ Anterior am prezentat un [tutorial](https://github.com/stefanache/MFP-ANAF-RO/tr
 
 Acum revin cu cateva [link](https://www.google.com/search?q=gdpr+mysql+php+encrypt&sca_esv=05d45a37f3fc0a16&rlz=1C1CHBF_enRO1132RO1132&udm=2&biw=1920&bih=911&sxsrf=AHTn8zoxrJXvmeCFDVFaU49lyGp33MTwpg%3A1740052153653&ei=uRa3Z5rEJ86E9u8Pgcu4mA8&ved=0ahUKEwjahIm0l9KLAxVOgv0HHYElDvMQ4dUDCBE&uact=5&oq=gdpr+mysql+php+encrypt&gs_lp=EgNpbWciFmdkcHIgbXlzcWwgcGhwIGVuY3J5cHRIy6UBUABY044BcAB4AJABAJgBggGgAbQTqgEEMC4yMrgBA8gBAPgBAZgCC6AChgrCAgoQABiABBhDGIoFwgILEAAYgAQYsQMYgwHCAggQABiABBixA8ICDRAAGIAEGLEDGEMYigXCAgUQABiABMICBxAAGIAEGBPCAgYQABgTGB7CAgQQABgewgIGEAAYCBgemAMAkgcEMC4xMaAH_Cs&sclient=img)-uri [utile](https://stackoverflow.com/questions/59647500/migrating-from-mysql-plain-database-values-to-fully-aes-encrypted-values-php-ap) despre [GDPR](https://flaven.fr/2018/02/mysql-encrypt-decrypt-encryption-decryption-data-in-php-mysql-and-some-elements-on-the-gdpr-compliance/):
 
+- [oracle: MySQL EE GDPR](https://www.oracle.com/oce/dc/assets/CONT42CCA44BBAAF41E69B0E176FED84D400/native/mysql-wp-gdpr.pdf?elqTrackId=a9e1ef05faec4ba48ba56508af999507&elqaid=143292&elqat=2)
 - [gdprComplet.ro - Care sunt cele 7 prinicipii GDPR?](https://gdprcomplet.ro/what-are-the-7-gdpr-principles/)
 - [userCentrics-knowledge-hub: Principles of GDPR](https://usercentrics.com/knowledge-hub/principles-of-gdpr/)
 - [planetCompliance-gdpr: GDPR challenges-opportunity](https://www.planetcompliance.com/gdpr/gdpr-challenges-opportunity/)
