@@ -2,6 +2,7 @@
 
 Articole & Proiecte legate de acest subiect(**LLMCP**):
 
+ - [medium-the-model-observer: Building an Agentic-RAG with LanceDB(role: Vector_DB) MCP-bedrock(role: MCP_server) and Ollama(role: LLM_server) in GCP](https://medium.com/the-model-observer/building-an-agentic-rag-with-lancedb-mcp-bedrock-and-ollama-in-google-colab-8b6d4643f3f9)
  - [llamaindex: RAG_pipeline = LlamaIndex(LLM_Claude<->MCP_server<->VDB_quadrant_storage_4_Angular_docs)](https://www.linkedin.com/feed/?highlightedUpdateType=SHARED_BY_YOUR_PAGE&highlightedUpdateUrn=urn%3Ali%3Aactivity%3A7311516905142370304);<br/>[AIboosted.dev: article](https://www.aiboosted.dev/p/building-your-own-rag-system-typescript)
  - [reddit-ClaudeAI: Un singur fișier pentru a transforma orice LLM într-un programator MCP expert în programarea în perechi](https://www.reddit.com/r/ClaudeAI/comments/1h5o9uh/one_file_to_turn_any_llm_into_an_expert_mcp/?tl=ro); [MCP-details](https://github.com/Matt-Dionis/nlad/blob/main/examples/talkshop/mcp_details.md)
  - [claudemcp: **MCP doc**](https://www.claudemcp.com/docs/introduction)
