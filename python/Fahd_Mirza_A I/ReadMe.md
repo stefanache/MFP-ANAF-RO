@@ -722,7 +722,7 @@ In acest fragment de articol, incerc sa aduc in centrul atentiei un instrument-*
 <hr/>
 
 [txt2audio=TTS: Orpheus.cpp](https://www.youtube.com/watch?v=3l_65hgyfRI&ab_channel=FahdMirza)
-<br/>Acest videoclip instalează local Orpheus.cpp, care vă permite să creați audio din text pe CPU. 
+<br/>Acest videoclip instalează local [Orpheus.cpp](https://github.com/freddyaboulton/orpheus-cpp), care vă permite să creați audio din text pe CPU. 
 <hr/>
 
 ...
