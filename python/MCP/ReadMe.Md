@@ -1,9 +1,11 @@
 [**MCP**](https://www.claudemcp.com/) =i.e.= [***Model(LLM) Context Protocol***](https://www.claudemcp.com/specification)
 
-Articole & Proiecte legate de acest subiect(**LLMCP**):
+Ca si articol pregatitor puteti citi aici despre [Vector_DB]((https://medium.com/@sanjeebmeister/implement-vector-database-using-aws-bedrock-f2223b8ac57a)).
+
+In aceasta prezentare voi face referire si uneori voi analiza(pe scurt!) diverse Articole & Proiecte legate de acest subiect(**LLMCP=LLM+MCP**):
 
  - [medium/@sebuzdugan: What are MCP-servers the new AI-trend explained for(4) everyone](https://medium.com/@sebuzdugan/what-are-mcp-servers-the-new-ai-trend-explained-for-everyone-8936489c561f)
- - [medium-the-model-observer: Building an Agentic-RAG with LanceDB(role: [Vector_DB](https://medium.com/@sanjeebmeister/implement-vector-database-using-aws-bedrock-f2223b8ac57a)) MCP-bedrock(role: MCP_server) and Ollama(role: LLM_server) in GCP](https://medium.com/the-model-observer/building-an-agentic-rag-with-lancedb-mcp-bedrock-and-ollama-in-google-colab-8b6d4643f3f9); [MCP-catalog](https://mateuszdabrowski.pl/docs/interaction-studio/mcp-catalog-architecture/); [MCP-everyThing](https://github.com/mamertofabian/mcp-everything-search)
+ - [medium-the-model-observer: Building an Agentic-RAG with LanceDB(role: Vector_DB) MCP-bedrock(role: MCP_server) and Ollama(role: LLM_server) in GCP](https://medium.com/the-model-observer/building-an-agentic-rag-with-lancedb-mcp-bedrock-and-ollama-in-google-colab-8b6d4643f3f9); [MCP-catalog](https://mateuszdabrowski.pl/docs/interaction-studio/mcp-catalog-architecture/); [MCP-everyThing](https://github.com/mamertofabian/mcp-everything-search)
  - [CF: remote Model-Context-Protocol-servers(MCP)](https://blog.cloudflare.com/remote-model-context-protocol-servers-mcp/)
  - [medium-neuralSorcerer: MCP-servers connecting AI to(2) the real-World](https://neuralsorcerer.medium.com/mcp-servers-connecting-ai-to-the-real-world-1b3fc5bbe693)
  - [llamaindex: RAG_pipeline = LlamaIndex(LLM_Claude<->MCP_server<->VDB_quadrant_storage_4_Angular_docs)](https://www.linkedin.com/feed/?highlightedUpdateType=SHARED_BY_YOUR_PAGE&highlightedUpdateUrn=urn%3Ali%3Aactivity%3A7311516905142370304);<br/>[AIboosted.dev: article](https://www.aiboosted.dev/p/building-your-own-rag-system-typescript)
