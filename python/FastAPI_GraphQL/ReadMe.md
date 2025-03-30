@@ -88,3 +88,5 @@ In aceasta sectiune ne vom ocupa de [**FastAPI**](https://fastapi.tiangolo.com/)
   - [Daddy Makers: Dezvoltarea unei aplicații web de tablou de bord simplu folosind Django](https://daddynkidsmakers.blogspot.com/2024/02/django.html)
    
    <br/>Instalarea pachetului este după cum urmează: **pip install fastapi aiohttp uvicorn**
+
+  - [Building APIs using FastAPI with Django](https://www.geeksforgeeks.org/building-apis-using-fastapi-with-django/)
