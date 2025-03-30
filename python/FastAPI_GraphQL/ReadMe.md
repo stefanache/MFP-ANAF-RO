@@ -83,6 +83,7 @@ In aceasta sectiune ne vom ocupa de [**FastAPI**](https://fastapi.tiangolo.com/)
    <br/>Acest lucru permite o performanță-rapidă și o procesare-asincronă.
    <br/>Documentația automată, interactivă API este, de asemenea, furnizată(cf specificatiei Open-API) pentru a ajuta dezvoltatorii să înțeleagă și să utilizeze cu ușurință API-ul.
    <br/>FastAPI funcționează bine cu următoarele cadre de aplicații web: Flask și Django.
+   
      - [Daddy Makers: Cum să dezvoltați un server web simplu Flask, mysql, bazat pe Python Open API](https://daddynkidsmakers.blogspot.com/2020/09/django-flask-open-api.html)
      - [Daddy Makers: Dezvoltarea unei aplicații web de tablou de bord simplu folosind Django](https://daddynkidsmakers.blogspot.com/2024/02/django.html)
    
