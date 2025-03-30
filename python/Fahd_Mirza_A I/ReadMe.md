@@ -736,6 +736,11 @@ In acest fragment de articol, incerc sa aduc in centrul atentiei un instrument-*
 <br/>Acest videoclip instalează local [CSM 1B](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqblctckNVdTNkRnJJMEk2eFc2T1JoNTQ3b0swZ3xBQ3Jtc0ttQUZyQ19BV21qeHhjUXBwR3VHWE9mV3BGdUxOOGlwU2I5bkIxVHh5Tm1halhWcnRJSUVkejhXaVd2dDNVVWx3NUVVLXhDM2JER1I1dTB3bUNhLUl4cW1PVldhNUVoNy0xdXpydElNMG5xZFpiS25oYw&q=https%3A%2F%2Fhuggingface.co%2Fsesame%2Fcsm-1b&v=ULV6cXgnkAo) (Conversational Speech Model) de la Sesame pentru prezența vocală.
 
 <hr/>
+
+[AgenticSeek by Manus AI](https://www.youtube.com/watch?v=ozgb1cPRPpE&ab_channel=FahdMirza)
+Acest videoclip arată cum să instalați local [AgenticSeek](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbDdyZk9iRUFGX1UwdWlxYUJfa1lpOGpTX1IyZ3xBQ3Jtc0ttUUFDYkJhY0hMSV9nNWdwb250TEJZd2FNRi1oZHdmeGFqSUc3b0NkUldpU3c3QzFnMW9mUjFtcHNiLTRQSUliZnc5c2FaQkUxR3ZQZjJBeXc4a19mcnhQSXFtbDNIazN1eVNmSHZ6S1lvSldBbmVESQ&q=https%3A%2F%2Fgithub.com%2FFosowl%2FagenticSeek&v=ozgb1cPRPpE), care este o alternativă complet locală la Manus AI, un asistent AI activat vocal.
+
+<hr/>
 ...
 
 
