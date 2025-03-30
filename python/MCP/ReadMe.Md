@@ -1,6 +1,6 @@
 [**MCP**](https://www.claudemcp.com/) =i.e.= [***Model(LLM) Context Protocol***](https://www.claudemcp.com/specification)
 
-Ca si articol pregatitor puteti citi aici despre [Vector_DB]((https://medium.com/@sanjeebmeister/implement-vector-database-using-aws-bedrock-f2223b8ac57a)).
+Ca si articol pregatitor puteti citi aici despre [Vector_DB](https://medium.com/@sanjeebmeister/implement-vector-database-using-aws-bedrock-f2223b8ac57a).
 
 In aceasta prezentare voi face referire si uneori voi analiza(pe scurt!) diverse Articole & Proiecte legate de acest subiect(**LLMCP=LLM+MCP**):
 
