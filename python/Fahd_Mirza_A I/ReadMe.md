@@ -741,6 +741,11 @@ In acest fragment de articol, incerc sa aduc in centrul atentiei un instrument-*
 Acest videoclip arată cum să instalați local [AgenticSeek](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbDdyZk9iRUFGX1UwdWlxYUJfa1lpOGpTX1IyZ3xBQ3Jtc0ttUUFDYkJhY0hMSV9nNWdwb250TEJZd2FNRi1oZHdmeGFqSUc3b0NkUldpU3c3QzFnMW9mUjFtcHNiLTRQSUliZnc5c2FaQkUxR3ZQZjJBeXc4a19mcnhQSXFtbDNIazN1eVNmSHZ6S1lvSldBbmVESQ&q=https%3A%2F%2Fgithub.com%2FFosowl%2FagenticSeek&v=ozgb1cPRPpE), care este o alternativă complet locală la Manus AI, un asistent AI activat vocal.
 
 <hr/>
+
+[China Modifying NVIDIA RTX 4090 to Have 96GB VRAM](https://www.youtube.com/watch?v=Y0oO09tRqhg&ab_channel=FahdMirza)
+<br/>Acest [videoclip](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbWd0YzZSdERDNDZsejd2SnpMYmdONHR5eGtNd3xBQ3Jtc0tudk9oUnhyanJwOGIzc3RJc1ota0w0ZHR1cFFxSlV6WmRXVFVDbFZMSkJHTjI0NDlTcmgxeEZKRWl1RWZTWlZSYVlJMjZvbVIxbjRxZll2cmgzUVAwNU11VnpHLVVXSVhBZ1Nla2pESm8wN3hiZDUxNA&q=https%3A%2F%2Fx.com%2Fmrqs_gabriel13%2Fstatus%2F1896625290769764423&v=Y0oO09tRqhg) opinează despre acoperirea media actuală a cursei AI dintre China și SUA.
+
+
 ...
 
 
