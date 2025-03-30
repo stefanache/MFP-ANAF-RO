@@ -10,7 +10,7 @@ Articole & Proiecte legate de acest subiect(**LLMCP**):
  - [GH-wong2: Awesome MCP-servers](https://github.com/wong2/awesome-mcp-servers); [GH-appcypher: Awesome MCP-servers](https://github.com/appcypher/awesome-mcp-servers); [GH-ModelContextProtocol: MCP-servers](https://github.com/modelcontextprotocol/servers/tree/main)
      - ex. MCP-server=[Fetch](https://github.com/modelcontextprotocol/servers/blob/main/src/fetch)...preia continut-Web(rezumat=redus ori intreg), de la un  snumit URL dat/furnizat de cate utilizator/programator;
      - a se vedea si [mcp.so-server: Web-search-agent](https://mcp.so/server/web-search-agent) - Web-search-agent(Agentul-de-căutare-Web) este un asistent de codare(codarea unui client-MCP) care ajută utilizatorii să creeze un mic agent-de-căutare-Web folosind bibilioteca/libraria-Python-[Pydantic-AI](https://docs.pydantic.dev/latest/) și [serverul-MCP](https://github.com/modelcontextprotocol/servers/blob/main/src/fetch).
-       <br/>Linia de procesare(*pipeline*): Web_search_agent <-> Vscode(VSC) <-> Roo_Code(VSC-extension) <-> Claude_3.5_Sonnet <-> MCP_server(Fetch).
+       <br/>Linia de procesare(*pipeline*): <br/>Web_search_agent <-> Vscode(VSC) <-> Roo_Code(VSC-extension) <-> Claude_3.5_Sonnet <-> MCP_server(Fetch).
  - [reddit-ClaudeAI: Un singur fișier pentru a transforma orice LLM într-un programator MCP expert în programarea în perechi](https://www.reddit.com/r/ClaudeAI/comments/1h5o9uh/one_file_to_turn_any_llm_into_an_expert_mcp/?tl=ro); [MCP-details](https://github.com/Matt-Dionis/nlad/blob/main/examples/talkshop/mcp_details.md)
  - [claudemcp: **MCP doc**](https://www.claudemcp.com/docs/introduction)
  - [claudemcp: **Directory-List MCP-servers**](https://www.claudemcp.com/servers)
