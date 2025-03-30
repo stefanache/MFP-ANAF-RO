@@ -1,6 +1,6 @@
 [Salutare](https://chatgpt.com/share/67bee958-3e5c-800b-8c28-baa1e8dac211)
 
-O sa postez aici un cocktail (citit cocteil, a.k.a amestec) de articole legate de fenomenul [**cuantic**](https://www.youtube.com/results?search_query=Quantum+Questions+Answered%3A)(lectura placuta!:):
+O sa postez aici un cocktail (citit cocteil, a.k.a amestec) de articole legate de fenomenul [**cuantic**](https://www.youtube.com/results?search_query=Olivia+Lanes+Quantum+Questions+Answered%3A)(lectura placuta!:):
 
  - [ChatGPT: campuri cuantice(comparatie pt cartof si gutuie)](https://chatgpt.com/share/67e54a0d-a370-800b-9dce-6fffaa08f678)
  - [WIKI: Clasele de complexitate P si NP](https://ro.wikipedia.org/wiki/Clasele_de_complexitate_P_%C8%99i_NP)
