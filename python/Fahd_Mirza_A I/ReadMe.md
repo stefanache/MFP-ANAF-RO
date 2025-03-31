@@ -745,6 +745,12 @@ Acest videoclip arată cum să instalați local [AgenticSeek](https://www.youtub
 [China Modifying NVIDIA RTX 4090 to Have 96GB VRAM](https://www.youtube.com/watch?v=Y0oO09tRqhg&ab_channel=FahdMirza)
 <br/>Acest [videoclip](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbWd0YzZSdERDNDZsejd2SnpMYmdONHR5eGtNd3xBQ3Jtc0tudk9oUnhyanJwOGIzc3RJc1ota0w0ZHR1cFFxSlV6WmRXVFVDbFZMSkJHTjI0NDlTcmgxeEZKRWl1RWZTWlZSYVlJMjZvbVIxbjRxZll2cmgzUVAwNU11VnpHLVVXSVhBZ1Nla2pESm8wN3hiZDUxNA&q=https%3A%2F%2Fx.com%2Fmrqs_gabriel13%2Fstatus%2F1896625290769764423&v=Y0oO09tRqhg) opinează despre acoperirea media actuală a cursei AI dintre China și SUA.
 
+<hr/>
+
+[QVQ-Max: Top Visual Reasoning Model from Alibaba - Thorough Testing](https://www.youtube.com/watch?v=2dswEwhHSdY&ab_channel=FahdMirza)
+<br/>🔥Acest videoclip testează QVQ-Max de la echipa [Qwen2.5 Max](chat.qwen.ai), care vine cu Multi-Image Recognition și alte funcții.
+
+<hr/>
 
 ...
 
