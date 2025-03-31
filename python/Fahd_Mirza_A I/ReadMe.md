@@ -747,7 +747,7 @@ Acest videoclip arată cum să instalați local [AgenticSeek](https://www.youtub
 
 <hr/>
 
-[QVQ-Max: Top Visual Reasoning Model from Alibaba - Thorough Testing](https://www.youtube.com/watch?v=2dswEwhHSdY&ab_channel=FahdMirza)
+[QvQ-Max: Top Visual Reasoning Model from Alibaba - Thorough Testing](https://www.youtube.com/watch?v=2dswEwhHSdY&ab_channel=FahdMirza)
 <br/>🔥Acest videoclip testează QVQ-Max de la echipa [Qwen2.5 Max](chat.qwen.ai), care vine cu Multi-Image Recognition și alte funcții.
 
 <hr/>
