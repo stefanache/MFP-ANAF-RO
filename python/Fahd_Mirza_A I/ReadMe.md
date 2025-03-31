@@ -757,7 +757,7 @@ Acest videoclip arată cum să instalați local [AgenticSeek](https://www.youtub
    - ... similar modelelor **o1** și **o3** ale ***OpenAI***.
    
 <br/>Noul **QvQ** adaugă viziune mixului(de imagini).
-<br/>Il puteți încerca direct/online pe [**Hugging Face Spaces**](https://huggingface.co/spaces/Qwen/QVQ-72B-preview) — acceptă o imagine și o singură solicitare și apoi transmite un răspuns foarte lung în cazul în care se gândește la problema pe care ați pus-o. 
+<br/>Il puteți încerca direct/online(ca orice alt model) pe [**Hugging Face Spaces**](https://huggingface.co/spaces/Qwen/QVQ-72B-preview) — (desigur, cu mici restrictii... pt ca resursele [nu] sunt [ne]limitate si astfel pot incerca noul produs, cat mai multi cu putinta doritori/utilizatori... ) acceptă o imagine și o singură solicitare și apoi transmite un răspuns foarte lung în cazul în care se gândește la problema pe care ați pus-o. 
 <br/>Nu există nici-o opțiune de a trimite o solicitare de urmărire...
 
 <hr/>
