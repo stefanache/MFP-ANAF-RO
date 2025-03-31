@@ -750,7 +750,7 @@ Acest videoclip arată cum să instalați local [AgenticSeek](https://www.youtub
 [**QvQ-Max**: Top Visual Reasoning Model from Alibaba - Thorough Testing](https://www.youtube.com/watch?v=2dswEwhHSdY&ab_channel=FahdMirza)
 <br/>🔥Acest videoclip testează [**QVQ-Max**](https://simonwillison.net/2024/Dec/24/qvq/)(al echipei [Qwen2.5 Max](chat.qwen.ai)...a Alibaba ), care vine cu Multi-Image Recognition(recunoastere multi-imagine) și alte funcții.
 <br/>[**QvQ**](https://simonwillison.net/2024/Dec/24/qvq/) este o continuare(axată pe viziune/recunoastere multi-imagine) a [**QwQ**](https://simonwillison.net/2024/Nov/27/qwq/)-ului.
-<br/>[**QwQ**](https://simonwillison.net/2024/Nov/27/qwq/) este un model impresionant de scalare(ajustare) a [*inferenței*](https://www.teachthought.com/literacy/difference-inference-prediction/)(a nu se confunda [*inferenta/concluzionare* cu *predictia/prognozare*](https://www.difference.wiki/inference-vs-prediction/)!) cu licență deschisă(open-source): 
+<br/>[**QwQ**](https://simonwillison.net/2024/Nov/27/qwq/) este un model impresionant de scalare(ajustare) a [*inferenței*](https://www.teachthought.com/literacy/difference-inference-prediction/)(a nu se confunda [*inferenta/concluzionare/deductie-logica* cu *predictia/prognozare*](https://www.difference.wiki/inference-vs-prediction/)!) cu licență deschisă(open-source): 
 
    - dați-i un prompt(o intrebare) și se va "gândi"(cu voce tare/vorbind), la multe jetoane(cuvinte-cheie), în timp ce ...
    - ... încearcă să obțină un răspuns bun,...
