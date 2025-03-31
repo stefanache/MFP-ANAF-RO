@@ -752,12 +752,12 @@ Acest videoclip arată cum să instalați local [AgenticSeek](https://www.youtub
 <br/>[**QvQ**](https://simonwillison.net/2024/Dec/24/qvq/) este o continuare(axată pe viziune/recunoastere multi-imagine) a [**QwQ**](https://simonwillison.net/2024/Nov/27/qwq/)-ului.
 <br/>[**QwQ**](https://simonwillison.net/2024/Nov/27/qwq/) este un model impresionant de scalare a [inferenței](https://www.teachthought.com/literacy/difference-inference-prediction/) cu licență deschisă(open-source): 
 
-   - dați-i un prompt(o intrebare) și se va "gândi" cu voce tare(vorbind) la multe jetoane(cuvinte-cheie) în timp ce ...
+   - dați-i un prompt(o intrebare) și se va "gândi"(cu voce tare/vorbind), la multe jetoane(cuvinte-cheie), în timp ce ...
    - ... încearcă să obțină un răspuns bun,...
    - ... similar modelelor **o1** și **o3** ale ***OpenAI***.
    
 <br/>Noul **QvQ** adaugă viziune mixului(de imagini).
-<br/Il puteți încerca direct/online pe [**Hugging Face Spaces**](https://huggingface.co/spaces/Qwen/QVQ-72B-preview) — acceptă o imagine și o singură solicitare și apoi transmite un răspuns foarte lung în cazul în care se gândește la problema pe care ați pus-o. 
+<br/>Il puteți încerca direct/online pe [**Hugging Face Spaces**](https://huggingface.co/spaces/Qwen/QVQ-72B-preview) — acceptă o imagine și o singură solicitare și apoi transmite un răspuns foarte lung în cazul în care se gândește la problema pe care ați pus-o. 
 <br/>Nu există nici-o opțiune de a trimite o solicitare de urmărire...
 
 <hr/>
