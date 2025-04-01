@@ -769,6 +769,11 @@ Acest videoclip arată cum să instalați local [AgenticSeek](https://www.youtub
 <br/>Acest [videoclip](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbHBSTUdmY1JnRUJ2OG5ReWFZZmlnLUowYlB5UXxBQ3Jtc0tsNHZqajRtVFI3THNGWTNEcGozbF84VU1PVTZrYjJ5ZklDSXk4RFlSeURGNTB5RkZDb0pUWXpuYlpwa2VTeDhsZE5DOGY3YWl0bUN4TzhwZ0hVdW1xWFk4eW9rS1k0Z05PWmtwSlVjQ3Fzb05iRlZ6TQ&q=https%3A%2F%2Fhuggingface.co%2FSUFE-AIFLM-Lab%2FFin-R1&v=0esd2c-H0eM) instalează local **Fin-R1**, care este un model de limbă mare pentru raționament financiar complex 🔥 
 
 <hr/>
+
+[MoonCast AI Tutorial: Install & Generate Realistic Podcasts from Any Text in Minutes!](https://www.youtube.com/watch?v=BVFHuZDuA6M&ab_channel=FahdMirza)
+<br/>Aflați cum să instalați [MoonCast AI](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbmo2a2pEMDRjTURnV2czQnNIUGFmdWtKWjVFZ3xBQ3Jtc0tsNmQxTGowODlidGJuRkM5MGZVdHhmbGkzQWtJVXBaUVpSSm9Pa182LWRaeDNvSS1sUWh1Y0ZvMFZiaktMeWlMOHlkMmM1MnNYNjBaN0lrc2lOaGdia19mZlVYNU9ERUdVSzlNdXpxZWNaS3ZUM1IxYw&q=https%3A%2F%2Fgithub.com%2Fjzq2000%2FMoonCast&v=BVFHuZDuA6M) și să transformați instantaneu orice document text sau pagină web în podcasturi realiste și spontane! 🔥
+
+<hr/>
 ...
 
 
