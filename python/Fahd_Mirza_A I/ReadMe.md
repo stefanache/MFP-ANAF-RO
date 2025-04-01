@@ -763,6 +763,10 @@ Acest videoclip arată cum să instalați local [AgenticSeek](https://www.youtub
 [Thera - First Arbitrary-Scale Super-Resolution AI Model - Install Locally](https://www.youtube.com/watch?v=nlBsozc7Ny0&ab_channel=FahdMirza)
 <br/>Acest [videoclip](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbnI0NEtlMWpIYVRFX0Q2ZkdKZlgydmE2bmtCUXxBQ3Jtc0tuRnVlNjBVMG9vTzVKRlBEc2REUVVuSG1Eck9SZFZ3Z0FpM0p1WVZSeFJoandRWmprWFhLbUdzYjJLREhDb3hHQ3FPaG1vQVJ1cUZwQUZWV1RaZDB4dm02WnJ0bnR1Z2dGT2RERGNpeVYxcHJHM1J4NA&q=https%3A%2F%2Fgithub.com%2Fprs-eth%2Fthera&v=nlBsozc7Ny0) instalează local **Thera**, care este prima metodă de super-rezoluție la scară arbitrară cu un model de observare fizică încorporat
 
+<hr/>
+
+[Fin-R1: Financial Reasoning LLM for Insurance, Trust, Securities, Banking - Install Locally](https://www.youtube.com/watch?v=0esd2c-H0eM&ab_channel=FahdMirza)
+<br/>Acest [videoclip](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbHBSTUdmY1JnRUJ2OG5ReWFZZmlnLUowYlB5UXxBQ3Jtc0tsNHZqajRtVFI3THNGWTNEcGozbF84VU1PVTZrYjJ5ZklDSXk4RFlSeURGNTB5RkZDb0pUWXpuYlpwa2VTeDhsZE5DOGY3YWl0bUN4TzhwZ0hVdW1xWFk4eW9rS1k0Z05PWmtwSlVjQ3Fzb05iRlZ6TQ&q=https%3A%2F%2Fhuggingface.co%2FSUFE-AIFLM-Lab%2FFin-R1&v=0esd2c-H0eM) instalează local **Fin-R1**, care este un model de limbă mare pentru raționament financiar complex 🔥 
 
 <hr/>
 ...
