@@ -779,6 +779,13 @@ Acest videoclip arată cum să instalați local [AgenticSeek](https://www.youtub
 <br/>Acest videoclip instalează [Parse Vision](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbnphLUdZYnRabEYycFpCT2ZuTTZGY0k1clAtQXxBQ3Jtc0tuYkFkLWdOZU85RS1jcmJIRlhxd2tZanZGbTJlWTBpT0t0ZHl5SzR2WjItUml2b1NoQnJ4SXR0aF9xV2dGQkhmRUEzd2d6SG9qWFU0eE1MNUpYVGhQY1ZJY2ZkWmRjNEVEM2k4TERmNFNqcVNYaF9lSQ&q=https%3A%2F%2Fgithub.com%2Forasik%2Fparsevision&v=Hl3u5DSvU_c) la nivel local, care este un instrument open-source pentru a vizualiza ceea ce OCR analizează într-un document PDF. 🔥 
 
 <hr/>
+
+[Extract Structured Data from Any PDF Using AI for Free: Hands-on Tutorial](https://www.youtube.com/watch?v=yiXxS_gv-Hc&ab_channel=FahdMirza)
+<br/>Acest videoclip arată cum să utilizați AI pentru a extrage date din orice document PDF, cum ar fi ***Facturi***, ușor și liber. 🔥 
+
+<hr/>
+
+
 ...
 
 
