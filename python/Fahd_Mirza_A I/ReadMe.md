@@ -785,6 +785,10 @@ Acest videoclip arată cum să instalați local [AgenticSeek](https://www.youtub
 
 <hr/>
 
+[Teapot LLM - Hallucination-Resistant Pocket RAG Model - Install Locally](https://www.youtube.com/watch?v=Slilr02pSF0&ab_channel=FahdMirza)
+<br/>[Teapot](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbDAwaEZNMVJnUHFTQzVzdWRseFhTa1ZEbzZhZ3xBQ3Jtc0ttdHN1RjBES0pJWjV1b0o0UWhkTklIVHI3WWl0MXN3UWVZVDYtV196bkVWVWFsS2x6Z2VhbUZieHpRbFQxUjR1Ri1sYnB4Mzhud3YzbFVmSHlPOElqOElBSHlKMXFXVlBOSGxKRlVtbjZiR3NuOXRldw&q=https%3A%2F%2Fhuggingface.co%2Fteapotai%2Fteapotllm&v=Slilr02pSF0) este un model de limbaj mic open-source (~800 de milioane de parametri) reglat fin pe date sintetice și optimizat pentru a rula local pe dispozitive cu resurse limitate, cum ar fi smartphone-uri și procesoare. 🔥 
+
+<hr/>
 
 ...
 
