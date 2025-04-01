@@ -760,6 +760,11 @@ Acest videoclip arată cum să instalați local [AgenticSeek](https://www.youtub
 
 <hr/>
 
+[Thera - First Arbitrary-Scale Super-Resolution AI Model - Install Locally](https://www.youtube.com/watch?v=nlBsozc7Ny0&ab_channel=FahdMirza)
+<br/>Acest [videoclip](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbnI0NEtlMWpIYVRFX0Q2ZkdKZlgydmE2bmtCUXxBQ3Jtc0tuRnVlNjBVMG9vTzVKRlBEc2REUVVuSG1Eck9SZFZ3Z0FpM0p1WVZSeFJoandRWmprWFhLbUdzYjJLREhDb3hHQ3FPaG1vQVJ1cUZwQUZWV1RaZDB4dm02WnJ0bnR1Z2dGT2RERGNpeVYxcHJHM1J4NA&q=https%3A%2F%2Fgithub.com%2Fprs-eth%2Fthera&v=nlBsozc7Ny0) instalează local **Thera**, care este prima metodă de super-rezoluție la scară arbitrară cu un model de observare fizică încorporat
+
+
+<hr/>
 ...
 
 
