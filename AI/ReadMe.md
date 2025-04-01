@@ -1,6 +1,6 @@
 Salut!
 
-Aici voi plasa tutoriale,ghiduri... pentru efectuarea unor sarcini/task-uri/activitati economice,drept(si nu numai) folosind AI:
+Aici voi plasa tutoriale,ghiduri... pentru efectuarea unor sarcini/task-uri/activitati economice,drept(si nu numai) folosind AI([domain-specific-LLMs](https://medium.com/sage-ai/building-domain-specific-llms-for-reliable-accounting-solutions-at-sage-f5f49479c8ad)):
 
  - [A step-by-step guide to creating an AI Travel Agent with Microsoft AutoGen Studio](https://medium.com/@wxia8888/a-step-by-step-guide-to-creating-an-ai-travel-agent-with-microsoft-autogen-studio-7295592331ac)
  - [30 LLM-uri pt. drept(law)-financiar](https://www.lawstudies.ro/llm/drept-financiar)
