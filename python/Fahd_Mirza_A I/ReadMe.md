@@ -798,6 +798,15 @@ Acest videoclip arată cum să instalați local [AgenticSeek](https://www.youtub
 [Parse Vision - Visualize What OCR is Parsing in PDFs - Install Locally](https://www.youtube.com/watch?v=Hl3u5DSvU_c&ab_channel=FahdMirza)
 <br/>Acest videoclip instalează [Parse Vision](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbXlmTnZ6V0JhWnhrYnpMV2h0V3RVUmRBdnhIZ3xBQ3Jtc0tuUUlqSGpxazlaUG9sUERpcjRyNzU4OFduNjRpNWF2YzQ1WUJLV05NNnptakRYYjZwYnBESU53bS1UY1I5VXc3aWFYQlQ3WHRGTzdTX1BJeXBOR2h2ZmhKTGZMdFVMbjNWOTNhbjJldERtaVNFWUUtTQ&q=https%3A%2F%2Fgithub.com%2Forasik%2Fparsevision&v=Hl3u5DSvU_c) la nivel local, care este un instrument open-source pentru a vizualiza ceea ce OCR analizează într-un document PDF. 🔥 
 
+<hr/>
+
+[MM - Inductive Moment Matching by Luma Labs and Stanford](https://www.youtube.com/watch?v=-BOtslzbRB0&ab_channel=FahdMirza)
+<br/>Acest videoclip instalează local [HVI](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbDN4QzEwZlhNZDUwRkwycnVaOUVmd0drUVRoQXxBQ3Jtc0tsLXFCaEVrWkxSTWJtOWlaSS1kdU1rWl9rYmR4MHQtSHpZY1hncnk1NTktcDE4SFFraTFUWVVqVmxUczdEb0VGQlZuOU1RM004ZVlrSzIxSXdVbTJEV2ZGbWRmUjN2MGZxYVpQck5icVc2RHhmYlFsQQ&q=https%3A%2F%2Fgithub.com%2FFediory%2FHVI-CIDNet&v=-BOtslzbRB0) care îmbunătățește imaginile cu lumină scăzută prin utilizarea unui nou spațiu de culoare pentru a reduce zgomotul și a îmbunătăți luminozitatea în mod eficient. 🔥
+
+
+<hr/>
+
+
 ...
 
 
