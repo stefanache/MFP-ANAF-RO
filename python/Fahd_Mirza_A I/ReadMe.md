@@ -807,7 +807,13 @@ Acest videoclip arată cum să instalați local [AgenticSeek](https://www.youtub
 <hr/>
 
 [Local Deep Researcher with Ollama - Install Locally for Web Search](https://www.youtube.com/watch?v=czGVsAd3b88&ab_channel=FahdMirza)
-<br/>🔥Acest videoclip instalează local [**Local Deep Researcher**](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqblIzVWt4d1hHc1VqSk5TSndWcVdCVVVHRklxZ3xBQ3Jtc0tuX0RiODU2aE4zd1oxOVZtRkdnVVBuWjJmYUk4aFIyb3YtRHg4dnlwZzJ6ajNoaUo5S0xHNUxadGk0UGdzaGZ3am03NVdMZGpoYTVPazdhaXVXUGlGa2p4UXJ5c29feGNLcnhqdkQ1WUFsYnAxcjFHTQ&q=https%3A%2F%2Fgithub.com%2Flangchain-ai%2Flocal-deep-researcher&v=czGVsAd3b88), care este un **asistent de cercetare/cautare pe web**, complet local, care utilizează orice **LLM** găzduit de ***Ollama*** sau ***LMStudio***. 
+<br/>🔥Acest videoclip instalează local [**Local Deep Researcher**](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqblIzVWt4d1hHc1VqSk5TSndWcVdCVVVHRklxZ3xBQ3Jtc0tuX0RiODU2aE4zd1oxOVZtRkdnVVBuWjJmYUk4aFIyb3YtRHg4dnlwZzJ6ajNoaUo5S0xHNUxadGk0UGdzaGZ3am03NVdMZGpoYTVPazdhaXVXUGlGa2p4UXJ5c29feGNLcnhqdkQ1WUFsYnAxcjFHTQ&q=https%3A%2F%2Fgithub.com%2Flangchain-ai%2Flocal-deep-researcher&v=czGVsAd3b88), care este un [**asistent de cercetare/cautare pe web**](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqblpDaFNjdU5tbkZNLW10eUhQcXBVaTQxejhTQXxBQ3Jtc0tuTV9xWTVYNkRFZ1pfbThkQ2tBRGQ0XzFrNkI1X0pxaFJLZWhoVUhJRmtZSUhqZDcxNGNTLTBPbE5vZmxNWl9SajlMUXZ1Z20wcHIxd1I5N1lGWlUtMlVJWXVQbUhtazNEcVFfa1FtRHdXTjBkbG1DZw&q=https%3A%2F%2Fgithub.com%2Flangchain-ai%2Flocal-deep-researcher&v=czGVsAd3b88), complet local, care utilizează orice **LLM** găzduit de ***Ollama*** sau ***LMStudio***. 
+
+<hr/>
+
+[A Quick Tutorial on Hugging Face](https://www.youtube.com/watch?v=AYZQq5l2DCE&ab_channel=FahdMirza)
+<br/>Acest videoclip este un tutorial pentru începători pentru a parcurge [Hugging Face](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbmJDdkRvRG15V2RsdzQwODhpbkE0dnVtSUVvd3xBQ3Jtc0trenJBak53NE15TkI3WERKQ1lfRlAyRDNnU3gzVnpLelBJUGRmMFR6elhLYk45cXdHSzNpT01VVW12YVl6b0I5bEE5aDdXbXNrUGtZdERZVEJfMVBXZ3g2MTdSYUNJdGlQa1V2TkFDSUVuZ0toSk5KQQ&q=https%3A%2F%2Fhuggingface.co%2F&v=AYZQq5l2DCE) pentru a găsi și selecta un tutorial pentru cazul dvs. de utilizare
+
 
 <hr/>
 
