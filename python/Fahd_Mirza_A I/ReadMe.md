@@ -806,6 +806,8 @@ Acest videoclip arată cum să instalați local [AgenticSeek](https://www.youtub
 
 <hr/>
 
+[Local Deep Researcher with Ollama - Install Locally for Web Search](https://www.youtube.com/watch?v=czGVsAd3b88&ab_channel=FahdMirza)
+<br/>🔥Acest videoclip instalează local **Local Deep Researcher**, care este un asistent de cercetare web complet local care utilizează orice LLM găzduit de Ollama sau LMStudio. 
 
 ...
 
