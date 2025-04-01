@@ -774,6 +774,11 @@ Acest videoclip arată cum să instalați local [AgenticSeek](https://www.youtub
 <br/>Aflați cum să instalați [MoonCast AI](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbmo2a2pEMDRjTURnV2czQnNIUGFmdWtKWjVFZ3xBQ3Jtc0tsNmQxTGowODlidGJuRkM5MGZVdHhmbGkzQWtJVXBaUVpSSm9Pa182LWRaeDNvSS1sUWh1Y0ZvMFZiaktMeWlMOHlkMmM1MnNYNjBaN0lrc2lOaGdia19mZlVYNU9ERUdVSzlNdXpxZWNaS3ZUM1IxYw&q=https%3A%2F%2Fgithub.com%2Fjzq2000%2FMoonCast&v=BVFHuZDuA6M) și să transformați instantaneu orice document text sau pagină web în podcasturi realiste și spontane! 🔥
 
 <hr/>
+
+[Parse Vision - Visualize What OCR is Parsing in PDFs - Install Locally](https://www.youtube.com/watch?v=Hl3u5DSvU_c&ab_channel=FahdMirza)
+<br/>Acest videoclip instalează [Parse Vision](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbnphLUdZYnRabEYycFpCT2ZuTTZGY0k1clAtQXxBQ3Jtc0tuYkFkLWdOZU85RS1jcmJIRlhxd2tZanZGbTJlWTBpT0t0ZHl5SzR2WjItUml2b1NoQnJ4SXR0aF9xV2dGQkhmRUEzd2d6SG9qWFU0eE1MNUpYVGhQY1ZJY2ZkWmRjNEVEM2k4TERmNFNqcVNYaF9lSQ&q=https%3A%2F%2Fgithub.com%2Forasik%2Fparsevision&v=Hl3u5DSvU_c) la nivel local, care este un instrument open-source pentru a vizualiza ceea ce OCR analizează într-un document PDF. 🔥 
+
+<hr/>
 ...
 
 
