@@ -790,6 +790,11 @@ Acest videoclip arată cum să instalați local [AgenticSeek](https://www.youtub
 
 <hr/>
 
+[OlympicCoder 7B - Competitive Coding Model with Reasoning - Install Locally](https://www.youtube.com/watch?v=mGg_IKXqfVg&ab_channel=FahdMirza)
+<br/>[OlympicCoder-7B](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa3A3R3FKdWZfcVRITXZheHNURFFULXZpb0dOUXxBQ3Jtc0tsazNRcERwcU93UVRQb0lTSGRxU3AyQnJrWkpfQnR3YWx3MTVGYVVUVngtQVgyXzRES1dTRzVidXAxWEkxX0MwOFNzVVB1RXVHQmJmdXpPQ210NzVwcUJhWlJ0NGpBTF9FRHQ1bjNXQjd3cVlLMTZHbw&q=https%3A%2F%2Fhuggingface.co%2Fopen-r1%2FOlympicCoder-7B&v=mGg_IKXqfVg) este un model de cod care atinge performanțe puternice pe *benchmark/standuri de lucru/testare*-uri de codare competitive, cum ar fi *LiveCodeBench* și *Olimpiada Internațională de Informatică* din *2024*.
+
+<hr/>
+
 ...
 
 
