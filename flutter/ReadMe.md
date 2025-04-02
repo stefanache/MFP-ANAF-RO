@@ -1,6 +1,6 @@
 Salut!
 
-Aici o sa adun cateva link-uri privitoare la cadrul-web de dezvoltare **Flutter**(front-end=UI; componenta principala fiind *widget*-urile: *Material Design*/Google si *Cupertino*/Apple; kit de dezvoltare de la ***Google***, pt rulare/randare/utilizare multi-platforma:  *Fuchsia* , *Android* , *iOS* , *Linux* , *macOS* și *Windows* si care manipuleaza *direct pixelii* de pe ecranul/*display*ul-suport/de randare):
+Aici o sa adun cateva link-uri privitoare la cadrul-web de dezvoltare **Flutter**(front-end=UI; componenta principala fiind *widget*-urile: *Material Design*/Google si *Cupertino*/Apple; kit de dezvoltare/constructie de la ***Google*** si  bazat pe *Dart*, pt/avand drept scop rulare/randare/utilizare multi-platforma:  *Fuchsia* , *Android* , *iOS* , *Linux* , *macOS* și *Windows* si care manipuleaza *direct pixelii* de pe ecranul/*display*ul-suport/de randare):
 
  - [wiki-RO: flutter](https://ro.wikipedia.org/wiki/Flutter_(software));  [wiki-en: flutter](https://en.wikipedia.org/wiki/Flutter_(software))
  - [flutter: codeLab](https://docs.flutter.dev/get-started/codelab)
