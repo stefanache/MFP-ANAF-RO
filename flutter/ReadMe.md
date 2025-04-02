@@ -19,3 +19,4 @@ Aici o sa adun cateva link-uri privitoare la cadrul-web de dezvoltare [**Flutter
  - [vrSoftTech-flutter-tutorials: Flutter login with PhP+MySQL](https://www.vrsofttech.com/flutter-tutorials/flutter-login-with-php-mysql)
 <br/><a href="https://www.vrsofttech.com/flutter-tutorials/flutter-login-with-php-mysql"><img src="https://www.vrsofttech.com/flutter-tutorials/images/flutter-php-mysql.png">Login-action architectural-flow</img></a>
  - [medium@khatzie: set-up push-notification on Flutter using PhP as server-side script](https://khatzie.medium.com/set-up-push-notification-on-flutter-using-php-as-server-side-script-7c5331d8c942)
+ - [YT@Shajedul Islam Shawon: Flutter PHP MYSQL complete blog app with admin panel part 17. #Notification System](https://www.youtube.com/watch?v=zWu5muHwFIk&ab_channel=ShajedulIslamShawon)
