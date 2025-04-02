@@ -15,3 +15,4 @@ Aici o sa adun cateva link-uri privitoare la cadrul-web de dezvoltare [**Flutter
  - [medium-app-dev-community: Flutter-CRUD-application using PhP-REST-api](https://medium.com/app-dev-community/flutter-crud-application-using-php-rest-api-bb585c4d7d9c)
  - [webslesson-info: Build real-time(RT) chat-application in PhP+MySQL using websocket](https://www.webslesson.info/2021/01/build-real-time-chat-application-in-php-mysql-using-websocket.html)
  - [marketCode-product: Flutter Laravel-PhP + MySQL stripe-multi-restaurant-app with super-admin-webBackend ](https://code.market/product/flutter-laravel-php-mysql-stripe-multi-restaurant-app-with-super-admin-webbackend)
+ - [vrSoftTech-flutter-tutorials: Flutter login with PhP+MySQL](https://www.vrsofttech.com/flutter-tutorials/flutter-login-with-php-mysql)
