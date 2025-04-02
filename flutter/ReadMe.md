@@ -18,3 +18,4 @@ Aici o sa adun cateva link-uri privitoare la cadrul-web de dezvoltare [**Flutter
  - [marketCode-product: Flutter Laravel-PhP + MySQL stripe-multi-restaurant-app with super-admin-webBackend ](https://code.market/product/flutter-laravel-php-mysql-stripe-multi-restaurant-app-with-super-admin-webbackend)
  - [vrSoftTech-flutter-tutorials: Flutter login with PhP+MySQL](https://www.vrsofttech.com/flutter-tutorials/flutter-login-with-php-mysql)
 <br/><a href="https://www.vrsofttech.com/flutter-tutorials/flutter-login-with-php-mysql"><img src="https://www.vrsofttech.com/flutter-tutorials/images/flutter-php-mysql.png">Login-action architectural-flow</img></a>
+ - [medium@khatzie: set-up push-notification on Flutter using PhP as server-side script](https://khatzie.medium.com/set-up-push-notification-on-flutter-using-php-as-server-side-script-7c5331d8c942)
