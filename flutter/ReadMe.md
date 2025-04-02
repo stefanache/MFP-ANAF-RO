@@ -7,3 +7,4 @@ Aici o sa adun cateva link-uri privitoare la cadrul-web de dezvoltare **flutter*
  - [GH-abhishekvirat0: flutter-login usinf PhP+MySQL](https://github.com/abhishekvirat0/Flutter-login-using-mysql-php)
  - [frontend: flutter-register,login and backend:PhP+MySQL](https://github.com/shawondeveloper/php-mysql-flutter-login-register)
  - [YT@Shajedul Islam Shawon: Flutter PHP MySQL model class CRUD. JSON-data with data-model](https://www.youtube.com/watch?app=desktop&v=lJ8d6-lkMF4&ab_channel=ShajedulIslamShawon)
+ - [medium-app-dev-community: Flutter-CRUD-application using PhP-REST-api](https://medium.com/app-dev-community/flutter-crud-application-using-php-rest-api-bb585c4d7d9c)
