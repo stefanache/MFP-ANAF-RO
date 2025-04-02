@@ -22,3 +22,4 @@ Aici o sa adun cateva link-uri privitoare la cadrul-web de dezvoltare [**Flutter
  - [YT@Shajedul Islam Shawon: Flutter PHP MYSQL complete blog app with admin panel part 17. #Notification System](https://www.youtube.com/watch?v=zWu5muHwFIk&ab_channel=ShajedulIslamShawon)
  - [YT-WeBotApp: Design My Orders Screen Of Flutter App (Part 43) | Flutter, PHP, Mysql Tutorial Series](https://www.youtube.com/watch?v=oMJUXndYXik&ab_channel=WeBotApp)
  - [YT-Waelabohamza: 54 - first notification (Flutter & PHP & MYSQL Ecommerce Arabic)](https://www.youtube.com/watch?v=RrTI1S2lTlU&ab_channel=Waelabohamza)
+ - [...](https://chatgpt.com/share/67ecffc7-f558-800b-aaf4-37f3a6fc1d65)
