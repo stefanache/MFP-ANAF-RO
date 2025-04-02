@@ -16,4 +16,4 @@ Aici o sa adun cateva link-uri privitoare la cadrul-web de dezvoltare [**Flutter
  - [webslesson-info: Build real-time(RT) chat-application in PhP+MySQL using websocket](https://www.webslesson.info/2021/01/build-real-time-chat-application-in-php-mysql-using-websocket.html)
  - [marketCode-product: Flutter Laravel-PhP + MySQL stripe-multi-restaurant-app with super-admin-webBackend ](https://code.market/product/flutter-laravel-php-mysql-stripe-multi-restaurant-app-with-super-admin-webbackend)
  - [vrSoftTech-flutter-tutorials: Flutter login with PhP+MySQL](https://www.vrsofttech.com/flutter-tutorials/flutter-login-with-php-mysql)
- - <br/><a href="https://www.vrsofttech.com/flutter-tutorials/flutter-login-with-php-mysql"><img src="https://www.vrsofttech.com/flutter-tutorials/images/flutter-php-mysql.png">Login-action architectural-flow</img></a>
+<br/><a href="https://www.vrsofttech.com/flutter-tutorials/flutter-login-with-php-mysql"><img src="https://www.vrsofttech.com/flutter-tutorials/images/flutter-php-mysql.png">Login-action architectural-flow</img></a>
