@@ -1,6 +1,6 @@
 Salut!
 
-Aici o sa adun cateva link-uri privitoare la cadrul-web de dezvoltare **Flutter**(front-end=UI; componenta principala fiind *widget*-urile: *Material Design*/Google si *Cupertino*/Apple; kit de dezvoltare/constructie-de aplicatii de la ***Google*** si  bazat pe *Dart*, pt.[avand drept scop] rulare[a]/randare[a]/utilizare[a] multi-platforma:  *Fuchsia* , *Android* , *iOS* , *Linux* , *macOS* și *Windows* si care...aplicatii/*widget*-uri-Flutter... manipuleaza[trimite date] *direct pixeli[i/lor]* de pe ecranul/*display*ul-suport/de randare/redare la nivel scazut...redare la nivel de hardware/suprafata de redare):
+Aici o sa adun cateva link-uri privitoare la cadrul-web de dezvoltare **Flutter**(front-end=UI; componenta principala fiind *widget*-urile: *Material Design*/Google si *Cupertino*/Apple; kit de dezvoltare/constructie-de aplicatii de la ***Google*** si  bazat pe *Dart*, pt.[avand drept scop] rulare[a]/randare[a]/utilizare[a] multi-platforma:  *Fuchsia* , *Android* , *iOS* , *Linux* , *macOS* și *Windows* si care...aplicatii/*widget*-uri-Flutter... manipuleaza[trimite date] *direct pixeli[i/lor]* de pe ecranul/*display*ul-suport/de [randare](https://www.roarhitect.ro/dictionar/r/view/randare)/redare la nivel scazut...redare la nivel de hardware/suprafata de redare):
 
  - [wiki-RO: flutter](https://ro.wikipedia.org/wiki/Flutter_(software));  [wiki-en: flutter](https://en.wikipedia.org/wiki/Flutter_(software))
  - [flutter: codeLab](https://docs.flutter.dev/get-started/codelab)
