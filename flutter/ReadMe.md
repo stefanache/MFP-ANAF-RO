@@ -25,4 +25,5 @@ Aici o sa adun cateva link-uri privitoare la cadrul-web de dezvoltare [**Flutter
  - [YT-WeBotApp: Design My Orders Screen Of Flutter App (Part 43) | Flutter, PHP, Mysql Tutorial Series](https://www.youtube.com/watch?v=oMJUXndYXik&ab_channel=WeBotApp)
  - [YT-Waelabohamza: 54 - first notification (Flutter & PHP & MYSQL Ecommerce Arabic)](https://www.youtube.com/watch?v=RrTI1S2lTlU&ab_channel=Waelabohamza)
  - [medium-/billSherley: PhP+MySQL-REST-api for Flutter](https://billsherley.medium.com/php-mysql-rest-api-for-flutter-49341899046d)
+ - [quora-question: Funcționează bine programul când conectăm baza de date Flutter PHP + Mysqli? Ar trebui să folosesc PHP pentru a conecta bazele de date Flutter și Mysql sau ar trebui să folosesc Node.js, Express? Care poate fi mai bun? Este nevoie să vă faceți griji pentru securitate?](https://www.quora.com/Does-the-program-work-well-when-we-connect-the-Flutter-PHP-Mysqli-database-Should-I-use-PHP-to-connect-the-Flutter-and-Mysql-databases-or-should-I-use-Node-js-Express-Which-one-can-be-better-Is-there-a-need-to-worry)
  - [...](https://chatgpt.com/c/67ecff1e-d7a0-800b-b4ab-d7a01108aa66)
