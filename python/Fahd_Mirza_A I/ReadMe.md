@@ -845,6 +845,13 @@ Acest videoclip arată cum să instalați local [AgenticSeek](https://www.youtub
 
 <hr/>
 
+[LLM instrument de conversatie](https://www.youtube.com/watch?v=D6vw-FLGQ-c&ab_channel=FahdMirza)
+<br/>Acest videoclip instalează local această aplicație Python care permite conversații între agenții LLM folosind API-ul**Ollama**. 🔥
+<br/>În acest videoclip, Fahd Mirza prezintă un proiect inovator care utilizează modele în limba(LLM) locală pentru a facilita conversațiile dintre ei. 
+<br/>[Proiectul](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbkc2SlBwbmVtcWJiQXpjekFQeWlNQjJGMmFFQXxBQ3Jtc0tsazhBam5qc0l3MFctU2tSOGxYZTNCMEFzSGVwaEdsQVJKWU5PTW1vdVhmZjZQVW1FVEdsSjR4dzdOck5TT1dmS2pjZGt1S3dIeW1hUHJjbHRubXljMmx5WVk0ZFJmMFpDd0R1UlhZOW9aUzhOZDN0Yw&q=https%3A%2F%2Fgithub.com%2Ffamiu%2Fllm_conversation&v=D6vw-FLGQ-c), conceput ca o aplicație Python ușoară, oferă utilizatorilor posibilitatea de a personaliza interacțiunile prin definirea parametrilor modelului, cum ar fi temperatura și dimensiunea contextului. 
+<br/>Fahd-Mirza demonstrează procesul de configurare, instalarea componentelor necesare și prezintă diverse scenarii conversaționale, subliniind natura jucăușă și interactivă a acestui proiect model de limbaj(LLM) de origine.
+
+<hr/>
 ...
 
 
