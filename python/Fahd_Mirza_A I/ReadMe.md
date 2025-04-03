@@ -816,6 +816,13 @@ Acest videoclip arată cum să instalați local [AgenticSeek](https://www.youtub
 
 <hr/>
 
+[FastCuRL 1.5B: Slow-Thinking Reasoning Model - Install and Test Locally](https://www.youtube.com/watch?v=CIYQzW0NR1U&ab_channel=FahdMirza)
+<br/>In acest videoclip, Fahad MZA prezintă modelul **FastCurl**, un [model de limbaj(LLM)](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbTYwM3RBTDRmV1drZTcwekFRME5QOXc1MXVNUXxBQ3Jtc0tsZUFKT0Y5anVXaHpGRlBmamRETW81T1FuMzNnWVVMY2JoUS0tVjdUcVFiLXdHYzd5YzBBZVhUX19IbGFBSkNNQ3ZGc0lBMVVXMFR1ajk0bHN3WGI3eEE2S0hYdHpvOUZCWXFJcUpWa1JvYWJ5aGlzZw&q=https%3A%2F%2Fhuggingface.co%2FNickyang%2FFastCuRL-1.5B-Preview&v=CIYQzW0NR1U) cu 1,5 miliarde de parametri, reglat-fin(**FT**) cu o abordare nouă cunoscută sub numele de *învățare rapidă de consolidare* a *curriculumului*.
+<br/>Această metodă îmbunătățește abilitățile de raționament ale modelului prin implementarea unui proces de instruire structurat care începe cu sarcini mai ușoare și crește treptat în complexitate. 
+<br/>Videoclipul acoperă procedura de instalare, prezintă performanța modelului la diferite sarcini de raționament și demonstrează modul în care gestionează eficient interogările complexe pas cu pas, deși unele răspunsuri nu sunt complet exacte.
+
+<hr/>
+
 ...
 
 
