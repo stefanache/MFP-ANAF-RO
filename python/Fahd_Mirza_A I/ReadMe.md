@@ -922,6 +922,12 @@ Acest videoclip arată cum să instalați local [AgenticSeek](https://www.youtub
 <br/>Acest videoclip arată cum să instalați local modelul [Qwen2.5](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbDliR1dKVmY4OGxWekVSMWtPS3JfVzNNM0l2Z3xBQ3Jtc0tsYXk3VVBid2xSb3VuX3ZBdmlBQ2dsQktFdDJwZmtaTW9PelBuTk41LXJlUks5MGZGQ1cxOXd6UnRSaGZ5a2ZkNEtsR2EtQnI0OVIydFl4a25YOE9zZEJRUG5mOHp3RU9GNGVrR0UxSzZ6Yll0bjkwZw&q=https%3A%2F%2Fqwenlm.github.io%2Fblog%2Fqwen2.5%2F&v=x97BWsrmjpU), care este cea mai recentă serie de modele Qwen în limbaj mare(LLM). 🔥
 
 <hr/>
+
+[How to Create Your Own Dataset from Scratch with Ollama Locally](https://www.youtube.com/watch?v=Lie8uMoAVec&ab_channel=FahdMirza)
+<br/>Acest videoclip este un [tutorial](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbEtCVDcxLWE3S21xQmNJUkFqdDk0Sko2Z1hSd3xBQ3Jtc0ttOEdrUFFIRHhsYmtNU0tCeDYtWWJBX3VOVnVsRTZyOXVsSXE3bUlVRnZUOGJxV0pYYjU1NlJfOUpvQXdWVi1SX1hUSW5sRGxJS2FJdHJnNjJXVURFSV9BLTZKMElZakZ2b3RhbXBFb1E3czQ2Mm4xaw&q=https%3A%2F%2Fwww.fahdmirza.com%2F2024%2F08%2Ffree-llm-dataset-creation-with-ollama.html&v=Lie8uMoAVec) pas cu pas pentru a crea propriul set de date personalizat din schema bazei de date la nivel local cu modelul gratuit de la Ollama. 🔥
+
+<hr/>
+
 ...
 
 
