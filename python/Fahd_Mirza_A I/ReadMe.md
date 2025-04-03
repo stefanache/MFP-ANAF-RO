@@ -836,6 +836,15 @@ Acest videoclip arată cum să instalați local [AgenticSeek](https://www.youtub
 <br/>Cu aproximativ *3 miliarde(3B) de parametrii*, modelul demonstrează valori impresionante de performanță, evidențiind capacitatea sa de a *codifica* și *compara*(a pune fata in fata) *interogări-textuale* cu *documente-vizuale*.
 
 <hr/>
+
+[Biniou - Generate Text, Video, Image, Music, 3D Locally - Free and Private](https://www.youtube.com/watch?v=7JFU3W045hE&ab_channel=FahdMirza)
+<br/>Acest videoclip arată cum să instalați și să utilizați [Biniou](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbkFncXdyV0txaHhxMDRXLUpWVTVtX2RBMWtfZ3xBQ3Jtc0tsZzRHNXV4MXMwNk5aaGY4VndLTUhsVXZIcUpmb08wQmUwSFVyM2JHN0FqVU12VTJKdHlYQ0RsMGR5VjhGdW5ocmQyUnRjLS03dThTeC1Ddnh4cm5GTXcxUXllVzMxcEVHYmtJU3RJRmE4WjhSRzZSRQ&q=https%3A%2F%2Fgithub.com%2FWoolverine94%2Fbiniou&v=7JFU3W045hE), care este o interfață web all-in-one pentru AI. 
+<br/>În acest videoclip, prezentatorul prezintă „Biniou(a se citi Binu)”, o nouă interfață-web concepută pentru a rula modele mari de limba(LLM-uri) local și offline. 
+<br/>Procesul de instalare pe Linux(nu am incercat... dar probabil ca poate functiona si sub Windows 10/11 sau cel putin/macar sub WSL) este demonstrat, arătând cât de ușor este să configurați și să gestionați diverse instrumente AI generative, inclusiv generarea de text, imagini, video și audio. 
+<br/>Videoclipul evidențiază, de asemenea, caracteristicile ușor de utilizat ale interfeței de utilizare și oferă o privire asupra capacităților de descărcare și generare a modelelor, subliniind versatilitatea și comoditatea acestui sistem auto-găzduit.
+
+<hr/>
+
 ...
 
 
