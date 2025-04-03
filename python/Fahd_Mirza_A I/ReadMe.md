@@ -827,7 +827,7 @@ Acest videoclip arată cum să instalați local [AgenticSeek](https://www.youtub
 [ColNomic Embed Multimodal 3B: Visual Document Retrieval - Install Locally](https://www.youtube.com/watch?v=URwFXlQXzsg&ab_channel=FahdMirza)
 <br/>[**Colnomic-embed-multimodal-3B**](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa0NZcFRaOGM4YWFkaUktOExkbE05NlZxY0FwZ3xBQ3Jtc0ttTXk3SW9iRzBrRFBPQk9WVGZWVkEwSVJFV3Rjdk5qQlZIMXpPTFNHUTByLVNsc041QVlVYXRsZFNaVnhhM2dKX0xVdW9qRnozbENsaG5UNXc0SXByS0trRTAzSFdoQzNzbGJXdkRnVF96aURHQUMyZw&q=https%3A%2F%2Fhuggingface.co%2Fnomic-ai%2Fcolnomic-embed-multimodal-3b&v=URwFXlQXzsg) de la ***Nomic*** este un *model de încorporare multimodal* de ultimă generație cu mai multi *vectori*, care excelează la sarcinile(tasks) de *recuperare vizuală* din/[a] documente[lor]. 🔥
 <br/>În acest videoclip, ***Fahd Mirza*** prezintă modelul **Nomic Embed Multimodal**, un instrument open-source pentru încorporarea *diferitelor* tipuri de date, cum ar fi *text*, *imagini*, *PDF-uri* și *diagrame*. 
-<br/>Videoclipul acoperă procesul de *instalare* pe o mașină locală și arată cum să *utilizați* modelul pentru *recuperarea* eficientă a documentelor vizual-textuale. 
+<br/>Videoclipul acoperă procesul de *instalare* pe o mașină *locală* și arată cum să *utilizați* modelul pentru *recuperarea* eficientă a documentelor vizual-textuale. 
 <br/>Cu aproximativ *3 miliarde(3B) de parametrii*, modelul demonstrează valori impresionante de performanță, evidențiind capacitatea sa de a *codifica* și *compara*(a pune fata in fata) *interogări-textuale* cu *documente-vizuale*.
 
 <hr/>
