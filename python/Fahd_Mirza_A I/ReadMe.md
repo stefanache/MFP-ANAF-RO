@@ -903,6 +903,10 @@ Acest videoclip arată cum să instalați local [AgenticSeek](https://www.youtub
 
 <hr/>
 
+[Nomic Embed Code - A State-of-the-Art Code Retriever - Install Locally](https://www.youtube.com/watch?v=oRHH4Z1M9Bc&ab_channel=FahdMirza)
+<br/>Acest videoclip instalează local [nomic-embed-code](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbFkzSk8zVFRCWEE0ZV9kc05hOTdFU3pYR2FqZ3xBQ3Jtc0tsSWJqVmlqTVBUeHVJem9XWnBDWkFxMjBxWGJ0ZUk4RVJISjF5T1ZfaDVpZGswa19XOXVCR1Y4Q3dxVTFWQkFpc3VuV3N4YkltLWJZUzNnaTRpTmNpY0tVNXNhWjVMbjhRUzMxYnJIT0V6RFBzdXZnUQ&q=https%3A%2F%2Fhuggingface.co%2Fnomic-ai%2Fnomic-embed-code&v=oRHH4Z1M9Bc) este un model de încorporare de cod de ultimă generație, care excelează la sarcinile de recuperare a codului. 🔥
+
+<hr/>
 ...
 
 
