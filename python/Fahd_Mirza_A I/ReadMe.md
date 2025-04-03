@@ -1,4 +1,9 @@
-Va propun sa urmariti [seria](https://www.youtube.com/@fahdmirza/videos) de [episoade](https://github.com/fahdmirza) Youtube([**YT**](https://www.linkedin.com/in/fahdmirza/?originalSubdomain=au)) elaborate de [**Fahd Mirza**](https://www.youtube.com/results?search_query=Fahd+Mirza+AI)([blog](https://www.fahdmirza.com/))
+Salut!
+
+De curand am achizitionat o placa second-hand NVIDIA RTX-4060(8GB) pt a o folosi la studiile de caz AI(placile GPU nu sunt utile numai/doar pt jocuri ...dar iata si pt... a invata!!!).
+<br/>Desi am la dispozitie acest GPU veti intalni tutoriale care nu necesita GPU si pot fi rulate chiar pe CPU(dar cu amendamewntul ca vor dura cel mai probabil mai mult sau mult mai mult timp...(de la caz la caz!).
+
+<br/>Va propun sa urmariti [seria](https://www.youtube.com/@fahdmirza/videos) de [episoade](https://github.com/fahdmirza) Youtube([**YT**](https://www.linkedin.com/in/fahdmirza/?originalSubdomain=au)) elaborate de [**Fahd Mirza**](https://www.youtube.com/results?search_query=Fahd+Mirza+AI)([blog](https://www.fahdmirza.com/))
 
 Mi-a atras(in mod [deosebit](https://huggingface.co/fahdmirzac)( atentia acest proiect [Web LLM Assistant](https://www.youtube.com/watch?v=txflvGG_hIc); 
 
