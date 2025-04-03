@@ -869,6 +869,13 @@ Acest videoclip arată cum să instalați local [AgenticSeek](https://www.youtub
 
 <hr/>
 
+<br/>[How-To Run Private GGUF Models from Hugging Face Hub Directly in Ollama](https://www.youtube.com/watch?v=vkXzeVUvV24&ab_channel=FahdMirza)
+<br/>Acest videoclip oferă o demonstrație pas cu pas despre cum să rulați LLM-uri de tip [GGUF](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbTJpc1IyWmZtR05sZzlnQ25YdjQ2cFlnbXcxUXxBQ3Jtc0trTlUtc2J3VUhxbnNsWlVPemNIb0hDeTA5dGVUYXlPQUNkQUpuWmJ5SXNUc0dBeE4yZWZjbm10NnlQTjJzQndXZ3lnYTg0M1lfZUJ5UEdqNWwwNEdsSkNEemg5aWNNY05fMjJhUnJHZGRRMldfWlhvTQ&q=https%3A%2F%2Fhuggingface.co%2Fdocs%2Fhub%2Fen%2Follama&v=vkXzeVUvV24)-urile private din hub-ul Hugging Face direct în **Ollama**(serverul local de LLM-uri/stocate si ele tot local sau la distanta pe HF). 🔥
+<br/>În acest videoclip, Fahd Mirza ne prezintă **Hugging-Face(HF)**(un binom din internet: hub/depozit+website) și **Ollama**(a se citi AMA si care... se instaleaza ca un server/serviciu local), două platforme pe care le folosim frecvent pentru a lucra cu modele de limbaj mari(**LLM**-uri). 
+<br/>El evidențiază o nouă caracteristică de la **Hugging-Face**, care permite utilizatorilor să ruleze depozite private la nivel local folosind **Ollama**, facilitând gestionarea în siguranță a modelelor de către indivizi și organizații. 
+<br/>Tutorialul ghidează utilizatorii prin crearea unui depozit privat pe **Hugging-Face**, configurarea **cheilor-SSH** pentru conectivitate sigură și demonstrarea cum să ruleze aceste modele private la nivel local(fără a fi nevoie să introduceți parole). 
+
+<hr/>
 ...
 
 
