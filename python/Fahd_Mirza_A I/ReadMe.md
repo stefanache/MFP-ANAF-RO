@@ -1,7 +1,7 @@
 Salut!
 
-De curand am achizitionat o placa second-hand **NVIDIA RTX-4060(8GB de VRAM)** pt a o folosi la studiile de caz AI(placile GPU nu sunt utile numai/doar pt jocuri ...dar iata si pt... a invata!!!).
-<br/>Desi am la dispozitie acest GPU, am intalnit tutoriale care nu necesita in mod obligatoriu GPU...; Aceste cazuri de utilitate(use-case sau show-case)/task-uri pot fi rulate chiar si pe CPU, dar cu amendamentul ca vor dura(cel mai probabil!) mai mult(sau... cu mult mai mult) timp...(de la caz la caz!).
+De curand am achizitionat o placa second-hand **NVIDIA RTX-4060(8GB de VRAM)** pt a o folosi la studiile de caz AI(placile **GPU**, nu sunt utile numai/doar pt jocuri ...dar iata ca pot fi utile si pt... a invata!!!).
+<br/>Desi am la dispozitie acest **GPU**, am intalnit tutoriale care nu necesita in mod obligatoriu *GPU*...; Aceste cazuri de utilitate(use-case sau show-case)/task-uri pot fi rulate chiar si pe **CPU**(unitatea de procesare a oricarui PC: desktop/laptop), dar cu amendamentul ca vor dura(cel mai probabil!) mai mult(sau... cu mult mai mult) timp...(de la caz la caz!).
 
 <br/>Va propun sa urmariti [seria](https://www.youtube.com/@fahdmirza/videos) de [episoade](https://github.com/fahdmirza) Youtube([**YT**](https://www.linkedin.com/in/fahdmirza/?originalSubdomain=au)) elaborate de [**Fahd Mirza**](https://www.youtube.com/results?search_query=Fahd+Mirza+AI)([blog](https://www.fahdmirza.com/))
 
