@@ -907,6 +907,12 @@ Acest videoclip arată cum să instalați local [AgenticSeek](https://www.youtub
 <br/>Acest videoclip instalează local [nomic-embed-code](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbFkzSk8zVFRCWEE0ZV9kc05hOTdFU3pYR2FqZ3xBQ3Jtc0tsSWJqVmlqTVBUeHVJem9XWnBDWkFxMjBxWGJ0ZUk4RVJISjF5T1ZfaDVpZGswa19XOXVCR1Y4Q3dxVTFWQkFpc3VuV3N4YkltLWJZUzNnaTRpTmNpY0tVNXNhWjVMbjhRUzMxYnJIT0V6RFBzdXZnUQ&q=https%3A%2F%2Fhuggingface.co%2Fnomic-ai%2Fnomic-embed-code&v=oRHH4Z1M9Bc) este un model de încorporare de cod de ultimă generație, care excelează la sarcinile de recuperare a codului. 🔥
 
 <hr/>
+
+[Qwen-Agent with Ollama: Plan, Tool-Use, Memory of Qwen - Install Locally](https://www.youtube.com/watch?v=EbxLmxjL8v4&t=245s&ab_channel=FahdMirza)
+<br/>Acest videoclip arată cum să instalați local [Qwen-Agent](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbUc2ZmhISUVoN1dfdzh0c1Q4S1R5Zm1QWnNud3xBQ3Jtc0tsazBTbTJBZWZZaDQxQ2ROajJwUFlnRmVWS1NXRzIzdUVTM3czMzJtV3ppam5mYXN2ejJWVTFRNmtUaVctdmRsdGJTaUhrUExqbGhUN29RZHR4TXI2ODlzdWhmS3ZDUHh3ajBOUWVkdzE4VkZXV3d4Yw&q=https%3A%2F%2Fgithub.com%2FQwenLM%2FQwen-Agent&v=EbxLmxjL8v4), care este un cadru pentru dezvoltarea aplicațiilor LLM bazate pe instrucțiunile care urmează, utilizarea instrumentelor, planificarea și capacitățile de memorie ale Qwen. 🔥
+
+<hr/>
+
 ...
 
 
