@@ -913,6 +913,11 @@ Acest videoclip arată cum să instalați local [AgenticSeek](https://www.youtub
 
 <hr/>
 
+[HUGE - Run Models Directly from Hugging Face with Ollama Locally](https://www.youtube.com/watch?v=6ZCHwKzBd7o&ab_channel=FahdMirza)
+<br/>Acest videoclip oferă o demonstrație pas cu pas despre cum să rulați oricare dintre modelele 45K+ GGUF pe Hugging Face Hub direct cu Ollama. 🚀
+
+<hr/>
+
 ...
 
 
