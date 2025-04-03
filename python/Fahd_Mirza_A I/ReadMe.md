@@ -879,7 +879,7 @@ Acest videoclip arată cum să instalați local [AgenticSeek](https://www.youtub
 
 [PyMuPDF and PyMuPDF4LLM - Prepare PDF for LLM and RAG - Install Locally](https://www.youtube.com/watch?v=xR7er853eek&ab_channel=FahdMirza)
 <br/>[Ce este PyMuPDF și PyMuPDF4LLM?](https://github.com/pymupdf/PyMuPDF)
-<br/>Acest videoclip arată cum să instalați local [PyMuPDF4LLM](https://github.com/pymupdf/PyMuPDF) pentru a facilita extragerea conținutului PDF în formatul de care aveți nevoie pentru LLM și RAG. 🔥
+<br/>Acest videoclip arată cum să instalați local, [PyMuPDF4LLM](https://github.com/pymupdf/PyMuPDF), pentru a facilita extragerea conținutului PDF în formatul de care aveți nevoie pentru LLM și RAG. 🔥
 
 <hr/>
 
