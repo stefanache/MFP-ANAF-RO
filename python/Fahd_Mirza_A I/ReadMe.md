@@ -928,6 +928,10 @@ Acest videoclip arată cum să instalați local [AgenticSeek](https://www.youtub
 
 <hr/>
 
+[Docling - IBM Library to Make Documents AI Ready - Install and Test Locally](https://www.youtube.com/watch?v=9gDJ6PhvVck&ab_channel=FahdMirza)
+<br/>Acest videoclip arată cum să instalați IBM [Docling](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbVkyaVJrWlM3OGtoNENXVUhWLXVxcnVOajQzUXxBQ3Jtc0tsT18yRmZIZmc5bmRmb1o4V0hwUzRoREFodXJkcl85eGtFV29RNFkzSGpYRkFTM0Z6Uk5Cb1RsUUViQk5OMWNoa2xwNEFacV9aNG5XMDd6VmJSdUdSOW9HLVBPbVZIUTlWc2tSMk5XaUJsbmtMSEpSQQ&q=https%3A%2F%2Fgithub.com%2FDS4SD%2Fdocling&v=9gDJ6PhvVck) local, care citește formate de documente populare (PDF, DOCX, PPTX, Imagini, HTML, AsciiDoc, Markdown) și exportă în Markdown și JSON. 🚀 
+
+<hr/>
 ...
 
 
