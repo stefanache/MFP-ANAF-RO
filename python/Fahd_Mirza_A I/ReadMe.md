@@ -893,6 +893,11 @@ Acest videoclip arată cum să instalați local [AgenticSeek](https://www.youtub
 
 <hr/>
 
+[Clone Your Own Voice Locally with Orpheus TTS - Step-by-Step Easy Guide](https://www.youtube.com/watch?v=c6r0g9NTXIQ&ab_channel=FahdMirza)
+<br/>Acest videoclip prezintă un tutorial practic pas cu pas pentru a-ți clona vocea dintr-un eșantion audio existent utilizând modelul [Orpheus TTS](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbUZCY0g2cmxIQnhUdk1ra1dZMkFEeTdzcmxvd3xBQ3Jtc0ttMUZoa2xsWUc1cHVDM21WMWNsTjVudGkzcnZRVkxNRnhmLVQxNzhCelVzV2NQeU12SXppUHFqQVcweDJnOE84amU2RVUtalhGVXBxY1hTbUE0RjItVXJWUW0wQTQzN0NCa3N1OU84Rng2dDVLQ1R1Yw&q=https%3A%2F%2Fhuggingface.co%2Fcanopylabs%2Forpheus-3b-0.1-pretrained&v=c6r0g9NTXIQ). 🔥
+
+<hr/>
+
 ...
 
 
