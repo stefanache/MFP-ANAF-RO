@@ -5,7 +5,7 @@ De curand am achizitionat o placa second-hand **NVIDIA RTX-4060(8GB de VRAM)** p
 
 <br/>Va propun sa urmariti [seria](https://www.youtube.com/@fahdmirza/videos) de [episoade](https://github.com/fahdmirza) Youtube([**YT**](https://www.linkedin.com/in/fahdmirza/?originalSubdomain=au)) elaborate de [**Fahd Mirza**](https://www.youtube.com/results?search_query=Fahd+Mirza+AI)([blog](https://www.fahdmirza.com/))
 
-<Multumiri domnului [**Fahd-Mirza**](https://stackoverflow.com/questions/41112946/get-all-videos-for-a-given-user)!
+*Multumiri domnului [**Fahd-Mirza**](https://stackoverflow.com/questions/41112946/get-all-videos-for-a-given-user)!*
 
 Mi-a atras(in mod [deosebit](https://huggingface.co/fahdmirzac)( atentia acest proiect [Web LLM Assistant](https://www.youtube.com/watch?v=txflvGG_hIc); 
 
