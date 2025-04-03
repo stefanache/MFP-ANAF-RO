@@ -918,6 +918,10 @@ Acest videoclip arată cum să instalați local [AgenticSeek](https://www.youtub
 
 <hr/>
 
+[Qwen2.5 - Party of LLMs - Install and Test Locally](https://www.youtube.com/watch?v=x97BWsrmjpU&ab_channel=FahdMirza)
+<br/>Acest videoclip arată cum să instalați local modelul [Qwen2.5](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbDliR1dKVmY4OGxWekVSMWtPS3JfVzNNM0l2Z3xBQ3Jtc0tsYXk3VVBid2xSb3VuX3ZBdmlBQ2dsQktFdDJwZmtaTW9PelBuTk41LXJlUks5MGZGQ1cxOXd6UnRSaGZ5a2ZkNEtsR2EtQnI0OVIydFl4a25YOE9zZEJRUG5mOHp3RU9GNGVrR0UxSzZ6Yll0bjkwZw&q=https%3A%2F%2Fqwenlm.github.io%2Fblog%2Fqwen2.5%2F&v=x97BWsrmjpU), care este cea mai recentă serie de modele Qwen în limbaj mare(LLM). 🔥
+
+<hr/>
 ...
 
 
