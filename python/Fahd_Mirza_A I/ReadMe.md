@@ -854,9 +854,10 @@ Acest videoclip arată cum să instalați local [AgenticSeek](https://www.youtub
 <hr/>
 
 [GitDiagram - Free, Simple, Fast Interactive Diagrams for Any GitHub Repo - Install Locally](https://www.youtube.com/watch?v=tHHRDZtBTCQ&ab_channel=FahdMirza)
-<br/>Acest videoclip instalează [GitDiagram](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbG1aelN6M1I1MmV5YjZ1OEtqY0V1TjNIU01IQXxBQ3Jtc0ttQVZNeG8xTEI2YWc0MmZldXNERXc1Mkl0bF9BMjFINVIyOFZZcHUybHBENFA0RmFyRnItbFYyQjZVb2p0N1dxQ2stYlpQSlcxbWZvUHlPZWYwNjV0aWdYY3ZRdzZmNjc4X3NGWnB1N2ZZYklvTENwcw&q=https%3A%2F%2Fgithub.com%2Fahmedkhaleel2004%2Fgitdiagram&v=tHHRDZtBTCQ), care vă permite să transformați orice depozit GitHub într-o diagramă-interactivă pentru vizualizare în câteva secunde. 🔥
-<br/>În acest videoclip, Fahd-MIRZA demonstrează un proiect care convertește orice depozit GitHub într-o diagramă de arhitectură interactivă pentru vizualizare. <br/>Acest instrument rulează pe modele-API de la OpenAI și Anthropic și permite utilizatorilor să navigheze direct prin diferite componente ale unui repo. <br/>Procesul de instalare este, de asemenea, detaliat, inclusiv cerințele preliminare necesare, cum ar fi Node.js, Docker și configurarea cheilor-API. 
-<br/>Fahd-MIRZA evidențiază mai multe caracteristici ale instrumentului, inclusiv capacitatea de a vizualiza structuri complexe de tip repo/raport și de a aborda unele dintre erorile întâlnite în timpul utilizării.
+<br/>Acest videoclip instalează [GitDiagram](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbG1aelN6M1I1MmV5YjZ1OEtqY0V1TjNIU01IQXxBQ3Jtc0ttQVZNeG8xTEI2YWc0MmZldXNERXc1Mkl0bF9BMjFINVIyOFZZcHUybHBENFA0RmFyRnItbFYyQjZVb2p0N1dxQ2stYlpQSlcxbWZvUHlPZWYwNjV0aWdYY3ZRdzZmNjc4X3NGWnB1N2ZZYklvTENwcw&q=https%3A%2F%2Fgithub.com%2Fahmedkhaleel2004%2Fgitdiagram&v=tHHRDZtBTCQ), care vă permite să transformați orice depozit-GitHub(repository/repo) într-o diagramă-interactivă pentru vizualizare în câteva secunde. 🔥
+<br/>În acest videoclip, ***Fahd-MIRZA*** prezintă un proiect care convertește orice depozit-GitHub într-o diagramă de arhitectură-interactivă pentru vizualizare. <br/>Acest instrument rulează pe modele-API de la ***OpenAI*** și ***Anthropic*** și permite utilizatorilor să navigheze direct prin diferite componente ale unui repo[sitory]. 
+<br/>Procesul de instalare este, de asemenea, detaliat, inclusiv cerințele preliminare necesare, cum ar fi **NodeJS**, **Docker** și configurarea *cheilor-API*. 
+<br/>Domnul ***Fahd-MIRZA*** evidențiază mai multe caracteristici ale instrumentului, inclusiv capacitatea de a vizualiza structuri complexe de tip repo[sitory] și de a aborda unele dintre erorile întâlnite în timpul utilizării.
 
 <hr/>
 
