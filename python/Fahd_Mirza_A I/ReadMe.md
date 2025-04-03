@@ -898,6 +898,11 @@ Acest videoclip arată cum să instalați local [AgenticSeek](https://www.youtub
 
 <hr/>
 
+[Run Gemma 3 12B Vision Model on CPU Locally - Easiest Tutorial](https://www.youtube.com/watch?v=ZGtAoFteslM&ab_channel=FahdMirza)
+<br/>Acest videoclip este un tutorial simplu pas cu pas pentru a instala și rula modelul [Gemma-3 12B](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbjhuZkZ6U3lQczNsVEw4eHlGZmR0V1lJMDFQUXxBQ3Jtc0tuUkxycXBVTWs2N2Z4aXh0UHpzU1NsZC0zUnBZMm00dEhxVXhQa2U2YUhPbXc2UDg4Q0ttYUVHZG5hNmFBaVo0TkZNZmJGbnAxcGRGY2dUdXlYN2U5UkJjQWx4OF9jQmE0dW9icXNUMHRiblhlcEk3RQ&q=https%3A%2F%2Fhuggingface.co%2Fggml-org&v=ZGtAoFteslM) cu **llama.cpp** în format **gguf**. 🔥 
+
+<hr/>
+
 ...
 
 
