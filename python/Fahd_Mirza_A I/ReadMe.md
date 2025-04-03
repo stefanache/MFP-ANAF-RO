@@ -885,9 +885,14 @@ Acest videoclip arată cum să instalați local [AgenticSeek](https://www.youtub
 
 [Create a Swarm of AI Agents Easily with LLMs](https://www.youtube.com/watch?v=qyFFcfAmOSY&ab_channel=FahdMirza)
 <br/>Acest [videoclip](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbmV4eHRHYTBUb3NuS0haTmM5ODNiaFNhWUV1QXxBQ3Jtc0tsQUgtTktJaXVHdnZya0EzQ0Q0VWdYWk9FMU8zY2NXb1QwX25rN2R2RVhkQlc2UzNZOGlTTWxfTk9GTW1ULVdON0tBdl9waTJaY21WY1NURG5PV3NqMDAzRlhOMGZQMGttTnloakotQzhza0g3RmgzNA&q=https%3A%2F%2Fcolab.research.google.com%2Fgithub%2Fdeepset-ai%2Fhaystack-cookbook%2Fblob%2Fmain%2Fnotebooks%2Fswarm.ipynb&v=qyFFcfAmOSY) arată cum să creați cu ușurință un roi/swarm de agenți AI cu Haystack, OpenAI și Anthropic în colaborarea Google. 🔥
-<br/>
 
 <hr/>
+
+[Google Gemma-3 27B - Top Class Multimodal Model - Install Locally](https://www.youtube.com/watch?v=noN0txjM51Q&ab_channel=FahdMirza)
+<br/>Acest videoclip instalează local modelul [Gemma 3](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbk9SZVFHQ0lDZVNyekdVQkxMeml5LXZKV3BzQXxBQ3Jtc0tuVlpaU01PS0xmcUFCUUlBRjhyX0pnXzhBcTJvRGdDdlJ6LXI5ZWU5a1NScHRMTlpxSFBfZkR3ZEVqOE9VRHJMTXRwWXMyZFN6S1BFZ1pHbHZWMmc3LTN5YnQyb0xDdE9WcUhsNG1xLUNfMWhyMTdSSQ&q=https%3A%2F%2Fhuggingface.co%2Fgoogle%2Fgemma-3-27b-it&v=noN0txjM51Q), care este multimodal, gestionând introducerea textului și a imaginii și generând text în 144 de limbi. 
+
+<hr/>
+
 ...
 
 
