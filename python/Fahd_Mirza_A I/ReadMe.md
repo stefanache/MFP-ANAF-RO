@@ -883,6 +883,11 @@ Acest videoclip arată cum să instalați local [AgenticSeek](https://www.youtub
 
 <hr/>
 
+[Create a Swarm of AI Agents Easily with LLMs](https://www.youtube.com/watch?v=qyFFcfAmOSY&ab_channel=FahdMirza)
+<br/>Acest [videoclip](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbmV4eHRHYTBUb3NuS0haTmM5ODNiaFNhWUV1QXxBQ3Jtc0tsQUgtTktJaXVHdnZya0EzQ0Q0VWdYWk9FMU8zY2NXb1QwX25rN2R2RVhkQlc2UzNZOGlTTWxfTk9GTW1ULVdON0tBdl9waTJaY21WY1NURG5PV3NqMDAzRlhOMGZQMGttTnloakotQzhza0g3RmgzNA&q=https%3A%2F%2Fcolab.research.google.com%2Fgithub%2Fdeepset-ai%2Fhaystack-cookbook%2Fblob%2Fmain%2Fnotebooks%2Fswarm.ipynb&v=qyFFcfAmOSY) arată cum să creați cu ușurință un roi/swarm de agenți AI cu Haystack, OpenAI și Anthropic în colaborarea Google. 🔥
+<br/>
+
+<hr/>
 ...
 
 
