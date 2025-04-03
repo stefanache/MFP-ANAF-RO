@@ -861,6 +861,14 @@ Acest videoclip arată cum să instalați local [AgenticSeek](https://www.youtub
 
 <hr/>
 
+[GemmaX2 9B - LLM-based Translation Model - Install Locally](https://www.youtube.com/watch?v=7qsosU4PcdE&ab_channel=FahdMirza)
+<br/>Acest videoclip instalează local [GemmaX2-28-9B-v0.1](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbjdqOG1IaG5KUEUtWmhkcjRZYnpwQ0pXN3Y3QXxBQ3Jtc0tuUkc5cVpsX1RGOTJGZWJGQ2N4ckQxZ19kSFI5T2x5dmJFc3BmZGZyZ1dMRWZvYXloeEF2OU83YkFDZmdlcDJJRVFkU29hNkpVZTVzVGxwNlBUZHJKNm12eGZzRmw1ei1YREJ0b1Z1TlF3ZzVBWWtuQQ&q=https%3A%2F%2Fhuggingface.co%2FModelSpace%2FGemmaX2-28-9B-v0.1&v=7qsosU4PcdE), care este un model de traducere bazat pe LLM care acceptă 28 de limbi. 🔥
+<br/>În acest videoclip, d-nul Fahd-Mirza explorează **GemmaX2**, un model de limbă(LLM) conceput special pentru ***traducerea multilingvă***, care cuprinde două variante de 2 miliarde(2B) și 9 miliarde(9B) de parametri. 
+<br/>Modelul utilizează o strategie unică de amestecare a datelor, cunoscută sub numele de **PFMS** (în primul rând paralel, in al doilea rand mono-lingv) pentru o instruire îmbunătățită în 28 de limbi(naturale). 
+<br/>Domnul Fahd prezintă instalarea modelului, demonstrează capacitățile sale de traducere și compară performanța acestuia cu alte modele, subliniind că, deși funcționează bine pentru modele mai mici, <ins>nu se potrivește</ins> cu cele mai înalte modele, cum ar fi ***GPT-4.5***.
+
+<hr/>
+
 ...
 
 
