@@ -96,6 +96,7 @@ In aceasta sectiune ne vom ocupa de [**FastAPI**](https://fastapi.tiangolo.com/)
     
   - [deadBear.io" easy **FastAPI**-setUp](https://www.deadbear.io/easy-fastapi-setup/)
   - [medium@upesh.jindal: SSE with **FastAPI**](https://medium.com/@upesh.jindal/server-sent-events-with-fastapi-ab9ed99ccac4)
+  - [devOps-blog: Implementing Server-Sent-Events(SSE) with FastAPI +Nginx and CloudFlare(CF)](https://blog.devops.dev/implementing-server-sent-events-with-fastapi-nginx-and-cloudflare-10ede1dffc18)
   - [medium@nandagopal05: SSE with py-**FastAPI**](https://medium.com/@nandagopal05/server-sent-events-with-python-fastapi-f1960e0c8e4b)
   - [CF-blog: How we built it -  the technology(see **FastAPI**) behind CF Radar 2.0 Web-App](https://blog.cloudflare.com/technology-behind-radar2/)
   - [VScode: python tutorial **FastAPI**](https://code.visualstudio.com/docs/python/tutorial-fastapi)
