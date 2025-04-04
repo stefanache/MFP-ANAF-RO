@@ -52,6 +52,7 @@ In aceasta sectiune ne vom ocupa de [**FastAPI**](https://fastapi.tiangolo.com/)
  - [geeks4geeks: install **FastAPI** and run your first **FastAPI**-server on Windows](https://www.geeksforgeeks.org/install-fastapi-and-run-your-first-fastapi-server-on-windows/):
 
 <details>
+ 
  <summary><b>Question:</b> How really install and run FastAPI(ASGI-server) under Windows?</summary>
  
    <br> *Q*uestion: *How really install and run **FastAPI**(ASGI-server) under Windows?*
@@ -74,7 +75,7 @@ In aceasta sectiune ne vom ocupa de [**FastAPI**](https://fastapi.tiangolo.com/)
     - finally, refresh the Chrome-browser(***if need!***):  **http://127.0.0.1:8000**  or [**CTRL+click**](https://www.google.com/search?q=python+fastapi+asgi+uvicorn&sca_esv=494e1c439a30236c&rlz=1C1CHBF_enRO1132RO1132&udm=2&biw=1920&bih=911&fbs=ABzOT_BYhiZpMrUAF0c9tORwPGlsodhGu4F1UEhEeTehlBu7020oMQ7aBpF-aNynCVlndtbfCZRhMFm3EMvvoT1HX4IciFaWA5nwCzTGM3J5Ops_Xs3Qsyy25b7oXKA6pwLn7v3BVIeFZNT4VQLrCm95iJdb7dujTNJ5GnMNaNfzjPvAKt0ZRu9K2iZ-Q6AMCXqjDwXwmZXdWHAjlIOmWPqCQX83g_bDPg&sxsrf=AHTn8zqFyWp9Uzf2gwsRAiWQr4r-78falQ%3A1743265069160&ei=LR3oZ4G5Cc6Qxc8P6KylkA0&ved=0ahUKEwjBg8m52K-MAxVOSPEDHWhWCdIQ4dUDCBE&uact=5&oq=python+fastapi+asgi+uvicorn&gs_lp=EgNpbWciG3B5dGhvbiBmYXN0YXBpIGFzZ2kgdXZpY29ybkirHlC1C1iUGnABeACQAQCYAX2gAa8GqgEDMC43uAEDyAEA-AEBmAIAoAIAmAMAiAYBkgcAoAe7Ag&sclient=img) on it/this link from/in above after-running-message!
     <br/><br/>***Note***: alternatively, for running the **ASGI**-webserver, you can download the files ***main.py*** and ***_RUN.bat*** and then, run that second file(***_RUN.bat***) under *command-prompt(CLI-shell)*! <br/>
 
-    </details>
+</details>
     
  - [testDriven: **FastAPI**-***GraphQL***](https://testdriven.io/blog/fastapi-graphql/)
  - [getOrchestra: **FastAPI** with uvicorn -a comprehensive tutorial](https://www.getorchestra.io/guides/fastapi-with-uvicorn-a-comprehensive-tutorial); [uvicorn: deployment](https://www.uvicorn.org/deployment/)
