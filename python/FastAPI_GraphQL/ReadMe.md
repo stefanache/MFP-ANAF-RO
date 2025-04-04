@@ -2,7 +2,7 @@
 
 As dori sa incercam sa intelegem urmatoarea [poveste](https://github.com/natthasath/demo-python-fastapi-uvicorn): [Preparing FastAPI for Production: A Comprehensive Guide](https://medium.com/@ramanbazhanau/preparing-fastapi-for-production-a-comprehensive-guide-d167e693aa2b)
 
-Pentru inceput, hai sa privim imaginea urmatoare(care descrie o arhitectura-FastAPI reala/de productie):
+Pentru inceput, hai sa privim imaginea urmatoare(care descrie o arhitectura-**FastAPI** reala/de productie):
 
 <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40ramanbazhanau%2Fpreparing-fastapi-for-production-a-comprehensive-guide-d167e693aa2b&psig=AOvVaw0hvbabf5cs3c0U36SjPkor&ust=1743351507867000&source=images&cd=vfe&opi=89978449&ved=0CBgQjhxqFwoTCMDsxc_Yr4wDFQAAAAAdAAAAABBL"><img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*CY5GdTAj1xz85qKz3PRjDg.png"></img></a>
 
@@ -34,16 +34,16 @@ Ratiunea existentei acestuia in aceasta arhitectura(expusa mai sus) este acea de
 
 In aceasta sectiune ne vom ocupa de [**FastAPI**](https://fastapi.tiangolo.com/) si [**GraphQL**](https://graphql.org/) si voi expune cateva [link](https://www.google.com/search?q=FastAPI+GraphQL&sca_esv=7bada7996407e364&rlz=1C1CHBF_enRO1132RO1132&sxsrf=AHTn8zpMdy_igG3Q1yx_vq9RrAQpc5Yplg%3A1743252620260&ei=jOznZ4fLD7yHxc8Ppva_-Q8&ved=0ahUKEwiHwbyJqq-MAxW8Q_EDHSb7L_8Q4dUDCBA&uact=5&oq=FastAPI+GraphQL&gs_lp=Egxnd3Mtd2l6LXNlcnAiD0Zhc3RBUEkgR3JhcGhRTDIKECMYgAQYJxiKBTIGEAAYBxgeMgYQABgHGB4yCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyBBAAGB4yBhAAGAoYHjIEEAAYHjIEEAAYHki-HVAAWJcUcAB4AZABAJgBkgGgAYMIqgEDMC44uAEDyAEA-AEBmAIIoAKbCMICBxAjGLACGCfCAgcQABiABBgNwgIIEAAYBxgKGB7CAggQABgTGAcYHsICChAAGBMYBxgKGB6YAwCSBwMwLjigB9Q3&sclient=gws-wiz-serp)-uri, legate de aceste 2 subiecte, pe care le-am [intalnit](https://fastapi.tiangolo.com/how-to/graphql/) si le-am considerat [interesante](https://medium.com/@ryk.kiel/graphql-and-fastapi-the-ultimate-combination-for-building-apis-with-python-f4391bf5505c):
 
- - [geeks4geeks: FastAPI using GraphQL](https://www.geeksforgeeks.org/fastapi-using-graphql/); [uvicorn](https://www.uvicorn.org/); [reddit: uvicorn rol](https://www.reddit.com/r/Python/comments/74rsi8/noob_question_what_is_the_role_of_uvloopuvicorn/?tl=ro); [reddit: FastAPI/uvicorn eroare](https://www.reddit.com/r/html5/comments/14n68fc/im_trying_to_access_an_api_i_built_with_python/?tl=ro)
+ - [geeks4geeks: **FastAPI** using ***GraphQL***](https://www.geeksforgeeks.org/fastapi-using-graphql/); [uvicorn](https://www.uvicorn.org/); [reddit: uvicorn rol](https://www.reddit.com/r/Python/comments/74rsi8/noob_question_what_is_the_role_of_uvloopuvicorn/?tl=ro); [reddit: FastAPI/uvicorn eroare](https://www.reddit.com/r/html5/comments/14n68fc/im_trying_to_access_an_api_i_built_with_python/?tl=ro)
    <br/>*Atentie*: In codul-Python, inlocuiti string-ul HTML ***&quot;***(*specific HTML!*) cu caracterul **"**, in toate aparitiile sale din sursele-scripturilor-Python!
- - [geeks4geeks: FastAPI+uvicorn](https://www.geeksforgeeks.org/fastapi-uvicorn/)(*UVICORN*, **ASGI** vs. ***WSGI***)
+ - [geeks4geeks: **FastAPI**+uvicorn](https://www.geeksforgeeks.org/fastapi-uvicorn/)(*UVICORN*, **ASGI** vs. ***WSGI***)
    <br/>compare: [**ASGI**](https://derlin.github.io/introduction-to-fastapi-and-celery/02-fastapi/) vs. ***WSGI*** :<br/>
-**ASGI** reprezintă un progres semnificativ față de ***WSGI***(Web Server Gateway Interface). <br/>În timp ce ***WSGI*** este conceput pentru aplicații unice, sincrone, care gestionează o solicitare și returnează un răspuns, nu acceptă conexiuni de lungă durată, cum ar fi conexiunile WebSocket. <br/>În schimb, **ASGI** este asincron și acceptă trei argumente:
+**ASGI** reprezintă un progres semnificativ față de ***WSGI***(Web Server Gateway Interface). <br/>În timp ce ***WSGI*** este conceput pentru aplicații unice, sincrone, care gestionează o solicitare și returnează un răspuns, nu acceptă conexiuni de lungă durată, cum ar fi conexiunile WebSocket(WS). <br/>În schimb, **ASGI** este asincron și acceptă trei argumente:
 <br/>*Domeniu de aplicare* : un dicționar Python care conține detalii despre conexiunea specifică.
 <br/>*Trimitere* : Permite aplicației să trimită mesaje de eveniment către client.
 <br/>*Primire* : Permite aplicației să primească mesaje de eveniment de la client.
 <br/>**ASGI** permite mai multe evenimente de intrare și de ieșire pentru fiecare aplicație simultan, permițând aplicației să rămână receptivă la intrarea utilizatorului în timp ce rutinele de fundal(background) rulează.<br/>
- - [geeks4geeks: install FastAPI and run your first FastAPI-server on Windows](https://www.geeksforgeeks.org/install-fastapi-and-run-your-first-fastapi-server-on-windows/):
+ - [geeks4geeks: install **FastAPI** and run your first **FastAPI**-server on Windows](https://www.geeksforgeeks.org/install-fastapi-and-run-your-first-fastapi-server-on-windows/):
    <br> *Q*uestion: *How really install and run **FastAPI**(ASGI-server) under Windows?*
    <br/>*A*nswer:
     - open powershell(PS): *C:\Users\{your_user}>* **powershell**
@@ -63,40 +63,41 @@ In aceasta sectiune ne vom ocupa de [**FastAPI**](https://fastapi.tiangolo.com/)
     - run main with command: *C:\Users\{your_user}>* **python -m uvicorn main:app --reload**
     - finally, refresh the Chrome-browser(***if need!***):  **http://127.0.0.1:8000**  or [**CTRL+click**](https://www.google.com/search?q=python+fastapi+asgi+uvicorn&sca_esv=494e1c439a30236c&rlz=1C1CHBF_enRO1132RO1132&udm=2&biw=1920&bih=911&fbs=ABzOT_BYhiZpMrUAF0c9tORwPGlsodhGu4F1UEhEeTehlBu7020oMQ7aBpF-aNynCVlndtbfCZRhMFm3EMvvoT1HX4IciFaWA5nwCzTGM3J5Ops_Xs3Qsyy25b7oXKA6pwLn7v3BVIeFZNT4VQLrCm95iJdb7dujTNJ5GnMNaNfzjPvAKt0ZRu9K2iZ-Q6AMCXqjDwXwmZXdWHAjlIOmWPqCQX83g_bDPg&sxsrf=AHTn8zqFyWp9Uzf2gwsRAiWQr4r-78falQ%3A1743265069160&ei=LR3oZ4G5Cc6Qxc8P6KylkA0&ved=0ahUKEwjBg8m52K-MAxVOSPEDHWhWCdIQ4dUDCBE&uact=5&oq=python+fastapi+asgi+uvicorn&gs_lp=EgNpbWciG3B5dGhvbiBmYXN0YXBpIGFzZ2kgdXZpY29ybkirHlC1C1iUGnABeACQAQCYAX2gAa8GqgEDMC43uAEDyAEA-AEBmAIAoAIAmAMAiAYBkgcAoAe7Ag&sclient=img) on it/this link from/in above after-running-message!
     <br/><br/>***Note***: alternatively, for running the **ASGI**-webserver, you can download the files ***main.py*** and ***_RUN.bat*** and then, run that second file(***_RUN.bat***) under *command-prompt(CLI-shell)*! <br/>
- - [testDriven: FastAPI-GraphQL](https://testdriven.io/blog/fastapi-graphql/)
- - [getOrchestra: FastAPI with uvicorn -a comprehensive tutorial](https://www.getorchestra.io/guides/fastapi-with-uvicorn-a-comprehensive-tutorial); [uvicorn: deployment](https://www.uvicorn.org/deployment/)
- - [redDit: FastAPI+uvicorn on Windows](https://www.reddit.com/r/learnpython/comments/15yf538/fastapiuvicorn_on_windows/); [ChatGPT: from PowerShell(ps) you can call the **uvicorn** to run the ***main.py*** file](https://chatgpt.com/share/67e7f89e-ae6c-800b-b88b-72e03ea14582)
- - [tiangolo: FastAPI deployment-concepts](https://fastapi.tiangolo.com/deployment/concepts/)
- - [stackOverflow: FastAPI Gunicorn-Uvicorn for(4) production-deployment with Google-Cloud-Run(GCR) stress](https://stackoverflow.com/questions/66254371/fastapi-gunicorn-uvicorn-for-production-deployment-with-google-cloud-run-stress)
- - [GH-hamedasgari20: Python Django FastAPI - advanced topics](https://github.com/hamedasgari20/Python-Django-FastAPI-advanced-topics); [ex. ChatGPT](https://chatgpt.com/share/67e91cfd-e6f0-800b-8e47-fe6c4af9402f); [tailWindCSS](https://tailwindcss.com/docs/hover-focus-and-other-states); [Django: dynamic-filter](https://www.youtube.com/watch?v=n1_MQiSXyxw&ab_channel=JustDjango); [Django with uvicorn](https://docs.djangoproject.com/en/5.1/howto/deployment/asgi/uvicorn/); [djangoProject-docs-deployment-ASGI: Flask vs. Django vs. FastAPI](https://docs.djangoproject.com/en/5.1/howto/deployment/asgi/uvicorn/)
+ - [testDriven: **FastAPI**-***GraphQL***](https://testdriven.io/blog/fastapi-graphql/)
+ - [getOrchestra: **FastAPI** with uvicorn -a comprehensive tutorial](https://www.getorchestra.io/guides/fastapi-with-uvicorn-a-comprehensive-tutorial); [uvicorn: deployment](https://www.uvicorn.org/deployment/)
+ - [redDit: **FastAPI**+uvicorn on Windows](https://www.reddit.com/r/learnpython/comments/15yf538/fastapiuvicorn_on_windows/); [ChatGPT: from PowerShell(ps) you can call the **uvicorn** to run the ***main.py*** file](https://chatgpt.com/share/67e7f89e-ae6c-800b-b88b-72e03ea14582)
+ - [tiangolo: **FastAPI** deployment-concepts](https://fastapi.tiangolo.com/deployment/concepts/)
+ - [stackOverflow: **FastAPI** Gunicorn-Uvicorn for(4) production-deployment with Google-Cloud-Run(GCR) stress](https://stackoverflow.com/questions/66254371/fastapi-gunicorn-uvicorn-for-production-deployment-with-google-cloud-run-stress)
+ - [GH-hamedasgari20: Python Django **FastAPI** - advanced topics](https://github.com/hamedasgari20/Python-Django-FastAPI-advanced-topics); [ex. ChatGPT](https://chatgpt.com/share/67e91cfd-e6f0-800b-8e47-fe6c4af9402f); [tailWindCSS](https://tailwindcss.com/docs/hover-focus-and-other-states); [Django: dynamic-filter](https://www.youtube.com/watch?v=n1_MQiSXyxw&ab_channel=JustDjango); [Django with uvicorn](https://docs.djangoproject.com/en/5.1/howto/deployment/asgi/uvicorn/); [djangoProject-docs-deployment-ASGI: Flask vs. Django vs. **FastAPI**](https://docs.djangoproject.com/en/5.1/howto/deployment/asgi/uvicorn/)
  - [dev.to-akarshan: converting any Python web-framework to FastAPI a comprehensive-guide](https://dev.to/akarshan/converting-any-python-web-framework-to-fastapi-a-comprehensive-guide-291b)
- - [Dockerizing FastAPI with Postgres, Uvicorn, and Traefik](https://testdriven.io/blog/fastapi-docker-traefik/)
+ - [Dockerizing **FastAPI** with Postgres, Uvicorn, and Traefik](https://testdriven.io/blog/fastapi-docker-traefik/)
  - [Uvicorn & Gunicorn](https://mirror.xyz/0xA1d9f681B25C14C1eE7B87f1CF102E73cA3ad4d9/n0BdWSd_GdP_Vfeped02zBcNV5XbzITThILlRditoPk)
- - [whitePrompt-blog: Python APIs with FastAPI key-features and CRUD-example](https://blog.whiteprompt.com/python-apis-with-fastapi-key-features-and-crud-example-198a7530e368)
- - [daddYnKidsMaker-blogspot: FastAPI Open-API](https://daddynkidsmakers.blogspot.com/2024/04/fastapi-open-api.html)
-   <br/>Acest articol ["FastAPI bigData-server example"](https://github.com/mac999/fastapi_bigdata_server_example/tree/main) prezintă cum să dezvoltați cu ușurință un server [Open-API](https://en.wikipedia.org/wiki/Open_API) bazat pe FastAPI, Uvicorn și Websocket.
-   <br/>Folosind FastAPI, puteți dezvolta un server [Open-API](https://en.wikipedia.org/wiki/OpenAPI_Specification)(a.k.a/previously known as/formerly *Swagger-Specification*) foarte ușor.
+ - [whitePrompt-blog: Python APIs with **FastAPI** key-features and CRUD-example](https://blog.whiteprompt.com/python-apis-with-fastapi-key-features-and-crud-example-198a7530e368)
+ - [daddYnKidsMaker-blogspot: **FastAPI** Open-API](https://daddynkidsmakers.blogspot.com/2024/04/fastapi-open-api.html)
+   <br/>Acest articol ["**FastAPI** bigData-server example"](https://github.com/mac999/fastapi_bigdata_server_example/tree/main) prezintă cum să dezvoltați cu ușurință un server [Open-API](https://en.wikipedia.org/wiki/Open_API) bazat pe **FastAPI**, Uvicorn și Websocket(WS).
+   <br/>Folosind **FastAPI**, puteți dezvolta un server [Open-API](https://en.wikipedia.org/wiki/OpenAPI_Specification)(a.k.a/previously known as/formerly *Swagger-Specification*) foarte ușor.
 
-<a href = "https://daddynkidsmakers.blogspot.com/2024/04/fastapi-open-api.html"><img src="https://blogger.googleusercontent.com/img/a/AVvXsEgl-1NYO89p82JNrjYFUqHPVeS7mJlBixf-_l6CsOt506LaV08PkHMPyXvRIURtr0-m9vxeuJGsALhy7WdkQzLRKDwPnA3ueX0OXMuUo6JVBN8KTFSQqmx3DwAQ_CESjvo7DdFWlMBznhdzyRunD1f-sYJpwP_j_NLVy8GoI9UvmhnaFyEkLcRkftOXTLdU=w400-h225">Arhitectura acestui caz-de-utilizare FastAPI</img></a> [( Prof Ai | Devpost )](https://devpost.com/software/prof-ai)
+<a href = "https://daddynkidsmakers.blogspot.com/2024/04/fastapi-open-api.html"><img src="https://blogger.googleusercontent.com/img/a/AVvXsEgl-1NYO89p82JNrjYFUqHPVeS7mJlBixf-_l6CsOt506LaV08PkHMPyXvRIURtr0-m9vxeuJGsALhy7WdkQzLRKDwPnA3ueX0OXMuUo6JVBN8KTFSQqmx3DwAQ_CESjvo7DdFWlMBznhdzyRunD1f-sYJpwP_j_NLVy8GoI9UvmhnaFyEkLcRkftOXTLdU=w400-h225">Arhitectura acestui caz-de-utilizare **FastAPI**</img></a> [( Prof Ai | Devpost )](https://devpost.com/software/prof-ai)
 
-   <br/>FastAPI acceptă servere API-asincrone și poate fi rulat folosind servere ASGI, cum ar fi uvicorn(ASGI-server).
+   <br/>**FastAPI** acceptă servere API-asincrone și poate fi rulat folosind servere ASGI, cum ar fi uvicorn(ASGI-server).
    <br/>Acest lucru permite o performanță-rapidă și o procesare-asincronă.
    <br/>Documentația automată, interactivă API este, de asemenea, furnizată(cf specificatiei Open-API) pentru a ajuta dezvoltatorii să înțeleagă și să utilizeze cu ușurință API-ul.
-   <br/>FastAPI funcționează bine cu următoarele cadre-de-aplicații web(web-apps-frameworks): Flask și Django.
+   <br/>**FastAPI** funcționează bine cu următoarele cadre-de-aplicații web(web-apps-frameworks): Flask și Django.
    
   - [Daddy Makers: Cum să dezvoltați un server web simplu Flask, mysql, bazat pe Python Open API](https://daddynkidsmakers.blogspot.com/2020/09/django-flask-open-api.html)
   - [Daddy Makers: Dezvoltarea unei aplicații web de tablou de bord simplu folosind Django](https://daddynkidsmakers.blogspot.com/2024/02/django.html)
    
    <br/>Instalarea pachetului este după cum urmează: **pip install fastapi aiohttp uvicorn**
 
-  - [Building APIs using FastAPI with Django](https://www.geeksforgeeks.org/building-apis-using-fastapi-with-django/)
-  - [Building a Machine Learning(ML)-Web-Application Integrating FastAPI with GCP and Docker Python](https://wire.insiderfinance.io/building-a-machine-learning-web-application-integrating-fastapi-with-gcp-and-docker-python-5439aa27cc1b)
+  - [Building APIs using **FastAPI** with Django](https://www.geeksforgeeks.org/building-apis-using-fastapi-with-django/)
+  - [Building a Machine Learning(ML)-Web-Application Integrating **FastAPI** with GCP and Docker Python](https://wire.insiderfinance.io/building-a-machine-learning-web-application-integrating-fastapi-with-gcp-and-docker-python-5439aa27cc1b)
 
     <a href="https://miro.medium.com/v2/resize:fit:720/format:webp/1*5JMvIcBZhlJsny7s0NHbow.png" style="a img { display:none; }; a:hover img { display:block; }"><img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*hmn9gN0uxjE7cRQQ_d7qVw.png">Deployment Pattern</img></a>
     
-  - [deadBear.io" easy FastAPI-setUp](https://www.deadbear.io/easy-fastapi-setup/)
-  - [medium@upesh.jindal: SSE with FastAPI](https://medium.com/@upesh.jindal/server-sent-events-with-fastapi-ab9ed99ccac4)
-  - [medium@nandagopal05: SSE with py-FastAPI](https://medium.com/@nandagopal05/server-sent-events-with-python-fastapi-f1960e0c8e4b)
-  - [CF-blog: How we built it -  the technology(see FastAPI) behind CF Radar 2.0 Web-App](https://blog.cloudflare.com/technology-behind-radar2/)
-  - [VScode: python tutorial FastAPI](https://code.visualstudio.com/docs/python/tutorial-fastapi)
+  - [deadBear.io" easy **FastAPI**-setUp](https://www.deadbear.io/easy-fastapi-setup/)
+  - [medium@upesh.jindal: SSE with **FastAPI**](https://medium.com/@upesh.jindal/server-sent-events-with-fastapi-ab9ed99ccac4)
+  - [medium@nandagopal05: SSE with py-**FastAPI**](https://medium.com/@nandagopal05/server-sent-events-with-python-fastapi-f1960e0c8e4b)
+  - [CF-blog: How we built it -  the technology(see **FastAPI**) behind CF Radar 2.0 Web-App](https://blog.cloudflare.com/technology-behind-radar2/)
+  - [VScode: python tutorial **FastAPI**](https://code.visualstudio.com/docs/python/tutorial-fastapi)
   - [shakuro-blog: Choosing the Right Web Development Framework - **FastAPI**(are totul in aceiasi cutie: WS si SSE) vs. Flask](https://shakuro.com/blog/fastapi-vs-flask)
+  - [YT-Te3ch aith Tim: **FastAPI**, Flask or Django - Which Should You Use?](https://www.youtube.com/watch?v=cNlJCQHSmbE&ab_channel=TechWithTim)
