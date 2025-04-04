@@ -95,3 +95,4 @@ In aceasta sectiune ne vom ocupa de [**FastAPI**](https://fastapi.tiangolo.com/)
     <a href="https://miro.medium.com/v2/resize:fit:720/format:webp/1*5JMvIcBZhlJsny7s0NHbow.png" style="a img { display:none; }; a:hover img { display:block; }"><img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*hmn9gN0uxjE7cRQQ_d7qVw.png">Deployment Pattern</img></a>
     
   - [deadBear.io" easy FastAPI-setUp](https://www.deadbear.io/easy-fastapi-setup/)
+  - [medium@upesh.jindal: SSE with FastAPI](https://medium.com/@upesh.jindal/server-sent-events-with-fastapi-ab9ed99ccac4)
