@@ -107,8 +107,14 @@ In aceasta sectiune ne vom ocupa de [**FastAPI**](https://fastapi.tiangolo.com/)
   - [Building APIs using **FastAPI** with Django](https://www.geeksforgeeks.org/building-apis-using-fastapi-with-django/)
   - [Building a Machine Learning(ML)-Web-Application Integrating **FastAPI** with GCP and Docker Python](https://wire.insiderfinance.io/building-a-machine-learning-web-application-integrating-fastapi-with-gcp-and-docker-python-5439aa27cc1b)
 
-    <a href="https://miro.medium.com/v2/resize:fit:720/format:webp/1*5JMvIcBZhlJsny7s0NHbow.png" style="a img { display:none; }; a:hover img { display:block; }"><img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*hmn9gN0uxjE7cRQQ_d7qVw.png">Deployment Pattern</img></a>
-    
+<details>
+ 
+ <summary>Deployment Pattern<summary>
+  
+<a href="https://miro.medium.com/v2/resize:fit:720/format:webp/1*5JMvIcBZhlJsny7s0NHbow.png" style="a img { display:none; }; a:hover img { display:block; }"><img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*hmn9gN0uxjE7cRQQ_d7qVw.png">Deployment Pattern</img></a>
+
+</details>
+ 
   - [deadBear.io" easy **FastAPI**-setUp](https://www.deadbear.io/easy-fastapi-setup/)
   -[GH-jahoy: **FastAPI** backend demo](https://github.com/jahoy/fastapi-backend-demo)
   - [medium@upesh.jindal: SSE with **FastAPI**](https://medium.com/@upesh.jindal/server-sent-events-with-fastapi-ab9ed99ccac4)
