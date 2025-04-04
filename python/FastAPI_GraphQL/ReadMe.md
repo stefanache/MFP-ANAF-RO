@@ -95,8 +95,9 @@ In aceasta sectiune ne vom ocupa de [**FastAPI**](https://fastapi.tiangolo.com/)
     <a href="https://miro.medium.com/v2/resize:fit:720/format:webp/1*5JMvIcBZhlJsny7s0NHbow.png" style="a img { display:none; }; a:hover img { display:block; }"><img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*hmn9gN0uxjE7cRQQ_d7qVw.png">Deployment Pattern</img></a>
     
   - [deadBear.io" easy **FastAPI**-setUp](https://www.deadbear.io/easy-fastapi-setup/)
+  -[GH-jahoy: **FastAPI** backend demo](https://github.com/jahoy/fastapi-backend-demo)
   - [medium@upesh.jindal: SSE with **FastAPI**](https://medium.com/@upesh.jindal/server-sent-events-with-fastapi-ab9ed99ccac4)
-  - [devOps-blog: Implementing Server-Sent-Events(SSE) with FastAPI +Nginx and CloudFlare(CF)](https://blog.devops.dev/implementing-server-sent-events-with-fastapi-nginx-and-cloudflare-10ede1dffc18)
+  - [devOps-blog: Implementing Server-Sent-Events(SSE) with **FastAPI**, Nginx and CloudFlare(CF)](https://blog.devops.dev/implementing-server-sent-events-with-fastapi-nginx-and-cloudflare-10ede1dffc18)
   - [medium@nandagopal05: SSE with py-**FastAPI**](https://medium.com/@nandagopal05/server-sent-events-with-python-fastapi-f1960e0c8e4b)
   - [CF-blog: How we built it -  the technology(see **FastAPI**) behind CF Radar 2.0 Web-App](https://blog.cloudflare.com/technology-behind-radar2/)
   - [VScode: python tutorial **FastAPI**](https://code.visualstudio.com/docs/python/tutorial-fastapi)
