@@ -96,3 +96,4 @@ In aceasta sectiune ne vom ocupa de [**FastAPI**](https://fastapi.tiangolo.com/)
     
   - [deadBear.io" easy FastAPI-setUp](https://www.deadbear.io/easy-fastapi-setup/)
   - [medium@upesh.jindal: SSE with FastAPI](https://medium.com/@upesh.jindal/server-sent-events-with-fastapi-ab9ed99ccac4)
+  - [medium@nandagopal05: SSE with py-FastAPI](https://medium.com/@nandagopal05/server-sent-events-with-python-fastapi-f1960e0c8e4b)
