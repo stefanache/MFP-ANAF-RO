@@ -12,7 +12,7 @@ Aici as dori sa impartasesc cu voi cateva link-uri legate de [**React-Native**](
 
    <hr/>
    
-   This document outlines core concepts and components for developing mobile apps with **React Native**, including:
+   This document outlines *core concepts* and *components* for developing <ins>mobile-apps</ins> with **React Native**, including:
    
     - setting up the environment,
     - building basic apps,
