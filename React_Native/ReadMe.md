@@ -8,7 +8,7 @@ Aici as dori sa impartasesc cu voi cateva link-uri legate de [**React-Native**](
  - [netGuru-glossary: **React-Native**](https://www.netguru.com/glossary/react-native)
  - [scriBD-doc-PDF: ](https://www.scribd.com/document/682155102/React-Native)
 <details>
-    <summary>scriBD-**RN**: details...</summary>
+    <summary>scriBD-<b>RN</b>: <i>core concepts</i> and <i>components</i> - details...</summary>
 
    <hr/>
    
