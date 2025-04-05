@@ -16,3 +16,4 @@ Aici as dori sa impartasesc cu voi cateva link-uri legate de [**React-Native**](
  - [jestJS-ro-docs-tutorial_RN:  Testarea aplicațiilor **React-Native**](https://jestjs.io/ro/docs/tutorial-react-native)
  - [browserStack: Flutter vs. **React-Native**](https://www.browserstack.com/guide/flutter-vs-react-native)
  - [linkedin@Codezilla-pulse-aplicatii_mobile_native: **React Native**, alegerea evidentă. De ce? ](https://www.linkedin.com/pulse/aplica%C8%9Bii-mobile-native-react-alegerea-evident%C4%83-de-ce-/)
+ - [...](https://www.google.com/search?q=react+native&lr=lang_ro&sca_esv=a63cfb001f674c6a&rlz=1C1CHBF_enRO1132RO1132&tbs=lr:lang_1ro&sxsrf=AHTn8zpqGn4cj8q3XiVLLX5lIZGO8rPSYQ:1743842774377&ei=1u3wZ5LiFoCoxc8P2YSzsQo&start=10&sa=N&sstk=Af40H4WTgtId1TBjheerOjq_hzh42nLKp-TnYwqmVpP7A7YUYHTYVgUDBB7dxMWEdEBc_F4DHdijTdSysbazLIglUr2KTg8GVgqODg&ved=2ahUKEwiSpfHIwMCMAxUAVPEDHVnCLKYQ8tMDegQICRAE&biw=1735&bih=721&dpr=1)
