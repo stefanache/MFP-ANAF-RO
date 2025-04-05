@@ -12,4 +12,5 @@ Aici as dori sa impartasesc cu voi cateva link-uri legate de [**React-Native**](
  - [GH-ReactNative-ReactNativeNews: **React-Native**-***Apps*** ](https://github.com/ReactNativeNews/React-Native-Apps)
  - [hygraph-blog: ***React*** vs. **React-Native**](https://hygraph.com/blog/react-vs-react-native)
  - [todaySoftMag.ro(TSM)-article: De la ***React*** la **React Native**, un exemplu practic](https://www.todaysoftmag.ro/article/3041/de-la-react-la-react-native-un-exemplu-practic)
+ - [TSM-article: **React-Native** o alternativa viabila sau o risipa de timp](https://www.todaysoftmag.ro/article/4145/react-native-o-alternativa-viabila-sau-o-risipa-de-timp)
  - [browserStack: Flutter vs. **React-Native**](https://www.browserstack.com/guide/flutter-vs-react-native)
