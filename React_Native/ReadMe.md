@@ -6,6 +6,7 @@ Aici as dori sa impartasesc cu voi cateva link-uri legate de [**React-Native**](
  - [expo.dev-docs-tutorial: Using **React Native** and ***Expo***(*SDK*)](https://docs.expo.dev/tutorial/introduction/)
  - [reactnative.dev-docs: **React-Native**](https://reactnative.dev/docs/environment-setup)
  - [reactNative.dev: **React Native** - Learn once, write anywhere.](https://reactnative.dev/)
+ - [simpliLearn: **React-Native** tutorial-article](https://www.simplilearn.com/react-native-tutorial-article)
  - [wiki: **React-Native**](https://en.wikipedia.org/wiki/React_Native)
  - [GH-FB: **React-Native**](https://github.com/facebook/react-native)
  - [netGuru-glossary: **React-Native**](https://www.netguru.com/glossary/react-native)
