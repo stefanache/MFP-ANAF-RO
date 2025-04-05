@@ -3,6 +3,7 @@ Salut,
 Aici as dori sa impartasesc cu voi cateva link-uri legate de [**React-Native**](https://reactnative.dev/)( a nu se confunda cu [react.dev: ***React***](https://react.dev/) desi... putem spune ca fac parte din aceiasi [familie](https://ro.wikipedia.org/wiki/React.js)!):
 
  - [tutorialsPoint: **React-Native**](https://www.tutorialspoint.com/react_native/index.htm)
+ - [reactnative.dev-docs: **React-Native** - getting-started without a framework(sdk)](https://reactnative.dev/docs/getting-started-without-a-framework)
  - [expo.dev-docs-tutorial: Using **React Native** and ***Expo***(*SDK*)](https://docs.expo.dev/tutorial/introduction/)
  - [reactnative.dev-docs: **React-Native**](https://reactnative.dev/docs/environment-setup)
  - [reactNative.dev: **React Native** - Learn once, write anywhere.](https://reactnative.dev/)
