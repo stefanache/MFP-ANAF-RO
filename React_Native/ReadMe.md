@@ -1,6 +1,6 @@
 Salut,
 
-Aici as dori sa impartasesc cu voi cateva link-uri legate de [**React-Native**](https://reactnative.dev/)( a nu se confunda cu [react.dev: ***React***](https://react.dev/) desi... putem spune ca fac parte din aceiasi [familie](https://ro.wikipedia.org/wiki/React.js)!):
+Aici as dori sa impartasesc cu voi cateva link-uri legate de [**React-Native**](https://reactnative.dev/)( a nu se confunda cu [react.dev: ***React***](https://react.dev/) desi... putem spune ca fac parte din [aceiasi](https://ocw.cs.pub.ro/courses/pw/laboratoare/04) [familie](https://ro.wikipedia.org/wiki/React.js)!):
 
  - [tutorialsPoint: **React-Native**](https://www.tutorialspoint.com/react_native/index.htm)
  - [reactnative.dev-docs: **React-Native** - getting-started without a framework(sdk)](https://reactnative.dev/docs/getting-started-without-a-framework)
