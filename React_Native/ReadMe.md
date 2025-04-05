@@ -11,4 +11,5 @@ Aici o sa plasez cateva link-uri legate de [**React-Native**](https://reactnativ
  - [rnFirebase: **React-Native Firebase**](https://rnfirebase.io/)
  - [GH-ReactNative-ReactNativeNews: **React-Native**-***Apps*** ](https://github.com/ReactNativeNews/React-Native-Apps)
  - [hygraph-blog: ***React*** vs. **React-Native**](https://hygraph.com/blog/react-vs-react-native)
+ - [todaySoftMag.ro-article: De la ***React*** la **React Native**, un exemplu practic](https://www.todaysoftmag.ro/article/3041/de-la-react-la-react-native-un-exemplu-practic)
  - [browserStack: Flutter vs. **React-Native**](https://www.browserstack.com/guide/flutter-vs-react-native)
