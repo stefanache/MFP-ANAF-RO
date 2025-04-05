@@ -2,6 +2,7 @@ Salut,
 
 Aici as dori sa impartasesc cu voi cateva link-uri legate de [**React-Native**](https://reactnative.dev/)( a nu se confunda cu [react.dev: ***React***](https://react.dev/) desi... putem spune ca fac parte din aceiasi [familie](https://ro.wikipedia.org/wiki/React.js)!):
 
+ - [tutorialsPoint: **React-Native**](https://www.tutorialspoint.com/react_native/index.htm)
  - [reactNative.dev: **React Native** - Learn once, write anywhere.](https://reactnative.dev/)
  - [wiki: **React-Native**](https://en.wikipedia.org/wiki/React_Native)
  - [GH-FB: **React-Native**](https://github.com/facebook/react-native)
