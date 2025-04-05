@@ -11,7 +11,8 @@ Aici as dori sa impartasesc cu voi cateva link-uri legate de [**React-Native**](
     <summary>scriBD-**RN**: details...</summary>
 
    <hr/>
-   This document outlines core concepts and components for developing mobile apps with **React Native**, including
+   
+   This document outlines core concepts and components for developing mobile apps with **React Native**, including:
    
     - setting up the environment,
     - building basic apps,
@@ -27,7 +28,7 @@ Aici as dori sa impartasesc cu voi cateva link-uri legate de [**React-Native**](
     - debugging, and
     - running apps on iOS and Android.
    
-   It also lists specific **React Native** components like
+   It also lists specific **React Native** components like:
 
     - View,
     - WebView,
