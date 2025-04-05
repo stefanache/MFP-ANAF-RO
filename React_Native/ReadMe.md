@@ -15,3 +15,4 @@ Aici as dori sa impartasesc cu voi cateva link-uri legate de [**React-Native**](
  - [TSM-article: **React-Native** o alternativa viabila sau o risipa de timp](https://www.todaysoftmag.ro/article/4145/react-native-o-alternativa-viabila-sau-o-risipa-de-timp)
  - [jestJS-ro-docs-tutorial_RN:  Testarea aplicațiilor **React-Native**](https://jestjs.io/ro/docs/tutorial-react-native)
  - [browserStack: Flutter vs. **React-Native**](https://www.browserstack.com/guide/flutter-vs-react-native)
+ - [linkedin@Codezilla-pulse-aplicatii_mobile_native: **React Native**, alegerea evidentă. De ce? ](https://www.linkedin.com/pulse/aplica%C8%9Bii-mobile-native-react-alegerea-evident%C4%83-de-ce-/)
