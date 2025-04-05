@@ -7,7 +7,10 @@ Aici as dori sa impartasesc cu voi cateva link-uri legate de [**React-Native**](
  - [GH-FB: **React-Native**](https://github.com/facebook/react-native)
  - [netGuru-glossary: **React-Native**](https://www.netguru.com/glossary/react-native)
  - [scriBD-doc-PDF: ](https://www.scribd.com/document/682155102/React-Native)
-   <br/>This document outlines core concepts and components for developing mobile apps with **React Native**, including
+<details>
+    <summary>scriBD-**RN**: details...</summary>
+   
+   This document outlines core concepts and components for developing mobile apps with **React Native**, including
    
     - setting up the environment,
     - building basic apps,
@@ -37,6 +40,8 @@ Aici as dori sa impartasesc cu voi cateva link-uri legate de [**React-Native**](
     - Geolocation.
    
    The document mentions using the ***Redux*** library and ***Firebase** platform for **React Native** ***apps***.
+
+</details>
      
  - [GH-MS: **React-Native for(4) Windows + macOS**](https://microsoft.github.io/react-native-windows/)
  - [reactNativePaper: **React-Native Paper**(design-library)](https://reactnativepaper.com/)
