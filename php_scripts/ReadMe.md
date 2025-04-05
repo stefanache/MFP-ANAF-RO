@@ -1,4 +1,4 @@
-Aici gasiti scripturi [**PhP**](https://medium.com/@abidshafee/unveiling-advanced-php-techniques-from-design-patterns-to-testing-7e5be3731400) legate de ***eGuvernare***
+Aici gasiti scripturi [**PhP**](https://medium.com/@abidshafee/unveiling-advanced-php-techniques-from-design-patterns-to-testing-7e5be3731400) legate de [***eGuvernare***](https://github.com/TecsiAron/ANAF-API-Client-PHP)
 
 Daca aveti nevoie de **cursul BNR** pentru o ***valuta*** anume(***interogarare punctuala***) probabil ca acest [**github-repository**](https://github.com/WPPlugins/curs-valutar-bnr/blob/master/curs_valutar_bnr.php) va poate fi de ajutor;
 Nu este vorba de o interogare punctuala(adica pentru o valuta anume) dar probabil ca este usor de obtinut si o interogare punctuala daca studiati acest cod in detaliu;
