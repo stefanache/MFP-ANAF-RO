@@ -9,7 +9,8 @@ Aici as dori sa impartasesc cu voi cateva link-uri legate de [**React-Native**](
  - [scriBD-doc-PDF: ](https://www.scribd.com/document/682155102/React-Native)
 <details>
     <summary>scriBD-**RN**: details...</summary>
-   
+
+   <hr/>
    This document outlines core concepts and components for developing mobile apps with **React Native**, including
    
     - setting up the environment,
@@ -40,6 +41,8 @@ Aici as dori sa impartasesc cu voi cateva link-uri legate de [**React-Native**](
     - Geolocation.
    
    The document mentions using the ***Redux*** library and ***Firebase** platform for **React Native** ***apps***.
+
+<hr/>
 
 </details>
      
