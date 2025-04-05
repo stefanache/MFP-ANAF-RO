@@ -7,7 +7,37 @@ Aici as dori sa impartasesc cu voi cateva link-uri legate de [**React-Native**](
  - [GH-FB: **React-Native**](https://github.com/facebook/react-native)
  - [netGuru-glossary: **React-Native**](https://www.netguru.com/glossary/react-native)
  - [scriBD-doc-PDF: ](https://www.scribd.com/document/682155102/React-Native)
-   <br/>This document outlines core concepts and components for developing mobile apps with **React Native**, including setting up the environment, building basic apps, state, props, styling, ListView, ScrollView, images, HTTP, buttons, animations, debugging, and running apps on iOS and Android. It also lists specific React Native components like View, WebView, Modal, ActivityIndicator, Picker, StatusBar, Switch, Text, Alert, and Geolocation. The document mentions using the Redux library and Firebase platform for React Native apps.   
+   <br/>This document outlines core concepts and components for developing mobile apps with **React Native**, including
+   
+    - setting up the environment,
+    - building basic apps,
+    - state,
+    - props,
+    - styling,
+    - ListView,
+    - ScrollView,
+    - images,
+    - HTTP,
+    - buttons,
+    - animations,
+    - debugging, and
+    - running apps on iOS and Android.
+   
+   It also lists specific **React Native** components like
+
+    - View,
+    - WebView,
+    - Modal,
+    - ActivityIndicator,
+    - Picker,
+    - StatusBar,
+    - Switch,
+    - Text,
+    - Alert, and
+    - Geolocation.
+   
+   The document mentions using the ***Redux*** library and ***Firebase** platform for **React Native** ***apps***.
+     
  - [GH-MS: **React-Native for(4) Windows + macOS**](https://microsoft.github.io/react-native-windows/)
  - [reactNativePaper: **React-Native Paper**(design-library)](https://reactnativepaper.com/)
  - [rnFirebase: **React-Native Firebase**](https://rnfirebase.io/)
