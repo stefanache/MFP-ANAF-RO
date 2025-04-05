@@ -28,7 +28,7 @@ Aici as dori sa impartasesc cu voi cateva link-uri legate de [**React-Native**](
     - debugging, and
     - running apps on iOS and Android.
    
-   It also lists specific **React Native** *components* like:
+   It also lists *specific* **React Native** *components* like:
 
     - View,
     - WebView,
