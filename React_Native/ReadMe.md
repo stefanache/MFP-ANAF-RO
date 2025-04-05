@@ -10,3 +10,4 @@ Aici o sa plasez cateva link-uri legate de [**React-Native**](https://reactnativ
  - [reactNativePaper: **React-Native Paper**(design-library)](https://reactnativepaper.com/)
  - [rnFirebase: **React-Native Firebase**](https://rnfirebase.io/)
  - [hygraph-blog: ***React*** vs. **React-Native**](https://hygraph.com/blog/react-vs-react-native)
+ - [browserStack: Flutter vs. **React-Native**](https://www.browserstack.com/guide/flutter-vs-react-native)
