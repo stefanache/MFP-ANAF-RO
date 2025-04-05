@@ -41,7 +41,7 @@ Aici as dori sa impartasesc cu voi cateva link-uri legate de [**React-Native**](
     - Alert, and
     - Geolocation.
    
-   The document mentions using the ***Redux*** library and ***Firebase** platform for **React Native** ***apps***.
+   The document mentions using the ***Redux*** library and ***Firebase*** platform for **React Native** ***apps***.
 
 <hr/>
 
