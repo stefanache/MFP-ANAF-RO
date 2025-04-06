@@ -13,7 +13,7 @@ Procesul este simplu:
  - 1- Creați-vă **serverul principal** pe ***AWS*** folosind fie stiva **LAMP**, fie **LEMP**, după cum doriți.
  - 2-(**VARNISH**)- Includeți și configurați *stocarea* în *cache* **Varnish** pe serverul dvs. ***AWS***(pas 1.).
  - 3-(**Amazon/RDS**)- Creați-vă *serverul* **RDS** pentru găzduirea *bazei de date(BD)*.
- - 4-(**S3/butchet**)- Creați-vă  compartimentele **S3**  pentru stocarea întregului conținut *static* al *aplicației* sau *site*-ului dvs. *web*.
+ - 4-(**S3/butchet**)- Creați-vă  compartimentele/*buckets* **S3**  pentru stocarea întregului conținut *static* al *aplicației* sau *site*-ului dvs. *web*.
  - 5-(**Amazon/CloudFront**)- Configurați memorarea în cache AWS **Cloudfront** pentru conținutul *S3*(pas 4.).
  - 6- Creați și conectați *depozitul* dvs. **GitHub** la infrastructura dvs. ***AWS*** deja creată.
 <br/>*Notă*: trebuie să vă asigurați că conectați tot conținutul static la *S3*(pas 4.) din cod.
@@ -22,7 +22,7 @@ Procesul este simplu:
  - 8- Creați și configurați *serverul* dvs. **Jenkins**, care va fi responsabil de procesarea proceselor de *Integrare-Continuă*(*CI*).
  - 9- Creați un *grup* **Auto-Scaling** și *reguli* de **echilibrare** a *încărcăturii* pentru infrastructura dvs. ***AWS***.
  <br/>Această funcție va *crea* sau *distruge* (*instante* de ) *servere* în funcție de nivelurile de cerere de pe **aplicație/site**-ul *web*.
- - 10- Conectați-vă *depozitul*-**Github** și compartimentele-**S3** la **Jenkins** și creați-vă *joburile-Jenkins* pentru *construirea*, *testarea*, *împachetarea* și *implementarea* modificărilor/actualizarilor pe *cod*.
+ - 10- Conectați-vă *depozitul*-**Github** și compartimentele/*buckets*-**S3** la **Jenkins** și creați-vă *joburile-Jenkins* pentru *construirea*, *testarea*, *împachetarea* și *implementarea* modificărilor/actualizarilor pe *cod*.
  - 11- Configurați *regulile* **CodeDeploy** pe ***AWS*** și conectați-le cu **Jenkins**.
 <br/>Regulile *CodeDeploy* vor include modul în care va implementa modificările în instanțele conținute în grupurile *Auto-Scaling*.
  - 12- Testați-vă infrastructura aplicând modificări în codul dvs. și asigurându-vă că acestea sunt implementate automat și corect în toate instanțele.
