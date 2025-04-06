@@ -15,7 +15,7 @@ Procesul este simplu:
  - 3-(**Amazon/RDS**)- Creați-vă *serverul* **RDS** pentru găzduirea *bazei de date(BD)*.
  - 4-(**S3/bucket**)- Creați-vă  compartimentele/*buckets* **S3**  pentru stocarea întregului conținut *static* al *aplicației* sau *site*-ului dvs. *web*.
  - 5-(**Amazon/CloudFront**)- Configurați memorarea în cache AWS **Cloudfront** pentru conținutul *S3*(pas 4.).
- - 6-(**Code/repository**)- Creați și conectați *depozitul* dvs. **GitHub** la infrastructura dvs. ***AWS*** deja creată.
+ - 6-(**Code/repository**)- Creați și conectați *depozitul* dvs. **GitHub** la infrastructura dvs. ***AWS*** deja creată(pasi 1.-5.).
 <br/>*Notă*: trebuie să vă asigurați că conectați tot conținutul-*static*(din *cod*) la *S3*(pas 4.).
  - 7- Creați și configurați *serverul* dvs. **Redis** pe ***AWS*** după cum doriți.
 <br/>*Notă*: trebuie să vă asigurați că includeți și *Redis* în codul dvs.
