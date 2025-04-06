@@ -14,7 +14,7 @@ Procesul implementarii(de catre **Developers**) arhitecturii <b>AWS-cloud</b> cu
   - ***01.***-(**Developers**)- <ins>Creați</ins>-vă **serverul-principal**-pe-***AWS*** <ins>folosind</ins>
      - *fie* stiva **LAMP**,
      - *fie* **LEMP**, după cum doriți.
-  - ***02.***-(**VARNISH**)- <ins>Includeți</ins> și <ins>configurați</ins> *stocarea*-în-*cache*-**Varnish** <ins>pe</ins> serverul-dvs.-***AWS***creat in (pasul ***01.***).
+  - ***02.***-(**VARNISH**)- <ins>Includeți</ins> și <ins>configurați</ins> *stocarea*-în-*cache*-**Varnish** <ins>pe</ins> serverul-dvs.-***AWS***creat in (creat in pasul ***01.***).
   - ***03.***-(**Amazon/RDS**)- <ins>Creați</ins>-vă *serverul*-**RDS** <ins>pentru</ins> găzduirea-*bazei-de-date(BD)*.
   - ***04.***-(**S3/bucket**)- <ins>Creați</ins>-vă  compartimentele/*buckets*-**<ins>S</ins>3** <ins>pentru</ins> stocarea-întregului-conținut-<ins>*Static*</ins>-al
      - *aplicației* - *web* sau
