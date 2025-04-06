@@ -24,8 +24,8 @@ Procesul implementarii(de catre **Developers**) arhitecturii <b>AWS-cloud</b> cu
 <br/>*Notă*: trebuie să vă asigurați că veti <ins>conecta</ins> tot/intreg-conținutul-*static*(din *cod-Github* - creat la pasul ***06.***) <ins>la</ins> *S3*(creat la pasul ***04.***).
   - ***07.***-(**Redis/server**)- <ins>Creați</ins> și <ins>configurați</ins> *serverul*-dvs.-**Redis**-pe-***AWS***, după cum doriți.
 <br/>*Notă*: trebuie să vă asigurați că <ins>includeți</ins> și *Redis*(creat in pasul ***07.***) în codul dvs.
-  - ***08.***-(**Jenkins/server**)- Creați și configurați *serverul* dvs. **Jenkins**, care va fi responsabil de procesarea proceselor de *Integrare-Continuă*(*CI*).
-  - ***09***-(**Auto-Scaling group: Master/instance+Slave/instance**)- Creați un *grup* **Auto-Scaling** și *reguli* de **echilibrare**-a-*încărcăturii*-(**Classic/Load/Balancer**)- pentru infrastructura dvs. ***AWS***.
+  - ***08.***-(**Jenkins/server**)- <ins>Creați</ins> și <ins>configurați</ins> *serverul*-dvs.-**Jenkins**, care va fi <ins>responsabil de</ins> procesarea proceselor-de-*Integrare-Continuă*(*CI*).
+  - ***09***-(**Auto-Scaling group: Master/instance+Slave/instance**)- <ins>Creați</ins> un *grup* **Auto-Scaling** <ins>și</ins> *reguli* de **echilibrare**-a-*încărcăturii*-(**Classic/Load/Balancer**)- <ins>pentru</ins> infrastructura-dvs.-***AWS***(construita in pasii ***01.***-***08.***).
  <br/>Această funcție va *crea* sau *distruge* (*instante* de ) *servere* în funcție de nivelurile de cerere de pe **aplicație/site**-ul *web*.
   - 10- Conectați-vă *depozitul*-*Github* și compartimentele/*buckets*-*S3* la *Jenkins*(pas ***08.***) și creați-vă *joburile-Jenkins* pentru *construirea*, *testarea*, *împachetarea* și *implementarea* - modificărilor/actualizarilor pe/de *cod*.
   - ***11.***-(**AWS/CodeDeploy**)- Configurați *regulile* **CodeDeploy** pe ***AWS*** și conectați-le cu *Jenkins*.
