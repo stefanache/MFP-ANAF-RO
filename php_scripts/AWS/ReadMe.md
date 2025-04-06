@@ -13,7 +13,7 @@ Aici vom incerca sa discutam despre o stiva [LAMP/LEMP](https://www.google.com/s
 
 Procesul implementarii(de catre dvs in calitate de **Developers**) arhitecturii <b>AWS-cloud</b> cu <b>scalabilitate ridicată</b> pt. deservirea(pe parte de server) *site*-ului/*aplicatiei*(*web*)-(**End/user**)-(pe parte de client)... este unul simplu:
 
-  - ***01.***-(**Developers**; Continue-Development =/a.k.a CD)- <ins>Creați</ins>-vă **serverul-principal** / **Master-server/instance(ASg:Mi)**(de deservire)-pe-***AWS*** <ins>folosind</ins>
+  - ***01.***-(**Developers**(**DEV**s); Continue-Development =/a.k.a CD)- <ins>Creați</ins>-vă **serverul-principal** / **Master-server/instance(ASg:Mi)**(de deservire)-pe-***AWS*** <ins>folosind</ins>
      - *fie* stiva **LAMP**,
      - *fie* **LEMP**, după cum doriți.
   - ***02.***-(**VARNISH**; conex. **VN**->**ASg:Mi+Si**)- <ins>Includeți</ins> și <ins>configurați</ins> *stocarea*-în-*cache*-**Varnish(VN)** <ins>pe</ins> serverul-dvs.-***AWS***creat in (creat in pasul ***01.***).
@@ -22,7 +22,7 @@ Procesul implementarii(de catre dvs in calitate de **Developers**) arhitecturii 
      - *aplicației* - *web* sau
      - *site*-ului dvs. *web*.
   - ***05.***-(**Amazon/CloudFront**; conex. **S3**->**CF**)- <ins>Configurați</ins> memorarea-în-*cache*-***AWS***-**CloudFront(CF)** <ins>pentru</ins> conținutul-*static*-*S3*(creat in pasul ***04.***)...(aceast[a] parte/[pas], de fapt, asigura... internetul-pe-parte-de-deservire-client(**End-user(Eu)**!).
-  - ***06.***-(**GH-Code/repository**)- <ins>Creați</ins> și <ins>conectați</ins> *depozitul*-dvs.-**GitHub**(creat in acest pas ***06.***) <ins>la</ins> infrastructura-dvs.-***AWS***-deja-creată(a se vedea pasii ***01.***-***05.***).
+  - ***06.***-(**GH-Code/repository**; conex. **DEV**s->**GH**)- <ins>Creați</ins> și <ins>conectați</ins> *depozitul*-dvs.-**GitHub**(creat in acest pas ***06.***) <ins>la</ins> infrastructura-dvs.-***AWS***-deja-creată(a se vedea pasii ***01.***-***05.***).
 <br/>*Notă*: trebuie să vă asigurați că veti <ins>conecta</ins> tot/intreg-conținutul-*static*(din *cod-Github* - creat la pasul ***06.***) <ins>la</ins> *S3*(creat la pasul ***04.***).
   - ***07.***-(**Redis/server**)- <ins>Creați</ins> și <ins>configurați</ins> *serverul*-dvs.-**Redis(Rs)**-pe-***AWS***, după cum(si daca...) doriți(...sa aveti un mecanism de *gestiune/stocare a sesiunii-utilizator*/...spre exemplu... daca si atunci cand doriti sa aveti pt chatting/mesagerie un sistem de notificare,  puteti folosi un mecanism de tip  publish-subscribe/"**Pub-Sub***" sau putem folosi o comunicare via WebSocket/**WS** si probabil ca in acest caz ... veti avea nevoie sa stocati date/detalii despre sesiunea fiecarui utilizator....)
 <br/>*Notă*: trebuie să vă asigurați că <ins>includeți</ins> și *Redis*(creat in pasul ***07.***) în codul dvs(client+server de deservire).
