@@ -14,9 +14,11 @@ Procesul implementarii arhitecturii <b>AWS-cloud</b> cu <b>scalabilitate ridicat
   - 01-(**Developers**)- <ins>Creați</ins>-vă **serverul-principal**-pe-***AWS*** <ins>folosind</ins>
      - *fie* stiva **LAMP**,
      - *fie* **LEMP**, după cum doriți.
-  - 02-(**VARNISH**)- <ins>Includeți</ins> și <ins>configurați</ins> *stocarea*-în-*cache*-**Varnish** pe serverul-dvs.-***AWS***(pas 01.).
-  - 03-(**Amazon/RDS**)- Creați-vă *serverul* **RDS** pentru găzduirea *bazei de date(BD)*.
-  - 04-(**S3/bucket**)- Creați-vă  compartimentele/*buckets* **S3**  pentru stocarea întregului conținut <ins>*static*</ins> al *aplicației* sau *site*-ului dvs. *web*.
+  - 02-(**VARNISH**)- <ins>Includeți</ins> și <ins>configurați</ins> *stocarea*-în-*cache*-**Varnish** <ins>pe</ins> serverul-dvs.-***AWS***(pas 01.).
+  - 03-(**Amazon/RDS**)- <ins>Creați</ins>-vă *serverul*-**RDS** <ins>pentru</ins> găzduirea-*bazei-de-date(BD)*.
+  - 04-(**S3/bucket**)- <ins>Creați</ins>-vă  compartimentele/*buckets* **S3** <ins>pentru</ins> stocarea-întregului-conținut-<ins>*static*</ins>-al
+     - *aplicației* - *web* sau
+     - *site*-ului dvs. *web*.
   - 05-(**Amazon/CloudFront**)- Configurați memorarea în *cache* ***AWS***-**Cloudfront** pentru conținutul *S3*(pas 04.).
   - 06-(**Code/repository**)- Creați și conectați *depozitul* dvs. **GitHub** la infrastructura dvs. ***AWS*** deja creată(pasi 01.-05.).
 <br/>*Notă*: trebuie să vă asigurați că conectați tot conținutul-*static*(din *cod*) la *S3*(pas 04.).
