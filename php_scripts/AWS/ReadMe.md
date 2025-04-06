@@ -13,10 +13,9 @@ Aici vom incerca sa discutam despre o stiva [LAMP/LEMP](https://www.google.com/s
 
 Procesul implementarii(de catre dvs in calitate de **Developers**) arhitecturii <b>AWS-cloud</b> cu <b>scalabilitate ridicată</b> pt. deservirea(pe parte de server) *site*-ului/*aplicatiei*(*web*)-(**End/user**)-(pe parte de client)... este unul simplu:
 
-  - ***01.***-(**Developers**(**DEV**s); Continue-Development =/a.k.a CD)- <ins>Creați</ins>-vă **serverul-principal** / **Master-server/instance(ASg:Mi)**(de deservire)-pe-***AWS*** <ins>folosind</ins>
+  - ***01.***-(**Developers**(**DEV**s); Continue-Development =/a.k.a CD)- <ins>Creați</ins>-vă **serverul-principal** / **Master-server/instance(ASg:Mi)**(de deservire)-pe-***AWS*** <ins>folosind</ins>(după cum doriți):
      - *fie* stiva [**LAMP**](https://en.wikipedia.org/wiki/LAMP_(software_bundle)),
      - *fie* stiva [**LEMP**](https://wiki.crowncloud.net/?How_to_Install_LEMP_Stack_on_Ubuntu_23_04),
-<br/>(după cum doriți).
   - ***02.***-(**VARNISH**)- <ins>Includeți</ins> și <ins>configurați</ins> *stocarea*-în-*cache*-**Varnish(VN)** <ins>pe</ins> serverul-dvs.-***AWS***(creat in pasul ***01.***).
   - ***03.***-(**Amazon/RDS**)- <ins>Creați</ins>-vă *serverul*-**RDS**(pe parte de server-deservire) <ins>pentru</ins> găzduirea-*bazei-de-date(BD)*probabil ca doriti sa folositi ca SG*BD*... hai sa spunem ...**MySQL**!).
   - ***04.***-(**S3/bucket**)- <ins>Creați</ins>-vă  compartimentele/*buckets*-**<ins>S</ins>3** <ins>pentru</ins> stocarea-întregului-conținut-<ins>*Static*</ins>-al (sau pe parte de deservire-client)...
