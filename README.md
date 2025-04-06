@@ -10,7 +10,7 @@ Hit star ⭐ if you like this repo!!!    or maybe ...
 
 Contact us today to setup a one-on-one discovery call and let us help you scale your next innovative project!
 
-**[Thanks all](https://www.studocu.com/ro/institution/universitatea-politehnica-din-bucuresti/8271?cio_id=9fef03cb0e85840197cedb1a&cio_workspace_id=63391&utm_campaign=523&utm_content=1069130FDTNJ2CH81W0800000000AHEGG&utm_medium=behavioral_email_action&utm_source=CRM&utm_term=Button) for the ***29*** [stars](https://www.facebook.com/ion.stefanache.3) and great [traffic](https://www.freelancer.com/u/ionstefanache1)(many ***downloads*** and many-many ***views***)!**
+**[Thanks all](https://www.studocu.com/ro/institution/universitatea-politehnica-din-bucuresti/8271?cio_id=9fef03cb0e85840197cedb1a&cio_workspace_id=63391&utm_campaign=523&utm_content=1069130FDTNJ2CH81W0800000000AHEGG&utm_medium=behavioral_email_action&utm_source=CRM&utm_term=Button) for the ***30*** [stars](https://www.facebook.com/ion.stefanache.3) and great [traffic](https://www.freelancer.com/u/ionstefanache1)(many ***downloads*** and many-many ***views***)!**
 
 **Sorry, But 0 money :)!** (I'm follower/fan of [Olymp-Group](https://olympgroup.co.uk/))
 
