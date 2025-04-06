@@ -16,12 +16,12 @@ Procesul implementarii arhitecturii <b>AWS-cloud</b> cu <b>scalabilitate ridicat
      - *fie* **LEMP**, după cum doriți.
   - ***02.***-(**VARNISH**)- <ins>Includeți</ins> și <ins>configurați</ins> *stocarea*-în-*cache*-**Varnish** <ins>pe</ins> serverul-dvs.-***AWS***(pas ***01.***).
   - ***03.***-(**Amazon/RDS**)- <ins>Creați</ins>-vă *serverul*-**RDS** <ins>pentru</ins> găzduirea-*bazei-de-date(BD)*.
-  - ***04.***-(**S3/bucket**)- <ins>Creați</ins>-vă  compartimentele/*buckets* **S3** <ins>pentru</ins> stocarea-întregului-conținut-<ins>*static*</ins>-al
+  - ***04.***-(**S3/bucket**)- <ins>Creați</ins>-vă  compartimentele/*buckets*-**S3** <ins>pentru</ins> stocarea-întregului-conținut-<ins>*static*</ins>-al
      - *aplicației* - *web* sau
      - *site*-ului dvs. *web*.
-  - ***05.***-(**Amazon/CloudFront**)- <ins>Configurați</ins> memorarea-în-*cache*-***AWS***-**Cloudfront** <ins>pentru</ins> conținutul-*static*-*S3*(pas ***04.***).
-  - ***06.***-(**Code/repository**)- Creați și conectați *depozitul* dvs. **GitHub** la infrastructura dvs. ***AWS*** deja creată(pasi ***01.***-***05.***).
-<br/>*Notă*: trebuie să vă asigurați că conectați tot conținutul-*static*(din *cod*) la *S3*(pas ***04.***).
+  - ***05.***-(**Amazon/CloudFront**)- <ins>Configurați</ins> memorarea-în-*cache*-***AWS***-**Cloudfront** <ins>pentru</ins> conținutul-*static*-*S3*(pasi ***04.***).
+  - ***06.***-(**Code/repository**)- <ins>Creați</ins> și <ins>conectați</ins> *depozitul*-dvs.-**GitHub**(creat in acest pas ***06.***) la infrastructura-dvs.-***AWS***-deja-creată(a se vedea pasii ***01.***-***05.***).
+<br/>*Notă*: trebuie să vă asigurați că veti <ins>conecta</ins> tot/intreg-conținutul-*static*(din *cod-Github* - creat la pasul ***06.***) <ins>la</ins> *S3*(creat la pasul ***04.***).
   - ***07.***-(**Redis/server**)- Creați și configurați *serverul*-dvs.-**Redis**-pe-***AWS*** după cum doriți.
 <br/>*Notă*: trebuie să vă asigurați că includeți și *Redis* în codul dvs.
   - ***08.***-(**Jenkins/server**)- Creați și configurați *serverul* dvs. **Jenkins**, care va fi responsabil de procesarea proceselor de *Integrare-Continuă*(*CI*).
