@@ -13,10 +13,10 @@ Aici vom incerca sa discutam despre o stiva [LAMP/LEMP](https://www.google.com/s
 
 Procesul implementarii(de catre dvs in calitate de **Developers**) arhitecturii <b>AWS-cloud</b> cu <b>scalabilitate ridicată</b> pt. deservirea(pe parte de server) *site*-ului/*aplicatiei*(*web*)-(**End/user**)-(pe parte de client)... este unul simplu:
 
-  - ***01.***-(**Developers**; Continue-Development =/a.k.a CD)- <ins>Creați</ins>-vă **serverul-principal**(de deservire)-pe-***AWS*** <ins>folosind</ins>
+  - ***01.***-(**Developers**; Continue-Development =/a.k.a CD)- <ins>Creați</ins>-vă **serverul-principal** / **Master-server/instance(ASg:Mi)**(de deservire)-pe-***AWS*** <ins>folosind</ins>
      - *fie* stiva **LAMP**,
      - *fie* **LEMP**, după cum doriți.
-  - ***02.***-(**VARNISH**)- <ins>Includeți</ins> și <ins>configurați</ins> *stocarea*-în-*cache*-**Varnish** <ins>pe</ins> serverul-dvs.-***AWS***creat in (creat in pasul ***01.***).
+  - ***02.***-(**VARNISH**; conex. **VN**->**ASg:Mi+Si**)- <ins>Includeți</ins> și <ins>configurați</ins> *stocarea*-în-*cache*-**Varnish(VN)** <ins>pe</ins> serverul-dvs.-***AWS***creat in (creat in pasul ***01.***).
   - ***03.***-(**Amazon/RDS**)- <ins>Creați</ins>-vă *serverul*-**RDS**(pe parte de server-deservire) <ins>pentru</ins> găzduirea-*bazei-de-date(BD)*(daca nu folositi ca BD ***RDS***-ul atunci va trebui sa schimbati acest proces, pt a fi valabil/in corcondanta cu cazul SG*BD*-ul dvs, hai sa spunem **MySQL**!).
   - ***04.***-(**S3/bucket**)- <ins>Creați</ins>-vă  compartimentele/*buckets*-**<ins>S</ins>3** <ins>pentru</ins> stocarea-întregului-conținut-<ins>*Static*</ins>-al (sau pe parte de deservire-client)...
      - *aplicației* - *web* sau
@@ -28,7 +28,7 @@ Procesul implementarii(de catre dvs in calitate de **Developers**) arhitecturii 
 <br/>*Notă*: trebuie să vă asigurați că <ins>includeți</ins> și *Redis*(creat in pasul ***07.***) în codul dvs(client+server de deservire).
   - ***08.***-(**Jenkins/server**)- <ins>Creați</ins> și <ins>configurați</ins> *serverul*-dvs.-**Jenkins(JK)**, care va fi <ins>responsabil de</ins> procesarea proceselor-de-*Integrare-Continuă*(**CI**).
  <br>Serverul **Jenkins** joaca-rolul-de integrator-dinamic-pt-actualizare-cod-din-mers(on-air/in-timpul-functionarii/procesarii/rularii) **CI**-CD!
-  - ***09***-(**Auto-Scaling group: Master/instance=Mi + Slave/instance=Si**; conex. **cLB**->**Mi** si **cLB**->**Si**)- <ins>Creați</ins> un *grup* **Auto-Scaling(ASg)** <ins>și</ins> *reguli* de **echilibrare**-a-*încărcăturii*(**cLB**)-(**Classic/Load/Balancer**)- <ins>pentru</ins> infrastructura-dvs.-***AWS***(construita in pasii ***01.***-***08./09.***).
+  - ***09***-(**Auto-Scaling group: Master/instance=Mi + Slave/instance=Si**; conex. **cLB**->**ASg:Mi** si **cLB**->**ASg:Si**)- <ins>Creați</ins> un *grup* **Auto-Scaling(ASg)** <ins>și</ins> *reguli* de **echilibrare**-a-*încărcăturii*(**cLB**)-(**Classic/Load/Balancer**)- <ins>pentru</ins> infrastructura-dvs.-***AWS***(construita in pasii ***01.***-***08./09.***).
  <br/>Această funcție(pas ***09.***: ***ASg***+***cLB***) va <ins>*crea*</ins>(cf. pasului ***01.+02.***) sau va <ins>*distruge*</ins> (*instante*-de-)*servere* <ins>în funcție de</ins> nivelurile-de-cerere(**End/user**) de-pe **aplicație/site**-ul *web*.
   - ***10.***-(conex. **GH**->**JK**->**S3**)- <ins>Conectați</ins>-vă *depozitul*-*Github(**GH**)*(creat in pasul ***06.***) <ins>și</ins> compartimentele/*buckets*-**S3**(creat la pasul ***04.***) <ins>la</ins> *Jenkins(**JK**)*(creat in/la pasul ***08.***) <ins>și apoi creați</ins>-vă *joburile-Jenkins*(adaugat la pasul de creere ***08.***) <ins>pentru</ins> *construirea*, *testarea*, *împachetarea* și *implementarea* - modificărilor/actualizarilor pe/de *cod*.
   - ***11.***-(**AWS/CodeDeploy**; conex. **JK**->**CD**)- <ins>Configurați</ins> *regulile*-**CodeDeploy(CD)**-pe-***AWS*** <ins>și conectați</ins>-le <ins>cu</ins> *Jenkins(JK)*(pasii ***08.*** si ***10.***).
