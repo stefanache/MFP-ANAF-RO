@@ -16,7 +16,7 @@ Procesul implementarii arhitecturii <b>AWS-cloud</b> cu <b>scalabilitate ridicat
      - *fie* **LEMP**, după cum doriți.
   - ***02.***-(**VARNISH**)- <ins>Includeți</ins> și <ins>configurați</ins> *stocarea*-în-*cache*-**Varnish** <ins>pe</ins> serverul-dvs.-***AWS***creat in (pasul ***01.***).
   - ***03.***-(**Amazon/RDS**)- <ins>Creați</ins>-vă *serverul*-**RDS** <ins>pentru</ins> găzduirea-*bazei-de-date(BD)*.
-  - ***04.***-(**<ins>S</ins>3/bucket**)- <ins>Creați</ins>-vă  compartimentele/*buckets*-**S3** <ins>pentru</ins> stocarea-întregului-conținut-<ins>*Static*</ins>-al
+  - ***04.***-(**S3/bucket**)- <ins>Creați</ins>-vă  compartimentele/*buckets*-**<ins>S</ins>3** <ins>pentru</ins> stocarea-întregului-conținut-<ins>*Static*</ins>-al
      - *aplicației* - *web* sau
      - *site*-ului dvs. *web*.
   - ***05.***-(**Amazon/CloudFront**)- <ins>Configurați</ins> memorarea-în-*cache*-***AWS***-**Cloudfront** <ins>pentru</ins> conținutul-*static*-*S3*(pasi ***04.***).
