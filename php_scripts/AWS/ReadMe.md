@@ -19,7 +19,7 @@ Procesul implementarii(de catre **Developers**) arhitecturii <b>AWS-cloud</b> cu
   - ***04.***-(**S3/bucket**)- <ins>Creați</ins>-vă  compartimentele/*buckets*-**<ins>S</ins>3** <ins>pentru</ins> stocarea-întregului-conținut-<ins>*Static*</ins>-al
      - *aplicației* - *web* sau
      - *site*-ului dvs. *web*.
-  - ***05.***-(**Amazon/CloudFront**)- <ins>Configurați</ins> memorarea-în-*cache*-***AWS***-**Cloudfront** <ins>pentru</ins> conținutul-*static*-*S3*(pasi ***04.***).
+  - ***05.***-(**Amazon/CloudFront**)- <ins>Configurați</ins> memorarea-în-*cache*-***AWS***-**Cloudfront** <ins>pentru</ins> conținutul-*static*-*S3*(creat in pasul ***04.***).
   - ***06.***-(**Code/repository**)- <ins>Creați</ins> și <ins>conectați</ins> *depozitul*-dvs.-**GitHub**(creat in acest pas ***06.***) la infrastructura-dvs.-***AWS***-deja-creată(a se vedea pasii ***01.***-***05.***).
 <br/>*Notă*: trebuie să vă asigurați că veti <ins>conecta</ins> tot/intreg-conținutul-*static*(din *cod-Github* - creat la pasul ***06.***) <ins>la</ins> *S3*(creat la pasul ***04.***).
   - ***07.***-(**Redis/server**)- <ins>Creați</ins> și <ins>configurați</ins> *serverul*-dvs.-**Redis**-pe-***AWS***, după cum doriți.
