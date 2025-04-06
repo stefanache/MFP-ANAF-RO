@@ -13,7 +13,7 @@ Aici vom incerca sa discutam despre o stiva [LAMP/LEMP](https://www.google.com/s
 
 Procesul implementarii(de catre dvs in calitate de **Developers**) arhitecturii <b>AWS-cloud</b> cu <b>scalabilitate ridicată</b> pt. deservirea(pe parte de server) *site*-ului/*aplicatiei*(*web*)-(**End/user**)-(pe parte de client)... este unul simplu:
 
-  - ***01.***-(**Developers(Continue-Development=CD)**)- <ins>Creați</ins>-vă **serverul-principal**(de deservire)-pe-***AWS*** <ins>folosind</ins>
+  - ***01.***-(**Developers**(Continue-Development = /a.k.a CD))- <ins>Creați</ins>-vă **serverul-principal**(de deservire)-pe-***AWS*** <ins>folosind</ins>
      - *fie* stiva **LAMP**,
      - *fie* **LEMP**, după cum doriți.
   - ***02.***-(**VARNISH**)- <ins>Includeți</ins> și <ins>configurați</ins> *stocarea*-în-*cache*-**Varnish** <ins>pe</ins> serverul-dvs.-***AWS***creat in (creat in pasul ***01.***).
