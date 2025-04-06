@@ -1,4 +1,4 @@
-Salut!
+[Salut!](https://www.freelancer.com/projects/php/Advanced-EdTech-Career-Guidance-Platform/details)
 
 Pentru o mai usoara [intelegere](https://www.tecracer.com/blog/2024/03/automated-ecs-deployments-using-aws-codepipeline.html)([curba de invatare graduala](https://aws.amazon.com/education/awseducate/)), inainte de a [discuta](https://www.phpclasses.org/blog/post/830-Faster-PHP-Hosting-Services-with-1Click-Deployment.html) despre o mai complexa [arhitectura de inalta scalabilitate pt PhP](https://www.clickittech.com/software-development/high-scalability-architecture-php/), as propune, ca si pas premergator de pregatire/mai intai, sa va aruncati o privire asupra acestui simplu proiect-practic [AWS CI-CD](https://medium.com/@awseng12/ci-cd-pipeline-with-github-aws-code-pipeline-code-deploy-load-balancer-auto-scaling-group-3732a5661dbb)( daca doriti sa aflati mai multe lucruri despre [AWS-Jenkins](https://cloudonaut.io/how-to-set-up-jenkins-on-aws/), puteti citi si un alt/acest proiect!).
 
