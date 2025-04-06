@@ -11,7 +11,9 @@ Aici vom incerca sa discutam despre o stiva LAMP/LEMP pt un site/app-web, utiliz
 
 Procesul este simplu:
 
-  - 01-(**Developers**)- Creați-vă **serverul principal** pe ***AWS*** folosind fie stiva **LAMP**, fie **LEMP**, după cum doriți.
+  - 01-(**Developers**)- Creați-vă **serverul principal** pe ***AWS*** folosind
+     - *fie* stiva **LAMP**,
+     - *fie* **LEMP**, după cum doriți.
   - 02-(**VARNISH**)- Includeți și configurați *stocarea*-în-*cache*-**Varnish** pe serverul dvs. ***AWS***(pas 01.).
   - 03-(**Amazon/RDS**)- Creați-vă *serverul* **RDS** pentru găzduirea *bazei de date(BD)*.
   - 04-(**S3/bucket**)- Creați-vă  compartimentele/*buckets* **S3**  pentru stocarea întregului conținut <ins>*static*</ins> al *aplicației* sau *site*-ului dvs. *web*.
