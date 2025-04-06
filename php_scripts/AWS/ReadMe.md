@@ -19,7 +19,7 @@ Procesul implementarii arhitecturii <b>AWS-cloud</b> cu <b>scalabilitate ridicat
   - ***04.***-(**S3/bucket**)- <ins>Creați</ins>-vă  compartimentele/*buckets* **S3** <ins>pentru</ins> stocarea-întregului-conținut-<ins>*static*</ins>-al
      - *aplicației* - *web* sau
      - *site*-ului dvs. *web*.
-  - ***05.***-(**Amazon/CloudFront**)- <ins>Configurați</ins> memorarea-în-*cache*-***AWS***-**Cloudfront** <ins>pentru</ins> conținutul *S3*(pas ***04.***).
+  - ***05.***-(**Amazon/CloudFront**)- <ins>Configurați</ins> memorarea-în-*cache*-***AWS***-**Cloudfront** <ins>pentru</ins> conținutul-*static*-*S3*(pas ***04.***).
   - ***06.***-(**Code/repository**)- Creați și conectați *depozitul* dvs. **GitHub** la infrastructura dvs. ***AWS*** deja creată(pasi ***01.***-***05.***).
 <br/>*Notă*: trebuie să vă asigurați că conectați tot conținutul-*static*(din *cod*) la *S3*(pas ***04.***).
   - ***07.***-(**Redis/server**)- Creați și configurați *serverul*-dvs.-**Redis**-pe-***AWS*** după cum doriți.
