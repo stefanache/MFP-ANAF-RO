@@ -11,10 +11,10 @@ Aici vom incerca sa discutam despre o stiva LAMP/LEMP pt un site/app-web, utiliz
 
 Procesul implementarii arhitecturii <b>AWS-cloud</b> cu <b>scalabilitate ridicată</b> pt. deservirea -(**End/user**)- este simplu:
 
-  - 01-(**Developers**)- Creați-vă **serverul principal** pe ***AWS*** folosind
+  - 01-(**Developers**)- <ins>Creați</ins>-vă **serverul principal** pe ***AWS*** folosind
      - *fie* stiva **LAMP**,
      - *fie* **LEMP**, după cum doriți.
-  - 02-(**VARNISH**)- Includeți și configurați *stocarea*-în-*cache*-**Varnish** pe serverul-dvs.-***AWS***(pas 01.).
+  - 02-(**VARNISH**)- <ins>Includeți</ins> și <ins>configurați</ins> *stocarea*-în-*cache*-**Varnish** pe serverul-dvs.-***AWS***(pas 01.).
   - 03-(**Amazon/RDS**)- Creați-vă *serverul* **RDS** pentru găzduirea *bazei de date(BD)*.
   - 04-(**S3/bucket**)- Creați-vă  compartimentele/*buckets* **S3**  pentru stocarea întregului conținut <ins>*static*</ins> al *aplicației* sau *site*-ului dvs. *web*.
   - 05-(**Amazon/CloudFront**)- Configurați memorarea în *cache* ***AWS***-**Cloudfront** pentru conținutul *S3*(pas 04.).
