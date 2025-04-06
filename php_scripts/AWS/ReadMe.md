@@ -17,7 +17,7 @@ Procesul implementarii(de catre dvs in calitate de **Developers**) arhitecturii 
      - *fie* stiva **LAMP**,
      - *fie* **LEMP**, după cum doriți.
   - ***02.***-(**VARNISH**; conex. **VN**->**ASg:Mi+Si**)- <ins>Includeți</ins> și <ins>configurați</ins> *stocarea*-în-*cache*-**Varnish(VN)** <ins>pe</ins> serverul-dvs.-***AWS***creat in (creat in pasul ***01.***).
-  - ***03.***-(**Amazon/RDS**)- <ins>Creați</ins>-vă *serverul*-**RDS**(pe parte de server-deservire) <ins>pentru</ins> găzduirea-*bazei-de-date(BD)*(daca nu folositi ca BD ***RDS***-ul atunci va trebui sa schimbati acest proces, pt a fi valabil/in corcondanta cu cazul SG*BD*-ul dvs, hai sa spunem **MySQL**!).
+  - ***03.***-(**Amazon/RDS**)- <ins>Creați</ins>-vă *serverul*-**RDS**(pe parte de server-deservire) <ins>pentru</ins> găzduirea-*bazei-de-date(BD)*(daca nu folositi ca BD ***RDS***-ul atunci va trebui sa schimbati acest proces, pt a fi valabil/in corcondanta cu cazul/noul SG*BD*-ul dvs, hai sa spunem ca ar fi **MySQL**!).
   - ***04.***-(**S3/bucket**)- <ins>Creați</ins>-vă  compartimentele/*buckets*-**<ins>S</ins>3** <ins>pentru</ins> stocarea-întregului-conținut-<ins>*Static*</ins>-al (sau pe parte de deservire-client)...
      - *aplicației* - *web* sau
      - *site*-ului dvs. *web*.
