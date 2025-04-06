@@ -3,6 +3,7 @@ Salut!
 Aici vom incerca sa discutam despre o stiva LAMP/LEMP pt un site/app-web, utilizand infrastructura AWS.
 
  - [clickITtech-software-development: High-scalability-architecture-PhP](https://www.clickittech.com/software-development/high-scalability-architecture-php/)
+   
 <details>
  <summary>arhitecturile <b>AWS-cloud</b> cu scalabilitate ridicată...detalii... </summary>
  <a href="https://www.clickittech.com/software-development/high-scalability-architecture-php/"><img src="https://images.clickittech.com/wp-content/uploads/2018/05/03153635/php-applications.jpg">arhitecturile cu scalabilitate ridicată</img></a>
@@ -10,7 +11,7 @@ Aici vom incerca sa discutam despre o stiva LAMP/LEMP pt un site/app-web, utiliz
 
 Procesul este simplu:
 
-   - 01-(**Developers**)- Creați-vă **serverul principal** pe ***AWS*** folosind fie stiva **LAMP**, fie **LEMP**, după cum doriți.
+  - 01-(**Developers**)- Creați-vă **serverul principal** pe ***AWS*** folosind fie stiva **LAMP**, fie **LEMP**, după cum doriți.
   - 02-(**VARNISH**)- Includeți și configurați *stocarea*-în-*cache*-**Varnish** pe serverul dvs. ***AWS***(pas 01.).
   - 03-(**Amazon/RDS**)- Creați-vă *serverul* **RDS** pentru găzduirea *bazei de date(BD)*.
   - 04-(**S3/bucket**)- Creați-vă  compartimentele/*buckets* **S3**  pentru stocarea întregului conținut <ins>*static*</ins> al *aplicației* sau *site*-ului dvs. *web*.
