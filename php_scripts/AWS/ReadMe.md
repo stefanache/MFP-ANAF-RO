@@ -9,7 +9,7 @@ Aici vom incerca sa discutam despre o stiva LAMP/LEMP pt un site/app-web, utiliz
  <a href="https://www.clickittech.com/software-development/high-scalability-architecture-php/"><img src="https://images.clickittech.com/wp-content/uploads/2018/05/03153635/php-applications.jpg">arhitecturile cu scalabilitate ridicată</img></a>
 </details>
 
-Procesul este simplu:
+Procesul implementarii arhitecturii <b>AWS-cloud</b> cu <b>scalabilitate ridicată</b> pt. deservirea -(**End/User**)- este simplu:
 
   - 01-(**Developers**)- Creați-vă **serverul principal** pe ***AWS*** folosind
      - *fie* stiva **LAMP**,
