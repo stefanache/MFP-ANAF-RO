@@ -5,7 +5,7 @@ Aici vom incerca sa discutam despre o stiva LAMP/LEMP pt un site/app-web, utiliz
  - [clickITtech-software-development: High-scalability-architecture-PhP](https://www.clickittech.com/software-development/high-scalability-architecture-php/)
    
 <details>
- <summary>arhitecturile <b>AWS-cloud</b> cu scalabilitate ridicată...detalii... </summary>
+ <summary>arhitecturile <b>AWS-cloud</b> cu <b>scalabilitate ridicată</b>...<i>detalii</i>... </summary>
  <a href="https://www.clickittech.com/software-development/high-scalability-architecture-php/"><img src="https://images.clickittech.com/wp-content/uploads/2018/05/03153635/php-applications.jpg">arhitecturile cu scalabilitate ridicată</img></a>
 </details>
 
