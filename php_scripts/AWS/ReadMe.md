@@ -1,6 +1,6 @@
 Salut!
 
-Inainte de a discuta despre un proiect e inalta scalabilitate pt PhP, as propune, ca si pas premergator de pregatire/mai intai, sa va aruncati o privire asupra acestui proiect [AWS CI-CD](https://medium.com/@awseng12/ci-cd-pipeline-with-github-aws-code-pipeline-code-deploy-load-balancer-auto-scaling-group-3732a5661dbb).
+Inainte de a discuta despre un proiect e inalta scalabilitate pt PhP, as propune, ca si pas premergator de pregatire/mai intai, sa va aruncati o privire asupra acestui proiect-practic [AWS CI-CD](https://medium.com/@awseng12/ci-cd-pipeline-with-github-aws-code-pipeline-code-deploy-load-balancer-auto-scaling-group-3732a5661dbb).
 
 Aici vom incerca sa discutam despre o stiva [LAMP/LEMP](https://www.google.com/search?q=aws+PhP+github+jenkins+redis+varnish+LAMP+LEMP+S3+buckets+CloudFront+codedeploy+auto-scaling+load-balancer+RDS&sca_esv=60fc72c6afa20bbd&rlz=1C1CHBF_enRO1132RO1132&udm=2&biw=1920&bih=859&sxsrf=AHTn8zo4gg2r8wLjQSSolBmjRGo9w2oYLQ%3A1743938121037&ei=SWLyZ6qCAuPPxc8Pmu-50Qw&ved=0ahUKEwjqytvho8OMAxXjZ_EDHZp3LsoQ4dUDCBE&uact=5&oq=aws+PhP+github+jenkins+redis+varnish+LAMP+LEMP+S3+buckets+CloudFront+codedeploy+auto-scaling+load-balancer+RDS&gs_lp=EgNpbWcibmF3cyBQaFAgZ2l0aHViIGplbmtpbnMgcmVkaXMgdmFybmlzaCBMQU1QIExFTVAgUzMgYnVja2V0cyBDbG91ZEZyb250IGNvZGVkZXBsb3kgYXV0by1zY2FsaW5nIGxvYWQtYmFsYW5jZXIgUkRTSABQAFgAcAB4AJABAJgBAKABAKoBALgBA8gBAPgBAZgCAKACAJgDAJIHAKAHALIHALgHAA&sclient=img) pt un site/app-web, utilizand infrastructura AWS:
 
