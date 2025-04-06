@@ -25,7 +25,7 @@ Procesul implementarii arhitecturii <b>AWS-cloud</b> cu <b>scalabilitate ridicat
   - 08-(**Jenkins/server**)- Creați și configurați *serverul* dvs. **Jenkins**, care va fi responsabil de procesarea proceselor de *Integrare-Continuă*(*CI*).
   - 09-(**Auto-Scaling group: Master/instance+Slave/instance**)- Creați un *grup* **Auto-Scaling** și *reguli* de **echilibrare**-a-*încărcăturii*-(**Classic/Load/Balancer**)- pentru infrastructura dvs. ***AWS***.
  <br/>Această funcție va *crea* sau *distruge* (*instante* de ) *servere* în funcție de nivelurile de cerere de pe **aplicație/site**-ul *web*.
-  - 10- Conectați-vă *depozitul*-*Github* și compartimentele/*buckets*-*S3* la *Jenkins* și creați-vă *joburile-Jenkins* pentru *construirea*, *testarea*, *împachetarea* și *implementarea* modificărilor/actualizarilor pe *cod*.
+  - 10- Conectați-vă *depozitul*-*Github* și compartimentele/*buckets*-*S3* la *Jenkins* și creați-vă *joburile-Jenkins* pentru *construirea*, *testarea*, *împachetarea* și *implementarea* - modificărilor/actualizarilor pe/de *cod*.
   - 11-(**AWS/CodeDeploy**)- Configurați *regulile* **CodeDeploy** pe ***AWS*** și conectați-le cu *Jenkins*.
 <br/>Regulile *CodeDeploy* vor include modul în care va implementa modificările în instanțele conținute în grupurile *Auto-Scaling*.
   - 12- Testați-vă infrastructura aplicând modificări în codul dvs. și asigurându-vă că acestea sunt implementate automat și corect în toate instanțele.
