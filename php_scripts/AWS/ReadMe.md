@@ -11,24 +11,24 @@ Aici vom incerca sa discutam despre o stiva LAMP/LEMP pt un site/app-web, utiliz
 
 Procesul implementarii arhitecturii <b>AWS-cloud</b> cu <b>scalabilitate ridicată</b> pt. deservirea *site*-ului/*aplicatiei*(*web*)-(**End/user**)- este simplu:
 
-  - 01-(**Developers**)- <ins>Creați</ins>-vă **serverul-principal**-pe-***AWS*** <ins>folosind</ins>
+  - ***01.***-(**Developers**)- <ins>Creați</ins>-vă **serverul-principal**-pe-***AWS*** <ins>folosind</ins>
      - *fie* stiva **LAMP**,
      - *fie* **LEMP**, după cum doriți.
-  - 02-(**VARNISH**)- <ins>Includeți</ins> și <ins>configurați</ins> *stocarea*-în-*cache*-**Varnish** <ins>pe</ins> serverul-dvs.-***AWS***(pas 01.).
-  - 03-(**Amazon/RDS**)- <ins>Creați</ins>-vă *serverul*-**RDS** <ins>pentru</ins> găzduirea-*bazei-de-date(BD)*.
-  - 04-(**S3/bucket**)- <ins>Creați</ins>-vă  compartimentele/*buckets* **S3** <ins>pentru</ins> stocarea-întregului-conținut-<ins>*static*</ins>-al
+  - ***02.***-(**VARNISH**)- <ins>Includeți</ins> și <ins>configurați</ins> *stocarea*-în-*cache*-**Varnish** <ins>pe</ins> serverul-dvs.-***AWS***(pas ***01.***).
+  - ***03.***-(**Amazon/RDS**)- <ins>Creați</ins>-vă *serverul*-**RDS** <ins>pentru</ins> găzduirea-*bazei-de-date(BD)*.
+  - ***04.***-(**S3/bucket**)- <ins>Creați</ins>-vă  compartimentele/*buckets* **S3** <ins>pentru</ins> stocarea-întregului-conținut-<ins>*static*</ins>-al
      - *aplicației* - *web* sau
      - *site*-ului dvs. *web*.
-  - 05-(**Amazon/CloudFront**)- Configurați memorarea în *cache* ***AWS***-**Cloudfront** pentru conținutul *S3*(pas 04.).
-  - 06-(**Code/repository**)- Creați și conectați *depozitul* dvs. **GitHub** la infrastructura dvs. ***AWS*** deja creată(pasi 01.-05.).
-<br/>*Notă*: trebuie să vă asigurați că conectați tot conținutul-*static*(din *cod*) la *S3*(pas 04.).
-  - 07-(**Redis/server**)- Creați și configurați *serverul* dvs. **Redis** pe ***AWS*** după cum doriți.
+  - ***05.***-(**Amazon/CloudFront**)- <ins>Configurați</ins> memorarea-în-*cache*-***AWS***-**Cloudfront** <ins>pentru</ins> conținutul *S3*(pas ***04.***).
+  - ***06.***-(**Code/repository**)- Creați și conectați *depozitul* dvs. **GitHub** la infrastructura dvs. ***AWS*** deja creată(pasi ***01.***-***05.***).
+<br/>*Notă*: trebuie să vă asigurați că conectați tot conținutul-*static*(din *cod*) la *S3*(pas ***04.***).
+  - ***07.***-(**Redis/server**)- Creați și configurați *serverul*-dvs.-**Redis**-pe-***AWS*** după cum doriți.
 <br/>*Notă*: trebuie să vă asigurați că includeți și *Redis* în codul dvs.
-  - 08-(**Jenkins/server**)- Creați și configurați *serverul* dvs. **Jenkins**, care va fi responsabil de procesarea proceselor de *Integrare-Continuă*(*CI*).
-  - 09-(**Auto-Scaling group: Master/instance+Slave/instance**)- Creați un *grup* **Auto-Scaling** și *reguli* de **echilibrare**-a-*încărcăturii*-(**Classic/Load/Balancer**)- pentru infrastructura dvs. ***AWS***.
+  - ***08.***-(**Jenkins/server**)- Creați și configurați *serverul* dvs. **Jenkins**, care va fi responsabil de procesarea proceselor de *Integrare-Continuă*(*CI*).
+  - ***09***-(**Auto-Scaling group: Master/instance+Slave/instance**)- Creați un *grup* **Auto-Scaling** și *reguli* de **echilibrare**-a-*încărcăturii*-(**Classic/Load/Balancer**)- pentru infrastructura dvs. ***AWS***.
  <br/>Această funcție va *crea* sau *distruge* (*instante* de ) *servere* în funcție de nivelurile de cerere de pe **aplicație/site**-ul *web*.
-  - 10- Conectați-vă *depozitul*-*Github* și compartimentele/*buckets*-*S3* la *Jenkins* și creați-vă *joburile-Jenkins* pentru *construirea*, *testarea*, *împachetarea* și *implementarea* - modificărilor/actualizarilor pe/de *cod*.
-  - 11-(**AWS/CodeDeploy**)- Configurați *regulile* **CodeDeploy** pe ***AWS*** și conectați-le cu *Jenkins*.
+  - 10- Conectați-vă *depozitul*-*Github* și compartimentele/*buckets*-*S3* la *Jenkins*(pas ***08.***) și creați-vă *joburile-Jenkins* pentru *construirea*, *testarea*, *împachetarea* și *implementarea* - modificărilor/actualizarilor pe/de *cod*.
+  - ***11.***-(**AWS/CodeDeploy**)- Configurați *regulile* **CodeDeploy** pe ***AWS*** și conectați-le cu *Jenkins*.
 <br/>Regulile *CodeDeploy* vor include modul în care va implementa modificările în instanțele conținute în grupurile *Auto-Scaling*.
   - 12- Testați-vă infrastructura aplicând modificări în codul dvs. și asigurându-vă că acestea sunt implementate automat și corect în toate instanțele.
   - 13- Optimizați-vă și asigurați-vă infrastructura urmând cele mai bune practici.
