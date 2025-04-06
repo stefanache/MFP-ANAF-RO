@@ -17,7 +17,7 @@ Procesul este simplu:
  - 5-(**Amazon/CloudFront**)- Configurați memorarea în *cache* ***AWS***-**Cloudfront** pentru conținutul *S3*(pas 4.).
  - 6-(**Code/repository**)- Creați și conectați *depozitul* dvs. **GitHub** la infrastructura dvs. ***AWS*** deja creată(pasi 1.-5.).
 <br/>*Notă*: trebuie să vă asigurați că conectați tot conținutul-*static*(din *cod*) la *S3*(pas 4.).
- - 7- Creați și configurați *serverul* dvs. **Redis** pe ***AWS*** după cum doriți.
+ - 7-**Redis/server**)- Creați și configurați *serverul* dvs. **Redis** pe ***AWS*** după cum doriți.
 <br/>*Notă*: trebuie să vă asigurați că includeți și *Redis* în codul dvs.
  - 8- Creați și configurați *serverul* dvs. **Jenkins**, care va fi responsabil de procesarea proceselor de *Integrare-Continuă*(*CI*).
  - 9- Creați un *grup* **Auto-Scaling** și *reguli* de **echilibrare** a *încărcăturii* pentru infrastructura dvs. ***AWS***.
