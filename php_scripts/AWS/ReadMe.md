@@ -13,7 +13,7 @@ Procesul este simplu:
  - 1- Creați-vă **serverul principal** pe ***AWS*** folosind fie stiva **LAMP**, fie **LEMP**, după cum doriți.
  - 2-(**VARNISH**)- Includeți și configurați *stocarea* în *cache* **Varnish** pe serverul dvs. ***AWS***(pas 1.).
  - 3-(**Amazon/RDS**)- Creați-vă *serverul* **RDS** pentru găzduirea *bazei de date(BD)*.
- - 4-(**S3/butchet**)- Creați-vă  compartimentele/*buckets* **S3**  pentru stocarea întregului conținut *static* al *aplicației* sau *site*-ului dvs. *web*.
+ - 4-(**S3/buchet**)- Creați-vă  compartimentele/*buckets* **S3**  pentru stocarea întregului conținut *static* al *aplicației* sau *site*-ului dvs. *web*.
  - 5-(**Amazon/CloudFront**)- Configurați memorarea în cache AWS **Cloudfront** pentru conținutul *S3*(pas 4.).
  - 6- Creați și conectați *depozitul* dvs. **GitHub** la infrastructura dvs. ***AWS*** deja creată.
 <br/>*Notă*: trebuie să vă asigurați că conectați tot conținutul static la *S3*(pas 4.) din cod.
