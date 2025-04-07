@@ -37,7 +37,7 @@ De obicei, folosim <b>Husky</b> pentru a rula <b>Eslint</b> și <b>Prettier</b> 
 
 <br/>[***Husky***](https://typicode.github.io/husky/); [***Prettier***](https://prettier.io/docs/precommit); [***ESlint***](https://eslint.org/docs/latest/use/getting-started); [*deps/dependencies*](https://www.dependencies.io/);
 <br/>[**Expo**](https://expo.dev/); [**Expo-Router**](https://docs.expo.dev/versions/latest/sdk/router/); [**Expo-Starter**](https://www.expostarter.com/); [**EAS**](https://expo.dev/eas);
-<br/>[**TypeScript**](https://www.typescriptlang.org/); [**TailWindCSS**](https://tailwindcss.com/); [**Env-Vars**]; [**i18n**](https://www.npmjs.com/package/i18n);(https://en.wikipedia.org/wiki/Environment_variable); 
+<br/>[**TypeScript**](https://www.typescriptlang.org/); [**TailWindCSS**](https://tailwindcss.com/); [**Env-Vars**](https://en.wikipedia.org/wiki/Environment_variable); [**i18n**](https://www.npmjs.com/package/i18n); 
 <br/>[**React-Native(RN)**](https://reactnative.dev/docs/getting-started); [**RN-boilerplate**](https://thecodingmachine.github.io/react-native-boilerplate/); [**RN-template**](https://github.com/zerodays/react-native-template); [**React**](https://reacthandbook.dev/); [**React-Query**](https://handsonreact.com/docs/react-query); [**React-Hook-Form**](https://blog.logrocket.com/react-hook-form-complete-guide/)
 <br/>[***PNPM***](https://pnpm.io/); [***GH-actions***](https://github.com/features/actions)
 
