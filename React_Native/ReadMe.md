@@ -63,7 +63,7 @@ Aici as dori sa impartasesc cu voi cateva link-uri legate de [**React-Native**](
  - [browserStack: Flutter vs. **React-Native**](https://www.browserstack.com/guide/flutter-vs-react-native)
  - [linkedin@Codezilla-pulse-aplicatii_mobile_native: **React Native**, alegerea evidentă. De ce? ](https://www.linkedin.com/pulse/aplica%C8%9Bii-mobile-native-react-alegerea-evident%C4%83-de-ce-/)
  - [reactnative.express: **React-Native** Express](https://www.reactnative.express/)
- - [/medium@ahmed.nums345: getting-started with **React-Native** a beginners-guide](https://medium.com/@ahmed.nums345/getting-started-with-react-native-a-beginners-guide-cf63368bb887)
+ - [medium@ahmed.nums345: getting-started with **React-Native** a beginners-guide](https://medium.com/@ahmed.nums345/getting-started-with-react-native-a-beginners-guide-cf63368bb887)
  - [stackOverflow:**React Native CLI** or/vs. **Expo**?](https://stackoverflow.com/questions/79474102/react-native-cli-or-expo)
  - [expo.dev-docs: Migrate from **React Native CLI** to **Expo CLI**](https://docs.expo.dev/bare/using-expo-cli/)
  - [expo.dev-docs: **Expo-CLI**](https://docs.expo.dev/more/expo-cli/)
