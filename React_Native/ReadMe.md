@@ -65,6 +65,7 @@ Aici as dori sa impartasesc cu voi cateva link-uri legate de [**React-Native**](
  - [reactnative.express: **React-Native** Express](https://www.reactnative.express/)
  - [medium@ahmed.nums345: getting-started with **React-Native** a beginners-guide](https://medium.com/@ahmed.nums345/getting-started-with-react-native-a-beginners-guide-cf63368bb887)
  - [stackOverflow:**React Native CLI** or/vs. **Expo**?](https://stackoverflow.com/questions/79474102/react-native-cli-or-expo)
+ - [expo.dev-docs-tutorial:Create your first app with **Expo**(React-Native SDK)](https://docs.expo.dev/tutorial/create-your-first-app/)
  - [expo.dev-docs: Migrate from **React Native CLI** to **Expo CLI**](https://docs.expo.dev/bare/using-expo-cli/)
  - [expo.dev-docs: **Expo-CLI**](https://docs.expo.dev/more/expo-cli/)
  - [...](https://www.google.com/search?q=react+native&lr=lang_ro&sca_esv=a63cfb001f674c6a&rlz=1C1CHBF_enRO1132RO1132&tbs=lr:lang_1ro&sxsrf=AHTn8zpqGn4cj8q3XiVLLX5lIZGO8rPSYQ:1743842774377&ei=1u3wZ5LiFoCoxc8P2YSzsQo&start=10&sa=N&sstk=Af40H4WTgtId1TBjheerOjq_hzh42nLKp-TnYwqmVpP7A7YUYHTYVgUDBB7dxMWEdEBc_F4DHdijTdSysbazLIglUr2KTg8GVgqODg&ved=2ahUKEwiSpfHIwMCMAxUAVPEDHVnCLKYQ8tMDegQICRAE&biw=1735&bih=721&dpr=1)
