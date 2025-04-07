@@ -38,7 +38,8 @@ De obicei, folosim <b>Husky</b> pentru a rula <b>Eslint</b> și <b>Prettier</b> 
 <br/>[**Expo**](https://expo.dev/); [**Expo-Router**](https://docs.expo.dev/versions/latest/sdk/router/); [**Expo-Starter**](https://www.expostarter.com/) 
 <br/>[**EAS**](https://expo.dev/eas);
 <br/>[**TypeScript**](https://www.typescriptlang.org/); [**TailWindCSS**](https://tailwindcss.com/); [**Env-Vars**](https://en.wikipedia.org/wiki/Environment_variable); 
-<br/>[**React**](https://reacthandbook.dev/); [**React-Native**](https://reactnative.dev/docs/getting-started); [**React-Query**](https://handsonreact.com/docs/react-query); [**React-Hook-Form**](https://blog.logrocket.com/react-hook-form-complete-guide/)
+<br/>[**React-Native(RN)**](https://reactnative.dev/docs/getting-started); [**RN-boilerplate**](https://thecodingmachine.github.io/react-native-boilerplate/);  
+<br/>[**React**](https://reacthandbook.dev/); [**React-Query**](https://handsonreact.com/docs/react-query); [**React-Hook-Form**](https://blog.logrocket.com/react-hook-form-complete-guide/)
 <br/>[***PNPM***](https://pnpm.io/); [***GH-actions***](https://github.com/features/actions)
 
 <hr/>
