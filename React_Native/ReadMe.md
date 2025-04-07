@@ -5,7 +5,7 @@ Aici as dori sa impartasesc cu voi cateva link-uri legate de [**React-Native**](
  - [tutorialsPoint: **React-Native**](https://www.tutorialspoint.com/react_native/index.htm)
  - [oBytes-blog: Cum să structurați un proiect **React-Native(RN)**](https://www.obytes.com/blog/how-to-structure-your-react-native-project);
    <br/>[-**Q**: how-to install **yarn**? **A**: eu prefer cda-DOS_CLI-shell(cmd.exe): ... C:\Users\ {your_userName} > **npm install --global yarn**)](https://www.liquidweb.com/blog/how-to-install-yarn/)
-   <br/>[-Iata aici un ***template-oByte**( un sablon/kit/boiler-plate de... pornire/inceput) pt.**RN)**](https://github.com/obytes/react-native-template-obytes)
+   <br/>[-Iata aici un ***template-oByte***( un sablon/kit/boiler-plate de... pornire/inceput) pt.**RN)**](https://github.com/obytes/react-native-template-obytes)
 <details>
  <summary>...hai sa vorbim( mai in detaliu...!) despre <ins>hook/carlig</ins>-ul utilizat la etapa/stagiul de validare, in constructia(<i>setUp</i>-ul) unui nou proiect-<b>RN</b>, folosind <i>template</i>/sablon/format-ul, oferit de catre cei de la <b><i>oByte</i></b>...</summary>
  <hr/>
