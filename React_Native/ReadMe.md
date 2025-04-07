@@ -13,15 +13,15 @@ De obicei, folosim <b>Husky</b> pentru a rula <b>Eslint</b> și <b>Prettier</b> 
 <i>Explicatie:</i> 
  Daca ai deja pre-instalate,  <b>Husky</b> si <b>Eslint</b>, atunci cand ai modificat, anumite fisiere din foderele proiectului tau,
  si atunci cand(la finalul modificarilor) dai comanda <i>"C:\Users\{user}> <b>git add ...</b>"</i>, pt a le salva in depozitul proiectului tau
- <b>GitHub(GH)</b>..., inainte(<ins>pre-</ins>) de a le salva(pre-salvare/commit) va aparea un eveniment(pre-<ins>commit</ins>), in cadrul caruia, 
+ <b><i>GitHub(GH)</i></b>..., inainte(<ins>pre-</ins>) de a le salva(pre-salvare/commit) va aparea un eveniment(pre-<ins>commit</ins>), in cadrul caruia, 
  <b>Husky</b> va apela(va rula efectiv carligul/<ins>hook</ins>-ul, declarat in prealabil, pt acest eveniment,... de catre <b>Husky</b>), 
  la ajutorul sau(specializat in validari!), validatorul-<b>ESLit</b>, pt a valida  toate fisierele modificate...;
  Dupa rularea acestui carlig(o intrerupere de prindere/captare/validare ... in acest caz... a erorilor nedorite), 
  avem 2 situatii posibile:
  - daca se vor inregistra erori(care desigur ca trebuiesc reparate... si deci...in caz de esec...), nu are sens sa se continue...
- ... cu cursul normal de salvare in **GitHub(GH)**
+ ... cu cursul normal de salvare in <b><i>GitHub(GH)</i></b>
  - in caz contrar(deci in caz de reusita/victorie...adica atunci cand modificarile sunt corecte/valide/fara erori), ...
- ... se va reveni la cursul normal si .... se vor finaliza/efectua(in sfarsit!), salvarile <b>git</b>-ului respectiv!</pre>
+ ... se va reveni la cursul normal si .... se vor finaliza/efectua(in sfarsit!), salvarile <b>git</b>-ului respectiv, in <b><i>GitHub(GH)</i></b>!</pre>
    <br/>[setUp a new project(folosirea acestui *template/sablon-oByte*!)](https://handbook.obytes.com/docs/mobile/new-project/); [***Husky***](https://typicode.github.io/husky/); [***Prettier***](https://prettier.io/docs/precommit); [***ESlint***](https://eslint.org/docs/latest/use/getting-started); [*deps/dependencies*](https://www.dependencies.io/)
  - [reactnative.dev-docs: **React-Native** - getting-started without a framework(sdk)](https://reactnative.dev/docs/getting-started-without-a-framework)
  - [expo.dev-docs-tutorial: Using **React Native** and ***Expo***(*SDK*)](https://docs.expo.dev/tutorial/introduction/)
