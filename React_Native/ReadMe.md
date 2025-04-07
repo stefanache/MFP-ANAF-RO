@@ -36,8 +36,8 @@ De obicei, folosim <b>Husky</b> pentru a rula <b>Eslint</b> și <b>Prettier</b> 
 <br/>[setUp a new project(folosirea acestui *template/sablon-oByte*!)](https://handbook.obytes.com/docs/mobile/new-project/); 
 <br/>[***Husky***](https://typicode.github.io/husky/); [***Prettier***](https://prettier.io/docs/precommit); [***ESlint***](https://eslint.org/docs/latest/use/getting-started); [*deps/dependencies*](https://www.dependencies.io/);
 <br/>[**Expo**](https://expo.dev/); [**Expo-Router**](https://docs.expo.dev/versions/latest/sdk/router/); [**EAS**](https://expo.dev/eas);
-<br/>[**TypeScript**](https://www.typescriptlang.org/); [**TailWindCSS**](https://tailwindcss.com/);
-<br/>[**Env-Vars**](https://en.wikipedia.org/wiki/Environment_variable)
+<br/>[**TypeScript**](https://www.typescriptlang.org/); [**TailWindCSS**](https://tailwindcss.com/); [**Env-Vars**](https://en.wikipedia.org/wiki/Environment_variable); 
+<br/>[**React-Query**](https://handsonreact.com/docs/react-query)
 <br/>[***PNPM***](https://pnpm.io/); [***GH-actions***](https://github.com/features/actions)
 
 <hr/>
