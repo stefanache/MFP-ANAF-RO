@@ -2,7 +2,7 @@
       
       Acest "github-repository" NU ESTE UNUL OFICIAL dar poate constitui(daca doriti) un instrument 
       util de cercetare/explorare(un fel de... "Informatica-povestita"!) care  vine(sau NU!:) in 
-      sprijinul  activitatii dvs.!
+      sprijinul  activitatii dumneavoastra!
 
      Sper ca aceasta documentatie de analiza [cvasi-]tehnica  constituie macar o sursa de inspiratie;
      (aceasta se adreseaza tuturor factorilor implicati/angajati in acest efort comun de eGuvernare)
