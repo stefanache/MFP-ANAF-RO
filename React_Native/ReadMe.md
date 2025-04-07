@@ -16,8 +16,10 @@ De obicei, folosim <b>Husky</b> pentru a rula <b>Eslint</b> și <b>Prettier</b> 
  inainte de a le salva(pre-salvare/commit) va aparea un eveniment(pre-commit),
  in cadrul caruia, <b>Husky</b> va apela(va rula efectiv carligul declarat pt acest eveniment) la ajutorul sau(specializat in validari!), 
  validatorul-<b>ESLit</b>, pt a valida  toate fisierele modificate...;
- Dupa rularea acestui carlig(o intrerupere de prindere/captare/validare ... in acest caz... a erorilor nedorite), 
- se va reveni la cursul normal si ....se vor finaliza, in sfarsit, salvarile git-ului!</pre>
+ Dupa rularea acestui carlig(o intrerupere de prindere/captare/validare ... in acest caz... a erorilor nedorite), avem 2 situatii posibile:
+ - se vor inregistra erori ce trebuiesc reparate si deci nu are sens sa se continue cu cursul normal de salvare in **GitHub(GH)**
+ - in caz contrar(deci daca modificarile sunt corecte/valide/fara erori), se va reveni la cursul normal si ....
+   se vor finaliza/efectua, in sfarsit, salvarile git-ului respectiv!</pre>
    <br/>[setUp a new project(folosirea acestui *template/sablon-oByte*!)](https://handbook.obytes.com/docs/mobile/new-project/); [***Husky***](https://typicode.github.io/husky/); [***Prettier***](https://prettier.io/docs/precommit); [***ESlint***](https://eslint.org/docs/latest/use/getting-started); [*deps/dependencies*](https://www.dependencies.io/)
  - [reactnative.dev-docs: **React-Native** - getting-started without a framework(sdk)](https://reactnative.dev/docs/getting-started-without-a-framework)
  - [expo.dev-docs-tutorial: Using **React Native** and ***Expo***(*SDK*)](https://docs.expo.dev/tutorial/introduction/)
