@@ -31,7 +31,7 @@ De obicei, folosim <b>Husky</b> pentru a rula <b>Eslint</b> și <b>Prettier</b> 
  ... adica la... "respectarea(in proiectare) a formatul convențional de <ins>commit</ins>/salv-are"!
 </pre>
 
-<br/>[setUp a new project(folosirea acestui *template/sablon-oByte*!)](https://handbook.obytes.com/docs/mobile/new-project/); [***Husky***](https://typicode.github.io/husky/); [***Prettier***](https://prettier.io/docs/precommit); [***ESlint***](https://eslint.org/docs/latest/use/getting-started); [*deps/dependencies*](https://www.dependencies.io/)
+<br/>[setUp a new project(folosirea acestui *template/sablon-oByte*!)](https://handbook.obytes.com/docs/mobile/new-project/); [***Husky***](https://typicode.github.io/husky/); [***Prettier***](https://prettier.io/docs/precommit); [***ESlint***](https://eslint.org/docs/latest/use/getting-started); [*deps/dependencies*](https://www.dependencies.io/); [**EAS**](https://expo.dev/eas);
 
 <hr/>
 </details>
