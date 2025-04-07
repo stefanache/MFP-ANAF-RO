@@ -8,7 +8,8 @@ Aici as dori sa impartasesc cu voi cateva link-uri legate de [**React-Native**](
    <br/>[-Iata aici un ***template-oByte**( un sablon/kit/boiler-plate de... pornire/inceput) pt.**RN)**](https://github.com/obytes/react-native-template-obytes)
 <pre><b>Husky</b> ne permite să rulăm comenzi sau scripturi înainte de a <ins>comite</ins> <i>sau</i> de a <ins>împinge</ins> codul nostru în <b>git</b>. 
 Este benefic să configurați cu ușurință un <ins>cârlig/ancora/hook</ins> de pre-<ins>commit</ins>. 
-De obicei, folosim <b>Husky</b> pentru a rula <b>Eslint</b> și <b>Prettier</b> pentru a <ins>valida tastarea/introducerea</ins>ins> fișierelor-modificate, înainte de <ins>comitere</ins>.</pre>
+De obicei, folosim <b>Husky</b> pentru a rula <b>Eslint</b> și <b>Prettier</b> pentru a <ins>valida tastarea/introducerea</ins>... 
+...fișierelor-modificate, înainte de <ins>comitere</ins>.</pre>
    <br/>[setUp a new project(folosirea acestui *template/sablon-oByte*!)](https://handbook.obytes.com/docs/mobile/new-project/); [***Husky***](https://typicode.github.io/husky/); [***Prettier***](https://prettier.io/docs/precommit); [***ESlint***](https://eslint.org/docs/latest/use/getting-started); [*deps/dependencies*](https://www.dependencies.io/)
  - [reactnative.dev-docs: **React-Native** - getting-started without a framework(sdk)](https://reactnative.dev/docs/getting-started-without-a-framework)
  - [expo.dev-docs-tutorial: Using **React Native** and ***Expo***(*SDK*)](https://docs.expo.dev/tutorial/introduction/)
