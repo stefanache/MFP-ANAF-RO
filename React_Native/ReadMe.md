@@ -6,7 +6,6 @@ Aici as dori sa impartasesc cu voi cateva link-uri legate de [**React-Native**](
  - [oBytes-blog: Cum să structurați un proiect **React-Native(RN)**](https://www.obytes.com/blog/how-to-structure-your-react-native-project);
    <br/>[-**Q**: how-to install **yarn**? **A**: eu prefer cda-DOS_CLI-shell(cmd.exe): ... C:\Users\ {your_userName} > **npm install --global yarn**)](https://www.liquidweb.com/blog/how-to-install-yarn/)
    <br/>[-Iata aici un ***template-oByte**( un sablon/kit/boiler-plate de... pornire/inceput) pt.**RN)**](https://github.com/obytes/react-native-template-obytes)
-
 <details>
  <summary>...hai sa vorbim despre <ins>hooks</ins>... mai in detaliu...!</summary>
  <hr/>
@@ -34,9 +33,9 @@ De obicei, folosim <b>Husky</b> pentru a rula <b>Eslint</b> și <b>Prettier</b> 
 
 <hr/>
 
-</details>
+<br/>[setUp a new project(folosirea acestui *template/sablon-oByte*!)](https://handbook.obytes.com/docs/mobile/new-project/); [***Husky***](https://typicode.github.io/husky/); [***Prettier***](https://prettier.io/docs/precommit); [***ESlint***](https://eslint.org/docs/latest/use/getting-started); [*deps/dependencies*](https://www.dependencies.io/)
 
-   <br/>[setUp a new project(folosirea acestui *template/sablon-oByte*!)](https://handbook.obytes.com/docs/mobile/new-project/); [***Husky***](https://typicode.github.io/husky/); [***Prettier***](https://prettier.io/docs/precommit); [***ESlint***](https://eslint.org/docs/latest/use/getting-started); [*deps/dependencies*](https://www.dependencies.io/)
+</details>   
  - [reactnative.dev-docs: **React-Native** - getting-started without a framework(sdk)](https://reactnative.dev/docs/getting-started-without-a-framework)
  - [expo.dev-docs-tutorial: Using **React Native** and ***Expo***(*SDK*)](https://docs.expo.dev/tutorial/introduction/)
  - [back4app-blog: How to make a ToDo ***List App*** with **React-Native(RN)**, **Expo**(RN SDK) and **Back4App**](https://blog.back4app.com/expo-react-native/); [back4app - web development platform(*see prices*!)](https://www.back4app.com/web-deployment-platform)
