@@ -16,7 +16,8 @@ De obicei, folosim <b>Husky</b> pentru a rula <b>Eslint</b> și <b>Prettier</b> 
  inainte de a le salva(pre-salvare/commit) va aparea un eveniment(pre-commit),
  in cadrul caruia, <b>Husky</b> va apela(va rula efectiv carligul declarat pt acest eveniment) la ajutorul sau(specializat in validari!), 
  validatorul-<b>ESLit</b>, pt a valida  toate fisierele modificate...;
- Dupa rularea acestui carlig(o intrerupere de prindere/captare/validare ... in acest caz... a erorilor nedorite), avem 2 situatii posibile:
+ Dupa rularea acestui carlig(o intrerupere de prindere/captare/validare ... in acest caz... a erorilor nedorite), 
+ avem 2 situatii posibile:
  - se vor inregistra erori ce trebuiesc reparate si deci nu are sens sa se continue cu cursul normal de salvare in **GitHub(GH)**
  - in caz contrar(deci daca modificarile sunt corecte/valide/fara erori), se va reveni la cursul normal si ....
    se vor finaliza/efectua, in sfarsit, salvarile git-ului respectiv!</pre>
