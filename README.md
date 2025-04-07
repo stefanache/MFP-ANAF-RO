@@ -1,7 +1,7 @@
 ***[Atentie](https://code.visualstudio.com/docs/sourcecontrol/github)***: 
       
       Acest "github-repository" NU ESTE UNUL OFICIAL dar poate constitui(daca doriti) un instrument 
-      util de cercetare/explorare(un fel de... "Informatica-povestita"!) care  vine(sau NU!:) in 
+      util de cercetare/explorare(un fel de... "Informatica/Programarea-povestita"!) care  vine(sau NU!:) in 
       sprijinul  activitatii dumneavoastra!
 
      Sper ca aceasta documentatie de analiza [cvasi-]tehnica  constituie macar o sursa de inspiratie;
