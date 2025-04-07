@@ -37,7 +37,7 @@ De obicei, folosim <b>Husky</b> pentru a rula <b>Eslint</b> și <b>Prettier</b> 
 <br/>[***Husky***](https://typicode.github.io/husky/); [***Prettier***](https://prettier.io/docs/precommit); [***ESlint***](https://eslint.org/docs/latest/use/getting-started); [*deps/dependencies*](https://www.dependencies.io/);
 <br/>[**Expo**](https://expo.dev/); [**Expo-Router**](https://docs.expo.dev/versions/latest/sdk/router/); [**EAS**](https://expo.dev/eas);
 <br/> [**TailWindCSS**](https://tailwindcss.com/); 
-<br/>[***GH-actions***](https://github.com/features/actions)
+<br/>[***PNPM***](https://pnpm.io/); [***GH-actions***](https://github.com/features/actions)
 
 <hr/>
 </details>
