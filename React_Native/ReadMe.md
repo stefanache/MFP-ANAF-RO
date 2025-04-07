@@ -21,7 +21,11 @@ De obicei, folosim <b>Husky</b> pentru a rula <b>Eslint</b> și <b>Prettier</b> 
  - daca se vor inregistra erori(care desigur ca trebuiesc reparate... si deci...in caz de esec...), nu are sens sa se continue...
  ... cu cursul normal de salvare in <b><i>GitHub(GH)</i></b>
  - in caz contrar(deci in caz de reusita/victorie...adica atunci cand modificarile sunt corecte/valide/fara erori), ...
- ... se va reveni la cursul normal si .... se vor finaliza/efectua(in sfarsit!), salvarile <b>git</b>-ului respectiv, in <b><i>GitHub(GH)</i></b>!</pre>
+ ... se va reveni la cursul normal si .... se vor finaliza/efectua(in sfarsit!), salvarile <b>git</b>-ului respectiv, in <b><i>GitHub(GH)</i></b>!
+
+ <b>Prettier</b> este un asistent de pre-*commit*are/pre-salvare al <b>ESLit</b>-ului, care "ajuta" la ...
+ "respectarea(in proiectare) a formatul convențional de *commit*-are"!
+</pre>
    <br/>[setUp a new project(folosirea acestui *template/sablon-oByte*!)](https://handbook.obytes.com/docs/mobile/new-project/); [***Husky***](https://typicode.github.io/husky/); [***Prettier***](https://prettier.io/docs/precommit); [***ESlint***](https://eslint.org/docs/latest/use/getting-started); [*deps/dependencies*](https://www.dependencies.io/)
  - [reactnative.dev-docs: **React-Native** - getting-started without a framework(sdk)](https://reactnative.dev/docs/getting-started-without-a-framework)
  - [expo.dev-docs-tutorial: Using **React Native** and ***Expo***(*SDK*)](https://docs.expo.dev/tutorial/introduction/)
