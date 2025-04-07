@@ -5,7 +5,7 @@ Aici as dori sa impartasesc cu voi cateva link-uri legate de [**React-Native**](
  - [tutorialsPoint: **React-Native**](https://www.tutorialspoint.com/react_native/index.htm)
  - [oBytes-blog: Cum să structurați un proiect **React-Native(RN)**](https://www.obytes.com/blog/how-to-structure-your-react-native-project);
    <br/>[-**Q**: how-to install **yarn**? **A**: eu prefer cda-DOSCLI-shell(cmd.exe): ... C:\Users\ {your_userName} > **npm install --global yarn**)](https://www.liquidweb.com/blog/how-to-install-yarn/)
-   <br/>[-Iata aici un ***template-oByte** pentru **RN)**](https://github.com/obytes/react-native-template-obytes)
+   <br/>[-Iata aici un ***template-oByte**( un sablon/kit/boiler-plate de... pornire/inceput) pt.**RN)**](https://github.com/obytes/react-native-template-obytes)
  - [reactnative.dev-docs: **React-Native** - getting-started without a framework(sdk)](https://reactnative.dev/docs/getting-started-without-a-framework)
  - [expo.dev-docs-tutorial: Using **React Native** and ***Expo***(*SDK*)](https://docs.expo.dev/tutorial/introduction/)
  - [back4app-blog: How to make a ToDo ***List App*** with **React-Native(RN)**, **Expo**(RN SDK) and **Back4App**](https://blog.back4app.com/expo-react-native/); [back4app - web development platform(*see prices*!)](https://www.back4app.com/web-deployment-platform)
