@@ -7,7 +7,7 @@ Aici as dori sa impartasesc cu voi cateva link-uri legate de [**React-Native**](
    <br/>[-**Q**: how-to install **yarn**? **A**: eu prefer cda-DOS_CLI-shell(cmd.exe): ... C:\Users\ {your_userName} > **npm install --global yarn**)](https://www.liquidweb.com/blog/how-to-install-yarn/)
    <br/>[-Iata aici un ***template-oByte**( un sablon/kit/boiler-plate de... pornire/inceput) pt.**RN)**](https://github.com/obytes/react-native-template-obytes)
 <details>
- <summary>...hai sa vorbim despre <ins>hooks</ins>... mai in detaliu...!</summary>
+ <summary>...hai sa vorbim despre <ins>hook/carlig</ins>-ul utilizat in constructia(<i>setUp</i>-ul) <i>template</i>/sablon/format-ul <b>RN</b> oferit de catre <b><i>oByte</i></b>... mai in detaliu...!</summary>
  <hr/>
  
 <pre><b>Husky</b> ne permite să rulăm comenzi sau scripturi înainte de a <ins>comite</ins> <i>sau</i> de a <ins>împinge</ins> codul nostru în <b>git</b>. 
