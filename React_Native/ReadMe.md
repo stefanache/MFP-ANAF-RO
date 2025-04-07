@@ -5,7 +5,7 @@ Aici as dori sa impartasesc cu voi cateva link-uri legate de [**React-Native**](
  - [tutorialsPoint: **React-Native**](https://www.tutorialspoint.com/react_native/index.htm)
  - [reactnative.dev-docs: **React-Native** - getting-started without a framework(sdk)](https://reactnative.dev/docs/getting-started-without-a-framework)
  - [expo.dev-docs-tutorial: Using **React Native** and ***Expo***(*SDK*)](https://docs.expo.dev/tutorial/introduction/)
- - [back4app-blog: How to make a ToDo ***List App*** with **React-Native(RN)**, **Expo**(RN SDK) and **Back4App**](https://blog.back4app.com/expo-react-native/); [back4app - web development platform](https://www.back4app.com/web-deployment-platform)
+ - [back4app-blog: How to make a ToDo ***List App*** with **React-Native(RN)**, **Expo**(RN SDK) and **Back4App**](https://blog.back4app.com/expo-react-native/); [back4app - web development platform(see prices)](https://www.back4app.com/web-deployment-platform)
  - [reactnative.dev-docs: **React-Native**](https://reactnative.dev/docs/environment-setup)
  - [reactNative.dev: **React Native** - Learn once, write anywhere.](https://reactnative.dev/)
  - [simpliLearn: **React-Native** tutorial-article](https://www.simplilearn.com/react-native-tutorial-article)
