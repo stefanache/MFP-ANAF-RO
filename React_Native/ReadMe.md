@@ -23,8 +23,8 @@ De obicei, folosim <b>Husky</b> pentru a rula <b>Eslint</b> și <b>Prettier</b> 
  - in caz contrar(deci in caz de reusita/victorie...adica atunci cand modificarile sunt corecte/valide/fara erori), ...
  ... se va reveni la cursul normal si .... se vor finaliza/efectua(in sfarsit!), salvarile <b>git</b>-ului respectiv, in <b><i>GitHub(GH)</i></b>!
 
- <b>Prettier</b> este un asistent de pre-<ins>commit</ins>are/pre-salvare al <b>ESLit</b>-ului, care "ajuta" la formatarea/stagierea fisierelor, adica la...
- "respectarea(in proiectare) a formatul convențional de <ins>commit</ins>/salv-are"!
+ <b>Prettier</b> este un asistent de pre-<ins>commit</ins>are/pre-salvare al <b>ESLit</b>-ului, care "ajuta" la (re)formatarea/stagierea fisierelor,...
+ ... adica la... "respectarea(in proiectare) a formatul convențional de <ins>commit</ins>/salv-are"!
 </pre>
    <br/>[setUp a new project(folosirea acestui *template/sablon-oByte*!)](https://handbook.obytes.com/docs/mobile/new-project/); [***Husky***](https://typicode.github.io/husky/); [***Prettier***](https://prettier.io/docs/precommit); [***ESlint***](https://eslint.org/docs/latest/use/getting-started); [*deps/dependencies*](https://www.dependencies.io/)
  - [reactnative.dev-docs: **React-Native** - getting-started without a framework(sdk)](https://reactnative.dev/docs/getting-started-without-a-framework)
