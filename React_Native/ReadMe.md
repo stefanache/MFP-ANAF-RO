@@ -9,7 +9,15 @@ Aici as dori sa impartasesc cu voi cateva link-uri legate de [**React-Native**](
 <pre><b>Husky</b> ne permite să rulăm comenzi sau scripturi înainte de a <ins>comite</ins> <i>sau</i> de a <ins>împinge</ins> codul nostru în <b>git</b>. 
 Este benefic să configurați cu ușurință un <ins>cârlig/ancora/hook</ins> de pre-<ins>commit</ins>. 
 De obicei, folosim <b>Husky</b> pentru a rula <b>Eslint</b> și <b>Prettier</b> pentru a <ins>valida tastarea/introducerea</ins>... 
-...fișierelor-modificate, înainte de <ins>comitere</ins>.</pre>
+...fișierelor-modificate, înainte de <ins>comitere</ins>.
+<i>Explicatie:</i> 
+ Daca ai deja pre-instalate,  <b>Husky</b> si <b>Eslint</b>, atunci cand ai modificat, anumite fisiere din foderele proiectului tau,
+ si atunci cand(la finalul modificarilor) dai comanda <b>git</b>, pt a le salva in depozitul git, ...
+ inainte de a le salva(pre-salvare/commit) va aparea un eveniment(pre-commit),
+ in cadrul caruia, <b>Husky</b> va apela(va rula efectiv carligul declarat pt acest eveniment) la ajutorul sau(specializat in validari!), 
+ validatorul-<b>ESLit</b>, pt a valida  toate fisierele modificate...;
+ Dupa rularea acestui carlig(o intrerupere de prindere/captare/validare ... in acest caz... a erorilor nedorite), 
+ se va reveni la cursul normal si ....se vor finaliza, in sfarsit, salvarile git-ului!</pre>
    <br/>[setUp a new project(folosirea acestui *template/sablon-oByte*!)](https://handbook.obytes.com/docs/mobile/new-project/); [***Husky***](https://typicode.github.io/husky/); [***Prettier***](https://prettier.io/docs/precommit); [***ESlint***](https://eslint.org/docs/latest/use/getting-started); [*deps/dependencies*](https://www.dependencies.io/)
  - [reactnative.dev-docs: **React-Native** - getting-started without a framework(sdk)](https://reactnative.dev/docs/getting-started-without-a-framework)
  - [expo.dev-docs-tutorial: Using **React Native** and ***Expo***(*SDK*)](https://docs.expo.dev/tutorial/introduction/)
