@@ -71,4 +71,5 @@ Aici as dori sa impartasesc cu voi cateva link-uri legate de [**React-Native**](
  - [expo.dev-docs: **Expo-CLI**](https://docs.expo.dev/more/expo-cli/)
  - [expo.dev-blog: **RFC** - File System-Based ***Native Routing*** with **Expo** and **React Native**](https://blog.expo.dev/rfc-file-system-based-routing-in-react-native-7a35474722a); [wiki: ***RFC***](https://en.wikipedia.org/wiki/Request_for_Comments)
  - [expo.dev-blog: RFC: API-Routes in **Expo-Router**](https://blog.expo.dev/rfc-api-routes-cce5a3b9f25d)
+ - [Redare **React** on the ***Edge*** cu ***Flareact*** și ***Cloudflare(CF)-Workers***](https://blog.cloudflare.com/rendering-react-on-the-edge-with-flareact-and-cloudflare-workers/)
  - [...](https://www.google.com/search?q=react+native&lr=lang_ro&sca_esv=a63cfb001f674c6a&rlz=1C1CHBF_enRO1132RO1132&tbs=lr:lang_1ro&sxsrf=AHTn8zpqGn4cj8q3XiVLLX5lIZGO8rPSYQ:1743842774377&ei=1u3wZ5LiFoCoxc8P2YSzsQo&start=10&sa=N&sstk=Af40H4WTgtId1TBjheerOjq_hzh42nLKp-TnYwqmVpP7A7YUYHTYVgUDBB7dxMWEdEBc_F4DHdijTdSysbazLIglUr2KTg8GVgqODg&ved=2ahUKEwiSpfHIwMCMAxUAVPEDHVnCLKYQ8tMDegQICRAE&biw=1735&bih=721&dpr=1)
