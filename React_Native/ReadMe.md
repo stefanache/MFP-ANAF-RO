@@ -12,9 +12,9 @@ De obicei, folosim <b>Husky</b> pentru a rula <b>Eslint</b> și <b>Prettier</b> 
 ...fișierelor-modificate, înainte de <ins>comitere</ins>.
 <i>Explicatie:</i> 
  Daca ai deja pre-instalate,  <b>Husky</b> si <b>Eslint</b>, atunci cand ai modificat, anumite fisiere din foderele proiectului tau,
- si atunci cand(la finalul modificarilor) dai comanda <i>"C:\Users\{user}> <b>git add ...</b>"</i>i>, pt a le salva in depozitul proiectului tau <b>GitHub(GH)</b>, ...
- inainte de a le salva(pre-salvare/commit) va aparea un eveniment(pre-commit), in cadrul caruia, 
- <b>Husky</b> va apela(va rula efectiv carligul (<i>hook</i>-ul, declarat in prealabil, pt acest eveniment,... de catre <b>Husky</b>), 
+ si atunci cand(la finalul modificarilor) dai comanda <i>"C:\Users\{user}> <b>git add ...</b>"</i>i>, pt a le salva in depozitul proiectului tau
+ <b>GitHub(GH)</b>..., inainte(<ins>pre-</ins>) de a le salva(pre-salvare/commit) va aparea un eveniment(pre-<ins>commit</ins>), in cadrul caruia, 
+ <b>Husky</b> va apela(va rula efectiv carligul (<ins>hook</ins>-ul, declarat in prealabil, pt acest eveniment,... de catre <b>Husky</b>), 
  la ajutorul sau(specializat in validari!), validatorul-<b>ESLit</b>, pt a valida  toate fisierele modificate...;
  Dupa rularea acestui carlig(o intrerupere de prindere/captare/validare ... in acest caz... a erorilor nedorite), 
  avem 2 situatii posibile:
