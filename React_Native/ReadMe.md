@@ -6,7 +6,7 @@ Aici as dori sa impartasesc cu voi cateva link-uri legate de [**React-Native**](
  - [oBytes-blog: Cum să structurați un proiect **React-Native(RN)**](https://www.obytes.com/blog/how-to-structure-your-react-native-project);
    <br/>[-**Q**: how-to install **yarn**? **A**: eu prefer cda-DOSCLI-shell(cmd.exe): ... C:\Users\ {your_userName} > **npm install --global yarn**)](https://www.liquidweb.com/blog/how-to-install-yarn/)
    <br/>[-Iata aici un ***template-oByte**( un sablon/kit/boiler-plate de... pornire/inceput) pt.**RN)**](https://github.com/obytes/react-native-template-obytes)
-     <pre>***Husky*** ne permite să rulăm comenzi sau scripturi înainte de a <ins>comite</ins> *sau* de a <ins>împinge</ins> codul nostru în ***git***. 
+     <pre><b>Husky</b> ne permite să rulăm comenzi sau scripturi înainte de a <ins>comite</ins> <i>sau</i> de a <ins>împinge</ins> codul nostru în <b>git</b>. 
       Este benefic să configurați cu ușurință un <ins>cârlig/ancora/hook</ins> de pre-<ins>commit</ins>. 
       De obicei, folosim ***Husky*** pentru a rula ***Eslint*** și **Prettier** pentru a <ins>valida tastarea/introducerea</ins>ins> fișierelor-modificate, înainte de <ins>comitere</ins>.</pre>
    <br/>[setUp a new project(folosirea acestui *template/sablon-oByte*!)](https://handbook.obytes.com/docs/mobile/new-project/); [***Husky***](https://typicode.github.io/husky/); [***Prettier***](https://prettier.io/docs/precommit); [***ESlint***](https://eslint.org/docs/latest/use/getting-started); [*deps/dependencies*](https://www.dependencies.io/)
