@@ -6,5 +6,5 @@ Nu uitati informatii oficiale despre serviciile web **ANAF** gasiti in articolul
 
 Am gasit acest repository [RomaniaOpenData](https://github.com/ignatandrei/RomaniaOpenData/tree/master), de altfel extrem de util, dar nu stiu in ce masura este intretinut/actualizat/mentinut in viata!
 
-Poate fi de folos insa acest [github-repository](https://github.com/GSA/data.gov?tab=readme-ov-file) care se refera la site/portalul-ul guvernului(serverul CKAN): **dataset.gov.ro**
+Poate fi de folos insa acest [github-repository](https://github.com/GSA/data.gov?tab=readme-ov-file) care se refera la site/portalul-ul guvernului(serverul [CKAN](https://demo.ckan.org/ro/about)): **dataset.gov.ro**
 - a se consulta actiunile/activitatea privind acest portal!!!
