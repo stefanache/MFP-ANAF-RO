@@ -109,7 +109,8 @@ Stadiul absorbtiei - 31 octombrie 2024</pre>
   <br> Daca dati/accesati pe link-ul **API-Data** care este un link pt URL=*https://data.gov.ro/api/1/util/snippet/api_info.html?resource_id=d499ce49-b9dc-437d-ba62-49ec00e06c68*, obtineti un fragment de cod-api(snippet) **JS** si unul **python**(generate in mod automat, folosind un utilitar-api) cu care puteti accesa direct (aceasta resursa fiind deci primul fisier xslx al intregii colectii de fisiere)
 
 <br/>Iata aici 3 moduri de cautare pe/pt aceiasi resursa/colectie mare de fisiere xslx(resourceid=**8f43aa12-3bf9-4c14-b13f-dc0e490a92c5**):
-- exemplu-CKAN-action(api)-procedura-RPC=*datastore_search*: [cerere/search/cautare Top-5 rezultate](https://data.gov.ro/ro/api/3/action/datastore_search?resource_id=8f43aa12-3bf9-4c14-b13f-dc0e490a92c5&limit=5)
+
+- 1)exemplu-CKAN-action(api)-procedura-RPC=*datastore_search*: [cerere/search/cautare Top-5 rezultate](https://data.gov.ro/ro/api/3/action/datastore_search?resource_id=8f43aa12-3bf9-4c14-b13f-dc0e490a92c5&limit=5)
 <details>
     <summary>raspunsul JSON... detalii...</summary>
 
@@ -297,7 +298,7 @@ Textul furnizat este un răspuns JSON de la un API web, special conceput pentru 
 </details>
 
 
-- exemplu-CKAN-action(api)-procedura-RPC=*datastore_search*: [contains](https://data.gov.ro/ro/api/3/action/datastore_search?q=jones&resource_id=8f43aa12-3bf9-4c14-b13f-dc0e490a92c5)(q=jones)
+- 2)exemplu-CKAN-action(api)-procedura-RPC=*datastore_search*: [contains](https://data.gov.ro/ro/api/3/action/datastore_search?q=jones&resource_id=8f43aa12-3bf9-4c14-b13f-dc0e490a92c5)(q=jones)
 
 <details>
     <summary>raspunsul JSON... detalii...</summary>
@@ -373,7 +374,7 @@ Textul furnizat este un răspuns JSON de la un API web, special conceput pentru 
 
   </details>
   
-- exemplu-CKAN-action(api)-procedura-RPC=*datastore_search_sql*: [via/utilizand SQL](https://data.gov.ro/ro/api/3/action/datastore_search_sql?sql=SELECT+*+from+"8f43aa12-3bf9-4c14-b13f-dc0e490a92c5"+WHERE+title+LIKE+'jones')
+- 3)exemplu-CKAN-action(api)-procedura-RPC=*datastore_search_sql*: [via/utilizand SQL](https://data.gov.ro/ro/api/3/action/datastore_search_sql?sql=SELECT+*+from+"8f43aa12-3bf9-4c14-b13f-dc0e490a92c5"+WHERE+title+LIKE+'jones')
 
  - Un simplu fragment de cod ajax (JSONP), care reprezinta o cerere/request catre  datele-API-ului folosind jQuery:
 
