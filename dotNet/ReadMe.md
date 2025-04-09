@@ -14,3 +14,4 @@ Pentru coderi/codificatori/programatori: API-ul CKAN([**Action API**](https://do
 
 - exemplu-CKAN-action(api): [cere top5 rezultate](https://data.gov.ro/ro/api/3/action/datastore_search?resource_id=8f43aa12-3bf9-4c14-b13f-dc0e490a92c5&limit=5)
 - exemplu-CKAN-action(api): [contains](https://data.gov.ro/ro/api/3/action/datastore_search?q=jones&resource_id=8f43aa12-3bf9-4c14-b13f-dc0e490a92c5)
+- exemplu-CKAN-action(api): [via/utilizand SQL](https://data.gov.ro/ro/api/3/action/datastore_search_sql?sql=SELECT * from "8f43aa12-3bf9-4c14-b13f-dc0e490a92c5" WHERE title LIKE 'jones')
