@@ -124,5 +124,6 @@ Stadiul absorbtiei - 31 octombrie 2024</pre>
         fileobj = urllib.urlopen(url)
         print fileobj.read()
 
-[Aici](https://github.com/GSA/ckan-php-client) puteti gasi un *client*-**CKAN** scris in *PhP* iar [aici](https://github.com/KRontheWeb/ckan-downloader) unul scris in *Python*.
+[Aici](https://github.com/GSA/ckan-php-client) puteti gasi un *client*-**CKAN** scris in *PhP* iar [aici](https://github.com/KRontheWeb/ckan-downloader) unul scris in *Python*(se poate folosi si [cURL](https://stackoverflow.com/questions/38271351/download-resources-from-private-ckan-datasets)-ul).
+
 
