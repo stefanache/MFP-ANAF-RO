@@ -118,7 +118,7 @@ Stadiul absorbtiei - 31 octombrie 2024</pre>
 <hr/>
 
 <br/> query: https://data.gov.ro/ro/api/3/action/datastore_search?resource_id=8f43aa12-3bf9-4c14-b13f-dc0e490a92c5&limit=5
-
+<br>*Nota*: pt a afisa frumos sirul-JSON am folosit un site ce ofera acest serviciu online: [https://jsonformatter.org/json-pretty-print](https://jsonformatter.org/json-pretty-print)...Multumiri!
 
 <pre>{
   "help": "https://data.gov.ro/ro/api/3/action/help_show?name=datastore_search",
