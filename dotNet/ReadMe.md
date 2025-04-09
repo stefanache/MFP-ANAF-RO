@@ -15,7 +15,7 @@ Pentru coderi/codificatori/programatori: API-ul CKAN([**Action API**](https://do
 - exemplu-CKAN-Resource-ID=[**8f43aa12-3bf9-4c14-b13f-dc0e490a92c5**](https://data.gov.ro/dataset/stadiul-absorbtiei-fondurilor-europene/resource/8f43aa12-3bf9-4c14-b13f-dc0e490a92c5)
   <br/>Stadiul absorbției pentru programele finanțate din Fondurile Europene Structurale și de Investiții (FESI) și al plăților efectuate din
   <br/>Fondul European de Garantare Agricolă (FEGA), pentru perioada... 2014-28 august 2020
-  <br/>URL:  https://data.gov.ro/dataset/10767d4c-8398-4b60-b17a-aa526f55e946/resource/ **8f43aa12-3bf9-4c14-b13f-dc0e490a92c5** /download/stadiul-absorbiei-fon
+  <br/>URL:  https://data.gov.ro/dataset/10767d4c-8398-4b60-b17a-aa526f55e946/resource/8f43aa12-3bf9-4c14-b13f-dc0e490a92c5/download/stadiul-absorbiei-fon
   <br/>Aceasta resursa cuprinde/este o colectie de fisiere xls(Excel):     Date şi resurse ce pot fi descarca/download-abile recursiv....
 <pre>
 Stadiul absorbtiei - 30 martie 2018XLSX
@@ -94,7 +94,7 @@ Stadiul absorbtiei - 6 august 2024XLSX
 Stadiul absorbției - 30 august 2024XLSX
 Stadiul absorbtiei - 30 septembrie 2024XLSX
 Stadiul absorbtiei - 31 octombrie 2024</pre>
-  <br/>Fiecare fisier la ransul sau fiind o resursa: ex primul fisier are resourceid=[d499ce49-b9dc-437d-ba62-49ec00e06c68](https://data.gov.ro/dataset/stadiul-absorbtiei-fondurilor-europene/resource/d499ce49-b9dc-437d-ba62-49ec00e06c68)
+  <br/>Fiecare fisier la ransul sau fiind o resursa: ex primul fisier are resourceid=[*d499ce49-b9dc-437d-ba62-49ec00e06c68*](https://data.gov.ro/dataset/stadiul-absorbtiei-fondurilor-europene/resource/d499ce49-b9dc-437d-ba62-49ec00e06c68)
   <br> Daca dati/accesati pe link-ul **API-Data** care este un link pt URL=*https://data.gov.ro/api/1/util/snippet/api_info.html?resource_id=d499ce49-b9dc-437d-ba62-49ec00e06c68*, obtineti un fragment de cod-api(snippet) **JS** si unul **python**(generate in mod automat, folosind un utilitar-api) cu care puteti accesa direct (aceasta resursa fiind deci primul fisier xslx al intregii colectii de fisiere)
 
 <br/>Iata aici 3 moduri de cautare pe/pt aceiasi resursa/colectie mare de fisiere xslx(resourceid=**8f43aa12-3bf9-4c14-b13f-dc0e490a92c5**):
