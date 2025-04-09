@@ -106,7 +106,7 @@ Stadiul absorbtiei - 31 octombrie 2024</pre>
 </details>
 
   <br/>Fiecare fisier la randul sau fiind o resursa: ex. primul fisier are resourceid=[*d499ce49-b9dc-437d-ba62-49ec00e06c68*](https://data.gov.ro/dataset/stadiul-absorbtiei-fondurilor-europene/resource/d499ce49-b9dc-437d-ba62-49ec00e06c68)
-  <br/>Asadar, ca orice alt *resourceid*, si acesta, la randul sau,  poate fi folosit/face parte [d]in  orice link valid de interogare...
+  <br/>Asadar, ca orice alt *resourceID*, si acesta, la randul sau, poate fi folosit/face parte [d]in  orice link valid de interogare...
   <br/>(spre exemplu:[https://data.gov.ro/ro/api/3/action/datastore_search?resource_id=d499ce49-b9dc-437d-ba62-49ec00e06c68](https://data.gov.ro/ro/api/3/action/datastore_search?resource_id=d499ce49-b9dc-437d-ba62-49ec00e06c68));
   
 
