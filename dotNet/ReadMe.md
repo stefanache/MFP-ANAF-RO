@@ -10,4 +10,4 @@ Poate fi de folos insa acest [github-repository](https://github.com/GSA/data.gov
 
 Pentru coderi/codificatori/programatori: API-ul CKAN([**Action API**](https://docs.ckan.org/en/2.9/api/)) comunica in stil [RPC](https://en.wikipedia.org/wiki/Remote_procedure_call)
 
-- a se consulta actiunile/activitatea privind acest portal!!!
+- a se consulta [actiunile/activitatea](https://github.com/datagovau/ckan-api-examples) privind acest portal!!!
