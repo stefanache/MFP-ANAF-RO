@@ -15,3 +15,24 @@ Pentru coderi/codificatori/programatori: API-ul CKAN([**Action API**](https://do
 - exemplu-CKAN-action(api): [cere top5 rezultate](https://data.gov.ro/ro/api/3/action/datastore_search?resource_id=8f43aa12-3bf9-4c14-b13f-dc0e490a92c5&limit=5)
 - exemplu-CKAN-action(api): [contains](https://data.gov.ro/ro/api/3/action/datastore_search?q=jones&resource_id=8f43aa12-3bf9-4c14-b13f-dc0e490a92c5)
 - exemplu-CKAN-action(api): [via/utilizand SQL](https://data.gov.ro/ro/api/3/action/datastore_search_sql?sql=SELECT * from "8f43aa12-3bf9-4c14-b13f-dc0e490a92c5" WHERE title LIKE 'jones')
+
+ - A simple ajax (JSONP) request to the data API using jQuery.
+
+        var data = {
+          resource_id: '8f43aa12-3bf9-4c14-b13f-dc0e490a92c5', // the resource id
+          limit: 5, // get 5 results
+          q: 'jones' // query for 'jones'
+        };
+        $.ajax({
+          url: 'https://data.gov.ro/ro/api/3/action/datastore_search',
+          data: data,
+          dataType: 'jsonp',
+          success: function(data) {
+            alert('Total results found: ' + data.result.total)
+          }
+        });
+ - Exemplu: Python »
+      import urllib
+      url = 'https://data.gov.ro/ro/api/3/action/datastore_search?resource_id=8f43aa12-3bf9-4c14-b13f-dc0e490a92c5&limit=5&q=title:jones'  
+      fileobj = urllib.urlopen(url)
+      print fileobj.read()
