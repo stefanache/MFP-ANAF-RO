@@ -154,6 +154,8 @@ Textul furnizat este un răspuns JSON de la un API web, special conceput pentru 
     <summary>raspunsul JSON... detalii...</summary>
 
 <hr/>
+
+<br/>https://data.gov.ro/ro/api/3/action/datastore_search?q=jones&resource_id=8f43aa12-3bf9-4c14-b13f-dc0e490a92c5)(q=jones)<br/>
   
 <pre>{
 "help": "https://data.gov.ro/ro/api/3/action/help_show?name=datastore_search", 
