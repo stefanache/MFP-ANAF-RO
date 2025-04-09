@@ -378,7 +378,8 @@ Datele sunt structurate pentru regăsire și analiză ușoară prin punctele fin
 <hr/>
 
 <br/> query: https://data.gov.ro/ro/api/3/action/datastore_search?q=jones&resource_id=8f43aa12-3bf9-4c14-b13f-dc0e490a92c5)(q=jones)<br/>
-<br/>*Nota* cuvantul cheie **jones** inseamna ca nu se scot date ci doar structura tabelului<br/>
+<br/>*Nota* cuvantul "cheie" **jones** este folosit pt a se evita scoaterea/extragerea de date(stiind DINAINTE ca nu avem astfel de date)...
+<BR>        ASTA inseamna ca nu se scot date/randuri ci doar structura tabelului/datastore-ului<br/>
   
 <pre>{
 "help": "https://data.gov.ro/ro/api/3/action/help_show?name=datastore_search", 
