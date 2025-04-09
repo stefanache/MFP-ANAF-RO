@@ -110,7 +110,8 @@ Stadiul absorbtiei - 31 octombrie 2024</pre>
 
 <br/>Iata aici 3 moduri de cautare pe/pt aceiasi resursa/colectie mare de fisiere xslx(resourceid=**8f43aa12-3bf9-4c14-b13f-dc0e490a92c5**), toate vazute la un loc ca un singur datastore/dataset:
 
-- 1)exemplu-CKAN-action(api)-procedura-RPC=*datastore_search*: [cerere/search/cautare Top-5(primele 5) rezultate](https://data.gov.ro/ro/api/3/action/datastore_search?resource_id=8f43aa12-3bf9-4c14-b13f-dc0e490a92c5&limit=5)
+- 1)exemplu-CKAN-action(api)-procedura-RPC=*datastore_search*: [cerere/search/cautare Top-5(primele 5) rezultate](https://data.gov.ro/ro/api/3/action/datastore_search?resource_id=8f43aa12-3bf9-4c14-b13f-dc0e490a92c5&limit=5):
+  
 <details>
     <summary>raspunsul-1 JSON... detalii...</summary>
 
@@ -314,7 +315,7 @@ Datele sunt structurate pentru regăsire și analiză ușoară prin punctele fin
 
 </details>
 
-- 2)exemplu-CKAN-action(api)-procedura-RPC=*datastore_search*: [contains](https://data.gov.ro/ro/api/3/action/datastore_search?q=jones&resource_id=8f43aa12-3bf9-4c14-b13f-dc0e490a92c5)(q=jones)
+- 2)exemplu-CKAN-action(api)-procedura-RPC=*datastore_search*: [contains](https://data.gov.ro/ro/api/3/action/datastore_search?q=jones&resource_id=8f43aa12-3bf9-4c14-b13f-dc0e490a92c5)(q=jones):
 
 <details>
     <summary>raspunsul-2 JSON... detalii...</summary>
@@ -390,7 +391,7 @@ Datele sunt structurate pentru regăsire și analiză ușoară prin punctele fin
 
   </details>
   
-- 3)exemplu-CKAN-action(api)-procedura-RPC=*datastore_search_sql*: [via/utilizand SQL](https://data.gov.ro/ro/api/3/action/datastore_search_sql?sql=SELECT+*+from+"8f43aa12-3bf9-4c14-b13f-dc0e490a92c5")
+- 3)exemplu-CKAN-action(api)-procedura-RPC=*datastore_search_sql*: [via/utilizand SQL](https://data.gov.ro/ro/api/3/action/datastore_search_sql?sql=SELECT+*+from+"8f43aa12-3bf9-4c14-b13f-dc0e490a92c5"):
 <details>
     <summary>raspunsul-3 JSON... detalii...</summary>
 
