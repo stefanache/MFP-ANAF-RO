@@ -102,32 +102,32 @@ Stadiul absorbtiei - 31 octombrie 2024</pre>
 <br/>Iata explicatia privind raspunsul primit:
 
 <pre>
-  The provided text is a JSON response from a web API, specifically designed to return data from a datastore in the context of the Romanian government's data portal. Here’s a breakdown of its contents in simple English:
+Textul furnizat este un răspuns JSON de la un API web, special conceput pentru a returna date dintr-un depozit de date în contextul portalului de date al guvernului României. Iată o detaliere a conținutului său în limba engleză simplă:
 
-1. **Help Link**: The first part contains a link that users can click to get help about the API action called "datastore_search".
+1. **Link de ajutor**: prima parte conține un link pe care utilizatorii îl pot face clic pentru a obține ajutor despre acțiunea API numită „datastore_search”.
 
-2. **Success Status**: It shows a status indicating that the request was successful (`"success": true`).
+2. **Success Status**: Afișează o stare care indică faptul că cererea a avut succes (`"success": true`).
 
-3. **Result Section**: This section contains the details of the search results:
-   - **include_total**: This indicates that the total number of records in the datastore is included in the response.
-   - **resource_id**: A unique identifier for the specific dataset being accessed.
+3. **Secțiunea Rezultate**: Această secțiune conține detaliile rezultatelor căutării:
+   - **include_total**: aceasta indică faptul că numărul total de înregistrări din depozitul de date este inclus în răspuns.
+   - **resource_id**: un identificator unic pentru setul de date specific accesat.
    
-4. **Fields**: An array of objects defining the fields available in the records:
-   - Each field has a type (like `int`, `text`, or `numeric`) and an identifier (e.g., `"1.0"` means this is the first field, `"2.0"` is the second, etc.).
-   - Some fields calculate values based on other fields, such as percentages.
+4. **Câmpuri**: o matrice de obiecte care definesc câmpurile disponibile în înregistrări:
+   - Fiecare câmp are un tip (cum ar fi `int`, `text` sau `numeric`) și un identificator (de exemplu, `"1.0"` înseamnă că acesta este primul câmp, `"2.0"` este al doilea etc.).
+   - Unele câmpuri calculează valori pe baza altor câmpuri, cum ar fi procente.
 
-5. **Records**: This section contains the actual data records. Each record has:
-   - An `_id` for identifying the record.
-   - Various fields with data, such as numerical values and calculated percentages.
-   - For example, one record may have the first field (`"1.0"`) as "6860000000", indicating a large number, with various other fields providing related numerical calculations.
+5. **Înregistrări**: Această secțiune conține înregistrările de date reale. Fiecare înregistrare are:
+   - Un `_id` pentru identificarea înregistrării.
+   - Diverse câmpuri cu date, cum ar fi valori numerice și procente calculate.
+   - De exemplu, o înregistrare poate avea primul câmp (`"1.0"`) ca "6860000000", indicând un număr mare, cu diverse alte câmpuri oferind calcule numerice aferente.
 
-6. **Limiting and Links**:
-   - **Limit**: The number of records returned in this response is 5.
-   - **Links Section**: Provides URLs to fetch the next set of records or started searching with specific parameters.
+6. **Limitare și linkuri**:
+   - **Limita**: numărul de înregistrări returnate în acest răspuns este 5.
+   - **Secțiunea de linkuri**: furnizează adrese URL pentru a prelua următorul set de înregistrări sau a început căutarea cu parametri specifici.
 
-7. **Total Records**: Finally, it mentions that there is a total of 21 records available in the datastore.
+7. **Total Records**: În cele din urmă, se menționează că există un total de 21 de înregistrări disponibile în depozitul de date.
 
-Overall, this JSON response contains structured data about a specific dataset, detailing its fields, some specially calculated values, and showing a subset of total available data records.</pre>
+În general, acest răspuns JSON conține date structurate despre un anumit set de date, care detaliază câmpurile acestuia, unele valori calculate special și afișând un subset al totalului de înregistrări de date disponibile.</pre>
 - exemplu-CKAN-action(api)-procedura-RPC=*datastore_search*: [contains](https://data.gov.ro/ro/api/3/action/datastore_search?q=jones&resource_id=8f43aa12-3bf9-4c14-b13f-dc0e490a92c5)(q=jones)
 - exemplu-CKAN-action(api)-procedura-RPC=*datastore_search_sql*: [via/utilizand SQL](https://data.gov.ro/ro/api/3/action/datastore_search_sql?sql=SELECT+*+from+"8f43aa12-3bf9-4c14-b13f-dc0e490a92c5"+WHERE+title+LIKE+'jones')
 
