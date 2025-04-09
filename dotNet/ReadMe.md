@@ -31,7 +31,9 @@ Pentru coderi/codificatori/programatori: API-ul CKAN([**Action API**](https://do
             alert('Total results found: ' + data.result.total)
           }
         });
+
  - Exemplu: Python »
+   
       import urllib
       url = 'https://data.gov.ro/ro/api/3/action/datastore_search?resource_id=8f43aa12-3bf9-4c14-b13f-dc0e490a92c5&limit=5&q=title:jones'  
       fileobj = urllib.urlopen(url)
