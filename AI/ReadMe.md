@@ -13,7 +13,7 @@ Methodologies and Off-the-Shelf Examples](https://download.ssrn.com/2024/6/29/46
  - [Atenția neuronală(KA-Attention) care poate fi învățată crește performanța transformatorului de vedere în timp ce se utilizează mai puțină putere de calcul](https://dev.to/aimodels-fyi/learnable-neural-attention-boosts-vision-transformer-performance-while-using-less-computing-power-2b62)
 <br/>Kolmogorov-Arnold Attention (**KA-Attention**) este o RN-antrenabila care -*se foloseste in loc de*- ***softmax***(functia fixa de similaritate) in ...
 <br/>Vision Transformers(ViT) = sarcini de viziune computerizată
-<br/>KA-Attention - avantaje:
+<br/>[KA-Attention](https://www.aimodels.fyi/papers/arxiv/kolmogorov-arnold-attention-is-learnable-attention-better) - avantaje:
     - Îmbunătățește performanța în mai multe sarcini de viziune computerizată și seturi de date
     - Reduce complexitatea de calcul, menținând sau îmbunătățind acuratețea
     - Prezinta o mai mare robustețe la atacurile adverse și la datele în afara distribuției
