@@ -22,6 +22,8 @@ Pentru coderi/codificatori/programatori: API-ul CKAN([**Action API**](https://do
 
   <summary>Date şi resurse ce pot fi descarca/download-abile recursiv... detalii...</summary>
 
+<hr/>
+
 <pre>
 Stadiul absorbtiei - 30 martie 2018XLSX
 Stadiul absorbtiei - 30 iunie 2018XLSX
@@ -100,6 +102,8 @@ Stadiul absorbției - 30 august 2024XLSX
 Stadiul absorbtiei - 30 septembrie 2024XLSX
 Stadiul absorbtiei - 31 octombrie 2024</pre>
 
+<hr/>
+
 </details>
 
   <br/>Fiecare fisier la randul sau fiind o resursa: ex. primul fisier are resourceid=[*d499ce49-b9dc-437d-ba62-49ec00e06c68*](https://data.gov.ro/dataset/stadiul-absorbtiei-fondurilor-europene/resource/d499ce49-b9dc-437d-ba62-49ec00e06c68)
@@ -107,8 +111,11 @@ Stadiul absorbtiei - 31 octombrie 2024</pre>
 
 <br/>Iata aici 3 moduri de cautare pe/pt aceiasi resursa/colectie mare de fisiere xslx(resourceid=**8f43aa12-3bf9-4c14-b13f-dc0e490a92c5**):
 - exemplu-CKAN-action(api)-procedura-RPC=*datastore_search*: [cerere/search/cautare Top-5 rezultate](https://data.gov.ro/ro/api/3/action/datastore_search?resource_id=8f43aa12-3bf9-4c14-b13f-dc0e490a92c5&limit=5)
-<br/>Iata explicatia privind raspunsul primit:
 
+<details>
+ <summary>Iata explicatia privind raspunsul primit:...detalii...</summary> 
+<hr/>
+  
 <pre>
 Textul furnizat este un răspuns JSON de la un API web, special conceput pentru a returna date dintr-un depozit de date în contextul portalului de date al guvernului României. Iată o detaliere a conținutului său în limba engleză simplă:
 
@@ -136,6 +143,12 @@ Textul furnizat este un răspuns JSON de la un API web, special conceput pentru 
 7. **Total Records**: În cele din urmă, se menționează că există un total de 21 de înregistrări disponibile în depozitul de date.
 
 În general, acest răspuns JSON conține date structurate despre un anumit set de date, care detaliază câmpurile acestuia, unele valori calculate special și afișând un subset al totalului de înregistrări de date disponibile.</pre>
+
+<hr/>
+
+</details>
+
+
 - exemplu-CKAN-action(api)-procedura-RPC=*datastore_search*: [contains](https://data.gov.ro/ro/api/3/action/datastore_search?q=jones&resource_id=8f43aa12-3bf9-4c14-b13f-dc0e490a92c5)(q=jones)
 - exemplu-CKAN-action(api)-procedura-RPC=*datastore_search_sql*: [via/utilizand SQL](https://data.gov.ro/ro/api/3/action/datastore_search_sql?sql=SELECT+*+from+"8f43aa12-3bf9-4c14-b13f-dc0e490a92c5"+WHERE+title+LIKE+'jones')
 
