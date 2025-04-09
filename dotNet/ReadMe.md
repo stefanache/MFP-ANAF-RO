@@ -374,8 +374,21 @@ Textul furnizat este un răspuns JSON de la un API web, special conceput pentru 
 
   </details>
   
-- 3)exemplu-CKAN-action(api)-procedura-RPC=*datastore_search_sql*: [via/utilizand SQL](https://data.gov.ro/ro/api/3/action/datastore_search_sql?sql=SELECT+*+from+"8f43aa12-3bf9-4c14-b13f-dc0e490a92c5"+WHERE+title+LIKE+'jones')
+- 3)exemplu-CKAN-action(api)-procedura-RPC=*datastore_search_sql*: [via/utilizand SQL](https://data.gov.ro/ro/api/3/action/datastore_search_sql?sql=SELECT+*+from+"8f43aa12-3bf9-4c14-b13f-dc0e490a92c5")
+<details>
+    <summary>raspunsul JSON... detalii...</summary>
 
+<hr/>
+
+<br/> query: https://data.gov.ro/ro/api/3/action/datastore_search_sql?sql=SELECT+*+from+"8f43aa12-3bf9-4c14-b13f-dc0e490a92c5"
+
+<pre>
+  
+</pre>
+
+<hr/>
+
+</details>
  - Un simplu fragment de cod ajax (JSONP), care reprezinta o cerere/request catre  datele-API-ului folosind jQuery:
 
 <details>
