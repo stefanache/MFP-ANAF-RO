@@ -13,6 +13,8 @@ Pentru coderi/codificatori/programatori: API-ul CKAN([**Action API**](https://do
 - a se consulta [actiunile/activitatea](https://data.gov.ro/ro/api/1/util/snippet/api_info.html?resource_id=8f43aa12-3bf9-4c14-b13f-dc0e490a92c5) privind acest portal!!!
 
 - exemplu-CKAN-Resource-ID=[8f43aa12-3bf9-4c14-b13f-dc0e490a92c5](https://data.gov.ro/dataset/stadiul-absorbtiei-fondurilor-europene/resource/8f43aa12-3bf9-4c14-b13f-dc0e490a92c5)
+  <br/>Stadiul absorbției pentru programele finanțate din Fondurile Europene Structurale și de Investiții (FESI) și al plăților efectuate din Fondul European de Garantare Agricolă (FEGA),
+  <br/>pentru... 28 august 2020
 - exemplu-CKAN-action(api): [cere top5 rezultate](https://data.gov.ro/ro/api/3/action/datastore_search?resource_id=8f43aa12-3bf9-4c14-b13f-dc0e490a92c5&limit=5)
 - exemplu-CKAN-action(api): [contains](https://data.gov.ro/ro/api/3/action/datastore_search?q=jones&resource_id=8f43aa12-3bf9-4c14-b13f-dc0e490a92c5)
 - exemplu-CKAN-action(api): [via/utilizand SQL](https://data.gov.ro/ro/api/3/action/datastore_search_sql?sql=SELECT+*+from+"8f43aa12-3bf9-4c14-b13f-dc0e490a92c5"+WHERE+title+LIKE+'jones')
