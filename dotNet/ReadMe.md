@@ -12,7 +12,7 @@ Pentru coderi/codificatori/programatori: API-ul CKAN([**Action API**](https://do
 
 - a se consulta [actiunile/activitatea](https://data.gov.ro/ro/api/1/util/snippet/api_info.html?resource_id=8f43aa12-3bf9-4c14-b13f-dc0e490a92c5) privind acest portal!!!
 
-- exemplu-CKAN-Resource-ID=[**8f43aa12-3bf9-4c14-b13f-dc0e490a92c5**](https://data.gov.ro/dataset/stadiul-absorbtiei-fondurilor-europene/resource/8f43aa12-3bf9-4c14-b13f-dc0e490a92c5)
+- exemplu-[CKAN](https://ckan.org/community)-Resource-ID=[**8f43aa12-3bf9-4c14-b13f-dc0e490a92c5**](https://data.gov.ro/dataset/stadiul-absorbtiei-fondurilor-europene/resource/8f43aa12-3bf9-4c14-b13f-dc0e490a92c5)
   <br/>Stadiul absorbției pentru programele finanțate din Fondurile Europene Structurale și de Investiții (FESI) și al plăților efectuate din
   <br/>Fondul European de Garantare Agricolă (FEGA), pentru perioada... 2014-28 august 2020
   <br/>ckan-URL(resursa-colectieie-de-fisiere **8f43aa12-3bf9-4c14-b13f-dc0e490a92c5** din dataset-ul [10767d4c-8398-4b60-b17a-aa526f55e946](https://data.gov.ro/dataset/10767d4c-8398-4b60-b17a-aa526f55e946)):  <br/>https://data.gov.ro/dataset/10767d4c-8398-4b60-b17a-aa526f55e946/resource/8f43aa12-3bf9-4c14-b13f-dc0e490a92c5/download/stadiul-absorbiei-fon     
