@@ -110,6 +110,155 @@ Stadiul absorbtiei - 31 octombrie 2024</pre>
 
 <br/>Iata aici 3 moduri de cautare pe/pt aceiasi resursa/colectie mare de fisiere xslx(resourceid=**8f43aa12-3bf9-4c14-b13f-dc0e490a92c5**):
 - exemplu-CKAN-action(api)-procedura-RPC=*datastore_search*: [cerere/search/cautare Top-5 rezultate](https://data.gov.ro/ro/api/3/action/datastore_search?resource_id=8f43aa12-3bf9-4c14-b13f-dc0e490a92c5&limit=5)
+<details>
+    <summary>raspunsul JSON... detalii...</summary>
+
+<hr/>
+
+<br/> query: https://data.gov.ro/ro/api/3/action/datastore_search?resource_id=8f43aa12-3bf9-4c14-b13f-dc0e490a92c5&limit=5
+
+
+<pre>{
+  "help": "https://data.gov.ro/ro/api/3/action/help_show?name=datastore_search",
+  "success": true,
+  "result": {
+    "include_total": true,
+    "resource_id": "8f43aa12-3bf9-4c14-b13f-dc0e490a92c5",
+    "fields": [
+      {
+        "type": "int",
+        "id": "_id"
+      },
+      {
+        "type": "text",
+        "id": "1.0"
+      },
+      {
+        "type": "numeric",
+        "id": "2.0"
+      },
+      {
+        "type": "numeric",
+        "id": "3=(2/1)*100"
+      },
+      {
+        "type": "numeric",
+        "id": "4.0"
+      },
+      {
+        "type": "numeric",
+        "id": "5=(4/1)*100"
+      },
+      {
+        "type": "numeric",
+        "id": "6.0"
+      },
+      {
+        "type": "numeric",
+        "id": "7=(6/1)*100"
+      },
+      {
+        "type": "numeric",
+        "id": "8.0"
+      },
+      {
+        "type": "numeric",
+        "id": "9=(8/1)*100"
+      },
+      {
+        "type": "numeric",
+        "id": "10=4+8"
+      },
+      {
+        "type": "numeric",
+        "id": "11=(10/1)*100"
+      }
+    ],
+    "records_format": "objects",
+    "records": [
+      {
+        "_id": 1,
+        "1.0": "6860000000",
+        "2.0": 2059268272.5000002,
+        "3=(2/1)*100": 0.3001848793731779,
+        "4.0": 641117098.7600002,
+        "5=(4/1)*100": 0.0934573030262391,
+        "6.0": 1807584848.44,
+        "7=(6/1)*100": 0.2634963335918367,
+        "8.0": 1538357574.547,
+        "9=(8/1)*100": 0.2242503752983965,
+        "10=4+8": 2179474673.307,
+        "11=(10/1)*100": 0.3177076783246356
+      },
+      {
+        "_id": 2,
+        "1.0": "8638524484",
+        "2.0": 2712539665.7208495,
+        "3=(2/1)*100": 0.31400497512566283,
+        "4.0": 924174447.21,
+        "5=(4/1)*100": 0.10698290534705626,
+        "6.0": 2836367233.88,
+        "7=(6/1)*100": 0.3283393175690396,
+        "8.0": 2473844284.5220003,
+        "9=(8/1)*100": 0.28637347606110003,
+        "10=4+8": 3398018731.7320004,
+        "11=(10/1)*100": 0.39335638140815626
+      },
+      {
+        "_id": 3,
+        "1.0": "1329787234",
+        "2.0": 562186331.7314458,
+        "3=(2/1)*100": 0.4227641214755757,
+        "4.0": 131132674.48,
+        "5=(4/1)*100": 0.09861177121211558,
+        "6.0": 414795196.79999995,
+        "7=(6/1)*100": 0.3119259880035816,
+        "8.0": 354104791.844,
+        "9=(8/1)*100": 0.26628680347520917,
+        "10=4+8": 485237466.324,
+        "11=(10/1)*100": 0.36489857468732473
+      },
+      {
+        "_id": 4,
+        "1.0": "4361566040",
+        "2.0": 1838789410.992317,
+        "3=(2/1)*100": 0.42158926269343316,
+        "4.0": 407598820.70000005,
+        "5=(4/1)*100": 0.0934524014910938,
+        "6.0": 1314074483.6899998,
+        "7=(6/1)*100": 0.3012850136025912,
+        "8.0": 1107566971.145,
+        "9=(8/1)*100": 0.25393791151790057,
+        "10=4+8": 1515165791.845,
+        "11=(10/1)*100": 0.34739031300899437
+      },
+      {
+        "_id": 5,
+        "1.0": "563588476",
+        "2.0": 149038363.16693574,
+        "3=(2/1)*100": 0.26444537018343106,
+        "4.0": 54457756.9,
+        "5=(4/1)*100": 0.09662681055245707,
+        "6.0": 147943105.07,
+        "7=(6/1)*100": 0.2625020052219804,
+        "8.0": 128687977.194,
+        "9=(8/1)*100": 0.22833677882725198,
+        "10=4+8": 183145734.094,
+        "11=(10/1)*100": 0.32496358937970904
+      }
+    ],
+    "limit": 5,
+    "_links": {
+      "start": "/api/3/action/datastore_search?limit=5&resource_id=8f43aa12-3bf9-4c14-b13f-dc0e490a92c5",
+      "next": "/api/3/action/datastore_search?offset=5&limit=5&resource_id=8f43aa12-3bf9-4c14-b13f-dc0e490a92c5"
+    },
+    "total": 21
+  }
+}</pre>
+
+<hr/>
+
+</details>
 
 <details>
  <summary>Iata explicatia privind raspunsul primit:...detalii...</summary> 
@@ -155,7 +304,7 @@ Textul furnizat este un răspuns JSON de la un API web, special conceput pentru 
 
 <hr/>
 
-<br/>https://data.gov.ro/ro/api/3/action/datastore_search?q=jones&resource_id=8f43aa12-3bf9-4c14-b13f-dc0e490a92c5)(q=jones)<br/>
+<br/> query: https://data.gov.ro/ro/api/3/action/datastore_search?q=jones&resource_id=8f43aa12-3bf9-4c14-b13f-dc0e490a92c5)(q=jones)<br/>
   
 <pre>{
 "help": "https://data.gov.ro/ro/api/3/action/help_show?name=datastore_search", 
