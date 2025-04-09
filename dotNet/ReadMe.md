@@ -262,7 +262,7 @@ Stadiul absorbtiei - 31 octombrie 2024</pre>
 </details>
 
 <details>
- <summary>Iata explicatia privind raspunsul-1 primit:...detalii...</summary> 
+ <summary>Iata si explicatia(AI-consultantului) privind raspunsul-1 primit:...detalii...</summary> 
 <hr/>
   
 <pre>
