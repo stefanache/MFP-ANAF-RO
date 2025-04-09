@@ -155,7 +155,7 @@ Textul furnizat este un răspuns JSON de la un API web, special conceput pentru 
 
 <hr/>
   
-{
+<pre>{
 "help": "https://data.gov.ro/ro/api/3/action/help_show?name=datastore_search", 
 "success": true, 
 "result": {
@@ -216,7 +216,7 @@ Textul furnizat este un răspuns JSON de la un API web, special conceput pentru 
     "start": "/api/3/action/datastore_search?q=jones&resource_id=8f43aa12-3bf9-4c14-b13f-dc0e490a92c5", 
     "next": "/api/3/action/datastore_search?q=jones&offset=100&resource_id=8f43aa12-3bf9-4c14-b13f-dc0e490a92c5"}, 
     "total": 0}
-}
+}</pre>
 
 <hr/>
 
