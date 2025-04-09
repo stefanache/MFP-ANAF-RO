@@ -108,9 +108,9 @@ Stadiul absorbtiei - 31 octombrie 2024</pre>
   <br/>Fiecare fisier la randul sau fiind o resursa: ex. primul fisier are resourceid=[*d499ce49-b9dc-437d-ba62-49ec00e06c68*](https://data.gov.ro/dataset/stadiul-absorbtiei-fondurilor-europene/resource/d499ce49-b9dc-437d-ba62-49ec00e06c68)
   <br> Daca dati/accesati pe link-ul **API-Data** care este un link pt URL=*https://data.gov.ro/api/1/util/snippet/api_info.html?resource_id=d499ce49-b9dc-437d-ba62-49ec00e06c68*, obtineti un fragment de cod-api(snippet) **JS** si unul **python**(generate in mod automat, folosind un utilitar-api) cu care puteti accesa direct (aceasta resursa fiind deci primul fisier xslx al intregii colectii de fisiere)
 
-<br/>Iata aici 3 moduri de cautare pe/pt aceiasi resursa/colectie mare de fisiere xslx(resourceid=**8f43aa12-3bf9-4c14-b13f-dc0e490a92c5**), toate vazute la un loc(reunite), ca un singur datastore/dataset:
+<br/>Iata aici 3 moduri de cautare pe/pt aceiasi resursa/colectie mare de fisiere xslx(resourceid=**8f43aa12-3bf9-4c14-b13f-dc0e490a92c5**), toate vazute la un loc(reunite intr-un tabel mare cu coloanele=campuri si cu randuriel=inregistrarile...), ca un singur datastore/dataset:
 
-- 1)exemplu-CKAN-action(api)-procedura-RPC=*datastore_search*: [cerere/search/cautare Top-5(primele 5) rezultate](https://data.gov.ro/ro/api/3/action/datastore_search?resource_id=8f43aa12-3bf9-4c14-b13f-dc0e490a92c5&limit=5):
+- 1)exemplu-CKAN-action(api)-procedura-RPC=*datastore_search*: [cerere/search/cautare Top-5(primele 5) rezultate/randuri/inregistrari](https://data.gov.ro/ro/api/3/action/datastore_search?resource_id=8f43aa12-3bf9-4c14-b13f-dc0e490a92c5&limit=5):
   
 <details>
     <summary>raspunsul-1 JSON... detalii...</summary>
@@ -323,6 +323,7 @@ Datele sunt structurate pentru regăsire și analiză ușoară prin punctele fin
 <hr/>
 
 <br/> query: https://data.gov.ro/ro/api/3/action/datastore_search?q=jones&resource_id=8f43aa12-3bf9-4c14-b13f-dc0e490a92c5)(q=jones)<br/>
+<br/>*Nota* cuvantul cheie **jones** inseamna ca nu se scot date ci doar structura tabelului<br/>
   
 <pre>{
 "help": "https://data.gov.ro/ro/api/3/action/help_show?name=datastore_search", 
