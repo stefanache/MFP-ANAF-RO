@@ -106,8 +106,137 @@ Stadiul absorbtiei - 31 octombrie 2024</pre>
 </details>
 
   <br/>Fiecare fisier la randul sau fiind o resursa: ex. primul fisier are resourceid=[*d499ce49-b9dc-437d-ba62-49ec00e06c68*](https://data.gov.ro/dataset/stadiul-absorbtiei-fondurilor-europene/resource/d499ce49-b9dc-437d-ba62-49ec00e06c68)
-  <br> Daca dati/accesati pe link-ul **API-Data** care este un link pt URL=*https://data.gov.ro/api/1/util/snippet/api_info.html?resource_id=d499ce49-b9dc-437d-ba62-49ec00e06c68*, obtineti un fragment de cod-api(snippet) **JS** si unul **python**(generate in mod automat, folosind un utilitar-api) cu care puteti accesa direct (aceasta resursa fiind deci primul fisier xslx al intregii colectii de fisiere)
 
+  <br> Daca dati/accesati pe link-ul **API-Data** care este un link pt URL=*https://data.gov.ro/api/1/util/snippet/api_info.html?resource_id=d499ce49-b9dc-437d-ba62-49ec00e06c68*, obtineti un fragment de cod-api(snippet) **JS** si unul **python**(generate in mod automat, folosind un utilitar-api) cu care puteti accesa direct (aceasta resursa fiind deci primul fisier xslx al intregii colectii de fisiere)
+<details>
+<summary>detalii...API-Data...pt resource_id=d499ce49-b9dc-437d-ba62-49ec00e06c68</summary>
+
+<br/>query-string: https://data.gov.ro/api/1/util/snippet/api_info.html?resource_id=d499ce49-b9dc-437d-ba62-49ec00e06c68
+
+<div class="modal fade">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+          <h3>
+            API Data
+          </h3>
+        </div>
+        <div class="modal-body">
+          <p><strong>Acces la datele de resurse prin intermediul unui API cu suport de interogare puternic</strong>.
+          
+          Further information in the <a
+            href="http://docs.ckan.org/en/latest/maintaining/datastore.html" target="_blank">main
+            CKAN Data API and DataStore documentation</a>.</p>
+          
+          <div class="panel-group" id="accordion2">
+          <div class="panel panel-default">
+            <div class="panel-heading">
+
+              <a class="accordion-toggle" data-toggle="collapse" data-parent="accordion2" href="#collapse-endpoints">API Endpoint &raquo;</a>
+            </div>
+            <div id="collapse-endpoints" class="in panel-collapse collapse">
+              <div class="panel-body">
+                <p>The Data API can be accessed via the following actions of the CKAN action API.</p>
+                <table class="table-condensed table-striped table-bordered">
+                  <thead></thead>
+                  <tbody>
+                    <tr>
+                      <th scope="row">Creează</th>
+                      <td><code>https://data.gov.ro/api/3/action/datastore_create</code></td>
+                    </tr>
+                    <tr>
+                      <th scope="row">Actualizează setul de date</th>
+                      <td><code>https://data.gov.ro/api/3/action/datastore_upsert</code></td>
+                    </tr>
+                    <tr>
+                      <th scope="row">Query</th>
+                      <td><code>https://data.gov.ro/api/3/action/datastore_search</code></td>
+                    </tr>
+                    <tr>
+                      <th scope="row">Query (via SQL)</th>
+                      <td><code>https://data.gov.ro/api/3/action/datastore_search_sql</code></td>
+                    </tr>
+
+                  </tbody>
+                </table>
+              </div>
+            </div>
+          </div>
+
+          <div class="panel panel-default">
+            <div class="panel-heading">
+              <a class="accordion-toggle" data-toggle="collapse" data-parent="accordion2" href="#collapse-querying">Querying &raquo;</a>
+            </div>
+            <div id="collapse-querying" class="collapse panel-collapse in">
+              <div class="panel-body">
+                <strong>Query example (first 5 results)</strong>
+                <p>
+                <code>https://data.gov.ro/api/3/action/datastore_search?resource_id=d499ce49-b9dc-437d-ba62-49ec00e06c68&amp;limit=5</code>
+                </p>
+
+                <strong>Query example (results containing 'jones')</strong>
+                <p>
+                <code>https://data.gov.ro/api/3/action/datastore_search?q=jones&amp;resource_id=d499ce49-b9dc-437d-ba62-49ec00e06c68</code>
+                </p>
+
+                <strong>Query example (via SQL statement)</strong>
+                <p>
+                <code>https://data.gov.ro/api/3/action/datastore_search_sql?sql=SELECT * from &#34;d499ce49-b9dc-437d-ba62-49ec00e06c68&#34; WHERE title LIKE &#39;jones&#39;</code>
+                </p>
+
+              </div>
+            </div>
+          </div>
+
+          <div class="panel panel-default">
+            <div class="panel-heading">
+             <a class="accordion-toggle" data-toggle="collapse" data-parent="accordion2" href="#collapse-javascript">Exemplu: Javascript &raquo;</a>
+            </div>
+            <div id="collapse-javascript" class="panel-collapse collapse">
+              <div class="panel-body">
+                <p>A simple ajax (JSONP) request to the data API using jQuery.</p>
+                <pre>
+        var data = {
+          resource_id: 'd499ce49-b9dc-437d-ba62-49ec00e06c68', // the resource id
+          limit: 5, // get 5 results
+          q: 'jones' // query for 'jones'
+        };
+        $.ajax({
+          url: 'https://data.gov.ro/api/3/action/datastore_search',
+          data: data,
+          dataType: 'jsonp',
+          success: function(data) {
+            alert('Total results found: ' + data.result.total)
+          }
+        });</pre>
+              </div>
+            </div>
+          </div>
+
+          <div class="panel panel-default">
+            <div class="panel-heading">
+              <a class="accordion-toggle" data-toggle="collapse" data-parent="accordion2" href="#collapse-python">Exemplu: Python &raquo;</a>
+            </div>
+            <div id="collapse-python" class="panel-collapse collapse">
+              <div class="panel-body">
+                <pre>
+      import urllib
+      url = 'https://data.gov.ro/api/3/action/datastore_search?resource_id=d499ce49-b9dc-437d-ba62-49ec00e06c68&amp;limit=5&amp;q=title:jones'  
+      fileobj = urllib.urlopen(url)
+      print fileobj.read()
+      </pre>
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+</div> 
+
+</details>
 <br/>Iata aici 3 moduri de cautare pe/pt aceiasi resursa/colectie mare de fisiere xslx(resourceid=**8f43aa12-3bf9-4c14-b13f-dc0e490a92c5**), toate vazute la un loc(reunite intr-un tabel mare cu coloanele=campuri si cu randuriel=inregistrarile...), ca un singur datastore/dataset:
 
 - 1)exemplu-CKAN-action(api)-procedura-RPC=*datastore_search*: [cerere/search/cautare Top-5(primele 5) rezultate/randuri/inregistrari](https://data.gov.ro/ro/api/3/action/datastore_search?resource_id=8f43aa12-3bf9-4c14-b13f-dc0e490a92c5&limit=5):
