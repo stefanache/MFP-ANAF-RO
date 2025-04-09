@@ -8,6 +8,6 @@ Am gasit acest repository [RomaniaOpenData](https://github.com/ignatandrei/Roman
 
 Poate fi de folos insa acest [github-repository](https://github.com/GSA/data.gov?tab=readme-ov-file) care se refera la site/portalul-ul guvernului(serverul [CKAN](https://demo.ckan.org/ro/about)): **dataset.gov.ro**; 
 
-Pentru coderi/codificatori/programatori: API-ul CKAN(**Action API**) comunica in stil [RPC](https://docs.ckan.org/en/2.9/api/)
+Pentru coderi/codificatori/programatori: API-ul CKAN([**Action API**](https://docs.ckan.org/en/2.9/api/)) comunica in stil [RPC](https://en.wikipedia.org/wiki/Remote_procedure_call)
 
 - a se consulta actiunile/activitatea privind acest portal!!!
