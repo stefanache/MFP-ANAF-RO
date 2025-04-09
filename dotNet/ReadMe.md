@@ -301,9 +301,11 @@ Textul furnizat este un răspuns JSON de la un API web, special conceput pentru 
 <hr/>
   
 <pre>
-Datele furnizate constau dintr-un răspuns JSON care detaliază înregistrările diferitelor entități, fiecare identificată prin ID-uri unice. 
+Datele furnizate constau dintr-un răspuns JSON care detaliază înregistrările diferitelor entități, fiecare identificată prin 
+ID-uri unice. 
 Înregistrările includ câmpuri numerice și textuale, cu procente calculate pe baza anumitor valori. 
-Valorile cheie includ valori totale, precum și calcule suplimentare reprezentând proporții ale câmpurilor specifice în raport cu totalurile. 
+Valorile cheie includ valori totale, precum și calcule suplimentare reprezentând proporții ale câmpurilor specifice în 
+raport cu totalurile. 
 În total, sunt disponibile 21 de înregistrări, cu 5 înregistrări afișate în acest fragment. 
 Datele sunt structurate pentru regăsire și analiză ușoară prin punctele finale API specificate
 </pre>
