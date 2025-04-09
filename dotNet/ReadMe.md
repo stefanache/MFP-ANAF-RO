@@ -19,7 +19,6 @@ Pentru coderi/codificatori/programatori: API-ul CKAN([**Action API**](https://do
   <br/>Aceasta resursa cuprinde/este o colectie de fisiere xls(Excel):     
 
 <details
-
   <summary>Date şi resurse ce pot fi descarca/download-abile recursiv... detalii...</summary>
 
 <hr/>
@@ -156,6 +155,9 @@ Textul furnizat este un răspuns JSON de la un API web, special conceput pentru 
 
 <details>
   <summary>A simple ajax (JSONP) request to the data API using jQuery...details...</summary>
+
+  <hr/>
+  
         var data = {
           resource_id: '8f43aa12-3bf9-4c14-b13f-dc0e490a92c5', // the resource id
           limit: 5, // get 5 results
@@ -176,6 +178,8 @@ Textul furnizat este un răspuns JSON de la un API web, special conceput pentru 
         url = 'https://data.gov.ro/ro/api/3/action/datastore_search?resource_id=8f43aa12-3bf9-4c14-b13f-dc0e490a92c5&limit=5&q=title:jones'  
         fileobj = urllib.urlopen(url)
         print fileobj.read()
+
+<hr/>
 
 </details>
 
