@@ -99,7 +99,8 @@ Stadiul absorbtiei - 31 octombrie 2024</pre>
 
 <br/>Iata aici 3 moduri de cautare pe/pt aceiasi resursa/colectie mare de fisiere xslx(resourceid=**8f43aa12-3bf9-4c14-b13f-dc0e490a92c5**):
 - exemplu-CKAN-action(api)-procedura-RPC=*datastore_search*: [cerere/search/cautare Top-5 rezultate](https://data.gov.ro/ro/api/3/action/datastore_search?resource_id=8f43aa12-3bf9-4c14-b13f-dc0e490a92c5&limit=5)
-Iata explicatia privind raspunsul primit:<pre>
+<br/>Iata explicatia privind raspunsul primit:
+<pre>
   The provided text is a JSON response from a web API, specifically designed to return data from a datastore in the context of the Romanian government's data portal. Here’s a breakdown of its contents in simple English:
 
 1. **Help Link**: The first part contains a link that users can click to get help about the API action called "datastore_search".
