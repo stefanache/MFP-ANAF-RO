@@ -17,6 +17,7 @@ Pentru coderi/codificatori/programatori: API-ul CKAN([**Action API**](https://do
   <br/>Fondul European de Garantare Agricolă (FEGA), pentru perioada... 2014-28 august 2020
   <br/>ckan-URL(resursa-colectieie-de-fisiere **8f43aa12-3bf9-4c14-b13f-dc0e490a92c5** din dataset-ul [10767d4c-8398-4b60-b17a-aa526f55e946](https://data.gov.ro/dataset/10767d4c-8398-4b60-b17a-aa526f55e946)):  <br/>https://data.gov.ro/dataset/10767d4c-8398-4b60-b17a-aa526f55e946/resource/8f43aa12-3bf9-4c14-b13f-dc0e490a92c5/download/stadiul-absorbiei-fon     
   <br/>Aceasta resursa cuprinde/este o colectie de fisiere xls(Excel):     
+
 <details
 
   <summary>Date şi resurse ce pot fi descarca/download-abile recursiv... detalii...</summary>
