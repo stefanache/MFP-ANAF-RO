@@ -149,6 +149,79 @@ Textul furnizat este un răspuns JSON de la un API web, special conceput pentru 
 
 
 - exemplu-CKAN-action(api)-procedura-RPC=*datastore_search*: [contains](https://data.gov.ro/ro/api/3/action/datastore_search?q=jones&resource_id=8f43aa12-3bf9-4c14-b13f-dc0e490a92c5)(q=jones)
+
+<details>
+    <summary>raspunsul JSON... detalii...</summary>
+
+<hr/>
+  
+{
+"help": "https://data.gov.ro/ro/api/3/action/help_show?name=datastore_search", 
+"success": true, 
+"result": {
+  "include_total": true, 
+  "resource_id": "8f43aa12-3bf9-4c14-b13f-dc0e490a92c5", 
+  "fields": \[
+     {"type": "int",
+     "id": "_id"
+    }, 
+    {
+     "type": "text", 
+     "id": "1.0"
+     },
+     {
+      "type": "numeric",
+      "id": "2.0"
+      }, 
+      {
+      "type": "numeric", 
+      "id": "3=(2/1)*100"
+      },
+      {
+      "type": "numeric",
+      "id": "4.0"
+      }, 
+      {
+       "type": "numeric", 
+       "id": "5=(4/1)*100"
+       }, 
+       {
+       "type": "numeric",
+       "id": "6.0"
+       }, 
+       {
+       "type": "numeric",
+       "id": "7=(6/1)*100"
+       }, 
+       {
+       "type": "numeric", 
+       "id": "8.0"
+       }, 
+       {
+       "type": "numeric",
+       "id": "9=(8/1)*100"
+       }, 
+       {
+       "type": "numeric",
+       "id": "10=4+8"
+       }, 
+       {
+       "type": "numeric", 
+       "id": "11=(10/1)*100"
+       }],
+  "records_format": "objects",
+  "q": "jones", 
+  "records": [], 
+  "_links": {
+    "start": "/api/3/action/datastore_search?q=jones&resource_id=8f43aa12-3bf9-4c14-b13f-dc0e490a92c5", 
+    "next": "/api/3/action/datastore_search?q=jones&offset=100&resource_id=8f43aa12-3bf9-4c14-b13f-dc0e490a92c5"}, 
+    "total": 0}
+}
+
+<hr/>
+
+  </details>
+  
 - exemplu-CKAN-action(api)-procedura-RPC=*datastore_search_sql*: [via/utilizand SQL](https://data.gov.ro/ro/api/3/action/datastore_search_sql?sql=SELECT+*+from+"8f43aa12-3bf9-4c14-b13f-dc0e490a92c5"+WHERE+title+LIKE+'jones')
 
  - Un simplu fragment de cod ajax (JSONP), care reprezinta o cerere/request catre  datele-API-ului folosind jQuery:
