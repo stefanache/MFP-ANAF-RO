@@ -106,6 +106,9 @@ Stadiul absorbtiei - 31 octombrie 2024</pre>
 </details>
 
   <br/>Fiecare fisier la randul sau fiind o resursa: ex. primul fisier are resourceid=[*d499ce49-b9dc-437d-ba62-49ec00e06c68*](https://data.gov.ro/dataset/stadiul-absorbtiei-fondurilor-europene/resource/d499ce49-b9dc-437d-ba62-49ec00e06c68)
+  <br/>Asadar ca orice alt *resourceid* poate fi folosit la randul sau in  orice link-valid de interogare
+  <br/>(spre exemplu:[https://data.gov.ro/ro/api/3/action/datastore_search?resource_id=d499ce49-b9dc-437d-ba62-49ec00e06c68](https://data.gov.ro/ro/api/3/action/datastore_search?resource_id=d499ce49-b9dc-437d-ba62-49ec00e06c68))
+  
 
   <br> Daca dati/accesati pe link-ul **API-Data** care este un link pt URL=*https://data.gov.ro/api/1/util/snippet/api_info.html?resource_id=d499ce49-b9dc-437d-ba62-49ec00e06c68*, obtineti un fragment de cod-api(snippet) **JS** si unul **python**(generate in mod automat, folosind un utilitar-api) cu care puteti accesa direct (aceasta resursa fiind deci primul fisier xslx al intregii colectii de fisiere)
 <details>
