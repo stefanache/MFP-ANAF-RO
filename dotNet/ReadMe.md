@@ -16,7 +16,7 @@ Pentru coderi/codificatori/programatori: API-ul CKAN([**Action API**](https://do
   <br/>Stadiul absorbției pentru programele finanțate din Fondurile Europene Structurale și de Investiții (FESI) și al plăților efectuate din
   <br/>Fondul European de Garantare Agricolă (FEGA), pentru perioada... 2014-28 august 2020
   <br/>URL:  https://data.gov.ro/dataset/10767d4c-8398-4b60-b17a-aa526f55e946/resource/8f43aa12-3bf9-4c14-b13f-dc0e490a92c5/download/stadiul-absorbiei-fon
-  <br/>Aceasta resursa cuprinde o colectie de fisiere xls(Excel):     Date şi resurse ce pot fi descarcate/download-ate....
+  <br/>Aceasta resursa cuprinde o colectie de fisiere xls(Excel):     Date şi resurse ce pot fi descarca/download-abile recursiv....
 <pre>
 Stadiul absorbtiei - 30 martie 2018XLSX
 Stadiul absorbtiei - 30 iunie 2018XLSX
