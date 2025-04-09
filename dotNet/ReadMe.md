@@ -15,7 +15,7 @@ Pentru coderi/codificatori/programatori: API-ul CKAN([**Action API**](https://do
 - exemplu-CKAN-Resource-ID=[8f43aa12-3bf9-4c14-b13f-dc0e490a92c5](https://data.gov.ro/dataset/stadiul-absorbtiei-fondurilor-europene/resource/8f43aa12-3bf9-4c14-b13f-dc0e490a92c5)
   <br/>URL:  https://data.gov.ro/dataset/10767d4c-8398-4b60-b17a-aa526f55e946/resource/8f43aa12-3bf9-4c14-b13f-dc0e490a92c5/download/stadiul-absorbiei-fon
   <br/>resursa cuprinde o colectie de fisiere xls(Excel):     Date şi resurse ce pot fi descarcate/download-ate....
-  <pre>
+<pre>
 Stadiul absorbtiei - 30 martie 2018XLSX
 Stadiul absorbtiei - 30 iunie 2018XLSX
 Stadiul absorbtiei - 3 august 2018XLSX
