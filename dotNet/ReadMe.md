@@ -152,8 +152,10 @@ Textul furnizat este un răspuns JSON de la un API web, special conceput pentru 
 - exemplu-CKAN-action(api)-procedura-RPC=*datastore_search*: [contains](https://data.gov.ro/ro/api/3/action/datastore_search?q=jones&resource_id=8f43aa12-3bf9-4c14-b13f-dc0e490a92c5)(q=jones)
 - exemplu-CKAN-action(api)-procedura-RPC=*datastore_search_sql*: [via/utilizand SQL](https://data.gov.ro/ro/api/3/action/datastore_search_sql?sql=SELECT+*+from+"8f43aa12-3bf9-4c14-b13f-dc0e490a92c5"+WHERE+title+LIKE+'jones')
 
- - A simple ajax (JSONP) request to the data API using jQuery.
+ - Un simplu fragment de cod ajax (JSONP), care reprezinta o cerere/request catre  datele-API-ului folosind jQuery:
 
+<details>
+  <summary>A simple ajax (JSONP) request to the data API using jQuery...details...</summary>
         var data = {
           resource_id: '8f43aa12-3bf9-4c14-b13f-dc0e490a92c5', // the resource id
           limit: 5, // get 5 results
@@ -174,6 +176,8 @@ Textul furnizat este un răspuns JSON de la un API web, special conceput pentru 
         url = 'https://data.gov.ro/ro/api/3/action/datastore_search?resource_id=8f43aa12-3bf9-4c14-b13f-dc0e490a92c5&limit=5&q=title:jones'  
         fileobj = urllib.urlopen(url)
         print fileobj.read()
+
+</details>
 
 [Aici](https://github.com/GSA/ckan-php-client) puteti gasi un *client*-**CKAN** scris in *PhP* iar [aici](https://github.com/KRontheWeb/ckan-downloader) unul scris in *Python*(se poate folosi si [cURL](https://stackoverflow.com/questions/38271351/download-resources-from-private-ckan-datasets)-ul).
 
