@@ -91,8 +91,8 @@ Stadiul absorbtiei - 30 aprilie 2024XLSX
 Stadiul absorbtiei - 6 august 2024XLSX
 Stadiul absorbției - 30 august 2024XLSX
 Stadiul absorbtiei - 30 septembrie 2024XLSX
-Stadiul absorbtiei - 31 octombrie 2024
-  </pre>
+Stadiul absorbtiei - 31 octombrie 2024</pre>
+  <br/>Fiecare fisier la ransul sau fiind o resursa: ex primul fisier are resourceid=[d499ce49-b9dc-437d-ba62-49ec00e06c68](https://data.gov.ro/dataset/stadiul-absorbtiei-fondurilor-europene/resource/d499ce49-b9dc-437d-ba62-49ec00e06c68)
   <br/>Stadiul absorbției pentru programele finanțate din Fondurile Europene Structurale și de Investiții (FESI) și al plăților efectuate din
   <br/>Fondul European de Garantare Agricolă (FEGA), pentru perioada... 2014-28 august 2020
 - exemplu-CKAN-action(api): [cerere/search/cautare Top-5 rezultate](https://data.gov.ro/ro/api/3/action/datastore_search?resource_id=8f43aa12-3bf9-4c14-b13f-dc0e490a92c5&limit=5)
