@@ -131,7 +131,7 @@ Query example (first 5 results)
 https://data.gov.ro/api/3/action/datastore_search?resource_id=d499ce49-b9dc-437d-ba62-49ec00e06c68&limit=5
 
 Query example (results containing 'jones')
-[https://data.gov.ro/api/3/action/datastore_search?q=jones&resource_id=d499ce49-b9dc-437d-ba62-49ec00e06c68](https://data.gov.ro/api/3/action/datastore_search?q=jones&resource_id=d499ce49-b9dc-437d-ba62-49ec00e06c68)
+https://data.gov.ro/api/3/action/datastore_search?q=jones&resource_id=d499ce49-b9dc-437d-ba62-49ec00e06c68
 
 Query example (via SQL statement)
 https://data.gov.ro/api/3/action/datastore_search_sql?sql=SELECT * from "d499ce49-b9dc-437d-ba62-49ec00e06c68" WHERE title LIKE 'jones'
