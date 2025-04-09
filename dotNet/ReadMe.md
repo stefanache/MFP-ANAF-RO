@@ -12,4 +12,4 @@ Pentru coderi/codificatori/programatori: API-ul CKAN([**Action API**](https://do
 
 - a se consulta [actiunile/activitatea](https://data.gov.ro/ro/api/1/util/snippet/api_info.html?resource_id=8f43aa12-3bf9-4c14-b13f-dc0e490a92c5) privind acest portal!!!
 
-- exemplu cerere[CKAN cere top5 rezultate](https://data.gov.ro/ro/api/3/action/datastore_search?resource_id=8f43aa12-3bf9-4c14-b13f-dc0e490a92c5&limit=5)
+- exemplu-CKAN: [cere top5 rezultate](https://data.gov.ro/ro/api/3/action/datastore_search?resource_id=8f43aa12-3bf9-4c14-b13f-dc0e490a92c5&limit=5)
