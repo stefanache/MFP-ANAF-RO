@@ -33,7 +33,7 @@ Pentru cei care doresc sa genereze cod(**code generative-AI**), folosind modele 
  <hr/>
 
  <details>
-       <summary>Hai sa discutam si depre ... alte proiecte-AI promovate de domnul <a href="https://www.linkedin.com/in/fahdmirza/recent-activity/all/">Fahd Mirza</a></summary>
+       <summary>Hai sa discutam si despre ... alte proiecte-AI promovate de domnul <a href="https://www.linkedin.com/in/fahdmirza/recent-activity/all/">Fahd Mirza</a></summary>
        
 <br/><br/><hr/>
 
