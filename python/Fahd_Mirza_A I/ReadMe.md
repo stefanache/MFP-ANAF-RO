@@ -40,22 +40,37 @@ Pentru cei care doresc sa genereze cod(**code generative-AI**), folosind modele 
 
 [Orizontul](https://www.marktechpost.com/2024/11/14/microsoft-released-llm2clip-a-new-ai-technique-in-which-a-llm-acts-as-a-teacher-for-clips-visual-encoder/) [cunoasterii](https://www.microsoft.com/en-us/research/project/llm2clip/) in domeniul [generative-AI](https://www.youtube.com/watch?v=mJ-wt79u0Ls), poate fi [largit](https://github.com/microsoft/LLM2CLIP) si prin studierea unor [lucrari](https://microsoft.github.io/LLM2CLIP/) precum cea intitulata  [LLM2CLIP](https://microsoft.github.io/LLM2CLIP/).
 
+<details>
+	<summary>Llama-Mesh/3D-Chatbot</summary>
+
 <hr/>
 
 In domeniul ***generative-AI(NLP,NLU)***, mai precis in domeniul [**generarii/intelegerii-3D**](https://github.com/nv-tlabs/LLaMA-Mesh), a aparut pe Youtube(YT) un filmulet al unui [3D-Chatbot](https://www.youtube.com/watch?v=c-LbbZEkcBo) interesant, intitulat "**Nvidia [Llama-Mesh](https://huggingface.co/spaces/Zhengyi/LLaMA-Mesh) - Generate [3D](https://www.youtube.com/watch?v=PSU4wB8WkzA) [Mesh](https://huggingface.co/bartowski/LLaMA-Mesh-GGUF) and Shapes with Text - Install Locally**", cu privire la generarea in spatiu-tridimensional(3D) de retele/invelitori/suprafete([**3D-mesh/shape**](https://huggingface.co/spaces/Zhengyi/LLaMA-Mesh)), generandu-se daca doriti, inclusiv,  coordonatele varfurilor sau nodurilor retelei [3D](https://towardsdatascience.com/generate-3d-images-with-nvidias-llama-mesh-69a6929a4580)(date ca/spre exemplu), pt corpuri/obiecte/solide, obtinindu-se astfel modele unificate de suprafete 3D([geometrii-triangulate](https://ro.wikipedia.org/wiki/Triangularea_unei_suprafe%C8%9Be)), pornind de la interogari textuale livrate unui model-LLM specializat(in acest caz fiind [**Zhengyi/LLaMA-Mesh**](https://github.com/nv-tlabs/LLaMa-Mesh)). 
 In acest [proiect](https://github.com/nv-tlabs/LLaMA-Mesh), pentru afisarea/construirea interfetei-web-utilizator(intrarea proiectului) s-a apelat la libraria/pachetul python [**gradio**.](https://www.gradio.app/). Pentru redarea/randarea 3D(iesirea grafica a proiectului **LLaMA-Mesh**) s-a folosit libraria [**trimesh**](https://trimesh.org/). Pe partea de procesare(coloana vertebrala a proiectului) s-a utilizat pachetul [**transformers**](https://huggingface.co/docs/transformers/index). 
 
 <hr/>
+</details>
 
+<details>
+	<summary>Llama3.2-vision si OmniAudio-AI</summary>
+<hr/>
 Un alt proiect legat de subtitrarea sau transcrierea/descrierea unei imagini este proiectul local(windows) care utilizeaza ca LLM, modelul [Llama3.2-vision](https://www.youtube.com/watch?v=qc99ShiPAY8)(atentie la [licenta](https://www.reddit.com/r/ollama/comments/1gxwd1j/llama_32_vision_in_the_eu/?%24deep_link=true&correlation_id=a31d354b-4ba5-42d7-a450-375f98de2cb4&post_fullname=t3_1gxwd1j&post_index=0&ref=email_digest&ref_campaign=email_digest&ref_source=email&utm_content=post_title&%243p=e_as&_branch_match_id=1376944233253091740&utm_medium=Email%20Amazon%20SES&_branch_referrer=H4sIAAAAAAAAA22P207DMBBEvyZ9Sy%2B2QwGpQgjEb6yceJss%2BKa1Q%2FrEt7NpgSckWxqd8cyup1pzedztGJ2jurU5bz3Fj53OT40yOp8QbNmITEwjRethZn%2Ba1lSjnxv1JmdZlu1PfkhBAMtN3ttgRQgKGGsReRgvizu8i7qaoBV8UqEUgSLUCQHntVFLaaeMQ8ywLtPo18ozNupuSMzobb1GnHCrD053pm9Nb7vWKHdsren2rT5254d7h2rojeRyKhXOs%2FfRBlzrNPztcjMpOryIsxfAeBaFwZIHRyOWeoMw2JAtjfF%2Ft6SZB%2Fz1BM41wJBild8LvY6pVD1uvuQ5MlMcoee0FOTTy8Qp4DfMPtIgjgEAAA%3D%3D)) deservit de serverul dvs. **Ollama**. Desigur acesta se poate utiliza si pt filmulete/video-uri avand in vedere faptul ca un astfel de obiect este format dintr-o multime sau un intreg sir/serie de imagini captate succesiv in timp.
 
 Tot in zona [media](https://www.youtube.com/@fahdmirza) puteti consulta si acest proiect [**OmniAudio-AI model 2.6B**](https://www.youtube.com/watch?v=CrTGp60KIOA) ori proiectul [**Voice-Isolator**](https://www.youtube.com/watch?v=giblKlWtjGY).
 
 <hr/>
+</details>
 
+<details>
+	<summary>*RAG multimodal(imagini si text)</summary>
+
+<hr/>
+	
 Daca doriti sa testati un [**RAG multimodal(imagini si text)**](https://www.linkedin.com/in/fahdmirza/recent-activity/all/) atunci puteti consulta periodic activitatea pe [***Linkedin***](https://www.llamaindex.ai/blog/multimodal-rag-in-llamacloud) a d-lui [**Fahd Mirza**](https://www.youtube.com/watch?v=96p0-3dZTOs)(trebuie sa aveti cont pe [**LLamaCloud**](https://cloud.llamaindex.ai/login):)
 
 <hr/>
+</details>
+
 
 Daca sunteti interesat de aceasta atractiva interfata **Vocala** | **Speech** in task-urile dumneavoastra AI, puteti sa cititi, mai jos, povestea...
 
