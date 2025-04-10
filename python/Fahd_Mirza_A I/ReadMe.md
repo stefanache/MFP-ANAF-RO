@@ -351,11 +351,12 @@ Tot legat de [***agenti-AI***](https://www.youtube.com/watch?v=ffL-bJsW5Xk) este
 </details>
 
 <details>
-	<summary>subiecte discutate: ModernBERT-Embed-Base, </summary>
+	<summary>subiecte discutate: ModernBERT-Embed-Base, Dolphin 3.0-Llama3.1,  LLMate,...</summary>
 
-Sa spunem cate ceva despre fiecare subiect in parte ...
+<br/>Sa spunem cate ceva despre fiecare subiect in parte ...
 
 <hr/>
+
 <details>
 	<summary>Incorporatorul <b>ModernBERT Embed Base</b> de la Nomic</summary>
 
@@ -538,7 +539,7 @@ acesteia cautand similaritatile.
 <hr/>
 
 <details>
-<summary>Recent a aparut modelul local <a href="https://www.youtube.com/watch?v=CV8TE9aE1xM&t=22s"><b>Dolphin 3.0 Llama 3.1 8B</b></a></summary>
+<summary>Recent a aparut modelul local <a href="https://www.youtube.com/watch?v=CV8TE9aE1xM&t=22s"><b>Dolphin 3.0-Llama3.1(8B)</b></a></summary>
 
 Acest [model](https://huggingface.co/cognitivecomputations/Dolphin3.0-Llama3.1-8B) este un model local de uz general final(model de margine), permițând: 
 
@@ -611,6 +612,8 @@ Dezavantajele/Limitările **CAG**:
 Daca doriti, sa aflati,  care/ce [**marime de LLM**](https://www.youtube.com/watch?v=nwVGUL8R-pg&ab_channel=FahdMirza), se potriveste,  arsenalului de resurse( pe care il poseda ....)din dotarea PC/Laptop-ul dvs., atunci [**LLMate**](https://www.youtube.com/watch?v=nwVGUL8R-pg&t=1s&ab_channel=FahdMirza) va poate ajuta in acest demers.
 
 <hr/>
+
+</details>
 
 <details>
       <summary>La final, voi enumera cateva dintre <b>proiectele interesante</b>, prezentate pe YouTube(<b>YT</b>), de catre domnul <b>Fahd-Mirza</b> si numai...</summary>
