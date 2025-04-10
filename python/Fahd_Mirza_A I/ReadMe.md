@@ -1040,13 +1040,15 @@ peste 1600 de modele de limbă, viziune, audio și imagine. 🔥
 
 <hr/>
 
-<pre>Rezumat
-În acest videoclip, Fahad Mirza prezintă progresele realizate în proiectul GPT-Me, în special integrarea 
-modele locale precum LlaMA cu capacități agentice. 
-Videoclipul prezintă spectatorii prin procesul de instalare locală a GPT Me și demonstrează cum să-l ruleze împreună 
-Modele bazate pe LLaMA. 
-Fahd discută, de asemenea, limitările actuale ale acestor instrumente, în special în ceea ce privește capacitățile lor de raționament, 
-subliniind totodată potențialul pe care îl oferă pentru diverse sarcini, inclusiv codificare și căutări pe web.
+<pre>
+      Rezumat
+În acest videoclip, Fahd Mirza prezintă progresele realizate în proiectul GPT-Me, în special integrarea 
+modelelor locale precum LlaMA cu capacități agentice. 
+Videoclipul prezintă procesul de instalare locală a GPT-Me și demonstrează cum se ruleaza acesta împreună cu
+modele bazate pe LLaMA. 
+Fahd arată, de asemenea, limitările actuale ale acestor instrumente, în special în ceea ce privește capacitățile lor
+de raționament, subliniind totodată potențialul pe care îl oferă pentru diverse sarcini, inclusiv codificare și 
+căutări pe web.
 
       Repere
 0:02
