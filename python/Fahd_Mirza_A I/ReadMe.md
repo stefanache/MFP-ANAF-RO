@@ -1190,9 +1190,18 @@ pentru conținut.</pre>
 <hr/>
 <pre>
       Rezumat
-În acest tutorial, Fahd Mirza ghidează spectatorii prin procesul de creare a unui server și client Model Context Protocol (MCP). 
-Videoclipul explică necesitatea MCP pentru a conecta modele mari de limbi la surse de date externe în mod sigur și eficient. 
-Tutorialul progresează de la un simplu server MCP „Hello World” la un exemplu mai complex care implică o bază de date SQLite, 
+În acest tutorial, Fahd-Mirza ghidează spectatorii/utilizatorii/programatorii prin procesul de creare a 
+	- unui server și a 
+	- uni client 
+care utilizeaza pt comunicare/interogare protocolul: 
+	 - Model Context Protocol (MCP). 
+Videoclipul explică necesitatea MCP pentru a conecta/lega 
+	- pe parte de client: modele mari de limbi la surse(LLM-ul) de 
+	- pe parte de server: date externe 
+în mod sigur și eficient. 
+Tutorialul progresează/evolueaza 
+	- de la un simplu server-MCP „Hello World” 
+	- la un exemplu-mai-complex care implică o bază-de-date-SQLite, 
 demonstrând ușurința integrării diferitelor surse de date folosind cadrul MCP.
 
 Repere
