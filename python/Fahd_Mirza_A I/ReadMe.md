@@ -988,6 +988,7 @@ Acest videoclip arată cum să instalați local [AgenticSeek](https://www.youtub
 
 <details>
 	<summmary>CAMEL-AI</summmary>
+
 <hr/>
 
 [Build Agentic RAG Chatbot with Camel AI in Free Google Colab](https://www.youtube.com/watch?v=WECSryd63Sc&ab_channel=FahdMirza)
