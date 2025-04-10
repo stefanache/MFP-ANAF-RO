@@ -1185,6 +1185,182 @@ pentru conținut.</pre>
 <br/>Acest [videoclip](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa2xZRWRtRGt6aVVHOGZzT0s3eGgxbmFYeDV4Z3xBQ3Jtc0tuemhESVpOeUp4anlubjh2OUtIZE5ETjVvNnNSSUFZMHFLaEptZHd5c2lfSmJqeU5HSEYwMkw1SHZuMGVzRmFwMjUtWTNlVXp4U3VadzdvMnVwd042dVZJcEUzR0FIRC1INF9vU1JUeGJBeVNZcUxsTQ&q=https%3A%2F%2Fwww.fahdmirza.com%2F2025%2F04%2Fhow-to-build-mcp-server-and-client-step.html&v=C2UnDOt-f3M) este un tutorial foarte simplu pas cu pas despre Protocolul de Context Model([MCP Anthropic](https://www.fahdmirza.com/2025/04/how-to-build-mcp-server-and-client-step.html)) cu o lume bună și apoi un exemplu din lumea reală(pentru a testa [codul-python](https://github.com/fahdmirza/mcp), veti avea nevoie de o [cheie-API de la Anthropic](https://docs.anthropic.com/en/api/admin-api/apikeys/get-api-key)). 🔥
 
 <details>
+	<summary>...sa comentam putin/un pic scrierea codului ... de la simplu la complex...</summary>
+<hr/>
+<pre>
+✅ Step 1: Environment Setup
+
+# Conda environment (Ubuntu 22.04)
+conda create -n mcp-env python=3.10 -y
+conda activate mcp-env
+
+export ANTHROPIC_API_KEY=""   #Get from anthropic.com
+
+# Install packages
+pip install "mcp[cli]" anthropic python-dotenv
+
+🚩 Hello World MCP Example
+✅ Hello World MCP Server (~/mcp-hello-server/hello.py)
+<CODE>
+from mcp.server.fastmcp import FastMCP
+
+mcp = FastMCP("hello-world")
+
+@mcp.tool()
+async def say_hello(name: str) -> str:
+    """Say Hello to a person.
+
+    Args:
+        name: The person's name.
+    """
+    return f"Hello, {name}! 🎉"
+
+if __name__ == "__main__":
+    mcp.run(transport='stdio')
+</CODE>
+Run MCP server:
+
+cd ~/mcp-hello-server
+python hello.py
+
+✅ Hello World MCP Client (~/mcp-hello-client/client.py)
+<CODE>
+import asyncio
+from contextlib import AsyncExitStack
+from mcp import ClientSession, StdioServerParameters
+from mcp.client.stdio import stdio_client
+
+async def main():
+    server_script_path = "/home/Ubuntu/mcp-hello-server/hello.py"  # correct absolute path!
+
+    server_params = StdioServerParameters(
+        command="python",
+        args=[server_script_path],
+        env=None
+    )
+
+    async with AsyncExitStack() as stack:
+        stdio_transport = await stack.enter_async_context(stdio_client(server_params))
+        session = await stack.enter_async_context(ClientSession(*stdio_transport))
+
+        await session.initialize()
+        result = await session.call_tool("say_hello", {"name": "MCP User"})
+        
+        # Correctly handle MCP response
+        content_item = result.content[0]
+        print(content_item.text)
+
+asyncio.run(main())
+</CODE>
+Run MCP client:
+
+cd ~/mcp-hello-client
+python client.py
+
+🚩 SQLite Database MCP Example
+✅ SQLite DB Setup (~/sqlite-mcp-server/setup_db.py)
+<code>
+import sqlite3
+
+conn = sqlite3.connect("/home/Ubuntu/sqlite-mcp-server/users.db")
+cursor = conn.cursor()
+
+cursor.execute("""
+CREATE TABLE IF NOT EXISTS users (
+    id INTEGER PRIMARY KEY,
+    name TEXT,
+    email TEXT
+)
+""")
+
+cursor.executemany("""
+INSERT INTO users (name, email) VALUES (?,?)
+""",[
+    ("John Doe","john@example.com"),
+    ("Jane Smith","jane@example.com"),
+    ("Alice Johnson","alice@example.com")
+])
+
+conn.commit()
+conn.close()
+</code>
+Run once to setup database:
+
+cd ~/sqlite-mcp-server
+python setup_db.py
+
+✅ SQLite MCP Server (~/sqlite-mcp-server/sqlite_server.py)
+<code>
+from mcp.server.fastmcp import FastMCP
+import sqlite3
+
+mcp = FastMCP("sqlite-db-server")
+
+@mcp.tool()
+async def get_user_info(user_id: int) -> dict:
+    """Get user info by ID."""
+    conn = sqlite3.connect("/home/Ubuntu/sqlite-mcp-server/users.db")
+    cursor = conn.cursor()
+
+    cursor.execute("SELECT id,name,email FROM users WHERE id=?", (user_id,))
+    user = cursor.fetchone()
+    conn.close()
+
+    if user:
+        return {"id":user[0],"name":user[1],"email":user[2]}
+    else:
+        return {"error":"No user found"}
+
+if __name__ == "__main__":
+    mcp.run(transport='stdio')
+</code>
+Run SQLite MCP server:
+
+cd ~/sqlite-mcp-server
+python sqlite_server.py
+
+✅ SQLite MCP Client (~/sqlite-mcp-client/client.py)
+<CODE>
+import asyncio, json
+from contextlib import AsyncExitStack
+from mcp import ClientSession, StdioServerParameters
+from mcp.client.stdio import stdio_client
+
+async def main():
+    server_script_path = "/home/Ubuntu/sqlite-mcp-server/sqlite_server.py"  # correct absolute path!
+
+    server_params = StdioServerParameters(
+        command="python",
+        args=[server_script_path],
+        env=None
+    )
+
+    async with AsyncExitStack() as stack:
+        stdio_transport = await stack.enter_async_context(stdio_client(server_params))
+        session = await stack.enter_async_context(ClientSession(*stdio_transport))
+
+        await session.initialize()
+        result = await session.call_tool("get_user_info", {"user_id": 2})
+
+        # Correctly handle MCP content response
+        content_item = result.content[0]
+        if hasattr(content_item, 'data'):
+            print(json.dumps(content_item.data, indent=4))
+        elif hasattr(content_item, 'text'):
+            print(content_item.text)
+        else:
+            print(str(content_item))
+
+asyncio.run(main())
+</CODE>
+Run SQLite MCP client:
+
+cd ~/sqlite-mcp-client
+python client.py</pre>
+
+<hr/>
+</details>
+<details>
       <summary>SqLite-MCP-server si Client-MCP ... rezumat...video-YT...detalii...</summary>
 
 <hr/>
