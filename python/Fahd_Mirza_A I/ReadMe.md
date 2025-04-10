@@ -1434,6 +1434,8 @@ Repere
 
 ...
 
+<hr/>
+
 </details>
 
 <details>
