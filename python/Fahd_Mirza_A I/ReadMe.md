@@ -1231,7 +1231,9 @@ pentru conținut.</pre>
 <hr/>
 
  </details>
- 
+
+<details>
+	<summary>MCP...client-server...</summary>
 <hr/>
 
 [Easiest Tutorial on Model Context Protocol (MCP) - Hands-on](https://www.youtube.com/watch?v=C2UnDOt-f3M&ab_channel=FahdMirza)
@@ -1476,6 +1478,8 @@ Repere
 </details>
 
 <hr/>
+
+</details>
 
 ...
 ....
