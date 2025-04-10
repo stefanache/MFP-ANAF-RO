@@ -1181,6 +1181,10 @@ Asigurarea că tot codul folosit va fi distribuit pe blogul prezentatorului, inv
 
  </details>
 
+<hr/>
+
+<details>
+	<summary>Modelul MoE-vision(VLM) multimodal: <b>Kimi-VL</b></summary>
  <hr/>
 
  [Kimi VL A3B Thinking - Model MoE Vision cu raționament multimodal - Instalați local](https://www.youtube.com/watch?v=yzF6DJHHBq0&ab_channel=FahdMirza)
@@ -1231,6 +1235,10 @@ pentru conținut.</pre>
 <hr/>
 
  </details>
+
+<hr/>
+
+</details>
 
 <details>
 	<summary>MCP...client-server...</summary>
