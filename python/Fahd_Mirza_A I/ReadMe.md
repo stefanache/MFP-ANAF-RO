@@ -847,7 +847,7 @@ Acest videoclip arată cum să instalați local [AgenticSeek](https://www.youtub
 <details>
 	<summary>Thera, Fin-R1, MoonCast, Extract-SD-from-Any-PDF, Teapot,OlympicCoder(7B), Parse-Vision,    ...</summary>
 
-Sa analizam pe rand fiecare subiectin parte ...
+<br/>Sa analizam pe rand fiecare subiectin parte ...
 
 <hr/>
 
@@ -887,31 +887,36 @@ Sa analizam pe rand fiecare subiectin parte ...
 <hr/>
 
 [<b>Parse-Vision</b> - Visualize What OCR is Parsing in PDFs - Install Locally](https://www.youtube.com/watch?v=Hl3u5DSvU_c&ab_channel=FahdMirza)
-<br/>Acest videoclip instalează [Parse Vision](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbXlmTnZ6V0JhWnhrYnpMV2h0V3RVUmRBdnhIZ3xBQ3Jtc0tuUUlqSGpxazlaUG9sUERpcjRyNzU4OFduNjRpNWF2YzQ1WUJLV05NNnptakRYYjZwYnBESU53bS1UY1I5VXc3aWFYQlQ3WHRGTzdTX1BJeXBOR2h2ZmhKTGZMdFVMbjNWOTNhbjJldERtaVNFWUUtTQ&q=https%3A%2F%2Fgithub.com%2Forasik%2Fparsevision&v=Hl3u5DSvU_c) la nivel local, care este un instrument open-source pentru a vizualiza ceea ce OCR analizează într-un document PDF. 🔥 
+<br/>Acest videoclip instalează [Parse-Vision](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbXlmTnZ6V0JhWnhrYnpMV2h0V3RVUmRBdnhIZ3xBQ3Jtc0tuUUlqSGpxazlaUG9sUERpcjRyNzU4OFduNjRpNWF2YzQ1WUJLV05NNnptakRYYjZwYnBESU53bS1UY1I5VXc3aWFYQlQ3WHRGTzdTX1BJeXBOR2h2ZmhKTGZMdFVMbjNWOTNhbjJldERtaVNFWUUtTQ&q=https%3A%2F%2Fgithub.com%2Forasik%2Fparsevision&v=Hl3u5DSvU_c) la nivel local, care este un instrument open-source pentru a vizualiza ceea ce OCR analizează într-un document PDF. 🔥 
 
 <hr/>
 
 </details>
 
+<details>
+	<summary>HVI/MM, Deep-Researcher, Hugging-Face(HF), FastCuRL(1.5B), ColNomic-Embed-Multimodal(3B) ...</summary>
+
+ <br/>Hai sa analizam fiecare topic in parte...
+ 
 <hr/>
 
 [MM - Inductive Moment Matching by Luma Labs and Stanford](https://www.youtube.com/watch?v=-BOtslzbRB0&ab_channel=FahdMirza)
-<br/>Acest videoclip instalează local [HVI](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbDN4QzEwZlhNZDUwRkwycnVaOUVmd0drUVRoQXxBQ3Jtc0tsLXFCaEVrWkxSTWJtOWlaSS1kdU1rWl9rYmR4MHQtSHpZY1hncnk1NTktcDE4SFFraTFUWVVqVmxUczdEb0VGQlZuOU1RM004ZVlrSzIxSXdVbTJEV2ZGbWRmUjN2MGZxYVpQck5icVc2RHhmYlFsQQ&q=https%3A%2F%2Fgithub.com%2FFediory%2FHVI-CIDNet&v=-BOtslzbRB0) care îmbunătățește imaginile cu lumină scăzută prin utilizarea unui nou spațiu de culoare pentru a reduce zgomotul și a îmbunătăți luminozitatea în mod eficient. 🔥
+<br/>Acest videoclip instalează local [*HVI*](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbDN4QzEwZlhNZDUwRkwycnVaOUVmd0drUVRoQXxBQ3Jtc0tsLXFCaEVrWkxSTWJtOWlaSS1kdU1rWl9rYmR4MHQtSHpZY1hncnk1NTktcDE4SFFraTFUWVVqVmxUczdEb0VGQlZuOU1RM004ZVlrSzIxSXdVbTJEV2ZGbWRmUjN2MGZxYVpQck5icVc2RHhmYlFsQQ&q=https%3A%2F%2Fgithub.com%2FFediory%2FHVI-CIDNet&v=-BOtslzbRB0) care îmbunătățește imaginile cu lumină scăzută prin utilizarea unui nou spațiu de culoare pentru a reduce zgomotul și a îmbunătăți luminozitatea în mod eficient. 🔥
 
 
 <hr/>
 
-[Local Deep Researcher with Ollama - Install Locally for Web Search](https://www.youtube.com/watch?v=czGVsAd3b88&ab_channel=FahdMirza)
+[<b>Local-Deep-Researcher</b> with Ollama - Install Locally for Web Search](https://www.youtube.com/watch?v=czGVsAd3b88&ab_channel=FahdMirza)
 <br/>🔥Acest videoclip instalează local [**Local Deep Researcher**](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqblIzVWt4d1hHc1VqSk5TSndWcVdCVVVHRklxZ3xBQ3Jtc0tuX0RiODU2aE4zd1oxOVZtRkdnVVBuWjJmYUk4aFIyb3YtRHg4dnlwZzJ6ajNoaUo5S0xHNUxadGk0UGdzaGZ3am03NVdMZGpoYTVPazdhaXVXUGlGa2p4UXJ5c29feGNLcnhqdkQ1WUFsYnAxcjFHTQ&q=https%3A%2F%2Fgithub.com%2Flangchain-ai%2Flocal-deep-researcher&v=czGVsAd3b88), care este un [**asistent de cercetare/cautare pe web**](https://www.youtube.com/results?search_query=fahd+mirza), complet local, care utilizează orice **LLM** găzduit de ***Ollama*** sau ***LMStudio***. 
 
 <hr/>
 
-[A Quick Tutorial on Hugging Face](https://www.youtube.com/watch?v=AYZQq5l2DCE&ab_channel=FahdMirza)
+[A Quick Tutorial on <b>Hugging-Face(HF)</b>](https://www.youtube.com/watch?v=AYZQq5l2DCE&ab_channel=FahdMirza)
 <br/>Acest videoclip este un tutorial pentru începători pentru a parcurge [Hugging Face](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbmJDdkRvRG15V2RsdzQwODhpbkE0dnVtSUVvd3xBQ3Jtc0trenJBak53NE15TkI3WERKQ1lfRlAyRDNnU3gzVnpLelBJUGRmMFR6elhLYk45cXdHSzNpT01VVW12YVl6b0I5bEE5aDdXbXNrUGtZdERZVEJfMVBXZ3g2MTdSYUNJdGlQa1V2TkFDSUVuZ0toSk5KQQ&q=https%3A%2F%2Fhuggingface.co%2F&v=AYZQq5l2DCE) pentru a găsi și selecta un tutorial pentru cazul dvs. de utilizare
 
 <hr/>
 
-[FastCuRL 1.5B: Slow-Thinking Reasoning Model - Install and Test Locally](https://www.youtube.com/watch?v=CIYQzW0NR1U&ab_channel=FahdMirza)
+[<b>FastCuRL(1.5B)</b>: Slow-Thinking Reasoning Model - Install and Test Locally](https://www.youtube.com/watch?v=CIYQzW0NR1U&ab_channel=FahdMirza)
 <br/>🔥Acest videoclip instalează local **FastCuRL-1.5B-Preview**, care este un *model de raționament lent* care îl depășește pe ***DeepScaleR-1.5B*** cu **50%** *pași de antrenament*(reglare-fina/Fine-Tuning=FT).
 <br/>In acest videoclip,  **Fahd-MIRZA** prezintă modelul **FastCurl**, un [model de limbaj(LLM)](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbTYwM3RBTDRmV1drZTcwekFRME5QOXc1MXVNUXxBQ3Jtc0tsZUFKT0Y5anVXaHpGRlBmamRETW81T1FuMzNnWVVMY2JoUS0tVjdUcVFiLXdHYzd5YzBBZVhUX19IbGFBSkNNQ3ZGc0lBMVVXMFR1ajk0bHN3WGI3eEE2S0hYdHpvOUZCWXFJcUpWa1JvYWJ5aGlzZw&q=https%3A%2F%2Fhuggingface.co%2FNickyang%2FFastCuRL-1.5B-Preview&v=CIYQzW0NR1U) cu 1,5 miliarde de parametri, reglat-fin(**FT**) cu o abordare nouă cunoscută sub numele de *învățare rapidă de consolidare* a *curriculumului*.
 <br/>Această metodă îmbunătățește abilitățile de raționament ale modelului prin implementarea unui proces de instruire structurat care începe cu sarcini mai ușoare și crește treptat în complexitate. 
@@ -919,11 +924,15 @@ Sa analizam pe rand fiecare subiectin parte ...
 
 <hr/>
 
-[ColNomic Embed Multimodal 3B: Visual Document Retrieval - Install Locally](https://www.youtube.com/watch?v=URwFXlQXzsg&ab_channel=FahdMirza)
+[<b>ColNomic-Embed-Multimodal(3B)</b>: Visual Document Retrieval - Install Locally](https://www.youtube.com/watch?v=URwFXlQXzsg&ab_channel=FahdMirza)
 <br/>[**Colnomic-embed-multimodal-3B**](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa0NZcFRaOGM4YWFkaUktOExkbE05NlZxY0FwZ3xBQ3Jtc0ttTXk3SW9iRzBrRFBPQk9WVGZWVkEwSVJFV3Rjdk5qQlZIMXpPTFNHUTByLVNsc041QVlVYXRsZFNaVnhhM2dKX0xVdW9qRnozbENsaG5UNXc0SXByS0trRTAzSFdoQzNzbGJXdkRnVF96aURHQUMyZw&q=https%3A%2F%2Fhuggingface.co%2Fnomic-ai%2Fcolnomic-embed-multimodal-3b&v=URwFXlQXzsg) de la ***Nomic*** este un *model de încorporare multimodal* de ultimă generație cu mai multi *vectori*, care excelează la sarcinile(tasks) de *recuperare vizuală* din/[a] documente[lor]. 🔥
 <br/>În acest videoclip, ***Fahd Mirza*** prezintă modelul **Nomic Embed Multimodal**, un instrument open-source pentru încorporarea *diferitelor* tipuri de date, cum ar fi *text*, *imagini*, *PDF-uri* și *diagrame*. 
 <br/>Videoclipul acoperă procesul de *instalare* pe o mașină *locală* și arată cum să *utilizați* modelul pentru *recuperarea* eficientă a documentelor vizual-textuale. 
 <br/>Cu aproximativ *3 miliarde(3B) de parametrii*, modelul demonstrează valori impresionante de performanță, evidențiind capacitatea sa de a *codifica* și *compara*(a pune fata in fata) *interogări-textuale* cu *documente-vizuale*.
+
+<hr/>
+
+</details>
 
 <hr/>
 
