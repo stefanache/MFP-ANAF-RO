@@ -930,38 +930,43 @@ Acest videoclip arată cum să instalați local [AgenticSeek](https://www.youtub
 
 <hr/>
 
-[PyMuPDF and PyMuPDF4LLM - Prepare PDF for LLM and RAG - Install Locally](https://www.youtube.com/watch?v=xR7er853eek&ab_channel=FahdMirza)
+<details>
+	<summary>grupul de proiecte: PyMuPDF/PyMuPDF4LLM, Swarm of AI Agents, Gemma3(27B), Orpheus-TTS, Gemma3(12B), Nomic-Embed-Code, Qwen-Agent, Run LLM remotely on HF, Qwen2.5, Create DS using Ollama, IBM-Docling ...  </summary>
+
+<hr/>
+	
+[<b>PyMuPDF</b> and <b>PyMuPDF4LLM</b> - Prepare PDF for LLM and RAG - Install Locally](https://www.youtube.com/watch?v=xR7er853eek&ab_channel=FahdMirza)
 <br/>[Ce este PyMuPDF și PyMuPDF4LLM?](https://github.com/pymupdf/PyMuPDF)
 <br/>Acest videoclip arată cum să instalați local, [PyMuPDF4LLM](https://github.com/pymupdf/PyMuPDF), pentru a facilita extragerea conținutului PDF în formatul de care aveți nevoie pentru LLM și RAG. 🔥
 
 <hr/>
 
-[Create a Swarm of AI Agents Easily with LLMs](https://www.youtube.com/watch?v=qyFFcfAmOSY&ab_channel=FahdMirza)
+[Create a <b>Swarm of AI Agents</b> Easily with LLMs](https://www.youtube.com/watch?v=qyFFcfAmOSY&ab_channel=FahdMirza)
 <br/>Acest [videoclip](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbmV4eHRHYTBUb3NuS0haTmM5ODNiaFNhWUV1QXxBQ3Jtc0tsQUgtTktJaXVHdnZya0EzQ0Q0VWdYWk9FMU8zY2NXb1QwX25rN2R2RVhkQlc2UzNZOGlTTWxfTk9GTW1ULVdON0tBdl9waTJaY21WY1NURG5PV3NqMDAzRlhOMGZQMGttTnloakotQzhza0g3RmgzNA&q=https%3A%2F%2Fcolab.research.google.com%2Fgithub%2Fdeepset-ai%2Fhaystack-cookbook%2Fblob%2Fmain%2Fnotebooks%2Fswarm.ipynb&v=qyFFcfAmOSY) arată cum să creați cu ușurință un roi/swarm de agenți AI cu Haystack, OpenAI și Anthropic în colaborarea Google. 🔥
 
 <hr/>
 
-[Google Gemma-3 27B - Top Class Multimodal Model - Install Locally](https://www.youtube.com/watch?v=noN0txjM51Q&ab_channel=FahdMirza)
+[Google <b>Gemma-3(27B)</b> - Top Class Multimodal Model - Install Locally](https://www.youtube.com/watch?v=noN0txjM51Q&ab_channel=FahdMirza)
 <br/>Acest videoclip instalează local modelul [Gemma 3](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbk9SZVFHQ0lDZVNyekdVQkxMeml5LXZKV3BzQXxBQ3Jtc0tuVlpaU01PS0xmcUFCUUlBRjhyX0pnXzhBcTJvRGdDdlJ6LXI5ZWU5a1NScHRMTlpxSFBfZkR3ZEVqOE9VRHJMTXRwWXMyZFN6S1BFZ1pHbHZWMmc3LTN5YnQyb0xDdE9WcUhsNG1xLUNfMWhyMTdSSQ&q=https%3A%2F%2Fhuggingface.co%2Fgoogle%2Fgemma-3-27b-it&v=noN0txjM51Q), care este multimodal, gestionând introducerea textului și a imaginii și generând text în 144 de limbi. 
 
 <hr/>
 
-[Clone Your Own Voice Locally with Orpheus TTS - Step-by-Step Easy Guide](https://www.youtube.com/watch?v=c6r0g9NTXIQ&ab_channel=FahdMirza)
+[Clone Your Own Voice Locally with <b>Orpheus TTS</b> - Step-by-Step Easy Guide](https://www.youtube.com/watch?v=c6r0g9NTXIQ&ab_channel=FahdMirza)
 <br/>Acest videoclip prezintă un tutorial practic pas cu pas pentru a-ți clona vocea dintr-un eșantion audio existent utilizând modelul [Orpheus TTS](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbUZCY0g2cmxIQnhUdk1ra1dZMkFEeTdzcmxvd3xBQ3Jtc0ttMUZoa2xsWUc1cHVDM21WMWNsTjVudGkzcnZRVkxNRnhmLVQxNzhCelVzV2NQeU12SXppUHFqQVcweDJnOE84amU2RVUtalhGVXBxY1hTbUE0RjItVXJWUW0wQTQzN0NCa3N1OU84Rng2dDVLQ1R1Yw&q=https%3A%2F%2Fhuggingface.co%2Fcanopylabs%2Forpheus-3b-0.1-pretrained&v=c6r0g9NTXIQ). 🔥
 
 <hr/>
 
-[Run Gemma 3 12B Vision Model on CPU Locally - Easiest Tutorial](https://www.youtube.com/watch?v=ZGtAoFteslM&ab_channel=FahdMirza)
+[Run <b>Gemma 3(12B)</b> Vision Model(VLM) on CPU Locally - Easiest Tutorial](https://www.youtube.com/watch?v=ZGtAoFteslM&ab_channel=FahdMirza)
 <br/>Acest videoclip este un tutorial simplu pas cu pas pentru a instala și rula modelul [Gemma-3 12B](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbjhuZkZ6U3lQczNsVEw4eHlGZmR0V1lJMDFQUXxBQ3Jtc0tuUkxycXBVTWs2N2Z4aXh0UHpzU1NsZC0zUnBZMm00dEhxVXhQa2U2YUhPbXc2UDg4Q0ttYUVHZG5hNmFBaVo0TkZNZmJGbnAxcGRGY2dUdXlYN2U5UkJjQWx4OF9jQmE0dW9icXNUMHRiblhlcEk3RQ&q=https%3A%2F%2Fhuggingface.co%2Fggml-org&v=ZGtAoFteslM) cu **llama.cpp** în format **gguf**. 🔥 
 
 <hr/>
 
-[Nomic Embed Code - A State-of-the-Art Code Retriever - Install Locally](https://www.youtube.com/watch?v=oRHH4Z1M9Bc&ab_channel=FahdMirza)
+[<b>Nomic Embed Code</b> - A State-of-the-Art Code Retriever - Install Locally](https://www.youtube.com/watch?v=oRHH4Z1M9Bc&ab_channel=FahdMirza)
 <br/>Acest videoclip instalează local [nomic-embed-code](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbFkzSk8zVFRCWEE0ZV9kc05hOTdFU3pYR2FqZ3xBQ3Jtc0tsSWJqVmlqTVBUeHVJem9XWnBDWkFxMjBxWGJ0ZUk4RVJISjF5T1ZfaDVpZGswa19XOXVCR1Y4Q3dxVTFWQkFpc3VuV3N4YkltLWJZUzNnaTRpTmNpY0tVNXNhWjVMbjhRUzMxYnJIT0V6RFBzdXZnUQ&q=https%3A%2F%2Fhuggingface.co%2Fnomic-ai%2Fnomic-embed-code&v=oRHH4Z1M9Bc) este un model de încorporare de cod de ultimă generație, care excelează la sarcinile de recuperare a codului. 🔥
 
 <hr/>
 
-[Qwen-Agent with Ollama: Plan, Tool-Use, Memory of Qwen - Install Locally](https://www.youtube.com/watch?v=EbxLmxjL8v4&t=245s&ab_channel=FahdMirza)
+[<b>Qwen-Agent</b> with Ollama: Plan, Tool-Use, Memory of Qwen - Install Locally](https://www.youtube.com/watch?v=EbxLmxjL8v4&t=245s&ab_channel=FahdMirza)
 <br/>Acest videoclip arată cum să instalați local [Qwen-Agent](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbUc2ZmhISUVoN1dfdzh0c1Q4S1R5Zm1QWnNud3xBQ3Jtc0tsazBTbTJBZWZZaDQxQ2ROajJwUFlnRmVWS1NXRzIzdUVTM3czMzJtV3ppam5mYXN2ejJWVTFRNmtUaVctdmRsdGJTaUhrUExqbGhUN29RZHR4TXI2ODlzdWhmS3ZDUHh3ajBOUWVkdzE4VkZXV3d4Yw&q=https%3A%2F%2Fgithub.com%2FQwenLM%2FQwen-Agent&v=EbxLmxjL8v4), care este un cadru pentru dezvoltarea aplicațiilor LLM bazate pe instrucțiunile care urmează, utilizarea instrumentelor, planificarea și capacitățile de memorie ale Qwen. 🔥
 
 <hr/>
@@ -971,17 +976,17 @@ Acest videoclip arată cum să instalați local [AgenticSeek](https://www.youtub
 
 <hr/>
 
-[Qwen2.5 - Party of LLMs - Install and Test Locally](https://www.youtube.com/watch?v=x97BWsrmjpU&ab_channel=FahdMirza)
+[<b>Qwen2.5</b> - Party of LLMs - Install and Test Locally](https://www.youtube.com/watch?v=x97BWsrmjpU&ab_channel=FahdMirza)
 <br/>Acest videoclip arată cum să instalați local modelul [Qwen2.5](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbDliR1dKVmY4OGxWekVSMWtPS3JfVzNNM0l2Z3xBQ3Jtc0tsYXk3VVBid2xSb3VuX3ZBdmlBQ2dsQktFdDJwZmtaTW9PelBuTk41LXJlUks5MGZGQ1cxOXd6UnRSaGZ5a2ZkNEtsR2EtQnI0OVIydFl4a25YOE9zZEJRUG5mOHp3RU9GNGVrR0UxSzZ6Yll0bjkwZw&q=https%3A%2F%2Fqwenlm.github.io%2Fblog%2Fqwen2.5%2F&v=x97BWsrmjpU), care este cea mai recentă serie de modele Qwen în limbaj mare(LLM). 🔥
 
 <hr/>
 
-[How to Create Your Own Dataset from Scratch with Ollama Locally](https://www.youtube.com/watch?v=Lie8uMoAVec&ab_channel=FahdMirza)
+[How to Create Your Own <b>Dataset</b> from Scratch with <b>Ollama</b> Locally](https://www.youtube.com/watch?v=Lie8uMoAVec&ab_channel=FahdMirza)
 <br/>Acest videoclip este un [tutorial](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbEtCVDcxLWE3S21xQmNJUkFqdDk0Sko2Z1hSd3xBQ3Jtc0ttOEdrUFFIRHhsYmtNU0tCeDYtWWJBX3VOVnVsRTZyOXVsSXE3bUlVRnZUOGJxV0pYYjU1NlJfOUpvQXdWVi1SX1hUSW5sRGxJS2FJdHJnNjJXVURFSV9BLTZKMElZakZ2b3RhbXBFb1E3czQ2Mm4xaw&q=https%3A%2F%2Fwww.fahdmirza.com%2F2024%2F08%2Ffree-llm-dataset-creation-with-ollama.html&v=Lie8uMoAVec) pas cu pas pentru a crea propriul set de date personalizat din schema bazei de date la nivel local cu modelul gratuit de la Ollama. 🔥
 
 <hr/>
 
-[Docling - IBM Library to Make Documents AI Ready - Install and Test Locally](https://www.youtube.com/watch?v=9gDJ6PhvVck&ab_channel=FahdMirza)
+[<b>Docling</b> - IBM Library to Make Documents AI Ready - Install and Test Locally](https://www.youtube.com/watch?v=9gDJ6PhvVck&ab_channel=FahdMirza)
 <br/>Acest videoclip arată cum să instalați IBM [Docling](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbVkyaVJrWlM3OGtoNENXVUhWLXVxcnVOajQzUXxBQ3Jtc0tsT18yRmZIZmc5bmRmb1o4V0hwUzRoREFodXJkcl85eGtFV29RNFkzSGpYRkFTM0Z6Uk5Cb1RsUUViQk5OMWNoa2xwNEFacV9aNG5XMDd6VmJSdUdSOW9HLVBPbVZIUTlWc2tSMk5XaUJsbmtMSEpSQQ&q=https%3A%2F%2Fgithub.com%2FDS4SD%2Fdocling&v=9gDJ6PhvVck) local, care citește formate de documente populare (PDF, DOCX, PPTX, Imagini, HTML, AsciiDoc, Markdown) și exportă în Markdown și JSON. 🚀 
 
 <hr/>
