@@ -615,154 +615,6 @@ Daca doriti, sa aflati,  care/ce [**marime de LLM**](https://www.youtube.com/wat
 
 </details>
 
-<details>
-      <summary>La final, voi enumera cateva dintre <b>proiectele interesante</b>, prezentate pe YouTube(<b>YT</b>), de catre domnul <b>Fahd-Mirza</b> si numai...</summary>
-
-<hr/>
-      
-Aici voi insira o selectie de proiecte [interesante](https://huggingface.co/fahdmirzac)(scurt-comentate, traduse cf. ***YT***: [**Fahd-Mirza**](https://www.youtube.com/@fahdmirza)) si nu numai...:
-
- - [Ollama Setup: Step-by-Step Guide to Your Perfect Web Interface](https://www.youtube.com/watch?v=XLltSNTm8kc&ab_channel=PyBron)
-   <br/>În acest videoclip, se prezintă [configurarea](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbF9KYW9HbjF3U0RzTnFWeFRPbEFRaE5LcnZ0UXxBQ3Jtc0ttckQybV9YYVByQm5jaEpvaTdPVktUX1d5SV9aMzFLdHhrdjdpQjI0NmtRMDFnV0lUUnpKM0N4bEVxbkdBMTlrakVTR2xEdW1lS1BBbC1ja2NRT1FIcFJvQmF2NVB5WGJuLTRxd2pSSEx0WEJWOUNiVQ&q=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1W2dWlY8SwXlm-d95L3doGKqMEfFngr4k%2Fview%3Fusp%3Dsharing&v=MVDSN6oR1oY) [**Ollama 3.1**](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbVFod0c0Y0g3WHJsNWxPTkwxem9UN1d2M0Jad3xBQ3Jtc0ttM3pHZnRkbkpDVG1sQVo1eHFZM3lrN3pWZU5mZWdSY1IwRi1PQTFMa243dngyOEJpQlJ6RkpaMmUzMEpHSVhZTmJYVmt5aHZTY0RtNGN2bTAyNThGamhvUUhmc1ZEajVZZ2tTenh6WWtiLWhCdTE3UQ&q=https%3A%2F%2Fhub.docker.com%2Fr%2Follama%2Follama&v=MVDSN6oR1oY) și [**Open-WebUI**](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbDBpclVMc0tHQUdEVEpWWXIwNk10OUZvMktCQXxBQ3Jtc0tsQ3dmYl85b1JiYlNPdjlzd0NQeWt1VzZ4VkVLeW5lRmh5dW4yNXdHMDBXZXJZU1pLVUdNNkdKU2JGWkZTc2dSUF83ZVMwZEY4U1BpUVdGcTNuUHFuRGsxdXRNR1Ezakx6d2U2RmwzS3dJOEswVWl1QQ&q=https%3A%2F%2Fdocs.openwebui.com%2F&v=MVDSN6oR1oY) folosind [***Docker***](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbnZsbzlnOHNXVVliMHR5bzZXVWk4X3pMSG8wUXxBQ3Jtc0tsUzlYdjItTDdlWHlfaUo2WVJxaGxmN3I5QUNJQXBfVjBWdGloSkJJUmdPalRWZnFTWlMwNmo5OVdVejdqbk9PTXVfZWk4bzYySHJaU193MWtYX04wdHJsRU5fa19vcXNGLTd5MFMzbXZoWFRIZDlkaw&q=https%3A%2F%2Fwww.docker.com%2Fget-started%2F&v=MVDSN6oR1oY)(a se urmari si subiectul [***Docker-fara GUI***](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbVo5QzB3XzRkN1FuZUtBRFVlZUJ6SkdsdmJCZ3xBQ3Jtc0tuYmdzRURwZGUwbU9MZ09hYTRDbGxxb1pxM0tVWHdwcmVxQUwxNzY0b3BKaEI1Mk5MTG5uRzJQZkg3TnNvVGdoTk50U25JdXRyZnVjNlZmUHQtc1l4V2lPSzhEc3N6ZGFuMWFzQmNQUzJrRk9ZbUlmVQ&q=https%3A%2F%2Fdocs.docker.com%2Fengine%2Finstall%2Fubuntu%2F&v=MVDSN6oR1oY)) și vă voi arăta cum să integrați mai multe **modele-AI** pentru o [implementare eficientă](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbVQtdXJ0b3JFWm9YRUJjczZlV2xySFBiUW5vd3xBQ3Jtc0ttSnRELUw1OERjS0dDdWUzMkZ2VGFVeEtrX2pMRzZaUnFKSmhWdnJsbU41bFNTdVNMbjhfUUhJczFrV3o2VkVnZ1MxOVF2aUY3X1hvNmlKS3RsWV83Y3FhRWdmcDZWcG9SSWhsT0NyV1psSXYwb3liTQ&q=https%3A%2F%2Follama.com%2Flibrary%2Fllama3.1&v=MVDSN6oR1oY).
-   <br/> Indiferent dacă sunteți un dezvoltator, un om de știință de date sau un pasionat de inteligență artificială(**AI**), sau pur și simplu doriți să economisiți bani găzduind **LLM**-uri acasă(<ins>local</ins>), acest ghid vă va ajuta să gestionați și să rulați cu ușurință diverse modele în <i>containerele</i>-***Docker***.
- - [Install **reAG** *Locally* with **Ollama** - *Reasoning Augmented Generation*](https://www.youtube.com/watch?v=SA-VVOKgyRA&t=312s&ab_channel=FahdMirza)
-   <br/>Acest videoclip instalează <ins>local</ins> [**ReAG**](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbHlaS1FnaU53M2EzWDlPajlmbV91blJaajl3Z3xBQ3Jtc0tueXFlSk4wMy1mazN4QWhydmVOTmQ5WjNLSnJzTjNYRkxnOXdRUU5uM0hUWWY0ZmVzMlkzcDdXbUtLX3F0aDdZME05R1dNb2ZOUUx1MVJaX0NUdmJta0gyaVdTZlJWclA3VGJValEybFg0OU1SbUU4NA&q=https%3A%2F%2Fgithub.com%2Fsuperagent-ai%2Freag&v=SA-VVOKgyRA) cu **Ollama**, care oferă o alternativă robustă prin alimentarea documentelor brute direct în modelul de limbă(***LLM***).
-   <br/>***LLM***-ul utilizat: **DeepSeek-R1:14b**
- - [**Zyphra** Just Dropped **Zonos** - Instant ***TTS*** and ***Voice Cloning*** - Install *Locally*](https://www.youtube.com/watch?v=ymrAhkg2TTA&ab_channel=FahdMirza)
-   <br/>Acest videoclip instalează <ins>local</ins> [**Zonos-v0.1**](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa2FSLUpsWGczc3NBcUllWE1qdUJzUHJQRDU5UXxBQ3Jtc0tsaV94WHJJSW1yUGtyaC1iaU1pNWZrbXF3bmU3bjZwYmJGcVRyN0tMLTFEN3JGbGZHOWtpUkdvaHBPN2VIbWJGcnVVbTJTd0tBb296UW82Unh1YUk1aVpGMWdJYWdYekUtUmdIZnVXVGFWbW9zanhHWQ&q=https%3A%2F%2Fhuggingface.co%2FZyphra%2FZonos-v0.1-hybrid&v=ymrAhkg2TTA)(dockerizat), care permite generarea de vorbire(***Text-To-Speach(TTS)***) extrem de naturală din solicitările text.
-   <br/>Este Apache 2 și multi-lingv(in mai multe limbi literare). 
- - [**Phi4-Noesis** - Deep and Fast *Reasoning Model* - Install *Locally*](https://www.youtube.com/watch?v=-yNviNIyBBs&ab_channel=FahdMirza)
-   <br/>Acest videoclip instalează <ins>local</ins> [**Phi4-Noesis:14b-q8_0**](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbmNQOGpSN0Rwb1ZkTkJYbWFZVjdPSGo2SGFfUXxBQ3Jtc0ttNkNRdGluQTFWYWJ1cWx6ajlhb1l4TFR1N254cWNta1JWWUV2SGU5X25OcUp5TEktSkdXN0ZZSUNIZWd2TkN1cjdYYzFzbHg1QTUyZFNJOGVta0NIN3RoNWZqakFPaWZQRk9MdzVBNmc4WDRjcmRiSQ&q=https%3A%2F%2Fhuggingface.co%2Fdimsavva%2Fphi4-noesis&v=-yNviNIyBBs), care este o reglare-fină(***FT***) a **Phi-4** cu un raționament rapid(*fast*) și profund(*deep*).
- - [**DeepScaleR 1.5B** - *Fine-Tuned(FT)* from *Distilled DeepSeek* with *Long Context* - Install *Locally*](https://www.youtube.com/watch?v=Im3TOjz4UcM&ab_channel=FahdMirza)
-   <br/>Acest videoclip este un tutorial pas cu pas pentru a vă arăta cum să instalați și să rulați [**DeepScaleR-1.5B-Preview**](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbldIUndsUEJ2QnRvYmhIS2Fabm55SXVwckw0UXxBQ3Jtc0tuM3EyeEVQRjlQVGlGYlJzaGktamZKaDByQjZUMGNBeUxRaVNrREQ0aUkzNkFVa2t1Y3ZSS21fNWt5elQwLXNYQjJ1SlRJWWdwNVBfZkJYbngwM1U1QUIwck5SZkt1QlpmdGFuUjBwLVR4V3NpNmlSOA&q=https%3A%2F%2Fhuggingface.co%2Fagentica-org%2FDeepScaleR-1.5B-Preview&v=Im3TOjz4UcM) <ins>local</ins> și să îl testați.
- - [**NanoSage** - ***Deep-Research*** *Assistant* - Install *Locally* with ***Ollama*** and *Run on CPU*](https://www.youtube.com/watch?v=9hhuEbLcT-c&ab_channel=FahdMirza)
-
-<details>   
-<summary>   detalii videoclip...<b>NanoSage</b> - bazat pe server-ul de <b>LLM</b>-uri <i>Ollama</i>...</summary>
-
-<hr/>
-
-   
-   <br/>Acest videoclip instalează <ins>local</ins> [**NanoSage**](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbnBuNTEzMWZLeVVKb0V0UnJkbkRnMlJXXzZJUXxBQ3Jtc0ttSUlpWFVlR3FSZmVxXzlvUTA0TjN1LUI0amZjaW5ULTBUanIwVDlacDJ2M3hoaGpsaHE1MnFIdF9qMDFqT2l5eERhc211YXhzajlXQmFZdmdfT2pqT056c09GUy1Td3VGQm8xUkptZE1qbG5UTmFjUQ&q=https%3A%2F%2Fgithub.com%2FmasterFoad%2FNanoSage&v=9hhuEbLcT-c), care este un asistent propus de ***Deep-Research*** si care rulează pe <ins>laptop(*Run on CPU*</ins>, folosind modele minuscule(modele foarte mici: ***nano-modele***).
-    <br/>Prin ce diferă **NanoSage** de alți cercetători asistenți?
-<br/>Oferă o defalcare/despica/impartire *structurată*(gen/un fel de *tabel-de-BD*) a unui canal de *căutare*-*recursiv*, bazat pe *relevanță/importanta*, cu mai multe surse(*multi-sursa*).
-<br/>Acesta prezintă modul în care sistemul rafinează/despica o interogare(*query*) a utilizatorului, construiește o *bază-de-cunoștințe* din date-*locale* și date-*web* și explorează dinamic sub-interogările(*sub-queries*), urmărind progresul printr-un Cuprins(***TOC***).<br/>
-<br/>Cu explorarea bazată pe **Monte-Carlo**, sistemul echilibrează *adâncimea* și *lățimea*, *clasificând* relevanța-fiecărei-ramuri pentru a asigura *precizie* și pentru a evita tangentele care nu au legătură(falsa informare).
-<br/>Rezultatul?
-<br/>Un raport detaliat, bine organizat, generat folosind generarea-de-recuperare-augmentată(**RAG**), care integrează cele mai valoroase informații.<br/>
-<br/>Am vrut să experimentez noi metode de cercetare, așa că m-am gândit că, practic, atunci când cercetăm un subiect, explorăm aleatoriu idei noi în timp ce căutăm, iar **NanoSage** practic face asta!
-<br/>Își explorează și înregistrează călătoria, unde fiecare pas (*relevant*) este un nod... și apoi vi-l rezumă într-un <ins>raport</ins> frumos!
-<br/>Unde tabelul de conținut(***TOC***) este practic graficul/planul său de căutare.
-<hr/>
-
-</details>
-
- - [*kimi.ai* Releases **Kimi** and **K1.5 Loong Thinking**](https://www.youtube.com/watch?v=ch3zn_i0Fak&t=52s&ab_channel=FahdMirza)
-   <br/>Acest videoclip face o trecere în revistă aprofundată a modelelor [**Kimi**](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa21oOFgtc25zNVBpbzRBNzhSZ2lCU0lUS0tld3xBQ3Jtc0tsMVZtSlc1Y2xnUWxiZFlQV2RUYmJnVk5vaEh0UXZpUk9kellrMldIMXlRVkNHVTQ1ektZdEZ5V2Nid3FDSXdGZDNQMURlN044bGQtR01vcEEwYmdibjNiRzZudndxX0c0Q2JNVnVIOGFuVlNvMkxhOA&q=https%3A%2F%2Fkimi.ai%2F&v=ch3zn_i0Fak) și [**K1.5 Loong Thinking**](https://huggingface.co/papers/2501.12599)([Gândire (inden-)lung(-ată)](https://www.youtube.com/watch?v=551oCIW5IH4&ab_channel=ArxivPapers)).
- - [**Ollama Model Manager** - *Filter and Custom Tags* with Models *Locally*](https://www.youtube.com/watch?v=gCA816T7TsA&ab_channel=FahdMirza)
-   <br/>Acest videoclip arată cum să instalați local **Ollama Model Manager** pentru a gestiona modelele ***Ollama*** la nivel <ins>local</ins> cu un script Python [**wrapper/gist**](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbHIzaXdESVdHb1hQN0FHTVZoTS1TU3pFbTZjZ3xBQ3Jtc0tuQnRJeGNwYU1KRV9QRUdWRzdvN1Q5YV8zamVSTUR4SThfOTJhNXdvandPTUNSYlhGRDZDVjZGQWViZzhqQ1YyX2VtbUR5SWExcXdKbzdJaEdIRDBoeEstUDhTbUVUazJxbTltbFVueVljdHJxMG5EZw&q=https%3A%2F%2Fgist.github.com%2FitsPreto%2F038abe634dd10e9850768cd0b13ed169&v=gCA816T7TsA).
-   <br/>În acest videoclip, autorul prezintă un nou instrument open-source numit manager de model-**AMA**, care permite utilizatorilor să gestioneze modele de inteligență artificială(AI) la nivel local, folosind un script(**wrapper/gist**) *Python* simplu.
-   <br/>Videoclipul subliniază ușurința instalării și utilizării pe diferite sisteme de operare, inclusiv ***Linux***, ***Windows*** și ***macOS***.
-   <br/>Printr-o serie de demonstrații, creatorul arată cum să adauge etichete voastre/personalizate(*Custom Tags*) modelelor, să recupereze informații detaliate despre model(*Filter by Ollama-Tags or Custom-Tags*) și să gestioneze eficient înglobările.
-   <br/>Utilizatorii sunt încurajați să exploreze acest instrument inovator și să utilizeze resursele însoțitoare([**wrapper/gist**](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbHIzaXdESVdHb1hQN0FHTVZoTS1TU3pFbTZjZ3xBQ3Jtc0tuQnRJeGNwYU1KRV9QRUdWRzdvN1Q5YV8zamVSTUR4SThfOTJhNXdvandPTUNSYlhGRDZDVjZGQWViZzhqQ1YyX2VtbUR5SWExcXdKbzdJaEdIRDBoeEstUDhTbUVUazJxbTltbFVueVljdHJxMG5EZw&q=https%3A%2F%2Fgist.github.com%2FitsPreto%2F038abe634dd10e9850768cd0b13ed169&v=gCA816T7TsA)) furnizate în descrierea videoclipului.
- - [Best AI Model to Generate Artwork from Text - **PixelWave** Flux.1-Dev 03 - Install <ins>Locally</ins>](https://www.youtube.com/watch?v=zZKwyns3yL8&ab_channel=FahdMirza)
-   <br/>Acest videoclip arată cum să instalați <ins>local</ins> [**PixelWave Flux.1-Dev 03**](https://civitai.com/models/141592?modelVersionId=992642), care este un model ***FLUX*** de uz general reglat-fin(**FT**), excelent pentru stiluri **artistice** și **foto**.
- - [Install **Flux.1-Dev Upscaler** ***ControlNet*** <ins>Locally</ins> - Upscale Images with Flux](https://www.youtube.com/watch?v=3TBAy9Zg5II&ab_channel=FahdMirza)
-   <br/>Acest videoclip arată cum să instalați modelul [**Flux Dev Upscaler**](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbnB3WkstV2NTVXhCckNiZml6R2IxWVFxS0FOZ3xBQ3Jtc0trdElQZnpvRFdxdWctZ081QVp1WGJUYjNkMVg4QmE1LTJHamdybVlVVFpDb0RXektDcDVJVTFEb0ZUc1lTR20zcWNkUy1MczA0WUgtc0lSQ001cWJqSjBpVkFORHk5RXFNMUFYTzdFRjJNcFVPQl9yTQ&q=https%3A%2F%2Fhuggingface.co%2Fjasperai%2FFlux.1-dev-Controlnet-Upscaler&v=3TBAy9Zg5II) la nivel <ins>local</ins> și imagini de lux(la scara crescuta).
-   <br/>Acesta este ***Flux.1-dev ControlNet*** pentru imagini cu rezoluție joasă.
- - [Install **Perplexica** with **SearXNG** and **Ollama** and **Llama 3.1** for <ins>Local</ins> **AI** *Search-Engine* for *Free*](https://www.fahdmirza.com/2024/07/install-perplexica-with-searxng-and.html)
-   <br/>Acest videoclip arată cum să instalați <ins>local</ins> [**Perplexica**](https://www.youtube.com/watch?v=LjTIy0FEkAQ&ab_channel=FahdMirza) cu modelul [**SearXNG**](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbmluQkNzYV80NThsaHhveldkdU1PS0ZEQlhid3xBQ3Jtc0tuV0JvelVJOERkNGZrYVlGNm1JTDR1VTJLQkMtZzhSZmpIYktzc0ctSU1rRm1Ma0pIbDE1RmI0NEtoNWtmWFZWb1cydmtnRHdOZkNqc3JFMjZ5ZHQ5TEVRVUZXNm1jRldobzNOb0pYU3JYV213QUowMA&q=https%3A%2F%2Fwww.fahdmirza.com%2F2024%2F07%2Finstall-perplexica-with-searxng-and.html&v=LjTIy0FEkAQ) și **Ollama** ***Llama 3.1*** și să faceți căutare bazată pe inteligență artificială(**AI**).
- - [Install **LibreChat** with **Ollama** <ins>Locally</ins> to Chat with Any Model](https://www.youtube.com/watch?v=d9ZV3-YkX-8&ab_channel=FahdMirza)
- <br/>Acest videoclip arată cum să instalați <ins>local</ins> **LibreChat** și să îl integrați cu ***Ollama***.
- <br/>Puteți folosi **Llama 3** , **Mistral** sau <i>orice model</i> pentru a [discuta privat și local](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbXduLXdybkROMkFuc3JUdVRyUTBOdGlmblQ2QXxBQ3Jtc0treVBLZ04xZkxvOTExTjZiX1REV2I4blJtV3owTnNOS2hlY0JndF9pZm1UMGlpYzVsWlRVOXlYWFBWNlFyRlhmVHpXd0wyWmdZdzg4U0NDTzlfSmJHckVwQUpJWkVSemhYWTF5elJIblVxMDlYMk03aw&q=https%3A%2F%2Fwww.fahdmirza.com%2F2024%2F05%2Finstall-librechat-locally-with-ollama.html&v=d9ZV3-YkX-8) cu **GUI web**.
- - [Install **HuggingFace Models** Directly in **Open WebUI** with **Ollama** <ins>Locally</ins>](https://www.youtube.com/watch?v=yLAIWsb5-ls&ab_channel=FahdMirza)
- <br/>Acest videoclip oferă o demonstrație pas cu pas despre cum să rulați oricare dintre ***modelele 45K+ GGUF*** pe **Hugging Face Hub** direct cu **Ollama**(<ins>local</ins>) în [**Open WebUI**](https://openwebui.com/).
- - [Run Full **DeepSeek-R1** <ins>Locally</ins> in *FP8* on ***NVIDIA*** or ***AMD**](https://www.youtube.com/watch?v=0057csl3kaY&ab_channel=FahdMirza)
- <br/>Acest videoclip este un tutorial pas cu pas pentru a vă arăta cum să instalați și să rulați **DeepSeek-R1**(ca ***LLM***) cu **HF** **TGI** în ***FP8*** ca server.
- - [**Kotaemon** - Easy <ins>Local</ins> **RAG** ***UI*** - **GraphRAG** cu ***Ollama*** - Tutorial](https://www.youtube.com/watch?v=PDtGJ-OwvAM&ab_channel=FahdMirza)
-<br/>Acest videoclip arată cum să instalați local[ kotaemon](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbmFLSU5RWjJhSEx3X0VYWTVuaDgxWXpsejlRQXxBQ3Jtc0tuMEtMdmV0M1pTdkNxZWtGcGd2OGV4SUV4WEV2VllXLVhVVE1EU2xMOXpOV1lHeUdIMWhfNWx0a2ZQTzh3R1VsMUxSWWZWazlhRUpNSnZweWZUN2g4anNuU3BvbFRjTTRwZ3NCV3dnQW5xaFpCRGd4bw&q=https%3A%2F%2Fgithub.com%2FCinnamon%2Fkotaemon&v=PDtGJ-OwvAM), care este o interfață de utilizare *RAG*, cu sursă deschisă curată și personalizabilă, pentru conversația(chat/ a discuta) cu documentele dvs.
- - [**Qwen**-***Agent*** with **Ollama**: Plan, Tool-Use, Memory of **Qwen** - Install <ins>Locally</ins>](https://www.youtube.com/watch?v=EbxLmxjL8v4&ab_channel=FahdMirza)
-   <br/>Acest videoclip arată cum să instalați <ins>local</ins> [**Qwen**-***Agent***](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa2hCWWRpZkxrbk9yMWpmeUVfY2JhTHBPUUZid3xBQ3Jtc0trQ1V5NlVLeFI0OTlJWnlkcnpha3Z5UkdnN25CN1EtOXc3Q0c1dnk1RmpaUmt3WFZvbEVCajJJbU9HUDViMzJxNDkwZWJQZ3FJeXU3RXh0Z3NTSnJmdVE1bEM1cUtqYXFHOG40NHoyVy13TEZKWGNlTQ&q=https%3A%2F%2Fgithub.com%2FQwenLM%2FQwen-Agent&v=EbxLmxjL8v4), care este un cadru pentru dezvoltarea aplicațiilor-**LLM** bazate pe instrucțiunile care urmează, utilizarea instrumentelor, planificarea și capacitățile de memorare ale **Qwen**.
- - [Voice-Chat with **LLM**s <ins>Locally</ins> with **Open WebUI**](https://www.youtube.com/watch?v=z9RaSZIXBBc&ab_channel=FahdMirza)
-   <br/>Acest videoclip este un tutorial pas cu pas pentru a instala **Open WebUI**(la nivel <ins>local</ins>) și arată noi funcții precum <i>chatul-vocal</i> cu modele-AI(**LLM**-uri) la nivel <ins>local</ins> cu **Ollama**(server de **LLM**-uri).
- - [How-To Run **Llama 3** <ins>LOCALLY</ins> with ***RAG***!!! (***GPT4ALL*** <i>Tutorial</i>)](https://www.youtube.com/live/ZrqCm5jE_nQ)
-
-<details>   
-<summary>   detalii videoclip...<b>Llama-3</b> - oferit de <i>managerul de LLM</i>-uri <b>GPT4All</b>...</summary>
-
-<hr/>
-
-   
-  <br/>În acest *tutorial* [**Llama 3**](https://ai.meta.com/blog/meta-llama-3/), veți învăța cum să rulați **Llama 3** la nivel <ins>local</ins>.
-  <br/>Spre deosebire de majoritatea altor *tutoriale* <ins>locale</ins>, acest *tutorial* acoperă și construirea unui **RAG** <ins>local</ins> utilizand/cu ***LLM***-ul, instalat local, **Llama 3**.
-  <br/>Vom folosi un instrument(manager de ***LLM***-uri...cum este si ***Ollama***-server) numit **GPT4All** pentru același lucru.
-  <br/>**GPT4ALL** este *gratuit*, *open-source* și, prin urmare, începeți cu ***LLM***-ul **Llama 3** <ins>Local</ins>.
-  <br/>Acest *tutorial* are, de asemenea, o abordare complet *fără-cod* pentru a rula **Llama 3** *fără-prompt-de-comandă* si *fara-terminal*.
-  <br/>Pe scurt, este un *tutorial de instalare* **Llama 3** cu un singur clic!
-  <br/><ins>Capitole</ins>:
-
-   - 00:00 Introducere
-   - 00:19 00:19 [Descărcați](https://gpt4all.io/index.html) Aplicatia-Desktop([managerul de LLM-uri](https://www.reddit.com/r/LocalLLM/comments/1bd9qqb/exploring_local_llm_managers_lmstudio_ollama/)...in loc de... ***Ollama***-server) [**GPT4ALL**](https://docs.gpt4all.io/)
-   - 00:52 [Descărcați](https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct) [**Llama 3-Instruct**](https://www.reddit.com/r/LocalLLaMA/comments/1ct5h16/llama_3_vs_llama_3_instruct/) Model(***LLM***) 
-   - 01:42 Conversați/Discutați cu ***LLM***-ul **Llama 3** <ins>local</ins> 
-   - 03:30 Descărcați *modelul de încorporare* pentru asimilarea/inglobarea datelor <ins>locale</ins>
-   - 03:58 Adăugați *folderul documentelor* la *colecție*
-   - 04:48 *Discutați* cu *PDF*-uri folosind 
-     <br/>*Setări avansate* [**GPT4ALL**](https://www.youtube.com/live/ZrqCm5jE_nQ?t=354s): (*parametrii-modelului*, *șablonul de prompt*, *promptul de sistem*)
-     <br/> 🔗*Link*-uri:
-         <br/>Descărcați **GPT4ALL** [🔗aici](https://gpt4all.io/index.html).
-
-<hr/>
-
-</details>
-
- - [Step-by-Step Guide to Create **Free-Dataset** with **Ollama** and **Llama 3.1** <ins>Locally</ins>](https://www.fahdmirza.com/2024/07/step-by-step-guide-to-create-free.html)
-   <br/>Acest [videoclip](https://youtu.be/o4InUVFKPI0) prezintă un ghid ușor pas cu pas pentru a genera un set-de-date(dataset/**ds**) de preferințe aliniate la nivel <ins>local</ins>, utilizând modelul/***LLM***-ul (asadar un **LLM** rulat in mediul privat/<ins>local</ins>) **Llama 3.1 70B**  și/oferit de catre server-ul/managerul de ***LLM***-uri, **Ollama**.
- - [*Self-Hosting* **LLM**s like a *DevOps* - **Ollama**](https://www.youtube.com/watch?v=jl9bfPsBBcM&ab_channel=JAlcocerTech)
-
-<details>   
-<summary>   detalii videoclip...<b>Ollama</b> - <i>dockerizat</i>...</summary>
-
-<hr/>
-
-
-   <br/>În acest videoclip arătă cum să utilizați **LLM**-urile la nivel <ins>local</ins>, așa cum ar face un *DevOps*.
-   <br/>Vom folosi proiectul **Ollama** și îl vom găzdui prin Self-Host cu **Docker**.
-   <br/>Apoi, vom alege un model de limbă mare(**LLM**) gratuit(**Orca mini**) și vom vedea cum să interacționăm cu acesta în diferite moduri:
-
-   - Prin *terminalul* de *containere*-docker
-   - Cu cerere *http*
-   - Cu *Python* cu ajutorul integratorului/framework-ului **LLama-Index**
-
-   <br/>Imaginea(*docker*) **Ollama** este gata să funcționeze atât pe dispozitivele ***x86***, cât și pe cele *ARM64*, astfel încât să putem aplica tot ceea ce învățăm astăzi pe ***laptopuri***, ***servere*** sau *SBC* obișnuite. 🔗 [Gist](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbU1lV0x6YVVWRWtGbWVaaXB1U0xBeWpXaWJQZ3xBQ3Jtc0ttNW4xQjZBbDVxQUd0UUU1Qm94OTJiRlg2LWw2T2VTWFNyYU14VjJIXzlQX1BGLURyb2t1Z0RtcUVpLVdCc29RUEEwd0RvdzdWZVFCS1BZM3dnaG9UQkpiRXprQ0lWSW50OVN5dnRrbl90Mk1SS0w4Yw&q=https%3A%2F%2Fgist.github.com%2FJAlcocerT%2F5c406a4f1d18a57469815fa0ef9d6a07&v=jl9bfPsBBcM) cu tot codul și comenzile utilizate în videoclip.
-
-   <br/>💻 [Web](https://ollama.ai/)-ul oficial al proiectului: [https://ollama.ai/ ](https://ollama.ai/ )
-   <br/>***LLM*** folosit: [https://ollama.ai/library/orca-mini ](https://ollama.ai/library/orca-mini)<br/>
-
-   <br/>[Codul-sursă](https://github.com/jmamorganca) al proiectului: [https://github.com/jmamorganca ](https://github.com/jmamorganca)
-   <br/>[Imaginea-Docker](https://hub.docker.com/r/ollama/ollama ) a  Proiectului: [https://hub.docker.com/r/ollama/ollama](https://hub.docker.com/r/ollama/ollama ) 
-
-   <br/>🌟 Resurse care ar putea fi interesate 🌟
-
-   - [fossengineer-tags: **gen-AI**](https://fossengineer.com/tags/gen-ai/)
-   - [GH-jalcocert: **RPi**](https://jalcocert.github.io/RPi/)
-   - [video](https://www.youtube.com/channel/UCPPMA8ZEusAe5dVH6PbjZFA) / @jalcocertech  
-
-   <br/>Self-Host(autogazduire) **NGINX** pentru a furniza **https** lui ***Ollama***: [https://fossengineer.com/selfhosting](https://fossengineer.com/selfhosting)-...
-
-   - **LLama-Index** (***PyPi***): [https://pypi.org/project/llama-index/](https://pypi.org/project/llama-index/)
-   - **LogSec**: [https://github.com/logseq/logseq](https://github.com/logseq/logseq)
-   - **Home Assistant**(***HA***): [https://github.com/home-assistant](https://github.com/home-assistant)
-
-<hr/>
-
-</details>
-
- - ...
-
-<hr/>
-
-</details>
 
 <details>
 	<summary>subiecte: Articol cu privire la NLP-tasks..., MS-Data-Formulator, AirLLM si Harbor, ...</summary>
@@ -1581,6 +1433,156 @@ Repere
 </details>
 
 ...
+
+
+<details>
+      <summary>La final, voi enumera cateva dintre <b>proiectele interesante</b>, prezentate pe YouTube(<b>YT</b>), de catre domnul <b>Fahd-Mirza</b> si numai...</summary>
+
+<hr/>
+      
+Aici voi insira o selectie de proiecte [interesante](https://huggingface.co/fahdmirzac)(scurt-comentate, traduse cf. ***YT***: [**Fahd-Mirza**](https://www.youtube.com/@fahdmirza)) si nu numai...:
+
+ - [Ollama Setup: Step-by-Step Guide to Your Perfect Web Interface](https://www.youtube.com/watch?v=XLltSNTm8kc&ab_channel=PyBron)
+   <br/>În acest videoclip, se prezintă [configurarea](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbF9KYW9HbjF3U0RzTnFWeFRPbEFRaE5LcnZ0UXxBQ3Jtc0ttckQybV9YYVByQm5jaEpvaTdPVktUX1d5SV9aMzFLdHhrdjdpQjI0NmtRMDFnV0lUUnpKM0N4bEVxbkdBMTlrakVTR2xEdW1lS1BBbC1ja2NRT1FIcFJvQmF2NVB5WGJuLTRxd2pSSEx0WEJWOUNiVQ&q=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1W2dWlY8SwXlm-d95L3doGKqMEfFngr4k%2Fview%3Fusp%3Dsharing&v=MVDSN6oR1oY) [**Ollama 3.1**](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbVFod0c0Y0g3WHJsNWxPTkwxem9UN1d2M0Jad3xBQ3Jtc0ttM3pHZnRkbkpDVG1sQVo1eHFZM3lrN3pWZU5mZWdSY1IwRi1PQTFMa243dngyOEJpQlJ6RkpaMmUzMEpHSVhZTmJYVmt5aHZTY0RtNGN2bTAyNThGamhvUUhmc1ZEajVZZ2tTenh6WWtiLWhCdTE3UQ&q=https%3A%2F%2Fhub.docker.com%2Fr%2Follama%2Follama&v=MVDSN6oR1oY) și [**Open-WebUI**](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbDBpclVMc0tHQUdEVEpWWXIwNk10OUZvMktCQXxBQ3Jtc0tsQ3dmYl85b1JiYlNPdjlzd0NQeWt1VzZ4VkVLeW5lRmh5dW4yNXdHMDBXZXJZU1pLVUdNNkdKU2JGWkZTc2dSUF83ZVMwZEY4U1BpUVdGcTNuUHFuRGsxdXRNR1Ezakx6d2U2RmwzS3dJOEswVWl1QQ&q=https%3A%2F%2Fdocs.openwebui.com%2F&v=MVDSN6oR1oY) folosind [***Docker***](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbnZsbzlnOHNXVVliMHR5bzZXVWk4X3pMSG8wUXxBQ3Jtc0tsUzlYdjItTDdlWHlfaUo2WVJxaGxmN3I5QUNJQXBfVjBWdGloSkJJUmdPalRWZnFTWlMwNmo5OVdVejdqbk9PTXVfZWk4bzYySHJaU193MWtYX04wdHJsRU5fa19vcXNGLTd5MFMzbXZoWFRIZDlkaw&q=https%3A%2F%2Fwww.docker.com%2Fget-started%2F&v=MVDSN6oR1oY)(a se urmari si subiectul [***Docker-fara GUI***](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbVo5QzB3XzRkN1FuZUtBRFVlZUJ6SkdsdmJCZ3xBQ3Jtc0tuYmdzRURwZGUwbU9MZ09hYTRDbGxxb1pxM0tVWHdwcmVxQUwxNzY0b3BKaEI1Mk5MTG5uRzJQZkg3TnNvVGdoTk50U25JdXRyZnVjNlZmUHQtc1l4V2lPSzhEc3N6ZGFuMWFzQmNQUzJrRk9ZbUlmVQ&q=https%3A%2F%2Fdocs.docker.com%2Fengine%2Finstall%2Fubuntu%2F&v=MVDSN6oR1oY)) și vă voi arăta cum să integrați mai multe **modele-AI** pentru o [implementare eficientă](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbVQtdXJ0b3JFWm9YRUJjczZlV2xySFBiUW5vd3xBQ3Jtc0ttSnRELUw1OERjS0dDdWUzMkZ2VGFVeEtrX2pMRzZaUnFKSmhWdnJsbU41bFNTdVNMbjhfUUhJczFrV3o2VkVnZ1MxOVF2aUY3X1hvNmlKS3RsWV83Y3FhRWdmcDZWcG9SSWhsT0NyV1psSXYwb3liTQ&q=https%3A%2F%2Follama.com%2Flibrary%2Fllama3.1&v=MVDSN6oR1oY).
+   <br/> Indiferent dacă sunteți un dezvoltator, un om de știință de date sau un pasionat de inteligență artificială(**AI**), sau pur și simplu doriți să economisiți bani găzduind **LLM**-uri acasă(<ins>local</ins>), acest ghid vă va ajuta să gestionați și să rulați cu ușurință diverse modele în <i>containerele</i>-***Docker***.
+ - [Install **reAG** *Locally* with **Ollama** - *Reasoning Augmented Generation*](https://www.youtube.com/watch?v=SA-VVOKgyRA&t=312s&ab_channel=FahdMirza)
+   <br/>Acest videoclip instalează <ins>local</ins> [**ReAG**](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbHlaS1FnaU53M2EzWDlPajlmbV91blJaajl3Z3xBQ3Jtc0tueXFlSk4wMy1mazN4QWhydmVOTmQ5WjNLSnJzTjNYRkxnOXdRUU5uM0hUWWY0ZmVzMlkzcDdXbUtLX3F0aDdZME05R1dNb2ZOUUx1MVJaX0NUdmJta0gyaVdTZlJWclA3VGJValEybFg0OU1SbUU4NA&q=https%3A%2F%2Fgithub.com%2Fsuperagent-ai%2Freag&v=SA-VVOKgyRA) cu **Ollama**, care oferă o alternativă robustă prin alimentarea documentelor brute direct în modelul de limbă(***LLM***).
+   <br/>***LLM***-ul utilizat: **DeepSeek-R1:14b**
+ - [**Zyphra** Just Dropped **Zonos** - Instant ***TTS*** and ***Voice Cloning*** - Install *Locally*](https://www.youtube.com/watch?v=ymrAhkg2TTA&ab_channel=FahdMirza)
+   <br/>Acest videoclip instalează <ins>local</ins> [**Zonos-v0.1**](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa2FSLUpsWGczc3NBcUllWE1qdUJzUHJQRDU5UXxBQ3Jtc0tsaV94WHJJSW1yUGtyaC1iaU1pNWZrbXF3bmU3bjZwYmJGcVRyN0tMLTFEN3JGbGZHOWtpUkdvaHBPN2VIbWJGcnVVbTJTd0tBb296UW82Unh1YUk1aVpGMWdJYWdYekUtUmdIZnVXVGFWbW9zanhHWQ&q=https%3A%2F%2Fhuggingface.co%2FZyphra%2FZonos-v0.1-hybrid&v=ymrAhkg2TTA)(dockerizat), care permite generarea de vorbire(***Text-To-Speach(TTS)***) extrem de naturală din solicitările text.
+   <br/>Este Apache 2 și multi-lingv(in mai multe limbi literare). 
+ - [**Phi4-Noesis** - Deep and Fast *Reasoning Model* - Install *Locally*](https://www.youtube.com/watch?v=-yNviNIyBBs&ab_channel=FahdMirza)
+   <br/>Acest videoclip instalează <ins>local</ins> [**Phi4-Noesis:14b-q8_0**](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbmNQOGpSN0Rwb1ZkTkJYbWFZVjdPSGo2SGFfUXxBQ3Jtc0ttNkNRdGluQTFWYWJ1cWx6ajlhb1l4TFR1N254cWNta1JWWUV2SGU5X25OcUp5TEktSkdXN0ZZSUNIZWd2TkN1cjdYYzFzbHg1QTUyZFNJOGVta0NIN3RoNWZqakFPaWZQRk9MdzVBNmc4WDRjcmRiSQ&q=https%3A%2F%2Fhuggingface.co%2Fdimsavva%2Fphi4-noesis&v=-yNviNIyBBs), care este o reglare-fină(***FT***) a **Phi-4** cu un raționament rapid(*fast*) și profund(*deep*).
+ - [**DeepScaleR 1.5B** - *Fine-Tuned(FT)* from *Distilled DeepSeek* with *Long Context* - Install *Locally*](https://www.youtube.com/watch?v=Im3TOjz4UcM&ab_channel=FahdMirza)
+   <br/>Acest videoclip este un tutorial pas cu pas pentru a vă arăta cum să instalați și să rulați [**DeepScaleR-1.5B-Preview**](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbldIUndsUEJ2QnRvYmhIS2Fabm55SXVwckw0UXxBQ3Jtc0tuM3EyeEVQRjlQVGlGYlJzaGktamZKaDByQjZUMGNBeUxRaVNrREQ0aUkzNkFVa2t1Y3ZSS21fNWt5elQwLXNYQjJ1SlRJWWdwNVBfZkJYbngwM1U1QUIwck5SZkt1QlpmdGFuUjBwLVR4V3NpNmlSOA&q=https%3A%2F%2Fhuggingface.co%2Fagentica-org%2FDeepScaleR-1.5B-Preview&v=Im3TOjz4UcM) <ins>local</ins> și să îl testați.
+ - [**NanoSage** - ***Deep-Research*** *Assistant* - Install *Locally* with ***Ollama*** and *Run on CPU*](https://www.youtube.com/watch?v=9hhuEbLcT-c&ab_channel=FahdMirza)
+
+<details>   
+<summary>   detalii videoclip...<b>NanoSage</b> - bazat pe server-ul de <b>LLM</b>-uri <i>Ollama</i>...</summary>
+
+<hr/>
+
+   
+   <br/>Acest videoclip instalează <ins>local</ins> [**NanoSage**](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbnBuNTEzMWZLeVVKb0V0UnJkbkRnMlJXXzZJUXxBQ3Jtc0ttSUlpWFVlR3FSZmVxXzlvUTA0TjN1LUI0amZjaW5ULTBUanIwVDlacDJ2M3hoaGpsaHE1MnFIdF9qMDFqT2l5eERhc211YXhzajlXQmFZdmdfT2pqT056c09GUy1Td3VGQm8xUkptZE1qbG5UTmFjUQ&q=https%3A%2F%2Fgithub.com%2FmasterFoad%2FNanoSage&v=9hhuEbLcT-c), care este un asistent propus de ***Deep-Research*** si care rulează pe <ins>laptop(*Run on CPU*</ins>, folosind modele minuscule(modele foarte mici: ***nano-modele***).
+    <br/>Prin ce diferă **NanoSage** de alți cercetători asistenți?
+<br/>Oferă o defalcare/despica/impartire *structurată*(gen/un fel de *tabel-de-BD*) a unui canal de *căutare*-*recursiv*, bazat pe *relevanță/importanta*, cu mai multe surse(*multi-sursa*).
+<br/>Acesta prezintă modul în care sistemul rafinează/despica o interogare(*query*) a utilizatorului, construiește o *bază-de-cunoștințe* din date-*locale* și date-*web* și explorează dinamic sub-interogările(*sub-queries*), urmărind progresul printr-un Cuprins(***TOC***).<br/>
+<br/>Cu explorarea bazată pe **Monte-Carlo**, sistemul echilibrează *adâncimea* și *lățimea*, *clasificând* relevanța-fiecărei-ramuri pentru a asigura *precizie* și pentru a evita tangentele care nu au legătură(falsa informare).
+<br/>Rezultatul?
+<br/>Un raport detaliat, bine organizat, generat folosind generarea-de-recuperare-augmentată(**RAG**), care integrează cele mai valoroase informații.<br/>
+<br/>Am vrut să experimentez noi metode de cercetare, așa că m-am gândit că, practic, atunci când cercetăm un subiect, explorăm aleatoriu idei noi în timp ce căutăm, iar **NanoSage** practic face asta!
+<br/>Își explorează și înregistrează călătoria, unde fiecare pas (*relevant*) este un nod... și apoi vi-l rezumă într-un <ins>raport</ins> frumos!
+<br/>Unde tabelul de conținut(***TOC***) este practic graficul/planul său de căutare.
+<hr/>
+
+</details>
+
+ - [*kimi.ai* Releases **Kimi** and **K1.5 Loong Thinking**](https://www.youtube.com/watch?v=ch3zn_i0Fak&t=52s&ab_channel=FahdMirza)
+   <br/>Acest videoclip face o trecere în revistă aprofundată a modelelor [**Kimi**](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa21oOFgtc25zNVBpbzRBNzhSZ2lCU0lUS0tld3xBQ3Jtc0tsMVZtSlc1Y2xnUWxiZFlQV2RUYmJnVk5vaEh0UXZpUk9kellrMldIMXlRVkNHVTQ1ektZdEZ5V2Nid3FDSXdGZDNQMURlN044bGQtR01vcEEwYmdibjNiRzZudndxX0c0Q2JNVnVIOGFuVlNvMkxhOA&q=https%3A%2F%2Fkimi.ai%2F&v=ch3zn_i0Fak) și [**K1.5 Loong Thinking**](https://huggingface.co/papers/2501.12599)([Gândire (inden-)lung(-ată)](https://www.youtube.com/watch?v=551oCIW5IH4&ab_channel=ArxivPapers)).
+ - [**Ollama Model Manager** - *Filter and Custom Tags* with Models *Locally*](https://www.youtube.com/watch?v=gCA816T7TsA&ab_channel=FahdMirza)
+   <br/>Acest videoclip arată cum să instalați local **Ollama Model Manager** pentru a gestiona modelele ***Ollama*** la nivel <ins>local</ins> cu un script Python [**wrapper/gist**](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbHIzaXdESVdHb1hQN0FHTVZoTS1TU3pFbTZjZ3xBQ3Jtc0tuQnRJeGNwYU1KRV9QRUdWRzdvN1Q5YV8zamVSTUR4SThfOTJhNXdvandPTUNSYlhGRDZDVjZGQWViZzhqQ1YyX2VtbUR5SWExcXdKbzdJaEdIRDBoeEstUDhTbUVUazJxbTltbFVueVljdHJxMG5EZw&q=https%3A%2F%2Fgist.github.com%2FitsPreto%2F038abe634dd10e9850768cd0b13ed169&v=gCA816T7TsA).
+   <br/>În acest videoclip, autorul prezintă un nou instrument open-source numit manager de model-**AMA**, care permite utilizatorilor să gestioneze modele de inteligență artificială(AI) la nivel local, folosind un script(**wrapper/gist**) *Python* simplu.
+   <br/>Videoclipul subliniază ușurința instalării și utilizării pe diferite sisteme de operare, inclusiv ***Linux***, ***Windows*** și ***macOS***.
+   <br/>Printr-o serie de demonstrații, creatorul arată cum să adauge etichete voastre/personalizate(*Custom Tags*) modelelor, să recupereze informații detaliate despre model(*Filter by Ollama-Tags or Custom-Tags*) și să gestioneze eficient înglobările.
+   <br/>Utilizatorii sunt încurajați să exploreze acest instrument inovator și să utilizeze resursele însoțitoare([**wrapper/gist**](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbHIzaXdESVdHb1hQN0FHTVZoTS1TU3pFbTZjZ3xBQ3Jtc0tuQnRJeGNwYU1KRV9QRUdWRzdvN1Q5YV8zamVSTUR4SThfOTJhNXdvandPTUNSYlhGRDZDVjZGQWViZzhqQ1YyX2VtbUR5SWExcXdKbzdJaEdIRDBoeEstUDhTbUVUazJxbTltbFVueVljdHJxMG5EZw&q=https%3A%2F%2Fgist.github.com%2FitsPreto%2F038abe634dd10e9850768cd0b13ed169&v=gCA816T7TsA)) furnizate în descrierea videoclipului.
+ - [Best AI Model to Generate Artwork from Text - **PixelWave** Flux.1-Dev 03 - Install <ins>Locally</ins>](https://www.youtube.com/watch?v=zZKwyns3yL8&ab_channel=FahdMirza)
+   <br/>Acest videoclip arată cum să instalați <ins>local</ins> [**PixelWave Flux.1-Dev 03**](https://civitai.com/models/141592?modelVersionId=992642), care este un model ***FLUX*** de uz general reglat-fin(**FT**), excelent pentru stiluri **artistice** și **foto**.
+ - [Install **Flux.1-Dev Upscaler** ***ControlNet*** <ins>Locally</ins> - Upscale Images with Flux](https://www.youtube.com/watch?v=3TBAy9Zg5II&ab_channel=FahdMirza)
+   <br/>Acest videoclip arată cum să instalați modelul [**Flux Dev Upscaler**](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbnB3WkstV2NTVXhCckNiZml6R2IxWVFxS0FOZ3xBQ3Jtc0trdElQZnpvRFdxdWctZ081QVp1WGJUYjNkMVg4QmE1LTJHamdybVlVVFpDb0RXektDcDVJVTFEb0ZUc1lTR20zcWNkUy1MczA0WUgtc0lSQ001cWJqSjBpVkFORHk5RXFNMUFYTzdFRjJNcFVPQl9yTQ&q=https%3A%2F%2Fhuggingface.co%2Fjasperai%2FFlux.1-dev-Controlnet-Upscaler&v=3TBAy9Zg5II) la nivel <ins>local</ins> și imagini de lux(la scara crescuta).
+   <br/>Acesta este ***Flux.1-dev ControlNet*** pentru imagini cu rezoluție joasă.
+ - [Install **Perplexica** with **SearXNG** and **Ollama** and **Llama 3.1** for <ins>Local</ins> **AI** *Search-Engine* for *Free*](https://www.fahdmirza.com/2024/07/install-perplexica-with-searxng-and.html)
+   <br/>Acest videoclip arată cum să instalați <ins>local</ins> [**Perplexica**](https://www.youtube.com/watch?v=LjTIy0FEkAQ&ab_channel=FahdMirza) cu modelul [**SearXNG**](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbmluQkNzYV80NThsaHhveldkdU1PS0ZEQlhid3xBQ3Jtc0tuV0JvelVJOERkNGZrYVlGNm1JTDR1VTJLQkMtZzhSZmpIYktzc0ctSU1rRm1Ma0pIbDE1RmI0NEtoNWtmWFZWb1cydmtnRHdOZkNqc3JFMjZ5ZHQ5TEVRVUZXNm1jRldobzNOb0pYU3JYV213QUowMA&q=https%3A%2F%2Fwww.fahdmirza.com%2F2024%2F07%2Finstall-perplexica-with-searxng-and.html&v=LjTIy0FEkAQ) și **Ollama** ***Llama 3.1*** și să faceți căutare bazată pe inteligență artificială(**AI**).
+ - [Install **LibreChat** with **Ollama** <ins>Locally</ins> to Chat with Any Model](https://www.youtube.com/watch?v=d9ZV3-YkX-8&ab_channel=FahdMirza)
+ <br/>Acest videoclip arată cum să instalați <ins>local</ins> **LibreChat** și să îl integrați cu ***Ollama***.
+ <br/>Puteți folosi **Llama 3** , **Mistral** sau <i>orice model</i> pentru a [discuta privat și local](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbXduLXdybkROMkFuc3JUdVRyUTBOdGlmblQ2QXxBQ3Jtc0treVBLZ04xZkxvOTExTjZiX1REV2I4blJtV3owTnNOS2hlY0JndF9pZm1UMGlpYzVsWlRVOXlYWFBWNlFyRlhmVHpXd0wyWmdZdzg4U0NDTzlfSmJHckVwQUpJWkVSemhYWTF5elJIblVxMDlYMk03aw&q=https%3A%2F%2Fwww.fahdmirza.com%2F2024%2F05%2Finstall-librechat-locally-with-ollama.html&v=d9ZV3-YkX-8) cu **GUI web**.
+ - [Install **HuggingFace Models** Directly in **Open WebUI** with **Ollama** <ins>Locally</ins>](https://www.youtube.com/watch?v=yLAIWsb5-ls&ab_channel=FahdMirza)
+ <br/>Acest videoclip oferă o demonstrație pas cu pas despre cum să rulați oricare dintre ***modelele 45K+ GGUF*** pe **Hugging Face Hub** direct cu **Ollama**(<ins>local</ins>) în [**Open WebUI**](https://openwebui.com/).
+ - [Run Full **DeepSeek-R1** <ins>Locally</ins> in *FP8* on ***NVIDIA*** or ***AMD**](https://www.youtube.com/watch?v=0057csl3kaY&ab_channel=FahdMirza)
+ <br/>Acest videoclip este un tutorial pas cu pas pentru a vă arăta cum să instalați și să rulați **DeepSeek-R1**(ca ***LLM***) cu **HF** **TGI** în ***FP8*** ca server.
+ - [**Kotaemon** - Easy <ins>Local</ins> **RAG** ***UI*** - **GraphRAG** cu ***Ollama*** - Tutorial](https://www.youtube.com/watch?v=PDtGJ-OwvAM&ab_channel=FahdMirza)
+<br/>Acest videoclip arată cum să instalați local[ kotaemon](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbmFLSU5RWjJhSEx3X0VYWTVuaDgxWXpsejlRQXxBQ3Jtc0tuMEtMdmV0M1pTdkNxZWtGcGd2OGV4SUV4WEV2VllXLVhVVE1EU2xMOXpOV1lHeUdIMWhfNWx0a2ZQTzh3R1VsMUxSWWZWazlhRUpNSnZweWZUN2g4anNuU3BvbFRjTTRwZ3NCV3dnQW5xaFpCRGd4bw&q=https%3A%2F%2Fgithub.com%2FCinnamon%2Fkotaemon&v=PDtGJ-OwvAM), care este o interfață de utilizare *RAG*, cu sursă deschisă curată și personalizabilă, pentru conversația(chat/ a discuta) cu documentele dvs.
+ - [**Qwen**-***Agent*** with **Ollama**: Plan, Tool-Use, Memory of **Qwen** - Install <ins>Locally</ins>](https://www.youtube.com/watch?v=EbxLmxjL8v4&ab_channel=FahdMirza)
+   <br/>Acest videoclip arată cum să instalați <ins>local</ins> [**Qwen**-***Agent***](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa2hCWWRpZkxrbk9yMWpmeUVfY2JhTHBPUUZid3xBQ3Jtc0trQ1V5NlVLeFI0OTlJWnlkcnpha3Z5UkdnN25CN1EtOXc3Q0c1dnk1RmpaUmt3WFZvbEVCajJJbU9HUDViMzJxNDkwZWJQZ3FJeXU3RXh0Z3NTSnJmdVE1bEM1cUtqYXFHOG40NHoyVy13TEZKWGNlTQ&q=https%3A%2F%2Fgithub.com%2FQwenLM%2FQwen-Agent&v=EbxLmxjL8v4), care este un cadru pentru dezvoltarea aplicațiilor-**LLM** bazate pe instrucțiunile care urmează, utilizarea instrumentelor, planificarea și capacitățile de memorare ale **Qwen**.
+ - [Voice-Chat with **LLM**s <ins>Locally</ins> with **Open WebUI**](https://www.youtube.com/watch?v=z9RaSZIXBBc&ab_channel=FahdMirza)
+   <br/>Acest videoclip este un tutorial pas cu pas pentru a instala **Open WebUI**(la nivel <ins>local</ins>) și arată noi funcții precum <i>chatul-vocal</i> cu modele-AI(**LLM**-uri) la nivel <ins>local</ins> cu **Ollama**(server de **LLM**-uri).
+ - [How-To Run **Llama 3** <ins>LOCALLY</ins> with ***RAG***!!! (***GPT4ALL*** <i>Tutorial</i>)](https://www.youtube.com/live/ZrqCm5jE_nQ)
+
+<details>   
+<summary>   detalii videoclip...<b>Llama-3</b> - oferit de <i>managerul de LLM</i>-uri <b>GPT4All</b>...</summary>
+
+<hr/>
+
+   
+  <br/>În acest *tutorial* [**Llama 3**](https://ai.meta.com/blog/meta-llama-3/), veți învăța cum să rulați **Llama 3** la nivel <ins>local</ins>.
+  <br/>Spre deosebire de majoritatea altor *tutoriale* <ins>locale</ins>, acest *tutorial* acoperă și construirea unui **RAG** <ins>local</ins> utilizand/cu ***LLM***-ul, instalat local, **Llama 3**.
+  <br/>Vom folosi un instrument(manager de ***LLM***-uri...cum este si ***Ollama***-server) numit **GPT4All** pentru același lucru.
+  <br/>**GPT4ALL** este *gratuit*, *open-source* și, prin urmare, începeți cu ***LLM***-ul **Llama 3** <ins>Local</ins>.
+  <br/>Acest *tutorial* are, de asemenea, o abordare complet *fără-cod* pentru a rula **Llama 3** *fără-prompt-de-comandă* si *fara-terminal*.
+  <br/>Pe scurt, este un *tutorial de instalare* **Llama 3** cu un singur clic!
+  <br/><ins>Capitole</ins>:
+
+   - 00:00 Introducere
+   - 00:19 00:19 [Descărcați](https://gpt4all.io/index.html) Aplicatia-Desktop([managerul de LLM-uri](https://www.reddit.com/r/LocalLLM/comments/1bd9qqb/exploring_local_llm_managers_lmstudio_ollama/)...in loc de... ***Ollama***-server) [**GPT4ALL**](https://docs.gpt4all.io/)
+   - 00:52 [Descărcați](https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct) [**Llama 3-Instruct**](https://www.reddit.com/r/LocalLLaMA/comments/1ct5h16/llama_3_vs_llama_3_instruct/) Model(***LLM***) 
+   - 01:42 Conversați/Discutați cu ***LLM***-ul **Llama 3** <ins>local</ins> 
+   - 03:30 Descărcați *modelul de încorporare* pentru asimilarea/inglobarea datelor <ins>locale</ins>
+   - 03:58 Adăugați *folderul documentelor* la *colecție*
+   - 04:48 *Discutați* cu *PDF*-uri folosind 
+     <br/>*Setări avansate* [**GPT4ALL**](https://www.youtube.com/live/ZrqCm5jE_nQ?t=354s): (*parametrii-modelului*, *șablonul de prompt*, *promptul de sistem*)
+     <br/> 🔗*Link*-uri:
+         <br/>Descărcați **GPT4ALL** [🔗aici](https://gpt4all.io/index.html).
+
+<hr/>
+
+</details>
+
+ - [Step-by-Step Guide to Create **Free-Dataset** with **Ollama** and **Llama 3.1** <ins>Locally</ins>](https://www.fahdmirza.com/2024/07/step-by-step-guide-to-create-free.html)
+   <br/>Acest [videoclip](https://youtu.be/o4InUVFKPI0) prezintă un ghid ușor pas cu pas pentru a genera un set-de-date(dataset/**ds**) de preferințe aliniate la nivel <ins>local</ins>, utilizând modelul/***LLM***-ul (asadar un **LLM** rulat in mediul privat/<ins>local</ins>) **Llama 3.1 70B**  și/oferit de catre server-ul/managerul de ***LLM***-uri, **Ollama**.
+ - [*Self-Hosting* **LLM**s like a *DevOps* - **Ollama**](https://www.youtube.com/watch?v=jl9bfPsBBcM&ab_channel=JAlcocerTech)
+
+<details>   
+<summary>   detalii videoclip...<b>Ollama</b> - <i>dockerizat</i>...</summary>
+
+<hr/>
+
+
+   <br/>În acest videoclip arătă cum să utilizați **LLM**-urile la nivel <ins>local</ins>, așa cum ar face un *DevOps*.
+   <br/>Vom folosi proiectul **Ollama** și îl vom găzdui prin Self-Host cu **Docker**.
+   <br/>Apoi, vom alege un model de limbă mare(**LLM**) gratuit(**Orca mini**) și vom vedea cum să interacționăm cu acesta în diferite moduri:
+
+   - Prin *terminalul* de *containere*-docker
+   - Cu cerere *http*
+   - Cu *Python* cu ajutorul integratorului/framework-ului **LLama-Index**
+
+   <br/>Imaginea(*docker*) **Ollama** este gata să funcționeze atât pe dispozitivele ***x86***, cât și pe cele *ARM64*, astfel încât să putem aplica tot ceea ce învățăm astăzi pe ***laptopuri***, ***servere*** sau *SBC* obișnuite. 🔗 [Gist](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbU1lV0x6YVVWRWtGbWVaaXB1U0xBeWpXaWJQZ3xBQ3Jtc0ttNW4xQjZBbDVxQUd0UUU1Qm94OTJiRlg2LWw2T2VTWFNyYU14VjJIXzlQX1BGLURyb2t1Z0RtcUVpLVdCc29RUEEwd0RvdzdWZVFCS1BZM3dnaG9UQkpiRXprQ0lWSW50OVN5dnRrbl90Mk1SS0w4Yw&q=https%3A%2F%2Fgist.github.com%2FJAlcocerT%2F5c406a4f1d18a57469815fa0ef9d6a07&v=jl9bfPsBBcM) cu tot codul și comenzile utilizate în videoclip.
+
+   <br/>💻 [Web](https://ollama.ai/)-ul oficial al proiectului: [https://ollama.ai/ ](https://ollama.ai/ )
+   <br/>***LLM*** folosit: [https://ollama.ai/library/orca-mini ](https://ollama.ai/library/orca-mini)<br/>
+
+   <br/>[Codul-sursă](https://github.com/jmamorganca) al proiectului: [https://github.com/jmamorganca ](https://github.com/jmamorganca)
+   <br/>[Imaginea-Docker](https://hub.docker.com/r/ollama/ollama ) a  Proiectului: [https://hub.docker.com/r/ollama/ollama](https://hub.docker.com/r/ollama/ollama ) 
+
+   <br/>🌟 Resurse care ar putea fi interesate 🌟
+
+   - [fossengineer-tags: **gen-AI**](https://fossengineer.com/tags/gen-ai/)
+   - [GH-jalcocert: **RPi**](https://jalcocert.github.io/RPi/)
+   - [video](https://www.youtube.com/channel/UCPPMA8ZEusAe5dVH6PbjZFA) / @jalcocertech  
+
+   <br/>Self-Host(autogazduire) **NGINX** pentru a furniza **https** lui ***Ollama***: [https://fossengineer.com/selfhosting](https://fossengineer.com/selfhosting)-...
+
+   - **LLama-Index** (***PyPi***): [https://pypi.org/project/llama-index/](https://pypi.org/project/llama-index/)
+   - **LogSec**: [https://github.com/logseq/logseq](https://github.com/logseq/logseq)
+   - **Home Assistant**(***HA***): [https://github.com/home-assistant](https://github.com/home-assistant)
+
+<hr/>
+
+</details>
+
+ - ...
+
+<hr/>
+
+</details>
 
 </details>
 ....
