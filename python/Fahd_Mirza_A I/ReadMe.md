@@ -990,11 +990,11 @@ Recapitulare a momentelor importante ale performanței și încurajarea spectato
 
 [Instalați AI-Gateway cu Ollama local](https://www.youtube.com/watch?v=mR-L8DNN5K8&ab_channel=FahdMirza)
 <details>
-      <summary></summary>
+      <summary>PortKey-AI-Gateway(GW) ... rezumat...video-YT...detalii...</summary>
 <hr/>
 <pre>Rezumat
             
-În acest videoclip, Fahd Miza prezintă PortKey-AI-Gateway, o soluție ușoară și open-source concepută pentru rutarea rapidă, 
+În acest videoclip, Fahd Mirza prezintă PortKey-AI-Gateway, o soluție ușoară și open-source concepută pentru rutarea rapidă, 
 fiabilă și sigură a modelelor AI, cu o latență de mai puțin de 1 milisecundă. 
 El demonstrează instalarea acestui AI-gateway la nivel local alături de framework-ul AMA și modelul Llama 3.2. 
 De-a lungul videoclipului, Fahd evidențiază caracteristici precum reîncercări automate, alternative și 
