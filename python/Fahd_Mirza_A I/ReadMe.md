@@ -1083,6 +1083,11 @@ peste 1600 de modele de limbă, viziune, audio și imagine. 🔥
 
 <hr/>
 
+<details>
+	<summary>GPTme</summary>
+
+ <hr/>
+ 
 [Install GPTme with Ollama and QwQ Locally - AI Agents in Terminal](https://www.youtube.com/watch?v=QBmFw7eiLPU&ab_channel=FahdMirza)
 <br/>Acest videoclip arată cum să instalați local [GPTme](https://github.com/ErikBjare/gptme ) și să îl integrați cu Ollama pentru viziune, utilizarea browserului și alte instrumente. 🔥
 
@@ -1131,6 +1136,10 @@ Testarea capacităților de vedere/viziune ale modelului cu imagini locale, indi
 Căutare web de succes efectuată de model, prezentând funcționalitate îmbunătățită.
 10:29
 Concluzie care discută progresul general al sistemului și...</pre>
+
+<hr/>
+
+</details>
 
 <hr/>
 
