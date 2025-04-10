@@ -686,6 +686,11 @@ Acest videoclip arată cum să instalați local [AgenticSeek](https://www.youtub
 
 <hr/>
 
+<details>
+	<summary><b>QvQ-Max</b> de la Alibaba...</summary>
+<br/>
+<hr/>
+	
 [**QvQ-Max**: Top Visual Reasoning Model from Alibaba - Thorough Testing](https://www.youtube.com/watch?v=2dswEwhHSdY&ab_channel=FahdMirza)
 <br/>🔥Acest videoclip testează [**QVQ-Max**](https://simonwillison.net/2024/Dec/24/qvq/)(al echipei [Qwen2.5 Max](chat.qwen.ai)...a Alibaba ), care vine cu Multi-Image Recognition(recunoastere multi-imagine) și alte funcții.
 <br/>[**QvQ**](https://simonwillison.net/2024/Dec/24/qvq/) este o continuare(axată pe viziune/recunoastere multi-imagine) a [**QwQ**](https://simonwillison.net/2024/Nov/27/qwq/)-ului.
@@ -698,6 +703,10 @@ Acest videoclip arată cum să instalați local [AgenticSeek](https://www.youtub
 <br/>Noul **QvQ** adaugă viziune mixului(de imagini).
 <br/>Il puteți încerca direct/online(ca orice alt model) pe [**Hugging Face Spaces**](https://huggingface.co/spaces/Qwen/QVQ-72B-preview) — (desigur, cu mici restrictii... pt ca resursele [nu] sunt [ne]limitate si astfel pot incerca noul produs, cat mai multi cu putinta doritori/utilizatori... ) acceptă o imagine și o singură solicitare și apoi transmite un răspuns foarte lung în cazul în care se "gândește/rationeaza" la problema pe care ați pus-o. 
 <br/>Nu există nici-o opțiune de a trimite o solicitare de urmărire(elaborare)...
+
+<hr/>
+
+</details>
 
 <hr/>
 
