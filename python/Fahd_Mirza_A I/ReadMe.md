@@ -44,7 +44,7 @@ Pentru cei care doresc sa genereze cod(**code generative-AI**), folosind modele 
 <details>
 	<summary>grupul de proiecte: Llama-Mesh/3D-Chatbot, Llama3.2-vision si OmniAudio-AI, RAG multimodal, Moonshine, MindsDB  ...</summary>
 
-Sa le evaluam pe rand....
+<br/>Sa le evaluam pe rand....
 
 <hr/>
 
