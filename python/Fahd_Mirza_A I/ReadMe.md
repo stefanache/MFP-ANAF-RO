@@ -1181,4 +1181,58 @@ pentru conținut.</pre>
  
 <hr/>
 
+[Easiest Tutorial on Model Context Protocol (MCP) - Hands-on](https://www.youtube.com/watch?v=C2UnDOt-f3M&ab_channel=FahdMirza)
+<br/>Acest [videoclip](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa2xZRWRtRGt6aVVHOGZzT0s3eGgxbmFYeDV4Z3xBQ3Jtc0tuemhESVpOeUp4anlubjh2OUtIZE5ETjVvNnNSSUFZMHFLaEptZHd5c2lfSmJqeU5HSEYwMkw1SHZuMGVzRmFwMjUtWTNlVXp4U3VadzdvMnVwd042dVZJcEUzR0FIRC1INF9vU1JUeGJBeVNZcUxsTQ&q=https%3A%2F%2Fwww.fahdmirza.com%2F2025%2F04%2Fhow-to-build-mcp-server-and-client-step.html&v=C2UnDOt-f3M) este un tutorial foarte simplu pas cu pas despre Protocolul de context model (MCP) Anthropic cu o lume bună și apoi un exemplu din lumea reală. 🔥
+
+<details>
+      <summary>MCP ... rezumat...video-YT...detalii...</summary>
+
+<hr/>
+<pre>
+      Rezumat
+În acest tutorial, Fahd Mirza ghidează spectatorii prin procesul de creare a unui server și client Model Context Protocol (MCP). 
+Videoclipul explică necesitatea MCP pentru a conecta modele mari de limbi la surse de date externe în mod sigur și eficient. 
+Tutorialul progresează de la un simplu server MCP „Hello World” la un exemplu mai complex care implică o bază de date SQLite, 
+demonstrând ușurința integrării diferitelor surse de date folosind cadrul MCP.
+
+Repere
+
+
+0:02
+	Introducere în videoclip, stabilirea așteptărilor pentru tutorial.
+
+0:26
+	Explicația Modelului Context Protocol (MCP) și importanța acestuia în accesarea datelor în timp real.
+
+2:58
+	Începutul demonstrației practice – crearea unui server MCP simplu „Hello World”.
+
+7:22
+	Explicație despre modul în care funcționează MCP pentru a conecta client și server în siguranță.
+
+10:40
+	Demonstrarea rulării clientului MCP și a primirii unui răspuns de la server.
+
+12:11
+	Introducerea unui exemplu mai complex folosind o bază de date SQLite cu serverul MCP.
+
+13:45
+	Crearea setării bazei de date SQLite și explicarea modului de integrare a acesteia cu MCP.
+
+16:16
+	Clientul preia și imprimă date din baza de date SQLite, prezentând funcționalitatea serverului MCP.
+
+16:54
+	Introducere în sponsorizarea AgentPot, o aplicație pentru implementarea botilor de cunoștințe pe platforme.
+
+17:14
+	Îndemn la acțiune încurajând spectatorii să se aboneze și să partajeze conținutul.</pre>
+
+<hr/>
+
+</details>
+
+<hr/>
+
+...
 ....
