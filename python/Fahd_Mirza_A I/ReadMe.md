@@ -179,7 +179,7 @@ Desigur, suplimentar, daca aveti de lucrat(sa spunem/luam cazul ne[*Docker*](htt
 </details>
 
 <details>
-	<summary>Agenti-AI: Stripe...Coderii-AI...</summary>
+	<summary>Agenti-AI: Stripe....orchestrare-multiagent cu libraria-smolAgent ori cadre-de-lucru precum Agentarium, Griptape, ...</summary>
 
 <hr/>
 
