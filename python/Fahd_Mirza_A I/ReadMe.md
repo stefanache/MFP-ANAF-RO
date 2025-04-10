@@ -110,7 +110,7 @@ Desigur acesta este un exemplu de inceput(daca vreti ... un exemplu de testare a
 </details>
 
 <details>
-	<summary>MindsDB</summary>
+	<summary>MindsDB...GPU...Docker</summary>
 
 <hr/>
 
@@ -178,9 +178,18 @@ Desigur, suplimentar, daca aveti de lucrat(sa spunem/luam cazul ne[*Docker*](htt
 
 </details>
 
+<details>
+	<summary>Agenti-AI: Stripe...Coderii-AI...</summary>
+
+<hr/>
+
+[Agenții AI](https://undetectable.ai/blog/ro/ce-sunt-agentii-ai/) sunt din ce în ce mai utilizați în locurile de muncă moderne pentru:
+ - a ajuta la luarea deciziilor,
+ - a automatiza sarcinile(a controla fluxul de lucru) și
+ - a optimiza eficiența.
 
 <details>      
-<summary>Si acum... cateva lucruri despre <b>agentii-AI</b>...</summary>
+<summary>Si acum... cateva lucruri despre acesti <b>agenti-AI</b>...</summary>
 
 <br/>
 <hr/>
@@ -309,6 +318,10 @@ Pentru LLM, **programele agentice** sunt poarta de acces către lumea exterioar�
 
 Orice sistem care folosește LLM-uri va integra rezultatele LLM în cod. Influența intrării LLM asupra fluxului de lucru al codului este nivelul de agenție/implicare al LLM-urilor în sistem.
 </details>
+
+<hr/>
+
+</details
 
 <hr/>
 
