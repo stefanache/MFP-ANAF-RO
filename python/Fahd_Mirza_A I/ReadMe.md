@@ -1258,9 +1258,10 @@ cd ~/mcp-hello-client
 python client.py
 
 🚩 <ins>Step-3: SQLite Database MCP-Example:</ins> 
- - pe parte de server: a),b) si
- - pe parte de client: c)
-✅ a)SQLite DB Setup (~/sqlite-mcp-server/setup_db.py)
+ - pe parte de server: a.1) si a.2)
+iar 
+ - pe parte de client: b)
+✅ a.1)SQLite DB Setup (~/sqlite-mcp-server/setup_db.py)
 <code>
 import sqlite3
 
@@ -1291,7 +1292,7 @@ conn.close()
 cd ~/sqlite-mcp-server
 python setup_db.py
 
-✅ b)SQLite MCP-Server (~/sqlite-mcp-server/sqlite_server.py)
+✅ a.2)SQLite MCP-Server (~/sqlite-mcp-server/sqlite_server.py)
 <code>
 from mcp.server.fastmcp import FastMCP
 import sqlite3
@@ -1322,7 +1323,7 @@ if __name__ == "__main__":
 cd ~/sqlite-mcp-server
 python sqlite_server.py
 
-✅ c)SQLite MCP-Client (~/sqlite-mcp-client/client.py)
+✅ b)SQLite MCP-Client (~/sqlite-mcp-client/client.py)
 <CODE>
 import asyncio, json
 from contextlib import AsyncExitStack
