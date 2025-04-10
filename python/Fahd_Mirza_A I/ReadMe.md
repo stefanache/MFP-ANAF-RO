@@ -987,7 +987,7 @@ Acest videoclip arată cum să instalați local [AgenticSeek](https://www.youtub
 <hr/>
 
 <details>
-	<summary>CAMEL, PortKey, GPTme, DB-Agent, Kimi-VL, MCP, ...  </summary>
+	<summary>grupul de proiecte: CAMEL, PortKey, GPTme, DB-Agent, Kimi-VL, MCP, ...  </summary>
 
 <hr/>
 
