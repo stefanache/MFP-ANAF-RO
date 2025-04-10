@@ -1002,42 +1002,10 @@ Acest videoclip arată cum să instalați local [AgenticSeek](https://www.youtub
  - modele și
  - medii simulate.
 
+<hr/>	
+
 <details>
-      <summary>Camel-AI ... rezumat...video-YT...detalii...</summary>
-
-<hr/>
-
-<pre>Rezumat
-
-      În acest videoclip, Fahd-Mirza prezintă PortKey-AI-Gateway, o soluție ușoară și open-source 
-concepută pentru rutarea rapidă, fiabilă și sigură a modelelor AI, cu o latență de mai puțin de 1 milisecundă. 
-      El demonstrează instalarea acestui gateway la nivel local alături de framework-ul LLaMA și modelul Llama 3.2. 
-      De-a lungul videoclipului, Fahd evidențiază caracteristici precum reîncercări automate, alternative și 
-bare de protecție, subliniind potențialul sistemului, recunoscând în același timp limitările acestuia. 
-      În cele din urmă, el oferă exemple practice pentru a arăta cum să utilizați eficient AI Gateway, 
-oferind în același timp perspective asupra potențialelor îmbunătățiri.
-
-      Repere
-0:02
-Introducerea <a href="https://www.youtube.com/watch?v=mR-L8DNN5K8&ab_channel=FahdMirza">PortKey-AI-Gateway</a> și a funcționalităților sale de bază.
-0:16
-Discuție asupra tipurilor de modele care pot fi integrate, inclusiv modele de limbaj și viziune.
-0:30
-Prezentare generală asupra naturii ușoare a AI-Gateway și a aspectului său open-source.
-1:10
-Menționați capacitatea soluției de întreprindere de a procesa zilnic peste 10 miliarde(10B) de jetoane.
-6:40
-Începe instalarea PortKey-AI-Gateway, evidențiind ușurința sa de configurare.
-7:36
-Primul exemplu de integrare a AI-Gateway cu Llama 3.2, prezentând apelul API.
-9:49
-Discuție despre fiabilitatea balustradelor(bare-de-protectie) în AI-Gateway, cu teste practice prezentate.
-12:05
-Recapitulare a momentelor importante ale performanței și încurajarea spectatorilor să se aboneze.</pre>
-
-<hr/>
-
-</details>
+	<summary>PortKey-AI-GW...</summary>
 
 <hr/>
 
@@ -1083,8 +1051,10 @@ peste 1600 de modele de limbă, viziune, audio și imagine. 🔥
 
 <hr/>
 
+</details>
+
 <details>
-	<summary>GPTme</summary>
+	<summary>GPTme...QwQ...</summary>
 
  <hr/>
  
