@@ -934,7 +934,9 @@ Acest videoclip arată cum să instalați local [AgenticSeek](https://www.youtub
 	<summary>grupul de proiecte: PyMuPDF/PyMuPDF4LLM, Swarm of AI Agents, Gemma3(27B), Orpheus-TTS, Gemma3(12B), Nomic-Embed-Code, Qwen-Agent, Run LLM remotely on HF, Qwen2.5, Create DS using Ollama, IBM-Docling ...  </summary>
 
 <hr/>
-	
+
+Sa le analizam pe rand ....
+ 
 [<b>PyMuPDF</b> and <b>PyMuPDF4LLM</b> - Prepare PDF for LLM and RAG - Install Locally](https://www.youtube.com/watch?v=xR7er853eek&ab_channel=FahdMirza)
 <br/>[Ce este PyMuPDF și PyMuPDF4LLM?](https://github.com/pymupdf/PyMuPDF)
 <br/>Acest videoclip arată cum să instalați local, [PyMuPDF4LLM](https://github.com/pymupdf/PyMuPDF), pentru a facilita extragerea conținutului PDF în formatul de care aveți nevoie pentru LLM și RAG. 🔥
@@ -990,6 +992,8 @@ Acest videoclip arată cum să instalați local [AgenticSeek](https://www.youtub
 <br/>Acest videoclip arată cum să instalați IBM [Docling](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbVkyaVJrWlM3OGtoNENXVUhWLXVxcnVOajQzUXxBQ3Jtc0tsT18yRmZIZmc5bmRmb1o4V0hwUzRoREFodXJkcl85eGtFV29RNFkzSGpYRkFTM0Z6Uk5Cb1RsUUViQk5OMWNoa2xwNEFacV9aNG5XMDd6VmJSdUdSOW9HLVBPbVZIUTlWc2tSMk5XaUJsbmtMSEpSQQ&q=https%3A%2F%2Fgithub.com%2FDS4SD%2Fdocling&v=9gDJ6PhvVck) local, care citește formate de documente populare (PDF, DOCX, PPTX, Imagini, HTML, AsciiDoc, Markdown) și exportă în Markdown și JSON. 🚀 
 
 <hr/>
+
+</details>
 
 <details>
 	<summary>grupul de proiecte: CAMEL, PortKey, GPTme, DB-Agent, Kimi-VL, MCP, ...  </summary>
