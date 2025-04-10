@@ -351,6 +351,12 @@ Tot legat de [***agenti-AI***](https://www.youtube.com/watch?v=ffL-bJsW5Xk) este
 </details>
 
 <details>
+	<summary>subiecte discutate: ModernBERT-Embed-Base, </summary>
+
+Sa spunem cate ceva despre fiecare subiect in parte ...
+
+<hr/>
+<details>
 	<summary>Incorporatorul <b>ModernBERT Embed Base</b> de la Nomic</summary>
 
 <hr/>
