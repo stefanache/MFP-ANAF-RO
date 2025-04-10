@@ -1039,34 +1039,36 @@ peste 1600 de modele de limbă, viziune, audio și imagine. 🔥
       <summary>GPTme ... rezumat...video-YT...detalii...</summary>
 
 <hr/>
-<pre>Summary
-In this video, Fahad Mirza introduces the advancements made in the GPT Me project, particularly the integration of local models like
-Llama with agentic capabilities. 
-The video walks viewers through the process of installing GPT Me locally and demonstrates how to run it alongside LLaMA-based models. 
-Fahd also discusses the current limitations of these tools, especially in terms of their reasoning capabilities, while highlighting the
-potential they offer for various tasks, including coding and web searches.
 
-      Highlights
+<pre>Rezumat
+În acest videoclip, Fahad Mirza prezintă progresele realizate în proiectul GPT-Me, în special integrarea 
+modele locale precum LlaMA cu capacități agentice. 
+Videoclipul prezintă spectatorii prin procesul de instalare locală a GPT Me și demonstrează cum să-l ruleze împreună 
+Modele bazate pe LLaMA. 
+Fahd discută, de asemenea, limitările actuale ale acestor instrumente, în special în ceea ce privește capacitățile lor de raționament, 
+subliniind totodată potențialul pe care îl oferă pentru diverse sarcini, inclusiv codificare și căutări pe web.
+
+      Repere
 0:02
-Introduction of the video and topic overview by Fahd Mirza.
+Introducerea videoclipului și prezentarea generală a subiectului de către Fahd Mirza.
 0:15
-Discussion of the initial limitations of GPT-Me regarding local model support.
+Discuție despre limitările inițiale ale GPT-Me în ceea ce privește suportul modelului local.
 0:35
-Overview of the capabilities of GPT-Me as a terminal-based AI agent tool.
+Prezentare generală a capabilităților GPT-Me ca instrument de agent AI bazat pe terminal.
 1:06
-Explanation of tool support in models and the importance of selecting the right model for agentic capabilities.
+Explicația suportului pentru instrumente în modele și importanța selectării modelului potrivit pentru capabilitățile agentice.
 3:35
-Demonstration of downloading and running the QWQ model using LLaMA and showing VRAM consumption.
+Demonstrație de descărcare și rulare a modelului QWQ folosind LLaMA și arătând consumul de VRAM.
 4:37
-Installation process of GPT-Me explained, including usage of pip commands.
+Procesul de instalare a GPT-Me explicat, inclusiv utilizarea comenzilor pip.
 5:53
-Interaction with the GPT-Me model for generating a Python-script and saving it.
+Interacțiune cu modelul GPT-Me pentru generarea unui script Python și salvarea acestuia.
 9:00
-Testing the vision capabilities of the model with local images, indicating limitations.
+Testarea capacităților de vedere ale modelului cu imagini locale, indicând limitări.
 9:40
-Successful web search performed by the model, showcasing improved functionality.
+Căutare web de succes efectuată de model, prezentând funcționalitate îmbunătățită.
 10:29
-Conclusion discussing the overall progress of the system and</pre>
+Concluzie care discută progresul general al sistemului și...</pre>
 
 <hr/>
 
