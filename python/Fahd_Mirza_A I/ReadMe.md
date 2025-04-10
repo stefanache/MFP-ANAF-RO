@@ -934,9 +934,16 @@ Acest videoclip arată cum să instalați local [AgenticSeek](https://www.youtub
 
 </details>
 
+
+<details>
+	<summary>Biniou, LLM-conversation, GitDiagram, GemmaX2(9B), Run directly GGUF-Models from HF,  ...</summary>
+
+
+Sa analizam pe rand fiecare subiect in parte ...
+
 <hr/>
 
-[Biniou - Generate Text, Video, Image, Music, 3D Locally - Free and Private](https://www.youtube.com/watch?v=7JFU3W045hE&ab_channel=FahdMirza)
+[<b>Biniou</b> - Generate Text, Video, Image, Music, 3D Locally - Free and Private](https://www.youtube.com/watch?v=7JFU3W045hE&ab_channel=FahdMirza)
 <br/>Acest videoclip arată cum să instalați și să utilizați [Biniou](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbkFncXdyV0txaHhxMDRXLUpWVTVtX2RBMWtfZ3xBQ3Jtc0tsZzRHNXV4MXMwNk5aaGY4VndLTUhsVXZIcUpmb08wQmUwSFVyM2JHN0FqVU12VTJKdHlYQ0RsMGR5VjhGdW5ocmQyUnRjLS03dThTeC1Ddnh4cm5GTXcxUXllVzMxcEVHYmtJU3RJRmE4WjhSRzZSRQ&q=https%3A%2F%2Fgithub.com%2FWoolverine94%2Fbiniou&v=7JFU3W045hE), care este o interfață web all-in-one pentru AI. 
 <br/>În acest videoclip, prezentatorul prezintă „Biniou(a se citi Binu)”, o nouă interfață-web concepută pentru a rula modele mari de limba(LLM-uri) local și offline. 
 <br/>Procesul de instalare pe Linux(nu am incercat... dar probabil ca acesta va functiona si [de] sub Windows 10/11 sau cel putin/macar [de] sub WSL) este demonstrat, arătând cât de ușor este să configurați și să gestionați diverse instrumente AI-generative, incluzand aici generarea de text, imagini, video și audio. 
@@ -945,18 +952,10 @@ Acest videoclip arată cum să instalați local [AgenticSeek](https://www.youtub
 <hr/>
 
 [LLM-conversation](https://www.youtube.com/watch?v=D6vw-FLGQ-c&ab_channel=FahdMirza)
-<br/>Acest videoclip instalează local această aplicație Python care permite conversații între agenții LLM folosind API-ul**Ollama**. 🔥
-<br/>În acest videoclip, Fahd Mirza prezintă un proiect inovator care utilizează modele în limba(LLM) locală pentru a facilita conversațiile dintre ei. 
+<br/>Acest videoclip instalează local această aplicație Python care permite conversații între agenții-LLM folosind API-ul **Ollama**. 🔥
+<br/>În acest videoclip, Fahd-Mirza prezintă un proiect inovator care utilizează modele în limba(LLM) locală pentru a facilita conversațiile dintre ei. 
 <br/>[Proiectul-github](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbkc2SlBwbmVtcWJiQXpjekFQeWlNQjJGMmFFQXxBQ3Jtc0tsazhBam5qc0l3MFctU2tSOGxYZTNCMEFzSGVwaEdsQVJKWU5PTW1vdVhmZjZQVW1FVEdsSjR4dzdOck5TT1dmS2pjZGt1S3dIeW1hUHJjbHRubXljMmx5WVk0ZFJmMFpDd0R1UlhZOW9aUzhOZDN0Yw&q=https%3A%2F%2Fgithub.com%2Ffamiu%2Fllm_conversation&v=D6vw-FLGQ-c), conceput ca o aplicație Python ușoară, oferă utilizatorilor posibilitatea de a personaliza interacțiunile prin definirea parametrilor modelului, cum ar fi temperatura și dimensiunea contextului. 
 <br/>Fahd-Mirza demonstrează procesul de configurare, instalarea componentelor necesare și prezintă diverse scenarii conversaționale, subliniind natura jucăușă și interactivă a acestui proiect model de limbaj(LLM) de origine.
-
-<hr/>
-
-<details>
-	<summary>GitDiagram, GemmaX2(9B), Run directly GGUF-Models from HF,  ...</summary>
-
-
-Sa analizam pe rand fiecare subiect in parte ...
 
 <hr/>
 
