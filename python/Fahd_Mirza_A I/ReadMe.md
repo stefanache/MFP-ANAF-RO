@@ -74,7 +74,7 @@ Daca doriti sa testati un [**RAG multimodal(imagini si text)**](https://www.link
 </details>
 
 <details>
-	<summary>model ASR | S2T</summary>
+	<summary>model ASR | S2T: Moonshine</summary>
 
 <hr/>
 
@@ -109,6 +109,10 @@ Desigur acesta este un exemplu de inceput(daca vreti ... un exemplu de testare a
 
 </details>
 
+<details>
+	<summary>MindsDB</summary>
+
+<hr/>
 
 La un moment dat, s-a simtit nevoia de ... integrare a continutului structurat, specific stocat in bazele de date relationale(SQL DB), cu cel nestructurat, continut de asemenea masiv, dar,  stocat, de aceasta data, in documente.
 
@@ -171,6 +175,9 @@ Desigur, suplimentar, daca aveti de lucrat(sa spunem/luam cazul ne[*Docker*](htt
 </details>
 
 <hr/>
+
+</details>
+
 
 <details>      
 <summary>Si acum... cateva lucruri despre <b>agentii-AI</b>...</summary>
