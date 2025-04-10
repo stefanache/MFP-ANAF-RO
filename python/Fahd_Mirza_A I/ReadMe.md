@@ -1155,8 +1155,8 @@ Videoclipul evidențiază aspecte distinctive ale arhitecturii modelului care aj
 0:02
 Fahd Mirza salută spectatorii și prezintă Kim-VL, subliniind capacitățile sale avansate de raționament multimodal.
 0:39
-Explicație a <a href="https://www.researchgate.net/publication/333368176_Incorporating_Joint_Embeddings_into_Goal-Oriented_Dialogues_with_Multi-task_Learning">arhitecturii-KVL</a>(Încorporarea înglobărilor comune în dialogurile orientate spre obiective cu învățare cu sarcini multiple), 
-detaliind amestecul său de decodor de limbaj expert(MoE) pentru o înțelegere multimodală eficientă.
+Explicație a <a href="https://www.researchgate.net/publication/333368176_Incorporating_Joint_Embeddings_into_Goal-Oriented_Dialogues_with_Multi-task_Learning">arhitecturii-KVL</a>(Încorporarea înglobărilor comune în dialogurile orientate spre obiective cu învățare cu 
+sarcini multiple), detaliind amestecul său de decodor de limbaj expert(MoE) pentru o înțelegere multimodală eficientă.
 3:22
 Descărcarea modelului este în curs; 
 Fahd discută despre procesul de <a href="https://dexonline.ro/definitie/inferen%C8%9B%C4%83">inferență(deductie)</a> cu două imagini pentru a testa abilitățile de raționament ale modelului.
