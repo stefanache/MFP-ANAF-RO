@@ -955,11 +955,18 @@ Acest videoclip arată cum să instalați local [AgenticSeek](https://www.youtub
 <hr/>
 
 <pre>Rezumat
-În acest videoclip, Fahad Mza prezintă PortKey AI Gateway, o soluție ușoară și open-source concepută pentru rutarea rapidă, fiabilă și sigură a modelelor AI, cu o latență de mai puțin de 1 milisecundă. El demonstrează instalarea acestui gateway la nivel local alături de framework-ul AMA și modelul Llama 3.2. De-a lungul videoclipului, Fahad evidențiază caracteristici precum reîncercări automate, alternative și bare de protecție, subliniind potențialul sistemului, recunoscând în același timp limitările acestuia. În cele din urmă, el oferă exemple practice pentru a arăta cum să utilizați eficient AI Gateway, oferind în același timp perspective asupra potențialelor îmbunătățiri.
+
+      În acest videoclip, Fahd-Mirza prezintă PortKey-AI-Gateway, o soluție ușoară și open-source 
+concepută pentru rutarea rapidă, fiabilă și sigură a modelelor AI, cu o latență de mai puțin de 1 milisecundă. 
+      El demonstrează instalarea acestui gateway la nivel local alături de framework-ul LLaMA și modelul Llama 3.2. 
+      De-a lungul videoclipului, Fahd evidențiază caracteristici precum reîncercări automate, alternative și 
+bare de protecție, subliniind potențialul sistemului, recunoscând în același timp limitările acestuia. 
+      În cele din urmă, el oferă exemple practice pentru a arăta cum să utilizați eficient AI Gateway, 
+oferind în același timp perspective asupra potențialelor îmbunătățiri.
 
       Repere
 0:02
-Introducerea PortKey AI Gateway și a funcționalităților sale de bază.
+Introducerea <a href="https://www.youtube.com/watch?v=mR-L8DNN5K8&ab_channel=FahdMirza">PortKey-AI-Gateway</a> și a funcționalităților sale de bază.
 0:16
 Discuție asupra tipurilor de modele care pot fi integrate, inclusiv modele de limbaj și viziune.
 0:30
