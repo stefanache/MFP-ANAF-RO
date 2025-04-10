@@ -1066,7 +1066,7 @@ Procesul de instalare a GPT-Me explicat, inclusiv utilizarea comenzilor pip.
 5:53
 Interacțiune cu modelul GPT-Me pentru generarea unui script Python și salvarea acestuia.
 9:00
-Testarea capacităților de vedere ale modelului cu imagini locale, indicând limitări.
+Testarea capacităților de vedere/viziune ale modelului cu imagini locale, indicând limitări.
 9:40
 Căutare web de succes efectuată de model, prezentând funcționalitate îmbunătățită.
 10:29
