@@ -338,6 +338,9 @@ Tot legat de [***agenti-AI***](https://www.youtube.com/watch?v=ffL-bJsW5Xk) este
 
 </details>
 
+<details>
+	<summary>Incorporatorul <b>ModernBERT Embed Base</b> de la Nomic</summary>
+
 <hr/>
 
 Acum, sa ne concetram/focusam atentia asupra unei parti importante a unui RAG si anume partea de incorporare(partea de <b>transformare</b> a propozitiilor unui text in vectori numerici)
@@ -509,7 +512,13 @@ acesteia cautand similaritatile.
        
 ***OBS:*** În cazul **Transformers**, puteți trunchia înglobările la o dimensiune mai mică prin/folosind tăierea înglobărilor(..._embeddings[:, :truncate_dim]) medii grupate, înainte de normalizare: ... = F.normalize(..._embeddings, p=2, dim=1)!
 </details>
+
 <hr/>
+
+</details>
+
+<hr/>
+
 <details>
 <summary>Recent a aparut modelul local <a href="https://www.youtube.com/watch?v=CV8TE9aE1xM&t=22s"><b>Dolphin 3.0 Llama 3.1 8B</b></a></summary>
 
