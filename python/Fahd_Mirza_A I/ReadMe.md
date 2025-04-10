@@ -932,7 +932,15 @@ Acest videoclip arată cum să instalați local [AgenticSeek](https://www.youtub
 
 <hr/>
 
-[GitDiagram - Free, Simple, Fast Interactive Diagrams for Any GitHub Repo - Install Locally](https://www.youtube.com/watch?v=tHHRDZtBTCQ&ab_channel=FahdMirza)
+<details>
+	<summary>GitDiagram, GemmaX2(9B), Run directly GGUF-Models from HF,  ...</summary>
+
+
+Sa analizam pe rand fiecare subiect in parte ...
+
+<hr/>
+
+[<b>GitDiagram</b> - Free, Simple, Fast Interactive Diagrams for Any GitHub Repo - Install Locally](https://www.youtube.com/watch?v=tHHRDZtBTCQ&ab_channel=FahdMirza)
 <br/>Acest videoclip instalează [GitDiagram](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbG1aelN6M1I1MmV5YjZ1OEtqY0V1TjNIU01IQXxBQ3Jtc0ttQVZNeG8xTEI2YWc0MmZldXNERXc1Mkl0bF9BMjFINVIyOFZZcHUybHBENFA0RmFyRnItbFYyQjZVb2p0N1dxQ2stYlpQSlcxbWZvUHlPZWYwNjV0aWdYY3ZRdzZmNjc4X3NGWnB1N2ZZYklvTENwcw&q=https%3A%2F%2Fgithub.com%2Fahmedkhaleel2004%2Fgitdiagram&v=tHHRDZtBTCQ), care vă permite să transformați orice depozit-GitHub(repository/repo) într-o diagramă-interactivă pentru vizualizare în câteva secunde. 🔥
 <br/>În acest videoclip, ***Fahd-MIRZA*** prezintă un proiect care convertește orice depozit-GitHub într-o diagramă de arhitectură-interactivă pentru vizualizare. <br/>Acest instrument rulează pe modele-API de la ***OpenAI*** și ***Anthropic*** și permite utilizatorilor să navigheze direct prin diferite componente ale unui repo[sitory]. 
 <br/>Procesul de instalare este, de asemenea, detaliat, inclusiv cerințele preliminare necesare, cum ar fi **NodeJS**, **Docker** și configurarea *cheilor-API*. 
@@ -940,7 +948,7 @@ Acest videoclip arată cum să instalați local [AgenticSeek](https://www.youtub
 
 <hr/>
 
-[GemmaX2 9B - LLM-based Translation Model - Install Locally](https://www.youtube.com/watch?v=7qsosU4PcdE&ab_channel=FahdMirza)
+[<b>GemmaX2(9B)</b> - LLM-based Translation Model - Install Locally](https://www.youtube.com/watch?v=7qsosU4PcdE&ab_channel=FahdMirza)
 <br/>Acest videoclip instalează local [GemmaX2-28-9B-v0.1](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbjdqOG1IaG5KUEUtWmhkcjRZYnpwQ0pXN3Y3QXxBQ3Jtc0tuUkc5cVpsX1RGOTJGZWJGQ2N4ckQxZ19kSFI5T2x5dmJFc3BmZGZyZ1dMRWZvYXloeEF2OU83YkFDZmdlcDJJRVFkU29hNkpVZTVzVGxwNlBUZHJKNm12eGZzRmw1ei1YREJ0b1Z1TlF3ZzVBWWtuQQ&q=https%3A%2F%2Fhuggingface.co%2FModelSpace%2FGemmaX2-28-9B-v0.1&v=7qsosU4PcdE), care este un model de traducere bazat pe LLM care acceptă 28 de limbi. 🔥
 <br/>În acest videoclip, d-nul Fahd-Mirza explorează **GemmaX2**, un model de limbă(LLM) conceput special pentru ***traducerea multilingvă***, care cuprinde două variante de 2 miliarde(2B) și 9 miliarde(9B) de parametri. 
 <br/>Modelul utilizează o strategie unică de amestecare a datelor, cunoscută sub numele de **PFMS** (în primul rând paralel, in al doilea rand mono-lingv) pentru o instruire îmbunătățită în 28 de limbi(naturale). 
@@ -948,13 +956,15 @@ Acest videoclip arată cum să instalați local [AgenticSeek](https://www.youtub
 
 <hr/>
 
-[How-To Run Private GGUF Models from Hugging Face Hub Directly in Ollama](https://www.youtube.com/watch?v=vkXzeVUvV24&ab_channel=FahdMirza)
+[How-To Run Private <b>GGUF-Models</b> from Hugging Face Hub Directly in Ollama](https://www.youtube.com/watch?v=vkXzeVUvV24&ab_channel=FahdMirza)
 <br/>Acest videoclip oferă o demonstrație pas cu pas despre cum să rulați LLM-uri de tip [GGUF](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbTJpc1IyWmZtR05sZzlnQ25YdjQ2cFlnbXcxUXxBQ3Jtc0trTlUtc2J3VUhxbnNsWlVPemNIb0hDeTA5dGVUYXlPQUNkQUpuWmJ5SXNUc0dBeE4yZWZjbm10NnlQTjJzQndXZ3lnYTg0M1lfZUJ5UEdqNWwwNEdsSkNEemg5aWNNY05fMjJhUnJHZGRRMldfWlhvTQ&q=https%3A%2F%2Fhuggingface.co%2Fdocs%2Fhub%2Fen%2Follama&v=vkXzeVUvV24)-urile private din hub-ul Hugging Face direct în **Ollama**(serverul local de LLM-uri/stocate si ele tot local sau la distanta pe HF). 🔥
 <br/>În acest videoclip, Fahd Mirza ne prezintă **Hugging-Face(HF)**(un binom din internet: hub/depozit+website) și **Ollama**(a se citi AMA si care... se instaleaza ca un server/serviciu local), două platforme pe care le folosim frecvent pentru a lucra cu modele de limbaj mari(**LLM**-uri). 
 <br/>El evidențiază o nouă caracteristică de la **Hugging-Face**, care permite utilizatorilor să ruleze depozite private la nivel local folosind **Ollama**, facilitând gestionarea în siguranță a modelelor de către indivizi și organizații. 
 <br/>Tutorialul ghidează utilizatorii prin crearea unui depozit privat pe **Hugging-Face**, configurarea **cheilor-SSH** pentru conectivitate sigură și demonstrarea cum să ruleze aceste modele private la nivel local(fără a fi nevoie să introduceți parole). 
 
 <hr/>
+
+</details>
 
 <details>
 	<summary>grupul de proiecte: PyMuPDF / PyMuPDF4LLM, Swarm of AI Agents, Gemma3(27B), Orpheus-TTS, Gemma3(12B),...<br/>
