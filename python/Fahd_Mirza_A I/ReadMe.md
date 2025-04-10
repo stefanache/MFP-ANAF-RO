@@ -1260,8 +1260,8 @@ python client.py
 
 🚩 <ins>Step-3: SQLite Database MCP-Example:</ins> 
  - pe parte de server: a.1) si a.2)
-iar 
- - pe parte de client: b)
+ - iar pe parte de client: b)
+
 ✅ a.1)SQLite DB Setup (~/sqlite-mcp-server/setup_db.py)
 <code>
 import sqlite3
