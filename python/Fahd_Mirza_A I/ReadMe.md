@@ -1124,9 +1124,56 @@ Asigurarea că tot codul folosit va fi distribuit pe blogul prezentatorului, inv
 11:10
 Încurajarea de a vă abona la canal și de a partaja conținutul, evidențiind implicarea comunității.</pre>
 
-...
-
+<hr/>
 
  </details>
 
  <hr/>
+
+ [Kimi VL A3B Thinking - Model MoE Vision cu raționament multimodal - Instalați local](https://www.youtube.com/watch?v=yzF6DJHHBq0&ab_channel=FahdMirza)
+ <br/>Acest videoclip instalează local [Kimi-VL](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbmJOLXhhODYzeGp2d2RJVUt2QlZqMnRSZVh2d3xBQ3Jtc0tscV9tczl4c2xCQ05MY1BRSkI0QVg5RzlydFNkSEV4ZXQ4aGxnOHJYMlFhdmt0WXBrWEVMUUxkbktPdUIxeTNXYndaS2JjcDROM2xCOGtidVNPRFFDMGxMX3U3cElhOXZoVC0xdi1wbFZRRVZmTkdyNA&q=https%3A%2F%2Fhuggingface.co%2Fmoonshotai%2FKimi-VL-A3B-Thinking&v=yzF6DJHHBq0), un model de limbaj de viziune (VLM) cu sursă deschisă eficientă Mixture-of-Experts (MoE). 🔥
+
+ <details>
+       <summary>Kim VL ... rezumat...video-YT...detalii...</summary>
+
+<hr/>
+       
+<pre>
+      Rezumat
+În acest videoclip, Fahd Mirza prezintă Kim-VL, un model avansat de limbaj de viziune, multimodal, open-source care realizează un 
+raționament eficient cu doar 2,8 parametri activați. 
+Procesul de instalare al variantei sale extinse, KVL, este demonstrat împreună cu testele pe diferite criterii de referință. 
+Caracteristicile cheie includ performanța sa puternică în 
+      OCR, 
+      raționamentul matematic, 
+      înțelegerea mai multor imagini și 
+      interpretarea contextului, 
+rezultatele arătând capacități superioare în comparație cu modelele de ultimă generație.
+Videoclipul evidențiază aspecte distinctive ale arhitecturii modelului care ajută abilitățile sale avansate de raționament.
+
+      Repere
+0:02
+Fahd Mirza salută spectatorii și prezintă Kim VL, subliniind capacitățile sale avansate de raționament multimodal.
+0:39
+Explicație a arhitecturii KVL, detaliind amestecul său de decodor de limbaj expert pentru o înțelegere multimodală eficientă.
+3:22
+Descărcarea modelului în curs; Fad discută despre procesul de inferență cu două imagini pentru a testa abilitățile de raționament 
+ale modelului.
+4:48
+Kim VL începe să tragă concluzii despre un manuscris decolorat, identificând autorul și contextul printr-un raționament pas cu pas.
+6:45
+Fad începe să testeze capabilitățile OCR în diferite limbi, cum ar fi chineză și indoneziană, examinând performanța modelului.
+8:44
+Fad îl îndeamnă pe Kim VL să abordeze o problemă de ambuteiaj și evaluează capacitatea sa de a oferi soluții pas cu pas.
+10:03
+Modelul are sarcina de a deduce emoțiile umane dintr-o imagine, demonstrând raționamentul său coerent și analiza contextului.
+11:49
+Fahd invită spectatorii să se aboneze și să partajeze canalul, subliniind implicarea comunității și sprijinul pentru conținut.</pre>
+
+<hr/>
+
+ </details>
+ 
+<hr/>
+
+....
