@@ -714,7 +714,7 @@ Acest videoclip arată cum să instalați local [AgenticSeek](https://www.youtub
 
 
 <details>
-	<summary>Thera, Fin-R1, MoonCast, Extract-SD-from-Any-PDF, Teapot,OlympicCoder(7B), Parse-Vision,    ...</summary>
+	<summary>grupul de proiecte: Thera, Fin-R1, MoonCast, Extract-SD-from-Any-PDF, Teapot,OlympicCoder(7B), Parse-Vision,    ...</summary>
 
 <br/>Sa analizam pe rand fiecare subiectin parte ...
 
@@ -763,7 +763,7 @@ Acest videoclip arată cum să instalați local [AgenticSeek](https://www.youtub
 </details>
 
 <details>
-	<summary>HVI/MM, Deep-Researcher, Hugging-Face(HF), FastCuRL(1.5B), ColNomic-Embed-Multimodal(3B) ...</summary>
+	<summary>grupul de proiecte: HVI/MM, Deep-Researcher, Hugging-Face(HF), FastCuRL(1.5B), ColNomic-Embed-Multimodal(3B) ...</summary>
 
  <br/>Hai sa analizam fiecare topic in parte...
  
@@ -804,7 +804,7 @@ Acest videoclip arată cum să instalați local [AgenticSeek](https://www.youtub
 </details>
 
 <details>
-	<summary>Biniou, LLM-conversation, GitDiagram, GemmaX2(9B), Run directly GGUF-Models from HF,  ...</summary>
+	<summary>grupul de proiecte: Biniou, LLM-conversation, GitDiagram, GemmaX2(9B), Run directly GGUF-Models from HF,  ...</summary>
 
 Sa analizam pe rand fiecare subiect in parte ...
 
