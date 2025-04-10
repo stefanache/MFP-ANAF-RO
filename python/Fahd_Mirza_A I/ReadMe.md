@@ -1434,6 +1434,7 @@ Repere
 
 ...
 
+</details>
 
 <details>
       <summary>La final, voi enumera cateva dintre <b>proiectele interesante</b>, prezentate pe YouTube(<b>YT</b>), de catre domnul <b>Fahd-Mirza</b> si numai...</summary>
@@ -1584,5 +1585,3 @@ Aici voi insira o selectie de proiecte [interesante](https://huggingface.co/fahd
 
 </details>
 
-</details>
-....
