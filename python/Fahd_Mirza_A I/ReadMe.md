@@ -1035,7 +1035,7 @@ peste 1600 de modele de limbă, viziune, audio și imagine. 🔥
 
 [GPT-Me](gptme.org/docs/) este Agentul dvs. din terminalul dvs. si este echipat cu/ofera urmatoarele instrumente-locale: 
  - scrierea de cod(fiind un generator/sintetizator de cod),
- - folosește/acceseaza terminalul(genereaza comenzi pt terminal),
+ - folosește/acceseaza terminalul(instrument de agent-AI bazat pe UI=terminal),
  - navighează pe web,
  - vizualizează.
 
