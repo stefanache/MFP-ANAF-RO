@@ -1032,12 +1032,14 @@ peste 1600 de modele de limbă, viziune, audio și imagine. 🔥
 
 [Install GPTme with Ollama and QwQ Locally - AI Agents in Terminal](https://www.youtube.com/watch?v=QBmFw7eiLPU&ab_channel=FahdMirza)
 <br/>Acest videoclip arată cum să instalați local [GPTme](https://github.com/ErikBjare/gptme ) și să îl integrați cu Ollama pentru viziune, utilizarea browserului și alte instrumente. 🔥
-<br/>[GPT-Me](gptme.org/docs/) este Agentul dvs. din terminalul dvs. si este echipat/ofera cu instrumente-locale: 
+
+[GPT-Me](gptme.org/docs/) este Agentul dvs. din terminalul dvs. si este echipat/ofera cu instrumente-locale: 
  - scriere de cod(generator/sintetizator de cod),
  - folosește/accesarea terminalul,
  - navighează pe web,
  - vizualizează.
-<br/>QwQ este un model de rezumare din seria Qwen(oferit de Alibaba grup)
+
+QwQ este un model de rezumare din seria Qwen(oferit de Alibaba grup)
 <br/>LLM-uri oferite de cei de la Meta: LLama3.3(70B),LLama3.2(1B si 3B),LLama3.1(405B)
 
 <details>
