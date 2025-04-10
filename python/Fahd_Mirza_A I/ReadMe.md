@@ -1236,6 +1236,23 @@ pentru conținut.</pre>
 	<summary>MCP...client-server...</summary>
 <hr/>
 
+
+Model Context Protocol([MCP](https://www.pt.ro/ce-este-mcp-model-context-protocol/)) este un standard deschis propus de Anthropic pentru a conecta 
+ - sistemele de inteligență artificială (precum asistenții bazați pe LLM)
+ - la sursele de date și uneltele externe de care au nevoie
+([Model Context Protocol · GitHub](https://github.com/modelcontextprotocol#:~:text=The%20Model%20Context%20Protocol%20,with%20the%20context%20they%20need)).
+
+Pe scurt, MCP oferă o modalitate standardizată prin care modelele lingvistice pot accesa „contextul” relevant – fie că este vorba de 
+			 - fișiere,
+			 - baze de date,
+			 - aplicații de business sau
+			 - alte servicii
+– eliminând izolarea acestor modele de datele organizaționale importante. 
+Scopul MCP este de a ajuta modelele avansate să producă răspunsuri mai bune și mai relevante, având acces la 
+ - informațiile actualizate și
+ - instrumentele potrivite
+([Introducing the Model Context Protocol \ Anthropic](https://www.anthropic.com/news/model-context-protocol#:~:text=business%20tools%2C%20and%20development%20environments,produce%20better%2C%20more%20relevant%20responses)).
+
 [Easiest Tutorial on Model Context Protocol (MCP) - Hands-on](https://www.youtube.com/watch?v=C2UnDOt-f3M&ab_channel=FahdMirza)
 <br/>Acest [videoclip](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa2xZRWRtRGt6aVVHOGZzT0s3eGgxbmFYeDV4Z3xBQ3Jtc0tuemhESVpOeUp4anlubjh2OUtIZE5ETjVvNnNSSUFZMHFLaEptZHd5c2lfSmJqeU5HSEYwMkw1SHZuMGVzRmFwMjUtWTNlVXp4U3VadzdvMnVwd042dVZJcEUzR0FIRC1INF9vU1JUeGJBeVNZcUxsTQ&q=https%3A%2F%2Fwww.fahdmirza.com%2F2025%2F04%2Fhow-to-build-mcp-server-and-client-step.html&v=C2UnDOt-f3M) este un tutorial foarte simplu pas cu pas despre Protocolul de Context Model([MCP Anthropic](https://www.fahdmirza.com/2025/04/how-to-build-mcp-server-and-client-step.html)) cu o lume bună și apoi un exemplu din lumea reală(pentru a testa [codul-python](https://github.com/fahdmirza/mcp), veti avea nevoie de o [cheie-API](https://docs.anthropic.com/en/api/admin-api/apikeys/get-api-key) gratuita/free  de la Anthropic). 🔥
 
