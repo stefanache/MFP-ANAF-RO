@@ -764,10 +764,11 @@ Aici voi insira o selectie de proiecte [interesante](https://huggingface.co/fahd
 
 </details>
 
+<details>
+	<summary>Articol cu privire la NLP-tasks..., MS-Data-Formulator, AirLLM si Harbor, ...</summary>
+
+Sa le analizam pe rand in cele ce urmeaza...
 <hr/>
-
-
-
 
  Aici puteti consulta un [articol](https://medium.com/@harshapulletikurti/choosing-the-correct-llm-model-from-hugging-face-hub-183fc6198295) despre [strategia](https://paperswithcode.com/methods) pe care trebuie sa o alegeti, atunci cand va trebui sa folositi, intr-un [NLP](https://www.trantorinc.com/blog/natural-language-processing-with-python)-[task](https://medium.com/nlplanet/two-minutes-nlp-33-important-nlp-tasks-explained-31e2caad2b1b)/[NLP](https://towardsai.net/p/editorial/natural-language-processing-nlp-with-python-tutorial-for-beginners-1f54e610a1a0)-[sarcina](https://huggingface.co/docs/hub/models-tasks), un [LLM](https://huggingface.co/docs/hub/spaces) ori o [librarie](https://www.upgrad.com/blog/python-nlp-libraries-and-applications/)(incluzand aici si [algoritmii](https://shelf.io/blog/18-effective-nlp-algorithms-you-need-to-know/)) sau [altul](https://www.geeksforgeeks.org/natural-language-processing-nlp-tutorial/)/[alta](https://www.kaggle.com/code/faressayah/natural-language-processing-nlp-for-beginners).
 
@@ -779,7 +780,7 @@ Iata aici un [data-formulator](https://www.youtube.com/watch?v=ySWRDqrzKrk&ab_ch
 
 <hr/>
 
-[Incrdibil!](https://huggingface.co/blog/lyogavin/airllm)
+[Incredibil!  Sa facem cunostinta cu AirLLM ](https://huggingface.co/blog/lyogavin/airllm)
 
 In acest fragment de articol, incerc sa aduc in centrul atentiei un instrument-*backend* de [optimizare](https://github.com/av/harbor), de/in timp-real(de fapt o [bibilioteca](https://www.reddit.com/r/LocalLLaMA/comments/1ckxzi3/airllm_batching_ram_size_doesnt_limit_throughput/?tl=ro) Python) care permite sa rulati local un LLM cu un consum  <ins>redus de VRAM</ins>(de memorie-virtuala GPU).
 <br/>Este vorba despre produsul software [**AirLLM**](https://www.youtube.com/watch?v=gYBlzMsII9c&ab_channel=FahdMirza), prezentat pe youtube(YT) de catre dl.Fahd-Mirza!
@@ -790,6 +791,10 @@ In acest fragment de articol, incerc sa aduc in centrul atentiei un instrument-*
 <br>Sub rezerva ca acest proiect este un proiect inca "tanar"(aflat sub un intens proces de dezvoltare/implementare), recomand totusi sa consultati(in extenso/ca bonus!), instrumentul-integrator [Harbor](https://github.com/av/harbor), care poate fi folosit ca instrument-CLI pt automatizarea crearii de [arhitecturi-complete/customizabile/configurabile-AI](https://techshinobi.org/posts/easy-local-llm/)(UI + Backend + eventual_Servicii_anexe/suplimentare/sateliti/ajutatoare/complementare).
 <br/>[Harbor](https://github.com/av/harbor) va permite sa rulați fără efort backend-uri, API-uri, front-end-uri și servicii LLM cu/utilizand o singură comandă.
 <br/>[Harbor](https://github.com/av/harbor) trebuie sa fie instalat pe/sub *Linux* si necesita [*Docker*](https://docs.docker.com/desktop/wsl/#enabling-docker-support-in-wsl-2-distros)(pe/pt. Windows necesita [WSL2](https://docs.docker.com/desktop/wsl/#enabling-docker-support-in-wsl-2-distros) pt a avea la dispozitie si a beneficia de Linux) ca si suport(Linux si Docker sunt cerinte-preinstalate/preliminare!). 
+
+<hr/>
+
+</details>
 
 <hr/>
 
