@@ -765,7 +765,7 @@ Aici voi insira o selectie de proiecte [interesante](https://huggingface.co/fahd
 </details>
 
 <details>
-	<summary>Articol cu privire la NLP-tasks..., MS-Data-Formulator, AirLLM si Harbor, ...</summary>
+	<summary>subiecte: Articol cu privire la NLP-tasks..., MS-Data-Formulator, AirLLM si Harbor, ...</summary>
 
 Sa le analizam pe rand in cele ce urmeaza...
 <hr/>
@@ -796,35 +796,40 @@ In acest fragment de articol, incerc sa aduc in centrul atentiei un instrument-*
 
 </details>
 
+<details>
+	<summary>grupul de proiecte: LHM, Orpheus.cpp, ZEUS Bolt-Graphics, Sesame-CSM(1B), AgenticSeek, RTX-4090 modified to Have 96GB-VRAM, QvQ-Max   ...</summary>
+	
+<br/>Hai sa dicutam despre ... fiecare proiect in parte...
+	
 <hr/>
 
-[LHM](https://www.youtube.com/watch?v=2rT90vdwd04&ab_channel=FahdMirza)
+[<b>LHM</b>](https://www.youtube.com/watch?v=2rT90vdwd04&ab_channel=FahdMirza)
 <br/>Acest videoclip instalează local [LHM](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbnJnWk5PMF9vV0hoUk1xTVViYjN6LXhOVWVQUXxBQ3Jtc0trM0FuSk1HTGw4b1pKMV81czRZcmxTZ3ptQjdFVDFnbzlFQ01SaFJDdVp6V1NQa0Itd2pkQmQ3Z0lJWkV5eFNHZFlVZG9LYlZ2YjNaMWFPTWVtWGdvNXdrYWprQzhVTDQ1WkhkTnNXQUljUkRrOGotaw&q=https%3A%2F%2Fgithub.com%2Faigc3d%2FLHM&v=2rT90vdwd04): Large Animatable Human Reconstruction Model pentru o singură imagine în 3D în câteva secunde. 
 
 <hr/>
 
-[txt2audio=TTS: Orpheus.cpp](https://www.youtube.com/watch?v=3l_65hgyfRI&ab_channel=FahdMirza)
+[txt2audio=TTS: <b>Orpheus.cpp</b>](https://www.youtube.com/watch?v=3l_65hgyfRI&ab_channel=FahdMirza)
 <br/>Acest videoclip instalează local [Orpheus.cpp](https://github.com/freddyaboulton/orpheus-cpp), care vă permite să creați audio din text pe CPU. 
 <br/>Streaming(flux) rapid TTS cu [Orpheus](https://github.com/freddyaboulton/orpheus-cpp) + WebRTC (cu FastRTC)
 
 <hr/>
 
 [Meet ZEUS: The INSANE 2TB GPU That Could Change Everything!](https://www.youtube.com/watch?v=kyj2WTB3Wug&ab_channel=FahdMirza)(a se citi si transcriptul-YT!)
-<br/>[Bolt Graphics](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbWcyNnJpMU9oUDNzSHF0QkpDbjNMN1VYSGRRQXxBQ3Jtc0ttNzhrTnFYRDFWSmswcHVlR1gzbTczc3ZuUWg2aDZlbnRkelphNzVrUU9wTk0wTDZIOXJQc3llQ09HVVl1V2dOZlR5NkkwOGhYdTlRMmd4aTZ0YTNURjBianJhWnR0TmMyZk1HQ2hpT2N6NUxhelNFcw&q=https%3A%2F%2Fbolt.graphics%2F&v=kyj2WTB3Wug) ZEUS GPU include arhitectura RISC-V, 2TB memorie și 800GbE integrat – poate provoca NVIDIA în dominația AI? 
+<br/>[Bolt-Graphics](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbWcyNnJpMU9oUDNzSHF0QkpDbjNMN1VYSGRRQXxBQ3Jtc0ttNzhrTnFYRDFWSmswcHVlR1gzbTczc3ZuUWg2aDZlbnRkelphNzVrUU9wTk0wTDZIOXJQc3llQ09HVVl1V2dOZlR5NkkwOGhYdTlRMmd4aTZ0YTNURjBianJhWnR0TmMyZk1HQ2hpT2N6NUxhelNFcw&q=https%3A%2F%2Fbolt.graphics%2F&v=kyj2WTB3Wug) ZEUS GPU include arhitectura RISC-V, 2TB memorie și 800GbE integrat – poate provoca NVIDIA în dominația AI? 
 
 <hr/>
 
-[Sesame CSM 1B - Install Locally - Conversational Speech Model](https://www.youtube.com/watch?v=ULV6cXgnkAo&ab_channel=FahdMirza)
+[<b>Sesame-CSM(1B)</b> - Install Locally - Conversational Speech Model](https://www.youtube.com/watch?v=ULV6cXgnkAo&ab_channel=FahdMirza)
 <br/>Acest videoclip instalează local [CSM 1B](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqblctckNVdTNkRnJJMEk2eFc2T1JoNTQ3b0swZ3xBQ3Jtc0ttQUZyQ19BV21qeHhjUXBwR3VHWE9mV3BGdUxOOGlwU2I5bkIxVHh5Tm1halhWcnRJSUVkejhXaVd2dDNVVWx3NUVVLXhDM2JER1I1dTB3bUNhLUl4cW1PVldhNUVoNy0xdXpydElNMG5xZFpiS25oYw&q=https%3A%2F%2Fhuggingface.co%2Fsesame%2Fcsm-1b&v=ULV6cXgnkAo) (Conversational Speech Model) de la Sesame pentru prezența vocală.
 
 <hr/>
 
-[AgenticSeek by Manus AI](https://www.youtube.com/watch?v=ozgb1cPRPpE&ab_channel=FahdMirza)
+[<b>AgenticSeek</b> by Manus AI](https://www.youtube.com/watch?v=ozgb1cPRPpE&ab_channel=FahdMirza)
 Acest videoclip arată cum să instalați local [AgenticSeek](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbDdyZk9iRUFGX1UwdWlxYUJfa1lpOGpTX1IyZ3xBQ3Jtc0ttUUFDYkJhY0hMSV9nNWdwb250TEJZd2FNRi1oZHdmeGFqSUc3b0NkUldpU3c3QzFnMW9mUjFtcHNiLTRQSUliZnc5c2FaQkUxR3ZQZjJBeXc4a19mcnhQSXFtbDNIazN1eVNmSHZ6S1lvSldBbmVESQ&q=https%3A%2F%2Fgithub.com%2FFosowl%2FagenticSeek&v=ozgb1cPRPpE), care este o alternativă complet locală la Manus AI, un asistent AI activat vocal.
 
 <hr/>
 
-[China Modifying NVIDIA RTX 4090 to Have 96GB VRAM](https://www.youtube.com/watch?v=Y0oO09tRqhg&ab_channel=FahdMirza)
+[China Modifying NVIDIA <b>RTX-4090</b> to Have <b>96GB-VRAM</b>](https://www.youtube.com/watch?v=Y0oO09tRqhg&ab_channel=FahdMirza)
 <br/>Acest [videoclip](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbWd0YzZSdERDNDZsejd2SnpMYmdONHR5eGtNd3xBQ3Jtc0tudk9oUnhyanJwOGIzc3RJc1ota0w0ZHR1cFFxSlV6WmRXVFVDbFZMSkJHTjI0NDlTcmgxeEZKRWl1RWZTWlZSYVlJMjZvbVIxbjRxZll2cmgzUVAwNU11VnpHLVVXSVhBZ1Nla2pESm8wN3hiZDUxNA&q=https%3A%2F%2Fx.com%2Fmrqs_gabriel13%2Fstatus%2F1896625290769764423&v=Y0oO09tRqhg) opinează despre acoperirea media actuală a cursei AI dintre China și SUA.
 
 <hr/>
@@ -843,6 +848,9 @@ Acest videoclip arată cum să instalați local [AgenticSeek](https://www.youtub
 <br/>Nu există nici-o opțiune de a trimite o solicitare de urmărire(elaborare)...
 
 <hr/>
+
+</details>
+
 
 <details>
 	<summary>Thera, Fin-R1, MoonCast, Extract-SD-from-Any-PDF, Teapot,OlympicCoder(7B), Parse-Vision,    ...</summary>
