@@ -1136,6 +1136,9 @@ Concluzie care discută progresul general al sistemului și...</pre>
 
 </details>
 
+<details>
+	<summary>AI DB-Agent...SQLite</summary>
+	
 <hr/>
 
 [How-to Build Database-AI-Agents - Hands on Easy Tutorial](https://www.youtube.com/watch?v=Tkds301xtHI&ab_channel=FahdMirza)
@@ -1183,8 +1186,10 @@ Asigurarea că tot codul folosit va fi distribuit pe blogul prezentatorului, inv
 
 <hr/>
 
+</details>
+	
 <details>
-	<summary>Modelul MoE-vision(VLM) multimodal: <b>Kimi-VL</b></summary>
+	<summary>Modelul MoE-vision(VLM) multimodal: <b>Kimi-VL</b>...</summary>
  <hr/>
 
  [Kimi VL A3B Thinking - Model MoE Vision cu raționament multimodal - Instalați local](https://www.youtube.com/watch?v=yzF6DJHHBq0&ab_channel=FahdMirza)
