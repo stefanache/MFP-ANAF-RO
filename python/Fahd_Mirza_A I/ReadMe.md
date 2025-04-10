@@ -351,7 +351,7 @@ Tot legat de [***agenti-AI***](https://www.youtube.com/watch?v=ffL-bJsW5Xk) este
 </details>
 
 <details>
-	<summary>subiecte discutate: ModernBERT-Embed-Base, Dolphin 3.0-Llama3.1,  LLMate,...</summary>
+	<summary>subiecte discutate: ModernBERT-Embed-Base, Dolphin 3.0-Llama3.1, CAG, LLMate,...</summary>
 
 <br/>Sa spunem cate ceva despre fiecare subiect in parte ...
 
