@@ -996,10 +996,10 @@ Recapitulare a momentelor importante ale performanței și încurajarea spectato
             
 În acest videoclip, Fahd Mirza prezintă PortKey-AI-Gateway, o soluție ușoară și open-source concepută pentru rutarea rapidă, 
 fiabilă și sigură a modelelor AI, cu o latență de mai puțin de 1 milisecundă. 
-El demonstrează instalarea acestui AI-gateway la nivel local alături de framework-ul AMA și modelul Llama 3.2. 
+El demonstrează instalarea acestui AI-gateway la nivel local alături de framework-ul LLaMA și modelul Llama 3.2. 
 De-a lungul videoclipului, Fahd evidențiază caracteristici precum reîncercări automate, alternative și 
 bare de protecție, subliniind potențialul sistemului, recunoscând în același timp limitările acestuia. 
-În cele din urmă, el oferă exemple practice pentru a arăta cum să utilizați eficient AI Gateway, 
+În cele din urmă, el oferă exemple practice pentru a arăta cum să utilizați eficient AI-Gateway, 
 oferind în același timp perspective asupra potențialelor îmbunătățiri.
             
 Repere
