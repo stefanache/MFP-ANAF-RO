@@ -987,7 +987,7 @@ Acest videoclip arată cum să instalați local [AgenticSeek](https://www.youtub
 <hr/>
 
 <details>
-	<summmary>CAMEL-AI</summmary>
+	<summary>CAMEL-AI</summary>
 
 <hr/>
 
@@ -1010,6 +1010,7 @@ Acest videoclip arată cum să instalați local [AgenticSeek](https://www.youtub
 <hr/>	
 
 </details>
+
 
 <details>
 	<summary>PortKey-AI-GW...</summary>
