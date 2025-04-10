@@ -1185,7 +1185,8 @@ pentru conținut.</pre>
 <br/>Acest [videoclip](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa2xZRWRtRGt6aVVHOGZzT0s3eGgxbmFYeDV4Z3xBQ3Jtc0tuemhESVpOeUp4anlubjh2OUtIZE5ETjVvNnNSSUFZMHFLaEptZHd5c2lfSmJqeU5HSEYwMkw1SHZuMGVzRmFwMjUtWTNlVXp4U3VadzdvMnVwd042dVZJcEUzR0FIRC1INF9vU1JUeGJBeVNZcUxsTQ&q=https%3A%2F%2Fwww.fahdmirza.com%2F2025%2F04%2Fhow-to-build-mcp-server-and-client-step.html&v=C2UnDOt-f3M) este un tutorial foarte simplu pas cu pas despre Protocolul de Context Model([MCP Anthropic](https://www.fahdmirza.com/2025/04/how-to-build-mcp-server-and-client-step.html)) cu o lume bună și apoi un exemplu din lumea reală(pentru a testa [codul-python](https://github.com/fahdmirza/mcp), veti avea nevoie de o [cheie-API](https://docs.anthropic.com/en/api/admin-api/apikeys/get-api-key) gratuita/free  de la Anthropic). 🔥
 
 <details>
-	<summary>...mai intai, sa analizam/evaluam/vedem  codul utilizat... <br/>scris(pt Linux...dar usor adaptabil pt Windows) de la simplu la complex... detalii...</summary>
+	<summary>...mai intai, sa analizam/evaluam/vedem in detaliu,  codul + c-zile_shell utilizat[e]... 
+		<br/>scris(pt Linux...dar usor adaptabil pt Windows) gradual/progresiv/evolutiv/de-la simplu la complex...</summary>
 <hr/>
 <pre>
 ✅ <ins>Step 1: Environment Setup</ins>
