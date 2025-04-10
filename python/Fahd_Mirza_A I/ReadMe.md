@@ -1085,6 +1085,42 @@ Concluzie care discută progresul general al sistemului și...</pre>
 
 <hr/>
 
+[How-to Build Database-AI-Agents - Hands on Easy Tutorial](https://www.youtube.com/watch?v=Tkds301xtHI&ab_channel=FahdMirza)
+<br/>Acest videoclip este un tutorial pas cu pas pentru a crea de la zero agenți de baze de date(BD) bazați pe inteligență artificială(AI) pentru ai utiliza cu propriile date. 🔥
+
+<details>
+      <summary>Open-AI/SQLite ... rezumat...video-YT...detalii...</summary>
+
+<hr/>
+<pre>
+      Rezumat: 
+În acest tutorial practic, prezentatorul demonstrează cum să creați un agent de bază de date folosind modele de limbaj mari(LLM) precum OpenAI. 
+Videoclipul subliniază importanța integrării AI cu bazele de date pentru a automatiza procesele și a ajuta la luarea deciziilor în întreprinderi. 
+Tutorialului, ne arata/învață să ne configuram mediul, să importam bibliotecile necesare și să interacționam cu o bază de date 
+SQLite, folosind interogări în limbaj natural, arătând eficiența și flexibilitatea utilizării LLM-urilor pentru sarcinile bazei-de-date.
+
+      Repere:
+0:02
+Introducere în conceptul de agenți de baze de date în AI și semnificația acestora în managementul datelor de întreprindere.
+1:27
+Anunțul privind utilizarea modelului OpenAI pentru sarcini text-to-SQL și importanța integrării cu bazele de date.
+2:14
+Mențiune despre utilizarea cadrului Langchain pentru a construi aplicații bazate pe LLM.
+4:00
+Prezentatorul importă un fișier CSV într-o bază de date SQLite, explicând procesul de import al datelor.
+7:38
+Configurarea LLM folosind o cheie API OpenAI, ilustrând cum să pregătiți mediul pentru interogare.
+7:49
+Prima interogare în limbaj natural pusă în baza de date despre cel mai popular produs din Canada, prezentând interacțiunea cu AI.
+9:28
+Executarea cu succes a interogării SQL generată de LLM, oferind un răspuns specific din baza de date.
+10:06
+Discuție despre potențialul utilizării LLM-urilor pentru a răspunde întrebărilor în limbaj natural în scenariile de servicii pentru clienți.
+10:58
+Asigurarea că tot codul folosit va fi distribuit pe blogul prezentatorului, invitând spectatorii să acceseze resurse.
+11:10
+Încurajarea de a vă abona la canal și de a partaja conținutul, evidențiind implicarea comunității.</pre>
+
 ...
 
 
