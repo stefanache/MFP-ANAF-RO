@@ -1094,12 +1094,12 @@ Concluzie care discută progresul general al sistemului și...</pre>
 <hr/>
 <pre>
       Rezumat: 
-În acest tutorial practic, prezentatorul demonstrează cum să creați un agent de bază de date folosind 
+În acest tutorial practic, prezentatorul demonstrează cum se creaza un agent de bază de date folosind 
 modele de limbaj mari(LLM) precum OpenAI. 
 Videoclipul subliniază importanța integrării AI cu bazele de date pentru a automatiza procesele și a ajuta la 
 luarea deciziilor în întreprinderi. 
-Tutorialului, ne arata/învață să ne configuram mediul, să importam bibliotecile necesare și să interacționam cu 
-o bază-de-date SQLite, folosind interogări în limbaj natural, arătând eficiența și flexibilitatea utilizării 
+Tutorialul ne arata/învață cum să ne configuram mediul, cum să importam bibliotecile necesare și cum să interacționam cu 
+o bază-de-date SQLite, folosind interogări în limbaj natural(NLP), arătând eficiența și flexibilitatea utilizării 
 LLM-urilor pentru sarcinile bazei-de-date.
       Repere:
 0:02
