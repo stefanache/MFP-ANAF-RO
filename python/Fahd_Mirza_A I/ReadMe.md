@@ -970,23 +970,63 @@ Introducerea <a href="https://www.youtube.com/watch?v=mR-L8DNN5K8&ab_channel=Fah
 0:16
 Discuție asupra tipurilor de modele care pot fi integrate, inclusiv modele de limbaj și viziune.
 0:30
-Prezentare generală asupra naturii ușoare a AI Gateway și a aspectului său open-source.
+Prezentare generală asupra naturii ușoare a AI-Gateway și a aspectului său open-source.
 1:10
-Menționați capacitatea soluției de întreprindere de a procesa zilnic peste 10 miliarde de jetoane.
-2:10
-Recunoaștere a sponsorizării Master Compute, oferind acces GPU pentru videoclip.
+Menționați capacitatea soluției de întreprindere de a procesa zilnic peste 10 miliarde(10B) de jetoane.
 6:40
-Începe instalarea PortKey AI Gateway, evidențiind ușurința sa de configurare.
+Începe instalarea PortKey-AI-Gateway, evidențiind ușurința sa de configurare.
 7:36
-Primul exemplu de integrare a AI Gateway cu Llama 3.2, prezentând apelul API.
+Primul exemplu de integrare a AI-Gateway cu Llama 3.2, prezentând apelul API.
 9:49
-Discuție despre fiabilitatea balustradelor în AI Gateway, cu teste practice prezentate.
+Discuție despre fiabilitatea balustradelor(bare-de-protectie) în AI-Gateway, cu teste practice prezentate.
 12:05
 Recapitulare a momentelor importante ale performanței și încurajarea spectatorilor să se aboneze.</pre>
 
 <hr/>
 
 </details>
+
+<hr/>
+
+[Instalați AI-Gateway cu Ollama local](https://www.youtube.com/watch?v=mR-L8DNN5K8&ab_channel=FahdMirza)
+<details>
+      <summary></summary>
+<hr/>
+<pre>Rezumat
+            
+În acest videoclip, Fahd Miza prezintă PortKey-AI-Gateway, o soluție ușoară și open-source concepută pentru rutarea rapidă, 
+fiabilă și sigură a modelelor AI, cu o latență de mai puțin de 1 milisecundă. 
+El demonstrează instalarea acestui AI-gateway la nivel local alături de framework-ul AMA și modelul Llama 3.2. 
+De-a lungul videoclipului, Fahd evidențiază caracteristici precum reîncercări automate, alternative și 
+bare de protecție, subliniind potențialul sistemului, recunoscând în același timp limitările acestuia. 
+În cele din urmă, el oferă exemple practice pentru a arăta cum să utilizați eficient AI Gateway, 
+oferind în același timp perspective asupra potențialelor îmbunătățiri.
+            
+Repere
+
+0:02
+Introducerea PortKey AI Gateway și a funcționalităților sale de bază.
+0:16
+Discuție asupra tipurilor de modele care pot fi integrate, inclusiv modele de limbaj și modele de viziune.
+0:30
+Prezentare generală asupra naturii ușoare a PortKey-AI-Gateway și a aspectului său open-source.
+1:10
+Menționați capacitatea soluției de întreprindere de a procesa zilnic peste 10 miliarde de jetoane(tokens).
+6:40
+Începe instalarea PortKey-AI-Gateway, evidențiind ușurința sa de configurare.
+7:36
+Primul exemplu de integrare a PortKey-AI-Gateway cu Llama 3.2, prezentând apelul API.
+9:49
+Discuție despre fiabilitatea balustradelor în PortKey-AI-Gateway, cu teste practice prezentate.
+12:05
+Recapitulare a momentelor importante ale performanței și încurajarea spectatorilor să se aboneze.</pre>
+
+<hr/>
+
+</details>
+
+<br/>Acest videoclip arată cum să instalați local [PortKey-AI-Gateway](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbmU0X1NzcDVSZ2NscFlLdW4yRHRjWEhPazljZ3xBQ3Jtc0ttTVdiYm9XeDVEZE55eEluU0VhTjYzbEdOUGZnaUVubkRPUm9tVV9rbU9ZMERKdFgwbkp1ZVRwb0lOT3ZTT1FMNkZGNUY2V2pqM3NDUW9PcmsxRGk2d19PWWplTGxSbE1fWGl4Skp1aTg4bHdUaGxtWQ&q=https%3A%2F%2Fgithub.com%2FPortkey-AI%2Fgateway&v=mR-L8DNN5K8), care este utilizat pentru rutarea rapidă, fiabilă și sigură către 
+peste 1600 de modele de limbă, viziune, audio și imagine. 🔥
 
 <hr/>
 
