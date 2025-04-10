@@ -1448,7 +1448,7 @@ Repere
 </details>
 
 <details>
-      <summary>La final, voi enumera cateva <b>proiecte interesante</b>, prezentate pe YouTube(<b>YT</b>), de catre domnul <b>Fahd-Mirza</b> dar nu numai...</summary>
+      <summary>La final, voi enumera inca o selectie-sumara de alte <b>proiecte</b>(sper eu...interesante!), prezentate fie de catre d-nul <b>Fahd-Mirza</b>, fie  de catre alti autori-activi pe YouTube(<b>YT</b>)...</summary>
 
 <hr/>
       
