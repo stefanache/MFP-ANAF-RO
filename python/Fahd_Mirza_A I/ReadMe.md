@@ -1157,7 +1157,8 @@ Fahd Mirza salută spectatorii și prezintă Kim-VL, subliniind capacitățile s
 0:39
 Explicație a arhitecturii KVL, detaliind amestecul său de decodor de limbaj expert pentru o înțelegere multimodală eficientă.
 3:22
-Descărcarea modelului în curs; Fahd discută despre procesul de [inferență](https://dexonline.ro/definitie/inferen%C8%9B%C4%83)(deductie) cu două imagini pentru a testa abilitățile de raționament ale modelului.
+Descărcarea modelului în curs; 
+Fahd discută despre procesul de <a href="https://dexonline.ro/definitie/inferen%C8%9B%C4%83">inferență(deductie)</a> cu două imagini pentru a testa abilitățile de raționament ale modelului.
 4:48
 Ki- VL începe să tragă concluzii despre un manuscris decolorat, identificând autorul și contextul printr-un raționament pas cu pas.
 6:45
