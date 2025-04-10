@@ -1030,8 +1030,50 @@ peste 1600 de modele de limbă, viziune, audio și imagine. 🔥
 
 <hr/>
 
-[Install GPTme with Ollama and QWQ Locally - AI Agents in Terminal](https://www.youtube.com/watch?v=QBmFw7eiLPU&ab_channel=FahdMirza)
+[Install GPTme with Ollama and QwQ Locally - AI Agents in Terminal](https://www.youtube.com/watch?v=QBmFw7eiLPU&ab_channel=FahdMirza)
 <br/>Acest videoclip arată cum să instalați local [GPTme](https://github.com/ErikBjare/gptme ) și să îl integrați cu Ollama pentru viziune, utilizarea browserului și alte instrumente. 🔥
+<br/>QwQ este un model de rezumare din seria Qwen(oferit de Alibaba grup)
+<br/>LLM-uri oferite Meta: LLama3.3(70B),LLama3.2(1B si 3B),LLama3.1(405B)
+
+<details>
+      <summary></summary>
+
+<hr/>
+<pre>Summary
+In this video, Fahad Mirza introduces the advancements made in the GPT Me project, particularly the integration of local models like
+Llama with agentic capabilities. 
+The video walks viewers through the process of installing GPT Me locally and demonstrates how to run it alongside LLaMA-based models. 
+Fahd also discusses the current limitations of these tools, especially in terms of their reasoning capabilities, while highlighting the
+potential they offer for various tasks, including coding and web searches.
+
+      Highlights
+0:02
+Introduction of the video and topic overview by Fahd Mirza.
+0:15
+Discussion of the initial limitations of GPT-Me regarding local model support.
+0:35
+Overview of the capabilities of GPT Me as a terminal-based AI agent tool.
+1:06
+Explanation of tool support in models and the importance of selecting the right model for agentic capabilities.
+3:35
+Demonstration of downloading and running the QWQ model using LLaMA and showing VRAM consumption.
+4:37
+Installation process of GPT-Me explained, including usage of pip commands.
+5:53
+Interaction with the GPT-Me model for generating a Python-script and saving it.
+9:00
+Testing the vision capabilities of the model with local images, indicating limitations.
+9:40
+Successful web search performed by the model, showcasing improved functionality.
+10:29
+Conclusion discussing the overall progress of the system and</pre>
+
+<hr/>
+
+</details>
+
+<hr/>
+
 ...
 
 
