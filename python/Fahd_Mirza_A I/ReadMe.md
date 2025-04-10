@@ -937,12 +937,12 @@ Acest videoclip arată cum să instalați local [AgenticSeek](https://www.youtub
 <br/>Acest videoclip arată cum să construiți un chatbot simplu Agentic RAG cu ajutorul [Camel AI](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbXJkM2RZNmxVWlVlVTFObTBhcWE2MWVyV3RFd3xBQ3Jtc0tsR21seXVUQ0NUdFR0Q3Buc2NVeTBGeDE3QUlHTjQweFJ0VENhSFBfYV9kS2pVWTAyc3VOb1ZnMWRjclROVHBSOXhYWWZDZmpUbXVGOHV5czY2dkdFX1gyZnI2RVNESjVMN3FwWmMtZUNkbUNXQU1ZSQ&q=https%3A%2F%2Fgithub.com%2Fcamel-ai%2Fcamel&v=WECSryd63Sc), SambaNova și Firecrawl. 🔥
 <br/>🐫 [**CAMEL-AI**](https://www.camel-ai.org/): Primul și cel mai bun cadru **multi-agent**. Găsirea *legii de scalare* a agenților. 
 <br/>🐫 **CAMEL** este o comunitate open-source dedicată găsirii *legilor de scalare* ale agenților. 
-<br/>Studierea acestor *agenți* la *scară largă* oferă informații valoroase asupra 
+<br/>Studierea acestor *agenți* la *scară largă* oferă informații valoroase asupra ...
  - comportamentelor,
  - capacităților și
  - riscurilor potențiale
 <br/>ale acestora. 
-<br/>Pentru a facilita cercetarea în acest domeniu, **CAMEL-AI** implementeaza și sprijina diverse tipuri de 
+<br/>Pentru a facilita cercetarea în acest domeniu, **CAMEL-AI** implementeaza și sprijina diverse tipuri de ...
  - agenți,
  - sarcini,
  - solicitări,
