@@ -1188,7 +1188,7 @@ pentru conținut.</pre>
 	<summary>...mai intai, sa analizam/evaluam/vedem  codul utilizat... scris de la simplu la complex... detalii...</summary>
 <hr/>
 <pre>
-✅ Step 1: Environment Setup
+✅ <ins>Step 1: Environment Setup</ins>
 
 # Conda environment (Ubuntu 22.04)
 conda create -n mcp-env python=3.10 -y
@@ -1199,8 +1199,8 @@ export ANTHROPIC_API_KEY=""   #Get from anthropic.com
 # Install packages
 pip install "mcp[cli]" anthropic python-dotenv
 
-🚩 Hello World MCP Example
-✅ Hello World MCP Server (~/mcp-hello-server/hello.py)
+🚩 <ins>Step-2: Hello-World MCP-Example: 1) si 2)</ins>
+✅ 1)Hello World MCP-Server (~/mcp-hello-server/hello.py)
 <CODE>
 from mcp.server.fastmcp import FastMCP
 
@@ -1218,12 +1218,12 @@ async def say_hello(name: str) -> str:
 if __name__ == "__main__":
     mcp.run(transport='stdio')
 </CODE>
-Run MCP server:
+<ins>-Run MCP-server:</ins>
 
 cd ~/mcp-hello-server
 python hello.py
 
-✅ Hello World MCP Client (~/mcp-hello-client/client.py)
+✅ 2)Hello World MCP-Client (~/mcp-hello-client/client.py)
 <CODE>
 import asyncio
 from contextlib import AsyncExitStack
@@ -1252,13 +1252,15 @@ async def main():
 
 asyncio.run(main())
 </CODE>
-Run MCP client:
+<ins>-Run MCP-client:</ins>
 
 cd ~/mcp-hello-client
 python client.py
 
-🚩 SQLite Database MCP Example
-✅ SQLite DB Setup (~/sqlite-mcp-server/setup_db.py)
+🚩 <ins>Step-3: SQLite Database MCP-Example:</ins> 
+ - pe parte de server: a),b) si
+ - pe parte de client: c)
+✅ a)SQLite DB Setup (~/sqlite-mcp-server/setup_db.py)
 <code>
 import sqlite3
 
@@ -1284,12 +1286,12 @@ INSERT INTO users (name, email) VALUES (?,?)
 conn.commit()
 conn.close()
 </code>
-Run once to setup database:
+<ins>-Run once to setup database:</ins>
 
 cd ~/sqlite-mcp-server
 python setup_db.py
 
-✅ SQLite MCP Server (~/sqlite-mcp-server/sqlite_server.py)
+✅ b)SQLite MCP-Server (~/sqlite-mcp-server/sqlite_server.py)
 <code>
 from mcp.server.fastmcp import FastMCP
 import sqlite3
@@ -1314,12 +1316,13 @@ async def get_user_info(user_id: int) -> dict:
 if __name__ == "__main__":
     mcp.run(transport='stdio')
 </code>
-Run SQLite MCP server:
+
+<ins>-Run SQLite MCP-server:</ins>
 
 cd ~/sqlite-mcp-server
 python sqlite_server.py
 
-✅ SQLite MCP Client (~/sqlite-mcp-client/client.py)
+✅ c)SQLite MCP-Client (~/sqlite-mcp-client/client.py)
 <CODE>
 import asyncio, json
 from contextlib import AsyncExitStack
@@ -1353,7 +1356,7 @@ async def main():
 
 asyncio.run(main())
 </CODE>
-Run SQLite MCP client:
+<ins>-Run SQLite MCP client:</ins>
 
 cd ~/sqlite-mcp-client
 python client.py</pre>
