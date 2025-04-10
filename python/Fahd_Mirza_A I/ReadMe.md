@@ -1201,7 +1201,7 @@ export ANTHROPIC_API_KEY=""   #Get from anthropic.com
 pip install "mcp[cli]" anthropic python-dotenv
 
 🚩 <ins>Step-2: Hello-World MCP-Example: 1) si 2)</ins>
-✅ 1)Hello World MCP-Server (~/mcp-hello-server/hello.py)
+✅ 1)Hello World [MCP](https://mychen76.medium.com/mcpo-supercharge-open-webui-with-mcp-tools-4ee55024c371)-Server (~/mcp-hello-server/hello.py)
 <CODE>
 from mcp.server.fastmcp import FastMCP
 
