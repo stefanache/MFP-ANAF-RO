@@ -1142,7 +1142,8 @@ Asigurarea că tot codul folosit va fi distribuit pe blogul prezentatorului, inv
       Rezumat
 În acest videoclip, Fahd Mirza prezintă Kim-VL, un model avansat de limbaj de viziune, multimodal, open-source care realizează un 
 raționament eficient cu doar 2,8 parametri activați. 
-Procesul de instalare al variantei sale extinse, KVL, este demonstrat împreună cu testele pe diferite criterii de referință. 
+Procesul de instalare al variantei sale extinse, KVL(Key-Value Entity Look-up), este demonstrat împreună cu testele pe diferite 
+criterii de referință. 
 Caracteristicile cheie includ performanța sa puternică în 
       OCR, 
       raționamentul matematic, 
