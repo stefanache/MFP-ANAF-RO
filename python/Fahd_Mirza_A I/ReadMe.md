@@ -1596,3 +1596,6 @@ Aici voi insira o selectie de proiecte [interesante](https://huggingface.co/fahd
 
 </details>
 
+<hr/>
+...
+</details>
