@@ -931,7 +931,8 @@ Acest videoclip arată cum să instalați local [AgenticSeek](https://www.youtub
 <hr/>
 
 <details>
-	<summary>grupul de proiecte: PyMuPDF/PyMuPDF4LLM, Swarm of AI Agents, Gemma3(27B), Orpheus-TTS, Gemma3(12B), Nomic-Embed-Code, Qwen-Agent, Run LLM remotely on HF, Qwen2.5, Create DS using Ollama, IBM-Docling ...  </summary>
+	<summary>grupul de proiecte: PyMuPDF/PyMuPDF4LLM, Swarm of AI Agents, Gemma3(27B), Orpheus-TTS, Gemma3(12B), Nomic-Embed-Code,...<br/>
+		...Qwen-Agent, Run LLM remotely on HF, Qwen2.5, Create DS using Ollama, IBM-Docling ...  </summary>
 
 <hr/>
 
