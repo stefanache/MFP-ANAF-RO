@@ -844,43 +844,54 @@ Acest videoclip arată cum să instalați local [AgenticSeek](https://www.youtub
 
 <hr/>
 
-[Thera - First Arbitrary-Scale Super-Resolution AI Model - Install Locally](https://www.youtube.com/watch?v=nlBsozc7Ny0&ab_channel=FahdMirza)
+<details>
+	<summary>Thera, Fin-R1, MoonCast, Extract-SD-from-Any-PDF, Teapot,OlympicCoder(7B), Parse-Vision,    ...</summary>
+
+Sa analizam pe rand fiecare subiectin parte ...
+
+<hr/>
+
+[<b>Thera</b> - First Arbitrary-Scale Super-Resolution AI Model - Install Locally](https://www.youtube.com/watch?v=nlBsozc7Ny0&ab_channel=FahdMirza)
 <br/>Acest [videoclip](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbnI0NEtlMWpIYVRFX0Q2ZkdKZlgydmE2bmtCUXxBQ3Jtc0tuRnVlNjBVMG9vTzVKRlBEc2REUVVuSG1Eck9SZFZ3Z0FpM0p1WVZSeFJoandRWmprWFhLbUdzYjJLREhDb3hHQ3FPaG1vQVJ1cUZwQUZWV1RaZDB4dm02WnJ0bnR1Z2dGT2RERGNpeVYxcHJHM1J4NA&q=https%3A%2F%2Fgithub.com%2Fprs-eth%2Fthera&v=nlBsozc7Ny0) instalează local **Thera**, care este prima metodă de super-rezoluție la scară arbitrară cu un model de observare fizică încorporat
 
 <hr/>
 
-[Fin-R1: Financial Reasoning LLM for Insurance, Trust, Securities, Banking - Install Locally](https://www.youtube.com/watch?v=0esd2c-H0eM&ab_channel=FahdMirza)
+[<b>Fin-R1</b>: Financial Reasoning LLM for Insurance, Trust, Securities, Banking - Install Locally](https://www.youtube.com/watch?v=0esd2c-H0eM&ab_channel=FahdMirza)
 <br/>Acest [videoclip](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbHBSTUdmY1JnRUJ2OG5ReWFZZmlnLUowYlB5UXxBQ3Jtc0tsNHZqajRtVFI3THNGWTNEcGozbF84VU1PVTZrYjJ5ZklDSXk4RFlSeURGNTB5RkZDb0pUWXpuYlpwa2VTeDhsZE5DOGY3YWl0bUN4TzhwZ0hVdW1xWFk4eW9rS1k0Z05PWmtwSlVjQ3Fzb05iRlZ6TQ&q=https%3A%2F%2Fhuggingface.co%2FSUFE-AIFLM-Lab%2FFin-R1&v=0esd2c-H0eM) instalează local **Fin-R1**, care este un model de limbă mare pentru raționament financiar complex 🔥 
 
 <hr/>
 
-[MoonCast AI Tutorial: Install & Generate Realistic Podcasts from Any Text in Minutes!](https://www.youtube.com/watch?v=BVFHuZDuA6M&ab_channel=FahdMirza)
+[<b>MoonCast</b> AI Tutorial: Install & Generate Realistic Podcasts from Any Text in Minutes!](https://www.youtube.com/watch?v=BVFHuZDuA6M&ab_channel=FahdMirza)
 <br/>Aflați cum să instalați [MoonCast AI](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbmo2a2pEMDRjTURnV2czQnNIUGFmdWtKWjVFZ3xBQ3Jtc0tsNmQxTGowODlidGJuRkM5MGZVdHhmbGkzQWtJVXBaUVpSSm9Pa182LWRaeDNvSS1sUWh1Y0ZvMFZiaktMeWlMOHlkMmM1MnNYNjBaN0lrc2lOaGdia19mZlVYNU9ERUdVSzlNdXpxZWNaS3ZUM1IxYw&q=https%3A%2F%2Fgithub.com%2Fjzq2000%2FMoonCast&v=BVFHuZDuA6M) și să transformați instantaneu orice document text sau pagină web în podcasturi realiste și spontane! 🔥
 
 <hr/>
 
-[Parse Vision - Visualize What OCR is Parsing in PDFs - Install Locally](https://www.youtube.com/watch?v=Hl3u5DSvU_c&ab_channel=FahdMirza)
+[<b>Parse-Vision</b> - Visualize What OCR is Parsing in PDFs - Install Locally](https://www.youtube.com/watch?v=Hl3u5DSvU_c&ab_channel=FahdMirza)
 <br/>Acest videoclip instalează [Parse Vision](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbnphLUdZYnRabEYycFpCT2ZuTTZGY0k1clAtQXxBQ3Jtc0tuYkFkLWdOZU85RS1jcmJIRlhxd2tZanZGbTJlWTBpT0t0ZHl5SzR2WjItUml2b1NoQnJ4SXR0aF9xV2dGQkhmRUEzd2d6SG9qWFU0eE1MNUpYVGhQY1ZJY2ZkWmRjNEVEM2k4TERmNFNqcVNYaF9lSQ&q=https%3A%2F%2Fgithub.com%2Forasik%2Fparsevision&v=Hl3u5DSvU_c) la nivel local, care este un instrument open-source pentru a vizualiza ceea ce OCR analizează într-un document PDF. 🔥 
 
 <hr/>
 
-[Extract Structured Data from Any PDF Using AI for Free: Hands-on Tutorial](https://www.youtube.com/watch?v=yiXxS_gv-Hc&ab_channel=FahdMirza)
+[<b>Extract Structured-Data from Any PDF</b> Using AI for Free: Hands-on Tutorial](https://www.youtube.com/watch?v=yiXxS_gv-Hc&ab_channel=FahdMirza)
 <br/>Acest videoclip arată cum să utilizați AI pentru a extrage date din orice document PDF, cum ar fi ***Facturi***, ușor și liber. 🔥 
 
 <hr/>
 
-[Teapot LLM - Hallucination-Resistant Pocket RAG Model - Install Locally](https://www.youtube.com/watch?v=Slilr02pSF0&ab_channel=FahdMirza)
+[<b>Teapot</b> LLM - Hallucination-Resistant Pocket RAG Model - Install Locally](https://www.youtube.com/watch?v=Slilr02pSF0&ab_channel=FahdMirza)
 <br/>[Teapot](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbDAwaEZNMVJnUHFTQzVzdWRseFhTa1ZEbzZhZ3xBQ3Jtc0ttdHN1RjBES0pJWjV1b0o0UWhkTklIVHI3WWl0MXN3UWVZVDYtV196bkVWVWFsS2x6Z2VhbUZieHpRbFQxUjR1Ri1sYnB4Mzhud3YzbFVmSHlPOElqOElBSHlKMXFXVlBOSGxKRlVtbjZiR3NuOXRldw&q=https%3A%2F%2Fhuggingface.co%2Fteapotai%2Fteapotllm&v=Slilr02pSF0) este un model de limbaj mic open-source (~800 de milioane de parametri) reglat fin pe date sintetice și optimizat pentru a rula local pe dispozitive cu resurse limitate, cum ar fi smartphone-uri și procesoare. 🔥 
 
 <hr/>
 
-[OlympicCoder 7B - Competitive Coding Model with Reasoning - Install Locally](https://www.youtube.com/watch?v=mGg_IKXqfVg&ab_channel=FahdMirza)
+[<b>OlympicCoder 7B</b> - Competitive Coding Model with Reasoning - Install Locally](https://www.youtube.com/watch?v=mGg_IKXqfVg&ab_channel=FahdMirza)
 <br/>[OlympicCoder-7B](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa3A3R3FKdWZfcVRITXZheHNURFFULXZpb0dOUXxBQ3Jtc0tsazNRcERwcU93UVRQb0lTSGRxU3AyQnJrWkpfQnR3YWx3MTVGYVVUVngtQVgyXzRES1dTRzVidXAxWEkxX0MwOFNzVVB1RXVHQmJmdXpPQ210NzVwcUJhWlJ0NGpBTF9FRHQ1bjNXQjd3cVlLMTZHbw&q=https%3A%2F%2Fhuggingface.co%2Fopen-r1%2FOlympicCoder-7B&v=mGg_IKXqfVg) este un model de cod care atinge performanțe puternice pe *benchmark/standuri de lucru/testare*-uri de codare competitive, cum ar fi *LiveCodeBench* și *Olimpiada Internațională de Informatică* din *2024*.
 
 <hr/>
 
-[Parse Vision - Visualize What OCR is Parsing in PDFs - Install Locally](https://www.youtube.com/watch?v=Hl3u5DSvU_c&ab_channel=FahdMirza)
+[<b>Parse-Vision</b> - Visualize What OCR is Parsing in PDFs - Install Locally](https://www.youtube.com/watch?v=Hl3u5DSvU_c&ab_channel=FahdMirza)
 <br/>Acest videoclip instalează [Parse Vision](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbXlmTnZ6V0JhWnhrYnpMV2h0V3RVUmRBdnhIZ3xBQ3Jtc0tuUUlqSGpxazlaUG9sUERpcjRyNzU4OFduNjRpNWF2YzQ1WUJLV05NNnptakRYYjZwYnBESU53bS1UY1I5VXc3aWFYQlQ3WHRGTzdTX1BJeXBOR2h2ZmhKTGZMdFVMbjNWOTNhbjJldERtaVNFWUUtTQ&q=https%3A%2F%2Fgithub.com%2Forasik%2Fparsevision&v=Hl3u5DSvU_c) la nivel local, care este un instrument open-source pentru a vizualiza ceea ce OCR analizează într-un document PDF. 🔥 
+
+<hr/>
+
+</details>
 
 <hr/>
 
