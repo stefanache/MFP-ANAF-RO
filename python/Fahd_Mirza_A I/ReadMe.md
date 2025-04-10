@@ -1155,14 +1155,14 @@ Videoclipul evidențiază aspecte distinctive ale arhitecturii modelului care aj
 0:02
 Fahd Mirza salută spectatorii și prezintă Kim-VL, subliniind capacitățile sale avansate de raționament multimodal.
 0:39
-Explicație a arhitecturii KVL, detaliind amestecul său de decodor de limbaj expert pentru o înțelegere multimodală eficientă.
+Explicație a <a href="https://www.researchgate.net/figure/An-example-of-how-KVL-works-to-replace-predicted-entities-with-correct-ones-from-the_fig1_333368176">arhitecturii-KVL</a>, detaliind amestecul său de decodor de limbaj expert(MoE) pentru o înțelegere multimodală eficientă.
 3:22
-Descărcarea modelului în curs; 
+Descărcarea modelului este în curs; 
 Fahd discută despre procesul de <a href="https://dexonline.ro/definitie/inferen%C8%9B%C4%83">inferență(deductie)</a> cu două imagini pentru a testa abilitățile de raționament ale modelului.
 4:48
-Ki- VL începe să tragă concluzii despre un manuscris decolorat, identificând autorul și contextul printr-un raționament pas cu pas.
+Ki-VL începe să tragă concluzii despre un manuscris decolorat, identificând autorul și contextul printr-un raționament pas cu pas.
 6:45
-Fahd începe să testeze capabilitățile OCR în diferite limbi, cum ar fi chineză și indoneziană, examinând performanța modelului.
+Fahd începe să testeze capabilitățile OCR în diferite limbi(NLP), cum ar fi chineză și indoneziană, examinând performanța modelului.
 8:44
 Fahd îl îndeamnă pe Kim-VL să abordeze o problemă de ambuteiaj și evaluează capacitatea sa de a oferi soluții pas cu pas.
 10:03
