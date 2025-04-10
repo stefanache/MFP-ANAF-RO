@@ -1036,7 +1036,7 @@ peste 1600 de modele de limbă, viziune, audio și imagine. 🔥
 <br/>LLM-uri oferite Meta: LLama3.3(70B),LLama3.2(1B si 3B),LLama3.1(405B)
 
 <details>
-      <summary></summary>
+      <summary>GPTme ... rezumat...video-YT...detalii...</summary>
 
 <hr/>
 <pre>Summary
@@ -1052,7 +1052,7 @@ Introduction of the video and topic overview by Fahd Mirza.
 0:15
 Discussion of the initial limitations of GPT-Me regarding local model support.
 0:35
-Overview of the capabilities of GPT Me as a terminal-based AI agent tool.
+Overview of the capabilities of GPT-Me as a terminal-based AI agent tool.
 1:06
 Explanation of tool support in models and the importance of selecting the right model for agentic capabilities.
 3:35
