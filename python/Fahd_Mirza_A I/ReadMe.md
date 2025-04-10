@@ -40,10 +40,15 @@ Pentru cei care doresc sa genereze cod(**code generative-AI**), folosind modele 
 
 [Orizontul](https://www.marktechpost.com/2024/11/14/microsoft-released-llm2clip-a-new-ai-technique-in-which-a-llm-acts-as-a-teacher-for-clips-visual-encoder/) [cunoasterii](https://www.microsoft.com/en-us/research/project/llm2clip/) in domeniul [generative-AI](https://www.youtube.com/watch?v=mJ-wt79u0Ls), poate fi [largit](https://github.com/microsoft/LLM2CLIP) si prin studierea unor [lucrari](https://microsoft.github.io/LLM2CLIP/) precum cea intitulata  [LLM2CLIP](https://microsoft.github.io/LLM2CLIP/).
 
+<details>
+	<summary>grupul de proiecte: Llama-Mesh/3D-Chatbot, Llama3.2-vision si OmniAudio-AI, RAG multimodal, Moonshine,  ...</summary>
+
+Sa le evaluam pe rand....
+
 <hr/>
 
 <details>
-	<summary>Llama-Mesh/3D-Chatbot</summary>
+	<summary><b>Llama-Mesh/3D-Chatbot</b></summary>
 
 <hr/>
 
@@ -54,7 +59,7 @@ In acest [proiect](https://github.com/nv-tlabs/LLaMA-Mesh), pentru afisarea/cons
 </details>
 
 <details>
-	<summary>Llama3.2-vision si OmniAudio-AI</summary>
+	<summary><b>Llama3.2-vision</b> si <b>OmniAudio-AI</b></summary>
 <hr/>
 
 Un alt proiect legat de subtitrarea sau transcrierea/descrierea unei imagini este proiectul local(windows) care utilizeaza ca LLM, modelul [Llama3.2-vision](https://www.youtube.com/watch?v=qc99ShiPAY8)(atentie la [licenta](https://www.reddit.com/r/ollama/comments/1gxwd1j/llama_32_vision_in_the_eu/?%24deep_link=true&correlation_id=a31d354b-4ba5-42d7-a450-375f98de2cb4&post_fullname=t3_1gxwd1j&post_index=0&ref=email_digest&ref_campaign=email_digest&ref_source=email&utm_content=post_title&%243p=e_as&_branch_match_id=1376944233253091740&utm_medium=Email%20Amazon%20SES&_branch_referrer=H4sIAAAAAAAAA22P207DMBBEvyZ9Sy%2B2QwGpQgjEb6yceJss%2BKa1Q%2FrEt7NpgSckWxqd8cyup1pzedztGJ2jurU5bz3Fj53OT40yOp8QbNmITEwjRethZn%2Ba1lSjnxv1JmdZlu1PfkhBAMtN3ttgRQgKGGsReRgvizu8i7qaoBV8UqEUgSLUCQHntVFLaaeMQ8ywLtPo18ozNupuSMzobb1GnHCrD053pm9Nb7vWKHdsren2rT5254d7h2rojeRyKhXOs%2FfRBlzrNPztcjMpOryIsxfAeBaFwZIHRyOWeoMw2JAtjfF%2Ft6SZB%2Fz1BM41wJBild8LvY6pVD1uvuQ5MlMcoee0FOTTy8Qp4DfMPtIgjgEAAA%3D%3D)) deservit de serverul dvs. **Ollama**. Desigur acesta se poate utiliza si pt filmulete/video-uri avand in vedere faptul ca un astfel de obiect este format dintr-o multime sau un intreg sir/serie de imagini captate succesiv in timp.
@@ -66,7 +71,7 @@ Tot in zona [media](https://www.youtube.com/@fahdmirza) puteti consulta si acest
 </details>
 
 <details>
-	<summary>RAG multimodal(imagini si text)</summary>
+	<summary><b>RAG multimodal(imagini si text)</b></summary>
 
 <hr/>
 	
@@ -76,7 +81,7 @@ Daca doriti sa testati un [**RAG multimodal(imagini si text)**](https://www.link
 </details>
 
 <details>
-	<summary>model ASR | S2T: Moonshine</summary>
+	<summary>model ASR | S2T: <b>Moonshine</b></summary>
 
 <hr/>
 
@@ -112,7 +117,7 @@ Desigur acesta este un exemplu de inceput(daca vreti ... un exemplu de testare a
 </details>
 
 <details>
-	<summary>MindsDB...GPU...Docker</summary>
+	<summary><b>MindsDB</b>...GPU...Docker</summary>
 
 <hr/>
 
@@ -174,6 +179,10 @@ Indiferent daca vreti sa implementati un [**RAPTOR-RAG**](https://angelina-yang.
 Desigur, suplimentar, daca aveti de lucrat(sa spunem/luam cazul ne[*Docker*](https://hub.docker.com/r/nvidia/cuda/tags)izat), cu [***DNN***](https://developer.nvidia.com/deep-learning)([Deep Neural Network](https://medium.com/@milistu/how-to-install-cuda-cudnn-7e4a00ae4f44)), accelarand procesele via [**CUDA/GPU**](https://hub.docker.com/r/nvidia/cuda), atunci va trebui sa mai instalati si [***cuDNN***](https://developer.nvidia.com/cudnn)(in cazul [arhitecturii mele](https://forums.developer.nvidia.com/t/cuda-with-nvidia-geforce-rtx-4060/311019), descarcarea(si apoi instalarea conform instructiunilor specifice) [cuDNN](https://docs.nvidia.com/deeplearning/cudnn/latest/reference/support-matrix.html), se va efectua folosind urmatoarele filtre specifice: **Linux**, **x86_64**, **Ubuntu**, **22.04**, **deb(local)** pt **Driver for Linux 565.90** si **CUDA 12**)
 
 </details>
+</details>
+
+<hr/>
+
 </details>
 
 <hr/>
