@@ -987,7 +987,14 @@ Acest videoclip arată cum să instalați local [AgenticSeek](https://www.youtub
 <hr/>
 
 <details>
-	<summary>CAMEL-AI</summary>
+	<summary>CAMEL, PortKey, GPTme, DB-Agent, Kimi-VL, MCP, ...  </summary>
+
+<hr/>
+
+Sa le luam pe rand...
+ 
+<details>
+	<summary><b>CAMEL-AI</b>...</summary>
 
 <hr/>
 
@@ -1013,7 +1020,7 @@ Acest videoclip arată cum să instalați local [AgenticSeek](https://www.youtub
 
 
 <details>
-	<summary>PortKey-AI-GW...</summary>
+	<summary><b>PortKey-AI-GW</b>...</summary>
 
 <hr/>
 
@@ -1062,7 +1069,7 @@ peste 1600 de modele de limbă, viziune, audio și imagine. 🔥
 </details>
 
 <details>
-	<summary>GPTme...QwQ...</summary>
+	<summary><b>GPTme</b>...QwQ...</summary>
 
  <hr/>
  
@@ -1124,7 +1131,7 @@ Concluzie care discută progresul general al sistemului și...</pre>
 </details>
 
 <details>
-	<summary>AI DB-Agent...SQLite</summary>
+	<summary>AI <b>DB-Agent</b> pentru(4)...SQLite</summary>
 	
 <hr/>
 
@@ -1503,4 +1510,6 @@ Repere
 </details>
 
 ...
+
+</details>
 ....
