@@ -42,3 +42,4 @@ Aici o sa plasez cateva link-uri(selectate!) legate de constructia unui RAG(cu p
 - [YT-FahdMirza: Install Pleias 1 RAG Model Locally - First Model Compliant with European AI Act](https://www.youtube.com/watch?v=LvbDMijP7GI&ab_channel=FahdMirza)
 - [YT-FahdMirza: RAGBuilder with Ollama - Create Optimal Production-ready RAG Setup Locally](https://www.youtube.com/watch?v=ZXuAW8a33C8&ab_channel=FahdMirza)
 - [YT-FahdMirza: Docling with Ollama - RAG on Local Files with Local Models - Install Locally](https://www.youtube.com/watch?v=GMHazLUQBQM&ab_channel=FahdMirza)
+- [...](https://www.youtube.com/watch?v=TMaQt8rN5bE&ab_channel=DataScienceBasics)
