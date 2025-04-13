@@ -1,6 +1,6 @@
 Salut!
 
-Aici voi plasa tutoriale,ghiduri... pentru efectuarea unor sarcini/task-uri/activitati economice,drept(si nu numai) folosind AI([domain-specific-LLMs](https://medium.com/sage-ai/building-domain-specific-llms-for-reliable-accounting-solutions-at-sage-f5f49479c8ad), Mecanismul atentiei in transformatoare,...):
+Aici voi plasa tutoriale,ghiduri... pentru efectuarea unor sarcini/task-uri/activitati economice,drept,medical(si nu numai...) folosind AI([domain-specific-LLMs](https://medium.com/sage-ai/building-domain-specific-llms-for-reliable-accounting-solutions-at-sage-f5f49479c8ad), Mecanismul atentiei in transformatoare,...):
 
  - [A step-by-step guide to creating an AI Travel Agent with Microsoft AutoGen Studio](https://medium.com/@wxia8888/a-step-by-step-guide-to-creating-an-ai-travel-agent-with-microsoft-autogen-studio-7295592331ac)
  - [30 LLM-uri pt. drept(law)-financiar](https://www.lawstudies.ro/llm/drept-financiar); [FinGPT](https://levelup.gitconnected.com/fingpt-open-source-llm-for-finance-e8ec10d0bf40)-[framework(img)](https://miro.medium.com/v2/resize:fit:1400/1*NcxcT0TfKAK8vZYBAsFAFQ.png)
@@ -17,4 +17,5 @@ Methodologies and Off-the-Shelf Examples](https://download.ssrn.com/2024/6/29/46
     - Îmbunătățește performanța în mai multe sarcini de viziune computerizată și seturi de date
     - Reduce complexitatea de calcul, menținând sau îmbunătățind acuratețea
     - Prezinta o mai mare robustețe la atacurile adverse și la datele în afara distribuției
+ - [MedRAG](https://github.com/Teddy-XiongGZ/MedRAG/tree/main)
  - [...](https://www.google.com/search?sca_esv=84558b4239d0d7dc&rlz=1C1CHBF_enRO1132RO1132&sxsrf=AHTn8zodTjyFI8fCpe_f4uB7jP6L0__2yg:1743498593387&q=python+llm+IFRS,IAS+IFRS+SIC&udm=2&fbs=ABzOT_BYhiZpMrUAF0c9tORwPGlsodhGu4F1UEhEeTehlBu7020oMQ7aBpF-aNynCVlndtbrl-4J-rajucdRXcWuI2dKH9PAaK3ysaU0BSsPt4nUY66XgK_i1ksX1t7wbJ4XlSN3_Sovl3KlCML7ME1cwouhGns_CkbpeIPnBxJEJSEGrnnH0JwIXbOS9r6Vd51OJD3AQnYmg6tzAhwyAP9i66uHsY6dbQ&sa=X&ved=2ahUKEwjF4syyvraMAxWsBdsEHYEZI0cQtKgLegQIDhAB&biw=1920&bih=911&dpr=1)
