@@ -22,4 +22,4 @@ Trebuie sa vedem si partea plina a paharului si anume ca exista domenii(ex. [agr
 Un [exemplu](https://docs.oasis-open.org/ubl/os-UBL-2.2/xml/UBL-Invoice-2.1-Example.xml) [trivial](https://github.com/Tradeshift/tradeshift-ubl-xsd/blob/master/src/test/resources/org/oasis-open/ubl/examples/UBL-Invoice-2.1-Example-Trivial.xml)(simplu) al unei facturi [UBL 2.1](https://facturis-online.ro/tag/xml-e-factura)
 
 
-Daca vreti sa automatizati fluxul financiar(facturi,plati) atunci puteti opta pt [n8n sau zapier](https://www.hostinger.com/tutorials/what-is-n8n?utm_campaign=Generic-Tutorials-DSA|NT:Se|LO:Other-EU&utm_medium=ppc&gad_source=1&gbraid=0AAAAADMy-hbGbrh6IXeJJ2MZFS9V2fc5Z&gclid=Cj0KCQjw_JzABhC2ARIsAPe3ynom_zR-klNufn1sk5n3PNk8dByNkBcgW2wZFKF0KMzNxnsEnKZVJlkaAh9CEALw_wcB)
+Daca vreti sa automatizati fluxul (sa spunem...financiar) de lucru (facturi,plati) atunci puteti opta pt [n8n sau zapier](https://www.hostinger.com/tutorials/what-is-n8n?utm_campaign=Generic-Tutorials-DSA|NT:Se|LO:Other-EU&utm_medium=ppc&gad_source=1&gbraid=0AAAAADMy-hbGbrh6IXeJJ2MZFS9V2fc5Z&gclid=Cj0KCQjw_JzABhC2ARIsAPe3ynom_zR-klNufn1sk5n3PNk8dByNkBcgW2wZFKF0KMzNxnsEnKZVJlkaAh9CEALw_wcB)
