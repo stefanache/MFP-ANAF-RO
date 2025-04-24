@@ -26,4 +26,4 @@ Daca vreti sa automatizati([fara cod](https://docs.n8n.io/try-it-out/quickstart/
 
 Managerul fluxului de lucru **n8n** ofera avantajul ca poate fi "selhosted"(autogazduit... si prin urmare beneficiaza de un suport de gaduire gratuit!)...un astfel de exemplu este si acest [proiect-AI](https://github.com/n8n-io/self-hosted-ai-starter-kit).
 
-Pentru a folosi generatorul-AI intitulat **ConfyUI** va recomand sa folositi installer-ul [acesta](https://www.comfy.org/download) pentru ***Windows***(ori ***Mac***).
+Pentru a folosi generatorul-AI **text-to-2D-Image**, intitulat [**ConfyUI**](https://www.youtube.com/watch?v=t5F9ehZ7MhQ&ab_channel=FahdMirza), va recomand sa folositi installer-ul [acesta](https://www.comfy.org/download) pentru ***Windows***(ori ***Mac***).
