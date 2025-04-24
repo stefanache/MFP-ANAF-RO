@@ -53,8 +53,7 @@ Ar fi util ca in prealabil sa va actualizati versiunea de **pip** , utlizand urm
 
 Apoi urmeaza comanda-shell de instalare:
 
-   comfy install
-
+    comfy install
 
 <hr/>
 <br/>
