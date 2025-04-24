@@ -41,6 +41,11 @@ Pentru a folosi generatorul-AI **text-to-2D-Image**, intitulat [**ConfyUI**](htt
 Asadar, nodul-incarcator(***Checkpoint***) poate fi folosit pentru a *încărca* un *model-de-difuzie*; *Modelele-de-difuzie* sunt folosite pentru a elimina zgomotul-latent. 
 <br/>Totodata, acest nod([***Checkpoint***](https://www.youtube.com/watch?v=ndMfwL13HR0&ab_channel=TheAITyrant)) va oferi, de asemenea, modelele ***VAE*** și ***CLIP***, adecvate(corespunzatoare/corelate cu acest[ui] nod-incarcator!).
 
+***ConfyUI*** este de fapt un server. Pentru a ne putea conecta la acest server-***ConfyUI*** sin programele noastre Python, va trtebui mai intai sa instalati un client-***ConfyUI***), folosind urmatoare comanda-shell(cmd.exe ...pt a lansa consola/terminalul si apoi pt introducerea ulterioara a urmatoarei comenzii-DOS):
+
+   pip install comfy-cli
+
+ 
 <hr/>
 <br/>
 
