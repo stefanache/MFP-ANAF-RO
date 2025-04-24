@@ -38,7 +38,7 @@ Pentru a folosi generatorul-AI **text-to-2D-Image**, intitulat [**ConfyUI**](htt
  - ***CLIP*** - Model utilizat pentru codificarea solicitărilor(prompt-ului) de text.
  - ***VAE***  - Model utilizat pentru codificarea și decodarea imaginilor către și din spațiul-latent.
 
-Asadar, nodul-incarcator(***Checkpoint***) poate fi folosit pentru a *încărca* un *model-de-difuzie*; *Modelele-de-difuzie* sunt folosite pentru a elimina zgomotul-latent. Totodata, acest nod(***Checkpoint***) va oferi, de asemenea, modelele ***VAE*** și ***CLIP***, adecvate(corespunzatoare/corelate cu acest[ui] nod-incarcator!).
+Asadar, nodul-incarcator(***Checkpoint***) poate fi folosit pentru a *încărca* un *model-de-difuzie*; *Modelele-de-difuzie* sunt folosite pentru a elimina zgomotul-latent. Totodata, acest nod([***Checkpoint***](https://www.youtube.com/watch?v=ndMfwL13HR0&ab_channel=TheAITyrant)) va oferi, de asemenea, modelele ***VAE*** și ***CLIP***, adecvate(corespunzatoare/corelate cu acest[ui] nod-incarcator!).
 
 <hr/>
 <br/>
