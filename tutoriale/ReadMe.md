@@ -55,6 +55,8 @@ Apoi urmeaza comanda-shell de instalare:
 
     comfy install
 
+Daca doriti sa instalati managerul-***ConfyUI*** atunci probabil ca acest [tutorial](https://stable-diffusion-art.com/comfyui-manager-install/) v-ar putea fi util!
+
 <hr/>
 <br/>
 
