@@ -34,7 +34,7 @@ Managerul fluxului de lucru **n8n** ofera avantajul ca poate fi "selhosted"(auto
 
 Pentru a folosi generatorul-AI **text-to-2D-Image**, intitulat [**ConfyUI**](https://www.youtube.com/watch?v=t5F9ehZ7MhQ&ab_channel=FahdMirza), va recomand sa folositi installer-ul [acesta](https://www.comfy.org/download) pentru ***Windows***(ori ***macOS***; desi se poate instala si sub ***Linux***!); Daca instalati acest produs-desktop([***ConfyUI***](https://github.com/comfyanonymous/ComfyUI)) sub ***Windows*** trabuie sa stiti ca acesta va avea ca "HOME_DIRECTORY" folderul intitulat "***C:\Users\{your_user_logged_name}\AppData\Local\Programs\@comfyorgcomfyui-electron***".
 
-***ComfyUI*** vă permite să proiectați și să executați conducte(pipeline/workflow) de difuzie-stabila avansate folosind o interfață(grafica-utilizator: UI) bazată pe grafic/noduri/diagramă, fiind disponibil pe Windows, Linux și macOS.
+***ComfyUI*** vă permite să proiectați și să executați conducte(pipeline/workflow) de difuzie-stabila avansate folosind o interfață(grafica-utilizator: UI) bazată pe grafic/noduri/diagramă(fara a fi nevoiti sa scrieti cod!!!), fiind disponibil pe Windows, Linux și macOS.
 
 <hr/>
 <br/>
