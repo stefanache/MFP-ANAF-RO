@@ -55,6 +55,8 @@ Apoi urmeaza comanda-shell de instalare:
 
     comfy install
 
+La final(dupa instalare) vi se va oferi calea folder-ului in care s-au instalat fisierele aferente(***C:\Users\{your_user_logged_name}\Documents\comfy\ComfyUI***)
+
 Daca doriti sa instalati managerul-***ConfyUI*** atunci probabil ca acest [tutorial](https://stable-diffusion-art.com/comfyui-manager-install/) v-ar putea fi util!
 
 <hr/>
