@@ -21,9 +21,15 @@ Trebuie sa vedem si partea plina a paharului si anume ca exista domenii(ex. [agr
 
 Un [exemplu](https://docs.oasis-open.org/ubl/os-UBL-2.2/xml/UBL-Invoice-2.1-Example.xml) [trivial](https://github.com/Tradeshift/tradeshift-ubl-xsd/blob/master/src/test/resources/org/oasis-open/ubl/examples/UBL-Invoice-2.1-Example-Trivial.xml)(simplu) al unei facturi [UBL 2.1](https://facturis-online.ro/tag/xml-e-factura)
 
-
+<hr/>
 Daca vreti sa automatizati([fara cod](https://docs.n8n.io/try-it-out/quickstart/)) fluxul (sa spunem...financiar) de lucru (ex. facturi,plati) atunci puteti opta pt [n8n sau zapier](https://www.hostinger.com/tutorials/what-is-n8n?utm_campaign=Generic-Tutorials-DSA|NT:Se|LO:Other-EU&utm_medium=ppc&gad_source=1&gbraid=0AAAAADMy-hbGbrh6IXeJJ2MZFS9V2fc5Z&gclid=Cj0KCQjw_JzABhC2ARIsAPe3ynom_zR-klNufn1sk5n3PNk8dByNkBcgW2wZFKF0KMzNxnsEnKZVJlkaAh9CEALw_wcB)
 
 Managerul fluxului de lucru **n8n** ofera avantajul ca poate fi "selhosted"(autogazduit... si prin urmare beneficiaza de un suport de gaduire gratuit!)...un astfel de exemplu este si acest [proiect-AI](https://github.com/n8n-io/self-hosted-ai-starter-kit).
 
+<hr/>
+
 Pentru a folosi generatorul-AI **text-to-2D-Image**, intitulat [**ConfyUI**](https://www.youtube.com/watch?v=t5F9ehZ7MhQ&ab_channel=FahdMirza), va recomand sa folositi installer-ul [acesta](https://www.comfy.org/download) pentru ***Windows***(ori ***Mac***); Daca instalati acest produs-desktop([***ConfyUI***]("C:\development\python\ConfyUI\GH ConfyUI(text2Img).url")) sub ***Windows*** trabuie sa stiti ca acesta va avea ca "HOME_DIRECTORY" folderul intitulat "***C:\Users\{your_user}\AppData\Local\Programs\@comfyorgcomfyui-electron***".
+
+<hr/>
+
+...
