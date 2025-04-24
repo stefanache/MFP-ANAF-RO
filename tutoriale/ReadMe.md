@@ -57,7 +57,7 @@ Apoi urmeaza comanda-shell de instalare:
 
 La final(dupa instalare) vi se va oferi calea folder-ului in care s-au instalat fisierele aferente(***C:\Users\{your_user_logged_name}\Documents\comfy\ComfyUI***)
 
-Din  [scripturile-python](https://github.com/comfyanonymous/ComfyUI/tree/master/script_examples) date ca exemplu si care fac parte din acest produs ***ConfyUI***, o sa vedeti ca serverul-***ConfyUI*** asculta(la adresa-URL: http://127.0.0.1:8188) pe portul ***8188***.
+Din  [scripturile-python](https://github.com/comfyanonymous/ComfyUI/tree/master/script_examples) date ca exemplu si care fac parte din acest produs/server [***ConfyUI***](https://medium.com/@next.trail.tech/how-to-use-comfyui-api-with-python-a-complete-guide-f786da157d37), o sa vedeti ca serverul-***ConfyUI*** asculta(la adresa-URL: http://127.0.0.1:8188) pe portul ***8188***.
 
 Daca doriti sa instalati managerul-***ConfyUI*** atunci probabil ca acest [tutorial](https://stable-diffusion-art.com/comfyui-manager-install/) v-ar putea fi util!
 
