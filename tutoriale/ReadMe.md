@@ -32,7 +32,7 @@ Managerul fluxului de lucru **n8n** ofera avantajul ca poate fi "selhosted"(auto
 <br/>
 
 
-Pentru a folosi generatorul-AI **text-to-2D-Image**, intitulat [**ConfyUI**](https://www.youtube.com/watch?v=t5F9ehZ7MhQ&ab_channel=FahdMirza), va recomand sa folositi installer-ul [acesta](https://www.comfy.org/download) pentru ***Windows***(ori ***Mac***); Daca instalati acest produs-desktop([***ConfyUI***](https://github.com/comfyanonymous/ComfyUI)) sub ***Windows*** trabuie sa stiti ca acesta va avea ca "HOME_DIRECTORY" folderul intitulat "***C:\Users\{your_user}\AppData\Local\Programs\@comfyorgcomfyui-electron***".
+Pentru a folosi generatorul-AI **text-to-2D-Image**, intitulat [**ConfyUI**](https://www.youtube.com/watch?v=t5F9ehZ7MhQ&ab_channel=FahdMirza), va recomand sa folositi installer-ul [acesta](https://www.comfy.org/download) pentru ***Windows***(ori ***Mac***); Daca instalati acest produs-desktop([***ConfyUI***](https://github.com/comfyanonymous/ComfyUI)) sub ***Windows*** trabuie sa stiti ca acesta va avea ca "HOME_DIRECTORY" folderul intitulat "***C:\Users\{your_user_logged_name}\AppData\Local\Programs\@comfyorgcomfyui-electron***".
 
 <hr/>
 <br/>
