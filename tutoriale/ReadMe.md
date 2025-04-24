@@ -37,6 +37,7 @@ Pentru a folosi generatorul-AI **text-to-2D-Image**, intitulat [**ConfyUI**](htt
 [***ComfyUI***](https://docs.comfy.org/get_started/first_generation) vă permite să proiectați și să executați conducte(pipeline/workflow) de difuzie-stabila avansate folosind o interfață(grafica-utilizator: UI) bazată pe grafic/noduri/diagramă(fara a fi nevoiti sa scrieti cod!!!), fiind disponibil pe Windows, Linux și macOS; La prima instalare va va solicita sa instalati versiunea adecvata de [***CheckPoint***](https://blenderneko.github.io/ComfyUI-docs/Core%20Nodes/Loaders/LoadCheckpoint/)(***CkPt***).  ***CkPt***-ul va reduce/elimina zgomotul-latent; Odata cu instalarea nodului ***CkPt***, se vor instala alte 2 modele: 
  - ***CLIP*** - Model utilizat pentru codificarea solicitărilor(prompt-ului) de text.
  - ***VAE***  - Model utilizat pentru codificarea și decodarea imaginilor către și din spațiul-latent.
+
 Asadar, nodul incarcat ***Checkpoint*** poate fi folosit pentru a încărca un model-de-difuzie; modelele de difuzie sunt folosite pentru a elimina zgomotul-latent. Totodata, acest nod(***Checkpoint***) va oferi, de asemenea, modelul ***VAE*** și ***CLIP*** adecvat(acestui nod!).
 
 <hr/>
