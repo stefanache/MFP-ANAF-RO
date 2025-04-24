@@ -45,7 +45,11 @@ Asadar, nodul-incarcator(***Checkpoint***) poate fi folosit pentru a *încărca*
 
    pip install comfy-cli
 
- 
+Ar fi util ca in prealabil sa va actualizati versiunea de **pip** , utlizand urmatoarea comanda:
+
+   python.exe -m pip install --upgrade pip
+
+
 <hr/>
 <br/>
 
