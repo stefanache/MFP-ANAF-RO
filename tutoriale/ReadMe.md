@@ -49,7 +49,7 @@ Ar fi util ca in prealabil sa va actualizati versiunea de **pip** , utlizand urm
 
    python.exe -m pip install --upgrade pip
 
-
+*Remarca*: Este recomandabil sa aveti instalata versiunea 3.12 de Python 
 <hr/>
 <br/>
 
