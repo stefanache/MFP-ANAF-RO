@@ -43,17 +43,17 @@ Asadar, nodul-incarcator(***Checkpoint***) poate fi folosit pentru a *încărca*
 
 ***ConfyUI*** este de fapt un server. Pentru a ne putea conecta la acest server-***ConfyUI*** sin programele noastre Python, va trtebui mai intai sa instalati un client-***ConfyUI***), folosind urmatoare comanda-shell(cmd.exe ...pt a lansa consola/terminalul si apoi pt introducerea ulterioara a urmatoarei comenzii-DOS):
 
-   pip install comfy-cli
+    pip install comfy-cli
 
 Ar fi util ca in prealabil sa va actualizati versiunea de **pip** , utlizand urmatoarea comanda:
 
-   python.exe -m pip install --upgrade pip
+    python.exe -m pip install --upgrade pip
 
 *Remarca*: Este recomandat sa aveti instalata in prealabil, versiunea **3.12** de **Python**!
 
 Apoi urmeaza comanda-shell de instalare:
 
-  comfy install
+   comfy install
 
 
 <hr/>
