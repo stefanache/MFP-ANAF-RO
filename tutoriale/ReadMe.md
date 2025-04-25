@@ -61,7 +61,7 @@ La final(dupa instalare) vi se va oferi calea folder-ului in care s-au instalat 
 
 Din  [scripturile-python](https://github.com/comfyanonymous/ComfyUI/tree/master/script_examples) date ca exemplu si care fac parte din acest produs/[server](https://www.youtube.com/watch?v=oVS1B1gflL8&ab_channel=PromptingPixels)-[***ConfyUI***](https://medium.com/@next.trail.tech/how-to-use-comfyui-api-with-python-a-complete-guide-f786da157d37), o sa vedeti ca serverul-[***ConfyUI***](https://comfyui.org/en/comfyui-windows-conda-venv) asculta(la adresa-URL: http://127.0.0.1:8188) pe portul ***8188***.
 
-Pentru a accesa contextul grafic-utilizator eu am folosit insa adresa **http://127.0.0.1:8000**, descoperita gratie acestui [articol](https://comfyui-wiki.com/en/faq/how-to-access-comfyui-on-lan)
+Pentru a accesa contextul grafic-utilizator eu am folosit insa adresa-URL **http://127.0.0.1:8000**, descoperita gratie acestui [articol](https://comfyui-wiki.com/en/faq/how-to-access-comfyui-on-lan); Aceasta adresa-URL poate fi regasita si daca cautati la **settings(rotita dintata)** si apoi click la sectiunea **About**.
 
 Daca doriti sa instalati managerul-[***ConfyUI***](https://play.kth.se/media/Tutorial+%E2%80%93+How+to+install+ComfyUI+and+ComfyUI+Manager/0_vpfgqb60/462220) atunci probabil ca acest [tutorial](https://stable-diffusion-art.com/comfyui-manager-install/) v-ar putea fi util!
 
