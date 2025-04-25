@@ -32,7 +32,7 @@ Managerul fluxului de lucru **n8n** ofera avantajul ca poate fi "selhosted"(auto
 <br/>
 
 
-Pentru a folosi generatorul-AI [**text-to-2D-Image**](https://comfyui-wiki.com/en/install/install-comfyui/comfyui-desktop-installation-guide), intitulat [**ConfyUI-desktop**](https://www.youtube.com/watch?v=t5F9ehZ7MhQ&ab_channel=FahdMirza), este recomandat sa folosim [NSIS](https://www.electron.build/nsis.html)-[installer(x64)](https://stable-diffusion-art.com/how-to-install-comfyui/)-ul [acesta](https://www.comfy.org/download) pentru ***Windows***(ori ***macOS***; desi se poate instala si sub ***Linux***!); Daca instalati acest produs-desktop([***ConfyUI***](https://github.com/comfyanonymous/ComfyUI)) sub ***Windows*** trabuie sa stiti ca acesta va avea ca "HOME_DIRECTORY" folderul intitulat "[***C:\Users\\{your_user_logged_name}\AppData\Local\Programs\@comfyorgcomfyui-electron\***](https://github.com/Comfy-Org/desktop?tab=readme-ov-file)".
+Pentru a folosi generatorul-AI [**text-to-2D-Image**](https://comfyui-wiki.com/en/install/install-comfyui/comfyui-desktop-installation-guide), intitulat [**ConfyUI-desktop**](https://www.youtube.com/watch?v=t5F9ehZ7MhQ&ab_channel=FahdMirza), este recomandat sa folosim [NSIS](https://www.electron.build/nsis.html)-[installer(x64)](https://stable-diffusion-art.com/how-to-install-comfyui/)-ul [acesta](https://www.comfy.org/download) pentru ***Windows***(ori ***macOS***; desi se poate instala si sub ***Linux***!); Daca instalati acest produs-desktop([***ConfyUI***](https://github.com/comfyanonymous/ComfyUI)) sub ***Windows*** trabuie sa stiti ca acesta va avea ca "HOME_DIRECTORY" folderul intitulat "[***C:\Users\\{your_user_logged_name}\AppData\Local\Programs\@comfyorgcomfyui-electron\\***](https://github.com/Comfy-Org/desktop?tab=readme-ov-file)".
 
 Trebuie spus ca exista si varianta de instalare ***ConfyUI*** intr-un mediu-protejat... folosind [**conda**](https://comfyui.org/en/windows-native-comfyui-install) sau [**venv**](https://www.mimicpc.com/learn/comfyui-beginners-guide).
 
@@ -58,7 +58,7 @@ Apoi urmeaza comanda-shell de instalare:
     comfy install
 
 La final(dupa instalare) vi se va oferi calea folder-ului in care s-au instalat fisierele aferente:
-<br/>***C:\Users\\{your_user_logged_name}\Documents\comfy\ComfyUI\***
+<br/>***C:\Users\\{your_user_logged_name}\Documents\comfy\ComfyUI\\***
 
 Din  [scripturile-python](https://github.com/comfyanonymous/ComfyUI/tree/master/script_examples) date ca exemplu si care fac parte din acest produs/[server](https://www.youtube.com/watch?v=oVS1B1gflL8&ab_channel=PromptingPixels)-[***ConfyUI***](https://medium.com/@next.trail.tech/how-to-use-comfyui-api-with-python-a-complete-guide-f786da157d37), o sa vedeti ca serverul-[***ConfyUI***](https://comfyui.org/en/comfyui-windows-conda-venv) asculta(la adresa-URL: http://127.0.0.1:8188) pe portul ***8188***.
 
