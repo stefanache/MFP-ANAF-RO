@@ -17,3 +17,6 @@ In legatura cu subiectul HuggingFace(HF) o sa plasez aici cateva link-uri utile:
  - [YT: libraria **vLLM**](https://www.youtube.com/watch?v=tLEdDMeCe5U&ab_channel=FahdMirza)
    <br/>Acest videoClip arată cum să rulați modele bazate pe [*transformator* huggingface(HF)](https://docs.vllm.ai/en/latest/models/generative_models.html#generative-models), cu libraria [**vLLM**](https://github.com/vllm-project/vllm), pentru o implementare/dezvoltare pe [scară-largă](https://www.reddit.com/r/LocalLLaMA/comments/1jjl45h/compared_performance_of_vllm_vs_sglang_on_2/?tl=ro);
    <br/>Despre adaptoarele de tip [***LoRA***](https://docs.vllm.ai/en/latest/features/lora.html)([Low-Rank Adaption](https://www.nobleprog.md/cc/finetuninglora)) si despre utilizarea acestora cu ajutorul ***ConfyUI***, puteti afa cate ceva din acest [tutorial](https://www.unite.ai/ro/how-to-train-and-use-hunyuan-video-lora-models/);
+   <br/>Low-Rank Adaptation (LoRA) este o tehnică de ultimă oră/destul de recenta pentru ajustarea eficientă a modelelor la scară-largă prin...
+   <br/>...reducerea cerințelor de calcul și de memorie ale metodelor tradiționale.
+   <br/>Utilizarea LoRA pentru a adapta modelele pre-antrenate pentru sarcini specifice este o tehnica ideală pentru mediile cu resurse limitate.
