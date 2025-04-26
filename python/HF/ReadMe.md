@@ -15,4 +15,4 @@ In legatura cu subiectul HuggingFace(HF) o sa plasez aici cateva link-uri utile:
  - [HF-collections: stereoPlegic](https://huggingface.co/stereoplegic)
  - [HF-collections-stereoPlegic-ontology: stereoplegic's Collections: Ontology](https://huggingface.co/collections/stereoplegic/ontology-655b0a00bf604a773282c8ce)
  - [YT: libraria **vLLM**](https://www.youtube.com/watch?v=tLEdDMeCe5U&ab_channel=FahdMirza)
-   <br/>Acest videoClip arată cum să rulați modele bazate pe *transformator* huggingface(HF), cu libraria **vLLM**, pentru o implementare/dezvoltare pe scară-largă
+   <br/>Acest videoClip arată cum să rulați modele bazate pe [*transformator* huggingface(HF)](https://docs.vllm.ai/en/latest/models/generative_models.html#generative-models), cu libraria [**vLLM**](https://github.com/vllm-project/vllm), pentru o implementare/dezvoltare pe scară-largă
