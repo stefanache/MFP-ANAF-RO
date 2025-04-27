@@ -113,7 +113,7 @@ Diferențierea automată (**autodiff**) este o tehnică puternică folosită în
 <br/>Asadar in acest context,  reprezentarile [**vectoriale**](https://math.fandom.com/ro/wiki/C%C3%A2mp_vectorial) si cele [**matriciale**](https://ro.wikipedia.org/wiki/Matrice_hessian%C4%83), pot deveni deveni "insuficiente", motiv pt care apare in acest joc(de reprezentare) un alt termen(destul de vehiculat in epoca AI!)...[***tensorul***](https://ro.wikipedia.org/wiki/C%C3%A2mp_tensorial)!
 
 Tehnica **autodiff** ne permite sa rezolvăm, spre exemplu ... o *ecuație de [advecție-difuzie](/https://sd.utcb.ro/wp-content/uploads/2021/02/Rezumat-teza-de-doctorat-RO_Andreea-Savu.pdf)* (care descrie evoluția/[difuzia](https://ro.wikipedia.org/wiki/Legile_lui_Fick)/expansiunea în timp a [poluării](https://miro.medium.com/v2/resize:fit:600/format:webp/1*s6Mf3tlEP-sjIhfM9-QqQw.gif)) utilizand in acest caz metoda [***diferențelor-finite***](https://www.scribd.com/document/371258895/Metoda-Diferentelor-Finite). 
-<br/>Obiectivul final al acestui demers ar fi de fapt sa gasim raspunsul întrebarea urmatoare:
+<br/>Obiectivul final al acestui [demers](https://www.lmn.pub.ro/~daniel/ElectromagneticModelingDoctoral/Tutorials/carte_FEM-ME-DI-final2012.pdf) ar (putea) fi, de fapt, acela de a a gasi raspunsul urmatoarea întrebare:
 
  - Care sunt valorile parametrilor de intrare conduc la un scenariu „cel mai rău caz”(vazut ca un punct-(de)-extrem adica de maxim sau minim local/global, ori ca un punct-(de)-inflexiune!...sau daca vreti un punct-temporal-de interes/important/optim in [evolutia](https://dspace.upt.ro/jspui/bitstream/123456789/754/3/BUPT_TD_Alice%20Ghitescu.pdf) sa ca si semnal/deci dependent de timp) într-un eveniment-de-poluare?
 
