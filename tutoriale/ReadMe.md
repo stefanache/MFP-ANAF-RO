@@ -91,7 +91,7 @@ Autorul articolulului ne propune sa ne cream propria noastra [simulare N-body di
 
 Diferențierea automată (**autodiff**) este o tehnică puternică folosită în **AI** pentru a automatiza și a calcula eficient gradienții(modificarile/variabilitatea/fluctuatiile/schimbarea/transformarea sau tranformabilitatea/masurarea sau masura/dinamica/analiza/evolutia/modelarea/simularea/pulsatia *continua/discreta* in timp-real/temporala a unei/unor valori oarecare aferenta unui parametru/semnal/serii-temporal/e) pentru probleme de optimizare.
 
-***Nota:****
+***Nota:***
 <br/> Pana la urma, un semnal este urmarit/monitorizat/esantionat in timp la intervale de timp egale si oricat posibil de mici si i se masoara valorile asociate unul parametru/indicator(din multimea completa a acestor parametrii care descriu procesul studiat):
 <br/> v0,v1,v2... aferent momentelor de timp t0,t1,t2...
 <br/>Ceea ce se obtine de fapt este un **sir** de valori!
