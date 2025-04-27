@@ -22,7 +22,7 @@ In legatura cu subiectul HuggingFace(HF) o sa plasez aici cateva link-uri utile:
    <br/>Utilizarea [LoRA](https://docs.vllm.ai/en/stable/features/lora.html) pentru a adapta modelele pre-antrenate pentru [sarcini specifice](https://medium.com/@rajaravivarman/rag-vs-lora-for-efficient-language-model-tuning-c6f675e710c5) este o tehnica ideală pentru mediile cu resurse limitate.
    <br/>
    <br/>**RAG**(minimizeaza cerinta dinamica de date) și
-   <br/>**LoRA**(reduce consumul de resurse inerente reglarii-fine specifice modellelor pre-antrenate)
+   <br/>**LoRA**(reduce consumul de resurse inerente reglarii-fine specifice modelelor-mari-de-limbaj/LLM-urilor pre-antrenate)
    <br/>oferă *instrumente* valoroase
 
     - pentru ...
