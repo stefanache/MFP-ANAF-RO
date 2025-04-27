@@ -89,7 +89,7 @@ O recomandare de lecturare interesanta o constituie si acest [articol](https://l
 
 Autorul articolulului ne propune sa ne cream propria noastra [simulare N-body diferențiabilă](https://github.com/pmocz/nbody-jax) (utilizand [Python](https://medium.com/gitconnected/create-your-own-automatically-differentiable-simulation-with-python-jax-46951e120fbb)/[JAX](https://docs.jax.dev/en/latest/quickstart.html)).
 
-Diferențierea automată (**autodiff**) este o tehnică puternică folosită în **AI** pentru a automatiza și a calcula eficient gradienții(modificarile/variabilitatea/fluctuatiile/schimbarea/transformarea sau tranformabilitatea/masurarea sau masura/dinamica/analiza/evolutia/modelarea/simularea/pulsatia *continua/discreta* in timp-real/temporala a unei/unor valori oarecare aferenta unui parametru/semnal/serii-temporal/e) pentru probleme de optimizare.
+Diferențierea automată (**autodiff**) este o tehnică puternică folosită în **AI** pentru a automatiza și a calcula eficient gradienții(modificarile/variabilitatea/fluctuatiile/schimbarea/transformarea sau tranformabilitatea/masurarea sau masura/dinamica/analiza/evolutia/modelarea/simularea/pulsatia *continua/discreta* in timp-real/temporala a unei/unor valori oarecare aferenta unui parametru/semnal/serii-temporal/e), pentru probleme/in scopuri de optimizar[e/i].
 
 ***Nota:***
 <br/> Pana la urma, un semnal este urmarit/monitorizat/esantionat in timp la intervale de timp egale si oricat posibil de mici si i se masoara valorile asociate unui parametru/indicator(din multimea completa a acestor parametrii care descriu procesul studiat):
