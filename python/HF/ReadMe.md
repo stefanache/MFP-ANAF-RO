@@ -35,3 +35,5 @@ In legatura cu subiectul HuggingFace(HF) o sa plasez aici cateva link-uri utile:
            - eficiența de calcul,
            - timpul sau
            - cerințele de date.
+
+ - [Gemini2.5](https://blog.google/technology/google-deepmind/gemini-model-thinking-updates-march-2025/#gemini-2-5-thinking)
