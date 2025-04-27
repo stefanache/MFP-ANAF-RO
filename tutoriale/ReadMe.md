@@ -94,7 +94,7 @@ Diferențierea automată (**autodiff**) este o tehnică puternică folosită în
 Tehnica **autodiff** ne permite sa rezolvăm, spre exemplu ... o *ecuație de advecție-difuzie* (care descrie evoluția în timp a [poluării](https://miro.medium.com/v2/resize:fit:600/format:webp/1*s6Mf3tlEP-sjIhfM9-QqQw.gif)) utilizand in acest caz metoda ***diferențelor-finite***. 
 <br/>Obiectivul final al acestui demers ar fi de fapt sa gasim raspunsul întrebarea urmatoare:
 
- - Care sunt valorile parametrilor de intrare conduc la un scenariu „cel mai rău caz”(vazut ca un punct (de) extrem adica de maxim sau minim local/global!) într-un eveniment-de-poluare?
+ - Care sunt valorile parametrilor de intrare conduc la un scenariu „cel mai rău caz”(vazut ca un punct-(de)-extrem adica de maxim sau minim local/global, ori ca un punct-(de)-inflexiune!...sau daca vreti un punct-temporal-de interes/important/optim in evolutia sa ca si semnal) într-un eveniment-de-poluare?
 
 Articolul recomandat ne propune, exercițiul de codificare recreaționala, in scopul de a  revizui ***problema gravitațională N- corp*** și de a învăța cum să scriem o implementare **diferențiabilă**(evolutia/miscarea in timp...amintiti-va va rog, de pilda ca: viteza este/ne arata/masoara diferentiala-temporala a spatiului adica ds/dt=v(t) sau mai simplu spus viteza de schimbare  imi arata/masoara cum se modifica/schimba/modifica in timp, spatiul studiat/masurat) pentru a rezolva o problemă-de-inginerie-inversă . 
 <br/>Aventura acestui demers presupune sa cream o *simulare* a unui **sistem-dinamic-de-particule** care *interacționează-gravitațional* ***unele-cu-altele***.
