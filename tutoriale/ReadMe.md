@@ -89,7 +89,7 @@ O recomandare de lecturare interesanta o constituie si acest [articol](https://l
 
 Autorul articolulului ne propune sa ne cream propria noastra [simulare N-body diferențiabilă](https://github.com/pmocz/nbody-jax) (utilizand [Python](https://medium.com/gitconnected/create-your-own-automatically-differentiable-simulation-with-python-jax-46951e120fbb)/[JAX](https://docs.jax.dev/en/latest/quickstart.html)).
 
-Diferențierea automată (**autodiff**) este o tehnică puternică folosită în **AI** pentru a automatiza și a calcula eficient ***gradienții***(ori daca vreti, modificarile / variabilitatea / fluctuatiile / schimbarea / transformarea sau tranformabilitatea / masurarea sau masura / dinamica / analiza / evolutia / modelarea / simularea / pulsatia *continua/discreta*, in timp-real/temporala, a unei/unor valori oarecare, aferenta unui parametru/semnal/serii-temporal/e), pentru probleme/in scopuri de optimizar[e/i].
+Diferențierea automată (**autodiff**) este o tehnică puternică folosită în **AI** pentru a automatiza și a calcula eficient ***gradienții***(ori daca vreti, modificarile / variabilitatea / fluctuatiile / schimbarea / transformarea sau tranformabilitatea / masurarea sau masura / dinamica / analiza / interogarea / esantionarea / discretizarea/ evolutia / modelarea / simularea / pulsatia *continua/discreta*, in timp-real/temporala, a unei/unor valori oarecare, aferenta unui parametru/semnal/serii-temporal/e), pentru probleme/in scopuri de optimizar[e/i].
 
 ***Nota:***
 <br/> Pana la urma, un semnal este urmarit/monitorizat/esantionat in timp la intervale de timp egale si oricat posibil de mici si i se masoara valorile asociate unui parametru/indicator(din multimea completa a acestor parametrii care descriu procesul studiat):
@@ -99,6 +99,9 @@ Diferențierea automată (**autodiff**) este o tehnică puternică folosită în
 <br/>Trebuie insa sa va raportati si la o marime de referinta strict monotona(strict  crescatoare ori strict descrescatoare) la care se raporteaza(in acest caz **timpul**!) care sa ne ajute sa obtinem o relatie de ordonare a avestor valori(in acest caz o ordonare in timp!-real) a valorilor semnalului nostru/studiat... 
 <br/>Asadar sirul de valori ordonat de catre timp ar defini gradientul!
 <br/>Daca mai luam in calcul sa spunem o a 2 marime de referinta, hai sa spunem de spatiu(1D,2D,3D...) si am masura variabilitatea nu numai in functie de timp ci si de spatiu atunci am putea vorbi de **camp de gradient**(iar un exemplu care imi vine imediat in minte este cel al campului-conjugat/complex/compus electro-magnetic, care este caracterizat de parametrii/marimile ce masoara intentitatile celor 2 componente E-electric si B-magnetic care vor pulsa/isi vor modifica valorile atat in timp cat si in spatiu)
+<br/>In cazul **campului de gratient** vom iscodi/interoga/urmari variabialitatea semnalului(E si /sau B) in functie de 2 marimi de referinta(in acest caz, in functie de spatiu=localizare si timp=dimensiunea temporala), folosind deci o plasa/grid bidimensional(Spatiu X Timp) de noduri de esantionare/observare/referinta.
+<br/>Ambele marimi, atat Spatiul cat si timpul fiind considerate marimi ordonatoare uniform continue.
+
 
 Tehnica **autodiff** ne permite sa rezolvăm, spre exemplu ... o *ecuație de advecție-difuzie* (care descrie evoluția în timp a [poluării](https://miro.medium.com/v2/resize:fit:600/format:webp/1*s6Mf3tlEP-sjIhfM9-QqQw.gif)) utilizand in acest caz metoda ***diferențelor-finite***. 
 <br/>Obiectivul final al acestui demers ar fi de fapt sa gasim raspunsul întrebarea urmatoare:
