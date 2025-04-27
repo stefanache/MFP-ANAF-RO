@@ -20,3 +20,10 @@ In legatura cu subiectul HuggingFace(HF) o sa plasez aici cateva link-uri utile:
    <br/>Adaptarea de rang scăzut=Low-Rank Adaptation([***LoRA***](https://medium.com/@shelikohan/low-rank-adapter-lora-explained-0d3677395639)) este o tehnică de ultimă oră/destul de recenta(concept antrenare/reglare fina=**FT** eficienta(a se citi si despe [SFT=Supervised Fine-Tuning](https://huggingface.co/docs/trl/sft_trainer)), lansat de [**MS**](https://github.com/microsoft/LoRA) in septembrie 2023) pentru ajustarea/reglarea/modificarea eficientă(redusa) a modelelor la scară-largă prin...
    <br/>...reducerea cerințelor de calcul și de memorie ale metodelor tradiționale.
    <br/>Utilizarea [LoRA](https://docs.vllm.ai/en/stable/features/lora.html) pentru a adapta modelele pre-antrenate pentru [sarcini specifice](https://medium.com/@rajaravivarman/rag-vs-lora-for-efficient-language-model-tuning-c6f675e710c5) este o tehnica ideală pentru mediile cu resurse limitate.
+   <br/>**RAG** și **LoRA** oferă *instrumente* valoroase
+    - pentru
+           - *optimizarea performanței modelului*
+    - fără a compromite
+           - *eficiența de calcul*,
+           - *timpul* sau
+           - *cerințele de date*.
