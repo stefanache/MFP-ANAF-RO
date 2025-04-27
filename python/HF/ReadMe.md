@@ -36,4 +36,4 @@ In legatura cu subiectul HuggingFace(HF) o sa plasez aici cateva link-uri utile:
            - timpul sau
            - cerințele de date.
 
- - [Gemini2.5](https://blog.google/technology/google-deepmind/gemini-model-thinking-updates-march-2025/#gemini-2-5-thinking) - model performant( de inferenta/deductie-logica/gandie/rationament) pt sarcini de clasificare si predictie, oferit de cei de la ***Google***.
+ - [Gemini2.5](https://blog.google/technology/google-deepmind/gemini-model-thinking-updates-march-2025/#gemini-2-5-thinking) - model performant( de inferenta/deductie-logica/gandie/rationament) pt sarcini de clasificare si predictie, oferit de echipa-***Google***.
