@@ -29,7 +29,7 @@ In legatura cu subiectul HuggingFace(HF) o sa plasez aici cateva link-uri utile:
       
            - optimizarea performanței modelului
 
-    - fără a compromite ...
+    - fără a [compromite](https://www.linkedin.com/posts/nour-albaarini_very-interesting-representation-of-the-difference-activity-7175449304415764480-mfbo/) ...
       
            - eficiența de calcul,
            - timpul sau
