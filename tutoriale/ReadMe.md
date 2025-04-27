@@ -70,7 +70,7 @@ Asadar pt a instala ***ConfyUI(portable)***(de sub ***Windows***) puteti arunca 
 Daca doriti sa instalati managerul-[***ConfyUI***](https://play.kth.se/media/Tutorial+%E2%80%93+How+to+install+ComfyUI+and+ComfyUI+Manager/0_vpfgqb60/462220) atunci probabil ca acest [tutorial](https://stable-diffusion-art.com/comfyui-manager-install/) v-ar putea fi util!
 
 Dupa cum vedeti subiectul **ConfyUi** este unul generos iar eu am insistat un pic pe partea de [*instalare*](https://weirdwonderfulai.art/comfyui/getting-started-with-comfyui-in-2025/). Daca doriti insa sa nu va bateti capul cu acesta operatiune poate va veti indrepta atentia catre [**pinokio**](https://pinokio.computer/).
-<br/>**Pinokio** odata [instalat](https://program.pinokio.computer/#/?id=install) va va propune o sumedenie de aplicatii (printre care si... **ConfyUI**) ce pot fi instalate printr-un/care sunt aflate la doar ... un [simplu] click [distanta].
+<br/>**Pinokio** odata [instalat](https://program.pinokio.computer/#/?id=install) va va propune o sumedenie de aplicatii (printre care si... **ConfyUI**) ce pot fi instalate/istalabile printr-un/care sunt aflate la doar ... un [simplu] click [distanta].
 
 <hr/>
 <br/>
