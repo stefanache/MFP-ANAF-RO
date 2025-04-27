@@ -89,7 +89,7 @@ O recomandare de lecturare interesanta o constituie si acest [articol](https://l
 
 Autorul articolulului ne propune sa ne cream propria noastra [simulare N-body diferențiabilă](https://github.com/pmocz/nbody-jax) (utilizand [Python](https://medium.com/gitconnected/create-your-own-automatically-differentiable-simulation-with-python-jax-46951e120fbb)/[JAX](https://docs.jax.dev/en/latest/quickstart.html)).
 
-Diferențierea automată (**autodiff**) este o tehnică puternică folosită în **AI** pentru a automatiza și a calcula eficient gradienții(modificarile/variabilitatea/fluctuatiile/schimbarea/transformarea sau tranformabilitatea/masurarea sau masura/dinamica/evolutia *continua* in timp-real/temporala a unei/unor valori oarecare aferenta unui parametru/semnal/serii-temporal/e) pentru probleme de optimizare.
+Diferențierea automată (**autodiff**) este o tehnică puternică folosită în **AI** pentru a automatiza și a calcula eficient gradienții(modificarile/variabilitatea/fluctuatiile/schimbarea/transformarea sau tranformabilitatea/masurarea sau masura/dinamica/evolutia/modelarea/simularea *continua/discreta* in timp-real/temporala a unei/unor valori oarecare aferenta unui parametru/semnal/serii-temporal/e) pentru probleme de optimizare.
 
 Tehnica **autodiff** ne permite sa rezolvăm, spre exemplu ... o *ecuație de advecție-difuzie* (care descrie evoluția în timp a [poluării](https://miro.medium.com/v2/resize:fit:600/format:webp/1*s6Mf3tlEP-sjIhfM9-QqQw.gif)) utilizand in acest caz metoda ***diferențelor-finite***. 
 <br/>Obiectivul final al acestui demers ar fi de fapt sa gasim raspunsul întrebarea urmatoare:
