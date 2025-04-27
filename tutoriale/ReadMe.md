@@ -75,4 +75,12 @@ Dupa cum vedeti subiectul **ConfyUi** este unul generos iar eu am insistat un pi
 <hr/>
 <br/>
 
+Intr-un mediu online tot mai "influentat" de AI, parolele lungi si complicate nu mai sunt sigure...[PswrdMngr](https://passwords.google.com/options?hl=ro)  & [MFA](https://www.stiripesurse.ro/s-a-schimbat-curentul-in-mediul-online-noile-parole-care-sunt-mult-mai-greu-de-spart-de-catre-hackeri_3662200.html) poate fi solutia salvatoare!
+
+Într-o eră în care parolele pot fi sparte aproape la fel de repede cum sunt create, securitatea digitală reală nu mai înseamnă doar parole lungi, ci și soluții inteligente de protecție, cum ar fi managerii de parole(PswrdMngr) și autentificarea multifactorială(MFA).
+
+Așa cum spun specialiștii citați de DNSC(Directoratul Național de Securitate Cibernetică) și publicația internațională IFL Science, "în viitor, parola ta nu va mai fi prima linie de apărare, ci doar o piesă într-un sistem de protecție mult mai complex."
+
+<hr/>
+<br/>
 ...
