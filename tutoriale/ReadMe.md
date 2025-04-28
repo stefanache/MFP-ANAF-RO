@@ -28,9 +28,11 @@ Daca vreti sa automatizati([fara cod](https://docs.n8n.io/try-it-out/quickstart/
 
 Managerul fluxului de lucru **n8n** ofera avantajul ca poate fi "selhosted"(autogazduit... si prin urmare beneficiaza de un suport de gaduire gratuit!)...un astfel de exemplu este si acest [proiect-AI](https://github.com/n8n-io/self-hosted-ai-starter-kit).
 
+<details>
+ <summary>Cateva cuvinte despre ... ConfyUI...</summary>
+
 <hr/>
 <br/>
-
 
 Pentru a folosi generatorul-AI [**text-to-2D-Image**](https://comfyui-wiki.com/en/install/install-comfyui/comfyui-desktop-installation-guide), intitulat [**ConfyUI-desktop**](https://www.youtube.com/watch?v=t5F9ehZ7MhQ&ab_channel=FahdMirza), este recomandat sa folosim [NSIS](https://www.electron.build/nsis.html)-[installer(x64)](https://stable-diffusion-art.com/how-to-install-comfyui/)-ul [acesta](https://www.comfy.org/download) pentru ***Windows***(ori ***macOS***; desi se poate instala si sub ***Linux***!); Daca instalati acest produs-desktop([***ConfyUI***](https://github.com/comfyanonymous/ComfyUI)) sub ***Windows*** trabuie sa stiti ca acesta va avea ca "HOME_DIRECTORY" folderul intitulat "[***C:\Users\\{your_user_logged_name}\AppData\Local\Programs\\@comfyorgcomfyui-electron\\***](https://github.com/Comfy-Org/desktop?tab=readme-ov-file)".
 
@@ -71,6 +73,11 @@ Daca doriti sa instalati managerul-[***ConfyUI***](https://play.kth.se/media/Tut
 
 Dupa cum vedeti subiectul **ConfyUi** este unul generos iar eu am insistat un pic pe partea de [*instalare*](https://weirdwonderfulai.art/comfyui/getting-started-with-comfyui-in-2025/). Daca doriti insa sa nu va bateti capul cu acesta operatiune poate va veti indrepta atentia catre [**pinokio**](https://pinokio.computer/).
 <br/>**Pinokio** odata [instalat](https://program.pinokio.computer/#/?id=install) va va propune o sumedenie de aplicatii (printre care si... **ConfyUI**) ce pot fi instalate/istalabile cu usurinta printr-un/care sunt aflate la doar ... un [simplu] click [distanta].
+
+<hr/>
+<br/>
+
+</details>
 
 <details>
  <summary>Atentie la protejarea continutului sensibil prin utilizarea parolewlor...</summary>
