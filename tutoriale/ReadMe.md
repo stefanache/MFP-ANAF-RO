@@ -82,6 +82,9 @@ Intr-un mediu online tot mai "influentat" de AI, parolele lungi si complicate nu
 Așa cum spun specialiștii citați de DNSC(Directoratul Național de Securitate Cibernetică) și publicația internațională IFL Science,
 <br/>"în viitor, parola ta nu va mai fi prima linie de apărare, ci doar o piesă într-un sistem de protecție mult mai complex."
 
+<details>
+ <summary>Va aici propun un studiu legat de Diferentiabilitate...</summary>
+
 <hr/>
 <br/>
 
@@ -124,4 +127,7 @@ Articolul recomandat ne propune, exercițiul de codificare [recreaționala](http
 
 <hr/>
 <br/>
+
+</details>
+
 ...
