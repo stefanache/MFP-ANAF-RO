@@ -119,7 +119,7 @@ Așa cum spun specialiștii citați de DNSC(Directoratul Național de Securitate
 </details>
 
 <details>
- <summary>Va aici propun un studiu legat de <b>Diferentiabilitate</b>...</summary>
+ <summary>Va propun un studiu legat de <b>Diferentiabilitate</b>...</summary>
 
 <hr/>
 <br/>
