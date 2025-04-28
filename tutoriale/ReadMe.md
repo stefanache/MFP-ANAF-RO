@@ -95,8 +95,9 @@ Asadar pt a instala ***ConfyUI(portable)***(de sub ***Windows***) puteti arunca 
 
 Daca doriti sa instalati managerul-[***ConfyUI***](https://play.kth.se/media/Tutorial+%E2%80%93+How+to+install+ComfyUI+and+ComfyUI+Manager/0_vpfgqb60/462220) atunci probabil ca acest [tutorial](https://stable-diffusion-art.com/comfyui-manager-install/) v-ar putea fi util!
 
-Dupa cum vedeti subiectul **ConfyUi** este unul generos iar eu am insistat un pic pe partea de [*instalare*](https://weirdwonderfulai.art/comfyui/getting-started-with-comfyui-in-2025/). Daca doriti insa sa nu va bateti capul cu acesta operatiune poate va veti indrepta atentia catre [**pinokio**](https://pinokio.computer/).
+Dupa cum vedeti subiectul [**ConfyUi**](https://www.reddit.com/r/StableDiffusion/comments/1k8kj66/hunyuan_3d_v25_is_awesome/?%24deep_link=true&correlation_id=efc00311-dff0-48f6-82b9-c7e2cde0a222&post_fullname=t3_1k8kj66&post_index=0&ref=email_digest&ref_campaign=email_digest&ref_source=email&utm_content=post_title&%243p=e_as&_branch_match_id=1408733888975067062&utm_medium=Email%20Amazon%20SES&_branch_referrer=H4sIAAAAAAAAA22P0U7DMAxFv6Z769YlWxmTJoSY%2BAE%2BIMoSpzVLk8hJKLzw7bgMeEKKpatz42t7LCXl42ZDYC2WtU5p7TFcNzI9NGIn0wmUziuWkXDAoL2q5E%2Fj0tXIx0Y885vnef3Tb%2BLEgLheir54OKNzNWMMTNibIJTMcns9XF%2F7ntVYw0fVQUmr3sReYVZ6hhwnWKIlp%2B%2FFzgIktWzVyHOhylZvIhF4XThZoWUOznSd3G5b61zX7g6ubw%2Fict%2BaOxDGQqeFENyXYi7KVe%2BD5hEcJ9XfLjcTg4V3djoGBG6JnjR6ZXGAXG5QGT0ljUP4382xkoFfj2EtkzIxFL6e6feYgsXD6pO%2FAxGGQV0ozhno9DQSX%2F8FmIoI6pcBAAA%3D) este unul generos iar eu am insistat un pic pe partea de [*instalare*](https://weirdwonderfulai.art/comfyui/getting-started-with-comfyui-in-2025/). Daca doriti insa sa nu va bateti capul cu acesta operatiune poate va veti indrepta atentia catre [**pinokio**](https://pinokio.computer/).
 <br/>**Pinokio** odata [instalat](https://program.pinokio.computer/#/?id=install) va va propune o sumedenie de aplicatii (printre care si... **ConfyUI**) ce pot fi instalate/istalabile cu usurinta printr-un/care sunt aflate la doar ... un [simplu] click [distanta].
+
 
 <hr/>
 <br/>
