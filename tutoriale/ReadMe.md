@@ -21,15 +21,22 @@ Trebuie sa vedem si partea plina a paharului si anume ca exista domenii(ex. [agr
 
 Un [exemplu](https://docs.oasis-open.org/ubl/os-UBL-2.2/xml/UBL-Invoice-2.1-Example.xml) [trivial](https://github.com/Tradeshift/tradeshift-ubl-xsd/blob/master/src/test/resources/org/oasis-open/ubl/examples/UBL-Invoice-2.1-Example-Trivial.xml)(simplu) al unei facturi [UBL 2.1](https://facturis-online.ro/tag/xml-e-factura)
 
+<details>
+ <summary>Cum pot automatiza constructia fluxului de lucru, folosind <b>n8n</b>, fara a scrie cod...</summary>
 <hr/>
 <br/>
 
 Daca vreti sa automatizati([fara cod](https://docs.n8n.io/try-it-out/quickstart/)) fluxul (sa spunem...financiar) de lucru (ex. facturi,plati) atunci puteti opta pt [n8n sau zapier](https://www.hostinger.com/tutorials/what-is-n8n?utm_campaign=Generic-Tutorials-DSA|NT:Se|LO:Other-EU&utm_medium=ppc&gad_source=1&gbraid=0AAAAADMy-hbGbrh6IXeJJ2MZFS9V2fc5Z&gclid=Cj0KCQjw_JzABhC2ARIsAPe3ynom_zR-klNufn1sk5n3PNk8dByNkBcgW2wZFKF0KMzNxnsEnKZVJlkaAh9CEALw_wcB)
 
-Managerul fluxului de lucru **n8n** ofera avantajul ca poate fi "selhosted"(autogazduit... si prin urmare beneficiaza de un suport de gaduire gratuit!)...un astfel de exemplu este si acest [proiect-AI](https://github.com/n8n-io/self-hosted-ai-starter-kit).
+Managerul fluxului de lucru [**n8n**](https://luhhu.com/blog/is-n8n-a-rpa) ofera avantajul ca poate fi "selhosted"(autogazduit... si prin urmare beneficiaza de un suport de gaduire gratuit!)...un astfel de exemplu este si acest [proiect-AI](https://github.com/n8n-io/self-hosted-ai-starter-kit).
+
+<hr/>
+<br/>
+
+</details>
 
 <details>
- <summary>Cateva cuvinte despre ... ConfyUI...</summary>
+ <summary>Cateva cuvinte despre arhitectul de AI-conducte/pipelines/flowChart/flux-de-lucru... <b>ConfyUI</b>...</summary>
 
 <hr/>
 <br/>
@@ -80,7 +87,7 @@ Dupa cum vedeti subiectul **ConfyUi** este unul generos iar eu am insistat un pi
 </details>
 
 <details>
- <summary>Atentie la protejarea continutului sensibil prin utilizarea parolewlor...</summary>
+ <summary>Atentie la protejarea continutului sensibil prin utilizarea <b>parolelor</b>...</summary>
  
 <hr/>
 <br/>
@@ -97,7 +104,7 @@ Așa cum spun specialiștii citați de DNSC(Directoratul Național de Securitate
 </details>
 
 <details>
- <summary>Va aici propun un studiu legat de Diferentiabilitate...</summary>
+ <summary>Va aici propun un studiu legat de <b>Diferentiabilitate</b>...</summary>
 
 <hr/>
 <br/>
