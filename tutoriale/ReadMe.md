@@ -1,3 +1,13 @@
+Salut,
+
+Aici voi da cateva referinte spre lucrari/tutoriale/ articole care ajuta la intelegerea unor aspecte legate de IT&C:
+
+<details>
+<summary><b>Formularele electronice fiscale</b> orchestrate de ANAF/MFP/eGov.ro</summary>
+
+ <hr/>
+<br/>
+
 [eGuvernare](https://www.e-guvernare.ro/): [formulare fiscale](https://www.anaf.ro/anaf/internet/ANAF/asistenta_contribuabili/declararea_obligatiilor_fiscale/toate_formularele)
 
 Formularele fiscale de tip [PDF-form](https://stackoverflow.com/questions/9139787/how-to-fill-pdf-form-in-php)([soft-A](https://www.sitepoint.com/filling-pdf-forms-pdftk-php/)) sunt [formulare inteligente](https://learn.microsoft.com/en-us/training/browse/?products=windows&subjects=artificial-intelligence), care poseda  validari precum si alte facilitati specifice editarii.
@@ -20,6 +30,11 @@ Trebuie sa vedem si partea plina a paharului si anume ca exista domenii(ex. [agr
 
 
 Un [exemplu](https://docs.oasis-open.org/ubl/os-UBL-2.2/xml/UBL-Invoice-2.1-Example.xml) [trivial](https://github.com/Tradeshift/tradeshift-ubl-xsd/blob/master/src/test/resources/org/oasis-open/ubl/examples/UBL-Invoice-2.1-Example-Trivial.xml)(simplu) al unei facturi [UBL 2.1](https://facturis-online.ro/tag/xml-e-factura)
+
+<hr/>
+<br/>
+
+</details>
 
 <details>
  <summary>Cum pot automatiza constructia fluxului de lucru, folosind <b>n8n</b>, fara a scrie cod...</summary>
