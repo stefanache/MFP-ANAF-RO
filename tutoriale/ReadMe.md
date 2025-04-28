@@ -72,6 +72,9 @@ Daca doriti sa instalati managerul-[***ConfyUI***](https://play.kth.se/media/Tut
 Dupa cum vedeti subiectul **ConfyUi** este unul generos iar eu am insistat un pic pe partea de [*instalare*](https://weirdwonderfulai.art/comfyui/getting-started-with-comfyui-in-2025/). Daca doriti insa sa nu va bateti capul cu acesta operatiune poate va veti indrepta atentia catre [**pinokio**](https://pinokio.computer/).
 <br/>**Pinokio** odata [instalat](https://program.pinokio.computer/#/?id=install) va va propune o sumedenie de aplicatii (printre care si... **ConfyUI**) ce pot fi instalate/istalabile cu usurinta printr-un/care sunt aflate la doar ... un [simplu] click [distanta].
 
+<details>
+ <summary>Atentie la protejarea continutului sensibil prin utilizarea parolewlor...</summary>
+ 
 <hr/>
 <br/>
 
@@ -81,6 +84,10 @@ Intr-un mediu online tot mai "influentat" de AI, parolele lungi si complicate nu
 
 Așa cum spun specialiștii citați de DNSC(Directoratul Național de Securitate Cibernetică) și publicația internațională IFL Science,
 <br/>"în viitor, parola ta nu va mai fi prima linie de apărare, ci doar o piesă într-un sistem de protecție mult mai complex."
+
+<hr/>
+<br/>
+</details>
 
 <details>
  <summary>Va aici propun un studiu legat de Diferentiabilitate...</summary>
