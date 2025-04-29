@@ -198,7 +198,7 @@ Articolul recomandat ne propune, exercițiul de codificare [recreaționala](http
   - la nivel de ***cap/head*** și
   - la nivel de ***neuron***. 
 
-*Nota*:
+[*Nota*](https://www.google.com/search?q=semiotica+frazelor+propozitiilor+semantica&sca_esv=1ae1f5a229be0f0a&rlz=1C1CHBF_enRO1132RO1132&sxsrf=AHTn8zr762HZ7mTIlhdbmjfamN6mYjPsNQ%3A1745922010447&ei=2qcQaK6IG8iExc8P3_nDyQE&ved=0ahUKEwiu3fOpgv2MAxVIQvEDHd_8MBkQ4dUDCBE&uact=5&oq=semiotica+frazelor+propozitiilor+semantica&gs_lp=Egxnd3Mtd2l6LXNlcnAiKnNlbWlvdGljYSBmcmF6ZWxvciBwcm9wb3ppdGlpbG9yIHNlbWFudGljYTIFEAAY7wUyBRAAGO8FMgUQABjvBTIFEAAY7wVI7BdQpgVYnBZwAXgBkAEAmAHEAaAB1guqAQQwLjEwuAEDyAEA-AEBmAILoAL0C8ICChAAGLADGNYEGEfCAgUQIRigAcICBxAhGKABGArCAgQQIRgVmAMAiAYBkAYIkgcFMS45LjGgB84osgcFMC45LjG4B-4L&sclient=gws-wiz-serp):
 <br/>***Transformerii*** nu au doar un singur ***cap/head***, ci mai multe *capete - de - atenție* din partea mai multor capete , ca să fim preciși. 
 <br/>Fiecare cap se concentrează pe diferite aspecte ale *relațiilor(semantice)* dintre elemente/componente, oferind o înțelegere(a sensului sau a semanticii) mai cuprinzătoare/completa a secvenței(de text). 
 <br/>Este ca și cum ai avea o echipă de experți/capete, fiecare cu propria ***perspectivă(punct de vedere semantic)***, care lucrează împreună pentru a analiza datele.
