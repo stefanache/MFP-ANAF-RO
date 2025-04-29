@@ -182,9 +182,9 @@ Articolul recomandat ne propune, exercițiul de codificare [recreaționala](http
   - Un **transformator**([Transformer](https://simple.wikipedia.org/wiki/Transformer_(machine_learning_model))) este un model de calculator utilizat pentru deep-learning(DL), un tip de învățare-automată(ML) în care computerele se învață singure(computer-ul autodidact).
 
   - [**Atenția**](https://en.wikipedia.org/wiki/Attention_(machine_learning)) este o metodă de învățare-automată(ML) care determină importanța relativă a fiecărei componente dintr-o secvență în raport cu celelalte componente din acea secvență.
-    <br/>În procesarea-limbajului-natural(NLP) , importanța este reprezentată de ponderi „soft” atribuite fiecărui cuvânt dintr-o propoziție.
+    <br/>În procesarea-limbajului-natural(NLP) , importanța este reprezentată de ponderi „*soft*” atribuite fiecărui cuvânt dintr-o propoziție.
     <br/>Mai general, atenția codifică/incorporeaza <b>vectori</b> numiți încorporări de [token](https://en.wikipedia.org/wiki/Generative_artificial_intelligence)-uri pe o secvență cu lățime fixă , care poate varia de la zeci la milioane de token-uri în dimensiune.
-     <br/>Spre deosebire de ponderile „hard”, care sunt calculate în timpul trecerii de antrenament invers, ponderile „soft” există doar în trecerea înainte și, prin urmare, se schimbă cu fiecare pas al inputului.
+     <br/>Spre deosebire de ponderile „*hard*”, care sunt calculate în timpul *trecerii-de antrenament-invers*, ponderile „*soft*” există doar în *trecerea-înainte* și, prin urmare, se *schimbă/modifica*... cu fiecare pas al inputului/intrarii.
     <br/>Proiectele anterioare au implementat mecanismul de atenție într-un sistem de traducere a limbajului de tip rețea neuronală recurentă serială (RNN), dar un design mai recent, și anume transformatorul , a eliminat RNN secvențial mai lent și s-a bazat mai mult pe schema de atenție paralelă mai rapidă.
     
  In acest [articol]((https://www.comet.com/site/blog/explainable-ai-for-transformers/)), explorăm unul dintre cele mai populare instrumente pentru vizualizarea caracteristicii distinctive principale a arhitecturilor [transformatoarelor](https://simple.wikipedia.org/wiki/Transformer_(machine_learning_model)): mecanismul atenției. 
