@@ -199,7 +199,7 @@ Articolul recomandat ne propune, exercițiul de codificare [recreaționala](http
   - la nivel de ***neuron***. 
 
  ***BertViz*** este un instrument de explicabilitate într-un domeniu (**NLP**) care este altfel notoriu de opac. 
- <br/>Și, în ciuda numelui său, ***BertViz*** <ins>nu funcționează doar pe</ins> modelul **BERT**(Bidirectional Encoder Representations from Transformers). 
+ <br/>Și, în ciuda numelui său, ***BertViz*** <ins>nu funcționează doar pe</ins> modelul [**BERT**](https://en.wikipedia.org/wiki/BERT_(language_model))(Bidirectional Encoder Representations from Transformers). 
  <br/>API-ul ***BertViz*** acceptă multe modele-de-limbaj(LM-uri)-***transformator***, inclusiv[ **GPT2** ori **T5**](https://aiplanet.com/learn/llm-bootcamp/module-6/2350/pre-trained-transformer-models-t5-and-gpt2)(învățărea-prin-transfer/transfer-learning/[**TL**](https://blog.dailydoseofds.com/p/transfer-learning-fine-tuning-multitask) cu un **transformator** text-text unificat”), [**BART**](https://huggingface.co/docs/transformers/v4.34.1/model_doc/bart) și majoritatea modelelor **HuggingFace**([**HF**](https://huggingface.co/docs/transformers/attention)).
  <br/>*Nota*: **BART** folosește o arhitectură standard seq2seq/traducere-automată cu un codificator-bidirecțional(cum ar fi [BERT](https://huggingface.co/docs/transformers/model_doc/bert)) și un decodificator stânga-dreapta (cum ar fi [GPT](https://medium.com/@reyhaneh.esmailbeigi/bert-gpt-and-bart-a-short-comparison-5d6a57175fca))
 
