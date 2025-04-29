@@ -186,16 +186,16 @@ Articolul recomandat ne propune, exercițiul de codificare [recreaționala](http
     <br/>În procesarea-limbajului-natural(NLP) , importanța este reprezentată de ponderi „*soft*” atribuite fiecărui cuvânt dintr-o propoziție.
     <br/>Mai general, **atenția** codifică/incorporeaza <b>vectori</b> numiți încorporări de [token](https://en.wikipedia.org/wiki/Generative_artificial_intelligence)-uri pe o secvență cu lățime fixă , care poate varia de la zeci la milioane de token-uri în dimensiune.
      <br/>Spre deosebire de ponderile „*hard*”, care sunt calculate în timpul *trecerii-de antrenament-invers*, ponderile „*soft*” există doar în *trecerea-înainte* și, prin urmare, se *schimbă/modifica*... cu fiecare pas al inputului/intrarii.
-    <br/>Proiectele anterioare au implementat mecanismul-de-**atenție** într-un sistem-de-traducere(conversie)-a-limbajului de tip rețea(Network)-Neuronală-Recurentă-serială(***RNN***), dar un design mai recent, și anume ***transformatorul*** , (care) a eliminat ***RNN***-ul secvențial/serial(care este lent) și s-a bazat mai mult pe schema-de-**atenție**-paralelă(care este mai rapidă).
+    <br/>Proiectele anterioare au implementat mecanismul-de-**atenție** într-un sistem-de-traducere(conversie)-a-limbajului de tip rețea(Network)-Neuronală-Recurentă-serială(***RNN***), dar un design mai recent, și anume ***transformatorul***(***Transformer**) , (care) a eliminat ***RNN***-ul secvențial/serial(care este lent) și s-a bazat mai mult pe schema-de-**atenție**-paralelă(care este mai rapidă).
 
  [...](https://www.google.com/search?q=.gif+AI+attention+learning++flowchart&sca_esv=b69c0981c8b5228b&rlz=1C1CHBF_enRO1132RO1132&udm=2&biw=1920&bih=911&sxsrf=AHTn8zrpuvD9Dig2iejSxmRfrk0U6ze1iw%3A1745910185404&ei=qXkQaIW0GJKIxc8Pl5Dj2AI&ved=0ahUKEwjFrKSj1vyMAxUSRPEDHRfIGCsQ4dUDCBI&uact=5&oq=.gif+AI+attention+learning++flowchart&gs_lp=EgNpbWciJS5naWYgQUkgYXR0ZW50aW9uIGxlYXJuaW5nICBmbG93Y2hhcnRIlIUBUKUJWJ19cAF4AJABAJgBfKAByA6qAQQwLjE2uAEDyAEA-AEBmAIAoAIAmAMAiAYBkgcAoAfQBbIHALgHAA&sclient=img)
     
- In acest [articol](https://www.comet.com/site/blog/explainable-ai-for-transformers/), explorăm unul(**BertViz**) dintre cele mai populare instrumente-pentru/de-vizualizare[a] caracteristicii-distinctive-principale(***atenția***) a arhitecturilor [***Transformatoarelor***](https://simple.wikipedia.org/wiki/Transformer_(machine_learning_model))(sau de tip "***Transformers***"!): mecanismul-**Atenției**.
+ In acest [articol](https://www.comet.com/site/blog/explainable-ai-for-transformers/), explorăm unul(**BertViz**) dintre cele mai populare instrumente-pentru/de-vizualizare[a] caracteristicii-distinctive-principale(**atenția**) a arhitecturilor [***Transformatoarelor***](https://simple.wikipedia.org/wiki/Transformer_(machine_learning_model))(sau de tip "***Transformers***"!): mecanismul-**Atenției**.
 
- ***BertViz*** este un instrument open source care vizualizează mecanismul de atenție al modelelor de transformare la mai multe scări, inclusiv la 
+ ***BertViz*** este un instrument open source care vizualizează mecanismul-de-**atenție** al modelelor-de-transformare(***Transformers***) la mai multe **scări**, inclusiv la 
  
   - nivel de ***model***,
-  - la nivel de ***cap*** și
+  - la nivel de ***cap/head*** și
   - la nivel de ***neuron***. 
 
  ***BertViz*** este un instrument de explicabilitate într-un domeniu (**NLP**) care este altfel notoriu de opac. 
