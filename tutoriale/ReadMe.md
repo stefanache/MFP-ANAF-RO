@@ -122,7 +122,7 @@ Așa cum spun specialiștii citați de DNSC(Directoratul Național de Securitate
 </details>
 
 <details>
- <summary>Va propun un studiu legat de <b>Diferentiabilitate</b>...</summary>
+ <summary>Va propun un studiu legat de <a href="https://ro.wikipedia.org/wiki/Calcul_diferen%C8%9Bial"><b>Diferentiabilitate</b></a>...</summary>
 
 <hr/>
 <br/>
