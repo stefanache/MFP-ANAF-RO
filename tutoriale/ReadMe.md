@@ -197,6 +197,11 @@ Articolul recomandat ne propune, exercițiul de codificare [recreaționala](http
   - nivel de ***model***,
   - la nivel de ***cap*** și
   - la nivel de ***neuron***. 
+
+ ***BertViz*** este un instrument de explicabilitate într-un domeniu (**NLP**) care este altfel notoriu de opac. 
+ <br/>Și, în ciuda numelui său, ***BertViz*** <ins>nu funcționează doar pe **BERT**</ins>. 
+ <br/>API-ul ***BertViz*** acceptă multe modele de limbaj transformator, inclusiv **GPT2** ori **T5**, **BART** și majoritatea modelelor **HuggingFace*(HF)* .
+
  
  <br>Continuați să citiți pentru a afla mai multe despre [**BertViz**](https://github.com/jessevig/bertviz) și despre cum puteți încorpora acest instrument-de-vizualizare-a-**atenției** în fluxul de lucru [NLP](https://en.wikipedia.org/wiki/Neuro-linguistic_programming) și [MLOps](https://en.wikipedia.org/wiki/MLOps) cu [Comet](https://en.wikipedia.org/wiki/Comet_(programming)).  
 
