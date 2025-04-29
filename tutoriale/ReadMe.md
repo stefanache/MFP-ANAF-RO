@@ -170,12 +170,14 @@ Articolul recomandat ne propune, exercițiul de codificare [recreaționala](http
 </details>
 
 <details>
- <summary>Sa vedem cum functioneaza mecanismul atentiei in Transformers...</summary>
+ <summary>Sa vedem cum functioneaza mecanismul "<b>Atentiei</b>" in <i>Transformers</i>...</summary>
 
  <hr/>
 
  [IA explicabilă: Vizualizarea atenției în Transformers](https://www.comet.com/site/blog/explainable-ai-for-transformers/)
 
+ Inainte de toate sa amintim ca :
+ <br/>Un transformator([Transformer](https://simple.wikipedia.org/wiki/Transformer_(machine_learning_model)) este un model de calculator utilizat pentru deep-learning(DL), un tip de învățare-automată(ML) în care computerele se învață singure(computer-ul autodidact).
  <hr/>
  
 </details>
