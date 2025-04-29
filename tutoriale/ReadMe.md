@@ -169,4 +169,14 @@ Articolul recomandat ne propune, exercițiul de codificare [recreaționala](http
 
 </details>
 
+<details>
+ <summary>Sa vedem cum functioneaza mecanismul atentiei in Transformers...</summary>
+
+ <hr/>
+
+ [IA explicabilă: Vizualizarea atenției în Transformers](https://www.comet.com/site/blog/explainable-ai-for-transformers/)
+
+ <hr/>
+ 
+</details>
 ...
