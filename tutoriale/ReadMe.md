@@ -192,14 +192,14 @@ Articolul recomandat ne propune, exercițiul de codificare [recreaționala](http
     
  In acest [articol](https://www.comet.com/site/blog/explainable-ai-for-transformers/), explorăm unul(**BertViz**) dintre cele mai populare instrumente-pentru/de-vizualizare[a] caracteristicii-distinctive-principale(**atenția**) a arhitecturilor [***Transformatoarelor***](https://simple.wikipedia.org/wiki/Transformer_(machine_learning_model))(sau de tip "***Transformers***"!): mecanismul-**Atenției**.
 
- ***BertViz*** este un instrument open source care vizualizează mecanismul-de-**atenție** al modelelor-de-transformare(***Transformers***) la mai multe **scări**, inclusiv la 
+ [***BertViz***](https://pypi.org/project/bertviz/1.0.0/) este un instrument open source care vizualizează mecanismul-de-**atenție** al modelelor-de-transformare(***Transformers***) la mai multe **scări**, inclusiv la 
  
   - nivel de ***model***,
   - la nivel de ***cap/head*** și
   - la nivel de ***neuron***. 
 
- ***BertViz*** este un instrument de explicabilitate într-un domeniu (**NLP**) care este altfel notoriu de opac. 
- <br/>Și, în ciuda numelui său, ***BertViz*** <ins>nu funcționează doar pe</ins> modelul [**BERT**](https://en.wikipedia.org/wiki/BERT_(language_model))(Bidirectional Encoder Representations from Transformers). 
+[***BertViz***](https://medium.com/data-science/deconstructing-bert-part-2-visualizing-the-inner-workings-of-attention-60a16d86b5c1) este un instrument de explicabilitate într-un domeniu (**NLP**) care este altfel notoriu de opac. 
+ <br/>Și, în ciuda numelui său, [***BertViz***](https://www.datafranca.org/wiki/BertViz) <ins>nu funcționează doar pe</ins> modelul [**BERT**](https://en.wikipedia.org/wiki/BERT_(language_model))(Bidirectional Encoder Representations from Transformers). 
  <br/>API-ul ***BertViz*** acceptă multe modele-de-limbaj(LM-uri)-***transformator***, inclusiv[ **GPT2** ori **T5**](https://aiplanet.com/learn/llm-bootcamp/module-6/2350/pre-trained-transformer-models-t5-and-gpt2)(învățărea-prin-transfer/transfer-learning/[**TL**](https://blog.dailydoseofds.com/p/transfer-learning-fine-tuning-multitask) cu un **transformator** text-text unificat”), [**BART**](https://huggingface.co/docs/transformers/v4.34.1/model_doc/bart) și majoritatea modelelor **HuggingFace**([**HF**](https://huggingface.co/docs/transformers/attention)).
  <br/>*Nota*: **BART** folosește o arhitectură standard seq2seq/traducere-automată cu un codificator-bidirecțional(cum ar fi [BERT](https://huggingface.co/docs/transformers/model_doc/bert)) și un decodificator stânga-dreapta (cum ar fi [GPT](https://medium.com/@reyhaneh.esmailbeigi/bert-gpt-and-bart-a-short-comparison-5d6a57175fca))
 
@@ -211,7 +211,7 @@ Articolul recomandat ne propune, exercițiul de codificare [recreaționala](http
 *Nota*: 
 <br/>***grosimea liniei*** inseamna/codifica ***nivelul de importanta-relativa*** a componentei-analizate(sursa), in raport cu/la fiecare componenta-tinta(destinatie) a secventei de cuvinte/tokeni de intrare!;
 <br/>Practic avem un graf orientat(de la sursa catre destinatie) cu nodurile reprezentate de tokeni/cuvinte ale propozitiei analizate si cu muchii/linii/drumuri/asocieri avand ***grosimi diferite*** in functie de nivelul importantei(de interes);
-<br/>***Grosimea***/greutatea/importanta poate fi "cititita/vazuta" intr-o cheie/traducere de ***etichetare-semantica*** a liniilor/muchiilor cu semantica: "componenta/cuvantul/tokenul-Sursa se-refera-la/are-un- interes/este-interesata-de(in sens [semantic/de-inteles/de-intelegere-a](https://lamarr-institute.org/blog/bert-model/) component[a/ei]/cuvantul/tokenul-Destinatie intr-un mod/grad=grosime mai mare/mic[a]!
+<br/>***Grosimea***/greutatea/importanta/accentuarea poate fi "cititita/vazuta" intr-o cheie/traducere de ***etichetare-semantica*** a liniilor/muchiilor cu semantica: "componenta/cuvantul/tokenul-Sursa se-refera-la/are-un- interes/este-interesata-de(in sens [semantic/de-inteles/de-intelegere-a](https://lamarr-institute.org/blog/bert-model/) component[a/ei]/cuvantul/tokenul-Destinatie intr-un mod/grad=grosime mai mare/mic[a]!
 
 <br/><i>Bonus</i>: De asemenea la finalul acestui [articol](https://www.comet.com/site/blog/explainable-ai-for-transformers/) aveti cateva link-uri de resurse interesante!
  
