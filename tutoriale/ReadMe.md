@@ -200,7 +200,7 @@ Articolul recomandat ne propune, exercițiul de codificare [recreaționala](http
 
  ***BertViz*** este un instrument de explicabilitate într-un domeniu (**NLP**) care este altfel notoriu de opac. 
  <br/>Și, în ciuda numelui său, ***BertViz*** <ins>nu funcționează doar pe</ins> modelul **BERT**(Bidirectional Encoder Representations from Transformers). 
- <br/>API-ul ***BertViz*** acceptă multe modele de limbaj transformator, inclusiv **GPT2** ori **T5**, **BART** și majoritatea modelelor **HuggingFace**(**HF**) .
+ <br/>API-ul ***BertViz*** acceptă multe modele de limbaj transformator, inclusiv **GPT2** ori **T5**, [**BART**](https://huggingface.co/docs/transformers/v4.34.1/model_doc/bart) și majoritatea modelelor **HuggingFace**(**HF**) .
 
  
  <br>Continuați să [citiți](https://www.comet.com/site/blog/explainable-ai-for-transformers/) pentru a afla mai multe despre [**BertViz**](https://github.com/jessevig/bertviz) și despre cum puteți încorpora acest instrument-de-vizualizare-a-**atenției** în fluxul de lucru [NLP](https://en.wikipedia.org/wiki/Neuro-linguistic_programming) și [MLOps](https://en.wikipedia.org/wiki/MLOps) cu [Comet](https://en.wikipedia.org/wiki/Comet_(programming)).  
