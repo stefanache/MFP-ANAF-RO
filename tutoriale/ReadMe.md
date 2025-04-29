@@ -105,7 +105,7 @@ Dupa cum vedeti subiectul [**ComfyUI**](https://www.reddit.com/r/StableDiffusion
 </details>
 
 <details>
- <summary>Atentie la protejarea continutului sensibil prin utilizarea <b>parolelor</b>...</summary>
+ <summary>*Atentie la protejarea continutului sensibil prin utilizarea <b>parolelor</b>...*!</summary>
  
 <hr/>
 <br/>
