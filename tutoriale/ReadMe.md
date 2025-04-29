@@ -192,16 +192,18 @@ Articolul recomandat ne propune, exercițiul de codificare [recreaționala](http
     
  In acest [articol](https://www.comet.com/site/blog/explainable-ai-for-transformers/), explorăm unul(**BertViz**) dintre cele mai populare instrumente-pentru/de-vizualizare[a] caracteristicii-distinctive-principale(**atenția**) a arhitecturilor [***Transformatoarelor***](https://simple.wikipedia.org/wiki/Transformer_(machine_learning_model))(sau de tip "***Transformers***"!): mecanismul-**Atenției**.
 
- [***BertViz***](https://pypi.org/project/bertviz/1.0.0/) este un instrument(deci este un auxiliar/utilitar/paleativ/de-prim-ajutor) open-source care vizualizează mecanismul-de-**atenție** al modelelor-de-transformare(***Transformers***) la mai multe **scări**, inclusiv la : 
+ [***BertViz***](https://pypi.org/project/bertviz/1.0.0/) este un instrument(deci este un auxiliar/utilitar/paleativ/de-prim-ajutor) open-source care vizualizează mecanismul-de-[**atenție**](https://en.wikipedia.org/wiki/Attention_%28machine_learning%29) al modelelor-de-transformare(***Transformers***) la mai multe **scări**, inclusiv la : 
  
-  - nivel de ***model***,
-  - la nivel de ***cap/head*** și
-  - la nivel de ***neuron***. 
+  - nivel de [***model***](https://h2o.ai/wiki/ai-models/),
+  - la nivel de [***cap/head***](https://blog.gopenai.com/building-affordable-high-performance-ai-models-with-multi-head-latent-attention-mla-71a9b2a4ef47) și
+  - la nivel de [***neuron***](https://ro.wikipedia.org/wiki/Neuron). 
 
 [*Nota*](https://www.google.com/search?q=semiotica+frazelor+propozitiilor+semantica&sca_esv=1ae1f5a229be0f0a&rlz=1C1CHBF_enRO1132RO1132&sxsrf=AHTn8zr762HZ7mTIlhdbmjfamN6mYjPsNQ%3A1745922010447&ei=2qcQaK6IG8iExc8P3_nDyQE&ved=0ahUKEwiu3fOpgv2MAxVIQvEDHd_8MBkQ4dUDCBE&uact=5&oq=semiotica+frazelor+propozitiilor+semantica&gs_lp=Egxnd3Mtd2l6LXNlcnAiKnNlbWlvdGljYSBmcmF6ZWxvciBwcm9wb3ppdGlpbG9yIHNlbWFudGljYTIFEAAY7wUyBRAAGO8FMgUQABjvBTIFEAAY7wVI7BdQpgVYnBZwAXgBkAEAmAHEAaAB1guqAQQwLjEwuAEDyAEA-AEBmAILoAL0C8ICChAAGLADGNYEGEfCAgUQIRigAcICBxAhGKABGArCAgQQIRgVmAMAiAYBkAYIkgcFMS45LjGgB84osgcFMC45LjG4B-4L&sclient=gws-wiz-serp):
 <br/>***Transformerii*** nu au doar un singur ***cap/head***, ci mai multe *capete - de - atenție* din partea mai multor capete , ca să fim preciși. 
 <br/>Fiecare cap se concentrează pe diferite aspecte ale *relațiilor(semantice)* dintre elemente/componente, oferind o înțelegere(a sensului sau a semanticii) mai cuprinzătoare/completa a secvenței(de text). 
 <br/>Este ca și cum ai avea o echipă de experți/capete, fiecare cu propria ***perspectivă(punct de vedere semantic)***, care lucrează împreună pentru a analiza datele.
+<br/>Se retin/memoreaza/se-fac-latente temporar acele portiuni-de-text din istoria ingerarii textului care reprezinta interes d.p.d.v. al intelegerii(latenta=intarziere=memorare pe termen limitat/temporara)
+
 <br/>Asadar pt o mai buna "intelegere" a subiectului ["cap-de-atentie"](https://github.com/tensorflow/tensor2tensor/tree/master) ar fi recomandabil sa va indreptati "atentia/focusul" catre termeni ca [sintaxa](https://dacoromania.inst-puscariu.ro/articole/2018_1/29_XXIII_(2018_nr.1)[Pages%20017%20-%20026].pdf), [**semantica**](https://ro.wikipedia.org/wiki/Semantic%C4%83), [insiruire/siruri/seturi/serii/familii/multimi... de semne/simboluri-grafice/litere si alte semne...precum si raporturile se subordonare/nivel/grad/ierarhizare ori sinonimie/relationare semantica](https://monoskop.org/images/d/db/Sebeok_Thomas_Semnele_o_introducere_in_semiotica_2002.pdf), [**semiotica**](https://ro.wikipedia.org/wiki/Semiotic%C4%83), [pragmatica](https://ro.wikipedia.org/wiki/Pragmatic%C4%83), [gramatica](http://www.institutuldefilosofie.ro/request.php?269), [...](http://www.institutuldefilosofie.ro/request.php?503)
 
 [***BertViz***](https://medium.com/data-science/deconstructing-bert-part-2-visualizing-the-inner-workings-of-attention-60a16d86b5c1) este un instrument de explicabilitate/examinare/consultare/introspectie-vizuala într-un domeniu (**NLP**) care este altfel notoriu de opac(greu de vizualizat cu ochiul liber). 
