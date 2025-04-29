@@ -171,7 +171,7 @@ Articolul recomandat ne propune, exercițiul de codificare [recreaționala](http
 </details>
 
 <details>
- <summary>Sa vedem cum functioneaza mecanismul "<b>Atentiei</b>" in <a href="https://github.com/tensorflow/tensor2tensor/tree/master"><i><b>Transformers</b></i></a>...</summary>
+ <summary>Sa vedem cum functioneaza mecanismul "<b>Atentiei</b>" [d]in <a href="https://github.com/tensorflow/tensor2tensor/tree/master"><i><b>Transformers</b></i></a>...</summary>
 
  <hr/>
 
