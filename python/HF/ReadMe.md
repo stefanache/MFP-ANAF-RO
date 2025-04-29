@@ -29,14 +29,14 @@ In legatura cu subiectul HuggingFace(HF) o sa plasez aici cateva link-uri utile:
    <br/>
    <br/>**RAG** - minimizeaza cerinta dinamica de date
    <br/>și
-   <br/>**LoRA** - reduce consumul de resurse inerente reglarii-fine specifice modelelor-mari(de-limbaj/LLM-urilor, de viziune/VLM-urilor...) pre-antrenate
+   <br/>**LoRA** - [reduce consumul de resurse]((https://www.linkedin.com/posts/nour-albaarini_very-interesting-representation-of-the-difference-activity-7175449304415764480-mfbo/)) inerente reglarii-fine specifice modelelor-mari(de-limbaj/LLM-urilor, de viziune/VLM-urilor...) pre-antrenate
    <br/>oferă [*instrumente*](https://www.reddit.com/r/deeplearning/comments/1b6g8ft/full_finetuning_vs_lora_finetuning_vs_rag/) valoroase:
 
     - pentru ...
       
            - optimizarea performanței modelului
 
-    - fără a [compromite](https://www.linkedin.com/posts/nour-albaarini_very-interesting-representation-of-the-difference-activity-7175449304415764480-mfbo/) ...
+    - fără a compromite ...
       
            - eficiența de calcul,
            - timpul sau
