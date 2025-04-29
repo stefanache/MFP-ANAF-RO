@@ -170,7 +170,7 @@ Articolul recomandat ne propune, exercițiul de codificare [recreaționala](http
 </details>
 
 <details>
- <summary>Sa vedem cum functioneaza mecanismul "<b>Atentiei</b>" in <i>Transformers</i>...</summary>
+ <summary>Sa vedem cum functioneaza mecanismul "<b>Atentiei</b>" in <i><b>Transformers</b></i>...</summary>
 
  <hr/>
 
