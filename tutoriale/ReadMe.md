@@ -182,6 +182,9 @@ Articolul recomandat ne propune, exercițiul de codificare [recreaționala](http
  In acest [articol]((https://www.comet.com/site/blog/explainable-ai-for-transformers/)), explorăm unul dintre cele mai populare instrumente pentru vizualizarea caracteristicii distinctive principale a arhitecturilor [transformatoarelor](https://simple.wikipedia.org/wiki/Transformer_(machine_learning_model)): mecanismul atenției. 
  <br>Continuați să citiți pentru a afla mai multe despre [BertViz](https://github.com/jessevig/bertviz) și despre cum puteți încorpora acest instrument de vizualizare a atenției în fluxul de lucru NLP și [MLOps](https://en.wikipedia.org/wiki/MLOps) cu [Comet](https://en.wikipedia.org/wiki/Comet_(programming)).  
 
+<a href="https://github.com/jessevig/bertviz"><img src="https://raw.githubusercontent.com/jessevig/bertviz/master/images/head-view.gif"></a>
+
+ <i>Bonus</i>: De asemenea la finalul acestui articol aveti cateva link-uri de resurse interesante!
  
  <hr/>
  
