@@ -199,7 +199,7 @@ Articolul recomandat ne propune, exercițiul de codificare [recreaționala](http
   - la nivel de ***neuron***. 
 
  ***BertViz*** este un instrument de explicabilitate într-un domeniu (**NLP**) care este altfel notoriu de opac. 
- <br/>Și, în ciuda numelui său, ***BertViz*** <ins>nu funcționează doar pe</ins> **BERT**(Bidirectional Encoder Representations from Transformers). 
+ <br/>Și, în ciuda numelui său, ***BertViz*** <ins>nu funcționează doar pe</ins> modelul **BERT**(Bidirectional Encoder Representations from Transformers). 
  <br/>API-ul ***BertViz*** acceptă multe modele de limbaj transformator, inclusiv **GPT2** ori **T5**, **BART** și majoritatea modelelor **HuggingFace**(**HF**) .
 
  
