@@ -190,9 +190,9 @@ Articolul recomandat ne propune, exercițiul de codificare [recreaționala](http
 
  [...](https://www.google.com/search?q=.gif+AI+attention+learning++flowchart&sca_esv=b69c0981c8b5228b&rlz=1C1CHBF_enRO1132RO1132&udm=2&biw=1920&bih=911&sxsrf=AHTn8zrpuvD9Dig2iejSxmRfrk0U6ze1iw%3A1745910185404&ei=qXkQaIW0GJKIxc8Pl5Dj2AI&ved=0ahUKEwjFrKSj1vyMAxUSRPEDHRfIGCsQ4dUDCBI&uact=5&oq=.gif+AI+attention+learning++flowchart&gs_lp=EgNpbWciJS5naWYgQUkgYXR0ZW50aW9uIGxlYXJuaW5nICBmbG93Y2hhcnRIlIUBUKUJWJ19cAF4AJABAJgBfKAByA6qAQQwLjE2uAEDyAEA-AEBmAIAoAIAmAMAiAYBkgcAoAfQBbIHALgHAA&sclient=img)
     
- In acest [articol](https://www.comet.com/site/blog/explainable-ai-for-transformers/), explorăm unul dintre cele mai populare instrumente-pentru/de-vizualizare[a] caracteristicii-distinctive-principale(***atenția***) a arhitecturilor [***Transformatoarelor***](https://simple.wikipedia.org/wiki/Transformer_(machine_learning_model))(sau de tip "***Transformers***"!): mecanismul-**Atenției**.
+ In acest [articol](https://www.comet.com/site/blog/explainable-ai-for-transformers/), explorăm unul(**BertViz**) dintre cele mai populare instrumente-pentru/de-vizualizare[a] caracteristicii-distinctive-principale(***atenția***) a arhitecturilor [***Transformatoarelor***](https://simple.wikipedia.org/wiki/Transformer_(machine_learning_model))(sau de tip "***Transformers***"!): mecanismul-**Atenției**.
  
- <br>Continuați să citiți pentru a afla mai multe despre [BertViz](https://github.com/jessevig/bertviz) și despre cum puteți încorpora acest instrument-de-vizualizare-a-**atenției** în fluxul de lucru NLP și [MLOps](https://en.wikipedia.org/wiki/MLOps) cu [Comet](https://en.wikipedia.org/wiki/Comet_(programming)).  
+ <br>Continuați să citiți pentru a afla mai multe despre [**BertViz**](https://github.com/jessevig/bertviz) și despre cum puteți încorpora acest instrument-de-vizualizare-a-**atenției** în fluxul de lucru NLP și [MLOps](https://en.wikipedia.org/wiki/MLOps) cu [Comet](https://en.wikipedia.org/wiki/Comet_(programming)).  
 
 <a href="https://github.com/jessevig/bertviz"><img src="https://raw.githubusercontent.com/jessevig/bertviz/master/images/head-view.gif"></a>
 
