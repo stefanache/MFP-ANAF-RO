@@ -198,6 +198,12 @@ Articolul recomandat ne propune, exercițiul de codificare [recreaționala](http
   - la nivel de ***cap/head*** și
   - la nivel de ***neuron***. 
 
+*Nota*:
+<br/>***Transformerii*** nu au doar un singur ***cap/head***, ci mai multe *capete - de - atenție* din partea mai multor capete , ca să fim preciși. 
+<br/>Fiecare cap se concentrează pe diferite aspecte ale *relațiilor(semantice)* dintre elemente/componente, oferind o înțelegere(a sensului sau a semanticii) mai cuprinzătoare/completa a secvenței(de text). 
+<br/>Este ca și cum ai avea o echipă de experți/capete, fiecare cu propria ***perspectivă(punct de vedere semantic)***, care lucrează împreună pentru a analiza datele.
+<br/>Asadar pt o mai buna "intelegere" a subiectului "cap-de-atentie" ar fi recomandabil sa va indreptati "atentia/focusul" catre termeni ca [**semantica**](https://ro.wikipedia.org/wiki/Semantic%C4%83), [**semiotica**](https://ro.wikipedia.org/wiki/Semiotic%C4%83), [...](http://www.institutuldefilosofie.ro/request.php?503)
+
 [***BertViz***](https://medium.com/data-science/deconstructing-bert-part-2-visualizing-the-inner-workings-of-attention-60a16d86b5c1) este un instrument de explicabilitate într-un domeniu (**NLP**) care este altfel notoriu de opac. 
  <br/>Și, în ciuda numelui său, [***BertViz***](https://www.datafranca.org/wiki/BertViz) <ins>nu funcționează doar pe</ins> modelul [**BERT**](https://en.wikipedia.org/wiki/BERT_(language_model))(Bidirectional Encoder Representations from Transformers). 
  <br/>API-ul ***BertViz*** acceptă multe modele-de-limbaj(LM-uri)-***transformator***, inclusiv[ **GPT2** ori **T5**](https://aiplanet.com/learn/llm-bootcamp/module-6/2350/pre-trained-transformer-models-t5-and-gpt2)(învățărea-prin-transfer/transfer-learning/[**TL**](https://blog.dailydoseofds.com/p/transfer-learning-fine-tuning-multitask) cu un **transformator** text-text unificat”), [**BART**](https://huggingface.co/docs/transformers/v4.34.1/model_doc/bart) și majoritatea modelelor **HuggingFace**([**HF**](https://huggingface.co/docs/transformers/attention)).
