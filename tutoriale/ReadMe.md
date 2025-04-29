@@ -192,7 +192,7 @@ Articolul recomandat ne propune, exercițiul de codificare [recreaționala](http
     
  In acest [articol](https://www.comet.com/site/blog/explainable-ai-for-transformers/), explorăm unul(**BertViz**) dintre cele mai populare instrumente-pentru/de-vizualizare[a] caracteristicii-distinctive-principale(**atenția**) a arhitecturilor [***Transformatoarelor***](https://simple.wikipedia.org/wiki/Transformer_(machine_learning_model))(sau de tip "***Transformers***"!): mecanismul-**Atenției**.
 
- [***BertViz***](https://pypi.org/project/bertviz/1.0.0/) este un instrument open source care vizualizează mecanismul-de-**atenție** al modelelor-de-transformare(***Transformers***) la mai multe **scări**, inclusiv la 
+ [***BertViz***](https://pypi.org/project/bertviz/1.0.0/) este un instrument(deci este un auxiliar/utilitar/paleativ/de-prim-ajutor) open-source care vizualizează mecanismul-de-**atenție** al modelelor-de-transformare(***Transformers***) la mai multe **scări**, inclusiv la : 
  
   - nivel de ***model***,
   - la nivel de ***cap/head*** și
