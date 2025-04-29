@@ -199,7 +199,7 @@ Articolul recomandat ne propune, exercițiul de codificare [recreaționala](http
   - la nivel de [***neuron***](https://ro.wikipedia.org/wiki/Neuron). 
 
 <details>
- <summary>Hai sa mai "fabulam" putin pe seama ["atentiei"](https://prezi.com/qwxf-kykirht/mecanismele-atentiei/) ...! </summary>
+ <summary>Hai sa mai <a href="["atentiei"](">"fabulam"</a> putin pe seama <a href="https://prezi.com/qwxf-kykirht/mecanismele-atentiei/>"atentiei"</a> ...! </summary>
 
  <hr/>
  
