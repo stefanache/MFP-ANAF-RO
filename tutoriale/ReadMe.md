@@ -177,9 +177,9 @@ Articolul recomandat ne propune, exercițiul de codificare [recreaționala](http
  [IA explicabilă: Vizualizarea atenției în Transformers](https://www.comet.com/site/blog/explainable-ai-for-transformers/)
 
  Inainte de toate sa amintim ca :
- <br/>Un transformator([Transformer](https://simple.wikipedia.org/wiki/Transformer_(machine_learning_model)) este un model de calculator utilizat pentru deep-learning(DL), un tip de învățare-automată(ML) în care computerele se învață singure(computer-ul autodidact).
+ <br/>Un transformator([Transformer](https://simple.wikipedia.org/wiki/Transformer_(machine_learning_model))) este un model de calculator utilizat pentru deep-learning(DL), un tip de învățare-automată(ML) în care computerele se învață singure(computer-ul autodidact).
  
- In acest [articol]((https://www.comet.com/site/blog/explainable-ai-for-transformers/)), explorăm unul dintre cele mai populare instrumente pentru vizualizarea caracteristicii distinctive principale a arhitecturilor [transformatoarelor](https://simple.wikipedia.org/wiki/Transformer_(machine_learning_model): mecanismul atenției. 
+ In acest [articol]((https://www.comet.com/site/blog/explainable-ai-for-transformers/)), explorăm unul dintre cele mai populare instrumente pentru vizualizarea caracteristicii distinctive principale a arhitecturilor [transformatoarelor](https://simple.wikipedia.org/wiki/Transformer_(machine_learning_model)): mecanismul atenției. 
  <br>Continuați să citiți pentru a afla mai multe despre [BertViz](https://github.com/jessevig/bertviz) și despre cum puteți încorpora acest instrument de vizualizare a atenției în fluxul de lucru NLP și [MLOps](https://en.wikipedia.org/wiki/MLOps) cu [Comet](https://en.wikipedia.org/wiki/Comet_(programming)).  
 
  
