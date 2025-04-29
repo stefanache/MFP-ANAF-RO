@@ -217,7 +217,7 @@ Articolul recomandat ne propune, exercițiul de codificare [recreaționala](http
 *Nota*: 
 <br/>***grosimea liniei*** inseamna/codifica/reprezinta ***nivelul de importanta-relativa*** a componentei-analizate(sursa), in raport cu/la fiecare componenta-tinta(destinatie) a secventei-sintactice(ordinea cuvintelor/token-ilor din/in propozitie sau o portiune/chunk/bucata a acesteia) de cuvinte/tokeni de intrare!;
 <br/>Practic avem un graf orientat(de la sursa catre destinatie) cu nodurile reprezentate de tokeni/cuvinte ale propozitiei analizate si cu muchii/linii/drumuri/asocieri avand ***grosimi diferite*** in functie de nivelul importantei(de interes);
-<br/>***Grosimea***/greutatea/importanta/accentuarea poate fi "cititita/vazuta" intr-o cheie/traducere/translatare/conversie de ***etichetare-semantica*** a liniilor/muchiilor cu semantica: "componenta/cuvantul/tokenul-Sursa se-refera-la/are-un- interes/este-interesata-de(in sens [semantic/de-inteles/de-intelegere-a](https://lamarr-institute.org/blog/bert-model/) component[a/ei]/cuvantul/tokenul-Destinatie intr-un mod/grad=grosime mai mare/mic[a]!
+<br/>***Grosimea***/greutatea/importanta/accentuarea poate fi "cititita/vazuta" intr-o cheie/traducere/translatare/conversie de ***etichetare-semantica*** a liniilor/muchiilor cu semantica: componenta/cuvantul/tokenul-Sursa se-refera-la/se-raporteaza-la/are-un- interes/este-interesata-de(in sens [semantic/de-inteles/de-intelegere-a](https://lamarr-institute.org/blog/bert-model/) component[a/ei]/cuvantul/tokenul-Destinatie intr-un mod/grad=grosime mai mare/mic[a]!
 
 <br/><i>Bonus</i>: De asemenea la finalul acestui [articol](https://www.comet.com/site/blog/explainable-ai-for-transformers/) aveti cateva link-uri de resurse interesante!
  
