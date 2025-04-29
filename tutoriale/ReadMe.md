@@ -203,7 +203,7 @@ Articolul recomandat ne propune, exercițiul de codificare [recreaționala](http
  <br/>API-ul ***BertViz*** acceptă multe modele de limbaj transformator, inclusiv **GPT2** ori **T5**, **BART** și majoritatea modelelor **HuggingFace**(**HF**) .
 
  
- <br>Continuați să citiți pentru a afla mai multe despre [**BertViz**](https://github.com/jessevig/bertviz) și despre cum puteți încorpora acest instrument-de-vizualizare-a-**atenției** în fluxul de lucru [NLP](https://en.wikipedia.org/wiki/Neuro-linguistic_programming) și [MLOps](https://en.wikipedia.org/wiki/MLOps) cu [Comet](https://en.wikipedia.org/wiki/Comet_(programming)).  
+ <br>Continuați să [citiți](https://www.comet.com/site/blog/explainable-ai-for-transformers/) pentru a afla mai multe despre [**BertViz**](https://github.com/jessevig/bertviz) și despre cum puteți încorpora acest instrument-de-vizualizare-a-**atenției** în fluxul de lucru [NLP](https://en.wikipedia.org/wiki/Neuro-linguistic_programming) și [MLOps](https://en.wikipedia.org/wiki/MLOps) cu [Comet](https://en.wikipedia.org/wiki/Comet_(programming)).  
 
 <a href="https://github.com/jessevig/bertviz"><img src="https://raw.githubusercontent.com/jessevig/bertviz/master/images/head-view.gif"></a>
 
