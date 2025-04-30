@@ -166,7 +166,7 @@ Articolul recomandat ne propune, exercițiul de codificare [recreaționala](http
 <br/>Un astfel de sistem poate descrie orbitele planetelor din Sistemul-Solar sau stelelor din Galaxia noastră. 
 <br/>Vom rezolva apoi o problemă-inversă, care consta in  găsirea unui *set inițial de viteze* care evoluează sistemul într-o [*configurație-țintă*](https://miro.medium.com/v2/resize:fit:600/format:webp/1*KQdMKNGYIQHF2MDTApDe1g.gif)(ex configuratia dorita ar putea fi cea a unei/de forma unei inimi sau a unui contur curbiliniu gen curba-cardioida.
 
-Cred ca si acest [articol](https://mofu-dev.com/en/blog/stable-fluids/) merita studiat avand in vedere faptul ca reprezinta o implementare interesanta a "Fluidelor stabile"  utilizand ThreeJS
+Cred ca si acest [articol](https://mofu-dev.com/en/blog/stable-fluids/) merita studiat avand in vedere faptul ca reprezinta o [implementare](https://fluid-threejs.netlify.app/) interesanta a "Fluidelor stabile"  utilizand ThreeJS
 
 <hr/>
 <br/>
