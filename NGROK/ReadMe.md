@@ -34,7 +34,7 @@ Numele ***Kubernetes*** provine din grecescul κυβερνήτης (kubernḗtē
 <br/>***K8s*** include instrumente precum ***kubeadm*** și ***kubectl*** care pot fi utilizate pentru a interacționa cu API-ul său bazat pe ***REST***.
 
 Orchestratorii sunt o piesă critică a infrastructurii atunci când configurați un mediu bazat pe containere. 
-<br/>Deși puteți gestiona manual câteva containere folosind ***Docker*** și un sistem de operare cum ar fi Windows/Ubuntu-WSL2..., aplicațiile utilizează adesea cinci, zece sau chiar sute de containere, ceea ce reprezintă punctul de plecare al orchestratorilor.
+<br/>Deși puteți gestiona manual *câteva(sub 5)* containere folosind ***Docker*** și un sistem de operare cum ar fi ***Windows***/***Ubuntu***-***WSL2***..., aplicațiile utilizează adesea cinci(5), zece(10) sau chiar sute(x100) de containere, ceea ce reprezintă punctul de plecare al orchestratorilor.
 
 Orchestratoarele de containere au fost create pentru a ajuta la gestionarea containerelor la scară largă și în producție. 
 <br/>Orchestratoarele oferă funcționalități pentru:
