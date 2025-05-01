@@ -7,12 +7,12 @@ Acum **NGROK** usureaza
  - accesul/ingerarea-securizat/a la mediul [Kubernetess(K8s)](https://en.wikipedia.org/wiki/Kubernetes)
 
 Inainte de toate cateva cuvinte despre ...tinta/scopul produsului **NGROK**, asupra caruia NGROK, in acest articol, se concentreaza...
-<br/>pe numele/denumirea sau/sa, orchestratorul-de-containere ***Kubernetess***(***K8s***).
+<br/>pe numele/denumirea sau/sa, [orchestratorul-de-containere/izolare](https://en.wikipedia.org/wiki/Containerization_(computing)) ***Kubernetess***(***K8s***).
 
 Asadar sa facem mai intai cunostinta cu Kubernetess(K8s):
 
 ***Kubernetess*** mai este cunoscut și sub numele de ***K8s*** , este un sistem de 
-<br/>orchestrare a containerelor open-source pentru 
+<br/>orchestrare a [containerelor](https://en.wikipedia.org/wiki/Containerization_(computing)) open-source pentru 
 
 automatizarea 
 
@@ -21,7 +21,7 @@ automatizarea
  - gestionării software-ului .
 
 Proiectat inițial de Google , proiectul este acum întreținut de o comunitate mondială de contribuitori , 
-<br/>iar marca comercială este deținută de Cloud Native Computing Foundation .
+<br/>iar marca comercială este deținută de *Cloud Native Computing Foundation(CNCF)*.
 
 Numele ***Kubernetes*** provine din grecescul κυβερνήτης (kubernḗtēs), care înseamnă „ guvernator ”, „ cârmaci ” sau „pilot”. 
 
