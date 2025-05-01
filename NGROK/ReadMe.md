@@ -79,9 +79,18 @@ Ce poți face cu **NGROK**?
  ***producție***
  
  - *Gateway API* : Folosește modulele HTTP ale ngrok pentru a securiza, proteja, accelera și transforma traficul către API-urile tale de producție.
+   
  - *Kubernetes Ingress(ingerare)* : Rulați operatorul Kubernetes ngrok pentru a crea un ingress către serviciile Kubernetes care rulează în orice cluster.
- - *Proxy cu funcție de identificare* : Folosește acțiunile OAuth , JWT Validation sau OpenID Connect din ngrok pentru a federa autentificarea aplicației tale cu un furnizor de identitate.
- - *Load Balancer*: Folosește Edges pentru a echilibra sarcina traficului pentru scalabilitate și failover sau pentru a face implementări blue/green și canary.
+   
+ - *Proxy cu funcție de identificare* : Folosește acțiunile:
+   
+    - OAuth ,
+    - JWT Validation sau
+    - OpenID Connect
+  
+   din ngrok pentru a federa autentificarea aplicației tale cu un furnizor de identitate.
+   
+ - *Load Balancer*: Folosește [Edges](https://ngrok.com/docs/universal-gateway/edges/) pentru a echilibra sarcina traficului pentru scalabilitate și failover sau pentru a face implementări blue/green și canary.
  
   ***la distanță***
  - *SSH* : Creați [puncte-finale/endpoints TCP](https://ngrok.com/docs/universal-gateway/tcp/) pentru a permite accesul SSH la mașini la distanță.
