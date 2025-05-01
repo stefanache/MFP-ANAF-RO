@@ -23,7 +23,7 @@ automatizarea
 Proiectat inițial de Google , proiectul este acum întreținut de o *comunitate-mondială-de-contribuitori* , 
 <br/>iar marca comercială este deținută de *Cloud-Native-Computing-Foundation(CNCF)*.
 
-Numele ***Kubernetes*** provine din grecescul κυβερνήτης (kubernḗtēs), care înseamnă „ guvernator ”, „ cârmaci ” sau „pilot”. 
+Numele ***Kubernetes*** provine din grecescul κυβερνήτης (kubernḗtēs), care înseamnă „ guvernator”, „cârmaci” sau „pilot”/"controller"/"manager". 
 
 ***Kubernetes*** este adesea abreviat ca ***K8s*** , numărând cele opt(8) litere dintre K și s (un numeronim ).
 
