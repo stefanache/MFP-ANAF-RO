@@ -1,12 +1,12 @@
-Astazi(01.05.2025) am primit acest eMail, care are urmatorul Buletin-Informativ al echipei/celor de la **NGROK**, cu titlul:
+Astazi(01.05.2025) am primit acest eMail, care are urmatorul Buletin-Informativ al echipei/celor de la [**NGROK**](https://ngrok.com/), cu titlul:
 
 *NGROK este acum [activ](https://stefanache.github.io/MFP-ANAF-RO/NGROK/ngrok_index.html) pt Kubernetess(K8s)*
 
-Acum **NGROK** usureaza 
+Acum [**NGROK**](https://ngrok.com/docs/getting-started/) usureaza 
 
  - accesul/ingerarea-securizat/a la mediul [Kubernetess(K8s)](https://en.wikipedia.org/wiki/Kubernetes)
 
-Inainte de toate cateva cuvinte despre ...tinta/scopul produsului **NGROK**, asupra caruia NGROK, in acest articol, se concentreaza...
+Inainte de toate cateva cuvinte despre ...tinta/scopul produsului [**NGROK**](https://ngrok.com/docs/what-is-ngrok/), asupra caruia acesta([NGROK](https://foundryvtt.wiki/en/setup/hosting/ngrok)-ul), in acest articol, se concentreaza...
 <br/>pe numele/denumirea sau/sa, [orchestratorul-de-containere/izolare](https://en.wikipedia.org/wiki/Containerization_(computing)) ***Kubernetess***(***K8s***).
 
 Asadar sa facem mai intai cunostinta cu Kubernetess(K8s):
@@ -51,7 +51,9 @@ Orchestratorii vă ajută să dezvoltați aplicații containerizate la scară la
  - Coordonarea actualizărilor aplicațiilor
  - Afinitatea nodului de cluster
 
-Bonus, la finele acestui articol, echipa NGROK a promis ca va reveni intr-un alt artico/eMail viitor, in care se va face referire la 
+Si acum cateva cuvinte despre actorul principal al acestui articol: [**NGROK**](https://www.pubnub.com/guides/what-is-ngrok/):
+
+Bonus, la finele acestui articol, echipa [NGROK](https://ngrok.com/docs/how-ngrok-works/) a promis ca va reveni intr-un alt artico/eMail viitor, in care se va face referire la 
 
  - *echilibrărea-încărcării*  - extrem de simple
 
