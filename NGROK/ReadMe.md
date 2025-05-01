@@ -61,7 +61,7 @@ Si acum cateva cuvinte despre actorul principal al acestui articol: [**NGROK**](
    - pe un cloud cum ar fi:
       - *AWS*,
       - *Azure*,
-      - *Heroku*, u
+      - *Heroku*, sau
   - pe un *cluster Kubernetes local*,
   - pe un *Raspberry Pi* și chiar
   - pe *laptop*. 
