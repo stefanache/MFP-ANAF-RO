@@ -9,7 +9,7 @@ Acum [**NGROK**](https://ngrok.com/docs/getting-started/) usureaza
 Inainte de toate cateva cuvinte despre ...tinta/scopul produsului [**NGROK**](https://ngrok.com/docs/what-is-ngrok/), asupra caruia acesta([NGROK](https://foundryvtt.wiki/en/setup/hosting/ngrok)-ul), in acest articol, se concentreaza...
 <br/>pe numele/denumirea sau/sa, [orchestratorul-de-containere/izolare](https://en.wikipedia.org/wiki/Containerization_(computing)) ***Kubernetess***(***K8s***).
 
-Asadar sa facem mai intai cunostinta cu Kubernetess(K8s):
+Asadar sa facem mai intai cunostinta cu ***Kubernetess***(***K8s***):
 
 ***Kubernetess*** mai este cunoscut și sub numele de ***K8s*** , este un sistem de 
 <br/>orchestrare a [containerelor](https://en.wikipedia.org/wiki/Containerization_(computing)) open-source pentru 
