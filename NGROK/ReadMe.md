@@ -64,12 +64,30 @@ Si acum cateva cuvinte despre actorul principal al acestui articol: [**NGROK**](
 <br/>**NGROK** consolidează proxy-ul invers, echilibratorul de încărcare, gateway-ul API, firewall-ul, rețeaua de livrare, protecția DDoS și multe altele.
 
 Ce poți face cu **NGROK**?
+<hr/>
 
-Dezvoltare și 
+***Dezvoltare*** și 
+
  - *Testarea Webhook-urilor* : Rulați ngrok pe mașina locală pentru a obține o adresă URL care să primească webhook-uri direct în aplicația pe care o dezvoltați. Inspectați și reluați cererile pentru o dezvoltare rapidă.
  - *Previzualizări locale* : Faceți o demonstrație a unui site web care rulează pe mașina locală pentru un client sau o parte interesată, fără a-l implementa pe un site de testare.
  - *Testarea backend-ului mobil* : Testați aplicațiile mobile pe un backend pe care îl dezvoltați pe mașina locală.
 
+***Intrarea*** în 
+ - *API-uri în rețelele clienților : Rulați agentul ngrok ușor sau controlerul Kubernetes în mediile clienților dvs. pentru a vă conecta în siguranță la API-urile din rețelele lor, fără o configurație complexă a rețelei.
+ - API-uri pe dispozitive : Rulați ngrok ca serviciu pe dispozitivele dvs. pentru a crea adrese URL securizate pentru API-urile lor locale, permițând serviciului dvs. cloud să le controleze și să le administreze.
+ - API-uri în medii de dezvoltare locale : Importați ngrok ca bibliotecă în propria interfață CLI, astfel încât să puteți crea experiențe de dezvoltare locale mai bune pentru clienții dezvoltatori.
+ ***producție***
+ 
+ - *Gateway API* : Folosește modulele HTTP ale ngrok pentru a securiza, proteja, accelera și transforma traficul către API-urile tale de producție.
+ - *Kubernetes Ingress(ingerare)* : Rulați operatorul Kubernetes ngrok pentru a crea un ingress către serviciile Kubernetes care rulează în orice cluster.
+ - *Proxy cu funcție de identificare* : Folosește acțiunile OAuth , JWT Validation sau OpenID Connect din ngrok pentru a federa autentificarea aplicației tale cu un furnizor de identitate.
+ - *Load Balancer*: Folosește Edges pentru a echilibra sarcina traficului pentru scalabilitate și failover sau pentru a face implementări blue/green și canary.
+ 
+  ***la distanță***
+ - *SSH* : Creați [puncte-finale/endpoints TCP](https://ngrok.com/docs/universal-gateway/tcp/) pentru a permite accesul SSH la mașini la distanță.
+ - *RDP* : Creați [puncte-finale/endpoints TCP](https://ngrok.com/docs/universal-gateway/tcp/) pentru a permite accesul RDP la mașini la distanță.
+
+<hr/>
 
 Bonus, la finele acestui articol, echipa [NGROK](https://ngrok.com/docs/how-ngrok-works/) a promis ca va reveni intr-un alt artico/eMail viitor, in care se va face referire la 
 
