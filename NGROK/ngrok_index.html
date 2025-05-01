@@ -1,0 +1,531 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional //EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml" lang="en"><head>
+    <title>[ngrok news] hey, ngrok is Kubernetes-native now</title>
+    <meta property="og:title" content="[ngrok news] hey, ngrok is Kubernetes-native now">
+    <meta name="twitter:title" content="[ngrok news] hey, ngrok is Kubernetes-native now">
+    
+    
+    
+<meta name="x-apple-disable-message-reformatting">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!--[if gte mso 9]>
+  <xml>
+    <o:OfficeDocumentSettings>
+      <o:AllowPNG/>
+      <o:PixelsPerInch>96</o:PixelsPerInch>
+    </o:OfficeDocumentSettings><w:WordDocument xmlns:w="urn:schemas-microsoft-com:office:word">
+      <w:DontUseAdvancedTypographyReadingMail/>
+    </w:WordDocument></xml>
+  
+  <style>
+    ul > li {
+      text-indent: -1em;
+    }
+  </style>
+<![endif]-->
+<!--[if mso]>
+<style type="text/css">
+ body, td {font-family: Arial, Helvetica, sans-serif;}
+ .hse-body-wrapper-table {background-color: #FFFFFF;}
+</style>
+<![endif]--><!--[if mso | IE]>
+  <style type="text/css">
+    .hse-column-container { border: none !important; padding: 0 !important; }
+  </style>
+<![endif]-->
+    
+
+
+
+
+
+
+      
+
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+  <meta name="generator" content="HubSpot"><meta property="og:url" content="http://ngrok-21124867.hs-sites.com/ngrok-news-hey-ngrok-is-kubernetes-native-now"><meta name="robots" content="noindex,follow"><!--[if !((mso)|(IE))]><!-- --><style type="text/css">@media only screen and (max-width:639px){img.stretch-on-mobile,.hs_rss_email_entries_table img,.hs-stretch-cta .hs-cta-img{height:auto !important;width:100% !important}
+.display_block_on_small_screens{display:block}.hs_padded{padding-left:20px !important;padding-right:20px !important}
+.hs-hm,table.hs-hm{display:none}.hs-hd{display:block !important}table.hs-hd{display:table !important}
+}@media only screen and (max-width:639px){.hse-border-m{border-left:1px solid #cbd6e2 !important;border-right:1px solid #cbd6e2 !important;box-sizing:border-box}
+.hse-border-bottom-m{border-bottom:1px solid #cbd6e2 !important}.hse-border-top-m{border-top:1px solid #cbd6e2 !important}
+.hse-border-top-hm{border-top:none !important}.hse-border-bottom-hm{border-bottom:none !important}
+}.moz-text-html .hse-column-container{max-width:600px !important;width:600px !important}
+.moz-text-html .hse-column{display:table-cell;vertical-align:top}.moz-text-html .hse-section .hse-size-12{max-width:600px !important;width:600px !important}
+@media only screen and (min-width:640px){.hse-column-container{max-width:600px !important;width:600px !important}
+.hse-column{display:table-cell;vertical-align:top}.hse-section .hse-size-12{max-width:600px !important;width:600px !important}
+}@media only screen and (max-width:639px){ul,blockquote{margin:0;padding:1em 40px}
+}@media only screen and (max-width:639px){.hse-body-wrapper-td{padding-top:20px !important}
+#section_1693333456313 .hse-column-container{background-color:transparent !important}
+#section_1693333456313 .hse-column-container{background-color:transparent !important}
+}@media screen and (max-width:639px){.social-network-cell{display:inline-block} }
+@media only screen and (max-width:639px){.hse-body-wrapper-td{padding-bottom:20px !important}
+#section-7 .hse-column-container{background-color:#fff !important} }</style><!--<![endif]--><style type="text/css">#hs_body #hs_cos_wrapper_main a[x-apple-data-detectors]{color:inherit !important;text-decoration:none !important;font-size:inherit !important;font-family:inherit !important;font-weight:inherit !important;line-height:inherit !important}
+a{text-decoration:underline}p{margin:0}body{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;-webkit-font-smoothing:antialiased;moz-osx-font-smoothing:grayscale}
+table{border-spacing:0;mso-table-lspace:0;mso-table-rspace:0}table,td{border-collapse:collapse}
+img{-ms-interpolation-mode:bicubic}p,a,li,td,blockquote{mso-line-height-rule:exactly}</style></head>
+  <body id="hs_body" bgcolor="#FFFFFF" style="margin:0 !important; padding:0 !important; font-family:Arial, sans-serif; font-size:15px; color:#151429; word-break:break-word">
+    <div id="preview_text" style="display:none;font-size:1px;color:#FFFFFF;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;" lang="en">We brought ngrok’s simplicity to Kubernetes ingress. Here’s everything you missed at KubeCon, plus all our newest ships.</div>
+    
+<!--[if gte mso 9]>
+<v:background xmlns:v="urn:schemas-microsoft-com:vml" fill="t">
+    <v:fill type="tile" size="100%,100%" color="#ffffff"/>
+</v:background>
+<![endif]-->
+
+    <div class="hse-body-background" lang="en" style="background-color:#ffffff" bgcolor="#ffffff">
+      <table role="presentation" class="hse-body-wrapper-table" cellpadding="0" cellspacing="0" style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400; margin:0; padding:0; width:100% !important; min-width:320px !important; height:100% !important" width="100%" height="100%">
+        <tbody><tr style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400">
+          <td class="hse-body-wrapper-td" valign="top" style="font-size:15px; color:#151429; word-break:break-word; font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400; padding-top:20px; padding-bottom:20px">
+            <div id="hs_cos_wrapper_main" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_dnd_area" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="dnd_area">  <div id="section_1693333456313" class="hse-section hse-section-first" style="padding-left:10px; padding-right:10px">
+
+    
+    
+    
+      <div class="hse-column-container" style="min-width:280px; max-width:600px; Margin-left:auto; Margin-right:auto">
+    
+    
+    <!--[if (mso)|(IE)]>
+      
+      <table align="center" style="width:600px;" cellpadding="0" cellspacing="0" role="presentation">
+      <tr>
+    <![endif]-->
+
+    <!--[if (mso)|(IE)]>
+  <td valign="top" style="width:600px;">
+<![endif]-->
+<!--[if gte mso 9]>
+  <table role="presentation" width="600" cellpadding="0" cellspacing="0" style="width:600px">
+<![endif]-->
+<div id="column_1693333456313_0" class="hse-column hse-size-12">
+  <div id="hs_cos_wrapper_module_17400711734291" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="module"><style type="text/css">
+  @media screen {
+    @font-face {
+      font-family: 'Euclid Square';
+      font-style: normal;
+      font-weight: 400;
+      src: url(https://assets.ngrok.com/fonts/euclid-square/EuclidSquare-Regular-WebS.woff) format('woff2');
+    }
+    @font-face {
+      font-family: 'Euclid Square';
+      font-style: normal;
+      font-weight: 500;
+      src: url(https://assets.ngrok.com/fonts/euclid-square/EuclidSquare-Medium-WebS.woff) format('woff2');
+    }
+    @font-face {
+      font-family: 'Euclid Square';
+      font-style: normal;
+      font-weight: 600;
+      src: url(https://assets.ngrok.com/fonts/euclid-square/EuclidSquare-Semibold-WebS.woff) format('woff2');
+    }
+  }
+</style>
+
+</div>
+<div id="hs_cos_wrapper_module_16933407040501" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="module"><div style="overflow:hidden">
+  <table role="presentation" class="hse-pre-header hse-secondary" width="100%" cellpadding="0" cellspacing="0" style="font-weight:400; text-align:right; font-family:Arial, sans-serif; font-size:12px; line-height:135%; color:#23496d; margin-bottom:0; padding:0" align="right">
+    <tbody>
+      <tr style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400">
+        <td align="right" valign="top" style="color:#151429; word-break:break-word; font-weight:400; text-align:right; font-family:Arial, sans-serif; font-size:12px; padding:10px 0; margin-bottom:0; line-height:135%">
+          <a href="http://ngrok-21124867.hs-sites.com/ngrok-news-hey-ngrok-is-kubernetes-native-now?ecid=ACsprvtWlVhMLQSPb5umZKgVIi3wPSW4RPbu1DmliVym0ohY8wiVzRic24l24rsHS1ffFODBU76k&amp;utm_campaign=Monthly%20Newsletter&amp;utm_source=hs_email&amp;utm_medium=email&amp;utm_content=359272796&amp;_hsenc=p2ANqtz--cTlW5InTQS_6E69J-s0d88h4wZc_OzRlmOvUM24-DefV4q0FbXesRCNI-u5CpC1YD7rVtj-N92U_dt6VcXeLDsIrmVVBxzuqOdspC5LvD3TDoZvA" style="color:#2563EB; font-weight:normal; text-decoration:underline; font-style:normal" data-hs-link-id="0" data-hs-link-id-v2="OOcUJ6xq" target="_blank">View in browser</a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div></div>
+</div>
+<!--[if gte mso 9]></table><![endif]-->
+<!--[if (mso)|(IE)]></td><![endif]-->
+
+    <!--[if (mso)|(IE)]></tr></table><![endif]-->
+
+    </div>
+   
+  </div>
+  <div id="section-1" class="hse-section" style="padding-left:10px; padding-right:10px">
+
+    
+    
+    
+      <div class="hse-column-container" style="min-width:280px; max-width:600px; Margin-left:auto; Margin-right:auto; background-color:#ffffff; background-image:url('https://hs-21124867.f.hubspotemail.net/hub/21124867/hubfs/gradient-header.png'); background-position:center; background-repeat:repeat" bgcolor="#ffffff">
+    
+    
+    <!--[if (mso)|(IE)]>
+      
+      <table align="center" style="width:600px;" cellpadding="0" cellspacing="0" role="presentation" width="600" bgcolor="#ffffff">
+      <tr style="background-color:#ffffff; background-image:url('https://21124867.fs1.hubspotusercontent-na1.net/hubfs/21124867/gradient-header.png'); background-position:center; background-repeat:repeat;">
+    <![endif]-->
+
+    <!--[if (mso)|(IE)]>
+  <td valign="top" style="width:600px;">
+<![endif]-->
+<!--[if gte mso 9]>
+  <table role="presentation" width="600" cellpadding="0" cellspacing="0" style="width:600px">
+<![endif]-->
+<div id="column-1-0" class="hse-column hse-size-12">
+  <div id="hs_cos_wrapper_module-1-0-0" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="module"><table class="hse-image-wrapper" role="presentation" width="100%" cellpadding="0" cellspacing="0" style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400">
+  <tbody>
+    <tr style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400">
+      <td class="hs_padded" align="left" valign="top" style="color:#151429; word-break:break-word; font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400; text-align:left; padding:10px 20px; font-size:0px">
+        <a href="https://ngrok.com/?utm_source=email&amp;utm_medium=newsletter&amp;utm_content=homepage&amp;utm_campaign=april_2025_newsletter&amp;_hsenc=p2ANqtz--cTlW5InTQS_6E69J-s0d88h4wZc_OzRlmOvUM24-DefV4q0FbXesRCNI-u5CpC1YD7rVtj-N92U_dt6VcXeLDsIrmVVBxzuqOdspC5LvD3TDoZvA" target="_blank" style="color:#00a4bd" data-hs-link-id="0" data-hs-link-id-v2="9pQFXVwc">
+        <img alt="ngrok-white-med" src="https://hs-21124867.f.hubspotemail.net/hub/21124867/hubfs/ngrok-white-med.png?upscale=true&amp;width=240&amp;upscale=true&amp;name=ngrok-white-med.png" style="outline:none; text-decoration:none; border:none; max-width:100%; font-size:16px" width="120" align="middle" class="stretch-on-mobile">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table></div>
+</div>
+<!--[if gte mso 9]></table><![endif]-->
+<!--[if (mso)|(IE)]></td><![endif]-->
+
+    <!--[if (mso)|(IE)]></tr></table><![endif]-->
+
+    </div>
+   
+  </div>
+  <div id="section_1729878365342" class="hse-section" style="padding-left:10px; padding-right:10px">
+
+    
+    
+    
+      <div class="hse-column-container" style="min-width:280px; max-width:600px; Margin-left:auto; Margin-right:auto">
+    
+    
+    <!--[if (mso)|(IE)]>
+      
+      <table align="center" style="width:600px;" cellpadding="0" cellspacing="0" role="presentation">
+      <tr>
+    <![endif]-->
+
+    <!--[if (mso)|(IE)]>
+  <td valign="top" style="width:600px;">
+<![endif]-->
+<!--[if gte mso 9]>
+  <table role="presentation" width="600" cellpadding="0" cellspacing="0" style="width:600px">
+<![endif]-->
+<div id="column_1737139272119_0" class="hse-column hse-size-12">
+    <table role="presentation" cellpadding="0" cellspacing="0" width="100%" class="" style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400"><tbody><tr style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400"><td class="hs_padded" style="font-size:15px; color:#151429; word-break:break-word; font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400; padding:40px 20px 20px"><div id="hs_cos_wrapper_module_17400712041152" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="module"><div id="hs_cos_wrapper_module_17400712041152_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><h2 style="margin:0; mso-line-height-rule:exactly; font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:600; line-height:150%; font-size:20px">Hi, Ion!</h2></div></div></td></tr></tbody></table>
+  <table role="presentation" cellpadding="0" cellspacing="0" width="100%" class="" style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400"><tbody><tr style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400"><td class="hs_padded" style="font-size:15px; color:#151429; word-break:break-word; font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400; padding:10px 20px 0px"><div id="hs_cos_wrapper_module_17400713682783" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="module"><div id="hs_cos_wrapper_module_17400713682783_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><p style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400; mso-line-height-rule:exactly; line-height:175%">At KubeCon EU, we had hundreds of developers drop by to say: “I love ngrok! I’ve used it for years… what are you doing at a Kubernetes conference?" The answer is what we’re excited to share with all of you: <span style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:bold">ngrok is now Kubernetes-native</span>. <a href="https://ngrok.com/blog-post/ngrok-kubernetes-ingress?utm_source=email&amp;utm_medium=newsletter&amp;utm_content=blog_ngrok_kubernetes_ingress&amp;utm_campaign=april_2025_newsletter&amp;_hsenc=p2ANqtz--cTlW5InTQS_6E69J-s0d88h4wZc_OzRlmOvUM24-DefV4q0FbXesRCNI-u5CpC1YD7rVtj-N92U_dt6VcXeLDsIrmVVBxzuqOdspC5LvD3TDoZvA" rel="noopener" style="color:#2563eb" data-hs-link-id="0" data-hs-link-id-v2="HKo8VRAp" target="_blank">I wrote a whole blog post about it</a>, but I’ve got a quick summary for you in this newsletter. This is a big one—let’s dig in.</p>
+<p style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400; mso-line-height-rule:exactly; line-height:175%">&nbsp;</p>
+<h2 style="margin:0; mso-line-height-rule:exactly; font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:600; font-size:18px; line-height:175%">Gateway API core support</h2>
+<p style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400; mso-line-height-rule:exactly; line-height:175%">After adding preliminary support last year, the <a href="https://github.com/ngrok/ngrok-operator?utm_campaign=Monthly%20Newsletter&amp;utm_source=hs_email&amp;utm_medium=email&amp;utm_content=359272796&amp;_hsenc=p2ANqtz--cTlW5InTQS_6E69J-s0d88h4wZc_OzRlmOvUM24-DefV4q0FbXesRCNI-u5CpC1YD7rVtj-N92U_dt6VcXeLDsIrmVVBxzuqOdspC5LvD3TDoZvA" rel="noopener" style="color:#2563eb" data-hs-link-id="0" data-hs-link-id-v2="KNlwT+zp" target="_blank">ngrok Kubernetes Operator</a> supports the entire core Gateway API. This includes:</p>
+<ul style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400; mso-line-height-rule:exactly; line-height:175%">
+<li aria-level="1" style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400">Routes (<span style="font-weight:400; font-family:'Courier New', Courier, monospace"><strong>HTTPRoute</strong></span>, <span style="font-weight:400; font-family:'Courier New', Courier, monospace"><strong>TCPRoute</strong></span>, <span style="font-weight:400; font-family:'Courier New', Courier, monospace"><strong>TLSRoute</strong></span>) + RouteMatches (header, path, + more)</li>
+<li aria-level="1" style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400">Filters: header, redirect, rewrite + more</li>
+<li aria-level="1" style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400">Backends: Backend filters + weighted balancing!</li>
+<li aria-level="1" style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400">ReferenceGrant: RBAC for multi-tenant clusters handling</li>
+<li aria-level="1" style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400">Traffic Policy as an <span style="font-weight:400; font-family:'Courier New', Courier, monospace"><strong>extensionRef</strong></span> or <span style="font-weight:400; font-family:'Courier New', Courier, monospace"><strong>annotation</strong></span> when the Gateway API isn’t flexible enough</li>
+</ul>
+<p style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400; mso-line-height-rule:exactly; line-height:175%">In unique ngrok fashion, we compile all of your Gateway API definitions to Traffic Policy and accelerate them by executing those behaviors on our global cloud service.</p>
+<p style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400; mso-line-height-rule:exactly; line-height:175%">&nbsp;</p>
+<p style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400; mso-line-height-rule:exactly; line-height:175%"><a href="https://ngrok.com/docs/k8s/guides/using-gwapi/?utm_source=email&amp;utm_medium=newsletter&amp;utm_content=docs_k8s_using_gwapi&amp;utm_campaign=april_2025_newsletter&amp;_hsenc=p2ANqtz--cTlW5InTQS_6E69J-s0d88h4wZc_OzRlmOvUM24-DefV4q0FbXesRCNI-u5CpC1YD7rVtj-N92U_dt6VcXeLDsIrmVVBxzuqOdspC5LvD3TDoZvA" rel="noopener" style="color:#2563eb" data-hs-link-id="0" data-hs-link-id-v2="P1QA95+2" target="_blank">Get started with the Gateway API →</a></p>
+<p style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400; mso-line-height-rule:exactly; line-height:175%">&nbsp;</p>
+<h2 style="margin:0; mso-line-height-rule:exactly; font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:600; font-size:18px; line-height:200%">--binding=kubernetes</h2>
+<p style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400; mso-line-height-rule:exactly; line-height:175%">Kubernetes bindings is our zero-config take on Telepresence—these endpoints that are privately accessible only inside of K8s clusters where you’ve installed the ngrok operator. Great for local development and cross-cluster networking between any two production clusters regardless of where they’re running.</p></div></div></td></tr></tbody></table>
+  <table role="presentation" cellpadding="0" cellspacing="0" width="100%" class="" style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400"><tbody><tr style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400"><td class="hs_padded" style="font-size:15px; color:#151429; word-break:break-word; font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400; padding:10px 20px"><div id="hs_cos_wrapper_module_17459777321933" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="module"><pre style="white-space:pre-wrap; margin:0; padding:0 20px 15px 20px; background:#f9fafb; border:1px solid #d1d4db; border-radius:.375rem; font-size:13px"><code>
+# on any machine
+ngrok http 8080 --url http://hello.world --binding kubernetes
+
+# in as many k8s clusters as you'd like
+helm install ngrok ngrok/ngrok-operator ...
+
+# from a pod inside your k8s cluster
+curl http://hello.world
+</code></pre></div></td></tr></tbody></table>
+  <table role="presentation" cellpadding="0" cellspacing="0" width="100%" class="" style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400"><tbody><tr style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400"><td class="hs_padded" style="font-size:15px; color:#151429; word-break:break-word; font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400; padding:10px 20px 0px"><div id="hs_cos_wrapper_module_17459772933232" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="module"><div id="hs_cos_wrapper_module_17459772933232_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><p style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400; mso-line-height-rule:exactly; line-height:175%"><span style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400; font-size:15px"><a href="https://ngrok.com/docs/universal-gateway/kubernetes-endpoints/?utm_source=email&amp;utm_medium=newsletter&amp;utm_content=docs_kubernetes_endpoints&amp;utm_campaign=april_2025_newsletter&amp;_hsenc=p2ANqtz--cTlW5InTQS_6E69J-s0d88h4wZc_OzRlmOvUM24-DefV4q0FbXesRCNI-u5CpC1YD7rVtj-N92U_dt6VcXeLDsIrmVVBxzuqOdspC5LvD3TDoZvA" rel="noopener" style="color:#2563eb" data-hs-link-id="0" data-hs-link-id-v2="Fv7igwm4" target="_blank">Get started with Kubernetes bindings →</a></span></p>
+<p style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400; mso-line-height-rule:exactly; line-height:175%">&nbsp;</p>
+<h2 style="margin:0; mso-line-height-rule:exactly; font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:600; font-size:18px; line-height:175%">CRDs</h2>
+<p style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400; mso-line-height-rule:exactly; line-height:175%">The ngrok operator ships with new CRDs for <span style="font-weight:bold; font-family:'Courier New', Courier, monospace">AgentEndpoint</span>, <span style="font-weight:bold; font-family:'Courier New', Courier, monospace">CloudEndpoint</span>, <span style="font-weight:bold; font-family:'Courier New', Courier, monospace">Domain</span> + more if you want to manage ngrok resources directly without using <span style="font-weight:bold; font-family:'Courier New', Courier, monospace">Ingress</span> or <span style="font-weight:bold; font-family:'Courier New', Courier, monospace">Gateway</span> objects as intermediates. It’s sometimes simpler or more powerful than wrangling Ingress/Gateway objects.</p>
+<p style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400; mso-line-height-rule:exactly; line-height:175%">&nbsp;</p>
+<p style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400; mso-line-height-rule:exactly; line-height:175%"><a href="https://ngrok.com/docs/k8s/crds/?utm_source=email&amp;utm_medium=newsletter&amp;utm_content=docs_k8s_crds&amp;utm_campaign=april_2025_newsletter&amp;_hsenc=p2ANqtz--cTlW5InTQS_6E69J-s0d88h4wZc_OzRlmOvUM24-DefV4q0FbXesRCNI-u5CpC1YD7rVtj-N92U_dt6VcXeLDsIrmVVBxzuqOdspC5LvD3TDoZvA" rel="noopener" style="color:#2563eb" data-hs-link-id="0" data-hs-link-id-v2="hQrvtpD3" target="_blank">Read the CRD docs →</a></p>
+<p style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400; mso-line-height-rule:exactly; line-height:175%">&nbsp;</p>
+<h2 style="margin:0; mso-line-height-rule:exactly; font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:600; font-size:18px; line-height:175%">Overhauled documentation</h2>
+<p style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400; mso-line-height-rule:exactly; line-height:175%">With all of the new functionality we packed into the operator, we needed to rewrite all of the Kubernetes Operator documentation so you understand how to use it! We’ve added quickstarts, usage guides, Helm values + CRD references, architecture descriptions, and a whole lot more.&nbsp;</p>
+<p style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400; mso-line-height-rule:exactly; line-height:175%">&nbsp;</p>
+<p style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400; mso-line-height-rule:exactly; line-height:175%"><a href="https://ngrok.com/docs/k8s/?utm_source=email&amp;utm_medium=newsletter&amp;utm_content=docs_k8s&amp;utm_campaign=april_2025_newsletter&amp;_hsenc=p2ANqtz--cTlW5InTQS_6E69J-s0d88h4wZc_OzRlmOvUM24-DefV4q0FbXesRCNI-u5CpC1YD7rVtj-N92U_dt6VcXeLDsIrmVVBxzuqOdspC5LvD3TDoZvA" rel="noopener" style="color:#2563eb" data-hs-link-id="0" data-hs-link-id-v2="PF89OjgS" target="_blank">Read the new docs →</a></p>
+<p style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400; mso-line-height-rule:exactly; line-height:175%">&nbsp;</p>
+<h2 style="margin:0; mso-line-height-rule:exactly; font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:600; font-size:18px; line-height:200%">Need more Kubernetes?</h2>
+<p style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400; mso-line-height-rule:exactly; line-height:175%">In April's Office Hours, we broke down Kubernetes from the ground up, starting with a 101-level crash course on clusters, a live demo adding ingress to self-hosted LLM via Ollama, and ending with cross-cluster networking with bindings. <a href="https://www.youtube.com/watch?v=QxTuQ7ypVPU&amp;utm_campaign=Monthly%20Newsletter&amp;utm_source=hs_email&amp;utm_medium=email&amp;utm_content=359272796&amp;_hsenc=p2ANqtz--cTlW5InTQS_6E69J-s0d88h4wZc_OzRlmOvUM24-DefV4q0FbXesRCNI-u5CpC1YD7rVtj-N92U_dt6VcXeLDsIrmVVBxzuqOdspC5LvD3TDoZvA" rel="noopener" style="color:#2563eb" data-hs-link-id="0" data-hs-link-id-v2="2kNDbOPp" target="_blank">Catch the replay on YouTube</a> if you learn by following along.</p>
+<p style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400; mso-line-height-rule:exactly; line-height:175%">&nbsp;</p>
+<p style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400; mso-line-height-rule:exactly; line-height:175%">If you're the kind of developer who prefers docs over demos, we have a plethora of how-tos:</p>
+<ul style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400; mso-line-height-rule:exactly; line-height:175%">
+<li aria-level="1" style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400"><a href="https://ngrok.com/docs/getting-started/kubernetes/?utm_source=email&amp;utm_medium=newsletter&amp;utm_content=docs_getting_started_k8s&amp;utm_campaign=april_2025_newsletter&amp;_hsenc=p2ANqtz--cTlW5InTQS_6E69J-s0d88h4wZc_OzRlmOvUM24-DefV4q0FbXesRCNI-u5CpC1YD7rVtj-N92U_dt6VcXeLDsIrmVVBxzuqOdspC5LvD3TDoZvA" rel="noopener" style="color:#2563eb" data-hs-link-id="0" data-hs-link-id-v2="uxGhRILK" target="_blank">Get started with the ngrok Kubernetes Operator →</a></li>
+<li aria-level="1" style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400"><a href="https://ngrok.com/docs/guides/api-gateway/kubernetes/?utm_source=email&amp;utm_medium=newsletter&amp;utm_content=docs_api_gateway_k8s&amp;utm_campaign=april_2025_newsletter&amp;_hsenc=p2ANqtz--cTlW5InTQS_6E69J-s0d88h4wZc_OzRlmOvUM24-DefV4q0FbXesRCNI-u5CpC1YD7rVtj-N92U_dt6VcXeLDsIrmVVBxzuqOdspC5LvD3TDoZvA" rel="noopener" style="color:#2563eb" data-hs-link-id="0" data-hs-link-id-v2="XOxH11c6" target="_blank">Deploy an API gateway with Kubernetes →</a></li>
+<li aria-level="1" style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400"><a href="https://ngrok.com/blog-post/kubernetes-dev-loop-projection?utm_source=email&amp;utm_medium=newsletter&amp;utm_content=blog_kubernetes_dev_loop_projection&amp;utm_campaign=april_2025_newsletter&amp;_hsenc=p2ANqtz--cTlW5InTQS_6E69J-s0d88h4wZc_OzRlmOvUM24-DefV4q0FbXesRCNI-u5CpC1YD7rVtj-N92U_dt6VcXeLDsIrmVVBxzuqOdspC5LvD3TDoZvA" rel="noopener" style="color:#2563eb" data-hs-link-id="0" data-hs-link-id-v2="7u09sfQ0" target="_blank">Use new bindings to speed up dev loops and project services →</a></li>
+<li aria-level="1" style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400"><a href="https://ngrok.com/blog-post/kubernetes-testing-github-actions-ngrok-operator?utm_source=email&amp;utm_medium=newsletter&amp;utm_content=blog_kubernetes-testing-github-actions-ngrok-operator&amp;utm_campaign=april_2025_newsletter&amp;_hsenc=p2ANqtz--cTlW5InTQS_6E69J-s0d88h4wZc_OzRlmOvUM24-DefV4q0FbXesRCNI-u5CpC1YD7rVtj-N92U_dt6VcXeLDsIrmVVBxzuqOdspC5LvD3TDoZvA" rel="noopener" style="color:#2563eb" data-hs-link-id="0" data-hs-link-id-v2="TCv27UwR" target="_blank">Automate testing your K8s deployments with GitHub actions →</a></li>
+<li aria-level="1" style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400"><a href="https://ngrok.com/blog-post/secure-ingress-kubernetes-api?utm_source=email&amp;utm_medium=newsletter&amp;utm_content=blog_secure_ingress_kubernetes_api&amp;utm_campaign=april_2025_newsletter&amp;_hsenc=p2ANqtz--cTlW5InTQS_6E69J-s0d88h4wZc_OzRlmOvUM24-DefV4q0FbXesRCNI-u5CpC1YD7rVtj-N92U_dt6VcXeLDsIrmVVBxzuqOdspC5LvD3TDoZvA" rel="noopener" style="color:#2563eb" data-hs-link-id="0" data-hs-link-id-v2="cjkG03pg" target="_blank">Access the Kubernetes API securely from anywhere →</a></li>
+</ul>
+<h2 style="margin:0; mso-line-height-rule:exactly; font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:600; font-size:18px; line-height:175%">Missed KubeCon? Watch our talks</h2>
+<p style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400; mso-line-height-rule:exactly; line-height:175%">Myself and Kate Osborn, Senior Engineer in our developer growth team, went on stage to dig into API gateways and Gateway API, respectively—you can now watch recordings of our talks on the CNCF YouTube channel:</p>
+<ul style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400; mso-line-height-rule:exactly; line-height:175%">
+<li aria-level="1" style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400"><a href="https://www.youtube.com/watch?v=EOQ8qNstD8I&amp;utm_campaign=Monthly%20Newsletter&amp;utm_source=hs_email&amp;utm_medium=email&amp;utm_content=359272796&amp;_hsenc=p2ANqtz--cTlW5InTQS_6E69J-s0d88h4wZc_OzRlmOvUM24-DefV4q0FbXesRCNI-u5CpC1YD7rVtj-N92U_dt6VcXeLDsIrmVVBxzuqOdspC5LvD3TDoZvA" rel="noopener" style="color:#2563eb" data-hs-link-id="0" data-hs-link-id-v2="XGH/Jmqo" target="_blank">Watch my talk on API gateway maturity →</a></li>
+<li aria-level="1" style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400"><a href="https://www.youtube.com/watch?v=QzE6vSgcyT0&amp;utm_campaign=Monthly%20Newsletter&amp;utm_source=hs_email&amp;utm_medium=email&amp;utm_content=359272796&amp;_hsenc=p2ANqtz--cTlW5InTQS_6E69J-s0d88h4wZc_OzRlmOvUM24-DefV4q0FbXesRCNI-u5CpC1YD7rVtj-N92U_dt6VcXeLDsIrmVVBxzuqOdspC5LvD3TDoZvA" rel="noopener" style="color:#2563eb" data-hs-link-id="0" data-hs-link-id-v2="z+PtUxMX" target="_blank">See Kate's panel on choosing a Gateway API implementation →</a></li>
+</ul>
+<p style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400; mso-line-height-rule:exactly; line-height:175%">&nbsp;</p></div></div></td></tr></tbody></table>
+</div>
+<!--[if gte mso 9]></table><![endif]-->
+<!--[if (mso)|(IE)]></td><![endif]-->
+
+    <!--[if (mso)|(IE)]></tr></table><![endif]-->
+
+    </div>
+   
+  </div>
+  <div id="section_1740071486492" class="hse-section" style="padding-left:10px; padding-right:10px">
+
+    
+    
+    
+      <div class="hse-column-container" style="min-width:280px; max-width:600px; Margin-left:auto; Margin-right:auto; background-color:#DEE2E4" bgcolor="#DEE2E4">
+    
+    
+    <!--[if (mso)|(IE)]>
+      
+      <table align="center" style="width:600px;" cellpadding="0" cellspacing="0" role="presentation" width="600" bgcolor="#DEE2E4">
+      <tr style="background-color:#DEE2E4;">
+    <![endif]-->
+
+    <!--[if (mso)|(IE)]>
+  <td valign="top" style="width:600px;">
+<![endif]-->
+<!--[if gte mso 9]>
+  <table role="presentation" width="600" cellpadding="0" cellspacing="0" style="width:600px">
+<![endif]-->
+<div id="column_1740071486492_0" class="hse-column hse-size-12">
+    <table role="presentation" cellpadding="0" cellspacing="0" width="100%" class="" style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400"><tbody><tr style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400"><td class="hs_padded" style="font-size:15px; color:#151429; word-break:break-word; font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400; padding:20px"><div id="hs_cos_wrapper_module_17400714936054" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="module"><div id="hs_cos_wrapper_module_17400714936054_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><p style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400; mso-line-height-rule:exactly; line-height:175%"><em>Already using ngrok for Kubernetes? I'd love to hear what you're building and feature your ingress setup in an upcoming newsletter. </em><em>Replies go straight into my inbox (dear me!), so feel free to hit reply and send me your thoughts.</em></p></div></div></td></tr></tbody></table>
+</div>
+<!--[if gte mso 9]></table><![endif]-->
+<!--[if (mso)|(IE)]></td><![endif]-->
+
+    <!--[if (mso)|(IE)]></tr></table><![endif]-->
+
+    </div>
+   
+  </div>
+  <div id="section_1696364014760" class="hse-section" style="padding-left:10px; padding-right:10px">
+
+    
+    
+    
+      <div class="hse-column-container" style="min-width:280px; max-width:600px; Margin-left:auto; Margin-right:auto; background-color:#ffffff; padding-top:10px" bgcolor="#ffffff">
+    
+    
+    <!--[if (mso)|(IE)]>
+      
+      <table align="center" style="width:600px;" cellpadding="0" cellspacing="0" role="presentation" width="600" bgcolor="#ffffff">
+      <tr style="background-color:#ffffff;">
+    <![endif]-->
+
+    <!--[if (mso)|(IE)]>
+  <td valign="top" style="width:600px;padding-top:10px;">
+<![endif]-->
+<!--[if gte mso 9]>
+  <table role="presentation" width="600" cellpadding="0" cellspacing="0" style="width:600px">
+<![endif]-->
+<div id="column_1696364014760_0" class="hse-column hse-size-12">
+    <table role="presentation" cellpadding="0" cellspacing="0" width="100%" class="" style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400"><tbody><tr style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400"><td class="hs_padded" style="font-size:15px; color:#151429; word-break:break-word; font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400; padding:10px 20px"><div id="hs_cos_wrapper_module_17400715921295" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="module"><div id="hs_cos_wrapper_module_17400715921295_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><h2 style="margin:0; mso-line-height-rule:exactly; font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:600; font-size:18px; line-height:200%">Ships, quips, and tips from the ngrok community</h2>
+<p style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400; mso-line-height-rule:exactly; line-height:175%"><em>See+use ngrok embedded in MCP Connect, a bridge between local tools and cloud-based AI services.</em></p>
+<p style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400; mso-line-height-rule:exactly; line-height:175%">&nbsp;</p>
+<p style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400; mso-line-height-rule:exactly; line-height:175%">Once you have the bridge running locally, drop in your ngrok authtoken and run npm run start:tunnel to fire up ngrok via the community <a href="https://github.com/bubenshchykov/ngrok?utm_campaign=Monthly%20Newsletter&amp;utm_source=hs_email&amp;utm_medium=email&amp;utm_content=359272796&amp;_hsenc=p2ANqtz--cTlW5InTQS_6E69J-s0d88h4wZc_OzRlmOvUM24-DefV4q0FbXesRCNI-u5CpC1YD7rVtj-N92U_dt6VcXeLDsIrmVVBxzuqOdspC5LvD3TDoZvA" style="color:#2563eb" data-hs-link-id="0" data-hs-link-id-v2="zIgH18dt" target="_blank">Node.js wrapper</a> project. <a href="https://github.com/EvalsOne/MCP-connect?utm_campaign=Monthly%20Newsletter&amp;utm_source=hs_email&amp;utm_medium=email&amp;utm_content=359272796&amp;_hsenc=p2ANqtz--cTlW5InTQS_6E69J-s0d88h4wZc_OzRlmOvUM24-DefV4q0FbXesRCNI-u5CpC1YD7rVtj-N92U_dt6VcXeLDsIrmVVBxzuqOdspC5LvD3TDoZvA" rel="noopener" style="color:#2563eb" data-hs-link-id="0" data-hs-link-id-v2="/MPBkiC1" target="_blank">Check out MC Connect on GitHub →</a></p>
+<p style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400; mso-line-height-rule:exactly; line-height:175%">&nbsp;</p>
+<p style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400; mso-line-height-rule:exactly; line-height:175%"><em>Build a complete AI agent with Tyler AI on YouTube!</em></p>
+<p style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400; mso-line-height-rule:exactly; line-height:175%">&nbsp;</p>
+<p style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400; mso-line-height-rule:exactly; line-height:175%">Build a FastAPI application that analyzes PDF files with CrewAI to generate structure reports—with ngrok as the API gateway "front door" to tie it all together. <a href="https://www.youtube.com/watch?v=YAtu_bQHcMs&amp;utm_campaign=Monthly%20Newsletter&amp;utm_source=hs_email&amp;utm_medium=email&amp;utm_content=359272796&amp;_hsenc=p2ANqtz--cTlW5InTQS_6E69J-s0d88h4wZc_OzRlmOvUM24-DefV4q0FbXesRCNI-u5CpC1YD7rVtj-N92U_dt6VcXeLDsIrmVVBxzuqOdspC5LvD3TDoZvA" rel="noopener" style="color:#2563eb" data-hs-link-id="0" data-hs-link-id-v2="Ybj4CRlx" target="_blank">Watch the full video to follow along →</a></p>
+<p style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400; mso-line-height-rule:exactly; line-height:175%">&nbsp;</p>
+<p style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400; mso-line-height-rule:exactly; line-height:175%"><em>“In terms of feedback, I've been pushing the team for anything constructive and so far everyone has been unhelpful in that regard because ngrok is really just so much nicer to use than the other options we've been looking at :sweat_smile:”</em></p>
+<p style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400; mso-line-height-rule:exactly; line-height:175%">&nbsp;</p>
+<p style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400; mso-line-height-rule:exactly; line-height:175%">Even our contractors love the experience of using <a href="https://ngrok.com/docs/universal-gateway/endpoints/?utm_source=email&amp;utm_medium=newsletter&amp;utm_content=docs_endpoints&amp;utm_campaign=april_2025_newsletter&amp;_hsenc=p2ANqtz--cTlW5InTQS_6E69J-s0d88h4wZc_OzRlmOvUM24-DefV4q0FbXesRCNI-u5CpC1YD7rVtj-N92U_dt6VcXeLDsIrmVVBxzuqOdspC5LvD3TDoZvA" rel="noopener" style="color:#2563eb" data-hs-link-id="0" data-hs-link-id-v2="8DPRVGgr" target="_blank">endpoints</a> and <a href="https://ngrok.com/docs/traffic-policy/?utm_source=email&amp;utm_medium=newsletter&amp;utm_content=docs_traffic_policy&amp;utm_campaign=april_2025_newsletter&amp;_hsenc=p2ANqtz--cTlW5InTQS_6E69J-s0d88h4wZc_OzRlmOvUM24-DefV4q0FbXesRCNI-u5CpC1YD7rVtj-N92U_dt6VcXeLDsIrmVVBxzuqOdspC5LvD3TDoZvA" rel="noopener" style="color:#2563eb" data-hs-link-id="0" data-hs-link-id-v2="xDt0HOEU" target="_blank">Traffic Policy</a>!</p>
+<p style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400; mso-line-height-rule:exactly; line-height:175%">&nbsp;</p>
+<h2 style="margin:0; mso-line-height-rule:exactly; line-height:175%; font-family:'Euclid Square', Lato, Arial, sans-serif; font-size:22px; font-weight:bold">The ngrok changelog: What else is new?</h2>
+<ul style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400; mso-line-height-rule:exactly; line-height:175%">
+<li aria-level="1" style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400"><strong>Like to live on the bleeding edge?</strong> <a href="https://dashboard.ngrok.com/developer-preview?utm_source=email&amp;utm_medium=newsletter&amp;utm_content=dashboard_developer_preview&amp;utm_campaign=april_2025_newsletter&amp;_hsenc=p2ANqtz--cTlW5InTQS_6E69J-s0d88h4wZc_OzRlmOvUM24-DefV4q0FbXesRCNI-u5CpC1YD7rVtj-N92U_dt6VcXeLDsIrmVVBxzuqOdspC5LvD3TDoZvA" rel="noopener" style="color:#2563eb" data-hs-link-id="0" data-hs-link-id-v2="ABmecbIF" target="_blank">Request early access</a> to features like a WAF action in Traffic Policy, data residency selection, and calling external services during requests or responses.</li>
+<li aria-level="1" style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400">Using ngrok for an open source project? You can now <a href="https://ngrok.com/info/community-license-request?utm_source=email&amp;utm_medium=newsletter&amp;utm_content=ngrok_community_license&amp;utm_campaign=april_2025_newsletter&amp;_hsenc=p2ANqtz--cTlW5InTQS_6E69J-s0d88h4wZc_OzRlmOvUM24-DefV4q0FbXesRCNI-u5CpC1YD7rVtj-N92U_dt6VcXeLDsIrmVVBxzuqOdspC5LvD3TDoZvA" rel="noopener" style="color:#2563eb" data-hs-link-id="0" data-hs-link-id-v2="/4lrRh96" target="_blank">request a community license</a> to better build your product and community.</li>
+<li aria-level="1" style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400">We published a blog post on <a href="https://ngrok.com/blog-post/deploy-custom-error-pages?utm_source=email&amp;utm_medium=newsletter&amp;utm_content=blog_deploy_custom_error_pages&amp;utm_campaign=april_2025_newsletter&amp;_hsenc=p2ANqtz--cTlW5InTQS_6E69J-s0d88h4wZc_OzRlmOvUM24-DefV4q0FbXesRCNI-u5CpC1YD7rVtj-N92U_dt6VcXeLDsIrmVVBxzuqOdspC5LvD3TDoZvA" rel="noopener" style="color:#2563eb" data-hs-link-id="0" data-hs-link-id-v2="mBrlEZIJ" target="_blank">creating custom branded error pages</a> using cloud+internal endpoints and the <span style="font-weight:bold; font-family:'Courier New', Courier, monospace">custom-response</span> action.</li>
+<li aria-level="1" style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400">You can now base your <span style="font-weight:bold; font-family:'Courier New', Courier, monospace">rate-limit</span> <a href="https://ngrok.com/docs/traffic-policy/actions/rate-limit/?utm_source=email&amp;utm_medium=newsletter&amp;utm_content=docs_rate_limit&amp;utm_campaign=april_2025_newsletter&amp;_hsenc=p2ANqtz--cTlW5InTQS_6E69J-s0d88h4wZc_OzRlmOvUM24-DefV4q0FbXesRCNI-u5CpC1YD7rVtj-N92U_dt6VcXeLDsIrmVVBxzuqOdspC5LvD3TDoZvA#configuration-fields" rel="noopener" style="color:#2563eb" data-hs-link-id="0" data-hs-link-id-v2="lpNPjzLZ" target="_blank">action's bucket</a> on <em>any</em> property of a request we have a <a href="https://ngrok.com/docs/traffic-policy/variables/?utm_campaign=Monthly%20Newsletter&amp;utm_source=hs_email&amp;utm_medium=email&amp;utm_content=359272796&amp;_hsenc=p2ANqtz--cTlW5InTQS_6E69J-s0d88h4wZc_OzRlmOvUM24-DefV4q0FbXesRCNI-u5CpC1YD7rVtj-N92U_dt6VcXeLDsIrmVVBxzuqOdspC5LvD3TDoZvA" style="color:#2563eb" data-hs-link-id="0" data-hs-link-id-v2="tfnbHujA" target="_blank">variable</a> for, giving you a degree of control and precision no other API gateway can.</li>
+<li aria-level="1" style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400">We added tons of new <a href="https://ngrok.com/docs/traffic-policy/variables/ip-intel/?utm_source=email&amp;utm_medium=newsletter&amp;utm_content=docs_ip_intelligence&amp;utm_campaign=april_2025_newsletter&amp;_hsenc=p2ANqtz--cTlW5InTQS_6E69J-s0d88h4wZc_OzRlmOvUM24-DefV4q0FbXesRCNI-u5CpC1YD7rVtj-N92U_dt6VcXeLDsIrmVVBxzuqOdspC5LvD3TDoZvA#ip-categories" rel="noopener" style="color:#2563eb" data-hs-link-id="0" data-hs-link-id-v2="yvIyUhuh" target="_blank">IP categories to IP Intelligence</a> for services ngrok users often want to block, like AI bots from OpenAI, Perplexity, Anthropic, and others.</li>
+<li aria-level="1" style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400">The new <span style="font-weight:bold; font-family:'Courier New', Courier, monospace">isPrivateIP()</span> macro checks whether a given IP address is part of the private address space of RFC 1918, which helps you <a href="https://ngrok.com/docs/traffic-policy/macros/utility/?utm_source=email&amp;utm_medium=newsletter&amp;utm_content=docs_private_ip&amp;utm_campaign=april_2025_newsletter&amp;_hsenc=p2ANqtz--cTlW5InTQS_6E69J-s0d88h4wZc_OzRlmOvUM24-DefV4q0FbXesRCNI-u5CpC1YD7rVtj-N92U_dt6VcXeLDsIrmVVBxzuqOdspC5LvD3TDoZvA#stringisprivateip--bool" rel="noopener" style="color:#2563eb" data-hs-link-id="0" data-hs-link-id-v2="r039AXTj" target="_blank">filter IPs or set up routing</a> without maintaining these lists yourself.</li>
+<li aria-level="1" style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400">The <span style="font-weight:bold; font-family:'Courier New', Courier, monospace">jwt-validation</span> action <a href="https://ngrok.com/docs/traffic-policy/actions/jwt-validation/?utm_source=email&amp;utm_medium=newsletter&amp;utm_content=docs_jwt_validation&amp;utm_campaign=april_2025_newsletter&amp;_hsenc=p2ANqtz--cTlW5InTQS_6E69J-s0d88h4wZc_OzRlmOvUM24-DefV4q0FbXesRCNI-u5CpC1YD7rVtj-N92U_dt6VcXeLDsIrmVVBxzuqOdspC5LvD3TDoZvA" rel="noopener" style="color:#2563eb" data-hs-link-id="0" data-hs-link-id-v2="Buveci9w" target="_blank">no longer requires</a> an <span style="font-weight:bold; font-family:'Courier New', Courier, monospace">audience</span> claim, simplifying your rules.</li>
+<li aria-level="1" style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400">You can now <a href="https://dashboard.ngrok.com/kubernetes-operators?utm_source=email&amp;utm_medium=newsletter&amp;utm_content=dashboard_kubernetes_operators&amp;utm_campaign=april_2025_newsletter&amp;_hsenc=p2ANqtz--cTlW5InTQS_6E69J-s0d88h4wZc_OzRlmOvUM24-DefV4q0FbXesRCNI-u5CpC1YD7rVtj-N92U_dt6VcXeLDsIrmVVBxzuqOdspC5LvD3TDoZvA" rel="noopener" style="color:#2563eb" data-hs-link-id="0" data-hs-link-id-v2="GavuX9sF" target="_blank">see active Kubernetes Operators</a> and Kubernetes-bound endpoints in the dashboard.</li>
+<li aria-level="1" style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400">We're <a href="https://ngrok.com/docs/universal-gateway/edges/?utm_source=email&amp;utm_medium=newsletter&amp;utm_content=docs_edges&amp;utm_campaign=april_2025_newsletter&amp;_hsenc=p2ANqtz--cTlW5InTQS_6E69J-s0d88h4wZc_OzRlmOvUM24-DefV4q0FbXesRCNI-u5CpC1YD7rVtj-N92U_dt6VcXeLDsIrmVVBxzuqOdspC5LvD3TDoZvA" rel="noopener" style="color:#2563eb" data-hs-link-id="0" data-hs-link-id-v2="EI9bKthN" target="_blank">deprecating edges</a>, and one of our first steps is preventing new users from creating edges or endpoint configurations. We've <a href="https://ngrok.com/docs/universal-gateway/edges/?utm_source=email&amp;utm_medium=newsletter&amp;utm_content=docs_edges_migration&amp;utm_campaign=april_2025_newsletter&amp;_hsenc=p2ANqtz--cTlW5InTQS_6E69J-s0d88h4wZc_OzRlmOvUM24-DefV4q0FbXesRCNI-u5CpC1YD7rVtj-N92U_dt6VcXeLDsIrmVVBxzuqOdspC5LvD3TDoZvA#migration-guide" rel="noopener" style="color:#2563eb" data-hs-link-id="0" data-hs-link-id-v2="pkSiBAKG" target="_blank">created a guide to help you migrate</a> to their newer and better counterparts.</li>
+</ul>
+<p style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400; mso-line-height-rule:exactly; line-height:175%">Thanks for reading and catching up on all things Kubernetes. We've built a lot, but we also have a ton more to ship and show you—for much more of that, plus a complete rundown of dead-simple load balancing, I'll be back in May.</p>
+<p style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400; mso-line-height-rule:exactly; line-height:175%">&nbsp;</p>
+<p style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400; mso-line-height-rule:exactly; line-height:175%">— Joel at ngrok</p></div></div></td></tr></tbody></table>
+<div id="hs_cos_wrapper_module_16962688137854" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="module"><table class="hse-image-wrapper" role="presentation" width="100%" cellpadding="0" cellspacing="0" style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400">
+  <tbody>
+    <tr style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400">
+      <td class="hs_padded" align="center" valign="top" style="color:#151429; word-break:break-word; font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400; text-align:center; padding:15px 20px 10px; font-size:0px">
+        <a href="https://ngrok.com/security?utm_source=email&amp;utm_medium=newsletter&amp;utm_content=security&amp;utm_campaign=april_2025_newsletter&amp;_hsenc=p2ANqtz--cTlW5InTQS_6E69J-s0d88h4wZc_OzRlmOvUM24-DefV4q0FbXesRCNI-u5CpC1YD7rVtj-N92U_dt6VcXeLDsIrmVVBxzuqOdspC5LvD3TDoZvA" target="_blank" style="color:#00a4bd" data-hs-link-id="0" data-hs-link-id-v2="+RJKKlxl">
+        <img alt="ngrok-newsletter-dec-2024_security-1" src="https://hs-21124867.f.hubspotemail.net/hub/21124867/hubfs/ngrok-newsletter-dec-2024_security-1.png?upscale=true&amp;width=150&amp;upscale=true&amp;name=ngrok-newsletter-dec-2024_security-1.png" style="outline:none; text-decoration:none; border:none; max-width:100%; font-size:16px" width="75" align="middle">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table></div>
+</div>
+<!--[if gte mso 9]></table><![endif]-->
+<!--[if (mso)|(IE)]></td><![endif]-->
+
+    <!--[if (mso)|(IE)]></tr></table><![endif]-->
+
+    </div>
+   
+  </div>
+  <div id="section_1696364005112" class="hse-section" style="padding-left:10px; padding-right:10px">
+
+    
+    
+    
+      <div class="hse-column-container" style="min-width:280px; max-width:600px; Margin-left:auto; Margin-right:auto; background-color:#ffffff" bgcolor="#ffffff">
+    
+    
+    <!--[if (mso)|(IE)]>
+      
+      <table align="center" style="width:600px;" cellpadding="0" cellspacing="0" role="presentation" width="600" bgcolor="#ffffff">
+      <tr style="background-color:#ffffff;">
+    <![endif]-->
+
+    <!--[if (mso)|(IE)]>
+  <td valign="top" style="width:600px;">
+<![endif]-->
+<!--[if gte mso 9]>
+  <table role="presentation" width="600" cellpadding="0" cellspacing="0" style="width:600px">
+<![endif]-->
+<div id="column_1696364005112_0" class="hse-column hse-size-12">
+    <table role="presentation" cellpadding="0" cellspacing="0" width="100%" class="" style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400"><tbody><tr style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400"><td class="hs_padded" style="font-size:15px; color:#151429; word-break:break-word; font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400; padding:10px 20px"><div id="hs_cos_wrapper_module_16962688137855" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="module"><div id="hs_cos_wrapper_module_16962688137855_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><p style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400; mso-line-height-rule:exactly; font-size:15px; line-height:175%; text-align:center" align="center"><span style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400; color:#151429">Your trust in us matters. <span style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400; color:#2563eb"><a href="https://ngrok.com/security?utm_source=email&amp;utm_medium=newsletter&amp;utm_content=security&amp;utm_campaign=april_2025_newsletter&amp;_hsenc=p2ANqtz--cTlW5InTQS_6E69J-s0d88h4wZc_OzRlmOvUM24-DefV4q0FbXesRCNI-u5CpC1YD7rVtj-N92U_dt6VcXeLDsIrmVVBxzuqOdspC5LvD3TDoZvA" style="color:#2563eb; font-weight:bold" rel="noopener" data-hs-link-id="1" data-hs-link-id-v2="OOHvTRyc" target="_blank">Learn more about security at ngrok</a></span>.</span></p></div></div></td></tr></tbody></table>
+</div>
+<!--[if gte mso 9]></table><![endif]-->
+<!--[if (mso)|(IE)]></td><![endif]-->
+
+    <!--[if (mso)|(IE)]></tr></table><![endif]-->
+
+    </div>
+   
+  </div>
+  <div id="section-7" class="hse-section hse-section-last" style="padding-left:10px; padding-right:10px">
+
+    
+    
+    
+      <div class="hse-column-container" style="min-width:280px; max-width:600px; Margin-left:auto; Margin-right:auto; background-color:#ffffff; padding-top:10px" bgcolor="#ffffff">
+    
+    
+    <!--[if (mso)|(IE)]>
+      
+      <table align="center" style="width:600px;" cellpadding="0" cellspacing="0" role="presentation" width="600" bgcolor="#ffffff">
+      <tr style="background-color:#ffffff;">
+    <![endif]-->
+
+    <!--[if (mso)|(IE)]>
+  <td valign="top" style="width:600px;padding-top:10px;">
+<![endif]-->
+<!--[if gte mso 9]>
+  <table role="presentation" width="600" cellpadding="0" cellspacing="0" style="width:600px">
+<![endif]-->
+<div id="column-7-0" class="hse-column hse-size-12">
+    <table role="presentation" cellpadding="0" cellspacing="0" width="100%" class="" style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400"><tbody><tr style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400"><td class="hs_padded" style="font-size:15px; color:#151429; word-break:break-word; font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400; padding:10px 20px"><div id="hs_cos_wrapper_module_16933360475369" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="module"><table role="presentation" align="center" style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400; width:auto; text-align:center" class="hs_cos_wrapper_type_social_module" width="auto">
+  <tbody>
+    <tr align="center" style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400">
+      <td class="social-network-cell" style="font-size:15px; color:#151429; word-break:break-word; font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400">
+        <table role="presentation" align="center" style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400; width:auto; text-align:center" class="hs_cos_wrapper_type_social_module_single" width="auto">
+          <tbody>
+            <tr align="center" style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400">
+              <td class="display_block_on_small_screens" style="font-size:15px; color:#151429; word-break:break-word; font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400; padding:8px 5px; line-height:1; vertical-align:middle" valign="middle">
+                <a href="https://github.com/ngrok?utm_campaign=Monthly%20Newsletter&amp;utm_source=hs_email&amp;utm_medium=email&amp;utm_content=359272796&amp;_hsenc=p2ANqtz--cTlW5InTQS_6E69J-s0d88h4wZc_OzRlmOvUM24-DefV4q0FbXesRCNI-u5CpC1YD7rVtj-N92U_dt6VcXeLDsIrmVVBxzuqOdspC5LvD3TDoZvA" style="color:#00a4bd; text-decoration:none !important" data-hs-link-id="0" data-hs-link-id-v2="ruM2DAdv" target="_blank"><img src="https://hs-21124867.f.hubspotemail.net/hub/21124867/hubfs/github_PNG32-2.png?upscale=true&amp;height=50&amp;upscale=true&amp;name=github_PNG32-2.png" alt="GitHub" height="25" style="outline:none; text-decoration:none; border:none; width:auto!important; height:25px!important; vertical-align:middle" valign="middle">
+                </a>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </td><td class="social-network-cell" style="font-size:15px; color:#151429; word-break:break-word; font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400">
+        <table role="presentation" align="center" style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400; width:auto; text-align:center" class="hs_cos_wrapper_type_social_module_single" width="auto">
+          <tbody>
+            <tr align="center" style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400">
+              <td class="display_block_on_small_screens" style="font-size:15px; color:#151429; word-break:break-word; font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400; padding:8px 5px; line-height:1; vertical-align:middle" valign="middle">
+                <a href="https://www.linkedin.com/company/ngrok?utm_campaign=Monthly%20Newsletter&amp;utm_source=hs_email&amp;utm_medium=email&amp;utm_content=359272796&amp;_hsenc=p2ANqtz--cTlW5InTQS_6E69J-s0d88h4wZc_OzRlmOvUM24-DefV4q0FbXesRCNI-u5CpC1YD7rVtj-N92U_dt6VcXeLDsIrmVVBxzuqOdspC5LvD3TDoZvA" style="color:#00a4bd; text-decoration:none !important" data-hs-link-id="0" data-hs-link-id-v2="avzQuYPV" target="_blank"><img src="https://hs-21124867.f.hubspotemail.net/hs/hsstatic/TemplateAssets/static-1.262/img/hs_default_template_images/modules/Follow+Me+-+Email/linkedin_circle_black.png" alt="LinkedIn" height="25" style="outline:none; text-decoration:none; border:none; width:auto!important; height:25px!important; vertical-align:middle" valign="middle">
+                </a>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </td><td class="social-network-cell" style="font-size:15px; color:#151429; word-break:break-word; font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400">
+        <table role="presentation" align="center" style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400; width:auto; text-align:center" class="hs_cos_wrapper_type_social_module_single" width="auto">
+          <tbody>
+            <tr align="center" style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400">
+              <td class="display_block_on_small_screens" style="font-size:15px; color:#151429; word-break:break-word; font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400; padding:8px 5px; line-height:1; vertical-align:middle" valign="middle">
+                <a href="https://twitter.com/ngrokHQ?utm_campaign=Monthly%20Newsletter&amp;utm_source=hs_email&amp;utm_medium=email&amp;utm_content=359272796&amp;_hsenc=p2ANqtz--cTlW5InTQS_6E69J-s0d88h4wZc_OzRlmOvUM24-DefV4q0FbXesRCNI-u5CpC1YD7rVtj-N92U_dt6VcXeLDsIrmVVBxzuqOdspC5LvD3TDoZvA" style="color:#00a4bd; text-decoration:none !important" data-hs-link-id="0" data-hs-link-id-v2="q0zh4uc6" target="_blank"><img src="https://hs-21124867.f.hubspotemail.net/hs/hsstatic/TemplateAssets/static-1.262/img/hs_default_template_images/modules/Follow+Me+-+Email/twitter_circle_black.png" alt="X" height="25" style="outline:none; text-decoration:none; border:none; width:auto!important; height:25px!important; vertical-align:middle" valign="middle">
+                </a>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </td><td class="social-network-cell" style="font-size:15px; color:#151429; word-break:break-word; font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400">
+        <table role="presentation" align="center" style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400; width:auto; text-align:center" class="hs_cos_wrapper_type_social_module_single" width="auto">
+          <tbody>
+            <tr align="center" style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400">
+              <td class="display_block_on_small_screens" style="font-size:15px; color:#151429; word-break:break-word; font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400; padding:8px 5px; line-height:1; vertical-align:middle" valign="middle">
+                <a href="https://www.youtube.com/@ngrokHQ?utm_campaign=Monthly%20Newsletter&amp;utm_source=hs_email&amp;utm_medium=email&amp;utm_content=359272796&amp;_hsenc=p2ANqtz--cTlW5InTQS_6E69J-s0d88h4wZc_OzRlmOvUM24-DefV4q0FbXesRCNI-u5CpC1YD7rVtj-N92U_dt6VcXeLDsIrmVVBxzuqOdspC5LvD3TDoZvA" style="color:#00a4bd; text-decoration:none !important" data-hs-link-id="0" data-hs-link-id-v2="phmcUZ5J" target="_blank"><img src="https://hs-21124867.f.hubspotemail.net/hs/hsstatic/TemplateAssets/static-1.262/img/hs_default_template_images/modules/Follow+Me+-+Email/youtube_circle_black.png" alt="YouTube" height="25" style="outline:none; text-decoration:none; border:none; width:auto!important; height:25px!important; vertical-align:middle" valign="middle">
+                </a>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+</div></td></tr></tbody></table>
+<div id="hs_cos_wrapper_module-7-0-0" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="module"><table role="presentation" class="hse-footer hse-secondary" width="100%" cellpadding="0" cellspacing="0" style="font-weight:400; font-family:Arial, sans-serif; font-size:12px; line-height:135%; color:#23496d; margin-bottom:0; padding:0">
+  <tbody>
+    <tr style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400">
+      <td align="center" valign="top" style="font-size:15px; color:#151429; word-break:break-word; font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400; text-align:center; margin-bottom:0; line-height:135%; padding:10px 20px">
+        <p style="font-family:Arial, sans-serif; font-size:12px; font-weight:normal; text-decoration:none; font-style:normal; color:#23496d">
+          ngrok Inc., 548 Market St, PMB 26741, San Francisco, California 94104-5401, United States
+        </p>
+        <p style="font-family:'Euclid Square', Lato, Arial, sans-serif; font-weight:400">
+          <a data-unsubscribe="true" href="https://hs-21124867.s.hubspotemail.net/hs/preferences-center/en/direct?data=W2nXS-N30h-B0W2KS5-b3z0sJFW2WF7q23ZKn7yW4rxMmB1Q46RJW3BMsQJ4tt6p9W2F--WZ3C9kHDW34D6dp3SCrnPW2WqS923N__m4W1BFvSf4rhl9mW3CbHFt2WgvWwW2xLRDt1Lkp3qW49M6D_4cwq4hW237lfj3Y03JgW2KQRJL1Sx3bZW1_4qjG3M4QdkW3QFfcj2-ld0mW4r7YVJ3BWMQgW2xwnMj1Lm3k9W36zMLh4tj2gsW1V7YTt3jfXfkW2sVq-m4mczZ4W41ZMt43gbpxBW23lYQ_2Kn3_vW3ZZLlW3jryJhW2RMJ7x36y_XgW4pkHfT4ksggLW1LhLgd4ckQ82W32qn-R2t01Z3W4mKK6y41sGZVW3VP-4S3SYhJ3W1QzpR74mb0NGW2MX1sD3NWb5CW3NH6mf3z3Lx5W45ztP62PS7mDW4mJPJx45RdwhW3P2Z6H38h8Dm0&amp;utm_campaign=Monthly%20Newsletter&amp;utm_source=hs_email&amp;utm_medium=email&amp;utm_content=359272796&amp;_hsenc=p2ANqtz--cTlW5InTQS_6E69J-s0d88h4wZc_OzRlmOvUM24-DefV4q0FbXesRCNI-u5CpC1YD7rVtj-N92U_dt6VcXeLDsIrmVVBxzuqOdspC5LvD3TDoZvA" style="font-family:Helvetica,Arial,sans-serif; font-size:12px; color:#2563EB; font-weight:normal; text-decoration:underline; font-style:normal" data-hs-link-id="0" data-hs-link-id-v2="SFRZzEXk" target="_blank">Unsubscribe</a>
+          <a data-unsubscribe="true" href="https://hs-21124867.s.hubspotemail.net/hs/preferences-center/en/page?data=W2nXS-N30h-MXW3Kd8vr3BTKVpW2xwnLK2-DhRwW2zNhx73ZGtZtW1Ly-2S2-qR-YW4kDsLd3ddhSjW3JVLFV43B-ScW41-d-Z2Fw7sgW4pn7-q3C2N-bW3R5FB52qW1G8W30yHSk2HYMKpW45Hqd61XqJ1PW1Zm3Nw2CZvBtW4hrFdj3GSvq2W2Wg3gX3P6ktXW49zCVH38D0w0W3W3Y__2WPNNwW2sD8JG4mzjMqW2CYLSv2RPt4QW2HH-dC30b-fXW3C6XXP2-LX2pW1XgMxJ3bcbwbW4kn6YG2Ry7RvW41tzYP2HBzkFW3JFVGt3QVZngW2-c_7S2Mj-6sW43y6Xp343-G0W32wT783XGNNhW1_bCW61Y_yc_W3d7d5Y2xPP6mW2FD4fn45RM8PW4pHrL94crgYvW2CX46P47ks1NW4pH1dv4prSTVW3VWVv03H6r1QW2HX2wC4tgnKZ0&amp;utm_campaign=Monthly%20Newsletter&amp;utm_source=hs_email&amp;utm_medium=email&amp;utm_content=359272796&amp;_hsenc=p2ANqtz--cTlW5InTQS_6E69J-s0d88h4wZc_OzRlmOvUM24-DefV4q0FbXesRCNI-u5CpC1YD7rVtj-N92U_dt6VcXeLDsIrmVVBxzuqOdspC5LvD3TDoZvA" style="font-family:Helvetica,Arial,sans-serif; font-size:12px; color:#2563EB; font-weight:normal; text-decoration:underline; font-style:normal" data-hs-link-id="0" data-hs-link-id-v2="qjPJqCop" target="_blank">Manage preferences</a>
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table></div>
+</div>
+<!--[if gte mso 9]></table><![endif]-->
+<!--[if (mso)|(IE)]></td><![endif]-->
+
+    <!--[if (mso)|(IE)]></tr></table><![endif]-->
+
+    </div>
+   
+  </div></div>
+          </td>
+        </tr>
+      </tbody></table>
+    </div>
+  
+</body></html>
