@@ -53,12 +53,19 @@ Orchestratorii vă ajută să dezvoltați aplicații containerizate la scară la
 
 Si acum cateva cuvinte despre actorul principal al acestui articol: [**NGROK**](https://www.pubnub.com/guides/what-is-ngrok/):
 
-[**NGROK**](https://ngrok.com/docs/what-is-ngrok/) este un proxy invers distribuit la nivel global care securizează, protejează și accelerează aplicațiile și serviciile de rețea, indiferent de locul în care le rulați. 
-<br/>Vă puteți gândi la ngrok ca la ușa de la intrarea în aplicațiile dumneavoastră.
+[**NGROK**](https://ngrok.com/docs/what-is-ngrok/) este un *proxy-invers distribuit la nivel global* care securizează, protejează și accelerează aplicațiile și serviciile de rețea, indiferent de locul în care le rulați. 
+<br/>Vă puteți gândi la **NGROK** ca la ușa de la intrarea în aplicațiile dumneavoastră.
 
 **NGROK** este independent de mediu , deoarece poate livra trafic către servicii care rulează oriunde, fără modificări ale rețelei mediului dvs. 
-<br/>Rulați aplicația pe AWS, Azure, Heroku, un cluster Kubernetes local, un Raspberry Pi și chiar pe laptop. 
-<br/>Cu **NGROK**, totul funcționează la fel.
+<br/>Rulați aplicația 
+   - pe un cloud cum ar fi:
+      - *AWS*,
+      - *Azure*,
+      - *Heroku*, u
+  - pe un *cluster Kubernetes local*,
+  - pe un *Raspberry Pi* și chiar
+  - pe *laptop*. 
+<br/>Cu **NGROK**, totul funcționează la fel(indiferent de mediul de rulare al aplicatiiilor tale!).
 
 **NGROK** este o platformă de ingress unificată , deoarece combină toate componentele necesare pentru a livra trafic de la serviciile dvs. către internet într-una singură. 
 <br/>**NGROK** consolidează proxy-ul invers, echilibratorul de încărcare, gateway-ul API, firewall-ul, rețeaua de livrare, protecția DDoS și multe altele.
