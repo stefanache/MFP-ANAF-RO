@@ -84,13 +84,19 @@ Ce poți face cu **NGROK**?
    
  - *Proxy cu funcție de identificare* : Folosește acțiunile:
    
-    - OAuth ,
-    - JWT Validation sau
-    - OpenID Connect
+    - [OAuth](https://ngrok.com/docs/traffic-policy/actions/oauth/) ,
+    - [JWT Validation](https://ngrok.com/docs/traffic-policy/actions/jwt-validation/) sau
+    - [OpenID Connect](https://ngrok.com/docs/traffic-policy/actions/oidc/)
   
-   din ngrok pentru a federa autentificarea aplicației tale cu un furnizor de identitate.
+   din **NGROK** pentru a federa(folosire in comun) autentificarea aplicației tale cu un furnizor de identitate.
    
- - *Load Balancer*: Folosește [Edges](https://ngrok.com/docs/universal-gateway/edges/) pentru a echilibra sarcina traficului pentru scalabilitate și failover sau pentru a face implementări blue/green și canary.
+ - *Load Balancer*: Folosește [Edges](https://ngrok.com/docs/universal-gateway/edges/) pentru a
+     - echilibra sarcina traficului pentru
+         - scalabilitate și
+         - failover sau pentru a
+     - face implementări
+         - blue/green și
+         - canary.
  
   ***la distanță***
  - *SSH* : Creați [puncte-finale/endpoints TCP](https://ngrok.com/docs/universal-gateway/tcp/) pentru a permite accesul SSH la mașini la distanță.
