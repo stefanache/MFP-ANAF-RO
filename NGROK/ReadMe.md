@@ -78,7 +78,7 @@ Ce poți face cu **NGROK**?
  - API-uri în medii de dezvoltare locale : Importați ngrok ca bibliotecă în propria interfață CLI, astfel încât să puteți crea experiențe de dezvoltare locale mai bune pentru clienții dezvoltatori.
  ***producție***
  
- - *Gateway API* : Folosește modulele HTTP ale ngrok pentru a securiza, proteja, accelera și transforma traficul către API-urile tale de producție.
+ - *Gateway API* : Folosește [modulele HTTP](https://ngrok.com/docs/traffic-policy/actions/) ale ngrok pentru a securiza, proteja, accelera și transforma traficul către API-urile tale de producție.
    
  - *Kubernetes Ingress(ingerare)* : Rulați [operatorul ***Kubernetes*** **NGROK**](https://ngrok.com/docs/k8s/) pentru a crea un ingress/o ingerare de trafic/flux/date către serviciile ***Kubernetes*** care rulează în orice cluster.
    
