@@ -77,8 +77,11 @@ Ce poți face cu **NGROK**?
 
  - *Testarea Webhook-urilor* : Rulați **NGROK** pe mașina locală pentru a obține o adresă URL care să primească webhook-uri direct în aplicația pe care o dezvoltați.
    <br/>[Inspectați(interfata) și reluați cererile](https://ngrok.com/docs/agent/web-inspection-interface/) pentru o dezvoltare rapidă.
- - *Previzualizări locale* : Faceți o demonstrație a unui site web care rulează pe mașina locală pentru un client sau o parte interesată, fără a-l implementa pe un site de testare.
- - *Testarea backend-ului mobil* : Testați aplicațiile mobile pe un backend pe care îl dezvoltați pe mașina locală.
+ - *Previzualizări locale* : Faceți o demonstrație a unui site-web(care rulează pe mașina locală) pentru
+     - un client sau
+     - o parte interesată,
+   fără a-l implementa pe un site-de-testare(aflat la distanta/gazduit de un hostinger/terta parte).
+ - *Testarea backend-ului mobil* : Testați aplicațiile mobile pe un backend(pe care îl dezvoltați pe mașina locală).
 
 ***Intrarea*** în 
  - *API-uri în rețelele clienților : Rulați [agentul **NGROK**](https://ngrok.com/docs/agent/) ușor sau [controlerul/orchestratorul ***Kubernetes***](https://ngrok.com/docs/k8s/) în mediile clienților dvs. pentru a vă conecta în siguranță la API-urile din rețelele lor, fără o configurație complexă a rețelei.
