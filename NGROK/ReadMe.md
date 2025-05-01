@@ -1,6 +1,6 @@
 Astazi(01.05.2025) am primit acest eMail, care are urmatorul [Buletin-Informativ](https://stefanache.github.io/MFP-ANAF-RO/NGROK/ngrok_index.html) al echipei/celor de la [**NGROK**](https://ngrok.com/), cu titlul:
 
-*NGROK este acum [activ](https://stefanache.github.io/MFP-ANAF-RO/NGROK/ngrok_index.html) pt Kubernetess(K8s)*
+**NGROK** este acum [activ](https://stefanache.github.io/MFP-ANAF-RO/NGROK/ngrok_index.html) pt ***Kubernetess***(***K8s***)
 
 Acum [**NGROK**](https://ngrok.com/docs/getting-started/) usureaza 
 
