@@ -68,17 +68,18 @@ Ce poți face cu **NGROK**?
 
 ***Dezvoltare*** și 
 
- - *Testarea Webhook-urilor* : Rulați ngrok pe mașina locală pentru a obține o adresă URL care să primească webhook-uri direct în aplicația pe care o dezvoltați. Inspectați și reluați cererile pentru o dezvoltare rapidă.
+ - *Testarea Webhook-urilor* : Rulați **NGROK** pe mașina locală pentru a obține o adresă URL care să primească webhook-uri direct în aplicația pe care o dezvoltați.
+ - <br/>[Inspectați(interfata) și reluați cererile](https://ngrok.com/docs/agent/web-inspection-interface/) pentru o dezvoltare rapidă.
  - *Previzualizări locale* : Faceți o demonstrație a unui site web care rulează pe mașina locală pentru un client sau o parte interesată, fără a-l implementa pe un site de testare.
  - *Testarea backend-ului mobil* : Testați aplicațiile mobile pe un backend pe care îl dezvoltați pe mașina locală.
 
 ***Intrarea*** în 
- - *API-uri în rețelele clienților : Rulați agentul ngrok ușor sau controlerul Kubernetes în mediile clienților dvs. pentru a vă conecta în siguranță la API-urile din rețelele lor, fără o configurație complexă a rețelei.
- - API-uri pe dispozitive : Rulați ngrok ca serviciu pe dispozitivele dvs. pentru a crea adrese URL securizate pentru API-urile lor locale, permițând serviciului dvs. cloud să le controleze și să le administreze.
- - API-uri în medii de dezvoltare locale : Importați ngrok ca bibliotecă în propria interfață CLI, astfel încât să puteți crea experiențe de dezvoltare locale mai bune pentru clienții dezvoltatori.
+ - *API-uri în rețelele clienților : Rulați [agentul **NGROK**](https://ngrok.com/docs/agent/) ușor sau [controlerul/orchestratorul ***Kubernetes***](https://ngrok.com/docs/k8s/) în mediile clienților dvs. pentru a vă conecta în siguranță la API-urile din rețelele lor, fără o configurație complexă a rețelei.
+ - API-uri pe dispozitive : Rulați **NGROK** [ca serviciu](https://ngrok.com/docs/agent/#background-service) pe dispozitivele dvs. pentru a crea adrese URL securizate pentru API-urile lor locale, permițând serviciului dvs. cloud să le controleze și să le administreze.
+ - API-uri în medii de dezvoltare locale : Importați **NGROK** [ca bibliotecă](https://ngrok.com/docs/agent-sdks/ în propria interfață CLI, astfel încât să puteți crea experiențe de dezvoltare locale mai bune pentru clienții dezvoltatori.
  ***producție***
  
- - *Gateway API* : Folosește [modulele HTTP](https://ngrok.com/docs/traffic-policy/actions/) ale ngrok pentru a securiza, proteja, accelera și transforma traficul către API-urile tale de producție.
+ - *Gateway API* : Folosește [modulele HTTP](https://ngrok.com/docs/traffic-policy/actions/) ale **NGROK** pentru a securiza, proteja, accelera și transforma traficul către API-urile tale de producție.
    
  - *Kubernetes Ingress(ingerare)* : Rulați [operatorul ***Kubernetes*** **NGROK**](https://ngrok.com/docs/k8s/) pentru a crea un ingress/o ingerare de trafic/flux/date către serviciile ***Kubernetes*** care rulează în orice cluster.
    
@@ -99,8 +100,8 @@ Ce poți face cu **NGROK**?
          - canary.
  
   ***la distanță***
- - *SSH* : Creați [puncte-finale/endpoints TCP](https://ngrok.com/docs/universal-gateway/tcp/) pentru a permite accesul SSH la mașini la distanță.
- - *RDP* : Creați [puncte-finale/endpoints TCP](https://ngrok.com/docs/universal-gateway/tcp/) pentru a permite accesul RDP la mașini la distanță.
+ - *SSH* : Creați [puncte-finale/endpoints TCP](https://ngrok.com/docs/universal-gateway/tcp/) pentru a permite accesul-SSH la mașini-aflate-la-distanță.
+ - *RDP* : Creați [puncte-finale/endpoints TCP](https://ngrok.com/docs/universal-gateway/tcp/) pentru a permite accesul-RDP la mașini-aflate-la-distanță.
 
 <hr/>
 
