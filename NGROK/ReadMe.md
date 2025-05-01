@@ -80,7 +80,7 @@ Ce poți face cu **NGROK**?
  
  - *Gateway API* : Folosește modulele HTTP ale ngrok pentru a securiza, proteja, accelera și transforma traficul către API-urile tale de producție.
    
- - *Kubernetes Ingress(ingerare)* : Rulați operatorul Kubernetes ngrok pentru a crea un ingress către serviciile Kubernetes care rulează în orice cluster.
+ - *Kubernetes Ingress(ingerare)* : Rulați [operatorul ***Kubernetes*** **NGROK**](https://ngrok.com/docs/k8s/) pentru a crea un ingress/o ingerare de trafic/flux/date către serviciile ***Kubernetes*** care rulează în orice cluster.
    
  - *Proxy cu funcție de identificare* : Folosește acțiunile:
    
