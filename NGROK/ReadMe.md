@@ -60,6 +60,7 @@ Orchestratorii vă ajută să dezvoltați aplicații containerizate la scară la
 
 </details>
 
+Si acum intra in scena actorul principal, **NGROK**, livratorul securizat...
 <details>
 <summary>Detalii despre <b>NGROK</b></summary>
 <hr/><br/> 
@@ -80,7 +81,7 @@ Orchestratorii vă ajută să dezvoltați aplicații containerizate la scară la
   - pe *laptop*. 
 <br/>Cu **NGROK**, totul funcționează la fel(indiferent de mediul de rulare al aplicatiiilor tale!).
 
-**NGROK** este o platformă de ingress unificată , deoarece combină toate componentele necesare pentru a livra trafic de la serviciile dvs. către internet într-una singură. 
+**NGROK** este o platformă de *ingress/ingerare* unificată , deoarece combină toate componentele necesare, pentru a livra trafic de la serviciile dvs., către internet, într-una singură. 
 <br/>**NGROK** consolidează proxy-ul invers, echilibratorul de încărcare, gateway-ul API, firewall-ul, rețeaua de livrare, protecția DDoS și multe altele.
 
 Ce poți face cu **NGROK**?
