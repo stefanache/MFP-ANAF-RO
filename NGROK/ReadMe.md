@@ -63,6 +63,14 @@ Si acum cateva cuvinte despre actorul principal al acestui articol: [**NGROK**](
 **NGROK** este o platformă de ingress unificată , deoarece combină toate componentele necesare pentru a livra trafic de la serviciile dvs. către internet într-una singură. 
 <br/>**NGROK** consolidează proxy-ul invers, echilibratorul de încărcare, gateway-ul API, firewall-ul, rețeaua de livrare, protecția DDoS și multe altele.
 
+Ce poți face cu **NGROK**?
+
+Dezvoltare și 
+ - *Testarea Webhook-urilor* : Rulați ngrok pe mașina locală pentru a obține o adresă URL care să primească webhook-uri direct în aplicația pe care o dezvoltați. Inspectați și reluați cererile pentru o dezvoltare rapidă.
+ - *Previzualizări locale* : Faceți o demonstrație a unui site web care rulează pe mașina locală pentru un client sau o parte interesată, fără a-l implementa pe un site de testare.
+ - *Testarea backend-ului mobil* : Testați aplicațiile mobile pe un backend pe care îl dezvoltați pe mașina locală.
+
+
 Bonus, la finele acestui articol, echipa [NGROK](https://ngrok.com/docs/how-ngrok-works/) a promis ca va reveni intr-un alt artico/eMail viitor, in care se va face referire la 
 
  - *echilibrărea-încărcării*  - extrem de simple
