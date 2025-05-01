@@ -35,8 +35,8 @@ Numele ***Kubernetes*** provine din grecescul κυβερνήτης (kubernḗtē
 
 
 
-La finele articolului am primit promisiunea de a primi un alt eMail care se va referi la 
+Bonus, la finele acestui articol, echipa NGROK a promis ca va reveni intr-un alt artico/eMail viitor, in care se va face referire la 
 
- - echilibrăriea încărcării extrem de simple
+ - *echilibrărea-încărcării*  - extrem de simple
 
-Lecturare placuta!
+*Lecturare placuta*!
