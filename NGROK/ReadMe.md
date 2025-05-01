@@ -80,8 +80,8 @@ Ce poți face cu **NGROK**?
  - *Previzualizări locale* : Faceți o demonstrație a unui site-web(care rulează pe mașina locală) pentru
      - un client sau
      - o parte interesată,
-   fără a-l implementa pe un site-de-testare(aflat la distanta/gazduit de un hostinger/terta parte).
- - *Testarea backend-ului mobil* : Testați aplicațiile mobile pe un backend(pe care îl dezvoltați pe mașina locală).
+   <br/>fără a-l implementa pe un site-de-testare(aflat la distanta/gazduit de un hostinger/terta parte).
+ - *Testarea backend-ului mobil* : Testați aplicațiile-mobile care se leaga pe / acceseaza un backend(pe care îl dezvoltați pe mașina locală).
 
 ***Intrarea*** în 
  - *API-uri în rețelele clienților : Rulați [agentul **NGROK**](https://ngrok.com/docs/agent/) ușor sau [controlerul/orchestratorul ***Kubernetes***](https://ngrok.com/docs/k8s/) în mediile clienților dvs. pentru a vă conecta în siguranță la API-urile din rețelele lor, fără o configurație complexă a rețelei.
