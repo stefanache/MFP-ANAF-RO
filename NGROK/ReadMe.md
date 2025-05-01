@@ -80,7 +80,7 @@ Ce poți face cu **NGROK**?
  - *Previzualizări locale* : Faceți o demonstrație a unui site-web(care rulează pe mașina locală) pentru
      - un client sau
      - o parte interesată,
-   <br/>fără a-l implementa pe un site-de-testare(aflat la distanta/gazduit de un hostinger/terta parte).
+<br/>fără a-l implementa pe un site-de-testare(aflat la distanta/gazduit de un hostinger/terta parte).
  - *Testarea backend-ului mobil* : Testați aplicațiile-mobile care se leaga pe / acceseaza un backend(pe care îl dezvoltați pe mașina locală).
 
 ***Intrarea*** în 
