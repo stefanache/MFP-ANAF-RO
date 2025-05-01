@@ -33,7 +33,23 @@ Numele ***Kubernetes*** provine din grecescul κυβερνήτης (kubernḗtē
 <br/>Software-ul ***K8s*** constă dintr-un plan de control și noduri pe care rulează aplicațiile propriu-zise. 
 <br/>***K8s*** include instrumente precum ***kubeadm*** și ***kubectl*** care pot fi utilizate pentru a interacționa cu API-ul său bazat pe ***REST***.
 
+Orchestratorii sunt o piesă critică a infrastructurii atunci când configurați un mediu bazat pe containere. 
+<br/>Deși puteți gestiona manual câteva containere folosind ***Docker*** și un sistem de operare cum ar fi Windows/Ubuntu-WSL2..., aplicațiile utilizează adesea cinci, zece sau chiar sute de containere, ceea ce reprezintă punctul de plecare al orchestratorilor.
 
+Orchestratoarele de containere au fost create pentru a ajuta la gestionarea containerelor la scară largă și în producție. 
+<br/>Orchestratoarele oferă funcționalități pentru:
+
+Orchestratorii vă ajută să dezvoltați aplicații containerizate la scară largă, oferind funcționalități pentru:
+
+ - Implementare la scară largă
+ - Planificarea volumului de lucru
+ - Monitorizarea stării de sănătate
+ - Repetarea erorii când un nod eșuează
+ - Scalare în sus sau în jos
+ - Rețele
+ - Descoperirea serviciilor
+ - Coordonarea actualizărilor aplicațiilor
+ - Afinitatea nodului de cluster
 
 Bonus, la finele acestui articol, echipa NGROK a promis ca va reveni intr-un alt artico/eMail viitor, in care se va face referire la 
 
