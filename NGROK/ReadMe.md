@@ -10,7 +10,7 @@ Inainte de toate cateva cuvinte despre ...tinta/scopul produsului [**NGROK**](ht
 <br/>pe numele/denumirea sau/sa, [orchestratorul-de-containere/izolare](https://en.wikipedia.org/wiki/Containerization_(computing)) ***Kubernetess***(***K8s***).
 
 <details>
-<summary><Delaii despre <b>Kubernetess</b>(<b>K8s</b>)</summary>
+<summary>Delaii despre <b>Kubernetess</b>(<b>K8s</b>)</summary>
 
 <hr/><br/>
 
