@@ -6,7 +6,7 @@ Interesanta a fost si discutia cu [ChatGPT](https://chatgpt.com/share/6819fdc8-0
 
 Totul a plecat de la un concurs [Freelancer](https://www.freelancer.com/contest/time-series-forecasting-model-development-2553381)
 
-Am creat un batch(start_statistics.bat) ce poate fi rulat de sub windows.
+Am creat un batch([start_statistics.bat](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/EDA/start_statistics.bat)) ce poate fi rulat de sub windows.
 
 Acest batch are comentate si toate instalarile/operatiunile necesare dar si partea de rulare a fisierului python(tennis_statistics).
 
