@@ -39,7 +39,7 @@ pe baza datelor istorice anterioare.
 
 Există doar 5 coloane de luat în considerare(celelalte coloane au valori-constante: 1 sau 'MP%').
 
-A - Jucător(B - data naterii jucatorului de tenis)
+A - Jucător(A - numele jucatoarului de tenis, iar B - data in care s-a nscut respectivul jucator analizat)
 H - Rezultatul meciurilor
 L - Combinație de 2-planete(a se vedea dictionarul)
 M - Grad-de-intensitate(intensitatea influentri astrale)
