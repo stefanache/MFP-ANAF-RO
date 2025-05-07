@@ -59,16 +59,16 @@ rezultatelor OVER/CÂȘTIGĂTOR sau UNDER/PIERDERE.
 Un posibil obiectiv este de a identifica când un val a dat o lovitură și 
 se va întoarce în direcția opusă. 
 De exemplu, dacă 
-    semn-simbolul(valoare a col. N) „Jupiter_Neptune-BLK_Square” are o
+    semn-simbolul(valoare existenta/din col. N) „Jupiter_Neptune-BLK_Square” are o
     distributie (pe un subset de randuri de...), (90,9% la 9.1%) :
-        - 20 de rezultate PESTE/OVER și 
-        - 2 rezultate SUB/UNDER, 
-există șanse mari să înceapă să aibă (mai departe) mai multe rezultate „Sub”,
+        - 20 de rezultate PESTE/OVER(numarate pe un subset de randuri din col.H) și 
+        - 2 rezultate SUB/UNDER(numarate pe acelasi subset de randuri din col.H), 
+există șanse mari să înceapă să aibă (mai departe), mai multe rezultate „SUB”,
 dar avem nevoie de modelul de predicție pentru a calcula valul fiecărui semn-simbol, 
 astfel încât să poată prezice cat mai precis schimbarea de direcție(sens). 
 Acest lucru se poate face 
-        - după data-calendaristica(ultima coloana) sau 
-        - după numărul de rezultate(col. H). 
+        - după data-calendaristica(ante-penultima coloana: P,.... Q fiind year(P)) sau 
+        - după numărul de rezultate(din col. H). 
 Ne pasă/intereseaza doar de rezultate și consecvență, așa că faceți tot posibilul să le obțineți. 
 NU există reguli, ci doar rezultate necesare.
 
