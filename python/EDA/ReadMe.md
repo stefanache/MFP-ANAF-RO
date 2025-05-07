@@ -25,3 +25,47 @@ A.pt partea de antrenament/train(perioada istorica IAN-01-2024 - FEB-14-2025) :
 B.pt partea de testare in (10)fisiere (splitate) zilnic:
 
  - restul celor 10 fisiere .xlsx cu denumite dupa sablonul Daily__MMDDYYYY.xls unde MM=02(FEB), YYYY=2025(anul curent) si DD=15-24(zilele in care s-au prelevat date de testare din luna FEB-2025)
+
+Cerinta proiectului este urmatoarea:
+<pre>
+Antrenați/Creați un model de predicție folosind fișierul de date istorice atașat.
+
+Creați un Predictor care poate fi rulat pe (de preferință WINDOWS prin PYTHON).
+
+Predictorul trebuie să ruleze fișiere zilnice și să prezică ce jucător de tenis va avea un rezultat 
+    OVER/CÂȘTIGĂ sau 
+    UNDER/PIERDERE 
+pe baza datelor istorice anterioare.
+
+Există doar 5 coloane de luat în considerare(celelalte coloane au valori-constante: 1 sau 'MP%').
+
+A - Jucător(B - data naterii jucatorului de tenis)
+H - Rezultatul meciurilor
+L - Combinație de 2-planete(a se vedea dictionarul)
+M - Grad-de-intensitate(influenta astrala)
+N - Planete/Intensitate( a se vedea dictionarul: concatenare L + '-' M = N)
+
+Puteți utiliza 1 sau toate cele 3 coloane L,M,N. 
+Puteți compara jucătorii cu ei înșiși sau cu toți ceilalti jucători.
+
+Coloana N are 768 de semne-simboluri unice(ex. „Jupiter_Neptune-BLK_Square”).
+
+Coloana L are 168 de simboluri unice(ex. „Jupiter_Neptune”).
+
+Puteți alege să le utilizați pe toate sau pe unele dintre ele. 
+Ideea aici este de a identifica efectul pendulului. 
+Fiecare semn-simbol tinde să urmeze un val de maxime și minime ale 
+rezultatelor OVER/CÂȘTIGĂTOR sau UNDER/PIERDERE. 
+Un posibil obiectiv este de a identifica când un val a dat o lovitură și 
+se va întoarce în direcția opusă. 
+De exemplu, dacă 
+    semn-simbolul(valoare a col. N) „Jupiter_Neptune-BLK_Square” are :
+        - 20 de rezultate PESTE/OVER și 
+        - 2 rezultate SUB/UNDER (90,9%), 
+există șanse mari să înceapă să aibă mai multe rezultate „Sub”,
+dar avem nevoie de modelul de predicție pentru a calcula valul fiecărui semn-simbol, 
+astfel încât să poată prezice mai precis schimbarea de direcție. 
+Acest lucru se poate face după dată sau după numărul de rezultate. 
+Ne pasă doar de rezultate și consecvență, așa că faceți tot posibilul să le obțineți. 
+NU există reguli, ci doar rezultate necesare.
+</pre>
