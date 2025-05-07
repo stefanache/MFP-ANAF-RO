@@ -34,8 +34,8 @@ Creați un Predictor care poate fi rulat pe (de preferință WINDOWS prin PYTHON
 
 Predictorul trebuie să ruleze fișiere zilnice și să prezică ce jucător de tenis va avea un rezultat 
     OVER/CÂȘTIGĂ sau 
-    UNDER/PIERDERE 
-pe baza datelor istorice anterioare.
+    UNDER/PIERDE 
+pe baza datelor istorice anterioare(colectate in fisierul Historical_01012024_02142025.xlsx).
 
 Există doar 5 coloane de luat în considerare(celelalte coloane au valori-constante: 1 sau 'MP%').
 
