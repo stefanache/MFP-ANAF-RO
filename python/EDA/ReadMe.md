@@ -14,7 +14,7 @@ Ideea este ca am o arhiva zip([Files_for_Prediction_Model.zip](https://github.co
 
 Arhiva contine urmatoarele:
 
-A.pt partea de antrenament/train(perioada istorica IAN-01-2024 - FEB-14-2025) :
+A). pt partea de antrenament/train(perioada istorica IAN-01-2024 - FEB-14-2025) :
 - aHistorical_01012024_02142025.xlsx ce contine datele de tran/invatare/antrenament(nu trebui splitat pt testare deoarece alte date sunt livrate pt testare)
 - 2 dictionare(index-uri) unul pt coloana L(combinatia de 2 planete) si unul pt coloana N(Lconcatenat cu M si separat cu '-'):
     - bColumn_L_Signs_Symbols.xlsx
@@ -22,7 +22,7 @@ A.pt partea de antrenament/train(perioada istorica IAN-01-2024 - FEB-14-2025) :
   unde M este coloana categoriala de intentitati ale influentei astrale(combinatieie de 2 planete);
   dupa cum va asteptati alaturi de M  atat L cat si rezultanta lor N sunt coloane categoriale
 
-B.pt partea de testare in (10)fisiere (splitate) zilnic:
+B). pt partea de testare in (10)fisiere (splitate) zilnic:
 
  - restul celor 10 fisiere .xlsx cu denumite dupa sablonul Daily__MMDDYYYY.xls unde MM=02(FEB), YYYY=2025(anul curent) si DD=15-24(zilele in care s-au prelevat date de testare din luna FEB-2025)
 
