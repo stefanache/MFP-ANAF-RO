@@ -66,11 +66,15 @@ De exemplu, dacă
 există șanse mari să înceapă să aibă (mai departe) mai multe rezultate „Sub”,
 dar avem nevoie de modelul de predicție pentru a calcula valul fiecărui semn-simbol, 
 astfel încât să poată prezice cat mai precis schimbarea de direcție(sens). 
-Acest lucru se poate face după data-calendaristica(ultima coloana) sau după numărul de rezultate(col. H). 
+Acest lucru se poate face 
+        - după data-calendaristica(ultima coloana) sau 
+        - după numărul de rezultate(col. H). 
 Ne pasă/intereseaza doar de rezultate și consecvență, așa că faceți tot posibilul să le obțineți. 
 NU există reguli, ci doar rezultate necesare.
 
-De asemenea, atașăm rezultate suplimentare cunoscute, valabile încă 10 zile, pe care le puteți folosi pentru a vă testa predictorul înainte de a ni le trimite spre analiză.
+De asemenea, atașăm rezultate suplimentare cunoscute, valabile încă 10 zile, 
+pe care le puteți folosi pentru a vă testa predictorul, 
+înainte de a fi supus analizei/validarii.
 
 Nota: 
     Modelul gasit va fi calculat/testat/confruntat/validat în raport cu alte 
