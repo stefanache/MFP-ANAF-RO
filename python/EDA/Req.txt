@@ -1,0 +1,128 @@
+Descriere
+
+Recomandat Garantat
+I'm seeking a skilled Python developer to create a prediction model for time series forecasting using numerical data. The scripts should run on Windows.
+
+Key Requirements:
+Develop/Submit a Trainer that can be run on Windows for the historical data file.
+Develop/Submit a Predictor that can be run on Windows for each Daily data file. (10 included)
+To Predict OVER or UNDER in Columns H
+
+USE ANY MODEL YOU LIKE - CUSTOM MODEL PREFERRED - THERE ARE VERY FEW RULES, THE GOAL IS RESULTS
+
+Prediction Model Trainer/Predictor
+
+CONTEST - $250 1st Prize Guaranteed
+
+Train/Create a prediction model using the historical data file attached.
+
+Create a Predictor that can be run on (WINDOWS via PYTHON preferred).
+
+The predictor needs to run daily files and predict which tennis player will have a result of OVER/WON or UNDER/LOSE based on the past historical data.
+
+There are only 5 columns to consider.
+A - Player
+H - Result
+L - Planets combo
+M - Intensity degree
+N - Planets/Intensity
+
+You can use 1 or all 3 of columns L M N. You can compare players to themselves or to all players.
+
+Column N has 768 unique signs-symbols
+
+Column L has 168 unique symbols
+
+You can choose to use some or all of them. The idea here is to identify the pendulum effect. Each sign-symbol tends to follow of wave of high and lows of the results OVER/WON or UNDER/LOSE. One possible goal is to identify when a wave has hit a peal and will turn around the opposite direction. For example, if "Jupiter_Neptune-BLK_Square" has 20 OVER results and 2 UNDER results at (90.9%), there's a good chance it will start to have more "Under" results, but we need the prediction model to calculate the wave of each sign-symbol so it can more accurately predict the turn around. This can be done by date or by result count. We only care about results and consistency so do whatever you can to obtain it. there are NO rules, just results that are needed.
+
+The HIGHEST accuracy percentage will be awarded 1st prize of $250 guaranteed. We may award a 2nd and 3rd prize of $100-$150 depending on results (2nd/3rd prize NOT guaranteed)
+
+We are also attaching 10 days of additional known results that you can use to test your predictor before you submit to us for consideration.
+
+Your submission will be calculated against 40 other daily files to determine its accuracy. The most accurate model will win the prize. The goal is to get as close to or above 70% accuracy.
+
+Feel free to message me for any questions. This contest can and will lead to more work for the right coder/s Good Luck!
+
+====================================================================================================================================================================================================================================
+Descriere
+Recomandat Garantat
+Caut un dezvoltator Python calificat pentru a crea un model de predicție pentru prognozarea seriilor temporale folosind date numerice. Scripturile ar trebui să ruleze pe Windows.
+
+Cerințe cheie:
+Dezvoltați/Trimiteți un Antrenor care poate fi rulat pe Windows pentru fișierul de date istorice.
+
+Dezvoltați/Trimiteți un Predictor care poate fi rulat pe Windows pentru fiecare fișier de date zilnice. (10 incluse)
+Pentru a prezice PESTE sau SUB în coloanele H
+
+UTILIZAȚI ORICE MODEL DORIȚI - MODELUL PERSONALIZAT ESTE PREFERAT - EXISTĂ FOARTE PUȚINE REGULI, SCOPUL ESTE REZULTATELE
+
+Antrenor/Predictor pentru modele de predicție
+
+CONCURS - Premiul 1 garantat în valoare de 250 USD
+
+Antrenați/Creați un model de predicție folosind fișierul de date istorice atașat(aHISTORICAL_01012024_02242025.xlsx).
+
+Creați un Predictor care poate fi rulat pe (de preferință WINDOWS prin PYTHON).
+
+Predictorul trebuie să ruleze fișiere zilnice și să prezică ce jucător de tenis va avea un rezultat PESTE/CÂȘTIGĂTOR sau SUB/PIERDERE pe baza datelor istorice anterioare.
+
+Există doar 5 coloane de luat în considerare.
+
+A - Jucător(Taro Daniel, ...)
+
+ coloanele ignorate fiind de identificare:
+ B(born):1/27/1993,...
+ C,D,E,F,G(coloane dummy completate cu 1)....
+
+H - Rezultat(2 valori categoricals de prezis: PESTE/CÂȘTIGĂTOR , SUB/PIERDERE)... y=iesirea
+
+L - Combinație planete(168 categoricals: perechile-de-planete-comparate: Jupiter_Jupiter, Jupiter_Mars,Jupiter_Sun...)
+M - Grad de intensitate(tot categorials dar nu se stie cate(cred ca sunt doar 5 valori...se vad cu ochiul liber): BLK_Balls, BLK_Square, BLK_Star, BLK_Triangle, BLK_Poker,  ... unde BLK este un separator urmat de gradul de intensitate)
+N - Planete/Intensitate(768 categoricals: ...Jupiter_Mars-BLK_Triangle, ... Jupiter_Mercury-BLK_Balls, Jupiter_Mercury-BLK_Poker, Jupiter_Mercury-BLK_Square, Jupiter_Mercury-BLK_Star, Jupiter_Mercury-BLK_Triangle)
+
+L M si N nu sunt independente toate L+M=N...trebuie verificat daca este asa peste tot....(cele aberante ar trebui excluse!)... In acest caz N este suficienta pt a fi luata in calcul ca fiind x=intrarea principala iar acele 2 coloane pot fi considerate componente de analiza....
+
+ O este o coloana dummy completata cu o valoare constanta 1
+ P este o data calendaristica: MM-DD-YYYY
+ Q pare a fi anul lui P
+ R este la fel o coloana dummy cu o valoare constanta: MP%
+ 
+ 
+Planetele(conjunctia sau alinierea lor... ceva de genu') ar influenta rezultatul...tenismenului
+
+Puteți folosi 1(o singura coloana oricare dintre cele 3: L ori M ori N) sau toate cele 3 coloane: L M N. 
+Puteți compara jucătorii cu ei înșiși sau cu toți jucătorii.
+
+Coloana N are 768 de semne-simboluri unice
+
+Coloana L are 168 de simboluri unice
+
+Puteți alege să le folosiți pe unele sau pe toate. Ideea aici este de a identifica "efectul pendulului". 
+Fiecare semn-simbol tinde să urmeze un val de maxime și minime ale rezultatelor PESTE/CÂȘTIGĂTOR sau SUB/PIERDERE. 
+Un posibil obiectiv este de a identifica când un val a lovit un bubuit/obstacol și se va întoarce în direcția opusă. 
+De exemplu, 
+dacă „Jupiter_Neptune-BLK_Square” are 
+	20(90,9%), de rezultate PESTE și 
+	 2( 9.1%)     rezultate SUB  
+există șanse mari să înceapă să aibă mai multe rezultate „Sub”, 
+dar avem nevoie ca modelul de predicție să calculeze unda fiecărui semn-simbol, 
+astfel încât să poată prezice mai precis schimbarea de direcție. 
+
+Acest lucru(schimbarea de directie a undei/pendului) se poate face în funcție 
+ -de dată sau 
+ -de numărul de rezultate. 
+Ne interesează doar rezultatele și consecvența(periodicitatea), așa că faceți tot posibilul să le obțineți. 
+NU există reguli, ci doar rezultate necesare.
+
+Cel mai MARE procent de acuratețe va primi premiul 1, garantat, de 250 USD. 
+Este posibil să acordăm premii 2 și 3, de 100-150 USD, în funcție de rezultate (premiile 2/3 NU sunt garantate).
+
+De asemenea, atașăm 10 zile de rezultate suplimentare cunoscute pe care le puteți utiliza pentru a "testa" predictorul înainte de a ni le trimite spre analiză.
+
+Propunerea dvs. va fi calculată/testata în raport cu alte 40 de fișiere zilnice(40 zile pt testarea angajatorlui) pentru a-i determina acuratețea. 
+Cel mai precis model va câștiga premiul. 
+Scopul este de a obține o precizie/acuratete cât mai apropiată de sau peste 70%.
+
+Nu ezitați să-mi trimiteți un mesaj pentru orice întrebări. 
+Acest concurs poate și va duce la mai multă muncă pentru programatorul/programatorii potriviți. 
+Mult succes!

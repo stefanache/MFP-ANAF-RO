@@ -1,0 +1,51 @@
+Pentru etapa 1 de analiză a distribuțiilor, putem trage concluzii preliminare privind caracterul, dezechilibrul, complexitatea și potențiala influență a fiecărei coloane. Mai jos găsești o analiză sintetică pentru fiecare dintre cele 4 coloane:
+
+🟦 1. PlayerIndex (Coloana 1 - identificator jucător)
+Lungime: 275 valori distincte
+
+Distribuție: lungă, ușor heavy-tailed (majoritatea jucătorilor apar rar, unii frecvent)
+
+Max proporție: ~1.1%
+
+Tip: Categorical, cardinalitate mare
+
+✅ Concluzie: jucătorii sunt bine dispersați, dar nu uniform; se remarcă câțiva jucători frecvent implicați → potențial efect individual important.
+
+🟩 2. UNDER (Coloana 2 - rezultate)
+Valori: doar 2 (probabil 0 = peste, 1 = sub un anumit scor/linii)
+
+Distribuție: ușor dezechilibrată: 52% vs 48%
+
+Tip: Binomial/boolean
+
+✅ Concluzie: distribuția e suficient de echilibrată pentru antrenare ML fără resampling, dar totuși: ușoară tendință spre UNDER=1.
+
+🟨 3. Chiron_Jupiter-BLK_Balls (Coloana 3 - context planetar/intensitate)
+Lungime: 760 categorii distincte
+
+Distribuție: extrem de dispersată; long-tail foarte pronunțat
+
+Max proporție: doar ~1.3%, majoritatea <0.1%
+
+Tip: Categorical, extrem de high-cardinality
+
+⚠️ Concluzie: distribuție greu de folosit direct → recomand grouping/embedding/target encoding sau reducere dimensională. Un codificator simplu (ex: one-hot) ar duce la explozie dimensională.
+
+🟫 4. (01-01-2024) (Coloana 4 - temporalitate)
+Lungime: 357 categorii
+
+Distribuție: long-tail, dar nu extremă
+
+Max proporție: ~1.5%
+
+Tip: Probabil encode de dată sau zi în format index
+
+✅ Concluzie: există sezonalitate potențială în date → util de transformat în trăsături temporale (lună, zi săptămână, sfârșit săptămână, sezon etc.) pentru ML.
+
+🔍 Concluzie generală (etapa 1):
+Coloana							Tip	Distribuție							Recomandare
+PlayerIndex(col.1)				Categorical		Dezechilibrată			Grupare, embedding, frecvență → ca trăsătură
+UNDER(col.2)					Binary			Ușor dezechilibrată		Poate fi țintă (label)
+Chiron_Jupiter-BLK_Balls(col.3)	Categorical		Extrem dispersată		Reduce cardinalitatea, embedding, target enc.
+(01-01-2024)(col.4)				Calendar		Moderat dispersată		Feature engineering: zi, lună, săptămână etc.
+
