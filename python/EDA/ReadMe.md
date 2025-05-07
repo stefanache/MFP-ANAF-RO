@@ -27,6 +27,9 @@ B). pt partea de testare in (10)fisiere (splitate) zilnic:
  - restul celor 10 fisiere .xlsx cu denumite dupa sablonul Daily__MMDDYYYY.xls unde MM=02(FEB), YYYY=2025(anul curent) si DD=15-24(zilele in care s-au prelevat date de testare din luna FEB-2025)
 
 Cerinta proiectului este urmatoarea:
+
+<details>
+    <summary> detalii despre ... Descrierea/specificatia tehnica a proiectului!</summary>
 <pre>
 Antrenați/Creați un model de predicție folosind fișierul de date istorice atașat.
 
@@ -88,6 +91,15 @@ Scopul este de a se  obține o acuratețe, cât mai aproape de 70% sau mai mult(
 
 </pre>
 
+<br/><hr/>
+
+</details>
+
+<details>
+    <summary>detalii despre ... Nota explicativa cu privire la redundanta/utilizarea coloanelor!</summary>
+
+<hr/><br/>
+
 <pre>
 Nota:
     - desi L,M si N sunt 3 coloane care nu sunt independente intre ele,
@@ -112,3 +124,6 @@ Nota:
        randurilor/meciurilor, dar numele jucatorului/data nasterii care identifica un tenismen anume veti vedea ca se 
        pot repeta, pt ca acestia pot participa la mai multe meciuri/jocuri(si chiar turnee/competitii sportive!)
 </pre>
+
+<br/><hr/>
+</details>details>
