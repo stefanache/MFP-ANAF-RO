@@ -42,8 +42,8 @@ Există doar 5 coloane de luat în considerare(celelalte coloane au valori-const
 A - Jucător(B - data naterii jucatorului de tenis)
 H - Rezultatul meciurilor
 L - Combinație de 2-planete(a se vedea dictionarul)
-M - Grad-de-intensitate(influenta astrala)
-N - Planete/Intensitate( a se vedea dictionarul: concatenare L + '-' M = N)
+M - Grad-de-intensitate(intensitatea influentri astrale)
+N - Planete/Intensitate(a se vedea dictionarul: concatenare L + '-' M = N)
 
 Puteți utiliza 1 sau toate cele 3 coloane L,M,N. 
 Puteți compara jucătorii cu ei înșiși sau cu toți ceilalti jucători.
