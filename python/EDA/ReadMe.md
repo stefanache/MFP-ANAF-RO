@@ -19,7 +19,7 @@ A). pt partea de antrenament/train(perioada istorica IAN-01-2024 - FEB-14-2025) 
 - 2 dictionare(index-uri) unul pt coloana L(combinatia de 2 planete) si unul pt coloana N(Lconcatenat cu M si separat cu '-'):
     - bColumn_L_Signs_Symbols.xlsx
     - bColumn_N_Signs_Symbols.xlsx
-  unde M este coloana categoriala de intentitati ale influentei astrale(combinatieie de 2 planete);
+  unde M este coloana categoriala de intentitati ale influentei astrale(combinatie de 2 planete);
   dupa cum va asteptati alaturi de M  atat L cat si rezultanta lor N sunt coloane categoriale
 
 B). pt partea de testare in (10)fisiere (splitate) zilnic:
@@ -30,7 +30,7 @@ Cerinta proiectului este urmatoarea:
 <pre>
 Antrenați/Creați un model de predicție folosind fișierul de date istorice atașat.
 
-Creați un Predictor care poate fi rulat pe (de preferință WINDOWS prin PYTHON).
+Creați un Predictor care poate fi rulat pe (de preferință sub WINDOWS si prin PYTHON).
 
 Predictorul trebuie să ruleze fișiere zilnice și să prezică ce jucător de tenis va avea un rezultat 
     OVER/CÂȘTIGĂ sau 
@@ -39,13 +39,13 @@ pe baza datelor istorice anterioare(colectate in fisierul Historical_01012024_02
 
 Există doar 5 coloane de luat în considerare(celelalte coloane au valori-constante: 1 sau 'MP%').
 
-A - Jucător(A - numele jucatoarului de tenis, iar B - data in care s-a nscut respectivul jucator analizat)
+A - Jucător(A - numele jucatoarului de tenis, iar B - data in care s-a nascut respectivul jucator analizat)
 H - Rezultatul meciurilor
-L - Combinație de 2-planete(a se vedea dictionarul)
+L - Combinație de 2-planete(a se vedea dictionarul bColumn_L_Signs_Symbols.xlsx)
 M - Grad-de-intensitate(intensitatea influentri astrale)
-N - Planete/Intensitate(a se vedea dictionarul: concatenare L + '-' M = N)
+N - Planete/Intensitate(a se vedea dictionarul bColumn_N_Signs_Symbols.xlsx: concatenare L + '-' M = N)
 
-Puteți utiliza 1 sau toate cele 3 coloane L,M,N. 
+Puteți utiliza un(1) sau toate cele 3 coloane L,M,N. 
 Puteți compara jucătorii cu ei înșiși sau cu toți ceilalti jucători.
 
 Coloana N are 768 de semne-simboluri unice(ex. „Jupiter_Neptune-BLK_Square”).
@@ -67,7 +67,8 @@ există șanse mari să înceapă să aibă (mai departe), mai multe rezultate �
 dar avem nevoie de modelul de predicție pentru a calcula valul fiecărui semn-simbol, 
 astfel încât să poată prezice cat mai precis schimbarea de direcție(sens). 
 Acest lucru se poate face 
-        - după data-calendaristica(ante-penultima coloana: P,.... 
+        - după data-calendaristica a meciului...
+                                   ... in care a obtinut respectivul rezultat(ante-penultima coloana: P,.... 
                                    ... unde Q = year(P).... Q fiind o coloana dependenta de col.P!) sau 
         - după numărul de rezultate(din col. H). 
 Ne pasă/intereseaza doar de rezultate și consecvență, așa că faceți tot posibilul să le obțineți. 
