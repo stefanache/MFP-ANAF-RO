@@ -10,7 +10,7 @@ Am creat un batch([start_statistics.bat](https://github.com/stefanache/MFP-ANAF-
 
 Acest batch are comentate si toate instalarile/operatiunile necesare dar si partea de rulare a fisierului python(tennis_statistics).
 
-Ideea este ca am o arhiva zip(Files_for_Prediction_Model.zip) care se auto-descarca la rularea batch-ului.
+Ideea este ca am o arhiva zip([Files_for_Prediction_Model.zip](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/EDA/Files_for_Prediction_Model.zip)) care se auto-descarca la rularea batch-ului.
 
 Arhiva contine urmatoarele:
 
