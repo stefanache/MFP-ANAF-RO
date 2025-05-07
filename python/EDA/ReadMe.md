@@ -67,7 +67,8 @@ există șanse mari să înceapă să aibă (mai departe), mai multe rezultate �
 dar avem nevoie de modelul de predicție pentru a calcula valul fiecărui semn-simbol, 
 astfel încât să poată prezice cat mai precis schimbarea de direcție(sens). 
 Acest lucru se poate face 
-        - după data-calendaristica(ante-penultima coloana: P,.... Q fiind year(P)) sau 
+        - după data-calendaristica(ante-penultima coloana: P,.... 
+                                   ... unde Q = year(P).... Q fiind o coloana dependenta de col.P!) sau 
         - după numărul de rezultate(din col. H). 
 Ne pasă/intereseaza doar de rezultate și consecvență, așa că faceți tot posibilul să le obțineți. 
 NU există reguli, ci doar rezultate necesare.
