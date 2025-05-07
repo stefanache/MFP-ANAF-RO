@@ -8,7 +8,7 @@ Totul a plecat de la un concurs [Freelancer](https://www.freelancer.com/contest/
 
 Am creat un batch([start_statistics.bat](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/EDA/start_statistics.bat)) ce poate fi rulat de sub windows.
 
-Acest batch are comentate si toate instalarile/operatiunile necesare dar si partea de rulare a fisierului python(tennis_statistics.py).
+Acest batch are comentate si toate instalarile/operatiunile necesare dar si partea de rulare a fisierului python([tennis_statistics.py](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/EDA/tennis_statistics.py)).
 
 Ideea este ca am o arhiva zip([Files_for_Prediction_Model.zip](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/EDA/Files_for_Prediction_Model.zip)) care se auto-descarca la rularea batch-ului.
 
