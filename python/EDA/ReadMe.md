@@ -88,7 +88,7 @@ Scopul este de a se  obține o acuratețe, cât mai aproape de 70% sau mai mult(
 
 </pre>
 
-
+<pre>
 Nota:
     - desi L,M si N sunt 3 coloane care nu sunt independente intre ele,
       N fiind o variabila compusa din variabilele simple/componente L si M,
@@ -111,3 +111,4 @@ Nota:
      - coloanelel A si B pot consituie un foarte bun instrument de identificare a jucatorilo din cadrul 
        randurilor/meciurilor, dar numele jucatorului/data nasterii care identifica un tenismen anume veti vedea ca se 
        pot repeta, pt ca acestia pot participa la mai multe meciuri/jocuri(si chiar turnee/competitii sportive!)
+</pre>
