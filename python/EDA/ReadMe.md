@@ -68,13 +68,14 @@ dar avem nevoie de modelul de predicție pentru a calcula valul fiecărui semn-s
 astfel încât să poată prezice cat mai precis schimbarea de direcție(sens). 
 Acest lucru se poate face 
         - după data-calendaristica a meciului...
-                                   ... in care a obtinut respectivul rezultat(ante-penultima coloana: P,.... 
-                                   ... unde Q = year(P).... Q fiind o coloana dependenta de col.P!) sau 
+               ... in care a obtinut respectivul rezultat(ante-penultima coloana: P,.... 
+               ... unde Q = year(P).... Q fiind o coloana dependenta de col.P!) sau 
         - după numărul de rezultate(din col. H). 
 Ne pasă/intereseaza doar de rezultate și consecvență, așa că faceți tot posibilul să le obțineți. 
 NU există reguli, ci doar rezultate necesare.
 
-De asemenea, atașăm rezultate suplimentare cunoscute, valabile încă 10 zile, 
+De asemenea, suplimentar, sunt furnizate alte rezultate cunoscute, 
+valabile încă 10 zile( fisierele Daily__MMDDYYYY.xls), 
 pe care le puteți folosi pentru a vă testa predictorul, 
 înainte de a fi supus analizei/validarii.
 
