@@ -80,7 +80,7 @@ pe care le puteți folosi pentru a vă testa predictorul,
 Nota: 
     Modelul gasit va fi calculat/testat/confruntat/validat în raport cu alte 
         40 de fișiere zilnice (care nu au fost furnizate inca!)
-    pentru a-i determina acuratețea. 
+    pentru a-i determina/valida acuratețea. 
 
-Scopul este să obțineți o acuratețe de cât mai aproape de 70% sau mai mult.
+Scopul este de a se  obține o acuratețe, cât mai aproape de 70% sau mai mult(<b> >= 70% </b>.
 </pre>
