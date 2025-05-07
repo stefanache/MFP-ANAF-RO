@@ -71,7 +71,10 @@ NU există reguli, ci doar rezultate necesare.
 
 De asemenea, atașăm rezultate suplimentare cunoscute, valabile încă 10 zile, pe care le puteți folosi pentru a vă testa predictorul înainte de a ni le trimite spre analiză.
 
-Nota: Modelul gasit va fi calculat în raport cu alte 40 de fișiere zilnice pentru a-i determina acuratețea. 
+Nota: 
+    Modelul gasit va fi calculat/testat/confruntat în raport cu alte 
+        40 de fișiere zilnice (care nu au fost furnizate inca!)
+    pentru a-i determina acuratețea. 
 
 Scopul este să obțineți o acuratețe de cât mai aproape de 70% sau mai mult.
 </pre>
