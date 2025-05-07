@@ -84,5 +84,5 @@ Nota:
         40 de fișiere zilnice (care nu au fost furnizate inca!)
     pentru a-i determina/valida acuratețea. 
 
-Scopul este de a se  obține o acuratețe, cât mai aproape de 70% sau mai mult(<b> >= 70% </b>.
+Scopul este de a se  obține o acuratețe, cât mai aproape de 70% sau mai mult(<b> >= 70% </b>).
 </pre>
