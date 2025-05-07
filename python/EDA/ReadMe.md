@@ -62,7 +62,7 @@ De exemplu, dacă
     semn-simbolul(valoare existenta/din col. N) „Jupiter_Neptune-BLK_Square” are o
     distributie (pe un subset de randuri de...), (90,9% la 9.1%) :
         - 20 de rezultate PESTE/OVER(numarate pe un subset de randuri din col.H) și 
-        - 2 rezultate SUB/UNDER(numarate pe acelasi subset de randuri din col.H), 
+        -  2 rezultate SUB/UNDER(numarate pe acelasi subset de randuri din col.H), 
 există șanse mari să înceapă să aibă (mai departe), mai multe rezultate „SUB”,
 dar avem nevoie de modelul de predicție pentru a calcula valul fiecărui semn-simbol, 
 astfel încât să poată prezice cat mai precis schimbarea de direcție(sens). 
