@@ -147,6 +147,7 @@ Si acum cateva ...
  - [ro-wiki: Pendul gravitational ideal(neamortizat)](https://ro.wikipedia.org/wiki/Pendul_gravita%C8%9Bional); [miscarea oscilatorie](http://www.physics.pub.ro/Referate/BN122B/Studiul_miscarii_oscilatorii_cu_ajutorul_PENDULULUI_de_TORSIUNE.pdf);
    <br/>[ro-edituraADP-Fizica XI: miscarea oscilatorie armonica amortizata](https://edituradp.ro/site_img/downloads/2016/05/pagini-fizica-xi.pdf);
    <br/>[YT-Cursul 6  de oscilatii si unde: OSCILAȚII AMORTIZATE, OSCILAȚII FORȚATE, REZONANȚA](https://www.youtube.com/watch?v=kBs1brmQLi0&ab_channel=ROMULUSBOERIU%28Physics%2CLogic%2CScience%29)
+ - [roCantemirML-2024: Fizica-11 - Oscilatii Mecanice](https://www.cantemircml.ro/wp-content/uploads/2024/09/Fizica.pdf)
  - [ro-wiki: Rezonanta](https://ro.wikipedia.org/wiki/Rezonan%C8%9B%C4%83)
  - [ro-INSSE- statistici](http://statistici.insse.ro/tempoins/index.jsp?page=tempo3&lang=ro&ind=EXP102F)
  - [ro-scriBD: Statistica Cap.5 - NALIZA SERIILOR CRONOLOGICE 5.1. INDICATORI: DEFINIRE; FORMULE DE CALCUL INDICATORII SERIILOR CRONOLOGICE](https://www.scribd.com/doc/25497366/Statistica-Capitolul5)
