@@ -105,49 +105,49 @@ Ar trebui/hai sa ne aruncam o privire a valorilor care se repeta sau variaza pe 
 
 <pre>
 Nota:
-    - desi L,M si N sunt 3 coloane care NU sunt independente intre ele(una obtinandu-se din celelalte 2),
-      N fiind o variabila-externa, compusa(N este o variabila externa/exogena/explicativa a seriei studiate: H(P)=y(t)...unde 
-      H joaca  rolul lui y iar coloana P joaca rolul lui t/timpul-calendaristic) din variabilele sale simple/componente(L si M), 
-      totusi cred ca L si M , trebuie avute  in vedere(luate in considerare/calcul) atunci cand analizam rezultatele din col-tinta H, 
-      doarece <b><i>s-ar putea </i></b>, ca aceste 2 componente / variabile-exogene(x1=L si x2=M ia x=(x1,x2) unde x este variabila 
-      explicativa exogena N(P)=x(t), ierarhic-superioara componentelor sale structurale, x1 si x2), sa joace un rol interesant / 
-      important, in explicatia evolutiei/comportamentului(in timp) a acesteia(coloanei-tinta/de rezultate H=y)
-    - coloana P(dimensiunea temporala/calendaristica) trebuie pastrata pentru a ordona randurile dupa aceasta si 
-      pt a se utiliza atunci cand rezultatele(col. H) vor fi vazute/analizate ca o serie-calendaristica/temporala.
-      Coloana P, desi ar putea fi inlocuita cu un index, trebuie sa va spun ca nu este in regula sa se procedeze astfel, deoarece o 
-      coloana de tip data calendaristica(ascunde alte date-componente simple, cum ar fi ziua,luna si anul... date care permit analiza 
-      ciclicitatii/sezonalitatii...temporale).
-      Indexul temporal, va permite/asigura in continuare, ordonarea in timp, dar ea va omite/ascunde ciclicitatile/repetarea din cadrul 
-      elementelor/sirului de date temporale si prin urmare se pierd informatii constitutive importante, de frecventa.
-      Cu alte cuvinte se va face/prefera o esantionare mai grosiera, in locul uneia mai detailate/atomizate/precise avand deci in final,
-      o granularitate/grad de investigare mai mare/imprecisa.
-      O discretizare intr-un grad cat mai inalt(asa cum ai trece de la la numere Natura/Intregi la numere rationale si apoi la numere cu 
-      o zecimala si apoi la 2,3,...n zecimale... ca sa nu mai vorbim de numere periodice) poate aduce lucruri noi in evaluarea noastra,
-      greu de vazut/surprins daca acestea nu sunt vazute in amanunt in sirurile de valori/seriile dependente de factorul/variabila timp
-      (serii temporale: calendaristice sau de ce nu se poate adanci/largi discretizarea, atat in sensul micsorarii mergand la: ore,minute,
-      secunde,zecimi-de-secunda,sutimi-de-secunda,miimi-de secunda,... ori in sensul majorarii pasului de esantionare: bianual,tri-anual,
-      4/cvadru-anual, 5-anual/5-ani/cincinale,...decenii,secole/veacuri,milenii...).
-      Cuanta de timp(pasul esantionarii), fie ea discretizata/aproximata/rotunjita, in sensul misorarii, sau in sensul majorarii, 
-      NU trebuie sa  fie ignorata, in analizele dumneavoastra viitoare!
-      De pilda, daca aveti disponibila ziua(DD), o puteti vedea, daca o analizati, ca fiind a <i>n</i>-a zi a saptamanii si deci 
-      mai departe veti vedea  ca aceste valori calculate se vor repeta luand valorile...1,2,3,4,5,6,7;
-      Cu alte cuvinte ati putea dezvolta analiza fie pe ziua din luna dar si pe ziua 1/2/3/4/5/6/7 a/din saptaman[ii/a], si mai departe 
-      fie pe saptamani si apoi pe decade(10 zile), apoi pe luni ale anului si tot asa... folosind intervale/frecvente/grupari temporale 
-      din ce in ce mai mari.
-      Intrinsec ziua(DD) se va repeta si va lua valori intre 1 si 30/31 ... 
-      La fel si lunile(MM) ascund o cicilicitate luand valori in intervalul 1-12, in cadrul unui an(YYYY).
-      Si aici am putea extinde analiza la trimestre(4 luni) si semestre(6 luni), dupa caz.
-      Atomizarea sau gruparea si in general frecventa datelor temporale poate constitui un bun prilej/factor de analiza, in cazul 
-      explorarii-statistice a seriilor-temporale(calendaristice in acest caz).
-      Veti beneficia astfel de mai multe ciclicitati in analiza/explorarea datelor puse la dispozitie!
-    - coloana Q se poate determina din coloana P, Q fiind "calculata/evaluata/determinata" ca fiind : Q = year(P), deci dedusa din
-      coloana P. 
-      Prin urmare, la coloana Q, se poate renunta fara probleme(eliminarea ei nu va duce la pierdere de informatie,
-      si deci nu se va simti lipsa acesteia...).
-    - avand 10 zile de date pt testare(ma duce cu gandul si la o analiza decadala atunci cand grupam datele...:)
-    - coloanelel A si B pot consituie un foarte bun instrument de identificare a jucatorilo din cadrul 
-      randurilor/meciurilor, dar numele jucatorului/data nasterii care identifica un tenismen anume veti vedea ca se 
-      pot repeta, pt ca acestia pot participa la mai multe meciuri/jocuri(si chiar turnee/competitii sportive!)
+- desi L,M si N sunt 3 coloane care NU sunt independente intre ele(una obtinandu-se din celelalte 2),
+  N fiind o variabila-externa, compusa(N este o variabila externa/exogena/explicativa a seriei studiate: H(P)=y(t)...unde 
+  H joaca  rolul lui y iar coloana P joaca rolul lui t/timpul-calendaristic) din variabilele sale simple/componente(L si M), 
+  totusi cred ca L si M , trebuie avute  in vedere(luate in considerare/calcul) atunci cand analizam rezultatele din col-tinta H, 
+  doarece <b><i>s-ar putea </i></b>, ca aceste 2 componente / variabile-exogene(x1=L si x2=M ia x=(x1,x2) unde x este variabila 
+  explicativa exogena N(P)=x(t), ierarhic-superioara componentelor sale structurale, x1 si x2), sa joace un rol interesant / 
+  important, in explicatia evolutiei/comportamentului(in timp) a acesteia(coloanei-tinta/de rezultate H=y)
+- coloana P(dimensiunea temporala/calendaristica) trebuie pastrata pentru a ordona randurile dupa aceasta si 
+  pt a se utiliza atunci cand rezultatele(col. H) vor fi vazute/analizate ca o serie-calendaristica/temporala.
+  Coloana P, desi ar putea fi inlocuita cu un index, trebuie sa va spun ca nu este in regula sa se procedeze astfel, deoarece o 
+  coloana de tip data calendaristica(ascunde alte date-componente simple, cum ar fi ziua,luna si anul... date care permit analiza 
+  ciclicitatii/sezonalitatii...temporale).
+  Indexul temporal, va permite/asigura in continuare, ordonarea in timp, dar ea va omite/ascunde ciclicitatile/repetarea din cadrul 
+  elementelor/sirului de date temporale si prin urmare se pierd informatii constitutive importante, de frecventa.
+  Cu alte cuvinte se va face/prefera o esantionare mai grosiera, in locul uneia mai detailate/atomizate/precise avand deci in final,
+  o granularitate/grad de investigare mai mare/imprecisa.
+  O discretizare intr-un grad cat mai inalt(asa cum ai trece de la la numere Natura/Intregi la numere rationale si apoi la numere cu 
+  o zecimala si apoi la 2,3,...n zecimale... ca sa nu mai vorbim de numere periodice) poate aduce lucruri noi in evaluarea noastra,
+  greu de vazut/surprins daca acestea nu sunt vazute in amanunt in sirurile de valori/seriile dependente de factorul/variabila timp
+  (serii temporale: calendaristice sau de ce nu se poate adanci/largi discretizarea, atat in sensul micsorarii mergand la: ore,minute,
+  secunde,zecimi-de-secunda,sutimi-de-secunda,miimi-de secunda,... ori in sensul majorarii pasului de esantionare: bianual,tri-anual,
+  4/cvadru-anual, 5-anual/5-ani/cincinale,...decenii,secole/veacuri,milenii...).
+  Cuanta de timp(pasul esantionarii), fie ea discretizata/aproximata/rotunjita, in sensul misorarii, sau in sensul majorarii, 
+  NU trebuie sa  fie ignorata, in analizele dumneavoastra viitoare!
+  De pilda, daca aveti disponibila ziua(DD), o puteti vedea, daca o analizati, ca fiind a <i>n</i>-a zi a saptamanii si deci 
+  mai departe veti vedea  ca aceste valori calculate se vor repeta luand valorile...1,2,3,4,5,6,7;
+  Cu alte cuvinte ati putea dezvolta analiza fie pe ziua din luna dar si pe ziua 1/2/3/4/5/6/7 a/din saptaman[ii/a], si mai departe 
+  fie pe saptamani si apoi pe decade(10 zile), apoi pe luni ale anului si tot asa... folosind intervale/frecvente/grupari temporale 
+  din ce in ce mai mari.
+  Intrinsec ziua(DD) se va repeta si va lua valori intre 1 si 30/31 ... 
+  La fel si lunile(MM) ascund o cicilicitate luand valori in intervalul 1-12, in cadrul unui an(YYYY).
+  Si aici am putea extinde analiza la trimestre(4 luni) si semestre(6 luni), dupa caz.
+  Atomizarea sau gruparea si in general frecventa datelor temporale poate constitui un bun prilej/factor de analiza, in cazul 
+  explorarii-statistice a seriilor-temporale(calendaristice in acest caz).
+  Veti beneficia astfel de mai multe ciclicitati in analiza/explorarea datelor puse la dispozitie!
+- coloana Q se poate determina din coloana P, Q fiind "calculata/evaluata/determinata" ca fiind : Q = year(P), deci dedusa din
+  coloana P. 
+  Prin urmare, la coloana Q, se poate renunta fara probleme(eliminarea ei nu va duce la pierdere de informatie,
+  si deci nu se va simti lipsa acesteia...).
+- avand 10 zile de date pt testare(ma duce cu gandul si la o analiza decadala atunci cand grupam datele...:)
+- coloanelel A si B pot consituie un foarte bun instrument de identificare a jucatorilo din cadrul 
+  randurilor/meciurilor, dar numele jucatorului/data nasterii care identifica un tenismen anume veti vedea ca se 
+  pot repeta, pt ca acestia pot participa la mai multe meciuri/jocuri(si chiar turnee/competitii sportive!)
 </pre>
 
 <br/><hr/>
