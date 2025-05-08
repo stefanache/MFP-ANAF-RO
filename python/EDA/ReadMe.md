@@ -209,7 +209,7 @@ Si acum cateva ...
  - [ro-stuDocu-UV(TM)-statistica aplicata: Serii de timp - indicatori si indici statistici](https://www.studocu.com/ro/document/universitatea-de-vest-din-timisoara/statistica-aplicata/serii-de-timp-indicatori-si-indici-statistici/13291935)
  - [ro-scriBD: curs-Statistica-in-cercetare-22-01-2016](https://www.scribd.com/document/475695770/curs-Statistica-in-cercetare-22-01-2016-p-pdf)
  - [MS-ro-ro: Exemple de utilizari ale datelor calendaristice drept criterii in interogarile Aceess](https://support.microsoft.com/ro-ro/topic/exemple-de-utiliz%C4%83ri-ale-datelor-calendaristice-drept-criterii-%C3%AEn-interog%C4%83rile-access-aea83b3b-46eb-43dd-8689-5fc961f21762)
- - [ro-UAIC: Organizarea datelor statistice](https://www.math.uaic.ro/~eduard/Capitolul%201.%20Organizarea%20datelor%20statistice.pdf)
+ - [ro-UAIC: Organizarea datelor-statistice](https://www.math.uaic.ro/~eduard/Capitolul%201.%20Organizarea%20datelor%20statistice.pdf)
  - [ro-UPT-mec: Analiza Exploratorie a unei serii de Date](https://mctr.mec.upt.ro/wp-content/uploads/2018/12/ADE_2.pdf)
  - [ro-INSSE: metogologie/strategie](https://insse.ro/cms/files/statistici/comunicate/somaj_BIM/a20/precizari_metodologice_dec.pdf)
  - [ro-teleWork: Analiza datelor](https://www.telework.ro/ro/analiza-datelor/)
