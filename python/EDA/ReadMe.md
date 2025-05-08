@@ -26,7 +26,7 @@ B). pt partea de testare in (10)fisiere (splitate/impartite/separate) zilnic:
 
  - restul celor 10 zile/fisiere-zilnice .xlsx cu denumite dupa sablonul Daily__MMDDYYYY.xls unde MM=02(FEB), YYYY=2025(anul curent) si DD=15-24(zilele in care s-au prelevat date de testare din luna FEB-2025)
 
-Cerinta proiectului este urmatoarea:
+Cerinta/descrierea [tehnica](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/EDA/Req.txt) proiectului este urmatoarea:
 
 <details>
     <summary> detalii despre ... Descrierea/specificatia tehnica a proiectului!</summary>
