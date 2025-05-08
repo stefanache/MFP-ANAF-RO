@@ -176,7 +176,7 @@ Si acum cateva ...
  - [ro-scriBD: Statistica Cap.5 - NALIZA SERIILOR CRONOLOGICE 5.1. INDICATORI: DEFINIRE; FORMULE DE CALCUL INDICATORII SERIILOR CRONOLOGICE](https://www.scribd.com/doc/25497366/Statistica-Capitolul5)
  - [ro-stuDocu: Corelatia seriala](https://www.studocu.com/ro/document/universitatea-transilvania-din-brasov/econometrics/corelatia-seriala/33449333)
    <br/>Corelația se referă la o clasă largă de relații statistice care implică Dependența
-   <br/>Un coeficient de Corelatie mai mare de 0,75 (sau mai mic de -0,75) inseamna o corelatie/asociere puternica (grad de Asociere foarte bun).
+   <br/>Un coeficient de Corelatie mai mare de 0,75 (sau mai mic de -0,75) inseamna o corelatie/[asociere](https://dexonline.ro/definitie/asociere) puternica/semnificativa (grad de Asociere foarte bun/taria legaturii este semnificativa).
    <br/> -0,25 < r < 0,25 sau echivalent |r| < 0.25 grad de asociere(taria legaturii/dependentei/asocierii) foarte bun sau semnificativ!
  - [ro-UMF-CV: reprezentarea grafica a datelor statistice](https://old.umfcv.ro/files/b/i/Biostatistica%20MG%20-%20Cursul%20IV.pdf)
  - [ro-UCV: Danciulescu Curs 7 - ANALIZA SERIILOR CRONOLOGICE](http://inf.ucv.ro/documents/danciulescu/curs7.pdf)
