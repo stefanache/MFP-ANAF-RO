@@ -175,7 +175,7 @@ Si acum cateva ...
  - [ro-INSSE- statistici](http://statistici.insse.ro/tempoins/index.jsp?page=tempo3&lang=ro&ind=EXP102F)
  - [ro-scriBD: Statistica Cap.5 - NALIZA SERIILOR CRONOLOGICE 5.1. INDICATORI: DEFINIRE; FORMULE DE CALCUL INDICATORII SERIILOR CRONOLOGICE](https://www.scribd.com/doc/25497366/Statistica-Capitolul5)
  - [ro-stuDocu: Corelatia seriala](https://www.studocu.com/ro/document/universitatea-transilvania-din-brasov/econometrics/corelatia-seriala/33449333)
-   <br/>Corelația se referă la o clasă largă de relații statistice care implică Dependența
+   <br/>Corelația se referă la o clasă largă de relații statistice care implică [Dependența](https://dexonline.ro/definitie/dependenta)
    <br/>Un coeficient de Corelatie mai mare de 0,75 (sau mai mic de -0,75) inseamna o corelatie/[asociere](https://dexonline.ro/definitie/asociere) puternica/semnificativa (grad de Asociere foarte bun/taria legaturii este semnificativa).
    <br/> -0,25 < r < 0,25 sau echivalent |r| < 0.25 grad de asociere(taria legaturii/dependentei/asocierii) foarte bun sau semnificativ!
    <br/> Corelatia ne arata doar cat de puternica/tare/semnificativa este o legatura(stiind deja ca am detectat o legatura intre 2 variabile)
