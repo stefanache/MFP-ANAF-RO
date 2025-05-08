@@ -116,15 +116,17 @@ Nota:
       Coloana P desi ar putea fi inlocuita cu un index trebuie sa va spun ca nu este in regula 
       sa se procedeze astfel, deoarece o coloana de tip data calendaristica(ascunde alte date-componente 
       simple cum este ziua,luna si anul... date care permit analiza ciclicitatii/sezonalitatii...temporale).
-      De pilda, daca aveti ziua puteti vedea ca daca o analizati ca fiind a n-a zi a sapatamanii veti vedea 
-      ca aceste valori calculate se vor repeta luand valorile...1,2,3,4,5,6,7;
-      Intrinsec ziua(DD) se va repeta si va lua valori intre 1 si 30/31 ... la fel si lunile(MM) ascund o 
-      cicilicitate luand valori in intervalul 1-12, in cadrul unui an(YYYY).
-     - coloana Q se poate determina din coloana P, Q fiind "calculata" ca: Q = year(P), deci dedusa din
+      De pilda, daca aveti disponibila ziua(DD), o puteti vedea, daca o analizati, ca fiind a <i>n</i>-a zi a saptamanii si deci 
+      mai departe veti vedea  ca aceste valori calculate se vor repeta luand valorile...1,2,3,4,5,6,7;
+      Cu alte cuvinte ati putea dezvolta analiza fie pe saptamani fie pe ziua 1/2/3/4/5/6/7 a saptamanii apoi pe luni sitot asa...
+      Intrinsec ziua(DD) se va repeta si va lua valori intre 1 si 30/31 ... la fel si lunile(MM) ascund o cicilicitate luand valori 
+      in intervalul 1-12, in cadrul unui an(YYYY).
+      Veti beneficia astfel de mai multe ciclicitati in analiza/explorarea datelor puse la dispozitie!
+    - coloana Q se poate determina din coloana P, Q fiind "calculata" ca: Q = year(P), deci dedusa din
        coloana P. 
        Prin urmare, la coloana Q, se poate renunta fara probleme(eliminarea ei nu va duce la pierdere de informatie,
        si deci nu se va simti lipsa acesteia...).
-     - coloanelel A si B pot consituie un foarte bun instrument de identificare a jucatorilo din cadrul 
+    - coloanelel A si B pot consituie un foarte bun instrument de identificare a jucatorilo din cadrul 
        randurilor/meciurilor, dar numele jucatorului/data nasterii care identifica un tenismen anume veti vedea ca se 
        pot repeta, pt ca acestia pot participa la mai multe meciuri/jocuri(si chiar turnee/competitii sportive!)
 </pre>
