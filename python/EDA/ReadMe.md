@@ -199,6 +199,7 @@ Si acum cateva ...
    <br/> - dependenta(legatura-explicita).
    <br/> - monotonia(crescator/descrescator cu variantele strict sau nestrict ori nemonotona/aleatoare)
    <br/> - liniaritate vs neliniaritate( si aici verificam daca am periodicitate sau nu...)
+ - [Tipuri/Comaparatie/Diferente/Distinctie intre corelatii](https://statisticasociala.tripod.com/cor_par.htm)
    <br/> [Testele](https://www.ibm.com/docs/ro/cognos-analytics/11.2.x?topic=tests-analysis-variance-anova) vin sa studieze toate/o parte din aspectele aceastea(si nu numai!...Google sau ChatGPT va poate [ajuta](https://phys.ubbcluj.ro/~dana.maniu/BIOSTAT/C5.pdf) aici!)
  - [ro-UMF-CV: reprezentarea grafica a datelor statistice](https://old.umfcv.ro/files/b/i/Biostatistica%20MG%20-%20Cursul%20IV.pdf)
  - [ro-UCV: Danciulescu Curs 7 - ANALIZA SERIILOR CRONOLOGICE](http://inf.ucv.ro/documents/danciulescu/curs7.pdf)
