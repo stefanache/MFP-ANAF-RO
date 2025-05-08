@@ -191,7 +191,7 @@ Si acum cateva ...
    <br/>Procesul consta in gasirea unor reguli explicabile in cuvinte/algoritmic sau si de dorit chiar matematic(desi nu totdeauna
    <br/> treaba asta este posibila), proces care ne ajuta sa descoperim faptul ca(si uneori cum) valorile X ori t(timpul sau variabila
    <br/>explicativa), explica/determina(prin reguli de compunere/calcul), valorile rezultatului(Y, care devine astfel dependent de X)
-   <br/>Asadar nu trebuie confundate conceptele de:
+   <br/>Asadar nu trebuie confundate [conceptele-cheie](https://www.reddit.com/r/AskStatistics/comments/rqi7rr/why_is_correlation_always_linear/?tl=ro) de:
    <br/> - independenta-relativa,
    <br/> - asocierea(legatura/dependenta-implicita) si
    <br/> - dependenta(legatura-explicita).
