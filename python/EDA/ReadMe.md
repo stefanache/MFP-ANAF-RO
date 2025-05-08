@@ -106,8 +106,8 @@ Ar trebui/hai sa ne aruncam o privire a valorilor care se repeta sau variaza pe 
 <pre>
 Nota:
     - desi L,M si N sunt 3 coloane care NU sunt independente intre ele(una obtinanduse din celelalte 2),
-      N fiind o variabila-compusa(variabila externa/exogena a seriei studiate  H(P)=y(t)...unde H joaca rolul lui y iar P al lui t) din variabilele simple/componente L si M,
-      totusi cred ca trebuie avute in vedere atunci cand analizam rezultatele din col-tinta H,
+      N fiind o variabila-compusa(variabila externa/exogena a seriei studiate  H(P)=y(t)...unde H joaca rolul lui y iar P al lui t) 
+      din variabilele simple/componente L si M, totusi cred ca trebuie avute in vedere atunci cand analizam rezultatele din col-tinta H,
       doarece <b><i>s-ar putea </i></b>, ca aceste componente/variabile-exogene(x1=L si x2=M ia x=(x1,x2) cu (variabila exogena N(P)=x(t))),
       sa joace un rol interesant/important, in explicatia acesteia(col. de rezultate H)
     - coloana P(dimensiunea temporala/calendaristica) trebuie pastrata pentru a ordona randurile dupa aceasta si 
