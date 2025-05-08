@@ -99,7 +99,7 @@ Scopul este de a se  obține o acuratețe, cât mai aproape de 70% sau mai mult(
 Ar trebui/hai sa ne aruncam o privire a valorilor care se repeta sau variaza pe fiecare coloana/rand.....
 
 <details>
-    <summary>detalii despre ... Nota explicativa cu privire la redundanta/utilizarea coloanelor!</summary>
+    <summary>Nota explicativa cu privire la redundanta/utilizarea coloanelor!</summary>
 
 <hr/><br/>
 
