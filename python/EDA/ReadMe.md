@@ -143,7 +143,7 @@ Si acum cateva ...
  - [md-UPB-Mathem: Modelarea matematica](https://dep2.mathem.upb.ro/pdf/didactice/Modelarea%20matematica%20prin%20Matlab.pdf)
  - [ro-wiki: Pendul gravitational ideal(neamortizat)](https://ro.wikipedia.org/wiki/Pendul_gravita%C8%9Bional); [miscarea oscilatorie](http://www.physics.pub.ro/Referate/BN122B/Studiul_miscarii_oscilatorii_cu_ajutorul_PENDULULUI_de_TORSIUNE.pdf);
    <br/>[ro-edituraADP-Fizica XI: miscarea oscilatorie armonica amortizata](https://edituradp.ro/site_img/downloads/2016/05/pagini-fizica-xi.pdf);
-   [YT-Cursul 6  de oscilatii si unde: OSCILAȚII AMORTIZATE, OSCILAȚII FORȚATE, REZONANȚA](https://www.youtube.com/watch?v=kBs1brmQLi0&ab_channel=ROMULUSBOERIU%28Physics%2CLogic%2CScience%29)
+   <br/>[YT-Cursul 6  de oscilatii si unde: OSCILAȚII AMORTIZATE, OSCILAȚII FORȚATE, REZONANȚA](https://www.youtube.com/watch?v=kBs1brmQLi0&ab_channel=ROMULUSBOERIU%28Physics%2CLogic%2CScience%29)
  - [...](https://www.google.com/search?q=statistica++efectul+pendul&sca_esv=482345221402daf0&rlz=1C1CHBF_enRO1132RO1132&sxsrf=AHTn8zr5FTi6xtTaPdaQ91kGM6IdfiW7Mg%3A1746681660523&ei=PD8caMLZH9-Jxc8PscKyoAo&ved=0ahUKEwjC56SfkJONAxXfRPEDHTGhDKQQ4dUDCBA&uact=5&oq=statistica++efectul+pendul&gs_lp=Egxnd3Mtd2l6LXNlcnAiGnN0YXRpc3RpY2EgIGVmZWN0dWwgcGVuZHVsMgUQABjvBTIIEAAYogQYiQUyBRAAGO8FMggQABiiBBiJBTIIEAAYogQYiQVI5HlQAFjUd3AAeACQAQCYAZsBoAHCH6oBBDAuMzO4AQPIAQD4AQGYAiGgApwgwgIEECMYJ8ICCxAAGIAEGLEDGIMBwgIOEAAYgAQYsQMYgwEYigXCAg4QLhiABBixAxjRAxjHAcICChAAGIAEGEMYigXCAggQLhiABBixA8ICCBAAGIAEGLEDwgILEC4YgAQYsQMYgwHCAhAQLhiABBhDGMcBGIoFGK8BwgIFEAAYgATCAgUQLhiABMICCxAuGIAEGMcBGK8BwgIIEAAYgAQYywHCAgYQABgWGB7CAggQABgWGAoYHsICBRAhGKABwgIIEAAYgAQYogTCAgQQIRgVwgIFECEYnwXCAgYQABgIGB6YAwCSBwQwLjMzoAeM3QGyBwQwLjMzuAecIA&sclient=gws-wiz-serp)
 <br/><hr/>
 
