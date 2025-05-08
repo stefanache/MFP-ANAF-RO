@@ -108,7 +108,7 @@ Nota:
     - desi L,M si N sunt 3 coloane care nu sunt independente intre ele,
       N fiind o variabila compusa din variabilele simple/componente L si M,
       totusi cred ca trebuie avute in vedere atunci cand analizam rezultatele din col-tinta H,
-      doarece s-ar putea ca aceste componente(L si M)  sa joace un rol interesant/important in 
+      doarece s-ar putea ca aceste componente/variabile-exogene(L si M)  sa joace un rol interesant/important in 
       explicatia acesteia(col. de rezultate H)
     - coloana P trebuie pastrata pentru a ordona randurile dupa aceasta si pt a se utiliza atunci cand
       rezultatele(col. H) vor fi vazute/analizate ca o serie-temporala.
