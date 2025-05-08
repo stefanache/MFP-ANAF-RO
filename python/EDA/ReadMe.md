@@ -178,7 +178,7 @@ Si acum cateva ...
    <br/>Corelația se referă la o clasă largă de relații statistice care implică [Dependența](https://dexonline.ro/definitie/dependenta)
    <br/>Un coeficient de Corelatie mai mare de 0,75 (sau mai mic de -0,75) inseamna o corelatie/[asociere](https://dexonline.ro/definitie/asociere) puternica/semnificativa (grad de Asociere foarte bun/taria legaturii este semnificativa).
    <br/> -0,25 < r < 0,25 sau echivalent |r| < 0.25 grad de asociere(taria legaturii/dependentei/asocierii) foarte bun sau semnificativ!
-   <br/> Corelatia ne arata doar cat de puternica/tare/semnificativa este o legatura(stiind deja ca am detectat o legatura intre 2 variabile)
+   <br/> Corelatia ne arata doar cat de puternica/tare/semnificativa este o legatura(stiind deja ca am detectat o [legatura](https://www.umfst.ro/info/statmed_exemple_rezolvari.pdf) intre 2 variabile)
    <br/> Corelatia nu ne spune sau nu detecteaza daca intre 2 variabile exista vreo relatie/legatura si nici natura legaturii(adica daca este
    <br/>liniara sau neliniara, ori daca este cicla sau aciclica/periodica...etc)
  - [ro-UMF-CV: reprezentarea grafica a datelor statistice](https://old.umfcv.ro/files/b/i/Biostatistica%20MG%20-%20Cursul%20IV.pdf)
