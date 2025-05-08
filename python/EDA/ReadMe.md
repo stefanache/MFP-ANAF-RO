@@ -175,6 +175,7 @@ Si acum cateva ...
  - [ro-INSSE- statistici](http://statistici.insse.ro/tempoins/index.jsp?page=tempo3&lang=ro&ind=EXP102F)
  - [ro-scriBD: Statistica Cap.5 - NALIZA SERIILOR CRONOLOGICE 5.1. INDICATORI: DEFINIRE; FORMULE DE CALCUL INDICATORII SERIILOR CRONOLOGICE](https://www.scribd.com/doc/25497366/Statistica-Capitolul5)
  - [ro-stuDocu: Corelatia seriala](https://www.studocu.com/ro/document/universitatea-transilvania-din-brasov/econometrics/corelatia-seriala/33449333)
+   <br/>Un coeficient de Corelatie mai mare de 0,75 (sau mai mic de -0,75) inseamna o corelatie puternica (grad de Asociere foarte bun). -0,25 < r < 0,25
  - [ro-UMF-CV: reprezentarea grafica a datelor statistice](https://old.umfcv.ro/files/b/i/Biostatistica%20MG%20-%20Cursul%20IV.pdf)
  - [ro-UCV: Danciulescu Curs 7 - ANALIZA SERIILOR CRONOLOGICE](http://inf.ucv.ro/documents/danciulescu/curs7.pdf)
  - [Google-imagini: ...statistica  serii efectul pendul ML...](https://www.google.com/search?q=statistica++serii+efectul+pendul+ML&sca_esv=482345221402daf0&rlz=1C1CHBF_enRO1132RO1132&udm=2&biw=1920&bih=911&sxsrf=AHTn8zoUmkMoR8NKuYw8NcpRZE-H66siGQ%3A1746683111298&ei=50QcaNX3Eb6Exc8Pw4mL4AY&ved=0ahUKEwiVh4nTlZONAxU-QvEDHcPEAmwQ4dUDCBE&uact=5&oq=statistica++serii+efectul+pendul+ML&gs_lp=EgNpbWciI3N0YXRpc3RpY2EgIHNlcmlpIGVmZWN0dWwgcGVuZHVsIE1MSL1FULU7WKVCcAF4AJABAJgBc6AB1AKqAQMwLjO4AQPIAQD4AQGYAgCgAgCYAwCIBgGSBwCgB4cBsgcAuAcA&sclient=img)
