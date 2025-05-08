@@ -51,9 +51,9 @@ N - Planete/Intensitate(a se vedea dictionarul bColumn_N_Signs_Symbols.xlsx: con
 Puteți utiliza un(1) sau toate cele 3 coloane L,M,N. 
 Puteți compara jucătorii cu ei înșiși sau cu toți ceilalti jucători.
 
-Coloana N are 768 de semne-simboluri unice(ex. „Jupiter_Neptune-BLK_Square”).
+Coloana N are 768 de semne-simboluri unice/distincte(ex. „Jupiter_Neptune-BLK_Square”).
 
-Coloana L are 168 de simboluri unice(ex. „Jupiter_Neptune”).
+Coloana L are 168 de simboluri unice/distincte(ex. „Jupiter_Neptune”).
 
 Puteți alege să le utilizați pe toate sau pe unele dintre ele. 
 Ideea aici este de a identifica efectul pendulului. 
