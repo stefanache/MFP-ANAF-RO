@@ -63,7 +63,7 @@ Un posibil obiectiv este de a identifica când un val a dat o lovitură(mingea a
 se va întoarce în direcția opusă. 
 De exemplu, dacă 
     semn-simbolul(valoare existenta/din col. N) „Jupiter_Neptune-BLK_Square” are o
-    distributie (pe un subset de randuri de...), (90,9% la 9.1%) :
+    [distributie](https://www.scribd.com/document/213374961/Forma-Distributiei-Statistica) (pe un subset de randuri de...), (90,9% la 9.1%) :
         - 20 de rezultate PESTE/OVER(numarate pe un subset de randuri din col.H) și 
         -  2 rezultate SUB/UNDER(numarate pe acelasi subset de randuri din col.H), 
 există șanse mari să înceapă să aibă (mai departe), mai multe rezultate „SUB”,
