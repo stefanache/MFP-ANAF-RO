@@ -105,7 +105,7 @@ Ar trebui/hai sa ne aruncam o privire a valorilor care se repeta sau variaza pe 
 
 <pre>
 Nota:
-    - desi L,M si N sunt 3 coloane care NU sunt independente intre ele(una obtinanduse din celelalte 2),
+    - desi L,M si N sunt 3 coloane care NU sunt independente intre ele(una obtinandu-se din celelalte 2),
       N fiind o variabila-compusa(variabila externa/exogena a seriei studiate  H(P)=y(t)...unde H joaca rolul lui y iar 
       coloana P joaca rolul lui t/timpul-calendaristic) din variabilele simple/componente L si M, totusi cred ca trebuie avute 
       in vedere atunci cand analizam rezultatele din col-tinta H, doarece <b><i>s-ar putea </i></b>, ca aceste componente / 
