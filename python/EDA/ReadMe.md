@@ -141,7 +141,8 @@ Si acum cateva ...
  - [ro-ASE-SPSS: analiza multivariata a datelor](https://orzanm.ase.ro/spss/pdf/Analiza%20multivariata%20a%20datelor.pdf)
  - [md-UPB-Mathem: Modelarea matematica](https://dep2.mathem.upb.ro/pdf/didactice/Modelarea%20matematica%20prin%20Matlab.pdf)
  - [ro-wiki: Pendul gravitational ideal(neamortizat)](https://ro.wikipedia.org/wiki/Pendul_gravita%C8%9Bional); [miscarea oscilatorie](http://www.physics.pub.ro/Referate/BN122B/Studiul_miscarii_oscilatorii_cu_ajutorul_PENDULULUI_de_TORSIUNE.pdf);
-   <br/>[ro-edituraADP-Fizica XI: miscarea oscilatorie armonica amortizata](https://edituradp.ro/site_img/downloads/2016/05/pagini-fizica-xi.pdf)
+   <br/>[ro-edituraADP-Fizica XI: miscarea oscilatorie armonica amortizata](https://edituradp.ro/site_img/downloads/2016/05/pagini-fizica-xi.pdf);
+   [YT-Cursul 6  de oscilatii si unde: OSCILAȚII AMORTIZATE, OSCILAȚII FORȚATE, REZONANȚA](https://www.youtube.com/watch?v=kBs1brmQLi0&ab_channel=ROMULUSBOERIU%28Physics%2CLogic%2CScience%29)
  - ...
 <br/><hr/>
 
