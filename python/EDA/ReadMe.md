@@ -57,9 +57,9 @@ Coloana L are 168 de simboluri unice(ex. „Jupiter_Neptune”).
 
 Puteți alege să le utilizați pe toate sau pe unele dintre ele. 
 Ideea aici este de a identifica efectul pendulului. 
-Fiecare semn-simbol tinde să urmeze un val de maxime și minime ale 
+Fiecare semn-simbol tinde(are tendinta/tredul de a ...sau ...) să urmeze un val de Maxime și Minime ale 
 rezultatelor OVER/CÂȘTIGĂTOR sau UNDER/PIERDERE. 
-Un posibil obiectiv este de a identifica când un val a dat o lovitură și 
+Un posibil obiectiv este de a identifica când un val a dat o lovitură(mingea a lovit peretele daca ai juca tenis la perete...:) și 
 se va întoarce în direcția opusă. 
 De exemplu, dacă 
     semn-simbolul(valoare existenta/din col. N) „Jupiter_Neptune-BLK_Square” are o
