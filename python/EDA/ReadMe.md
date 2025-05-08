@@ -191,7 +191,13 @@ Si acum cateva ...
    <br/>Procesul consta in gasirea unor reguli explicabile in cuvinte/algoritmic sau si de dorit chiar matematic(desi nu totdeauna
    <br/> treaba asta este posibila), proces care ne ajuta sa descoperim faptul ca(si uneori cum) valorile X ori t(timpul sau variabila
    <br/>explicativa), explica/determina(prin reguli de compunere/calcul), valorile rezultatului(Y, care devine astfel dependent de X)
-   <br/>Asadar nu trebuie confundate conceptele de: independenta-relativa, asocierea(legatura implicita) si dependenta(legatura explicita).
+   <br/>Asadar nu trebuie confundate conceptele de:
+   <br/> - independenta-relativa,
+   <br/> - asocierea(legatura/dependenta-implicita) si
+   <br/> - dependenta(legatura-explicita).
+   <br/> - monotonia(crescator/descrescator cu variantele strict sau nestrict ori nemonotona/aleatoare)
+   <br/> - liniaritate vs neliniaritate( si aici verificam daca am periodicitate sau nu...)
+   <br/> Testele vin sa studieze toate aspectele aceastea(si nu numai!...ChatGPT va poate ajuta aici!)
  - [ro-UMF-CV: reprezentarea grafica a datelor statistice](https://old.umfcv.ro/files/b/i/Biostatistica%20MG%20-%20Cursul%20IV.pdf)
  - [ro-UCV: Danciulescu Curs 7 - ANALIZA SERIILOR CRONOLOGICE](http://inf.ucv.ro/documents/danciulescu/curs7.pdf)
  - [Google-imagini: ...statistica  serii efectul pendul ML...](https://www.google.com/search?q=statistica++serii+efectul+pendul+ML&sca_esv=482345221402daf0&rlz=1C1CHBF_enRO1132RO1132&udm=2&biw=1920&bih=911&sxsrf=AHTn8zoUmkMoR8NKuYw8NcpRZE-H66siGQ%3A1746683111298&ei=50QcaNX3Eb6Exc8Pw4mL4AY&ved=0ahUKEwiVh4nTlZONAxU-QvEDHcPEAmwQ4dUDCBE&uact=5&oq=statistica++serii+efectul+pendul+ML&gs_lp=EgNpbWciI3N0YXRpc3RpY2EgIHNlcmlpIGVmZWN0dWwgcGVuZHVsIE1MSL1FULU7WKVCcAF4AJABAJgBc6AB1AKqAQMwLjO4AQPIAQD4AQGYAgCgAgCYAwCIBgGSBwCgB4cBsgcAuAcA&sclient=img)
