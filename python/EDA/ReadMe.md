@@ -142,6 +142,7 @@ Si acum cateva ...
  - [ro-Hoteca: Distributii de frecventa, percentile si ierarhii-percentile](https://psihoteca.ro/distributii-de-frecventa-percentile-si-ierarhii-percentile/)
  - [ro-UBBU-CJ: Fizica-statistica](https://doctorat.ubbcluj.ro/sustinerea_publica/rezumate/2012/fizica/HORVAT_SZABOLCS_RO.pdf)
  - [md-UPB-Mathem: Modelarea matematica](https://dep2.mathem.upb.ro/pdf/didactice/Modelarea%20matematica%20prin%20Matlab.pdf)
+ - [md-ASE-Lia POPOVICI: STATISTICA PENTRU ÎNVĂȚĂMÂNTUL PROFESIONAL TEHNIC SUPORT DE CURS Chișinău - 2023 ](https://irek.ase.md/xmlui/bitstream/handle/123456789/2661/Popovici%20Lia_Statistica.pdf?sequence=1&isAllowed=y)
  - [ro-RevistaDeStatistica: Metode şi procedee de ajustare a datelor pe baza seriilor cronologice utilizate în analiza tendinţei dezvoltării diferitelor domenii de activitate social-economică](https://www.revistadestatistica.ro/wp-content/uploads/2014/02/RRS_7_2012_A2_ro.pdf)
  - [ro-wiki: Pendul gravitational ideal(neamortizat)](https://ro.wikipedia.org/wiki/Pendul_gravita%C8%9Bional); [miscarea oscilatorie](http://www.physics.pub.ro/Referate/BN122B/Studiul_miscarii_oscilatorii_cu_ajutorul_PENDULULUI_de_TORSIUNE.pdf);
    <br/>[ro-edituraADP-Fizica XI: miscarea oscilatorie armonica amortizata](https://edituradp.ro/site_img/downloads/2016/05/pagini-fizica-xi.pdf);
