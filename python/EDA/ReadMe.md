@@ -138,7 +138,8 @@ Si acum cateva ...
 
 <hr/><br/>
 
- - [ro-ASE-SPSS: analiza multivariata a datelor](https://orzanm.ase.ro/spss/pdf/Analiza%20multivariata%20a%20datelor.pdf)
+ - [ro-ASE-SPSS: analiza multivariata a datelor](https://orzanm.ase.ro/spss/pdf/Analiza%20multivariata%20a%20datelor.pdf);
+ - [ro-Hoteca: Distributii de frecventa, percentile si ierarhii-percentile](https://psihoteca.ro/distributii-de-frecventa-percentile-si-ierarhii-percentile/)
  - [ro-UBBU-CJ: Fizica-statistica](https://doctorat.ubbcluj.ro/sustinerea_publica/rezumate/2012/fizica/HORVAT_SZABOLCS_RO.pdf)
  - [md-UPB-Mathem: Modelarea matematica](https://dep2.mathem.upb.ro/pdf/didactice/Modelarea%20matematica%20prin%20Matlab.pdf)
  - [ro-RevistaDeStatistica: Metode şi procedee de ajustare a datelor pe baza seriilor cronologice utilizate în analiza tendinţei dezvoltării diferitelor domenii de activitate social-economică](https://www.revistadestatistica.ro/wp-content/uploads/2014/02/RRS_7_2012_A2_ro.pdf)
