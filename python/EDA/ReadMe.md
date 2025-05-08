@@ -22,7 +22,7 @@ A). pt partea de antrenament/train(perioada istorica IAN-01-2024 - FEB-14-2025) 
   unde M este coloana categoriala de intentitati ale influentei astrale(combinatie de 2 planete);
   dupa cum va asteptati alaturi de M  atat L cat si rezultanta lor N sunt coloane categoriale
 
-B). pt partea de testare in (10)fisiere (splitate) zilnic:
+B). pt partea de testare in (10)fisiere (splitate/impartite/separate) zilnic:
 
  - restul celor 10 zile/fisiere-zilnice .xlsx cu denumite dupa sablonul Daily__MMDDYYYY.xls unde MM=02(FEB), YYYY=2025(anul curent) si DD=15-24(zilele in care s-au prelevat date de testare din luna FEB-2025)
 
