@@ -163,7 +163,8 @@ Si acum cateva ...
 
  - [ro-ASE-SPSS: analiza multivariata a datelor](https://orzanm.ase.ro/spss/pdf/Analiza%20multivariata%20a%20datelor.pdf);
  - [ro-Hoteca: Distributii de frecventa, percentile si ierarhii-percentile](https://psihoteca.ro/distributii-de-frecventa-percentile-si-ierarhii-percentile/)
-   <br/>[distrib.-t vs. distrib.-Normala](https://www.investorhood.ro/distributia-t-in-analiza-probabilitatilor/)
+ - [distrib.-t vs. distrib.-Normala](https://www.investorhood.ro/distributia-t-in-analiza-probabilitatilor/)
+ - [](Indicatori ai formei distributiei](https://www.scribd.com/document/534803630/Tema-Indicatorii-ai-formei-distributiei-si-concentrarii)
  - [ro-UBBU-CJ: Fizica-statistica](https://doctorat.ubbcluj.ro/sustinerea_publica/rezumate/2012/fizica/HORVAT_SZABOLCS_RO.pdf)
  - [md-UPB-Mathem: Modelarea matematica](https://dep2.mathem.upb.ro/pdf/didactice/Modelarea%20matematica%20prin%20Matlab.pdf)
  - [md-ASE-Lia POPOVICI: STATISTICA PENTRU ÎNVĂȚĂMÂNTUL PROFESIONAL TEHNIC SUPORT DE CURS Chișinău - 2023 ](https://irek.ase.md/xmlui/bitstream/handle/123456789/2661/Popovici%20Lia_Statistica.pdf?sequence=1&isAllowed=y)
