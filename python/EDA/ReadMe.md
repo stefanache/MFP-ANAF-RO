@@ -165,6 +165,7 @@ Si acum cateva ...
  - [ro-UAIC: Organizarea datelor statistice](https://www.math.uaic.ro/~eduard/Capitolul%201.%20Organizarea%20datelor%20statistice.pdf)
  - [ro-UPT-mec: Analiza Exploratorie a unei serii de Date](https://mctr.mec.upt.ro/wp-content/uploads/2018/12/ADE_2.pdf)
  - [ro-INSSE: metogologie/strategie](https://insse.ro/cms/files/statistici/comunicate/somaj_BIM/a20/precizari_metodologice_dec.pdf)
+ - [ro-teleWork: Analiza datelor](https://www.telework.ro/ro/analiza-datelor/)
  - [ro-teleWork: Modelarea datelor pt BD](https://www.telework.ro/ro/modelarea-datelor-pentru-baza-de-date/)
  - [...](https://www.google.com/search?q=statistica++efectul+pendul&sca_esv=482345221402daf0&rlz=1C1CHBF_enRO1132RO1132&sxsrf=AHTn8zr5FTi6xtTaPdaQ91kGM6IdfiW7Mg%3A1746681660523&ei=PD8caMLZH9-Jxc8PscKyoAo&ved=0ahUKEwjC56SfkJONAxXfRPEDHTGhDKQQ4dUDCBA&uact=5&oq=statistica++efectul+pendul&gs_lp=Egxnd3Mtd2l6LXNlcnAiGnN0YXRpc3RpY2EgIGVmZWN0dWwgcGVuZHVsMgUQABjvBTIIEAAYogQYiQUyBRAAGO8FMggQABiiBBiJBTIIEAAYogQYiQVI5HlQAFjUd3AAeACQAQCYAZsBoAHCH6oBBDAuMzO4AQPIAQD4AQGYAiGgApwgwgIEECMYJ8ICCxAAGIAEGLEDGIMBwgIOEAAYgAQYsQMYgwEYigXCAg4QLhiABBixAxjRAxjHAcICChAAGIAEGEMYigXCAggQLhiABBixA8ICCBAAGIAEGLEDwgILEC4YgAQYsQMYgwHCAhAQLhiABBhDGMcBGIoFGK8BwgIFEAAYgATCAgUQLhiABMICCxAuGIAEGMcBGK8BwgIIEAAYgAQYywHCAgYQABgWGB7CAggQABgWGAoYHsICBRAhGKABwgIIEAAYgAQYogTCAgQQIRgVwgIFECEYnwXCAgYQABgIGB6YAwCSBwQwLjMzoAeM3QGyBwQwLjMzuAecIA&sclient=gws-wiz-serp)
 <br/><hr/>
