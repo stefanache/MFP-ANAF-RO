@@ -120,10 +120,13 @@ Nota:
       De pilda, daca aveti disponibila ziua(DD), o puteti vedea, daca o analizati, ca fiind a <i>n</i>-a zi a saptamanii si deci 
       mai departe veti vedea  ca aceste valori calculate se vor repeta luand valorile...1,2,3,4,5,6,7;
       Cu alte cuvinte ati putea dezvolta analiza fie pe ziua din luna dar si pe ziua 1/2/3/4/5/6/7 a/din saptaman[ii/a], si mai departe 
-      fie pe saptamani si apoi pe decade, apoi pe luni ale anului si tot asa... folosind intervale/frecvente/grupari temporale din ce 
-      in ce mai mari.
-      Intrinsec ziua(DD) se va repeta si va lua valori intre 1 si 30/31 ... la fel si lunile(MM) ascund o cicilicitate luand valori 
-      in intervalul 1-12, in cadrul unui an(YYYY).
+      fie pe saptamani si apoi pe decade(10 zile), apoi pe luni ale anului si tot asa... folosind intervale/frecvente/grupari temporale 
+      din ce in ce mai mari.
+      Intrinsec ziua(DD) se va repeta si va lua valori intre 1 si 30/31 ... 
+      La fel si lunile(MM) ascund o cicilicitate luand valori in intervalul 1-12, in cadrul unui an(YYYY).
+      Si aici am putea extinde analiza la trimestre(4 luni) si semestre(6 luni), dupa caz.
+      Atomizarea sau gruparea si in general frecventa datelor temporale poate constitui un bun prilej/factor de analiza in cazul seriilor
+      temporale.
       Veti beneficia astfel de mai multe ciclicitati in analiza/explorarea datelor puse la dispozitie!
     - coloana Q se poate determina din coloana P, Q fiind "calculata/evaluata/determinata" ca fiind : Q = year(P), deci dedusa din
       coloana P. 
