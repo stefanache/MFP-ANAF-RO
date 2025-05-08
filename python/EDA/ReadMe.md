@@ -1,6 +1,6 @@
 Salut!
 
-Am postat aici o [explorare](https://old.umfcv.ro/files/b/i/Biostatistica%20MG%20-%20Cursul%207%20-%20Teste%20statistice.pdf) de date(Analaiza Exploratorie a Datelor=EDA) pt o predictie [statistica](https://moodle.fspac.ubbcluj.ro/pluginfile.php/96733/course/overviewfiles/Programul%20SPSS-%20%281%29%20%281%29.pdf?forcedownload=1)/ML.
+Am postat aici o [explorare](https://old.umfcv.ro/files/b/i/Biostatistica%20MG%20-%20Cursul%207%20-%20Teste%20statistice.pdf) de date(Analaiza Exploratorie a Datelor=[EDA](https://www.geeksforgeeks.org/what-is-exploratory-data-analysis/?ref=rp)) pt o predictie [statistica](https://moodle.fspac.ubbcluj.ro/pluginfile.php/96733/course/overviewfiles/Programul%20SPSS-%20%281%29%20%281%29.pdf?forcedownload=1)/ML.
 
 [Interesanta](https://chatgpt.com/share/6819fdc8-07e8-800b-8aa6-b51458f13e49) este/a fost si [discutia](https://chatgpt.com/share/681b81d9-13fc-800b-bc48-9905815200c1) cu [ChatGPT](https://chatgpt.com/share/6819fdc8-07e8-800b-8aa6-b51458f13e49).
 
