@@ -124,7 +124,7 @@ Nota:
       O discretizare intr-un grad cat mai inalt(asa cum ai trece de la la numere Natura/Intregi la numere rationale si apoi la numere cu 
       o zecimala si apoi la 2,3,...n zecimale... ca sa nu mai vorbim de numere periodice) poate aduce lucruri noi in evaluarea noastra,
       greu de vazut/surprins daca acestea nu sunt vazute in amanunt in sirurile de valori/seriile dependente de factorul/variabila timp
-      (serii temporale: calendaristice sau de ce nu se poate adanci/largi discretizarea, atat in sensul micsorarii mergand la: ore, minute,
+      (serii temporale: calendaristice sau de ce nu se poate adanci/largi discretizarea, atat in sensul micsorarii mergand la: ore,minute,
       secunde,zecimi-de-secunda,sutimi-de-secunda,miimi-de secunda,... ori in sensul majorarii pasului de esantionare: bianual,tri-anual,
       4/cvadru-anual, 5-anual/5-ani/cincinale,...decenii,secole/veacuri,milenii...).
       Cuanta de timp(pasul esantionarii), fie ea discretizata/aproximata/rotunjita, in sensul misorarii, sau in sensul majorarii, 
