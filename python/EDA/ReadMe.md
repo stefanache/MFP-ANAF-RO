@@ -125,8 +125,8 @@ Nota:
       Intrinsec ziua(DD) se va repeta si va lua valori intre 1 si 30/31 ... 
       La fel si lunile(MM) ascund o cicilicitate luand valori in intervalul 1-12, in cadrul unui an(YYYY).
       Si aici am putea extinde analiza la trimestre(4 luni) si semestre(6 luni), dupa caz.
-      Atomizarea sau gruparea si in general frecventa datelor temporale poate constitui un bun prilej/factor de analiza in cazul seriilor
-      temporale.
+      Atomizarea sau gruparea si in general frecventa datelor temporale poate constitui un bun prilej/factor de analiza, in cazul 
+      explorarii-statistice a seriilor-temporale(calendaristice in acest caz).
       Veti beneficia astfel de mai multe ciclicitati in analiza/explorarea datelor puse la dispozitie!
     - coloana Q se poate determina din coloana P, Q fiind "calculata/evaluata/determinata" ca fiind : Q = year(P), deci dedusa din
       coloana P. 
