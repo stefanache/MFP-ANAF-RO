@@ -137,5 +137,9 @@ Si acum cateva ...
     <summary>...Link-uri utile...</summary>
 
 <hr/><br/>
+
  - [ASE-SPSS: analiza multivariata a datelor](https://orzanm.ase.ro/spss/pdf/Analiza%20multivariata%20a%20datelor.pdf)
+
+<br/><hr/>
+
 </details>
