@@ -232,6 +232,7 @@ Si acum cateva ...
  - [UMFcj: Indrumar/Indicatii Laborator](https://www.info.umfcluj.ro/images/Laboratoare/Ro/indicatii_ro.pdf)
  - [indexCopernicus: Utilizarea metodelor statistice in padagogie](https://journals.indexcopernicus.com/api/file/viewByFileId/1291474)
  - [testul de Independenta - [c]hi pătrat/^2](https://www.ibm.com/docs/ro/cognos-analytics/11.2.x?topic=tests-chi-square-test-independence)
+ - [IBM: Testul hi<sup>2</sup> pt frecvente egale](https://www.ibm.com/docs/ro/cognos-analytics/11.1.x?topic=tests-chi-square-test-equal-frequencies)
  - [scriBD-curs-IBM: Teste-Statistice](https://www.scribd.com/document/421618353/Teste-Statistice-Material-Curs-ibm)
  - [IBM: termeni statistici](https://www.ibm.com/docs/ro/cognos-analytics/11.2.x?topic=dashboards-statistical-terms)
  - [IBM: Curs recapitulativ](https://www.scribd.com/document/551465973/IBM-Curs-Recapitulativ-TIMAR-1)
