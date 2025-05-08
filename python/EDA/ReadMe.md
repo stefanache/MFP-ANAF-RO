@@ -107,7 +107,7 @@ Ar trebui/hai sa ne aruncam o privire a valorilor care se repeta sau variaza pe 
 Nota:
     - desi L,M si N sunt 3 coloane care NU sunt independente intre ele(una obtinandu-se din celelalte 2),
       N fiind o variabila-externa, compusa(N este o variabila externa/exogena/explicativa a seriei studiate: H(P)=y(t)...unde 
-      H joaca  rolul lui y iar coloana P joaca rolul lui t/timpul-calendaristic) din variabilele sale simple/componente L si M, 
+      H joaca  rolul lui y iar coloana P joaca rolul lui t/timpul-calendaristic) din variabilele sale simple/componente(L si M), 
       totusi cred ca L si M , trebuie avute  in vedere(luate in considerare/calcul) atunci cand analizam rezultatele din col-tinta H, 
       doarece <b><i>s-ar putea </i></b>, ca aceste 2 componente / variabile-exogene(x1=L si x2=M ia x=(x1,x2) unde x este variabila 
       explicativa exogena N(P)=x(t), ierarhic-superioara componentelor sale structurale, x1 si x2), sa joace un rol interesant / 
