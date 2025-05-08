@@ -15,7 +15,7 @@ Ideea este ca am o arhiva zip([Files_for_Prediction_Model.zip](https://github.co
 Arhiva contine urmatoarele:
 
 A). pt partea de antrenament/train(perioada istorica IAN-01-2024 - FEB-14-2025) :
-- aHistorical_01012024_02142025.xlsx ce contine datele de tran/invatare/antrenament(nu trebui splitat pt [testare](https://www.ibm.com/docs/ro/cognos-analytics/11.2.x?topic=dashboards-statistical-tests) deoarece alte date sunt livrate pt testare)
+- aHistorical_01012024_02142025.xlsx ce contine datele de train/invatare/antrenament(nu trebui splitat pt [testare](https://www.ibm.com/docs/ro/cognos-analytics/11.2.x?topic=dashboards-statistical-tests) deoarece alte date sunt livrate pt testare)
 - 2 dictionare(index-uri) unul pt coloana L(combinatia de 2 planete) si unul pt coloana N(L concatenat cu M si separat cu '-'):
     - bColumn_L_Signs_Symbols.xlsx
     - bColumn_N_Signs_Symbols.xlsx
