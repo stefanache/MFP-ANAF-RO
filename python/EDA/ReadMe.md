@@ -127,6 +127,7 @@ Nota:
       coloana P. 
       Prin urmare, la coloana Q, se poate renunta fara probleme(eliminarea ei nu va duce la pierdere de informatie,
       si deci nu se va simti lipsa acesteia...).
+    - avand 10 zile de date pt testare(ma duce cu gandul la o analiza decadala atunci cand grupam datele...:)
     - coloanelel A si B pot consituie un foarte bun instrument de identificare a jucatorilo din cadrul 
       randurilor/meciurilor, dar numele jucatorului/data nasterii care identifica un tenismen anume veti vedea ca se 
       pot repeta, pt ca acestia pot participa la mai multe meciuri/jocuri(si chiar turnee/competitii sportive!)
