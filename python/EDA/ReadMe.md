@@ -24,7 +24,7 @@ A). pt partea de antrenament/train(perioada istorica IAN-01-2024 - FEB-14-2025) 
 
 B). pt partea de testare in (10)fisiere (splitate) zilnic:
 
- - restul celor 10 fisiere .xlsx cu denumite dupa sablonul Daily__MMDDYYYY.xls unde MM=02(FEB), YYYY=2025(anul curent) si DD=15-24(zilele in care s-au prelevat date de testare din luna FEB-2025)
+ - restul celor 10 zile/fisiere-zilnice .xlsx cu denumite dupa sablonul Daily__MMDDYYYY.xls unde MM=02(FEB), YYYY=2025(anul curent) si DD=15-24(zilele in care s-au prelevat date de testare din luna FEB-2025)
 
 Cerinta proiectului este urmatoarea:
 
