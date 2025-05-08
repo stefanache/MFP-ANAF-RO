@@ -125,8 +125,8 @@ Nota:
       o zecimala si apoi la 2,3,...n zecimale... ca sa nu mai vorbim de numere periodice) poate aduce lucruri noi in evaluarea noastra,
       greu de vazut/surprins daca acestea nu sunt vazute in amanunt in sirurile de valori/seriile dependente de timp(temporale: 
       calendaristice).
-      Cuanta de timp, fie ea discretizata/aproximata/rotunjita, in sensul misorarii, sau in sensul majorarii, NU trebuie sa  fie 
-      ignorata, in analizele dumneavoastra viitoare!
+      Cuanta de timp(pasul esantionarii), fie ea discretizata/aproximata/rotunjita, in sensul misorarii, sau in sensul majorarii, 
+      NU trebuie sa  fie ignorata, in analizele dumneavoastra viitoare!
       De pilda, daca aveti disponibila ziua(DD), o puteti vedea, daca o analizati, ca fiind a <i>n</i>-a zi a saptamanii si deci 
       mai departe veti vedea  ca aceste valori calculate se vor repeta luand valorile...1,2,3,4,5,6,7;
       Cu alte cuvinte ati putea dezvolta analiza fie pe ziua din luna dar si pe ziua 1/2/3/4/5/6/7 a/din saptaman[ii/a], si mai departe 
