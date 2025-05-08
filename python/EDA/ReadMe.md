@@ -129,4 +129,13 @@ Nota:
 </pre>
 
 <br/><hr/>
-</details>details>
+</details>
+
+Si acum cateva ...
+
+<details>
+    <summary>...Link-uri utile...</summary>
+
+<hr/><br/>
+ - [ASE-SPSS: analiza multivariata a datelor](https://orzanm.ase.ro/spss/pdf/Analiza%20multivariata%20a%20datelor.pdf)
+</details>
