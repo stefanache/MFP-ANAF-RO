@@ -114,13 +114,14 @@ Nota:
       important, in explicatia evolutiei/comportamentului(in timp) a acesteia(coloanei-tinta/de rezultate H=y)
     - coloana P(dimensiunea temporala/calendaristica) trebuie pastrata pentru a ordona randurile dupa aceasta si 
       pt a se utiliza atunci cand rezultatele(col. H) vor fi vazute/analizate ca o serie-calendaristica/temporala.
-      Coloana P desi ar putea fi inlocuita cu un index trebuie sa va spun ca nu este in regula 
-      sa se procedeze astfel, deoarece o coloana de tip data calendaristica(ascunde alte date-componente 
-      simple cum este ziua,luna si anul... date care permit analiza ciclicitatii/sezonalitatii...temporale).
+      Coloana P, desi ar putea fi inlocuita cu un index, trebuie sa va spun ca nu este in regula sa se procedeze astfel, deoarece o 
+      coloana de tip data calendaristica(ascunde alte date-componente simple, cum ar fi ziua,luna si anul... date care permit analiza 
+      ciclicitatii/sezonalitatii...temporale).
       De pilda, daca aveti disponibila ziua(DD), o puteti vedea, daca o analizati, ca fiind a <i>n</i>-a zi a saptamanii si deci 
       mai departe veti vedea  ca aceste valori calculate se vor repeta luand valorile...1,2,3,4,5,6,7;
-      Cu alte cuvinte ati putea dezvolta analiza fie pe ziua 1/2/3/4/5/6/7 a/din saptaman[ii/a], fie pe saptamani si
-      apoi pe decade, apoi pe luni ale anului si tot asa... folosind intervale/frecvente/grupari temporale din ce in ce mai mari.
+      Cu alte cuvinte ati putea dezvolta analiza fie pe ziua din luna dar si pe ziua 1/2/3/4/5/6/7 a/din saptaman[ii/a], si mai departe 
+      fie pe saptamani si apoi pe decade, apoi pe luni ale anului si tot asa... folosind intervale/frecvente/grupari temporale din ce 
+      in ce mai mari.
       Intrinsec ziua(DD) se va repeta si va lua valori intre 1 si 30/31 ... la fel si lunile(MM) ascund o cicilicitate luand valori 
       in intervalul 1-12, in cadrul unui an(YYYY).
       Veti beneficia astfel de mai multe ciclicitati in analiza/explorarea datelor puse la dispozitie!
