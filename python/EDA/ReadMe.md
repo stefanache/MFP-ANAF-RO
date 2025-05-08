@@ -148,6 +148,7 @@ Si acum cateva ...
    [ro-wiki: Rezonanta](https://ro.wikipedia.org/wiki/Rezonan%C8%9B%C4%83)
    [ro-INSSE- statistici](http://statistici.insse.ro/tempoins/index.jsp?page=tempo3&lang=ro&ind=EXP102F)
    [ro-stuDocu: Corelatia seriala](https://www.studocu.com/ro/document/universitatea-transilvania-din-brasov/econometrics/corelatia-seriala/33449333)
+   ro-[UMF-CV: reprezentarea grafica a datelor statistice](https://old.umfcv.ro/files/b/i/Biostatistica%20MG%20-%20Cursul%20IV.pdf)
  - [...](https://www.google.com/search?q=statistica++efectul+pendul&sca_esv=482345221402daf0&rlz=1C1CHBF_enRO1132RO1132&sxsrf=AHTn8zr5FTi6xtTaPdaQ91kGM6IdfiW7Mg%3A1746681660523&ei=PD8caMLZH9-Jxc8PscKyoAo&ved=0ahUKEwjC56SfkJONAxXfRPEDHTGhDKQQ4dUDCBA&uact=5&oq=statistica++efectul+pendul&gs_lp=Egxnd3Mtd2l6LXNlcnAiGnN0YXRpc3RpY2EgIGVmZWN0dWwgcGVuZHVsMgUQABjvBTIIEAAYogQYiQUyBRAAGO8FMggQABiiBBiJBTIIEAAYogQYiQVI5HlQAFjUd3AAeACQAQCYAZsBoAHCH6oBBDAuMzO4AQPIAQD4AQGYAiGgApwgwgIEECMYJ8ICCxAAGIAEGLEDGIMBwgIOEAAYgAQYsQMYgwEYigXCAg4QLhiABBixAxjRAxjHAcICChAAGIAEGEMYigXCAggQLhiABBixA8ICCBAAGIAEGLEDwgILEC4YgAQYsQMYgwHCAhAQLhiABBhDGMcBGIoFGK8BwgIFEAAYgATCAgUQLhiABMICCxAuGIAEGMcBGK8BwgIIEAAYgAQYywHCAgYQABgWGB7CAggQABgWGAoYHsICBRAhGKABwgIIEAAYgAQYogTCAgQQIRgVwgIFECEYnwXCAgYQABgIGB6YAwCSBwQwLjMzoAeM3QGyBwQwLjMzuAecIA&sclient=gws-wiz-serp)
 <br/><hr/>
 
