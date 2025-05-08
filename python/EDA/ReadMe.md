@@ -178,6 +178,9 @@ Si acum cateva ...
    <br/>Corelația se referă la o clasă largă de relații statistice care implică Dependența
    <br/>Un coeficient de Corelatie mai mare de 0,75 (sau mai mic de -0,75) inseamna o corelatie/[asociere](https://dexonline.ro/definitie/asociere) puternica/semnificativa (grad de Asociere foarte bun/taria legaturii este semnificativa).
    <br/> -0,25 < r < 0,25 sau echivalent |r| < 0.25 grad de asociere(taria legaturii/dependentei/asocierii) foarte bun sau semnificativ!
+   <br/> Corelatia ne arata doar cat de puternica/tare/semnificativa este o legatura(stiind deja ca am detectat o legatura intre 2 variabile)
+   <br/> Corelatia nu ne spune sau nu detecteaza daca intre 2 variabile exista vreo relatie/legatura si nici natura legaturii(adica daca este
+   <br/>liniara sau neliniara, ori daca este cicla sau aciclica/periodica...etc)
  - [ro-UMF-CV: reprezentarea grafica a datelor statistice](https://old.umfcv.ro/files/b/i/Biostatistica%20MG%20-%20Cursul%20IV.pdf)
  - [ro-UCV: Danciulescu Curs 7 - ANALIZA SERIILOR CRONOLOGICE](http://inf.ucv.ro/documents/danciulescu/curs7.pdf)
  - [Google-imagini: ...statistica  serii efectul pendul ML...](https://www.google.com/search?q=statistica++serii+efectul+pendul+ML&sca_esv=482345221402daf0&rlz=1C1CHBF_enRO1132RO1132&udm=2&biw=1920&bih=911&sxsrf=AHTn8zoUmkMoR8NKuYw8NcpRZE-H66siGQ%3A1746683111298&ei=50QcaNX3Eb6Exc8Pw4mL4AY&ved=0ahUKEwiVh4nTlZONAxU-QvEDHcPEAmwQ4dUDCBE&uact=5&oq=statistica++serii+efectul+pendul+ML&gs_lp=EgNpbWciI3N0YXRpc3RpY2EgIHNlcmlpIGVmZWN0dWwgcGVuZHVsIE1MSL1FULU7WKVCcAF4AJABAJgBc6AB1AKqAQMwLjO4AQPIAQD4AQGYAgCgAgCYAwCIBgGSBwCgB4cBsgcAuAcA&sclient=img)
