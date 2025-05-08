@@ -117,6 +117,16 @@ Nota:
       Coloana P, desi ar putea fi inlocuita cu un index, trebuie sa va spun ca nu este in regula sa se procedeze astfel, deoarece o 
       coloana de tip data calendaristica(ascunde alte date-componente simple, cum ar fi ziua,luna si anul... date care permit analiza 
       ciclicitatii/sezonalitatii...temporale).
+      Indexul temporal, va permite/asigura in continuare, ordonarea in timp, dar ea va omite/ascunde ciclicitatile/repetarea din cadrul 
+      elementelor/sirului de date temporale si prin urmare se pierd informatii constitutive importante, de frecventa.
+      Cu alte cuvinte se va face/prefera o esantionare mai grosiera, in locul uneia mai detailate/atomizate/precise avand deci in final,
+      o granularitate/grad de investigare mai mare/imprecisa.
+      O discretizare intr-un grad cat mai inalt(asa cum ai trece de la la numere Natura/Intregi la numere rationale si apoi la numere cu 
+      o zecimala si apoi la 2,3,...n zecimale... ca sa nu mai vorbim de numere periodice) poate aduce lucruri noi in evaluarea noastra,
+      greu de vazut/surprins daca acestea nu sunt vazute in amanunt in sirurile de valori/seriile dependente de timp(temporale: 
+      calendaristice).
+      Cuanta de timp, fie ea discretizata/aproximata/rotunjita, in sensul misorarii, sau in sensul majorarii, NU trebuie sa  fie 
+      ignorata, in analizele dumneavoastra viitoare!
       De pilda, daca aveti disponibila ziua(DD), o puteti vedea, daca o analizati, ca fiind a <i>n</i>-a zi a saptamanii si deci 
       mai departe veti vedea  ca aceste valori calculate se vor repeta luand valorile...1,2,3,4,5,6,7;
       Cu alte cuvinte ati putea dezvolta analiza fie pe ziua din luna dar si pe ziua 1/2/3/4/5/6/7 a/din saptaman[ii/a], si mai departe 
