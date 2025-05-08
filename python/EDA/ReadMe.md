@@ -111,7 +111,7 @@ Nota:
       in vedere(luate in considerare/calcul) atunci cand analizam rezultatele din col-tinta H, doarece <b><i>s-ar putea </i></b>, 
       ca aceste 2 componente / variabile-exogene(x1=L si x2=M ia x=(x1,x2) unde x este variabila explicativa exogena N(P)=x(t), 
       ierarhic-superioara componentelor sale structurale, x1 si x2), sa joace un rol interesant/important, in explicatia acesteia
-      (col. de rezultate H)
+      (coloanei de rezultate H=y)
     - coloana P(dimensiunea temporala/calendaristica) trebuie pastrata pentru a ordona randurile dupa aceasta si 
       pt a se utiliza atunci cand rezultatele(col. H) vor fi vazute/analizate ca o serie-calendaristica/temporala.
       Coloana P desi ar putea fi inlocuita cu un index trebuie sa va spun ca nu este in regula 
