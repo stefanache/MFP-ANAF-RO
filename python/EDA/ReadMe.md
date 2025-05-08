@@ -124,9 +124,10 @@ Nota:
   O discretizare intr-un grad cat mai inalt(asa cum ai trece de la la numere Natura/Intregi la numere rationale si apoi la numere cu 
   o zecimala si apoi la 2,3,...n zecimale... ca sa nu mai vorbim de numere periodice) poate aduce lucruri noi in evaluarea noastra,
   greu de vazut/surprins daca acestea nu sunt vazute in amanunt in sirurile de valori/seriile dependente de factorul/variabila timp
-  (serii temporale: calendaristice sau de ce nu se poate adanci/largi discretizarea, atat in sensul micsorarii mergand la: ore,minute,
-  secunde,zecimi-de-secunda,sutimi-de-secunda,miimi-de secunda,... ori in sensul majorarii pasului de esantionare: bianual,tri-anual,
-  4/cvadru-anual, 5-anual/5-ani/cincinale,...decenii,secole/veacuri,milenii...).
+  (serii temporale: calendaristice sau de ce nu se poate adanci/largi discretizarea, atat in sensul micsorarii mergand la o frecventa: 
+  de divizori ai celor 24 ore cat are ziua...12-ore=1/2 de zi, 8-ore, 6-ore, 4-ore(sfert de zi), 3-ore, 2-ore(bi-orar), orar,
+  minute(si divizori ai lui 60),secunde(si divizori ai lui 60),zecimi-de-secunda,sutimi-de-secunda,miimi-de secunda,... ori in sensul
+  majorarii pasului de esantionare: bianual,tri-anual, 4/cvadru-anual, 5-anual/5-ani/cincinale,...decenii,secole/veacuri,milenii...).
   Cuanta de timp(pasul esantionarii), fie ea discretizata/aproximata/rotunjita, in sensul misorarii, sau in sensul majorarii, 
   NU trebuie sa  fie ignorata, in analizele dumneavoastra viitoare!
   De pilda, daca aveti disponibila ziua(DD), o puteti vedea, daca o analizati, ca fiind a <i>n</i>-a zi a saptamanii si deci 
