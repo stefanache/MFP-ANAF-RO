@@ -138,8 +138,9 @@ Si acum cateva ...
 
 <hr/><br/>
 
- - [ASE-SPSS: analiza multivariata a datelor](https://orzanm.ase.ro/spss/pdf/Analiza%20multivariata%20a%20datelor.pdf)
-
+ - [ro-ASE-SPSS: analiza multivariata a datelor](https://orzanm.ase.ro/spss/pdf/Analiza%20multivariata%20a%20datelor.pdf)
+ - [md-UPB-Mathem: Modelarea matematica](https://dep2.mathem.upb.ro/pdf/didactice/Modelarea%20matematica%20prin%20Matlab.pdf)
+ - 
 <br/><hr/>
 
 </details>
