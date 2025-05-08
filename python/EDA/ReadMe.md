@@ -122,13 +122,13 @@ Nota:
       Intrinsec ziua(DD) se va repeta si va lua valori intre 1 si 30/31 ... la fel si lunile(MM) ascund o cicilicitate luand valori 
       in intervalul 1-12, in cadrul unui an(YYYY).
       Veti beneficia astfel de mai multe ciclicitati in analiza/explorarea datelor puse la dispozitie!
-    - coloana Q se poate determina din coloana P, Q fiind "calculata" ca: Q = year(P), deci dedusa din
-       coloana P. 
-       Prin urmare, la coloana Q, se poate renunta fara probleme(eliminarea ei nu va duce la pierdere de informatie,
-       si deci nu se va simti lipsa acesteia...).
+    - coloana Q se poate determina din coloana P, Q fiind "calculata/evaluata/determinata" ca fiind : Q = year(P), deci dedusa din
+      coloana P. 
+      Prin urmare, la coloana Q, se poate renunta fara probleme(eliminarea ei nu va duce la pierdere de informatie,
+      si deci nu se va simti lipsa acesteia...).
     - coloanelel A si B pot consituie un foarte bun instrument de identificare a jucatorilo din cadrul 
-       randurilor/meciurilor, dar numele jucatorului/data nasterii care identifica un tenismen anume veti vedea ca se 
-       pot repeta, pt ca acestia pot participa la mai multe meciuri/jocuri(si chiar turnee/competitii sportive!)
+      randurilor/meciurilor, dar numele jucatorului/data nasterii care identifica un tenismen anume veti vedea ca se 
+      pot repeta, pt ca acestia pot participa la mai multe meciuri/jocuri(si chiar turnee/competitii sportive!)
 </pre>
 
 <br/><hr/>
