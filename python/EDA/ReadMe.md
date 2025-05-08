@@ -4,7 +4,7 @@ Am [postat](https://www.google.com/search?q=python+how+conduct+EDA+statistics&sc
 
 [Interesanta](https://chatgpt.com/share/6819fdc8-07e8-800b-8aa6-b51458f13e49) este/a fost si [discutia](https://chatgpt.com/share/681b81d9-13fc-800b-bc48-9905815200c1) cu [ChatGPT](https://chatgpt.com/share/6819fdc8-07e8-800b-8aa6-b51458f13e49).
 
-Totul a plecat de la un concurs [Freelancer](https://www.freelancer.com/contest/time-series-forecasting-model-development-2553381)
+Totul a plecat de la un [concurs](https://medium.com/swlh/exploratory-data-analysis-eda-from-scratch-in-python-8c12c2673aa7)(nu de imprejurari!:) [Freelancer](https://www.freelancer.com/contest/time-series-forecasting-model-development-2553381)
 
 Am creat un batch([start_statistics.bat](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/EDA/start_statistics.bat)) ce poate fi rulat de sub windows.
 
