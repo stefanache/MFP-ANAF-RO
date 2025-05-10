@@ -153,7 +153,7 @@ Nota:
 
 <br/><hr/>
 </details>
-SA comparam corelatia(ex Pearson) si regresia(ex OLS)...
+Sa comparam corelatia(ex Pearson) si regresia(ex OLS)...
 <details>
     <summary>comparatie Corr vs. OLS</summary>
 
