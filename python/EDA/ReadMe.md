@@ -155,7 +155,7 @@ Nota:
 </details>
 SA comparam corelatia(ex Pearson) si regresia(ex OLS)...
 <details>
-    <summary></summary>
+    <summary>comparatie Corr vs. OLS</summary>
 
 <hr/>
 <br/>
