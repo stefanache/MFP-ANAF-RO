@@ -212,7 +212,7 @@ Iată ce înseamnă mai exact:
 
 📌 Concluzie:
 -Corelația este un indiciu că o relație între y și x ar putea exista, dar nu dovedește că y este determinată de x.
--Pentru a spune că y = f(x), ai nevoie de o modelare, de exemplu regresie, și de o validare statistică serioasă.
+-Pentru a spune că y = f(x), ai nevoie de o modelare, de exemplu regresie, și de o validare [statistică](https://ro.wikipedia.org/wiki/Statistic%C4%83) serioasă.
 
 
 Q2: daca y si x nu sunt corelate atunci nu poate avea loc cauzalitate adica nu poti determina pe y din x...e corect?
