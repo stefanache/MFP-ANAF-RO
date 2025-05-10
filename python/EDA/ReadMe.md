@@ -164,7 +164,6 @@ Sa comparam corelatia(ex Pearson) si regresia(ex OLS)...
 Scop: arată dacă x este un candidat pentru o relație liniară cu y.
 
 Ce face concret?:
-
  - Măsoară forța și direcția unei relații liniare.
  - Valori aproape de ±1 indică o relație liniară puternică (pozitivă sau negativă).
  - Nu presupune un model de regresie și nu face predicții.
@@ -174,7 +173,6 @@ Ce face concret?:
 Scop: estimează o relație de tip funcție: y=a⋅x+b+ε, adică cum y depinde de x.
 
 Ce face concret?:
-
  - Evaluează cât de bine x explică variația lui y.
  - Permite testarea semnificației relației (prin testul t pentru coeficientul lui x).
  - Poate include și alți predictori (multivariat).
@@ -182,146 +180,129 @@ Ce face concret?:
 
 🔍 Diferența-cheie:
 
- Concept	                    Corelație Pearson	        OLS (Regresie Liniară)
- -------                        ------------------          -----------------------
-
- <br/>Tip relație               Liniară (simetrică)          Liniară direcționată: y în funcție de x
- <br/>Poți face predicții?      ❌ Nu                       ✅ Da
- <br/>Test semnificație?        ❌ (nu direct)              ✅ (test t, F)
- <br/>Detectează influență?     ❌ (doar asociere)          ✅ (dacă coeficientul e semnificativ)
+ Concept	                Corelație Pearson	        OLS (Regresie Liniară)
+ -------                   ------------------          -----------------------
+ Tip relație               Liniară (simetrică)          Liniară direcționată: y în funcție de x
+ Poți face predicții?      ❌ Nu                       ✅ Da
+ Test semnificație?        ❌ (nu direct)              ✅ (test t, F)
+ Detectează influență?     ❌ (doar asociere)          ✅ (dacă coeficientul e semnificativ)
 
 ✅ Concluzie:
-
 Corelația identifică candidatul pentru o relație liniară, 
 iar OLS măsoară și modelează explicit această relație, 
 testând dacă influența este statistic semnificativă.
 
 Q1: corelatia a 2 coloane una target(y) si una candidata(x) arata ca y depinde/este o functie de x, y(x)?
-
 A1: Corelația dintre două coloane, una considerată target (y) și cealaltă candidată (x), 
-<br/>nu implică automat că y este o funcție de x, adică y(x) în sens matematic strict.
+    nu implică automat că y este o funcție de x, adică y(x) în sens matematic strict.
 
 Iată ce înseamnă mai exact:
 
 ✅ Ce sugerează corelația:
-
  - O corelație ridicată (pozitivă sau negativă) indică o relație liniară între cele două variabile. 
-   <br/>Cu cât coeficientul Pearson este mai aproape de +1 sau -1, cu atât relația liniară este mai puternică.
+   Cu cât coeficientul Pearson este mai aproape de +1 sau -1, cu atât relația liniară este mai puternică.
  - O astfel de relație sugerează că x poate avea un impact asupra lui y, sau cel puțin că ele variază împreună într-un anumit mod.
 
 ⚠️ Ce nu implică corelația:
-
  - Corelația nu înseamnă cauzalitate. Chiar dacă y și x sunt corelate, nu poți spune sigur că y este o funcție de x fără o analiză mai profundă.
  - Nu înseamnă automat că poți prezice exact y pe baza lui x (mai ales dacă relația nu e liniară sau e slabă).
  - Alte variabile pot influența y, iar x poate fi doar un efect colateral (variabilă confuză).
 
 📌 Concluzie:
-
  - Corelația este un indiciu că o relație între y și x ar putea exista, dar nu dovedește că y este determinată de x.
  - Pentru a spune că y = f(x), ai nevoie de o modelare, de exemplu regresie, și de o validare statistică serioasă.
 
-Q2: daca y si x nu sunt corelate atunci nu poate avea loc cauzalitate adica nu poti determina pe y din x...e corect?
 
+Q2: daca y si x nu sunt corelate atunci nu poate avea loc cauzalitate adica nu poti determina pe y din x...e corect?
 A2: Da, în mare parte este corect, dar cu niște nuanțe importante:
 
 ✅ Corect:
 
 Dacă x și y nu sunt corelate deloc (de exemplu, coeficient de corelație Pearson ≈ 0), atunci:
-
  - Nu există o relație liniară între ele.
  - Este puțin probabil ca x să poată prezice sau determina y printr-o relație simplă, mai ales liniară.
  - Într-un model de regresie simplu (fără alte variabile), x nu ajută la prezicerea lui y.
 
 ⚠️ Dar atenție:
-
 Lipsa de corelație NU exclude complet cauzalitatea.
-
  - Exemplu celebru: o relație non-liniară (ex: y=x<sup>2</sup>
-   <br/>are corelație liniară zero dacă x e distribuit simetric în jurul lui 0, dar x cauzează clar y.
+   are corelație liniară zero dacă x e distribuit simetric în jurul lui 0, dar x cauzează clar y.
  - Corelația Pearson măsoară <b>doar</b> relații/legaturi <b>liniare</b>.
-   <br/>Relațiile non-liniare (exponențiale, logaritmice, parabolice) pot exista chiar dacă corelația e zero.
+   Relațiile non-liniare (exponențiale, logaritmice, parabolice) pot exista chiar dacă corelația e zero.
  - Alte metode (corelația Spearman, mutual information etc.) pot detecta relații non-liniare.
 
 ✅ Concluzie:
-
  - Dacă nu există niciun tip de corelație (liniară sau non-liniară), atunci e foarte puțin probabil ca x să determine y.
  - Dar lipsa corelației liniare nu este suficientă pentru a afirma categoric că nu există cauzalitate — doar că nu e evidentă și nu e simplă.
 
 Q3: corelatia verifica liniaritatea doar?
-
 A3: Da, corelația Pearson — cea mai frecvent folosită — verifică doar liniaritatea relației dintre două variabile.
 
 🔍 Detalii:
 
 ✅ Corelația Pearson:
-
  - Măsoară forța și direcția relației liniare dintre două variabile.
  - Intervalul valorilor:
-       <br/>   −1 (relație liniară negativă perfectă), 
-       <br/>    0 (nicio relație liniară), 
-       <br/>   +1 (relație liniară pozitivă perfectă).
-
+          −1 (relație liniară negativă perfectă), 
+           0 (nicio relație liniară), 
+          +1 (relație liniară pozitivă perfectă).
  - Dacă y=a⋅x+b, atunci Pearson va fi aproape de +1 sau -1 (în funcție de semn).
 
 ❌ Ce nu detectează:
-
  - Relații non-liniare, cum ar fi:
-    <br/>    Parabolice: y=x<sup>2</sup> 
-    <br/>    Logaritmice: y=log(x)
-    <br/>    Exponențiale: 𝑦=e <sup>x</sup>
-
+        Parabolice: y=x<sup>2</sup> 
+        Logaritmice: y=log(x)
+        Exponențiale: 𝑦=e <sup>x</sup>
   - În astfel de cazuri, corelația Pearson poate fi aproape de zero, chiar dacă relația este clară și cauzală.
 
 🧠 Alte tipuri de corelație pentru relații non-liniare:
 
-   Tip corelație	        Detectează relații	                Exemple de utilizare
-   -------------           ------------------                  --------------------------------
-
- <br/>Pearson            	    Doar liniare	                    Regresie liniară, analize simple
- <br/>Spearman	                Monotone (nu doar liniare)	        Ordinală, scoruri, ranguri
- <br/>Kendall Tau	            Monotone	                        Date cu ranguri, date cu zgomot
- <br/>Mutual Information	    Orice relație (inclusiv complexă)	AI, ML, analiză avansată
+Tip corelație	        Detectează relații	                Exemple de utilizare
+-------------           ------------------                  --------------------------------
+Pearson            	    Doar liniare	                    Regresie liniară, analize simple
+Spearman	            Monotone (nu doar liniare)	        Ordinală, scoruri, ranguri
+Kendall Tau	            Monotone	                        Date cu ranguri, date cu zgomot
+Mutual Information	    Orice relație (inclusiv complexă)	AI, ML, analiză avansată
 
 ✅ Concluzie:
 Da, corelația (Pearson) testează doar liniaritatea. 
-<br/>Pentru a identifica relații mai generale, trebuie să folosești metode complementare.
+Pentru a identifica relații mai generale, trebuie să folosești metode complementare.
+
 
 Q4: si daca vreau sa stiu daca x influenteaza cumva y care este testul cel mai des folosit si ce detecteaza acesta?
-
-A4: Dacă vrei să afli dacă x influențează cumva y (adică dacă există o relație de tip cauzal sau predictiv între ele), atunci ai la dispoziție mai multe teste/statistici, în funcție de tipul de relație așteptată.
+A4: Dacă vrei să afli dacă x influențează cumva y (adică dacă există o relație de tip cauzal sau predictiv între ele), 
+    atunci ai la dispoziție mai multe teste/statistici, în funcție de tipul de relație așteptată.
 
 ✅ Cele mai frecvent folosite teste și ce detectează ele:
 
-   Test / metodă	                              Ce detectează?	                               Tip relație	                Observații
-   -----------------------------------------     --------------------------------------------   ----------------------  --------------------------------------------
-<br/>Regresie liniară (OLS)	                       Dacă x explică variația lui y	                Liniară	                Poți testa semnificația coeficientului lui x
-<br/>Test F (din regresie)	                       Dacă x (sau un set de x-uri) explică y	        Liniară	                Test global pentru toți predictorii
-<br/>Test t (coeficienți regresie)	               Dacă fiecare x influențează semnificativ y	    Liniară	                Dacă p < 0.05, x este un
-   <br/>                                                                                                                            predictor semnificativ
-<br/>Corelația Spearman/Kendall	                   Relații monotone (nu neapărat liniare)	        Monotonă	            Detectează trenduri
-   <br/>                                                                                                                           crescătoare/descrescătoare
-<br/>Mutual Information	                           Orice fel de relație (chiar foarte complexă)	    Generală	            Frecvent folosit în ML pentru
-   <br/>                                                                                                                           feature selection
-<br/>ANOVA (dacă x este categorial)	               Dacă grupurile x influențează valorile lui y	    Generală                Pentru variabile explicative categorice
-<br/>Granger Causality (pentru serii temporale)    Dacă trecutul lui x ajută la prezicerea lui y	Temporală (predictivă)	Nu e cauzalitate reală, dar e un indiciu
+   Test / metodă	                            Ce detectează?	                               Tip relație	                Observații
+   --------------------------------------     --------------------------------------------   ----------------------  --------------------------------------------
+Regresie liniară (OLS)	                       Dacă x explică variația lui y	                Liniară	                Poți testa semnificația coeficientului lui x
+Test F (din regresie)	                       Dacă x (sau un set de x-uri) explică y	        Liniară	                Test global pentru toți predictorii
+Test t (coeficienți regresie)	               Dacă fiecare x influențează semnificativ y	    Liniară	                Dacă p < 0.05, x este un
+                                                                                                                            predictor semnificativ
+Corelația Spearman/Kendall	                   Relații monotone (nu neapărat liniare)	        Monotonă	            Detectează trenduri
+                                                                                                                            crescătoare/descrescătoare
+Mutual Information	                           Orice fel de relație (chiar foarte complexă)	    Generală	            Frecvent folosit în ML pentru
+                                                                                                                            feature selection
+ANOVA (dacă x este categorial)	               Dacă grupurile x influențează valorile lui y	    Generală                Pentru variabile explicative categorice
+Granger Causality (pentru serii temporale)     Dacă trecutul lui x ajută la prezicerea lui y	Temporală (predictivă)	Nu e cauzalitate reală, dar e un indiciu
 
 🔎 Dacă ai o relație numerică între două variabile continue:
 
 1.Începi cu o regresie liniară simplă:
-
  - Te uiți la coeficientul lui x și la valoarea p asociată.
  - Dacă
-           <br/> p < 0.05 →
+           p < 0.05 →
    Atunci
-           <br/> → x este un predictor semnificativ pentru y.
+         → x este un predictor semnificativ pentru y.
 
 2.Dacă suspectezi relație non-liniară:
-
  - Încearcă o regresie polinomială sau
- - <br/>folosește Spearman sau
- - <br/>mutual information.
+ - folosește Spearman sau
+ - >mutual information.
 
-</pre>
+</small></pre>
 </br>
 <hr/>
 
