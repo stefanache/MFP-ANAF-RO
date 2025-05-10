@@ -182,15 +182,16 @@ Ce face concret?:
 
 🔍 Diferența-cheie:
 
-    Concept	                    Corelație Pearson	        OLS (Regresie Liniară)
-    -------                     ------------------          -----------------------
+ Concept	                    Corelație Pearson	        OLS (Regresie Liniară)
+ -------                        ------------------          -----------------------
 
- <br/>Tip relație	            Liniară (simetrică)	        Liniară direcționată: y în funcție de x
- <br/>Poți face predicții?	    ❌ Nu	                    ✅ Da
- <br/>Test semnificație?	    ❌ (nu direct)	            ✅ (test t, F)
-<br/>Detectează influență?	    ❌ (doar asociere)	        ✅ (dacă coeficientul e semnificativ)
+ <br/>Tip relație               Liniară (simetrică)          Liniară direcționată: y în funcție de x
+ <br/>Poți face predicții?      ❌ Nu                       ✅ Da
+ <br/>Test semnificație?        ❌ (nu direct)              ✅ (test t, F)
+<br/>Detectează influență?      ❌ (doar asociere)          ✅ (dacă coeficientul e semnificativ)
 
 ✅ Concluzie:
+
 Corelația identifică candidatul pentru o relație liniară, 
 iar OLS măsoară și modelează explicit această relație, 
 testând dacă influența este statistic semnificativă.
