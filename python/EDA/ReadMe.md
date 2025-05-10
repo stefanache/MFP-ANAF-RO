@@ -185,10 +185,10 @@ Ce face concret?:
     Concept	                    Corelație Pearson	        OLS (Regresie Liniară)
     -------                     ------------------          -----------------------
 
- - Tip relație	            Liniară (simetrică)	        Liniară direcționată: y în funcție de x
- - Poți face predicții?	    ❌ Nu	                    ✅ Da
- - Test semnificație?	    ❌ (nu direct)	            ✅ (test t, F)
- - Detectează influență?	❌ (doar asociere)	        ✅ (dacă coeficientul e semnificativ)
+ <br/>Tip relație	            Liniară (simetrică)	        Liniară direcționată: y în funcție de x
+ <br/>Poți face predicții?	    ❌ Nu	                    ✅ Da
+ <br/>Test semnificație?	    ❌ (nu direct)	            ✅ (test t, F)
+<br/>Detectează influență?	    ❌ (doar asociere)	        ✅ (dacă coeficientul e semnificativ)
 
 ✅ Concluzie:
 Corelația identifică candidatul pentru o relație liniară, 
@@ -258,7 +258,7 @@ A3: Da, corelația Pearson — cea mai frecvent folosită — verifică doar lin
  - Intervalul valorilor:
        <br/>   −1 (relație liniară negativă perfectă), 
        <br/>    0 (nicio relație liniară), 
-        <br/.  +1 (relație liniară pozitivă perfectă).
+        <br/>  +1 (relație liniară pozitivă perfectă).
 
  - Dacă y=a⋅x+b, atunci Pearson va fi aproape de +1 sau -1 (în funcție de semn).
 
@@ -276,10 +276,10 @@ A3: Da, corelația Pearson — cea mai frecvent folosită — verifică doar lin
    Tip corelație	        Detectează relații	                Exemple de utilizare
    -------------           ------------------                  --------------------------------
 
- - Pearson            	    Doar liniare	                    Regresie liniară, analize simple
- - Spearman	                Monotone (nu doar liniare)	        Ordinală, scoruri, ranguri
- - Kendall Tau	            Monotone	                        Date cu ranguri, date cu zgomot
- - Mutual Information	    Orice relație (inclusiv complexă)	AI, ML, analiză avansată
+ <br/>Pearson            	    Doar liniare	                    Regresie liniară, analize simple
+ <br/>Spearman	                Monotone (nu doar liniare)	        Ordinală, scoruri, ranguri
+ <br/>Kendall Tau	            Monotone	                        Date cu ranguri, date cu zgomot
+ <br/>Mutual Information	    Orice relație (inclusiv complexă)	AI, ML, analiză avansată
 
 ✅ Concluzie:
 Da, corelația (Pearson) testează doar liniaritatea. 
@@ -293,16 +293,16 @@ A4: Dacă vrei să afli dacă x influențează cumva y (adică dacă există o r
 
    Test / metodă	                              Ce detectează?	                            Tip relație	                Observații
    -----------------------------------------     --------------------------------------------   ----------------------  --------------------------------------------
- - Regresie liniară (OLS)	                     Dacă x explică variația lui y	                Liniară	                Poți testa semnificația coeficientului lui x
- - Test F (din regresie)	                     Dacă x (sau un set de x-uri) explică y	        Liniară	                Test global pentru toți predictorii
- - Test t (coeficienți regresie)	             Dacă fiecare x influențează semnificativ y	    Liniară	                Dacă p < 0.05, x este un
+<br/>Regresie liniară (OLS)	                     Dacă x explică variația lui y	                Liniară	                Poți testa semnificația coeficientului lui x
+<br/>Test F (din regresie)	                     Dacă x (sau un set de x-uri) explică y	        Liniară	                Test global pentru toți predictorii
+<br/>Test t (coeficienți regresie)	             Dacă fiecare x influențează semnificativ y	    Liniară	                Dacă p < 0.05, x este un
    <br/>                                                                                                                predictor semnificativ
- - Corelația Spearman/Kendall	                 Relații monotone (nu neapărat liniare)	        Monotonă	            Detectează trenduri
+ <br/>Corelația Spearman/Kendall	                 Relații monotone (nu neapărat liniare)	        Monotonă	            Detectează trenduri
    <br/>                                                                                                                           crescătoare/descrescătoare
- - Mutual Information	                         Orice fel de relație (chiar foarte complexă)	Generală	            Frecvent folosit în ML pentru
+<br/>Mutual Information	                         Orice fel de relație (chiar foarte complexă)	Generală	            Frecvent folosit în ML pentru
    <br/>                                                                                                                           feature selection
- - ANOVA (dacă x este categorial)	             Dacă grupurile x influențează valorile lui y	Generală	            Pentru variabile explicative categorice
- - Granger Causality (pentru serii temporale)    Dacă trecutul lui x ajută la prezicerea lui y	Temporală (predictivă)	Nu e cauzalitate reală, dar e un indiciu
+<br/>ANOVA (dacă x este categorial)	             Dacă grupurile x influențează valorile lui y	Generală	            Pentru variabile explicative categorice
+<br/>Granger Causality (pentru serii temporale)    Dacă trecutul lui x ajută la prezicerea lui y	Temporală (predictivă)	Nu e cauzalitate reală, dar e un indiciu
 
 🔎 Dacă ai o relație numerică între două variabile continue:
 
