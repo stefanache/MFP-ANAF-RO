@@ -181,7 +181,7 @@ Ce face concret?:
 🔍 Diferența-cheie:
 
  Concept	                Corelație Pearson	        OLS (Regresie Liniară)
- -------                   ------------------          -----------------------
+
  Tip relație               Liniară (simetrică)          Liniară direcționată: y în funcție de x
  Poți face predicții?      ❌ Nu                       ✅ Da
  Test semnificație?        ❌ (nu direct)              ✅ (test t, F)
