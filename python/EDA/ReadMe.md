@@ -201,10 +201,12 @@ Iată ce înseamnă mai exact:
 ✅ Ce sugerează corelația:
 -O corelație ridicată (pozitivă sau negativă) indică o relație liniară între cele două variabile. 
  Cu cât coeficientul Pearson este mai aproape de +1 sau -1, cu atât relația liniară este mai puternică.
--O astfel de relație sugerează că x poate avea un impact asupra lui y, sau cel puțin că ele variază împreună într-un anumit mod.
+-O astfel de relație sugerează că x poate avea un impact asupra lui y, sau 
+ cel puțin că ele variază împreună într-un anumit mod.
 
 ⚠️ Ce nu implică corelația:
--Corelația nu înseamnă cauzalitate. Chiar dacă y și x sunt corelate, nu poți spune sigur că y este o funcție de x fără o analiză mai profundă.
+-Corelația nu înseamnă cauzalitate. 
+ Chiar dacă y și x sunt corelate, nu poți spune sigur că y este o funcție de x fără o analiză mai profundă.
 -Nu înseamnă automat că poți prezice exact y pe baza lui x (mai ales dacă relația nu e liniară sau e slabă).
 -Alte variabile pot influența y, iar x poate fi doar un efect colateral (variabilă confuză).
 
@@ -232,8 +234,10 @@ Lipsa de corelație NU exclude complet cauzalitatea.
 -Alte metode (corelația Spearman, mutual information etc.) pot detecta relații non-liniare.
 
 ✅ Concluzie:
--Dacă nu există niciun tip de corelație (liniară sau non-liniară), atunci e foarte puțin probabil ca x să determine y.
--Dar lipsa corelației liniare nu este suficientă pentru a afirma categoric că nu există cauzalitate — doar că nu e evidentă și nu e simplă.
+-Dacă nu există niciun tip de corelație (liniară sau non-liniară), atunci e foarte puțin probabil ca 
+ x să determine y.
+-Dar lipsa corelației liniare nu este suficientă pentru a afirma categoric că nu există cauzalitate — doar că 
+ nu e evidentă și nu e simplă.
 
 Q3: corelatia verifica liniaritatea doar?
 A3: Da, corelația Pearson — cea mai frecvent folosită — verifică doar liniaritatea relației dintre două variabile.
