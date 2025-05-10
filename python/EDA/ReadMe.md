@@ -153,7 +153,52 @@ Nota:
 
 <br/><hr/>
 </details>
+SA comparam corelatia(ex Pearson) si regresia(ex OLS)...
+<details>
+    <summary></summary>
 
+<hr/>
+<br/>
+
+✅ Corelația (Pearson):
+Scop: arată dacă x este un candidat pentru o relație liniară cu y.
+
+Ce face concret?:
+
+ - Măsoară forța și direcția unei relații liniare.
+ - Valori aproape de ±1 indică o relație liniară puternică (pozitivă sau negativă).
+ - Nu presupune un model de regresie și nu face predicții.
+ - Este simetrică: corr(x,y)=corr(y,x).
+
+✅ OLS (Regresie Liniară - Ordinary Least Squares):
+Scop: estimează o relație de tip funcție: y=a⋅x+b+ε, adică cum y depinde de x.
+
+Ce face concret?:
+
+ - Evaluează cât de bine x explică variația lui y.
+ - Permite testarea semnificației relației (prin testul t pentru coeficientul lui x).
+ - Poate include și alți predictori (multivariat).
+ - Nu este simetrică: y=f(x) nu înseamnă x=f(y).
+
+🔍 Diferența-cheie:
+
+    Concept	                    Corelație Pearson	        OLS (Regresie Liniară)
+    -------                     ------------------          -----------------------
+
+ - Tip relație	            Liniară (simetrică)	        Liniară direcționată: y în funcție de x
+ - Poți face predicții?	    ❌ Nu	                    ✅ Da
+ - Test semnificație?	    ❌ (nu direct)	            ✅ (test t, F)
+ - Detectează influență?	❌ (doar asociere)	        ✅ (dacă coeficientul e semnificativ)
+
+✅ Concluzie:
+Corelația identifică candidatul pentru o relație liniară, 
+iar OLS măsoară și modelează explicit această relație, 
+testând dacă influența este statistic semnificativă.
+
+</br>
+<hr/>
+
+</details>
 Si acum cateva ...
 
 <details>
