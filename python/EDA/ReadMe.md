@@ -360,7 +360,7 @@ Si acum cateva ...
  - [Tipuri/Comaparatie/Diferente/Distinctie intre corelatii](https://statisticasociala.tripod.com/cor_par.htm)
    <br/> [Testele](https://www.ibm.com/docs/ro/cognos-analytics/11.2.x?topic=tests-analysis-variance-anova) vin sa studieze toate/o parte din aspectele aceastea(si nu numai!...Google sau ChatGPT va poate [ajuta](https://phys.ubbcluj.ro/~dana.maniu/BIOSTAT/C5.pdf) aici!)
  - [scriBD: testul Kolmogorov-Smirnov](https://www.scribd.com/document/207509817/Kolmogorov-Smirnov-test-Wikipedia-the-free-encyclopedia)
-   <br/>Testul [Kolmogorov-Smirnov](https://math.ubbcluj.ro/~tradu/geologi/categosem.pdf) este utilizat pentru a realiza estimarea normalităţii.
+   <br/>Testul [Kolmogorov-Smirnov](https://math.ubbcluj.ro/~tradu/geologi/categosem.pdf)([K-S](https://www.baicus.ro/pdf/Analiza%20bivariata%20II.%20Compararea%20mediilor..pdf)) este utilizat pentru a realiza estimarea normalităţii.
    <br/>Testul se refera/aplica populaţiilor care provin din două eşantioane. incidenţă , adică cu două(2) linii şi n coloane.
  - [ro-UMF-CV: reprezentarea grafica a datelor statistice](https://old.umfcv.ro/files/b/i/Biostatistica%20MG%20-%20Cursul%20IV.pdf)
  - [ro-UCV: Danciulescu Curs 7 - ANALIZA SERIILOR CRONOLOGICE](http://inf.ucv.ro/documents/danciulescu/curs7.pdf)
