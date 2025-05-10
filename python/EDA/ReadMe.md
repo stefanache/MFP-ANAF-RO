@@ -273,11 +273,11 @@ A3: Da, corelația Pearson — cea mai frecvent folosită — verifică doar lin
 
 🧠 Alte tipuri de corelație pentru relații non-liniare:
 
-Tip corelație	        Detectează relații	                Exemple de utilizare
--------------           ------------------                  --------------------------------
+   Tip corelație	        Detectează relații	                Exemple de utilizare
+   -------------           ------------------                  --------------------------------
 
  - Pearson            	    Doar liniare	                    Regresie liniară, analize simple
- - Spearman	            Monotone (nu doar liniare)	        Ordinală, scoruri, ranguri
+ - Spearman	                Monotone (nu doar liniare)	        Ordinală, scoruri, ranguri
  - Kendall Tau	            Monotone	                        Date cu ranguri, date cu zgomot
  - Mutual Information	    Orice relație (inclusiv complexă)	AI, ML, analiză avansată
 
@@ -292,7 +292,7 @@ A4: Dacă vrei să afli dacă x influențează cumva y (adică dacă există o r
 ✅ Cele mai frecvent folosite teste și ce detectează ele:
 
    Test / metodă	                              Ce detectează?	                            Tip relație	                Observații
-
+   -----------------------------------------     --------------------------------------------   ----------------------  --------------------------------------------
  - Regresie liniară (OLS)	                     Dacă x explică variația lui y	                Liniară	                Poți testa semnificația coeficientului lui x
  - Test F (din regresie)	                     Dacă x (sau un set de x-uri) explică y	        Liniară	                Test global pentru toți predictorii
  - Test t (coeficienți regresie)	             Dacă fiecare x influențează semnificativ y	    Liniară	                Dacă p < 0.05, x este un
