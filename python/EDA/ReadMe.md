@@ -155,11 +155,11 @@ Nota:
 </details>
 Sa comparam corelatia(ex Pearson) si regresia(ex OLS)...
 <details>
-    <summary>comparatie Corr vs. OLS</summary>
+    <summary>... comparatie Corr vs. OLS...</summary>
 
 <hr/>
 <br/>
-
+<pre>
 ✅ Corelația (Pearson):
 Scop: arată dacă x este un candidat pentru o relație liniară cu y.
 
@@ -319,6 +319,7 @@ A4: Dacă vrei să afli dacă x influențează cumva y (adică dacă există o r
  - <br/>folosește Spearman sau
  - <br/>mutual information.
 
+</pre>
 </br>
 <hr/>
 
