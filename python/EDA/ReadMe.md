@@ -300,7 +300,7 @@ Granger Causality (pentru serii temporale)     Dacă trecutul lui x ajută la pr
 2.Dacă suspectezi relație non-liniară:
  - Încearcă o regresie polinomială sau
  - folosește Spearman sau
- - >mutual information.
+ - mutual information.
 
 </small></pre>
 </br>
