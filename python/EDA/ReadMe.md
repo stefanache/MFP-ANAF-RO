@@ -199,9 +199,9 @@ A1: Corelația dintre două coloane, una considerată target (y) și cealaltă c
 Iată ce înseamnă mai exact:
 
 ✅ Ce sugerează corelația:
- - O corelație ridicată (pozitivă sau negativă) indică o relație liniară între cele două variabile. 
-   Cu cât coeficientul Pearson este mai aproape de +1 sau -1, cu atât relația liniară este mai puternică.
- - O astfel de relație sugerează că x poate avea un impact asupra lui y, sau cel puțin că ele variază împreună într-un anumit mod.
+-O corelație ridicată (pozitivă sau negativă) indică o relație liniară între cele două variabile. 
+ Cu cât coeficientul Pearson este mai aproape de +1 sau -1, cu atât relația liniară este mai puternică.
+-O astfel de relație sugerează că x poate avea un impact asupra lui y, sau cel puțin că ele variază împreună într-un anumit mod.
 
 ⚠️ Ce nu implică corelația:
 -Corelația nu înseamnă cauzalitate. Chiar dacă y și x sunt corelate, nu poți spune sigur că y este o funcție de x fără o analiză mai profundă.
