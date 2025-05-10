@@ -164,19 +164,19 @@ Sa comparam corelatia(ex Pearson) si regresia(ex OLS)...
 Scop: arată dacă x este un candidat pentru o relație liniară cu y.
 
 Ce face concret?:
- - Măsoară forța și direcția unei relații liniare.
- - Valori aproape de ±1 indică o relație liniară puternică (pozitivă sau negativă).
- - Nu presupune un model de regresie și nu face predicții.
- - Este simetrică: corr(x,y)=corr(y,x).
+-Măsoară forța și direcția unei relații liniare.
+-Valori aproape de ±1 indică o relație liniară puternică (pozitivă sau negativă).
+-Nu presupune un model de regresie și nu face predicții.
+-Este simetrică: corr(x,y)=corr(y,x).
 
 ✅ OLS (Regresie Liniară - Ordinary Least Squares):
 Scop: estimează o relație de tip funcție: y=a⋅x+b+ε, adică cum y depinde de x.
 
 Ce face concret?:
- - Evaluează cât de bine x explică variația lui y.
- - Permite testarea semnificației relației (prin testul t pentru coeficientul lui x).
- - Poate include și alți predictori (multivariat).
- - Nu este simetrică: y=f(x) nu înseamnă x=f(y).
+-Evaluează cât de bine x explică variația lui y.
+-Permite testarea semnificației relației (prin testul t pentru coeficientul lui x).
+-Poate include și alți predictori (multivariat).
+-Nu este simetrică: y=f(x) nu înseamnă x=f(y).
 
 🔍 Diferența-cheie:
 
@@ -204,13 +204,13 @@ Iată ce înseamnă mai exact:
  - O astfel de relație sugerează că x poate avea un impact asupra lui y, sau cel puțin că ele variază împreună într-un anumit mod.
 
 ⚠️ Ce nu implică corelația:
- - Corelația nu înseamnă cauzalitate. Chiar dacă y și x sunt corelate, nu poți spune sigur că y este o funcție de x fără o analiză mai profundă.
- - Nu înseamnă automat că poți prezice exact y pe baza lui x (mai ales dacă relația nu e liniară sau e slabă).
- - Alte variabile pot influența y, iar x poate fi doar un efect colateral (variabilă confuză).
+-Corelația nu înseamnă cauzalitate. Chiar dacă y și x sunt corelate, nu poți spune sigur că y este o funcție de x fără o analiză mai profundă.
+-Nu înseamnă automat că poți prezice exact y pe baza lui x (mai ales dacă relația nu e liniară sau e slabă).
+-Alte variabile pot influența y, iar x poate fi doar un efect colateral (variabilă confuză).
 
 📌 Concluzie:
- - Corelația este un indiciu că o relație între y și x ar putea exista, dar nu dovedește că y este determinată de x.
- - Pentru a spune că y = f(x), ai nevoie de o modelare, de exemplu regresie, și de o validare statistică serioasă.
+-Corelația este un indiciu că o relație între y și x ar putea exista, dar nu dovedește că y este determinată de x.
+-Pentru a spune că y = f(x), ai nevoie de o modelare, de exemplu regresie, și de o validare statistică serioasă.
 
 
 Q2: daca y si x nu sunt corelate atunci nu poate avea loc cauzalitate adica nu poti determina pe y din x...e corect?
@@ -219,21 +219,21 @@ A2: Da, în mare parte este corect, dar cu niște nuanțe importante:
 ✅ Corect:
 
 Dacă x și y nu sunt corelate deloc (de exemplu, coeficient de corelație Pearson ≈ 0), atunci:
- - Nu există o relație liniară între ele.
- - Este puțin probabil ca x să poată prezice sau determina y printr-o relație simplă, mai ales liniară.
- - Într-un model de regresie simplu (fără alte variabile), x nu ajută la prezicerea lui y.
+-Nu există o relație liniară între ele.
+-Este puțin probabil ca x să poată prezice sau determina y printr-o relație simplă, mai ales liniară.
+-Într-un model de regresie simplu (fără alte variabile), x nu ajută la prezicerea lui y.
 
 ⚠️ Dar atenție:
 Lipsa de corelație NU exclude complet cauzalitatea.
- - Exemplu celebru: o relație non-liniară (ex: y=x<sup>2</sup>
-   are corelație liniară zero dacă x e distribuit simetric în jurul lui 0, dar x cauzează clar y.
- - Corelația Pearson măsoară <b>doar</b> relații/legaturi <b>liniare</b>.
-   Relațiile non-liniare (exponențiale, logaritmice, parabolice) pot exista chiar dacă corelația e zero.
- - Alte metode (corelația Spearman, mutual information etc.) pot detecta relații non-liniare.
+-Exemplu celebru: o relație non-liniară (ex: y=x<sup>2</sup>
+ are corelație liniară zero dacă x e distribuit simetric în jurul lui 0, dar x cauzează clar y.
+-Corelația Pearson măsoară <b>doar</b> relații/legaturi <b>liniare</b>.
+ Relațiile non-liniare (exponențiale, logaritmice, parabolice) pot exista chiar dacă corelația e zero.
+-Alte metode (corelația Spearman, mutual information etc.) pot detecta relații non-liniare.
 
 ✅ Concluzie:
- - Dacă nu există niciun tip de corelație (liniară sau non-liniară), atunci e foarte puțin probabil ca x să determine y.
- - Dar lipsa corelației liniare nu este suficientă pentru a afirma categoric că nu există cauzalitate — doar că nu e evidentă și nu e simplă.
+-Dacă nu există niciun tip de corelație (liniară sau non-liniară), atunci e foarte puțin probabil ca x să determine y.
+-Dar lipsa corelației liniare nu este suficientă pentru a afirma categoric că nu există cauzalitate — doar că nu e evidentă și nu e simplă.
 
 Q3: corelatia verifica liniaritatea doar?
 A3: Da, corelația Pearson — cea mai frecvent folosită — verifică doar liniaritatea relației dintre două variabile.
@@ -241,20 +241,20 @@ A3: Da, corelația Pearson — cea mai frecvent folosită — verifică doar lin
 🔍 Detalii:
 
 ✅ Corelația Pearson:
- - Măsoară forța(taria) și direcția(sensul/panta:pozitiv sau negativ)) relației liniare dintre două variabile.
- - Intervalul valorilor:
-          −1 (relație liniară negativă perfectă), 
-           0 (nicio relație liniară), 
-          +1 (relație liniară pozitivă perfectă).
- - Dacă y=a⋅x+b, atunci Pearson va fi aproape de +1 sau -1 (în funcție de semn).
+-Măsoară forța(taria) și direcția(sensul/panta:pozitiv sau negativ)) relației liniare dintre două variabile.
+-Intervalul valorilor:
+  −1 (relație liniară negativă perfectă), 
+   0 (nicio relație liniară), 
+  +1 (relație liniară pozitivă perfectă).
+-Dacă y=a⋅x+b, atunci Pearson va fi aproape de +1 sau -1 (în funcție de semn).
 
 ❌ Ce nu detectează:
- - Relații non-liniare, cum ar fi:
+-Relații non-liniare, cum ar fi:
         Parabolice:   y=x<sup>2</sup> 
         Logaritmice:  y=log(x)
         Exponențiale: 𝑦=e <sup>x</sup>
-  - În astfel de cazuri, corelația-Pearson poate fi aproape de zero, chiar dacă relația este clară și
-    cauzală(x determina cauzal/functional pe y).
+-În astfel de cazuri, corelația-Pearson poate fi aproape de zero, chiar dacă relația este clară și
+ cauzală(x determina cauzal/functional pe y).
 
 🧠 Alte tipuri de corelație pentru relații non-liniare:
 
@@ -276,7 +276,7 @@ A4: Dacă vrei să afli dacă x influențează cumva y (adică dacă există o r
 
 ✅ Cele mai frecvent folosite teste și ce detectează ele:
 
-   Test / metodă	                            Ce detectează?	                               Tip relație	                Observații
+Test / metodă	                               Ce detectează?	                               Tip relație	                Observații
 
 Regresie liniară (OLS)	                       Dacă x explică variația lui y	                Liniară	                Poți testa semnificația coeficientului lui x
 Test F (din regresie)	                       Dacă x (sau un set de x-uri) explică y	        Liniară	                Test global pentru toți predictorii
@@ -292,16 +292,16 @@ Granger Causality (pentru serii temporale)     Dacă trecutul lui x ajută la pr
 🔎 Dacă ai o relație numerică între două variabile continue:
 
 1.Începi cu o regresie liniară simplă:
- - Te uiți la coeficientul lui x și la valoarea p asociată.
- - Dacă
+-Te uiți la coeficientul lui x și la valoarea p asociată.
+-Dacă
            p < 0.05 →
-   Atunci
+ Atunci
          → x este un predictor semnificativ pentru y.
 
 2.Dacă suspectezi relație non-liniară:
- - Încearcă o regresie polinomială sau
- - folosește Spearman sau
- - mutual information.
+-Încearcă o regresie polinomială sau
+ folosește Spearman sau
+ mutual information.
 
 </small></pre>
 </br>
