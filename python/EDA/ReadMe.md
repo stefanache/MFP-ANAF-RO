@@ -313,7 +313,7 @@ Granger Causality (pentru serii temporale)     Dacă trecutul lui x ajută la pr
 
 </details>
 
-O seama intreaga de termeni cu care opereaza [Statistica Descriptiva si Inferentiala](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/EDA/Jantschi%26Sestras_2010_Annex_3.pdf) ii puteti regasi in aceasta [Anexa](http://l.academicdirect.org/Horticulture/GAs/Refs/Jantschi&Sestras_2010_Annex_3.pdf).
+O seama intreaga de [termeni](http://l.academicdirect.org/Statistics/) cu care opereaza [Statistica Descriptiva si Inferentiala](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/EDA/Jantschi%26Sestras_2010_Annex_3.pdf) ii puteti regasi in aceasta [Anexa](http://l.academicdirect.org/Horticulture/GAs/Refs/Jantschi&Sestras_2010_Annex_3.pdf).
 
 Si acum cateva ...
 
