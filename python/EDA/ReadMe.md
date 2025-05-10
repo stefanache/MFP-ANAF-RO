@@ -188,9 +188,9 @@ Ce face concret?:
  Detectează influență?     ❌ (doar asociere)          ✅ (dacă coeficientul e semnificativ)
 
 ✅ Concluzie:
-Corelația identifică candidatul pentru o relație liniară, 
-iar OLS măsoară și modelează explicit această relație, 
-testând dacă influența este statistic semnificativă.
+Corelația identifică candidatul pentru o relație-liniară(exista o legatura-liniara?), 
+iar Regresia(OLS) măsoară și modelează explicit această relație-liniara, 
+testând dacă influența este statistic semnificativă(taria legaturii).
 
 Q1: corelatia a 2 coloane una target(y) si una candidata(x) arata ca y depinde/este o functie de x, y(x)?
 A1: Corelația dintre două coloane, una considerată target (y) și cealaltă candidată (x), 
@@ -241,7 +241,7 @@ A3: Da, corelația Pearson — cea mai frecvent folosită — verifică doar lin
 🔍 Detalii:
 
 ✅ Corelația Pearson:
- - Măsoară forța și direcția relației liniare dintre două variabile.
+ - Măsoară forța(taria) și direcția(sensul/panta:pozitiv sau negativ)) relației liniare dintre două variabile.
  - Intervalul valorilor:
           −1 (relație liniară negativă perfectă), 
            0 (nicio relație liniară), 
@@ -250,15 +250,16 @@ A3: Da, corelația Pearson — cea mai frecvent folosită — verifică doar lin
 
 ❌ Ce nu detectează:
  - Relații non-liniare, cum ar fi:
-        Parabolice: y=x<sup>2</sup> 
-        Logaritmice: y=log(x)
+        Parabolice:   y=x<sup>2</sup> 
+        Logaritmice:  y=log(x)
         Exponențiale: 𝑦=e <sup>x</sup>
-  - În astfel de cazuri, corelația Pearson poate fi aproape de zero, chiar dacă relația este clară și cauzală.
+  - În astfel de cazuri, corelația-Pearson poate fi aproape de zero, chiar dacă relația este clară și
+    cauzală(x determina cauzal/functional pe y).
 
 🧠 Alte tipuri de corelație pentru relații non-liniare:
 
 Tip corelație	        Detectează relații	                Exemple de utilizare
--------------           ------------------                  --------------------------------
+
 Pearson            	    Doar liniare	                    Regresie liniară, analize simple
 Spearman	            Monotone (nu doar liniare)	        Ordinală, scoruri, ranguri
 Kendall Tau	            Monotone	                        Date cu ranguri, date cu zgomot
@@ -276,7 +277,7 @@ A4: Dacă vrei să afli dacă x influențează cumva y (adică dacă există o r
 ✅ Cele mai frecvent folosite teste și ce detectează ele:
 
    Test / metodă	                            Ce detectează?	                               Tip relație	                Observații
-   --------------------------------------     --------------------------------------------   ----------------------  --------------------------------------------
+
 Regresie liniară (OLS)	                       Dacă x explică variația lui y	                Liniară	                Poți testa semnificația coeficientului lui x
 Test F (din regresie)	                       Dacă x (sau un set de x-uri) explică y	        Liniară	                Test global pentru toți predictorii
 Test t (coeficienți regresie)	               Dacă fiecare x influențează semnificativ y	    Liniară	                Dacă p < 0.05, x este un
