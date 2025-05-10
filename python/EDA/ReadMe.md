@@ -159,7 +159,7 @@ Sa comparam corelatia(ex Pearson) si regresia(ex OLS)...
 
 <hr/>
 <br/>
-<pre>
+<pre><small>
 ✅ Corelația (Pearson):
 Scop: arată dacă x este un candidat pentru o relație liniară cu y.
 
@@ -188,7 +188,7 @@ Ce face concret?:
  <br/>Tip relație               Liniară (simetrică)          Liniară direcționată: y în funcție de x
  <br/>Poți face predicții?      ❌ Nu                       ✅ Da
  <br/>Test semnificație?        ❌ (nu direct)              ✅ (test t, F)
-<br/>Detectează influență?      ❌ (doar asociere)          ✅ (dacă coeficientul e semnificativ)
+ <br/>Detectează influență?     ❌ (doar asociere)          ✅ (dacă coeficientul e semnificativ)
 
 ✅ Concluzie:
 
@@ -259,7 +259,7 @@ A3: Da, corelația Pearson — cea mai frecvent folosită — verifică doar lin
  - Intervalul valorilor:
        <br/>   −1 (relație liniară negativă perfectă), 
        <br/>    0 (nicio relație liniară), 
-        <br/>  +1 (relație liniară pozitivă perfectă).
+       <br/>   +1 (relație liniară pozitivă perfectă).
 
  - Dacă y=a⋅x+b, atunci Pearson va fi aproape de +1 sau -1 (în funcție de semn).
 
@@ -292,17 +292,17 @@ A4: Dacă vrei să afli dacă x influențează cumva y (adică dacă există o r
 
 ✅ Cele mai frecvent folosite teste și ce detectează ele:
 
-   Test / metodă	                              Ce detectează?	                            Tip relație	                Observații
+   Test / metodă	                              Ce detectează?	                               Tip relație	                Observații
    -----------------------------------------     --------------------------------------------   ----------------------  --------------------------------------------
-<br/>Regresie liniară (OLS)	                     Dacă x explică variația lui y	                Liniară	                Poți testa semnificația coeficientului lui x
-<br/>Test F (din regresie)	                     Dacă x (sau un set de x-uri) explică y	        Liniară	                Test global pentru toți predictorii
-<br/>Test t (coeficienți regresie)	             Dacă fiecare x influențează semnificativ y	    Liniară	                Dacă p < 0.05, x este un
-   <br/>                                                                                                                predictor semnificativ
- <br/>Corelația Spearman/Kendall	                 Relații monotone (nu neapărat liniare)	        Monotonă	            Detectează trenduri
+<br/>Regresie liniară (OLS)	                       Dacă x explică variația lui y	                Liniară	                Poți testa semnificația coeficientului lui x
+<br/>Test F (din regresie)	                       Dacă x (sau un set de x-uri) explică y	        Liniară	                Test global pentru toți predictorii
+<br/>Test t (coeficienți regresie)	               Dacă fiecare x influențează semnificativ y	    Liniară	                Dacă p < 0.05, x este un
+   <br/>                                                                                                                            predictor semnificativ
+<br/>Corelația Spearman/Kendall	                   Relații monotone (nu neapărat liniare)	        Monotonă	            Detectează trenduri
    <br/>                                                                                                                           crescătoare/descrescătoare
-<br/>Mutual Information	                         Orice fel de relație (chiar foarte complexă)	Generală	            Frecvent folosit în ML pentru
+<br/>Mutual Information	                           Orice fel de relație (chiar foarte complexă)	    Generală	            Frecvent folosit în ML pentru
    <br/>                                                                                                                           feature selection
-<br/>ANOVA (dacă x este categorial)	             Dacă grupurile x influențează valorile lui y	Generală	            Pentru variabile explicative categorice
+<br/>ANOVA (dacă x este categorial)	               Dacă grupurile x influențează valorile lui y	    Generală                Pentru variabile explicative categorice
 <br/>Granger Causality (pentru serii temporale)    Dacă trecutul lui x ajută la prezicerea lui y	Temporală (predictivă)	Nu e cauzalitate reală, dar e un indiciu
 
 🔎 Dacă ai o relație numerică între două variabile continue:
@@ -311,7 +311,9 @@ A4: Dacă vrei să afli dacă x influențează cumva y (adică dacă există o r
 
  - Te uiți la coeficientul lui x și la valoarea p asociată.
  - Dacă
-   <br/>p < 0.05 →atunci→ x este un predictor semnificativ pentru y.
+           <br/> p < 0.05 →
+   Atunci
+           <br/> → x este un predictor semnificativ pentru y.
 
 2.Dacă suspectezi relație non-liniară:
 
