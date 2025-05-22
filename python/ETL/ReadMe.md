@@ -31,6 +31,7 @@ Priviti shortcut/URL-urile catre diverse tutoriale(cele mai multe fiind prezenta
  - [MDPI-2021: The Engineering Machine-Learning Automation Platform (EMAP): A Big-Data-Driven AI Tool for Contractors’ Sustainable Management Solutions for Plant Projects](https://www.mdpi.com/2071-1050/13/18/10384)
  - [GH-ankitpokhre-PhP: Tus Protocol(tolerant la reluarea transmisiei)-CLI and file-SRV](https://github.com/ankitpokhrel/tus-php?tab=readme-ov-file#installation)
    <br/> a se vedea si events,midleware(including [CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS))
+ - [ro-unite-ai: Cele mai bune instrumente ETL](https://www.unite.ai/ro/cele-mai-bune-instrumente-etl/)
  - [...](https://www.google.com/search?q=php+ai+automation+ordering+architecture&sca_esv=f58153ab55da467e&rlz=1C1CHBF_enRO1132RO1132&udm=2&biw=1920&bih=911&sxsrf=AHTn8zoqyI4V2oZgs3Zo7zMteLtFiF8e8g%3A1741180897545&ei=4U_IZ5X1IMiK7NYP6Iiq4Qw&ved=0ahUKEwjV6YynhPOLAxVIBdsEHWiEKswQ4dUDCBE&uact=5&oq=php+ai+automation+ordering+architecture&gs_lp=EgNpbWciJ3BocCBhaSBhdXRvbWF0aW9uIG9yZGVyaW5nIGFyY2hpdGVjdHVyZUiVIVCeCVjVHXABeACQAQCYAWmgAbkIqgEDNy40uAEDyAEA-AEBmAIAoAIAmAMAiAYBkgcAoAfvAw&sclient=img#vhid=dztjR3ObL4BJZM&vssid=mosaic)
 
 
