@@ -131,7 +131,7 @@ Ce poți face cu **NGROK**?
 
 </details>
 
-Bonus, la finele acestui articol, echipa [NGROK](https://ngrok.com/docs/how-ngrok-works/) a revenit intr-un alt artico/eMail, in care a facut referire la: 
+Bonus, la finele acestui articol, echipa [NGROK](https://ngrok.com/docs/how-ngrok-works/) a revenit cu un alt artico/eMail, in care a facut referire la: 
 
  - [*echilibrărea-încărcării*]([https://mail.google.com/mail/u/0/#inbox/FMfcgzQbfLbQmKjgShBFJDxxqDqNbDnH](https://github.com/stefanache/MFP-ANAF-RO/blob/main/NGROK/1832757829207277295.pdf))  - extrem de simple:
     - [pt./intre EndPoint-uri](https://ngrok.com/blog-post/endpoint-pools-load-balance-anything?utm_campaign=may_2025_newsletter&utm_medium=newsletter&_hsenc=p2ANqtz-9odbwX3hCF4A4QiBcfmvdFc9TPfFSw62-afSZTD2RSRgYofVsi_Z0Rbnc0TKP_9Fu7iQZjywVpgL8YxF6ws-Hfn9Qt_j4y9_Ca0s9SrPasd0oQSXo&_hsmi=362601512&utm_content=blog_endpoint_pools_load_balance_anything&utm_source=email)... or see this [YT-HD-video: Load balance anything, anywhere with ngrok's Endpoint Pools](https://www.youtube.com/watch?v=qlLBdKCzGeE&ab_channel=ngrok)
