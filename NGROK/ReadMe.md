@@ -133,6 +133,13 @@ Ce poți face cu **NGROK**?
 
 Bonus, la finele acestui articol, echipa [NGROK](https://ngrok.com/docs/how-ngrok-works/) a promis ca va reveni intr-un alt artico/eMail viitor, in care se va face referire la 
 
- - *echilibrărea-încărcării*  - extrem de simple
+ - [*echilibrărea-încărcării*](https://mail.google.com/mail/u/0/#inbox/FMfcgzQbfLbQmKjgShBFJDxxqDqNbDnH)  - extrem de simple:
+    - [pt./intre EndPoint-uri](https://ngrok.com/blog-post/endpoint-pools-load-balance-anything?utm_campaign=may_2025_newsletter&utm_medium=newsletter&_hsenc=p2ANqtz-9odbwX3hCF4A4QiBcfmvdFc9TPfFSw62-afSZTD2RSRgYofVsi_Z0Rbnc0TKP_9Fu7iQZjywVpgL8YxF6ws-Hfn9Qt_j4y9_Ca0s9SrPasd0oQSXo&_hsmi=362601512&utm_content=blog_endpoint_pools_load_balance_anything&utm_source=email)... or see this [YT-HD-video: Load balance anything, anywhere with ngrok's Endpoint Pools](https://www.youtube.com/watch?v=qlLBdKCzGeE&ab_channel=ngrok)
+      <br/>videoul explica elementele fundamentale ale pooling-ului între mașini virtuale(VM-uri) și clustere K8s!
+    - [ p.t/intre Cloud-uri](https://ngrok.com/docs/guides/other-guides/load-balancing-multiple-clouds/?utm_campaign=may_2025_newsletter&utm_medium=newsletter&_hsenc=p2ANqtz-9_RhQw7c5n2yhnhUQ_5H40g9tqGubJBN_FfY0rmZHgQl0wPzkiLKSUiLTk4IQe6sTbob7_9XhKzxaBOCJfghzIqFRlDwPoyAcbiV66pyg5E-nq0Fs&_hsmi=362601512&utm_content=docs_load_balancing_multiple_clouds&utm_source=email)
+      - pt Kubernetes(K8s):
+         - [intre servicii-instalate("Services Deployed") in K8s](https://ngrok.com/docs/guides/other-guides/load-balancing-kubernetes/?utm_campaign=may_2025_newsletter&utm_medium=newsletter&_hsenc=p2ANqtz-_nzwz7GfV7qg8K20JlAIJLMTIFy7UGaVbK5fI8_3xX_gV1R3l597p1MELycgXRcyNxDPVTKQc8tu6fr5grLAfXr_eNGqXhtr7R4I_2cTDOn4Wd4ak&_hsmi=362601512&utm_content=docs_load_balancing_kubernetes&utm_source=email)
+         - [intre clustere-K8s](https://ngrok.com/docs/guides/other-guides/load-balancing-kubernetes-clusters/?utm_campaign=may_2025_newsletter&utm_medium=newsletter&_hsenc=p2ANqtz-97tDr5ACKXsBPtPRbg4lm2HlzKx0q2BVtlBVKpEDIF6Ly5_QvaP1jQZe4e0mUh8T_hPOwlO57BRjRnLmHASOY3tWzNRP1bCxz362f2AzHGzFBJj3M&_hsmi=362601512&utm_content=docs_load_balancing_kubernetes_clusters&utm_source=email)
+
 
 *Lecturare placuta*!
