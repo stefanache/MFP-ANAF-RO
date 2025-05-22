@@ -4,7 +4,7 @@ Aici voi plasa tutoriale,ghiduri... pentru efectuarea unor sarcini/task-uri/acti
 
  - [ro-pt: Ghid agenti AI oferit de cechipa OpenAI ](https://www.pt.ro/openai-ghid-agenti/)
    <br/>Q: Ce este un agent?
-<br/>Ghidul defineşte agentul ca
+<br/>Ghidul-OpenAI defineşte agentul ca
 <br/>„un sistem care execută în mod autonom un workflow în numele utilizatorului”,
 <br/>recunoscând când sarcina e terminată, corectându‑se sau cedând controlul la nevoie.
 <br/>O simplă interfaţă de chat pe un LLM nu este agent dacă nu decide şi nu acţionează.
