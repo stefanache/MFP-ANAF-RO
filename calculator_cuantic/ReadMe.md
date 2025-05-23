@@ -2,6 +2,7 @@
 
 O sa postez aici un cocktail (citit cocteil, a.k.a amestec) de articole legate de fenomenul [**cuantic**](https://www.youtube.com/results?search_query=Olivia+Lanes+Quantum+Questions+Answered%3A)(lectura placuta!:):
 
+ - [wiki: inseparabilitate/entanglemnt cuantic](https://en.wikipedia.org/wiki/Quantum_entanglement)
  - [phys-org: Seeing the color of entangled photons in molecular systems(OPA,TPA and ETPA)](https://phys.org/news/2024-05-entangled-photons-molecular.html)
  - [physics.stackexchange: Can the color of an object be entangled(inseparabil/cuplat/incurcat/conectat-intrinsec)?](https://physics.stackexchange.com/questions/308284/can-the-color-of-an-object-be-entangled)
  - [physics.stackexchange: superpozitia undelor luminoase de diferite culori](https://physics.stackexchange.com/questions/464100/superposition-of-light-waves-of-different-colors);
