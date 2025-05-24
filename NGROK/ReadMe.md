@@ -151,4 +151,4 @@ Bonus, la finele acestui articol, echipa [NGROK](https://ngrok.com/docs/how-ngro
 **Agentul ngrok** folosește un fișier de configurare ***YAML*** simplu , se poate instala singur ca serviciu nativ al sistemului de operare(OS) și are, 
 <br/>de asemenea, o interfață CLI încorporată pentru apelarea API-ului **ngrok** .
 
-*Lecturare placuta*!
+[*Lecturare placuta*](https://ngrok.com/docs/guides/other-guides/using-mcp/)!
