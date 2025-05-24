@@ -143,7 +143,7 @@ Bonus, la finele acestui articol, echipa [NGROK](https://ngrok.com/docs/how-ngro
          - [intre clustere-K8s](https://ngrok.com/docs/guides/other-guides/load-balancing-kubernetes-clusters/?utm_campaign=may_2025_newsletter&utm_medium=newsletter&_hsenc=p2ANqtz-97tDr5ACKXsBPtPRbg4lm2HlzKx0q2BVtlBVKpEDIF6Ly5_QvaP1jQZe4e0mUh8T_hPOwlO57BRjRnLmHASOY3tWzNRP1bCxz362f2AzHGzFBJj3M&_hsmi=362601512&utm_content=docs_load_balancing_kubernetes_clusters&utm_source=email)
 
 [**NGROK-Agent**](https://ngrok.com/docs/agent/) poate fi o optiune ușor de utilizat în linie de comandă( a se vedea si [ghidul NGROK](https://ngrok.com/docs/getting-started/#step-1-install)), care, 
-<br/>redirecționează traficul de la endpoint-urile, pe care le creează pe marginea ngrok, către serviciile aplicației din amonte(deci greu accesibile!:).
+<br/>redirecționează traficul de la endpoint-urile, pe care le creează pe/la marginea-ngrok(ngrok edge), către serviciile aplicației din amonte(deci cele care sunt greu accesibile!:).
 
 **Agentul-ngrok** este un executabil nativ independent, fără dependențe de execuție. 
 <br/>Rulează pe toate sistemele de operare majore și este împachetat pentru distribuire pe cele mai populare manageri de pachete.
