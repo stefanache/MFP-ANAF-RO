@@ -16,7 +16,7 @@ Aici voi plasa tutoriale,ghiduri... pentru efectuarea unor sarcini/task-uri/acti
    care interacționează cu <b><i>instrumentele</i></b> specifice.
 
    <b>Agenții</b> pot apela instrumente(decide si actioneaza) și pot recupera date(decide si actioneaza) în sens general.
-   Aici ne putem concentra pe <i>documente</i>(fisierele sunt containere de constinut-document care sunt vazute ca si <i>sursa de date</i>!).
+   Aici ne putem concentra pe <i>documente</i>(fisierele sunt containere de continut-document care sunt vazute ca si <i>sursa de date</i>!).
    <b>Agenții</b> pot interacționa cu <i>documentele</i> în câteva moduri:
    1. <b><i>Căutare</i></b>:    Ei pot <b><i>interoga</i></b> o interfață API cu parametri preciși pentru a căuta <i>fișiere</i>/<i>metadate pe/de fișiere</i>.
    2. <b><i>Recuperare</i></b>: Pot face <b><i>căutări semantice</i></b> pentru a găsi <i>sursa relevantă de date</i> (acesta este doar <b>RAG</b>!)
