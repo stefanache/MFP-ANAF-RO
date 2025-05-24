@@ -145,9 +145,10 @@ Bonus, la finele acestui articol, echipa [NGROK](https://ngrok.com/docs/how-ngro
 [**NGROK-Agent**](https://ngrok.com/docs/agent/) poate fi o optiune ușor de utilizat în linie de comandă( a se vedea si [ghidul NGROK](https://ngrok.com/docs/getting-started/#step-1-install)), care, 
 <br/>redirecționează traficul de la endpoint-urile, pe care le creează pe marginea ngrok, către serviciile aplicației din amonte(deci greu accesibile!:).
 
-Agentul ngrok este un executabil nativ independent, fără dependențe de execuție. 
+**Agentul-ngrok** este un executabil nativ independent, fără dependențe de execuție. 
 <br/>Rulează pe toate sistemele de operare majore și este împachetat pentru distribuire pe cele mai populare manageri de pachete.
 
-Agentul ngrok folosește un fișier de configurare YAML simplu , se poate instala singur ca serviciu nativ al 
+**Agentul ngrok** folosește un fișier de configurare ***YAML*** simplu , se poate instala singur ca serviciu nativ al sistemului de operare(OS) și are, 
+<br/>de asemenea, o interfață CLI încorporată pentru apelarea API-ului **ngrok** .
 
 *Lecturare placuta*!
