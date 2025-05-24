@@ -3,7 +3,13 @@ Salut!
 Aici voi plasa tutoriale,ghiduri... pentru efectuarea unor sarcini/task-uri/activitati economice,drept,medical(si nu numai...) folosind AI([domain-specific-LLMs](https://medium.com/sage-ai/building-domain-specific-llms-for-reliable-accounting-solutions-at-sage-f5f49479c8ad), Mecanismul atentiei in transformatoare,...):
 
  - [Jerry-Liu:  “document MCP server” for AI agents](https://www.linkedin.com/posts/jerry-liu-64390071_ive-been-thinking-about-this-idea-of-a-activity-7326034385671983104-KU7l?utm_source=share&utm_medium=member_desktop&rcm=ACoAABLIPGMB6KpJrQjF9LX4I4WFQuRY84ckvhg)
-   <br/><pre>Motivul pentru care RAG a devenit atât de popular ca siconcept este
+   <br/>
+   <details>
+    <summary>...cateva consideratii/detalii privind acest subiect...</summary>
+
+   <hr/>
+   
+   <pre>Motivul pentru care RAG a devenit atât de popular ca siconcept este
    pentru că oamenii au vrut o modalitate de a conecta LLM-urile cu propriile surse de date.
    Odată cu creșterea agenților/MCP/A2A, putem reformula această idee
    în jurul modelului fluxurilor de lucru ale agenților
@@ -27,6 +33,10 @@ Aici voi plasa tutoriale,ghiduri... pentru efectuarea unor sarcini/task-uri/acti
     - indexare
     - și se construiesc mult mai multe.
    </pre>
+
+   <hr/>
+   
+   </details>
  - [ro-pt: Ghid agenti AI oferit de echipa OpenAI ](https://www.pt.ro/openai-ghid-agenti/)
    <br/>Q: Ce este un agent?
 <br/>Ghidul-OpenAI defineşte agentul ca
