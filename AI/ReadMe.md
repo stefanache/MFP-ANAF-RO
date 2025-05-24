@@ -13,25 +13,25 @@ Aici voi plasa tutoriale,ghiduri... pentru efectuarea unor sarcini/task-uri/acti
    pentru că oamenii au vrut o modalitate de a conecta <b>LLM</b>-urile cu propriile(deci private!) <i>surse de date</i>.
    Odată cu creșterea <b>Agenților</b>/<b>MCP</b>/<b>A2A</b>, putem reformula această idee
    în jurul modelului <b>fluxurilor de lucru</b>(de tip <b>decide</b> si <b>actioneaza</b>) ale <b>Agenților</b>
-   care interacționează cu instrumentele.
+   care interacționează cu <b><i>instrumentele</i></b> specifice.
 
    <b>Agenții</b> pot apela instrumente(decide si actioneaza) și pot recupera date(decide si actioneaza) în sens general.
-   Aici ne putem concentra pe <i>documente</i>(fisierele sunt containere de constinut-document care sunt vazute ca si sursa de date!).
+   Aici ne putem concentra pe <i>documente</i>(fisierele sunt containere de constinut-document care sunt vazute ca si <i>sursa de date</i>!).
    <b>Agenții</b> pot interacționa cu <i>documentele</i> în câteva moduri:
-   1. <i>Căutare</i>:    Ei pot interoga o interfață API cu parametri preciși pentru a căuta fișiere/metadate pe fișiere.
-   2. <i>Recuperare</i>: Pot face căutări semantice pentru a găsi sursa relevantă de date (acesta este doar RAG!)
-   3. <i>Analiză</i>:    Pot interoga o bază de date structurată pentru a obține informații agregate din documentele lor.
-   4. <i>Manipulare</i>: Pot apela un set de funcții expuse de tipul de fișier pentru a manipula fișierul
+   1. <b><i>Căutare</i></b>:    Ei pot <b><i>interoga</i></b> o interfață API cu parametri preciși pentru a căuta <i>fișiere</i>/<i>metadate pe/de fișiere</i>.
+   2. <b><i>Recuperare</i></b>: Pot face <b><i>căutări semantice</i></b> pentru a găsi <i>sursa relevantă de date</i> (acesta este doar <b>RAG</b>!)
+   3. <b><i>Analiză</i></b>:    Pot <b><i>interoga</i></b> o bază de date(BD) structurată pentru a obține informații agregate din <i>documentele</i> lor(rezumate/sumarizari).
+   4. <b><i>Manipulare</i></b>: Pot apela un set de funcții expuse de tipul de fișier pentru a manipula fișierul
       (de exemplu, efectuarea calculelor pe o foaie Excel, editarea în Word/PowerPoint)
    
-   Dacă doriți să construiți <b>Agenți</b> eficienți peste surse de date precum documente, atunci aveți nevoie de
+   Dacă doriți să construiți <b>Agenți</b> eficienți peste <i>surse de date</i> precum <i>documente</i>, atunci aveți nevoie de
    <b><i>instrumente</i></b> foarte bune peste aceste <i>documente</i>i>.  
 
-   In <b>LlamaCloud</b> sunt deja unele dintre "<b><i>instrumentele</i></b> de <i>documente</i>i>" de bază:
-    - <b><i>analiză</i></b>,
-    - <b><i>extragere</i></b>,
-    - <b><i>indexare</i></b>
-    - și se construiesc mult mai <b><i>multe</i></b>(care sa acopere conducta ETL si nu numai...).
+   In <b>LlamaCloud</b> sunt deja unele dintre "<b><i>instrumentele</i></b> de <i>documente</i>" de bază:
+    - <b><i>analiză(3)</i></b>,
+    - <b><i>extragere(1&2)</i></b>,
+    - <b><i>indexare(1&2)</i></b>
+    - și se construiesc mult mai <b><i>multe</i></b>(instrumente care sa acopere conducta ETL si nu numai...).
    </pre>
 
    <hr/>
