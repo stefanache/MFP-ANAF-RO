@@ -10,7 +10,7 @@ Aici voi plasa tutoriale,ghiduri... pentru efectuarea unor sarcini/task-uri/acti
    <hr/>
    
    <pre>Motivul pentru care <b>RAG</b> a devenit atât de popular ca si concept este
-   pentru că oamenii au vrut o modalitate de a conecta <b>LLM</b>-urile cu propriile surse de date(private).
+   pentru că oamenii au vrut o modalitate de a conecta <b>LLM</b>-urile cu propriile(deci private!) <i>surse de date</i>.
    Odată cu creșterea <b>Agenților</b>/<b>MCP</b>/<b>A2A</b>, putem reformula această idee
    în jurul modelului <b>fluxurilor de lucru</b> ale <b>Agenților</b>
    care interacționează cu instrumentele.
