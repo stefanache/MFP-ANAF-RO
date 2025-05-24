@@ -35,7 +35,7 @@ Aici voi plasa tutoriale,ghiduri... pentru efectuarea unor sarcini/task-uri/acti
     - și se construiesc mult mai <b><i>multe</i></b>(instrumente care sa acopere conducta ETL si nu numai...).
    </pre>
 
-   Puteti afla mult mai multe lucruri din [articolul original](https://www.linkedin.com/feed/?highlightedUpdateType=PAGES_TRENDING_CONTENT_BY_COMPANY_YOU_FOLLOW&highlightedUpdateUrn=urn%3Ali%3Aactivity%3A7326034385671983104) al lui <b>Jerry-Liu</b>...lectura placuta!
+   Puteti afla mult mai multe lucruri din [articolul original](https://www.linkedin.com/feed/?highlightedUpdateType=PAGES_TRENDING_CONTENT_BY_COMPANY_YOU_FOLLOW&highlightedUpdateUrn=urn%3Ali%3Aactivity%3A7326034385671983104)(***Document MCP Layer for Agents***) al lui [**Jerry-Liu**](https://www.google.com/search?q=document+MCP+layer+data+layer+knowledgement+layer+si+layer%28Agent+LLM%29&sca_esv=7362c71c7debaa22&rlz=1C1CHBF_enRO1132RO1132&udm=2&biw=1920&bih=911&sxsrf=AE3TifMFjAUJCAxWyGhWoWIrfAKf073pFg%3A1748078901220&ei=NZExaLGNDcaFxc8P_MGrkAM&ved=0ahUKEwjx-8iv5buNAxXGQvEDHfzgCjIQ4dUDCBE&uact=5&oq=document+MCP+layer+data+layer+knowledgement+layer+si+layer%28Agent+LLM%29&gs_lp=EgNpbWciRWRvY3VtZW50IE1DUCBsYXllciBkYXRhIGxheWVyIGtub3dsZWRnZW1lbnQgbGF5ZXIgc2kgbGF5ZXIoQWdlbnQgTExNKUj1M1C-DlidMnABeACQAQCYAXqgAYsQqgEEMC4xObgBA8gBAPgBAZgCAKACAJgDAIgGAZIHAKAH1wayBwC4BwDCBwDIBwA&sclient=img)...[lectura placuta](https://jingdongsun.medium.com/ai-agents-and-automation-mcp-and-my-considerations-5aa6a5dd42d8)!
    
    <hr/>
    
