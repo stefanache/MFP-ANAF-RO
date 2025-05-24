@@ -3,6 +3,30 @@ Salut!
 Aici voi plasa tutoriale,ghiduri... pentru efectuarea unor sarcini/task-uri/activitati economice,drept,medical(si nu numai...) folosind AI([domain-specific-LLMs](https://medium.com/sage-ai/building-domain-specific-llms-for-reliable-accounting-solutions-at-sage-f5f49479c8ad), Mecanismul atentiei in transformatoare,...):
 
  - [Jerry-Liu:  “document MCP server” for AI agents](https://www.linkedin.com/posts/jerry-liu-64390071_ive-been-thinking-about-this-idea-of-a-activity-7326034385671983104-KU7l?utm_source=share&utm_medium=member_desktop&rcm=ACoAABLIPGMB6KpJrQjF9LX4I4WFQuRY84ckvhg)
+   <br/><pre>Motivul pentru care RAG a devenit atât de popular ca siconcept este
+   pentru că oamenii au vrut o modalitate de a conecta LLM-urile cu propriile surse de date.
+   Odată cu creșterea agenților/MCP/A2A, putem reformula această idee
+   în jurul modelului fluxurilor de lucru ale agenților
+   care interacționează cu instrumentele.
+
+   Agenții pot apela instrumente și pot recupera date în sens general.
+   Aici ne putem concentra pe documente.
+   Agenții pot interacționa cu documentele în câteva moduri:
+   1. Căutare: Ei pot interoga o interfață API cu parametri preciși pentru a căuta fișiere/metadate pe fișiere.
+   2. Recuperare: Pot face căutări semantice pentru a găsi sursa relevantă de date (acesta este doar RAG!)
+   3. Analiză: Pot interoga o bază de date structurată pentru a obține informații agregate din documentele lor.
+   4. Manipulare: Pot apela un set de funcții expuse de tipul de fișier pentru a manipula fișierul
+      (de exemplu, efectuarea calculelor pe o foaie Excel, editarea în Word/Powerpoint)
+   
+   Dacă doriți să construiți agenți eficienți peste surse de date precum documente, atunci aveți nevoie de
+   instrumente foarte bune peste aceste documente.  
+
+   In LlamaCloud sunt deja unele dintre "instrumentele de documente" de bază
+    - analiză,
+    - extragere,
+    - indexare
+    - și se construiesc mult mai multe.
+   </pre>
  - [ro-pt: Ghid agenti AI oferit de echipa OpenAI ](https://www.pt.ro/openai-ghid-agenti/)
    <br/>Q: Ce este un agent?
 <br/>Ghidul-OpenAI defineşte agentul ca
