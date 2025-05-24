@@ -2,7 +2,7 @@ Salut!
 
 Aici voi plasa tutoriale,ghiduri... pentru efectuarea unor sarcini/task-uri/activitati economice,drept,medical(si nu numai...) folosind AI([domain-specific-LLMs](https://medium.com/sage-ai/building-domain-specific-llms-for-reliable-accounting-solutions-at-sage-f5f49479c8ad), Mecanismul atentiei in transformatoare,...):
 
- - [Jerry-Liu:  “document MCP server” for AI agents](https://www.linkedin.com/posts/jerry-liu-64390071_ive-been-thinking-about-this-idea-of-a-activity-7326034385671983104-KU7l?utm_source=share&utm_medium=member_desktop&rcm=ACoAABLIPGMB6KpJrQjF9LX4I4WFQuRY84ckvhg)
+ - [Jerry-Liu:  “document MCP server” for AI-agents](https://www.linkedin.com/posts/jerry-liu-64390071_ive-been-thinking-about-this-idea-of-a-activity-7326034385671983104-KU7l?utm_source=share&utm_medium=member_desktop&rcm=ACoAABLIPGMB6KpJrQjF9LX4I4WFQuRY84ckvhg)
    <br/>
    <details>
     <summary>...cateva idei/consideratii/detalii privind/desprinse din acest subiect...</summary>
