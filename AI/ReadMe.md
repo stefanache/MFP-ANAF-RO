@@ -5,33 +5,33 @@ Aici voi plasa tutoriale,ghiduri... pentru efectuarea unor sarcini/task-uri/acti
  - [Jerry-Liu:  “document MCP server” for AI agents](https://www.linkedin.com/posts/jerry-liu-64390071_ive-been-thinking-about-this-idea-of-a-activity-7326034385671983104-KU7l?utm_source=share&utm_medium=member_desktop&rcm=ACoAABLIPGMB6KpJrQjF9LX4I4WFQuRY84ckvhg)
    <br/>
    <details>
-    <summary>...cateva consideratii/detalii privind acest subiect...</summary>
+    <summary>...cateva idei/consideratii/detalii privind/desprinse din acest subiect...</summary>
 
    <hr/>
    
-   <pre>Motivul pentru care RAG a devenit atât de popular ca siconcept este
-   pentru că oamenii au vrut o modalitate de a conecta LLM-urile cu propriile surse de date.
-   Odată cu creșterea agenților/MCP/A2A, putem reformula această idee
-   în jurul modelului fluxurilor de lucru ale agenților
+   <pre>Motivul pentru care <b>RAG</b> a devenit atât de popular ca si concept este
+   pentru că oamenii au vrut o modalitate de a conecta <b>LLM</b>-urile cu propriile surse de date(private).
+   Odată cu creșterea <b>Agenților</b>/<b>MCP</b>/<b>A2A</b>, putem reformula această idee
+   în jurul modelului <b>fluxurilor de lucru</b> ale <b>Agenților</b>
    care interacționează cu instrumentele.
 
-   Agenții pot apela instrumente și pot recupera date în sens general.
-   Aici ne putem concentra pe documente.
-   Agenții pot interacționa cu documentele în câteva moduri:
-   1. Căutare: Ei pot interoga o interfață API cu parametri preciși pentru a căuta fișiere/metadate pe fișiere.
-   2. Recuperare: Pot face căutări semantice pentru a găsi sursa relevantă de date (acesta este doar RAG!)
-   3. Analiză: Pot interoga o bază de date structurată pentru a obține informații agregate din documentele lor.
-   4. Manipulare: Pot apela un set de funcții expuse de tipul de fișier pentru a manipula fișierul
-      (de exemplu, efectuarea calculelor pe o foaie Excel, editarea în Word/Powerpoint)
+   <b>Agenții</b> pot apela instrumente(decide si actioneaza) și pot recupera date(decide si actioneaza) în sens general.
+   Aici ne putem concentra pe <i>documente</i>(fisierele sunt containere de constinut-document care sunt vazute ca si sursa de date!).
+   <b>Agenții</b> pot interacționa cu <i>documentele</i> în câteva moduri:
+   1. <i>Căutare</i>:    Ei pot interoga o interfață API cu parametri preciși pentru a căuta fișiere/metadate pe fișiere.
+   2. <i>Recuperare</i>: Pot face căutări semantice pentru a găsi sursa relevantă de date (acesta este doar RAG!)
+   3. <i>Analiză</i>:    Pot interoga o bază de date structurată pentru a obține informații agregate din documentele lor.
+   4. <i>Manipulare</i>: Pot apela un set de funcții expuse de tipul de fișier pentru a manipula fișierul
+      (de exemplu, efectuarea calculelor pe o foaie Excel, editarea în Word/PowerPoint)
    
-   Dacă doriți să construiți agenți eficienți peste surse de date precum documente, atunci aveți nevoie de
-   instrumente foarte bune peste aceste documente.  
+   Dacă doriți să construiți <b>Agenți</b> eficienți peste surse de date precum documente, atunci aveți nevoie de
+   <b><i>instrumente</i></b> foarte bune peste aceste <i>documente</i>i>.  
 
-   In LlamaCloud sunt deja unele dintre "instrumentele de documente" de bază
-    - analiză,
-    - extragere,
-    - indexare
-    - și se construiesc mult mai multe.
+   In <b>LlamaCloud</b> sunt deja unele dintre "<b><i>instrumentele</i></b> de <i>documente</i>i>" de bază:
+    - <b><i>analiză</i></b>,
+    - <b><i>extragere</i></b>,
+    - <b><i>indexare</i></b>
+    - și se construiesc mult mai <b><i>multe</i></b>(care sa acopere conducta ETL si nu numai...).
    </pre>
 
    <hr/>
