@@ -35,6 +35,8 @@ Aici voi plasa tutoriale,ghiduri... pentru efectuarea unor sarcini/task-uri/acti
     - și se construiesc mult mai <b><i>multe</i></b>(instrumente care sa acopere conducta ETL si nu numai...).
    </pre>
 
+   Puteti afla mult mai multe lucruri din [articolul original](https://www.linkedin.com/feed/?highlightedUpdateType=PAGES_TRENDING_CONTENT_BY_COMPANY_YOU_FOLLOW&highlightedUpdateUrn=urn%3Ali%3Aactivity%3A7326034385671983104) al lui <b>Jerry-Liu</b>...lectura placuta!
+   
    <hr/>
    
    </details>
