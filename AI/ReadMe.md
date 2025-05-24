@@ -25,7 +25,7 @@ Aici voi plasa tutoriale,ghiduri... pentru efectuarea unor sarcini/task-uri/acti
       (de exemplu, efectuarea <b><i>calculelor</i></b> pe o <i>foaie Excel</i>, <b><i>editarea</i></b> în <i>Word/PowerPoint</i>)
    
    Dacă doriți să construiți <b>Agenți</b> eficienți peste <i>surse de date</i> precum <i>documente</i>, atunci aveți nevoie de
-   <b><i>instrumente</i></b> foarte bune peste aceste <i>documente</i>i>.  
+   <b><i>instrumente</i></b> foarte bune peste aceste <i>documente</i>.  
 
    In <b>LlamaCloud</b> sunt deja unele dintre "<b><i>instrumentele</i></b> de <i>documente</i>" de bază:
     - <b><i>analiză(3)</i></b>,
