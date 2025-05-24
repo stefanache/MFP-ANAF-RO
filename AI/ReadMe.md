@@ -15,7 +15,7 @@ Aici voi plasa tutoriale,ghiduri... pentru efectuarea unor sarcini/task-uri/acti
    în jurul modelului <b>fluxurilor de lucru</b>(de tip <b>decide</b> si <b>actioneaza</b>) ale <b>Agenților</b>
    care interacționează cu <b><i>instrumentele</i></b> specifice.
 
-   <b>Agenții</b> pot apela <b><i>instrumente</i></b>(decide si actioneaza) și pot <b><i>recupera</i></b>(decide si actioneaza) <i>date</i>(în sens general!).
+   <b>Agenții</b> pot(decide si actiona) apela <b><i>instrumente</i></b> și pot(decide si actiona) <b><i>recupera</i></b> <i>date</i>(în sens general!).
    Aici ne putem concentra pe <i>documente</i>(fisierele sunt containere de continut-document care sunt vazute ca si <i>sursa de date</i>!).
    <b>Agenții</b> pot interacționa cu <i>documentele</i> în câteva moduri:
    1. <b><i>Căutare</i></b>:    Ei pot <b><i>interoga</i></b> o interfață API cu parametri preciși pentru a căuta <i>fișiere</i>/<i>metadate pe/de fișiere</i>.
