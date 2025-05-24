@@ -6,8 +6,8 @@ Aici voi plasa tutoriale,ghiduri... pentru efectuarea unor sarcini/task-uri/acti
  - [ro-pt: Ghid agenti AI oferit de echipa OpenAI ](https://www.pt.ro/openai-ghid-agenti/)
    <br/>Q: Ce este un agent?
 <br/>Ghidul-OpenAI defineşte agentul ca
-<br/>„un sistem care execută în mod autonom un flux-de-lucru(workflow) în numele/pt utilizator[ului]”,
-<br/>recunoscând când sarcina e terminată, corectându‑se sau cedând controlul la nevoie.
+<br/>„un sistem care execută/<b>acţionează</b> în mod autonom un flux-de-lucru(workflow) în numele/pt utilizator[ului]”,
+<br/>recunoscând când sarcina e terminată, corectându‑se sau cedând controlul la nevoie(<b>decide</b> ).
 <br/>O simplă interfaţă de chat pe un LLM nu este agent dacă(pt ca...) NU <b>decide</b> şi NU <b>acţionează</b>.
  - [A step-by-step guide to creating an AI Travel Agent with Microsoft AutoGen Studio](https://medium.com/@wxia8888/a-step-by-step-guide-to-creating-an-ai-travel-agent-with-microsoft-autogen-studio-7295592331ac)
  - [30 LLM-uri pt. drept(law)-financiar](https://www.lawstudies.ro/llm/drept-financiar); [FinGPT](https://levelup.gitconnected.com/fingpt-open-source-llm-for-finance-e8ec10d0bf40)-[framework(img)](https://miro.medium.com/v2/resize:fit:1400/1*NcxcT0TfKAK8vZYBAsFAFQ.png)
