@@ -2,7 +2,8 @@ Salut!
 
 Aici voi plasa tutoriale,ghiduri... pentru efectuarea unor sarcini/task-uri/activitati economice,drept,medical(si nu numai...) folosind AI([domain-specific-LLMs](https://medium.com/sage-ai/building-domain-specific-llms-for-reliable-accounting-solutions-at-sage-f5f49479c8ad), Mecanismul atentiei in transformatoare,...):
 
- - [ro-pt: Ghid agenti AI oferit de cechipa OpenAI ](https://www.pt.ro/openai-ghid-agenti/)
+ - [Jerry-Liu:  “document MCP server” for AI agents](https://www.linkedin.com/posts/jerry-liu-64390071_ive-been-thinking-about-this-idea-of-a-activity-7326034385671983104-KU7l?utm_source=share&utm_medium=member_desktop&rcm=ACoAABLIPGMB6KpJrQjF9LX4I4WFQuRY84ckvhg)
+ - [ro-pt: Ghid agenti AI oferit de echipa OpenAI ](https://www.pt.ro/openai-ghid-agenti/)
    <br/>Q: Ce este un agent?
 <br/>Ghidul-OpenAI defineşte agentul ca
 <br/>„un sistem care execută în mod autonom un flux-de-lucru(workflow) în numele/pt utilizator[ului]”,
