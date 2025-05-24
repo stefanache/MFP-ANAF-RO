@@ -12,7 +12,7 @@ Aici voi plasa tutoriale,ghiduri... pentru efectuarea unor sarcini/task-uri/acti
    <pre>Motivul pentru care <b>RAG</b> a devenit atât de popular ca si concept este
    pentru că oamenii au vrut o modalitate de a conecta <b>LLM</b>-urile cu propriile(deci private!) <i>surse de date</i>.
    Odată cu creșterea <b>Agenților</b>/<b>MCP</b>/<b>A2A</b>, putem reformula această idee
-   în jurul modelului <b>fluxurilor de lucru</b> ale <b>Agenților</b>
+   în jurul modelului <b>fluxurilor de lucru</b>(de tip <b>decide</b> si <b>actioneaza</b>) ale <b>Agenților</b>
    care interacționează cu instrumentele.
 
    <b>Agenții</b> pot apela instrumente(decide si actioneaza) și pot recupera date(decide si actioneaza) în sens general.
