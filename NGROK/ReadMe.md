@@ -56,7 +56,7 @@ Orchestratorii vă ajută să dezvoltați aplicații containerizate la scară la
  - Coordonarea actualizărilor aplicațiilor
  - Afinitatea nodului de cluster
 
-<br/>hr/>
+<br/><hr/>
 
 </details>
 
