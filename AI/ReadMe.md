@@ -21,7 +21,7 @@ Aici voi plasa tutoriale,ghiduri... pentru efectuarea unor sarcini/task-uri/acti
    1. <b><i>Căutare</i></b>:    Ei pot <b><i>interoga</i></b> o interfață API cu parametri preciși pentru a căuta <i>fișiere</i>/<i>metadate pe/de fișiere</i>.
    2. <b><i>Recuperare</i></b>: Pot face <b><i>căutări semantice</i></b> pentru a găsi <i>sursa relevantă de date</i> (acesta este doar <b>RAG</b>!)
    3. <b><i>Analiză</i></b>:    Pot <b><i>interoga</i></b> o bază de date(BD) structurată pentru a obține informații agregate din <i>documentele</i> lor(rezumate/sumarizari).
-   4. <b><i>Manipulare</i></b>: Pot apela un set de funcții expuse de tipul de fișier pentru a manipula fișierul
+   4. <b><i>Manipulare</i></b>: Pot apela un set de funcții expuse de/dupa tipul-de-<i>fișier</i> pentru a <b><i>manipula</i></b> <i>fișierul</i>
       (de exemplu, efectuarea <b><i>calculelor</i></b> pe o <i>foaie Excel</i>, <b><i>editarea</i></b> în <i>Word/PowerPoint</i>)
    
    Dacă doriți să construiți <b>Agenți</b> eficienți peste <i>surse de date</i> precum <i>documente</i>, atunci aveți nevoie de
