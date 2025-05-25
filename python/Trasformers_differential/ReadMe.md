@@ -6,6 +6,10 @@ Salut!
 
 Variații ulterioare au fost adoptate pe scară largă pentru antrenarea modelelor lingvistice mari ([LLM](https://en.wikipedia.org/wiki/Large_language_model)) pe seturi de date (lingvistice) mari .
 
+[**Atentia**](https://en.wikipedia.org/wiki/Attention_(machine_learning)) este o metodă de învățare automată(ML) care determină importanța fiecărei componente dintr-o secvență în raport cu celelalte componente din acea secvență. 
+<br/>În procesarea limbajului natural(NLP), importanța este reprezentată de ponderi „soft” atribuite fiecărui cuvânt dintr-o propoziție. 
+<br/>Mai general, atenția codifică vectori numiți încorporări de token-uri pe o secvență cu lățime fixă , care poate varia de la zeci la milioane de token-uri în dimensiune.
+
 Mecanismul [**(auto)atentiei**](https://www.geeksforgeeks.org/cross-attention-mechanism-in-transformers/)(utilizat in [**Transformers**](https://medium.com/analytics-vidhya/understanding-q-k-v-in-transformer-self-attention-9a5eddaa5960)!) este implementat/calculat/procesat prin (invocarea) functiei-de-[activare](https://poloclub.github.io/transformer-explainer/) [**softmax**](https://dev.to/jliciagasilva/differential-transformers-explained-3h2j?signin=true#_=_).
 
 Problema acestuia([T](https://medium.com/@sujankarki269/understanding-transformer-by-step-by-step-math-9ba09bb4ac88)) este ca in cazul contextelor(ferestrelor de context) lungi/mari isi foloseste mecanismul [Atentiei/ML](https://en.wikipedia.org/wiki/Attention_(machine_learning)) defectuos,
