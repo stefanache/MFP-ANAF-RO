@@ -4,7 +4,7 @@ Salut!
 
 [Transformatoarele](https://medium.com/@sujankarki269/understanding-transformer-by-step-by-step-math-9ba09bb4ac88) au avantajul că NU au unități recurente, necesitând astfel mai puțin timp de antrenament decât arhitecturile neuronale recurente anterioare (R[NN](https://www.youtube.com/watch?v=KphmOJnLAdI&ab_channel=StatQuestwithJoshStarmer), cum ar fi memoria pe termen scurt ([LSTM](https://en.wikipedia.org/wiki/Long_short-term_memory)).
 
-Variații ulterioare au fost adoptate pe scară largă pentru antrenarea modelelor lingvistice mari ([LLM](https://en.wikipedia.org/wiki/Large_language_model)) pe seturi de date (lingvistice) mari .
+[Variații](https://e2eml.school/transformers.html) ulterioare au fost adoptate pe scară largă pentru antrenarea modelelor lingvistice mari ([LLM](https://en.wikipedia.org/wiki/Large_language_model)) pe seturi de date (lingvistice) mari .
 
 [**Atentia**](https://en.wikipedia.org/wiki/Attention_(machine_learning)) este o metodă de învățare automată(ML) care determină importanța fiecărei componente dintr-o secvență în raport cu celelalte componente din acea secvență( a se re-vedea sistemul [QKV](https://medium.com/@mucun.gaoxin/understanding-the-key-equation-in-transformer-b72d36edd9b9) al atentiei si notiunile [algebrei lineare](https://medium.com/@ambika199820/basic-concepts-of-linear-algebra-for-data-science-and-machine-learning-1e2ebdc56521) aferente!). 
 <br/>În procesarea limbajului natural(NLP), importanța este reprezentată de ponderi „soft” atribuite fiecărui cuvânt dintr-o propoziție. 
