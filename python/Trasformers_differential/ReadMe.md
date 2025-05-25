@@ -6,6 +6,8 @@ Salut!
 
 Variații ulterioare au fost adoptate pe scară largă pentru antrenarea modelelor lingvistice mari ([LLM](https://en.wikipedia.org/wiki/Large_language_model)) pe seturi de date (lingvistice) mari .
 
+Mecanismul **atentiei**(utilizat in [**Transformers**](https://medium.com/analytics-vidhya/understanding-q-k-v-in-transformer-self-attention-9a5eddaa5960)!) este implementat/calculat/procesat prin (invocarea) functiei [**softmax**](https://dev.to/jliciagasilva/differential-transformers-explained-3h2j?signin=true#_=_).
+
 Problema acestuia([T](https://medium.com/@sujankarki269/understanding-transformer-by-step-by-step-math-9ba09bb4ac88)) este ca in cazul contextelor(ferestrelor de context) lungi/mari isi foloseste mecanismul [Atentiei/ML](https://en.wikipedia.org/wiki/Attention_(machine_learning)) defectuos,
 alocand o "atentie(hai sa spunem ...suplimentara/excesiva/inutila)", continutului irelevant(zgomotos), ducand la o **dispresie** importanta a (auto)atentiei acestuia.
 
