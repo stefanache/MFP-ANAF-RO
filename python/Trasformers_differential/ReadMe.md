@@ -4,7 +4,7 @@ Salut!
 
 Transformatoarele au avantajul că NU au unități recurente, necesitând astfel mai puțin timp de antrenament decât arhitecturile neuronale recurente anterioare (RNN), cum ar fi memoria pe termen scurt (LSTM).
 
-Variații/Versiuni ulterioare au fost adoptate pe scară largă pentru antrenarea modelelor lingvistice mari (LLM) pe seturi de date (lingvistice) mari .
+Variații ulterioare au fost adoptate pe scară largă pentru antrenarea modelelor lingvistice mari (LLM) pe seturi de date (lingvistice) mari .
 
 Problema lui este ca in cazul contextelor foarte lungi isi foloseste mecanismul [Atentiei/ML](https://en.wikipedia.org/wiki/Attention_(machine_learning)) defectuos,
 alocand o "atentie  excesiva", continutului irelevant(zgomotos).
