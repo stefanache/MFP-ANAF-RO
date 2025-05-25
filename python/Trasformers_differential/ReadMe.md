@@ -45,3 +45,6 @@ Diferența dintre aceste hărți permite modelului să:
  - Sa-si Îmbunătățeasca performanța la procesarea datelor de intrare cu context lung , cum ar fi text de lungimea unei cărți sau date din mai multe documente .
 
 Acest design(***TD***) asigură că modelul(**LLM**) oferă rezultate mai precise, stabile și eficiente , chiar și în scenarii dificile care implică intrări la scară largă sau date zgomotoase.
+
+Asadar ***TD*** introduce invatarea bazata pe atentia/concentrarea indreptata asupra zonelor <ins>esentiale/diferentiate</ins> ale textelor mari.
+
