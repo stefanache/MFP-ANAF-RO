@@ -1,6 +1,6 @@
 Salut!
 
-[**Transformers(T)**](https://en.wikipedia.org/wiki/Transformer_(deep_learning_architecture)#Subsequent_work) este(fara doar si poate) [arhitectura](https://poloclub.github.io/transformer-explainer/) cea mai utilizata astazi in taskurile-AI(ML/[DL](https://ai-romania.ro/revolutionarea-ia-prin-transformer-si-llm-o-explicatie-detaliata/)) moderne(spre ex. traducerea unui text foarte lung al unei carti din lb. engleza in lb. romana).
+[**Transformers(T)**](https://en.wikipedia.org/wiki/Transformer_(deep_learning_architecture)#Subsequent_work) este(fara doar si poate) [arhitectura](https://poloclub.github.io/transformer-explainer/) cea mai utilizata astazi in taskurile-AI(ML/[DL](https://ai-romania.ro/revolutionarea-ia-prin-transformer-si-llm-o-explicatie-detaliata/)) moderne(spre ex. traducerea unui text foarte lung al unei carti din lb. engleza in lb. romana sau spre ex. pt obtinerea unui rezumat al unei carti foarte stufoase si complexe...).
 
 [Transformatoarele](https://medium.com/@sujankarki269/understanding-transformer-by-step-by-step-math-9ba09bb4ac88) au avantajul că NU au unități recurente, necesitând astfel mai puțin timp de antrenament decât arhitecturile neuronale recurente anterioare (R[NN](https://www.youtube.com/watch?v=KphmOJnLAdI&ab_channel=StatQuestwithJoshStarmer), cum ar fi memoria pe termen scurt ([LSTM](https://en.wikipedia.org/wiki/Long_short-term_memory)).
 
