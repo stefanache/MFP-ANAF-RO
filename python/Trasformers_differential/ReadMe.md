@@ -37,7 +37,7 @@ In aceste conditii a aparut conceptul de [**Differential(DIFF)-Transformers(DT)*
  - [...](https://www.google.com/search?q=AI+differential+transformers&sca_esv=696a4842670b0588&rlz=1C1CHBF_enRO1132RO1132&udm=2&biw=1920&bih=911&sxsrf=AE3TifO-3zWJVnMVH2_r__rjWgEZriebVQ%3A1748159812639&ei=RM0yaMDfJsqsxc8Ps9rfgA8&ved=0ahUKEwjAkZLlkr6NAxVKVvEDHTPtF_AQ4dUDCBE&uact=5&oq=AI+differential+transformers&gs_lp=EgNpbWciHEFJIGRpZmZlcmVudGlhbCB0cmFuc2Zvcm1lcnMyBxAjGCcYyQJItRBQngtYngtwAXgAkAEAmAFvoAFvqgEDMC4xuAEDyAEA-AEBmAIBoAJymAMAiAYBkgcDMC4xoAfMArIHAzAuMbgHcsIHAzAuMcgHAg&sclient=img)
 
 
-***Transformatorul DIFF(TD)*** introduce un mecanism de **atenție-diferențială** care in esenta compară(prin diferenta) două hărți [softmax](https://en.wikipedia.org/wiki/Softmax_function). 
+***Transformatorul DIFF(TD)*** introduce un mecanism de **atenție-diferențială** care in esenta compară(prin diferenta) două hărți [softmax](https://en.wikipedia.org/wiki/Softmax_function)(scorul de atentie provine din mecanismul de atentie care permite modelului sa se concentreze pe o parte specifica a secventei de intrare atunci cand genereaza iesirea, deoarece daca ne gandim la o RN, modelul are 70 miliarde de parametrii diferiti apoi sunt ponderile, sunt biti si deci se intampla multe lucruri in straturile modelului...incat in loc sa acopere totul, modelul isi concentreaza atentia asupra unei parti specifice ale acelei intrari si apoi genereaza iesirea cu ajutorul functiei softMax si asta duce la cateva beneficii importante). 
 
 Diferența dintre aceste hărți permite modelului să:
 
