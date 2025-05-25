@@ -9,7 +9,7 @@ Variații ulterioare au fost adoptate pe scară largă pentru antrenarea modelel
 Problema acestuia([T](https://medium.com/@sujankarki269/understanding-transformer-by-step-by-step-math-9ba09bb4ac88)) este ca in cazul contextelor(ferestrelor de context) lungi isi foloseste mecanismul [Atentiei/ML](https://en.wikipedia.org/wiki/Attention_(machine_learning)) defectuos,
 alocand o "atentie(hai sa spunem ...suplimentara/excesiva/inutila)", continutului irelevant(zgomotos), ducand la o **dispresie** importanta a (auto)atentiei acestuia.
 
-In aceste conditii a aparut conceptul de [**Differential-Transformers(DT)**](https://medium.com/@jagadeesan.ganesh/differential-transformers-an-advanced-approach-to-efficient-attention-in-nlp-8b9ffd931df5), concept ma straduiesc sa-l acoper prin cateva link-uri/referente (sper eu...)interesante:
+In aceste conditii a aparut conceptul de [**Differential(DIFF)-Transformers(DT)**](https://medium.com/@jagadeesan.ganesh/differential-transformers-an-advanced-approach-to-efficient-attention-in-nlp-8b9ffd931df5), concept ma straduiesc sa-l acoper prin cateva link-uri/referente (sper eu...)interesante:
 
  - [medium@jagadeesan.ganesh: DT-an-advanced-approach-to-efficient-attention-in-NLP](https://medium.com/@jagadeesan.ganesh/differential-transformers-an-advanced-approach-to-efficient-attention-in-nlp-8b9ffd931df5)
  - [medium@sahin.samia: DT-explained-what-is-it-and-how-does-it-work](https://medium.com/@sahin.samia/differential-transformer-explained-what-is-it-and-how-does-it-work-437d91bd8724)
