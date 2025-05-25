@@ -8,3 +8,4 @@ O sa aduc in centrul atentiei dumneavoastra conceputl de [**Differential-Transfo
  - [medium@machine-learning-made-simple: an-introduction-to-the-DT](https://machine-learning-made-simple.medium.com/an-introduction-to-the-differential-transformer-ecaa86b1b6a7)
  - [medium@artgor: Paper review DT](https://artgor.medium.com/paper-review-differential-transformer-89a47bbb9700)
  - [medium@AykutCayir34: lets-implement-DT-paper](https://medium.com/@AykutCayir34/lets-implement-differential-transformer-paper-0e4499659604)
+ - [GH@paulilioaica: DT](https://github.com/paulilioaica/Differential-Transformer)
