@@ -46,5 +46,5 @@ Diferența dintre aceste hărți permite modelului să:
 
 Acest design(***TD***) asigură că modelul(**LLM**) oferă rezultate mai precise, stabile și eficiente , chiar și în scenarii dificile care implică intrări la scară largă sau date zgomotoase.
 
-Asadar ***TD*** introduce invatarea bazata pe atentia/concentrarea indreptata asupra zonelor <ins>esentiale/diferentiate</ins> ale textelor mari.
+Asadar ***TD*** introduce invatarea bazata pe [atentia](https://www.3blue1brown.com/lessons/attention)/concentrarea indreptata asupra zonelor <ins>esentiale/diferentiate</ins> ale textelor mari.
 
