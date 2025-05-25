@@ -20,6 +20,7 @@ In aceste conditii a aparut conceptul de [**Differential(DIFF)-Transformers(DT)*
  - [medium@artgor: Paper review DT](https://artgor.medium.com/paper-review-differential-transformer-89a47bbb9700)
  - [medium@AykutCayir34: lets-implement-DT-paper](https://medium.com/@AykutCayir34/lets-implement-differential-transformer-paper-0e4499659604)
  - [GH@paulilioaica: DT](https://github.com/paulilioaica/Differential-Transformer)
+ - [theAIsummer: Transfomers in CV](https://theaisummer.com/transformers-computer-vision/)
  - [arxiv: Understanding Differential Transformer Unchains Pretrained Self-Attentions](https://arxiv.org/html/2505.16333v1)
  - [linkden-pulse@andrey-lukyanenko: paper-review-DT](https://www.linkedin.com/pulse/paper-review-differential-transformer-andrey-lukyanenko-dbizf/)
  - [ro-electronica-azi: amplificatoarele-sunt-esentiale-pentru-precizia(eliminarea zgomotului-aditiv prin scadere si odata cu acesta eliminam acest tip de eroare)-unui-electrocardiograf-ecg](https://electronica-azi.ro/amplificatoarele-sunt-esentiale-pentru-precizia-unui-electrocardiograf-ecg/); [AO DIFF](https://eprofu.ro/docs/electronica/analogica/circuite/3amplificatoare-operationale.pdf)
