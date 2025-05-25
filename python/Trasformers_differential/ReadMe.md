@@ -13,7 +13,7 @@ Variații ulterioare au fost adoptate pe scară largă pentru antrenarea modelel
 <br/>Proiectele anterioare au implementat mecanismul de **atenție** într-un sistem de traducere a limbajului de tip rețea neuronală recurentă serială (RNN), dar un design mai recent, și anume **Transformatorul(T)** , a eliminat RNN secvențial mai lent și s-a bazat mai mult pe schema de atenție paralelă mai rapidă.
 <br/>Inspirat de ideile despre ***atenția** la oameni* , mecanismul atenției a fost dezvoltat pentru a aborda punctele slabe ale valorificării informațiilor din straturile ascunse ale rețelelor neuronale recurente. 
 <br/>Rețelele neuronale recurente(RNN) favorizează informațiile mai recente conținute în cuvintele de la sfârșitul unei propoziții, în timp ce informațiile anterioare în propoziție tind să fie atenuate(uitate). 
-<br/>**Atenția**permite unui simbol, acces egal, la orice parte a unei propoziții, in mod direct, mai degrabă decât doar prin starea anterioară.
+<br/>**Atenția** permite unui simbol, acces egal, la orice parte a unei propoziții, in mod direct, mai degrabă decât doar prin starea anterioară.
 
 Mecanismul [**(auto)atentiei**](https://www.geeksforgeeks.org/cross-attention-mechanism-in-transformers/)(utilizat in [**Transformers**](https://medium.com/analytics-vidhya/understanding-q-k-v-in-transformer-self-attention-9a5eddaa5960)!) este implementat/calculat/procesat prin (invocarea) functiei-de-[activare](https://poloclub.github.io/transformer-explainer/) [**softmax**](https://dev.to/jliciagasilva/differential-transformers-explained-3h2j?signin=true#_=_).
 
