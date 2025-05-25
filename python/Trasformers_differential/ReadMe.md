@@ -36,7 +36,7 @@ In aceste conditii a aparut conceptul de [**Differential(DIFF)-Transformers(DT)*
  - [...](https://www.google.com/search?q=AI+differential+transformers&sca_esv=696a4842670b0588&rlz=1C1CHBF_enRO1132RO1132&udm=2&biw=1920&bih=911&sxsrf=AE3TifO-3zWJVnMVH2_r__rjWgEZriebVQ%3A1748159812639&ei=RM0yaMDfJsqsxc8Ps9rfgA8&ved=0ahUKEwjAkZLlkr6NAxVKVvEDHTPtF_AQ4dUDCBE&uact=5&oq=AI+differential+transformers&gs_lp=EgNpbWciHEFJIGRpZmZlcmVudGlhbCB0cmFuc2Zvcm1lcnMyBxAjGCcYyQJItRBQngtYngtwAXgAkAEAmAFvoAFvqgEDMC4xuAEDyAEA-AEBmAIBoAJymAMAiAYBkgcDMC4xoAfMArIHAzAuMbgHcsIHAzAuMcgHAg&sclient=img)
 
 
-Transformatorul DIFF(TD) introduce un mecanism de **atenție-diferențială** care in esenta compară(prin diferenta) două hărți [softmax](https://en.wikipedia.org/wiki/Softmax_function). 
+***Transformatorul DIFF(TD)*** introduce un mecanism de **atenție-diferențială** care in esenta compară(prin diferenta) două hărți [softmax](https://en.wikipedia.org/wiki/Softmax_function). 
 
 Diferența dintre aceste hărți permite modelului să:
 
@@ -44,4 +44,4 @@ Diferența dintre aceste hărți permite modelului să:
  - Sa-si Îmbunătățeasca robustețea atunci când abordeaza sarcini complexe, cu mai mulți pași.
  - Sa-si Îmbunătățeasca performanța la procesarea datelor de intrare cu context lung , cum ar fi text de lungimea unei cărți sau date din mai multe documente .
 
-Acest design asigură că modelul oferă rezultate mai precise, stabile și eficiente , chiar și în scenarii dificile care implică intrări la scară largă sau date zgomotoase.
+Acest design(***TD***) asigură că modelul(**LLM**) oferă rezultate mai precise, stabile și eficiente , chiar și în scenarii dificile care implică intrări la scară largă sau date zgomotoase.
