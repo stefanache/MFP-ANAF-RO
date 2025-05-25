@@ -49,3 +49,8 @@ Acest design(***TD***) asigură că modelul(**LLM**) oferă rezultate mai precis
 
 Asadar ***TD*** introduce invatarea bazata pe [atentia](https://www.3blue1brown.com/lessons/attention)/concentrarea indreptata asupra zonelor <ins>esentiale/diferentiate</ins> ale textelor mari.
 
+Inovația cheie constă în faptul că modelul calculează diferența dintre două matrici SoftMax , generate după etapele de identificare a mai multor elemente și de autoatenție, unde fiecare matrice accentuează aspecte diferite ale propoziției. 
+<br/>Prin scăderea acestor matrici, se creează o matrice nouă, mai rafinată, oferind o înțelegere mai clară a relațiilor dintre elemente. 
+<br/>Gradul de scădere este controlat de un parametru numit Lambda - cu cât Lambda este mai mare, cu atât este mai mare magnitudinea diferenței. 
+<br/>Acest proces permite modelului să se concentreze nu doar pe ***importanța*** elementelor, ci și pe ***diferențele*** și ***dependențele*** acestora, ceea ce duce la o mai bună *înțelegere(NLU) contextuală*.
+
