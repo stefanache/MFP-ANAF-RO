@@ -4,7 +4,7 @@ Salut!
 
 [Transformatoarele](https://medium.com/@sujankarki269/understanding-transformer-by-step-by-step-math-9ba09bb4ac88) au avantajul că NU au unități recurente, necesitând astfel mai puțin timp de antrenament decât arhitecturile neuronale recurente anterioare (R[NN](https://www.youtube.com/watch?v=KphmOJnLAdI&ab_channel=StatQuestwithJoshStarmer), cum ar fi memoria pe termen scurt ([LSTM](https://en.wikipedia.org/wiki/Long_short-term_memory)).
 
-Variații ulterioare au fost adoptate pe scară largă pentru antrenarea modelelor lingvistice mari (LLM) pe seturi de date (lingvistice) mari .
+Variații ulterioare au fost adoptate pe scară largă pentru antrenarea modelelor lingvistice mari ([LLM](https://en.wikipedia.org/wiki/Large_language_model)) pe seturi de date (lingvistice) mari .
 
 Problema acestuia([T](https://medium.com/@sujankarki269/understanding-transformer-by-step-by-step-math-9ba09bb4ac88)) este ca in cazul contextelor(ferestrelor de context) lungi/mari isi foloseste mecanismul [Atentiei/ML](https://en.wikipedia.org/wiki/Attention_(machine_learning)) defectuos,
 alocand o "atentie(hai sa spunem ...suplimentara/excesiva/inutila)", continutului irelevant(zgomotos), ducand la o **dispresie** importanta a (auto)atentiei acestuia.
