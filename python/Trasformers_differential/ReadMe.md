@@ -6,3 +6,4 @@ O sa aduc in centrul atentiei dumneavoastra conceputl de [**Differential-Transfo
  - [medium@sahin.samia: DT-explained-what-is-it-and-how-does-it-work](https://medium.com/@sahin.samia/differential-transformer-explained-what-is-it-and-how-does-it-work-437d91bd8724)
  - [medium@isaakmwangi2018: intro-to-DT-a-new-attention-mechanisms-for(4)-LLMs](https://medium.com/@isaakmwangi2018/intro-to-differential-transformers-a-new-attention-mechanisms-for-large-language-models-llms-9d977b5857ae)
  - [medium@artgor: Paper review DT](https://artgor.medium.com/paper-review-differential-transformer-89a47bbb9700)
+ - [medium@AykutCayir34: lets-implement-DT-paper](https://medium.com/@AykutCayir34/lets-implement-differential-transformer-paper-0e4499659604)
