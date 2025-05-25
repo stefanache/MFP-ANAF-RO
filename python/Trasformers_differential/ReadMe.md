@@ -6,7 +6,7 @@ Salut!
 
 Variații ulterioare au fost adoptate pe scară largă pentru antrenarea modelelor lingvistice mari (LLM) pe seturi de date (lingvistice) mari .
 
-Problema acestuia([T](https://medium.com/@sujankarki269/understanding-transformer-by-step-by-step-math-9ba09bb4ac88)) este ca in cazul contextelor(ferestrelor de context) lungi isi foloseste mecanismul [Atentiei/ML](https://en.wikipedia.org/wiki/Attention_(machine_learning)) defectuos,
+Problema acestuia([T](https://medium.com/@sujankarki269/understanding-transformer-by-step-by-step-math-9ba09bb4ac88)) este ca in cazul contextelor(ferestrelor de context) lungi/mari isi foloseste mecanismul [Atentiei/ML](https://en.wikipedia.org/wiki/Attention_(machine_learning)) defectuos,
 alocand o "atentie(hai sa spunem ...suplimentara/excesiva/inutila)", continutului irelevant(zgomotos), ducand la o **dispresie** importanta a (auto)atentiei acestuia.
 
 In aceste conditii a aparut conceptul de [**Differential(DIFF)-Transformers(DT)**](https://medium.com/@jagadeesan.ganesh/differential-transformers-an-advanced-approach-to-efficient-attention-in-nlp-8b9ffd931df5), concept ma straduiesc sa-l acoper prin cateva link-uri/referente (sper eu...)interesante:
