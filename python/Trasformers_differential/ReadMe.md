@@ -2,7 +2,7 @@ Salut!
 
 [**Transformers(T)**](https://en.wikipedia.org/wiki/Transformer_(deep_learning_architecture)#Subsequent_work) este fara doar si poate arhitectura cea mai utilizata astazi in taskurile-AI(ML/DL) moderne(spre ex. traducerea unui text foarte lung al unei carti din lb. engleza in lb. romana).
 
-[Transformatoarele](https://medium.com/@sujankarki269/understanding-transformer-by-step-by-step-math-9ba09bb4ac88) au avantajul că NU au unități recurente, necesitând astfel mai puțin timp de antrenament decât arhitecturile neuronale recurente anterioare (R[NN](https://www.youtube.com/watch?v=KphmOJnLAdI&ab_channel=StatQuestwithJoshStarmer), cum ar fi memoria pe termen scurt (LSTM).
+[Transformatoarele](https://medium.com/@sujankarki269/understanding-transformer-by-step-by-step-math-9ba09bb4ac88) au avantajul că NU au unități recurente, necesitând astfel mai puțin timp de antrenament decât arhitecturile neuronale recurente anterioare (R[NN](https://www.youtube.com/watch?v=KphmOJnLAdI&ab_channel=StatQuestwithJoshStarmer), cum ar fi memoria pe termen scurt ([LSTM](https://en.wikipedia.org/wiki/Long_short-term_memory)).
 
 Variații ulterioare au fost adoptate pe scară largă pentru antrenarea modelelor lingvistice mari (LLM) pe seturi de date (lingvistice) mari .
 
