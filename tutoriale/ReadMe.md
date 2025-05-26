@@ -248,9 +248,8 @@ Cred ca si acest [articol](https://mofu-dev.com/en/blog/stable-fluids/) merita s
 
  <hr/>
 
- Un subiect care mi-a atras atentia(in mod deosebit), este cel ce se refera la comparatia [**GW** vs. **LB**](https://www.linkedin.com/posts/akash-shivankar_a-picture-is-worth-1000-words-activity-7225542366898577408-fYyM/)
- 
 </details>
 
-
+ Un subiect care mi-a atras atentia(in mod deosebit), este cel ce se refera la comparatia [**GW** vs. **LB**](https://www.linkedin.com/posts/akash-shivankar_a-picture-is-worth-1000-words-activity-7225542366898577408-fYyM/)
+ 
 ...
