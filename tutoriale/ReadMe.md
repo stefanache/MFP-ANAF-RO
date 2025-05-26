@@ -275,7 +275,7 @@ Cred ca si acest [articol](https://mofu-dev.com/en/blog/stable-fluids/) merita s
  - monitorizarea și ...
  - ... multe altele.
 
-Un gateway API(**API-GW**) este ideal pentru *arhitecturile-de-microservicii* care au nevoie de gestionarea centralizată(***integrată***) a solicitărilor API.
+Un gateway API([**API-GW**](https://github.com/madagra/python-api-gateway)) este ideal pentru *arhitecturile-de-microservicii* care au nevoie de gestionarea centralizată(***integrată***) a solicitărilor API.
 
 <hr/>
 
