@@ -260,7 +260,7 @@ Cred ca si acest [articol](https://mofu-dev.com/en/blog/stable-fluids/) merita s
 
 <hr/>
 
-1) Un API Gateway(**API-GW**) acționează ca un singur punct de intrare pentru clienți, 
+1) Un API-Gateway([**API-GW**](https://medium.com/@shaliamekh/api-gateway-for-your-microservices-98a779808550)) acționează ca un singur punct de intrare pentru clienți, 
 <br/>gestionând:
 
  - rutarea cererilor(fiind orientat catre cerere/apel/solicitare),
