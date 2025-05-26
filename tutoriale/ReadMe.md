@@ -254,11 +254,11 @@ Cred ca si acest [articol](https://mofu-dev.com/en/blog/stable-fluids/) merita s
  Un subiect care mi-a atras atentia(in mod deosebit), este cel ce se refera la comparatia/paralela [**GW** vs. **LB**](https://www.linkedin.com/posts/akash-shivankar_a-picture-is-worth-1000-words-activity-7225542366898577408-fYyM/)
 
 <details>
- <summary>...depre GW vs LB!</summary>
+ <summary>...depre GW vs. LB!</summary>
+
+API Gateway(**API-GW**) ***vs.*** Load Balancer(**LB**) — Care este ***diferența***?
 
 <hr/>
-
-API Gateway vs Load Balancer — Care este diferența?
 
 Un API Gateway(**API-GW**) acționează ca un singur punct de intrare pentru clienți, 
 <br/>gestionând:
@@ -279,7 +279,7 @@ Un gateway API(**API-GW**) este ideal pentru *arhitecturile-de-microservicii* ca
 
 <hr/>
 
-Echilibratorii de încărcare(**LB**) sunt preocupați de direcționarea cererilor clienților pe mai multe servere pentru a distribui sarcina și a preveni blocajele. <br/>Acest lucru()scalarea folosind **LB**-urile) ajută la maximizarea randamentului, la reducerea timpului de răspuns și la optimizarea utilizării resurselor.
+Echilibratorii de încărcare/sarcina/trafic(**LB**) sunt preocupați de direcționarea cererilor clienților pe mai multe servere pentru a distribui sarcina și a preveni blocajele. <br/>Acest lucru()scalarea folosind **LB**-urile) ajută la maximizarea randamentului, la reducerea timpului de răspuns și la optimizarea utilizării resurselor.
 
 Un echilibrator de încărcare(**LB**) este esențial pentru aplicațiile care necesită ***disponibilitate ridicată***, *distribuind traficul* pe mai multe servere.
 
