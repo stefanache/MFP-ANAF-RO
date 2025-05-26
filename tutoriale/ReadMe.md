@@ -243,4 +243,10 @@ Cred ca si acest [articol](https://mofu-dev.com/en/blog/stable-fluids/) merita s
  <hr/>
  
 </details>
+
+La final, va propun spre lectura si aceste subiecte care au legatura cu **Transfomers**:
+
+ - [**Transformers**JS](https://github.com/stefanache/MFP-ANAF-RO/tree/main/python/TrasformersJS)
+ - [**DIFF-Transformers**](https://github.com/stefanache/MFP-ANAF-RO/tree/main/python/Trasformers_differential)
+
 ...
