@@ -290,7 +290,7 @@ Un echilibrator de încărcare(**LB**) este esențial pentru aplicațiile care n
 
 <hr/>
 
-Gateway-ul API(**API-GW**) se concentrează pe:
+Gateway-ul API([**API-GW**](https://ngrok.com/docs/guides/api-gateway/get-started/)) se concentrează pe:
 
  - gestionarea solicitărilor/apelurilor/cererilor/sarcinilor/traficului și
  - comunicarea cu microservicii(de obicei fiecare cu specificitatea sa privind functionalitatea),
