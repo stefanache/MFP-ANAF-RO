@@ -264,8 +264,8 @@ Cred ca si acest [articol](https://mofu-dev.com/en/blog/stable-fluids/) merita s
 <br/>gestionând:
 
  - rutarea cererilor(fiind orientat catre cerere/apel/solicitare),
- - compoziția protocolului și
- - traducerea protocolului. 
+ - compoziția protocolului(cerere-raspuns) și
+ - traducerea protocolului(cerere-raspuns). 
 
 <br/>Simplifică interacțiunile clienților cu microserviciile și 
 <br/>oferă funcții precum:
@@ -280,8 +280,8 @@ Un gateway API(**API-GW**) este ideal pentru *arhitecturile-de-microservicii* ca
 <hr/>
 
 2) Echilibratorii de încărcare/sarcina/trafic(**LB**) sunt preocupați de <ins>direcționarea cererilor clienților</ins> pe mai multe servere 
-<br/>pentru a 
- - distribui sarcina și
+<br/>pentru a ...
+ - a distribui sarcina și
  - a preveni blocajele(asigurand astfel un nivel de disponibilitate/"availibility" ridicat!). 
 
 <br/>Acest lucru(scalarea) folosind **LB**-urile) ajută la maximizarea randamentului, la reducerea timpului de răspuns și la optimizarea utilizării resurselor.
