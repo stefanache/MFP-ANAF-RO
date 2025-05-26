@@ -285,7 +285,7 @@ Gateway-urile API(**API-GW**) oferă funcții precum rutare, limitare a ratei, a
 Pe scurt, API-Gateway-urile(**API-GW**) gestionează și securizează apelurile API,
 <br/>în timp ce Load Balancers(**LB**) asigură o distribuție eficientă a traficului.
 
- <a href="https://www.linkedin.com/posts/akash-shivankar_a-picture-is-worth-1000-words-activity-7225542366898577408-fYyM/"><img src="https://media.licdn.com/dms/image/v2/D5622AQHjyNQbyBADcg/feedshare-shrink_800/feedshare-shrink_800/0/1722505726550?e=1750896000&v=beta&t=LHmxtQrbV95asjCzH2yXRQf3F24J6PLNVfDU2OKoF2I">GB vs. LB</img></a>
+ <a href="https://www.linkedin.com/posts/akash-shivankar_a-picture-is-worth-1000-words-activity-7225542366898577408-fYyM/"><img src="https://github.com/stefanache/MFP-ANAF-RO/blob/main/tutoriale/1722505726550.gif">GB vs. LB</img></a>
 
 <hr/>
 
