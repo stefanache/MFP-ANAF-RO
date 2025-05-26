@@ -320,12 +320,14 @@ Gateway-ul API(**API-GW**) oferă funcții precum
  - failOver.
 
 Atât un gateway-API(**API-GW**), cât și un echilibrator-de-încărcare(**LB**) <ins>gestionează traficul</ins>, dar o fac cu [***domenii de aplicare***](https://ro.wikipedia.org/wiki/Modelul_OSI) *diferite*. 
+
 <br/>Un echilibrator-de-încărcare(**LB**) <ins>distribuie</ins> *traficul-de-rețea* pe mai multe servere, concentrându-se pe 
 
  - performanță și
  - fiabilitate
  
  la nivel de rețea. 
+
 <br/>Un gateway-API(**API-GW**), pe de altă parte, <ins>gestionează</ins> și <ins>direcționează</ins> *cererile-API*, adăugând funcții precum 
 
  - autentificarea,
