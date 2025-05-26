@@ -254,7 +254,7 @@ Cred ca si acest [articol](https://mofu-dev.com/en/blog/stable-fluids/) merita s
  Un subiect care mi-a atras atentia(in mod deosebit), este cel ce se refera la comparatia/paralela [**API-GW** vs. **LB**](https://www.linkedin.com/posts/akash-shivankar_a-picture-is-worth-1000-words-activity-7225542366898577408-fYyM/)
 
 <details>
- <summary>...depre API-GW vs. LB!</summary>
+ <summary>...despre API-GW vs. LB!</summary>
 
 <br/>API Gateway([**API-GW**](https://wikitech.wikimedia.org/wiki/API_Gateway)) [***vs.***](https://stackoverflow.com/questions/66541514/layer-7-load-balancer-vs-api-gateway-vs-load-balancer-routing-service) Load Balancer([**LB**](https://wikitech.wikimedia.org/wiki/Load_balancing_architecture)) — Care este [***diferența***](https://www.solo.io/topics/api-gateway/api-gateway-vs-load-balancer)?
 
