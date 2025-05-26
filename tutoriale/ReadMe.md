@@ -279,7 +279,7 @@ Un gateway API([**API-GW**](https://github.com/madagra/python-api-gateway)) este
 
 <hr/>
 
-2) Echilibratorii de încărcare/sarcina/trafic(**LB**) sunt preocupați de <ins>direcționarea cererilor clienților</ins> pe mai multe servere 
+2) Echilibratorii de încărcare/sarcina/trafic([**LB**](https://stackoverflow.com/questions/3321722/implementing-load-balancing-using-python)) sunt preocupați de <ins>direcționarea cererilor clienților</ins> pe mai multe servere 
 <br/>pentru a ...
  - a distribui sarcina și
  - a preveni blocajele(asigurand astfel un nivel de disponibilitate/"availibility" ridicat!). 
