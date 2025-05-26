@@ -263,7 +263,7 @@ API Gateway vs Load Balancer — Care este diferența?
 Un API Gateway(**API-GW**) acționează ca un singur punct de intrare pentru clienți, gestionând rutarea cererilor, compoziția și traducerea protocolului. 
 <br/>Simplifică interacțiunile clienților cu microserviciile și oferă funcții precum limitarea ratei, autentificarea, monitorizarea și multe altele.
 
-Un gateway API(**API-GW**) este ideal pentru arhitecturile de microservicii care au nevoie de gestionarea centralizată a solicitărilor API.
+Un gateway API(**API-GW**) este ideal pentru arhitecturile de microservicii care au nevoie de gestionarea centralizată(integrată) a solicitărilor API.
 
 <hr/>
 
