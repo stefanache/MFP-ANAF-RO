@@ -319,7 +319,7 @@ Gateway-ul API(**API-GW**) oferă funcții precum
  - distribuția traficului și de
  - failOver.
 
-Atât un gateway-API(**API-GW**), cât și un echilibrator-de-încărcare(**LB**) gestionează traficul, dar o fac cu ***domenii de aplicare*** *diferite*. 
+Atât un gateway-API(**API-GW**), cât și un echilibrator-de-încărcare(**LB**) <ins>gestionează traficul</ins>, dar o fac cu ***domenii de aplicare*** *diferite*. 
 <br/>Un echilibrator-de-încărcare(**LB**) <ins>distribuie</ins> *traficul-de-rețea* pe mai multe servere, concentrându-se pe 
 
  - performanță și
