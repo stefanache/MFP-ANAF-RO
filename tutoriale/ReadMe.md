@@ -260,7 +260,7 @@ API Gateway(**API-GW**) ***vs.*** Load Balancer(**LB**) — Care este ***diferen
 
 <hr/>
 
-Un API Gateway(**API-GW**) acționează ca un singur punct de intrare pentru clienți, 
+1) Un API Gateway(**API-GW**) acționează ca un singur punct de intrare pentru clienți, 
 <br/>gestionând:
 
  - rutarea cererilor(fiind orientat catre cerere/apel/solicitare),
@@ -279,7 +279,7 @@ Un gateway API(**API-GW**) este ideal pentru *arhitecturile-de-microservicii* ca
 
 <hr/>
 
-Echilibratorii de încărcare/sarcina/trafic(**LB**) sunt preocupați de <ins>direcționarea cererilor clienților</ins> pe mai multe servere 
+2) Echilibratorii de încărcare/sarcina/trafic(**LB**) sunt preocupați de <ins>direcționarea cererilor clienților</ins> pe mai multe servere 
 <br/>pentru a 
  - distribui sarcina și
  - a preveni blocajele(asigurand astfel un nivel de disponibilitate/"availibility" ridicat!). 
