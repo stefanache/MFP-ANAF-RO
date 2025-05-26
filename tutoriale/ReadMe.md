@@ -279,8 +279,12 @@ Un gateway API(**API-GW**) este ideal pentru *arhitecturile-de-microservicii* ca
 
 <hr/>
 
-Echilibratorii de încărcare/sarcina/trafic(**LB**) sunt preocupați de direcționarea cererilor clienților pe mai multe servere pentru a distribui sarcina și a preveni blocajele(asigurand astfel un nivel de disponibilitate/"availibility" ridicat!). 
-<br/>Acest lucru()scalarea folosind **LB**-urile) ajută la maximizarea randamentului, la reducerea timpului de răspuns și la optimizarea utilizării resurselor.
+Echilibratorii de încărcare/sarcina/trafic(**LB**) sunt preocupați de <ins>direcționarea cererilor clienților</ins> pe mai multe servere 
+<br/>pentru a 
+ - distribui sarcina și
+ - a preveni blocajele(asigurand astfel un nivel de disponibilitate/"availibility" ridicat!). 
+
+<br/>Acest lucru(scalarea) folosind **LB**-urile) ajută la maximizarea randamentului, la reducerea timpului de răspuns și la optimizarea utilizării resurselor.
 
 Un echilibrator de încărcare(**LB**) este esențial pentru aplicațiile care necesită ***disponibilitate ridicată***, *distribuind traficul* pe mai multe servere.
 
