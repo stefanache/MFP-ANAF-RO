@@ -287,7 +287,7 @@ Un echilibrator de încărcare(**LB**) este esențial pentru aplicațiile care n
 
 Gateway-urile API(**API-GW**) se concentrează pe:
 
- - gestionarea solicitărilor și
+ - gestionarea solicitărilor/apelurilor/cererilor și
  - comunicarea cu microservicii,
    
 <br/>în timp ce Load Balancers(**LB**) se concentrează pe:
@@ -297,12 +297,12 @@ Gateway-urile API(**API-GW**) se concentrează pe:
 
 Gateway-urile API(**API-GW**) funcționează la: 
  
- - nivelul aplicației (L7), 
+ - nivelul aplicației (**L7** - mai aproape de SW), 
 
 <br/>în timp ce Load Balancers(**LB**) pot funcționa: 
 
- - atât la nivel de transport (L4),
- - cât și la nivel de aplicație (L7).
+ - atât la nivel de transport (**L4** - mai aproape de HW),
+ - cât și la nivel de aplicație (**L7**).
 
 Gateway-urile API(**API-GW**) oferă funcții precum 
 
