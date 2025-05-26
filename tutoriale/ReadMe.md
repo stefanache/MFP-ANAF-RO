@@ -322,7 +322,7 @@ Gateway-ul API(**API-GW**) oferă funcții precum
 <br/>Load Balancer-ul(**LB**) se ocupă de 
 
  - distribuția traficului și de
- - failOver(depasirea/trecerea peste o/evitarea unei faz[a/e] intermediare nedorite/de esec/eroare!!!).
+ - failOver(depasirea/trecerea peste o/evitarea unei faz[a/e] intermediare nedorite/de esec/eroare privind <br/>suprasolicitarea infrastructurii fizice de servere/HW din cauza unui trafic extrem de ridicat practicat de catre sarcinile clientilor!!!).
 
 Atât un gateway-API(**API-GW**), cât și un echilibrator-de-încărcare(**LB**) <ins>gestionează traficul</ins>, dar o fac cu [***domenii de aplicare***](https://ro.wikipedia.org/wiki/Modelul_OSI) *diferite*. 
 
