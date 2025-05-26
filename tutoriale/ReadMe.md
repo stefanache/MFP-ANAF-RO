@@ -239,14 +239,18 @@ Cred ca si acest [articol](https://mofu-dev.com/en/blog/stable-fluids/) merita s
 <br/>***Grosimea***/greutatea/importanta/accentuarea poate [fi] "cititita/vazuta/reliefata/scoate-in-evidenta" intr-o cheie/traducere/translatare/conversie de ***etichetare-semantica*** a liniilor/muchiilor cu semantica: componenta/cuvantul/tokenul-Sursa se-refera-la/se-raporteaza-la/are-un- interes/este-interesata-de(in sens [semantic/de-inteles/de-intelegere-a](https://lamarr-institute.org/blog/bert-model/) component[a/ei]/cuvantul/tokenul-Destinatie intr-un mod/grad=grosime mai mare/mic[a]!
 
 <br/><i>Bonus</i>: De asemenea la finalul acestui [articol](https://www.comet.com/site/blog/explainable-ai-for-transformers/) aveti cateva link-uri de resurse interesante!
- 
- <hr/>
- 
-</details>
 
-La final, va propun spre lectura si aceste subiecte care au legatura cu **Transfomers**:
+ La final, tot legat de subiectul **Transfomers**, va propun spre lectura si aceste cateva subiecte:
 
  - [**Transformers**JS](https://github.com/stefanache/MFP-ANAF-RO/tree/main/python/TransformersJS)
  - [**DIFF-Transformers**](https://github.com/stefanache/MFP-ANAF-RO/tree/main/python/Trasformers_differential)
+ - ...
+
+ <hr/>
+
+ 
+ 
+</details>
+
 
 ...
