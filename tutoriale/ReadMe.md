@@ -284,7 +284,7 @@ Un gateway API([**API-GW**](https://github.com/madagra/python-api-gateway)) este
  - a distribui sarcina și
  - a preveni blocajele(asigurand astfel un nivel de disponibilitate/"availibility" ridicat!). 
 
-<br/>Acest lucru(scalarea) folosind **LB**-urile) ajută la maximizarea randamentului, la reducerea timpului de răspuns și la optimizarea utilizării resurselor.
+<br/>Acest lucru(scalarea) folosind [**LB**](https://github.com/stefanache/MFP-ANAF-RO/tree/main/NGROK)-urile) ajută la maximizarea randamentului, la reducerea timpului de răspuns și la optimizarea utilizării resurselor.
 
 Un echilibrator de încărcare(**LB**) este esențial pentru aplicațiile care necesită ***disponibilitate ridicată***, *distribuind traficul* pe mai multe servere.
 
