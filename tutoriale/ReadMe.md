@@ -256,7 +256,7 @@ Cred ca si acest [articol](https://mofu-dev.com/en/blog/stable-fluids/) merita s
 <details>
  <summary>...depre API-GW vs. LB!</summary>
 
-API Gateway([**API-GW**](https://wikitech.wikimedia.org/wiki/API_Gateway)) ***vs.*** Load Balancer([**LB**](https://wikitech.wikimedia.org/wiki/Load_balancing_architecture)) — Care este ***diferența***?
+API Gateway([**API-GW**](https://wikitech.wikimedia.org/wiki/API_Gateway)) [***vs.***](https://stackoverflow.com/questions/66541514/layer-7-load-balancer-vs-api-gateway-vs-load-balancer-routing-service) Load Balancer([**LB**](https://wikitech.wikimedia.org/wiki/Load_balancing_architecture)) — Care este ***diferența***?
 
 <hr/>
 
