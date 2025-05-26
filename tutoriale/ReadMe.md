@@ -257,8 +257,38 @@ Cred ca si acest [articol](https://mofu-dev.com/en/blog/stable-fluids/) merita s
  <summary>...depre GW vs LB!</summary>
 
 <hr/>
- <a href="https://www.linkedin.com/posts/akash-shivankar_a-picture-is-worth-1000-words-activity-7225542366898577408-fYyM/"><img src="https://media.licdn.com/dms/image/v2/D5622AQHjyNQbyBADcg/feedshare-shrink_800/feedshare-shrink_800/0/1722505726550?e=1750896000&v=beta&t=LHmxtQrbV95asjCzH2yXRQf3F24J6PLNVfDU2OKoF2I">GB vs. LB</img></a>
+
+API Gateway vs Load Balancer — Care este diferența?
+
+Un API Gateway(**API-GW**) acționează ca un singur punct de intrare pentru clienți, gestionând rutarea cererilor, compoziția și traducerea protocolului. 
+<br/>Simplifică interacțiunile clienților cu microserviciile și oferă funcții precum limitarea ratei, autentificarea, monitorizarea și multe altele.
+
+Un gateway API(**API-GW**) este ideal pentru arhitecturile de microservicii care au nevoie de gestionarea centralizată a solicitărilor API.
+
 <hr/>
+
+Echilibratorii de încărcare(**LB**) sunt preocupați de direcționarea cererilor clienților pe mai multe servere pentru a distribui sarcina și a preveni blocajele. Acest lucru ajută la maximizarea randamentului, la reducerea timpului de răspuns și la optimizarea utilizării resurselor.
+
+Un echilibrator de încărcare(**LB**) este esențial pentru aplicațiile care necesită disponibilitate ridicată, distribuind traficul pe mai multe servere.
+
+<hr/>
+
+Gateway-urile API(**API-GW**) se concentrează pe gestionarea solicitărilor și comunicarea cu microservicii, 
+<br/>în timp ce Load Balancers(**LB**) se concentrează pe distribuția traficului și gestionarea sarcinii serverului.
+
+Gateway-urile API(**API-GW**) funcționează la nivelul aplicației (L7), 
+<br/>în timp ce Load Balancers(**LB**) pot funcționa atât la nivel de transport (L4), cât și la nivel de aplicație (L7).
+
+Gateway-urile API(**API-GW**) oferă funcții precum rutare, limitare a ratei, autentificare, descoperirea serviciilor, validarea parametrilor, întrerupătoare și multe altele. 
+<br/>Load Balancers(**LB**) se ocupă de distribuția traficului și de failover.
+
+Pe scurt, API-Gateway-urile(**API-GW**) gestionează și securizează apelurile API,
+<br/>în timp ce Load Balancers(**LB**) asigură o distribuție eficientă a traficului.
+
+ <a href="https://www.linkedin.com/posts/akash-shivankar_a-picture-is-worth-1000-words-activity-7225542366898577408-fYyM/"><img src="https://media.licdn.com/dms/image/v2/D5622AQHjyNQbyBADcg/feedshare-shrink_800/feedshare-shrink_800/0/1722505726550?e=1750896000&v=beta&t=LHmxtQrbV95asjCzH2yXRQf3F24J6PLNVfDU2OKoF2I">GB vs. LB</img></a>
+
+<hr/>
+
 </details> 
 
 ...
