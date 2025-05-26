@@ -287,7 +287,7 @@ Un echilibrator de încărcare(**LB**) este esențial pentru aplicațiile care n
 
 Gateway-ul API(**API-GW**) se concentrează pe:
 
- - gestionarea solicitărilor/apelurilor/cererilor și
+ - gestionarea solicitărilor/apelurilor/cererilor/sarcinilor/traficului și
  - comunicarea cu microservicii(de obicei fiecare cu specificitatea sa privind functionalitatea),
    
 <br/>în timp ce un Load Balancer(**LB**) se concentrează pe:
@@ -297,12 +297,12 @@ Gateway-ul API(**API-GW**) se concentrează pe:
 
 Gateway-ul API(**API-GW**) funcționează la: 
  
- - nivelul aplicației (**L7** - mai aproape de SW i.e. API-uri cum ar fi microserviciile sale specifice), 
+ - nivelul aplicației ([**L7**](https://ro.wikipedia.org/wiki/Modelul_OSI) - mai aproape de SW i.e. API-uri cum ar fi microserviciile sale specifice), 
 
 <br/>în timp ce un Load Balancer(**LB**) poate funcționa: 
 
- - atât la nivel de transport (**L4** - mai aproape de HW),
- - cât și la nivel de aplicație (**L7**).
+ - atât la nivel de transport ([**L4**](https://ro.wikipedia.org/wiki/Modelul_OSI) - mai aproape de HW),
+ - cât și la nivel de aplicație ([**L7**](https://ro.wikipedia.org/wiki/Modelul_OSI)).
 
 Gateway-ul API(**API-GW**) oferă funcții precum 
 
@@ -319,7 +319,7 @@ Gateway-ul API(**API-GW**) oferă funcții precum
  - distribuția traficului și de
  - failOver.
 
-Atât un gateway-API(**API-GW**), cât și un echilibrator-de-încărcare(**LB**) <ins>gestionează traficul</ins>, dar o fac cu ***domenii de aplicare*** *diferite*. 
+Atât un gateway-API(**API-GW**), cât și un echilibrator-de-încărcare(**LB**) <ins>gestionează traficul</ins>, dar o fac cu [***domenii de aplicare***](https://ro.wikipedia.org/wiki/Modelul_OSI) *diferite*. 
 <br/>Un echilibrator-de-încărcare(**LB**) <ins>distribuie</ins> *traficul-de-rețea* pe mai multe servere, concentrându-se pe 
 
  - performanță și
@@ -331,8 +331,6 @@ Atât un gateway-API(**API-GW**), cât și un echilibrator-de-încărcare(**LB**
  - autentificarea,
  - autorizarea și
  - transformarea datelor
-
-la nivel de aplicație
 
 Pe scurt, API-Gateway-urile(**API-GW**) <ins>gestionează</ins> și <ins>securizează</ins> apelurile/*cererile*(catre API-uri),
 <br/>în timp ce Load Balancer-ele(**LB**) asigură o <ins>distribuție</ins> eficientă a *traficului*(catre serverele fizice/bare-metal).
