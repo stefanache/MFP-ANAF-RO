@@ -4,6 +4,8 @@ Ca si articol pregatitor puteti citi aici despre [Vector_DB](https://medium.com/
 
 In aceasta prezentare voi face referire si uneori voi analiza(pe scurt!) diverse Articole & Proiecte legate de acest subiect(**LLMCP=LLM+MCP**):
 
+ - [lnkd-pulse: Protocolul A2A și serverele MCP de la Google: un nou strat de conversație pentru IT-ul aeroporturilor
+](https://www.linkedin.com/pulse/googles-a2a-protocol-mcp-servers-new-conversation-layer-da%C4%9Fdeviren-1nabf/)
  - [medium/@sebuzdugan: What are MCP-servers the new AI-trend explained for(4) everyone](https://medium.com/@sebuzdugan/what-are-mcp-servers-the-new-ai-trend-explained-for-everyone-8936489c561f)
  - [medium-the-model-observer: Building an Agentic-RAG with LanceDB(role: Vector_DB) MCP-bedrock(role: MCP_server) and Ollama(role: LLM_server) in GCP](https://medium.com/the-model-observer/building-an-agentic-rag-with-lancedb-mcp-bedrock-and-ollama-in-google-colab-8b6d4643f3f9); [MCP-catalog](https://mateuszdabrowski.pl/docs/interaction-studio/mcp-catalog-architecture/); [MCP-everyThing](https://github.com/mamertofabian/mcp-everything-search)
  - [CF: remote Model-Context-Protocol-servers(MCP)](https://blog.cloudflare.com/remote-model-context-protocol-servers-mcp/)
