@@ -7,7 +7,8 @@ O sa postez aici un cocktail (citit cocteil, a.k.a amestec) de articole legate d
  - [physics.stackexchange: Can the color of an object be entangled(inseparabil/cuplat/incurcat/conectat-intrinsec)?](https://physics.stackexchange.com/questions/308284/can-the-color-of-an-object-be-entangled)
  - [physics.stackexchange: superpozitia undelor luminoase de diferite culori](https://physics.stackexchange.com/questions/464100/superposition-of-light-waves-of-different-colors);
    <br/>[pubmed.ncbi.nlm.nih.gov: Color superposition: a new modality for contrast echocardiography](https://pubmed.ncbi.nlm.nih.gov/3681012/)
-   <br/>[physicsWorld: Fotoni creați prin suprapunerea a două culori](https://physicsworld.com/a/photons-created-in-a-superposition-of-two-colours/)
+   <br/>[physicsWorld: Fotoni creați prin suprapunerea a două culori](https://physicsworld.com/a/photons-created-in-a-superposition-of-two-colours/);
+   <br/>[YT-Lectii-virtualeRO: Ipoteza Planck. Fotonul. Explicarea efectului fotoelectric](https://www.youtube.com/watch?v=2by-PGyZHIM&ab_channel=Lec%C8%9BiiVirtuale)
  - [ChatGPT: campuri cuantice(comparatie pt cartof si gutuie)](https://chatgpt.com/share/67e54a0d-a370-800b-9dce-6fffaa08f678)
  - [WIKI: Clasele de complexitate P si NP](https://ro.wikipedia.org/wiki/Clasele_de_complexitate_P_%C8%99i_NP)
  - [google-imagini: **Qiskit** math](https://www.google.com/search?q=qiskit+math&lr=lang_ro&sca_esv=b6460952771b6581&rlz=1C1CHBF_enRO1132RO1132&udm=2&biw=1920&bih=911&tbs=lr%3Alang_1ro&sxsrf=AHTn8zrPkvdBwQSxu7TWuJ4ZmsaBW96K4A%3A1742145374325&ei=XgfXZ6CuE_mgjfYPi9jq0A4&ved=0ahUKEwig1buhjY-MAxV5UMMIHQusGuoQ4dUDCBE&uact=5&oq=qiskit+math&gs_lp=EgNpbWciC3Fpc2tpdCBtYXRoMgYQABgIGB5IxTRQAFiFLnAAeACQAQCYAYIBoAGjCqoBBDAuMTG4AQPIAQD4AQGYAgugAscKwgIHECMYJxjJAsICCBAAGIAEGLEDwgILEAAYgAQYsQMYgwHCAg4QABiABBixAxiDARiKBcICBRAAGIAEwgIHEAAYgAQYCsICBBAAGB7CAgcQABiABBgTwgIGEAAYExgewgIIEAAYExgIGB6YAwCSBwQwLjExoAfZRQ&sclient=img)
