@@ -8,7 +8,7 @@ O sa postez aici un cocktail (citit cocteil, a.k.a amestec) de articole legate d
  - [physics.stackexchange: superpozitia undelor luminoase de diferite culori](https://physics.stackexchange.com/questions/464100/superposition-of-light-waves-of-different-colors);
    <br/>[pubmed.ncbi.nlm.nih.gov: Color superposition: a new modality for contrast echocardiography](https://pubmed.ncbi.nlm.nih.gov/3681012/)
    <br/>[physicsWorld: Fotoni creați prin suprapunerea a două culori](https://physicsworld.com/a/photons-created-in-a-superposition-of-two-colours/);
-   <br/>[YT-Lectii-virtualeRO: Ipoteza Planck. Fotonul(Cuanta de energie). Explicarea efectului fotoelectric cu ajutorul cu modelului corpuscular](https://www.youtube.com/watch?v=2by-PGyZHIM&ab_channel=Lec%C8%9BiiVirtuale;
+   <br/>[YT-Lectii-virtualeRO: Ipoteza Planck. Fotonul(Cuanta de energie). Explicarea efectului fotoelectric cu ajutorul cu modelului corpuscular](https://www.youtube.com/watch?v=2by-PGyZHIM&ab_channel=Lec%C8%9BiiVirtuale);
    <br/>[YT-CP: 4. Structura materiei #fizicaPovestita](https://www.youtube.com/watch?v=r2_bzjZotV8&ab_channel=CristianPresur%C4%83-FizicaPovestit%C4%83)
  - [ChatGPT: campuri cuantice(comparatie pt cartof si gutuie)](https://chatgpt.com/share/67e54a0d-a370-800b-9dce-6fffaa08f678)
  - [WIKI: Clasele de complexitate P si NP](https://ro.wikipedia.org/wiki/Clasele_de_complexitate_P_%C8%99i_NP)
