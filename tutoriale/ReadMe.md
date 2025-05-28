@@ -351,6 +351,7 @@ Pe scurt, API-Gateway-urile(**API-GW**) <ins>gestionează</ins> și <ins>securiz
 
 
  - [FT-LLM pe un DS-customizat cu QLoRA](https://dassum.medium.com/fine-tune-large-language-model-llm-on-a-custom-dataset-with-qlora-fb60abdeba07)
- - [RL, Part1: Introducere in conceptele de baza/principale](https://medium.com/data-science/reinforcement-learning-introduction-and-main-concepts-48ea997c850c)
+ - [15 solicitări avansate ChatGPT pe care fiecare dezvoltator trebuie să le cunoască](https://levelup.gitconnected.com/15-advanced-chatgpt-prompts-every-developer-must-know-43af9351c0dc)
+ - [10 biblioteci ascunse/mai putin cunoscute pentru a-ți îmbunătăți proiectele FastAPI](https://medium.com/@rameshkannanyt0078/10-hidden-gem-libraries-to-supercharge-your-fastapi-projects-249f6decba05)
 
 ...
