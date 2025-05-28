@@ -167,6 +167,6 @@ Bonus, la finele acestui articol, echipa [NGROK](https://ngrok.com/docs/how-ngro
 </details>
 
 O alta lectura interesanta(referitoare la/legata de /asociata cu [**NGROK**](https://github.com/NGROK)) este si articolul intitulat ["ussing NGROK with Ollama(OL)"](https://ngrok.com/docs/using-ngrok-with/ollama/)
-<br/>Oricum aici in [**documentatia-NGROK**](https://ngrok.com/docs/using-ngrok-with/ollama/)(asigurati-va sa fie cat mai recenta!) veti gasi toate detaliile de relationare/legatura intre produsul-SW **NGROK** si tot felul de alte produse-**SW**(servere,[micro]servicii,limbaje de programare...)
+<br/>Oricum aici in [**documentatia-NGROK**](https://ngrok.com/docs/using-ngrok-with/ollama/)(asigurati-va sa fie cat mai recenta!) veti gasi toate detaliile de relationare/legatura intre produsul-SW **NGROK** si tot felul de alte produse-**SW**(servere/protocoale,[micro]servicii,limbaje de programare...)
 
 [*Lecturare placuta*](https://ngrok.com/docs/guides/other-guides/using-mcp/)!
