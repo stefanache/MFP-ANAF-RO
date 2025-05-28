@@ -166,6 +166,6 @@ Bonus, la finele acestui articol, echipa [NGROK](https://ngrok.com/docs/how-ngro
 
 </details>
 
-O alta lectura interesanta(referitoare la/legata de /asociata cu **NGROK**) este si articolul intitulat ["ussing NGROK with Ollama(OL)"](https://ngrok.com/docs/using-ngrok-with/ollama/)
+O alta lectura interesanta(referitoare la/legata de /asociata cu [**NGROK**](https://github.com/NGROK)) este si articolul intitulat ["ussing NGROK with Ollama(OL)"](https://ngrok.com/docs/using-ngrok-with/ollama/)
 
 [*Lecturare placuta*](https://ngrok.com/docs/guides/other-guides/using-mcp/)!
