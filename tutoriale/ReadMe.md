@@ -350,7 +350,7 @@ Pe scurt, API-Gateway-urile(**API-GW**) <ins>gestionează</ins> și <ins>securiz
 </details> 
 
 
-[FT-LLM pe un DS-customizat cu QLoRA](https://dassum.medium.com/fine-tune-large-language-model-llm-on-a-custom-dataset-with-qlora-fb60abdeba07)
-[RP,Part1: Introducere in conceptele de baza/principale](https://medium.com/data-science/reinforcement-learning-introduction-and-main-concepts-48ea997c850c)
+ - [FT-LLM pe un DS-customizat cu QLoRA](https://dassum.medium.com/fine-tune-large-language-model-llm-on-a-custom-dataset-with-qlora-fb60abdeba07)
+ - [RL,Part1: Introducere in conceptele de baza/principale](https://medium.com/data-science/reinforcement-learning-introduction-and-main-concepts-48ea997c850c)
 
 ...
