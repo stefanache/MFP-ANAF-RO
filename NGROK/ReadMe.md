@@ -146,7 +146,7 @@ Bonus, la finele acestui articol, echipa [NGROK](https://ngrok.com/docs/how-ngro
 <br/>care ***redirecționează traficul***:
 
  - de la endpoint(**EP**)-urile ... pe care le creează(pe/la marginea NGROK)
- - către **serviciile**-***aplicației*** din amonte.
+ - către **serviciile**-***aplicației*** ... din amonte.
 
 <details>
  <summary>...detalii despre Agentul-NGROK</summary>
