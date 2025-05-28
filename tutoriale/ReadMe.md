@@ -37,7 +37,7 @@ Un [exemplu](https://docs.oasis-open.org/ubl/os-UBL-2.2/xml/UBL-Invoice-2.1-Exam
 </details>
 
 <details>
- <summary>Cum pot automatiza constructia fluxului de lucru, folosind <b>n8n</b>, fara a scrie cod...</summary>
+ <summary>Cum poate automatiza constructia fluxului de lucru, folosind <b>n8n</b>, fara a scrie cod...</summary>
 <hr/>
 <br/>
 
