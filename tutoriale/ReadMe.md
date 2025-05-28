@@ -349,4 +349,5 @@ Pe scurt, API-Gateway-urile(**API-GW**) <ins>gestionează</ins> și <ins>securiz
 
 </details> 
 
+ - [FT LLM pe un DS glora customizat...](https://dassum.medium.com/fine-tune-large-language-model-llm-on-a-custom-dataset-with-qlora-fb60abdeba07)(
 ...
