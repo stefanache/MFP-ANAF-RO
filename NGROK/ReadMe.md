@@ -142,7 +142,11 @@ Bonus, la finele acestui articol, echipa [NGROK](https://ngrok.com/docs/how-ngro
          - [intre servicii-instalate("Services Deployed") in K8s](https://ngrok.com/docs/guides/other-guides/load-balancing-kubernetes/?utm_campaign=may_2025_newsletter&utm_medium=newsletter&_hsenc=p2ANqtz-_nzwz7GfV7qg8K20JlAIJLMTIFy7UGaVbK5fI8_3xX_gV1R3l597p1MELycgXRcyNxDPVTKQc8tu6fr5grLAfXr_eNGqXhtr7R4I_2cTDOn4Wd4ak&_hsmi=362601512&utm_content=docs_load_balancing_kubernetes&utm_source=email)
          - [intre clustere-K8s](https://ngrok.com/docs/guides/other-guides/load-balancing-kubernetes-clusters/?utm_campaign=may_2025_newsletter&utm_medium=newsletter&_hsenc=p2ANqtz-97tDr5ACKXsBPtPRbg4lm2HlzKx0q2BVtlBVKpEDIF6Ly5_QvaP1jQZe4e0mUh8T_hPOwlO57BRjRnLmHASOY3tWzNRP1bCxz362f2AzHGzFBJj3M&_hsmi=362601512&utm_content=docs_load_balancing_kubernetes_clusters&utm_source=email)
 
-[**NGROK-Agent**](https://ngrok.com/docs/agent/) este un program ușor de utilizat în linie de comandă, care redirecționează traficul de la endpoint-urile pe care le creează(pe/la marginea NGROK) către serviciile-aplicației din amonte.
+[**NGROK-Agent**](https://ngrok.com/docs/agent/) este un program ușor de utilizat în linie de comandă, 
+<br/>care redirecționează traficul:
+
+ - de la endpoint-urile pe care le creează(pe/la marginea NGROK)
+ - către serviciile-aplicației din amonte.
 
 <details>
  <summary>...detalii despre Agentul-NGROK</summary>
