@@ -166,7 +166,7 @@ Bonus, la finele acestui articol, echipa [NGROK](https://ngrok.com/docs/how-ngro
 
 </details>
 
-O alta lectura interesanta(referitoare la/legata de /asociata cu [**NGROK**](https://github.com/NGROK)) este si articolul intitulat ["ussing NGROK with Ollama(OL)"](https://ngrok.com/docs/using-ngrok-with/ollama/)
+O alta lectura interesanta(referitoare la/legata de /asociata cu [**NGROK**](https://github.com/NGROK)) este si articolul intitulat ["using NGROK with Ollama(OL)"](https://ngrok.com/docs/using-ngrok-with/ollama/)
 <br/>Oricum aici in [**documentatia-NGROK**](https://ngrok.com/docs/using-ngrok-with/ollama/)(asigurati-va sa fie cat mai recenta!) veti gasi toate detaliile de relationare/legatura/partajare=utilizare in comun/asociere intre produsul-SW [**NGROK**](https://medium.com/@jageenshukla/ollama-pydantic-project-integrating-mcp-server-with-a-local-llm-chatbot-30e25becdaa2) si tot felul de [alte](https://medium.com/keycloak/securing-fastmcp-server-client-with-keycloak-using-ollama-llama-stack-in-python-5217efb40b43) [produse](https://medium.com/the-ai-forum/understanding-the-mcp-workflow-building-a-local-mcp-client-using-ollama-and-langchain-mcp-5997b8a5fded)-[**SW**](https://medium.com/@alejandro7899871776/ollama-mcp-servers-from-scratch-c35ca199267c)(servere/protocoale,[micro]servicii,module,limbaje de programare...)
 
 [*Lecturare placuta*](https://ngrok.com/docs/guides/other-guides/using-mcp/)!
