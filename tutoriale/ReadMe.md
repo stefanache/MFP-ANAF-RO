@@ -355,6 +355,6 @@ Pe scurt, API-Gateway-urile(**API-GW**) <ins>gestionează</ins> și <ins>securiz
  - [10 biblioteci ascunse/mai putin cunoscute pentru a-ți îmbunătăți proiectele FastAPI](https://medium.com/@rameshkannanyt0078/10-hidden-gem-libraries-to-supercharge-your-fastapi-projects-249f6decba05)
  - [Stăpânirea documentației API în Python FastAPI: Cele mai bune practici pentru cod ușor de întreținut și de citit](https://faun.pub/mastering-api-documentation-in-python-fastapi-best-practices-for-maintainable-and-readable-code-2425f9d734f7)
  - [Sfârșitul Docker? Motivele pentru care dezvoltatorii își schimbă runtime-urile](https://medium.com/devlink-tips/the-end-of-docker-the-reasons-behind-developers-changing-their-runtimes-4b7697846f6f)
- - [Cum functioneaza protocolul HTTPS(imagine)?](https://github.com/stefanache/MFP-ANAF-RO/blob/main/tutoriale/HTTPS_how_it_work.jpeg); [HTTPS descris de catre cei de la CF](https://www.cloudflare.com/learning/ssl/what-is-https/)
+ - [Cum functioneaza protocolul HTTPS(imagine)?](https://github.com/stefanache/MFP-ANAF-RO/blob/main/tutoriale/HTTPS_how_it_work.jpeg); [HTTPS descris de catre cei de la CF](https://www.cloudflare.com/learning/ssl/what-is-https/); [NGROK HTTPS](https://camerondwyer.com/2019/09/23/using-ngrok-to-get-a-public-https-address-for-a-local-server-already-serving-https-for-free/)
 
 ...
