@@ -60,7 +60,7 @@ Orchestratorii vă ajută să dezvoltați aplicații containerizate la scară la
 
 </details>
 
-Si acum intra in scena actorul principal, [**NGROK**](https://ngrok.com/docs/what-is-ngrok/), livratorul securizat...
+Si acum intra in scena/[actiune](https://ngrok.com/docs/traffic-policy/actions/) actorul principal, [**NGROK**](https://ngrok.com/docs/what-is-ngrok/), livratorul securizat...
 <details>
 <summary>Detalii despre <b>NGROK</b></summary>
 <hr/><br/> 
