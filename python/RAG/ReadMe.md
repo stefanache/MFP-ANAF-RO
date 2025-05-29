@@ -1,6 +1,6 @@
 Salut!
 
-Aici o sa plasez cateva link-uri(selectate!) legate de constructia unui RAG(cu precadere tutoriale oferite de catre dl. [Fahd-Mirza](https://www.toksta.com/influencers/fahd-mirza)):
+Aici o sa plasez cateva link-uri(selectate!) legate de constructia unui RAG(cu precadere tutoriale oferite de catre dl. [Fahd-Mirza](https://www.toksta.com/influencers/fahd-mirza)... da nu numai!):
 
 - [gitConnected-levelUp: Build an AI-local-RAG-chatbot with Ollama(OL)+DeepSeek+LangChain - a technical-guide](https://levelup.gitconnected.com/build-an-ai-local-rag-chatbot-with-ollama-deepseek-and-langchain-a-technical-guide-4dedf0d180eb)
 - [AIhello-resources-blog: Building-a-RAG-pipeline-with-FastAPI-HayStack-and-ChromaDB-for-URLs-in-Python](https://www.aihello.com/resources/blog/building-a-rag-pipeline-with-fastapi-haystack-and-chromadb-for-urls-in-python/)
