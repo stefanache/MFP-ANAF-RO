@@ -2,7 +2,7 @@ Salut!
 
 Aici o sa plasez cateva link-uri(selectate!) legate de constructia unui RAG(cu precadere tutoriale oferite de catre dl. [Fahd-Mirza](https://www.toksta.com/influencers/fahd-mirza)... da nu numai!):
 
-- [gitConnected-levelUp: Build an AI-local-RAG-chatbot with Ollama(OL)+DeepSeek(DS)+LangChain(LC) - a technical-guide](https://levelup.gitconnected.com/build-an-ai-local-rag-chatbot-with-ollama-deepseek-and-langchain-a-technical-guide-4dedf0d180eb)
+- [gitConnected-levelUp: Build an AI-local-RAG-chatbot with Ollama(OL)+DeepSeek(DS-R1)+ChromaDB+LangChain(LC) - a technical-guide](https://levelup.gitconnected.com/build-an-ai-local-rag-chatbot-with-ollama-deepseek-and-langchain-a-technical-guide-4dedf0d180eb)
 - [AIhello-resources-blog: Building-a-RAG-pipeline-with-FastAPI-HayStack-and-ChromaDB-for-URLs-in-Python](https://www.aihello.com/resources/blog/building-a-rag-pipeline-with-fastapi-haystack-and-chromadb-for-urls-in-python/)
 - [OtmaneBoughaba: Dockerize RAG-app; containere-Docker pt: RAG-API bazat pe FastAPI,data-ingest,Ollama=server LLM,Qdrant integrat prin LlamaIndex](https://otmaneboughaba.com/posts/dockerize-rag-application/)
 - [HF-cookbook: Advanced RAG on HF-doc.(baza externa de cunostinte) using LC](https://huggingface.co/learn/cookbook/advanced_rag)
