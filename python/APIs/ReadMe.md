@@ -46,5 +46,6 @@ Alte articole interesante legate de **API**-uri:
  - [dataCamp-tutorial: Mastering Python APIs: A Comprehensive Guide to Building and Using APIs in Python](https://www.datacamp.com/tutorial/python-api)
  - [dataQuest-blog: API in Python](https://www.dataquest.io/blog/api-in-python/)
  - [tiangolo: FastAPI](https://fastapi.tiangolo.com/)
- - [postMan: HowTo build an API in Python](https://blog.postman.com/how-to-build-an-api-in-python/)  
+ - [postMan: HowTo build an API in Python](https://blog.postman.com/how-to-build-an-api-in-python/)
+ - [MLflow: Python API](https://mlflow.org/docs/latest/api_reference/python_api/index.html)
  - [...](https://www.google.com/search?sca_esv=7989e9254826f7bd&rlz=1C1CHBF_enRO1132RO1132&sxsrf=AE3TifM1eGyl36LdRaEF4z958naWWWFnsQ:1748591489287&q=python+api&udm=2&fbs=AIIjpHxX5k-tONtMCu8aDeA7E5WM_82AnVd-14nBN_HJATcu-JoUGHwvLkQNLfsPuaCSwJqgv_fhlHTuttQLJLHeQRlbjERSAQbriyJdRxGIwCHuz7fqa9JsMyfTWmfjnaQgJhPgHKeT6ivZ9ifZnAEBVHFEQiMMm5Fj78CdHlx2b9dK06pUT3xM1_JxDdZM6mgEqseJxb8eCJ38HkCeghslkwI4-DG5gA&sa=X&ved=2ahUKEwje6c302sqNAxW4RvEDHcyCN2kQtKgLegQIDxAB&biw=1920&bih=911&dpr=1)
