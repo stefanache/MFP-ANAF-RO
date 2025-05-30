@@ -49,5 +49,5 @@ Alte articole interesante legate de **API**-uri:
  - [postMan: HowTo build an API in Python](https://blog.postman.com/how-to-build-an-api-in-python/)
  - [MLflow: Python API](https://mlflow.org/docs/latest/api_reference/python_api/index.html)
  - [duckDB-docs-stable-clients-python: Python API](https://duckdb.org/docs/stable/clients/python/overview.html)
- - [equinix-deploy-blog: How API-Gateways(**API-GWs) Differ from Load-Balancers(**LB**), and Which to Use](https://deploy.equinix.com/blog/how-api-gateways-differ-from-load-balancers-and-which-to-use/)
+ - [equinix-deploy-blog: How API-Gateways(**API-GW**s) Differ from Load-Balancers(**LB**), and Which to Use](https://deploy.equinix.com/blog/how-api-gateways-differ-from-load-balancers-and-which-to-use/)
  - [...](https://www.google.com/search?sca_esv=7989e9254826f7bd&rlz=1C1CHBF_enRO1132RO1132&sxsrf=AE3TifM1eGyl36LdRaEF4z958naWWWFnsQ:1748591489287&q=python+api&udm=2&fbs=AIIjpHxX5k-tONtMCu8aDeA7E5WM_82AnVd-14nBN_HJATcu-JoUGHwvLkQNLfsPuaCSwJqgv_fhlHTuttQLJLHeQRlbjERSAQbriyJdRxGIwCHuz7fqa9JsMyfTWmfjnaQgJhPgHKeT6ivZ9ifZnAEBVHFEQiMMm5Fj78CdHlx2b9dK06pUT3xM1_JxDdZM6mgEqseJxb8eCJ38HkCeghslkwI4-DG5gA&sa=X&ved=2ahUKEwje6c302sqNAxW4RvEDHcyCN2kQtKgLegQIDxAB&biw=1920&bih=911&dpr=1)
