@@ -34,4 +34,5 @@ De ce ar trebui să vă intrebuintati de **API**-uri?
  - Monetizare :
 <br/>**API**-urile pot fi utilizate pentru a crea noi fluxuri de venituri, permițând terților să acceseze serviciile sau datele dvs. într-un mod controlat.
 
-În esență, **API**-urile sunt elementele constitutive ale dezvoltării moderne de software, permițând companiilor să fie mai agile, mai inovatoare și mai centrate pe client. Sunt cruciale pentru oricine este implicat în tehnologie sau servicii digitale.
+În esență, **API**-urile sunt elementele constitutive ale dezvoltării moderne de software, permițând companiilor să fie mai agile, mai inovatoare și mai centrate pe client. 
+<br/>Sunt cruciale pentru oricine este implicat în tehnologie sau servicii digitale.
