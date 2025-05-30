@@ -26,7 +26,7 @@ De ce ar trebui să vă intrebuintati de **API**-uri?
 <br/>Cu ajutorul **API**-urilor, puteți personaliza experiența utilizatorului prin crearea de interfețe personalizate sau prin integrarea de funcții din alte servicii în propria aplicație.
 
  - Inovație și creștere :
- - <br/>**API**-urile permit dezvoltatorilor să se bazeze pe platformele existente, încurajând inovația și permițând companiilor să valorifice noi funcționalități fără a reinventa roata.
+<br/>**API**-urile permit dezvoltatorilor să se bazeze pe platformele existente, încurajând inovația și permițând companiilor să valorifice noi funcționalități fără a reinventa roata.
 
  - Interacțiunea cu clienții și furnizorii :
 <br/>Prin expunerea anumitor **API**-uri, puteți permite clienților sau furnizorilor să interacționeze direct cu sistemele dvs., ceea ce poate simplifica procesele și îmbunătăți furnizarea serviciilor.
