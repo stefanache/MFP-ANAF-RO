@@ -42,4 +42,4 @@ Integrarea **API**-urilor în dezvoltarea Python poate îmbunătăți considerab
 Alte articole interesante legate de **API**-uri:
 
  - [geeks4geeks: Python-API  tutorial-getting-started with APIs](https://www.geeksforgeeks.org/python-api-tutorial-getting-started-with-apis/)
-
+ - [...](https://www.google.com/search?sca_esv=7989e9254826f7bd&rlz=1C1CHBF_enRO1132RO1132&sxsrf=AE3TifM1eGyl36LdRaEF4z958naWWWFnsQ:1748591489287&q=python+api&udm=2&fbs=AIIjpHxX5k-tONtMCu8aDeA7E5WM_82AnVd-14nBN_HJATcu-JoUGHwvLkQNLfsPuaCSwJqgv_fhlHTuttQLJLHeQRlbjERSAQbriyJdRxGIwCHuz7fqa9JsMyfTWmfjnaQgJhPgHKeT6ivZ9ifZnAEBVHFEQiMMm5Fj78CdHlx2b9dK06pUT3xM1_JxDdZM6mgEqseJxb8eCJ38HkCeghslkwI4-DG5gA&sa=X&ved=2ahUKEwje6c302sqNAxW4RvEDHcyCN2kQtKgLegQIDxAB&biw=1920&bih=911&dpr=1)
