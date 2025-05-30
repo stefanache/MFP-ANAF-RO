@@ -56,4 +56,5 @@ Alte articole interesante legate de **API**-uri:
  - [NGROK-blog-post: api-gateway(**API-GW**) vs. reverse-proxy(**RP**)](https://ngrok.com/blog-post/reverse-proxy-vs-api-gateway)
  - [NGROK-blog-post: api-gateway(**API-GW**) easy composable](https://ngrok.com/blog-post/api-gateway-easy-composable)
  - [NGROK-blog-post: *Redirect* vs *URL-rewrite* in an api-gateway(**API-GW**)](https://ngrok.com/blog-post/api-gateway-redirect-vs-url-rewrite)
+ - [NGROK-blog-post: Secure your **API** with *JWT*s and *NGROK*’s API-Gateway(**API-GW**)](https://ngrok.com/blog-post/tutorial-jwt-api-gateway)
  - [...](https://www.google.com/search?sca_esv=7989e9254826f7bd&rlz=1C1CHBF_enRO1132RO1132&sxsrf=AE3TifM1eGyl36LdRaEF4z958naWWWFnsQ:1748591489287&q=python+api&udm=2&fbs=AIIjpHxX5k-tONtMCu8aDeA7E5WM_82AnVd-14nBN_HJATcu-JoUGHwvLkQNLfsPuaCSwJqgv_fhlHTuttQLJLHeQRlbjERSAQbriyJdRxGIwCHuz7fqa9JsMyfTWmfjnaQgJhPgHKeT6ivZ9ifZnAEBVHFEQiMMm5Fj78CdHlx2b9dK06pUT3xM1_JxDdZM6mgEqseJxb8eCJ38HkCeghslkwI4-DG5gA&sa=X&ved=2ahUKEwje6c302sqNAxW4RvEDHcyCN2kQtKgLegQIDxAB&biw=1920&bih=911&dpr=1)
