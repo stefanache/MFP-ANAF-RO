@@ -36,3 +36,6 @@ De ce ar trebui să vă intrebuintati de **API**-uri?
 
 În esență, **API**-urile sunt elementele constitutive ale dezvoltării moderne de software, permițând companiilor să fie mai agile, mai inovatoare și mai centrate pe client. 
 <br/>Sunt cruciale pentru oricine este implicat în tehnologie sau servicii digitale.
+
+Integrarea **API**-urilor în dezvoltarea Python poate îmbunătăți considerabil funcționalitatea și interactivitatea proiectelor tale. <br/>Urmând sfaturile și tehnicile prezentate în această postare pe [blog](https://apidog.com/blog/use-python-api/?utm_source=google_dsa&utm_medium=g&utm_campaign=22062217351&utm_content=169453484141&utm_term=&gad_source=1&gad_campaignid=22062217351&gbraid=0AAAAA-gKXrCXQ0uJs_qw4fiYc8XMO-qRU&gclid=CjwKCAjwruXBBhArEiwACBRtHXnJfv7gfCQnryzBkpupXqe5QGiutwRwVWwU92cCmeKmc6__xWiJ5RoCKCcQAvD_BwE), vei putea accesa o gamă largă de surse de date externe și vei putea construi aplicații mai robuste și mai puternice. 
+
