@@ -14,7 +14,7 @@ De exemplu, dacă creați o aplicație și doriți să includeți date meteo, nu
 <br/>Ele pot fi utilizate pentru servicii web, sisteme de operare, baze de date și multe alte scopuri.
 
 
-De ce ar trebui să vă intrebuitati de **API**-uri?
+De ce ar trebui să vă intrebuintati de **API**-uri?
 
 **API**-urile sunt importante din mai multe motive și iată de ce ar trebui să vă pese de ele:
 
