@@ -53,6 +53,7 @@ Alte articole interesante legate de **API**-uri:
  - [YT-ByteByteGo: Reverse-Proxy(**RP**) vs API-Gateway(**API-GW**) vs Load-Balancer(**LB**)](https://www.youtube.com/watch?v=RqfaTIWc3LQ&ab_channel=ByteByteGo);
 <br/>[YT-TechWorld@Nana: (Forward-)Proxy(**FP**) vs Reverse-Proxy(**RP**) vs Load-Balancer(**LB**) | Simply Explained](https://www.youtube.com/watch?v=xo5V9g9joFs&ab_channel=TechWorldwithNana)
  - [medium@hariharan.eswaran: api-gateway(**API-GW**), load-balancer(**LB**), reverse-proxy(**RP**), forward-proxy(**FP**) and service-mesh(**SM**)](https://medium.com/@hariharan.eswaran/api-gateway-load-balancer-reverse-proxy-forward-proxy-and-service-mesh-718dbc951257)
+ - [medium/@anil.goyal0057: load-balancer(**LB**) vs. api-gateway(**API-GW**) vs. forward-proxy(**FP**) vs. reverse-proxy(**RP**)](https://medium.com/@anil.goyal0057/load-balancer-vs-api-gateway-vs-forward-proxy-vs-reverse-proxy-a7f4d1a7c9d9)
  - [NGROK-blog-post: api-gateway(**API-GW**) vs. reverse-proxy(**RP**)](https://ngrok.com/blog-post/reverse-proxy-vs-api-gateway)
  - [NGROK-blog-post: api-gateway(**API-GW**) easy composable](https://ngrok.com/blog-post/api-gateway-easy-composable)
  - [NGROK-blog-post: *Redirect* vs *URL-rewrite* in an api-gateway(**API-GW**)](https://ngrok.com/blog-post/api-gateway-redirect-vs-url-rewrite)
