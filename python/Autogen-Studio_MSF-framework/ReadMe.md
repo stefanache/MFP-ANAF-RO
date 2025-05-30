@@ -22,3 +22,7 @@ Publicatia ***Medium*** pune la dispozitia comunitatii sale, o serie intreaga de
 Si acest proiect [**GraphRAG**](https://github.com/karthik-codex/Autogen_GraphRAG_Ollama) poate constitui un bun [exemplu](https://www.youtube.com/watch?v=Dv0kVWMSISs&ab_channel=PromptEngineer) de utilizare a acestui instrument.
 
 [**Autogen**](https://www.youtube.com/watch?v=dCCr52uT0W8&ab_channel=1littlecoder) figureaza si in aceasta [lista](https://github.com/underlines/awesome-ml/blob/master/llm-tools.md) de instrumente ML, minunate/folositoare,  postata in acest depozit-[**github**](https://github.com/underlines/awesome-ml/blob/master/llm-tools.md).
+
+La final cateva link-uri utile legate de **Autogen**:
+
+ - [medium_data-science-collective: build Autogen-agents with Qwen3 - structured-output thinking-model](https://medium.com/ivdata-science-collecte/build-autogen-agents-with-qwen3-structured-output-thinking-mode-090236dcac02)
