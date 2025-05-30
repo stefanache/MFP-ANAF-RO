@@ -1,6 +1,6 @@
 Salut,
 
-Ai vom discuta destre [**API**](https://apidog.com/blog/use-python-api/?utm_source=google_dsa&utm_medium=g&utm_campaign=22062217351&utm_content=169453484141&utm_term=&gad_source=1&gad_campaignid=22062217351&gbraid=0AAAAA-gKXrCXQ0uJs_qw4fiYc8XMO-qRU&gclid=CjwKCAjwruXBBhArEiwACBRtHXnJfv7gfCQnryzBkpupXqe5QGiutwRwVWwU92cCmeKmc6__xWiJ5RoCKCcQAvD_BwE).
+Aici vom discuta destre [**API**](https://apidog.com/blog/use-python-api/?utm_source=google_dsa&utm_medium=g&utm_campaign=22062217351&utm_content=169453484141&utm_term=&gad_source=1&gad_campaignid=22062217351&gbraid=0AAAAA-gKXrCXQ0uJs_qw4fiYc8XMO-qRU&gclid=CjwKCAjwruXBBhArEiwACBRtHXnJfv7gfCQnryzBkpupXqe5QGiutwRwVWwU92cCmeKmc6__xWiJ5RoCKCcQAvD_BwE).
 
 Ce este o **API**?
 
