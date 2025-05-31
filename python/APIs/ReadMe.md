@@ -91,7 +91,7 @@ Nu oferă funcții precum verificări de autorizare, autentificare a cererilor e
 În ceea ce privește rezolvarea domeniului, cel mai probabil ***DNS***-ul se rezolvă întotdeauna de către 
 echilibratorul-de-încărcare(**LB**), care la rândul său preia răspunsul de la serviciul gateway API.
 
-             DNS -> Load Balancer -> API gateway -> Serviciu backend
+             ***DNS*** -> Load-Balancer(**LB**) -> API-gateway(**API-GW**) -> Serviciu backend
 
 <hr/>
  
