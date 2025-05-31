@@ -60,7 +60,9 @@ Alte articole interesante legate de **API**-uri:
  <hr/>
 <a href="https://medium.com/@hariharan.eswaran/api-gateway-load-balancer-reverse-proxy-forward-proxy-and-service-mesh-718dbc951257"><img src="https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/APIs/1_RcuRz9wCT73sz7FSs0FOLw.gif"/></a>
 <hr/>
+ 
  </details>
+ 
  - [medium/@anil.goyal0057: load-balancer(**LB**) vs. api-gateway(**API-GW**) vs. forward-proxy(**FP**) vs. reverse-proxy(**RP**)](https://medium.com/@anil.goyal0057/load-balancer-vs-api-gateway-vs-forward-proxy-vs-reverse-proxy-a7f4d1a7c9d9)
  - [getninjas-labs-BR:sharing-data-in-a-microservices-architecture-using-graphql(GraphQL as **API-GW**)](https://labs.getninjas.com.br/sharing-data-in-a-microservices-architecture-using-graphql-97db59357602)
  - [NGROK-blog-post: api-gateway(**API-GW**) vs. reverse-proxy(**RP**)](https://ngrok.com/blog-post/reverse-proxy-vs-api-gateway)
