@@ -66,7 +66,7 @@ Alte articole interesante legate de **API**-uri:
 
 **Load-Balancer(LB)** -> Este un software care funcționează la nivel de protocol sau socket (de exemplu, tcp, http sau port 3306 etc.). 
 Sarcina sa este de a echilibra traficul de intrare prin distribuirea acestuia către destinații cu diverse logici (de exemplu, round robin). 
-Nu oferă funcții precum verificări de autorizare, autentificare a cererilor etc.
+*Nu oferă* funcții precum verificări de autorizare, autentificare a cererilor etc.
 
 Întrucât
 
@@ -86,12 +86,12 @@ Nu oferă funcții precum verificări de autorizare, autentificare a cererilor e
   - scalarea fără probleme a backend-ului. 
  
  În general, **gateway-urile API** gestionate vin în mod implicit cu infrastructură scalabilă, așa că plasarea lor în spatele unui 
- echilibrator de încărcare ar putea să nu aibă sens.
+ echilibrator-de-încărcare(**LB**) ar putea să nu aibă sens.
 
 În ceea ce privește rezolvarea domeniului, cel mai probabil ***DNS***-ul se rezolvă întotdeauna de către 
-echilibratorul-de-încărcare(**LB**), care la rândul său preia răspunsul de la serviciul gateway API.
+echilibratorul-de-încărcare(**LB**), care la rândul său preia răspunsul de la serviciul gateway-API(**API-GW**).
 
-             ***DNS*** -> Load-Balancer(**LB**) -> API-gateway(**API-GW**) -> Serviciu backend
+***DNS*** -> Load-Balancer(**LB**) -> API-gateway(**API-GW**) -> Serviciu backend
 
 <hr/>
  
