@@ -53,6 +53,7 @@ Alte articole interesante legate de **API**-uri:
  - [YT-ByteByteGo: Reverse-Proxy(**RP**) vs API-Gateway(**API-GW**) vs Load-Balancer(**LB**)](https://www.youtube.com/watch?v=RqfaTIWc3LQ&ab_channel=ByteByteGo);
 <br/>[YT-TechWorld@Nana: (Forward-)Proxy(**FP**) vs Reverse-Proxy(**RP**) vs Load-Balancer(**LB**) | Simply Explained](https://www.youtube.com/watch?v=xo5V9g9joFs&ab_channel=TechWorldwithNana)
  - [medium@hariharan.eswaran: api-gateway(**API-GW**), load-balancer(**LB**), reverse-proxy(**RP**), forward-proxy(**FP**) and service-mesh(**SM**)](https://medium.com/@hariharan.eswaran/api-gateway-load-balancer-reverse-proxy-forward-proxy-and-service-mesh-718dbc951257)
+ <br/>a href="https://medium.com/@hariharan.eswaran/api-gateway-load-balancer-reverse-proxy-forward-proxy-and-service-mesh-718dbc951257"><img src="https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/APIs/1_RcuRz9wCT73sz7FSs0FOLw.gif"/></a>
  - [medium/@anil.goyal0057: load-balancer(**LB**) vs. api-gateway(**API-GW**) vs. forward-proxy(**FP**) vs. reverse-proxy(**RP**)](https://medium.com/@anil.goyal0057/load-balancer-vs-api-gateway-vs-forward-proxy-vs-reverse-proxy-a7f4d1a7c9d9)
  - [getninjas-labs-BR:sharing-data-in-a-microservices-architecture-using-graphql(GraphQL as **API-GW**)](https://labs.getninjas.com.br/sharing-data-in-a-microservices-architecture-using-graphql-97db59357602)
  - [NGROK-blog-post: api-gateway(**API-GW**) vs. reverse-proxy(**RP**)](https://ngrok.com/blog-post/reverse-proxy-vs-api-gateway)
