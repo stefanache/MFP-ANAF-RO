@@ -54,7 +54,7 @@ Alte articole interesante legate de **API**-uri:
 <br/>[YT-TechWorld@Nana: (Forward-)Proxy(**FP**) vs Reverse-Proxy(**RP**) vs Load-Balancer(**LB**) | Simply Explained](https://www.youtube.com/watch?v=xo5V9g9joFs&ab_channel=TechWorldwithNana)
  - [medium@hariharan.eswaran: api-gateway(**API-GW**), load-balancer(**LB**), reverse-proxy(**RP**), forward-proxy(**FP**) and service-mesh(**SM**)](https://medium.com/@hariharan.eswaran/api-gateway-load-balancer-reverse-proxy-forward-proxy-and-service-mesh-718dbc951257)
 
-<details>
+   <details>
 <summary>...detalii-imagine <b>API-GW</b> vs.<b>LB</b> vs.<b>RP</b> vs.<b>FP</b> vs.<b>SM</b></summary>
  
  <hr/>
