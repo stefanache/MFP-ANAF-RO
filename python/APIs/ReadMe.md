@@ -65,8 +65,8 @@ Alte articole interesante legate de **API**-uri:
 **API-Gateway** și **Load-Balancer** sunt două lucruri diferite.
 
 **Load-Balancer(LB)** -> Este un software care funcționează la nivel de protocol sau socket (de exemplu, tcp, http sau port 3306 etc.). 
-Sarcina sa este de a echilibra traficul de intrare prin distribuirea acestuia către destinații cu diverse logici (de exemplu, round robin). 
-*Nu oferă* funcții precum verificări de autorizare, autentificare a cererilor etc.
+<br/>Sarcina sa este de a echilibra traficul de intrare prin distribuirea acestuia către destinații cu diverse logici (de exemplu, round robin). 
+<br/>*Nu oferă* funcții precum verificări de autorizare, autentificare a cererilor etc.
 
 Întrucât
 
