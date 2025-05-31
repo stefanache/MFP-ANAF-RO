@@ -62,8 +62,6 @@ Alte articole interesante legate de **API**-uri:
 
  - [**LB** vs.**API-GW**](https://stackoverflow.com/questions/61174839/load-balancer-and-api-gateway-confusion)
 
-<pre>
-
 **API-Gateway** și **Load-Balancer** sunt două lucruri diferite.
 
 **Load-Balancer(LB)** -> Este un software care funcționează la nivel de protocol sau socket (de exemplu, tcp, http sau port 3306 etc.). 
@@ -72,7 +70,8 @@ Nu oferă funcții precum verificări de autorizare, autentificare a cererilor e
 
 Întrucât
 
-**Gateway-API(API-GW)** -> Este un serviciu gestionat furnizat de diverse companii de găzduire pentru a gestiona operațiunile API în vederea scalării fără probleme a infrastructurii API. 
+**Gateway-API(API-GW)** -> Este un serviciu gestionat furnizat de diverse companii de găzduire pentru a gestiona operațiunile API
+în vederea scalării fără probleme a infrastructurii API. 
 
  Se ocupă de :
  
@@ -86,13 +85,14 @@ Nu oferă funcții precum verificări de autorizare, autentificare a cererilor e
   - identificarea destinațiilor corecte pe baza unor reguli personalizate și 
   - scalarea fără probleme a backend-ului. 
  
- În general, **gateway-urile API** gestionate vin în mod implicit cu infrastructură scalabilă, așa că plasarea lor în spatele unui echilibrator de încărcare ar putea să nu aibă sens.
+ În general, **gateway-urile API** gestionate vin în mod implicit cu infrastructură scalabilă, așa că plasarea lor în spatele unui 
+ echilibrator de încărcare ar putea să nu aibă sens.
 
-În ceea ce privește rezolvarea domeniului, cel mai probabil ***DNS***-ul se rezolvă întotdeauna de către echilibratorul-de-încărcare(**LB**), 
-care la rândul său preia răspunsul de la serviciul gateway API.
+În ceea ce privește rezolvarea domeniului, cel mai probabil ***DNS***-ul se rezolvă întotdeauna de către 
+echilibratorul-de-încărcare(**LB**), care la rândul său preia răspunsul de la serviciul gateway API.
 
              DNS -> Load Balancer -> API gateway -> Serviciu backend
-</pre>
+
 <hr/>
  
  </details>
