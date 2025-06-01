@@ -4,9 +4,9 @@
       /accelerator util de invatare/cercetare/explorare(un fel de... 
                              "Informatica/Programarea-povestita"!) 
       care ... vine(sau NU!:) in  sprijinul  activitatii dvs. de digitalizare curenta!
-
-     Sper ca aceasta documentatie/notite de analiza [cvasi-]tehnica  constituie macar o sursa de inspiratie;
-     (aceasta se adreseaza tuturor factorilor implicati/angajati in acest efort comun de eGuvernare)
+      
+      Sper ca aceasta documentatie/notite de analiza [cvasi-]tehnica  constituie macar o sursa de inspiratie;
+      (aceasta se adreseaza tuturor factorilor implicati/angajati in acest efort comun de eGuvernare)
 
 Hit star ⭐ if you like this repo!!!    or maybe ...
 
