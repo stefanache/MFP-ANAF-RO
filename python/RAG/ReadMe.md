@@ -2,7 +2,6 @@ Salut!
 
 Aici o sa plasez cateva link-uri(selectate!) legate de constructia unui RAG(cu precadere tutoriale oferite de catre dl. [Fahd-Mirza](https://www.toksta.com/influencers/fahd-mirza)... da nu numai!):
 
-- [YT-FM: Don't Do RAG - **CAG** is 40x faster than RAG - Install and Test Locally](https://www.youtube.com/watch?v=7RhZE_FnL74&list=PL979sTD0Z6GY328eX9eOebZjP8RbrZHGi&ab_channel=FahdMirza)
 - [medium@hassan.tbt1989: Build a RAG-powered LLM-service with Ollama(*docker*izat,LLM=llama3.2:3b-instruct-fp16 on RTX4060), openWebUI(dockerizat)-guide](https://medium.com/@hassan.tbt1989/build-a-rag-powered-llm-service-with-ollama-open-webui-a-step-by-step-guide-a688ec58ac97); [GH: open-WebUI](https://github.com/open-webui/open-webui); [GH: Ollama-docs](https://github.com/ollama/ollama/tree/main/docs) 
 - [gitConnected-levelUp: Build(in Python) an AI-local-RAG-chatbot with Ollama(OL)+DeepSeek(DS-R1)+ChromaDB+LangChain(LC) - a technical-guide](https://levelup.gitconnected.com/build-an-ai-local-rag-chatbot-with-ollama-deepseek-and-langchain-a-technical-guide-4dedf0d180eb)
 - [AIhello-resources-blog: Building-a-RAG-pipeline-with-FastAPI-HayStack-and-ChromaDB-for-URLs-in-Python](https://www.aihello.com/resources/blog/building-a-rag-pipeline-with-fastapi-haystack-and-chromadb-for-urls-in-python/)
@@ -25,7 +24,7 @@ Aici o sa plasez cateva link-uri(selectate!) legate de constructia unui RAG(cu p
 - [YT-FahdMirza: GraphRAG with Ollama - Install Local Models(LLM) for(4) RAG - Easiest Tutorial](https://www.youtube.com/watch?v=6Yu6JpLMWVo&ab_channel=FahdMirza)
 - [YT-FahdMirza: Build Fully Local RAG AI Application](https://www.youtube.com/watch?v=8TvY2NxgITE&ab_channel=FahdMirza)
 - [YT-FahdMirza: LightRAG with Ollama - Simple and Fast RAG - Install Locally](https://www.youtube.com/watch?v=PjnfV4jCTLo&ab_channel=FahdMirza)
-- [YT-FahdMirza: Don't Do RAG - CAG is 40x faster than RAG - Install and Test Locally](https://www.youtube.com/watch?v=7RhZE_FnL74&ab_channel=FahdMirza)
+- [YT-FahdMirza: Don't Do RAG - **CAG** is 40x faster than RAG - Install and Test Locally](https://www.youtube.com/watch?v=7RhZE_FnL74&ab_channel=FahdMirza)
 - [YT-FahdMirza: SafeRAG - Assess Security Vulnerabilities of RAG](https://www.youtube.com/watch?v=QKiWYIda4Qw&ab_channel=FahdMirza)
 - [YT-FahdMirza: dsRAG: High-Performance RAG Engine for Unstructured Data - Install Locally](https://www.youtube.com/watch?v=AHcBBx8CKys&ab_channel=FahdMirza)
 - [YT-FahdMirza: DataGemma RAG 27B - First Model to Challenge Hallucination - Install Locally](https://www.youtube.com/watch?v=6odLMxnUs5g&ab_channel=FahdMirza)
