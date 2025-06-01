@@ -42,14 +42,14 @@ Integrarea **API**-urilor în dezvoltarea Python poate îmbunătăți considerab
 
 Alte articole interesante legate de **API**-uri:
 
- - [geeks4geeks: Python-API  tutorial-getting-started with APIs](https://www.geeksforgeeks.org/python-api-tutorial-getting-started-with-apis/)
- - [dataCamp-tutorial: Getting Started with Python HTTP Requests for REST APIs](https://www.datacamp.com/tutorial/making-http-requests-in-python?utm_source=google&utm_medium=paid_search&utm_campaignid=19589720821&utm_adgroupid=157156375191&utm_device=c&utm_keyword=&utm_matchtype=&utm_network=g&utm_adpostion=&utm_creative=684592139660&utm_targetid=aud-2191467490030:dsa-2218886984100&utm_loc_interest_ms=&utm_loc_physical_ms=9211663&utm_content=ps-other~emea-en~dsa~tofu~tutorial-python&accountid=9624585688&utm_campaign=230119_1-ps-other~dsa~tofu_2-b2c_3-emea_4-prc_5-na_6-na_7-le_8-pdsh-go_9-nb-e_10-na_11-na&gad_source=1&gad_campaignid=19589720821&gbraid=0AAAAADQ9WsExOJSfiakTwBZiQqWm1rnz9&gclid=CjwKCAjwruXBBhArEiwACBRtHY_Ey2jZaV8e6fFFHumSJS_frSYkbaAvUL-wwZl7fqi1elSBlX6ZrRoCyMIQAvD_BwE)
- - [dataCamp-tutorial: Mastering Python APIs: A Comprehensive Guide to Building and Using APIs in Python](https://www.datacamp.com/tutorial/python-api)
- - [dataQuest-blog: API in Python](https://www.dataquest.io/blog/api-in-python/)
- - [tiangolo: FastAPI](https://fastapi.tiangolo.com/)
- - [postMan: HowTo build an API in Python](https://blog.postman.com/how-to-build-an-api-in-python/)
- - [MLflow: Python API](https://mlflow.org/docs/latest/api_reference/python_api/index.html)
- - [duckDB-docs-stable-clients-python: Python API](https://duckdb.org/docs/stable/clients/python/overview.html)
+ - [geeks4geeks: Python-API  tutorial-getting-started with **API**s](https://www.geeksforgeeks.org/python-api-tutorial-getting-started-with-apis/)
+ - [dataCamp-tutorial: Getting Started with Python HTTP Requests for **REST-API**s](https://www.datacamp.com/tutorial/making-http-requests-in-python?utm_source=google&utm_medium=paid_search&utm_campaignid=19589720821&utm_adgroupid=157156375191&utm_device=c&utm_keyword=&utm_matchtype=&utm_network=g&utm_adpostion=&utm_creative=684592139660&utm_targetid=aud-2191467490030:dsa-2218886984100&utm_loc_interest_ms=&utm_loc_physical_ms=9211663&utm_content=ps-other~emea-en~dsa~tofu~tutorial-python&accountid=9624585688&utm_campaign=230119_1-ps-other~dsa~tofu_2-b2c_3-emea_4-prc_5-na_6-na_7-le_8-pdsh-go_9-nb-e_10-na_11-na&gad_source=1&gad_campaignid=19589720821&gbraid=0AAAAADQ9WsExOJSfiakTwBZiQqWm1rnz9&gclid=CjwKCAjwruXBBhArEiwACBRtHY_Ey2jZaV8e6fFFHumSJS_frSYkbaAvUL-wwZl7fqi1elSBlX6ZrRoCyMIQAvD_BwE)
+ - [dataCamp-tutorial: Mastering Python APIs: A Comprehensive Guide to Building and Using **API**s in Python](https://www.datacamp.com/tutorial/python-api)
+ - [dataQuest-blog: **API** in Python](https://www.dataquest.io/blog/api-in-python/)
+ - [tiangolo: **FastAPI**](https://fastapi.tiangolo.com/)
+ - [postMan: HowTo build an **API** in Python](https://blog.postman.com/how-to-build-an-api-in-python/)
+ - [MLflow: Python-**API**](https://mlflow.org/docs/latest/api_reference/python_api/index.html)
+ - [duckDB-docs-stable-clients-python: Python-**API**](https://duckdb.org/docs/stable/clients/python/overview.html)
  - [equinix-deploy-blog: How API-Gateways(**API-GW**s) Differ from Load-Balancers(**LB**s), and Which to Use](https://deploy.equinix.com/blog/how-api-gateways-differ-from-load-balancers-and-which-to-use/)
  - [YT-ByteByteGo: Reverse-Proxy(**RP**) vs API-Gateway(**API-GW**) vs Load-Balancer(**LB**)](https://www.youtube.com/watch?v=RqfaTIWc3LQ&ab_channel=ByteByteGo);
 <br/>[YT-TechWorld@Nana: (Forward-)Proxy(**FP**) vs Reverse-Proxy(**RP**) vs Load-Balancer(**LB**) | Simply Explained](https://www.youtube.com/watch?v=xo5V9g9joFs&ab_channel=TechWorldwithNana)
