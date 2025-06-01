@@ -14,7 +14,7 @@ De exemplu, dacă creați o *aplicație* și doriți să includeți date-meteo, 
 **API**-urile sunt esențiale pentru construirea de *software* și *aplicații* în lumea digitală interconectată de astăzi, deoarece permit integrarea diferitelor sisteme și *servicii*, făcându-le mai puternice și mai versatile. 
 <br/>Ele pot fi utilizate pentru servicii-web(SW), sisteme-de-operare(OS), baze-de-date(BD) și multe alte scopuri.
 
-Principala diferență dintre o **API** și un *site-web(website)* este că o **API** este o interfață, în timp ce un *site-web* este un set-de-pagini-web. 
+Principala diferență dintre o **API** și un *site-web(website)* este că o **API** este o <ins>interfață</ins>(seamana oarecum cu *interfata* de/a unei *clase-obiectuale*...a se vedea *OOP*), în timp ce un *site-web* este un set-de-pagini-web. 
 <br/>O **API** expune <ins>datele</ins> și <ins>funcționalitatea</ins> ale unei aplicații, (spre a fi utilizate de care...)altor aplicații, 
 în timp ce un *web* este un set-de-pagini-web, care pot fi accesate prin internet.
 
