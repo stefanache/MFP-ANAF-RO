@@ -8,11 +8,11 @@ O **API** sau **Interfață de Programare a Aplicațiilor** este un set-de-*regu
 în timp ce o *aplicație* este un program software conceput pentru o *sarcină*-specifică, adesea utilizat de un utilizator pe un computer sau dispozitiv
 <br/>Aceasta(**API**) permite dezvoltatorilor să <ins>utilizeze</ins> *funcționalități* furnizate de un alt *serviciu* fără a fi nevoie să înțeleagă detaliile complexe ale modului în care este implementat serviciul/din spatele acestuia(serviciului).
 
-De exemplu, dacă creați o aplicație și doriți să includeți date meteo, nu trebuie să creați un sistem pentru a colecta și procesa informații meteo. 
-<br/>În schimb, puteți utiliza **API**-ul unui serviciu meteo pentru a trimite o solicitare și a primi datele meteo de care aveți nevoie.
+De exemplu, dacă creați o *aplicație* și doriți să includeți date-meteo, nu trebuie să creați un sistem pentru a colecta și procesa informații-meteo. 
+<br/>În schimb, puteți utiliza **API**-ul unui *serviciu*-meteo pentru a trimite o solicitare și a primi datele meteo de care aveți nevoie.
 
-**API**-urile sunt esențiale pentru construirea de software și aplicații în lumea digitală interconectată de astăzi, deoarece permit integrarea diferitelor sisteme și servicii, făcându-le mai puternice și mai versatile. 
-<br/>Ele pot fi utilizate pentru servicii web, sisteme de operare, baze de date și multe alte scopuri.
+**API**-urile sunt esențiale pentru construirea de *software* și *aplicații* în lumea digitală interconectată de astăzi, deoarece permit integrarea diferitelor sisteme și *servicii*, făcându-le mai puternice și mai versatile. 
+<br/>Ele pot fi utilizate pentru servicii-web(SW), sisteme-de-operare(OS), baze-de-date(BD) și multe alte scopuri.
 
 
 De ce ar trebui să vă intrebuintati de **API**-uri?
