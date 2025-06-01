@@ -4,7 +4,8 @@ Aici vom discuta destre [**API**](https://apidog.com/blog/use-python-api/?utm_so
 
 Ce este o **API**?
 
-O **API** , sau Interfață de Programare a Aplicațiilor , este un set de reguli și protocoale care permite diferitelor aplicații software să comunice între ele. 
+O **API** sau Interfață de Programare a Aplicațiilor este un set de reguli și protocoale care permite diferitelor aplicații software să comunice între ele,
+<br>, în timp ce o aplicație(aplicație) este un program software conceput pentru o sarcină specifică, adesea utilizat de un utilizator pe un computer sau dispozitiv
 <br/>Aceasta permite dezvoltatorilor să utilizeze funcționalități furnizate de un alt serviciu fără a fi nevoie să înțeleagă detaliile complexe ale modului în care este implementat serviciul.
 
 De exemplu, dacă creați o aplicație și doriți să includeți date meteo, nu trebuie să creați un sistem pentru a colecta și procesa informații meteo. 
