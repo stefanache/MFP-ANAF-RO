@@ -187,7 +187,7 @@ Dupa cum bine stiti, [Stable-Diffusion(**SD**)](https://en.wikipedia.org/wiki/St
 
 In cele ce urmeaza vom discuta despre o integrare: [**NGROK-Python**](https://ngrok.com/blog-post/ngrok-python) impreuna cu [**Stabble-Diffusion**](https://huggingface.co/spaces/stabilityai/stable-diffusion), cea din urma fiind o tehnica destul de populara in comunitatea-AI.
 
-<br/>Un micro-serviciu bazat pe AI-**SD** expus cu [***Flask***](https://cdn.prod.website-files.com/67a1e6de2f2eab2e125f8b9a/67b519150b3db5c8ab26398b_overview.png) sau ***FastAPI*** ar avea nevoie de *accesibilitate* din internet si *securitate*.
+<br/>Un micro-serviciu/o aplicatie bazat/a pe AI-**SD** expus cu [***Flask***](https://cdn.prod.website-files.com/67a1e6de2f2eab2e125f8b9a/67b519150b3db5c8ab26398b_overview.png) sau ***FastAPI*** ar avea nevoie de *accesibilitate* din internet si *securitate*.
 <br/>Aceste deziderate pot fi acoperite cu brio de catre [NGROK](https://www.assemblyai.com/blog/build-a-free-stable-diffusion-app-with-a-gpu-backend):
 
 <a href="https://www.assemblyai.com/blog/build-a-free-stable-diffusion-app-with-a-gpu-backend"><img src="https://github.com/stefanache/MFP-ANAF-RO/blob/main/NGROK/67b519150b3db5c8ab26398b_overview.png"/></a>
@@ -202,7 +202,7 @@ In cele ce urmeaza vom discuta despre o integrare: [**NGROK-Python**](https://ng
 Desigur ca in cazul in care dispuneti de unitati **GPU** proprii puteti folosi o implementare-proprie/privata locala(auto-gazduire), in loc sa folositi o gazduire de la Google(fie ea si gratuita).
 <br>Oricum tehnologia **SD** necesita accelerarea procesarii, altminteri veti avea o latenta destul de insemnata deloc placuta(variind de la computer/server la computere/server, in functie de dotarile acestora)
 
-In acest exemplu de integrare componenta **NGROK** joaca rolul unui [**reverse-proxy(RP)**](https://ngrok.com/blog-post/reverse-proxy-vs-api-gateway).
+In acest exemplu de integrare componenta-**NGROK** joaca rolul unui [**reverse-proxy(RP)**](https://ngrok.com/blog-post/reverse-proxy-vs-api-gateway), care va furniza efectiv o *adresă-URL publică* la care utilizatorii pot accesa aceasta aplicație.
 
 <hr/>
 
