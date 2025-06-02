@@ -172,13 +172,30 @@ O alta lectura interesanta(referitoare la/legata de /asociata cu [**NGROK**](htt
 
 Un alt [reper/subiect](https://ngrok.com/use-cases) interesant legat de **NGROK** este [**tunelarea-securizata**](https://ngrok.com/our-product/secure-tunnels)(puteti pune accent pe sectiunea dedicata [*developer*](https://www.reddit.com/r/FoundryVTT/comments/1de9mlt/i_dont_have_a_public_ip_what_can_i_do_sistem/?tl=ro)ilor)
 
-Pentru programatorii in python, NGROK a creat un [python-SDK](https://ngrok.com/blog-post/ngrok-python), intitulat/care poarta numele de/denumit [NGROK-python](https://ngrok.com/blog-post/ngrok-python),  care va permite sa integrati NGROK in proiectele dvs python.
+In cele ce urmeaza vom 
+<details>
+ <summary>...detalia produsul-SDK <b>NGROK-python</b>...</summary>
+
+<hr/> 
+Pentru programatorii in python, **NGROK** a creat un [**python-SDK**](https://ngrok.com/blog-post/ngrok-python), intitulat/care poarta numele de/denumit [**NGROK-python**](https://ngrok.com/blog-post/ngrok-python),  care va permite sa integrati NGROK in proiectele dvs python.
 [NGROK-python](https://ngrok.com/blog-post/ngrok-python) este un SDK nativ și idiomatic pentru [**NGROK-Agent**](https://ngrok.com/docs/agent/)
 <br/>Dupa cum bine stiti, Stable-Diffusion(**SD**) este un instrument AI-generative care va permite sa creati imagini folosind descrieri textuale simple(**txt2img**).
-<br/>Un micro-serviciu bazat pe AI-**SD** expus cu [Flask](https://cdn.prod.website-files.com/67a1e6de2f2eab2e125f8b9a/67b519150b3db5c8ab26398b_overview.png) sau FastAPI ar avea nevoie de *accesibilitate* din internet si *securitate*.
+
+In cele ce urmeaza vom discuta despre o integrare **NGROK-Python** cu **Stabble-Diffusion**, cea din urma fiind o tehnica destul de populara in comunitatea-AI.
+
+<br/>Un micro-serviciu bazat pe AI-**SD** expus cu [***Flask***](https://cdn.prod.website-files.com/67a1e6de2f2eab2e125f8b9a/67b519150b3db5c8ab26398b_overview.png) sau ***FastAPI*** ar avea nevoie de *accesibilitate* din internet si *securitate*.
 <br/>Aceste deziderate pot fi acoperite cu brio de catre [NGROK](https://www.assemblyai.com/blog/build-a-free-stable-diffusion-app-with-a-gpu-backend):
 
 <a href="https://www.assemblyai.com/blog/build-a-free-stable-diffusion-app-with-a-gpu-backend"><img src="https://github.com/stefanache/MFP-ANAF-RO/blob/main/NGROK/67b519150b3db5c8ab26398b_overview.png"/></a>
 
+ - 1. Un utilizator trimite o legendă către **NGROK**
+ - 2. **NGROK** redirecționează această solicitare către serverele-Colab(***GCP***).
+ - 3. Serverul folosește ***Flask*** pentru a rula funcția-Python(bazata pe **SD**) ***generate_image()***
+ - 4. Această ***funcție-Python***(***generate_image()***) rulează ***generarea-imaginii*** pe un GPU-Colab(***GCP***).
+ - 5. ***Imaginea-generată*** este inserată într-un *șablon-HTML* cu *Jinja*
+ - 6. *Documentul-HTML* rezultat este returnat utilizatorului , afișând ***imaginea-generată***.
+
+<hr/>
+</details>
 
 [*Lecturare placuta*](https://ngrok.com/docs/guides/other-guides/using-mcp/)!
