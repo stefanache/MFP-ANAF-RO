@@ -172,7 +172,8 @@ O alta lectura interesanta(referitoare la/legata de /asociata cu [**NGROK**](htt
 
 Un alt [reper/subiect](https://ngrok.com/use-cases) interesant legat de **NGROK** este [**tunelarea-securizata**](https://ngrok.com/our-product/secure-tunnels)(puteti pune accent pe sectiunea dedicata [*developer*](https://www.reddit.com/r/FoundryVTT/comments/1de9mlt/i_dont_have_a_public_ip_what_can_i_do_sistem/?tl=ro)ilor)
 
-Pentru programatorii in python, NGROK a creat un [python-SDK](https://ngrok.com/blog-post/ngrok-python), intitulat [ngrok-python](https://ngrok.com/blog-post/ngrok-python),  care va permite sa integrati NGROK in proiectele dvs python.
+Pentru programatorii in python, NGROK a creat un [python-SDK](https://ngrok.com/blog-post/ngrok-python), intitulat/care poarta numele de/denumit [ngrok-python](https://ngrok.com/blog-post/ngrok-python),  care va permite sa integrati NGROK in proiectele dvs python.
+<br/>[ngrok-python](https://ngrok.com/blog-post/ngrok-python) este un SDK nativ și idiomatic pentru [**NGROK-Agent**](https://ngrok.com/docs/agent/)
 
 
 [*Lecturare placuta*](https://ngrok.com/docs/guides/other-guides/using-mcp/)!
