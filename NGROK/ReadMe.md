@@ -180,9 +180,9 @@ In cele ce urmeaza vom face referire-detaliata la...
 
 Pentru programatorii in python, **NGROK** a creat un [**python-SDK**](https://ngrok.com/blog-post/ngrok-python), intitulat/care poarta numele de/denumit [**NGROK-python**](https://ngrok.com/blog-post/ngrok-python),  care va permite sa integrati **NGROK** in proiectele dvs python.
 [NGROK-python](https://ngrok.com/blog-post/ngrok-python) este un **SDK** [*nativ*](https://dexonline.ro/definitie/nativ/definitii) și [*idiomatic*](https://dexonline.ro/intrare/idiomatic/26208/definitii)(care apartine unui [idiom/structura lingvistica de baza](https://dexonline.ro/definitie/idiom/definitii)) pentru [**NGROK-Agent**](https://ngrok.com/docs/agent/)
-<br/>Dupa cum bine stiti, Stable-Diffusion(**SD**) este un instrument AI-generative care va permite sa creati imagini folosind descrieri textuale simple(**txt2img**).
+<br/>Dupa cum bine stiti, [Stable-Diffusion(**SD**)](https://en.wikipedia.org/wiki/Stable_Diffusion) este un instrument AI-generative care va permite sa creati imagini folosind descrieri textuale simple(**txt2img**).
 
-In cele ce urmeaza vom discuta despre o integrare **NGROK-Python** cu **Stabble-Diffusion**, cea din urma fiind o tehnica destul de populara in comunitatea-AI.
+In cele ce urmeaza vom discuta despre o integrare: [**NGROK-Python**](https://ngrok.com/blog-post/ngrok-python) impreuna cu [**Stabble-Diffusion**](https://huggingface.co/spaces/stabilityai/stable-diffusion), cea din urma fiind o tehnica destul de populara in comunitatea-AI.
 
 <br/>Un micro-serviciu bazat pe AI-**SD** expus cu [***Flask***](https://cdn.prod.website-files.com/67a1e6de2f2eab2e125f8b9a/67b519150b3db5c8ab26398b_overview.png) sau ***FastAPI*** ar avea nevoie de *accesibilitate* din internet si *securitate*.
 <br/>Aceste deziderate pot fi acoperite cu brio de catre [NGROK](https://www.assemblyai.com/blog/build-a-free-stable-diffusion-app-with-a-gpu-backend):
@@ -196,6 +196,8 @@ In cele ce urmeaza vom discuta despre o integrare **NGROK-Python** cu **Stabble-
  - 5.***Imaginea-generată*** este inserată într-un *șablon-HTML* cu *Jinja*
  - 6.*Documentul-HTML* rezultat este returnat utilizatorului , afișând ***imaginea-generată***.
 
+Desigur ca in cazul in care dispuneti de unitati **GPU** proprii puteti folosi o implementare-proprie/privata locala(auto-gazduire), in loc sa folositi o gazduire de la Google(fie ea si gratuita).
+<br>Oricum tehnologia **SD** necesita accelerarea procesarii, altminteri veti avea o latenta destul de insemnata deloc placuta(variind de la computer/server la computere/server, in functie de dotarile acestora)
 <hr/>
 
 </details>
