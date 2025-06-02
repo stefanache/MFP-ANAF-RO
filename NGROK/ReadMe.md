@@ -185,7 +185,7 @@ Pentru programatorii in python, **NGROK** a creat un [**python-SDK**](https://ng
 
 Dupa cum bine stiti, [Stable-Diffusion(**SD**)](https://en.wikipedia.org/wiki/Stable_Diffusion) este un instrument *AI-generative*, care va permite sa creati imagini folosind/din descrieri-textuale simple(**txt2img**) foarte concise/rezumativa(gen legenda), text care va este solicitat ca si prompt-utilizator de catre aplicatia dumneavoastracare ruleaza pe dispozitivul dumneavoastra(via Browser).
 
-In cele ce urmeaza vom discuta despre o integrare: [**Flask-NGROK**](https://www.assemblyai.com/blog/build-a-free-stable-diffusion-app-with-a-gpu-backend) impreuna cu [**Stabble-Diffusion**](https://huggingface.co/spaces/stabilityai/stable-diffusion), cea din urma fiind o tehnica destul de populara in comunitatea-AI.
+In cele ce urmeaza vom discuta despre o integrare: [**Flask-NGROK**](https://www.assemblyai.com/blog/build-a-free-stable-diffusion-app-with-a-gpu-backend) impreuna cu [**Stabble-Diffusion(SD)**](https://huggingface.co/spaces/stabilityai/stable-diffusion), cea din urma fiind o tehnica destul de populara in comunitatea-AI.
 
 <br/>Un micro-serviciu/o aplicatie bazat/a pe AI-**SD** expus cu [***Flask***](https://cdn.prod.website-files.com/67a1e6de2f2eab2e125f8b9a/67b519150b3db5c8ab26398b_overview.png) sau ***FastAPI*** ar avea nevoie de *accesibilitate* din internet si *securitate*.
 <br/>Aceste deziderate pot fi acoperite cu brio de catre [NGROK](https://www.assemblyai.com/blog/build-a-free-stable-diffusion-app-with-a-gpu-backend):
