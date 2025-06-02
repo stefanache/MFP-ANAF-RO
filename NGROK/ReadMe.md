@@ -184,7 +184,7 @@ Pentru programatorii in python, **NGROK** a creat un [**python-SDK**](https://ng
 [**NGROK-python**](https://ngrok.com/blog-post/ngrok-python) este SDK-ul oficial Python pentru **NGROK**, care <ins>nu</ins> necesită fișiere binare(direct-executabile). 
 <br/>Folosind acest SDK practic activați rapid conectivitate securizată, gata de producție, la aplicațiile și serviciile dvs. <ins>direct din cod-python</ins>.
 <br/>**NGROK** este un gateway-distribuit-global(**GW**) care oferă conectivitate securizată pentru aplicații și servicii care rulează în orice mediu.
-<br/>Spre exemplu, puteți utiliza biblioteca ngrok-python pentru a încorpora **Agentul-NGROK/NGROK-Agent** în aplicațiile dvs FastAPI.
+<br/>Spre exemplu, puteți utiliza biblioteca ngrok-python pentru a încorpora **Agentul-NGROK/NGROK-Agent** în aplicațiile dvs [FastAPI](https://ngrok.com/docs/using-ngrok-with/fastAPI/).
 <br/>
 
 **NGROK** are si pachete-python(SDK-uri,librarii...) specializate pt. [Flask](https://ngrok.com/docs/using-ngrok-with/flask/), pt. [FastAPI](https://ngrok.com/docs/using-ngrok-with/fastAPI/),... ori pt alte [tehnologii](https://medium.com/@coderviewer/building-a-flask-api-gateway-for-grpc-microservices-a-practical-guide-f912aed73b94) particulare.
