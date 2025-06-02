@@ -185,10 +185,10 @@ Pentru programatorii in python, **NGROK** a creat un [**python-SDK**](https://ng
 <br/>Folosind acest SDK practic activați rapid conectivitate securizată, gata de producție, la aplicațiile și serviciile dvs. <ins>direct din cod-python</ins>.
 <br/>**NGROK** este un gateway-distribuit-global(**GW**) care oferă conectivitate securizată pentru aplicații și servicii care rulează în orice mediu.
 <br/>Spre exemplu, puteți utiliza biblioteca ngrok-python pentru a încorpora **Agentul-NGROK/NGROK-Agent** în aplicațiile dvs [FastAPI](https://ngrok.com/docs/using-ngrok-with/fastAPI/).
-<br/>Sau... intr-un alt caz-de-utilizare, hai sa spunem....ca avem deja un mediu de dezvoltare, in care am instalat deja Python,PIP si un server-local-de-dezvoltare-[**Flask**](https://ngrok.com/docs/using-ngrok-with/flask/) si dorim la un moment dat sa partajam acest server cu un alt coleg. In aceste conditii, pur și simplu este suficient sa executați cda-shell: **ngrok http 5000**, pentru a partaja acel server-local-de-dezvoltare-[**Flask**](https://mivocloud.com/ro/blog/Flask-este-o-solutie-excelenta-pentru-dezvoltarea-web-pe-serverul-dvs) cu altcineva(in acest caz-de-utilizare... cu colegul dvs care ....[il](https://flask.palletsprojects.com/en/stable/) va utiliza de la distanta/via web, serverul-**Flask** actionand ca o veritabila *WSGI-appication*).
+<br/>Sau... intr-un alt caz-de-utilizare, hai sa spunem....ca avem deja un mediu de dezvoltare, in care am instalat deja Python,PIP si un server-local-de-dezvoltare-[**Flask**](https://ngrok.com/docs/using-ngrok-with/flask/) si dorim la un moment dat sa partajam acest server cu un alt coleg. In aceste conditii, pur și simplu este suficient sa executați cda-shell: **ngrok http 5000**, pentru a partaja acel server-local-de-dezvoltare-[**Flask**](https://mivocloud.com/ro/blog/Flask-este-o-solutie-excelenta-pentru-dezvoltarea-web-pe-serverul-dvs) cu altcineva(in acest caz-de-utilizare... cu colegul dvs care ....[il](https://flask.palletsprojects.com/en/stable/) va utiliza de la distanta/via web, serverul-[**Flask**](https://www.turing.com/kb/fastapi-vs-flask-a-detailed-comparison) actionand ca o veritabila *WSGI-appication*).
 
 *Nota*:
-<br/>**Flask** este un microFramework Python, care <ins>nu</ins> funcționează ca un *server-web*(*webserver*) complet. 
+<br/>[**Flask**](https://www.lucentinnovation.com/blogs/technology-posts/flask-vs-fastapi-vs-django) este un microFramework Python, care <ins>nu</ins> funcționează ca un *server-web*(*webserver*) complet. 
 <br/>În schimb, acționează ca o aplicație WSGI care necesită un *server-web*(cum ar fi Apache sau Nginx) pentru a servi pagini-web.
 <br/>**Flask** oferă logica și structura pentru gestionarea cererilor-web, dar are nevoie de un *server-web* dedicat pentru a gestiona protocolul-HTTP [subiacent](https://dexonline.ro/definitie/subiacent) și a livra conținutul către clienți. 
 
@@ -200,7 +200,7 @@ Dupa cum bine stiti, [Stable-Diffusion(**SD**)](https://en.wikipedia.org/wiki/St
 
 In cele ce urmeaza vom discuta despre o integrare: [**Flask-NGROK**](https://www.assemblyai.com/blog/build-a-free-stable-diffusion-app-with-a-gpu-backend) impreuna cu [**Stabble-Diffusion(SD)**](https://huggingface.co/spaces/stabilityai/stable-diffusion), cea din urma fiind o tehnica destul de populara in comunitatea-AI.
 
-<br/>Un micro-serviciu/o aplicatie bazat/a pe AI-**SD** expus cu [***Flask***](https://cdn.prod.website-files.com/67a1e6de2f2eab2e125f8b9a/67b519150b3db5c8ab26398b_overview.png)(sau ***FastAPI***...) ar avea nevoie de *accesibilitate* din internet si *securitate*.
+<br/>Un micro-serviciu/o aplicatie bazat/a pe AI-**SD** expus cu [***Flask***](https://cdn.prod.website-files.com/67a1e6de2f2eab2e125f8b9a/67b519150b3db5c8ab26398b_overview.png)(sau [***FastAPI***](https://www.datacamp.com/tutorial/introduction-fastapi-tutorial)...) ar avea nevoie de *accesibilitate* din internet si *securitate*.
 <br/>Aceste deziderate pot fi acoperite cu brio de catre [NGROK](https://www.assemblyai.com/blog/build-a-free-stable-diffusion-app-with-a-gpu-backend):
 
 <a href="https://www.assemblyai.com/blog/build-a-free-stable-diffusion-app-with-a-gpu-backend"><img src="https://github.com/stefanache/MFP-ANAF-RO/blob/main/NGROK/67b519150b3db5c8ab26398b_overview.png"/></a>
