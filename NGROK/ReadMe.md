@@ -188,12 +188,12 @@ In cele ce urmeaza vom discuta despre o integrare **NGROK-Python** cu **Stabble-
 
 <a href="https://www.assemblyai.com/blog/build-a-free-stable-diffusion-app-with-a-gpu-backend"><img src="https://github.com/stefanache/MFP-ANAF-RO/blob/main/NGROK/67b519150b3db5c8ab26398b_overview.png"/></a>
 
- - 1. Un utilizator trimite o legendă către **NGROK**
- - 2. **NGROK** redirecționează această solicitare către serverele-Colab(***GCP***).
- - 3. Serverul folosește ***Flask*** pentru a rula funcția-Python(bazata pe **SD**) ***generate_image()***
- - 4. Această ***funcție-Python***(***generate_image()***) rulează ***generarea-imaginii*** pe un GPU-Colab(***GCP***).
- - 5. ***Imaginea-generată*** este inserată într-un *șablon-HTML* cu *Jinja*
- - 6. *Documentul-HTML* rezultat este returnat utilizatorului , afișând ***imaginea-generată***.
+ - 1.Un utilizator trimite o legendă către **NGROK**
+ - 2.**NGROK** redirecționează această solicitare către serverele-Colab(***GCP***).
+ - 3.Serverul folosește ***Flask*** pentru a rula funcția-Python(bazata pe **SD**) ***generate_image()***
+ - 4.Această ***funcție-Python***(***generate_image()***) rulează ***generarea-imaginii*** pe un GPU-Colab(***GCP***).
+ - 5.***Imaginea-generată*** este inserată într-un *șablon-HTML* cu *Jinja*
+ - 6.*Documentul-HTML* rezultat este returnat utilizatorului , afișând ***imaginea-generată***.
 
 <hr/>
 </details>
