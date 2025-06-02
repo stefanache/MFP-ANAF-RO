@@ -181,13 +181,13 @@ In cele ce urmeaza vom face referire-detaliata la...
 Pentru programatorii in python, **NGROK** a creat un [**python-SDK**](https://ngrok.com/blog-post/ngrok-python), intitulat/care poarta numele de/denumit [**NGROK-python**](https://ngrok.com/blog-post/ngrok-python),  care va permite sa integrati **NGROK** in proiectele dvs python.
 [NGROK-python](https://ngrok.com/blog-post/ngrok-python) este un **SDK** [*nativ*](https://dexonline.ro/definitie/nativ/definitii) și [*idiomatic*](https://dexonline.ro/intrare/idiomatic/26208/definitii)(care apartine unui [idiom/structura lingvistica de baza](https://dexonline.ro/definitie/idiom/definitii)) pentru [**NGROK-Agent**](https://ngrok.com/docs/agent/)
 
-**NGROK** are pachete-python(SDK-uri,librarii...) specializate pt. [Flask](https://ngrok.com/docs/using-ngrok-with/flask/), pt. FastAPI](https://ngrok.com/docs/using-ngrok-with/fastAPI/),... ori pt alte tehnologii particulare.
+**NGROK** are pachete-python(SDK-uri,librarii...) specializate pt. [Flask](https://ngrok.com/docs/using-ngrok-with/flask/), pt. [FastAPI](https://ngrok.com/docs/using-ngrok-with/fastAPI/),... ori pt alte tehnologii particulare.
 
 Dupa cum bine stiti, [Stable-Diffusion(**SD**)](https://en.wikipedia.org/wiki/Stable_Diffusion) este un instrument *AI-generative*, care va permite sa creati imagini folosind/din descrieri-textuale simple(**txt2img**) foarte concise/rezumativa(gen legenda), text care va este solicitat ca si prompt-utilizator de catre aplicatia dumneavoastracare ruleaza pe dispozitivul dumneavoastra(via Browser).
 
 In cele ce urmeaza vom discuta despre o integrare: [**Flask-NGROK**](https://www.assemblyai.com/blog/build-a-free-stable-diffusion-app-with-a-gpu-backend) impreuna cu [**Stabble-Diffusion(SD)**](https://huggingface.co/spaces/stabilityai/stable-diffusion), cea din urma fiind o tehnica destul de populara in comunitatea-AI.
 
-<br/>Un micro-serviciu/o aplicatie bazat/a pe AI-**SD** expus cu [***Flask***](https://cdn.prod.website-files.com/67a1e6de2f2eab2e125f8b9a/67b519150b3db5c8ab26398b_overview.png) sau ***FastAPI*** ar avea nevoie de *accesibilitate* din internet si *securitate*.
+<br/>Un micro-serviciu/o aplicatie bazat/a pe AI-**SD** expus cu [***Flask***](https://cdn.prod.website-files.com/67a1e6de2f2eab2e125f8b9a/67b519150b3db5c8ab26398b_overview.png)(sau ***FastAPI***...) ar avea nevoie de *accesibilitate* din internet si *securitate*.
 <br/>Aceste deziderate pot fi acoperite cu brio de catre [NGROK](https://www.assemblyai.com/blog/build-a-free-stable-diffusion-app-with-a-gpu-backend):
 
 <a href="https://www.assemblyai.com/blog/build-a-free-stable-diffusion-app-with-a-gpu-backend"><img src="https://github.com/stefanache/MFP-ANAF-RO/blob/main/NGROK/67b519150b3db5c8ab26398b_overview.png"/></a>
