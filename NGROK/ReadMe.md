@@ -194,7 +194,7 @@ In cele ce urmeaza vom discuta despre o integrare: [**Flask-NGROK**](https://www
 
  - 1.Un utilizator trimite o legendă/un rezumat asociat descrierii(o cerere/solicitare de utilizare a unui microserviciu de tip "submit-caption"/trimite-legenda)  către **NGROK**
  - 2.**NGROK** redirecționează această solicitare către serverele-Colab(***GCP***).
- - 3.Serverul folosește ***Flask*** pentru a rula funcția-Python(bazata pe **SD**) ***generate_image()***
+ - 3.Serverul folosește [***Flask***](https://en.wikipedia.org/wiki/Flask_(web_framework)) pentru a rula funcția-Python(bazata pe **SD**) ***generate_image()***
  - 4.Această ***funcție-Python***(***generate_image()***) rulează ***generarea-imaginii*** pe un GPU-Colab(***GCP***).
  - 5.***Imaginea-generată*** este inserată într-un *șablon-HTML* cu [*Jinja*](https://jinja.palletsprojects.com/en/stable/templates/)
  - 6.*Documentul-HTML* rezultat este returnat utilizatorului , afișând ***imaginea-generată***.
