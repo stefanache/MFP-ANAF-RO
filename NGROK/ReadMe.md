@@ -194,7 +194,7 @@ In cele ce urmeaza vom discuta despre o integrare: [**NGROK-Python**](https://ng
  - 2.**NGROK** redirecționează această solicitare către serverele-Colab(***GCP***).
  - 3.Serverul folosește ***Flask*** pentru a rula funcția-Python(bazata pe **SD**) ***generate_image()***
  - 4.Această ***funcție-Python***(***generate_image()***) rulează ***generarea-imaginii*** pe un GPU-Colab(***GCP***).
- - 5.***Imaginea-generată*** este inserată într-un *șablon-HTML* cu *Jinja*
+ - 5.***Imaginea-generată*** este inserată într-un [*șablon-HTML* cu *Jinja*](https://jinja.palletsprojects.com/en/stable/templates/)
  - 6.*Documentul-HTML* rezultat este returnat utilizatorului , afișând ***imaginea-generată***.
 
 Desigur ca in cazul in care dispuneti de unitati **GPU** proprii puteti folosi o implementare-proprie/privata locala(auto-gazduire), in loc sa folositi o gazduire de la Google(fie ea si gratuita).
