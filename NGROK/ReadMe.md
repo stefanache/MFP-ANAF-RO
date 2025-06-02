@@ -185,8 +185,8 @@ Pentru programatorii in python, **NGROK** a creat un [**python-SDK**](https://ng
 <br/>Folosind acest SDK practic activați rapid conectivitate securizată, gata de producție, la aplicațiile și serviciile dvs. <ins>direct din cod-python</ins>.
 <br/>**NGROK** este un gateway-distribuit-global(**GW**) care oferă conectivitate securizată pentru aplicații și servicii care rulează în orice mediu.
 <br/>Spre exemplu, puteți utiliza biblioteca ngrok-python pentru a încorpora **Agentul-NGROK/NGROK-Agent** în aplicațiile dvs [FastAPI](https://ngrok.com/docs/using-ngrok-with/fastAPI/).
-<br/>Ori sa spunem ca avem deja un mediu de dezvoltare in care am instalat Python,PIP si un server local de dezvoltare [Flask](https://ngrok.com/docs/using-ngrok-with/flask/) si dorim sa partajam acest server cu un alt coleg. In aceste conditii, pur și simplu este suficeint sa executați cda-shell: **ngrok http 5000**, pentru a partaja acel server local de dezvoltare Flask cu altcineva(in acest caz de utilizare... cu colegul dvs care- ....il va utiliza de la distanta). .
-
+<br/>Ori sa spunem ca avem deja un mediu de dezvoltare, in care am instalat deja Python,PIP si un server-local-de-dezvoltare-[**Flask**](https://ngrok.com/docs/using-ngrok-with/flask/) si dorim la un moment dat sa partajam acest server cu un alt coleg. In aceste conditii, pur și simplu este suficient sa executați cda-shell: **ngrok http 5000**, pentru a partaja acel server-local-d- dezvoltare-**Flask** cu altcineva(in acest caz de utilizare... cu colegul dvs care- ....il va utiliza de la distanta).
+<br/>Acelasi lucru ati putea face cu un alt server ce ofera o alta functionalite(hai sa spunem un server-[MySQL](https://ngrok.com/docs/using-ngrok-with/mysql/)!) si ...exemplele pot continua.
 
 **NGROK** are si pachete-python(SDK-uri,librarii...) specializate pt. [Flask](https://ngrok.com/docs/using-ngrok-with/flask/), pt. [FastAPI](https://ngrok.com/docs/using-ngrok-with/fastAPI/),... ori pt alte [tehnologii](https://medium.com/@coderviewer/building-a-flask-api-gateway-for-grpc-microservices-a-practical-guide-f912aed73b94) particulare.
 
