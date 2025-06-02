@@ -181,7 +181,7 @@ In cele ce urmeaza vom face referire-detaliata la...
 Pentru programatorii in python, **NGROK** a creat un [**python-SDK**](https://ngrok.com/blog-post/ngrok-python), intitulat/care poarta numele de/denumit [**NGROK-python**](https://ngrok.com/blog-post/ngrok-python),  care va permite sa integrati **NGROK** in proiectele dvs python.
 [NGROK-python](https://ngrok.com/blog-post/ngrok-python) este un **SDK** [*nativ*](https://dexonline.ro/definitie/nativ/definitii) și [*idiomatic*](https://dexonline.ro/intrare/idiomatic/26208/definitii)(care apartine unui [idiom/structura lingvistica de baza](https://dexonline.ro/definitie/idiom/definitii)) pentru [**NGROK-Agent**](https://ngrok.com/docs/agent/)
 
-Dupa cum bine stiti, [Stable-Diffusion(**SD**)](https://en.wikipedia.org/wiki/Stable_Diffusion) este un instrument AI-generative care va permite sa creati imagini folosind descrieri textuale simple(**txt2img**).
+Dupa cum bine stiti, [Stable-Diffusion(**SD**)](https://en.wikipedia.org/wiki/Stable_Diffusion) este un instrument AI-generative care va permite sa creati imagini folosind/din descrieri-textuale simple(**txt2img**).
 
 In cele ce urmeaza vom discuta despre o integrare: [**NGROK-Python**](https://ngrok.com/blog-post/ngrok-python) impreuna cu [**Stabble-Diffusion**](https://huggingface.co/spaces/stabilityai/stable-diffusion), cea din urma fiind o tehnica destul de populara in comunitatea-AI.
 
