@@ -181,7 +181,7 @@ In cele ce urmeaza vom face referire-detaliata la...
 Pentru programatorii in python, **NGROK** a creat un [**python-SDK**](https://ngrok.com/blog-post/ngrok-python), intitulat/care poarta numele de/denumit [**NGROK-python**](https://ngrok.com/blog-post/ngrok-python),  care va permite sa integrati **NGROK** in proiectele dvs python.
 [NGROK-python](https://ngrok.com/blog-post/ngrok-python) este un **SDK** [*nativ*](https://dexonline.ro/definitie/nativ/definitii) și [*idiomatic*](https://dexonline.ro/intrare/idiomatic/26208/definitii)(care apartine unui [idiom/structura lingvistica de baza](https://dexonline.ro/definitie/idiom/definitii)) pentru [**NGROK-Agent**](https://ngrok.com/docs/agent/)
 
-[**NGROK-python**](https://ngrok.com/blog-post/ngrok-python) este SDK-ul oficial Python pentru **NGROK**, care <ins>nu</ins> necesită fișiere binare. 
+[**NGROK-python**](https://ngrok.com/blog-post/ngrok-python) este SDK-ul oficial Python pentru **NGROK**, care <ins>nu</ins> necesită fișiere binare(direct-executabile). 
 <br/>Folosind acest SDK practic activați rapid conectivitate securizată, gata de producție, la aplicațiile și serviciile dvs. <ins>direct din cod-python</ins>.
 <br/>**NGROK** este un gateway-distribuit-global(**GW**) care oferă conectivitate securizată pentru aplicații și servicii care rulează în orice mediu.
 
