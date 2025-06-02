@@ -183,7 +183,7 @@ Pentru programatorii in python, **NGROK** a creat un [**python-SDK**](https://ng
 
 **NGROK** are pachete-python(SDK-uri,librarii...) specializate pt. [Flask](https://ngrok.com/docs/using-ngrok-with/flask/), pt. [FastAPI](https://ngrok.com/docs/using-ngrok-with/fastAPI/),... ori pt alte tehnologii particulare.
 
-Dupa cum bine stiti, [Stable-Diffusion(**SD**)](https://en.wikipedia.org/wiki/Stable_Diffusion) este un instrument *AI-generative*, care va permite sa creati imagini folosind/din descrieri-textuale simple(**txt2img**) foarte concise/rezumativa(gen legenda), text care va este solicitat ca si prompt-utilizator de catre aplicatia dumneavoastracare ruleaza pe dispozitivul dumneavoastra(via Browser).
+Dupa cum bine stiti, [Stable-Diffusion(**SD**)](https://en.wikipedia.org/wiki/Stable_Diffusion) este un instrument *AI-generative*, care va permite sa creati imagini folosind/din descrieri-textuale simple(**txt2img**) foarte concise/rezumativa(gen legenda), text care va este solicitat ca si prompt-utilizator de catre aplicatia dvs., care ruleaza fie pe/in dispozitivul dvs.local(in regim de auto-hosting) fie/ori in regim de hosting-externalizat in **GCP**(accesibila de la distanta via client-Browser).
 
 In cele ce urmeaza vom discuta despre o integrare: [**Flask-NGROK**](https://www.assemblyai.com/blog/build-a-free-stable-diffusion-app-with-a-gpu-backend) impreuna cu [**Stabble-Diffusion(SD)**](https://huggingface.co/spaces/stabilityai/stable-diffusion), cea din urma fiind o tehnica destul de populara in comunitatea-AI.
 
