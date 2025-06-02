@@ -183,7 +183,7 @@ Pentru programatorii in python, **NGROK** a creat un [**python-SDK**](https://ng
 
 **NGROK** are pachete specializate pt [Flask](https://ngrok.com/docs/using-ngrok-with/flask/), [FastAPI](https://ngrok.com/docs/using-ngrok-with/fastAPI/),... ori pt alte tehnologii particulare.
 
-Dupa cum bine stiti, [Stable-Diffusion(**SD**)](https://en.wikipedia.org/wiki/Stable_Diffusion) este un instrument AI-generative care va permite sa creati imagini folosind/din descrieri-textuale simple(**txt2img**).
+Dupa cum bine stiti, [Stable-Diffusion(**SD**)](https://en.wikipedia.org/wiki/Stable_Diffusion) este un instrument *AI-generative*, care va permite sa creati imagini folosind/din descrieri-textuale simple(**txt2img**) foarte concise/rezumativa(gen legenda), text care va este solicitat ca si prompt-utilizator de catre aplicatia dumneavoastracare ruleaza pe dispozitivul dumneavoastra(via Browser).
 
 In cele ce urmeaza vom discuta despre o integrare: [**NGROK-Python**](https://ngrok.com/blog-post/ngrok-python) impreuna cu [**Stabble-Diffusion**](https://huggingface.co/spaces/stabilityai/stable-diffusion), cea din urma fiind o tehnica destul de populara in comunitatea-AI.
 
@@ -192,7 +192,7 @@ In cele ce urmeaza vom discuta despre o integrare: [**NGROK-Python**](https://ng
 
 <a href="https://www.assemblyai.com/blog/build-a-free-stable-diffusion-app-with-a-gpu-backend"><img src="https://github.com/stefanache/MFP-ANAF-RO/blob/main/NGROK/67b519150b3db5c8ab26398b_overview.png"/></a>
 
- - 1.Un utilizator trimite o legendă/un rezumat asociat titlului(o cerere/solicitare de utilizare a unui microserviciu de tip "submit-caption"/trimite-legenda)  către **NGROK**
+ - 1.Un utilizator trimite o legendă/un rezumat asociat descrierii(o cerere/solicitare de utilizare a unui microserviciu de tip "submit-caption"/trimite-legenda)  către **NGROK**
  - 2.**NGROK** redirecționează această solicitare către serverele-Colab(***GCP***).
  - 3.Serverul folosește ***Flask*** pentru a rula funcția-Python(bazata pe **SD**) ***generate_image()***
  - 4.Această ***funcție-Python***(***generate_image()***) rulează ***generarea-imaginii*** pe un GPU-Colab(***GCP***).
