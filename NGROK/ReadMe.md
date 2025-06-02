@@ -202,7 +202,7 @@ In cele ce urmeaza vom discuta despre o integrare: [**Flask-NGROK**](https://www
 Desigur ca in cazul in care dispuneti de unitati **GPU** proprii puteti folosi o implementare-proprie/privata locala(auto-gazduire), in loc sa folositi o gazduire de la Google(fie ea si gratuita).
 <br>Oricum tehnologia **SD** necesita accelerarea procesarii, altminteri veti avea o latenta destul de insemnata deloc placuta(variind de la computer/server la computere/server, in functie de dotarile acestora)
 
-In acest exemplu de integrare(**NGROK** + **SD**), componenta-**NGROK** joaca rolul unui [**reverse-proxy(RP)**](https://ngrok.com/blog-post/reverse-proxy-vs-api-gateway), care va furniza efectiv o *adresă-URL publică*(EndPoint-URL: https://\<*SOME-URL*\>.ngrok.io/submit_caption unde partea \<*SOME-URL*\> va fi inlocuita cu/este de fapt o valoare alfa-numerica particulara, generata de serviciul-**NGROK**) la care utilizatorii pot accesa aceasta aplicație.
+In acest exemplu de integrare(**NGROK** + **SD**), componenta-**NGROK** joaca rolul unui [**reverse-proxy(RP)**](https://ngrok.com/blog-post/reverse-proxy-vs-api-gateway), care va furniza efectiv o *adresă-URL publică*(EndPoint-URL: https://\<*SOME-URL*\>.ngrok.io/submit_caption unde partea \<*SOME-URL*\> va fi inlocuita cu/este de fapt o valoare alfa-numerica particulara, generata de serviciul-**NGROK**) la care utilizatorii pot <ins>accesa</ins>(in mod <ins>securizat</ins>!) aceasta aplicație.
 
 <hr/>
 
