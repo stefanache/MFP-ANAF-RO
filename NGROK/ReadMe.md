@@ -189,7 +189,7 @@ Pentru programatorii in python, **NGROK** a creat un [**python-SDK**](https://ng
 <br/>*Nota*:
 <br/>**Flask** este un microFramework Python, care <ins>nu</ins> funcționează ca un *server-web*(*webserver*) complet. 
 <br/>În schimb, acționează ca o aplicație WSGI care necesită un *server-web*(cum ar fi Apache sau Nginx) pentru a servi pagini-web.
-<br/>**Flask** oferă logica și structura pentru gestionarea cererilor-web, dar are nevoie de un *server-web* dedicat pentru a gestiona protocolu-HTTP [subiacent](https://dexonline.ro/definitie/subiacent) și a livra conținutul către clienți. 
+<br/>**Flask** oferă logica și structura pentru gestionarea cererilor-web, dar are nevoie de un *server-web* dedicat pentru a gestiona protocolul-HTTP [subiacent](https://dexonline.ro/definitie/subiacent) și a livra conținutul către clienți. 
 <br/>Acelasi lucru ati putea face cu un alt server ce ofera o alta functionalite(hai sa spunem un server-[MySQL](https://ngrok.com/docs/using-ngrok-with/mysql/)!) si ...exemplele pot continua.
 
 **NGROK** are si pachete-python(SDK-uri,librarii...) specializate pt. [Flask](https://ngrok.com/docs/using-ngrok-with/flask/), pt. [FastAPI](https://ngrok.com/docs/using-ngrok-with/fastAPI/),... ori pt alte [tehnologii](https://medium.com/@coderviewer/building-a-flask-api-gateway-for-grpc-microservices-a-practical-guide-f912aed73b94) particulare.
