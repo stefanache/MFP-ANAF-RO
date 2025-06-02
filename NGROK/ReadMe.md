@@ -177,6 +177,7 @@ In cele ce urmeaza vom face referire-detaliata la...
  <summary>...produsul-SDK <b>NGROK-python</b>...</summary>
 
 <hr/> 
+
 Pentru programatorii in python, **NGROK** a creat un [**python-SDK**](https://ngrok.com/blog-post/ngrok-python), intitulat/care poarta numele de/denumit [**NGROK-python**](https://ngrok.com/blog-post/ngrok-python),  care va permite sa integrati NGROK in proiectele dvs python.
 [NGROK-python](https://ngrok.com/blog-post/ngrok-python) este un SDK nativ și idiomatic pentru [**NGROK-Agent**](https://ngrok.com/docs/agent/)
 <br/>Dupa cum bine stiti, Stable-Diffusion(**SD**) este un instrument AI-generative care va permite sa creati imagini folosind descrieri textuale simple(**txt2img**).
@@ -196,6 +197,7 @@ In cele ce urmeaza vom discuta despre o integrare **NGROK-Python** cu **Stabble-
  - 6.*Documentul-HTML* rezultat este returnat utilizatorului , afișând ***imaginea-generată***.
 
 <hr/>
+
 </details>
 
 [*Lecturare placuta*](https://ngrok.com/docs/guides/other-guides/using-mcp/)!
