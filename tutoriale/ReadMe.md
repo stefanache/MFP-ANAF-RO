@@ -128,7 +128,7 @@ Așa cum spun specialiștii citați de DNSC(Directoratul Național de Securitate
 <hr/>
 <br/>
 
-O recomandare de lecturare interesanta o constituie si acest [articol](https://levelup.gitconnected.com/create-your-own-differentiable-n-body-simulation-with-python-jax-5868c71be866)
+O recomandare interesanta de lectura  o constituie si acest [articol](https://levelup.gitconnected.com/create-your-own-differentiable-n-body-simulation-with-python-jax-5868c71be866)
 
 Autorul articolulului ne propune sa ne cream propria noastra [simulare N-body diferențiabilă](https://github.com/pmocz/nbody-jax) (utilizand [Python](https://medium.com/gitconnected/create-your-own-automatically-differentiable-simulation-with-python-jax-46951e120fbb)/[JAX](https://docs.jax.dev/en/latest/quickstart.html)).
 
