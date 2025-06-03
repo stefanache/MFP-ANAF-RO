@@ -4,6 +4,7 @@ Ca si articol pregatitor puteti citi aici despre [Vector_DB](https://medium.com/
 
 In aceasta prezentare voi face referire si uneori voi analiza(pe scurt!) diverse Articole & Proiecte legate de acest subiect(**LLMCP=LLM+MCP**):
 
+ - [MS-learn-Azure-API-center: Register and Discover *remote* **MCP-servers** in your API-Inventory](https://learn.microsoft.com/en-us/azure/api-center/register-discover-mcp-server)
  - [medium@heeki: Building an **MCP**-server as an API-developer](https://heeki.medium.com/building-an-mcp-server-as-an-api-developer-cfc162d06a83)
  - [Awesome MCP-servers](https://mcpservers.org/)
  - [ngrok: Using **NGROK** With Claude AI's **MCP-server**](https://ngrok.com/docs/guides/other-guides/using-mcp/); [pipedream: NGROK MCP-server](https://mcp.pipedream.com/app/ngrok)
