@@ -47,6 +47,7 @@ Managerul fluxului de lucru [**n8n**](https://luhhu.com/blog/is-n8n-a-rpa) ofera
 
 As mai mentiona faptul ca [**n8n**](https://www.reddit.com/r/n8n/comments/1gchb5j/n8n_as_replacement_for_major_rpa_tools/) se ocupa de integrarea diverselor API-uri, in timp ce un [***RPA***](https://www.zaptest.com/ro/6-tipuri-de-rpa-robotic-process-automation-pe-care-trebuie-sa-le-cunoasteti)-ul se ocupa de crearea de "(ro)boti" care sa inlocuiasca [activitatile/actiunilor-procesuale repetitive ale oamenilor/umane](https://www.sostenia.ro/en/blog/sostenia-blog-1/what-does-rpa-mean-4)(extrage date, completarea automată a formularelor/introducerea de date, logarea în aplicații, mutarea fișierelor și dosarelor și poate efectua multe alte acțiuni...)
 
+Iata aici un proiect bazat pe **n8n** despre un [*WhatsApp-Bot*](https://medium.com/@wassenger/full-ai-whatsapp-bot-with-n8n-ready-to-use-workflow-included-c9e1f3d94924)
 <hr/>
 <br/>
 
