@@ -135,7 +135,7 @@ Autorul articolulului ne propune sa ne cream propria noastra [simulare N-body di
 Diferențierea automată (**autodiff**) este o tehnică puternică folosită în **AI** pentru a automatiza și a calcula eficient [***gradienții***](https://en.wikipedia.org/wiki/Gradient)(ori daca vreti, modificarile / variabilitatea / fluctuatiile / schimbarea / transformarea sau tranformabilitatea / masurarea sau masura / dinamica / analiza / interogarea / esantionarea / discretizarea/ evolutia / modelarea / simularea / pulsatia *continua/discreta*, in timp-real/temporala, a unei/unor valori oarecare, aferenta unui parametru/semnal/serii-temporal/e), pentru probleme/in scopuri de optimizar[e/i].
 
 ***Nota:***
-<br/> Pana la urma, un semnal este urmarit/monitorizat/esantionat in timp la intervale de timp egale si oricat posibil de mici si i se masoara valorile asociate unui parametru/indicator(din multimea completa a acestor parametrii care descriu procesul studiat):
+<br/> Pana la urma, un semnal este urmarit/monitorizat/esantionat in timp la intervale de timp egale(si oricat posibil de mici), ca mai apoi sa i se masoare valorile asociate unui parametru/indicator(din multimea completa a acestor parametrii care descriu procesul/fenomenul studiat):
 <br/> v0,v1,v2... aferent momentelor de timp t0,t1,t2...
 <br/>Ceea ce se obtine de fapt este un **sir** de valori!
 <br/>Nu cred ca ar fi cu totul eronat daca imediat ce rostiti cuvantul [**gradient**](https://ro.wikipedia.org/wiki/Gradient), v-ati duce cu gandul la  termenul de **sir**(privit ca notiune matematica/abstracta!)
