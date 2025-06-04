@@ -10,36 +10,32 @@ In aceasta prezentare voi face referire si uneori voi analiza(pe scurt!) diverse
 <summary>...rezumat video...</summary>
 
 <hr/>
-Rezumat 
-În acest videoclip, gazda explorează relația complexă dintre sănătatea mintală și utilizarea rețelelor sociale, subliniind atât impactul pozitiv, cât și cel negativ asupra utilizatorilor. Subiectele cheie includ rolul rețelelor sociale în promovarea conexiunilor, proliferarea dezinformării și consecințele hărțuirii cibernetice. Videoclipul se încheie cu sfaturi practice despre cum să navigați responsabil pe rețelele sociale, prioritizând în același timp bunăstarea mintală, încurajând spectatorii să reflecteze asupra propriilor obiceiuri online.
- Repere
+<ins>Rezumat:</ins>
 
+În acest videoclip, gazda explorează relația complexă dintre sănătatea mintală și utilizarea rețelelor sociale, subliniind atât impactul pozitiv, cât și cel negativ asupra utilizatorilor. 
 
+Subiectele cheie includ rolul rețelelor sociale în promovarea conexiunilor, proliferarea dezinformării și consecințele hărțuirii cibernetice. 
 
-0:30
-	Introducere în tema sănătății mintale și a rețelelor sociale, subliniind relevanța lor în prezent.
+Videoclipul se încheie cu sfaturi practice despre cum să navigați responsabil pe rețelele sociale, prioritizând în același timp bunăstarea mintală, încurajând spectatorii să reflecteze asupra propriilor obiceiuri online.
 
-1:30
-	Discuție despre aspectele pozitive ale rețelelor de socializare, cum ar fi construirea comunității și rețelele de sprijin.
+<ins>Repere</ins>
 
-2:30
-	Examinarea creșterii dezinformării pe platformele sociale și a efectelor acesteia asupra sănătății mintale.
+0:30	Introducere în tema sănătății mintale și a rețelelor sociale, subliniind relevanța lor în prezent.
 
-3:40
-	Informații despre statisticile privind hărțuirea cibernetică și implicațiile din viața reală asupra sănătății mintale a victimelor.
+1:30	Discuție despre aspectele pozitive ale rețelelor de socializare, cum ar fi construirea comunității și rețelele de sprijin.
 
-5:00
-	Opinia experților despre importanța stabilirii limitelor în utilizarea rețelelor sociale pentru o sănătate mintală mai bună.
+2:30	Examinarea creșterii dezinformării pe platformele sociale și a efectelor acesteia asupra sănătății mintale.
 
-6:00
-	Prezentare de sfaturi practice pentru menținerea unei relații sănătoase cu rețelele de socializare.
+3:40	Informații despre statisticile privind hărțuirea cibernetică și implicațiile din viața reală asupra sănătății mintale a victimelor.
+
+5:00	Opinia experților despre importanța stabilirii limitelor în utilizarea rețelelor sociale pentru o sănătate mintală mai bună.
+
+6:00	Prezentare de sfaturi practice pentru menținerea unei relații sănătoase cu rețelele de socializare.
 
 7:00
 	Anecdote personale de la utilizatori care își împărtășesc experiențele legate de sănătatea mintală și rețelele sociale.
 
-8:00
-	Recapitularea principalelor concluzii și încurajarea spectatorilor să își evalueze comportamentul online.
-
+8:00	Recapitularea principalelor concluzii și încurajarea spectatorilor să își evalueze comportamentul online.
 
 <hr/>
 
