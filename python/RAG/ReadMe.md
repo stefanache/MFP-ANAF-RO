@@ -13,7 +13,7 @@ Aici o sa plasez cateva link-uri(selectate!) legate de constructia unui RAG(cu p
 
  <img src="https://raw.githubusercontent.com/stefanache/MFP-ANAF-RO/refs/heads/main/python/RAG/0_rV_-vvlVdWLfJjxn.webp" />
 
- <img src="" />
+ <img src="https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/RAG/NodeGraph_Figure2.png" />
 
  <img src="" />
 
