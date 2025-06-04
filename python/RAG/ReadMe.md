@@ -9,6 +9,14 @@ Aici o sa plasez cateva link-uri(selectate!) legate de constructia unui RAG(cu p
 
 <hr/>
 
+
+RAG tradițional se confruntă adesea cu probleme legate de conținut fragmentat și informații redundante. 
+
+RAG bazat pe grafuri îmbunătățește acest aspect, dar structura sa grafică simplistă nu este suficientă pentru a surprinde semnificații complexe.
+
+Aici intervine NodeRAG - prin combinarea nodurilor eterogene cu algoritmi grafici, reconstruiește reprezentarea cunoștințelor pentru a face RAG mai inteligent, mai precis și mai bine structurat.
+
+
 🚀 NodeRAG este un sistem RAG de generare și recuperare eterogenă bazat pe grafuri, pe care îl puteți instala și utiliza în mai multe moduri. 
 
 - [GH@terry-xu-666: NodeRAG-web-example](https://terry-xu-666.github.io/NodeRAG_web/example/)
@@ -23,17 +31,32 @@ Aici o sa plasez cateva link-uri(selectate!) legate de constructia unui RAG(cu p
 
  <img src="https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/RAG/NodeGraph_Figure2.png">2.NodeRAG-workflow(optimization)</img>
 
+[NodeRAG-indexare](https://terry-xu-666.github.io/NodeRAG_web/docs/indexing/) si [NodeRAG-raspuns](https://terry-xu-666.github.io/NodeRAG_web/docs/answer/)
+
+
+✨ Caracteristici
+🔗 Îmbunătățirea structurii grafice pentru RAG
+NodeRAG introduce o structură de grafuri eterogenă care consolidează fundamentul Retrieval-Augmented Generation (RAG) bazată pe grafuri.
+
+🔍 Recuperare detaliată și explicabilă
+NodeRAG utilizează HeteroGraphs pentru a permite noduri distincte funcțional, asigurând o recuperare precisă și contextuală, îmbunătățind în același timp interpretabilitatea.
+
+🧱 O recuperare unificată a informațiilor
+În loc să trateze informațiile extrase și datele brute ca straturi separate, NodeRAG le integrează ca noduri interconectate, creând un sistem de recuperare fără probleme și adaptabil.
+
+⚡ Performanță și viteză optimizate
+NodeRAG realizează viteze mai mari de construire a grafurilor și de recuperare a datelor prin algoritmi unificați și implementări optimizate.
+
+🔄 Actualizări incrementale ale graficelor
+NodeRAG acceptă actualizări incrementale în cadrul grafurilor eterogene folosind mecanisme de conectivitate a grafurilor.
+
+📊 Vizualizare și interfață cu utilizatorul
+NodeRAG oferă un sistem de vizualizare ușor de utilizat. Împreună cu o interfață web complet dezvoltată, utilizatorii pot explora, analiza și gestiona structura graficului cu ușurință.
+
  <img src="https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/RAG/performance.png">3.a)Performanță de referință</img>
  
  <img src="https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/RAG/system_performance.png">3.b)Performanță sistemului</img>
 
-RAG tradițional se confruntă adesea cu probleme legate de conținut fragmentat și informații redundante. 
-
-RAG bazat pe grafuri îmbunătățește acest aspect, dar structura sa grafică simplistă nu este suficientă pentru a surprinde semnificații complexe.
-
-Aici intervine NodeRAG - prin combinarea nodurilor eterogene cu algoritmi grafici, reconstruiește reprezentarea cunoștințelor pentru a face RAG mai inteligent, mai precis și mai bine structurat.
-
-[NodeRAG-indexare](https://terry-xu-666.github.io/NodeRAG_web/docs/indexing/) si [NodeRAG-raspuns](https://terry-xu-666.github.io/NodeRAG_web/docs/answer/)
 
 <hr/>
 
