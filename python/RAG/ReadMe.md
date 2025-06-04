@@ -2,6 +2,7 @@ Salut!
 
 Aici o sa plasez cateva link-uri(selectate!) legate de constructia unui RAG(cu precadere tutoriale oferite de catre dl. [Fahd-Mirza](https://www.toksta.com/influencers/fahd-mirza)... da nu numai!):
 
+- [YT@NarimanCodes: Build a Powerful-**RAG**-Web-Scraper with Ollama(OL) and LangChain(LC)](https://www.youtube.com/watch?v=eLV1R6ORRyU&ab_channel=NarimanCodes)
 - [LNKDN-pulse: Building Agentic AI ~ A Practical Guide with LangChain(LC), MCP, **RAG** & Ollama](https://www.linkedin.com/pulse/building-agentic-ai-practical-guide-langchain-mcp-rag-ollama-6v8kf/)
 - [GH@coleam00: MCP(-server) crawl4ai **RAG** and Supabase(as VDB)](https://github.com/coleam00/mcp-crawl4ai-rag)
 - [dev.to@ajmal_hasan: Setting Up Ollama(OL) & Running DeepSeek-R1(DS-R1) Locally for a Powerful **RAG**-System](https://dev.to/ajmal_hasan/setting-up-ollama-running-deepseek-r1-locally-for-a-powerful-rag-system-4pd4)
