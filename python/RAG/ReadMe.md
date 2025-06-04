@@ -20,6 +20,7 @@ Aici o sa plasez cateva link-uri(selectate!) legate de constructia unui RAG(cu p
  <img src="https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/RAG/NodeGraph_Figure2.png">2.NodeRAG-workflow</img>
 
  <img src="https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/RAG/performance.png">3.a)Performance</img>
+ 
  <img src="https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/RAG/system_performance.png">3.b)System-performance</img>
    
  </details>
