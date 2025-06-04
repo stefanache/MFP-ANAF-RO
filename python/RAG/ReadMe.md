@@ -29,6 +29,8 @@ RAG bazat pe grafuri îmbunătățește acest aspect, dar structura sa grafică 
 
 Aici intervine NodeRAG - prin combinarea nodurilor eterogene cu algoritmi grafici, reconstruiește reprezentarea cunoștințelor pentru a face RAG mai inteligent, mai precis și mai bine structurat.
 
+[NodeRAG-indexare](https://terry-xu-666.github.io/NodeRAG_web/docs/indexing/)
+
 <hr/>
 
 </details>
