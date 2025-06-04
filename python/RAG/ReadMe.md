@@ -3,8 +3,23 @@ Salut!
 Aici o sa plasez cateva link-uri(selectate!) legate de constructia unui RAG(cu precadere tutoriale oferite de catre dl. [Fahd-Mirza](https://www.toksta.com/influencers/fahd-mirza)... da nu numai!):
 
 - [GH@Terry-Xu-666: **NodeRAG**](https://github.com/Terry-Xu-666/NodeRAG);
+<details>
+    <summary>...detalii legate de <b>NodeRAG</b>...</summary>
+
+<hr/>
+
   <br/>[medium/AI-exploration-journey: **NodeRAG** - installing a structured-brain for-LLMs - AI - innovations and insights -CH.43](https://medium.com/ai-exploration-journey/noderag-installing-a-structured-brain-for-llms-ai-innovations-and-insights-43-1a1f1ff1fcf7)
   <br/>[AIexpJourney.substack AI-innovations: calatorii continue](https://aiexpjourney.substack.com/t/ai-innovations)
+
+ <img src="" />
+
+ <img src="" />
+
+ <img src="" />
+
+ <img src="" />
+   
+ </details>
 - [medium@hassan.tbt1989: Build a RAG-powered LLM-service with Ollama(*docker*izat,LLM=llama3.2:3b-instruct-fp16 on RTX4060), openWebUI(dockerizat)-guide](https://medium.com/@hassan.tbt1989/build-a-rag-powered-llm-service-with-ollama-open-webui-a-step-by-step-guide-a688ec58ac97); [GH: open-WebUI](https://github.com/open-webui/open-webui); [GH: Ollama-docs](https://github.com/ollama/ollama/tree/main/docs) 
 - [gitConnected-levelUp: Build(in Python) an AI-local-RAG-chatbot with Ollama(OL)+DeepSeek(DS-R1)+ChromaDB+LangChain(LC) - a technical-guide](https://levelup.gitconnected.com/build-an-ai-local-rag-chatbot-with-ollama-deepseek-and-langchain-a-technical-guide-4dedf0d180eb)
 - [AIhello-resources-blog: Building-a-RAG-pipeline-with-FastAPI-HayStack-and-ChromaDB-for-URLs-in-Python](https://www.aihello.com/resources/blog/building-a-rag-pipeline-with-fastapi-haystack-and-chromadb-for-urls-in-python/)
