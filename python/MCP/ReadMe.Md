@@ -4,7 +4,7 @@ Ca si articol pregatitor puteti citi aici despre [Vector_DB](https://medium.com/
 
 In aceasta prezentare voi face referire si uneori voi analiza(pe scurt!) diverse Articole & Proiecte legate de acest subiect(**LLMCP=LLM+MCP**):
 
- - [katonic.ai: The USB-C of AI ~ How Model Context Protocol and Agent-to-Agent(A2A) Communication Are Changing the Game](https://www.katonic.ai/usb-of-ai-mcp-a2a-communication.html)
+ - [katonic.ai: The USB-C of AI ~ How Model Context Protocol(MCP) and Agent-to-Agent(A2A) Communication Are Changing the Game](https://www.katonic.ai/usb-of-ai-mcp-a2a-communication.html)
  - [medium-ai-exploration-journey: MCP = HTTP or USB-C for the AI World?](https://medium.com/ai-exploration-journey/mcp-http-or-usb-c-for-the-ai-world-f8323efeef76)
  - [LNKDN-pulse: Model Context Protocol (MCP): Connecting Local-LLMs to Various Data-Sources](https://www.linkedin.com/pulse/model-context-protocol-mcp-connecting-local-llms-various-bhuiyan-zkrde/)
  - [medium-the-ai-forum: Understanding the MCP Workflow ~ Building a Local MCP client using Ollama and LangChain MCP adapters](https://medium.com/the-ai-forum/understanding-the-mcp-workflow-building-a-local-mcp-client-using-ollama-and-langchain-mcp-5997b8a5fded)
