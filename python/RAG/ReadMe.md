@@ -2,7 +2,7 @@ Salut!
 
 Aici o sa plasez cateva link-uri(selectate!) legate de constructia unui RAG(cu precadere tutoriale oferite de catre dl. [Fahd-Mirza](https://www.toksta.com/influencers/fahd-mirza)... da nu numai!):
 
-- [ai.plainenglish: Building Your Own Local **RAG **System with Llama2, Ollama(OL) and LangChain(LC) using custom data ~ A Step-by-Step Guide](https://ai.plainenglish.io/building-your-own-local-rag-system-with-llama2-ollama-and-langchain-using-custom-data-a-d4909b74f450)
+- [ai.plainenglish: Building Your Own Local **RAG**-System with Llama2, Ollama(OL) and LangChain(LC) using custom data ~ A Step-by-Step Guide](https://ai.plainenglish.io/building-your-own-local-rag-system-with-llama2-ollama-and-langchain-using-custom-data-a-d4909b74f450)
 - [vanna.ai/docs: Generating SQL for MySQL using OpenAI, Vanna Hosted Vector-DB (Recommended)](https://vanna.ai/docs/mysql-openai-standard-vannadb/)
 - [GH-vanna: 🤖 Discutați cu baza de date 📊 SQL. Generare precisă de text în SQL prin LLM-uri folosind RAG 🔄.](https://github.com/vanna-ai/vanna)
   <br/>Vanna este un framework Python RAG (Retrieval-Augmented Generation) open-source, licențiat de MIT, pentru generarea SQL și funcționalități conexe.
