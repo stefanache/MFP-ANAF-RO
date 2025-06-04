@@ -11,6 +11,7 @@ Aici o sa plasez cateva link-uri(selectate!) legate de constructia unui RAG(cu p
 
 🚀 NodeRAG este un sistem RAG de generare și recuperare eterogenă bazat pe grafuri, pe care îl puteți instala și utiliza în mai multe moduri. 
 
+- [GH@terry-xu-666: NodeRAG-web-example](https://terry-xu-666.github.io/NodeRAG_web/example/)
 
  - [medium/AI-exploration-journey: **NodeRAG** - installing a structured-brain for-LLMs - AI - innovations and insights -CH.43](https://medium.com/ai-exploration-journey/noderag-installing-a-structured-brain-for-llms-ai-innovations-and-insights-43-1a1f1ff1fcf7)
  - [AIexpJourney.substack AI-innovations: AI Innovations and Insights](https://aiexpjourney.substack.com/t/ai-innovations)
