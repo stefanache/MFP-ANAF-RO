@@ -14,7 +14,7 @@ RAG tradițional se confruntă adesea cu probleme legate de conținut fragmentat
 
 RAG bazat pe grafuri îmbunătățește acest aspect, dar structura sa grafică simplistă nu este suficientă pentru a surprinde semnificații complexe.
 
-Aici intervine NodeRAG - prin combinarea nodurilor eterogene cu algoritmi grafici, reconstruiește reprezentarea cunoștințelor pentru a face RAG mai inteligent, mai precis și mai bine structurat.
+Aici intervine [NodeRAG](https://medium.com/@ankit34567/noderag-structuring-graph-based-rag-with-heterogeneous-nodes-3327d7da07e5) - prin combinarea nodurilor eterogene cu algoritmi grafici, reconstruiește reprezentarea cunoștințelor pentru a face RAG mai inteligent, mai precis și mai bine structurat.
 
 
 🚀 NodeRAG este un sistem RAG de generare și recuperare eterogenă bazat pe grafuri, pe care îl puteți instala și utiliza în mai multe moduri. 
