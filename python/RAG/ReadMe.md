@@ -34,7 +34,7 @@ Aici intervine NodeRAG - prin combinarea nodurilor eterogene cu algoritmi grafic
 [NodeRAG-indexare](https://terry-xu-666.github.io/NodeRAG_web/docs/indexing/) si [NodeRAG-raspuns](https://terry-xu-666.github.io/NodeRAG_web/docs/answer/)
 
 
-✨ Caracteristici:
+✨ Caracteristici NodeRAG:
 
 🔗 Îmbunătățirea structurii grafice pentru RAG - 
 NodeRAG introduce o structură de grafuri eterogenă care consolidează fundamentul Retrieval-Augmented Generation (RAG) bazată pe grafuri.
