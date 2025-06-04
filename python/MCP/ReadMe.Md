@@ -4,6 +4,7 @@ Ca si articol pregatitor puteti citi aici despre [Vector_DB](https://medium.com/
 
 In aceasta prezentare voi face referire si uneori voi analiza(pe scurt!) diverse Articole & Proiecte legate de acest subiect(**LLMCP=LLM+MCP**):
 
+ - [LNKDN-pulse: Model Context Protocol (MCP): Connecting Local-LLMs to Various Data-Sources](https://www.linkedin.com/pulse/model-context-protocol-mcp-connecting-local-llms-various-bhuiyan-zkrde/)
  - [medium-the-ai-forum: Understanding the MCP Workflow ~ Building a Local MCP client using Ollama and LangChain MCP adapters](https://medium.com/the-ai-forum/understanding-the-mcp-workflow-building-a-local-mcp-client-using-ollama-and-langchain-mcp-5997b8a5fded)
  - [becomingAhacker: integrating(LC) Agentic-RAG with MCP-servers - technical-implementation-guide](https://becomingahacker.org/integrating-agentic-rag-with-mcp-servers-technical-implementation-guide-1aba8fd4e442)
  - [medium@mnjkshrm: MCP vs. Agents vs. RAG - understanding the new paradigms in AI-integration](https://medium.com/@mnjkshrm/mcp-vs-agents-vs-rag-understanding-the-new-paradigms-in-ai-integration-6de1a9e272b6)
