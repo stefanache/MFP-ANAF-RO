@@ -12,7 +12,10 @@ Aici o sa plasez cateva link-uri(selectate!) legate de constructia unui RAG(cu p
  - [medium/AI-exploration-journey: **NodeRAG** - installing a structured-brain for-LLMs - AI - innovations and insights -CH.43](https://medium.com/ai-exploration-journey/noderag-installing-a-structured-brain-for-llms-ai-innovations-and-insights-43-1a1f1ff1fcf7)
  - [AIexpJourney.substack AI-innovations: calatorii continue](https://aiexpjourney.substack.com/t/ai-innovations)
 
- <img src="https://raw.githubusercontent.com/stefanache/MFP-ANAF-RO/refs/heads/main/python/RAG/0_rV_-vvlVdWLfJjxn.webp" />
+ - [arxiv-PDF-2504.11544v1: NodeRAG: Structuring Graph-based RAG with Heterogeneous Nodes](https://arxiv.org/pdf/2504.11544v1)
+
+
+ <img src="https://raw.githubusercontent.com/stefanache/MFP-ANAF-RO/refs/heads/main/python/RAG/0_rV_-vvlVdWLfJjxn.webp">Comparatie intre NodeRAG si alte RAG-uri</img>
 
  <img src="https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/RAG/NodeGraph_Figure2.png" />
 
