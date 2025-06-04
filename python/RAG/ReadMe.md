@@ -10,7 +10,7 @@ Aici o sa plasez cateva link-uri(selectate!) legate de constructia unui RAG(cu p
 <hr/>
 
  - [medium/AI-exploration-journey: **NodeRAG** - installing a structured-brain for-LLMs - AI - innovations and insights -CH.43](https://medium.com/ai-exploration-journey/noderag-installing-a-structured-brain-for-llms-ai-innovations-and-insights-43-1a1f1ff1fcf7)
- - [AIexpJourney.substack AI-innovations: calatorii continue](https://aiexpjourney.substack.com/t/ai-innovations)
+ - [AIexpJourney.substack AI-innovations: AI Innovations and Insights](https://aiexpjourney.substack.com/t/ai-innovations)
 
  - [arxiv-PDF-2504.11544v1: NodeRAG: Structuring Graph-based RAG with Heterogeneous Nodes](https://arxiv.org/pdf/2504.11544v1)
 
