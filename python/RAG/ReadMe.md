@@ -9,8 +9,8 @@ Aici o sa plasez cateva link-uri(selectate!) legate de constructia unui RAG(cu p
 
 <hr/>
 
-  <br/>[medium/AI-exploration-journey: **NodeRAG** - installing a structured-brain for-LLMs - AI - innovations and insights -CH.43](https://medium.com/ai-exploration-journey/noderag-installing-a-structured-brain-for-llms-ai-innovations-and-insights-43-1a1f1ff1fcf7)
-  <br/>[AIexpJourney.substack AI-innovations: calatorii continue](https://aiexpjourney.substack.com/t/ai-innovations)
+ - [medium/AI-exploration-journey: **NodeRAG** - installing a structured-brain for-LLMs - AI - innovations and insights -CH.43](https://medium.com/ai-exploration-journey/noderag-installing-a-structured-brain-for-llms-ai-innovations-and-insights-43-1a1f1ff1fcf7)
+ - [AIexpJourney.substack AI-innovations: calatorii continue](https://aiexpjourney.substack.com/t/ai-innovations)
 
  <img src="https://raw.githubusercontent.com/stefanache/MFP-ANAF-RO/refs/heads/main/python/RAG/0_rV_-vvlVdWLfJjxn.webp" />
 
