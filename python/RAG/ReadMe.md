@@ -15,9 +15,9 @@ Aici o sa plasez cateva link-uri(selectate!) legate de constructia unui RAG(cu p
 
  <img src="https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/RAG/NodeGraph_Figure2.png" />
 
- <img src="" />
+ <img src="https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/RAG/performance.png" />
 
- <img src="" />
+ <img src="https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/RAG/system_performance.png" />
    
  </details>
 - [medium@hassan.tbt1989: Build a RAG-powered LLM-service with Ollama(*docker*izat,LLM=llama3.2:3b-instruct-fp16 on RTX4060), openWebUI(dockerizat)-guide](https://medium.com/@hassan.tbt1989/build-a-rag-powered-llm-service-with-ollama-open-webui-a-step-by-step-guide-a688ec58ac97); [GH: open-WebUI](https://github.com/open-webui/open-webui); [GH: Ollama-docs](https://github.com/ollama/ollama/tree/main/docs) 
