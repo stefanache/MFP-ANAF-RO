@@ -2,6 +2,7 @@ Salut!
 
 Aici o sa plasez cateva link-uri(selectate!) legate de constructia unui RAG(cu precadere tutoriale oferite de catre dl. [Fahd-Mirza](https://www.toksta.com/influencers/fahd-mirza)... da nu numai!):
 
+- [vanna.ai/docs: Generating SQL for MySQL using OpenAI, Vanna Hosted Vector-DB (Recommended)](https://vanna.ai/docs/mysql-openai-standard-vannadb/)
 - [GH-vanna: 🤖 Discutați cu baza de date 📊 SQL. Generare precisă de text în SQL prin LLM-uri folosind RAG 🔄.](https://github.com/vanna-ai/vanna)
   <br/>Vanna este un framework Python RAG (Retrieval-Augmented Generation) open-source, licențiat de MIT, pentru generarea SQL și funcționalități conexe.
 - [dailyDoseOfDS: Agentic-RAG bazat pe MCP-server](https://www.dailydoseofds.com/p/mcp-powered-agentic-rag/)
