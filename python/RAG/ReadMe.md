@@ -3,7 +3,7 @@ Salut!
 Aici o sa plasez cateva link-uri(selectate!) legate de constructia unui RAG(cu precadere tutoriale oferite de catre dl. [Fahd-Mirza](https://www.toksta.com/influencers/fahd-mirza)... da nu numai!):
 
 - [dailyDoseOfDS: Agentic-RAG bazat pe MCP-server](https://www.dailydoseofds.com/p/mcp-powered-agentic-rag/)
-- [medium-the-model-observer: Construirea unui RAG-Agentic cu LanceDB(as VDB), Protocolul de Context Model (MCP) al Anthropic, Bedrock și Ollama(LLM server) în Google Colab(GCP)](https://medium.com/the-model-observer/building-an-agentic-rag-with-lancedb-mcp-bedrock-and-ollama-in-google-colab-8b6d4643f3f9)
+- [medium-the-model-observer: Construirea unui RAG-Agentic cu LanceDB(as VDB), Protocolul de Context Model (MCP) al Anthropic, AWS-Bedrock și Ollama(LLM server) în Google Colab(GCP)](https://medium.com/the-model-observer/building-an-agentic-rag-with-lancedb-mcp-bedrock-and-ollama-in-google-colab-8b6d4643f3f9)
 - [LNKD-pulse: LLM - RAG - Agents - MCP => what-shift-prashant-sharma-axrfc](https://www.linkedin.com/pulse/llm-rag-agents-mcp-what-shift-prashant-sharma-axrfc/)
 - [GH@Terry-Xu-666: **NodeRAG**](https://github.com/Terry-Xu-666/NodeRAG);
 
