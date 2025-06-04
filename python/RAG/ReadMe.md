@@ -29,7 +29,9 @@ RAG bazat pe grafuri îmbunătățește acest aspect, dar structura sa grafică 
 
 Aici intervine NodeRAG - prin combinarea nodurilor eterogene cu algoritmi grafici, reconstruiește reprezentarea cunoștințelor pentru a face RAG mai inteligent, mai precis și mai bine structurat.
 
- </details>
+<hr/>
+
+</details>
  
 - [medium@hassan.tbt1989: Build a RAG-powered LLM-service with Ollama(*docker*izat,LLM=llama3.2:3b-instruct-fp16 on RTX4060), openWebUI(dockerizat)-guide](https://medium.com/@hassan.tbt1989/build-a-rag-powered-llm-service-with-ollama-open-webui-a-step-by-step-guide-a688ec58ac97); [GH: open-WebUI](https://github.com/open-webui/open-webui); [GH: Ollama-docs](https://github.com/ollama/ollama/tree/main/docs) 
 - [gitConnected-levelUp: Build(in Python) an AI-local-RAG-chatbot with Ollama(OL)+DeepSeek(DS-R1)+ChromaDB+LangChain(LC) - a technical-guide](https://levelup.gitconnected.com/build-an-ai-local-rag-chatbot-with-ollama-deepseek-and-langchain-a-technical-guide-4dedf0d180eb)
