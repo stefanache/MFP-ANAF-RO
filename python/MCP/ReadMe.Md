@@ -4,6 +4,7 @@ Ca si articol pregatitor puteti citi aici despre [Vector_DB](https://medium.com/
 
 In aceasta prezentare voi face referire si uneori voi analiza(pe scurt!) diverse Articole & Proiecte legate de acest subiect(**LLMCP=LLM+MCP**):
 
+ - [becomingAhacker: integrating Agentic-RAG with MCPp-servers - technical-implementation-guide](https://becomingahacker.org/integrating-agentic-rag-with-mcp-servers-technical-implementation-guide-1aba8fd4e442)
  - [medium@mnjkshrm: MCP vs. Agents vs. RAG - understanding the new paradigms in AI-integration](https://medium.com/@mnjkshrm/mcp-vs-agents-vs-rag-understanding-the-new-paradigms-in-ai-integration-6de1a9e272b6)
  - [YT-FahdMirza: Top MCP Servers Compared ~ With Real-World Use-Cases](https://www.youtube.com/watch?v=ke_3rA03YSA&ab_channel=FahdMirza)
  - [anthropic-docs-agent&tools: **MCP**-connector](https://docs.anthropic.com/en/docs/agents-and-tools/mcp-connector)
