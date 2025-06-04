@@ -39,7 +39,7 @@ Aici intervine NodeRAG - prin combinarea nodurilor eterogene cu algoritmi grafic
 🔗 Îmbunătățirea structurii grafice pentru RAG - 
 NodeRAG introduce o structură de grafuri eterogenă care consolidează fundamentul Retrieval-Augmented Generation (RAG) bazată pe grafuri.
 
-🔍 Recuperare detaliată și explicabilă
+🔍 Recuperare detaliată și explicabilă - 
 NodeRAG utilizează HeteroGraphs pentru a permite noduri distincte funcțional, asigurând o recuperare precisă și contextuală, îmbunătățind în același timp interpretabilitatea.
 
 🧱 O recuperare unificată a informațiilor - 
