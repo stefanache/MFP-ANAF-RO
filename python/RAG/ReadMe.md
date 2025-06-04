@@ -15,13 +15,12 @@ Aici o sa plasez cateva link-uri(selectate!) legate de constructia unui RAG(cu p
  - [arxiv-PDF-2504.11544v1: NodeRAG: Structuring Graph-based RAG with Heterogeneous Nodes](https://arxiv.org/pdf/2504.11544v1)
 
 
- <img src="https://raw.githubusercontent.com/stefanache/MFP-ANAF-RO/refs/heads/main/python/RAG/0_rV_-vvlVdWLfJjxn.webp">Comparatie intre NodeRAG si alte RAG-uri</img>
+ <img src="https://raw.githubusercontent.com/stefanache/MFP-ANAF-RO/refs/heads/main/python/RAG/0_rV_-vvlVdWLfJjxn.webp">1.Comparatie intre NodeRAG si alte RAG-uri</img>
 
- <img src="https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/RAG/NodeGraph_Figure2.png" />
+ <img src="https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/RAG/NodeGraph_Figure2.png">2.NodeRAG-workflow</img>
 
- <img src="https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/RAG/performance.png" />
-
- <img src="https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/RAG/system_performance.png" />
+ <img src="https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/RAG/performance.png">3.a)Performance</img>
+ <img src="https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/RAG/system_performance.png">3.b)System-performance</img>
    
  </details>
  
