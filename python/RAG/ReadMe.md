@@ -2,7 +2,7 @@ Salut!
 
 Aici o sa plasez cateva link-uri(selectate!) legate de constructia unui RAG(cu precadere tutoriale oferite de catre dl. [Fahd-Mirza](https://www.toksta.com/influencers/fahd-mirza)... da nu numai!):
 
-- [Agentic-RAG bazat pe MCP-server](https://www.dailydoseofds.com/p/mcp-powered-agentic-rag/)
+- [dailyDoseOfDS: Agentic-RAG bazat pe MCP-server](https://www.dailydoseofds.com/p/mcp-powered-agentic-rag/)
 - [GH@Terry-Xu-666: **NodeRAG**](https://github.com/Terry-Xu-666/NodeRAG);
 
 <details>
