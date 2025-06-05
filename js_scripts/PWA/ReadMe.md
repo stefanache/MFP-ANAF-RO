@@ -17,6 +17,9 @@ Acum, putem spune că această tehnologie este aici pentru a rămâne.
 <br/>Acestea vă oferă flexibilitatea de a satisface așteptările tot mai mari ale utilizatorilor de internet. 
 <br/>Într-un mediu eCommerce modern extrem de competitiv, PWA-urile captează interesul oricărui profesionist din domeniul eCommerce orientat către client.
 
+Dezvoltatorii de aplicații-web-progresive(**PWA**) utilizează mai multe componente și tehnologii cheie pentru a construi aplicații web performante și bogate în funcții. 
+<br/>Acestea includ framework-uri precum *React*, *Svelte*, *Ionic* și *Polymer*, împreună cu instrumente precum *Lighthouse* și diverse *API*-uri-web. 
+
 
 Iata cateva link-uri utile legate de acest subiect:
 
