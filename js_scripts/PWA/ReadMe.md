@@ -47,4 +47,5 @@ Iata cateva link-uri utile legate de acest subiect:
  - [freecodecamp-news: What are **PWA**s?](https://www.freecodecamp.org/news/what-are-progressive-web-apps/)
  - [LNKDN-pulse: Progressive Web Apps(**PWA**s)](https://www.linkedin.com/pulse/progressive-web-appspwa-fitinstitutodetecnologia-hio1f/)
  - [alokai-blog-PWA: What is **PWA**? Progressive-Web-Apps(**PWA**s) in eCommerce Explained](https://alokai.com/blog/pwa)
- - [PWAbuilder-blog-posts: Building AI-enhanced Progressive-Web-Apps(**PWA**s) on Windowsas (OS-platform!)](https://blog.pwabuilder.com/posts/building-ai-enhanced-progressive-web-apps-on-windows/)
+ - [PWAbuilder-blog-posts: Building *AI*-enhanced Progressive-Web-Apps(**PWA**s) on Windowsas (OS-platform!)](https://blog.pwabuilder.com/posts/building-ai-enhanced-progressive-web-apps-on-windows/)
+ - [insiderFinance-wire: How I Designed and Built a **PWA** Using *AI* ~ A Step-by-Step Guide](https://wire.insiderfinance.io/how-i-designed-and-built-a-pwa-using-ai-a-step-by-step-guide-61b0a0c99748)
