@@ -123,7 +123,8 @@ In aceasta sectiune ne vom ocupa de [**FastAPI**](https://fastapi.tiangolo.com/)
 <a href="https://miro.medium.com/v2/resize:fit:720/format:webp/1*5JMvIcBZhlJsny7s0NHbow.png" style="a img { display:none; }; a:hover img { display:block; }"><img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*hmn9gN0uxjE7cRQQ_d7qVw.png">Deployment Pattern</img></a>
 
 </details>
- 
+
+  - [medium@rameshkannanyt0078: Generate Elegant PDFs with **FastAPI** ~ A Step-by-Step Guide](https://medium.com/@rameshkannanyt0078/generate-elegant-pdfs-with-fastapi-a-step-by-step-guide-7fa386f922bd)
   - [deadBear.io" easy **FastAPI**-setUp](https://www.deadbear.io/easy-fastapi-setup/)
   -[GH-jahoy: **FastAPI** backend demo](https://github.com/jahoy/fastapi-backend-demo)
   - [medium@upesh.jindal: SSE with **FastAPI**](https://medium.com/@upesh.jindal/server-sent-events-with-fastapi-ab9ed99ccac4)
