@@ -4,6 +4,7 @@ Ca si articol pregatitor puteti citi aici despre [Vector_DB](https://medium.com/
 
 In aceasta prezentare voi face referire si uneori voi analiza(pe scurt!) diverse Articole & Proiecte legate de acest subiect(**LLMCP=LLM+MCP**):
 
+ - [stackademic-blog: Build a Simple Local MCP Server](https://blog.stackademic.com/build-simple-local-mcp-server-5434d19572a4)
  - [medium@kbdhunga: Getting Started with Local and Remote **MCP**-Servers in LangChain(LC) ~ A Hands-On Beginner’s Guide](https://medium.com/@kbdhunga/getting-started-with-local-and-remote-mcp-servers-in-langchain-a-hands-on-beginners-guide-e0d17231025d)
  - [stackademic-blog: Adding Prompts to **MCP**-Server](https://blog.stackademic.com/adding-prompts-to-mcp-server-64d058c4e758)
  - [mediul/mychen76: Building Powerful **MCP**-SSE Tool Enable AI-Assistant](https://mychen76.medium.com/building-powerful-mcp-sse-tool-enable-ai-assistant-f94f401d2178)
