@@ -2,7 +2,7 @@ Salut,
 
 In acest comunicat/articol vom vorbi despre ... [Progressive-Web-App(**PWA**)](https://en.wikipedia.org/wiki/Progressive_web_app)
 
-Aplicațiile Web Progresive([**PWA**](https://equaltozero.ro/blog/progressive-web-application-pwa/)) sunt aplicații web care folosesc service workers, manifeste și alte funcționalități ale platformei web în combinație cu îmbunătățirea progresivă, pentru a oferi utilizatorilor o experiență comparabilă cu cea a aplicațiilor native.
+Aplicațiile Web Progresive([**PWA**](https://equaltozero.ro/blog/progressive-web-application-pwa/)) sunt aplicații web care folosesc *service-workers*, *manifeste* și *alte-funcționalități* ale platformei-web în combinație cu îmbunătățirea progresivă, pentru a oferi utilizatorilor o experiență comparabilă cu cea a aplicațiilor-native.
 
 Un Progressive-Web-App(**PWA**) este o aplicație web care oferă o experiență de utilizare similară cu o aplicație nativă, dar care se bazează pe tehnologii web. 
 <br/>O **PWA** este construită pe HTML, CSS și JavaScript și se poate instala pe dispozitive mobile și desktop, oferind acces offline și notificări push. 
