@@ -46,3 +46,4 @@ Iata cateva link-uri utile legate de acest subiect:
  - [WP-plugins: **PWA**-wordpress(WP)-plugin](https://wordpress.org/plugins/pwa/); [WP-plugins: **PWA** 4 WP](https://wordpress.org/plugins/pwa-for-wp/)
  - [freecodecamp-news: What are **PWA**s?](https://www.freecodecamp.org/news/what-are-progressive-web-apps/)
  - [LNKDN-pulse: Progressive Web Apps(**PWA**s)](https://www.linkedin.com/pulse/progressive-web-appspwa-fitinstitutodetecnologia-hio1f/)
+ - [alokai-blog-PWA: What is **PWA**? Progressive-Web-Apps(**PWA**s) in eCommerce Explained](https://alokai.com/blog/pwa)
