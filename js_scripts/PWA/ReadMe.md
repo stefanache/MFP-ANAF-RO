@@ -20,6 +20,7 @@ Iata cateva link-uri utile legate de acest subiect:
 
  - [google-developers-codelabs-PWAtrainng: Empowering your **PWA**](https://developers.google.com/codelabs/pwa-training/pwa05--empowering-your-pwa#0)
  - [**PWA**room](https://progressivewebapproom.com/)
+ - [cdc.gov-niosh-mining-tools: Install **PWA**](https://www.cdc.gov/niosh/mining/tools/installpwa.html)
  - [geeks4geeks-html: Making a simple **PWA** under 5 minutes](https://www.geeksforgeeks.org/html/making-a-simple-pwa-under-5-minutes/)
  - [PWAbuilder-docs: **PWA**Builder Suite Documentation](https://docs.pwabuilder.com/#/)
  - [web.dev: Learn **PWA**](https://web.dev/learn/pwa)
