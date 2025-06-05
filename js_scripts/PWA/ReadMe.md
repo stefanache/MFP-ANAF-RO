@@ -9,3 +9,4 @@ Un Progressive-Web-App(**PWA**) este o aplicație web care oferă o experiență
 Iata cateva link-uri utile legate de acest subiect:
 
  - [mozilla-developer-docs: Progressive web apps(**PWA**s](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)
+ - [netlogiq-ro-blog: Ce este **PWA**(progressive-web-application) si de ce ai nevoie de el?](https://www.netlogiq.ro/blog/ce-este-pwa-progressive-web-application-si-de-ce-ai-nevoie-de-el/)
