@@ -20,6 +20,7 @@ Acum, putem spune că această tehnologie este aici pentru a rămâne.
 
 Iata cateva link-uri utile legate de acest subiect:
 
+ - [mozilla-developer-docs-web-PWAs-guides: Making **PWA**s installable](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Guides/Making_PWAs_installable)
  - [google-developers-codelabs-PWAtrainng: Empowering your **PWA**](https://developers.google.com/codelabs/pwa-training/pwa05--empowering-your-pwa#0)
  - [google-developers-codelabs-PWA-in-play: Adding your **PWA** in *Google-Play*(bine-cunoscutul *marketPlace* al lui Google!:)](https://developers.google.com/codelabs/pwa-in-play#0)
  - [ionicFramework-docs-deployment-PWA: Deploying(implementarea unei...) a **PWA**](https://ionicframework.com/docs/deployment/progressive-web-app)
