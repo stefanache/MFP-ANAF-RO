@@ -36,3 +36,4 @@ Iata cateva link-uri utile legate de acest subiect:
  - [MS-support/ro: Schimbați site-ul PWA implicit](https://support.microsoft.com/ro-ro/topic/schimba%C8%9Bi-site-ul-pwa-implicit-f15cdeb4-296c-4761-b0b0-761185719656)
  - [what**PWA**cando.today](https://whatpwacando.today/)
  - [WP-plugins: **PWA**-wordpress(WP)-plugin](https://wordpress.org/plugins/pwa/); [WP-plugins: **PWA** 4 WP](https://wordpress.org/plugins/pwa-for-wp/)
+ - [freecodecamp-news: What are **PWA**s?](https://www.freecodecamp.org/news/what-are-progressive-web-apps/)
