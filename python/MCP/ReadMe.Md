@@ -4,6 +4,9 @@ Ca si articol pregatitor puteti citi aici despre [Vector_DB](https://medium.com/
 
 In aceasta prezentare voi face referire si uneori voi analiza(pe scurt!) diverse Articole & Proiecte legate de acest subiect(**LLMCP=LLM+MCP**):
 
+ - [medium@kbdhunga: Getting Started with Local and Remote **MCP**-Servers in LangChain(LC) ~ A Hands-On Beginner’s Guide](https://medium.com/@kbdhunga/getting-started-with-local-and-remote-mcp-servers-in-langchain-a-hands-on-beginners-guide-e0d17231025d)
+ - [stackademic-blog: Adding Prompts to **MCP**-Server](https://blog.stackademic.com/adding-prompts-to-mcp-server-64d058c4e758)
+ - [mediul/mychen76: Building Powerful **MCP**-SSE Tool Enable AI-Assistant](https://mychen76.medium.com/building-powerful-mcp-sse-tool-enable-ai-assistant-f94f401d2178)
  - [katonic.ai: The USB-C of AI ~ How Model Context Protocol(MCP) and Agent-to-Agent(A2A) Communication Are Changing the Game](https://www.katonic.ai/usb-of-ai-mcp-a2a-communication.html)
  - [medium@ai-exploration-journey: MCP = HTTP or USB-C for the AI World?](https://medium.com/ai-exploration-journey/mcp-http-or-usb-c-for-the-ai-world-f8323efeef76)
  - [LNKDN-pulse: Model Context Protocol (MCP): Connecting Local-LLMs to Various Data-Sources](https://www.linkedin.com/pulse/model-context-protocol-mcp-connecting-local-llms-various-bhuiyan-zkrde/)
