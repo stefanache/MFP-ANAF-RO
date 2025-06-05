@@ -125,6 +125,7 @@ In aceasta sectiune ne vom ocupa de [**FastAPI**](https://fastapi.tiangolo.com/)
 </details>
 
   - [medium@rameshkannanyt0078: Generate Elegant PDFs with **FastAPI** ~ A Step-by-Step Guide](https://medium.com/@rameshkannanyt0078/generate-elegant-pdfs-with-fastapi-a-step-by-step-guide-7fa386f922bd)
+    <br/>Transform HTML into Polished-PDF-Invoices Using **FastAPI** and *xhtml2pdf*
   - [deadBear.io" easy **FastAPI**-setUp](https://www.deadbear.io/easy-fastapi-setup/)
   -[GH-jahoy: **FastAPI** backend demo](https://github.com/jahoy/fastapi-backend-demo)
   - [medium@upesh.jindal: SSE with **FastAPI**](https://medium.com/@upesh.jindal/server-sent-events-with-fastapi-ab9ed99ccac4)
