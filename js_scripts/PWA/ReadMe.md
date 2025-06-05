@@ -19,7 +19,7 @@ Acum, putem spune că această tehnologie este aici pentru a rămâne.
 Iata cateva link-uri utile legate de acest subiect:
 
  - [google-developers-codelabs-PWAtrainng: Empowering your **PWA**](https://developers.google.com/codelabs/pwa-training/pwa05--empowering-your-pwa#0)
- - [google-developers-codelabs-pwa-in-pla: Adding your **PWA** in *Google-Play*](https://developers.google.com/codelabs/pwa-in-play#0)
+ - [google-developers-codelabs-PWA-in-pla: Adding your **PWA** in *Google-Play*](https://developers.google.com/codelabs/pwa-in-play#0)
  - [**PWA**room](https://progressivewebapproom.com/)
  - [find**PWA**](https://www.findpwa.com/)
  - [YT-**PWA**](https://www.youtube.com/playlist?list=PLlrxD0HtieHjqO1pNqScMngrV7oFro-TY)
