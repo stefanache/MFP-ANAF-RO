@@ -20,6 +20,7 @@ Iata cateva link-uri utile legate de acest subiect:
 
  - [google-developers-codelabs-PWAtrainng: Empowering your **PWA**](https://developers.google.com/codelabs/pwa-training/pwa05--empowering-your-pwa#0)
  - [**PWA**room](https://progressivewebapproom.com/)
+ - [find**PWA**](https://www.findpwa.com/)
  - [cdc.gov-niosh-mining-tools: Install **PWA**](https://www.cdc.gov/niosh/mining/tools/installpwa.html)
  - [oracle-docs-db-app-express-htmDB: Creating a Progressive Web Application(**PWA**)](https://docs.oracle.com/en/database/oracle/application-express/21.2/htmdb/crreating-a-progressive-web-application.html#GUID-0F0D45E3-DAB9-44FF-B782-FFF37C67B2EB)
  - [geeks4geeks-html: Making a simple **PWA** under 5 minutes](https://www.geeksforgeeks.org/html/making-a-simple-pwa-under-5-minutes/)
