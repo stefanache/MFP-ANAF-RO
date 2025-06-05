@@ -135,7 +135,7 @@ Pentru generarea si validarea documentelor/rapoartelor fiscale pe care le veti t
 - [NOMENCLATOR UTILAJE, ECHIPAMENTE, INSTALATII ](https://federatiaconstructorilor.ro/attachments/article/690/Nomenclator-Registru-Utilaje.pdf)
 - [UNSPSC](https://www.licitatie-publica.ro/blog/ce-sunt-codurile-unspsc-si-lista-completa)(a se vedea campul [BT-158b](https://www.anaf.ro/CompletareFactura/faces/factura/informatiigenerale.xhtml) al e-Facturii)
 - 
-- ...consultati si [ASRO](https://www.asro.ro/wp-content/uploads/2019/05/BS-04-2019-web.pdf) care se ocupa de [registre,standardizari,nomenclatoare,clasificari,codificari,seturi de date etc...](https://standard.open-contracting.org/latest/en/schema/codelists/) si care emit diverse buletine privind manipularea acestui tip de date
+- ...consultati si [ASRO](https://www.asro.ro/wp-content/uploads/2019/05/BS-04-2019-web.pdf) care se ocupa de [registre,standardizari,nomenclatoare,clasificari,codificari,seturi de date etc...](https://standard.open-contracting.org/latest/en/schema/codelists/) si care emit diverse [buletine](https://www.rubinian.com/cor_alfabetic.php?litera=C) privind manipularea acestui tip de date
 - 
 - [coduri IBAN pt conturi de cheltuieli, utilizate doar de catre institutii publice &
   coduri IBAN pt conturi de venituri sectoare speciale judetene si ale sectoarelor din Bucuresti, utilizate de catre PF si PJ](https://www.anaf.ro/anaf/internet/ANAF/asistenta_contribuabili/plata_oblig_fiscale/coduri_iban)
