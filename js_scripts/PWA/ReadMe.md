@@ -10,6 +10,7 @@ Iata cateva link-uri utile legate de acest subiect:
 
  - [geeks4geeks-html: Making a simple **PWA** under 5 minutes](https://www.geeksforgeeks.org/html/making-a-simple-pwa-under-5-minutes/)
  - [w3schools-in-PWA: Introducere in **PWA**](https://www.w3schools.in/progressive-web-application/introduction-to-progressive-web-applications-pwa)
+ - [w3schools: AppML](https://www.w3schools.com/appml/)
  - [mozilla-developer-docs: Progressive web apps(**PWA**s)](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)
  - [mozilla-developer-docs-**PWA**s: Web application Manifest](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Manifest)
  - [netlogiq-ro-blog: Ce este **PWA**(progressive-web-application) si de ce ai nevoie de aceasta?](https://www.netlogiq.ro/blog/ce-este-pwa-progressive-web-application-si-de-ce-ai-nevoie-de-el/)
