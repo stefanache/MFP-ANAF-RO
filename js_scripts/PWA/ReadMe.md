@@ -9,6 +9,7 @@ Un Progressive-Web-App(**PWA**) este o aplicație web care oferă o experiență
 Iata cateva link-uri utile legate de acest subiect:
 
  - [geeks4geeks-html: Making a simple **PWA** under 5 minutes](https://www.geeksforgeeks.org/html/making-a-simple-pwa-under-5-minutes/)
+ - [PWAbuilder-docs: **PWA**Builder Suite Documentation](https://docs.pwabuilder.com/#/)
  - [web.dev: Learn **PWA**](https://web.dev/learn/pwa)
  - [w3schools-in-PWA: Introducere in **PWA**](https://www.w3schools.in/progressive-web-application/introduction-to-progressive-web-applications-pwa)
  <br/>[w3schools: AppML](https://www.w3schools.com/appml/);
