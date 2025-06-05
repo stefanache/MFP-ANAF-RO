@@ -49,3 +49,4 @@ Iata cateva link-uri utile legate de acest subiect:
  - [alokai-blog-PWA: What is **PWA**? Progressive-Web-Apps(**PWA**s) in eCommerce Explained](https://alokai.com/blog/pwa)
  - [PWAbuilder-blog-posts: Building *AI*-enhanced Progressive-Web-Apps(**PWA**s) on Windowsas (OS-platform!)](https://blog.pwabuilder.com/posts/building-ai-enhanced-progressive-web-apps-on-windows/)
  - [insiderFinance-wire: How I Designed and Built a **PWA** Using *AI* ~ A Step-by-Step Guide](https://wire.insiderfinance.io/how-i-designed-and-built-a-pwa-using-ai-a-step-by-step-guide-61b0a0c99748)
+ - [SRO-AI-FaQ: **PWA**](https://seo.ai/faq/progressive-web-app-pwa)
