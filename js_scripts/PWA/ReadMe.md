@@ -12,3 +12,4 @@ Iata cateva link-uri utile legate de acest subiect:
  - [netlogiq-ro-blog: Ce este **PWA**(progressive-web-application) si de ce ai nevoie de el?](https://www.netlogiq.ro/blog/ce-este-pwa-progressive-web-application-si-de-ce-ai-nevoie-de-el/)
  - [webwave-ro-blog: Aplicația PWA – ce este și cum să o folosești?](https://webwave.ro/blog/aplicatie-pwa)
  - [MS-support/ro: Schimbați site-ul PWA implicit](https://support.microsoft.com/ro-ro/topic/schimba%C8%9Bi-site-ul-pwa-implicit-f15cdeb4-296c-4761-b0b0-761185719656)
+ - [/what**PWA**cando.today](https://whatpwacando.today/)
