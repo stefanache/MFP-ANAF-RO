@@ -25,6 +25,7 @@ Iata cateva link-uri utile legate de acest subiect:
  - [ionicFramework-docs-deployment-PWA: Deploying(implementarea unei...) a **PWA**](https://ionicframework.com/docs/deployment/progressive-web-app)
  - [**PWA**room](https://progressivewebapproom.com/)
  - [find**PWA**](https://www.findpwa.com/)
+ - [GH@hemanth: Awesome **PWA**s](https://github.com/hemanth/awesome-pwa)
  - [YT-**PWA**](https://www.youtube.com/playlist?list=PLlrxD0HtieHjqO1pNqScMngrV7oFro-TY)
  - [cdc.gov-niosh-mining-tools: Install **PWA**](https://www.cdc.gov/niosh/mining/tools/installpwa.html)
  - [oracle-docs-db-app-express-htmDB: Creating a Progressive Web Application(**PWA**)](https://docs.oracle.com/en/database/oracle/application-express/21.2/htmdb/crreating-a-progressive-web-application.html#GUID-0F0D45E3-DAB9-44FF-B782-FFF37C67B2EB)
