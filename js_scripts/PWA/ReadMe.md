@@ -6,6 +6,16 @@ Un Progressive-Web-App(**PWA**) este o aplicație web care oferă o experiență
 <br/>O **PWA** este construită pe HTML, CSS și JavaScript și se poate instala pe dispozitive mobile și desktop, oferind acces offline și notificări push. 
 <br/>**PWA**-urile pot fi accesate din browser-ul web, dar pot fi instalate pe ecranul de pornire al dispozitivului, ca aplicație nativă
 
+O aplicație web progresivă ([**PWA**](https://www.cloudflight.io/en/blog/pwa/)) este un standard introdus de Google, aprobat cu entuziasm de Microsoft și adoptat cu reticență de Apple. 
+<br/>A câștigat o popularitate masivă în rândul liderilor globali în tehnologiile online. 
+<br/>Companii precum Pinterest, Uber, Airbnb, Spotify, Aliexpress, OLX și Forbes, care au testat deja pe teren capacitățile tehnologiei PWA de a stimula implicarea utilizatorilor, au dovedit că este cel mai bun răspuns la provocările lumii mobile.
+
+Acum, putem spune că această tehnologie este aici pentru a rămâne. 
+<br/>În ultimii ani, PWA-urile au continuat să răspundă nevoilor pentru o experiență a utilizatorului mai rapidă, mai simplificată și mai satisfăcătoare. 
+<br/>Acestea vă oferă flexibilitatea de a satisface așteptările tot mai mari ale utilizatorilor de internet. 
+<br/>Într-un mediu eCommerce modern extrem de competitiv, PWA-urile captează interesul oricărui profesionist din domeniul eCommerce orientat către client.
+
+
 Iata cateva link-uri utile legate de acest subiect:
 
  - [geeks4geeks-html: Making a simple **PWA** under 5 minutes](https://www.geeksforgeeks.org/html/making-a-simple-pwa-under-5-minutes/)
