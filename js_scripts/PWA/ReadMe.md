@@ -54,7 +54,7 @@ Permiteți PWA-urilor să stocheze în cache resursele și să funcționeze offl
 Un model de design în care se încarcă mai întâi shell-ul principal al aplicației (interfața cu utilizatorul și structura de bază), urmat de conținut dinamic, ceea ce duce la o performanță percepută mai rapidă. 
 
 *Web App Manifest(manifestul aplicației-web)* :
-Un fișier JSON care oferă informații despre PWA, permițând browserelor să îl instaleze pe dispozitivul utilizatorului și să îi personalizeze aspectul și comportamentul. 
+Un fișier JSON care oferă informații despre **PWA**, permițând browserelor să îl instaleze pe dispozitivul utilizatorului și să îi personalizeze aspectul și comportamentul. 
 
 *Lighthouse* :
 Un instrument pentru auditarea paginilor web, oferind informații despre performanță, accesibilitate și alte aspecte ale dezvoltării **PWA**. 
