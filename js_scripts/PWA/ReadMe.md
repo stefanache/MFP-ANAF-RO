@@ -30,40 +30,33 @@ Iată o descriere a componentelor esențiale de dezvoltare **PWA**:
 1. ***Cadre(framework)***:
 
 *React* :
-
 O bibliotecă JavaScript pentru construirea de interfețe utilizator, utilizată pe scară largă pentru eficiența și scalabilitatea sa în dezvoltarea **PWA**. 
 
 *Svelte* :
-
 Un framework ușor, cunoscut pentru optimizarea și simplitatea sa în timpul compilării, ceea ce îl face o alegere excelentă pentru **PWA**-uri. 
 
 *Ionic* :
-
 Un framework hibrid de dezvoltare mobilă construit pe Angular, care facilitează crearea de **PWA**-uri cu componente bogate în interfață și acces la hardware-ul dispozitivului. 
 
 *Polymer* :
-
 Un framework axat pe construirea de componente web, permițând dezvoltatorilor să creeze elemente **PWA** reutilizabile și ușor de întreținut. 
 
 *PReact* :
-
 O alternativă ușoară la React, oferind funcționalități similare, fiind în același timp mai performantă și ideală pentru **PWA**-uri. 
 
 
 2. ***Tehnologii și API-uri***:
 
 *Lucrători în servicii(workers in services)* :
-
 Permiteți PWA-urilor să stocheze în cache resursele și să funcționeze offline, oferind o experiență utilizator fără probleme chiar și fără o conexiune la rețea. 
-Arhitectura shell-ului aplicației :
+
+*App Shell Architecture(Arhitectura shell-ului aplicației)* :
 Un model de design în care se încarcă mai întâi shell-ul principal al aplicației (interfața cu utilizatorul și structura de bază), urmat de conținut dinamic, ceea ce duce la o performanță percepută mai rapidă. 
 
 *Web App Manifest(manifestul aplicației-web)* :
-
 Un fișier JSON care oferă informații despre PWA, permițând browserelor să îl instaleze pe dispozitivul utilizatorului și să îi personalizeze aspectul și comportamentul. 
 
 *Lighthouse* :
-
 Un instrument pentru auditarea paginilor web, oferind informații despre performanță, accesibilitate și alte aspecte ale dezvoltării **PWA**. 
 
 *Push Notifications(notificări push)* :
@@ -71,34 +64,26 @@ Activează **PWA**-urile să trimită notificări utilizatorilor, chiar și atun
 
 
 *Alte API-uri web*:
-
 Inclusiv IndexedDB pentru stocare pe partea de client, API-ul Badging , API -ul Notifications , API-ul Web-Share și API -ul Window-Controls-Overlay . 
 
 *HTTP/2 și versiuni ulterioare* :
-
 Asigură conexiuni web mai rapide și mai sigure. 
 
 *HTTPS* :
-
 Asigură o comunicare securizată între **PWA** și server. 
-
 
 3. ***Alte aspecte importante***:
 
 *Performanță* :
-
 Dezvoltatorii **PWA** se concentrează pe optimizarea timpilor de încărcare și asigurarea unor interacțiuni fluide. 
 
 *Funcționalitate offline* :
-
 **PWA**-urile ar trebui să ofere o experiență fără probleme chiar și offline, oferind acces la conținutul stocat anterior în cache. 
 
 *Design responsiv* :
-
 Asigurarea adaptării **PWA** la diferite dimensiuni și orientări ale ecranului. 
 
 *Compatibilitate între browsere* :
-
 **PWA**-urile ar trebui să funcționeze perfect pe diferite browsere și sisteme de operare. 
 
 Prin valorificarea acestor componente și tehnologii, dezvoltatorii **PWA** pot crea aplicații web care oferă o experiență nativă asemănătoare unei aplicații, beneficiind în același timp de acoperirea și flexibilitatea webului. 
