@@ -21,7 +21,7 @@ Acum, putem spune că această tehnologie este aici pentru a rămâne.
 Iata cateva link-uri utile legate de acest subiect:
 
  - [google-developers-codelabs-PWAtrainng: Empowering your **PWA**](https://developers.google.com/codelabs/pwa-training/pwa05--empowering-your-pwa#0)
- - [google-developers-codelabs-PWA-in-play: Adding your **PWA** in *Google-Play*](https://developers.google.com/codelabs/pwa-in-play#0)
+ - [google-developers-codelabs-PWA-in-play: Adding your **PWA** in *Google-Play*(bine-cunoscutul *marketPlace* al lui Google!:)](https://developers.google.com/codelabs/pwa-in-play#0)
  - [ionicFramework-docs-deployment-PWA: Deploying(implementarea unei...) a **PWA**](https://ionicframework.com/docs/deployment/progressive-web-app)
  - [**PWA**room](https://progressivewebapproom.com/)
  - [find**PWA**](https://www.findpwa.com/)
