@@ -2,7 +2,7 @@ Salut,
 
 Aici vom vorbi putin despre [utilizarea](https://stefanache.github.io/MFP-ANAF-RO/js_scripts/AG_data_grid_custom/ag_grid_example.html) librariei [**AG-grid**](https://www.ag-grid.com/javascript-data-grid/getting-started/) din Javascript(pur)
 
-Exemplul aceast [**ag_grid_example.html**](https://stefanache.github.io/MFP-ANAF-RO/js_scripts/AG_data_grid_custom/ag_grid_example.html) a fost preluat din acest tutorial [AG-grid: ***Simple Example***](https://plnkr.co/edit/yqQ68TqxF5KPjwH6PXS7?preview)(multumiri **plnkr.co**!!!!)
+Exemplul aceast [**ag_grid_example.html**](https://stefanache.github.io/MFP-ANAF-RO/js_scripts/AG_data_grid_custom/ag_grid_example.html) a fost preluat din acest tutorial [AG-grid: ***Simple Example***](https://plnkr.co/edit/yqQ68TqxF5KPjwH6PXS7?preview)(multumiri [**plnkr.co**](https://www.google.com/search?q=plnkr+unpkg+ag-grid-community&sca_esv=813765718ccf2407&rlz=1C1CHBF_enRO1132RO1132&biw=1920&bih=911&sxsrf=AE3TifN-8-dl_byq9IfUaVk2hAeeupVxEw%3A1749550886624&ei=JgdIaI7tJaSJ7NYPz8f1KQ&ved=0ahUKEwiOmPT40OaNAxWkBNsEHc9jPQUQ4dUDCBA&uact=5&oq=plnkr+unpkg+ag-grid-community&gs_lp=Egxnd3Mtd2l6LXNlcnAiHXBsbmtyIHVucGtnIGFnLWdyaWQtY29tbXVuaXR5MgUQABjvBTIFEAAY7wUyBRAAGO8FMgUQABjvBTIFEAAY7wVInT5QAFjGO3AAeACQAQCYAa8BoAHmDqoBBDAuMTS4AQPIAQD4AQH4AQKYAg6gAoYPwgIEECMYJ8ICCBAAGIAEGKIEwgIFECEYoAGYAwCSBwQwLjE0oAeUKrIHBDAuMTS4B4YPwgcEMS4xM8gHFg&sclient=gws-wiz-serp)!!!!)
 
 Pentru a rula acest exemplu fie dintr-un folder fie din XAMPP sau dintr-un shared-hosting trebuie sa descarcati cele 2 fisiere
 
