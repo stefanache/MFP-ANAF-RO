@@ -35,8 +35,8 @@ Sunt cateva link-uri utile legate de acest subiect(**AG-grid**):
 - [firSemisphere@blogspot-2018-09: AG-grid example](https://firsemisphere.blogspot.com/2018/09/ag-grid.html)
 - [iDiTect@program-example: JS ag-grid skip-column on export-to-csv](https://www.iditect.com/program-example/javascript--aggrid-skip-column-on-export-to-csv.html)
 - [plnkr.co-embed-plunk: Angular example](https://embed.plnkr.co/plunk/wh6ZMS8id1lhMDeK)
-  <br/>***Remarca***: AG-grid se poate folosi in combinatie cu alte librarii(Angular,React,Vue...) sau poate fi chiar/pur-si-simplu inlocuit!
+  <br/>***Remarca***: AG-grid se poate folosi in combinatie cu alte librarii bine-cunoscute([Angular](https://embed.plnkr.co/plunk/wh6ZMS8id1lhMDeK),React,[Vue](https://www.jsdelivr.com/package/npm/@ag-grid-community/vue)...) sau poate fi chiar/pur-si-simplu inlocuit!
 - [climbTheLadder: 10 Q&A AG-grid](https://climbtheladder.com/ag-grid-interview-questions/)
-- [nuGet-packages: AG-grid Blazor](https://www.nuget.org/packages/AgGrid.Blazor) ... see examples
+- [nuGet-packages: AG-grid Blazor](https://www.nuget.org/packages/AgGrid.Blazor) ... see [examples](https://www.nuget.org/packages/AgGrid.Blazor), [public-demo](https://blog.bkkr.us/blazor-ag-grid/), [Blazor-WASM](https://blog.bkkr.us/blazor-ag-grid), [Blazor-wrapped](https://github.com/ag-grid/ag-grid), ...
 - [...](https://www.google.com/search?q=plnkr+unpkg+ag-grid-community&sca_esv=813765718ccf2407&rlz=1C1CHBF_enRO1132RO1132&biw=1920&bih=911&sxsrf=AE3TifN-8-dl_byq9IfUaVk2hAeeupVxEw%3A1749550886624&ei=JgdIaI7tJaSJ7NYPz8f1KQ&ved=0ahUKEwiOmPT40OaNAxWkBNsEHc9jPQUQ4dUDCBA&uact=5&oq=plnkr+unpkg+ag-grid-community&gs_lp=Egxnd3Mtd2l6LXNlcnAiHXBsbmtyIHVucGtnIGFnLWdyaWQtY29tbXVuaXR5MgUQABjvBTIFEAAY7wUyBRAAGO8FMgUQABjvBTIFEAAY7wVInT5QAFjGO3AAeACQAQCYAa8BoAHmDqoBBDAuMTS4AQPIAQD4AQH4AQKYAg6gAoYPwgIEECMYJ8ICCBAAGIAEGKIEwgIFECEYoAGYAwCSBwQwLjE0oAeUKrIHBDAuMTS4B4YPwgcEMS4xM8gHFg&sclient=gws-wiz-serp)
 
