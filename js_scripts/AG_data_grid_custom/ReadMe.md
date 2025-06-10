@@ -16,7 +16,7 @@ Dupa cum vedeti, acest exemplu [**ag_grid_example.html**](https://stefanache.git
 **Nota**: 
 
  - De mentionat este faptul ca atunci cand doriti sa utilizati libraria din JS-pur(direct din browser!!!) va trebui sa utilizati link-urile care au ca si CDN bine-cunoscutul [UNPKG](https://unpkg.com/) sau sa descarcati local librariile pe care le utilizati.
-<br/>Oricum acest subiect merita [aprofundat](https://www.google.com/search?q=ag-grid+unpkg&rlz=1C1CHBF_enRO1132RO1132&oq=ag-grid+unpkg&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRhAMggIAhAAGBYYHjIICAMQABgWGB4yCggEEAAYgAQYogQyBwgFEAAY7wUyCggGEAAYgAQYogQyBggHEEUYPNIBCTg1NTZqMGoxNagCCLACAfEF9qoap44L5Eo&sourceid=chrome&ie=UTF-8) in detaliu...!
+<br/>Oricum acest subiect merita [aprofundat](https://www.google.com/search?q=ag-grid+unpkg&rlz=1C1CHBF_enRO1132RO1132&oq=ag-grid+unpkg&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRhAMggIAhAAGBYYHjIICAMQABgWGB4yCggEEAAYgAQYogQyBwgFEAAY7wUyCggGEAAYgAQYogQyBggHEEUYPNIBCTg1NTZqMGoxNagCCLACAfEF9qoap44L5Eo&sourceid=chrome&ie=UTF-8) in [detaliu](https://www.google.com/search?q=unpkg+ag-grid-community%2Fdist%2Fag-grid-community.min.js&rlz=1C1CHBF_enRO1132RO1132&oq=unpkg+ag-grid-community%2Fdist%2Fag-grid-community.min.js&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABjvBTIKCAIQABiABBiiBDIHCAMQABjvBTIHCAQQABjvBdIBCTY5MDhqMGoxNagCCLACAfEFWJIPOWNtYdzxBViSDzljbWHc&sourceid=chrome&ie=UTF-8)...!
 
 - Bineinteles ca biblioteca poate fi folosita in conjunctie cu PhP,Python,NodeJS...!
 
