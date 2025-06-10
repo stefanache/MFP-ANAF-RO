@@ -27,5 +27,5 @@ Sunt cateva link-uri utile legate de acest subiect(**AG-grid**):
 - [AG-grid Showcase](https://blog.ag-grid.com/showcase/)
 - [AG-grid@js-data-grid: server-side model](https://www.ag-grid.com/javascript-data-grid/server-side-model/)
 - [AG-grid: Simple Example](https://plnkr.co/edit/yqQ68TqxF5KPjwH6PXS7?preview)
-- [GH@ag-grid: JS Data-Grid](https://github.com/ag-grid/javascript-data-grid) (a se vedea cum se folosesc stiurile-UNPKG!!!)
+- [GH@ag-grid: JS Data-Grid](https://github.com/ag-grid/javascript-data-grid) (a se vedea cum se folosesc [stilurile cu UNPKG](https://www.google.com/search?sca_esv=813765718ccf2407&rlz=1C1CHBF_enRO1132RO1132&sxsrf=AE3TifMz05_Omxf3LZXCJPHwVazA1RNCAQ:1749549651641&q=unpkg+ag-grid-community/dist/ag-grid-community.min.js&udm=2&fbs=AIIjpHxX5k-tONtMCu8aDeA7E5WMgPpqESqQJ8D8h14C0qlfgYiXp5Upp642AwoN0y0DsUelfswrc8HsWAkbr59S7oGq2DFzpOi2W3YRR9VW_VuqVHzX3wgnVtSmlkc6hly8y-g3rC5FpG3ypRDv72_YGwR1TG1S_L4ZIFNMsp2d5_s98rcuf_uK7PpbYZO6i62sevDEa6J1t-pLb2A9ODOX2HEyZ16ieA&sa=X&ved=2ahUKEwi_5IKszOaNAxVUSvEDHbLfGMIQtKgLegQIEhAB&biw=1920&bih=911&dpr=1)!!!)
 
