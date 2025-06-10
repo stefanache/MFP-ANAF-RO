@@ -14,8 +14,7 @@ si apoi sa-l chemati in browser sau pur si simplu clickati pe primul fisier([**a
 Dupa cum vedeti, acest exemplu [**ag_grid_example.html**](https://stefanache.github.io/MFP-ANAF-RO/js_scripts/AG_data_grid_custom/ag_grid_example.html)  ruleaza chiar si aici(gazduit de/PE **Github**... ca si continut STATIC!) ... daca datele sunt incarcate in codul-js (hard-codate!)
 
 **Remarca**: De mentionat este faptul ca atunci cand doriti sa utilizati libraria din JS-pur(direct din browser!!!) va trebui sa utilizati link-urile care au ca si CDN bine-cunoscutul [UNPKG](https://unpkg.com/) sau sa descarcati local librariile pe care le utilizati.
-
-Oricum acest subiect merita aprofundat in detaliu...!
+<br/>Oricum acest subiect merita [aprofundat](https://www.google.com/search?q=ag-grid+unpkg&rlz=1C1CHBF_enRO1132RO1132&oq=ag-grid+unpkg&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRhAMggIAhAAGBYYHjIICAMQABgWGB4yCggEEAAYgAQYogQyBwgFEAAY7wUyCggGEAAYgAQYogQyBggHEEUYPNIBCTg1NTZqMGoxNagCCLACAfEF9qoap44L5Eo&sourceid=chrome&ie=UTF-8) in detaliu...!
 
 
 Sunt cateva link-uri utile legate de acest subiect(**AG-grid**):
