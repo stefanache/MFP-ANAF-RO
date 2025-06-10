@@ -11,7 +11,7 @@ Pentru a rula acest exemplu fie dintr-un folder fie din XAMPP sau dintr-un share
 
 si apoi sa-l chemati in browser sau pur si simplu clickati pe primul fisier([**ag_grid_example.html**](https://github.com/stefanache/MFP-ANAF-RO/blob/main/js_scripts/AG_data_grid_custom/ag_grid_example.html)).
 
-Dupa cum vedeti, acest exemplu [**ag_grid_example.html**](https://stefanache.github.io/MFP-ANAF-RO/js_scripts/AG_data_grid_custom/ag_grid_example.html)  ruleaza chiar si aici(gazduit de/PE **Github**... ca si continut STATIC!) ... daca datele sunt incarcate in codul-js (hard-codate!)
+Dupa cum vedeti, acest exemplu [**ag_grid_example.html**](https://stefanache.github.io/MFP-ANAF-RO/js_scripts/AG_data_grid_custom/ag_grid_example.html)  ruleaza chiar si aici(gazduit de/pe **Github**... ca si continut STATIC!) ... daca datele sunt incarcate in codul-js (hard-codate!)
 
 **Nota**: 
 
@@ -30,4 +30,5 @@ Sunt cateva link-uri utile legate de acest subiect(**AG-grid**):
 - [AG-grid@js-data-grid: server-side model](https://www.ag-grid.com/javascript-data-grid/server-side-model/)
 - [AG-grid: Simple Example](https://plnkr.co/edit/yqQ68TqxF5KPjwH6PXS7?preview)
 - [GH@ag-grid: JS Data-Grid](https://github.com/ag-grid/javascript-data-grid) (a se vedea cum se folosesc [stilurile cu UNPKG](https://www.google.com/search?sca_esv=813765718ccf2407&rlz=1C1CHBF_enRO1132RO1132&sxsrf=AE3TifMz05_Omxf3LZXCJPHwVazA1RNCAQ:1749549651641&q=unpkg+ag-grid-community/dist/ag-grid-community.min.js&udm=2&fbs=AIIjpHxX5k-tONtMCu8aDeA7E5WMgPpqESqQJ8D8h14C0qlfgYiXp5Upp642AwoN0y0DsUelfswrc8HsWAkbr59S7oGq2DFzpOi2W3YRR9VW_VuqVHzX3wgnVtSmlkc6hly8y-g3rC5FpG3ypRDv72_YGwR1TG1S_L4ZIFNMsp2d5_s98rcuf_uK7PpbYZO6i62sevDEa6J1t-pLb2A9ODOX2HEyZ16ieA&sa=X&ved=2ahUKEwi_5IKszOaNAxVUSvEDHbLfGMIQtKgLegQIEhAB&biw=1920&bih=911&dpr=1)!!!)
+- [...](https://www.google.com/search?q=plnkr+unpkg+ag-grid-community&sca_esv=813765718ccf2407&rlz=1C1CHBF_enRO1132RO1132&biw=1920&bih=911&sxsrf=AE3TifN-8-dl_byq9IfUaVk2hAeeupVxEw%3A1749550886624&ei=JgdIaI7tJaSJ7NYPz8f1KQ&ved=0ahUKEwiOmPT40OaNAxWkBNsEHc9jPQUQ4dUDCBA&uact=5&oq=plnkr+unpkg+ag-grid-community&gs_lp=Egxnd3Mtd2l6LXNlcnAiHXBsbmtyIHVucGtnIGFnLWdyaWQtY29tbXVuaXR5MgUQABjvBTIFEAAY7wUyBRAAGO8FMgUQABjvBTIFEAAY7wVInT5QAFjGO3AAeACQAQCYAa8BoAHmDqoBBDAuMTS4AQPIAQD4AQH4AQKYAg6gAoYPwgIEECMYJ8ICCBAAGIAEGKIEwgIFECEYoAGYAwCSBwQwLjE0oAeUKrIHBDAuMTS4B4YPwgcEMS4xM8gHFg&sclient=gws-wiz-serp)
 
