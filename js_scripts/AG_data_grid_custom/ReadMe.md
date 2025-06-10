@@ -8,5 +8,6 @@ Sunte cateva link-uri utile legate de acest subiect:
 
 - [AG-grid Demo](https://www.ag-grid.com/example/)
 - [GH@ag-grid: AG-grid](https://github.com/ag-grid/ag-grid?tab=readme-ov-file)
+- [AG-grid Showcase](https://blog.ag-grid.com/showcase/)
 
 
