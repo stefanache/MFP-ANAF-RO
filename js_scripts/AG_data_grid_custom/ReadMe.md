@@ -9,7 +9,7 @@ Pentru a rula acest exemplu, fie dintr-un folder fie din XAMPP(Apache webserver.
  - [**ag_grid_example.html**](https://github.com/stefanache/MFP-ANAF-RO/blob/main/js_scripts/AG_data_grid_custom/ag_grid_example.html)
  - [*example-js.js*](https://github.com/stefanache/MFP-ANAF-RO/blob/main/js_scripts/AG_data_grid_custom/example-js.js)
 
-si apoi sa-l *chemati* in browser sau pur si simplu *click*-ati pe primul fisier/cel principal([**ag_grid_example.html**](https://github.com/stefanache/MFP-ANAF-RO/blob/main/js_scripts/AG_data_grid_custom/ag_grid_example.html)).
+si apoi sa-l *chemati* in browser(daca l-ati instalat sub webserver) sau/ori pur si simplu *click*-ati pe primul fisier/cel principal([**ag_grid_example.html**](https://github.com/stefanache/MFP-ANAF-RO/blob/main/js_scripts/AG_data_grid_custom/ag_grid_example.html))...in cazul in care doriti sa-l rulati local(fara a avea propriul webserver!).
 
 Dupa cum vedeti, acest exemplu [**ag_grid_example.html**](https://stefanache.github.io/MFP-ANAF-RO/js_scripts/AG_data_grid_custom/ag_grid_example.html)  ruleaza chiar si aici(gazduit de/pe **Github**... ca si continut STATIC!) ... daca datele sunt incarcate in codul-js (hard-codate!)
 
