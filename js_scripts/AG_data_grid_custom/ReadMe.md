@@ -33,5 +33,6 @@ Sunt cateva link-uri utile legate de acest subiect(**AG-grid**):
 - [freeCodeCamp-news: Convert html-table to dynamic-JS-data-grid](https://www.freecodecamp.org/news/convert-html-table-to-dynamic-javascript-data-grid/)
 - [dev.to@kirkovg: Writing a complex ag-grid popup-cell-editor](https://dev.to/kirkovg/writing-a-complex-ag-grid-popup-cell-editor-50i)
 - [firSemisphere@blogspot-2018-09: AG-grid example](https://firsemisphere.blogspot.com/2018/09/ag-grid.html)
+- [iDiTect@program-example: JS ag-grid skip-column on export-to-csv](https://www.iditect.com/program-example/javascript--aggrid-skip-column-on-export-to-csv.html)
 - [...](https://www.google.com/search?q=plnkr+unpkg+ag-grid-community&sca_esv=813765718ccf2407&rlz=1C1CHBF_enRO1132RO1132&biw=1920&bih=911&sxsrf=AE3TifN-8-dl_byq9IfUaVk2hAeeupVxEw%3A1749550886624&ei=JgdIaI7tJaSJ7NYPz8f1KQ&ved=0ahUKEwiOmPT40OaNAxWkBNsEHc9jPQUQ4dUDCBA&uact=5&oq=plnkr+unpkg+ag-grid-community&gs_lp=Egxnd3Mtd2l6LXNlcnAiHXBsbmtyIHVucGtnIGFnLWdyaWQtY29tbXVuaXR5MgUQABjvBTIFEAAY7wUyBRAAGO8FMgUQABjvBTIFEAAY7wVInT5QAFjGO3AAeACQAQCYAa8BoAHmDqoBBDAuMTS4AQPIAQD4AQH4AQKYAg6gAoYPwgIEECMYJ8ICCBAAGIAEGKIEwgIFECEYoAGYAwCSBwQwLjE0oAeUKrIHBDAuMTS4B4YPwgcEMS4xM8gHFg&sclient=gws-wiz-serp)
 
