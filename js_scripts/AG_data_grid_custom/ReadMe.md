@@ -10,5 +10,5 @@ Sunte cateva link-uri utile legate de acest subiect:
 - [GH@ag-grid: AG-grid](https://github.com/ag-grid/ag-grid?tab=readme-ov-file)
 - [AG-grid Showcase](https://blog.ag-grid.com/showcase/)
 - [AG-grid@js-data-grid: server-side model](https://www.ag-grid.com/javascript-data-grid/server-side-model/)
-
+- [AG-grid: Simple Example](https://plnkr.co/edit/yqQ68TqxF5KPjwH6PXS7?preview)
 
