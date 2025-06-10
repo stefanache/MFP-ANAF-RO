@@ -13,7 +13,7 @@ si apoi sa-l *chemati* in browser(daca l-ati instalat sub webserver) sau/ori pur
 
 Dupa cum vedeti, acest exemplu [**ag_grid_example.html**](https://stefanache.github.io/MFP-ANAF-RO/js_scripts/AG_data_grid_custom/ag_grid_example.html)  ruleaza chiar si aici(gazduit de/pe **Github**... ca si continut STATIC!) ... daca datele sunt incarcate in codul-js (hard-codate!)
 
-**Nota**: 
+[**Nota**](https://feathericons.com/): 
 
  - De mentionat este faptul ca atunci cand doriti sa utilizati libraria din JS-pur(direct din browser!!!) va trebui sa utilizati link-urile care au ca si CDN bine-cunoscutul [UNPKG](https://unpkg.com/) sau/ori sa descarcati local librariile pe care le utilizati.
 <br/>Oricum acest subiect merita [aprofundat](https://www.google.com/search?q=ag-grid+unpkg&rlz=1C1CHBF_enRO1132RO1132&oq=ag-grid+unpkg&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRhAMggIAhAAGBYYHjIICAMQABgWGB4yCggEEAAYgAQYogQyBwgFEAAY7wUyCggGEAAYgAQYogQyBggHEEUYPNIBCTg1NTZqMGoxNagCCLACAfEF9qoap44L5Eo&sourceid=chrome&ie=UTF-8) in [detaliu](https://www.google.com/search?q=unpkg+ag-grid-community%2Fdist%2Fag-grid-community.min.js&rlz=1C1CHBF_enRO1132RO1132&oq=unpkg+ag-grid-community%2Fdist%2Fag-grid-community.min.js&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABjvBTIKCAIQABiABBiiBDIHCAMQABjvBTIHCAQQABjvBdIBCTY5MDhqMGoxNagCCLACAfEFWJIPOWNtYdzxBViSDzljbWHc&sourceid=chrome&ie=UTF-8)...!
