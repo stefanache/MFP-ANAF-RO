@@ -7,6 +7,6 @@ Exemplul aceast [**ag_grid_example.html**](https://stefanache.github.io/MFP-ANAF
 Sunte cateva link-uri utile legate de acest subiect:
 
 - [AG-grid Demo](https://www.ag-grid.com/example/)
-- []GH@ag-grid: AG-grid(https://github.com/ag-grid/ag-grid?tab=readme-ov-file)
+- [GH@ag-grid: AG-grid](https://github.com/ag-grid/ag-grid?tab=readme-ov-file)
 
 
