@@ -20,7 +20,7 @@ Dupa cum vedeti, acest exemplu [**ag_grid_example.html**](https://stefanache.git
 
 - Bineinteles ca biblioteca poate fi folosita in conjunctie cu PhP,Python,NodeJS...!
 
-- Trebuie sa mai amintesc si faptul  ca ***doar*** varianta/distributia(***dist***) **ag-grid-community** este ***gratuita***(desigur ca anumite *limitari* inevitabile!)
+- Trebuie sa mai amintesc si faptul  ca ***doar*** varianta/distributia(***dist***) [**ag-grid-community**](https://app.unpkg.com/ag-grid-community@27.0.0/files/README.md) este ***gratuita***(desigur ca anumite *limitari* inevitabile!)
 
 Sunt cateva link-uri utile legate de acest subiect(**AG-grid**):
 
