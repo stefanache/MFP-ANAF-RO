@@ -11,6 +11,7 @@ Pentru a rula acest exemplu fie dintr-un folder fie din XAMPP sau dintr-un share
 
 si apoi sa-l chemati in browser sau pur si simplu clickati pe primul fisier([**ag_grid_example.html**](https://github.com/stefanache/MFP-ANAF-RO/blob/main/js_scripts/AG_data_grid_custom/ag_grid_example.html)).
 
+Dupa cum vedeti, acest exemplu [**ag_grid_example.html**](https://stefanache.github.io/MFP-ANAF-RO/js_scripts/AG_data_grid_custom/ag_grid_example.html)  ruleaza chiar si aici(gazduit de/PE **Github**... ca si continut STATIC!) ... daca datele sunt incarcate in codul-js (hard-codate!)
 
 Sunt cateva link-uri utile legate de acest subiect(**AG-grid**):
 
