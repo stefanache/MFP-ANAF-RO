@@ -54,3 +54,4 @@ Asadar ***TD*** introduce invatarea bazata pe [atentia](https://www.3blue1brown.
 <br/>Gradul de scădere este controlat de un parametru numit Lambda - cu cât Lambda este mai mare, cu atât este mai mare magnitudinea diferenței. 
 <br/>Acest proces permite modelului să se concentreze nu doar pe ***importanța*** elementelor, ci și pe [***diferențele***](https://medium.com/analytics-vidhya/solving-differential-equations-with-transformers-21648d3a1695) și ***dependențele*** acestora, ceea ce duce la o mai bună *înțelegere(NLU) contextuală*.
 
+Un alt proiect interesant este si [***K-Transformers***](https://www.youtube.com/watch?v=k9FGiK5Fu0M&ab_channel=FahdMirza)
