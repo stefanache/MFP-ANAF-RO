@@ -2,7 +2,7 @@ Salut
 
 In aceasta sectiune voi poata cateva lucruri despre automatizatorul de AI~task-uri [**n8n**](https://n8n.io/?ps_partner_key=ZWFiZDIyYjkwZTFl&ps_xid=gqAcG3dsMnmZnm&gsxid=gqAcG3dsMnmZnm&gspk=ZWFiZDIyYjkwZTFl&gad_source=1).
 
-**n8n** este un cadrude lucru/framework/instrument *no-code*(fara a fi necesara scrierea de cod) de automatizare a fluxurilor de lucru open-source, conceput pentru a facilita integrarea diferitelor aplicații și servicii.
+**n8n** este un cadru-de-lucru/framework/instrument *no-code*(fara a fi necesara scrierea de cod) de automatizare a fluxurilor de lucru open-source, conceput pentru a facilita integrarea diferitelor aplicații și servicii.
 
 **n8n** acceptă nenumarate de integrari cu diferite aplicații, inclusiv servicii populare precum Gmail, Slack și Trello. 
 <br/>Această bibliotecă extinsă permite utilizatorilor să conecteze sisteme diferite, automatizând procesele care altfel ar necesita intervenție manuală. 
