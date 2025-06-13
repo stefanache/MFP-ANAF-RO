@@ -21,7 +21,7 @@ Interfața vizuală prietenoasa a **n8n** simplifică procesul de creare a fluxu
  - Automatizarea sarcinilor repetitive
  - ...
 
-O serie intreaga de Fluxuri-de-lucru *Agentice*(presupune decizie si actiune) bazate pe inteligență-artificială(AI) va permite sa :
+O serie intreaga de Fluxuri-de-lucru *Agentice*(presupune decizie si actiune) bazate pe inteligență-artificială(AI) va permit sa :
 
  - Adaptați dinamic fluxul de lucru în funcție de context și obiective
  - Gestionați atât date structurate, cât și nestructurate
