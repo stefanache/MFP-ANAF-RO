@@ -33,7 +33,7 @@ Iata si cateva link-uri interesante legate de gestionaraul-fluxului de lucru(wor
  - [sider-AI-create-video-AIvideoShortener-explore: Automate Tasks with Pre-Built AI Agents | **n8n** Tutorial 🔥](https://sider.ai/ro/create/video/ai-video-shortener/explore/3ac982a1-a2f3-45fc-9e97-5b40b023b2fa)
  - [YT@ColeMedin: I Built the ULTIMATE/Any n8n RAG AI Agent Template](https://www.youtube.com/watch?v=mQt1hOjBH9o&ab_channel=ColeMedin)
 <details>
- <summary>...mai multe detaill despre filmuletul..."I Built the ULTIMATE n8n RAG AI Agent Template"... </summary>
+ <summary>...puteti citi aici cateva lucruri despre acest filmulet: "I Built the ULTIMATE n8n RAG AI Agent Template"... </summary>
 <br/>
 <hr/>
 <pre>
