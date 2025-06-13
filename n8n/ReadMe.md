@@ -52,7 +52,7 @@ Cu toate acestea, vine cu o parte considerabilă a deficiențelor sale, deoarece
 <i>Cum rezolvi toate aceste limitări?</i> 
 
 Răspunsul este cu ***Agentic-RAG*** și îți arăt exact cum să implementezi acest lucru cu <b>n8n</b> în acest videoclip, 
-cu un șablon pe care îl poți descărca și utiliza chiar acum (linkul de mai jos). 
+cu un șablon pe care îl poți descărca și utiliza chiar acum ([linkul](https://github.com/coleam00/ottomator-agents/tree/main/n8n-agentic-rag-agent) de mai jos). 
 
 ***Agentic-RAG*** oferă agenților AI posibilitatea ...:
  - ... de a raționa mai mult despre modul în care explorează baza de cunoștințe,
