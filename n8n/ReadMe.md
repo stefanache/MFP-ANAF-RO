@@ -19,6 +19,7 @@ Interfața vizuală prietenoasa a **n8n** simplifică procesul de creare a fluxu
  - Transformarea datelor([ETL](https://ai-romania.ro/n8n-automatizari-la-indemana-tuturor/)) și integrarea fluxurilor de lucru
  - Monitorizare și notificări
  - Automatizarea sarcinilor repetitive
+ - ...
    
 <br/>Cu caracteristicile sale ample, integrarea cu numeroase aplicații și comunitatea sa activă, **n8n** este o opțiune excelentă pentru organizații de toate dimensiunile care doresc să adopte automatizarea proceselor digitale.
 
@@ -88,4 +89,5 @@ instrumente (cum ar fi Figma, Gmail, Slack ...vDB-urilor gen *Qdrant*, crawler-u
  - [LNKDN-pulse@SiruLin: Unlocking Agentic AI ~ How Model Context Protocols (MCPs) make Multi-Tool LLM Agents Scalable (Plus a No-Code **n8n** Tutorial)](https://www.linkedin.com/pulse/unlocking-agentic-ai-how-model-context-protocols-mcps-siru-lin-nvkgc/)
  - [medium/@mustaphaliaichi: Building Agentic-RAG Systems: **n8n** vs Pydantic-AI](https://medium.com/@mustaphaliaichi/building-agentic-rag-systems-n8n-vs-pydantic-ai-b9088b496c84)
  - [medium@towardsDev: “Mastering Agentic -AG in **n8n** ~ Build RAG Chatbot That Plans, Thinks, and Answers”](https://towardsdev.com/mastering-agentic-rag-in-n8n-build-rag-chatbot-that-plans-thinks-and-answers-f17edfc0411e)
+ - [n8n-blog-AI agentic workflows: A practical guide for **n8n** automation](https://blog.n8n.io/ai-agentic-workflows/)
  - [...](https://www.google.com/search?q=n8n&sca_esv=57b167c83bb1e9fa&rlz=1C1CHBF_enRO1132RO1132&sxsrf=AE3TifO2r1Lqg1kNj62xrL-cqOuQw-Kmjw:1749819884261&tbas=0&source=lnt&sa=X&ved=2ahUKEwj-gP2Eu-6NAxXpSvEDHci7JKA4PBCnBXoECAQQBg&biw=1920&bih=911&dpr=1)
