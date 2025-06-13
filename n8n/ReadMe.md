@@ -70,10 +70,7 @@ Acest lucru(***Agentic-RAG***) îți oferă:
  - Informații conectate asupra tuturor informațiilor dvs.
  - Comutare dinamică între căutare și analiză
 
-*Note:*
-
-Mai puteti citi si  [dailyDoseOfDS-blog: MCP-powered Agentic RAG](https://blog.dailydoseofds.com/p/mcp-powered-agentic-rag)!
- 
+*Nota:* mai puteti citi si ... [dailyDoseOfDS-blog: MCP-powered Agentic RAG](https://blog.dailydoseofds.com/p/mcp-powered-agentic-rag)! 
 </pre>
 <hr/>
 </details>
