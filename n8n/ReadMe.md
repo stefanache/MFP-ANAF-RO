@@ -71,7 +71,7 @@ Acest lucru(***Agentic-RAG***) îți oferă:
  - Comutare dinamică între căutare și analiză
 
 *Nota:* mai puteti citi si ... [dailyDoseOfDS-blog: MCP-powered Agentic RAG](https://blog.dailydoseofds.com/p/mcp-powered-agentic-rag)!
-Un ***RAG-Agentic/Agentic-RAG*** bazat pe **MCP**(client=*Cursor*, server=**) care caută într-o bază de date vectorială(*Qdrant*) și 
+Un ***RAG-Agentic/Agentic-RAG***(pythonic) bazat pe **MCP**(client=*Cursor*, server=*FastMCP*) care caută într-o bază de date vectorială(*Qdrant*) și 
 apelează la căutarea pe web(*Bright-Data* pentru a extrage informații web la scară largă), dacă este necesar.
 
 </pre>
