@@ -49,7 +49,8 @@ Cu toate acestea, vine cu o parte considerabilă a deficiențelor sale, deoarece
  - Dificultăți în conectarea informațiilor între documente și secțiuni
  - Nu se poate comuta dinamic între căutarea documentelor și analiza datelor
 
-Cum rezolvi toate aceste limitări? 
+<i>Cum rezolvi toate aceste limitări?</i> 
+
 Răspunsul este cu ***Agentic-RAG*** și îți arăt exact cum să implementezi acest lucru cu <b>n8n</b> în acest videoclip, 
 cu un șablon pe care îl poți descărca și utiliza chiar acum (linkul de mai jos). 
 
