@@ -38,8 +38,11 @@ Iata si cateva link-uri interesante legate de gestionaraul-fluxului de lucru(wor
 <hr/>
 <pre>
 
-***RAG*** (Retrieval Augmented Generation - Generare Augmentată/Intarita de Recuperare) este cel mai popular instrument care oferă agenților de inteligență artificială(AI) acces la baza de cunoștințe, astfel încât poate fi un expert în domeniu pentru documentele dumneavoastră. 
-De asemenea, este foarte ușor de implementat în instrumente fără cod, cum ar fi <b>n8n</b>, deoarece este atât de larg adoptat și suportat. 
+***RAG*** (Retrieval Augmented Generation - Generare Augmentată/Intarita de Recuperare) este cel mai popular instrument care oferă 
+agenților de inteligență artificială(AI) acces la baza de cunoștințe, astfel încât poate fi un expert în domeniu pentru 
+documentele dumneavoastră. 
+De asemenea, este foarte ușor de implementat în instrumente fără cod, cum ar fi <b>n8n</b>, deoarece este atât de larg 
+adoptat și suportat. 
 Cu toate acestea, vine cu o parte considerabilă a deficiențelor sale, deoarece ***RAG***:
 
  - Nu pot analiza bine tabelele - nu am capacitatea de a calcula medii, sume sau tendințe
@@ -48,7 +51,8 @@ Cu toate acestea, vine cu o parte considerabilă a deficiențelor sale, deoarece
  - Nu se poate comuta dinamic între căutarea documentelor și analiza datelor
 
 Cum rezolvi toate aceste limitări? 
-Răspunsul este cu ***Agentic-RAG*** și îți arăt exact cum să implementezi acest lucru cu <b>n8n</b> în acest videoclip, cu un șablon pe care îl poți descărca și utiliza chiar acum (linkul de mai jos). 
+Răspunsul este cu ***Agentic-RAG*** și îți arăt exact cum să implementezi acest lucru cu <b>n8n</b> în acest videoclip, 
+cu un șablon pe care îl poți descărca și utiliza chiar acum (linkul de mai jos). 
 
 ***Agentic-RAG*** oferă agenților AI posibilitatea ...:
 
