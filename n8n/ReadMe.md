@@ -44,7 +44,6 @@ documentele dumneavoastră.
 De asemenea, este foarte ușor de implementat în instrumente fără cod, cum ar fi <b>n8n</b>, deoarece este atât de larg 
 adoptat și suportat. 
 Cu toate acestea, vine cu o parte considerabilă a deficiențelor sale, deoarece ***RAG***:
-
  - Nu pot analiza bine tabelele - nu am capacitatea de a calcula medii, sume sau tendințe
  - Ratează „imaginea de ansamblu” deoarece documentele sunt împărțite în bucăți mai mici
  - Dificultăți în conectarea informațiilor între documente și secțiuni
@@ -55,7 +54,6 @@ Răspunsul este cu ***Agentic-RAG*** și îți arăt exact cum să implementezi 
 cu un șablon pe care îl poți descărca și utiliza chiar acum (linkul de mai jos). 
 
 ***Agentic-RAG*** oferă agenților AI posibilitatea ...:
-
  - ... de a raționa mai mult despre modul în care explorează baza de cunoștințe,
  - ... de a-și îmbunătăți singuri căutările ***RAG*** și
  - ... de a alege între diferite instrumente pe baza întrebării utilizatorului.
