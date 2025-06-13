@@ -104,4 +104,5 @@ instrumente (cum ar fi Figma, Gmail, Slack ...vDB-urilor gen *Qdrant*, crawler-u
  - [medium@towardsDev: “Mastering Agentic -AG in **n8n** ~ Build RAG Chatbot That Plans, Thinks, and Answers”](https://towardsdev.com/mastering-agentic-rag-in-n8n-build-rag-chatbot-that-plans-thinks-and-answers-f17edfc0411e)
  - [n8n-blog-AI agentic workflows: A practical guide for **n8n** automation](https://blog.n8n.io/ai-agentic-workflows/)
  - [YT@NateHerk: Store All Data-Types with Agentic-RAG in **n8n**](https://www.youtube.com/watch?v=BhGaGFH0jR4&ab_channel=NateHerk%7CAIAutomation)
+ - [reddit-n8n-comments: Master RAG Architectures in **n8n**](https://www.reddit.com/r/n8n/comments/1jvuqoa/master_rag_architectures_in_n8n/)
  - [...](https://www.google.com/search?q=n8n&sca_esv=57b167c83bb1e9fa&rlz=1C1CHBF_enRO1132RO1132&sxsrf=AE3TifO2r1Lqg1kNj62xrL-cqOuQw-Kmjw:1749819884261&tbas=0&source=lnt&sa=X&ved=2ahUKEwj-gP2Eu-6NAxXpSvEDHci7JKA4PBCnBXoECAQQBg&biw=1920&bih=911&dpr=1)
