@@ -32,7 +32,7 @@ O serie intreaga de Fluxuri-de-lucru *Agentice*(presupune decizie si actiune) ba
  
  - ... Poate învăța și se poate perfecționa în timp
 
-Framework-ul **n8n** poate ajuta la crearea/construirea unor astfel de *Agenti-AI*(fie ei bazati si pe RAG,MCP... dar nu numai) daca nu vreti sa scrieti cod!
+Framework-ul **n8n** poate ajuta la crearea/construirea unor astfel de *Agenti-AI*(fie ei bazati si pe RAG,MCP... dar nu numai), mai ales  daca nu vreti sa scrieti nici-o linie de cod!
 
 <br/>Cu caracteristicile sale ample, integrarea cu numeroase aplicații și comunitatea sa activă, **n8n** este o opțiune excelentă pentru organizații de toate dimensiunile care doresc să adopte automatizarea proceselor digitale.
 
