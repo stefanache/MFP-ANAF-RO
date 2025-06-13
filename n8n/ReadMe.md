@@ -28,3 +28,4 @@ Iata si cateva link-uri interesante legate de gestionaraul-fluxului de lucru(wor
 
  - [n8n-integrations-agent: integrari populare ale **n8n**](https://n8n.io/integrations/agent/)
  - [RO-ai-romania: **n8n** - automatizari la indemana tuturor](https://ai-romania.ro/n8n-automatizari-la-indemana-tuturor/)
+ - [webhosting-RO: Instalarea **n8n** cu docker+postgresql+traefik](https://webhosting.de/ro/instalarea-n8n-cu-docker-postgresql-si-traefik/)
