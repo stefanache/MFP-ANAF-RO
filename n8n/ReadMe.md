@@ -74,4 +74,5 @@ Acest lucru(***Agentic-RAG***) îți oferă:
 <hr/>
 </details>
 
+ - [dailyDoseOfDS-blog: MCP-powered Agentic RAG](https://blog.dailydoseofds.com/p/mcp-powered-agentic-rag)
  - [...](https://www.google.com/search?q=n8n&sca_esv=57b167c83bb1e9fa&rlz=1C1CHBF_enRO1132RO1132&sxsrf=AE3TifO2r1Lqg1kNj62xrL-cqOuQw-Kmjw:1749819884261&tbas=0&source=lnt&sa=X&ved=2ahUKEwj-gP2Eu-6NAxXpSvEDHci7JKA4PBCnBXoECAQQBg&biw=1920&bih=911&dpr=1)
