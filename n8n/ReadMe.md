@@ -12,6 +12,16 @@ Interfața vizuală prietenoasa a **n8n** simplifică procesul de creare a fluxu
 <br/>Utilizatorii pot glisa și aranja noduri, configura setări și vizualiza fluxul de date între diferite servicii. 
 <br/>Această interfață intuitivă o face accesibilă atât utilizatorilor tehnici, cât și celor non-tehnici, permitându-le să automatizeze sarcinile(task-urile AI) fără a avea nevoie să scrie cod.
 
+
+**n8n** este o platformă puternică și flexibilă de automatizare a fluxurilor de lucru care poate fi folosită pentru a îmbunătăți eficiența, productivitatea și precizia în diverse domenii:
+
+ - Automatizarea proceselor de afaceri
+ - Transformarea datelor([ETL](https://ai-romania.ro/n8n-automatizari-la-indemana-tuturor/)) și integrarea
+ - Monitorizare și notificări
+ - Automatizarea sarcinilor repetitive
+   
+<br/>Cu caracteristicile sale ample, integrarea cu numeroase aplicații și comunitatea sa activă, **n8n** este o opțiune excelentă pentru organizații de toate dimensiunile care doresc să adopte automatizarea proceselor digitale.
+
 Iata si cateva link-uri interesante legate de gestionaraul-fluxului de lucru(workflow)~AI, **n8n**:
 
  - [n8n-integrations-agent: integrari populare ale **n8n**](https://n8n.io/integrations/agent/)
