@@ -32,7 +32,11 @@ Iata si cateva link-uri interesante legate de gestionaraul-fluxului de lucru(wor
  - [sider-AI-create-video-AIvideoShortener-explore: n8n Beginner Course (1/9) - Introduction to Automation](https://sider.ai/ro/create/video/ai-video-shortener/explore/e8940b03-2f25-49dc-807f-ee60e05c828f)
  - [sider-AI-create-video-AIvideoShortener-explore: Automate Tasks with Pre-Built AI Agents | **n8n** Tutorial 🔥](https://sider.ai/ro/create/video/ai-video-shortener/explore/3ac982a1-a2f3-45fc-9e97-5b40b023b2fa)
  - [YT@ColeMedin: I Built the ULTIMATE/Any n8n RAG AI Agent Template](https://www.youtube.com/watch?v=mQt1hOjBH9o&ab_channel=ColeMedin)
-<br/><pre>
+<details>
+ <summary>...mai multe detaill despre filmuletul..."I Built the ULTIMATE n8n RAG AI Agent Template"... </summary>
+<br/>
+<hr/>
+<pre>
 
 RAG (Retrieval Augmented Generation - Generație Augmentată de Recuperare) este cel mai popular instrument care oferă agenților de inteligență artificială acces la baza de cunoștințe, astfel încât poate fi un expert în domeniu pentru documentele dumneavoastră. De asemenea, este foarte ușor de implementat în instrumente fără cod, cum ar fi n8n, deoarece este atât de larg adoptat și suportat. Cu toate acestea, vine cu o parte considerabilă a deficiențelor sale, deoarece RAG:
 
@@ -48,5 +52,7 @@ Cum rezolvi toate aceste limitări? Răspunsul este cu Agentic RAG și îți ar�
  - Informații conectate asupra tuturor informațiilor dvs.
  - Comutare dinamică între căutare și analiză
 </pre>
+<hr/>
+</details>
 
  - [...](https://www.google.com/search?q=n8n&sca_esv=57b167c83bb1e9fa&rlz=1C1CHBF_enRO1132RO1132&sxsrf=AE3TifO2r1Lqg1kNj62xrL-cqOuQw-Kmjw:1749819884261&tbas=0&source=lnt&sa=X&ved=2ahUKEwj-gP2Eu-6NAxXpSvEDHci7JKA4PBCnBXoECAQQBg&biw=1920&bih=911&dpr=1)
