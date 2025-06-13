@@ -8,6 +8,10 @@ In aceasta sectiune voi poata cateva lucruri despre automatizatorul de AI~task-u
 <br/>Această bibliotecă extinsă permite utilizatorilor să conecteze sisteme diferite, automatizând procesele care altfel ar necesita intervenție manuală. 
 <br/>Capacitatea de a crea integrări personalizate folosind cereri *HTTP* îmbunătățește suplimentar versatilitatea **n8n**, permitând utilizatorilor să se conecteze cu orice serviciu care are un *API-REST*.
 
+Interfața vizuală prietenoasa a **n8n** simplifică procesul de creare a fluxurilor de lucru. 
+<br/>Utilizatorii pot glisa și aranja noduri, configura setări și vizualiza fluxul de date între diferite servicii. 
+<br/>Această interfață intuitivă o face accesibilă atât utilizatorilor tehnici, cât și celor non-tehnici, permitându-le să automatizeze sarcinile(task-urile AI) fără a avea nevoie să scrie cod.
+
 Iata si cateva link-uri interesante legate de gestionaraul-fluxului de lucru(workflow)~AI, **n8n**:
 
  - [n8n-integrations-agent: integrari populare ale **n8n**](https://n8n.io/integrations/agent/)
