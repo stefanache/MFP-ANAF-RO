@@ -28,7 +28,7 @@ O serie intreaga de Fluxuri-de-lucru *Agentice*(deci ...care presupun *decizie* 
  - Gestionați procese neliniare, cu mai mulți pași
  - Luați decizii complexe în mod autonom
    
- si in plus...
+ si in plus, un astfel de *Agent*...
  
  - ... Poate învăța și se poate perfecționa în timp
 
