@@ -73,7 +73,8 @@ Acest lucru(***Agentic-RAG***) îți oferă:
 *Nota:* mai puteti citi si ... [dailyDoseOfDS-blog: MCP-powered Agentic RAG](https://blog.dailydoseofds.com/p/mcp-powered-agentic-rag)!
 Un ***RAG-Agentic/Agentic-RAG***(pythonic) bazat pe **MCP**(client=*Cursor*, server=*FastMCP*) care caută într-o bază de date vectorială(*Qdrant*) și 
 apelează la căutarea pe web(*Bright-Data* pentru a extrage informații web la scară largă), dacă este necesar.
-
+Protocolul de context al modelului (MCP) este un standard deschis introdus de Anthropic la sfârșitul anului 2024 pentru a standardiza modul în care aplicațiile oferă context modelelor lingvistice mari (LLM).
+MCP permite modelelor de inteligență artificială (LLM-uri precum OpenAI, Claude etc.) să interacționeze perfect cu diverse surse de date și instrumente (cum ar fi Figma, Gmail, Slack etc.), simplificând integrările și sporind capacitățile agenților de inteligență artificială.
 </pre>
 <hr/>
 </details>
