@@ -38,9 +38,9 @@ Iata si cateva link-uri interesante legate de gestionaraul-fluxului de lucru(wor
 <hr/>
 <pre>
 
-RAG (Retrieval Augmented Generation - Generație Augmentată de Recuperare) este cel mai popular instrument care oferă agenților de inteligență artificială acces la baza de cunoștințe, astfel încât poate fi un expert în domeniu pentru documentele dumneavoastră. 
+***RAG*** (Retrieval Augmented Generation - Generare Augmentată/Intarita de Recuperare) este cel mai popular instrument care oferă agenților de inteligență artificială(AI) acces la baza de cunoștințe, astfel încât poate fi un expert în domeniu pentru documentele dumneavoastră. 
 De asemenea, este foarte ușor de implementat în instrumente fără cod, cum ar fi <b>n8n</b>, deoarece este atât de larg adoptat și suportat. 
-Cu toate acestea, vine cu o parte considerabilă a deficiențelor sale, deoarece RAG:
+Cu toate acestea, vine cu o parte considerabilă a deficiențelor sale, deoarece ***RAG***:
 
  - Nu pot analiza bine tabelele - nu am capacitatea de a calcula medii, sume sau tendințe
  - Ratează „imaginea de ansamblu” deoarece documentele sunt împărțite în bucăți mai mici
@@ -48,16 +48,25 @@ Cu toate acestea, vine cu o parte considerabilă a deficiențelor sale, deoarece
  - Nu se poate comuta dinamic între căutarea documentelor și analiza datelor
 
 Cum rezolvi toate aceste limitări? 
-Răspunsul este cu Agentic RAG și îți arăt exact cum să implementezi acest lucru cu <b>n8n</b> în acest videoclip, cu un șablon pe care îl poți descărca și utiliza chiar acum (linkul de mai jos). 
-Agentic RAG oferă agenților AI posibilitatea de a raționa mai mult despre modul în care explorează baza de cunoștințe, de a-și îmbunătăți singuri căutările RAG și de a alege între diferite instrumente pe baza întrebării utilizatorului. 
+Răspunsul este cu ***Agentic-RAG*** și îți arăt exact cum să implementezi acest lucru cu <b>n8n</b> în acest videoclip, cu un șablon pe care îl poți descărca și utiliza chiar acum (linkul de mai jos). 
+
+***Agentic-RAG*** oferă agenților AI posibilitatea ...:
+
+ - ... de a raționa mai mult despre modul în care explorează baza de cunoștințe,
+ - ... de a-și îmbunătăți singuri căutările ***RAG*** și
+ - ... de a alege între diferite instrumente pe baza întrebării utilizatorului.
+   
 Când este întrebat despre tendințele dintr-o foaie de calcul, folosește SQL pentru a calcula răspunsuri precise. 
-Când este nevoie de context dintr-un document întreg, caută textul complet în loc de o căutare RAG. 
-Agentul comută inteligent între aceste abordări. Acest lucru îți oferă:
+Când este nevoie de context dintr-un document întreg, caută textul complet în loc de o căutare ***RAG***. 
+***Agentic-RAG*** comută inteligent între aceste abordări. 
+
+Acest lucru(***Agentic-RAG***) îți oferă:
 
  - Calcule precise pentru date numerice
  - Contextul complet al documentului atunci când este necesar
  - Informații conectate asupra tuturor informațiilor dvs.
  - Comutare dinamică între căutare și analiză
+   
 </pre>
 <hr/>
 </details>
