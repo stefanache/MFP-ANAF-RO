@@ -76,7 +76,8 @@ Un ***RAG-Agentic/Agentic-RAG***(pythonic) bazat pe **MCP**(client=*Cursor*, ser
 Protocolul de context al modelului (MCP) este un standard deschis introdus de Anthropic la sfârșitul anului 2024 pentru a standardiza modul în care 
 aplicațiile oferă context modelelor lingvistice mari (LLM).
 MCP permite modelelor de inteligență artificială (LLM-uri precum OpenAI, Claude etc.) să interacționeze perfect cu diverse surse de date și 
-instrumente (cum ar fi Figma, Gmail, Slack etc.), simplificând integrările/interogarile și sporind capacitățile agenților de inteligență artificială(AI).
+instrumente (cum ar fi Figma, Gmail, Slack ...vDB-urilor gen *Qdrant*, crawler-urilor-web ex *Braight-Data*...etc.), simplificând integrările
+(interogarile...) și sporind capacitățile agenților de inteligență artificială(AI).
 </pre>
 <hr/>
 </details>
