@@ -16,7 +16,7 @@ Interfața vizuală prietenoasa a **n8n** simplifică procesul de creare a fluxu
 **n8n** este o platformă puternică și flexibilă de automatizare a fluxurilor de lucru care poate fi folosită pentru a îmbunătăți eficiența, productivitatea și precizia în diverse domenii:
 
  - Automatizarea proceselor de afaceri
- - Transformarea datelor([ETL](https://ai-romania.ro/n8n-automatizari-la-indemana-tuturor/)) și integrarea
+ - Transformarea datelor([ETL](https://ai-romania.ro/n8n-automatizari-la-indemana-tuturor/)) și integrarea fluxurilor de lucru
  - Monitorizare și notificări
  - Automatizarea sarcinilor repetitive
    
