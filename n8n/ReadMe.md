@@ -22,7 +22,7 @@ Interfața vizuală prietenoasa a **n8n** simplifică procesul de creare a fluxu
    
 <br/>Cu caracteristicile sale ample, integrarea cu numeroase aplicații și comunitatea sa activă, **n8n** este o opțiune excelentă pentru organizații de toate dimensiunile care doresc să adopte automatizarea proceselor digitale.
 
-**n8n** poate rula/procesa pe propriul computer/server/laptop local(OnPrem) dar si pe/in [VPS](https://www.youstable.com/ro/g%C4%83zduire-VPS-N8N)-inchiriate ori in cloud.
+**n8n** poate rula/procesa pe propriul computer/server/laptop local(OnPrem/auto-hosting) dar si pe/in [VPS](https://www.youstable.com/ro/g%C4%83zduire-VPS-N8N)-[inchiriate](https://www.hostinger.com/ro/vps/n8n-hosting) ori in cloud.
 
 Iata si cateva link-uri interesante legate de gestionaraul-fluxului de lucru(workflow)~AI, **n8n**:
 
