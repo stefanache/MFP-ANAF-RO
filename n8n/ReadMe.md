@@ -31,21 +31,28 @@ Iata si cateva link-uri interesante legate de gestionaraul-fluxului de lucru(wor
  - [webhosting-RO: Instalarea **n8n** cu docker+postgresql+traefik](https://webhosting.de/ro/instalarea-n8n-cu-docker-postgresql-si-traefik/)
  - [sider-AI-create-video-AIvideoShortener-explore: n8n Beginner Course (1/9) - Introduction to Automation](https://sider.ai/ro/create/video/ai-video-shortener/explore/e8940b03-2f25-49dc-807f-ee60e05c828f)
  - [sider-AI-create-video-AIvideoShortener-explore: Automate Tasks with Pre-Built AI Agents | **n8n** Tutorial 🔥](https://sider.ai/ro/create/video/ai-video-shortener/explore/3ac982a1-a2f3-45fc-9e97-5b40b023b2fa)
- - [YT@ColeMedin: I Built the ULTIMATE/Any n8n RAG AI Agent Template](https://www.youtube.com/watch?v=mQt1hOjBH9o&ab_channel=ColeMedin)
+ - [YT@ColeMedin: I Built the ULTIMATE/Any **n8n** RAG AI Agent Template](https://www.youtube.com/watch?v=mQt1hOjBH9o&ab_channel=ColeMedin)
 <details>
- <summary>...puteti citi aici cateva lucruri despre acest filmulet: "I Built the ULTIMATE n8n RAG AI Agent Template"... </summary>
+ <summary>...puteti citi aici cateva lucruri despre acest filmulet: "I Built the ULTIMATE <b>n8n</b> RAG AI Agent Template"... </summary>
 <br/>
 <hr/>
 <pre>
 
-RAG (Retrieval Augmented Generation - Generație Augmentată de Recuperare) este cel mai popular instrument care oferă agenților de inteligență artificială acces la baza de cunoștințe, astfel încât poate fi un expert în domeniu pentru documentele dumneavoastră. De asemenea, este foarte ușor de implementat în instrumente fără cod, cum ar fi n8n, deoarece este atât de larg adoptat și suportat. Cu toate acestea, vine cu o parte considerabilă a deficiențelor sale, deoarece RAG:
+RAG (Retrieval Augmented Generation - Generație Augmentată de Recuperare) este cel mai popular instrument care oferă agenților de inteligență artificială acces la baza de cunoștințe, astfel încât poate fi un expert în domeniu pentru documentele dumneavoastră. 
+De asemenea, este foarte ușor de implementat în instrumente fără cod, cum ar fi <b>n8n</b>, deoarece este atât de larg adoptat și suportat. 
+Cu toate acestea, vine cu o parte considerabilă a deficiențelor sale, deoarece RAG:
 
  - Nu pot analiza bine tabelele - nu am capacitatea de a calcula medii, sume sau tendințe
  - Ratează „imaginea de ansamblu” deoarece documentele sunt împărțite în bucăți mai mici
  - Dificultăți în conectarea informațiilor între documente și secțiuni
  - Nu se poate comuta dinamic între căutarea documentelor și analiza datelor
 
-Cum rezolvi toate aceste limitări? Răspunsul este cu Agentic RAG și îți arăt exact cum să implementezi acest lucru cu n8n în acest videoclip, cu un șablon pe care îl poți descărca și utiliza chiar acum (linkul de mai jos). Agentic RAG oferă agenților AI posibilitatea de a raționa mai mult despre modul în care explorează baza de cunoștințe, de a-și îmbunătăți singuri căutările RAG și de a alege între diferite instrumente pe baza întrebării utilizatorului. Când este întrebat despre tendințele dintr-o foaie de calcul, folosește SQL pentru a calcula răspunsuri precise. Când este nevoie de context dintr-un document întreg, caută textul complet în loc de o căutare RAG. Agentul comută inteligent între aceste abordări. Acest lucru îți oferă:
+Cum rezolvi toate aceste limitări? 
+Răspunsul este cu Agentic RAG și îți arăt exact cum să implementezi acest lucru cu <b>n8n</b> în acest videoclip, cu un șablon pe care îl poți descărca și utiliza chiar acum (linkul de mai jos). 
+Agentic RAG oferă agenților AI posibilitatea de a raționa mai mult despre modul în care explorează baza de cunoștințe, de a-și îmbunătăți singuri căutările RAG și de a alege între diferite instrumente pe baza întrebării utilizatorului. 
+Când este întrebat despre tendințele dintr-o foaie de calcul, folosește SQL pentru a calcula răspunsuri precise. 
+Când este nevoie de context dintr-un document întreg, caută textul complet în loc de o căutare RAG. 
+Agentul comută inteligent între aceste abordări. Acest lucru îți oferă:
 
  - Calcule precise pentru date numerice
  - Contextul complet al documentului atunci când este necesar
