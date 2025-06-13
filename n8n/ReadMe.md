@@ -36,7 +36,7 @@ Framework-ul **n8n** poate ajuta la crearea/construirea unor astfel de *Agenti-A
 
 <br/>Cu caracteristicile sale ample, integrarea cu numeroase aplicații și comunitatea sa activă, **n8n** este o opțiune excelentă pentru organizații de toate dimensiunile care doresc să adopte automatizarea proceselor digitale.
 
-**n8n** poate rula/procesa pe propriul computer/server/laptop local(OnPrem/auto-hosting) dar si pe/in [VPS](https://www.youstable.com/ro/g%C4%83zduire-VPS-N8N)-[inchiriate](https://www.hostinger.com/ro/vps/n8n-hosting) ori in cloud.
+**n8n** poate rula/procesa pe propriul computer/server/laptop local(OnPrem/auto-hosting) dar si pe/in [VPS](https://www.youstable.com/ro/g%C4%83zduire-VPS-N8N)-[inchiriate](https://www.hostinger.com/ro/vps/n8n-hosting)/[PaaS](https://mbebars.medium.com/paas-vs-vps-same-same-different-control-level-274a279e2959) ori in Cloud.
 
 Iata si cateva link-uri interesante legate de gestionaraul-fluxului de lucru(workflow)~AI, **n8n**:
 
