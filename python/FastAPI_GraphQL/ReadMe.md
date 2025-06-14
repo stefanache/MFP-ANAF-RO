@@ -45,7 +45,7 @@ Ratiunea existentei acestuia in aceasta arhitectura(expusa mai sus) este acea de
 
 Principalul lucru de care aveți nevoie pentru a rula o aplicație **FastAPI** (sau orice altă aplicație ***ASGI***) pe un server la distanță este un program de server ***ASGI***(precum *Uvicorn*) , acesta este cel care vine implicit în comanda **FatAPI**.
 
-Există mai multe alternative, inclusiv:
+Există mai multe alternative(de servere-***ASGI***), inclusiv:
 
  - *Uvicorn*:       un server-***ASGI*** de înaltă performanță.
  - *Hipercornun*:    server-***ASGI*** compatibil cu protocolul *HTTP/28 și *Trio*, printre alte caracteristici.
