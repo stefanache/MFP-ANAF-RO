@@ -150,7 +150,7 @@ In aceasta sectiune ne vom ocupa de [**FastAPI**](https://fastapi.tiangolo.com/)
   - [LangDinNord@zhuanlan.zhihu: ***FastRTC***, stea în ascensiune open source | 30 de linii de cod pentru interacțiune vocală AI în timp real, metodă de implementare și testare a efectelor](https://zhuanlan.zhihu.com/p/27904999595)
  
 <details>
-<summary>...detalii despre ... ***FastRTC*** poate fi utilizat cu/in applicatiile ***FastAPI*** ~ Caracteristicile principale ale <b><i>FastRTC</i></b> ...</summary> 
+<summary>...detalii despre ... <b><i>FastRTC</i></b> poate fi utilizat cu/in applicatiile bazate pe <b><i>FastAPI</i></b> ~ Caracteristicile principale ale <b><i>FastRTC</i></b> ...</summary> 
 
 <br/>
 <hr/>
