@@ -20,7 +20,7 @@ De aceasta parte de monitorizare vom face abstractie(nu ne vom ocupa) deoarece i
 Pana sa ajungem sa intelegem aceasta imagine as dori sa pregatim/explicam cativa termeni ai discutiei:
 
 <details>
-<summary>Termeni-pregatitori: detalii </summary>
+<summary>Termeni-pregatitori: NGINX/Reverse-Proxy,GraphQL,FastAPI,Uvicorn,ASGI,...detalii </summary>
 
  <br/>
  <hr/>
