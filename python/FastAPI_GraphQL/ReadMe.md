@@ -25,7 +25,7 @@ De aceasta parte de monitorizare vom face abstractie(nu ne vom ocupa) deoarece i
 Pana sa ajungem sa intelegem aceasta imagine as dori sa pregatim/explicam cativa termeni ai discutiei:
 
 <details>
-<summary>...Termeni-pregatitori: ...<i>NGINX</i>(<i>Reverse-Proxy</i>), <i>NGINX</i>(<i>daemonul</i>i>-<i>manager-de-system-si-servicii</i> al <i>OS</i>-urilor din familia <i>Linux</i>), <b>GraphQL</b>, <b>FastAPI</b>(<i>uvicorn</i>, <i>ASGI</i>),...detalii </summary>
+<summary>...Termeni-pregatitori: ...<i>NGINX</i>(<i>Reverse-Proxy</i>), <i>NGINX</i>(<i>daemonul</i>-<i>manager-de-system-si-servicii</i> al <i>OS</i>-urilor din familia <i>Linux</i>), <b>GraphQL</b>, <b>FastAPI</b>(<i>uvicorn</i>, <i>ASGI</i>),...detalii </summary>
 
  <br/>
  <hr/>
@@ -40,7 +40,7 @@ Ratiunea existentei acestuia(**Reverse-Proxy**) in aceasta arhitectura(expusa ma
 
 [***systemd***](https://en.wikipedia.org/wiki/Systemd) este o suită-software care oferă o gamă largă de componente de sistem pentru sistemele-de-operare(OS) Linux
 
-Scopul principal al ***systemd***(*system-daemon*) este de a unifica configurația și comportamentul serviciilor în toate distribuțiile-*Linux* .
+Scopul principal al ***systemd***(*system-[daemon](https://en.wikipedia.org/wiki/Daemon_(computing))*) este de a unifica configurația și comportamentul serviciilor în toate distribuțiile-*Linux* .
 
 Componenta sa( ***systemd***) principală este un „manager de sistem și servicii” - un sistem-de-inițiere folosit pentru a porni-*spațiul-utilizatorului* și a gestiona-*procesele-utilizatorului* . 
 
