@@ -70,9 +70,9 @@ De asemenea,  ***systemd*** oferă înlocuiri pentru diverse *daemon*-uri(compon
 
 **FastAPI** folosește un standard pentru construirea de framework-uri și servere web Python numit ***ASGI*** . **FastAPI** este un framework web ***ASGI***.
 
-Principalul lucru de care aveți nevoie pentru a rula o aplicație **FastAPI** (sau orice altă aplicație ***ASGI***) pe un server la distanță este un program de server-[***ASGI***](https://en.wikipedia.org/wiki/Asynchronous_Server_Gateway_Interface)(precum *Uvicorn*) , acesta este cel care vine implicit în comanda **FastAPI**.
+Principalul lucru de care aveți nevoie pentru a rula o aplicație **FastAPI** (sau orice altă aplicație ***ASGI***) pe un server-la-distanță este un program de server-[***ASGI***](https://en.wikipedia.org/wiki/Asynchronous_Server_Gateway_Interface)(precum *Uvicorn*) , acesta este cel care vine implicit în comanda **FastAPI**.
 
-Există mai multe alternative(de servere-***ASGI***), inclusiv:
+Există mai multe alternative(de servere-***ASGI***=manipulatorul de mesaje-care-contin-cererile-utilizatorilor), inclusiv:
 
  - [*Uvicorn*](https://www.uvicorn.org/):       un server-***ASGI*** de înaltă performanță.
  - [*Hypercorn*](https://stackoverflow.com/questions/73730163/hypercorn-config-server-names):    server-***ASGI*** compatibil cu protocolul *HTTP/2* și *Trio*, printre alte caracteristici.
