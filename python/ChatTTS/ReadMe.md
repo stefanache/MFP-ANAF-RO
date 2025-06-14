@@ -9,7 +9,7 @@ Aici o sa vorbim despre implementari [**TTS**](https://simple.wikipedia.org/wiki
  - [YT-100% Local AI Speech to Speech with RAG - Low Latency | Mistral 7B, Faster Whisper ++](https://www.youtube.com/watch?v=VpB6bxh4deM&ab_channel=AllAboutAI)
  - [Medium-Build your own voice assistant and run it locally: Whisper + Ollama + Bark](https://medium.com/@vndee.huynh/build-your-own-voice-assistant-and-run-it-locally-whisper-ollama-bark-c80e6f815cba)
  - [medium@mahimairaja: ***FastRTC*** pt *aplicații-AI-audio-și-video(în timp-real=RT)* | Ollama with *Twilio*(si *ngrok*) — 100% Local Models](https://mahimairaja.medium.com/%EF%B8%8F-fastrtc-ollama-with-twilio-100-local-models-dc0051afe423);
-<br/>[LNKDN-posts@thom-wolf: ***FastRTC*** the real-time(RT) communication library activity](https://www.linkedin.com/posts/thom-wolf_fastrtc-the-real-time-communication-library-activity-7300214946271801344-5xWs/)
+<br/>[LNKDN-posts@thom-wolf: ***FastRTC***(**ASR** & **TTS**) the real-time(RT) communication library activity](https://www.linkedin.com/posts/thom-wolf_fastrtc-the-real-time-communication-library-activity-7300214946271801344-5xWs/)
  - [HF: Sfaturi pt. un AI-asistent rulat local](https://discuss.huggingface.co/t/advice-for-locally-run-ai-assistant/145000)
  - [HF ***FastRTC***: The Real-Time Communication Library for Python ](https://huggingface.co/blog/fastrtc)
  - [LangDinNord@zhuanlan.zhihu: ***FastRTC***, stea în ascensiune open source | 30 de linii de cod pentru interacțiune vocală AI în timp real, metodă de implementare și testare a efectelor](https://zhuanlan.zhihu.com/p/27904999595)
