@@ -20,7 +20,7 @@ De aceasta parte de monitorizare vom face abstractie(nu ne vom ocupa) deoarece i
 Pana sa ajungem sa intelegem aceasta imagine as dori sa pregatim/explicam cativa termeni ai discutiei:
 
 <details>
-<summary>Termeni-pregatitori: ...<i>NGINX</i>(<i>Reverse-Proxy</i>), <b>GraphQL</b>, <b>FastAPI</b>(<i>uvicorn</i>, <i>ASGI</i>),...detalii </summary>
+<summary>Termeni-pregatitori: ...<i>NGINX</i>(<i>Reverse-Proxy</i>), <i>NGINX</i>(*daemonul*-*manager-de-system-si-servicii* al *OS*-urilor din familia *Linux*), <b>GraphQL</b>, <b>FastAPI</b>(<i>uvicorn</i>, <i>ASGI</i>),...detalii </summary>
 
  <br/>
  <hr/>
@@ -32,6 +32,19 @@ Pana sa ajungem sa intelegem aceasta imagine as dori sa pregatim/explicam cativa
 ***NGINX*** apare in arhitectura de productie **FastAPI**, prezentata mai sus.
 
 Ratiunea existentei acestuia(**Reverse-Proxy**) in aceasta arhitectura(expusa mai sus) este acea de a putea *scala/distribui*(de a distribui cererea-utilizator catre unul dintre webServere-le din pool-ul de servere-web pe care le utilizam/le avem la dispozitie  in procesul de productie)
+
+[***systemd***](https://en.wikipedia.org/wiki/Systemd) este o suită-software care oferă o gamă largă de componente de sistem pentru sistemele-de-operare(OS) Linux
+
+Scopul principal al ***systemd*** este de a unifica configurația și comportamentul serviciilor în toate distribuțiile Linux .
+
+Componenta sa( ***systemd***) principală este un „manager de sistem și servicii” - un sistem de inițiere folosit pentru a porni spațiul utilizatorului și a gestiona procesele utilizatorului . 
+
+De asemenea,  ***systemd*** oferă înlocuiri pentru diverse *daemon*-uri(component[a/e] ce lucreaza in fundal) și *utilități*, inclusiv :
+
+ - gestionarea dispozitivelor,
+ - gestionarea conectării,
+ - gestionarea conexiunilor de rețea și
+ - înregistrarea evenimentelor.
 
 **GraphQL** este un limbaj de interogare pentru *API*-ul dvs. care permite clienților să solicite exact datele de care au nevoie și nimic mai mult. 
 <br/>A fost dezvoltat de ***Facebook*** și este folosit acum de multe companii populare, cum ar fi ***GitHub***, ***AirBnB*** și ***Twitter***.
