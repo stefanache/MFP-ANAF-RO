@@ -34,7 +34,7 @@ Caracteristicile principale ale <b><i>FastRTC</i></b>:
    telefon (este necesar un jeton de la îmbrățișare-facială(**HF**) , conturile PRO au limite mai mari).
    
  - ⚡️ *Suport pentru WebRTC și Websocket* :
-   Acceptă **WebRTC** și **Websocket** pentru a asigura o comunicare fluidă(în timp-real).
+   Acceptă **WebRTC** și **Websocket** pentru a asigura o comunicare *fluidă* în *timp-real(RT)*.
    
  - *Extrem de personalizabil* :
    Stream-urile pot fi montate în orice aplicație **FastAPI**, permițând interfețe utilizator personalizate sau
@@ -46,7 +46,7 @@ Caracteristicile principale ale <b><i>FastRTC</i></b>:
    
     - conversia textului în vorbire(**TTS**),
     - conversia vorbirii în text(**STT**),
-    - detectarea cuvintelor neașteptate etc.,
+    - detectarea cuvintelor *neașteptate* etc.,
       
    pentru a ajuta dezvoltatorii să înceapă rapid.
 
