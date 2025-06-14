@@ -34,7 +34,7 @@ Pana sa ajungem sa intelegem aceasta imagine as dori sa pregatim/explicam cativa
 
 ***NGINX*** poate juca mai multe roluri dar in imaginea de mai sus, acesta joaca rolul de / este un **Reverse-Proxy**(un *proxy-invers*, sau un *intermediar-invers*).
 
-***NGINX*** apare in arhitectura de productie **FastAPI**(ca webserver/distribuitor/scalator de mesaje catre serverul/serviciul-***ASGI***), prezentata mai sus.
+***NGINX*** apare in arhitectura de productie **FastAPI**(ca intermediar-invers/web-server/distribuitor/scalator de mesaje catre serverul/serviciul-***ASGI***), prezentata mai sus.
 
 Ratiunea existentei acestuia(**Reverse-Proxy**) in aceasta arhitectura(expusa mai sus) este acea de a putea *scala/distribui*(de a distribui cererea-utilizator catre unul dintre webServere-le din pool-ul de servere-web pe care le utilizam/le avem la dispozitie  in procesul de productie)
 
