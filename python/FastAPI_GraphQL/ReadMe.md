@@ -172,7 +172,7 @@ Caracteristicile principale ale <b><i>FastRTC</i></b>:
    Acceptă **WebRTC** și **Websocket** pentru a asigura o comunicare *fluidă* în *timp-real(RT)*.
    
  - *Extrem de personalizabil* :
-   Stream-urile pot fi montate în orice aplicație **FastAPI**, permițând interfețe utilizator personalizate sau
+   Stream-urile pot fi montate/utilizate în orice aplicație **FastAPI**, permițând interfețe utilizator personalizate sau
    implementări dincolo de **Gradio**.
    
  - *Set bogat de instrumente* :
