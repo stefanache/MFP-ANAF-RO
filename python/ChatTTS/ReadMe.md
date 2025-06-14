@@ -10,4 +10,4 @@ Aici o sa vorbim despre implementari [**TTS**](https://simple.wikipedia.org/wiki
  - [Medium-Build your own voice assistant and run it locally: Whisper + Ollama + Bark](https://medium.com/@vndee.huynh/build-your-own-voice-assistant-and-run-it-locally-whisper-ollama-bark-c80e6f815cba)
  - [medium@mahimairaja: ***FastRTC*** | Ollama with Twilio — 100% Local Models](https://mahimairaja.medium.com/%EF%B8%8F-fastrtc-ollama-with-twilio-100-local-models-dc0051afe423);
 <br/>[LNKDN-posts@thom-wolf: ***FastRTC*** the real-time(RT) communication library activity](https://www.linkedin.com/posts/thom-wolf_fastrtc-the-real-time-communication-library-activity-7300214946271801344-5xWs/)
- - 
+ - [HF: Sfaturi pt. un AI-asistent rulat local](https://discuss.huggingface.co/t/advice-for-locally-run-ai-assistant/145000)
