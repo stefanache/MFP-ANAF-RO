@@ -20,7 +20,7 @@ De aceasta parte de monitorizare vom face abstractie(nu ne vom ocupa) deoarece i
 Pana sa ajungem sa intelegem aceasta imagine as dori sa pregatim/explicam cativa termeni ai discutiei:
 
 <details>
-<summary>Termeni-pregatitori: ...<i>NGINX</i>(<i>Reverse-Proxy</i>), <i>GraphQL</i>, <i>FastAPI</i>(<i>uvicorn</i>, <i>ASGI</i>),...detalii </summary>
+<summary>Termeni-pregatitori: ...<i>NGINX</i>(<i>Reverse-Proxy</i>), <b>GraphQL</b>, <b>FastAPI</b>(<i>uvicorn</i>, <i>ASGI</i>),...detalii </summary>
 
  <br/>
  <hr/>
@@ -28,6 +28,8 @@ Pana sa ajungem sa intelegem aceasta imagine as dori sa pregatim/explicam cativa
  [wiki: **Reverse-Proxy**](https://en.wikipedia.org/wiki/Reverse_proxy)
 
 ***NGINX*** poate juca mai multe roluri dar in imaginea de mai sus, acesta joaca rolul de / este un **Reverse-Proxy**(un *proxy-invers*, sau un *intermediar-invers*).
+
+***NGINX*** apare in arhitectura de productie **FastAPI**, prezentata mai sus.
 
 Ratiunea existentei acestuia(**Reverse-Proxy**) in aceasta arhitectura(expusa mai sus) este acea de a putea *scala/distribui*(de a distribui cererea-utilizator catre unul dintre webServere-le din pool-ul de servere-web pe care le utilizam/le avem la dispozitie  in procesul de productie)
 
