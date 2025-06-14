@@ -43,7 +43,7 @@ Ratiunea existentei acestuia in aceasta arhitectura(expusa mai sus) este acea de
 
 **FastAPI** folosește un standard pentru construirea de framework-uri și servere web Python numit ***ASGI*** . **FastAPI** este un framework web ***ASGI***.
 
-Principalul lucru de care aveți nevoie pentru a rula o aplicație **FastAPI** (sau orice altă aplicație ***ASGI***) pe un server la distanță este un program de server ***ASGI***(precum *Uvicorn*) , acesta este cel care vine implicit în comanda **FatAPI**.
+Principalul lucru de care aveți nevoie pentru a rula o aplicație **FastAPI** (sau orice altă aplicație ***ASGI***) pe un server la distanță este un program de server ***ASGI***(precum *Uvicorn*) , acesta este cel care vine implicit în comanda **FastAPI**.
 
 Există mai multe alternative(de servere-***ASGI***), inclusiv:
 
