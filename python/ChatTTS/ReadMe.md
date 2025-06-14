@@ -15,7 +15,7 @@ Aici o sa vorbim despre implementari [**TTS**](https://simple.wikipedia.org/wiki
  - [LangDinNord@zhuanlan.zhihu: ***FastRTC***, stea în ascensiune open source | 30 de linii de cod pentru interacțiune vocală AI în timp real, metodă de implementare și testare a efectelor](https://zhuanlan.zhihu.com/p/27904999595)
 
 <details>
-<summary>Caracteristicile principale ale ***FastRTC***</summary> 
+<summary>Caracteristicile principale ale <b><i>FastRTC</i></b></summary> 
 
 <br/>
 <hr/>
