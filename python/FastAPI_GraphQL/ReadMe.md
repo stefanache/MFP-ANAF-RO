@@ -44,7 +44,7 @@ Scopul principal al ***systemd***(*system-[daemon](https://en.wikipedia.org/wiki
 
 Componenta sa( ***systemd***) principală este un „manager de sistem și servicii” - un sistem-de-inițiere folosit pentru a porni-*spațiul-utilizatorului* și a gestiona-*procesele-utilizatorului* . 
 
-De asemenea,  ***systemd*** oferă înlocuiri pentru diverse *daemon*-uri(component[a/e] ce lucreaza in fundal/background/fara a retine atentia-utilizatorului...utilizatorul nu prea "stie" de existenta lui/lor deoarece *daemonul* <ins>nu-are-interactivitate</ins> cu acesta/utilizatorul) și *utilități*, inclusiv :
+De asemenea,  ***systemd*** oferă înlocuiri pentru diverse *daemon*-uri(component[a/e] ce lucreaza in fundal/background/fara a retine atentia-utilizatorului...utilizatorul nu prea "stie" de existenta lui/lor deoarece *daemonul* <u>nu-are-interactivitate</u> cu acesta/utilizatorul) și *utilități*, inclusiv :
 
  - gestionarea *dispozitivelor*(prin intermediul *driverelor-de-dispozitiv*),
  - gestionarea *conectării*(la internet),
