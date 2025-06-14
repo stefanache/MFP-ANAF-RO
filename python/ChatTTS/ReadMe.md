@@ -23,8 +23,8 @@ Aici o sa vorbim despre implementari [**TTS**](https://simple.wikipedia.org/wiki
 Caracteristicile principale ale <b><i>FastRTC</i></b>: 
 
  - *Detectare și rotire automată a vocii* : 
-    Cu funcțiile încorporate de detectare și rotire a vocii, dezvoltatorii trebuie să se concentreze doar pe 
-    logica răspunsului către utilizatori.
+    Cu funcțiile încorporate de detectare(**STT**) și rotire a vocii(**TTS**), dezvoltatorii trebuie să se concentreze doar pe 
+    logica *răspunsului* către utilizatori.
     
  - *Interfață utilizator automată* :
    Interfață utilizator **Gradio** încorporată cu suport **WebRTC** , convenabilă pentru testare sau implementare directă în
