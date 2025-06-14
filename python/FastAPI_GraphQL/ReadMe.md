@@ -5,7 +5,7 @@ As dori sa incercam sa intelegem urmatoarea [poveste](https://github.com/natthas
 Pentru inceput, hai sa privim imaginea urmatoare(care descrie o arhitectura-[**FastAPI**](https://blog.stackademic.com/advanced-strategies-for-profiling-caching-and-optimizing-fastapi-performance-f23bb7f6dfc5) reala/de productie):
 
 <details>
- <summary>arhitectura-<b>FastAPI</b>(ex.<i>uvicorn</i>) reala/de productie</summary>
+ <summary>arhitectura-<b>FastAPI</b>(ex. serverul/serviciul <i>uvicorn</i>) reala/de productie</summary>
 
 <br/>
 <hr/>
