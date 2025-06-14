@@ -72,7 +72,7 @@ De asemenea,  ***systemd*** oferă înlocuiri pentru diverse *daemon*-uri(compon
 
 Principalul lucru de care aveți nevoie pentru a rula o aplicație **FastAPI** (sau orice altă aplicație ***ASGI***) pe un server-la-distanță este un program de server-[***ASGI***](https://en.wikipedia.org/wiki/Asynchronous_Server_Gateway_Interface)(precum *Uvicorn*) , acesta este cel care vine implicit în comanda **FastAPI**.
 
-Există mai multe alternative(de servere-***ASGI***=manipulatorul de mesaje-care-contin-cererile-utilizatorilor), inclusiv:
+Există mai multe alternative(de servere-***ASGI***=*manipulatorul de mesaje-care-contin-cererile-utilizatorilor*, *cererirle-utilizator* se refera de obicei/in general/adesea la cereri de interactiune cu o BD/SQL), inclusiv:
 
  - [*Uvicorn*](https://www.uvicorn.org/):       un server-***ASGI*** de înaltă performanță.
  - [*Hypercorn*](https://stackoverflow.com/questions/73730163/hypercorn-config-server-names):    server-***ASGI*** compatibil cu protocolul *HTTP/2* și *Trio*, printre alte caracteristici.
