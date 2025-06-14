@@ -22,30 +22,30 @@ Aici o sa vorbim despre implementari [**TTS**](https://simple.wikipedia.org/wiki
  
 Caracteristicile principale ale <b><i>FastRTC</i></b>: 
 
-️  - Detectare și rotire automată a vocii : 
+️  - *Detectare și rotire automată a vocii* : 
     Cu funcțiile încorporate de detectare și rotire a vocii, dezvoltatorii trebuie să se concentreze doar pe 
     logica răspunsului către utilizatori.
     
- - Interfață utilizator automată :
-   Interfață utilizator *Gradio* încorporată cu suport WebRTC , convenabilă pentru testare sau implementare directă în
+ - *Interfață utilizator automată* :
+   Interfață utilizator **Gradio** încorporată cu suport **WebRTC** , convenabilă pentru testare sau implementare directă în
    mediul de producție.
    
- - Apeluri telefonice : fastphone() Obțineți un număr de telefon gratuit, iar utilizatorii pot accesa fluxul audio prin
-   telefon (este necesar un jeton de îmbrățișare facială , conturile PRO au limite mai mari).
+ - *Apeluri telefonice* : **fastphone()** Obțineți un număr de telefon gratuit, iar utilizatorii pot accesa fluxul audio prin
+   telefon (este necesar un jeton de la îmbrățișare-facială(**HF**) , conturile PRO au limite mai mari).
    
- - ⚡️ Suport pentru WebRTC și Websocket :
-   Acceptă WebRTC și Websocket pentru a asigura o comunicare fluidă(în timp-real).
+ - ⚡️ *Suport pentru WebRTC și Websocket* :
+   Acceptă **WebRTC** și **Websocket** pentru a asigura o comunicare fluidă(în timp-real).
    
- - Extrem de personalizabil :
-   Stream-urile pot fi montate în orice aplicație FastAPI, permițând interfețe utilizator personalizate sau
-   implementări dincolo de Gradio.
+ - *Extrem de personalizabil* :
+   Stream-urile pot fi montate în orice aplicație **FastAPI**, permițând interfețe utilizator personalizate sau
+   implementări dincolo de **Gradio**.
    
- - Set bogat de instrumente :
+ - *Set bogat de instrumente* :
    
    Instrumente practice încorporate, cum ar fi:
    
-    - conversia textului în vorbire,
-    - conversia vorbirii în text,
+    - conversia textului în vorbire(**TTS**),
+    - conversia vorbirii în text(**STT**),
     - detectarea cuvintelor neașteptate etc.,
       
    pentru a ajuta dezvoltatorii să înceapă rapid.
