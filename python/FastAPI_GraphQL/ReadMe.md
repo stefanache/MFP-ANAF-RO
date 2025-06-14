@@ -27,7 +27,7 @@ Pana sa ajungem sa intelegem aceasta imagine as dori sa pregatim/explicam cativa
  
  [wiki: **Reverse-Proxy**](https://en.wikipedia.org/wiki/Reverse_proxy)
 
-*NGINX* poate juca mai multe roluri dar in imaginea de mai sus, acesta joaca rolul de / este un **Reverse-Proxy**(un *proxy-invers*, sau un *intermediar-invers*).
+***NGINX*** poate juca mai multe roluri dar in imaginea de mai sus, acesta joaca rolul de / este un **Reverse-Proxy**(un *proxy-invers*, sau un *intermediar-invers*).
 Ratiunea existentei acestuia in aceasta arhitectura(expusa mai sus) este acea de a putea *scala/distribui*(de a distribui cererea-utilizator catre unul dintre webservere-le din pool-ul de servere-web pe care le utilizam/le avem la dispozitie  in procesul de productie)
 
 **GraphQL** este un limbaj de interogare pentru *API*-ul dvs. care permite clienților să solicite exact datele de care au nevoie și nimic mai mult. 
@@ -55,7 +55,7 @@ Există mai multe alternative(de servere-***ASGI***), inclusiv:
  - *Hipercornun*:    server-***ASGI*** compatibil cu protocolul *HTTP/2* și *Trio*, printre alte caracteristici.
  - *Dafne*:          serverul-***ASGI*** construit pentru canalele-*Django*.
  - *Granian*:        Un server *HTTP* *Rust* pentru aplicații-*Python*.
- - *Unitatea NGINX*: *NGINX-Unit* este un run-time(RT) de aplicații-web ușor și versatil.
+ - *Unitatea NGINX*: ***NGINX-Unit*** este un run-time(RT) de aplicații-web ușor și versatil.
 
 <br/>
 <hr/>
