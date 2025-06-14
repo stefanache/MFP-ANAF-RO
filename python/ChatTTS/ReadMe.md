@@ -19,9 +19,9 @@ Aici o sa vorbim despre implementari [**TTS**](https://simple.wikipedia.org/wiki
 
 <br/>
 <hr/>
-<pre>
  
 Caracteristicile principale ale <b><i>FastRTC</i></b>: 
+
 ️  - Detectare și rotire automată a vocii : 
     Cu funcțiile încorporate de detectare și rotire a vocii, dezvoltatorii trebuie să se concentreze doar pe 
     logica răspunsului către utilizatori.
@@ -41,10 +41,13 @@ Caracteristicile principale ale <b><i>FastRTC</i></b>:
    implementări dincolo de Gradio.
    
  - Set bogat de instrumente :
+   
    Instrumente practice încorporate, cum ar fi:
+   
     - conversia textului în vorbire,
     - conversia vorbirii în text,
     - detectarea cuvintelor neașteptate etc.,
+      
    pentru a ajuta dezvoltatorii să înceapă rapid.
 
 </pre>
