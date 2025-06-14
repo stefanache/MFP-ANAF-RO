@@ -2,6 +2,7 @@ Salut
 
 Aici o sa vorbim despre implementari [**TTS**](https://simple.wikipedia.org/wiki/Text_to_speech)([Text-to-Speach](https://en.wikipedia.org/wiki/Speech_synthesis)), cum ar fi:
 
+ - [wiki.t-fireFly: **TTS** & **ASR**](https://wiki.t-firefly.com/en/AIBOX-1684X/tts-and-asr.html)
  - [YT-ChatTTS](https://www.youtube.com/watch?v=MpVNZA6__3o&ab_channel=AllAboutAI)
  - [YT-Build a Voice Assistant with Ollama: Speech-to-Text and TTS](https://www.youtube.com/watch?v=lSqKx3D5iis&ab_channel=IOTStation)
  - [YT-A local AI Voice Assistant using Granite-7B, Ollama, InstructLab and AlwaysReddy](https://www.youtube.com/watch?v=inlada3SiNA)
