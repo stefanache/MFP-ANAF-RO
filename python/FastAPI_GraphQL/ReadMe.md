@@ -48,10 +48,10 @@ Principalul lucru de care aveți nevoie pentru a rula o aplicație **FastAPI** (
 Există mai multe alternative(de servere-***ASGI***), inclusiv:
 
  - *Uvicorn*:       un server-***ASGI*** de înaltă performanță.
- - *Hipercornun*:    server-***ASGI*** compatibil cu protocolul *HTTP/28 și *Trio*, printre alte caracteristici.
- - *Dafne*:          serverul-***ASGI*** construit pentru canalele *Django*.
- - *Granian*:        Un server *HTTP* *Rust* pentru aplicații Python.
- - *Unitatea NGINX*: *NGINX-Unit* este un runtime de aplicații web ușor și versatil.
+ - *Hipercornun*:    server-***ASGI*** compatibil cu protocolul *HTTP/2* și *Trio*, printre alte caracteristici.
+ - *Dafne*:          serverul-***ASGI*** construit pentru canalele-*Django*.
+ - *Granian*:        Un server *HTTP* *Rust* pentru aplicații-*Python*.
+ - *Unitatea NGINX*: *NGINX-Unit* este un run-time(RT) de aplicații-web ușor și versatil.
 
 </details>
  
