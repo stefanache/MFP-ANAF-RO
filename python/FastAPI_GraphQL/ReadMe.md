@@ -35,16 +35,16 @@ Ratiunea existentei acestuia(**Reverse-Proxy**) in aceasta arhitectura(expusa ma
 
 [***systemd***](https://en.wikipedia.org/wiki/Systemd) este o suită-software care oferă o gamă largă de componente de sistem pentru sistemele-de-operare(OS) Linux
 
-Scopul principal al ***systemd*** este de a unifica configurația și comportamentul serviciilor în toate distribuțiile Linux .
+Scopul principal al ***systemd*** este de a unifica configurația și comportamentul serviciilor în toate distribuțiile-*Linux* .
 
 Componenta sa( ***systemd***) principală este un „manager de sistem și servicii” - un sistem de inițiere folosit pentru a porni spațiul utilizatorului și a gestiona procesele utilizatorului . 
 
 De asemenea,  ***systemd*** oferă înlocuiri pentru diverse *daemon*-uri(component[a/e] ce lucreaza in fundal) și *utilități*, inclusiv :
 
- - gestionarea dispozitivelor,
- - gestionarea conectării,
- - gestionarea conexiunilor de rețea și
- - înregistrarea evenimentelor.
+ - gestionarea *dispozitivelor*(prin intermediul *driverelor-de-dispozitiv*),
+ - gestionarea *conectării*(la internet),
+ - gestionarea *conexiunilor-de-rețea* și
+ - înregistrarea *evenimentelor*.
 
 **GraphQL** este un limbaj de interogare pentru *API*-ul dvs. care permite clienților să solicite exact datele de care au nevoie și nimic mai mult. 
 <br/>A fost dezvoltat de ***Facebook*** și este folosit acum de multe companii populare, cum ar fi ***GitHub***, ***AirBnB*** și ***Twitter***.
