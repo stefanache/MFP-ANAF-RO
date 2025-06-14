@@ -82,7 +82,7 @@ Există mai multe alternative(de servere-***ASGI***=*manipulatorul de mesaje-car
 
 Aplicatia-**FastAPI** primeste mesajul-care-contine *cererea-utilizator* de la serverul-***ASGI***(manipulatorul de *cereri-utilizator*...ex. *uvicorn*) si o opereaza/executa/transforma intr-o executie-SQL de tip-[*CRUD*](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete): *query*/*update*, pentru [SGDB](https://ro.wikipedia.org/wiki/Sistem_de_gestiune_a_bazelor_de_date)(ex. *MySQL*-server).
 
-Asadar aplicatia-**FastAPI** este de fapt *operatorul/executorul* cererii-utilizator(ex. *cerere-SQL*).
+Asadar, in arhitectura de mai sus, aplicatia-**FastAPI** are rolul de .../este de fapt... *operatorul/executorul* cererii-utilizator(ex. *cerere-SQL*).
 
 <br/>
 <hr/>
