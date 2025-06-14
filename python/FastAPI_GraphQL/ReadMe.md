@@ -32,7 +32,7 @@ Pana sa ajungem sa intelegem aceasta imagine as dori sa pregatim/explicam cativa
 Ratiunea existentei acestuia(**Reverse-Proxy**) in aceasta arhitectura(expusa mai sus) este acea de a putea *scala/distribui*(de a distribui cererea-utilizator catre unul dintre webServere-le din pool-ul de servere-web pe care le utilizam/le avem la dispozitie  in procesul de productie)
 
 **GraphQL** este un limbaj de interogare pentru *API*-ul dvs. care permite clienților să solicite exact datele de care au nevoie și nimic mai mult. 
-<br/>A fost dezvoltat de ***Facebook*** și este folosit acum de multe companii populare, cum ar fi ***GitHub***, ***Airbnb*** și ***Twitter***.
+<br/>A fost dezvoltat de ***Facebook*** și este folosit acum de multe companii populare, cum ar fi ***GitHub***, ***AirBnB*** și ***Twitter***.
 
 [**FastAPI**](https://python3.info/fastapi/fastapi/about-architecture.html) este un cadru-web modern, rapid (de înaltă performanță), pentru construirea de *API*-uri cu ***Python 3.6+*** bazat pe indicii standard de tip *Python*. 
 <br/>Una dintre caracteristicile cheie/importante ale [**FastAPI**](https://medium.com/@ramanbazhanau/preparing-fastapi-for-production-a-comprehensive-guide-d167e693aa2b) este suportul pentru documentarea automată folosind *OpenAPI* și *Swagger-UI*.
