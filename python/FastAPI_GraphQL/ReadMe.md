@@ -64,7 +64,7 @@ De asemenea,  ***systemd*** oferă înlocuiri pentru diverse *daemon*-uri(compon
 **Uvicorn** este un server-web ***ASGI*** super rapid. 
 <br/>**Uvicorn** rulează cod-Python asincron bazat pe [**uvloop**](https://mirror.xyz/0xA1d9f681B25C14C1eE7B87f1CF102E73cA3ad4d9/n0BdWSd_GdP_Vfeped02zBcNV5XbzITThILlRditoPk) într-un singur proces(**Uvicorn** si **uvloop** formeaza impreuna un singur proces).
 
-[Asadar](https://github.com/natthasath/demo-python-fastapi-uvicorn), **FastAPI** și **Uvicorn** sunt instrumente pentru construirea de aplicații-web. 
+[Asadar](https://github.com/natthasath/demo-python-fastapi-uvicorn), **FastAPI** și **Uvicorn**(serverul ***ASGI***) sunt instrumente pentru construirea de aplicații-web. 
 <br/>**FastAPI** este un cadru-web pentru construirea de API-uri cu Python, în timp ce **Uvicorn** este un server-***ASGI*** pentru servirea acestor API-uri. 
 <br/>Împreună, acestea oferă o modalitate puternică și eficientă de a construi și rula aplicații-web în Python.
 
@@ -79,6 +79,8 @@ Există mai multe alternative(de servere-***ASGI***), inclusiv:
  - *Dafne*:          serverul-***ASGI*** construit pentru canalele-*Django*.
  - *Granian*:        Un server *HTTP* *Rust* pentru aplicații-*Python*.
  - *Unitatea NGINX*: ***NGINX-Unit*** este un run-time(RT) de aplicații-web ușor și versatil.
+
+Aplicatia **FastAPI** primeste cererea-utilizator de la serverul-***ASGI***(ex. *uvicorn*) si o executa/transforma intr-o executie SQL de tip-[*CRUD*](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete): .
 
 <br/>
 <hr/>
