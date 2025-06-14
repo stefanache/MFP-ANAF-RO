@@ -27,14 +27,14 @@ Caracteristicile principale ale <b><i>FastRTC</i></b>:
     logica răspunsului către utilizatori.
     
  - Interfață utilizator automată :
-   Interfață utilizator Gradio încorporată cu suport WebRTC , convenabilă pentru testare sau implementare directă în
+   Interfață utilizator *Gradio* încorporată cu suport WebRTC , convenabilă pentru testare sau implementare directă în
    mediul de producție.
    
  - Apeluri telefonice : fastphone() Obțineți un număr de telefon gratuit, iar utilizatorii pot accesa fluxul audio prin
    telefon (este necesar un jeton de îmbrățișare facială , conturile PRO au limite mai mari).
    
  - ⚡️ Suport pentru WebRTC și Websocket :
-   Acceptă WebRTC și Websocket pentru a asigura o comunicare fluidă în timp real.
+   Acceptă WebRTC și Websocket pentru a asigura o comunicare fluidă(în timp-real).
    
  - Extrem de personalizabil :
    Stream-urile pot fi montate în orice aplicație FastAPI, permițând interfețe utilizator personalizate sau
