@@ -13,6 +13,45 @@ Aici o sa vorbim despre implementari [**TTS**](https://simple.wikipedia.org/wiki
  - [HF: Sfaturi pt. un AI-asistent rulat local](https://discuss.huggingface.co/t/advice-for-locally-run-ai-assistant/145000)
  - [HF ***FastRTC***: The Real-Time Communication Library for Python ](https://huggingface.co/blog/fastrtc)
  - [LangDinNord@zhuanlan.zhihu: ***FastRTC***, stea în ascensiune open source | 30 de linii de cod pentru interacțiune vocală AI în timp real, metodă de implementare și testare a efectelor](https://zhuanlan.zhihu.com/p/27904999595)
+
+<details>
+<summary>Caracteristicile principale ale ***FastRTC***</summary> 
+
+<br/>
+<hr/>
+<pre>
+Caracteristicile principale ale ***FastRTC***:
+ 
+️  - Detectare și rotire automată a vocii : 
+    Cu funcțiile încorporate de detectare și rotire a vocii, dezvoltatorii trebuie să se concentreze doar pe 
+    logica răspunsului către utilizatori.
+    
+ - Interfață utilizator automată :
+   Interfață utilizator Gradio încorporată cu suport WebRTC , convenabilă pentru testare sau implementare directă în
+   mediul de producție.
+   
+ - Apeluri telefonice : fastphone()Obțineți un număr de telefon gratuit, iar utilizatorii pot accesa fluxul audio prin
+   telefon (este necesar un jeton de îmbrățișare facială , conturile PRO au limite mai mari).
+   
+ - ⚡️ Suport pentru WebRTC și Websocket :
+   Acceptă WebRTC și Websocket pentru a asigura o comunicare fluidă în timp real.
+   
+ - Extrem de personalizabil :
+   Stream-urile pot fi montate în orice aplicație FastAPI, permițând interfețe utilizator personalizate sau
+   implementări dincolo de Gradio.
+   
+ - Set bogat de instrumente :
+   Instrumente practice încorporate, cum ar fi:
+    - conversia textului în vorbire,
+    - conversia vorbirii în text,
+    - detectarea cuvintelor neașteptate etc.,
+   pentru a ajuta dezvoltatorii să înceapă rapid.
+
+</pre>
+<hr/> 
+<br/>
+</details>
+
  - [GH@n1ceh4t: Ollama - **STT** - **TTS**](https://github.com/n1ceh4t/Ollama-STT-TTS)
  - [YT@KARTIS: Convert speech to text(**STT**) in realtime without delay | using *Faster*-*Whisper* module](https://www.youtube.com/watch?v=uimBp3c3Koo&ab_channel=KARTIS)
  - [YT@IOT_Station: Build a Voice-Assistant with *Ollama*: Speech-to-Text(**STT**) and **TTS**_ Episode 2( using ***pyttsx3***) ](https://www.youtube.com/watch?v=cMDHTXobwxk&ab_channel=IOTStation)
