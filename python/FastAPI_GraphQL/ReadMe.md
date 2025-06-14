@@ -56,7 +56,7 @@ De asemenea,  ***systemd*** oferă înlocuiri pentru diverse *daemon*-uri(compon
 **GraphQL** este un limbaj de interogare pentru *API*-ul dvs. care permite clienților să solicite exact datele de care au nevoie și nimic mai mult. 
 <br/>A fost dezvoltat de ***Facebook*** și este folosit acum de multe companii populare, cum ar fi ***GitHub***, ***AirBnB*** și ***Twitter***.
 
-[**FastAPI**](https://python3.info/fastapi/fastapi/about-architecture.html) este un cadru-web modern, rapid (de înaltă performanță), pentru construirea de *API*-uri cu ***Python(de ex Python 3.6+)*** bazat pe indicii standard de tip *Python*. 
+[**FastAPI**](https://python3.info/fastapi/fastapi/about-architecture.html) este un cadru-web modern, rapid (de înaltă performanță), pentru construirea de *API*-uri cu ***Python(de ex Python 3.6+)*** bazat pe indicii-standard-de tip-*Python*. 
 <br/>Una dintre caracteristicile cheie/importante ale [**FastAPI**](https://medium.com/@ramanbazhanau/preparing-fastapi-for-production-a-comprehensive-guide-d167e693aa2b) este suportul pentru *documentarea-automată* folosind *OpenAPI* și/sau *Swagger-UI*.
  
  <br/>*Ce este [**Uvicorn**](https://www.geeksforgeeks.org/fastapi-uvicorn/)?*<br/>
@@ -72,7 +72,7 @@ De asemenea,  ***systemd*** oferă înlocuiri pentru diverse *daemon*-uri(compon
 
 Principalul lucru de care aveți nevoie pentru a rula o aplicație **FastAPI** (sau orice altă aplicație ***ASGI***) pe un server-la-distanță este un program de server-[***ASGI***](https://en.wikipedia.org/wiki/Asynchronous_Server_Gateway_Interface)(precum *Uvicorn*) , acesta este cel care vine implicit în comanda **FastAPI**.
 
-Există mai multe alternative(de servere-***ASGI***=*manipulatorul de mesaje-care-contin-cererile-utilizatorilor*, *cererirle-utilizator* se refera de obicei/in general/adesea la cereri de interactiune cu o BD/SQL), inclusiv:
+Există mai multe alternative(de servere-***ASGI***=*manipulatorul de mesaje-care-contin-cererile-utilizatorilor*; *cererirle-utilizator* se refera de obicei/in general/adesea la cereri de interactiune cu o BD/SQL), inclusiv:
 
  - [*Uvicorn*](https://www.uvicorn.org/):       un server-***ASGI*** de înaltă performanță.
  - [*Hypercorn*](https://stackoverflow.com/questions/73730163/hypercorn-config-server-names):    server-***ASGI*** compatibil cu protocolul *HTTP/2* și *Trio*, printre alte caracteristici.
