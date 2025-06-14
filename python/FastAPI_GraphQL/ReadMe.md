@@ -5,7 +5,7 @@ As dori sa incercam sa intelegem urmatoarea [poveste](https://github.com/natthas
 Pentru inceput, hai sa privim imaginea urmatoare(care descrie o arhitectura-[**FastAPI**](https://blog.stackademic.com/advanced-strategies-for-profiling-caching-and-optimizing-fastapi-performance-f23bb7f6dfc5) reala/de productie):
 
 <details>
- <summary>arhitectura-<b>FastAPI</b>(ex. serverul/serviciul <i>uvicorn</i>) reala/de productie</summary>
+ <summary>...arhitectura-<b>FastAPI</b>(ex. serverul/serviciul <i>uvicorn</i>) reala/de productie...</summary>
 
 <br/>
 <hr/>
@@ -25,7 +25,7 @@ De aceasta parte de monitorizare vom face abstractie(nu ne vom ocupa) deoarece i
 Pana sa ajungem sa intelegem aceasta imagine as dori sa pregatim/explicam cativa termeni ai discutiei:
 
 <details>
-<summary>Termeni-pregatitori: ...<i>NGINX</i>(<i>Reverse-Proxy</i>), <i>NGINX</i>(*daemonul*-*manager-de-system-si-servicii* al *OS*-urilor din familia *Linux*), <b>GraphQL</b>, <b>FastAPI</b>(<i>uvicorn</i>, <i>ASGI</i>),...detalii </summary>
+<summary>...Termeni-pregatitori: ...<i>NGINX</i>(<i>Reverse-Proxy</i>), <i>NGINX</i>(*daemonul*-*manager-de-system-si-servicii* al *OS*-urilor din familia *Linux*), <b>GraphQL</b>, <b>FastAPI</b>(<i>uvicorn</i>, <i>ASGI</i>),...detalii </summary>
 
  <br/>
  <hr/>
