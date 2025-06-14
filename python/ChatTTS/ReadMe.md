@@ -13,5 +13,5 @@ Aici o sa vorbim despre implementari [**TTS**](https://simple.wikipedia.org/wiki
  - [HF: Sfaturi pt. un AI-asistent rulat local](https://discuss.huggingface.co/t/advice-for-locally-run-ai-assistant/145000)
  - [HF **FastRTC**: The Real-Time Communication Library for Python ](https://huggingface.co/blog/fastrtc)
  - [GH@n1ceh4t: Ollama - **STT** - **TTS**](https://github.com/n1ceh4t/Ollama-STT-TTS)
- - [YT@KARTIS: Convert speech to text(**STT**) in realtime without delay | using faster-*Whisper* module](https://www.youtube.com/watch?v=uimBp3c3Koo&ab_channel=KARTIS)
+ - [YT@KARTIS: Convert speech to text(**STT**) in realtime without delay | using *faster*-*Whisper* module](https://www.youtube.com/watch?v=uimBp3c3Koo&ab_channel=KARTIS)
  - [...](https://www.google.com/search?sca_esv=496b1dbe5ee65e43&rlz=1C1CHBF_enRO1132RO1132&sxsrf=AE3TifM166-EXUFL4Wv9-L9Xb2h9sAqjOQ:1749887255747&q=python+FastRTC+Ollama+ASR+TTS&udm=2&fbs=AIIjpHxX5k-tONtMCu8aDeA7E5WMuFPIpBqH8jT76nzCHgJGooYgkjkuBCcIF7tD_yCw785wAn4uDdm7fZnSBOBP97iKWxt4z_booKiN8Mh81MZ6RTmnqIv_vfhKdvDN9djxWF1dO06kobjwUcVNvyfeQy4GZ_J7hlCGjo-GHW4su0_B0YAztT0ZP9dvSLFgyykx2wdpzIcSHqFwk_Cq6Pxp4eg_Dzs_jw&sa=X&ved=2ahUKEwiHhpqCtvCNAxV2QPEDHZVxM6o4ChC0qAt6BAgUEAE&biw=1920&bih=911&dpr=1)
