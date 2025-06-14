@@ -145,6 +145,7 @@ In aceasta sectiune ne vom ocupa de [**FastAPI**](https://fastapi.tiangolo.com/)
   - [medium-@davidrp1996: Bulding a notifications-system with server-sent-events(SSE) using **FastAPI** and Redis](https://medium.com/@davidrp1996/bulding-a-notifications-system-wih-server-sent-events-sse-using-fastapi-and-redis-6eafdf7cf7fb)
   - [stackAdemic-blog: Building a ***GraphQL***-api with **FastAPI** - complete guide from installation to running the api](https://blog.stackademic.com/building-a-graphql-api-with-fastapi-complete-guide-from-installation-to-running-the-api-673e95614732)
   - [medium@nandagopal05: Server-Sent Events(SSE) with Python **FastAPI**](https://medium.com/@nandagopal05/server-sent-events-with-python-fastapi-f1960e0c8e4b)
+  - [medium@simeon.emanuilov: Ollama with ***FastAPI***](https://medium.com/@simeon.emanuilov/ollama-with-fastapi-7f43cf532c43)
   - [...](https://www.google.com/search?sca_esv=e8d80f20730efe45&rlz=1C1CHBF_enRO1132RO1132&sxsrf=AHTn8zrH1441tkETzrmbU4dqAEckC7ivBg:1743781077100&q=FastAPI+nginx+graphQL+SSE+Redis&udm=2&fbs=ABzOT_BYhiZpMrUAF0c9tORwPGlsodhGu4F1UEhEeTehlBu7054EL_QJMdNdFZCQTI4PnEhBMh4C_0EHSVUHxJLcclisNm4b4EldR9h-pvMPn6xw2y2G7sjuE9dhTjGAdCf-64t1-bdWmIq-Lt3WphpmsUQjNUmoTzATkh99SjBMl9gfohc5yMM211WIg2yZwLTCX72_HMe-vRp4eFhBfs-YXqvr3mHDkw&sa=X&ved=2ahUKEwj4oKrd2r6MAxX9Q_EDHQIOBx8QtKgLegQIEBAB&biw=1735&bih=721&dpr=1)
 
 </details>
