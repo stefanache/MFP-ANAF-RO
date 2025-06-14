@@ -1,6 +1,6 @@
 Salut
 
-Aici o sa vorbim despre implementari TTS, cum ar fi:
+Aici o sa vorbim despre implementari [**TTS**](https://simple.wikipedia.org/wiki/Text_to_speech)(Text-to-Speach), cum ar fi:
 
  - [YT-ChatTTS](https://www.youtube.com/watch?v=MpVNZA6__3o&ab_channel=AllAboutAI)
  - [YT-Build a Voice Assistant with Ollama: Speech-to-Text and TTS](https://www.youtube.com/watch?v=lSqKx3D5iis&ab_channel=IOTStation)
