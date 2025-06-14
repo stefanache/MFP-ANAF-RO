@@ -70,15 +70,15 @@ De asemenea,  ***systemd*** oferă înlocuiri pentru diverse *daemon*-uri(compon
 
 **FastAPI** folosește un standard pentru construirea de framework-uri și servere web Python numit ***ASGI*** . **FastAPI** este un framework web ***ASGI***.
 
-Principalul lucru de care aveți nevoie pentru a rula o aplicație **FastAPI** (sau orice altă aplicație ***ASGI***) pe un server la distanță este un program de server ***ASGI***(precum *Uvicorn*) , acesta este cel care vine implicit în comanda **FastAPI**.
+Principalul lucru de care aveți nevoie pentru a rula o aplicație **FastAPI** (sau orice altă aplicație ***ASGI***) pe un server la distanță este un program de server-[***ASGI***](https://en.wikipedia.org/wiki/Asynchronous_Server_Gateway_Interface)(precum *Uvicorn*) , acesta este cel care vine implicit în comanda **FastAPI**.
 
 Există mai multe alternative(de servere-***ASGI***), inclusiv:
 
- - *Uvicorn*:       un server-***ASGI*** de înaltă performanță.
- - *Hipercornun*:    server-***ASGI*** compatibil cu protocolul *HTTP/2* și *Trio*, printre alte caracteristici.
- - *Dafne*:          serverul-***ASGI*** construit pentru canalele-*Django*.
- - *Granian*:        Un server *HTTP* *Rust* pentru aplicații-*Python*.
- - *Unitatea NGINX*: ***NGINX-Unit*** este un run-time(RT) de aplicații-web ușor și versatil.
+ - [*Uvicorn*](https://www.uvicorn.org/):       un server-***ASGI*** de înaltă performanță.
+ - [*Hypercorn*](https://stackoverflow.com/questions/73730163/hypercorn-config-server-names):    server-***ASGI*** compatibil cu protocolul *HTTP/2* și *Trio*, printre alte caracteristici.
+ - [*Dafne*](https://docs.djangoproject.com/en/5.2/howto/deployment/asgi/daphne/):          serverul-***ASGI*** construit pentru canalele-*Django*.
+ - [*Granian*](https://news.ycombinator.com/item?id=34399125):        Un server *HTTP* *Rust* pentru aplicații-*Python*.
+ - [*NGINX-Unit*](https://unit.nginx.org/configuration/): ***NGINX-Unit***(*Unitatea*-***NGINX***) este un run-time(RT) de aplicații-web ușor și versatil.
 
 Aplicatia-**FastAPI** primeste mesajul-care-contine *cererea-utilizator* de la serverul-***ASGI***(manipulatorul de *cereri-utilizator*...ex. *uvicorn*) si o executa/transforma intr-o executie-SQL de tip-[*CRUD*](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete): *query*/*update*, pentru [SGDB](https://ro.wikipedia.org/wiki/Sistem_de_gestiune_a_bazelor_de_date)(ex. *MySQL*-server).
 
