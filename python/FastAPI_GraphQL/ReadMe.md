@@ -21,6 +21,9 @@ Pana sa ajungem sa intelegem aceasta imagine as dori sa pregatim/explicam cativa
 
 <details>
 <summary>Termeni-pregatitori: detalii </summary>
+
+ <br/>
+ <hr/>
  
  [wiki: **Reverse-Proxy**](https://en.wikipedia.org/wiki/Reverse_proxy)
 <br/>Nginx poate juca mai multe roluri dar in imaginea de mai sus, acesta joaca rolul de / este un **Reverse-Proxy**(un proxy invers, sau un intermediar-invers).
@@ -52,6 +55,9 @@ Există mai multe alternative(de servere-***ASGI***), inclusiv:
  - *Dafne*:          serverul-***ASGI*** construit pentru canalele-*Django*.
  - *Granian*:        Un server *HTTP* *Rust* pentru aplicații-*Python*.
  - *Unitatea NGINX*: *NGINX-Unit* este un run-time(RT) de aplicații-web ușor și versatil.
+
+<br/>
+<hr/>
 
 </details>
  
