@@ -119,25 +119,25 @@ In aceasta sectiune ne vom ocupa de [**FastAPI**](https://fastapi.tiangolo.com/)
 
 *A*nswer:
 
-    - open powershell(PS): *C:\Users\{your_user}>* **powershell**
-      <br/>or directly in *command-prompt(CLI-shell)*!
+ - open powershell(PS): *C:\Users\{your_user}>* **powershell**
+   <br/>or directly in *command-prompt(CLI-shell)*!
 
-    - edit the ***main.py***: *C:\Users\{your_user}>* **notepad main.py**
-    - for **ASGI**-server, must enter the python script-code content into ***main.py***:
+ - edit the ***main.py***: *C:\Users\{your_user}>* **notepad main.py**
+ - for **ASGI**-server, must enter the python script-code content into ***main.py***:
 
-      <pre><code>
-          from fastapi import FastAPI
-          
-          app = FastAPI()
-          
-          @app.get("/")
-          def read_root():
-              return {"Hello World"}</code></pre>
+   <pre><code>
+       from fastapi import FastAPI
+       
+       app = FastAPI()
+       
+       @app.get("/")
+       def read_root():
+           return {"Hello World"}</code></pre>
 
-    - save content into ***main.py*** file and exit
-    - start Chrome client(in advance): *C:\Users\{your_user}>* **start Chrome  http://127.0.0.1:8000**
-    - run main with command: *C:\Users\{your_user}>* **python -m uvicorn main:app --reload**
-    - finally, refresh the Chrome-browser(***if need!***):  **http://127.0.0.1:8000**  or [**CTRL+click**](https://www.google.com/search?q=python+fastapi+asgi+uvicorn&sca_esv=494e1c439a30236c&rlz=1C1CHBF_enRO1132RO1132&udm=2&biw=1920&bih=911&fbs=ABzOT_BYhiZpMrUAF0c9tORwPGlsodhGu4F1UEhEeTehlBu7020oMQ7aBpF-aNynCVlndtbfCZRhMFm3EMvvoT1HX4IciFaWA5nwCzTGM3J5Ops_Xs3Qsyy25b7oXKA6pwLn7v3BVIeFZNT4VQLrCm95iJdb7dujTNJ5GnMNaNfzjPvAKt0ZRu9K2iZ-Q6AMCXqjDwXwmZXdWHAjlIOmWPqCQX83g_bDPg&sxsrf=AHTn8zqFyWp9Uzf2gwsRAiWQr4r-78falQ%3A1743265069160&ei=LR3oZ4G5Cc6Qxc8P6KylkA0&ved=0ahUKEwjBg8m52K-MAxVOSPEDHWhWCdIQ4dUDCBE&uact=5&oq=python+fastapi+asgi+uvicorn&gs_lp=EgNpbWciG3B5dGhvbiBmYXN0YXBpIGFzZ2kgdXZpY29ybkirHlC1C1iUGnABeACQAQCYAX2gAa8GqgEDMC43uAEDyAEA-AEBmAIAoAIAmAMAiAYBkgcAoAe7Ag&sclient=img) on it/this link from/in above after-running-message!
+ - save content into ***main.py*** file and exit
+ - start Chrome client(in advance): *C:\Users\{your_user}>* **start Chrome  http://127.0.0.1:8000**
+ - run main with command: *C:\Users\{your_user}>* **python -m uvicorn main:app --reload**
+ - finally, refresh the Chrome-browser(***if need!***):  **http://127.0.0.1:8000**  or [**CTRL+click**](https://www.google.com/search?q=python+fastapi+asgi+uvicorn&sca_esv=494e1c439a30236c&rlz=1C1CHBF_enRO1132RO1132&udm=2&biw=1920&bih=911&fbs=ABzOT_BYhiZpMrUAF0c9tORwPGlsodhGu4F1UEhEeTehlBu7020oMQ7aBpF-aNynCVlndtbfCZRhMFm3EMvvoT1HX4IciFaWA5nwCzTGM3J5Ops_Xs3Qsyy25b7oXKA6pwLn7v3BVIeFZNT4VQLrCm95iJdb7dujTNJ5GnMNaNfzjPvAKt0ZRu9K2iZ-Q6AMCXqjDwXwmZXdWHAjlIOmWPqCQX83g_bDPg&sxsrf=AHTn8zqFyWp9Uzf2gwsRAiWQr4r-78falQ%3A1743265069160&ei=LR3oZ4G5Cc6Qxc8P6KylkA0&ved=0ahUKEwjBg8m52K-MAxVOSPEDHWhWCdIQ4dUDCBE&uact=5&oq=python+fastapi+asgi+uvicorn&gs_lp=EgNpbWciG3B5dGhvbiBmYXN0YXBpIGFzZ2kgdXZpY29ybkirHlC1C1iUGnABeACQAQCYAX2gAa8GqgEDMC43uAEDyAEA-AEBmAIAoAIAmAMAiAYBkgcAoAe7Ag&sclient=img) on it/this link from/in above after-running-message!
 
 
 ***Note***: 
