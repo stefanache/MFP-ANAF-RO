@@ -13,7 +13,7 @@ Aici o sa vorbim despre implementari/*recunoasterea*/*detectia*/*trascriptia* - 
  - [medium@vndee.huynh: Build your own *Voice-Assistant(VA)* and run it locally: *Whisper*(SR/**STT**-*API*)) + *Ollama*(OL) + *Bark*](https://medium.com/@vndee.huynh/build-your-own-voice-assistant-and-run-it-locally-whisper-ollama-bark-c80e6f815cba);
 <br/>[*Bark*= generative-**TTS**-*model*](https://github.com/suno-ai/bark)
  - [medium@mahimairaja: ***FastRTC(STS)*** pt *aplicații-AI-audio-și-video(în timp-real=RT)* | *Ollama*(OL) with *Twilio*(si *ngrok*) — 100% Local Models](https://mahimairaja.medium.com/%EF%B8%8F-fastrtc-ollama-with-twilio-100-local-models-dc0051afe423);
-<br/>[LNKDN-posts@thom-wolf: ***FastRTC***(**ASR/STT** & **TTS**) the real-time(RT) communication library activity](https://www.linkedin.com/posts/thom-wolf_fastrtc-the-real-time-communication-library-activity-7300214946271801344-5xWs/)
+<br/>[LNKDN-posts@thom-wolf: ***FastRTC(STS)***(**ASR/STT** & **TTS**) the real-time(RT) communication library activity](https://www.linkedin.com/posts/thom-wolf_fastrtc-the-real-time-communication-library-activity-7300214946271801344-5xWs/)
  - [HF: Sfaturi pt. un *AI*-*Asistent(VA)* rulat local](https://discuss.huggingface.co/t/advice-for-locally-run-ai-assistant/145000)
  - [HF ***FastRTC(STS)***: The Real-Time Communication Library for Python ](https://huggingface.co/blog/fastrtc)
  - [LangDinNord@zhuanlan.zhihu: ***FastRTC(STS)***, stea în ascensiune open source | 30 de linii de cod pentru interacțiune-vocală(VA)-AI în timp real, metodă de implementare și testare a efectelor](https://zhuanlan.zhihu.com/p/27904999595)
