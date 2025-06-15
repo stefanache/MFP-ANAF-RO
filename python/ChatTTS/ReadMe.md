@@ -10,7 +10,7 @@ Aici o sa vorbim despre implementari/*recunoasterea*/*detectia*/*trascriptia* - 
  - [YT-A local *AI*-*Voice-Assistant(VA)* using LLM=*Granite-7B*, *Ollama*(OL), *InstructLab* and *AlwaysReddy*(proiect *VA*-*LLM*)](https://www.youtube.com/watch?v=inlada3SiNA);
 <br/>[*InstructLab* = LLM - extension/manipulator like langChain(LC)](https://www.redhat.com/en/topics/ai/what-is-instructlab); [*OL*=*server-LLM*](https://ollama.com/); 
  - [YT-100% Local *AI*-*Speech-to-Speech*(**STS=STT+TTS**) with *RAG* - Low Latency | LLM=*Mistral 7B*, *Faster Whisper*(SR) ++](https://www.youtube.com/watch?v=VpB6bxh4deM&ab_channel=AllAboutAI)
- - [medium@vndee.huynh: Build your own *Voice-Assistant(VA)* and run it locally: *Whisper*(SR/**STT**-*API*)) + *Ollama*(OL) + *Bark*](https://medium.com/@vndee.huynh/build-your-own-voice-assistant-and-run-it-locally-whisper-ollama-bark-c80e6f815cba);
+ - [medium@vndee.huynh: Build your own *Voice-Assistant(VA)* and run it locally: *Whisper*(SR/**STT**-*API* de la *OpenAI*)) + *Ollama*(OL) + *Bark*](https://medium.com/@vndee.huynh/build-your-own-voice-assistant-and-run-it-locally-whisper-ollama-bark-c80e6f815cba);
 <br/>[*Bark*= generative-**TTS**-*model*](https://github.com/suno-ai/bark)
  - [medium@mahimairaja: ***FastRTC(STS)*** pt *aplicații-AI-audio-și-video(în timp-real=RT)* | *Ollama*(OL) with *Twilio*(si *ngrok*) — 100% Local Models](https://mahimairaja.medium.com/%EF%B8%8F-fastrtc-ollama-with-twilio-100-local-models-dc0051afe423);
 <br/>[LNKDN-posts@thom-wolf: ***FastRTC(STS)***(**ASR/STT** & **TTS**) the real-time(RT) communication library activity](https://www.linkedin.com/posts/thom-wolf_fastrtc-the-real-time-communication-library-activity-7300214946271801344-5xWs/)
