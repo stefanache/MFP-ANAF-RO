@@ -70,7 +70,7 @@ Caracteristicile principale ale <b><i>FastRTC</i></b>:
  - [medium@abhibitit: *Speech-recognition-Chatbot_and_Query-against-PDF* using *Streamlit*, *Ollama*(OL) and *LangChain*(LC)](https://medium.com/@abhibitit/speech-recognition-chatbot-and-query-against-pdf-using-llama3-using-streamlit-ollama-and-a896e369efec)
  - [YT@LearnDatawithMark: *Moonshine* | Real-Time(RT) Speech-To-Text(**STT**) on your laptop](https://www.youtube.com/watch?v=B93fnV30OyM&ab_channel=LearnDatawithMark);
  <br/>[*Moonshine*=Recunoaștere automată rapidă și precisă a vorbirii(**ASR** / **STT**) pentru dispozitivele-edge/de-margine/finale/end-user](https://news.ycombinator.com/item?id=41960085);
-<br/>[*Moonshine*=**ASR**/**STT**](https://github.com/usefulsensors/moonshine)
+<br/>[*Moonshine*= model de optimizare **ASR**/**STT**(mai bun decât modelul *Whisper*!)](https://github.com/usefulsensors/moonshine)
  - [medium@mahimairaja: ML in  Traffic-Signals](https://mahimairaja.medium.com/traffic-congestion-is-a-major-problem-in-many-cities-around-the-world-causing-significant-delays-98a16571c3f6)
  - [GH@marianBasti: **STT** & **TTS** API](https://github.com/marianbasti/stt-tts-api)...API-uri pentru transcriere(***STT***) și sinteză(***TTS***) vocală care rulează pe FastAPI
  - [...](https://www.google.com/search?sca_esv=496b1dbe5ee65e43&rlz=1C1CHBF_enRO1132RO1132&sxsrf=AE3TifM166-EXUFL4Wv9-L9Xb2h9sAqjOQ:1749887255747&q=python+FastRTC+Ollama+ASR+TTS&udm=2&fbs=AIIjpHxX5k-tONtMCu8aDeA7E5WMuFPIpBqH8jT76nzCHgJGooYgkjkuBCcIF7tD_yCw785wAn4uDdm7fZnSBOBP97iKWxt4z_booKiN8Mh81MZ6RTmnqIv_vfhKdvDN9djxWF1dO06kobjwUcVNvyfeQy4GZ_J7hlCGjo-GHW4su0_B0YAztT0ZP9dvSLFgyykx2wdpzIcSHqFwk_Cq6Pxp4eg_Dzs_jw&sa=X&ved=2ahUKEwiHhpqCtvCNAxV2QPEDHZVxM6o4ChC0qAt6BAgUEAE&biw=1920&bih=911&dpr=1)
