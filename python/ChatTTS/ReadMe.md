@@ -4,6 +4,7 @@ Aici o sa vorbim despre implementari/trascriptia [**TTS/ASR**](https://simple.wi
 
  - [wiki.t-fireFly: **TTS** & **ASR**](https://wiki.t-firefly.com/en/AIBOX-1684X/tts-and-asr.html)
  - [medium@AI: ***TTS*** vs. ***ASR***](https://medium.com/@artificial--intelligence/the-differences-between-asr-and-tts-c85a08269c98)
+ - [nationalDeafCenter-org: ***STTS*** vs. ***ASR***](https://nationaldeafcenter.org/resource-items/asr-vs-stts/)
  - [YT-ChatTTS](https://www.youtube.com/watch?v=MpVNZA6__3o&ab_channel=AllAboutAI)
  - [YT-Build a Voice Assistant with Ollama: Speech-to-Text and TTS](https://www.youtube.com/watch?v=lSqKx3D5iis&ab_channel=IOTStation)
  - [YT-A local AI Voice Assistant using Granite-7B, Ollama, InstructLab and AlwaysReddy](https://www.youtube.com/watch?v=inlada3SiNA)
