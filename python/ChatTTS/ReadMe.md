@@ -8,7 +8,7 @@ Aici o sa vorbim despre implementari/*recunoasterea*/*detectia*/*trascriptia* - 
  - [YT-ChatTTS](https://www.youtube.com/watch?v=MpVNZA6__3o&ab_channel=AllAboutAI)
  - [YT-Build a *Voice-Assistant(VA)* with *Ollama*(OL): Speech-to-Text(**STT/ASR**) and **TTS**](https://www.youtube.com/watch?v=lSqKx3D5iis&ab_channel=IOTStation)
  - [YT-A local *AI*-*Voice-Assistant(VA)* using LLM=*Granite-7B*, *Ollama*(OL), *InstructLab* and *AlwaysReddy*(proiect *VA*-*LLM*)](https://www.youtube.com/watch?v=inlada3SiNA);
-<br/>[*InstructLab* = LLM - extension/manipulator like langChain(LC)](https://www.redhat.com/en/topics/ai/what-is-instructlab); [*OL*=*server-LLM*](https://ollama.com/); 
+<br/>[*InstructLab* = LLM - extension/manipulator like langChain(LC)](https://www.redhat.com/en/topics/ai/what-is-instructlab); [*OL* = *server-LLM*](https://ollama.com/); 
  - [YT-100% Local *AI*-*Speech-to-Speech*(**STS=STT+TTS**) with *RAG* - Low Latency | LLM=*Mistral 7B*, *Faster Whisper*(SR) ++](https://www.youtube.com/watch?v=VpB6bxh4deM&ab_channel=AllAboutAI)
  - [medium@vndee.huynh: Build your own *Voice-Assistant(VA)* and run it locally: *Whisper*(SR/**STT**-*API* de la *OpenAI*)) + *Ollama*(OL) + *Bark*](https://medium.com/@vndee.huynh/build-your-own-voice-assistant-and-run-it-locally-whisper-ollama-bark-c80e6f815cba);
 <br/>[*Bark*= generative-**TTS**-*model*](https://github.com/suno-ai/bark)
@@ -63,7 +63,7 @@ Caracteristicile principale ale <b><i>FastRTC</i></b>:
  - [GH@n1ceh4t: Ollama - **STT** - **TTS**](https://github.com/n1ceh4t/Ollama-STT-TTS)
  - [YT@KARTIS: Convert speech to text(**STT**) in realtime without delay | using *Faster*-*Whisper* module](https://www.youtube.com/watch?v=uimBp3c3Koo&ab_channel=KARTIS)
  - [YT@IOT_Station: Build a Voice-Assistant with *Ollama*: Speech-to-Text(**STT**) and **TTS**_ Episode 2( using ***pyttsx3***) ](https://www.youtube.com/watch?v=cMDHTXobwxk&ab_channel=IOTStation)
- - [YT@=VivekRobotics: J.A.R.V.I.S. completely offline LLM + speech-recognition(**SR/STT**) & speech-synthesis(***TTS***) using python | *Ollama*(OL=server-LLM) | LLM=*Llama3* ~ using ***pyttsx3*** + *Ollama*(OL=server-LLM=Llama3) + *Vosk*(*SR*/**STT**-*API*), without API-keys!](https://www.youtube.com/watch?v=9MFOJC8Cjv4&ab_channel=VivekRobotics)
+ - [YT@=VivekRobotics: J.A.R.V.I.S. completely offline LLM + speech-recognition(**SR/STT**) & speech-synthesis(***TTS***) using python | *Ollama*(OL=server-LLM) | LLM=*Llama3* ~ using ***pyttsx3*** + *Ollama*(OL=*server-LLM*; LLM=*Llama3*) + *Vosk*(*SR*/**STT**-*API*), without API-keys!](https://www.youtube.com/watch?v=9MFOJC8Cjv4&ab_channel=VivekRobotics)
  - [theTechnician-subStack: Build your own *Voice-assistant* and run-it locally: *Whisper*(***STT*** de la OpenAI) + *Ollama(OL=seerver-LLM)*(LC,LMM=Llama2) + suno-*Bark*(**TTS**)](https://thetechnician.substack.com/p/build-your-own-voice-assistant-and); [GH@suno-AI: *Bark*= generative-**TTS**-model](https://github.com/suno-ai/bark)
  - [YT@JesusCopado: Local *Voice-AI-Agent* in ***19 lines*** of Python (FREE & PRIVATE!) | *Kokoro*-**TTS**, ***FastRTC***, *Ollama*(OL=server-LLM=Gemma)](https://www.youtube.com/watch?v=M6vI4Wk-Y4Q&ab_channel=Jes%C3%BAsCopado)
  - [GH@MichielBontenbal: **STT** + *Ollama*(OL) + **TTS**.ipynb and *Ollama*/**STT**+*be*+**TTS**.ipynb](https://github.com/MichielBontenbal/ollama/blob/main/STT%20%2B%20ollama%20%2B%20TTS.ipynb)
