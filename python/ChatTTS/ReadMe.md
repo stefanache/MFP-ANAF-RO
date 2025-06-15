@@ -1,6 +1,6 @@
 Salut
 
-Aici o sa vorbim despre implementari/trascriptia [**TTS/ASR**](https://simple.wikipedia.org/wiki/Text_to_speech)([Text-to-Speach](https://en.wikipedia.org/wiki/Speech_synthesis)) precum si sinteza-vocala(**STT**), cum ar fi:
+Aici o sa vorbim despre implementari/trascriptia [**STT/ASR**](https://simple.wikipedia.org/wiki/Text_to_speech)([Text-to-Speach](https://en.wikipedia.org/wiki/Speech_synthesis)) precum si sinteza-vocala(**TTS**), cum ar fi:
 
  - [wiki.t-fireFly: **TTS** & **ASR**](https://wiki.t-firefly.com/en/AIBOX-1684X/tts-and-asr.html)
  - [medium@AI: ***TTS*** vs. ***ASR***](https://medium.com/@artificial--intelligence/the-differences-between-asr-and-tts-c85a08269c98)
