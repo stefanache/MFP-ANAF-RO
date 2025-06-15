@@ -69,7 +69,7 @@ Caracteristicile principale ale <b><i>FastRTC</i></b>:
  - [GH@MichielBontenbal: **STT** + *Ollama*(OL) + **TTS**.ipynb and *Ollama*/**STT**+*be*+**TTS**.ipynb](https://github.com/MichielBontenbal/ollama/blob/main/STT%20%2B%20ollama%20%2B%20TTS.ipynb)
  - [medium@abhibitit: *Speech-recognition-Chatbot_and_Query-against-PDF* using *Streamlit*, *Ollama*(OL) and *LangChain*(LC)](https://medium.com/@abhibitit/speech-recognition-chatbot-and-query-against-pdf-using-llama3-using-streamlit-ollama-and-a896e369efec)
  - [YT@LearnDatawithMark: *Moonshine* | Real-Time(RT) Speech-To-Text(**STT**) on your laptop](https://www.youtube.com/watch?v=B93fnV30OyM&ab_channel=LearnDatawithMark);
- <br/>[*Moonshine*=Recunoaștere automată rapidă și precisă a vorbirii (ASR) pentru dispozitivele-edge/de-margine/finale/end-user](https://news.ycombinator.com/item?id=41960085);
+ <br/>[*Moonshine*=Recunoaștere automată rapidă și precisă a vorbirii(**ASR** / **STT**) pentru dispozitivele-edge/de-margine/finale/end-user](https://news.ycombinator.com/item?id=41960085);
 <br/>[*Moonshine*=**ASR**/**STT**](https://github.com/usefulsensors/moonshine)
  - [medium@mahimairaja: ML in  Traffic-Signals](https://mahimairaja.medium.com/traffic-congestion-is-a-major-problem-in-many-cities-around-the-world-causing-significant-delays-98a16571c3f6)
  - [GH@marianBasti: **STT** & **TTS** API](https://github.com/marianbasti/stt-tts-api)...API-uri pentru transcriere(***STT***) și sinteză(***TTS***) vocală care rulează pe FastAPI
