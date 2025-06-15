@@ -234,6 +234,8 @@ Caracteristicile principale ale <b><i>FastRTC</i></b>:
       
    pentru a ajuta dezvoltatorii să înceapă rapid.
 
+Un link interesant despre **FastRTC** este si aceasta [***FastRTC-galerie***](https://fastrtc.org/speech_to_text_gallery/) de/cu exemple.
+
 </pre>
 
 <hr/> 
