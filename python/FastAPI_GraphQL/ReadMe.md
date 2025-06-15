@@ -51,7 +51,7 @@ De asemenea,  ***systemd*** oferă înlocuiri pentru diverse *daemon*-uri(compon
  - gestionarea *conexiunilor-de-rețea* și
  - înregistrarea *evenimentelor*.
 
-***systemd*** apare in arhitectura de productie **FastAPI**(ca manager al serverului/serviciului-***ASGI***), prezentata mai sus.
+***systemd*** apare in arhitectura de productie **FastAPI**(ca manager al serverului/serviciului-de transport***ASGI***), prezentata mai sus.
 
 **GraphQL** este un limbaj de interogare pentru *API*-ul dvs. care permite clienților să solicite exact datele de care au nevoie și nimic mai mult. 
 <br/>A fost dezvoltat de ***Facebook*** și este folosit acum de multe companii populare, cum ar fi ***GitHub***, ***AirBnB*** și ***Twitter***.
