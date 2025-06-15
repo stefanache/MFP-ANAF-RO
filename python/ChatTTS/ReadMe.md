@@ -6,17 +6,17 @@ Aici o sa vorbim despre implementari/*recunoasterea*/*detectia*/*trascriptia* - 
  - [medium@AI: ***TTS*** vs. ***ASR***](https://medium.com/@artificial--intelligence/the-differences-between-asr-and-tts-c85a08269c98)
  - [nationalDeafCenter-org: ***STTS*** vs. ***ASR***](https://nationaldeafcenter.org/resource-items/asr-vs-stts/)
  - [YT-ChatTTS](https://www.youtube.com/watch?v=MpVNZA6__3o&ab_channel=AllAboutAI)
- - [YT-Build a *Voice-Assistant(VA)* with *Ollama*(OL): Speech-to-Text(**STT**) and **TTS**](https://www.youtube.com/watch?v=lSqKx3D5iis&ab_channel=IOTStation)
+ - [YT-Build a *Voice-Assistant(VA)* with *Ollama*(OL): Speech-to-Text(**STT/ASR**) and **TTS**](https://www.youtube.com/watch?v=lSqKx3D5iis&ab_channel=IOTStation)
  - [YT-A local *AI*-*Voice-Assistant(VA)* using LLM=*Granite-7B*, *Ollama*(OL), *InstructLab* and *AlwaysReddy*(proiect *VA*-*LLM*)](https://www.youtube.com/watch?v=inlada3SiNA);
 <br/>[*InstructLab*](https://www.redhat.com/en/topics/ai/what-is-instructlab); [*OL*=*server-LLM*](https://ollama.com/); 
- - [YT-100% Local *AI*-*Speech-to-Speech*(**STS**) with *RAG* - Low Latency | LLM=*Mistral 7B*, *Faster Whisper*(SR) ++](https://www.youtube.com/watch?v=VpB6bxh4deM&ab_channel=AllAboutAI)
+ - [YT-100% Local *AI*-*Speech-to-Speech*(**STS=STT+TTS**) with *RAG* - Low Latency | LLM=*Mistral 7B*, *Faster Whisper*(SR) ++](https://www.youtube.com/watch?v=VpB6bxh4deM&ab_channel=AllAboutAI)
  - [medium@vndee.huynh: Build your own *Voice-Assistant(VA)* and run it locally: *Whisper*(SR/**STT**-*API*)) + *Ollama*(OL) + *Bark*](https://medium.com/@vndee.huynh/build-your-own-voice-assistant-and-run-it-locally-whisper-ollama-bark-c80e6f815cba);
 <br/>[*Bark*= generative-**TTS**-*model*](https://github.com/suno-ai/bark)
- - [medium@mahimairaja: ***FastRTC*** pt *aplicații-AI-audio-și-video(în timp-real=RT)* | *Ollama*(OL) with *Twilio*(si *ngrok*) — 100% Local Models](https://mahimairaja.medium.com/%EF%B8%8F-fastrtc-ollama-with-twilio-100-local-models-dc0051afe423);
+ - [medium@mahimairaja: ***FastRTC(STS)*** pt *aplicații-AI-audio-și-video(în timp-real=RT)* | *Ollama*(OL) with *Twilio*(si *ngrok*) — 100% Local Models](https://mahimairaja.medium.com/%EF%B8%8F-fastrtc-ollama-with-twilio-100-local-models-dc0051afe423);
 <br/>[LNKDN-posts@thom-wolf: ***FastRTC***(**ASR/STT** & **TTS**) the real-time(RT) communication library activity](https://www.linkedin.com/posts/thom-wolf_fastrtc-the-real-time-communication-library-activity-7300214946271801344-5xWs/)
  - [HF: Sfaturi pt. un *AI*-*Asistent(VA)* rulat local](https://discuss.huggingface.co/t/advice-for-locally-run-ai-assistant/145000)
- - [HF ***FastRTC***: The Real-Time Communication Library for Python ](https://huggingface.co/blog/fastrtc)
- - [LangDinNord@zhuanlan.zhihu: ***FastRTC***, stea în ascensiune open source | 30 de linii de cod pentru interacțiune-vocală(VA)-AI în timp real, metodă de implementare și testare a efectelor](https://zhuanlan.zhihu.com/p/27904999595)
+ - [HF ***FastRTC(STS)***: The Real-Time Communication Library for Python ](https://huggingface.co/blog/fastrtc)
+ - [LangDinNord@zhuanlan.zhihu: ***FastRTC(STS)***, stea în ascensiune open source | 30 de linii de cod pentru interacțiune-vocală(VA)-AI în timp real, metodă de implementare și testare a efectelor](https://zhuanlan.zhihu.com/p/27904999595)
  
 <details>
 <summary>...detalii despre ... Caracteristicile principale ale <b><i>FastRTC</i></b> ...</summary> 
