@@ -109,7 +109,7 @@ In aceasta sectiune ne vom ocupa de [**FastAPI**](https://fastapi.tiangolo.com/)
  - [geeks4geeks: install **FastAPI** and run your first **FastAPI**-server on Windows](https://www.geeksforgeeks.org/install-fastapi-and-run-your-first-fastapi-server-on-windows/):
 
 <details>
-<summary> ...Q&A details...</summary>
+<summary> ...Q&A - <b>FastAPI(ASGI-server)</b> - instalation details...</summary>
 
 <br/>
 
