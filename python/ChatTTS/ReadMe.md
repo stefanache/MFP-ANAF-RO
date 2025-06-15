@@ -1,6 +1,6 @@
 Salut
 
-Aici o sa vorbim despre implementari/recunoasterea/detectia/trascriptia-vocala(**STT/ASR**=[*Speach-Recognition*](https://en.wikipedia.org/wiki/Speech_recognition)) precum si sinteza-vocala([**TTS**](https://simple.wikipedia.org/wiki/Text_to_speech) = [*Text-to-Speach*](https://en.wikipedia.org/wiki/Speech_synthesis))), cum ar fi:
+Aici o sa vorbim despre implementari/recunoasterea/detectia/trascriptia-vocala(**STT*** = *Speech-To-Text* / ***ASR**=[*Audio-Speach-Recognition*](https://en.wikipedia.org/wiki/Speech_recognition)), precum si sinteza-vocala([**TTS**](https://simple.wikipedia.org/wiki/Text_to_speech) = [*Text-To-Speach*](https://en.wikipedia.org/wiki/Speech_synthesis))), cum ar fi:
 
  - [wiki.t-fireFly: **TTS** & **ASR**](https://wiki.t-firefly.com/en/AIBOX-1684X/tts-and-asr.html)
  - [medium@AI: ***TTS*** vs. ***ASR***](https://medium.com/@artificial--intelligence/the-differences-between-asr-and-tts-c85a08269c98)
