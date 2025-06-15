@@ -235,7 +235,6 @@ Caracteristicile principale ale <b><i>FastRTC</i></b>:
    pentru a ajuta dezvoltatorii să înceapă rapid.
 
 Despre ***FastRTC*** puteti siti si acest [articol](https://www.ai-shift.co.jp/techblog/5680)
-
 **FastRTC** este o bibliotecă pentru construirea de aplicații de *streaming vocal și video* în timp-real(RT) în Python.
 Pentru a crea o aplicație de inteligență-artificială(AI) în timp-real(RT), precum un voicebot, aveți nevoie de tehnologii precum 
 *WebRTC* și *websockets*. 
@@ -245,7 +244,7 @@ dar când vine vorba de cod-*Python* care utilizează *WebRTC* sau *websockets*,
 **FastRTC** își propune să elimine barierele în calea dezvoltării aplicațiilor de inteligență-artificială(AI) în timp-real(RT) în 
 *Python*, în special pentru inginerii nespecialiști în învățarea-automată(ML).
 
-Un alt link interesant despre **FastRTC** este si aceasta [***FastRTC-galerie***](https://fastrtc.org/speech_to_text_gallery/) de/cu exemple.
+Un alt link interesant despre **FastRTC** este si aceasta [***FastRTC-galerie***](https://fastrtc.org/speech_to_text_gallery/) de/cu [exemple](https://note.com/tametaka1/n/nd5d5ff4a4010).
 
 </pre>
 
