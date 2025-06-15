@@ -245,6 +245,7 @@ Un link interesant despre **FastRTC** este si aceasta [***FastRTC-galerie***](ht
 </details>
 
  - [tiangolo-FastAPI-deployment-manually: Run a **FastAPI**-Server Manually](https://fastapi.tiangolo.com/deployment/manually/)
+ - [medium@the-AI-forum: Building a Real-Time Voice Assistant Application with **FastAPI**, Groq and OpenAI TTS Api](https://medium.com/the-ai-forum/building-a-real-time-voice-assistant-application-with-fastapi-groq-and-openai-tts-api-a8a8fe38c315)
  - [...](https://www.google.com/search?sca_esv=e8d80f20730efe45&rlz=1C1CHBF_enRO1132RO1132&sxsrf=AHTn8zrH1441tkETzrmbU4dqAEckC7ivBg:1743781077100&q=FastAPI+nginx+graphQL+SSE+Redis&udm=2&fbs=ABzOT_BYhiZpMrUAF0c9tORwPGlsodhGu4F1UEhEeTehlBu7054EL_QJMdNdFZCQTI4PnEhBMh4C_0EHSVUHxJLcclisNm4b4EldR9h-pvMPn6xw2y2G7sjuE9dhTjGAdCf-64t1-bdWmIq-Lt3WphpmsUQjNUmoTzATkh99SjBMl9gfohc5yMM211WIg2yZwLTCX72_HMe-vRp4eFhBfs-YXqvr3mHDkw&sa=X&ved=2ahUKEwj4oKrd2r6MAxX9Q_EDHQIOBx8QtKgLegQIEBAB&biw=1735&bih=721&dpr=1)
 
 <br/>
