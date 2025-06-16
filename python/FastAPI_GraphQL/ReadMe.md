@@ -1,8 +1,8 @@
 ***Salut***!
 
-Pentru lansarea in productie a unui [**API**-*server*](https://fastapi.tiangolo.com/deployment/manually/#server-machine-and-server-program), inainte de orice, ai nevoie de un cadru-de lucru(asa cum este [***FastAPI***](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/FastAPI_GraphQL/benchmarks.jpeg), server-**API** care in mod obligatoriu trebuie sa fie acompaniat de un ***ASGI***-server, gen [*Uvicorn*](https://www.uvicorn.org/))... care sa *expuna* utilizatorilor-web dar mai ales sa *controleze* resursele *Aplicatiei* noastre(API-ul APP-ului fiind de fapt livratorul de resurse-locale catre utilizatorii sai, aflati la distanta/in internet!).
+Pentru lansarea in productie a unui [**Web-API**-*server*](https://fastapi.tiangolo.com/deployment/manually/#server-machine-and-server-program), inainte de orice, ai nevoie de un cadru-de lucru(asa cum este [***FastAPI***](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/FastAPI_GraphQL/benchmarks.jpeg), server-**Web-API** care in mod obligatoriu trebuie sa fie acompaniat de un ***ASGI***-server, gen [*Uvicorn*](https://www.uvicorn.org/))... care sa *expuna* utilizatorilor-web dar mai ales sa *controleze* resursele *Aplicatiei* noastre(API-ul APP-ului fiind de fapt livratorul de resurse-locale catre utilizatorii sai, aflati la distanta/in internet!).
 
-Resursele controlate/deservite de catre **API**-ul *aplicatiei/proiectului* nostr[e/u] pot fi variate(in functie de specificul *Aplicatiei*):
+Resursele controlate/deservite de catre **Web-API**-ul *aplicatiei/proiectului* nostr[e/u] pot fi variate(in functie de specificul *Aplicatiei*):
 
  - *Baze-de-date*, gestionate/interogate prin cereri-[*SQL*](https://jacob-t-graham.com/2024/03/01/learning-fastapi-and-sqlmodel-for-api-development/) sau prin cereri-[*GraphQL*](https://thepythoncode.com/article/build-a-graphql-api-with-fastapi-strawberry-and-postgres-python)
  - *Fisiere*(upload and download de fisiere cu/fara server-de-fisiere=*fileServer*)
@@ -299,7 +299,7 @@ Un alt link interesant despre **FastRTC** este si aceasta [***FastRTC-galerie***
  - [GH@tadata-org: **FastAPI**-*MCP*](https://github.com/tadata-org/fastapi_mcp) ...
    <br/>...Expuneți punctele-finale(end-point-urile) **FastAPI** ca instrumente *MCP*(Model Context Protocol), cu *Auth*!
  - [useLessAI: Implementing MCP(FastMCP) in a **FastAPI**-Application](https://uselessai.in/implementing-mcp-architecture-in-a-fastapi-application-f513989b65d9)
- - [YT@TechWithTim: How To Build an ***API*** with Python (*LLM*-Integration, **FastAPI**, *Ollama* = OL=local-LLM-server & More)](https://www.youtube.com/watch?v=cy6EAp4iNN4&ab_channel=TechWithTim)
+ - [YT@TechWithTim: How To Build an ***Web-API*** with Python (*LLM*-Integration, **FastAPI**, *Ollama* = OL=local-LLM-server & More)](https://www.youtube.com/watch?v=cy6EAp4iNN4&ab_channel=TechWithTim)
  - [blog@marzeta: FastAPI - Hitting the Performance Jackpot. Part 1 - Asynchronicity(with *gunicorn*=*WSGI-server*)](https://blog.marzeta.pl/fastapi-hitting-the-performance-jackpot-part-1-asynchronicity/)
  - [python3-info: **FastAPI**-architecture](https://python3.info/fastapi/fastapi/about-architecture.html)
  - [medium@rsalgare95: Writing an ***ASGI***-server from scratch and using it with **FastAPI**](https://medium.com/@rsalgare95/writing-an-asgi-server-from-scratch-and-using-it-with-fastapi-21ec1191f3c7)
