@@ -190,7 +190,7 @@ In aceasta sectiune-explicativa ne vom ocupa de [**FastAPI**](https://fastapi.ti
  
  [( Prof Ai | Devpost )](https://devpost.com/software/prof-ai)
 
-   <br/>**FastAPI** acceptă servere API-asincrone și poate fi rulat folosind [servere-*ASGI*](https://en.wikipedia.org/wiki/Asynchronous_Server_Gateway_Interface), cum ar fi *uvicorn*(ex.*ASGI*-server).
+   <br/>**FastAPI** acceptă servere API-asincrone și poate fi rulat folosind [servere-*ASGI*](https://en.wikipedia.org/wiki/Asynchronous_Server_Gateway_Interface), cum ar fi *uvicorn*(care este un *ASGI*-server).
    <br/>Acest lucru(faptul ca ***FastAPI*** ruleaza in tandem cu *ASGI*-server=server-asynch) permite o inalta-performanță-de-*viteza*(*rapiditate*) și o procesare-*asincronă*(*fara retinerea atentiei* de catre un *singur-partener* de colaborare/conversatie!).
    <br/>Documentația automată, interactivă API este, de asemenea, furnizată(cf specificatiei Open-API) pentru a ajuta dezvoltatorii să înțeleagă și să utilizeze cu ușurință API-ul.
    <br/>**FastAPI** funcționează bine cu următoarele cadre-de-aplicații web(web-apps-frameworks): [*Flask*](https://en.wikipedia.org/wiki/Flask_(web_framework)) și [*Django*](https://en.wikipedia.org/wiki/Django_(web_framework)).
