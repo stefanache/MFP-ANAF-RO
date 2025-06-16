@@ -189,12 +189,13 @@ In aceasta sectiune-explicativa ne vom ocupa de [**FastAPI**](https://fastapi.ti
 
 <a href = "https://daddynkidsmakers.blogspot.com/2024/04/fastapi-open-api.html"><img src="https://blogger.googleusercontent.com/img/a/AVvXsEgl-1NYO89p82JNrjYFUqHPVeS7mJlBixf-_l6CsOt506LaV08PkHMPyXvRIURtr0-m9vxeuJGsALhy7WdkQzLRKDwPnA3ueX0OXMuUo6JVBN8KTFSQqmx3DwAQ_CESjvo7DdFWlMBznhdzyRunD1f-sYJpwP_j_NLVy8GoI9UvmhnaFyEkLcRkftOXTLdU=w400-h225">Arhitectura acestui caz-de-utilizare **FastAPI**</img></a> 
 
-  - [daddYnKidsMaker-blogspot: **FastAPI** Open-API](https://daddynkidsmakers.blogspot.com/2024/04/fastapi-open-api.html))
+  Caz-utilizare:  [daddYnKidsMaker-blogspot: **FastAPI** Open-API](https://daddynkidsmakers.blogspot.com/2024/04/fastapi-open-api.html))
     
   - [Langchain(LC)](https://en.wikipedia.org/wiki/LangChain)
   - [aiohttp](https://docs.aiohttp.org/en/stable/)
-  - [uvicorn](https://www.uvicorn.org/)
+  - [uvicorn](https://www.uvicorn.org/)(***ASGI***-server)
   - [Co:here/Cohere](https://en.wikipedia.org/wiki/Cohere)
+  - [Chroma](https://www.trychroma.com/)-VDB(baza de date vectoriala)
   - [D-ID](https://www.d-id.com/about-us/)
   - [Marp](https://github.com/yhatt/marp/wiki)
 
