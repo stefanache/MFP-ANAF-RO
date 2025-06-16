@@ -36,7 +36,7 @@ Pana sa ajungem sa [intelegem](https://www.youtube.com/watch?v=cy6EAp4iNN4&ab_ch
 
 ***NGINX*** apare in arhitectura de productie **FastAPI**, ca intermediar-invers/web-server/distribuitor/scalator/inaintator/pasator=tranferator de mesaje catre serverul/serviciul-***ASGI***, prezentata mai sus.
 
-Ratiunea existentei acestuia(**NGINX**-ului ca **Reverse-Proxy**) in aceasta arhitectura(expusa mai sus) este acea de a putea *scala/distribui*(de a distribui cererea-utilizator catre unul dintre webServere-le din pool-ul de servere-web pe care le utilizam/le avem la dispozitie  in procesul de productie)
+Ratiunea existentei acestuia(**NGINX**-ului ca **Reverse-Proxy**) in aceasta arhitectura(expusa mai sus) este acea de a putea *scala/distribui*(de a distribui cererea-utilizator catre unul dintre *webServere*-le din pool-ul-de-*servere-web* pe care le utilizam/le avem la dispozitie  in procesul de productie)
 
 [***systemd***](https://en.wikipedia.org/wiki/Systemd) este o suită-software care oferă o gamă largă de componente de sistem pentru sistemele-de-operare(OS) Linux
 
@@ -60,7 +60,7 @@ De asemenea,  ***systemd*** oferă înlocuiri pentru diverse *daemon*-uri(compon
 <br/>Una dintre caracteristicile cheie/importante ale [**FastAPI**](https://medium.com/@ramanbazhanau/preparing-fastapi-for-production-a-comprehensive-guide-d167e693aa2b) este suportul pentru *documentarea-automată* folosind *OpenAPI* și/sau *Swagger-UI*.
  
 *Ce este [**Uvicorn**](https://www.geeksforgeeks.org/fastapi-uvicorn/)?*<br/>
-**UVICORN** este o implementare de *server-web*/*webserver* [***ASGI***](https://mirror.xyz/0xA1d9f681B25C14C1eE7B87f1CF102E73cA3ad4d9/n0BdWSd_GdP_Vfeped02zBcNV5XbzITThILlRditoPk) (Asynchronous Server Gateway Interface) adaptată pentru Python . <br/>Înainte de ***ASGI***, lui Python îi lipsea o *interfață-minimă-de-server*(de nivel scăzut) pentru *cadrele-de-lucru-asincrone*(asa cum este *FastAPI*). <br/>Specificația ***ASGI*** acționează ca o punte/poarta/zona-de-trecere/legatura(gateway), permițând crearea unui set comun de instrumente utilizabile în toate *cadrele-de-lucru-asincrone*(asa cum este *FastAPI*). <br/>**UVICORN** oferă în prezent suport pentru *HTTP/1.1* și *WebSockets*.<br/>
+**UVICORN** este o implementare de *server-web*/*webServer* [***ASGI***](https://mirror.xyz/0xA1d9f681B25C14C1eE7B87f1CF102E73cA3ad4d9/n0BdWSd_GdP_Vfeped02zBcNV5XbzITThILlRditoPk) (Asynchronous Server Gateway Interface) adaptată pentru Python . <br/>Înainte de ***ASGI***, lui Python îi lipsea o *interfață-minimă-de-server*(de nivel scăzut) pentru *cadrele-de-lucru-asincrone*(asa cum este *FastAPI*). <br/>Specificația ***ASGI*** acționează ca o punte/poarta/zona-de-trecere/legatura(gateway), permițând crearea unui set comun de instrumente utilizabile în toate *cadrele-de-lucru-asincrone*(asa cum este *FastAPI*). <br/>**UVICORN** oferă în prezent suport pentru *HTTP/1.1* și *WebSockets*.<br/>
 **Uvicorn** este un *server-web* ***ASGI*** *super-rapid*. 
 <br/>**Uvicorn** rulează cod-Python asincron bazat pe [**uvloop**](https://mirror.xyz/0xA1d9f681B25C14C1eE7B87f1CF102E73cA3ad4d9/n0BdWSd_GdP_Vfeped02zBcNV5XbzITThILlRditoPk) într-un *singur-proces*(**Uvicorn** si **uvloop** formeaza impreuna un *singur-proces(unitar)*).
 
@@ -85,7 +85,7 @@ Aplicatia-**FastAPI** primeste mesajul-care-contine *cererea-utilizator* de la s
 *Concluzie*:
 <br/>**FastAPI** și ***ASGI*** sunt concepte înrudite, dar distincte. 
 <br/>**FastAPI** este un framework-web Python modern și de înaltă performanță pentru construirea de API-uri și utilizează ***ASGI***(Asynchronous Server Gateway Interface) pentru gestionarea *asincronă* a cererilor.
-<br/>***ASGI*** este o specificație pentru servere și aplicații web(webServere si webAapps) *asincrone*, care permite gestionarea eficientă a cererilor concurente, fiind utilă în special pentru funcții în *timp-real*(RT), cum ar fi *WebSockets*. 
+<br/>***ASGI*** este o specificație pentru *servere* și *aplicații* web(*webServere* si *webApps*) *asincrone*, care permite gestionarea eficientă a cererilor concurente, fiind utilă în special pentru funcții în *timp-real*(RT), cum ar fi *WebSockets*. 
 <br/>**FastAPI** utilizează ***ASGI***, în special prin servere precum ***Uvicorn***, pentru a-și atinge *viteza* și *scalabilitatea*. 
 
 Asadar, in arhitectura de mai sus, aplicatia-**FastAPI** are rolul de .../este de fapt... *operatorul/executorul* cererii-utilizator(ex. *cerere-SQL*).
@@ -146,7 +146,7 @@ In aceasta sectiune ne vom ocupa de [**FastAPI**](https://fastapi.tiangolo.com/)
 
 
 ***Note***: 
-<br/>alternatively, for running the **ASGI**-webserver, you can download the files ***main.py*** and ***_RUN.bat*** and then, run that second file(***_RUN.bat***) under *command-prompt(CLI-shell)*! 
+<br/>alternatively, for running the **ASGI**-*webServer*, you can download the files ***main.py*** and ***_RUN.bat*** and then, run that second file(***_RUN.bat***) under *command-prompt(CLI-shell)*! 
 
 <br/>
 
