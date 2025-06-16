@@ -194,8 +194,10 @@ In aceasta sectiune-explicativa ne vom ocupa de [**FastAPI**](https://fastapi.ti
   - [Langchain(LC)](https://en.wikipedia.org/wiki/LangChain)(*LLM-framework* = *LLM-extension*)
   - [aiohttp](https://docs.aiohttp.org/en/stable/)(*Client*/*Server*-*HTTP*-*asincron* pentru [*asyncio*](https://docs.python.org/3/library/asyncio.html) și *Python*)
   - [uvicorn](https://www.uvicorn.org/)(***ASGI***-server)
-  - [Co:here/Cohere](https://en.wikipedia.org/wiki/Cohere)
-  - [Chroma](https://www.trychroma.com/)-VDB(baza de date vectoriala)
+  - [Co:here/Cohere](https://en.wikipedia.org/wiki/Cohere);
+    <br/>*Cohere Inc.* is a Canadian multinational technology company focused on artificial-intelligence(AI) for the enterprise,
+    <br/>specializing in large-language-models(*LLM*s).
+  - [Chroma](https://www.trychroma.com/)- Chroma este o *VDB*(Baza-de-Date Vectoriala=*VDB*)
   - [D-ID](https://www.d-id.com/about-us/)
   - [Marp](https://github.com/yhatt/marp/wiki)
 
