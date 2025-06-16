@@ -191,8 +191,8 @@ In aceasta sectiune-explicativa ne vom ocupa de [**FastAPI**](https://fastapi.ti
 
   Caz-utilizare:  [daddYnKidsMaker-blogspot: **FastAPI** Open-API](https://daddynkidsmakers.blogspot.com/2024/04/fastapi-open-api.html))
     
-  - [Langchain(LC)](https://en.wikipedia.org/wiki/LangChain)(LLM-framewok = LLM-extension)
-  - [aiohttp](https://docs.aiohttp.org/en/stable/)
+  - [Langchain(LC)](https://en.wikipedia.org/wiki/LangChain)(*LLM-framework* = *LLM-extension*)
+  - [aiohttp](https://docs.aiohttp.org/en/stable/)(*Client*/*Server*-*HTTP*-*asincron* pentru [*asyncio*](https://docs.python.org/3/library/asyncio.html) și *Python*)
   - [uvicorn](https://www.uvicorn.org/)(***ASGI***-server)
   - [Co:here/Cohere](https://en.wikipedia.org/wiki/Cohere)
   - [Chroma](https://www.trychroma.com/)-VDB(baza de date vectoriala)
