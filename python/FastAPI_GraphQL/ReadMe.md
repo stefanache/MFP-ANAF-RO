@@ -59,7 +59,7 @@ De asemenea,  ***systemd*** oferă înlocuiri pentru diverse *daemon*-uri(compon
 [**FastAPI**](https://python3.info/fastapi/fastapi/about-architecture.html) este un cadru-web modern, rapid (de înaltă performanță), pentru construirea de *API*-uri folosind o anumita versiune de ***Python(de ex. cu Python 3.6+)***, deci este bazat pe indicii-standard-de tip-*Python*. 
 <br/>Una dintre caracteristicile cheie/importante ale [**FastAPI**](https://medium.com/@ramanbazhanau/preparing-fastapi-for-production-a-comprehensive-guide-d167e693aa2b) este suportul pentru *documentarea-automată* folosind *OpenAPI* și/sau *Swagger-UI*.
  
- <br/>*Ce este [**Uvicorn**](https://www.geeksforgeeks.org/fastapi-uvicorn/)?*<br/>
+*Ce este [**Uvicorn**](https://www.geeksforgeeks.org/fastapi-uvicorn/)?*<br/>
 **UVICORN** este o implementare de server-web/webserver [***ASGI***](https://mirror.xyz/0xA1d9f681B25C14C1eE7B87f1CF102E73cA3ad4d9/n0BdWSd_GdP_Vfeped02zBcNV5XbzITThILlRditoPk) (Asynchronous Server Gateway Interface) adaptată pentru Python . <br/>Înainte de ***ASGI***, lui Python îi lipsea o interfață minimă de server de nivel scăzut pentru cadrele asincrone(asa cum este *FastAPI*). <br/>Specificația ***ASGI*** acționează ca o punte/poarta/zona-de-trecere/legatura(gateway), permițând crearea unui set comun de instrumente utilizabile în toate cadrele asincrone(asa cum este *FastAPI*). <br/>**UVICORN** oferă în prezent suport pentru *HTTP/1.1* și *WebSockets*.<br/>
 **Uvicorn** este un server-web ***ASGI*** super rapid. 
 <br/>**Uvicorn** rulează cod-Python asincron bazat pe [**uvloop**](https://mirror.xyz/0xA1d9f681B25C14C1eE7B87f1CF102E73cA3ad4d9/n0BdWSd_GdP_Vfeped02zBcNV5XbzITThILlRditoPk) într-un singur proces(**Uvicorn** si **uvloop** formeaza impreuna un singur proces).
