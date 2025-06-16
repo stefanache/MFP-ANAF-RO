@@ -1,6 +1,6 @@
 ***Salut***!
 
-Pentru lansarea in productie a unui [**API**-*server*](https://fastapi.tiangolo.com/deployment/manually/#server-machine-and-server-program), inainte de orice, ai nevoie de un cadru-de lucru(asa cum este [***FastAPI***](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/FastAPI_GraphQL/benchmarks.jpeg), server-**API** care in mod obligatoriu trebuie sa fie acompaniat de un ***ASGI***-server, gen *Uvicorn*)... care sa *expuna* utilizatorilor-web dar si sa *controleze* resursele *Aplicatiei* noastre(API-ul APP-ului fiind de fapt livratorul de resurse-locale catre utilizatorii sai, aflati la distanta/in internet!).
+Pentru lansarea in productie a unui [**API**-*server*](https://fastapi.tiangolo.com/deployment/manually/#server-machine-and-server-program), inainte de orice, ai nevoie de un cadru-de lucru(asa cum este [***FastAPI***](https://github.com/stefanache/MFP-ANAF-RO/blob/main/python/FastAPI_GraphQL/benchmarks.jpeg), server-**API** care in mod obligatoriu trebuie sa fie acompaniat de un ***ASGI***-server, gen *Uvicorn*)... care sa *expuna* utilizatorilor-web dar mai ales sa *controleze* resursele *Aplicatiei* noastre(API-ul APP-ului fiind de fapt livratorul de resurse-locale catre utilizatorii sai, aflati la distanta/in internet!).
 
 Resursele controlate/deservite de catre **API**-ul *aplicatiei/proiectului* nostr[e/u] pot fi variate(in functie de specificul *Aplicatiei*):
 
