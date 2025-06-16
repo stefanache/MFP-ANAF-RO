@@ -9,7 +9,7 @@ Resursele controlate/deservite de catre **API**-ul *aplicatiei/proiectului* nost
  - diverse alte *resurse-AI* expuse via unui *server-MCP*(deci **FastAPI** va  trebui sa includa un *client-MCP*),
    <br/>Baze de date vectoriale(*VDB*) dar si ...
    <br/>*resurse-ML/DL/DNN/CNN...*
- - ...
+ - [...](https://docs.bentoml.com/en/latest/build-with-bentoml/asgi.html)
  
 
 As dori sa incercam sa intelegem urmatoarea [poveste](https://github.com/natthasath/demo-python-fastapi-uvicorn): [Preparing FastAPI for Production: A Comprehensive Guide](https://medium.com/@ramanbazhanau/preparing-fastapi-for-production-a-comprehensive-guide-d167e693aa2b)
