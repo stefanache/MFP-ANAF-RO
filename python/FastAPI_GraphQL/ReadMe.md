@@ -316,7 +316,7 @@ Un alt link interesant despre **FastRTC** este si aceasta [***FastRTC-galerie***
  - [camKode-posts: **FastAPI** ~ Building High-Performance *RESTful*-APIs with Python](https://camkode.com/posts/fastapi-building-high-performance-restful-apis-with-python)
  - [sunScrapers-blog: How To Fuse FastAPI with Django in an Elegant Way](https://sunscrapers.com/blog/fastapi-and-django-a-guide-to-elegant-integration/)
  - [vonage-developer-blog: How Python's *WSGI* vs. ***ASGI*** is Like 'Baking-a-Cake'](https://developer.vonage.com/cn/blog/how-wsgi-vs-asgi-is-like-baking-a-cake)
- - [christopherGS-py-2021: **FastAPI** vs *Flask* - The Complete Guide ](https://christophergs.com/python/2021/06/16/python-flask-fastapi/)
+ - [christopherGS-py-2021: **FastAPI** vs *Flask* - The Complete Guide ](https://christophergs.com/python/2021/06/16/python-flask-fastapi/); [comparision](https://unfoldai.com/fastapi-vs-flask/)
  - testDriven-blog: Moving from *Flask* to **FastAPI**](https://testdriven.io/blog/moving-from-flask-to-fastapi/)
  - [geeks4geeks-py: MultiProcessing(process=downloading) in **FastAPI**](https://www.geeksforgeeks.org/python/multiprocessing-in-fastapi/)
  - [goFastMCP-deployment-***ASGI***: Integrating *FastMCP* in ***ASGI***-*Applications*](https://gofastmcp.com/deployment/asgi)
