@@ -22,7 +22,7 @@ O prima observatie ar fi ca in imagine/figura *nu-apare* **GraphQL**, dar cu put
 O a 2-a observatie ar fi ca in schema-arhitecturala apare pe fiecare segment-arhitectural o monitorizare a procesului-de-productie/lucru.
 De aceasta parte de monitorizare vom face abstractie(nu ne vom ocupa) deoarece in acest topic doresc sa ma concentrez *doar* pe clarificarea conceptelor(*POC*) **FastAPI** si **GraphQL**.
 
-Pana sa ajungem sa intelegem aceasta imagine as dori sa pregatim/explicam cativa termeni ai discutiei:
+Pana sa ajungem sa intelegem aceasta imagine-arhitectula(prezentata mai sus!), as dori ca mai intai sa pregatim/explicam cativa termeni ai discutiei:
 
 <details>
 <summary>...Termeni-pregatitori: ...<i>NGINX</i>(<i>Reverse-Proxy</i>), <i>NGINX</i>(<i>daemonul</i>-<i>manager-de-system-si-servicii</i> al <i>OS</i>-urilor din familia <i>Linux</i>), <b>GraphQL</b>, <b>FastAPI</b>(<i>uvicorn</i>, <i>ASGI</i>),...detalii </summary>
