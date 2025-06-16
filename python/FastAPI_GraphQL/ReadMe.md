@@ -109,7 +109,7 @@ Asadar, in arhitectura de mai sus, aplicatia-**FastAPI** are rolul de .../este d
 In aceasta sectiune ne vom ocupa de [**FastAPI**](https://fastapi.tiangolo.com/) si [**GraphQL**](https://graphql.org/) si voi expune cateva [link](https://www.google.com/search?q=FastAPI+GraphQL&sca_esv=7bada7996407e364&rlz=1C1CHBF_enRO1132RO1132&sxsrf=AHTn8zpMdy_igG3Q1yx_vq9RrAQpc5Yplg%3A1743252620260&ei=jOznZ4fLD7yHxc8Ppva_-Q8&ved=0ahUKEwiHwbyJqq-MAxW8Q_EDHSb7L_8Q4dUDCBA&uact=5&oq=FastAPI+GraphQL&gs_lp=Egxnd3Mtd2l6LXNlcnAiD0Zhc3RBUEkgR3JhcGhRTDIKECMYgAQYJxiKBTIGEAAYBxgeMgYQABgHGB4yCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyBBAAGB4yBhAAGAoYHjIEEAAYHjIEEAAYHki-HVAAWJcUcAB4AZABAJgBkgGgAYMIqgEDMC44uAEDyAEA-AEBmAIIoAKbCMICBxAjGLACGCfCAgcQABiABBgNwgIIEAAYBxgKGB7CAggQABgTGAcYHsICChAAGBMYBxgKGB6YAwCSBwMwLjigB9Q3&sclient=gws-wiz-serp)-uri, legate de aceste 2 subiecte, pe care le-am [intalnit](https://fastapi.tiangolo.com/how-to/graphql/) si le-am considerat [interesante](https://medium.com/@ryk.kiel/graphql-and-fastapi-the-ultimate-combination-for-building-apis-with-python-f4391bf5505c):
 
 <details>
- <summary>...Link-uri interesante legate de <b>FastAPI</b> si/sau <b>GraphQL</b>...dar/si nu numai(FastRTC,FastMCP...)</summary>
+ <summary>...Link-uri interesante legate de <b>FastAPI</b> si/sau <b>GraphQL</b>...dar/si nu numai(FastRTC,FastMCP,FastAgency(multi-AI-Agents),...)</summary>
 
  <br/>
  <hr/>
@@ -322,6 +322,7 @@ Un alt link interesant despre **FastRTC** este si aceasta [***FastRTC-galerie***
  - [goFastMCP-deployment-***ASGI***: Integrating *FastMCP* in ***ASGI***-*Applications*](https://gofastmcp.com/deployment/asgi)
  - [lucentInnovation-blogs-technologyPosts: *Flask* vs.**FastAPI** vs.*Django*](https://www.lucentinnovation.com/blogs/technology-posts/flask-vs-fastapi-vs-django)
  - [eliasBrange-posts: Deploy **FastAPI** on *AWS* Part.1 ~ *Lambda* & *API-Gateway(API-GW)*](https://www.eliasbrange.dev/posts/deploy-fastapi-on-aws-part-1-lambda-api-gateway/)
+ - [*FastAgency*-AI-latest-user~guide: Getting Started(see **FastAPI**-integration)](https://fastagency.ai/latest/user-guide/getting-started/)
  - [...](https://www.google.com/search?sca_esv=e8d80f20730efe45&rlz=1C1CHBF_enRO1132RO1132&sxsrf=AHTn8zrH1441tkETzrmbU4dqAEckC7ivBg:1743781077100&q=FastAPI+nginx+graphQL+SSE+Redis&udm=2&fbs=ABzOT_BYhiZpMrUAF0c9tORwPGlsodhGu4F1UEhEeTehlBu7054EL_QJMdNdFZCQTI4PnEhBMh4C_0EHSVUHxJLcclisNm4b4EldR9h-pvMPn6xw2y2G7sjuE9dhTjGAdCf-64t1-bdWmIq-Lt3WphpmsUQjNUmoTzATkh99SjBMl9gfohc5yMM211WIg2yZwLTCX72_HMe-vRp4eFhBfs-YXqvr3mHDkw&sa=X&ved=2ahUKEwj4oKrd2r6MAxX9Q_EDHQIOBx8QtKgLegQIEBAB&biw=1735&bih=721&dpr=1)
 
 <br/>
