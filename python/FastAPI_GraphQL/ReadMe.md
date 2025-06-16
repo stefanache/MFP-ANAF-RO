@@ -303,6 +303,7 @@ Un alt link interesant despre **FastRTC** este si aceasta [***FastRTC-galerie***
  - [breezyMind@Karl: Începând cu framework-ul web ***ASGI***-**FastAPI**](https://breezymind.com/start-asgi-framework/)
  - [dev-leapCell: **FastAPI**-Engine/Server: Inside **Uvicorn**, Building a Fast ***ASGI***-Server in Pure Python](https://dev.to/leapcell/fastapi-engine-inside-uvicorn-building-a-fast-asgi-server-in-pure-python-392n)
  - [plainEnglish-AI: *Django*-Async vs **FastAPI** vs *WSGI*-*Django* | Choice of ML/DL-Inference(predictie/deductie)-Servers — Answering some burning questions](https://ai.plainenglish.io/django-async-vs-fastapi-vs-wsgi-django-choice-of-ml-dl-inference-servers-answering-some-burning-e6a354bf272a)
+ - [codeMentor@collinsonyemaobi: Deploy a Secure **FastAPI**-App on *Ubuntu-20.04* using *Python3.10* / *CertBot* / *Nginx* and ***Gunicorn***(WSGI-server)](https://www.codementor.io/@collinsonyemaobi/deploy-a-secure-fastapi-app-on-ubuntu-20-04-using-python3-10-certbot-nginx-and-gunicorn-1spdjl4suw)
  - [...](https://www.google.com/search?sca_esv=e8d80f20730efe45&rlz=1C1CHBF_enRO1132RO1132&sxsrf=AHTn8zrH1441tkETzrmbU4dqAEckC7ivBg:1743781077100&q=FastAPI+nginx+graphQL+SSE+Redis&udm=2&fbs=ABzOT_BYhiZpMrUAF0c9tORwPGlsodhGu4F1UEhEeTehlBu7054EL_QJMdNdFZCQTI4PnEhBMh4C_0EHSVUHxJLcclisNm4b4EldR9h-pvMPn6xw2y2G7sjuE9dhTjGAdCf-64t1-bdWmIq-Lt3WphpmsUQjNUmoTzATkh99SjBMl9gfohc5yMM211WIg2yZwLTCX72_HMe-vRp4eFhBfs-YXqvr3mHDkw&sa=X&ved=2ahUKEwj4oKrd2r6MAxX9Q_EDHQIOBx8QtKgLegQIEBAB&biw=1735&bih=721&dpr=1)
 
 <br/>
