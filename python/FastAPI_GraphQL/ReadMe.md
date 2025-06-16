@@ -188,6 +188,7 @@ In aceasta sectiune-explicativa ne vom ocupa de [**FastAPI**](https://fastapi.ti
 
   - [Co:here/Cohere](https://en.wikipedia.org/wiki/Cohere)
   - [D-ID](https://www.d-id.com/about-us/)
+  - [Marp](https://github.com/yhatt/marp/wiki)
  
  </details>
  
