@@ -22,7 +22,7 @@ O prima observatie ar fi ca in imagine/figura *nu-apare* **GraphQL**, dar cu put
 O a 2-a observatie ar fi ca in schema-arhitecturala apare pe fiecare segment-arhitectural o monitorizare a procesului-de-productie/lucru.
 De aceasta parte de monitorizare vom face abstractie(nu ne vom ocupa) deoarece in acest topic doresc sa ma concentrez *doar* pe clarificarea conceptelor(*POC*) **FastAPI** si **GraphQL**.
 
-Pana sa ajungem sa intelegem aceasta imagine-arhitectula(prezentata mai sus!), as dori ca mai intai sa pregatim/explicam cativa termeni ai discutiei:
+Pana sa ajungem sa [intelegem](https://www.youtube.com/watch?v=cy6EAp4iNN4&ab_channel=TechWithTim) aceasta imagine-arhitectula(prezentata mai sus!), as dori ca mai intai sa pregatim/explicam cativa termeni ai discutiei:
 
 <details>
 <summary>...Termeni-pregatitori: ...<i>NGINX</i>(<i>Reverse-Proxy</i>), <i>NGINX</i>(<i>daemonul</i>-<i>manager-de-system-si-servicii</i> al <i>OS</i>-urilor din familia <i>Linux</i>), <b>GraphQL</b>, <b>FastAPI</b>(<i>uvicorn</i>, <i>ASGI</i>),...detalii </summary>
@@ -280,6 +280,7 @@ Un alt link interesant despre **FastRTC** este si aceasta [***FastRTC-galerie***
  - [GH@tadata-org: **FastAPI**-*MCP*](https://github.com/tadata-org/fastapi_mcp) ...
    <br/>...Expuneți punctele-finale(end-point-urile) **FastAPI** ca instrumente *MCP*(Model Context Protocol), cu *Auth*!
  - [useLessAI: Implementing MCP(FastMCP) in a **FastAPI**-Application](https://uselessai.in/implementing-mcp-architecture-in-a-fastapi-application-f513989b65d9)
+ - [YT@TechWithTim: How To Build an ***API*** with Python (*LLM*-Integration, **FastAPI**, *Ollama*(OL) & More)](https://www.youtube.com/watch?v=cy6EAp4iNN4&ab_channel=TechWithTim)
  - [...](https://www.google.com/search?sca_esv=e8d80f20730efe45&rlz=1C1CHBF_enRO1132RO1132&sxsrf=AHTn8zrH1441tkETzrmbU4dqAEckC7ivBg:1743781077100&q=FastAPI+nginx+graphQL+SSE+Redis&udm=2&fbs=ABzOT_BYhiZpMrUAF0c9tORwPGlsodhGu4F1UEhEeTehlBu7054EL_QJMdNdFZCQTI4PnEhBMh4C_0EHSVUHxJLcclisNm4b4EldR9h-pvMPn6xw2y2G7sjuE9dhTjGAdCf-64t1-bdWmIq-Lt3WphpmsUQjNUmoTzATkh99SjBMl9gfohc5yMM211WIg2yZwLTCX72_HMe-vRp4eFhBfs-YXqvr3mHDkw&sa=X&ved=2ahUKEwj4oKrd2r6MAxX9Q_EDHQIOBx8QtKgLegQIEBAB&biw=1735&bih=721&dpr=1)
 
 <br/>
