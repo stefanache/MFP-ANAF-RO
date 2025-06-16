@@ -313,6 +313,7 @@ Un alt link interesant despre **FastRTC** este si aceasta [***FastRTC-galerie***
  - [dev@/kfir-g: Înțelegerea UploadFile-ului din **FastAPI** | Conexiunea *Starlette*](https://dev.to/kfir-g/think-you-know-fastapi-and-asgi-lets-dive-in-164i); [*Starlette*](https://www.starlette.io/)
  - [springer-link(SL): Introduction to FastAPI(uvicorn=***ASGI***,*Starlette*=*routing*, *pyDantic*=data-validator,...)](https://link.springer.com/chapter/10.1007/978-1-4842-9178-8_1); [*pyDantic](https://docs.pydantic.dev/latest/)
  - [medium@krishnakatyal5121: **FastAPI** And Machine-Learning(ML)](https://medium.com/@krishnakatyal5121/fastapi-and-machine-learning-b75ac9c60412)
+ - [camKode-posts: **FastAPI** ~ Building High-Performance *RESTful*-APIs with Python](https://camkode.com/posts/fastapi-building-high-performance-restful-apis-with-python)
  - [...](https://www.google.com/search?sca_esv=e8d80f20730efe45&rlz=1C1CHBF_enRO1132RO1132&sxsrf=AHTn8zrH1441tkETzrmbU4dqAEckC7ivBg:1743781077100&q=FastAPI+nginx+graphQL+SSE+Redis&udm=2&fbs=ABzOT_BYhiZpMrUAF0c9tORwPGlsodhGu4F1UEhEeTehlBu7054EL_QJMdNdFZCQTI4PnEhBMh4C_0EHSVUHxJLcclisNm4b4EldR9h-pvMPn6xw2y2G7sjuE9dhTjGAdCf-64t1-bdWmIq-Lt3WphpmsUQjNUmoTzATkh99SjBMl9gfohc5yMM211WIg2yZwLTCX72_HMe-vRp4eFhBfs-YXqvr3mHDkw&sa=X&ved=2ahUKEwj4oKrd2r6MAxX9Q_EDHQIOBx8QtKgLegQIEBAB&biw=1735&bih=721&dpr=1)
 
 <br/>
