@@ -6,7 +6,7 @@ Resursele controlate/deservite de catre **API**-ul *aplicatiei/proiectului* nost
 
  - *Baze-de-date*, gestionate prin SQL sau prin *GraphQL*
  - *Fisiere*(upload and download de fisiere cu/fara server-de-fisiere=*fileServer*)
- - diverse alte *resurse-AI* expuse via unui *server-MCP*(deci **FastAPI** va  trebui sa includa un *client-MCP*),
+ - diverse alte *resurse-AI* expuse via unui *server-MCP*(deci [**FastAPI**](https://fastapi.tiangolo.com/deployment/manually/#use-the-fastapi-run-command) va  trebui sa includa un *client-MCP*),
    <br/>Baze de date vectoriale(*VDB*) dar si ...
    <br/>*resurse-ML/DL/DNN/CNN...*
  - [...](https://docs.bentoml.com/en/latest/build-with-bentoml/asgi.html)
