@@ -326,7 +326,8 @@ Un alt link interesant despre **FastRTC** este si aceasta [***FastRTC-galerie***
  - [MS-learn-samples-Azure_samples-FastAPI_on_Azure_functions:  Using **FastAPI**-Framework with *Azure*-Functions](https://learn.microsoft.com/en-us/samples/azure-samples/fastapi-on-azure-functions/fastapi-on-azure-functions/)
  - [AWS_amazon-blogs-ML: Optimize AWS-Inferenta(predict/deduct) utilization with **FastAPI** and *PyTorch*-models on *Amazon*-*EC2* *Inf1* & *Inf2* instances](https://aws.amazon.com/blogs/machine-learning/optimize-aws-inferentia-utilization-with-fastapi-and-pytorch-models-on-amazon-ec2-inf1-inf2-instances/)
  - [*FastAgency*-AI-latest-user~guide: Getting Started(see **FastAPI**-integration)](https://fastagency.ai/latest/user-guide/getting-started/)
- - [apiDog-blog: How to ***Log*** *API-Endpoints* Using Python **FastAPI**](https://apidog.com/blog/logging-endpoints-python-fastapi/) 
+ - [apiDog-blog: How to ***Log*** *API-Endpoints* Using Python **FastAPI**](https://apidog.com/blog/logging-endpoints-python-fastapi/)
+ - [decodingML-subStack: Deploying AI-*Agents* as real-time(RT)-*API*s 101](https://decodingml.substack.com/p/deploying-agents-as-real-time-apis)
  - [...](https://www.google.com/search?sca_esv=e8d80f20730efe45&rlz=1C1CHBF_enRO1132RO1132&sxsrf=AHTn8zrH1441tkETzrmbU4dqAEckC7ivBg:1743781077100&q=FastAPI+nginx+graphQL+SSE+Redis&udm=2&fbs=ABzOT_BYhiZpMrUAF0c9tORwPGlsodhGu4F1UEhEeTehlBu7054EL_QJMdNdFZCQTI4PnEhBMh4C_0EHSVUHxJLcclisNm4b4EldR9h-pvMPn6xw2y2G7sjuE9dhTjGAdCf-64t1-bdWmIq-Lt3WphpmsUQjNUmoTzATkh99SjBMl9gfohc5yMM211WIg2yZwLTCX72_HMe-vRp4eFhBfs-YXqvr3mHDkw&sa=X&ved=2ahUKEwj4oKrd2r6MAxX9Q_EDHQIOBx8QtKgLegQIEBAB&biw=1735&bih=721&dpr=1)
 
 <br/>
