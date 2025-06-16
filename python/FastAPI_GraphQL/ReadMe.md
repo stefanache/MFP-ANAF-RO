@@ -200,7 +200,13 @@ In aceasta sectiune-explicativa ne vom ocupa de [**FastAPI**](https://fastapi.ti
     <br/>*Cohere Inc.* is a Canadian multinational technology company focused on artificial-intelligence(AI) for the enterprise,
     <br/>specializing in large-language-models(*LLM*s).
   - [Chroma](https://www.trychroma.com/)- Chroma este o *VDB*(Baza-de-Date Vectoriala=*VDB*)
-  - [D-ID](https://www.d-id.com/about-us/)
+  - [D-ID](https://www.d-id.com/about-us/)-Avatar-video-generator:
+    <br/>*D-ID* se află în avangarda revoluționării interacțiunilor generative bazate pe inteligență-artificială(AI) și a creării de conținut.
+    <br/>Specializată în tehnologiile de interfață naturală cu utilizatorul (NUI), platforma *D-ID* transformă perfect
+    <br/>imagini, text, videoclipuri, audio și voce în persoane-digitale(*Avatars*) extrem de captivante, oferind o experiență unică și captivantă.
+    <br/>*D-ID* combină sinteza facială și expertiza în învățare-profundă(DL) pentru a oferi experiențe interactive de inteligență-artificială(AI)
+    <br/>în mai multe limbi, ridicând și scalând modul în care ne conectăm și creăm în lumea digitală.
+    
   - [Marp](https://github.com/yhatt/marp/wiki)
 
  <br/>
