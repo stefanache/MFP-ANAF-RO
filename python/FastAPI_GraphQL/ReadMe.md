@@ -185,6 +185,9 @@ In aceasta sectiune-explicativa ne vom ocupa de [**FastAPI**](https://fastapi.ti
  <summary>...Arhitectura acestui caz-de-utilizare <b>FastAPI</b>...</summary>
 
 <a href = "https://daddynkidsmakers.blogspot.com/2024/04/fastapi-open-api.html"><img src="https://blogger.googleusercontent.com/img/a/AVvXsEgl-1NYO89p82JNrjYFUqHPVeS7mJlBixf-_l6CsOt506LaV08PkHMPyXvRIURtr0-m9vxeuJGsALhy7WdkQzLRKDwPnA3ueX0OXMuUo6JVBN8KTFSQqmx3DwAQ_CESjvo7DdFWlMBznhdzyRunD1f-sYJpwP_j_NLVy8GoI9UvmhnaFyEkLcRkftOXTLdU=w400-h225">Arhitectura acestui caz-de-utilizare **FastAPI**</img></a> 
+
+  - [Co:here/Cohere](https://en.wikipedia.org/wiki/Cohere)
+  - [D-ID](https://www.d-id.com/about-us/)
  
  </details>
  
