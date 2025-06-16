@@ -19,8 +19,8 @@ Pentru inceput, hai sa privim imaginea urmatoare(care descrie o arhitectura-[**F
 
 O prima observatie ar fi ca in imagine/figura *nu-apare* **GraphQL**, dar cu putin efort de imaginatie putem presupune ca acesta(ca parte integranta-***FastAPI***), exista undeva inspre partea de livrare/gestionare date(sa spunem dintr-o baza-de-date=BD, BD care-*apare* in imagine/figura),
 
-O a 2-a observatie ar fi ca in schema-arhitecturala apare pe fiecare segment-arhitectural o monitorizare a procesului de productie.
-De aceasta parte de monitorizare vom face abstractie(nu ne vom ocupa) deoarece in acest topic doresc sa ma concentrez pe clarificarea conceptelor **FastAPI** si **GraphQL**.
+O a 2-a observatie ar fi ca in schema-arhitecturala apare pe fiecare segment-arhitectural o monitorizare a procesului-de-productie/lucru.
+De aceasta parte de monitorizare vom face abstractie(nu ne vom ocupa) deoarece in acest topic doresc sa ma concentrez *doar* pe clarificarea conceptelor(*POC*) **FastAPI** si **GraphQL**.
 
 Pana sa ajungem sa intelegem aceasta imagine as dori sa pregatim/explicam cativa termeni ai discutiei:
 
