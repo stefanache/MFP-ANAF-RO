@@ -191,7 +191,7 @@ In aceasta sectiune-explicativa ne vom ocupa de [**FastAPI**](https://fastapi.ti
 
   Caz-utilizare:  [daddYnKidsMaker-blogspot: **FastAPI** Open-API](https://daddynkidsmakers.blogspot.com/2024/04/fastapi-open-api.html))
     
-  - [Langchain(LC)](https://en.wikipedia.org/wiki/LangChain)
+  - [Langchain(LC)](https://en.wikipedia.org/wiki/LangChain)(LLM-framewok = LLM-extension)
   - [aiohttp](https://docs.aiohttp.org/en/stable/)
   - [uvicorn](https://www.uvicorn.org/)(***ASGI***-server)
   - [Co:here/Cohere](https://en.wikipedia.org/wiki/Cohere)
