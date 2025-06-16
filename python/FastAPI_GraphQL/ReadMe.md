@@ -313,7 +313,7 @@ Un alt link interesant despre **FastRTC** este si aceasta [***FastRTC-galerie***
  - [devGenius-blog: Getting Started with **FAST API**](https://blog.devgenius.io/getting-started-with-fast-api-c7e52e68685f)
  - [dev@/kfir-g: Înțelegerea UploadFile-ului din **FastAPI** | Conexiunea *Starlette*](https://dev.to/kfir-g/think-you-know-fastapi-and-asgi-lets-dive-in-164i); [*Starlette*](https://www.starlette.io/)
  - [springer-link(SL): Introduction to FastAPI(uvicorn=***ASGI***,*Starlette*=*routing*, *pyDantic*=data-validator,...)](https://link.springer.com/chapter/10.1007/978-1-4842-9178-8_1); [*pyDantic*](https://docs.pydantic.dev/latest/);
- - [toptal-py: High-performing Apps With Python ~ A **FastAPI** Tutorial(CRUD-REST-API using **FastAPI**,*SQLAlchemy*,*pyDantic*,*JWT*-Auth](https://www.toptal.com/python/build-high-performing-apps-with-the-python-fastapi-framework)
+ - [toptal-py: High-performing Apps With Python ~ A **FastAPI** Tutorial(CRUD-REST-API using **FastAPI**,*SQLAlchemy(ORM)*,*pyDantic(validation-schema)*,*JWT*-Auth](https://www.toptal.com/python/build-high-performing-apps-with-the-python-fastapi-framework)
  - [medium@krishnakatyal5121: **FastAPI** And Machine-Learning(ML)](https://medium.com/@krishnakatyal5121/fastapi-and-machine-learning-b75ac9c60412)
  - [camKode-posts: **FastAPI** ~ Building High-Performance *RESTful*-APIs with Python](https://camkode.com/posts/fastapi-building-high-performance-restful-apis-with-python)
  - [sunScrapers-blog: How To Fuse FastAPI with Django in an Elegant Way](https://sunscrapers.com/blog/fastapi-and-django-a-guide-to-elegant-integration/)
