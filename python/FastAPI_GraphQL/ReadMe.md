@@ -5,7 +5,8 @@ Pentru productie, inainte de orice, ai nevoie de un cadru-de lucru(asa cum este 
 Resursele controlate/deservite de catre **API**-ul *aplicatiei/proiectului* nostr[e/u] pot fi variate(in functie de specificul *Aplicatiei*):
 
  - *Baze-de-date*, gestionate prin SQL sau prin *GraphQL*
- - diverse alte *resure-AI* expuse via unui *server-MCP*
+ - *Fisiere*(upload and download de fisiere cu/fara server-de-fisiere=*fileServer*)
+ - diverse alte *resurse-AI* expuse via unui *server-MCP*
  - ...
  
 
