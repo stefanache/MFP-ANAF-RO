@@ -1,6 +1,13 @@
 ***Salut***!
 
-Pentru productie, inainte de orice, ai nevoie de un cadru-de lucru(asa cum este ***FastAPI***, care in mod obligatoriu trebuie sa fie acompaniat de un ***ASGI***-server, gen *Uvicorn*)... care sa *expuna* utilizatorilor-web dar si sa *controleze* resursele Aplicatiei noastre(API-ul APP-ului fiind de fapt livratorul de resurse-locale catre utilizatorii sai, aflati la distanta/in internet!).
+Pentru productie, inainte de orice, ai nevoie de un cadru-de lucru(asa cum este ***FastAPI***, care in mod obligatoriu trebuie sa fie acompaniat de un ***ASGI***-server, gen *Uvicorn*)... care sa *expuna* utilizatorilor-web dar si sa *controleze* resursele *Aplicatiei* noastre(API-ul APP-ului fiind de fapt livratorul de resurse-locale catre utilizatorii sai, aflati la distanta/in internet!).
+
+Resursele controlate/deservite de catre **API**-ul *aplicatiei/proiectului* nostr[e/u] pot fi variate(in functie de specificul *Aplicatiei*):
+
+ - *Baze-de-date*, gestionate prin SQL sau prin *GraphQL*
+ - diverse alte *resure-AI* expuse via unui *server-MCP*
+ - ...
+ 
 
 As dori sa incercam sa intelegem urmatoarea [poveste](https://github.com/natthasath/demo-python-fastapi-uvicorn): [Preparing FastAPI for Production: A Comprehensive Guide](https://medium.com/@ramanbazhanau/preparing-fastapi-for-production-a-comprehensive-guide-d167e693aa2b)
 
@@ -64,7 +71,7 @@ De asemenea,  ***systemd*** oferă înlocuiri pentru diverse *daemon*-uri(compon
 *Ce este [**Uvicorn**](https://www.geeksforgeeks.org/fastapi-uvicorn/)?*<br/>
 **UVICORN** este o implementare de *server-web*/*webServer* [***ASGI***](https://mirror.xyz/0xA1d9f681B25C14C1eE7B87f1CF102E73cA3ad4d9/n0BdWSd_GdP_Vfeped02zBcNV5XbzITThILlRditoPk) (Asynchronous Server Gateway Interface) adaptată pentru Python . <br/>Înainte de ***ASGI***, lui Python îi lipsea o *interfață-minimă-de-server*(de nivel scăzut) pentru *cadrele-de-lucru-asincrone*(asa cum este *FastAPI*). <br/>Specificația ***ASGI*** acționează ca o punte/poarta/zona-de-trecere/legatura(gateway), permițând crearea unui set comun de instrumente utilizabile în toate *cadrele-de-lucru-asincrone*(asa cum este *FastAPI*). <br/>**UVICORN** oferă în prezent suport pentru *HTTP/1.1* și *WebSockets*.<br/>
 **Uvicorn** este un *server-web* ***ASGI*** *super-rapid*. 
-<br/>**Uvicorn** rulează cod-Python asincron bazat pe [**uvloop**](https://mirror.xyz/0xA1d9f681B25C14C1eE7B87f1CF102E73cA3ad4d9/n0BdWSd_GdP_Vfeped02zBcNV5XbzITThILlRditoPk) într-un *singur-proces*(**Uvicorn** si **uvloop** formeaza impreuna un *singur-proces(unitar)*).
+<br/>**Uvicorn** rulează cod-Python asincron bazat pe [**uvloop**](worker/client de/pt ****ASGI***-server!) (https://mirror.xyz/0xA1d9f681B25C14C1eE7B87f1CF102E73cA3ad4d9/n0BdWSd_GdP_Vfeped02zBcNV5XbzITThILlRditoPk) într-un *singur-proces*(**Uvicorn** si **uvloop** formeaza impreuna un *singur-proces(unitar)*).
 
 [Asadar](https://github.com/natthasath/demo-python-fastapi-uvicorn), **FastAPI** și **Uvicorn**(serverul ***ASGI***) sunt instrumente pentru construirea de aplicații-web. 
 <br/>**FastAPI** este un cadru-web pentru construirea de API-uri cu Python, în timp ce **Uvicorn** este un server-***ASGI*** pentru servirea acestor API-uri. 
@@ -289,6 +296,7 @@ Un alt link interesant despre **FastRTC** este si aceasta [***FastRTC-galerie***
    <br/>...Expuneți punctele-finale(end-point-urile) **FastAPI** ca instrumente *MCP*(Model Context Protocol), cu *Auth*!
  - [useLessAI: Implementing MCP(FastMCP) in a **FastAPI**-Application](https://uselessai.in/implementing-mcp-architecture-in-a-fastapi-application-f513989b65d9)
  - [YT@TechWithTim: How To Build an ***API*** with Python (*LLM*-Integration, **FastAPI**, *Ollama* = OL=local-LLM-server & More)](https://www.youtube.com/watch?v=cy6EAp4iNN4&ab_channel=TechWithTim)
+ - [blog@marzeta: FastAPI - Hitting the Performance Jackpot. Part 1 - Asynchronicity(with *gunicorn*=*WSGI-server*)](https://blog.marzeta.pl/fastapi-hitting-the-performance-jackpot-part-1-asynchronicity/)
  - [...](https://www.google.com/search?sca_esv=e8d80f20730efe45&rlz=1C1CHBF_enRO1132RO1132&sxsrf=AHTn8zrH1441tkETzrmbU4dqAEckC7ivBg:1743781077100&q=FastAPI+nginx+graphQL+SSE+Redis&udm=2&fbs=ABzOT_BYhiZpMrUAF0c9tORwPGlsodhGu4F1UEhEeTehlBu7054EL_QJMdNdFZCQTI4PnEhBMh4C_0EHSVUHxJLcclisNm4b4EldR9h-pvMPn6xw2y2G7sjuE9dhTjGAdCf-64t1-bdWmIq-Lt3WphpmsUQjNUmoTzATkh99SjBMl9gfohc5yMM211WIg2yZwLTCX72_HMe-vRp4eFhBfs-YXqvr3mHDkw&sa=X&ved=2ahUKEwj4oKrd2r6MAxX9Q_EDHQIOBx8QtKgLegQIEBAB&biw=1735&bih=721&dpr=1)
 
 <br/>
