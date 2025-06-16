@@ -328,6 +328,7 @@ Un alt link interesant despre **FastRTC** este si aceasta [***FastRTC-galerie***
  - [*FastAgency*-AI-latest-user~guide: Getting Started(see **FastAPI**-integration)](https://fastagency.ai/latest/user-guide/getting-started/)
  - [apiDog-blog: How to ***Log*** *API-Endpoints* Using Python **FastAPI**](https://apidog.com/blog/logging-endpoints-python-fastapi/)
  - [decodingML-subStack: Deploying AI-*(RAG-)Agents* as real-time(RT)-*API*s 101](https://decodingml.substack.com/p/deploying-agents-as-real-time-apis)
+ - [hostMyCode-tutorials: Set Up a **FastAPI** App with a *NoSQL*-Database](https://www.hostmycode.in/tutorials/set-up-a-fastapi-app-with-a-nosql-database)
  - [...](https://www.google.com/search?sca_esv=e8d80f20730efe45&rlz=1C1CHBF_enRO1132RO1132&sxsrf=AHTn8zrH1441tkETzrmbU4dqAEckC7ivBg:1743781077100&q=FastAPI+nginx+graphQL+SSE+Redis&udm=2&fbs=ABzOT_BYhiZpMrUAF0c9tORwPGlsodhGu4F1UEhEeTehlBu7054EL_QJMdNdFZCQTI4PnEhBMh4C_0EHSVUHxJLcclisNm4b4EldR9h-pvMPn6xw2y2G7sjuE9dhTjGAdCf-64t1-bdWmIq-Lt3WphpmsUQjNUmoTzATkh99SjBMl9gfohc5yMM211WIg2yZwLTCX72_HMe-vRp4eFhBfs-YXqvr3mHDkw&sa=X&ved=2ahUKEwj4oKrd2r6MAxX9Q_EDHQIOBx8QtKgLegQIEBAB&biw=1735&bih=721&dpr=1)
 
 <br/>
