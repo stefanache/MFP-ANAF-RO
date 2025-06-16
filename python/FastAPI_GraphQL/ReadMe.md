@@ -4,7 +4,7 @@ Pentru lansarea in productie a unui [**API**-*server*](https://fastapi.tiangolo.
 
 Resursele controlate/deservite de catre **API**-ul *aplicatiei/proiectului* nostr[e/u] pot fi variate(in functie de specificul *Aplicatiei*):
 
- - *Baze-de-date*, gestionate/interogate prin cereri SQL sau prin [*GraphQL*](https://thepythoncode.com/article/build-a-graphql-api-with-fastapi-strawberry-and-postgres-python)
+ - *Baze-de-date*, gestionate/interogate prin cereri-[*SQL*](https://jacob-t-graham.com/2024/03/01/learning-fastapi-and-sqlmodel-for-api-development/) sau prin cereri-[*GraphQL*](https://thepythoncode.com/article/build-a-graphql-api-with-fastapi-strawberry-and-postgres-python)
  - *Fisiere*(upload and download de fisiere cu/fara server-de-fisiere=*fileServer*)
  - diverse alte *resurse-AI* expuse via unui *server-MCP*(deci [**FastAPI**](https://fastapi.tiangolo.com/deployment/manually/#use-the-fastapi-run-command) va  trebui sa includa un *client-MCP*),
    <br/>Baze de date vectoriale(*VDB*) dar si ...
