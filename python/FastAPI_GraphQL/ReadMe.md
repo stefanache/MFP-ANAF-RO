@@ -36,7 +36,7 @@ Pana sa ajungem sa intelegem aceasta imagine-arhitectula(prezentata mai sus!), a
 
 ***NGINX*** apare in arhitectura de productie **FastAPI**, ca intermediar-invers/web-server/distribuitor/scalator/inaintator/pasator=tranferator de mesaje catre serverul/serviciul-***ASGI***, prezentata mai sus.
 
-Ratiunea existentei acestuia(**Reverse-Proxy**) in aceasta arhitectura(expusa mai sus) este acea de a putea *scala/distribui*(de a distribui cererea-utilizator catre unul dintre webServere-le din pool-ul de servere-web pe care le utilizam/le avem la dispozitie  in procesul de productie)
+Ratiunea existentei acestuia(**NGINX**-ului ca **Reverse-Proxy**) in aceasta arhitectura(expusa mai sus) este acea de a putea *scala/distribui*(de a distribui cererea-utilizator catre unul dintre webServere-le din pool-ul de servere-web pe care le utilizam/le avem la dispozitie  in procesul de productie)
 
 [***systemd***](https://en.wikipedia.org/wiki/Systemd) este o suită-software care oferă o gamă largă de componente de sistem pentru sistemele-de-operare(OS) Linux
 
