@@ -1,5 +1,7 @@
 ***Salut***!
 
+Penrtu productie, inainte de orice, ai nevoie de un cadru-de lucru(asa cum este ***FastAPI***) care sa expuna-utilizatorilor-web dar care sa si controleze resursele Aplicatiei noastre(de fat livratorul de resurse catre utilizatorii sai).
+
 As dori sa incercam sa intelegem urmatoarea [poveste](https://github.com/natthasath/demo-python-fastapi-uvicorn): [Preparing FastAPI for Production: A Comprehensive Guide](https://medium.com/@ramanbazhanau/preparing-fastapi-for-production-a-comprehensive-guide-d167e693aa2b)
 
 Pentru inceput, hai sa privim imaginea urmatoare(care descrie o arhitectura-[**FastAPI**](https://blog.stackademic.com/advanced-strategies-for-profiling-caching-and-optimizing-fastapi-performance-f23bb7f6dfc5) reala/de productie):
