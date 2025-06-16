@@ -14,7 +14,7 @@ Resursele controlate/deservite de catre **Web-API**-ul *aplicatiei/proiectului* 
 
 Pentru inceput, as dori sa incercam sa intelegem urmatoarea [poveste](https://github.com/natthasath/demo-python-fastapi-uvicorn): [Preparing FastAPI for Production: A Comprehensive Guide](https://medium.com/@ramanbazhanau/preparing-fastapi-for-production-a-comprehensive-guide-d167e693aa2b)
 
-Pentru inceput, hai sa privim imaginea urmatoare(care descrie o arhitectura-[**FastAPI**](https://blog.stackademic.com/advanced-strategies-for-profiling-caching-and-optimizing-fastapi-performance-f23bb7f6dfc5) reala/de productie):
+Insa, inainte de toate, hai sa privim imaginea urmatoare(care descrie o arhitectura-[**FastAPI**](https://blog.stackademic.com/advanced-strategies-for-profiling-caching-and-optimizing-fastapi-performance-f23bb7f6dfc5) reala/de productie):
 
 <details>
  <summary>...arhitectura-<b>FastAPI</b>(ex. serverul/serviciul <i>uvicorn</i>) reala/de productie...</summary>
