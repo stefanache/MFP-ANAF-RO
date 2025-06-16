@@ -82,6 +82,12 @@ Există mai multe alternative(de servere-***ASGI***=*manipulatorul de mesaje-car
 
 Aplicatia-**FastAPI** primeste mesajul-care-contine *cererea-utilizator* de la serverul-***ASGI***(manipulatorul de *cereri-utilizator*...ex. *uvicorn*) si o opereaza/executa/transforma intr-o executie-SQL de tip-[*CRUD*](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete): *query*/*update*, pentru [SGDB](https://ro.wikipedia.org/wiki/Sistem_de_gestiune_a_bazelor_de_date)(ex. *MySQL*-server).
 
+*Concluzie*:
+<br/>**FastAPI** și ***ASGI*** sunt concepte înrudite, dar distincte. 
+<br/>**FastAPI** este un framework-web Python modern și de înaltă performanță pentru construirea de API-uri și utilizează ***ASGI***(Asynchronous Server Gateway Interface) pentru gestionarea *asincronă* a cererilor.
+<br/>***ASGI*** este o specificație pentru servere și aplicații web(webServere si webAapps) *asincrone*, care permite gestionarea eficientă a cererilor concurente, fiind utilă în special pentru funcții în *timp-real*(RT), cum ar fi *WebSockets*. 
+<br/>**FastAPI** utilizează ***ASGI***, în special prin servere precum ***Uvicorn***, pentru a-și atinge *viteza* și *scalabilitatea*. 
+
 Asadar, in arhitectura de mai sus, aplicatia-**FastAPI** are rolul de .../este de fapt... *operatorul/executorul* cererii-utilizator(ex. *cerere-SQL*).
 <br/>Uneori aceasta cerere-utilizator poate fi o cerere-de-tip-**GraphQL**(un alt protocol de interogare de BD/SQL).
 
