@@ -1,6 +1,6 @@
 ***Salut***!
 
-Pentru productie, inainte de orice, ai nevoie de un cadru-de lucru(asa cum este ***FastAPI***) care sa expuna-utilizatorilor-web dar care sa si controleze resursele Aplicatiei noastre(API-ul APP-ului fiind de fapt livratorul de resurse catre utilizatorii sai!).
+Pentru productie, inainte de orice, ai nevoie de un cadru-de lucru(asa cum este ***FastAPI***) care sa expuna-utilizatorilor-web dar care sa si controleze resursele Aplicatiei noastre(API-ul APP-ului fiind de fapt livratorul de resurse-locale catre utilizatorii sai, aflati la distanta/in internet!).
 
 As dori sa incercam sa intelegem urmatoarea [poveste](https://github.com/natthasath/demo-python-fastapi-uvicorn): [Preparing FastAPI for Production: A Comprehensive Guide](https://medium.com/@ramanbazhanau/preparing-fastapi-for-production-a-comprehensive-guide-d167e693aa2b)
 
