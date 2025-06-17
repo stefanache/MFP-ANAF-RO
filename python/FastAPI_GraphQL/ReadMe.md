@@ -132,7 +132,7 @@ In aceasta sectiune-explicativa ne vom ocupa de [**FastAPI**](https://fastapi.ti
 
 <hr/>
 
-*Q*uestion: *How really install and run **FastAPI**(ASGI-server) under Windows?*
+*Q*uestion: *How really install and run **FastAPI**(including ASGI-server) under Windows?*
 
 *A*nswer:
 
