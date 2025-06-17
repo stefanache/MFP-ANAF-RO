@@ -191,7 +191,8 @@ In aceasta sectiune-explicativa ne vom ocupa de [**FastAPI**](https://fastapi.ti
 
   Caz-utilizare:  [daddYnKidsMaker-blogspot: **FastAPI** Open-API](https://daddynkidsmakers.blogspot.com/2024/04/fastapi-open-api.html))
 
-  -  Folosind [**FastAPI**](https://en.wikipedia.org/wiki/FastAPI), puteți dezvolta foarte ușor un server *Open-API*.
+  -  Folosind [**FastAPI**](https://en.wikipedia.org/wiki/FastAPI), puteți dezvolta foarte ușor un server *Open-API*
+    <br/>bazat pe **FastAPI**, *Uvicorn*(***ASGI***-server) și Websocket(WS-protocol=client/server).
 
   - [Langchain(LC)](https://en.wikipedia.org/wiki/LangChain)(*LLM-framework* = *LLM-extension*)
   - [aiohttp](https://docs.aiohttp.org/en/stable/)(*Client*/*Server*-*HTTP*-*asincron* pentru [*asyncio*](https://docs.python.org/3/library/asyncio.html) și *Python*)
