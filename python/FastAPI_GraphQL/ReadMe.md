@@ -199,7 +199,7 @@ In aceasta sectiune-explicativa ne vom ocupa de [**FastAPI**](https://fastapi.ti
   - [uvicorn](https://www.uvicorn.org/)(***ASGI***-server)
   - [Co:here/Cohere](https://en.wikipedia.org/wiki/Cohere);
     <br/>*Cohere Inc.* is a Canadian multinational technology company focused on artificial-intelligence(AI) for the enterprise,
-    <br/>specializing in large-language-models(*LLM*s); [cohere-docs-v2-integration: *Co:here* and *LangChain*(LC)](https://docs.cohere.com/v2/docs/cohere-and-langchain)
+    <br/>specializing in large-language-models(*LLM*s); [cohere-docs-v2-integration: *Co:here*(platform) and *LangChain*(LC)](https://docs.cohere.com/v2/docs/cohere-and-langchain)
   - [Chroma](https://www.trychroma.com/)- Chroma este o *VDB*(Baza-de-Date Vectoriala=*VDB*)
   - [D-ID](https://www.d-id.com/about-us/)-Avatar-video-generator:
     <br/>*D-ID* se află în avangarda revoluționării interacțiunilor generative bazate pe inteligență-artificială(AI) și a creării de conținut.
