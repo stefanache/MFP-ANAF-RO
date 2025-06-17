@@ -209,6 +209,7 @@ In aceasta sectiune-explicativa ne vom ocupa de [**FastAPI**](https://fastapi.ti
     <br/>în mai multe limbi, ridicând și scalând modul în care ne conectăm și creăm în lumea digitală.
     
   - [Marp](https://github.com/yhatt/marp/wiki)
+    <br/>*Marp* este ecosistemul perfect pentru a-ți scrie prezentările cu *Markdown(md)* simplu.
 
  <br/>
  <hr/>
