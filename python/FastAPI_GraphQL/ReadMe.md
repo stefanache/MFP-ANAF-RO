@@ -182,7 +182,7 @@ In aceasta sectiune-explicativa ne vom ocupa de [**FastAPI**](https://fastapi.ti
 
 <details>
 
- <summary>...Arhitectura acestui caz-de-utilizare <b>FastAPI-OpenAPI</b>...</summary>
+ <summary>...Arhitectura acestui caz-de-utilizare <b>FastAPI-OpenAPI</b>(client&server)...</summary>
 
 <br/>
 <hr/>
