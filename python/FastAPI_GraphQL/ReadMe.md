@@ -404,10 +404,10 @@ Un alt link interesant despre **FastRTC** este si aceasta [***FastRTC-galerie***
  - [YT@DynamicTechnologies: How to Deploy **FastAPI**-Application on *VPS*/*EC2*-instance | Configure *MySQL* | Configure *domain-name*](https://www.youtube.com/watch?v=0fyKhvDVNuA&ab_channel=DynamicTechnologies)
  - [tiangolo: **FastAPI** integration with ***GraphQL***](https://fastapi.tiangolo.com/how-to/graphql/)
  - [YT@VeryAcademy-2021: **FastAPI** and ***GraphQL*** - build your first REST-*API*](https://www.youtube.com/watch?v=Puvr82Cm26o&ab_channel=VeryAcademy)
-<br/>Dezvoltare-*API* cu **FastAPI**, ***GraphQL***, *SQLAlchemy*, *Alembic*, *PostgreSQL*, *Uvicorn* și *Docker*.
+<br/>Dezvoltare-*API* cu **FastAPI**, ***GraphQL***, *SQLAlchemy*(ORM), *Alembic*(se ocupa de *migratii*), *PostgreSQL*(BD), *Uvicorn*(***ASGI***-server) și *Docker*(software-ul de containerizare pt virtualizare-OS).
 <br/>În acest tutorial aruncăm o primă privire asupra construirii unui *API* cu **FastAPI** și ***GraphQL***.
 <br/>Construim un *API* care va permite *postarea*, *mutațiile* și *interogările*(specifice ***GraphQL***).
-<br/>*SQLAlchemy* + *Alembic* este utilizat pentru a gestiona *migrațiile*, *PostgreSQL* + *PGAdmin*,
+<br/>[*SQLAlchemy*](https://en.wikipedia.org/wiki/SQLAlchemy) + [*Alembic*](https://alembic.sqlalchemy.org/en/latest/) este utilizat pentru a gestiona *migrațiile*(de care se ocupa *Alembic*), *PostgreSQL* + *PGAdmin*,
 <br/>toate înfășurate/inglobate/impachetate/containerizate si implementate în *Docker*/*Docker-Compose*. 
  - [...](https://www.google.com/search?sca_esv=e8d80f20730efe45&rlz=1C1CHBF_enRO1132RO1132&sxsrf=AHTn8zrH1441tkETzrmbU4dqAEckC7ivBg:1743781077100&q=FastAPI+nginx+graphQL+SSE+Redis&udm=2&fbs=ABzOT_BYhiZpMrUAF0c9tORwPGlsodhGu4F1UEhEeTehlBu7054EL_QJMdNdFZCQTI4PnEhBMh4C_0EHSVUHxJLcclisNm4b4EldR9h-pvMPn6xw2y2G7sjuE9dhTjGAdCf-64t1-bdWmIq-Lt3WphpmsUQjNUmoTzATkh99SjBMl9gfohc5yMM211WIg2yZwLTCX72_HMe-vRp4eFhBfs-YXqvr3mHDkw&sa=X&ved=2ahUKEwj4oKrd2r6MAxX9Q_EDHQIOBx8QtKgLegQIEBAB&biw=1735&bih=721&dpr=1)
 
