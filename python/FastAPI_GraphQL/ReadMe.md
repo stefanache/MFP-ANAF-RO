@@ -193,7 +193,8 @@ In aceasta sectiune-explicativa ne vom ocupa de [**FastAPI**](https://fastapi.ti
 
 Acest cod este un program de server bigdata scris în Python folosind cadrul FastAPI. 
 <br/>Este conceput pentru a gestiona schimburile de fișiere între un client și un server prin solicitări HTTP-POST și conexiuni-WebSocket(WS).
-<br/>Iată o prezentare generală a [caracteristicilor-cheie/importante](https://github.com/mac999/fastapi_bigdata_server_example/tree/main):
+
+Iată o prezentare generală a [caracteristicilor-cheie/importante](https://github.com/mac999/fastapi_bigdata_server_example/tree/main):
 
 1.Înregistrare(**Log**) și depanare(**Debug**):
 
