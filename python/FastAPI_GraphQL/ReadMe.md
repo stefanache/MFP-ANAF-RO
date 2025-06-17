@@ -191,6 +191,39 @@ In aceasta sectiune-explicativa ne vom ocupa de [**FastAPI**](https://fastapi.ti
 
   Caz-utilizare:  [daddYnKidsMaker-blogspot: **FastAPI** Open-API](https://daddynkidsmakers.blogspot.com/2024/04/fastapi-open-api.html))
 
+Acest cod este un program de server bigdata scris în Python folosind cadrul FastAPI. 
+<br/>Este conceput pentru a gestiona schimburile de fișiere între un client și un server prin solicitări HTTP-POST și conexiuni-WebSocket(WS).
+<br/>Iată o prezentare generală a [caracteristicilor-cheie/importante](https://github.com/mac999/fastapi_bigdata_server_example/tree/main):
+
+1.Înregistrare(**Log**) și depanare(**Debug**):
+
+ - Scriptul folosește modulul-de-înregistrare=LOGging Python în scopuri de depanare=DEBUG
+ - Înregistrarea în jurnal este setată la nivelul DEBUG pentru a captura informații detaliate despre execuția aplicației.
+   
+2.**Middleware-CORS**(Cross-Origin Resource Sharing):
+
+ - Serverul include middleware-CORS pentru a permite *cereri* de la orice *origine*(caller), cu orice metodă și anteturi.
+   
+3.Punct-final de calcul: **POST /v1/calc**:
+
+ - Acest punct final acceptă un parametru de lungime(length).
+ - Este inițiată o sarcină de fundal care simulează un calcul (cu o întârziere de 15 secunde).
+ - Rezultatul calculului este codificat la 3.14 și returnat ca răspuns JSON.
+   
+4.Puncte-finale WebSocket(WS):
+
+ - WS **/v1/get_dataset**:
+
+   - Acest punct final trimite conținutul unui fișier JSON către client în bucăți de 64 KB.
+   - Citește un fișier (server_ifc_file.json) și îl transmite clientului. 
+ 
+ - WS **/v1/put_dataset**:
+
+   - Acest punct final primește un fișier arhivat de la client.
+   - Fișierul este scris într-o locație temporară (temp/temp_dataset.zip), extras și stocat într-un director specificat (./server_data).
+  
+La final cateva referinte(URL-uri) suplimentare(in plus fata de cele recomandate in articol si depozitul-GH):
+
   -  Folosind [**FastAPI**](https://en.wikipedia.org/wiki/FastAPI), puteți dezvolta foarte ușor un server *Open-API*
     <br/>bazat pe **FastAPI**, *Uvicorn*(***ASGI***-server) și Websocket(WS-protocol=client/server).
 
