@@ -37,7 +37,7 @@ De aceasta parte de monitorizare vom face abstractie(nu ne vom ocupa) deoarece i
 Pana sa ajungem sa [intelegem](https://www.youtube.com/watch?v=cy6EAp4iNN4&ab_channel=TechWithTim) aceasta imagine-arhitectula(prezentata mai sus!), as dori ca mai intai sa pregatim/explicam cativa termeni ai discutiei:
 
 <details>
-<summary>...Termeni-pregatitori: ...<i>NGINX</i>(<i>Reverse-Proxy</i>), <i>NGINX</i>(<i>daemonul</i>-<i>manager-de-system-si-servicii</i> al <i>OS</i>-urilor din familia <i>Linux</i>), <b>GraphQL</b>, <b>FastAPI</b>(<i>uvicorn</i>, <i>ASGI</i>),...detalii </summary>
+<summary>...Termeni-pregatitori: ...<i>NGINX</i>(<i>Reverse-Proxy</i>), <i>NGINX</i>(<i>daemonul</i>-<i>manager-de-system-si-servicii</i> al <i>OS</i>-urilor din familia <i>Linux</i>), <b>GraphQL</b>, <b>FastAPI</b>(incluzand <i>uvicorn</i> cu rol de <i>ASGI-server</i>),...detalii </summary>
 
  <br/>
  <hr/>
