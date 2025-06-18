@@ -50,12 +50,9 @@ Pana sa ajungem sa [intelegem](https://www.youtube.com/watch?v=cy6EAp4iNN4&ab_ch
 <br/>***NGINX*** in calitate de/ca si [*webserver*](https://dev.to/afrazkhan/python-wsgi-applications-1kjb) se ocupa de protocolul HTTP/HTTPS si pastreaza/depoziteaza resursele statice(acele fisiere HTML,CSS,JS,...) ale aplicatiei/site-ului-web.
 
 [***systemd***](https://en.wikipedia.org/wiki/Systemd) este o suită-software care oferă o gamă largă de componente de sistem pentru sistemele-de-operare(OS) Linux
-
-Scopul principal al ***systemd***(*system-[daemon](https://en.wikipedia.org/wiki/Daemon_(computing))*) este de a unifica configurația și comportamentul serviciilor în toate distribuțiile-*Linux* .
-
-Componenta sa( ***systemd***) principală este un „manager de sistem și servicii” - un sistem-de-inițiere folosit pentru a porni-*spațiul-utilizatorului* și a gestiona-*procesele-utilizatorului* . 
-
-De asemenea,  ***systemd*** oferă înlocuiri pentru diverse *daemon*-uri(component[a/e] ce lucreaza in fundal/background/fara a retine atentia-utilizatorului...utilizatorul nu prea "stie" de existenta lui/lor deoarece *daemonul* <u>nu-are-interactivitate</u> cu acesta/utilizatorul) și *utilități*, inclusiv :
+<br/>Scopul principal al ***systemd***(*system-[daemon](https://en.wikipedia.org/wiki/Daemon_(computing))*) este de a unifica configurația și comportamentul serviciilor în toate distribuțiile-*Linux* .
+<br/>Componenta sa( ***systemd***) principală este un „manager de sistem și servicii” - un sistem-de-inițiere folosit pentru a porni-*spațiul-utilizatorului* și a gestiona-*procesele-utilizatorului* . 
+<br/>De asemenea,  ***systemd*** oferă înlocuiri pentru diverse *daemon*-uri(component[a/e] ce lucreaza in fundal/background/fara a retine atentia-utilizatorului...utilizatorul nu prea "stie" de existenta lui/lor deoarece *daemonul* <u>nu-are-interactivitate</u> cu acesta/utilizatorul) și *utilități*, inclusiv :
 
  - gestionarea *dispozitivelor*(prin intermediul *driverelor-de-dispozitiv*),
  - gestionarea *conectării*(la internet),
