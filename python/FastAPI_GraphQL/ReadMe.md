@@ -82,7 +82,7 @@ De asemenea,  ***systemd*** oferă înlocuiri pentru diverse *daemon*-uri(compon
 <br/>Fiecare *worker*(WSGI/Gunicorn)) este *independent* de *controler*(a se vedea acest [ghid bazat pe exemple](https://www.fullstackpython.com/green-unicorn-gunicorn.html)).
 *WSGI*(Web-Server-Gateway-Interface) este un *protocol* mai vechi, utilizat în mod obișnuit de *framework*-uri *web*(precum *Flask* și *Django*).
 <br/>Un server HTTP-*WSGI*(cum ar fi *Gunicorn*) *invocă* mai multe procese ale aplicației-web și *distribuie* sarcina(aplicatiei-web) între ele(aceste procese ale aplicatiei-web).
-<br/>*Gunicorn* este adesea folosit pentru implementări-de-*producție*, în special cu *framework*-uri bazate pe *WSGI*, iar
+<br/>*Gunicorn* este adesea folosit pentru implementări-de-*producție*, în special cu *framework*-uri bazate pe protocolul [*WSGI*](https://dev.to/afrazkhan/python-wsgi-applications-1kjb), iar
 <br/>**Uvicorn** este preferat pentru *framework*-uri *ASGI*(precum **FastAPI**).
 
 
