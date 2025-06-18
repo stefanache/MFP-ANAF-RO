@@ -405,6 +405,7 @@ Un alt link interesant despre **FastRTC** este si aceasta [***FastRTC-galerie***
  - [FastStream.AI.RT-getting-started: *FastStream* is **FastAPI**-Plugin](https://faststream.airt.ai/0.1/getting-started/integrations/fastapi/)
  - [cisco-blogs-developer: *DevOps* in Action! – How We Built the *DevDash*-Demo](https://blogs.cisco.com/developer/devopsactiondevdashdemo01); [*DevOps*](https://en.wikipedia.org/wiki/DevOps)
  - [anyScale-blog: *Ray-Serve(AI-MLOps)* + *aiohttp*/**FastAPI**(as *webserver*!) ~ The best of both worlds](https://www.anyscale.com/blog/ray-serve-fastapi-the-best-of-both-worlds)
+ - [medium@yucunli: O introducere ușoară în implementarea aplicației *Rails* cu *Unicorn*](https://medium.com/@yucunli/a-gentle-intro-to-deploy-rails-application-with-unicorn-c99fee29cb6e)
  - [medium@nachi-keta: **FastAPI** — An Intro | KEEP IN TOUCH](https://nachi-keta.medium.com/fastapi-an-intro-e057dc6be20f)
  - [ngrok-docs: Using *ngrok* with **FastAPI**](https://ngrok.com/docs/using-ngrok-with/fastAPI/)
    <br/>Puteți utiliza biblioteca *ngrok-python* pentru a încorpora agentul-*ngrok* în aplicațiile-**FastAPI**.
