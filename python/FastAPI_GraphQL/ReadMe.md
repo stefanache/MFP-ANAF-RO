@@ -78,8 +78,8 @@ De asemenea,  ***systemd*** oferă înlocuiri pentru diverse *daemon*-uri(compon
 
 [*Gunicorn* și **Uvicorn**](https://ismatsamadov.medium.com/gunicorn-vs-uvicorn-369635b92809) sunt ambele [*servere-web/webservere*](https://www.geeksforgeeks.org/python/fast-api-gunicorn-vs-uvicorn/)-Python, dar servesc scopuri diferite și au puncte forte diferite. 
 [*Gunicorn*/*Green-Unicorn*](https://www.fullstackpython.com/green-unicorn-gunicorn.html) este un *server-WSGI* cu model de *worker pre-fork*, în timp ce **Uvicorn** este un *server-ASGI* axat pe performanță cu cod-*asincron*.
-Modelul de *worker pre-work* înseamnă că un *thread-principal(controller)* activează *worker*i pentru a gestiona *cererile*, dar altfel NU controlează modul în care acești *worke*ri efectuează gestionarea-*cererilor*. 
-Fiecare *worker* este *independent* de *controler*(a se vedea acest [ghid bazat pe exemple](https://www.fullstackpython.com/green-unicorn-gunicorn.html)).
+Modelul de *worker pre-work*(utilizata se serverul-WSGI *Gunicorn*) înseamnă că un *thread-principal(controller)* activează *worker*i pentru a gestiona *cererile*, dar altfel NU controlează modul în care acești *worke*ri efectuează gestionarea-*cererilor*. 
+Fiecare *worker*(WSGI/Gunicorn)) este *independent* de *controler*(a se vedea acest [ghid bazat pe exemple](https://www.fullstackpython.com/green-unicorn-gunicorn.html)).
 *WSGI*(Web-Server-Gateway-Interface) este un *protocol* mai vechi, utilizat în mod obișnuit de *framework*-uri *web*(precum *Flask* și *Django*).
 *Gunicorn* este adesea folosit pentru implementări-de-*producție*, în special cu *framework*-uri bazate pe *WSGI*, iar
 **Uvicorn** este preferat pentru *framework*-uri *ASGI*(precum **FastAPI**).
