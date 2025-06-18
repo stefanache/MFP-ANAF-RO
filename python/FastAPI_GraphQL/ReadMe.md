@@ -77,13 +77,13 @@ De asemenea,  ***systemd*** oferă înlocuiri pentru diverse *daemon*-uri(compon
 <br/>**Uvicorn** rulează cod-Python asincron bazat pe [**uvloop**](worker/client de/pt ****ASGI***-server!) (https://mirror.xyz/0xA1d9f681B25C14C1eE7B87f1CF102E73cA3ad4d9/n0BdWSd_GdP_Vfeped02zBcNV5XbzITThILlRditoPk) într-un *singur-proces*(**Uvicorn** si **uvloop** formeaza impreuna un *singur-proces(unitar)*).
 
 [*Gunicorn* și **Uvicorn**](https://ismatsamadov.medium.com/gunicorn-vs-uvicorn-369635b92809) sunt ambele [*servere-web/webservere*](https://www.geeksforgeeks.org/python/fast-api-gunicorn-vs-uvicorn/)-Python, dar servesc scopuri diferite și au puncte forte diferite. 
-[*Gunicorn*/*Green-Unicorn*](https://www.fullstackpython.com/green-unicorn-gunicorn.html) este un *server-WSGI* cu model de *worker pre-fork*, în timp ce **Uvicorn** este un *server-ASGI* axat pe performanță cu cod-*asincron*.
-Modelul de *worker pre-work*(utilizata se serverul-WSGI [*Gunicorn*](https://medium.com/@nhudinhtuan/gunicorn-worker-types-practice-advice-for-better-performance-7a299bb8f929)) înseamnă că un *thread-principal(controller)* activează *worker*i pentru a gestiona *cererile*, dar altfel NU controlează modul în care acești *worke*ri efectuează gestionarea-*cererilor*. 
-Fiecare *worker*(WSGI/Gunicorn)) este *independent* de *controler*(a se vedea acest [ghid bazat pe exemple](https://www.fullstackpython.com/green-unicorn-gunicorn.html)).
+<br/>[*Gunicorn*/*Green-Unicorn*](https://www.fullstackpython.com/green-unicorn-gunicorn.html) este un *server-WSGI* cu model de *worker pre-fork*, în timp ce **Uvicorn** este un *server-ASGI* axat pe performanță cu cod-*asincron*.
+<br/>Modelul de *worker pre-work*(utilizata se serverul-WSGI [*Gunicorn*](https://medium.com/@nhudinhtuan/gunicorn-worker-types-practice-advice-for-better-performance-7a299bb8f929)) înseamnă că un *thread-principal(controller)* activează *worker*i pentru a gestiona *cererile*, dar altfel NU controlează modul în care acești *worker*i efectuează gestionarea-*cererilor*. 
+<br/>Fiecare *worker*(WSGI/Gunicorn)) este *independent* de *controler*(a se vedea acest [ghid bazat pe exemple](https://www.fullstackpython.com/green-unicorn-gunicorn.html)).
 *WSGI*(Web-Server-Gateway-Interface) este un *protocol* mai vechi, utilizat în mod obișnuit de *framework*-uri *web*(precum *Flask* și *Django*).
-Un server HTTP-*WSGI*(cum ar fi *Gunicorn*) *invocă* mai multe procese ale aplicației-web și *distribuie* sarcina între ele(aceste procese ale aplicatiei-web).
-*Gunicorn* este adesea folosit pentru implementări-de-*producție*, în special cu *framework*-uri bazate pe *WSGI*, iar
-**Uvicorn** este preferat pentru *framework*-uri *ASGI*(precum **FastAPI**).
+<br/>Un server HTTP-*WSGI*(cum ar fi *Gunicorn*) *invocă* mai multe procese ale aplicației-web și *distribuie* sarcina între ele(aceste procese ale aplicatiei-web).
+<br/>*Gunicorn* este adesea folosit pentru implementări-de-*producție*, în special cu *framework*-uri bazate pe *WSGI*, iar
+<br/>**Uvicorn** este preferat pentru *framework*-uri *ASGI*(precum **FastAPI**).
 
 
 [Asadar](https://github.com/natthasath/demo-python-fastapi-uvicorn), **FastAPI** și **Uvicorn**(serverul ***ASGI***) sunt instrumente pentru construirea de aplicații-web. 
