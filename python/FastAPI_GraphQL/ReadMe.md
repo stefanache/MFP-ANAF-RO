@@ -45,10 +45,9 @@ Pana sa ajungem sa [intelegem](https://www.youtube.com/watch?v=cy6EAp4iNN4&ab_ch
  [wiki: **Reverse-Proxy**](https://en.wikipedia.org/wiki/Reverse_proxy)
 
 ***NGINX*** poate juca mai multe roluri dar in imaginea de mai sus, acesta joaca rolul de / este un **Reverse-Proxy**(un *proxy-invers*, sau un *intermediar-invers*).
-
-***NGINX*** apare in arhitectura de productie **FastAPI**, ca intermediar-invers/web-server/distribuitor/scalator/inaintator/pasator=tranferator de mesaje catre serverul/serviciul-***ASGI***, prezentata mai sus.
-
-Ratiunea existentei acestuia(**NGINX**-ului ca **Reverse-Proxy**) in aceasta arhitectura(expusa mai sus) este acea de a putea *scala/distribui*(de a distribui cererea-utilizator catre unul dintre *webServere*-le din pool-ul-de-*servere-web* pe care le utilizam/le avem la dispozitie  in procesul de productie)
+<br/>***NGINX*** apare in arhitectura de productie **FastAPI**, ca intermediar-invers/web-server/distribuitor/scalator/inaintator/pasator=tranferator de mesaje catre serverul/serviciul-***ASGI***, prezentata mai sus.
+<br/>Ratiunea existentei acestuia(**NGINX**-ului ca **Reverse-Proxy**) in aceasta arhitectura(expusa mai sus) este acea de a putea *scala/distribui*(de a distribui cererea-utilizator catre unul dintre *webServere*-le din pool-ul-de-*servere-web* pe care le utilizam/le avem la dispozitie  in procesul de productie)
+<br/>***NGINX*** in calitate de/ca si [*webserver*](https://dev.to/afrazkhan/python-wsgi-applications-1kjb) se ocupa de protocolul HTTP/HTTPS si pastreaza/depoziteaza resursele statice(acele fisiere HTML,CSS,JS,...) ale aplicatiei/site-ului-web.
 
 [***systemd***](https://en.wikipedia.org/wiki/Systemd) este o suită-software care oferă o gamă largă de componente de sistem pentru sistemele-de-operare(OS) Linux
 
