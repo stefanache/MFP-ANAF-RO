@@ -4,6 +4,7 @@ Ca si articol pregatitor puteti citi aici despre [Vector_DB](https://medium.com/
 
 In aceasta prezentare voi face referire si uneori voi analiza(pe scurt!) diverse Articole & Proiecte legate de acest subiect(**LLMCP=LLM+MCP**):
 
+ - [educative-courses-model-context-protocol(MCP): MCP Fundamentals for Building AI Agents](https://www.educative.io/courses/model-context-protocol?utm_term=&eid=5082902844932096&utm_campaign=informational&utm_medium=email&_hsenc=p2ANqtz-_0pSFnZ9TXiwCu7yjPzWhGrfrK-_cTzfG_ardP_M8cbbnGdAy4DeIU0jN_xnleColqzJbccbxfzHr7oT2XhX-Ke_DubXc5Q3e0cYD5s3kKTcTEQ3o&_hsmi=367444409&utm_content=mcp&utm_source=general_info)
  - [stackademic-blog: Build a Simple Local MCP Server](https://blog.stackademic.com/build-simple-local-mcp-server-5434d19572a4)
  - [medium@kbdhunga: Getting Started with Local and Remote **MCP**-Servers in LangChain(LC) ~ A Hands-On Beginner’s Guide](https://medium.com/@kbdhunga/getting-started-with-local-and-remote-mcp-servers-in-langchain-a-hands-on-beginners-guide-e0d17231025d)
  - [stackademic-blog: Adding Prompts to **MCP**-Server](https://blog.stackademic.com/adding-prompts-to-mcp-server-64d058c4e758)
