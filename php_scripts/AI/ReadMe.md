@@ -57,4 +57,5 @@ Aici o sa postez cateva [link](https://stackoverflow.com/questions/33080068/runn
    <br/>Soluția se bazează pe un design modern, receptiv, care vă va permite să aveți un site web grozav pe toate dispozitivele mobile, desktop și ușor de instalat.
  - [YT@RoniBandini: How to Create an AI Agent with ChatGPT & MySQL: Function Calling, File Search, & Python](https://www.youtube.com/watch?v=KUnlpNftzXo&ab_channel=RoniBandini)
  - [dev@robertobutti: Building my first AI-agent with NeuronAI and Ollama](https://dev.to/robertobutti/building-my-first-ai-agent-with-neuronai-and-ollama-2kdg)
+ - [medium@valerio_27709: Introducing Neuron AI — Create full featured AI Agents in PHP](https://medium.com/@valerio_27709/introducing-neuron-ai-create-full-featured-ai-agents-in-php-40464e1ed009)
  - [...](https://github.com/PrivateDennis/InfinityGame)
