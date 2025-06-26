@@ -56,4 +56,5 @@ Aici o sa postez cateva [link](https://stackoverflow.com/questions/33080068/runn
    <br/>ClicShopping AI(tm) este o soluție-OpenSource puternică pentru/de comerț electronic B2B / B2C / B2B-B2C, folosind AI-generativă(Gen-AI) și analiza-sentimentelor(SA).
    <br/>Soluția se bazează pe un design modern, receptiv, care vă va permite să aveți un site web grozav pe toate dispozitivele mobile, desktop și ușor de instalat.
  - [YT@RoniBandini: How to Create an AI Agent with ChatGPT & MySQL: Function Calling, File Search, & Python](https://www.youtube.com/watch?v=KUnlpNftzXo&ab_channel=RoniBandini)
+ - [dev@robertobutti: Building my first AI-agent with NeuronAI and Ollama](https://dev.to/robertobutti/building-my-first-ai-agent-with-neuronai-and-ollama-2kdg)
  - [...](https://github.com/PrivateDennis/InfinityGame)
