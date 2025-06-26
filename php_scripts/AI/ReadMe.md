@@ -58,5 +58,5 @@ Aici o sa postez cateva [link](https://stackoverflow.com/questions/33080068/runn
  - [YT@RoniBandini: How to Create an AI Agent with ChatGPT & MySQL: Function Calling, File Search, & Python](https://www.youtube.com/watch?v=KUnlpNftzXo&ab_channel=RoniBandini)
  - [dev@robertobutti: Building my first AI-agent with NeuronAI and Ollama](https://dev.to/robertobutti/building-my-first-ai-agent-with-neuronai-and-ollama-2kdg)
  - [medium@valerio_27709: Introducing Neuron AI — Create full featured AI Agents in PHP](https://medium.com/@valerio_27709/introducing-neuron-ai-create-full-featured-ai-agents-in-php-40464e1ed009)
- - [YT@EscoTech: STT in PhP](https://www.youtube.com/watch?v=bE5wWMefo-Y&ab_channel=EscoTech)
+ - [YT@EscoTech: STT in PhP ~ Use AI to Convert Speech Into Text with PHP](https://www.youtube.com/watch?v=bE5wWMefo-Y&ab_channel=EscoTech)
  - [...](https://github.com/PrivateDennis/InfinityGame)
