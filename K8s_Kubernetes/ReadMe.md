@@ -4,7 +4,7 @@ Aici vom vorbi despre hostingul bazat pe K8s(Kubernetes) si voi posta cateva lin
 
 Ce este Kubernetes?
 
-Kubernetes este o platformă open-source puternică pentru orchestrarea containerelor. 
+Kubernetes este o platformă open-source puternică pentru orchestrarea containerelor(unitati de gazduire). 
 <br/>Oferă un cadru eficient pentru implementarea, scalarea și gestionarea aplicațiilor,
 <br/>asigurându-se că acestea rulează fără probleme pe un cluster de mașini.
 
