@@ -66,6 +66,7 @@ Methodologies and Off-the-Shelf Examples](https://download.ssrn.com/2024/6/29/46
  - [modelcontextprotocol: MCP-examples](https://modelcontextprotocol.io/examples)
  - [gopubby-AI: How to Develop your First (Agentic)-RAG Application?](https://ai.gopubby.com/how-to-develop-your-first-agentic-rag-application-1ccd886a7380);
    <br/>[RAG(clasic/traditional) animated-gif](https://github.com/stefanache/MFP-ANAF-RO/blob/main/AI/RAG.gif); [Agentic-RAG animated-gif](https://github.com/stefanache/MFP-ANAF-RO/blob/main/AI/Agentic_RAG.gif)
+ - [dailyDoseOfDS-blog: Corrective-RAG](https://blog.dailydoseofds.com/p/corrective-rag-agentic-workflow);
  - [medium@l7mp-technologies: Voice-AI-Agent in Kubernetes using Azure, STUNner and LiveKit](https://medium.com/l7mp-technologies/running-reel-time-ai-voice-assistants-in-kubernetes-136662bd031f)
  - [zdnet-article: Want generative-ai-llms-integrated with your-business-data-you need-RAG](https://www.zdnet.com/article/want-generative-ai-llms-integrated-with-your-business-data-you-need-rag/)
  - [alibabacloud-solutions-AI-apps: RT-interaction ~ Real-Time(RT) Audio and Video Calls with AI Agents](https://www.alibabacloud.com/en/solutions/ai-application/real-time-interaction?_p_lc=1)
