@@ -75,4 +75,5 @@ Caracteristicile principale ale <b><i>FastRTC</i></b>:
  - [GH@marianBasti: **STT** & **TTS** API](https://github.com/marianbasti/stt-tts-api)...API-uri pentru transcriere(***STT***) și sinteză(***TTS***) vocală care rulează pe [*FastAPI*](https://github.com/stefanache/MFP-ANAF-RO/tree/main/python/FastAPI_GraphQL)
  - [GH@KoljaB: RealtimeVoiceChat(S2T&T2S=S2S) ~ Ollama-based Real-time AI Voice Chat at ~500ms Latency
 ](https://github.com/KoljaB/RealtimeVoiceChat)
+ - [TY@FahdMirza: Real-Time Speech-to-Speech Chatbot: Based on Ollama & Kokoro - Install Locally](https://www.youtube.com/watch?v=C5Bv1swDba0&ab_channel=FahdMirza)
  - [...](https://www.google.com/search?sca_esv=496b1dbe5ee65e43&rlz=1C1CHBF_enRO1132RO1132&sxsrf=AE3TifM166-EXUFL4Wv9-L9Xb2h9sAqjOQ:1749887255747&q=python+FastRTC+Ollama+ASR+TTS&udm=2&fbs=AIIjpHxX5k-tONtMCu8aDeA7E5WMuFPIpBqH8jT76nzCHgJGooYgkjkuBCcIF7tD_yCw785wAn4uDdm7fZnSBOBP97iKWxt4z_booKiN8Mh81MZ6RTmnqIv_vfhKdvDN9djxWF1dO06kobjwUcVNvyfeQy4GZ_J7hlCGjo-GHW4su0_B0YAztT0ZP9dvSLFgyykx2wdpzIcSHqFwk_Cq6Pxp4eg_Dzs_jw&sa=X&ved=2ahUKEwiHhpqCtvCNAxV2QPEDHZVxM6o4ChC0qAt6BAgUEAE&biw=1920&bih=911&dpr=1)
