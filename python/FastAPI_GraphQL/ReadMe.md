@@ -434,6 +434,7 @@ Un alt link interesant despre **FastRTC** este si aceasta [***FastRTC-galerie***
  - [medium@miki_45906: How to build *MCP*-server(**fastapi-mcp**) in *python* using **FastAPI**](https://medium.com/@miki_45906/how-to-build-mcp-server-in-python-using-fastapi-d3efbcb3da3a)
  - [tiangolo-fastapi-dev-seerver_workers: *Server-Workers* - *Uvicorn* with *Workers*(paralelizare procese pt a profita de mai multe nuclee din CPU)](https://fastapi.tiangolo.com/deployment/server-workers/)
  - [dev-devAsService: **FastAPI** Best Practices ~ A Condensed-Guide with Examples](https://dev.to/devasservice/fastapi-best-practices-a-condensed-guide-with-examples-3pa5?context=digest)
+ - [/medium@suganthi2496: **FastAPI** WebSockets(WS) React-real-time(RT)-features for(4) your-modern-apps-](https://medium.com/@suganthi2496/fastapi-websockets-react-real-time-features-for-your-modern-apps-b8042a10fd90)
  - [...](https://www.google.com/search?sca_esv=e8d80f20730efe45&rlz=1C1CHBF_enRO1132RO1132&sxsrf=AHTn8zrH1441tkETzrmbU4dqAEckC7ivBg:1743781077100&q=FastAPI+nginx+graphQL+SSE+Redis&udm=2&fbs=ABzOT_BYhiZpMrUAF0c9tORwPGlsodhGu4F1UEhEeTehlBu7054EL_QJMdNdFZCQTI4PnEhBMh4C_0EHSVUHxJLcclisNm4b4EldR9h-pvMPn6xw2y2G7sjuE9dhTjGAdCf-64t1-bdWmIq-Lt3WphpmsUQjNUmoTzATkh99SjBMl9gfohc5yMM211WIg2yZwLTCX72_HMe-vRp4eFhBfs-YXqvr3mHDkw&sa=X&ved=2ahUKEwj4oKrd2r6MAxX9Q_EDHQIOBx8QtKgLegQIEBAB&biw=1735&bih=721&dpr=1)
 
 <br/>
