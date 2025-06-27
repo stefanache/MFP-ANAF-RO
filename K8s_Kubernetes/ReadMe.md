@@ -10,3 +10,4 @@ Kubernetes este o platformă open-source puternică pentru orchestrarea containe
 
 
 - [hostinger: Kubernetes tutorial for 2025: learning the basics of effective container management](https://www.hostinger.com/tutorials/kubernetes-tutorial?utm_campaign=Generic-Tutorials-DSA|NT:Se|LO:Other-EU&utm_medium=ppc&gad_source=1&gad_campaignid=12231291749&gbraid=0AAAAADMy-hbPCpP0C9IUm6Fav1VGR3OXn&gclid=Cj0KCQjwgvnCBhCqARIsADBLZoJIEBAp1zhCckUpenzBQfJZgw_04nUZfCGR9F8aYpaASkwl31ve1hIaAqrlEALw_wcB)
+- [reddit: K8s-cluster on VPS](https://www.reddit.com/r/kubernetes/comments/pdz60y/kubernetes_cluster_on_vps/)
