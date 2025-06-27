@@ -65,5 +65,5 @@ Methodologies and Off-the-Shelf Examples](https://download.ssrn.com/2024/6/29/46
  - [w3schools: MathML](https://www.w3schools.com/ai/ai_mathematics.asp)
  - [medium@l7mp-technologies: Voice-AI-Agent in Kubernetes using Azure, STUNner and LiveKit](https://medium.com/l7mp-technologies/running-reel-time-ai-voice-assistants-in-kubernetes-136662bd031f)
  - [zdnet-article: Want generative-ai-llms-integrated with your-business-data-you need-RAG](https://www.zdnet.com/article/want-generative-ai-llms-integrated-with-your-business-data-you-need-rag/)
- - [alibabacloud-solutions-AI-apps: RT-interaction](https://www.alibabacloud.com/en/solutions/ai-application/real-time-interaction?_p_lc=1)
+ - [alibabacloud-solutions-AI-apps: RT-interaction ~ Real-Time(RT) Audio and Video Calls with AI Agents](https://www.alibabacloud.com/en/solutions/ai-application/real-time-interaction?_p_lc=1)
  - [...](https://www.google.com/search?sca_esv=84558b4239d0d7dc&rlz=1C1CHBF_enRO1132RO1132&sxsrf=AHTn8zodTjyFI8fCpe_f4uB7jP6L0__2yg:1743498593387&q=python+llm+IFRS,IAS+IFRS+SIC&udm=2&fbs=ABzOT_BYhiZpMrUAF0c9tORwPGlsodhGu4F1UEhEeTehlBu7020oMQ7aBpF-aNynCVlndtbrl-4J-rajucdRXcWuI2dKH9PAaK3ysaU0BSsPt4nUY66XgK_i1ksX1t7wbJ4XlSN3_Sovl3KlCML7ME1cwouhGns_CkbpeIPnBxJEJSEGrnnH0JwIXbOS9r6Vd51OJD3AQnYmg6tzAhwyAP9i66uHsY6dbQ&sa=X&ved=2ahUKEwjF4syyvraMAxWsBdsEHYEZI0cQtKgLegQIDhAB&biw=1920&bih=911&dpr=1)
