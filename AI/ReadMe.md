@@ -78,7 +78,8 @@ Methodologies and Off-the-Shelf Examples](https://download.ssrn.com/2024/6/29/46
  - [medium@the-model-observer: Building an Agentic RAG with LanceDB(VDB), Anthropic’s-Model Context Protocol(MCP), Bedrock, and Ollama(OL) in Google Colab(GCP)](https://medium.com/the-model-observer/building-an-agentic-rag-with-lancedb-mcp-bedrock-and-ollama-in-google-colab-8b6d4643f3f9)
  - [dailyDoseOfDS(Daily Dose of Data-Science): MCP-powered Agentic-RAG](https://www.dailydoseofds.com/p/mcp-powered-agentic-rag/);
    <br/>[animated-gif](https://github.com/stefanache/MFP-ANAF-RO/blob/main/AI/MCP_powered_Agentic-RAG.gif)
-   <br/>[medium@@nravi3: Empower R(etrieval) in RAG ~ How MCP Enables Scalable Retrieval for Agentic AI](https://medium.com/@nravi3/empowering-the-r-in-rag-how-mcp-enables-scalable-retrieval-for-agentic-ai-93f2d3fd93c0)
+   <br/>[medium@@nravi3: Empower R(etrieval) in RAG ~ How MCP Enables Scalable Retrieval for Agentic AI](https://medium.com/@nravi3/empowering-the-r-in-rag-how-mcp-enables-scalable-retrieval-for-agentic-ai-93f2d3fd93c0);
+   {RAG(classical)](https://raw.githubusercontent.com/stefanache/MFP-ANAF-RO/refs/heads/main/AI/classical_RAG.webp); 
  - [dailyDoseOfDS: Deploy a Qwen3 Agentic-RAG](https://blog.dailydoseofds.com/p/deploy-a-qwen-3-agentic-rag); [animated-gif](https://raw.githubusercontent.com/stefanache/MFP-ANAF-RO/refs/heads/main/AI/Agentic-RAG%20workflow%20powered%20by%20Qwen3.webp)
  - [medium@abvijaykumar: Hands on — Agentic RAG (3/3) — Agentic Integrated with MCP Server](https://abvijaykumar.medium.com/hands-on-agentic-rag-3-3-agentic-integrated-with-mcp-server-055e1d601608);
    <br/>[Part 2 Hands on — Agentic RAG (2/3) — Agentic ReRanking RAG ](https://abvijaykumar.medium.com/hands-on-agentic-rag-2-3-agentic-reranking-rag-773b04cf4cdd)
