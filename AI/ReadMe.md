@@ -88,7 +88,7 @@ Methodologies and Off-the-Shelf Examples](https://download.ssrn.com/2024/6/29/46
    <br/>[Part 1 of the blog Hands on — Agentic RAG (1/3)](https://medium.com/@abvijaykumar/hands-on-agentic-rag-1-2-cdf375ad7e7a);
  - [GH@omerbsezer: Fast-LLM-Agent-MCP](https://github.com/omerbsezer/Fast-LLM-Agent-MCP)
  - [Formal Reasoning Meets LLMs: (AI4Math) Toward AI for Mathematics and Verification](https://arxiv.org/html/2412.16075v1)
- - [Ollama(OL) - DeepSeek-Math-7B-RL:Q4](https://ollama.com/t1c/deepseek-math-7b-rl:Q4); [OL - Lemma](https://ollama.com/Hudson/llemma:7b);[OL WizzardMath library](https://ollama.com/library/wizard-math); [OL-libraries](https://ollama.com/library); [OL mathstral library](https://ollama.com/library/mathstral/blobs/36ee4ce5634b)
+ - [Ollama(OL) - DeepSeek-Math-7B-RL:Q4](https://ollama.com/t1c/deepseek-math-7b-rl:Q4); [OL - Lemma](https://ollama.com/Hudson/llemma:7b);[OL WizzardMath library](https://ollama.com/library/wizard-math); [OL-libraries](https://ollama.com/library); [OL mathstral library](https://ollama.com/library/mathstral/blobs/36ee4ce5634b); [OL qwen2.5-math](https://www.ollama.com/mightykatun/qwen2.5-math)
  - [rePrompt: AI-Powered Solutions for Complex Math](https://reprompt.gg/prompts/categories/mathematics)
  - [reddit: Math-prompting](https://www.reddit.com/r/PromptEngineering/comments/13l2u7s/i_need_help_to_make_a_prompt_that_will_convert/)
  - [learnPrompting: MathPrompter](https://learnprompting.org/docs/reliability/math?srsltid=AfmBOor3J_UM1kISxxfersVILXP1VlAqvjE1_Lb43hF-iPmpSOyJWrbV)
