@@ -90,5 +90,6 @@ Methodologies and Off-the-Shelf Examples](https://download.ssrn.com/2024/6/29/46
  - [Formal Reasoning Meets LLMs: (AI4Math) Toward AI for Mathematics and Verification](https://arxiv.org/html/2412.16075v1)
  - [Ollama(OL) - DeepSeek-Math-7B-RL:Q4](https://ollama.com/t1c/deepseek-math-7b-rl:Q4); [OL - Lemma](https://ollama.com/Hudson/llemma:7b);[OL WizzardMath library](https://ollama.com/library/wizard-math); [OL-libraries](https://ollama.com/library); [OL mathstral library](https://ollama.com/library/mathstral/blobs/36ee4ce5634b)
  - [rePrompt: AI-Powered Solutions for Complex Math](https://reprompt.gg/prompts/categories/mathematics)
- - [Math-prompting](https://www.reddit.com/r/PromptEngineering/comments/13l2u7s/i_need_help_to_make_a_prompt_that_will_convert/)
+ - [reddit: Math-prompting](https://www.reddit.com/r/PromptEngineering/comments/13l2u7s/i_need_help_to_make_a_prompt_that_will_convert/)
+ - [learnPrompting: MathPrompter](https://learnprompting.org/docs/reliability/math?srsltid=AfmBOor3J_UM1kISxxfersVILXP1VlAqvjE1_Lb43hF-iPmpSOyJWrbV)
  - [...](https://www.google.com/search?sca_esv=84558b4239d0d7dc&rlz=1C1CHBF_enRO1132RO1132&sxsrf=AHTn8zodTjyFI8fCpe_f4uB7jP6L0__2yg:1743498593387&q=python+llm+IFRS,IAS+IFRS+SIC&udm=2&fbs=ABzOT_BYhiZpMrUAF0c9tORwPGlsodhGu4F1UEhEeTehlBu7020oMQ7aBpF-aNynCVlndtbrl-4J-rajucdRXcWuI2dKH9PAaK3ysaU0BSsPt4nUY66XgK_i1ksX1t7wbJ4XlSN3_Sovl3KlCML7ME1cwouhGns_CkbpeIPnBxJEJSEGrnnH0JwIXbOS9r6Vd51OJD3AQnYmg6tzAhwyAP9i66uHsY6dbQ&sa=X&ved=2ahUKEwjF4syyvraMAxWsBdsEHYEZI0cQtKgLegQIDhAB&biw=1920&bih=911&dpr=1)
