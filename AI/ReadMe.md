@@ -88,4 +88,5 @@ Methodologies and Off-the-Shelf Examples](https://download.ssrn.com/2024/6/29/46
    <br/>[Part 1 of the blog Hands on — Agentic RAG (1/3)](https://medium.com/@abvijaykumar/hands-on-agentic-rag-1-2-cdf375ad7e7a);
  - [GH@omerbsezer: Fast-LLM-Agent-MCP](https://github.com/omerbsezer/Fast-LLM-Agent-MCP)
  - [Formal Reasoning Meets LLMs: Toward AI for Mathematics and Verification](https://arxiv.org/html/2412.16075v1)
+ - [Ollama - DeepSeek-Math-7B-RL:Q4](https://ollama.com/t1c/deepseek-math-7b-rl:Q4)
  - [...](https://www.google.com/search?sca_esv=84558b4239d0d7dc&rlz=1C1CHBF_enRO1132RO1132&sxsrf=AHTn8zodTjyFI8fCpe_f4uB7jP6L0__2yg:1743498593387&q=python+llm+IFRS,IAS+IFRS+SIC&udm=2&fbs=ABzOT_BYhiZpMrUAF0c9tORwPGlsodhGu4F1UEhEeTehlBu7020oMQ7aBpF-aNynCVlndtbrl-4J-rajucdRXcWuI2dKH9PAaK3ysaU0BSsPt4nUY66XgK_i1ksX1t7wbJ4XlSN3_Sovl3KlCML7ME1cwouhGns_CkbpeIPnBxJEJSEGrnnH0JwIXbOS9r6Vd51OJD3AQnYmg6tzAhwyAP9i66uHsY6dbQ&sa=X&ved=2ahUKEwjF4syyvraMAxWsBdsEHYEZI0cQtKgLegQIDhAB&biw=1920&bih=911&dpr=1)
