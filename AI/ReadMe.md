@@ -107,4 +107,5 @@ Methodologies and Off-the-Shelf Examples](https://download.ssrn.com/2024/6/29/46
  - [Beyond Text Generation: Coding Ollama Function Calls and Tools](https://programmer.ie/post/functions/)
  - [OL-python for LLM=qwen2-7b](https://ollama.com/mannix/qwen2-7b)
  - [medium@@miki_45906: Converting an MCP Server from SSE to stdio: A Simple Local Solution](https://medium.com/@miki_45906/converting-an-mcp-server-from-sse-to-stdio-a-simple-solution-dec9bb8fef8e)
+ - [Building an Advanced RAG Pipeline Using Docling, Groq, Ollama with GLIDER Evaluation](https://medium.com/the-ai-forum/building-an-advanced-rag-pipeline-using-docling-groq-ollama-with-glider-evaluation-b91c290b0c84)
  - [...](https://www.google.com/search?sca_esv=84558b4239d0d7dc&rlz=1C1CHBF_enRO1132RO1132&sxsrf=AHTn8zodTjyFI8fCpe_f4uB7jP6L0__2yg:1743498593387&q=python+llm+IFRS,IAS+IFRS+SIC&udm=2&fbs=ABzOT_BYhiZpMrUAF0c9tORwPGlsodhGu4F1UEhEeTehlBu7020oMQ7aBpF-aNynCVlndtbrl-4J-rajucdRXcWuI2dKH9PAaK3ysaU0BSsPt4nUY66XgK_i1ksX1t7wbJ4XlSN3_Sovl3KlCML7ME1cwouhGns_CkbpeIPnBxJEJSEGrnnH0JwIXbOS9r6Vd51OJD3AQnYmg6tzAhwyAP9i66uHsY6dbQ&sa=X&ved=2ahUKEwjF4syyvraMAxWsBdsEHYEZI0cQtKgLegQIDhAB&biw=1920&bih=911&dpr=1)
