@@ -119,6 +119,7 @@ Methodologies and Off-the-Shelf Examples](https://download.ssrn.com/2024/6/29/46
  - [<b>Google: 9 MCP servers</b>](https://ai-romania.ro/automatizari-cu-9-servere-google-mcp/)
  - [<b>Set-Up MCP-server</b>](https://thenewstack.io/how-to-set-up-a-model-context-protocol-server/)
  - [<b>Agile CRM MCP Server</b>](https://www.appypieautomate.ai/integrate/mcp/agile-crm)
+ - [<b>wiki.ro - MCP server</b>](https://aiparte.ro/rowiki/)
  - Others Few Examples of MCP Servers:
    
     -- [Filesystem Server](https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem): Reads/writes local files.<br/>
