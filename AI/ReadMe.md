@@ -112,4 +112,5 @@ Methodologies and Off-the-Shelf Examples](https://download.ssrn.com/2024/6/29/46
  - [runzhe-yang.science: The Socratic Method for Self-Discovery in Large Language Models](https://runzhe-yang.science/2023-05-05-socratic/)
  - [<b>Server MCP Romania</b>(ONRC,ANAF,MJ)](https://www-incorpo-ro.translate.goog/en-us/tools/mcp-romania/?_x_tr_sl=auto&_x_tr_tl=ro&_x_tr_hl=ro)
  - [<b>Edu.Romania MCP Online</b>](https://aiparte.ro/scoli/server_scoli/)
+ - [<b>AI Romanaia MCP-server</b>](https://ai-romania.ro/cum-sa-programezi-un-server-mcp/)
  - [...](https://www.google.com/search?sca_esv=84558b4239d0d7dc&rlz=1C1CHBF_enRO1132RO1132&sxsrf=AHTn8zodTjyFI8fCpe_f4uB7jP6L0__2yg:1743498593387&q=python+llm+IFRS,IAS+IFRS+SIC&udm=2&fbs=ABzOT_BYhiZpMrUAF0c9tORwPGlsodhGu4F1UEhEeTehlBu7020oMQ7aBpF-aNynCVlndtbrl-4J-rajucdRXcWuI2dKH9PAaK3ysaU0BSsPt4nUY66XgK_i1ksX1t7wbJ4XlSN3_Sovl3KlCML7ME1cwouhGns_CkbpeIPnBxJEJSEGrnnH0JwIXbOS9r6Vd51OJD3AQnYmg6tzAhwyAP9i66uHsY6dbQ&sa=X&ved=2ahUKEwjF4syyvraMAxWsBdsEHYEZI0cQtKgLegQIDhAB&biw=1920&bih=911&dpr=1)
