@@ -117,4 +117,5 @@ Methodologies and Off-the-Shelf Examples](https://download.ssrn.com/2024/6/29/46
  - [<b>PT.ro - Ce este MCP?</b>](https://www.pt.ro/ce-este-mcp-model-context-protocol/)
  - [<b>How-to build a simple MCP-server?</b>](https://developers.redhat.com/articles/2025/08/12/how-build-simple-agentic-ai-server-mcp#building_the_weather_mcp_server_)
  - [<b>Google: 9 MCP servers</b>](https://ai-romania.ro/automatizari-cu-9-servere-google-mcp/)
+ - [<b>Set-Up MCP-server</b>](https://thenewstack.io/how-to-set-up-a-model-context-protocol-server/)
  - [...](https://www.google.com/search?sca_esv=84558b4239d0d7dc&rlz=1C1CHBF_enRO1132RO1132&sxsrf=AHTn8zodTjyFI8fCpe_f4uB7jP6L0__2yg:1743498593387&q=python+llm+IFRS,IAS+IFRS+SIC&udm=2&fbs=ABzOT_BYhiZpMrUAF0c9tORwPGlsodhGu4F1UEhEeTehlBu7020oMQ7aBpF-aNynCVlndtbrl-4J-rajucdRXcWuI2dKH9PAaK3ysaU0BSsPt4nUY66XgK_i1ksX1t7wbJ4XlSN3_Sovl3KlCML7ME1cwouhGns_CkbpeIPnBxJEJSEGrnnH0JwIXbOS9r6Vd51OJD3AQnYmg6tzAhwyAP9i66uHsY6dbQ&sa=X&ved=2ahUKEwjF4syyvraMAxWsBdsEHYEZI0cQtKgLegQIDhAB&biw=1920&bih=911&dpr=1)
