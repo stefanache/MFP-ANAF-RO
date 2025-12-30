@@ -3,7 +3,7 @@
 Acest "github-repository" [**NU ESTE UNUL OFICIAL**](https://doc.iapp.ro/swagger) dar poate constitui(daca doriti) un [instrument](https://mfinante.gov.ro/web/efactura/aplicatii-web-ro-efactura)
 /accelerator util de invatare/cercetare/explorare(un fel de... 
                        ["Informatica/Programarea-povestita"](https://iapp.ro/blog/PHP%20API%20ANAF%20SPV)!) 
-care ... vine(sau NU!:) in  sprijinul  activitatii dvs. de digitalizare curenta!
+care ... [**vine**](https://doc.inap.ro/swagger)(sau *NU*!:) in  sprijinul  activitatii dvs. de digitalizare curenta!
 
 Sper ca aceasta documentatie/notite de analiza [cvasi-]tehnica  constituie macar o sursa de inspiratie;
 (aceasta se adreseaza tuturor factorilor implicati/angajati in acest efort comun de eGuvernare)
