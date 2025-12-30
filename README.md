@@ -1,6 +1,6 @@
 ***[Atentie](https://code.visualstudio.com/docs/sourcecontrol/github)***: 
       
-Acest "github-repository" NU ESTE UNUL OFICIAL dar poate constitui(daca doriti) un instrument
+Acest "github-repository" NU ESTE UNUL OFICIAL dar poate constitui(daca doriti) un [instrument](https://mfinante.gov.ro/web/efactura/aplicatii-web-ro-efactura)
 /accelerator util de invatare/cercetare/explorare(un fel de... 
                        "Informatica/Programarea-povestita"!) 
 care ... vine(sau NU!:) in  sprijinul  activitatii dvs. de digitalizare curenta!
