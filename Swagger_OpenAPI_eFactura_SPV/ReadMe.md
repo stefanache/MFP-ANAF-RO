@@ -1,4 +1,14 @@
+Salutare tuturor!
+
 Inca de la inceput voi incepe prin a multumi ***ChatGPT***/**OpenAI** pt suportul acordat!
+
+In general exista API-uri ce isi afiseaza/ofera fisierul swagger sau sunt prezentate pe un URL documentatia Swagger.
+UN exemplu ar putea fi [iApp](https://doc.iapp.ro/swagger) dar sunt nenumarate alte exemple.
+
+Astfel  pe baza unui astfel de fisier prin care se expune un API poate fi utilizat pt a genera un SDK intrun limbaj de programare prin care sa puteti accesa acel API.
+
+Se pune insa problema oare API-ul eFactura al fiscal din Romania(ANAF/MFP/RO) are oficial un astfel de document publicat oficial la nivelul anului 2025?
+
 
 - Da — există o formă de „Swagger / OpenAPI” pentru API‑urile ANAF SPV (RO e‑Factura), dar ANAF nu publică un fișier oficial Swagger/OpenAPI complet separat ca fișier .json sau .yaml pe care să îl descarci și să îl imporți direct în Swagger UI / OpenAPI Generator. 
 Reddit
