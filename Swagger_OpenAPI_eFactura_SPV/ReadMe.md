@@ -66,6 +66,8 @@ Pentru a folosi API‑ul (nu doar Swagger‑ul), trebuie neapărat:
 
 Acest proces e detaliat în documentația oficială procedură OAuth2 oferită de ANAF în PDF
 
+<hr/>
+
 - Voi genera un fișier Swagger/OpenAPI YAML complet(dar neoficial!) pentru RO e‑Factura, care include:
 
 1. Autentificare OAuth2 + JWT
@@ -289,7 +291,9 @@ paths:
 
 4. Poți testa endpoint-urile direct în Swagger UI sau Postman, cu autentificarea OAuth2 + certificat digital SPV.
 
-Da, se poate genera un SDK si pentru PHP folosind OpenAPI Generator sau alte tool-uri compatibile OpenAPI. YAML-ul pe care l-am generat poate fi folosit pentru asta.
+<hr/>
+
+- Da, se poate genera un SDK si pentru PHP folosind OpenAPI Generator sau alte tool-uri compatibile OpenAPI. YAML-ul pe care l-am generat poate fi folosit pentru asta.
 
 Iată pașii concreți:
 
@@ -352,3 +356,5 @@ try {
 }
 
 Acest cod este direct compatibil cu SDK-ul PHP generat din YAML.
+
+<hr/>
