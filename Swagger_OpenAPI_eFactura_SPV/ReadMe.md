@@ -320,7 +320,7 @@ Dacă ai *Java* instalat:
 
 2️⃣ Generează SDK PHP
 
-Comanda este:
+Comanda shell Linus/Windows/macOS este:
 
 **openapi-generator-cli generate \
   -i swagger-efactura-complet.yaml \
