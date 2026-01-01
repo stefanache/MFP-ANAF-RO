@@ -87,6 +87,8 @@ Acest proces e detaliat în documentația oficială procedură OAuth2 oferită d
 8. Schematizare completă a tipurilor de date
 
 [**swagger-efactura-complet.yaml**]
+
+<code>
 openapi: 3.0.3
 info:
   title: ANAF RO e-Factura API
@@ -276,7 +278,7 @@ paths:
                 format: binary
         '400':
           description: XML invalid
-
+</code>
 
 ✅ Ce poți face cu acest YAML complet
 
