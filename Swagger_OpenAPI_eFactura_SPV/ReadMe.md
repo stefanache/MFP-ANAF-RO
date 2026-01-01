@@ -363,5 +363,21 @@ try {
 Acest cod este direct compatibil cu SDK-ul PHP generat din YAML.
 
 <hr/>
+Am generat un prim SDK PHP minimal/demo/partial(deci neoficial,netestat si incomplet) pentru e‑Factura bazat pe YAML-ul OpenAPI. Îl poți descărca de aici:
 
- - O sa salvez aici si un PhP-SDK(din nou neoficial si mai mult netestat inca!) pt api-ul **eFactura** din **SPV**-ul ***ANAF***-ului 
+Descărcați **efactura-sdk-php.zip**
+
+Zip-ul conține:
+
+-- composer.json – pentru instalare rapidă în proiect PHP
+
+-- src/Configuration.php – configurare OAuth2
+
+-- src/Api/UploadApi.php – exemplu de API pentru încărcarea facturilor
+
+-- src/Model/InvoiceUBL.php – model de factură UBL
+
+<hr/>
+
+ - O sa salvez aici si un PhP-SDK(e adevarat mai complet dar din nou neoficial si mai mult netestat inca!) pt api-ul **eFactura** din **SPV**-ul ***ANAF***-ului.
+    
