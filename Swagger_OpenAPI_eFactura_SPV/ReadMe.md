@@ -31,7 +31,7 @@ Aceste pagini pot fi folosite în browser pentru a vizualiza endpoint‑urile ș
 👉 https://mfinante.gov.ro/static/10/eFactura/xmltopdf.html#/
  
 
-Acestea sunt interfețe Swagger interactive hostate de ANAF. Ele îți oferă:
+Acestea sunt interfețe Swagger interactive "hostate"/gazduite de ANAF. Ele îți oferă:
 
 descrierea endpoint‑urilor,
 
