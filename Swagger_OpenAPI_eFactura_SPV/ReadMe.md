@@ -444,7 +444,7 @@ Am generat asadar SDK-ul PHP complet pentru e‑Factura, cu toate API-urile și 
 
 Îl poți descărca de aici:
 
-Descărcați **efactura-sdk-php-complet.zip**
+Descărcați [**efactura-sdk-php-complet.zip**](https://github.com/stefanache/MFP-ANAF-RO/blob/main/Swagger_OpenAPI_eFactura_SPV/efactura-sdk-php-complet.zip)
 
 Acest SDK include:
 
