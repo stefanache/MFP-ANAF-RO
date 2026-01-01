@@ -3,7 +3,7 @@
 Inca de la inceput voi incepe prin a multumi ***ChatGPT***/**OpenAI** pt suportul acordat!
 
 In general exista API-uri ce isi afiseaza/ofera fisierul swagger sau sunt prezentate pe un URL documentatia Swagger.
-UN exemplu ar putea fi [***iApp***](https://doc.iapp.ro/swagger) dar sunt nenumarate alte exemple.
+Un exemplu ar putea fi [***iApp***](https://doc.iapp.ro/swagger) dar sunt nenumarate alte exemple.
 
 Astfel  pe baza unui astfel de fisier prin care se expune un API poate fi utilizat pt a genera un SDK intrun limbaj de programare prin care sa puteti accesa acel API.
 
