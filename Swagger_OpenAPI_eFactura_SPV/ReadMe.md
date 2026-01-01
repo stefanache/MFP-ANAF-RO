@@ -284,7 +284,7 @@ paths:
 
 1. Salvezi ca swagger-efactura-complet.yaml
 
-2. Încarci în Swagger Editor
+2. Încarci(Import) în Swagger Editor
  → vezi schema completă
 
 3. Generezi SDK Python/TS/Go/Java folosind:
