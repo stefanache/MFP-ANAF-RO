@@ -363,3 +363,5 @@ try {
 Acest cod este direct compatibil cu SDK-ul PHP generat din YAML.
 
 <hr/>
+
+ - O sa salvez aici si un PhP-SDK(din nou neoficial si mai mult netestat inca!) pt api-ul **eFactura** din **SPV**-ul ***ANAF***-ului 
