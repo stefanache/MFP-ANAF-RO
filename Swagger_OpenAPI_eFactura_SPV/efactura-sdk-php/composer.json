@@ -1,0 +1,13 @@
+{
+  "name": "efactura/sdk",
+  "description": "SDK PHP pentru ANAF e-Factura (SPV) generat din Swagger YAML",
+  "require": {
+    "php": ">=7.4",
+    "guzzlehttp/guzzle": "^7.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Efatura\\": "src/"
+    }
+  }
+}

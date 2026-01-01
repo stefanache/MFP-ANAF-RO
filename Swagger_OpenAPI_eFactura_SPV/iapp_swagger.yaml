@@ -1,0 +1,203 @@
+openapi: 3.0.3
+info:
+  title: Documentație API Facturare și integrări - Inside App
+  description: Am dezvoltat integrarea REST API pentru a vă oferi posibilitatea de a conecta aplicația Inside App cu orice platformă. În acest fel puteți folosi orice limbaj de programare.
+  version: 1.10.0
+
+servers:
+  - url: https://api.my.iapp.ro
+    description: Principal
+  - url: https://api-facturare.inap.ro
+    description: Secundar
+
+components:
+  securitySchemes:
+    basicAuth:
+      type: http
+      scheme: basic
+
+security:
+  - basicAuth: []
+
+paths:
+  /emite/proforma:
+    $ref: './requests/proforma-emite-factura.yaml'
+  /emite/proforma-v2:
+    $ref: './requests/proforma-emite-factura-v2.yaml'
+  /vizualizare/proforma:
+    $ref: './requests/proforma-view.yaml'
+  /anuleaza/proforma:
+    $ref: './requests/proforma-anuleaza.yaml'
+  /factureaza/proforma:
+    $ref: './requests/proforma-factureaza.yaml'
+  /vizualizare/proforme:
+    $ref: './requests/proforme-vizualizare.yaml'
+  /modifica/proforma:
+    $ref: './requests/proforma-modifica.yaml'
+  /sterge/proforma:
+    $ref: './requests/proforma-sterge.yaml'
+
+  /emite/factura:
+    $ref: './requests/fiscala-emite-factura.yaml'
+  /emite/factura-v2:
+    $ref: './requests/fiscala-emite-factura-v2.yaml'
+  /vizualizare/factura:
+    $ref: './requests/fiscala-view.yaml'
+  /modifica/factura:
+    $ref: './requests/fiscala-modifica.yaml'
+  /anuleaza/factura:
+    $ref: './requests/fiscala-anuleaza.yaml'
+  /incaseaza/factura:
+    $ref: './requests/fiscala-incaseaza.yaml'
+  /storneaza/factura:
+    $ref: './requests/fiscala-storneaza.yaml'
+  /vizualizare/facturi:
+    $ref: './requests/fiscale-vizualizare.yaml'
+  /sterge/factura:
+    $ref: './requests/fiscala-sterge.yaml'
+
+  /vizualizare/incasare:
+    post:
+      summary: Vizualizare o încasare (Indisponibil momentan)
+      deprecated: true
+      tags: [Încasări]
+  /modifica/incasare:
+    post:
+      summary: Modifică o încasare (Indisponibil momentan)
+      deprecated: true
+      tags: [Încasări]
+  /sterge/incasare:
+    post:
+      summary: Șterge o încasare (Indisponibil momentan)
+      deprecated: true
+      tags: [Încasări]
+  /vizualizare/incasari:
+    get:
+      summary: Vizualizare lista încasări (Indisponibil momentan)
+      deprecated: true
+      tags: [Încasări]
+
+  /emite/chitanta:
+    post:
+      summary: Emite o chitanță (Indisponibil momentan)
+      deprecated: true
+      tags: [Chitanțe]
+  /vizualizare/chitanta:
+    post:
+      summary: Vizualizare o chitanță (Indisponibil momentan)
+      deprecated: true
+      tags: [Chitanțe]
+  /anuleaza/chitanta:
+    post:
+      summary: Anulează o chitanță (Indisponibil momentan)
+      deprecated: true
+      tags: [Chitanțe]
+  /modifica/chitanta:
+    post:
+      summary: Modifică o chitanță (Indisponibil momentan)
+      deprecated: true
+      tags: [Chitanțe]
+  /vizualizare/chitante:
+    get:
+      summary: Vizualizare lista chitanțe (Indisponibil momentan)
+      deprecated: true
+      tags: [Chitanțe]
+  /sterge/chitanta:
+    post:
+      summary: Șterge o chitanță (Indisponibil momentan)
+      deprecated: true
+      tags: [Chitanțe]
+
+  /clienti/lista:
+    $ref: './requests/client-lista.yaml'
+  /clienti/vizualizare:
+    $ref: './requests/client-vizualizare.yaml'
+  /clienti/adauga:
+    $ref: './requests/clienti-adauga.yaml'
+  /clienti/modifica:
+    $ref: './requests/clienti-modifica.yaml'
+  /clienti/sterge:
+    $ref: './requests/clienti-sterge.yaml'
+
+  /produse/lista:
+    $ref: './requests/produse-lista.yaml'
+  /produse/vizualizare:
+    $ref: './requests/produse-vizualizare.yaml'
+  /produse/adauga:
+    $ref: './requests/produse-adauga.yaml'
+  /produse/modifica:
+    $ref: './requests/produse-modifica.yaml'
+  /produse/sterge:
+    $ref: './requests/produse-sterge.yaml'
+
+  /serie/lista:
+    $ref: './requests/serie-lista.yaml'
+  /serie/vizualizare:
+    $ref: './requests/serie-vizualizare.yaml'
+  /serie/design:
+    $ref: './requests/serie-design.yaml'
+  /serie/adauga:
+    $ref: './requests/serie-adauga.yaml'
+  /serie/modifica:
+    $ref: './requests/serie-modifica.yaml'
+  /serie/sterge:
+    $ref: './requests/serie-sterge.yaml'
+  /serie/sterge-logo:
+    $ref: './requests/serie-sterge-logo.yaml'
+
+  /conturibancare/lista:
+    $ref: './requests/conturibancare-lista.yaml'
+  /conturibancare/vizualizare:
+    $ref: './requests/conturibancare-vizualizare.yaml'
+  /conturibancare/adauga:
+    $ref: './requests/conturibancare-adauga.yaml'
+  /conturibancare/modifica:
+    $ref: './requests/conturibancare-modifica.yaml'
+  /conturibancare/sterge:
+    $ref: './requests/conturibancare-sterge.yaml'
+
+  /vizualizare/cursvalutar:
+    $ref: './requests/vizualizare-cursvalutar.yaml'
+
+  /info/cif:
+    $ref: './requests/info-cif.yaml'
+  
+  /e-factura/emise:
+    $ref: './requests/e-factura-emise.yaml'
+  /e-factura/view-emise:
+    $ref: './requests/e-factura-view-emise.yaml'
+  /e-factura/descarca-emise:
+    $ref: './requests/e-factura-descarca-emise.yaml'
+  /e-factura/furnizori:
+    $ref: './requests/e-factura-furnizori.yaml'
+  /e-factura/view-furnizori:
+    $ref: './requests/e-factura-view-furnizori.yaml'
+  /e-factura/descarca-furnizori:
+    $ref: './requests/e-factura-descarca-furnizori.yaml'
+  /e-factura/upload-xml:
+    $ref: './requests/e-factura-upload-xml.yaml'
+  /e-factura/upload-status:
+    $ref: './requests/e-factura-upload-status.yaml'
+
+  /firma/lista:
+    $ref: './requests/firma-lista.yaml'
+  /firma/vizualizare:
+    $ref: './requests/firma-vizualizare.yaml'
+  /firma/api:
+    $ref: './requests/firma-api.yaml'
+  /firma/api-reset:
+    $ref: './requests/firma-api-reset.yaml'
+  /firma/adauga:
+    $ref: './requests/firma-adauga.yaml'
+  /firma/modifica:
+    $ref: './requests/firma-modifica.yaml'
+  /firma/dezactiveaza:
+    $ref: './requests/firma-dezactiveaza.yaml'
+  /firma/activeaza:
+    $ref: './requests/firma-activeaza.yaml'
+
+  /e-factura/autorizare:
+    $ref: './requests/e-factura-autorizare.yaml'
+  /e-factura/autorizare-lista:
+    $ref: './requests/e-factura-autorizare-lista.yaml'
+
