@@ -100,9 +100,7 @@ Acest proces e detaliat în documentația oficială procedură OAuth2 oferită d
 
 **swagger-efactura-complet.yaml**
 
-<code>
-
-openapi: 3.0.3
+<code>openapi: 3.0.3
 info:
   title: ANAF RO e-Factura API
   version: 1.0.0
@@ -290,9 +288,7 @@ paths:
                 type: string
                 format: binary
         '400':
-          description: XML invalid
-
-</code>
+          description: XML invalid</code>
 
 ✅ Ce poți face cu acest YAML complet
 
