@@ -289,7 +289,7 @@ paths:
 
 3. Generezi SDK Python/TS/Go/Java folosind:
 
-[*openapi-generator-cli generate -i swagger-efactura-complet.yaml -g python -o efactura-sdk-python*]
+[**openapi-generator-cli generate -i swagger-efactura-complet.yaml -g python -o efactura-sdk-python**]
 
 4. Poți testa endpoint-urile direct în Swagger UI sau Postman, cu autentificarea OAuth2 + certificat digital SPV.
 
