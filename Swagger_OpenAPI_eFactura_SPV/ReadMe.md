@@ -299,13 +299,14 @@ paths:
 
 Iată pașii concreți:
 
-1️⃣ Instalează OpenAPI Generator
+1️⃣ Instalează **OpenAPI Generator**
 
-Dacă ai Java instalat:
+Dacă ai *Java* instalat:
+-- macOS de exemplu
 
-**brew install openapi-generator  # macOS de exemplu**
+**brew install openapi-generator**
 
-# sau pentru Linux/Windows descărcați JAR-ul oficial: https://openapi-generator.tech/docs/installation
+-- sau pentru *Linux/Windows* descărcați JAR-ul oficial: **https://openapi-generator.tech/docs/installation**
 
 2️⃣ Generează SDK PHP
 
