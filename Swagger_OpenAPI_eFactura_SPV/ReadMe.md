@@ -1,4 +1,4 @@
-Da — există o formă de „Swagger / OpenAPI” pentru API‑urile ANAF SPV (RO e‑Factura), dar ANAF nu publică un fișier oficial Swagger/OpenAPI complet separat ca fișier .json sau .yaml pe care să îl descarci și să îl imporți direct în Swagger UI / OpenAPI Generator. 
+- Da — există o formă de „Swagger / OpenAPI” pentru API‑urile ANAF SPV (RO e‑Factura), dar ANAF nu publică un fișier oficial Swagger/OpenAPI complet separat ca fișier .json sau .yaml pe care să îl descarci și să îl imporți direct în Swagger UI / OpenAPI Generator. 
 Reddit
 
 În schimb:
