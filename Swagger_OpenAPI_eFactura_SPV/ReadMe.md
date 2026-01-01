@@ -9,33 +9,27 @@ Aceste pagini pot fi folosite în browser pentru a vizualiza endpoint‑urile ș
 
 🔹 Upload factura (e‑Factura) – Swagger UI
 👉 https://mfinante.gov.ro/static/10/eFactura/upload.html
- 
-Reddit
+
 
 🔹 Stare mesaj / status – Swagger UI
 👉 https://mfinante.gov.ro/static/10/eFactura/staremesaj.html#/
  
-Reddit
 
 🔹 Descarcare factură – Swagger UI
 👉 https://mfinante.gov.ro/static/10/eFactura/descarcare.html#/
  
-Reddit
 
 🔹 Interogare liste mesaje – Swagger UI
 👉 https://mfinante.gov.ro/static/10/eFactura/listamesaje.html#/
- 
-Reddit
+
 
 🔹 Validare XML / transformare – Swagger UI
 👉 https://mfinante.gov.ro/static/10/eFactura/validare.html#/
  
-Reddit
 
 🔹 Convertire XML → PDF – Swagger UI
 👉 https://mfinante.gov.ro/static/10/eFactura/xmltopdf.html#/
  
-Reddit
 
 Acestea sunt interfețe Swagger interactive hostate de ANAF. Ele îți oferă:
 
@@ -72,8 +66,7 @@ Pentru a folosi API‑ul (nu doar Swagger‑ul), trebuie neapărat:
 
 Acest proces e detaliat în documentația oficială procedură OAuth2 oferită de ANAF în PDF
 
-<
-Voi genera un fișier Swagger/OpenAPI YAML complet(dar neoficial!) pentru RO e‑Factura, care include:
+- Voi genera un fișier Swagger/OpenAPI YAML complet(dar neoficial!) pentru RO e‑Factura, care include:
 
 1. Autentificare OAuth2 + JWT
 
@@ -91,7 +84,7 @@ Voi genera un fișier Swagger/OpenAPI YAML complet(dar neoficial!) pentru RO e�
 
 8. Schematizare completă a tipurilor de date
 
-[*swagger-efactura-complet.yaml*]
+[**swagger-efactura-complet.yaml**]
 openapi: 3.0.3
 info:
   title: ANAF RO e-Factura API
