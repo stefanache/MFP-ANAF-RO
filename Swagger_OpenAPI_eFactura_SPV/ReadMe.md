@@ -98,7 +98,7 @@ Acest proces e detaliat în documentația oficială procedură OAuth2 oferită d
 
 8. Schematizare completă a tipurilor de date
 
-**swagger-efactura-complet.yaml**
+[**swagger-efactura-complet.yaml**](https://github.com/stefanache/MFP-ANAF-RO/blob/main/Swagger_OpenAPI_eFactura_SPV/swagger_efactura_neoficial.yaml)
 
 <code>openapi: 3.0.3
 info:
