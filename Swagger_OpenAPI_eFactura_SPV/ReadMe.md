@@ -86,7 +86,7 @@ Acest proces e detaliat în documentația oficială procedură OAuth2 oferită d
 
 8. Schematizare completă a tipurilor de date
 
-[**swagger-efactura-complet.yaml**]
+**swagger-efactura-complet.yaml**
 
 <code>
 openapi: 3.0.3
@@ -289,7 +289,7 @@ paths:
 
 3. Generezi SDK Python/TS/Go/Java folosind:
 
-[**openapi-generator-cli generate -i swagger-efactura-complet.yaml -g python -o efactura-sdk-python**]
+**openapi-generator-cli generate -i swagger-efactura-complet.yaml -g python -o efactura-sdk-python**
 
 4. Poți testa endpoint-urile direct în Swagger UI sau Postman, cu autentificarea OAuth2 + certificat digital SPV.
 
@@ -303,7 +303,7 @@ Iată pașii concreți:
 
 Dacă ai Java instalat:
 
-[**brew install openapi-generator  # macOS de exemplu**]
+**brew install openapi-generator  # macOS de exemplu**
 
 # sau pentru Linux/Windows descărcați JAR-ul oficial: https://openapi-generator.tech/docs/installation
 
@@ -311,10 +311,10 @@ Dacă ai Java instalat:
 
 Comanda este:
 
-[** openapi-generator-cli generate \
+**openapi-generator-cli generate \
   -i swagger-efactura-complet.yaml \
   -g php \
-  -o efactura-sdk-php**]
+  -o efactura-sdk-php**
 
 -i = fișierul tău OpenAPI YAML
 -g = limbajul țintă (php)
@@ -330,7 +330,8 @@ Funcții care acceptă parametrii și returnează răspunsurile API-ului
 
 Configurare OAuth2 ready pentru autentificare
 
-4️⃣ Exemplu rapid în PHP (generat SDK)   
+4️⃣ Exemplu rapid în PHP (generat SDK) 
+<code>
 
 require_once(__DIR__ . '/vendor/autoload.php');
 
@@ -356,6 +357,7 @@ try {
 } catch (ApiException $e) {
     echo 'Exception when calling UploadApi: ', $e->getMessage(), PHP_EOL;
 }
+</code>
 
 Acest cod este direct compatibil cu SDK-ul PHP generat din YAML.
 
