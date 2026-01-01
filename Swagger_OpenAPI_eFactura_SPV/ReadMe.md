@@ -456,4 +456,4 @@ Acest SDK include:
 
  -- Structură Composer-ready, gata de instalat și folosit
 
-Poți începe integrarea imediat și să trimiți/gestionezi facturi în SPV prin PHP.
+In principiu, ati putea începe integrarea imediat și să trimiți/gestionezi facturi în SPV prin PHP.
