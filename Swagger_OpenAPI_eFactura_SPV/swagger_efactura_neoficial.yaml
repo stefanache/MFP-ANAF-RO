@@ -1,0 +1,189 @@
+openapi: 3.0.3
+info:
+  title: ANAF RO e-Factura API
+  version: 1.0.0
+  description: API pentru transmiterea facturilor electronice în SPV România (RO e-Factura)
+servers:
+  - url: https://webserviceapl.anaf.ro/prod/FCTEL/rest
+    description: Server producție SPV
+components:
+  securitySchemes:
+    OAuth2:
+      type: oauth2
+      flows:
+        clientCredentials:
+          tokenUrl: https://webserviceapl.anaf.ro/oauth/token
+          scopes: {}
+  schemas:
+    InvoiceUBL:
+      type: string
+      format: xml
+      example: "<Invoice>...</Invoice>"
+    MessageStatus:
+      type: object
+      properties:
+        messageId:
+          type: string
+        status:
+          type: string
+        details:
+          type: string
+    ListMessageItem:
+      type: object
+      properties:
+        messageId:
+          type: string
+        status:
+          type: string
+        data:
+          type: string
+    ValidationResult:
+      type: object
+      properties:
+        valid:
+          type: boolean
+        errors:
+          type: array
+          items:
+            type: string
+
+security:
+  - OAuth2: []
+
+paths:
+  /upload:
+    post:
+      summary: Încarcă factură UBL
+      security:
+        - OAuth2: []
+      description: Transmite o factură UBL 2.1 către SPV
+      requestBody:
+        required: true
+        content:
+          application/xml:
+            schema:
+              $ref: '#/components/schemas/InvoiceUBL'
+      responses:
+        '200':
+          description: Factura acceptată
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/MessageStatus'
+        '400':
+          description: Erori validare
+        '401':
+          description: Neautorizat
+
+  /stareMesaj:
+    get:
+      summary: Verificare status mesaj
+      security:
+        - OAuth2: []
+      parameters:
+        - in: query
+          name: messageId
+          schema:
+            type: string
+          required: true
+          description: ID-ul mesajului returnat la upload
+      responses:
+        '200':
+          description: Status mesaj
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/MessageStatus'
+        '401':
+          description: Neautorizat
+
+  /descarcareFactura:
+    get:
+      summary: Descarcă factura procesată / mesaj
+      security:
+        - OAuth2: []
+      parameters:
+        - in: query
+          name: messageId
+          schema:
+            type: string
+          required: true
+          description: ID-ul mesajului de descărcat
+      responses:
+        '200':
+          description: Conținut XML al facturii
+          content:
+            application/xml:
+              schema:
+                $ref: '#/components/schemas/InvoiceUBL'
+        '404':
+          description: Factura nu a fost găsită
+        '401':
+          description: Neautorizat
+
+  /listareMesaje:
+    get:
+      summary: Listare mesaje SPV
+      security:
+        - OAuth2: []
+      parameters:
+        - in: query
+          name: inbox
+          schema:
+            type: string
+          required: false
+          description: Filtru inbox (ex: "inbox", "outbox")
+      responses:
+        '200':
+          description: Lista mesajelor
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/ListMessageItem'
+        '401':
+          description: Neautorizat
+
+  /validareXML:
+    post:
+      summary: Validează un XML UBL
+      security:
+        - OAuth2: []
+      requestBody:
+        required: true
+        content:
+          application/xml:
+            schema:
+              $ref: '#/components/schemas/InvoiceUBL'
+      responses:
+        '200':
+          description: XML valid
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ValidationResult'
+        '400':
+          description: XML invalid
+
+  /convertXMLtoPDF:
+    post:
+      summary: Convertește XML UBL în PDF
+      security:
+        - OAuth2: []
+      requestBody:
+        required: true
+        content:
+          application/xml:
+            schema:
+              $ref: '#/components/schemas/InvoiceUBL'
+      responses:
+        '200':
+          description: PDF generat
+          content:
+            application/pdf:
+              schema:
+                type: string
+                format: binary
+        '400':
+          description: XML invalid
