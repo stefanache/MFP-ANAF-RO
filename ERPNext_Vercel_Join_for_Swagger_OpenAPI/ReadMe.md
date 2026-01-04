@@ -1,12 +1,12 @@
 Join endpoints(prototypes,types) for both
 
-- ERPNext API(Frappe SDK)
-- Vercel API
+- **ERPNext-API**(**Frappe** SDK)
+- **Vercel-API**
 
 *Note*: 
 
-Q:Is eshaustive/completely?
-A: No, it's not 100% exhaustive. Here's what's missing:
+**Q**: Is eshaustive/completely?
+**A**: No, it's not 100% exhaustive. Here's what's missing:
 
 FRAPPE/ERPNEXT:
 - API is dynamic - any custom DocType automatically generates CRUD endpoints
