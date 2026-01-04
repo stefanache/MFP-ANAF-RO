@@ -1,0 +1,327 @@
+FC_Lev1,FC_Lev2,FC_Lev3,Canonical_Function,HTTP_Method,Endpoint_Pattern,Provider,Notes
+auth,login,,auth.login,POST,/api/method/login,frappe-only,Login with username/password
+auth,logout,,auth.logout,POST,/api/method/logout,frappe-only,End session
+auth,logged_user,,auth.logged_user,GET,/api/method/frappe.auth.get_logged_user,frappe-only,Get current user
+auth,tokens,create,auth.tokens.create,POST,/api/v1/tokens,frappe & vercel,Create access token
+auth,tokens,list,auth.tokens.list,GET,/v9/tokens,vercel-only,List all tokens
+auth,tokens,get,auth.tokens.get,GET,/v9/tokens/{tokenId},vercel-only,Get token details
+auth,tokens,delete,auth.tokens.delete,DELETE,/v9/tokens/{tokenId},vercel-only,Revoke token
+auth,oauth,authorize,auth.oauth.authorize,GET,/api/method/frappe.integrations.oauth2.authorize,frappe-only,OAuth2 authorization
+auth,oauth,token,auth.oauth.token,POST,/api/method/frappe.integrations.oauth2.get_token,frappe-only,Get OAuth2 token
+users,list,,users.list,GET,/api/resource/User,frappe-only,List all users
+users,get,,users.get,GET,/api/resource/User/{name},frappe-only,Get user by name
+users,create,,users.create,POST,/api/resource/User,frappe-only,Create new user
+users,update,,users.update,PUT,/api/resource/User/{name},frappe-only,Update user
+users,delete,,users.delete,DELETE,/api/resource/User/{name},frappe-only,Delete user
+users,permissions,,users.permissions,GET,/api/method/frappe.core.doctype.user_permission.user_permission.get_permissions,frappe-only,Get user permissions
+teams,list,,teams.list,GET,/v2/teams,vercel-only,List all teams
+teams,get,,teams.get,GET,/v2/teams/{teamId},vercel-only,Get team by ID
+teams,create,,teams.create,POST,/v1/teams,vercel-only,Create new team
+teams,update,,teams.update,PATCH,/v2/teams/{teamId},vercel-only,Update team
+teams,delete,,teams.delete,DELETE,/v2/teams/{teamId},vercel-only,Delete team
+teams,members,list,teams.members.list,GET,/v2/teams/{teamId}/members,vercel-only,List team members
+teams,members,invite,teams.members.invite,POST,/v1/teams/{teamId}/members,vercel-only,Invite member
+teams,members,get,teams.members.get,GET,/v2/teams/{teamId}/members/{uid},vercel-only,Get member info
+teams,members,update,teams.members.update,PATCH,/v2/teams/{teamId}/members/{uid},vercel-only,Update member role
+teams,members,remove,teams.members.remove,DELETE,/v2/teams/{teamId}/members/{uid},vercel-only,Remove member
+teams,access_request,status,teams.access_request.status,GET,/v1/teams/{teamId}/request/{userId},vercel-only,Check access request
+teams,access_request,join,teams.access_request.join,POST,/v1/teams/{teamId}/members/teams/join,vercel-only,Join team
+access_groups,list,,access_groups.list,GET,/v1/access-groups,vercel-only,List access groups
+access_groups,get,,access_groups.get,GET,/v1/access-groups/{accessGroupIdOrName},vercel-only,Get access group
+access_groups,create,,access_groups.create,POST,/v1/access-groups,vercel-only,Create access group
+access_groups,update,,access_groups.update,POST,/v1/access-groups/{accessGroupIdOrName},vercel-only,Update access group
+access_groups,delete,,access_groups.delete,DELETE,/v1/access-groups/{accessGroupIdOrName},vercel-only,Delete access group
+access_groups,members,list,access_groups.members.list,GET,/v1/access-groups/{accessGroupIdOrName}/members,vercel-only,List group members
+access_groups,projects,list,access_groups.projects.list,GET,/v1/access-groups/{accessGroupIdOrName}/projects,vercel-only,List group projects
+access_groups,projects,create,access_groups.projects.create,POST,/v1/access-groups/{accessGroupIdOrName}/projects,vercel-only,Add project to group
+access_groups,projects,get,access_groups.projects.get,GET,/v1/access-groups/{accessGroupIdOrName}/projects/{projectId},vercel-only,Get project in group
+access_groups,projects,update,access_groups.projects.update,PATCH,/v1/access-groups/{accessGroupIdOrName}/projects/{projectId},vercel-only,Update project in group
+access_groups,projects,delete,access_groups.projects.delete,DELETE,/v1/access-groups/{accessGroupIdOrName}/projects/{projectId},vercel-only,Remove project from group
+roles,list,,roles.list,GET,/api/resource/Role,frappe-only,List all roles
+roles,get,,roles.get,GET,/api/resource/Role/{name},frappe-only,Get role by name
+roles,create,,roles.create,POST,/api/resource/Role,frappe-only,Create new role
+roles,permissions,,roles.permissions,GET,/api/resource/DocPerm,frappe-only,Get role permissions
+documents,list,,documents.list,GET,/api/resource/{doctype},frappe-only,List documents of type
+documents,get,,documents.get,GET,/api/resource/{doctype}/{name},frappe-only,Get document by name
+documents,create,,documents.create,POST,/api/resource/{doctype},frappe-only,Create new document
+documents,update,,documents.update,PUT,/api/resource/{doctype}/{name},frappe-only,Update document
+documents,delete,,documents.delete,DELETE,/api/resource/{doctype}/{name},frappe-only,Delete document
+documents,submit,,documents.submit,POST,/api/v2/document/{doctype}/{name}/method/submit,frappe-only,Submit document
+documents,cancel,,documents.cancel,POST,/api/v2/document/{doctype}/{name}/method/cancel,frappe-only,Cancel document
+documents,amend,,documents.amend,POST,/api/v2/document/{doctype}/{name}/method/amend,frappe-only,Amend cancelled doc
+documents,rename,,documents.rename,POST,/api/v2/document/{doctype}/{name}/method/rename,frappe-only,Rename document
+documents,comment,add,documents.comment.add,POST,/api/v2/document/{doctype}/{name}/method/add_comment,frappe-only,Add comment
+documents,search,,documents.search,GET,/api/method/frappe.client.search_link,frappe-only,Search documents
+documents,count,,documents.count,GET,/api/method/frappe.client.get_count,frappe-only,Count documents
+documents,value,get,documents.value.get,GET,/api/method/frappe.client.get_value,frappe-only,Get single field value
+documents,value,set,documents.value.set,POST,/api/method/frappe.client.set_value,frappe-only,Set single field value
+projects,list,,projects.list,GET,/v9/projects,vercel-only,List all projects
+projects,get,,projects.get,GET,/v9/projects/{idOrName},vercel-only,Get project by ID/name
+projects,create,,projects.create,POST,/v10/projects,vercel-only,Create new project
+projects,update,,projects.update,PATCH,/v9/projects/{idOrName},vercel-only,Update project
+projects,delete,,projects.delete,DELETE,/v9/projects/{idOrName},vercel-only,Delete project
+projects,pause,,projects.pause,POST,/v1/projects/{idOrName}/pause,vercel-only,Pause project
+projects,unpause,,projects.unpause,POST,/v1/projects/{idOrName}/unpause,vercel-only,Unpause project
+projects,transfer,request,projects.transfer.request,POST,/v1/projects/{idOrName}/transfer-request,vercel-only,Request transfer
+projects,transfer,accept,projects.transfer.accept,POST,/v1/projects/{idOrName}/transfer-request/accept,vercel-only,Accept transfer
+projects,domains,list,projects.domains.list,GET,/v9/projects/{idOrName}/domains,vercel-only,List project domains
+projects,domains,get,projects.domains.get,GET,/v9/projects/{idOrName}/domains/{domain},vercel-only,Get domain details
+projects,domains,add,projects.domains.add,POST,/v10/projects/{idOrName}/domains,vercel-only,Add domain
+projects,domains,update,projects.domains.update,PATCH,/v9/projects/{idOrName}/domains/{domain},vercel-only,Update domain
+projects,domains,remove,projects.domains.remove,DELETE,/v9/projects/{idOrName}/domains/{domain},vercel-only,Remove domain
+projects,domains,verify,projects.domains.verify,POST,/v9/projects/{idOrName}/domains/{domain}/verify,vercel-only,Verify domain
+projects,domains,move,projects.domains.move,PATCH,/v1/projects/{idOrName}/domains/{domain}/move,vercel-only,Move domain
+projects,env,list,projects.env.list,GET,/v9/projects/{idOrName}/env,vercel-only,List env variables
+projects,env,get,projects.env.get,GET,/v1/projects/{idOrName}/env/{envId},vercel-only,Get env variable
+projects,env,create,projects.env.create,POST,/v10/projects/{idOrName}/env,vercel-only,Create env variable
+projects,env,update,projects.env.update,PATCH,/v9/projects/{idOrName}/env/{envId},vercel-only,Update env variable
+projects,env,delete,projects.env.delete,DELETE,/v9/projects/{idOrName}/env/{envId},vercel-only,Delete env variable
+projects,env,delete_batch,projects.env.delete_batch,DELETE,/v9/projects/{idOrName}/env,vercel-only,Delete multiple env vars
+projects,certs,list,projects.certs.list,GET,/v1/projects/{projectId}/certs,vercel-only,List certificates
+projects,certs,upload,projects.certs.upload,POST,/v1/projects/{projectId}/certs,vercel-only,Upload certificate
+projects,certs,delete,projects.certs.delete,DELETE,/v1/projects/{projectId}/certs/{certId},vercel-only,Delete certificate
+projects,production_domains,,projects.production_domains,POST,/v10/projects/{idOrName}/production-domains,vercel-only,Edit production domains
+projects,alias_status,,projects.alias_status,GET,/v1/projects/{idOrName}/alias/{aliasId}/status,vercel-only,Get alias status
+projects,protection_bypass,,projects.protection_bypass,PATCH,/v1/projects/{idOrName}/protection-bypass,vercel-only,Update protection bypass
+deployments,list,,deployments.list,GET,/v6/deployments,vercel-only,List deployments
+deployments,get,,deployments.get,GET,/v13/deployments/{idOrUrl},vercel-only,Get deployment
+deployments,create,,deployments.create,POST,/v13/deployments,vercel-only,Create deployment
+deployments,cancel,,deployments.cancel,PATCH,/v12/deployments/{id}/cancel,vercel-only,Cancel deployment
+deployments,delete,,deployments.delete,DELETE,/v13/deployments/{id},vercel-only,Delete deployment
+deployments,files,list,deployments.files.list,GET,/v6/deployments/{id}/files,vercel-only,List deployment files
+deployments,files,get,deployments.files.get,GET,/v7/deployments/{id}/files/{fileId},vercel-only,Get file contents
+deployments,files,upload,deployments.files.upload,POST,/v2/files,vercel-only,Upload files
+deployments,events,,deployments.events,GET,/v3/deployments/{idOrUrl}/events,vercel-only,Get deployment events
+deployments,logs,,deployments.logs,GET,/v2/deployments/{deploymentId}/logs,vercel-only,Get deployment logs
+deployments,integration,,deployments.integration,PATCH,/v1/deployments/{deploymentId}/integrations/{integrationConfigurationId}/resources/{resourceId}/actions/{action},vercel-only,Update integration action
+domains,list,,domains.list,GET,/v5/domains,vercel-only,List all domains
+domains,get,,domains.get,GET,/v5/domains/{domain},vercel-only,Get domain info
+domains,add,,domains.add,POST,/v5/domains,vercel-only,Add existing domain
+domains,update,,domains.update,PATCH,/v3/domains/{domain},vercel-only,Update domain
+domains,remove,,domains.remove,DELETE,/v6/domains/{domain},vercel-only,Remove domain
+domains,config,,domains.config,GET,/v6/domains/{domain}/config,vercel-only,Get domain config
+domains,buy,,domains.buy,POST,/v5/domains/buy,vercel-only,Purchase domain
+domains,buy_batch,,domains.buy_batch,POST,/v1/domains/buy/batch,vercel-only,Purchase multiple
+domains,availability,,domains.availability,GET,/v4/domains/status,vercel-only,Check availability
+domains,availability_batch,,domains.availability_batch,GET,/v1/domains/status/batch,vercel-only,Check multiple
+domains,price,,domains.price,GET,/v4/domains/price,vercel-only,Get domain price
+domains,transfer,status,domains.transfer.status,GET,/v1/domains/transfer/{domain}/status,vercel-only,Transfer status
+domains,transfer,start,domains.transfer.start,POST,/v1/domains/transfer,vercel-only,Start transfer
+domains,renew,,domains.renew,POST,/v1/domains/registrar/{domain}/renew,vercel-only,Renew domain
+domains,auth_code,,domains.auth_code,GET,/v1/domains/registrar/{domain}/auth-code,vercel-only,Get auth code
+domains,auto_renewal,,domains.auto_renewal,PATCH,/v1/domains/registrar/{domain}/auto-renewal,vercel-only,Set auto-renewal
+domains,nameservers,,domains.nameservers,PATCH,/v1/domains/registrar/{domain}/nameservers,vercel-only,Update nameservers
+domains,contact_schema,,domains.contact_schema,GET,/v1/domains/registrar/{tld}/contact-schema,vercel-only,Get contact schema
+domains,order,,domains.order,GET,/v1/domains/registrar/{domain}/order,vercel-only,Get order details
+domains,tlds,,domains.tlds,GET,/v1/domains/registrar/tlds,vercel-only,List supported TLDs
+domains,tld_price,,domains.tld_price,GET,/v1/domains/registrar/tld/{tld}/price,vercel-only,Get TLD pricing
+dns,records,list,dns.records.list,GET,/v4/domains/{domain}/records,vercel-only,List DNS records
+dns,records,create,dns.records.create,POST,/v2/domains/{domain}/records,vercel-only,Create DNS record
+dns,records,update,dns.records.update,PATCH,/v1/domains/records/{recordId},vercel-only,Update DNS record
+dns,records,delete,dns.records.delete,DELETE,/v2/domains/{domain}/records/{recordId},vercel-only,Delete DNS record
+env,shared,list,env.shared.list,GET,/v1/env,vercel-only,List shared env vars
+env,shared,create,env.shared.create,POST,/v1/env,vercel-only,Create shared env var
+env,shared,get,env.shared.get,GET,/v1/env/{envId},vercel-only,Get shared env var
+env,shared,update,env.shared.update,PATCH,/v1/env,vercel-only,Update shared env var
+env,shared,delete,env.shared.delete,DELETE,/v1/env,vercel-only,Delete shared env vars
+env,shared,disconnect,env.shared.disconnect,DELETE,/v1/env/{envId},vercel-only,Disconnect env var
+env,custom,list,env.custom.list,GET,/v1/custom-environments,vercel-only,List custom environments
+env,custom,get,env.custom.get,GET,/v1/custom-environments/{environmentSlugOrId},vercel-only,Get custom environment
+env,custom,create,env.custom.create,POST,/v1/custom-environments,vercel-only,Create custom environment
+env,custom,update,env.custom.update,PATCH,/v1/custom-environments/{environmentSlugOrId},vercel-only,Update custom environment
+env,custom,delete,env.custom.delete,DELETE,/v1/custom-environments/{environmentSlugOrId},vercel-only,Delete custom environment
+files,upload,,files.upload,POST,/api/method/upload_file,frappe-only,Upload file
+files,list,,files.list,GET,/api/resource/File,frappe-only,List files
+files,get,,files.get,GET,/api/resource/File/{name},frappe-only,Get file metadata
+files,download,,files.download,GET,/files/{file_path},frappe-only,Download file
+files,delete,,files.delete,DELETE,/api/resource/File/{name},frappe-only,Delete file
+webhooks,list,,webhooks.list,GET,/v1/webhooks,vercel-only,List webhooks
+webhooks,get,,webhooks.get,GET,/v1/webhooks/{id},vercel-only,Get webhook
+webhooks,create,,webhooks.create,POST,/v1/webhooks,vercel-only,Create webhook
+webhooks,delete,,webhooks.delete,DELETE,/v1/webhooks/{id},vercel-only,Delete webhook
+certs,get,,certs.get,GET,/v7/certs/{id},vercel-only,Get certificate
+certs,upload,,certs.upload,POST,/v7/certs,vercel-only,Upload certificate
+certs,issue,,certs.issue,POST,/v7/certs,vercel-only,Issue new certificate
+certs,delete,,certs.delete,DELETE,/v7/certs/{id},vercel-only,Delete certificate
+checks,list,,checks.list,GET,/v1/deployments/{deploymentId}/checks,vercel-only,List deployment checks
+checks,get,,checks.get,GET,/v1/deployments/{deploymentId}/checks/{checkId},vercel-only,Get check details
+checks,create,,checks.create,POST,/v1/deployments/{deploymentId}/checks,vercel-only,Create check
+checks,update,,checks.update,PATCH,/v1/deployments/{deploymentId}/checks/{checkId},vercel-only,Update check
+checks,rerequest,,checks.rerequest,POST,/v1/deployments/{deploymentId}/checks/{checkId}/rerequest,vercel-only,Rerequest check
+edge_config,list,,edge_config.list,GET,/v1/edge-config,vercel-only,List edge configs
+edge_config,get,,edge_config.get,GET,/v1/edge-config/{edgeConfigId},vercel-only,Get edge config
+edge_config,create,,edge_config.create,POST,/v1/edge-config,vercel-only,Create edge config
+edge_config,update,,edge_config.update,PATCH,/v1/edge-config/{edgeConfigId},vercel-only,Update edge config
+edge_config,delete,,edge_config.delete,DELETE,/v1/edge-config/{edgeConfigId},vercel-only,Delete edge config
+edge_config,items,list,edge_config.items.list,GET,/v1/edge-config/{edgeConfigId}/items,vercel-only,List items
+edge_config,items,get,edge_config.items.get,GET,/v1/edge-config/{edgeConfigId}/item/{edgeConfigItemKey},vercel-only,Get item
+edge_config,items,update,edge_config.items.update,PATCH,/v1/edge-config/{edgeConfigId}/items,vercel-only,Update items batch
+edge_config,schema,get,edge_config.schema.get,GET,/v1/edge-config/{edgeConfigId}/schema,vercel-only,Get schema
+edge_config,schema,update,edge_config.schema.update,PATCH,/v1/edge-config/{edgeConfigId}/schema,vercel-only,Update schema
+edge_config,schema,delete,edge_config.schema.delete,DELETE,/v1/edge-config/{edgeConfigId}/schema,vercel-only,Delete schema
+edge_config,tokens,list,edge_config.tokens.list,GET,/v1/edge-config/{edgeConfigId}/tokens,vercel-only,List tokens
+edge_config,tokens,get,edge_config.tokens.get,GET,/v1/edge-config/{edgeConfigId}/token/{token},vercel-only,Get token
+edge_config,tokens,create,edge_config.tokens.create,POST,/v1/edge-config/{edgeConfigId}/token,vercel-only,Create token
+edge_config,tokens,delete,edge_config.tokens.delete,DELETE,/v1/edge-config/{edgeConfigId}/tokens,vercel-only,Delete tokens
+edge_config,backups,list,edge_config.backups.list,GET,/v1/edge-config/{edgeConfigId}/backups,vercel-only,List backups
+edge_config,backups,get,edge_config.backups.get,GET,/v1/edge-config/{edgeConfigId}/backups/{edgeConfigBackupVersionId},vercel-only,Get backup
+edge_cache,invalidate,tag,edge_cache.invalidate.tag,POST,/v1/edge-cache/{projectIdOrName}/purge,vercel-only,Invalidate by tag
+edge_cache,delete,tag,edge_cache.delete.tag,DELETE,/v1/edge-cache/{projectIdOrName}/purge,vercel-only,Delete by tag
+edge_cache,invalidate,image,edge_cache.invalidate.image,POST,/v1/edge-cache/{projectIdOrName}/image/purge,vercel-only,Invalidate by source image
+edge_cache,delete,image,edge_cache.delete.image,DELETE,/v1/edge-cache/{projectIdOrName}/image/purge,vercel-only,Delete by source image
+log_drains,list,,log_drains.list,GET,/v1/log-drains,vercel-only,List log drains
+log_drains,get,,log_drains.get,GET,/v1/log-drains/{id},vercel-only,Get log drain
+log_drains,create,,log_drains.create,POST,/v1/log-drains,vercel-only,Create log drain
+log_drains,update,,log_drains.update,PATCH,/v1/log-drains/{id},vercel-only,Update log drain
+log_drains,delete,,log_drains.delete,DELETE,/v1/log-drains/{id},vercel-only,Delete log drain
+log_drains,validate,,log_drains.validate,POST,/v2/log-drains/validate,vercel-only,Validate configuration
+aliases,list,,aliases.list,GET,/v4/aliases,vercel-only,List all aliases
+aliases,get,,aliases.get,GET,/v4/aliases/{idOrAlias},vercel-only,Get alias
+aliases,assign,,aliases.assign,POST,/v2/deployments/{id}/aliases,vercel-only,Assign alias
+aliases,delete,,aliases.delete,DELETE,/v2/aliases/{aliasId},vercel-only,Delete alias
+aliases,list_deployment,,aliases.list_deployment,GET,/v2/deployments/{id}/aliases,vercel-only,List deployment aliases
+aliases,protection_bypass,,aliases.protection_bypass,PATCH,/v1/aliases/{aliasId}/protection-bypass,vercel-only,Update protection bypass
+artifacts,status,,artifacts.status,GET,/v8/artifacts/status,vercel-only,Get cache status
+artifacts,upload,,artifacts.upload,PUT,/v8/artifacts/{hash},vercel-only,Upload artifact
+artifacts,download,,artifacts.download,GET,/v8/artifacts/{hash},vercel-only,Download artifact
+artifacts,exists,,artifacts.exists,HEAD,/v8/artifacts/{hash},vercel-only,Check if exists
+artifacts,query,,artifacts.query,POST,/v8/artifacts,vercel-only,Query artifacts
+artifacts,events,,artifacts.events,POST,/v8/artifacts/events,vercel-only,Record cache events
+bulk_redirects,list,,bulk_redirects.list,GET,/v1/projects/{projectId}/redirects,vercel-only,List redirects
+bulk_redirects,stage,,bulk_redirects.stage,PUT,/v1/projects/{projectId}/redirects,vercel-only,Stage redirects
+bulk_redirects,delete,,bulk_redirects.delete,DELETE,/v1/projects/{projectId}/redirects,vercel-only,Delete redirects
+bulk_redirects,edit,,bulk_redirects.edit,PATCH,/v1/projects/{projectId}/redirects/{redirectId},vercel-only,Edit redirect
+bulk_redirects,restore,,bulk_redirects.restore,POST,/v1/projects/{projectId}/redirects/restore,vercel-only,Restore redirects
+bulk_redirects,versions,,bulk_redirects.versions,GET,/v1/projects/{projectId}/redirects/versions,vercel-only,List versions
+bulk_redirects,promote,,bulk_redirects.promote,POST,/v1/projects/{projectId}/redirects/promote,vercel-only,Promote version
+integrations,plans,,integrations.plans,GET,/v1/installations/{integrationConfigurationId}/billing/plans,vercel-only,List billing plans
+integrations,connect,,integrations.connect,POST,/v1/installations/{integrationConfigurationId}/resources,vercel-only,Connect resource
+integrations,configs,list,integrations.configs.list,GET,/v1/integrations/configurations,vercel-only,List configurations
+integrations,configs,get,integrations.configs.get,GET,/v1/integrations/configuration/{id},vercel-only,Get configuration
+integrations,configs,delete,integrations.configs.delete,DELETE,/v1/integrations/configuration/{id},vercel-only,Delete configuration
+integrations,products,,integrations.products,GET,/v1/marketplace/{integrationIdOrSlug}/products,vercel-only,List products
+marketplace,install,update,marketplace.install.update,PATCH,/v1/installations/{integrationConfigurationId},vercel-only,Update installation
+marketplace,account,,marketplace.account,GET,/v1/installations/{integrationConfigurationId}/account,vercel-only,Get account info
+marketplace,member,,marketplace.member,GET,/v1/installations/{integrationConfigurationId}/member/{memberId},vercel-only,Get member info
+marketplace,event,,marketplace.event,POST,/v1/installations/{integrationConfigurationId}/events,vercel-only,Create event
+marketplace,resources,list,marketplace.resources.list,GET,/v1/installations/{integrationConfigurationId}/resources,vercel-only,List resources
+marketplace,resources,get,marketplace.resources.get,GET,/v1/installations/{integrationConfigurationId}/resources/{resourceId},vercel-only,Get resource
+marketplace,resources,import,marketplace.resources.import,POST,/v1/installations/{integrationConfigurationId}/resources/import,vercel-only,Import resource
+marketplace,resources,update,marketplace.resources.update,PATCH,/v1/installations/{integrationConfigurationId}/resources/{resourceId},vercel-only,Update resource
+marketplace,resources,delete,marketplace.resources.delete,DELETE,/v1/installations/{integrationConfigurationId}/resources/{resourceId},vercel-only,Delete resource
+marketplace,billing,data,marketplace.billing.data,POST,/v1/installations/{integrationConfigurationId}/billing,vercel-only,Submit billing data
+marketplace,invoice,submit,marketplace.invoice.submit,POST,/v1/installations/{integrationConfigurationId}/billing/invoices,vercel-only,Submit invoice
+marketplace,invoice,get,marketplace.invoice.get,GET,/v1/installations/{integrationConfigurationId}/billing/invoices/{invoiceId},vercel-only,Get invoice
+marketplace,invoice,action,marketplace.invoice.action,POST,/v1/installations/{integrationConfigurationId}/billing/invoices/{invoiceId}/actions,vercel-only,Invoice action
+marketplace,prepayment,,marketplace.prepayment,POST,/v1/installations/{integrationConfigurationId}/billing/balance,vercel-only,Prepayment balance
+marketplace,secrets,,marketplace.secrets,PATCH,/v1/installations/{integrationConfigurationId}/secrets,vercel-only,Update secrets
+marketplace,experimentation,create,marketplace.experimentation.create,POST,/v1/installations/{integrationConfigurationId}/experimentation/{environmentId},vercel-only,Create experimentation
+marketplace,experimentation,update,marketplace.experimentation.update,PATCH,/v1/installations/{integrationConfigurationId}/experimentation/{environmentId},vercel-only,Update experimentation
+marketplace,experimentation,delete,marketplace.experimentation.delete,DELETE,/v1/installations/{integrationConfigurationId}/experimentation/{environmentId},vercel-only,Delete experimentation
+marketplace,edge_config,push,marketplace.edge_config.push,POST,/v1/installations/{integrationConfigurationId}/edge-config/data,vercel-only,Push to edge config
+marketplace,edge_config,get,marketplace.edge_config.get,GET,/v1/installations/{integrationConfigurationId}/edge-config/data,vercel-only,Get edge config data
+rpc,call,,rpc.call,POST,/api/method/{dotted.path.to.method},frappe-only,Call whitelisted method
+rpc,get,,rpc.get,GET,/api/method/{dotted.path.to.method},frappe-only,Get from whitelisted method
+workflow,apply,,workflow.apply,POST,/api/method/frappe.model.workflow.apply_workflow,frappe-only,Apply workflow action
+workflow,transitions,,workflow.transitions,GET,/api/method/frappe.model.workflow.get_transitions,frappe-only,Get available transitions
+print,format,,print.format,GET,/api/method/frappe.utils.print_format.download_pdf,frappe-only,Download print format PDF
+print,template,,print.template,GET,/api/method/frappe.www.printview.get_print_format,frappe-only,Get print template
+email,send,,email.send,POST,/api/method/frappe.core.doctype.communication.email.make,frappe-only,Send email
+email,queue,,email.queue,GET,/api/resource/Email Queue,frappe-only,View email queue
+report,run,,report.run,GET,/api/method/frappe.desk.query_report.run,frappe-only,Run query report
+report,export,,report.export,GET,/api/method/frappe.desk.query_report.export_query,frappe-only,Export report
+translation,get,,translation.get,GET,/api/method/frappe.translate.get_all_translations,frappe-only,Get translations
+translation,update,,translation.update,POST,/api/method/frappe.translate.set_translation,frappe-only,Update translation
+notification,get,,notification.get,GET,/api/method/frappe.desk.notifications.get_notifications,frappe-only,Get notifications
+notification,mark_read,,notification.mark_read,POST,/api/method/frappe.desk.notifications.mark_as_read,frappe-only,Mark as read
+search,global,,search.global,GET,/api/method/frappe.utils.global_search.search,frappe-only,Global search
+search,link,,search.link,GET,/api/method/frappe.desk.search.search_link,frappe-only,Search link field
+system,info,,system.info,GET,/api/method/frappe.utils.doctor.get_status,frappe-only,System health info
+system,version,,system.version,GET,/api/method/frappe.utils.change_log.get_versions,frappe-only,Get versions
+erp,customer,list,erp.customer.list,GET,/api/resource/Customer,frappe-only,List customers
+erp,customer,get,erp.customer.get,GET,/api/resource/Customer/{name},frappe-only,Get customer
+erp,customer,create,erp.customer.create,POST,/api/resource/Customer,frappe-only,Create customer
+erp,customer,update,erp.customer.update,PUT,/api/resource/Customer/{name},frappe-only,Update customer
+erp,customer,delete,erp.customer.delete,DELETE,/api/resource/Customer/{name},frappe-only,Delete customer
+erp,supplier,list,erp.supplier.list,GET,/api/resource/Supplier,frappe-only,List suppliers
+erp,supplier,get,erp.supplier.get,GET,/api/resource/Supplier/{name},frappe-only,Get supplier
+erp,supplier,create,erp.supplier.create,POST,/api/resource/Supplier,frappe-only,Create supplier
+erp,supplier,update,erp.supplier.update,PUT,/api/resource/Supplier/{name},frappe-only,Update supplier
+erp,supplier,delete,erp.supplier.delete,DELETE,/api/resource/Supplier/{name},frappe-only,Delete supplier
+erp,item,list,erp.item.list,GET,/api/resource/Item,frappe-only,List items
+erp,item,get,erp.item.get,GET,/api/resource/Item/{name},frappe-only,Get item
+erp,item,create,erp.item.create,POST,/api/resource/Item,frappe-only,Create item
+erp,item,update,erp.item.update,PUT,/api/resource/Item/{name},frappe-only,Update item
+erp,item,delete,erp.item.delete,DELETE,/api/resource/Item/{name},frappe-only,Delete item
+erp,item,price,erp.item.price,GET,/api/method/erpnext.stock.get_item_details.get_item_price,frappe-only,Get item price
+erp,item,stock,erp.item.stock,GET,/api/method/erpnext.stock.utils.get_stock_balance,frappe-only,Get stock balance
+erp,sales_order,list,erp.sales_order.list,GET,/api/resource/Sales Order,frappe-only,List sales orders
+erp,sales_order,get,erp.sales_order.get,GET,/api/resource/Sales Order/{name},frappe-only,Get sales order
+erp,sales_order,create,erp.sales_order.create,POST,/api/resource/Sales Order,frappe-only,Create sales order
+erp,sales_order,update,erp.sales_order.update,PUT,/api/resource/Sales Order/{name},frappe-only,Update sales order
+erp,sales_order,submit,erp.sales_order.submit,POST,/api/method/frappe.client.submit,frappe-only,Submit sales order
+erp,sales_order,cancel,erp.sales_order.cancel,POST,/api/method/frappe.client.cancel,frappe-only,Cancel sales order
+erp,sales_invoice,list,erp.sales_invoice.list,GET,/api/resource/Sales Invoice,frappe-only,List sales invoices
+erp,sales_invoice,get,erp.sales_invoice.get,GET,/api/resource/Sales Invoice/{name},frappe-only,Get sales invoice
+erp,sales_invoice,create,erp.sales_invoice.create,POST,/api/resource/Sales Invoice,frappe-only,Create sales invoice
+erp,sales_invoice,make,erp.sales_invoice.make,POST,/api/method/erpnext.selling.doctype.sales_order.sales_order.make_sales_invoice,frappe-only,Make from SO
+erp,purchase_order,list,erp.purchase_order.list,GET,/api/resource/Purchase Order,frappe-only,List purchase orders
+erp,purchase_order,get,erp.purchase_order.get,GET,/api/resource/Purchase Order/{name},frappe-only,Get purchase order
+erp,purchase_order,create,erp.purchase_order.create,POST,/api/resource/Purchase Order,frappe-only,Create purchase order
+erp,purchase_invoice,list,erp.purchase_invoice.list,GET,/api/resource/Purchase Invoice,frappe-only,List purchase invoices
+erp,purchase_invoice,get,erp.purchase_invoice.get,GET,/api/resource/Purchase Invoice/{name},frappe-only,Get purchase invoice
+erp,purchase_invoice,create,erp.purchase_invoice.create,POST,/api/resource/Purchase Invoice,frappe-only,Create purchase invoice
+erp,payment_entry,list,erp.payment_entry.list,GET,/api/resource/Payment Entry,frappe-only,List payments
+erp,payment_entry,get,erp.payment_entry.get,GET,/api/resource/Payment Entry/{name},frappe-only,Get payment
+erp,payment_entry,create,erp.payment_entry.create,POST,/api/resource/Payment Entry,frappe-only,Create payment
+erp,payment_entry,make,erp.payment_entry.make,POST,/api/method/erpnext.accounts.doctype.payment_entry.payment_entry.get_payment_entry,frappe-only,Make from invoice
+erp,stock_entry,list,erp.stock_entry.list,GET,/api/resource/Stock Entry,frappe-only,List stock entries
+erp,stock_entry,get,erp.stock_entry.get,GET,/api/resource/Stock Entry/{name},frappe-only,Get stock entry
+erp,stock_entry,create,erp.stock_entry.create,POST,/api/resource/Stock Entry,frappe-only,Create stock entry
+erp,delivery_note,list,erp.delivery_note.list,GET,/api/resource/Delivery Note,frappe-only,List delivery notes
+erp,delivery_note,get,erp.delivery_note.get,GET,/api/resource/Delivery Note/{name},frappe-only,Get delivery note
+erp,delivery_note,create,erp.delivery_note.create,POST,/api/resource/Delivery Note,frappe-only,Create delivery note
+erp,delivery_note,make,erp.delivery_note.make,POST,/api/method/erpnext.selling.doctype.sales_order.sales_order.make_delivery_note,frappe-only,Make from SO
+erp,purchase_receipt,list,erp.purchase_receipt.list,GET,/api/resource/Purchase Receipt,frappe-only,List purchase receipts
+erp,purchase_receipt,get,erp.purchase_receipt.get,GET,/api/resource/Purchase Receipt/{name},frappe-only,Get purchase receipt
+erp,purchase_receipt,create,erp.purchase_receipt.create,POST,/api/resource/Purchase Receipt,frappe-only,Create purchase receipt
+erp,quotation,list,erp.quotation.list,GET,/api/resource/Quotation,frappe-only,List quotations
+erp,quotation,get,erp.quotation.get,GET,/api/resource/Quotation/{name},frappe-only,Get quotation
+erp,quotation,create,erp.quotation.create,POST,/api/resource/Quotation,frappe-only,Create quotation
+erp,quotation,make_so,erp.quotation.make_so,POST,/api/method/erpnext.selling.doctype.quotation.quotation.make_sales_order,frappe-only,Make SO from quotation
+erp,lead,list,erp.lead.list,GET,/api/resource/Lead,frappe-only,List leads
+erp,lead,get,erp.lead.get,GET,/api/resource/Lead/{name},frappe-only,Get lead
+erp,lead,create,erp.lead.create,POST,/api/resource/Lead,frappe-only,Create lead
+erp,lead,convert,erp.lead.convert,POST,/api/method/erpnext.crm.doctype.lead.lead.make_customer,frappe-only,Convert to customer
+erp,opportunity,list,erp.opportunity.list,GET,/api/resource/Opportunity,frappe-only,List opportunities
+erp,opportunity,get,erp.opportunity.get,GET,/api/resource/Opportunity/{name},frappe-only,Get opportunity
+erp,opportunity,create,erp.opportunity.create,POST,/api/resource/Opportunity,frappe-only,Create opportunity
+erp,opportunity,make_quotation,erp.opportunity.make_quotation,POST,/api/method/erpnext.crm.doctype.opportunity.opportunity.make_quotation,frappe-only,Make quotation
+erp,employee,list,erp.employee.list,GET,/api/resource/Employee,frappe-only,List employees
+erp,employee,get,erp.employee.get,GET,/api/resource/Employee/{name},frappe-only,Get employee
+erp,employee,create,erp.employee.create,POST,/api/resource/Employee,frappe-only,Create employee
+erp,attendance,list,erp.attendance.list,GET,/api/resource/Attendance,frappe-only,List attendance
+erp,attendance,create,erp.attendance.create,POST,/api/resource/Attendance,frappe-only,Mark attendance
+erp,leave,list,erp.leave.list,GET,/api/resource/Leave Application,frappe-only,List leave applications
+erp,leave,create,erp.leave.create,POST,/api/resource/Leave Application,frappe-only,Apply for leave
+erp,leave,balance,erp.leave.balance,GET,/api/method/erpnext.hr.doctype.leave_application.leave_application.get_leave_balance_on,frappe-only,Get leave balance
+erp,journal_entry,list,erp.journal_entry.list,GET,/api/resource/Journal Entry,frappe-only,List journal entries
+erp,journal_entry,get,erp.journal_entry.get,GET,/api/resource/Journal Entry/{name},frappe-only,Get journal entry
+erp,journal_entry,create,erp.journal_entry.create,POST,/api/resource/Journal Entry,frappe-only,Create journal entry
+erp,gl_entry,list,erp.gl_entry.list,GET,/api/resource/GL Entry,frappe-only,List GL entries
+erp,account,list,erp.account.list,GET,/api/resource/Account,frappe-only,List accounts
+erp,account,balance,erp.account.balance,GET,/api/method/erpnext.accounts.utils.get_balance_on,frappe-only,Get account balance
+erp,bom,list,erp.bom.list,GET,/api/resource/BOM,frappe-only,List BOMs
+erp,bom,get,erp.bom.get,GET,/api/resource/BOM/{name},frappe-only,Get BOM
+erp,bom,create,erp.bom.create,POST,/api/resource/BOM,frappe-only,Create BOM
+erp,work_order,list,erp.work_order.list,GET,/api/resource/Work Order,frappe-only,List work orders
+erp,work_order,get,erp.work_order.get,GET,/api/resource/Work Order/{name},frappe-only,Get work order
+erp,work_order,create,erp.work_order.create,POST,/api/resource/Work Order,frappe-only,Create work order
+erp,work_order,start,erp.work_order.start,POST,/api/method/erpnext.manufacturing.doctype.work_order.work_order.make_stock_entry,frappe-only,Start production
+erp,warehouse,list,erp.warehouse.list,GET,/api/resource/Warehouse,frappe-only,List warehouses
+erp,warehouse,stock,erp.warehouse.stock,GET,/api/method/erpnext.stock.dashboard.item_dashboard.get_data,frappe-only,Get warehouse stock
+erp,batch,list,erp.batch.list,GET,/api/resource/Batch,frappe-only,List batches
+erp,serial_no,list,erp.serial_no.list,GET,/api/resource/Serial No,frappe-only,List serial numbers
+erp,pos,invoice,erp.pos.invoice,POST,/api/method/erpnext.accounts.doctype.pos_invoice.pos_invoice.make_sales_return,frappe-only,POS invoice
+erp,pos,opening,erp.pos.opening,POST,/api/resource/POS Opening Entry,frappe-only,POS opening
+erp,pos,closing,erp.pos.closing,POST,/api/resource/POS Closing Entry,frappe-only,POS closing
