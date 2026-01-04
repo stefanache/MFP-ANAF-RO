@@ -8,7 +8,7 @@ Join endpoints(prototypes,types) for both
 **Q**: Is eshaustive/completely?
 **A**: No, it's not 100% exhaustive. Here's what's missing:
 
-FRAPPE/ERPNEXT:
+FRAPPE/ERPNext:
 - API is dynamic - any custom DocType automatically generates CRUD endpoints
 - @frappe.whitelist() methods in custom modules are not included
 - I covered ~80% of the documented standard endpoints
