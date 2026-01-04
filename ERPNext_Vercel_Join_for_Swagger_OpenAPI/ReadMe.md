@@ -1,6 +1,6 @@
 Join endpoints(prototypes,types) for both
 
-- **ERPNext-API**(**Frappe** SDK)
+- **ERPNext-API**(***Frappe*** SDK)
 - **Vercel-API**
 
 *Note*: 
@@ -9,13 +9,13 @@ Join endpoints(prototypes,types) for both
  - 
  - **A**: No, it's not 100% exhaustive. Here's what's missing:
 
-FRAPPE/ERPNext:
+***FRAPPE*** / **ERPNext**:
 - API is dynamic - any custom DocType automatically generates CRUD endpoints
 - @frappe.whitelist() methods in custom modules are not included
 - I covered ~80% of the documented standard endpoints
 - Missing: asset management, quality, education, healthcare, agriculture, non-profit modules
 
-VERCEL:
+**VERCEL**:
 - I covered ~95% of their documented REST API
 - I may be missing recently added endpoints (AI SDK, new features)
 
