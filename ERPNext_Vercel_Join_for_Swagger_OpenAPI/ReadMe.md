@@ -21,6 +21,6 @@ Join endpoints(prototypes,types) for both
 
 To be completely exhaustive I would need to:
 1. **Frappe**: run a [script](https://github.com/omkardarves/swagger) on an ERPNext instance that extracts all @frappe.whitelist() from the source code
-2. **Vercel**: parse their full OpenAPI doc spec (if it exists)
+2. **Vercel**: parse their full OpenAPI [reference-doc](https://vercel.mintlify-docs-rest-api-reference.com/docs/rest-api/reference/endpoints/access-groups/reads-an-access-group) spec (if it exists)
 
 
