@@ -1,8 +1,9 @@
 Join endpoints(prototypes,types) for both
+
 - ERPNext API(Frappe SDK)
 - Vercel API
 
-Note: 
+*Note*: 
 
 Q:Is eshaustive/completely?
 A: No, it's not 100% exhaustive. Here's what's missing:
