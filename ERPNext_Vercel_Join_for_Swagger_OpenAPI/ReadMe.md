@@ -23,4 +23,4 @@ To be *completely* ***exhaustive*** we would need to:
 1. **Frappe**: run a [script](https://github.com/omkardarves/swagger) on an ERPNext instance that extracts all @frappe.whitelist() from the source code
 2. **Vercel**: parse their full OpenAPI [reference-doc](https://vercel.mintlify-docs-rest-api-reference.com/docs/rest-api/reference/endpoints/access-groups/reads-an-access-group) spec (if it exists)
 
-Please consult this [**tutorial**](https://dev.to/tobidelly/step-by-step-guide-to-deploying-a-project-to-vercel-using-github-actions-for-free-l61) about ***Vercel*** for more details.
+Please consult this [**tutorial**](https://dev.to/tobidelly/step-by-step-guide-to-deploying-a-project-to-vercel-using-github-actions-for-free-l61) about [***Vercel***](https://vercel.com/docs/getting-started-with-vercel) for more details.
