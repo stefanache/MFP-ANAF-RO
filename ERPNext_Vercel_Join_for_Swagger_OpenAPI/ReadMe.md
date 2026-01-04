@@ -5,8 +5,9 @@ Join endpoints(prototypes,types) for both
 
 *Note*: 
 
-**Q**: Is eshaustive/completely?
-**A**: No, it's not 100% exhaustive. Here's what's missing:
+ - **Q**: Is eshaustive/completely?
+ - 
+ - **A**: No, it's not 100% exhaustive. Here's what's missing:
 
 FRAPPE/ERPNext:
 - API is dynamic - any custom DocType automatically generates CRUD endpoints
