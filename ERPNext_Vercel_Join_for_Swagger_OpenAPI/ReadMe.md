@@ -20,7 +20,7 @@ Join endpoints(prototypes,types) for both
 - I may be missing recently added endpoints (AI SDK, new features)
 
 To be completely exhaustive I would need to:
-1. **Frappe**: run a script on an ERPNext instance that extracts all @frappe.whitelist() from the source code
+1. **Frappe**: run a [script](https://github.com/omkardarves/swagger) on an ERPNext instance that extracts all @frappe.whitelist() from the source code
 2. **Vercel**: parse their full OpenAPI doc spec (if it exists)
 
 
