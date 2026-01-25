@@ -892,10 +892,10 @@ Legat de un proiect mai vechi "[e-Documents](https://www.avocatnet.ro/articol_65
 
 Remarca: am vazut si interogare-AI(desigur... tot parolizata) 
          (adica prin text-liber)  dar ...
-         mai este mult pana a fi/a avea public(ma refer desigur in zona juridica) 
+         mai este mult pana a fi/a avea public(ma refer desigur aici/in acest caz-de-utilizare la zona juridica) 
          un Graf de cunostinte (KG) 
-         pt a avea un [KG-RAG](https://github.com/VectorInstitute/kg-rag) foarte rapid, 
-         implementat pe modele mici(SLM nu LLM) cu consum redus de resurse.
+         pt a avea un [KG-RAG](https://github.com/VectorInstitute/kg-rag) foarte precis, 
+         implementat pe modele mici dar rapide(SLM nu LLM), care au consum redus de resurse.
 
 </details>
 
