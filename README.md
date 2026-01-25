@@ -917,7 +917,8 @@ Alte [surse](https://portal.just.ro/299/SitePages/dosare.aspx?id_inst=299) de in
 - codurile numerice [ECLI](https://eur-lex.europa.eu/content/help/eurlex-content/ecli.html?locale=ro) ale [instantelor de judecata](https://legeaz.net/regulament-ordine-interioara-instante-judecatoresti/anexa-numere-identificare-instante-judecata) din RO: ex ID instanta = 299(cod [ECLI](https://e-justice.europa.eu/topics/legislation-and-case-law/european-case-law-identifier-ecli/ro_ro))  inseamna Instanta de Judecata Sector 1/S1
 - codurile literale/nomenclatorul [ECLI](https://e-justice.europa.eu/sites/default/files/2018-05/Coduri_ECLI_RO_RO.pdf?id=0a2c31af-43c5-4c57-b5ba-3a6c084cbd97) ale instantelor din RO:
   Exemplu: Codul ECLI alocat unei hotărâri pronunțate de Judecătoria Sectorului 4 București ar putea arăta așa: ECLI:RO:JDS4B:2017:001.004053, unde „JDS4B” reprezintă codul instanței, „2017” – anul în care a fost pronunțată hotărârea, „001” – numărul intern al registrului electronic corespunzător din sistemul ECRIS și „004053” este numărul hotărârii. 
-
+- [*sentintele-civile*](https://sintact.ro/) le puteti gasi si ***Google***: ex. **ECLI RO JDS4B 2026**
+  
  </details>
  
  ## 7. La final cateva cuvinte in loc de ... **La revedere!**...
