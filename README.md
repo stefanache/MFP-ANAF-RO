@@ -914,7 +914,7 @@ Interesant poate fi si acest [***articol***](https://noise.getoto.net/tag/develo
 Daca sunteti la inceput de drum privind partea de **serverless-cloud-computing**, pt programatorii ***PhP*** poate fi interesant acest [***articol***](https://aws.amazon.com/blogs/compute/introducing-the-new-serverless-lamp-stack/) iar pt programatorii ***NodeJS*** poate fi interesant acest [***articol***](https://towardsaws.com/create-your-first-serverless-graphql-api-with-aws-lambda-and-mysql-database-69d5c4d76457); Pentru ambele categorii de programatori incepatori poate fi util ca si literatura de inceput acest [articol](https://aws.amazon.com/blogs/architecture/extending-your-saas-platform-with-aws-lambda/); Recomandat ar fi, pentru incepatori, a se vedea si [**Top5 platforme fara server in 2023**](https://www.techmagic.co/blog/top-serverless-platforms/);
 
 Alte [surse](https://portal.just.ro/299/SitePages/dosare.aspx?id_inst=299) de informare:
-- codurile [ECLI](https://eur-lex.europa.eu/content/help/eurlex-content/ecli.html?locale=ro) ale [instantelor de judecata](https://legeaz.net/regulament-ordine-interioara-instante-judecatoresti/anexa-numere-identificare-instante-judecata) din RO: ex ID instanta = 299  inseamna Instanta de Judecata Sector 1/S1
+- codurile [ECLI](https://eur-lex.europa.eu/content/help/eurlex-content/ecli.html?locale=ro) ale [instantelor de judecata](https://legeaz.net/regulament-ordine-interioara-instante-judecatoresti/anexa-numere-identificare-instante-judecata) din RO: ex ID instanta = 299(cod [ECLI](https://e-justice.europa.eu/topics/legislation-and-case-law/european-case-law-identifier-ecli/ro_ro))  inseamna Instanta de Judecata Sector 1/S1
 
  </details>
  
