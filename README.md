@@ -928,9 +928,11 @@ Alte [surse](https://portal.just.ro/299/SitePages/dosare.aspx?id_inst=299) de [i
          un Graf de cunostinte (KG) 
          pt a avea un [KG-RAG](https://github.com/VectorInstitute/kg-rag) foarte precis, 
          implementat pe modele mici dar rapide(bazat pe SLM... ci nu pe [LLM](https://github.com/DorobantuDiana/Legal-LLM)), care au consum redus de resurse.
-
+         [Nota](https://www.imar.ro/~imar/2025/Mihai_Dan_Masala/CV_Mihai_Dan_Masala.pdf): Nu neg ca acesta ar putea exista/fi utilizat... pe undeva prin [institutiile](https://relate.racai.ro/index.php?path=lrlt/models) [juridice](https://www.romjist.ro/full-texts/paper700.pdf)(daca ne uitam pe lucrarile de cercetare focusate pe domeniul legal) dar ...
+         din cate stiu [nu](https://huggingface.co/readerbench/jurBERT-base) este expus publicului larg spre [utilizare](https://codhus.projects.uvt.ro/wp-content/uploads/2021/09/2021_art2_liro_benchmark_and_leaderboard.pdf) pe [scara](https://scholar.google.ro/citations?user=JTkPpcwAAAAJ&hl=ro) [larga](https://nlp.johnsnowlabs.com/2022/08/15/ner_deid_generic_bert_ro_3_0.html)...
+         
  - [HF](https://github.com/racai-ai/ro-corola-bert-small): [BERT](https://aclanthology.org/2021.nllp-1.8/) - [Legal](https://aclanthology.org/2021.nllp-1.8/) -  [Romanian](https://huggingface.co/snisioi/bert-legal-romanian-cased-v1)
- - [GH](https://github.com/JoelNiklaus/MultilingualLegalLMPretraining?tab=readme-ov-file): MultiLingual-[Legal](https://aclanthology.org/2021.nllp-1.8.pdf)-[Language](https://arxiv.org/html/2412.04119v1)-[models](https://aclanthology.org/2021.nllp-1.8.pdf)( a se vedea [HF](https://github.com/dumitrescustefan/Romanian-Transformers)-[modelul](https://github.com/DariusBotusanu/RoFinBert) de date utilizat pt lb.[RO](https://huggingface.co/joelniklaus/legal-romanian-roberta-base)) - Python
+ - [GH](https://github.com/JoelNiklaus/MultilingualLegalLMPretraining?tab=readme-ov-file): MultiLingual-[Legal](https://aclanthology.org/2021.nllp-1.8.pdf)-[Language](https://arxiv.org/html/2412.04119v1)-[models](https://aclanthology.org/2021.nllp-1.8.pdf)( a se vedea [HF](https://github.com/dumitrescustefan/Romanian-Transformers)-[modelul](https://github.com/DariusBotusanu/RoFinBert) de [date](https://live.european-language-grid.eu/catalogue/tool-service/16857) utilizat pt lb.[RO](https://huggingface.co/joelniklaus/legal-romanian-roberta-base)) - Python
  </details>
  
  ## 7. La final cateva cuvinte in loc de ... **La revedere!**...
