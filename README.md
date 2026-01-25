@@ -923,7 +923,7 @@ Alte [surse](https://portal.just.ro/299/SitePages/dosare.aspx?id_inst=299) de [i
 Remarca: am vazut si interogare-AI(desigur... tot parolizata) 
          (adica interogare/prompting prin text-liber sau ... 
          ...chiar si multi-modala probabil nu stiu pt ca nu am access la acest tip de site-uri juridice)  dar ...
-         mai este mult pana a fi/a avea public(ma refer desigur aici/in acest caz-de-utilizare la zona juridica) 
+         mai este mult pana a fi/a avea public(ma refer desigur aici la/in acest caz-de-utilizare si anume zona-[juridica](https://www.freelancer.com/projects/machine-learning/Constraint-Aware-RAG-Architecture-for/details)/MJ) 
          un Graf de cunostinte (KG) 
          pt a avea un [KG-RAG](https://github.com/VectorInstitute/kg-rag) foarte precis, 
          implementat pe modele mici dar rapide(SLM nu LLM), care au consum redus de resurse.
