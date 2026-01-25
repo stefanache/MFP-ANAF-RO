@@ -890,13 +890,6 @@ Pentru institutiile publice exista insa o [dumentatie](https://mfinante.gov.ro/s
 
 Legat de un proiect mai vechi "[e-Documents](https://www.avocatnet.ro/articol_65745/Arhivare-Firmele-vor-trebui-s%C4%83-se-asigure-c%C4%83-p%C4%83streaz%C4%83-XML-urile-facturilor-transmise-in-e-Factura-Inc%C4%83-sunt-probleme-cu-anexele-lor-dar-ANAF-lucreaz%C4%83-la-asta.html)", trebuie sa amintim si faptul ca [arhivarea documentelor](https://mfinante.gov.ro/documents/35673/5542684/csac676660_12012022.pdf) ar fi ultima etapa din "[viata](https://www.cabinetexpert.ro/2023-02-28/anaf-oficial-2023-termene-noi-pentru-arhivarea-unor-documente.html)" unui document.
 
-Remarca: am vazut si interogare-AI(desigur... tot parolizata) 
-         (adica prin text-liber)  dar ...
-         mai este mult pana a fi/a avea public(ma refer desigur aici/in acest caz-de-utilizare la zona juridica) 
-         un Graf de cunostinte (KG) 
-         pt a avea un [KG-RAG](https://github.com/VectorInstitute/kg-rag) foarte precis, 
-         implementat pe modele mici dar rapide(SLM nu LLM), care au consum redus de resurse.
-
 </details>
 
  ## 6. [**GOV; Baza legala**](https://static.anaf.ro/static/10/Anaf/legislatie/Cod_fiscal_norme_2023.htm)
@@ -926,7 +919,15 @@ Alte [surse](https://portal.just.ro/299/SitePages/dosare.aspx?id_inst=299) de [i
   Exemplu: Codul ECLI alocat unei hotărâri pronunțate de Judecătoria Sectorului 4 București ar putea arăta așa: ECLI:RO:JDS4B:2017:001.004053, unde „JDS4B” reprezintă codul instanței, „2017” – anul în care a fost pronunțată hotărârea, „001” – numărul intern al registrului electronic corespunzător din sistemul ECRIS și „004053” este numărul hotărârii. 
 - [*sentintele-civile*](https://sintact.ro/) le puteti gasi si [***Google***](https://www.juridice.ro/tag/hotarari-judecatoresti): ex. **ECLI RO JDS4B 2026** ori cautati dupa [**ROLII**](https://www.google.com/search?q=ROLII&client=ubuntu-sn&sca_esv=27fffec528844299&channel=fs&biw=1868&bih=963&aic=0&sxsrf=ANbL-n5ICR_antuBbS8WdiSs3JdEztv_9Q%3A1769337951605&ei=X_R1aZ3XJJ2hi-gP8ryd-AM&ved=0ahUKEwjdgt_AwaaSAxWd0AIHHXJeBz8Q4dUDCBE&uact=5&oq=ROLII&gs_lp=Egxnd3Mtd2l6LXNlcnAiBVJPTElJMgUQABiABDIKEAAYgAQYQxiKBTIFEAAYgAQyBRAAGIAEMgYQABgHGB4yBRAAGIAEMgUQABiABDIFEAAYgAQyBhAAGAcYHjIIEAAYBxgKGB5I3whQkAdYkAdwAXgAkAEAmAFloAFlqgEDMC4xuAEDyAEA-AEBmAICoAJywgIIEAAYsAMY7wXCAgsQABiABBiwAxiiBJgDAIgGAZAGBZIHAzEuMaAH7QSyBwMwLjG4B2rCBwMyLTLIBwmACAA&sclient=gws-wiz-serp)
 - daca aveti nevoie de un [avocat](https://www.baroul-bucuresti.ro/tablou) din [Bucuresti](https://interlex-portal.eu/FindLaw/Doc/CourtAct/6865552/11) un site foarte important este [Baroul Bucuresti](https://www.baroul-bucuresti.ro/tablou) ; idem puteti cauta si pt alte Judete/Sectoare!!!
-  
+
+Remarca: am vazut si interogare-AI(desigur... tot parolizata) 
+         (adica interogare/prompting prin text-liber sau ... 
+         ...chiar si multi-modala probabil nu stiu pt ca nu am access la acest tip de site-uri juridice)  dar ...
+         mai este mult pana a fi/a avea public(ma refer desigur aici/in acest caz-de-utilizare la zona juridica) 
+         un Graf de cunostinte (KG) 
+         pt a avea un [KG-RAG](https://github.com/VectorInstitute/kg-rag) foarte precis, 
+         implementat pe modele mici dar rapide(SLM nu LLM), care au consum redus de resurse.
+
  </details>
  
  ## 7. La final cateva cuvinte in loc de ... **La revedere!**...
