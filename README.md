@@ -679,6 +679,7 @@ A se vedea Coperta ANAF SAF-T si alte cateva lucrari conexe si interesante:
  - [CONTABILITATEA VENITURILOR POSTANGAJARE ÎN BAZA CALCULELOR ACTUARIALE](https://oaji.net/articles/2017/1425-1511182282.pdf)
  - [INSSE: revista_romana_statistica_supliment_3_2019](https://insse.ro/cms/sites/default/files/field/publicatii/revista_romana_statistica_supliment_3_2019.pdf)
  - [ANAF RO-SAF-T Schema Def.Codes/Schema definirii codificarilor](https://static.anaf.ro/static/10/Anaf/Informatii_R/RO_SAFT_SchemaDefCod_20240226.xlsx)
+ - [ANAF-descarcare declaratii](https://static.anaf.ro/static/10/Anaf/Declaratii_R/descarcare_declaratii.htm)
  - [Portal-contabilitate: SAF-T_Romania_SchemaDefinitionCodes](https://www.portalcontabilitate.ro/dbimg/files/SAF-T_Romania_SchemaDefinitionCodes.xlsx)
  - [Juridice.ro - 2021/08/20210805_SAFT_Ro_SchemaDefinitionCodes_v4.1.1_09082021](https://www.juridice.ro/wp-content/uploads/2021/08/20210805_SAFT_Ro_SchemaDefinitionCodes_v4.1.1_09082021.xlsx)
 
