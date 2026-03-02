@@ -673,6 +673,7 @@ A se vedea Coperta ANAF SAF-T si alte cateva lucrari conexe si interesante:
  - [full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template)
  - [AI-OCR](https://github.com/LiveWithCodeAnkit/AI-OCR)
  - [Moody's Balance-Sheet Risk Management](https://www.google.com/aclk?sa=L&ai=DChsSEwi4-L-ghYGTAxXekIMHHSePM8AYACICCAMQABoCZWY&ae=2&co=1&ase=2&gclid=CjwKCAiAh5XNBhAAEiwA_Bu8FaZdLLgkduJ3V9MW815hDIBWf44DTlqByfiEn9fEwtdN2xWi0ZCgWhoCCmwQAvD_BwE&cce=2&category=acrcp_v1_71&sig=AOD64_3QFNAMN4A14VLTHDmMdjWxvZkMxQ&q&nis=4&adurl&ved=2ahUKEwjtk7mghYGTAxVZ0gIHHdsWHr84ChDRDHoECAgQAQ)
+ - [Moody's Asset & Liability Management - Balance Sheet Strategy](https://www.google.com/aclk?sa=L&ai=DChsSEwi7pdzg_oCTAxVUm4MHHdbtJIUYACICCAEQAhoCZWY&ae=2&co=1&ase=2&gclid=CjwKCAiAh5XNBhAAEiwA_Bu8FZ5LWQ_uy3wGLK1V1-09AWo3jdpe7q6ey2Kh2X6DvyIcr9IPyMn-xRoChrgQAvD_BwE&cce=2&category=acrcp_v1_71&sig=AOD64_2-4L0Bwqvow4au2SZjaPHzad_5LQ&q&nis=4&adurl&ved=2ahUKEwjW19Xg_oCTAxXM0QIHHWT_L1QQ0Qx6BAgMEAE)
  - [SriBD-Student Notes: Service Business Accounting Cycle Overview](https://ro.scribd.com/document/543969361/160442-5d6ce20c-1a66-40d1-b81e-a6fecd0abe5b)
  - [SuDocu: Engleza pt.Contabilitate - Note-de-Curs cu Vocabular-si-Exercitii/Quiz specifice](https://www.studocu.com/ro/quiz/engleza-pentru-contabilitate-note-de-curs-cu-vocabular-si-exercitii-specifice/11523678)
  - [CONTABILITATEA VENITURILOR POSTANGAJARE ÎN BAZA CALCULELOR ACTUARIALE](https://oaji.net/articles/2017/1425-1511182282.pdf)
