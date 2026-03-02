@@ -684,6 +684,7 @@ A se vedea Coperta ANAF SAF-T si alte cateva lucrari conexe si interesante:
  - [Juridice.ro - 2021/08/20210805_SAFT_Ro_SchemaDefinitionCodes_v4.1.1_09082021](https://www.juridice.ro/wp-content/uploads/2021/08/20210805_SAFT_Ro_SchemaDefinitionCodes_v4.1.1_09082021.xlsx)
  - [Document de asistenta - depunere D406/SAF-T](https://www.ceccarbusinessmagazine.ro/public/store/imagini/filemanager/source/pdf/SAFT_intrebari_frecv_raspunsuri_v1_1_071021.pdf)
  - [XML Schema Def](http://inf.ucv.ro/~mihaiug/courses/xml/XML-Schema.html)
+ - [Servicii Fiscale Eficiente pt.administrație și cetățeni – SFERA- Caiet de sarcini](https://www.google.com/search?q=RO+Schema+Def+Cod+v_&sca_esv=26102ee7b85ee816&biw=1698&bih=843&sxsrf=ANbL-n7LysZRWNWacQ8f4qqE6jNt7J7jZA%3A1772452938456&ei=SnylabDHG4eWi-gP_fOeiQw&ved=0ahUKEwiwlJzelYGTAxUHywIHHf25J8EQ4dUDCBE&uact=5&oq=RO+Schema+Def+Cod+v_&gs_lp=Egxnd3Mtd2l6LXNlcnAiFFJPIFNjaGVtYSBEZWYgQ29kIHZfMgUQIRigATIFECEYoAEyBRAhGKABMgUQIRigATIFECEYoAFI8hRQ0whYyxJwAXgBkAEAmAGLAaAB9gKqAQMwLjO4AQPIAQD4AQGYAgSgAo4DwgIKEAAYsAMY1gQYR5gDAIgGAZAGCJIHAzEuM6AHsQeyBwMwLjO4B4kDwgcHMC4yLjEuMcgHDoAIAA&sclient=gws-wiz-serp)
 
 Daca este sa ne referim spre exemplu la [SAF-T(D406)](https://www.contzilla.ro/anaf-a-publicat-documentatia-tehnica-saf-t/) reprezentativ este acest link: [SAF-T(D406)](https://www.anaf.ro/anaf/internet/ANAF/despre_anaf/strategii_anaf/proiecte_digitalizare/saf_t/!ut/p/a1/04_Sj9CPykssy0xPLMnMz0vMAfGjzOI9DD3MPIwsjLws3AKdDQKDDH1cHb0NDAwszIAKIpEVGHgEGhgEmjp5Bpm6BxgYGBpQpt_EkDL9BmbE6TfAARwJuj9cPwqvEndzdAVYggivAlAY4FUA8iRYAR5fFOSG)
 
