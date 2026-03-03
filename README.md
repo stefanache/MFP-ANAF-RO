@@ -666,7 +666,7 @@ A se vedea Coperta/Codificarile ANAF SAF-T si alte cateva lucrari conexe si inte
  
  - [pyluca](https://pyluca.readthedocs.io/en/latest/setup_accounting_config.html)
  - [python-accounting](https://github.com/ekmungai/python-accounting)
- - [eloquent-IFRS](https://github.com/ekmungai/eloquent-ifrs);[wiki Codificari: SIRF](https://ro.wikipedia.org/wiki/Standarde_Interna%C8%9Bionale_de_Raportare_Financiar%C4%83)
+ - [eloquent-IFRS](https://github.com/ekmungai/eloquent-ifrs);[wiki Codificari: SIRF](https://ro.wikipedia.org/wiki/Standarde_Interna%C8%9Bionale_de_Raportare_Financiar%C4%83);[MFP_IFRS](https://mfinante.gov.ro/static/10/Mfp/Informatii_utile2024.docx)
  - [TaxHacker](https://github.com/vas3k/TaxHacker)
  - [accounts_AI](https://github.com/panaversity/accounts_ai)
  - [Multi-Agent-AI-Finance-Assistant](https://github.com/vansh-121/Multi-Agent-AI-Finance-Assistant)
