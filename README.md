@@ -1019,13 +1019,14 @@ va rog, [nu ezitati](https://docs.peppol.eu/poacc/billing/3.0/rules/ubl-tc434/BR
 <br/>
 <br/>
 
-***NOTA***: Nu in ultimul rand, va invit sa parcurgeti si celelalte sub-directoare ale acestui depozit
-            (s-ar putea sa va surprinda in mod placut anumite subiecte de interes general)
+***NOTA***:<br/>
+Nu in ultimul rand, va invit sa parcurgeti si celelalte sub-directoare ale acestui depozit<br/>
+(s-ar putea sa va surprinda in mod placut anumite subiecte de interes general)
 
 <br/>
 <br/>
 <br/>
 <br/>
 
-***PS***: You can *https://www.buymeacoffee.com/stefanache*... ***Thanks s lot!***
+***PS***: <br/>You can *https://www.buymeacoffee.com/stefanache*... <br/>***Thanks s lot!***
 
