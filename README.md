@@ -658,7 +658,7 @@ Pentru subiectul <b>eInvoicing</b> si <b>eReporting</b>  in Romania puteti citi 
  ## 2. [**Declaratia 406 si 406T(SAF-T)**](https://www.homecont.ro/declaratia-d406-saf-t-fisierul-standard-de-control-fiscal.htm) ([D406](https://noagroup.ro/fisierul-standard-de-control-fiscal-saf-t-si-testarea-voluntara-pentru-incarcarea-declaratiei-d406t/) audit/control financiar); Sistemul [SAF-T](https://www.pwc.ro/ro/pwc-romania-digital/tax-technology/saf-t.html)
 <details><summary>click pt a citi despre <b>D406/SAF-T(STANDARD DE CONTROL FISCAL)</b></summary>
 
-<br/><br/>A se vedea mai jos [<b>Coperta</b>](https://www.licomp.ro/anaf_d406.aspx) [<b>D406</b>](https://static.anaf.ro/static/10/Anaf/Informatii_R/SAF_T_Ghidul_D406_1712021.pdf) / [SAF-T](https://www.anaf.ro/anaf/internet/ANAF/despre_anaf/strategii_anaf/proiecte_digitalizare/saf_t) si alte cateva lucrari conexe si interesante:
+<br/><br/>Pentru inceput recomand a se vedea mai jos [<b>Coperta</b>](https://www.licomp.ro/anaf_d406.aspx) [<b>D406</b>](https://static.anaf.ro/static/10/Anaf/Informatii_R/SAF_T_Ghidul_D406_1712021.pdf) / [SAF-T](https://www.anaf.ro/anaf/internet/ANAF/despre_anaf/strategii_anaf/proiecte_digitalizare/saf_t) si alte cateva lucrari conexe si interesante:
 
 <details><summary><a href="https://ceccar.ro/ro/?p=24401)/Codificarile/Nomenclatoarele [ANAF](https://static.anaf.ro/static/10/Anaf/Informatii_R/ANEXA_4_v7_101121.pdf"><b>Coperta</b></a> <a href="https://seniorsoftware.ro/resurse/articole-utile/declaratia-406-d406-tot-ce-trebuie-sa-stii-despre-declaratia-406-saf-t/">SAF-T</a> </summary>
 <hr/>
