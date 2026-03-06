@@ -1019,7 +1019,8 @@ va rog, [nu ezitati](https://docs.peppol.eu/poacc/billing/3.0/rules/ubl-tc434/BR
 <br/>
 <br/>
 
-NOTA: Nu in ultimul rand, va invit sa parcurgeti si celelalte sub-directoare ale acestui depozit(s-ar putea sa va surprinda in mod placut anumite subiecte de interes general)
+***NOTA***: Nu in ultimul rand, va invit sa parcurgeti si celelalte sub-directoare ale acestui depozit
+            (s-ar putea sa va surprinda in mod placut anumite subiecte de interes general)
 
 <br/>
 <br/>
