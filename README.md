@@ -6,7 +6,7 @@ Acest "[**github**](https://www.anaf.ro/anaf/internet/ANAF/asistenta_contribuabi
 care ... [**vine**](https://doc.inap.ro/swagger)(sau [*NU*](https://www.bnr.ro/files/xml/years/nbrfxrates2025.xml)!:) in  sprijinul  activitatii dvs. de [digitalizare](https://github.com/stefanache/MFP-ANAF-RO/tree/main/Swagger_OpenAPI_eFactura_SPV) curenta!
 
 Sper ca aceast[a/e] documentatie/notite de analiza [cvasi-]tehnica  constituie macar o sursa de inspiratie;
-(aceasta se adreseaza tuturor factorilor implicati/angajati in acest efort comun de eGuvernare)
+(aceasta se adreseaza tuturor factorilor implicati/angajati in acest efort comun de **eGuvernare**)
 
 Hit star ⭐ if you like this repo!!!    or maybe ...
 
