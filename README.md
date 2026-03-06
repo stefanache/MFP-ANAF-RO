@@ -8,6 +8,8 @@ care ... [**vine**](https://doc.inap.ro/swagger)(sau [*NU*](https://www.bnr.ro/f
 Sper ca aceast[a/e] documentatie/notite de analiza [cvasi-]tehnica  constituie macar o sursa de inspiratie;
 (aceasta se adreseaza tuturor factorilor implicati/angajati in acest efort comun de **eGuvernare**)
 
+<hr/>
+
 Hit star ⭐ if you like this repo!!!    or maybe ...
 
 Contact us today to setup a one-on-one discovery call and let us help you scale your next innovative project!
