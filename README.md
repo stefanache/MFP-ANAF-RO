@@ -1020,6 +1020,8 @@ va rog, [nu ezitati](https://docs.peppol.eu/poacc/billing/3.0/rules/ubl-tc434/BR
 
 </b>
 
+<hr/>
+
 <br/>
 <br/>
 
