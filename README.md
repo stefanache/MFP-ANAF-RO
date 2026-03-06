@@ -312,7 +312,7 @@ Un [nou sistem de interes strategic național](https://static.anaf.ro/static/10/
  - sistemul naţional privind factura electronică RO [**e-Factura**](https://www.anaf.ro/anaf/internet/ANAF/despre_anaf/strategii_anaf/proiecte_digitalizare/e.factura),
  - sistemul naţional RO [**e-Transport**](https://mfinante.gov.ro/despre-minister/-/asset_publisher/uwgr/content/ghidul-e-transport.-ce-trebuie-s-c4-83-c8-99tie-contribuabilii-care-realizeaz-c4-83-transporturi-na-c8-9bionale-cu-risc-fiscal-ridicat-c8-99i-transporturi-interna-c8-9bionale),
  - sistemul naţional RO [**e-Sigiliu**](https://static.anaf.ro/static/3/Galati/20240116143125_procedura_e_sigiliu%20.pdf),
- - sistemul informatic naţional RO [**e-SAF-T**](https://static.anaf.ro/static/10/Anaf/Informatii_R/Intrebari_rasp_specifice_SAF-T_v_1_2_200422.pdf),
+ - sistemul informatic naţional RO [**e-SAF-T**](https://static.anaf.ro/static/10/Anaf/Informatii_R/Intrebari_rasp_specifice_SAF-T_v_1_2_200422.pdf)/[D406](https://seniorsoftware.ro/resurse/articole-utile/declaratia-406-d406-tot-ce-trebuie-sa-stii-despre-declaratia-406-saf-t/),
  - sistemul informatic naţional RO [**e-Case**](https://www.anaf.ro/anaf/internet/ANAF/servicii_online/reg_AMEF) - case de marcat electronice.
  
 Deconturi de TVA precompletate de la 1 august 2024 prin sistemul RO e-TVA.
