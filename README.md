@@ -2,7 +2,7 @@
       
 Acest "[**github**](https://www.anaf.ro/anaf/internet/ANAF/asistenta_contribuabili/declararea_obligatiilor_fiscale/cursuri_valutare)[-](https://www.bnr.ro/nbrfxrates10days.xml)[*repository*/*depozit*](https://www.bnr.ro/nbrfxrates.xml)" [**NU ESTE UNUL OFICIAL**](https://doc.iapp.ro/swagger) dar poate constitui(daca doriti) un [instrument](https://mfinante.gov.ro/web/efactura/aplicatii-web-ro-efactura)
 /accelerator util de invatare/cercetare/explorare(un fel de... 
-                       ["Informatica/Programarea-povestita"](https://iapp.ro/blog/PHP%20API%20ANAF%20SPV)!) 
+                       ["Fiscalitatea/Informatica or Programarea-povestita"](https://iapp.ro/blog/PHP%20API%20ANAF%20SPV)!) 
 care ... [**vine**](https://doc.inap.ro/swagger)(sau [*NU*](https://www.bnr.ro/files/xml/years/nbrfxrates2025.xml)!:) in  sprijinul  activitatii dvs. de [digitalizare](https://github.com/stefanache/MFP-ANAF-RO/tree/main/Swagger_OpenAPI_eFactura_SPV) curenta!
 
 Sper ca aceast[a/e] documentatie/notite de analiza [cvasi-]tehnica  constituie macar o sursa de inspiratie;
