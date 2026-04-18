@@ -43,4 +43,7 @@ PENTRU INSTITUŢIILE PUBLICE - Contabilitate Publica - PDF](https://mfinante.gov
 [ScriBD - PCG](https://www.scribd.com/document/964197870/Planul-Contabil-General)<br/>
 
 
-[SoftPro: Fisa-SAH Cartea-Mare - Situatii pe Conturi-Corespondente](https://softpro.ro/fisa-sah-cartea-mare-situatii-pe-conturi-corespondente/)
+[SoftPro: Fisa-SAH Cartea-Mare - Situatii pe Conturi-Corespondente](https://softpro.ro/fisa-sah-cartea-mare-situatii-pe-conturi-corespondente/)<br/>
+
+[UT CJ - Monografie Contabila - pt ingineri Economisti si nu numai... - PDF](https://biblioteca.utcluj.ro/files/carti-online-cu-coperta/585-5.pdf)<br/>
+
