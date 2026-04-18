@@ -47,6 +47,6 @@ PENTRU INSTITUŢIILE PUBLICE - Contabilitate Publica - PDF](https://mfinante.gov
 
 [UT CJ - Monografie Contabila - pt ingineri Economisti si nu numai... 2022 - PDF](https://biblioteca.utcluj.ro/files/carti-online-cu-coperta/585-5.pdf)<br/>
 
-[Banci corespondente - Conturi Bancare NOSTRO - PDF](https://www.intesasanpaolobank.ro/document/documents/ISPROMANIA/banci-corespondente/banci-corespondente.pdf); [Cec Bank - Conturi bancare corespondente soi conturi aferente - coduri Swift](https://www.cec.ro/conturi-de-corespondent)<br/>
+[Banci corespondente - Conturi Bancare NOSTRO - PDF](https://www.intesasanpaolobank.ro/document/documents/ISPROMANIA/banci-corespondente/banci-corespondente.pdf); [Cec Bank - Conturi bancare corespondente soi conturi aferente - coduri Swift](https://www.cec.ro/conturi-de-corespondent); [BT- Conturi bancare corespondente](https://www.bancatransilvania.ro/lista-bancilor-corespondente)<br/>
 
 
