@@ -38,7 +38,7 @@ PENTRU INSTITUŢIILE PUBLICE - Contabilitate Publica - PDF](https://mfinante.gov
 
 [MFP - legislatie - Reglementari Contabile - ORDIN 1917 din 2005](https://www.mfinante.gov.ro/static/10/Mfp/legislatie/regl_contabile/ORDIN1917.pdf)<br/>
 
-[ASE - PCG - Download 2021/2022 - Plan General de Conturi pentru Analiza Contabilă](https://www.studocu.com/ro/document/academia-de-studii-economice-din-bucuresti/contabilitate-accounting/pcg-planul-general-de-conturi-necesar-analizei-contabile/27774305); [StoDocu - ASE - Documente](https://www.studocu.com/ro/institution/academia-de-studii-economice-din-bucuresti/8211)<br/>
+[ASE - PCG - Download 2021/2022 - Plan General de Conturi pentru Analiza Contabilă](https://www.studocu.com/ro/document/academia-de-studii-economice-din-bucuresti/contabilitate-accounting/pcg-planul-general-de-conturi-necesar-analizei-contabile/27774305); [StuDocu - ASE - Documente](https://www.studocu.com/ro/institution/academia-de-studii-economice-din-bucuresti/8211)<br/>
 
 
 
