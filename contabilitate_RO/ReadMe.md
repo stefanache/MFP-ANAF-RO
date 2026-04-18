@@ -34,7 +34,7 @@ PENTRU INSTITUŢIILE PUBLICE - Contabilitate Publica - PDF](https://mfinante.gov
 
 [MFP-GOV-RO egislatie Anaxa 2169 FEN - PDF](https://www.mfinante.gov.ro/static/10/Mfp/legislatie/Anaxa2169FEN.pdf)<br/>
 
-[Capitolul 10 - PLANUL DE CONTURI - Reglementari Contabile din 2016 conforme cu Standardele Internaţionale de Raportare Financiară](https://sintact.ro/legislatie/monitorul-oficial/reglementari-contabile-din-2016-conforme-cu-standardele-16960319/roz-10)<br/>
+[Sintact: Capitolul 10 - PLANUL DE CONTURI - Reglementari Contabile din 2016 conforme cu Standardele Internaţionale de Raportare Financiară](https://sintact.ro/legislatie/monitorul-oficial/reglementari-contabile-din-2016-conforme-cu-standardele-16960319/roz-10); [Sintact: Cap 2 PCG 2001](https://sintact.ro/legislatie/monitorul-oficial/reglementari-din-2001-contabile-armonizate-cu-directiva-16829204/roz-2)<br/>
 
 [MFP - legislatie - Reglementari Contabile - ORDIN 1917 din 2005](https://www.mfinante.gov.ro/static/10/Mfp/legislatie/regl_contabile/ORDIN1917.pdf)<br/>
 
