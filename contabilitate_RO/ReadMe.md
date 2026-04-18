@@ -18,6 +18,6 @@ PENTRU INSTITUŢIILE PUBLICE - Contabilitate Publica - PDF](https://mfinante.gov
 
 [ANAF Brasov - Modificari PCG - CONTAB - PDF](https://static.anaf.ro/static/10/Brasov/Brasov/CONTAB.pdf)<br/>
 
-[Curtea de Conturi a RO - RAPORT DE FOLLOW UP privind modul de ducere la îndeplinire a măsurilor dispuse prin Decizia nr. 27/16.08.2022](file:///home/nelu/Downloads/RFWP_UATC_Giroc__TM__15700328.pdf)<br/>
+[Curtea de Conturi a RO - RAPORT DE FOLLOW UP privind modul de ducere la îndeplinire a măsurilor dispuse prin Decizia nr. 27/16.08.2022](https://www.curteadeconturi.ro/rapoarte-audit/downloads/2075)<br/>
 
 
