@@ -24,7 +24,7 @@ PENTRU INSTITUŢIILE PUBLICE - Contabilitate Publica - PDF](https://mfinante.gov
 
 [Capitolul 10 - PLANUL DE CONTURI - Reglementari Contabile din 2016 conforme cu Standardele Internaţionale de Raportare Financiară](https://sintact.ro/legislatie/monitorul-oficial/reglementari-contabile-din-2016-conforme-cu-standardele-16960319/roz-10)<br/>
 
-[MFP - legislatie - Reglementari Contabile - ORDIN 1917](https://www.mfinante.gov.ro/static/10/Mfp/legislatie/regl_contabile/ORDIN1917.pdf)<br/>
+[MFP - legislatie - Reglementari Contabile - ORDIN 1917 din 2005](https://www.mfinante.gov.ro/static/10/Mfp/legislatie/regl_contabile/ORDIN1917.pdf)<br/>
 
 
 
