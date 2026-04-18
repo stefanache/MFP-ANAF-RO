@@ -13,7 +13,7 @@ Prezentare [PCG](https://www.scribd.com/presentation/514796967/prezentare-PCG)(P
 
 [MFP-GOV-RO legislatie GHID(regl-contabile) ORDIN 1917 - PDF](https://www.mfinante.gov.ro/static/10/Mfp/legislatie/regl_contabile/ORDIN1917.pdf)<br/>
 
-[PCG-ContabBun](https://www.contabun.ro/plan-de-conturi/planul-de-conturi-general/?srsltid=AfmBOopq3Ey42N5Kb_Cb5yDWLQITS1i9D8oNn3cHMYKnDgKozJjhwP7R)<br/>
+[PCG-ContabBun](https://www.contabun.ro/plan-de-conturi/planul-de-conturi-general/?srsltid=AfmBOopq3Ey42N5Kb_Cb5yDWLQITS1i9D8oNn3cHMYKnDgKozJjhwP7R); [ContZilla - PCG](https://www.contzilla.ro/plan-de-conturi/)<br/>
 
 [TABEL DE CORESPONDENŢĂ ÎNTRE CONTURILE CONTABILE DE CHELTUIELI ŞI CODURILE BUGETARE 
 DIN CLASIFICAŢIA INDICATORILOR 
