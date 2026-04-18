@@ -14,6 +14,6 @@ PENTRU INSTITUŢIILE PUBLICE - Contabilitate Publica - PDF](https://mfinante.gov
 
 [Planul de Conturi(PCG) - Actualizare - PDF](https://www.portalcontabilitate.ro/dbimg/files/Planul%20de%20conturi(9).pdf)<br/>
 
-[UCDC cursuri T_1_n115_Contabilitate PDF](https://file.ucdc.ro/cursuri/T_1_n115_Contabilitate.pdf.pdf)<br/>
+[UCDC cursuri T_1_n115_Contabilitate 2009  Final PDF](https://file.ucdc.ro/cursuri/T_1_n115_Contabilitate.pdf.pdf)<br/>
 
 
