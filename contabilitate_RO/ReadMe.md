@@ -5,7 +5,7 @@ Prezentare [PCG](https://www.scribd.com/presentation/514796967/prezentare-PCG)(P
 
 [PCG=CoA](https://assets.kpmg.com/content/dam/kpmg/ro/pdf/plan-de-conturi-2016-web.pdf)<br/>
 
-[PCG](https://lteniorga.ro/wp-content/uploads/2020/03/Lectie-M2-pt-XA-si-XC-18-martie.pdf) Lectie PDF M2 pt clasa X 18-Martie.<br/>
+[PCG](https://lteniorga.ro/wp-content/uploads/2020/03/Lectie-M2-pt-XA-si-XC-18-martie.pdf) Lectie PDF M2 pt clasa X 18-Martie; [Test evaluare Contul - PCG](https://isj.hd.edu.ro/images/Contabilitate/test_contul.pdf)<br/>
 
 [MFP-GOV-RO PCG sept2012 - PDF](https://mfinante.gov.ro/documents/35673/253356/articol_sept2012.pdf)<br/>
 
