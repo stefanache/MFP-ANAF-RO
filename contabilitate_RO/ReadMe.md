@@ -59,6 +59,10 @@ PENTRU INSTITUŢIILE PUBLICE - Contabilitate Publica - PDF](https://mfinante.gov
 
 [Monografii contabile HD - Clasa XII](https://isj.hd.edu.ro/images/Contabilitate/Monografii%20contabile.pdf)<br/>
 
-[ScriBD - Corespondenta Conturilor](https://www.scribd.com/document/577351469/CORESPONDENTA-Conturilor)<br/>
+[ScriBD - Corespondenta Conturilor](https://www.scribd.com/document/577351469/CORESPONDENTA-Conturilor); [Slide 1](https://www.alegetidrumul.ro/uploads/calificari/177/Materiale%20didactice/IX_Bazele%20contabilitatii_Prof_MicuM.ppt)<br/>
+
+[UniCredit - Cont curent bancar](https://www.unicredit.ro/ro/persoane-fizice/pi/cont-curent.html)<br/>
+
+
 
 
