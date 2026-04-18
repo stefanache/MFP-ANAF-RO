@@ -7,6 +7,8 @@ Prezentare [PCG](https://www.scribd.com/presentation/514796967/prezentare-PCG)(P
 
 [MFP-GOV-RO PCG sept2012 - PDF](https://mfinante.gov.ro/documents/35673/253356/articol_sept2012.pdf)<br/>
 
+[Relațiile comerciale ale entității - ORDIN 1802 din 2014](https://www.portalcontabilitate.ro/dbimg/files/Planul%20de%20conturi(9).pdf)<br/>
+
 
 [TABEL DE CORESPONDENŢĂ ÎNTRE CONTURILE CONTABILE DE CHELTUIELI ŞI CODURILE BUGETARE 
 DIN CLASIFICAŢIA INDICATORILOR 
