@@ -55,4 +55,4 @@ PENTRU INSTITUŢIILE PUBLICE - Contabilitate Publica - PDF](https://mfinante.gov
 
 [DGASPC- HD - Compartiment contabilitate](https://www.dgaspchd.ro/index.php?option=com_content&view=article&id=362)<br/>
 
-[Monografii contabile HD](https://isj.hd.edu.ro/images/Contabilitate/Monografii%20contabile.pdf)<br/>
+[Monografii contabile HD - Clasa XII](https://isj.hd.edu.ro/images/Contabilitate/Monografii%20contabile.pdf)<br/>
