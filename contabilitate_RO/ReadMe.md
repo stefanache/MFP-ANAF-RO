@@ -12,4 +12,6 @@ PENTRU INSTITUŢIILE PUBLICE - Contabilitate Publica](https://mfinante.gov.ro/do
 
 [Contabilitate Generala(CG) - Contul](https://economic2.ro/wp-content/uploads/2025/08/Contabilitate-generala-contul.pdf)<br/>
 
+[Planul de Conturi(PCG) - Actualizare](https://www.portalcontabilitate.ro/dbimg/files/Planul%20de%20conturi(9).pdf)<br/>
+
 
