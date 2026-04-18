@@ -51,4 +51,6 @@ PENTRU INSTITUŢIILE PUBLICE - Contabilitate Publica - PDF](https://mfinante.gov
 
 [CIG: CONTABILITATEA INSTITUŢIILOR DE CREDIT Prof. univ. dr. Lucian – Ion Medar - 2015 - Licenta](https://www.utgjiu.ro/id/docs/centru_economic/licenta%202015/CIG_tematica%20licenta_Contabilitatea%20institutiilor%20de%20%20%20credit.pdf)<br/>
 
-[CC Rapoarte Audit - centralizare pe conturi corespondente - 2021](https://www.curteadeconturi.ro/rapoarte-audit/downloads/1491)
+[CC Rapoarte Audit - centralizare pe conturi corespondente - 2021](https://www.curteadeconturi.ro/rapoarte-audit/downloads/1491)<br/>
+
+[DGASPC- HD - Compartiment contabilitate](https://www.dgaspchd.ro/index.php?option=com_content&view=article&id=362)<br/>
