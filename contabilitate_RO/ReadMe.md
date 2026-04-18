@@ -49,4 +49,4 @@ PENTRU INSTITUŢIILE PUBLICE - Contabilitate Publica - PDF](https://mfinante.gov
 
 [INTESA SanPaolo Bank- Banci corespondente - Conturi Bancare NOSTRO - PDF](https://www.intesasanpaolobank.ro/document/documents/ISPROMANIA/banci-corespondente/banci-corespondente.pdf); [Cec Bank - Banci corespondente si conturi aferente - coduri Swift](https://www.cec.ro/conturi-de-corespondent); [BT- Conturi bancare corespondente](https://www.bancatransilvania.ro/lista-bancilor-corespondente);[BCR- Banci corespondente](https://www.bcr.ro/ro/despre-noi/relatii-internationale/banci-corespondente)<br/>
 
-
+[CONTABILITATEA INSTITUŢIILOR DE CREDIT Prof. univ. dr. Lucian – Ion Medar - 2015 - Licenta](https://www.utgjiu.ro/id/docs/centru_economic/licenta%202015/CIG_tematica%20licenta_Contabilitatea%20institutiilor%20de%20%20%20credit.pdf)<br/>
