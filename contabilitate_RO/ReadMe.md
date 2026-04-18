@@ -1,5 +1,6 @@
 
 Prezentare [PCG](https://www.scribd.com/presentation/514796967/prezentare-PCG)(Plan de Conturi General)<br/>
+
 [PCG](https://lteniorga.ro/wp-content/uploads/2020/03/Lectie-M2-pt-XA-si-XC-18-martie.pdf) Lectie M2 pt clasa X.<br/>
 
 [TABEL DE CORESPONDENŢĂ ÎNTRE CONTURILE CONTABILE DE CHELTUIELI ŞI CODURILE BUGETARE 
@@ -9,6 +10,6 @@ PRIVIND FINANŢELE PUBLICE – CHELTUIELI, CLASIFICAŢIA ECONOMICĂ](https://www
 [PLANUL DE CONTURI GENERAL
 PENTRU INSTITUŢIILE PUBLICE - Contabilitate Publica](https://mfinante.gov.ro/documents/35673/253356/articol_sept2012.pdf)<br/>
 
-
+[Contabilitate Generala(CG) - Contul](https://economic2.ro/wp-content/uploads/2025/08/Contabilitate-generala-contul.pdf)<br/>
 
 
