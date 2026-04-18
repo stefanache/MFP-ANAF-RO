@@ -9,6 +9,7 @@ Prezentare [PCG](https://www.scribd.com/presentation/514796967/prezentare-PCG)(P
 
 [Relațiile comerciale ale entității - ORDIN 1802 din 2014](https://www.portalcontabilitate.ro/dbimg/files/Planul%20de%20conturi(9).pdf)<br/>
 
+[MFP-GOV-RO legislatie GHID(regl-contabile) ORDIN 1917 - PDF](https://www.mfinante.gov.ro/static/10/Mfp/legislatie/regl_contabile/ORDIN1917.pdf)<br/>
 
 [TABEL DE CORESPONDENŢĂ ÎNTRE CONTURILE CONTABILE DE CHELTUIELI ŞI CODURILE BUGETARE 
 DIN CLASIFICAŢIA INDICATORILOR 
