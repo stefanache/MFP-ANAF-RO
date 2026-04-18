@@ -3,7 +3,7 @@
 
 Prezentare [PCG](https://www.scribd.com/presentation/514796967/prezentare-PCG)(Plan de Conturi General)<br/>
 
-[PCG=CoA](https://assets.kpmg.com/content/dam/kpmg/ro/pdf/plan-de-conturi-2016-web.pdf)<br/>
+[PCG=CoA](https://assets.kpmg.com/content/dam/kpmg/ro/pdf/plan-de-conturi-2016-web.pdf); [Sanatate prin arte: PCG 2025 v1 - Download - PDF](https://sanatate-prin-arte.ro/planul-de-conturi-general/?gad_source=1&gad_campaignid=21174168694&gbraid=0AAAAApI8GfNTdIW95aJb_jF_vhMTJy9QK&gclid=CjwKCAjw14zPBhAuEiwAP3-Eb1m7cDC8soKF-1VK-FxOaWiORIsVTOGMGnN3CGHlFRxsbagKvgjkXhoCckcQAvD_BwE)<br/>
 
 [PCG](https://lteniorga.ro/wp-content/uploads/2020/03/Lectie-M2-pt-XA-si-XC-18-martie.pdf) Lectie PDF M2 pt clasa X 18-Martie; [Test evaluare Contul - PCG](https://isj.hd.edu.ro/images/Contabilitate/test_contul.pdf)<br/>
 
