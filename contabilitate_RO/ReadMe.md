@@ -45,6 +45,8 @@ PENTRU INSTITUŢIILE PUBLICE - Contabilitate Publica - PDF](https://mfinante.gov
 
 [SoftPro: Fisa-SAH Cartea-Mare - Situatii pe Conturi-Corespondente](https://softpro.ro/fisa-sah-cartea-mare-situatii-pe-conturi-corespondente/)<br/>
 
+[TaxDome-blog: Registrul Cartea-Mare](https://taxdome.com/ro-ro/blog/registrul-cartea-mare)<br/>
+
 [UT CJ - Monografie Contabila - pt ingineri Economisti si nu numai... 2022 - PDF](https://biblioteca.utcluj.ro/files/carti-online-cu-coperta/585-5.pdf)<br/>
 
 [INTESA SanPaolo Bank- Banci corespondente - Conturi Bancare NOSTRO - PDF](https://www.intesasanpaolobank.ro/document/documents/ISPROMANIA/banci-corespondente/banci-corespondente.pdf); [Cec Bank - Banci corespondente si conturi aferente - coduri Swift](https://www.cec.ro/conturi-de-corespondent); [BT- Conturi bancare corespondente](https://www.bancatransilvania.ro/lista-bancilor-corespondente);[BCR- Banci corespondente](https://www.bcr.ro/ro/despre-noi/relatii-internationale/banci-corespondente)<br/>
