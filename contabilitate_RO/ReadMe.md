@@ -20,4 +20,6 @@ PENTRU INSTITUŢIILE PUBLICE - Contabilitate Publica - PDF](https://mfinante.gov
 
 [Curtea de Conturi a RO - RAPORT DE FOLLOW UP privind modul de ducere la îndeplinire a măsurilor dispuse prin Decizia nr. 27/16.08.2022](https://www.curteadeconturi.ro/rapoarte-audit/downloads/2075)<br/>
 
+[MFP-GOV-RO egislatie Anaxa 2169 FEN - PDF](https://www.mfinante.gov.ro/static/10/Mfp/legislatie/Anaxa2169FEN.pdf)<br/>
+
 
