@@ -40,5 +40,7 @@ PENTRU INSTITUŢIILE PUBLICE - Contabilitate Publica - PDF](https://mfinante.gov
 
 [ASE - PCG - Download 2021/2022 - Plan General de Conturi pentru Analiza Contabilă](https://www.studocu.com/ro/document/academia-de-studii-economice-din-bucuresti/contabilitate-accounting/pcg-planul-general-de-conturi-necesar-analizei-contabile/27774305); [StuDocu - ASE - Documente](https://www.studocu.com/ro/institution/academia-de-studii-economice-din-bucuresti/8211)<br/>
 
+[ScriBD - PCG](https://www.scribd.com/document/964197870/Planul-Contabil-General)<br/>
+
 
 
