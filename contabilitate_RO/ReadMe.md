@@ -16,4 +16,6 @@ PENTRU INSTITUŢIILE PUBLICE - Contabilitate Publica - PDF](https://mfinante.gov
 
 [UCDC cursuri T_1_n115_Contabilitate 2009  Final PDF](https://file.ucdc.ro/cursuri/T_1_n115_Contabilitate.pdf.pdf)<br/>
 
+[ANAF Brasov - Modificari PCG - CONTAB - PDF](https://static.anaf.ro/static/10/Brasov/Brasov/CONTAB.pdf)<br/>
+
 
