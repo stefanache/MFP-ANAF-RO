@@ -36,6 +36,8 @@ PENTRU INSTITUŢIILE PUBLICE - Contabilitate Publica - PDF](https://mfinante.gov
 
 [Sintact: Capitolul 10 - PLANUL DE CONTURI - Reglementari Contabile din 2016 conforme cu Standardele Internaţionale de Raportare Financiară](https://sintact.ro/legislatie/monitorul-oficial/reglementari-contabile-din-2016-conforme-cu-standardele-16960319/roz-10); [Sintact: Cap 2 PCG 2001](https://sintact.ro/legislatie/monitorul-oficial/reglementari-din-2001-contabile-armonizate-cu-directiva-16829204/roz-2)<br/>
 
+[Sintact: Capitolul iii - Corespondenţa cu Planul de conturi pentru instituţiile care aplică IFRS 1 - Norme Metodologice din 2020 privind întocmirea raportării contabile anuale pentru necesităţi de informaţii ale Ministerului Finanţelor Publice, aplicabile instituţiilor de credit](https://sintact.ro/legislatie/monitorul-oficial/norme-metodologice-din-2020-privind-intocmirea-raportarii-16986975/roz-iii)
+
 [MFP - legislatie - Reglementari Contabile - ORDIN 1917 din 2005](https://www.mfinante.gov.ro/static/10/Mfp/legislatie/regl_contabile/ORDIN1917.pdf)<br/>
 
 [ASE - PCG - Download 2021/2022 - Plan General de Conturi pentru Analiza Contabilă](https://www.studocu.com/ro/document/academia-de-studii-economice-din-bucuresti/contabilitate-accounting/pcg-planul-general-de-conturi-necesar-analizei-contabile/27774305); [StuDocu - ASE - Documente](https://www.studocu.com/ro/institution/academia-de-studii-economice-din-bucuresti/8211)<br/>
@@ -50,6 +52,8 @@ PENTRU INSTITUŢIILE PUBLICE - Contabilitate Publica - PDF](https://mfinante.gov
 [UT CJ - Monografie Contabila - pt ingineri Economisti si nu numai... 2022 - PDF](https://biblioteca.utcluj.ro/files/carti-online-cu-coperta/585-5.pdf)<br/>
 
 [INTESA SanPaolo Bank- Banci corespondente - Conturi Bancare NOSTRO - PDF](https://www.intesasanpaolobank.ro/document/documents/ISPROMANIA/banci-corespondente/banci-corespondente.pdf); [Cec Bank - Banci corespondente si conturi aferente - coduri Swift](https://www.cec.ro/conturi-de-corespondent); [BT- Conturi bancare corespondente](https://www.bancatransilvania.ro/lista-bancilor-corespondente);[BCR- Banci corespondente](https://www.bcr.ro/ro/despre-noi/relatii-internationale/banci-corespondente)<br/>
+
+[BCR: Tarife si comisioane pt Banci-Corespondente](https://www.bcr.ro/ro/despre-noi/relatii-internationale/tarife-si-comisioane-pentru-banci-corespondente)<br/>
 
 [CIG: CONTABILITATEA INSTITUŢIILOR DE CREDIT Prof. univ. dr. Lucian – Ion Medar - 2015 - Licenta](https://www.utgjiu.ro/id/docs/centru_economic/licenta%202015/CIG_tematica%20licenta_Contabilitatea%20institutiilor%20de%20%20%20credit.pdf)<br/>
 
