@@ -45,5 +45,5 @@ PENTRU INSTITUŢIILE PUBLICE - Contabilitate Publica - PDF](https://mfinante.gov
 
 [SoftPro: Fisa-SAH Cartea-Mare - Situatii pe Conturi-Corespondente](https://softpro.ro/fisa-sah-cartea-mare-situatii-pe-conturi-corespondente/)<br/>
 
-[UT CJ - Monografie Contabila - pt ingineri Economisti si nu numai... - PDF](https://biblioteca.utcluj.ro/files/carti-online-cu-coperta/585-5.pdf)<br/>
+[UT CJ - Monografie Contabila - pt ingineri Economisti si nu numai... 2022 - PDF](https://biblioteca.utcluj.ro/files/carti-online-cu-coperta/585-5.pdf)<br/>
 
