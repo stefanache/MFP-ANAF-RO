@@ -5,7 +5,7 @@ Acest "[**github**](https://www.anaf.ro/anaf/internet/ANAF/asistenta_contribuabi
                        ["Fiscalitatea/Informatica or Programarea-povestita"](https://iapp.ro/blog/PHP%20API%20ANAF%20SPV)!) 
 care ... [**vine**](https://doc.inap.ro/swagger)(sau [*NU*](https://www.bnr.ro/files/xml/years/nbrfxrates2025.xml)!:) in  sprijinul  activitatii dvs. de [digitalizare](https://github.com/stefanache/MFP-ANAF-RO/tree/main/Swagger_OpenAPI_eFactura_SPV) curenta!
 
-Sper ca aceast[a/e] documentatie/notite de analiza [cvasi-]tehnica  constituie macar o sursa de [inspiratie](https://www.gestiune-magazin.ro/cum-configurezi-un-certificat-spv-care-este-instalat-pe-alt-calculator/);
+Sper ca aceast[a/e] documentatie/notite de analiza [cvasi] - [tehnica](https://startco.ro/blog/ghid-deschidere-cont-spv/)  constituie macar o sursa de [inspiratie](https://www.gestiune-magazin.ro/cum-configurezi-un-certificat-spv-care-este-instalat-pe-alt-calculator/);
 (aceasta se adreseaza tuturor factorilor implicati/angajati in acest efort comun de **eGuvernare**)
 
 <hr/>
