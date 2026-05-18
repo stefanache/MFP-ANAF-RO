@@ -8,7 +8,9 @@ Q: [php create table MySQL from using .xsd file](https://www.google.com/search?m
 
 [xsd2php](https://www.google.com/search?q=xsd2php&oq=xsd2php&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABjvBTIHCAIQABjvBTIKCAMQABiABBiiBDIHCAQQABjvBTIHCAUQABjvBdIBCTE4NDZqMGoxNagCCLACAfEF8JfY7OuqnA8&sourceid=chrome&ie=UTF-8)
 
-[XSD2PhP](https://github.com/goetas-webservices/xsd2php)
+[GH-goetas: XSD2PhP](https://github.com/goetas-webservices/xsd2php)
+
+[GH-moyarada: XSD2PhP](https://github.com/moyarada/XSD-to-PHP/tree/master)
 
 Parse the XSD File: Use PHP's SimpleXML or DOMDocument to read and parse the XSD file.
 
