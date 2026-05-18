@@ -65,7 +65,7 @@ Build the SQL Statement.
 Create the Table.
 
 
-
+<code>
 
 <?php
 
@@ -85,4 +85,6 @@ function createTableFromXSD($xsdFilePath, $tableName, $pdo) {
                 $columnType...
 
 ?>
+
+</code>
 
