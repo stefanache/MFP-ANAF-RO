@@ -52,11 +52,8 @@ PHP Code
 
 
 The following PhP-code will have the next plan of actions:<br/<br/>
-
 - *Parse* the *.XSD*: Load and parse the *.XSD* file.
-
 - *Build* the **SQL**-*Statement*.
-
 - *Create* the **Table**.
 
 
