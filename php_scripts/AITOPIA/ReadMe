@@ -75,4 +75,7 @@ function createTableFromXSD($xsdFilePath, $tableName, $pdo) {
         if ((string)$element['name'] === $tableName) {
             foreach ($element->complexType->sequence->element as $subElement) {
                 $columnName = (string)$subElement['name'];
-                $columnType
+                $columnType...
+
+?>
+
