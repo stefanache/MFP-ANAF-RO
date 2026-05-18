@@ -51,7 +51,7 @@ PHP Code
 
 
 
-The following PhP-code will have the next [plan of actions](https://www.hashbangcode.com/article/validating-xml-files-xml-schema-definitions-php):<br/<br/>
+The following [PhP-code](https://www.google.com/search?q=php+simplexml+xsd&sca_esv=c238079dbba20b5b&sxsrf=ANbL-n62Ptu6lkhyg8Ymn-kLL94dLojqqQ%3A1779122974545&ei=HkMLatX6IKnsi-gPtobD8A8&ved=0ahUKEwjVgaPHpcOUAxUp9gIHHTbDEP4Q4dUDCBI&uact=5&oq=php+simplexml+xsd&gs_lp=Egxnd3Mtd2l6LXNlcnAiEXBocCBzaW1wbGV4bWwgeHNkMgcQIxiwAhgnMgUQABjvBTIFEAAY7wUyCBAAGIkFGKIEMgUQABjvBTIIEAAYgAQYogRIkRBQ6w1Y6w1wAXgAkAEAmAFkoAHDAaoBAzEuMbgBA8gBAPgBAZgCAqACfsICCBAAGO8FGLADwgILEAAYiQUYogQYsAPCAgsQABiABBiiBBiwA5gDAIgGAZAGBZIHAzEuMaAH4gayBwMwLjG4B2_CBwMzLTLIBxmACAE&sclient=gws-wiz-serp) will have the next [plan of actions](https://www.hashbangcode.com/article/validating-xml-files-xml-schema-definitions-php):<br/<br/>
 - *Parse* the *.XSD*: Load and parse the *.XSD* file.
 - *Build* the **SQL**-*Statement*.
 - *Create* the **Table**.
