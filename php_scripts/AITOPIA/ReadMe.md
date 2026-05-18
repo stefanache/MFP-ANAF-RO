@@ -1,6 +1,6 @@
 
 
-[AITOPIA](https://aitopia.ai/) este Un copilot plugin la browser-ul Chrome  ce genereaza cod pe baza chatting-ului/conversatiei
+[AITOPIA](https://aitopia.ai/) este Un [copilot](https://static.anaf.ro/static/10/Anaf/Declaratii_R/AplicatiiDec/RO_SAFT_SchemaDefCod_05.02.2026.xlsx) plugin al browser-ului Chrome  ce genereaza cod pe baza chatting-ului/conversatiei
 
 To create a MySQL table from an [XML-Schema-Definition](https://static.anaf.ro/static/10/Anaf/Declaratii_R/406.html)(XSD) file using PHP, you will need to follow these steps:
 
