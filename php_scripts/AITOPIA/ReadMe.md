@@ -14,7 +14,7 @@ Q: [php create table MySQL from using .xsd file](https://www.google.com/search?m
 
 
 The [**milestones-plan**](https://stackoverflow.com/questions/12507331/php-simplexmlelement-validation-with-xsd):<br/><br/>
-- **Parse the *.XSD* File**: Use PHP's **SimpleXML** or **DOMDocument** to read and parse the *.XSD* file.<br/>
+- **Parse the *.XSD* File**: Use PHP's [**SimpleXML**](https://reintech.io/blog/php-xml-parsing-validation-transformation-tutorial) or [**DOMDocument**](https://www.php.net/manual/en/domdocument.schemavalidate.php) to read and parse the *.XSD* file.<br/>
 - **Extract Information**: *Extract* the relevant-information about *elements*, *types*, and their *attributes* from the *.XSD*.
 - **Generate the SQL** ***CREATE TABLE Statement***: *Construct*/*Generate* the **SQL**-*statement* based on the *extracted*-information.<br/>
 - **Execute the SQL Statement**: Run the *generated* **SQL** statement to *create* the **table** in the **MySQL**-*database*.<br/>
