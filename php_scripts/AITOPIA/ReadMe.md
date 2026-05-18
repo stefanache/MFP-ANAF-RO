@@ -51,7 +51,7 @@ PHP Code
 
 
 
-The following PhP-code will have the next plan of actions:<br/<br/>
+The following PhP-code will have the next [plan of actions](https://www.hashbangcode.com/article/validating-xml-files-xml-schema-definitions-php):<br/<br/>
 - *Parse* the *.XSD*: Load and parse the *.XSD* file.
 - *Build* the **SQL**-*Statement*.
 - *Create* the **Table**.
