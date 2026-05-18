@@ -13,7 +13,7 @@ Q: [php create table MySQL from using .xsd file](https://www.google.com/search?m
 [GH-moyarada: XSD2PhP](https://github.com/moyarada/XSD-to-PHP/tree/master)
 
 
-The **milestones-plan**:<br/><br/>
+The [**milestones-plan**](https://stackoverflow.com/questions/12507331/php-simplexmlelement-validation-with-xsd):<br/><br/>
 - **Parse the *.XSD* File**: Use PHP's **SimpleXML** or **DOMDocument** to read and parse the *.XSD* file.<br/>
 - **Extract Information**: *Extract* the relevant-information about *elements*, *types*, and their *attributes* from the *.XSD*.
 - **Generate the SQL** ***CREATE TABLE Statement***: *Construct*/*Generate* the **SQL**-*statement* based on the *extracted*-information.<br/>
