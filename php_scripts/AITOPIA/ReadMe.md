@@ -6,7 +6,9 @@ To create a MySQL table from an XML Schema Definition (XSD) file using PHP, you 
 
 Q: [php create table MySQL from using .xsd file](https://www.google.com/search?mstk=AUtExfCexnxem6nlJG3rT92U6wHEagbgj_cOMJgvxVOuDk_z0ERaWKIaDVio2gVVWSAFqWkBalfRjgwFo12wmGgyWs3_f6RjIGuQcX8ZMYC5orWSYxyQc0EuWLm2WM19oqA_17d5jgSosmxqQiFQIBdXMJYmVqxzI9kz8J8p8puBiQTKxILFIjIvbYFXhBPBkCB5ZEoVOzgYREqwz9gh6xvynfBVPYmgyAnBFWIu6Ak_0Hyb0l8MqCr8aJX-sAIQJ3kD48QnXTa85omx07bVYTzGFZ5OciwXhiPTAv1zZ0iAy-Lwbu1-eGVMcoY_syWlQaOOlIZ_KfmIAQ_GjJSqmcjJgSP11VuGhSIRHh7Zyo_GYGfMwnZdJhwMtyL4q1lek9UGE5Uu0ehGw-7woW1-e2A8hOIToAPN2oB1U4eC9yrs91CuKwxD3PBAfA&csuir=1&aep=28&q=cum+creez+tabele+consistente+pe+baza+unui+fisier+xml-descriptor+.xsd&oq=&gs_lcrp=EgZjaHJvbWUqDwgAECMYJxjqAhjwBRieBjIPCAAQIxgnGOoCGPAFGJ4GMgkIARAjGCcY6gIyDwgCECMYJxjqAhjwBRieBjIJCAMQIxgnGOoCMgkIBBAjGCcY6gIyCQgFECMYJxjqAjIPCAYQIxgnGOoCGPAFGJ4GMgkIBxAjGCcY6gLSAQk1OTYzajBqMTWoAgiwAgHxBZnxDGnCKiDi&sourceid=chrome&ie=UTF-8&mtid=9DgLatz2Me6ti-gP_eBq&udm=50)
 
-[xsd2php](https://www.google.com/search?q=xsd2php&oq=xsd2php&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABjvBTIHCAIQABjvBTIKCAMQABiABBiiBDIHCAQQABjvBTIHCAUQABjvBdIBCTE4NDZqMGoxNagCCLACAfEF8JfY7OuqnA8&sourceid=chrome&ie=UTF-8
+[xsd2php](https://www.google.com/search?q=xsd2php&oq=xsd2php&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABjvBTIHCAIQABjvBTIKCAMQABiABBiiBDIHCAQQABjvBTIHCAUQABjvBdIBCTE4NDZqMGoxNagCCLACAfEF8JfY7OuqnA8&sourceid=chrome&ie=UTF-8)
+
+XSD2PhP](https://github.com/goetas-webservices/xsd2php)
 
 Parse the XSD File: Use PHP's SimpleXML or DOMDocument to read and parse the XSD file.
 
