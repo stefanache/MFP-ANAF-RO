@@ -1,6 +1,6 @@
 
 
-[AITOPIA](https://aitopia.ai/) este Un [copilot](https://static.anaf.ro/static/10/Anaf/Declaratii_R/AplicatiiDec/RO_SAFT_SchemaDefCod_05.02.2026.xlsx), [plugin al browser-ului Chrome](https://static.anaf.ro/static/10/Anaf/Declaratii_R/406.html)  ce genereaza cod pe baza chatting-ului/conversatiei
+[AITOPIA](https://aitopia.ai/) este Un [copilot](https://static.anaf.ro/static/10/Anaf/Declaratii_R/AplicatiiDec/RO_SAFT_SchemaDefCod_05.02.2026.xlsx), [plugin al browser-ului Chrome](https://static.anaf.ro/static/10/Anaf/Declaratii_R/406.html), (copilot) ce/care genereaza cod pe baza *chatting-ului* / *conversatiei* / *intrebarilor* utilizatorului!
 
 To create a MySQL table from an [XML-Schema-Definition](https://static.anaf.ro/static/10/Anaf/Declaratii_R/406.html)(XSD) file using PHP, you will need to follow these steps:
 
