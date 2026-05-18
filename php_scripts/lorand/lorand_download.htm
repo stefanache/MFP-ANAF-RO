@@ -1,0 +1,807 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="en-US">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="en-US">
+<![endif]-->
+<!--[if !(IE 7) & !(IE 8)]><!-->
+<html lang="en-US">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<title>Descarcare factura de la furnizor din SPV ANAF folosind autentificarea OAuth in PHP | Lorand.work</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="https://lorand.work/xmlrpc.php" />
+<!--[if lt IE 9]>
+<script src="https://lorand.work/wp-content/themes/twentytwelve/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+<meta name='robots' content='max-image-preview:large' />
+<link rel="alternate" type="application/rss+xml" title="Lorand.work &raquo; Feed" href="https://lorand.work/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Lorand.work &raquo; Comments Feed" href="https://lorand.work/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Lorand.work &raquo; Descarcare factura de la furnizor din SPV ANAF folosind autentificarea OAuth in PHP Comments Feed" href="https://lorand.work/descarcare-factura-de-la-furnizor-din-spv-anaf-folosind-autentificarea-oauth-in-php/feed/" />
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/lorand.work\/wp-includes\/js\/wp-emoji-release.min.js?ver=743699ce6cdf2730eb847d06aac9bdbd"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<link rel='stylesheet' id='iss-css' href='https://lorand.work/wp-content/plugins/instant-search-suggest/assets/css/iss.css?ver=1444651503' type='text/css' media='all' />
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://lorand.work/wp-includes/css/dist/block-library/style.min.css?ver=743699ce6cdf2730eb847d06aac9bdbd' type='text/css' media='all' />
+<style id='wp-block-library-theme-inline-css' type='text/css'>
+.wp-block-audio figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio figcaption{color:#ffffffa6}.wp-block-audio{margin:0 0 1em}.wp-block-code{border:1px solid #ccc;border-radius:4px;font-family:Menlo,Consolas,monaco,monospace;padding:.8em 1em}.wp-block-embed figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed figcaption{color:#ffffffa6}.wp-block-embed{margin:0 0 1em}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:#ffffffa6}.wp-block-image figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-image figcaption{color:#ffffffa6}.wp-block-image{margin:0 0 1em}.wp-block-pullquote{border-bottom:4px solid;border-top:4px solid;color:currentColor;margin-bottom:1.75em}.wp-block-pullquote cite,.wp-block-pullquote footer,.wp-block-pullquote__citation{color:currentColor;font-size:.8125em;font-style:normal;text-transform:uppercase}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;font-style:normal;position:relative}.wp-block-quote.has-text-align-right{border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote.has-text-align-center{border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large,.wp-block-quote.is-style-plain{border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-search__button{border:1px solid #ccc;padding:.375em .625em}:where(.wp-block-group.has-background){padding:1.25em 2.375em}.wp-block-separator.has-css-opacity{opacity:.4}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto}.wp-block-separator.has-alpha-channel-opacity{opacity:1}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table{margin:0 0 1em}.wp-block-table td,.wp-block-table th{word-break:normal}.wp-block-table figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table figcaption{color:#ffffffa6}.wp-block-video figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video figcaption{color:#ffffffa6}.wp-block-video{margin:0 0 1em}.wp-block-template-part.has-background{margin-bottom:0;margin-top:0;padding:1.25em 2.375em}
+</style>
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #fff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--blue: #21759b;--wp--preset--color--dark-gray: #444;--wp--preset--color--medium-gray: #9f9f9f;--wp--preset--color--light-gray: #e6e6e6;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='contact-form-7-css' href='https://lorand.work/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.9.5' type='text/css' media='all' />
+<link rel='stylesheet' id='parent-theme-css-css' href='https://lorand.work/wp-content/themes/twentytwelve/style.css?ver=743699ce6cdf2730eb847d06aac9bdbd' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve-fonts-css' href='https://lorand.work/wp-content/themes/twentytwelve/fonts/font-open-sans.css?ver=20230328' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve-style-css' href='https://lorand.work/wp-content/themes/twentytwelve-child/style.css?ver=20240402' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve-block-style-css' href='https://lorand.work/wp-content/themes/twentytwelve/css/blocks.css?ver=20230213' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentytwelve-ie-css' href='https://lorand.work/wp-content/themes/twentytwelve/css/ie.css?ver=20150214' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='hcb-style-css' href='https://lorand.work/wp-content/plugins/highlighting-code-block/build/css/hcb--light.css?ver=2.0.1' type='text/css' media='all' />
+<style id='hcb-style-inline-css' type='text/css'>
+:root{--hcb--fz--base: 14px}:root{--hcb--fz--mobile: 13px}:root{--hcb--ff:Menlo, Consolas, "Hiragino Kaku Gothic ProN", "Hiragino Sans", Meiryo, sans-serif;}
+</style>
+<link rel='stylesheet' id='sedlex_styles-css' href='https://lorand.work/wp-content/sedlex/inline_styles/43a6234c6f9765a76c8302f7b6a25a791571e087.css?ver=20240528' type='text/css' media='all' />
+<script type="text/javascript" src="https://lorand.work/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://lorand.work/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="https://lorand.work/wp-content/themes/twentytwelve/js/navigation.js?ver=20141205" id="twentytwelve-navigation-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript" src="https://lorand.work/wp-content/sedlex/inline_scripts/d1ea0ee7721174e98c7591fb91c915a6b339bf6c.js?ver=20240528" id="sedlex_scripts-js"></script>
+<link rel="https://api.w.org/" href="https://lorand.work/wp-json/" /><link rel="alternate" type="application/json" href="https://lorand.work/wp-json/wp/v2/posts/1911" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://lorand.work/xmlrpc.php?rsd" />
+
+<link rel="canonical" href="https://lorand.work/descarcare-factura-de-la-furnizor-din-spv-anaf-folosind-autentificarea-oauth-in-php/" />
+<link rel='shortlink' href='https://lorand.work/?p=1911' />
+<link rel="alternate" type="application/json+oembed" href="https://lorand.work/wp-json/oembed/1.0/embed?url=https%3A%2F%2Florand.work%2Fdescarcare-factura-de-la-furnizor-din-spv-anaf-folosind-autentificarea-oauth-in-php%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://lorand.work/wp-json/oembed/1.0/embed?url=https%3A%2F%2Florand.work%2Fdescarcare-factura-de-la-furnizor-din-spv-anaf-folosind-autentificarea-oauth-in-php%2F&#038;format=xml" />
+<!-- Analytics by WP Statistics v14.7 - https://wp-statistics.com/ -->
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-117360894-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-117360894-1');
+</script>
+
+</head>
+
+<body class="post-template-default single single-post postid-1911 single-format-standard wp-embed-responsive custom-font-enabled single-author">
+<div id="page" class="hfeed site">
+	<header id="masthead" class="site-header" role="banner">
+		<hgroup>
+			<div style='font-size:11px; text-align:right;'><span></span><span style='margin-left:25px;'></span></div>
+			<h1 class="site-title"><a href="https://lorand.work/" title="Lorand.work" rel="home"><img src="https://lorand.work/wp-content/themes/twentytwelve-child/images/logo-lorand.png" /> </a></h1>
+			<h3 class="site-description">Ca sa nu uit&#8230;</h3>
+		</hgroup>
+
+		<nav id="site-navigation" class="main-navigation" role="navigation">
+			<button class="menu-toggle">Menu</button>
+			<a class="assistive-text" href="#content" title="Skip to content">Skip to content</a>
+			<div class="menu-lorand-menu-container"><ul id="menu-lorand-menu" class="nav-menu"><li id="menu-item-708" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-708"><a href="http://lorand.work/">Home</a></li>
+<li id="menu-item-1519" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1519"><a href="https://lorand.work/utile/">Utile</a></li>
+<li id="menu-item-709" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-709"><a href="https://lorand.work/contact/">Contact</a></li>
+</ul></div>		</nav><!-- #site-navigation -->
+
+			</header><!-- #masthead -->
+
+	<div id="main" class="wrapper">
+	<div id="primary" class="site-content">
+		<div id="content" role="main">
+
+			
+				
+	<article id="post-1911" class="post-1911 post type-post status-publish format-standard hentry category-php category-programming category-web-development tag-anaf tag-e-factura tag-oauth tag-spv">
+				<header class="entry-header">
+			
+						<h1 class="entry-title">Descarcare factura de la furnizor din SPV ANAF folosind autentificarea OAuth in PHP</h1>
+								</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			
+<p> In doua articole anterioare am prezentat metode de autentificare prin OAuth si obtinere a tokenului de acces JWT, precum si metode pentru comunicarea cu platforma SPV ANAF in vederea incarcarii facturilor electronice in format xml.</p>
+
+
+
+<p>Mai jos urmeaza metode pentru descarcarea unei facturi din SPV, factura care a fost incarcata de furnizor. Fluxul operatiunilor pentru descarcarea unei facturi este:</p>
+
+
+
+<ul>
+<li>consultarea listei de raspunsuri</li>
+
+
+
+<li>descarcarea facturii in format xml</li>
+
+
+
+<li>conversia facturii xml in format pdf</li>
+
+
+
+<li>interpretarea continutului facturii xml (optional)</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading">1. Consultarea listei de mesaje</h2>
+
+
+
+<p>Este important de notat faptul ca lista cu raspunsuri returneaza maxim 500 de elemente (facturi, erori sau mesaje). De aceea, aceasta interogare se poate face in doua moduri: simplu sau cu paginatie. Eu am ales sa merg pe varianta cu paginatie, pentru ca acopera inclusiv situatia in care raspunsul contine mai putin de 500 de elemente (deci o singura pagina). Apelul acestui serviciu necesita autentificare.</p>
+
+
+
+<p><span style="font-size: revert;">La apelul acestui serviciu sunt necesari urmatorii parametri:</span></p>
+
+
+
+<ul>
+<li><code>startTime</code> &#8211; data de start pentru care se face interogarea, in format numeric (unixtimestamp cu milisecunde)</li>
+
+
+
+<li><code>endTime</code> &#8211; data de final pentru care se face interogarea, in format numeric (unixtimestamp cu milisecunde)</li>
+
+
+
+<li><code>cif</code> &#8211; codul fiscal (numeric) pentru care se face interogarea raspunsurilor</li>
+
+
+
+<li><code>pagina</code> &#8211; numarul paginii interogate</li>
+
+
+
+<li><code>filtru</code> (optional) &#8211; poate avea valorile urmatoare<br>E = ERORI FACTURA<br>T = FACTURA TRIMISA<br>P = FACTURA PRIMITA<br>R = MESAJ CUMPARATOR PRIMIT / MESAJ CUMPARATOR TRANSMIS</li>
+</ul>
+
+
+
+<p>Se pot interoga raspunsurile pentru cel mult 60 de zile in urma. Pentru a nu ne lovi de problemele care apar chiar la limita intervalului de timp (datorita sincronizarii imperfecte a timpului intre serverul nostru si cel al ANAF) am ales ca parametrul <code>endTime</code> sa fie intotdeauna cu 10 minute in urma fata de momentul prezent. De asemenea, in webinariile organizate de ANAF am fost asigurati ca nu vor apare raspunsuri noi la o data din trecut, ci, toate raspunsurile sunt furnizate cronologic, in ordinea emiterii lor. Asta inseamna ca daca interogam lista de raspunsuri o data pe zi, nu are rost sa interogam un interval mai mare de 1 zi (sa zicem totusi 2 zile pentru siguranta).</p>
+
+
+
+<p>Un aspect care merita notat este faptul ca in lista de raspunsuri mai intai sunt furnizate cele cu id impar, iar apoi cele cu id par. Chiar si asa, nu exista o ordonare utila pentru utilizator. Asta inseamna ca informatiile nu vor fi afisate utilizatorilor pentru fiecare pagina de raspunsuri interogata la ANAF, ci vor fi descarcate toate paginile, se va face ordonarea necesara si abia apoi se va face afisarea.</p>
+
+
+
+<p>Fiecare pagina de raspunsuri contine si parametrul <code>numar_total_pagini</code>, asa incat chiar de la prima pagina returnata se va cunoaste numarul total de pagini care trebuie interogate.</p>
+
+
+
+<p>Apelul de mai jos este facut pentru facturile primite, deci contine parametrul <code>filtru=P</code>.</p>
+
+
+
+<div class="hcb_wrap"><pre class="prism line-numbers lang-php" data-lang="PHP"><code>public function getListaRaspunsuri($nr_zile = 60){
+	global $db;
+	$out = [];
+	
+	//verificare existenta token valid pentru ANAF
+	if (!$this-&gt;get_last_valid_token()){
+		return [&#39;result&#39; =&gt; 1, &#39;error&#39; =&gt; &#39;Nu exista token valabil.&#39;];
+	}
+	
+	//initializari
+	$startTime = strtotime(&quot;-{$zile} days&quot;) * 1000;
+	$endTime = strtotime(&quot;-10 min&quot;) * 1000;
+	$pagina = 1;
+	$nr_pagini = 1;
+
+	//ciclu de interogari
+	while($pagina &lt;= $nr_pagini){
+		//interogare
+		$ch = curl_init();
+		curl_setopt($ch, CURLOPT_URL, &quot;https://api.anaf.ro/prod/FCTEL/rest/listaMesajePaginatieFactura?startTime=$startTime&endTime=$endTime&cif=COD_FISCAL&pagina=$pagina&filtru=P&quot;);
+		curl_setopt($ch, CURLOPT_POST, 0);
+		curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+		curl_setopt($ch, CURLOPT_FOLLOWLOCATION, 1);
+		curl_setopt($ch, CURLOPT_HTTP_VERSION, CURL_HTTP_VERSION_1_1);
+		curl_setopt($ch, CURLOPT_CUSTOMREQUEST, &#39;GET&#39;);
+		curl_setopt($ch, CURLOPT_HTTPHEADER,
+			array(
+				&quot;Authorization: Bearer {$anaf-&gt;token_info[&#39;access_token&#39;]}&quot;,
+				&quot;Content-Type: text/plain&quot;,
+				&quot;Accept-Encoding: gzip, deflate, br&quot;,
+				&quot;Connection: keep-alive&quot;
+			)
+		);		
+
+		//verbose output
+		curl_setopt($ch, CURLOPT_VERBOSE, true);
+		$streamVerboseHandle = fopen(&#39;php://temp&#39;, &#39;w+&#39;);
+		curl_setopt($ch, CURLOPT_STDERR, $streamVerboseHandle);
+		
+		$resp = curl_exec($ch);
+		
+		rewind($streamVerboseHandle);
+		$verboseLog = stream_get_contents($streamVerboseHandle);
+		
+		//mesaje
+		$result = json_decode($resp, true);
+		
+		if ($result[&#39;eroare&#39;]){
+			$errors[] = $result[&#39;eroare&#39;];
+		}
+		else{
+			//tratare alte erori
+			if (!is_array($result[&#39;mesaje&#39;]) || !isset($result[&#39;numar_total_pagini&#39;])){
+				$errors[] = &#39;Eroare la interogarea ANAF&#39;;
+				$errors[] = $verboseLog;
+				return [&#39;result&#39; =&gt; 1, &#39;errors&#39; =&gt; $errors];
+			}
+
+			foreach($result[&#39;mesaje&#39;] AS $mesaj){
+				$out[] = $mesaj;
+			}
+			$nr_pagini = $result[&#39;numar_total_pagini&#39;];
+			$pagina++;
+		}
+	}
+	
+	if (count($errors)){
+		return [&#39;result&#39; =&gt; 1, &#39;errors&#39; =&gt; $errors];
+	}
+	else{
+		return [&#39;result&#39; =&gt; 0, &#39;mesaje&#39; =&gt; $out];
+	}
+}</code></pre></div>
+
+
+
+<p>Fiecare pozitie din lista de mesaje returnate are structura urmatoare:</p>
+
+
+
+<div class="hcb_wrap"><pre class="prism line-numbers lang-plain"><code>Array
+(
+    [data_creare] =&gt; 202403170835
+    [cif] =&gt; COD_FISCAL
+    [id_solicitare] =&gt; 1234567890
+    [detalii] =&gt; Factura cu id_incarcare=1234567890 emisa de cif_emitent=COD_FISCAL_FURNIZOR pentru cif_beneficiar=COD_FISCAL
+    [tip] =&gt; FACTURA PRIMITA
+    [id] =&gt; 3124567890
+)</code></pre></div>
+
+
+
+<ul>
+<li><code>data_creare</code> &#8211; reprezinta data la care furnizorul a incarcat factura in SPV</li>
+
+
+
+<li><code>cif</code> &#8211; cod fiscal pentru care se face interogarea (clientul)</li>
+
+
+
+<li><code>id_solicitare</code> &#8211; reprezinta <code>index_incarcare</code> pe care l-a primit furnizorul la incarcarea facturii</li>
+
+
+
+<li><code>detalii</code> &#8211; un string cu cateva detalii din care putem extrage codul fiscal al furnizorului</li>
+
+
+
+<li><code>tip</code> &#8211; tipul mesajului (mai sus la pasul 1 apare lista cu valorile posibile ale acestui parametru)</li>
+
+
+
+<li><code>id</code> &#8211; id_descarcare</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading">2. Descarcarea unei facturi de la furnizor</h2>
+
+
+
+<p>Pentru descarcarea unei facturi de la furnizor din platforma SPV se poate utiliza metoda de descarcare a unui mesaj (prezentata in <a href="https://lorand.work/?p=1907">articolul anterior</a>), singura diferenta fiind aceea ca metoda nu poate fi apelata utilizand numarul facturii, ci parametrul <code>id_descarcare</code>. Acest parametru il obtinem din lista de mesaje de la pasul anterior. Apelul acestui serviciu necesita autentificare.</p>
+
+
+
+<div class="hcb_wrap"><pre class="prism line-numbers lang-php" data-lang="PHP"><code>public function getFacturaFurnizor($id_descarcare){
+	global $db;
+	
+	//verificare existenta token valid pentru ANAF
+	if (!$this-&gt;get_last_valid_token()){
+		return [&#39;result&#39; =&gt; 1, &#39;error&#39; =&gt; &#39;Nu exista token valabil.&#39;];
+	}
+	
+	//interogare
+	$ch = curl_init();
+	curl_setopt($ch, CURLOPT_URL, &#39;https://api.anaf.ro/prod/FCTEL/rest/descarcare?id=&#39; . $id_descarcare);
+	curl_setopt($ch, CURLOPT_POST, 0);
+	curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+	curl_setopt($ch, CURLOPT_FOLLOWLOCATION, 1);
+	curl_setopt($ch, CURLOPT_HTTP_VERSION, CURL_HTTP_VERSION_1_1);
+	curl_setopt($ch, CURLOPT_CUSTOMREQUEST, &#39;GET&#39;);
+	curl_setopt($ch, CURLOPT_HTTPHEADER,
+		array(
+			&quot;Authorization: Bearer {$this-&gt;token_info[&#39;access_token&#39;]}&quot;,
+			&quot;Content-Type: text/plain&quot;,
+			&quot;Accept-Encoding: gzip, deflate, br&quot;,
+			&quot;Connection: keep-alive&quot;
+		)
+	);		
+	
+	//verbose output
+	curl_setopt($ch, CURLOPT_VERBOSE, true);
+	$streamVerboseHandle = fopen(&#39;php://temp&#39;, &#39;w+&#39;);
+	curl_setopt($ch, CURLOPT_STDERR, $streamVerboseHandle);
+	
+	$resp = curl_exec($ch);
+	
+	//testez daca raspunsul este continut de fisier zip
+	if (substr($resp, 0, 4) == &quot;\x50\x4b\x03\x04&quot;){
+		//salvez fisierul zip
+		$filepath = LOCAL_PATH . &quot;/documents/eFactura/$id_descarcare&quot;;
+		$filename = &quot;{$id_descarcare}.zip&quot;;
+		
+		//daca nu exista folderul destinatie il creez
+		if (!is_dir($filepath)) mkdir($filepath);
+		
+		//scriere continut fisier zip
+		$f = fopen($filepath . &#39;/&#39; . $filename, &#39;w&#39;);
+		fwrite($f, $resp);
+		fclose($f);
+		chmod($filepath . &#39;/&#39; . $filename, 0755);
+		
+		//returnare rezultat
+		return [&#39;result&#39; =&gt; 0, &#39;filename&#39; =&gt; $filepath . &#39;/&#39; . $filename];
+	}
+	else{
+		//NU este continut fisier zip
+		return [&#39;result&#39; =&gt; 1, &#39;error&#39; =&gt; $resp];
+	}
+}</code></pre></div>
+
+
+
+<h2 class="wp-block-heading">3. Conversie xml in pdf</h2>
+
+
+
+<p>Acesta este un serviciu web pus la dispozitie de ANAF prin care factura in format xml poate fi convertita in format pdf. Structura si formatul (macheta) documentului pdf nu este una foarte placuta, dar…e singura varianta pe care o avem la dispozitie.</p>
+
+
+
+<p>Apelul acestui serviciu nu necesita autentificare.</p>
+
+
+
+<p>Parametrii pentru request sunt:</p>
+
+
+
+<ul>
+<li><code>tip</code> &#8211; tipul documentului, poate avea valorile <code>FACT1</code> sau <code>FCN</code></li>
+
+
+
+<li><code>novld</code> &#8211; optional, se accepta doar valoarea <code>DA</code>, caz in care fisierul xml transmis nu va fi validat</li>
+</ul>
+
+
+
+<div class="hcb_wrap"><pre class="prism line-numbers lang-php" data-lang="PHP"><code>public function convertXML2PDF($tip, $xml_filepath, $invoice_no){
+	global $db;
+	
+	$pathinfo = pathinfo($xml_filepath);
+	$filepath = $pathinfo[&#39;dirname&#39;];
+	$xml_filename = basename($xml_filepath);
+	$pdf_filename = $invoice_no . &#39;.pdf&#39;;
+	
+	//preluare continut fisier xml
+	$xml_file_content = file_get_contents($filepath . &#39;/&#39; . $xml_filename);
+	//elimin headerul BOM (UTF-8) din continutul fisierului
+	$xml_file_content = remove_bom($xml_file_content);
+	//elimin secventa care poate genera erori
+	$xml_file_content = str_replace(&#39;xsi:schemaLocation=&quot;urn:oasis:names:specification:ubl:schema:xsd:Invoice-2 ../../UBL-2.1(1)/xsd/maindoc/UBL-Invoice-2.1.xsd&quot;&#39;, &#39;&#39;, $xml_file_content);
+
+	//interogare
+	$ch = curl_init();
+	curl_setopt($ch, CURLOPT_URL, &quot;https://webservicesp.anaf.ro/prod/FCTEL/rest/transformare/$tip&quot;);
+	curl_setopt($ch, CURLOPT_POST, 1);
+	curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+	curl_setopt($ch, CURLOPT_FOLLOWLOCATION, 1);
+	curl_setopt($ch, CURLOPT_HTTP_VERSION, CURL_HTTP_VERSION_1_1);
+	curl_setopt($ch, CURLOPT_POSTFIELDS, $xml_file_content);
+	curl_setopt($ch, CURLOPT_HTTPHEADER,
+		array(
+			&quot;Content-Type: text/plain&quot;,
+			&quot;Accept-Encoding: gzip, deflate, br&quot;,
+			&quot;Connection: keep-alive&quot;
+		)
+	);		
+	
+	//verbose output
+	curl_setopt($ch, CURLOPT_VERBOSE, true);
+	$streamVerboseHandle = fopen(&#39;php://temp&#39;, &#39;w+&#39;);
+	curl_setopt($ch, CURLOPT_STDERR, $streamVerboseHandle);
+	
+	$resp = curl_exec($ch);
+	
+	rewind($streamVerboseHandle);
+	$verboseLog = stream_get_contents($streamVerboseHandle);
+	
+	//testez daca este continut de fisier pdf
+	if (substr($resp, 0, 4) == &quot;\x25\x50\x44\x46&quot;){
+		//salvez fisierul pdf
+		
+		//daca nu exista folderul destinatie il creez
+		if (!is_dir($filepath)) mkdir($filepath);
+		
+		//scriere continut fisier zip
+		$f = fopen($filepath . &#39;/&#39; . $pdf_filename, &#39;w&#39;);
+		fwrite($f, $resp);
+		fclose($f);
+		chmod($filepath . &#39;/&#39; . $pdf_filename, 0755);
+		
+		//returnare rezultat
+		return [&#39;result&#39; =&gt; 0, &#39;filename&#39; =&gt; $filepath . &#39;/&#39; . $pdf_filename];
+	}
+	else{
+		//NU este continut fisier zip
+		return [&#39;result&#39; =&gt; 1, &#39;error&#39; =&gt; $resp];
+	}
+}</code></pre></div>
+
+
+
+<h2 class="wp-block-heading">4. Interpretarea facturii xml de la furnizor (optional)</h2>
+
+
+
+<p>Pentru interpretarea continutului unui document xml am utilizat clasa <code>UBLParser</code> pe care am obtinut-o de aici: <a href="https://github.com/ahmeti/ubl-parser-php/blob/master/UBLParser.php">https://github.com/ahmeti/ubl-parser-php/blob/master/UBLParser.php</a> si pe care am adaptat-o situatiei mele. Aceasta clasa permite traversarea elementelor DOM ale fisierului xml si transformarea acestuia intr-un array. Secventa de cod de mai jos citeste continutul fisierului XML, iar apoi il interpreteaza (parseaza) in functie de tipul documentului: Factura sau Credit Note. La final, in variabila $f vom avea continutul documentului in format <code>Array</code> din care putem extrage mai usor informatiile necesare.</p>
+
+
+
+<p>Fisierul xml trebuie extras din arhiva zip descarcata din SPV. Pentru dezarhivare am folosit clasa <code>ZipArchive</code> din PHP.</p>
+
+
+
+<div class="hcb_wrap"><pre class="prism line-numbers lang-php" data-lang="PHP"><code>//DEZARHIVARE
+$zip = new ZipArchive();
+if ($zip-&gt;open($zip_filename)){
+	//extrag fisierul factura
+	$zip-&gt;extractTo(LOCAL_PATH . &quot;/documents/eFactura/{$id_descarcare}&quot;, &quot;{$id_solicitare}.xml&quot;);
+
+	//extrag fisierul semnatura
+	$zip-&gt;extractTo(LOCAL_PATH . &quot;/documents/eFactura/{$id_descarcare}&quot;, &quot;semnatura_{$id_solicitare}.xml&quot;);
+
+	$zip-&gt;close();
+}
+
+//citire continut fisier
+$xml = file_get_contents(LOCAL_PATH . &quot;/documents/eFactura/{$id_descarcare}/{$id_solicitare}.xml&quot;);
+
+//eliminarea din continutul fisierului a secventei care poate genera erori de interpretare a fisierului XML
+$xml = str_replace(&#39;xmlns:schemaLocation=&quot;urn:oasis:names:specification:ubl:schema:xsd:Invoice-2 http://docs.oasis-open.org/ubl/os-UBL-2.1/xsd/maindoc/UBL-Invoice-2.1.xsd&quot;&#39;, &#39;&#39;, $xml);
+
+//INTERPRETARE CONTINUT XML
+$ubl = new UBLParser;
+$ubl-&gt;getDocDetails($xml);
+if ($ubl-&gt;docType == &#39;CreditNote&#39;){
+	$tipDocument = &#39;FCN&#39;;
+	$ubl-&gt;parseCreditNote($xml);
+	$f = $ubl-&gt;getCreditNote();
+}
+else{
+	$tipDocument = &#39;FACT1&#39;;
+	$ubl-&gt;parseInvoice($xml);
+	$f = $ubl-&gt;getInvoice();
+}
+
+//numarul documentului
+$invoice_no = $f[&#39;ID&#39;];</code></pre></div>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			This entry was posted in <a href="https://lorand.work/category/php/" rel="category tag">PHP</a>, <a href="https://lorand.work/category/programming/" rel="category tag">Programming</a>, <a href="https://lorand.work/category/web-development/" rel="category tag">Web development</a> and tagged <a href="https://lorand.work/tag/anaf/" rel="tag">ANAF</a>, <a href="https://lorand.work/tag/e-factura/" rel="tag">e-Factura</a>, <a href="https://lorand.work/tag/oauth/" rel="tag">OAuth</a>, <a href="https://lorand.work/tag/spv/" rel="tag">SPV</a> on <a href="https://lorand.work/descarcare-factura-de-la-furnizor-din-spv-anaf-folosind-autentificarea-oauth-in-php/" title="15:16" rel="bookmark"><time class="entry-date" datetime="2024-03-22T15:16:13+02:00">22.03.2024</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="https://lorand.work/author/lorand/" title="View all posts by Lorand Szekely" rel="author">Lorand Szekely</a></span></span>.								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+
+				<nav class="nav-single">
+					<h3 class="assistive-text">Post navigation</h3>
+					<span class="nav-previous"><a href="https://lorand.work/incarcare-factura-xml-in-platforma-spv-anaf-folosind-autentificarea-oauth-in-php/" rel="prev"><span class="meta-nav">&larr;</span> Incarcare factura XML in platforma SPV ANAF folosind autentificarea OAuth in PHP</a></span>
+					<span class="nav-next"></span>
+				</nav><!-- .nav-single -->
+
+				
+<div id="comments" class="comments-area">
+
+	
+	
+	
+</div><!-- #comments .comments-area -->
+
+			
+		</div><!-- #content -->
+	</div><!-- #primary -->
+
+
+	<div id="secondary" class="widget-area" role="complementary">
+		<aside id="search-2" class="widget widget_search"><form role="search" method="get" id="searchform" class="searchform" action="https://lorand.work/">
+				<div>
+					<label class="screen-reader-text" for="s">Search for:</label>
+					<input type="text" value="" name="s" id="s" />
+					<input type="submit" id="searchsubmit" value="Search" />
+				</div>
+			</form></aside><aside id="categories-2" class="widget widget_categories"><h3 class="widget-title">Categories</h3>
+			<ul>
+					<li class="cat-item cat-item-11"><a href="https://lorand.work/category/centos/">CentOS</a>
+</li>
+	<li class="cat-item cat-item-77"><a href="https://lorand.work/category/email/">Email</a>
+</li>
+	<li class="cat-item cat-item-12"><a href="https://lorand.work/category/gps/">GPS</a>
+</li>
+	<li class="cat-item cat-item-8"><a href="https://lorand.work/category/hardware/">Hardware</a>
+</li>
+	<li class="cat-item cat-item-208"><a href="https://lorand.work/category/centos/linux/">Linux</a>
+</li>
+	<li class="cat-item cat-item-7"><a href="https://lorand.work/category/mac-os-x/">Mac OS X</a>
+</li>
+	<li class="cat-item cat-item-223"><a href="https://lorand.work/category/office/">Office</a>
+</li>
+	<li class="cat-item cat-item-4"><a href="https://lorand.work/category/php/">PHP</a>
+</li>
+	<li class="cat-item cat-item-5"><a href="https://lorand.work/category/plesk/">Plesk</a>
+</li>
+	<li class="cat-item cat-item-245"><a href="https://lorand.work/category/pontaj-electronic/">Pontaj electronic</a>
+</li>
+	<li class="cat-item cat-item-13"><a href="https://lorand.work/category/printing/">Printing</a>
+</li>
+	<li class="cat-item cat-item-167"><a href="https://lorand.work/category/programming/">Programming</a>
+</li>
+	<li class="cat-item cat-item-96"><a href="https://lorand.work/category/sap/">SAP</a>
+</li>
+	<li class="cat-item cat-item-9"><a href="https://lorand.work/category/sql/">SQL</a>
+</li>
+	<li class="cat-item cat-item-3"><a href="https://lorand.work/category/ubuntu/">Ubuntu</a>
+</li>
+	<li class="cat-item cat-item-87"><a href="https://lorand.work/category/vmware/">VMware</a>
+</li>
+	<li class="cat-item cat-item-10"><a href="https://lorand.work/category/vpn/">VPN</a>
+</li>
+	<li class="cat-item cat-item-67"><a href="https://lorand.work/category/web-development/">Web development</a>
+</li>
+	<li class="cat-item cat-item-14"><a href="https://lorand.work/category/windows/">Windows</a>
+</li>
+	<li class="cat-item cat-item-153"><a href="https://lorand.work/category/windows-server/">Windows Server</a>
+</li>
+	<li class="cat-item cat-item-48"><a href="https://lorand.work/category/wordpress/">Wordpress</a>
+</li>
+			</ul>
+
+			</aside><aside id="linkcat-2" class="widget widget_links"><h3 class="widget-title">Blogroll</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="https://biblia.lorand.work" rel="noopener" title="Biblia &#8211; Versiunea Dumitru Cornilescu Corectata" target="_blank">Biblia</a></li>
+<li><a href="http://cnedelcu.blogspot.in/" rel="noopener" title="Clement Nedelcu&#8217;s Development Journal" target="_blank">Clement Nedelcu</a></li>
+<li><a href="http://css-tricks.com/" rel="noopener" target="_blank">CSS-Tricks</a></li>
+<li><a href="https://major.io/" rel="noopener" title="Words of wisdom from a systems engineer" target="_blank">major.io</a></li>
+<li><a href="https://www.maketecheasier.com/" rel="noopener" title="Uncomplicating the complicated, making life easier" target="_blank">Make Tech Easier</a></li>
+<li><a href="https://nikic.github.io/" rel="noopener" target="_blank">nikic&#039;s Blog</a></li>
+<li><a href="http://www.cyberciti.biz/" rel="noopener" title="An online community of Linux / Unix sysadmins" target="_blank">nixCraft</a></li>
+<li><a href="http://perishablepress.com/" rel="noopener" target="_blank">Perishable Press</a></li>
+<li><a href="https://ryanstutorials.net" rel="noopener" title="A collection of introductory technology tutorials" target="_blank">Ryan&#039;s Tutorials</a></li>
+<li><a href="http://www.smashingmagazine.com/" rel="noopener" target="_blank">Smashing Magazine</a></li>
+<li><a href="http://tactig.com" rel="noopener" title="Tactig" target="_blank">Tactig</a></li>
+<li><a href="http://code.tutsplus.com/" rel="noopener" target="_blank">Tuts+ Code Tutorials</a></li>
+
+	</ul>
+</aside>
+<aside id="tag_cloud-2" class="widget widget_tag_cloud"><h3 class="widget-title">Tags</h3><div class="tagcloud"><ul class='wp-tag-cloud' role='list'>
+	<li><a href="https://lorand.work/tag/anaf/" class="tag-cloud-link tag-link-272 tag-link-position-1" style="font-size: 13.185185185185pt;" aria-label="ANAF (3 items)">ANAF</a></li>
+	<li><a href="https://lorand.work/tag/antispyware/" class="tag-cloud-link tag-link-165 tag-link-position-2" style="font-size: 8pt;" aria-label="antispyware (1 item)">antispyware</a></li>
+	<li><a href="https://lorand.work/tag/apache/" class="tag-cloud-link tag-link-171 tag-link-position-3" style="font-size: 8pt;" aria-label="apache (1 item)">apache</a></li>
+	<li><a href="https://lorand.work/tag/arhivare/" class="tag-cloud-link tag-link-133 tag-link-position-4" style="font-size: 8pt;" aria-label="arhivare (1 item)">arhivare</a></li>
+	<li><a href="https://lorand.work/tag/backup/" class="tag-cloud-link tag-link-101 tag-link-position-5" style="font-size: 13.185185185185pt;" aria-label="backup (3 items)">backup</a></li>
+	<li><a href="https://lorand.work/tag/centos-2/" class="tag-cloud-link tag-link-46 tag-link-position-6" style="font-size: 22pt;" aria-label="centos (12 items)">centos</a></li>
+	<li><a href="https://lorand.work/tag/dns/" class="tag-cloud-link tag-link-74 tag-link-position-7" style="font-size: 11.111111111111pt;" aria-label="dns (2 items)">dns</a></li>
+	<li><a href="https://lorand.work/tag/e-factura/" class="tag-cloud-link tag-link-273 tag-link-position-8" style="font-size: 13.185185185185pt;" aria-label="e-Factura (3 items)">e-Factura</a></li>
+	<li><a href="https://lorand.work/tag/email-2/" class="tag-cloud-link tag-link-80 tag-link-position-9" style="font-size: 11.111111111111pt;" aria-label="email (2 items)">email</a></li>
+	<li><a href="https://lorand.work/tag/esxi/" class="tag-cloud-link tag-link-105 tag-link-position-10" style="font-size: 14.913580246914pt;" aria-label="esxi (4 items)">esxi</a></li>
+	<li><a href="https://lorand.work/tag/gps-2/" class="tag-cloud-link tag-link-31 tag-link-position-11" style="font-size: 13.185185185185pt;" aria-label="gps (3 items)">gps</a></li>
+	<li><a href="https://lorand.work/tag/grub/" class="tag-cloud-link tag-link-50 tag-link-position-12" style="font-size: 11.111111111111pt;" aria-label="grub (2 items)">grub</a></li>
+	<li><a href="https://lorand.work/tag/hardware-2/" class="tag-cloud-link tag-link-30 tag-link-position-13" style="font-size: 13.185185185185pt;" aria-label="hardware (3 items)">hardware</a></li>
+	<li><a href="https://lorand.work/tag/heidisql/" class="tag-cloud-link tag-link-173 tag-link-position-14" style="font-size: 8pt;" aria-label="heidisql (1 item)">heidisql</a></li>
+	<li><a href="https://lorand.work/tag/imprimante/" class="tag-cloud-link tag-link-23 tag-link-position-15" style="font-size: 11.111111111111pt;" aria-label="imprimante (2 items)">imprimante</a></li>
+	<li><a href="https://lorand.work/tag/java/" class="tag-cloud-link tag-link-158 tag-link-position-16" style="font-size: 11.111111111111pt;" aria-label="java (2 items)">java</a></li>
+	<li><a href="https://lorand.work/tag/jquery/" class="tag-cloud-link tag-link-42 tag-link-position-17" style="font-size: 13.185185185185pt;" aria-label="jquery (3 items)">jquery</a></li>
+	<li><a href="https://lorand.work/tag/linux/" class="tag-cloud-link tag-link-28 tag-link-position-18" style="font-size: 20.098765432099pt;" aria-label="linux (9 items)">linux</a></li>
+	<li><a href="https://lorand.work/tag/mac-os/" class="tag-cloud-link tag-link-218 tag-link-position-19" style="font-size: 11.111111111111pt;" aria-label="mac os (2 items)">mac os</a></li>
+	<li><a href="https://lorand.work/tag/mail/" class="tag-cloud-link tag-link-16 tag-link-position-20" style="font-size: 11.111111111111pt;" aria-label="mail (2 items)">mail</a></li>
+	<li><a href="https://lorand.work/tag/mssql/" class="tag-cloud-link tag-link-33 tag-link-position-21" style="font-size: 17.506172839506pt;" aria-label="mssql (6 items)">mssql</a></li>
+	<li><a href="https://lorand.work/tag/multiple-sessions/" class="tag-cloud-link tag-link-155 tag-link-position-22" style="font-size: 11.111111111111pt;" aria-label="multiple sessions (2 items)">multiple sessions</a></li>
+	<li><a href="https://lorand.work/tag/mysql/" class="tag-cloud-link tag-link-60 tag-link-position-23" style="font-size: 14.913580246914pt;" aria-label="mysql (4 items)">mysql</a></li>
+	<li><a href="https://lorand.work/tag/network/" class="tag-cloud-link tag-link-170 tag-link-position-24" style="font-size: 8pt;" aria-label="network (1 item)">network</a></li>
+	<li><a href="https://lorand.work/tag/oauth/" class="tag-cloud-link tag-link-275 tag-link-position-25" style="font-size: 13.185185185185pt;" aria-label="OAuth (3 items)">OAuth</a></li>
+	<li><a href="https://lorand.work/tag/online-scan/" class="tag-cloud-link tag-link-166 tag-link-position-26" style="font-size: 8pt;" aria-label="online scan (1 item)">online scan</a></li>
+	<li><a href="https://lorand.work/tag/php-2/" class="tag-cloud-link tag-link-26 tag-link-position-27" style="font-size: 17.506172839506pt;" aria-label="php (6 items)">php</a></li>
+	<li><a href="https://lorand.work/tag/plesk-2/" class="tag-cloud-link tag-link-17 tag-link-position-28" style="font-size: 22pt;" aria-label="plesk (12 items)">plesk</a></li>
+	<li><a href="https://lorand.work/tag/qmail/" class="tag-cloud-link tag-link-15 tag-link-position-29" style="font-size: 14.913580246914pt;" aria-label="qmail (4 items)">qmail</a></li>
+	<li><a href="https://lorand.work/tag/rfcsdk/" class="tag-cloud-link tag-link-149 tag-link-position-30" style="font-size: 8pt;" aria-label="rfcsdk (1 item)">rfcsdk</a></li>
+	<li><a href="https://lorand.work/tag/sap/" class="tag-cloud-link tag-link-97 tag-link-position-31" style="font-size: 18.37037037037pt;" aria-label="sap (7 items)">sap</a></li>
+	<li><a href="https://lorand.work/tag/sapgui/" class="tag-cloud-link tag-link-157 tag-link-position-32" style="font-size: 11.111111111111pt;" aria-label="sapgui (2 items)">sapgui</a></li>
+	<li><a href="https://lorand.work/tag/sendmail/" class="tag-cloud-link tag-link-84 tag-link-position-33" style="font-size: 13.185185185185pt;" aria-label="sendmail (3 items)">sendmail</a></li>
+	<li><a href="https://lorand.work/tag/spv/" class="tag-cloud-link tag-link-274 tag-link-position-34" style="font-size: 13.185185185185pt;" aria-label="SPV (3 items)">SPV</a></li>
+	<li><a href="https://lorand.work/tag/terminal-server/" class="tag-cloud-link tag-link-162 tag-link-position-35" style="font-size: 11.111111111111pt;" aria-label="terminal server (2 items)">terminal server</a></li>
+	<li><a href="https://lorand.work/tag/ubuntu-2/" class="tag-cloud-link tag-link-35 tag-link-position-36" style="font-size: 16.296296296296pt;" aria-label="ubuntu (5 items)">ubuntu</a></li>
+	<li><a href="https://lorand.work/tag/virtual-machines/" class="tag-cloud-link tag-link-179 tag-link-position-37" style="font-size: 11.111111111111pt;" aria-label="virtual machines (2 items)">virtual machines</a></li>
+	<li><a href="https://lorand.work/tag/vmware/" class="tag-cloud-link tag-link-104 tag-link-position-38" style="font-size: 16.296296296296pt;" aria-label="vmware (5 items)">vmware</a></li>
+	<li><a href="https://lorand.work/tag/vpn-2/" class="tag-cloud-link tag-link-27 tag-link-position-39" style="font-size: 13.185185185185pt;" aria-label="vpn (3 items)">vpn</a></li>
+	<li><a href="https://lorand.work/tag/windows-2/" class="tag-cloud-link tag-link-22 tag-link-position-40" style="font-size: 11.111111111111pt;" aria-label="windows (2 items)">windows</a></li>
+	<li><a href="https://lorand.work/tag/windows-10/" class="tag-cloud-link tag-link-130 tag-link-position-41" style="font-size: 14.913580246914pt;" aria-label="windows 10 (4 items)">windows 10</a></li>
+	<li><a href="https://lorand.work/tag/windows-server-2008/" class="tag-cloud-link tag-link-39 tag-link-position-42" style="font-size: 11.111111111111pt;" aria-label="windows server 2008 (2 items)">windows server 2008</a></li>
+	<li><a href="https://lorand.work/tag/windows-update/" class="tag-cloud-link tag-link-146 tag-link-position-43" style="font-size: 11.111111111111pt;" aria-label="windows update (2 items)">windows update</a></li>
+	<li><a href="https://lorand.work/tag/wordpress-2/" class="tag-cloud-link tag-link-52 tag-link-position-44" style="font-size: 11.111111111111pt;" aria-label="wordpress (2 items)">wordpress</a></li>
+	<li><a href="https://lorand.work/tag/zip/" class="tag-cloud-link tag-link-132 tag-link-position-45" style="font-size: 8pt;" aria-label="zip (1 item)">zip</a></li>
+</ul>
+</div>
+</aside>		
+<!-- heidisql.com -->
+<div style='margin-top:20px;'>
+<a href='http://www.heidisql.com/' target="_blank" style="display:block; margin-bottom:10px;"><img src='https://www.heidisql.com/images/heidisql_logo.png' width="240" style="border:0px;" alt="Heidisql"/></a>
+</div>
+<!-- heidisql.com -->
+
+<!-- roviniete.ro start code -->
+<div style='margin-top:20px;'>
+<a href="https://www.roviniete.ro/ro" title="Roviniete.ro" target="_blank"><img src="https://www.roviniete.ro/assets/shop/images/logo_new.png" width="240" style="border:0;" alt="Roviniete.ro" /></a>
+</div>
+<!-- roviniete.ro end code -->
+
+<!-- intesa.ro -->
+<div style='margin-top:20px;'>
+<a href="https://www.intesa.ro/catalog-brands/petromax" alt="Catalog uleiuri Petromax" target="_blank"><img src='https://www.intesa.ro/data_files/parteneri/11/parteneri_intesa-11.jpg' alt="Catalog uleiuri Petromax" 
+ style='width:250px;'/></a>
+</div>
+
+<div style='margin-top:20px;'>
+<a href="https://www.intesa.ro/catalog-brands/uniflux-filters" alt="Catalog filtre Uniflux" target="_blank"><img src='https://www.intesa.ro/data_files/parteneri/1/parteneri_intesa-1.gif' alt="Catalog filtre Uniflux" style='width:250px;'/></a>
+</div>
+<!-- intesa.ro -->
+
+<!-- http://oil-price.net -->
+<div style='margin-top:20px;'>
+<script type="text/javascript" src="https://www.oil-price.net/TABLE2/gen.php?lang=en"></script>
+<noscript>To get the WTI <a href="http://www.oil-price.net/dashboard.php?lang=en#TABLE2">oil price</a>, please enable Javascript.</noscript>
+</div>
+<!-- http://oil-price.net -->
+
+<!-- PRET PETROM -->
+
+<h3 style='margin-top:2rem; margin-bottom:.2rem;'>Pret motorina online</h3>
+<div style='width:100%; border:1px solid #AAA; padding:5px;'>
+	<h2>PETROM<br>str. Sagului nr. 138-140</h2>
+	<a href=''><img src='data:image/png;base64,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' style='width:100%;' /></a>
+</div><!-- PRET PETROM -->
+
+
+
+<!-- spritmonitor.de start code -->
+<div style='width:100%; margin-top:25px; padding:5px; text-align:center; border:1px solid #CCCCCC;'>
+<!--
+<a href="https://www.spritmonitor.de/en/detail/189357.html" target="_blank"><img src="https://images.spritmonitor.de/189357_5.png" alt="Spritmonitor.de" border="0"></a>
+-->
+<a href="https://www.spritmonitor.de/en/detail/1282834.html" target="_blank">
+	<p><strong>Peugeot 308 II SW 1.6 BlueHDi 120</strong></p>
+	<p style='margin-top:1rem;'><img src="http://images.spritmonitor.de/1282834-1.png" alt="Spritmonitor.de" border="0"></a></p>
+</div>
+<!-- spritmonitor.de end code -->
+
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-63+dv+4x-4d-5p"
+     data-ad-client="ca-pub-2060982520770616"
+     data-ad-slot="9764005343"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+-->
+
+
+<!-- weather -->
+<div style='margin-top:20px; line-height:1.5em;'>
+</div>
+<!-- weather -->
+	</div><!-- #secondary -->
+	</div><!-- #main .wrapper -->
+	<footer id="colophon" role="contentinfo">
+		<div class="site-info">
+			&copy; 2012-2024 Lorand Szekely. 			<a href="http://wordpress.org/" title="Semantic Personal Publishing Platform">Proudly powered by WordPress</a><!--<br><a href="http://php.net" target="_blank"><img src="https://php.net/images/logos/php5-power-micro.png" /></a>-->
+		</div><!-- .site-info -->
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+
+	<script type="x-tmpl-mustache" id="wpiss-post-template">
+		<li class="iss-result">
+			{{#image}}
+				<img src="{{image}}" width="50" height="50" />
+			{{/image}}
+			{{{title}}}
+			<span class="iss-sub">{{postdate}}</span>
+			<span class="iss-sub">{{posttype}}</span>
+		</li>
+	</script>
+	<script type="x-tmpl-mustache" id="wpiss-taxonomy-template">
+		<li class="iss-result">
+			{{{title}}}
+			<span class="iss-sub">{{taxonomy}} ({{count}})</span>
+		</li>
+	</script><script type="text/javascript" src="https://lorand.work/wp-content/plugins/instant-search-suggest/assets/js/jquery.suggest.js?ver=1444651503" id="iss-suggest-js"></script>
+<script type="text/javascript" src="https://lorand.work/wp-content/plugins/instant-search-suggest/assets/js/mustache.js?ver=1444651503" id="mustache-js"></script>
+<script type="text/javascript" id="iss-js-extra">
+/* <![CDATA[ */
+var iss_options = {"iss_suggest_url":"https:\/\/lorand.work\/wp-admin\/admin-ajax.php?action=iss_suggest&_wpnonce=852aae9f57","iss_instant_url":"https:\/\/lorand.work\/wp-admin\/admin-ajax.php?action=iss_instant&_wpnonce=b62fc29964","iss_content":"#content","iss_magic":"0"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://lorand.work/wp-content/plugins/instant-search-suggest/assets/js/iss.js?ver=1444651503" id="iss-js"></script>
+<script type="text/javascript" src="https://lorand.work/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.9.5" id="swv-js"></script>
+<script type="text/javascript" id="contact-form-7-js-extra">
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/lorand.work\/wp-json\/","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://lorand.work/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.9.5" id="contact-form-7-js"></script>
+<script type="text/javascript" id="wp-statistics-tracker-js-extra">
+/* <![CDATA[ */
+var WP_Statistics_Tracker_Object = {"hitRequestUrl":"https:\/\/lorand.work\/wp-json\/wp-statistics\/v2\/hit?wp_statistics_hit_rest=yes&track_all=1&current_page_type=post&current_page_id=1911&search_query&page_uri=L2Rlc2NhcmNhcmUtZmFjdHVyYS1kZS1sYS1mdXJuaXpvci1kaW4tc3B2LWFuYWYtZm9sb3NpbmQtYXV0ZW50aWZpY2FyZWEtb2F1dGgtaW4tcGhwLw=","keepOnlineRequestUrl":"https:\/\/lorand.work\/wp-json\/wp-statistics\/v2\/online?wp_statistics_hit_rest=yes&track_all=1&current_page_type=post&current_page_id=1911&search_query&page_uri=L2Rlc2NhcmNhcmUtZmFjdHVyYS1kZS1sYS1mdXJuaXpvci1kaW4tc3B2LWFuYWYtZm9sb3NpbmQtYXV0ZW50aWZpY2FyZWEtb2F1dGgtaW4tcGhwLw=","option":{"dntEnabled":"1","cacheCompatibility":""}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://lorand.work/wp-content/plugins/wp-statistics/assets/js/tracker.js?ver=14.7" id="wp-statistics-tracker-js"></script>
+<script type="text/javascript" src="https://www.google.com/recaptcha/api.js?render=6LcJPIgUAAAAAAWsv_0Ekxu_cUTdYpJrCeIH4vVE&amp;ver=3.0" id="google-recaptcha-js"></script>
+<script type="text/javascript" src="https://lorand.work/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2" id="wp-polyfill-inert-js"></script>
+<script type="text/javascript" src="https://lorand.work/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.14.0" id="regenerator-runtime-js"></script>
+<script type="text/javascript" src="https://lorand.work/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
+<script type="text/javascript" id="wpcf7-recaptcha-js-extra">
+/* <![CDATA[ */
+var wpcf7_recaptcha = {"sitekey":"6LcJPIgUAAAAAAWsv_0Ekxu_cUTdYpJrCeIH4vVE","actions":{"homepage":"homepage","contactform":"contactform"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://lorand.work/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=5.9.5" id="wpcf7-recaptcha-js"></script>
+<script type="text/javascript" src="https://lorand.work/wp-content/plugins/highlighting-code-block/assets/js/prism.js?ver=2.0.1" id="hcb-prism-js"></script>
+<script type="text/javascript" src="https://lorand.work/wp-includes/js/clipboard.min.js?ver=2.0.11" id="clipboard-js"></script>
+<script type="text/javascript" id="hcb-script-js-extra">
+/* <![CDATA[ */
+var hcbVars = {"showCopyBtn":"1","copyBtnLabel":"Copy code to clipboard"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://lorand.work/wp-content/plugins/highlighting-code-block/build/js/hcb_script.js?ver=2.0.1" id="hcb-script-js"></script>
+</body>
+</html>
+
+<!-- Page cached by LiteSpeed Cache 6.2.0.1 on 2024-05-29 01:59:52 -->

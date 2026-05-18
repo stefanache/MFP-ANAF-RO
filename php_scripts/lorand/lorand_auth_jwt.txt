@@ -1,0 +1,368 @@
+Autentificare OAuth si obtinere token JWT de la ANAF folosind PHP
+Procesul de interfatare cu platforma ANAF in contextul e-Factura, pentru incarcarea sau descarcarea facturilor electronice, este destul de complex si presupune o serie de etape. ANAF pune la dispozitie o documentatie destul de slab pusa la punct, cu detalii tehnice de multe ori incomplete si impartite in mai multe documente pe care le gasim in locatii diferite.
+
+Cateva resurse utile puse la dispozitie de ANAF sunt cele de mai jos, in care se gasesc legaturi spre alte documente care ofera informatii necesare si utile:
+
+https://mfinante.gov.ro/ro/web/efactura/informatii-tehnice
+https://www.anaf.ro/anaf/internet/ANAF/servicii_online/servicii_web_anaf/
+Serviciile web puse la dispozitie de ANAF necesita autentificarea prin OAuth. Acest mod de autentificare permite unei aplicatii sa acceseze o resursa in numele unui utilizator, insa fara sa utilizeze sau sa expuna parola acestuia.
+
+In cazul ANAF, autentificarea prin OAuth si obtinerea unui token JWT va permite unei aplicatii terte sa comunice cu serviciile web ale ANAF in numele unei firme, fara sa expuna credentialele acelei firme in raport cu ANAF.
+
+1. Inrolarea ca si dezvoltator de aplicatii
+Inrolarea ca si dezvoltator de applicatii se face pe site-ul https://anaf.ro > Servicii Online > Inregistrare utilizatori > DEZVOLTATORI APLICAȚII > Inregistrare pentru API-uri
+
+Se completeaza toate informatiile solicitate in formular, apoi se confirma inregistrarea printr-un cod de siguranta primit pe email.
+
+2. Declararea aplicatiei web care va fi dezvoltata
+Declararea aplicatiei web se face pe site-ul https://anaf.ro > Autentificare utilizator
+
+Autentificarea in SPV (Spatiul Privat Virtual) este de tip 2FA (Two-Factor Authentication) si se face cu numele de utilizator si parola de la pasul anterior, la care se adauga un cod de siguranta care se primeste pe email.
+
+Dupa autentificare se navigheaza la Editare profil Oauth unde se va inrola aplicatia care va comunica cu serviciile web puse la dispozitie de ANAF.
+
+Se vor introduce:
+
+Denumire aplicatie: denumirea aplicatiei
+Callback URL: adresa URL a scriptului (in cazul nostru anaf-token.php) care va fi apelat in procesul de generare a tokenului de acces la serviciile web
+Serviciu: E-Factura si/sau E-Transport (dupa caz)
+La salvarea datelor sistemul va genera doua coduri: Client ID si Client Secret. Aceste coduri vor fi utilizate mai tarziu la obtinerea tokenului de acces.
+
+
+3. Obtinerea tokenului JWT folosind PHP
+Serviciile web puse la dispozitie de ANAF necesita autentificarea prin OAuth. Pentru obtinerea tokenului JWT vom avea nevoie de ClientID, Client Secret si Callback URL din pasul anterior.
+
+Fluxul pentru obtinerea tokenului este urmatorul:
+
+se apeleaza Authorization link
+acesta va apela inapoi Callback URL si va furniza valoare pentru parametrul code
+folosind parametrii code, Client ID, Client Secret si Callback URL se va apela URL-ul pentru obtinerea tokenului
+se returneaza si se salveaza tokenul JWT care are o valabilitate de 90 de zile
+O solutie potrivita este sa creem o clasa care sa contina toate configuratiile si functiile care tin de comunicarea cu ANAF.
+
+Class Anaf{
+	
+	public $code; //codul furnizat de ANAF pentru obtinerea tokenului
+	public $token; //tokenul obtinut
+	public $authorization_link;
+	private $anaf_resp; //raspunsul primit de la ANAF
+	private $token_info; //retine detaliile tokenului furnizate de ANAF
+	private $debug_info; //retine detaliile complete ale comunicatiei cu serverul ANAF
+	
+	public $authorize_url = "https://logincert.anaf.ro/anaf-oauth2/v1/authorize";
+	public $token_url = "https://logincert.anaf.ro/anaf-oauth2/v1/token";
+	public $revoke_url = "https://logincert.anaf.ro/anaf-oauth2/v1/revoke";
+
+	public $client_id = "CLIENT_ID"; //Client ID furnizat de ANAF la inregistrarea aplicatiei
+	public $client_secret = "CLIENT_SECRET"; //Client Secret furnizat de ANAF la inregistrarea aplicatiei
+	public $redirect_uri = "CALLBACK_URL"; //Callback URL completat la inregistrarea aplicatiei
+}
+
+Urmeaza sa creem metodele necesare. Prima metoda este cea care va crea link-ul de autorizare. Sunt importanti parametrii response_type=code si token_content_type=jwt.
+
+public function get_authorization_link(){
+	$this->authorization_link = $this->authorize_url . "?response_type=code&token_content_type=jwt&client_id=" . $this->client_id . "&redirect_uri=" . $this->redirect_uri;
+}
+
+Urmatoarea metoda este interogarea pentru obtinerea tokenului. Pentru obtinerea tokenului este obligatoriu ca interogarea sa se faca de pe un calculator la care este conectat fizic certificatul digital care a fost inregistrat la ANAF.
+
+Din punct de vedere tehnic, o idee care s-a dovedit foarte buna pentru debugging a fost aceea ca la fiecare interogare sa citesc detaliile legate de comunicarea cu serverul ANAF (stabilirea conexiunii, autentificarea, negocierea protocoalelor, etc…). Pentru asta am setat optiunea CURLOPT_VERBOSE pe valoarea true, iar informatia returnata am salvat-o in variabila debug_info, iar ulterior si in baza de date (pentru consultari ulterioare).
+
+public function get_token(){
+	$ch = curl_init();
+	curl_setopt($ch, CURLOPT_URL, $this->token_url);
+	curl_setopt($ch, CURLOPT_POST, true);
+	curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+	curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true);
+	curl_setopt($ch, CURLOPT_TIMEOUT, 30);
+	curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
+	curl_setopt($ch, CURLOPT_HTTP_VERSION, CURL_HTTP_VERSION_1_1);
+	curl_setopt($ch, CURLOPT_CUSTOMREQUEST, 'POST');
+	curl_setopt($ch, CURLOPT_POSTFIELDS, http_build_query(array(
+		'code' => $this->code,
+		'grant_type' => 'authorization_code',
+		'redirect_uri' => $this->redirect_uri,
+		'token_content_type' => 'jwt'
+	)));
+	curl_setopt($ch, CURLOPT_HTTPHEADER, array(
+			'Cache-control: no-cache',
+			"Content-type: application/x-www-form-urlencoded",
+			"Accept: */*",
+			"Accept-encoding: gzip, deflate, br",
+			"Connection:keep-alive",
+			'Authorization: Basic ' . base64_encode($this->client_id.":".$this->client_secret)
+		)
+	);
+	
+	//verbose - init
+	curl_setopt($ch, CURLOPT_VERBOSE, true);
+	$verbose = fopen('php://temp', 'w+');
+	curl_setopt($ch, CURLOPT_STDERR, $verbose);
+	
+	//executa interogarea
+	$this->anaf_resp = curl_exec($ch);
+	
+	//verbose - read
+	rewind($verbose);
+	$verboseLog = stream_get_contents($verbose);
+	$this->debug_info = $verboseLog;
+	
+	//interpretarea raspunsului returnat
+	if ($this->anaf_resp === FALSE){
+		printf("Eroare la interogarea ANAF (#%d): %s<br>\n", curl_errno($ch), htmlspecialchars(curl_error($ch)));
+		return false;
+	}
+	else{
+		$this->token_info = json_decode($this->anaf_resp, true);
+		if (isset($this->token_info['error'])){
+			//eroare
+			echo "Eroare la obtinerea tokenului.";
+			return false;
+		}
+		else{
+			//succes
+			$this->save_token();
+			return true;
+		}
+	}
+}
+
+Functia de salvare a tokenului arata cam asa:
+
+public function save_token(){
+	global $db;
+	$r = $db->query("INSERT INTO `anaf_tokens`
+					SET `access_token` = '" . $this->token_info['access_token'] . "',
+						`expires_in` = '" . $this->token_info['expires_in'] . "',
+						`token_type` = '" . $this->token_info['token_type'] . "',
+						`scope` = '" . $this->token_info['scope'] . "',
+						`refresh_token` = '" . $this->token_info['refresh_token'] . "',
+						`anaf_raw` = '" . $db->real_escape($this->anaf_resp) . "',
+						`debug_info` = '" . $db->real_escape($this->debug_info) . "',
+						`flag_status` = 'new',
+						`issued_date` = NOW();");
+}
+
+Impreuna cu tokenul de acces, care este valabil 90 de zile, a fost generat si tokenul de refresh, care are o valabilitate de 365 de zile. Tokenul de refresh va fi folosit pentru obtinerea unui nou token de acces JWT, fara a mai fi necesara autentificarea cu certificat digital, cu conditia ca acest lucru sa fie facut inainte de expirarea tokenului de acces initial.
+
+Obtinerea unui nou token de acces JWT pe baza tokenului de refresh se realizeaza prin metoda urmatoare:
+
+public function refresh_token($access_token){
+	global $db;
+	
+	//selectam detaliile tokenului actual din baza de date
+	$r = $db->query("SELECT * FROM anaf_tokens WHERE access_token = '$access_token' ORDER BY issued_date DESC LIMIT 0, 1;");
+	$this->token_info = $r[0];
+	
+	$ch = curl_init();
+	curl_setopt($ch, CURLOPT_URL, $this->token_url);
+	curl_setopt($ch, CURLOPT_POST, true);
+	curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+	curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true);
+	curl_setopt($ch, CURLOPT_TIMEOUT, 30);
+	curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
+	curl_setopt($ch, CURLOPT_HTTP_VERSION, CURL_HTTP_VERSION_1_1);
+	curl_setopt($ch, CURLOPT_CUSTOMREQUEST, 'POST');
+	curl_setopt($ch, CURLOPT_POSTFIELDS, http_build_query(array(
+		'client_id' => $this->client_id,
+		'client_secret' => $this->client_secret,
+		'refresh_token' => $this->token_info['refresh_token'],
+		'grant_type' => 'refresh_token'
+	)));
+	curl_setopt($ch, CURLOPT_HTTPHEADER, array(
+			'Authorization: Bearer ' . $this->token_info['access_token'],
+			"Content-type: application/x-www-form-urlencoded",
+		)
+	);
+	
+	//verbose - init
+	curl_setopt($ch, CURLOPT_VERBOSE, true);
+	$verbose = fopen('php://temp', 'w+');
+	curl_setopt($ch, CURLOPT_STDERR, $verbose);
+	
+	//do curl
+	$this->anaf_resp = curl_exec($ch);
+	
+	//verbose - read
+	rewind($verbose);
+	$verboseLog = stream_get_contents($verbose);
+	$this->debug_info = $verboseLog;
+	
+	if ($this->anaf_resp === FALSE){
+		printf("Eroare la interogarea ANAF (#%d): %s<br>\n", curl_errno($ch), htmlspecialchars(curl_error($ch)));
+		return false;
+	}
+	else{
+		$this->token_info = json_decode($this->anaf_resp, true);
+		if (isset($this->token_info['error'])){
+			echo "Eroare la refresh-ul tokenului.";
+			return false;
+		}
+		else{
+			$this->update_token();
+			return true;
+		}
+	}
+}
+
+Mai jos este metoda de actualizare a tokenului in baza de date. Practic este aceeasi metoda ca si cea de salvare, singura diferenta fiind faptul ca in campul flag_status se salveaza valoarea refresh in loc de new. Am ales, totusi, sa fie o functie distincta.
+
+public function update_token(){
+	global $db, $user;
+	//se va insera o noua inregistrare cu data curenta
+	$r = $db->query("INSERT INTO `anaf_tokens`
+					SET `access_token` = '" . $this->token_info['access_token'] . "',
+						`expires_in` = '" . $this->token_info['expires_in'] . "',
+						`token_type` = '" . $this->token_info['token_type'] . "',
+						`scope` = '" . $this->token_info['scope'] . "',
+						`refresh_token` = '" . $this->token_info['refresh_token'] . "',
+						`debug_info` = '" . $db->real_escape($this->debug_info) . "',
+						`flag_status` = 'refresh',
+						`issued_date` = NOW();");
+}
+
+Conform informatiilor furnizate de ANAF in documentatie si in webinariile tehnice tokenul JWT nu poate fi revocat. Prin urmare, daca va fi necesara vreodata aceasta operatiune, atunci trebuie contactat ANAF prin formularul de contact si vor dezactiva/sterge tokenul respectiv.
+
+Ar mai fi de amintit trei metode din clasa ANAF:
+
+__construct() – metoda constructor a clasei ANAF, care initializeaza client_id, client_secret, redirect_uri si authorization_link
+get_last_valid_token() – verifica in baza de date daca exista un token in perioada de valabilitate si ii returneaza toate detaliile
+set_code() – preia codul furnizat de ANAF in vederea obtinerii tokenului de acces JWT
+public function __construct(){
+	$this->client_id		= ANAF_CLIENTID;
+	$this->client_secret	= ANAF_SECRET;
+	$this->redirect_uri		= ANAF_REDIRECT_URL;
+	
+	$this->get_authorization_link();
+}
+
+public function get_last_valid_token(){
+	global $db;
+	$r = $db->query("SELECT *, DATE_ADD(issued_date, INTERVAL expires_in SECOND) AS expiration_date
+					FROM anaf_tokens
+					WHERE DATE_ADD(issued_date, INTERVAL expires_in SECOND) > NOW()
+					ORDER BY issued_date DESC
+					LIMIT 0, 1;");
+	if ($db->num_rows){
+		$this->token_info = $r[0];
+		return true;
+	}
+	return false;
+}
+
+public function set_code($code){
+	$this->code = $code;
+}
+
+Mai jos ar fi o propunere pentru continutul fisierului anaf-token.php. Acest fisier este cel care va raspunde la Callback URL pentru obtinerea codului de autorizare (code), pentru obtinerea tokenului de acces si pentru refresh-ul tokenului existent. Tot acest script poate fi utilizat si pentru afisarea informatiilor tokenului curent. Este doar o propunere, care poate fi adaptata dupa nevoia fiecaruia.
+
+//initializare
+$anaf = new ANAF();
+
+if ($_GET['action'] == 'new'){
+	
+	//redirectionare spre autorizare ANAF si obtinere code
+	header("Location: {$anaf->authorization_link}");
+	exit();
+	
+}
+elseif ($_GET['code'] != ''){
+	
+	//obtinere token
+	$anaf->set_code($_GET['code']);
+	if ($anaf->get_token()){
+		header("Location: ./anaf-token.php");
+		exit();
+	}
+	
+}
+elseif ($_GET['action'] == 'refresh'){
+	
+	//verific daca exista token valabil
+	if ($anaf->get_last_valid_token()){
+		//efectuez refresh la tokenul existent
+		if ($anaf->refresh_token($anaf->token_info['access_token'])){
+			header("Location: ./anaf-token.php");
+			exit();
+		}
+	}
+	
+}
+elseif ($_GET['error'] != ''){
+	
+	//eroare
+	$anaf->token_info['error'] = $_GET['error'];
+	
+}
+else{
+	
+	//afisarea informatiilor legate de tokenului curent
+	
+}
+
+Obtinerea efectiva a tokenului JWT de la ANAF folosind autentificarea OAuth va avea loc dupa cum urmeaza:
+
+se apeleaza scriptul anaf-token.php?action=new
+acest script va face redirectionare catre adresa $anaf->authorization_link
+ANAF va apela inapoi anaf-token.php (Callback URL) si va furniza valoare pentru parametrul code
+anaf-token.php va apela din nou serviciul ANAF prin metoda $anaf->get_token()
+ANAF va returna access_token si refresh_token.
+This entry was posted in PHP, Programming, Web development and tagged ANAF, e-Factura, OAuth, SPV on 22.03.2024.
+Post navigation← Toner replace reset process for Brother DCP-L2532DWIncarcare factura XML in platforma SPV ANAF folosind autentificarea OAuth in PHP →
+Search for:
+ 
+CATEGORIES
+CentOS
+Email
+GPS
+Hardware
+Linux
+Mac OS X
+Office
+PHP
+Plesk
+Pontaj electronic
+Printing
+Programming
+SAP
+SQL
+Ubuntu
+VMware
+VPN
+Web development
+Windows
+Windows Server
+Wordpress
+BLOGROLL
+Biblia
+Clement Nedelcu
+CSS-Tricks
+major.io
+Make Tech Easier
+nikic's Blog
+nixCraft
+Perishable Press
+Ryan's Tutorials
+Smashing Magazine
+Tactig
+Tuts+ Code Tutorials
+TAGS
+ANAF antispyware apache arhivare backup centos dns e-Factura email esxi gps grub hardware heidisql imprimante java jquery linux mac os mail mssql multiple sessions mysql network OAuth online scan php plesk qmail rfcsdk sap sapgui sendmail SPV terminal server ubuntu virtual machines vmware vpn windows windows 10 windows server 2008 windows update wordpress zip
+Heidisql
+Roviniete.ro
+Catalog uleiuri Petromax
+Catalog filtre Uniflux
+WTI Crude Oil
+$78.87	▲0.39	 	0.49%
+2024.05.29 end-of-day
+
+			
+Pret motorina online
+PETROM
+str. Sagului nr. 138-140
+
+Peugeot 308 II SW 1.6 BlueHDi 120
+
+Spritmonitor.de
+
+© 2012-2024 Lorand Szekely. Proudly powered by WordPress
