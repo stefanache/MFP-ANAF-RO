@@ -29,6 +29,8 @@ Example XSD
 
 Suppose we have an XSD file named example.xsd:
 
+<code>
+    
 <xs:schema xmlns:xs=" http://www.w3.org/2001/XMLSchema ">
     <xs:element name="Users">
         <xs:complexType>
@@ -46,6 +48,8 @@ Suppose we have an XSD file named example.xsd:
         </xs:complexType>
     </xs:element>
 </xs:schema>
+
+</code>
 
 PHP Code
 
