@@ -47,7 +47,7 @@ Suppose we have an *.XSD* file named **example.xsd**:
 
 </code>
 
-PHP Code
+[PHP Code](https://www.sitepoint.com/community/t/generating-xml-from-schema-xsd-using-php/1813/5)
 
 
 
