@@ -12,24 +12,18 @@ Q: [php create table MySQL from using .xsd file](https://www.google.com/search?m
 
 [GH-moyarada: XSD2PhP](https://github.com/moyarada/XSD-to-PHP/tree/master)
 
-Parse the XSD File: Use PHP's SimpleXML or DOMDocument to read and parse the XSD file.
 
+The plan:<br/>
+- Parse the *.XSD* File: Use PHP's **SimpleXML** or **DOMDocument** to read and parse the *.XSD* file.<br/>
+- Extract Information: Extract relevant information about elements, types, and their attributes from the XSD.
+- Generate the SQL CREATE TABLE Statement: Construct the SQL statement based on the extracted information.<br/>
+- Execute the SQL Statement: Run the generated SQL statement to create the table in the MySQL database.<br/>
 
-Extract Information: Extract relevant information about elements, types, and their attributes from the XSD.
+Here’s a step-by-step example using **SimpleXML**:
 
+Example *.XSD*
 
-Generate the SQL CREATE TABLE Statement: Construct the SQL statement based on the extracted information.
-
-
-Execute the SQL Statement: Run the generated SQL statement to create the table in the MySQL database.
-
-
-
-Here’s a step-by-step example using SimpleXML:
-
-Example XSD
-
-Suppose we have an XSD file named example.xsd:
+Suppose we have an *.XSD* file named **example.xsd**:
 
 <code>
     
@@ -58,13 +52,11 @@ PHP Code
 
 
 
-Parse the XSD: Load and parse the XSD file.
+- Parse the *.XSD*: Load and parse the *.XSD* file.
 
+- Build the SQL Statement.
 
-Build the SQL Statement.
-
-
-Create the Table.
+- Create the Table.
 
 
 <code>
