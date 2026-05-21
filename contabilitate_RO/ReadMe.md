@@ -1,6 +1,8 @@
 
 
 
+[MFP-Ordine](https://danubius.org/contabilitate-si-raportare-financiara-care-sunt-standardele-internationale-si-de-ce-trebuie-sa-tii-cont-ca-antreprenor/)
+
 Prezentare [PCG](https://www.scribd.com/presentation/514796967/prezentare-PCG)(Plan de Conturi General)<br/>
 
 [OMF 2036/2025](https://static.anaf.ro/static/10/Anaf/legislatie/OMF_2036_2025.pdf)
