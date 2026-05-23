@@ -1,4 +1,4 @@
-[**ANCPI**](https://www.ancpi.ro/) = ***Agentia Nationala de *** **Cadastru** *** si Publicitate-Imobiliara*** din cadrul [**Ministerului Dezvoltarii, Lucrarilor Publice si Administratiei(MDLPA)**](https://data.gov.ro/dataset?organization=mdrap&res_format=xlsx&tags=ANCPI&_res_format_limit=0&license_id=CC-BY-4.0) - Guvernul Romaniei
+[**ANCPI**](https://www.ancpi.ro/) = ***Agentia Nationala de*** **Cadastru** ***si Publicitate-Imobiliara*** din cadrul [**Ministerului Dezvoltarii, Lucrarilor Publice si Administratiei(MDLPA)**](https://data.gov.ro/dataset?organization=mdrap&res_format=xlsx&tags=ANCPI&_res_format_limit=0&license_id=CC-BY-4.0) - Guvernul Romaniei
 
 
 [API-uri ANCPI](https://www.reddit.com/r/programare/comments/1s1h2lm/cine_stie_apiurile_de_la_ancpi/) [MinSide.ro](https://minside.ro/docs/api/get-data-points); a se vedea si [API-ul](https://minside.ro/docs/api/introduction) [MinSide.ro](https://minside.ro/)
