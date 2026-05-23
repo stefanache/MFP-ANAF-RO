@@ -11,4 +11,70 @@ About - [QTempo](https://github.com/alecsandrei/QTempo) - A QGIS plugin for acce
 
 <nl/>
 
+Get data points
+Returnează o listă de data points lunare pentru o metrică și o regiune specifică.
 
+GET
+/data-points
+Get data points
+cURL
+curl --request GET \
+  --url "https://minside.ro/api/data-points" \
+  --header "x-api-key:{api_key}" \
+  --data-urlencode "region={region}" \
+  --data-urlencode "metric={metric}" \
+  --data-urlencode "date_start={date_start}" \
+  --data-urlencode "date_end={date_end}"
+200
+response
+[
+  {
+    "value": <number>,
+    "date": <string>
+  }
+]
+Headers
+x-api-key
+string
+required
+Headerul x-api-key este necesar pentru autentificare și trebuie să conțină api key-ul organizației.
+Query Params
+region
+region
+required
+Slug-ul regiunii pentru care se dorește obținerea datelor. Regiunile sunt listate în secțiunea Regiuni.
+
+Exemplu: sibiu
+metric
+metric
+required
+Slug-ul metricii pentru care se dorește obținerea datelor. Metricile sunt listate în secțiunea Metrici.
+
+Exemplu: price_sqm_residential_new
+date_start
+string
+required
+Data de început pentru care se dorește obținerea datelor. Trebuie să fie în format YYYY-MM
+
+Exemplu: 2025-01
+date_end
+string
+required
+Data de sfârșit pentru care se dorește obținerea datelor. Trebuie să fie în format YYYY-MM
+
+Exemplu: 2025-12
+Real estate. Real data.
+
+Companie
+Politica de confidențialitate
+Politica cookies
+Termeni și condiții
+LLMs.txt
+ANPC
+Resurse
+Documentație API
+Blog
+Petiție
+Contact
+hello@minside.ro
+©2026 Minside
