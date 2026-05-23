@@ -11,7 +11,7 @@ About - [QTempo](https://github.com/alecsandrei/QTempo) - A QGIS plugin for acce
 
 <hr/>
 
-**Introducere** in  **Tranzactii-Imobiliare** - [***API-MinSide.ro***](https://minside.ro/docs/api/introduction)
+**Introducere** in  **Tranzactii-Imobiliare** - [***API-MinSide.ro***](https://minside.ro/docs/api/introduction) ( a se vedea [**Get-Data-Points**](https://minside.ro/docs/api/get-data-points) endpoint!)
 
 Get data points
 Returnează o listă de data points lunare pentru o metrică și o regiune specifică.
