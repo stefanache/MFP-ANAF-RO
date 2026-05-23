@@ -5,7 +5,7 @@ Mai intai ar trebui sa intrati pe [portalul](https://www.anaf.ro/anaf/internet/A
 
 [Info-Firme](https://github.com/tudorr89/info-firme):
 
-**Informatii Firme**
+[**Informatii Firme**](https://mfinante.gov.ro/info-pj-selectie-nume-si-judet)
 
 Reprezinta un proiect simplu scris in laravel, care ofera informatii despre toate firmele inregistrate in Romania. Nu are interfata, totul se face din cli.
 
