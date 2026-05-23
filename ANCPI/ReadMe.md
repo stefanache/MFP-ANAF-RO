@@ -23,7 +23,7 @@ cURL
 curl --request GET \
   --url "https://minside.ro/api/data-points" \
   --header "x-api-key:{api_key}" \
-  --data-urlencode "region={region}" \
+  --data-urlencode "region=[{region}](https://minside.ro/docs/resources/regions)" \
   --data-urlencode "metric={metric}" \
   --data-urlencode "date_start={date_start}" \
   --data-urlencode "date_end={date_end}"
