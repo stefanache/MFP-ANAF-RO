@@ -11,6 +11,8 @@ About - [QTempo](https://github.com/alecsandrei/QTempo) - A QGIS plugin for acce
 
 <hr/>
 
+Sa luam ca exemplu acest API:
+
 **Introducere** in  **Tranzactii-Imobiliare** - [***API-MinSide.ro***](https://minside.ro/docs/api/introduction) ( a se vedea [**Get-Data-Points**](https://minside.ro/docs/api/get-data-points) endpoint!)
 
 Get data points
@@ -24,7 +26,7 @@ curl --request GET \
   --url "https://minside.ro/api/data-points" \
   --header "x-api-key:{api_key}" \
   --data-urlencode "region=[{region}](https://minside.ro/docs/resources/regions)" \
-  --data-urlencode "metric={metric}" \
+  --data-urlencode "metric=[{metric}](https://minside.ro/docs/resources/metrics)" \
   --data-urlencode "date_start={date_start}" \
   --data-urlencode "date_end={date_end}"
 200
