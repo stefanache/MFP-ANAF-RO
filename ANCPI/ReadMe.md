@@ -97,22 +97,35 @@ date_end
 
       Exemplu: 2025-12
 
+</pre>
+
 Real estate. Real data.
 
 Companie
+
 ------------
+
 [Politica de confidențialitate](https://minside.ro/privacy-policy)
+
 [Politica cookies](https://minside.ro/cookies-policy)
+
 [Termeni și condiții](https://minside.ro/terms-and-conditions)
+
 [LLMs.txt](https://minside.ro/llms.txt)
+
 [ANPC](https://anpc.ro/)
 
+
 Resurse
+
 --------
+
 [Documentație API](https://minside.ro/docs/api/introduction)
+
 [Blog](https://minside.ro/blog)
+
 [Petiție](https://minside.ro/petitie
       
 Contact: hello@minside.ro
 
-©2026 Minside</pre>
+©2026 Minside
