@@ -7,7 +7,7 @@
 
 [QTempo](https://github.com/alecsandrei/QTempo): A [**QGIS**](https://qgis.org/ro/) plugin that integrates statistical-data(INSSE - date statistice transmise de agentiile-guvernamentale) with administrative-boundaries(ANCPI - limite administrativ-teritoriale) sourced via **ANCPI *ArcGIS* MapServices** and **GISCO APIs**.
 
-About - [QTempo](https://github.com/alecsandrei/QTempo) - A [QGIS](https://biblioteca.utcluj.ro/files/carti-online-cu-coperta/361-5.pdf) plugin for accessing data from the [TEMPO-Online / INSSE](http://statistici.insse.ro:8077/tempo-online/) statistical database(INSSE)
+About - [QTempo](https://github.com/alecsandrei/QTempo) - A [QGIS](https://biblioteca.utcluj.ro/files/carti-online-cu-coperta/361-5.pdf) plugin for accessing data from the [TEMPO-Online / INSSE](http://statistici.insse.ro:8077/tempo-online/) statistical database(INSSE -serii temporale)
 
 <hr/>
 
