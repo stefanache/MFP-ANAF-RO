@@ -3,18 +3,21 @@ RECOM -Registrul comertului intretinut de ONRC
 
 [Info-Firme](https://github.com/tudorr89/info-firme):
 
-nformatii Firme
+**Informatii Firme**
+
 Reprezinta un proiect simplu scris in laravel, care ofera informatii despre toate firmele inregistrate in Romania. Nu are interfata, totul se face din cli.
 
 De ce ? Exista API web ANAF
 Deoarece e instabil si din experienta mea, mai mereu in mentenanta.
 
-Stack folosit
+Stack folosit:
 Laravel
 Redis
 Mariadb
 Docker (optional)
+
 Instalare
+
 Preconditii
 PHP 8.3+
 Composer
