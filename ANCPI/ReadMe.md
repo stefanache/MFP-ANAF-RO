@@ -13,15 +13,21 @@ About - [QTempo](https://github.com/alecsandrei/QTempo) - A [QGIS](https://bibli
 
 Sa luam ca exemplu acest **API**(Mii de multumiri!!!):
 
-**Introducere** in  **Tranzactii-Imobiliare** - [***API-MinSide.ro***](https://minside.ro/docs/api/introduction) ( a se vedea [**Get-Data-Points**](https://minside.ro/docs/api/get-data-points) endpoint!)
+**Introducere** in  **Tranzactii-Imobiliare/Real-Estate** - [***API-MinSide.ro***](https://minside.ro/docs/api/introduction) ( a se vedea [**Get-Data-Points**](https://minside.ro/docs/api/get-data-points) endpoint!)
 
+<pre>
 Get data points
+
 Returnează o listă de data points lunare pentru o metrică și o regiune specifică.
 
 GET
+
 /data-points
+
 Get data points
+
 cURL
+
 curl --request GET \
   --url "https://minside.ro/api/data-points" \
   --header "x-api-key:[{api_key}](https://minside.ro/dashboard/organization/settings)" \
@@ -29,56 +35,92 @@ curl --request GET \
   --data-urlencode "metric=[{metric}](https://minside.ro/docs/resources/metrics)" \
   --data-urlencode "date_start={date_start}" \
   --data-urlencode "date_end={date_end}"
+
 200
+
 response
 [
   {
     "value": <number>,
     "date": <string>
   }
-]
+] 
+      
 Headers
 x-api-key
-string
-required
-Headerul x-api-key este necesar pentru autentificare și trebuie să conțină api key-ul organizației.
+
+      string
+
+      required
+
+      Headerul x-api-key este necesar pentru autentificare și trebuie să conțină api key-ul organizației.
+
 Query Params
-region
-region
-required
-Slug-ul regiunii pentru care se dorește obținerea datelor. Regiunile sunt listate în secțiunea Regiuni.
 
-Exemplu: sibiu
-metric
-metric
-required
-Slug-ul metricii pentru care se dorește obținerea datelor. Metricile sunt listate în secțiunea Metrici.
+region
 
-Exemplu: price_sqm_residential_new
+      region
+
+      required
+
+      Slug-ul regiunii pentru care se dorește obținerea datelor. Regiunile sunt listate în secțiunea Regiuni.
+
+
+      Exemplu: sibiu
+
+metric
+  metric
+  required
+  Slug-ul metricii pentru care se dorește obținerea datelor. Metricile sunt listate în secțiunea Metrici.
+
+  Exemplu: price_sqm_residential_new
+
 date_start
-string
-required
-Data de început pentru care se dorește obținerea datelor. Trebuie să fie în format YYYY-MM
 
-Exemplu: 2025-01
+      string
+
+      required
+
+      Data de început pentru care se dorește obținerea datelor. Trebuie să fie în format YYYY-MM
+
+
+      Exemplu: 2025-01
+
 date_end
-string
-required
-Data de sfârșit pentru care se dorește obținerea datelor. Trebuie să fie în format YYYY-MM
 
-Exemplu: 2025-12
+      string
+
+      required
+
+      Data de sfârșit pentru care se dorește obținerea datelor. Trebuie să fie în format YYYY-MM
+
+
+      Exemplu: 2025-12
+
 Real estate. Real data.
 
 Companie
+
 Politica de confidențialitate
+
 Politica cookies
+
 Termeni și condiții
+
 LLMs.txt
+
 ANPC
+
 Resurse
+
 Documentație API
+
 Blog
+
 Petiție
+
 Contact
-hello@minside.ro
-©2026 Minside
+
+      hello@minside.ro
+
+©2026 Minside</pre>
