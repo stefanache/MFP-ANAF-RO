@@ -24,7 +24,7 @@ Get data points
 cURL
 curl --request GET \
   --url "https://minside.ro/api/data-points" \
-  --header "x-api-key:{api_key}" \
+  --header "x-api-key:[{api_key}](https://minside.ro/dashboard/organization/settings)" \
   --data-urlencode "region=[{region}](https://minside.ro/docs/resources/regions)" \
   --data-urlencode "metric=[{metric}](https://minside.ro/docs/resources/metrics)" \
   --data-urlencode "date_start={date_start}" \
