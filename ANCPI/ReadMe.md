@@ -124,7 +124,7 @@ Resurse
 
 [Blog](https://minside.ro/blog)
 
-[Petiție](https://minside.ro/petitie
+[Petiție](https://minside.ro/petitie)
       
 Contact: hello@minside.ro
 
