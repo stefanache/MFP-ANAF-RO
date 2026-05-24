@@ -41,7 +41,7 @@ Surse-[documentare](http://statistici.insse.ro/shop/index.jsp?page=tempo2&lang=r
 [**ANCPI**](https://www.ancpi.ro/) = [***Agentia Nationala de*** **Cadastru** ***si Publicitate-Imobiliara***](https://www.mdlpa.ro/uploads/articole/attachments/68c7b1c2025e9543861909.pdf) din cadrul [**Ministerului Dezvoltarii, Lucrarilor Publice si Administratiei(MDLPA)**](https://data.gov.ro/dataset?organization=mdrap&res_format=xlsx&tags=ANCPI&_res_format_limit=0&license_id=CC-BY-4.0) - [Guvernul Romaniei](https://www.mdlpa.ro/uploads/articole/attachments/67e6636a87461068811205.pdf)
 
 [Aplicatie vizualizare Imobile](https://geoportal.ancpi.ro/imobile.html)<br/>
-[Seturi de date GIS - vectoriale](https://geo-spatial.org/vechi/download/romania-seturi-vectoriale)<br/>
+[Seturi de date GIS - vectoriale](https://geo-spatial.org/vechi/download/romania-seturi-vectoriale); [Geo-Spatial(vechi)](https://geo-spatial.org/vechi/tutoriale/crearea-unei-harti-in-qgis)<br/>
 [INIS viewer](https://geoportal.ancpi.ro/instructiune_inis_viewer_v1.pdf)<br/>
 [ANCPI-ePay](https://epay.ancpi.ro/epay//SelectCat.action?catId=1)<br/>
 [MyETerra](https://myeterra.ancpi.ro/landing) - Portalul dedicat cetățenilor și proprietarilor de Imobile pentru obținerea Gratuită a extraselor de carte-funciară(CF) și a planurilor-cadastrale(PC)<br/>
