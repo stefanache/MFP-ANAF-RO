@@ -1,4 +1,5 @@
 <hr/>
+
 [INS=INSTITUTUL NATIONAL DE STATISTICA](http://statistici.insse.ro/tempoins/?page=tempo2&lang=ro&context=10) / [CES](https://insse.ro/cms/ro/esc-olimpiada)- statistical [open-data](https://insse.ro/cms/ro/content/date-deschise) / [eSOP](https://insse.ro/cms/files/Site_eSOP_v2/intro.html) provider:<br/>
 -Nomenclatoare([CAEN/NACE](https://insse.ro/cms/ro/caen),[SIRUTA](https://insse.ro/cms/ro/siruta)...),<br/>
 -[INTRASTAT](https://insse.ro/cms/ro/content/intrastat), [EuroSTAT](https://insse.ro/cms/ro/publica%C8%9Bii-statistice-%C3%AEn-format-electronic#statistici_eurostat)
