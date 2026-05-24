@@ -4,7 +4,13 @@
 
 [OSGeo4W](https://www.osgeo.org/projects/osgeo4w/) - the [developer-kit](https://www.osgeo.org/projects/osgeo4w/) of [boundles](https://trac.osgeo.org/osgeo4w/) which includes ***open-source*** **GIS-desktop** ***applications***([**QGIS**](https://www.osgeo.org/projects/qgis), ***GRASS GIS***), **geospatial-libraries**(PROJ, GDAL/OGR, GEOS, SpatiaLite, SAGA GIS), **scripting-languages**(**Python**) as well as many *other* ***geospatial-related packages***.
 
-Surse-documentare INS-**TEMPO**: [Grafana - API - docs](https://grafana.com/docs/tempo/latest/api_docs/); GH:[Tempo-INS-DUMP](https://github.com/gov2-ro/tempo-ins-dump)/[Gov2](https://github.com/gov2-ro); [tempo.py](https://github.com/mark-veres/tempo.py);<br/> ex. tempo-[URL](http://statistici.insse.ro:8077/tempo-ins/matrix/POP105A) pt seria-***INSSE*** **POP105A**: **http://statistici.insse.ro:8077/tempo-ins/matrix/POP105A**
+Surse-documentare INS-**TEMPO**: 
+
+-[Grafana - API - docs](https://grafana.com/docs/tempo/latest/api_docs/);<br/> 
+-GH:<br/>
+ --[Tempo-INS-DUMP](https://github.com/gov2-ro/tempo-ins-dump)/[Gov2](https://github.com/gov2-ro);<br/> 
+ --[tempo.py](https://github.com/mark-veres/tempo.py);
+ <br/> ex. tempo-[URL](http://statistici.insse.ro:8077/tempo-ins/matrix/POP105A) pt seria-***INSSE*** **POP105A**: **http://statistici.insse.ro:8077/tempo-ins/matrix/POP105A**
 
 [QGIS](https://plugins.qgis.org/plugins/tags/tempo-online/) are un [plugin](https://www.google.com/search?q=QGIS+TEMPO+ONLINE&oq=QGIS&gs_lcrp=EgZjaHJvbWUqCAgAEEUYJxg7MggIABBFGCcYOzIOCAEQRRgnGDsYgAQYigUyBwgCEAAYgAQyDAgDEAAYQxiABBiKBTIMCAQQABhDGIAEGIoFMgcIBRAAGIAEMgcIBhAAGIAEMgcIBxAAGIAEMgcICBAAGIAEMgwICRAAGEMYgAQYigXSAQk2MTY1ajBqMTWoAgiwAgHxBeye9tgsVYFA8QXsnvbYLFWBQA&sourceid=chrome&ie=UTF-8) denumit [QTempo](https://plugins.qgis.org/plugins/qtempo/);[QTempo](https://github.com/alecsandrei/QTempo)
 
