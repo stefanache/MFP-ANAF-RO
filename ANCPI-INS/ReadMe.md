@@ -33,6 +33,14 @@ Surse-[documentare](http://statistici.insse.ro/shop/index.jsp?page=tempo2&lang=r
 
 [**ANCPI**](https://www.ancpi.ro/) = ***Agentia Nationala de*** **Cadastru** ***si Publicitate-Imobiliara*** din cadrul [**Ministerului Dezvoltarii, Lucrarilor Publice si Administratiei(MDLPA)**](https://data.gov.ro/dataset?organization=mdrap&res_format=xlsx&tags=ANCPI&_res_format_limit=0&license_id=CC-BY-4.0) - Guvernul Romaniei
 
+[Aplicatie vizualizare Imobile](https://geoportal.ancpi.ro/imobile.html)<br/>
+[Seturi de date GIS - vectoriale](https://geo-spatial.org/vechi/download/romania-seturi-vectoriale)
+
+[Programul National de Cadastru si Carte Funciara](https://www.ancpi.ro/pnccf/stadiu-lucrarilor.html)
+
+[ONCPI-B](https://b.ancpi.ro/)
+
+
 <hr/>
 
 [QGIS - instalare](https://www.google.com/search?q=QGIS+instalare&sca_esv=c87df53aa21c795b&sxsrf=ANbL-n4QE-oMn7-M5ACZR-108XEldTiufw%3A1779602977494&ei=IZYSao3wHcWVi-gP7sWYgQw&biw=1920&bih=961&ved=0ahUKEwjNhMLaodGUAxXFygIHHe4iJsAQ4dUDCBA&uact=5&oq=QGIS+instalare&gs_lp=Egxnd3Mtd2l6LXNlcnAiDlFHSVMgaW5zdGFsYXJlMgYQABgWGB4yCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogQyBRAAGO8FSO0oUMgMWLQmcAF4AJABAJgBa6AB9weqAQQxMC4xuAEDyAEA-AEBmAIMoAKQCcICCBAAGO8FGLADwgILEAAYgAQYogQYsAPCAgQQIxgnwgIKECMYgAQYigUYJ8ICChAAGIAEGIoFGEPCAgUQABiABMICCBAAGIAEGMsBwgIHEAAYgAQYDcICBhAAGB4YDZgDAIgGAZAGBZIHAzMuOaAH3DeyBwMyLjm4B4gJwgcHMC4xLjMuOMgHeoAIAQ&sclient=gws-wiz-serp): [QGIS - manual/ghid](https://qgis.org/resources/installation-guide/); [QGIS - repository/download](https://qgis.org/download/); QGIS are nevoie de baze de date(BD) spațiale(precum [PostGIS](https://qtibia.ro/instaleaza-qgis-profesionist/)); [QGIS-instructiuni instalare pe Ubuntu/Linux](https://qgis.org/resources/installation-guide/#linux); QGIS are un - Online ([OSGeo4W](https://trac.osgeo.org/osgeo4w/)) [installer](https://www.google.com/search?q=OSGeo4W+installer&oq=OSGeo4W+installer&gs_lcrp=EgZjaHJvbWUyCwgAEEUYExg5GIAEMgkIARAAGBMYgAQyCQgCEAAYExiABDIJCAMQABgTGIAEMgkIBBAAGBMYgAQyCggFEAAYExgWGB4yCggGEAAYExgWGB4yCggHEAAYExgWGB4yCggIEAAYExgWGB4yCggJEAAYExgWGB7SAQk1Mjg0ajBqMTWoAgiwAgHxBUJS2-3b_OtQ&sourceid=chrome&ie=UTF-8);
