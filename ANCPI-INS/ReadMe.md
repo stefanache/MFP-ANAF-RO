@@ -158,9 +158,9 @@ date_end
 
 </pre>
 
-Real estate. Real data.
+**MinSide**  - Real estate. Real data.
 
-<br/><br/>Companie
+<br/><br/>[Companie](https://minside.ro/)
 
 ------------
 
