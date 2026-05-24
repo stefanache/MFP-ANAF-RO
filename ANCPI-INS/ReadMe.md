@@ -42,6 +42,7 @@ Surse-[documentare](http://statistici.insse.ro/shop/index.jsp?page=tempo2&lang=r
 [Aplicatie vizualizare Imobile](https://geoportal.ancpi.ro/imobile.html)<br/>
 [Seturi de date GIS - vectoriale](https://geo-spatial.org/vechi/download/romania-seturi-vectoriale)<br/>
 [INIS viewer](https://geoportal.ancpi.ro/instructiune_inis_viewer_v1.pdf)<br/>
+[ANCPI-ePay](https://epay.ancpi.ro/epay//SelectCat.action?catId=1)<BR/>
 [Programul National de Cadastru si Carte Funciara](https://www.ancpi.ro/pnccf/stadiu-lucrarilor.html)
 
 [ONCPI-B](https://b.ancpi.ro/)
