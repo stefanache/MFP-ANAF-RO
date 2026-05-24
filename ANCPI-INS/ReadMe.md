@@ -1,4 +1,4 @@
-**Seturi de dDate deschide legate de ANCPI si INS** - *Ierarhii de date si de raportare-frecventa institutionala*
+**Seturi de Date deschide(Open-DS) legate de institutiile-guvernamentale ANCPI si INS** - *Ierarhii de date si de raportare-frecventa institutionala*
 
 [DataSets-EU](https://data.europa.eu/data/datasets/6b7b18eb-1d88-404a-8ce0-b40d010fc70c?locale=en)
 
