@@ -18,7 +18,7 @@ About - [QTempo](https://github.com/alecsandrei/QTempo) - A [QGIS](https://bibli
 
 <hr/>
 
-Sa luam ca exemplu acest **API**(Mii de multumiri!!!):
+Sa luam ca exemplu acest **API**(Mii de multumiri!!!), ca aplicatie GIS: **Tranzactii-Imobiliare/Real-Estate**
 
 **Introducere** in  **Tranzactii-Imobiliare/Real-Estate** - [***API-MinSide.ro***](https://minside.ro/docs/api/introduction) ( a se vedea [**Get-Data-Points**](https://minside.ro/docs/api/get-data-points) endpoint!)
 
