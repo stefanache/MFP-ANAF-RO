@@ -4,7 +4,7 @@
 
 [OSGeo4W](https://www.osgeo.org/projects/osgeo4w/) - the [developer-kit](https://www.osgeo.org/projects/osgeo4w/) of [boundles](https://trac.osgeo.org/osgeo4w/) which includes ***open-source*** **GIS-desktop** ***applications***([**QGIS**](https://www.osgeo.org/projects/qgis), ***GRASS GIS***), **geospatial-libraries**(PROJ, GDAL/OGR, GEOS, SpatiaLite, SAGA GIS), **scripting-languages**(**Python**) as well as many *other* ***geospatial-related packages***.
 
-
+[Grafana - API - docs](https://grafana.com/docs/tempo/latest/api_docs/)
 
 [QGIS](https://plugins.qgis.org/plugins/tags/tempo-online/) are un [plugin](https://www.google.com/search?q=QGIS+TEMPO+ONLINE&oq=QGIS&gs_lcrp=EgZjaHJvbWUqCAgAEEUYJxg7MggIABBFGCcYOzIOCAEQRRgnGDsYgAQYigUyBwgCEAAYgAQyDAgDEAAYQxiABBiKBTIMCAQQABhDGIAEGIoFMgcIBRAAGIAEMgcIBhAAGIAEMgcIBxAAGIAEMgcICBAAGIAEMgwICRAAGEMYgAQYigXSAQk2MTY1ajBqMTWoAgiwAgHxBeye9tgsVYFA8QXsnvbYLFWBQA&sourceid=chrome&ie=UTF-8) denumit [QTempo](https://plugins.qgis.org/plugins/qtempo/);[QTempo](https://github.com/alecsandrei/QTempo)
 
