@@ -1,5 +1,6 @@
 [**ANCPI**](https://www.ancpi.ro/) = ***Agentia Nationala de*** **Cadastru** ***si Publicitate-Imobiliara*** din cadrul [**Ministerului Dezvoltarii, Lucrarilor Publice si Administratiei(MDLPA)**](https://data.gov.ro/dataset?organization=mdrap&res_format=xlsx&tags=ANCPI&_res_format_limit=0&license_id=CC-BY-4.0) - Guvernul Romaniei
 
+[QGIS](https://plugins.qgis.org/plugins/tags/tempo-online/) are un plugin denumit [QTempo](https://plugins.qgis.org/plugins/qtempo/).
 
 [API-uri bazate pe date ANCPI](https://www.reddit.com/r/programare/comments/1s1h2lm/cine_stie_apiurile_de_la_ancpi/) [MinSide.ro](https://minside.ro/docs/api/get-data-points); a se vedea si [API-ul](https://minside.ro/docs/api/introduction)/[MDLPA](https://www.mdlpa.ro/uploads/articole/attachments/68c7b1c16e72e612440999.pdf) [MinSide.ro](https://minside.ro/)
 
