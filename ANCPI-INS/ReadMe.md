@@ -67,7 +67,7 @@ Surse-[documentare](http://statistici.insse.ro/shop/index.jsp?page=tempo2&lang=r
 
 [QTempo](https://github.com/alecsandrei/QTempo): A [**QGIS**](https://qgis.org/ro/) [plugin](https://plugins.qgis.org/plugins/qtempo/)(written in Python) that integrates statistical-data(INSSE - date statistice transmise de agentiile-guvernamentale) with administrative-boundaries(ANCPI - limite administrativ-teritoriale) sourced via [**ANCPI *ArcGIS* MapServices**](https://www.google.com/search?q=ANCPI+ArcGIS+MapServices&oq=ANCPI+ArcGIS+MapServices&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQIRgKGKABMgkIAhAhGAoYoAEyBwgDECEYjwLSAQkzODMxajBqMTWoAgiwAgHxBZqcqDmn3wU_8QWanKg5p98FPw&sourceid=chrome&ie=UTF-8) and [**GISCO APIs**.](https://gisco-services.ec.europa.eu/distribution/v2/)
 
-About - [QTempo](https://github.com/alecsandrei/QTempo) - A [QGIS](https://biblioteca.utcluj.ro/files/carti-online-cu-coperta/361-5.pdf) plugin for accessing data from the [TEMPO-Online / INSSE](http://statistici.insse.ro:8077/tempo-online/) statistical database(INSSE -Serii [TEMPO](http://statistici.insse.ro:8077/tempo-online/#/pages/tables/insse-table)rale); [Tempo MCP-server](https://grafana.com/docs/tempo/latest/api_docs/mcp-server/)
+About - [QTempo](https://github.com/alecsandrei/QTempo) - A [QGIS](https://biblioteca.utcluj.ro/files/carti-online-cu-coperta/361-5.pdf) plugin for accessing data from the [TEMPO-Online / INSSE](http://statistici.insse.ro:8077/tempo-online/) statistical database(INSSE -[Serii](https://docs.qfield.org/ro/how-to/advanced-how-tos/xlsforms-plugin/#how-to-install-the-plugin) [TEMPO](http://statistici.insse.ro:8077/tempo-online/#/pages/tables/insse-table)rale); [Tempo MCP-server](https://grafana.com/docs/tempo/latest/api_docs/mcp-server/)
 
 <hr/>
 
