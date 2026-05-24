@@ -7,7 +7,7 @@
 [INS=INSTITUTUL NATIONAL DE STATISTICA](http://statistici.insse.ro/tempoins/?page=tempo2&lang=ro&context=10)<br/>
 Surse-[documentare](http://statistici.insse.ro/shop/index.jsp?page=tempo2&lang=ro&context=75) [INS-**TEMPO**](http://statistici.insse.ro/tempoins/?page=tempo2&lang=ro&context=10):<br/> 
 -[Grafana - API - docs](https://grafana.com/docs/tempo/latest/api_docs/);<br/> 
--GH:<br/>
+-GitHub(GH):<br/>
  --[Tempo-INS-DUMP](https://github.com/gov2-ro/tempo-ins-dump)/[Gov2](https://github.com/gov2-ro);<br/> 
  --[tempo.py](https://github.com/mark-veres/tempo.py);
  <br/> ex. tempo-[URL](http://statistici.insse.ro:8077/tempo-ins/matrix/POP105A) pt seria-***INSSE*** **POP105A**: **http://statistici.insse.ro:8077/tempo-ins/matrix/POP105A**
