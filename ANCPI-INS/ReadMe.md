@@ -159,7 +159,7 @@ date_end
 
 </pre>
 
-**MinSide**  - Real estate. Real data.
+[**MinSide**](https://minside.ro/blog/article/bucuresti-2026-aprilie?utm_source=onboarding-feedback-email)  - Real estate. Real data.
 
 <br/><br/>[Companie](https://minside.ro/)
 
