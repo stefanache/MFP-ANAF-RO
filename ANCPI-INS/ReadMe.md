@@ -4,12 +4,25 @@
 
 [OSGeo4W](https://www.osgeo.org/projects/osgeo4w/) - the [developer-kit](https://www.osgeo.org/projects/osgeo4w/) of [boundles](https://trac.osgeo.org/osgeo4w/) which includes ***open-source*** **GIS-desktop** ***applications***([**QGIS**](https://www.osgeo.org/projects/qgis), ***GRASS GIS***), **geospatial-libraries**(PROJ, GDAL/OGR, GEOS, SpatiaLite, SAGA GIS), **scripting-languages**(**Python**) as well as many *other* ***geospatial-related packages***.
 
-[INS=INSTITUTUL NATIONAL DE STATISTICA](http://statistici.insse.ro/tempoins/?page=tempo2&lang=ro&context=10) - statistical data provider:<br/>
--Nomenclatoare(CAEN/NACE,SIRUTA...),<br/>
--Date de recesamant(Populatie,Locuinte,Agricol...), <br/>
--Indicatori-Socio-Economici: <br/>
- --TEMPO,
- --Indicele preturilor de consum=[IPC](https://insse.ro/cms/ro/tags/comunicat-indicele-preturilor-de-consum)...<br/><br/>
+[INS=INSTITUTUL NATIONAL DE STATISTICA](http://statistici.insse.ro/tempoins/?page=tempo2&lang=ro&context=10) / [CES](https://insse.ro/cms/ro/esc-olimpiada)- statistical [open-data](https://insse.ro/cms/ro/content/date-deschise) / [eSOP](https://insse.ro/cms/files/Site_eSOP_v2/intro.html) provider:<br/>
+-Nomenclatoare([CAEN/NACE](https://insse.ro/cms/ro/caen),[SIRUTA](https://insse.ro/cms/ro/siruta)...),<br/>
+-[INTRASTAT](https://insse.ro/cms/ro/content/intrastat), [EuroSTAT](https://insse.ro/cms/ro/publica%C8%9Bii-statistice-%C3%AEn-format-electronic#statistici_eurostat)
+-Date de recesamant([Populatie,Locuinte](http://www.recensamantromania.ro/), [Agricol](https://insse.ro/cms/ro/RGA2020/),[Gospodarii](https://insse.ro/cms/ro/content/cercetari-statistice-selective-gospodarii), ...), <br/>
+-Indicatori Socio-Economici: <br/>
+ --serii temporale de date statistice/[TEMPO](http://statistici.insse.ro/tempoins/?page=tempo2&lang=ro&context=10),<br/>
+ --Indicele [preturilor](https://insse.ro/cms/ro/content/buletin-statistic-de-pre%C5%A3uri-nr22026) de consum=[IPC](https://insse.ro/cms/ro/tags/comunicat-indicele-preturilor-de-consum)...<br/><br/>
+ -Proiecte si Programe: <br/>
+ -- [POCA](https://insse.ro/cms/ro/content/programul-operational-capacitate-administrativa-poca)=Programul Operational Capacitate Administrativa
+ -- [PoAT](https://insse.ro/cms/ro/PoAT) = Proiectul GEFEN
+ -[Publicatii](https://insse.ro/cms/ro/publica%C8%9Bii-statistice-%C3%AEn-format-electronic) si [Evenimente](http://statisticsevents.ro/) - Statistice: <br/>
+ --[publicatii-electronice](https://insse.ro/cms/ro/publica%C8%9Bii-statistice-%C3%AEn-format-electronic)<br/>
+ --[revista](http://www.revistadestatistica.ro/)<br/>
+ --[Cultura/Statistica generala](https://insse.ro/cms/ro/publica%C8%9Bii-statistice-%C3%AEn-format-electronic#statistici_generale)<br/>
+ --[peer-review](https://insse.ro/cms/ro/content/peer-review-2023-ro)<br/>
+ -[SNS(organizare)](https://insse.ro/cms/ro/publica%C8%9Bii-statistice-%C3%AEn-format-electronic#sistemul_statistic_national):<br/>
+ -[BD si meta-date](https://insse.ro/cms/ro/publica%C8%9Bii-statistice-%C3%AEn-format-electronic#baze_de_date_si_metadate_statistice)<br/>
+ -Statistici [teritoriale](https://insse.ro/cms/ro/content/statistici-teritoriale) si [Experimentale.](https://insse.ro/cms/ro/statistici-experimentale)<br/>
+ -[MO:Info-Mediu](https://insse.ro/cms/files/banner/mediu/ghid-info-mediu-monitor-oficial.pdf)<br/>
  
 Surse-[documentare](http://statistici.insse.ro/shop/index.jsp?page=tempo2&lang=ro&context=75) [INS-**TEMPO**](http://statistici.insse.ro/tempoins/?page=tempo2&lang=ro&context=10):<br/> 
 -[Grafana - API - docs](https://grafana.com/docs/tempo/latest/api_docs/);<br/> 
