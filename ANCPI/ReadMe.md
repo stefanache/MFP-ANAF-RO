@@ -2,6 +2,8 @@
 
 [QGIS - instalare](https://www.google.com/search?q=QGIS+instalare&sca_esv=c87df53aa21c795b&sxsrf=ANbL-n4QE-oMn7-M5ACZR-108XEldTiufw%3A1779602977494&ei=IZYSao3wHcWVi-gP7sWYgQw&biw=1920&bih=961&ved=0ahUKEwjNhMLaodGUAxXFygIHHe4iJsAQ4dUDCBA&uact=5&oq=QGIS+instalare&gs_lp=Egxnd3Mtd2l6LXNlcnAiDlFHSVMgaW5zdGFsYXJlMgYQABgWGB4yCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogQyBRAAGO8FSO0oUMgMWLQmcAF4AJABAJgBa6AB9weqAQQxMC4xuAEDyAEA-AEBmAIMoAKQCcICCBAAGO8FGLADwgILEAAYgAQYogQYsAPCAgQQIxgnwgIKECMYgAQYigUYJ8ICChAAGIAEGIoFGEPCAgUQABiABMICCBAAGIAEGMsBwgIHEAAYgAQYDcICBhAAGB4YDZgDAIgGAZAGBZIHAzMuOaAH3DeyBwMyLjm4B4gJwgcHMC4xLjMuOMgHeoAIAQ&sclient=gws-wiz-serp)
 
+-[manual/ghid](https://qgis.org/resources/installation-guide/)
+-[repository/download](https://qgis.org/download/)
 
 [QGIS](https://plugins.qgis.org/plugins/tags/tempo-online/) are un [plugin](https://www.google.com/search?q=QGIS+TEMPO+ONLINE&oq=QGIS&gs_lcrp=EgZjaHJvbWUqCAgAEEUYJxg7MggIABBFGCcYOzIOCAEQRRgnGDsYgAQYigUyBwgCEAAYgAQyDAgDEAAYQxiABBiKBTIMCAQQABhDGIAEGIoFMgcIBRAAGIAEMgcIBhAAGIAEMgcIBxAAGIAEMgcICBAAGIAEMgwICRAAGEMYgAQYigXSAQk2MTY1ajBqMTWoAgiwAgHxBeye9tgsVYFA8QXsnvbYLFWBQA&sourceid=chrome&ie=UTF-8) denumit [QTempo](https://plugins.qgis.org/plugins/qtempo/).
 
