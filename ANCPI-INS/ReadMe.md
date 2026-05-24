@@ -1,4 +1,4 @@
-**Seturi de Date deschide(Open-DS) legate de institutiile-guvernamentale ANCPI si INS** - *Ierarhii de date si de raportare-frecventa (inter-)institutionala* - [Baza-Legala(BL)](https://data.gov.ro/pages/hvds) si Forme de prezentare(API si Apps,SparQL,Files,...)
+**Seturi de Date deschide(Open-DS) legate de institutiile-guvernamentale ANCPI si INS** - *Ierarhii de... date(DS) si de [raportare-frecventa](https://insse.ro/cms/ro/content/statistica-oficiala-din-romania) (inter-)institutionala* - [Baza-Legala(BL)](https://data.gov.ro/pages/hvds) si Forme de prezentare(API si Apps,SparQL,Files,...)
 
 <hr/>
 
