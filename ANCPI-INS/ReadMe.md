@@ -161,7 +161,7 @@ date_end
 
 [**MinSide**](https://minside.ro/blog/article/bucuresti-2026-aprilie?utm_source=onboarding-feedback-email)  - Real estate. Real data.
 
-<br/><br/>[Companie](https://minside.ro/) [CUI](https://mfinante.gov.ro/apps/agenticod.html?pagina=domenii)=[43471141](https://mfinante.gov.ro/apps/infocodfiscal.html?cod=43471141), Denumire_Firma=PRODUCTIFY LABS S.R.L.,[Registrul-TVA](https://www.anaf.ro/RegistruTVA/)
+<br/><br/>[Companie](https://minside.ro/) [CUI](https://mfinante.gov.ro/apps/agenticod.html?pagina=domenii)=[43471141](https://mfinante.gov.ro/apps/infocodfiscal.html?cod=43471141), Denumire_Firma=PRODUCTIFY LABS S.R.L.,[Registrul-TVA](https://www.anaf.ro/RegistruTVA/) [CUI](https://www.anaf.ro/RegistruTVA/searchVAT) = [43471141](https://www.anaf.ro/RegistruTVA/searchVAT?codFiscal=43471141)
 
 ------------
 
