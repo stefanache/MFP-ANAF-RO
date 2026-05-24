@@ -1,3 +1,5 @@
+**Seturi de dDate deschide legate de ANCPI si INS** - *Ierarhii de date si de raportare-frecventa institutionala*
+
 [DataSets-EU](https://data.europa.eu/data/datasets/6b7b18eb-1d88-404a-8ce0-b40d010fc70c?locale=en)
 
 [Data-Gov-RO](https://data.gov.ro/organization/ancpi) - [Institutii-de-stat](https://data.gov.ro/organization?q=INS&sort=title+asc): [ANCPI](https://data.gov.ro/organization/ancpi); [INS](https://data.gov.ro/organization?q=Institutul+Na%C8%9Bional+&sort=title+asc) - [seturi de Date/Data Sets(DS) Deschise(Open-DS)](https://data.gov.ro/dataset)
