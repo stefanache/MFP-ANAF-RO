@@ -170,7 +170,7 @@ Real estate. Real data.
 
 [Termeni și condiții](https://minside.ro/terms-and-conditions)
 
-[LLMs.txt](https://minside.ro/llms.txt)
+[LLMs.txt](https://minside.ro/llms.txt) - MinSide MCP server
 
 [ANPC](https://anpc.ro/)
 
