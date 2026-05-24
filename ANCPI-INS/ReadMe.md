@@ -11,7 +11,8 @@
 [INS=INSTITUTUL NATIONAL DE STATISTICA](http://statistici.insse.ro/tempoins/?page=tempo2&lang=ro&context=10) / [CES](https://insse.ro/cms/ro/esc-olimpiada)- statistical [open-data](https://insse.ro/cms/ro/content/date-deschise) / [eSOP](https://insse.ro/cms/files/Site_eSOP_v2/intro.html) provider:<br/>
 -Nomenclatoare([CAEN/NACE](https://insse.ro/cms/ro/caen),[SIRUTA](https://insse.ro/cms/ro/siruta)...),<br/>
 -[INTRASTAT](https://insse.ro/cms/ro/content/intrastat), [EuroSTAT](https://insse.ro/cms/ro/publica%C8%9Bii-statistice-%C3%AEn-format-electronic#statistici_eurostat)
--Date de recesamant([Populatie,Locuinte](http://www.recensamantromania.ro/), [Agricol](https://insse.ro/cms/ro/RGA2020/),[Gospodarii](https://insse.ro/cms/ro/content/cercetari-statistice-selective-gospodarii), ...), <br/>
+-Date de recesamant/receseminte([Populatie,Locuinte](http://www.recensamantromania.ro/), [Agricol](https://insse.ro/cms/ro/RGA2020/),[Gospodarii](https://insse.ro/cms/ro/content/cercetari-statistice-selective-gospodarii), ...)<br/>
+-[Chestionare/Q -statistice](https://insse.ro/cms/ro/content/chestionare-statistice)<br/>
 -Indicatori Socio-Economici: <br/>
  --serii de timp/[temporale](https://www.facebook.com/472839662825732?ref=embed_page) de date statistice/[TEMPO](http://statistici.insse.ro/tempoins/?page=tempo2&lang=ro&context=10),<br/>
  --Indicele [preturilor](https://insse.ro/cms/ro/content/buletin-statistic-de-pre%C5%A3uri-nr22026) de consum=[IPC](https://insse.ro/cms/ro/tags/comunicat-indicele-preturilor-de-consum)...<br/>
