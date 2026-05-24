@@ -43,10 +43,12 @@ Surse-[documentare](http://statistici.insse.ro/shop/index.jsp?page=tempo2&lang=r
 [Seturi de date GIS - vectoriale](https://geo-spatial.org/vechi/download/romania-seturi-vectoriale)<br/>
 [INIS viewer](https://geoportal.ancpi.ro/instructiune_inis_viewer_v1.pdf)<br/>
 [ANCPI-ePay](https://epay.ancpi.ro/epay//SelectCat.action?catId=1)<br/>
-[MyETerra](https://myeterra.ancpi.ro/landing)<br/>
-[Programul National de Cadastru si Carte Funciara](https://www.ancpi.ro/pnccf/stadiu-lucrarilor.html)
-
-[ONCPI-B](https://b.ancpi.ro/)
+[MyETerra](https://myeterra.ancpi.ro/landing) - Portalul dedicat cetățenilor și proprietarilor de Imobile pentru obținerea Gratuită a extraselor de carte-funciară(CF) și a planurilor-cadastrale(PC)<br/>
+[eTerra](https://eterra.ancpi.ro/eterra/) - eTerra(Profesioniști): Sistemul centralizat/Platforma digitala folosit[a] de notari, topografi și Instituții-publice<br/>
+[ANCPI-conditii de access la SII de PC si CF](https://ceccarcluj.ro/ro/ancpi-a-actualizat-conditiile-de-acces-la-sistemul-informatic-integrat-de-cadastru-si-carte-funciara/)<br/>
+[Geoportal ANCPI](https://geoportal.ancpi.ro/) - [Geoportal](https://geoportal.ancpi.ro/imobile.html): Harta interactivă pentru vizualizarea Imobilelor și datelor-spațiale<br/>
+[Programul National de Cadastru si Carte Funciara](https://www.ancpi.ro/pnccf/stadiu-lucrarilor.html)<br/>
+[ONCPI-B](https://b.ancpi.ro/)<br/>
 
 
 <hr/>
