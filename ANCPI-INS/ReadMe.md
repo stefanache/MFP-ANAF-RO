@@ -12,10 +12,10 @@
  --serii temporale de date statistice/[TEMPO](http://statistici.insse.ro/tempoins/?page=tempo2&lang=ro&context=10),<br/>
  --Indicele [preturilor](https://insse.ro/cms/ro/content/buletin-statistic-de-pre%C5%A3uri-nr22026) de consum=[IPC](https://insse.ro/cms/ro/tags/comunicat-indicele-preturilor-de-consum)...<br/><br/>
  -Proiecte si Programe: <br/>
- -- [POCA](https://insse.ro/cms/ro/content/programul-operational-capacitate-administrativa-poca)=Programul Operational Capacitate Administrativa
- -- [PoAT](https://insse.ro/cms/ro/PoAT) = Proiectul GEFEN
+ -- [POCA](https://insse.ro/cms/ro/content/programul-operational-capacitate-administrativa-poca)=Programul Operational Capacitate Administrativa<br/>
+ -- [PoAT](https://insse.ro/cms/ro/PoAT) = Proiectul GEFEN<br/>
  -[Publicatii](https://insse.ro/cms/ro/publica%C8%9Bii-statistice-%C3%AEn-format-electronic) si [Evenimente](http://statisticsevents.ro/) - Statistice: <br/>
- --[publicatii-electronice](https://insse.ro/cms/ro/publica%C8%9Bii-statistice-%C3%AEn-format-electronic)<br/>
+ --[Publicatii-electronice](https://insse.ro/cms/ro/publica%C8%9Bii-statistice-%C3%AEn-format-electronic)<br/>
  --[revista](http://www.revistadestatistica.ro/)<br/>
  --[Cultura/Statistica generala](https://insse.ro/cms/ro/publica%C8%9Bii-statistice-%C3%AEn-format-electronic#statistici_generale)<br/>
  --[peer-review](https://insse.ro/cms/ro/content/peer-review-2023-ro)<br/>
