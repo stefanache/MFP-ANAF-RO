@@ -22,7 +22,7 @@
  -[SNS(organizare)](https://insse.ro/cms/ro/publica%C8%9Bii-statistice-%C3%AEn-format-electronic#sistemul_statistic_national):<br/>
  -[BD si meta-date](https://insse.ro/cms/ro/publica%C8%9Bii-statistice-%C3%AEn-format-electronic#baze_de_date_si_metadate_statistice)<br/>
  -Statistici [teritoriale](https://insse.ro/cms/ro/content/statistici-teritoriale) si [Experimentale.](https://insse.ro/cms/ro/statistici-experimentale)<br/>
- -[MO:Info-Mediu](https://insse.ro/cms/files/banner/mediu/ghid-info-mediu-monitor-oficial.pdf)<br/>
+ -[MO:Info-Mediu](https://insse.ro/cms/files/banner/mediu/ghid-info-mediu-monitor-oficial.pdf) / [Info MEDIU](https://insse.ro/cms/ro/content/statistica-mediului)<br/>
  
 Surse-[documentare](http://statistici.insse.ro/shop/index.jsp?page=tempo2&lang=ro&context=75) [INS-**TEMPO**](http://statistici.insse.ro/tempoins/?page=tempo2&lang=ro&context=10):<br/> 
 -[Grafana - API - docs](https://grafana.com/docs/tempo/latest/api_docs/);<br/> 
