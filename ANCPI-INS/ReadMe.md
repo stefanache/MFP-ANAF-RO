@@ -10,7 +10,7 @@
 -Date de recesamant([Populatie,Locuinte](http://www.recensamantromania.ro/), [Agricol](https://insse.ro/cms/ro/RGA2020/),[Gospodarii](https://insse.ro/cms/ro/content/cercetari-statistice-selective-gospodarii), ...), <br/>
 -Indicatori Socio-Economici: <br/>
  --serii temporale de date statistice/[TEMPO](http://statistici.insse.ro/tempoins/?page=tempo2&lang=ro&context=10),<br/>
- --Indicele [preturilor](https://insse.ro/cms/ro/content/buletin-statistic-de-pre%C5%A3uri-nr22026) de consum=[IPC](https://insse.ro/cms/ro/tags/comunicat-indicele-preturilor-de-consum)...<br/><br/>
+ --Indicele [preturilor](https://insse.ro/cms/ro/content/buletin-statistic-de-pre%C5%A3uri-nr22026) de consum=[IPC](https://insse.ro/cms/ro/tags/comunicat-indicele-preturilor-de-consum)...<br/>
  -Proiecte si Programe: <br/>
  -- [POCA](https://insse.ro/cms/ro/content/programul-operational-capacitate-administrativa-poca)=Programul Operational Capacitate Administrativa<br/>
  -- [PoAT](https://insse.ro/cms/ro/PoAT) = Proiectul GEFEN<br/>
