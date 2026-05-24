@@ -9,7 +9,7 @@
 -[INTRASTAT](https://insse.ro/cms/ro/content/intrastat), [EuroSTAT](https://insse.ro/cms/ro/publica%C8%9Bii-statistice-%C3%AEn-format-electronic#statistici_eurostat)
 -Date de recesamant([Populatie,Locuinte](http://www.recensamantromania.ro/), [Agricol](https://insse.ro/cms/ro/RGA2020/),[Gospodarii](https://insse.ro/cms/ro/content/cercetari-statistice-selective-gospodarii), ...), <br/>
 -Indicatori Socio-Economici: <br/>
- --serii temporale de date statistice/[TEMPO](http://statistici.insse.ro/tempoins/?page=tempo2&lang=ro&context=10),<br/>
+ --serii de timp/[temporale](https://www.facebook.com/472839662825732?ref=embed_page) de date statistice/[TEMPO](http://statistici.insse.ro/tempoins/?page=tempo2&lang=ro&context=10),<br/>
  --Indicele [preturilor](https://insse.ro/cms/ro/content/buletin-statistic-de-pre%C5%A3uri-nr22026) de consum=[IPC](https://insse.ro/cms/ro/tags/comunicat-indicele-preturilor-de-consum)...<br/>
  -Proiecte si Programe: <br/>
  -- [POCA](https://insse.ro/cms/ro/content/programul-operational-capacitate-administrativa-poca)=Programul Operational Capacitate Administrativa<br/>
@@ -29,7 +29,7 @@ Surse-[documentare](http://statistici.insse.ro/shop/index.jsp?page=tempo2&lang=r
 -GitHub(GH):<br/>
  --[Tempo-INS-DUMP](https://github.com/gov2-ro/tempo-ins-dump)/[Gov2](https://github.com/gov2-ro);<br/> 
  --[tempo.py](https://github.com/mark-veres/tempo.py);
- <br/> ex. tempo-[URL](http://statistici.insse.ro:8077/tempo-ins/matrix/POP105A) pt seria-***INSSE*** **POP105A**: **http://statistici.insse.ro:8077/tempo-ins/matrix/POP105A**
+ <br/> ex. tempo-[URL](http://statistici.insse.ro:8077/tempo-ins/matrix/POP105A) pt seria-[***INSSE***](https://www.facebook.com/472839662825732?ref=embed_page) **POP105A**: **http://statistici.insse.ro:8077/tempo-ins/matrix/POP105A**
 
 [QGIS](https://plugins.qgis.org/plugins/tags/tempo-online/) are un [plugin](https://www.google.com/search?q=QGIS+TEMPO+ONLINE&oq=QGIS&gs_lcrp=EgZjaHJvbWUqCAgAEEUYJxg7MggIABBFGCcYOzIOCAEQRRgnGDsYgAQYigUyBwgCEAAYgAQyDAgDEAAYQxiABBiKBTIMCAQQABhDGIAEGIoFMgcIBRAAGIAEMgcIBhAAGIAEMgcIBxAAGIAEMgcICBAAGIAEMgwICRAAGEMYgAQYigXSAQk2MTY1ajBqMTWoAgiwAgHxBeye9tgsVYFA8QXsnvbYLFWBQA&sourceid=chrome&ie=UTF-8) denumit [QTempo](https://plugins.qgis.org/plugins/qtempo/);[QTempo](https://github.com/alecsandrei/QTempo)
 
