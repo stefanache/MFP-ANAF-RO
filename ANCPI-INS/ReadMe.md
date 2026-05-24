@@ -9,7 +9,7 @@
 <hr/>
 
 [INS=INSTITUTUL NATIONAL DE STATISTICA](http://statistici.insse.ro/tempoins/?page=tempo2&lang=ro&context=10) / [CES](https://insse.ro/cms/ro/esc-olimpiada)- statistical [open-data](https://insse.ro/cms/ro/content/date-deschise) / [eSOP](https://insse.ro/cms/files/Site_eSOP_v2/intro.html) provider:<br/>
--Nomenclatoare([CAEN/NACE](https://insse.ro/cms/ro/caen),[SIRUTA](https://insse.ro/cms/ro/siruta)...),<br/>
+-Nomenclatoare([CAEN/NACE](https://insse.ro/cms/ro/caen),[SIRUTA](https://insse.ro/cms/ro/siruta)/[NUTS](https://data.europa.eu/data/datasets/estat-nuts-classification?locale=ro)...),<br/>
 -[INTRASTAT](https://insse.ro/cms/ro/content/intrastat), [EuroSTAT](https://insse.ro/cms/ro/publica%C8%9Bii-statistice-%C3%AEn-format-electronic#statistici_eurostat)
 -Date de recesamant/receseminte([Populatie,Locuinte](http://www.recensamantromania.ro/), [Agricol](https://insse.ro/cms/ro/RGA2020/),[Gospodarii](https://insse.ro/cms/ro/content/cercetari-statistice-selective-gospodarii), ...)<br/>
 -[Chestionare/Q -statistice=Formulare tipizate necompletate sau care ar urma sa fie completate cu raspunsuri/A](https://insse.ro/cms/ro/content/chestionare-statistice)<br/>
