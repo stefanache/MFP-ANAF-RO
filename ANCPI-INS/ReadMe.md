@@ -39,6 +39,7 @@ Surse-[documentare](http://statistici.insse.ro/shop/index.jsp?page=tempo2&lang=r
 <hr/>
 
 [**ANCPI**](https://www.ancpi.ro/) = [***Agentia Nationala de*** **Cadastru** ***si Publicitate-Imobiliara***](https://www.mdlpa.ro/uploads/articole/attachments/68c7b1c2025e9543861909.pdf) din cadrul [**Ministerului Dezvoltarii, Lucrarilor Publice si Administratiei(MDLPA)**](https://data.gov.ro/dataset?organization=mdrap&res_format=xlsx&tags=ANCPI&_res_format_limit=0&license_id=CC-BY-4.0) - [Guvernul Romaniei](https://www.mdlpa.ro/uploads/articole/attachments/67e6636a87461068811205.pdf);
+
 [CNC](https://github.com/cartografie-ro) = Centrul Naţional de Cartografie(CNC) este o instituţie-publica cu personalitate-juridică(PJ) în ***subordinea*** **ANCPI**(Agenţiei Naţionale de Cadastru şi Publicitate Imobiliară)
 
 [Aplicatie vizualizare Imobile](https://geoportal.ancpi.ro/imobile.html)<br/>
