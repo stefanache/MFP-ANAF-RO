@@ -47,7 +47,7 @@ Surse-[documentare](http://statistici.insse.ro/shop/index.jsp?page=tempo2&lang=r
 Dacă doriți să faceți lucrări cu precizie ridicată (uz personal/comercial) folosind telefonul ca interfață:
 -Achiziționați o antenă [GNSS](https://rompos.ro/index.php/despre-rompos/intrebari-frecvente/rompos/care-sunt-factorii-critici-care-afecteaza-precizia-determinarilor-rtk) [RTK](https://rompos.ro/index.php/noutati/itemlist/tag/RTK) externă de tip "Rover" (există variante accesibile, compacte, RTK L1/L2/L5).
 -Conectați antena externă la telefon prin Bluetooth(BT/BLE).
--Folosiți telefonul/dispozitivul-mobil(esp32 de exemplu care are BLE) doar 
+-Folosiți telefonul/dispozitivul-mobil(de exemplu [**esp32**](https://esprtk.com/blog_ardusimple_f9p_esp32_topcon_simon_barlow/), care are/este dotat cu BT/BLE) doar 
 --pentru a rula **aplicația de colectare locala a datelor** și 
 --pentru a asigura **[conexiunea](https://www.rompos.ro/index.php/ro/despre-rompos/intrebari-frecvente/rompos/nu-pot-conecta-echipamentul-gnss-la-rompos-care-pot-fi-problemele) la internet** **([NTRIP](https://ro.wikipedia.org/wiki/NTRIP)** către ***serverele***-[**ROMPOS**](https://www.rompos.ro/index.php/download); 
 Cel mai adesea dispozitivul dvs/clientul si serverul/[casterul](https://www.agsgis.com/What-is-NTRIP_b_42.html?srsltid=AfmBOooyLyJ_GEFRp7G5KT5E9An0ewP0ieW5lgjuArQkkzGwv4SMCqOS)-[**NTRIP**](https://www.agsgis.com/What-is-NTRIP_b_42.html?srsltid=AfmBOooyLyJ_GEFRp7G5KT5E9An0ewP0ieW5lgjuArQkkzGwv4SMCqOS) al ROMPOS/ROMGEO-al-ANCPI/K-data provider, [vor discuta/se inteleg](https://globalgpssystems.com/gnss/what-is-ntrip-rtk-corrections/) folosind protocolul [RTCM](https://rompos.ro/#)!
