@@ -52,7 +52,7 @@ esențială pentru:
 - aplicații GIS și monitorizare teritorială.
 
 [**ROMGEO** ](https://github.com/cartografie-ro/romgeo/blob/main/README.ro.md) - este un set de instrumente software open-source(**OS**) pentru realizarea ***transformărilor geodezice*** datumului **EPSG:3844** (**Stereo70**) pentru România/(**RO**).<br/>
-[**ROMGEO** ***SPG***](https://github.com/mihail-cretu/romgeo-spg-management) - [Management](https://rompos.ro/index.php/download/download/2-software/113-romgeo-spg-management); [**ROMGEO** - ***SPG***-**transformation** - python](https://github.com/cartografie-ro/romgeo/) <br/>
+[**ROMGEO** ***SPG***](https://github.com/mihail-cretu/romgeo-spg-management) - [Management](https://rompos.ro/index.php/download/download/2-software/113-romgeo-spg-management); [**ROMGEO** - ***SPG***-**transformation** - python](https://github.com/cartografie-ro/romgeo/) - [**SPG**-GUI,API...](https://cartografie.ro/index.php/ro/noutati/stiri/item/287-lansarea-pachetului-romgeo-cu-noul-model-de-cvasigeoid-2025-05-pentru-transformarea-coordonatelor-etrs89-in-stereo70-si-cote-marea-neagra-1975) <br/>
 
 [Aplicatie vizualizare Imobile](https://geoportal.ancpi.ro/imobile.html)<br/>
 [Seturi de date GIS - vectoriale](https://geo-spatial.org/vechi/download/romania-seturi-vectoriale); [Geo-Spatial(vechi)](https://geo-spatial.org/vechi/tutoriale/crearea-unei-harti-in-qgis)<br/>
