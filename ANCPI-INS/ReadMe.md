@@ -43,7 +43,7 @@ Surse-[documentare](http://statistici.insse.ro/shop/index.jsp?page=tempo2&lang=r
 [***CNC***](https://github.com/cartografie-ro) = ***Centrul Naţional de Cartografie***(***CNC***) este o instituţie-publica(***IP***) cu personalitate-juridică(**PJ**) în ***subordinea*** **ANCPI**(Agenţiei Naţionale de Cadastru şi Publicitate Imobiliară)
 
 [**ROMPOS** - ***RTK*** (2025)](https://cartografie.ro/index.php/ro/noutati/stiri)<br/>
-[**ROMPOS**](https://rompos.ro/index.php/informatii-tehnice/utilizare-si-aplicatii) -  este o infra*structură*(poziții fixate ***RTK*** **2025** / utilizând o grilă-de-analiză([**RN-SGP = 87 statii-GNSS**](https://rompos.ro/index.php/despre-rompos/istoria-rn-sgp)) de **1 km** și sistemul-de-proiecție **Stereografic 1970**) [geodezică](https://rompos.ro/) de interes național(utilizare la nivel RO/național și în București),<br/> 
+[**ROMPOS**](https://rompos.ro/index.php/informatii-tehnice/utilizare-si-aplicatii) -  este o infra*structură*(poziții fixate ***RTK*** **2025** / utilizând o grilă-de-analiză([**RN-SGP = 87 statii-GNSS**](https://rompos.ro/index.php/despre-rompos/istoria-rn-sgp)) de **1 km** și sistemul-de-proiecție **Stereografic 1970**) [geodezică](https://rompos.ro/) de interes național(utilizare la nivel RO/național și în București)/[ROMGEO](https://github.com/stefanache/MFP-ANAF-RO/blob/main/ANCPI-INS/www.ancpi.ro/ocpi/gl/wp-content/punctevedere/216.1717_2025.pdf),<br/> 
 esențială pentru:
 
 - cadastru și intabulare,;
