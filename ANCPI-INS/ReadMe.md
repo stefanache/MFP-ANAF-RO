@@ -53,7 +53,7 @@ esențială pentru:
 - aplicații GIS și monitorizare teritorială.
 
 [**ROMGEO** ](https://github.com/cartografie-ro/romgeo/blob/main/README.ro.md) - este un set de instrumente software open-source(**OS**) pentru realizarea ***transformărilor geodezice*** datumului **EPSG:3844** (**Stereo70**) pentru România/(**RO**).<br/>
-[**ROMGEO** ***25.09***](https://cartografie.ro/index.php/en/component/k2/item/307-lansarea-gridului-de-cvasigeoid-25-09) = **Grid** de *cvasi***geoid**; Prezentare de catre **ONCPI-PH** a noului [model](https://www.ancpi.ro/ocpi/ph/romgeo/)-**ROMGEO** de **cvasigeoid 2025.05**<br/>
+[**ROMGEO** ***25.09***](https://cartografie.ro/index.php/en/component/k2/item/307-lansarea-gridului-de-cvasigeoid-25-09) = **Grid** de *cvasi***geoid**; Prezentare de catre [**ONCPI-PH**](https://rompos.ro/index.php/en/component/k2/itemlist/user/754-webadmin) a noului [model](https://www.ancpi.ro/ocpi/ph/romgeo/)-**ROMGEO** de **cvasigeoid 2025.05**<br/>
 [**ROMGEO** ***SPG***](https://github.com/mihail-cretu/romgeo-spg-management) - [Management](https://rompos.ro/index.php/download/download/2-software/113-romgeo-spg-management); [**ROMGEO** - ***SPG***-**transformation** - python](https://github.com/cartografie-ro/romgeo/) - [**SPG**-GUI,API...](https://cartografie.ro/index.php/ro/noutati/stiri/item/287-lansarea-pachetului-romgeo-cu-noul-model-de-cvasigeoid-2025-05-pentru-transformarea-coordonatelor-etrs89-in-stereo70-si-cote-marea-neagra-1975)-[FisaTehnica](https://rompos.ro/index.php/informatii-tehnice/transdatro/category/2-software) <br/>
 [**TransLT**-help:ISTORIC](https://www.topolt.com/wp-content/online-help/translt-help/translt-rom/history.html);
 
