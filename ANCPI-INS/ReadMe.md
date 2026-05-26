@@ -51,6 +51,8 @@ esențială pentru:
 - infrastructură și utilități,
 - aplicații GIS și monitorizare teritorială.
 
+[**ROMGEO** ](https://github.com/cartografie-ro/romgeo/blob/main/README.ro.md) - este un set de instrumente software open source pentru realizarea transformărilor geodezice datumului **EPSG:3844** (**Stereo70**) pentru România/(**RO**).<br/>
+
 [Aplicatie vizualizare Imobile](https://geoportal.ancpi.ro/imobile.html)<br/>
 [Seturi de date GIS - vectoriale](https://geo-spatial.org/vechi/download/romania-seturi-vectoriale); [Geo-Spatial(vechi)](https://geo-spatial.org/vechi/tutoriale/crearea-unei-harti-in-qgis)<br/>
 [INIS viewer](https://geoportal.ancpi.ro/instructiune_inis_viewer_v1.pdf)<br/>
