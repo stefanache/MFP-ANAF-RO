@@ -48,8 +48,8 @@ Dacă doriți să faceți lucrări cu precizie ridicată (uz personal/comercial)
 -Achiziționați o antenă [GNSS](https://rompos.ro/index.php/despre-rompos/intrebari-frecvente/rompos/care-sunt-factorii-critici-care-afecteaza-precizia-determinarilor-rtk) [RTK](https://rompos.ro/index.php/noutati/itemlist/tag/RTK) externă de tip "Rover" (există variante accesibile, compacte, RTK L1/L2/L5).
 -Conectați antena externă la telefon prin Bluetooth(BT/BLE).
 -Folosiți telefonul/dispozitivul-mobil(esp32 de exemplu care are BLE) doar 
---pentru a rula aplicația de colectare locala a datelor și 
---pentru a asigura [conexiunea](https://www.rompos.ro/index.php/ro/despre-rompos/intrebari-frecvente/rompos/nu-pot-conecta-echipamentul-gnss-la-rompos-care-pot-fi-problemele) la internet(NTRIP) către serverele [ROMPOS](https://www.rompos.ro/index.php/download); 
+--pentru a rula **aplicația de colectare locala a datelor** și 
+--pentru a asigura **[conexiunea](https://www.rompos.ro/index.php/ro/despre-rompos/intrebari-frecvente/rompos/nu-pot-conecta-echipamentul-gnss-la-rompos-care-pot-fi-problemele) la internet(NTRIP)** către ***serverele***-[**ROMPOS**](https://www.rompos.ro/index.php/download); 
 Cel mai adesea dispozitivul dvs/clientul si serverul-NTRIP al ROMPOS/ROMGEO-al-ANCPI discuta/se inteleg folosind protocolul [RTCM](https://rompos.ro/#)!
 -Aplicați transformarea în Stereo70 folosind instrumentele oficiale [ROMGEO](https://rompos.ro/index.php/despre-rompos/intrebari-frecvente/rompos).
  Exista si  aplicații software gratuite pt Android/iOS care pot gestiona fluxuri de date [NTRIP/RTK](https://rompos.ro/index.php/despre-rompos/intrebari-frecvente/rompos/nu-pot-obtine-solutii-fixe-care-pot-fi-motivele).
