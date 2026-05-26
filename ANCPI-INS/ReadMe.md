@@ -51,6 +51,8 @@ Surse-[documentare](http://statistici.insse.ro/shop/index.jsp?page=tempo2&lang=r
 [Programul National de Cadastru si Carte Funciara](https://www.ancpi.ro/pnccf/stadiu-lucrarilor.html)<br/>
 [ONCPI-B](https://b.ancpi.ro/)<br/>
 
+[MapServer](https://geoportal.ancpi.ro/hosted_services/rest/services/PN/PN_Proiecte/MapServer/layers); [Cladiri/Imobile-REST/WMS ArcGIS](https://geoportal.ancpi.ro/portal/home/item.html?id=86067bcca88448a2bbd75aaceac2d86b)
+
 
 <hr/>
 
