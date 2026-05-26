@@ -48,11 +48,11 @@ Surse-[documentare](http://statistici.insse.ro/shop/index.jsp?page=tempo2&lang=r
 **Recomandare de lucru**
 
 Dacă doriți să faceți lucrări cu precizie ridicată (uz personal/comercial) folosind telefonul ca interfață:
-- Achiziționați o antenă GNSS RTK externă de tip "Rover" (există variante accesibile, compacte, RTK L1/L2/L5).
-- Conectați antena externă la telefon prin Bluetooth.
-- Folosiți telefonul doar pentru a rula aplicația de colectare a datelor și pentru a asigura conexiunea la internet (NTRIP) către serverele ROMPOS.
-- Aplicați transformarea în Stereo70 folosind instrumentele oficiale ROMGEO.
-  Exista si  aplicații software gratuite pt Android/iOS care pot gestiona fluxuri de date NTRIP/RTK.
+-Achiziționați o antenă GNSS RTK externă de tip "Rover" (există variante accesibile, compacte, RTK L1/L2/L5).
+-Conectați antena externă la telefon prin Bluetooth.
+-Folosiți telefonul doar pentru a rula aplicația de colectare a datelor și pentru a asigura conexiunea la internet (NTRIP) către serverele ROMPOS.
+-Aplicați transformarea în Stereo70 folosind instrumentele oficiale ROMGEO.
+ Exista si  aplicații software gratuite pt Android/iOS care pot gestiona fluxuri de date NTRIP/RTK.
 
   Oricum ca SA PUTETI ACCESA și CONFIGURA va trebui probabil un cont pe platforma ePay a ANCPI.
 </pre><br/>
