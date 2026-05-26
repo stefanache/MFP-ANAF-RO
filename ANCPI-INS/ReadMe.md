@@ -55,7 +55,7 @@ Surse-[documentare](http://statistici.insse.ro/shop/index.jsp?page=tempo2&lang=r
 
 - [GeoPortal: Cladiri/Imobile-REST/WMS ArcGIS](https://geoportal.ancpi.ro/portal/home/item.html?id=86067bcca88448a2bbd75aaceac2d86b); 
 
-- [ROMPOS](https://rompos.ro/index.php/en/component/k2/itemlist/category/25-important) - RomGEO 25.09 reprezintă o actualizare metodologică semnificativă în generarea și distribuirea suprafeței de referință a cvasigeoidului.:<br/> [ROMGEO](www.ancpi.ro/ocpi/gl/wp-content/punctevedere/216.1717_2025.pdf) al [CN de Cartografie](https://github.com/orgs/cartografie-ro/repositories)- a se vedea [Docs](https://github.com/cartografie-ro/romgeo-api/blob/main/docs/romgeo_api.rst); <br/>[RomGEO Coordinates Transform-API](https://api.romgeo.ro/api/v1/)-[Guide](https://api.romgeo.ro/api/v1/help_en.html);[ROMGEO-Demo](https://api.romgeo.ro/api/v1/demo.html)
+- [ROMPOS](https://rompos.ro/index.php/en/component/k2/itemlist/category/25-important) - [RomGEO 25.09](https://github.com/cartografie-ro/romgeo-table-convert-gui/releases/tag/v1.0.2.47) reprezintă o actualizare metodologică semnificativă în generarea și distribuirea suprafeței de referință a cvasigeoidului:<br/> [ROMGEO](www.ancpi.ro/ocpi/gl/wp-content/punctevedere/216.1717_2025.pdf) al [CN de Cartografie](https://github.com/orgs/cartografie-ro/repositories)- a se vedea [Docs](https://github.com/cartografie-ro/romgeo-api/blob/main/docs/romgeo_api.rst); <br/>[RomGEO Coordinates Transform-API](https://api.romgeo.ro/api/v1/)-[Guide](https://api.romgeo.ro/api/v1/help_en.html);[ROMGEO-Demo](https://api.romgeo.ro/api/v1/demo.html)
 
 
 <hr/>
