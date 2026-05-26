@@ -42,6 +42,13 @@ Surse-[documentare](http://statistici.insse.ro/shop/index.jsp?page=tempo2&lang=r
 
 [***CNC***](https://github.com/cartografie-ro) = ***Centrul Naţional de Cartografie***(***CNC***) este o instituţie-publica(***IP***) cu personalitate-juridică(**PJ**) în ***subordinea*** **ANCPI**(Agenţiei Naţionale de Cadastru şi Publicitate Imobiliară)
 
+[**ROMPOS** - ***RTK*** (2025)](https://cartografie.ro/index.php/ro/noutati/stiri) - este o infrastructură [geodezică](https://rompos.ro/) de interes național(RO), esențială pentru:
+
+- cadastru și intabulare,;
+- proiectare și execuție de lucrări,;
+- infrastructură și utilități,
+- aplicații GIS și monitorizare teritorială.
+
 [Aplicatie vizualizare Imobile](https://geoportal.ancpi.ro/imobile.html)<br/>
 [Seturi de date GIS - vectoriale](https://geo-spatial.org/vechi/download/romania-seturi-vectoriale); [Geo-Spatial(vechi)](https://geo-spatial.org/vechi/tutoriale/crearea-unei-harti-in-qgis)<br/>
 [INIS viewer](https://geoportal.ancpi.ro/instructiune_inis_viewer_v1.pdf)<br/>
