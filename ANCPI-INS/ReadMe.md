@@ -160,10 +160,8 @@ Instrucțiuni de utilizare:
 Copiază codul ***HTML/JS*** de mai jos.
 Salvează-l într-un fișier numit **index.html**.
 Deschide fișierul direct în orice browser web(Dublu-click).
-
 <code>
 
-html
 <!DOCTYPE html>
 <html lang="ro">
 <head>
