@@ -88,7 +88,7 @@ esențială pentru:
 - [Cartografie-ro](https://github.com/cartografie-ro/romgeo-table-convert-gui/releases/tag/v1.0.2.47)/[ROMPOS](https://rompos.ro/index.php/en/component/k2/itemlist/category/25-important) - [RomGEO 25.09](https://github.com/cartografie-ro/romgeo-table-convert-gui/releases/tag/v1.0.2.47) reprezintă o actualizare metodologică semnificativă în generarea și distribuirea suprafeței de referință a cvasigeoidului:<br/> [ROMGEO](www.ancpi.ro/ocpi/gl/wp-content/punctevedere/216.1717_2025.pdf) al [CN de Cartografie](https://github.com/orgs/cartografie-ro/repositories)- a se vedea [Docs](https://github.com/cartografie-ro/romgeo-api/blob/main/docs/romgeo_api.rst); <br/>[RomGEO Coordinates Transform-API](https://api.romgeo.ro/api/v1/)-[Guide](https://api.romgeo.ro/api/v1/help_en.html);[ROMGEO-Demo](https://api.romgeo.ro/api/v1/demo.html)
 
 - [limite-administrative georafice UAT-uri](https://geo-spatial.org/descarcare/date/administrative-boundaries/)<br/>
- Comunitatea geo-spatial.org ([Limite-Administrative](https://geo-spatial.org/descarcare/date/administrative-boundaries/)) preia periodic aceste date oficiale de la ANCPI și <br/>
+ Comunitatea geo-spatial.org ([Limite-Administrative](https://geo-spatial.org/descarcare/date/administrative-boundaries/)) preia periodic aceste date oficiale de la [ANCPI](https://geoportal.ancpi.ro/portal/apps/webappviewer/index.html?id=faeba2d173374445b1f13512bd477bb2) și <br/>
  le pune la dispoziție curățate, în formate comode precum GeoJSON, KML sau GeoPackage, <br/>
  perfecte pentru încărcat direct în Leaflet sau OpenLayers
 - [Nomenclatorul Stradal (RENNS)](https://www.ancpi.ro/download/) - . Portalul pune la dispoziție date despre străzi și numere poștale.
