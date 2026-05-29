@@ -91,7 +91,7 @@ esențială pentru:
  Comunitatea geo-spatial.org ([Limite-Administrative](https://geo-spatial.org/descarcare/date/administrative-boundaries/)) preia periodic aceste date oficiale de la [ANCPI](https://geoportal.ancpi.ro/portal/apps/webappviewer/index.html?id=faeba2d173374445b1f13512bd477bb2) și <br/>
  le pune la [dispoziție](https://www.ancpi.ro/download/) curățate, în formate comode precum GeoJSON, KML sau GeoPackage, <br/>
  perfecte pentru încărcat direct în Leaflet sau OpenLayers
-- [Nomenclatorul Stradal (RENNS)](https://www.ancpi.ro/download/) - Portalul pune la dispoziție date despre străzi și numere poștale.
+- [Nomenclatorul Stradal ([RENNS](https://www.ancpi.ro/renns/))](https://www.ancpi.ro/download/) - Portalul pune la dispoziție date despre străzi și numere poștale.
 <hr/>
 <pre>
 Pentru hărți online din România, serviciile oficiale securizate de tip 
@@ -126,7 +126,7 @@ sunt structurate pe categorii.
 
     - Unități Administrative (UAT-uri): Găsești capabilitățile WFS și directoarele de hărți administrative în [Directorul ArcGIS REST ANCPI](https://geoportal.ancpi.ro/arcgis/rest/services/ANCPI).
     - Rețeaua de Transport (TN): https://ancpi.ro?
-    - Hidrografie (HY): https://geoportal.ancpi.ro/arcgis/rest/services/HY
+    - Hidrografie ([HY](https://geoportal.ancpi.ro/arcgis/rest/services/HY)): https://geoportal.ancpi.ro/arcgis/rest/services/HY
  
  ⚠️ <u>Reguli Critice de Integrare în Cod</u> (OpenLayers / Leaflet)Sistemul de Coordonate (Proiecția): 
  
@@ -138,7 +138,61 @@ sunt structurate pe categorii.
  - Eroarea de CORS (Cross-Origin Resource Sharing):
    Serverele guvernamentale blochează uneori cererile directe venite din aplicații găzduite pe localhost sau domenii nesecurizate.
    Dacă hărțile nu se încarcă în browser și primești erori în consolă, va trebui să treci cererile printr-un
-   Server Proxy(în Node.js / Python) care să adauge headerele CORS corecte.
+   Server Proxy(în Node.js / Python) care să adauge headerele CORS corecte
+
+<hr/>
+
+Rețeaua de Transport (TN): https://ancpi.ro? 
+
+Adresa URL menționată anterior este un endpoint general generic, adaptat pentru standardul european INSPIRE. 
+Serverele ANCPI folosesc o structură bazată pe platforma ArcGIS.
+Pentru a aduce hărțile online direct în codul tău (fără erori de structură), 
+iată link-urile explicite și complete pentru parametrii din OpenLayers, Leaflet sau CesiumJS:
+
+1. Rețeaua de Transport (TN - Transport Networks)
+   Acest strat conține axele de drumuri, căile ferate și infrastructura de transport din România conform directivelor INSPIRE.
+   Endpoint de bază (WMS Capabilities): https://ancpi.ro
+   Cum îl folosești explicit în Leaflet(TileLayer.WMS):
+   - URL: https://ancpi.ro
+   - Layers (Numele straturilor din interior):
+             TN.TransportNetworks.RoadTransport,
+             TN.TransportNetworks.RailTransport
+     
+2. Parcelele Cadastrale e-Terra (CP - Cadastral Parcels)
+   Cel mai căutat serviciu, care afișează geometria live a tuturor proprietăților din România înscrise în e-Terra.
+   Endpoint de bază (WMS Capabilities): https://ancpi.ro
+   Cum îl folosești explicit în OpenLayers (ol/source/ImageWMS):
+   - URL: https://ancpi.ro
+   - Layers:
+            CP.CadastralParcel (pentru conturul parcelelor) și
+            CP.CadastralBoundary (pentru limite).
+     
+3. Ortofotoplanuri Oficiale (Imagini din Satelit/Avion)
+   Spre deosebire de straturile vectoriale de mai sus, ortofotoplanul național este servit prin protocoale rapide de tip cache (WMTS sau ArcGIS REST).
+   Endpoint-ul explicit pentru OpenLayers/Leaflet (ArcGIS REST Tile): https://ancpi.ro{z}/{y}/{x}
+   (Acesta încarcă direct feliile de hartă rasterizate din proiectul național Laki, eliminând configurările complexe).
+
+🛠️ Cum se traduc aceste URL-uri în cod? (Exemplu OpenLayers)
+   Dacă folosești OpenLayers, iată structura exactă a obiectului din cod ca să înțelegi unde pui URL-ul de mai sus:
+   
+   javascript:
+<code>   
+import TileLayer from 'ol/layer/Tile';
+import TileWMS from 'ol/source/TileWMS';
+
+const stratCadastruANCPI = new TileLayer({
+  source: new TileWMS({
+    url: 'https://ancpi.ro',
+    params: {
+      'LAYERS': 'CP.CadastralParcel',
+      'TILED': true,
+      'VERSION': '1.3.0'
+    },
+    // Serverele ANCPI reproiectează automat în Web Mercator dacă îi ceri asta
+    projection: 'EPSG:3857' 
+  })
+});
+</code>
 </pre>
  <hr/>
 
