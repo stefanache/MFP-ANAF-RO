@@ -72,7 +72,7 @@ esențială pentru:
 
 [Aplicatie vizualizare Imobile](https://geoportal.ancpi.ro/imobile.html)<br/>
 [Seturi de date GIS - vectoriale](https://geo-spatial.org/vechi/download/romania-seturi-vectoriale); [Geo-Spatial(vechi)](https://geo-spatial.org/vechi/tutoriale/crearea-unei-harti-in-qgis)<br/>
-[INIS viewer](https://geoportal.ancpi.ro/instructiune_inis_viewer_v1.pdf)<br/>
+[INIS viewer](https://geoportal.ancpi.ro/instructiune_inis_viewer_v1.pdf); [INIS Viewer](https://geoportal.ancpi.ro/inis_viewer/index.html?locale=ro)<br/>
 [ANCPI-ePay](https://epay.ancpi.ro/epay//SelectCat.action?catId=1)<br/>
 [MyETerra](https://myeterra.ancpi.ro/landing) - Portalul dedicat cetățenilor și proprietarilor de Imobile pentru obținerea Gratuită a extraselor de carte-funciară(CF) și a planurilor-cadastrale(PC)<br/>
 [eTerra](https://eterra.ancpi.ro/eterra/) - eTerra(Profesioniști): Sistemul centralizat/Platforma digitala folosit[a] de notari, topografi și Instituții-publice<br/>
