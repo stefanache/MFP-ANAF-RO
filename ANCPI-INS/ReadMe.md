@@ -173,13 +173,10 @@ iată link-urile explicite și complete pentru parametrii din OpenLayers, Leafle
    (Acesta încarcă direct feliile de hartă rasterizate din proiectul național Laki, eliminând configurările complexe).
 
 🛠️ Cum se traduc aceste URL-uri în cod? (Exemplu OpenLayers)
-   Dacă folosești OpenLayers, iată structura exactă a obiectului din cod ca să înțelegi unde pui URL-ul de mai sus:
-   
-   javascript:
+   Dacă folosești OpenLayers, iată structura exactă a obiectului din cod ca să înțelegi unde pui URL-ul de mai sus:(cod javascript)
 <code>   
 import TileLayer from 'ol/layer/Tile';
 import TileWMS from 'ol/source/TileWMS';
-
 const stratCadastruANCPI = new TileLayer({
   source: new TileWMS({
     url: 'https://ancpi.ro',
