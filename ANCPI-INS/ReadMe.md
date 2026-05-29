@@ -116,15 +116,16 @@ sunt structurate pe categorii.
    Link [WMS](https://geoportal.ancpi.ro/inspireview/rest/services/CP/CP_View/MapServer/exts/InspireView/service?VERSION=1.3.0&SERVICE=wms&REQUEST=getCapabilities):
    https://geoportal.ancpi.ro/inspireview/rest/services/CP/CP_View/MapServer/exts/InspireView/service?VERSION=1.3.0&SERVICE=wms&REQUEST=getCapabilities
 
-3. Ortofotoplanuri / Imagini Satelit (WMTS / WMS)
+2. Ortofotoplanuri / Imagini Satelit (WMTS / WMS)
    Pentru mozaicul de imagini aeriene din toată țara, [ANCPI](https://geoportal.ancpi.ro/maps/rest/services/Ortofoto/Laki_2_Liv9/MapServer/WMTS?) găzduiește
    straturile pe serverul lor de hărți.
 
    - Link Director REST:
-   - Poți explora structura de rastere direct în Catalogul de Servicii Ortofoto ANCPI.
-   - Link WMTS ([Slicing rapid de tiles](https://geoportal.ancpi.ro/maps/rest/services/Ortofoto/Laki_2_Liv9/MapServer/WMTS?)): https://geoportal.ancpi.ro/maps/rest/services/Ortofoto/Laki_2_Liv9/MapServer/WMTS?
+     Poți explora structura de rastere direct în Catalogul de Servicii Ortofoto ANCPI.
+   - Link WMTS:
+     ([Slicing rapid de tiles](https://geoportal.ancpi.ro/maps/rest/services/Ortofoto/Laki_2_Liv9/MapServer/WMTS?)): https://geoportal.ancpi.ro/maps/rest/services/Ortofoto/Laki_2_Liv9/MapServer/WMTS?
  
- 5. Clădiri, Rețea de Transport și Hidrografie (WMS / WFS)
+ 3. Clădiri, Rețea de Transport și Hidrografie (WMS / WFS)
     Datele vectoriale de infrastructură terestră sunt împărțite pe directoare tematice conforme cu standardele INSPIRE:
 
     - Unități Administrative (UAT-uri):
@@ -140,9 +141,13 @@ sunt structurate pe categorii.
    va trebui să definești proiecția Stereo 70 folosind librăria [Proj4js](https://geoportal.ancpi.ro/maps/rest/services/Ortofoto/Laki_2_Liv9/MapServer/WMTS?).
   
  - Eroarea de CORS (Cross-Origin Resource Sharing):
-   Serverele guvernamentale blochează uneori cererile directe venite din aplicații găzduite pe localhost sau domenii nesecurizate.
-   Dacă hărțile nu se încarcă în browser și primești erori în consolă, va trebui să treci cererile printr-un
-   Server Proxy(în Node.js / Python) care să adauge headerele CORS corecte
+   Serverele guvernamentale blochează uneori cererile directe venite din aplicații găzduite
+      pe localhost sau
+      domenii nesecurizate.
+   Dacă hărțile nu se încarcă în browser și primești erori în consolă,
+   va trebui să treci cererile printr-un
+       Server Proxy(în Node.js / Python)
+   care să adauge headerele CORS corecte
 
 <hr/>
 
