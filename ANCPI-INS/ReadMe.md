@@ -89,9 +89,9 @@ esențială pentru:
 
 - [limite-administrative georafice UAT-uri](https://geo-spatial.org/descarcare/date/administrative-boundaries/)<br/>
  Comunitatea geo-spatial.org ([Limite-Administrative](https://geo-spatial.org/descarcare/date/administrative-boundaries/)) preia periodic aceste date oficiale de la [ANCPI](https://geoportal.ancpi.ro/portal/apps/webappviewer/index.html?id=faeba2d173374445b1f13512bd477bb2) și <br/>
- le pune la dispoziție curățate, în formate comode precum GeoJSON, KML sau GeoPackage, <br/>
+ le pune la [dispoziție](https://www.ancpi.ro/download/) curățate, în formate comode precum GeoJSON, KML sau GeoPackage, <br/>
  perfecte pentru încărcat direct în Leaflet sau OpenLayers
-- [Nomenclatorul Stradal (RENNS)](https://www.ancpi.ro/download/) - . Portalul pune la dispoziție date despre străzi și numere poștale.
+- [Nomenclatorul Stradal (RENNS)](https://www.ancpi.ro/download/) - Portalul pune la dispoziție date despre străzi și numere poștale.
 
 <hr/>
 
