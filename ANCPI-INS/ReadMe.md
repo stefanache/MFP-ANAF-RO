@@ -96,9 +96,9 @@ esențială pentru:
 <pre>
 Pentru hărți online din România, serviciile oficiale securizate de tip 
  
-   WMS (Web Map Service), 
+   WMS  (Web Map Service), 
    WMTS (Tile Service) și 
-   WFS (Feature Service) 
+   WFS  (Feature Service) 
  
 se obțin direct din infrastructura [Geoportal ANCPI](https://geoportal.ancpi.ro/). 
  
