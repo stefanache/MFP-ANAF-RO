@@ -92,8 +92,55 @@ esențială pentru:
  le pune la [dispoziție](https://www.ancpi.ro/download/) curățate, în formate comode precum GeoJSON, KML sau GeoPackage, <br/>
  perfecte pentru încărcat direct în Leaflet sau OpenLayers
 - [Nomenclatorul Stradal (RENNS)](https://www.ancpi.ro/download/) - Portalul pune la dispoziție date despre străzi și numere poștale.
-
 <hr/>
+<pre>
+Pentru hărți online din România, serviciile oficiale securizate de tip 
+ 
+   WMS (Web Map Service), 
+   WMTS (Tile Service) și 
+   WFS (Feature Service) 
+ 
+se obțin direct din infrastructura [Geoportal ANCPI](https://geoportal.ancpi.ro/). 
+ 
+Acestea sunt mapate pe standardele europene INSPIRE.
+Adresele URL de tip "Capabilities" (pe care le copiezi și le pui în codul tău 
+   Leaflet, 
+   OpenLayers sau 
+   Cesium) 
+sunt structurate pe categorii.
+
+1. Parcele Cadastre e-Terra (WMS)
+   Dacă vrei să aduci în aplicația ta geometria parcelelor,
+   folosește serviciul oficial de vizualizare ([Cadastral Parcels - CP](https://inspire-geoportal.ec.europa.eu/srv/api/records/%7B9D9A9AEE-1AAB-4DEA-A3AF-05B9CAEF1A9B%7D)):
+
+   Link WMS: https://geoportal.ancpi.ro/inspireview/rest/services/CP/CP_View/MapServer/exts/InspireView/service?VERSION=1.3.0&SERVICE=wms&REQUEST=getCapabilities
+
+2. Ortofotoplanuri / Imagini Satelit (WMTS / WMS)
+   Pentru mozaicul de imagini aeriene din toată țara, [ANCPI](https://geoportal.ancpi.ro/maps/rest/services/Ortofoto/Laki_2_Liv9/MapServer/WMTS?) găzduiește straturile pe serverul lor de hărți.
+
+   - Link Director REST: Poți explora structura de rastere direct în Catalogul de Servicii Ortofoto ANCPI.
+   - Link WMTS ([Slicing rapid de tiles](https://geoportal.ancpi.ro/maps/rest/services/Ortofoto/Laki_2_Liv9/MapServer/WMTS?)): https://geoportal.ancpi.ro/maps/rest/services/Ortofoto/Laki_2_Liv9/MapServer/WMTS?
+ 
+ 3. Clădiri, Rețea de Transport și Hidrografie (WMS / WFS)
+    Datele vectoriale de infrastructură terestră sunt împărțite pe directoare tematice conforme cu standardele INSPIRE:
+
+    - Unități Administrative (UAT-uri): Găsești capabilitățile WFS și directoarele de hărți administrative în [Directorul ArcGIS REST ANCPI](https://geoportal.ancpi.ro/arcgis/rest/services/ANCPI).
+    - Rețeaua de Transport (TN): https://ancpi.ro?
+    - Hidrografie (HY): https://geoportal.ancpi.ro/arcgis/rest/services/HY
+ 
+ ⚠️ <u>Reguli Critice de Integrare în Cod</u> (OpenLayers / Leaflet)Sistemul de Coordonate (Proiecția): 
+ 
+ - Serviciile ANCPI rulează nativ în EPSG:3844 (Stereo 70).
+   Majoritatea serviciilor WMS oferite de ei suportă prin reproiectare și EPSG:3857
+   (Web Mercator, cel folosit de Google Maps/Leaflet standard), însă pentru acuratețe milimetrică în OpenLayers,
+   va trebui să definești proiecția Stereo 70 folosind librăria [Proj4js](https://geoportal.ancpi.ro/maps/rest/services/Ortofoto/Laki_2_Liv9/MapServer/WMTS?).
+  
+ - Eroarea de CORS (Cross-Origin Resource Sharing):
+   Serverele guvernamentale blochează uneori cererile directe venite din aplicații găzduite pe localhost sau domenii nesecurizate.
+   Dacă hărțile nu se încarcă în browser și primești erori în consolă, va trebui să treci cererile printr-un
+   Server Proxy(în Node.js / Python) care să adauge headerele CORS corecte.
+</pre>
+ <hr/>
 
 [QGIS - instalare](https://www.google.com/search?q=QGIS+instalare&sca_esv=c87df53aa21c795b&sxsrf=ANbL-n4QE-oMn7-M5ACZR-108XEldTiufw%3A1779602977494&ei=IZYSao3wHcWVi-gP7sWYgQw&biw=1920&bih=961&ved=0ahUKEwjNhMLaodGUAxXFygIHHe4iJsAQ4dUDCBA&uact=5&oq=QGIS+instalare&gs_lp=Egxnd3Mtd2l6LXNlcnAiDlFHSVMgaW5zdGFsYXJlMgYQABgWGB4yCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogQyBRAAGO8FSO0oUMgMWLQmcAF4AJABAJgBa6AB9weqAQQxMC4xuAEDyAEA-AEBmAIMoAKQCcICCBAAGO8FGLADwgILEAAYgAQYogQYsAPCAgQQIxgnwgIKECMYgAQYigUYJ8ICChAAGIAEGIoFGEPCAgUQABiABMICCBAAGIAEGMsBwgIHEAAYgAQYDcICBhAAGB4YDZgDAIgGAZAGBZIHAzMuOaAH3DeyBwMyLjm4B4gJwgcHMC4xLjMuOMgHeoAIAQ&sclient=gws-wiz-serp): [QGIS - manual/ghid](https://qgis.org/resources/installation-guide/); [QGIS - repository/download](https://qgis.org/download/); QGIS are nevoie de baze de date(BD) spațiale(precum [PostGIS](https://qtibia.ro/instaleaza-qgis-profesionist/)); [QGIS-instructiuni instalare pe Ubuntu/Linux](https://qgis.org/resources/installation-guide/#linux); [**QGIS**](https://wiki.tuflow.com/QGIS_Installation_with_OSGeo4W) are un - Online ([OSGeo4W](https://trac.osgeo.org/osgeo4w/)) [installer](https://www.google.com/search?q=OSGeo4W+installer&oq=OSGeo4W+installer&gs_lcrp=EgZjaHJvbWUyCwgAEEUYExg5GIAEMgkIARAAGBMYgAQyCQgCEAAYExiABDIJCAMQABgTGIAEMgkIBBAAGBMYgAQyCggFEAAYExgWGB4yCggGEAAYExgWGB4yCggHEAAYExgWGB4yCggIEAAYExgWGB4yCggJEAAYExgWGB7SAQk1Mjg0ajBqMTWoAgiwAgHxBUJS2-3b_OtQ&sourceid=chrome&ie=UTF-8);
 
