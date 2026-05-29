@@ -147,7 +147,145 @@ sunt structurate pe categorii.
    Dacă hărțile nu se încarcă în browser și primești erori în consolă,
    va trebui să treci cererile printr-un
        Server Proxy(în Node.js / Python)
-   care să adauge headerele CORS corecte
+   care să adauge headerele CORS corecte:
+
+Iată un fișier HTML complet, gata de utilizare, bazat pe OpenLayers. 
+Am ales OpenLayers deoarece gestionează mult mai stabil straturile WMS complexe și reproiectările native de pe serverele ANCPI.
+Codul încarcă harta de bază OpenStreetMap, peste care aplică două straturi oficiale ANCPI: 
+  Ortofotoplanul național și 
+  Parcelele Cadastrale live (active când faci zoom pe o localitate).
+
+Instrucțiuni de utilizare:
+
+Copiază codul ***HTML/JS*** de mai jos.
+Salvează-l într-un fișier numit **index.html**.
+Deschide fișierul direct în orice browser web(Dublu-click).
+
+<code>
+
+html
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hartă Interactivă ANCPI - OpenLayers</title>
+    
+    <!-- Librăria și Stilurile OpenLayers v8.2.0 -->
+    <link rel="stylesheet" href="https://jsdelivr.net">
+    <script src="https://jsdelivr.net"></script>
+
+    <style>
+        body, html {
+            margin: 0;
+            padding: 0;
+            width: 100%;
+            height: 100%;
+            font-family: sans-serif;
+        }
+        #map {
+            width: 100%;
+            height: 100vh;
+        }
+        .panou-control {
+            position: absolute;
+            top: 10px;
+            left: 50px;
+            background: rgba(255, 255, 255, 0.9);
+            padding: 10px;
+            border-radius: 4px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.3);
+            z-index: 1000;
+        }
+        .panou-control h3 {
+            margin: 0 0 8px 0;
+            font-size: 14px;
+        }
+        .optiune {
+            margin-bottom: 5px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="panou-control">
+        <h3>Straturi ANCPI</h3>
+        <div class="optiune">
+            <input type="checkbox" id="chk-ortofoto" checked>
+            <label for="chk-ortofoto">Ortofotoplan Național</label>
+        </div>
+        <div class="optiune">
+            <input type="checkbox" id="chk-cadastru" checked>
+            <label for="chk-cadastru">Parcele Cadastrale (Zoom In)</label>
+        </div>
+    </div>
+
+    <div id="map"></div>
+
+    <script>
+        // 1. Stratul de bază OpenStreetMap
+        const osmLayer = new ol.layer.Tile({
+            source: new ol.source.OSM()
+        });
+
+        // 2. Stratul ANCPI: Ortofotoplan (servit ca Tile ArcGIS Cache)
+        const ortofotoLayer = new ol.layer.Tile({
+            visible: true,
+            source: new ol.source.XYZ({
+                url: 'https://ancpi.ro{z}/{y}/{x}',
+                maxZoom: 19
+            })
+        });
+
+        // 3. Stratul ANCPI: Cadastru WMS (Parcele active la zoom mare)
+        const cadastruLayer = new ol.layer.Tile({
+            visible: true,
+            minZoom: 14, // Parcelele se încarcă doar de la zoom 14 în sus pentru a nu bloca serverul
+            source: new ol.source.TileWMS({
+                url: 'https://ancpi.ro',
+                params: {
+                    'LAYERS': 'CP.CadastralParcel',
+                    'TILED': true,
+                    'VERSION': '1.3.0',
+                    'FORMAT': 'image/png'
+                },
+                crossOrigin: 'anonymous' // Previne anumite blocaje CORS în browser
+            })
+        });
+
+        // 4. Inițializare Hartă (Centrată implicit pe România)
+        const map = new ol.Map({
+            target: 'map',
+            layers: [osmLayer, ortofotoLayer, cadastruLayer],
+            view: new ol.View({
+                center: ol.proj.fromLonLat([24.9668, 45.9432]), // Coordonate Geografice RO
+                zoom: 7,
+                maxZoom: 19
+            })
+        });
+
+        // 5. Control comutare vizibilitate straturi din interfață
+        document.getElementById('chk-ortofoto').addEventListener('change', function(e) {
+            ortofotoLayer.setVisible(e.target.checked);
+        });
+
+        document.getElementById('chk-cadastru').addEventListener('change', function(e) {
+            cadastruLayer.setVisible(e.target.checked);
+        });
+    </script>
+</body>
+</html>
+
+</code>
+
+De reținut la rulare:
+
+- Zoom obligatoriu: Liniile de cadastru (parcelele) vor apărea pe hartă doar după ce faci zoom-in puternic pe o zonă(localitate/stradă).
+  Am setat o restricție de zoom (minZoom: 14) deoarece serverul ANCPI respinge cererile la nivel macro pentru a preveni suprasolicitarea.
+- Securitate (CORS): Dacă rulezi fișierul local (file://), straturile ar trebui să se încarce normal în versiunile recente de Chrome/Edge/Firefox.
+  Dacă observi că unele linii din satelit lipsesc, dă un click dreapta în pagină -> Inspect (Inspectează) -> Consola și verifică dacă
+  serverul guvernamental returnează vreo eroare de acces.
+
 
 <hr/>
 
