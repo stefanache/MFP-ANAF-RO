@@ -826,10 +826,19 @@ Conform documentatiei [legale](https://www.ziuacargo.ro/stiri/proiect-anaf-proce
  ## 4. [**Declaratii; Impozitul pe Venit ori pe Profit, TVA, Accize,...**](https://static.anaf.ro/static/10/Anaf/Contribuabili/scurt_ghid.htm)
 <details><summary>click pt a citi despre <b>Declaratiile-ANAF</b></summary>
 
+<br>
+
+Sunt mai multe tipuri de raportari frecvente/periodice catre diverse institutii ale statului(principala fiind ANAF)
+
+Principala raportare a unei intreprinteri este cea Financioar-Contabila:
+
 <br/>
 
 - [Ghid Documente Financiar-Contabile_2019](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/GhidDocumenteFinanciarContabile_2019.pdf)
 - [OMFP_1802_2014](https://static.anaf.ro/static/10/Anaf/legislatie/OMFP_1802_2014.pdf)
+
+
+Aici nu ne vom referi la acest tip de declarare ci la [Declaratiile catre ANAF](https://www.anaf.ro/anaf/internet/ANAF/servicii_online/declaratii_electronice/descarcare_declaratii/) conditionate de o sema intreaga de factori(si deci ... nu neaparat periodice si nu neaparat obligatorii dar de regula electronice prin faptul ca documentele au suport electronic iar depunerea poate fi facuta online).
 
 Cateva exemple de astfel de declaratii gasiti si pe [github](https://github.com/IncrementalCommunity/declaratii-anaf/tree/master/examples). O prima observatie ar fi ca in fisierul PDF avem formularul necompletat iar datele sunt separat stocate intr-un fisier xml asociat.La final putei obtine un fisier cuompletat cu datele aferente.
 
