@@ -1,6 +1,6 @@
 ***[Atentie](https://code.visualstudio.com/docs/sourcecontrol/github)***: 
       
-Acest "- [**github**](https://www.bnr.ro/nbrfxrates.xml) [-](https://www.bnr.ro/nbrfxrates10days.xml)[*repository*/*depozit*]" [**NU ESTE UNUL OFICIAL**](https://doc.iapp.ro/swagger) dar poate constitui(daca doriti) un [instrument](https://mfinante.gov.ro/web/efactura/aplicatii-web-ro-efactura)
+Acest "- [**github**] [-](https://www.bnr.ro/nbrfxrates10days.xml)[*repository*/*depozit*](https://www.bnr.ro/nbrfxrates.xml)" [**NU ESTE UNUL OFICIAL**](https://doc.iapp.ro/swagger) dar poate constitui(daca doriti) un [instrument](https://mfinante.gov.ro/web/efactura/aplicatii-web-ro-efactura)
 /accelerator util de invatare/cercetare/explorare(un fel de... 
                        ["Fiscalitatea/Informatica or Programarea-povestita"](https://iapp.ro/blog/PHP%20API%20ANAF%20SPV)!) 
 care ... [**vine**](https://doc.inap.ro/swagger)(sau [*NU*](https://www.bnr.ro/files/xml/years/nbrfxrates2025.xml)!:) in  sprijinul  activitatii dvs. de [digitalizare](https://github.com/stefanache/MFP-ANAF-RO/tree/main/Swagger_OpenAPI_eFactura_SPV) curenta!
@@ -9,7 +9,7 @@ Sper ca aceast[a/e] documentatie/notite de [analiza](https://sites.google.com/up
 (aceasta se adreseaza tuturor factorilor implicati/angajati in acest efort comun de **eGuvernare**)
 
 - [cursuri valutare]https://www.anaf.ro/anaf/internet/ANAF/asistenta_contribuabili/declararea_obligatiilor_fiscale/cursuri_valutare)
-- 
+
 <hr/>
 
 Hit star ⭐ if you like this repo!!!    or maybe ...
