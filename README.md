@@ -823,7 +823,7 @@ Conform documentatiei [legale](https://www.ziuacargo.ro/stiri/proiect-anaf-proce
 
 </details>
 
- ## 4. [**Declaratii; Impozitul pe Venit ori pe Profit, TVA, Accize,...**](https://static.anaf.ro/static/10/Anaf/Contribuabili/scurt_ghid.htm)
+ ## 4. [**Alte-Declaratii; Impozitul pe Venit ori pe Profit, TVA, Accize,...**](https://static.anaf.ro/static/10/Anaf/Contribuabili/scurt_ghid.htm)
 <details><summary>click pt a citi despre <b>Declaratiile-ANAF</b></summary>
 
 <br>
