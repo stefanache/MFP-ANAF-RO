@@ -8,7 +8,7 @@ care ... [**vine**](https://doc.inap.ro/swagger)(sau [*NU*](https://www.bnr.ro/f
 Sper ca aceast[a/e] documentatie/notite de [analiza](https://sites.google.com/upg-ploiesti.ro/resurse-se/alte-resurse/surse-de-date) [cvasi] - [tehnica](https://startco.ro/blog/ghid-deschidere-cont-spv/)  constituie macar o sursa de [inspiratie](https://www.gestiune-magazin.ro/cum-configurezi-un-certificat-spv-care-este-instalat-pe-alt-calculator/);
 (aceasta se adreseaza tuturor factorilor implicati/angajati in acest efort comun de **eGuvernare**)
 
-- [Ghiduri-ANAF](https://www.anaf.ro/anaf/internet/ANAF/asistenta_contribuabili/servicii_oferite_contribuabililor/ghiduri_curente/); [Asistent Virtual ANAF: ANA](https://www.anaf.ro/anaf/internet/ANAF/contact/call_center); [Ghid_ANAF](https://teaha.ro/en/2021/10/21/guidance-procedure-and-assistance-provided-by-anaf/);  [FiscalX](https://fiscalx.ro/)
+- [Ghiduri-ANAF](https://www.anaf.ro/anaf/internet/ANAF/asistenta_contribuabili/servicii_oferite_contribuabililor/ghiduri_curente/); [Asistent Virtual ANAF: ANA](https://www.anaf.ro/anaf/internet/ANAF/contact/call_center); [Ghid_ANAF](https://teaha.ro/en/2021/10/21/guidance-procedure-and-assistance-provided-by-anaf/);  [FiscalX](https://fiscalx.ro/); [Asistentul-Guvernamental: ION](https://www.youtube.com/watch?v=j8QWhvRe5I0)
 - [cursuri_valutare - arhiva ANAF](https://www.anaf.ro/anaf/internet/ANAF/asistenta_contribuabili/declararea_obligatiilor_fiscale/cursuri_valutare)
   
 
