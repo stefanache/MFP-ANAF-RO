@@ -830,9 +830,7 @@ Conform documentatiei [legale](https://www.ziuacargo.ro/stiri/proiect-anaf-proce
 
 Sunt mai multe tipuri de raportari frecvente/periodice catre diverse institutii ale statului(principala fiind ANAF)
 
-Principala raportare a unei intreprinteri este cea Financioar-Contabila:
-
-<br/>
+Principala raportare(periodica) a unei intreprinteri este desigur cea Financiar-Contabila:
 
 - [Ghid Documente Financiar-Contabile_2019](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/GhidDocumenteFinanciarContabile_2019.pdf)
 - [OMFP_1802_2014](https://static.anaf.ro/static/10/Anaf/legislatie/OMFP_1802_2014.pdf)
