@@ -829,6 +829,7 @@ Conform documentatiei [legale](https://www.ziuacargo.ro/stiri/proiect-anaf-proce
 <br/>
 
 - [Ghid Documente Financiar-Contabile_2019](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/GhidDocumenteFinanciarContabile_2019.pdf)
+- [OMFP_1802_2014](https://static.anaf.ro/static/10/Anaf/legislatie/OMFP_1802_2014.pdf)
 
 Cateva exemple de astfel de declaratii gasiti si pe [github](https://github.com/IncrementalCommunity/declaratii-anaf/tree/master/examples). O prima observatie ar fi ca in fisierul PDF avem formularul necompletat iar datele sunt separat stocate intr-un fisier xml asociat.La final putei obtine un fisier cuompletat cu datele aferente.
 
