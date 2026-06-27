@@ -828,7 +828,7 @@ Conform documentatiei [legale](https://www.ziuacargo.ro/stiri/proiect-anaf-proce
 
 <br>
 
-Sunt mai multe tipuri de raportari frecvente/periodice catre diverse institutii ale statului(principala fiind ANAF)
+Sunt mai multe tipuri de raportari [frecvente/periodice](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/Calendar/Calendar_obligatii_fiscale_2025.htm) catre diverse institutii ale statului(principala fiind ANAF)
 
 Desigur, principala raportare(periodica) a unei intreprinteri este/ramane cea Financiar-Contabila:
 
@@ -836,7 +836,7 @@ Desigur, principala raportare(periodica) a unei intreprinteri este/ramane cea Fi
 - [OMFP_1802_2014](https://static.anaf.ro/static/10/Anaf/legislatie/OMFP_1802_2014.pdf)
 
 
-Aici nu ne vom referi la acest tip de declarare/declaratii ci la [Declaratiile elctronice catre ANAF](https://www.anaf.ro/anaf/internet/ANAF/servicii_online/declaratii_electronice/descarcare_declaratii/) conditionate de o seama intreaga de factori/conditii(si deci ... nu neaparat periodice si nu neaparat obligatorii pt orice PJ/PF, dar care de regula... sunt electronice prin faptul ca documentele sunt predate pe suport/in format electronic iar depunerea acestora poate fi facuta de regula online).
+Aici nu ne vom referi la acest tip de declarare/declaratii ci la [Declaratiile elctronice catre ANAF](https://www.anaf.ro/anaf/internet/ANAF/servicii_online/declaratii_electronice/descarcare_declaratii/) conditionate de o seama intreaga de factori/conditii(si deci ... nu neaparat periodice si nu neaparat obligatorii pt orice PJ/PF, dar care de regula... sunt [electronice](https://www.anaf.ro/anaf/internet/ANAF/servicii_online/declaratii_electronice/descarcare_declaratii/) prin faptul ca documentele sunt predate pe suport/in format electronic iar depunerea acestor [formulare](https://www.anaf.ro/anaf/internet/ANAF/asistenta_contribuabili/declararea_obligatiilor_fiscale/toate_formularele/!ut/p/a1/jZHBDoIwDIafxQeAVgyIR9TgMBJFJOIuZuhAEtzIJBJ9eoc3D6JNL02-P_3_FiikQAW7lwVrSilY1c3UOZIhcYjlWkskEWJkT4Otvdggzm0NHHqA3ehTv8bEx2gXT2wy9hDR-aHXwF96_FIe_vK__GOBpcJZWACtWXMxSpFLSM_8dmJKNz-e-aliSh-shD3Q3n3dOXqBLu8b6AmkHReVzPRz9lOgj3swjKPOpSeykatdKp5zxZV5kbcG0rZtTSZYbioJ9TVJ0ucqjwOD-sVg8ALc2Uh_/dl5/d5/L2dBISEvZ0FBIS9nQSEh/) completate poate fi facuta de regula online).
 
 Cateva exemple de astfel de declaratii gasiti si pe [github](https://github.com/IncrementalCommunity/declaratii-anaf/tree/master/examples). O prima observatie ar fi ca in fisierul PDF avem formularul necompletat iar datele sunt separat stocate intr-un fisier xml asociat.La final putei obtine un fisier cuompletat cu datele aferente.
 
