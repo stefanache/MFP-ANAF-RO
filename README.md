@@ -8,7 +8,8 @@ care ... [**vine**](https://doc.inap.ro/swagger)(sau [*NU*](https://www.bnr.ro/f
 Sper ca aceast[a/e] documentatie/notite de [analiza](https://sites.google.com/upg-ploiesti.ro/resurse-se/alte-resurse/surse-de-date) [cvasi] - [tehnica](https://startco.ro/blog/ghid-deschidere-cont-spv/)  constituie macar o sursa de [inspiratie](https://www.gestiune-magazin.ro/cum-configurezi-un-certificat-spv-care-este-instalat-pe-alt-calculator/);
 (aceasta se adreseaza tuturor factorilor implicati/angajati in acest efort comun de **eGuvernare**)
 
-- [cursuri valutare]https://www.anaf.ro/anaf/internet/ANAF/asistenta_contribuabili/declararea_obligatiilor_fiscale/cursuri_valutare)
+- [declararea_obligatiilor_fiscale/cursuri_valutare]https://www.anaf.ro/anaf/internet/ANAF/asistenta_contribuabili/declararea_obligatiilor_fiscale/cursuri_valutare)
+  
 
 <hr/>
 
