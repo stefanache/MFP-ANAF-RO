@@ -824,7 +824,9 @@ Conform documentatiei [legale](https://www.ziuacargo.ro/stiri/proiect-anaf-proce
 </details>
 
  ## 4. [**Declaratii; Impozitul pe Venit ori pe Profit, TVA, Accize,...**](https://static.anaf.ro/static/10/Anaf/Contribuabili/scurt_ghid.htm)
-<details><summary>click pt a citi despre [<b>Declaratiile-ANAF</b>](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/GhidDocumenteFinanciarContabile_2019.pdf)</summary>
+<details><summary>click pt a citi despre <b>Declaratiile-ANAF</b></summary>
+
+- [Ghid Documente Financiar-Contabile_2019]((https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/GhidDocumenteFinanciarContabile_2019.pdf))
 
 Cateva exemple de astfel de declaratii gasiti si pe [github](https://github.com/IncrementalCommunity/declaratii-anaf/tree/master/examples). O prima observatie ar fi ca in fisierul PDF avem formularul necompletat iar datele sunt separat stocate intr-un fisier xml asociat.La final putei obtine un fisier cuompletat cu datele aferente.
 
