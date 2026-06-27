@@ -828,7 +828,7 @@ Conform documentatiei [legale](https://www.ziuacargo.ro/stiri/proiect-anaf-proce
 
 <br>
 
-Sunt mai multe tipuri de raportari [frecvente/periodice](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/Calendar/Calendar_obligatii_fiscale_2025.htm) catre diverse institutii ale statului(in special catre [ANAF](https://www.anaf.ro/anaf/internet/ANAF/asistenta_contribuabili/info_obligatii_fiscale/calendar_obligatii_fiscale/!ut/p/a1/04_Sj9CPykssy0xPLMnMz0vMAfGjzOI9DD3MPIwsjLwMPAINDAJNnTyDTN0DDAwCjIEKIvEoMDAjTr8BDuBoQEh_uH4UfiVGBBRYGhNQAPIDWAEeRxbkhkYYZHqmAwBDragw/dl5/d5/L2dBISEvZ0FBIS9nQSEh/))
+Sunt mai multe tipuri de raportari [frecvente/periodice](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/Calendar/Calendar_obligatii_fiscale_2025.htm) catre diverse institutii ale statului(in special catre [ANAF](https://www.anaf.ro/anaf/internet/ANAF/asistenta_contribuabili/info_obligatii_fiscale/calendar_obligatii_fiscale/!ut/p/a1/04_Sj9CPykssy0xPLMnMz0vMAfGjzOI9DD3MPIwsjLwMPAINDAJNnTyDTN0DDAwCjIEKIvEoMDAjTr8BDuBoQEh_uH4UfiVGBBRYGhNQAPIDWAEeRxbkhkYYZHqmAwBDragw/dl5/d5/L2dBISEvZ0FBIS9nQSEh/); din acest motiv formularele completate transmise catre aceasta autoritate a statului se numesc documente fiscale/documente de raportare/natura fiscala)
 
 Desigur, principala raportare(periodica) a unei intreprinteri este/ramane cea Financiar-Contabila:
 
