@@ -830,13 +830,13 @@ Conform documentatiei [legale](https://www.ziuacargo.ro/stiri/proiect-anaf-proce
 
 Sunt mai multe tipuri de raportari frecvente/periodice catre diverse institutii ale statului(principala fiind ANAF)
 
-Principala raportare(periodica) a unei intreprinteri este desigur cea Financiar-Contabila:
+Desigur, principala raportare(periodica) a unei intreprinteri este/ramane cea Financiar-Contabila:
 
 - [Ghid Documente Financiar-Contabile_2019](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/GhidDocumenteFinanciarContabile_2019.pdf)
 - [OMFP_1802_2014](https://static.anaf.ro/static/10/Anaf/legislatie/OMFP_1802_2014.pdf)
 
 
-Aici nu ne vom referi la acest tip de declarare ci la [Declaratiile catre ANAF](https://www.anaf.ro/anaf/internet/ANAF/servicii_online/declaratii_electronice/descarcare_declaratii/) conditionate de o sema intreaga de factori(si deci ... nu neaparat periodice si nu neaparat obligatorii dar de regula electronice prin faptul ca documentele au suport electronic iar depunerea poate fi facuta online).
+Aici nu ne vom referi la acest tip de declarare/declaratii ci la [Declaratiile elctronice catre ANAF](https://www.anaf.ro/anaf/internet/ANAF/servicii_online/declaratii_electronice/descarcare_declaratii/) conditionate de o seama intreaga de factori/conditii(si deci ... nu neaparat periodice si nu neaparat obligatorii pt orice PJ/PF, dar care de regula... sunt electronice prin faptul ca documentele sunt predate pe suport/in format electronic iar depunerea acestora poate fi facuta de regula online).
 
 Cateva exemple de astfel de declaratii gasiti si pe [github](https://github.com/IncrementalCommunity/declaratii-anaf/tree/master/examples). O prima observatie ar fi ca in fisierul PDF avem formularul necompletat iar datele sunt separat stocate intr-un fisier xml asociat.La final putei obtine un fisier cuompletat cu datele aferente.
 
