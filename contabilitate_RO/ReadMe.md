@@ -13,6 +13,8 @@
 
 [Financial-Accounting Equation and Double-Entry System](https://www.scribd.com/document/449269614/Financial-Accounting-2);
 
+[IFRS ACCOUNTING STANDARDS IN PRACTICE - Accounting for convertible notes 2024/2025](https://www.bdo.global/getmedia/65cb3c65-75c1-4893-a8d7-9f5c769ba289/IFRS-AS-IP-Convertible-Notes-2024-25.pdf)
+
 [PCG=CoA](https://assets.kpmg.com/content/dam/kpmg/ro/pdf/plan-de-conturi-2016-web.pdf); [Sanatate prin arte: PCG 2025 v1 - Download - PDF](https://sanatate-prin-arte.ro/planul-de-conturi-general/?gad_source=1&gad_campaignid=21174168694&gbraid=0AAAAApI8GfNTdIW95aJb_jF_vhMTJy9QK&gclid=CjwKCAjw14zPBhAuEiwAP3-Eb1m7cDC8soKF-1VK-FxOaWiORIsVTOGMGnN3CGHlFRxsbagKvgjkXhoCckcQAvD_BwE)<br/>
 
 [PCG](https://lteniorga.ro/wp-content/uploads/2020/03/Lectie-M2-pt-XA-si-XC-18-martie.pdf) Lectie PDF M2 pt clasa X 18-Martie; [Test evaluare Contul - PCG](https://isj.hd.edu.ro/images/Contabilitate/test_contul.pdf)<br/>
