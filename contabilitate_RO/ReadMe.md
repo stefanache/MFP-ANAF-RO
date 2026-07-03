@@ -9,7 +9,7 @@ Prezentare [PCG](https://www.scribd.com/presentation/514796967/prezentare-PCG)([
 
 [OMF 2036/2025](https://static.anaf.ro/static/10/Anaf/legislatie/OMF_2036_2025.pdf)
 
-[Standarde IFRS](https://danubius.org/contabilitate-si-raportare-financiara-care-sunt-standardele-internationale-si-de-ce-trebuie-sa-tii-cont-ca-antreprenor/); [IAS](https://www.iasplus.com/en/standards); [KPMG: IFRS Accounting Standards](chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://assets.kpmg.com/content/dam/kpmgsites/xx/pdf/ifrg/2024/isg-standard-list.pdf)
+[Standarde IFRS](https://danubius.org/contabilitate-si-raportare-financiara-care-sunt-standardele-internationale-si-de-ce-trebuie-sa-tii-cont-ca-antreprenor/); [IAS](https://www.iasplus.com/en/standards); [IAS-Plus: IAS](https://www.iasplus.com/en/standards/ias); [KPMG: IFRS Accounting Standards](chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://assets.kpmg.com/content/dam/kpmgsites/xx/pdf/ifrg/2024/isg-standard-list.pdf)
 
 [Financial-Accounting Equation and Double-Entry System](https://www.scribd.com/document/449269614/Financial-Accounting-2);
 
