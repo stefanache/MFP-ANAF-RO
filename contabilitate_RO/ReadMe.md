@@ -3,6 +3,8 @@
 
 [ANAF - Raportari anuale](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/programeutile/RAP/raportari_anuale.html)
 
+[BPMN 2.0](https://www.signavio.com/downloads/short-reads/free-bpmn-2-0-poster-2/)
+
 [Prezentare](https://www.google.com/search?q=ifrs+IAS+DR+%3D+CR+list+of+correspondances+equations&sca_esv=f6b4719bbe8f3f25&biw=1536&bih=769&sxsrf=APpeQnv-LI1nDU9qqKcWy8tiJUCZdWhrgQ%3A1783071807173&ei=P4RHasuWCpepwPAP_ue3kAE&ved=0ahUKEwiLsrONnLaVAxWXFBAIHf7zDRIQ4dUDCBA&uact=5&oq=ifrs+IAS+DR+%3D+CR+list+of+correspondances+equations&gs_lp=Egxnd3Mtd2l6LXNlcnAiMmlmcnMgSUFTIERSID0gQ1IgbGlzdCBvZiBjb3JyZXNwb25kYW5jZXMgZXF1YXRpb25zMgUQABjvBTIIEAAYgAQYogQyBRAAGO8FMggQABiABBiiBDIIEAAYiQUYogRIkVBQ_RlYmT9wAXgBkAEAmAHGAaABwA6qAQQwLjEwuAEDyAEA-AEBmAILoAKUD8ICChAAGEcY1gQYsAPCAgQQIRgVwgIGECEYFRgKmAMA4gMFEgExIECIBgGQBgiSBwUxLjguMqAHsxyyBwUwLjguMrgHkA_CBwcwLjUuNC4yyAcwgAgB&sclient=gws-wiz-serp) [PCG](https://www.scribd.com/presentation/514796967/prezentare-PCG)([Plan de Conturi General](https://www.google.com/search?q=ifrs+IAS+DR+%3D+CR+list+of+correspondances&sca_esv=f6b4719bbe8f3f25&biw=1536&bih=769&sxsrf=APpeQntdY5DRBTg3y8QvZah8m5t7OyWLzw%3A1783071795303&ei=M4RHasqMEtC5wPAPso2t2Ag&ved=0ahUKEwiK8t6HnLaVAxXQHBAIHbJGC4sQ4dUDCBA&uact=5&oq=ifrs+IAS+DR+%3D+CR+list+of+correspondances&gs_lp=Egxnd3Mtd2l6LXNlcnAiKGlmcnMgSUFTIERSID0gQ1IgbGlzdCBvZiBjb3JyZXNwb25kYW5jZXMyBxAhGAoYoAFIiTxQowRY3jpwAXgBkAEAmAHAAaABoSCqAQQwLjI0uAEDyAEA-AEBmAIZoALpIcICChAAGEcY1gQYsAPCAggQABiABBiiBMICBRAAGO8FwgIFECEYnwXCAgQQIRgVwgIFECEYoAGYAwCIBgGQBgiSBwYxLjIyLjKgB_46sgcGMC4yMi4yuAfZIcIHCDEuOC4xMy4zyAdogAgB&sclient=gws-wiz-serp))<br/>
 
 [OMF 2036/2025](https://static.anaf.ro/static/10/Anaf/legislatie/OMF_2036_2025.pdf)
