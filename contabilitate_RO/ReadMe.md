@@ -9,6 +9,8 @@
 
 [Standarde IFRS](https://danubius.org/contabilitate-si-raportare-financiara-care-sunt-standardele-internationale-si-de-ce-trebuie-sa-tii-cont-ca-antreprenor/); [wiki: List of IFRS standards](https://en.wikipedia.org/wiki/List_of_International_Financial_Reporting_Standards); [IAS](https://www.iasplus.com/en/standards); [IAS-Plus: IAS](https://www.iasplus.com/en/standards/ias); [KPMG: IFRS Accounting Standards](https://assets.kpmg.com/content/dam/kpmgsites/xx/pdf/ifrg/2024/isg-standard-list.pdf)
 
+[ESA-auditing: List of IFRS standards](https://www.esauditing.com/ifrs/list-of-ifrs-standards/);
+
 [Financial-Accounting Equation and Double-Entry System](https://www.scribd.com/document/449269614/Financial-Accounting-2);
 
 [PCG=CoA](https://assets.kpmg.com/content/dam/kpmg/ro/pdf/plan-de-conturi-2016-web.pdf); [Sanatate prin arte: PCG 2025 v1 - Download - PDF](https://sanatate-prin-arte.ro/planul-de-conturi-general/?gad_source=1&gad_campaignid=21174168694&gbraid=0AAAAApI8GfNTdIW95aJb_jF_vhMTJy9QK&gclid=CjwKCAjw14zPBhAuEiwAP3-Eb1m7cDC8soKF-1VK-FxOaWiORIsVTOGMGnN3CGHlFRxsbagKvgjkXhoCckcQAvD_BwE)<br/>
