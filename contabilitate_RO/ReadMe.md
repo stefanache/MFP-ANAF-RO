@@ -11,6 +11,8 @@
 
 [Standarde IFRS](https://danubius.org/contabilitate-si-raportare-financiara-care-sunt-standardele-internationale-si-de-ce-trebuie-sa-tii-cont-ca-antreprenor/); [wiki: List of IFRS standards](https://en.wikipedia.org/wiki/List_of_International_Financial_Reporting_Standards); [IAS](https://www.iasplus.com/en/standards); [IAS-Plus: IAS](https://www.iasplus.com/en/standards/ias); [KPMG: IFRS Accounting Standards](https://assets.kpmg.com/content/dam/kpmgsites/xx/pdf/ifrg/2024/isg-standard-list.pdf)
 
+[IFRS adoption in developing countries: the case of Romania](https://online-cig.ase.ro/jcig/art/13_2_6.pdf);
+
 [ESA-auditing: List of IFRS standards](https://www.esauditing.com/ifrs/list-of-ifrs-standards/);
 
 [Financial-Accounting Equation and Double-Entry System](https://www.scribd.com/document/449269614/Financial-Accounting-2);
@@ -20,6 +22,8 @@
 [- for e.g.: IFRS ACCOUNTING STANDARDS IN PRACTICE - Accounting for convertible notes 2024/2025](https://www.bdo.global/getmedia/65cb3c65-75c1-4893-a8d7-9f5c769ba289/IFRS-AS-IP-Convertible-Notes-2024-25.pdf)
 
 [Accounting Standards Interpretation](https://www.linkedin.com/top-content/finance/understanding-financial-statements/accounting-standards-interpretation/)
+
+[BPMN IFRS IAS](https://www.google.com/search?q=BPMN+IFRS+IAS&sa=X&sca_esv=f6b4719bbe8f3f25&sxsrf=APpeQnvmensI_U80fAAqS4E1l-kG2FJnbQ%3A1783074101476&udm=50&fbs=ABfTbFWfH4wlW6n2_hxvp9wb2ZU9vOI7RSRt7FUzXBlQT0_UgT5SPy7rpZO1forRzdUsSLjlWx4YkDAczWSNJ7sOzmkVk70MsnH38ySFQpX-E02dX1WaobZPieQ-KX-rTNK_QJtraKh9O69bTMuI_O9pzPDxZ7PHpRYF3FoMpo4nboxPkMwjucu1epCOQ3udN7rItWFycqyU9fnulC_CLTDlYOF-8suQdw&aep=1&ntc=1&ved=2ahUKEwjHvbTTpLaVAxXvIRAIHZ0vDKoQ2J8OegQIChAD&biw=1536&bih=769&dpr=1.25&mstk=AUtExfADTthKarUtnODFnSFbriND7Co_4pFm3ffX_fHFXIg9gtwCtBofhkslicxf2ZK_aBsZwyb0A4jFu1KZmt2HDxJJkY_ior1F3wMuB-E3u1BA5VrgTx_Ga4l5pJVl11xpheY2z6k1hNpUxZk36IuGgnwREiD4hlZSkoQ6PJnscj6UFg4vG-GXnpCmBssZ93wHeQyDcCwH50Awt6z80G7WkACHgShoB_OaVLNOiC8KZ55So19HXOOzASWMvh-WNZ7VBmugISb5BE2gsyc5qSAuXs6CB2uL58AOkWveFjcWzLxZclseC1KcDAYSveA2sQWCjldChqpQEyHPARjIHG3JGr6fCZxLgm-rqg&csuir=1&mtid=OI1HasfqFe2owPAPqvK7sQE)
 
 [PCG=CoA](https://assets.kpmg.com/content/dam/kpmg/ro/pdf/plan-de-conturi-2016-web.pdf); [Sanatate prin arte: PCG 2025 v1 - Download - PDF](https://sanatate-prin-arte.ro/planul-de-conturi-general/?gad_source=1&gad_campaignid=21174168694&gbraid=0AAAAApI8GfNTdIW95aJb_jF_vhMTJy9QK&gclid=CjwKCAjw14zPBhAuEiwAP3-Eb1m7cDC8soKF-1VK-FxOaWiORIsVTOGMGnN3CGHlFRxsbagKvgjkXhoCckcQAvD_BwE)<br/>
 
