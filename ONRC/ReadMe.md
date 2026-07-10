@@ -7,6 +7,8 @@ Mai intai ar trebui sa intrati pe [portalul](https://www.anaf.ro/anaf/internet/A
 
 [**Informatii Firme**](https://mfinante.gov.ro/info-pj-selectie-nume-si-judet)
 
+[Data-GOV-RO: Firme înregistrate la Registrul Comerțului până la data de 08.12.2025](https://data.gov.ro/dataset/firme-08-12-2025)
+
 Reprezinta un proiect simplu scris in Laravel, care ofera informatii despre toate firmele inregistrate in Romania(ONRC: RECOM). Nu are interfata, totul se face din cli.
 
 De ce ? Exista API web ANAF
