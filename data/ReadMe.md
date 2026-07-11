@@ -27,4 +27,6 @@ Aici sunt date de la MFP(o anumita actualizare/snapshot si anume pt data de 12.0
 [Regio-Nord - proiecte / Open-DAta](https://regionordest.ro/open-data/)
 
 [NXM - Nomenclatoare Online(a se vedea in subsolul/partea de jos a paginii!!!)](https://www.cor.nxm.ro/)
+
+[Ghiseul.RO Tip-Venit=Nomenclator-Unic](https://www.ghiseul.ro/ghiseul_admin/public/help/Index.htm?context=70)
   
