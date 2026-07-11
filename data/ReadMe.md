@@ -30,7 +30,7 @@ Aici sunt date de la MFP(o anumita actualizare/snapshot si anume pt data de 12.0
 
 [Regio-Nord - proiecte / Open-DAta](https://regionordest.ro/open-data/)
 
-[AFIR: Lista cu Grupurile de Acțiune Locală(GAL) selectate de Ministerul Agriculturii și Dezvoltării Rurale (MADR)](https://www.afir.ro/instrumente/nomenclator/lista-gal/)
+[AFIR: Lista cu Grupurile de Acțiune Locală(GAL) selectate de Ministerul Agriculturii și Dezvoltării Rurale(MADR); Implementarea Strategiilor de Dezvoltare Locală](https://www.afir.ro/instrumente/nomenclator/lista-gal/)
 
 [NXM - Nomenclatoare Online(a se vedea in subsolul/partea de jos a paginii!!!)](https://www.cor.nxm.ro/)
 
