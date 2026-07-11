@@ -1,4 +1,4 @@
-Aici sunt date de la MFP(o anumita actualizare/snapshot si anume pt data de 12.01.2024 ... pt ca ele sunt intr-o continua schimbare/modificare/metamorfoza)
+Aici sunt date de la MFP(o anumita actualizare/snapshot si anume pt data de 12.01.2024 ... pt ca ele sunt intr-o continua schimbare/modificare/metamorfoza) SI NU NUMAI...
 
 [DataGOV-RO DS via MFP: nomenclatoare geografice](https://data.gov.ro/dataset/nomenclatoaregeografice)
 
@@ -37,4 +37,6 @@ Aici sunt date de la MFP(o anumita actualizare/snapshot si anume pt data de 12.0
 [Ghiseul.RO Tip-Venit=Nomenclator-Unic](https://www.ghiseul.ro/ghiseul_admin/public/help/Index.htm?context=70)
 
 [DRPCIV - Indicatoare rutiere explicate](https://www.drpciv-romania.ro/indicatoare)
+
+[NOMENCLATOARE.RO](https://www.nomenclatoare.ro/)
   
