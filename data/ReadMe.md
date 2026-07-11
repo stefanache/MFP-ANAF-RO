@@ -10,5 +10,7 @@ Aici sunt date de la MFP(o anumita actualizare/snapshot si anume pt data de 12.0
 
 [CASMB - Nomenclatoare SIUI](https://www.casmb.ro/casmb_nomenclatoare_siui)
 
+[ANM -nomenclator medicamente](https://nomenclator.anm.ro/medicamente)
+
 [Regio-Nord - proiecte / Open-DAta](https://regionordest.ro/open-data/)
   
