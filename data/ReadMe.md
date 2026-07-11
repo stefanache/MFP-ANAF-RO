@@ -26,6 +26,8 @@ Aici sunt date de la MFP(o anumita actualizare/snapshot si anume pt data de 12.0
 
 [ANC - Autoritatea Nationala pt Calificari](https://www.anc.edu.ro/)
 
+[IM - REGES=Registrul General de Evidență a Salariaților](https://www.inspectiamuncii.ro/reges)
+
 [Regio-Nord - proiecte / Open-DAta](https://regionordest.ro/open-data/)
 
 [NXM - Nomenclatoare Online(a se vedea in subsolul/partea de jos a paginii!!!)](https://www.cor.nxm.ro/)
