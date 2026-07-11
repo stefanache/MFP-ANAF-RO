@@ -4,5 +4,7 @@ Aici sunt date de la MFP(o anumita actualizare/snapshot si anume pt data de 12.0
 
 [ANAF-nomenclatoare](https://www.anaf.ro/anaf/internet/ANAF/asistenta_contribuabili/plata_oblig_fiscale/nomenclatoare_obligatii/)
 
+[CASMB - Nomenclatoare SIUI](https://www.casmb.ro/casmb_nomenclatoare_siui)
+
 [Regio-Nord - proiecte / Open-DAta](https://regionordest.ro/open-data/)
   
