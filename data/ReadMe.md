@@ -1,6 +1,6 @@
 Aici sunt date de la MFP(o anumita actualizare/snapshot si anume pt data de 12.01.2024 ... pt ca ele sunt intr-o continua schimbare/modificare/metamorfoza) SI NU NUMAI...
 
-DataGOV - Data-Group: Nomenclatoare](https://data.gov.ro/en/group/nomenclatoare)
+[DataGOV - Data-Group: Nomenclatoare](https://data.gov.ro/en/group/nomenclatoare)
 
 [DataGOV-RO DS via MFP: nomenclatoare geografice](https://data.gov.ro/dataset/nomenclatoaregeografice)
 
