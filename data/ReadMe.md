@@ -24,7 +24,7 @@ Aici sunt date de la MFP(o anumita actualizare/snapshot si anume pt data de 12.0
 
 [MM FT&SS](https://mmuncii.gov.ro/) - [COR - codificare ocupatiilor din RO](https://cor.mmuncii.ro/public-nom)
 
-[ANC - Agentia Nationala pt Calificari](https://www.anc.edu.ro/)
+[ANC - Autoritatea Nationala pt Calificari](https://www.anc.edu.ro/)
 
 [Regio-Nord - proiecte / Open-DAta](https://regionordest.ro/open-data/)
 
