@@ -12,5 +12,7 @@ Aici sunt date de la MFP(o anumita actualizare/snapshot si anume pt data de 12.0
 
 [ANM -nomenclator medicamente](https://nomenclator.anm.ro/medicamente)
 
+[MM FT&SS](https://mmuncii.gov.ro/) - [COR - codificare ocupatiilor din RO](https://cor.mmuncii.ro/public-nom)
+
 [Regio-Nord - proiecte / Open-DAta](https://regionordest.ro/open-data/)
   
