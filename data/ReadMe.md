@@ -16,6 +16,8 @@ Aici sunt date de la MFP(o anumita actualizare/snapshot si anume pt data de 12.0
 
 [CNAS - Nomenclatoare-Generale](https://cas.cnas.ro/cashd/nomencaltoare-generale)
 
+[CNAS - CAS - Nomenclatoare PIAS](https://cas.cnas.ro/casgj/nomenclatoare-pias)
+
 [CNAS - lista de medicamente](https://cnas.ro/lista-medicamente/)
 
 [CASMB](https://www.casmb.ro/casmb_portal) - [Nomenclatoare SIUI](https://www.casmb.ro/casmb_nomenclatoare_siui)
