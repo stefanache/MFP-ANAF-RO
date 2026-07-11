@@ -21,4 +21,6 @@ Aici sunt date de la MFP(o anumita actualizare/snapshot si anume pt data de 12.0
 [MM FT&SS](https://mmuncii.gov.ro/) - [COR - codificare ocupatiilor din RO](https://cor.mmuncii.ro/public-nom)
 
 [Regio-Nord - proiecte / Open-DAta](https://regionordest.ro/open-data/)
+
+[NXM - Nomenclatoare Online(a se vedea in subsolul paginii!!!)](https://www.cor.nxm.ro/)
   
