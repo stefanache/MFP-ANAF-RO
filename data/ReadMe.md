@@ -47,4 +47,6 @@ Aici sunt date de la MFP(o anumita actualizare/snapshot si anume pt data de 12.0
 [DRPCIV - Indicatoare rutiere explicate](https://www.drpciv-romania.ro/indicatoare)
 
 [NOMENCLATOARE.RO](https://www.nomenclatoare.ro/)
+
+[ANV- Taric3 - Nomenclatoare](http://taric3.customs.ro:9080/taric/web/browsetariff_RO)
   
