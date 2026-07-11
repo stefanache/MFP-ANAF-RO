@@ -12,6 +12,8 @@ Aici sunt date de la MFP(o anumita actualizare/snapshot si anume pt data de 12.0
 
 [ANAF-nomenclatoare](https://www.anaf.ro/anaf/internet/ANAF/asistenta_contribuabili/plata_oblig_fiscale/nomenclatoare_obligatii/)
 
+[CNAS - Nomenclatoare-Generale](https://cas.cnas.ro/cashd/nomencaltoare-generale)
+
 [CNAS - lista de medicamente](https://cnas.ro/lista-medicamente/)
 
 [CASMB](https://www.casmb.ro/casmb_portal) - [Nomenclatoare SIUI](https://www.casmb.ro/casmb_nomenclatoare_siui)
