@@ -2,6 +2,8 @@ Aici sunt date de la MFP(o anumita actualizare/snapshot si anume pt data de 12.0
 
 [DataGOV-RO DS via MFP: nomenclatoare geografice](https://data.gov.ro/dataset/nomenclatoaregeografice)
 
+[ANCPI - RENNS=Registrul Electronic Național al Nomenclaturii Stradale](https://renns.ancpi.ro/)
+
 [MFP - nomenclatoare geografice](https://mfinante.gov.ro/nomenclatoare-geografice-mfp)
 
 [MFP- Clasificatii bugetare](https://mfinante.gov.ro/domenii/bugetul-de-stat/clasificatiile-bugetare)
