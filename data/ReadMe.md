@@ -2,6 +2,8 @@ Aici sunt date de la MFP(o anumita actualizare/snapshot si anume pt data de 12.0
 
 [MFP - nomenclatoare geografice](https://mfinante.gov.ro/nomenclatoare-geografice-mfp)
 
+[MFP- Clasificatii bugetare](https://mfinante.gov.ro/domenii/bugetul-de-stat/clasificatiile-bugetare)
+
 [ANAF-nomenclatoare](https://www.anaf.ro/anaf/internet/ANAF/asistenta_contribuabili/plata_oblig_fiscale/nomenclatoare_obligatii/)
 
 [CASMB - Nomenclatoare SIUI](https://www.casmb.ro/casmb_nomenclatoare_siui)
