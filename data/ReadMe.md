@@ -4,6 +4,8 @@ Aici sunt date de la MFP(o anumita actualizare/snapshot si anume pt data de 12.0
 
 [ANCPI - RENNS=Registrul Electronic Național al Nomenclaturii Stradale](https://renns.ancpi.ro/)
 
+[MFP - PJ=Persoane Juridice - cautare online](https://mfinante.gov.ro/ro/web/site)
+
 [MFP - nomenclatoare geografice](https://mfinante.gov.ro/nomenclatoare-geografice-mfp)
 
 [MFP- Clasificatii bugetare](https://mfinante.gov.ro/domenii/bugetul-de-stat/clasificatiile-bugetare)
