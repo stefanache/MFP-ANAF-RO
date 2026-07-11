@@ -26,7 +26,7 @@ Aici sunt date de la MFP(o anumita actualizare/snapshot si anume pt data de 12.0
 
 [ANC - Autoritatea Nationala pt Calificari](https://www.anc.edu.ro/)
 
-[IM - REGES=Registrul General de Evidență a Salariaților/REVISAL](https://www.inspectiamuncii.ro/reges)
+[IM - REGES=Registrul General de Evidență a Salariaților; Aplicatia-REVISAL](https://www.inspectiamuncii.ro/reges)
 
 [Regio-Nord - proiecte / Open-DAta](https://regionordest.ro/open-data/)
 
