@@ -4,7 +4,7 @@ Aici sunt date de la MFP(o anumita actualizare/snapshot si anume pt data de 12.0
 
 [DataGOV-RO DS via MFP: nomenclatoare geografice](https://data.gov.ro/dataset/nomenclatoaregeografice)
 
-[ONRC- CAEN Rev.3](https://www.onrc.ro/index.php/ro/caen)
+[ONRC- CAEN Rev.3, Rev.2](https://www.onrc.ro/index.php/ro/caen)
 
 
 [INSSE Nomenclatoare statistice](https://bucuresti.insse.ro/produse-si-servicii/nomenclatoare-statistice/)
