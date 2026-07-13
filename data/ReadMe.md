@@ -10,6 +10,8 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 
 [MFP - Informatii tehnice eFactura](https://mfinante.gov.ro/web/efactura/informatii-tehnice)
 
+[eFactura decodificata](https://ro-efactura.ro/e-factura-decodificata-751-semnificatie-si-implicatii/)
+
 [SMPS/Inspectia-Muncii  SGG-GOV-RO: Monitorizarea si Evaluarea Integrata a Performantei Serviciilor Publice](https://smps.gov.ro/) - [Nomenclatoare](https://reges.inspectiamuncii.ro/ajutor/ghid-utilizare-aplicatie-angajator/setari-nomenclatoare/)
 
 [DataGOV-RO DS via MFP: nomenclatoare geografice](https://data.gov.ro/dataset/nomenclatoaregeografice)
