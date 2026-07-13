@@ -27,7 +27,7 @@ Aici sunt date(nomenclatoare,registre,standarde,codificari/coduri,clasificari,li
 
 [CNAS - lista de medicamente](https://cnas.ro/lista-medicamente/)
 
-[CASMB](https://www.casmb.ro/casmb_portal) - [Nomenclatoare SIUI](https://www.casmb.ro/casmb_nomenclatoare_siui)
+[CASMB](https://www.casmb.ro/casmb_portal) - [Nomenclatoare SIUI](https://www.casmb.ro/casmb_nomenclatoare_siui); [CASMB - Platforma](https://www.casmb.ro/casmb_platforma.php)
 
 [CASMB - MF=Medici de Familie](https://www.casmb.ro/casmb_furniz_mf_fisiere_contracte)
 
