@@ -1,4 +1,4 @@
-Aici am descarcat spre studiere nomenclatoarele geografice de la MFP(utile si pt raportarile ANAF).
+Aici am descarcat spre studiere **[nomenclatoarele](https://www.google.com/search?q=lista+nomenclatoareleor+folosite+in+romania&sourceid=chrome&ie=UTF-8&amc=1&aep=42&cud=0&source=chrome.crn.rb&udm=50&mstk=AUtExfDg9pI5JGOVqynDBEDWPmJeRSWZqJZx0zKzlog2WSmnx-UMqn6PcuUPFlXqBJDwAEKyKnBqTNvwXmddvjC8Oh3LYvuErfCqJWb3C3WJecR8x63wduY3d3EzkpGYgHFaX20ZIlomnZhRHICMz4ZtlsujzLoexTC0tKTVCF-xmuKdM4KLSE6bt2O048VeWuWkk_XcmwX1OOSIuNAQI8VMWiLKAkFC49LvCaEnJubjwam7LBGRyeHYEwpOI32An6Wo9_EdNB_bAE5xk6QzmD6fLGoM3T379ctdRnDxowzE_zc7vuLNzHhVlSc1Vavk56JLVCNvfxQLuhQH7g&csuir=1&mtid=BPlUavC-CNSh1fIPzqWzkQs) geografice** de la **MFP**(utile si pt raportarile **ANAF**).
 
 Aici sunt date si cateva exemple de seturi de date/DS standardizate(gen nomenclatoare,registre,standarde,codificari/coduri,clasificari,liste,conversii,ghiduri,documentari-tehnice,...), spre exemplu de la MFP(o anumita actualizare/snapshot si anume pt data de 12.01.2024 ... pt ca aceste date-seturi/DS-uri sunt intr-o continua schimbare/modificare/metamorfoza) SI NU NUMAI de la MFP...
 
