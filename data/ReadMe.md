@@ -1,4 +1,6 @@
-Aici sunt date cateva exemple de seturi de date/DS standardizate(gen nomenclatoare,registre,standarde,codificari/coduri,clasificari,liste,conversii,ghiduri,documentari-tehnice,...), spre exemplu de la MFP(o anumita actualizare/snapshot si anume pt data de 12.01.2024 ... pt ca aceste date-seturi/DS-uri sunt intr-o continua schimbare/modificare/metamorfoza) SI NU NUMAI de la MFP...
+Aici am descarcat nomenclatoarele geografice de la MFP(utile si pt raportarile ANAF).
+
+Aici sunt date si cateva exemple de seturi de date/DS standardizate(gen nomenclatoare,registre,standarde,codificari/coduri,clasificari,liste,conversii,ghiduri,documentari-tehnice,...), spre exemplu de la MFP(o anumita actualizare/snapshot si anume pt data de 12.01.2024 ... pt ca aceste date-seturi/DS-uri sunt intr-o continua schimbare/modificare/metamorfoza) SI NU NUMAI de la MFP...
 
 [Definite](https://www.ibee.ro/blog/nomenclatorul-de-articole-primul-pas-pentru-o-buna-gestiune-a-firmei/): Un **nomenclator** este o listă standardizată, o clasificare sau un nomenclator oficial utilizat pentru a organiza și cataloga informații într-un mod uniform în diverse domenii. 
 În România, cele mai căutate nomenclatoare sunt specifice domeniilor: administrației publice, sistemului medical, fiscalității și educației.
