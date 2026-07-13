@@ -16,6 +16,8 @@ Aici sunt date de la MFP(o anumita actualizare/snapshot si anume pt data de 12.0
 
 [ANAF-nomenclatoare](https://www.anaf.ro/anaf/internet/ANAF/asistenta_contribuabili/plata_oblig_fiscale/nomenclatoare_obligatii/)
 
+[ISJ VN - Nomenclatorul calificarilor](https://isjvrancea.ro/wp-content/uploads/2026/01/ORDIN-nr.-6.884-din-2025-pt-modif-Ordin-nr.-6.469-din-2022-pt-aprob-Nomenclat-calific-prof-niv-3-si-4.pdf)
+
 [CNAS - Nomenclatoare-Generale](https://cas.cnas.ro/cashd/nomencaltoare-generale)
 
 [CNAS - CAS - Nomenclatoare PIAS](https://cas.cnas.ro/casgj/nomenclatoare-pias)
