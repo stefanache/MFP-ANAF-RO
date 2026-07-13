@@ -45,6 +45,8 @@ Aici sunt date(nomenclatoare,registre,standarde,codificari/coduri,clasificari,li
 
 [IM - REGES=Registrul General de Evidență a Salariaților; Aplicatia-REVISAL](https://www.inspectiamuncii.ro/reges)
 
+[Registrul General de Evidenta a Salariatilor - Setari/Nomenclatoare](https://reges.inspectiamuncii.ro/ajutor/ghid-utilizare-aplicatie-angajator/setari-nomenclatoare/)
+
 [Agenția Județeană pentru Plăți și Inspecție Socială Călărași(CL)- REGISTRUL-FURNIZORILOR-DE-FORMARE-PROFESIONALA-AUTORIZATI-2015-2019](https://calarasi.mmanpis.ro/wp-content/uploads/2019/12/REGISTRUL-FURNIZORILOR-DE-FORMARE-PROFESIONALA-AUTORIZATI-2015-2019.pdf)
 
 [Regio-Nord - proiecte / Open-DAta](https://regionordest.ro/open-data/)
