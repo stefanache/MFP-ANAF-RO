@@ -2,6 +2,8 @@ Aici sunt date(nomenclatoare,registre,standarde,codificari/coduri,clasificari,li
 
 [DataGOV - Data-Group: Nomenclatoare](https://data.gov.ro/en/group/nomenclatoare)
 
+[SMPS/Inspectia-Muncii  SGG-GOV-RO: Monitorizarea si Evaluarea Integrata a Performantei Serviciilor Publice](https://smps.gov.ro/) - [Nomenclatoare](https://reges.inspectiamuncii.ro/ajutor/ghid-utilizare-aplicatie-angajator/setari-nomenclatoare/)
+
 [DataGOV-RO DS via MFP: nomenclatoare geografice](https://data.gov.ro/dataset/nomenclatoaregeografice)
 
 [ONRC- CAEN Rev.3, Rev.2](https://www.onrc.ro/index.php/ro/caen); [Conversie CAN Rev.2 la/in CAEN Rev.3](https://www.onrc.ro/index.php/ro/conversie-caen-rev-2-caen-rev-3)
