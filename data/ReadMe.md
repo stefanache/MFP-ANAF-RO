@@ -1,7 +1,7 @@
 Aici sunt date(nomenclatoare,registre,standarde,codificari/coduri,clasificari,liste,conversii,ghiduri,documentari-tehnice,...), spre exemplu de la MFP(o anumita actualizare/snapshot si anume pt data de 12.01.2024 ... pt ca aceste date-seturi/DS-uri sunt intr-o continua schimbare/modificare/metamorfoza) SI NU NUMAI de la MFP...
 
 Definite: Un **nomenclator** este o listă standardizată, o clasificare sau un nomenclator oficial utilizat pentru a organiza și cataloga informații într-un mod uniform în diverse domenii. 
-În România, cele mai căutate nomenclatoare sunt specifice administrației publice, sistemului medical, fiscalității și educației.
+În România, cele mai căutate nomenclatoare sunt specifice domeniilor: administrației publice, sistemului medical, fiscalității și educației.
 
 [DataGOV - Data-Group: Nomenclatoare](https://data.gov.ro/en/group/nomenclatoare)
 
