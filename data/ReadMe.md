@@ -48,6 +48,8 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 
 [CASMB - MF=Medici de Familie](https://www.casmb.ro/casmb_furniz_mf_fisiere_contracte)
 
+[CASBT/Casa de Asigurari de Sanatate Botosani:  Buletin Board = Nomenclatoare](https://for.casbt.ro/viewtopic.php?t=21)
+
 [ANM](https://nomenclator.anm.ro/) = [ANMDMR](https://www.anm.ro/medicamente-de-uz-uman/anunturi-importante-medicamente-de-uz-uman/) - [nomenclator medicamente](https://nomenclator.anm.ro/medicamente)
 
 [SCNPC - Lista cooduri boala 999](https://scnpc.ro/files/CODURI%20boala_%20lista%20999.pdf)
