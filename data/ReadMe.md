@@ -30,6 +30,8 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 
 [INSSE IF - Direcţia Judeţeană de Statistică ILFOV - SITE ÎN CURS DE ACTUALIZARE](https://ilfov.insse.ro/produse-si-servicii/nomenclatoare-statistice/)
 
+[INSSE HD: Nomenclatoare StatisticeCAEN, CPSA, Siruta; COR-=ISCO-08; INS/Prodrom; SIRUTA 2011](https://hunedoara.insse.ro/produse-si-servicii/nomenclatoare-statistice/)
+
 [ANCPI](https://geoportal.ancpi.ro/portal/home/) - [RENNS=Registrul Electronic Național al Nomenclaturii Stradale](https://renns.ancpi.ro/)
 
 [MFP - PJ=Persoane Juridice - cautare online](https://mfinante.gov.ro/ro/web/site)
@@ -47,7 +49,7 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 [CNAS - lista de medicamente](https://cnas.ro/lista-medicamente/)
 
 [CASMB](https://www.casmb.ro/casmb_portal) - [Nomenclatoare SIUI](https://www.casmb.ro/casmb_nomenclatoare_siui); [CASMB - Platforma](https://www.casmb.ro/casmb_platforma.php);
-[Nomenclatoare SIUI incepand cu data 01.10.2025](https://cas.cnas.ro/casmh/nomenclatoare-siui); [Nomenclatoare SIUI incepand cu 02-02-2026](https://cas.cnas.ro/casmh/2026-02-02-nomenclatoare)
+[Nomenclatoare SIUI incepand cu data 01.10.2025](https://cas.cnas.ro/casmh/nomenclatoare-siui); [Nomenclatoare SIUI incepand cu 01-01-2026](https://cas.cnas.ro/casmh/2026-01-nomenclatoare); [Nomenclatoare SIUI incepand cu 02-02-2026](https://cas.cnas.ro/casmh/2026-02-02-nomenclatoare)
 
 [CASMB - MF=Medici de Familie](https://www.casmb.ro/casmb_furniz_mf_fisiere_contracte)
 
