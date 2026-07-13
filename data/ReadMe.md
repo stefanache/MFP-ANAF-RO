@@ -28,6 +28,8 @@ Aici sunt date de la MFP(o anumita actualizare/snapshot si anume pt data de 12.0
 
 [ANM](https://nomenclator.anm.ro/) = [ANMDMR](https://www.anm.ro/medicamente-de-uz-uman/anunturi-importante-medicamente-de-uz-uman/) - [nomenclator medicamente](https://nomenclator.anm.ro/medicamente)
 
+[SCNPC - Lista cooduri boala 999](https://scnpc.ro/files/CODURI%20boala_%20lista%20999.pdf)
+
 [AMDM GOV-MD Nomenclator Medicamente din Republica Moldova](https://nomenclator.amdm.gov.md/)
 
 [Nomenclator Medicamente HomeoPatice](https://homeopatie.ro/nomenclator-medicamente-homeopatice/)
