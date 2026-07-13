@@ -4,7 +4,7 @@ Aici sunt date(nomenclatoare,registre,standarde,codificari/coduri,clasificari,li
 
 [DataGOV-RO DS via MFP: nomenclatoare geografice](https://data.gov.ro/dataset/nomenclatoaregeografice)
 
-[ONRC- CAEN Rev.3, Rev.2](https://www.onrc.ro/index.php/ro/caen)
+[ONRC- CAEN Rev.3, Rev.2](https://www.onrc.ro/index.php/ro/caen); [Conversie CAN Rev.2 la/in CAEN Rev.3](https://www.onrc.ro/index.php/ro/conversie-caen-rev-2-caen-rev-3)
 
 
 [INSSE Nomenclatoare statistice](https://bucuresti.insse.ro/produse-si-servicii/nomenclatoare-statistice/)
