@@ -1,6 +1,9 @@
-Aici sunt date(nomenclatoare,registre,standarde,codificari/coduri,clasificari,liste,conversii...), spre exemplu de la MFP(o anumita actualizare/snapshot si anume pt data de 12.01.2024 ... pt ca aceste date-seturi/DS-uri sunt intr-o continua schimbare/modificare/metamorfoza) SI NU NUMAI de la MFP...
+Aici sunt date(nomenclatoare,registre,standarde,codificari/coduri,clasificari,liste,conversii,ghiduri...), spre exemplu de la MFP(o anumita actualizare/snapshot si anume pt data de 12.01.2024 ... pt ca aceste date-seturi/DS-uri sunt intr-o continua schimbare/modificare/metamorfoza) SI NU NUMAI de la MFP...
 
 [DataGOV - Data-Group: Nomenclatoare](https://data.gov.ro/en/group/nomenclatoare)
+
+[Ghid de utilizare a codurilor dedicate tipurilor de facturi,a diverselor categorii de TVA, precum și a altor reguli, în sistemul național privind factura electronică RO e-
+Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi_final%20v2.9.pdf)
 
 [SMPS/Inspectia-Muncii  SGG-GOV-RO: Monitorizarea si Evaluarea Integrata a Performantei Serviciilor Publice](https://smps.gov.ro/) - [Nomenclatoare](https://reges.inspectiamuncii.ro/ajutor/ghid-utilizare-aplicatie-angajator/setari-nomenclatoare/)
 
