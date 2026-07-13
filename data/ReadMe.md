@@ -32,7 +32,7 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 
 [ONRC- CAEN Rev.3, Rev.2](https://www.onrc.ro/index.php/ro/caen); [Conversie CAN Rev.2 la/in CAEN Rev.3](https://www.onrc.ro/index.php/ro/conversie-caen-rev-2-caen-rev-3)
 
-[INSSE Nomenclatoare statistice](https://bucuresti.insse.ro/produse-si-servicii/nomenclatoare-statistice/); 
+[INSSE Nomenclatoare statistice](https://bucuresti.insse.ro/produse-si-servicii/nomenclatoare-statistice/); [INSE-BC Nomenclatoare-statistice](https://bacau.insse.ro/produse-si-servicii/nomenclatoare-statistice/); 
 [INSSE IF - Direcţia Judeţeană de Statistică ILFOV - SITE ÎN CURS DE ACTUALIZARE](https://ilfov.insse.ro/produse-si-servicii/nomenclatoare-statistice/); 
 [INSSE HD: Nomenclatoare StatisticeCAEN, CPSA, Siruta; COR-=ISCO-08; INS/Prodrom; SIRUTA 2011](https://hunedoara.insse.ro/produse-si-servicii/nomenclatoare-statistice/); 
 [INSSE IS: Nomenclatoare statistice](https://iasi.insse.ro/produse-si-servicii/nomenclatoare-statistice/)
