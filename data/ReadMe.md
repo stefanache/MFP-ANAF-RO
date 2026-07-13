@@ -84,6 +84,7 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 
 [MJ: Lista instante](https://portal.just.ro/SitePages/instante.aspx)
 
+[DAJ-CL: Nomenclatoare folosite in agricultura](https://dajcalarasi.ro/?page_id=753)
 
 
 [GOV-MD Statistica: Clasificari si nomenclatoare](https://statistica.gov.md/ro/clasificari-si-nomenclatoare-9881.html)
