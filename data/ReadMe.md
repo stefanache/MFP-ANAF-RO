@@ -18,7 +18,9 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 [eFactura decodificata](https://ro-efactura.ro/e-factura-decodificata-751-semnificatie-si-implicatii/)
 
 [IAPP e-Factura: Lista codurilor pt UM](https://developer.iapp.ro/article/80-e-Factura-Lista-codurilor-pentru-unit%C4%83%C8%9Bile-de-m%C4%83sur%C4%83); 
-[PayCode- eFactura - Documentatie tehnica](https://paycode.ro/efactura/documentatie-tehnica-efactura)
+[PayCode- eFactura - Documentatie tehnica](https://paycode.ro/efactura/documentatie-tehnica-efactura);
+[NXM - Nomenclatoare Online(a se vedea in subsolul/partea de jos a paginii!!!)](https://www.cor.nxm.ro/);
+[NOMENCLATOARE.RO](https://www.nomenclatoare.ro/)
 
 [Ghiseul.RO Tip-Venit=Nomenclator-Unic](https://www.ghiseul.ro/ghiseul_admin/public/help/Index.htm?context=70)
 
@@ -44,16 +46,12 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 [CASMB - MF=Medici de Familie](https://www.casmb.ro/casmb_furniz_mf_fisiere_contracte); 
 [CASBT/Casa de Asigurari de Sanatate Botosani:  Buletin Board = Nomenclatoare](https://for.casbt.ro/viewtopic.php?t=21)
 
-[ANM](https://nomenclator.anm.ro/) = [ANMDMR](https://www.anm.ro/medicamente-de-uz-uman/anunturi-importante-medicamente-de-uz-uman/) - [nomenclator medicamente](https://nomenclator.anm.ro/medicamente)
-
-[SCNPC - Lista cooduri boala 999](https://scnpc.ro/files/CODURI%20boala_%20lista%20999.pdf)
-
+[ANM](https://nomenclator.anm.ro/) = [ANMDMR](https://www.anm.ro/medicamente-de-uz-uman/anunturi-importante-medicamente-de-uz-uman/) - [nomenclator medicamente](https://nomenclator.anm.ro/medicamente); 
+[SCNPC - Lista cooduri boala 999](https://scnpc.ro/files/CODURI%20boala_%20lista%20999.pdf); 
 [Nomenclator Medicamente HomeoPatice](https://homeopatie.ro/nomenclator-medicamente-homeopatice/)
 
-[MM FT&SS](https://mmuncii.gov.ro/) - [COR - codificare ocupatiilor din RO](https://cor.mmuncii.ro/public-nom)
-
-[ANC - Autoritatea Nationala pt Calificari](https://www.anc.edu.ro/)
-
+[MM FT&SS](https://mmuncii.gov.ro/) - [COR - codificare ocupatiilor din RO](https://cor.mmuncii.ro/public-nom); 
+[ANC - Autoritatea Nationala pt Calificari](https://www.anc.edu.ro/); 
 [ISJ VN - Nomenclatorul calificarilor](https://isjvrancea.ro/wp-content/uploads/2026/01/ORDIN-nr.-6.884-din-2025-pt-modif-Ordin-nr.-6.469-din-2022-pt-aprob-Nomenclat-calific-prof-niv-3-si-4.pdf)
 
 [IM - REGES=Registrul General de Evidență a Salariaților; Aplicatia-REVISAL](https://www.inspectiamuncii.ro/reges)
@@ -66,12 +64,7 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 
 [AFIR: Lista cu Grupurile de Acțiune Locală(GAL) selectate de Ministerul Agriculturii și Dezvoltării Rurale(MADR); Implementarea Strategiilor de Dezvoltare Locală](https://www.afir.ro/instrumente/nomenclator/lista-gal/)
 
-[NXM - Nomenclatoare Online(a se vedea in subsolul/partea de jos a paginii!!!)](https://www.cor.nxm.ro/)
-
-
 [DRPCIV - Indicatoare rutiere explicate](https://www.drpciv-romania.ro/indicatoare)
-
-[NOMENCLATOARE.RO](https://www.nomenclatoare.ro/)
 
 [ANV- TARIC3 - Nomenclatoare](http://taric3.customs.ro:9080/taric/web/browsetariff_RO)
 
