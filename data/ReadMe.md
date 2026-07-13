@@ -8,6 +8,8 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 
 [IAPP e-Factura: Lista codurilor pt UM](https://developer.iapp.ro/article/80-e-Factura-Lista-codurilor-pentru-unit%C4%83%C8%9Bile-de-m%C4%83sur%C4%83)
 
+[MFP - Informatii tehnice eFactura](https://mfinante.gov.ro/web/efactura/informatii-tehnice)
+
 [SMPS/Inspectia-Muncii  SGG-GOV-RO: Monitorizarea si Evaluarea Integrata a Performantei Serviciilor Publice](https://smps.gov.ro/) - [Nomenclatoare](https://reges.inspectiamuncii.ro/ajutor/ghid-utilizare-aplicatie-angajator/setari-nomenclatoare/)
 
 [DataGOV-RO DS via MFP: nomenclatoare geografice](https://data.gov.ro/dataset/nomenclatoaregeografice)
