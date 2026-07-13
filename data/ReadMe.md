@@ -39,25 +39,20 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 
 [CNAS - Nomenclatoare-Generale](https://cas.cnas.ro/cashd/nomencaltoare-generale);
 [CNAS - CAS - Nomenclatoare PIAS](https://cas.cnas.ro/casgj/nomenclatoare-pias); 
-[CNAS - lista de medicamente](https://cnas.ro/lista-medicamente/)
-
+[CNAS - lista de medicamente](https://cnas.ro/lista-medicamente/); 
 [CASMB](https://www.casmb.ro/casmb_portal) - [Nomenclatoare SIUI](https://www.casmb.ro/casmb_nomenclatoare_siui); [CASMB - Platforma](https://www.casmb.ro/casmb_platforma.php);
 [Nomenclatoare SIUI incepand cu data 01.10.2025](https://cas.cnas.ro/casmh/nomenclatoare-siui); [Nomenclatoare SIUI incepand cu 01-01-2026](https://cas.cnas.ro/casmh/2026-01-nomenclatoare); [Nomenclatoare SIUI incepand cu 02-02-2026](https://cas.cnas.ro/casmh/2026-02-02-nomenclatoare); 
 [CASMB - MF=Medici de Familie](https://www.casmb.ro/casmb_furniz_mf_fisiere_contracte); 
-[CASBT/Casa de Asigurari de Sanatate Botosani:  Buletin Board = Nomenclatoare](https://for.casbt.ro/viewtopic.php?t=21)
-
+[CASBT/Casa de Asigurari de Sanatate Botosani:  Buletin Board = Nomenclatoare](https://for.casbt.ro/viewtopic.php?t=21); 
 [ANM](https://nomenclator.anm.ro/) = [ANMDMR](https://www.anm.ro/medicamente-de-uz-uman/anunturi-importante-medicamente-de-uz-uman/) - [nomenclator medicamente](https://nomenclator.anm.ro/medicamente); 
 [SCNPC - Lista cooduri boala 999](https://scnpc.ro/files/CODURI%20boala_%20lista%20999.pdf); 
 [Nomenclator Medicamente HomeoPatice](https://homeopatie.ro/nomenclator-medicamente-homeopatice/)
 
 [MM FT&SS](https://mmuncii.gov.ro/) - [COR - codificare ocupatiilor din RO](https://cor.mmuncii.ro/public-nom); 
 [ANC - Autoritatea Nationala pt Calificari](https://www.anc.edu.ro/); 
-[ISJ VN - Nomenclatorul calificarilor](https://isjvrancea.ro/wp-content/uploads/2026/01/ORDIN-nr.-6.884-din-2025-pt-modif-Ordin-nr.-6.469-din-2022-pt-aprob-Nomenclat-calific-prof-niv-3-si-4.pdf)
-
-[IM - REGES=Registrul General de Evidență a Salariaților; Aplicatia-REVISAL](https://www.inspectiamuncii.ro/reges)
-
-[Registrul General de Evidenta a Salariatilor - Setari/Nomenclatoare(Sporuri,COR,CAEN,SIRUTA)](https://reges.inspectiamuncii.ro/ajutor/ghid-utilizare-aplicatie-angajator/setari-nomenclatoare/)
-
+[ISJ VN - Nomenclatorul calificarilor](https://isjvrancea.ro/wp-content/uploads/2026/01/ORDIN-nr.-6.884-din-2025-pt-modif-Ordin-nr.-6.469-din-2022-pt-aprob-Nomenclat-calific-prof-niv-3-si-4.pdf); 
+[IM - REGES=Registrul General de Evidență a Salariaților; Aplicatia-REVISAL](https://www.inspectiamuncii.ro/reges); 
+[Registrul General de Evidenta a Salariatilor - Setari/Nomenclatoare(Sporuri,COR,CAEN,SIRUTA)](https://reges.inspectiamuncii.ro/ajutor/ghid-utilizare-aplicatie-angajator/setari-nomenclatoare/); 
 [AJPIS-CL/Agenția Județeană pentru Plăți și Inspecție Socială Călărași(CL)- REGISTRUL-FURNIZORILOR-DE-FORMARE-PROFESIONALA-AUTORIZATI-2015-2019](https://calarasi.mmanpis.ro/wp-content/uploads/2019/12/REGISTRUL-FURNIZORILOR-DE-FORMARE-PROFESIONALA-AUTORIZATI-2015-2019.pdf)
 
 [Regio-Nord - proiecte / Open-DAta](https://regionordest.ro/open-data/)
