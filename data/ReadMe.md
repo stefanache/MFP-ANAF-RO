@@ -6,6 +6,8 @@ Aici sunt date(nomenclatoare,registre,standarde,codificari/coduri,clasificari,li
 [ANAF - Ghid de utilizare a codurilor dedicate tipurilor de facturi,a diverselor categorii de TVA, precum și a altor reguli, în sistemul național privind factura electronică RO e-
 Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi_final%20v2.9.pdf)
 
+[Ghidul ANAF priv. eFactura-utilizarea codurilor](https://www.portalcodulfiscal.ro/ghidul-anaf-privind-utilizarea-codurilor-ro-e-factura-64385.htm)
+
 [IAPP e-Factura: Lista codurilor pt UM](https://developer.iapp.ro/article/80-e-Factura-Lista-codurilor-pentru-unit%C4%83%C8%9Bile-de-m%C4%83sur%C4%83)
 
 [PayCode- eFactura - Documentatie tehnica](https://paycode.ro/efactura/documentatie-tehnica-efactura)
