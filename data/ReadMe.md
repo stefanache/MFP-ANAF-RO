@@ -46,7 +46,8 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 
 [CNAS - lista de medicamente](https://cnas.ro/lista-medicamente/)
 
-[CASMB](https://www.casmb.ro/casmb_portal) - [Nomenclatoare SIUI](https://www.casmb.ro/casmb_nomenclatoare_siui); [CASMB - Platforma](https://www.casmb.ro/casmb_platforma.php)
+[CASMB](https://www.casmb.ro/casmb_portal) - [Nomenclatoare SIUI](https://www.casmb.ro/casmb_nomenclatoare_siui); [CASMB - Platforma](https://www.casmb.ro/casmb_platforma.php);
+[Nomenclatoare SIUI incepand cu data 01.10.2025](https://cas.cnas.ro/casmh/nomenclatoare-siui)
 
 [CASMB - MF=Medici de Familie](https://www.casmb.ro/casmb_furniz_mf_fisiere_contracte)
 
