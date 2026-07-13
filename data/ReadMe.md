@@ -36,6 +36,8 @@ Aici sunt date de la MFP(o anumita actualizare/snapshot si anume pt data de 12.0
 
 [IM - REGES=Registrul General de Evidență a Salariaților; Aplicatia-REVISAL](https://www.inspectiamuncii.ro/reges)
 
+[Agenția Județeană pentru Plăți și Inspecție Socială Călărași(CL)- REGISTRUL-FURNIZORILOR-DE-FORMARE-PROFESIONALA-AUTORIZATI-2015-2019](https://calarasi.mmanpis.ro/wp-content/uploads/2019/12/REGISTRUL-FURNIZORILOR-DE-FORMARE-PROFESIONALA-AUTORIZATI-2015-2019.pdf)
+
 [Regio-Nord - proiecte / Open-DAta](https://regionordest.ro/open-data/)
 
 [AFIR: Lista cu Grupurile de Acțiune Locală(GAL) selectate de Ministerul Agriculturii și Dezvoltării Rurale(MADR); Implementarea Strategiilor de Dezvoltare Locală](https://www.afir.ro/instrumente/nomenclator/lista-gal/)
