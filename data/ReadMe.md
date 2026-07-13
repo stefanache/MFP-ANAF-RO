@@ -5,6 +5,8 @@ Aici sunt date si cateva exemple de seturi de date/DS standardizate(gen nomencla
 [Definite](https://www.ibee.ro/blog/nomenclatorul-de-articole-primul-pas-pentru-o-buna-gestiune-a-firmei/): Un **nomenclator** este o listă standardizată, o clasificare sau un nomenclator oficial utilizat pentru a organiza și cataloga informații într-un mod uniform în diverse domenii. 
 În România, cele mai căutate nomenclatoare sunt specifice domeniilor: administrației publice, sistemului medical, fiscalității și educației.
 
+[wiki: Nomenclatorul localurilor din RO](https://en.wikipedia.org/wiki/Nomenclature_of_places_in_Romania)
+
 [DataGOV - Data-Group: Nomenclatoare](https://data.gov.ro/en/group/nomenclatoare); 
 [DataGOV-RO DS via MFP: nomenclatoare geografice](https://data.gov.ro/dataset/nomenclatoaregeografice)
 
