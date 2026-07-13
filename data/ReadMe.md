@@ -18,12 +18,13 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 
 [eFactura decodificata](https://ro-efactura.ro/e-factura-decodificata-751-semnificatie-si-implicatii/)
 
+[ONPCSB - Nomenclatoare 2023](https://onpcsb.ro/ro/a/190/nomenclatoare-cf.-ordinului-191-/-28.06.2023)
+
 [SMPS/Inspectia-Muncii  SGG-GOV-RO: Monitorizarea si Evaluarea Integrata a Performantei Serviciilor Publice](https://smps.gov.ro/) - [Nomenclatoare](https://reges.inspectiamuncii.ro/ajutor/ghid-utilizare-aplicatie-angajator/setari-nomenclatoare/)
 
 [DataGOV-RO DS via MFP: nomenclatoare geografice](https://data.gov.ro/dataset/nomenclatoaregeografice)
 
 [ONRC- CAEN Rev.3, Rev.2](https://www.onrc.ro/index.php/ro/caen); [Conversie CAN Rev.2 la/in CAEN Rev.3](https://www.onrc.ro/index.php/ro/conversie-caen-rev-2-caen-rev-3)
-
 
 [INSSE Nomenclatoare statistice](https://bucuresti.insse.ro/produse-si-servicii/nomenclatoare-statistice/)
 
