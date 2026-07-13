@@ -35,8 +35,6 @@ Aici sunt date(nomenclatoare,registre,standarde,codificari/coduri,clasificari,li
 
 [SCNPC - Lista cooduri boala 999](https://scnpc.ro/files/CODURI%20boala_%20lista%20999.pdf)
 
-[AMDM GOV-MD Nomenclator Medicamente din Republica Moldova](https://nomenclator.amdm.gov.md/)
-
 [Nomenclator Medicamente HomeoPatice](https://homeopatie.ro/nomenclator-medicamente-homeopatice/)
 
 [MM FT&SS](https://mmuncii.gov.ro/) - [COR - codificare ocupatiilor din RO](https://cor.mmuncii.ro/public-nom)
@@ -66,5 +64,14 @@ Aici sunt date(nomenclatoare,registre,standarde,codificari/coduri,clasificari,li
 [ANV- TARIC3 - Nomenclatoare](http://taric3.customs.ro:9080/taric/web/browsetariff_RO)
 
 [MJ: Nopmenclatorul specializarilor expertizei tehnice judiciare](https://www.just.ro/ghidul-specializarilor-expertizei-tehnice-judiciare/)
+
 [MJ: Lista instante](https://portal.just.ro/SitePages/instante.aspx)
+
+
+
+[GOV-MD Statistica: Clasificari si nomenclatoare](https://statistica.gov.md/ro/clasificari-si-nomenclatoare-9881.html)
+
+[AMDM GOV-MD Nomenclator Medicamente din Republica Moldova](https://nomenclator.amdm.gov.md/)
+
+
   
