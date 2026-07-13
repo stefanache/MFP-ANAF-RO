@@ -18,7 +18,7 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 
 [eFactura decodificata](https://ro-efactura.ro/e-factura-decodificata-751-semnificatie-si-implicatii/)
 
-[ONPCSB - Nomenclatoare 2023](https://onpcsb.ro/ro/a/190/nomenclatoare-cf.-ordinului-191-/-28.06.2023)
+[ONPCSB/Oficiul Național de Prevenire și Combatere a Spălării Banilor - FIU RO - Nomenclatoare 2023](https://onpcsb.ro/ro/a/190/nomenclatoare-cf.-ordinului-191-/-28.06.2023)
 
 [SMPS/Inspectia-Muncii  SGG-GOV-RO: Monitorizarea si Evaluarea Integrata a Performantei Serviciilor Publice](https://smps.gov.ro/) - [Nomenclatoare](https://reges.inspectiamuncii.ro/ajutor/ghid-utilizare-aplicatie-angajator/setari-nomenclatoare/)
 
