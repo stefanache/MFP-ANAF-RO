@@ -33,25 +33,19 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 
 [ANCPI](https://geoportal.ancpi.ro/portal/home/) - [RENNS=Registrul Electronic Național al Nomenclaturii Stradale](https://renns.ancpi.ro/)
 
-[MFP - PJ=Persoane Juridice - cautare online](https://mfinante.gov.ro/ro/web/site)
-
-[MFP - nomenclatoare geografice](https://mfinante.gov.ro/nomenclatoare-geografice-mfp)
-
+[MFP - PJ=Persoane Juridice - cautare online](https://mfinante.gov.ro/ro/web/site); 
+[MFP - nomenclatoare geografice](https://mfinante.gov.ro/nomenclatoare-geografice-mfp); 
 [MFP- Clasificatii bugetare](https://mfinante.gov.ro/domenii/bugetul-de-stat/clasificatiile-bugetare)
 
 [ANAF-nomenclatoare](https://www.anaf.ro/anaf/internet/ANAF/asistenta_contribuabili/plata_oblig_fiscale/nomenclatoare_obligatii/)
 
-[CNAS - Nomenclatoare-Generale](https://cas.cnas.ro/cashd/nomencaltoare-generale)
-
-[CNAS - CAS - Nomenclatoare PIAS](https://cas.cnas.ro/casgj/nomenclatoare-pias)
-
+[CNAS - Nomenclatoare-Generale](https://cas.cnas.ro/cashd/nomencaltoare-generale);
+[CNAS - CAS - Nomenclatoare PIAS](https://cas.cnas.ro/casgj/nomenclatoare-pias); 
 [CNAS - lista de medicamente](https://cnas.ro/lista-medicamente/)
 
 [CASMB](https://www.casmb.ro/casmb_portal) - [Nomenclatoare SIUI](https://www.casmb.ro/casmb_nomenclatoare_siui); [CASMB - Platforma](https://www.casmb.ro/casmb_platforma.php);
-[Nomenclatoare SIUI incepand cu data 01.10.2025](https://cas.cnas.ro/casmh/nomenclatoare-siui); [Nomenclatoare SIUI incepand cu 01-01-2026](https://cas.cnas.ro/casmh/2026-01-nomenclatoare); [Nomenclatoare SIUI incepand cu 02-02-2026](https://cas.cnas.ro/casmh/2026-02-02-nomenclatoare)
-
-[CASMB - MF=Medici de Familie](https://www.casmb.ro/casmb_furniz_mf_fisiere_contracte)
-
+[Nomenclatoare SIUI incepand cu data 01.10.2025](https://cas.cnas.ro/casmh/nomenclatoare-siui); [Nomenclatoare SIUI incepand cu 01-01-2026](https://cas.cnas.ro/casmh/2026-01-nomenclatoare); [Nomenclatoare SIUI incepand cu 02-02-2026](https://cas.cnas.ro/casmh/2026-02-02-nomenclatoare); 
+[CASMB - MF=Medici de Familie](https://www.casmb.ro/casmb_furniz_mf_fisiere_contracte); 
 [CASBT/Casa de Asigurari de Sanatate Botosani:  Buletin Board = Nomenclatoare](https://for.casbt.ro/viewtopic.php?t=21)
 
 [ANM](https://nomenclator.anm.ro/) = [ANMDMR](https://www.anm.ro/medicamente-de-uz-uman/anunturi-importante-medicamente-de-uz-uman/) - [nomenclator medicamente](https://nomenclator.anm.ro/medicamente)
@@ -86,8 +80,7 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 
 [ANV- TARIC3 - Nomenclatoare](http://taric3.customs.ro:9080/taric/web/browsetariff_RO)
 
-[MJ: Nopmenclatorul specializarilor expertizei tehnice judiciare](https://www.just.ro/ghidul-specializarilor-expertizei-tehnice-judiciare/)
-
+[MJ: Nopmenclatorul specializarilor expertizei tehnice judiciare](https://www.just.ro/ghidul-specializarilor-expertizei-tehnice-judiciare/);
 [MJ: Lista instante](https://portal.just.ro/SitePages/instante.aspx)
 
 [MEC - Nomenclatoruk(20202-2021) domeniilor şi al specializărilor/programelor de studii universitare](https://www.edu.ro/sites/default/files/ANEXA_1_NOMENCLATOR_2020_2021_0.pdf)
