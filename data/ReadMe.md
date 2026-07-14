@@ -99,6 +99,7 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 [GH: Awesome API-servers](https://github.com/Kikobeats/awesome-api); 
 [GH: Public APIs](https://github.com/public-apis/public-apis); 
 [Build MCP-server](https://modelcontextprotocol.io/docs/develop/build-server); 
+[How-to buid an API](https://buildwithfern.com/post/how-to-build-an-api); 
 
 
 
