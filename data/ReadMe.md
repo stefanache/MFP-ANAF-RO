@@ -28,6 +28,8 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 
 [Ghiseul.RO Tip-Venit=Nomenclator-Unic](https://www.ghiseul.ro/ghiseul_admin/public/help/Index.htm?context=70)
 
+[Nomenclatorul PCG 2021](https://www.studocu.com/ro/document/universitatea-alexandru-ioan-cuza-din-iasi/bazele-contabilitatii/pcg-actualizat-2021/20595335?sid=a3fc0277-ef26-4a5d-b887-af89d856932d1784018371)
+
 [ONPCSB/Oficiul Național de Prevenire și Combatere a Spălării Banilor - FIU RO - Nomenclatoare 2023](https://onpcsb.ro/ro/a/190/nomenclatoare-cf.-ordinului-191-/-28.06.2023)
 
 [SMPS/Inspectia-Muncii  SGG-GOV-RO: Monitorizarea si Evaluarea Integrata a Performantei Serviciilor Publice](https://smps.gov.ro/) - [Nomenclatoare](https://reges.inspectiamuncii.ro/ajutor/ghid-utilizare-aplicatie-angajator/setari-nomenclatoare/)
