@@ -20,7 +20,8 @@ Aici sunt date si cateva exemple de [seturi de date/DS](https://lege5.ro/Legisla
 Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi_final%20v2.9.pdf); 
 [Ghidul ANAF priv. eFactura-utilizarea codurilor](https://www.portalcodulfiscal.ro/ghidul-anaf-privind-utilizarea-codurilor-ro-e-factura-64385.htm); 
 [eFactura decodificata](https://ro-efactura.ro/e-factura-decodificata-751-semnificatie-si-implicatii/);
-[ANAF OrdinePlata si FoiVarsamant(OP_FV) - Nomenclator primarii(2010)](https://static.anaf.ro/static/10/Anaf/Aplicatii/OP_FV/opfv2010/Primarii.pdf)
+[ANAF OrdinePlata si FoiVarsamant(OP_FV) - Nomenclator primarii(2010)](https://static.anaf.ro/static/10/Anaf/Aplicatii/OP_FV/opfv2010/Primarii.pdf); 
+[ANAFDeclaratie R XSD pt XML](https://static.anaf.ro/static/10/Anaf/Declaratii_R/AplicatiiDec/d394_20160802.xsd)
 
 [GOV-RO ANAP  2019: Reclasificare coduri CPV](https://anap.gov.ro/ro/wp-content/uploads/2019/02/Reclasificare-coduri-CPV.pdf); [NXM: Cod CPV](https://www.cpv.nxm.ro/);
 
