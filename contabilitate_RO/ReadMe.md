@@ -1,12 +1,8 @@
 
-[MFP-Ordine](https://danubius.org/contabilitate-si-raportare-financiara-care-sunt-standardele-internationale-si-de-ce-trebuie-sa-tii-cont-ca-antreprenor/)
-
-[ANAF - Raportari anuale](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/programeutile/RAP/raportari_anuale.html)
-
+[MFP-Ordine](https://danubius.org/contabilitate-si-raportare-financiara-care-sunt-standardele-internationale-si-de-ce-trebuie-sa-tii-cont-ca-antreprenor/)<br/>
+[ANAF - Raportari anuale](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/programeutile/RAP/raportari_anuale.html)<br/>
 [Prezentare](https://www.google.com/search?q=ifrs+IAS+DR+%3D+CR+list+of+correspondances+equations&sca_esv=f6b4719bbe8f3f25&biw=1536&bih=769&sxsrf=APpeQnv-LI1nDU9qqKcWy8tiJUCZdWhrgQ%3A1783071807173&ei=P4RHasuWCpepwPAP_ue3kAE&ved=0ahUKEwiLsrONnLaVAxWXFBAIHf7zDRIQ4dUDCBA&uact=5&oq=ifrs+IAS+DR+%3D+CR+list+of+correspondances+equations&gs_lp=Egxnd3Mtd2l6LXNlcnAiMmlmcnMgSUFTIERSID0gQ1IgbGlzdCBvZiBjb3JyZXNwb25kYW5jZXMgZXF1YXRpb25zMgUQABjvBTIIEAAYgAQYogQyBRAAGO8FMggQABiABBiiBDIIEAAYiQUYogRIkVBQ_RlYmT9wAXgBkAEAmAHGAaABwA6qAQQwLjEwuAEDyAEA-AEBmAILoAKUD8ICChAAGEcY1gQYsAPCAgQQIRgVwgIGECEYFRgKmAMA4gMFEgExIECIBgGQBgiSBwUxLjguMqAHsxyyBwUwLjguMrgHkA_CBwcwLjUuNC4yyAcwgAgB&sclient=gws-wiz-serp) [PCG](https://www.scribd.com/presentation/514796967/prezentare-PCG)([Plan de Conturi General](https://www.google.com/search?q=ifrs+IAS+DR+%3D+CR+list+of+correspondances&sca_esv=f6b4719bbe8f3f25&biw=1536&bih=769&sxsrf=APpeQntdY5DRBTg3y8QvZah8m5t7OyWLzw%3A1783071795303&ei=M4RHasqMEtC5wPAPso2t2Ag&ved=0ahUKEwiK8t6HnLaVAxXQHBAIHbJGC4sQ4dUDCBA&uact=5&oq=ifrs+IAS+DR+%3D+CR+list+of+correspondances&gs_lp=Egxnd3Mtd2l6LXNlcnAiKGlmcnMgSUFTIERSID0gQ1IgbGlzdCBvZiBjb3JyZXNwb25kYW5jZXMyBxAhGAoYoAFIiTxQowRY3jpwAXgBkAEAmAHAAaABoSCqAQQwLjI0uAEDyAEA-AEBmAIZoALpIcICChAAGEcY1gQYsAPCAggQABiABBiiBMICBRAAGO8FwgIFECEYnwXCAgQQIRgVwgIFECEYoAGYAwCIBgGQBgiSBwYxLjIyLjKgB_46sgcGMC4yMi4yuAfZIcIHCDEuOC4xMy4zyAdogAgB&sclient=gws-wiz-serp))<br/>
-
-[OMF 2036/2025](https://static.anaf.ro/static/10/Anaf/legislatie/OMF_2036_2025.pdf)
-
+[OMF 2036/2025](https://static.anaf.ro/static/10/Anaf/legislatie/OMF_2036_2025.pdf)<br/>
 [BPMN 2.0](https://www.signavio.com/downloads/short-reads/free-bpmn-2-0-poster-2/); 
 [IFRS/IAS](https://www.google.com/search?q=illustrative+examples+IFRS+IAS&lr=lang_ro&sa=N&sca_esv=687c80ba214a4f2f&sxsrf=APpeQntt5R5HxH-AsHxKH63n7mbCNGpxSg%3A1784048759706&udm=50&fbs=ABfTbFWfH4wlW6n2_hxvp9wb2ZU9vOI7RSRt7FUzXBlQT0_UgXAJHqgZhxe_zIDLE9sUfkxX0YEAS3PYDr35ZdpSXWkujsvwvEJQLhO-I6wK73RkrswzM0P-s1MHHKHpaWqIMk61bgx0bIriUXoLH9OmTq-CGxRHhLSpGihwo94HcAPRA6VSRTKaXPibowNxQO8m0LIRGO_5k_9CVyKyim7XZOMINvS1uQ&aep=1&ntc=1&cs=1&ved=2ahUKEwj869XE09KVAxUpGBAIHQQ9Abo4FBDYnw56BAgNEAM&biw=1685&bih=874&dpr=1.1&mstk=AUtExfDA57z-6fvOJKpXEJzrBaqNF-izqYFGa9_iaGydvYmZz_p5YkQTrzYRusUf0QIAq75ZvN5A8UjL5WS8XsZoZFwRm1tJA3dncBRGiZfp9MwjH6vqs_PhhN6Siwk48Wzh0_2-6wXgrKHutA5XLaf1MAKTJFMOotpuQYQgtAn7pMyeeAg7kiUVvSt4LbKaZptu24agAiuPHb1nelf0IN-kV4CXhRi7R0vNxEGClrnQ513Qk9vzjjMMxhAdQ2LKDiam54JQu4f2tpa2Zto3WSimsoCpHTHiudvtcMnhimCidLpnWfa68UScl1s8p3DaAYspr4FUlHcfL6thig&csuir=1&mtid=q2xWap2iBs-hwPAPlOWh0Ag); 
 [Standarde IFRS](https://danubius.org/contabilitate-si-raportare-financiara-care-sunt-standardele-internationale-si-de-ce-trebuie-sa-tii-cont-ca-antreprenor/); [wiki: List of IFRS standards](https://en.wikipedia.org/wiki/List_of_International_Financial_Reporting_Standards); [IAS](https://www.iasplus.com/en/standards); [IAS-Plus: IAS](https://www.iasplus.com/en/standards/ias); [KPMG: IFRS Accounting Standards](https://assets.kpmg.com/content/dam/kpmgsites/xx/pdf/ifrg/2024/isg-standard-list.pdf); 
@@ -25,8 +21,7 @@
 [IAS+ Illustrative financial statementa](https://www.iasplus.com/en/publications/global/publication-series/models-and-checklists); 
 [IAS Standards List](https://viewpoint.pwc.com/gx/en/pwc/iasbv2/ias_standards.html); 
 [Implementarea ISA 540 (revizuit) – Exemple ilustrative privind pierderile din creditare preconizate August 202](https://www.codetic-standardeinternationale.ro/wp-content/uploads/2021/02/IAASB-ISA-540-Expected-Credit-Loss-Illustrative-Examples-RO.pdf);
-[Percepţii privind impactul IFRS 15 – exemple ilustrative pas cu pas](https://revista.cafr.ro/temp/Articol_9611.pdf);
-
+[Percepţii privind impactul IFRS 15 – exemple ilustrative pas cu pas](https://revista.cafr.ro/temp/Articol_9611.pdf);<br/>
 [PCG=CoA](https://assets.kpmg.com/content/dam/kpmg/ro/pdf/plan-de-conturi-2016-web.pdf); [Sanatate prin arte: PCG 2025 v1 - Download - PDF](https://sanatate-prin-arte.ro/planul-de-conturi-general/?gad_source=1&gad_campaignid=21174168694&gbraid=0AAAAApI8GfNTdIW95aJb_jF_vhMTJy9QK&gclid=CjwKCAjw14zPBhAuEiwAP3-Eb1m7cDC8soKF-1VK-FxOaWiORIsVTOGMGnN3CGHlFRxsbagKvgjkXhoCckcQAvD_BwE)<br/>
 [PCG](https://lteniorga.ro/wp-content/uploads/2020/03/Lectie-M2-pt-XA-si-XC-18-martie.pdf) Lectie PDF M2 pt clasa X 18-Martie; [Test evaluare Contul - PCG](https://isj.hd.edu.ro/images/Contabilitate/test_contul.pdf)<br/>
 [MFP-GOV-RO PCG sept2012 - PDF](https://mfinante.gov.ro/documents/35673/253356/articol_sept2012.pdf)<br/>
