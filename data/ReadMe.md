@@ -97,6 +97,7 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 
 [GH: Awesome MCP-servers](https://github.com/PipedreamHQ/awesome-mcp-servers); 
 [GH: Awesome API-servers](https://github.com/Kikobeats/awesome-api); 
+[GH: Public APIs](https://github.com/public-apis/public-apis)
 
 
   
