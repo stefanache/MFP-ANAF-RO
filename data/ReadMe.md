@@ -22,7 +22,7 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 [eFactura decodificata](https://ro-efactura.ro/e-factura-decodificata-751-semnificatie-si-implicatii/)
 
 [IAPP e-Factura: Lista codurilor pt UM](https://developer.iapp.ro/article/80-e-Factura-Lista-codurilor-pentru-unit%C4%83%C8%9Bile-de-m%C4%83sur%C4%83); 
-[]IAPP e-Factura: Lista codurilor NC](https://developer.iapp.ro/article/81-e-Factura-Lista-codurilor-NC); 
+[IAPP e-Factura: Lista codurilor NC](https://developer.iapp.ro/article/81-e-Factura-Lista-codurilor-NC); 
 [PayCode- eFactura - Documentatie tehnica](https://paycode.ro/efactura/documentatie-tehnica-efactura);
 [NXM - Nomenclatoare Online(a se vedea in subsolul/partea de jos a paginii!!!)](https://www.cor.nxm.ro/);
 [NOMENCLATOARE.RO](https://www.nomenclatoare.ro/); [NXM ProdROM](https://prodrom.nxm.ro/);
