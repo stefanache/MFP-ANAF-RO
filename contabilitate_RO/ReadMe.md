@@ -96,7 +96,9 @@ PENTRU INSTITUŢIILE PUBLICE - Contabilitate Publica - PDF](https://mfinante.gov
 [Primary Financial Statements - Illustrive Examples](https://www.ifrs.org/content/dam/ifrs/meetings/2023/june/cmac-gpf/ap2-cmac-gpf-pfs.pdf); 
 [IAS+ Illustrative financial statementa](https://www.iasplus.com/en/publications/global/publication-series/models-and-checklists); 
 [IAS Standards List](https://viewpoint.pwc.com/gx/en/pwc/iasbv2/ias_standards.html); 
-[Implementarea ISA 540 (revizuit) – Exemple ilustrative privind pierderile din creditare preconizate August 202](https://www.codetic-standardeinternationale.ro/wp-content/uploads/2021/02/IAASB-ISA-540-Expected-Credit-Loss-Illustrative-Examples-RO.pdf); 
+[Implementarea ISA 540 (revizuit) – Exemple ilustrative privind pierderile din creditare preconizate August 202](https://www.codetic-standardeinternationale.ro/wp-content/uploads/2021/02/IAASB-ISA-540-Expected-Credit-Loss-Illustrative-Examples-RO.pdf);
+[Percepţii privind impactul IFRS 15 – exemple ilustrative pas cu pas](https://revista.cafr.ro/temp/Articol_9611.pdf);
+
 
 
 
