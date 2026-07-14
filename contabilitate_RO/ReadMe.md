@@ -92,7 +92,9 @@ PENTRU INSTITUŢIILE PUBLICE - Contabilitate Publica - PDF](https://mfinante.gov
 [IFRS/IAS](https://www.linkedin.com/top-content/finance/understanding-financial-statements/accounting-standards-interpretation/#/); 
 [IFRS Ilustrative examples - downloads](https://www.ifrs.org/issued-standards/ifrs-taxonomy/ifrs-taxonomy-illustrative-examples/); 
 [IFRS Example Consolidated Financial Statements 2025](https://www.grantthornton.global/contentassets/868c3404db124e1ba3a4bf26c81fb6e2/25806-gti-ecfs-report-2025-final.pdf);
-[IFRS Accounting-Standards in Practice](https://www.bdo.global/en-gb/microsites/ifrs/ifrs-accounting-standards/publications/ifrs-accounting-standards-in-practice); 
+[IFRS Accounting-Standards in Practice](https://www.bdo.global/en-gb/microsites/ifrs/ifrs-accounting-standards/publications/ifrs-accounting-standards-in-practice);
+[Primary Financial Statements - Illustrive Examples](https://www.ifrs.org/content/dam/ifrs/meetings/2023/june/cmac-gpf/ap2-cmac-gpf-pfs.pdf); 
+
 
 
 
