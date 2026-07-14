@@ -1,6 +1,6 @@
 Aici am [descarcat](https://www.google.com/search?q=lista+nomenclatoareleor+folosite+in+romania&sourceid=chrome&ie=UTF-8&amc=1&aep=42&cud=0&source=chrome.crn.rb&mstk=AUtExfA2WwhMgGx608fiorTFm_L2Id7ihQPv5zpJ6v8S2sWIcHRkxwa18u9RPgtPHuJ2570Zd_JaZGiZ9551NXrbNeWHBAZXz6cwVHY8ypJxn8iGaqW_GfXT4bRn_Tdzl8AVDoBvbN22UukpTcG-7Wuqd-LeuqF38PROZbpTB5AzF4UIBchWFTlME8d7elMZGb86OI64Ed1Em6INMhCseetceEKPCRwGfBWZc3iwEaO763J8E72mD8zbkeDJsQ7rEdP61J0m0LwPRSWKb6vilhE0lBtxPvIjhFWl5uj9Pf5D3p5xfFyMQe7MSpMo2FjexT5FpmgvHCX2V61aGw&csuir=1&mtid=BPlUavC-CNSh1fIPzqWzkQs&udm=50) spre studiere **[nomenclatoarele](https://www.google.com/search?q=lista+nomenclatoareleor+folosite+in+romania&sourceid=chrome&ie=UTF-8&amc=1&aep=42&cud=0&source=chrome.crn.rb&udm=50&mstk=AUtExfDg9pI5JGOVqynDBEDWPmJeRSWZqJZx0zKzlog2WSmnx-UMqn6PcuUPFlXqBJDwAEKyKnBqTNvwXmddvjC8Oh3LYvuErfCqJWb3C3WJecR8x63wduY3d3EzkpGYgHFaX20ZIlomnZhRHICMz4ZtlsujzLoexTC0tKTVCF-xmuKdM4KLSE6bt2O048VeWuWkk_XcmwX1OOSIuNAQI8VMWiLKAkFC49LvCaEnJubjwam7LBGRyeHYEwpOI32An6Wo9_EdNB_bAE5xk6QzmD6fLGoM3T379ctdRnDxowzE_zc7vuLNzHhVlSc1Vavk56JLVCNvfxQLuhQH7g&csuir=1&mtid=BPlUavC-CNSh1fIPzqWzkQs) geografice** de la **MFP**(utile si pt raportarile **ANAF**).
 
-Aici sunt date si cateva exemple de seturi de date/DS standardizate(gen nomenclatoare,registre,standarde,codificari/coduri,clasificari,liste,conversii,ghiduri,documentari-tehnice,...), spre exemplu de la MFP(o anumita actualizare/snapshot si anume pt data de 12.01.2024 ... pt ca aceste date-seturi/DS-uri sunt intr-o continua schimbare/modificare/metamorfoza) SI NU NUMAI de la MFP...
+Aici sunt date si cateva exemple de seturi de date/DS standardizate(gen nomenclatoare,registre,standarde,codificari/coduri,clasificari,liste,conversii,ghiduri,documentari-tehnice,planuri,...), spre exemplu de la MFP(o anumita actualizare/snapshot si anume pt data de 12.01.2024 ... pt ca aceste date-seturi/DS-uri sunt intr-o continua schimbare/modificare/metamorfoza) SI NU NUMAI de la MFP...
 
 [Definite](https://www.ibee.ro/blog/nomenclatorul-de-articole-primul-pas-pentru-o-buna-gestiune-a-firmei/): Un **nomenclator** este o listă standardizată, o clasificare sau un nomenclator oficial utilizat pentru a organiza și cataloga informații într-un mod uniform în diverse domenii. 
 În România, cele mai căutate nomenclatoare sunt specifice domeniilor: administrației publice, sistemului medical, fiscalității și educației.
@@ -28,7 +28,7 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 
 [Ghiseul.RO Tip-Venit=Nomenclator-Unic](https://www.ghiseul.ro/ghiseul_admin/public/help/Index.htm?context=70)
 
-[Nomenclatorul PCG 2021](https://www.studocu.com/ro/document/universitatea-alexandru-ioan-cuza-din-iasi/bazele-contabilitatii/pcg-actualizat-2021/20595335?sid=a3fc0277-ef26-4a5d-b887-af89d856932d1784018371)
+[Panul de conturi general PCG 2021](https://www.studocu.com/ro/document/universitatea-alexandru-ioan-cuza-din-iasi/bazele-contabilitatii/pcg-actualizat-2021/20595335?sid=a3fc0277-ef26-4a5d-b887-af89d856932d1784018371)
 
 [ONPCSB/Oficiul Național de Prevenire și Combatere a Spălării Banilor - FIU RO - Nomenclatoare 2023](https://onpcsb.ro/ro/a/190/nomenclatoare-cf.-ordinului-191-/-28.06.2023)
 
