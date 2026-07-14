@@ -27,76 +27,34 @@
 [Implementarea ISA 540 (revizuit) – Exemple ilustrative privind pierderile din creditare preconizate August 202](https://www.codetic-standardeinternationale.ro/wp-content/uploads/2021/02/IAASB-ISA-540-Expected-Credit-Loss-Illustrative-Examples-RO.pdf);
 [Percepţii privind impactul IFRS 15 – exemple ilustrative pas cu pas](https://revista.cafr.ro/temp/Articol_9611.pdf);
 
-
-
-
 [PCG=CoA](https://assets.kpmg.com/content/dam/kpmg/ro/pdf/plan-de-conturi-2016-web.pdf); [Sanatate prin arte: PCG 2025 v1 - Download - PDF](https://sanatate-prin-arte.ro/planul-de-conturi-general/?gad_source=1&gad_campaignid=21174168694&gbraid=0AAAAApI8GfNTdIW95aJb_jF_vhMTJy9QK&gclid=CjwKCAjw14zPBhAuEiwAP3-Eb1m7cDC8soKF-1VK-FxOaWiORIsVTOGMGnN3CGHlFRxsbagKvgjkXhoCckcQAvD_BwE)<br/>
-
 [PCG](https://lteniorga.ro/wp-content/uploads/2020/03/Lectie-M2-pt-XA-si-XC-18-martie.pdf) Lectie PDF M2 pt clasa X 18-Martie; [Test evaluare Contul - PCG](https://isj.hd.edu.ro/images/Contabilitate/test_contul.pdf)<br/>
-
 [MFP-GOV-RO PCG sept2012 - PDF](https://mfinante.gov.ro/documents/35673/253356/articol_sept2012.pdf)<br/>
-
 [Relațiile comerciale ale entității - ORDIN 1802 din 2014](https://www.portalcontabilitate.ro/dbimg/files/Planul%20de%20conturi(9).pdf)<br/>
-
 [MFP-GOV-RO legislatie GHID(regl-contabile) ORDIN 1917 - PDF](https://www.mfinante.gov.ro/static/10/Mfp/legislatie/regl_contabile/ORDIN1917.pdf)<br/>
-
 [PCG-ContabBun](https://www.contabun.ro/plan-de-conturi/planul-de-conturi-general/?srsltid=AfmBOopq3Ey42N5Kb_Cb5yDWLQITS1i9D8oNn3cHMYKnDgKozJjhwP7R); [ContZilla - PCG](https://www.contzilla.ro/plan-de-conturi/)<br/>
-
-[TABEL DE CORESPONDENŢĂ ÎNTRE CONTURILE CONTABILE DE CHELTUIELI ŞI CODURILE BUGETARE 
-DIN CLASIFICAŢIA INDICATORILOR 
-PRIVIND FINANŢELE PUBLICE – CHELTUIELI, CLASIFICAŢIA ECONOMICĂ](https://www.academia.edu/43174431/TABEL_DE_CORESPONDEN%C5%A2%C4%82_%C3%8ENTRE_CONTURILE_CONTABILE_DE_CHELTUIELI_%C5%9EI_CODURILE_BUGETARE_DIN_CLASIFICA%C5%A2IA_INDICATORILOR_PRIVIND_FINAN%C5%A2ELE_PUBLICE_CHELTUIELI_CLASIFICA%C5%A2IA_ECONOMIC%C4%82)<br/>
-
+[TABEL DE CORESPONDENŢĂ ÎNTRE CONTURILE CONTABILE DE CHELTUIELI ŞI CODURILE BUGETARE DIN CLASIFICAŢIA INDICATORILOR PRIVIND FINANŢELE PUBLICE – CHELTUIELI, CLASIFICAŢIA ECONOMICĂ](https://www.academia.edu/43174431/TABEL_DE_CORESPONDEN%C5%A2%C4%82_%C3%8ENTRE_CONTURILE_CONTABILE_DE_CHELTUIELI_%C5%9EI_CODURILE_BUGETARE_DIN_CLASIFICA%C5%A2IA_INDICATORILOR_PRIVIND_FINAN%C5%A2ELE_PUBLICE_CHELTUIELI_CLASIFICA%C5%A2IA_ECONOMIC%C4%82)<br/>
 [PLANUL DE CONTURI GENERAL
 PENTRU INSTITUŢIILE PUBLICE - Contabilitate Publica - PDF](https://mfinante.gov.ro/documents/35673/253356/articol_sept2012.pdf)<br/>
-
 [Contabilitate Generala(CG) - Contul](https://economic2.ro/wp-content/uploads/2025/08/Contabilitate-generala-contul.pdf)<br/>
-
 [Planul de Conturi(PCG) - Actualizare - PDF](https://www.portalcontabilitate.ro/dbimg/files/Planul%20de%20conturi(9).pdf)<br/>
-
 [UCDC cursuri T_1_n115_Contabilitate 2009  Final PDF](https://file.ucdc.ro/cursuri/T_1_n115_Contabilitate.pdf.pdf)<br/>
-
 [ANAF Brasov - Modificari PCG - CONTAB - PDF](https://static.anaf.ro/static/10/Brasov/Brasov/CONTAB.pdf)<br/>
-
 [Curtea de Conturi a RO - RAPORT DE FOLLOW UP privind modul de ducere la îndeplinire a măsurilor dispuse prin Decizia nr. 27/16.08.2022](https://www.curteadeconturi.ro/rapoarte-audit/downloads/2075)<br/>
-
 [MFP-GOV-RO egislatie Anaxa 2169 FEN - PDF](https://www.mfinante.gov.ro/static/10/Mfp/legislatie/Anaxa2169FEN.pdf)<br/>
-
 [Sintact: Capitolul 10 - PLANUL DE CONTURI - Reglementari Contabile din 2016 conforme cu Standardele Internaţionale de Raportare Financiară](https://sintact.ro/legislatie/monitorul-oficial/reglementari-contabile-din-2016-conforme-cu-standardele-16960319/roz-10); [Sintact: Cap 2 PCG 2001](https://sintact.ro/legislatie/monitorul-oficial/reglementari-din-2001-contabile-armonizate-cu-directiva-16829204/roz-2)<br/>
-
 [Sintact: Capitolul iii - Corespondenţa cu Planul de conturi pentru instituţiile care aplică IFRS 1 - Norme Metodologice din 2020 privind întocmirea raportării contabile anuale pentru necesităţi de informaţii ale Ministerului Finanţelor Publice, aplicabile instituţiilor de credit](https://sintact.ro/legislatie/monitorul-oficial/norme-metodologice-din-2020-privind-intocmirea-raportarii-16986975/roz-iii)
-
 [MFP - legislatie - Reglementari Contabile - ORDIN 1917 din 2005](https://www.mfinante.gov.ro/static/10/Mfp/legislatie/regl_contabile/ORDIN1917.pdf)<br/>
-
 [ASE - PCG - Download 2021/2022 - Plan General de Conturi pentru Analiza Contabilă](https://www.studocu.com/ro/document/academia-de-studii-economice-din-bucuresti/contabilitate-accounting/pcg-planul-general-de-conturi-necesar-analizei-contabile/27774305); [StuDocu - ASE - Documente](https://www.studocu.com/ro/institution/academia-de-studii-economice-din-bucuresti/8211)<br/>
-
 [ScriBD - PCG](https://www.scribd.com/document/964197870/Planul-Contabil-General)<br/>
-
-
 [SoftPro: Fisa-SAH Cartea-Mare - Situatii pe Conturi-Corespondente](https://softpro.ro/fisa-sah-cartea-mare-situatii-pe-conturi-corespondente/)<br/>
-
 [TaxDome-blog: Registrul Cartea-Mare](https://taxdome.com/ro-ro/blog/registrul-cartea-mare)<br/>
-
 [UT CJ - Monografie Contabila - pt ingineri Economisti si nu numai... 2022 - PDF](https://biblioteca.utcluj.ro/files/carti-online-cu-coperta/585-5.pdf)<br/>
-
 [INTESA SanPaolo Bank- Banci corespondente - Conturi Bancare NOSTRO - PDF](https://www.intesasanpaolobank.ro/document/documents/ISPROMANIA/banci-corespondente/banci-corespondente.pdf); [Cec Bank - Banci corespondente si conturi aferente - coduri Swift](https://www.cec.ro/conturi-de-corespondent); [BT- Conturi bancare corespondente](https://www.bancatransilvania.ro/lista-bancilor-corespondente);[BCR- Banci corespondente](https://www.bcr.ro/ro/despre-noi/relatii-internationale/banci-corespondente)<br/>
-
 [BCR: Tarife si comisioane pt Banci-Corespondente](https://www.bcr.ro/ro/despre-noi/relatii-internationale/tarife-si-comisioane-pentru-banci-corespondente)<br/>
-
 [CIG: CONTABILITATEA INSTITUŢIILOR DE CREDIT Prof. univ. dr. Lucian – Ion Medar - 2015 - Licenta](https://www.utgjiu.ro/id/docs/centru_economic/licenta%202015/CIG_tematica%20licenta_Contabilitatea%20institutiilor%20de%20%20%20credit.pdf)<br/>
-
 [CC Rapoarte Audit - centralizare pe conturi corespondente - 2021](https://www.curteadeconturi.ro/rapoarte-audit/downloads/1491)<br/>
-
 [DGASPC- HD - Compartiment contabilitate](https://www.dgaspchd.ro/index.php?option=com_content&view=article&id=362)<br/>
-
 [Monografii contabile HD - Clasa XII](https://isj.hd.edu.ro/images/Contabilitate/Monografii%20contabile.pdf)<br/>
-
 [ScriBD - Corespondenta Conturilor](https://www.scribd.com/document/577351469/CORESPONDENTA-Conturilor); [Slide 1](https://www.alegetidrumul.ro/uploads/calificari/177/Materiale%20didactice/IX_Bazele%20contabilitatii_Prof_MicuM.ppt)<br/>
-
 [UniCredit - Cont curent bancar](https://www.unicredit.ro/ro/persoane-fizice/pi/cont-curent.html)<br/>
-
-
-
-
-
-
-
