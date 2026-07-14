@@ -21,6 +21,8 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 [Ghidul ANAF priv. eFactura-utilizarea codurilor](https://www.portalcodulfiscal.ro/ghidul-anaf-privind-utilizarea-codurilor-ro-e-factura-64385.htm); 
 [eFactura decodificata](https://ro-efactura.ro/e-factura-decodificata-751-semnificatie-si-implicatii/)
 
+[GOV-RO ANAP  2019: Reclasificare coduri CPV](https://anap.gov.ro/ro/wp-content/uploads/2019/02/Reclasificare-coduri-CPV.pdf)
+
 [IAPP e-Factura: Lista codurilor pt UM](https://developer.iapp.ro/article/80-e-Factura-Lista-codurilor-pentru-unit%C4%83%C8%9Bile-de-m%C4%83sur%C4%83); 
 [IAPP e-Factura: Lista codurilor NC](https://developer.iapp.ro/article/81-e-Factura-Lista-codurilor-NC); 
 [PayCode- eFactura - Documentatie tehnica](https://paycode.ro/efactura/documentatie-tehnica-efactura);
