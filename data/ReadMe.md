@@ -75,6 +75,8 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 [MA:DA-MB: Nomenclatoare AE(2022)](http://www.damb.ro/nomenclatoare-a-e/10/03/2022/); 
 [DAJ-CL: Nomenclatoare folosite in agricultura](https://dajcalarasi.ro/?page_id=753)
 
+[DSP-DJ: Nomenclatorul investigatiilor de laborator](http://www.dspdolj.ro/investigatii_lab_2006.pdf)
+
 [GOV-MD Statistica: Clasificari si nomenclatoare](https://statistica.gov.md/ro/clasificari-si-nomenclatoare-9881.html); 
 [AMDM GOV-MD Nomenclator Medicamente din Republica Moldova](https://nomenclator.amdm.gov.md/)
 
