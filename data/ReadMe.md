@@ -52,6 +52,7 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 [CASBT/Casa de Asigurari de Sanatate Botosani:  Buletin Board = Nomenclatoare](https://for.casbt.ro/viewtopic.php?t=21); 
 [ANM](https://nomenclator.anm.ro/) = [ANMDMR](https://www.anm.ro/medicamente-de-uz-uman/anunturi-importante-medicamente-de-uz-uman/) - [nomenclator medicamente](https://nomenclator.anm.ro/medicamente); 
 [SCNPC - Lista cooduri boala 999](https://scnpc.ro/files/CODURI%20boala_%20lista%20999.pdf); 
+[NOMENCLATOR de specialităţi medicale, medico dentare şi farmaceutice pentru reţeaua de asistenţă medicală | Ordin 1509/2008](https://lege5.ro/Gratuit/geytsmbsgu/nomenclator-de-specialitati-medicale-medico-dentare-si-farmaceutice-pentru-reteaua-de-asistenta-medicala-ordin-1509-2008?dp=gm4danjvgm3tq); 
 [Nomenclator Medicamente HomeoPatice](https://homeopatie.ro/nomenclator-medicamente-homeopatice/);
 [ICBMV - Nomenclator Produse de uz veterinar](http://www.icbmv.ro/ro/nomenclator-produse)
 
