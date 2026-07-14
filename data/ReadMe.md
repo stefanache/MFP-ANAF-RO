@@ -23,6 +23,7 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 
 [GOV-RO ANAP  2019: Reclasificare coduri CPV](https://anap.gov.ro/ro/wp-content/uploads/2019/02/Reclasificare-coduri-CPV.pdf); [NXM: Cod CPV](https://www.cpv.nxm.ro/);
 
+[licomp: D406=SAF-T si D409](https://www.licomp.ro/); 
 [CENTRALIZATOR NOMENCLATOARE UTILIZATE PENTRU DECLARAȚIA INFORMATIVĂ](https://www.licomp.ro/D406web/d406_022026/centralizator_nomenclatoare.htm)  [SAF-T - D406](https://www.anaf.ro/anaf/internet/ANAF/despre_anaf/strategii_anaf/proiecte_digitalizare/saf_t/!ut/p/a1/hc49D4IwEAbg38LAyh0YGuKGRkVkEBahiwFTC6ZQUir8fatxIfHjtvfyvLkDCjnQrhwbXupGdqV4ZkrOkRuRyAu8ONima0wzN9mEB0QMiAGFAfhlQvzXPwGdE4xSxNRf7TN_dzSGvMGPEzFQLmT1ercIu2oRcKCKXZliyrkrs6617oeljTZO0-RwKblgzkW2Nn6q1HLQkM8l9G2ON1-MSWhZD4w7mwU!/dl5/d5/L2dBISEvZ0FBIS9nQSEh/); 
 [D406:NOMENCLATOR CODURI DE TAXĂ TVA PENTRU OPERAȚIUNI DE VÂNZARE](https://www.licomp.ro/D406web/D406_nomenclator_coduri_taxa_tava_vanzare.htm)
 
