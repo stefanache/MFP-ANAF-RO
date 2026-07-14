@@ -4,7 +4,7 @@
 [ANAF - Raportari anuale](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/programeutile/RAP/raportari_anuale.html)
 
 [BPMN 2.0](https://www.signavio.com/downloads/short-reads/free-bpmn-2-0-poster-2/); 
-[IFRS/IAS](https://www.google.com/search?q=illustrative+examples+IFRS+IAS&lr=lang_ro&sa=N&sca_esv=687c80ba214a4f2f&sxsrf=APpeQntt5R5HxH-AsHxKH63n7mbCNGpxSg%3A1784048759706&udm=50&fbs=ABfTbFWfH4wlW6n2_hxvp9wb2ZU9vOI7RSRt7FUzXBlQT0_UgXAJHqgZhxe_zIDLE9sUfkxX0YEAS3PYDr35ZdpSXWkujsvwvEJQLhO-I6wK73RkrswzM0P-s1MHHKHpaWqIMk61bgx0bIriUXoLH9OmTq-CGxRHhLSpGihwo94HcAPRA6VSRTKaXPibowNxQO8m0LIRGO_5k_9CVyKyim7XZOMINvS1uQ&aep=1&ntc=1&cs=1&ved=2ahUKEwj869XE09KVAxUpGBAIHQQ9Abo4FBDYnw56BAgNEAM&biw=1685&bih=874&dpr=1.1&mstk=AUtExfDA57z-6fvOJKpXEJzrBaqNF-izqYFGa9_iaGydvYmZz_p5YkQTrzYRusUf0QIAq75ZvN5A8UjL5WS8XsZoZFwRm1tJA3dncBRGiZfp9MwjH6vqs_PhhN6Siwk48Wzh0_2-6wXgrKHutA5XLaf1MAKTJFMOotpuQYQgtAn7pMyeeAg7kiUVvSt4LbKaZptu24agAiuPHb1nelf0IN- V4CXhRi7R0vNxEGClrnQ513Qk9vzjjMMxhAdQ2LKDiam54JQu4f2tpa2Zto3WSimsoCpHTHiudvtcMnhimCidLpnWfa68UScl1s8p3DaAYspr4FUlHcfL6thig&csuir=1&mtid=q2xWap2iBs-hwPAPlOWh0Ag); 
+[IFRS/IAS](https://www.google.com/search?q=illustrative+examples+IFRS+IAS&lr=lang_ro&sa=N&sca_esv=687c80ba214a4f2f&sxsrf=APpeQntt5R5HxH-AsHxKH63n7mbCNGpxSg%3A1784048759706&udm=50&fbs=ABfTbFWfH4wlW6n2_hxvp9wb2ZU9vOI7RSRt7FUzXBlQT0_UgXAJHqgZhxe_zIDLE9sUfkxX0YEAS3PYDr35ZdpSXWkujsvwvEJQLhO-I6wK73RkrswzM0P-s1MHHKHpaWqIMk61bgx0bIriUXoLH9OmTq-CGxRHhLSpGihwo94HcAPRA6VSRTKaXPibowNxQO8m0LIRGO_5k_9CVyKyim7XZOMINvS1uQ&aep=1&ntc=1&cs=1&ved=2ahUKEwj869XE09KVAxUpGBAIHQQ9Abo4FBDYnw56BAgNEAM&biw=1685&bih=874&dpr=1.1&mstk=AUtExfDA57z-6fvOJKpXEJzrBaqNF-izqYFGa9_iaGydvYmZz_p5YkQTrzYRusUf0QIAq75ZvN5A8UjL5WS8XsZoZFwRm1tJA3dncBRGiZfp9MwjH6vqs_PhhN6Siwk48Wzh0_2-6wXgrKHutA5XLaf1MAKTJFMOotpuQYQgtAn7pMyeeAg7kiUVvSt4LbKaZptu24agAiuPHb1nelf0IN-kV4CXhRi7R0vNxEGClrnQ513Qk9vzjjMMxhAdQ2LKDiam54JQu4f2tpa2Zto3WSimsoCpHTHiudvtcMnhimCidLpnWfa68UScl1s8p3DaAYspr4FUlHcfL6thig&csuir=1&mtid=q2xWap2iBs-hwPAPlOWh0Ag); 
 
 
 [Prezentare](https://www.google.com/search?q=ifrs+IAS+DR+%3D+CR+list+of+correspondances+equations&sca_esv=f6b4719bbe8f3f25&biw=1536&bih=769&sxsrf=APpeQnv-LI1nDU9qqKcWy8tiJUCZdWhrgQ%3A1783071807173&ei=P4RHasuWCpepwPAP_ue3kAE&ved=0ahUKEwiLsrONnLaVAxWXFBAIHf7zDRIQ4dUDCBA&uact=5&oq=ifrs+IAS+DR+%3D+CR+list+of+correspondances+equations&gs_lp=Egxnd3Mtd2l6LXNlcnAiMmlmcnMgSUFTIERSID0gQ1IgbGlzdCBvZiBjb3JyZXNwb25kYW5jZXMgZXF1YXRpb25zMgUQABjvBTIIEAAYgAQYogQyBRAAGO8FMggQABiABBiiBDIIEAAYiQUYogRIkVBQ_RlYmT9wAXgBkAEAmAHGAaABwA6qAQQwLjEwuAEDyAEA-AEBmAILoAKUD8ICChAAGEcY1gQYsAPCAgQQIRgVwgIGECEYFRgKmAMA4gMFEgExIECIBgGQBgiSBwUxLjguMqAHsxyyBwUwLjguMrgHkA_CBwcwLjUuNC4yyAcwgAgB&sclient=gws-wiz-serp) [PCG](https://www.scribd.com/presentation/514796967/prezentare-PCG)([Plan de Conturi General](https://www.google.com/search?q=ifrs+IAS+DR+%3D+CR+list+of+correspondances&sca_esv=f6b4719bbe8f3f25&biw=1536&bih=769&sxsrf=APpeQntdY5DRBTg3y8QvZah8m5t7OyWLzw%3A1783071795303&ei=M4RHasqMEtC5wPAPso2t2Ag&ved=0ahUKEwiK8t6HnLaVAxXQHBAIHbJGC4sQ4dUDCBA&uact=5&oq=ifrs+IAS+DR+%3D+CR+list+of+correspondances&gs_lp=Egxnd3Mtd2l6LXNlcnAiKGlmcnMgSUFTIERSID0gQ1IgbGlzdCBvZiBjb3JyZXNwb25kYW5jZXMyBxAhGAoYoAFIiTxQowRY3jpwAXgBkAEAmAHAAaABoSCqAQQwLjI0uAEDyAEA-AEBmAIZoALpIcICChAAGEcY1gQYsAPCAggQABiABBiiBMICBRAAGO8FwgIFECEYnwXCAgQQIRgVwgIFECEYoAGYAwCIBgGQBgiSBwYxLjIyLjKgB_46sgcGMC4yMi4yuAfZIcIHCDEuOC4xMy4zyAdogAgB&sclient=gws-wiz-serp))<br/>
@@ -25,7 +25,19 @@
 
 [Accounting Standards Interpretation](https://www.linkedin.com/top-content/finance/understanding-financial-statements/accounting-standards-interpretation/)
 
-[BPMN IFRS IAS](https://www.google.com/search?q=BPMN+IFRS+IAS&sa=X&sca_esv=f6b4719bbe8f3f25&sxsrf=APpeQnvmensI_U80fAAqS4E1l-kG2FJnbQ%3A1783074101476&udm=50&fbs=ABfTbFWfH4wlW6n2_hxvp9wb2ZU9vOI7RSRt7FUzXBlQT0_UgT5SPy7rpZO1forRzdUsSLjlWx4YkDAczWSNJ7sOzmkVk70MsnH38ySFQpX-E02dX1WaobZPieQ-KX-rTNK_QJtraKh9O69bTMuI_O9pzPDxZ7PHpRYF3FoMpo4nboxPkMwjucu1epCOQ3udN7rItWFycqyU9fnulC_CLTDlYOF-8suQdw&aep=1&ntc=1&ved=2ahUKEwjHvbTTpLaVAxXvIRAIHZ0vDKoQ2J8OegQIChAD&biw=1536&bih=769&dpr=1.25&mstk=AUtExfADTthKarUtnODFnSFbriND7Co_4pFm3ffX_fHFXIg9gtwCtBofhkslicxf2ZK_aBsZwyb0A4jFu1KZmt2HDxJJkY_ior1F3wMuB-E3u1BA5VrgTx_Ga4l5pJVl11xpheY2z6k1hNpUxZk36IuGgnwREiD4hlZSkoQ6PJnscj6UFg4vG-GXnpCmBssZ93wHeQyDcCwH50Awt6z80G7WkACHgShoB_OaVLNOiC8KZ55So19HXOOzASWMvh-WNZ7VBmugISb5BE2gsyc5qSAuXs6CB2uL58AOkWveFjcWzLxZclseC1KcDAYSveA2sQWCjldChqpQEyHPARjIHG3JGr6fCZxLgm-rqg&csuir=1&mtid=OI1HasfqFe2owPAPqvK7sQE)
+[BPMN IFRS IAS](https://www.google.com/search?q=BPMN+IFRS+IAS&sa=X&sca_esv=f6b4719bbe8f3f25&sxsrf=APpeQnvmensI_U80fAAqS4E1l-kG2FJnbQ%3A1783074101476&udm=50&fbs=ABfTbFWfH4wlW6n2_hxvp9wb2ZU9vOI7RSRt7FUzXBlQT0_UgT5SPy7rpZO1forRzdUsSLjlWx4YkDAczWSNJ7sOzmkVk70MsnH38ySFQpX-E02dX1WaobZPieQ-KX-rTNK_QJtraKh9O69bTMuI_O9pzPDxZ7PHpRYF3FoMpo4nboxPkMwjucu1epCOQ3udN7rItWFycqyU9fnulC_CLTDlYOF-8suQdw&aep=1&ntc=1&ved=2ahUKEwjHvbTTpLaVAxXvIRAIHZ0vDKoQ2J8OegQIChAD&biw=1536&bih=769&dpr=1.25&mstk=AUtExfADTthKarUtnODFnSFbriND7Co_4pFm3ffX_fHFXIg9gtwCtBofhkslicxf2ZK_aBsZwyb0A4jFu1KZmt2HDxJJkY_ior1F3wMuB-E3u1BA5VrgTx_Ga4l5pJVl11xpheY2z6k1hNpUxZk36IuGgnwREiD4hlZSkoQ6PJnscj6UFg4vG-GXnpCmBssZ93wHeQyDcCwH50Awt6z80G7WkACHgShoB_OaVLNOiC8KZ55So19HXOOzASWMvh-WNZ7VBmugISb5BE2gsyc5qSAuXs6CB2uL58AOkWveFjcWzLxZclseC1KcDAYSveA2sQWCjldChqpQEyHPARjIHG3JGr6fCZxLgm-rqg&csuir=1&mtid=OI1HasfqFe2owPAPqvK7sQE); 
+[IFRS/IAS](https://www.linkedin.com/top-content/finance/understanding-financial-statements/accounting-standards-interpretation/#/); 
+[IFRS Ilustrative examples - downloads](https://www.ifrs.org/issued-standards/ifrs-taxonomy/ifrs-taxonomy-illustrative-examples/); 
+[IFRS Example Consolidated Financial Statements 2025](https://www.grantthornton.global/contentassets/868c3404db124e1ba3a4bf26c81fb6e2/25806-gti-ecfs-report-2025-final.pdf);
+[IFRS Accounting-Standards in Practice](https://www.bdo.global/en-gb/microsites/ifrs/ifrs-accounting-standards/publications/ifrs-accounting-standards-in-practice);
+[Primary Financial Statements - Illustrive Examples](https://www.ifrs.org/content/dam/ifrs/meetings/2023/june/cmac-gpf/ap2-cmac-gpf-pfs.pdf); 
+[IAS+ Illustrative financial statementa](https://www.iasplus.com/en/publications/global/publication-series/models-and-checklists); 
+[IAS Standards List](https://viewpoint.pwc.com/gx/en/pwc/iasbv2/ias_standards.html); 
+[Implementarea ISA 540 (revizuit) – Exemple ilustrative privind pierderile din creditare preconizate August 202](https://www.codetic-standardeinternationale.ro/wp-content/uploads/2021/02/IAASB-ISA-540-Expected-Credit-Loss-Illustrative-Examples-RO.pdf);
+[Percepţii privind impactul IFRS 15 – exemple ilustrative pas cu pas](https://revista.cafr.ro/temp/Articol_9611.pdf);
+
+
+
 
 [PCG=CoA](https://assets.kpmg.com/content/dam/kpmg/ro/pdf/plan-de-conturi-2016-web.pdf); [Sanatate prin arte: PCG 2025 v1 - Download - PDF](https://sanatate-prin-arte.ro/planul-de-conturi-general/?gad_source=1&gad_campaignid=21174168694&gbraid=0AAAAApI8GfNTdIW95aJb_jF_vhMTJy9QK&gclid=CjwKCAjw14zPBhAuEiwAP3-Eb1m7cDC8soKF-1VK-FxOaWiORIsVTOGMGnN3CGHlFRxsbagKvgjkXhoCckcQAvD_BwE)<br/>
 
@@ -90,17 +102,6 @@ PENTRU INSTITUŢIILE PUBLICE - Contabilitate Publica - PDF](https://mfinante.gov
 [ScriBD - Corespondenta Conturilor](https://www.scribd.com/document/577351469/CORESPONDENTA-Conturilor); [Slide 1](https://www.alegetidrumul.ro/uploads/calificari/177/Materiale%20didactice/IX_Bazele%20contabilitatii_Prof_MicuM.ppt)<br/>
 
 [UniCredit - Cont curent bancar](https://www.unicredit.ro/ro/persoane-fizice/pi/cont-curent.html)<br/>
-
-[IFRS/IAS](https://www.linkedin.com/top-content/finance/understanding-financial-statements/accounting-standards-interpretation/#/); 
-[IFRS Ilustrative examples - downloads](https://www.ifrs.org/issued-standards/ifrs-taxonomy/ifrs-taxonomy-illustrative-examples/); 
-[IFRS Example Consolidated Financial Statements 2025](https://www.grantthornton.global/contentassets/868c3404db124e1ba3a4bf26c81fb6e2/25806-gti-ecfs-report-2025-final.pdf);
-[IFRS Accounting-Standards in Practice](https://www.bdo.global/en-gb/microsites/ifrs/ifrs-accounting-standards/publications/ifrs-accounting-standards-in-practice);
-[Primary Financial Statements - Illustrive Examples](https://www.ifrs.org/content/dam/ifrs/meetings/2023/june/cmac-gpf/ap2-cmac-gpf-pfs.pdf); 
-[IAS+ Illustrative financial statementa](https://www.iasplus.com/en/publications/global/publication-series/models-and-checklists); 
-[IAS Standards List](https://viewpoint.pwc.com/gx/en/pwc/iasbv2/ias_standards.html); 
-[Implementarea ISA 540 (revizuit) – Exemple ilustrative privind pierderile din creditare preconizate August 202](https://www.codetic-standardeinternationale.ro/wp-content/uploads/2021/02/IAASB-ISA-540-Expected-Credit-Loss-Illustrative-Examples-RO.pdf);
-[Percepţii privind impactul IFRS 15 – exemple ilustrative pas cu pas](https://revista.cafr.ro/temp/Articol_9611.pdf);
-
 
 
 
