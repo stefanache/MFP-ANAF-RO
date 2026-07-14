@@ -95,5 +95,8 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 [GOV-MD Statistica: Clasificari si nomenclatoare](https://statistica.gov.md/ro/clasificari-si-nomenclatoare-9881.html); 
 [AMDM GOV-MD Nomenclator Medicamente din Republica Moldova](https://nomenclator.amdm.gov.md/)
 
+[GH: Awesome MCP-servers](https://github.com/PipedreamHQ/awesome-mcp-servers); 
+[GH: Awesome API-servers](https://github.com/Kikobeats/awesome-api); 
+
 
   
