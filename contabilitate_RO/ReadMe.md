@@ -90,7 +90,7 @@ PENTRU INSTITUŢIILE PUBLICE - Contabilitate Publica - PDF](https://mfinante.gov
 [UniCredit - Cont curent bancar](https://www.unicredit.ro/ro/persoane-fizice/pi/cont-curent.html)<br/>
 
 [IFRS/IAS](https://www.linkedin.com/top-content/finance/understanding-financial-statements/accounting-standards-interpretation/#/); 
-[IFRS Ilustrative examples](https://www.ifrs.org/issued-standards/ifrs-taxonomy/ifrs-taxonomy-illustrative-examples/); 
+[IFRS Ilustrative examples - downloads](https://www.ifrs.org/issued-standards/ifrs-taxonomy/ifrs-taxonomy-illustrative-examples/); 
 
 
 
