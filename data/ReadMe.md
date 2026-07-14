@@ -23,7 +23,7 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 
 [GOV-RO ANAP  2019: Reclasificare coduri CPV](https://anap.gov.ro/ro/wp-content/uploads/2019/02/Reclasificare-coduri-CPV.pdf); [NXM: Cod CPV](https://www.cpv.nxm.ro/);
 
-[CENTRALIZATOR NOMENCLATOARE UTILIZATE PENTRU DECLARAȚIA INFORMATIVĂ SAF-T - D406](https://www.licomp.ro/D406web/d406_022026/centralizator_nomenclatoare.htm)
+[CENTRALIZATOR NOMENCLATOARE UTILIZATE PENTRU DECLARAȚIA INFORMATIVĂ](https://www.licomp.ro/D406web/d406_022026/centralizator_nomenclatoare.htm)  [SAF-T - D406](https://www.anaf.ro/anaf/internet/ANAF/despre_anaf/strategii_anaf/proiecte_digitalizare/saf_t/!ut/p/a1/hc49D4IwEAbg38LAyh0YGuKGRkVkEBahiwFTC6ZQUir8fatxIfHjtvfyvLkDCjnQrhwbXupGdqV4ZkrOkRuRyAu8ONima0wzN9mEB0QMiAGFAfhlQvzXPwGdE4xSxNRf7TN_dzSGvMGPEzFQLmT1ercIu2oRcKCKXZliyrkrs6617oeljTZO0-RwKblgzkW2Nn6q1HLQkM8l9G2ON1-MSWhZD4w7mwU!/dl5/d5/L2dBISEvZ0FBIS9nQSEh/)
 
 [IAPP e-Factura: Lista codurilor pt UM](https://developer.iapp.ro/article/80-e-Factura-Lista-codurilor-pentru-unit%C4%83%C8%9Bile-de-m%C4%83sur%C4%83); 
 [IAPP e-Factura: Lista codurilor NC](https://developer.iapp.ro/article/81-e-Factura-Lista-codurilor-NC); 
