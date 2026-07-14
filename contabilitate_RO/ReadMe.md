@@ -3,28 +3,19 @@
 
 [ANAF - Raportari anuale](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/programeutile/RAP/raportari_anuale.html)
 
-[BPMN 2.0](https://www.signavio.com/downloads/short-reads/free-bpmn-2-0-poster-2/); 
-[IFRS/IAS](https://www.google.com/search?q=illustrative+examples+IFRS+IAS&lr=lang_ro&sa=N&sca_esv=687c80ba214a4f2f&sxsrf=APpeQntt5R5HxH-AsHxKH63n7mbCNGpxSg%3A1784048759706&udm=50&fbs=ABfTbFWfH4wlW6n2_hxvp9wb2ZU9vOI7RSRt7FUzXBlQT0_UgXAJHqgZhxe_zIDLE9sUfkxX0YEAS3PYDr35ZdpSXWkujsvwvEJQLhO-I6wK73RkrswzM0P-s1MHHKHpaWqIMk61bgx0bIriUXoLH9OmTq-CGxRHhLSpGihwo94HcAPRA6VSRTKaXPibowNxQO8m0LIRGO_5k_9CVyKyim7XZOMINvS1uQ&aep=1&ntc=1&cs=1&ved=2ahUKEwj869XE09KVAxUpGBAIHQQ9Abo4FBDYnw56BAgNEAM&biw=1685&bih=874&dpr=1.1&mstk=AUtExfDA57z-6fvOJKpXEJzrBaqNF-izqYFGa9_iaGydvYmZz_p5YkQTrzYRusUf0QIAq75ZvN5A8UjL5WS8XsZoZFwRm1tJA3dncBRGiZfp9MwjH6vqs_PhhN6Siwk48Wzh0_2-6wXgrKHutA5XLaf1MAKTJFMOotpuQYQgtAn7pMyeeAg7kiUVvSt4LbKaZptu24agAiuPHb1nelf0IN-kV4CXhRi7R0vNxEGClrnQ513Qk9vzjjMMxhAdQ2LKDiam54JQu4f2tpa2Zto3WSimsoCpHTHiudvtcMnhimCidLpnWfa68UScl1s8p3DaAYspr4FUlHcfL6thig&csuir=1&mtid=q2xWap2iBs-hwPAPlOWh0Ag); 
-
-
 [Prezentare](https://www.google.com/search?q=ifrs+IAS+DR+%3D+CR+list+of+correspondances+equations&sca_esv=f6b4719bbe8f3f25&biw=1536&bih=769&sxsrf=APpeQnv-LI1nDU9qqKcWy8tiJUCZdWhrgQ%3A1783071807173&ei=P4RHasuWCpepwPAP_ue3kAE&ved=0ahUKEwiLsrONnLaVAxWXFBAIHf7zDRIQ4dUDCBA&uact=5&oq=ifrs+IAS+DR+%3D+CR+list+of+correspondances+equations&gs_lp=Egxnd3Mtd2l6LXNlcnAiMmlmcnMgSUFTIERSID0gQ1IgbGlzdCBvZiBjb3JyZXNwb25kYW5jZXMgZXF1YXRpb25zMgUQABjvBTIIEAAYgAQYogQyBRAAGO8FMggQABiABBiiBDIIEAAYiQUYogRIkVBQ_RlYmT9wAXgBkAEAmAHGAaABwA6qAQQwLjEwuAEDyAEA-AEBmAILoAKUD8ICChAAGEcY1gQYsAPCAgQQIRgVwgIGECEYFRgKmAMA4gMFEgExIECIBgGQBgiSBwUxLjguMqAHsxyyBwUwLjguMrgHkA_CBwcwLjUuNC4yyAcwgAgB&sclient=gws-wiz-serp) [PCG](https://www.scribd.com/presentation/514796967/prezentare-PCG)([Plan de Conturi General](https://www.google.com/search?q=ifrs+IAS+DR+%3D+CR+list+of+correspondances&sca_esv=f6b4719bbe8f3f25&biw=1536&bih=769&sxsrf=APpeQntdY5DRBTg3y8QvZah8m5t7OyWLzw%3A1783071795303&ei=M4RHasqMEtC5wPAPso2t2Ag&ved=0ahUKEwiK8t6HnLaVAxXQHBAIHbJGC4sQ4dUDCBA&uact=5&oq=ifrs+IAS+DR+%3D+CR+list+of+correspondances&gs_lp=Egxnd3Mtd2l6LXNlcnAiKGlmcnMgSUFTIERSID0gQ1IgbGlzdCBvZiBjb3JyZXNwb25kYW5jZXMyBxAhGAoYoAFIiTxQowRY3jpwAXgBkAEAmAHAAaABoSCqAQQwLjI0uAEDyAEA-AEBmAIZoALpIcICChAAGEcY1gQYsAPCAggQABiABBiiBMICBRAAGO8FwgIFECEYnwXCAgQQIRgVwgIFECEYoAGYAwCIBgGQBgiSBwYxLjIyLjKgB_46sgcGMC4yMi4yuAfZIcIHCDEuOC4xMy4zyAdogAgB&sclient=gws-wiz-serp))<br/>
 
 [OMF 2036/2025](https://static.anaf.ro/static/10/Anaf/legislatie/OMF_2036_2025.pdf)
 
-[Standarde IFRS](https://danubius.org/contabilitate-si-raportare-financiara-care-sunt-standardele-internationale-si-de-ce-trebuie-sa-tii-cont-ca-antreprenor/); [wiki: List of IFRS standards](https://en.wikipedia.org/wiki/List_of_International_Financial_Reporting_Standards); [IAS](https://www.iasplus.com/en/standards); [IAS-Plus: IAS](https://www.iasplus.com/en/standards/ias); [KPMG: IFRS Accounting Standards](https://assets.kpmg.com/content/dam/kpmgsites/xx/pdf/ifrg/2024/isg-standard-list.pdf)
-
-[IFRS adoption in developing countries: the case of Romania](https://online-cig.ase.ro/jcig/art/13_2_6.pdf);
-
-[ESA-auditing: List of IFRS standards](https://www.esauditing.com/ifrs/list-of-ifrs-standards/);
-
-[Financial-Accounting Equation and Double-Entry System](https://www.scribd.com/document/449269614/Financial-Accounting-2);
-
+[BPMN 2.0](https://www.signavio.com/downloads/short-reads/free-bpmn-2-0-poster-2/); 
+[IFRS/IAS](https://www.google.com/search?q=illustrative+examples+IFRS+IAS&lr=lang_ro&sa=N&sca_esv=687c80ba214a4f2f&sxsrf=APpeQntt5R5HxH-AsHxKH63n7mbCNGpxSg%3A1784048759706&udm=50&fbs=ABfTbFWfH4wlW6n2_hxvp9wb2ZU9vOI7RSRt7FUzXBlQT0_UgXAJHqgZhxe_zIDLE9sUfkxX0YEAS3PYDr35ZdpSXWkujsvwvEJQLhO-I6wK73RkrswzM0P-s1MHHKHpaWqIMk61bgx0bIriUXoLH9OmTq-CGxRHhLSpGihwo94HcAPRA6VSRTKaXPibowNxQO8m0LIRGO_5k_9CVyKyim7XZOMINvS1uQ&aep=1&ntc=1&cs=1&ved=2ahUKEwj869XE09KVAxUpGBAIHQQ9Abo4FBDYnw56BAgNEAM&biw=1685&bih=874&dpr=1.1&mstk=AUtExfDA57z-6fvOJKpXEJzrBaqNF-izqYFGa9_iaGydvYmZz_p5YkQTrzYRusUf0QIAq75ZvN5A8UjL5WS8XsZoZFwRm1tJA3dncBRGiZfp9MwjH6vqs_PhhN6Siwk48Wzh0_2-6wXgrKHutA5XLaf1MAKTJFMOotpuQYQgtAn7pMyeeAg7kiUVvSt4LbKaZptu24agAiuPHb1nelf0IN-kV4CXhRi7R0vNxEGClrnQ513Qk9vzjjMMxhAdQ2LKDiam54JQu4f2tpa2Zto3WSimsoCpHTHiudvtcMnhimCidLpnWfa68UScl1s8p3DaAYspr4FUlHcfL6thig&csuir=1&mtid=q2xWap2iBs-hwPAPlOWh0Ag); 
+[Standarde IFRS](https://danubius.org/contabilitate-si-raportare-financiara-care-sunt-standardele-internationale-si-de-ce-trebuie-sa-tii-cont-ca-antreprenor/); [wiki: List of IFRS standards](https://en.wikipedia.org/wiki/List_of_International_Financial_Reporting_Standards); [IAS](https://www.iasplus.com/en/standards); [IAS-Plus: IAS](https://www.iasplus.com/en/standards/ias); [KPMG: IFRS Accounting Standards](https://assets.kpmg.com/content/dam/kpmgsites/xx/pdf/ifrg/2024/isg-standard-list.pdf); 
+[IFRS adoption in developing countries: the case of Romania](https://online-cig.ase.ro/jcig/art/13_2_6.pdf); 
+[ESA-auditing: List of IFRS standards](https://www.esauditing.com/ifrs/list-of-ifrs-standards/); 
+[Financial-Accounting Equation and Double-Entry System](https://www.scribd.com/document/449269614/Financial-Accounting-2); 
 [BDO: IFRS ACCOUNTING STANDARDS IN PRACTICE](https://www.bdo.global/en-gb/microsites/ifrs/ifrs-accounting-standards/publications/ifrs-accounting-standards-in-practice)
-
-[- for e.g.: IFRS ACCOUNTING STANDARDS IN PRACTICE - Accounting for convertible notes 2024/2025](https://www.bdo.global/getmedia/65cb3c65-75c1-4893-a8d7-9f5c769ba289/IFRS-AS-IP-Convertible-Notes-2024-25.pdf)
-
-[Accounting Standards Interpretation](https://www.linkedin.com/top-content/finance/understanding-financial-statements/accounting-standards-interpretation/)
-
+[- for e.g.: IFRS ACCOUNTING STANDARDS IN PRACTICE - Accounting for convertible notes 2024/2025](https://www.bdo.global/getmedia/65cb3c65-75c1-4893-a8d7-9f5c769ba289/IFRS-AS-IP-Convertible-Notes-2024-25.pdf); 
+[Accounting Standards Interpretation](https://www.linkedin.com/top-content/finance/understanding-financial-statements/accounting-standards-interpretation/); 
 [BPMN IFRS IAS](https://www.google.com/search?q=BPMN+IFRS+IAS&sa=X&sca_esv=f6b4719bbe8f3f25&sxsrf=APpeQnvmensI_U80fAAqS4E1l-kG2FJnbQ%3A1783074101476&udm=50&fbs=ABfTbFWfH4wlW6n2_hxvp9wb2ZU9vOI7RSRt7FUzXBlQT0_UgT5SPy7rpZO1forRzdUsSLjlWx4YkDAczWSNJ7sOzmkVk70MsnH38ySFQpX-E02dX1WaobZPieQ-KX-rTNK_QJtraKh9O69bTMuI_O9pzPDxZ7PHpRYF3FoMpo4nboxPkMwjucu1epCOQ3udN7rItWFycqyU9fnulC_CLTDlYOF-8suQdw&aep=1&ntc=1&ved=2ahUKEwjHvbTTpLaVAxXvIRAIHZ0vDKoQ2J8OegQIChAD&biw=1536&bih=769&dpr=1.25&mstk=AUtExfADTthKarUtnODFnSFbriND7Co_4pFm3ffX_fHFXIg9gtwCtBofhkslicxf2ZK_aBsZwyb0A4jFu1KZmt2HDxJJkY_ior1F3wMuB-E3u1BA5VrgTx_Ga4l5pJVl11xpheY2z6k1hNpUxZk36IuGgnwREiD4hlZSkoQ6PJnscj6UFg4vG-GXnpCmBssZ93wHeQyDcCwH50Awt6z80G7WkACHgShoB_OaVLNOiC8KZ55So19HXOOzASWMvh-WNZ7VBmugISb5BE2gsyc5qSAuXs6CB2uL58AOkWveFjcWzLxZclseC1KcDAYSveA2sQWCjldChqpQEyHPARjIHG3JGr6fCZxLgm-rqg&csuir=1&mtid=OI1HasfqFe2owPAPqvK7sQE); 
 [IFRS/IAS](https://www.linkedin.com/top-content/finance/understanding-financial-statements/accounting-standards-interpretation/#/); 
 [IFRS Ilustrative examples - downloads](https://www.ifrs.org/issued-standards/ifrs-taxonomy/ifrs-taxonomy-illustrative-examples/); 
