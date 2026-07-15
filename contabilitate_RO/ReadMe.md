@@ -59,4 +59,5 @@ PENTRU INSTITUŢIILE PUBLICE - Contabilitate Publica - PDF](https://mfinante.gov
 [UT-CJ - Contabilitate Financiara](https://biblioteca.utcluj.ro/files/carti-online-cu-coperta/620-3.pdf)<br/>
 [Contab-SQL](https://www.cometa.ro/doc/tutorial.pdf)<br/>
 [Diverse Monografii-Contabile](https://www.google.com/search?q=Monografii+Contabile&sca_esv=7f18ccfbdad134d1&sxsrf=APpeQns7EyPahChd1XHKy1XMHlvXE2Z__A:1784136153577&source=lnt&tbs=lr:lang_1ro&lr=lang_ro&sa=X&ved=2ahUKEwiXvqiNmdWVAxXjKxAIHV-0IXUQpwV6BAgIEAY&biw=1685&bih=874&dpr=1.1)<br/>
+[UT-CJ Monografii contabile pt Inginerii Economisti](https://biblioteca.utcluj.ro/files/carti-online-cu-coperta/585-5.pdf)
 
