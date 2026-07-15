@@ -61,5 +61,6 @@ PENTRU INSTITUŢIILE PUBLICE - Contabilitate Publica - PDF](https://mfinante.gov
 [Diverse Monografii-Contabile](https://www.google.com/search?q=Monografii+Contabile&sca_esv=7f18ccfbdad134d1&sxsrf=APpeQns7EyPahChd1XHKy1XMHlvXE2Z__A:1784136153577&source=lnt&tbs=lr:lang_1ro&lr=lang_ro&sa=X&ved=2ahUKEwiXvqiNmdWVAxXjKxAIHV-0IXUQpwV6BAgIEAY&biw=1685&bih=874&dpr=1.1)<br/>
 [UT-CJ Monografii contabile pt Inginerii Economisti](https://biblioteca.utcluj.ro/files/carti-online-cu-coperta/585-5.pdf)<br/>
 [Monografii Contabile Clasa a XII-a](https://isj.hd.edu.ro/images/Contabilitate/Monografii%20contabile.pdf)<br/>
-[Portal CodFiscal: Monografii contabile](https://www.portalcodulfiscal.ro/monografii-contabile-109/)<br/>
+[Portal CodFiscal: Monografii contabile - pag.109](https://www.portalcodulfiscal.ro/monografii-contabile-109/)<br/>
+[Portal CodFiscal: Monografii contabile - pag.243](https://www.portalcontabilitate.ro/monografii-contabile-93/p-243/)<br/>
 
