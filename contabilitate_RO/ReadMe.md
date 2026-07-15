@@ -54,4 +54,5 @@ PENTRU INSTITUŢIILE PUBLICE - Contabilitate Publica - PDF](https://mfinante.gov
 [ScriBD - Corespondenta Conturilor](https://www.scribd.com/document/577351469/CORESPONDENTA-Conturilor); [Slide 1](https://www.alegetidrumul.ro/uploads/calificari/177/Materiale%20didactice/IX_Bazele%20contabilitatii_Prof_MicuM.ppt)<br/>
 [UniCredit - Cont curent bancar](https://www.unicredit.ro/ro/persoane-fizice/pi/cont-curent.html)<br/>
 [Cadru pentru proiectarea unui asistent financiar-contabil(FC) cu inteligență artificială(IA)](https://medium.com/@glenn_53777/framework-to-design-an-ai-finance-accounting-assistant-a1f4b62dcde)<br/>
+[RO_FIN](https://www.mdpi.com/2079-8954/14/3/244)
 
