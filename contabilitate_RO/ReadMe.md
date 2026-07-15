@@ -68,5 +68,6 @@ PENTRU INSTITUŢIILE PUBLICE - Contabilitate Publica - PDF](https://mfinante.gov
 [Monografii contabile uzuale](https://www.contzilla.ro/20-de-monografii-contabile-uzuale-pentru-orice-contabil/)<br/>
 [CF-Monografii Contabile](https://www.scribd.com/document/130527822/monografii-contabile-pdf)<br/>
 [Marea Carte Verde a Monografiilor-Contabile(MC)](https://mareacarte.contabilul.ro/)<br/>
+[O-1917](https://www.mfinante.gov.ro/static/10/Mfp/legislatie/regl_contabile/ORDIN1917.pdf)<br/>
 
 
