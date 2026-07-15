@@ -56,4 +56,5 @@ PENTRU INSTITUŢIILE PUBLICE - Contabilitate Publica - PDF](https://mfinante.gov
 [Cadru pentru proiectarea unui asistent financiar-contabil(FC) cu inteligență artificială(IA)](https://medium.com/@glenn_53777/framework-to-design-an-ai-finance-accounting-assistant-a1f4b62dcde)<br/>
 [RO_FIN](https://www.mdpi.com/2079-8954/14/3/244)<br/>
 [CAFR AI Contabilitate](https://revista.cafr.ro/temp/Articol_9691.pdf)<br/>
+[UT-CJ - Contabilitate Financiara](https://biblioteca.utcluj.ro/files/carti-online-cu-coperta/620-3.pdf)<br/>
 
