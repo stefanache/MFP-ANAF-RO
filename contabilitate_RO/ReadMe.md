@@ -58,4 +58,5 @@ PENTRU INSTITUŢIILE PUBLICE - Contabilitate Publica - PDF](https://mfinante.gov
 [CAFR AI Contabilitate](https://revista.cafr.ro/temp/Articol_9691.pdf)<br/>
 [UT-CJ - Contabilitate Financiara](https://biblioteca.utcluj.ro/files/carti-online-cu-coperta/620-3.pdf)<br/>
 [Contab-SQL](https://www.cometa.ro/doc/tutorial.pdf)<br/>
+[Diverse Monografii-Contabile](https://www.google.com/search?q=Monografii+Contabile&sca_esv=7f18ccfbdad134d1&sxsrf=APpeQns7EyPahChd1XHKy1XMHlvXE2Z__A:1784136153577&source=lnt&tbs=lr:lang_1ro&lr=lang_ro&sa=X&ved=2ahUKEwiXvqiNmdWVAxXjKxAIHV-0IXUQpwV6BAgIEAY&biw=1685&bih=874&dpr=1.1)<br/>
 
