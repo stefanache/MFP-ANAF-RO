@@ -63,5 +63,6 @@ PENTRU INSTITUŢIILE PUBLICE - Contabilitate Publica - PDF](https://mfinante.gov
 [Monografii Contabile Clasa a XII-a](https://isj.hd.edu.ro/images/Contabilitate/Monografii%20contabile.pdf)<br/>
 [Portal CodFiscal: Monografii contabile - pag.109](https://www.portalcodulfiscal.ro/monografii-contabile-109/)<br/>
 [Portal CodFiscal: Monografii contabile - pag.243](https://www.portalcontabilitate.ro/monografii-contabile-93/p-243/)<br/>
-[Monografii contabile rezolvate](https://www.monografiicontabile.ro/)
+[Monografii contabile rezolvate](https://www.monografiicontabile.ro/)<br/>
+[Monografii contabile 360 exemple](https://contabilul.manager.ro/monografii-contabile-6/)<br/>
 
