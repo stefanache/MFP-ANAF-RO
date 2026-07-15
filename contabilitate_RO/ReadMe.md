@@ -66,4 +66,6 @@ PENTRU INSTITUŢIILE PUBLICE - Contabilitate Publica - PDF](https://mfinante.gov
 [Monografii contabile rezolvate](https://www.monografiicontabile.ro/)<br/>
 [Monografii contabile 360 exemple](https://contabilul.manager.ro/monografii-contabile-6/)<br/>
 [Monografii contabile uzuale](https://www.contzilla.ro/20-de-monografii-contabile-uzuale-pentru-orice-contabil/)<br/>
+[CF-Monografii Contabile](https://www.scribd.com/document/130527822/monografii-contabile-pdf><br/>
+
 
