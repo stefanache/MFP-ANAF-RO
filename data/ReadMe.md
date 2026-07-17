@@ -101,6 +101,8 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 [Build MCP-server](https://modelcontextprotocol.io/docs/develop/build-server); 
 [How-to buid an API](https://buildwithfern.com/post/how-to-build-an-api); 
 
+[CAEN si relatiile cu alte nomenclatoare: ISIC,NACE,CPC,CPA,CPSA,PRODCOM,PRODROM,HS,SITC,CN,TVIR,NAICS](https://insse.ro/cms/files/CAEN/CAEN-Rev-3-detalii.pdf);
+
 
 
   
