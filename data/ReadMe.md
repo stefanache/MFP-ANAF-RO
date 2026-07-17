@@ -105,6 +105,8 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 
 [Bazele Merceologiei - Studiul Marfurilor](https://www.slideshare.net/slideshow/bazele-merceologiei-studiul-marfurilor/273921906);
 
+[CIM Oncologie](https://www.dspcovasna.ro/sites/default/files/download/onco/cimo.pdf); 
+
 
 
   
