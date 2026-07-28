@@ -255,7 +255,7 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 
 [ANAF Registrul Entitatilor/Unitalor de Cult](https://www.anaf.ro/RegistrulEntitatilorUnitatilorCult/);
 
-[ANAF Registrul Agentilor Inactivi](https://www.anaf.ro/inactivi/);
+[ANAF Registrul Agentilor Inactivi si ReActivati](https://www.anaf.ro/inactivi/);
 
 [Reg Online Inspectorat - Invatamant(EDU) - jud. CV](https://isj.educv.ro/dolr3/);
 
