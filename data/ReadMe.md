@@ -122,7 +122,7 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 [Obiecte de Inventar/assets](https://lege5.ro/Gratuit/gezdmojygu2a/reguli-privind-contabilitatea-materialelor-de-natura-obiectelor-de-inventar?dp=geydgnrvge2dgmq); 
 [Reguli privind contabilitatea materialelor de natura obiectelor de inventar | Reguli](https://lege5.ro/Gratuit/gezdmojygu2a/reguli-privind-contabilitatea-materialelor-de-natura-obiectelor-de-inventar?dp=geydgnrvge2dgmq); 
 [​​Obiectele de inventar: ce sunt, cum se înregistrează și cine ține evidența](https://startco.ro/blog/cum-si-cine-trebuie-sa-tina-o-evidenta-a-obiectelor-de-inventar/);
-
+[Ob-Inv-Exemple-MBA: Obiecte de Inventar: Ce Sunt, Cum Se Înregistrează, Exemple](https://laceajutaunmba.ro/obiecte-de-inventar/);
 
 [Nomenclator-tipizate](https://www.google.com/search?q=Nomenclator+tipizate&oq=Nomenclator+tipizate&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORifBdIBCTY3OThqMGoxNagCCLACAfEFMq_07p-JzJHxBTKv9O6ficyR&sourceid=chrome&source=chrome.rb&ie=UTF-8); 
 [InfoFisc: Ordinul 3512 - Nomenclatorul documentelor financiar-contabile(FC) + Ordinul 2634/2015 - Nomenclatorul documentelor financiar-contabile(FC)](https://www.infofisc.ro/Files/4ebc4ac2e29ebc67d2fd2c1bfb9eab9c.pdf); 
