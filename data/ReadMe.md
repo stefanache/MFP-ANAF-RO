@@ -113,7 +113,7 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 [CATALOG-din-30-noiembrie-2004-privind-clasificarea-si-duratele-normale-de-funcţionare-a-mijloacelor-fixe(MF)](https://snppc.ro/uploads/fisiere/articole/CATALOG-din-30-noiembrie-2004-privind-clasificarea-si-duratele-normale-de-funcţionare-a-mijloacelor-fixe.pdf); 
 [MFP - Precizari privind intocmirea si depunerea situatiilor financiare ale institutiilor publice in anul 2005 trim IV - Anexa](https://www.mfinante.gov.ro/static/10/Mfp/legislatie/regl_contabile/precizari_trim04.pdf); 
 [Regimul de Amortizare MF - Cod Fiscal](https://www.portalcodulfiscal.ro/regimul-de-amortizare-pentru-un-mijloc-fix-amortizabil-61192.htm); 
-[Amortizarea-Fiscala](https://static.anaf.ro/static/10/Cluj/cj_amortizare_27ian2025.pdf); 
+[ANAF: Amortizarea-Fiscala](https://static.anaf.ro/static/10/Cluj/cj_amortizare_27ian2025.pdf); 
 [Clasificarea si duratele-normale de functionare a mijloacelor fixe(MF)](https://decontabil.ro/utile/clasificari/clasificarea-si-duratele-normale-de-functionare-a-mijloacelor-fixe/); <br/>
 [Obiecte de inventar vs. Mijloace fixe: Ce trebuie să știi?](https://termene.ro/articole/obiecte-de-inventar-vs-mijloace-fixe); <br/> 
 [Obiecte de Inventar/assets](https://lege5.ro/Gratuit/gezdmojygu2a/reguli-privind-contabilitatea-materialelor-de-natura-obiectelor-de-inventar?dp=geydgnrvge2dgmq);
