@@ -257,6 +257,7 @@ sub formă binară.; [Registru de Deplasare](https://www.optimusdigital.ro/ro/co
 [Prezentare eFactura Sector 3 exemplu 2024](https://www.ditl3.ro/assets/clients/public/file/2024/contracte-facturi/Factura%20BT%2003.1.2024.pdf); 
 [Campuri Obligatorii Ro e-Factura](https://blog.factureaza.ro/campurile-obligatorii-e-factura/); 
 [Model Semantic Ro eFactura](https://www.paycode.ro/efactura/structura-efactura); [Ex. scola ro eFactura](https://scoala195.invatamantsector3.ro/wp-content/uploads/sites/34/2021/06/DIGI-14064686.pdf); [dOCUMENTATIE E-fACTURA](https://ftp.winmentor.ro/WinMentor/Versiunea_Curenta/WinMENTOR_KIT/Tools_si_alte_EXE_de_module/e-Factura/Documentatie%20e-Factura%202024.pdf); 
+[Curs e-Factura](https://www.scribd.com/document/614422870/Curs-e-Factura);
 
 [Entersoft Business Suite(EBS) e-Factura,e-Transport](https://sites.google.com/bitsoftware.ro/ebs-ro/instructiuni/integrari-cu-anaf/e-factura);
 
