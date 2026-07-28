@@ -351,3 +351,5 @@ sub formă binară.;
 [Registrul pt consemnarea si analiza propunerilor](https://hd.prefectura.mai.gov.ro/registru-pentru-consemnarea-si-analiza-propunerilor/);
 
 [Registrul Reselleri](https://digisign.ro/);
+
+[ARR Autoritatea Rutiera Romana](https://www.roviniete.ro/ro/taxe/plata-tarife-arr);
