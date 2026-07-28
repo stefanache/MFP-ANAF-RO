@@ -98,6 +98,7 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 
 [Nomenclator arhivistic](https://www.archivit.ro/nomenclator-arhivistic);
 [Arhiva-Nationala -Serviciul MB: Nomenclator Arhivistic - Model](https://www.scribd.com/document/983584910/Model-Nomenclator); 
+[Serviciul Municipiului Bucuresti AL arhivelor nationale: NOMENCLATOR-ARHIVISTIC - 2022/10 ](https://www.archive.ro/wp-content/uploads/2022/10/Model-Nomenclator.pdf); 
 
 
 
