@@ -10,7 +10,6 @@ Aici sunt date si cateva exemple de [seturi de date/DS](https://lege5.ro/Legisla
 [DataGOV - Data-Group: Nomenclatoare](https://data.gov.ro/en/group/nomenclatoare); 
 [DataGOV-RO DS via MFP: nomenclatoare geografice](https://data.gov.ro/dataset/nomenclatoaregeografice)
 
-[Mijl-Fixe(MF)](https://www.google.com/search?q=nomenclatorul+amortizarilor&oq=nomenclatorul+amortizarilor&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgNGB4yBwgCEAAY7wUyCggDEAAYgAQYogQyCggEEAAYgAQYogQyBwgFEAAY7wXSAQoxMjM0OGowajE1qAIIsAIB8QWmFucBEz-Ygg&sourceid=chrome&source=chrome.rb&ie=UTF-8#sv=CBASrwMKiAMKBtrZ29IPABL9AgoMCgq62dvSDwQgATgDCpoBCpcBwtnb0g-QAXqNASIgc2dlX21zYWZfdG94b2FzRFFFckNTeGM4UHRmdmJnUVkwEmDXqcMCaghvcGVudGV4dHJMGgIQAkImChNmZWVkYmFja19lbnRyeXBvaW50Eg9zZ2VfbXNhZl9hY3Rpb26qAQxNQUdJX0ZFQVRVUkWyAQ4KABIGRklMVEVSGAAgAKABTuABAegBAfgBAQrPAQrMAcrZ29IPxQESnQEimgEvc2VhcmNoL2Fib3V0LXRoaXMtcmVzdWx0P29yaWdpbj13d3cuZ29vZ2xlLmNvbSZjcz0xJnJlcT1DZ0FTTFFvaENnSUljUW9iQ0YxaUZ3b01ZMjkxYm5SeWVWOXVZVzFsRWdkU2IyMWhibWxoRWdRS0FnaEhHZ0lJQUJvQUlnSVFBVWdCV0FCb0FBJmhsPXJvLVJPJmdsPVJPGhZodHRwczovL3d3dy5nb29nbGUuY29tWgBgAWgAcAB4AIoBABIiYXRyaXRlbS1fdG94b2FzRFFFckNTeGM4UHRmdmJnUVlfNBgvIMbox7AO); 
 [MFP - Informatii tehnice eFactura](https://mfinante.gov.ro/web/efactura/informatii-tehnice); 
 [MFP - PJ=Persoane Juridice - cautare online](https://mfinante.gov.ro/ro/web/site); 
 [MFP - nomenclatoare geografice](https://mfinante.gov.ro/nomenclatoare-geografice-mfp); 
@@ -82,7 +81,7 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 
 [ANV- TARIC3 - Nomenclatoare](http://taric3.customs.ro:9080/taric/web/browsetariff_RO); [ProdROM](https://www.google.com/search?q=lista+nomenclatoareleor+folosite+in+romania&sourceid=chrome&ie=UTF-8&amc=1&aep=42&cud=0&source=chrome.crn.rb&mstk=AUtExfByc-3xuzJ4dhd62MDfDdwKUI_H1AZX-0BgtZ4Gj0ck1AcDKlYx52wbUKVkr57EpUtEHBNY6Rov4NUTOILNJx1z6-6D0cTW0Df6AuAWGUTVVMDzRipgdDQaz-HhXTTnOF9cJcTYbJ5nBIbUs2COccqiDYDDrtu6s4phb0DCt8z4OWVZgQb4dun6ee3a7OFsWzW33olmRiR7kZs3WebtOYGdlsL01dXfQMb_YW65A8kC5F7uQMD3Y-0QwRwI6FTVooouQ7RBxBmMkZyyTdU1ondbfBhP8AHntFjjkQr-4l1Mb8Uiseq2wpFcLD2Q8G687KyhRVUUwzHt4A&csuir=1&mtid=BPlUavC-CNSh1fIPzqWzkQs&udm=50)
 
-[MJ: Nopmenclatorul specializarilor expertizei tehnice judiciare](https://www.just.ro/ghidul-specializarilor-expertizei-tehnice-judiciare/);
+[MJ: Nomenclatorul specializarilor expertizei tehnice judiciare](https://www.just.ro/ghidul-specializarilor-expertizei-tehnice-judiciare/);
 [MJ: Lista instante](https://portal.just.ro/SitePages/instante.aspx)
 
 [MEC - Nomenclatorul EDU(20202-2021) domeniilor şi al specializărilor/programelor de studii universitare](https://www.edu.ro/sites/default/files/ANEXA_1_NOMENCLATOR_2020_2021_0.pdf)
@@ -109,6 +108,7 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 
 [CIM Oncologie](https://www.dspcovasna.ro/sites/default/files/download/onco/cimo.pdf); 
 
+[Mijl-Fixe(MF)](https://www.google.com/search?q=nomenclatorul+amortizarilor&oq=nomenclatorul+amortizarilor&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgNGB4yBwgCEAAY7wUyCggDEAAYgAQYogQyCggEEAAYgAQYogQyBwgFEAAY7wXSAQoxMjM0OGowajE1qAIIsAIB8QWmFucBEz-Ygg&sourceid=chrome&source=chrome.rb&ie=UTF-8#sv=CBASrwMKiAMKBtrZ29IPABL9AgoMCgq62dvSDwQgATgDCpoBCpcBwtnb0g-QAXqNASIgc2dlX21zYWZfdG94b2FzRFFFckNTeGM4UHRmdmJnUVkwEmDXqcMCaghvcGVudGV4dHJMGgIQAkImChNmZWVkYmFja19lbnRyeXBvaW50Eg9zZ2VfbXNhZl9hY3Rpb26qAQxNQUdJX0ZFQVRVUkWyAQ4KABIGRklMVEVSGAAgAKABTuABAegBAfgBAQrPAQrMAcrZ29IPxQESnQEimgEvc2VhcmNoL2Fib3V0LXRoaXMtcmVzdWx0P29yaWdpbj13d3cuZ29vZ2xlLmNvbSZjcz0xJnJlcT1DZ0FTTFFvaENnSUljUW9iQ0YxaUZ3b01ZMjkxYm5SeWVWOXVZVzFsRWdkU2IyMWhibWxoRWdRS0FnaEhHZ0lJQUJvQUlnSVFBVWdCV0FCb0FBJmhsPXJvLVJPJmdsPVJPGhZodHRwczovL3d3dy5nb29nbGUuY29tWgBgAWgAcAB4AIoBABIiYXRyaXRlbS1fdG94b2FzRFFFckNTeGM4UHRmdmJnUVlfNBgvIMbox7AO); 
 [CATALOGUL PRIVIND CLASIFICAREA ŞI DURATELE NORMALE DE FUNCŢIONARE A MIJLOACELOR FIXE(MF)](https://lege5.ro/gratuit/gu3temjt/catalogul-privind-clasificarea-si-duratele-normale-de-functionare-a-mijloacelor-fixe-catalog?dp=geztkmztgm4di); 
 [CATALOG-din-30-noiembrie-2004-privind-clasificarea-si-duratele-normale-de-funcţionare-a-mijloacelor-fixe(MF)](https://snppc.ro/uploads/fisiere/articole/CATALOG-din-30-noiembrie-2004-privind-clasificarea-si-duratele-normale-de-funcţionare-a-mijloacelor-fixe.pdf); 
 [MFP - Precizari privind intocmirea si depunerea situatiilor financiare ale institutiilor publice in anul 2005 trim IV - Anexa](https://www.mfinante.gov.ro/static/10/Mfp/legislatie/regl_contabile/precizari_trim04.pdf); 
