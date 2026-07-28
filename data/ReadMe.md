@@ -380,3 +380,6 @@ sub formă binară.; [Registru de Deplasare](https://www.optimusdigital.ro/ro/co
 [ARR Autoritatea Rutiera Romana](https://www.roviniete.ro/ro/taxe/plata-tarife-arr);
 
 [Registrul Agricol](https://www.registrulagricol.ro/);
+
+[Declaratia INTRASTAT](http://www.intrastat.ro/doc/Manual_pentru_furnizorii_de_informatii_statistice_partea_I_2025.pdf);
+
