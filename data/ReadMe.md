@@ -152,8 +152,19 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 [Folder	Nomenclator si ierarhia functiilor](https://www.comunaivanesti.ro/index.php/nomenclator-si-ierarhia-functiilor); 
 [Acte necesare pt Servicii Electronice](https://www.primarie3.ro/index.php/informatii_publice/acte_necesare);
 [Tipizate Scolare pt Scoala Ta](https://www.tipizat.ro/?srsltid=AfmBOorUuVRBm4f2z7aQTmyKc6xKkHDU9bHkIXlL9sLa8rB_aAP37tnC); 
+[Documente cu Regim-Special(RS)](https://www.google.com/search?sca_esv=2308d5414c297b7d&biw=1483&bih=769&sxsrf=APpeQnu2egwXxvaxJB1CCQh5IveNDl6zOw:1785242664652&q=Documente+cu+regim+special+exemple&sa=X&ved=2ahUKEwjb6fSWs_WVAxUyGxAIHRWXGCc4FBDVAnoECC4QAQ); 
 
-[Nomenclator Stradal](https://comunaholboca.ro/nomenclator-stradal/)
+
+[Nomenclator Stradal](https://comunaholboca.ro/nomenclator-stradal/);
+[Certificat Nomenclatura Stradala Bucuresti](https://www.google.com/search?sca_esv=2308d5414c297b7d&biw=1483&bih=769&sxsrf=APpeQnu2egwXxvaxJB1CCQh5IveNDl6zOw:1785242664652&q=Certificat+nomenclatura+stradala+bucuresti&sa=X&ved=2ahUKEwjb6fSWs_WVAxUyGxAIHRWXGCc4FBDVAnoECD4QAQ); 
+[Nomenclator Stradal Bucuresti](https://www.google.com/search?sca_esv=2308d5414c297b7d&biw=1483&bih=769&sxsrf=APpeQnu2egwXxvaxJB1CCQh5IveNDl6zOw:1785242664652&q=Nomenclator+stradal+bucuresti&sa=X&ved=2ahUKEwjb6fSWs_WVAxUyGxAIHRWXGCc4FBDVAnoECDkQAQ); 
+[DP a PMB](https://www.google.com/search?sca_esv=2308d5414c297b7d&biw=1483&bih=769&sxsrf=APpeQnu2egwXxvaxJB1CCQh5IveNDl6zOw:1785242664652&q=Directia+patrimoniu+pmb&sa=X&ved=2ahUKEwjb6fSWs_WVAxUyGxAIHRWXGCc4FBDVAnoECDMQAQ); 
+[Obtinere Nr.Postal](https://www.google.com/search?sca_esv=2308d5414c297b7d&biw=1483&bih=769&sxsrf=APpeQnu2egwXxvaxJB1CCQh5IveNDl6zOw:1785242664652&q=Obtinere+numar+postal+bucuresti&sa=X&ved=2ahUKEwjb6fSWs_WVAxUyGxAIHRWXGCc4FBDVAnoECDIQAQ); 
+[Certificat Nomenclatura Stradala Online](https://www.google.com/search?sca_esv=2308d5414c297b7d&biw=1483&bih=769&sxsrf=APpeQnu2egwXxvaxJB1CCQh5IveNDl6zOw:1785242664652&q=Certificat+nomenclatura+stradala+online&sa=X&ved=2ahUKEwjb6fSWs_WVAxUyGxAIHRWXGCc4FBDVAnoECDEQAQ); 
+[PMB - Dir. Patrimoniu-Contact](https://www.google.com/search?sca_esv=2308d5414c297b7d&biw=1483&bih=769&sxsrf=APpeQnu2egwXxvaxJB1CCQh5IveNDl6zOw:1785242664652&q=Pmb+directia+patrimoniu+contact&sa=X&ved=2ahUKEwjb6fSWs_WVAxUyGxAIHRWXGCc4FBDVAnoECDAQAQ); 
+[Istoric Artera si Nr. Postal](https://www.google.com/search?sca_esv=2308d5414c297b7d&biw=1483&bih=769&sxsrf=APpeQnu2egwXxvaxJB1CCQh5IveNDl6zOw:1785242664652&q=Istoric+artera+si+numar+postal&sa=X&ved=2ahUKEwjb6fSWs_WVAxUyGxAIHRWXGCc4FBDVAnoECC8QAQ); 
+
+
 
 
 [HG Nomenclator programe de studii](https://www.aracis.ro/hg-nomenclator-programe-de-studii/); 
