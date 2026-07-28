@@ -164,11 +164,10 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 [Formulare tipizate Primarie](https://primariabarnova.ro/primaria-comunei-birnova/transparenta/formulare-tipizate/); 
 [ORDIN nr. 1.801 din 2 octombrie 1995 (*actualizat*)](https://legislatie.just.ro/Public/FormaPrintabila/00000G0E6H8LDIOWMN8189NAAIU45DKY);
 [Formulare Tipizate AutoCopiative](https://formularetipizate.ro/); 
+
 [Nomenclator/Opis Arhivistic](https://www.upet.ro/documente/2018/Nomenclator%20arhivistic%20UP.pdf); 
-[Ministerul Finanțelor
+
 [Vama/Autoritatea Vamală Română - Incadrare - Tarifara: OMENCLATURĂ SISTEM ARMONIZAT, NOMENCLATURA COMBINATA/NC, NOMENCLATURĂ TARIC, CLASIFICARE MĂRFURI ACCIZABILE; DECIZII REFERITOARE LA INFORMAȚII TARIFARE OBLIGATORII(ITO), E-LEARNING](https://www.customs.ro/agenti-economici/incadrare-tarifara); 
-
-
 
 [Nomenclator Stradal](https://comunaholboca.ro/nomenclator-stradal/);
 [Certificat Nomenclatura Stradala Bucuresti](https://www.google.com/search?sca_esv=2308d5414c297b7d&biw=1483&bih=769&sxsrf=APpeQnu2egwXxvaxJB1CCQh5IveNDl6zOw:1785242664652&q=Certificat+nomenclatura+stradala+bucuresti&sa=X&ved=2ahUKEwjb6fSWs_WVAxUyGxAIHRWXGCc4FBDVAnoECD4QAQ); 
