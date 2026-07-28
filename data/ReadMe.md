@@ -186,6 +186,7 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 [Documente elaborate de către Serviciul Cadastru- DPSC Directie a PMBuc.](https://www2.pmb.ro/institutii/primaria/directii/directia_patrimoniu/directia_patrimoniu_serv_cadastru.php); 
 
 [FB-RMD-Postarea publicată de Contabilsef.md](https://www.facebook.com/contabilsef/posts/nomenclatorul-formularelor-tipizate-cu-regim-special-ajustat/1374132554712497/); 
+[RMD-Nomenclstorul Tipizatelor de Documente-Primare](https://www.editurastatistica.md/node/609);
 
 [AOPSNAJ: COMUNICAT CASAOPSNAJ - Privind procesul de emitere/eliberare a Cardului European de Asigurari Sociale de Sanatate](https://www.aopsnaj.ro/)
 
