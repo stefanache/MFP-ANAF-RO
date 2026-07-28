@@ -5,9 +5,9 @@
           caracteristicile, <br/>
           forma etc. <br/>
    
-  - unui produs(tangibil sau intangibil); <br/><br/>
+  - unui produs/entitate/obiect(tangibil sau intangibil); <br/><br/>
   
-Standardul este un document în care sunt consemnate aceste norme. <br/>
+Standardul este un DOCUMENT în care sunt consemnate aceste norme. <br/>
  DEX '09 DEX '98 DLRLC DN;<br/>
 
 [DEX: Nomenclator(nume/denumiri)](https://dexonline.ro/definitie/%20nomenclator) - NOMENCLATOR, nomenclatoare, s. n. <br/>
