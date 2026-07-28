@@ -5,7 +5,8 @@ Aici am [descarcat](https://www.google.com/search?q=lista+nomenclatoareleor+folo
 Aici sunt date si cateva exemple de [seturi de date/DS](https://lege5.ro/LegislatieRo/?Mode=0&Search_SectionTypeId=1&Search_Term=nomenclator&Page=1&Rec=10) [standardizate](https://www.google.com/search?q=2026+Lege5+nomenclator&sca_esv=c9ce5070ea22d1f0&sxsrf=APpeQnvOx8ipX_Eu5im6ygRtcg-f61iI_A%3A1784019978712&ei=CvxVau-KK7irxc8P2MeP2Aw&biw=1685&bih=874&ved=0ahUKEwjvt-mo6NGVAxW4VfEDHdjjA8sQ4dUDCBA&uact=5&oq=2026+Lege5+nomenclator&gs_lp=Egxnd3Mtd2l6LXNlcnAiFjIwMjYgTGVnZTUgbm9tZW5jbGF0b3IyCBAAGIAEGKIEMgUQABjvBTIFEAAY7wUyBRAAGO8FMggQABiABBiiBEjAGVC5Dli1F3ABeAGQAQCYAc0BoAHPB6oBBTAuNC4xuAEDyAEA-AEBmAIFoAK4BsICChAAGEcY1gQYsAPCAggQIRigARjDBMICCBAAGIkFGKIEmAMAiAYBkAYIkgcFMS4xLjOgB-EQsgcFMC4xLjO4B7MGwgcFMi0xLjTIByiACAE&sclient=gws-wiz-serp)(gen nomenclatoare,registre,standarde gen ISO,codificari/coduri,clasificari,liste,conversii,ghiduri,documentari-tehnice,planuri,APIs,MCPs,...,alte date cvasi-stabile), spre exemplu de la MFP(o anumita actualizare/snapshot si anume pt data de 12.01.2024 ... pt ca aceste [date-seturi/DS-uri](https://www.google.com/search?q=ce+preturi+sint+la+Linkedin+API+si+la+Linkedin+MCP+server%3F&sourceid=chrome&ie=UTF-8&amc=1&aep=42&cud=0&source=chrome.crn.rb&mstk=AUtExfB51cz3WoKvx8G2YYhpsD0iqLiAwt5-GX8IR5Q9YPRzPzc38CVNBcvhasnb1G5U1-IyKBdd-u05d3la-Y-I-irgbXCiQP5kkHtg8DDO0wJKSByZDtXl55O7T5BGynIQC6Kr5rJFX0nqFRJZl31XBdWwG5-1V1jHsVuISPlyRcPMJF8PyxZ7NrZJydykZHfJOHWh4inHZDCTouGPLmhHx948Vlg_rAroLGvTYu7qlyMobW4c5OQUHHCtGJnSzM3Mf7EsDi48Ja-5EF-tS5DQDaEStgpGlixT3XXK_9RpOVCae4fr7ahtW9QpalV7-WmwXxp9VfV_gFufmg&csuir=1&mtid=8RlWatu9CcmhjfYPiPr_6AU&udm=50) sunt intr-o continua schimbare/modificare/metamorfoza) [SI NU NUMAI de la MFP](https://standards.iso.org/ittf/PubliclyAvailableStandards/index.html)...
 
 <hr/>
-Mia intai putina definire/teoretica:
+Mai intai putina definire(teoretica):
+
 
 ***DOCUMENTE***
 <hr/>
@@ -46,8 +47,11 @@ sinonime: standardizat;<br/>
 
 <HR/>
 
+Exemple de astfel de ***Documente***:
+
 
 [Definite](https://www.ibee.ro/blog/nomenclatorul-de-articole-primul-pas-pentru-o-buna-gestiune-a-firmei/): Un **nomenclator** este o listă standardizată, o clasificare sau un nomenclator oficial utilizat pentru a organiza și cataloga informații într-un mod uniform în diverse domenii. 
+
 În România, cele mai căutate nomenclatoare sunt specifice domeniilor: administrației publice, sistemului medical, fiscalității și educației.
 
 [wiki: Nomenclatorul locatiilor/locurilor din RO](https://en.wikipedia.org/wiki/Nomenclature_of_places_in_Romania)
