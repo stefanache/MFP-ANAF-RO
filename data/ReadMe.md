@@ -24,14 +24,14 @@ c) [**Registrul**](https://dexonline.ro/definitie/registru) ex.: [ANAF Registrul
 
 <hr/>
 
-***Formular - Tipizat***
+***Formular si Tipizat***
 
-d1) [DEX: Formular(document gol avand rol de organizator/sablon/template/form de date)](https://dexonline.ro/definitie/formular) - FORMULAR, formulare, s. n. <br/>
-1. Imprimat cu mai multe spații albe, care se completează în vederea întocmirii unui Act, a unui tabel etc. <br/>
+d1) [DEX: Formular(document golit de date avand rol de organizator/format/sablon/template/form de date)](https://dexonline.ro/definitie/formular in vederea completarii viitoare cu date de comunicat/transmis/de dat mai departe) - FORMULAR, formulare, s. n. <br/>
+1. Imprimat cu mai multe spații-albe(gol), care se completează în vederea întocmirii unui Act, a unui tabel etc. <br/>
 2. Broșură sau volum care cuprinde formulele uzuale dintr-o ramură a unei științe; culegere de formule. <br/>
 – Din fr. formulaire.;<br/>
 
-d2) [DEX: Tipizat/Imprimat/in sens standardizat sau nestandardizat dar macar Tipic](https://dexonline.ro/definitie/tipizat) - Cu particularități proprii unui [TIP(grup de DOCs)](https://dexonline.ro/definitie/tip). DEX '09 DEX '98
+d2) [DEX: Tipizat/Imprimat/in sens standardizat sau nestandardizat dar macar Tipic](https://dexonline.ro/definitie/tipizat) - Cu particularități proprii unui [TIP(grup de DOCs avand acelasi fel format/formular)](https://dexonline.ro/definitie/tip). DEX '09 DEX '98
 sinonime: standardizat;<br/>
 
 
