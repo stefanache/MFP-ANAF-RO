@@ -114,5 +114,8 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 
 [CATALOG-din-30-noiembrie-2004-privind-clasificarea-si-duratele-normale-de-funcţionare-a-mijloacelor-fixe(MF)](https://snppc.ro/uploads/fisiere/articole/CATALOG-din-30-noiembrie-2004-privind-clasificarea-si-duratele-normale-de-funcţionare-a-mijloacelor-fixe.pdf)
 
+[MFP - Precizari privind intocmirea si depunerea situatiilor financiare
+ale institutiilor publice in anul 2005](https://www.mfinante.gov.ro/static/10/Mfp/legislatie/regl_contabile/precizari_trim04.pdf)
+
 
   
