@@ -303,6 +303,9 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 
 [RMD SE-REGISTRU](https://e-services.md/public/WebPublic/index.php?lang=md);
 
+[ONJN: Registrul Mijloacelor de Joc](https://registru.onjn.gov.ro/);
+
+
 
 
 
