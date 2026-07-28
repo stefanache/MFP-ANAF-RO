@@ -148,6 +148,12 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 [Tipizate si Formulare Planul Strategic(PS)-2027](https://www.afir.ro/instrumente/instrumente-de-lucru/tipizate-si-formulare-ps-2027/); 
 
 
+[HG Nomenclator programe de studii](https://www.aracis.ro/hg-nomenclator-programe-de-studii/); 
+
+
+
+
+
 
 
 
