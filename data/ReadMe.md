@@ -248,6 +248,7 @@ sub formă binară.; [Registru de Deplasare](https://www.optimusdigital.ro/ro/co
 
 [Registru DEX](https://www.google.com/search?sca_esv=5e6c1f1176e333b8&sxsrf=APpeQnu20gE73B6FDTxs94aiyQGRcI4q2Q:1785253117771&q=Registru+dex&sa=X&ved=2ahUKEwi7vqyP2vWVAxWvcfEDHcJKAmIQ1QJ6BAg3EAE);
 
+[MFP: Aplicatii-Web RO eFactura](https://mfinante.gov.ro/web/efactura/aplicatii-web-ro-efactura);
 
 [ANAF: Registrul RO eFactura](https://www.anaf.ro/anaf/internet/ANAF/servicii_online/registre/registrul_eFactura/!ut/p/a1/hc49D4IwEAbg38LAyh2SAnHDGCnEQRwUuhgwtWCAklLh7ws6afy47b08b-6AQQqszYdK5LqSbV7PmbknalOXLvxFjI7vYeId1uEmIjaiO4FsAvhlAvzXPwJ7IzRBTMgq2pNwhzN5gh8nYmCilsXj3SxoC8cXwBS_cMWVdVPTutS665cmmjiOoyWkFDW3zrIx8VOllL2G9FVC16R4JfWwDQzjDvsTcbw!/dl5/d5/L2dBISEvZ0FBIS9nQSEh/);
 
