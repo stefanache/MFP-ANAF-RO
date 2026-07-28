@@ -158,6 +158,8 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 [Cartea "NOMENCLATORUL PRODUSELOR TIPIZATE VOL.7" scrisa de MINISTERUL INDUSTRIEI DE MASINI-UNELTE, ELECTROTEHNICA SI ELECTR](https://anticariat-ursu.ro/nomenclatorul-produselor-tipizate-vol7__ministerul-industriei-de-masini-unelte-electrotehnica-si-electr__141424.html?product_id=141424); 
 [Factura Fiscala](https://lege5.ro/App/Document/geytknrv/factura-fiscala-cod-14-4-10-a-si-factura-cod-14-4-10-aa-nomenclator); 
 [Nomenclatorul formularelor tipizate cu regim special, modificat - 2024](https://www.contabilitate.md/ro/news/1142?cHash=b79c982eaf8a3bc41581378a7973aa73); 
+[Formulare tipizate Primarie](https://primariabarnova.ro/primaria-comunei-birnova/transparenta/formulare-tipizate/); 
+[ORDIN nr. 1.801 din 2 octombrie 1995 (*actualizat*)](https://legislatie.just.ro/Public/FormaPrintabila/00000G0E6H8LDIOWMN8189NAAIU45DKY);
 
 
 [Nomenclator Stradal](https://comunaholboca.ro/nomenclator-stradal/);
