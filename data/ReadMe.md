@@ -10,7 +10,7 @@
 Standardul este un DOCUMENT în care sunt consemnate aceste norme. <br/>
  DEX '09 DEX '98 DLRLC DN;<br/>
 
-[DEX: Nomenclator(nume/denumiri)](https://dexonline.ro/definitie/%20nomenclator) - NOMENCLATOR, nomenclatoare, s. n. <br/>
+[DEX: Nomenclator(document care contine nume/denumiri)](https://dexonline.ro/definitie/%20nomenclator) - NOMENCLATOR, nomenclatoare, s. n. <br/>
 Listă, broșură, carte care cuprinde nomenclatura <br/>
 (1) dintr-un anumit domeniu al științei, al tehnicii etc. sau enumerarea sortimentelor produselor ori a grupurilor de produse, clasificate după un anumit criteriu. – Din fr. nomenclateur, lat. nomenclator.;<br/>
 [Nomenclatorul](https://www.scribd.com/document/371729355/Nomenclatorul) ex.: [Nomenclatorul Documentelor/Arhivistic](https://www.archive.ro/wp-content/uploads/2022/10/Model-Nomenclator.pdf);<br/>
