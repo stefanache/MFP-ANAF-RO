@@ -323,7 +323,7 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 
 [SIUI- Verificare Calitate Asigurat](https://cnas.ro/verificare-asigurati/);
 
-[Registru de Supravegere(verificare in scopul monitorizarii) ISCIR](https://registredesupraveghere.ro/wp-content/uploads/2023/07/PV-PRedare-primire.jpg);
+[Registru de Supravegere(verificare in scopul monitorizarii) ISCIR](https://registredesupraveghere.ro/?product=registru-de-supraveghere-ir-iscir-masini-si-echipamente-de-ridicat-copiaza);
 
 
 
