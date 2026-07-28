@@ -265,6 +265,8 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 [Registru Intrare-iesire Vertical(Carte formular-tipizat)](https://www.rbsservice.ro/registru-intrare-iesire-vertical.html?srsltid=AfmBOop-hRuHBh8cVMZHxHxHDsJuAH8Ad0SJq16gNaQAtikVT--6NqvO);
 [Emag - Registru Tipizat](https://www.emag.ro/search/registru+tipizat);
 
+[Registrul Jurnal(RJ) - Formular Snuruit](https://www.toshas.ro/produse/registru-jurnal-snuruit.html);
+
 [Registrul-General Notarial(Carte-formular-tipizat tiparita)](https://www.notarom.ro/cumpara/registru-general-notarial-520);
 
 
