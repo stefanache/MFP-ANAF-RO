@@ -327,3 +327,6 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 
 [EDU.RO: Centrul National de recunoastere a Studiilor/CNR-ED](https://cnred.edu.ro/);
 
+[AFM=ADMINISTRAŢIA FONDULUI PENTRU MEDIU](https://siatd.afm.ro/#/);
+
+
