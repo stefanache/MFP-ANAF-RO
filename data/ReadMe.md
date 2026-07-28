@@ -147,7 +147,9 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 [Aviz de Insotire/Expeditie a Marfii - Tipizat-Nomenclator 14-3-6a ](https://lege5.ro/App/Document/geytknrv/aviz-de-insotire-a-marfii-cod-14-3-6a-nomenclator); 
 [Tipizate si Formulare Planul Strategic(PS)-2027](https://www.afir.ro/instrumente/instrumente-de-lucru/tipizate-si-formulare-ps-2027/); 
 [Formulare-Tipizate](https://zetelaka.ro/formulare-tipizate); 
-[Acte Necesare si Tipizate ITL](https://tirgumures.ro/index.php?option=com_content&view=article&id=7168%3Aacte-necesare-i-formulare-tipizate-pentru-serviciul-public-administraia-domeniului-public&catid=78%3Aformulare-tipizate&Itemid=291); 
+[Acte Necesare si Tipizate ITL](https://tirgumures.ro/index.php?option=com_content&view=article&id=7168%3Aacte-necesare-i-formulare-tipizate-pentru-serviciul-public-administraia-domeniului-public&catid=78%3Aformulare-tipizate&Itemid=291);
+[NORME SPECIFICE DE UTILIZARE A DOCUMENTELOR FINANCIAR-CONTABILE(FC): NOMENCLATORUL documentelor financiar-contabile(FC) -  Anexa 2 din O2634/2015](https://mfinante.gov.ro/documents/35673/219198/anexe2_3ordin2634_2015.pdf); 
+
 
 
 [HG Nomenclator programe de studii](https://www.aracis.ro/hg-nomenclator-programe-de-studii/); 
