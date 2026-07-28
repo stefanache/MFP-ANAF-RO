@@ -1,5 +1,5 @@
 [Nomenclatorul](https://www.scribd.com/document/371729355/Nomenclatorul); <BR/>
-[registru](https://dexonline.ro/definitie/registru);
+[Registrul](https://dexonline.ro/definitie/registru);
 <HR/>
 
 
