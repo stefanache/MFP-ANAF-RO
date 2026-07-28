@@ -250,6 +250,8 @@ sub formă binară.;
 
 [Registrul de CASA](https://ajutor.smartbill.ro/article/131-ce-este-registru-casa);
 
+[Registrul Jurnal](https://www.youtube.com/watch?v=gva0ELWWClU);
+
 [L5.Registru de Evidenta a contractelor de asistenta... ](https://lege5.ro/App/Buy?legislatie=1&depasireNumarAccesari=1&docid=heztqmjq);
 
 [MFP - Info PJ](https://mfinante.gov.ro/info-pj-selectie-nume-si-judet);
@@ -304,6 +306,9 @@ sub formă binară.;
 [Registru pentru evidenta microciparilor Animalelor(carte tiparita / formular)](https://www.daisy-medical.ro/printuri-tipizate-personalizate/registru-pentru-evidenta-microciparilor.html);
 [Registru de Sterilizare](https://www.cupio.ro/registru-de-sterilizare);
 
+[Registrul pt evidenta Interventiilor Chirurgicale](https://www.daisy-medical.ro/en/printuri-tipizate-personalizate/registru-pentru-evidenta-interventiilor-chirurgicale.html);
+
+
 [Registrul Artelor Spectacolului](Registrul Artelor Spectacolului); [wiki: Registru-Muzical](https://ro.wikipedia.org/wiki/Registru_(muzic%C4%83));
 
 [Autoritatea Naţională de Supraveghere a Prelucrării Datelor cu Caracter Personal](https://www.dataprotection.ro/?page=stire_01102008_1&lang=ro); 
@@ -332,6 +337,8 @@ sub formă binară.;
 [EDU.RO: Centrul National de recunoastere a Studiilor/CNR-ED](https://cnred.edu.ro/);
 
 [AFM=ADMINISTRAŢIA FONDULUI PENTRU MEDIU](https://siatd.afm.ro/#/);
+
+[Registru SB de evidență a sistemelor individuale adecvate de colectare și epurare a apelor uzate](https://sibiu.ro/primaria/registru_evidenta);
 
 [L5. -Registrul Serviciilor de Ingrijiri](https://lege5.ro/App/Buy?legislatie=1&depasireNumarAccesari=1&docid=gqydsmzxge)
 
