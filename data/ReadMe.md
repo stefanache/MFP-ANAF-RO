@@ -154,6 +154,11 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 [Tipizate Scolare pt Scoala Ta](https://www.tipizat.ro/?srsltid=AfmBOorUuVRBm4f2z7aQTmyKc6xKkHDU9bHkIXlL9sLa8rB_aAP37tnC); 
 [Documente cu Regim-Special(RS)](https://www.google.com/search?sca_esv=2308d5414c297b7d&biw=1483&bih=769&sxsrf=APpeQnu2egwXxvaxJB1CCQh5IveNDl6zOw:1785242664652&q=Documente+cu+regim+special+exemple&sa=X&ved=2ahUKEwjb6fSWs_WVAxUyGxAIHRWXGCc4FBDVAnoECC4QAQ); 
 [Tipizate Scolare, Diplome, Rechizite si Drapele](https://www.tipizat.ro/?srsltid=AfmBOoqK33PXKERVeZFwnqLtxCFlupfX5pJinFK6vtqCGVeYqs3VWZMY);
+[AFIR: Tipizate și Formulare PNDR 2020](https://www.afir.ro/instrumente/instrumente-de-lucru/tipizate-si-formulare-pndr-2020/); 
+[Cartea "NOMENCLATORUL PRODUSELOR TIPIZATE VOL.7" scrisa de MINISTERUL INDUSTRIEI DE MASINI-UNELTE, ELECTROTEHNICA SI ELECTR](https://anticariat-ursu.ro/nomenclatorul-produselor-tipizate-vol7__ministerul-industriei-de-masini-unelte-electrotehnica-si-electr__141424.html?product_id=141424); 
+[Factura Fiscala](https://lege5.ro/App/Document/geytknrv/factura-fiscala-cod-14-4-10-a-si-factura-cod-14-4-10-aa-nomenclator); 
+[Nomenclatorul formularelor tipizate cu regim special, modificat - 2024](https://www.contabilitate.md/ro/news/1142?cHash=b79c982eaf8a3bc41581378a7973aa73); 
+
 
 [Nomenclator Stradal](https://comunaholboca.ro/nomenclator-stradal/);
 [Certificat Nomenclatura Stradala Bucuresti](https://www.google.com/search?sca_esv=2308d5414c297b7d&biw=1483&bih=769&sxsrf=APpeQnu2egwXxvaxJB1CCQh5IveNDl6zOw:1785242664652&q=Certificat+nomenclatura+stradala+bucuresti&sa=X&ved=2ahUKEwjb6fSWs_WVAxUyGxAIHRWXGCc4FBDVAnoECD4QAQ); 
