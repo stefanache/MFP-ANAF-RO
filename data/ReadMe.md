@@ -10,6 +10,7 @@ Aici sunt date si cateva exemple de [seturi de date/DS](https://lege5.ro/Legisla
 [DataGOV - Data-Group: Nomenclatoare](https://data.gov.ro/en/group/nomenclatoare); 
 [DataGOV-RO DS via MFP: nomenclatoare geografice](https://data.gov.ro/dataset/nomenclatoaregeografice)
 
+[Mijl-Fixe(MF)](https://www.google.com/search?q=nomenclatorul+amortizarilor&oq=nomenclatorul+amortizarilor&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgNGB4yBwgCEAAY7wUyCggDEAAYgAQYogQyCggEEAAYgAQYogQyBwgFEAAY7wXSAQoxMjM0OGowajE1qAIIsAIB8QWmFucBEz-Ygg&sourceid=chrome&source=chrome.rb&ie=UTF-8#sv=CBASrwMKiAMKBtrZ29IPABL9AgoMCgq62dvSDwQgATgDCpoBCpcBwtnb0g-QAXqNASIgc2dlX21zYWZfdG94b2FzRFFFckNTeGM4UHRmdmJnUVkwEmDXqcMCaghvcGVudGV4dHJMGgIQAkImChNmZWVkYmFja19lbnRyeXBvaW50Eg9zZ2VfbXNhZl9hY3Rpb26qAQxNQUdJX0ZFQVRVUkWyAQ4KABIGRklMVEVSGAAgAKABTuABAegBAfgBAQrPAQrMAcrZ29IPxQESnQEimgEvc2VhcmNoL2Fib3V0LXRoaXMtcmVzdWx0P29yaWdpbj13d3cuZ29vZ2xlLmNvbSZjcz0xJnJlcT1DZ0FTTFFvaENnSUljUW9iQ0YxaUZ3b01ZMjkxYm5SeWVWOXVZVzFsRWdkU2IyMWhibWxoRWdRS0FnaEhHZ0lJQUJvQUlnSVFBVWdCV0FCb0FBJmhsPXJvLVJPJmdsPVJPGhZodHRwczovL3d3dy5nb29nbGUuY29tWgBgAWgAcAB4AIoBABIiYXRyaXRlbS1fdG94b2FzRFFFckNTeGM4UHRmdmJnUVlfNBgvIMbox7AO); 
 [MFP - Informatii tehnice eFactura](https://mfinante.gov.ro/web/efactura/informatii-tehnice); 
 [MFP - PJ=Persoane Juridice - cautare online](https://mfinante.gov.ro/ro/web/site); 
 [MFP - nomenclatoare geografice](https://mfinante.gov.ro/nomenclatoare-geografice-mfp); 
