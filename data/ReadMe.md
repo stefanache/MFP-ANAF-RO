@@ -115,6 +115,15 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 [Regimul de Amortizare MF - Cod Fiscal](https://www.portalcodulfiscal.ro/regimul-de-amortizare-pentru-un-mijloc-fix-amortizabil-61192.htm); 
 [Clasificarea si duratele-normale de functionare a mijloacelor fixe(MF)](https://decontabil.ro/utile/clasificari/clasificarea-si-duratele-normale-de-functionare-a-mijloacelor-fixe/)
 
+[Obiecte de inventar vs. Mijloace fixe: Ce trebuie să știi?](https://termene.ro/articole/obiecte-de-inventar-vs-mijloace-fixe); 
+
+[Ob.de Inv.=Obiect de inventar](https://www.smartbill.ro/termen/obiect-de-inventar); 
+[Ce sunt obiectele de inventar? Se amortizează obiectele de inventar?](https://www.myaccountant.eu/strategii-de-afaceri/151-dezvoltarea-unei-afaceri/384-ce-sunt-);
+[Obiecte de Inventar/assets](https://lege5.ro/Gratuit/gezdmojygu2a/reguli-privind-contabilitatea-materialelor-de-natura-obiectelor-de-inventar?dp=geydgnrvge2dgmq); 
+[Reguli privind contabilitatea materialelor de natura obiectelor de inventar | Reguli](https://lege5.ro/Gratuit/gezdmojygu2a/reguli-privind-contabilitatea-materialelor-de-natura-obiectelor-de-inventar?dp=geydgnrvge2dgmq); 
+[​​Obiectele de inventar: ce sunt, cum se înregistrează și cine ține evidența](https://startco.ro/blog/cum-si-cine-trebuie-sa-tina-o-evidenta-a-obiectelor-de-inventar/);
+
+
 [Nomenclator-tipizate](https://www.google.com/search?q=Nomenclator+tipizate&oq=Nomenclator+tipizate&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORifBdIBCTY3OThqMGoxNagCCLACAfEFMq_07p-JzJHxBTKv9O6ficyR&sourceid=chrome&source=chrome.rb&ie=UTF-8); 
 [InfoFisc: Ordinul 3512 - Nomenclatorul documentelor financiar-contabile(FC) + Ordinul 2634/2015 - Nomenclatorul documentelor financiar-contabile(FC)](https://www.infofisc.ro/Files/4ebc4ac2e29ebc67d2fd2c1bfb9eab9c.pdf); 
 [Nomenclatorul formularelor tipizate, comune pe economie, cu regim special de tipărire, înseriere şi numerotare din 02.12.1997](https://lege5.ro/gratuit/geytknrv/nomenclatorul-formularelor-tipizate-comune-pe-economie-cu-regim-special-de-tiparire-inseriere-si-numerotare-din-02121997); 
