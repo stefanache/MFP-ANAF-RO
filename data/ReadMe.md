@@ -4,8 +4,8 @@
           calitatea, <br/>
           caracteristicile, <br/>
           forma etc. <br/>
-   unui
-  - produs; <br/><br/>
+   
+  - unui produs(tangibil sau intangibil); <br/><br/>
   
 Standardul este un document în care sunt consemnate aceste norme. <br/>
  DEX '09 DEX '98 DLRLC DN;<br/>
