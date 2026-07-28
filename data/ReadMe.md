@@ -145,7 +145,7 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 [Directia Patrimoniu Bucuresti - Formulare Tipizate](https://www.pmb.ro/autorizatii-avize/formulare-tipizate/5/29);
 [MJ: ORDIN nr. 1.801 din 2 octombrie 1995 - NOMENCLATORUL formularelor tipizate pentru stabilirea, evidența, urmărirea, încasarea și raportarea impozitelor, taxelor și altor obligații, precum și al celor care privesc activitățile de trezorerie, bugetare, de control și sancționare a contravențiilor la normele legale privind disciplina financiară](https://legislatie.just.ro/Public/DetaliiDocument/7627); 
 [Aviz de Insotire/Expeditie a Marfii - Tipizat-Nomenclator 14-3-6a ](https://lege5.ro/App/Document/geytknrv/aviz-de-insotire-a-marfii-cod-14-3-6a-nomenclator); 
-[Tipizate si Formulare 2027](https://www.afir.ro/instrumente/instrumente-de-lucru/tipizate-si-formulare-ps-2027/); 
+[Tipizate si Formulare PS-2027](https://www.afir.ro/instrumente/instrumente-de-lucru/tipizate-si-formulare-ps-2027/); 
 
 
 
