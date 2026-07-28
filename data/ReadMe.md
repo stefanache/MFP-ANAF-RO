@@ -268,7 +268,7 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 [L5-INDACO. Registru de Evidenta a Accesului Persoanelor la ...](https://lege5.ro/App/Buy?legislatie=1&depasireNumarAccesari=1&docid=gmytmmbrgm); 
 [Registrul-Online de evidenta Documente I/E firma(API-Online)](https://registruonline.ro/);
 [Registru Intrare-iesire Vertical(Carte formular-tipizat)](https://www.rbsservice.ro/registru-intrare-iesire-vertical.html?srsltid=AfmBOop-hRuHBh8cVMZHxHxHDsJuAH8Ad0SJq16gNaQAtikVT--6NqvO);
-[Emag - Registru Tipizat](https://www.emag.ro/search/registru+tipizat); [Registru I/E Corespondenta](https://www.officedirect.ro/produse-din-hartie/tipizate/registru-intrare-iesire-a-corespondentei-a4-orizontal-coperta-rigida?srsltid=AfmBOopboJ0IigcJxTfF_EyPSjKs3Ls33RIX4LAI7XWqLAitTp67V-e7); 
+[Emag - Registru Tipizat](https://www.emag.ro/search/registru+tipizat); [Registru I/E Corespondenta](https://www.officedirect.ro/produse-din-hartie/tipizate/registru-intrare-iesire-a-corespondentei-a4-orizontal-coperta-rigida?srsltid=AfmBOopboJ0IigcJxTfF_EyPSjKs3Ls33RIX4LAI7XWqLAitTp67V-e7); [BNB: Registru I/E format Orizontal](https://www.bnb.ro/registru-intrare-iesire-orizontal-cartonat-100-file.html); 
 
 [Registrul-Jurnal(RJ) - Formular Snuruit](https://www.toshas.ro/produse/registru-jurnal-snuruit.html);
 
@@ -284,7 +284,7 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 
 [Registru Verificare Certificate si Marci Temporale -Verificare inregistrare](https://digisign.ro/utile/registru/) ;
 
-[OSIM](https://www.osim.ro/);
+[OSIM](https://www.osim.ro/); 
 
 [UE - Registru/REG de Transparenta - Lista tuturor lobbyiștilor; Lista acreditărilor](https://transparency-register.europa.eu/search-register-or-update/search-register_ro);
 
