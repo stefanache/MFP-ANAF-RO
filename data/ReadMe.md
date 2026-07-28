@@ -293,7 +293,7 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 
 [ROTLD: Registrul Numelor de Domenii Web](https://www.rotld.ro/home/);
 
-[Registru pentru evidenta microciparilor Animalelor(carte tiparita / formular](https://www.daisy-medical.ro/printuri-tipizate-personalizate/registru-pentru-evidenta-microciparilor.html);
+[Registru pentru evidenta microciparilor Animalelor(carte tiparita / formular)](https://www.daisy-medical.ro/printuri-tipizate-personalizate/registru-pentru-evidenta-microciparilor.html);
 
 
 
