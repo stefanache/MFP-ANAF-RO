@@ -121,7 +121,7 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 [Ob.Inv.](https://www.google.com/search?q=obiecte+de+inventar&oq=obiecte+de+inventar&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCTY3OTVqMGoxNagCCLACAfEFS7JmDylCrIrxBUuyZg8pQqyK&sourceid=chrome&source=chrome.rb&ie=UTF-8); 
 [Ob.de Inv. = Obiect de inventar](https://www.smartbill.ro/termen/obiect-de-inventar); 
 [Ce sunt obiectele de inventar? Se amortizează obiectele de inventar?](https://www.myaccountant.eu/strategii-de-afaceri/151-dezvoltarea-unei-afaceri/384-ce-sunt-);
-[Reguli privind contabilitatea materialelor de natura obiectelor de inventar | Reguli](https://lege5.ro/Gratuit/gezdmojygu2a/reguli-privind-contabilitatea-materialelor-de-natura-obiectelor-de-inventar?dp=geydgnrvge2dgmq); 
+[Reguli privind contabilitatea materialelor de natura obiectelor de inventar | Reguli](https://lege5.ro/Gratuit/gezdmojygu2a/reguli-privind-contabilitatea-materialelor-de-natura-obiectelor-de-inventar?dp=geydgnrvge2dgmq);  
 [​​Obiectele de inventar: ce sunt, cum se înregistrează și cine ține evidența](https://startco.ro/blog/cum-si-cine-trebuie-sa-tina-o-evidenta-a-obiectelor-de-inventar/);
 [Ob-Inv-Exemple-MBA: Obiecte de Inventar: Ce Sunt, Cum Se Înregistrează, Exemple](https://laceajutaunmba.ro/obiecte-de-inventar/);
 
