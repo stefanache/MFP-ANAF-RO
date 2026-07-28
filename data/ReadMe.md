@@ -253,7 +253,7 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 
 [Registrul-Online de evidenta Documente I/E firma](https://registruonline.ro/);
 
-{registrul-General Notarial(carte tiparita)](https://www.notarom.ro/cumpara/registru-general-notarial-520)
+[Registrul-General Notarial(Carte-formular-tipizat tiparita)](https://www.notarom.ro/cumpara/registru-general-notarial-520)
 
 
 
