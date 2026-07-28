@@ -251,6 +251,8 @@ sub formă binară.; [Registru de Deplasare](https://www.optimusdigital.ro/ro/co
 
 [ANAF: Registrul RO eFactura](https://www.anaf.ro/anaf/internet/ANAF/servicii_online/registre/registrul_eFactura/!ut/p/a1/hc49D4IwEAbg38LAyh2SAnHDGCnEQRwUuhgwtWCAklLh7ws6afy47b08b-6AQQqszYdK5LqSbV7PmbknalOXLvxFjI7vYeId1uEmIjaiO4FsAvhlAvzXPwJ7IzRBTMgq2pNwhzN5gh8nYmCilsXj3SxoC8cXwBS_cMWVdVPTutS665cmmjiOoyWkFDW3zrIx8VOllL2G9FVC16R4JfWwDQzjDvsTcbw!/dl5/d5/L2dBISEvZ0FBIS9nQSEh/);
 
+[ANAF: SAF-T](https://www.anaf.ro/anaf/internet/ANAF/despre_anaf/strategii_anaf/proiecte_digitalizare/saf_t/!ut/p/a1/pZLLroIwEIafxQVLmQGP2LjjGI94S0RDxG5OqimFBCgpVRKfXnClRtHE2c3k--fyZ4BCCDRnp0QwncicpU1OnX_P8hzPJvaM_Pkj9NfWYuzOEZE4NbC7BdDzEf3-73Tdn6wQLfxO_2N9p0fnMz2-CPft_rNWYDJoBthqOVoKoAXTcTfJIwkhNyN20EfFYAv0XYsH4InHrUBjYivQuHQFWmyo7xSp3F9fYufm-x6pD1I84oor86jqcqx1UQ4NNLCqKlNIKVJuHmRm4DNJLEsN4T0JRRYEQXheRJtpssq2pHQ7nQvCFlU9/dl5/d5/L2dBISEvZ0FBIS9nQSEh/);
+
 
 [Registrul de CASA](https://ajutor.smartbill.ro/article/131-ce-este-registru-casa);
 
