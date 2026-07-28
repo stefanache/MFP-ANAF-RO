@@ -251,6 +251,8 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 
 [ONRC - Registrul PJ/firmelor/companiilor(ONRC utilizeaza CAEN- Standardul/Nomenclatorul Activitatilor PJ)](https://www.onrc.ro/index.php/ro/)
 
+[Registrul-Online de evidenta I/E firma](https://registruonline.ro/);
+
 
 
 
