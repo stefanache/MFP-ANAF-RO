@@ -258,6 +258,8 @@ sub formă binară.; [Registru de Deplasare](https://www.optimusdigital.ro/ro/co
 [Campuri Obligatorii Ro e-Factura](https://blog.factureaza.ro/campurile-obligatorii-e-factura/); 
 [Model Semantic Ro eFactura](https://www.paycode.ro/efactura/structura-efactura); [Ex. scola ro eFactura](https://scoala195.invatamantsector3.ro/wp-content/uploads/sites/34/2021/06/DIGI-14064686.pdf); 
 
+[Erori posibile e-Factura](https://www.scribd.com/document/695500184/Erori-posibile-si-cauze-E-factura);
+
 [Ordin-1366_publicat in MO-10658112021 - RO-CIUS](https://mfinante.gov.ro/documents/35673/1120722/ordin1366_MO10658112021.pdf);
 
 [Tabel modif. legislativa RO eFactura](https://www.amcham.ro/download?file=committeePaper/ulZezqI.pdf&filename=Tabel%20modificare%20legislativa_Ghid%20ANAF%20RO%20E-TVA_vf.pdf);
