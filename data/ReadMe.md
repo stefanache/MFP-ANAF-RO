@@ -114,3 +114,6 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 [MFP - Precizari privind intocmirea si depunerea situatiilor financiare ale institutiilor publice in anul 2005 trim IV - Anexa](https://www.mfinante.gov.ro/static/10/Mfp/legislatie/regl_contabile/precizari_trim04.pdf); 
 [Regimul de Amortizare MF - Cod Fiscal](https://www.portalcodulfiscal.ro/regimul-de-amortizare-pentru-un-mijloc-fix-amortizabil-61192.htm); 
 [Clasificarea si duratele-normale de functionare a mijloacelor fixe(MF)](https://decontabil.ro/utile/clasificari/clasificarea-si-duratele-normale-de-functionare-a-mijloacelor-fixe/)
+
+[Nomenclatorul formularelor tipizate, comune pe economie, cu regim special de tipărire, înseriere şi numerotare din 02.12.1997](https://lege5.ro/gratuit/geytknrv/nomenclatorul-formularelor-tipizate-comune-pe-economie-cu-regim-special-de-tiparire-inseriere-si-numerotare-din-02121997); 
+
