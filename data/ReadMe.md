@@ -288,6 +288,9 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 
 [UE - Registru/REG de Transparenta - Lista tuturor lobbyiștilor; Lista acreditărilor](https://transparency-register.europa.eu/search-register-or-update/search-register_ro);
 
+[Registrul Medicilor(CMR)](https://regmed.cmr.ro/);
+
+
 
 
 
