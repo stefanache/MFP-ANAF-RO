@@ -248,6 +248,8 @@ sub formă binară.; [Registru de Deplasare](https://www.optimusdigital.ro/ro/co
 
 [Registru DEX](https://www.google.com/search?sca_esv=5e6c1f1176e333b8&sxsrf=APpeQnu20gE73B6FDTxs94aiyQGRcI4q2Q:1785253117771&q=Registru+dex&sa=X&ved=2ahUKEwi7vqyP2vWVAxWvcfEDHcJKAmIQ1QJ6BAg3EAE);
 
+[Curs de Guvernare](https://cursdeguvernare.ro/ghid-pentru-utilizarea-efactura-in-pasi-usor-de-urmat.html);
+
 [MFP: Aplicatii-Web RO eFactura](https://mfinante.gov.ro/web/efactura/aplicatii-web-ro-efactura); [e-Factura online](https://www.anaf.ro/CompletareFactura/faces/factura/informatiigenerale.xhtml);
 
 [ANAF: Registrul RO eFactura](https://www.anaf.ro/anaf/internet/ANAF/servicii_online/registre/registrul_eFactura/!ut/p/a1/hc49D4IwEAbg38LAyh2SAnHDGCnEQRwUuhgwtWCAklLh7ws6afy47b08b-6AQQqszYdK5LqSbV7PmbknalOXLvxFjI7vYeId1uEmIjaiO4FsAvhlAvzXPwJ7IzRBTMgq2pNwhzN5gh8nYmCilsXj3SxoC8cXwBS_cMWVdVPTutS665cmmjiOoyWkFDW3zrIx8VOllL2G9FVC16R4JfWwDQzjDvsTcbw!/dl5/d5/L2dBISEvZ0FBIS9nQSEh/);
@@ -258,8 +260,15 @@ sub formă binară.; [Registru de Deplasare](https://www.optimusdigital.ro/ro/co
 [Campuri Obligatorii Ro e-Factura](https://blog.factureaza.ro/campurile-obligatorii-e-factura/); 
 [Model Semantic Ro eFactura](https://www.paycode.ro/efactura/structura-efactura); [Ex. scola ro eFactura](https://scoala195.invatamantsector3.ro/wp-content/uploads/sites/34/2021/06/DIGI-14064686.pdf); [dOCUMENTATIE E-fACTURA](https://ftp.winmentor.ro/WinMentor/Versiunea_Curenta/WinMENTOR_KIT/Tools_si_alte_EXE_de_module/e-Factura/Documentatie%20e-Factura%202024.pdf); 
 [Curs e-Factura](https://www.scribd.com/document/614422870/Curs-e-Factura);
+[ANAF - Comunicat](https://static.anaf.ro/static/3/Ploiesti/20260115111226_comunicat%20ajfp%20arges%20-%20modificari%20ro%20e-factura%20site.pdf);
 
+[ANAF eFactura-Informatii](https://static.anaf.ro/static/10/Anaf/Informatii_R/e_factura.htm);
 [ANAF - Ghid Ro e-Factura](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/Ghid_RO_eFactura.pdf);
+[ANAF Ghid e-Factura 2024](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/Ghid_e_factura_2024.pdf);
+
+[Cum trimiti eFactura la ANAF](https://happyweb.ro/articol/cum-trimiti-o-factura-in-sistemul-ro-e-factura-ghid-pas-cu-pas-pentru-2026);
+
+[Gid eFactura pt Antreprenori](https://alfasign.ro/ghid-complet-e-factura-pentru-antreprenori/);
 
 [Entersoft Business Suite(EBS) e-Factura,e-Transport](https://sites.google.com/bitsoftware.ro/ebs-ro/instructiuni/integrari-cu-anaf/e-factura);
 
