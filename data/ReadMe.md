@@ -31,7 +31,7 @@ d1) [DEX: Formular(document gol avand rol de organizator/sablon/template/form de
 2. Broșură sau volum care cuprinde formulele uzuale dintr-o ramură a unei științe; culegere de formule. <br/>
 – Din fr. formulaire.;<br/>
 
-d2) [DEX: Tipizat/Imprimat/in sens standardizat sau nestandardizat dar macar Tipic](https://dexonline.ro/definitie/tipizat) - Cu particularități proprii unui tip. DEX '09 DEX '98
+d2) [DEX: Tipizat/Imprimat/in sens standardizat sau nestandardizat dar macar Tipic](https://dexonline.ro/definitie/tipizat) - Cu particularități proprii unui [TIP(grup de DOCs)](https://dexonline.ro/definitie/tip). DEX '09 DEX '98
 sinonime: standardizat;<br/>
 
 
