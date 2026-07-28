@@ -2,7 +2,7 @@
 [Registrul](https://dexonline.ro/definitie/registru) ex.: [ANAF Registrul-TVA](https://www.anaf.ro/RegistruTVA/); <br/>
 
 [DEX: Formular(organizator/sablon/template/form de date)](https://dexonline.ro/definitie/formular);<br/>
-[DEX: Tipizat](https://dexonline.ro/definitie/tipizat);<br/>
+[DEX: Tipizat/Imprimat/Tip(ic)](https://dexonline.ro/definitie/tipizat);<br/>
 
 <HR/>
 
