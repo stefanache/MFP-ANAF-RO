@@ -117,9 +117,10 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 [Gestiunea MF](https://www.aparaturafiscala.ro/blog/mijloacele-fixe-ce-sunt-cum-le-identifici-si-cum-le-amortizezi/); 
 [Situatia Imobilizarilor](https://dac.usamvcluj.ro/wp-content/uploads/2024/06/Anexa-I.35-Lista-investitii-mijloace-fixe.pdf); 
 [Amortizari MF - Anexa 1](https://www.comrepsa.ro/_upload/page/ANEXA_1.pdf); 
+[Amortizarea mijloacelor fixe(MF). Metode si exemple de amortizare.](https://contapp.ro/blog/amortizare-mijloace-fixe-pfa/)
 [Registrul Imobilizarilor](https://www.vf.ro/wp-content/uploads/2019/01/BRACO_INDUSTRIAL_Registrul_imobilizarilor_la_31.03.2018.pdf); 
 [Clasificarea si duratele-normale de functionare a mijloacelor fixe(MF)](https://decontabil.ro/utile/clasificari/clasificarea-si-duratele-normale-de-functionare-a-mijloacelor-fixe/); <br/>
-[Obiecte de inventar vs. Mijloace fixe: Ce trebuie să știi?](https://termene.ro/articole/obiecte-de-inventar-vs-mijloace-fixe); <br/> 
+[Obiecte de inventar vs. Mijloace fixe(MF): Ce trebuie să știi?](https://termene.ro/articole/obiecte-de-inventar-vs-mijloace-fixe); <br/> 
 [Obiecte de Inventar/assets](https://lege5.ro/Gratuit/gezdmojygu2a/reguli-privind-contabilitatea-materialelor-de-natura-obiectelor-de-inventar?dp=geydgnrvge2dgmq);
 [Ob.Inv.](https://www.google.com/search?q=obiecte+de+inventar&oq=obiecte+de+inventar&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCTY3OTVqMGoxNagCCLACAfEFS7JmDylCrIrxBUuyZg8pQqyK&sourceid=chrome&source=chrome.rb&ie=UTF-8); 
 [Ob.de Inv. = Obiect de inventar](https://www.smartbill.ro/termen/obiect-de-inventar); 
