@@ -254,6 +254,7 @@ sub formă binară.; [Registru de Deplasare](https://www.optimusdigital.ro/ro/co
 
 [Ghid de utilizare a codurilor dedicate tipurilor de facturi, a diverselor categorii de TVA, precum și a altor reguli, în sistemul național privind factura electronică RO e-Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi_final%20v2.9.pdf);
 
+[Prezentare e-Factura](/https://mfinante.gov.ro/static/10/eFactura/PrezentareE-factura.pdf);
 
 [ANAF: SAF-T](https://www.anaf.ro/anaf/internet/ANAF/despre_anaf/strategii_anaf/proiecte_digitalizare/saf_t/!ut/p/a1/pZLLroIwEIafxQVLmQGP2LjjGI94S0RDxG5OqimFBCgpVRKfXnClRtHE2c3k--fyZ4BCCDRnp0QwncicpU1OnX_P8hzPJvaM_Pkj9NfWYuzOEZE4NbC7BdDzEf3-73Tdn6wQLfxO_2N9p0fnMz2-CPft_rNWYDJoBthqOVoKoAXTcTfJIwkhNyN20EfFYAv0XYsH4InHrUBjYivQuHQFWmyo7xSp3F9fYufm-x6pD1I84oor86jqcqx1UQ4NNLCqKlNIKVJuHmRm4DNJLEsN4T0JRRYEQXheRJtpssq2pHQ7nQvCFlU9/dl5/d5/L2dBISEvZ0FBIS9nQSEh/);
 
