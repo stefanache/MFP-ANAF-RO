@@ -8,7 +8,8 @@
 
 [DEX: Formular(organizator/sablon/template/form de date)](https://dexonline.ro/definitie/formular) - FORMULAR, formulare, s. n. 1. Imprimat cu mai multe spații albe, care se completează în vederea întocmirii unui act, a unui tabel etc. 2. Broșură sau volum care cuprinde formulele uzuale dintr-o ramură a unei științe; culegere de formule. – Din fr. formulaire.;<br/>
 
-[DEX: Tipizat/Imprimat/Tip(ic) in sens standardizat sau nestandardizat](https://dexonline.ro/definitie/tipizat);<br/>
+[DEX: Tipizat/Imprimat/in sens standardizat sau nestandardizat dar macar Tipic](https://dexonline.ro/definitie/tipizat) - Cu particularități proprii unui tip. DEX '09 DEX '98
+sinonime: standardizat;<br/>
 
 
 <HR/>
