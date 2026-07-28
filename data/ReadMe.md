@@ -255,11 +255,13 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 
 [ANAF Registrul Entitatilor/Unitalor de Cult](https://www.anaf.ro/RegistrulEntitatilorUnitatilorCult/);
 
+[ANAF Registrul Agentilor Inactivi](https://www.anaf.ro/inactivi/);
+
 [Reg Online Inspectorat - Invatamant(EDU) - jud. CV](https://isj.educv.ro/dolr3/);
 
 [MFP - Model(formular tipizat sau nu) registru pentru înregistrarea cererilor și răspunsurilor privind accesul la informațiile de interes public](https://mfinante.gov.ro/model-registru-pentru-inregistrarea-cererilor-si-raspunsurilor-privind-accesul-la-informatiile-de-interes-public);
 
-[ONRC - Registrul PJ/firmelor/companiilor(ONRC utilizeaza CAEN- Standardul/Nomenclatorul Activitatilor PJ)](https://www.onrc.ro/index.php/ro/)
+[ONRC - Registrul PJ/Agentilor/firmelor/companiilor(ONRC utilizeaza CAEN- Standardul/Nomenclatorul Activitatilor PJ)](https://www.onrc.ro/index.php/ro/)
 
 [L5-INDACO. Registru de Evidenta a Accesului Persoanelor la ...](https://lege5.ro/App/Buy?legislatie=1&depasireNumarAccesari=1&docid=gmytmmbrgm); 
 [Registrul-Online de evidenta Documente I/E firma(API-Online)](https://registruonline.ro/);
