@@ -116,7 +116,7 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 
 [MFP - Precizari privind intocmirea si depunerea situatiilor financiare ale institutiilor publice in anul 2005 Anexa](https://www.mfinante.gov.ro/static/10/Mfp/legislatie/regl_contabile/precizari_trim04.pdf)
 
-[Amortizare MF-Cod Fiscal](https://www.portalcodulfiscal.ro/regimul-de-amortizare-pentru-un-mijloc-fix-amortizabil-61192.htm)
+[Regimul de Amortizare MF - Cod Fiscal](https://www.portalcodulfiscal.ro/regimul-de-amortizare-pentru-un-mijloc-fix-amortizabil-61192.htm)
 
 
   
