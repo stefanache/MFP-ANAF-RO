@@ -241,7 +241,7 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 
 <HR/>
 
-[DEX: REGISTRU](https://m.dex.ro/registru)
+[DEX: REGISTRU](https://m.dex.ro/registru); [wiki: REGISTRU](https://ro.wiktionary.org/wiki/registru);
 
 [Registru DEX](https://www.google.com/search?sca_esv=5e6c1f1176e333b8&sxsrf=APpeQnu20gE73B6FDTxs94aiyQGRcI4q2Q:1785253117771&q=Registru+dex&sa=X&ved=2ahUKEwi7vqyP2vWVAxWvcfEDHcJKAmIQ1QJ6BAg3EAE);
 
@@ -265,9 +265,17 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 [Registru Intrare-iesire Vertical(Carte formular-tipizat)](https://www.rbsservice.ro/registru-intrare-iesire-vertical.html?srsltid=AfmBOop-hRuHBh8cVMZHxHxHDsJuAH8Ad0SJq16gNaQAtikVT--6NqvO);
 [Emag - Registru Tipizat](https://www.emag.ro/search/registru+tipizat);
 
-[Registrul Jurnal(RJ) - Formular Snuruit](https://www.toshas.ro/produse/registru-jurnal-snuruit.html);
+[Registrul-Jurnal(RJ) - Formular Snuruit](https://www.toshas.ro/produse/registru-jurnal-snuruit.html);
 
-[Registrul-General Notarial(Carte-formular-tipizat tiparita)](https://www.notarom.ro/cumpara/registru-general-notarial-520);
+[Registrul-General Notarial(Carte Formular-Tipizat/Standardizat in forma/pe suport Tiparit[a])](https://www.notarom.ro/cumpara/registru-general-notarial-520);
+
+[Registru de Evidenta Ordine de Plata(OP-uri) A4, 100 file, coperta mucava caserata, legat, landscape - Formular Tipizat/Standardizat Tiparit](https://printcreativ.ro/produs/registru-de-evidenta-ordine-de-plata-op-uri-a4-personalizat-100-file-coperta-mucava-caserata-legat-landscape/);
+
+[Registru A4 coperti cartonate color, 200 file - matematica EVOffice (carte-forma tiparita)](https://www.evidentgroup.ro/registre-si-repertoare/registru-a4-coperti-cartonate-color-200-file-matematica-evoffice-ev6a02m.html);
+
+
+
+
 
 
 
