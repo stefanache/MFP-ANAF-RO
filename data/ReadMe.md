@@ -243,9 +243,15 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 
 [DEX: REGISTRU](https://m.dex.ro/registru)
 
+[Registru DEX](https://www.google.com/search?sca_esv=5e6c1f1176e333b8&sxsrf=APpeQnu20gE73B6FDTxs94aiyQGRcI4q2Q:1785253117771&q=Registru+dex&sa=X&ved=2ahUKEwi7vqyP2vWVAxWvcfEDHcJKAmIQ1QJ6BAg3EAE);
+
+[Registru ANAF](https://www.google.com/search?sca_esv=5e6c1f1176e333b8&sxsrf=APpeQnu20gE73B6FDTxs94aiyQGRcI4q2Q:1785253117771&q=Registru+anaf&sa=X&ved=2ahUKEwi7vqyP2vWVAxWvcfEDHcJKAmIQ1QJ6BAg0EAE)
+
 [L5.Registru de Evidenta a contractelor de asistenta... ](https://lege5.ro/App/Buy?legislatie=1&depasireNumarAccesari=1&docid=heztqmjq);
 
-[Registru-TVA Verificare](https://www.google.com/search?sca_esv=5e6c1f1176e333b8&sxsrf=APpeQnu20gE73B6FDTxs94aiyQGRcI4q2Q:1785253117771&q=Verificare+registru+tva&sa=X&ved=2ahUKEwi7vqyP2vWVAxWvcfEDHcJKAmIQ1QJ6BAguEAE);
+[Registru-TVA Verificare](https://www.google.com/search?sca_esv=5e6c1f1176e333b8&sxsrf=APpeQnu20gE73B6FDTxs94aiyQGRcI4q2Q:1785253117771&q=Verificare+registru+tva&sa=X&ved=2ahUKEwi7vqyP2vWVAxWvcfEDHcJKAmIQ1QJ6BAguEAE); [Registrul TVA De Incasare](https://www.google.com/search?sca_esv=5e6c1f1176e333b8&sxsrf=APpeQnu20gE73B6FDTxs94aiyQGRcI4q2Q:1785253117771&q=Registru+tva+la+incasare&sa=X&ved=2ahUKEwi7vqyP2vWVAxWvcfEDHcJKAmIQ1QJ6BAhBEAE);
+[Registru TVA anulat](https://www.google.com/search?sca_esv=5e6c1f1176e333b8&sxsrf=APpeQnu20gE73B6FDTxs94aiyQGRcI4q2Q:1785253117771&q=Registru+tva+anulat&sa=X&ved=2ahUKEwi7vqyP2vWVAxWvcfEDHcJKAmIQ1QJ6BAgwEAE);
+[Registru TVA IntraComunitar](https://www.google.com/search?sca_esv=5e6c1f1176e333b8&sxsrf=APpeQnu20gE73B6FDTxs94aiyQGRcI4q2Q:1785253117771&q=Registru+tva+intracomunitar&sa=X&ved=2ahUKEwi7vqyP2vWVAxWvcfEDHcJKAmIQ1QJ6BAg6EAE);
 
 [Reg Online Inspectorat - Invatamant(EDU) - jud. CV](https://isj.educv.ro/dolr3/);
 
@@ -257,7 +263,6 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 [Registru Intrare-iesire Vertical(Carte formular-tipizat)](https://www.rbsservice.ro/registru-intrare-iesire-vertical.html?srsltid=AfmBOop-hRuHBh8cVMZHxHxHDsJuAH8Ad0SJq16gNaQAtikVT--6NqvO);
 
 [Registrul-General Notarial(Carte-formular-tipizat tiparita)](https://www.notarom.ro/cumpara/registru-general-notarial-520);
-
 
 
 
