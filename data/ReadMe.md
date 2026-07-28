@@ -166,7 +166,7 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 [Formulare Tipizate AutoCopiative](https://formularetipizate.ro/); 
 [Nomenclator/Opis Arhivistic](https://www.upet.ro/documente/2018/Nomenclator%20arhivistic%20UP.pdf); 
 [Ministerul Finanțelor
-[Vama/Autoritatea Vamală Română - Incadrare - Tarifara: OMENCLATURĂ SISTEM ARMONIZAT, NOMENCLATURA COMBINATA/NC, NOMENCLATURĂ TARIC, CLASIFICARE MĂRFURI ACCIZABILE; DECIZII REFERITOARE LA INFORMAȚII TARIFARE OBLIGATORII(ITO)](https://www.customs.ro/agenti-economici/incadrare-tarifara); 
+[Vama/Autoritatea Vamală Română - Incadrare - Tarifara: OMENCLATURĂ SISTEM ARMONIZAT, NOMENCLATURA COMBINATA/NC, NOMENCLATURĂ TARIC, CLASIFICARE MĂRFURI ACCIZABILE; DECIZII REFERITOARE LA INFORMAȚII TARIFARE OBLIGATORII(ITO), E-LEARNING](https://www.customs.ro/agenti-economici/incadrare-tarifara); 
 
 
 
