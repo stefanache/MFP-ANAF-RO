@@ -166,6 +166,7 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 [Formulare Tipizate AutoCopiative](https://formularetipizate.ro/); 
 [Nomenclatorul formularelor-tipizate(FT) cu regim-special(RS) va fi actualizat](https://contabilsef.md/nomenclatorul-formularelor-tipizate-cu-regim-special-va-fi-actualizat)
 [Nomenclator/Opis Arhivistic](https://www.upet.ro/documente/2018/Nomenclator%20arhivistic%20UP.pdf); 
+[Ocazii.ro: Nomenclatorul Formularelor Tipizate](https://www.okazii.ro/nomenclatorul-produselor-tipizate-vol-3-ministerul-industriei-de-masini-unelte-electrotehnica-si-electr-a233593077); 
 
 [Vama/Autoritatea Vamală Română - Incadrare - Tarifara: OMENCLATURĂ SISTEM ARMONIZAT, NOMENCLATURA COMBINATA/NC, NOMENCLATURĂ TARIC, CLASIFICARE MĂRFURI ACCIZABILE; DECIZII REFERITOARE LA INFORMAȚII TARIFARE OBLIGATORII(ITO), E-LEARNING](https://www.customs.ro/agenti-economici/incadrare-tarifara); 
 
@@ -179,7 +180,6 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 [Istoric Artera si Nr. Postal](https://www.google.com/search?sca_esv=2308d5414c297b7d&biw=1483&bih=769&sxsrf=APpeQnu2egwXxvaxJB1CCQh5IveNDl6zOw:1785242664652&q=Istoric+artera+si+numar+postal&sa=X&ved=2ahUKEwjb6fSWs_WVAxUyGxAIHRWXGCc4FBDVAnoECC8QAQ); 
 
 [Nomenclator Organigrama](https://arsvom.ro/nomenclator-organigrama/);
-
 
 [HG Nomenclator programe de studii](https://www.aracis.ro/hg-nomenclator-programe-de-studii/); 
 
