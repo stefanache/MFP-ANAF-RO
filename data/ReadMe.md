@@ -196,6 +196,14 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 [AOPSNAJ: COMUNICAT CASAOPSNAJ - Privind procesul de emitere/eliberare a Cardului European de Asigurari Sociale de Sanatate](https://www.aopsnaj.ro/)
 
 
+<HR/>
+
+[DEX: REGISTRU](https://m.dex.ro/registru)
+
+[L5.Registru de Evidenta a contractelor de asistenta... ](https://lege5.ro/App/Buy?legislatie=1&depasireNumarAccesari=1&docid=heztqmjq);
+
+[Reg Online Inspectorat - Invatamant(EDU) - jud. CV](https://isj.educv.ro/dolr3/);
+
 
 
 
