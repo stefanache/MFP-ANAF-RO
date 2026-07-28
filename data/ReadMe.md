@@ -4,7 +4,7 @@
 [Nomenclatorul](https://www.scribd.com/document/371729355/Nomenclatorul) ex.: [Nomenclatorul Documentelor/Arhivistic](https://www.archive.ro/wp-content/uploads/2022/10/Model-Nomenclator.pdf);<br/>
 
 [Registrul](https://dexonline.ro/definitie/registru) ex.: [ANAF Registrul-TVA](https://www.anaf.ro/RegistruTVA/); <br/>
-[DEX: REGISTRU(de/in care se tine o evidenta)](https://m.dex.ro/registru)
+[DEX: REGISTRU(de/in care se tine o evidenta)](https://m.dex.ro/registru)- REGÍSTRU, registre, s. n. 1. Condică, caiet, sistem de fișe etc. în care se înregistrează diferite date și acte cu caracter administrativ, comercial etc. <br/>
 
 [DEX: Formular(organizator/sablon/template/form de date)](https://dexonline.ro/definitie/formular);<br/>
 
