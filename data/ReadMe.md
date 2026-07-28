@@ -297,6 +297,7 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 [ROTLD: Registrul Numelor de Domenii Web](https://www.rotld.ro/home/);
 
 [Registru pentru evidenta microciparilor Animalelor(carte tiparita / formular)](https://www.daisy-medical.ro/printuri-tipizate-personalizate/registru-pentru-evidenta-microciparilor.html);
+[Registru de Sterilizare](https://www.cupio.ro/registru-de-sterilizare);
 
 [Registrul Artelor Spectacolului](Registrul Artelor Spectacolului); [wiki: Registru-Muzical](https://ro.wikipedia.org/wiki/Registru_(muzic%C4%83));
 
@@ -308,7 +309,9 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 
 [Registrul Auto Roman(RAR)](https://www.rarom.ro/);
 
+[ROeID - Identitatea ta digitală prin semnatura digitala](https://www.roeid.ro/);
 
+[Registru unic de control](https://www.workleto.com/ro-ro/blog/registrul-unic-de-control);
 
 
 
