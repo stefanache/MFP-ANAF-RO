@@ -6,7 +6,7 @@ Aici sunt date si cateva exemple de [seturi de date/DS](https://lege5.ro/Legisla
 
 <hr/>
 Mai intai putina definire(teoretica):
-<br/>
+<br/><br/>
 
 ***DOCUMENTE***
 <hr/>
