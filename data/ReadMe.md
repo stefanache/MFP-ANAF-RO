@@ -242,7 +242,7 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 <HR/>
 
 [DEX: REGISTRU](https://m.dex.ro/registru); [wiki: REGISTRU](https://ro.wiktionary.org/wiki/registru); [REGISTRU-Definitie](https://www.archeus.ro/lingvistica/CautareDex?query=REGISTRU);
-[Registru - definitie in sens juridic](https://legeaz.net/dictionar-juridic/registru);
+[Registru - definitie in sens juridic Si cateva EXEMPLE](https://legeaz.net/dictionar-juridic/registru);
 
 [Registru DEX](https://www.google.com/search?sca_esv=5e6c1f1176e333b8&sxsrf=APpeQnu20gE73B6FDTxs94aiyQGRcI4q2Q:1785253117771&q=Registru+dex&sa=X&ved=2ahUKEwi7vqyP2vWVAxWvcfEDHcJKAmIQ1QJ6BAg3EAE);
 
