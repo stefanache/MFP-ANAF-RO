@@ -123,6 +123,7 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 [Amortizarea mijloacelor fixe(MF). Metode si exemple de amortizare.](https://contapp.ro/blog/amortizare-mijloace-fixe-pfa/)
 [Registrul Imobilizarilor](https://www.vf.ro/wp-content/uploads/2019/01/BRACO_INDUSTRIAL_Registrul_imobilizarilor_la_31.03.2018.pdf); 
 [Clasificarea si duratele-normale de functionare a mijloacelor fixe(MF)](https://decontabil.ro/utile/clasificari/clasificarea-si-duratele-normale-de-functionare-a-mijloacelor-fixe/); <br/>
+[Catalog/NomenclatorMF](https://www.contabun.ro/catalog-mijloace-fixe/?srsltid=AfmBOoqZZuVgbOIg-LHTRKZOSxi6O-xlSU93XNnHL95Oi50pBZc_ZMwa);
 [Obiecte de inventar vs. Mijloace fixe(MF): Ce trebuie să știi?](https://termene.ro/articole/obiecte-de-inventar-vs-mijloace-fixe); <br/> 
 [Obiecte de Inventar/assets](https://lege5.ro/Gratuit/gezdmojygu2a/reguli-privind-contabilitatea-materialelor-de-natura-obiectelor-de-inventar?dp=geydgnrvge2dgmq);
 [Ob.Inv.](https://www.google.com/search?q=obiecte+de+inventar&oq=obiecte+de+inventar&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCTY3OTVqMGoxNagCCLACAfEFS7JmDylCrIrxBUuyZg8pQqyK&sourceid=chrome&source=chrome.rb&ie=UTF-8); 
