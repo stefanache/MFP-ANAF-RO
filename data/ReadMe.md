@@ -331,4 +331,6 @@ sub formă binară.;
 
 [AFM=ADMINISTRAŢIA FONDULUI PENTRU MEDIU](https://siatd.afm.ro/#/);
 
+[L5. -Registrul Serviciilor de Ingrijiri](https://lege5.ro/App/Buy?legislatie=1&depasireNumarAccesari=1&docid=gqydsmzxge)
+
 
