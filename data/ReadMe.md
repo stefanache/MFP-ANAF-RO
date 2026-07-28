@@ -1,10 +1,15 @@
 [DEX: Standard(presupune Norme de incadrare in standard)](https://dexonline.ro/definitie/standard);
 
-[Nomenclatorul](https://www.scribd.com/document/371729355/Nomenclatorul) ex.: [Nomenclatorul Documentelor/Arhivistic](https://www.archive.ro/wp-content/uploads/2022/10/Model-Nomenclator.pdf); <BR/>
+[DEX: Nomenclator](https://dexonline.ro/definitie/%20nomenclator);<br/>
+[Nomenclatorul](https://www.scribd.com/document/371729355/Nomenclatorul) ex.: [Nomenclatorul Documentelor/Arhivistic](https://www.archive.ro/wp-content/uploads/2022/10/Model-Nomenclator.pdf);<br/>
+
 [Registrul](https://dexonline.ro/definitie/registru) ex.: [ANAF Registrul-TVA](https://www.anaf.ro/RegistruTVA/); <br/>
+[DEX: REGISTRU(de/in care se tine o evidenta)](https://m.dex.ro/registru)
 
 [DEX: Formular(organizator/sablon/template/form de date)](https://dexonline.ro/definitie/formular);<br/>
+
 [DEX: Tipizat/Imprimat/Tip(ic) in sens standardizat sau nestandardizat](https://dexonline.ro/definitie/tipizat);<br/>
+
 
 <HR/>
 
