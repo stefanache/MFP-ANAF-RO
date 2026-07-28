@@ -163,6 +163,11 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 [Nomenclatorul formularelor tipizate cu regim special, modificat - 2024](https://www.contabilitate.md/ro/news/1142?cHash=b79c982eaf8a3bc41581378a7973aa73); 
 [Formulare tipizate Primarie](https://primariabarnova.ro/primaria-comunei-birnova/transparenta/formulare-tipizate/); 
 [ORDIN nr. 1.801 din 2 octombrie 1995 (*actualizat*)](https://legislatie.just.ro/Public/FormaPrintabila/00000G0E6H8LDIOWMN8189NAAIU45DKY);
+[Formulare Tipizate AutoCopiative](https://formularetipizate.ro/); 
+[Nomenclator/Opis Arhivistic](https://www.upet.ro/documente/2018/Nomenclator%20arhivistic%20UP.pdf); 
+[Ministerul Finanțelor
+[Vama/Autoritatea Vamală Română - Incadrare - Tarifara: OMENCLATURĂ SISTEM ARMONIZAT, NOMENCLATURA COMBINATA/NC, NOMENCLATURĂ TARIC, CLASIFICARE MĂRFURI ACCIZABILE; DECIZII REFERITOARE LA INFORMAȚII TARIFARE OBLIGATORII(ITO)](https://www.customs.ro/agenti-economici/incadrare-tarifara); 
+
 
 
 [Nomenclator Stradal](https://comunaholboca.ro/nomenclator-stradal/);
