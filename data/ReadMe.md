@@ -273,6 +273,9 @@ sub formă binară.; [Registru de Deplasare](https://www.optimusdigital.ro/ro/co
 
 [MFP - Model(formular tipizat sau nu) registru pentru înregistrarea cererilor și răspunsurilor privind accesul la informațiile de interes public](https://mfinante.gov.ro/model-registru-pentru-inregistrarea-cererilor-si-raspunsurilor-privind-accesul-la-informatiile-de-interes-public);
 
+[MFP-Date de Identificare pe baza Registrelor](https://mfinante.gov.ro/domenii/informatii-contribuabili/persoane-juridice/info-pj-selectie-dupa-cui);
+
+
 [ONRC - Registrul PJ/Agentilor/firmelor/companiilor(ONRC utilizeaza CAEN- Standardul/Nomenclatorul Activitatilor PJ)](https://www.onrc.ro/index.php/ro/)
 
 [L5-INDACO. Registru de Evidenta a Accesului Persoanelor la ...](https://lege5.ro/App/Buy?legislatie=1&depasireNumarAccesari=1&docid=gmytmmbrgm); 
@@ -353,3 +356,5 @@ sub formă binară.; [Registru de Deplasare](https://www.optimusdigital.ro/ro/co
 [Registrul Reselleri](https://digisign.ro/);
 
 [ARR Autoritatea Rutiera Romana](https://www.roviniete.ro/ro/taxe/plata-tarife-arr);
+
+[Registrul Agricol](https://www.registrulagricol.ro/);
