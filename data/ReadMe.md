@@ -151,6 +151,7 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 [NORME SPECIFICE DE UTILIZARE A DOCUMENTELOR FINANCIAR-CONTABILE(FC): NOMENCLATORUL documentelor financiar-contabile(FC) -  Anexa 2 din O2634/2015](https://mfinante.gov.ro/documents/35673/219198/anexe2_3ordin2634_2015.pdf); 
 [Folder	Nomenclator si ierarhia functiilor](https://www.comunaivanesti.ro/index.php/nomenclator-si-ierarhia-functiilor); 
 
+[Nomenclator Stradal](https://comunaholboca.ro/nomenclator-stradal/)
 
 
 [HG Nomenclator programe de studii](https://www.aracis.ro/hg-nomenclator-programe-de-studii/); 
