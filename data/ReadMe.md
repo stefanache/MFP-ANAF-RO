@@ -251,9 +251,11 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 
 [ONRC - Registrul PJ/firmelor/companiilor(ONRC utilizeaza CAEN- Standardul/Nomenclatorul Activitatilor PJ)](https://www.onrc.ro/index.php/ro/)
 
-[Registrul-Online de evidenta Documente I/E firma](https://registruonline.ro/);
+[Registrul-Online de evidenta Documente I/E firma(API-Online)](https://registruonline.ro/);
+[Registru Intrare-iesire Vertical(Carte formular-tipizat)](https://www.rbsservice.ro/registru-intrare-iesire-vertical.html?srsltid=AfmBOop-hRuHBh8cVMZHxHxHDsJuAH8Ad0SJq16gNaQAtikVT--6NqvO);
 
-[Registrul-General Notarial(Carte-formular-tipizat tiparita)](https://www.notarom.ro/cumpara/registru-general-notarial-520)
+[Registrul-General Notarial(Carte-formular-tipizat tiparita)](https://www.notarom.ro/cumpara/registru-general-notarial-520);
+
 
 
 
