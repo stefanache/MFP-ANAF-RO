@@ -115,6 +115,7 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 [Regimul de Amortizare MF - Cod Fiscal](https://www.portalcodulfiscal.ro/regimul-de-amortizare-pentru-un-mijloc-fix-amortizabil-61192.htm); 
 [ANAF: Amortizarea-Fiscala](https://static.anaf.ro/static/10/Cluj/cj_amortizare_27ian2025.pdf); 
 [Gestiunea MF](https://www.aparaturafiscala.ro/blog/mijloacele-fixe-ce-sunt-cum-le-identifici-si-cum-le-amortizezi/); 
+[Situatia Imobilizarilor](https://dac.usamvcluj.ro/wp-content/uploads/2024/06/Anexa-I.35-Lista-investitii-mijloace-fixe.pdf); 
 [Registrul Imobilizarilor](https://www.vf.ro/wp-content/uploads/2019/01/BRACO_INDUSTRIAL_Registrul_imobilizarilor_la_31.03.2018.pdf); 
 [Clasificarea si duratele-normale de functionare a mijloacelor fixe(MF)](https://decontabil.ro/utile/clasificari/clasificarea-si-duratele-normale-de-functionare-a-mijloacelor-fixe/); <br/>
 [Obiecte de inventar vs. Mijloace fixe: Ce trebuie să știi?](https://termene.ro/articole/obiecte-de-inventar-vs-mijloace-fixe); <br/> 
