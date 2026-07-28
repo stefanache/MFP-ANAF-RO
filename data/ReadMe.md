@@ -1,4 +1,4 @@
-[Nomenclatorul](https://www.scribd.com/document/371729355/Nomenclatorul); <BR/>
+[Nomenclatorul](https://www.scribd.com/document/371729355/Nomenclatorul) ex.: [Nomenclatorul Documentelor/Arhivistic](https://www.archive.ro/wp-content/uploads/2022/10/Model-Nomenclator.pdf); <BR/>
 [Registrul](https://dexonline.ro/definitie/registru) ex.: [ANAF Registrul-TVA](https://www.anaf.ro/RegistruTVA/); <br/>
 
 <HR/>
