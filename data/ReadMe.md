@@ -321,6 +321,7 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 
 [REGES- Registrul Salariatilor](https://www.bucurestifm.ro/2025/12/30/noul-registru-digital-al-salariatilor-reges-online-devine-obligatoriu-de-la-1-ianuarie/);
 
+[SIUI- Verificare Calitate Asigurat](https://cnas.ro/verificare-asigurati/);
 
 
 
