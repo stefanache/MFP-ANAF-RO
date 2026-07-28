@@ -297,8 +297,9 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 
 [Registrul Artelor Spectacolului](Registrul Artelor Spectacolului); [wiki: Registru-Muzical](https://ro.wikipedia.org/wiki/Registru_(muzic%C4%83));
 
+[Autoritatea Naţională de Supraveghere a Prelucrării Datelor cu Caracter Personal](https://www.dataprotection.ro/?page=stire_01102008_1&lang=ro); 
 
-
+[RMD SE-REGISTRU](https://e-services.md/public/WebPublic/index.php?lang=md);
 
 
 
