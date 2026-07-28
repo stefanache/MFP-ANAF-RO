@@ -245,6 +245,8 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 
 [L5.Registru de Evidenta a contractelor de asistenta... ](https://lege5.ro/App/Buy?legislatie=1&depasireNumarAccesari=1&docid=heztqmjq);
 
+[Registru-TVA Verificare](https://www.google.com/search?sca_esv=5e6c1f1176e333b8&sxsrf=APpeQnu20gE73B6FDTxs94aiyQGRcI4q2Q:1785253117771&q=Verificare+registru+tva&sa=X&ved=2ahUKEwi7vqyP2vWVAxWvcfEDHcJKAmIQ1QJ6BAguEAE);
+
 [Reg Online Inspectorat - Invatamant(EDU) - jud. CV](https://isj.educv.ro/dolr3/);
 
 [MFP - Model(formular tipizat sau nu) registru pentru înregistrarea cererilor și răspunsurilor privind accesul la informațiile de interes public](https://mfinante.gov.ro/model-registru-pentru-inregistrarea-cererilor-si-raspunsurilor-privind-accesul-la-informatiile-de-interes-public);
