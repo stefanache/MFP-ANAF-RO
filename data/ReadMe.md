@@ -153,7 +153,7 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 [Acte necesare pt Servicii Electronice](https://www.primarie3.ro/index.php/informatii_publice/acte_necesare);
 [Tipizate Scolare pt Scoala Ta](https://www.tipizat.ro/?srsltid=AfmBOorUuVRBm4f2z7aQTmyKc6xKkHDU9bHkIXlL9sLa8rB_aAP37tnC); 
 [Documente cu Regim-Special(RS)](https://www.google.com/search?sca_esv=2308d5414c297b7d&biw=1483&bih=769&sxsrf=APpeQnu2egwXxvaxJB1CCQh5IveNDl6zOw:1785242664652&q=Documente+cu+regim+special+exemple&sa=X&ved=2ahUKEwjb6fSWs_WVAxUyGxAIHRWXGCc4FBDVAnoECC4QAQ); 
-
+[Tipizate Scolare, Diplome, Rechizite si Drapele](https://www.tipizat.ro/?srsltid=AfmBOoqK33PXKERVeZFwnqLtxCFlupfX5pJinFK6vtqCGVeYqs3VWZMY);
 
 [Nomenclator Stradal](https://comunaholboca.ro/nomenclator-stradal/);
 [Certificat Nomenclatura Stradala Bucuresti](https://www.google.com/search?sca_esv=2308d5414c297b7d&biw=1483&bih=769&sxsrf=APpeQnu2egwXxvaxJB1CCQh5IveNDl6zOw:1785242664652&q=Certificat+nomenclatura+stradala+bucuresti&sa=X&ved=2ahUKEwjb6fSWs_WVAxUyGxAIHRWXGCc4FBDVAnoECD4QAQ); 
