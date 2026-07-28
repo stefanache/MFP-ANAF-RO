@@ -116,7 +116,7 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 [Clasificarea si duratele-normale de functionare a mijloacelor fixe(MF)](https://decontabil.ro/utile/clasificari/clasificarea-si-duratele-normale-de-functionare-a-mijloacelor-fixe/)
 
 [Nomenclator-tipizate](https://www.google.com/search?q=Nomenclator+tipizate&oq=Nomenclator+tipizate&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORifBdIBCTY3OThqMGoxNagCCLACAfEFMq_07p-JzJHxBTKv9O6ficyR&sourceid=chrome&source=chrome.rb&ie=UTF-8); 
-[InfoFisc](chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://www.infofisc.ro/Files/4ebc4ac2e29ebc67d2fd2c1bfb9eab9c.pdf); 
+[InfoFisc: Ordinul 3512 - Nomenclatorul documentelor financiar-contabile(FC) + Ordinul 2634/2015 - Nomenclatorul documentelor financiar-contabile(FC)]https://www.infofisc.ro/Files/4ebc4ac2e29ebc67d2fd2c1bfb9eab9c.pdf); 
 [Nomenclatorul formularelor tipizate, comune pe economie, cu regim special de tipărire, înseriere şi numerotare din 02.12.1997](https://lege5.ro/gratuit/geytknrv/nomenclatorul-formularelor-tipizate-comune-pe-economie-cu-regim-special-de-tiparire-inseriere-si-numerotare-din-02121997); 
 [ORDIN nr. 2.634 din 5 noiembrie 2015](https://legislatie.just.ro/Public/DetaliiDocument/173682); 
 [ORDIN Nr. 2634/2015 din 5 noiembrie 2015
