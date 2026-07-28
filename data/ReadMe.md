@@ -147,10 +147,10 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 [ORDIN Nr. 2634/2015 din 5 noiembrie 2015 privind documentele financiar-contabile/FC*) EMITENT: MINISTERUL FINANŢELOR PUBLICE(MFP) PUBLICAT ÎN: MONITORUL OFICIAL(MO) NR. 910 bis din 9 decembrie 2015](https://www.afahc.ro/ro/informari/posturi_vacante_2016/legislatie/Ordin%202634_2015.pdf);
 [Directia Patrimoniu Bucuresti - Formulare Tipizate](https://www.pmb.ro/autorizatii-avize/formulare-tipizate/5/29);
 [MJ: ORDIN nr. 1.801 din 2 octombrie 1995 - NOMENCLATORUL formularelor tipizate pentru stabilirea, evidența, urmărirea, încasarea și raportarea impozitelor, taxelor și altor obligații, precum și al celor care privesc activitățile de trezorerie, bugetare, de control și sancționare a contravențiilor la normele legale privind disciplina financiară](https://legislatie.just.ro/Public/DetaliiDocument/7627); 
-[Aviz de Insotire/Expeditie a Marfii - Tipizat-Nomenclator 14-3-6a ](https://lege5.ro/App/Document/geytknrv/aviz-de-insotire-a-marfii-cod-14-3-6a-nomenclator); 
+[L5Aviz de Insotire/Expeditie a Marfii - Tipizat(cod - Nomenclator: 14-3-6a) ](https://lege5.ro/App/Document/geytknrv/aviz-de-insotire-a-marfii-cod-14-3-6a-nomenclator); 
 [Tipizate si Formulare Planul Strategic(PS)-2027](https://www.afir.ro/instrumente/instrumente-de-lucru/tipizate-si-formulare-ps-2027/); 
 [Formulare-Tipizate](https://zetelaka.ro/formulare-tipizate); 
-[Acte Necesare si Tipizate ITL](https://tirgumures.ro/index.php?option=com_content&view=article&id=7168%3Aacte-necesare-i-formulare-tipizate-pentru-serviciul-public-administraia-domeniului-public&catid=78%3Aformulare-tipizate&Itemid=291);
+[Acte Necesare si Tipizate ITL Tg.Mures](https://tirgumures.ro/index.php?option=com_content&view=article&id=7168%3Aacte-necesare-i-formulare-tipizate-pentru-serviciul-public-administraia-domeniului-public&catid=78%3Aformulare-tipizate&Itemid=291);
 [NORME SPECIFICE DE UTILIZARE A DOCUMENTELOR FINANCIAR-CONTABILE(FC): NOMENCLATORUL documentelor financiar-contabile(FC) -  Anexa 2 din O2634/2015](https://mfinante.gov.ro/documents/35673/219198/anexe2_3ordin2634_2015.pdf); 
 [Folder	Nomenclator si ierarhia functiilor](https://www.comunaivanesti.ro/index.php/nomenclator-si-ierarhia-functiilor); 
 [Acte necesare pt Servicii Electronice](https://www.primarie3.ro/index.php/informatii_publice/acte_necesare);
@@ -167,7 +167,7 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 [Nomenclatorul formularelor-tipizate(FT) cu regim-special(RS) va fi actualizat](https://contabilsef.md/nomenclatorul-formularelor-tipizate-cu-regim-special-va-fi-actualizat)
 [Nomenclator/Opis Arhivistic](https://www.upet.ro/documente/2018/Nomenclator%20arhivistic%20UP.pdf); 
 [Ocazii.ro: Nomenclatorul Formularelor Tipizate](https://www.okazii.ro/nomenclatorul-produselor-tipizate-vol-3-ministerul-industriei-de-masini-unelte-electrotehnica-si-electr-a233593077); 
-
+[L6: Factura-Fiscala(cod-14-4-10-a) si Factura(cod-14-4-10-aa) - coduri de tipizate din nomenclator](https://lege6.ro/app/document/geytknrv/factura-fiscala-cod-14-4-10-a-si-factura-cod-14-4-10-aa-nomenclator?dp=geydamrvgy4tg); 
 [Vama/Autoritatea Vamală Română - Incadrare - Tarifara: OMENCLATURĂ SISTEM ARMONIZAT, NOMENCLATURA COMBINATA/NC, NOMENCLATURĂ TARIC, CLASIFICARE MĂRFURI ACCIZABILE; DECIZII REFERITOARE LA INFORMAȚII TARIFARE OBLIGATORII(ITO), E-LEARNING](https://www.customs.ro/agenti-economici/incadrare-tarifara); 
 
 [Nomenclator Stradal](https://comunaholboca.ro/nomenclator-stradal/);
