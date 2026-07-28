@@ -150,6 +150,8 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 
 [HG Nomenclator programe de studii](https://www.aracis.ro/hg-nomenclator-programe-de-studii/); 
 
+[Documente elaborate de către Serviciul Cadastru- DPSC Directie a PMBuc.](https://www2.pmb.ro/institutii/primaria/directii/directia_patrimoniu/directia_patrimoniu_serv_cadastru.php)
+
 
 
 
