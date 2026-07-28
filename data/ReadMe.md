@@ -10,7 +10,8 @@ Aici sunt date si cateva exemple de [seturi de date/DS](https://lege5.ro/Legisla
 [DataGOV - Data-Group: Nomenclatoare](https://data.gov.ro/en/group/nomenclatoare); 
 [DataGOV-RO DS via MFP: nomenclatoare geografice](https://data.gov.ro/dataset/nomenclatoaregeografice)
 
-[Nomenclatorul FJ-Formelor Juridice](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/Nomenclator_forme_juridice.htm); 
+[Nomenclatorul Formelor Juridice(FJ) si Nomenclatorul Formelor de Proprietate(FP)](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/Nomenclator_forme_juridice.htm); 
+
 [MFP - Informatii tehnice eFactura](https://mfinante.gov.ro/web/efactura/informatii-tehnice); 
 [MFP - PJ=Persoane Juridice - cautare online](https://mfinante.gov.ro/ro/web/site); 
 [MFP - nomenclatoare geografice](https://mfinante.gov.ro/nomenclatoare-geografice-mfp); 
