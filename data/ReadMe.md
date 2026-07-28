@@ -1,4 +1,5 @@
-[DEX: Standard(presupune Norme de incadrare in standard)](https://dexonline.ro/definitie/standard);
+[DEX: Standard(presupune Norme de incadrare in standard)](https://dexonline.ro/definitie/standard) - 1. Normă sau ansamblu de norme care reglementează calitatea, caracteristicile, forma etc. unui produs; document în care sunt consemnate aceste norme. DEX '09 DEX '98 DLRLC DN
+;
 
 [DEX: Nomenclator](https://dexonline.ro/definitie/%20nomenclator) - NOMENCLATOR, nomenclatoare, s. n. Listă, broșură, carte care cuprinde nomenclatura (1) dintr-un anumit domeniu al științei, al tehnicii etc. sau enumerarea sortimentelor produselor ori a grupurilor de produse, clasificate după un anumit criteriu. – Din fr. nomenclateur, lat. nomenclator.;<br/>
 [Nomenclatorul](https://www.scribd.com/document/371729355/Nomenclatorul) ex.: [Nomenclatorul Documentelor/Arhivistic](https://www.archive.ro/wp-content/uploads/2022/10/Model-Nomenclator.pdf);<br/>
