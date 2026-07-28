@@ -254,7 +254,7 @@ sub formă binară.;
 
 [MFP - Info PJ](https://mfinante.gov.ro/info-pj-selectie-nume-si-judet);
 
-[MFP-Registrul ONG](https://www.just.ro/registrul-national-ong/);
+[MFP-Registrul National ONG](https://www.just.ro/registrul-national-ong/);
 
 [Registru ANAF](https://www.google.com/search?sca_esv=5e6c1f1176e333b8&sxsrf=APpeQnu20gE73B6FDTxs94aiyQGRcI4q2Q:1785253117771&q=Registru+anaf&sa=X&ved=2ahUKEwi7vqyP2vWVAxWvcfEDHcJKAmIQ1QJ6BAg0EAE); 
 [Registru-TVA Verificare](https://www.google.com/search?sca_esv=5e6c1f1176e333b8&sxsrf=APpeQnu20gE73B6FDTxs94aiyQGRcI4q2Q:1785253117771&q=Verificare+registru+tva&sa=X&ved=2ahUKEwi7vqyP2vWVAxWvcfEDHcJKAmIQ1QJ6BAguEAE); [Registrul TVA De Incasare](https://www.google.com/search?sca_esv=5e6c1f1176e333b8&sxsrf=APpeQnu20gE73B6FDTxs94aiyQGRcI4q2Q:1785253117771&q=Registru+tva+la+incasare&sa=X&ved=2ahUKEwi7vqyP2vWVAxWvcfEDHcJKAmIQ1QJ6BAhBEAE);
