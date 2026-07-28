@@ -97,7 +97,7 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 [DSP-DJ: Nomenclatorul investigatiilor de laborator](http://www.dspdolj.ro/investigatii_lab_2006.pdf)
 
 [Nomenclator arhivistic](https://www.archivit.ro/nomenclator-arhivistic);
-[Nomenclator Arhivistic - Model](https://www.scribd.com/document/983584910/Model-Nomenclator); 
+[Arhiva-Nationala -Serviciul MB: Nomenclator Arhivistic - Model](https://www.scribd.com/document/983584910/Model-Nomenclator); 
 
 
 
