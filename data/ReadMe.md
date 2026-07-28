@@ -6,7 +6,7 @@
 [Registrul](https://dexonline.ro/definitie/registru) ex.: [ANAF Registrul-TVA](https://www.anaf.ro/RegistruTVA/); <br/>
 [DEX: REGISTRU(de/in care se tine o evidenta)](https://m.dex.ro/registru)- REGÍSTRU, registre, s. n. 1. Condică, caiet, sistem de fișe etc. în care se înregistrează diferite date și acte cu caracter administrativ, comercial etc. <br/>
 
-[DEX: Formular(organizator/sablon/template/form de date)](https://dexonline.ro/definitie/formular);<br/>
+[DEX: Formular(organizator/sablon/template/form de date)](https://dexonline.ro/definitie/formular) - FORMULAR, formulare, s. n. 1. Imprimat cu mai multe spații albe, care se completează în vederea întocmirii unui act, a unui tabel etc. 2. Broșură sau volum care cuprinde formulele uzuale dintr-o ramură a unei științe; culegere de formule. – Din fr. formulaire.;<br/>
 
 [DEX: Tipizat/Imprimat/Tip(ic) in sens standardizat sau nestandardizat](https://dexonline.ro/definitie/tipizat);<br/>
 
