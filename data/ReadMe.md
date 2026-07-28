@@ -293,8 +293,7 @@ sub formă binară.;
 [Registrul de publicitate a vânzării de bunuri supuse executării silite](https://www.unejr.ro/);
 
 [Registru Verificare Certificate si Marci Temporale -Verificare inregistrare](https://digisign.ro/utile/registru/) ;
-
-[OSIM](https://www.osim.ro/); 
+[Registrul de Marci si Inventii](https://api.osim.ro:8443/tm-registry/search.htm); [OSIM](https://www.osim.ro/); 
 
 [UE - Registru/REG de Transparenta - Lista tuturor lobbyiștilor; Lista acreditărilor](https://transparency-register.europa.eu/search-register-or-update/search-register_ro);
 
