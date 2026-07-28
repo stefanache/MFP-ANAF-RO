@@ -92,7 +92,7 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 
 [ONPCSB/Oficiul Național de Prevenire și Combatere a Spălării Banilor - FIU RO - Nomenclatoare 2023](https://onpcsb.ro/ro/a/190/nomenclatoare-cf.-ordinului-191-/-28.06.2023)
 
-[SMPS/Inspectia-Muncii  SGG-GOV-RO: Monitorizarea si Evaluarea Integrata a Performantei Serviciilor Publice](https://smps.gov.ro/) - [Nomenclatoare](https://reges.inspectiamuncii.ro/ajutor/ghid-utilizare-aplicatie-angajator/setari-nomenclatoare/)
+[SMPS/Inspectia-Muncii  SGG-GOV-RO: Monitorizarea si Evaluarea Integrata a Performantei Serviciilor Publice](https://smps.gov.ro/) - [Nomenclatoare](https://reges.inspectiamuncii.ro/ajutor/ghid-utilizare-aplicatie-angajator/setari-nomenclatoare/); [REGES](https://sso.inspectiamuncii.ro/realms/REGES/protocol/openid-connect/auth?response_type=code&scope=openid+profile+email&client_id=webapp&redirect_uri=https%3A%2F%2Freges.inspectiamuncii.ro%2Fapp%2Fv101341%2Findex.html&state=k9RFUMkMVicd0ojfhGzC);
 
 [ONRC- CAEN Rev.3, Rev.2](https://www.onrc.ro/index.php/ro/caen); [Conversie CAN Rev.2 la/in CAEN Rev.3](https://www.onrc.ro/index.php/ro/conversie-caen-rev-2-caen-rev-3)
 
@@ -329,6 +329,9 @@ sub formă binară.;
 
 [REGES- Registrul Salariatilor](https://www.bucurestifm.ro/2025/12/30/noul-registru-digital-al-salariatilor-reges-online-devine-obligatoriu-de-la-1-ianuarie/);
 
+[Inspectia-Muncii - REGES](https://www.universuljuridic.ro/inspectia-muncii-noul-registru-de-evidenta-a-salariatilor-reges-online-a-fost-finalizat/);
+
+
 [SIUI- Verificare Calitate Asigurat](https://cnas.ro/verificare-asigurati/);
 
 [Registru de Supravegere(verificare in scopul monitorizarii) ISCIR](https://registredesupraveghere.ro/?product=registru-de-supraveghere-ir-iscir-masini-si-echipamente-de-ridicat-copiaza);
@@ -346,3 +349,5 @@ sub formă binară.;
 [Ordinul Asistenţilor Medicali Generalişti,Moaşelor şi Asistenţilor Medicali din România](https://www.oamr.ro/);
 
 [Registrul pt consemnarea si analiza propunerilor](https://hd.prefectura.mai.gov.ro/registru-pentru-consemnarea-si-analiza-propunerilor/);
+
+[Registrul Reselleri](https://digisign.ro/);
