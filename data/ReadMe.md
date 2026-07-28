@@ -24,7 +24,7 @@ c) [**Registrul**](https://dexonline.ro/definitie/registru) ex.: [ANAF Registrul
 
 <hr/>
 
-***Formular tipizat***
+***Formular - Tipizat***
 
 d1) [DEX: Formular(document gol avand rol de organizator/sablon/template/form de date)](https://dexonline.ro/definitie/formular) - FORMULAR, formulare, s. n. <br/>
 1. Imprimat cu mai multe spații albe, care se completează în vederea întocmirii unui Act, a unui tabel etc. <br/>
