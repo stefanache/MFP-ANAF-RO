@@ -252,11 +252,11 @@ sub formă binară.; [Registru de Deplasare](https://www.optimusdigital.ro/ro/co
 
 [ANAF: Registrul RO eFactura](https://www.anaf.ro/anaf/internet/ANAF/servicii_online/registre/registrul_eFactura/!ut/p/a1/hc49D4IwEAbg38LAyh2SAnHDGCnEQRwUuhgwtWCAklLh7ws6afy47b08b-6AQQqszYdK5LqSbV7PmbknalOXLvxFjI7vYeId1uEmIjaiO4FsAvhlAvzXPwJ7IzRBTMgq2pNwhzN5gh8nYmCilsXj3SxoC8cXwBS_cMWVdVPTutS665cmmjiOoyWkFDW3zrIx8VOllL2G9FVC16R4JfWwDQzjDvsTcbw!/dl5/d5/L2dBISEvZ0FBIS9nQSEh/);
 
-[Ghid de utilizare a codurilor dedicate tipurilor de facturi, a diverselor categorii de TVA, precum și a altor reguli, în sistemul național privind factura electronică RO e-Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi_final%20v2.9.pdf);
+[Ghid de utilizare a codurilor dedicate tipurilor de facturi, a diverselor categorii de TVA, precum și a altor reguli, în sistemul național privind factura electronică RO e-Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi_final%20v2.9.pdf); 
+[Prezentare e-Factura](/https://mfinante.gov.ro/static/10/eFactura/PrezentareE-factura.pdf); 
+[Prezentare eFactura Sector 3 exemplu 2024](https://www.ditl3.ro/assets/clients/public/file/2024/contracte-facturi/Factura%20BT%2003.1.2024.pdf); 
+[Campuri Obligatorii Ro e-Factura](https://blog.factureaza.ro/campurile-obligatorii-e-factura/); 
 
-[Prezentare e-Factura](/https://mfinante.gov.ro/static/10/eFactura/PrezentareE-factura.pdf);
-
-[Prezentare eFactura Sector 3 exemplu 2024](https://www.ditl3.ro/assets/clients/public/file/2024/contracte-facturi/Factura%20BT%2003.1.2024.pdf);
 
 
 [ANAF: SAF-T](https://www.anaf.ro/anaf/internet/ANAF/despre_anaf/strategii_anaf/proiecte_digitalizare/saf_t/!ut/p/a1/pZLLroIwEIafxQVLmQGP2LjjGI94S0RDxG5OqimFBCgpVRKfXnClRtHE2c3k--fyZ4BCCDRnp0QwncicpU1OnX_P8hzPJvaM_Pkj9NfWYuzOEZE4NbC7BdDzEf3-73Tdn6wQLfxO_2N9p0fnMz2-CPft_rNWYDJoBthqOVoKoAXTcTfJIwkhNyN20EfFYAv0XYsH4InHrUBjYivQuHQFWmyo7xSp3F9fYufm-x6pD1I84oor86jqcqx1UQ4NNLCqKlNIKVJuHmRm4DNJLEsN4T0JRRYEQXheRJtpssq2pHQ7nQvCFlU9/dl5/d5/L2dBISEvZ0FBIS9nQSEh/);
