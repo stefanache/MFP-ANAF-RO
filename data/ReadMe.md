@@ -49,7 +49,7 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 
 [INSSE Nomenclatoare statistice](https://bucuresti.insse.ro/produse-si-servicii/nomenclatoare-statistice/); [INRO-Senin-Nomenclatoare statistice](https://bucuresti.insse.ro/produse-si-servicii/nomenclatoare-statistice/); [INSSE-BC Nomenclatoare-statistice](https://bacau.insse.ro/produse-si-servicii/nomenclatoare-statistice/); 
 [INSSE IF - Direcţia Judeţeană de Statistică ILFOV - SITE ÎN CURS DE ACTUALIZARE](https://ilfov.insse.ro/produse-si-servicii/nomenclatoare-statistice/); 
-[INSSE HD: Nomenclatoare StatisticeCAEN, CPSA, Siruta; COR-=ISCO-08; INS/Prodrom; SIRUTA 2011](https://hunedoara.insse.ro/produse-si-servicii/nomenclatoare-statistice/); 
+[INSSE HD: Nomenclatoare Statistice CAEN, CPSA, Siruta; COR-=ISCO-08; INS/Prodrom; SIRUTA 2011](https://hunedoara.insse.ro/produse-si-servicii/nomenclatoare-statistice/); 
 [INSSE IS: Nomenclatoare statistice](https://iasi.insse.ro/produse-si-servicii/nomenclatoare-statistice/)
 
 [ANCPI](https://geoportal.ancpi.ro/portal/home/) - [RENNS=Registrul Electronic Național al Nomenclaturii Stradale](https://renns.ancpi.ro/); 
@@ -66,7 +66,8 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 [SCNPC - Lista cooduri boala 999](https://scnpc.ro/files/CODURI%20boala_%20lista%20999.pdf); 
 [NOMENCLATOR de specialităţi medicale, medico dentare şi farmaceutice pentru reţeaua de asistenţă medicală | Ordin 1509/2008](https://lege5.ro/Gratuit/geytsmbsgu/nomenclator-de-specialitati-medicale-medico-dentare-si-farmaceutice-pentru-reteaua-de-asistenta-medicala-ordin-1509-2008?dp=gm4danjvgm3tq); 
 [Nomenclator Medicamente HomeoPatice](https://homeopatie.ro/nomenclator-medicamente-homeopatice/);
-[ICBMV - Nomenclator Produse de uz veterinar](http://www.icbmv.ro/ro/nomenclator-produse)
+[ICBMV - Nomenclator Produse de uz veterinar](http://www.icbmv.ro/ro/nomenclator-produse); 
+[ANMDMR - Nomenclatorul/Lista medicamentelor pentru uz uman](https://www.anm.ro/medicamente-de-uz-uman/nomenclatorul-medicamentelor-de-uz-uman/); 
 
 [MM FT&SS](https://mmuncii.gov.ro/) - [COR - codificare ocupatiilor din RO](https://cor.mmuncii.ro/public-nom); 
 [ANC - Autoritatea Nationala pt Calificari](https://www.anc.edu.ro/); 
