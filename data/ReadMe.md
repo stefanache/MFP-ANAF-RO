@@ -118,5 +118,4 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 
 [Regimul de Amortizare MF - Cod Fiscal](https://www.portalcodulfiscal.ro/regimul-de-amortizare-pentru-un-mijloc-fix-amortizabil-61192.htm)
 
-
-  
+[Clasificarea si duratele-normale de functionare a mijloacelor fixe(MF)](https://decontabil.ro/utile/clasificari/clasificarea-si-duratele-normale-de-functionare-a-mijloacelor-fixe/)
