@@ -306,6 +306,9 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 
 [ONJN: Registrul Mijloacelor de Joc](https://registru.onjn.gov.ro/);
 
+[Registrul Auto Roman(RAR)](https://www.rarom.ro/);
+
+
 
 
 
