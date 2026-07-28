@@ -385,3 +385,4 @@ sub formă binară.; [Registru de Deplasare](https://www.optimusdigital.ro/ro/co
 
 [Declaratia INTRASTAT](http://www.intrastat.ro/doc/Manual_pentru_furnizorii_de_informatii_statistice_partea_I_2025.pdf);
 
+[Expert-Contabil](https://info-expert.ro/frontpage?page=2);
