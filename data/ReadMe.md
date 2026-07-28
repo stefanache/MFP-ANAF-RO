@@ -295,7 +295,7 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 
 [Registru pentru evidenta microciparilor Animalelor(carte tiparita / formular)](https://www.daisy-medical.ro/printuri-tipizate-personalizate/registru-pentru-evidenta-microciparilor.html);
 
-
+[Registrul Artelor Spectacolului](Registrul Artelor Spectacolului); [wiki: Registru-Muzical](https://ro.wikipedia.org/wiki/Registru_(muzic%C4%83));
 
 
 
