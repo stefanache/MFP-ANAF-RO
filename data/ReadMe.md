@@ -5,7 +5,8 @@
           caracteristicile, <br/>
           forma etc. <br/>
    unui
-  - produs; <br/>
+  - produs; <br/><br/>
+  
 Standardul este un document în care sunt consemnate aceste norme. <br/>
  DEX '09 DEX '98 DLRLC DN;<br/>
 
