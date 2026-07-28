@@ -1,5 +1,6 @@
 [Nomenclatorul](https://www.scribd.com/document/371729355/Nomenclatorul); <BR/>
-[Registrul](https://dexonline.ro/definitie/registru);
+[Registrul](https://dexonline.ro/definitie/registru) ex.: [ANAF Registrul-TVA](https://www.anaf.ro/RegistruTVA/); <br/>
+
 <HR/>
 
 
