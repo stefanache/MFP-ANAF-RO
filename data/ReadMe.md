@@ -276,6 +276,16 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 
 [Registru A4 coperti cartonate color, 200 file - matematica EVOffice (carte-forma tiparita)](https://www.evidentgroup.ro/registre-si-repertoare/registru-a4-coperti-cartonate-color-200-file-matematica-evoffice-ev6a02m.html);
 
+[MAI: REGISTRUL NAȚIONAL AL PERSOANELOR CARE AU COMIS INFRACȚIUNI SEXUALE – INSTRUMENT DE PREVENIRE ȘI COMBATERE A ACESTUI TIP DE FAPTE](https://politiaromana.ro/ro/comunicate/registrul-national-al-persoanelor-care-au-comis-infractiuni-sexuale-instrument-de-prevenire-si-combatere-a-acestui-tip-de-fapte1625141627); 
+
+[Registrul de publicitate a vânzării de bunuri supuse executării silite](https://www.unejr.ro/);
+
+[Registru Verificare Certificate si Marci Temporale -Verificare inregistrare](https://digisign.ro/utile/registru/) ;
+
+[OSIM](https://www.osim.ro/);
+
+[UE - Registru/REG de Transparenta - Lista tuturor lobbyiștilor; Lista acreditărilor](https://transparency-register.europa.eu/search-register-or-update/search-register_ro);
+
 
 
 
