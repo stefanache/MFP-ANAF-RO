@@ -345,3 +345,4 @@ sub formă binară.;
 
 [Ordinul Asistenţilor Medicali Generalişti,Moaşelor şi Asistenţilor Medicali din România](https://www.oamr.ro/);
 
+[Registrul pt consemnarea si analiza propunerilor](https://hd.prefectura.mai.gov.ro/registru-pentru-consemnarea-si-analiza-propunerilor/);
