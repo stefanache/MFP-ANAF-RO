@@ -108,6 +108,7 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 
 [CIM Oncologie](https://www.dspcovasna.ro/sites/default/files/download/onco/cimo.pdf); 
 
+[CATALOGUL PRIVIND CLASIFICAREA ŞI DURATELE NORMALE DE FUNCŢIONARE A MIJLOACELOR FIXE](https://lege5.ro/gratuit/gu3temjt/catalogul-privind-clasificarea-si-duratele-normale-de-functionare-a-mijloacelor-fixe-catalog?dp=geztkmztgm4di)
 
 
   
