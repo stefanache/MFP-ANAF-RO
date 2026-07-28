@@ -108,8 +108,11 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 
 [CIM Oncologie](https://www.dspcovasna.ro/sites/default/files/download/onco/cimo.pdf); 
 
-[CATALOGUL PRIVIND CLASIFICAREA ŞI DURATELE NORMALE DE FUNCŢIONARE A MIJLOACELOR FIXE](https://lege5.ro/gratuit/gu3temjt/catalogul-privind-clasificarea-si-duratele-normale-de-functionare-a-mijloacelor-fixe-catalog?dp=geztkmztgm4di)
+[CATALOGUL PRIVIND CLASIFICAREA ŞI DURATELE NORMALE DE FUNCŢIONARE A MIJLOACELOR FIXE(MF)](https://lege5.ro/gratuit/gu3temjt/catalogul-privind-clasificarea-si-duratele-normale-de-functionare-a-mijloacelor-fixe-catalog?dp=geztkmztgm4di)
+
 [MFP-Precizari contabile](www.mfinante.gov.ro/static/10/Mfp/legislatie/regl_contabile/precizari_trim04.pdf)
+
+[CATALOG-din-30-noiembrie-2004-privind-clasificarea-si-duratele-normale-de-funcţionare-a-mijloacelor-fixe(MF)](https://snppc.ro/uploads/fisiere/articole/CATALOG-din-30-noiembrie-2004-privind-clasificarea-si-duratele-normale-de-funcţionare-a-mijloacelor-fixe.pdf)
 
 
   
