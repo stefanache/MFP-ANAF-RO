@@ -149,6 +149,7 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 [Formulare-Tipizate](https://zetelaka.ro/formulare-tipizate); 
 [Acte Necesare si Tipizate ITL](https://tirgumures.ro/index.php?option=com_content&view=article&id=7168%3Aacte-necesare-i-formulare-tipizate-pentru-serviciul-public-administraia-domeniului-public&catid=78%3Aformulare-tipizate&Itemid=291);
 [NORME SPECIFICE DE UTILIZARE A DOCUMENTELOR FINANCIAR-CONTABILE(FC): NOMENCLATORUL documentelor financiar-contabile(FC) -  Anexa 2 din O2634/2015](https://mfinante.gov.ro/documents/35673/219198/anexe2_3ordin2634_2015.pdf); 
+[Folder	Nomenclator si ierarhia functiilor](https://www.comunaivanesti.ro/index.php/nomenclator-si-ierarhia-functiilor); 
 
 
 
