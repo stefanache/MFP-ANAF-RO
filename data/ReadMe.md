@@ -325,5 +325,5 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 
 [Registru de Supravegere(verificare in scopul monitorizarii) ISCIR](https://registredesupraveghere.ro/?product=registru-de-supraveghere-ir-iscir-masini-si-echipamente-de-ridicat-copiaza);
 
-
+[EDU.RO: Centrul National de recunoastere a Studiilor/CNR-ED](https://cnred.edu.ro/);
 
