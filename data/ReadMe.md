@@ -249,7 +249,7 @@ Factura](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi
 
 [MFP - Model(formular tipizat sau nu) registru pentru înregistrarea cererilor și răspunsurilor privind accesul la informațiile de interes public](https://mfinante.gov.ro/model-registru-pentru-inregistrarea-cererilor-si-raspunsurilor-privind-accesul-la-informatiile-de-interes-public);
 
-[ONRC - Registrul firmelor/companiilor](https://www.onrc.ro/index.php/ro/)
+[ONRC - Registrul PJ/firmelor/companiilor(ONRC utilizeaza CAEN- Standardul/Nomenclatorul Activitatilor PJ)](https://www.onrc.ro/index.php/ro/)
 
 
 
