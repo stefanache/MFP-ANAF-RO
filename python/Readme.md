@@ -152,4 +152,4 @@ Oricum [AI/ML/NLP-generative](https://www.koyeb.com/tutorials/using-langserve-to
 
 Daca doriti o scalare cu Ollama va recomand aceasta referinte: [Ollama-cloud](https://github.com/ollama-cloud/get-started) or [GCP-Gemma2(LLM) with Ollama](https://cloud.google.com/run/docs/tutorials/gpu-gemma2-with-ollama)
 
-[python-chilkat2 via SOAP/WSDL: eFactura ](https://example-code.com/chilkat2-python/soap_e-factura-sunat-gob-pe_getStatusCdr.asp)
+[python-chilkat2 via SOAP/WSDL: eFactura ](https://example-code.com/chilkat2-python/soap_e-factura-sunat-gob-pe_getStatusCdr.asp); [Ghid e-Factura](https://cursdeguvernare.ro/ghid-pentru-utilizarea-efactura-in-pasi-usor-de-urmat.html); 
