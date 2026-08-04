@@ -25,6 +25,8 @@ Versiunile originale ale acestor standarde pot fi procurate de la [***ASRO***](h
 
 **ASRO** are si o seama de [***Rapoarte***](https://www.asro.ro/wp-content/uploads/2026/06/Raport-2025-web.pdf) care sunt la fel de interesante pt domeniul STANDARDIZARII.
 
+Membrii **ASRO** fac parte din anumite [**Colegii-ASRO**](https://www.asro.ro/membri-asro/).
+
 <hr/>
 
 O listă completă text-cu-text care să conțină absolut toate cele peste 35.000 - 40.000 de standarde utilizate în România nu poate fi redată într-un singur răspuns, 
