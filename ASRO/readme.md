@@ -12,7 +12,9 @@ O listă completă text-cu-text care să conțină absolut toate cele peste 35.0
 deoarece baza de date este uriașă și se modifică zilnic (prin anulări, înlocuiri sau adoptări de noi standarde europene și internaționale).
 
 Baza de date completă, oficială și actualizată în timp real poate fi accesată exclusiv prin intermediul Magazinului Online ASRO (Asociația de Standardizare din România), 
-la adresa: magazin.asro.ro.
+la adresa: [magazin.asro.ro](https://magazin.asro.ro/).
+
+Unele stanadarde din acest magazin sunt chiar **gratuite* dar cand/dupa ce le comandati... puteti avea surpriza sa nu va parvina! :)
 
 Pentru o imagine de ansamblu, standardele din România sunt structurate pe domenii mari de activitate([comitete tehnice](https://www.asro.ro/comitete-tehnice/)/[CT](https://www.asro.ro/comitete-tehnice/)). 
 
