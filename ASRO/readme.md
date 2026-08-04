@@ -67,7 +67,7 @@ Dacă descarci *catalogul* **ASRO**, standardele sunt împărțite pe **ICS**(**
       --       SR EN ISO 45001 (sănătate și securitate în muncă),<br/>
       --       SR EN ISO 27001 (securitatea informației).<br/>
 
-   -Construcții și Eurocoduri:<br/>
+   - [Construcții](https://www.mdlpa.ro/uploads/articole/attachments/62d4fcadd4e20617869000.pdf) și Eurocoduri:<br/>
      -- Seria de standarde SR EN 1990 - SR EN 1999 (Eurocoduri pentru calculul structurilor),<br/>
         Standarde pentru <br/>
           -- ciment,<br/>
