@@ -25,7 +25,12 @@ Versiunile originale ale acestor standarde pot fi procurate de la [***ASRO***](h
 
 **ASRO** are si o seama de [***Rapoarte***](https://www.asro.ro/wp-content/uploads/2026/06/Raport-2025-web.pdf) care sunt la fel de interesante pt domeniul STANDARDIZARII.
 
-Membrii **ASRO** fac parte din anumite [**Colegii-ASRO**](https://www.asro.ro/membri-asro/).
+Membrii **ASRO** fac parte din anumite [**Colegii-ASRO**](https://www.asro.ro/membri-asro/):
+<br/>**A** ***Colegiul organismelor de certificare***: *Organisme de acreditare și de certificare a conformității*(cu putini membri:5).
+<br/>**B** ***Colegiul beneficiarilor***: *Companii și asociații profesionale care aplică standardele*(cu cei mai multi membri:83).
+<br/>**C** ***Colegiul consumatorilor***: *Organizații care reprezintă interesele consumatorilor*(cu cei mai putini membri:2).
+<br/>**D** ***Colegiul cercetării-dezvoltării și inovării***: *Universități, institute și centre de cercetare-dezvoltare*(cu un nnumar mediu de membri:29).
+<br/>**E** ***Colegiul autorităților***:*Ministere, agenții și autorități publice*(in jur de 12 membri:ANC,ANCOM,ANMDMR,ANPC,DNSC,ISCIR,MAI,MAN,MDRAP,MEDAT,STS,UM0276).
 
 <hr/>
 
