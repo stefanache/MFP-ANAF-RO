@@ -79,3 +79,12 @@ ASRO oferă instrumente de filtrare gratuite:<br/>
 5. Interesante sunt si colecttile de produse(grupari de standarde): ex pt eFactura:
 
 [eFactura-colectie de standarde - 819](https://magazin.asro.ro/ro/colectie-standarde/819)
+
+***Nota***: daca de pe site nu gasiti ceva folositi si motorul de cautare **Google** :
+
+Ex. -  daca vreti Lista de Standarde care este in coordonarea unui CT(ex [335](https://www.asro.ro/asro-ct-335-bim-si-sustenabilitatea-mediului-construit/)) puteti folosi ceva de genul:<br/>
+
+[ASRO CT 335 Lista Standarde](https://www.google.com/search?q=ASRO+CT+335+lista+stANDARDE&oq=ASRO+CT+335+lista+stANDARDE&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRifBdIBCjE0NzU3ajBqMTWoAgiwAgHxBRCgPdoon7Zj&sourceid=chrome&source=chrome.rb&ie=UTF-8)
+
+
+
