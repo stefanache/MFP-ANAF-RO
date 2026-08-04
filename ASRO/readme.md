@@ -4,9 +4,9 @@ Despre aceste standarde ASRO puteti gasi multe evenimente legate de procesul de 
 
 [Buletinul standardizării](https://www.asro.ro/buletinul-standardizarii/) este o publicaţie lunară care cuprinde informaţii privind standardizarea naţională, europeană şi internaţională, prin publicarea listelor cu standardele române, europene şi internaţionale care au fost aprobate în luna anterioară, listelor cu proiectele de standarde române, europene şi internaţionale intrate în anchetă publică şi a listelor cu standardele române anulate.
 
-Studiind pBuletinul standardizării](https://www.asro.ro/buletinul-standardizarii/) sunteţi la curent cu evoluţia activităţii de standardizare naţională (ASRO), internaţională (ISO, IEC) şi europeană a standardelor (CEN, CENELEC, ETSI).
+Studiind Buletinul standardizării](https://www.asro.ro/buletinul-standardizarii/) sunteţi la curent cu evoluţia activităţii de standardizare naţională (ASRO), internaţională (ISO, IEC) şi europeană a standardelor (CEN, CENELEC, ETSI).
 
-Aceste buletine informative lunare pot fi descarcate de pe site in format PDF.
+Aceste buletine informative lunare curente dar si cele din arhiva(istoric), pot fi descarcate de pe site in format PDF.
 
 O listă completă text-cu-text care să conțină absolut toate cele peste 35.000 - 40.000 de standarde utilizate în România nu poate fi redată într-un singur răspuns, 
 deoarece baza de date este uriașă și se modifică zilnic (prin anulări, înlocuiri sau adoptări de noi standarde europene și internaționale).
