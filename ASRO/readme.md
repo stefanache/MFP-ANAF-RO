@@ -82,7 +82,7 @@ Dacă descarci *catalogul* **ASRO**, standardele sunt împărțite pe **ICS**(**
 
    - **Industria Alimentară**: <br/>
       - Standarde <br/>
-           - de siguranță alimentară (seria SR EN ISO 22000),<br/>
+           - de siguranță alimentară (seria **SR EN ISO 22000**),<br/>
            - metode de analiză și încercări pentru <br/>
                             - produse agricole și <br/>
                             - alimentare.<br/>
@@ -90,7 +90,7 @@ Dacă descarci *catalogul* **ASRO**, standardele sunt împărțite pe **ICS**(**
    - **Sănătate** și **Securitate**: <br/>
       - Standarde pentru <br/>
            - echipamente medicale,<br/>
-           - echipamente de protecție individuală(EPI).
+           - echipamente de protecție individuală(**EPI**).
 
 **3.** Cum poți obține lista completă pentru un anumit ***domeniu***<br/>
 
