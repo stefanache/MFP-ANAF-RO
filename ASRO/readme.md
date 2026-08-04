@@ -76,6 +76,6 @@ ASRO oferă instrumente de filtrare gratuite:<br/>
 
    d)Poți bifa opțiunea "Doar standarde în vigoare" pentru a elimina standardele anulate.
 
-5. Interesante sunt si colecttile de produse(standarde): ex pt eFactura:
+5. Interesante sunt si colecttile de produse(grupari de standarde): ex pt eFactura:
 
 [eFactura-colectie de standarde - 819](https://magazin.asro.ro/ro/colectie-standarde/819)
