@@ -15,7 +15,7 @@ De ex in ***Buletinul ASRO din luna Mai-2026** aflam ca ...
 Standardele române originale(**RO**) sunt notate cu (**E**).<br/> 
 Standardele europene şi internaţionale sunt adoptate ca standarde române prin metoda versiunii române(**T**),<br/> 
 metoda filei de confirmare(**FC**) sau metoda notei de confirmare(**A**). <br/>
-Sub **indicativul standardului(*SR-EN*,*SR-ISO*/*SR-IEC*,*SR*)** este indicat numărul comitetului tehnic([**CT**](https://www.asro.ro/deveniti-membru-ct/)) responsabil.<br/> 
+Sub **indicativul standardului(*SR-EN*,*SR-ISO*/*SR-IEC*,*SR*)** este indicat **numărul** **C**omitetului-**T**ehnic([**CT**](https://www.asro.ro/deveniti-membru-ct/)) **responsabil**.<br/> 
 Pentru standardele adoptate prin metoda filei de confirmare(**FC**) sau metoda notei de confirmare(**A**), **textul standardului** NU este publicat în versiune română(***RO***).<br/>
 Versiunile originale ale acestor standarde pot fi procurate de la ***ASRO***(*Asociaţia de Standardizare din România*).<br/>
 ...
