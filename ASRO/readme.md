@@ -30,7 +30,7 @@ Membrii **ASRO** fac parte din anumite [**Colegii-ASRO**](https://www.asro.ro/me
 <br/>**B** ***Colegiul beneficiarilor***: *Companii și [asociații profesionale](https://www.oar-bucuresti.ro/glosar/termen/model-de-informatii) care aplică standardele*(cu cei mai multi membri:83).
 <br/>**C** ***Colegiul consumatorilor***: *Organizații care reprezintă interesele consumatorilor*(cu cei mai putini membri:2).
 <br/>**D** ***Colegiul cercetării-dezvoltării și inovării***: *Universități, institute și centre de cercetare-dezvoltare*(cu un nnumar mediu de membri:29).
-<br/>**E** ***Colegiul autorităților***:*Ministere, agenții și autorități publice*(12 membri: ANC, ANCOM, ANMDMR, ANPC, DNSC, ISCIR, MAI, MAN, MDRAP, MEDAT, STS, UM0276).
+<br/>**E** ***Colegiul autorităților***:*Ministere, agenții și autorități publice*(12 membri: ***ANC, ANCOM, ANMDMR, ANPC, DNSC, ISCIR, MAI, MAN, MDRAP, MEDAT, STS, UM0276***).
 
 <hr/>
 
@@ -51,7 +51,7 @@ Iată principalele **categorii de standarde** utilizate, codurile lor și unde l
 **1.** Tipuri de standarde după ***prefix***
    <br/>Toate standardele valabile în România poartă indicativul **SR**(***Standard Român***),   urmat de originea lor:
 
-   - **SR EN**: Standarde europene adoptate obligatoriu și în România (ex: SR EN ISO 9001).
+   - **SR EN**: Standarde europene adoptate obligatoriu și în România (ex: **SR EN ISO 9001**).
 
    - [**SR ISO**](https://isopedia.ro/iso-9001/) / SR IEC: Standarde internaționale preluate ca standarde române.
  
