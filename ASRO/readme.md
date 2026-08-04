@@ -80,6 +80,8 @@ ASRO oferă instrumente de filtrare gratuite:<br/>
 
 [eFactura-colectie de standarde - 819](https://magazin.asro.ro/ro/colectie-standarde/819)
 
+<hr/>
+
 ***Nota***: daca de pe site nu gasiti ceva folositi si motorul de cautare **Google** :
 
 Ex. -  daca vreti Lista de Standarde care este in coordonarea unui CT(ex [335](https://www.asro.ro/asro-ct-335-bim-si-sustenabilitatea-mediului-construit/)) puteti folosi ceva de genul:<br/>
