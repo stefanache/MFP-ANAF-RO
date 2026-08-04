@@ -54,10 +54,10 @@ Iată principalele categorii de standarde utilizate, codurile lor și unde le po
     Dacă descarci catalogul ASRO, standardele sunt împărțite pe **ICS**(**Clasificarea Internațională pentru Standarde**):
 
    -Management și Calitate:<br/>
-     -- Seria SR EN ISO 9001 (managementul calității),<br/>
-     --       SR EN ISO 14001 (mediu),<br/>
-     --       SR EN ISO 45001 (sănătate și securitate în muncă),<br/>
-     --       SR EN ISO 27001 (securitatea informației).<br/>
+    -- Seria SR EN ISO 9001 (managementul calității),<br/>
+      --       SR EN ISO 14001 (mediu),<br/>
+      --       SR EN ISO 45001 (sănătate și securitate în muncă),<br/>
+      --       SR EN ISO 27001 (securitatea informației).<br/>
 
    -Construcții și Eurocoduri:<br/>
      -- Seria de standarde SR EN 1990 - SR EN 1999 (Eurocoduri pentru calculul structurilor),<br/>
