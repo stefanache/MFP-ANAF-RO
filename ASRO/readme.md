@@ -139,7 +139,7 @@ Puteti reduce la fel [aria de cautare](https://www.google.com/search?q=cuvinte+r
     pentru a genera o listă completă doar pe nișa care te interesează.
 
 
- - **3.d)** Poți bifa opțiunea "*Doar standarde în vigoare*" pentru a elimina standardele *anulate*.
+ - **3.d)** Poți bifa opțiunea "*Doar standarde **în vigoare***" pentru a elimina standardele *anulate*.
 
 
 <br/>Interesante sunt si ***colectiile*** de produse(grupari de standarde): ex pt eFactura:
