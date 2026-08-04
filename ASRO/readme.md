@@ -87,7 +87,7 @@ Dacă descarci *catalogul* **ASRO**, standardele sunt împărțite pe **ICS**(**
                             - produse agricole și <br/>
                             - alimentare.<br/>
 
-   - Sănătate și Securitate: <br/>
+   - **Sănătate** și **Securitate**: <br/>
       - Standarde pentru <br/>
            - echipamente medicale,<br/>
            - echipamente de protecție individuală(EPI).
