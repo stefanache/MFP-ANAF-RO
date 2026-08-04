@@ -52,11 +52,11 @@ Iată principalele **categorii de standarde** utilizate, codurile lor și unde l
    <br/>Toate standardele valabile în România poartă indicativul
    SR (Standard Român),   urmat de originea lor:
 
-   -**SR EN**: Standarde europene adoptate obligatoriu și în România (ex: SR EN ISO 9001).
+   - **SR EN**: Standarde europene adoptate obligatoriu și în România (ex: SR EN ISO 9001).
 
-   -[**SR ISO**](https://isopedia.ro/iso-9001/) / SR IEC: Standarde internaționale preluate ca standarde române.
+   - [**SR ISO**](https://isopedia.ro/iso-9001/) / SR IEC: Standarde internaționale preluate ca standarde române.
  
-   -**SR**(pure): Standarde dezvoltate exclusiv la nivel național (în scădere, multe fiind înlocuite de cele europene).
+   - **SR**(pure): Standarde dezvoltate exclusiv la nivel național (în scădere, multe fiind înlocuite de cele europene).
 
 **2.** Marile domenii și categorii de standarde
 
