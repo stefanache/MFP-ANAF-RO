@@ -136,7 +136,7 @@ Puteti reduce la fel [aria de cautare](https://www.google.com/search?q=cuvinte+r
     -după [Comitetul Tehnic](https://www.asro.ro/comitete-tehnice/)([CT](https://www.asro.ro/comitete-tehnice/)) (de exemplu,<br/>
       -- [**CT**](https://standard.md/?page_id=3241) [**321**](https://www.asro.ro/comitete-tehnice/#accordion-item-ct-321---beton-%C5%9Fi-prefabricate-din-beton---activ) pentru ***Beton si Prefabricate din Beton***,<br/>
       -- [**CT 345**](https://www.asro.ro/comitete-tehnice/#accordion-item-ct-345---sisteme-de-comand%C4%83-%C5%9Fi-de-informatizare-a-transporturilor---activ) pentru ***Securitate IT*** *etc.*)<br/>
-    pentru a genera o listă completă doar pe nișa care te interesează.
+    pentru a genera o listă completă doar pe nișa/zona(**CT**-ul) care te interesează.
 
 
  - **3.d)** Poți bifa opțiunea "*Doar standarde **în vigoare***" pentru a elimina standardele *anulate*.
