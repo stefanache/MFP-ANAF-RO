@@ -97,6 +97,7 @@ ASRO oferă instrumente de filtrare gratuite:<br/>
          Limba:             -<br/>
          Status(selectat): In vigoare<br/>
 <br/>In acelasi mod, ati putea cauta, de pilda [Nomenclatoare(aflate in vigoare)](https://webshop.softpepper.ro/Search?q=Nomenclator&ics=&l=&sp=1): [**https://webshop.softpepper.ro/Search?q=Nomenclator&ics=&l=&sp=1**](https://webshop.softpepper.ro/Search?q=Nomenclator&ics=&l=&sp=1)<br/>
+La fel, ati putea cauta dupa cuvantul "[**Semantic**](https://webshop.softpepper.ro/Search?q=semantic&ics=&l=&sp=1)"<br/>
 
     c) Poți filtra<br/>
     -după [Comitetul Tehnic](https://www.asro.ro/comitete-tehnice/)([CT](https://www.asro.ro/comitete-tehnice/)) (de exemplu,<br/>
