@@ -107,7 +107,7 @@ ASRO oferă instrumente de filtrare gratuite:<br/>
          Status(selectat): In vigoare<br/>
 <br/>In acelasi mod, ati putea cauta, de pilda [Nomenclatoare(aflate in vigoare)](https://webshop.softpepper.ro/Search?q=Nomenclator&ics=&l=&sp=1): [**https://webshop.softpepper.ro/Search?q=Nomenclator&ics=&l=&sp=1**](https://webshop.softpepper.ro/Search?q=Nomenclator&ics=&l=&sp=1)<br/>
 La fel, ati putea cauta dupa cuvantul [**Semantic**](https://webshop.softpepper.ro/Search?q=semantic&ics=&l=&sp=1) sau dupa bucati de cuvant, spre ex. [**metod**](https://webshop.softpepper.ro/Search?q=metod&ics=&l=&sp=1), sau dupa [**metodolog**](https://webshop.softpepper.ro/Search?q=metodolog&ics=&l=&sp=1),...<br/>
-
+Prezinta un interes deosebit in a folosi cuvinte mai [***rar-folosite***](https://www.google.com/search?q=care+sunt+cuvintele+de+frecventa+scazuta+care+apar+in+titlurile+standardelor+listate+de+ASRO&sourceid=chrome&ie=UTF-8&amc=1&aep=42&cud=0&source=chrome.crn.rb&atvm=2&mstk=AUtExfBOemcFEQjCca39gQW7UCyEIXOQ_I8IobPl9EQnEYzFMyRH2LVFYDfGVBvW69A8wzMtTt9-eVLu2Peo9pQK-8lMGpoWWFqWVfEqx3Ms2wQxsxOXhRN5V4qAF78-Bjk6PDQVZmfqoTm5bj0mf74F_DeXw365_W_lDoskujzTklBZ6NGJR0zaN3TQXwRA9QWY4NXNQJQXwzlZuBXfsPEBO0UBGBM7yOJf__qGV4VbN_Mdn7bsGhJlHoKJ4_TWkX4hyNz3i101AXd_wmD1EPjFwe8w9c5Ob-N9wpU&csuir=1&mtid=nNRxaqX3Le_FwPAPnsHSwAg&udm=50) in titlurile standardelor listate de **ASRO**.<br/>
     c) Poți filtra<br/>
     -după [Comitetul Tehnic](https://www.asro.ro/comitete-tehnice/)([CT](https://www.asro.ro/comitete-tehnice/)) (de exemplu,<br/>
       -- [CT](https://standard.md/?page_id=3241) 101 pentru Betoane,<br/>
