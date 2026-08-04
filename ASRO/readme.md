@@ -148,7 +148,7 @@ Puteti reduce la fel [aria de cautare](https://www.google.com/search?q=cuvinte+r
 
 <hr/>
 
-***Nota***: daca de pe site nu gasiti ceva folositi si motorul de cautare **Google** :
+***Nota***: daca pe aceasta pagina de [**cautare avanasata**](https://webshop.softpepper.ro/Search) a magazinului-online [**ASRO**](https://www.asro.ro/) nu gasiti ce doriti, atunci pueti sa folositi(in extenso sau in completare) si motorul de cautare **Google** :
 
 Ex. -  daca vreti [Lista de Standarde](https://incd.ro/wp-content/uploads/2023/06/Raport-activitate-INCD-URBAN-INCERC.pdf) care este in coordonarea unui [CT](www.asro.ro/comitete-tehnice/)(ex [335](https://www.asro.ro/asro-ct-335-bim-si-sustenabilitatea-mediului-construit/)) puteti folosi ceva de genul:<br/>
 
