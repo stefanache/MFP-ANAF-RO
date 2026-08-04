@@ -49,16 +49,16 @@ Asadar [**ASRO**](https://www.asro.ro/comitete-tehnice-si-sectoare-de-standardiz
 Iată principalele **categorii de standarde** utilizate, codurile lor și unde le poți descărca:
 
 **1.** Tipuri de standarde după prefix
-   <BR/>Toate standardele valabile în România poartă indicativul
+   <br/>Toate standardele valabile în România poartă indicativul
    SR (Standard Român),   urmat de originea lor:
 
-   -SR EN: Standarde europene adoptate obligatoriu și în România (ex: SR EN ISO 9001).
+   -**SR EN**: Standarde europene adoptate obligatoriu și în România (ex: SR EN ISO 9001).
 
-   -[SR ISO](https://isopedia.ro/iso-9001/) / SR IEC: Standarde internaționale preluate ca standarde române.
+   -[**SR ISO**](https://isopedia.ro/iso-9001/) / SR IEC: Standarde internaționale preluate ca standarde române.
  
-   -SR pure: Standarde dezvoltate exclusiv la nivel național (în scădere, multe fiind înlocuite de cele europene).
+   -**SR**(pure): Standarde dezvoltate exclusiv la nivel național (în scădere, multe fiind înlocuite de cele europene).
 
-**3.** Marile domenii și categorii de standarde
+**2.** Marile domenii și categorii de standarde
 
     Dacă descarci catalogul ASRO, standardele sunt împărțite pe **ICS**(**Clasificarea Internațională pentru Standarde**):
 
@@ -93,7 +93,7 @@ Iată principalele **categorii de standarde** utilizate, codurile lor și unde l
       -- echipamente medicale,<br/>
       -- echipamente de protecție individuală(EPI).
 
-**4.** Cum poți obține lista completă pentru un anumit domeniu<br/>
+**3.** Cum poți obține lista completă pentru un anumit domeniu<br/>
 Deoarece standardele sunt protejate de drepturi de autor și se achiziționează,<br/>
 ASRO oferă instrumente de filtrare gratuite:<br/>
 
@@ -141,7 +141,7 @@ Puteti reduce la fel [aria de cautare](https://www.google.com/search?q=cuvinte+r
    d)Poți bifa opțiunea "*Doar standarde în vigoare*" pentru a elimina standardele *anulate*.
 
 
-**5.** Interesante sunt si colectiile de produse(grupari de standarde): ex pt eFactura:
+**4.** Interesante sunt si colectiile de produse(grupari de standarde): ex pt eFactura:
 
 [eFactura-colectie de standarde - 819](https://magazin.asro.ro/ro/colectie-standarde/819)
 
