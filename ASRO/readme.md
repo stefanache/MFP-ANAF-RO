@@ -1,6 +1,6 @@
 Aici puteti gasi cateva [informatii](https://www.yumpu.com/ro/document/view/4646981/standardizarea-nationala-asro) despre [Standardele utilizate in Romania/nationale](https://www.scribd.com/doc/168871544/STANDARDE-APROBATE).
 
-Despre aceste [standarde](https://www.scribd.com/document/697938661/SR-ISO-965-3-2012) [**ASRO**](https://www.prefbeton.ro/wp-content/uploads/2024/08/08-Standardele-europene-produse-beton-Jeni-TOMA-ASRO-Prefbeton-2018.pdf) puteti gasi multe evenimente legate de procesul de standardizare din RO, daca urmariti [Buletinele standardizarilor](https://www.asro.ro/buletinul-standardizarii/)
+Despre aceste [standarde](https://www.scribd.com/document/697938661/SR-ISO-965-3-2012) [**ASRO**](https://www.prefbeton.ro/wp-content/uploads/2024/08/08-Standardele-europene-produse-beton-Jeni-TOMA-ASRO-Prefbeton-2018.pdf) puteti gasi multe evenimente legate de procesul de [standardizare national/ din RO](https://isopedia.ro/intrebari/ce-este-asro-standardizare/), daca urmariti [Buletinele standardizarilor](https://www.asro.ro/buletinul-standardizarii/)
 
 [Buletinul standardizării](https://www.asro.ro/buletinul-standardizarii/) este o publicaţie lunară care cuprinde informaţii privind standardizarea naţională, europeană şi internaţională, prin publicarea listelor cu standardele române, europene şi internaţionale care au fost aprobate în luna anterioară, listelor cu proiectele de standarde române, europene şi internaţionale intrate în anchetă publică şi a listelor cu standardele române anulate.
 
