@@ -29,5 +29,5 @@ Iată principalele categorii de standarde utilizate, codurile lor și unde le po
    d)Poți bifa opțiunea "Doar standarde în vigoare" pentru a elimina standardele anulate.
 
 4. Interesante sunt si colecttile: ex pt eFactura:
-5. 
+
 [eFactura-colectie de standarde - 819](https://magazin.asro.ro/ro/colectie-standarde/819)
