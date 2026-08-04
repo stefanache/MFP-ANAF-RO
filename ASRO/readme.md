@@ -6,7 +6,7 @@ deoarece baza de date este uriașă și se modifică zilnic (prin anulări, înl
 Baza de date completă, oficială și actualizată în timp real poate fi accesată exclusiv prin intermediul Magazinului Online ASRO (Asociația de Standardizare din România), 
 la adresa: magazin.asro.ro.
 
-Pentru o imagine de ansamblu, standardele din România sunt structurate pe domenii mari de activitate (comitete tehnice). 
+Pentru o imagine de ansamblu, standardele din România sunt structurate pe domenii mari de activitate([comitete tehnice](https://www.asro.ro/comitete-tehnice/)/CT). 
 
 Iată principalele categorii de standarde utilizate, codurile lor și unde le poți descărca:
 
@@ -45,10 +45,10 @@ Iată principalele categorii de standarde utilizate, codurile lor și unde le po
          Limba:             -<br/>
          Status(selectat): In vigoare<br/>
 
-    c)Poți filtra
-    -după Comitetul Tehnic (CT) (de exemplu,
-      -- CT 101 pentru Betoane,
-      -- CT 345 pentru Securitate IT etc.)
+    c)Poți filtra<br/>
+    -după Comitetul Tehnic (CT) (de exemplu,<br/>
+      -- CT 101 pentru Betoane,<br/>
+      -- CT 345 pentru Securitate IT etc.)<br/>
     pentru a genera o listă completă doar pe nișa care te interesează.
 
 
