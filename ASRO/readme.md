@@ -19,6 +19,7 @@ Sub **indicativul standardului(*SR-EN*,*SR-ISO*/*SR-IEC*,*SR*)** este indicat **
 Pentru standardele adoptate prin metoda filei de confirmare(**FC**) sau metoda notei de confirmare(**A**), **textul standardului** NU este publicat în versiune română(***RO***).<br/>
 Versiunile originale ale acestor standarde pot fi procurate de la ***ASRO***(*Asociaţia de Standardizare din România*).<br/>
 ...
+**Nota: Legat de acest **CT** sau colateral sunt implicate persoane/personaliti/firme dar si ministerele de resort([ex. MLDPA](https://www.mdlpa.ro/uploads/articole/attachments/63d8dccfe6ae8244797864.pdf) + agentiile de resort: ex.  ANCPI), precum si alte institutii ale statului(ex. [SENAT-RO](https://www.senat.ro/RaportDeclaratii.aspx))
 
 <hr/>
 
