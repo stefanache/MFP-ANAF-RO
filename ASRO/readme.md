@@ -4,7 +4,7 @@ Despre aceste standarde ASRO puteti gasi multe evenimente legate de procesul de 
 
 [Buletinul standardizării](https://www.asro.ro/buletinul-standardizarii/) este o publicaţie lunară care cuprinde informaţii privind standardizarea naţională, europeană şi internaţională, prin publicarea listelor cu standardele române, europene şi internaţionale care au fost aprobate în luna anterioară, listelor cu proiectele de standarde române, europene şi internaţionale intrate în anchetă publică şi a listelor cu standardele române anulate.
 
-Studiind Buletinul standardizării](https://www.asro.ro/buletinul-standardizarii/) sunteţi la curent cu evoluţia activităţii de standardizare naţională (ASRO), internaţională (ISO, IEC) şi europeană a standardelor (CEN, CENELEC, ETSI).
+Studiind [Buletinul standardizării](https://www.asro.ro/buletinul-standardizarii/) sunteţi la curent cu evoluţia activităţii de standardizare naţională (ASRO), internaţională (ISO, IEC) şi europeană a standardelor (CEN, CENELEC, ETSI).
 
 Aceste buletine informative lunare curente dar si cele din arhiva(istoric), pot fi [descarcate](https://www.asro.ro/buletinul-standardizarii/) de pe site in format PDF.
 
