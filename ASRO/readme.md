@@ -125,7 +125,9 @@ Puteti reduce la fel [aria de cautare](https://www.google.com/search?q=cuvinte+r
    <br/> - ***Interoperabilitate***(capacitatea a două ontologii software de a lucra împreună)
    <br/> - ***Euristică***(metodă de descoperire sau optimizare a relațiilor dintre noduri)
    <br/> ***Nota***: *Ati putea incerca si voi astfel de cautari!!!*
-
+   <br/>              Dupa ce identificati standardul (spre ex. [https://webshop.softpepper.ro/ro/standard/279977](https://webshop.softpepper.ro/ro/standard/279977)) puteti sa continuati cautarea de informatii despre acest [standard](https://www.google.com/search?q=SR+EN+ISO+12006-3%3A2022&lr=lang_ro&sca_esv=7a01ff41d4f21274&biw=1854&bih=961&tbs=lr%3Alang_1ro&sxsrf=APpeQnsAaklmfDKVFNM7oGEmJdBqOe50BA%3A1785847170482&ei=gt1xaqn-HPPZwPAP2Y7P8Ac&ved=0ahUKEwipx-CR_4aWAxXzLBAIHVnHE34Q4dUDCBA&uact=5&oq=SR+EN+ISO+12006-3%3A2022&gs_lp=Egxnd3Mtd2l6LXNlcnAiFlNSIEVOIElTTyAxMjAwNi0zOjIwMjJIAFAAWABwAHgBkAEAmAEAoAEAqgEAuAEDyAEA-AECmAIAoAIAmAMAkgcAoAcAsgcAuAcAwgcAyAcAgAgB&sclient=gws-wiz-serp), pe Google.
+   <br/>Aveti sanse mari sa gasiti informatii valoroase despre standardul cautat, asa cum este de pilda aceasta [Reglementare Tehnica din 13.oct.2023](https://legislatie.just.ro/public/DetaliiDocument/275898)<br/>
+   
     c) Poți filtra<br/>
     -după [Comitetul Tehnic](https://www.asro.ro/comitete-tehnice/)([CT](https://www.asro.ro/comitete-tehnice/)) (de exemplu,<br/>
       -- [CT](https://standard.md/?page_id=3241) 101 pentru Betoane,<br/>
