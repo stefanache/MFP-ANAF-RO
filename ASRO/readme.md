@@ -55,32 +55,32 @@ Iată principalele categorii de standarde utilizate, codurile lor și unde le po
 
    -Management și Calitate:<br/>
      -- Seria SR EN ISO 9001 (managementul calității),<br/>
-     -- SR EN ISO 14001 (mediu),<br/>
-     -- SR EN ISO 45001 (sănătate și securitate în muncă),<br/>
-     -- SR EN ISO 27001 (securitatea informației).<br/>
+     --       SR EN ISO 14001 (mediu),<br/>
+     --       SR EN ISO 45001 (sănătate și securitate în muncă),<br/>
+     --       SR EN ISO 27001 (securitatea informației).<br/>
 
    -Construcții și Eurocoduri:<br/>
      -- Seria de standarde SR EN 1990 - SR EN 1999 (Eurocoduri pentru calculul structurilor),<br/>
-     -- standarde pentru <br/>
+        Standarde pentru <br/>
           -- ciment,<br/>
           -- betoane, <br/>
           -- agregate.
 
    -Instalații și Energie:<br/>
-     -- Standarde pentru<br/>
+         Standarde pentru<br/>
          -- echipamente electrice,<br/>
          -- rețele de gaze, <br/>
          -- eficiență energetică.<br/>
 
    -Industria Alimentară: <br/>
-      -- Standarde <br/>
+          Standarde <br/>
           -- de siguranță alimentară (seria SR EN ISO 22000),<br/>
           -- metode de analiză și încercări pentru <br/>
                 --- produse agricole și <br/>
                 --- alimentare.<br/>
 
    -Sănătate și Securitate: <br/>
-    Standarde pentru <br/>
+      Standarde pentru <br/>
       -- echipamente medicale,<br/>
       -- echipamente de protecție individuală(EPI).
 
