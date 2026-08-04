@@ -6,6 +6,8 @@ Despre aceste standarde ASRO puteti gasi multe evenimente legate de procesul de 
 
 Studiind pBuletinul standardizării](https://www.asro.ro/buletinul-standardizarii/) sunteţi la curent cu evoluţia activităţii de standardizare naţională (ASRO), internaţională (ISO, IEC) şi europeană a standardelor (CEN, CENELEC, ETSI).
 
+Aceste buletine informative lunare pot fi descarcate de pe site in format PDF.
+
 O listă completă text-cu-text care să conțină absolut toate cele peste 35.000 - 40.000 de standarde utilizate în România nu poate fi redată într-un singur răspuns, 
 deoarece baza de date este uriașă și se modifică zilnic (prin anulări, înlocuiri sau adoptări de noi standarde europene și internaționale).
 
