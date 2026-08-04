@@ -19,8 +19,10 @@ Iată principalele categorii de standarde utilizate, codurile lor și unde le po
    -Sănătate și Securitate: Standarde pentru echipamente medicale, echipamente de protecție individuală (EPI).
 3. Cum poți obține lista completă pentru un anumit domeniuDeoarece standardele sunt protejate de drepturi de autor și se achiziționează,
    ASRO oferă instrumente de filtrare gratuite:
-    a)Accesează magazin.asro.ro.
-    b)Folosește secțiunea "Căutare Standarde". De preferat [cautarea - avansata](https://webshop.softpepper.ro/Search);
+
+   a)Accesează magazin.asro.ro.
+
+   b)Folosește secțiunea "Căutare Standarde". De preferat [cautarea - avansata](https://webshop.softpepper.ro/Search);
    <br/>Ex de cautare(criterii):
          Caută produs :     SR<br/>
          Domeniu(selectat): 93 - CONSTRUCŢII CIVILE<br/>
@@ -32,6 +34,7 @@ Iată principalele categorii de standarde utilizate, codurile lor și unde le po
       -- CT 101 pentru Betoane,
       -- CT 345 pentru Securitate IT etc.)
     pentru a genera o listă completă doar pe nișa care te interesează.
+
    d)Poți bifa opțiunea "Doar standarde în vigoare" pentru a elimina standardele anulate.
 
 5. Interesante sunt si colecttile: ex pt eFactura:
