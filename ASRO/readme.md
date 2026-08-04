@@ -20,7 +20,7 @@ Iată principalele categorii de standarde utilizate, codurile lor și unde le po
 3. Cum poți obține lista completă pentru un anumit domeniuDeoarece standardele sunt protejate de drepturi de autor și se achiziționează,
    ASRO oferă instrumente de filtrare gratuite:
     a)Accesează magazin.asro.ro.
-    b)Folosește secțiunea "Căutare Standarde".
+    b)Folosește secțiunea "Căutare Standarde". De preferat [cautarea - avansata](https://webshop.softpepper.ro/Search);
     c)Poți filtra
     -după Comitetul Tehnic (CT) (de exemplu,
       -- CT 101 pentru Betoane,
