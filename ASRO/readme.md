@@ -68,7 +68,7 @@ Dacă descarci *catalogul* **ASRO**, standardele sunt împărțite pe **ICS**(**
       --       SR EN ISO 27001 (securitatea informației).<br/>
 
    - [Construcții](https://www.mdlpa.ro/uploads/articole/attachments/62d4fcadd4e20617869000.pdf) și [EuroCoduri](https://www.asro.ro/standarde-bim-pentru-constructii-la-norme-europene/):<br/>
-     -- Seria de standarde SR EN 1990 - SR EN 1999 (Eurocoduri pentru calculul structurilor),<br/>
+     -- Seria de [standarde](https://www.researchgate.net/publication/355727897_Interoperable_Digital_Building_Twins_Through_Communicating_Materials_and_Semantic_BIM) **SR EN 1990** - **SR EN 1999**(**EuroCoduri pentru calculul structurilor**),<br/>
         Standarde pentru <br/>
           -- ciment,<br/>
           -- betoane, <br/>
