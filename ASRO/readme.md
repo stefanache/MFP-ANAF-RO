@@ -6,7 +6,7 @@ Despre aceste [standarde](https://www.scribd.com/document/697938661/SR-ISO-965-3
 
 Studiind [Buletinul standardizării](https://www.asro.ro/buletinul-standardizarii/) sunteţi la curent cu evoluţia activităţii de standardizare naţională (ASRO), internaţională (ISO, IEC) şi europeană a standardelor (CEN, CENELEC, ETSI).
 
-Aceste buletine informative lunare curente dar si cele din arhiva(istoric), pot fi [descarcate](https://www.asro.ro/buletinul-standardizarii/) de pe site in format PDF.
+Aceste [buletine informative lunare](https://arts.org.ro/despre-noi/parteneri/62-asro.html) din anul curent dar si cele din arhiva(istoric), pot fi [descarcate](https://www.asro.ro/buletinul-standardizarii/) de pe site in format PDF.
 
 Daca nu reusiti sa le [descarcati](https://www.yumpu.com/ro/document/view/9316405/standardizarea-nationala-asro) puteti folosi pt asta [YUMPU](https://www.yumpu.com/ro/document/download/9316405/9def9-ebbc9-ff64d-72b60-a35ab-6dab5-9f5ad-3d63d)
 
