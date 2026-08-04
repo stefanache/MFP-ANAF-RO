@@ -105,7 +105,7 @@ ASRO oferă instrumente de filtrare gratuite:<br/>
     pentru a genera o listă completă doar pe nișa care te interesează.
 
 
-   d)Poți bifa opțiunea "Doar standarde în vigoare" pentru a elimina standardele anulate.
+   d)Poți bifa opțiunea "*Doar standarde în vigoare*" pentru a elimina standardele *anulate*.
 
 5. Interesante sunt si colecttile de produse(grupari de standarde): ex pt eFactura:
 
