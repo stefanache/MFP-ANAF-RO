@@ -156,6 +156,6 @@ Ex. -  daca vreti [Lista de Standarde](https://incd.ro/wp-content/uploads/2023/0
 
 <hr/>
 
-Pt cautare de legi puteti folosi de ex. portalul-ul justitiei [**legislatie.just.ro**](https://legislatie.just.ro/Public) cautand spre exemplu dupa expresia textuala: [**LEGE 355 06/06/2002**](https://legislatie.just.ro/Public/RezultateCautare?titlu=355+06+06+%2F2002)
+Pt cautare de legi puteti folosi de ex. portalul-ul justitiei [**legislatie.just.ro**](https://legislatie.just.ro/Public), cautand spre exemplu dupa... expresia textuala: [**LEGE 355 06/06/2002**](https://legislatie.just.ro/Public/RezultateCautare?titlu=355+06+06+%2F2002)
 
 
