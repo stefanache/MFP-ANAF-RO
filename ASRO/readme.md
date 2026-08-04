@@ -74,20 +74,20 @@ Dacă descarci *catalogul* **ASRO**, standardele sunt împărțite pe **ICS**(**
           -- betoane, <br/>
           -- agregate.
 
-   -Instalații și Energie:<br/>
+   - [Instalații și Energie](https://www.asro.ro/standardele-bim-acum-in-limba-romana/):<br/>
          Standarde pentru<br/>
          -- echipamente electrice,<br/>
          -- rețele de gaze, <br/>
          -- eficiență energetică.<br/>
 
-   -Industria Alimentară: <br/>
+   - Industria Alimentară: <br/>
           Standarde <br/>
           -- de siguranță alimentară (seria SR EN ISO 22000),<br/>
           -- metode de analiză și încercări pentru <br/>
                 --- produse agricole și <br/>
                 --- alimentare.<br/>
 
-   -Sănătate și Securitate: <br/>
+   - Sănătate și Securitate: <br/>
       Standarde pentru <br/>
       -- echipamente medicale,<br/>
       -- echipamente de protecție individuală(EPI).
