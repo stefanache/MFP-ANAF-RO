@@ -10,7 +10,7 @@ Aceste [buletine informative lunare](https://arts.org.ro/despre-noi/parteneri/62
 
 Daca nu reusiti sa le [descarcati](https://www.yumpu.com/ro/document/view/9316405/standardizarea-nationala-asro) puteti folosi pt asta [YUMPU](https://www.yumpu.com/ro/document/download/9316405/9def9-ebbc9-ff64d-72b60-a35ab-6dab5-9f5ad-3d63d)
 
-De ex in ***Buletinul ASRO din luna [Mai-2026](https://www.google.com/search?q=Asro+E+CT+FC+A&sca_esv=639d753656e65f03&biw=1854&bih=961&sxsrf=APpeQnvFoT1wSMxQI9j_lQahrmltrF93kA%3A1785834504442&ei=CKxxapfLGuXdwPAPzufR-Qc&ved=0ahUKEwiX7476z4aWAxXlLhAIHc5zNH8Q4dUDCBA&uact=5&oq=Asro+E+CT+FC+A&gs_lp=Egxnd3Mtd2l6LXNlcnAiDkFzcm8gRSBDVCBGQyBBMgQQIxgnMggQABiABBiiBDIFEAAY7wUyBRAAGO8FMgUQABjvBTIFEAAY7wVIh0xQ2glY3ypwAXgBkAEAmAF9oAGHBaoBAzAuNrgBA8gBAPgBAZgCB6ACoAXCAgoQABhHGNYEGLADmAMAiAYBkAYIkgcDMS42oAfmF7IHAzAuNrgHmgXCBwUwLjYuMcgHEYAIAQ&sclient=gws-wiz-serp)** aflam ca ...
+De ex in **Buletinul ASRO din luna [Mai-2026](https://www.google.com/search?q=Asro+E+CT+FC+A&sca_esv=639d753656e65f03&biw=1854&bih=961&sxsrf=APpeQnvFoT1wSMxQI9j_lQahrmltrF93kA%3A1785834504442&ei=CKxxapfLGuXdwPAPzufR-Qc&ved=0ahUKEwiX7476z4aWAxXlLhAIHc5zNH8Q4dUDCBA&uact=5&oq=Asro+E+CT+FC+A&gs_lp=Egxnd3Mtd2l6LXNlcnAiDkFzcm8gRSBDVCBGQyBBMgQQIxgnMggQABiABBiiBDIFEAAY7wUyBRAAGO8FMgUQABjvBTIFEAAY7wVIh0xQ2glY3ypwAXgBkAEAmAF9oAGHBaoBAzAuNrgBA8gBAPgBAZgCB6ACoAXCAgoQABhHGNYEGLADmAMAiAYBkAYIkgcDMS42oAfmF7IHAzAuNrgHmgXCBwUwLjYuMcgHEYAIAQ&sclient=gws-wiz-serp)** aflam ca ...
 
 Standardele române originale(**RO**) sunt notate cu (**E**).<br/> 
 Standardele europene şi internaţionale sunt adoptate ca standarde române prin metoda versiunii române(**T**),<br/> 
