@@ -96,7 +96,7 @@ ASRO oferă instrumente de filtrare gratuite:<br/>
 
     c)Poți filtra<br/>
     -după [Comitetul Tehnic](https://www.asro.ro/comitete-tehnice/)([CT](https://www.asro.ro/comitete-tehnice/)) (de exemplu,<br/>
-      -- CT 101 pentru Betoane,<br/>
+      -- [CT](https://standard.md/?page_id=3241) 101 pentru Betoane,<br/>
       -- CT 345 pentru Securitate IT etc.)<br/>
     pentru a genera o listă completă doar pe nișa care te interesează.
 
