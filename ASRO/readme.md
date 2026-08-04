@@ -35,6 +35,8 @@ Unele stanadarde din acest magazin sunt chiar **gratuite* dar cand/dupa ce le co
 
 Pentru o imagine de ansamblu, standardele din România sunt structurate pe domenii mari de activitate([comitete tehnice](https://www.asro.ro/comitete-tehnice/)/[CT](https://www.asro.ro/comitete-tehnice/)). 
 
+Asadar [**ASRO**](https://www.asro.ro/comitete-tehnice-si-sectoare-de-standardizare/) isi defasoara procesele de activitate in  Domenii de Activitate/Comitete Tehnice([CT](https://www.asro.ro/comitete-tehnice/)) si pe diverse Sectoare de Activitate([SA](https://www.asro.ro/sectoare-de-standardizare/))
+
 Iată principalele categorii de standarde utilizate, codurile lor și unde le poți descărca:
 
 1. Tipuri de standarde după prefix
