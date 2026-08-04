@@ -119,7 +119,7 @@ In acelasi mod ati putea cauta de pilda [Nomenclatoare(aflate in vigoare)](https
 
 ***Nota***: daca de pe site nu gasiti ceva folositi si motorul de cautare **Google** :
 
-Ex. -  daca vreti [Lista de Standarde](https://incd.ro/wp-content/uploads/2023/06/Raport-activitate-INCD-URBAN-INCERC.pdf) care este in coordonarea unui [CT](https://www.asro.ro/comitete-tehnice/)(ex [335](https://www.asro.ro/asro-ct-335-bim-si-sustenabilitatea-mediului-construit/)) puteti folosi ceva de genul:<br/>
+Ex. -  daca vreti [Lista de Standarde](https://incd.ro/wp-content/uploads/2023/06/Raport-activitate-INCD-URBAN-INCERC.pdf) care este in coordonarea unui [CT](www.asro.ro/comitete-tehnice/)(ex [335](https://www.asro.ro/asro-ct-335-bim-si-sustenabilitatea-mediului-construit/)) puteti folosi ceva de genul:<br/>
 
 [ASRO CT 335 Lista Standarde](https://www.google.com/search?q=ASRO+CT+335+lista+stANDARDE&oq=ASRO+CT+335+lista+stANDARDE&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRifBdIBCjE0NzU3ajBqMTWoAgiwAgHxBRCgPdoon7Zj&sourceid=chrome&source=chrome.rb&ie=UTF-8)
 
