@@ -142,7 +142,7 @@ Puteti reduce la fel [aria de cautare](https://www.google.com/search?q=cuvinte+r
  - **3.d)** Poți bifa opțiunea "*Doar standarde **în vigoare***" pentru a elimina standardele *anulate*.
 
 
-<br/>Interesante sunt si ***colectiile*** de produse([grupari](https://ro.scribd.com/document/582121403/SR-CEN-TS-16931-2-2018) de [standarde](https://www.infofisc.ro/Files/04f36985effa2f1c3ef03e896006a03d.pdf)...pe aceiasi [tema](https://media.hotnews.ro/assets/document/2021/10/27/25137933-0.pdf)): ex pt [**eFactura**](https://www.google.com/search?q=SR+CEN%2FTS+16931-2%3A2018&oq=SR+CEN%2FTS+16931-2%3A2018&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTIxODlqMGoxNagCCLACAfEFTnNg2ME4GvA&sourceid=chrome&source=chrome.rb&ie=UTF-8):
+<br/>Interesante sunt si [***colectiile***](https://ro.scribd.com/document/701363215/SR-EN-16931-1-A1-2020) de produse/standarde([grupari](https://ro.scribd.com/document/582121403/SR-CEN-TS-16931-2-2018) de [standarde](https://www.infofisc.ro/Files/04f36985effa2f1c3ef03e896006a03d.pdf)...pe aceiasi [tema](https://media.hotnews.ro/assets/document/2021/10/27/25137933-0.pdf)): ex pt [**eFactura**](https://www.google.com/search?q=SR+CEN%2FTS+16931-2%3A2018&oq=SR+CEN%2FTS+16931-2%3A2018&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTIxODlqMGoxNagCCLACAfEFTnNg2ME4GvA&sourceid=chrome&source=chrome.rb&ie=UTF-8):
 
 [eFactura-colectie de standarde - 819](https://magazin.asro.ro/ro/colectie-standarde/819)
 
