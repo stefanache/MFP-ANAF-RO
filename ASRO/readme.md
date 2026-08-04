@@ -124,7 +124,6 @@ Puteti reduce la fel [aria de cautare](https://www.google.com/search?q=cuvinte+r
    <br/> - ***Mereotopologie***(studiul combinat al relațiilor parte-întreg și al conexiunilor spațiale)
    <br/> - ***Interoperabilitate***(capacitatea a două ontologii software de a lucra împreună)
    <br/> - ***Euristică***(metodă de descoperire sau optimizare a relațiilor dintre noduri)
-
    <br/> ***Nota***: *Ati putea incerca si voi astfel de cautari!!!*
 
     c) Poți filtra<br/>
