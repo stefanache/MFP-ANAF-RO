@@ -111,14 +111,14 @@ Prezinta un interes deosebit in a folosi cuvinte mai [***rar-folosite***](https:
 Puteti reduce la fel [aria de cautare](https://www.google.com/search?q=cuvinte+rar+folosite+in+titlul+din+domeniul+CT208&oq=cuvinte+rar+folosite+in+titlul+din+domeniul+CT208&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABjvBTIKCAIQABiABBiiBDIHCAMQABjvBTIHCAQQABjvBdIBCjM4ODA4ajBqMTWoAgiwAgHxBRYjHujJVswH8QUWIx7oyVbMBw&sourceid=chrome&source=chrome.rb&ie=UTF-8) rezumandu-va la un [*cuvant-rar-utilizat-in-titluri-de-standarde*](https://www.google.com/search?q=cuvinte+rar+folosite+in+titlul+din+domeniul+CT208&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABjvBTIKCAIQABiABBiiBDIHCAMQABjvBTIHCAQQABjvBdIBCjM4ODA4ajBqMTWoAgiwAgHxBRYjHujJVswH8QUWIx7oyVbMBw&sourceid=chrome&ie=UTF-8&udm=50&fbs=ABfTbFWfH4wlW6n2_hxvp9wb2ZU9vOI7RSRt7FUzXBlQT0_UgT5SPy7rpZO1forRzdUsSLhCFf8BXcI34zHhvkQCNnUqNF_gqCw4x7qKCh2JqmTTHJfntRbox736Oho1SYee3j1W6QORCSkOUQtTT24tNHaPEi2kixsxaKBmwgh-59X41g2KpxjnkXdULBdMG0gVNvMMXOOblpuzpwT3xW3ALt-o0Sc9IA&aep=10&ntc=1&mstk=AUtExfAuBfKz-Q0FpSlSWC__sAZtmQ5MXhj0kanGxAJ6JRSj4JF7a6imxO32gr_p54bQYYSQ7fhoKL5hn_Q3bWJR9E07SmopDOMQmRlEIznE8t1tszC69GLYvbzU5AM9DbWRlG-sz1oTsY4d3fWQVUBAZZYsW86VlojwK1jRamiuy1-bEntRzQU0zgSQl0Dddv8fSeliR4FOYxzjoSb0QG-PfAWH1BdfVJ_SgkGOt5F4tHKfs-iFl6jKxPi4pb9Rq32KubW2KjBP6jdIsHpZ3ROt_nrDf1EJwypPAg8&aioh=3&csuir=1&cs=1&atvm=2&mtid=XtlxavfhKPaJ7NYPzJ-S4Qc) sau o *rădacină-a-unui-astfel-de-cuvant*(*[Eschi](https://webshop.softpepper.ro/Search?q=eschi&ics=&l=&sp=1)vă*,*[Plet](https://webshop.softpepper.ro/Search?q=plet&ics=&l=&sp=1)oră*,*[Inciden](https://webshop.softpepper.ro/Search?q=Inciden&ics=&l=&sp=1)ță*,..., [Taxonom](https://webshop.softpepper.ro/Search?q=taxonom&ics=&l=&sp=1)ie, ) dar si la o denumire de **CT** anume(cum este **ASRO**/***CT 208*** - *Tehnologia Informației*: [SR EN ISO/IEC 12792:2025](https://www.iso.org/obp/ui/en/#iso:std:iso-iec:12792:ed-1:v1:en))<br/>
 
    În contextul ontologiei (atât ca ramură a filozofiei care studiază existența, cât și ca structură de date în informatică), titlurile academice sau tehnice folosesc uneori termeni extrem de rari, preciși și pretențioși.Iată câteva cuvinte rar folosite în titluri, împărțite pe cele două mari direcții:
-   <br/>**A.Ontologie Filozofică (Studiul Existenței)**:
+   <br/>**I.Ontologie Filozofică (Studiul Existenței)**:
    <br/> - ***Hecceitate***(proprietatea unui obiect de a fi el însuși; individualitate pură)
    <br/> - ***Mereologie***(teoria relațiilor dintre parte și întreg)
    <br/> - ***Aseitate***(existența prin sine însuși, independent de orice altceva)
    <br/> - ***Ipostaziere***(acțiunea de a trata un concept abstract ca pe o realitate fizică)
    <br/> - ***Quidditate***(esența unui lucru; „ceea ce face ca un lucru să fie ce este”)
    <br/> - ***Inerentist***(care susține că existența depinde exclusiv de proprietăți interne)
-   <br/>**B.Ontologie Informatică (Structuri de Date și AI)**
+   <br/>**II.Ontologie Informatică (Structuri de Date și AI)**
    <br/> - ***Taxonomizare***(procesul riguros de clasificare ierarhică a conceptelor)
    <br/> - ***Polisemantism***(coexistența mai multor sensuri în aceeași structură de date)
    <br/> - ***Mereotopologie***(studiul combinat al relațiilor parte-întreg și al conexiunilor spațiale)
