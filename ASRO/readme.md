@@ -15,7 +15,7 @@ De ex in ***Buletinul ASRO din luna Mai-2026** aflam ca ...
 Standardele române originale(**RO**) sunt notate cu (**E**).<br/> 
 Standardele europene şi internaţionale sunt adoptate ca standarde române prin metoda versiunii române(**T**),<br/> 
 metoda filei de confirmare(**FC**) sau metoda notei de confirmare(**A**). <br/>
-Sub indicativul standardului este indicat numărul comitetului tehnic([**CT**](https://www.asro.ro/deveniti-membru-ct/)) responsabil.<br/> 
+Sub **indicativul standardului(*SR-EN*,*SR-ISO*/*SR-IEC*,*SR*)** este indicat numărul comitetului tehnic([**CT**](https://www.asro.ro/deveniti-membru-ct/)) responsabil.<br/> 
 Pentru standardele adoptate prin metoda filei de confirmare(**FC**) sau metoda notei de confirmare(**A**), **textul standardului** NU este publicat în versiune română(***RO***).<br/>
 Versiunile originale ale acestor standarde pot fi procurate de la ***ASRO***(*Asociaţia de Standardizare din România*).<br/>
 ...
@@ -34,7 +34,8 @@ Pentru o imagine de ansamblu, standardele din România sunt structurate pe domen
 
 Iată principalele categorii de standarde utilizate, codurile lor și unde le poți descărca:
 
-1. Tipuri de standarde după prefixToate standardele valabile în România poartă indicativul
+1. Tipuri de standarde după prefix
+   <BR/>Toate standardele valabile în România poartă indicativul
    SR (Standard Român),   urmat de originea lor:
 
    -SR EN: Standarde europene adoptate obligatoriu și în România (ex: SR EN ISO 9001).
@@ -43,7 +44,7 @@ Iată principalele categorii de standarde utilizate, codurile lor și unde le po
  
    -SR pure: Standarde dezvoltate exclusiv la nivel național (în scădere, multe fiind înlocuite de cele europene).
 
-2. Marile domenii și categorii de standarde
+3. Marile domenii și categorii de standarde
 
     Dacă descarci catalogul ASRO, standardele sunt împărțite pe **ICS**(**Clasificarea Internațională pentru Standarde**):
 
