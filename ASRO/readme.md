@@ -1,4 +1,4 @@
-Aici puteti gasi cateva informatii despre Standardele utilizate in Romania.
+Aici puteti gasi cateva informatii despre [Standardele utilizate in Romania/nationale](https://www.scribd.com/doc/168871544/STANDARDE-APROBATE).
 
 Despre aceste standarde ASRO puteti gasi multe evenimente legate de procesul de standardizare din RO, daca urmariti [Buletinele standardizarilor](https://www.asro.ro/buletinul-standardizarii/)
 
