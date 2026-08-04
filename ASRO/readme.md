@@ -84,8 +84,8 @@ Dacă descarci *catalogul* **ASRO**, standardele sunt împărțite pe **ICS**(**
       - Standarde <br/>
            - de siguranță alimentară (seria SR EN ISO 22000),<br/>
            - metode de analiză și încercări pentru <br/>
-                 - produse agricole și <br/>
-                 - alimentare.<br/>
+                            - produse agricole și <br/>
+                            - alimentare.<br/>
 
    - Sănătate și Securitate: <br/>
       - Standarde pentru <br/>
