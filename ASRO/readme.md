@@ -100,5 +100,8 @@ Ex. -  daca vreti [Lista de Standarde](https://incd.ro/wp-content/uploads/2023/0
 
 [ASRO CT 335 Lista Standarde](https://www.google.com/search?q=ASRO+CT+335+lista+stANDARDE&oq=ASRO+CT+335+lista+stANDARDE&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRifBdIBCjE0NzU3ajBqMTWoAgiwAgHxBRCgPdoon7Zj&sourceid=chrome&source=chrome.rb&ie=UTF-8)
 
+<hr/>
+
+Pt cautare legi puteti folosi : ex.  [legislatie.just.ro: LEGE 355 06/06/2002](https://legislatie.just.ro/Public/RezultateCautare?titlu=355+06+06+%2F2002)
 
 
