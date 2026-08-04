@@ -140,6 +140,7 @@ Puteti reduce la fel [aria de cautare](https://www.google.com/search?q=cuvinte+r
 
    d)Poți bifa opțiunea "*Doar standarde în vigoare*" pentru a elimina standardele *anulate*.
 
+
 5. Interesante sunt si colecttile de produse(grupari de standarde): ex pt eFactura:
 
 [eFactura-colectie de standarde - 819](https://magazin.asro.ro/ro/colectie-standarde/819)
