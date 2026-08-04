@@ -21,6 +21,12 @@ Iată principalele categorii de standarde utilizate, codurile lor și unde le po
    ASRO oferă instrumente de filtrare gratuite:
     a)Accesează magazin.asro.ro.
     b)Folosește secțiunea "Căutare Standarde". De preferat [cautarea - avansata](https://webshop.softpepper.ro/Search);
+   <br/>Ex de cautare(criterii):
+         Caută produs :     SR<br/>
+         Domeniu(selectat): 93 - CONSTRUCŢII CIVILE<br/>
+         Limba:             -<br/>
+         Status(selectat): In vigoare<br/>
+
     c)Poți filtra
     -după Comitetul Tehnic (CT) (de exemplu,
       -- CT 101 pentru Betoane,
@@ -28,6 +34,6 @@ Iată principalele categorii de standarde utilizate, codurile lor și unde le po
     pentru a genera o listă completă doar pe nișa care te interesează.
    d)Poți bifa opțiunea "Doar standarde în vigoare" pentru a elimina standardele anulate.
 
-4. Interesante sunt si colecttile: ex pt eFactura:
+5. Interesante sunt si colecttile: ex pt eFactura:
 
 [eFactura-colectie de standarde - 819](https://magazin.asro.ro/ro/colectie-standarde/819)
