@@ -35,6 +35,7 @@ Iată principalele categorii de standarde utilizate, codurile lor și unde le po
       -- CT 345 pentru Securitate IT etc.)
     pentru a genera o listă completă doar pe nișa care te interesează.
 
+
    d)Poți bifa opțiunea "Doar standarde în vigoare" pentru a elimina standardele anulate.
 
 5. Interesante sunt si colecttile: ex pt eFactura:
