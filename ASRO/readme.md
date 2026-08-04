@@ -61,26 +61,26 @@ Iată principalele **categorii de standarde** utilizate, codurile lor și unde l
 
 Dacă descarci *catalogul* **ASRO**, standardele sunt împărțite pe **ICS**(**Clasificarea Internațională pentru Standarde**):
 
-   - [Management](https://www.google.com/search?q=ce+este+BIM&sourceid=chrome&ie=UTF-8&amc=1&aep=42&cud=0&source=chrome.crn.rb&atvm=2&udm=50&mstk=AUtExfATNEm3FWQ8c0PrxDgHVthUobKYNKkpR5YVE6mLAtRFDUVeI4AJg_BRbYprF1L1-8PYVJuZGPjkZg0eFN6FMiAv9q1v32SsyHjcMdSXmJ4cQ9oDSD99jWSyIjzCv8tWAvAYcvkEExQZvUu57X0LbTE8qUjhsIEJEO_KICwAnQXZha0PdEUhQ7V_fJLypi12HlKyle9kAA32XocZWQNYQHwcF64NJs36--OHX9PiGwNnnaJ6bHeEeFm_cDqauIXa6mD869Oe1ki-9E0RSNrTgncO_vB9IM5L8rHugVCfKmgZT0siKvEqvIAYAqsdh01m960hgAzK7u7JdHYvOsa3YWukFvMCMVfwhv3hMNgLLSi1tIq3XDZWF5BRyCxQT38GrJcBLNFbzuiEG8ccULy0wGo_XJG4Ia4-kyvFDemDlw0gwk2fLvkhFw&csuir=1&mtid=UAVyas_9EbCSxc8PvLnrKA) și [Calitate](https://cursuri.online/article/cum-poti-creste-precizia-evaluarii-costurilor-unui-proiect-de-constructii-cu-allplan-2025-prin-o-gestiune-rapida-si-inteligenta-a-atributelor):<br/>
+   - [**Management**](https://www.google.com/search?q=ce+este+BIM&sourceid=chrome&ie=UTF-8&amc=1&aep=42&cud=0&source=chrome.crn.rb&atvm=2&udm=50&mstk=AUtExfATNEm3FWQ8c0PrxDgHVthUobKYNKkpR5YVE6mLAtRFDUVeI4AJg_BRbYprF1L1-8PYVJuZGPjkZg0eFN6FMiAv9q1v32SsyHjcMdSXmJ4cQ9oDSD99jWSyIjzCv8tWAvAYcvkEExQZvUu57X0LbTE8qUjhsIEJEO_KICwAnQXZha0PdEUhQ7V_fJLypi12HlKyle9kAA32XocZWQNYQHwcF64NJs36--OHX9PiGwNnnaJ6bHeEeFm_cDqauIXa6mD869Oe1ki-9E0RSNrTgncO_vB9IM5L8rHugVCfKmgZT0siKvEqvIAYAqsdh01m960hgAzK7u7JdHYvOsa3YWukFvMCMVfwhv3hMNgLLSi1tIq3XDZWF5BRyCxQT38GrJcBLNFbzuiEG8ccULy0wGo_XJG4Ia4-kyvFDemDlw0gwk2fLvkhFw&csuir=1&mtid=UAVyas_9EbCSxc8PvLnrKA) și [**Calitate**](https://cursuri.online/article/cum-poti-creste-precizia-evaluarii-costurilor-unui-proiect-de-constructii-cu-allplan-2025-prin-o-gestiune-rapida-si-inteligenta-a-atributelor):<br/>
       - Seria SR EN ISO 9001 (managementul calității),<br/>
       - SR EN ISO 14001 (mediu),<br/>
       - SR EN ISO 45001 (sănătate și securitate în muncă),<br/>
       - SR EN ISO 27001 (securitatea informației).<br/>
 
-   - [Construcții](https://www.mdlpa.ro/uploads/articole/attachments/62d4fcadd4e20617869000.pdf) și [EuroCoduri](https://www.asro.ro/standarde-bim-pentru-constructii-la-norme-europene/):<br/>
+   - [**Construcții**](https://www.mdlpa.ro/uploads/articole/attachments/62d4fcadd4e20617869000.pdf) și [**EuroCoduri**](https://www.asro.ro/standarde-bim-pentru-constructii-la-norme-europene/):<br/>
       - Seria de [standarde](https://www.researchgate.net/publication/355727897_Interoperable_Digital_Building_Twins_Through_Communicating_Materials_and_Semantic_BIM) **SR EN 1990** - **SR EN 1999**(**EuroCoduri pentru calculul structurilor**),<br/>
       - Standarde pentru <br/>
            - ciment,<br/>
            - betoane, <br/>
            - agregate.
 
-   - [Instalații și Energie](https://www.asro.ro/standardele-bim-acum-in-limba-romana/):<br/>
+   - [**Instalații** și **Energie**](https://www.asro.ro/standardele-bim-acum-in-limba-romana/):<br/>
       - Standarde pentru<br/>
            - echipamente electrice,<br/>
            - rețele de gaze, <br/>
            - eficiență energetică.<br/>
 
-   - Industria Alimentară: <br/>
+   - **Industria Alimentară**: <br/>
       - Standarde <br/>
            - de siguranță alimentară (seria SR EN ISO 22000),<br/>
            - metode de analiză și încercări pentru <br/>
