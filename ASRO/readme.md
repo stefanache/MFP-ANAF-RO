@@ -8,6 +8,8 @@ Studiind [Buletinul standardizării](https://www.asro.ro/buletinul-standardizari
 
 Aceste buletine informative lunare curente dar si cele din arhiva(istoric), pot fi [descarcate](https://www.asro.ro/buletinul-standardizarii/) de pe site in format PDF.
 
+Daca nu reusiti sa le [descarcati](https://www.yumpu.com/ro/document/view/9316405/standardizarea-nationala-asro) puteti folosi pt asta [YUMPU](https://www.yumpu.com/ro/document/download/9316405/9def9-ebbc9-ff64d-72b60-a35ab-6dab5-9f5ad-3d63d)
+
 O listă completă text-cu-text care să conțină absolut toate cele peste 35.000 - 40.000 de standarde utilizate în România nu poate fi redată într-un singur răspuns, 
 deoarece baza de date este uriașă și se modifică zilnic (prin anulări, înlocuiri sau adoptări de noi standarde europene și internaționale).
 
