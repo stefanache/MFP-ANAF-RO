@@ -93,12 +93,13 @@ Dacă descarci *catalogul* **ASRO**, standardele sunt împărțite pe **ICS**(**
       -- echipamente de protecție individuală(EPI).
 
 **3.** Cum poți obține lista completă pentru un anumit ***domeniu***<br/>
+
 Deoarece standardele sunt protejate de drepturi de autor și se achiziționează,<br/>
-ASRO oferă instrumente de filtrare gratuite:<br/>
+**ASRO** oferă instrumente de filtrare gratuite:<br/>
 
-   a)Accesează magazin.asro.ro.
+ - 3.a) Accesează magazin.asro.ro.
 
-   b)Folosește secțiunea "Căutare Standarde". De preferat [cautarea - avansata](https://webshop.softpepper.ro/Search);
+ - 3.b) Folosește secțiunea "Căutare Standarde". De preferat [cautarea - avansata](https://webshop.softpepper.ro/Search);
    <br/>Ex de cautare(criterii):
          Caută produs :     SR<br/>
          Domeniu(selectat): 93 - CONSTRUCŢII CIVILE<br/>
@@ -130,7 +131,7 @@ Puteti reduce la fel [aria de cautare](https://www.google.com/search?q=cuvinte+r
 <br/> S-ar putea sa regasiti acest Standard si in [Anexele](https://www.baiamare.ro/Baiamare/Hotarari/2026/24%20aprilie/hot211_26_Anexa_1_-_Fisa_de_proiect_Parc_Lac_Bodi_V2_CORR2.pdf) FIŞELOR UNOR PROIECTE DE INVESTIȚII / [Planurilor de Management](https://ro.scribd.com/document/688056915/Plan-Management) al diversilor [actori-institutionali](https://hcl.usr.ro/baiamare/2026/h210) sau agenti-economici, dar si in anumite [Rapoarte-MDLPA](https://ro.scribd.com/document/821181556/65f97d7a7be92774440923-1).
 <br/>Daca sunteti interesat(in a adanci cautarea despre acest standard), puteti consulta si alte [publicatii](https://www.asro.ro/wp-content/uploads/2022/09/BS-08-2022.pdf)/[colectii](https://webshop.softpepper.ro/ro/colectii-standarde), cum ar fi... ***Catalogul*** de [standarde](https://www.mdlpa.ro/uploads/articole/attachments/64678788f0e43100556137.pdf) folosite intr-un domeniu anume(spre ex. [***Constructii***](https://ednc.gov.md/wp-content/uploads/2025/12/Catalogul-Standartelor-Partea-I-Capitolul-1-la-01.01.2026.pdf)), publicat de autoritatile din **Republica-Moldova(MD)**.<br/>
 
-    c) Poți filtra<br/>
+ - 3.c) Poți filtra<br/>
     -după [Comitetul Tehnic](https://www.asro.ro/comitete-tehnice/)([CT](https://www.asro.ro/comitete-tehnice/)) (de exemplu,<br/>
       -- [CT](https://standard.md/?page_id=3241) 101 pentru Betoane,<br/>
       -- CT 345 pentru Securitate IT etc.)<br/>
