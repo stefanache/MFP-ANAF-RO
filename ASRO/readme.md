@@ -34,10 +34,10 @@ Membrii **ASRO** fac parte din anumite [**Colegii-ASRO**](https://www.asro.ro/me
 
 <hr/>
 
-O listă completă text-cu-text care să conțină absolut toate cele peste 35.000 - 40.000 de standarde utilizate în România nu poate fi redată într-un singur răspuns, 
-deoarece baza de date este uriașă și se modifică zilnic (prin anulări, înlocuiri sau adoptări de noi standarde europene și internaționale).
+O listă completă text-cu-text care să conțină absolut toate cele peste **35.000** - **40.000** de ***standarde utilizate în România*** nu poate fi redată într-un singur răspuns, 
+deoarece baza de date este uriașă și se modifică zilnic (prin *anulări*, *înlocuiri* sau *adoptări de noi* **standarde europene** și **internaționale**).
 
-Baza de date completă, oficială și actualizată în timp real poate fi accesată exclusiv prin intermediul Magazinului Online ASRO (Asociația de Standardizare din România), 
+Baza de date completă, oficială și actualizată în timp real poate fi accesată exclusiv prin intermediul ***Magazinului Online*** **ASRO**(**Asociația de Standardizare din România**), 
 la adresa: [magazin.asro.ro](https://magazin.asro.ro/).
 
 Unele stanadarde din acest magazin sunt chiar **gratuite* dar cand/dupa ce le comandati... puteti avea surpriza sa nu va parvina! :)
