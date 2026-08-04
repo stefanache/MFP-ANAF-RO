@@ -1,4 +1,5 @@
-Aici puteti gasi cateva informatii despre standarde.
+Aici puteti gasi cateva informatii despre Standardele utilizate in Romania.
+
 Despre aceste standarde ASRO puteti gasi multe evenimente legate de standardizare daca urmariti [Buletinele standardizarilor](https://www.asro.ro/buletinul-standardizarii/)
 
 [Buletinul standardizării](https://www.asro.ro/buletinul-standardizarii/) este o publicaţie lunară care cuprinde informaţii privind standardizarea naţională, europeană şi internaţională, prin publicarea listelor cu standardele române, europene şi internaţionale care au fost aprobate în luna anterioară, listelor cu proiectele de standarde române, europene şi internaţionale intrate în anchetă publică şi a listelor cu standardele române anulate.
