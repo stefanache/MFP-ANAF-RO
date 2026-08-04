@@ -42,7 +42,7 @@ Iată principalele categorii de standarde utilizate, codurile lor și unde le po
 
    -SR EN: Standarde europene adoptate obligatoriu și în România (ex: SR EN ISO 9001).
 
-   -SR ISO / SR IEC: Standarde internaționale preluate ca standarde române.
+   -[SR ISO](https://isopedia.ro/iso-9001/) / SR IEC: Standarde internaționale preluate ca standarde române.
  
    -SR pure: Standarde dezvoltate exclusiv la nivel național (în scădere, multe fiind înlocuite de cele europene).
 
