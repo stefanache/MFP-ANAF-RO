@@ -1,4 +1,4 @@
-Aici puteti gasi cateva informatii despre [Standardele utilizate in Romania/nationale](https://www.scribd.com/doc/168871544/STANDARDE-APROBATE).
+Aici puteti gasi cateva [informatii](https://www.yumpu.com/ro/document/view/4646981/standardizarea-nationala-asro) despre [Standardele utilizate in Romania/nationale](https://www.scribd.com/doc/168871544/STANDARDE-APROBATE).
 
 Despre aceste [standarde](https://www.scribd.com/document/697938661/SR-ISO-965-3-2012) [**ASRO**](https://www.prefbeton.ro/wp-content/uploads/2024/08/08-Standardele-europene-produse-beton-Jeni-TOMA-ASRO-Prefbeton-2018.pdf) puteti gasi multe evenimente legate de procesul de standardizare din RO, daca urmariti [Buletinele standardizarilor](https://www.asro.ro/buletinul-standardizarii/)
 
