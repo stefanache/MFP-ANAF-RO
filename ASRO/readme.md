@@ -4,7 +4,7 @@ Despre aceste [standarde](https://www.scribd.com/document/697938661/SR-ISO-965-3
 
 [Buletinul standardizării](https://www.asro.ro/buletinul-standardizarii/) este o publicaţie lunară care cuprinde informaţii privind standardizarea naţională, europeană şi internaţională, prin publicarea listelor cu standardele române, europene şi internaţionale care au fost aprobate în luna anterioară, listelor cu proiectele de standarde române, europene şi internaţionale intrate în anchetă publică şi a listelor cu standardele române anulate.
 
-Studiind [Buletinul standardizării](https://www.asro.ro/buletinul-standardizarii/) sunteţi la curent cu evoluţia activităţii de standardizare naţională(**ASRO**), *Internaţională*(***ISO***, ***IEC***) şi *Europeană* a standardelor(**CEN**, **CENELEC**, **ETSI**).
+Studiind [Buletinul standardizării](https://www.asro.ro/buletinul-standardizarii/) sunteţi la curent cu evoluţia activităţii de standardizare naţională(**ASRO**), *Internaţională*(***ISO***, ***IEC***) şi *Europeană* a standardelor(**CEN**, **CENELEC**, [**ETSI**](/https://www.prefbeton.ro/wp-content/uploads/2024/08/08-Standardele-europene-produse-beton-Jeni-TOMA-ASRO-Prefbeton-2018.pdf)).
 
 Aceste [buletine informative lunare](https://arts.org.ro/despre-noi/parteneri/62-asro.html) din anul curent dar si cele din arhiva(istoric), pot fi [descarcate](https://www.asro.ro/buletinul-standardizarii/) de pe site in format PDF.
 
