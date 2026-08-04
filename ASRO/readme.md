@@ -46,9 +46,9 @@ Pentru o imagine de ansamblu, standardele din România sunt structurate pe domen
 
 Asadar [**ASRO**](https://www.asro.ro/comitete-tehnice-si-sectoare-de-standardizare/) isi defasoara procesele de activitate in  Domenii de Activitate/Comitete Tehnice([CT](https://www.asro.ro/comitete-tehnice/)) si pe diverse Sectoare de Activitate([SA](https://www.asro.ro/sectoare-de-standardizare/))
 
-Iată principalele categorii de standarde utilizate, codurile lor și unde le poți descărca:
+Iată principalele **categorii de standarde** utilizate, codurile lor și unde le poți descărca:
 
-1. Tipuri de standarde după prefix
+**1.** Tipuri de standarde după prefix
    <BR/>Toate standardele valabile în România poartă indicativul
    SR (Standard Român),   urmat de originea lor:
 
@@ -58,7 +58,7 @@ Iată principalele categorii de standarde utilizate, codurile lor și unde le po
  
    -SR pure: Standarde dezvoltate exclusiv la nivel național (în scădere, multe fiind înlocuite de cele europene).
 
-3. Marile domenii și categorii de standarde
+**3.** Marile domenii și categorii de standarde
 
     Dacă descarci catalogul ASRO, standardele sunt împărțite pe **ICS**(**Clasificarea Internațională pentru Standarde**):
 
@@ -93,7 +93,7 @@ Iată principalele categorii de standarde utilizate, codurile lor și unde le po
       -- echipamente medicale,<br/>
       -- echipamente de protecție individuală(EPI).
 
-4. Cum poți obține lista completă pentru un anumit domeniu<br/>
+**4.** Cum poți obține lista completă pentru un anumit domeniu<br/>
 Deoarece standardele sunt protejate de drepturi de autor și se achiziționează,<br/>
 ASRO oferă instrumente de filtrare gratuite:<br/>
 
@@ -141,7 +141,7 @@ Puteti reduce la fel [aria de cautare](https://www.google.com/search?q=cuvinte+r
    d)Poți bifa opțiunea "*Doar standarde în vigoare*" pentru a elimina standardele *anulate*.
 
 
-5. Interesante sunt si colecttile de produse(grupari de standarde): ex pt eFactura:
+**5.** Interesante sunt si colectiile de produse(grupari de standarde): ex pt eFactura:
 
 [eFactura-colectie de standarde - 819](https://magazin.asro.ro/ro/colectie-standarde/819)
 
