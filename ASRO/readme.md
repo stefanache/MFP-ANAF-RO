@@ -158,4 +158,4 @@ Ex. -  daca vreti [Lista de Standarde](https://incd.ro/wp-content/uploads/2023/0
 
 Pt cautare de [**legi**](https://www.google.com/search?q=lege+5+lege+6&oq=lege+5+lege+6&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABgIGA0YHjIHCAIQABjvBTIKCAMQABiiBBiJBTIHCAQQABjvBTIHCAUQABjvBTIKCAYQABiABBiiBDIGCAcQRRg80gEJNzgyMmowajE1qAIIsAIB8QXkMZAju1QJ3fEF5DGQI7tUCd0&sourceid=chrome&source=chrome.rb&ie=UTF-8) puteti folosi de ex. **portalul-ul justitiei** [**legislatie.just.ro**](https://legislatie.just.ro/Public), cautand spre exemplu dupa... expresia textuala: [**LEGE 355 06/06/2002**](https://legislatie.just.ro/Public/RezultateCautare?titlu=355+06+06+%2F2002)
 
-
+Catalogul oficial de standarde din România (prin aplicația [InfoStandard](https://www.asro.ro/infostandard/)) livrează contra-cost documentele normative în formate tradiționale(PDF sau tipărit
