@@ -84,7 +84,7 @@ Laravel-Herd (sau <a href="https://www.digitalocean.com/community/tutorials/how-
 
 **g)** Configurare **Horizon**
 
-Proiectul foloseste **Laravel-Horizon** pentru a procesa... job-urile de import, in paralel. 
+Proiectul acesta (se) foloseste (de) **Laravel-Horizon** pentru a *procesa*... **job**-urile de **import**, *in* ***paralel***. 
 
 **Horizon** ofera si un *dashboard*, la **/horizon** pentru a monitoriza progresul import-ului in timp-real(TR).
 
