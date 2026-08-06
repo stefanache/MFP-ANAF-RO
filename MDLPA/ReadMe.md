@@ -34,7 +34,7 @@ Răspunzi strict în formatul structurat solicitat (JSON), fără text explicati
 
 </pre>
 
-Eu insa am folosit unul mult mai simplu: [Modelfile](https://github.com/stefanache/MFP-ANAF-RO/edit/main/MDLPA/Modelfile) 
+Eu insa am folosit ceva mai simplu: [Modelfile](https://github.com/stefanache/MFP-ANAF-RO/edit/main/MDLPA/Modelfile) 
 
 si apoi veti rula:
 
