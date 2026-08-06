@@ -148,3 +148,5 @@ Fisierul rezultat([***proiect_fundatie_inteligent.ifc***](https://github.com/ste
 Vor fi afisare **locurile**/plotii(**extrudate 3D**, in mod artificial pt a le face vizibile in **3D**) in conformitate cu imaginea originala([***qcad*/Screenshot_20260731_092127_com_dropbox_android_PreviewActivity.jpg**](https://github.com/stefanache/MFP-ANAF-RO/blob/main/MDLPA/qcad/Screenshot_20260731_092127_com_dropbox_android_PreviewActivity.jpg)).
 
 Acest [**BIMviewer**](https://bimviewer.org/) afiseaza structura generata in fisierul **IFC**(structurat astfel: **IfcProject** -> **IfcSite** -> **IfcBuilding** -> **IfcBuildingStorey**).
+
+A se vedea si [**Ghidurile nationale MDLPA**](https://www.mdlpa.ro/uploads/articole/attachments/64d0e746b4055671677104.pdf).
