@@ -28,7 +28,7 @@ Mariadb(DB)
 Docker(<i>optional</i>)
 </pre></b>
 
-<ins><b>A.</b>Instalare:</ins> <b> a) - h) </b>
+<ins><b>A. Instalare:</b></ins> <b> a) - h) </b>
 
  - PreConditii:
 
@@ -204,7 +204,7 @@ Joburile care au esuat (failed)
   Timeout de **4 ore** - pentru a permite procesarea fisierelor mari cu ***milioane*** de inregistrari
 
 
-<ins><b>B.</b>Rulare (<i>Development</i>)</ins> in/cu mediul <b>Laravel-Herd</b> ori in/cu mediul <b>Docker</b>:
+<ins><b>B. Rulare(<i>Development</i>)</b></ins> in/cu mediul <b>Laravel-Herd</b> ori in/cu mediul <b>Docker</b>:
 
   - ***i1.)*** - Cu **Laravel-Herd** (***Recomandat***)
 
