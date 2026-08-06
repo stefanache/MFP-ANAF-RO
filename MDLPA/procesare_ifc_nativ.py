@@ -1,13 +1,19 @@
+import os
 import ollama
 import json
 import re
+from dotenv import load_dotenv
 import ifcopenshell
 import ifcopenshell.template
 import ifcopenshell.api
 
-# Căi fișiere
-cale_imagine = "qcad/Screenshot_20260731_092127_com_dropbox_android_PreviewActivity.jpg"
-cale_iesire_ifc = "qcad/proiect_fundatie_inteligent.ifc"
+# Încărcarea variabilelor din fișierul .env
+load_dotenv()
+
+# Căi fișiere (extrase din .env sau folosite cele implicite dacă .env nu le definește)
+cale_imagine = os.getenv("CALE_IMAGINE", "qcad/Screenshot_20260731_092127_com_dropbox_android_PreviewActivity.jpg")
+cale_iesire_ifc = os.getenv("CALE_IESIRE_IFC", "qcad/proiect_fundatie_inteligent.ifc")
+nume_model_ai = os.getenv("MODEL_OLLAMA", "qwen-inginerie")
 
 # Prompt BIM definit pentru modelul LLM
 prompt_bim = """
@@ -33,12 +39,12 @@ Schema:
 ]
 """
 
-print("Rulăm modelul Qwen-Inginerie pentru generare structură nativă IFC4...")
+print(f"Rulăm modelul {nume_model_ai} pentru generare structură nativă IFC4...")
 
 try:
     # 1. Apelare model Ollama multimodal
     response = ollama.chat(
-        model='qwen-inginerie',
+        model=nume_model_ai,
         messages=[{
             'role': 'user',
             'content': prompt_bim,
@@ -72,7 +78,7 @@ try:
     # 3. Inițializare fișier IFC4 standardizat
     model_ifc = ifcopenshell.template.create(
         schema_identifier="IFC4",
-        filename="proiect_fundatie_inteligent.ifc"
+        filename=cale_iesire_ifc
     )
 
     # Structura ierarhică obligatorie din BIM (Spatial Structure)
@@ -137,7 +143,7 @@ try:
         if clasa_ifc == "IfcColumn":
             entitate_bim = model_ifc.create_entity("IfcColumn", GlobalId=ifcopenshell.guid.new(), Name=id_elem, Description=f"{label_ro} | {desc_en}", ObjectType=material, ObjectPlacement=forma_plasare, Representation=geometrie_finala)
         else:
-            entitate_bim = model_ifc.create_entity("IfcFooting", GlobalId=ifcopenshell.guid.new(), Name=id_elem, Description=f"{label_ro} | {desc_en}", ObjectType=material, ObjectPlacement=forma_furnizare, Representation=geometrie_finala) if 'forma_furnizare' in locals() else model_ifc.create_entity("IfcFooting", GlobalId=ifcopenshell.guid.new(), Name=id_elem, Description=f"{label_ro} | {desc_en}", ObjectType=material, ObjectPlacement=forma_plasare, Representation=geometrie_finala)
+            entitate_bim = model_ifc.create_entity("IfcFooting", GlobalId=ifcopenshell.guid.new(), Name=id_elem, Description=f"{label_ro} | {desc_en}", ObjectType=material, ObjectPlacement=forma_plasare, Representation=geometrie_finala)
 
         # Alocare obiect la nivelul de etaj corespunzător
         ifcopenshell.api.run("spatial.assign_container", model_ifc, products=[entitate_bim], relating_structure=etaj)
