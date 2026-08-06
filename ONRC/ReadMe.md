@@ -233,7 +233,7 @@ Viziteaza dashboardul **Horizon** la **http://info-firme.test/horizon** pentru a
 **docker run --rm info-firme:latest php artisan migrate**
 
 
-- **API:**
+<br/>- **API:**
 
  - *Interogare* prin **GET** pe baza ***CUI*** ori pe baza ***Nume-Companie***:
 
@@ -241,10 +241,12 @@ Viziteaza dashboardul **Horizon** la **http://info-firme.test/horizon** pentru a
 
 **curl -L https://lista-firme.info/api/v1/info?cui=XXXXXXX**
 
+
     - Pe baza ***Nume-Companie***:
 
 **curl -L https://lista-firme.info/api/v1/info?name=NumeFirma**
 
+ 
  - *Raspunsuri API*:
 
     - Raspunsul se returneaza in format **JSON** cu informatii despre ***firma***, ***adresa***, ***reprezentanti***, etc.
