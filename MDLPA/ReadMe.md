@@ -18,7 +18,7 @@ un fișier de configurare .env.Iată cum configurezi proiectul pas cu pas folosi
 Creează un dosar numit ProiectBIM pe calculatorul tău. 
 
 Structura lui trebuie să arate așa:
-
+"""
 ProiectBIM/
    ├── .venv/               # Folderul cu mediul virtual (se generează automat)
    ├── qcad/
@@ -26,6 +26,8 @@ ProiectBIM/
    ├── .env                 # Fișierul cu variabilele de mediu
    ├── .gitignore           # (Opțional) Pentru a nu urca fișierele inutile pe GitHub
    └── procesare_ifc_nativ.py
+"""
+
 2. Crearea și activarea mediului virtual (env)Deschide terminalul în folderul ProiectBIM și rulează comenzile corespunzătoare sistemului tău de operare:
 
 Pe Windows:
@@ -39,8 +41,9 @@ Pe macOS / **Linux:**
 
 bash:
 
-python3 -m venv .venv
-source .venv/bin/activate
+** python3 -m venv .venv
+
+source .venv/bin/activate**
 
 (După activare, vei vedea (.venv) scris la începutul liniei din terminal).
 
