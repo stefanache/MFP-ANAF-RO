@@ -197,7 +197,7 @@ Procesare in batch-uri de **1000** inregistrari pentru performanta optima
 
 Retry logic automat - daca importul esueaza pe deadlock **MySQL**, se incearca din nou (max 3 incercari)
 
-Deduplicare intre batch-uri - nu se importeaza inregistrarile duplicate
+*De***duplicare** intre *batch*-uri - nu se importeaza inregistrarile **duplicate**
 
 Validare ***CUI*** - se importeaza doar inregistrarile cu ***CUI*** valid (***non-gol*** si *!=* "**0**")
 
@@ -208,9 +208,9 @@ Timeout de 4 ore - pentru a permite procesarea fisierelor mari cu ***milioane***
 
   - ***i1.)*** - Cu **Laravel-Herd** (***Recomandat***)
 
-**Laravel-Herd** lanseaza automat aplicatia la **http://info-firme.test** in background.
+**Laravel-Herd** lanseaza automat aplicatia la **http://info-firme.test** in *background(&)*.
 
-Asigura-te ca **Horizon** ruleaza intr-un terminal separat:
+Asigura-te ca **Horizon** ruleaza intr-un terminal ashell/CLI/bash separat(**Ctrl+Alt+T**):
 
 **php artisan horizon**
   
@@ -220,15 +220,15 @@ Viziteaza dashboardul **Horizon** la **http://info-firme.test/horizon** pentru a
 
  Proiectul vine cu **Laravel-Octane** si ***FrankenPHP*** ca ***server web***.
 
-       i2-1.) Build imagine:
+       i2-1.) --Build imagine:
 
 **docker build -t info-firme:latest -f FrankenPHP.Alpine.Dockerfile .**
 
-      i2-2.) Rulare imagine (default port **8000**):
+      i2-2.) --Rulare imagine (default port **8000**):
 
 **docker run -d -e WITH_HORIZON=true -p 8000:8000 --rm info-firme:latest**
 
-      i2-3.) Rulare comenzi artisan in container:
+      i2-3.) --Rulare comenzi artisan in container:
 
 **docker run --rm info-firme:latest php artisan migrate**
 
