@@ -1,14 +1,22 @@
-Un exemplu CAD de transformare jpg(desen tehnic fundatie/sapatura/ground-level) transformat in IFC(standard 3d al BIM):
+Un exemplu CAD de transformare **.jpg**(desen tehnic fundatie/sapatura/ground-level) transformat in **IFC** (standard **3D** al **BIM**):
 
-Am un GPU Nvidia RTX 4060 8GB VRAM
+Am un ***GPU*** **Nvidia RTX 4060 8GB VRAM**
 
-Am instalat Ollama pe Ubuntu 24.04 LTS:
-Si apoi am instalat 2 modele 
+Am instalat **Ollama** pe **Ubuntu 24.04 LTS**:
+
+Si apoi am instalat 2 modele(**VLM**-uri)
 
  - qwen2.5vl:7b                           5ced39dfa4ba    6.0 GB    29 hours ago    
- - **qwen2.5vl:3b**                           fb90415cde1e    3.2 GB    29 hours ago  (modelul VLM folosit in cele din urma- a SE VEDEA  Modelfile !!!) 
+ - **qwen2.5vl:3b**                           fb90415cde1e    3.2 GB    29 hours ago  (modelul VLM folosit in cele din urma- a SE VEDEA  **Modelfile** !!!) 
 
-Pentru a gestiona corect dependențele, variabilele de mediu și pentru a izola acest proiect ca un profesionist, este recomandat să folosești un mediu virtual Python (.venv) și un fișier de configurare .env.Iată cum configurezi proiectul pas cu pas folosind această structură curată:1. Structura finală a folderelorCreează un dosar numit ProiectBIM pe calculatorul tău. 
+Pentru a gestiona corect dependențele, variabilele de mediu și pentru a izola acest proiect ca un profesionist, este recomandat să folosești un mediu virtual Python (.venv) și 
+
+un fișier de configurare .env.Iată cum configurezi proiectul pas cu pas folosind această structură curată:
+
+1. Structura finală a folderelor
+
+Creează un dosar numit ProiectBIM pe calculatorul tău. 
+
 Structura lui trebuie să arate așa:
 
 ProiectBIM/
