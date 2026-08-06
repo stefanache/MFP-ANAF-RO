@@ -44,23 +44,23 @@ Laravel-Herd (sau <a href="https://www.digitalocean.com/community/tutorials/how-
 
  - Pasi de instalare:
 
-a) Clonare **repo**
+**a)** Clonare **repo**
 
 **git clone git@github.com:tudorr89/info-firme.git**
 
 **cd info-firme**
 
-b) Creare fisier **.env**
+**b)** Creare fisier **.env**
 
 **cp .env.example .env**
 
-c) Instalare dependente:
+**c)** Instalare dependente:
 
 **composer install**
 
 **npm install**
 
-d) Configurare **baza de date(BD)**
+**d)** Configurare **baza de date(BD)**
 
 <pre>
  # Editeaza .env cu detaliile conexiunii MariaDB/MySQL
@@ -72,17 +72,17 @@ d) Configurare **baza de date(BD)**
  # DB_PASSWORD=
 </pre>
 
-e) Generare cheia de aplicatie(**key**) si rulare migrari
+**e)** Generare cheia de aplicatie(**key**) si rulare migrari
 
 **php artisan key:generate**
 
 **php artisan migrate**
 
-f) Build assets frontend
+**f)** Build assets frontend
 
 **npm run build**
 
-g) Configurare **Horizon**
+**g)** Configurare **Horizon**
 
 Proiectul foloseste **Laravel-Horizon** pentru a procesa... job-urile de import, in paralel. 
 
@@ -93,7 +93,7 @@ Deschide intr-un terminal separat(**Ctrl+Alt+T**):
 **php artisan horizon**
 
 
-h) Import Date:
+**h)** Import Date:
 
 Descarcarea fisierelor ***CSV***:
 - *Fisiere **Obligatorii**:*
@@ -204,9 +204,9 @@ Validare ***CUI*** - se importeaza doar inregistrarile cu ***CUI*** valid (***no
 Timeout de 4 ore - pentru a permite procesarea fisierelor mari cu ***milioane*** de inregistrari
 
 
- i) Rulare (***Development***):
+**i)** Rulare (***Development***):
 
-  - i1.) Cu **Laravel-Herd** (***Recomandat***)
+  - ***i1.)*** Cu **Laravel-Herd** (***Recomandat***)
 
 **Laravel-Herd** lanseaza automat aplicatia la **http://info-firme.test** in background.
 
@@ -216,21 +216,22 @@ Asigura-te ca **Horizon** ruleaza intr-un terminal separat:
   
 Viziteaza dashboardul **Horizon** la **http://info-firme.test/horizon** pentru a monitoriza *joburile*.
 
-  - i2.) Cu **Docker** (***Optional*** ca alternativa La **Laravel-Herd**)
+  - ***i2.)*** Cu **Docker** (***Optional*** ca alternativa La **Laravel-Herd**)
 
  Proiectul vine cu **Laravel-Octane** si ***FrankenPHP*** ca ***server web***.
 
-i2-1.) Build imagine:
+       i2-1.) Build imagine:
 
 **docker build -t info-firme:latest -f FrankenPHP.Alpine.Dockerfile .**
 
-i2-2.) Rulare imagine (default port 8000):
+      i2-2.) Rulare imagine (default port **8000**):
 
 **docker run -d -e WITH_HORIZON=true -p 8000:8000 --rm info-firme:latest**
 
-i2-3.) Rulare comenzi artisan in container:
+      i2-3.) Rulare comenzi artisan in container:
 
 **docker run --rm info-firme:latest php artisan migrate**
+
 
 **API:**
 
