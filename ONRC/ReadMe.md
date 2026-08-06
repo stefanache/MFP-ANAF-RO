@@ -100,13 +100,13 @@ Descarcarea fisierelor ***CSV***:
 
 Descarca fisierele **CSV** de pe ***data.gov.ro*** - **Registrul Comertului**:
 
-**od_firme.csv** - Informatii despre firme
-**od_stare_firma.csv** - Starea firmelor
-**od_reprezentanti_legali.csv** - Reprezentanti legali
-**od_reprezentanti_if.csv** - Reprezentanti persoane fizice
-**od_sucursale_alte_state_membre.csv** - Sucursale in alte state membre
+**od_firme.csv** - Informatii despre firme<br/>
+**od_stare_firma.csv** - Starea firmelor<br/>
+**od_reprezentanti_legali.csv** - Reprezentanti legali<br/>
+**od_reprezentanti_if.csv** - Reprezentanti persoane fizice<br/>
+**od_sucursale_alte_state_membre.csv** - Sucursale in alte state membre<br/>
 
-- *Fisiere Optionale (CAEN):*
+- *Fisiere Optionale (**CAEN**):*
 
 Pentru a importa clasificarile **CAEN**(**C**lasificarea **A**ctivităților în **E**conomia **N**ațională), descarca din **data.gov.ro** - **CAEN**:
 
