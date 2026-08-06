@@ -22,10 +22,10 @@ Deoarece e instabil si din experienta mea(**@tudorr89**), mai mereu in mentenant
 Stack folosit:
 
 <pre>
-Laravel
+Laravel(PhP-framework)
 Redis
-Mariadb
-Docker(optional)
+Mariadb(DB)
+Docker(***optional***)
 </pre>
 
 <ins>Instalare</ins>
@@ -36,7 +36,7 @@ Docker(optional)
 PHP 8.3+
 Composer
 Redis
-MariaDB/MySQL
+MariaDB/MySQL(DB)
 Laravel-Herd (sau Docker)
 </pre></b>
 
