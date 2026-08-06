@@ -11,7 +11,7 @@ IV. [Data-GOV-RO: Firme înregistrate la Registrul Comerțului până la data de
 
 <hr/>
 
-**II**. Reprezinta un [proiect](https://github.com/tudorr89/info-firme) simplu scris in **Laravel**, care ofera *informatii* despre *toate firmele inregistrate (d)in Romania*(**ONRC**: ***RECOM***). 
+**II**. Reprezinta un [proiect](https://github.com/tudorr89/info-firme) simplu(<ins>**Informatii Firme**</ins>), scris in **Laravel**, care ofera *informatii* despre *toate firmele inregistrate (d)in Romania*(**ONRC**: ***RECOM***). 
 
 Nu are interfata, totul se face din **CLI**.
 
