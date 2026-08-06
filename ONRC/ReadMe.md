@@ -91,7 +91,7 @@ Deschide intr-un terminal separat:
 **php artisan horizon**
 
 
-g) Import Date:
+h) Import Date:
 
 Descarcarea fisierelor CSV
 
