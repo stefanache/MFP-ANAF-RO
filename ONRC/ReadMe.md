@@ -23,9 +23,9 @@ Deoarece e instabil si din experienta mea(**@tudorr89**), mai mereu in mentenant
 
 <b><pre>
 Laravel(PhP-framework)
-Redis
-Mariadb(DB)
-Docker(<i>optional</i>)
+[Redis](https://www.google.com/search?q=Pentru+a+importa+clasificarile+CAEN%28Clasificarea+Activit%C4%83%C8%9Bilor+%C3%AEn+Economia+Na%C8%9Bional%C4%83%29%2C+descarca+din+data.gov.ro+-+CAEN%3A%0A%0An_caen.csv+-+Definitii+CAEN%0An_caen_versiune.csv+-+Versiuni+CAEN%0Aod_caen_autorizat.csv+-+Legatura+intre+companii+si+coduri+CAEN&sourceid=chrome&ie=UTF-8&amc=1&aep=42&cud=0&source=chrome.crn.rb&atvm=2&mstk=AUtExfCJua-zT4Uet8sj0L9r_yg-u0Z8Ai1ifRS1ZD_HoCZ7_avOB9HFXDE-U8Ur1istkaTARphJmUS5gbdQ5g59n6txwuWd48nf_K0wrsXtpf6-qmowx_Yw8Rz3wLKAz954CrceCNw6mJ4Ce6x9HIkFXsrRsTkbRQfN1I20HG-SPIVHE6HNGICTw3otijmV-OdqcMxHd4-THwVvKFIpOUZMT2o3A1BWa95P7LANqlQ41a0Uw9Xr30KbF8Pl0dkrYx3spoZ2B-HsFEIypM7KF-MHSIjLjGQDNvVeGBd3yhGYiOuypgHOg-EckcyMaS35Xl_YIMlEBtjy8Z3rmD-fQanvb6DGlhcJHqrvig&csuir=1&mtid=88d0atGhFci6wPAP6p3LkAo&udm=50)(Message-Broker sau Job-Queue)
+Mariadb/MySQL(DB)
+Docker(<i>optional</i> -ca mediu de rulare izolat)
 </pre></b>
 
 <ins><b>A. Instalare:</b></ins> <b> a) - h) </b>
