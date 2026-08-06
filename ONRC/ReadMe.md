@@ -125,7 +125,7 @@ Plaseaza toate fisierele in directorul ***storage/app/imports/*** &
    
 **php artisan import:all**
 
-Aceasta va importa automat toate cele 5 fisiere **CSV **din directorul **storage/app/imports/**.
+Aceasta va **importa** ***automat*** <ins>toate</ins> cele **5** ***fisiere*** **CSV** din directorul **storage/app/imports/**.
 
   - ***Varianta 2***: Import Fisiere Individuale:
 
