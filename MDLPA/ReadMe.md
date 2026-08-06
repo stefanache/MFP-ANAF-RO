@@ -58,9 +58,9 @@ source .venv/bin/activate
 5. Configurarea fișierului .envCreează un fișier text simplu în folderul principal, numește-l exact .env și adaugă în el configurările
    (astfel poți schimba imaginea sau modelul AI fără să modifici codul python):
 
-env
+.env
 <pre>
-MODEL_AI=qwen2.5-vision:3b
+MODEL_AI=qwen2.5vl:3b
 CALE_IMAGINE=qcad/plan_fundație.jpg
 CALE_IESIRE_IFC=qcad/proiect_fundatie_inteligent.ifc
 </pre>
