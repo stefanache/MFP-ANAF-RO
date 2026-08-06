@@ -129,37 +129,37 @@ Aceasta va importa automat toate cele 5 fisiere **CSV **din directorul **storage
 
   - ***Varianta 2***: Import Fisiere Individuale:
 
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9702;</span>Importa doar companiile(**PJ**):
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9702;</span>V2.1) Importa doar companiile(**PJ**):
 
 **php artisan import:companies storage/app/imports/od_firme.csv**
 
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9702;</span>Importa starile firmelor(**status-PJ**):
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9702;</span>V2.2) Importa starile firmelor(**status-PJ**):
 
 **php artisan import:status storage/app/imports/od_stare_firma.csv**
 
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9702;</span>Importa reprezentantii-legali(**staff-PJ**):
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9702;</span>V2.3) Importa reprezentantii-legali(**staff-PJ**):
 
 **php artisan import:legal-representatives storage/app/imports/od_reprezentanti_legali.csv**
 
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9702;</span>Importa reprezentantii persoane-fizice(**PF from PJ**):
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9702;</span>V2.4) Importa reprezentantii persoane-fizice(**PF from PJ**):
 
 **php artisan import:natural-persons storage/app/imports/od_reprezentanti_if.csv**
 
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9702;</span>Importa sucursalele din alte state membre:
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9702;</span>V2.5) Importa sucursalele din alte state membre:
 
 **php artisan import:eu-branches storage/app/imports/od_sucursale_alte_state_membre.csv**
 
   - ***Varianta 3***: Import **CAEN**(*Doar daca fisierele sunt disponibile!*)
 
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9702;</span>Importa definitiile **CAEN**:
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9702;</span>V3.1) Importa definitiile **CAEN**:
 
 **php artisan import:caen-definition storage/app/imports/n_caen.csv**
 
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9702;</span>Importa versiunile **CAEN**:
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9702;</span>V3.2) Importa versiunile **CAEN**:
 
 **php artisan import:caen-version storage/app/imports/n_caen_versiune.csv**
 
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9702;</span>Importa legaturile companii-**CAEN**:
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9702;</span>V3.3) Importa legaturile companii-**CAEN**:
 
 **php artisan import:caen-company storage/app/imports/od_caen_autorizat.csv**
 
