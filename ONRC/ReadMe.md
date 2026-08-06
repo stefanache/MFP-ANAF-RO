@@ -170,7 +170,7 @@ Daca ai deja fisierele **CAEN** descarcate:
 <br/>Cand rulezi **php artisan import:all**, acestea vor fi importate automat daca sunt in **storage/app/imports/**. 
 <br/>Daca lipsesc, comanda va arata un mesaj cu instructiuni.
 
-*Monitorizare Import*
+*Monitorizare **Import***
 
 In timp ce import-ul decurge, viziteaza dashboardul **Horizon** pentru a vedea progresul in timp-real(TR):
 
