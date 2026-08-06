@@ -61,16 +61,16 @@ c) Instalare dependente:
 d) Configurare **baza de date(BD)**
 
 <pre>
-# Editeaza .env cu detaliile conexiunii MariaDB/MySQL
-# DB_CONNECTION=mysql
-# DB_HOST=127.0.0.1
-# DB_PORT=3306
-# DB_DATABASE=info_firme
-# DB_USERNAME=root
-# DB_PASSWORD=
+ # Editeaza .env cu detaliile conexiunii MariaDB/MySQL
+ # DB_CONNECTION=mysql
+ # DB_HOST=127.0.0.1
+ # DB_PORT=3306
+ # DB_DATABASE=info_firme
+ # DB_USERNAME=root
+ # DB_PASSWORD=
 </pre>
 
-e) Generare cheia de aplicatie si rulare migrari
+e) Generare cheia de aplicatie(**key**) si rulare migrari
 
 **php artisan key:generate**
 
@@ -82,11 +82,11 @@ f) Build assets frontend
 
 g) Configurare **Horizon**
 
-Proiectul foloseste Laravel Horizon pentru a procesa job-urile de import in paralel. 
+Proiectul foloseste **Laravel-Horizon** pentru a procesa... job-urile de import, in paralel. 
 
-Horizon ofera si un dashboard la /horizon pentru a monitoriza progresul importului in timp real.
+**Horizon** ofera si un *dashboard*, la **/horizon** pentru a monitoriza progresul import-ului in timp-real(TR).
 
-Deschide intr-un terminal separat:
+Deschide intr-un terminal separat(**Ctrl+Alt+T**):
 
 **php artisan horizon**
 
