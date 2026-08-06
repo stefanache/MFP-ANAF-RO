@@ -189,19 +189,19 @@ Joburile care au esuat (failed)
 
 Statistici despre performanta
 
-Detalii despre import:
+- Detalii despre import:
 
-Import-ul este asincron - joburile sunt procesate in background de **Horizon**
-
-Procesare in batch-uri de **1000** inregistrari pentru performanta optima
-
-Retry logic automat - daca importul esueaza pe deadlock **MySQL**, se incearca din nou (max 3 incercari)
-
-*De***duplicare** intre *batch*-uri - nu se importeaza inregistrarile **duplicate**
-
-Validare ***CUI*** - se importeaza doar inregistrarile cu ***CUI*** valid (***non-gol*** si *!=* "**0**")
-
-Timeout de 4 ore - pentru a permite procesarea fisierelor mari cu ***milioane*** de inregistrari
+ Import-ul este **asincron** - job_urile sunt procesate in *back*ground de **Horizon**
+ 
+ Procesare in **batch**-uri de **1000** inregistrari pentru performanta optima
+ 
+ Retry logic automat - daca import_ul esueaza pe *dead*lock **MySQL**, se incearca din nou (max 3 incercari)
+ 
+ *De***duplicare** intre **batch**_uri - nu se importeaza inregistrarile **duplicate**
+ 
+ Validare ***CUI*** - se importeaza doar inregistrarile cu ***CUI*** valid (***non-gol*** si *!=* "**0**")
+ 
+ Timeout de **4 ore** - pentru a permite procesarea fisierelor mari cu ***milioane*** de inregistrari
 
 
 **i)** Rulare (***Development***) in/cu mediul **Laravel-Herd** ori in/cu mediul **Docker**:
