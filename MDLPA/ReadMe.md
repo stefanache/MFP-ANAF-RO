@@ -64,3 +64,18 @@ MODEL_AI=qwen2.5vl:3b
 CALE_IMAGINE=qcad/plan_fundație.jpg
 CALE_IESIRE_IFC=qcad/proiect_fundatie_inteligent.ifc
 </pre>
+
+
+6. Rularea proiectului
+7.
+8. Ori de câte ori vrei să lucrezi la proiect, deschizi terminalul în acest folder și te asiguri că pornești mediul virtual (
+
+   .venv\Scripts\activate sau
+
+   **source .venv/bin/activate**),
+
+   apoi rulezi:
+
+   bash:
+
+   **python procesare_ifc_nativ.py**
