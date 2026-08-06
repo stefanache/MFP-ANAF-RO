@@ -60,7 +60,7 @@ c) Instalare dependente:
 
 d) Configurare **baza de date(BD)**
 
-<pre></pre>
+<pre>
 # Editeaza .env cu detaliile conexiunii MariaDB/MySQL
 # DB_CONNECTION=mysql
 # DB_HOST=127.0.0.1
