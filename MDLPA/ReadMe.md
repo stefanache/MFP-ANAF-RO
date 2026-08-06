@@ -11,7 +11,7 @@ Si apoi am instalat 2 modele(**VLM**-uri) : **ollama pull qwen2.5-vision** sau d
 
 bash:
 
-**ollama run qwen2.5vl:3b**
+  **ollama run qwen2.5vl:3b**
 
 Daca vreti sa umblati la parametrii veti crea fisierul Modelfile .
 
@@ -38,7 +38,7 @@ Eu insa am folosit ceva mai simplu: [Modelfile](https://github.com/stefanache/MF
 
 si apoi veti rula:
 
-**ollama create qwen-inginerie -f ./Modelfile**
+  **ollama create qwen-inginerie -f ./Modelfile**
 
 El poate fi folosit acum ca un model obisnuit cu  cda 
 
@@ -91,7 +91,7 @@ source .venv/bin/activate
 
    bash:
 
-   **pip install ifcopenshell ollama python-dotenv**
+    **pip install ifcopenshell ollama python-dotenv**
 
 5. Configurarea fișierului **.env**
 
@@ -100,9 +100,9 @@ source .venv/bin/activate
 
 **.env**
 <pre>
-MODEL_AI=qwen-inginerie:latest 
-CALE_IMAGINE=qcad/plan_fundație.jpg
-CALE_IESIRE_IFC=qcad/proiect_fundatie_inteligent.ifc
+  MODEL_AI=qwen-inginerie:latest 
+  CALE_IMAGINE=qcad/plan_fundație.jpg
+  CALE_IESIRE_IFC=qcad/proiect_fundatie_inteligent.ifc
 </pre>
 
 
@@ -112,16 +112,16 @@ Ori de câte ori vrei să lucrezi la proiect, deschizi terminalul în acest fold
 
    .venv\Scripts\activate sau
 
-   **source .venv/bin/activate**),
+     **source .venv/bin/activate**),
 
    apoi rulezi:
 
    bash:
 
-   **python procesare_ifc_nativ.py**
+     **python procesare_ifc_nativ.py**
 
    Apoi inchixi mediul cu
 
    bash:
 
-   **deactivate**
+     **deactivate**
