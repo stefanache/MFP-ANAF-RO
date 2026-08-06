@@ -1,0 +1,144 @@
+#<style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            overflow: hidden; /* Previne scroll-ul pe toată pagina */
+        }
+
+        /* Top Header */
+        header {
+            background-color: #2c3e50;
+            color: white;
+            height: 60px;
+            display: flex;
+            justify-content: flex-end;
+            align-items: center;
+            padding: 0 20px;
+            border-bottom: 3px solid #34495e;
+        }
+
+        .user-info {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+        }
+
+        .username {
+            font-weight: 600;
+        }
+
+        .btn-logout {
+            background-color: #e74c3c;
+            color: white;
+            text-decoration: none;
+            padding: 8px 16px;
+            border-radius: 4px;
+            font-size: 14px;
+            transition: background 0.2s;
+        }
+
+        .btn-logout:hover {
+            background-color: #c0392b;
+        }
+
+        /* Containerul Principal (Meniu + Conținut) */
+        .main-container {
+            display: flex;
+            flex: 1;
+            height: calc(100vh - 60px); /* Ocupă restul ecranului sub header */
+        }
+
+        /* Meniu Lateral Stânga (20%) */
+        aside {
+            width: 20px; /* Fallback pentru browsere vechi */
+            flex: 0 0 20%; /* Ocupă fix 20% fără să se micșoreze */
+            background-color: #34495e;
+            overflow-y: auto; /* Zona devine derulabilă dacă opțiunile depășesc înălțimea */
+            padding: 20px 0;
+        }
+
+        /* Stiluri pentru titlurile de grupuri din meniu */
+        .menu-category {
+            color: #7f8c8d;
+            font-size: 12px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            padding: 15px 20px 5px 20px;
+            font-weight: bold;
+        }
+
+        .menu-list {
+            list-style: none;
+            margin-bottom: 15px;
+        }
+
+        .menu-list li a {
+            display: block;
+            color: #ecf0f1;
+            padding: 12px 20px;
+            text-decoration: none;
+            border-left: 4px solid transparent;
+            transition: all 0.2s;
+        }
+
+        .menu-list li a:hover, .menu-list li a.active {
+            background-color: #2c3e50;
+            border-left-color: #3498db;
+            color: white;
+        }
+
+        /* Stil special pentru butonul de deconectare din meniu */
+        .menu-list li a.menu-logout {
+            color: #e74c3c;
+        }
+        .menu-list li a.menu-logout:hover {
+            background-color: #c0392b;
+            border-left-color: #e74c3c;
+            color: white;
+        }
+
+        /* Zonă Conținut Dreapta (80%) */
+        main {
+            flex: 1; /* Ocupă tot spațiul rămas (80%) */
+            background-color: #f8f9fa;
+            overflow-y: auto; /* Scroll separat doar pentru conținut */
+            padding: 30px;
+        }
+   #</style>
+   
+   #<style>
+        /* STILURI NOI PENTRU PLIEREA CATEGORIILOR PRINCIPALE */
+        .menu-category {
+            cursor: pointer;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            user-select: none;
+        }
+
+        /* Adăugăm o săgeată vizuală pentru categoriile principale */
+        .category-icon::after {
+            content: '▼';
+            font-size: 10px;
+            transition: transform 0.3s ease;
+            display: inline-block;
+        }
+
+        /* Rotim săgeata când categoria este închisă (collapsed) */
+        .menu-category.collapsed .category-icon::after {
+            transform: rotate(-90deg);
+        }
+
+        /* Ascundem listele de sub categoriile care au clasa 'collapsed' */
+        .menu-category.collapsed + .menu-list {
+            display: none;
+        }
+    #</style>
