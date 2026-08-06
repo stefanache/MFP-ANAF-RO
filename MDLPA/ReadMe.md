@@ -99,6 +99,7 @@ source .venv/bin/activate
    (astfel poți schimba imaginea sau modelul AI fără să modifici codul python):
 
 **.env**
+
 <pre>
   MODEL_AI=qwen-inginerie:latest 
   CALE_IMAGINE=qcad/plan_fundație.jpg
@@ -110,19 +111,20 @@ source .venv/bin/activate
 
 Ori de câte ori vrei să lucrezi la proiect, deschizi terminalul în acest folder și te asiguri că pornești mediul virtual (
 
-  .venv\Scripts\activate sau
+.venv\Scripts\activate sau
 
-     <B>source .venv/bin/activate</B>
+<B>source .venv/bin/activate</B>
+
 ),
 
    apoi rulezi:
 
-   bash:
+bash:
 
-    <B>python procesare_ifc_nativ.py</B>
+<B>python procesare_ifc_nativ.py</B>
 
    Apoi inchiZi mediul cu
 
-   bash:
+bash:
 
-     <B>deactivate</B>
+<B>deactivate</B>
