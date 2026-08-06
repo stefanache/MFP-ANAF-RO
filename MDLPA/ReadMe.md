@@ -6,7 +6,7 @@ Am instalat Ollama pe Ubuntu 24.04 LTS:
 Si apoi am instalat 2 modele 
 
  - qwen2.5vl:7b                           5ced39dfa4ba    6.0 GB    29 hours ago    
- - qwen2.5vl:3b                           fb90415cde1e    3.2 GB    29 hours ago   
+ - **qwen2.5vl:3b**                           fb90415cde1e    3.2 GB    29 hours ago  (cel folosit in cele din urma- a SE VEDEA  Modelfile !!!) 
 
 Pentru a gestiona corect dependențele, variabilele de mediu și pentru a izola acest proiect ca un profesionist, este recomandat să folosești un mediu virtual Python (.venv) și un fișier de configurare .env.Iată cum configurezi proiectul pas cu pas folosind această structură curată:1. Structura finală a folderelorCreează un dosar numit ProiectBIM pe calculatorul tău. 
 Structura lui trebuie să arate așa:
