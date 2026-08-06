@@ -228,7 +228,7 @@ Viziteaza dashboardul **Horizon** la **http://info-firme.test/horizon** pentru a
 
 **docker run -d -e WITH_HORIZON=true -p 8000:8000 --rm info-firme:latest**
 
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9702;</span>i2-3.) --Rulare comenzi **artisan** in *container*(Docker):
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9702;</span>i2-3.) --Rulare comenzi **artisan** in *container*(**Docker**):
 
 **docker run --rm info-firme:latest php artisan migrate**
 
