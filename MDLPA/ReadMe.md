@@ -93,12 +93,14 @@ source .venv/bin/activate
 
    **pip install ifcopenshell ollama python-dotenv**
 
-5. Configurarea fișierului .envCreează un fișier text simplu în folderul principal, numește-l exact .env și adaugă în el configurările
+5. Configurarea fișierului **.env**
+
+   Creează un fișier text simplu în folderul principal, numește-l exact **.env** și adaugă în el configurările
    (astfel poți schimba imaginea sau modelul AI fără să modifici codul python):
 
-.env
+**.env**
 <pre>
-MODEL_AI=qwen2.5vl:3b
+MODEL_AI=qwen-inginerie:latest 
 CALE_IMAGINE=qcad/plan_fundație.jpg
 CALE_IESIRE_IFC=qcad/proiect_fundatie_inteligent.ifc
 </pre>
