@@ -44,7 +44,7 @@ El poate fi folosit acum ca un model obisnuit cu  cda
 
 bash:
 
-**ollama run qwen-inginerie:latest**
+ **ollama run qwen-inginerie:latest**
 
 
 Pentru a gestiona corect dependențele, variabilele de mediu și pentru a izola acest proiect ca un profesionist, este recomandat să folosești un mediu virtual Python (.venv) și 
