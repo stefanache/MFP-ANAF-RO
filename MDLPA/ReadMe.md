@@ -41,17 +41,19 @@ Pe macOS / **Linux:**
 
 bash:
 
-** python3 -m venv .venv
-
+"""
+**python3 -m venv .venv
 source .venv/bin/activate**
 
-(După activare, vei vedea (.venv) scris la începutul liniei din terminal).
+"""
+
+(După activare, vei vedea (**.venv**) scris la începutul liniei din terminal).
 
 3. Instalarea librăriilor în mediuCu mediul virtual activat, instalează pachetele necesare, inclusiv python-dotenv pentru a putea citi fișierul .env:
 
    bash:
 
-   pip install ifcopenshell ollama python-dotenv
+   **pip install ifcopenshell ollama python-dotenv**
 
 5. Configurarea fișierului .envCreează un fișier text simplu în folderul principal, numește-l exact .env și adaugă în el configurările
    (astfel poți schimba imaginea sau modelul AI fără să modifici codul python):
