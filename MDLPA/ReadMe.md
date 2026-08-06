@@ -38,7 +38,7 @@ Eu insa am folosit ceva mai simplu: [Modelfile](https://github.com/stefanache/MF
 
 si apoi veti rula:
 
-**ollama create qwen-inginerie -f ./Modelfile **
+**ollama create qwen-inginerie -f ./Modelfile**
 
 El poate fi folosit acum ca un model obisnuit cu  cda 
 
