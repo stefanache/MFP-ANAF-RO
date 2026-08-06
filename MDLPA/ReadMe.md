@@ -123,7 +123,7 @@ bash:
 
 <B>python procesare_ifc_nativ.py</B>
 
-   Apoi inchiZi mediul cu
+   Apoi inchizi mediul cu
 
 bash:
 
