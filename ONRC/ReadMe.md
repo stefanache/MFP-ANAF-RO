@@ -40,7 +40,7 @@ MariaDB/MySQL(DB)
 Laravel-Herd (sau Docker)
 </pre></b>
 
-Pentru varianta utilizarii **PhP**  in tandem/cuplat cu **MySQL** se poate utiliza [**XAMPP**](https://www.apachefriends.org/download.html)(are in componenta si ***PhPMyAdmin*** pt gestionare BD **MySQL**)
+*Nota*: Pentru varianta utilizarii **PhP**  in tandem/cuplat cu **MySQL** se poate utiliza [**XAMPP**](https://www.apachefriends.org/download.html)(are in componenta si ***PhPMyAdmin*** pt gestionare BD **MySQL**)
 
  - Pasi de instalare:
 
