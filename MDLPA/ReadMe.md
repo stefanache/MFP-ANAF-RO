@@ -78,7 +78,7 @@ Structura lui trebuie să arate așa:
 
 </pre>
 
-<u>2. Crearea și activarea mediului virtual (env)Deschide terminalul în folderul ProiectBIM și rulează comenzile corespunzătoare sistemului tău de operare:</u>
+<ins>2. Crearea și activarea mediului virtual (env)Deschide terminalul în folderul ProiectBIM și rulează comenzile corespunzătoare sistemului tău de operare:</ins>
 
 Pe Windows:
 
@@ -98,13 +98,13 @@ source .venv/bin/activate
 
 (După activare, vei vedea (**.venv**) scris la începutul liniei din terminal).
 
-<u>3. Instalarea librăriilor în mediuCu mediul virtual activat, instalează pachetele necesare, inclusiv python-dotenv pentru a putea citi fișierul **.env**:</U>
+<ins>3. Instalarea librăriilor în mediuCu mediul virtual activat, instalează pachetele necesare, inclusiv python-dotenv pentru a putea citi fișierul **.env**:</ins>
 
    bash:
 
 **pip install ifcopenshell ollama python-dotenv**
 
-<u>4. Configurarea fișierului **.env**</U>
+<ins>4. Configurarea fișierului **.env**</ins>
 
    Creează un fișier text simplu în folderul principal, numește-l exact **.env** și adaugă în el configurările
    (astfel poți schimba imaginea sau modelul AI fără să modifici codul python):
@@ -141,7 +141,7 @@ bash:
 <B>deactivate</B>
 
 
-<u>6. Vizualizare/Consultare/Inspectare model **IFC**(***BIM(3D)***)</u>
+<ins>6. Vizualizare/Consultare/Inspectare model **IFC**(***BIM(3D)***)</ins>
 
 Fisierul rezultat([***proiect_fundatie_inteligent.ifc***](https://github.com/stefanache/MFP-ANAF-RO/blob/main/MDLPA/qcad/proiect_fundatie_inteligent.ifc)) poate fi apoi incarcat(***Copy & Paste*** + **Load_in_BIMviewer/Open IFC File**) spre vizualizare intr-un **free IFC viewer/inspector online** asa cum este [**BIMviewer**](https://bimviewer.org/).
 
