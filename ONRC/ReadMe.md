@@ -28,7 +28,7 @@ Mariadb(DB)
 Docker(<i>optional</i>)
 </pre></b>
 
-<ins>Instalare</ins>
+<ins>A.Instalare(<b>a)-g)</b>)</ins>
 
  - PreConditii:
 
