@@ -1,0 +1,2 @@
+FROM qwen2.5vl:3b
+PARAMETER num_ctx 8192
