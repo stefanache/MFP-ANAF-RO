@@ -4,7 +4,7 @@ Am un ***GPU*** **Nvidia RTX 4060 8GB VRAM**
 
 Am instalat [**Ollama**](https://www.thomas-krenn.com/en/wiki/Installation_of_Ollama) pe **Ubuntu 24.04 LTS**:
 
-Si apoi am instalat 2 modele(**VLM**-uri)
+Si apoi am instalat 2 modele(**VLM**-uri) : **ollama pull qwen2.5-vision** sau direct **ollama run qwen2.5-vision**
 
  - qwen2.5vl:7b                           5ced39dfa4ba    6.0 GB    29 hours ago    
  - **qwen2.5vl:3b**                           fb90415cde1e    3.2 GB    29 hours ago  (modelul VLM folosit in cele din urma- a SE VEDEA  **Modelfile** !!!) 
@@ -12,6 +12,40 @@ Si apoi am instalat 2 modele(**VLM**-uri)
 bash:
 
 **ollama run qwen2.5vl:3b**
+
+Daca vreti sa umblati la parametrii veti crea fisierul Modelfile .
+
+Un exemplu de Modelfile poate arata asa:
+
+<pre>
+ # Specificăm modelul de bază cu capabilități vizuale
+FROM qwen2.5-vision
+
+# Setăm parametrii optimi pentru generarea de date structurate (JSON/IFC)
+PARAMETER temperature 0.1
+PARAMETER num_predict 4096
+
+# Adăugăm un System Prompt pentru a ghida modelul să gândească ca un inginer constructor
+SYSTEM """
+Ești un inginer structurist expert în BIM și automatizare IFC. 
+Analizezi planuri de fundație și profile structurale. 
+Răspunzi strict în formatul structurat solicitat (JSON), fără text explicativ suplimentar în afara blocurilor de cod.
+"""
+
+</pre>
+
+Eu insa am folosit unul mult mai simplu: [Modelfile](https://github.com/stefanache/MFP-ANAF-RO/edit/main/MDLPA/Modelfile) 
+
+si apoi veti rula:
+
+**ollama create qwen-inginerie -f ./Modelfile **
+
+El poate fi folosit acum ca un model obisnuit cu  cda 
+
+bash:
+
+**ollama run qwen-inginerie:latest**
+
 
 Pentru a gestiona corect dependențele, variabilele de mediu și pentru a izola acest proiect ca un profesionist, este recomandat să folosești un mediu virtual Python (.venv) și 
 
