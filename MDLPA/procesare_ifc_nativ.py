@@ -44,7 +44,7 @@ print(f"Rulăm modelul {nume_model_ai} pentru generare structură nativă IFC4..
 try:
     # 1. Apelare model Ollama multimodal
     response = ollama.chat(
-        model=nume_model_ai,   # 'qwen-inginerie' daca folosim si parametrul 
+        model=nume_model_ai,   # 'qwen-inginerie' daca folosim si parametrul din Modelfile: FROM qwen2.5vl:3b cu PARAMETER num_ctx 8192
         messages=[{
             'role': 'user',
             'content': prompt_bim,
