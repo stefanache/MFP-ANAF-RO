@@ -79,3 +79,9 @@ CALE_IESIRE_IFC=qcad/proiect_fundatie_inteligent.ifc
    bash:
 
    **python procesare_ifc_nativ.py**
+
+   Apoi inchixi mediul cu
+
+   bash:
+
+   **deactivate**
