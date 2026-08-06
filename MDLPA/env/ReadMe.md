@@ -1,1 +1,1 @@
-Ptoiectul venv
+Proiectul venv
