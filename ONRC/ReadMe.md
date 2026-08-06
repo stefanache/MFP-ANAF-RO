@@ -204,9 +204,9 @@ Validare ***CUI*** - se importeaza doar inregistrarile cu ***CUI*** valid (***no
 Timeout de 4 ore - pentru a permite procesarea fisierelor mari cu ***milioane*** de inregistrari
 
 
-**i)** Rulare (***Development***):
+**i)** Rulare (***Development***) in/cu mediul **Laravel-Herd** ori in/cu mediul **Docker**:
 
-  - ***i1.)*** Cu **Laravel-Herd** (***Recomandat***)
+  - ***i1.)*** - Cu **Laravel-Herd** (***Recomandat***)
 
 **Laravel-Herd** lanseaza automat aplicatia la **http://info-firme.test** in background.
 
@@ -216,7 +216,7 @@ Asigura-te ca **Horizon** ruleaza intr-un terminal separat:
   
 Viziteaza dashboardul **Horizon** la **http://info-firme.test/horizon** pentru a monitoriza *joburile*.
 
-  - ***i2.)*** Cu **Docker** (***Optional*** ca alternativa La **Laravel-Herd**)
+  - ***i2.)*** - Cu **Docker** (***Optional*** ca alternativa La **Laravel-Herd**)
 
  Proiectul vine cu **Laravel-Octane** si ***FrankenPHP*** ca ***server web***.
 
@@ -235,7 +235,7 @@ Viziteaza dashboardul **Horizon** la **http://info-firme.test/horizon** pentru a
 
 **API:**
 
-Interogare prin **GET**
+Interogare prin **GET** pe baza ***CUI*** ori pe baza ***Nume-Companie***:
 
 - Pe baza ***CUI***:
 
