@@ -25,7 +25,7 @@ Stack folosit:
 Laravel
 Redis
 Mariadb
-Docker (optional)
+Docker(optional)
 </pre>
 
 <ins>Instalare</ins>
@@ -37,7 +37,7 @@ PHP 8.3+
 Composer
 Redis
 MariaDB/MySQL
-Laravel Herd (sau Docker)
+Laravel-Herd (sau Docker)
 </pre></b>
 
  - Pasi de instalare:
@@ -199,17 +199,17 @@ Timeout de 4 ore - pentru a permite procesarea fisierelor mari cu milioane de in
 
 i) Rulare (***Development***):
 
-i1.) Cu **Laravel Herd** (***Recomandat***)
+  - i1.) Cu **Laravel-Herd** (***Recomandat***)
 
-**Laravel Herd** lanseaza automat aplicatia la **http://info-firme.test** in background.
+**Laravel-Herd** lanseaza automat aplicatia la **http://info-firme.test** in background.
 
 Asigura-te ca **Horizon** ruleaza intr-un terminal separat:
 
 **php artisan horizon**
   
-Viziteaza dashboardul **Horizon** la **http://info-firme.test/horizon** pentru a monitoriza joburile.
+Viziteaza dashboardul **Horizon** la **http://info-firme.test/horizon** pentru a monitoriza *joburile*.
 
-i2.) Cu **Docker** (***Optional***)
+  - i2.) Cu **Docker** (***Optional*** ca alternativa La **Laravel-Herd**)
 
  Proiectul vine cu **Laravel-Octane** si ***FrankenPHP*** ca ***server web***.
 
@@ -225,7 +225,7 @@ i2-3.) Rulare comenzi artisan in container:
 
 **docker run --rm info-firme:latest php artisan migrate**
 
-<ins>API</ins>
+**API:**
 
 Interogare prin **GET**
 
