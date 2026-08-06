@@ -241,7 +241,7 @@ Viziteaza dashboardul **Horizon** la **http://info-firme.test/horizon** pentru a
 
 **curl -L https://lista-firme.info/api/v1/info?cui=XXXXXXX**
 
-     &#9702 Pe baza ***Nume-Companie***:
+     <span>&#9702</span> Pe baza ***Nume-Companie***:
 
 **curl -L https://lista-firme.info/api/v1/info?name=NumeFirma**
 
