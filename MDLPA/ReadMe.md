@@ -59,7 +59,7 @@ un fișier de configurare **.env**.
 
 Iată cum configurezi proiectul pas cu pas folosind această structură curată:
 
-<u>1. Structura finală a folderelor</U>
+<ins>1. Structura finală a folderelor</ins>
 
 Creează un dosar numit ProiectBIM pe calculatorul tău. 
 
