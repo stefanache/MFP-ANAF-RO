@@ -33,10 +33,10 @@ Docker(<i>optional</i>)
  - PreConditii:
 
 <b><pre>
-PHP 8.3+
+PHP 8.3+(*cititi Nota din subsol!!!*)
 <a href="https://www.reinisfischer.com/how-install-composer-ubuntu-2404-easy-drupal-module-theme-updates">Composer</a>
 <a href="https://redis.io/docs/latest/operate/oss_and_stack/install/build-stack/ubuntu-noble/">Redis</a>
-MariaDB/MySQL(DB)
+MariaDB/MySQL([DB](https://www.google.com/search?q=install+xampp+with+PHP+8.3%2B+and+MariaDB+under+ubuntu+24.04+LTS&sca_esv=89317be53c67f56a&sxsrf=APpeQnvtFtLIhn2iYz-3KtGe2R_5Ofb9aA%3A1786037086896&udm=50&source=chrome.rb&fbs=ABfTbFWfH4wlW6n2_hxvp9wb2ZU9t6DZUU3cr83ivhVjHIOPz0HvbrwjYJs_PtKtV_PT8Tw_vRd2yIRPya3zXNF7fmXNLuDBZmpzx7OleU5u1B9hkSvVOmppVd13sG_N54HcMDlnPRZ1v9PAQ2wa7PLqcb_wXO2sga39NuqISN1CGFqUgLEI3pAUba_8rJ7oc43A04h70n6yvEbaXDf7pIGtIDSwDFJdYw&aep=1&ntc=1&cs=1&sa=X&ved=2ahUKEwj8yvrQwoyWAxVTHBAIHW88NR8Q2J8OegQIDxAD&biw=1854&bih=961&dpr=1&atvm=2&mstk=AUtExfA1bP_gK0snw8tCd1bCSnJrsHqAwpNz_fCkP561zST6INB_km_lATnt4zlw_Prh2HSW27Fsnd0SHzfgol34agXadpi_tIp7NWRG6_K0qDwen01b-E8CbzI4q1JZYwLhRSW4CBRuXu1y4sw94HSTFhB2etPNwBPQU2ppP_BezAjH4Po3ipsfChv7AEUcnSQpJBxtvwvcRISmhb1rZxpXbEf5XwU26LEMM1aSuGUQE49WACMaT802bMmQpz6C3vIUnUZSLvvV-F5D5BapwtUjO44I110WDym3gBEI9Gs5ISaNt617l6SSKsJnZlHgYhpHiSvuEAroxtG774aYi71RyhpUXJg2vI1XNg&csuir=1&mtid=dMN0apbwAseE1fIP8qOBwAY))
 Laravel-Herd (sau <a href="https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-22-04">Docker</a>)
 </pre></b>
 
