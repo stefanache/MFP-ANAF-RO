@@ -176,6 +176,7 @@ In timp ce import-ul decurge, viziteaza dashboardul **Horizon** pentru a vedea p
 *Dashboard-ul* arata:
 
 <pre>
+ 
 Joburile in asteptare (pending)
 Joburile in progres (processing)
 Joburile finalizate (completed)
@@ -185,19 +186,21 @@ Statistici despre performanta
 
 Detalii despre import:
 
-Import-ul este asincron - joburile sunt procesate in background de Horizon
+Import-ul este asincron - joburile sunt procesate in background de **Horizon**
 
-Procesare in batch-uri de 1000 inregistrari pentru performanta optima
+Procesare in batch-uri de **1000** inregistrari pentru performanta optima
 
 Retry logic automat - daca importul esueaza pe deadlock **MySQL**, se incearca din nou (max 3 incercari)
 
 Deduplicare intre batch-uri - nu se importeaza inregistrarile duplicate
 
-Validare CUI - se importeaza doar inregistrarile cu CUI valid (non-gol si != "0")
+Validare ***CUI*** - se importeaza doar inregistrarile cu ***CUI*** valid (***non-gol*** si *!=* "**0**")
 
-Timeout de 4 ore - pentru a permite procesarea fisierelor mari cu milioane de inregistrari
+Timeout de 4 ore - pentru a permite procesarea fisierelor mari cu ***milioane*** de inregistrari
 
-i) Rulare (***Development***):
+</pre>
+
+ i) Rulare (***Development***):
 
   - i1.) Cu **Laravel-Herd** (***Recomandat***)
 
