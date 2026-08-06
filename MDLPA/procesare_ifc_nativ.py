@@ -6,8 +6,8 @@ import ifcopenshell
 import ifcopenshell.template
 import ifcopenshell.api
 
-cale_imagine = "/home/nelu/qcad/Screenshot_20260731_092127_com_dropbox_android_PreviewActivity.jpg"
-cale_iesire_ifc = "/home/nelu/qcad/proiect_fundatie_inteligent.ifc"
+cale_imagine = "qcad/Screenshot_20260731_092127_com_dropbox_android_PreviewActivity.jpg"
+cale_iesire_ifc = "qcad/proiect_fundatie_inteligent.ifc"
 
 prompt_bim = """
 You are an expert BIM Manager specializing in buildingSMART IFC4 models.
