@@ -218,7 +218,10 @@ Viziteaza dashboardul **Horizon** la **http://info-firme.test/horizon** pentru a
 
   - ***i2.)*** - Cu **Docker** (***Optional*** ca alternativa La **Laravel-Herd**)
 
- Proiectul vine cu **Laravel-Octane** si ***FrankenPHP*** ca ***server-web***.
+ Proiectul vine cu [**Laravel-Octane**](https://laravel.com/docs/13.x/octane) si [***FrankenPHP***](https://frankenphp.dev/) ca ***App. web-server/server-web***.
+ **Laravel-Octane** îmbunătățește performanța aplicației tale prin utilizarea unor servere de aplicații puternice, <br/>
+ inclusiv **FrankenPHP** , ***Open-Swoole*** , ***Swoole*** și ***RoadRunner***.<br/>
+ **Octane** pornește aplicația o singură dată, o păstrează în memorie și apoi îi trimite cereri la viteze supersonice.<br/>
 
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9702;</span>i2-1.) --Build imagine:
 
