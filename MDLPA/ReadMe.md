@@ -141,4 +141,4 @@ bash:
 <B>deactivate</B>
 
 
-Fisierul rezultat([***proiect_fundatie_inteligent.ifc***](https://github.com/stefanache/MFP-ANAF-RO/blob/main/MDLPA/qcad/proiect_fundatie_inteligent.ifc)) poate fi apoi incarcat spre vizualizare intr-un **free IFC viewer/inspector online** asa cum este [**BIMviewer**](https://bimviewer.org/)
+Fisierul rezultat([***proiect_fundatie_inteligent.ifc***](https://github.com/stefanache/MFP-ANAF-RO/blob/main/MDLPA/qcad/proiect_fundatie_inteligent.ifc)) poate fi apoi incarcat(***Copy & Paste***) spre vizualizare intr-un **free IFC viewer/inspector online** asa cum este [**BIMviewer**](https://bimviewer.org/)
