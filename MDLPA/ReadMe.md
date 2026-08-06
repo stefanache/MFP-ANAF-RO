@@ -139,3 +139,6 @@ bash:
 bash:
 
 <B>deactivate</B>
+
+
+Fisierul rezultat() poate fi apoi incarcat spre vizualizare intr-un **free IFC viewer/inspector online** asa cum este [**BIMviewer**](https://bimviewer.org/)
