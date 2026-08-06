@@ -13,11 +13,14 @@ Reprezinta un proiect simplu scris in **Laravel**, care ofera informatii despre 
 
 Nu are interfata, totul se face din **CLI**.
 
-De ce ? Exista API web ANAF
+De ce ? 
+
+Exista API web ANAF
 
 Deoarece e instabil si din experienta mea, mai mereu in mentenanta.
 
 Stack folosit:
+
 <pre>
 Laravel
 Redis
