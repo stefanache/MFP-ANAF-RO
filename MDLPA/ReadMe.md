@@ -11,7 +11,15 @@ Si apoi am instalat 2 modele(**VLM**-uri) : **ollama pull qwen2.5-vision** sau d
 
 bash:
 
-  **ollama run qwen2.5vl:3b**
+  **ollama -v**
+  
+  **ollama run qwen2.5vl:3b**    
+
+  Iesire din model dupa utilizare, cu **/bye **
+
+  **olama list**
+
+  *ollama ls**
 
 Daca vreti sa umblati la parametrii veti crea fisierul Modelfile .
 
