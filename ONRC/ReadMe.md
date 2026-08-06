@@ -34,11 +34,13 @@ Docker(<i>optional</i>)
 
 <b><pre>
 PHP 8.3+
-Composer
-Redis
+<a href="https://www.reinisfischer.com/how-install-composer-ubuntu-2404-easy-drupal-module-theme-updates">Composer</a>
+<a hre="https://redis.io/docs/latest/operate/oss_and_stack/install/build-stack/ubuntu-noble/">Redis</a>
 MariaDB/MySQL(DB)
 Laravel-Herd (sau Docker)
 </pre></b>
+
+Pentru varianta utilizarii **PhP**  in tandem/cuplat cu **MySQL** se poate utiliza [**XAMPP**](https://www.apachefriends.org/download.html)(are in componenta si ***PhPMyAdmin*** pt gestionare BD **MySQL**)
 
  - Pasi de instalare:
 
