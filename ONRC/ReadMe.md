@@ -110,9 +110,9 @@ Descarca fisierele **CSV** de pe [***data.gov.ro***](https://www.google.com/sear
 
 Pentru a importa clasificarile **CAEN**(**C**lasificarea **A**ctivităților în **E**conomia **N**ațională), descarca din **data.gov.ro** - **CAEN**:
 
-**n_caen.csv**            - Definitii **CAEN**
-**n_caen_versiune.csv**   - Versiuni **CAEN**
-**od_caen_autorizat.csv** - Legatura intre companii si coduri **CAEN**
+**n_caen.csv**            - Definitii **CAEN**<br/>
+**n_caen_versiune.csv**   - Versiuni **CAEN**<br/>
+**od_caen_autorizat.csv** - Legatura intre companii si coduri **CAEN**<br/>
 
 *Nota*: Fisierele **CAEN** sunt optionale. <br/>
 Daca nu le descarci, importul va continua fara clasificarile **CAEN**.
