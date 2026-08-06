@@ -28,7 +28,7 @@ Docker (optional)
 
  - PreConditii:
 
-<b><pre><
+<b><pre>
 PHP 8.3+
 Composer
 Redis
