@@ -107,8 +107,8 @@ CALE_IESIRE_IFC=qcad/proiect_fundatie_inteligent.ifc
 
 
 6. Rularea proiectului
-7.
-8. Ori de câte ori vrei să lucrezi la proiect, deschizi terminalul în acest folder și te asiguri că pornești mediul virtual (
+
+Ori de câte ori vrei să lucrezi la proiect, deschizi terminalul în acest folder și te asiguri că pornești mediul virtual (
 
    .venv\Scripts\activate sau
 
