@@ -13,9 +13,7 @@ Reprezinta un [proiect](https://github.com/tudorr89/info-firme) simplu scris in 
 
 Nu are interfata, totul se face din **CLI**.
 
-De ce ? 
-
-Exista API web ANAF
+De ce ? Exista API web ANAF
 
 Deoarece e instabil si din experienta mea, mai mereu in mentenanta.
 
