@@ -110,18 +110,19 @@ source .venv/bin/activate
 
 Ori de câte ori vrei să lucrezi la proiect, deschizi terminalul în acest folder și te asiguri că pornești mediul virtual (
 
-   .venv\Scripts\activate sau
+  .venv\Scripts\activate sau
 
-     **source .venv/bin/activate**),
+     <B>source .venv/bin/activate</B>
+),
 
    apoi rulezi:
 
    bash:
 
-     **python procesare_ifc_nativ.py**
+    <B>python procesare_ifc_nativ.py</B>
 
-   Apoi inchixi mediul cu
+   Apoi inchiZi mediul cu
 
    bash:
 
-     **deactivate**
+     <B>deactivate</B>
