@@ -53,9 +53,11 @@ bash:
  **ollama run qwen-inginerie:latest**
 
 
-Pentru a gestiona corect dependențele, variabilele de mediu și pentru a izola acest proiect ca un profesionist, este recomandat să folosești un mediu virtual Python (.venv) și 
+Pentru a gestiona corect dependențele, variabilele de mediu și pentru a izola acest proiect ca un profesionist, este recomandat să folosești un mediu virtual Python (**.venv**) și 
 
-un fișier de configurare .env.Iată cum configurezi proiectul pas cu pas folosind această structură curată:
+un fișier de configurare **.env**.
+
+Iată cum configurezi proiectul pas cu pas folosind această structură curată:
 
 1. Structura finală a folderelor
 
@@ -64,7 +66,8 @@ Creează un dosar numit ProiectBIM pe calculatorul tău.
 Structura lui trebuie să arate așa:
 
 <pre>
-ProiectBIM/
+
+ <b>ProiectBIM/</b>
    ├── <b>.venv/</b>               # Folderul cu mediul virtual (se generează automat)
    ├── <b>qcad/</b>
    │      └── plan_fundație.jpg # Imaginea ta cu planul de structură
@@ -72,6 +75,7 @@ ProiectBIM/
    ├── Modelfile
    ├── .gitignore           # (Opțional) Pentru a nu urca fișierele inutile pe GitHub
    └── procesare_ifc_nativ.py
+
 </pre>
 
 2. Crearea și activarea mediului virtual (env)Deschide terminalul în folderul ProiectBIM și rulează comenzile corespunzătoare sistemului tău de operare:
