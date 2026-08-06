@@ -15,7 +15,7 @@ Nu are interfata, totul se face din **CLI**.
 
 De ce ? Exista API web ANAF
 
-Deoarece e instabil si din experienta mea, mai mereu in mentenanta.
+Deoarece e instabil si din experienta mea(**@tudorr89**), mai mereu in mentenanta.
 
 Stack folosit:
 
