@@ -218,7 +218,7 @@ Viziteaza dashboardul **Horizon** la **http://info-firme.test/horizon** pentru a
 
   - ***i2.)*** - Cu **Docker** (***Optional*** ca alternativa La **Laravel-Herd**)
 
- Proiectul vine cu **Laravel-Octane** si ***FrankenPHP*** ca ***server web***.
+ Proiectul vine cu **Laravel-Octane** si ***FrankenPHP*** ca ***server-web***.
 
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9702;</span>i2-1.) --Build imagine:
 
@@ -228,7 +228,7 @@ Viziteaza dashboardul **Horizon** la **http://info-firme.test/horizon** pentru a
 
 **docker run -d -e WITH_HORIZON=true -p 8000:8000 --rm info-firme:latest**
 
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9702;</span>i2-3.) --Rulare comenzi artisan in container:
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9702;</span>i2-3.) --Rulare comenzi **artisan** in *container*(Docker):
 
 **docker run --rm info-firme:latest php artisan migrate**
 
