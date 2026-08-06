@@ -1,0 +1,1 @@
+Ptoiectul venv
