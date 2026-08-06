@@ -2,7 +2,7 @@ Un exemplu CAD de transformare **.jpg**(desen tehnic fundatie/sapatura/ground-le
 
 Am un ***GPU*** **Nvidia RTX 4060 8GB VRAM**
 
-Am instalat **Ollama** pe **Ubuntu 24.04 LTS**:
+Am instalat [**Ollama**](https://www.thomas-krenn.com/en/wiki/Installation_of_Ollama) pe **Ubuntu 24.04 LTS**:
 
 Si apoi am instalat 2 modele(**VLM**-uri)
 
