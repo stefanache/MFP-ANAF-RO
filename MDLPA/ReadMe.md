@@ -17,7 +17,7 @@ bash:
 
   **olama list**
 
-  *ollama ls**
+  **ollama ls**
 
 Daca vreti sa umblati la parametrii veti crea fisierul Modelfile .
 
