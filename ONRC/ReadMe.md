@@ -98,7 +98,7 @@ h) Import Date:
 Descarcarea fisierelor ***CSV***:
 - *Fisiere **Obligatorii**:*
 
-Descarca fisierele **CSV** de pe ***data.gov.ro*** - **Registrul Comertului**:
+Descarca fisierele **CSV** de pe [***data.gov.ro***](https://www.google.com/search?q=Descarca+fisierele+CSV+de+pe+data.gov.ro+-+Registrul+Comertului%3A%0A%0Aod_firme.csv+-+Informatii+despre+firme%0Aod_stare_firma.csv+-+Starea+firmelor%0Aod_reprezentanti_legali.csv+-+Reprezentanti+legali%0Aod_reprezentanti_if.csv+-+Reprezentanti+persoane+fizice%0Aod_sucursale_alte_state_membre.csv+-+Sucursale+in+alte+state+membre&sourceid=chrome&ie=UTF-8&amc=1&aep=42&cud=0&source=chrome.crn.rb&atvm=2&udm=50&mstk=AUtExfBPq_pc-8HlSdJc7T_jthAjj6fBsyjo3hVRynlgaAEKQDFmJeWhB4_hOXkGW975BzDqYVnTnOU0Qoa8P-0yihJeLEwbodeDlAedLODZz5NGYpCsQy80wkmpOw4p4FWnR6kb_8efaNafdo20c8ot7xGslSfU8zeNfzWanvgbiK4L0qrnc9W6ARB_LdhZ0qeSJSELTWlSWk9N7OrYW1XgkmgwsOAv5Yjs9mayZXWT0lW6l8iDRXNjyJ9fqFeNvifmOHEMHud1NhsckpEpTAbc1Fe5NmUg7MoxHsc&csuir=1&mtid=-8V0ap2PE6Gj1fIPs-LMiQU) - **Registrul Comertului**:
 
 **od_firme.csv** - Informatii despre firme<br/>
 **od_stare_firma.csv** - Starea firmelor<br/>
