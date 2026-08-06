@@ -19,9 +19,9 @@ bash:
 
   **ollama ls**
 
-Daca vreti sa umblati la parametrii veti crea fisierul Modelfile .
+Daca vreti sa umblati la parametrii veti crea fisierul **Modelfile**.
 
-Un exemplu de Modelfile poate arata asa:
+Un exemplu de **Modelfile** poate arata asa:
 
 <pre>
  # Specificăm modelul de bază cu capabilități vizuale
