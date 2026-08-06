@@ -9,6 +9,10 @@ Si apoi am instalat 2 modele(**VLM**-uri)
  - qwen2.5vl:7b                           5ced39dfa4ba    6.0 GB    29 hours ago    
  - **qwen2.5vl:3b**                           fb90415cde1e    3.2 GB    29 hours ago  (modelul VLM folosit in cele din urma- a SE VEDEA  **Modelfile** !!!) 
 
+bash:
+
+**ollama run qwen2.5vl:3b**
+
 Pentru a gestiona corect dependențele, variabilele de mediu și pentru a izola acest proiect ca un profesionist, este recomandat să folosești un mediu virtual Python (.venv) și 
 
 un fișier de configurare .env.Iată cum configurezi proiectul pas cu pas folosind această structură curată:
