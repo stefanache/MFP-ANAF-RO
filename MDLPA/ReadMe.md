@@ -141,6 +141,6 @@ bash:
 <B>deactivate</B>
 
 
-Fisierul rezultat([***proiect_fundatie_inteligent.ifc***](https://github.com/stefanache/MFP-ANAF-RO/blob/main/MDLPA/qcad/proiect_fundatie_inteligent.ifc)) poate fi apoi incarcat(***Copy & Paste*** + **Load_in_BIMviewer**) spre vizualizare intr-un **free IFC viewer/inspector online** asa cum este [**BIMviewer**](https://bimviewer.org/).
+Fisierul rezultat([***proiect_fundatie_inteligent.ifc***](https://github.com/stefanache/MFP-ANAF-RO/blob/main/MDLPA/qcad/proiect_fundatie_inteligent.ifc)) poate fi apoi incarcat(***Copy & Paste*** + **Load_in_BIMviewer/OpenIFCFile**) spre vizualizare intr-un **free IFC viewer/inspector online** asa cum este [**BIMviewer**](https://bimviewer.org/).
 
 Vor fi afisare **locurile**/plotii(**extrudate 3D**, in mod artificial pt a le face vizibile in **3D**) cf cu imaginea originala([***qcad*/Screenshot_20260731_092127_com_dropbox_android_PreviewActivity.jpg**](https://github.com/stefanache/MFP-ANAF-RO/blob/main/MDLPA/qcad/Screenshot_20260731_092127_com_dropbox_android_PreviewActivity.jpg)).
