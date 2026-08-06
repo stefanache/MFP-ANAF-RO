@@ -96,7 +96,7 @@ Deschide intr-un terminal separat(**Ctrl+Alt+T**):
 h) Import Date:
 
 Descarcarea fisierelor ***CSV***:
-- *Fisiere Obligatorii:*
+- *Fisiere **Obligatorii**:*
 
 Descarca fisierele **CSV** de pe ***data.gov.ro*** - **Registrul Comertului**:
 
@@ -106,7 +106,7 @@ Descarca fisierele **CSV** de pe ***data.gov.ro*** - **Registrul Comertului**:
 **od_reprezentanti_if.csv** - Reprezentanti persoane fizice<br/>
 **od_sucursale_alte_state_membre.csv** - Sucursale in alte state membre<br/>
 
-- *Fisiere Optionale (**CAEN**):*
+- *Fisiere **Optionale** (**CAEN**):*
 
 Pentru a importa clasificarile **CAEN**(**C**lasificarea **A**ctivităților în **E**conomia **N**ațională), descarca din **data.gov.ro** - **CAEN**:
 
