@@ -22,7 +22,7 @@ Laravel
 Redis
 Mariadb
 Docker (optional)
-</pre>/pre>
+</pre>
 
 <ins>Instalare</ins>
 
