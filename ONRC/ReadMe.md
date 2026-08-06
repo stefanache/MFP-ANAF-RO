@@ -21,12 +21,12 @@ Deoarece e instabil si din experienta mea(**@tudorr89**), mai mereu in mentenant
 
 Stack folosit:
 
-<pre>
+<b><pre>
 Laravel(PhP-framework)
 Redis
 Mariadb(DB)
 Docker(<i>optional</i>)
-</pre>
+</pre></b>
 
 <ins>Instalare</ins>
 
