@@ -1,14 +1,15 @@
 import ollama
 import json
 import re
-import ast
 import ifcopenshell
 import ifcopenshell.template
 import ifcopenshell.api
 
+# Căi fișiere
 cale_imagine = "qcad/Screenshot_20260731_092127_com_dropbox_android_PreviewActivity.jpg"
 cale_iesire_ifc = "qcad/proiect_fundatie_inteligent.ifc"
 
+# Prompt BIM definit pentru modelul LLM
 prompt_bim = """
 You are an expert BIM Manager specializing in buildingSMART IFC4 models.
 Analyze this foundation plan image. Extract all distinct concrete footings (IfcFooting) and structural columns (IfcColumn).
@@ -35,6 +36,7 @@ Schema:
 print("Rulăm modelul Qwen-Inginerie pentru generare structură nativă IFC4...")
 
 try:
+    # 1. Apelare model Ollama multimodal
     response = ollama.chat(
         model='qwen-inginerie',
         messages=[{
@@ -47,7 +49,7 @@ try:
     
     output_text = response['message']['content'].strip()
     
-    # Izolăm structura JSON
+    # 2. Curățare și izolare structură JSON din textul generat
     if "[" in output_text:
         text_parsare = output_text[output_text.find("["):]
     else:
@@ -60,12 +62,14 @@ try:
     if not text_parsare.endswith("]"): 
         text_parsare += "]"
         
-    text_parsare = text_parsare.replace("null", "None").replace("true", "True").replace("false", "False")
+    # Normalizare sintaxă pentru siguranță
+    text_parsare = text_parsare.replace("None", "null").replace("True", "true").replace("False", "false")
     text_parsare = re.sub(r',\s*([\]}])', r'\1', text_parsare)
     
-    date_structura = ast.literal_eval(text_parsare)
+    # Conversie în listă Python de dicționare
+    date_structura = json.loads(text_parsare)
 
-    # Inițializăm fișierul IFC4 folosind argumentele oficiale
+    # 3. Inițializare fișier IFC4 standardizat
     model_ifc = ifcopenshell.template.create(
         schema_identifier="IFC4",
         filename="proiect_fundatie_inteligent.ifc"
@@ -79,7 +83,7 @@ try:
     cladire = model_ifc.create_entity("IfcBuilding", GlobalId=ifcopenshell.guid.new(), Name="Clădire Nelu")
     etaj = model_ifc.create_entity("IfcBuildingStorey", GlobalId=ifcopenshell.guid.new(), Name="Nivel Fundații", Elevation=-1.0)
 
-    # Agregarea sigură a structurii spațiale prin API-ul oficial (cu array de produse [list])
+    # Agregarea ierarhiei spațiale prin API-ul oficial ifcopenshell
     ifcopenshell.api.run("aggregate.assign_object", model_ifc, products=[site], relating_object=proiect)
     ifcopenshell.api.run("aggregate.assign_object", model_ifc, products=[cladire], relating_object=site)
     ifcopenshell.api.run("aggregate.assign_object", model_ifc, products=[etaj], relating_object=cladire)
@@ -88,6 +92,8 @@ try:
     context_geometric = context_geometric_lista[0]
 
     nr_elemente = 0
+    
+    # 4. Iterare prin elementele identificate de AI și generare geometrică
     for idx, elem in enumerate(date_structura):
         if not isinstance(elem, dict): 
             continue
@@ -100,43 +106,43 @@ try:
         material = elem.get("material", "C16/20")
         
         geom = elem.get("geometrie", {})
-        lungime = float(geom.get("lungime_mm", 1200)) / 1000.0  # Conversie în metri pentru IFC
+        lungime = float(geom.get("lungime_mm", 1200)) / 1000.0  # Conversie mm în metri
         latime = float(geom.get("latime_mm", 800)) / 1000.0
         grosime = float(geom.get("grosime_mm", 400)) / 1000.0
         cota_z = float(geom.get("cota_nivel_m", -1.0))
 
-        # REPARAT MATEMATIC: Distribuim elementele într-o matrice clară (Grid) de 6 coloane
-        # Acest pas elimină alinierea proastă sau suprapunerile generate de AI
+        # Distribuire elemente într-o matrice regulată de 6 coloane pentru a preveni suprapunerile
         coloane_maxime = 6
         rand = idx // coloane_maxime
         coloana = idx % coloane_maxime
         
-        pos_x = coloana * 4.0  # Distanță de 4 metri între axe pe X
-        pos_y = rand * 4.0     # Distanță de 4 metri între axe pe Y
+        pos_x = coloana * 4.0  # Pas de 4 metri pe axa X
+        pos_y = rand * 4.0     # Pas de 4 metri pe axa Y
 
-        # GENERARE GEOMETRIE 3D CURATĂ
+        # Generare plasament și coordonate 3D
         punct_origine = model_ifc.create_entity("IfcCartesianPoint", Coordinates=(pos_x, pos_y, cota_z))
         plasare_locala = model_ifc.create_entity("IfcAxis2Placement3D", Location=punct_origine)
         forma_plasare = model_ifc.create_entity("IfcLocalPlacement", RelativePlacement=plasare_locala)
 
-        # Desenăm profilul bazei (dreptunghi)
+        # Creare geometrie extrudată (Solid 3D)
         profil_2d = model_ifc.create_entity("IfcRectangleProfileDef", ProfileType="AREA", XDim=lungime, YDim=latime)
         directie_extrudare = model_ifc.create_entity("IfcDirection", DirectionRatios=(0.0, 0.0, 1.0))
         solid_3d = model_ifc.create_entity("IfcExtrudedAreaSolid", SweptArea=profil_2d, ExtrudedDirection=directie_extrudare, Depth=grosime)
 
+        # Mapare reprezentare vizuală pentru obiect
         reprezentare_forma = model_ifc.create_entity("IfcShapeRepresentation", ContextOfItems=context_geometric, RepresentationIdentifier="Body", RepresentationType="SweptSolid", Items=[solid_3d])
         geometrie_finala = model_ifc.create_entity("IfcProductDefinitionShape", Representations=[reprezentare_forma])
 
-        # Crearea instanței fizice (Stâlp sau Talpă Fundație)
+        # Instanțiere obiect fizic în funcție de clasa IFC detectată
         if clasa_ifc == "IfcColumn":
             entitate_bim = model_ifc.create_entity("IfcColumn", GlobalId=ifcopenshell.guid.new(), Name=id_elem, Description=f"{label_ro} | {desc_en}", ObjectType=material, ObjectPlacement=forma_plasare, Representation=geometrie_finala)
         else:
-            entitate_bim = model_ifc.create_entity("IfcFooting", GlobalId=ifcopenshell.guid.new(), Name=id_elem, Description=f"{label_ro} | {desc_en}", ObjectType=material, ObjectPlacement=forma_plasare, Representation=geometrie_finala)
+            entitate_bim = model_ifc.create_entity("IfcFooting", GlobalId=ifcopenshell.guid.new(), Name=id_elem, Description=f"{label_ro} | {desc_en}", ObjectType=material, ObjectPlacement=forma_furnizare, Representation=geometrie_finala) if 'forma_furnizare' in locals() else model_ifc.create_entity("IfcFooting", GlobalId=ifcopenshell.guid.new(), Name=id_elem, Description=f"{label_ro} | {desc_en}", ObjectType=material, ObjectPlacement=forma_plasare, Representation=geometrie_finala)
 
-        # Atribuirea etajului în mod automat prin API (utilizând sintaxa de listă products=[...])
+        # Alocare obiect la nivelul de etaj corespunzător
         ifcopenshell.api.run("spatial.assign_container", model_ifc, products=[entitate_bim], relating_structure=etaj)
 
-        # ADĂUGARE SET DE PROPRIETĂȚI ADNOTATE (Custom Pset vizibil la click în BlenderBIM)
+        # Adăugare set de proprietăți personalizate (Pset) pentru BlenderBIM / OpenBIM viewers
         prop_material = model_ifc.create_entity("IfcPropertySingleValue", Name="ClasaBeton", NominalValue=model_ifc.create_entity("IfcLabel", material))
         prop_ro = model_ifc.create_entity("IfcPropertySingleValue", Name="DenumireRomana", NominalValue=model_ifc.create_entity("IfcText", label_ro))
         prop_cota = model_ifc.create_entity("IfcPropertySingleValue", Name="CotaNivel", NominalValue=model_ifc.create_entity("IfcLengthMeasure", cota_z))
@@ -146,7 +152,7 @@ try:
         
         nr_elemente += 1
 
-    # Salvare fizică pe disc
+    # 5. Salvare fișier pe disc
     model_ifc.write(cale_iesire_ifc)
     print(f"\n[BIM Nativ Reușit] Fișierul model inteligent a fost creat cu succes: {cale_iesire_ifc}")
     print(f"Au fost generate {nr_elemente} elemente dispuse în matrice geometrică deschisă.")
