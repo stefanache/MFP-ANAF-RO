@@ -102,7 +102,7 @@ source .venv/bin/activate
 
    bash:
 
-    **pip install ifcopenshell ollama python-dotenv**
+**pip install ifcopenshell ollama python-dotenv**
 
 <u>4. Configurarea fișierului **.env**</U>
 
