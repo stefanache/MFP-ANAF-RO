@@ -93,9 +93,9 @@ Deschide intr-un terminal separat:
 
 h) Import Date:
 
-Descarcarea fisierelor CSV
+Descarcarea fisierelor ***CSV***:
 
-Fisiere Obligatorii:
+* - Fisiere Obligatorii:*
 
 Descarca fisierele **CSV** de pe ***data.gov.ro*** - **Registrul Comertului**:
 
