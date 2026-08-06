@@ -93,9 +93,10 @@ bash:
 python3 -m venv .venv
 source .venv/bin/activate
 </pre></b>
+
 (După activare, vei vedea (**.venv**) scris la începutul liniei din terminal).
 
-3. Instalarea librăriilor în mediuCu mediul virtual activat, instalează pachetele necesare, inclusiv python-dotenv pentru a putea citi fișierul .env:
+3. Instalarea librăriilor în mediuCu mediul virtual activat, instalează pachetele necesare, inclusiv python-dotenv pentru a putea citi fișierul **.env**:
 
    bash:
 
