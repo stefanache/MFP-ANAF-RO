@@ -115,9 +115,9 @@ Pentru a importa clasificarile **CAEN**(**C**lasificarea **A**ctivităților în
 **od_caen_autorizat.csv** - Legatura intre companii si coduri **CAEN**<br/>
 
 *Nota*: Fisierele **CAEN** sunt optionale. <br/>
-Daca nu le descarci, importul va continua fara clasificarile **CAEN**.
+Daca *nu* le *descarci*, *import*-ul va continua *fara* clasificarile **CAEN**!
 
-Plaseaza toate fisierele in directorul ***storage/app/imports/***&
+Plaseaza toate fisierele in directorul ***storage/app/imports/*** &
 
 ***Import Manual***:
 
