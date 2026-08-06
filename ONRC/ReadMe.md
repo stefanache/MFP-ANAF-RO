@@ -164,7 +164,6 @@ Aceasta va importa automat toate cele 5 fisiere CSV din directorul storage/app/i
 ***NOTA-Import***: Ordinea Importului **CAEN**: Trebuie importate in ordinea: **definitii** → **versiuni** → **companii**.
 
 Daca ai deja fisierele **CAEN** descarcate: 
-
 <br/>Cand rulezi php artisan import:all, acestea vor fi importate automat daca sunt in storage/app/imports/. 
 <br/>Daca lipsesc, comanda va arata un mesaj cu instructiuni.
 
@@ -172,7 +171,7 @@ Daca ai deja fisierele **CAEN** descarcate:
 
 In timp ce import-ul decurge, viziteaza dashboardul **Horizon** pentru a vedea progresul in timp-real(TR):
 
-      **http://info-firme.test/horizon**
+**http://info-firme.test/horizon**
 
 *Dashboard-ul* arata:
 
@@ -182,7 +181,6 @@ Joburile in progres (processing)
 Joburile finalizate (completed)
 Joburile care au esuat (failed)
 
-
 Statistici despre performanta
 
 Detalii despre import:
@@ -191,7 +189,7 @@ Import-ul este asincron - joburile sunt procesate in background de Horizon
 
 Procesare in batch-uri de 1000 inregistrari pentru performanta optima
 
-Retry logic automat - daca importul esueaza pe deadlock MySQL, se incearca din nou (max 3 incercari)
+Retry logic automat - daca importul esueaza pe deadlock **MySQL**, se incearca din nou (max 3 incercari)
 
 Deduplicare intre batch-uri - nu se importeaza inregistrarile duplicate
 
@@ -201,7 +199,7 @@ Timeout de 4 ore - pentru a permite procesarea fisierelor mari cu milioane de in
 
 i) Rulare (***Development***):
 
-i1.)Cu **Laravel Herd** (***Recomandat***)
+i1.) Cu **Laravel Herd** (***Recomandat***)
 
 **Laravel Herd** lanseaza automat aplicatia la **http://info-firme.test** in background.
 
@@ -223,7 +221,7 @@ i2-2.) Rulare imagine (default port 8000):
 
 **docker run -d -e WITH_HORIZON=true -p 8000:8000 --rm info-firme:latest**
 
-i2-3.)Rulare comenzi artisan in container:
+i2-3.) Rulare comenzi artisan in container:
 
 **docker run --rm info-firme:latest php artisan migrate**
 
