@@ -13,7 +13,7 @@ bash:
   
   **ollama run qwen2.5vl:3b**    
 
-  Iesire din model dupa utilizare, cu **/bye **
+  Iesire din model dupa utilizare, cu **/bye**
 
   **olama list**
 
