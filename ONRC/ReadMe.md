@@ -19,7 +19,7 @@ De ce ? Exista **API-web ANAF**
 
 Deoarece e instabil si din experienta mea(**@tudorr89**), mai mereu in mentenanta.
 
-Stack folosit:
+***Stack***-ul folosit:
 
 <b><pre>
 Laravel(PhP-framework)
