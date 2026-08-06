@@ -237,11 +237,11 @@ Viziteaza dashboardul **Horizon** la **http://info-firme.test/horizon** pentru a
 
  - *Interogare* prin **GET** pe baza ***CUI*** ori pe baza ***Nume-Companie***:
 
-    - Pe baza ***CUI***:
+     - Pe baza ***CUI***:
 
 **curl -L https://lista-firme.info/api/v1/info?cui=XXXXXXX**
 
-    - Pe baza ***Nume-Companie***:
+     - Pe baza ***Nume-Companie***:
 
 **curl -L https://lista-firme.info/api/v1/info?name=NumeFirma**
 
