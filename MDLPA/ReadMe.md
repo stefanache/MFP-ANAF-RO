@@ -134,7 +134,7 @@ bash:
 
 <B>python procesare_ifc_nativ.py</B>
 
-   Apoi inchizi mediul cu
+   Apoi inchizi mediul cu comanda shell din terminalul-fereastra(deschis cu combinatia de cchei: **Ctrl+Alt+T**)
 
 bash:
 
