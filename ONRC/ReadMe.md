@@ -9,7 +9,7 @@ III. [**Informatii Firme**](https://mfinante.gov.ro/info-pj-selectie-nume-si-jud
 
 IV. [Data-GOV-RO: Firme înregistrate la Registrul Comerțului până la data de 08.12.2025](https://data.gov.ro/dataset/firme-08-12-2025)
 
-Reprezinta un proiect simplu scris in **Laravel**, care ofera informatii despre toate firmele inregistrate in Romania(**ONRC**: ***RECOM***). 
+Reprezinta un [proiect](https://github.com/tudorr89/info-firme) simplu scris in **Laravel**, care ofera informatii despre toate firmele inregistrate in Romania(**ONRC**: ***RECOM***). 
 
 Nu are interfata, totul se face din **CLI**.
 
