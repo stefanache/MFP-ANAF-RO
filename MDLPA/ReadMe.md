@@ -59,7 +59,7 @@ un fișier de configurare **.env**.
 
 Iată cum configurezi proiectul pas cu pas folosind această structură curată:
 
-1. Structura finală a folderelor
+<u>1. Structura finală a folderelor</U>
 
 Creează un dosar numit ProiectBIM pe calculatorul tău. 
 
@@ -78,7 +78,7 @@ Structura lui trebuie să arate așa:
 
 </pre>
 
-2. Crearea și activarea mediului virtual (env)Deschide terminalul în folderul ProiectBIM și rulează comenzile corespunzătoare sistemului tău de operare:
+<u>2. Crearea și activarea mediului virtual (env)Deschide terminalul în folderul ProiectBIM și rulează comenzile corespunzătoare sistemului tău de operare:</u>
 
 Pe Windows:
 
@@ -98,13 +98,13 @@ source .venv/bin/activate
 
 (După activare, vei vedea (**.venv**) scris la începutul liniei din terminal).
 
-3. Instalarea librăriilor în mediuCu mediul virtual activat, instalează pachetele necesare, inclusiv python-dotenv pentru a putea citi fișierul **.env**:
+<u>3. Instalarea librăriilor în mediuCu mediul virtual activat, instalează pachetele necesare, inclusiv python-dotenv pentru a putea citi fișierul **.env**:</U>
 
    bash:
 
     **pip install ifcopenshell ollama python-dotenv**
 
-5. Configurarea fișierului **.env**
+<u>4. Configurarea fișierului **.env**</U>
 
    Creează un fișier text simplu în folderul principal, numește-l exact **.env** și adaugă în el configurările
    (astfel poți schimba imaginea sau modelul AI fără să modifici codul python):
@@ -118,7 +118,7 @@ source .venv/bin/activate
 </pre>
 
 
-6. Rularea proiectului
+<u>5. Rularea proiectului</U>
 
 Ori de câte ori vrei să lucrezi la proiect, deschizi terminalul în acest folder și te asiguri că pornești mediul virtual (
 
@@ -140,6 +140,8 @@ bash:
 
 <B>deactivate</B>
 
+
+<u>6. Vizualizare/Consultare/Inspectare model **IFC**(***BIM(3D)***)</u>
 
 Fisierul rezultat([***proiect_fundatie_inteligent.ifc***](https://github.com/stefanache/MFP-ANAF-RO/blob/main/MDLPA/qcad/proiect_fundatie_inteligent.ifc)) poate fi apoi incarcat(***Copy & Paste*** + **Load_in_BIMviewer/Open IFC File**) spre vizualizare intr-un **free IFC viewer/inspector online** asa cum este [**BIMviewer**](https://bimviewer.org/).
 
