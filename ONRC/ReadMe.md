@@ -25,7 +25,7 @@ Stack folosit:
 Laravel(PhP-framework)
 Redis
 Mariadb(DB)
-Docker(***optional***)
+Docker(<i>optional</i>)
 </pre>
 
 <ins>Instalare</ins>
