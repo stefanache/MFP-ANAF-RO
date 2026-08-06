@@ -5,7 +5,7 @@ Pt acest convertor(***JPG*** 2 **IFC** sau ***JPG*** @ **IFC** ori ***JPG*** to 
 Si apoi am instalat 2 modele(**VLM**-uri) : **ollama pull qwen2.5-vision** sau direct **ollama run qwen2.5-vision**
 
  - qwen2.5vl:7b                           5ced39dfa4ba    6.0 GB    29 hours ago    
- - **qwen2.5vl:3b**                           fb90415cde1e    3.2 GB    29 hours ago  (modelul VLM folosit in cele din urma- a SE VEDEA  **Modelfile** !!!) 
+ - **qwen2.5vl:3b**                           fb90415cde1e    3.2 GB    29 hours ago  (modelul **VLM** folosit in cele din urma- a SE VEDEA  **Modelfile** !!!) 
 
 bash:
 
