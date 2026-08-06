@@ -94,8 +94,7 @@ Deschide intr-un terminal separat:
 h) Import Date:
 
 Descarcarea fisierelor ***CSV***:
-
-* - Fisiere Obligatorii:*
+- *Fisiere Obligatorii:*
 
 Descarca fisierele **CSV** de pe ***data.gov.ro*** - **Registrul Comertului**:
 
@@ -105,7 +104,7 @@ Descarca fisierele **CSV** de pe ***data.gov.ro*** - **Registrul Comertului**:
 **od_reprezentanti_if.csv** - Reprezentanti persoane fizice
 **od_sucursale_alte_state_membre.csv** - Sucursale in alte state membre
 
-Fisiere Optionale (CAEN)
+- *Fisiere Optionale (CAEN):*
 
 Pentru a importa clasificarile CAEN (Clasificarea Activităților în Economia Națională), descarca din **data.gov.ro** - **CAEN**:
 
@@ -113,77 +112,80 @@ Pentru a importa clasificarile CAEN (Clasificarea Activităților în Economia N
 **n_caen_versiune.csv** - Versiuni CAEN
 **od_caen_autorizat.csv** - Legatura intre companii si coduri CAEN
 
-*Nota*: Fisierele **CAEN sunt optionale. <br/>Daca nu le descarci, importul va continua fara clasificarile **CAEN**.
+*Nota*: Fisierele **CAEN** sunt optionale. <br/>Daca nu le descarci, importul va continua fara clasificarile **CAEN**.
 
 Plaseaza toate fisierele in directorul ***storage/app/imports/***&
 
 ***Import Manual***:
 
- - ***Varianta 1***: Import Toate Fisierele Deodată (Recomandat)
+  - ***Varianta 1***: Import Toate Fisierele Deodată (***Recomandat***)
    
 **php artisan import:all**
 
 Aceasta va importa automat toate cele 5 fisiere CSV din directorul storage/app/imports/.
 
- - ***Varianta 2***: Import Fisiere Individuale
+  - ***Varianta 2***: Import Fisiere Individuale:
 
-Importa doar companiile:
+         -- Importa doar companiile:
 
 **php artisan import:companies storage/app/imports/od_firme.csv**
 
-Importa staile firmelor:
+         -- Importa starile firmelor:
 
 **php artisan import:status storage/app/imports/od_stare_firma.csv**
 
-Importa reprezentantii legali:
+         -- Importa reprezentantii legali:
 
 **php artisan import:legal-representatives storage/app/imports/od_reprezentanti_legali.csv**
 
-Importa reprezentantii persoane fizice:
+         -- Importa reprezentantii persoane fizice:
 
 **php artisan import:natural-persons storage/app/imports/od_reprezentanti_if.csv**
 
-Importa sucursalele din alte state membre:
+         -- Importa sucursalele din alte state membre:
 
 **php artisan import:eu-branches storage/app/imports/od_sucursale_alte_state_membre.csv**
 
- - Varianta 3: Import **CAEN** (Doar daca fisierele sunt disponibile)
- - 
-Importa definitiile CAEN:
+  - ***Varianta 3***: Import **CAEN** (Doar daca fisierele sunt disponibile)
+
+         -- Importa definitiile CAEN:
 
 **php artisan import:caen-definition storage/app/imports/n_caen.csv**
 
-Importa versiunile CAEN:
+         -- Importa versiunile CAEN:
 
 **php artisan import:caen-version storage/app/imports/n_caen_versiune.csv**
 
-Importa legaturile companii-CAEN:
+         -- Importa legaturile companii-CAEN:
 
 **php artisan import:caen-company storage/app/imports/od_caen_autorizat.csv**
 
-Ordinea Importului CAEN: Trebuie importate in ordinea: definitii → versiuni → companii.
 
-Daca ai deja fisierele CAEN descarcate: 
+***NOTA-Import***: Ordinea Importului **CAEN**: Trebuie importate in ordinea: **definitii** → **versiuni** → **companii**.
+
+Daca ai deja fisierele **CAEN** descarcate: 
+
 <br/>Cand rulezi php artisan import:all, acestea vor fi importate automat daca sunt in storage/app/imports/. 
 <br/>Daca lipsesc, comanda va arata un mesaj cu instructiuni.
 
-Monitorizare Import
+*Monitorizare Import*
 
-In timp ce import-ul decurge, viziteaza dashboardul Horizon pentru a vedea progresul in timp real:
+In timp ce import-ul decurge, viziteaza dashboardul **Horizon** pentru a vedea progresul in timp-real(TR):
 
-http://info-firme.test/horizon
+      **http://info-firme.test/horizon**
 
-Dashboardul arata:
+*Dashboard-ul* arata:
 
 <pre>
 Joburile in asteptare (pending)
 Joburile in progres (processing)
 Joburile finalizate (completed)
 Joburile care au esuat (failed)
-</pre>
+
+
 Statistici despre performanta
 
-Detalii despre import
+Detalii despre import:
 
 Import-ul este asincron - joburile sunt procesate in background de Horizon
 
@@ -197,45 +199,46 @@ Validare CUI - se importeaza doar inregistrarile cu CUI valid (non-gol si != "0"
 
 Timeout de 4 ore - pentru a permite procesarea fisierelor mari cu milioane de inregistrari
 
-Rulare (Development)
+i) Rulare (***Development***):
 
-Cu Laravel Herd (Recomandat)
+i1.)Cu **Laravel Herd** (***Recomandat***)
 
-Laravel Herd lanseaza automat aplicatia la **http://info-firme.test** in background.
+**Laravel Herd** lanseaza automat aplicatia la **http://info-firme.test** in background.
 
-Asigura-te ca Horizon ruleaza intr-un terminal separat:
+Asigura-te ca **Horizon** ruleaza intr-un terminal separat:
 
 **php artisan horizon**
   
-Viziteaza dashboardul Horizon la http://info-firme.test/horizon pentru a monitoriza joburile.
+Viziteaza dashboardul **Horizon** la **http://info-firme.test/horizon** pentru a monitoriza joburile.
 
-Cu Docker (Optional)
-Proiectul vine cu Laravel Octane si FrankenPHP ca server web.
+i2.) Cu **Docker** (***Optional***)
 
-Build imagine:
+ Proiectul vine cu **Laravel-Octane** si ***FrankenPHP*** ca ***server web***.
+
+i2-1.) Build imagine:
 
 **docker build -t info-firme:latest -f FrankenPHP.Alpine.Dockerfile .**
 
-Rulare imagine (default port 8000):
+i2-2.) Rulare imagine (default port 8000):
 
 **docker run -d -e WITH_HORIZON=true -p 8000:8000 --rm info-firme:latest**
 
-Rulare comenzi artisan in container:
+i2-3.)Rulare comenzi artisan in container:
 
-**docker run --rm info-firme:latest php artisan migrate*
+**docker run --rm info-firme:latest php artisan migrate**
 
 <ins>API</ins>
 
-Interogare prin GET
+Interogare prin **GET**
 
-Pe baza CUI:
+- Pe baza ***CUI***:
 
 **curl -L https://lista-firme.info/api/v1/info?cui=XXXXXXX**
 
-Pe baza Nume Companie:
+- Pe baza ***Nume-Companie***:
 
 **curl -L https://lista-firme.info/api/v1/info?name=NumeFirma**
 
-Raspunsuri API
+*Raspunsuri API*:
 
-Raspunsul se returneaza in format JSON cu informatii despre firma, adresa, reprezentanti, etc.
+Raspunsul se returneaza in format **JSON** cu informatii despre ***firma***, ***adresa***, ***reprezentanti***, etc.
