@@ -3,7 +3,7 @@ Mai [intai](https://lege5.ro/App/Document/ge2domjsgq3ti/algoritm-de-verificare-i
 
 I. [RECOM](https://www.google.com/search?q=github+recom+onrc+&sca_esv=080e5c4976d32afe&biw=1920&bih=961&sxsrf=ANbL-n5Nf9x5Avs1TUdlqYABSRum-CwjGQ%3A1779558180321&ei=JOcRau2qE9W_i-gPjtfUiQ4&ved=0ahUKEwjtzMfp-s-UAxXV3wIHHY4rNeEQ4dUDCBA&uact=5&oq=github+recom+onrc+&gs_lp=Egxnd3Mtd2l6LXNlcnAiEmdpdGh1YiByZWNvbSBvbnJjIDIEECMYJzIIEAAYgAQYogQyBRAAGO8FMgUQABjvBTIIEAAYgAQYogQyBRAAGO8FSKkZUABYqhNwAHgBkAEAmAGPAaABvhGqAQQxNC45uAEDyAEA-AEBmAIDoAL1ApgDAJIHAzAuM6AHiz-yBwMwLjO4B_UCwgcHMC4xLjEuMcgHFoAIAQ&sclient=gws-wiz-serp) - Registrul comertului intretinut de [ONRC](https://www.reddit.com/r/programare/comments/1ofloop/api_date_firme_din_rom%C3%A2nia/?tl=en)(a se vedea [portalul](https://myportal.onrc.ro/home) ONRC)
 
-II. [Info-Firme](https://github.com/tudorr89/info-firme):
+II. [Info-Firme](https://github.com/tudorr89/info-firme): https://github.com/tudorr89/info-firme
 
 III. [**Informatii Firme**](https://mfinante.gov.ro/info-pj-selectie-nume-si-judet)
 
