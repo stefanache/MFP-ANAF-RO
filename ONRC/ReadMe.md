@@ -11,7 +11,7 @@ IV. [**@Data-GOV-RO Dtaset(DS): Firme înregistrate la Registrul-Comerțului(ONR
 
 <hr/>
 
-**II**. Reprezinta un [proiect](https://github.com/tudorr89/info-firme) simplu(<ins>**Informatii Firme**</ins>), scris in **Laravel**, care ofera *informatii* despre *toate firmele inregistrate (d)in Romania*(**ONRC**: [***RECOM***](https://www.google.com/search?q=github+recom+onrc+&sca_esv=080e5c4976d32afe&biw=1920&bih=961&sxsrf=ANbL-n5Nf9x5Avs1TUdlqYABSRum-CwjGQ%3A1779558180321&ei=JOcRau2qE9W_i-gPjtfUiQ4&ved=0ahUKEwjtzMfp-s-UAxXV3wIHHY4rNeEQ4dUDCBA&uact=5&oq=github+recom+onrc+&gs_lp=Egxnd3Mtd2l6LXNlcnAiEmdpdGh1YiByZWNvbSBvbnJjIDIEECMYJzIIEAAYgAQYogQyBRAAGO8FMgUQABjvBTIIEAAYgAQYogQyBRAAGO8FSKkZUABYqhNwAHgBkAEAmAGPAaABvhGqAQQxNC45uAEDyAEA-AEBmAIDoAL1ApgDAJIHAzAuM6AHiz-yBwMwLjO4B_UCwgcHMC4xLjEuMcgHFoAIAQ&sclient=gws-wiz-serp)). 
+**II**. Reprezinta un [proiect](https://github.com/tudorr89/info-firme) simplu(<ins>**Informatii Firme**</ins>), scris in **Laravel**, care ofera *informatii* despre *toate firmele inregistrate (d)in Romania*([**ONRC**](https://www.reddit.com/r/programare/comments/1ofloop/api_date_firme_din_rom%C3%A2nia/?tl=en): [***RECOM***](https://www.google.com/search?q=github+recom+onrc+&sca_esv=080e5c4976d32afe&biw=1920&bih=961&sxsrf=ANbL-n5Nf9x5Avs1TUdlqYABSRum-CwjGQ%3A1779558180321&ei=JOcRau2qE9W_i-gPjtfUiQ4&ved=0ahUKEwjtzMfp-s-UAxXV3wIHHY4rNeEQ4dUDCBA&uact=5&oq=github+recom+onrc+&gs_lp=Egxnd3Mtd2l6LXNlcnAiEmdpdGh1YiByZWNvbSBvbnJjIDIEECMYJzIIEAAYgAQYogQyBRAAGO8FMgUQABjvBTIIEAAYgAQYogQyBRAAGO8FSKkZUABYqhNwAHgBkAEAmAGPAaABvhGqAQQxNC45uAEDyAEA-AEBmAIDoAL1ApgDAJIHAzAuM6AHiz-yBwMwLjO4B_UCwgcHMC4xLjEuMcgHFoAIAQ&sclient=gws-wiz-serp)). 
 
 Nu are interfata, totul se face din **CLI**.
 
