@@ -49,7 +49,7 @@
         }
     </style>
     
-    <!-- REPARAT: Import Map cu rutele complete și exacte către fișiere -->
+    <!-- REPARAT DEFINITIV: Import Map cu rute complete către module script reale -->
     <script type="importmap">
       {
         "imports": {
@@ -179,7 +179,7 @@
                 console.error(err);
             });
 
-        // REPARAT: Completarea codului de selecție cu Raycaster care fusese decupat
+        // Configurare Raycaster pentru selecție interactivă click
         const raycaster = new THREE.Raycaster();
         const mouse = new THREE.Vector2();
 
