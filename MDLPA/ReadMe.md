@@ -150,7 +150,7 @@ Vor fi afisare **locurile**/plotii(**extrudate 3D**, in mod artificial pt a le f
 Acest [**BIMviewer**](https://bimviewer.org/) afiseaza structura generata in fisierul [**IFC**](https://www.revistaconstructiilor.eu/index.php/2023/09/12/asro-industry-foundation-classes-ifc-standardul-ce-transforma-modul-in-care-partajam-date-in-constructii/)(structurat astfel: **IfcProject** -> **IfcSite** -> **IfcBuilding** -> **IfcBuildingStorey**)/[***BIM***](https://www.revistaconstructiilor.eu/index.php/2021/08/01/asro-standardele-bim-optimizeaza-procesul-de-proiectare-a-cladirilor/).
 
 
-**Nota**: Pentru a vedea rezultatul 3d (fisierul **IFC**) se poate utiliza si **ThreeJS**.
+**Nota**: Pentru a vedea rezultatul **3D** (fisierul-**BIM** in format standardizat [**IFC**](https://github.com/stefanache/MFP-ANAF-RO/blob/main/MDLPA/qcad/proiect_fundatie_inteligent.ifc)) se poate utiliza si **ThreeJS**.
 <br/> Am inceput un embrion(neterminat/netestat inca) in acest sens ce poate fi vazut in [***qcad/*** **index.html**](https://github.com/stefanache/MFP-ANAF-RO/blob/main/MDLPA/qcad/index.html).
 
 A se vedea si [**Ghidurile nationale MDLPA**](https://www.mdlpa.ro/uploads/articole/attachments/64d0e746b4055671677104.pdf) dar si [***POCA: GHID PRIVIND UTILIZAREA INSTRUMENTELOR DE GENERARE ȘI GESTIONARE A DATELOR DIGITALE AFERENTE CONSTRUCȚIILOR***](https://www.mdlpa.ro/uploads/articole/attachments/64d0e746b4055671677104.pdf), pentru a va obisnui cu termenii utilizati in standardele elaborate sub egida aociatiei **ASRO**(SR EN ISO) din domeniul [**Constructiilor**](https://buildingsmartromania.org/ro/programare?tip=strategica).
