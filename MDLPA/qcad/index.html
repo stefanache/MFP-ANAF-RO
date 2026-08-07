@@ -27,7 +27,8 @@
             background: rgba(0, 0, 0, 0.9); 
             color: #fff;
             padding: 15px; 
-            border-radius: 8px; max-width: 320px;
+            border-radius: 8px; 
+            max-width: 320px;
             box-shadow: 0 4px 10px rgba(0,0,0,0.5); 
             border: 1px solid #444;
             z-index: 10;
@@ -48,9 +49,9 @@
         }
     </style>
     
-    <!-- SIGURANȚĂ 100%: Încărcare locală direct din folderul tău GitHub (Fără CORS, fără Import Map) -->
-    <script src="three.min.js"></script>
-    <script src="OrbitControls.js"></script>
+    <!-- VARIANTĂ FINALĂ: Încărcare stabilă globală din CDN (Fără CORS, fără 404, fără Import Maps) -->
+    <script src="https://jsdelivr.net"></script>
+    <script src="https://jsdelivr.net"></script>
 </head>
 <body>
 
@@ -62,7 +63,7 @@
     </div>
 
     <script>
-        // Script clasic non-module (Nu mai folosim comanda "import")
+        // Script clasic securizat (Folosește obiectul THREE generat global de CDN)
         const container = document.getElementById('canvas-container');
         const scene = new THREE.Scene();
         scene.background = new THREE.Color(0x111111);
@@ -75,25 +76,28 @@
         renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));
         container.appendChild(renderer.domElement);
 
-        // Activare controale de orbitare 3D din fișierul local
+        // Activare controale de orbitare cu mouse-ul
         const controls = new THREE.OrbitControls(camera, renderer.domElement);
         controls.enableDamping = true;
         controls.target.set(12, -2, 12);
 
+        // Iluminare scenă
         scene.add(new THREE.AmbientLight(0xffffff, 0.8));
         const dirLight = new THREE.DirectionalLight(0xffffff, 0.6);
         dirLight.position.set(20, 50, 20);
         scene.add(dirLight);
 
+        // Grila verde de ghidaj vizual
         const gridHelper = new THREE.GridHelper(60, 30, 0x4caf50, 0x333333);
         scene.add(gridHelper);
 
         const infoContent = document.getElementById('content');
         const elementeInteractive = [];
 
+        // Citirea fișierului IFC aflat în același folder
         fetch('proiect_fundatie_inteligent.ifc')
             .then(response => {
-                if (!response.ok) throw new Error("Fișierul IFC nu a putut fi găsit.");
+                if (!response.ok) throw new Error("Fișierul IFC nu a putut fi găsit pe server.");
                 return response.text();
             })
             .then(text => {
@@ -111,7 +115,12 @@
                         const matchMaterial = linie.match(/'\s*,\s*'([^']+)'\s*,\s*#/);
                         const materialPiesa = matchMaterial ? matchMaterial[1] : (tip === 'IfcColumn' ? 'C30/45' : 'C16/20');
 
-                        elementeFizice.push({ id, tip, nume: numePiesa, material: materialPiesa });
+                        elementeFizice.push({
+                            id: id,
+                            tip: tip,
+                            nume: numePiesa,
+                            material: materialPiesa
+                        });
                     }
                 });
 
@@ -161,6 +170,7 @@
                 console.error(err);
             });
 
+        // Configurare Raycaster pentru detecție click
         const raycaster = new THREE.Raycaster();
         const mouse = new THREE.Vector2();
 
@@ -192,6 +202,7 @@
             }
         });
 
+        // Bucla de randare continuă
         function animate() {
             requestAnimationFrame(animate);
             controls.update();
@@ -199,6 +210,7 @@
         }
         animate();
 
+        // Redimensionare dinamică fereastră
         window.addEventListener('resize', () => {
             camera.aspect = window.innerWidth / window.innerHeight;
             camera.updateProjectionMatrix();
