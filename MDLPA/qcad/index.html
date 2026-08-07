@@ -27,8 +27,7 @@
             background: rgba(0, 0, 0, 0.9); 
             color: #fff;
             padding: 15px; 
-            border-radius: 8px; 
-            max-width: 320px;
+            border-radius: 8px; max-width: 320px;
             box-shadow: 0 4px 10px rgba(0,0,0,0.5); 
             border: 1px solid #444;
             z-index: 10;
@@ -49,15 +48,9 @@
         }
     </style>
     
-    <!-- REPARAT DEFINITIV: Import Map cu rute complete către module script reale -->
-    <script type="importmap">
-      {
-        "imports": {
-          "three": "https://unpkg.com",
-          "three/addons/": "https://unpkg.com"
-        }
-      }
-    </script>
+    <!-- SIGURANȚĂ 100%: Încărcare locală direct din folderul tău GitHub (Fără CORS, fără Import Map) -->
+    <script src="three.min.js"></script>
+    <script src="OrbitControls.js"></script>
 </head>
 <body>
 
@@ -68,11 +61,8 @@
         <div id="content">Se analizeaza structura text a fisierului IFC...</div>
     </div>
 
-    <script type="module">
-        import * as THREE from "three";
-        import { OrbitControls } from "three/addons/controls/OrbitControls.js";
-
-        // Inițializare motor grafic local
+    <script>
+        // Script clasic non-module (Nu mai folosim comanda "import")
         const container = document.getElementById('canvas-container');
         const scene = new THREE.Scene();
         scene.background = new THREE.Color(0x111111);
@@ -85,28 +75,25 @@
         renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));
         container.appendChild(renderer.domElement);
 
-        // Activare controale de orbitare 3D
-        const controls = new OrbitControls(camera, renderer.domElement);
+        // Activare controale de orbitare 3D din fișierul local
+        const controls = new THREE.OrbitControls(camera, renderer.domElement);
         controls.enableDamping = true;
         controls.target.set(12, -2, 12);
 
-        // Configurare iluminare scenă
         scene.add(new THREE.AmbientLight(0xffffff, 0.8));
         const dirLight = new THREE.DirectionalLight(0xffffff, 0.6);
         dirLight.position.set(20, 50, 20);
         scene.add(dirLight);
 
-        // Ghidaj vizual de rețea (Grid)
         const gridHelper = new THREE.GridHelper(60, 30, 0x4caf50, 0x333333);
         scene.add(gridHelper);
 
         const infoContent = document.getElementById('content');
         const elementeInteractive = [];
 
-        // Citirea nativă a fișierului IFC ca fișier text structurat
         fetch('proiect_fundatie_inteligent.ifc')
             .then(response => {
-                if (!response.ok) throw new Error("Fișierul IFC nu a putut fi găsit pe server.");
+                if (!response.ok) throw new Error("Fișierul IFC nu a putut fi găsit.");
                 return response.text();
             })
             .then(text => {
@@ -124,12 +111,7 @@
                         const matchMaterial = linie.match(/'\s*,\s*'([^']+)'\s*,\s*#/);
                         const materialPiesa = matchMaterial ? matchMaterial[1] : (tip === 'IfcColumn' ? 'C30/45' : 'C16/20');
 
-                        elementeFizice.push({
-                            id: id,
-                            tip: tip,
-                            nume: numePiesa,
-                            material: materialPiesa
-                        });
+                        elementeFizice.push({ id, tip, nume: numePiesa, material: materialPiesa });
                     }
                 });
 
@@ -179,7 +161,6 @@
                 console.error(err);
             });
 
-        // Configurare Raycaster pentru selecție interactivă click
         const raycaster = new THREE.Raycaster();
         const mouse = new THREE.Vector2();
 
