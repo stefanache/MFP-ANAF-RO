@@ -19,14 +19,9 @@
         .label { color: #aaa; font-weight: bold; }
     </style>
 
-    <script type="importmap">
-      {
-        "imports": {
-          "three": "https://jsdelivr.net",
-          "three/addons/": "https://jsdelivr.net"
-        }
-      }
-    </script>
+    <!-- Includere clasică Three.js și OrbitControls (Fără Module/Importmap) -->
+    <script src="https://jsdelivr.net"></script>
+    <script src="https://jsdelivr.net"></script>
 </head>
 <body>
 
@@ -37,10 +32,8 @@
         <div id="content">Se analizeaza structura text a fisierului IFC...</div>
     </div>
 
-    <script type="module">
-        import * as THREE from "three";
-        import { OrbitControls } from "three/addons/controls/OrbitControls.js";
-
+    <!-- Script clasic, compatibil cu injectarea de tip appendChild -->
+    <script>
         const container = document.getElementById('canvas-container');
         const scene = new THREE.Scene();
         scene.background = new THREE.Color(0x111111);
@@ -53,7 +46,8 @@
         renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));
         container.appendChild(renderer.domElement);
 
-        const controls = new OrbitControls(camera, renderer.domElement);
+        // OrbitControls este acum legat direct de obiectul global THREE
+        const controls = new THREE.OrbitControls(camera, renderer.domElement);
         controls.enableDamping = true;
         controls.target.set(12, -2, 12);
 
@@ -79,7 +73,9 @@
 
                 linii.forEach(linie => {
                     if (linie.includes('IFCFOOTING') || linie.includes('IFCCOLUMN')) {
-                        const id = linie.split('=')[0].trim();
+                        // Corectat split și trim direct pe bucăți separate
+                        const parti = linie.split('=');
+                        const id = parti[0] ? parti[0].trim() : '#0';
                         const tip = linie.includes('IFCCOLUMN') ? 'IfcColumn' : 'IfcFooting';
                         
                         const matchNume = linie.match(/,\s*'([^']+)'/);
@@ -149,7 +145,6 @@
         window.addEventListener('click', (event) => {
             const rect = renderer.domElement.getBoundingClientRect();
             
-            // Verifică dacă s-a dat click direct pe panoul de info pentru a nu bloca interfața html
             if (event.clientX < 340 && event.clientY < 240) return;
 
             mouse.x = ((event.clientX - rect.left) / rect.width) * 2 - 1;
@@ -159,13 +154,18 @@
             const intersects = raycaster.intersectObjects(elementeInteractive);
 
             if (intersects.length > 0) {
+                // Corectat preluarea obiectului (intersects[0].object)
                 const piesa = intersects[0].object;
                 const data = piesa.userData;
 
                 elementeInteractive.forEach(item => {
-                    if(item.material.emissive) item.material.emissive.setHex(0x000000);
+                    if (item.material && item.material.emissive) {
+                        item.material.emissive.setHex(0x000000);
+                    }
                 });
-                if(piesa.material.emissive) piesa.material.emissive.setHex(0x333333);
+                if (piesa.material && piesa.material.emissive) {
+                    piesa.material.emissive.setHex(0x333333);
+                }
 
                 infoContent.innerHTML = `
                     <div class="data-row"><span class="label">Express ID:</span> ${data.expressId}</div>
