@@ -152,7 +152,7 @@ Acest [**BIMviewer**](https://bimviewer.org/) afiseaza structura generata in fis
 
 **Nota**: Pentru a vedea rezultatul **3D** (fisierul-**BIM** in format standardizat [**IFC**](https://github.com/stefanache/MFP-ANAF-RO/blob/main/MDLPA/qcad/proiect_fundatie_inteligent.ifc)) se mai poate utiliza(in-loc-de [**BIMviewer**](https://bimviewer.org/)) si [**ThreeJS/WebGL**](https://threejs.org/examples/), ca solutie personala de previzualizare!
 <br/> Am inceput un embrion/ciot(neterminat/netestat inca) in acest sens ce poate fi vazut in [***qcad/*** **index.html**](https://github.com/stefanache/MFP-ANAF-RO/blob/main/MDLPA/qcad/index.html).<br/>
-Pentru previzualizare(dupa finalizare **index.html**) se poate utiliza acest [**link**](https://htmlpreview.github.io/?https://github.com/stefanache/MFP-ANAF-RO/blob/main/MDLPA/qcad/index.html)
+Pentru (pre)vizualizare(dupa finalizare **index.html**) se poate utiliza acest [**link**](https://stefanache.github.io/MFP-ANAF-RO/MDLPA/qcad/index.html)
 
 A se vedea si [**Ghidurile nationale MDLPA**](https://www.mdlpa.ro/uploads/articole/attachments/64d0e746b4055671677104.pdf) dar si [***POCA: GHID PRIVIND UTILIZAREA INSTRUMENTELOR DE GENERARE ȘI GESTIONARE A DATELOR DIGITALE AFERENTE CONSTRUCȚIILOR***](https://www.mdlpa.ro/uploads/articole/attachments/64d0e746b4055671677104.pdf), pentru a va obisnui cu termenii utilizati in standardele elaborate sub egida aociatiei **ASRO**(SR EN ISO) din domeniul [**Constructiilor**](https://buildingsmartromania.org/ro/programare?tip=strategica).
 
