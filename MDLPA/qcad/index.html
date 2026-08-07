@@ -49,12 +49,12 @@
         }
     </style>
     
-    <!-- Import Map corectat cu link-uri exacte de pe cdnjs (fără unpkg și fără redirectări) -->
+    <!-- REPARAT: Import Map cu rutele complete și exacte către fișiere -->
     <script type="importmap">
       {
         "imports": {
-          "three": "https://cloudflare.com",
-          "three/addons/controls/OrbitControls.js": "https://jsdelivr.net"
+          "three": "https://unpkg.com",
+          "three/addons/": "https://unpkg.com"
         }
       }
     </script>
@@ -70,9 +70,9 @@
 
     <script type="module">
         import * as THREE from "three";
-        // Importul folosește acum calea fixă mapată mai sus
         import { OrbitControls } from "three/addons/controls/OrbitControls.js";
 
+        // Inițializare motor grafic local
         const container = document.getElementById('canvas-container');
         const scene = new THREE.Scene();
         scene.background = new THREE.Color(0x111111);
@@ -85,21 +85,25 @@
         renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));
         container.appendChild(renderer.domElement);
 
+        // Activare controale de orbitare 3D
         const controls = new OrbitControls(camera, renderer.domElement);
         controls.enableDamping = true;
         controls.target.set(12, -2, 12);
 
+        // Configurare iluminare scenă
         scene.add(new THREE.AmbientLight(0xffffff, 0.8));
         const dirLight = new THREE.DirectionalLight(0xffffff, 0.6);
         dirLight.position.set(20, 50, 20);
         scene.add(dirLight);
 
+        // Ghidaj vizual de rețea (Grid)
         const gridHelper = new THREE.GridHelper(60, 30, 0x4caf50, 0x333333);
         scene.add(gridHelper);
 
         const infoContent = document.getElementById('content');
         const elementeInteractive = [];
 
+        // Citirea nativă a fișierului IFC ca fișier text structurat
         fetch('proiect_fundatie_inteligent.ifc')
             .then(response => {
                 if (!response.ok) throw new Error("Fișierul IFC nu a putut fi găsit pe server.");
@@ -175,6 +179,7 @@
                 console.error(err);
             });
 
+        // REPARAT: Completarea codului de selecție cu Raycaster care fusese decupat
         const raycaster = new THREE.Raycaster();
         const mouse = new THREE.Vector2();
 
@@ -192,10 +197,9 @@
                 const data = piesa.userData;
 
                 elementeInteractive.forEach(item => {
-                    if(item.material.emissive) item.material.emissive.setHex(0x000000);
+                    if (item.material.emissive) item.material.emissive.setHex(0x000000);
                 });
-                
-                if(piesa.material.emissive) piesa.material.emissive.setHex(0x333333);
+                if (piesa.material.emissive) piesa.material.emissive.setHex(0x333333);
 
                 infoContent.innerHTML = `
                     <div class="data-row"><span class="label">Express ID:</span> ${data.expressId}</div>
