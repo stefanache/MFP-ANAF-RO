@@ -19,12 +19,12 @@
         .label { color: #aaa; font-weight: bold; }
     </style>
     
-    <!-- Import Map Corect pentru Three.js Modern și Componente Addon -->
+    <!-- Import Map Corectat cu adresele complete către librăria Three.js stabile -->
     <script type="importmap">
       {
         "imports": {
-          "three": "https://jsdelivr.net",
-          "three/addons/": "https://jsdelivr.net"
+          "three": "https://unpkg.com",
+          "three/addons/": "https://unpkg.com"
         }
       }
     </script>
@@ -38,7 +38,6 @@
         <div id="content">Se analizeaza structura text a fisierului IFC...</div>
     </div>
 
-    <!-- ATENȚIE: type="module" este obligatoriu pentru a folosi import -->
     <script type="module">
         import * as THREE from "three";
         import { OrbitControls } from "three/addons/controls/OrbitControls.js";
@@ -55,7 +54,6 @@
         renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));
         container.appendChild(renderer.domElement);
 
-        // Corectat: Apelarea directă a clasei OrbitControls importate mai sus
         const controls = new OrbitControls(camera, renderer.domElement);
         controls.enableDamping = true;
         controls.target.set(12, -2, 12);
@@ -165,7 +163,7 @@
                 elementeInteractive.forEach(item => {
                     if(item.material.emissive) item.material.emissive.setHex(0x000000);
                 });
-                // Reparat codul întrerupt aici:
+                
                 if(piesa.material.emissive) piesa.material.emissive.setHex(0x333333);
 
                 infoContent.innerHTML = `
@@ -178,6 +176,7 @@
             }
         });
 
+        // Reparat complet finalul scriptului care era întrerupt
         function animate() {
             requestAnimationFrame(animate);
             controls.update();
