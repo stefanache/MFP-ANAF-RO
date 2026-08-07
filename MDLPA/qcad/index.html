@@ -12,24 +12,21 @@
             background: rgba(0, 0, 0, 0.9); color: #fff;
             padding: 15px; border-radius: 8px; max-width: 320px;
             box-shadow: 0 4px 10px rgba(0,0,0,0.5); border: 1px solid #444;
-            z-index: 10;
+            z-index: 10; pointer-events: auto;
         }
         h3 { margin-top: 0; color: #4caf50; border-bottom: 1px solid #444; padding-bottom: 5px; }
         .data-row { margin: 8px 0; font-size: 14px; }
         .label { color: #aaa; font-weight: bold; }
     </style>
-    
 
     <script type="importmap">
       {
         "imports": {
-          "three": "https://cdn.jsdelivr.net/npm/three@0.182.0/build/three.webgpu.js",
-          "three/webgpu": "https://cdn.jsdelivr.net/npm/three@0.182.0/build/three.webgpu.js"
+          "three": "https://jsdelivr.net",
+          "three/addons/": "https://jsdelivr.net"
         }
       }
     </script>
-
-    
 </head>
 <body>
 
@@ -40,8 +37,10 @@
         <div id="content">Se analizeaza structura text a fisierului IFC...</div>
     </div>
 
-    <script>
-        import * as THREE from "three/webgpu";
+    <script type="module">
+        import * as THREE from "three";
+        import { OrbitControls } from "three/addons/controls/OrbitControls.js";
+
         const container = document.getElementById('canvas-container');
         const scene = new THREE.Scene();
         scene.background = new THREE.Color(0x111111);
@@ -54,7 +53,7 @@
         renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));
         container.appendChild(renderer.domElement);
 
-        const controls = new THREE.OrbitControls(camera, renderer.domElement);
+        const controls = new OrbitControls(camera, renderer.domElement);
         controls.enableDamping = true;
         controls.target.set(12, -2, 12);
 
@@ -148,11 +147,13 @@
         const mouse = new THREE.Vector2();
 
         window.addEventListener('click', (event) => {
-            // Permite click pe elementele din info-panel
+            const rect = renderer.domElement.getBoundingClientRect();
+            
+            // Verifică dacă s-a dat click direct pe panoul de info pentru a nu bloca interfața html
             if (event.clientX < 340 && event.clientY < 240) return;
 
-            mouse.x = (event.clientX / window.innerWidth) * 2 - 1;
-            mouse.y = -(event.clientY / window.innerHeight) * 2 + 1;
+            mouse.x = ((event.clientX - rect.left) / rect.width) * 2 - 1;
+            mouse.y = -((event.clientY - rect.top) / rect.height) * 2 + 1;
 
             raycaster.setFromCamera(mouse, camera);
             const intersects = raycaster.intersectObjects(elementeInteractive);
@@ -162,9 +163,9 @@
                 const data = piesa.userData;
 
                 elementeInteractive.forEach(item => {
-                    item.material.emissive.setHex(0x000000);
+                    if(item.material.emissive) item.material.emissive.setHex(0x000000);
                 });
-                piesa.material.emissive.setHex(0x333333);
+                if(piesa.material.emissive) piesa.material.emissive.setHex(0x333333);
 
                 infoContent.innerHTML = `
                     <div class="data-row"><span class="label">Express ID:</span> ${data.expressId}</div>
