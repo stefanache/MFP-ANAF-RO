@@ -2,6 +2,7 @@
 <html lang="ro">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>BIM AI Viewer - Motor Geometric Local</title>
     <style>
         body { margin: 0; padding: 0; overflow: hidden; font-family: sans-serif; background-color: #111; }
@@ -11,12 +12,14 @@
             background: rgba(0, 0, 0, 0.9); color: #fff;
             padding: 15px; border-radius: 8px; max-width: 320px;
             box-shadow: 0 4px 10px rgba(0,0,0,0.5); border: 1px solid #444;
-            pointer-events: none; z-index: 10;
+            z-index: 10;
         }
         h3 { margin-top: 0; color: #4caf50; border-bottom: 1px solid #444; padding-bottom: 5px; }
         .data-row { margin: 8px 0; font-size: 14px; }
         .label { color: #aaa; font-weight: bold; }
     </style>
+    
+    <!-- ÎNCĂRCARE CORECTĂ THREE.JS ȘI ORBITCONTROLS DIN CDN -->
     <script src="https://cloudflare.com"></script>
     <script src="https://jsdelivr.net"></script>
 </head>
@@ -58,7 +61,10 @@
         const elementeInteractive = [];
 
         fetch('proiect_fundatie_inteligent.ifc')
-            .then(response => response.text())
+            .then(response => {
+                if (!response.ok) throw new Error("Fișierul IFC nu a putut fi găsit pe server.");
+                return response.text();
+            })
             .then(text => {
                 const linii = text.split('\n');
                 let elementeFizice = [];
@@ -68,11 +74,9 @@
                         const id = linie.split('=')[0].trim();
                         const tip = linie.includes('IFCCOLUMN') ? 'IfcColumn' : 'IfcFooting';
                         
-                        // Extragere corecta a codului piesei din string (ex: 'FD1' sau 'C1')
                         const matchNume = linie.match(/,\s*'([^']+)'/);
                         const numePiesa = matchNume ? matchNume[1] : 'Element';
                         
-                        // Extragere marca material (ex: 'C16/20')
                         const matchMaterial = linie.match(/'\s*,\s*'([^']+)'\s*,\s*#/);
                         const materialPiesa = matchMaterial ? matchMaterial[1] : (tip === 'IfcColumn' ? 'C30/45' : 'C16/20');
 
@@ -91,18 +95,17 @@
                     const rand = Math.floor(index / coloane_maxime);
                     const coloana = index % coloane_maxime;
                     
-                    const pos_x = coloana * 5.0; // Spatiere marita pentru vizibilitate
+                    const pos_x = coloana * 5.0; 
                     const pos_y = rand * 5.0;
                     
-                    // Dimensiuni geometrice 3D proportionale
                     const lx = elem.tip === 'IfcColumn' ? 0.6 : 1.4;
                     const ly = elem.tip === 'IfcColumn' ? 0.6 : 1.0;
-                    const lz = elem.tip === 'IfcColumn' ? 3.0 : 0.5; // Stalpii sunt inalti, fundatiile sunt tălpi groase
+                    const lz = elem.tip === 'IfcColumn' ? 3.0 : 0.5; 
                     
-                    const pos_z = elem.tip === 'IfcColumn' ? (lz / 2) : -(lz / 2); // Stalpii cresc in sus, fundatiile coboara in jos
+                    const pos_z = elem.tip === 'IfcColumn' ? (lz / 2) : -(lz / 2); 
 
                     const geometry = new THREE.BoxGeometry(lx, ly, lz);
-                    const culoare = elem.tip === 'IfcColumn' ? 0x2196f3 : 0x4caf50; // Albastru pt IfcColumn, Verde pt IfcFooting
+                    const culoare = elem.tip === 'IfcColumn' ? 0x2196f3 : 0x4caf50; 
                     
                     const material = new THREE.MeshStandardMaterial({ 
                         color: culoare,
@@ -111,7 +114,7 @@
                     });
                     
                     const mesh = new THREE.Mesh(geometry, material);
-                    mesh.position.set(pos_x, pos_z, -pos_y); // Orientare corecta in coordonatele Three.js
+                    mesh.position.set(pos_x, pos_z, -pos_y); 
                     scene.add(mesh);
 
                     mesh.userData = {
@@ -128,7 +131,7 @@
                 infoContent.innerHTML = `Fișier text analizat!<br>Au fost desenate <b>${numar_randat} elemente BIM 3D</b>.<br><br>Gropile de fundație sunt <span style="color:#4caf50;font-weight:bold">VERZI</span> (sub sol), iar stâlpii sunt <span style="color:#2196f3;font-weight:bold">ALBAȘTRI</span>.<br><br>Dă click pe ele pentru a interoga modelul.`;
             })
             .catch(err => {
-                infoContent.innerText = "Eroare la procesarea textului din fișierul IFC.";
+                infoContent.innerText = "Eroare la procesarea textului din fișierul IFC: " + err.message;
                 console.error(err);
             });
 
@@ -136,6 +139,7 @@
         const mouse = new THREE.Vector2();
 
         window.addEventListener('click', (event) => {
+            // Permite click pe elementele din info-panel
             if (event.clientX < 340 && event.clientY < 240) return;
 
             mouse.x = (event.clientX / window.innerWidth) * 2 - 1;
