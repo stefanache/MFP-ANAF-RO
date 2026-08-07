@@ -5,21 +5,51 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>BIM AI Viewer - Motor Geometric Local</title>
     <style>
-        body { margin: 0; padding: 0; overflow: hidden; font-family: sans-serif; background-color: #111; }
-        #canvas-container { width: 100vw; height: 100vh; position: absolute; top: 0; left: 0; z-index: 1; }
+        body { 
+            margin: 0; 
+            padding: 0; 
+            overflow: hidden; 
+            font-family: sans-serif; 
+            background-color: #111; 
+        }
+        #canvas-container { 
+            width: 100vw; 
+            height: 100vh; 
+            position: absolute; 
+            top: 0; 
+            left: 0; 
+            z-index: 1; 
+        }
         #info-panel {
-            position: absolute; top: 20px; left: 20px;
-            background: rgba(0, 0, 0, 0.9); color: #fff;
-            padding: 15px; border-radius: 8px; max-width: 320px;
-            box-shadow: 0 4px 10px rgba(0,0,0,0.5); border: 1px solid #444;
+            position: absolute; 
+            top: 20px; 
+            left: 20px;
+            background: rgba(0, 0, 0, 0.9); 
+            color: #fff;
+            padding: 15px; 
+            border-radius: 8px; 
+            max-width: 320px;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.5); 
+            border: 1px solid #444;
             z-index: 10;
         }
-        h3 { margin-top: 0; color: #4caf50; border-bottom: 1px solid #444; padding-bottom: 5px; }
-        .data-row { margin: 8px 0; font-size: 14px; }
-        .label { color: #aaa; font-weight: bold; }
+        h3 { 
+            margin-top: 0; 
+            color: #4caf50; 
+            border-bottom: 1px solid #444; 
+            padding-bottom: 5px; 
+        }
+        .data-row { 
+            margin: 8px 0; 
+            font-size: 14px; 
+        }
+        .label { 
+            color: #aaa; 
+            font-weight: bold; 
+        }
     </style>
     
-    <!-- Import Map Corectat cu adresele complete către librăria Three.js stabile -->
+    <!-- Import Map rezistent la CORS și cu versiuni aliniate ale librăriilor -->
     <script type="importmap">
       {
         "imports": {
@@ -38,10 +68,12 @@
         <div id="content">Se analizeaza structura text a fisierului IFC...</div>
     </div>
 
+    <!-- Modul activat obligatoriu pentru procesarea importurilor JavaScript -->
     <script type="module">
         import * as THREE from "three";
         import { OrbitControls } from "three/addons/controls/OrbitControls.js";
 
+        // Inițializare motor grafic local
         const container = document.getElementById('canvas-container');
         const scene = new THREE.Scene();
         scene.background = new THREE.Color(0x111111);
@@ -54,21 +86,25 @@
         renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));
         container.appendChild(renderer.domElement);
 
+        // Activare controale de orbitare 3D
         const controls = new OrbitControls(camera, renderer.domElement);
         controls.enableDamping = true;
         controls.target.set(12, -2, 12);
 
+        // Configurare iluminare scenă
         scene.add(new THREE.AmbientLight(0xffffff, 0.8));
         const dirLight = new THREE.DirectionalLight(0xffffff, 0.6);
         dirLight.position.set(20, 50, 20);
         scene.add(dirLight);
 
+        // Ghidaj vizual de rețea (Grid)
         const gridHelper = new THREE.GridHelper(60, 30, 0x4caf50, 0x333333);
         scene.add(gridHelper);
 
         const infoContent = document.getElementById('content');
         const elementeInteractive = [];
 
+        // Citirea nativă a fișierului IFC ca fișier text structurat
         fetch('proiect_fundatie_inteligent.ifc')
             .then(response => {
                 if (!response.ok) throw new Error("Fișierul IFC nu a putut fi găsit pe server.");
@@ -144,10 +180,12 @@
                 console.error(err);
             });
 
+        // Configurare Raycaster pentru selecția elementelor la click
         const raycaster = new THREE.Raycaster();
         const mouse = new THREE.Vector2();
 
         window.addEventListener('click', (event) => {
+            // Ignoră click-urile date în interiorul panoului informativ text
             if (event.clientX < 340 && event.clientY < 240) return;
 
             mouse.x = (event.clientX / window.innerWidth) * 2 - 1;
@@ -160,10 +198,12 @@
                 const piesa = intersects[0].object;
                 const data = piesa.userData;
 
+                // Resetare culoare emisivă elemente active
                 elementeInteractive.forEach(item => {
                     if(item.material.emissive) item.material.emissive.setHex(0x000000);
                 });
                 
+                // Aplicare evidențiere luminoasă pe elementul selectat
                 if(piesa.material.emissive) piesa.material.emissive.setHex(0x333333);
 
                 infoContent.innerHTML = `
@@ -176,7 +216,7 @@
             }
         });
 
-        // Reparat complet finalul scriptului care era întrerupt
+        // Bucla principală de redare (Animație continuă)
         function animate() {
             requestAnimationFrame(animate);
             controls.update();
@@ -184,6 +224,7 @@
         }
         animate();
 
+        // Controlul adaptabilității la redimensionarea ecranului
         window.addEventListener('resize', () => {
             camera.aspect = window.innerWidth / window.innerHeight;
             camera.updateProjectionMatrix();
