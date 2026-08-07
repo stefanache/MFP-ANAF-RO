@@ -4,64 +4,29 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>BIM AI Viewer - Motor Geometric Local</title>
-    
     <style>
-        body {
-            margin: 0;
-            padding: 0;
-            overflow: hidden;
-            font-family: sans-serif;
-            background-color: #111;
-        }
-
-        #canvas-container {
-            width: 100vw;
-            height: 100vh;
-            position: absolute;
-            top: 0;
-            left: 0;
-            z-index: 1;
-        }
-
+        body { margin: 0; padding: 0; overflow: hidden; font-family: sans-serif; background-color: #111; }
+        #canvas-container { width: 100vw; height: 100vh; position: absolute; top: 0; left: 0; z-index: 1; }
         #info-panel {
-            position: absolute;
-            top: 20px;
-            left: 20px;
-            background: rgba(0, 0, 0, 0.9);
-            color: #fff;
-            padding: 15px;
-            border-radius: 8px;
-            max-width: 320px;
-            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
-            border: 1px solid #444;
+            position: absolute; top: 20px; left: 20px;
+            background: rgba(0, 0, 0, 0.9); color: #fff;
+            padding: 15px; border-radius: 8px; max-width: 320px;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.5); border: 1px solid #444;
             z-index: 10;
         }
-
-        h3 {
-            margin-top: 0;
-            color: #4caf50;
-            border-bottom: 1px solid #444;
-            padding-bottom: 5px;
-        }
-
-        .data-row {
-            margin: 8px 0;
-            font-size: 14px;
-        }
-
-        .label {
-            color: #aaa;
-            font-weight: bold;
-        }
+        h3 { margin-top: 0; color: #4caf50; border-bottom: 1px solid #444; padding-bottom: 5px; }
+        .data-row { margin: 8px 0; font-size: 14px; }
+        .label { color: #aaa; font-weight: bold; }
     </style>
-
+    
+    <!-- Import Map Corect pentru Three.js Modern și Componente Addon -->
     <script type="importmap">
-        {
-            "imports": {
-                "three": "https://cdn.jsdelivr.net/npm/three@0.182.0/build/three.webgpu.js",
-                "three/webgpu": "https://cdn.jsdelivr.net/npm/three@0.182.0/build/three.webgpu.js"
-            }
+      {
+        "imports": {
+          "three": "https://jsdelivr.net",
+          "three/addons/": "https://jsdelivr.net"
         }
+      }
     </script>
 </head>
 <body>
@@ -73,10 +38,11 @@
         <div id="content">Se analizeaza structura text a fisierului IFC...</div>
     </div>
 
-    <script>
-        import * as THREE from "three/webgpu";
+    <!-- ATENȚIE: type="module" este obligatoriu pentru a folosi import -->
+    <script type="module">
+        import * as THREE from "three";
+        import { OrbitControls } from "three/addons/controls/OrbitControls.js";
 
-        // Inițializare scenă și setări de bază
         const container = document.getElementById('canvas-container');
         const scene = new THREE.Scene();
         scene.background = new THREE.Color(0x111111);
@@ -89,13 +55,12 @@
         renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));
         container.appendChild(renderer.domElement);
 
-        const controls = new THREE.OrbitControls(camera, renderer.domElement);
+        // Corectat: Apelarea directă a clasei OrbitControls importate mai sus
+        const controls = new OrbitControls(camera, renderer.domElement);
         controls.enableDamping = true;
         controls.target.set(12, -2, 12);
 
-        // Lumini și elemente ajutătoare
         scene.add(new THREE.AmbientLight(0xffffff, 0.8));
-
         const dirLight = new THREE.DirectionalLight(0xffffff, 0.6);
         dirLight.position.set(20, 50, 20);
         scene.add(dirLight);
@@ -106,7 +71,6 @@
         const infoContent = document.getElementById('content');
         const elementeInteractive = [];
 
-        // Încărcare și procesare fișier IFC
         fetch('proiect_fundatie_inteligent.ifc')
             .then(response => {
                 if (!response.ok) throw new Error("Fișierul IFC nu a putut fi găsit pe server.");
@@ -126,12 +90,12 @@
                         
                         const matchMaterial = linie.match(/'\s*,\s*'([^']+)'\s*,\s*#/);
                         const materialPiesa = matchMaterial ? matchMaterial[1] : (tip === 'IfcColumn' ? 'C30/45' : 'C16/20');
-                        
-                        elementeFizice.push({ 
-                            id: id, 
-                            tip: tip, 
-                            nume: numePiesa, 
-                            material: materialPiesa 
+
+                        elementeFizice.push({
+                            id: id,
+                            tip: tip,
+                            nume: numePiesa,
+                            material: materialPiesa
                         });
                     }
                 });
@@ -142,58 +106,50 @@
                     const rand = Math.floor(index / coloane_maxime);
                     const coloana = index % coloane_maxime;
                     
-                    const pos_x = coloana * 5.0;
+                    const pos_x = coloana * 5.0; 
                     const pos_y = rand * 5.0;
                     
                     const lx = elem.tip === 'IfcColumn' ? 0.6 : 1.4;
                     const ly = elem.tip === 'IfcColumn' ? 0.6 : 1.0;
-                    const lz = elem.tip === 'IfcColumn' ? 3.0 : 0.5;
+                    const lz = elem.tip === 'IfcColumn' ? 3.0 : 0.5; 
                     
-                    const pos_z = elem.tip === 'IfcColumn' ? (lz / 2) : -(lz / 2);
-                    
+                    const pos_z = elem.tip === 'IfcColumn' ? (lz / 2) : -(lz / 2); 
+
                     const geometry = new THREE.BoxGeometry(lx, ly, lz);
-                    const culoare = elem.tip === 'IfcColumn' ? 0x2196f3 : 0x4caf50;
+                    const culoare = elem.tip === 'IfcColumn' ? 0x2196f3 : 0x4caf50; 
                     
                     const material = new THREE.MeshStandardMaterial({ 
-                        color: culoare, 
-                        roughness: 0.5, 
-                        metalness: 0.1 
+                        color: culoare,
+                        roughness: 0.5,
+                        metalness: 0.1
                     });
                     
                     const mesh = new THREE.Mesh(geometry, material);
-                    mesh.position.set(pos_x, pos_z, -pos_y);
+                    mesh.position.set(pos_x, pos_z, -pos_y); 
                     scene.add(mesh);
-                    
-                    mesh.userData = { 
-                        expressId: elem.id, 
-                        clasaIfc: elem.tip, 
-                        cod: elem.nume, 
-                        beton: elem.material 
+
+                    mesh.userData = {
+                        expressId: elem.id,
+                        clasaIfc: elem.tip,
+                        cod: elem.nume,
+                        beton: elem.material
                     };
-                    
+
                     elementeInteractive.push(mesh);
                     numar_randat++;
                 });
 
-                infoContent.innerHTML = `
-                    Fișier text analizat!<br>
-                    Au fost desenate <b>${numar_randat} elemente BIM 3D</b>.<br><br>
-                    Gropile de fundație sunt <span style="color:#4caf50;font-weight:bold">VERZI</span> (sub sol), 
-                    iar stâlpii sunt <span style="color:#2196f3;font-weight:bold">ALBAȘTRI</span>.<br><br>
-                    Dă click pe ele pentru a interoga modelul.
-                `;
+                infoContent.innerHTML = `Fișier text analizat!<br>Au fost desenate <b>${numar_randat} elemente BIM 3D</b>.<br><br>Gropile de fundație sunt <span style="color:#4caf50;font-weight:bold">VERZI</span> (sub sol), iar stâlpii sunt <span style="color:#2196f3;font-weight:bold">ALBAȘTRI</span>.<br><br>Dă click pe ele pentru a interoga modelul.`;
             })
             .catch(err => {
                 infoContent.innerText = "Eroare la procesarea textului din fișierul IFC: " + err.message;
                 console.error(err);
             });
 
-        // Interacțiune prin click (Raycasting)
         const raycaster = new THREE.Raycaster();
         const mouse = new THREE.Vector2();
 
         window.addEventListener('click', (event) => {
-            // Permite click pe elementele din info-panel fără a declanșa raycaster-ul
             if (event.clientX < 340 && event.clientY < 240) return;
 
             mouse.x = (event.clientX / window.innerWidth) * 2 - 1;
@@ -206,13 +162,11 @@
                 const piesa = intersects[0].object;
                 const data = piesa.userData;
 
-                // Resetare efect de emisie pentru toate elementele
                 elementeInteractive.forEach(item => {
-                    item.material.emissive.setHex(0x000000);
+                    if(item.material.emissive) item.material.emissive.setHex(0x000000);
                 });
-
-                // Evidențiere element selectat
-                piesa.material.emissive.setHex(0x333333);
+                // Reparat codul întrerupt aici:
+                if(piesa.material.emissive) piesa.material.emissive.setHex(0x333333);
 
                 infoContent.innerHTML = `
                     <div class="data-row"><span class="label">Express ID:</span> ${data.expressId}</div>
@@ -224,7 +178,6 @@
             }
         });
 
-        // Bucla de animație
         function animate() {
             requestAnimationFrame(animate);
             controls.update();
@@ -232,7 +185,6 @@
         }
         animate();
 
-        // Redimensionare fereastră
         window.addEventListener('resize', () => {
             camera.aspect = window.innerWidth / window.innerHeight;
             camera.updateProjectionMatrix();
