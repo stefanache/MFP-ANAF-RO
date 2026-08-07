@@ -19,12 +19,16 @@
         .label { color: #aaa; font-weight: bold; }
     </style>
     
-    <!-- ÎNCĂRCARE CORECTĂ THREE.JS ȘI ORBITCONTROLS DIN CDN -->
-    <!-- 1. Motorul principal Three.js adus de pe UNPKG -->
-    <script src="https://unpkg.com"></script>
-    
-    <!-- 2. Sistemul de control cu mouse-ul adus de pe jSDelivr -->
-    <script src="https://jsdelivr.net"></script>
+
+    <script type="importmap">
+      {
+        "imports": {
+          "three": "https://cdn.jsdelivr.net/npm/three@0.182.0/build/three.webgpu.js",
+          "three/webgpu": "https://cdn.jsdelivr.net/npm/three@0.182.0/build/three.webgpu.js"
+        }
+      }
+    </script>
+
     
 </head>
 <body>
@@ -37,7 +41,7 @@
     </div>
 
     <script>
-        import * as THREE from 'three';
+        import * as THREE from "three/webgpu";
         const container = document.getElementById('canvas-container');
         const scene = new THREE.Scene();
         scene.background = new THREE.Color(0x111111);
