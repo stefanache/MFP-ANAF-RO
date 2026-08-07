@@ -19,20 +19,20 @@
         .label { color: #aaa; font-weight: bold; }
     </style>
 
-    <!-- Includere clasică Three.js și OrbitControls (Fără Module/Importmap) -->
+    <!-- Scripturi clasice stabile Three.js -->
     <script src="https://jsdelivr.net"></script>
     <script src="https://jsdelivr.net"></script>
 </head>
 <body>
 
-    <div id="canvas-container"></div>
+    <!-- Clasa 'main-page' adăugată pentru a preveni crash-ul extensiilor de traducere din browser -->
+    <div id="canvas-container" class="main-page"></div>
     
     <div id="info-panel">
         <h3>Detalii Element BIM</h3>
-        <div id="content">Se analizeaza structura text a fisierului IFC...</div>
+        <div id="content">Se analizează structura text a fișierului IFC...</div>
     </div>
 
-    <!-- Script clasic, compatibil cu injectarea de tip appendChild -->
     <script>
         const container = document.getElementById('canvas-container');
         const scene = new THREE.Scene();
@@ -46,7 +46,6 @@
         renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));
         container.appendChild(renderer.domElement);
 
-        // OrbitControls este acum legat direct de obiectul global THREE
         const controls = new THREE.OrbitControls(camera, renderer.domElement);
         controls.enableDamping = true;
         controls.target.set(12, -2, 12);
@@ -62,6 +61,7 @@
         const infoContent = document.getElementById('content');
         const elementeInteractive = [];
 
+        // Încarcă fișierul IFC aflat în același folder pe GitHub Pages
         fetch('proiect_fundatie_inteligent.ifc')
             .then(response => {
                 if (!response.ok) throw new Error("Fișierul IFC nu a putut fi găsit pe server.");
@@ -73,11 +73,14 @@
 
                 linii.forEach(linie => {
                     if (linie.includes('IFCFOOTING') || linie.includes('IFCCOLUMN')) {
-                        // Corectat split și trim direct pe bucăți separate
+                        // REPARAT: Extragere ID sigură prin verificarea existenței caracterului '='
                         const parti = linie.split('=');
-                        const id = parti[0] ? parti[0].trim() : '#0';
+                        if (!parti || parti.length < 2) return;
+                        
+                        const id = parti[0].trim();
                         const tip = linie.includes('IFCCOLUMN') ? 'IfcColumn' : 'IfcFooting';
                         
+                        // REPARAT: Preluarea grupului capturat din regex [1] în loc de întregul obiect de meci
                         const matchNume = linie.match(/,\s*'([^']+)'/);
                         const numePiesa = matchNume ? matchNume[1] : 'Element';
                         
@@ -154,13 +157,13 @@
             const intersects = raycaster.intersectObjects(elementeInteractive);
 
             if (intersects.length > 0) {
-                // Corectat preluarea obiectului (intersects[0].object)
+                // REPARAT: raycaster returnează un array de intersecții, obiectul lovit este în intersects[0].object
                 const piesa = intersects[0].object;
                 const data = piesa.userData;
 
                 elementeInteractive.forEach(item => {
                     if (item.material && item.material.emissive) {
-                        item.material.emissive.setHex(0x000000);
+                        item.shadow ? null : item.material.emissive.setHex(0x000000);
                     }
                 });
                 if (piesa.material && piesa.material.emissive) {
