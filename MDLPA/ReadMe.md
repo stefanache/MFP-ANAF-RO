@@ -150,7 +150,7 @@ Vor fi afisare **locurile**/plotii(**extrudate 3D**, in mod artificial pt a le f
 Acest [**BIMviewer**](https://bimviewer.org/) afiseaza structura generata in fisierul [**IFC**](https://www.revistaconstructiilor.eu/index.php/2023/09/12/asro-industry-foundation-classes-ifc-standardul-ce-transforma-modul-in-care-partajam-date-in-constructii/)(structurat astfel: **IfcProject** -> **IfcSite** -> **IfcBuilding** -> **IfcBuildingStorey**)/[***BIM***](https://www.revistaconstructiilor.eu/index.php/2021/08/01/asro-standardele-bim-optimizeaza-procesul-de-proiectare-a-cladirilor/).
 
 
-**Nota**: Pentru a vedea rezultatul **3D** (fisierul-**BIM** in format standardizat [**IFC**](https://github.com/stefanache/MFP-ANAF-RO/blob/main/MDLPA/qcad/proiect_fundatie_inteligent.ifc)) se poate utiliza si [**ThreeJS/WebGL**](https://threejs.org/examples/).
+**Nota**: Pentru a vedea rezultatul **3D** (fisierul-**BIM** in format standardizat [**IFC**](https://github.com/stefanache/MFP-ANAF-RO/blob/main/MDLPA/qcad/proiect_fundatie_inteligent.ifc)) se msi poate utiliza si [**ThreeJS/WebGL**](https://threejs.org/examples/), ca solutie personala de previzualizare!
 <br/> Am inceput un embrion/ciot(neterminat/netestat inca) in acest sens ce poate fi vazut in [***qcad/*** **index.html**](https://github.com/stefanache/MFP-ANAF-RO/blob/main/MDLPA/qcad/index.html).<br/>
 Pentru previzualizare(dupa finalizare **index.html**) se poate utiliza acest [**link**](https://htmlpreview.github.io/?https://github.com/stefanache/MFP-ANAF-RO/blob/main/MDLPA/qcad/index.html)
 
