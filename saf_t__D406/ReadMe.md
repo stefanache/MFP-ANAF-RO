@@ -9,7 +9,7 @@ In acest loc o sa dau niste link-uri, (sper eu) utile legate de/despre [**D406(S
 - [L5: PCG](https://lege5.ro/Gratuit/gqytambrgm/planul-de-conturi-general-reglementare?dp=gy4tanjzgmytm); [Portalul Legislativ Just.ro - Ordinul 1802/2014](https://legislatie.just.ro/Public/DetaliiDocument/185932);
 - [NOMENCLATOR CODIFICĂRI TAXE ȘI IMPOZITE REȚINUTE LA SURSĂ](https://www.licomp.ro/D406web/D406_nomenclator_taxe_impozite_retinute_la_sursa.htm);
 - [LiComp: NOMENCLATOR ANAF PENTRU IMPOZITE ȘI TAXE](https://www.licomp.ro/D406web/d406_022026/taximpimpozite.htm); [LiComp: D406_022026 istoric](https://www.licomp.ro/D406web/D406_022026/istoric.htm);
-- [asksys.ro: Nomenclator Coduri-Taxa SAF-T](https://asksys.ro/nomenclator-coduri-taxa-saf-t/)
+- [asksys.ro: Nomenclator Coduri-Taxa SAF-T(actualizat 1 August 2025)](https://asksys.ro/nomenclator-coduri-taxa-saf-t/)
 - [homecont.ro: d406/saf-t OLD-2021 bis](https://www.homecont.ro/d406-saf-t-old-2021-bis.htm);
 - [contabilul.manager.ro: Raportare plati SAF-T. Studiu de caz -Updt: 24 Feb 2023](https://contabilul.manager.ro/a/27233/mod-raportare-plati-saf-t-studiu-de-caz.html);
 - [ScriBD: Q&A- SAF-T v1.2](https://www.scribd.com/document/618903299/Intrebari-Rasp-Specifice-SAF-T-v-1-2-200422); [ScriBD: SAF-T studii de caz](https://www.scribd.com/document/921718886/SAF-T-studii-de-caz); [ScriBD: SAF-T-Ro-SchemaDefinitionCodes-v4-1-6-final-1712021-xlsx](https://www.scribd.com/document/643263594/SAF-T-Ro-SchemaDefinitionCodes-v4-1-6-final-1712021-xlsx);
