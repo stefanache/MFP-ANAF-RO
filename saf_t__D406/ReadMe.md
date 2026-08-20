@@ -14,3 +14,4 @@ In acest loc o sa dau niste link-uri, (sper eu) utile legate de/despre [**D406(S
 - [contabilul.manager.ro: Raportare plati SAF-T. Studiu de caz -Updt: 24 Feb 2023](https://contabilul.manager.ro/a/27233/mod-raportare-plati-saf-t-studiu-de-caz.html);
 - [ScriBD: Q&A- SAF-T v1.2](https://www.scribd.com/document/618903299/Intrebari-Rasp-Specifice-SAF-T-v-1-2-200422); [ScriBD: SAF-T studii de caz](https://www.scribd.com/document/921718886/SAF-T-studii-de-caz); [ScriBD: SAF-T-Ro-SchemaDefinitionCodes-v4-1-6-final-1712021-xlsx](https://www.scribd.com/document/643263594/SAF-T-Ro-SchemaDefinitionCodes-v4-1-6-final-1712021-xlsx);
 - [CECCARbusinessReview.ro: Fișierul standard de control fiscal – SAF-T](https://www.ceccarbusinessreview.ro/descarca-articol/-5gr_VyVwAWxled2Qfaqxes44PLJCPaHfZJwI3rmV7o/);
+- [cometa.ro/ContabSQL: SAF-T (Declarația D406)](https://www.cometa.ro/doc/index.htm?page=saft.htm)
