@@ -6,4 +6,7 @@ In acest loc o sa dau niste link-uri utile pt [**D406(SAF-T)**](https://www.anaf
 - [Nomenclatorul CAEN Rev. 2 - Clasificarea Activităților din Economia Națională(CAEN)](https://rev2.coduricaen.ro); [Rubinian - CAEN Rev. 2](https://www.rubinian.com/caen_1_sectiuni.php);
 - [Autoritățea Vamala Româna(AVR) - TARIC3](http://taric3.customs.ro:9080/taric/web/browsetariff_RO); [Ghidul de Instruire Operatori AVR](https://www.customs.ro/agenti-economici/instruirea-operatorilor-economici)
 - [Just.ro: Catalogul Clasificării Mijloacelor-Fixe(MF)- Ghid de plata HG 2139/2004](https://legislatie.just.ro/Public/DetaliiDocument/209998);
-- [L5: PCG](https://lege5.ro/Gratuit/gqytambrgm/planul-de-conturi-general-reglementare?dp=gy4tanjzgmytm); [Portalul Legislativ Just.ro - Ordinul 1802/2014](https://legislatie.just.ro/Public/DetaliiDocument/185932); 
+- [L5: PCG](https://lege5.ro/Gratuit/gqytambrgm/planul-de-conturi-general-reglementare?dp=gy4tanjzgmytm); [Portalul Legislativ Just.ro - Ordinul 1802/2014](https://legislatie.just.ro/Public/DetaliiDocument/185932);
+- [NOMENCLATOR CODIFICĂRI TAXE ȘI IMPOZITE REȚINUTE LA SURSĂ](https://www.licomp.ro/D406web/D406_nomenclator_taxe_impozite_retinute_la_sursa.htm);
+- [NOMENCLATOR ANAF PENTRU IMPOZITE ȘI TAXE](https://www.licomp.ro/D406web/d406_022026/taximpimpozite.htm);
+- [homecont.ro: d406/saf-t OLD-2021 bis](https://www.homecont.ro/d406-saf-t-old-2021-bis.htm);
