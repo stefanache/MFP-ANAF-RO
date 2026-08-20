@@ -11,3 +11,4 @@ In acest loc o sa dau niste link-uri utile pt [**D406(SAF-T)**](https://www.anaf
 - [NOMENCLATOR ANAF PENTRU IMPOZITE ȘI TAXE](https://www.licomp.ro/D406web/d406_022026/taximpimpozite.htm);
 - [homecont.ro: d406/saf-t OLD-2021 bis](https://www.homecont.ro/d406-saf-t-old-2021-bis.htm);
 - [Raportare plati SAF-T. Studiu de caz -Updt: 24 Feb 2023](https://contabilul.manager.ro/a/27233/mod-raportare-plati-saf-t-studiu-de-caz.html);
+- [Q&A- SAF-T v1.2](https://www.scribd.com/document/618903299/Intrebari-Rasp-Specifice-SAF-T-v-1-2-200422)
