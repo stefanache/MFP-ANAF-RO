@@ -1,4 +1,4 @@
-In acest loc o sa dau niste link-uri utile pt **D406**:
+In acest loc o sa dau niste link-uri utile pt **D406(SAF-T)** - una dintre cele mai complete/complexe declaratii/raportari:
 
 - [storeCove: romanian-saf-t-declaration - Ghid de conformitate raportare](https://www.storecove.com/blog/en/romanian-saf-t-declaration/)
 - [Download-INSSE: SIRUTA - CAEN Rev.2](https://iasi.insse.ro/wp-content/plugins/download-attachments/includes/download.php?id=3835)
