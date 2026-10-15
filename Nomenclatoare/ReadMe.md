@@ -11,3 +11,4 @@
 - [Nomenclator medicamente ANMDMR](https://nomenclator.anm.ro/medicamente)
 - [Nomenlcatoare PIAS CNAS](https://cas.cnas.ro/casgj/nomenclatoare-pias)
 - [Nomenclatoare medicamente -arhiva CNAS](https://cnas.ro/medicamente/)
+- [MD-Statistica: Metadate si clasificatoare](https://statistica.gov.md/ro/metadate-96.html)
