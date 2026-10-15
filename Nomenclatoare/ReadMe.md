@@ -7,3 +7,4 @@ Nomenclatoare utilizate in Romania:
 - [Nomenclatorul obligaţiilor de plată la bugetul de stat-Anexa 11 Anul 2012](https://static.anaf.ro/static/10/Anaf/legislatie/Anexa11_Nomenclator_decl2012.pdf)
 - [comune](https://github.com/stefanache/MFP-ANAF-RO/tree/main)
 - [SIUI-CASMB](https://www.casmb.ro/casmb_nomenclatoare_siui)
+- [Nomenclator medicamente ANMDMR](https://nomenclator.anm.ro/medicamente)
