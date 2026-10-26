@@ -57,7 +57,7 @@
 - [Lista coduri Furnizori ANRE](https://anre.ro/lista-coduri-furnizori/)
 - [e-Vama/e-Customs EORI](https://www.customs.ro/e-customs/eori)
 - [Taric3](http://taric3.customs.ro:9080/taric/web/main_RO);[Taric-Tarif-Number-HS-Code Lookup 2026](https://www.tariffnumber.com/)
-- [GOV-RO: Carte de Identitate(CEI)- Coduri PIN,CAN](https://carteadeidentitate.gov.ro/coduri/)
+- [GOV-RO: Carte de Identitate(CEI)- Coduri PIN,CAN](https://carteadeidentitate.gov.ro/coduri/);[CEI](https://carteadeidentitate.gov.ro/utile/)
 - [Lista asiguratori BAAR](https://www.baar.ro/)
 - [MS-Lista conscursuri Rezidentiat](https://rezidentiat.ms.ro/)
 - [Lista FIRME](https://termene.ro/firme); [MFP: Info PJ dupa CUI](https://mfinante.gov.ro/domenii/informatii-contribuabili/persoane-juridice/info-pj-selectie-dupa-cui)
