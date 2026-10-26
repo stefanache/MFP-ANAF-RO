@@ -1,5 +1,7 @@
 [Nomenclatoare](https://www.nomenclatoare.ro/) utilizate in [Romania](https://gesoft.ro/solutii/gepas.html)(limba romana):
 
+- [AI decodor/encodor](https://medium.com/me/stats/post/96246d2303ef?statsForAllStoriesUrl=https%3A%2F%2Fmedium.com%2Fme%2Fstats&source=stats_homepage----------------------------------------------)
+
 - [Romanian Open Source Data](https://github.com/romania)
 - [Coduri COR - Nomenclatoare](https://datefirma.ro/nomenclatoare/cor)
 - [MFP-Nomenclatoare-Geografice](https://stefanache.github.io/MFP-ANAF-RO/js_scripts/mfp/nomenclatoare_geografice/nomTipArtere.html)
@@ -12,6 +14,7 @@
 - [Nomenclator medicamente ANMDMR](https://nomenclator.anm.ro/medicamente)
 - [Nomenlcatoare PIAS CNAS](https://cas.cnas.ro/casgj/nomenclatoare-pias)
 - [Nomenclatoare medicamente -arhiva CNAS](https://cnas.ro/medicamente/)
+- [Lista celor 999 coduri de boala](https://scnpc.ro/files/CODURI%20boala_%20lista%20999.pdf)
 - [MD-Statistica: Metadate si clasificatoare](https://statistica.gov.md/ro/metadate-96.html)
 - [Instrastat 3 NC8-2026](https://www.homecont.ro/intrastat3.php)
 - [Lista de Reclasificare coduri CPV-Rev.2(ANAP-2019 Feb-02)-PDF-download](https://anap.gov.ro/ro/wp-content/uploads/2019/02/Reclasificare-coduri-CPV.pdf); [CPV 2019 Luna=06 XLS-download](https://muzeulastra.ro/wp-content/uploads/2019/06/Lista-coduri-CPV.xls); [SEAP-Coduri CPV 2026 download](https://licitatiiseap.ro/coduri_cpv/)
