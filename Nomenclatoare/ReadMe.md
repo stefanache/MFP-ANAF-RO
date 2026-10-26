@@ -1,4 +1,4 @@
-[Nomenclatoare](https://www.nomenclatoare.ro/) utilizate in [Romania](https://gesoft.ro/solutii/gepas.html)(limba romana):
+[Nomenclatoare,Codificari,Clasificari,Liste](https://www.nomenclatoare.ro/) utilizate in [Romania](https://gesoft.ro/solutii/gepas.html)(limba romana):
 
 - [AI decodor/encodor](https://medium.com/me/stats/post/96246d2303ef?statsForAllStoriesUrl=https%3A%2F%2Fmedium.com%2Fme%2Fstats&source=stats_homepage----------------------------------------------)
 
@@ -43,3 +43,4 @@
 - [e-Vama/e-Customs EORI](https://www.customs.ro/e-customs/eori)
 - [GOV-RO: Carte de Identitate(CEI)- Coduri PIN,CAN](https://carteadeidentitate.gov.ro/coduri/)
 - [Lista asiguratori BAAR](https://www.baar.ro/)
+- [MS-Lista conscursuri Rezidentiat](https://rezidentiat.ms.ro/)
