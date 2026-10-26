@@ -46,3 +46,4 @@
 - [GOV-RO: Carte de Identitate(CEI)- Coduri PIN,CAN](https://carteadeidentitate.gov.ro/coduri/)
 - [Lista asiguratori BAAR](https://www.baar.ro/)
 - [MS-Lista conscursuri Rezidentiat](https://rezidentiat.ms.ro/)
+- [Lista FIRME](https://termene.ro/firme)
