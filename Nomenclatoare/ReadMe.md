@@ -14,6 +14,7 @@
 - [comune](https://github.com/stefanache/MFP-ANAF-RO/tree/main)
 - [CAEN 20226](https://www.coduricaen.ro/); [lista codurilor CAEN Rev.2 eligibile pt granturi](https://moradoconsulting.ro/lista-coduri-caen-eligibile-pentru-granturi-pentru-investitii-finantare-de-200-000-euro/)
 - [CAEN Rev.3-2026](https://caen.ro/); [CAEN3](https://caen3.ro/coduri-caen-rev-3)
+- [CAEN eligibil pt programul IMM-urilor: Start-up Nation – ROMÂNIA](https://start-upnation.ro/coduri-caen/)
 - [INSSE.ro - CAEN complet Rev.3](https://insse.ro/cms/files/CAEN/CAEN-Rev.3_structura-completa.pdf)
 - [coduri UNSPSC](https://www.licitatie-publica.ro/blog/ce-sunt-codurile-unspsc-si-lista-completa)
 - [SIUI-CNAS](https://cnas.ro/siui/)
