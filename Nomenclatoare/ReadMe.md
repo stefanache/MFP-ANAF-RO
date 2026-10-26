@@ -44,6 +44,7 @@
 - [Nomenclatoare medicamente -arhiva CNAS](https://cnas.ro/medicamente/)
 - [Lista celor 999 coduri de boala](https://scnpc.ro/files/CODURI%20boala_%20lista%20999.pdf)
 - [CIM vechi DRG nou - Lista proceduri chirurgicale](https://www.hosptm.ro/files/drg/noutati/Lista_proceduri_DRG.pdf)
+- [ONSP-Gov-RO: Anexa 6 Coduri ATC antibiotice](https://insp.gov.ro/download/anexa-6-coduri-atc-antibiotice-pdf/)
 - [INSP-Gov-RO: Anexa 7. Lista coduri Infecții Asociate Asistenței Medicale pdf-download](https://insp.gov.ro/download/anexa-7-lista-coduri-infectii-asociate-asistentei-medicale-pdf/)
 - [INSP: Anexa 14-Coduri Spitale](https://insp.gov.ro/download/anexa-14-coduri-spitale/)
 - [Scoli conducatori Auto](https://www.arr.ro/arr_doc_149_scoli-conducatori-auto_pg_0.htm)
