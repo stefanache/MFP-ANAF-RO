@@ -6,7 +6,7 @@
 - [Coduri pentru țări/teritorii și monede](https://www.ups.com/worldshiphelp/WSA/ROM/AppHelp/mergedProjects/CORE/Codes/Country_Territory_and_Currency_Codes.htm)
 - [wiki codurile GS1 ale tarilor](https://ro.wikipedia.org/wiki/Lista_de_coduri_GS1_ale_%C8%9B%C4%83rilor)
 - [lista codurilor judetelor din RO](https://lege5.ro/Gratuit/geydcmzvha/lista-coduri-judete-ordin-1782-2006?dp=gmydkobtge4to)
-- [GOV-RO: Coduri Postale 2013](https://data.gov.ro/dataset/coduri-postale-romania/resource/05359691-964d-4f82-87d7-bce1df66812e)
+- [GOV-RO: Coduri Postale 2013](https://data.gov.ro/dataset/coduri-postale-romania/resource/05359691-964d-4f82-87d7-bce1df66812e);[TNT: Coduri Postale Apr 2013 V3 PDF](https://www.tnt.com/dam/tnt_express_media/ro_ro/download_documents/services/OOA_zone%20domestic_apr2016_v3_new.pdf)
 - [Romanian Open Source Data](https://github.com/romania)
 - [Coduri COR - Nomenclatoare](https://datefirma.ro/nomenclatoare/cor)
 - [MFP-Nomenclatoare-Geografice](https://stefanache.github.io/MFP-ANAF-RO/js_scripts/mfp/nomenclatoare_geografice/nomTipArtere.html)
