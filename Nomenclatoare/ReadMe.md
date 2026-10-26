@@ -3,6 +3,7 @@
 - [AI decodor/encodor](https://medium.com/me/stats/post/96246d2303ef?statsForAllStoriesUrl=https%3A%2F%2Fmedium.com%2Fme%2Fstats&source=stats_homepage----------------------------------------------)
 
 - [wiki -Coduri](https://ro.wikipedia.org/wiki/Categorie:Coduri)
+- [ISO 3166- coduri pt tari](https://www.iban.com/country-codes)
 - [Coduri pentru țări/teritorii și monede](https://www.ups.com/worldshiphelp/WSA/ROM/AppHelp/mergedProjects/CORE/Codes/Country_Territory_and_Currency_Codes.htm)
 - [Country-Code](https://countrycode.org/)
 - [Cpdurile UIC pt tari](https://ro.wikipedia.org/wiki/Lista_codurilor_de_%C8%9Bar%C4%83_UIC)
