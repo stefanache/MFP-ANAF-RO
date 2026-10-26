@@ -64,7 +64,7 @@
 - [e-Vama/e-Customs EORI](https://www.customs.ro/e-customs/eori);[Custom-Sistem Informatic](customs.ro/e-customs/eori/sistem-informatic?__cf_chl_tk=Wf_XoUootAd3q06fJyd6IDMU4vxviUNwLGz4FgvIVtw-1793043372-1.0.1.1-1taoKRC5CFeW0jJ0WortnFlm8802ukYCr3PwkYAPDts)
 - [Taric3](http://taric3.customs.ro:9080/taric/web/main_RO);[Taric-Tarif-Number-HS-Code Lookup 2026](https://www.tariffnumber.com/)
 - [GOV-RO: Carte de Identitate(CEI)- Coduri PIN,CAN](https://carteadeidentitate.gov.ro/coduri/);[CEI](https://carteadeidentitate.gov.ro/utile/)
-- [Lista asiguratori BAAR](https://www.baar.ro/)
+- [Lista asiguratori BAAR](https://www.baar.ro/);[CNP](https://ro.wikipedia.org/wiki/Cod_numeric_personal_(Rom%C3%A2nia))
 - [MS-Lista conscursuri Rezidentiat](https://rezidentiat.ms.ro/)
 - [Lista FIRME](https://termene.ro/firme); [MFP: Info PJ dupa CUI](https://mfinante.gov.ro/domenii/informatii-contribuabili/persoane-juridice/info-pj-selectie-dupa-cui)
 - [GOV-MD-MF: Generarea codului IBAN pt incasari](https://mf.gov.md/ro/iban)
