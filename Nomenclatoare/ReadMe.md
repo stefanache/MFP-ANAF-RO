@@ -45,6 +45,7 @@
 - [CIM vechi DRG nou - Lista proceduri chirurgicale](https://www.hosptm.ro/files/drg/noutati/Lista_proceduri_DRG.pdf)
 - [INSP-Gov-RO: Anexa 7. Lista coduri Infecții Asociate Asistenței Medicale pdf-download](https://insp.gov.ro/download/anexa-7-lista-coduri-infectii-asociate-asistentei-medicale-pdf/)
 - [INSP: Anexa 14-Coduri Spitale](https://insp.gov.ro/download/anexa-14-coduri-spitale/)
+- [Scoli conducatori Auto](https://www.arr.ro/arr_doc_149_scoli-conducatori-auto_pg_0.htm)
 - [Lista armonizata UE oferita de OMAI - permise](https://www.juridice.ro/wp-content/uploads/2016/11/Anexa-OMAI-permis-conducere.pdf)
 - [Cod rutier actualizat-Chestionare 2026 Auto](https://www.drpciv-romania.ro/codul-rutier)
 - [RAR-RO-Norme de poluare in CIV](https://www.rarom.ro/?p=8169)
