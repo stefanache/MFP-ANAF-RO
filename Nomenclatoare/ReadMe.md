@@ -60,7 +60,7 @@
 - [Coduri deseuri](https://www.evidentadeseuri.ro/coduri-deseuri/);[Lista coduri deseuri](https://envirocons.ro/lista-coduri-deseuri/)
 - [Coduri NetFlix](https://www.stiripesurse.ro/lista-completa-a-codurilor-secrete-de-pe-netflix-poti-gasi-foarte-usor-filmele-care-te-intereseaza-nu-cele-recomandate_3199527.html)
 - [Lista coduri Furnizori ANRE](https://anre.ro/lista-coduri-furnizori/)
-- [e-Vama/e-Customs EORI](https://www.customs.ro/e-customs/eori)
+- [e-Vama/e-Customs EORI](https://www.customs.ro/e-customs/eori);[Custom-Sistem Informatic](customs.ro/e-customs/eori/sistem-informatic?__cf_chl_tk=Wf_XoUootAd3q06fJyd6IDMU4vxviUNwLGz4FgvIVtw-1793043372-1.0.1.1-1taoKRC5CFeW0jJ0WortnFlm8802ukYCr3PwkYAPDts)
 - [Taric3](http://taric3.customs.ro:9080/taric/web/main_RO);[Taric-Tarif-Number-HS-Code Lookup 2026](https://www.tariffnumber.com/)
 - [GOV-RO: Carte de Identitate(CEI)- Coduri PIN,CAN](https://carteadeidentitate.gov.ro/coduri/);[CEI](https://carteadeidentitate.gov.ro/utile/)
 - [Lista asiguratori BAAR](https://www.baar.ro/)
