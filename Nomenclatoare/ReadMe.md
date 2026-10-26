@@ -23,6 +23,7 @@
 - [Nomenclatoare medicamente -arhiva CNAS](https://cnas.ro/medicamente/)
 - [Lista celor 999 coduri de boala](https://scnpc.ro/files/CODURI%20boala_%20lista%20999.pdf)
 - [CIM vechi DRG nou - Lista proceduri chirurgicale](https://www.hosptm.ro/files/drg/noutati/Lista_proceduri_DRG.pdf)
+- [INSP-Gov-RO: Anexa 7. Lista coduri Infecții Asociate Asistenței Medicale pdf-download](https://insp.gov.ro/download/anexa-7-lista-coduri-infectii-asociate-asistentei-medicale-pdf/)
 - [Lista armonizata UE oferita de OMAI - permise](https://www.juridice.ro/wp-content/uploads/2016/11/Anexa-OMAI-permis-conducere.pdf)
 - [MD-Statistica: Metadate si clasificatoare](https://statistica.gov.md/ro/metadate-96.html)
 - [Instrastat 3 NC8-2026](https://www.homecont.ro/intrastat3.php)
