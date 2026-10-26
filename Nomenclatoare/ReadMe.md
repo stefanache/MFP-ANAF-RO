@@ -4,6 +4,7 @@
 
 - [wiki -Coduri](https://ro.wikipedia.org/wiki/Categorie:Coduri)
 - [Coduri pentru țări/teritorii și monede](https://www.ups.com/worldshiphelp/WSA/ROM/AppHelp/mergedProjects/CORE/Codes/Country_Territory_and_Currency_Codes.htm)
+- [Country-Code](https://countrycode.org/)
 - [Lista codurilo CIO pt tari](https://ro.wikipedia.org/wiki/Lista_%C8%9B%C4%83rilor_dup%C4%83_coduri_CIO)
 - [wiki codurile GS1 ale tarilor](https://ro.wikipedia.org/wiki/Lista_de_coduri_GS1_ale_%C8%9B%C4%83rilor)
 - [Coduri de bare GS1](https://gs1.ro/)
