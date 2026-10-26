@@ -35,3 +35,4 @@
 - [Coduri deseuri](https://www.evidentadeseuri.ro/coduri-deseuri/)
 - [Coduri NetFlix](https://www.stiripesurse.ro/lista-completa-a-codurilor-secrete-de-pe-netflix-poti-gasi-foarte-usor-filmele-care-te-intereseaza-nu-cele-recomandate_3199527.html)
 - [Lista coduri Furnizori ANRE](https://anre.ro/lista-coduri-furnizori/)
+- [e-Vama/e-Customs EORI](https://www.customs.ro/e-customs/eori)
