@@ -13,6 +13,7 @@
 - [Coduri de bare GS1](https://gs1.ro/);[Coduri de bare](https://www.autoid.ro/ghid-complet-tipuri-coduri-de-bare-si-utilizari/?srsltid=AYCX9vIQ-OovlY5LmFwUQM8amOitwPQgUyU4-CZMCpXQrNw2HnJlHZDh);[Coduri de bare liniare](https://www2.rosistem.com/services/identify-linear-barcode.html)
 - [Coduri de bare- verificare EAN,UPC,GTIN](https://www.checkbarcode.com/ro)
 - [lista codurilor judetelor din RO](https://lege5.ro/Gratuit/geydcmzvha/lista-coduri-judete-ordin-1782-2006?dp=gmydkobtge4to)
+- [Oficii postale](https://www.posta-romana.ro/gaseste-oficiu-postal.html)
 - [GOV-RO: Coduri Postale 2013](https://data.gov.ro/dataset/coduri-postale-romania/resource/05359691-964d-4f82-87d7-bce1df66812e);[TNT: Coduri Postale Apr 2013 V3 PDF](https://www.tnt.com/dam/tnt_express_media/ro_ro/download_documents/services/OOA_zone%20domestic_apr2016_v3_new.pdf)
 - [GOV-RO-SITUR(SE): Structuri Autorizate](https://se.situr.gov.ro/OpenData/OpenDataMain)
 - [Romanian Open Source Data](https://github.com/romania)
