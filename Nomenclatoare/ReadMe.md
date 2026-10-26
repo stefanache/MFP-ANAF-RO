@@ -1,4 +1,4 @@
-[Nomenclatoare,Codificari,Clasificari,Liste](https://www.nomenclatoare.ro/) utilizate in [Romania](https://gesoft.ro/solutii/gepas.html)(limba ROmana):
+[Nomenclatoare,Codificari,Clasificari,Liste](https://www.nomenclatoare.ro/) utilizate in [Romania](https://gesoft.ro/solutii/gepas.html)(limba [RO](https://ro.pinterest.com/adolfcici/coduri-codes/)mana):
 
 - [AI decodor/encodor](https://medium.com/me/stats/post/96246d2303ef?statsForAllStoriesUrl=https%3A%2F%2Fmedium.com%2Fme%2Fstats&source=stats_homepage----------------------------------------------)
 
