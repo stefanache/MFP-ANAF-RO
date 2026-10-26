@@ -19,6 +19,7 @@
 - [ANAF - formulare fiscale](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/toate_formularele_30032017.htm)
 - [ANAF Coduri IBAN](https://www.anaf.ro/anaf/internet/ANAF/asistenta_contribuabili/plata_oblig_fiscale/coduri_iban)
 - [Coduri NC,CPV,EORI,CAEN,COR](https://blog.smartbill.ro/coduri-nc-cpv-eori-caen-cor/)
+- [Coduri suplimentare NC,CPV si identificatori de produse](https://ajutor.smartbill.ro/article/987-codurile-suplimentare-nc-cpv-si-identificatori-produse)
 - [IAPP: eFacura coduri-NC](https://developer.iapp.ro/article/81-e-Factura-Lista-codurilor-NC);[UM](https://developer.iapp.ro/article/80-e-Factura-Lista-codurilor-NC);[CPV](https://developer.iapp.ro/article/82-e-Factura-Lista-codurilor-pentru-unit%C4%83%C8%9Bile-de-m%C4%83sur%C4%83)
 - [Lista coduri CPV](https://a.storyblok.com/f/167454/x/e3e766d3f5/lista-coduri-cpv.pdf)_
 - [Nomenclatorul obligaţiilor de plată la bugetul de stat-Anexa 11 Anul 2012](https://static.anaf.ro/static/10/Anaf/legislatie/Anexa11_Nomenclator_decl2012.pdf)
