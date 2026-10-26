@@ -15,7 +15,7 @@
 - [Nomenlcatoare PIAS CNAS](https://cas.cnas.ro/casgj/nomenclatoare-pias)
 - [Nomenclatoare medicamente -arhiva CNAS](https://cnas.ro/medicamente/)
 - [Lista celor 999 coduri de boala](https://scnpc.ro/files/CODURI%20boala_%20lista%20999.pdf)
-- [CIM vechi DRG nou - Lista proceduri](https://www.hosptm.ro/files/drg/noutati/Lista_proceduri_DRG.pdf)
+- [CIM vechi DRG nou - Lista proceduri chirurgicale](https://www.hosptm.ro/files/drg/noutati/Lista_proceduri_DRG.pdf)
 - [MD-Statistica: Metadate si clasificatoare](https://statistica.gov.md/ro/metadate-96.html)
 - [Instrastat 3 NC8-2026](https://www.homecont.ro/intrastat3.php)
 - [Lista de Reclasificare coduri CPV-Rev.2(ANAP-2019 Feb-02)-PDF-download](https://anap.gov.ro/ro/wp-content/uploads/2019/02/Reclasificare-coduri-CPV.pdf); [CPV 2019 Luna=06 XLS-download](https://muzeulastra.ro/wp-content/uploads/2019/06/Lista-coduri-CPV.xls); [SEAP-Coduri CPV 2026 download](https://licitatiiseap.ro/coduri_cpv/)
