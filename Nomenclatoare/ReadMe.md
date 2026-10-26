@@ -1,4 +1,4 @@
-[Nomenclatoare,Codificari,Clasificari,Liste](https://www.nomenclatoare.ro/) utilizate in [Romania](https://gesoft.ro/solutii/gepas.html)(limba romana):
+[Nomenclatoare,Codificari,Clasificari,Liste](https://www.nomenclatoare.ro/) utilizate in [Romania](https://gesoft.ro/solutii/gepas.html)(limba ROmana):
 
 - [AI decodor/encodor](https://medium.com/me/stats/post/96246d2303ef?statsForAllStoriesUrl=https%3A%2F%2Fmedium.com%2Fme%2Fstats&source=stats_homepage----------------------------------------------)
 
@@ -13,6 +13,7 @@
 - [ANAF-Nomenclatoare](https://www.anaf.ro/anaf/internet/ANAF/info_ue/emcs/glosar/!ut/p/a1/04_Sj9CPykssy0xPLMnMz0vMAfGjzOI9DD3MPIwsjLz8_T3NDQJNgwIs3L39Dd0dzYEKIpEVGHgEGgAVOHkGmboHGBgYmOHTbxBkCNVvgAM4GuC138IQ3X40C8KMKdPvZkKifjT_GxsT5388FlCiH6SAQPyF60ehKsESg2AF-KIIryNBcYBXASiQ8boBGIoFuaFgEGGQ6ZnpqKgIAPPOBrM!/dl5/d5/L2dBISEvZ0FBIS9nQSEh/?uri=nm:oid:Z6_H1H6H282J0HQ00Q5BIR5GP0G87)
 - [ANAF - formulare fiscale](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/toate_formularele_30032017.htm)
 - [ANAF Coduri IBAN](https://www.anaf.ro/anaf/internet/ANAF/asistenta_contribuabili/plata_oblig_fiscale/coduri_iban)
+- [Coduri NC,CPV,EORI,CAEN,COR](https://blog.smartbill.ro/coduri-nc-cpv-eori-caen-cor/)
 - [IAPP: eFacura coduri-NC](https://developer.iapp.ro/article/81-e-Factura-Lista-codurilor-NC);[UM](https://developer.iapp.ro/article/80-e-Factura-Lista-codurilor-NC);[CPV](https://developer.iapp.ro/article/82-e-Factura-Lista-codurilor-pentru-unit%C4%83%C8%9Bile-de-m%C4%83sur%C4%83)
 - [Lista coduri CPV](https://a.storyblok.com/f/167454/x/e3e766d3f5/lista-coduri-cpv.pdf)_
 - [Nomenclatorul obligaţiilor de plată la bugetul de stat-Anexa 11 Anul 2012](https://static.anaf.ro/static/10/Anaf/legislatie/Anexa11_Nomenclator_decl2012.pdf)
