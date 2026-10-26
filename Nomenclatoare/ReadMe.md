@@ -13,6 +13,7 @@
 - [Nomenclatorul obligaţiilor de plată la bugetul de stat-Anexa 11 Anul 2012](https://static.anaf.ro/static/10/Anaf/legislatie/Anexa11_Nomenclator_decl2012.pdf)
 - [comune](https://github.com/stefanache/MFP-ANAF-RO/tree/main)
 - [CAEN 20226](https://www.coduricaen.ro/); [lista codurilor CAEN Rev.2 eligibile pt granturi](https://moradoconsulting.ro/lista-coduri-caen-eligibile-pentru-granturi-pentru-investitii-finantare-de-200-000-euro/)
+- [CAEN Rev.3-2026](https://caen.ro/)
 - [INSSE.ro - CAEN complet Rev.3](https://insse.ro/cms/files/CAEN/CAEN-Rev.3_structura-completa.pdf)
 - [coduri UNSPSC](https://www.licitatie-publica.ro/blog/ce-sunt-codurile-unspsc-si-lista-completa)
 - [SIUI-CNAS](https://cnas.ro/siui/)
