@@ -30,3 +30,4 @@
 - [Lista de Reclasificare coduri CPV-Rev.2(ANAP-2019 Feb-02)-PDF-download](https://anap.gov.ro/ro/wp-content/uploads/2019/02/Reclasificare-coduri-CPV.pdf); [CPV 2019 Luna=06 XLS-download](https://muzeulastra.ro/wp-content/uploads/2019/06/Lista-coduri-CPV.xls); [SEAP-Coduri CPV 2026 download](https://licitatiiseap.ro/coduri_cpv/)
 - [Lista de coduri de câmp din MSF-Word](https://support.microsoft.com/ro-ro/word/list-of-field-codes-in-word)
 - [Lista coduri de telefon](https://www.lerato.ro/blog/coduri-telefon-afla-care-sunt-si-ce-poti-face-cu-ele/?srsltid=AYCX9vL81TwCnEW_COaLwJ3fSvedp9F0IBN9vQ71GGTBlCnVmTzEJqXd)
+- [Coduri deseuri](https://www.evidentadeseuri.ro/coduri-deseuri/)
