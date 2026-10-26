@@ -41,3 +41,4 @@
 - [Lista coduri Furnizori ANRE](https://anre.ro/lista-coduri-furnizori/)
 - [e-Vama/e-Customs EORI](https://www.customs.ro/e-customs/eori)
 - [GOV-RO: Carte de Identitate(CEI)- Coduri PIN,CAN](https://carteadeidentitate.gov.ro/coduri/)
+- [Lista asiguratori BAAR](https://www.baar.ro/)
