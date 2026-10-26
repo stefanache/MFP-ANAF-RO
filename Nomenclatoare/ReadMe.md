@@ -35,6 +35,7 @@
 - [INSSE.ro - CAEN complet Rev.3](https://insse.ro/cms/files/CAEN/CAEN-Rev.3_structura-completa.pdf)
 - [coduri UNSPSC](https://www.licitatie-publica.ro/blog/ce-sunt-codurile-unspsc-si-lista-completa)
 - [Case de Sanatate](https://cnas.ro/case-judetene/)
+- [Cardul de sanatate CEAS5](https://cnas.ro/cardul-national-de-asigurari-de-sanatate/)
 - [SIUI-CNAS](https://cnas.ro/siui/)
 - [SIUI-CASMB](https://www.casmb.ro/casmb_nomenclatoare_siui)
 - [Nomenclator medicamente ANMDMR](https://nomenclator.anm.ro/medicamente)
