@@ -39,3 +39,4 @@
 - [Coduri NetFlix](https://www.stiripesurse.ro/lista-completa-a-codurilor-secrete-de-pe-netflix-poti-gasi-foarte-usor-filmele-care-te-intereseaza-nu-cele-recomandate_3199527.html)
 - [Lista coduri Furnizori ANRE](https://anre.ro/lista-coduri-furnizori/)
 - [e-Vama/e-Customs EORI](https://www.customs.ro/e-customs/eori)
+- [GOV-RO: Carte de Identitate(CEI)- Coduri PIN,CAN](https://carteadeidentitate.gov.ro/coduri/)
