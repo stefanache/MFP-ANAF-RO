@@ -14,4 +14,4 @@
 - [Nomenclatoare medicamente -arhiva CNAS](https://cnas.ro/medicamente/)
 - [MD-Statistica: Metadate si clasificatoare](https://statistica.gov.md/ro/metadate-96.html)
 - [Instrastat 3 NC8-2026](https://www.homecont.ro/intrastat3.php)
-- [Lista de Reclasificare coduri CPV-Rev.2(ANAP)](https://anap.gov.ro/ro/wp-content/uploads/2019/02/Reclasificare-coduri-CPV.pdf)
+- [Lista de Reclasificare coduri CPV-Rev.2(ANAP-2019)](https://anap.gov.ro/ro/wp-content/uploads/2019/02/Reclasificare-coduri-CPV.pdf)
