@@ -30,6 +30,7 @@
 - [Nomenclatorul obligaţiilor de plată la bugetul de stat-Anexa 11 Anul 2012](https://static.anaf.ro/static/10/Anaf/legislatie/Anexa11_Nomenclator_decl2012.pdf)
 - [comune](https://github.com/stefanache/MFP-ANAF-RO/tree/main)
 - [CAEN 20226](https://www.coduricaen.ro/); [lista codurilor CAEN Rev.2 eligibile pt granturi](https://moradoconsulting.ro/lista-coduri-caen-eligibile-pentru-granturi-pentru-investitii-finantare-de-200-000-euro/)
+- [Lista coduri CAEN eligibile pt granturi de Investitii](https://moradoconsulting.ro/lista-coduri-caen-eligibile-pentru-granturi-pentru-investitii-finantare-de-200-000-euro/lista-coduri-caen-eligibile-pentru-granturi-pentru-investitii-finantare-de-200-000-euro/)
 - [Coduri CAEN eligibile pt Granturi de Capital](https://moradoconsulting.ro/lista-coduri-caen-eligibile-pentru-granturi-pentru-capital-de-lucru/)
 - [CAEN Rev.3-2026](https://caen.ro/); [CAEN3](https://caen3.ro/coduri-caen-rev-3)
 - [CAEN eligibil pt programul IMM-urilor: Start-up Nation – ROMÂNIA](https://start-upnation.ro/coduri-caen/);[StartUp-Cafe](https://startupcafe.ro/fonduri-europene-2026-microintreprinderi-accesa-ajutoare-delta-dunarii-perioada-inscrieri-ghid-oficial-lista-coduri-caen-108775)
