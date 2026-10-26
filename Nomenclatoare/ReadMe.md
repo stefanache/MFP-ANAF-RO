@@ -42,7 +42,7 @@
 - [Lista de coduri de câmp din MSF-Word](https://support.microsoft.com/ro-ro/word/list-of-field-codes-in-word)
 - [Lista coduri de telefon](https://www.lerato.ro/blog/coduri-telefon-afla-care-sunt-si-ce-poti-face-cu-ele/?srsltid=AYCX9vL81TwCnEW_COaLwJ3fSvedp9F0IBN9vQ71GGTBlCnVmTzEJqXd)
 - [Lista coduri Android](https://www.scribd.com/document/625533362/Lista-coduri-Android)
-- [Coduri deseuri](https://www.evidentadeseuri.ro/coduri-deseuri/)
+- [Coduri deseuri](https://www.evidentadeseuri.ro/coduri-deseuri/);[Lista coduri deseuri](https://envirocons.ro/lista-coduri-deseuri/)
 - [Coduri NetFlix](https://www.stiripesurse.ro/lista-completa-a-codurilor-secrete-de-pe-netflix-poti-gasi-foarte-usor-filmele-care-te-intereseaza-nu-cele-recomandate_3199527.html)
 - [Lista coduri Furnizori ANRE](https://anre.ro/lista-coduri-furnizori/)
 - [e-Vama/e-Customs EORI](https://www.customs.ro/e-customs/eori)
