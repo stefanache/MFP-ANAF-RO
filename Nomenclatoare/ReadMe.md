@@ -9,6 +9,7 @@
 - [ANAF - formulare fiscale](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/toate_formularele_30032017.htm)
 - [Nomenclatorul obligaţiilor de plată la bugetul de stat-Anexa 11 Anul 2012](https://static.anaf.ro/static/10/Anaf/legislatie/Anexa11_Nomenclator_decl2012.pdf)
 - [comune](https://github.com/stefanache/MFP-ANAF-RO/tree/main)
+- [CAEN 20226](https://www.coduricaen.ro/)
 - [SIUI-CNAS](https://cnas.ro/siui/)
 - [SIUI-CASMB](https://www.casmb.ro/casmb_nomenclatoare_siui)
 - [Nomenclator medicamente ANMDMR](https://nomenclator.anm.ro/medicamente)
