@@ -3,6 +3,7 @@
 - [AI decodor/encodor](https://medium.com/me/stats/post/96246d2303ef?statsForAllStoriesUrl=https%3A%2F%2Fmedium.com%2Fme%2Fstats&source=stats_homepage----------------------------------------------)
 
 - [wiki codurile GS1 ale tarilor](https://ro.wikipedia.org/wiki/Lista_de_coduri_GS1_ale_%C8%9B%C4%83rilor)
+- [lista codurilor judetelor din RO](https://lege5.ro/Gratuit/geydcmzvha/lista-coduri-judete-ordin-1782-2006?dp=gmydkobtge4to)
 - [Romanian Open Source Data](https://github.com/romania
 - [Coduri COR - Nomenclatoare](https://datefirma.ro/nomenclatoare/cor)
 - [MFP-Nomenclatoare-Geografice](https://stefanache.github.io/MFP-ANAF-RO/js_scripts/mfp/nomenclatoare_geografice/nomTipArtere.html)
