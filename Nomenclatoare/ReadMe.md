@@ -56,3 +56,4 @@
 - [GOV-MD-MF: Generarea codului IBAN pt incasari](https://mf.gov.md/ro/iban)
 - [EU: VAT/TVA/VIES](https://europa.eu/youreurope/business/finance-and-tax/vat/check-vat-number-vies/index_ro.htm)
 - [Lista coduri telecomanzi universala - 2025](https://telecomandanoua.ro/lista-coduri-telecomenzi-universale-2025/)
+- [Games: GTA coduri](https://zonait.ro/parole-gta-san-andreas-coduri-pentru-pc/)
