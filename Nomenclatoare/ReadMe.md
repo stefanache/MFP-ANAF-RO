@@ -37,6 +37,7 @@
 - [CIM vechi DRG nou - Lista proceduri chirurgicale](https://www.hosptm.ro/files/drg/noutati/Lista_proceduri_DRG.pdf)
 - [INSP-Gov-RO: Anexa 7. Lista coduri Infecții Asociate Asistenței Medicale pdf-download](https://insp.gov.ro/download/anexa-7-lista-coduri-infectii-asociate-asistentei-medicale-pdf/)
 - [Lista armonizata UE oferita de OMAI - permise](https://www.juridice.ro/wp-content/uploads/2016/11/Anexa-OMAI-permis-conducere.pdf)
+- [RAR-RO-Norme de poluare in CIV](https://www.rarom.ro/?p=8169)
 - [MD-Statistica: Metadate si clasificatoare](https://statistica.gov.md/ro/metadate-96.html)
 - [Instrastat 3 NC8-2026](https://www.homecont.ro/intrastat3.php)
 - [Lista de Reclasificare coduri CPV-Rev.2(ANAP-2019 Feb-02)-PDF-download](https://anap.gov.ro/ro/wp-content/uploads/2019/02/Reclasificare-coduri-CPV.pdf); [CPV 2019 Luna=06 XLS-download](https://muzeulastra.ro/wp-content/uploads/2019/06/Lista-coduri-CPV.xls); [SEAP-Coduri CPV 2026 download](https://licitatiiseap.ro/coduri_cpv/)
