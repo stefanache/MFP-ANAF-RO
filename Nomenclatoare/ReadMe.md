@@ -32,4 +32,4 @@
 - [Lista coduri de telefon](https://www.lerato.ro/blog/coduri-telefon-afla-care-sunt-si-ce-poti-face-cu-ele/?srsltid=AYCX9vL81TwCnEW_COaLwJ3fSvedp9F0IBN9vQ71GGTBlCnVmTzEJqXd)
 - [Coduri deseuri](https://www.evidentadeseuri.ro/coduri-deseuri/)
 - [Coduri NetFlix](https://www.stiripesurse.ro/lista-completa-a-codurilor-secrete-de-pe-netflix-poti-gasi-foarte-usor-filmele-care-te-intereseaza-nu-cele-recomandate_3199527.html)
-- 
+- [Lista coduri Furnizori ANRE](https://anre.ro/lista-coduri-furnizori/)
