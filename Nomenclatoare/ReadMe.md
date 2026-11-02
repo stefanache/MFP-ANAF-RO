@@ -6,7 +6,7 @@
 - [ISO 3166- coduri pt tari](https://www.iban.com/country-codes)
 - [Coduri pentru țări/teritorii și monede](https://www.ups.com/worldshiphelp/WSA/ROM/AppHelp/mergedProjects/CORE/Codes/Country_Territory_and_Currency_Codes.htm)
 - [Country-Code](https://countrycode.org/)
-- [Cpdurile UIC pt tari](https://ro.wikipedia.org/wiki/Lista_codurilor_de_%C8%9Bar%C4%83_UIC)
+- [Codurile UIC pt tari](https://ro.wikipedia.org/wiki/Lista_codurilor_de_%C8%9Bar%C4%83_UIC)
 - [Lista codurilo CIO pt tari](https://ro.wikipedia.org/wiki/Lista_%C8%9B%C4%83rilor_dup%C4%83_coduri_CIO)
 - [Coduri de bare 24](https://codbare24.ro/);[wiki cod de bare](https://ro.wikipedia.org/wiki/Cod_de_bare)
 - [wiki codurile GS1 ale tarilor](https://ro.wikipedia.org/wiki/Lista_de_coduri_GS1_ale_%C8%9B%C4%83rilor)
