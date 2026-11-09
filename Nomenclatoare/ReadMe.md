@@ -1,6 +1,7 @@
 [Nomenclatoare,Codificari,Clasificari,Liste](https://www.nomenclatoare.ro/) utilizate in [Romania](https://gesoft.ro/solutii/gepas.html)(limba [RO](https://ro.pinterest.com/adolfcici/coduri-codes/)mana):
 
 - [AI decodor/encodor](https://medium.com/me/stats/post/96246d2303ef?statsForAllStoriesUrl=https%3A%2F%2Fmedium.com%2Fme%2Fstats&source=stats_homepage----------------------------------------------)
+- Cuvinte de legatura/[stop-words](https://github.com/stopwords-iso/stopwords-ro) in lb RO
 
 - [wiki -Coduri](https://ro.wikipedia.org/wiki/Categorie:Coduri)
 - [ISO =arhitectul tuturor standardelor-oficiale catalogate in ICS](https://www.google.com/search?q=exista+vreun+organism+international+si+apoi+la+nivel+de+UE+EU+si+tara+care+sa+aiba+o+lista+unica+si+poate+si+ieirarhica+pt+regasire+mai+usoara+a+tuturor+codificarilor%2Cclasificarilor%2Cnomenclatoareleor+din+intreaga+lume&sourceid=chrome&ie=UTF-8&amc=1&aep=42&cud=0&source=chrome.crn.rb&mstk=AUtExfDvI3L4enhT9DGPZT8PlxhQXQLkEQcFKM2lSuLemICfpWP--O-8anyv-BwUQaFLfYs7AwsDa0BMOZncW_RaP_qcb3jVt8v3ZcGu7PJ9plshKIFoW2nPiOO78nAm0hdXcvt_dfA0Jq53neibIxTfBLgyHY43huyfGu1ktzkrxo6MQTMBTqheaag-RxSYrROhgJsNtIIklBALmQNgfFQmyNUl6Raob4wde_xucTlc-o8qrhwWNzNFziE45kLpyE_6OXL385EoZMLtcZK_OPiozqS8rWIrnRmEy3JDKP3IJjZySj_i-0fvChgn9k56AsQQLbDrnX3w2vHGoBusSONBIfyaxIwXnQWN9WxPhNYUWh5rSHuOeervlEqiS1CW6qX7K4nAQF37spe3mdFMAWZf4ytG0MKDMrzIdAyg2A-I7xw4s3wQUR7m1NZJBpwqTiIdJAGns-JIADk&csuir=1&mtid=W6foarGYB6jU7M8PxKWGsAM&atvm=1&udm=50)
