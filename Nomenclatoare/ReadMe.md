@@ -11,6 +11,7 @@
      --data-urlencode "query=SELECT ?item ?itemLabel WHERE { ?item wdt:P31 wd:Q146 . SERVICE wikibase:label { bd:serviceParam wikibase:language '[AUTO_LANGUAGE],en'. } } LIMIT 5" \
      -H "Accept: application/sparql-results+json"
 </code>**
+- [Extracting RDF data models from Wikidata](https://www.snee.com/bobdc.blog/2018/11/extracting-rdf-data-models-fro.html)
 - [ISO =arhitectul tuturor standardelor-oficiale catalogate in ICS](https://www.google.com/search?q=exista+vreun+organism+international+si+apoi+la+nivel+de+UE+EU+si+tara+care+sa+aiba+o+lista+unica+si+poate+si+ieirarhica+pt+regasire+mai+usoara+a+tuturor+codificarilor%2Cclasificarilor%2Cnomenclatoareleor+din+intreaga+lume&sourceid=chrome&ie=UTF-8&amc=1&aep=42&cud=0&source=chrome.crn.rb&mstk=AUtExfDvI3L4enhT9DGPZT8PlxhQXQLkEQcFKM2lSuLemICfpWP--O-8anyv-BwUQaFLfYs7AwsDa0BMOZncW_RaP_qcb3jVt8v3ZcGu7PJ9plshKIFoW2nPiOO78nAm0hdXcvt_dfA0Jq53neibIxTfBLgyHY43huyfGu1ktzkrxo6MQTMBTqheaag-RxSYrROhgJsNtIIklBALmQNgfFQmyNUl6Raob4wde_xucTlc-o8qrhwWNzNFziE45kLpyE_6OXL385EoZMLtcZK_OPiozqS8rWIrnRmEy3JDKP3IJjZySj_i-0fvChgn9k56AsQQLbDrnX3w2vHGoBusSONBIfyaxIwXnQWN9WxPhNYUWh5rSHuOeervlEqiS1CW6qX7K4nAQF37spe3mdFMAWZf4ytG0MKDMrzIdAyg2A-I7xw4s3wQUR7m1NZJBpwqTiIdJAGns-JIADk&csuir=1&mtid=W6foarGYB6jU7M8PxKWGsAM&atvm=1&udm=50); 
 - [ISO 3166- coduri pt tari](https://www.iban.com/country-codes)
 - [Coduri pentru țări/teritorii și monede](https://www.ups.com/worldshiphelp/WSA/ROM/AppHelp/mergedProjects/CORE/Codes/Country_Territory_and_Currency_Codes.htm)
