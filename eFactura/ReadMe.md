@@ -8,4 +8,4 @@ Aici o sa plasesz cateva lucruri legate de e-Factura(ANF MFP GOV RO)
 - [Iapp - blog](https://iapp.ro/blog); [Iapp eFactura UBL/XML exemplu B2C](https://iapp.ro/articol/e-factura-exemplu-xml-de-factura-b2c); 
 - [GH-PhP: UBL-Invoice](https://github.com/num-num/ubl-invoice); [ANAF: UBL2PDF](https://www.anaf.ro/uploadxml/)
 - [RO-CIUS=validare+trasport pt profilul-RO peste/transpus in  UBL2.1/XML](https://basetech.ro/blog/ro-cius-ubl-format-efactura)
-- [Modele/Template-uri de Factura: ex. pt firma neplatitoare de TVA](https://facturis-online.ro/e-factura/modele-de-facturi-in-xml-acceptate-de-sistemul-e-factura-pentru-firmele-neplatitoare-de-tva.html)
+- [Modele/Template-uri de Factura: ex. pt firma neplatitoare de TVA](https://facturis-online.ro/e-factura/modele-de-facturi-in-xml-acceptate-de-sistemul-e-factura-pentru-firmele-neplatitoare-de-tva.html); [template scris in UBL2.1](https://www.google.com/search?q=templates+ANAF+UBL&oq=templates+ANAF+UBL&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRiPAjIHCAMQIRiPAtIBCTkzMzRqMGoxNagCCLACAfEF0amsojRlqyE&sourceid=chrome&source=chrome.rb&ie=UTF-8)
