@@ -7,4 +7,4 @@ Aici o sa plasesz cateva lucruri legate de e-Factura(ANF MFP GOV RO)
 - [EasyBill eFactura](https://easybill.ro/ajutor/incarcare-factura-fiscala-in-ro-e-factura)
 - [Iapp - blog](https://iapp.ro/blog); [Iapp eFactura UBL/XML exemplu B2C](https://iapp.ro/articol/e-factura-exemplu-xml-de-factura-b2c); 
 - [GH-PhP: UBL-Invoice](https://github.com/num-num/ubl-invoice); [ANAF: UBL2PDF](https://www.anaf.ro/uploadxml/)
-- [RO-CIUS=validare+trasport pt RO peste/transpus in  UBL2.1/XML](https://basetech.ro/blog/ro-cius-ubl-format-efactura)
+- [RO-CIUS=validare+trasport pt profilul-RO peste/transpus in  UBL2.1/XML](https://basetech.ro/blog/ro-cius-ubl-format-efactura)
