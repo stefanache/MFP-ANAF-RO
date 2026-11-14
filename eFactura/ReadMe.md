@@ -12,4 +12,4 @@ Aici o sa plasesz cateva lucruri legate de e-Factura(ANF MFP GOV RO)
 - [RO-Gov-MFP-ANAF: e-Factura MCP-server](https://mcpservers.org/servers/github-com-foreverworks-mcps-tree-main-servers-anaf-efactura)
 - [RO-eInvoicing](https://www.theinvoicinghub.com/einvoicing-compliance-romania/)
 - [RO-ANAF eFactura 2026-Guide](https://getmandato.dev/guides/romania-anaf/)
-- [ec.europa.eu: eInvoicing-HUB](https://ec.europa.eu/digital-building-blocks/sites/spaces/DIGITAL/pages/467108898/eInvoicing+in+Romania)
+- [ec.europa.eu: eInvoicing-HUB](https://ec.europa.eu/digital-building-blocks/sites/spaces/DIGITAL/pages/467108898/eInvoicing+in+Romania); [BillYou: Ghiduri integrare e-Factura](https://billyou.ro/dev/ghiduri/integrare-e-factura/);
