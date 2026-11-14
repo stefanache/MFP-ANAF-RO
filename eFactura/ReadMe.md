@@ -14,3 +14,4 @@ Aici o sa plasesz cateva lucruri legate de e-Factura(ANF MFP GOV RO)
 - [RO-ANAF eFactura 2026-Guide](https://getmandato.dev/guides/romania-anaf/)
 - [ec.europa.eu: eInvoicing-HUB](https://ec.europa.eu/digital-building-blocks/sites/spaces/DIGITAL/pages/467108898/eInvoicing+in+Romania); [BillYou: Ghiduri integrare e-Factura](https://billyou.ro/dev/ghiduri/integrare-e-factura/);
 - [MelaSoft: e-Invoice API](https://www.melasoft.com/einvoice-in-romania)
+- [ContaZen: e-Factura](https://docs.contazen.ro/concepts/efactura)
