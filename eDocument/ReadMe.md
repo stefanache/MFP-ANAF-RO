@@ -13,7 +13,8 @@ Pt asta imi trebuie
 
     obtinute prin conducta/pipe-ul de procesare/lant de conectare:
   - XML + mapare/asociere/sablon de stil(XSL de tip UBL si XSL pt tipul CII) ── transformator(XSLT) ── verificator(XSD) ──▶ UBL2.1 + CII
-    
+
+    adica mai pe larg:    
   - [date-document ex . nota_mea.xml]  +  [reguli.xsl]  ── (XSLTProcessor) ──▶  [UBL 2.1 / CII XML]  ──(schemaValidate)──▶  [Validat cu .xsd]
                (Date brute)                (Mapare)        (Transformare)       (Document semantic)     (Verificare)
 
