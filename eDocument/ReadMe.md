@@ -19,7 +19,7 @@ Pt asta imi trebuiesc **3** *lucruri*:
 
     • adica mai pe [larg](https://reintech.io/blog/php-xslt-library-for-xml-transformations-guide)/in detaliu:
   - [**date-document** ex . **nota_mea.xml**]  +  [***reguli.xsl***]  ── (***XSLT Processor***) ──▶  [**UBL 2.1** si  **CII**  bazate pe **XML**]  ── (***schemaValidate**)──▶  [**Docucument cu date Validat/e cu .xsd**]
-  - (**Date brute XML**) + (***Mapare XSL***) ── (***Transformare XSLT***)  ──▶  (**Document semantic UBL/CII nevalidat**)  ── (***Verificare/Validare XSD***) ──▶ **UBL/CII validat**
+  - (**Date brute XML**) + (***Mapare XSL***) ── (***Transformare XSLT/**SCH**ematron***)  ──▶  (**Document semantic UBL/CII nevalidat**)  ── (***Verificare/Validare XSD***) ──▶ **UBL/CII validat**
 
 - **3**)...si apoi ***sablonul/template cu text si grafica-vizuala fixa gen formular/tipizat-gol***, care va fi ***asociat*** prin ***atasarea*** acestor 2 seturi de date **XML**(in format **UBL** si respectiv in format **CII**, ambele ***valide***/***validate***), obtinut la pasul anterior(**2**).
 
@@ -40,7 +40,7 @@ Exista pt documentele comune sau standard deja formulare-goale/necompletate/temp
 
 [Tipuri](https://developer.vertexinc.com/einvoicing/docs/romanian-example-files) de documente([**Coduri**](https://developer.vertexinc.com/einvoicing/docs/invoice-type-code-mandatory-ro) **UNTDID** **1001** / **BT-3**):
 
-În interiorul unui fișier ***XML*** **UBL 2.1**, natura exactă a documentului este stabilită prin elementul **<cbc:InvoiceTypeCode>** (câmpul **BT-3**), conform regulilor detaliate în [Ghidul **ANAF** privind codurile facturilor](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi_final%20v2.9.pdf) si prevederile(ce contin [**XSL**](https://www.google.com/search?q=mfp+xsl+UBL2.1&oq=mfp+xsl+UBL2.1&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQIRgKGKABMgkIAhAhGAoYoAEyCQgDECEYChigATIHCAQQIRiPAtIBCjIwOTA0ajBqMTWoAgiwAgE&sourceid=chrome&source=chrome.rb&ie=UTF-8)-urile pt *stilare* in sens **UBL** si in sens **CII** dar si **XSD**/**SCH**ematron pt *validarea* datelor **UBL**/**CII**, ambele bazate pe **XML**) [**MFP**](https://mfinante.gov.ro/web/efactura/informatii-tehnice)
+În interiorul unui fișier ***XML*** **UBL 2.1**, natura exactă a documentului este stabilită prin elementul **<cbc:InvoiceTypeCode>** (câmpul **BT-3**), conform regulilor detaliate în [Ghidul **ANAF** privind codurile facturilor](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi_final%20v2.9.pdf) si prevederile(ce contin [**XSL**](https://www.google.com/search?q=mfp+xsl+UBL2.1&oq=mfp+xsl+UBL2.1&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQIRgKGKABMgkIAhAhGAoYoAEyCQgDECEYChigATIHCAQQIRiPAtIBCjIwOTA0ajBqMTWoAgiwAgE&sourceid=chrome&source=chrome.rb&ie=UTF-8)-urile pt *stilare* in sens **UBL** si in sens **CII** dar si **XSD** pt *validarea* datelor **UBL**/**CII**, ambele bazate pe **XML**) [**MFP**](https://mfinante.gov.ro/web/efactura/informatii-tehnice)
 
 - **Cod Document | 	Denumire în standard |	Utilizare în România**
 - --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
