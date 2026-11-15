@@ -1,4 +1,5 @@
-***Scop***: 
+***Scop***:
+
 Obtinere de documente electronice **PDF** **precompletate cu date**/**inteligente**(***sablon/tipizat/PDF*** + **date/XML formatate semantic in 2 standarde uzuale/comerciale UBL si CII**):
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
