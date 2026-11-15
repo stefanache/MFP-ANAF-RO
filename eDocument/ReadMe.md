@@ -1,6 +1,6 @@
 Aici o sa vorbesc despre impachetarea in PDF a unui document compus/[hibrid](https://www.google.com/search?q=php+nota+xml+to+ubl2.1&oq=php+nota+xml+to+ubl2.1&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABjvBTIHCAIQABjvBTIKCAMQABiABBiiBDIKCAQQABiABBiiBDIHCAUQABjvBdIBCjI5MTkzajBqMTWoAgCwAgA&sourceid=chrome&source=chrome.rb&ie=UTF-8&mstk=AUtExfDG8aNm2pGuwuAp9_M7Jh8SFseP0AX3naqG3H_44Ifr8ls9ZMrUvaew0GMihaNnLTsigPogfKLsU4FTAo9InMO4qRTPq17hm7tFbZYhmeZu5gczo0fXMLxm_dWcOOiX2-N1whxnXe2WKOJZsneu-_9jAGElZcn2yrTKI5q4sKK-DnPNZrVBWRutF2LJxR7NrSVqtTnCbw51iuopBZsj46zz7CXtAb2rXy0E2w0bJSYIPbbsFnai82YrAJMginSXlTdtb9V_v2qGBcDvvzVNUsxfqIgM0CaLHNv2Me3JjrvIAafSu_HpY3CXA0pHyZhH447mqN4kCOefnR4wFFqaXrOLox3V-56ImNp09QXN88Y-79Oo7eVb4aSWoNhncyUnPbmlN4MP8Ykc5IAyuSDakGXizA&csuir=1&aioh=3&mtid=_Zr5aqyKOti8zMsPi7bK6Ao&udm=50#aof=1)(pdf+UBL/xml+CII/xml)/inteligent din
 - formular gol sau semi-umplut sablon PDF, impreuna cu
-- date XML(sau JSON) convertite pt semantica/intelegere in 2 formate uzuale UBL2.1 si CII care se vor atasa formularului de deasupra
+- date XML(sau JSON) convertite pt semantica/intelegere/mapare-date-pe-informatii, in 2 formate uzuale UBL2.1 si CII,  care se vor atasa formularului de deasupra
 
 Pt asta imi trebuie 
 - datele unui document oarecare(orice tipizat nu numai cele pregatite in prealabil): scrise/culese de la un UI si impachetate in XML si receptionate intr-un PhP
