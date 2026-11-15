@@ -49,7 +49,7 @@ Exista pt documentele comune sau standard deja formulare-goale/necompletate/temp
 - **384**	**|** Factură corectată(**Corrected Invoice**)	**|** Emisă pentru *modificarea* sau *anularea* unei facturi-anterioare, incluzând obligatoriu *referința* acesteia în blocul **BillingReference**.
 - **389**	**|** Autofactură(**Self-billed Invoice**)	**|** Factură emisă de *cumpărător* în numele și în contul/in locul *furnizorului*(de exemplu, în cazul achizițiilor de la persoane fizice(**PF**) sau pe bază de **acord prealabil**).
 - [**751**](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi_final%20v2.9.pdf)	**|** *Factură-informativă*(**Invoice Information**)	Document utilizat strict în scopuri ***contabile*** și de **raportare** **TVA**, *fără valoare de factură-fiscală completă* **.**
-- 
+
 
 
 
