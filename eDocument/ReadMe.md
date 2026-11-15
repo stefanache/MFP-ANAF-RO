@@ -39,13 +39,13 @@ Exista pt documentele comune sau standard deja formulare-goale/necompletate/temp
 
 În interiorul unui fișier ***XML*** **UBL 2.1**, natura exactă a documentului este stabilită prin elementul <cbc:InvoiceTypeCode> (câmpul **BT-3**), conform regulilor detaliate în [Ghidul ANAF privind codurile facturilor](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi_final%20v2.9.pdf)
 
-**- Cod Document | 	Denumire în standard |	Utilizare în România**
+- **Cod Document | 	Denumire în standard |	Utilizare în România**
 - --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-- 380	| Factură comercială (Commercial Invoice) | Factura standard pentru livrări de bunuri și prestări de servicii, precum și stornările cu semnul minus.
-- 381	| Notă de creditare (Credit Note)	| Document folosit pentru acordarea de reduceri sau corectarea sumelor facturate anterior (necesită schema CreditNote-2 sau referință la factura inițială).
-- 384	| Factură corectată (Corrected Invoice)	| Emisă pentru modificarea sau anularea unei facturi anterioare, incluzând obligatoriu referința acesteia în blocul BillingReference.
-- 389	| Autofactură (Self-billed Invoice)	| Factură emisă de cumpărător în numele și în contul furnizorului (de exemplu, în cazul achizițiilor de la persoane fizice sau pe bază de acord prealabil).
-[751](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi_final%20v2.9.pdf)	| Factură informativă (Invoice Information)	Document utilizat strict în scopuri contabile și de raportare TVA, fără valoare de factură fiscală completă.
+- **380**	| Factură comercială (Commercial Invoice) | Factura standard pentru livrări de bunuri și prestări de servicii, precum și stornările cu semnul minus.
+- **381**	| Notă de creditare (Credit Note)	| Document folosit pentru acordarea de reduceri sau corectarea sumelor facturate anterior (necesită schema CreditNote-2 sau referință la factura inițială).
+- **384**	| Factură corectată (Corrected Invoice)	| Emisă pentru modificarea sau anularea unei facturi anterioare, incluzând obligatoriu referința acesteia în blocul BillingReference.
+- **389**	| Autofactură (Self-billed Invoice)	| Factură emisă de cumpărător în numele și în contul furnizorului (de exemplu, în cazul achizițiilor de la persoane fizice sau pe bază de acord prealabil).
+- [**751**](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi_final%20v2.9.pdf)	| Factură informativă (Invoice Information)	Document utilizat strict în scopuri contabile și de raportare TVA, fără valoare de factură fiscală completă.
 
 
 
