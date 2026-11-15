@@ -16,7 +16,7 @@ Pt asta imi trebuie
 
     adica mai pe larg:    
   - [date-document ex . nota_mea.xml]  +  [reguli.xsl]  ── (XSLTProcessor) ──▶  [UBL 2.1 / CII XML]  ──(schemaValidate)──▶  [Validat cu .xsd]
-               (Date brute)                (Mapare)        (Transformare)       (Document semantic)     (Verificare)
+  -             (Date brute)                (Mapare)        (Transformare)       (Document semantic)     (Verificare)
 
 - si apoi sablonul template cu text si grafica-vizuala fixa gen formular-gol, care va fi asociat prin atasarea acestor date XML(UBL si CII).
 
