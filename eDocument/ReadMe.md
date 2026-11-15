@@ -15,8 +15,8 @@ Pt asta imi trebuie
   - XML + mapare/asociere/sablon de stil(XSL de tip UBL si XSL pt tipul CII) ── transformator(XSLT) ── verificator(XSD) ──▶ UBL2.1 + CII
 
     adica mai pe larg:    
-  -   [date-document ex . nota_mea.xml]  +  [reguli.xsl]  ── (XSLTProcessor) ──▶  [UBL 2.1 / CII XML]  ──(schemaValidate)──▶  [Validat cu .xsd]
-  -             (Date brute)                (Mapare)          (Transformare)       (Document semantic)     (Verificare)
+  - [date-document ex . nota_mea.xml]  +  [reguli.xsl]  ── (XSLT Processor) ──▶  [UBL 2.1 / CII XML]  ──      (schemaValidate)──▶  [Validat cu .xsd]
+  - (Date brute XML)             (Mapare XSL)    (Transformare XSLT)   (Document semantic UBL/CII)     (Verificare/Validare XSD)
 
 - si apoi sablonul template cu text si grafica-vizuala fixa gen formular-gol, care va fi asociat prin atasarea acestor date XML(UBL si CII).
 
