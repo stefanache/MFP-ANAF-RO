@@ -16,5 +16,5 @@ Exista pt documentele comune sau standard deja formulare UBL si CII de-a gata,
 - definite date/deja-generate de catre cei care intretin versiunile celor 2 standarde semantice de date(UBL,CII) 
 - dar exista si documente tipizate exprimate in UBL sau CII(ambele bazate pe XML),
    imbogatit cu reguli particulare(CIUS avand validatoare XSD/XSL) 
-   cum este formatul UBL2.1 de la eFactura(elaborat ca si formular UBL2.1/CII si cerut ca si document de raportare PDF hibrid/inteligent de catre ANAF).
+   cum este formatul UBL2.1 de la eFactura(elaborat ca si formular gol/sablon vizual UBL2.1/CII si cerut ca si document completat cu date/de raportare PDF hibrid/inteligent, de catre ANAF).
 
