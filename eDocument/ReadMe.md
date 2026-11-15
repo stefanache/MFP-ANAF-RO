@@ -11,10 +11,10 @@ Pt asta imi trebuiesc 3 lucruri:
   - XML to UBL
   - XML to CII
 
-    obtinute prin conducta/pipe-ul de procesare/lant de conectare:
+    • obtinute prin conducta/pipe-ul de procesare/lant de conectare:
   - XML + mapare/asociere/sablon de stil(XSL de tip UBL si XSL pt tipul CII) ── transformator(XSLT) ── verificator(XSD) ──▶ UBL2.1 + CII
 
-    adica mai pe [larg](https://reintech.io/blog/php-xslt-library-for-xml-transformations-guide)/in detaliu:
+    • adica mai pe [larg](https://reintech.io/blog/php-xslt-library-for-xml-transformations-guide)/in detaliu:
   - [date-document ex . nota_mea.xml]  +  [reguli.xsl]  ── (XSLT Processor) ──▶  [UBL 2.1 / CII XML]  ──      (schemaValidate)──▶  [Validat cu .xsd]
   - (Date brute XML)+(Mapare XSL) ── (Transformare XSLT)  ──▶  (Document semantic UBL/CII nevalidat)  ── (Verificare/Validare XSD) ──▶ **UBL/CII validat**
 
@@ -32,8 +32,8 @@ Exista pt documentele comune sau standard deja formulare-goale/necompletate/temp
 [Scheme](https://mfinante.gov.ro/web/efactura/informatii-tehnice) XML UBL acceptate(de catre [ANAF](http://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/Ghid_RO_eFactura.pdf)) în RO e-Factura:
 
 În [Informațiile tehnice e-Factura](https://mfinante.gov.ro/web/efactura/informatii-tehnice) sunt validate două structuri radăcină (scheme XSD) ale standardului UBL 2.1:
-• Invoice (Invoice-2). Este schema principală utilizată pentru emiterea facturilor standard, a facturilor de stornare (cu valori negative), a autofacturilor și a facturilor rectificative.
-• CreditNote (CreditNote-2). Este schema dedicată notelor de creditare, folosită pentru reduceri comerciale sau financiare acordate ulterior facturării ori pentru ajustarea bazelor de impozitare.
+- Invoice (Invoice-2). Este schema principală utilizată pentru emiterea facturilor standard, a facturilor de stornare (cu valori negative), a autofacturilor și a facturilor rectificative.
+- CreditNote (CreditNote-2). Este schema dedicată notelor de creditare, folosită pentru reduceri comerciale sau financiare acordate ulterior facturării ori pentru ajustarea bazelor de impozitare.
 
 [Tipuri](https://developer.vertexinc.com/einvoicing/docs/romanian-example-files) de documente([Coduri](https://developer.vertexinc.com/einvoicing/docs/invoice-type-code-mandatory-ro) UNTDID 1001 / BT-3):
 
