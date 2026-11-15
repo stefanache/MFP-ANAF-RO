@@ -1,6 +1,6 @@
 Aici o sa vorbesc despre impachetarea in PDF a unui document compus din
 - formular gol sau semi-umplut sablon PDF, impreuna cu
-- date xml convertite pt semantica/intelegere in 2 formate uzuale UBL2.1 si CII care se vor atasa formularului de deasupra
+- date XML(sau JSON) convertite pt semantica/intelegere in 2 formate uzuale UBL2.1 si CII care se vor atasa formularului de deasupra
 
 Pt asta imi trebuie 
 - datele unui document oarecare(orice tipizat nu numai cele pregatite in prealabil): scrise/culese de la un UI si impachetate in XML si receptionate intr-un PhP
