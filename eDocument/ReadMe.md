@@ -1,4 +1,4 @@
-Aici o sa vorbesc despre impachetarea in PDF a unui document compus din
+Aici o sa vorbesc despre impachetarea in PDF a unui document compus/hibrid(pdf+UBL/xml+CII/xml)/inteligent din
 - formular gol sau semi-umplut sablon PDF, impreuna cu
 - date XML(sau JSON) convertite pt semantica/intelegere in 2 formate uzuale UBL2.1 si CII care se vor atasa formularului de deasupra
 
