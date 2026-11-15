@@ -44,7 +44,7 @@ Exista pt documentele comune sau standard deja formulare-goale/necompletate/temp
 
 - **Cod Document | 	Denumire în standard |	Utilizare în România**
 - --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-- **380**	**|** Factură comercială(**Commercial Invoice**) **|** *Factura-standard* pentru livrări de **bunuri** și **prestări de servicii**, precum și **storn***ările* cu semnul **minus***.
+- **380**	**|** Factură comercială(**Commercial Invoice**) **|** *Factura-standard* pentru livrări de **bunuri** și **prestări de servicii**, precum și **storn***ările* cu semnul **minus**.
 - **381**	**|** Notă de creditare (**Credit Note**)	**|** Document folosit pentru acordarea de *reduceri* sau *corectarea* sumelor facturate anterior (necesită schema **CreditNote-2** sau *referință la factura inițială*).
 - **384**	**|** Factură corectată(**Corrected Invoice**)	**|** Emisă pentru *modificarea* sau *anularea* unei facturi anterioare, incluzând obligatoriu *referința* acesteia în blocul **BillingReference**.
 - **389**	**|** Autofactură(**Self-billed Invoice**)	**|** Factură emisă de *cumpărător* în numele și în contul/in locul *furnizorului* (de exemplu, în cazul achizițiilor de la persoane fizice(**PF**) sau pe bază de **acord prealabil**).
