@@ -40,7 +40,7 @@ Exista pt documentele comune sau standard deja formulare-goale/necompletate/temp
 
 [Tipuri](https://developer.vertexinc.com/einvoicing/docs/romanian-example-files) de documente([**Coduri**](https://developer.vertexinc.com/einvoicing/docs/invoice-type-code-mandatory-ro) **UNTDID** **1001** / **BT-3**):
 
-În interiorul unui fișier ***XML*** **UBL 2.1**, natura exactă a documentului este stabilită prin elementul **<cbc:InvoiceTypeCode>** (câmpul **BT-3**), conform regulilor detaliate în [Ghidul ANAF privind codurile facturilor](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi_final%20v2.9.pdf)
+În interiorul unui fișier ***XML*** **UBL 2.1**, natura exactă a documentului este stabilită prin elementul **<cbc:InvoiceTypeCode>** (câmpul **BT-3**), conform regulilor detaliate în [Ghidul **ANAF** privind codurile facturilor](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi_final%20v2.9.pdf) si prevederile [**MFP**](https://mfinante.gov.ro/web/efactura/informatii-tehnice)
 
 - **Cod Document | 	Denumire în standard |	Utilizare în România**
 - --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
