@@ -14,7 +14,7 @@ Pt asta imi trebuiesc 3 lucruri:
     obtinute prin conducta/pipe-ul de procesare/lant de conectare:
   - XML + mapare/asociere/sablon de stil(XSL de tip UBL si XSL pt tipul CII) ── transformator(XSLT) ── verificator(XSD) ──▶ UBL2.1 + CII
 
-    adica mai pe larg:    
+    adica mai pe [larg](https://reintech.io/blog/php-xslt-library-for-xml-transformations-guide)/in detaliu:
   - [date-document ex . nota_mea.xml]  +  [reguli.xsl]  ── (XSLT Processor) ──▶  [UBL 2.1 / CII XML]  ──      (schemaValidate)──▶  [Validat cu .xsd]
   - (Date brute XML)+(Mapare XSL) ── (Transformare XSLT)  ──▶  (Document semantic UBL/CII nevalidat)  ── (Verificare/Validare XSD) ──▶ **UBL/CII validat**
 
