@@ -29,4 +29,4 @@ Aici o sa plasez cateva lucruri legate de e-Factura(ANF MFP GOV RO) - a se vedea
 - [xmlValid eFactura - Invoice2 UBL2.1](https://xmlvalid.com/schemas/ro-efactura-invoice); [xmlValid: eFactura Credit-Note2 UBL2.1](https://xmlvalid.com/schemas/ro-efactura-credit-note)
 - [SaxonJS](https://www.google.com/search?q=SaxonJS&oq=SaxonJS+&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQABgeMgYIAhAAGB4yBggDEAAYHjIGCAQQABgeMgYIBRAAGB4yBggGEAAYHjIGCAcQABgeMgcICBAAGO8FMgoICRAAGIAEGKIE0gEJMTEwM2owajE1qAIIsAIB&sourceid=chrome&source=chrome.rb&ie=UTF-8); [SxonJS-Tutorial](https://github.com/Saxonica/SaxonJS-Tutorial-2021); [RO-CIUS UBL2.1](https://www.ediverse.io/en/countries/romania/ro-cius-ubl/)
 - [getMandato: ANAF eFactura](https://getmandato.dev/guides/romania-anaf/)
-- 
+- [ediVerse: ro-cius-ubl](https://www.ediverse.io/en/countries/romania/ro-cius-ubl/)
