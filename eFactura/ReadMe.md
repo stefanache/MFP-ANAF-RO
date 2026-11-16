@@ -35,3 +35,4 @@ Aici o sa plasez cateva lucruri legate de e-Factura(ANF MFP GOV RO) - a se vedea
 - [UBL2.0 -example](https://docs.oasis-open.org/ubl/os-UBL-2.0/xml/UBL-Invoice-2.0-Example.xml)
 - [Vertex RO example files](https://developer.vertexinc.com/einvoicing/docs/romanian-example-files)
 - [euInvoice: eFactura](https://www.euinvoice.app/tools/e-invoicing-checker/romania)
+- [xsdHub RO eInvoicing/eFactura](https://xsdhub.com/e-invoicing/romania)
