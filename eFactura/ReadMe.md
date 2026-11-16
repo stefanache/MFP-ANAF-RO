@@ -17,7 +17,7 @@ Aici o sa plasesz cateva lucruri legate de e-Factura(ANF MFP GOV RO)
 - [ContaZen: e-Factura(B2C,B2B)](https://docs.contazen.ro/concepts/efactura)
 - [EDICOM: eInvoicintg RO](https://edicomgroup.com/electronic-invoicing/romania)
 - [Invoice-Portal.DE: eFactura(B2C,B2B,B2G)](https://invoice-portal.de/electronic-invoice-in-romania/)
-- [GO eFactura](https://pkg.go.dev/github.com/invopop/gobl.ro.anaf/addon)
+- [pkg.ro: GO eFactura](https://pkg.go.dev/github.com/invopop/gobl.ro.anaf/addon);[payCode: Doc eFactura](https://paycode.ro/documentatie-tehnica-efactura)
 - [UBL versions](https://www.autofact-solutions.com/what-is-ubl)
 - [Peppol.eu - billing 3.0 syntax UBL -Invoice](https://docs.peppol.eu/poacc/billing/3.0/syntax/ubl-invoice/)
 - [E-Factura RO_CIUS](https://azuvio.io/glosar/e-factura);
