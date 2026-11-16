@@ -19,7 +19,7 @@ Pt asta imi trebuiesc **3** *lucruri*:
 
     • adica mai pe [larg](https://reintech.io/blog/php-xslt-library-for-xml-transformations-guide)/in detaliu:
   - [**date-document** ex . **nota_mea.xml**]  +  [***reguli.xsl***]  ── (***XSLT Processor***) ──▶  [**UBL 2.1** si  **CII**  bazate pe **XML**]  ── (***schemaValidate**)──▶  [**Docucument cu date Validat/e cu .xsd**]
-  - (**Date brute XML**) + (***Mapare XSL***) ── (***Transformare XSLT/**SCH**ematron***)  ──▶  (**Document semantic UBL/CII nevalidat**)  ── (***Verificare/Validare XSD***) ──▶ **UBL/CII validat**
+  - (**Date brute XML**) + (***Mapare XSL***) ── (***Transformare XSLT/**SCH**ematron***)  ──▶  (**Document semantic UBL/CII nevalidat**)  ── (***Verificare/Validare XSD+RO-CIUS***) ──▶ **UBL/CII validat**
 
 - **3**)...si apoi ***sablonul/template cu text si grafica-vizuala fixa gen formular/tipizat-gol***, care va fi ***asociat*** prin ***atasarea*** acestor 2 seturi de date **XML**(in format **UBL** si respectiv in format **CII**, ambele ***valide***/***validate***), obtinut la pasul anterior(**2**).
 
