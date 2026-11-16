@@ -37,3 +37,4 @@ Aici o sa plasez cateva lucruri legate de e-Factura(ANF MFP GOV RO) - a se vedea
 - [euInvoice: eFactura](https://www.euinvoice.app/tools/e-invoicing-checker/romania)
 - [xsdHub RO eInvoicing/eFactura](https://xsdhub.com/e-invoicing/romania); [Ghidul eFactura](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/Ghid_RO_eFactura.pdf); [MFP-ANAF: Specificatii tehnice](https://mfinante.gov.ro/web/efactura/informatii-tehnice)
 - [eDocumentTools: UBL2.1 for Invoicing](https://edocumenttools.com/en/standards/ubl); [UBL-viewer](https://edocumenttools.com/en/tools/ubl-viewer) pt [exemple xml descarcate din MFP-Spec.Tehnice->Validatoare pentru sintaxele UBL(schemele de validare Invoice -2 si CreditNote-2 ) si CII - 12.12.2024](https://mfinante.gov.ro/static/10/eFactura/roefacturavalidator_12122024.zip)
+sau direct descarcate din [arhiva-zip](https://mfinante.gov.ro/static/10/eFactura/roefacturavalidator_12122024.zip)
