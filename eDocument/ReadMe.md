@@ -36,7 +36,7 @@ Exista pt documentele comune sau standard deja formulare-goale/necompletate/temp
 
 În [Informațiile tehnice e-Factura](https://mfinante.gov.ro/web/efactura/informatii-tehnice) sunt validate două(2) scheme de validare de baza/.xsd sau 2 [structuri-radăcină/de baza](https://mfinante.gov.ro/static/10/eFactura/prezentare%20api%20efactura.pdf)(scheme [**XSD**](https://mfinante.gov.ro/web/efactura/informatii-tehnice)) ale standardului **UBL 2.1**:
 - FACT1: **Invoice**(***Invoice-2***). Este schema principală utilizată pentru emiterea facturilor **standard/380**, a facturilor de ***stornare/380*** (cu valori ***negative/cu minus***), a **autoFacturilor/389** și a facturilor ***rectificative/384***.
-- FCN:**CreditNote**(***CreditNote-2***). Este schema dedicată ***notelor de creditare/381***, folosită pentru **reduceri** ***comerciale*** sau ***financiare*** acordate *ulterior* facturării ori pentru *ajustarea* **bazelor de impozitare**.
+- FCN: **CreditNote**(***CreditNote-2***). Este schema dedicată ***notelor de creditare/381***, folosită pentru **reduceri** ***comerciale*** sau ***financiare*** acordate *ulterior* facturării ori pentru *ajustarea* **bazelor de impozitare**.
 
 [Tipuri](https://developer.vertexinc.com/einvoicing/docs/romanian-example-files) de documente([**Coduri**](https://developer.vertexinc.com/einvoicing/docs/invoice-type-code-mandatory-ro) **UNTDID** **1001** / **BT-3**):
 
