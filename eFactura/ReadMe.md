@@ -36,4 +36,4 @@ Aici o sa plasez cateva lucruri legate de e-Factura(ANF MFP GOV RO) - a se vedea
 - [Vertex RO example files](https://developer.vertexinc.com/einvoicing/docs/romanian-example-files)
 - [euInvoice: eFactura](https://www.euinvoice.app/tools/e-invoicing-checker/romania)
 - [xsdHub RO eInvoicing/eFactura](https://xsdhub.com/e-invoicing/romania); [Ghidul eFactura](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/Ghid_RO_eFactura.pdf); [MFP-ANAF: Specificatii tehnice](https://mfinante.gov.ro/web/efactura/informatii-tehnice)
-- [eDocumentTools: UBL2.1 for Invoicing](https://edocumenttools.com/en/standards/ubl)
+- [eDocumentTools: UBL2.1 for Invoicing](https://edocumenttools.com/en/standards/ubl); [UBL-viewer](https://edocumenttools.com/en/tools/ubl-viewer) pt []()
