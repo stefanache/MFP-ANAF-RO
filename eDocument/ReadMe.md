@@ -42,7 +42,7 @@ Exista pt documentele comune sau standard deja formulare-goale/necompletate/temp
 
 În interiorul unui fișier ***XML*** **UBL 2.1**, natura exactă a documentului este stabilită prin elementul **<cbc:InvoiceTypeCode>** (câmpul **BT-3**), conform regulilor detaliate în [Ghidul **ANAF** privind codurile facturilor](https://static.anaf.ro/static/10/Anaf/Informatii_R/Ghid%20cod%20facturi_final%20v2.9.pdf) si prevederile(ce contin [**XSL**](https://www.google.com/search?q=mfp+xsl+UBL2.1&oq=mfp+xsl+UBL2.1&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQIRgKGKABMgkIAhAhGAoYoAEyCQgDECEYChigATIHCAQQIRiPAtIBCjIwOTA0ajBqMTWoAgiwAgE&sourceid=chrome&source=chrome.rb&ie=UTF-8)-urile pt *stilare* in sens **UBL** si in sens **CII** dar si **XSD** pt *validarea* datelor **UBL**/**CII**, ambele bazate pe **XML**) [**MFP**](https://mfinante.gov.ro/web/efactura/informatii-tehnice)
 
-- **Cod Document | 	Denumire în standard |	Utilizare în România**
+- **[Cod Document](https://developer.vertexinc.com/einvoicing/docs/invoice-type-code-mandatory-ro) | 	Denumire în standard |	Utilizare în România**
 - --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 - **380**	**|** Factură comercială(**Commercial Invoice**) **|** *Factura-standard* pentru livrări de **bunuri** și **prestări de servicii**, precum și **storn***ările* cu semnul **minus**.
 - **381**	**|** Notă de creditare (**Credit Note**)	**|** Document folosit pentru acordarea de *reduceri* sau *corectarea* **sumelor** facturate-anterior(necesită schema **CreditNote-2** sau *referință la factura-inițială*).
