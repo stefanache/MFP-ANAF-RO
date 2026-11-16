@@ -32,3 +32,4 @@ Aici o sa plasez cateva lucruri legate de e-Factura(ANF MFP GOV RO) - a se vedea
 - [ediVerse: ro-cius-ubl](https://www.ediverse.io/en/countries/romania/ro-cius-ubl/)
 - [pakagist PHP UBL](https://packagist.org/?query=ubl)
 - [RO-eFactura](https://ro-efactura.ro/in-ce-camp-din-xml-e-factura-se-trece-numarul-de-inregistrare-in-registrul-comertului-j-ul/)
+- [UBL2.0 -example](https://docs.oasis-open.org/ubl/os-UBL-2.0/xml/UBL-Invoice-2.0-Example.xml)
