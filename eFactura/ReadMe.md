@@ -20,4 +20,5 @@ Aici o sa plasesz cateva lucruri legate de e-Factura(ANF MFP GOV RO)
 - [GO eFactura](https://pkg.go.dev/github.com/invopop/gobl.ro.anaf/addon)
 - [UBL versions](https://www.autofact-solutions.com/what-is-ubl)
 - [Peppol.eu - billing 3.0 syntax UBL -Invoice](https://docs.peppol.eu/poacc/billing/3.0/syntax/ubl-invoice/)
-- [E-Factura RO_CIUS](https://azuvio.io/glosar/e-factura)
+- [E-Factura RO_CIUS](https://azuvio.io/glosar/e-factura);
+- [Efactura - Doc: ISO](https://apiefactura.ro/documentatie/notiuni-efactura)
